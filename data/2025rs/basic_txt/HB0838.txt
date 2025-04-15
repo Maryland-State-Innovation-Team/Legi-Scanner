@@ -1,0 +1,712 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.             *hb0838*      
+HOUSE BILL 838  
+J2   5lr3085  
+    CF SB 854  
+By: Delegate Cullison  Delegates Cullison, Alston, Bagnall, Bhandari, Guzzone, 
+Hill, Hutchinson, S.  Johnson, Kerr, Kipke,  Lopez, Martinez, Pena –Melnyk, 
+Rosenberg, Ross, Taveras, White  Holland, Woods, and Woorman  
+Introduced and read first time: January 29, 2025  
+Assigned to: Health and Government Operations  
+Committee Report: Favorable with amendments  
+House action: Adopted  
+Read second time: March 6, 2025  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Health Occupations – Licensed Direct –Entry Midwives – Revisions  2 
+ 
+FOR the purpose of altering the scope of practice of licensed direct –entry midwives; 3 
+providing that the practice of direct –entry midwifery is independent and does not 4 
+require oversight by another health care practitioner; repealing the requirement that 5 
+licensed direct –entry midwives report certain information to the Direct –Entry 6 
+Midwifery Advisory Committee; altering the disciplinary actions that may be taken 7 
+against a licensed direct –entry midwife or an applicant for a license; continuing the 8 
+Maryland Lice nsure of Direct –Entry Midwives Act in accordance with the provisions 9 
+of the Maryland Program Evaluation Act (sunset law) by extending to a certain date 10 
+the termination provisions relating to the Act; and generally relating to licensed 11 
+direct –entry midwives .  12 
+ 
+BY repealing and reenacting, without amendments,  13 
+ Article – Health Occupations  14 
+Section 8 –6C–01(a), (d), (e), (f), and (p)  15 
+ Annotated Code of Maryland  16 
+ (2021 Replacement Volume and 2024 Supplement)  17 
+ 
+BY repealing and reenacting, with amendments,  18 
+ Article – Health Occupations  19 
+Section 8 –6C–01(n), 8 –6C–02, 8 –6C–03, 8 –6C–04(a) and (b)(2)(x), 8 –6C–08,  20 
+8–6C–10, 8 –6C–20(a), and 8 –6C–26 21 
+2 HOUSE BILL 838   
+ 
+  Annotated Code of Maryland  1 
+ (2021 Replacement Volume and 2024 Supplement)  2 
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 3 
+That the Laws of Maryland read as follows:  4 
+ 
+Article – Health Occupations  5 
+ 
+8–6C–01. 6 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  7 
+ 
+ (d) “Board” means the State Board of Nursing.  8 
+ 
+ (e) “Committee” means the Dir ect–Entry Midwifery Advisory Committee 9 
+established under § 8 –6C–11 of this subtitle.  10 
+ 
+ (f) “Health care practitioner” means:  11 
+ 
+  (1) An individual certified as a nurse –midwife or a nurse practitioner 12 
+under this title; or  13 
+ 
+  (2) A physician licensed under Ti tle 14 of this article.  14 
+ 
+ (n) (1) “Patient” means [a woman ] AN INDIVIDUAL  for whom a licensed 15 
+direct –entry midwife performs services.  16 
+ 
+  (2) “Patient” includes [a woman’s ] AN INDIVIDUAL ’S newborn for the 17 
+purpose of perinatal or postpartum care.  18 
+ 
+ (p) (1) “Practice direct –entry midwifery” means:  19 
+ 
+   (i) Providing maternity care that is consistent with a midwife’s 20 
+training, education, and experience; and  21 
+ 
+   (ii) Identifying and referring patients who require medical care to an 22 
+appropriate health care provider.  23 
+ 
+  (2) “Practice direct –entry midwifery” includes the activities described in § 24 
+8–6C–02 of this subtitle.  25 
+ 
+8–6C–02. 26 
+ 
+ (a) The practice of direct –entry midwifery includes:  27 
+ 
+  (1) Providing the necessary supervision, care, and advice to a patient 28 
+during a low –risk pregnancy, labor, delivery, and postpartum period; and  29 
+ HOUSE BILL 838  3 
+ 
+  
+  (2) Newborn care authorized under this subtitle that is provided in a 1 
+manner that is:  2 
+ 
+   (i) Consistent with national direct –entry midwifery standards; and  3 
+ 
+   (ii) Based on the ac quisition of clinical skills necessary for the care 4 
+of pregnant women and newborns, including antepartum, intrapartum, and postpartum 5 
+care.  6 
+ 
+ (b) The practice of direct –entry midwifery also includes:  7 
+ 
+  (1) Obtaining informed consent to provide services to  the patient;  8 
+ 
+  (2) Discussing:  9 
+ 
+   (i) Any general risk factors associated with the services to be 10 
+provided;  11 
+ 
+   (ii) Any specific risk factors pertaining to the health and 12 
+circumstances of the individual patient;  13 
+ 
+   (iii) Conditions that preclude care by a licensed direct –entry midwife; 14 
+and 15 
+ 
+   (iv) The conditions under which consultation, transfer of care, or 16 
+transport of the patient must be implemented;  17 
+ 
+  (3) Obtaining a health history of the patient and performing a physical 18 
+examination;  19 
+ 
+  (4) Developing a written plan of care specific to the patient, to ensure 20 
+continuity of care throughout the antepartum, intrapartum, and postpartum periods, that 21 
+includes:  22 
+ 
+   (i) A plan for the management of any specific risk factors pertaining 23 
+to the individu al health and circumstances of the individual patient; and  24 
+ 
+   (ii) A plan to be followed in the event of an emergency, including a 25 
+plan for transportation;  26 
+ 
+  (5) Evaluating the results of patient care;  27 
+ 
+  (6) Consulting and collaborating with a health ca re practitioner regarding 28 
+the care of a patient, and referring and transferring care to a health care provider, as 29 
+required;  30 
+ 
+4 HOUSE BILL 838   
+ 
+   (7) Referral of all patients, within 72 hours after delivery, to a pediatric 1 
+health care practitioner for care of the newborn;  2 
+ 
+  (8) As approved by the Board:  3 
+ 
+   (i) Obtaining and administering medications; and  4 
+ 
+   (ii) Obtaining and using equipment and devices;  5 
+ 
+  (9) Obtaining appropriate screening and testing, including laboratory 6 
+tests, urinalysis, and ultrasound;  7 
+ 
+  (10) Providing [prenatal ] care during the antepartum period, with 8 
+consultation or referral as required;  9 
+ 
+  (11) Providing care during the intrapartum period, including:  10 
+ 
+   (i) Monitoring and evaluating the condition of the patient and fetus;  11 
+ 
+   (ii) [At the onset of active labor notifying the pediatric health care 12 
+practitioner that delivery is imminent;  13 
+ 
+   (iii)] Performing emergency procedures, including:  14 
+ 
+    1. Administering approved medications;  15 
+ 
+    2. Administering intravenous fluids for stabilization;  16 
+ 
+    3. Performing an emergency episiotomy; and  17 
+ 
+    4. Providing care while on the way to a hospital under 18 
+circumstances in which emergency medical services have not been activated;  19 
+ 
+   [(iv)] (III) Activating emergency medical services for an emergency;  20 
+and 21 
+ 
+   [(v)] (IV) Delivering in an out –of–hospital setting;  22 
+ 
+  (12) Participating in peer review as required under § 8 –6C–18(e)(2) of this 23 
+subtitle;  24 
+ 
+  (13) Providing care during the postpartum period, including:  25 
+ 
+   (i) Suturing of first and second degree perineal or labial lacerations, 26 
+or suturing of an episiotomy with the administration of a local anesthetic; and  27 
+ 
+ HOUSE BILL 838  5 
+ 
+    (ii) Making further contact with the patient within 48 hours, within 1 
+2 weeks, and at 6 weeks after the delivery to assess for hemorrh age, preeclampsia, 2 
+thrombo –embolism, infection, and emotional well –being;  3 
+ 
+  (14) Providing routine care for the newborn for up to 72 hours after delivery, 4 
+exclusive of administering immunizations, including:  5 
+ 
+   (i) Immediate care at birth, including resuscitating as needed, 6 
+performing a newborn examination, and administering intramuscular vitamin K and eye 7 
+ointment for prevention of ophthalmia neonatorum;  8 
+ 
+   (ii) Assessing newborn feeding and hydration;  9 
+ 
+   (iii) Performing metabolic screening and re porting on the screening 10 
+in accordance with the regulations related to newborn screenings that are adopted by the 11 
+Department;  12 
+ 
+   (iv) Performing critical congenital heart disease screening and 13 
+reporting on the screening in accordance with the regulations related to newborn 14 
+screenings that are adopted by the Department;  15 
+ 
+   (v) If unable to perform the screening required under item (iii) or (iv) 16 
+of this item, referring the newborn to a pediatric health care practitioner to perform the 17 
+screening within 24 to  48 hours after delivery; and  18 
+ 
+   (vi) Referring the infant to an audiologist for a hearing screening in 19 
+accordance with the regulations related to newborn screenings that are adopted by the 20 
+Department;  21 
+ 
+  (15) [Within 24 hours after delivery, notifying a pediatric health care 22 
+practitioner of the delivery;  23 
+ 
+  (16)] Within 72 hours after delivery:  24 
+ 
+   (i) Transferring health records to the pediatric health care 25 
+practitioner, including documentation of the performance of the screenings required under 26 
+item (14 )(iii) and (iv) of this subsection; and  27 
+ 
+   (ii) Referring the newborn to a pediatric health care practitioner;  28 
+ 
+  [(17)] (16)  Providing the following care of the newborn beyond the first 72 29 
+hours after delivery:  30 
+ 
+   (i) Weight checks and general observati on of the newborn’s activity, 31 
+with abnormal findings communicated to the newborn’s pediatric health care practitioner;  32 
+ 
+   (ii) Assessment of newborn feeding and hydration; and  33 
+6 HOUSE BILL 838   
+ 
+  
+   (iii) [Breastfeeding ] LACTATION  support and counseling; and  1 
+ 
+  [(18)] (17)  Providing limited services to the patient after the postpartum 2 
+period, including:  3 
+ 
+   (i) [Breastfeeding ] LACTATION  support and counseling; and  4 
+ 
+   (ii) Counseling and referral for all family planning methods.  5 
+ 
+ (c) The practice of direct –entry midwifery does not include:  6 
+ 
+  (1) Pharmacological induction or augmentation of labor or artificial 7 
+rupture of membranes prior to the onset of labor;  8 
+ 
+  (2) Surgical delivery or any surgery except an emergency episiotomy;  9 
+ 
+  (3) Use of forceps or vacuum extractor;  10 
+ 
+  (4) Except for the administration of a local anesthetic, administration of an 11 
+anesthetic;  12 
+ 
+  (5) Administration of any kind of narcotic analgesic; or  13 
+ 
+  (6) Administration of any prescription medication in a manner that 14 
+violates this subtitle.  15 
+ 
+ (D) EXCE PT FOR A TRANSFER RE QUIRED UNDER § 8–6C–03 OF THIS  16 
+SUBTITLE OR A CONSUL TATION REQUIRED UNDE R § 8–6C–04 OF THIS SUBTITLE , 17 
+THE  THE PRACTICE OF DIRECT –ENTRY MIDWIFERY IS I NDEPENDENT AND DOES NOT 18 
+REQUIRE OVERSIGHT BY  ANOTHER HEALTH CARE PRACTITIONER . 19 
+ 
+8–6C–03. 20 
+ 
+ A licensed direct –entry midwife may not assume or continue to take responsibility 21 
+for a patient’s pregnancy and birth care and shall arrange for the orderly transfer of care 22 
+to a health care practitioner for a patient who is already under the care of the licensed 23 
+direct –entry midwife, if any of the following disorders or situations is found to be present 24 
+at the initial interview or if any of the following disorders or situations occur as prenatal 25 
+care proceeds:  26 
+ 
+  (1) Diabetes mellitus, including uncon trolled gestational diabetes;  27 
+ 
+  (2) Hyperthyroidism treated with medication;  28 
+ 
+  (3) Uncontrolled hypothyroidism;  29 
+ HOUSE BILL 838  7 
+ 
+  
+  (4) Epilepsy with seizures or antiepileptic drug use during the previous 12 1 
+months;  2 
+ 
+  (5) Coagulation disorders;  3 
+ 
+  (6) Chronic pulmonary disease;  4 
+ 
+  (7) Heart disease in which there are arrhythmias or murmurs except when, 5 
+after evaluation, it is the opinion of a physician licensed under Title 14 of this article or a 6 
+licensed nurse certified as a nurse –midwife or a nurse practitioner under t his title that 7 
+midwifery care may proceed;  8 
+ 
+  (8) Hypertension, including pregnancy –induced hypertension (PIH);  9 
+ 
+  (9) Renal disease;  10 
+ 
+  (10) Except as otherwise provided in § 8 –6C–04(a)(11) of this subtitle, Rh 11 
+sensitization with positive antibody titer;  12 
+ 
+  (11) (10) Previous uterine surgery, including a cesarean section or 13 
+myomectomy;  14 
+ 
+  (12) (11) Indications that the fetus has died in utero;  15 
+ 
+  (13) (12) Premature labor (gestation less than 37 weeks);  16 
+ 
+  (14) (13) Multiple gestation;  17 
+ 
+  (15) (14) Noncephalic presentation at or after 38 weeks;  18 
+ 
+  (16) (15) Placenta previa or abruption;  19 
+ 
+  (17) (16) Preeclampsia;  20 
+ 
+  (18) (17) [Severe anemia, defined as hemoglobin less than 10 g/dL : 21 
+ 
+   (I) THAT HAS BEEN MEASURE D AFTER TREATMENT ; OR 22 
+ 
+   (II) BASED ON BLOOD TESTS PERFORME D AT OR AFTER 36 23 
+WEEKS ; 24 
+ 
+  (19)] (18)  Uncommon diseases and disorders, including Addison’s disease, 25 
+Cushing’s disease, systemic lupus erythematosus, antiphospholipid syndrome, 26 
+scleroderma, rheumatoid arthritis, periarteritis nodosa, AND  Marfan’s syndrome [, and 27 
+other systemic and rare diseases and disorders ]; 28 
+8 HOUSE BILL 838   
+ 
+  
+  [(20)] (19)  AIDS/HIV;  1 
+ 
+  [(21)] (20)  Hepatitis [A through G and non –A through G ]; 2 
+ 
+  [(22)] (21)  Acute toxoplasmosis infection, if the patient is symptomatic;  3 
+ 
+  [(23)] (22)  Acute  Rubella infection during pregnancy;  4 
+ 
+  [(24)] (23)  Acute cytomegalovirus infection, if the patient is symptomatic;  5 
+ 
+  [(25)] (24)  Acute Parvovirus infection, if the patient is symptomatic;  6 
+ 
+  [(26)] (25)  Alcohol abuse, substance abuse, or prescription abuse during 7 
+pregnancy;  8 
+ 
+  [(27)] (26)  Continued daily tobacco use into the second trimester;  9 
+ 
+  [(28)] (27)  Thrombosis;  10 
+ 
+  [(29)] (28)  Inflammatory bowel disease that is not in remission;  11 
+ 
+  [(30)] (29)  Primary genital herpes simplex virus infection durin g the third 12 
+trimester or active genital herpes lesions at the time of labor;  13 
+ 
+  [(31) (30)  Significant fetal congenital anomaly THAT DIRECTLY IMPACT S 14 
+THE BIRTHING PROCESS  OR REQUIRES IMMEDIAT E EMERGENCY CARE , AS 15 
+DETERMINED BY THE BOARD IN REGULATIONS ; 16 
+ 
+  (32)] (30) (31)  Ectopic pregnancy; OR 17 
+ 
+  [(33) Prepregnancy body mass index (BMI) of less than 18.5 or 35 or more; or  18 
+ 
+  (34)] (31) (32)  Post term maturity (gestational age 42 0/7 weeks and 19 
+beyond).  20 
+ 
+8–6C–04. 21 
+ 
+ (a) A licensed direct –entry midwife shall con sult with a health care practitioner, 22 
+and document the consultation, the recommendations of the consultation, and the 23 
+discussion of the consultation with the client, if any of the following conditions are present 24 
+during [prenatal ] THE COURSE OF  care:  25 
+ 
+  (1) Significant mental disease, including depression, bipolar disorder, 26 
+schizophrenia, and other conditions that impair the ability of the patient to participate 27 
+ HOUSE BILL 838  9 
+ 
+ effectively in the patient’s care or that require the use of psychotropic drugs to control the  1 
+condition;  2 
+ 
+  (2) Second or third trimester bleeding;  3 
+ 
+  (3) Intermittent use of alcohol into the second trimester;  4 
+ 
+  (4) Asthma;  5 
+ 
+  (5) Diet–controlled gestational diabetes;  6 
+ 
+  (6) History of genetic problems, intrauterine death after 20 weeks’ 7 
+gestation, or stillbirth;  8 
+ 
+  (7) Abnormal pap smear;  9 
+ 
+  (8) Possible ectopic pregnancy;  10 
+ 
+  (9) Tuberculosis;  11 
+ 
+  (10) Controlled hypothyroidism, being treated with thyroid replacement and 12 
+euthyroid, and with thyroid test numbers in the normal range;  13 
+ 
+  (11) Rh sensitization with positive antibody titer;  14 
+ 
+  (12) Breech presentation between 35 and 38 weeks;  15 
+ 
+  (13) Transverse lie or other abnormal presentation between 35 and 38 16 
+weeks;  17 
+ 
+  (14) Premature rupture of membranes at 37 weeks or less;  18 
+ 
+  (15) Small fo r gestational age or large for gestational age fetus;  19 
+ 
+  (16) Polyhydramnios or oligohydramnios;  20 
+ 
+  (17) Previous LEEP procedure or cone biopsy;  21 
+ 
+  (18) Previous obstetrical problems, including uterine abnormalities, 22 
+placental abruption, placenta accreta, obstetric hemorrhage, incompetent cervix, or 23 
+preterm delivery for any reason;  24 
+ 
+  (19) Postterm maturity (41 0/7 to 6/7 weeks gestational age);  25 
+ 
+  (20) Inflammatory bowel disease, in remission; [or] 26 
+ 
+10 HOUSE BILL 838   
+ 
+   (21) Active genital herpes lesions during pregnancy EXC EPT AS REQUIRED 1 
+BY § 8–6C–03(29)  OF THIS SUBTITLE ; 2 
+ 
+  (22) SEVERE ANEMIA , AS DEFINED AS HEMOGL OBIN LESS THAN 10 3 
+G/DL AND UNRESPONSIVE TO TREATMENT ; 4 
+ 
+  (23)  (22) PREPREGNANCY BODY MAS S INDEX (BMI)  OF LESS THAN 5 
+18.5  OR 35 OR MORE ; OR 6 
+ 
+  (24)  (23) SIGNIFICANT  FETAL CONGENITAL ANO MALY . 7 
+ 
+ (b) Subject to subsection (c) of this section, a licensed direct –entry midwife shall 8 
+arrange immediate emergency transfer to a hospital if:  9 
+ 
+  (2) The patient or newborn is determined to have any of the following 10 
+conditions dur ing labor, delivery, or the immediate postpartum period:  11 
+ 
+   (x) [Obvious ] LIFE–THREATENING  SIGNIFICANT  congenital 12 
+anomalies THAT DIRECTLY AFFECT  DELIVERY OR IMMEDIAT E POSTPARTUM CARE OR  13 
+REQUIRE IMMEDIATE EM ERGENCY CARE , AS DETERMINED BY THE  BOARD IN 14 
+REGUL ATIONS ; 15 
+ 
+8–6C–08. 16 
+ 
+ (a) A licensed direct –entry midwife shall develop a general written plan for their 17 
+practice for:  18 
+ 
+  (1) Emergency transfer of a patient, newborn, or both;  19 
+ 
+  (2) Transport of a newborn to a newborn nursery or neonatal intensive care 20 
+nursery; and  21 
+ 
+  (3) Transport of a patient to an appropriate hospital with a labor and 22 
+delivery unit.  23 
+ 
+ (b) The Committee shall review and recommend approval to the Board of the plan 24 
+required under subsection (a) of this section.  25 
+ 
+ (c) [The plan required under subsection (a) of this section shall be provided to any 26 
+hospital identified in the plan.  27 
+ 
+ (d)] (1) In addition to the general written plan required under subsection (a) of 28 
+this section, a licensed direct –entry midwife shall prepare a plan that is sp ecific to each 29 
+patient and share the plan with the patient.  30 
+ 
+  (2) The plan required under paragraph (1) of this subsection shall:  31 
+ HOUSE BILL 838  11 
+ 
+  
+   (i) Include procedures and processes to be undertaken in the event 1 
+of an emergency for the mother, the newborn, or both;  2 
+ 
+   (ii) Identify the hospital closest to the address of the planned home 3 
+birth that has a labor and delivery unit;  4 
+ 
+   (iii) Include a care plan for the newborn; and  5 
+ 
+   (iv) Identify the pediatric health care practitioner who will be 6 
+[notified after deli very in accordance with § 8 –6C–02(b)(15) of this subtitle to receive the 7 
+transfer of care of the newborn ] RECEIVING THE HEALTH  RECORDS OF THE NEWBO RN 8 
+IN ACCORDANCE WITH § 8–6C–02(B)(15)  OF THIS SUBTITLE . 9 
+ 
+ [(e)] (D) (1) The Board, in consultation with stak eholders, shall develop a 10 
+standard form for use in all cases in which a transfer occurs during prenatal care, labor, or 11 
+postpartum.  12 
+ 
+  (2) The form shall include the medical information needed by the health 13 
+care practitioner receiving the patient.  14 
+ 
+ [(f)] (E) [(1)] After a decision to transport a patient has been made, the 15 
+licensed direct –entry midwife shall:  16 
+ 
+   [(i)] (1) Call the receiving health care provider;  17 
+ 
+   [(ii)] (2) Inform the health care provider of the incoming patient; 18 
+and 19 
+ 
+   [(iii) (3) Accompany the patient to the hospital . IF DETERMINED 20 
+TO BE APPROPRIATE BY  THE LICENSED DIRECT –ENTRY MIDWIFE AND TH E 21 
+RECEIVING HEALTH CAR E PROVIDER ; AND] 22 
+ 
+  [(2)] (3) (4) [On arrival at the hospital, the licensed direct –entry midwife 23 
+shall provide ] PROVIDE :  24 
+ 
+   (i) To the staff of the hospital:  25 
+ 
+    1. The standard form developed under subsection (e) (D) of 26 
+this section; and  27 
+ 
+    2. The [complete ] medical records of the patient  OR 28 
+NEWBORN , AS DETERMINED BY THE  BOARD IN REGULATIONS AND AS REQUESTED 29 
+BY THE R ECEIVING HEALTH CARE  PROVIDER ; and  30 
+ 
+12 HOUSE BILL 838   
+ 
+    (ii) To the accepting health care practitioner, a verbal summary of 1 
+the care provided to the patient by the licensed direct –entry midwife.  2 
+ 
+8–6C–10. 3 
+ 
+ (a) [On or before October 1 each year, a licensed direct –entry mid wife shall report 4 
+to the Committee, in a form specified by the Board, the following information regarding 5 
+cases in which the licensed direct –entry midwife assisted during the previous fiscal year 6 
+when the intended place of birth at the onset of care was an  out–of–hospital setting:  7 
+ 
+  (1) The total number of patients served as primary caregiver at the onset 8 
+of care;  9 
+ 
+  (2) The number, by county, of live births attended as primary caregiver;  10 
+ 
+  (3) The number, by county, of cases of fetal demise, infant deaths, and 11 
+maternal deaths attended as primary caregiver at the discovery of the demise or death;  12 
+ 
+  (4) The number of women whose primary care was transferred to another 13 
+health care practitioner during the antepartum period and the reason for transfer;  14 
+ 
+  (5) The number, reason for, and outcome of each nonemergency hospital 15 
+transfer during the intrapartum or postpartum period;  16 
+ 
+  (6) The number, reason for, and outcome of each urgent or emergency 17 
+transport of an expectant mother in the antepartum period;  18 
+ 
+  (7) The number, reason for, and outcome of each urgent or emergency 19 
+transport of an infant or mother during the intrapartum or immediate postpartum period;  20 
+ 
+  (8) The number of planned out –of–hospital births at the onset of labor and 21 
+the number of birth s completed in an out –of–hospital setting;  22 
+ 
+  (9) A brief description of any complications resulting in the morbidity or 23 
+mortality of a mother or a neonate; and  24 
+ 
+  (10) Any other information required by the Board in regulations.  25 
+ 
+ (b) The Board shall send a written notice of noncompliance to each licensee who 26 
+fails to meet the reporting requirements under subsection (a) of this section.  27 
+ 
+ (c) A licensed direct –entry midwife who fails to comply with the reporting 28 
+requirements under this section shall be proh ibited from license renewal until the 29 
+information required under subsection (a) of this section is reported.  30 
+ 
+ (d) The Committee shall maintain the confidentiality of any report submitted 31 
+under subsection (a) of this section.  32 
+ HOUSE BILL 838  13 
+ 
+  
+ (e)] Notwithstanding any oth er provision of law, a licensed direct –entry midwife 1 
+shall be subject to the same reporting requirements as other health care practitioners who 2 
+provide care to individuals in accordance with this title  REPORTING REQUIREMEN TS 3 
+ADOPTED BY THE BOARD IN REGULAT IONS IN CONSULTATION  WITH THE 4 
+COMMITTEE AND ANY OTH ER STAKEHOLDERS DETE RMINED APPROPRIATE B Y THE 5 
+BOARD . 6 
+ 
+ [(f)] (B) A licensed direct –entry midwife attending an out –of–hospital delivery 7 
+shall:  8 
+ 
+  (1) For any live birth, complete and submit a birth certific ate in accordance 9 
+with § 4 –208 of the Health – General Article; and  10 
+ 
+  (2) For any death, make all medical records available and communicate 11 
+relevant circumstances of the death to the individual responsible for completing the 12 
+certificate of death under § 4–212 or § 4 –213 of the Health – General Article.  13 
+ 
+8–6C–20. 14 
+ 
+ (a) Subject to the hearing provisions of § 8 –317 of this title, the Board may deny 15 
+a license OR GRANT A LICENSE , INCLUDING A LICENSE SUBJECT TO A REPRIMA ND, 16 
+PROBATION , OR SUSPENSION , to an appli cant, reprimand a licensee, place a licensee on 17 
+probation, or suspend or revoke [a] THE license OF A LICENSEE  if the applicant or licensee:  18 
+ 
+  (1) Fraudulently or deceptively obtains or attempts to obtain a license for 19 
+the applicant or for another;  20 
+ 
+  (2) Fraudulently or deceptively uses a license;  21 
+ 
+  (3) Is disciplined by a licensing, military, or disciplinary authority in the 22 
+State or in any other state or country or is convicted or disciplined by a court in the State 23 
+or in any other state or country for an act that would be grounds for disciplinary action 24 
+under the Board’s disciplinary statutes;  25 
+ 
+  (4) Is convicted of or pleads guilty or nolo contendere to a felony or to a 26 
+crime involving moral turpitude, whether or not any appeal or other proceeding is p ending 27 
+to have the conviction or plea set aside;  28 
+ 
+  (5) Willfully and knowingly:  29 
+ 
+   (i) Files a false report or record of an individual under the licensee’s 30 
+care;  31 
+ 
+   (ii) Gives any false or misleading information about a material 32 
+matter in an employment application;  33 
+14 HOUSE BILL 838   
+ 
+  
+   (iii) Fails to file or record any health record that is required by law;  1 
+ 
+   (iv) Obstructs the filing or recording of any health record as required 2 
+by law; or  3 
+ 
+   (v) Induces another person to fail to file or record any health record 4 
+as required by law;  5 
+ 
+  (6) Knowingly does any act that has been determined by the Board, in its 6 
+regulations, to exceed the scope of practice authorized to the individual under this subtitle;  7 
+ 
+  (7) Provides professional services while:  8 
+ 
+   (i) Under the influence of alcohol; or  9 
+ 
+   (ii) Using any narcotic or controlled dangerous substance, as defined 10 
+in § 5 –101 of the Criminal Law Article, or other drug that is in excess of therapeutic 11 
+amounts or without valid medical indication;  12 
+ 
+  (8) Does an act that i s inconsistent with generally accepted professional 13 
+standards in the practice of direct –entry midwifery;  14 
+ 
+  (9) Is grossly negligent in the practice of direct –entry midwifery;  15 
+ 
+  (10) Has violated any provision of this title;  16 
+ 
+  (11) Submits a false statem ent to collect a fee;  17 
+ 
+  (12) Is physically or mentally incompetent;  18 
+ 
+  (13) Knowingly fails to report suspected child abuse in violation of § 5 –704 19 
+of the Family Law Article;  20 
+ 
+  (14) Except in an emergency life –threatening situation where it is not 21 
+feasib le or practicable, fails to comply with the Centers for Disease Control and 22 
+Prevention’s guidelines on universal precautions;  23 
+ 
+  (15) Is in independent practice and fails to display the notice required under 24 
+§ 8–6C–23 of this subtitle;  25 
+ 
+  (16) Is habituall y intoxicated;  26 
+ 
+  (17) Is addicted to, or habitually abuses, any narcotic or controlled 27 
+dangerous substance as defined in § 5 –101 of the Criminal Law Article;  28 
+ 
+  (18) Fails to cooperate with a lawful investigation conducted by the Board;  29 
+ HOUSE BILL 838  15 
+ 
+  
+  (19) Is expelled from the rehabilitation program established pursuant to § 1 
+8–208 of this title for failure to comply with the conditions of the program;  2 
+ 
+  (20) Engages in conduct that violates the professional code of ethics;  3 
+ 
+  (21) Is professionally incompetent ; 4 
+ 
+  (22) Practices direct –entry midwifery without a license, before obtaining or 5 
+renewing a license, including any period when the license has lapsed;  6 
+ 
+  (23) After failing to renew a license or after a license has lapsed, commits 7 
+any act that would be gr ounds for disciplinary action under this section;  8 
+ 
+  (24) Violates regulations adopted by the Board or an order from the Board;  9 
+ 
+  (25) Performs an act that is beyond the licensee’s knowledge and skills;  10 
+ 
+  (26) Fails to submit to a criminal history record s check in accordance with § 11 
+8–303 of this title;  12 
+ 
+  (27) When acting in a supervisory position, directs another licensed  13 
+direct –entry midwife to perform an act that is beyond the licensed direct –entry midwife’s 14 
+knowledge and skills; or  15 
+ 
+  (28) Fails to f ile a report required under this subtitle.  16 
+ 
+8–6C–26. 17 
+ 
+ Subject to the evaluation and reestablishment provisions of the Maryland Program 18 
+Evaluation Act, and subject to the termination of this subtitle under § 8 –802 of this title, 19 
+this subtitle and all regul ations adopted under this subtitle shall terminate and be of no 20 
+effect after July 1, [2025] 2030 . 21 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June 22 
+1, 2025.  23 
+ 

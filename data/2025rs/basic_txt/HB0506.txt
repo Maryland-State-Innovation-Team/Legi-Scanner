@@ -1,0 +1,1380 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTING LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.  
+         Italics indicate opposite chamber/conference committee amendments.             *hb0506*      
+HOUSE BILL 506  
+M2, M4, M1    (5lr0360 ) 
+ENROLLED BILL  
+— Environment and Transportation/Education, Energy, and the Environment  — 
+Introduced by The Speaker (By Request – Administration) and Delegates Allen, 
+Amprey, Bhandari, Boafo, Cardin, Edelson, Fennell, Foley, Harris, 
+Hornberger, Jackson, D.  Jones, Kerr, J.  Long, Palakovich  Carr, Phillips, 
+Ruff, Simpson, Stein, Taylor, Turner, Vogel, Williams,  Woods, and Woorman  
+Woorman, Behler, Boyce, Guyton, Healey, Lehman, R.  Lewis, Ruth, Terrasa, 
+and Ziegler  
+ 
+Read and Examined by Proofreaders:  
+ 
+_______________________________________________  
+Proofreader.  
+_______________________________________________  
+Proofreader.  
+ 
+Sealed with the Great Seal and presented to the Governor, for his approval this  
+  
+_______ day of _______________ at ________________________ o’clock, ________M.  
+  
+______________________________________________  
+Speaker .  
+ 
+CHAPTER ______  
+ 
+AN ACT  concerning  1 
+ 
+Chesapeake Bay Legacy Act  2 
+ 
+FOR the purpose of establishing the Maryland Leaders in Environmentally Engaged 3 
+Farming (LEEF) Program; establishing the Maryland Leaders in Environmentally 4 
+Engaged Farming (LEEF) Program Fund as a special, nonlaps ing fund; altering the 5 
+definition of “healthy soils” for purposes of the Maryland Healthy Soils Program; 6 
+exempting certain holders of certain fishing licenses from the requirement to obtain 7 
+a food establishment license from the Maryland Department of Healt h; establishing 8 
+the Water Quality Monitoring Program; altering provisions of law regarding 9 
+fisheries management plans, including the entities required to be consulted, 10 
+2 HOUSE BILL 506   
+ 
+ circumstances under which a plan may be prepared, authorizing rather than 1 
+requiring that  certain measures be adopted by regulation, and the location of certain 2 
+public hearings; altering application and public informational meeting requirements 3 
+and authorizations for certain submerged land or water column leases; altering 4 
+reporting requirement s for the leaseholder of certain aquaculture and submerged 5 
+land leases; authorizing the Department of Natural Resources to lease certain land 6 
+to a person implementing practices that support healthy soils and regenerative 7 
+practices and traditions; establish ing a process to develop a plan for permitting and 8 
+expediting the permitting of certain projects under the Whole Watershed Restoration 9 
+Partnership; requiring the Department of the Environment, by a certain date, to 10 
+authorize certain projects to be eligible  to generate water quality trading credits and 11 
+develop a process for certifying the credits; providing that certain provisions of law 12 
+regarding stream and floodplain restoration projects may not be construed to apply 13 
+to permit or license applications submi tted before a certain date; and generally 14 
+relating to the Chesapeake and Atlantic Coastal Bays watershed.  15 
+ 
+BY adding to  16 
+ Article – Agriculture  17 
+Section 2 –2401 through 2 –2405 to be under the new subtitle “Subtitle 24. Maryland 18 
+Leaders in Environmentally Engaged Farming (LEEF) Program”  19 
+ Annotated Code of Maryland  20 
+ (2016 Replacement Volume and 2024 Supplement)  21 
+ 
+BY repealing and reenacting, with amendments,  22 
+ Article – Agriculture  23 
+ Section 2 –1901(a) and 8 –706 24 
+ Annotated Code of Maryland  25 
+ (2016 Replacement Vol ume and 2024 Supplement)  26 
+ 
+BY repealing and reenacting, without amendments,  27 
+ Article – Health – General  28 
+ Section 21 –305(a)  29 
+ Annotated Code of Maryland  30 
+ (2023 Replacement Volume and 2024 Supplement)  31 
+ 
+BY repealing and reenacting, with amendments,  32 
+ Article – Health – General  33 
+ Section 21 –305(b)  34 
+ Annotated Code of Maryland  35 
+ (2023 Replacement Volume and 2024 Supplement)  36 
+ 
+BY adding to  37 
+ Article – Natural Resources  38 
+Section 3 –1101 to be under the new subtitle “Subtitle 11. Water Quality Monitoring 39 
+Program”; 4 –11A–09(h); and 5 –2101 and 5 –2102 to be under the new subtitle 40 
+“Subtitle 21. Agriculture Leases on Department Land”  41 
+ Annotated Code of Maryland  42 
+ HOUSE BILL 506  3 
+ 
+  (2023 Replacement Volume and 2024 Supplement)  1 
+ 
+BY repealing and reenacting, with amendments,  2 
+ Article – Natural Resourc es 3 
+ Section 4 –215, 4 –11A–09(g), 4 –11A–14, and 8 –2B–02 4 
+ Annotated Code of Maryland  5 
+ (2023 Replacement Volume and 2024 Supplement)  6 
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 7 
+That the Laws of Maryland read as follows:  8 
+ 
+Article – Agriculture  9 
+ 
+SUBTITLE 24. MARYLAND LEADERS IN ENVIRONMENTALLY ENGAGED FARMING 10 
+(LEEF)  PROGRAM . 11 
+ 
+2–2401.  12 
+ 
+ (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE  THE MEANINGS 13 
+INDICATED . 14 
+ 
+ (B) “COMMUNITY BEST PRACTI CE” MEANS A FARM ’S OR FARMER ’S 15 
+DEMONSTRATED ENGAGEMENT WITH MARYLAND COMMUNITIES AS IT RELATES TO : 16 
+ 
+  (1) THE PRODUCTION , SALE , OR DISTRIBUTION OF MARYLAND FARM 17 
+PRODUCTS ; OR 18 
+ 
+  (2) PROVIDING SERVICE TO AN ORGANIZATION WHOS E FOCUS IS 19 
+ADVANCING MARYLAND ’S AGRICULTURAL INDUS TRY, ENVIRONMENTAL OUTCOM ES, 20 
+CONSERVATION PRACTIC ES, OR AGRICULTURAL RESE ARCH AND EDUCATION . 21 
+ 
+ (C) “CONSERVATION PRACTICE ” MEANS AN AGRICULTURA L PRACTICE 22 
+THAT : 23 
+ 
+  (1) PREVENTS OR TREATS PR OBLEMS WITH SOIL , WATER , AIR, PLANT , 24 
+OR ANIMAL SOURCES OF  POLLUTION ; AND 25 
+ 
+  (2) HAS A STANDARD M ETHOD OF CONSTRUCTIO N OR APPLICATION 26 
+THAT IS DEVELOPED BY  THE NATURAL RESOURCES CONSERVATION SERVICE AND 27 
+LISTED IN THE SERVICE’S MARYLAND FIELD OFFICE TECHNICAL GUIDE . 28 
+ 
+ (D) (1) “FIXED NATURAL BUFFER ” MEANS A STRIP OF MAI NTAINED , 29 
+NATIVE VEGETATION AL ONGSID E A BODY OF WATER . 30 
+ 
+4 HOUSE BILL 506   
+ 
+   (2) “FIXED NATURAL BUFFER ” INCLUDES THE FOLLOWI NG FIXED 1 
+NATURAL FILTER PRACT ICES: 2 
+ 
+   (I) THE PLANTING OF RIPAR IAN FOREST BUFFERS ; 3 
+ 
+   (II) THE PLANTING OF RIPAR IAN HERBACEOUS COVER ; 4 
+ 
+   (III) TREE PLANTINGS THAT A RE ON AGRICULTURAL LAND ; AND 5 
+ 
+   (IV) WETLAND RESTORATION .  6 
+ 
+  (3) “FIXED NATURAL BUFFER ” DOES NOT INCLUDE PAS TURE 7 
+MANAGEMENT , AS DESCRIBED UNDER § 8–701( D)(5) OF THIS ARTICLE . 8 
+ 
+ (E) “100–FOOT TIDAL BUFFER ” MEANS ANY LAND WITHI N 100 FEET OF : 9 
+ 
+  (1) THE MEAN HIGH WATER L INE O F TIDAL WATERS ; 10 
+ 
+  (2) THE EDGE OF EACH BANK  OF A TRIBUTARY TIDAL  STREAM ; OR  11 
+ 
+  (3) THE LANDWARD BOUNDARY  OF A TIDAL WETLAND . 12 
+ 
+ (F) “PROGRAM ” MEANS THE MARYLAND LEADERS IN ENVIRONMENTALLY 13 
+ENGAGED FARMING (LEEF)  PROGRAM ESTABLISHED U NDER § 2–2402  OF THIS 14 
+SUBTITLE . 15 
+ 
+2–2402.  16 
+ 
+ (A) THERE IS A MARYLAND LEADERS IN ENVIRONMENTALLY ENGAGED 17 
+FARMING (LEEF)  PROGRAM . 18 
+ 
+ (B) THE PURPOSES OF THE PROGRAM ARE TO : 19 
+ 
+  (1) INVIGORATE STRATEGIES  TO: 20 
+ 
+   (I) REDUCE NUTRIENTS IN S UPPORT OF CHESAPEAKE BAY 21 
+WATERSHED RESTORATIO N; 22 
+ 
+   (II) MITIGATE FARM EMISSIO NS AND INCREASE CARB ON 23 
+SEQUESTRATION IN ACC ORDANCE WITH MARYLAND ’S CLIMATE POLLUTION 24 
+REDUCTION PLAN; AND 25 
+ 
+   (III) ALIGN ENVIRONMENTAL G OALS AND INITIATIVES  OF THE 26 
+DEPARTMENT AND THE STATE WHILE ENHANCING  FARM PROFITABILITY ; 27 
+ HOUSE BILL 506  5 
+ 
+  
+  (2) PROVIDE PRODUCERS WIT H GREATER INCENTIVES  TO 1 
+VOLUNTARILY PARTICIP ATE IN THE ADOPTION OF MULTIPLE CONSERVA TION 2 
+PRACTICES AND COMMUN ITY BEST PRACTICES W ITHIN INDIVIDUAL AGR ICULTURAL 3 
+OPERATIONS OR ACROSS  MULTIPLE OPERATIONS THAT ARE IN CLOSE PR OXIMITY T O 4 
+ONE ANOTHER ; 5 
+ 
+  (3) ESTABLISH TIERS OF RE COGNITION FOR PRODUC ERS TO BE 6 
+EVALUATED FOR PROGRAM CERTIFICATION ; AND 7 
+ 
+  (4) PROVIDE STATE FUNDS TO INCENT IVIZE THE COORDINATE D 8 
+ADOPTION OF CONSERVA TION PRACTICES AND C OMMUNITY BEST PRACTI CES TO 9 
+ACHIEVE ENVIRONME NTAL , SOCIAL , AND CLIMATE RESILIEN CY BENEFITS AND 10 
+NUTRIENT AND SEDIMEN T REDUCTION . 11 
+ 
+2–2403.  12 
+ 
+ TO CARRY OUT THE PURP OSES OF THE PROGRAM THE DEPARTMENT SHALL , 13 
+SUBJECT TO THE DISCR ETION OF THE SECRETARY : 14 
+ 
+  (1) ASSIGN A PROGRAM ADMINISTRATOR  AND PROVIDE FOR 15 
+ADEQUATE ADMINISTRATI VE SUPPORT ; 16 
+ 
+  (2) IN CONSULTATION WITH MEMBERS OF THE AGRIC ULTURAL , 17 
+CONSERVATION , ENVIRONMENTAL , AND HIGHER EDUCATION  COMMUNITIES , 18 
+DEVELOP AND PROMOTE A SUITE OF CONSERVAT ION PRACTICES AND CO MMUNITY 19 
+BEST PRACTICES ELIGI BLE FOR THE PROG RAM, INCLUDING : 20 
+ 
+   (I) CONSERVATION TILLAGE ; 21 
+ 
+   (II) NUTRIENT INPUT REDUCT ION; 22 
+ 
+   (III) COVER CROP PLANTINGS ; 23 
+ 
+   (IV) USE OF NATURAL FILTER S; 24 
+ 
+   (V) CONSERVING AND INCREA SING WILDLIFE AND PO LLINATOR 25 
+HABITATS ; 26 
+ 
+   (VI) HEALTHY SOILS PRACTIC ES; 27 
+ 
+   (VII) FACILITATING WORK EXP ERIENCE FOCUSED ON 28 
+AGRICULTURE IN UNDER SERVED COMMUNITIES ; 29 
+ 
+6 HOUSE BILL 506   
+ 
+    (VIII) PARTNERING WITH OPERA TORS TO IMPROVE 1 
+CONSERVATION PRACTIC ES ON LEASED LAND ;  2 
+ 
+   (IX) LIAISING BETWEEN THE DEPARTMENT AND UNDERS ERVED 3 
+COMMUNITIES TO FACIL ITATE  OUTREACH AND IDENTIF Y BARRIERS TO 4 
+DEPARTMENT PROGRAMS R EACHING BROADER AUDI ENCES ; 5 
+ 
+   (IX) (X) PARTICIPATING IN THE FARMERS ’ MARKET 6 
+NUTRITION PROGRAM ; 7 
+ 
+   (X) (XI) PARTNERING WITH FOOD BANKS OR NONPROFIT 8 
+ORGANIZATIONS TO ADD RESS FOOD INSECURITY ; 9 
+ 
+   (XI) (XII) PARTICIPATING IN THE CERTIFIED LOCAL FARM AND 10 
+FISH PROGRAM ; 11 
+ 
+   (XII) (XIII) USING ON –FARM RENEWABLE ENERG Y; 12 
+ 
+   (XIII) (XIV) MENTORING NEW AND BEG INNING FARMERS ; AND  13 
+ 
+   (XIV) (XV) PARTNERING WITH AN IN STITUTION OF HIGHER 14 
+EDUCATION OR QUALIFI ED TECH NICAL SERVICE PROVID ER TO CONDUCT  15 
+FIELD–BASED RESEARCH ; OR 16 
+ 
+   (XVI) INSTALLATION OF A FIX ED NATURAL BUFFER , INCLUDING 17 
+WITHIN A 100–FOOT TIDAL BUFFER ; 18 
+ 
+  (3) IN CONSULTATION WITH MEMBERS OF THE AGRIC ULTURAL , 19 
+CONSERVATION , ENVIRONMENTAL , AND HIGHER EDUCATION COMMUNITIE S, 20 
+DEVELOP CRITERIA AND  APPROPRIATE EVALUATI ON MEASURES TO ESTAB LISH THE 21 
+TIERS OF RECOGNITION  FOR PROGRAM CERTIFICATION  THAT INCLUDES 22 
+CONSIDERATION OF : 23 
+ 
+   (I) PROXIMITY OF A CONSER VATION PRACTICE OR C OMMUNITY 24 
+BEST PRACTICE TO WAT ERS OF  THE STATE ; 25 
+ 
+   (II) THE EXTENT TO WHICH A  CONSERVATION PRACTIC E OR 26 
+COMMUNITY BEST PRACT ICE PROTECTS OR REST ORES THE CHESAPEAKE AND 27 
+ATLANTIC COASTAL BAYS CRITICAL AREA OR OTHER AREA DE SIGNATED FOR 28 
+REGULATION OR SPECIA L PROTECTION UNDER A  FEDERAL OR STATE L AW; AND 29 
+ 
+   (III) THE EXTENT TO WHICH A  CONSERVATION PRACTIC E OR 30 
+COMMUNITY BEST PRACT ICE ENGAGES WITH AND  BENEFITS OVERBURDENE D AND 31 
+UNDERSERVED COMMUNIT IES; 32 
+ HOUSE BILL 506  7 
+ 
+  
+  (4) EVALUATE APPLICATIONS  ON A CONTINUING BASI S AND  1 
+CONFIRM PARTICIPANT COMPLIANCE WITH PROGRAM  CRITERIA ; AND  2 
+ 
+  (5) COORDINATE WITH THE DEPARTMENT OF NATURAL RESOURCES , 3 
+THE DEPARTMENT OF THE ENVIRONMENT , AND THE MARYLAND ENERGY 4 
+ADMINISTRATION , AS APPROPRIATE , TO ESTABLISH INCENTI VES FOR 5 
+PARTICIPATION IN THE  PROGRAM . 6 
+ 
+2–2404.  7 
+ 
+ (A) IN THIS SECTION , “FUND” MEANS THE MARYLAND LEADERS IN 8 
+ENVIRONMENTALLY ENGAGED FARMING (LEEF)  PROGRAM FUND. 9 
+ 
+ (B) THERE IS A MARYLAND LEADERS IN ENVIRONMENTALLY ENGAGED 10 
+FARMING (LEEF)  PROGRAM FUND IN THE DEPARTMENT . 11 
+ 
+ (C) THE DEPARTMENT SHALL ADMI NISTER THE FUND. 12 
+ 
+ (D) THE STATE TREASURER SHALL HOLD THE FUND SEPARATELY , AND THE 13 
+COMPTROLLER SHALL ACC OUNT FOR THE FUND. 14 
+ 
+ (E) THE FUND, FOR FISCAL YEARS 2026  THROUGH 2031,  MAY RECEIVE UP  15 
+TO $2,000,000  PER YEAR OF THE MONE Y THAT : 16 
+ 
+  (1) IS APPROPRIATED IN TH E ANNUAL STATE BUDGET TO FUND TREE  17 
+PLANTING UNDER § 8–706 OF THIS ARTICLE ; AND  18 
+ 
+  (2) THE DEPARTMENT DETERMINES  WILL NOT BE ABLE TO BE USED  19 
+FOR THE TREE PLANTIN GS. 20 
+ 
+ (E) FOR FISCAL YEAR 2026  AND EACH FISCAL YEAR  THEREAFTER , THE 21 
+GOVERNOR SHALL INCLUD E IN THE ANNUAL BUDG ET BILL A N APPROPRIATION OF 22 
+AT LEAST $900,000  TO THE FUND.  23 
+ 
+ (F) (1) THE FUND MAY BE USED ONLY  TO: 24 
+ 
+  (1) (I) SUPPORT ACTIONS ASSOC IATED WITH FULFILLIN G THE 25 
+PROGRAM ’S PURPOSE ; AND  26 
+ 
+  (2) (II) COVER NOT MORE THAN 20%  OF SUBJECT TO PARAGRAPH 27 
+(2) OF THIS SUBSECTION , COVER  THE DEPARTMENT ’S ADMINISTRATIVE COS TS TO 28 
+ADMINISTER THE PROGRAM . 29 
+ 
+8 HOUSE BILL 506   
+ 
+   (2) IN EACH FISCAL YEAR , NOT MORE THAN 20%  OF THE FUND MAY BE 1 
+USED FOR ADMINISTRAT IVE COSTS OF THE DEPARTMENT .  2 
+ 
+2–2405.  3 
+ 
+ THE DEPARTMENT MAY ADOPT REGULATIONS TO CARRY  OUT THIS SUBTITLE . 4 
+ 
+8–706. 5 
+ 
+ (a) To maximize participation in the Conservation Reserve Enhancement 6 
+Program, in fiscal years 2023 through 2031, inclusive, a landowner who enrolls land 7 
+planted with a forested streamside buffer shall receive a one –time signing bonus o f up to 8 
+$1,000 per acre of land enrolled.  9 
+ 
+ (b) Signing bonuses provided under this section shall be funded with:  10 
+ 
+  (1) Money appropriated under subsection (c) of this section; and  11 
+ 
+  (2) The amount specified in  § 9–1605.2(i)(11)(i) of the Environment Article.  12 
+ 
+ (c) (1) For fiscal years 2024 through 2031, in each year the Governor shall 13 
+appropriate $2,500,000 in the annual State budget to fund [tree]: 14 
+ 
+   (I) TREE planting under this section and other tree planting 15 
+programs on agricultural land ; AND  16 
+ 
+   (II) THE MARYLAND LEADERS IN ENVIRONMENTALLY  17 
+ENGAGED FARMING (LEEF)  PROGRAM FUND IN ACCORDANCE WI TH § 2–2404  OF 18 
+THIS ARTICLE . 19 
+ 
+  (2) Money appropriated under this subsection is supplemental to and may 20 
+not take the place of funding that would otherwise be appropriated for tree plantings under 21 
+this section and other tree planting programs on agricultural land.  22 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 23 
+as follows:  24 
+ 
+Article – Agriculture  25 
+ 
+2–1901.  26 
+ 
+ (a) (1) In this subtitle the foll owing words have the meanings indicated.  27 
+ 
+  (2) (I) “Healthy soils” means the continuing capacity of soil to:  28 
+ 
+   [(i)] 1. Function as a biological system;  29 
+ HOUSE BILL 506  9 
+ 
+  
+   [(ii)] 2. Increase soil organic matter;  1 
+ 
+   [(iii)] 3. Improve soil structure and water and nutrient holding 2 
+capacity; and  3 
+ 
+   [(iv)] 4. Sequester carbon and reduce greenhouse gas emissions.  4 
+ 
+   (II) “HEALTHY SOILS ” MAY INCLUDE REGENERA TIVE 5 
+PRACTICES AND TRADIT IONS . 6 
+ 
+  (3) “Program” means the Maryland Healthy Soils Program.  7 
+ 
+  (4) (I) “REGENERATIVE PRACTICE S AND TRADITIONS ” MEANS A 8 
+FORM OF LAND MANAGEM ENT AND STEWARDSHIP APPROACHES AND PRACT ICES 9 
+THAT : 10 
+ 
+    1. DRAWS ON TRADITIONS A ND INNOVATIONS FROM 11 
+AFRICAN , INDIGENOUS , AND ORIGINAL LAND ST EWARDS ; 12 
+ 
+    2. PROMOTES CULTURALLY I MPORTANT F OOD AND 13 
+CLIMATE JUSTICE PROG RAMS AND INITIATIVES ; AND 14 
+ 
+    3. ENHANCES THE LAND AND  ECOSYSTEM THROUGH 15 
+ADAPTIVE LAND MANAGE MENT PRACTICES THAT IMPROVE SOIL HEALTH AND 16 
+WATER QUALITY , RESTORE BIODIVERSITY , MITIGATE CLIMATE CHA NGE IMPACTS , 17 
+AND PROVIDE THE GREA TEST COMMUNITY BENEF ITS. 18 
+ 
+   (II) “REGENERATIVE PRACTICE S AND TRADITIONS ” INCLUDES 19 
+PRACTICES SUCH AS PR ODUCING FOOD IN THE STATE FOR DISTRIBUTIO N WITHIN 20 
+THE STATE . 21 
+ 
+Article – Health – General  22 
+ 
+21–305. 23 
+ 
+ (a) Except as otherwise provided in this subtitle, a person may not operate a food 24 
+establishment unless the person is licensed by the Department.  25 
+ 
+ (b) (1) A separate license is required for each food establishment that a person 26 
+owns or operates.  27 
+ 
+  (2) Except in Baltimore City, the provisions of this subsec tion may require 28 
+a license for each location where vending machines are operated, but may not require a 29 
+separate license for each individual vending machine.  30 
+10 HOUSE BILL 506   
+ 
+  
+  (3) Except in Baltimore City, vending machine locations used exclusively 1 
+for prepackaged and co mmercially sealed foods that are not potentially hazardous, as 2 
+defined by regulation, are not required to be licensed.  3 
+ 
+  (4) In Baltimore City, a license may be required for each individual vending 4 
+machine.  5 
+ 
+  (5) (i) An excluded organization may operate a food establishment 6 
+without a license unless the excluded organization has been issued a license under §  7 
+21–304(a)(2)(ii) of this subtitle.  8 
+ 
+   (ii) If the Department adopts regulations governing excluded 9 
+organizations serving potentially hazardous foods  prepared in a private kitchen, an 10 
+excluded organization shall meet any requirements in the regulations.  11 
+ 
+  (6) A license is not required for a person who:  12 
+ 
+   (i) Produces shell eggs;  13 
+ 
+   (ii) Sells the shell eggs directly to the public; and  14 
+ 
+   (iii) Is registered with or inspected by the Secretary of Agriculture 15 
+under § 4 –310 or § 4 –311.1 of the Agriculture Article.  16 
+ 
+  (7) A LICENSE IS NOT REQUI RED FOR A PERSON WHO : 17 
+ 
+   (I) IS LICENSED BY THE DEPARTMENT OF NATURAL 18 
+RESOURCES UNDER § 4–701 OR § 4–701.1  OF THE NATURAL RESOURCES ARTICLE ; 19 
+AND 20 
+ 
+   (II) HARVESTS AND PROCESSE S FINFISH ON A VESSE L BY 21 
+IKEJIME FOR DIRECT S ALE TO RESTAURANTS . 22 
+ 
+  (8) Except as provided in § 21 –304 of this subtitle, nothing in this subtitle 23 
+shall preempt the right of a county to requir e a permit under the authority provided by a 24 
+local law, ordinance, or regulation if this subtitle does not require the food establishment 25 
+to obtain a State license.  26 
+ 
+Article – Natural Resources  27 
+ 
+SUBTITLE 11. WATER QUALITY MONITORING PROGRAM . 28 
+ 
+3–1101.  29 
+ 
+ HOUSE BILL 506  11 
+ 
+  (A) THERE IS A WATER QUALITY MONITORING PROGRAM WITHIN THE 1 
+DEPARTMENT . 2 
+ 
+ (B) THE PURPOSE OF THE WATER QUALITY MONITORING PROGRAM IS TO : 3 
+ 
+  (1) PROVIDE FOR A CONSIST ENT STATEWIDE APPROA CH FOR 4 
+IMPROVING WATER QUAL ITY MONITORING DATA , CONSISTENT WITH THE MOST  5 
+UP–TO–DATE SCIENTIFIC KNOW LEDGE AND TECHNOLOGI ES; 6 
+ 
+  (2) CONDUCT LONG –TERM AND TARGETED SH ORT–TERM WATER 7 
+QUALITY MONITORING A ND ASSESSMENTS TO DE VELOP AN UNDERSTANDI NG OF 8 
+AND GUIDE PROGRAMS D ESIGNED TO MEET WATE R QUALITY IMPROVEMEN T GOALS , 9 
+IMPROVE AQUATIC LIVING RESOURCES AND  HABITAT , ADDRESS CLIMATE CHAN GE 10 
+IMPACTS , AND IMPLEMENT RESILI ENCE PLANNING ; 11 
+ 
+  (3) INTEGRATE WATER QUALI TY MONITORING DATA I NTO PLANNING 12 
+PROCESSES TO INFORM POLICY CHOICES ABOUT  THE EFFECTIVENESS OF  13 
+MANAGEMENT ACTIONS ; AND 14 
+ 
+  (4) PROVI DE THE GENERAL PUBLI C WITH READILY AVAIL ABLE 15 
+WATER QUALITY MONITO RING DATA TO GUIDE R ECREATIONAL AND OTHE R PASSIVE 16 
+USES . 17 
+ 
+ (C) THE DEPARTMENT MAY ASSESS  AND INCORPORATE WATE R QUALITY 18 
+MONITORING DATA THAT  MEETS THE QUALITY AS SURANCE AND USE GOAL S OF THE 19 
+STATE DATA SETS INTO TH E WATER QUALITY MONITORING PROGRAM .  20 
+ 
+4–215. 21 
+ 
+ (a) (1) In this section the following words have the meanings indicated.  22 
+ 
+  (2) “Conservation and management measures” means 1 or more techniques 23 
+through which the objectives of a fishery m anagement plan are achieved.  24 
+ 
+  (3) “Fishery” or “fishery resource” means:  25 
+ 
+   (i) One or more stocks of fish which can be treated as a unit for 26 
+purposes of conservation and management and which are identified on the basis of 27 
+geographic, scientific, techni cal, recreational, and economic characteristics; or  28 
+ 
+   (ii) The group or industry harvesting those stocks.  29 
+ 
+  (4) “Fishery management” means the system used to conserve and allocate 30 
+the fishery resource, including research and data collection, determinati on of objectives and 31 
+12 HOUSE BILL 506   
+ 
+ management measures, and establishment, enforcement, and periodic evaluation of 1 
+regulations.  2 
+ 
+  (5) “Fishery management plan” means [a document or report that 3 
+contains ] a systematic description of a given fishery OR FISHERIES  and the objectives and 4 
+conservation and management measures for the fishery OR FISHERIES . 5 
+ 
+  (6) “SUPPLEMENT ” MEANS A MARYLAND –SPECIFIC SUPPLEMENT 6 
+PREPARED UNDER SUBSE CTION (B) OF THIS SECTION . 7 
+ 
+ (b) (1) [The Department shall prepare fishery management plans for the 8 
+following species:  9 
+ 
+  (1) Striped bass or rockfish;  10 
+ 
+  (2) (I) White perch;  11 
+ 
+  (3) (II) Yellow perch;  12 
+ 
+  (4) American shad;  13 
+ 
+  (5) Hickory shad;  14 
+ 
+  (6) (III) Oysters;  15 
+ 
+  (7) (IV) Blue crabs;  16 
+ 
+  (8) Bluefish;  17 
+ 
+  (9) Herring;  18 
+ 
+  (10) Weakfish;  19 
+ 
+  (11) Croaker;  20 
+ 
+  (12) Spot;  21 
+ 
+  (13) Summer flounder;  22 
+ 
+  (14) American eel;  23 
+ 
+  (15) Red drum;  24 
+ 
+  (16) Black drum;  25 
+ 
+  (17) Spotted sea trout;  26 
+ HOUSE BILL 506  13 
+ 
+  
+  (18) Horseshoe crabs;  1 
+ 
+  (19) Menhaden;  2 
+ 
+  (20) Tautog;  3 
+ 
+  (21) Black sea bass;  4 
+ 
+  (22) Scup;  5 
+ 
+  (23) (V) Hard  shell clams;  6 
+ 
+  (24) (VI) Catfish; and  7 
+ 
+  (25) (VII) Cownose ray ]. 8 
+ 
+  (2) FOR SPECIES OF FISH T HAT HAVE AN ATLANTIC STATES MARINE 9 
+FISHERIES COMMISSION FISHERY MA NAGEMENT PLAN , AS AUTHORIZED UNDER §  10 
+4–301 OF THIS TITLE , OR A FEDERAL REGIONAL FISHERY MANAGEMENT COUNCIL 11 
+FISHERY MANAGEMENT P LAN, THE DEPARTMENT : 12 
+ 
+  (1) (I) SHALL MANAGE THOSE SP ECIES IN ACCORDANCE WITH 13 
+THOSE PLANS AND ANY SUPPLEMENTS TO THOSE PLANS ;  14 
+ 
+  (2) (II) MAY IMPLEMENT CONSERV ATION AND MANAGEMENT  15 
+MEASURES IN ACCORDAN CE WITH THOSE PL ANS; 16 
+ 
+  (3) (III) MAY PREPARE A MARYLAND –SPECIFIC SUPPLEMENT TO 17 
+THOSE PLANS IF , AFTER CONSULTATION W ITH THE TIDAL FISHERIES ADVISORY 18 
+COMMISSION , SPORT FISHERIES ADVISORY COMMISSION , AND ANY OTHER  19 
+APPROPRIATE ADVISORY  BODIES CREATED UNDER  THIS TITLE , THE DEPARTMENT 20 
+DETERMINES THAT IMPO SING MORE RESTRICTIV E MEASURES IS NECESS ARY TO 21 
+CONSERVE THE FISHERY ; AND  22 
+ 
+  (4) (IV) MAY IMPLEMENT CONSERV ATION AND MANAGEMENT  23 
+MEASURES IN ACCORDAN CE WITH A SUPPLEMENT  ADOPTED UNDER THIS SECTION . 24 
+SECTION ; AND  25 
+ 
+   (V) MAY MANAGE  THOSE SPECIES IN ACC ORDANCE WITH A 26 
+FISHERY MANAGEMENT P LAN PREPARED BY THE DEPARTMENT IN ACCORDA NCE 27 
+WITH SUBSECTION (C) OF THIS SECTION .  28 
+ 
+ (c) (1) The Department may prepare fishery management plans for any 29 
+species of fish if, after consultation with the  [Tidal Fisheries Advisory Commission and, the 30 
+14 HOUSE BILL 506   
+ 
+ Sport Fisheries Advisory Commission , AND ANY OTHER ] APPROPRIATE ADVISORY  1 
+BODIES CREATED UNDER  THIS TITLE , the Department determines that the plans are 2 
+necessary based on:  3 
+ 
+   (I) LACK OF MANAGEMENT BY  THE ATLA NTIC STATES MARINE 4 
+FISHERIES COMMISSION OR A FEDER AL REGIONAL FISHERY MANAGEMENT 5 
+COUNCIL ; 6 
+ 
+  [(1)] (II) The population of the species;  7 
+ 
+  [(2)] (III) The distribution of the species;  8 
+ 
+  [(3)] (IV) The habitat needs of the species; or  9 
+ 
+  [(4)] (V) Other biological, ecological, CLIMATOLOGICAL , or 10 
+socioeconomic factors concerning the species OR CHESAPEAKE BAY REGION . 11 
+ 
+ [(d) (1)] (2) A FISHERY MANAGEMENT P LAN MAY INCLUDE : 12 
+ 
+   (I) PROPOSED LIMITATIONS ON THE CATCH OF FISH , BASED ON 13 
+AREA , SPECIES , SIZE, NUMBER , WEIGHT , SEX, INCIDENTAL CATCH , TOTAL BIOMASS , 14 
+OR OTHER FACTORS THA T ARE NECESSARY AND APPROPRIATE FOR CONS ERVATION 15 
+AND MANAGEMENT OF A FISHERY ; 16 
+ 
+   (II) INCORPORATION OF RELE VANT FISHERY CONSERV ATION 17 
+AND MANAGEMENT MEASU RES PROPOSED OR ADOP TED BY I NTERSTATE BODIES OF 18 
+WHICH MARYLAND IS A MEMBER ; AND 19 
+ 
+   (III) OTHER PROPOSED MEASUR ES, REQUIREMENTS , OR 20 
+CONDITIONS AND RESTR ICTIONS THAT ARE NEC ESSARY AND APPROPRIA TE FOR 21 
+FISHERY MANAGEMENT . 22 
+ 
+  (3) (I) THE DEPARTMENT MAY IMPLEM ENT CONSERVATION AND  23 
+MANAGEME NT MEASURES IN ACCOR DANCE WITH A FISHERY  MANAGEMENT PLAN 24 
+ADOPTED UNDER THIS S ECTION . 25 
+ 
+   (II) Conservation and management measures [adopted ] 26 
+IMPLEMENTED  under a fishery management plan, to the extent possible:  27 
+ 
+   [(i)] 1. Shall prevent overfishing while attempting to achieve the 28 
+best and most efficient utilization of the State’s fishery resources;  29 
+ 
+   [(ii)] 2. Shall be based on the best information available;  30 
+ 
+ HOUSE BILL 506  15 
+ 
+    [(iii)] 3. May not discriminate unfairly among groups of 1 
+[fishermen ] ANGLERS  COMMERCIAL AND RECREATIONAL FISHING  PARTICIPANTS , 2 
+INCLUDING INDIVIDUAL S LICENSED TO GUIDE FISHING PARTIES AND CHARTER 3 
+BOAT CAPTAINS , or have economic allocation as its sole purpose;  4 
+ 
+   [(iv)] 4. Shall take into account and allow for variations among, 5 
+and contingencies i n, fisheries, fishery resources, and catches; [and] 6 
+ 
+   [(v)] 5. Shall avoid duplication of regulatory efforts and 7 
+unnecessary costs to the State and to any other person ; AND  8 
+ 
+    6. SHALL TAKE INTO ACCOU NT CHANGES IN 9 
+ENVIRONMENTAL FACTOR S, INCLUDING CLIMATOLOGICAL FACTO RS. 10 
+ 
+  [(2)] (4) If it becomes necessary to allocate or assign fishing privileges 11 
+among various groups of individuals under paragraph [(1)(iii) ] (3)(II)3 of this subsection, 12 
+or under any fishery management plan, that allocation shall be : 13 
+ 
+   (i) Fair and equitable to all individuals;  14 
+ 
+   (ii) Reasonably calculated to promote conservation; and  15 
+ 
+   (iii) Carried out in such a manner that no particular individual, 16 
+corporation, or other entity acquires an excessive share of such privileges.  17 
+ 
+ [(e) (1)] (5) [Except ] SUBJECT TO ANY APPLIC ABLE SUPPLEMENT AND 18 
+EXCEPT  as provided in paragraph [(2)] (6) of this subsection, a fishery management plan 19 
+may apply separately or jointly to the waters of the Chesapeake Bay and its tidal 20 
+tributaries, the coa stal bays and their tributaries, and the Maryland waters of the Atlantic 21 
+Ocean and shall include:  22 
+ 
+   (i) The best available estimates of sustainable harvest rates;  23 
+ 
+   (ii) Indicators that would trigger any tightening or loosening of 24 
+harvest restrictions;  25 
+ 
+   (iii) A description of the fishery, including:  26 
+ 
+    1. The history of the fishery, and its current condition 27 
+relative to historic populations;  28 
+ 
+    2. The numbers of potential commercial FISHING 29 
+PARTICIPANTS , INCLUDING INDIVIDUAL S LICENSED TO GUIDE FISHING PARTIES 30 
+AND CHARTER BOAT CAP TAINS , and recreational [fishermen ] ANGLERS  FISHING 31 
+PARTICIPANTS  projected to participate in the fishery;  32 
+16 HOUSE BILL 506   
+ 
+  
+    3. The type and quantity of fishing gear used commercially;  1 
+ 
+    4. Where practicable, the cost likely to be incurred in the 2 
+management of the fishery; and  3 
+ 
+    5. The actual and potential revenues from the recreational 4 
+and commercial fishery;  5 
+ 
+   (iv) If the Department determines that a fishery has been, or is 6 
+currently, overfished:  7 
+ 
+    1. A species –specific ti me period for:  8 
+ 
+    A. Ending or appropriately addressing overfishing; and  9 
+ 
+    B. Rebuilding the stock of the species to a sustainable level; 10 
+and 11 
+ 
+    2. A description of:  12 
+ 
+    A. Management strategies that have a high probability of 13 
+reducing fishing to a  target level within a target time period, as determined by the 14 
+Department; and  15 
+ 
+    B. The appropriate assignment or allocation of fishing 16 
+privileges in accordance with [subsection (d)(2) ] PARAGRAPH (4) of this [section ] 17 
+SUBSECTION ; and  18 
+ 
+   (v) Other pert inent data that will assist the Secretary in 19 
+determining conservation and management measures reasonably necessary to ensure that 20 
+the fishery resources will be sustained.  21 
+ 
+  [(2)] (6) The Department may waive the requirements in paragraph 22 
+[(1)(iv) ] (5)(IV) of this subsection for a species of fish if the Department determines that 23 
+meeting the requirements is not practicable or biologically appropriate based on:  24 
+ 
+   (i) The specific biology of the species;  25 
+ 
+   (ii) The management of the species under a federal or multi –state 26 
+fishery management plan;  27 
+ 
+   (iii) The designation of the species as a nuisance;  28 
+ 
+   (iv) Environmental conditions; or  29 
+ 
+ HOUSE BILL 506  17 
+ 
+    (v) Other ecological factors.  1 
+ 
+  [(3)] (D) (1) (i) The Department shall:  2 
+ 
+    1. In coordination with the Univ ersity of Maryland Center 3 
+for Environmental Science and the Oyster Advisory Commission, develop a package of 4 
+consensus recommendations for enhancing and implementing the fishery management 5 
+plan for oysters that will be informed by a collaboratively develop ed, science –based 6 
+modeling tool to quantify the long –term impacts of identified management actions and 7 
+possible combinations of management actions on:  8 
+ 
+    A. Oyster abundance;  9 
+ 
+    B. Oyster habitat;  10 
+ 
+    C. Oyster harvest;  11 
+ 
+    D. Oyster harvest revenue;  and 12 
+ 
+    E. Nitrogen removal; and  13 
+ 
+    2. Hold public listening sessions throughout the State to 14 
+identify possible management actions for use in the public oyster fishery.  15 
+ 
+   (ii) The Oyster Advisory Commission, with the assistance of external 16 
+conflict r esolution and facilitation specialists, shall:  17 
+ 
+    1. Develop a package of consensus recommendations through 18 
+a facilitated consensus solutions process, based on a 75% majority agreement level for each 19 
+recommendation;  20 
+ 
+    2. Recommend management actions o r combinations of 21 
+management actions to achieve the targets identified in the oyster stock assessment with 22 
+the goal of increasing oyster abundance; and  23 
+ 
+    3. Review model results for each management action or 24 
+combination of management actions to inform i ts recommendations.  25 
+ 
+   (iii) 1. The Department shall submit interim reports on the 26 
+development of the package of consensus recommendations by August 1, 2020, December 27 
+1, 2020, and August 1, 2021, to the Governor and, in accordance with § 2 –1257 of the Sta te 28 
+Government Article, the General Assembly.  29 
+ 
+    2. In addition to the requirements under subsubparagraph 1 30 
+of this subparagraph, the Department shall include in the interim report submitted by 31 
+August 1, 2021:  32 
+ 
+18 HOUSE BILL 506   
+ 
+     A. The status of the development of the science –based 1 
+modeling tool used to quantify the long –term impacts of identified management actions; 2 
+and 3 
+ 
+    B. A summary of the model results of any actions identified 4 
+by the Oyster Advisory Commission on or before the date of the interim report.  5 
+ 
+    3. The Department shall provide a final report by December 6 
+1, 2021, which will include an implementation schedule for the consensus 7 
+recommendations, to the Governor and, in accordance with § 2 –1257 of the State 8 
+Government Article, the General Assembly.  9 
+ 
+   (iv) To be responsive to changes in the oyster resource due to 10 
+environmental conditions, the Department shall:  11 
+ 
+    1. Review the status of the stock relative to reference points 12 
+every 2 years and conduct a benchmark stock assessment every 6 years with cons ideration 13 
+of new methods and with external peer review; and  14 
+ 
+    2. With the input of interested stakeholders, implement 15 
+management actions that increase oyster habitat, maintain harvest, and grow the oyster 16 
+stock.  17 
+ 
+  [(4)] (2) The fishery management plan developed in accordance with 18 
+paragraph [(3)] (1) of this subsection shall:  19 
+ 
+   (i) End the overfishing of oysters in all areas and regions of the 20 
+Chesapeake Bay and its tributaries where overfishing has occurred according to biological 21 
+reference points est ablished by the most recent oyster stock assessment while maintaining 22 
+a harvest in the fishery;  23 
+ 
+   (ii) Achieve fishing mortality rates at target levels;  24 
+ 
+   (iii) Increase oyster abundance;  25 
+ 
+   (iv) Increase oyster habitat; and  26 
+ 
+   (v) Facilitate the long–term sustainable harvest of oysters, 27 
+including the public fishery.  28 
+ 
+ [(f) A fishery management plan may include:  29 
+ 
+  (1) Proposed limitations on the catch of fish, based on area, species, size, 30 
+number, weight, sex, incidental catch, total biomass, or o ther factors, which are necessary 31 
+and appropriate for conservation and management of a fishery;  32 
+ 
+ HOUSE BILL 506  19 
+ 
+   (2) Incorporation of relevant fishery conservation and management 1 
+measures proposed or adopted by interstate bodies of which Maryland is a member; and  2 
+ 
+  (3) Other proposed measures, requirements, or conditions and restrictions 3 
+which are necessary and appropriate for fishery management.  4 
+ 
+ (g)] (E) The Department shall present the management plans AND 5 
+SUPPLEMENTS  under this section in the form of an annual report, subject to § 2 –1257 of 6 
+the State Government Article, to:  7 
+ 
+  (1) The Legislative Policy Committee;  8 
+ 
+  (2) The Senate Committee on Education, Energy, and the Environment; 9 
+and 10 
+ 
+  (3) The Environment and Tra nsportation Committee.  11 
+ 
+ [(h)] (F) (1) (i) The [Secretary shall ] DEPARTMENT : 12 
+ 
+    1. SHALL  adopt [the proposed ] BY REGULATION : 13 
+ 
+    A. A FISHERY  management [plans ] PLAN PREPARED BY 14 
+THE DEPARTMENT UNDER THIS  SECTION ; AND  15 
+ 
+    B. A SUPPLEMENT PREPARED BY THE  DEPARTMENT 16 
+UNDER THIS SECTION ; and [any proposed ] 17 
+ 
+    2. MAY ADOPT  conservation and management measures by 18 
+regulation  FOR: 19 
+ 
+    A. AN ATLANTIC STATES MARINE FISHERIES 20 
+COMMISSION FISHERY MA NAGEMENT PLAN ;  21 
+ 
+    B. A FEDERAL REGIONAL FISHERY MANAGEMENT 22 
+COUNCIL FISHERY MANAG EMENT PLAN ; 23 
+ 
+    C. A FISHERY MANAGEMENT P LAN PREPARED AND 24 
+ADOPTED BY THE DEPARTMENT UNDER THIS  SECTION ; AND 25 
+ 
+    D. A SUPPLEMENT PREPARED AND ADOPTED BY THE 26 
+DEPARTMENT UNDER THIS  SECTION . 27 
+ 
+   (ii) 1. The Secretary may adopt conservation and management 28 
+measures in separate proceedings and by separate regulations.  29 
+ 
+20 HOUSE BILL 506   
+ 
+     2. Conservation and management measures adopted 1 
+separately may include changes to those proposed or adopted in a fishery management plan 2 
+OR SUPPLEMENT  and any ad ditional measures necessary to carry out the adopted plan 3 
+OR SUPPLEMENT . 4 
+ 
+   (iii) The Secretary may not prohibit the use of pound net sites in the 5 
+coastal bays that are registered with the Department as of January 1, 2000.  6 
+ 
+  (2) (I) The regulations of th e Department to implement a fisheries 7 
+management plan for the coastal bays may not become effective under this section until the 8 
+Department first holds A public [hearings in Worcester County ] HEARING . 9 
+ 
+   (II) THE PUBLIC HEARING RE QUIRED UNDER SUBPARA GRAPH  10 
+(I) OF THIS PARAGRAPH MA Y BE HELD IN PERSON IN WORCESTER COUNTY OR , IN 11 
+WHOLE OR IN PART , REMOTELY BY ELECTRON IC MEANS . 12 
+ 
+  (3) All notices of public hearings required for the adoption of regulations 13 
+under this section shall be printed in the Maryland Regis ter and further publicized so as to 14 
+provide reasonable notice to the affected communities OF COMMERCIAL FISHIN G 15 
+PARTICIPANTS , INCLUDING INDIVIDUAL S LICENSED TO GUIDE FISHING PARTIES 16 
+AND CHARTER BOAT CAP TAINS , AND RECREATIONAL FIS HING PARTICIPANTS  [of 17 
+fishermen ] and the public.  18 
+ 
+ [(i)] (G) Notwithstanding any other provision of this title, except § 4 –1002 of 19 
+this title, once a fishery management plan OR SUPPLEMENT has been adopted by 20 
+regulation, the State’s fishery resources shall be harvested in accord ance with the 21 
+conservation and management measures in the fishery management plan OR 22 
+SUPPLEMENT and any regulations implementing or amending that plan OR 23 
+SUPPLEMENT . 24 
+ 
+ [(j)] (H) The provisions of this section do not apply to aquaculture activities in 25 
+nonti dal ponds, lakes, or impoundments in the State.  26 
+ 
+4–11A–09. 27 
+ 
+ (g) (1) If an application for a submerged land or water column lease in the 28 
+Chesapeake Bay or in the Atlantic Coastal Bays meets the requirements of this subtitle:  29 
+ 
+   (i) The applicant for the l ease shall mark the CENTER OF THE  30 
+proposed area with a stake; and  31 
+ 
+   (ii) The Department shall:  32 
+ 
+    1. SURVEY THE CORNERS OF  THE PROPOSED LEASE 33 
+AREA ; 34 
+ HOUSE BILL 506  21 
+ 
+  
+    2. Advertise the application on the website of the 1 
+Department and once a week for 2 weeks in a news paper published in the county or counties 2 
+where the proposed lease is to be located;  3 
+ 
+    [2.] 3. Notify the owners of property directly in front of the 4 
+proposed activity;  5 
+ 
+    [3.] 4. Notify each Chair of an Oyster Committee in the county in 6 
+which the proposed activity is located; and  7 
+ 
+    [4.] 5. Notify other interested parties that the Department 8 
+[deems ] CONSIDERS  appropriate.  9 
+ 
+  (2) (i) [Within ] ANY PERSON MAY SUBMIT  A WRITTEN REQUEST 10 
+FOR A PUBLIC INFORMA TIONAL MEETING ON TH E ISSUANCE OF A LEAS E WITH IN 30 11 
+days [of] AFTER  publication of the last advertisement under paragraph (1) of this 12 
+subsection [, any]. 13 
+ 
+   (II) THE REQUEST FOR A PUB LIC INFORMATIONAL ME ETING 14 
+SUBMITTED TO THE DEPARTMENT UNDER SUBP ARAGRAPH (I) OF THIS PARAGRAPH 15 
+MUST CONTAIN THE NAM E, MAILING ADDRESS , AND E–MAIL ADDRESS OF THE 16 
+REQUESTOR . 17 
+ 
+   (III) THE DEPARTMENT SHALL HOLD  A PUBLIC INFORMATION AL 18 
+MEETING ON THE ISSUA NCE OF A LEASE ON TH E REQUEST OF ANY PER SON. 19 
+ 
+  (3) (I) ANY person who has a specific right, duty, privilege, or interest 20 
+that is different from that held by the general public and may be adversely affected by the 21 
+proposed lease may file a WRITTEN  petition with the Department protesting the issuance 22 
+of the lease : 23 
+ 
+    1. WITHIN 30 DAYS AFTER PUBLICATI ON OF THE LAST 24 
+ADVERTISEMEN T UNDER PARAGRAPH (1) OF THIS SUBSECTION ; OR 25 
+ 
+    2. WITHIN 7 DAYS AFTER A PUBLIC INFORMATIONAL 26 
+MEETING HELD IN ACCO RDANCE WITH PARAGRAP H (2) OF THIS SUBSECTION . 27 
+ 
+   (II) A PROTEST FILED WITH T HE DEPARTMENT UNDER 28 
+SUBPARAGRAPH (I) OF THIS PARAGRAPH MU ST CONTAIN : 29 
+ 
+    1. THE NAME , MAILING ADDRESS , AND E–MAIL ADDRESS 30 
+OF THE PROTESTANT ; 31 
+ 
+22 HOUSE BILL 506   
+ 
+     2. A STATEMENT INDICATING  THAT THE PROTESTANT 1 
+INTENDS TO PROTEST T HE LEASE AND THE REA SONS FOR THE PROTEST ; AND 2 
+ 
+    3. A STATEMENT DESCRIBING  THE PROTESTANT ’S 3 
+SPECIFIC RIGHT , DUTY , PRIVILEGE , OR INTEREST THAT IS DIFFERENT FROM THAT 4 
+HELD BY THE GENERAL PUBLIC AND MAY BE AD VERSELY AFFECTED BY THE 5 
+PROPOSED LEASE . 6 
+ 
+   (III) THE DEPARTMENT MAY REQUIR E MEDIATION BETWEEN 7 
+THE PROTESTANT , THE APPLICANT , AND THE DEPARTMENT BEFORE TRANSMITTING 8 
+THE PROTEST TO THE OFFICE OF ADMINISTRATIVE HEARINGS . 9 
+ 
+   [(ii)] (IV) The protest shall be heard in accordance with the 10 
+requirements of the Administrative Procedure Act under Title 10, Subtitle 2 of the State 11 
+Government Article.  12 
+ 
+   [(iii) The Department shall hold a public informational meeting on the 13 
+issuance of a lease on the request of any person.  14 
+ 
+   (iv)] (V) Immediately after termination of the period [prescribed ] 15 
+SPECIFIED  in subparagraph (i) of this paragraph for filing a petition or a fter a final 16 
+decision dismissing a protest, the Department shall [survey the proposed leased area and ] 17 
+issue a lease to the applicant.  18 
+ 
+ (H) THE DEPARTMENT , IN CONSULTATION WITH  THE AQUACULTURE 19 
+COORDINATING COUNCIL , MAY CHARGE AN APPLIC ANT REASONABLE ADVER TISING 20 
+AND SURVEY FEES . 21 
+ 
+4–11A–14. 22 
+ 
+ (a) (1) Except as provided in paragraph (2) of this subsection, a leaseholder 23 
+may cultivate or remove shellfish planted on [his] THE LEASEHOLDER ’S aquaculture or 24 
+submerged land lease area in any manner [he deems ] THE LEASEHOLDER CONS IDERS  25 
+proper.  26 
+ 
+  (2) A person may not use a hydraulic escalator dredge to harvest shellfish 27 
+in the Atlantic Coastal Bays.  28 
+ 
+ (b) (1) Each leaseholder shall keep accurate records concerning the seeding 29 
+and planting of cultch and [oysters ] SHELLFISH  on[,] and the harvesting [,] and selling of 30 
+[oysters ] SHELLFISH  from [his] THE LEASEHOLDER ’S aquaculture, submerged land, or 31 
+demonstration lease area.  32 
+ 
+  (2) Each leaseholder shall report this information to the Department 33 
+ELECTRONICALLY OR on forms SPECIFIED BY the Department [prescribes ]. 34 
+ HOUSE BILL 506  23 
+ 
+  
+ (c) (1) On or before January [1] 31 of each year, a leaseholder shall provide to 1 
+the Department a report documenting the use of the lease during the prior year.  2 
+ 
+  (2) A leaseholder shall provide to the Depa rtment any other report that the 3 
+Department may require.  4 
+ 
+  (3) Failure to file a report may result in termination of the lease.  5 
+ 
+  (4) Failure to actively use a lease may result in termination of the lease.  6 
+ 
+SUBTITLE 21. AGRICULTURE LEASES ON DEPARTMENT LAND. 7 
+ 
+5–2101.  8 
+ 
+ (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE  THE MEANINGS 9 
+INDICATED . 10 
+ 
+ (B) “HEALTHY SOILS ” HAS THE MEANING STAT ED IN § 2–1901  OF THE 11 
+AGRICULTURE ARTICLE . 12 
+ 
+ (C) “REGENERATIVE PRACTICE S AND TRADITIONS ” HAS THE MEANING 13 
+STATED IN § 2–1901  OF THE AGRICULTURE ARTICLE . 14 
+ 
+5–2102.  15 
+ 
+ (A) THE DEPARTMENT MAY LEASE LAND OWNED OR MANAGE D BY THE 16 
+DEPARTMENT TO A PERSO N IMPLEMENTING PRACT ICES THAT SUPPORT HE ALTHY 17 
+SOILS AND REGENERATI VE PRACTICES AND TRA DITIONS . 18 
+ 
+ (B) (1) THE LEASE TERM MAY BE  FOR A MINIMUM OF 10 YEARS . 19 
+ 
+  (2) THE LEASE SHALL REQUI RE THE LESSEE TO COM PLY WITH ALL 20 
+APPLICABLE STATE AND FEDERAL LAW S AND REGULATIONS . 21 
+ 
+ (C) THE DEPARTMENT SHALL CONS ULT WITH THE DEPARTMENT OF 22 
+AGRICULTURE ON THE DE VELOPMENT OF A TEMPL ATE FOR LEASES ENTER ED INTO 23 
+UNDE R THIS SECTION . 24 
+ 
+8–2B–02. 25 
+ 
+ (a) There is a Whole Watershed Restoration Partnership.  26 
+ 
+24 HOUSE BILL 506   
+ 
+  (b) The purpose of the Partnership is to accelerate restoration of the Chesapeake 1 
+and Atlantic Coastal Bays and their watersheds by equitably focusing assistance on actio ns 2 
+and areas that are:  3 
+ 
+  (1) Cost–effective;  4 
+ 
+  (2) Likely to demonstrate a rapid systemic response to restoration activity, 5 
+including rapid de –listing of impaired streams identified under § 303(d) of the federal Clean 6 
+Water Act; and  7 
+ 
+  (3) Supported by the local government.  8 
+ 
+ (c) (1) The Secretary shall establish a State management team to administer 9 
+the Partnership.  10 
+ 
+  (2) The State management team shall include:  11 
+ 
+   (i) One representative of the Department, designated by the 12 
+Secretary;  13 
+ 
+   (ii) One rep resentative of the Department of the Environment, 14 
+designated by the Secretary of the Environment;  15 
+ 
+   (iii) One representative of the Department of Agriculture, designated 16 
+by the Secretary of Agriculture;  17 
+ 
+   (iv) One representative of the Department of Pl anning, designated 18 
+by the Secretary of Planning;  19 
+ 
+   (v) One representative of the Critical Area Commission for the 20 
+Chesapeake and Atlantic Coastal Bays, designated by the chair of the Commission; and  21 
+ 
+   (vi) The Chief Resilience Officer, or the Chief Res ilience Officer’s 22 
+designee.  23 
+ 
+  (3) The representative of the Department shall chair the State 24 
+management team.  25 
+ 
+  (4) The State management team shall coordinate with other entities, 26 
+including the U.S. Army Corps of Engineers and the U.S. Environmental Prot ection 27 
+Agency, as necessary to carry out its functions and duties under this subtitle.  28 
+ 
+ (d) (1) The Partnership shall employ staff in accordance with the State budget.  29 
+ 
+  (2) State agencies may provide staff or other assistance to the Partnership.  30 
+ 
+ HOUSE BILL 506  25 
+ 
+  (e) On or before October 1, 2024, and every 5 years thereafter, the State 1 
+management team shall issue a request for proposals for projects that:  2 
+ 
+  (1) Occur within a single Maryland 8 –Digit Watershed as identified in the 3 
+statewide digital watershed file maint ained by the Department of Information Technology;  4 
+ 
+  (2) Include a strategy describing the partners, actions, and benefits that 5 
+the project will incorporate over a 5 –year period;  6 
+ 
+  (3) Provide at least five of the benefits specified under subsection (f)( 2)(viii) 7 
+of this section; and  8 
+ 
+  (4) Are endorsed by each county and municipal corporation in which the 9 
+project will occur.  10 
+ 
+ (f) (1) Subject to paragraph (3) of this subsection, on or before March 1, 2025, 11 
+and every 5 years thereafter, the State managemen t team may approve up to five projects 12 
+to receive assistance under this section.  13 
+ 
+  (2) The State management team shall evaluate a proposed project based 14 
+on whether the proposed project:  15 
+ 
+   (i) Is located in a watershed in which habitat restoration and 16 
+pollution reduction will:  17 
+ 
+    1. Result in the greatest improvements to shallow water 18 
+habitat and living resources;  19 
+ 
+    2. Achieve rapid de –listing of impaired streams identified 20 
+under § 303(d) of the federal Clean Water Act and published in the Department  of the 21 
+Environment’s Triennial Review of Water Quality Standards; or  22 
+ 
+    3. Generate rapidly improving conditions in the local 23 
+ecosystem;  24 
+ 
+   (ii) Emphasizes actions that are expected to provide the greatest, 25 
+most cost –effective, and measurable amount of  pollution reduction;  26 
+ 
+   (iii) Supports land use policies, conservation programs, and 27 
+restoration protocols at the local level that will sustain project actions and outcomes;  28 
+ 
+   (iv) Has documented interest from a group of affected property 29 
+owners to allow restoration or conservation actions on their property;  30 
+ 
+   (v) Minimizes the loss of trees and other natural habitats;  31 
+ 
+26 HOUSE BILL 506   
+ 
+    (vi) Demonstrates opportunities to implement actions that reduce 1 
+environmental disparities experienced by overburdened or under served communities;  2 
+ 
+   (vii) Demonstrates opportunities to foster innovation in restoration 3 
+science or practices;  4 
+ 
+   (viii)  In addition to land –based habitat restoration and water quality 5 
+improvement, anticipates benefits related to:  6 
+ 
+    1. The creation  or restoration of wildlife habitat, riparian 7 
+buffers, and wetland restoration;  8 
+ 
+    2. The restoration of aquatic resources, such as freshwater 9 
+mussels, fish passage, or oyster reefs;  10 
+ 
+    3. Carbon sequestration;  11 
+ 
+    4. Climate change mitigation, adapta tion, or resilience;  12 
+ 
+    5. Local employment opportunities;  13 
+ 
+    6. Improving and protecting public health; and  14 
+ 
+    7. Recreational opportunities and public access to waterways 15 
+and natural habitats; and  16 
+ 
+   (ix) Creates partnership opportunities among nonprofit and  17 
+for–profit organizations, community organizations, all levels of government, and scientists.  18 
+ 
+  (3) The State management team shall:  19 
+ 
+   (i) Work to ensure that the projects approved include:  20 
+ 
+    1. One project located in a predominantly urban area;  21 
+ 
+    2. One project located in a predominantly suburban area;  22 
+ 
+    3. Two projects primarily focused on reducing pollution in a 23 
+predominantly agricultural area; and  24 
+ 
+    4. One project that incorporates col laborative efforts with an 25 
+adjoining state; and  26 
+ 
+   (ii) Ensure that at least two approved projects are located in and 27 
+provide benefits to an overburdened or underserved community.  28 
+ 
+ HOUSE BILL 506  27 
+ 
+   (4) The State management team may require siting, design, construction, 1 
+maintenance, and operation principles and standards for a project that are in addition to 2 
+those required by law or regulation if the team determines that those principles and 3 
+standards are necessary to preserve the benefits of the project.  4 
+ 
+ (G) (1) AS SOO N AS POSSIBLE AFTER APPROVING A PROJECT UNDER THIS 5 
+SECTION , THE STATE MANAGEMENT TEAM  AND THE PROJECT SPON SOR SHALL MEET 6 
+TO DEVELOP A PLAN FO R PERMITTING THE PRO JECT , INCLUDING IDENTIFYIN G ALL : 7 
+ 
+   (I) REQUIRED STATE AND FEDERAL PER MITS ; 8 
+ 
+   (II) SUPPORTING DOCUMENTAT ION THAT MUST BE SUB MITTED 9 
+WITH EACH PERMIT APP LICATION ; 10 
+ 
+   (III) TIME FRAMES FOR SUBMI TTING THE PERMITS AN D 11 
+SUPPORTING DOCUMENTA TION ; AND 12 
+ 
+   (IV) POINTS OF CONTACT WIT HIN EACH RELEVANT AG ENCY FOR 13 
+EACH OF THE PERMITS . 14 
+ 
+  (2) TO EXPEDITE THE PERMITT ING PROCESS TO THE E XTENT 15 
+ALLOWED BY STATE AND FEDERAL LAW , THE STATE MANAGEMENT TEAM  AND 16 
+PROJECT SPONSOR SHAL L: 17 
+ 
+   (I) INVITE ALL RELEVANT STATE AND FEDERAL AGE NCIES , 18 
+INCLUDING THE U.S.  ENVIRONMENTAL PROTECTION AGENCY , THE U.S.  ARMY 19 
+CORPS OF ENGINEERS , AND THE NATIONAL MARINE FISHERIES SERVICE , TO THE 20 
+MEETING REQUIRED UND ER PARAGRAPH (1) OF THIS SUBSECTION ; AND 21 
+ 
+   (II) COORDINATE WITH EACH AGENCY TO DEVELOP TH E PLAN 22 
+FOR PERMITTING THE P ROJECT , INCLUDING TIME FRAME S AND REQUIREMENTS 23 
+FOR EACH APPLICATION . 24 
+ 
+ [(g)] (H) For a period of 5 years after approving a project, the State management 25 
+team shall:  26 
+ 
+  (1) Assist the project sponsor in developing an implementation and 27 
+financing plan, including measurable outcomes, for the duration of the  project;  28 
+ 
+  (2) Award implementation grants from the Fund and other appropriate 29 
+State funds and accounts:  30 
+ 
+   (i) For up to 50% of project costs;  31 
+ 
+28 HOUSE BILL 506   
+ 
+    (ii) In accordance with the implementation and financing plan 1 
+developed under item (1) of this subsection ; and  2 
+ 
+   (iii) With consideration given to the progress of the project as 3 
+documented in the report required under subsection [(i)(2)] (J)(2) of this section;  4 
+ 
+  (3) Award operations grants to the project sponsor for project 5 
+administration costs in accorda nce with § 8 –2A–02(f)(5) of this title;  6 
+ 
+  (4) Provide for coordinated and transparent State permitting to the extent 7 
+allowed by State and federal law, including the use of the permit tracking dashboard 8 
+established by the Secretary under subsection [(k)] (L) of this section;  9 
+ 
+  (5) Provide funding to the project sponsor to support water quality 10 
+monitoring at the project site; and  11 
+ 
+  (6) Meet with the project sponsor and participating local governments at 12 
+least six times each calendar year to review and facilitate progress on the project.  13 
+ 
+ [(h)] (I) A project sponsor shall provide opportunities for community 14 
+engagement for the duration of the project by including:  15 
+ 
+  (1) At least four community meetings that include representation from 16 
+each local government endorsing the project; and  17 
+ 
+  (2) An opportunity for public comment on the preliminary design of each 18 
+major or large –scale action proposed by the project.  19 
+ 
+ [(i)] (J) (1) A project sponsor shall identify appropriate metrics to track 20 
+progress on meeting the outcomes identified in the project’s implementation and financing 21 
+plan.  22 
+ 
+  (2) (i) A project sponsor shall report on the progress of the project at 23 
+the intervals and in the format required by the State management team.  24 
+ 
+   (ii) A report under t his paragraph shall include information on:  25 
+ 
+    1. Community engagement efforts;  26 
+ 
+    2. Restoration and conservation actions initiated and 27 
+completed;  28 
+ 
+    3. Trees affected and trees at immediate or future risk of 29 
+impact due to restoration actions;  30 
+ 
+ HOUSE BILL 506  29 
+ 
+     4. Funding from all sources that was solicited, awarded, or 1 
+spent; and  2 
+ 
+    5. The progress made toward meeting the outcomes 3 
+identified in the project’s implementation and financing plan, including the metrics used 4 
+for tracking progress under paragraph (1)  of this subsection.  5 
+ 
+  (3) The State management team may require a project sponsor to perform 6 
+and report on water quality monitoring for more than 5 years.  7 
+ 
+ [(j)] (K) On or before November 1, 2025, and each November 1 thereafter, the 8 
+State management tea m shall report to the General Assembly, in accordance with § 2 –1257 9 
+of the State Government Article, on the status of each approved project.  10 
+ 
+ [(k)] (L) (1) The Secretary shall establish a permit tracking dashboard that 11 
+provides [publicly ]: 12 
+ 
+   (I) PUBLICLY  available information on the permit schedules and 13 
+requirements for actions that require a State OR FEDERAL permit ; AND  14 
+ 
+   (II) THE PLAN REQUIRED UND ER SUBSECTION (G) OF THIS 15 
+SECTION REDACTED TO PROTECT ANY CONFIDEN TIAL INFORMATION . 16 
+ 
+  (2) A PROJECT SPONSOR SHAL L PROVIDE QUARTERLY UPDATES TO 17 
+THE STATE MANAGEMENT TEAM  WITH THE INFORMATION  NECESSARY FOR THE 18 
+PERMIT TRACKING DASH BOARD , INCLUDING THE STATUS  OF ALL REQUIRED STATE 19 
+AND FEDERAL PERMITS . 20 
+ 
+  (3) The permit tracking dashboard shall be mad e available to the public on 21 
+the Department’s website.  22 
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That, by December 31, 2025, the 23 
+Department of the Environment shall:  24 
+ 
+  (1) authorize oyster restoration projects funded in whole or in part by 25 
+federal, State, o r local governments to be eligible to generate water quality trading credits; 26 
+and 27 
+ 
+  (2) develop a process for certifying water quality trading credits generated 28 
+by oyster restoration projects.  29 
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED, That Section 2 of Chap ters 558 and 30 
+559 of the Acts of the General Assembly of 2024 may not be construed to apply to permit or 31 
+license applications submitted to the Department of the Environment before July 1, 2025.  32 
+ 
+30 HOUSE BILL 506   
+ 
+  SECTION 5. AND BE IT FURTHER ENACTED, That this Act shall tak e effect July 1 
+1, 2025. Section 1 of this Act shall remain effective for a period of 5 years and, at the end of 2 
+June 30, 2030, Section 1 of this Act, with no further action required by the General 3 
+Assembly, shall be abrogated and of no further force and eff ect.  4 
+ 
+ 
+ 
+ 
+Approved:  
+________________________________ ________________________________ ________________   
+           Governor.  
+________________________________ ________________________________ ________________   
+         Speaker of the House of Delegates.  
+________________________________ ________________________________ ________________   
+                 President of the Senate.  

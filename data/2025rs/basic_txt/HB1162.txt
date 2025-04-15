@@ -1,0 +1,233 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.             *hb1162*      
+HOUSE BILL 1162  
+C2   5lr3199  
+      
+By: Delegate Stein  
+Introduced and read first time: February 6, 2025  
+Assigned to: Economic Matters  
+Committee Report: Favorable with amendments  
+House action: Adopted  
+Read second time: March 6, 2025  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Heating, Ventilation, Air –Conditioning, or Refrigeration Contractors – 2 
+Equipment Sales  3 
+ 
+FOR the purpose of prohibiting a person from knowingly offering to sell or selling heating, 4 
+ventilation, air –conditioning, or refrigeration equipment to an individual that is does 5 
+not licensed  hold a certain license issued  by the Board of Heating, Ventilat ion,  6 
+Air–Conditioning, or Refrigeration Contractors except under certain circumstances; 7 
+requiring certain persons to collect certain information from or  provide a certain 8 
+notice to purchasers of heating, ventilation, air –conditioning, or refrigeration 9 
+equipment at the time of sale; requiring certain sellers of heating, ventilation,  10 
+air–conditioning, or refrigeration equipment to submit a certain report t o the Board 11 
+each fiscal year;  and generally relating to heating, ventilation, air –conditioning, or 12 
+refrigeration contractors.  13 
+ 
+BY repealing and reenacting, without amendments,  14 
+ Article – Business Regulation  15 
+Section 9A –103, 9A –201, and 9A –301 16 
+ Annotated C ode of Maryland  17 
+ (2024 Replacement Volume)  18 
+ 
+BY adding to  19 
+ Article – Business Regulation  20 
+Section 9A –501.1  21 
+ Annotated Code of Maryland  22 
+ (2024 Replacement Volume)  23 
+2 HOUSE BILL 1162   
+ 
+  
+BY repealing and reenacting, with amendments,  1 
+ Article – Business Regulation  2 
+ Section 9A –505 3 
+ Annotated Code of Maryland  4 
+ (2024 Replacement Volume)  5 
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 6 
+That the Laws of Maryland read as follows:  7 
+ 
+Article – Business Regulation  8 
+ 
+9A–103. 9 
+ 
+ This title does not limit the right of:  10 
+ 
+  (1) an individual owner of a single –family dwelling while that owner is 11 
+practicing heating, ventilation, air –conditioning, or refrigeration services on or within a 12 
+building or structure owned by the individual;  13 
+ 
+  (2) an individual who is building a single –family  dwelling in which that 14 
+individual will reside while practicing heating, ventilation, air –conditioning, or 15 
+refrigeration services on or within that dwelling;  16 
+ 
+  (3) an employee of a public utility company regulated by the Public Service 17 
+Commission, when en gaged in:  18 
+ 
+   (i) the development, construction, maintenance, or repair of electric 19 
+or gas facilities located in the State; or  20 
+ 
+   (ii) the construction, maintenance, or repair of electric or gas 21 
+appliances in the service area of the public utility;  22 
+ 
+  (4) subject to § 9A –403(a) of this title, an employee of the United States 23 
+government, the State government, a local government, or an independent agency while 24 
+that employee is practicing heating, ventilation, air –conditioning, or refrigeration services 25 
+on or  within buildings or structures owned or solely occupied by the United States 26 
+government, the State government, a local government, or an independent agency;  27 
+ 
+  (5) an individual employed in the installation, maintenance, alteration, 28 
+repair, or replacement  of self –contained appliances requiring not more than 225 volts or 25 29 
+amperes of electrical current;  30 
+ 
+  (6) an individual possessing a master electrician’s license issued by the 31 
+State or any county, when engaged in the installation, alteration, service, re pair, or 32 
+replacement of individually controlled electric resistance heat;  33 
+ 
+ HOUSE BILL 1162  3 
+ 
+   (7) an individual possessing a master plumber’s license issued by the State, 1 
+Baltimore County, or the Washington Suburban Sanitary Commission when providing 2 
+heating, ventilation, air–conditioning, or refrigeration services on hydronic heating 3 
+systems;  4 
+ 
+  (8) an individual possessing a license to practice engineering when 5 
+providing heating, ventilation, air –conditioning, or refrigeration services in connection 6 
+with the practice of e ngineering;  7 
+ 
+  (9) an individual who installs, alters, remodels, maintains, or repairs oil 8 
+burners exclusively while employed by a supplier of home heating fuel; or  9 
+ 
+  (10) an individual regularly employed by the owner of property, or the 10 
+owner’s agent, to  engage in maintenance and repair work.  11 
+ 
+9A–201. 12 
+ 
+ There is a State Board of Heating, Ventilation, Air –Conditioning, and Refrigeration 13 
+Contractors in the Department.  14 
+ 
+9A–301. 15 
+ 
+ Except as otherwise provided in this title, an individual shall be licensed by the 16 
+Board before the individual provides or assists in providing heating, ventilation,  17 
+air–conditioning, or refrigeration services in the State.  18 
+ 
+9A–501.1.  19 
+ 
+ (A) IN THIS SECTION , “SELLER” MEANS A PERSON THAT OWNS A BUSINESS  20 
+THAT HAS A GROSS ANN UAL REVENUE  OF $100,000  OR MORE FROM THE SAL E OF  21 
+HEATING , VENTILATION , AIR–CONDITIONING , OR REFRIGERATION EQU IPMENT . 22 
+ 
+ (B) (1) THIS SUBSECTION DOES NOT APPLY TO A PERSO N WHO : 23 
+ 
+   (I) SELLS CONSTRUCTION M ATERIALS OTHER THAN 24 
+MATERIALS INVOLVED I N THE INSTALLATION O F HEATING , VENTILATION ,  25 
+AIR–CONDITIONING , OR REFRIGERATION EQU IPMENT ; AND 26 
+ 
+   (II) DERIVES LESS THAN 25%  OF THE PERSON ’S REVENUES 27 
+FROM THE SALE OF HEA TING , VENTILATION , AIR–CONDITIONING , OR 28 
+REFRIGERATION EQUIPM ENT. 29 
+ 
+  (2) A PERSON MAY NOT KNOWI NGLY SELL OR OFFER T O SELL 30 
+HEATING , VENTILATION , AIR–CONDITIONING , OR REFRIGERATION EQU IPMENT TO 31 
+ANOTHER PERSON , UNLESS THE INDIVIDUA L PURCHASING THE EQU IPMENT : 32 
+ 
+4 HOUSE BILL 1162   
+ 
+   (1) (I) IS LICENSED BY  HOLDS A MASTER LICEN SE, A MASTER 1 
+RESTRICTED LICENSE , OR A LIMITED LICENSE  OR EMPLOYS AN INDIVI DUAL 2 
+LICENSED BY THE  WHO HOLDS A MASTER L ICENSE , A MASTER RESTRICTED LICENSE , 3 
+OR A LIMITED LICENSE  ISSUED BY THE  BOARD TO PROVIDE OR A SSIST IN PROVIDING 4 
+HEATING , VENTILATION , AIR–CONDITIONING , OR REFRIGERATION SER VICES ;  5 
+ 
+   (II) OPERATES A BUSINESS THAT RESELLS HEATING , 6 
+VENTILATION , AIR–CONDITIONING , OR REFRIGERATION EQU IPMENT TO 7 
+INDIVIDUALS LICENSED  BY THE BOARD ; OR 8 
+ 
+  (2) (III) IS NOT REQUIRED TO B E LICENSED UNDER § 9A–103 OF 9 
+THIS TITLE . 10 
+ 
+ (C) (B) (1) A PERSON THAT SELLS HE ATING , VENTILATION ,  11 
+AIR–CONDITIONING , OR REFRIGERATION EQU IPMENT SHALL COLLECT THE NAME  12 
+AND LICENSE NUMBER O F AN INDIVIDUAL WHO PURCHASES HEATING , 13 
+VENTILATION , AIR–CONDITIONING , OR REFRIGERATION EQUIPM ENT AT THE TIME  14 
+OF SALE . 15 
+ 
+  (2) IF A PERSON IS NOT AB LE TO COLLECT THE NA ME AND LICENSE  16 
+NUMBER OF AN INDIVID UAL WHO PURCHASED EQ UIPMENT UNDER PARAGR APH (1) 17 
+OF THIS SUBSECTION , THE PERSON SHALL , AT THE TIME OF SALE , PROVIDE A 18 
+WRITTEN NOTICE TO TH E INDIVIDUAL WITH  PURCHASING THE EQUIP MENT THAT 19 
+CONTAINS  INFORMATION PRESCRIB ED BY THE BOARD REGARDING THE 20 
+REQUIREMENT THAT AN INDIVIDUAL BE LICENS ED BY THE BOARD BEFORE 21 
+PROVIDING OR ASSISTI NG IN PROVIDING HEAT ING, VENTILATION ,  22 
+AIR–CONDITIONING , OR REFRIGERATION SER VICES IN THE STATE , INCLUDING THE  23 
+INSTALLATION OF HEAT ING, VENTILATION , AIR–CONDITIONING , OR 24 
+REFRIGERATION EQUIPM ENT. 25 
+ 
+ (D) A SELLER SHALL FILE A REPORT WITH THE BOARD WITHIN 1 MONTH  26 
+AFTER THE END OF EAC H FISCAL YEA R THAT LISTS THE NAM E AND LICENSE NUMBER  27 
+OF EACH INDIVIDUAL T HAT PURCHASED HEATIN G, VENTILATION ,  28 
+AIR–CONDITIONING , OR REFRIGERATION EQU IPMENT FROM THE SELL ER DURING  29 
+THE PRECEDING FISCAL  YEAR . 30 
+ 
+ (E) (C) ON OR BEFORE JANUARY 1, 2026,  THE BOARD SHALL ADOPT 31 
+REGULATIONS TO CARRY OUT THIS SECTION . 32 
+ 
+9A–505. 33 
+ 
+ (a) (1) In this section, “officer ” includes a superintendent, manager, or agent 34 
+of a corporation regardless of whether the corporation provides heating, ventilation,  35 
+air–conditioning, or refrigeration services.  36 
+ HOUSE BILL 1162  5 
+ 
+  
+  (2) Any person, including an officer, who violates § 9A –501, § 9A –502, § 1 
+9A–503, or § 9A –504 of this subtitle is guilty of a misdemeanor, and on conviction is subject 2 
+to a fine not exceeding $1,000 or imprisonment not exceeding 6 months or bot h and, on a 3 
+second or subsequent conviction, subject to a fine not exceeding $5,000 or imprisonment 4 
+not exceeding 2 years or both.  5 
+ 
+  (3) ANY PERSON , INCLUDING AN OFFICER , WHO VIOLATES § 9A–501.1  6 
+OF THIS SUBTITLE IS SUBJECT TO : 7 
+ 
+   (I) FOR A FIRST VIOLATION , A CIVIL PENALTY NOT EXCEEDING 8 
+$1,000;  AND  9 
+ 
+   (II) FOR A SECOND OR SUBS EQUENT VIOLATION , A CIVIL 10 
+PENALTY NOT EXCEEDIN G $5,000.  11 
+ 
+ (b) Any person who violates any provision of § 9A –402 of this title is guilty of a 12 
+misdemeanor, and on conviction is  subject to a fine not exceeding $1,000 or imprisonment 13 
+not exceeding 6 months or both.  14 
+ 
+ (c) (1) Except as otherwise provided by this title, the Board may impose on a 15 
+person who violates any provision of this title a penalty not exceeding $5,000 for each 16 
+violation.  17 
+ 
+  (2) In setting the amount of the penalty, the Board shall consider:  18 
+ 
+   (i) the seriousness of the violation;  19 
+ 
+   (ii) the harm caused by the violation;  20 
+ 
+   (iii) the good faith of the violator;  21 
+ 
+   (iv) any history of previous violations by the violator; and  22 
+ 
+   (v) any other relevant factors.  23 
+ 
+  (3) The Board shall pay any penalty collected under this subsection into 24 
+the General Fund of the State.   25 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 26 
+October 1, 2025.  27 
+ 

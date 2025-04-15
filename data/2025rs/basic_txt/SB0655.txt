@@ -1,0 +1,159 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.  
+         Italics indicate opposite chamber/confere nce committee amendments.             *sb0655*      
+SENATE BILL 655  
+D1   (5lr2146 ) 
+ENROLLED BILL  
+— Judicial Proceedings/Judiciary  — 
+Introduced by Senator Hester  
+ 
+Read and Examined by Proofreaders:  
+ 
+_______________________________________________  
+Proofreader.  
+_______________________________________________  
+Proofreader.  
+ 
+Sealed with the Great Seal and presented to the Governor, for his approval this  
+  
+_______ day of _______________ at _________________ _______ o’clock, ________M.  
+  
+______________________________________________  
+President .  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Courts – Artificial Intelligence Evidence Clinic Pilot Program – Establishment  2 
+ 
+FOR the purpose of establishing an Artificial Intelligence Evidence Clinic Pilot Program 3 
+within the Administrative Office of the Courts; requiring the Administrative Office 4 
+of the Courts to issue a request for proposals to select an entity to conduct the 5 
+Program and requiring the Administrative Office of the Courts to give preference to 6 
+certain entities in the selection process  develop a grant application for the Program 7 
+and award grants to eligible institutions of higher education ; authorizing the 8 
+Governor to include in the annual budget bill an appropriation to the Program and 9 
+establishing a certain limitation on the expenditure of appropriated funds; and 10 
+generally relating to the Artificial Intelligence Evidence Clinic Pilot Prog ram.  11 
+ 
+BY adding to  12 
+ Article – Courts and Judicial Proceedings  13 
+Section 13 –101.2  14 
+2 SENATE BILL 655   
+ 
+  Annotated Code of Maryland  1 
+ (2020 Replacement Volume and 2024 Supplement)  2 
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 3 
+That the Laws of Maryland read as fo llows:  4 
+ 
+Article – Courts and Judicial Proceedings  5 
+ 
+13–101.2.  6 
+ 
+ (A) (1) IN THIS SECTION THE F OLLOWING WORDS HAVE THE MEANINGS 7 
+INDICATED . 8 
+ 
+  (2) “ARTIFICIAL INTELLIGEN CE” HAS THE MEANING STAT ED IN §  9 
+3.5–801 OF THE STATE FINANCE AND PROCUREMENT ARTICLE . 10 
+ 
+  (3) “OFFICE” MEANS THE ADMINISTRATIVE OFFICE OF THE COURTS . 11 
+ 
+  (4) “PROGRAM ” MEANS THE ARTIFICIAL INTELLIGENCE EVIDENCE 12 
+CLINIC PILOT PROGRAM . 13 
+ 
+ (B) THERE IS AN ARTIFICIAL INTELLIGENCE EVIDENCE CLINIC PILOT 14 
+PROGRAM IN THE OFFICE . 15 
+ 
+ (C) (1) THE PURPOSE OF THE PROGRAM IS TO PROVIDE  EXPERTISE IN 16 
+ARTIFICIAL INTELLIGE NCE TO THE CIRCUIT C OURTS AND THE DISTRICT COURT IN 17 
+THE FORM OF EXPERT T ESTIMONY ON THE AUTH ENTICITY OF ELECTRON IC 18 
+EVIDENCE THAT A COUR T DETERMINES MAY HAV E BEEN CREATED OR AL TERED 19 
+USING ARTIFICIAL  INTELLIGENCE . 20 
+ 
+  (2) THE PROGRAM SHALL ENGAGE COLLEGE AND UNIVERSI TY 21 
+STUDENTS , RECENT GRADUATES , AND FACULTY AND TECH NOLOGY PROFESSIONALS  22 
+DEDICATED TO THE RES EARCH AND ADVANCEMEN T OF ARTIFICIAL INTE LLIGENCE 23 
+IN ORDER TO DEVELOP EXPERT WITNESS RESOU RCES FOR  COURTS TO USE IN CAS ES 24 
+IMPLICATING THE USE OF ARTIFICIAL INTELL IGENCE . 25 
+ 
+  (3) THE PROGRAM SHALL PRIORIT IZE CIVIL CASES IN W HICH ONE OR 26 
+MORE PARTIES DO NOT HAVE LEGAL REPRESENT ATION OR REASONABLE ACCESS TO 27 
+EXPERT TESTIMONY . 28 
+ 
+ (D) (1) THE OFFICE SHALL ISSUE  A REQUEST FOR PROPOS ALS FOR THE  29 
+PROGRAM TO SELECT AN ENTITY TO MANAGE THE  PROGRAM . 30 
+ 
+  (2) AT A MINIMUM , THE REQUEST FOR PROP OSALS SHALL : 31 
+ 
+ SENATE BILL 655  3 
+ 
+    (I) STATE WITH SPECIFICIT Y THE GOALS OF THE PROGRAM ; 1 
+AND  2 
+ 
+   (II) STATE WITH SPECIFICIT Y THE OBJECTIVES AND  3 
+PERFOR MANCE CRITERIA THAT WILL BE USED TO MEAS URE THE SUCCESS OF T HE 4 
+PROGRAM , INCLUDING AN ENTITY ’S WILLINGNESS TO : 5 
+ 
+    1. LIST THE CLINIC AS A FOR–CREDIT COURSE ; AND  6 
+ 
+    2. ENABLE CREDIT SHARING  ACROSS INSTITUTIONS OF 7 
+HIGHER EDUCATION . 8 
+ 
+  (3) IN SELECTING AN ENTITY TO MANAGE THE  PROGRAM , THE 9 
+OFFICE SHALL GIVE PRE FERENCE TO AN ENTITY  THAT : 10 
+ 
+   (I) IS A MARYLAND –BASED VENDOR ; 11 
+ 
+   (II) HAS AN ACADEMIC FOCUS  ON COMPUTER SCIENCE AND  12 
+TECHNOLOGY RESEARCH AND ADVANCEMENT ; 13 
+ 
+   (III) HAS EXPERIENCE RELATI NG TO ARTIFICIA L 14 
+INTELLIGENCE ; AND  15 
+ 
+   (IV) WILL MAXIMIZE THE USE  OF STATE FUNDS THROUGH T HE 16 
+USE OF MECHANISMS , INCLUDING PREEXISTIN G MATERIALS , FUNDING  17 
+PARTNERSHIPS , AND RESOURCE MATCHIN G IN ADMINISTERING THE PROGRAM , THE 18 
+OFFICE SHALL : 19 
+ 
+  (1) DEVELOP A GRANT APPLI CATION  FOR THE PROGRAM ; AND 20 
+ 
+  (2) AWARD GRANTS TO ELIGI BLE INSTITUTIONS OF HIGHER 21 
+EDUCATION . 22 
+ 
+ (E) (1) FOR FISCAL YEARS 2027  AND 2028,  THE GOVERNOR MAY 23 
+INCLUDE IN THE ANNUA L BUDGET BILL AN APP ROPRIATION OF $250,000  TO THE 24 
+PROGRAM . 25 
+ 
+  (2) NOT MORE THAN 20%  OF TH E MONEY APPROPRIATED  TO THE 26 
+PROGRAM MAY BE USED F OR ADMINISTRATIVE EX PENSES . 27 
+ 
+ (F) THE TERMS OF THE  AN AGREEMENT BETWEEN TH E OFFICE AND AN 28 
+ENTITY  SELECTED TO MANAGE T HE PROGRAM SHALL  A GRANTEE  MAY INCLUDE A 29 
+CLAUSE THAT REQUIRES  THE OFFICE TO HOLD HARMLE SS THE ENTITY SELECTED 30 
+TO CONDUCT THE  PROGRAM  GRANTEE  AGAINST ANY CLAIM AL LEGING LIABILITY OR 31 
+4 SENATE BILL 655   
+ 
+ DAMAGES RELATING TO THE PROVISION OF EXP ERTISE IN ARTIFICIAL  1 
+INTELLIGENCE AS PART  OF THE PROGRAM , EXCEPT I N CASES OF WILLFUL O R 2 
+WANTON MISCONDUCT , GROSS NEGLIGENCE , OR INTENTIONALLY TOR TIOUS 3 
+CONDUCT . 4 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 5 
+1, 2025.  6 
+ 
+ 
+ 
+Approved:  
+________________________________ ________________________________ ________________   
+           Governor.  
+________________________________ ________________________________ ________________   
+                 President of the Senate.  
+________________________________ ________________________________ ________________   
+         Speaker of the House of Delegates.  

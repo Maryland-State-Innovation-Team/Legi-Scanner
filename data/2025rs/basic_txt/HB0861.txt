@@ -1,0 +1,260 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTING LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.  
+         Italics i ndicate opposite chamber/conference committee amendments.             *hb0861*      
+HOUSE BILL 861  
+C5   (5lr1856 ) 
+ENROLLED BILL  
+— Economic Matters/Finance  — 
+Introduced by Delegate Stewart  
+ 
+Read and Examined by Proofreaders:  
+ 
+_______________________________________________  
+Proofreader.  
+_______________________________________________  
+Proofreader.  
+ 
+Sealed with the Great Seal and presented to the Governor, for his approval this  
+  
+_______ day of _______________ at _________________ _______ o’clock, ________M.  
+  
+______________________________________________  
+Speaker .  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Transportation Network Companies – Itemized Receipts  Weekly Fare and 2 
+Earnings Summary  and Operator Data Reporting  3 
+ 
+FOR the purpose of requiring a transportation network company to provide an each  4 
+operator and a passenger an itemized digital receipt that contains certain 5 
+information as soon as practicable after the operator provides transportation 6 
+network services to th e passenger  with a weekly fare and earnings summary ; 7 
+requiring a transportation network company to report, on or before a certain date 8 
+each year, certain information to the Public Service Commission; and generally 9 
+relating to transportation network compani es. 10 
+ 
+BY repealing and reenacting, without amendments,  11 
+ Article – Public Utilities  12 
+Section 10 –101(a), (l), (m), and (n) and 10 –401(a) and (c)  13 
+ Annotated Code of Maryland  14 
+2 HOUSE BILL 861   
+ 
+  (2020 Replacement Volume and 2024 Supplement)  1 
+ 
+BY adding to  2 
+ Article – Public Utilit ies 3 
+Section 10 –403.2 and 10 –409 4 
+ Annotated Code of Maryland  5 
+ (2020 Replacement Volume and 2024 Supplement)  6 
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 7 
+That the Laws of Maryland read as follows:  8 
+ 
+Article – Public Utilities  9 
+ 
+10–101. 10 
+ 
+ (a) In this title the following words have the meanings indicated.  11 
+ 
+ (l) “Transportation network company” means a company that operates in the 12 
+State using a digital network to connect passengers to transportation network operators or 13 
+transportation network pa rtners for transportation network services.  14 
+ 
+ (m) “Transportation network operator”, “transportation network partner”, or 15 
+“transportation network driver” means an individual who:  16 
+ 
+  (1) has been issued a transportation network operator’s license, or is 17 
+otherwise authorized, by the Commission to provide transportation network services;  18 
+ 
+  (2) receives, through a transportation network company’s digital network 19 
+application, a connection to a potential passenger to transport the passenger between 20 
+points chosen  by the passenger in exchange for the payment of a fee to the transportation 21 
+network company; and  22 
+ 
+  (3) uses a motor vehicle that is owned, leased, or otherwise authorized for 23 
+use by the individual and is approved for use in providing transportation netwo rk services 24 
+by the Commission.  25 
+ 
+ (n) (1) “Transportation network services” means the activities of an operator 26 
+during:  27 
+ 
+   (i) transportation network coverage period one, during which the 28 
+operator is logged onto and ready to accept a prearranged ride reque st made through a 29 
+transportation network company’s digital network application;  30 
+ 
+   (ii) transportation network coverage period two, during which the 31 
+operator accepts a ride request from a passenger that is prearranged through a 32 
+transportation network comp any’s digital network application, and is traveling to a 33 
+predetermined location to pick up the passenger; and  34 
+ HOUSE BILL 861  3 
+ 
+  
+   (iii) transportation network coverage period three, during which the 1 
+operator transports the passenger and continuing until the passenger depa rts the motor 2 
+vehicle.  3 
+ 
+  (2) “Transportation network services” does not include:  4 
+ 
+   (i) providing taxicab services, sedan services, or limousine services;  5 
+ 
+   (ii) any shared expense carpool arrangement or service or other type 6 
+of arrangement or service in which a driver receives a fee that does not exceed the driver’s 7 
+costs associated with providing a ride; or  8 
+ 
+   (iii) transportation services that a nonprofit organization provides 9 
+through the use of a volunteer driver and the volunteer driver’s personal  vehicle.  10 
+ 
+10–401. 11 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  12 
+ 
+ (c) “Operator” means a transportation network operator, transportation network 13 
+partner, or transportation network driver.  14 
+ 
+10–403.2.  15 
+ 
+ (A) A TRANSPORTATION NETWO RK COMPANY SHALL PROVID E EACH 16 
+OPERATOR WITH A WEEK LY FARE AND EARNINGS  SUMMARY THAT INCLUDE S: 17 
+ 
+  (1) THE TOTAL FARES COLL ECTED BY THE OPERATOR  18 
+TRANSPORTATION NETWO RK COMPANY  FOR THE TRANSPORTATI ON NETWORK 19 
+SERVICES PROVIDED  BY THE COMPANY ’S OPERATORS  IN A GIVEN WEEK ; 20 
+ 
+  (2) THE TOTAL AMOUNT OF ANY ADDITIONAL FEES THAT WERE 21 
+CHARGED TO PASSENGER S BY THE TRANSPORTAT ION NETWORK COMPANY FOR THE 22 
+TRANSPORTATION NETWO RK SERVICES PROVIDED  BY THE COMPANY ’S OPERATORS 23 
+IN A GIVEN WEEK ;  24 
+ 
+  (2) (3) THE TOTAL AMOUNT THE  OPERATOR EARNED THAT WEEK ; 25 
+AND  26 
+ 
+  (3) (4) THE TOTAL AMOUNT THE  OPERATOR EARNED FROM  THE 27 
+TOTAL FARES COLLECTE D THAT WEEK , EXPRESSED AS A PERCE NTAGE OF THE 28 
+TOTAL FARES COLLECTE D; AND 29 
+ 
+4 HOUSE BILL 861   
+ 
+   (5) THE TOTAL AMOUNT THE  OPERATOR EARNED FROM  THE 1 
+ADDITIONAL FEES SPEC IFIED IN ITEM (1) OF THIS SUB SECTION THAT WERE 2 
+COLLECTED THAT WEEK , EXPRESSED AS A PERCE NTAGE OF THE TOTAL A DDITIONAL 3 
+FEES CHARGED .  4 
+ 
+ (B) A TRANSPORTATION NETWO RK COMPANY MAY INCLU DE IN THE  WEEKLY 5 
+FARE AND EARNINGS SU MMARY REQUIRED UNDER  SUBSECTION (A) OF THIS 6 
+SECTION :  7 
+ 
+  (1) ANY ADDITIONAL INFOR MATION THE COMPANY C ONSIDERS 8 
+APPROPRIATE ; OR  9 
+ 
+  (2) AMOUNTS EARNED BY AN  OPERATOR OTHER THAN AMOUNTS 10 
+EARNED FROM PROVIDIN G TRANSPORTATION NET WORK SERVICES . 11 
+ 
+ (A) AS SOON AS PRACTICABL E AFTER AN OPERATOR PROVIDES  12 
+TRANSPORTATION NETWO RK SERVICES TO A PAS SENGER , A TRANSPORTATION  13 
+NETWORK COMPANY SHAL L PROVIDE THE OPERAT OR AND PASSENGER ACC ESS TO  14 
+AN ITEMIZED DIGITAL RECEIPT THAT INCLUDE S: 15 
+ 
+  (1) THE AMOUNT THAT THE PASS ENGER PAID FOR THE  16 
+TRANSPORTATION NETWO RK SERVICES ; 17 
+ 
+  (2) THE AMOUNT THAT THE OPERATOR WILL RECEIV E FROM THE  18 
+AMOUNT PAID UNDER IT EM (1) OF THIS SUBSECTION ; AND  19 
+ 
+  (3) THE FINAL AMOUNT OF ANY ADDITIONAL FEES THAT ARE  20 
+CHARGED TO THE PASS ENGER BY THE TRANSPO RTATION NETWORK COMP ANY. 21 
+ 
+ (B) THE TRANSPORTATION NE TWORK COMPANY SHALL MAKE THE RECEIPT  22 
+REQUIRED UNDER SUBSE CTION (A) OF THIS SECTION AVAI LABLE TO THE OPERATO R 23 
+ON THE COMPANY ’S DIGITAL NETWORK AP PLICATION . 24 
+ 
+10–409. 25 
+ 
+ (A) (1) ON OR BEFO RE FEBRUARY 1 EACH YEAR , A TRANSPORTATION 26 
+NETWORK COMPANY SHAL L REPORT TO THE COMMISSION THE FOLLOW ING 27 
+INFORMATION IN AN AGGREGATED FOR MAT  FOR THE PRIOR YEAR : 28 
+ 
+  (1) THE AVERAGE FARE COL LECTED FROM PASSENGE RS IN THE 29 
+STATE ; 30 
+ 
+ HOUSE BILL 861  5 
+ 
+   (2) THE TOTAL TIME DRIVE N BY OPERATORS WHILE PROV IDING   1 
+IN–STATE  TRANSPORTATION NETWO RK SERVICES IN THE STATE  FOR THE 2 
+TRANSPORTATION NETWO RK COMPANY ; AND  3 
+ 
+  (3) THE TOTAL AMOUNT EAR NED BY OPERATORS FOR  PROVIDING   4 
+IN–STATE  TRANSPORTATION NETWO RK SERVICES IN THE STATE  FOR THE 5 
+TRANSPORTATION NETWO RK COMPANY . 6 
+ 
+ (B) ANY INFORMATION OBTAI NED BY THE COMMISSION UNDER THIS  7 
+SECTION THAT IS NOT OTHERWISE PUBLICLY A VAILABLE : 8 
+ 
+  (1) IS CONSIDERED :  9 
+ 
+   (I) A TRADE SECRET ; AND  10 
+ 
+   (II) CONFIDENTIAL AND PRO PRIETARY INFORMATION ; AND  11 
+ 
+  (2) IS NOT SUBJECT TO DI SCLOSURE UNDER THE PUBLIC 12 
+INFORMATION ACT. 13 
+ 
+ (C) THE REPORT REQUIRED U NDER SUBSECTION (A) OF THIS SECTION MAY 14 
+BE MADE AVAILABLE TO  THE GENERAL ASSEMBLY ON REQUEST , PROVIDED THAT 15 
+THE REPORT REMAIN CO NFIDENTIAL AND EXEMP T FROM PUBLIC DISC LOSURE .  16 
+ 
+   (I) THE TOTAL NUMBER OF OPERATORS THAT : 17 
+ 
+    1. WERE AUTHORIZED TO T RANSPORT PASSENGERS  18 
+USING THE TRANSPORTA TION NETWORK COMPANY ’S DIGITAL NETWORK  19 
+APPLICATION ; 20 
+ 
+    2. PROVIDED TRANSPORTAT ION NETWORK SERVICES  21 
+FOR THE TRANSPORTATI ON NETWORK COM PANY ON A FULL –TIME OR PART –TIME  22 
+BASIS ; AND  23 
+ 
+    3. PROVIDED MORE THAN 40 HOURS OF  24 
+TRANSPORTATION NETWO RK SERVICES FOR THE TRANSPORTATION NETWO RK 25 
+COMPANY EACH WEEK ; 26 
+ 
+   (II) THE MEDIAN AMOUNT PA ID TO THE TRANSPORTA TION  27 
+NETWORK COMPANY ’S OPERATORS ; AND  28 
+ 
+   (III) DEMOGRAPHIC DATA FOR  THE TRANSPORTATION N ETWORK  29 
+COMPANY ’S OPERATORS , INCLUDING DEMOGRAPHI C DATA FOR OPERATORS  WHO  30 
+6 HOUSE BILL 861   
+ 
+ HAVE BEEN PERMANENTL Y DEACTIVATED BY THE  TRANSPORTATION NETWO RK 1 
+COMPANY . 2 
+ 
+  (2) THE COMMISSION SHALL DETE RMINE THE FORM AND C ONTENT  3 
+OF T HE DEMOGRAPHIC DATA REQUIRED UNDER PARAG RAPH (1)(III) OF THIS  4 
+SUBSECTION . 5 
+ 
+ (B) ON OR BEFORE MARCH 1 EACH YEAR , THE COMMISSION SHALL  6 
+COMPILE THE INFORMAT ION PROVIDED UNDER S UBSECTION (A) OF THIS SECTION  7 
+AND REPORT THE INFOR MATION TO THE DEPARTMENT OF TRANS PORTATION AND , 8 
+IN ACCORDANCE WITH § 2–1257  OF THE STATE GOVERNMENT ARTICLE , THE 9 
+SENATE FINANCE COMMITTEE AND THE HOUSE ENVIRONMENT AND  10 
+TRANSPORTATION COMMITTEE . 11 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 12 
+October 1, 2025  January  1, 2026 .  13 
+ 
+ 
+ 
+ 
+Approved:  
+________________________________ ________________________________ ________________   
+           Governor.  
+________________________________ ________________________________ ________________   
+         Speaker of the House of Delegates.  
+________________________________ ________________________________ ________________   
+                 President of the Senate.  

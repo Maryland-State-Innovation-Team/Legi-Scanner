@@ -1,0 +1,172 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.  
+         Italics indicate opposite chamber/conference committee amendments.             *hb0445*      
+HOUSE BILL 445  
+E1   (5lr0898 ) 
+ENROLLED BILL  
+— Judiciary/Judicial Proceedings  — 
+Introduced by Delegate Hill  
+ 
+Read and Examined by Proofreaders:  
+ 
+_______________________________________________  
+Proofreader.  
+_______________________________________________  
+Proofreader.  
+ 
+Sealed with the Great Seal and presented to the Governor, for his approval this  
+  
+_______ day of _______________ at _________________ _______ o’clock, ________M.  
+  
+______________________________________________  
+Speaker .  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Criminal Law – Interference With a Public Safety Answering Point – Penalties  2 
+ 
+FOR the purpose of prohibiting a person from taking certain actions with the intent to 3 
+interrupt or impair the functioning of a public safety answering point; prohibiting a 4 
+person from taking certain actions that interrupt or impair the functioning of a 5 
+public safety answering point;  and generally relating to public safety answering 6 
+points.  7 
+ 
+BY repealing and reenacting, with amendments,  8 
+ Article – Criminal Law  9 
+Section 7 –302(c) and (d)  10 
+ Annotated Code of Maryland  11 
+ (2021 Replacement Volume and 2024 Supplement)  12 
+ 
+2 HOUSE BILL 445   
+ 
+  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 1 
+That the Laws of Maryland read as follows:  2 
+ 
+Article – Criminal Law  3 
+ 
+7–302. 4 
+ 
+ (c) (1) A person may not intentionally, willfully, and without authorization:  5 
+ 
+   (i) access, attempt to access, cause to be accessed, or exceed the 6 
+person’s authorized access to all or part of a computer network, computer control language, 7 
+computer, computer software, computer system, computer service, or computer database; 8 
+or 9 
+ 
+   (ii) copy, attempt to co py, possess, or attempt to possess the contents 10 
+of all or part of a computer database accessed in violation of item (i) of this paragraph.  11 
+ 
+  (2) A person may not commit an act prohibited by paragraph (1) of this 12 
+subsection with the intent to:  13 
+ 
+   (i) cause the malfunction or interrupt the operation of all or any part 14 
+of a computer, computer network, computer control language, computer software, computer 15 
+system, computer service, or computer data; or  16 
+ 
+   (ii) alter, damage, or destroy all or any part of dat a or a computer 17 
+program stored, maintained, or produced by a computer, computer network, computer 18 
+software, computer system, computer service, or computer database.  19 
+ 
+  (3) A person may not intentionally, willfully, and without authorization:  20 
+ 
+   (i) posses s, identify, or attempt to identify a valid access code; or  21 
+ 
+   (ii) publicize or distribute a valid access code to an unauthorized 22 
+person.  23 
+ 
+  (4) A person may not commit an act prohibited under this subsection with 24 
+the intent to interrupt or impair the fu nctioning of:  25 
+ 
+   (i) the State government;  26 
+ 
+   (ii) a service, device, or system related to the production, 27 
+transmission, delivery, or storage of electricity or natural gas in the State that is owned, 28 
+operated, or controlled by a person other than a publi c service company, as defined in §  29 
+1–101 of the Public Utilities Article;  30 
+ 
+   (iii) a service provided in the State by a public service company, as 31 
+defined in § 1 –101 of the Public Utilities Article;  32 
+ HOUSE BILL 445  3 
+ 
+  
+   (iv) a health care facility, as defined in § 18 –338.1 of the  1 
+Health – General Article; or  2 
+ 
+   (v) a public school, as defined in § 1 –101 of the Education Article.  3 
+ 
+  (5) (i) This paragraph does not apply to a person who has a bona fide 4 
+scientific, educational,  governmental, testing, news, or other similar justification for 5 
+possessing ransomware.  6 
+ 
+   (ii) A person may not knowingly possess ransomware with the intent 7 
+to use the ransomware for the purpose of introduction into the computer, computer 8 
+network, or com puter system of another person without the authorization of the other 9 
+person.  10 
+ 
+  (6) A PERSON MAY NOT COMMI T AN ACT PROHIBITED UNDER THIS 11 
+SUBSECTION WITH THE INTENT TO INTERRUPT OR IMPAIR THE FUNCTI ONING OF A 12 
+PUBLIC SAFETY ANSWER ING POINT , AS DEFINED IN § 1–301 OF THE PUBLIC SAFETY 13 
+ARTICLE . 14 
+ 
+  (7) A PERSON MAY NOT COMMI T AN ACT PROHIBITED UNDER THIS  15 
+SUBSECTION THAT INTE RRUPTS OR IMPAIRS TH E FUNCTIONING OF A P UBLIC  16 
+SAFETY ANSWERING POI NT, AS DEFINED IN § 1–301 OF THE PUBLIC SAFETY  17 
+ARTICLE . 18 
+ 
+ (d) (1) A person  who violates subsection (c)(1) of this section is guilty of a 19 
+misdemeanor and on conviction is subject to imprisonment not exceeding 3 years or a fine 20 
+not exceeding $1,000 or both.  21 
+ 
+  (2) A person who violates subsection (c)(2) or (3) of this section:  22 
+ 
+   (i) if the aggregate amount of the loss is $10,000 or more, is guilty 23 
+of a felony and on conviction is subject to imprisonment not exceeding 10 years or a fine not 24 
+exceeding $10,000 or both; or  25 
+ 
+   (ii) if the aggregate amount of the loss is less than $10 ,000, is guilty 26 
+of a misdemeanor and on conviction is subject to imprisonment not exceeding 5 years or a 27 
+fine not exceeding $5,000 or both.  28 
+ 
+  (3) A person who violates subsection (c)(4) of this section:  29 
+ 
+   (i) if the aggregate amount of the loss is $10,0 00 or more, is guilty 30 
+of a felony and on conviction is subject to imprisonment not exceeding 10 years or a fine not 31 
+exceeding $100,000 or both; or  32 
+ 
+4 HOUSE BILL 445   
+ 
+    (ii) if the aggregate amount of the loss is less than $10,000, is guilty 1 
+of a misdemeanor and on convicti on is subject to imprisonment not exceeding 5 years or a 2 
+fine not exceeding $25,000 or both.  3 
+ 
+  (4) A person who violates subsection (c)(5) of this section is guilty of a 4 
+misdemeanor and on conviction is subject to imprisonment not exceeding 2 years or a f ine 5 
+not exceeding $5,000 or both.  6 
+ 
+  (5) A PERSON WHO VIOLATES SUBSECTION (C)(6) OF THIS SECTION IS 7 
+GUILTY OF A FELONY A ND ON CONVICTION IS SUBJECT TO IMPRISONM ENT NOT 8 
+EXCEEDING 5 YEARS OR A FINE NOT EXCEEDING $25,000  OR BOTH . 9 
+ 
+  (6) A PERSON WHO VIOLATES SUBSECTION (C)(7) OF THIS SECTION IS  10 
+GUILTY OF A FELONY A ND ON CONVICTION IS SUBJECT TO IMPRISONM ENT NOT  11 
+EXCEEDING 10 YEARS OR A FINE NOT EXCEEDING $50,000  OR BOTH . 12 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 13 
+October 1, 2025.  14 
+ 
+ 
+ 
+Approved:  
+________________________________ ________________________________ ________________   
+           Governor.  
+________________________________ ________________________________ ________________   
+         Speaker of the House of Delegates.  
+________________________________ ________________________________ ________________   
+                 President of the Senate.  

@@ -1,0 +1,261 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.             *sb0902*      
+SENATE BILL 902  
+J5, J4    5lr2854  
+    CF HB 11  
+By: Senator Augustine  
+Introduced and read first time: January 28, 2025  
+Assigned to: Finance  
+Committee Report: Favorable with amendments  
+Senate action: Adopted  
+Read second time: February 21, 2025  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Health Insurance – Access to Nonparticipating Providers – Referrals, Additional 2 
+Assistance, and Coverage  3 
+ 
+FOR the purpose of repealing the termination date for certain provisions of law related to 4 
+referrals to and reimbursement of specialists and nonphysician specialists who are 5 
+not part of a carrier’s provider panel; requiring that a certain referral procedur e 6 
+required to be established and implemented by certain insurers, nonprofit health 7 
+service plans, and health maintenance organizations require the carrier to provide 8 
+certain assistance to a member in identifying and arranging coverage for a specialist 9 
+or nonphysician specialist for treatment of a mental health or substance use disorder 10 
+services ; prohibiting certain carriers from imposing prior authorization 11 
+requirements for scheduling, reimbursing, or continuing an established treatment 12 
+plan by certain nonp articipating providers  utilization review requirements other 13 
+than what would be required if the covered benefit was provided by a provider on the 14 
+carrier’s provider panel under certain circumstances ; requiring the Maryland Health 15 
+Care Commission to establi sh certain reimbursement rates for nonparticipating 16 
+providers;  and generally relating to access to nonparticipating providers.  17 
+ 
+BY repealing and reenacting, without amendments,  18 
+ Article – Insurance  19 
+Section 15 –830(a)  20 
+ Annotated Code of Maryland  21 
+ (2017 Replacement Volume and 2024 Supplement)  22 
+ 
+BY repealing and reenacting, with amendments,  23 
+2 SENATE BILL 902   
+ 
+  Article – Insurance  1 
+Section 15 –830(d) and (e)  2 
+ Annotated Code of Maryland  3 
+ (2017 Replacement Volume and 2024 Supplement)  4 
+ 
+BY repealing and reenacting, with amendments,  5 
+ Chapter 271 of the Acts of the General Assembly of 2022  6 
+ Section 4  7 
+ 
+BY repealing and reenacting, with amendments,  8 
+ Chapter 272 of the Acts of the General Assembly of 2022  9 
+ Section 4  10 
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 11 
+That the Laws of Maryland read as follows:  12 
+ 
+Article – Insurance  13 
+ 
+15–830. 14 
+ 
+ (a) (1) In this section the following words have the meanings indicated.  15 
+ 
+  (2) “Carrier” means:  16 
+ 
+   (i) an insurer that offers health insurance other than long –term 17 
+care insurance or disabi lity insurance;  18 
+ 
+   (ii) a nonprofit health service plan;  19 
+ 
+   (iii) a health maintenance organization;  20 
+ 
+   (iv) a dental plan organization; or  21 
+ 
+   (v) except for a managed care organization as defined in Title 15, 22 
+Subtitle 1 of the Health – General Article, any other person that provides health benefit 23 
+plans subject to State regulation.  24 
+ 
+  (3) (i) “Member” means an individual entitled to health care benefits 25 
+under a policy or plan issued or delivered in the State by a carrier.  26 
+ 
+   (ii) “Member” inclu des a subscriber.  27 
+ 
+  (4) “Nonphysician specialist” means a health care provider:  28 
+ 
+   (i) 1. who is not a physician;  29 
+ 
+ SENATE BILL 902  3 
+ 
+     2. who is licensed or certified under the Health Occupations 1 
+Article; and  2 
+ 
+    3. who is certified or trained to treat or provide healt h care 3 
+services for a specified condition or disease in a manner that is within the scope of the 4 
+license or certification of the health care provider; or  5 
+ 
+   (ii) that is licensed as a behavioral health program under § 7.5 –401 6 
+of the Health – General Artic le. 7 
+ 
+  (5) (i) “Provider panel” means the providers that contract with a carrier 8 
+either directly or through a subcontracting entity to provide health care services to 9 
+enrollees of the carrier.  10 
+ 
+   (ii) “Provider panel” does not include an arrangement in wh ich any 11 
+provider may participate solely by contracting with the carrier to provide health care 12 
+services at a discounted fee –for–service rate.  13 
+ 
+  (6) “Specialist” means a physician who is certified or trained to practice in 14 
+a specified field of medicine and  who is not designated as a primary care provider by the 15 
+carrier.  16 
+ 
+ (d) (1) Each carrier shall establish and implement a procedure by which a 17 
+member may request a referral to a specialist or nonphysician specialist who is not part of 18 
+the carrier’s provider  panel in accordance with this subsection.  19 
+ 
+  (2) The procedure shall provide for a referral to a specialist or nonphysician 20 
+specialist who is not part of the carrier’s provider panel if:  21 
+ 
+   (i) 1. the member is diagnosed with OR SEEKING CARE FOR  a 22 
+condition or disease that requires specialized health care services or medical care; and  23 
+ 
+   (ii) 1. 2. A. the carrier does not have in its provider panel a 24 
+specialist or nonphysician specialist with the professional training and expertise to treat or 25 
+provide health care services for the condition or disease; or  26 
+ 
+    2. B. the carrier cannot provide reasonable access to a specialist 27 
+or nonphysician specialist with the professional training and expertise to treat or provide 28 
+health care services for the co ndition or disease [without unreasonable delay or travel ], 29 
+INCLUDING  WITHIN THE REASONABL E APPOINTMENT WAITIN G TIME AND TRAVEL 30 
+DISTANCE STANDARDS E STABLISHED IN REGULA TION FOR MENTAL HEALTH AN D 31 
+SUBSTANCE USE DISORD ER SERVICES ; OR 32 
+ 
+   (II) 1. THE MEMBER IS SEEKING MENTAL HEALT H OR 33 
+SUBSTANCE USE DISORD ER CARE ; AND 34 
+ 
+4 SENATE BILL 902   
+ 
+     2. THE CARRIER CANNOT P ROVIDE REASONABLE 1 
+ACCESS TO A SPECIALI ST OR NONPHYSICIAN S PECIALIST WITHIN THE  REASONABLE 2 
+APPOINTMENT WAITING TIME AND TRAVEL DIST ANCE STANDARDS ESTAB LISHED IN 3 
+REGULATION  FOR MENTAL HEALTH AN D SUBSTANCE USE DISO RDER SERVICES . 4 
+ 
+  (3) The procedure shall ensure that a request to obtain a referral to a 5 
+specialist or nonphysician specialist who is not part of the carrier’s provider panel is 6 
+addressed in a timely manner that is : 7 
+ 
+   (i) appropriate for the member’s condition; and  8 
+ 
+   (ii) in accordance with the timeliness requirements for 9 
+determinations made by private review agents under § 15 –10B–06 of this title.  10 
+ 
+  (4) IF A MEMBER CANNOT AC CESS MENTAL HEALTH O R SUBSTANCE 11 
+USE DISORDER SERVICES TH ROUGH THE REFERRAL R EQUIREMENTS UNDER 12 
+PARAGRAPHS (2) AND (3) OF THIS SUBSECTION , THE PROCEDURE SHALL REQUIRE 13 
+THE CARRIER TO PROVI DE ADDITIONAL ASSIST ANCE TO THE MEMBER I N 14 
+IDENTIFYING AND ARRA NGING COVERAGE OF ME NTAL HEALTH OR SUBST ANCE USE 15 
+DISORDER SERVICES BY  A SPECIALIST OR NONP HYSICIAN SPECIALIST WHO IS NOT 16 
+PART OF THE CARRIER ’S PROVIDER PANEL . 17 
+ 
+  (5) THE PROCEDURE MAY NOT  REQUIRE PRIOR AUTHOR IZATION FOR  18 
+PURPOSES OF : 19 
+ 
+   (I) SCHEDULING AN APPOIN TMENT WITH A SPECIAL IST OR  20 
+NONPHYSICIAN SPECIALIST WHO IS NO T PART OF THE CARRIE R’S PROVIDER PANEL ; 21 
+ 
+   (II) REIMBURSING A SPECIA LIST OR NONPHYSICIAN  SPECIALIST  22 
+WHO IS NOT PART OF T HE CARRIER ’S PROVIDER PANEL ; OR 23 
+ 
+   (III) CONTINUING AN ESTABL ISHED TREATMENT PLAN  WITH A  24 
+SPECIALIST OR NONPHY SICIA N SPECIALIST WHO IS NOT PART OF THE CARR IER’S 25 
+PROVIDER PANEL  IF A CARRIER APPROVES  A MEMBER ’S REQUEST FOR A REFE RRAL 26 
+MADE IN ACCORDANCE W ITH THIS SUBSECTION , THE CARRIER MAY NOT REQUIRE 27 
+UTILIZATION REVIEW O THER THAN WHAT WOULD  BE REQUIRED IF THE C OVERED 28 
+BENEFIT WERE PROVIDED BY A PROVIDER ON THE  CARRIER ’S PROVIDER PANEL . 29 
+ 
+  [(4)] (6) The procedure may not be used by a carrier as a substitute for 30 
+establishing and maintaining a sufficient provider network in accordance with § 15 –112 of 31 
+this title.  32 
+ 
+  [(5)] (7) Each carrier shall:  33 
+ 
+ SENATE BILL 902  5 
+ 
+    (i) have a system in place that documents all requests to obtain a 1 
+referral to receive a covered service from a specialist or nonphysician specialist who is not 2 
+part of the carrier’s provider panel;  3 
+ 
+   (ii) inform members of th e procedure to request a referral under 4 
+paragraph (1) of this subsection; and  5 
+ 
+   (iii) provide the information documented under item (i) of this 6 
+paragraph to the Commissioner on request.  7 
+ 
+ (e) (1) Except as provided in paragraph (2) of this subsection, fo r purposes of 8 
+calculating any deductible, copayment amount, or coinsurance payable by the member, a 9 
+carrier shall treat services received in accordance with subsection (d) of this section as if 10 
+the service was provided by a provider on the carrier’s provid er panel.  11 
+ 
+  (2) A carrier shall ensure that services received in accordance with 12 
+subsection (d) of this section for mental health or substance use disorders are provided FOR 13 
+THE DURATION OF THE TREATMENT PLAN at no greater cost to the covered individual 14 
+than if the covered benefit were provided by a provider on the carrier’s provider panel.  15 
+ 
+  (3) (I) SUBJECT TO SUBPARAGRA PH (II) OF THIS PARAGRAPH , AND  16 
+NOT LATER THAN JANUARY 1, 2026,  THE MARYLAND HEALTH CARE COMMISSION  17 
+SHALL ESTABLISH A RE IMBURSEMENT FORMU LA TO DETERMINE THE  18 
+REIMBURSEMENT RATE F OR NONPARTICIPATING PROVIDERS WHO DELIVE R 19 
+SERVICES UNDER PARAG RAPH (2) OF THIS SUBSECTION . 20 
+ 
+   (II) THE MARYLAND HEALTH CARE COMMISSION SHALL HOLD  21 
+PUBLIC MEETINGS WITH  CARRIERS , MENTAL HEALTH AND SU BSTANCE USE  22 
+DISORDER PROVIDERS , CONSUMERS OF MENTAL HEALTH AND SUBSTANCE  USE 23 
+DISORDER SERVICES , AND OTHER INTERESTED  PARTIES TO DETERMINE  THE 24 
+REIMBURSEMENT FORMUL A.  25 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 26 
+as follows:  27 
+ 
+Chapter 271 of the  Acts of 2022  28 
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED, That this Act shall take effect July 29 
+1, 2022. [It shall remain effective for a period of 3 years and, at the end of June 30, 2025, 30 
+this Act, with no further action required by the General Assembly, shal l be abrogated and 31 
+of no further force and effect. ] 32 
+ 
+Chapter 272 of the Acts of 2022  33 
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED, That this Act shall take effect July 34 
+1, 2022. [It shall remain effective for a period of 3 years and, at the end of June 30, 2025, 35 
+6 SENATE BILL 902   
+ 
+ this Act, with no further action required by the General Assembly, shall be abrogated and 1 
+of no further force and effect. ] 2 
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That Section 1 of this Act shall 3 
+apply to all policies, contracts, and health benefit plans i ssued, delivered, or renewed in the 4 
+State on or after January 1, 2026.  5 
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED, That Section 1 of this Act shall take 6 
+effect January 1, 2026.  7 
+ 
+ SECTION 5. AND BE IT FURTHER ENACTED, That, except as provided in Section 8 
+4 of th is Act, this Act shall take effect June 1, 2025.  9 
+ 
+ 
+ 
+ 
+Approved:  
+________________________________ ________________________________ ________________   
+           Governor.  
+________________________________ ________________________________ ________________   
+                 President of the Senate.  
+________________________________ ________________________________ ________________   
+         Speaker of the House of Delegates.  

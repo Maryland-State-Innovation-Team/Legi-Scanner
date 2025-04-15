@@ -1,0 +1,179 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.             *sb0774*      
+SENATE BILL 774  
+Q1   5lr3267  
+    CF HB 969  
+By: Senators Hershey and Zucker  
+Introduced and read first time: January 27, 2025  
+Assigned to: Budget and Taxation  
+Committee Report: Favorable with amendments  
+Senate action: Adopted  
+Read second time: February 21, 2025  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Property Tax – Valuation of Operating Property of Rural  Payment in Lieu of 2 
+Taxes Agreements – Broadband Service Providers  3 
+ 
+FOR the purpose of requiring the State Department of Assessments and Taxation, subject 4 
+to certain limitations, to use a certain method when determining the value of the 5 
+operating property of a provider of rural broadband ser vice; and generally relating 6 
+to the valuation of  authorizing the governing body of a county to enter into a payment 7 
+in lieu of taxes agreement with a provider of broadband service located in the county 8 
+for property located in the county and owned by the pr ovider; and generally relating 9 
+to payment in lieu of taxes agreements for  the property of rural  broadband service 10 
+providers.  11 
+ 
+BY repealing and reenacting, with amendments,  12 
+ Article – Tax – Property  13 
+Section 8 –109 14 
+ Annotated Code of Maryland  15 
+ (2019 Replacement Volume and 2024 Supplement)  16 
+ 
+BY adding to  17 
+ Article – Tax – Property  18 
+ Section 7 –522 19 
+ Annotated Code of Maryland  20 
+ (2019 Replacement Volume and 2024 Supplement)  21 
+ 
+2 SENATE BILL 774   
+ 
+  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 1 
+That the Laws of Maryland read as follows:  2 
+ 
+Article – Tax – Property  3 
+ 
+8–109. 4 
+ 
+ (a) [The] EXCEPT AS PROVIDED IN  SUBSECTION (F) OF THIS SECTION , THE 5 
+Department shall annually value the operating unit of a public utility on the basis of the 6 
+value of the operating property of the public utility, by considering:  7 
+ 
+  (1) the earning capacity of the operating unit; and  8 
+ 
+  (2) all other factors relevant to a  determination of value of the operating 9 
+unit.  10 
+ 
+ (b) The Department shall allocate to this State the value of that part of the 11 
+operating unit that is reasonably attributable to the part located in this State.  12 
+ 
+ (c) (1) From the value allocated to this Stat e under subsection (b) of this 13 
+section, the Department shall deduct:  14 
+ 
+   (i) the fair average value of fuel that represents the percentage 15 
+reduction or exemption authorized by §§ 7 –108, 7 –222, and 7 –226 of this article; and  16 
+ 
+   (ii) the assessment of opera ting property, if any, that is exempt by 17 
+law from property tax.  18 
+ 
+  (2) (i) The value remaining after making the deductions shall be 19 
+divided into an operating real property value and an operating personal property value, as 20 
+determined by the Department.  21 
+ 
+   (ii) The value of operating real property is the assessment of 22 
+operating real property of a public utility.  23 
+ 
+   (iii) The value of operating personal property is the assessment of 24 
+operating personal property of a public utility.  25 
+ 
+  (3) Operating land of a  public utility is valued and assessed by the 26 
+Department as part of the operating unit and is not valued and assessed by the supervisor.  27 
+ 
+  (4) The provisions of this subsection are not intended to alter the law as 28 
+codified in former Article 81 of the Code  that was in effect as of January 31, 1986.  29 
+ 
+  (5) Returns, notices, and appeals of operating property assessments shall 30 
+be administered pursuant to the sections of this article governing personal property 31 
+assessments.  32 
+ SENATE BILL 774  3 
+ 
+  
+ (d) For operating property of a pub lic utility, the Department shall apportion the 1 
+assessment of that operating property among the counties and municipal corporations 2 
+where the operating property is located.  3 
+ 
+ (e) (1) In determining whether to classify a company as a public utility, the 4 
+Department shall consider and evaluate whether the company:  5 
+ 
+   (i) is subject to the authority of a regulatory body of the State or the 6 
+federal government, such as the Maryland Public Service Commission, the Federal 7 
+Communications Commission, or the Federal Energy Regulatory Commission;  8 
+ 
+   (ii) uses a significant portion of the real and personal property used 9 
+in its business operations as an integrated whole or unit;  10 
+ 
+   (iii) provides a basic service to the public; and  11 
+ 
+   (iv) owns or uses assets that are most appropriately appraised using 12 
+the unit valuation method.  13 
+ 
+  (2) Notwithstanding a company’s failure to meet all of the criteria under 14 
+paragraph (1) of this subsection, the Department may classify the company as a public 15 
+utility if the Department determines that the company predominantly meets the criteria.  16 
+ 
+ (F) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , IN 17 
+DETERMINING THE VALU E OF OPERATING PROPE RTY OF A PROVIDER OF  RURAL  18 
+BROADBAND SERVICE , THE DEPARTMENT : 19 
+ 
+   (I) WHEN USING AN INCOME  APPRO ACH, SHALL CONSIDER  20 
+ONLY ACTUAL OPERATIN G INCOME ; AND  21 
+ 
+   (II) WHEN USING A REPLACE MENT COST APPROACH , SHALL  22 
+OFFSET THE VALUATION  OF PROPERTY TO THE E XTENT OF ANY CONTRIB UTIONS , 23 
+TAX CREDITS , OR OTHER SUBSIDIES A ND BENEFITS PROVIDED  BY A GOVERNMENTAL  24 
+UNIT O R PROGRAM . 25 
+ 
+  (2) THE DEPARTMENT MAY USE TH E REPLACEMENT COST A PPROACH  26 
+UNDER PARAGRAPH (1)(II) OF THIS SUBSECTION O NLY IF THE VALUE DET ERMINED  27 
+IS LESS THAN THE VAL UE DETERMINED USING THE INCOME APPROACH UNDER  28 
+PARAGRAPH (1)(I) OF THIS SUBSECTION . 29 
+ 
+ [(f)] (G) The Department may adopt regulations to carry out the provisions of 30 
+this section.  31 
+ 
+7–522.  32 
+ 
+4 SENATE BILL 774   
+ 
+  (A) THE GOVERNING BODY OF  A COUNTY MAY ENTER I NTO AN AGREEMENT 1 
+WITH A BROADBAND SER VICES PROVIDER LOCAT ED IN THE COUNTY FOR  A 2 
+NEGOTIATED PAYMENT B Y THE PROVIDER IN LIEU OF TAXES ON PROPERTY 3 
+LOCATED IN THE COUNT Y AND OWNED BY THE P ROVIDER . 4 
+ 
+ (B) AN AGREEMENT FOR A NE GOTIATED PAYMENT IN LIEU OF TAXES UNDER 5 
+THIS SECTION SHALL P ROVIDE THAT , FOR THE TERM SPECIFI ED IN THE 6 
+AGREEMENT : 7 
+ 
+  (1) THE PROVIDER SHALL P AY TO THE COUNTY A SP ECIFIED AMOUNT 8 
+EACH YEAR IN LIEU OF  THE PAYMENT OF COUNT Y REAL AND PERSONAL PROPERTY 9 
+TAX; AND  10 
+ 
+  (2) ALL OR A SPECIFIED P ART OF THE PROVIDER ’S REAL AND 11 
+PERSONAL PROPERTY LO CATED IN THE COUNTY SHALL BE EXEMPT FROM  COUNTY 12 
+PROPERTY TAX FOR  THE TERM OF THE AGRE EMENT . 13 
+ 
+ (C) AS SPECIFIED IN AN AG REEMENT FOR A NEGOTI ATED PAYMENT IN LIEU  14 
+OF TAXES UNDER THIS SECTION , FOR THE TERM SPECIFI ED IN THE AGREEMENT , THE 15 
+PROVIDER ’S REAL AND PERSONAL PROPERTY LOCATED IN THE COUNTY IS EXEMPT  16 
+FROM COUNTY PROP ERTY TAX .  17 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June 18 
+1, 2025, and shall be applicable to all taxable years beginning after June 30, 2025.  19 
+ 
+ 
+ 
+ 
+Approved:  
+________________________________ ________________________________ ________________   
+           Governor.  
+________________________________ ________________________________ ________________   
+                 President of the Senate.  
+________________________________ ________________________________ ________________   
+         Speaker of the House of Delegates.  

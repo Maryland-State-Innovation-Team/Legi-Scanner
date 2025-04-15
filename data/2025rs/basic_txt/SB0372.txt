@@ -1,0 +1,322 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.  
+         Italics indicate opposite chamber/confere nce committee amendments.             *sb0372*      
+SENATE BILL 372  
+J5, J1    (5lr1977 ) 
+ENROLLED BILL  
+— Finance/Health and Government Operations  — 
+Introduced by Senators Beidle, Gile, Kramer, Lam, and Mautz  Mautz, Ellis, Hayes, 
+Hershey, C.  Jackson, Ready, and A.  Washington  
+ 
+Read and Examined by Proofreaders:  
+ 
+_______________________________________________  
+Proofreader.  
+_______________________________________________  
+Proofreader.  
+ 
+Sealed with the Great Seal and pre sented to the Governor, for his approval this  
+  
+_______ day of _______________ at ________________________ o’clock, ________M.  
+  
+______________________________________________  
+President .  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Preserve Telehealth Access Act  of 2025  2 
+ 
+FOR the purpose of repealing the limitation on the period during which certain audio –only 3 
+telephone conversations are included under the definition of “telehealth” for the 4 
+purpose of certain provisions of law relating to reimbursement and cover age of 5 
+telehealth by the Maryland Medical Assistance Program and certain insurers, 6 
+nonprofit health service plans, and health maintenance organizations; repealing the 7 
+limitation on the period during which the Program and certain insurers, nonprofit 8 
+health service plans, and health maintenance organizations are required to provide 9 
+reimbursement for certain health care services provided through telehealth on a 10 
+certain basis and at a certain rate; altering the circumstances under which health 11 
+care practitioners are authorized to prescribe certain controlled dangerous substances 12 
+for the treatment of pain through telehealth;  requiring the Maryland Health Care 13 
+Commission to submit a certain report rega rding telehealth every certain number of 14 
+2 SENATE BILL 372   
+ 
+ years;  and generally relating to the coverage and reimbursement of health care 1 
+services delivered through telehealth.  2 
+ 
+BY repealing and reenacting, with amendments,  3 
+ Article – Health – General  4 
+Section 15 –141.2(a)( 7) and (g)  5 
+ Annotated Code of Maryland  6 
+ (2023 Replacement Volume and 2024 Supplement)  7 
+ 
+BY adding to  8 
+ Article – Health – General  9 
+ Section 19 –108.6  10 
+ Annotated Code of Maryland  11 
+ (2023 Replacement Volume and 2024 Supplement)  12 
+ 
+BY repealing and reenacting, with  amendments,  13 
+ Article – Health Occupations  14 
+ Section 1 –1003  15 
+ Annotated Code of Maryland  16 
+ (2021 Replacement Volume and 2024 Supplement)  17 
+ 
+BY repealing and reenacting, with amendments,  18 
+ Article – Insurance  19 
+Section 15 –139(a) and (d)  20 
+ Annotated Code of Maryland  21 
+ (2017 Replacement Volume and 2024 Supplement)  22 
+ 
+BY repealing and reenacting, without amendments,  23 
+ Article – Insurance  24 
+Section 15 –139(b) and (c)  25 
+ Annotated Code of Maryland  26 
+ (2017 Replacement Volume and 2024 Supplement)  27 
+ 
+ SECTION 1. BE IT ENACTED BY THE GE NERAL ASSEMBLY OF MARYLAND, 28 
+That the Laws of Maryland read as follows:  29 
+ 
+Article – Health – General  30 
+ 
+15–141.2.  31 
+ 
+ (a) (7) (i) “Telehealth” means the delivery of medically necessary somatic, 32 
+dental, or behavioral health services to a patient at an originating  site by a distant site 33 
+provider through the use of technology –assisted communication.  34 
+ 
+   (ii) “Telehealth” includes:  35 
+ 
+    1. Synchronous and asynchronous interactions;  36 
+ SENATE BILL 372  3 
+ 
+  
+    2. [From July 1, 2021, to June 30, 2025, both inclusive, an ] 1 
+AN audio –only telephone conversation between a health care provider and a patient that 2 
+results in the delivery of a billable, covered health care service; and  3 
+ 
+    3. Remote patient monitoring services.  4 
+ 
+   (iii) “Telehealth” does not include the provision o f health care 5 
+services solely through:  6 
+ 
+    1. Except as provided in subparagraph (ii)2 of this 7 
+paragraph, an audio –only telephone conversation;  8 
+ 
+    2. An e –mail message; or  9 
+ 
+    3. A facsimile transmission.  10 
+ 
+ (g) (1) Subject to paragraph (3) of this subs ection, the Program shall 11 
+reimburse a health care provider for the diagnosis, consultation, and treatment of a 12 
+Program recipient for a health care service covered by the Program that can be 13 
+appropriately provided through telehealth.  14 
+ 
+  (2) This subsection does not require the Program to reimburse a health 15 
+care provider for a health care service delivered in person or through telehealth that is:  16 
+ 
+   (i) Not a covered health care service under the Program; or  17 
+ 
+   (ii) Delivered by an out –of–network provider u nless the health care 18 
+service is a self –referred service authorized under the Program.  19 
+ 
+  (3) (i) [From July 1, 2021, to June 30, 2025, both inclusive, when ] 20 
+WHEN  appropriately provided through telehealth, the Program shall provide 21 
+reimbursement in accorda nce with paragraph (1) of this subsection on the same basis and 22 
+the same rate as if the health care service were delivered by the health care provider in 23 
+person.  24 
+ 
+   (ii) The reimbursement required under subparagraph (i) of this 25 
+paragraph does not include:  26 
+ 
+    1. Clinic facility fees unless the health care service is 27 
+provided by a health care provider not authorized to bill a professional fee separately for 28 
+the health care service; or  29 
+ 
+    2. Any room and board fees.  30 
+ 
+19–108.6.  31 
+4 SENATE BILL 372   
+ 
+  
+ ON OR BEFORE DECEMBER 1 EVERY 4 YEARS , BEGINNING IN 2026,  THE 1 
+COMMISSION SHALL SUBM IT A REPORT TO THE GOVERNOR AND , IN ACCORDANCE 2 
+WITH § 2–1257  OF THE STATE GOVERNMENT ARTICLE , THE GENERAL ASSEMBLY 3 
+THAT INCLUDES : 4 
+ 
+  (1) ADVANCES OR DEVELOPME NTS IN THE AREA OF T ELEHEALTH , 5 
+INCLUDING : 6 
+ 
+   (I) EVOLVING MODALITIES O F TELEHEALTH DELIVER Y; AND  7 
+ 
+   (II) CHANGES IN THE COSTS OF DELIVERING TELEHE ALTH 8 
+SERVICES ; AND  9 
+ 
+  (2) ANY FINDINGS OR RECOM MENDATIONS OF THE COMMISSION .  10 
+ 
+Article – Health Occupations  11 
+ 
+1–1003.  12 
+ 
+ (a) A health care practitioner  providing telehealth services shall:  13 
+ 
+  (1) Be held to the same standards of practice that are applicable to  14 
+in–person health care settings; and  15 
+ 
+  (2) If clinically appropriate for the patient, provide or refer a patient to  16 
+in–person health care services or another type of telehealth service.  17 
+ 
+ (b) (1) A health care practitioner shall perform a clinical evaluation that is 18 
+appropriate for the patient and the condition with which the patient presents before 19 
+providing treatment or issuing a prescript ion through telehealth.  20 
+ 
+  (2) A health care practitioner may use a synchronous telehealth interaction 21 
+or an asynchronous telehealth interaction to perform the clinical evaluation required under 22 
+paragraph (1) of this subsection.  23 
+ 
+ (c) (1) A health care pra ctitioner may not prescribe an opiate described in the 24 
+list of Schedule II substances under § 5 –403 of the Criminal Law Article for the treatment 25 
+of pain through telehealth, unless:  26 
+ 
+   (i) The individual receiving the prescription is a patient in a health  27 
+care facility, as defined in § 19 –114 of the Health – General Article; [or] 28 
+ 
+   (ii) The Governor has declared a state of emergency due to a 29 
+catastrophic health emergency ; OR 30 
+ 
+ SENATE BILL 372  5 
+ 
+    (III) THERE IS AN ESTABLISH ED BONA FIDE  1 
+PRACTITIONER –PATIENT RELATIONSHIP  IN WHICH THE HEALTH CARE 2 
+PRACTITIONER HAS ONG OING RESPONSIBILITY FOR THE ASSESSMENT , CARE , AND 3 
+TREATMENT OF THE PAT IENT AND THE HEALTH CARE PRACTITIONER , OR ANOTHER 4 
+HEALTH CARE PRACTITI ONER IN THE SAME GRO UP PRACTICE , PREVIOUSLY 5 
+CONDUCTED AN IN –PERSON ASSE SSMENT OF THE PATIEN T. 6 
+ 
+  (2) Subject to paragraph (1) of this subsection, a health care practitioner 7 
+who through telehealth prescribes a controlled dangerous substance, as defined in § 5 –101 8 
+of the Criminal Law Article, is subject to any applicable regula tion, limitation, and 9 
+prohibition in federal and State law relating to the prescription of controlled dangerous 10 
+substances.   11 
+ 
+Article – Insurance  12 
+ 
+15–139. 13 
+ 
+ (a) (1) In this section, “telehealth” means, as it relates to the delivery of health 14 
+care services,  the use of interactive audio, video, or other telecommunications or electronic 15 
+technology by a licensed health care provider to deliver a health care service within the 16 
+scope of practice of the health care provider at a location other than the location of  the 17 
+patient.  18 
+ 
+  (2) “Telehealth” includes [from July 1, 2021, to June 30, 2025, both 19 
+inclusive, ] an audio –only telephone conversation between a health care provider and a 20 
+patient that results in the delivery of a billable, covered health care service.  21 
+ 
+  (3) “Telehealth” does not include:  22 
+ 
+   (i) except as provided in paragraph (2) of this subsection, an  23 
+audio –only telephone conversation between a health care provider and a patient;  24 
+ 
+   (ii) an electronic mail message between a health care provider and a 25 
+patient; or  26 
+ 
+   (iii) a facsimile transmission between a health care provider and a 27 
+patient.  28 
+ 
+ (b) This section applies to:  29 
+ 
+  (1) insurers and nonprofit health service plans that provide hospital, 30 
+medical, or surgical benefits to individuals or groups on an expense –incurred basis under 31 
+health insurance policies or contracts that are issued or delivered in the State; and  32 
+ 
+6 SENATE BILL 372   
+ 
+   (2) health maintenance organizations that provide hospital, medical, or 1 
+surgical benefits to individuals or groups under contracts that  are issued or delivered in 2 
+the State.  3 
+ 
+ (c) (1) An entity subject to this section:  4 
+ 
+   (i) shall provide coverage under a health insurance policy or 5 
+contract for health care services appropriately delivered through telehealth regardless of 6 
+the location of  the patient at the time the telehealth services are provided;  7 
+ 
+   (ii) may not exclude from coverage a health care service solely 8 
+because it is provided through telehealth and is not provided through an in –person 9 
+consultation or contact between a health c are provider and a patient; and  10 
+ 
+   (iii) may not exclude from coverage or deny coverage for a behavioral 11 
+health care service that is a covered benefit under a health insurance policy or contract 12 
+when provided in person solely because the behavioral health  care service may also be 13 
+provided through a covered telehealth benefit.  14 
+ 
+  (2) The health care services appropriately delivered through telehealth 15 
+shall include counseling and treatment for substance use disorders and mental health 16 
+conditions.  17 
+ 
+ (d) (1) Subject to paragraph (2) of this subsection, an entity subject to this 18 
+section:  19 
+ 
+   (i) shall reimburse a health care provider for the diagnosis, 20 
+consultation, and treatment of an insured patient for a health care service covered under a 21 
+health insurance po licy or contract that can be appropriately provided through telehealth;  22 
+ 
+   (ii) is not required to:  23 
+ 
+    1. reimburse a health care provider for a health care service 24 
+delivered in person or through telehealth that is not a covered benefit under the health  25 
+insurance policy or contract; or  26 
+ 
+    2. reimburse a health care provider who is not a covered 27 
+provider under the health insurance policy or contract; and  28 
+ 
+   (iii) 1. may impose a deductible, copayment, or coinsurance 29 
+amount on benefits for health care s ervices that are delivered either through an in –person 30 
+consultation or through telehealth;  31 
+ 
+    2. may impose an annual dollar maximum as permitted by 32 
+federal law; and  33 
+ 
+    3. may not impose a lifetime dollar maximum.  34 
+ SENATE BILL 372  7 
+ 
+  
+  (2) (i) [From July 1, 2021, to June  30, 2025, both inclusive, when ] 1 
+WHEN  a health care service is appropriately provided through telehealth, an entity subject 2 
+to this section shall provide reimbursement in accordance with paragraph (1)(i) of this 3 
+subsection on the same basis and at the same  rate as if the health care service were 4 
+delivered by the health care provider in person.  5 
+ 
+   (ii) The reimbursement required under subparagraph (i) of this 6 
+paragraph does not include:  7 
+ 
+    1. clinic facility fees unless the health care service is 8 
+provided  by a health care provider not authorized to bill a professional fee separately for 9 
+the health care service; or  10 
+ 
+    2. any room and board fees.  11 
+ 
+   (iii) This paragraph may not be construed to supersede the authority 12 
+of the Health Services Cost Review Com mission to set the appropriate rates for hospitals, 13 
+including setting the hospital facility fee for hospital –provided telehealth.  14 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June 15 
+1, 2025.  16 
+ 
+ 
+ 
+ 
+Approved:  
+________________________________ ________________________________ ________________   
+           Governor.  
+________________________________ ________________________________ ________________   
+                 President of the Senate.  
+________________________________ ________________________________ ________________   
+         Speaker of the House of Delegates.  

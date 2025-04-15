@@ -1,0 +1,276 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.  
+         Italics indicate opposite chamber/conference committee amendments.             *hb0426*      
+HOUSE BILL 426  
+G1   (5lr1806 ) 
+ENROLLED BILL  
+— Ways and Means/Education, Energy, and the Environment  — 
+Introduced by Delegates Kaiser and Wilkins  
+ 
+Read and Examined by Proofreaders:  
+ 
+_______________________________________________  
+Proofreader.  
+_______________________________________________  
+Proofreader.  
+ 
+Sealed with the Great Seal and presented to the Governor, for his approval this  
+  
+_______ day of _______________ at  ________________________ o’clock, ________M.  
+  
+______________________________________________  
+Speaker .  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Election Law – Postelection Tabulation Audits – Risk–Limiting Audits  2 
+ 
+FOR the purpose of requiring the State Board of Elections, in collaboration with the local 3 
+boards of elections, to conduct a risk –limiting audit after each statewide election; 4 
+authorizing the State Board, in collaboration with the local boards, to conduct a  5 
+risk–limiting audit after a special general election; authorizing, rather than 6 
+requiring, the State Board, in collaboration with the local boards, to conduct an 7 
+automated software audit after a statewide election; authorizing a local board to 8 
+conduct a risk–limiting audit of a local contest under certain circumstances;  repealing 9 
+a requirement to conduct a manual audit after each statewide general election; and 10 
+generally relating to postelection tabulation audits.  11 
+ 
+BY repealing and reenacting, with amendments,  12 
+ Article – Election Law  13 
+Section 11 –309 14 
+2 HOUSE BILL 426   
+ 
+  Annotated Code of Maryland  1 
+ (2022 Replacement Volume and 2024 Supplement)  2 
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 3 
+That the Laws of Maryland read as follows:  4 
+ 
+Article – Election Law  5 
+ 
+11–309. 6 
+ 
+ (a) (1) In this section the following words have the meanings indicated.  7 
+ 
+  (2) “AUTOMATED SOFTWARE AU DIT” MEANS AN AUDIT OF 8 
+ELECTRONIC IMAGES OF  BALLOTS CAST IN AN E LECTION USING SOFTWA RE THAT IS 9 
+INDEPENDENT OF THE V OTING SYSTEM . 10 
+ 
+  (3) “ELECTRONIC COUNT ” MEANS THE VOTE TOTAL S PRODUCED BY 11 
+THE VOTING SYSTEM . 12 
+ 
+  (4) “LOCAL CONTEST ” MEANS A CONTEST THAT : 13 
+ 
+   (I) IS NOT A STATEWIDE C ONTEST ; AND 14 
+ 
+   (II) APPEARS ON THE BALLO T IN ALL OR PART OF A COUNTY , 15 
+INCLUDING A CONTEST TO REPRESENT A DISTR ICT THAT INCLUDES MO RE THAN ONE 16 
+COUNTY . 17 
+ 
+  [(2)] (5) “Manual [audit” ] COUNT” means inspection of voter –verifiable 18 
+paper records by hand and eye to obtain vote totals in a contest [that are compared to the 19 
+vote totals produced for that contest by the electronic voting system ]. 20 
+ 
+  [(3) “Previous comparable general election” means:  21 
+ 
+   (i) in a presidential election year, the presidential election held 4 22 
+years earlier; and  23 
+ 
+   (ii) in a gubernatorial election year, the gubernatorial election held 24 
+4 years  earlier. ] 25 
+ 
+  (6) “RISK LIMIT ” MEANS THE SMALL , PREDETERMINED MAXIMU M 26 
+CHANCE THAT A RISK –LIMITING AUDIT WILL NOT REQUIRE A FULL M ANUAL COUNT 27 
+OF VOTER –VERIFIABLE PAPER REC ORDS IN AN AUDITED C ONTEST IF A FULL 28 
+MANUAL COUNT OF THE VOTER–VERIFIABLE PAPER REC ORD S WOULD FIND A 29 
+DIFFERENT OUTCOME TH AN THE OUTCOME DETER MINED BY THE ELECTRO NIC 30 
+COUNT . 31 
+ HOUSE BILL 426 3 
+ 
+  
+  (7) “RISK–LIMITING AUDIT ” MEANS A POSTELECTION  AUDIT 1 
+PROCEDURE THAT EMPLO YS STATISTICAL METHO DS TO ENSURE A LARGE , 2 
+PREDETERMINED MINIMU M CHANCE OF REQUIRIN G A FULL MAN UAL COUNT OF 3 
+VOTER–VERIFIABLE PAPER REC ORDS IN AN AUDITED C ONTEST IF A FULL MAN UAL 4 
+COUNT OF THE VOTER –VERIFIABLE PAPER REC ORDS WOULD FIND A DI FFERENT 5 
+OUTCOME THAN THE OUT COME DETERMINED BY T HE ELECTRONIC COUNT . 6 
+ 
+  [(4)] (8) “Voter –verifiable paper record” has the meaning stated in §  7 
+9–102 of this article.  8 
+ 
+ [(b) Following each statewide general election, the State Board shall conduct an 9 
+audit of the accuracy of the voting system’s tabulation of votes by completing:  10 
+ 
+  (1) an automated software audit of the  electronic images of all ballots cast 11 
+in the election; and  12 
+ 
+  (2) a manual audit of voter –verifiable paper records in accordance with 13 
+subsection (d) of this section.  14 
+ 
+ (c) Following each statewide primary election, the State Board:  15 
+ 
+  (1) shall complete a n automated software audit of the electronic images of 16 
+all ballots cast in the election; and  17 
+ 
+  (2) may complete a manual audit of voter –verifiable paper records in a 18 
+manner prescribed by the State Board.  19 
+ 
+ (d) (1) Following each statewide general election , the State Board shall 20 
+complete a manual audit of:  21 
+ 
+   (i) at least 2% of precincts statewide, including:  22 
+ 
+    1. at least one randomly chosen precinct in each county; and  23 
+ 
+    2. additional precincts selected by the State Board; and  24 
+ 
+   (ii) a number of votes equal to at least 1% of the statewide total in 25 
+the previous comparable general election of each of the following, including at least a 26 
+minimum number of each of the following in each county, as prescribed by the State Board:  27 
+ 
+    1. early votes;  28 
+ 
+    2. absentee votes; and  29 
+ 
+    3. provisional votes.  30 
+4 HOUSE BILL 426   
+ 
+  
+  (2) The manual audit shall be completed within 120 days after the general 1 
+election.  2 
+ 
+  (3) If the manual audit shows a discrepancy, the State Board may:  3 
+ 
+   (i) expand the manual audit; and  4 
+ 
+   (ii) take any other actions it considers necessary to resolve the 5 
+discrepancy.  6 
+ 
+  (4) Within 14 days after the conclusion of the audit, the State Board shall 7 
+post on its website a report that describes:  8 
+ 
+   (i) the precincts and number of votes selected for the  manual audit 9 
+in each county and the manner in which the precincts and votes were selected;  10 
+ 
+   (ii) the results of the manual audit; and  11 
+ 
+   (iii) any discrepancy shown by the manual audit and how the 12 
+discrepancy was resolved.  13 
+ 
+  (5) The State Board shall  allow for public observation of each part of the 14 
+manual audit process to the extent practicable.  15 
+ 
+ (e) An audit under this section:  16 
+ 
+  (1) may not have any effect on the certified election results; and  17 
+ 
+  (2) shall be used to improve the voting system and  voting process for future 18 
+elections. ] 19 
+ 
+ (B) (1) FOLLOWING EACH STATEW IDE ELECTION , THE STATE BOARD , IN 20 
+COLLABORATION WITH THE LOCAL BOARDS  EACH LOCAL BOARD , SHALL AUDIT THE 21 
+ACCURACY OF THE VOTI NG SYSTEM ’S TABULATION OF VOTE S IN EACH COUNTY  BY 22 
+CONDUCTING A  RISK–LIMITING AUDIT OF : 23 
+ 
+   (I) AT LEAST ONE STATEWI DE CONTEST ; AND 24 
+ 
+   (II) AT LEAST ONE LOCAL C ONTEST IN EACH COUNT Y; AND 25 
+ 
+   (III) ANY OTHER CONTESTS S ELECTED FOR AUDIT BY  THE STATE 26 
+BOARD . 27 
+ 
+ HOUSE BILL 426 5 
+ 
+   (2) FOLLOWING A SPECIAL G ENERAL ELECTION , THE STATE BOARD , 1 
+IN COLLABORATION WIT H THE LOCAL BOARDS , MAY CONDUCT A RISK –LIMITING 2 
+AUDIT . 3 
+ 
+  (3) (I) SUBJECT TO SUBPARAGRA PH (II) OF THIS PARAGRAPH , THE 4 
+STATE BOARD SHALL SELECT TH E SPECIFIC CONTESTS TO BE AUDITED UNDER 5 
+PARAGRAPH (1) OF THIS SUBSECTION . 6 
+ 
+   (II) A CONTES T FOR AN OFFICE FOR WHICH THE TERM BEGIN S 7 
+IN THE MONTH OF DECEMBER MAY NOT BE S ELECTED FOR AUDIT UN LESS THE 8 
+ELECTION DIRECTOR FO R THE COUNTY AGREES TO AUDIT THE CONTEST . 9 
+ 
+  (4) A RISK–LIMITING AUDIT SHALL : 10 
+ 
+   (I) MANUALLY EXAMINE RAN DOMLY CHOSEN INDIVID UAL 11 
+VOTER–VERIFIABLE PAPER REC ORDS OR BATCHES OF V OTER–VERIFIABLE PAPER 12 
+RECORDS UNTIL THE RI SK LIMIT IS MET OR THE CORRECT ELECT ION OUTCOME IS 13 
+ESTABLISHED ;  14 
+ 
+   (II) BE COMPLETED BEFORE CERTIFICATION OF THE  ELECTION  15 
+RESULTS  THE BOARD OF STATE CANVASSERS TRANSMITS A CERTIFIED STATEMEN T 16 
+OF THE ELECTION RESU LTS TO THE STATE BOARD UNDER § 11–503( A) OF THIS 17 
+TITLE ; AND  18 
+ 
+   (III) BE OBSERVABLE BY THE  PUBLIC TO THE MAXIMU M EXTENT 19 
+PRACTICABLE . 20 
+ 
+  (5) (I) IF A RISK –LIMITING AUDIT FINDS  THAT THE ELECTION 21 
+OUTCOME DETERMINED B Y THE ELECTRONIC COU NT IS INCORRECT , THE OFFICIAL 22 
+RESULT OF  THE ELECTION SHALL B E ALTERED TO MATCH T HE OUTCOME 23 
+DETERMINED BY THE  RISK–LIMITING AUDIT . 24 
+ 
+  (6) WITHIN 10 DAYS AFTER THE CONCL USION OF THE RISK –LIMITING  25 
+AUDIT , THE STATE BOARD SHALL POST ON T HE STATE BOARD’S WEBSITE A REPORT  26 
+THAT DESCRIBES THE A UDIT PROCESS AND THE  RESULTS OF THE AUDIT  27 
+INACCURATE , THE STATE ADMINISTRATOR , IN CONSULTATION WITH  THE STATE 28 
+BOARD , SHALL DIRECT THE REL EVANT BOARD OF CANVA SSERS TO IMMEDIATELY  29 
+INVESTIGATE THE MATT ER TO DETERMINE AN A CCURATE ELECTION RES ULT. 30 
+ 
+   (II) THE BOARD OF CANVASSE RS SHALL CONCLUDE TH E 31 
+INVESTIGATION WITHIN  3 DAYS . 32 
+ 
+6 HOUSE BILL 426   
+ 
+    (III) THE BOARD OF CANVASSE RS SHALL CORRECT THE  1 
+ELECTION RESULT IN ACCORDANCE WITH R EGULATIONS ADOPTED B Y THE STATE 2 
+BOARD . 3 
+ 
+  (6) THE STATE ADMINISTRATOR SHALL R EPORT THE RESULTS OF  4 
+THE RISK –LIMITING AUDIT TO TH E BOARD OF STATE CANVASSERS AND THE STATE 5 
+BOARD . 6 
+ 
+ (C) IN ADDITION TO THE RI SK–LIMITING AUDIT REQUI RED UNDER 7 
+SUBSECTION (B) OF THIS SECTION , THE STATE BOARD , IN COLLABORATION WIT H 8 
+THE LOCAL BOARDS , MAY CONDUCT AN AUTOM ATED SOFTWARE AUDIT AFTER A 9 
+STATEWIDE ELECTION .  10 
+ 
+ (D) A LOCAL BOARD MAY COND UCT A RISK–LIMITING AUDIT OF A LOCAL 11 
+CONTEST AT THE DISCR ETION OF THE LOCAL B OARD .  12 
+ 
+ [(f)] (D) (E) (1) The State Board shall adopt regulations to carry out this section.  13 
+ 
+  (2) THE REGULATIONS ADOPT ED UNDER PARAGRAPH (1) OF THIS 14 
+SUBSECTION TO CARRY OUT RISK –LIMITING AUDITS IN ACCO RDANCE WITH 15 
+SUBSECTION (B) OF THIS SECTION SHAL L INCLUDE : 16 
+ 
+   (I) CRITERIA FOR DETERMI NING THE CONTESTS TO  BE 17 
+AUDITED ; 18 
+ 
+   (II) THE RISK LIMIT ; AND 19 
+ 
+   (III) THE AUDIT METHOD . 20 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June 21 
+1, 2025.  22 
+ 
+ 
+ 
+ 
+Approved:  
+________________________________ ________________________________ ________________   
+           Governor.  
+________________________________ ________________________________ ________________   
+         Speaker of the House of Delegates.  
+________________________________ ________________________________ ________________   
+                 President of the Senate.  

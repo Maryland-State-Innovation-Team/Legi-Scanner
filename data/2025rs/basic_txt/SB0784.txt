@@ -1,0 +1,2871 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MATTER ADDED TO EXIS TING LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.             *sb0784*      
+SENATE BILL 784  
+P5 EMERGENCY BILL  5lr1973  
+      
+By: The President (By Request – Department of Legislative Services)  
+Introduced and read first time: January 27, 2025  
+Assigned to: Rules  
+Committee Report: Favorable  
+Senate action: Adopted  
+Read second time: March 12, 2025  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Annual Corrective Bill  2 
+ 
+FOR the purpose of correcting certain errors or omissions in certain articles of the 3 
+Annotated Code; clarifying language; correcting certain obsolete references; 4 
+reorganizing certain sections of the Annotated Code; providing that this Act is not 5 
+intended t o affect any law other than to correct technical errors; and providing for 6 
+the correction of certain errors and obsolete provisions by the publishers of the 7 
+Annotated Code.  8 
+ 
+BY repealing and reenacting, with amendments,  9 
+ Article – Alcoholic Beverages an d Cannabis  10 
+Section 4 –109(a)(13), 22 –1601(b), 32 –902(b), and 33 –1504(b)  11 
+ Annotated Code of Maryland  12 
+ (2024 Replacement Volume)  13 
+ 
+BY repealing and reenacting, with amendments,  14 
+ Article – Business Occupations and Professions  15 
+Section 13 –304(b)(1) and 19 –304(b)( 1) 16 
+ Annotated Code of Maryland  17 
+ (2018 Replacement Volume and 2024 Supplement)  18 
+ 
+BY repealing and reenacting, with amendments,  19 
+ Article – Business Regulation  20 
+The subtitle designation “Subtitle 2. Electronic Smoking Devices Licenses” 21 
+immediately preceding Section 16.7 –201 22 
+2 SENATE BILL 784   
+ 
+  Annotated Code of Maryland  1 
+ (2024 Replacement Volume)  2 
+ 
+BY repealing and reenacting, without amendments,  3 
+ Article – Business Regulation  4 
+Section 16.7 –201 5 
+ Annotated Code of Maryland  6 
+ (2024 Replacement Volume)  7 
+ 
+BY repealing and reenacting, w ith amendments,  8 
+ Article – Commercial Law  9 
+Section 11 –501(m)(1) and 16A –101(d)(2)(ii)  10 
+ Annotated Code of Maryland  11 
+ (2013 Replacement Volume and 2024 Supplement)  12 
+ 
+BY repealing and reenacting, with amendments,  13 
+ Article – Corporations and Associations  14 
+Section 5–6B–30(a)  15 
+ Annotated Code of Maryland  16 
+ (2014 Replacement Volume and 2024 Supplement)  17 
+ 
+BY repealing and reenacting, with amendments,  18 
+ Article – Correctional Services  19 
+Section 5 –201(b)(3) and (4) and 7 –309(d)(2)  20 
+ Annotated Code of Maryland  21 
+ (2017 Replacement Volume and 2024 Supplement)  22 
+ 
+BY repealing and reenacting, with amendments,  23 
+ Article – Courts and Judicial Proceedings  24 
+Section 3 –1505(c)(1)  25 
+ Annotated Code of Maryland  26 
+ (2020 Replacement Volume and 2024 Supplement)  27 
+ 
+BY repealing and reenacting, with amendments,  28 
+ Article – Criminal Law  29 
+Section 4 –111(a)(5) and 9 –804(g)(2)  30 
+ Annotated Code of Maryland  31 
+ (2021 Replacement Volume and 2024 Supplement)  32 
+ 
+BY repealing and reenacting, with amendments,  33 
+ Article – Economic Development  34 
+Section 5 –704(a)(1), 5 –1303(b)(2) and (3), 5 –1501, 5 –2503(c)(1) , 6–301(d)(1)(i),  35 
+10–1117(7), 12 –609(b), and 13 –620(6); and the subtitle designation “Subtitle 36 
+12. Regional Advanced Manufacturing Partnership of Maryland” immediately 37 
+preceding Section 13 –1201   38 
+ Annotated Code of Ma ryland  39 
+ (2024 Replacement Volume and 2024 Supplement)  40 
+ SENATE BILL 784  3 
+ 
+  
+BY repealing and reenacting, without amendments,  1 
+ Article – Economic Development  2 
+Section 13 –1201  3 
+ Annotated Code of Maryland  4 
+ (2024 Replacement Volume and 2024 Supplement)  5 
+ 
+BY repealing and reenacting,  with amendments,  6 
+ Article – Education  7 
+Section 3 –1301(f)(1), 5 –239(c)(2), 6 –121(a)(2), 7–101.2(f)(1), 7 –205.1(e)(3)(i),  8 
+7–303(a)(6)(iii)2 ., 7–1501(j), 9.9 –104(b)(1)(iv) , 10–203(c)(2)(i), 12 –304(d)(2)(v)  9 
+and (3)(iv), 13 –703(a), 18 –601(f)(1) and (2), 18 –3903(f)(2), and 18 –4102(a)  10 
+ Annotated Code of Maryland  11 
+ (2022 Replacement Volume and 2024 Supplement)  12 
+ 
+BY repealing and reenacting, without amendments,  13 
+ Article – Education  14 
+Section 7 –303(a)(6)(i) and (ii)  15 
+ Annotated Code of Maryland  16 
+ (2022 Replacement Volume and 2024 Supplement)  17 
+ 
+BY repealing and reenacting, with amendments,  18 
+ Article – Election Law  19 
+Section 3 –203(j)(1) and 16 –1002  20 
+ Annotated Code of Maryland  21 
+ (2022 Replacement Volume and 2024 Supplement)  22 
+ 
+BY repealing and reenacting, with amendments,  23 
+ Article – Environment  24 
+Section 5 –1104(b)(5)  25 
+ Annotated Code of Maryland  26 
+ (2013 Replacement Volume and 2024 Supplement)  27 
+ 
+BY repealing and reenacting, with amendments,  28 
+ Article – Environment  29 
+Section 9 –353(f), 9 –1605(d)(16), and 9 –2501(f)(2)(vii) and (viii)  30 
+ Annotated Code of Maryland  31 
+ (2014 Replacement Volume and 2024 Supplement)  32 
+ 
+BY repealing and reenacting, with amendments,  33 
+ Article – Family Law  34 
+Section 4 –516(b)(4)  35 
+ Annotated Code of Maryland  36 
+ (2019 Replacement Volume and 2024 Supplement)  37 
+ 
+BY repealing and reenacting, without amendments,  38 
+ Article – Health – General  39 
+4 SENATE BILL 784   
+ 
+ Section 4 –201(a) and 10 –205(a)  1 
+ Annotated Code of Maryland  2 
+ (2023 Replacement Volume and 2024 Supplement)  3 
+ 
+BY repealing  4 
+ Article – Health – General  5 
+Section 4 –201(o)  6 
+ Annotated Code of Maryland  7 
+ (2023 Replacement Volume and 2024 Supplement)  8 
+ 
+BY repealing and reenacting, with amendments,  9 
+ Article – Health – General  10 
+Section 4 –201(p) and 7.5–903(a)(7)(ii); the subtitle designation “Subtitle 2. Mental 11 
+Health Plans and Services” immediately preceding Section 10 –205; and  12 
+13–5004(b)(1), 18 –108(b)(3) and (4), 18 –214(m), 19 –108.4(c)(2)(ii), and  13 
+19–213(a), (d)(8), (f), and (h)(2)  14 
+ Annotated Co de of Maryland  15 
+ (2023 Replacement Volume and 2024 Supplement)  16 
+ 
+BY adding to  17 
+ Article – Health – General  18 
+Section 4 –201(p)  19 
+ Annotated Code of Maryland  20 
+ (2023 Replacement Volume and 2024 Supplement)  21 
+ 
+BY repealing and reenacting, with amendments,  22 
+ Article – Health Occupations  23 
+Section 6 –202(b)(2)(ii), 8 –301(d)(4)(ii), and 8 –6A–07(a)  24 
+ Annotated Code of Maryland  25 
+ (2021 Replacement Volume and 2024 Supplement)  26 
+ 
+BY repealing and reenacting, with amendments,  27 
+ Article – Housing and Community Development  28 
+Section 12 –104(c)(2)(i) and (ii)  29 
+ Annotated Code of Maryland  30 
+ (2019 Replacement Volume and 2024 Supplement)  31 
+ 
+BY repealing and reenacting, with amendments,  32 
+ Article – Insurance  33 
+Section 15 –854(a)(2)  34 
+ Annotated Code of Maryland  35 
+ (2017 Replacement Volume and 2024 Supplement)  36 
+ 
+BY repealing and reenacting, with amendments,  37 
+ Article – Labor and Employment  38 
+Section 8.3 –101(i)(9)  39 
+ Annotated Code of Maryland  40 
+ SENATE BILL 784  5 
+ 
+  (2016 Replacement Volume and 2024 Supplement)  1 
+ 
+BY repealing and reenacting, with amendments,  2 
+ Article – Land Use  3 
+Section 10 –103(b)(13)  4 
+ Annotated Code of Maryland  5 
+ (2012 Volume and 2024 Supplement)  6 
+ 
+BY repealing and reenacting, with amendments,  7 
+ Article – Local Government  8 
+Section 1 –1320(c)(3) and (4)  9 
+ Annotated Code of Maryland  10 
+ (2013 Volume and 2024 Supplement)  11 
+ 
+BY repealing an d reenacting, with amendments,  12 
+ Article – Natural Resources  13 
+Section 8 –2A–02(f)(3)(i)2 ., 8–1805(a), 8 –1809(q)(4) and (r)(3)(iii) and (iv), and  14 
+10–502(b)(1)  15 
+ Annotated Code of Maryland  16 
+ (2023 Replacement Volume and 2024 Supplement)  17 
+ 
+BY repealing and reenacting, without amendments,  18 
+ Article – Natural Resources  19 
+Section 10 –301(g)(4)(x) and 10 –502(a)  20 
+ Annotated Code of Maryland  21 
+ (2023 Replacement Volume and 2024 Supplement)  22 
+ 
+BY repealing and reenacting, with amendments,  23 
+ Article – Public Safety  24 
+Section 1 –307(c), 3 –209(b), 3 –313(b)(1), 3 –507(b), 4 –1703(d) , 13 –901(b)(1),  25 
+13A–1108, 14 –3A–05(b)(3)(i) and (ii), (c)(7), and (f)(1)(i), and 14 –1102(d)(1)(ii)  26 
+ Annotated Code of Maryland  27 
+ (2022 Replacement Volume and 2024 Supplement)  28 
+ 
+BY repealing and reenacting, w ith amendments,  29 
+ Article – Public Utilities  30 
+Section 7 –310(c)(1)(ii) and (g)(1), 7 –510.3(j)(1)(iii) and (v)(8) and (11),  31 
+7–703(b)(21)(ii), (22)(ii), and (23)(ii), 7 –705(a)(1)(iii), and 7 –707(d)(1)  32 
+ Annotated Code of Maryland  33 
+ (2020 Replacement Volume and 2 024 Supplement)  34 
+ 
+BY repealing and reenacting, with amendments,  35 
+ Article – Real Property  36 
+Section 2 –121(a)(1), 8 –211(n)(1)(v), 8A –801(b), and 11 –103(d)(1)(ii)  37 
+ Annotated Code of Maryland  38 
+ (2023 Replacement Volume and 2024 Supplement)  39 
+ 
+6 SENATE BILL 784   
+ 
+ BY repealing and reenacting, with amendments,  1 
+ Article – State Finance and Procurement  2 
+Section 2 –209(c)(2)(vi) and (f)(2), 2 –210(b)(1)(iii) and (vi), 3 –609(b)(1),  3 
+3.5–2A–04(e)(1), 3.5 –303(a)(4)(vi), 3.5 –309(i)(3), 3.5 –316(a), 3.5 –317(d)(1),  4 
+5–408(k)(3), 6 –226(a)(2)(i) an d (ii), 13 –108(b)(5), 13 –112.1(e)(4), 14 –106(g), 5 
+14–110(e), and 15–111(c)  6 
+ Annotated Code of Maryland  7 
+ (2021 Replacement Volume and 2024 Supplement)  8 
+ 
+BY repealing and reenacting, with amendments,  9 
+ Article – State Government  10 
+Section 20 –601(b)(2)(ii)  11 
+ Annota ted Code of Maryland  12 
+ (2021 Replacement Volume and 2024 Supplement)  13 
+ 
+BY repealing and reenacting, with amendments,  14 
+ Article – State Personnel and Pensions  15 
+Section 2 –203.1(c)(3)(i), 2 –502.2 (c)(6), (g), and (h)(2) , 2–516(b)(3), 6 –302(a),  16 
+7–207(e)(2), 22 –406(m)(1)(ii), 26 –211(b), 27 –101, 27 –404(2), and 31 –305(a)  17 
+ Annotated Code of Maryland  18 
+ (2024 Replacement Volume and 2024 Supplement)  19 
+ 
+BY repealing and reenacting, with amendments,  20 
+ Article – Tax – General  21 
+Section 9 –305(b) and 10 –709(d)(1)  22 
+ Annotated Code of Maryland  23 
+ (2022 Replacement Volume and 2024 Supplement)  24 
+ 
+BY repealing and reenacting, with amendments,  25 
+ Article – Transportation  26 
+Section 21 –104.3(f)(2)  27 
+ Annotated Code of Maryland  28 
+ (2020 Replacement Volume and 2024 Supplement)  29 
+ 
+BY repealing and reenacting,  with amendments,  30 
+ Chapter 761 of the Acts of the General Assembly of 2024  31 
+ Section 3  32 
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 33 
+That the Laws of Maryland read as follows:  34 
+ 
+Article – Alcoholic Beverages and Cannabis  35 
+ 
+4–109. 36 
+ 
+ (a) A license application shall state:  37 
+ 
+ SENATE BILL 784  7 
+ 
+   (13) that the applicant or a person on behalf of whom the application is filed 1 
+does not have a financial interest in any other place of business in the jurisdiction for which 2 
+an alcoholic [beverage ] BEVERAGES  license has been applied for or issued;  3 
+ 
+ DRAFTER’S NOTE:  4 
+ 
+ Error: Incorrect word usage in § 4 –109(a)(13) of the Alcoholic Beverages and 5 
+Cannabis Article.  6 
+ 
+ Occurred: Ch. 41, § 2, Acts of 2016.  7 
+ 
+22–1601.  8 
+ 
+ (b) If the number of licenses in a class exceeds the quota specified in subsection 9 
+(a) of this section, the Board may not issue a new license of that class unless the number of 10 
+licenses of that class [are] IS reduced by revocation or surrender, creating a vaca ncy under 11 
+the particular quota specified.  12 
+ 
+ DRAFTER’S NOTE:  13 
+ 
+ Error: Grammatical error in § 22 –1601(b) of the Alcoholic Beverages and Cannabis 14 
+Article.  15 
+ 
+ Occurred: Ch. 41, § 2, Acts of 2016.  16 
+ 
+32–902. 17 
+ 
+ (b) (1) The Board may issue the license for use by:  18 
+ 
+  [(1)] (I) a hotel that has:  19 
+ 
+   [(i)] 1. at least 25 rooms;  20 
+ 
+   [(ii)] 2. a lobby with registration, mail desk, and seating facilities; 21 
+and 22 
+ 
+   [(iii)] 3. a dining room that serves full –course meals at least twice 23 
+daily; or  24 
+ 
+  [(2) (i)] (II) a restaurant that:  25 
+ 
+    1. has a proper and adequate dining room with facilities for 26 
+preparing and serving regular meals;  27 
+ 
+    2. not counting seating at a bar or counter, has table seating 28 
+for at least 40 individuals; and  29 
+8 SENATE BILL 784   
+ 
+  
+    3. has average daily receipts from the sa le of food, not 1 
+counting foodstuff contained in a mixed drink, that each month exceed the average daily 2 
+receipts from the sale of alcoholic beverages.  3 
+ 
+   [(ii)] (2) The seating requirement in [item (i)1 of this item ] 4 
+PARAGRAPH (1)(II)2 OF THIS SUBSECTION does not apply to a Class B beer, wine, and 5 
+liquor license holder who held the license on July 1, 1978.  6 
+ 
+ DRAFTER’S NOTE:  7 
+ 
+ Error: Tabulation errors and erroneous internal reference in §  32–902(b) of the 8 
+Alcoholic Beverages and Cannabis Article.  9 
+ 
+ Occurred : Ch. 41, § 2, Acts of 2016.  10 
+ 
+33–1504.  11 
+ 
+ (b) The Board may give final approval of the license application for which it had 12 
+given tentative approval on completion of the construction or the [remolding ] 13 
+REMODELING  or renovation of the building in accordance with the building plans 14 
+submitted by the applicant.  15 
+ 
+ DRAFTER’S NOTE:  16 
+ 
+ Error: Incorrect word usage in § 33 –1504 (b) of the Alcoholic Beverages and Cannabis 17 
+Article.  18 
+ 
+ Occurred: Ch. 41, § 2, Acts of 2016.  19 
+ 
+Article – Business Occupations and Professions  20 
+ 
+13–304. 21 
+ 
+ (b) (1) An applicant for a license shall pay to the Secretary an application fee 22 
+of: 23 
+ 
+   (i) 1. $200, if the applicant is an individual; or  24 
+ 
+   [(ii)] 2. $375, if the applicant is a firm; and  25 
+ 
+   [(iii)] (II) the fees authorized under subsection (c)(2) of this section.  26 
+ 
+ DRAFTER’S NOTE:  27 
+ 
+ Error: Tabulation error in § 13 –304(b)(1) of the Business Occupations and 28 
+ SENATE BILL 784  9 
+ 
+ Professions Article.  1 
+ 
+ Occurred: Ch. 418, § 3, Acts of 2002.  2 
+ 
+19–304. 3 
+ 
+ (b) (1) An applicant for a license shall pay to the Secretary an a pplication fee 4 
+of: 5 
+ 
+   (i) 1. $200, if the applicant is an individual; or  6 
+ 
+   [(ii)] 2. $375, if the applicant is a firm; and  7 
+ 
+   [(iii)] (II) the fees authorized under subsection (c) of this section.  8 
+ 
+ DRAFTER’S NOTE:  9 
+ 
+ Error: Tabulation error in § 19–304(b)(1) of the Business Occupations and 10 
+Professions Article.  11 
+ 
+ Occurred: Ch. 418, § 3, Acts of 2002.  12 
+ 
+Article – Business Regulation  13 
+ 
+Subtitle 2. Electronic [Nicotine Delivery Systems ] SMOKING  DEVICES Licenses.  14 
+ 
+16.7–201. 15 
+ 
+ (a) A person must hold an ap propriate license before the person may act as:  16 
+ 
+  (1) an electronic smoking devices manufacturer;  17 
+ 
+  (2) an electronic smoking devices retailer;  18 
+ 
+  (3) an electronic smoking devices wholesaler distributor;  19 
+ 
+  (4) an electronic smoking devices wholesaler i mporter; or  20 
+ 
+  (5) a vape shop vendor.  21 
+ 
+ (b) A place of business in which a person acts as an electronic smoking devices 22 
+retailer or a vape shop vendor must hold an appropriate license.  23 
+ 
+ DRAFTER’S NOTE:  24 
+ 
+ Error: Obsolete terminology in the subtitle designation immediately preceding § 25 
+16.7–201 of the Business Regulation Article.  26 
+10 SENATE BILL 784   
+ 
+  
+ Occurred: As a result of Ch. 396, Acts of 2019, which redesignated Title 16.7 of the 1 
+Business Regulation Article as “Electronic Smoking Devices Licenses”.  2 
+ 
+Article – Commerc ial Law  3 
+ 
+11–501. 4 
+ 
+ (m) (1) “Wholesale sale of cigarettes” includes any sale whereby cigarettes are 5 
+sold for a valuable consideration, made in the ordinary course of trade or in the usual 6 
+conduct of the seller’s business to a retailer, other than to a vendi ng machine operator or 7 
+to a sub –wholesaler described in subsection [(m)(2) ] (N)(2) of this section, for the bona fide 8 
+purpose of resale.  9 
+ 
+ DRAFTER’S NOTE:  10 
+ 
+ Error: Erroneous internal reference in § 11 –501(m)(1) of the Commercial Law 11 
+Article.  12 
+ 
+ Occurred: As  a result of Ch. 450, Acts of 2023 , which renumbered § 11 –501(g) 13 
+through (m)  of the Commercial Law Article to be  § 11–501(h) through (n), respectively.  14 
+ 
+16A–101. 15 
+ 
+ (d) (2) If there is a genuine dispute as to the reasonableness or amount of the 16 
+fees assesse d by an authorized tow company the authorized tow company shall release the 17 
+cargo immediately to the owner or the owner’s authorized agent in accordance with this 18 
+subsection on submission of:  19 
+ 
+   (ii) If the cargo belongs to the transportation company:  20 
+ 
+    1. A letter from the insurance company stating there is 21 
+coverage for the relevant claim or accident and including, at minimum, a claim number, 22 
+policy number, and policy limit; or  23 
+ 
+    2. If an insurance policy required under item [2] 1 of this 24 
+item is no t high enough to cover the cost of the cargo clean –up, a signed letter of guarantee 25 
+from the transportation company.  26 
+ 
+ DRAFTER’S NOTE:  27 
+ 
+ Error: Erroneous internal reference in § 16A –101(d)(2)(ii)2 of the Commercial Law 28 
+Article.  29 
+ 
+ Occurred: Ch. 575 , Acts of 2022; and as a result of Ch. 669, § 3, Acts of 2023, which 30 
+repealed § 16A –101(d)(2)(ii) of the Commercial Law Article and renumbered items (i)1 and 31 
+2 to be items (i) and (ii), respectively.  32 
+ SENATE BILL 784  11 
+ 
+  
+Article – Corporations and Associations  1 
+ 
+5–6B–30. 2 
+ 
+ (a) The dis pute settlement mechanism provided by this section applies to any 3 
+complaint or demand formally arising on or after October 1, [2023] 2024 , unless the bylaws 4 
+of the cooperative housing corporation or the proprietary lease of the member who is a party 5 
+to the  dispute state otherwise.  6 
+ 
+ DRAFTER’S NOTE:  7 
+ 
+ Error: Incorrect date in § 5 –6B–30(a) of the Corporations and Associations Article.  8 
+ 
+ Occurred: Chs. 255 and 256, Acts of 2024. Correction suggested by the Attorney 9 
+General in the Bill Review Letter for S.B. 1 5 (Ch. 255)/H.B. 309 (Ch. 256) of 2024 (footnote 10 
+1), dated April 16, 2024.  11 
+ 
+Article – Correctional Services  12 
+ 
+5–201. 13 
+ 
+ (b) The Division consists of:  14 
+ 
+  (3) the [Maryland ] METROPOLITAN  Transition Center;  15 
+ 
+  (4) the Chesapeake Detention [Center ] FACILITY ; and 16 
+ 
+ DRAFTER’S NOTE:  17 
+ 
+ Error: Misnomers in § 5 –201(b)(3) and (4) of the Correctional Services Article . 18 
+ 
+ Occurred: Chs. 99 and 100, Acts of 2024.  19 
+ 
+7–309. 20 
+ 
+ (d) Following review of the request, the Commission may:  21 
+ 
+  (2) request that [department ] DEPARTMEN T or local correctional facility 22 
+personnel provide information for formal consideration of parole release.  23 
+ 
+ DRAFTER’S NOTE:  24 
+ 
+ Error: Capitalization error in § 7 –309(d)(2) of the Correctional Services Article.  25 
+ 
+ Occurred: Ch. 299, Acts of 2008.  26 
+ 
+12 SENATE BILL 784   
+ 
+ Article – Courts and Judicial Proceedings  1 
+ 
+3–1505.  2 
+ 
+ (c) (1) If the respondent appears for the final peace order hearing, has been 3 
+served with an interim peace order or a temporary peace order, or the court otherwise has 4 
+personal jurisdiction over the respondent, th e judge:  5 
+ 
+   (i) May proceed with the final peace order hearing; and  6 
+ 
+   (ii) If the judge finds by a preponderance of the evidence that the 7 
+respondent has committed, and is likely to commit in the future, an act specified in §  8 
+3–1503(a) of this subtitle against the petitioner or the petitioner’s employee, or if the 9 
+respondent consents to the entry of a peace order, [the court ] may issue a final peace order 10 
+to protect the petitioner or the petitioner’s employee.  11 
+ 
+ DRAFTER’S NOTE:  12 
+ 
+ Error: Extraneous langua ge in § 3 –1505(c)(1) of the Courts  Article.  13 
+ 
+ Occurred: Ch. 235, Acts of 2002.  14 
+ 
+Article – Criminal Law  15 
+ 
+4–111. 16 
+ 
+ (a) (5) “Law enforcement official” has the meaning stated in § 4 –201 of this 17 
+[article ] TITLE . 18 
+ 
+ DRAFTER’S NOTE:  19 
+ 
+ Error: Stylistic error in § 4–111(a)(5) of the Criminal Law Article.  20 
+ 
+ Occurred: Ch. 680, Acts of 2023.  21 
+ 
+9–804. 22 
+ 
+ (g) (2) Assets divested under this section and derived from the commission of, 23 
+attempted commission of, conspiracy to commit, or solicitation of a crime described in 24 
+paragraph (1) of this subsection, either in whole or in part:  25 
+ 
+   (i) if the State investigated and prosecuted a violation described in 26 
+paragraph (1) of this subsection, shall be deposited in the Addiction Treatment Divestiture 27 
+Fund established under § 8 –6D–01 of the Health – General Article; [or] 28 
+ 
+   (ii) if a local jurisdiction investigated and prosecuted a violation 29 
+described in paragraph (1) of this subsection, shall be used by the local jurisdiction:  30 
+ SENATE BILL 784  13 
+ 
+  
+    1. to support alternatives to incarceration, re entry programs, 1 
+and addiction treatment services for persons with substance –related disorders;  2 
+ 
+    2. to combat criminal organizations through education, 3 
+training, and resources; or  4 
+ 
+    3. to provide assistance to victims of criminal  5 
+organization –relate d crimes; [and] OR 6 
+ 
+   (iii) if more than one jurisdiction participated in an investigation or 7 
+a prosecution of a violation described in paragraph (1) of this subsection, shall be divided 8 
+in the manner agreed on by the jurisdictions and used as provided in  item (i) or (ii) of this 9 
+paragraph.  10 
+ 
+ DRAFTER’S NOTE:  11 
+ 
+ Error: Extraneous and incorrect conjunctions in § 9 –804(g)(2) of the Criminal Law 12 
+Article.  13 
+ 
+ Occurred: Ch. 422, Acts of 2020.  14 
+ 
+Article – Economic Development  15 
+ 
+5–704. 16 
+ 
+ (a) (1) The Secretary may [only] designate an area as an enterprise zone 17 
+ONLY if the area:  18 
+ 
+   (i) is in a priority funding area or in a qualified opportunity zone 19 
+under § 1400Z –1 of the Internal Revenue Code in Allegany County, Garrett County, 20 
+Somerset County, or Wicomico County or mee ts an exception under Title 5, Subtitle 7B of 21 
+the State Finance and Procurement Article; and  22 
+ 
+   (ii) satisfies at least one of the requirements specified in paragraph 23 
+(2) of this subsection.  24 
+ 
+ DRAFTER’S NOTE:  25 
+ 
+ Error: Grammatical error in § 5 –704(a)(1) of  the Economic Development Article.  26 
+ 
+ Occurred: Ch. 306, § 2, Acts of 2008.  27 
+ 
+5–1303.  28 
+ 
+ (b) An area shall receive priority consideration for designation as a BRAC 29 
+Revitalization and Incentive Zone under this section if the area is within one –half mile of 30 
+14 SENATE BILL 784   
+ 
+ a present or planned:  1 
+ 
+  (2) Baltimore Metro [Subway ] SUBWAY LINK station;  2 
+ 
+  (3) Baltimore [MTA ] Light [Rail] RAILLINK station; or  3 
+ 
+ DRAFTER’S NOTE:  4 
+ 
+ Error: Misnomers in § 5 –1303(b)(2) and (3) of the Economic Development Article.  5 
+ 
+ Occurred: As a result of the renaming of the Baltimore Metro Subway and Baltimore 6 
+MTA Light Rail to be the Baltimore Metro SubwayLink and Baltimore Light RailLink, 7 
+respectively, following the enactment of Ch. 338, Acts of 2008.  8 
+ 
+5–1501.  9 
+ 
+ (a) IN THIS SECT ION, “ELIGIBLE FUND MANAGE R” MEANS : 10 
+ 
+  (1) AN ENTITY THAT HAS S IGNIFICANT FINANCIAL  OR INVESTMENT 11 
+EXPERIENCE , UNDER CRITERIA DEVEL OPED BY THE DEPARTMENT ; AND 12 
+ 
+  (2) INCLUDES AN ENTITY T HAT THE DEPARTMENT DESIGNATES  TO 13 
+MANAGE FUNDS RECEIVE D UNDER SUBSECTION  (C)(1) OF THIS SECTION .  14 
+ 
+ (B) There is a Small, Minority, and Women –Owned Businesses Account under the 15 
+authority of the Department.  16 
+ 
+ [(b)] (C) (1) The Account shall receive money as required under § 9 –1A–27 of 17 
+the State Government Article.  18 
+ 
+  (2) Money in the Account shall be invested and reinvested by the Treasurer 19 
+and interest and earnings shall accrue to the Account.  20 
+ 
+  (3) The Comptroller shall:  21 
+ 
+   (i) account for the Account; and  22 
+ 
+   (ii) on a properly approved transmittal prepared by the Departmen t, 23 
+issue a warrant to pay out money from the Account in the manner provided under this 24 
+section.  25 
+ 
+  (4) The Account is a special, nonlapsing fund that is not subject to § 7 –302 26 
+of the State Finance and Procurement Article.  27 
+ 
+  (5) Expenditures from the Accou nt shall only be made on a properly 28 
+approved transmittal prepared by the Department as provided under subsection [(c)] (D) 29 
+ SENATE BILL 784  15 
+ 
+ of this section.  1 
+ 
+ [(c)] (D) (1) [In this subsection, “eligible fund manager”:  2 
+ 
+   (i) means an entity that has significant financial  or investment 3 
+experience, under criteria developed by the Department; and  4 
+ 
+   (ii) includes an entity that the Department designates to manage 5 
+funds received under subsection (b)(1)(i) of this section.  6 
+ 
+  (2)] (i) Subject to the provisions of paragraph [(3)] (2) of this subsection, 7 
+the Department shall make grants to eligible fund managers to provide investment capital 8 
+and financial assistance to small, minority, and women –owned businesses in the State.  9 
+ 
+   (ii) 1. Financial assistance provided by eligible  fund managers 10 
+shall be in the form of:  11 
+ 
+    A. a loan; or  12 
+ 
+    B. subject to subsubparagraph 2 of this subparagraph, a 13 
+grant.  14 
+ 
+    2. Financial assistance in the form of a grant:  15 
+ 
+    A. may not exceed $10,000 and shall be issued in conjunction 16 
+with a loa n of any amount; or  17 
+ 
+    B. shall be made pursuant to subsection [(h)] (I) of this 18 
+section.  19 
+ 
+  [(3)] (2) Except for money received from the Strategic Energy Investment 20 
+Fund, the Department shall ensure that eligible fund managers allocate at least 50% of the 21 
+funds from this Account to small, minority, and women –owned businesses in the 22 
+jurisdictions and communities surrounding a video lottery facility.  23 
+ 
+ [(d)] (E) (1) Any money received from the Strategic Energy Investment Fund 24 
+shall be used to benefit smal l, minority, women –owned, and veteran –owned businesses in 25 
+the clean energy industry in the State.  26 
+ 
+  (2) The Department shall make grants to eligible fund managers to provide 27 
+investment capital, including direct equity investments and similar investments a nd 28 
+financial assistance to small, minority, women –owned, and veteran –owned businesses in 29 
+the clean energy industry in the State.  30 
+ 
+ [(e)] (F) Fund managers receiving grants under this section shall:  31 
+ 
+16 SENATE BILL 784   
+ 
+   (1) keep proper records of funds and accounts;  1 
+ 
+  (2) provide an annual report to the Department on investment capital and 2 
+financial assistance made pursuant to subsection [(c)] (D) of this section; and  3 
+ 
+  (3) be subject to audit by the Office of Legislative Audits of the Department 4 
+of Legislative Services.  5 
+ 
+ [(f)] (G) (1) Subject to paragraph (2) of this subsection, an eligible fund 6 
+manager may use money from grants received under this section to pay expenses for 7 
+administrative, actuarial, legal, and technical services.  8 
+ 
+  (2) The Department shall set the max imum amount of grant money that 9 
+each eligible fund manager may use under paragraph (1) of this subsection.  10 
+ 
+ [(g)] (H) (1) Subject to paragraphs (2) through (4) of this subsection, an 11 
+eligible fund manager may use money from a grant received under subsecti on [(d)(1) ] 12 
+(E)(1) of this section to pay ordinary and reasonable expenses for administrative, actuarial, 13 
+legal, marketing, and technical services and management fees.  14 
+ 
+  (2) The Department shall:  15 
+ 
+   (i) maintain all money received from the Strategic Ener gy 16 
+Investment Fund in a single account; and  17 
+ 
+   (ii) make grant allocations to an eligible fund manager as the 18 
+manager advises the Department that the manager has approved and prepared to fund an 19 
+investment or provide financial assistance.  20 
+ 
+  (3) Any alloc ation that the Department makes to an eligible fund manager 21 
+from the Strategic Energy Investment Fund shall include:  22 
+ 
+   (i) the amount of the investment or financial assistance; and  23 
+ 
+   (ii) up to an additional 3% of the total investment or financial 24 
+assistance commitment amount as a management fee for the benefit and compensation of 25 
+the eligible fund manager.  26 
+ 
+  (4) An eligible fund manager that receives an allocation from the Strategic 27 
+Energy Investment Fund shall retain for the manager’s benefit:  28 
+ 
+   (i) all management fees paid by the Department; and  29 
+ 
+   (ii) all interest earned from a loan made by the eligible fund manager 30 
+under this subsection.  31 
+ 
+ SENATE BILL 784  17 
+ 
+  [(h)] (I) (1) Notwithstanding any provisions in this section to the contrary, 1 
+this subsection applies to businesses in areas of the State that are:  2 
+ 
+   (i) declared to be federal disaster areas;  3 
+ 
+   (ii) subject to a federal declaration of emergency; or  4 
+ 
+   (iii) subject to an official declaration of emergency by the Governor.  5 
+ 
+  (2) In an area of the State d escribed in paragraph (1) of this subsection, an 6 
+eligible fund manager may:  7 
+ 
+   (i) provide financial assistance under this section to a small, 8 
+minority, or women –owned business in the form of a grant; or  9 
+ 
+   (ii) convert to a grant part or all of a loan t hat was provided to a 10 
+small, minority, or women –owned business before the area was declared a federal disaster 11 
+area or became subject to a declaration of emergency.  12 
+ 
+  (3) (i) The amount of any grant or loan converted to a grant under this 13 
+subsection may n ot exceed $50,000 for a single business.  14 
+ 
+   (ii) The aggregate total of financial assistance provided in the form 15 
+of grants and loans converted to grants under this subsection may not exceed $10,000,000 16 
+in a fiscal year.  17 
+ 
+ [(i)] (J) The Legislative Audito r shall audit the utilization of the funds that are 18 
+allocated to small, minority, and women –owned businesses by eligible fund managers 19 
+under subsection [(c)(3) ] (D)(2) of this section during an audit of the applicable State unit 20 
+as provided in § 2 –1220 of the State Government Article.  21 
+ 
+ [(j)] (K) In accordance with § 2.5 –109 of this article, the Department shall 22 
+submit a report on amounts received by and expended by the Strategic Energy Investment 23 
+Fund.  24 
+ 
+ DRAFTER’S NOTE:  25 
+ 
+ Error: Stylistic error in § 5 –1501  of the Economic Development Article. Obsolete 26 
+cross –reference in § 5 –1501(c)(1)(ii) of the Economic Development Article.  27 
+ 
+ Occurred: Ch. 4, Acts of the Special Session of 2007 , which defined the term “eligible 28 
+fund manager” only with respect to § 5 –1501(c ) of the Economic Development Article while 29 
+that term is utilized in other subsections of that section. Obsolete  cross –reference in §  30 
+5–1501(c)(1)(ii) occurred as a result of Ch. 474, § 2, Acts of 2024, which repealed 31 
+subparagraph (ii) of § 5 –1501(b)(1).  32 
+ 
+5–2503.  33 
+18 SENATE BILL 784   
+ 
+  
+ (c) A member of the [Board ] COMMISSION : 1 
+ 
+  (1) may not receive compensation as a member of the [Board ] 2 
+COMMISSION ; but  3 
+ 
+ DRAFTER’S NOTE:  4 
+ 
+ Error: Misnomer in § 5 –2503(c) of the Economic Development Article.  5 
+ 
+ Occurred: Ch. 409, Acts of 2024.  6 
+ 
+6–301. 7 
+ 
+ (d) (1) “Qualified position” means:  8 
+ 
+   (i) if the position [if] IS filled before October 1, 2021, a position that:  9 
+ 
+    1. is full –time and of indefinite duration;  10 
+ 
+    2. pays at least 120% of the State minimum wage;  11 
+ 
+    3. is located in the State;  12 
+ 
+    4. is newly created as a result of the establishment or 13 
+expansion of a business facility in a single location in the State; and  14 
+ 
+    5. is filled; and  15 
+ 
+ DRAFTER’S NOTE:  16 
+ 
+ Error: Incorrect word usage in § 6 –301(d)(1)(i) of the Economic Development Article.  17 
+ 
+ Occurred: Ch. 22, Acts of the Special Session of 2021.  18 
+ 
+10–1117.  19 
+ 
+ The Board shall:  20 
+ 
+  (7) conduct an annual performance review of the Chief [Operating ] 21 
+EXECUTIVE  Officer.  22 
+ 
+ DRAFTER’S NOTE:  23 
+ 
+ Error: Misnomer in § 10 –1117(7) of the Ec onomic Development Article.  24 
+ 
+ SENATE BILL 784  19 
+ 
+  Occurred: Ch. 123, Acts of 2024.  1 
+ 
+12–609. 2 
+ 
+ (b) The owners of nonexempt property who seek to establish a district shall send 3 
+notice of the public hearing and a summary of the application to each owner [and] AND, to 4 
+the extent reasonably ascertainable, each commercial tenant of nonexempt property within 5 
+the proposed district at least 90 days before the public hearing or when owners of at least 6 
+20% of the total number of parcels of nonexempt property express the intent to establi sh a 7 
+district, whichever is earlier.  8 
+ 
+ DRAFTER’S NOTE:  9 
+ 
+ Error: Omitted comma in § 12 –609(b) of the Economic Development Article.  10 
+ 
+ Occurred: Ch. 283, Acts of 2022.  11 
+ 
+13–620. 12 
+ 
+ The plan shall include:  13 
+ 
+  (6) recommendations for meeting THE housing needs of existing and 14 
+prospective immigrant [population ] POPULATIONS  of the region;  15 
+ 
+ DRAFTER’S NOTE:  16 
+ 
+ Error: Grammatical errors in § 13 –620(6) of the Economic Development Article.  17 
+ 
+ Occurred: Ch. 306, § 2, Acts of 2008.  18 
+ 
+Subtitle 12. Regional [Additive ] ADVANCED  Manufacturing Partnership of Maryland.  19 
+ 
+13–1201.  20 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  21 
+ 
+ (b) “Board” means the Executive Board of the Partnership.  22 
+ 
+ (c) “Executive Director” means the Executive Director o f the Partnership.  23 
+ 
+ (d) “Fund” means the Regional Advanced Manufacturing Partnership of 24 
+Maryland Fund, also known as the RAMP MD Fund.  25 
+ 
+ (e) “Partnership” means the Regional Advanced Manufacturing Partnership of 26 
+Maryland, also known as RAMP MD.  27 
+ 
+ (f) “Region” means Cecil and Harford counties.  28 
+20 SENATE BILL 784   
+ 
+  
+ DRAFTER’S NOTE:  1 
+ 
+ Error: Obsolete terminology in the subtitle designation immediately preceding §  2 
+13–1201 of the Economic Development Article.  3 
+ 
+ Occurred: As a result of Ch. 470, Acts of 2024, which renamed the  Regional Additive 4 
+Manufacturing Partnership of Maryland to be the Regional Advanced Manufacturing 5 
+Partnership of Maryland, but failed to amend the subtitle designation to reflect the 6 
+renaming.  7 
+ 
+Article – Education  8 
+ 
+3–1301.  9 
+ 
+ (f) (1) In this [section ] SUBS ECTION , “Washington County Delegation” 10 
+means the Senators and Delegates in the General Assembly of Maryland who are elected 11 
+to represent Washington County or any portion of Washington County.  12 
+ 
+ DRAFTER’S NOTE:  13 
+ 
+ Error: Stylistic error  in § 3 –1301(f)(1) of the Education Article.  14 
+ 
+ Occurred: Ch. 512, Acts of 2008.  15 
+ 
+5–239. 16 
+ 
+ (c) (2) For Baltimore City, the local share of major education aid may be 17 
+reduced only by the amount by which the State funds provided under § 5 –214 of this subtitle 18 
+[exceed ] EXCEEDS  $10,000,000.  19 
+ 
+ DRAFTER’S NOTE:  20 
+ 
+ Error: Grammatical error in § 5 –239(c)(2) of the Education Article.  21 
+ 
+ Occurred: Ch. 36, Acts of 2021.  22 
+ 
+6–121. 23 
+ 
+ (a) A teacher preparation program shall:  24 
+ 
+  (2) Require program participants to demonstrate co mpetency in each of the 25 
+components required under [paragraph ] ITEM  (1) of this subsection; and  26 
+ 
+ DRAFTER’S NOTE:  27 
+ 
+ Error: Incorrect word usage in § 6 –121(a)(2) of the Education Article.  28 
+ SENATE BILL 784  21 
+ 
+  
+ Occurred: Ch. 36, Acts of 2021.  1 
+ 
+7–101.2.  2 
+ 
+ (f) The Department shall : 3 
+ 
+  (1) Leverage Child Care [Subsidy ] SCHOLARSHIP  Program funds when 4 
+making grant awards to private providers that participate in the Child Care [Subsidy ] 5 
+SCHOLARSHIP  Program;  6 
+ 
+ DRAFTER’S NOTE:  7 
+ 
+ Error: Misnomer in § 7 –101.2(f)(1) of the Education Article.  8 
+ 
+ Occurred: Ch. 2, Acts of 2014.  9 
+ 
+7–205.1.  10 
+ 
+ (e) (3) (i) The implementation of the courses required under this 11 
+subsection:  12 
+ 
+    1. Shall include an assessment or reassessment of the 13 
+student after completion of the course;  14 
+ 
+    2. May not preclude or replace enrollment in a course 15 
+otherwise required for graduation from high school; and  16 
+ 
+    3. Subject to subparagraph (ii) of this paragraph, beginning 17 
+with the 2022 –2023 school year, may not preclude enrollment in the initial stages of one or 18 
+more pos t–CCR pathways established under subsection [(i)] (G) of this section, including 19 
+the opportunity to make progress towards a CTE credential.  20 
+ 
+ DRAFTER’S NOTE:  21 
+ 
+ Error: Erroneous cross –reference in § 7 –205.1(e)(3)(i) of the Education Article.  22 
+ 
+ Occurred: Ch.  36, Acts of 2021.  23 
+ 
+7–303. 24 
+ 
+ (a) (6) “Reportable offense” means an offense that:  25 
+ 
+   (i) Occurred off school premises;  26 
+ 
+   (ii) Did not occur at an event sponsored by the school; and  27 
+ 
+22 SENATE BILL 784   
+ 
+    (iii) Involved any of the following:  1 
+ 
+    2. Any of the offenses enumerated in [§ 3–8A–03(e)(4) ] §  2 
+3–8A–03(D)(4) of the Courts Article;  3 
+ 
+ DRAFTER’S NOTE:  4 
+ 
+ Error: Erroneous cross –reference in § 7 –303(a)(6)(iii)2 of the Education Article.  5 
+ 
+ Occurred: Ch. 41, Acts of 2022.  6 
+ 
+7–1501.  7 
+ 
+ (j) “School resou rce officer” means:  8 
+ 
+  (1) A law enforcement officer as defined under [§ 3–101(e) ] § 1–101( C) of 9 
+the Public Safety Article who has been assigned to a school in accordance with a 10 
+memorandum of understanding between the chief of a law enforcement agency as d efined 11 
+under [§ 3–101(b) ] § 3–201( D) of the Public Safety Article and the local education agency; 12 
+or 13 
+ 
+  (2) A Baltimore City school police officer, as defined in § 4 –318 of this 14 
+article.  15 
+ 
+ DRAFTER’S NOTE:  16 
+ 
+ Error: Erroneous cross –references in § 7 –1501(j) of the Education Article.  17 
+ 
+ Occurred: Ch. 30, Acts of 2018 and as a result of Ch. 5, Acts of 2003, which defined 18 
+“law enforcement agency” in § 3 –201(d) as part of the newly established Public Safety 19 
+Article , and Ch. 59, Acts of 2021, which instructed the p ublishers of the Annotated Code of 20 
+Maryland that cross –references to the term “law enforcement officer” shall be redesignated 21 
+as stated under § 1 –101(c) of the Public Safety Article.  22 
+ 
+9.9–104. 23 
+ 
+ (b) (1) A community school coordinator shall be responsible for: 24 
+ 
+   (iv) Coordinating support programs that address out –of–school 25 
+learning barriers for students and families, including:  26 
+ 
+    1. Wraparound services; and  27 
+ 
+    2. As appropriate:  28 
+ 
+    A. Tutoring;  29 
+ 
+ SENATE BILL 784  23 
+ 
+     B. English language learner courses;  1 
+ 
+    C. Early childhood development and parenting classes;  2 
+ 
+    D. College and career advising;  3 
+ 
+    E. Employment opportunities;  4 
+ 
+    F. Citizenship education;  5 
+ 
+    G. Food pantries;  6 
+ 
+    H. Rental assistance, in accordance with § 9.9 –104.1 of this 7 
+[subtitle ] TITLE ; and 8 
+ 
+    I. School –based behavioral and physical health services.  9 
+ 
+ DRAFTER’S NOTE:  10 
+ 
+ Error: Stylistic error in § 9.9 –104(b)(1)(iv) of the Education Article.  11 
+ 
+ Occurred: Ch. 210, Acts of 2024.  12 
+ 
+10–203. 13 
+ 
+ (c) Funding proposals for public senior higher education institutions shall 14 
+include:  15 
+ 
+  (2) Special initiative funding:  16 
+ 
+   (i) For academic programs at historically [African American ] 17 
+BLACK  colleges and universities; and  18 
+ 
+ DRAFTER’S NOTE:  19 
+ 
+ Error:  Misnomer in § 10 –203(c)(2)(i) of the Education Article.  20 
+ 
+ Occurred: Ch. 290, Acts of 1992.  21 
+ 
+12–304. 22 
+ 
+ (d) (2) The Governor shall include in the annual State budget for the 23 
+University of Maryland Baltimore County, to further its mission as a research university 24 
+and to complement the economic development  and research activities of the MPowering 25 
+Joint Steering Council, a General Fund appropriation in the following amounts:  26 
+ 
+   (v) $2,000,000 in fiscal year 2025 and each FISCAL  year thereafter.  27 
+24 SENATE BILL 784   
+ 
+  
+  (3) The Governor shall include in the annual State budget for the Council 1 
+to use exclusively on the University of Maryland Institute for Health Computing a General 2 
+Fund appropriation in the following amounts:  3 
+ 
+   (iv) $6,000,000 in fiscal year 2029 and each FISCAL year thereafter.  4 
+ 
+ DRAFTER’S NOTE:  5 
+ 
+ Error: Omitt ed word in § 12 –304(d)(2)(v) and (3)(iv) of the Education Article.  6 
+ 
+ Occurred: Ch. 765 , Acts  of 2019 and Ch. 181, Acts of 2024.  7 
+ 
+13–703. 8 
+ 
+ (a) (1) In this [section:  9 
+ 
+  (1) “Recyclable ] SECTION , “RECYCLABLE  materials” means materials 10 
+that:  11 
+ 
+   (i) If not re cycled, would become solid waste for disposal in a refuse 12 
+disposal system; and  13 
+ 
+   (ii) May be collected, separated, or processed and returned to the 14 
+marketplace in the form of raw materials or products [; and]. 15 
+ 
+  (2) “Recyclable materials” includes paper,  glass, metals, plastics, and 16 
+cardboard.  17 
+ 
+ DRAFTER’S NOTE:  18 
+ 
+ Error: Stylistic error in § 13 –703(a) of the Education Article.  19 
+ 
+ Occurred: Ch. 49, Acts of 2023.  20 
+ 
+18–601. 21 
+ 
+ (f) (1) Each postsecondary institution shall determine the eligibility of 22 
+persons who apply to the institution for the Edward T. AND MARY A. Conroy Memorial 23 
+Scholarship Program and the Jean B. Cryor Memorial Scholarship Program.  24 
+ 
+  (2) Funds for the Edward T. AND MARY A. Conroy Memorial Scholarship 25 
+Program and the Jean B. Cryor Memorial Scholarship Program shall be allocated by the 26 
+Commission to each postsecondary institution based on the number of eligible recipients 27 
+attending each institution.  28 
+ 
+ SENATE BILL 784  25 
+ 
+  DRAFTER’S NOTE:  1 
+ 
+ Error: Omitted word in § 18 –601(f)(1) and (2) of the Education Article.  2 
+ 
+ Occurred: As a result of Ch. 215, Acts of 2015 , which changed the name of the Edward 3 
+T. Conroy Memorial Scholarship Program to be the Edward T. and Mary A. Conroy 4 
+Memorial Scholarsh ip Program . 5 
+ 
+18–3903.  6 
+ 
+ (f) (2) The amount of the Scholarship shall be reduced if the total amount of 7 
+scholarship funds and additional resources [exceed ] EXCEEDS  tuition and mandatory fees.  8 
+ 
+ DRAFTER’S NOTE:  9 
+ 
+ Error: Grammatical error in § 18 –3903(f)(2) of  the Education Article.  10 
+ 
+ Occurred: Ch. 426, Acts of 2024.  11 
+ 
+18–4102.  12 
+ 
+ (a) In Anne Arundel County, the governing [board ] BODY  of the county may 13 
+establish a student loan assistance repayment program for educators employed by the Anne 14 
+Arundel County Public S chool System.  15 
+ 
+ DRAFTER’S NOTE:  16 
+ 
+ Error: Incorrect word usage in § 18 –4102(a) of the Education Article.  17 
+ 
+ Occurred: Chs. 364 and 365, Acts of 2024. Correction suggested by the Attorney 18 
+General in the Bill Review Letter for H.B. 541 (Ch. 364)/S.B. 657 (Ch. 365) of 2024 (footnote 19 
+3), dated April 23, 2024.  20 
+ 
+Article – Election Law  21 
+ 
+3–203. 22 
+ 
+ (j) (1) Each automatic voter registration agency shall:  23 
+ 
+   (i) on or before July 1, 2019, submit a report, in accordance with § 24 
+2–1257 of the State Government Article, to the Senate [Education, Health, and 25 
+Environmental Affairs ] Committee ON EDUCATION , ENERGY , AND THE ENVIRONMENT  26 
+and the House Committee on Ways and Me ans that describes:  27 
+ 
+    1. the efforts of the automatic voter registration agency to 28 
+register voters in the preceding calendar year; and  29 
+ 
+26 SENATE BILL 784   
+ 
+     2. the implementation of an automatic voter registration 1 
+system; and  2 
+ 
+   (ii) on or before January 1, 2020, and J anuary 1 each subsequent 3 
+year, submit a report, in accordance with § 2 –1257 of the State Government Article, to the 4 
+Senate [Education, Health, and Environmental Affairs ] Committee ON EDUCATION , 5 
+ENERGY , AND THE ENVIRONMENT  and the House Committee on Ways an d Means that 6 
+describes:  7 
+ 
+    1. the number of individuals who completed an applicable 8 
+transaction in the preceding calendar year at the automatic voter registration agency and 9 
+the number of those individuals who registered to vote or updated a voter regist ration 10 
+record; and  11 
+ 
+    2. any efforts the automatic voter registration agency plans 12 
+to make to improve the efficiency and effectiveness of the voter registration process at the 13 
+agency.  14 
+ 
+ DRAFTER’S NOTE:  15 
+ 
+ Error: Obsolete terminology in § 3 –203(j)(1) of the Election Law Article.   16 
+ 
+ Occurred: As a result of the renaming of the Senate Education, Health, and 17 
+Environmental Affairs Committee to be the Senate Committee on Education, Energy, and 18 
+the Environment in December 2022.  19 
+ 
+16–1002.  20 
+ 
+ A person who violates  [§ 16–201(a)(6)  or (7) ] § 16–201( B)(6) OR (7) or § 16 –903 of 21 
+this title without knowing that the act is illegal shall pay a civil penalty and have the 22 
+matter adjudicated in accordance with § 13 –604 of this article.  23 
+ 
+ DRAFTER’S NOTE:  24 
+ 
+ Error: Obsolete cros s–reference in § 16 –1002 of the Election Law Article.  25 
+ 
+ Occurred: As a result of Ch. 126 , Acts  of 2024, which redesignated § 16 –201(a) of the 26 
+Election Law Article as § 16 –201(b) of the Election Law Article.  27 
+ 
+Article – Environment  28 
+ 
+5–1104.  29 
+ 
+ (b) The Oversight Committee shall be composed of the following members:  30 
+ 
+  (5) 1 individual from the Baltimore County [Waterman’s ] WATERMEN ’S 31 
+Association;  32 
+ SENATE BILL 784  27 
+ 
+  
+ DRAFTER’S NOTE:  1 
+ 
+ Error:  Misspelling in § 5 –1104(b)(5) of the Environment Article.   2 
+ 
+ Occurred: Ch. 587, Acts of 1981.  3 
+ 
+9–353. 4 
+ 
+ (f) “Waters of the State” [include ] INCLUDES : 5 
+ 
+  (1) Both surface and underground waters within the boundaries of the 6 
+State subject to its jurisdiction;  7 
+ 
+  (2) That portion of the Atlantic Ocean within the boundaries of the State;  8 
+ 
+  (3) The Chesapeake Bay and its tributaries;  9 
+ 
+  (4) All ponds, lakes, rivers, streams, public ditches, tax ditches, and public 10 
+drainage systems within the State, other than those designed and used to collect, convey, 11 
+or dispose of sanitary sewage; and  12 
+ 
+  (5) The floodplain of free –flowing waters determined by the Department on 13 
+the basis of the 100 –year flood frequency.  14 
+ 
+ DRAFTER’S NOTE:  15 
+ 
+ Error: Grammatical error in § 9 –353(f) of the Environment Article.  16 
+ 
+ Occurred: Chs. 556 and 557, Acts of 2024.  17 
+ 
+9–1605.  18 
+ 
+ (d) Amounts in the Water Quality Fund may be used only:  19 
+ 
+  (16) To serve as guarantee for long –term [Pay for Success ]  20 
+PAY–FOR–SUCCESS  contracts, green bonds, or environmental impact bonds by any public, 21 
+private, or nonprofit entity for the purchase of outcomes that provide a water quality 22 
+benefit.  23 
+ 
+ DRAFTER’S NOTE:  24 
+ 
+ Error: Obsolete terminology in § 9 –1605(d)(16) of the Environment Article.  25 
+ 
+ Occurred: As a result of Chs. 237 and 238, Acts of 2022, which established a 26 
+framework for pay –for–success contracting in the State.  27 
+ 
+28 SENATE BILL 784   
+ 
+ 9–2501.  1 
+ 
+ (f) (2) “Producer” does not include:  2 
+ 
+   (vii) An entity that owns or operates a single retail sales 3 
+establishment that:  4 
+ 
+    1. Has no online sales; and  5 
+ 
+    2. Is not supplied or operated as part of a franchise or a 6 
+chain; [or] 7 
+ 
+   (viii)  [1.] An entity that  [is]:  8 
+ 
+    1. IS licensed under Title 2 of the Alcoholic Beverages and 9 
+Cannabis Article; and  10 
+ 
+    2. Generated less than $10,000,000 in gross revenue during 11 
+the immediately preceding calendar year; or  12 
+ 
+ DRAFTER’S NOTE:  13 
+ 
+ Error: Extraneous conjunction in § 9 –2501(f)(2)(vii) of the Environment Article and 14 
+tabulation error in § 9 –2501(f)(2)(viii) of the Environment Article.  15 
+ 
+ Occurred: Ch. 465, Acts of 2023.  16 
+ 
+Article – Family Law  17 
+ 
+4–516. 18 
+ 
+ (b) (4) The Governor’s Office of Crime Prevention [, Youth, and Victim 19 
+Services ] AND POLICY  shall:  20 
+ 
+   (i) administer the Fund; and  21 
+ 
+   (ii) establish procedures to award grants from the Fund.  22 
+ 
+ DRAFTER’S NOTE:  23 
+ 
+ Error: Misnomer in § 4 –516(b)(4) of the Family Law Article.  24 
+ 
+ Occur red: As a result of Ch.  1, Acts of 2024, which renamed the Governor’s Office of 25 
+Crime Prevention, Youth, and Victim Services  to be the Governor’s Office of Crime 26 
+Prevention and Policy.  27 
+ 
+Article – Health – General  28 
+ SENATE BILL 784  29 
+ 
+  
+4–201. 1 
+ 
+ (a) In this subtitle the followin g words have the meanings indicated.  2 
+ 
+ [(o) “Mother” has the meaning stated in § 5 –1001 of the Family Law Article. ] 3 
+ 
+ [(p)] (O) “Mortician” means a funeral director, mortician, or other person who is 4 
+authorized to make final disposition of a body.  5 
+ 
+ (P) “MOTHER” HAS THE MEANING STAT ED IN § 5–1001  OF THE FAMILY LAW 6 
+ARTICLE . 7 
+ 
+ DRAFTER’S NOTE:  8 
+ 
+ Error: Stylistic error (failure to codify definitions in alphabetical order) in § 4 –201(o) 9 
+and (p) of the Health – General Article.  10 
+ 
+ Occurred: Chs. 437 and 438, Act s of 2019.  11 
+ 
+7.5–903. 12 
+ 
+ (a) The Council consists of the following members:  13 
+ 
+  (7) Three individuals appointed by the Governor:  14 
+ 
+   (ii) One of whom represents a community –based substance use 15 
+disorder and mental health treatment [programs ] PROGRAM ; and  16 
+ 
+ DRA FTER’S NOTE:  17 
+ 
+ Error: Grammatical error in § 7.5 –903(a)(7)(ii) of the Health – General Article.  18 
+ 
+ Occurred: Ch. 270, Acts of 2022.  19 
+ 
+Subtitle 2. [Mental Hygiene Administration ] MENTAL HEALTH PLANS AND SERVICES . 20 
+ 
+10–205. 21 
+ 
+ (a) The Administration may administer a program of nonresidential services for 22 
+individuals who have mental disorders or have conditions that may lead to mental 23 
+disorders:  24 
+ 
+  (1) To develop, extend, and improve services for finding these individuals; 25 
+and 26 
+ 
+30 SENATE BILL 784   
+ 
+   (2) To provide facilities for diagnosis and treatment of nonresidential cases.  1 
+ 
+ DRAFTER’S NOTE:  2 
+ 
+ Error: Erroneous subtitle designation immediately preceding § 10 –205 of the Health 3 
+– General Article.  4 
+ 
+ Occurred: As a result of Ch. 460, Acts of 2014, which repealed the laws establi shing 5 
+and governing the Mental Hygiene Administration due to the establishment of the 6 
+Behavioral Health Administration.  7 
+ 
+13–5004.  8 
+ 
+ (b) The report required under subsection (a) of this section shall:  9 
+ 
+  (1) Describe the activities of the Council under [§ 13–4803(a) ] §  10 
+13–5003( A) of this subtitle;  11 
+ 
+ DRAFTER’S NOTE:  12 
+ 
+ Error: Erroneous cross –reference in § 13 –5004(b)(1) of the Health – General Article.  13 
+ 
+ Occurred: As a result of Chs. 360 and 361, Acts of 2023, Ch. 369, Acts of 2023, and 14 
+Ch. 385, Acts of 2023,  all of which added Title 13, Subtitle 48 of the Health – General 15 
+Article , and Chs. 290 and 291, Acts of 2023, which added Title 13, Subtitles 48 and 49 of 16 
+the Health – General Article.  17 
+ 
+18–108. 18 
+ 
+ (b) (3) (I) [Upon ] ON presentation by the participant of a written request, 19 
+including justification, a local agency may mail or otherwise deliver food instruments to an 20 
+individual on the basis of the difficulty of the participant and the participant’s proxies in 21 
+obtaining the food instruments.  22 
+ 
+   (II) The justification may include:  23 
+ 
+   [(i)] 1. Illness;  24 
+ 
+   [(ii)] 2. Imminent childbirth;  25 
+ 
+   [(iii)] 3. Difficulty of access to the local agency; or  26 
+ 
+   [(iv)] 4. Handicapping condition.  27 
+ 
+  (4) (I) The Secretary shall institute a t least one pilot program in a local 28 
+subdivision or part of a subdivision utilizing a credit card system along with or in place of 29 
+ SENATE BILL 784  31 
+ 
+ a food instrument system.  1 
+ 
+   (II) Implementation must take place within a reasonable period of 2 
+time from the date of enactm ent of this section, unless such a pilot program is found to be 3 
+inconsistent with subsection (d) of this section and a waiver is not granted.  4 
+ 
+ DRAFTER’S NOTE:  5 
+ 
+ Error: Tabulation and stylistic errors in § 18 –108(b)(3) and (4) of the Health – 6 
+General Artic le. 7 
+ 
+ Occurred: Ch. 784, Acts of 1986.  8 
+ 
+18–214.  9 
+ 
+ (m) On or before December 15 of each year, the Commission shall submit a report 10 
+on its findings and recommendations to the Governor and, in accordance with § 2 –1257 of 11 
+the State Government Article, to the Senate [Education, Health, and Environmental 12 
+Affairs ] FINANCE  Committee and the House Health and Government Operations 13 
+Committee.  14 
+ 
+ DRAFTER’S NOTE:  15 
+ 
+ Error: Erroneous committee reference in § 18 –214(m) of the Health – General 16 
+Article.  17 
+ 
+ Occurred: As a result of a change in jurisdiction of the Senate Committee on 18 
+Education, Energy, and the Environment (formerly the Senate Education, Health, and 19 
+Environmental Affairs Committee) and the Senate Finance Committee in 2023, which 20 
+resulted in all  health matters being handled by the Senate Finance Committee.  21 
+ 
+19–108.4.  22 
+ 
+ (c) (2) The workgroup required under this subsection shall include 23 
+representatives of:  24 
+ 
+   (ii) The Health Services COST Review Commission;  25 
+ 
+ DRAFTER’S NOTE:  26 
+ 
+ Error: Omitted word  in § 19 –108.4(c)(2)(ii) of the Health – General Article.  27 
+ 
+ Occurred: Ch. 667, Acts of 2022.  28 
+ 
+19–213. 29 
+ 
+ (a) [(1)] In this section [the following words have the meanings indicated.  30 
+32 SENATE BILL 784   
+ 
+  
+  (2) “Facilities” ], “FACILITIES ” means hospitals and related institutions  1 
+whose rates have been approved by the Commission.  2 
+ 
+ (d) (8) (I) The Fund shall be used only to provide funding for the 3 
+Commission and for the purposes authorized under this subtitle.  4 
+ 
+   (II) The costs of the Commission include the administrative costs 5 
+incurred by the Department on behalf of the Commission.  6 
+ 
+ (f) (I) On or before September 1 of each year, each facility assessed under this 7 
+section shall make payment to the Commission.  8 
+ 
+  (II) The Commission shall make provision for partial payments.  9 
+ 
+ (h) (2) (I) If notice of intent to terminate is made by the federal government 10 
+to this State [prior to ] BEFORE  the first day of an intervening session of the Maryland 11 
+General Assembly, this section shall expire June 30 of the following calendar year. 12 
+[However , under ]  13 
+ 
+   (II) UNDER  no circumstances shall less than [seven ] 7 calendar 14 
+months occur between notice of termination and expiration of this section.  15 
+ 
+ DRAFTER’S NOTE:  16 
+ 
+ Error: Tabulation and stylistic errors in § 19 –213(a), (d)(8), (f), and (h)(2) of the 17 
+Health – General Article.  18 
+ 
+ Occurred: Ch. 132, Acts of 1983, Ch. 136, Acts of 1993, and Ch. 430, Acts of 2004.  19 
+ 
+Article – Health Occupations  20 
+ 
+6–202. 21 
+ 
+ (b) (2) (ii) In addition to the requirements of paragraph (1) of this 22 
+subsection, each licensed massa ge [therapy ] THERAPIST  member of the Board shall be in 23 
+good standing with the Board.  24 
+ 
+ DRAFTER’S NOTE:  25 
+ 
+ Error: Incorrect terminology in § 6 –202(b)(2)(ii) of the Health Occupations Article.  26 
+ 
+ Occurred: Ch. 739, Acts of 2016.  27 
+ 
+8–301. 28 
+ 
+ SENATE BILL 784  33 
+ 
+  (d) Subsections (a),  (b), and (c) of this section do not apply to:  1 
+ 
+  (4) An individual permitted to practice registered nursing or licensed 2 
+practical nursing under rules and regulations adopted by the Board, if the individual:  3 
+ 
+   (ii) 1. Has an application for a license pen ding before the 4 
+Board [:]; AND 5 
+ 
+    [1.] 2. A. [But has ] HAS not taken the examination required 6 
+under this title;  7 
+ 
+    [2.] B. Has taken an examination under this title, but the 8 
+results of the examination are not yet known;  9 
+ 
+    [3.] C. Has taken and passed  an examination under this 10 
+title, but is waiting for the completion of the criminal history records check; or  11 
+ 
+    [4.] D. Has taken and failed an examination required 12 
+under this title but has not failed the examination more than one time within the 120 –day 13 
+period immediately following the submission of the application to the Board;  14 
+ 
+ DRAFTER’S NOTE:  15 
+ 
+ Error: Tabulation error in § 8 –301(d)(4)(ii) of the Health Occupations Article.  16 
+ 
+ Occurred: Ch. 8, Acts of 1981.  17 
+ 
+8–6A–07.  18 
+ 
+ (a) Subject to subsection [(f)] (G) of this section, the Board shall certify any 19 
+applicant who meets the requirements of this subtitle.  20 
+ 
+ DRAFTER’S NOTE:  21 
+ 
+ Error: Erroneous internal reference in § 8 –6A–07(a) of the Health Occupations 22 
+Article.  23 
+ 
+ Occurred: As a result of Ch. 681, Acts o f 2022, which renumbered § 8 –6A–07(f) of the 24 
+Health Occupations Article to be § 8 –6A–07(g).  25 
+ 
+Article – Housing and Community Development  26 
+ 
+12–104. 27 
+ 
+ (c) (2) Property is used for essential public and governmental purposes and is 28 
+exempt from all taxes and special assessments of the State or a political subdivision if the 29 
+34 SENATE BILL 784   
+ 
+ property:  1 
+ 
+   (i) belongs to an authority or a nonprofit housing corporation; [or] 2 
+ 
+   (ii) is used as housing for persons of eligible income and is owned in 3 
+whole or in part, directly or i ndirectly, through one or more wholly or partially owned 4 
+subsidiary entities of a Baltimore Housing Authority entity; [or] 5 
+ 
+ DRAFTER’S NOTE:  6 
+ 
+ Error: Extraneous conjunctions in § 12 –104(c)(2)(i) and (ii) of the Housing and 7 
+Community Development Article.  8 
+ 
+ Occurred: Ch. 126, Acts of 2018 and Ch. 151, Acts of 2019.  9 
+ 
+Article – Insurance  10 
+ 
+15–854. 11 
+ 
+ (a) (2) An insurer, a nonprofit health service plan, or a health maintenance 12 
+organization that provides coverage for prescription drugs through a pharmacy benefits 13 
+manager or that contracts with a private review agent under Subtitle 10B of this [article ] 14 
+TITLE  is subject to the requirements of this section.  15 
+ 
+ DRAFTER’S NOTE:  16 
+ 
+ Error: Stylistic error in § 15 –854(a)(2) of the Insurance Article.  17 
+ 
+ Occurred: Ch. 549, Acts of 2019.  18 
+ 
+Article – Labor and Employment  19 
+ 
+8.3–101. 20 
+ 
+ (i) “Family member” means:  21 
+ 
+  (9) a biologica l grandparent, an [adopted ] ADOPTIVE  grandparent, a 22 
+foster grandparent, or a stepgrandparent of the covered individual;  23 
+ 
+ DRAFTER’S NOTE:  24 
+ 
+ Error: Incorrect word usage in § 8.3 –101(i)(9) of the Labor and Employment Article.  25 
+ 
+ Occurred: Ch. 48,  Acts of 2022 . 26 
+ 
+Article – Land Use  27 
+ 
+ SENATE BILL 784  35 
+ 
+ 10–103. 1 
+ 
+ (b) The following provisions of this division apply to Baltimore City:  2 
+ 
+  (13) [§ 4–207] § 4–208 (Exceptions – Maryland Accessibility Code);  3 
+ 
+ DRAFTER’S NOTE:  4 
+ 
+ Error: Erroneous cross –reference in § 10 –103(b)(13) of the Land Use Article.  5 
+ 
+ Occurred: As a result of Ch. 426, Acts of 2012, which transferred and revised Article 6 
+66B to be Division I of the Land Use Article.  7 
+ 
+Article – Local Government  8 
+ 
+1–1320.  9 
+ 
+ (c) Subject to subsection (d) of this section and except as provi ded in subsection 10 
+(e) of this section, on or before August 1, 2025, each county and municipality shall 11 
+implement solar permitting software for features supporting the tracking and approval of 12 
+residential building permits for:  13 
+ 
+  (3) main [electric ] ELECTRI CAL panel upgrades; and  14 
+ 
+  (4) main [electric ] ELECTRICAL  panel derates.  15 
+ 
+ DRAFTER’S NOTE:  16 
+ 
+ Error: Incorrect word usage in § 1 –1320 of the Local Government Article.  17 
+ 
+ Occurred: Ch. 595, Acts of 2024.  18 
+ 
+Article – Natural Resources  19 
+ 
+8–2A–02. 20 
+ 
+ (f) (3) (i) In each fiscal year from 2023 through 2031, inclusive, $1,250,000 21 
+from the Trust Fund shall be used to fund:  22 
+ 
+    2. Subject to subparagraph (ii) of this paragraph, 13 23 
+contractor positions in the Forest Service of the Department to provide technical assistan ce, 24 
+planning, and coordination related to tree plantings, tree buffer management, and forest 25 
+management, including invasive vine removal, on public, private, and agricultural lands 26 
+and in “underserved areas” as defined in § 8 –1911 of this [article ] TITLE . 27 
+ 
+ DRAFTER’S NOTE:  28 
+ 
+36 SENATE BILL 784   
+ 
+  Error: Stylistic error in § 8 –2A–02(f)(3)(i)2 of the Natural Resources Article.  1 
+ 
+ Occurred: Ch. 645, § 3, Acts of 2021.  2 
+ 
+8–1805.  3 
+ 
+ (a) (1) The Commission shall have the staff provided for in the State budget.  4 
+ 
+  [(1)] (2) The staff assigned to the Coastal Zone Management Program in 5 
+the Department shall assist the Commission in the development of regulations and the 6 
+review of programs.  7 
+ 
+  [(2)] (3) The State departments represented on the Commission may lend 8 
+staff or other assistance to the Commission.  9 
+ 
+ DRAFTER’S NOTE:  10 
+ 
+ Error: Tabulation error in § 8 –1805(a) of the Natural Resources Article.  11 
+ 
+ Occurred: Ch. 794, Acts of 1984.  12 
+ 
+8–1809.  13 
+ 
+ (q) (4) If the Commission approves a proposed program amendment subject to 14 
+one or more conditions under [item] PARAGRAPH  (3)(iii) of this subsection, the local 15 
+jurisdiction shall notify the Commission within 60 days of its intent to adopt the conditions.  16 
+ 
+ (r) (3) (iii) If the chair’s determination is not overridden, within 10 working 17 
+days after the opportunity to override the chair’s decision under [item] SUBPARAGRAPH  18 
+(i) of this paragraph, the chair shall:  19 
+ 
+    1. Determine if the program refinement is consistent  with 20 
+the purposes, policies, goals, and provisions of this subtitle, and all criteria of the 21 
+Commission; and  22 
+ 
+    2. A. Approve the proposed program refinement and 23 
+notify the local jurisdiction;  24 
+ 
+    B. Deny the program refinement;  25 
+ 
+    C. Approve the pro posed program refinement subject to one 26 
+or more conditions; or  27 
+ 
+    D. Return the proposed program refinement back to the local 28 
+jurisdiction with a list of the changes to be made.  29 
+ 
+   (iv) If the chair approves a proposed program refinement subject to 30 
+ SENATE BILL 784  37 
+ 
+ one or more conditions under [item (iii)3 ] SUBPARAGRAPH (III)2C of this paragraph, the 1 
+local jurisdiction shall notify the Commission within 60 days of its intent to adopt the 2 
+conditions.  3 
+ 
+ DRAFTER’S NOTE:  4 
+ 
+ Error: Stylistic errors in § 8 –1809(q)(4) and (r)(3) (iii) and (iv) of the Natural 5 
+Resources Article and erroneous  internal reference in § 8 –1809(r)(3)(iv) of the Natural 6 
+Resources Article.  7 
+ 
+ Occurred: Ch. 55, Acts of 2006.  8 
+ 
+10–301. 9 
+ 
+ (g) (4) Subject to paragraph (7) of this subsection, the fees for hunting and 10 
+trapping licenses are according to the following schedule:  11 
+ 
+   (x) Nonresident trapping license .....................................$50.00  12 
+ 
+10–502. 13 
+ 
+ (a) Any nonresident of the State who desires to trap furbearers, except otter or 14 
+beaver, first shall procure a nonresident trapper’s license in addition to any other license 15 
+required. The license shall be issued only to residents of other states which grant the same 16 
+trapping privileges to Maryland residents.  17 
+ 
+ (b) The license shall be:  18 
+ 
+  (1) Issued for a  [$25.50 ] $50 fee or a fee equal to that charged by the 19 
+nonresident’s home state for a similar license, whichever is greater;  20 
+ 
+ DRAFTER’S NOTE:  21 
+ 
+ Error: Misnomer in § 10 –502(b)(1) of the Natural Resources Article.  22 
+ 
+ Occurred: As a result of Chs. 543 and 54 4, Acts of 2023, which established an 23 
+increased annual fee for the nonresident trapper’s license under § 10 –301(g)(4)(x) of the 24 
+Natural Resources Article, but did not make the necessary corresponding change to the 25 
+license fee under § 10 –502(b)(1) of the Na tural Resources Article.  26 
+ 
+Article – Public Safety  27 
+ 
+1–307. 28 
+ 
+ (c) The MARYLAND  Department OF EMERGENCY MANAGEMENT shall 29 
+summarize and analyze the information provided under subsection (b)(3) of this section 30 
+and, subject to § 2 –1257 of the State Government Article, submit to the Senate [Education, 31 
+38 SENATE BILL 784   
+ 
+ Health, and Environmental Affairs ] FINANCE  Committee and the House Health and 1 
+Government Operations Committee:  2 
+ 
+  (1) the summary and analysis;  3 
+ 
+  (2) any associated recommendations to address issues raised by the 4 
+analysis; and  5 
+ 
+  (3) a description of any measures implemented by the Department to 6 
+address issues raised by the analysis.  7 
+ 
+ DRAFTER’S NOTE:  8 
+ 
+ Error: Incorrect word usage and erroneous committee reference in § 1 –307(c) of the 9 
+Public Safety Article.  10 
+ 
+ Occurred: Ch. 349, Acts of 2022  and as a result of a change in jurisdiction of the 11 
+Senat e Committee on Education, Energy, and the Environment (formerly the Senate 12 
+Education, Health, and Environmental Affairs Committee) and the Senate Finance 13 
+Committee in 2023, which resulted in all health matters being handled by the Senate 14 
+Finance Committee.  15 
+ 
+3–209. 16 
+ 
+ (b) The certification of a police officer who fails to obtain United States citizenship 17 
+as required by subsection [(a)(4)(ii) ] (A)(5)( II) of this section shall be terminated by the 18 
+Commission.  19 
+ 
+ DRAFTER’S NOTE:  20 
+ 
+ Error: Erroneous internal refere nce in § 3 –209(b) of the Public Safety Article.  21 
+ 
+ Occurred: As a result of Ch. 59, Acts of 2021 , which renumbered § 3 –209(a)(4) of the 22 
+Public Safety Article to be § 3 –209(a)(5) . 23 
+ 
+3–313. 24 
+ 
+ (b) (1) (I) The Governor may delegate the power to suspend a commis sion 25 
+to the Secretary.  26 
+ 
+   [(i)] (II) The Secretary may suspend a commission if it appears 27 
+that the action is in the best interest of the public.  28 
+ 
+   [(ii)] (III) A suspension issued by the Secretary shall be reviewed by 29 
+the Governor within 30 days to determine if the suspension should continue or if the 30 
+commission should be terminated.  31 
+ 
+ SENATE BILL 784  39 
+ 
+  DRAFTER’S NOTE:  1 
+ 
+ Error: Tabulation error in § 3 –313(b)(1) of the Public Safety Article.  2 
+ 
+ Occurred: Ch. 298, Acts of 2015.  3 
+ 
+3–507. 4 
+ 
+ (b) [Every year, on ] ON or befo re March 1, 2016, and March 1 of each subsequent 5 
+year, each local law enforcement agency shall provide the Governor’s Office of Crime 6 
+Prevention and Policy with information, for the previous calendar year, about each  7 
+officer –involved death and death in th e line of duty that involved a law enforcement officer 8 
+employed by the agency, to include at a minimum:  9 
+ 
+  (1) the age, gender, ethnicity, and race of a deceased individual;  10 
+ 
+  (2) the age, gender, ethnicity, and race of the officer involved;  11 
+ 
+  (3) a brie f description of the circumstances surrounding the death;  12 
+ 
+  (4) the date, time, and location of the death; and  13 
+ 
+  (5) the law enforcement agency of the officer who:  14 
+ 
+   (i) died, if the incident involved an officer who died in the line of 15 
+duty; or  16 
+ 
+   (ii) detained, arrested, or was in the process of arresting the 17 
+deceased, if the incident involved an officer –involved death.  18 
+ 
+ DRAFTER’S NOTE:  19 
+ 
+ Error: Extraneous language in § 3 –507(b) of the Public Safety Article.  20 
+ 
+ Occurred: Ch. 134, Acts of 2015.  21 
+ 
+4–1703. 22 
+ 
+ (d) The Governor’s Office of Crime [Prevention, Youth, and Victim Services ] 23 
+PREVENTION AND POLICY  shall administer the Fund.  24 
+ 
+ DRAFTER’S NOTE:  25 
+ 
+ Error: Obsolete terminology in § 4 –1703(d) of the Public Safety Article.  26 
+ 
+ Occurred: As a result of Exec utive Order 01.01.2024.05, which separated the 27 
+Governor’s Office of Crime Prevention, Youth, and Victim Services into the Governor’s 28 
+40 SENATE BILL 784   
+ 
+ Office for Children and the Governor’s Office of Crime Prevention and Policy.  1 
+ 
+13–901. 2 
+ 
+ (b) Without authority under the l aws of the United States or this State, a person 3 
+may not wear a uniform or distinctive part of a uniform or an item similar to a uniform or 4 
+a distinctive part of a uniform of:  5 
+ 
+  (1) the United States Army, Navy, Air Force, Marine Corps, Space Force, 6 
+or Coast Guard; [or] 7 
+ 
+ DRAFTER’S NOTE:  8 
+ 
+ Error: Extraneous conjunction in § 13 –901(b)(1) of the Public Safety Article.  9 
+ 
+ Occurred: Ch. 5, § 2, Acts of 2003.  10 
+ 
+13A–1108.  11 
+ 
+ This title shall be so construed as to effectuate its general purpose to make it 12 
+uniform, so far as [practical ] PRACTICABLE , with the Uniform Code of Military Justice, 13 
+10 U.S.C. 47.  14 
+ 
+ DRAFTER’S NOTE:  15 
+ 
+ Error: Incorrect word usage in § 13A –1108 of the Publi c Safety Article.  16 
+ 
+ Occurred: Ch. 592, § 2, Acts of 2020.  17 
+ 
+14–3A–05. 18 
+ 
+ (b) (3) (i) If the Secretary or other designated official determines that the 19 
+notice required in paragraph (2) of this subsection is [impractical ] IMPRACTICABLE  20 
+because of the number of  individuals or geographical areas affected, the Secretary or other 21 
+designated official shall ensure that the affected individuals are fully informed of the 22 
+directive using the best possible means available.  23 
+ 
+   (ii) If the directive applies to a group of individuals and it is 24 
+[impractical ] IMPRACTICABLE  to provide individual written copies under paragraph (2) of 25 
+this subsection, the written directive may be posted in a conspicuous place in the isolation 26 
+or quarantine premises.  27 
+ 
+ (c) (7) If the court determ ines that the delivery required by paragraph (6)(iii) 28 
+of this subsection is [impractical ] IMPRACTICABLE  because of the number of individuals 29 
+or geographical area affected, the court shall ensure that the affected individuals are fully 30 
+informed of the order  using the best possible means available.  31 
+ 
+ SENATE BILL 784  41 
+ 
+  (f) (1) Subject to any emergency rules that the Supreme Court of Maryland 1 
+adopts under paragraph (3) of this subsection, the court may order the consolidation of 2 
+individual claims into group claims in proceedings  brought under this section if:  3 
+ 
+   (i) the large number of individuals involved or affected makes 4 
+individual participation [impractical ] IMPRACTICABLE ; 5 
+ 
+ DRAFTER’S NOTE:  6 
+ 
+ Error: Incorrect word usage in § 14 –3A–05(b)(3)(i) and (ii) , (c)(7) , and (f)(1)(i) of the 7 
+Public Safety Article.  8 
+ 
+ Occurred: Ch. 26 , Acts of 2004.  9 
+ 
+14–1102.  10 
+ 
+ (d) (1) (ii) An appointed member may not serve for more than [2] TWO 11 
+consecutive [three year ] 3–YEAR  terms.  12 
+ 
+ DRAFTER’S NOTE:  13 
+ 
+ Error: Stylistic errors in § 14 –1102( d)(1)(ii) of the Public Safety Article.  14 
+ 
+ Occurred: Chs. 724 and 725, Acts of 2021.  15 
+ 
+Article – Public Utilities  16 
+ 
+7–310. 17 
+ 
+ (c) The purpose of the Fund is to provide resources to improve the Commission’s 18 
+ability to:  19 
+ 
+  (1) educate customers on:  20 
+ 
+   (ii) energy choices that help meet the State’s climate commitments 21 
+under [§§ 7–211 and ] § 7–319 of this subtitle and [§§ 2–1204.1 and ] § 2–1204.2 of the 22 
+Environment Article;  23 
+ 
+ (g) The Fund may be used only to:  24 
+ 
+  (1) educate retail electric or gas customers on retail choice and energy 25 
+choices that help to meet the State’s climate commitments under [§§ 7–211 and ] § 7–319 26 
+of this subtitle and [§§ 2–1204.1 and ] § 2–1204.2 of the Environment Article;  27 
+ 
+ DRAFTER’S NOTE:  28 
+ 
+42 SENATE BILL 784   
+ 
+  Error: Obsolete cross –references in § 7 –310(c )(1)(ii)  and (g)(1) of the Public Utilities 1 
+Article.  2 
+ 
+ Occurred: As a result of Ch. 539, Acts of 2024, which repealed § 7 –211 of the Public 3 
+Utilities Article, and Ch. 537, Acts of 2024, which included a cross –reference to § 12 –1204.1 4 
+of the Environment Article that abrogated on December 31, 2023 , as a result of Ch. 11, § 6, 5 
+Acts of 2016.  6 
+ 
+7–510.3.  7 
+ 
+ (j) (1) A community choice aggregator may not assess any new fee, tax, or 8 
+other charge in the aggregation charges or rates that is not related to the cost of:  9 
+ 
+   (iii) providing and promoting energy efficiency programs promoted 10 
+under [paragraphs ] PARAGRAPH  (2) or (3) of this subsection.  11 
+ 
+ (v) On or before December 31, 2023, the Commission shall adopt regulations to 12 
+impl ement this section, including regulations for:  13 
+ 
+  (8) procedures to protect A customer’s privacy and confidential data 14 
+collected or held by a community choice aggregator;  15 
+ 
+  (11) the approval of a tariff structure for community choice aggregator  16 
+interactio ns with electric companies, including:  17 
+ 
+   (i) billing and payment collection;  18 
+ 
+   (ii) dispute resolution;  19 
+ 
+   (iii) financial settlement;  20 
+ 
+   (iv) losses;  21 
+ 
+   (v) metering services;  22 
+ 
+   (vi) PJM Interconnection requirements;  23 
+ 
+   (vii) scheduling; and  24 
+ 
+   (viii)  utility charges; AND 25 
+ 
+ DRAFTER’S NOTE:  26 
+ 
+ Error: Grammatical error in § 7 –510.3(j)(1)(iii) of the Public Utilities Article; omitted 27 
+word in § 7–510.3(v)(8) of the Public Utilities Article; and omitted conjunction in §  28 
+7–510.3(v)(11) of the Public Utilities Article.  29 
+ 
+ SENATE BILL 784  43 
+ 
+  Occurred: Ch. 449, § 2, Acts of 2021.  1 
+ 
+7–703. 2 
+ 
+ (b) Except as provided in subsections (e) and (f) of this section, the renewable 3 
+energy portfolio standard shall be as follows:  4 
+ 
+  (21) in 2026:  5 
+ 
+   (ii) 2.5% from Tier 2 renewable source s; [and] 6 
+ 
+  (22) in 2027:  7 
+ 
+   (ii) 2.5% from Tier 2 renewable sources; [and] 8 
+ 
+  (23) in 2028:  9 
+ 
+   (ii) 2.5% from Tier 2 renewable sources; [and] 10 
+ 
+ DRAFTER’S NOTE:  11 
+ 
+ Error: Extraneous conjunctions in § 7 –703(b) (21)(ii), (22)(ii), and (23)(ii)  of the Public 12 
+Utilities Article . 13 
+ 
+ Occurred: As a result of Chs. 164 and 673, Acts of 2021.  14 
+ 
+7–705. 15 
+ 
+ (a) (1) Except as provided in paragraph (2) of this subsection, each electricity 16 
+supplier shall submit a report to the Commission each year in a form and  by a date specified 17 
+by the Commission that:  18 
+ 
+   (iii) documents the amounts and types of generation associated with 19 
+renewable energy credits purchased in compliance with [§ 7–707(b) ] § 7–707( C) of this 20 
+subtitle during the reporting period; and  21 
+ 
+ DRAFTER’S  NOTE:  22 
+ 
+ Error: Erroneous cross –reference in § 7 –705(a)(1)(iii) of the Public Utilities Article.  23 
+ 
+ Occurred: Ch. 537, Acts of 2024.  24 
+ 
+7–707. 25 
+ 
+ (d) (1) The price approved by the Commission under subsection [(b)(2) ] (C)(2) 26 
+of this section shall be determined through:  27 
+ 
+44 SENATE BILL 784   
+ 
+    (i) a proceeding held in accordance with paragraph (2) of this 1 
+subsection; or  2 
+ 
+   (ii) a proceeding held in accordance with paragraph (3) of this 3 
+subsection.  4 
+ 
+ DRAFTER’S NOTE:  5 
+ 
+ Error: Erroneous internal reference in § 7 –707(d)(1) of the Public Utilities Article.  6 
+ 
+ Occurred: Ch. 537, Acts of 2024.  7 
+ 
+Article – Real Property  8 
+ 
+2–121. 9 
+ 
+ (a) In this section, “family child care home” means a unit:  10 
+ 
+  (1) Registered under [Title 5, Subtitle 5 of the Family Law Article ] TITLE 11 
+9.5, SUBTITLE 3 OF THE  EDUCATION ARTICLE ; and  12 
+ 
+ DRAFTER’S NOTE:  13 
+ 
+ Error: Obsolete cross –reference in § 2 –121(a)(1) of the Real Property Article.  14 
+ 
+ Occurred: As a result of Ch. 185, § 2, Acts of 2016, which transferred provisions 15 
+relating to the registration of family child care  providers from the Family Law Article to 16 
+the Education Article.  17 
+ 
+8–211. 18 
+ 
+ (n) (1) After rent escrow has been established, the court:  19 
+ 
+   (v) May, after a hearing, if one is requested by the tenant, order, if 20 
+no repairs are made or if no good faith effort to repair is made within 6 months of the initial 21 
+decision to place money in the escrow account, that the money in the escrow account be 22 
+disbur sed to the tenant that [have] HAS paid into escrow; or  23 
+ 
+ DRAFTER’S NOTE:  24 
+ 
+ Error:  Grammatical error in § 8 –211(n)(1)(v) of the Real Property Article.  25 
+ 
+ Occurred:  Ch. 125, Acts of 2024.  26 
+ 
+8A–801. 27 
+ 
+ (b) A park owner or AN operator of a mobile home park, or [his] THE agent or 28 
+ SENATE BILL 784  45 
+ 
+ employee OF A PARK OWNER OR A N OPERATOR OF A MOBI LE HOME PARK , may not 1 
+refuse, withhold from, or deny to any person any of the accommodations, advantages, 2 
+facilities, or privileges of the mobile home park or leases to the premises because of THE 3 
+race, creed, color, sex, sexual orientation, gender identity, or national origin of that person.  4 
+ 
+ DRAFTER’S NOTE:  5 
+ 
+ Error:  Omitted articles and stylistic errors in § 8A –801(b) of the Real Property 6 
+Article.  7 
+ 
+ Occurred:  Ch. 843, Acts of 1980.  8 
+ 
+11–103. 9 
+ 
+ (d) (1) (ii) If a declaration contains a suspension provision authorized 10 
+under subparagraph (i) of this paragraph, the declaration shall state that a suspension of 11 
+the use of common elements may not be implemented until the council of unit owners:  12 
+ 
+    1. Mails to the unit owner a demand letter specifying a time 13 
+period of at least 10 days within which the unit owner may pay the delinquent assessment 14 
+or request a hearing to contest the suspension; and  15 
+ 
+    2. If a unit owner requests a hearing to contest  a suspension, 16 
+provides notice and holds a hearing in accordance with [§ 11 –113(b)(2) and (3) ] §  17 
+11–113( B) of this  [subtitle ] TITLE .  18 
+ 
+ DRAFTER’S NOTE:  19 
+ 
+ Error:  Erroneous cross –reference and stylistic error in § 11 –103(d)(1)(ii) of the Real 20 
+Property Article.  21 
+ 
+ Occurred:  As a result of Ch. 282, Acts of 2022 and Ch. 345, Acts of 2018.  22 
+ 
+Article – State Finance and Procurement  23 
+ 
+2–209. 24 
+ 
+ (c) (2) (vi) The Governor may remove a member for neglect of duty, 25 
+[incompetence ] INCOMPETENCE , or misconduct.  26 
+ 
+ (f) A member of the Council:  27 
+ 
+  (2) is entitled to reimbursement for expenses under the Standard State 28 
+Travel Regulations, as provided in the State [Budget ] BUDGET . 29 
+ 
+ DRAFTER’S NOTE:  30 
+46 SENATE BILL 784   
+ 
+  
+ Error: Omitted comma in § 2 –209(c)(2)(vi) and capitalization error in § 2 –209(f)(2) of 1 
+the State Finance and Procurement Article.  2 
+ 
+ Occurred: Ch. 485, Acts of 2020.  3 
+ 
+2–210. 4 
+ 
+ (b) (1) In order to improve efficiency, streamline and reduce r edundant 5 
+processes, reduce paperwork and administrative burdens on both granting agencies and 6 
+grant recipients, and facilitate development and implementation of a statewide centralized 7 
+grants management and accountability system, the Council shall study an d make 8 
+recommendations to the Department regarding the entire grants life cycle, including:  9 
+ 
+   (iii) regulations adopting each part of the [uniform guidance ] 10 
+UNIFORM GUIDANCE , with appropriate modifications for its application to grant –making 11 
+entities in the State, including modifications or variances based on the scope or size of 12 
+particular grant programs, grant –making entities, or grantees;  13 
+ 
+   (vi) recommended deadlines for grant –making entities to administer 14 
+State and federal grants in accordance with the provisions of parts of [uniform guidance ] 15 
+UNIFORM GUIDANCE  as adopted by the Department by regulation.  16 
+ 
+ DRAFTER’S NOTE:  17 
+ 
+ Error: Capitalization error in § 2 –210(b)(1)(iii) and (vi) of the State Finance and 18 
+Procurement Article.  19 
+ 
+ Occurred: Chs. 484 and  485, Acts of 2020.  20 
+ 
+3–609. 21 
+ 
+ (b) The Fund is a continuing, nonlapsing, revolving fund that consists of:  22 
+ 
+  (1) money appropriated to the Fund:  23 
+ 
+   (i) in the annual budget; or  24 
+ 
+   (ii) in an annual General Construction Loan Act or in a Maryland 25 
+Consolidat ed Capital Bond Loan Act; [or] 26 
+ 
+ DRAFTER’S NOTE:  27 
+ 
+ Error: Extraneous conjunction in § 3 –609(b)(1)(ii) of the State Finance and 28 
+Procurement Article.  29 
+ 
+ Occurred: As a result of Ch. 463, Acts of 1995.  30 
+ SENATE BILL 784  47 
+ 
+  
+3.5–2A–04. 1 
+ 
+ (e) (1) On or before December 31 each year, the Office shall report to the 2 
+Governor and, in accordance with § 2 –1257 of the State Government Article, the Senate 3 
+Budget and Taxation Committee, the Senate [Education, Health, and Environmental 4 
+Affairs ] Committee ON EDUCATION , ENERGY , AND THE ENVIRONMENT , the House 5 
+Appropriations Committee, the House Health and Government Operations Committee, and 6 
+the Joint Committee on Cybersecurity, Information Technology, and Biotechnology on the 7 
+activities of the Office and the sta te of cybersecurity preparedness in Maryland, including:  8 
+ 
+ DRAFTER’S NOTE:  9 
+ 
+ Error: Obsolete language in § 3.5 –2A–04(e)(1) of the State Finance and Procurement 10 
+Article.  11 
+ 
+ Occurred: As a result of the renaming of the Senate Education, Health, and 12 
+Environmen tal Affairs Committee to be the Senate Committee on Education,  Energy, and 13 
+the Environment in December 2022.  14 
+ 
+3.5–303. 15 
+ 
+ (a) The Secretary is responsible for carrying out the following duties:  16 
+ 
+  (4) developing and maintaining a statewide information techn ology master 17 
+plan that will:  18 
+ 
+   (vi) [allows ] ALLOW  a State agency to maintain the agency’s own 19 
+information technology unit that provides for information technology services to support 20 
+the mission of the agency;  21 
+ 
+ DRAFTER’S NOTE:  22 
+ 
+ Error: Grammatical erro r in § 3.5 –303(a)(4)(vi) of the State Finance and 23 
+Procurement Article.  24 
+ 
+ Occurred: Ch. 242, § 2, Acts of 2022.  25 
+ 
+3.5–309. 26 
+ 
+ (i) The Fund may be used:  27 
+ 
+  (3) notwithstanding [§ 3.5 –301(b)(2) ] § 3.5–301( E)(2) of this subtitle, for 28 
+the costs of the first 12 months of operation and maintenance of a major information 29 
+technology development project;  30 
+ 
+ DRAFTER’S NOTE:  31 
+48 SENATE BILL 784   
+ 
+  
+ Error: Erroneous cross –reference in § 3.5 –309(i)(3) of the State Finance and 1 
+Procurement Article . 2 
+ 
+ Occurred:  As a result of Ch. 318, Acts of 2021 and Ch. 496, Acts of 2024.  3 
+ 
+3.5–316. 4 
+ 
+  (a) [(1)] In this section, [the following words have the meanings 5 
+indicated.  6 
+ 
+  (2)] “Commission” means the Modernize Maryland Commission.  7 
+ 
+  [(3) “Critical system” means an information technology or cybersecurity 8 
+system that is severely outdated, as determined by the Department. ] 9 
+ 
+ DRAFTER’S NOTE:  10 
+ 
+ Error: Extraneous language in § 3.5 –316(a)(3) of the State Finance and Procurement 11 
+Article.  12 
+ 
+ Occurred: Ch. 243, Acts o f 2022.  13 
+ 
+3.5–317. 14 
+ 
+ (d) (1) Every 2 years, a contractor shall provide the results of the assessments 15 
+to: 16 
+ 
+   (i) the Modernize Maryland Commission established under §  17 
+3.5–316 of this subtitle; and  18 
+ 
+   (ii) in accordance with § 2 –1257 of the State Government Article, the 19 
+Senate Budget and Taxation Committee, the Senate [Education, Health, and 20 
+Environmental Affairs ] Committee  ON EDUCATION , ENERGY , AND THE 21 
+ENVIRONMENT , and the House Health and Government Operat ions Committee.  22 
+ 
+ DRAFTER’S NOTE:  23 
+ 
+ Error: Obsolete language in § 3.5 –317(d)(1) of the State Finance and Procurement 24 
+Article.  25 
+ 
+ Occurred: As a result of the renaming of the Senate Education, Health, and 26 
+Environmental Affairs Committee to be the Senate Comm ittee on Education, Energy, and 27 
+the Environment in December 2022.  28 
+ 
+5–408. 29 
+ SENATE BILL 784  49 
+ 
+  
+ (k) In accordance with the requirements of § 2 –1257 of the State Government 1 
+Article, the Department and the Foundation shall report on the certification program on or 2 
+before Januar y 15 of each year to:  3 
+ 
+  (3) the Senate Budget and Taxation Committee and the Senate 4 
+[Education, Health, and Environmental Affairs ] Committee ON EDUCATION , ENERGY , 5 
+AND THE ENVIRONMENT ; and  6 
+ 
+ DRAFTER’S NOTE:  7 
+ 
+ Error: Obsolete language in § 5 –408(k)(3) of th e State Finance and Procurement 8 
+Article.  9 
+ 
+ Occurred: As a result of the renaming of the Senate Education, Health, and 10 
+Environmental Affairs Committee to be the Senate Committee on  Education, Energy, and 11 
+the Environment in December 2022.  12 
+ 
+6–226. 13 
+ 
+ (a) (2) (i) [1.] This [subparagraph ] PARAGRAPH  does not apply in fiscal 14 
+years 2024 through 2028.  15 
+ 
+    [2.] (II) Notwithstanding any other provision of law, and 16 
+unless inconsistent with a federal law, grant agreement, or other federal requirement or 17 
+with the terms of a gift or settlement agreement, net interest on all State money allocated 18 
+by the State Treasurer under this section to special funds or accounts, and otherwise 19 
+entitled to receive interest earnings, as accounted for by the Comptroller, shall accrue to 20 
+the General Fund of the State.  21 
+ 
+   [(ii)] (III) The provisions of subparagraph [(i)] (II) of this paragraph 22 
+do not apply to the following funds:  23 
+ 
+    1. Maryland Housing Loan Funds of 1976, 1978, 1979, and 24 
+1984;  25 
+ 
+ DRAFTER’S NOTE:  26 
+ 
+ Error: Erroneous internal  reference and tabulation error in § 6 –226(a)(2) of the State 27 
+Finance and Procurement Article.  28 
+ 
+ Occurred: Ch. 717, Acts of 2024.  29 
+ 
+13–108. 30 
+ 
+ (b) (5) If supplies or commodities procured under an emergency procurement 31 
+contract are not delivered and used with in 1 month after the date the contract is awarded, 32 
+50 SENATE BILL 784   
+ 
+ the unit shall:  1 
+ 
+   (i) prepare a report describing the delivery and use status of 2 
+supplies and commodities procured under the contract at least once per month until all 3 
+supplies and commodities have been delivered and used; and  4 
+ 
+   (ii) submit the reports prepared under this paragraph to the Board, 5 
+the appropriate control agency, and, in accordance with § 2 –1257 of the State Government 6 
+Article, the Senate Budget and Taxation Committee, the Senate [Educatio n, Health, and 7 
+Environmental Affairs ] Committee ON EDUCATION , ENERGY , AND THE 8 
+ENVIRONMENT , the House Appropriations Committee, the House Health and Government 9 
+Operations Committee, and the Joint Audit and Evaluation Committee.  10 
+ 
+ DRAFTER’S NOTE:  11 
+ 
+ Error: Ob solete language in § 13 –108(b)(5) of the State Finance and Procurement 12 
+Article.  13 
+ 
+ Occurred: As a result of the renaming of the Senate Education, Health, and 14 
+Environmental Affairs Committee to be the Senate  Committee on Education, Energy, and 15 
+the Environmen t in December 2022.  16 
+ 
+13–112.1.  17 
+ 
+ (e) (4) The Maryland Environmental Service shall provide copies of each 18 
+review conducted under this subsection to:  19 
+ 
+   (i) each unit for which the Service reviewed and evaluated a 20 
+contract; and  21 
+ 
+   (ii) in accordance with § 2 –1257 of the State Government Article, the 22 
+Senate [Education, Health, and Environmental Affairs ] Committee  ON EDUCATION , 23 
+ENERGY , AND THE ENVIRONMENT , the Senate Budget and Taxation Committee, the 24 
+House Environment and Transportation Committee, and the House Appropriations 25 
+Committee.  26 
+ 
+ DRAFTER’S NOTE:  27 
+ 
+ Error: Obsolete language in § 13 –112.1(e)(4) of the State Finance and Procurement 28 
+Article.  29 
+ 
+ Occurred: Chs. 237 and 238, Acts of 2022, as a result of the renaming of the Senate 30 
+Educatio n, Health, and Environmental Affairs Committee to be the Senate Committee on 31 
+Education, Energy, and the Environment in December 2022.  32 
+ 
+14–106. 33 
+ 
+ SENATE BILL 784  51 
+ 
+  (g) In addition to the duties specified under subsection (f) of this section, the  1 
+[committee ] COMMITTEE  shall:  2 
+ 
+  (1) establish and periodically review eligibility policies or guidelines for 3 
+participating community service providers and individual with disability owned 4 
+businesses;  5 
+ 
+  (2) maintain a current list of community service providers and individual 6 
+with dis ability owned businesses;  7 
+ 
+  (3) periodically review and revise its list of community service providers 8 
+and individual with disability owned businesses; and  9 
+ 
+  (4) send any revised list to the Chief Procurement Officer who shall make 10 
+the list available to each person responsible for buying supplies or services for the State or 11 
+a State aided or controlled entity.  12 
+ 
+ DRAFTER’S NOTE:  13 
+ 
+ Error: Capitalization error in § 14 –106(g) of the State Finance and Procurement 14 
+Article.  15 
+ 
+ Occurred: Chs. 527 and 528, Acts of 2022.  16 
+ 
+14–110. 17 
+ 
+ (e) Within 60 days after receipt of all of the reports required under subsections 18 
+(c) and (d) of this section, the Department of General Services shall submit a summary of 19 
+the information to:  20 
+ 
+  (1) the Board of Public Works; and  21 
+ 
+  (2) in accordance with § 2 –1257 of the State Government Article, the 22 
+Senate [Education, Health, and Environmental Affairs ] Committee  ON EDUCATION , 23 
+ENERGY , AND THE ENVIRONMENT , the House Health and Government Operations 24 
+Committee, and the Legislative Policy Commi ttee. 25 
+ 
+ DRAFTER’S NOTE:  26 
+ 
+ Error: Obsolete language in § 14 –110(e)(2) of the State Finance and Procurement 27 
+Article.  28 
+ 
+ Occurred: As a result of the renaming of the Senate Education, Health, and 29 
+Environmental Affairs Committee to be the Senate Committee on Education, Energy, and 30 
+the Environment in December 2022.  31 
+ 
+15–111. 32 
+52 SENATE BILL 784   
+ 
+  
+ (c) Within 90 days after the end of each fiscal year, the Chief Procurement Officer 1 
+shall submit to the Governor, the Legislative Policy Committee, the Senate Budget and 2 
+Taxation Committee, the Senate [Education, Health, and Environmenta l Affairs ] 3 
+Committee  ON EDUCATION , ENERGY , AND THE ENVIRONMENT , the House 4 
+Appropriations Committee, the House Health and Government Operations Committee, and 5 
+the Joint Audit and Evaluation Committee a consolidated report that includes each report 6 
+required under subsection (a) of this section.  7 
+ 
+ DRAFTER’S NOTE:  8 
+ 
+ Error: Obsolete language in § 15 –111(c) of the State Finance and Procurement 9 
+Article.  10 
+ 
+ Occurred: As a result of the renaming of the Senate Edu cation, Health, and 11 
+Environmental Affairs Committee to be the Senate Committee on Education, Energy, and 12 
+the Environment in December 2022.  13 
+ 
+Article – State Government  14 
+ 
+20–601. 15 
+ 
+ (b) (2) “Disability” includes:  16 
+ 
+   (ii) [retardation ] INTELLECTUAL and any other mental impairment 17 
+or deficiency that may have necessitated remedial or special education and related services.  18 
+ 
+ DRAFTER’S NOTE:  19 
+ 
+ Error: Obsolete terminology in § 20 –601(b)(2)(ii) of the State Government Article.  20 
+ 
+ Occurred: Ch. 120, Acts of 2009.  21 
+ 
+Article – State Personnel and Pensions  22 
+ 
+2–203.1 . 23 
+ 
+ (c) (3) (i) This paragraph applies only to:  24 
+ 
+    1. a unit of the University System of Maryland;  25 
+ 
+    2. Morgan State University; [or] AND 26 
+ 
+    3. St. Mary’s College of Maryland.  27 
+ 
+ DRAFTER’S NOTE:  28 
+ 
+ SENATE BILL 784  53 
+ 
+  Error: Erroneous conjunction in § 2–203.1(c)(3)(i) of the State Personnel and 1 
+Pensions Article.  2 
+ 
+ Occurred: Ch. 278, Acts of 2024. Correction suggested by the Attorney General in the 3 
+Bill Review Letter for H.B. 506 (Ch. 278) of 2024 (footnote 3), dated Ap ril 22, 2024.  4 
+ 
+2–502.2.  5 
+ 
+ (c) (6) The Department may structure a contract awarded under this 6 
+subsection to require the pharmacy benefits manager selected under [subsection (e) of this 7 
+section ] § 2–502.1( G) OF THIS SUBTITLE  to pay the cost of the technology  platform and 8 
+associated professional services contracted under this subsection by assessing a  9 
+per–prescription fee paid by the pharmacy benefits manager directly to the technology 10 
+platform vendor.  11 
+ 
+ (g) A pharmacy benefits manager that submits a bid unde r [subsection (e) of ] A 12 
+REVERSE AUCTION PROC ESS UNDER  this section or enters into a contract with the 13 
+Department or a health plan described under subsection [(g)(1) ] (F)(1) of this section shall 14 
+provide the Department and health plan access to complete pha rmacy claims data 15 
+necessary for the Department and health plan to:  16 
+ 
+  (1) conduct the reverse auction; and  17 
+ 
+  (2) carry out administrative and management duties.  18 
+ 
+ (h) (2) If the [prescription ] PHARMACY  benefits manager selected under 19 
+[subsection (e) of th is section ] § 2–502.1( G) OF THIS SUBTITLE  asserts that the 20 
+Department has underpaid on a claim, the [prescription ] PHARMACY  benefits manager 21 
+may submit a contract claim as provided under Title 15, Subtitle 2 of the State Finance and 22 
+Procurement Article.  23 
+ 
+ DRAFTER’S NOTE:  24 
+ 
+ Error: Erroneous internal references in § 2 –502.2(c)(6), (g), and (h)(2) of the State 25 
+Personnel and Pensions Article; and incorrect terminology in § 2 –502.2(h)(2) of the State 26 
+Personnel and Pensions Article.  27 
+ 
+ Occurred: Ch. 434, Acts of 2 020. 28 
+ 
+2–516. 29 
+ 
+ (b) (3) The STATE Treasurer shall separately hold and the Comptroller shall 30 
+account for the Fund.  31 
+ 
+ DRAFTER’S NOTE:  32 
+ 
+54 SENATE BILL 784   
+ 
+  Error: Stylistic error in § 2–516(b)(3) of the State Personnel and Pensions Article.  1 
+ 
+ Occurred: Ch. 444, Acts of 2005.  2 
+ 
+6–302. 3 
+ 
+ (a) Except as provided in this [subsection ] SECTION  or otherwise by law, all 4 
+positions in the Executive Branch of State government are in the State Personnel 5 
+Management System.  6 
+ 
+ DRAFTER’S NOTE:  7 
+ 
+ Error: Stylistic error in § 6–302(a) of the State Personnel and Pensions Article.  8 
+ 
+ Occurred: Ch. 347, Acts of 1996.  9 
+ 
+7–207. 10 
+ 
+ (e) (2) In the selection process for an initial appointment to any position at the 11 
+Baltimore CITY Juvenile Justice Center, an appointing authority shall allow five points to 12 
+each resident of the host district or an adjacent district if, in the most recent 12 –month 13 
+period for which data is available as reported by the Maryland Department of Labor, 14 
+Baltimore City had an average unemployment rate that is more than 1.5 times the State 15 
+unemployment rate as a whole.  16 
+ 
+ DRAFTER’S NOTE:  17 
+ 
+ Error: Misnomer in § 7–207(e)(2) of the State Personnel and Pensions Article.  18 
+ 
+ Occurred: Ch. 347, Acts of 1996.  19 
+ 
+22–406. 20 
+ 
+ (m) On or before October 1 of each year, the State Superintendent of Schools shall  21 
+submit a report for the previous school year, to the Joint Committee on Pensions, in 22 
+accordance with § 2 –1257 of the State Government Article, that provides:  23 
+ 
+  (1) (ii) 1. the school and school system where each retiree was 24 
+rehired; and  25 
+ 
+    2. whether t he school:  26 
+ 
+    A. was not making adequate yearly progress or was a school 27 
+in need of improvement as defined under the federal [No Child Left Behind Act of 2001 ] 28 
+ELEMENTARY AND SECONDARY EDUCATION ACT and as implemented by the State 29 
+Department of Education ; 30 
+ 
+ SENATE BILL 784  55 
+ 
+     B. was receiving funds under Title 1 of the federal [No Child 1 
+Left Behind Act of 2001 ] ELEMENTARY AND SECONDARY EDUCATION ACT; 2 
+ 
+    C. has more than 50% of the students attending that school 3 
+who are eligible for free and reduced –price meals establis hed by the United States 4 
+Department of Agriculture; or  5 
+ 
+    D. provided an alternative education program for adjudicated 6 
+youths or students who have been expelled, suspended, or identified for suspension or 7 
+expulsion from a public school;  8 
+ 
+ DRAFTER’S NOTE:  9 
+ 
+ Error: Obsolete references in § 22–406(m)(1)(ii) of the State Personnel and Pensions 10 
+Article.  11 
+ 
+ Occurred: As a result of the federal Every Student Succeeds Act of 2015, which 12 
+superseded the No Child Left Behind Act and Elementary and Secondary Education  Act. 13 
+ 
+26–211. 14 
+ 
+ (b) On or before December 31, 2000, a member may elect to participate in the Law 15 
+Enforcement Officers’ Modified Pension Benefit under [Part II of this subtitle ] THIS PART  16 
+by submitting an election on a form provided by the State Retirement Agency.  17 
+ 
+ DRAFTER’S NOTE:  18 
+ 
+ Error: Stylistic error in § 26–211(b) of the State Personnel and Pensions Article.  19 
+ 
+ Occurred: Ch. 395, § 2, Acts of 2000.  20 
+ 
+27–101. 21 
+ 
+ [(a)] In this [subtitle the following words have the meanings indicated.  22 
+ 
+ (b) “Termination of service” ] TITLE , “TERMINATION OF SERVI CE” includes:  23 
+ 
+  (1) retirement at the age required by Article IV, § 3 of the Maryland 24 
+Constitution;  25 
+ 
+  (2) voluntary retirement;  26 
+ 
+  (3) resignatio n because of disability;  27 
+ 
+  (4) retirement by order of the Supreme Court of Maryland;  28 
+ 
+  (5) resignation;  29 
+56 SENATE BILL 784   
+ 
+  
+  (6) nonelection or nonconfirmation when election or confirmation is 1 
+required;  2 
+ 
+  (7) expiration of term without reappointment; or  3 
+ 
+  (8) abolition of the member’s office.  4 
+ 
+ DRAFTER’S NOTE:  5 
+ 
+ Error: Erroneous reference and stylistic error in § 27 –101 of the State Personnel and 6 
+Pensions Article.  7 
+ 
+ Occurred: Ch. 6, § 2, Acts of 1994.  8 
+ 
+27–404. 9 
+ 
+ Except for a retiree who elects an optional form of an allo wance under §§ 21 –401 and 10 
+21–402 of this article, payment of an allowance ends and further rights may not arise from 11 
+service as a member if:  12 
+ 
+  (2) (i) the member, former member, or retiree leaves no surviving 13 
+spouse or children who are under the age of 26  years or are disabled;  14 
+ 
+   (ii) the surviving spouse dies and there are no children of the 15 
+member, former member, or retiree, who are under the age of 26 years or are disabled; or  16 
+ 
+   (iii) the last of any children WHO ARE under the age of 26 years and 17 
+are not disabled becomes 26 years old or dies before becoming 26 years old.  18 
+ 
+ DRAFTER’S NOTE:  19 
+ 
+ Error: Grammatical error in § 27 –404(2) of the State Personnel and Pensions Article.  20 
+ 
+ Occurred: Ch. 556, Acts of 2020.  21 
+ 
+31–305. 22 
+ 
+ (a) As of the effective date of withdrawal of a participating governmental unit, 23 
+the Board of Trustees shall transfer to the administrative board of the local pension system 24 
+or new State system the portion of the assets that are allocable to the withdrawn empl oyees 25 
+as determined under § 21 –305.5, § 21 –305.6, § 21 –306, § 21 –306.1, or [§ 26 –306.2 ] §  26 
+21–306.2  of this article.  27 
+ 
+ DRAFTER’S NOTE:  28 
+ 
+ Error: Erroneous cross –reference in § 31 –305(a) of the State Personnel and Pensions 29 
+ SENATE BILL 784  57 
+ 
+ Article.  1 
+ 
+ Occurred: Ch. 258, Acts of 2006.  2 
+ 
+Article – Tax – General  3 
+ 
+9–305. 4 
+ 
+ (b) (1) IN THIS SUBSECTION , “CONSUMER PRICE INDEX FOR ALL URBAN 5 
+CONSUMERS ” MEANS THE INDEX PUBL ISHED MONTHLY BY THE  BUREAU OF LABOR 6 
+STATISTICS OF THE U.S.  DEPARTMENT OF LABOR THAT IS THE U.S.  CITY AVERAGE 7 
+OF ALL ITEMS IN A BASKET OF  CONSUMER GOODS AND S ERVICES . 8 
+ 
+  (2) The motor fuel tax rates specified in subsection (a)(2), (3), and (5) of this 9 
+section shall be increased on July 1, 2013, and July 1 of each subsequent year in accordance 10 
+with this subsection.  11 
+ 
+  [(2)] (3) On or before June 1 of each year, the Comptroller shall determine 12 
+and announce:  13 
+ 
+   (i) the growth in the Consumer Price Index for [all urban 14 
+consumers ] ALL URBAN CONSUMERS  as determined by the Comptroller under paragraph 15 
+[(3)] (4) of this subsect ion; and  16 
+ 
+   (ii) the motor fuel tax rates effective for the fiscal year beginning on 17 
+the following July 1 as determined by the Comptroller under paragraph [(4)] (5) of this 18 
+subsection.  19 
+ 
+  [(3)] (4) [(i) In this paragraph, “Consumer Price Index for all urban 20 
+consumers” means the index published monthly by the Bureau of Labor Statistics of the 21 
+U.S. Department of Labor that is the U.S. city average of all items in a basket of consumer 22 
+goods and services.  23 
+ 
+   (ii)] The percentage growth in the Consumer Pric e Index for [all 24 
+urban consumers ] ALL URBAN CONSUMERS  shall be determined by comparing the 25 
+average of the index for the 12 months ending on the preceding April 30 to the average of 26 
+the index for the prior 12 months.  27 
+ 
+  [(4)] (5) Subject to paragraph [(5)] (6) of this subsection, on July 1 of each 28 
+year, each motor fuel tax rate specified in subsection (a)(2), (3), and (5) of this section shall 29 
+be increased by the amount, rounded to the nearest one –tenth of a cent, that equals the 30 
+product of multiplying:  31 
+ 
+   (i) the motor fuel tax rate in effect on the date of the Comptroller’s 32 
+announcement under paragraph [(2)] (3) of this subsection; and  33 
+ 
+58 SENATE BILL 784   
+ 
+    (ii) the percentage growth in the Consumer Price Index for [all 1 
+urban consumers ] ALL URBAN CONSUMERS . 2 
+ 
+  [(5)] (6) (i) If there is a decline or no growth in the Consumer Price 3 
+Index for [all urban consumers ] ALL URBAN CONSUMERS , the motor fuel tax rates shall 4 
+remain unchanged.  5 
+ 
+   (ii) Any increase in the motor fuel tax rates under paragraph [(4)] 6 
+(5) of this subsection m ay not be greater than 8% of the motor fuel tax rate effective in the 7 
+previous year.  8 
+ 
+  [(6)] (7) The Comptroller shall require any person possessing tax –paid 9 
+motor fuel for sale at the start of business on the date of an increase in the motor fuel tax 10 
+under this subsection to compile and file an inventory of the motor fuel held at the close of 11 
+business on the immediately preceding date and remit within 30 days any additional motor 12 
+fuel tax that is due on the motor fuel.  13 
+ 
+ DRAFTER’S NOTE:  14 
+ 
+ Error: Stylistic  error and capitalization error in § 9 –305(b) of the Tax – General 15 
+Article.  16 
+ 
+ Occurred: Ch. 429, Acts of 2013.  17 
+ 
+10–709. 18 
+ 
+ (d) Except as provided in subsection (e) of this section, the credit allowed against 19 
+the county income tax under subsection (b)(2) of this section equals the lesser of:  20 
+ 
+  (1) the county income tax determined after subtracting the credit allowed 21 
+under [§ 10–704(c) ] § 10–704( D) of this subtitle; or  22 
+ 
+ DRAFTER’S NOTE:  23 
+ 
+ Error: Erroneous cross –reference in § 10 –709(d)(1) of the Tax – General  Article.  24 
+ 
+ Occurred: As a result of Ch. 40, Acts of 2021, which added a new subsection (a) to § 25 
+10–704 of the Tax – General Article and redesignated the following subsections.  26 
+ 
+Article – Transportation  27 
+ 
+21–104.3.  28 
+ 
+ (f) (2) The Administrator, after consult ation with industry stakeholders, may 29 
+adopt [polices ] POLICIES  outlining what must be included in an emergency response plan.  30 
+ 
+ SENATE BILL 784  59 
+ 
+  DRAFTER’S NOTE:  1 
+ 
+ Error: Misnomer in § 21 –104.3(f)(2) of the Transportation Article.  2 
+ 
+ Occurred: Ch. 351, Acts of 2021.  3 
+ 
+Chapter  761 of the Acts of 2024  4 
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 5 
+October 1, 2024. Section 2 of this Act shall remain effective for a period of 5 years and 7 6 
+months and, at the end of April 30, [2029] 2030 , Section 2 of this Act, with no further action 7 
+required by the General Assembly, shall be abrogated and of no further force and effect.  8 
+ 
+ Error: Incorrect calculation of year in Section 3 of Ch. 761, Acts of 2024.  9 
+ 
+ Occurred: Ch. 761, Acts of 2024.  10 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That the Drafter’s Notes contained 11 
+in this Act are not law and may not be considered to have been enacted as part of this Act.  12 
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That the provisions of this Act are 13 
+intended solely  to correct technical errors in the law and there is no intent to revive or 14 
+otherwise affect law that is the subject of other acts, whether those acts were signed by the 15 
+Governor prior to or after the signing of this Act.  16 
+ 
+ SECTION 4. AND BE IT FURTHER ENA CTED, That the publishers of the 17 
+Annotated Code of Maryland, subject to the approval of the Department of Legislative 18 
+Services, shall make any changes in the text of the Annotated Code necessary to effectuate 19 
+any termination provision that was enacted by t he General Assembly and has taken effect 20 
+or will take effect prior to October 1, 202 5. Any enactment of the 2025 Session of the General 21 
+Assembly that negates or extends the effect of a previously enacted termination provision 22 
+shall prevail over the provisi ons of this section.  23 
+ 
+ SECTION 5. AND BE IT FURTHER ENACTED, That the publishers of the 24 
+Annotated Code of Maryland, in consultation with and subject to the approval of the 25 
+Department of Legislative Services, shall make nonsubstantive corrections to codific ation, 26 
+style, capitalization, punctuation, grammar, spelling, and any reference rendered incorrect 27 
+or obsolete by an Act of the General Assembly, with no further action required by the 28 
+General Assembly. The publishers shall adequately describe any such cor rection in an 29 
+editor’s note following the section affected.  30 
+ 
+ SECTION 6. AND BE IT FURTHER ENACTED, That this Act is an emergency 31 
+measure, is necessary for the immediate preservation of the public health or safety, has 32 
+been passed by a yea and nay vote sup ported by three –fifths of all the members elected to 33 
+each of the two Houses of the General Assembly, and shall take effect from the date it is 34 
+enacted.  35 
+ 

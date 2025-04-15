@@ -1,0 +1,371 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.  
+         Italics indicate opposite chamber/conference committee amendments.             *sb0773*      
+SENATE BILL 773  
+J5   (5lr1848 ) 
+ENROLLED BILL  
+— Finance/Health and Government Operations  — 
+Introduced by Senator Hershey  
+ 
+Read and Examined by Proofreaders:  
+ 
+_______________________________________________  
+Proofreader.  
+_______________________________________________  
+Proofreader.  
+ 
+Sealed with the Great Seal and presented to the Governor, for his approval this  
+  
+_______ day of _______________ at _________________ _______ o’clock, ________M.  
+  
+______________________________________________  
+President .  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Health Benefit Plans – Calculation of Cost Sharing  Cost–Sharing  Contribution – 2 
+Requirements  3 
+ 
+FOR the purpose of requiring certain insurers, nonprofit health service plans, and health 4 
+maintenance organizations to include certain discounts, financial assistance 5 
+payments, product vouchers, and other out –of–pocket expenses made by or on behalf 6 
+of an insured or enrollee when calcu lating certain cost –sharing contributions for 7 
+certain prescription drugs; requiring certain persons that provide certain discounts, 8 
+financial assistance payments, product vouchers, or other out –of–pocket expenses to 9 
+notify an insured or enrollee of certain  information and to provide a certain statement 10 
+to the insured or enrollee; prohibiting certain insurers, nonprofit health service plans, 11 
+and health maintenance organizations from setting, altering, implementing, or 12 
+conditioning the terms of certain covera ge based on the availability or amount of 13 
+financial or product assistance available for a prescription drug; providing that a 14 
+violation of a certain provision of this Act is considered a violation of the Consumer 15 
+2 SENATE BILL 773   
+ 
+ Protection Act;  administrators, carriers, a nd pharmacy benefits managers to include 1 
+certain cost sharing amounts paid by or on behalf of an enrollee or a beneficiary when 2 
+calculating the enrollee’s or beneficiary’s contribution to a cost sharing requirement 3 
+for certain health care services; requiri ng administrators, carriers, and pharmacy 4 
+benefits managers to include certain cost sharing amounts for providing that the 5 
+calculation requirement does not apply to enrollees in  certain high –deductible health 6 
+plans after an enrollee or a beneficiary satisf ies a certain requirement; prohibiting 7 
+administrators, carriers, and pharmacy benefits managers from directly or indirectly 8 
+setting, altering, implementing, or conditioning the terms of certain coverage based 9 
+on certain information; requiring third parties  that pay certain financial assistance 10 
+to provide certain notification to an enrollee and prohibiting the third parties from 11 
+conditioning the assistance on the enrollee taking certain actions;  and generally 12 
+relating to the calculation of cost sharing requi rements.  13 
+ 
+BY adding to  14 
+ Article – Insurance  15 
+Section 15 –118.1 and 15 –1611.3  16 
+ Annotated Code of Maryland  17 
+ (2017 Replacement Volume and 2024 Supplement)  18 
+ 
+Preamble  19 
+ 
+ WHEREAS, Cost sharing assistance is indispensable in helping many patients with 20 
+rare, serio us, and chronic diseases afford out –of–pocket costs for their essential and often 21 
+life–saving medications; and  22 
+ 
+ WHEREAS, Patients need cost sharing assistance because of the high out –of–pocket 23 
+costs for their prescription medications; and  24 
+ 
+ WHEREAS, When patients face unexpected charges during their health benefit plan 25 
+year, they are less likely to adhere to their medication regimen; and  26 
+ 
+ WHEREAS, Lack of patient adherence to needed medications leads to potential 27 
+negative health consequences such as unnecessary emergency room visits, doctors’ visits, 28 
+surgeries, and other interventions; and  29 
+ 
+ WHEREAS, Patients are able to use cost sharing assistance only after they have met 30 
+requirements for coverage for their medication, including the medication’s incl usion on the 31 
+patient’s formulary and utilization management protocols, such as prior authorization and 32 
+step therapy; and  33 
+ 
+ WHEREAS, Health insurers and pharmacy benefits managers have implemented 34 
+programs, such as accumulator adjustment programs, to restri ct cost sharing assistance 35 
+from counting toward a patient’s deductible or annual out –of–pocket limit; and  36 
+ 
+ WHEREAS, Because of accumulator adjustment programs, patients are required to 37 
+continue to make payments even after they have reached their annual ou t–of–pocket limit, 38 
+ SENATE BILL 773  3 
+ 
+ forcing them to pay their full deductible and annual out –of–pocket limit twice and denying 1 
+them the benefit from these programs while increasing the financial burden they bear to 2 
+access their life –saving medication; and  3 
+ 
+ WHEREAS, Patien ts often are not aware of the inclusion of accumulator adjustment 4 
+programs in their health plan contracts and tend to learn about these types of programs 5 
+when they attempt to obtain their medication after their cost sharing assistance has run 6 
+out, whether at the pharmacy, at the infusion center, or at home through the mail; and  7 
+ 
+ WHEREAS, Accumulator adjustment programs allow health insurers and pharmacy 8 
+benefits managers to “double dip” by accepting funds from both the cost sharing assistance 9 
+program and t he patient, beyond the original deductible amount and the annual  10 
+out–of–pocket limit; and  11 
+ 
+ WHEREAS, It is a matter of public interest to require health insurers and pharmacy 12 
+benefits managers to count any amount paid by the patient or on behalf of the pa tient by 13 
+another person toward the patient’s annual out –of–pocket limit and any cost sharing 14 
+requirement, such as deductibles; now, therefore,  15 
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 16 
+That the Laws of Maryland read as follows:  17 
+ 
+Artic le – Insurance  18 
+ 
+15–118.1.  19 
+ 
+ (A) (1) THIS SECTION APPLIES TO: 20 
+ 
+   (I) INSURERS AND NONPROF IT HEALTH SERVICE PL ANS THAT 21 
+PROVIDE HOSPITAL , MEDICAL , OR SURGICAL BENEFITS  TO INDIVIDUALS OR GR OUPS  22 
+ON AN EXPENSE –INCURRED BASIS UNDER  HEALTH INSURANCE POL ICIES OR 23 
+CONTRACTS THAT ARE I SSUED OR DELIVERED I N THE STATE ; AND  24 
+ 
+   (II) HEALTH MAINTENANCE O RGANIZATIONS THAT PR OVIDE 25 
+HOSPITAL , MEDICAL , OR SURGICAL BENEFITS  TO INDIVIDUALS OR GR OUPS UNDER 26 
+CONTRACTS THAT ARE I SSUED OR DELIVERED I N THE STATE . 27 
+ 
+  (2) AN INSURER , A NONPROFIT HEALTH S ERVICE PLAN , OR A HEALTH 28 
+MAINTENANCE ORGANIZA TION THAT PROVIDES C OVERAGE FOR PRESCRIP TION 29 
+DRUGS THROUGH A PHAR MACY BENEFITS MANAGE R IS SUBJECT TO THE 30 
+REQUIREMENTS OF THIS  SECTION . 31 
+ 
+ (B) (1) SUBJECT TO PARAGRAPH (2) OF THIS S UBSECTION , WHEN 32 
+CALCULATING AN INSUR ED’S OR ENROLLEE ’S CONTRIBUTION TO TH E INSURED ’S OR 33 
+ENROLLEE ’S COINSURANCE , COPAYMENT , DEDUCTIBLE , OR OUT –OF–POCKET 34 
+4 SENATE BILL 773   
+ 
+ MAXIMUM UNDER THE IN SURED’S OR ENROLLEE ’S HEALTH BENEFIT PLA N, AN 1 
+ENTITY SUBJECT TO TH IS SECTION SHALL I NCLUDE ANY DISCOUNT , FINANCIAL 2 
+ASSISTANCE PAYMENT , PRODUCT VOUCHER , OR OTHER OUT –OF–POCKET EXPENSE 3 
+MADE BY OR ON BEHALF  OF THE INSURED OR EN ROLLEE FOR A PRESCRI PTION DRUG : 4 
+ 
+   (I) THAT IS COVERED UNDE R THE INSURED ’S OR ENROLLEE ’S 5 
+HEALTH BENEFIT PLAN ; AND  6 
+ 
+   (II) 1. THAT DOES NOT HAVE A N AB–RATED GENERIC 7 
+EQUIVALENT DRUG OR A N INTERCHANGEABLE BI OLOGICAL PRODUCT PRE FERRED 8 
+UNDER THE HEALTH BEN EFIT PLAN ’S FORMULARY ; OR 9 
+ 
+    2. A. THAT HAS AN AB–RATED GENERIC EQUIVA LENT 10 
+DRUG OR AN INTERCHAN GEABLE BIOLOGICAL PR ODUCT PREFERRED UNDER THE 11 
+HEALTH BENEFIT PLAN ’S FORMULARY ; AND  12 
+ 
+    B. FOR WHICH THE INSURE D OR ENROLLEE ORIGIN ALLY 13 
+OBTAINED COVERAGE TH ROUGH PRIOR AUTHORIZ ATION , A STEP THERAPY 14 
+PROTOCOL , OR THE EXCEPTION OR APPEAL PROCESS OF TH E ENTITY SUBJECT TO 15 
+THIS SECTION . 16 
+ 
+  (2) IF AN INSURED OR ENRO LLEE IS COVERED UNDE R A  17 
+HIGH–DEDUCTIBLE HEALTH PL AN, AS DEFINED IN 26 U.S.C.  § 223,  THIS 18 
+SUBSECTION DOES NOT APPLY TO THE DEDUCTI BLE REQUIREMENT OF T HE  19 
+HIGH–DEDUCTIBLE HEALTH PL AN. 20 
+ 
+ (C) (1) EXCEPT AS PROVIDED IN  PARA GRAPH (3) OF THIS SUBSECTION , A 21 
+PERSON THAT PROVIDES  A DISCOUNT , FINANCIAL ASSISTANCE  PAYMENT , PRODUCT 22 
+VOUCHER , OR OTHER OUT –OF–POCKET EXPENSE MADE BY OR  ON BEHALF OF THE 23 
+INSURED OR ENROLLEE THAT IS USED IN THE CALCULATION OF THE I NSURED ’S OR 24 
+ENROLLEE ’S CO NTRIBUTION TO THE IN SURED’S OR ENROLLEE ’S COINSURANCE , 25 
+COPAYMENT , DEDUCTIBLE , OR OUT–OF–POCKET MAXIMUM SHALL , WITHIN 7 DAYS 26 
+AFTER THE ACCEPTANCE  OF THE DISCOUNT , FINANCIAL ASSISTANCE  PAYMENT , 27 
+PRODUCT VOUCHER , OR OTHER  OUT–OF–POCKET EXPENSE , NOTIFY THE INSU RED 28 
+OR ENROLLEE OF : 29 
+ 
+   (I) THE MAXIMUM DOLLAR A MOUNT OF THE DISCOUN T, 30 
+FINANCIAL ASSISTANCE  PAYMENT , PRODUCT VOUCHER , OR OTHER OUT –OF–POCKET 31 
+EXPENSE ; AND  32 
+ 
+   (II) THE EXPIRATION DATE FOR THE DISCOUNT , FINANCIAL 33 
+ASSISTANCE PAYMENT , PRODUCT VOUCHER , OR OTHER  OUT–OF–POCKET EXPENSE . 34 
+ 
+ SENATE BILL 773  5 
+ 
+   (2) A VIOLATION OF PARAGRA PH (1) OF THIS SUBSECTION I S A 1 
+VIOLATION OF THE CONSUMER PROTECTION ACT. 2 
+ 
+  (3) THIS SUBSECTION DOES NOT APPLY TO A CHARI TABLE 3 
+ORGANIZATION THAT PR OVIDES A DISCOUNT , FINANCIAL ASSISTANCE  PAYMENT , 4 
+PRODUCT  VOUCHER , OR OTHER OUT –OF–POCKET EXPENSE TO AN  INSURED OR 5 
+ENROLLEE . 6 
+ 
+ (D) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , AN ENTITY 7 
+SUBJECT TO THIS SECT ION MAY NOT DIRECTLY  OR INDIRECTLY SET , ALTER , 8 
+IMPLEMENT , OR CONDITION THE TER MS OF HEALTH BENEFIT  PLAN  COVERAGE , 9 
+INCLUDING THE BENEFI T DESIGN , BASED IN WHOLE OR IN  PART ON INFORMATION 10 
+ABOUT THE AVAILABILI TY OR AMOUNT OF FINA NCIAL OR PRODUCT ASS ISTANCE 11 
+AVAILABLE FOR A PRES CRIPTION DRUG . 12 
+ 
+  (2) PARAGRAPH (1) OF THIS SUBSECTION M AY NOT BE CONSTRUED TO 13 
+PROHIBIT AN ENTITY S UBJECT TO THIS SECTI ON FROM USING REBATE S IN THE 14 
+DESIGN OF PRESCRIPTI ON DRUG COVERAGE OR BENEFITS .  15 
+ 
+ (A) (1) IN THIS SECTION THE F OLLOWING WORDS HAVE THE MEANINGS  16 
+INDICATED . 17 
+ 
+  (2) “ADMINISTRATOR ” HAS THE MEANING STAT ED IN § 8–301 OF T HIS 18 
+ARTICLE . 19 
+ 
+  (3) (I) “CARRIER” MEANS AN ENTITY SUBJ ECT TO THE  20 
+JURISDICTION OF THE COMMISSIONER THAT CON TRACTS OR OFFERS TO CONTRACT  21 
+TO PROVIDE , DELIVER , ARRANGE FOR , PAY FOR , OR REIMBURSE ANY OF THE COSTS  22 
+OF HEALTH CARE SERVI CES UNDER A HEALTH B ENEFIT PLAN IN THE STATE : 23 
+ 
+   (I) AN INSURER ; 24 
+ 
+   (II) A NONPROFIT HEALTH S ERVICE PLAN ; 25 
+ 
+   (III) A HEALTH MAINTENANCE  ORGANIZATION ; AND  26 
+ 
+   (IV) ANY OTHER PERSON THA T PROVIDES HEALTH BE NEFIT 27 
+PLANS SUBJECT TO REG ULATION BY THE STATE . 28 
+ 
+   (II) “CARRIER” INCLUDES : 29 
+ 
+    1. A HEALTH INSURANCE C OMPANY ; 30 
+ 
+6 SENATE BILL 773   
+ 
+     2. A NONPROFIT HOSPITAL  AND MEDICAL SERVICE  1 
+CORPORATION ; AND  2 
+ 
+    3. A MANAGED CARE ORGAN IZATION . 3 
+ 
+  (4) “COST SHARING ” MEANS ANY COPAYMENT , COINSURANCE , 4 
+DEDUCTIBLE , OR OTHER SIMILAR CHA RGE REQUIRED OF AN E NROLLEE FOR A  5 
+HEALTH CARE SERVICE COVERED BY A HEALTH BENEFIT PLAN , INCLUDING A  6 
+PRESCRIPTION DRUG , AND PAID BY OR ON BE HALF OF THE ENROLLEE . 7 
+ 
+  (5) “ENROLLEE ” MEANS AN INDIVIDUAL ENTITLED TO PAYMENT FOR 8 
+HEALTH CARE SERVICES  FROM AN ADMINISTRATO R OR A CARRIER . 9 
+ 
+  (6) (I) “HEALTH BENEFIT PLAN ” MEANS A POLICY , A CONTRACT , A 10 
+CERTIFICATION , OR AN AGREEMENT OFFE RED OR ISSUED BY AN ADMINISTRATOR  11 
+OR A CARRIER TO PROV IDE, DELIVER , ARRANGE FOR , PAY FOR , OR REIMBURSE ANY  12 
+OF THE COSTS OF HEAL TH CARE SERVICES . 13 
+ 
+   (II) “HEALTH BENEFIT PLAN ” DOES NOT INCLUDE A  14 
+SELF–INSURED EMPLOYEE PLA N SUBJECT TO THE FED ERAL EMPLOYEE  15 
+RETIREMENT INCOME ACT OF 1974  (ERISA).  16 
+ 
+  (7) “HEALTH CARE SERVICE ” MEANS AN ITEM OR A S ERVICE  17 
+PROVIDED TO AN INDIV IDUAL FOR THE PURPOS E OF PREVENTING , ALL EVIATING , 18 
+CURING , OR HEALING HUMAN ILL NESS , INJURY , OR PHYSICAL DISABILI TY. 19 
+ 
+ (B) THE ANNUAL LIMITATION  ON COST SHARING PROV IDED FOR UNDER 42 20 
+U.S.C.  § 18022( C)(1) SHALL APPLY TO ALL H EALTH CARE SERVICES COVERED  21 
+UNDER A HEALTH BENEF IT PLAN OFFERED OR I SSUED  BY AN ADMINISTRATOR OR A  22 
+CARRIER IN THE STATE .  23 
+ 
+ (C) (1) SUBJECT TO PARAGRAPHS  (2) AND (3) PARAGRAPH (2) OF THIS  24 
+SUBSECTION , WHEN CALCULATING AN ENROLLEE ’S CONTRIBUTION TO AN  25 
+APPLICABLE COST SHAR ING REQUIREMENT , AN ADMINISTRATOR OR A CARRIER  26 
+SHALL INCLUDE COST  SHARING AMOUNTS PAID  BY THE ENROLLEE OR O N BEHALF  27 
+OF THE ENROLLEE BY A NOTHER PERSON .  28 
+ 
+  (2) IF THE APPLICATION OF  THE THE REQUIREMENT UNDER  29 
+PARAGRAPH (1) OF THIS SUBSECTION W OULD RESULT IN HEALT H SAVINGS 30 
+ACCOUNT  INELIGIBILITY UNDER § 223 OF T HE INTERNAL REVENUE CODE, THE 31 
+REQUIREMENT  SHALL APPLY TO HEALT H SAVINGS ACCOUNT –QUALIFIED  32 
+HIGH–DEDUCTIBLE  HEALTH PLANS WITH RE SPECT TO THE DEDUCTI BLE OF THE 33 
+PLAN AFTER THE  ENROLLEE SATISFIES T HE MINIMUM DEDUCTIBL E UNDER § 223 OF 34 
+THE INTERNAL  REVENUE CODE DOES NOT APPLY WITH RESPECT TO THE 35 
+ SENATE BILL 773  7 
+ 
+ DEDUCTIBLE REQUIREME NT OF A HIGH –DEDUCTIBLE HEALTH PL AN IF AN 1 
+ENROLLEE IS COVERED UNDER A HIGH –DEDUCTIBLE HEALTH PL AN UNDER 26 2 
+U.S.C.  § 223.  3 
+ 
+  (3) FOR ITEMS OR SERVICES  THAT ARE PREVENTIVE CARE IN  4 
+ACCORDANCE WITH § 223( C)(2)(C)  OF THE INTERNAL REVENUE CODE, THE 5 
+REQUIREMENTS OF THIS  SUBSECTION SHALL APP LY REGARDLESS OF WHE THER THE  6 
+ENROLLEE SATISFIES T HE MINIMUM DEDUCTIBL E UNDER § 223 OF THE INTERNAL  7 
+REVENUE CODE. 8 
+ 
+ (D) AN ADMINISTRATOR OR A  CARRIER MAY NOT DIRE CTLY OR IND IRECTLY  9 
+SET, ALTER , IMPLEMENT , OR CONDITION THE TER MS OF HEALTH BENEFIT  PLAN  10 
+COVERAGE , INCLUDING THE BENEFI T DESIGN , BASED IN WHOLE OR IN  PART ON  11 
+INFORMATION ABOUT TH E AVAILABILITY OR AM OUNT OF FINANCIAL OR  PRODUCT  12 
+ASSISTANCE AVAILABLE  FOR A PRESCRIPTION D RUG OR BIOLOGICAL PR ODUCT . 13 
+ 
+ (E) A THIRD PARTY THAT PAY S FINANCIAL ASSISTAN CE IN ANY AMOUNT , OR 14 
+PORTION OF THE AMOUN T, OF ANY APPLICABLE CO ST–SHARING OR OTHER  15 
+OUT–OF–POCKET EXPENSE ON BE HALF OF AN ENROLLEE FOR A COVERED 16 
+PRESCRIPTION DRUG : 17 
+ 
+  (1) SHALL NOTIFY THE ENROLLEE WITHIN 7 DAYS OF THE 18 
+ACCEPTANCE OF THE FI NANCIAL ASSISTANCE O F THE TOTAL AMOUNT O F 19 
+ASSISTANCE AVAILABLE  AND THE DURATION FOR  WHICH IT IS AVAILABL E; AND  20 
+ 
+  (2) MAY NOT CONDITION TH E ASSISTANCE ON ENRO LLMENT IN A 21 
+SPECIFIC HEALTH PLAN  OR T YPE OF HEALTH PLAN , EXCEPT AS AUTHORIZED  UNDER 22 
+FEDERAL LAW .  23 
+ 
+ (E) (F) THE COMMISSIONER MAY ADOP T REGULATIONS TO CAR RY OUT  24 
+THIS SECTION . 25 
+ 
+15–1611.3.  26 
+ 
+ (A) THIS SECTION APPLIES ONLY TO A PHARMACY B ENEFITS MANAGER  27 
+THAT PROVIDES PHARMA CY BENEFITS MANAGEME NT SERVICES ON BEHALF O F A 28 
+CARRIER . 29 
+ 
+ (B) (1) SUBJECT TO PARAGRAPHS  (2) AND (3) PARAGRAPH (2) OF THIS  30 
+SUBSECTION , WHEN CALCULATING A B ENEFICIARY ’S CONTRIBUTION TO AN  31 
+APPLICABLE COST SHAR ING REQUIREMENT , A PHARMACY BENEFITS MANAGER  32 
+SHALL INCLUDE COST S HARING A MOUNTS PAID BY THE B ENEFICIARY OR ON BEH ALF 33 
+OF THE BENEFICIARY B Y ANOTHER PERSON .  34 
+ 
+8 SENATE BILL 773   
+ 
+   (2) IF THE APPLICATION OF  THE THE REQUIREMENT UNDER  1 
+PARAGRAPH (1) OF THIS SUBSECTION W OULD RESULT IN HEALT H SAVINGS 2 
+ACCOUNT  INELIGIBILITY UNDER § 223 OF THE INTERNAL REVENUE CODE, THE 3 
+REQUIREMENT  SHALL APPLY TO HEALT H SAVINGS ACCOUNT –QUALIFIED  4 
+HIGH–DEDUCTIBLE  HEALTH PLANS WITH RE SPECT TO THE DEDUCTI BLE OF THE 5 
+PLAN AFTER THE  BENEFICIARY SATISFIE S THE MINIMUM DEDUCT IBLE UNDER § 223 6 
+OF THE  INTERNAL REVENUE CODE DOES NOT APPLY WITH RESPECT T O THE 7 
+DEDUCTIBLE REQUIREME NT OF A HIGH –DEDUCTIBLE HEALTH PL AN IF AN 8 
+ENROLLEE IS COVERED UNDER A HIGH –DEDUCTIBLE HEALTH PL AN UNDER 26 9 
+U.S.C.  § 223.  10 
+ 
+  (3) FOR ITEMS OR SERVICES  THAT ARE PREVENTIVE CARE IN  11 
+ACCORDANCE WITH § 223( C)(2)(C)  OF THE INTERNAL REVENUE CODE, THE 12 
+REQUIREMENTS OF THIS  SUBSECTION SHALL APP LY REGARDLESS OF WHE THER THE  13 
+BENEFICIARY SATISFIE S THE MINIMUM DEDUCT IBLE UNDER § 223 OF THE  14 
+INTERNAL REVENUE CODE. 15 
+ 
+ (C) A PHARMACY BENEFITS MA NAGER MAY NOT DIRECT LY OR INDIRECTLY  16 
+SET, ALTER , IMPLEMENT , OR CONDITION THE TER MS OF HEALTH BENEFIT  PLAN  17 
+COVERAGE , INCLUDING THE BENEFI T DESIGN , BASED IN WHOLE OR IN  PART ON  18 
+INFORMATION ABOUT TH E AVAILABILITY OR AM OUNT OF FINANCIAL OR  PRODUCT  19 
+ASSISTANCE AVAILABLE  FOR A PRESCRIPTION D RUG OR B IOLOGICAL PRODUCT . 20 
+ 
+ (D) A THIRD PARTY THAT PAY S FINANCIAL ASSISTAN CE IN ANY AMOUNT , OR 21 
+PORTION OF THE AMOUN T, OF ANY APPLICABLE CO ST–SHARING OR OTHER  22 
+OUT–OF–POCKET EXPENSE ON BE HALF OF AN ENROLLEE FOR A COVERED 23 
+PRESCRIPTION DRUG : 24 
+ 
+  (1) SHALL NOTIFY THE ENROLLEE WITHIN 7 DAYS OF THE 25 
+ACCEPTANCE OF THE FI NANCIAL ASSISTANCE O F THE TOTAL AMOUNT O F 26 
+ASSISTANCE AVAILABLE  AND THE DURATION FOR  WHICH IT IS AVAILABL E; AND  27 
+ 
+  (2) MAY NOT CONDITION TH E ASSISTANCE ON ENRO LLMENT IN A 28 
+SPECIFIC HEALTH PLAN  OR TYPE OF HEAL TH PLAN , EXCEPT AS AUTHORIZED  UNDER 29 
+FEDERAL LAW .  30 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall apply to all 31 
+policies, contracts, and health benefit plans issued, delivered, or renewed in the State on or 32 
+after January 1, 2026.  33 
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 34 
+January 1, 2026. It shall remain effective for a period of 3 years and 6 months and, at the 35 
+end of July 1, 2029, this Act, with no further action required by the General Assembly, shall 36 
+be abrogated and of no further force and effect.   37 

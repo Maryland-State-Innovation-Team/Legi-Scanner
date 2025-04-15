@@ -1,0 +1,2011 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.             *sb0250*      
+SENATE BILL 250  
+M3   5lr0299  
+HB 245/24 – ENT  (PRE –FILED)  CF 5lr0300  
+By: Chair, Education, Energy, and the Environment Committee (By Request – 
+Departmental – Environment)  
+Requested: October 12, 2024  
+Introduced and read first time: January 8, 2025  
+Assigned to: Education, Energy, and the Environment  
+Committee Report: Favorable with amendments  
+Senate action: Adopted with floor amendments  
+Read second time: February 28, 2025  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Department of the Environment – Fees, Penalties, Funding, and Regulation  2 
+ 
+FOR the purpose of altering the authorized uses of the Maryland Clean Air Fund to include 3 
+certain activities relating to mitigating and  reducing air pollution in the State; 4 
+specifying that money deposited into the Maryland Clean Air Fund may not revert 5 
+to the General Fund of the State; altering the maximum amount of a certain air 6 
+quality control permit fee; authorizing the D epartment of the Environment to charge 7 
+a fee for processing and issuing on –site sewage disposal permits and individual well 8 
+construction permits under certain circumstances and requiring the Department to 9 
+establish the fees by regulation; authorizing the D epartment to establish a certain 10 
+fee for the Responsible Personnel Training Program Certification; requiring the 11 
+Department to deposit certain fees into the Maryland Clean Water Fund  altering the 12 
+recipients of a certain reporting requirement ; requiring a h older of a license to 13 
+transfer oil into the State to pay a certain fee when oil owned by the licensee is first 14 
+transferred into the State; altering the basis for calculating a certain fee credited to 15 
+the Maryland Oil Disaster Containment, Clean –Up and Cont ingency Fund; 16 
+repealing the requirement that an applicant for a license to transfer oil into the State 17 
+provide certain information to the Department as a condition precedent to the 18 
+issuance or renewal of the license; altering certain application fees under  the 19 
+wetlands and waterways program and requiring the Department to issue a public 20 
+notice of certain adjusted fees in a certain manner;  establishing the Private Dam 21 
+Repair Fund as a special, nonlapsing fund to provide financial assistance for the 22 
+repair, u pgrade, or removal of private dams; authorizing the Department to provide 23 
+2 SENATE BILL 250   
+ 
+ loans from the Private Dam Repair Fund to certain dam owners for certain purposes; 1 
+requiring the Maryland Water Infrastructure Financing Administration to 2 
+administer loans from the P rivate Dam Repair Fund in a certain manner; requiring 3 
+interest earnings of the Private Dam Repair Fund to be credited to the Fund; 4 
+requiring certain dam owners to register with the Department; requiring the 5 
+Department to establish and collect certain regis tration fees, subject to a certain 6 
+waiver,  and permit fees and deposit the fees into the Private Dam Repair Fund; 7 
+altering certain penalties and requiring penalties for certain dam safety violations 8 
+to be deposited into the Private Dam Repair Fund; alterin g certain dam safety 9 
+requirements; altering the fee required to be paid to the Department for certain 10 
+affected property under certain provisions of law requiring the reduction of lead risk 11 
+in housing; altering the processing fee required to be submitted to  the Department 12 
+with a report that a rental dwelling unit is lead free; authorizing the Department to 13 
+establish a protocol to stagger registrations of affected property for certain purposes; 14 
+altering the fee for the initial application to the Voluntary Cle anup Program; 15 
+requiring an applicant to or a participant of the Voluntary Cleanup Program to pay 16 
+to the Department certain additional costs under certain circumstances;  altering the 17 
+factors that the Department is required to consider in establishing a cert ain fee to 18 
+be paid by a certain generator of coal combustion by –products; altering certain 19 
+surface mining license and permit fees;  and generally relating to fees and penalties 20 
+assessed, funding provided, and regulation by the Department of the Environment.  21 
+ 
+BY repealing and reenacting, with amendments,  22 
+ Article – Environment  23 
+Section 1 –301, 2 –107, 2 –403, 4–104, 4–411(a), (b), (c)(2), (3), and (7), and (h), 5–203.1, 24 
+and 5–514 5–509, 5 –514, 6 –843, and 7 –506(a)  25 
+ Annotated Code of Maryland  26 
+ (2013 Replacement V olume and 2024 Supplement)  27 
+ 
+BY repealing and reenacting, without amendments,  28 
+ Article – Environment  29 
+ Section 4 –411(d)  30 
+ Annotated Code of Maryland  31 
+ (2013 Replacement Volume and 2024 Supplement)  32 
+ 
+BY adding to  33 
+ Article – Environment  34 
+ Section 5 –203.2, 5 –509.1, and 5 –509.2  35 
+ Annotated Code of Maryland  36 
+ (2013 Replacement Volume and 2024 Supplement)  37 
+ 
+BY repealing and reenacting, without amendments,  38 
+ Article – Environment  39 
+ Section 7 –503 and 7 –506(b)  40 
+ Annotated Code of Maryland  41 
+ (2013 Replac ement Volume and 2024 Supplement)  42 
+ 
+ SENATE BILL 250  3 
+ 
+ BY repealing and reenacting, with amendments,  1 
+ Article – Environment  2 
+ Section 9 –283, 9 –320(b), and 9–1606 , 15–807, 15 –815, and 15 –816 3 
+ Annotated Code of Maryland  4 
+ (2014 Replacement Volume and 2024 Supplement)  5 
+ 
+BY repealing and reenacting, without amendments,  6 
+ Article – State Finance and Procurement  7 
+ Section 6 –226(a)(1) and (2)(i)  8 
+ Annotated Code of Maryland  9 
+ (2021 Replacement Volume and 2024 Supplement)  10 
+ 
+BY repealing and reenacting, with amendments,  11 
+ Article – State Finance and Procurement  12 
+ Section 6 –226(a)(2)(ii)204. and 205.  13 
+ Annotated Code of Maryland  14 
+ (2021 Replacement Volume and 2024 Supplement)  15 
+ 
+BY adding to  16 
+ Article – State Finance and Procurement  17 
+ Section 6 –226(a)(2)(ii)206.  18 
+ Annotated Code of Maryland  19 
+ (2021 Replacement Volume and 2024 Supplement)  20 
+ 
+BY renumbering  21 
+ Article – Environment  22 
+Section 4 –411(e) through (g)  23 
+to be Section 4 –411(d) through (f), respectively  24 
+ Annotated Code of Maryland  25 
+ (2013 Replacement Volume and 2024 Supplement)  26 
+ 
+ SECTION 1. BE IT  ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 27 
+That the Laws of Maryland read as follows:  28 
+ 
+Article – Environment  29 
+ 
+2–107. 30 
+ 
+ (a) There is a Maryland Clean Air Fund.  31 
+ 
+ (b) Except as provided in § 2 –1002(g) of this title, all application fees, permit fees, 32 
+renewal fees, and funds collected by the Department under this title, Title 6, Subtitle 4 of 33 
+this article, or received from the Maryland Strategic Energy Investment Fund un der §  34 
+9–20B–05(g)(3)(iii) of the State Government Article, including any civil or administrative 35 
+penalty or any fine imposed by a court under these provisions, shall be paid into the 36 
+Maryland Clean Air Fund.  37 
+ 
+4 SENATE BILL 250   
+ 
+  (c) (1) Subject to the appropriation process in the annual operating budget, 1 
+the Department shall use the Maryland Clean Air Fund for:  2 
+ 
+   (i) Activities conducted under this title that are related to 3 
+identifying, MITIGATING , monitoring, REDUCING , and regulating air pollution in [this] 4 
+THE State, inc luding program development of these activities as provided in the State 5 
+budget; and  6 
+ 
+   (ii) Providing grants to local governments to supplement funding for 7 
+programs conducted by local governments that are consistent with this title and the State 8 
+program.  9 
+ 
+  (2) Subject to Title 10, Subtitle 1 of the State Government Article 10 
+(Administrative Procedure Act – Regulations), the Department shall adopt rules and 11 
+regulations for the management and use of the money in the Fund.  12 
+ 
+  (3) At the end of the fiscal year,  the Department shall:  13 
+ 
+   (i) Prepare an annual report on:  14 
+ 
+    1. The Maryland Clean Air Fund that includes an accounting 15 
+of all financial receipts and expenditures to and from the Fund; and  16 
+ 
+    2. Any relevant information regarding the federal approval  17 
+process, the effectiveness of the permitting program, and any other issues related to the 18 
+operation of the permitting program established under § 2 –401 of this title;  19 
+ 
+   (ii) Provide a copy of the report to the General Assembly, as provided 20 
+under § 2 –1257 of the State Government Article; and  21 
+ 
+   (iii) Upon request, make the report available to permit holders under 22 
+this title.  23 
+ 
+  (4) [When the Fund equals or exceeds a maximum limit of $2,000,000, 24 
+additional money received for the Fund by the Department sha ll be deposited to the 25 
+General Fund ] MONEY DEPOSITED INTO THE FUND IS NOT SUBJECT T O § 7–302 OF 26 
+THE STATE FINANCE AND PROCUREMENT ARTICLE AND MAY NOT R EVERT TO THE 27 
+GENERAL FUND OF THE STATE . 28 
+ 
+2–403. 29 
+ 
+ (a) (1) The Department, by regulation, shall require an d collect a fee for each 30 
+permit issued under § 2 –401 of this subtitle.  31 
+ 
+  (2) In adopting the regulations under this section, the Department shall 32 
+consult with industry to determine that the permit fee is reasonable and directly related to 33 
+ SENATE BILL 250  5 
+ 
+ the actual cost of the permitting and regulatory activity, and does not exceed a certain 1 
+dollar amount.  2 
+ 
+ (b) (1) The amount of the fees shall cover:  3 
+ 
+   (i) The reasonable cost of reviewing and acting on the application 4 
+for the permits;  5 
+ 
+   (ii) The reasonable costs incu rred in implementing and enforcing the 6 
+terms and conditions of the permits, exclusive of any court costs or other costs associated 7 
+with any enforcement actions; and  8 
+ 
+   (iii) The costs identified in § 502(b)(3) of the Clean Air Act 9 
+Amendments of 1990.  10 
+ 
+  (2) Fees assessed and collected under this section shall be used exclusively 11 
+for the development and administration of the permit program under this subtitle.  12 
+ 
+ (c) (1) The fee established under this section may not exceed [: 13 
+ 
+   (i) $50] $200  per ton of reg ulated emissions [; and  14 
+ 
+   (ii) $500,000 for any single source in calendar years 2008 and 2009 ]. 15 
+ 
+  (2) For purposes of calculating fees under this section, carbon dioxide 16 
+emissions shall be excluded.  17 
+ 
+  (3) The fee established under this section may be adjusted to reflect 18 
+changes in the Consumer Price Index [, as authorized by 40 C.F.R. Part 70 (Operating 19 
+Permit Program) ]. 20 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 21 
+as follows:  22 
+ 
+Article – Environment  23 
+ 
+1–301. 24 
+ 
+ (a) The Secretary shall carry out and enforce the provisions of this article and the 25 
+rules and regulations adopted under this article.  26 
+ 
+ (b) The Secretary may delegate duties, powers, and functions as provided in this 27 
+article to a health officer for a county or to another c ounty official authorized to administer 28 
+and enforce environmental laws.  29 
+ 
+ (c) In those counties where a county official other than the health officer is 30 
+authorized to administer and enforce State environmental laws under this section, the 31 
+6 SENATE BILL 250   
+ 
+ county shall esta blish minimum qualifications for that county official that include 1 
+standards of education and experience related to environmental issues.  2 
+ 
+ (D) (1) THE IF THE DEPARTMENT PROCESSES AND ISSUES ON –SITE 3 
+SEWAGE DISPOSAL PERM ITS OR INDIVIDUAL WE LL CONSTRUCTION P ERMITS , THE  4 
+DEPARTMENT MAY CHARGE  A FEE FOR PROCESSING  AND ISSUING ON–SITE SEWAGE 5 
+DISPOSAL PERMITS AND  INDIVIDUAL WELL CONS TRUCTION  THE  PERMITS IN A 6 
+COUNTY IF: 7 
+ 
+   (I) 1. THE DEPARTMENT WITHDRAWS THE AUTHORITY 8 
+DELEGATED UNDER THIS  SECTION TO PROCESS A ND ISSUE ON –SITE SEWAGE 9 
+DISPOSAL PERMITS OR INDIVIDUAL WELL CONS TRUCTION PERMITS FRO M A HEALTH 10 
+OFFICER FOR THE COUN TY OR ANOTHER COUNTY  OFFICIAL AUTHORIZED TO 11 
+ADMINISTER AND ENFOR CE ENVIRONMENTAL LAW S; OR 12 
+ 
+    2. THE HEALTH OFFICER OR  COUNTY OFFICIAL 13 
+RETURNS THE DELEGATED AUTHOR ITY TO THE DEPARTMENT ; AND 14 
+ 
+   (II) A A LICENSED ENVIRONMENT AL HEALTH SPECIALIST  15 
+REVIEWS AND APPROVES  THE PERMITS . 16 
+ 
+  (2) (I) THE FEES : 17 
+ 
+    1. SHALL BE ESTABLISHED BY THE DEPARTMENT IN 18 
+REGULATION ; AND 19 
+ 
+    2. EXCEPT AS PROVIDED IN  SUBPARAGRAPH (II) OF THIS 20 
+PARAGRAPH , MAY NOT EXCEED $575.  21 
+ 
+   (II) 1. SUBJECT TO SUBSUBPARA GRAPH 2 OF THIS 22 
+SUBPARAGRAPH , THE DEPARTMENT MAY ANNUAL LY INCREASE THE FEES  UNDER 23 
+SUBPARAGRAPH (I) OF THIS PARAGRAPH IN  ACCORDANCE WITH THE PERCENTAGE 24 
+INCREASE IN TH E CONSUMER PRICE INDEX FOR ALL URBAN CONSUMERS FOR THE 25 
+WASHINGTON METROPOLITAN AREA DURING THE PREVI OUS YEAR . 26 
+ 
+    2. THE DEPARTMENT MAY NOT AN NUALLY INCREASE 27 
+THE FEES UNDER THIS SUBSECTION BY MORE T HAN 3%. 28 
+ 
+  (3) THE FEES COLLECTED BY  THE DEPARTMENT UNDER  THIS 29 
+SUBSECTION SHALL BE DEPOSITED INTO THE MARYLAND CLEAN WATER FUND IN § 30 
+9–320 OF THIS ARTICLE . 31 
+ 
+ [(d)] (E) (1) (i) On or before October 1 of each year, the Secretary, in 32 
+consultation with the Attorney General, shall submit to the Legislative Policy Com mittee , 33 
+ SENATE BILL 250  7 
+ 
+ THE SENATE COMMITTEE ON EDUCATION , ENERGY , AND THE ENVIRONMENT , THE 1 
+SENATE BUDGET AND TAXATION COMMITTEE , THE HOUSE ENVIRONMENT AND 2 
+TRANSPORTATION COMMITTEE , AND THE HOUSE APPROPRIATIONS COMMITTEE , in 3 
+accordance with § 2 –1257 of the State Governmen t Article, a report on enforcement 4 
+activities conducted by the Department during the previous fiscal year.  5 
+ 
+   (ii) The report shall:  6 
+ 
+    1. Include the information required under this subsection 7 
+and any additional information concerning environmental enf orcement that the Secretary 8 
+decides to provide;  9 
+ 
+    2. Be available to the public as soon as it is forwarded to the 10 
+Legislative Policy Committee;  11 
+ 
+    3. Include information on the total number of permits and 12 
+licenses issued by or filed with the Departmen t at any time and still in effect as of the last 13 
+date of the fiscal year immediately preceding the date on which the report is filed;  14 
+ 
+    4. Include information concerning specific enforcement 15 
+actions taken with respect to the permits and licenses during the immediately preceding 16 
+fiscal year; and  17 
+ 
+    5. Include information on the type and number of contacts or 18 
+consultations with businesses concerning compliance with State environmental laws.  19 
+ 
+   (iii) The information required in the report under paragraph  (3) of 20 
+this subsection shall be organized according to each program specified.  21 
+ 
+  (2) The report shall state the total amount of money as a result of 22 
+enforcement actions, as of the end of the immediately preceding fiscal year:  23 
+ 
+   (i) Deposited in the Mar yland Clean Air Fund;  24 
+ 
+   (ii) Deposited in the Maryland Oil Disaster Containment, Clean –Up 25 
+and Contingency Fund;  26 
+ 
+   (iii) Deposited in the Nontidal Wetland Compensation Fund;  27 
+ 
+   (iv) Deposited in the Maryland Hazardous Substance Control Fund;  28 
+ 
+   (v) Recovered by the Department from responsible parties in 29 
+accordance with § 7 –221 of this article; and  30 
+ 
+   (vi) Deposited in the Maryland Clean Water Fund.  31 
+ 
+8 SENATE BILL 250   
+ 
+   (3) (i) The report shall include the information specified in 1 
+subparagraphs (ii), (iii), (iv), and (v) of this paragraph for each of the following programs in 2 
+the Department:  3 
+ 
+    1. Ambient air quality control under Title 2, Subtitle 4 of this 4 
+article;  5 
+ 
+    2. Oil pollution under Title 4, Subtitle 4 of this article;  6 
+ 
+    3. Nontidal wetlands under Titl e 5, Subtitle 9 of this article;  7 
+ 
+    4. Asbestos under Title 6, Subtitle 4 of this article;  8 
+ 
+    5. Lead paint under Title 6, Subtitle 8 of this article;  9 
+ 
+    6. Controlled hazardous substances under Title 7, Subtitle 2 10 
+of this article;  11 
+ 
+    7. Water supp ly, sewerage systems, and refuse disposal 12 
+systems under Title 9, Subtitle 2 of this article;  13 
+ 
+    8. Water discharges under Title 9, Subtitle 3 of this article;  14 
+ 
+    9. Drinking water under Title 9, Subtitle 4 of this article; and  15 
+ 
+    10. Wetlands under T itle 16, Subtitle 2 of this article.  16 
+ 
+   (ii) For each of the programs set forth in subparagraph (i) of this 17 
+paragraph, the Department shall provide the total number or amount of:  18 
+ 
+    1. Final permits or licenses issued to a person or facility, as 19 
+appropriate, and not surrendered, suspended, or revoked;  20 
+ 
+    2. Inspections, audits, or spot checks performed at facilities 21 
+permitted;  22 
+ 
+    3. Injunctions obtained;  23 
+ 
+    4. Show cause, remedial, and corrective action orders issued;  24 
+ 
+    5. Stop work order s; 25 
+ 
+    6. Administrative or civil penalties obtained;  26 
+ 
+    7. Criminal actions charged, convictions obtained, 27 
+imprisonment time ordered, and criminal fines received; and  28 
+ 
+ SENATE BILL 250  9 
+ 
+     8. Any other actions taken by the Department to enforce the 1 
+requirements of the applicable environmental program, including:  2 
+ 
+    A. Notices of the removal or encapsulation of asbestos under 3 
+§ 6–414.1 of this article; and  4 
+ 
+    B. Actions enforcing user charges against industrial users 5 
+under § 9 –341 of this article.  6 
+ 
+   (iii) In additi on to the information required in subparagraph (ii) of 7 
+this paragraph, for the Lead Paint Program under Title 6, Subtitle 8 of this article, the 8 
+report shall include the total number or amount of:  9 
+ 
+    1. Affected properties registered; and  10 
+ 
+    2. Inspect ors or other persons accredited by the Department, 11 
+for whom accreditation has not been surrendered, suspended, or revoked.  12 
+ 
+   (iv) In addition to the information required in subparagraph (ii) of 13 
+this paragraph, for the Controlled Hazardous Substances Program under Title 7, Subtitle 14 
+2 of this article, the report shall include the following lists, updated to reflect the most 15 
+recent information available for the immediately preceding fiscal year:  16 
+ 
+    1. Possible controlled hazardous substance sites compi led in 17 
+accordance with § 7 –223(a) of this article;  18 
+ 
+    2. Proposed sites listed in accordance with § 7 –223(c) of this 19 
+article at which the Department intends to conduct preliminary site assessments; and  20 
+ 
+    3. Hazardous waste sites in the disposal site r egistry 21 
+compiled in accordance with § 7 –223(f) of this article.  22 
+ 
+   (v) In addition to the information required in subparagraph (ii) of 23 
+this paragraph, for the Drinking Water Program, the report shall include the total number 24 
+of: 25 
+ 
+    1. Actions to prevent  public water system contamination or 26 
+to respond to a Safe Drinking Water Act emergency under §§ 9 –405 and 9 –406 of this 27 
+article; and  28 
+ 
+    2. Notices given to the public by public water systems under 29 
+§ 9–410 of this article.  30 
+ 
+4–104. 31 
+ 
+10 SENATE BILL 250   
+ 
+  (a) In this section, “responsible personnel” means any foreman, superintendent, 1 
+or project engineer who is in charge of on –site clearing and grading operations or sediment 2 
+control associated with a construction project.  3 
+ 
+ (b) (1) After July 1, 1983, any applicant for sediment and erosion control plan 4 
+approval shall certify to the appropriate jurisdiction that any responsible personnel 5 
+involved in the construction project will have a certificate of attendance at a Department 6 
+[of the Environment ] approved training program for the  control of sediment and erosion 7 
+before beginning the project.  8 
+ 
+  (2) A certificate shall be [valid]: 9 
+ 
+   (I) VALID  for a 3 –year period [. A certificate shall be automatically ]; 10 
+AND  11 
+ 
+   (II) AUTOMATICALLY  renewed unless the Department [of the 12 
+Environment ] notifies the certificate holder that additional training is required.  13 
+ 
+ (c) The appropriate governmental entity authorized to approve grading and 14 
+sediment control plans may waive the requirement of this section for the responsible 15 
+personnel on any project  involving four or fewer residential units.  16 
+ 
+ (d) Any person may develop and conduct a training program if the program 17 
+content and instructor are approved by and meet the requirements set by the Department 18 
+[of the Environment ]. 19 
+ 
+ (E) (1) THE DEPARTMENT MAY  ESTABLISH BY REGULAT ION A FEE FOR  20 
+PROCESSING AND ISSUI NG THE CERTIFICATION . 21 
+ 
+  (2) A FEE ESTABLISHED UNDE R THIS SUBSECTION SH ALL BE SET AT  22 
+A RATE THAT PRODUCES  FUNDS APPROXIMATELY THE SAME AS THE COST  OF 23 
+PROCESSING AND ISSUI NG THE CERTIFICATION . 24 
+ 
+  (3) THE DEPARTMENT SHALL DEPO SIT ANY FEE COLLECTE D UNDER  25 
+THIS SUBSECTION INTO  THE MARYLAND CLEAN WATER FUND IN § 9–320 OF THIS  26 
+ARTICLE . 27 
+ 
+4–411. 28 
+ 
+ (a) (1) In this section the following words have the meanings indicated.  29 
+ 
+  (2) “Barrel” means any measure of petroleum products or its by –products 30 
+which consists of 42.0 U.S. gallons of liquid measure.  31 
+ 
+  (3) “Fund” means the Maryland Oil Disaster Containment, Clean –Up and 32 
+Contingency Fund.  33 
+ SENATE BILL 250  11 
+ 
+  
+  (4) “Transfer” means the offloading or onloading of oil [in] INTO  the State 1 
+from or to any commercial vessel, barge, tank truck, tank car, pipeline, or any other means 2 
+used for transporting oil.  3 
+ 
+ (b) A person other than a vessel or barge may not transfer oil  [in] INTO  the State 4 
+without a license.  5 
+ 
+ (c) (2) The fee on any ba rrel TRANSFERRED INTO THE  STATE UNDER A 6 
+LICENSE shall be [imposed ]: 7 
+ 
+   (I) PAID BY THE LICENSEE THAT OWNS THE OIL WH EN THE OIL 8 
+IS FIRST TRANSFERRED  INTO THE STATE ; AND 9 
+ 
+   (II) IMPOSED  only once, at the point of first transfer [in] INTO  the 10 
+State.  11 
+ 
+  (3) The [license ] fee UNDER PARAGRAPH (2) OF THIS SUBSECTION  shall 12 
+be[: 13 
+ 
+   (i) Credited ] CREDITED  to the Maryland Oil Disaster Containment, 14 
+Clean –Up and Contingency Fund and based on:  15 
+ 
+    [1.] (I) Before July 1, [2024] 2030 , a [7.75] 9 cents per 16 
+barrel fee for oil transferred [in] INTO  the State; and  17 
+ 
+    [2.] (II) On or after July 1, [2024] 2030 , a 5 cents per barrel 18 
+fee for oil transferred [in] INTO  the State [; and  19 
+ 
+   (ii) Until July 1, 2024, based on an additional 0.25 cent per barr el 20 
+fee for oil transferred in the State and credited to the Oil Contaminated Site Environmental 21 
+Cleanup Fund as described in Subtitle 7 of this title ]. 22 
+ 
+  (7) The Department shall [promulgate rules and ] ADOPT  regulations, 23 
+establish audit procedures for the  audit of licensees, and prescribe and publish forms as 24 
+may be necessary to effectuate the purposes of this section.  25 
+ 
+ [(d) As a condition precedent to the issuance or renewal of a license, the 26 
+Department shall require satisfactory evidence that the applicant has implemented or is in 27 
+the process of implementing State and federal plans and regulations to control pollution 28 
+related to oil, petroleum products, and their by –products and the abatement thereof when 29 
+a discharge occurs. ] 30 
+ 
+ [(h)] (G) (1) The De partment shall provide the standing committees of the 31 
+Maryland General Assembly with primary jurisdiction over this section with a status report 32 
+12 SENATE BILL 250   
+ 
+ on the Fund on or before January 1 of each year in accordance with § 2 –1257 of the State 1 
+Government Article.  2 
+ 
+  (2) The report shall include an accounting of all money expended for each 3 
+of the purposes specified in subsection [(g)] (F) of this section.  4 
+ 
+5–203.1.  5 
+ 
+ (a) (1) In this section the following words have the meanings indicated.  6 
+ 
+  (2) (i) “Commercial activ ity” means a project or activity undertaken for 7 
+consideration, regardless of whether a profit is made.  8 
+ 
+   (ii) “Commercial activity” includes:  9 
+ 
+    1. A subdivision;  10 
+ 
+    2. A development; and  11 
+ 
+    3. Constructing or operating a marina.  12 
+ 
+  (3) “Commercial  building” means a building that is used primarily for 13 
+commercial activity.  14 
+ 
+  (4) “Development” means a project for the construction of:  15 
+ 
+   (i) Two or more residential dwelling units;  16 
+ 
+   (ii) A commercial structure; or  17 
+ 
+   (iii) An industrial structure.  18 
+ 
+  (5) “Dwelling unit” means a property that contains:  19 
+ 
+   (i) One or more rooms used as a residence;  20 
+ 
+   (ii) Kitchen facilities; and  21 
+ 
+   (iii) Bathroom facilities.  22 
+ 
+  (6) “Major project” means a project that:  23 
+ 
+   (i) Proposes to permanently impact 5,000  square feet or more of 24 
+wetlands or waterways, including the 100 –year floodplain;  25 
+ 
+ SENATE BILL 250  13 
+ 
+    (ii) Is located in an area identified as potentially impacting a 1 
+nontidal wetland of special State concern by a geographical information system database 2 
+that:  3 
+ 
+    1. Has been developed and maintained by the Department of 4 
+Natural Resources; and  5 
+ 
+    2. Is used by the Department to screen incoming 6 
+applications; or  7 
+ 
+   (iii) Requires the issuance of a public notice by the Department.  8 
+ 
+  (7) “Marina” means a facility for the mooring, docking, or storing of more 9 
+than 10 vessels on tidal navigable waters, including a commercial, noncommercial, or 10 
+community facility.  11 
+ 
+  (8) “Minor project” means a project that:  12 
+ 
+   (i) Proposes to permanently impact less than 5,000 square feet of  13 
+wetlands or waterways, including the 100 –year floodplain; and  14 
+ 
+   (ii) Does not meet the definition of a major project.  15 
+ 
+  (9) “Residential activity” means a noncommercial activity that is conducted 16 
+on residential property.  17 
+ 
+  (10) (i) “Residential proper ty” means improved property that is used 18 
+primarily as a residence or unimproved property that is zoned for use as a residence.  19 
+ 
+   (ii) “Residential property” includes:  20 
+ 
+    1. Property owned by a homeowners’ association; and  21 
+ 
+    2. A condominium.  22 
+ 
+   (iii) “Residential property” does not include:  23 
+ 
+    1. A commercial building;  24 
+ 
+    2. A marina; or  25 
+ 
+    3. A residential apartment complex or building.  26 
+ 
+  (11) (i) “Subdivision” means the division of a lot, tract, or parcel of land 27 
+into two or more lots, p lots, sites, tracts, parcels, or other divisions for the immediate or 28 
+future purpose of selling or development.  29 
+ 
+14 SENATE BILL 250   
+ 
+    (ii) “Subdivision” includes resubdivision.  1 
+ 
+  (12) “TIER II HIGH QUALITY WATERSHED ” MEANS THE LAND AND  2 
+WATER AREA WHICH DRA INS TOWARD OR INT O A TIER II HIGH QUALITY WATER AS  3 
+DESIGNATED AND IDENT IFIED IN A GEOGRAPHI C INFORMATION SYSTEM  BY THE  4 
+DEPARTMENT . 5 
+ 
+ (b) (1) Except as provided under paragraphs (2), (3), [and] (6), AND (7) of this 6 
+subsection, all applications for wetlands and waterways authorizations issued by the 7 
+Department under §§ 5 –503 and 5 –906 of this title and §§ 16 –202, 16 –302, and 16 –307 of 8 
+this article or wetlands licenses issued by the Board of Public Works under  § 16–202 of this 9 
+article shall be accompanied by an application fee as follows:  10 
+ 
+   (i) For an application for a minor project or general permit..... [$750] 11 
+$980 ; 12 
+ 
+   (ii) For an application for a minor modification ………. ..[$250] $330 ; 13 
+ 
+   (iii) For an appli cation for a major project with a proposed permanent 14 
+impact of:  15 
+ 
+    1. Less than 1/4 acre …………………………. [$1,500 ] $1,950 ; 16 
+ 
+    2. At least 1/4 acre, but less than 1/2 acre ....[$3,000 ] $3,890 ; 17 
+ 
+    3. At least 1/2 acre, but less than 3/4 acre …...[$4,500 ] 18 
+$5,830 ; 19 
+ 
+    4. At least 3/4 acre, but less than 1 acre …...[$6,000 ] $7,780 ; 20 
+and 21 
+ 
+    5. 1 acre or more .....the impact area in acres multiplied by 22 
+[$7,500 ] $9,720 ; and  23 
+ 
+   (iv) For an application for a major modification …….[$1,500 ] $1,950 . 24 
+ 
+  (2) The following are exempt from the application fees established under 25 
+paragraph (1) of this subsection:  26 
+ 
+   (i) Regulated activities conducted by the State, a municipal 27 
+corporation, county, bicounty or multicounty agency under Division II of the Land Use 28 
+Article or Divis ion II of the Public Utilities Article, or a unit of the State, a municipal 29 
+corporation, or a county;  30 
+ 
+ SENATE BILL 250  15 
+ 
+    (ii) Performance of agricultural best management practices 1 
+contained in a soil conservation and water quality plan approved by the appropriate soil 2 
+conservation district;  3 
+ 
+   (iii) Performance of forestry best management practices contained in 4 
+an erosion and sediment control plan:  5 
+ 
+    1. Prepared by a registered forester; and  6 
+ 
+    2. Approved by the appropriate soil conservation district;  7 
+ 
+   (iv) Stream restoration, vegetative shoreline stabilization, wetland 8 
+creation, or other project in which the primary effect is to enhance the State’s wetland or 9 
+water resources; and  10 
+ 
+   (v) Aquacultural activities for which the Department of Natural 11 
+Resources h as issued a permit under Title 4, Subtitle 11A of the Natural Resources Article.  12 
+ 
+  (3) Except as provided in paragraph (4) of this subsection, the following 13 
+shall be minor projects and subject to the appropriate application fee under [paragraph ] 14 
+PARAGRAPH S (1)(i) and (ii) AND (7)(I) of this subsection:  15 
+ 
+   (i) A residential activity issued a permit under §§ 5 –503 and 5 –906 16 
+of this title and §§ 16 –202, 16 –302, and 16 –307 of this article; and  17 
+ 
+   (ii) A mining activity undertaken on affected land as identified in a 18 
+permit issued under Title 15 of this article.  19 
+ 
+  (4) Subject to [paragraph ] PARAGRAPHS  (5) AND (7) of this subsection, 20 
+an application for the following minor projects shall be accompanied by the following 21 
+application fees:  22 
+ 
+   (i) Installation of:  23 
+ 
+    1. One boat lift or hoist, not exceeding four boat lifts or hoists 24 
+per pier;  25 
+ 
+    2. One personal watercraft lift or hoist, not exceeding six 26 
+personal watercraft lifts or hoists per pier; or  27 
+ 
+    3. A combination of boat lifts or hois ts and personal 28 
+watercraft lifts or hoists, not exceeding six lifts or hoists per pier, of which not more than 29 
+four lifts or hoists are boat lifts or hoists ………………………………………….. ..[$300] $385 ; 30 
+ 
+   (ii) Installation of a maximum of six mooring pilings …..[$300] $390 ; 31 
+ 
+16 SENATE BILL 250   
+ 
+    (iii) In–kind repair and replacement of structures ……. ..[$300] $390 ; 1 
+ 
+   (iv) Installation of a fixed or floating platform on an existing pier 2 
+where the total platform area does not exceed 200 square feet …………………. [$300] $390 ; 3 
+ 
+   (v) Construction of a nonhabitable structure that permanently 4 
+impacts less than 1,000 square feet, such as a driveway, deck, pool, shed, or fence.. [$300] 5 
+$390 ; 6 
+ 
+   (vi) Replacement of an existing bulkhead where the replacement 7 
+bulkhead does not exceed more than 18 inches c hannelward of the existing 8 
+structure ……………………………………………………………………………. [$500] $650 ; and  9 
+ 
+   (vii) In–kind repair and replacement of existing 10 
+infrastructure ………………………………………………………………………… ...[$500] $650 . 11 
+ 
+  (5) The Department may not require an application fee for:  12 
+ 
+   (i) The installation of a boat lift, hoist, or personal watercraft lift on 13 
+existing pilings; or  14 
+ 
+   (ii) If the existing structure is functional and there is no increase in 15 
+the original length, width, height, or channelward encroachment authorized under §  16 
+16–202, § 16 –302, or § 16 –307 of this article, the routine maintenance, repair, or 17 
+replacement of:  18 
+ 
+    1. A highway structure;  19 
+ 
+    2. A pier;  20 
+ 
+    3. A boathouse;  21 
+ 
+    4. A structure on a pier;  22 
+ 
+    5. A bulkhead;  23 
+ 
+    6. A revetment;  24 
+ 
+    7. A tidal impoundment dike;  25 
+ 
+    8. A water control structure;  26 
+ 
+    9. An aboveground transmission facility;  27 
+ 
+    10. An agricultural drainage ditch; or  28 
+ 
+ SENATE BILL 250  17 
+ 
+     11. A highway drainage ditch.  1 
+ 
+  (6) The application fee for a structural shoreline stabilization project 2 
+located on or adjacent to a State –owned lake may not exceed [$250] $290 . 3 
+ 
+  (7) [The fees imposed under this subsection may not be modified without 4 
+legislative enactment.  5 
+ 
+  (8) (i) Subject to paragraph (7) of this subsection, the ] EXCEPT AS  6 
+PROVIDED IN PARAGRAP HS (2) AND (5) OF THIS SUBSECTION , ALL APPLICATIONS  7 
+FOR WETLANDS AND WAT ERWAYS AUTHORIZATION S ISSUED BY  THE DEPARTMENT  8 
+FOR ACTIVITIES PROPO SED IN A TIER II HIGH QUALITY WATERSHED SHALL BE  9 
+ACCOMPANIED BY AN AD DITIONAL APPLICATION  FEE, AS FOLLOWS : 10 
+ 
+   (I) FOR AN APPLICATION FO R A MINOR PROJECT OR  MINOR  11 
+MODIFICATION …………………………………………………………………… ..$400;  AND  12 
+ 
+   (II) FOR AN APPLICATION FO R A MAJOR PROJECT OR  MAJOR  13 
+MODIFICATION ………………………………………………………………………. ..$1,600.  14 
+ 
+  (8) (I) THE Department may adjust the fees established under 15 
+paragraphs (1), (4), and (6) of this subsection to reflect changes in the consumer price index 16 
+for all “urban consumers” for the expenditure category “all items not seasonally adjusted”, 17 
+and for all regions . 18 
+ 
+   (ii) The Annual Consumer Price Index for the period ending each 19 
+December, as published by the Bureau of Labor Statistics of the U.S. Department of Labor, 20 
+shall be used to adjust the fees established under paragraphs (1), (4), [and] (6), AND (7) of 21 
+this subsection.  22 
+ 
+  (9) THE DEPARTMENT SHALL ISSU E A PUBLIC NOTICE OF  THE 23 
+ADJUSTED FEES AT LEA ST 90 DAYS BEFORE THE NEW FEE RATES TAKE EFFEC T. 24 
+ 
+ (c) (1) There is a Wetlands and Waterways Program Fund.  25 
+ 
+  (2) The Department shall administer the Fund.  26 
+ 
+  (3) The Treasurer shall hold the Fund separately and the Comptroller shall 27 
+account for the Fund.  28 
+ 
+  (4) The Fund consists of all:  29 
+ 
+   (i) Application fees collected by the Department under this section;  30 
+ 
+   (ii) Monetary compensation paid to the State in conjunction with a 31 
+wetlands license other than that compensation specified in § 16 –205(e)(2) of this article;  32 
+18 SENATE BILL 250   
+ 
+  
+   (iii) Money appropriated in the State budget to the Fund; and  1 
+ 
+   (iv) Investment earnings, interest, and any other money from any 2 
+other source accepted for the benefit of the Fund.  3 
+ 
+  (5) In accordance with subsection (e) of this section, the Department shall 4 
+use the Wetlands and Waterways Program Fund for activities related to:  5 
+ 
+   (i) The issuance of authorizations by the Department unde r §§  6 
+5–503 and 5 –906 of this title and §§ 16 –202, 16 –302, and 16 –307 of this article or the 7 
+issuance of wetlands licenses by the Board of Public Works under § 16 –202 of this article;  8 
+ 
+   (ii) The management, conservation, protection, and preservation of 9 
+the State’s wetlands and waterways resources , INCLUDING TIER II HIGH QUALITY  10 
+WATERS AND TIER II HIGH QUALITY WATERSHEDS ; and  11 
+ 
+   (iii) Program development associated with this title and Title 16 of 12 
+this article, as provided by the State budget.  13 
+ 
+ (d) On or before December 31 of each year, in accordance with § 2 –1257 of the 14 
+State Government Article, the Department shall prepare and submit an annual report to 15 
+the House Environment and Transportation Committee, the House Appropriations 16 
+Committee, the Senate COMMITTEE ON  Education, [Health, and Environmental Affairs 17 
+Committee ] ENERGY , AND THE ENVIRONMENT , and the Senate Budget and Taxation 18 
+Committee on the Wetlands and Waterways Program Fund, including an accounting of 19 
+financial receipts deposited into the Fund and expenditures from the Fund.  20 
+ 
+ (e) The Department shall:  21 
+ 
+  (1) Prioritize the use of the Wetlands and Waterways Program Fund to 22 
+improve the level of service to the regulated community;  23 
+ 
+  (2) Identify and implement measures that will reduce delays and 24 
+duplication in the administration of the wetlands and waterways permit process, including 25 
+the processing of applications for wetlands and waterways permits in accordance with §  26 
+1–607 of this article; and  27 
+ 
+  (3) In conjunction with the Department of Natura l Resources, identify up 28 
+to three types of structural shoreline stabilization practices that may be implemented on 29 
+or adjacent to a State –owned lake.  30 
+ 
+5–203.2.  31 
+ 
+ SENATE BILL 250  19 
+ 
+  (A) IN THIS SECTION , “DAM SAFETY PERMIT ” MEANS A PERMIT ISSUE D 1 
+UNDER § 5–503 OF THIS TITLE FOR  THE CONSTRUCTION , RECONSTRUCTION , 2 
+REPAIR , REMOVAL , OR MODIFICATION OF A  DAM. 3 
+ 
+ (B) (1) BY REGULATION , THE DEPARTMENT SHALL ESTA BLISH AND  4 
+COLLECT A FEE TO BE PAID PRIOR TO ISSUAN CE OF A DAM SAFETY P ERMIT . 5 
+ 
+  (2) THE DEPARTMENT SHALL BASE  THE FEE ON : 6 
+ 
+   (I) PROJECT COST ; AND  7 
+ 
+   (II) THE COST TO THE DEPARTMENT FOR ADMINI STERING THE  8 
+DAM SAFETY PERMIT  THIS SECTION DOES NOT  APPLY TO A RESERVOIR , DAM, 9 
+WATERWAY OBSTRUCTION , OR SMALL POND THAT I S EXEMPT FROM PERMIT  10 
+REQUIREMENTS UNDER § 5–503( B) OF THIS TITLE . 11 
+ 
+ (C) THE APPLICATION FOR A  NEW DAM , OR THE ENLARGEMENT , REPAIR , 12 
+ALTERATION , OR REMOVAL OF AN EXI STING DAM , DAM SAFETY PERMIT  SHALL 13 
+INCLUDE THE ESTIMATE D PROJECT CONSTRUCTION  COST . 14 
+ 
+ (D) PERIODICALLY  PRIOR TO THE ISSUANCE  OF A DAM SAFETY PERM IT, 15 
+THE DEPARTMENT SHALL REVIEW THE FEES AND IF NEEDED ADJUST THE FE ES TO 16 
+ENSURE THE AMOUNT CO LLECTED COVERS THE  DEPARTMENT ’S COSTS FOR 17 
+ADMINISTERING THE  COLLECT A  DAM SAFETY PERMIT FEE. 18 
+ 
+ (E) THE DAM SAFETY PERMIT  FEE: 19 
+ 
+  (1) SHALL BE BASED ON THE  ESTIMATED  PROJECT CONSTRUCTION  20 
+COST ; AND 21 
+ 
+  (2) MAY NOT EXCEED 3% OF THE ESTIMATED PRO JECT 22 
+CONSTRUCTION COST . 23 
+ 
+ (F) FEES COLLECTED UNDER THIS SECTION SHALL B E PAID INTO THE 24 
+PRIVATE DAM REPAIR FUND ESTABLISHED UNDE R § 5–509.2  OF THIS TITLE . 25 
+ 
+5–509. 26 
+ 
+ (a) (1) In this  section the following words have the meanings indicated.  27 
+ 
+  (2) [“Asset owner” means the owner or person having control of a water 28 
+infrastructure asset.  29 
+ 
+  (3)] “Association” means:  30 
+ 
+20 SENATE BILL 250   
+ 
+    (i) A homeowners association, as defined in § 11B –101 of the Real 1 
+Property Article;  2 
+ 
+   (ii) A council of unit owners, as defined in § 11 –101 of the Real 3 
+Property Article; or  4 
+ 
+   (iii) Any other entity owning or controlling a [water infrastructure 5 
+asset ] DAM , the owners or members of which are owners of property adjacent to or benefited 6 
+by the [water infrastructure asset ] DAM . 7 
+ 
+  [(4)] (3) “Association member” means an owner or a member of an 8 
+association.  9 
+ 
+  (4) “DAM OWNER ” MEANS THE OWNER OR P ERSON HAVING CO NTROL  10 
+OF THE NORMAL OPERAT ION OR MAINTENANCE O F A DAM .  11 
+ 
+  (5) [“Water infrastructure asset” means a reservoir, a dam, or any other 12 
+waterway construction. ] “UNSAFE CONDITION ” MEANS THE CONDITION OF A DAM  13 
+DETERMINED BY THE DEPARTMENT TO BE UNSA FE DUE TO THE  STRUCTURE : 14 
+ 
+   (I) BEING IN POOR CONDITI ON; 15 
+ 
+   (II) HAVING AN INADEQUATE SPILLWAY ; 16 
+ 
+   (III) POSING IMMINENT DANGE R OF FAILURE ; OR 17 
+ 
+   (IV) HAVING ANOTHER CONDIT ION DETERMINED UNSAF E BY  18 
+THE DEPARTMENT . 19 
+ 
+ (b) (1) On complaint or the Department’s own initi ative, the Department may 20 
+investigate or examine any [water infrastructure asset ] DAM . 21 
+ 
+  (2) If the Department determines that the [water infrastructure asset ] 22 
+DAM  is IN AN  unsafe CONDITION , needs repair, or should be removed because the [water 23 
+infrastructure asset ] DAM  is unsafe and not repairable, the Department shall notify the 24 
+[asset ] DAM  owner in writing to repair or remove the [water infrastructure asset ] DAM , as 25 
+the situation warrants.  26 
+ 
+  (3) The repair or removal work shall be completed w ithin a reasonable 27 
+time, which time shall be prescribed in the Department’s notice.  28 
+ 
+  (4) (i) This paragraph applies to a [water infrastructure asset ] DAM  29 
+that the Department determines meets the criteria specified in paragraph (2) of this 30 
+subsection.  31 
+ 
+ SENATE BILL 250  21 
+ 
+    (ii) If the Department determines that changes to the [water 1 
+infrastructure asset ] DAM , including removal of the [asset ] DAM , are a priority for 2 
+improving fish passage or for other environmental benefits, the Department MAY : 3 
+ 
+    1. [May partner ] PARTNER  with the [asset ] DAM  owner and 4 
+an organization that provides resources and expertise to plan, design, or finance changes 5 
+to [water infrastructure assets ] DAMS  for the purpose of repairing, removing, or retrofitting 6 
+the [asset ] DAM  in a manner consistent w ith the Department’s objectives; or  7 
+ 
+    2. [Shall prioritize ] PRIORITIZE  the use of environmental 8 
+outcomes, as defined in § 9 –1601 of this article, arising from the repair, removal, or retrofit 9 
+of the [water infrastructure asset ] DAM  in any environmental mitigation program 10 
+identified by the Department.  11 
+ 
+   (iii) For the purpose of seeking financial assistance under Title 5, 12 
+Subtitle 4 of the Economic Development Article, if the Department determines that the 13 
+[water infrastructure asset ] DAM  is not a priori ty under subparagraph (ii) of this 14 
+paragraph but is a priority for installation of less than 30 megawatts of small hydroelectric  15 
+power plant capacity, the Department shall provide notice to the Maryland Industrial 16 
+Development Financing Authority of:  17 
+ 
+    1. Any [water infrastructure asset ] DAM  identified as a 18 
+priority for installation of less than 30 megawatts of small hydroelectric power plant 19 
+capacity under this paragraph; and  20 
+ 
+    2. The repair, retrofit, or removal measures identified for the 21 
+[water in frastructure asset ] DAM  in the notice provided under paragraph (2) of this 22 
+subsection.  23 
+ 
+ (c) If the work is not completed in the time prescribed in the notice:  24 
+ 
+  (1) The Department may have the work completed at the expense of the 25 
+[asset ] DAM  owner;  26 
+ 
+  (2) The Department shall charge the [asset ] DAM  owner for the costs to 27 
+complete the work; and  28 
+ 
+  (3) If repayment is not made within 30 days after written demand, the 29 
+Department may bring an action in the proper court to recover the costs to complete the 30 
+work. 31 
+ 
+ (d) (1) The Department may take emergency actions necessary to protect life, 32 
+property, or the environment if:  33 
+ 
+   (i) 1. The Department determines that a [water infrastructure 34 
+asset ] DAM  is in imminent danger of failure; and  35 
+22 SENATE BILL 250   
+ 
+  
+    2. The [asset ] DAM  owner has been issued a notice by the 1 
+Department under subsection (b) of this section and has not completed the work in 2 
+accordance with the time prescribed in the notice; or  3 
+ 
+   (ii) The Department determines that:  4 
+ 
+    1. A [water infrastructure asset ] DAM  is failing OR IN  5 
+IMMINENT DANGER OF F AILING ; and  6 
+ 
+    2. The [asset ] DAM  owner is not taking adequate actions to 7 
+protect life, property, or the environment.  8 
+ 
+  (2) Emergency actions taken by the Department under this subsection may 9 
+include:  10 
+ 
+   (i) Taking control of the [water infrastructure asset ] DAM ; 11 
+ 
+   (ii) Lowering the level of water impounded by the [water 12 
+infrastructure asset ] DAM  by releasing the impounded water or by other means;  13 
+ 
+   (iii) Completely releasing all water impounded by the [water 14 
+infrastructure asset ] DAM ; 15 
+ 
+   (iv) Performing any necessary remedial or protective work at the site 16 
+of the [water infrastructure asset ] DAM , including breaching the [water infrastructure 17 
+asset ] DAM ; and  18 
+ 
+   (v) Taking any other steps the Department de ems necessary to 19 
+safeguard life, property, or the environment.  20 
+ 
+  (3) The Department or its agents may enter any property, without prior 21 
+notice to the owner of the property, if the entry is necessary to carry out emergency actions 22 
+under this subsection.  23 
+ 
+  (4) If the Department takes control of a [water infrastructure asset ] DAM  24 
+under paragraph (2)(i) of this subsection, the Department shall remain in charge and 25 
+control of the [water infrastructure asset ] DAM  until the Department has determined that 26 
+the [water infrastructure asset ] DAM  has been rendered safe or the circumstances 27 
+requiring the emergency actions have ceased.  28 
+ 
+  (5) The Department may obtain equipment, personnel, and other resources 29 
+for emergency actions taken under this subsection through any appropriate means, 30 
+including emergency procurements under § 13 –108 of the State Finance and Procurement 31 
+Article.  32 
+ 
+ SENATE BILL 250  23 
+ 
+  (e) (1) Costs incurred by the Department under this section shall:  1 
+ 
+   (i) Constitute a debt owed to the State; and  2 
+ 
+   (ii) Be reimbursed to the Department by the [asset ] DAM  owner.  3 
+ 
+  (2) If any such cost remains unreimbursed 30 days after the Department 4 
+makes a demand for reimbursement from the [asset ] DAM  owner, the [water infrastructure 5 
+asset ] DAM  shall be subject to the establishment of a lien in accordance with this section 6 
+for the payment of the unreimbursed amount.  7 
+ 
+ (f) (1) With respect to costs incurred by the Department under this section 8 
+relating to a [water infrastructure asset ] DAM  for wh ich an association is the [asset ] DAM  9 
+owner, if any such cost remains unreimbursed 30 days after the Department makes a 10 
+demand for reimbursement from the association, such costs shall be a debt to the State 11 
+owed, and shall be reimbursed to the Department, by the association members, jointly and 12 
+severally, notwithstanding any provision of law that would otherwise relieve the 13 
+association members of such liability.  14 
+ 
+  (2) If any such cost remains unreimbursed 30 days after the Department 15 
+makes a demand for rei mbursement from the association members, the lots, condominium 16 
+units, or other property owned by the association members that is adjacent to or benefited 17 
+by the [water infrastructure asset ] DAM  shall be subject to the establishment of a lien in 18 
+accordance with this section for the payment of the unreimbursed amount.  19 
+ 
+ (g) (1) Any lien arising under subsections (e) and (f) of this section shall, to the 20 
+extent not otherwise expressly prohibited by law, have priority over all other liens and 21 
+encumbrances perfe cted after July 1, 2020, on the [water infrastructure asset ] DAM , or the 22 
+lots, condominium units, or other property owned by the association members that is 23 
+adjacent to or benefited by the [water infrastructure asset ] DAM . 24 
+ 
+  (2) The establishment and enforcement of liens arising under subsections 25 
+(e) and (f) of this section shall be governed by the rules set forth in Title 12, Chapter 300 of 26 
+the Maryland Rules.  27 
+ 
+ (h) No action may be brought against the State, the Department, or their 28 
+respective agents  or employees for the recovery of damages caused by the partial or total 29 
+failure of any [water infrastructure asset ] DAM , or the control or operation of any [water 30 
+infrastructure asset ] DAM , on the ground that the State, the Department, or their 31 
+respective  agents or employees are liable by virtue of any of the following:  32 
+ 
+  (1) The approval or permitting of the [water infrastructure asset ] DAM ; 33 
+ 
+  (2) The issuance or enforcement of orders relative to maintenance or 34 
+operation of the [water infrastructure ass et] DAM ; 35 
+ 
+24 SENATE BILL 250   
+ 
+   (3) Control or regulation of the [water infrastructure asset ] DAM ; 1 
+ 
+  (4) Actions taken to protect against failure during an emergency, including 2 
+any actions taken under this subsection;  3 
+ 
+  (5) The use of design and construction criteria prepared, approved, or 4 
+promulgated by the Department; or  5 
+ 
+  (6) The failure to issue or enforce orders, to control or regulate [water 6 
+infrastructure assets ] DAMS , to take measures to protect against any failure thereof, or to 7 
+take any emergency actions con templated by this subsection.  8 
+ 
+ (i) Nothing in this section, and no act or omission of the Department under this 9 
+section, shall be construed to relieve [an asset ] A DAM  owner of:  10 
+ 
+  (1) The legal duties, obligations, or liabilities incident to the ownership or 11 
+operation of a [water infrastructure asset ] DAM ; or 12 
+ 
+  (2) Any liability for acts or omissions of the [asset ] DAM  owner that cause 13 
+injury or death to any person, damage to any prope rty or the environment, or violation of 14 
+any law, regulation, or permit, even if acts or omissions of the Department under this 15 
+section could be deemed an intervening cause of such injury, death, damage, or violation.  16 
+ 
+ (j) This section does not apply to fa rm ponds used for agricultural purposes.  17 
+ 
+5–509.1.  18 
+ 
+ (A) IN THIS SECTION , “DAM OWNER ” HAS THE MEANING STAT ED IN § 5–509 19 
+OF THIS SUBTITLE  MEANS THE OWNER OR P ERSON HAVING CONTROL  OF THE 20 
+NORMAL OPERATION OR MAINTENANCE OF A DAM . 21 
+ 
+ (B) (1) THIS SECTION APPLIES TO A DAM THA T IS: 22 
+ 
+   (I) INCLUDED IN THE MARYLAND DAM INVENTORY ; AND 23 
+ 
+   (II) NOT OWNED BY THE FEDE RAL GOVERNMENT . 24 
+ 
+  (2) THIS SECTION DOES NOT  APPLY TO A DAM OWNED BY THE 25 
+FEDERAL  GOVERNMENT  RESERVOIR , DAM, WATERWAY OBSTRUCTION , OR SMALL 26 
+POND THAT  IS EXEMPT FROM PERMI T REQUIREMENTS UNDER  § 5–503( B) OF THIS 27 
+SUBTITLE .  28 
+ 
+ (C) EXCEPT AS OTHERWISE P ROVIDED IN THIS SUBT ITLE, ALL DAM OWNERS 29 
+SHALL REGISTER THEIR  DAMS ANNUALLY WITH T HE DEPARTMENT . 30 
+ 
+ SENATE BILL 250  25 
+ 
+  (D) TO BEGINNING JANUARY 1, 2027,  TO REGISTER WITH THE 1 
+DEPARTMENT , A DAM OWNER SHALL : 2 
+ 
+  (1) SUBMIT AN APPLICATION  TO THE DEPARTMENT ON THE FOR M 3 
+PROVIDED BY THE DEPARTMENT ; AND 4 
+ 
+  (2) PAY TO THE DEPARTMENT A REGISTRA TION FEE . 5 
+ 
+ (E) THE DEPARTMENT  REGISTRATION FEE  SHALL BE: 6 
+ 
+  (1) ESTABLISH THE REGISTR ATION FEE  BY REGULATION  FOR A LOW 7 
+HAZARD CLASS DAM , $200 ; AND  8 
+ 
+  (2) BASE THE REGISTRATION  FEE ON THE DAM HAZAR D 9 
+CLASSIFICATION  FOR A SIGNIFICANT HAZ ARD CLASS DAM , $500;  AND 10 
+ 
+  (3) FOR A HIGH HAZARD CLA SS DAM , $1,000 . 11 
+ 
+ (F) REGISTRATION FEES COL LECTED UNDER THIS SECTION SHALL BE PAI D 12 
+INTO THE PRIVATE DAM REPAIR FUND ESTABLISHED UNDE R § 5–509.2  OF THIS 13 
+SUBTITLE . 14 
+ 
+ (G) (1) THE DEPARTMENT SHALL ESTA BLISH CRITERIA TO FU LLY OR 15 
+PARTIALLY WAIVE THE REGISTRATION FEE UND ER THIS SECTION DUE TO FINANCIAL 16 
+HARDSHIP . 17 
+ 
+  (2) THE WAIVER CRITERIA ESTA BLISHED UNDER PARAGR APH (1) OF 18 
+THIS SUBSECTION SHAL L PRIORITIZE INDIVID UAL HOMEOWNERS .  19 
+ 
+5–509.2.  20 
+ 
+ (A) (1) IN THIS SECTION THE F OLLOWING WORDS HAVE THE MEANINGS 21 
+INDICATED . 22 
+ 
+  (2) “DAM OWNER ” HAS THE MEANING STAT ED IN § 5–509 OF THIS 23 
+SUBTITLE . 24 
+ 
+  (3) (I) “ELIGIBLE COST ” MEANS ANY COST TO BE  INCURRED BY A 25 
+DAM OWNER FOR THE RE PAIR , EMERGENCY REPAIR , OR PERMANENT BREACH OF A 26 
+DAM.  27 
+ 
+   (II) “ELIGIBLE COST ” INCLUDES CONSTRUCTIO N ACTIVITIES , 28 
+ENGINEERING FEES , DEMOLITION , EXCAVATION , STABILIZ ATION , AND RELATED 29 
+COSTS . 30 
+26 SENATE BILL 250   
+ 
+  
+  (4) “FUND” MEANS THE PRIVATE DAM REPAIR FUND.  1 
+ 
+  (5) “LOAN” MEANS A PRIVATE DAM REPAIR LOAN MADE IN 2 
+ACCORDANCE WITH THIS  SECTION . 3 
+ 
+  (6) “PRIVATE DAM ” MEANS A DAM THAT IS NOT OWNED BY THE 4 
+FEDERAL GOVERNMENT , THE STATE GOVERNMENT , OR A COUNTY OR MUNIC IPAL 5 
+GOVERNMENT . 6 
+ 
+  (7) “UNSAFE CONDITION ” HAS THE MEANING STAT ED IN § 5–509 OF 7 
+THIS SUBTITLE .  8 
+ 
+ (B) (1) THERE IS A PRIVATE DAM REPAIR FUND.  9 
+ 
+  (2) THE PURPOSE OF THE FUND IS TO PROVIDE FI NANCIAL 10 
+ASSISTANCE FOR THE R EPAIR , UPGRADE , OR REMOVAL OF PRIVAT E DAMS IN 11 
+ACCORDANCE WITH THIS  SUBTITLE .  12 
+ 
+  (3) THE MARYLAND WATER INFRASTRUCTURE FINANCING 13 
+ADMINISTRATION WITHIN  THE DEPARTMENT SHALL ADMI NISTER THE FUND. 14 
+ 
+ (C) (1) THE FUND IS A SPECIAL , NONLAPSING FUND THAT  IS NOT 15 
+SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE . 16 
+ 
+  (2) THE STATE TREASURER SHALL HOLD THE FUND SEPARATELY , 17 
+AND THE COMPTROLLER SHALL ACC OUNT FOR THE FUND.  18 
+ 
+ (D) THE FUND CONSISTS OF : 19 
+ 
+  (1) DAM SAFETY PERMIT FEE S COLLECTED BY THE DEPARTMENT 20 
+UNDER  § 5–203.2  OF THIS TITLE ; 21 
+ 
+  (2) DAM OWNER REGISTRATIO N FEES COLLECTED BY THE 22 
+DEPARTMENT UNDER § 5–509.1  OF THIS SUBTITLE ; 23 
+ 
+  (3) PAYMENTS RECEIVED FRO M BORROWERS FOR DEPO SIT INTO THE 24 
+FUND IN REPAYMENT OF LOANS ISSUED UNDER S UBSECTION (H) OF THIS SECTION , 25 
+INCLUDING ANY LOAN O RIGINATION FEES ; 26 
+ 
+  (4) PENALTIES DISTRIBUTED  TO THE FUND UNDER § 5–514( C)(2) OF 27 
+THIS SUBTITLE ; 28 
+ 
+  (5) FUNDS APPROPRIATED IN  THE STATE BUDGET TO THE FUND;  29 
+ 
+ SENATE BILL 250  27 
+ 
+   (6) INTEREST EARNINGS ; AND 1 
+ 
+  (7) ANY OTHER MONEY FROM ANY OTHER SOURCE ACCEPTED FOR 2 
+THE BENEFIT OF THE FUND. 3 
+ 
+ (E) THE FUND MAY BE USED ONLY  FOR: 4 
+ 
+  (1) PROVIDING FINANCIAL A SSISTANCE TO PRIVATE  DAM OWNERS 5 
+FOR DEPARTMENT –DIRECTED UPGRADES , REPAIRS , OR REMOVALS ; 6 
+ 
+  (2) MAKING LOANS IN ACCOR DANCE WITH THIS SECT ION; 7 
+ 
+  (3) FUNDI NG EMERGENCY REPAIRS  AND REMOVALS OF PRIV ATE 8 
+DAMS PERFORMED BY TH E DEPARTMENT ; AND 9 
+ 
+  (4) REIMBURSING THE ADMIN ISTRATIVE COST TO TH E DEPARTMENT 10 
+OF PROCESSING AND IS SUING DAM SAFETY PER MITS AND PERFORMING THE DUTIES 11 
+UNDER § 5–509 OF THIS SUBTITLE . 12 
+ 
+ (F) (1) THE STATE TREASURER SHALL INVES T MONEY OF THE FUND IN 13 
+THE SAME MANNER AS O THER STATE MONEY MAY BE IN VESTED . 14 
+ 
+  (2) ANY INTEREST EARNINGS  OF THE FUND SHALL BE CREDITE D TO 15 
+THE FUND.  16 
+ 
+ (G) EXPENDITURES FROM THE  FUND MAY BE MADE ONLY  IN ACCORDANCE 17 
+WITH THE STATE BUDGET .  18 
+ 
+ (H) (1) (I) BEGINNING JULY 1, 2028,  THE DEPARTMENT MAY PROVID E 19 
+LOANS FROM THE FUND TO OWNERS OF PRI VATE DAMS FOR THE PU RPOSE OF 20 
+REPAIRING OR REMOVIN G PRIVATE DAMS DEEME D TO BE IN AN UNSAFE  CONDITION 21 
+BY THE DEPARTMENT . 22 
+ 
+   (II) LOANS MADE UN DER THIS SUBSECTION SHALL BE 23 
+ADMINISTERED BY THE MARYLAND WATER INFRASTRUCTURE FINANCING 24 
+ADMINISTRATION IN ACC ORDANCE WITH §§ 9–1604  AND 9–1606  OF THIS ARTICLE . 25 
+ 
+  (2) (I) THE DEPARTMENT MAY ESTABL ISH CRITERIA FOR 26 
+AWARDING LOANS UNDER  THE FUND. 27 
+ 
+   (II) ELIGIBLE APPLICANTS MA Y INCLUDE DAM OWNERS  THAT : 28 
+ 
+    1. HAVE AN APPROVED EMER GENCY ACTION PLAN IN  29 
+ACCORDANCE WITH § 5–503.1  OF THIS SUBTITLE ; 30 
+28 SENATE BILL 250   
+ 
+  
+    2. HAVE HAD AN INSPECTIO N OF THE PRIVATE DAM  1 
+PERFORMED BY THE DEPARTMENT THAT DOCUM ENTS DEFICIENCIES IN  2 
+ACCORDANCE WITH § 5–509 OF THIS SUBTITLE WIT HIN THE PAST 24 MONTHS ; 3 
+ 
+    3. CAN DEMONSTRATE , WITH DOCUMENTATION , 4 
+ACTIONS TAKEN TO ADD RESS DEFICIENCIES IN DICATED IN INSPECTIO N REPORTS 5 
+PREPARED BY THE DEPARTMENT ; AND 6 
+ 
+    4. HAVE DEMONSTRATED AN ABILITY TO R EPAY A LOAN . 7 
+ 
+  (3) EACH LOAN MAY BE IN A N AMOUNT THAT COVERS  THE 8 
+REASONABLE AND NECES SARY ELIGIBLE COSTS OF A PROJECT , AS DETERMINED BY 9 
+THE DEPARTMENT , FOR WHICH FUNDS ARE SOUGHT BY THE APPLIC ANT AND THAT 10 
+ARE NOT PROVIDED BY OTHER AVAILABLE SOUR CES. 11 
+ 
+  (4) A DAM OWNER MAY USE MU LTIPLE PROGRAMS OR S OURCES TO 12 
+FUND THE REPAIR OR R EMOVAL COSTS FOR A D AM IN AN UNSAFE COND ITION UP TO 13 
+100%  OF THE COSTS . 14 
+ 
+  (5) A DAM OWNER SEEKING A LOAN SHALL SUBMIT A COMPLETE LOAN 15 
+APPLICATION TO THE DEPARTMENT ON A FORM PROVID ED BY THE DEPARTMENT . 16 
+ 
+  (6) THE REPAYMENT PERIOD FOR A LOAN MAY NOT E XCEED 20 17 
+YEARS . 18 
+ 
+  (7) THE LOAN SHALL BE MAD E AT OR BELOW MARKET  INTEREST 19 
+RATES . 20 
+ 
+  (8) THE DEPARTMENT MAY CHARGE  A LOAN ORIGINATION F EE THAT 21 
+MAY BE USED FOR THE REASONABLE COST OF A DMIN ISTERING THE LOAN PR OGRAM . 22 
+ 
+  (9) IF THE DEPARTMENT DETERMINES  THAT A DAM OWNER DOE S 23 
+NOT HAVE THE FINANCI AL RESOURCES TO REPA Y A LOAN GRANTED UND ER THIS 24 
+SUBSECTION , THE DEPARTMENT MAY , AT THE DEPARTMENT ’S DISCRETION , 25 
+AUTHORIZE PARTIAL FO RGIVENESS OF THE LO AN. 26 
+ 
+  (10) FULL REPAYMENT OF THE  LOAN SHALL BE REQUIR ED ON SALE OR 27 
+TRANSFER OF THE PROP ERTY . 28 
+ 
+  (11) (I) THE DEPARTMENT MAY ESTABL ISH REMEDIES FOR LOA N 29 
+RECIPIENTS WHO FAIL TO MEET REPAYMENT OB LIGATIONS UNDER THE LOAN 30 
+TERMS . 31 
+ 
+ SENATE BILL 250  29 
+ 
+    (II) IN ADDITION TO ANY OTHER ACTION AUTHORI ZED BY THIS 1 
+SUBTITLE , THE ATTORNEY GENERAL MAY BRING AN ACTION TO RECOVER 2 
+PRINCIPAL , INTEREST , LATE FEES AND PENALT IES, ATTORNEY ’S FEES , AND COSTS 3 
+FROM ANY LOAN RECIPI ENT THAT DEFAULTS ON  THE LOAN RECIPIENT ’S 4 
+OBLIGATIONS UNDER TH E LOAN AGREEMENT . 5 
+ 
+   (III) 1. IN THE EVENT OF A DEF AULT ON A LOAN OBLIG ATION 6 
+ISSUED UNDER THIS SU BSECTION , THE DEPARTMENT MAY PLACE A LIEN AGAINST 7 
+THE PROPERTY THAT , SUBJECT TO THE TAX L IENS OF THE FEDERAL , STATE , AND 8 
+LOCAL GOVERNMENTS , SHALL HAVE THE SAME PRIOR ITY AND STATUS AS A LIEN OF 9 
+THE STATE FOR UNPAID TAXE S UNDER §§ 14–804 AND 14–805 OF THE  10 
+TAX – PROPERTY ARTICLE . 11 
+ 
+    2. THE DEPARTMENT MAY EXERCI SE THE SAME RIGHTS 12 
+AND POWERS IN ENFORC ING THE LIEN AND COL LECTING FUNDS FOR TH E PAYMENT 13 
+OF AMOUNTS IN DEFAUL T UNDER THE LOAN OBL IGATION AS THE STATE MAY 14 
+EXERCISE IN COLLECTI NG UNPAID TAXES UNDE R TITLE 14, SUBTITLE 8 OF THE  15 
+TAX – PROPERTY ARTICLE . 16 
+ 
+  (12) THE DEPARTMENT SHALL ADOP T REGULATIONS TO CAR RY OUT 17 
+THIS SUBSECTION . 18 
+ 
+ (I) ON OR BEFORE NOVEMBER 1, 2026,  AND EACH NOVEMBER 1 19 
+THEREAFTER , THE DEPARTMENT SHALL REPO RT TO THE GOVERNOR AND , SUBJECT 20 
+TO § 2–1257  OF THE STATE GOVERNMENT ARTICLE , THE GENERAL ASSEMBLY ON : 21 
+ 
+  (1) THE STATUS OF THE FUND; 22 
+ 
+  (2) REVENUES , ENCUMBRANCES TO , AND EXPENDITURES FRO M THE 23 
+FUND; 24 
+ 
+  (3) A DESCRIPTION OF THE P ROJECTS FUNDED BY TH E FUND; AND 25 
+ 
+  (4) THE NUMBER OF APPLICA TIONS FOR FINANCIAL ASSISTANCE 26 
+FROM THE FUND THAT WERE DENIED . 27 
+ 
+5–514. 28 
+ 
+ (a) (1) In addition to being subject to an injunctive action under this subtitle, 29 
+a person who v iolates any provision of this subtitle [relating to water appropriation and 30 
+use] or any [rule,] regulation, order, or permit adopted or issued under [any such provision ] 31 
+THIS SUBTITLE  is liable for a civil penalty not exceeding [$5,000 ] $10,000  per violation 32 
+to be collected in a civil action brought by the Department.  33 
+ 
+30 SENATE BILL 250   
+ 
+   (2) Each day a violation occurs or continues is a separate violation under 1 
+this subsection.  2 
+ 
+  (3) (i) Before bringing a civil action against a local government under 3 
+this subse ction, the Department shall meet and consult with the local government to seek 4 
+an alternative resolution to the contested issue.  5 
+ 
+   (ii) Prior consultation by the Department with the local government 6 
+shall constitute compliance with this subsection.  7 
+ 
+ (b) A person who violates a provision of this subtitle or a regulation adopted under 8 
+this subtitle is subject to the penalties provided in § 9 –343 of this article.  9 
+ 
+ (c) (1) [All] EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS 10 
+SUBSECTION , ALL funds collected by the Department under this section, including any 11 
+civil penalty or any fine imposed by a court under the provisions of this section, shall be 12 
+paid into the Maryland Clean Water Fund.  13 
+ 
+  (2) FUNDS COLLECTED BY TH E DEPARTMENT UNDER THIS  SECTION 14 
+RELATING TO AN  UNSAFE CONDITION , AS DEFINED IN § 5–509 OF THIS SUBTITLE , 15 
+SHALL BE PAID INTO T HE PRIVATE DAM REPAIR FUND. 16 
+ 
+6–843. 17 
+ 
+ (a) (1) Except as provided in this subsection and subsection (b) of this section, 18 
+and in cooperation with the Department of Housing and Community Development, the 19 
+State Department of Assessments and Taxation, and other appropriate governmental 20 
+units, the Departmen t shall provide for the collection of [an annual ] A fee for every rental 21 
+dwelling unit in the State.  22 
+ 
+  (2) [The annual fee for an affected property is $30 ] FOR AN AFFECTED  23 
+PROPERTY , THE FEE : 24 
+ 
+   (I) IS $120;  AND  25 
+ 
+   (II) SHALL BE COLLECTED BY  THE DEPARTME NT ONCE EVERY  26 
+2 YEARS .  27 
+ 
+  (3) (i) 1. Subject to the provisions of subparagraphs (ii) and (iii) of 28 
+this paragraph, on or before December 31, 2000, the  [annual ] fee for a rental dwelling unit 29 
+built after 1949 that is not an affected property is $5.  30 
+ 
+    2. After December 31, 2000, there is no [annual ] fee for a 31 
+rental dwelling unit built after 1949 that is not an affected property.  32 
+ 
+ SENATE BILL 250  31 
+ 
+    (ii) The owner of a rental dwelling unit built after 1949 that is not 1 
+an affected property may not be required to pay the f ee provided under this paragraph if 2 
+the owner certifies to the Department that the rental dwelling unit is lead free pursuant to 3 
+§ 6–804 of this subtitle.  4 
+ 
+   (iii) An owner of a rental dwelling unit who submits a report to the 5 
+Department that the rental d welling unit is lead free pursuant to § 6 –804 of this subtitle 6 
+shall include a [$10] $50 processing fee with the report.  7 
+ 
+ (b) The fees imposed under this section do not apply to any rental dwelling unit:  8 
+ 
+  (1) Built after 1978; or  9 
+ 
+  (2) Owned and operated by a unit of federal, State, or local government, or 10 
+any public, quasi –public, or municipal corporation.  11 
+ 
+ (c) (1) The fee imposed under this section shall be paid on or before December 12 
+31, 1995, or the date of registration of the affected property under Part III of this subtitle 13 
+and on or before December 31 [of each ] EVERY OTHER  year thereafter or according to a 14 
+sched ule established by the Department by regulation.  15 
+ 
+  (2) THE DEPARTMENT MAY ESTABL ISH A PROTOCOL TO ST AGGER  16 
+REGISTRATIONS OF AFF ECTED PROPERTY UNDER  PART III OF THIS SUBTITLE TO  17 
+EQUALLY DIVIDE REGIS TRATIONS OVER SEQUEN TIAL CALENDAR YEARS . 18 
+ 
+ (d) An owner who  fails to pay the fee imposed under this section is liable for a 19 
+civil penalty of up to triple the amount of each registration fee unpaid that, together with 20 
+all costs of collection, including reasonable attorney’s fees, shall be collected in a civil actio n 21 
+in any court of competent jurisdiction.  22 
+ 
+7–503. 23 
+ 
+ (a) There is a Voluntary Cleanup Program in the Department.  24 
+ 
+ (b) The purpose of the Voluntary Cleanup Program is to:  25 
+ 
+  (1) Encourage the investigation of eligible properties with known or 26 
+perceived cont amination;  27 
+ 
+  (2) Protect public health and the environment where cleanup projects are 28 
+being performed or need to be performed;  29 
+ 
+  (3) Accelerate cleanup of eligible properties; and  30 
+ 
+  (4) Provide predictability and finality to the cleanup of eligible properties.  31 
+ 
+32 SENATE BILL 250   
+ 
+ 7–506. 1 
+ 
+ (a) (1) To participate in the Program, an applicant shall:  2 
+ 
+   (i) Submit an application, on a form provided by the Department, 3 
+that includes:  4 
+ 
+    1. Information demonstrating to the satisfaction of the 5 
+Department that the contamination did not result from the applicant knowingly or willfully 6 
+violating any law or regulation concerning controlled hazardous substances;  7 
+ 
+    2. Information demonstrating the person’s status as a 8 
+responsible person or an inculpable person;  9 
+ 
+    3. Information demonstrating that the property is an eligible 10 
+property as defined in § 7 –501 of this subtitle;  11 
+ 
+    4. A detailed report with all available relevant information 12 
+on environmental conditions including contamination at the eligible property kno wn to the 13 
+applicant at the time of the application;  14 
+ 
+    5. An environmental site assessment that includes:  15 
+ 
+    A. Established Phase I site assessment standards and follows 16 
+principles established by the American Society for Testing and Materials and that 17 
+demonstrates to the satisfaction of the Department that the assessment has been conducted 18 
+in accordance with those standards and principles; and  19 
+ 
+    B. A Phase II site assessment unless the Department 20 
+concludes, after review of the Phase I site assessment , that there is sufficient information 21 
+to determine that there are no recognized environmental conditions, as defined by the 22 
+American Society for Testing and Materials; and  23 
+ 
+    6. A description, in summary form, of a proposed voluntary 24 
+cleanup project that includes the proposed cleanup criteria under § 7 –508 of this subtitle 25 
+and the proposed future use of the property, if appropriate; and  26 
+ 
+   (ii) Subject to paragraph (2) of this subsection, pay to the 27 
+Department:  28 
+ 
+    1. An initial application fee of [$6,000 ] $10,000  which the 29 
+Department may reduce on a demonstration of financial hardship in accordance with 30 
+subsection (b) of this section;  31 
+ 
+    2. An application fee of $2,000 for each application submitted 32 
+subsequent to the initial application for the sa me property; [and] 33 
+ 
+ SENATE BILL 250  33 
+ 
+     3. An application fee of $2,000 for each application submitted 1 
+subsequent to the initial application for contiguous or adjacent properties that are part of 2 
+the same planned unit development or a similar development plan ; AND  3 
+ 
+    4. IF THE DIRECT COSTS O F REVIEW OF THE  4 
+APPLICATION AND ADMI NISTRATION AND OVERS IGHT OF THE RESPONSE  ACTION  5 
+PLAN EXCEED THE APPL ICATION FEE , THE ADDITIONAL COSTS  INCURRED BY THE  6 
+DEPARTMENT . 7 
+ 
+  (2) If an applicant certifies that the applicant intends to use t he eligible 8 
+property to generate clean or renewable energy, the Department shall waive the fees 9 
+required under paragraph (1)(ii) of this subsection.  10 
+ 
+ (b) The Department shall adopt regulations to establish criteria for determining 11 
+whether an applicant has: 12 
+ 
+  (1) Demonstrated financial hardship; or  13 
+ 
+  (2) Certified that the applicant intends to use the eligible property to 14 
+generate clean or renewable energy.  15 
+ 
+9–283. 16 
+ 
+ (a) Except as provided in subsection (c) of this section, by regulation, the 17 
+Departmen t shall establish and collect a fee to be paid by a generator of coal combustion 18 
+by–products, based on a per ton rate of coal combustion by –products generated by the 19 
+generator annually.  20 
+ 
+ (b) The Department shall base the fees on the following factors:  21 
+ 
+  (1) The total annual tonnage of coal combustion by –products that the 22 
+generator generates;  23 
+ 
+  (2) The type and volume of coal combustion by –products generated by the 24 
+generator;  25 
+ 
+  (3) Whether the generator uses or disposes of the coal combustion  26 
+by–product s; 27 
+ 
+  (4) To the extent that the coal combustion by –products are used rather 28 
+than disposed of, the types of the uses;  29 
+ 
+  (5) Whether the coal combustion by –products are transported for use or 30 
+disposal out –of–state; [and] 31 
+ 
+34 SENATE BILL 250   
+ 
+   (6) THE VOLUME OF COAL CO MBUSTIO N BY–PRODUCTS THAT HAVE 1 
+BEEN DISPOSED OF AND  REMAIN IN LANDFILLS OR OTHER STORAGE UNI TS IN THE 2 
+STATE THAT ARE SUBJEC T TO INSPECTION AND MONITORING , NOT INCLUDING COAL 3 
+COMBUSTION BY –PRODUCTS THAT HAVE B EEN: 4 
+ 
+   (I) ADDED TO CEMENT PRODU CTS;  5 
+ 
+   (II) USED IN COAL MINE RECLAMA TION ; OR 6 
+ 
+   (III) BENEFICIALLY REUSED I N A MANNER ACCEPTABL E TO THE 7 
+DEPARTMENT ; AND 8 
+ 
+  (7) Other factors the Department considers appropriate.  9 
+ 
+ (c) The Department may not establish or impose a fee on coal combustion  10 
+by–products that are: 11 
+ 
+  (1) Beneficially used, as the Department determines; or  12 
+ 
+  (2) Used for coal mine reclamation in accordance with regulations the 13 
+Department adopts or with regulations of the receiving state.  14 
+ 
+ (d) Fees imposed on coal combustion by –products that ar e transported for use or 15 
+disposal out –of–state may not exceed 50% of the fees established for disposal in –State.  16 
+ 
+ (e) The fees collected by the Department under this section shall be deposited into 17 
+the Fund and used in accordance with § 9 –284 of this subt itle. 18 
+ 
+ (f) The fees imposed shall be set at the rate necessary to implement the purposes 19 
+set forth in § 9 –284 of this subtitle.  20 
+ 
+ (g) In any fiscal year, if the fee schedule established by the Department generates 21 
+revenue that exceeds the amount necessary  to operate a regulatory program to control the 22 
+management of coal combustion by –products, the Department shall reduce the fees in the 23 
+following fiscal year.  24 
+ 
+9–320. 25 
+ 
+ (b) The following payments shall be made into the Maryland Clean Water Fund:  26 
+ 
+  (1) All application fees, permit fees, renewal fees, and funds collected by 27 
+the Department under this subtitle, including any civil or administrative penalty or any 28 
+fine imposed by a court under the provisions of this subtitle;  29 
+ 
+  (2) Any civil penalty or any fine  imposed by a court under the provisions of 30 
+Title 5, Subtitle 5 of this article relating to water appropriation and use;  31 
+ SENATE BILL 250  35 
+ 
+  
+  (3) Any civil or administrative penalty or any fine imposed by a court under 1 
+the provisions of Title 4, Subtitle 1 of this article;  2 
+ 
+  (4) Any fees or funds that the Department collects under Subtitle 2, Part 3 
+III of this title and §§ 9 –269 and 9 –270 of this title and any civil or administrative penalty 4 
+or fine imposed by a court under the provisions of Subtitle 2 of this title; [and] 5 
+ 
+  (5) Any fees or funds that the Department collects under Subtitle 24 of this 6 
+title and any civil or administrative penalty or fine imposed by a court under the provisions 7 
+of Subtitle 24 of this title ; AND  8 
+ 
+  (6) ANY OTHER FEES LEGALL Y AUTHORIZED TO BE P AID INTO THE 9 
+MARYLAND CLEAN WATER FUND .  10 
+ 
+9–1606.  11 
+ 
+ (a) (1) A loan made by the Administration shall be evidenced by a loan 12 
+agreement.  13 
+ 
+  (2) Loans made from the Water Quality Fund, except for loans made in 14 
+accordance with § 9 –1605(d)(9) of this subtitle, s hall be subject to the provisions of §  15 
+9–1605(d)(1) of this subtitle.  16 
+ 
+  (3) Loans made from the Drinking Water Loan Fund, except for loans made 17 
+in accordance with § 9 –1605.1(d)(10) of this subtitle, shall be subject to the provisions of §  18 
+9–1605.1(d)(1 ) of this subtitle.  19 
+ 
+  (4) LOANS MADE FROM THE PRIVATE DAM REPAIR FUND SHALL BE 20 
+SUBJECT TO THE PROVI SIONS OF § 5–509.2  OF THIS ARTICLE .  21 
+ 
+  (5) Subject to the provisions of any applicable bond resolution, the 22 
+Administration may consent to the modification, with respect to rate of interest, time of 23 
+payment of any installment of principal or interest, security, or any other term of any loan 24 
+agreemen t or loan obligation.  25 
+ 
+  (6) In connection with any security received by or owned by the 26 
+Administration, including any loan obligations, the Administration may commence any 27 
+action to protect or enforce the rights conferred upon it by any law or loan agree ment or 28 
+loan obligation.  29 
+ 
+ (b) Notwithstanding any other provision of public general or public local law, 30 
+charter, or ordinance, a borrower may issue and sell loan obligations to the Administration:  31 
+ 
+  (1) At private sale, without public bidding;  32 
+ 
+36 SENATE BILL 250   
+ 
+   (2) Without regard to any limitations on the denomination of such 1 
+obligations; and  2 
+ 
+  (3) At any interest rate or cost or at any price that the borrower considers 3 
+necessary or desirable.  4 
+ 
+ (c) A borrower may pay any fees or charges necessary to enable the 5 
+Admi nistration to sell its bonds, including any fees for the insurance of its loan obligations 6 
+or bonds of the Administration, or to provide any other guarantee, credit enhancement, or 7 
+additional security for any such loan obligations or bonds.  8 
+ 
+ (d) (1) Notwi thstanding any other provision of public general or public local 9 
+law, charter, or ordinance, a borrower may agree with the Administration to pledge any 10 
+[moneys ] MONEY  that the borrower is entitled to receive from the State, including the 11 
+borrower’s share o f the State income tax, to secure its obligations under a loan agreement.  12 
+ 
+  (2) The State Comptroller and the State Treasurer shall cause any 13 
+[moneys ] MONEY  withheld under such a pledge to be paid to, or applied at the direction of, 14 
+the Administration.  15 
+ 
+ (e) Each loan agreement shall contain a provision whereby the borrower 16 
+acknowledges and agrees that [the]:  17 
+ 
+  (1) THE borrower’s loan obligation is cancelable only upon repayment in 18 
+full; and [that neither ] 19 
+ 
+  (2) NEITHER  the Administration, the Secretar y, nor the Board is 20 
+authorized to forgive the repayment of all or any portion of the loan, except for [loans ]:  21 
+ 
+   (I) LOANS  to disadvantaged communities, pursuant to the federal 22 
+Safe Drinking Water Act [, and loans ];  23 
+ 
+   (II) LOANS  made in accordance with §§ 9 –1605(d)(9) and  24 
+9–1605.1(d)(10) of this subtitle ; AND  25 
+ 
+   (III) LOANS MADE IN ACCORDA NCE WITH § 5–509.2( H) OF THIS 26 
+ARTICLE . 27 
+ 
+ (f) (1) In the event of a default on a loan obligation by a borrower other than 28 
+a local government,  the Administration may place a lien against property of the borrower 29 
+securing the loan which, subject to the tax liens of the federal, State, and local governments, 30 
+shall have the same priority and status as a lien of the State for unpaid taxes under §§  31 
+14–804 and 14 –805 of the Tax – Property Article.  32 
+ 
+  (2) The Administration may exercise the same rights and powers in 33 
+enforcing such lien and collecting funds for the payment of amounts in default under the 34 
+ SENATE BILL 250  37 
+ 
+ loan obligation as the State may exercise in collecting unpaid taxes under Title 14, Subtitle 1 
+8 of the Tax – Property Article.  2 
+ 
+15–807. 3 
+ 
+ (a) Except as otherwise provided in this subtitle, a person may not engage in 4 
+surface mining within the State without first obtaining a surface mining license.  5 
+ 
+ (b) (1) An application for a license shall be in writing and on a form prepared 6 
+and furnished by the Department.  7 
+ 
+  (2) If the application is made by a corporation, partnership, or association 8 
+[it] THE APPLICATION  shall contain information concerning its officers, directors, and 9 
+principal owners, as the Department reasonably requires.  10 
+ 
+ (c) (1) The application shall be accompanied by a [$300] $500  fee.  11 
+ 
+  (2) (I) The license shall be renewable annually [, and the ]. 12 
+ 
+   (II) THE renewal fee is [$150] $300 . 13 
+ 
+   (III) The application for renewal shall be made annually by January 14 
+1. 15 
+ 
+ (d) The Department may not issue any new surface mining license or renew any 16 
+existing surface mining license to any person if it finds, a fter investigation, that the 17 
+applicant has failed and continues to fail to comply with any of the provisions of this 18 
+subtitle.  19 
+ 
+ (e) A license under this section is not required for the following activities:  20 
+ 
+  (1) Those aspects of deep mining that do not have a significant effect on the 21 
+surface, if the affected land does not exceed 3 acres in area;  22 
+ 
+  (2) Operations engaged in processing minerals;  23 
+ 
+  (3) Excavation or grading conducted solely in aid of on –site farming or  24 
+on–site construction for purposes other than surface mining;  25 
+ 
+  (4) Removal of overburden and mining of limited amounts of any mineral 26 
+when done only for the purpose of prospecting and to the extent necessary to determine the 27 
+location, quantity, or quality of any natural deposit, if no minerals are sold, processed for 28 
+sale, or consumed in the regular operation of business;  29 
+ 
+38 SENATE BILL 250   
+ 
+   (5) The handling, processing, or storage of slag and stone on the premises 1 
+of a manufacturer as a part of any manufacturing process that requires stone as a raw 2 
+material or produces slag as a by –product;  3 
+ 
+  (6) The extraction of minerals by a landowner for the landowner’s own 4 
+noncommercial use from land owned or leased by the landowner;  5 
+ 
+  (7) Mining operations if the affected land does not exceed 1 acre in area;  6 
+ 
+  (8) Dredging from submerged public or private lands in the State if this 7 
+activity is conducted under a license from the State Board of Public Works or by permit 8 
+from the Department, as provided for in Title 16 of this article; or  9 
+ 
+  (9) The extraction of s and, gravel, rock, stone, earth, or fill from borrow pits 10 
+for highway construction purposes or other public facilities, if the work is performed under 11 
+a bond, a contract, and the specifications of the Department that require reclamation of the 12 
+area affecte d in the manner provided by this subtitle.  13 
+ 
+ (f) (1) Any person who violates the provisions of this section is guilty of a 14 
+misdemeanor and, on conviction, is subject to a fine of not more than $10,000.  15 
+ 
+  (2) The fine shall be paid to the Surface Mined Land Reclamation Fund.  16 
+ 
+15–815. 17 
+ 
+ (a) (1) Any permittee engaged in surface mining under a surface mining 18 
+permit may apply at any time for modification of the permit.  19 
+ 
+  (2) The application shall be in writing on forms furnished by the 20 
+Department and fully  state the information called for. [In addition, the ] 21 
+ 
+  (3) THE applicant may be required to furnish [other ] ADDITIONAL  22 
+information THAT  the Department reasonably deems necessary to enforce this subtitle.  23 
+[However, it is not necessary to resubmit information which has not changed since the 24 
+original application, if the applicant so states in writing ]  25 
+ 
+  (4) IF AN APPLICANT STATE S IN WRITING THAT IN FORMATION HAS  26 
+NOT CHANGED SINCE TH E ORIGINAL APPLICATI ON, THE APPLICANT DOES N OT HAVE  27 
+TO RESUBMIT THAT  INFORMATION . 28 
+ 
+ (b) (1) A modification under this section may affect [the]: 29 
+ 
+   (I) THE land area covered by the permit [, the];  30 
+ 
+   (II) THE approved mining and reclamation plan coupled with the 31 
+permit [, or other ]; OR 32 
+ SENATE BILL 250  39 
+ 
+  
+   (III) OTHER  terms and conditions of the permit.  1 
+ 
+  (2) (I) A permit may be modified to include land contiguous to the 2 
+existing affected land, but not other lands.  3 
+ 
+   (II) The mining and reclamation plan may be modified in any 4 
+manner, if the Department determines t hat the modified plan fully meets the standards 5 
+set forth in § 15 –822 of this subtitle and that the modifications would be generally 6 
+consistent with the bases for the issuance of the original permit.  7 
+ 
+   (III) Other terms and conditions may be modified on ly if the 8 
+Department determines that the permit as modified would meet the requirements of §§  9 
+15–808 and 15 –810 of this subtitle. [No] 10 
+ 
+   (IV) A modification may NOT  extend the expiration date of any 11 
+permit issued under this subtitle.  12 
+ 
+ (c) Except as oth erwise provided in subsection (d) of this section, a [$100] $200  13 
+fee shall be charged for a permit modification.  14 
+ 
+ (d) (1) In addition to the fee required in subsection (c) of this section, a fee shall 15 
+be charged equal to [$12] $75 for each additional acre  of affected land over and above the 16 
+amount of land covered in the original permit, for each year of operation.  17 
+ 
+  (2) The additional fee may not exceed [$1,000 per year ]: 18 
+ 
+   (I) $10,000  IN FISCAL YEAR 2026;   19 
+ 
+   (II) $10,500  IN FISCAL YEAR 2027;   20 
+ 
+   (III) $11,000  IN FISCAL YEAR 2028;   21 
+ 
+   (IV) $11,500  IN FISCAL YEAR 2029;  AND  22 
+ 
+   (V) $12,000  IN FISCAL YEAR 2030  AND EACH FISCAL YEAR  23 
+THEREAFTER . 24 
+ 
+ (e) The Department shall approve and grant the permit modification requested 25 
+as expeditiously as possible but not later than 30 days after the application forms or any 26 
+supplemental information required are filed with the Department.  27 
+ 
+ (f) The Department may deny the permit modification on finding:  28 
+ 
+  (1) An uncorrected violation of the type listed in § 15 –810(b)(7 ) of this 29 
+subtitle;  30 
+40 SENATE BILL 250   
+ 
+  
+  (2) Failure to submit an adequate mining and reclamation plan in light of 1 
+conditions existing at the time of the modification; or  2 
+ 
+  (3) Failure or refusal to pay the modification fee.  3 
+ 
+ (g) If the Department denies an application to  modify a permit, the Department 4 
+shall give the permittee written notice of:  5 
+ 
+  (1) The Department’s determination;  6 
+ 
+  (2) Any changes in the application which would make it acceptable; and  7 
+ 
+  (3) The permittee’s right to a hearing at a stated time and pla ce. 8 
+ 
+ (h) The date for the hearing may not be less than 15 days nor more than 30 days 9 
+after the date of the notice unless the Department and the permittee mutually agree on 10 
+another date.  11 
+ 
+15–816. 12 
+ 
+ (a) (1) The procedure to be followed and standards to be applied in renewing a 13 
+permit shall be the same as those for the initial application for a permit [, except that it is 14 
+not necessary to resubmit information which has not changed since the time of the original 15 
+application, if the applicant so states in writi ng. However, the applicant may be required ].  16 
+ 
+  (2) IF AN APPLICANT STATE S IN WRITING THAT IN FORMATION HAS  17 
+NOT CHANGED SINCE TH E ORIGINAL APPLICATI ON, THE APPLICANT DOES N OT HAVE  18 
+TO RESUBMIT THAT INF ORMATION . 19 
+ 
+  (3) THE DEPARTMENT MAY REQUIR E AN APPLICANT  to furnish other 20 
+information the Department deems necessary to evaluate the renewal request.  21 
+ 
+  (4) In the absence of any changes in legal requirements for the issuance of 22 
+a permit since the date on which the original permit was issued, the only basis for  the denial 23 
+of a renewal permit shall be:  24 
+ 
+  [(1)] (I) An uncorrected violation of the type listed in § 15 –810(b)(7) of 25 
+this subtitle;  26 
+ 
+  [(2)] (II) Failure to submit an adequate mining and reclamation plan in 27 
+light of conditions existing at the time of re newal; or  28 
+ 
+  [(3)] (III) Failure or refusal to pay the renewal fee.  29 
+ 
+ SENATE BILL 250  41 
+ 
+  (b) Application for a renewal of a permit cannot be made any earlier than 1 year 1 
+prior to the expiration date of the original permit.  2 
+ 
+ (c) Except as otherwise provided in subsection (d)  of this section, the fee to be 3 
+charged for a permit renewal shall be [$12 for each acre of affected land for each year of 4 
+operation, but not exceeding $1,000 per year ]: 5 
+ 
+  (1) FOR AN OPERATOR WITH 5 ACRES OR LESS OF AFF ECTED LAND , 6 
+$120  FOR EACH YEAR OF OPERATION ; OR 7 
+ 
+  (2) FOR AN OPERATOR WITH MORE THAN 5 ACRES OF AFFECTED  8 
+LAND , $75 FOR EACH ACRE OF AFF ECTED LAND FOR EACH YEAR OF OPERATION BU T 9 
+NOT EXCEEDING : 10 
+ 
+   (I) $10,000  IN FISCAL YEAR 2026;   11 
+ 
+   (II) $10,500  IN FISCAL YEAR 2027;   12 
+ 
+   (III) $11,000  IN FISCAL YEAR 2028;   13 
+ 
+   (IV) $11,500  IN FISCAL YEAR 2029;  AND  14 
+ 
+   (V) $12,000  IN FISCAL YEAR 2030  AND EACH FISCAL YEAR  15 
+THEREAFTER . 16 
+ 
+ (d) The fee shall be paid annually during the term of the permit.  17 
+ 
+ (e) (1) If the term of a permit which is renewed exceeds 5 years, the permittee 18 
+shall pay additional fees, based on the formula in subsection (c) of this section, for each  19 
+5–year portion of the term of the renewed permit.  20 
+ 
+  (2) These additional fees shall be pa id to the Department within 1 year 21 
+before the completion of any 5 –year portion of the term of the permit.  22 
+ 
+ (f) If the Department denies an application to renew a permit, the Department 23 
+shall give the permittee written notice of:  24 
+ 
+  (1) The Department’s de termination;  25 
+ 
+  (2) Any changes in the application that would make it acceptable; and  26 
+ 
+  (3) The permittee’s right to a hearing at a stated time and place.  27 
+ 
+ (g) The date for the hearing may not be less than 15 days nor more than 30 days 28 
+after the date of the notice unless the Department and the permittee mutually agree on 29 
+another date.  30 
+42 SENATE BILL 250   
+ 
+  
+Article – State Finance and Procurement  1 
+ 
+6–226. 2 
+ 
+ (a) (1) Except as otherwise specifically provided by law or by regulation of the 3 
+Treasurer, the Treasurer shall credit to the General Fund any interest on or other income 4 
+from State money that the Treasurer invests.  5 
+ 
+  (2) (i) 1. This subparagraph does not apply in fiscal years 2024 6 
+through 2028.  7 
+ 
+    2. Notwithstanding any other provision of law, and unless 8 
+inconsistent with  a federal law, grant agreement, or other federal requirement or with the 9 
+terms of a gift or settlement agreement, net interest on all State money allocated by the 10 
+State Treasurer under this section to special funds or accounts, and otherwise entitled to 11 
+receive interest earnings, as accounted for by the Comptroller, shall accrue to the General 12 
+Fund of the State.  13 
+ 
+   (ii) The provisions of subparagraph (i) of this paragraph do not apply 14 
+to the following funds:  15 
+ 
+    204. the Victims of Domestic Violence Prog ram Grant Fund; 16 
+[and] 17 
+ 
+    205. the Proposed Programs Collaborative Grant Fund ; AND  18 
+ 
+    206. THE PRIVATE DAM REPAIR FUND . 19 
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That Section(s) 4 –411(e) through 20 
+(g) of Article – Environment of the Annotated Code of Maryland be renumbered to be 21 
+Section(s) 4 –411(d) through (f), respectively.  22 
+ 
+ SECTION 4. 3. AND BE IT FURTHER ENACTED, That this Act may not be 23 
+construed to expand the definition or scope of what is considered a dam under State law 24 
+and regulation.  25 
+ 
+ SECTI ON 5. 4. AND BE IT FURTHER ENACTED, That Sections 2, 3, and 4 of this 26 
+Act shall take effect July 1, 2025.  27 
+ 
+ SECTION 5. AND BE IT FURTHER ENACTED, That the Department of the 28 
+Environment shall notify the owner of a dam included in the Maryland Dam Inventory of 29 
+the registration fee required under § 5 –509.1 of the Environment Article, as enacted by 30 
+Section 2 of this Act, as follows:  31 
+ 
+  (1) on or before October 1, 2025; and  32 
+ 
+ SENATE BILL 250  43 
+ 
+   (2) on or before October 1, 2026.   1 
+ 
+ SECTION 6. AND BE IT FURTHER ENACTED, That, except as provided in Section 2 
+5 4 of this Act, this Act shall take effect June 1, 2025.  3 
+ 
+ 
+ 
+Approved:  
+________________________________ ________________________________ ________________   
+           Governor.  
+________________________________ ________________________________ ________________   
+                 President of the Senate.  
+________________________________ ________________________________ ________________   
+         Speaker of the House of Delegates.  

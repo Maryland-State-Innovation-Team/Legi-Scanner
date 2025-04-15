@@ -1,0 +1,838 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.             *hb1294*      
+HOUSE BILL 1294  
+I2, I3    5lr1545  
+      
+By: Delegate Wilson  Delegates Wilson and Amprey  
+Introduced and read first time: February 7, 2025  
+Assigned to: Economic Matters  
+Committee Report: Favorable with amendments  
+House action: Adopted  
+Read second time: March 4, 2025  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Commercial Law – Credit Regulation – Earned Wage Access and Credit 2 
+Modernization  3 
+ 
+FOR the purpose of subjecting certain earned wage access products to the Maryland 4 
+Consumer Loan Law and other provisions that regulate entities that provide 5 
+consumer credit , revolving credit, and closed end credit ; restricting the acceptance of 6 
+tips by certain lenders under certain circumstances; providing for the licensing or 7 
+registration of certain entities offering earned wage access products with certain 8 
+exemptions; regulating earned wage access service agreements; limiting the costs 9 
+and fees associated with obtaining an earned wage access product; and generally 10 
+relating to consumer lending and earned wage access.  11 
+ 
+BY repealing and reenacting, with amendments,  12 
+ Article – Commercial Law  13 
+ Section 12 –101, and 12–301, 12–901, and 12 –1001  14 
+ Annotated Code of Maryland  15 
+ (2013 Replacement Volume and 2024 Supplement)  16 
+ 
+BY adding to  17 
+ Article – Commercial Law  18 
+Section 12 –128, 12 –318, and 12–319, 12–927, and 12 –1031 ; and 12 –1501 through  19 
+12–1507 to be under the new subtitle “Subtitle 15. Earned Wage Access”  20 
+ Annotated Code of Maryland  21 
+ (2013 Replacement Volume and 2024 Supplement)  22 
+ 
+2 HOUSE BILL 1294   
+ 
+  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 1 
+That the Laws of Maryland read as follows:  2 
+ 
+Article – Commercial Law  3 
+ 
+12–101. 4 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  5 
+ 
+ (b) “Borrower” means a person who borrows money under this subtitle.  6 
+ 
+ (c) “Commercial loan” means a loan which is made:  7 
+ 
+  (1) Solely to acquire or carry on a business or commercial enterprise; or  8 
+ 
+  (2) To any business or commercial organiza tion. 9 
+ 
+ (d) “Effective rate of simple interest” means the yield to maturity rate of interest 10 
+received or to be received by a lender on the face amount of a loan, computed in accordance 11 
+with § 12 –107 of this subtitle.  12 
+ 
+ (e) “Interest” means, except as speci fically provided in § 12 –105 of this subtitle 13 
+OR § 12–1501  OF THIS TITLE , any compensation directly or indirectly imposed by a lender 14 
+for the extension of credit for the use or forbearance of money, including any loan fee, 15 
+origination fee, service and carr ying charge, investigator’s fee, time –price differential, and 16 
+any amount payable as a discount or point or otherwise payable for services.  17 
+ 
+ (f) “Lender” means a licensee or a person who makes a loan subject to this 18 
+subtitle.  19 
+ 
+ (g) “Licensee” means a perso n that is required to be licensed to make loans subject 20 
+to this subtitle, regardless of whether the person is actually licensed.  21 
+ 
+ (h) (1) “Loan” means a loan or an advance of money or credit subject to this 22 
+subtitle, regardless of whether the loan or adva nce of money or credit is or purports to be 23 
+made under this subtitle.  24 
+ 
+  (2) “Loan” does not include:  25 
+ 
+   (i) A loan or advance of money or credit subject to Subtitle 3 of this 26 
+title, unless a written election is made under § 12 –101.1 of this subtitle;  27 
+ 
+   (ii) A plan or loan for which a written election is made under Subtitle 28 
+3, Subtitle 4, Subtitle 9, or Subtitle 10 of this title; or  29 
+ 
+   (iii) An installment sale agreement as defined in § 12 –601 of this 30 
+title.  31 
+ HOUSE BILL 1294  3 
+ 
+  
+ [(h–1)] (I) “Mobile home” has the meaning s tated in § 11 –501 of the Financial 1 
+Institutions Article.  2 
+ 
+ [(i)] (J) “Person” includes an individual, corporation, business trust, statutory 3 
+trust, estate, trust, partnership, association, two or more persons having a joint or common 4 
+interest, or any other  legal or commercial entity.  5 
+ 
+ [(j)] (K) “Point” means a fee, premium, bonus, loan origination fee, service 6 
+charge, or any other charge equal to 1 percent of the principal amount of a loan which is 7 
+charged by the lender at or before the time the loan is ma de as additional compensation for 8 
+the loan.  9 
+ 
+ [(k)] (L) “Simple interest” means interest charged on the principal amount 10 
+loaned to the borrower.  11 
+ 
+ [(l)] (M) “Stated rate of interest” means the annual rate of interest stated in 12 
+percentage which appears on t he face of the bond, draft, mortgage, deed of trust, security 13 
+agreement, promissory note, or other instrument which evidences the indebtedness.  14 
+ 
+ (N) (1) “TIP” MEANS A VOLUNTARY PA YMENT BY A CONSUMER TO A 15 
+LENDER OR THIRD PART Y WHO PROVIDES OR AR RANGES A LO AN: 16 
+ 
+   (I) MADE AT THE TIME OF T HE TRANSACTION IN RE COGNITION 17 
+OF THE LENDER ’S OR THIRD PARTY ’S PROVISION OR ARRAN GEMENT OF THE LOAN ; 18 
+ 
+   (II) MADE AT THE SOLE DISC RETION OF THE CONSUM ER; AND 19 
+ 
+   (III) THAT DOES NOT AFFECT THE WILLINGNESS OF T HE LENDER 20 
+OR THIRD PARTY TO PROVI DE OR ARRANGE THE LO AN OR ANY FUTURE LOA N OR 21 
+AFFECT THE TERMS OF ANY LOAN . 22 
+ 
+  (2) “TIP” DOES NOT INCLUDE ANY  PAYMENT MADE BY A CO NSUMER 23 
+FOR EXPEDITED PROCES SING OR DISBURSEMENT  OR FOR A MEMBERSHIP , 24 
+REGISTRATION , OR SUBSCRIPTION FEE . 25 
+ 
+ [(m)] (O) “Usury” means the charging of interest by a lender in an amount which 26 
+is greater than that allowed by this subtitle.  27 
+ 
+ [(n)] (P) “Wages” means all remuneration paid to any employee for the 28 
+employee’s employment, including the cash value of all rem uneration paid in any medium 29 
+other than cash.  30 
+ 
+12–128. 31 
+ 
+4 HOUSE BILL 1294   
+ 
+  (A) A LENDER WHO GIVES CON SUMERS AN OPTION TO PROVIDE THE 1 
+LENDER A TIP SHALL : 2 
+ 
+  (1) DISCLOSE TO THE CONSU MER TO WHOM THE TIP WILL BE 3 
+ALLOCATED ; AND 4 
+ 
+  (2) SET THE DEFAULT TIP AT Z ERO. 5 
+ 
+ (B) A LENDER  MAY NOT DIRECTLY OR INDIRECTLY SUGGEST T HAT 6 
+PROVIDING A TIP WILL  INFLUENCE : 7 
+ 
+  (1) THE LENDER ’S WILLINGNESS TO PRO VIDE A LOAN TO A 8 
+CONSUMER AT ANY TIME ; OR 9 
+ 
+  (2) THE TERMS OF ANY LOAN  OFFERED TO THE CONSU MER BY THAT 10 
+LENDER . 11 
+ 
+ (C) A LENDER WHO RECEIVES A TIP THAT WOULD OTHER WISE CREATE A 12 
+RATE OF INTEREST ABO VE THAT ALLOWED UNDE R THIS SUBTITLE MAY NOT BE 13 
+FOUND IN VIOLATION O F THIS SUBTITLE IF T HE LENDER RETURNS AL L OF THE TIP 14 
+OR THAT PORTION OF T HE TIP NECESSARY TO REDUCE THE RATE OF I NTEREST TO 15 
+AN AMOUNT A LLOWED UNDER THIS SU BTITLE WITHIN 30 CALENDAR DAYS AFTER 16 
+RECEIVING THE TIP . 17 
+ 
+ (D) A LENDER SHALL PROMINE NTLY DISCLOSE THAT : 18 
+ 
+  (1) PROVIDING A TIP DOES NOT INFLUENCE THE LE NDER’S 19 
+WILLINGNESS TO PROVI DE A LOAN TO THE CON SUMER AT ANY TIME ; AND 20 
+ 
+  (2) ANY TIP  PAID BY THE CONSUMER  DOES NOT INURE TO TH E DIRECT 21 
+BENEFIT OF ANY SPECI FIC EMPLOYEE OF THE LENDER OR ANY OTHER INDIVIDUAL . 22 
+ 
+12–301. 23 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  24 
+ 
+ (b) “Commissioner” means the Commissioner of Financial Regulation.  25 
+ 
+ (C) “INTEREST ” HAS THE MEANING STAT ED IN § 12–101 OF THIS TITLE . 26 
+ 
+ [(c)] (D) “Lender” means a licensee or a person who makes a loan subject to this 27 
+subtitle.  28 
+ 
+ HOUSE BILL 1294  5 
+ 
+  [(d)] (E) “Licensee” means a person who is required to be licensed under  Title 1 
+11, Subtitle 2 of the Financial Institutions Article, the Maryland Consumer Loan Law  2 
+– Licensing Provisions, regardless of whether the person is actually licensed.  3 
+ 
+ [(e)] (F) (1) “Loan” means any loan or advance of money or credit subject to 4 
+this subtitle, regardless of whether the loan or advance of money or credit is or purports to 5 
+be made under this subtitle.  6 
+ 
+  (2) “Loan” does not include an installment sale agreement as defined in § 7 
+12–601 of this title.  8 
+ 
+ [(f)] (G) “Person” includes an indivi dual, corporation, business trust, statutory 9 
+trust, estate, trust, partnership, association, two or more persons having a joint or common 10 
+interest, or any other legal or commercial entity.  11 
+ 
+ (H) “TIP” HAS THE MEANING STAT ED IN § 12–101 OF THIS TITLE . 12 
+ 
+ [(g)] (I) “Wages” means all remuneration paid to any employee for the 13 
+employee’s employment, including the cash value of all remuneration paid in any medium 14 
+other than cash.  15 
+ 
+12–318. 16 
+ 
+ (A) A LENDER WHO GIVES CON SUMERS AN OPTION TO PROVIDE THE 17 
+LENDER A TIP S HALL : 18 
+ 
+  (1) DISCLOSE TO THE CONSU MER TO WHOM THE TIP WILL BE 19 
+ALLOCATED ; AND 20 
+ 
+  (2) SET THE DEFAULT TIP AT Z ERO. 21 
+ 
+ (B) A LENDER MAY NOT DIREC TLY OR INDIRECTLY SU GGEST THAT 22 
+PROVIDING A TIP WILL  INFLUENCE : 23 
+ 
+  (1) THE LENDER ’S WILLINGNESS TO PRO VIDE A LOAN TO  A 24 
+CONSUMER AT ANY TIME ; OR 25 
+ 
+  (2) THE TERMS OF ANY LOAN  OFFERED TO THE CONSU MER BY THAT 26 
+LENDER . 27 
+ 
+ (C) A LENDER WHO RECEIVES A TIP THAT WOULD OTH ERWISE CREATE A 28 
+RATE OF INTEREST ABO VE THAT ALLOWED UNDE R THIS SUBTITLE MAY NOT BE 29 
+FOUND IN VIOLATION O F THIS S UBTITLE IF THE LENDE R RETURNS ALL OF THE  TIP 30 
+OR THAT PORTION OF T HE TIP NECESSARY TO REDUCE THE RATE OF I NTEREST TO 31 
+6 HOUSE BILL 1294   
+ 
+ AN AMOUNT ALLOWED UN DER THIS SUBTITLE WI THIN 30 CALENDAR DAYS AFTER 1 
+RECEIVING THE TIP . 2 
+ 
+ (D) A LENDER SHALL PROMINE NTLY DISCLOSE THAT : 3 
+ 
+  (1) PROVIDING A TIP DOES NOT INFLUENCE THE LE NDER’S 4 
+WILLINGNESS TO PROVI DE A LOAN TO THE CON SUMER AT ANY TIME ; AND 5 
+ 
+  (2) ANY TIP PAID BY THE C ONSUMER DOES NOT INU RE TO THE DIRECT 6 
+BENEFIT OF ANY SPECI FIC EMPLOYEE OF THE LENDER OR ANY OTHER INDIVIDUAL . 7 
+ 
+12–319. 8 
+ 
+ NOTWITHSTANDING ANY O THER PROVISION OF TH IS TITLE , A LOAN SHALL BE 9 
+SUBJECT TO THIS SUBT ITLE, WHETHER OR NOT ELECT ED, IF THE LOAN IS  10 
+CONSUMER –DIRECTED EARNED WAGE  ACCESS UNDER SUBTITLE 15 OF THIS TITLE . 11 
+ 
+12–901. 12 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  13 
+ 
+ (b) “Borrower” means a corporation, partnership, association, government or 14 
+governmental subdivision or agency, trust, individual, or other entity receiving a loan or 15 
+other extension of credit under this subtitle.  16 
+ 
+ (c) “Commercial loan” and “extension of credit for a commercial purpose” mean 17 
+an extension of credit made:  18 
+ 
+  (1) Solely to acquire an interest in or to carry on a business or commercial 19 
+enterprise; or  20 
+ 
+  (2) To any business or commercial organization.  21 
+ 
+ (d) “Consumer borrower” means an individual receiving a loan or other extension 22 
+of credit under this subtitle for personal, household, or family purposes or an individual 23 
+receiving a commercial loan or other extension of credit for any commercial purpose not i n 24 
+excess of $75,000, secured by residential real property.  25 
+ 
+ (e) “Credit device” means any card, plate, check, draft, identification code, or 26 
+other means of identification contemplated by the agreement governing the plan.  27 
+ 
+ (f) (1) “Credit grantor” means any individual, corporation, business trust, 28 
+statutory trust, estate, trust, partnership, association, two or more persons having a joint 29 
+or common interest, or any other legal or commercial entity making a loan or other 30 
+extension of credit under this subt itle which is incorporated, chartered, or licensed 31 
+pursuant to State or federal law, the lending operations of which are subject to supervision, 32 
+ HOUSE BILL 1294  7 
+ 
+ examination, and regulation by a State or federal agency or which is licensed under Title 1 
+12, Subtitle 4 of the  Financial Institutions Article or is a retailer.  2 
+ 
+  (2) “Credit grantor” includes:  3 
+ 
+   (i) Any bank, trust company, depository institution, or savings bank 4 
+having a branch in this State;  5 
+ 
+   (ii) Any subsidiary of a bank holding company, as defined in the  6 
+federal Bank Holding Company Act of 1956, as amended, which is domiciled, doing 7 
+business, and offering a revolving credit plan involving the issuance of credit devices in this 8 
+State; and  9 
+ 
+   (iii) Any person who acquires or obtains the assignment of a rev olving 10 
+credit plan made under this subtitle.  11 
+ 
+ (G) “INTEREST ” HAS THE MEANING STAT ED IN § 12–101 OF THIS TITLE . 12 
+ 
+ [(g)] (H) (1) “Loan” means a cash advance to be paid to or for the account of 13 
+the borrower.  14 
+ 
+  (2) “Loan” includes an advance made in accordance with the terms of a 15 
+shared appreciation agreement.  16 
+ 
+ [(h)] (I) “Mobile home” has the meaning stated in § 11 –501 of the Financial 17 
+Institutions Article.  18 
+ 
+ [(i)] (J) “Nonconsumer borrower” means any borrower other than a consumer 19 
+borrower.  20 
+ 
+ [(j)] (K) (1) “Outstanding unpaid indebtedness” means on any day the total 21 
+amount of purchases and loans charged to the borrower’s account under the plan which is 22 
+outstanding and unpaid at the end of the day, after adding the aggregate amount of any 23 
+new purchas es and loans charged to the account that day and deducting the aggregate 24 
+amount of any payments and credits applied to the account that day.  25 
+ 
+  (2) If the agreement governing the plan permits, “outstanding unpaid 26 
+indebtedness” may include the amount of any  interest, finance charges, and additional 27 
+charges, including late or delinquency charges, that have accrued in the account and are 28 
+unpaid at the end of the day.  29 
+ 
+ [(k)] (L) “Purchase” means an extension of credit for a purchase of real or 30 
+personal, tangible or intangible property, or an extension of credit for services, licenses, 31 
+taxes, official fees, fines, private or governmental obligations, or any other thing of value, 32 
+including a charitable contribution.  33 
+ 
+8 HOUSE BILL 1294   
+ 
+  [(l)] (M) “Residential real property” m eans owner –occupied real property having 1 
+a dwelling on it designated principally as a residence with accommodations for not more 2 
+than four families.  3 
+ 
+ [(m)] (N) “Revolving credit plan” or “plan” means a plan that contemplates the 4 
+extension of credit under an account governed by an agreement between a credit grantor 5 
+and a borrower under which:  6 
+ 
+  (1) The credit grantor permits the borrower and, if the agreement 7 
+governing the plan permits, persons acting on behalf of or with authorization from the 8 
+borrower to  make purchases or obtain loans from time to time;  9 
+ 
+  (2) The amounts of purchases and loans are charged to the borrower’s 10 
+account;  11 
+ 
+  (3) The borrower is required to pay the credit grantor the amounts of all 12 
+purchases and loans charged to the borrower’s a ccount under the plan but has the privilege 13 
+of paying amounts due from time to time as agreed; and  14 
+ 
+  (4) Interest or finance charges may be charged and collected by the credit 15 
+grantor from time to time on the amounts due under the plan.  16 
+ 
+ [(n)] (O) “Share d appreciation agreement” has the meaning stated in § 11 –501 17 
+of the Financial Institutions Article.  18 
+ 
+ (P) “TIP” HAS THE MEANING STAT ED IN § 12–101 OF THIS TITLE . 19 
+ 
+12–927.  20 
+ 
+ (A) A LENDER WHO GIVES CON SUMERS AN OPTION TO PROVIDE THE  21 
+LENDER A TIP SHALL : 22 
+ 
+  (1) DISCLOSE TO THE CONSU MER TO WHOM THE TIP WILL BE  23 
+ALLOCATED ; AND  24 
+ 
+  (2) SET THE DEFAULT TIP A T ZERO . 25 
+ 
+ (B) A LENDER MAY NOT SUGGE ST THAT PROVIDING A TIP WILL INFLUENCE : 26 
+ 
+  (1) THE LENDER ’S WILLINGNESS TO PRO VIDE A LOAN TO A  27 
+CONSUMER AT ANY TIME ; OR 28 
+ 
+  (2) THE TERMS OF ANY EARN ED WAGE ACCESS OFFER ED TO THE  29 
+CONSUMER BY THAT LEN DER. 30 
+ 
+ HOUSE BILL 1294  9 
+ 
+  (C) A LENDER WHO RECEIVES A TIP THAT WOULD OTH ERWISE CREATE A  1 
+RATE OF INTEREST ABO VE THAT ALLOWED UNDE R THIS SUBTITLE MAY NOT BE  2 
+FOUND IN VIOLATION O F THIS SUBTITLE IF T HE LENDER RETURNS ALL O F THE TIP  3 
+OR THAT PORTION OF T HE TIP NECESSARY TO REDUCE THE RATE OF I NTEREST TO  4 
+AN AMOUNT ALLOWED UN DER THIS SUBTITLE WI THIN 30 CALENDAR DAYS AFTER  5 
+RECEIVING THE TIP . 6 
+ 
+ (D) A LENDER SHALL PROMINE NTLY DISCLOSE THAT : 7 
+ 
+  (1) PROVIDING A T IP DOES NOT INFLUENC E THE LENDER ’S 8 
+WILLINGNESS TO PROVI DE A LOAN TO THE CON SUMER AT ANY TIME ; AND  9 
+ 
+  (2) ANY TIP PAID BY THE C ONSUMER DOES NOT INU RE TO THE DIRECT  10 
+BENEFIT OF ANY SPECI FIC EMPLOYEE OF THE LENDER OR ANY OTHER INDIVIDUAL . 11 
+ 
+12–1001.  12 
+ 
+ (a) In th is subtitle the following words have the meanings indicated.  13 
+ 
+ (b) (1) “Balloon payment” means any scheduled payment on an installment 14 
+loan that is more than 2 times the average of all other payments scheduled to repay the 15 
+installment loan.  16 
+ 
+  (2) “Balloon  payment” does not include a down payment.  17 
+ 
+ (c) “Borrower” means a corporation, partnership, association, government, or 18 
+governmental subdivision or agency, trust, individual, or other entity receiving a loan or 19 
+other extension of credit under this subtitle.  20 
+ 
+ (d) “Closed end credit” means the extension of credit by a credit grantor to a 21 
+borrower under an arrangement or agreement which is not a revolving credit plan as 22 
+defined in Subtitle 9 of this title.  23 
+ 
+ (e) “Commercial loan” and “extension of cre dit for a commercial purpose” mean 24 
+an extension of credit made:  25 
+ 
+  (1) Solely to acquire an interest in or to carry on a business or commercial 26 
+enterprise; or  27 
+ 
+  (2) To any business or commercial organization.  28 
+ 
+ (f) “Consumer borrower” means an individual receiving a loan or other extension 29 
+of credit under this subtitle for personal, household, or family purposes or an individual 30 
+receiving a commercial loan or other extension of credit for any commercial purpose not in 31 
+excess of $75,000, secured by resident ial real property.  32 
+ 
+10 HOUSE BILL 1294   
+ 
+  (g) (1) “Credit grantor” means any individual, corporation, business trust, 1 
+statutory trust, estate, trust, partnership, association, two or more persons having a joint 2 
+or common interest, or any other legal or commercial entity making  a loan or other 3 
+extension of credit under this subtitle which is incorporated, chartered, or licensed  4 
+pursuant to State or federal law, the lending operations of which are subject to supervision, 5 
+examination, and regulation by a State or federal agency or  which is licensed under Title 6 
+12, Subtitle 4 of the Financial Institutions Article or is a retailer.  7 
+ 
+  (2) “Credit grantor” includes:  8 
+ 
+   (i) Any bank, trust company, depository institution, or savings bank 9 
+having a branch in this State;  10 
+ 
+   (ii) A perso n not required to be licensed under this subtitle, who is 11 
+exempt from the licensing provisions of Title 11, Subtitle 5 of the Financial Institutions 12 
+Article, who makes a loan or extension of credit under this subtitle secured by a secondary 13 
+mortgage on res idential real property; and  14 
+ 
+   (iii) Any person who acquires or obtains the assignment of an 15 
+agreement for an extension of credit made under this subtitle.  16 
+ 
+ (h) “Debt cancellation agreement” means an agreement between a credit grantor 17 
+and a borrower which provides for cancellation of the remaining loan balance in the event 18 
+of theft or total destruction of the collateral for the loan minus the proceeds of any insurance 19 
+maintained on the collateral for the loan or, if the borrower does not have insuranc e, the 20 
+actual cash value of the collateral at the time of loss, determined as provided in the 21 
+agreement.  22 
+ 
+ (i) “Installment loan” means a loan repayable in scheduled periodic payments of 23 
+principal and interest.  24 
+ 
+ (J) “INTEREST ” HAS THE MEANING STAT ED IN § 12–101 OF THIS TITLE . 25 
+ 
+ [(j)] (K) (1) “Loan” means any single extension of closed end credit, whether 26 
+repayable in installments, on demand, or otherwise and whether extended in one or more 27 
+advances.  28 
+ 
+  (2) “Loan” includes an advance made in accordance with  the terms of a 29 
+shared appreciation agreement.  30 
+ 
+ [(k)] (L) “Mechanical repair contract” has the meaning stated in Title 15, 31 
+Subtitle 3 of the Transportation Article.  32 
+ 
+ [(l)] (M) “Mobile home” has the meaning stated in § 11 –501 of the Financial 33 
+Institutions  Article.  34 
+ 
+ HOUSE BILL 1294  11 
+ 
+  [(m)] (N) “Remaining loan balance”, when used in reference to a debt cancellation 1 
+agreement, does not include:  2 
+ 
+  (1) Any delinquent or deferred payments;  3 
+ 
+  (2) Past due charges;  4 
+ 
+  (3) Late payment charges;  5 
+ 
+  (4) Unearned interest;  6 
+ 
+  (5) Unearned rental payments;  7 
+ 
+  (6) The portion of any financed taxes or charges, including charges for 8 
+credit life insurance, credit health insurance, credit involuntary unemployment benefit 9 
+insurance, and mechanical repair contracts, actually refunded to th e borrower or credited 10 
+as a reduction to the loan balance; or  11 
+ 
+  (7) By agreement of the parties, the amount of any primary insurance 12 
+deductible.  13 
+ 
+ [(n)] (O) “Residential real property” means owner –occupied real property having 14 
+a dwelling on it designated principally as a residence with accommodations for not more 15 
+than four families.  16 
+ 
+ [(o)] (P) “Shared appreciation agreement” has the meaning stated in § 11 –501 17 
+of the Financial Institutions Article.  18 
+ 
+ (Q) “TIP” HAS THE MEANING STAT ED IN § 12–101 OF THIS TITLE . 19 
+ 
+12–1031.  20 
+ 
+ (A) A LENDER WHO GIVES CON SUMERS AN OPTION TO PROVIDE THE  21 
+LENDER A TIP SHALL : 22 
+ 
+  (1) DISCLOSE TO THE CONSU MER TO WHOM THE TIP WILL BE  23 
+ALLOCATED ; AND  24 
+ 
+  (2) SET THE DEFAULT TIP A T ZERO . 25 
+ 
+ (B) A LENDER MAY NOT SUGGE ST THAT PROVIDING A TIP WILL INFLUENCE : 26 
+ 
+  (1) THE LENDER ’S WILLINGNESS TO PRO VIDE A LOAN TO A  27 
+CONSUMER AT ANY TIME ; OR 28 
+ 
+12 HOUSE BILL 1294   
+ 
+   (2) THE TERMS OF ANY LOAN  OFFERED TO THE CONSU MER BY THAT  1 
+LENDER . 2 
+ 
+ (C) A LENDER WHO RECEIVES A TIP THAT WOULD OTH ERWISE CREATE A  3 
+RATE OF INTEREST ABO VE THAT  ALLOWED UNDER THIS S UBTITLE MAY NOT BE  4 
+FOUND IN VIOLATION O F THIS SUBTITLE IF T HE LENDER RETURNS AL L OF THE TIP  5 
+OR THAT PORTION OF T HE TIP NECESSARY TO REDUCE THE RATE OF I NTEREST TO  6 
+AN AMOUNT ALLOWED UN DER THIS SUBTITLE WI THIN 30 CALENDAR DAYS AFTER  7 
+RECE IVING THE TIP . 8 
+ 
+ (D) A LENDER SHALL PROMINE NTLY DISCLOSE THAT : 9 
+ 
+  (1) PROVIDING A TIP DOES NOT INFLUENCE THE LE NDER’S 10 
+WILLINGNESS TO PROVI DE A LOAN TO THE CON SUMER AT ANY TIME ; AND  11 
+ 
+  (2) ANY TIP PAID BY THE C ONSUMER DOES NOT INU RE TO THE DIRECT  12 
+BENEFIT OF  ANY SPECIFIC EMPLOYE E OF THE LENDER OR A NY OTHER INDIVIDUAL . 13 
+ 
+SUBTITLE 15. EARNED WAGE ACCESS . 14 
+ 
+12–1501.  15 
+ 
+ (A) IN THIS SUBTITLE THE FOLLOWING TERMS HAVE  THE MEANINGS 16 
+INDICATED . 17 
+ 
+ (B) “BANK” HAS THE MEANING STAT ED IN § 1–201 OF THIS ARTICLE . 18 
+ 
+ (C) “CONSUMER REPORTING AG ENCY” HAS THE MEANING STAT ED IN §  19 
+14–1201  OF THIS ARTICLE . 20 
+ 
+ (D) “CONSUMER –DIRECTED EARNED WAGE  ACCESS” MEANS DELIVERY TO A 21 
+CONSUMER OF ACCESS T O UNPAID BUT EARNED WAGES : 22 
+ 
+  (1) THAT IS PROVIDED TO A  CONSUMER BY A THIRD PARTY WHO DOE S 23 
+NOT HAVE A RELATIONS HIP WITH THE CONSUME R’S EMPLOYER ; 24 
+ 
+  (2) THAT IS BASED ON EMPL OYMENT , INCOME , OR ATTENDANCE 25 
+DATA OBTAINED DIRECT LY FROM THE CONSUMER ; AND 26 
+ 
+  (3) WHERE THE CONSUMER DO ES NOT PAY THE PROVI DER INTEREST . 27 
+ 
+ (E) “EARNED WAGE ” MEANS SALARY , WAGES , COMPENSATION , OR OTHER 28 
+INCOME EARNED : 29 
+ 
+ HOUSE BILL 1294  13 
+ 
+   (1) ON AN HOURLY , PROJECT –BASED , PIECEWORK , OR OTHER BASIS ; 1 
+OR 2 
+ 
+  (2) THROUGH SERVICES REND ERED AS AN INDEPENDE NT 3 
+CONTRACTOR . 4 
+ 
+ (F) “EARNED WAGE ACCESS ” MEANS : 5 
+ 
+  (1) CONSUMER –DIRECTED EARNED WAGE  ACCESS ; OR 6 
+ 
+  (2) EMPLOYER –INTEGRATED EARNED WA GE ACCESS . 7 
+ 
+ (G) “EMPLOYER –INTEGRATED EARNED WA GE ACCESS ” MEANS DELIVERY 8 
+OF UNPAID BUT EARNED  WAGES : 9 
+ 
+  (1) THAT ARE PROVIDED TO A CONSUMER DIRECTLY BY A PERSON 10 
+THE EMPLOYER HAS CON TRACTED TO PROVIDE T HE SERVICE ; 11 
+ 
+  (2) THAT ARE DETERMINED B ASED ON EMPLOYMENT , INCOME , OR 12 
+ATTENDANCE DATA OBTA INED DIRECTLY OR IND IRECTLY FROM THE CON SUMER’S 13 
+EMPLOYER , INCLUDING A PAYROLL SERVICE PROVIDER ; AND 14 
+ 
+  (3) WHERE THE CONSUMER DO ES NOT PAY THE PROVI DER INTEREST . 15 
+ 
+ (H) (1) “FEE” MEANS : 16 
+ 
+   (I) A FEE IMPOSED BY A PRO VIDER FOR DELIVERY O R 17 
+EXPEDITED DELIVERY O F EARNED WAGE ACCESS  TO A CONSUMER ; OR 18 
+ 
+   (II) A SUBSCRIPTION OR MEMB ERSHIP FEE IMPOSED B Y A 19 
+PROVIDER FOR A GROUP  OF SERVICES THAT INC LUDES EARNED WAGE AC CESS . 20 
+ 
+  (2) “FEE” DOES NOT INCLUDE A VOLUNTARY TIP, GRATUITY , OR 21 
+OTHER DONATION . 22 
+ 
+ (I) (1) “INTEREST ” HAS THE MEANING STAT ED IN § 12–101 OF THIS 23 
+TITLE . 24 
+ 
+  (2) “INTEREST ” DOES NOT INCLUDE A F EE IMPOSED BY AN EAR NED 25 
+WAGE ACCESS PROVIDER  LICENSED UNDER TITLE 11, SUBTITLE 2 OF THE 26 
+FINAN CIAL INSTITUTIONS ARTICLE . 27 
+ 
+ (J) (1) “LOAN” HAS THE MEANING STAT ED IN § 12–101 OF THIS TITLE . 28 
+ 
+14 HOUSE BILL 1294   
+ 
+   (2) “LOAN” INCLUDES EARNED WAGE  ACCESS , SUBJECT TO THE 1 
+PROVISIONS OF THIS S UBTITLE . 2 
+ 
+ (K) “PAYROLL PERIOD ” MEANS A PERIOD OF TI ME DURING WHICH A 3 
+CONSUMER EARNS  WAGES THAT AN EMPLOY ER OWES TO THE EMPLO YEE AT THE END 4 
+OF THE PERIOD . 5 
+ 
+ (L) “PROCEEDS ” MEANS A PAYMENT TO A  CONSUMER BY A PROVID ER THAT 6 
+IS BASED ON UNPAID B UT EARNED WAGES . 7 
+ 
+ (M) (1) “PROVIDER ” MEANS A PERSON WHO P ROVIDES TO CONSUMERS  8 
+EITHER CONSUMER –DIRE CTED EARNED WAGE ACC ESS OR EMPLOYER –INTEGRATED 9 
+EARNED WAGE ACCESS . 10 
+ 
+  (2) “PROVIDER ” DOES NOT INCLUDE : 11 
+ 
+   (I) A SERVICE PROVIDER , SUCH AS A PAYROLL SE RVICE 12 
+PROVIDER , THAT MAY VERIFY THE AVAILABLE EARNINGS O F A CONSUMER BUT THA T 13 
+IS NOT CONTRACTUALLY  OBLIGATED TO FUND AN Y PROCEEDS DELIVERED  AS PART 14 
+OF AN EARNED WAGE AC CESS SERVICE ; OR 15 
+ 
+   (II) AN EMPLOYER THAT OFFE RS A PORTION OF SALA RY, 16 
+WAGES , OR OTHER COMPENSATIO N DIRECTLY TO ITS EM PLOYEES OR INDEPENDE NT 17 
+CONTRACTORS BEFORE A  NORMALLY SCHEDULED P AY DA TE FOR A PAYROLL 18 
+PERIOD . 19 
+ 
+ (N) “TIP” HAS THE MEANING STAT ED IN § 12–101 OF THIS TITLE . 20 
+ 
+ (O) “WAGES” HAS THE MEANING STAT ED IN § 12–101 OF THIS TITLE . 21 
+ 
+12–1502.  22 
+ 
+ (A) A PERSON MAY NOT ENGAG E IN THE BUSINESS OF  PROVIDING  23 
+EARNED WAGE ACCESS U NLESS THE PERSO N IS LICENSED UNDER OR IS EXEMPT 24 
+FROM THE LICENSING R EQUIREMENTS OF TITLE 11, SUBTITLE 2 OF THE FINANCIAL 25 
+INSTITUTIONS ARTICLE . 26 
+ 
+ (B) FAILURE TO OBTAIN A C ONSUMER LOAN LICENSE  SHALL SUBJECT A 27 
+PROVIDER TO THE ENFO RCEMENT PROVISIONS O F TITLE 11, SUBTITLE 2 OF THE 28 
+FINANCIAL INSTITUTIONS ARTICLE . 29 
+ 
+ (C) AN EARNED WAGE ACCESS  PROVIDER LICENSED UN DER TITLE 11, 30 
+SUBTITLE 2 OF THE FINANCIAL INSTITUTIONS ARTICLE AND SUBJECT T O THIS 31 
+SUBTITLE IS EXEMPT F ROM OTHER PROVISIONS  OF STATE LAW GOVERNING 32 
+ HOUSE BILL 1294  15 
+ 
+ LENDING , CREDIT , OR DEB T, INCLUDING THE PROVIS IONS OF SUBTITLE 1, 1 
+SUBTITLE 3, SUBTITLE 9, AND SUBTITLE 10 OF THIS TITLE . 2 
+ 
+ (D) EARNED WAGE ACCESS SE RVICES PROVIDED IN A CCORDANCE WITH 3 
+THIS SUBTITLE MAY NO T BE CONSIDERED : 4 
+ 
+  (1) A MONEY TRANSMISSION ; OR 5 
+ 
+  (2) A VIOLATION OF OR NONCOMPLIANCE WITH STATE LAWS 6 
+GOVERNING DEDUCTIONS  FROM PAYROLL , SALARY , WAGES , COMPENSATION , OR 7 
+OTHER INCOME OR THE PURCHASE , SALE , ASSIGNMENT , OR ORDER FOR UNPAID BUT 8 
+EARNED WAGES . 9 
+ 
+12–1503.  10 
+ 
+ (A) A PROVIDER OF EARNED W AGE ACCESS SHALL : 11 
+ 
+  (1) DEVELOP AN D IMPLEMENT POLICIES  AND PROCEDURES TO 12 
+RESPOND TO QUESTIONS  RAISED BY CONSUMERS ; 13 
+ 
+  (2) ADDRESS COMPLAINTS FR OM CONSUMERS IN AN E XPEDIENT 14 
+MANNER ; 15 
+ 
+  (3) WHENEVER THE PROVIDER  OFFERS A CONSUMER TH E OPTION TO 16 
+RECEIVE EARNED WAGE ACCESS SERVICES FOR A FEE OR SOLICITS AN OPTIONAL  17 
+TIP, GRATUITY , OR OTHER DONATION , OFFER TO THE CONSUME R AT LEAST ONE 18 
+REASONABLE OPTION TO  OBTAIN EARNED WAGE A CCESS AT NO COST TO THE 19 
+CONSUMER ; 20 
+ 
+  (4) CLEARLY EXPLAIN TO A CONSUMER HOW TO ELEC T A NO–COST 21 
+OPTION DESCRIBED IN ITEM (3) OF THIS SUBSECTION ; 22 
+ 
+  (5) BEFORE ENTERING INTO AN AGREEMENT WITH A CONSUMER FOR 23 
+THE PROVISION OF EAR NED WAGE ACCESS SERV ICES: 24 
+ 
+   (I) INFORM THE CONSUMER O F THE CONSUMER ’S RIGHTS 25 
+UNDER THE AGREEMENT ; AND 26 
+ 
+   (II) FULLY AND CLEARLY DIS CLOSE ALL FEES ASSOCIATED 27 
+WITH THE EARNED WAGE  ACCESS SERVICES ; 28 
+ 
+  (6) INFORM A CONSUMER OF ANY MATERIAL CHANGES  TO THE TERMS 29 
+AND CONDITIONS OF TH E EARNED WAGE ACCESS  SERVICES BEFORE IMPL EMENTING 30 
+THOSE CHANGES FOR TH AT CONSUMER ; 31 
+16 HOUSE BILL 1294   
+ 
+  
+  (7) ALLOW A CONSUMER TO C ANCEL USE OF T HE PROVIDER ’S 1 
+EARNED WAGE ACCESS S ERVICES AT ANY TIME WITHOUT INCURRING A 2 
+CANCELLATION FEE IMP OSED BY THE PROVIDER ; 3 
+ 
+  (8) COMPLY WITH ALL APPLI CABLE LOCAL , STATE , AND FEDERAL 4 
+PRIVACY AND INFORMAT ION SECURITY LAWS ; 5 
+ 
+  (9) IF A PROVIDER SOLICIT S, CHARGES , OR RECEIVES A TIP , 6 
+GRATUITY , OR OTHER DONATION FR OM A CONSUMER : 7 
+ 
+   (I) SET THE DEFAULT TIP , IF ANY , AT ZERO ; 8 
+ 
+   (II) CLEARLY AND CONSPICUO USLY DISCLOSE TO THE  9 
+CONSUMER IMMEDIATELY  PRIOR TO EACH TRANSA CTION THAT ANY TIP P AID BY THE 10 
+CONSUMER DOES NOT IN URE  TO THE DIRECT BENEFI T OF ANY SPECIFIC EM PLOYEE 11 
+OF THE PROVIDER OR A NY OTHER INDIVIDUAL ; 12 
+ 
+   (III) CLEARLY AND CONSPICUO USLY DISCLOSE TO THE  13 
+CONSUMER IMMEDIATELY  PRIOR TO EACH TRANSA CTION THAT A TIP , GRATUITY , OR 14 
+OTHER DONATION AMOUN T IS OPTIONAL AND VO LUN TARY ; AND 15 
+ 
+   (IV) CLEARLY AND CONSPICUO USLY DISCLOSE IN THE  16 
+PROVIDER ’S SERVICE CONTRACT W ITH THE CONSUMER THA T: 17 
+ 
+    1. TIPS, GRATUITIES , OR OTHER DONATIONS A RE 18 
+VOLUNTARY ; AND 19 
+ 
+    2. THE OFFERING OF EARNE D WAGE ACCESS SERVIC ES, 20 
+INCLUDING THE AMOUNT  OF PR OCEEDS A CONSUMER IS  ELIGIBLE TO REQUEST AND 21 
+THE FREQUENCY WITH W HICH PROCEEDS ARE PR OVIDED TO A CONSUMER , IS NOT 22 
+CONTINGENT ON WHETHE R THE CONSUMER PAYS ANY TIP , GRATUITY , OR OTHER 23 
+DONATION OR ON THE S IZE OF THE TIP , GRATUITY , OR OTHER DONATION ; 24 
+ 
+  (10) PROVIDE PROCEEDS TO A  CONSUMER BY ANY MEAN S MUTUALLY 25 
+AGREED UPON BY THE C ONSUMER AND THE PROV IDER ; AND 26 
+ 
+  (11) EXCEPT AS PROVIDED IN  SUBSECTION (B) OF THIS SECTION , IF 27 
+THE PROVIDER WILL SE EK REPAYMENT OF OUTS TANDING PROCEEDS OR PAYMENT 28 
+OF FEES OR OTHER AMO UNTS OWED OR INCURRED , INCLUDING VOLUNTARY TIPS, 29 
+GRATUITIES , OR OTHER DONATIONS , FROM A CONSUMER ’S ACCOUNT AT A BANK IN 30 
+CONNECTION WITH EARN ED WAGE ACCESS SERVI CES COVERED BY THIS SUBTITLE , 31 
+INCLUDING BY MEANS O F ELECTRIC FUND TRAN SFER : 32 
+ 
+ HOUSE BILL 1294  17 
+ 
+    (I) COMPLY WITH T HE FEDERAL ELECTRONIC FUND 1 
+TRANSFER ACT AND REGULATIONS A DOPTED TO IMPLEMENT THE ACT; AND 2 
+ 
+   (II) REIMBURSE THE CONSUME R WITHIN 5 BUSINESS DAYS FOR 3 
+THE FULL AMOUNT OF A NY OVERDRAFT OR NONS UFFICIENT FUND FEES IMPOSED 4 
+ON A CONSUMER BY THE  CONSUMER ’S BANK TH AT WERE CAUSED BY TH E PROVIDER 5 
+ATTEMPTING TO SEEK R EPAYMENT OF ANY OUTS TANDING PROCEEDS OR PAYMENT 6 
+OF FEES , TIPS, GRATUITIES , OR OTHER DONATIONS I N CONNECTION WITH EA RNED 7 
+WAGE ACCESS SERVICES  COVERED BY THIS SUBT ITLE. 8 
+ 
+ (B) SUBSECTION (A)(11)  OF THIS SECTION DOES NOT APP LY TO A PROVIDER 9 
+SEEKING REPAYMENT OF  OUTSTANDING PROCEEDS  OR PAYMENT OF FEES O R 10 
+OTHER AMOUNTS OWED T HAT WERE RECEIVED OR  INCURRED BY A CONSUM ER 11 
+THROUGH FRAUDULENT O R OTHER UNLAWFUL MEA NS. 12 
+ 
+12–1504.  13 
+ 
+ A PROVIDER OF EARNED W AGE ACCESS MAY NOT : 14 
+ 
+  (1) SHARE WITH AN EMPLOYE R ANY FEES , TIPS, OR OTHER CHARGES 15 
+RECEIVED FROM A CONS UMER FOR EARNED WAGE  ACCESS ; 16 
+ 
+  (2) CONDITION A CONSUMER ’S ABILITY TO OBTAIN EARNED WAGE 17 
+ACCESS ON THE CONSUM ER’S ABILITY OR WILLING NESS TO PAY THE PROV IDER A 18 
+TIP; 19 
+ 
+  (3) CHARGE A CONSUMER A  LATE FEE , INTEREST , OR OTHER 20 
+PENALTY FOR FAILURE TO PAY ANY PROCEEDS , FEES , OR TIPS ; 21 
+ 
+  (4) REPORT ANY INFORMATIO N ABOUT A CONSUMER ’S FAILURE TO 22 
+PAY ANY PROCEEDS , FEES , OR TIPS TO ANY CONSU MER REPORTING AGENCY ; 23 
+ 
+  (5) OBTAIN A CO NSUMER ’S CREDIT REPORT AS A  METHOD OF 24 
+QUALIFYING THE CONSU MER FOR EARNED WAGE ACCESS ; 25 
+ 
+  (6) RECEIVE INTEREST FROM  A CONSUMER ; OR 26 
+ 
+  (7) COMPEL OR ATTEMPT TO COMPEL PAYMENT BY A CONSUMER OF 27 
+ANY PROCEEDS , FEES , TIPS, GRATUITIES , OR OTHER DONATIONS T HROUGH : 28 
+ 
+   (I) A CIVIL ACTION AGAINST  THE CONSUMER ; 29 
+ 
+   (II) THE USE OF A THIRD PA RTY TO PURSUE COLLEC TION FROM 30 
+THE CONSUMER ON THE PROVIDER ’S BEHALF ; OR 31 
+18 HOUSE BILL 1294   
+ 
+  
+   (III) THE SALE OR ASSIGNMEN T OF OUTSTANDING AMO UNTS TO 1 
+A THIRD –PARTY COLLECTOR OR D EBT BUYER FOR COLLEC TION FROM THE 2 
+CONSUMER . 3 
+ 
+12–1505.  4 
+ 
+ A PROVIDER OF EARNED W AGE ACCESS MAY CHARG E A FEE FOR DELIVERY OR 5 
+EXPEDITED DELIVERY O F EARNED WAGE ACCESS  TO A CONSUMER  NOT EXCEEDING : 6 
+ 
+  (1) $5.00  FOR ANY ADVANCE OF P ROCEEDS EQUAL TO OR LESS THAN 7 
+$75.00;  OR 8 
+ 
+  (2) $7.50  FOR ANY ADVANCE OF P ROCEEDS GREATER THAN  $75.00.  9 
+ 
+12–1506.  10 
+ 
+ ON OR BEFORE JULY 1 EACH YEAR , BEGINNING IN 2026,  A PROVIDER OF 11 
+EARNED WAGE ACCESS S HALL SUBMIT A REPORT  TO THE OFFICE OF FINANCIAL 12 
+REGULATION THAT INCLU DES ANY INFORMATION CONSIDERED NECESSARY  BY THE 13 
+COMMISSIONER , AS PRESCRIBED BY REG ULATION , TO ASSESS THE SIZE A ND STATUS 14 
+OF THE EARNED WAGE A CCESS MARKET IN THE STATE . 15 
+ 
+12–1507.  16 
+ 
+ THE COMMISSIONER MAY ADOP T REGULATIONS TO CAR RY OUT THIS 17 
+SUBTITLE . 18 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 19 
+October 1, 2025.  20 
+ 
+ 
+ 
+ 
+Approved:  
+________________________________ ________________________________ ________________   
+           Governor.  
+________________________________ ________________________________ ________________   
+         Speaker of the House of Delegates.  
+________________________________ ________________________________ ________________   
+                 President of the Senate.  

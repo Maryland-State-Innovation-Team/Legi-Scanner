@@ -1,0 +1,307 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.             *hb0235*      
+HOUSE BILL 235  
+S2   5lr0198  
+  (PRE –FILED)  CF SB 244  
+By: Chair, Health and Government Operations Committee (By Request – 
+Departmental – Information Technology)  
+Requested: September 19, 2024  
+Introduced and read first time: January 8, 2025  
+Assigned to: Health and Government Operations  
+Committee Report: Favorable with amendments  
+House action: Adopted  
+Read second time: February 18, 2025  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+State Government – Information Technology – Cybersecurity Revisions  2 
+ 
+FOR the purpose of altering the duties of the Cyber Preparedness Unit in the Maryland 3 
+Department of Emergency Management; altering the duties of the Office of Security 4 
+Manag ement in the Department of Information Technology; altering the content of 5 
+a certain report on the activities of the Office and the state of cybersecurity 6 
+preparedness in the State; altering the responsibilities of the Secretary of 7 
+Information Technology w ith regard to information technology policies and a 8 
+statewide cybersecurity strategy; and generally relating to State cybersecurity.  9 
+ 
+BY repealing and reenacting, without amendments,  10 
+ Article – Public Safety  11 
+Section 14 –104.1(a)  12 
+ Annotated Code of Maryla nd 13 
+ (2022 Replacement Volume and 2024 Supplement)  14 
+ 
+BY repealing and reenacting, with amendments,  15 
+ Article – Public Safety  16 
+ Section 14 –104.1(b)  17 
+ Annotated Code of Maryland  18 
+ (2022 Replacement Volume and 2024 Supplement)  19 
+ 
+BY repealing and reenacting, with amendments,  20 
+2 HOUSE BILL 235   
+ 
+  Article – State Finance and Procurement  1 
+ Section 3.5 –2A–04 and 3.5 –303(a)(1) and (5)  2 
+ Annotated Code of Maryland  3 
+ (2021 Replacement Volume and 2024 Supplement)  4 
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMB LY OF MARYLAND, 5 
+That the Laws of Maryland read as follows:  6 
+ 
+Article – Public Safety  7 
+ 
+14–104.1.  8 
+ 
+ (a) (1) In this section the following words have the meanings indicated.  9 
+ 
+  (2) “Local government” includes local school systems, local school boards, 10 
+and loca l health departments.  11 
+ 
+  (3) “Unit” means the Cyber Preparedness Unit.  12 
+ 
+ (b) (1) There is a Cyber Preparedness Unit in the Department.  13 
+ 
+  (2) In coordination with the State Chief Information Security Officer, the 14 
+Unit shall:  15 
+ 
+   (i) [support local governme nts in developing a vulnerability 16 
+assessment and cyber assessment, including providing local governments with the 17 
+resources and information on best practices to complete the assessments;  18 
+ 
+   (ii)] develop and regularly update an online database of cybersecurity 19 
+training resources for local government personnel, including technical training resources, 20 
+cybersecurity continuity of operations templates, AND  consequence management plans [, 21 
+and trainings o n malware and ransomware detection ]; 22 
+ 
+   [(iii)] (II) assist local governments in:  23 
+ 
+    1. the development of cybersecurity preparedness and 24 
+response plans;  25 
+ 
+    2. implementing best practices and guidance developed by 26 
+the State Chief Information Security Officer; and  27 
+ 
+    3. identifying and acquiring resources to complete 28 
+appropriate cybersecurity vulnerability assessments;  29 
+ 
+   [(iv)] (III) connect local governments to appropriate resources for 30 
+any other purpose related to cybersecurity preparedness and re sponse;  31 
+ HOUSE BILL 235  3 
+ 
+  
+   [(v)] (IV) as necessary and in coordination with the National Guard, 1 
+local emergency managers, and other State and local entities, conduct regional 2 
+cybersecurity preparedness exercises; and  3 
+ 
+   [(vi)] (V) establish regional assistance groups to  deliver and 4 
+coordinate support services to local governments, agencies, or regions.  5 
+ 
+  (3) The Unit shall support the Office of Security Management in the 6 
+Department of Information Technology during emergency response efforts.  7 
+ 
+Article – State Finance and  Procurement  8 
+ 
+3.5–2A–04. 9 
+ 
+ (a) (1) The Office is responsible for:  10 
+ 
+   (i) the direction, coordination, and implementation of the overall 11 
+cybersecurity strategy and policy for units of State government; and  12 
+ 
+   (ii) supporting and coordinating with the Maryland Department of 13 
+Emergency Management Cyber Preparedness Unit during emergency response efforts.  14 
+ 
+  (2) The Office is not responsible for the information technology installation 15 
+and maintenance operations normally conducted by a unit of State governm ent, a unit of 16 
+local government, a local school board, a local school system, or a local health department.  17 
+ 
+ (b) The Office shall:  18 
+ 
+  (1) establish standards to categorize all information collected or 19 
+maintained by or on behalf of each unit of State gover nment;  20 
+ 
+  (2) establish standards to categorize all information systems maintained 21 
+by or on behalf of each unit of State government;  22 
+ 
+  (3) develop guidelines governing the types of information and information 23 
+systems to be included in each category;  24 
+ 
+  (4) establish security requirements for information and information 25 
+systems in each category;  26 
+ 
+  (5) assess the categorization of information and information systems and 27 
+the associated implementation of the security requirements established under item (4) of  28 
+this subsection;  29 
+ 
+  (6) if the State Chief Information Security Officer determines that there 30 
+are security vulnerabilities or deficiencies in any information systems, determine and direct 31 
+4 HOUSE BILL 235   
+ 
+ or take actions necessary to correct or remediate the vulnerabiliti es or deficiencies, which 1 
+may include requiring the information system to be disconnected;  2 
+ 
+  (7) if the State Chief Information Security Officer determines that there is 3 
+a cybersecurity threat caused by , AFFECTING , OR POTENTIALLY AFFEC TING  an entity 4 
+conne cted to the network established under § 3.5 –404 of this title that introduces OR MAY 5 
+INTRODUCE  a serious risk to entities connected to the network or to the State, take or 6 
+direct actions required to mitigate the threat;  7 
+ 
+  (8) manage security awareness tra ining for all appropriate employees of 8 
+units of State government;  9 
+ 
+  (9) assist in the development of data management, data governance, and 10 
+data specification standards to promote standardization and reduce risk;  11 
+ 
+  (10) assist in the development of a digi tal identity standard and 12 
+specification applicable to all parties communicating, interacting, or conducting business 13 
+with or on behalf of a unit of State government;  14 
+ 
+  (11) develop and maintain information technology security policy, 15 
+standards, and guidan ce documents, consistent with best practices developed by the 16 
+National Institute of Standards and Technology;  17 
+ 
+  (12) to the extent practicable, seek, identify, and inform relevant 18 
+stakeholders of any available financial assistance provided by the federal government or 19 
+non–State entities to support the work of the Office;  20 
+ 
+  (13) provide technical assistance to localities in mitigating and recovering 21 
+from cybersecurity incidents; [and] 22 
+ 
+  (14) provide technical services, advice, and guidance to units of loc al 23 
+government to improve cybersecurity preparedness, prevention, response, and recovery 24 
+practices ; AND  25 
+ 
+  (15) SUPPORT LOCAL GOVERN MENTS IN DEVELOPING A 26 
+VULNERABILITY ASSESS MENT AND CYBER ASSES SMENT , INCLUDING PROVIDING 27 
+LOCAL GOVERNMENTS WI TH THE RESOURCES  AND INFORMATION ON B EST 28 
+PRACTICES TO COMPLET E THE ASSESSMENTS . 29 
+ 
+ (c) The Office, in coordination with the Maryland Department of Emergency 30 
+Management, shall:  31 
+ 
+  (1) assist local political subdivisions, including counties, school systems, 32 
+school boards, an d local health departments, in [: 33 
+ 
+ HOUSE BILL 235  5 
+ 
+    (i) the development of cybersecurity preparedness and response 1 
+plans; and  2 
+ 
+   (ii)] implementing best practices and guidance developed by the 3 
+Department; and  4 
+ 
+  (2) connect local entities to appropriate resources for an y other purpose 5 
+related to cybersecurity preparedness and response.  6 
+ 
+ (d) The Office, in coordination with the Maryland Department of Emergency 7 
+Management, may:  8 
+ 
+  (1) conduct regional exercises, as necessary, in coordination with the 9 
+National Guard, local  emergency managers, and other State and local entities; and  10 
+ 
+  (2) establish regional assistance groups to deliver or coordinate support 11 
+services to local political subdivisions, agencies, or regions.  12 
+ 
+ (e) (1) On or before December 31 each year, the Offi ce shall report to the 13 
+Governor and, in accordance with § 2 –1257 of the State Government Article, the Senate 14 
+Budget and Taxation Committee, the Senate [Education, Health, and Environmental 15 
+Affairs ] Committee ON EDUCATION , ENERGY , AND THE ENVIRONMENT , the H ouse 16 
+Appropriations Committee, the House Health and Government Operations Committee, and 17 
+the Joint Committee on Cybersecurity, Information Technology, and Biotechnology on the 18 
+activities of the Office and the state of cybersecurity preparedness in Maryland , including:  19 
+ 
+   (i) the activities and accomplishments of the Office during the 20 
+previous 12 months at the State and local levels; and  21 
+ 
+   (ii) a compilation and analysis of the data from the information 22 
+contained in the reports received by the Office under § 3.5 –405 of this title, including:  23 
+ 
+    1. a summary of the issues identified by the cybersecurity 24 
+preparedness assessments conducted that year;  25 
+ 
+    2. the status of vulnerability assessments of all units of State 26 
+government and a timeline for comp letion and cost to remediate any vulnerabilities 27 
+exposed;  28 
+ 
+    3. recent audit findings of all units of State government and 29 
+options to improve findings in future audits, including recommendations for staff, budget, 30 
+and timing;  31 
+ 
+    4. [analysis of the Sta te’s expenditure on cybersecurity 32 
+relative to overall information technology spending for the prior 3 years and 33 
+recommendations for changes to the budget, including amount, purpose, and timing to 34 
+improve State and local cybersecurity preparedness;  35 
+6 HOUSE BILL 235   
+ 
+  
+    5.] efforts to secure financial support for cyber risk mitigation 1 
+from federal or other non –State resources;  2 
+ 
+    [6.] 5. key performance indicators on the cybersecurity strategies 3 
+in the Department’s information technology master plan, including time, budget , and staff 4 
+required for implementation; and  5 
+ 
+    [7.] 6. any additional recommendations for improving State and 6 
+local cybersecurity preparedness.  7 
+ 
+  (2) A report submitted under this subsection may not contain information 8 
+that reveals cybersecurity vulner abilities and risks in the State.  9 
+ 
+ (F) (1) EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS SUBSECTION , 10 
+ON OR BEFORE THE THI RD WEDNESDAY IN JANUARY EACH YEAR , THE OFFICE 11 
+SHALL REPORT TO THE GOVERNOR AND , IN ACCORDANCE WITH § 2–1257  OF THE 12 
+STATE GOVERNMENT ARTICLE , THE SENATE BUDGET AND TAXATION COMMITTEE , 13 
+THE SENATE COMMITTEE ON EDUCATION , ENERGY , AND THE ENVIRONMENT , THE 14 
+HOUSE APPROPRIATIONS COMMITTEE , THE HOUSE HEALTH AND GOVERNMENT 15 
+OPERATIONS COMMITTEE , AND THE JOINT COMMITTEE ON CYBERSECURITY , 16 
+INFORMATI ON TECHNOLOGY , AND BIOTECHNOLOGY ON : 17 
+ 
+   (I) THE STATE’S EXPENDITURE ON CYB ERSECURITY RELATIVE 18 
+TO OVERALL INFORMATI ON TECHNOLOGY SPENDI NG FOR THE PRIOR 3 YEARS ; AND  19 
+ 
+   (II) RECOMMENDATIONS FOR CHANGES TO THE BUDGE T, 20 
+INCLUDING THE AMOUNT , PURPOSE , AND TIMI NG OF FUNDING TO IMP ROVE STATE 21 
+AND LOCAL CYBERSECUR ITY PREPAREDNESS . 22 
+ 
+  (2) IN A YEAR WITH A NEWL Y ELECTED GOVERNOR , THE REPORT 23 
+REQUIRED UNDER PARAG RAPH (1) OF THIS SUBSECTION S HALL BE SUBMITTED ON  24 
+OR BEFORE THE THIRD FRIDAY OF JANUARY .  25 
+ 
+3.5–303. 26 
+ 
+ (a) The Secretary is responsible for carrying out the following duties:  27 
+ 
+  (1) developing, IMPLEMENTING , maintaining, revising, and enforcing 28 
+information technology policies, procedures, and standards;  29 
+ 
+  (5) developing , IMPLEMENTING , and maintaining a statewi de 30 
+cybersecurity strategy that will:  31 
+ 
+ HOUSE BILL 235  7 
+ 
+    (i) centralize the management and direction of cybersecurity 1 
+strategy within the Executive Branch of State government under the control of the 2 
+Department; and  3 
+ 
+   (ii) serve as the basis for budget allocations for c ybersecurity 4 
+preparedness for the Executive Branch of State government;  5 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 6 
+October 1, 2025.  7 
+ 
+ 
+ 
+ 
+Approved:  
+________________________________ ________________________________ ________________   
+           Governor.  
+________________________________ ________________________________ ________________   
+         Speaker of the House of Delegates.  
+________________________________ ________________________________ ________________   
+                 President of the Senate.  

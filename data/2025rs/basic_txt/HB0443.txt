@@ -1,0 +1,160 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.             *hb0443*      
+HOUSE BILL 443  
+J1   5lr1402  
+      
+By: Delegates Taveras, Lehman, Pena –Melnyk, Roberson, and Williams  
+Introduced and read first time: January 16, 2025  
+Assigned to: Health and Government Operations  
+Committee Report: Favorable  
+House action: Adopted  
+Read second time: February 18, 2025  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Baby Food Labeling – Statement Regarding Toxic Heavy Metal Testing  – 2 
+Terminology  3 
+ 
+FOR the purpose of altering the statement that must be included on a baby food product 4 
+label if the baby food product has been tested for toxic heavy metals  for the purpose 5 
+of changing the term included on the label from “toxic heavy metal” to “toxic 6 
+element” ; and generally relating to the labeling of baby food . 7 
+ 
+BY repealing and reenacting, with amendments,  8 
+ Article – Health – General  9 
+Section 21 –330.4  10 
+ Annotated Code of Maryland  11 
+ (2023 Replacement Volume and 2024 Supplement)  12 
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 13 
+That the Laws of Maryland read as follows:  14 
+ 
+Article – Health – General  15 
+ 
+21–330.4.  16 
+ 
+ (a) (1) In this section the following  words have the meanings indicated.  17 
+ 
+  (2) (i) “Baby food” means food packaged in a jar, pouch, tub, or box sold 18 
+specifically for babies and children under the age of 2 years.  19 
+2 HOUSE BILL 443   
+ 
+  
+   (ii) “Baby food” does not include infant formula, as defined in 21 1 
+U.S.C. § 321(z).  2 
+ 
+  (3) “Manufacturer” includes a food manufacturer, food processor, and food 3 
+packer.  4 
+ 
+  (4) “Production aggregate” means a quantity of product that is intended to 5 
+have uniform composition, character, and quality and is produced according to a maste r 6 
+manufacturing order.  7 
+ 
+  (5) “Proficient laboratory” means a laboratory that:  8 
+ 
+   (i) Is accredited under the standards of the International 9 
+Organization for Standardization/International Electrotechnical Commission 17025:2017;  10 
+ 
+   (ii) Uses an analytical  method at least as sensitive as the analytical 11 
+method described in Section 4.7 of the U.S. Food and Drug Administration Elemental 12 
+Analysis Manual for Food and Related Products; and  13 
+ 
+   (iii) Demonstrates proficiency in quantifying each toxic element to at  14 
+least 6 micrograms of the toxic element to kilogram of food through an independent 15 
+proficiency test by achieving a z –score that is less than or equal to plus or minus two.  16 
+ 
+  (6) “QR code” means a machine –readable code, consisting of an array of 17 
+squares, used for storing an Internet website in order to access a webpage.  18 
+ 
+  (7) “Representative sample” means a sample that consists of a number of 19 
+units that are drawn based on rational criteria, such as random sampling, and intended to 20 
+ensure that the sample a ccurately portrays the material being sampled.  21 
+ 
+  (8) “Toxic heavy metal ” means arsenic, cadmium, lead, or mercury.   22 
+ 
+ (b) (1) Except as provided in paragraph (2) of this subsection, on or after 23 
+January 1, 2025, a person may not sell, distribute, or offer for sale baby food in the State 24 
+that contains toxic heavy metals  that exceed the limits established by the U.S. Food and 25 
+Drug Administration.  26 
+ 
+  (2) A person may sell, distribute, or offer for sale baby food manufactured 27 
+before January 1, 2026.  28 
+ 
+ (c) (1) Beginning January 1, 2025, each manufacturer of baby food shall test 29 
+a representative sample of each production aggregate of the manufacturer’s final baby food 30 
+product for each toxic heavy metal.  31 
+ 
+  (2) The testing required under paragraph (1) of this subsection shall be 32 
+conducted by a proficient laboratory at least once per month.  33 
+ HOUSE BILL 443  3 
+ 
+  
+  (3) A manufacturer may test the final baby food product in accordance with 1 
+paragraph (1) of this subsection before packaging individual units of baby food for sale or 2 
+distribution.  3 
+ 
+ (d) On the request of the Department, a manufacturer of baby food shall provide 4 
+the results of the testing conducted under subsection (c) of this section to an authorized 5 
+agent of the Department.  6 
+ 
+ (e) Beginning January 1, 2026, each manufactur er of baby food shall:  7 
+ 
+  (1) Make publicly available on the manufacturer’s website for each baby 8 
+food product sold, manufactured, delivered, held, or offered for sale in the State:  9 
+ 
+   (i) The name and level of each toxic heavy metal present  in the final 10 
+baby food product as determined by the testing conducted under subsection (c) of this 11 
+section;  12 
+ 
+   (ii) Sufficient information, such as the product name, universal 13 
+product code, or lot or batch number, to enable consumers to identify the final baby food 14 
+product; and  15 
+ 
+   (iii) A link to the U.S. Food and Drug Administration’s website that 16 
+includes the most recent U.S. Food and Drug Administration guidance and information 17 
+about the health effects of the toxic heavy metals on  children; and  18 
+ 
+  (2) If the baby f ood is tested for a toxic heavy metal subject  to an action 19 
+level, regulatory limit, or tolerance established by the U.S. Food and Drug Administration 20 
+under 21 C.F.R. § 109, include on the baby food product label:  21 
+ 
+   (i) The following statement: “For infor mation about toxic [heavy 22 
+metal ] ELEMENT  testing on this product, scan the [Quick Response (QR) ] QR code.”; and  23 
+ 
+   (ii) A QR code or other machine –readable code that allows 24 
+consumers to access on the manufacturer’s website or the baby food product informa tion 25 
+page:  26 
+ 
+    1. The test results for the toxic heavy metals; and  27 
+ 
+    2. A link to the webpage on the U.S. Food and Drug 28 
+Administration website that includes the most recent guidance and information about the 29 
+health effects of the toxic heavy metal on c hildren.  30 
+ 
+ (f) If a consumer believes, based on information gathered through the use of the 31 
+code included on the baby food product label under subsection (e)(2) of this section, that 32 
+baby food is being sold in the State with toxic heavy metals that  exceed limits established 33 
+4 HOUSE BILL 443   
+ 
+ by the U.S. Food and Drug Administration, the consumer shall report the baby food to the 1 
+Department.  2 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 3 
+October 1, 2025.  4 
+ 
+ 
+ 
+Approved:  
+________________________________ ________________________________ ________________   
+           Governor.  
+________________________________ ________________________________ ________________   
+         Speaker of the House of Delegates.  
+________________________________ ________________________________ ________________   
+                 President of the Senate.  

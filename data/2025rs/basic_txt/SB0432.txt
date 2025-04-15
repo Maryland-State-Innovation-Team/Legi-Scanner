@@ -1,0 +1,374 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.             *sb0432*      
+SENATE BILL 432  
+E2   5lr0442  
+    CF HB 499  
+By: The President (By Request – Administration) and Senators Charles, Ellis, 
+Henson, Hettleman, King, and West  West, Smith, Waldstreicher, Love, Muse, 
+and Sydnor  
+Introduced and read first time: January 20, 2025  
+Assigned to: Judicial Proceedings  
+Committee Report: Favorable with amendments  
+Senate action: Adopted  
+Read second time: February 24, 2025  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Criminal Records – Expungement and Maryland Judiciary Case Search  2 
+(Expungement Reform Act of 2025)  3 
+ 
+FOR the purpose of altering certain provisions of law relating to waiting periods for the 4 
+filing of certain petitions for expungement t o authorize the filing of a petition a 5 
+certain amount of time after the completion of the sentence; adding to the list of 6 
+misdemeanor convictions that a person may expunge under certain circumstances; 7 
+requiring a court to determine that a person seeking a certain expungement has paid 8 
+restitution ordered by the court or does not have the ability to pay the restitution  9 
+make certain determinations in relation to a petition to expungement, under certain 10 
+circumstances ; prohibiting the Maryland Judiciary Case Search from in any way 11 
+referring to the existence of certain records; and generally relating to expungement 12 
+and the Maryland Judiciary Case Search.  13 
+ 
+BY repealing and reenacting, with amendments,  14 
+ Article – Crimi nal Procedure  15 
+ Section 10 –101, 10 –105(c)(6) and (8) and (e) , 10–110(a), (c), and (f), and 10 –401 16 
+ Annotated Code of Maryland  17 
+ (2018 Replacement Volume and 2024 Supplement)  18 
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 19 
+That the Laws of Ma ryland read as follows:  20 
+ 
+2 SENATE BILL 432   
+ 
+ Article – Criminal Procedure  1 
+ 
+10–101. 2 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  3 
+ 
+ (b) “Central Repository” means the Criminal Justice Information System Central 4 
+Repository in the Department.  5 
+ 
+ (c) “COMPLETION OF THE SEN TENCE” MEANS THE TIME WHEN A SENTENCE 6 
+HAS EXPIRED , INCLUDING ANY PERIOD  OF PROBATION , PAROLE , OR MANDATORY 7 
+SUPERVISION . 8 
+ 
+ (D) (1) “Court record” means an official record of a court that the clerk of a 9 
+court or other court personnel ke eps about:  10 
+ 
+   (i) a criminal proceeding; or  11 
+ 
+   (ii) any other proceeding, except a juvenile proceeding, concerning a 12 
+civil offense or infraction enacted under State or local law as a substitute for a criminal 13 
+charge.  14 
+ 
+  (2) “Court record” includes:  15 
+ 
+   (i) a record of a violation of the Transportation Article for which a 16 
+term of imprisonment may be imposed; and  17 
+ 
+   (ii) an index, docket entry, charging document, pleading, 18 
+memorandum, transcription of proceedings, electronic recording, order, and judgment.  19 
+ 
+ [(d)] (E) “Expunge” means to remove information from public inspection in 20 
+accordance with this subtitle.  21 
+ 
+ [(e)] (F) Except as otherwise provided in this subtitle, “expungement” with 22 
+respect to a court record or a police record means removal from public  inspection:  23 
+ 
+  (1) by obliteration;  24 
+ 
+  (2) by removal to a separate secure area to which persons who do not have 25 
+a legitimate reason for access are denied access; or  26 
+ 
+  (3) if access to a court record or police record can be obtained only by 27 
+reference to another court record or police record, by the expungement of it or the part of it 28 
+that provides access.  29 
+ 
+ SENATE BILL 432  3 
+ 
+  [(f)] (G) “Law enforcement unit” means a State, county, or municipal police 1 
+department or unit, the office of a sheriff, the office of a State’s Attor ney, the Office of the 2 
+State Prosecutor, or the Office of the Attorney General of the State.  3 
+ 
+ [(g)] (H) “Minor traffic violation” means a nonincarcerable violation of the 4 
+Maryland Vehicle Law or any other traffic law, ordinance, or regulation.  5 
+ 
+ [(h)] (I) “Police record” means an official record that a law enforcement unit, 6 
+booking facility, or the Central Repository maintains about the arrest and detention of, or 7 
+further proceeding against, a person for:  8 
+ 
+  (1) a criminal charge;  9 
+ 
+  (2) a suspected violat ion of a criminal law;  10 
+ 
+  (3) a violation of the Transportation Article for which a term of 11 
+imprisonment may be imposed; or  12 
+ 
+  (4) a civil offense or infraction, except a juvenile offense, enacted under 13 
+State or local law as a substitute for a criminal cha rge. 14 
+ 
+10–105. 15 
+ 
+ (c) (6) A petition for expungement based on the conviction of a crime under 16 
+subsection (a)(9) of this section may not be filed within 3 years after the [conviction or 17 
+satisfactory completion of the sentence, including probation, that was im posed for the 18 
+conviction, whichever is later ] COMPLETION OF THE SE NTENCE . 19 
+ 
+  (8) A petition for expungement based on the conviction of a crime under 20 
+subsection (a)(12) of this section may not be filed before [satisfactory ] THE completion of 21 
+the sentence [, including probation, that was imposed for the conviction ]. 22 
+ 
+ (e) (1) If the State’s Attorney files a timely objection to the petition, the court 23 
+shall hold a hearing.  24 
+ 
+  (2) If the court at the hearing finds that the person is entitled to 25 
+expungement, the court shall order the expungement of all police records and court records 26 
+about the charge.  27 
+ 
+  (3) If the court finds that the person is not entitled to expungement, the 28 
+court shall deny the petition.  29 
+ 
+  (4) The person is not entitled to expungement if:  30 
+ 
+   (i) except as provided in item (ii) of this paragraph, the petition is 31 
+based on the entry of probation before judgment, except a probation before judgment for a 32 
+4 SENATE BILL 432   
+ 
+ crime where the act on which the conviction is based is no longer a crime, and the person 1 
+within 3 years after the entry of the probation before judgment has been convicted of a 2 
+crime other than a minor traffic violation or a crime where the act on which the conviction 3 
+is based is no longer a crime;  4 
+ 
+   (ii) the petition is based on the entry of p robation before judgment 5 
+for a violation of § 21 –902(a) or (b) of the Transportation Article and the person within 15 6 
+years after the entry of the probation before judgment has:  7 
+ 
+    1. been convicted of a crime other than a minor traffic 8 
+violation or a cr ime where the act on which the conviction is based is no longer a crime; or  9 
+ 
+    2. received probation before judgment for a violation of §  10 
+21–902 of the Transportation Article; or  11 
+ 
+   (iii) the person is a defendant in a pending criminal proceeding.  12 
+ 
+  (5) IN DETERMINING WHETHE R THE PERSON IS ENTI TLED TO 13 
+EXPUNGEMENT , THE COURT SHALL CONS IDER , TO THE EXTENT APPLIC ABLE : 14 
+ 
+   (I) THE PERSON ’S SUCCESS AT PROBATI ON, PAROLE , OR 15 
+MANDATORY SUPERVISIO N; AND  16 
+ 
+   (II) WHETHER THE PERSON H AS PAID ANY MONETARY  17 
+RESTITUT ION ORDERED BY THE C OURT IN THE ORIGINAL  PROCEEDING OR DOES 18 
+NOT HAVE THE ABILITY  TO PAY THE RESTITUTI ON.  19 
+ 
+10–110. 20 
+ 
+ (a) A person may file a petition listing relevant facts for expungement of a police 21 
+record, court record, or other record maintained by the  State or a political subdivision of 22 
+the State if the person is convicted of:  23 
+ 
+  (1) a misdemeanor that is a violation of:  24 
+ 
+   (i) § 6–320 of the Alcoholic Beverages and Cannabis Article;  25 
+ 
+   (ii) an offense listed in § 17 –613(a) of the Business Occupations and 26 
+Professions Article;  27 
+ 
+   (iii) § 5–712, § 19 –304, § 19 –308, or Title 5, Subtitle 6 or Subtitle 9 of 28 
+the Business Regulation Article;  29 
+ 
+   (iv) § 3–1508 or § 10 –402 of the Courts Article;  30 
+ 
+ SENATE BILL 432  5 
+ 
+    (v) § 14 –1915, § 14 –2902, or § 14 –2903 of the Comm ercial Law 1 
+Article;  2 
+ 
+   (vi) § 5–211 of this article;  3 
+ 
+   (vii) § 3–203 or § 3 –808 of the Criminal Law Article;  4 
+ 
+   (viii)  § 5–601 not involving the use or possession of cannabis, §  5 
+5–602(b)(1), § 5 –618, § 5 –619, § 5 –620, § 5 –703, § 5 –708, or § 5 –902 of the Criminal Law 6 
+Article;  7 
+ 
+   (ix) § 6–105, § 6 –108, § 6 –205 (fourth degree burglary), § 6 –206, §  8 
+6–301, § 6 –303, § 6 –306, § 6 –307, § 6 –402, or § 6 –503 of the Criminal Law Article;  9 
+ 
+   (x) § 7–104, § 7 –203, § 7 –205, § 7 –304, § 7 –308, or § 7 –309 of the 10 
+Criminal Law Article;  11 
+ 
+   (xi) § 8–103, § 8–106,  § 8–204,  § 8–206, § 8 –401, § 8 –402, § 8 –404, § 12 
+8–406, § 8 –408, § 8 –503, § 8 –521, § 8 –523, § 8–610,  or § 8 –904 of the Criminal Law Article;  13 
+ 
+   (xii) § 9–204, § 9 –205, § 9–408,  § 9–501,  § 9–502,  § 9–503, or §  14 
+9–506 of the Criminal Law Article;  15 
+ 
+   (xiii)  § 10 –110, § 10 –201, § 10 –402, § 10 –404, or § 10 –502 of the 16 
+Criminal Law Article;  17 
+ 
+   (xiv) § 11–303, § 11 –306, or § 11 –307 of the Criminal Law Article;  18 
+ 
+   (xv) § 12–102, § 12 –103, § 12 –104, § 12 –105, § 12 –109, § 12–203, § 19 
+12–204, § 12 –205, or § 12 –302 of the Criminal Law Article;  20 
+ 
+   (xvi) § 13–401, § 13 –602, or § 16 –201 of the Election Law Article;  21 
+ 
+   (xvii)  § 4–509 of the Family Law Article;  22 
+ 
+   (xviii)  § 18–215 of the Health – General Article;  23 
+ 
+   (xix) § 4–411 or § 4 –2005 of the Housing and Community Development 24 
+Article;  25 
+ 
+   (xx) § 27–403, § 27 –404, § 27 –405, § 27 –406, § 27 –406.1, § 27 –407, § 26 
+27–407.1, or § 27 –407.2 of the Insurance Article;  27 
+ 
+   (xxi) § 8–725.4, § 8 –725.5, § 8 –725.6, § 8 –725.7, § 8 –726, § 8 –726.1, § 28 
+8–727.1, or § 8 –738.2 of the Natural Resources Article or any prohibited act related to speed 29 
+limits for personal watercraft;  30 
+ 
+6 SENATE BILL 432   
+ 
+    (xxii)  § 10 –301, § 10 –306, § 10 –308.1, § 10 –413(e)(1), § 10 –418, §  1 
+10–502, § 10 –611, or § 10 –907(a) of the Natural R esources Article;  2 
+ 
+   (xxiii)  § 5–307, § 5 –308, § 6 –602, § 7 –402, or § 14 –114 of the Public 3 
+Safety Article;  4 
+ 
+   (xxiv)  § 7–318.1, § 7 –509, or § 10 –507 of the Real Property Article;  5 
+ 
+   (xxv)  § 9–124 of the State Government Article;  6 
+ 
+   (xxvi)  § 13 –1001, § 13–1004, § 13 –1007, or § 13 –1024 of the  7 
+Tax – General Article;  8 
+ 
+   (xxvii)  § 16–101 OR § 16–303 of the Transportation Article; or  9 
+ 
+   (xxviii)  the common law offenses of affray, rioting, criminal 10 
+contempt, battery, or hindering;  11 
+ 
+  (2) a felony that is a violation of:  12 
+ 
+   (i) § 7–104 of the Criminal Law Article;  13 
+ 
+   (ii) the prohibition against possession with intent to distribute a 14 
+controlled dangerous substance under § 5 –602 of the Criminal Law Article; or  15 
+ 
+   (iii) § 6–202(a), § 6 –203, or § 6 –204 of the  Criminal Law Article; or  16 
+ 
+  (3) an attempt, a conspiracy, or a solicitation of any offense listed in item 17 
+(1) or (2) of this subsection.  18 
+ 
+ (c) (1) Except as otherwise provided in this subsection, a petition for 19 
+expungement under this section may not be fi led earlier than 5 years after the [person 20 
+satisfies the sentence or sentences imposed for all convictions for which expungement is 21 
+requested, including parole, probation, or mandatory supervision ] COMPLETION OF THE 22 
+SENTENCE . 23 
+ 
+  (2) A petition for expungement for a violation of § 3 –203 of the Criminal 24 
+Law Article or common law battery may not be filed earlier than 7 years after the [person 25 
+satisfies the sentence or sentences imposed for all convictions for which expungement is 26 
+request ed, including parole, probation, or mandatory supervision ] COMPLETION OF THE 27 
+SENTENCE . 28 
+ 
+  (3) A petition for expungement for an offense classified as a domestically 29 
+related crime under § 6 –233 of this article may not be filed earlier than 15 years after th e 30 
+[person satisfies the sentence or sentences imposed for all convictions for which 31 
+ SENATE BILL 432  7 
+ 
+ expungement is requested, including parole, probation, or mandatory supervision ] 1 
+COMPLETION OF THE SE NTENCE . 2 
+ 
+  (4) Except as provided in paragraphs (5) and (6) of this sub section, a 3 
+petition for expungement of a felony may not be filed earlier than 7 years after the [person 4 
+satisfies the sentence or sentences imposed for all convictions for which expungement is 5 
+requested, including parole, probation, or mandatory supervisio n] COMPLETION OF THE 6 
+SENTENCE . 7 
+ 
+  (5) A petition for expungement of a conviction of possession with intent to 8 
+distribute cannabis under § 5 –602 of the Criminal Law Article may not be filed earlier than 9 
+3 years after the [person satisfies the sentence or se ntences imposed for all convictions for 10 
+which expungement is requested, including parole, probation, or mandatory supervision ] 11 
+COMPLETION OF THE SE NTENCE . 12 
+ 
+  (6) A petition for expungement of a conviction for § 6 –202(a), § 6 –203, or a 13 
+felony that is a viol ation of § 7 –104 of the Criminal Law Article may not be filed earlier 14 
+than 10 years after the [person satisfies the sentence or sentences imposed for all 15 
+convictions for which expungement is requested, including parole, probation, or mandatory 16 
+supervision ] COMPLETION OF THE SE NTENCE . 17 
+ 
+ (f) (1) If the State’s Attorney or a victim files a timely objection to the petition, 18 
+the court shall hold a hearing.  19 
+ 
+  (2) The court shall order the expungement of all police records and court 20 
+records about the charge after  a hearing, if the court finds and states on the record:  21 
+ 
+   (i) that the conviction is eligible for expungement under subsection 22 
+(a) of this section;  23 
+ 
+   (ii) that the person is eligible for expungement under subsection (d) 24 
+of this section;  25 
+ 
+   (iii) that giving due regard to the nature of the crime, the history and 26 
+character of the person, THE PERSON ’S SUCCESS AT COURT–ORDERED PROBATION  27 
+PROBATION , PAROLE , OR MANDATORY SUPERVI SION , and the person’s success at 28 
+rehabilitation, the person is not a risk to  public safety; [and] 29 
+ 
+   (iv) THAT THE PERSON HAS PAID ANY MONETARY RE STITUTION 30 
+ORDERED BY THE COURT  IN THE ORIGINAL PROC EEDING OR DOES NOT H AVE THE 31 
+ABILITY TO PAY THE R ESTITUTION ; AND  32 
+ 
+   (V) that an expungement would be in the interest of justice.  33 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 34 
+as follows:  35 
+8 SENATE BILL 432   
+ 
+  
+Article – Criminal Procedure  1 
+ 
+10–401. 2 
+ 
+ (A) The Maryland Judiciary Case Search may not in any way refer to the existence 3 
+of records of a charge in a case with electronic reco rds if the charge resulted in:  4 
+ 
+  (1) acquittal;  5 
+ 
+  (2) dismissal; [or]  6 
+ 
+  (3) nolle prosequi [, except nolle prosequi with the requirement of drug or 7 
+alcohol treatment ]; OR 8 
+ 
+  (4) THE COURT MARKING TH E CHARGE STET ON THE  DOCKET AT 9 
+LEAST 3 YEARS PREVIOUS LY.  10 
+ 
+ (B) THE MARYLAND JUDICIARY CASE SEARCH MAY NOT IN ANY  WAY REFER 11 
+TO THE EXISTENCE OF RECORDS OF A CHARGE OF POSSESSION OF CAN NABIS IN A 12 
+CASE WITH ELECTRONIC  RECORDS IF THE CHARG E RESULTED IN A CONV ICTION 13 
+THAT WAS LATER PARDO NED BY THE GOVERNOR .  14 
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That Section 2 of this Act shall take 15 
+effect January 1  January 31 , 2026.  16 
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED, That, except as provided in Section 17 
+3 of this Act, this Act shall take effect October 1, 2025.  18 
+ 
+ 
+ 
+ 
+ 
+Appro ved: 
+________________________________ ________________________________ ________________   
+           Governor.  
+________________________________ ________________________________ ________________   
+                 President of the Senate.  
+________________________________ ________________________________ ________________   
+         Speaker of the House of Delegates.  

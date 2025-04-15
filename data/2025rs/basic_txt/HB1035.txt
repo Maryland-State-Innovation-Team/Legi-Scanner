@@ -1,0 +1,3289 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.             *hb1035*      
+HOUSE BILL 1035  
+C5, M5    5lr2358  
+    CF SB 937  
+By: The Speaker and Delegate Wilson  
+Introduced and read first time: February 5, 2025  
+Assigned to: Economic Matters  
+Committee Report: Favorable with amendments  
+House action: Adopted  
+Read second time: March 21, 2025  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Public Utilities – Electricity Generation Planning – Procurement, Permitting, 2 
+and Co–Location  3 
+Electricity and Gas – Emissions Reductions, Rate Regulation, Cost Recovery, 4 
+Infrastructure, Planning, Renewable Energy Portfolio Standard, and Energy 5 
+Assistance Programs  6 
+(Next Generation Energy Act)  7 
+ 
+FOR the purpose of authorizing the Department of Housing and Community Development 8 
+to issue loans, in addition to grants, for certain purposes relating to reducing direct 9 
+greenhouse gas emissions from certain multifamily residential buildings;  requiring 10 
+the Maryland Energy Administration, in coordination with the Pu blic Service 11 
+Commission and the Department of Natural Resources, to pursue certain 12 
+agreements with neighboring states and federal agencies related to the development 13 
+of new nuclear energy generating stations; expanding the sources of savings that the 14 
+Depar tment of Housing and Community Development may procure and provide 15 
+when calculating the achievement of certain greenhouse gas emissions reduction 16 
+targets; requiring certain public service companies to demonstrate to the 17 
+Commission the reasonableness of the  use of certain labor in a base rate proceeding; 18 
+altering the required contents of a certain plan that a gas company may file with the 19 
+Commission for proposed eligible infrastructure replacement projects; requiring that 20 
+the plan meet certain requirements f or a gas company to recover certain costs; 21 
+altering the required findings of the Commission in considering whether to approve 22 
+a certain infrastructure replacement plan; authorizing the Commission to authorize 23 
+a gas company to use a mechanism to promptly re cover certain costs for certain 24 
+eligible infrastructure replacement projects; requiring each electric company to 25 
+2 HOUSE BILL 1035   
+ 
+ submit to the Commission for approval a specific rate schedule for certain large load 1 
+customers; requiring the Commission, in making a certain determination on a 2 
+specific rate schedule, to consider certain factors; authorizing the Commission to 3 
+approve the use of certain multiyear rate plans under certain circumstances; altering 4 
+the alternative forms of regulation that may be used by the Commissi on to regulate 5 
+the regulated services of certain public service companies; authorizing an  6 
+investor –owned gas company to recover certain costs associated with a gas 7 
+infrastructure investment if the investor –owned gas company makes certain 8 
+demonstrations at  a rate setting proceeding; prohibiting certain public service 9 
+companies from recovering through rates certain costs; specifying that certain 10 
+contracts entered into by certain public service companies include a contract that 11 
+has been executed, amended, or altered after a certain date; requiring each  12 
+investor –owned electric company in the State to submit to the Commission by certain 13 
+dates plans for the construction or procurement of distribution –connected  14 
+front –of–the–meter energy storage devices and to co nstruct or procure the devices in 15 
+accordance with the plan;  prohibiting an electricity supplier or other owner of a 16 
+certain generating station from entering into a certain contract with a commercial 17 
+or industrial customer under certain circumstances; autho rizing the Commission to 18 
+apply to a certain large load customer and a certain generating station certain costs 19 
+and fees under certain circumstances;  establishing a procurement process for the 20 
+Commission to evaluate and approve proposals and applications fo r dispatchable 21 
+energy generation projects and nuclear energy generation projects  establishing 22 
+certain processes and requirements for the solicitation and procurement of certain 23 
+dispatchable energy generation, large capacity energy resources, nuclear energy  24 
+generation, and front –of–the–meter transmission energy storage devices ; requiring 25 
+the Governor’s Office of Small, Minority, and Women Business Affairs, in 26 
+consultation with the Office of the Attorney General, to provide certain assistance to 27 
+potential app licants and minority investors and, in consultation with the Office of 28 
+the Attorney General and a certain applicant, establish a certain plan; requiring the 29 
+Commission to approve orders to facilitate the financing of nuclear energy generation 30 
+projects unde r certain circumstances; requiring each electric company to procure a 31 
+certain volume of nuclear energy from a certain escrow account; requiring a certain 32 
+nuclear energy generation project to sell certain energy, capacity, and ancillary 33 
+services into certai n markets and distribute the proceeds in a certain manner  34 
+requiring each electric company to procure a certain quantity of zero –emission 35 
+credits from a certain escrow account; authorizing certain units of State government 36 
+to issue certain competitive seale d bids for projects that are higher than the amount 37 
+authorized for small procurements; requiring the Chief Procurement Officer to 38 
+approve certain procurement contracts under certain circumstances; altering the 39 
+authorized uses of certain compliance fee reve nue paid into the Maryland Strategic 40 
+Energy Investment Fund; allowing a subtraction under the Maryland income tax for 41 
+certain legislative energy relief refunds ; altering the definition of “Tier 1 renewable 42 
+source” for purposes of excluding energy derived f rom waste and refuse from being 43 
+eligible for inclusion in the renewable energy portfolio standard ; establishing an 44 
+expedited certificate of public convenience and necessity review process for certain 45 
+generating stations and energy storage devices; requirin g that certain funds in the 46 
+Maryland Strategic Energy Investment Fund be used in a certain manner in a 47 
+ HOUSE BILL 1035  3 
+ 
+ certain fiscal year; requiring the Department of Human Services to report to the 1 
+Governor and the General Assembly on certain changes necessary to implem ent a 2 
+certain recommendation;  and generally relating to energy generation and 3 
+procurement in Maryland  electricity and gas .  4 
+ 
+BY repealing  5 
+ Article – Public Utilities  6 
+Section 7 –701(h –1) and (i)  7 
+ Annotated Code of Maryland  8 
+ (2020 Replacement Volume and 202 4 Supplement)  9 
+ 
+BY renumbering  10 
+ Article – Public Utilities  11 
+Section 7 –701(i –1)  12 
+to be Section 7 –701(i)  13 
+ Annotated Code of Maryland  14 
+ (2020 Replacement Volume and 2024 Supplement)  15 
+ 
+BY repealing and reenacting, with amendments,  16 
+ Article – Housing and Community  Development  17 
+ Section 4 –211(d)  18 
+ Annotated Code of Maryland  19 
+ (2019 Replacement Volume and 2024 Supplement)  20 
+ 
+BY repealing and reenacting, without amendments,  21 
+ Article – Public Utilities  22 
+Section 1 –101(a) , 7–224(a) and (b), and 7 –701(a)  23 
+ Annotated Code of Mar yland  24 
+ (2020 Replacement Volume and 2024 Supplement)  25 
+ 
+BY repealing and reenacting, with amendments,  26 
+ Article – Public Utilities  27 
+ Section 1 –101(i), (l), and (ee), 4 –210, 5 –305, 7 –207(b)(1)(i), 7 –216(a), 7 –224(c),  28 
+ 7–505(c), 7 –701(s), and 7 –704(a)  29 
+ Annotate d Code of Maryland  30 
+ (2020 Replacement Volume and 2024 Supplement)  31 
+ 
+BY adding to  32 
+ Article – Public Utilities  33 
+Section 1 –101(w –1) and (w –2), 4–206.1, 4 –212, 4 –213, 4 –214, 4 –504, 7–207(b)(1)(iv) 34 
+and, (v), and (vi), 7–207.4, 7 –211, 7–216.2,  and 7 –506.1; and 7 –1201 through 35 
+7–1218  7–1229  to be under the new subtitle “Subtitle 12. Energy Solicitation 36 
+and Procurement”  37 
+ Annotated Code of Maryland  38 
+ (2020 Replacement Volume and 2024 Supplement)  39 
+ 
+BY repealing and reenacting, with amendments,  40 
+4 HOUSE BILL 1035   
+ 
+  Articl e – Public Utilities  1 
+Section 7 –207(b)(1)(i)  2 
+ Annotated Code of Maryland  3 
+ (2020 Replacement Volume and 2024 Supplement)  4 
+ 
+BY repealing and reenacting, with amendments,  5 
+ Article – State Finance and Procurement  6 
+ Section 13 –102(a)  7 
+ Annotated Code of Maryland  8 
+ (2021 Replacement Volume and 2024 Supplement)  9 
+ 
+BY adding to  10 
+ Article – State Finance and Procurement  11 
+ Section 13 –117 12 
+ Annotated Code of Maryland  13 
+ (2021 Replacement Volume and 2024 Supplement)  14 
+ 
+BY repealing and reenacting, without amendments,  15 
+ Article – State Government  16 
+ Section 9 –20B–05(a)  17 
+ Annotated Code of Maryland  18 
+ (2021 Replacement Volume and 2024 Supplement)  19 
+ 
+BY repealing and reenacting, with amendments,  20 
+ Article – State Government  21 
+ Section 9 –20B–05(e) and (i)  22 
+ Annotated Code of Maryland  23 
+ (2021 Replacement Volume and 2024 Supplement)  24 
+ 
+BY repealing and reenacting, without amendments,  25 
+ Article – Tax – General  26 
+ Section 10 –207(a)  27 
+ Annotated Code of Maryland  28 
+ (2022 Replacement Volume and 2024 Supplement)  29 
+ 
+BY adding to  30 
+ Article – Tax – General  31 
+ Section  10–207(qq)  32 
+ Annotated Code of Maryland  33 
+ (2022 Replacement Volume and 2024 Supplement)  34 
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 35 
+That Section(s) 7 –701(h –1) and (i) of Article – Public Utilities of the Annotated Code of 36 
+Maryland be re pealed.  37 
+ 
+ HOUSE BILL 1035  5 
+ 
+  SECTION 2. AND BE IT FURTHER ENACTED, That Section(s) 7 –701(i –1) of 1 
+Article – Public Utilities of the Annotated Code of Maryland be renumbered to be Section(s) 2 
+7–701(i).  3 
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 4 
+as fo llows:  5 
+ 
+Article – Housing and Community Development  6 
+ 
+4–211. 7 
+ 
+ (d) (1) (i) In this subsection the following words have the meanings 8 
+indicated.  9 
+ 
+   (ii) “Covered building” has the meaning stated in § 2 –1601 of the 10 
+Environment Article.  11 
+ 
+   (iii) “Energy conservation project” means a project that qualifies 12 
+under § 4 –218 of this subtitle.  13 
+ 
+  (2) For the purpose of reducing direct greenhouse gas emissions from 14 
+multifamily residential buildings in accordance with the standards adopted under § 2 –1602 15 
+of the En vironment Article, the Administration shall develop and implement a program to 16 
+provide grants AND LOANS  for energy conservation projects and projects to install 17 
+renewable energy generating systems in covered buildings that house primarily low – to 18 
+moderate –income households.  19 
+ 
+  (3) Grants  AND LOANS  provided under this subsection may not be used for 20 
+a project to install new equipment that uses fossil fuels or improve the efficiency of existing 21 
+equipment that uses fossil fuels.  22 
+ 
+  (4) In each of fiscal years 2 024 through 2026, the Governor shall include in 23 
+the annual budget bill an appropriation of $5,000,000 to the Department for the purpose of 24 
+providing grants AND LOANS  under this subsection.  25 
+ 
+  (5) On or before December 1, 2023, and each December 1 thereafte r, the 26 
+Administration shall report to the Governor and, in accordance with § 2 –1257 of the State 27 
+Government Article, the General Assembly on the projects funded under this subsection.   28 
+ 
+Article – Public Utilities  29 
+ 
+1–101. 30 
+ 
+ (a) In this division the followin g words have the meanings indicated.  31 
+ 
+ (i) (1) “Electric company” means a person who physically transmits or 32 
+distributes electricity in the State to a retail electric customer.  33 
+6 HOUSE BILL 1035   
+ 
+  
+  (2) “Electric company” does not include:  1 
+ 
+   (i) the following persons who supply electricity and electricity 2 
+supply services solely to occupants of a building for use by the occupants:  3 
+ 
+    1. an owner/operator who holds ownership in and manages 4 
+the internal distribution system serving the building; or  5 
+ 
+    2. a lessee/operator who holds a leasehold interest in and 6 
+manages the internal distribution system serving the building;  7 
+ 
+   (ii) any person who generates on –site generated electricity; [or] 8 
+ 
+   (iii) a person who transmits or distributes electricity within a site 9 
+owned by th e person or the person’s affiliate that is incidental to a primarily  10 
+landlord –tenant relationship ; OR 11 
+ 
+   (IV) A PERSON WHO PROVIDE S ELECTRICITY TO A COMMERCIAL 12 
+OR INDUSTRIAL  CUSTOMER IN ACCORDAN CE WITH § 7–506.1  OF THIS ARTICLE . 13 
+ 
+ (l) (1) “Electricity supplier” means a person:  14 
+ 
+   (i) who sells:  15 
+ 
+    1. electricity;  16 
+ 
+    2. electricity supply services;  17 
+ 
+    3. competitive billing services; or  18 
+ 
+    4. competitive metering services; or  19 
+ 
+   (ii) who purchases, brokers, arranges, or markets electricity or 20 
+electricity supply services for sale to a retail electric customer.  21 
+ 
+  (2) “Electricity supplier” includes an electric company, an aggregator, a 22 
+broker, [and] a marketer of electricity , AND A PERSON WHO PRO VIDES ELECTRICITY TO  23 
+A COMMERCIAL OR INDUST RIAL  CUSTOMER IN ACCORDAN CE WITH § 7–506.1  OF 24 
+THIS ARTICLE . 25 
+ 
+  (3) “Electricity supplier” does not include:  26 
+ 
+   (i) the following persons who supply electricity and electricity 27 
+supply services solely to occupants of a building for use by the occupants:  28 
+ 
+ HOUSE BILL 1035  7 
+ 
+     1. an owner/operator who holds ownership in and manages 1 
+the internal distribution system serving the building; or  2 
+ 
+    2. a lessee/operator who holds a leasehold interest in and 3 
+manages the internal distribution system serving the building;  4 
+ 
+   (ii) a person  who generates on –site generated electricity; or  5 
+ 
+   (iii) a person that owns or operates equipment used for charging 6 
+electric vehicles, including a person that owns or operates:  7 
+ 
+    1. an electric vehicle charging station;  8 
+ 
+    2. electric vehicle supply  equipment; or  9 
+ 
+    3. an electric vehicle charging station service company or 10 
+provider.   11 
+ 
+ (W–1) “PJM  INTERCONNECTION ” OR, “PJM  INTERCONNECTION , LLC”  12 
+MEANS , OR “PJM”  MEANS  PJM  INTERCONNECTION , LLC  OR ANY SUCCESSOR 13 
+ORGANIZATION THAT  SERVICES THE PJM  REGION . 14 
+ 
+ (W–2) “PJM  REGION” MEANS THE CONTROL AR EA ADMINISTERED BY PJM  15 
+INTERCONNECTION , AS THE AREA MAY CHAN GE FROM TIME TO TIME . 16 
+ 
+ (ee) (1) “Retail electric customer” means a purchaser of electricity for end use 17 
+in the State.  18 
+ 
+  (2) “Retail electric customer” includes:  19 
+ 
+   (i) a person that owns or operates equipment used for charging 20 
+electric vehicles, including:  21 
+ 
+    1. an electric vehicle charging station;  22 
+ 
+    2. electric vehicle supply equipment; or  23 
+ 
+    3. an electric vehicle charging station se rvice company or 24 
+provider; [and] 25 
+ 
+   (ii) a person that charges an electric vehicle at an electric vehicle 26 
+charging station that the person owns or operates ; AND  27 
+ 
+   (III) A COMMERCIAL OR INDUST RIAL  CUSTOMER THAT 28 
+PURCHASES ELECTRICIT Y IN ACCORDANCE WITH  § 7–506.1  OF THIS ARTICLE . 29 
+ 
+8 HOUSE BILL 1035   
+ 
+   (3) “Retail electric customer” does not include:  1 
+ 
+   (i) an occupant of a building in which the owner/operator or 2 
+lessee/operator manages the internal distribution system serving the building and supplies 3 
+electricity and electricity supply services solely to occupants of the building for use by the 4 
+occupants;  5 
+ 
+   (ii) a person who generates on –site generated electricity, to the 6 
+extent the on –site generated electricity is consumed by that person or its tenants; or  7 
+ 
+   (iii) except as provided in paragraph (2)(ii) of this subsection, a 8 
+person that charges an electric vehicle at an electric vehicle charging station.  9 
+ 
+4–206.1.  10 
+ 
+ (A) THIS SECTION APPLIES ONLY TO A PUBLIC SER VICE COMPANY THAT IS  11 
+AN INVESTOR –OWNED GAS COMPANY OR  INVESTOR –OWNED ELECTRIC COMPA NY. 12 
+ 
+ (B) IN A BASE RATE PROCEE DING TO SET JUST AND  REASONABLE RATES 13 
+UNDER THIS TITLE , EACH PUBLIC SERVICE COMPANY SHALL DEMONS TRATE TO THE 14 
+COMMISSION THE REASON ABLENESS OF THE USE OF INTERNAL LABOR IN  15 
+COMPARISON TO CONTRA CTUAL LABOR . 16 
+ 
+ (C) TO DEMONSTRATE REASON ABLENESS OF THE USE OF LABOR AS 17 
+REQUIRED UNDER SUBSE CTION (B) OF THIS SECTION , A PUBLIC SERVICE COM PANY 18 
+SHALL PROVIDE TO THE  COMMISSION , AT A MINIMUM : 19 
+ 
+  (1) A COMPARISON OF THE COSTS OF INTERNAL LA BOR AND 20 
+CONTRACTUAL LABOR ;  21 
+ 
+  (2) A DEMONSTRATION OF T HE REASONABLENESS OF  THE DECISION 22 
+TO USE  CONTRACTUAL LABOR ; 23 
+ 
+  (3) A JUSTIFICATION FOR THE USE OF CONTRACTU AL LABOR WHEN 24 
+USED INSTEAD OF INTE RNAL LABOR , INCLUDING A COST –BASED RATIONALE ; AND  25 
+ 
+  (4) ANY OTHER INFORMATIO N THAT THE COMMISSION REQUIRES . 26 
+ 
+4–210. 27 
+ 
+ (a) (1) In this section the following words have the meanings indicated.  28 
+ 
+  (2) “Customer” means a retail natural gas customer.  29 
+ 
+  (3) “Eligible infrastructure replacement” means a replacement or an 30 
+improvement in an existing infrastructure of a gas company that:  31 
+ HOUSE BILL 1035  9 
+ 
+  
+   (i) is made on or after June 1, 2013;  1 
+ 
+   (ii) is designed to improve public safety or infrastructure reliability;  2 
+ 
+   (iii) does not increase the revenue of a gas company by connecting an 3 
+improvement dire ctly to new customers;  4 
+ 
+   (iv) reduces or has the potential to reduce greenhouse gas emissions 5 
+through a reduction in natural gas system leaks; and  6 
+ 
+   (v) is not included in the current rate base of the gas company as 7 
+determined in the gas company’s most  recent base rate proceeding.  8 
+ 
+  (4) “Plan” means a plan that a gas company files under subsection [(d)] (E) 9 
+of this section.  10 
+ 
+  (5) “Project” means an eligible infrastructure replacement project proposed 11 
+by a gas company in a plan filed under this section . 12 
+ 
+ (b) It is the intent of the General Assembly that the purpose of this section is to 13 
+[accelerate ] ALLOW FOR THE APPROP RIATE ACCELERATION O F gas infrastructure 14 
+improvements in the State [by establishing a mechanism for gas companies to promptly 15 
+recover r easonable and prudent costs of investments in eligible infrastructure replacement 16 
+projects separate from base rate proceedings ] WHEN : 17 
+ 
+  (1) NECESSARY TO ENSURE SAFETY AND IMPROVE R ELIABILITY ; AND  18 
+ 
+  (2) CONSISTENT WITH STATE POLICY . 19 
+ 
+ (C) NOTHING IN THIS SECTION MAY BE CONST RUED TO ALTER A GAS 20 
+COMPANY ’S OBLIGATION UNDER T HIS DIVISION TO MAKE  IMPROVEMENTS TO A GA S 21 
+SYSTEM THAT ARE NECE SSARY TO ENSURE THE SAFETY OF THE GAS SY STEM . 22 
+ 
+ [(c)] (D) This section does not apply to a gas cooperative.  23 
+ 
+ [(d)] (E) (1) A gas company may file with the Commission:  24 
+ 
+   (i) a plan to invest in eligible infrastructure replacement projects; 25 
+and 26 
+ 
+   (ii) in accordance with paragraph [(4)] (5) of this subsection, a  27 
+cost–recovery schedule associated with the plan that includes a fixed annual surcharge on 28 
+customer bills to recover reasonable and prudent costs of proposed eligible infrastructure 29 
+replacement projects.  30 
+ 
+10 HOUSE BILL 1035   
+ 
+   (2) A plan under this subsection shall include:  1 
+ 
+   (i) A DESCRIPTION OF EAC H ELIGIBLE INFRASTRU CTURE 2 
+REPLACEMENT PROJECT , INCLUDING THE PROJEC T’S EXPECTED USEFUL LI FE; 3 
+ 
+   (II) a time line for the completion of each eligible project;  4 
+ 
+   [(ii)] (III) the estimated cost of each project;  5 
+ 
+   [(iii)] (IV) a description of customer benefits under the plan; [and] 6 
+ 
+   (V) A DEMONSTRATION THAT  THE GAS COMPANY HAS SELECTED 7 
+AND GIVEN PRIORITY T O PROJECTS BASED ON RISK TO THE PUBLIC A ND  8 
+COST–EFFECTIVENESS ; 9 
+ 
+   (VI) AN ANALYSIS THAT COM PARES THE COSTS OF P ROPOSED 10 
+REPLACEMENT PROJECTS  WITH ALTERNATIVES TO  REPLACEMENT , INCLUDING  11 
+LEAK DETECTION AND R EPAIR ; 12 
+ 
+   (VII) A PLAN FOR NOTIFYING  CUSTOMERS AFFECTED B Y 13 
+PROPOSED PROJECTS AT  LEAST 6 MONTHS IN ADVANCE OF  CONSTRUCTION ; AND  14 
+ 
+   [(iv)] (VIII) any other information the Commission considers 15 
+necessary to evaluate the plan.  16 
+ 
+  (3) A CUSTOMER NOTIFICATION PLAN REQUIRED UNDER PARAGRAPH 17 
+(2) OF THIS SUBSECTION S HALL PROVIDE FOR : 18 
+ 
+   (I) AN INITIAL NOTIFICAT ION OF CONSTRUCTION IN A MANNER 19 
+DETERMINED BY THE COMMISSION ; 20 
+ 
+   (II) AT LEAST TWO SUBSEQU ENT NOTIFICATIONS OF  21 
+CONSTRUCTION IN A MA NNER  DETERMINED BY THE COMMISSION ; AND  22 
+ 
+   (III) THE COMMUNICATING OF : 23 
+ 
+    1. A COMPLETE AND ACCUR ATE DESCRIPTION OF 24 
+PROJECT ACTIVITIES ; AND  25 
+ 
+    2. ANY OTHER INFORMATIO N THE COMMISSION 26 
+CONSIDERS NECESSARY TO EVALUATE THE PLAN . 27 
+ 
+  [(3)] (4) (i) When calculating the estimated cost of a project under 28 
+paragraph (2) of this subsection, a gas company shall include:  29 
+ 
+ HOUSE BILL 1035  11 
+ 
+     1. the pretax rate of return on the gas company’s investment 1 
+in the project;  2 
+ 
+    2. depreciation associated with the project, based on new 3 
+assets less retired plant; and  4 
+ 
+    3. property taxes associated with the project, based on new 5 
+assets less retired plant.  6 
+ 
+   (ii) The estimated project costs described in subparagraph (i) of this 7 
+paragraph are collectible at the same time the eligibl e infrastructure replacement is made.  8 
+ 
+   (iii) The pretax rate of return under subparagraph (i)1 of this 9 
+paragraph shall:  10 
+ 
+    1. be calculated using the gas company’s capital structure 11 
+and weighted average cost of capital as the Commission approved in th e gas company’s 12 
+most recent base rate proceeding; and  13 
+ 
+    2. include an adjustment for bad debt expenses as the 14 
+Commission approved in the gas company’s most recent base rate proceeding.  15 
+ 
+  [(4)] (5) For a plan filed under this section:  16 
+ 
+   (i) the cost–recovery schedule shall include a fixed annual 17 
+surcharge that:  18 
+ 
+    1. may not exceed $2 each month on each residential 19 
+customer account; and  20 
+ 
+    2. for each nonresidential customer account, may not be less 21 
+than the fixed annual surcharge applicable to a residential customer account, but shall be 22 
+capped under item (ii) of this paragraph; and  23 
+ 
+   (ii) to create a surcharge cap for all customer classes, costs shall be 24 
+allocated to nonresidential and residential customers consistent with the proportions of 25 
+total distribution revenues that those classes bear in accordance with the most recent base 26 
+rate proceeding for the gas company.  27 
+ 
+  (6) FOR A GAS COMPANY TO RECOVER COSTS ASSOCI ATED WITH 28 
+ELIGIBLE INFRASTRUCT URE REPLACEMENT PROJ ECTS , A PLAN SHALL 29 
+DEMONST RATE : 30 
+ 
+   (I) CUSTOMER BENEFITS ; AND  31 
+ 
+   (II) THAT THE GAS COMPANY  HAS: 32 
+12 HOUSE BILL 1035   
+ 
+  
+    1. ANALYZED AVAILABLE C OST–EFFECTIVE OPTIONS TO  1 
+DEFER , REDUCE , OR REMOVE THE NEED T O REPLACE , CONSTRUCT , OR UPGRADE 2 
+COMPONENTS OF THE GA S COMPANY ’S DISTRIBUTION INFRA STRUCTURE , 3 
+INCLUDING  LEAK DETECTION AND R EPAIR ; AND  4 
+ 
+    2. MET ANY OTHER REQUIR EMENTS ESTABLISHED B Y 5 
+THE COMMISSION WHEN SETTI NG RATES UNDER THIS TITLE . 6 
+ 
+  (7) A PLAN UNDER THIS SUBS ECTION SHALL BE FILE D SEPARATELY 7 
+FROM A BASE RATE PRO CEEDING . 8 
+ 
+  [(5)] (8) In a base  rate proceeding after approval of a plan, the 9 
+Commission shall, in establishing a gas company’s revenue requirements, take into account 10 
+any benefits the gas company realized as a result of a surcharge approved under the plan.  11 
+ 
+  [(6)] (9) Any adjustment f or return on equity based on an approved plan 12 
+only shall be considered and determined in a subsequently filed base rate case.  13 
+ 
+ [(e)] (F) (1) Within 180 days after a gas company files a plan, the 14 
+Commission:  15 
+ 
+   (i) may hold a public hearing on the plan; a nd 16 
+ 
+   (ii) shall take a final action to approve or deny the plan.  17 
+ 
+  (2) Within 150 days after a gas company files an amendment to an 18 
+approved plan, the Commission shall take final action to approve or deny the amendment.  19 
+ 
+  (3) The Commission may approve  a plan if it finds that the investments 20 
+and estimated costs of eligible infrastructure replacement projects are:  21 
+ 
+   (i) reasonable and prudent; [and] 22 
+ 
+   (ii) designed to improve public safety or infrastructure reliability 23 
+over the short term and long term; AND  24 
+ 
+   (III) REQUIRED TO IMPROVE THE SAFETY OF THE GA S SYSTEM 25 
+AFTER CONSIDERATION OF ALTERNATIVES TO R EPLACEMENT . 26 
+ 
+  (4) (i) The Commission shall approve the cost –recovery schedule 27 
+associated with the plan at the same time that it approves the plan.  28 
+ 
+   (ii) Costs recovered under the schedule approved in subparagraph (i) 29 
+of this paragraph may relate only to the projects within the plan approved by the 30 
+Commission.  31 
+ HOUSE BILL 1035  13 
+ 
+  
+  (5) The Commission may not consider a revenue requirement or  1 
+rate–making issue that is not related to the plan when reviewing a plan for approval or 2 
+denial unless the plan is filed in conjunction with a base rate case.  3 
+ 
+ [(f)] (G) (1) Subject to paragraph (2) of this subsection, if the Commission 4 
+does not take final action on a plan withi n the time period required under subsection [(e)] 5 
+(F) of this section, the gas company may implement the plan.  6 
+ 
+  (2) If a gas company implements a plan that the Commission has not 7 
+approved, the gas company shall refund to customers any amount of the surch arge that the 8 
+Commission later determines is not reasonable or prudent, including interest.  9 
+ 
+ (H) THE COMMISSION MAY AUTHOR IZE A GAS COMPANY TO  USE A 10 
+MECHANISM TO PROMPTL Y RECOVER REASONABLE  AND PRUDENT COSTS OF  11 
+INVESTMENTS FOR ELIG IBLE INFRASTRUCTURE REPL ACEMENT PROJECTS THA T:  12 
+ 
+  (1) ARE PART OF A PLAN A PPROVED UNDER THIS S ECTION OR 13 
+IMPLEMENTED UNDER SU BSECTION (G) OF THIS SECTION ; AND  14 
+ 
+  (2) ACCELERATE GAS INFRA STRUCTURE IMPROVEMEN TS IN THE 15 
+STATE . 16 
+ 
+ [(g)] (I) (1) (i) A surcharge under this section shall  be in effect for 5 years 17 
+from the date of initial implementation of an approved plan.  18 
+ 
+   (ii) 1. Before the end of the 5 –year period, the gas company shall 19 
+file a base rate case application.  20 
+ 
+    2. In a base rate proceeding filed under subsubparagraph 1  21 
+of this subparagraph, if a plan approved by the Commission remains in effect:  22 
+ 
+    A. eligible infrastructure project costs included in base rates 23 
+in accordance with a final Commission order on the base rate case shall be removed from a 24 
+surcharge; and  25 
+ 
+    B. the surcharge mechanism shall continue for eligible future 26 
+infrastructure project costs that are not included in the base rate case.  27 
+ 
+  (2) (i) If the actual cost of a plan is less than the amount collected under 28 
+a surcharge, the gas company shall refund to customers the difference on customer bills, 29 
+including interest.  30 
+ 
+   (ii) If the actual cost of a plan is more than the amount collected 31 
+under the surcharge and the Commission determines that the higher costs were reasonably 32 
+and prudently incurred , the Commission shall authorize the gas company to increase the 33 
+14 HOUSE BILL 1035   
+ 
+ surcharge to recover the difference, subject to the rate limit under subsection [(d)(4) ] (E)(5) 1 
+of this section.  2 
+ 
+ [(h)] (J) Each year a gas company shall file with the Commission a reconcili ation 3 
+to adjust the amount of a surcharge to account for any difference between the actual cost 4 
+of a plan and the actual amount recovered under the surcharge.  5 
+ 
+ [(i)] (K) If, after approving a surcharge in a plan, the Commission establishes 6 
+new base rates for the gas company that include costs on which the surcharge is based, the 7 
+gas company shall file a revised rate schedule with the Commission that subtracts those 8 
+costs from the surcharge.  9 
+ 
+ [(j)] (L) (1) The Commission may review a previously approved pl an. 10 
+ 
+  (2) If the Commission determines that an investment of a project or cost of 11 
+a project no longer meets the requirements of subsection [(e)(3) ] (F)(3) of this section, the 12 
+Commission may:  13 
+ 
+   (i) reduce future base rates or surcharges; or  14 
+ 
+   (ii) alter or rescind approval of that part of the plan.  15 
+ 
+4–212.  16 
+ 
+ (A) (1) IN THIS SECTION THE F OLLOWING WORDS HAVE THE MEANINGS 17 
+INDICATED . 18 
+ 
+  (2) “CONTRACT CAPACITY ” MEANS THE AMOUNT OF MONTHLY PEAK 19 
+LOAD REQUIREMENTS : 20 
+ 
+   (I) THAT IS MUTUALLY AGR EED TO BY AN ELECTRIC COMPANY 21 
+AND A LARGE LOAD CUS TOMER FOR EACH MONTH  REMAINING IN A CONTR ACT TERM 22 
+AFTER THE LOAD RAMP PERIOD HAS ENDED ; AND  23 
+ 
+   (II) FOR WHICH : 24 
+ 
+    1. THE ELECTRIC COMPANY  AGREES TO PROVIDE AL L OF 25 
+THE COMPONENTS OF RE TAIL ELECTRIC SERVIC E SUBJECT TO THE TERMS AND 26 
+CONDITIONS IN ITS TA RIFFS ; AND  27 
+ 
+    2. THE LARGE LOAD CUSTO MER AGREES TO PURCHA SE 28 
+SERVICE AT THAT LOAD  LEVEL FOR THE STATED  TERM OF THE CONTRACT  AND 29 
+UNDER THE SAME TERMS  AND CONDITIONS AS TH OSE STATED IN THE CO NTRACT . 30 
+ 
+ HOUSE BILL 1035  15 
+ 
+   (3) “LARGE LOAD CUSTO MER” MEANS A COMMERCIAL O R 1 
+INDUSTRIAL CUSTOMER FOR RETAIL ELECTRIC SERVICE THAT : 2 
+ 
+   (I) HAS OR IS PROJECTED TO HAVE AN AGGREGATE  MONTHLY 3 
+DEMAND OF AT LEAST 100 MEGAWATTS ; AND  4 
+ 
+   (II) HAS OR IS PROJECTED TO HAVE A LOAD FACTO R OF OVER 5 
+80%.  6 
+ 
+  (4) “LOAD RAM P PERIOD ” MEANS THE PERIOD OF TIME FROM 7 
+COMMENCEMENT OF SERV ICE UNTIL A LARGE LO AD CUSTOMER ’S BILLING 8 
+CALCULATION IS BASED  ON THE FULL CONTRACT  CAPACITY . 9 
+ 
+ (B) IT IS THE INTENT OF T HE GENERAL ASSEMBLY THAT RESIDEN TIAL 10 
+RETAIL ELECTRIC CUST OMERS IN THE STATE  SHOULD NOT BEAR THE FINANCIAL 11 
+RISKS ASSOCIATED WIT H LARGE LOAD CUSTOME RS INTERCONNECTING T O THE 12 
+ELECTRIC SYSTEM SERV ING THE STATE . 13 
+ 
+ (C) (1) (I) ON OR BEFORE SEPTEMBER 1, 2026,  EACH  14 
+INVESTOR –OWNED ELECTRIC COMPA NY AND EACH ELECTRIC  COOPERATIVE SHALL 15 
+SUBM IT TO THE COMMISSION FOR APPROV AL A SPECIFIC RATE S CHEDULE FOR 16 
+LARGE LOAD CUSTOMERS  THAT ACCOMPLISHES TH E INTENT OF SUBSECTI ON (B) OF 17 
+THIS SECTION . 18 
+ 
+   (II) EACH MUNICIPAL ELECTR IC UTILITY THAT RECE IVES AN 19 
+APPLICATION FOR RETA IL ELECTRIC SERVICE FROM A LAR GE LOAD CUSTOMER 20 
+SHALL SUBMIT TO THE COMMISSION FOR APPROV AL A SPECIFIC RATE S CHEDULE 21 
+FOR LARGE LOAD CUSTO MERS . 22 
+ 
+  (2) (I) SERVICE UNDER A SPECI FIC RATE SCHEDULE SH ALL BE 23 
+AVAILABLE TO LARGE L OAD CUSTOMERS THAT W ILL USE , WITHIN THE INITIAL 24 
+CONTRACT TERM : 25 
+ 
+    1. A MONTHLY MAXIMUM DE MAND OF MORE THAN 100 26 
+MEGAWATTS AT A SINGL E LOCATION ; OR 27 
+ 
+    2. AN AGGREGATED CONTRA CT CAPACITY IN THE 28 
+ELECTRIC COMPANY ’S SERVICE TERRITORY OF MORE THAN 100 MEGAWATTS . 29 
+ 
+   (II) EXCEPT AS PROVIDED IN  SUBPARAGRAPH (III) OF THIS 30 
+PAR AGRAPH , LARGE LOAD CUSTOMERS  THAT QUALIFY FOR A S PECIFIC RATE 31 
+SCHEDULE AFTER THE E FFECTIVE DATE OF THA T SCHEDULE : 32 
+ 
+16 HOUSE BILL 1035   
+ 
+     1. SHALL TAKE SERVICE U NDER THE SPECIFIC RA TE 1 
+SCHEDULE ; AND  2 
+ 
+    2. MAY NOT BE ALLOWED T O TAKE SERVICE UNDER  ANY 3 
+OTHER EXISTING SCHED ULE. 4 
+ 
+   (III) A SPECIFIC RATE SCHEDU LE DOES NOT APPLY TO  THE 5 
+FACILITY OF AN EXIST ING LARGE LOAD CUSTO MER THAT HAS SIGNED A SERVICE 6 
+AGREEMENT BEFORE THE  EFFECTIVE DATE OF TH E SCHEDULE IF : 7 
+ 
+    1. THE LARGE LOAD CUSTO MER’S EXISTING LOAD DOES  8 
+NOT EXPAND BY MORE THAN 25 MEGAWATTS AT THAT FA CILITY UNDER THE 9 
+EXISTING SERVICE AGR EEMENT ; OR 10 
+ 
+    2. THE LARGE LOAD CUSTO MER DOES NOT SIGN A NEW 11 
+SERVICE AGREEMENT TO  EXPAND THE FACILITY ’S LOAD BY MORE THAN 25 12 
+MEGAWATTS ABOVE THE CONTRACT CAPACITY OF  THE EXISTING SERVICE  13 
+AGREEMENT . 14 
+ 
+ (D) IN MAKING A DETERMINA TION ON WHETHER TO A PPROVE A SPECIFIC 15 
+RATE SCHEDULE SUBMIT TED UNDER SUBSECTION  (C) OF THIS SECTION , THE 16 
+COMMISSION SHALL CONS IDER WHETHER THE RAT E SCHEDULE : 17 
+ 
+  (1) REQUIRES A LARGE LOA D CUSTOMER TO COVER THE JUST AND 18 
+REA SONABLE COSTS ASSOCI ATED WITH ANY ELECTR IC TRANSMISSION OR 19 
+DISTRIBUTION SYSTEM BUILDOUT REQUIRED TO : 20 
+ 
+   (I) INTERCONNECT THE LAR GE LOAD CUSTOMER TO THE 21 
+ELECTRIC SYSTEM SERV ING THE STATE ; OR 22 
+ 
+   (II) SERVE THE LARGE LOAD  CUSTOMER ; 23 
+ 
+  (2) PROTECTS RESIDENTI AL RETAIL ELECTRIC C USTOMERS  FROM 24 
+THE FINANCIAL RISKS ASSOCIATED WITH LARG E LOAD CUSTOMERS THROUGH THE 25 
+USE OF : 26 
+ 
+   (I) LOAD RAMP PERIODS ; 27 
+ 
+   (II) MINIMUM BILLING DEMA ND FOR ELECTRIC DIST RIBUTION 28 
+AND TRANSMISSION SER VICE THAT IS A HIGH PERCENTAGE OF A LARG E LOAD 29 
+CUSTOMER ’S CONTRACT CAPACITY ; 30 
+ 
+   (III) LONG–TERM CONTRACTUAL COM MITMENTS AND EXIT FE ES; 31 
+ 
+ HOUSE BILL 1035  17 
+ 
+    (IV) GUARANTEE OR COLLATE RAL REQUIREMENTS ; AND  1 
+ 
+   (V) PENALTIES AND REIMBU RSEMENT REQUIREMENTS  FOR 2 
+THE LARGE LOAD CUSTO MER IF THE LARGE LOA D CUSTOMER DELAYS OR CANCELS 3 
+A PROJECT AFTER THE ELECTRIC COMPANY HAS  BEGUN BUILDOUT TO 4 
+ACCOMMODATE THE LARG E LOAD CUSTOMER ; AND  5 
+ 
+  (3) SUFFICIENTLY ENSURES  THAT THE ALLOCATION OF COSTS TO 6 
+LARGE LOAD CUSTOMERS  UNDER THE SCHEDULE D OES NOT RESULT IN CU STOMERS 7 
+THAT ARE NOT LARGE LOAD CUSTO MERS UNREASONABLY SU BSIDIZING THE COSTS 8 
+OF LARGE LOAD CUSTOM ERS UNDER THE SCHEDU LE. 9 
+ 
+ (E) BEFORE SIGNING A CONT RACT FOR SERVICE UND ER A SPECIFIC RATE 10 
+SCHEDULE SUBMITTED U NDER SUBSECTION (C) OF THIS SECTION , A LARGE LOAD 11 
+CUSTOMER UNDER T HE SCHEDULE IS REQUI RED TO : 12 
+ 
+  (1) SUBMIT A REQUEST FOR  A LOAD STUDY TO DETE RMINE THE 13 
+NECESSARY CONTRACT C APACITY FOR THE LARG E LOAD CUSTOMER AND PAY ANY 14 
+APPLICABLE FEES ASSO CIATED WITH THE STUD Y; 15 
+ 
+  (2) DESIGNATE A SPECIFIC  SITE WHERE THE LARGE  LOAD 16 
+CUSTO MER’S PROJECT WILL BE CO NSTRUCTED AND SERVED  BY THE ELECTRIC 17 
+COMPANY ; 18 
+ 
+  (3) OWN OR HAVE THE EXCL USIVE RIGHT TO USE T HE LAND 19 
+DESIGNATED IN ITEM (2) OF THIS SUBSECTION F OR THE PROJECT ; AND  20 
+ 
+  (4) MEET ANY OTHER REQUI REMENTS SPECIFIED UN DER THE RATE 21 
+SCHEDULE . 22 
+ 
+ (F) (1) ON OR BEFORE JUNE 1, 2026,  THE COMMISSION SHALL ADOP T 23 
+REGULATIONS TO CARRY  OUT THIS SECTION . 24 
+ 
+  (2) THE REGULATIONS SHALL : 25 
+ 
+   (I) ESTABLISH MINIMUM NO TICE REQUIREMENTS AN D 26 
+DEADLINES RELATED TO  LOAD STUDY REQUESTS AND CONTRACT TERMINA TIONS 27 
+AND ADJUSTMENTS ; 28 
+ 
+   (II) IF CONSIDERED NECESS ARY BY THE COMMISSION , SPECIFY 29 
+COMMON FORMS OF ACCE PTABLE COLLATERAL TO  SATISFY THE REQUIREM ENTS OF 30 
+THIS SECTION ; AND  31 
+ 
+18 HOUSE BILL 1035   
+ 
+    (III) ESTABLISH DEADLINES RELATED TO COMPLETIO N OF LOAD 1 
+STUDIES AND PAYMENT OF FEES . 2 
+ 
+4–213.  3 
+ 
+ (A) THIS SECTION APPLIES ONLY TO A PUBLIC SER VICE COMPANY THAT IS  4 
+AN ELECTRIC COMPANY , GAS COMPANY , OR COMBINATION GAS A ND ELECTRIC 5 
+COMPANY . 6 
+ 
+ (B) UNLESS OTHERWISE AUTH ORIZED BY LAW , THE COMMISSION MAY 7 
+APPROVE THE USE OF A  MULTIYEAR RATE PLAN FOR DISTRIBUTION BASE RA TES 8 
+ONLY IF THE PLAN : 9 
+ 
+  (1) DEMONSTRATES THE CUS TOMER BENEFITS OF TH E INVESTMENT ; 10 
+AND 11 
+ 
+  (2) DOES NOT ALLOW FOR T HE PUBLIC SERVICE CO MPANY TO FILE 12 
+FOR RECONCILIATION O F COST OR REVENUE VA RIANCES OF THE APPRO VED 13 
+REVENUE COMPONENT US ED B Y THE COMMISSION TO ESTABLI SH JUST AND 14 
+REASONABLE RATES . 15 
+ 
+ (C) A PUBLIC SERVICE COMPA NY THAT FILES OR HAS  FILED AN 16 
+APPLICATION FOR A MU LTIYEAR RATE PLAN MA Y NOT SUBSEQUENTLY F ILE FOR 17 
+RECONCILIATION OF CO ST OR REVENUE VARIAN CES OF THE APPROVED REVENUE 18 
+COMPONENT USED BY TH E COMMISSION TO ESTABLI SH THE MULTIYEAR RAT ES 19 
+UNLESS THE FILING FO R RECONCILIATION WAS  MADE ON OR BEFORE JANUARY 1, 20 
+2025.  21 
+ 
+4–214.  22 
+ 
+ (A) IN THIS SECTION , “NONPIPELINE ALTERNAT IVE” MEANS AN 23 
+INVESTMENT OR ACTIVI TY THAT DEFERS , REDUCES , OR ELIMINATES THE NEED TO 24 
+CONSTRUCT A NEW GAS PIPELINE . 25 
+ 
+ (B) NOTHING IN THIS SECTI ON MAY BE CONSTRUED TO RESTRICT AN 26 
+INVESTOR –OWNED GAS COMPANY ’S ABILITY TO MAKE IM PROVEMENTS TO ITS GA S 27 
+SYSTEM TO ENSURE THE  SAFE AND RELIABLE OP ERATION OF THE SYSTE M. 28 
+ 
+ (C) AN INVESTOR –OWNED GAS COMPANY MA Y RECOVER REASONABLE  AND 29 
+PRUDENT COSTS ASSOCI ATED WITH A PLANNED GAS INFRASTRUCTURE 30 
+INVESTMENT IF THE IN VESTOR–OWNED GAS COMPANY DE MONSTRATES AT A RATE  31 
+SETTING PROCEEDING : 32 
+ 
+  (1) THE CUSTOMER BENEFIT S OF THE INVESTMENT ; 33 
+ HOUSE BILL 1035  19 
+ 
+  
+  (2) THAT THE INVESTOR –OWNED GAS COMPANY AN ALYZED  1 
+COST–EFFECTIVE OPTIONS AVAILABLE TO  DEFER , REDUCE , OR ELIMINATE THE 2 
+NEED TO REPLACE , UPGRADE , OR CONSTRUCT NEW COM PONENTS , INCLUDING AN 3 
+ANALYSIS OF : 4 
+ 
+   (I) FOR NEW INVESTMENTS UNRELATED TO SAFETY , 5 
+NONPIPELINE  ALTERNATIVES ; AND  6 
+ 
+   (II) LEAK DETECTION AND R EPAIR ; AND  7 
+ 
+  (3) THE ESTIMATED RISK R EDUCTION ASSOCIATED WITH A  8 
+SAFETY–RELATED INVESTMENT , IF APPLICABLE . 9 
+ 
+4–504.  10 
+ 
+ (A) THIS SECTION APPLIES ONLY TO A PUBLIC SER VICE COMPANY THAT IS  11 
+AN INVESTOR –OWNED ELECTRIC COMPANY , GAS COMPANY , OR COMBINATION GAS 12 
+AND ELECTRIC COMPANY . 13 
+ 
+ (B) A PUBLIC SERVICE COMPA NY MAY NOT RECOVER T HROUGH RATES ANY 14 
+COSTS ASSOCIATED WIT H: 15 
+ 
+  (1) MEMBERSHIP , DUES , SPONSORSHIPS , OR CONTRIBUTIONS TO AN 16 
+INDUSTRY TRADE ASSOC IATION , GROUP , OR RELATED ENTITY EX EMPT FROM 17 
+TAXATION UNDER § 501( C)(6) OF THE INTERNAL REVENUE CODE; OR 18 
+ 
+  (2) THE ACQUISITION , USE, OR ALLOCATION OF COS TS ASSOCIATED 19 
+WITH A PRIVATE PLANE  THAT IS OWNED OR LEA SED BY THE PUBLIC SE RVICE 20 
+COMPANY OR ITS HOLDI NG COMPANY .  21 
+ 
+5–305. 22 
+ 
+ (a) This section applies to a project by an investor –owned gas company, electric 23 
+company, or combination gas and electric company involving the construction, 24 
+reconstruction, installation, demolition, restoration, or alteration of any underground ga s 25 
+or electric infrastructure of the company, and any related traffic control activities.  26 
+ 
+ (b) An investor –owned gas company, electric company, or combination gas and 27 
+electric company shall require a contractor or subcontractor on a project described in 28 
+subsection (a) of this section to pay its employees not less than the prevailing wage rate 29 
+determined solely by the Commissioner of Labor and Industry in a process substantially 30 
+similar to the process established under Title 17, Subtitle 2 of the State Fin ance and 31 
+Procurement Article.  32 
+ 
+20 HOUSE BILL 1035   
+ 
+  (c) In accordance with Title 3, Subtitle 5 of the Labor and Employment Article, 1 
+the Maryland Department of Labor shall enforce the requirement under subsection (b) of 2 
+this section for contractors and subcontractors to pay em ployees not less than the prevailing 3 
+wage rate determined solely by the Commissioner of Labor and Industry.  4 
+ 
+ (D) A CONTRACT ENTERED INT O AFTER MARCH 1, 2024,  BY AN  5 
+INVESTOR –OWNED GAS COMPANY , ELECTRIC COMPANY , OR COMBINATION GAS A ND 6 
+ELECTRIC COMPANY THA T IS FOR THE CONSTRUCT ION, RECONSTRUCTION , 7 
+INSTALLATION , DEMOLITION , RESTORATION , OR ALTERATION OF ANY  8 
+UNDERGROUND GAS OR E LECTRIC INFRASTRUCTU RE, AND ANY RELATED TRAF FIC 9 
+CONTROL ACTIVITIES , INCLUDES A CONTRACT THAT HAS BEEN EXECUT ED, 10 
+AMENDED , OR ALTERED AF TER MARCH 1, 2024.   11 
+ 
+7–211. 12 
+ 
+ (A) THE GENERAL ASSEMBLY FINDS AND DE CLARES THAT IT IS TH E POLICY 13 
+OF THE STATE TO ENCOURAGE TH E DEVELOPMENT OF CLE AN, CARBON –FREE 14 
+NUCLEAR POWER , INCLUDING DEVELOPMEN T THROUGH INNOVATIVE  DESIGNS .  15 
+ 
+ (B) THE MARYLAND ENERGY ADMI NISTRATION , IN COORDINATION WITH  16 
+THE COMMISSION AND THE DEPARTMENT OF NATURAL RESOURCES , SHALL 17 
+PURSUE : 18 
+ 
+  (1) COST–SHARING AGREEMENTS W ITH NEIGHBORING STAT ES IN THE 19 
+PJM  REGION TO MITIGATE T HE RISKS OF DEVELOPI NG NEW NUCLEAR ENERG Y 20 
+GENERATING STATIONS ; AND 21 
+ 
+  (2) AGREEMENTS WITH FEDE RAL AGENCIES REGARDI NG THE SITING 22 
+OF SMALL MODULAR REA CTORS : 23 
+ 
+   (I) ON FEDERAL LAND ; OR  24 
+ 
+   (II) ON OR NEAR FEDERAL F ACILITIES , INCLUDING MILITARY 25 
+AND NATIONAL SECURIT Y INSTALLATIONS . 26 
+ 
+ (C) ON OR BEFORE DECEMBER 1, 2026,  THE MARYLAND ENERGY 27 
+ADMINISTRATION SHALL REPORT TO THE GENERAL ASSEMBLY , IN ACCORDANCE 28 
+WITH § 2–1257  OF THE STATE GOVERNMENT ARTICLE , ON: 29 
+ 
+  (1) THE STATUS OF THE EF FORTS MADE UNDER SUB SECTION (B) OF 30 
+THIS SECTION , INCLUDING AN ASSESSM ENT OF ANY OPPORTUNI TIES TO 31 
+PARTICIPATE WITH OTH ER STATES , FEDERAL AGENCIES , AND PUBLIC OR PRIVAT E 32 
+PARTNERS IN A MULTIS TATE PROCUREMENT OF NEW NUCLEAR ENERGY 33 
+TECHNOLOGY ; AND 34 
+ HOUSE BILL 1035  21 
+ 
+  
+  (2) AN EVALUATION AND ST ATUS OF THE NUCLEAR ENERGY 1 
+PROCUREMENT PROCESS ESTABLISHED UNDER SUBTITLE 12, PART II PART III OF 2 
+THIS TITLE . 3 
+ 
+7–216. 4 
+ 
+ (a) (1) In this section the following words have the meanings indicated.  5 
+ 
+  (2) (i) “Energy storage device” means a resource capable of absorbing 6 
+electrical energy, storing it for a period of time, and delivering the en ergy for use at a later 7 
+time as needed, regardless of where the resource is located on the electric [distribution ] 8 
+system.  9 
+ 
+   (ii) “Energy storage device” includes all types of electric storage 10 
+technologies, regardless of their size, storage medium, or operational purpose, including:  11 
+ 
+    1. thermal storage;  12 
+ 
+    2. electrochemical storage;  13 
+ 
+    3. [virtual power plants ] THERMO –MECHANICAL 14 
+STORAGE ; and  15 
+ 
+    4. hydrogen –based storage.  16 
+ 
+  (3) “Investor –owned electric company” means an electric company that is 17 
+not a municipal electric utility or an electric cooperative.  18 
+ 
+7–216.2.  19 
+ 
+ (A) IN THIS SECTION , “ENERGY STORAGE DEVIC E” HAS THE MEANING 20 
+STATED IN § 7–216 OF THIS SUBTITLE . 21 
+ 
+ (B) (1) THE GENERAL ASSEMBLY FINDS AND DE CLARES THAT THE 22 
+STATE HAS A GOAL OF R EAC HING AT LEAST 150 MEGAWATTS OF  23 
+DISTRIBUTION –CONNECTED FRONT –OF–THE–METER ENERGY STORAGE  DEVICES . 24 
+ 
+  (2) ON OR BEFORE JULY 1, 2025,  AND ON OR BEFORE JULY 1, 2026,  25 
+THE COMMISSION SHALL NOTI FY EACH INVESTOR –OWNED ELECTRIC COMPA NY OF 26 
+ITS PROPORTION OF TH E GOA L ESTABLISHED UNDER THIS SUBSECTION , BASED ON : 27 
+ 
+   (I) THE ELECTRIC COMPANY ’S SERVICE LOAD ; OR 28 
+ 
+   (II) OTHER CRITERIA ESTAB LISHED BY THE COMMISSION . 29 
+  
+22 HOUSE BILL 1035   
+ 
+  (C) (1) ON OR BEFORE NOVEMBER 1, 2025,  THE COMMISSION SHALL 1 
+REQUIRE EACH INVESTO R–OWNED ELECTRIC COMPA NY TO SUBMIT A PLAN T O 2 
+ACHIEVE UP TO ONE –THIRD OF THE PROPORT ION OF DISTRIBUTION –CONNECTED 3 
+FRONT–OF–THE–METER ENERGY STORAGE  DEVICES NECESSARY TO  REACH THE 4 
+ELECTRIC COMPANY ’S APPORTIONMENT OF T HE GOAL STATED IN SU BSECTION (B) 5 
+OF THIS SECTION . 6 
+ 
+  (2) ON OR B EFORE NOVEMBER 1, 2026,  THE COMMISSION SHALL 7 
+REQUIRE EACH INVESTO R–OWNED ELECTRIC COMPA NY TO SUBMIT A PLAN FOR THE 8 
+BALANCE OF THE PROPO RTION OF DISTRIBUTIO N–CONNECTED  9 
+FRONT–OF–THE–METER ENERGY STORAGE  DEVICES NECESSARY TO  REACH THE 10 
+ELECTRIC COMPANY ’S APPO RTIONMENT OF THE GOA L STATED IN SUBSECTI ON (B) 11 
+OF THIS SECTION .  12 
+ 
+  (3) ON OR BEFORE MAY 1, 2026,  FOR PLANS SUBMITTED IN 13 
+ACCORDANCE WITH PARA GRAPH (1) OF THIS SUBSECTION , AND ON OR BEFORE MAY 14 
+1, 2027,  FOR PLANS SUBMITTED IN ACCORDANCE WITH P ARAGRAPH (2) OF THIS 15 
+SUBSECTION , THE COMMISSION SHALL :  16 
+ 
+   (I) EVALUATE EACH PLAN ; 17 
+ 
+   (II) ACCEPT PUBLIC COMMEN TS ON EACH PLAN ; AND  18 
+ 
+   (III) ISSUE AN ORDER FOR E ACH PLAN THAT : 19 
+ 
+    1. APPROVES THE PLAN ;  20 
+ 
+    2. APPROVES THE PLAN WI TH MODIFICATIONS THA T 21 
+THE COMMISSION CONSIDERS NECESSARY ; OR  22 
+ 
+    3. REJECTS THE PLAN , WITH AN EXPLANATION OF THE 23 
+REASONS FOR THE REJE CTION . 24 
+ 
+  (4) THE ENERGY STORAGE DE VICES CONSTRUCTED OR  PROCURED 25 
+UNDER EACH PLAN SHAL L INCLUDE A COMB INATION OF DEVICES O WNED BY THE 26 
+INVESTOR –OWNED ELECTRIC COMPA NY AND DEVICES OWNED  BY A THIRD PARTY , 27 
+WITH A GOAL OF 30%  OF THE DEVICES BEING  OWNED BY A THIRD PAR TY. 28 
+ 
+  (5) (I) THE ENERGY STORAGE DE VICES THAT ARE CONST RUCTED 29 
+OR PROCURED UNDER A PLAN SUBMITTE D BY NOVEMBER 1, 2025,  SHALL BE 30 
+OPERATIONAL BY NOVEMBER 1, 2027.  31 
+ 
+ HOUSE BILL 1035  23 
+ 
+    (II) THE ENERGY STORAGE DE VICES THAT ARE CONST RUCTED 1 
+OR PROCURED UNDER A PLAN SUBMITTED BY NOVEMBER 1, 2026,  SHALL BE 2 
+OPERATIONAL BY NOVEMBER 1, 2028.  3 
+ 
+   (III) THE COMMISSION MAY EXTEND  A DEADLINE UNDER THI S 4 
+PARAGRAPH FOR GOOD C AUSE . 5 
+ 
+ (D) THE COMMISSION SHALL REQU IRE EACH PLAN TO DEM ONSTRATE THAT 6 
+THE CONSTRUCTION OR PROCUREMENT OF EACH ENERGY STORAGE DEVIC E: 7 
+ 
+  (1) IS COST –EFFECTIVE IN CONSIDE RATION OF A COST –BENEFIT 8 
+ANALYSIS , INCLUDING A DEMONSTRATION OF A NY:  9 
+ 
+   (I) AVOIDED OR DELAYED T RANSMISSION , DISTRIBUTION , AND 10 
+GENERATION COSTS ; AND  11 
+ 
+   (II) AVOIDED EMISSIONS IN  THE SHORT TERM AND P ROJECTED 12 
+EMISSIONS IN THE LON G TERM , MEASURED USING THE S OCIAL COST OF CARBON , AS 13 
+DETERMINED BY THE U.S.  ENVIRONMENTAL PROTECTION AGENCY AS OF JANUARY 14 
+1, 2025;   15 
+ 
+  (2) CAN BE COMPLETED WIT HIN 18 MONTHS AFTER THE PLA N IS 16 
+APPROVED ; AND  17 
+ 
+  (3) COMPLIES WITH ANY OT HER FACTORS DETERMIN ED BY THE 18 
+COMMISSION . 19 
+ 
+ (E) (1) A DEVELOPER OF A THIRD –PARTY–OWNED ENERGY STORAGE 20 
+DEVICE CONSTRUCTED I N ACCORDANCE WITH TH IS SECTION SHALL ENS URE THAT 21 
+WORKERS ARE PAID NOT  LESS THAN THE PREVAI LING WAGE RATE DETER MINED 22 
+UNDER TITLE 17, SUBTITLE 2 OF THE STATE FINANCE AND PROCUREMENT 23 
+ARTICLE . 24 
+ 
+  (2) AN ENERGY STORAGE DEV ICE CONSTRU CTED AND OWNED BY AN  25 
+ELECTRIC COMPANY SHA LL BE CONSTRUCTED BY : 26 
+ 
+   (I) EMPLOYEES OF THE ELE CTRIC COMPANY ; OR 27 
+ 
+   (II) CONTRACTORS THAT SHA LL ENSURE THAT WORKE RS 28 
+CONSTRUCTING THE ENE RGY STORAGE DEVICE A RE PAID NOT LESS THA N THE 29 
+PREVAILING WAGE RATE  DETERMIN ED UNDER TITLE 17, SUBTITLE 2 OF THE STATE 30 
+FINANCE AND PROCUREMENT ARTICLE . 31 
+ 
+24 HOUSE BILL 1035   
+ 
+   (3) (I) AN INVESTOR –OWNED ELECTRIC COMPA NY SHALL 1 
+OPERATE AND MAINTAIN  ENERGY STORAGE DEVIC ES INSTALLED BY THE ELECTRIC 2 
+COMPANY IN ACCORDANC E WITH THIS SECTION . 3 
+ 
+   (II) IN PERFO RMING THE MAINTENANC E AND OPERATIONS 4 
+REQUIRED UNDER SUBPA RAGRAPH (I) OF THIS PARAGRAPH , AN INVESTOR –OWNED 5 
+ELECTRIC COMPANY SHA LL MEET WITH THE EMP LOYEE BARGAINING UNI T’S LABOR 6 
+REPRESENTATIVE AND C ONFER IN GOOD FAITH REGARDING THE VIABIL ITY OF : 7 
+ 
+    1. ALLO CATING MAINTENANCE A ND OPERATIONS WORK 8 
+TO CURRENT BARGAININ G UNIT EMPLOYEES ; 9 
+ 
+    2. TRAINING CURRENT BAR GAINING UNIT EMPLOYE ES 10 
+TO PERFORM MAINTENAN CE AND OPERATIONS WO RK; 11 
+ 
+    3. HIRING QUALIFIED IND IVIDUALS TO PERFORM 12 
+MAINTENANCE AND OPER ATION WORK ; 13 
+ 
+    4. TRAINING NEWLY HIRED  INDIVIDUALS TO PERFO RM 14 
+MAINTENANCE AND OPER ATIONS WORK ; AND  15 
+ 
+    5. MAINTAINING AND OPER ATING STORAGE DEVICE S IN 16 
+ACCORDANCE WITH PARA GRAPH (4) OF THIS SUBSECTION . 17 
+ 
+  (4) (I) SUBJECT TO SUBPARAGRA PH (II) OF THIS PARAGRAPH , AN 18 
+INVEST OR–OWNED ELECTRIC COMPA NY MAY CONTRACT ANY WORK UNDER THIS 19 
+SECTION NOT CONDUCTE D BY THE COMPANY ’S EMPLOYEE BARGAININ G UNIT TO A 20 
+QUALIFIED CONTRACTOR . 21 
+ 
+   (II) AN INVESTOR –OWNED ELECTRIC COMPA NY SHALL 22 
+REQUIRE A CONTRACTOR  OR SUBCONTRACTOR ON A PROJECT UNDER  THIS SECTION 23 
+TO: 24 
+ 
+    1. PAY THE AREA PREVAIL ING WAGE RATE DETERM INED 25 
+BY THE COMMISSIONER OF LABOR AND INDUSTRY , INCLUDING WAGES AND FRINGE 26 
+BENEFITS ; AND  27 
+ 
+    2. OFFER HEALTH CARE AN D RETIREMENT BENEFIT S TO 28 
+THE EMPLOYEES WORKIN G ON THE PROJECT . 29 
+ 
+ (F) (1) EACH ENERGY STORAGE P ROJECT CONSTRUCTED I N 30 
+ACCORDANCE WITH THIS  SECTION SHALL INCLUD E A PROPOSED DECOMMI SSIONING 31 
+PLAN . 32 
+ 
+ HOUSE BILL 1035  25 
+ 
+   (2) THE PROPOSED DECOMMIS SIONING PLAN SHALL I NCLUDE A PLAN 1 
+TO MAXIMIZE THE RECY CLING OR REUSE OF AL L QUALIFYING COMPONE NTS OF 2 
+EACH ENE RGY STORAGE DEVICE . 3 
+ 
+  (3) THE OWNER OR OPERATOR  OF AN ENERGY STORAGE  DEVICE MAY 4 
+SUBMIT A REVISED REC YCLING AND REUSE PLA N THAT INCORPORATES EMERGING 5 
+RECYCLING AND REUSE OPPORTUNITIES UP TO 1 YEAR BEFORE EXECUTIN G THE 6 
+DECOMMISSIONING PLAN .  7 
+ 
+7–224. 8 
+ 
+ (a) (1) Beginning January 1, 2025, and on or before January 1 every 3 years, 9 
+starting in 2027, the Department shall procure or provide to low –income individuals energy 10 
+efficiency and conservation programs and services, demand response programs and 11 
+services, and  beneficial electrification programs and services that achieve the greenhouse 12 
+gas emissions reduction targets established for the Department under paragraph (2) of this 13 
+subsection.  14 
+ 
+  (2) For the period 2025 –2033, the programs and services required under 15 
+paragraph (1) of this subsection shall be on a trajectory to achieve greenhouse gas 16 
+reductions after 2027 of at least 0.9% of the baseline determined under subsection (b) of 17 
+this section.  18 
+ 
+  (3) (i) When establishing greenhouse gas emissions reduction targe ts 19 
+under this subsection, the Commission shall measure the greenhouse gas emissions from 20 
+electricity using current data and projections from the Department of the Environment.  21 
+ 
+   (ii) The greenhouse gas emissions reduction targets established 22 
+under this s ubsection shall be measured in metric tons.  23 
+ 
+  (4) The greenhouse gas reductions achieved to meet the targets established 24 
+under paragraph (2) of this subsection shall count toward the achievement of the 25 
+greenhouse gas reduction target established under § 7 –223(b) of this subtitle.  26 
+ 
+  (5) The target greenhouse gas savings shall be achieved based on the  27 
+3–year average of the Department’s plan submitted in accordance with subsection (d) of 28 
+this section.  29 
+ 
+  (6) For 2025 and 2026:  30 
+ 
+   (i) the Commission shall, after making appropriate findings, 31 
+determine whether the Department’s existing 2024 –2026 plan must be modified to comply 32 
+with:  33 
+ 
+    1. the targets established in this subsection; and  34 
+ 
+26 HOUSE BILL 1035   
+ 
+     2. § 7–225(d) of this subtitle; and  1 
+ 
+   (ii) the Department:  2 
+ 
+    1. shall provide information as required by the Commission 3 
+to assist in making the determination in item (i) of this paragraph; and  4 
+ 
+    2. is only required to file new plans in accordance with 5 
+subsection (d) of this section and § 7 –225 of this subtitle if d irected by the Commission.  6 
+ 
+ (b) As a baseline for determining greenhouse gas emissions reduction targets 7 
+under this section, the Commission shall use the greenhouse gas emissions resulting from 8 
+the direct consumption of gas and electricity by low –income r esidential households in 2016, 9 
+as determined by the Department of the Environment.  10 
+ 
+ (c) [(1) The] WHEN CALCULATING THE ACHIEVEMENT OF GREEN HOUSE 11 
+GAS EMISSIONS REDUCT ION TARGETS UNDER TH IS SECTION , THE Department may 12 
+procure or provide savings that are ach ieved through [funding sources that meet the 13 
+standards of program funding through utility rates or the U.S. Department of Energy ] ALL 14 
+FUNDING SOURCES , TO THE EXTENT THAT T HE SAVINGS FROM THOS E FUNDING 15 
+SOURCES ARE ACHIEVED : 16 
+ 
+  (1) IN A MANNER CONSISTE NT WIT H REQUIREMENTS OF TH E U.S.  17 
+DEPARTMENT OF ENERGY ; OR 18 
+ 
+  (2) IN A MANNER OTHERWIS E CONSISTENT WITH TH E ENERGY 19 
+SAVINGS REQUIREMENTS  APPLICABLE TO THOSE FUNDING SOURCES . 20 
+ 
+  [(2) The Department may use the savings achieved through all funding 21 
+sources toward cal culating the targeted greenhouse gas reductions if the funding sources 22 
+meet the standards of programs funded through:  23 
+ 
+   (i) a surcharge under § 7 –222 of this subtitle; or  24 
+ 
+   (ii) the U.S. Department of Energy. ]  25 
+ 
+7–505. 26 
+ 
+ (c) (1) Notwithstanding any oth er provision of law, including subsection (d) of 27 
+this section,  AND SUBJECT TO § 4–213 OF THIS ARTICLE , the Commission may regulate 28 
+the regulated services of an electric company through alternative forms of regulation.  29 
+ 
+  (2) The Commission may adopt an alternative form of regulation under this 30 
+section if the Commission finds, after notice and hearing, that the alternative form of 31 
+regulation:  32 
+ 
+ HOUSE BILL 1035  27 
+ 
+    (i) protects consumers;  1 
+ 
+   (ii) ensures the quality, availability, and reliability of regulated 2 
+electric services; and  3 
+ 
+   (iii) is in the interest of the public, including shareholders of the 4 
+electric company.  5 
+ 
+  (3) Alternative forms of regulation may include:  6 
+ 
+   (i) price regulation, including price freezes or caps;  7 
+ 
+   (ii) revenue regulation;  8 
+ 
+   (iii) ranges of authorized return;  9 
+ 
+   (iv) rate of return;  10 
+ 
+   (v) categories of services; or  11 
+ 
+   (vi) price –indexing.  12 
+ 
+7–506.1.   13 
+ 
+ (A) (1) IN THIS SECTION THE F OLLOWING WORDS HAVE THE MEANINGS 14 
+INDICATED . 15 
+ 
+  (2) “CONSTRUCTION ” HAS THE MEANING STAT ED IN § 7–207 OF THIS 16 
+TITLE . 17 
+ 
+  (3) “LARGE LOAD CUSTOMER ” MEANS A COMMERCIAL O R 18 
+INDUSTRIAL CUSTOMER WITH AN EXPECTED LOA D DEMAND OF AT LEAST  100 19 
+MEGAWATTS . 20 
+ 
+ (B) (A) (1) THIS SECTION APPLIES ONLY TO : 21 
+ 
+   (I) AN ELECTRICITY SUPPL IER OR OTHER OWNER O F A 22 
+GENERATING STATION  THAT ENTERS INTO A C ONTRACT FOR THE PROV ISION OF THE 23 
+DIRECT SUPPLY OF ELE CTRICITY TO A COMMER CIAL OR INDUSTRIAL C USTOMER IN 24 
+A WAY THAT BYPASSES : 25 
+ 
+    1. INTERCONNECTION OF T HE LOAD WITH THE 26 
+ELECTRIC TRANSMISSIO N AND DISTRIBUTION S YSTEMS ; OR 27 
+ 
+28 HOUSE BILL 1035   
+ 
+     2. THE DI STRIBUTION SERVICES OF AN ELECTRIC 1 
+COMPANY ; AND 2 
+ 
+   (II) A COMMERCIAL OR INDU STRIAL CUSTOMER THAT  ENTERS 3 
+INTO A CONTRACT WITH  AN ELECTRICITY SUPPL IER OR OTHER OWNER O F A 4 
+GENERATING STATION F OR THE PROVISION OF THE DIRECT SUPPLY OF  5 
+ELECTRICITY AS SPECI FIED IN ITEM (I) OF THIS PARAGRAPH . 6 
+ 
+  (2) THIS SECTION DOES NOT  APPLY TO THE USE OF ELECTRICITY 7 
+FROM AN ON –SITE GENERATING STAT ION THAT HAS BEEN AP PROVED UNDER §  8 
+7–207.1  OF THIS TITLE . 9 
+ 
+ (C) EXCEPT AS PROVIDED BY  FEDERAL LAW AND SUBS ECTION (D) OF THIS 10 
+SECTION , AN ELECTRICITY SUPPL IER OR OTHER OWNER O F A GENERATING STATI ON 11 
+MAY NOT ENTER INTO A  CONTRACT FOR THE PRO VISION OF THE DIRECT  SUPPLY OF 12 
+ELECTRICITY TO A COM MERCIAL OR INDUSTRIA L CUSTOMER IN A WAY THAT 13 
+BYPASSES : 14 
+ 
+  (1) INTERCONNECTION WITH  THE ELECTRIC TRA NSMISSION AND 15 
+DISTRIBUTION SYSTEMS ; OR 16 
+ 
+  (2) THE DISTRIBUTION SER VICES OF AN ELECTRIC  COMPANY . 17 
+ 
+ (D) AN ELECTRICITY SUPPLI ER OR OTHER OWNER OF  A GENERATING 18 
+STATION MAY ENTER IN TO A CONTRACT FOR TH E PROVISION OF THE D IRECT SUPPLY 19 
+OF ELECTRICITY TO A LARGE LOAD CUSTOMER IN A W AY THAT BYPASSES 20 
+INTERCONNECTION WITH  THE ELECTRIC TRANSMI SSION AND DISTRIBUTI ON 21 
+SYSTEMS OR THE DISTR IBUTION SERVICES OF AN ELECTRIC COMPANY IF THE 22 
+GENERATING STATION : 23 
+ 
+  (1) (I) INCREASES ITS GENERA TION OUTPUT FROM EXI STING 24 
+LEVELS TO A  LEVEL THAT MEETS 100%  OF THE LARGE LOAD CU STOMER ’S EXPECTED 25 
+LOAD DEMAND ; OR 26 
+ 
+   (II) CREATES NEW GENERATI ON OUTPUT AT A LEVEL  THAT 27 
+MEETS 100%  OF THE LARGE LOAD CU STOMER ’S EXPECTED LOAD DEMA ND; AND 28 
+ 
+  (2) OBTAINS , IF NECESSARY : 29 
+ 
+   (I) A CERTIFICATE OF PUB LIC CONVENIENCE AND NECESSITY 30 
+FOR THE CONSTRUCTION  OF THE GENERATING ST ATION IN ACCORDANCE WITH §  31 
+7–207 OF THIS TITLE AND AN Y OTHER ASSOCIATED S TANDARD ; AND  32 
+ 
+ HOUSE BILL 1035  29 
+ 
+    (II) ANY OTHER STANDARD S ITING APPROVALS AND PERMITS 1 
+RELATED TO THE CONST RUCTION OF A GENERATI NG STATION .  2 
+ 
+ (B) THE COMMISSION MAY APPLY TO A COMMERCIAL OR I NDUSTRIAL 3 
+CUSTOMER AND ANY GEN ERATING STATION SUPP LYING ELECTRICITY TO  THE 4 
+COMMERCIAL OR INDUST RIAL CUSTOMER IN THE  MANNER SPECIFIED IN 5 
+SUBSECTION (A)(1) OF THIS SECTION : 6 
+ 
+  (1) ANY DIRECT OR INDIRE CT COSTS , FEES , AND OBLIGATIONS THAT  7 
+ARE NORMALLY APPLIED  TO RETAIL ELECTRIC C USTOMERS IN THE SERV ICE 8 
+TERRITORY IN WHICH T HE COMMERCIAL OR IND USTRIAL CUSTOMER OR 9 
+GENERATING STATION I S LOCATED OR INTERCO NNECTED IF THE COMMISSION 10 
+DETERMINES THAT THE DI RECT OR INDIRECT COS TS, FEES , AND OBLIGATIONS 11 
+SHOULD BE ATTRIBUTAB LE TO THE COMMERCIAL  OR INDUSTRIAL CUSTOM ER AND 12 
+ANY GENERATING STATI ON SUPPLYING ELECTRI CITY TO THE COMMERCI AL OR 13 
+INDUSTRIAL CUSTOMER ; AND 14 
+ 
+  (2) ANY AVOIDED WHOLESAL E CO STS THAT THE COMMISSION 15 
+DETERMINES HAVE BEEN  OR MAY BE SHIFTED IN APPROPRIATELY TO OTH ER RETAIL 16 
+ELECTRIC CUSTOMERS A S A RESULT OF THE PR OVISION OF THE DIREC T SUPPLY OF 17 
+ELECTRICITY AS SPECI FIED IN SUBSECTION (A)(1) OF THIS SECTION , INCLUDING : 18 
+ 
+   (I) TRANSMI SSION COSTS ; 19 
+ 
+   (II) ENERGY COSTS ; 20 
+ 
+   (III) CAPACITY COSTS ; AND 21 
+ 
+   (IV) ANCILLARY SERVICES C OSTS . 22 
+ 
+SUBTITLE 12. ENERGY SOLICITATION AND  PROCUREMENT . 23 
+ 
+PART I. EMERGENCY ENERGY PROCUREMENT  DEFINITIONS ; GENERAL 24 
+PROVISIONS . 25 
+ 
+7–1201.  26 
+ 
+ (A) IN THIS PART THE FOLLOWING WORDS HAVE  THE MEANINGS 27 
+INDICATED . 28 
+ 
+ (B) “DISPATCHABLE ENERGY G ENERATION ” MEANS A GENERATING 29 
+STATION OR ENERGY ST ORAGE DEVICE WITH : 30 
+ 
+30 HOUSE BILL 1035   
+ 
+   (1) AN EFFECTIVE LOAD CA RRYING CAPABILITY OF  AT LEAST 65%,  AS 1 
+DETERMINED BY PJM  INTERCONNECTION ’S MOST RECENT ELCC  CLASS RATINGS ; 2 
+AND 3 
+ 
+  (2) A LOWER GREENHOUSE G AS EMISSIONS PROFILE  THAN COAL OR 4 
+OIL ENERGY GENERATIN G STATIONS . 5 
+ 
+ (C) “EFFECTIVE LOAD CARRYI NG CAPABILITY ” OR “ELCC”  MEANS THE 6 
+EXPECTED CAPACITY CO NTRIBUTION OF AN ENE RGY RESOURCE DURING PJM  7 
+INTERCONNECTI ON’S OPERATING HOURS WH EN THERE IS HIGH ELE CTRICITY 8 
+DEMAND AND LOW RESOU RCE OUTPUT . 9 
+ 
+ (D) “EFFECTIVE NAMEPLATE C APACITY ” MEANS THE AMOUNT OF ENERGY 10 
+AN ENERGY STORAGE DE VICE CAN DELIVER CON TINUOUSLY TO THE ELE CTRIC 11 
+SYSTEM OVER A PERIOD  OF AT LEAST 4 HOURS .  12 
+ 
+ (D) (E) “ENERGY STORAGE DEVICE ” HAS THE MEANING STAT ED IN §  13 
+7–216 OF THIS TITLE . 14 
+ 
+ (E) (F) “GENERATING STATION ” HAS THE MEANING STAT ED IN § 7–207 OF 15 
+THIS TITLE . 16 
+ 
+ (G) “LARGE CAPACITY ENERGY  RESOURCE ” MEANS A GENERATING S TATION 17 
+OR ENERGY STORAGE DE VICE THAT : 18 
+ 
+  (1) ON OR BEFORE JANUARY 1, 2025:  19 
+ 
+   (I) HAS APPLIED TO PJM  FOR INTERCONNECTION APPROVAL ; 20 
+OR 21 
+ 
+   (II) HAS BEEN APPROVED BY  PJM  FOR INTERCONNECTION ; 22 
+AND  23 
+ 
+  (2) HAS A CAPACITY RATIN G EQUAL TO OR GREATE R THAN 20 24 
+MEGAWATTS AFTER ACCO UNTING FOR THE EF FECTIVE LOAD CARRYIN G 25 
+CAPABILITY .  26 
+ 
+7–1202.  27 
+ 
+ (A) AN APPLICATION FOR A PROPOSED PROJECT UND ER PARTS III AND IV 28 
+OF THIS SUBTITLE IS SUBJECT TO A COMMUNI TY BENEFIT AGREEMENT . 29 
+ 
+ (B) A COMMUNITY BENEFIT AG REEMENT SHALL : 30 
+ 
+ HOUSE BILL 1035  31 
+ 
+   (1) PROMOTE INCREASED OP PORTUNITIES FOR LOCAL BUSINESSES  1 
+AND SMALL , MINORITY , WOMEN–OWNED , AND VETERAN –OWNED BUSINESSES IN THE 2 
+CLEAN ENERGY INDUSTR Y; 3 
+ 
+  (2) ENSURE THE TIMELY , SAFE , AND EFFICIENT COMPLE TION OF THE 4 
+PROJECT BY : 5 
+ 
+   (I) FACILITATING A STEAD Y SUPPLY OF HIGHLY S KILLED 6 
+CRAFT WORKE RS WHO SHALL BE PAID  NOT LESS THAN THE PR EVAILING WAGE RATE 7 
+DETERMINED BY THE COMMISSIONER OF LABOR AND INDUSTRY UNDER TITLE 17, 8 
+SUBTITLE 2 OF THE STATE FINANCE AND PROCUREMENT ARTICLE ; AND  9 
+ 
+   (II) GUARANTEEING THAT TH E CONSTRUCTION WORK 10 
+PERFORMED IN CONN ECTION WITH THE PROJ ECT WILL BE SUBJECT TO AN 11 
+AGREEMENT THAT : 12 
+ 
+    1. ESTABLISHES THE TERM S AND CONDITIONS OF 13 
+EMPLOYMENT AT THE CO NSTRUCTION SITE OF T HE PROJECT OR A PORT ION OF THE 14 
+PROJECT ; 15 
+ 
+    2. GUARANTEES AGAINST S TRIKES , LOCKOUTS , AND 16 
+SIMILAR DISRUPTI ONS; 17 
+ 
+    3. ENSURES THAT ALL WOR K ON THE PROJECT FUL LY 18 
+CONFORMS TO ALL RELE VANT STATE AND FEDERAL LAW S, RULES , AND 19 
+REGULATIONS , INCLUDING ALL REQUIR ED TRAINING FOR EMPL OYEES ; 20 
+ 
+    4. CREATES MUTUALLY BIN DING PROCEDURES FOR 21 
+RESOLVING LABOR DISP UTES ARISING  DURING THE TERM OF T HE DISPATCHABLE 22 
+ENERGY GENERATION PR OJECT ; 23 
+ 
+    5. SETS FORTH OTHER MEC HANISMS FOR  24 
+LABOR–MANAGEMENT COOPERATI ON ON MATTERS OF MUT UAL INTEREST AND 25 
+CONCERN , INCLUDING PRODUCTIVI TY, QUALITY OF WORK , SAFETY , AND HEALTH ; 26 
+AND  27 
+ 
+    6. BINDS ALL CONTRACTORS AND SUBCONTRACTORS TO 28 
+THE TERMS OF THE AGR EEMENT THROUGH THE I NCLUSION OF APPROPRI ATE 29 
+PROVISIONS IN ALL RE LEVANT SOLICITATION AND CONTRACT DOCUMEN TS; 30 
+ 
+  (3) PROMOTE SAFE COMPLET ION OF THE PROJECT B Y ENSURING 31 
+THAT AT LEAST 80%  OF THE CRAFT W ORKERS ON THE PROJEC T HAVE COMPLETED 32 
+A 10–HOUR OCCUPATIONAL SAFETY AND HEALTH ADMINISTRATION COURSE ; 33 
+ 
+32 HOUSE BILL 1035   
+ 
+   (4) PROMOTE CAREER TRAIN ING OPPORTUNITIES IN  THE 1 
+MANUFACTURING , MAINTENANCE , AND CONSTRUCTION IND USTRIES FOR LOCAL 2 
+RESIDENTS , VETERANS , WOMEN , MINORITIES , AND FORMERLY INCARCE RATED 3 
+INDIVIDUALS ; 4 
+ 
+  (5) INCLUDE PROVISIONS F OR LOCAL HIRING AND THE HIRING OF 5 
+HISTORICALLY DISADVA NTAGED GROUPS ; 6 
+ 
+  (6) USE LOCALLY , SUSTAINABLY , AND DOMESTICALLY 7 
+MANUFACTURED CONSTRU CTION MATERIALS AND COMPONENTS TO THE E XTENT 8 
+PRACTICABLE ; 9 
+ 
+  (7) REQUIRE THE USE OF S KILLED LOCAL LABOR , PARTICULARLY 10 
+WITH REGARD TO THE C ONSTRUCTION AND MANU FACTURING COMPONENTS  OF THE 11 
+PROJECT , USING METHODS INCLUD ING OUTREACH , HIRING , AND REFERRAL 12 
+METHODS THAT ARE AFF ILIATED WITH REGISTE RED A PPRENTICESHIP PROGRA MS 13 
+UNDER TITLE 11, SUBTITLE 4 OF THE LABOR AND EMPLOYMENT ARTICLE ; AND  14 
+ 
+  (8) AUTHORIZE THE MARYLAND DEPARTMENT OF LABOR AND THE 15 
+COMMISSION TO CONSIDE R, REVIEW , AND ENFORCE A STORAG E DEVELOPER OR 16 
+ENERGY DEVELOPER ’S COMPLIANCE WITH AN Y COMMUNITY BENEFIT AGR EEMENT . 17 
+ 
+7–1203.  18 
+ 
+ THE COMMISSION MAY CONTRA CT FOR THE SERVICES OF INDEPENDENT 19 
+CONSULTANTS AND EXPE RTS TO IMPLEMENT AND  EXECUTE ANY PART OF THIS 20 
+SUBTITLE . 21 
+ 
+7–1204.  RESERVED . 22 
+ 
+7–1205.  RESERVED . 23 
+ 
+PART II. DISPATCHABLE ENERGY GENERATION AN D LARGE CAPACITY 24 
+RESOURCES . 25 
+ 
+7–1206.   26 
+ 
+ (A) (1) ON OR BEFORE OCTOBER 1, 2025,  AND AT OTHER TIMES A S 27 
+PROVIDED IN SUBSECTI ON (B) OF THIS SECTION , THE COMMISSION SHALL ISSU E 28 
+ONE OR MORE COMPETITIVE  SOLICITATIONS FOR PR OPOSALS FOR CONSTRUCTING  29 
+OR EXPANDING DISPATCHABLE ENERGY GENERATION IN THE STATE  THE 30 
+CONSTRUCTION OR EXPA NSION OF :  31 
+ 
+   (I) DISPATCHABLE ENERGY GENERATION ; AND 32 
+ HOUSE BILL 1035  33 
+ 
+  
+   (II) LARGE CAPACITY ENERG Y RESOURCES . 1 
+ 
+  (2) THE COMMISSION SHALL SET THE CLOSING DATE FOR  THE 2 
+SOLICITATION PERIOD TO BE NOT SOONER THA N 120 30 DAYS AFTER ISSUING  THE 3 
+REQUEST FOR PROPOSAL S IS ISSUED  UNDER PARAGRAPH (1) OF THIS SUBSECTION . 4 
+ 
+ (B) THE COMMISSION MAY PROVID E FOR AN ADDITIONAL SOLICITATIO N 5 
+PERIOD IF THE CAPACI TY SPECIFIED UNDER § 7–1203( B)(1) § 7–1208( D)(1) OF THIS 6 
+SUBTITLE HAS NOT BEE N MET DURING THE INI TIAL SOLICITATION PE RIOD . 7 
+ 
+ (C) THE COMMISSION SHALL PROV IDE TO THE POWER PLANT RESEARCH 8 
+PROGRAM A COPY OF EAC H PROPOSAL RECEIVED IN RESP ONSE TO THE 9 
+SOLICITATION . 10 
+ 
+ (D) (1) EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS SUBSECTION , 11 
+THE COMMISSION MAY NOT AP PROVE OR DEVELOP A F INANCIAL COMMITMENT FOR 12 
+THE COSTS RELATED TO THE  CONSTRUCTION OR OPER ATION OF A DISPATCHA BLE 13 
+ENERGY GENERATION PR OJECT OR LARGE CAPACITY EN ERGY RESOURCE PROJEC T 14 
+APPROVED IN ACCORDAN CE WITH THIS PART MAY NOT BE RECOVERED  THROUGH 15 
+UTILITY RATES . 16 
+ 
+  (2) A DISPATCHABLE ENERGY GENERATION PROJECT O R LARGE 17 
+CAPACITY ENERGY RESO URCE PROJECT APPROVE D IN ACCORDANCE WITH  THIS 18 
+PART MAY PARTICIPATE IN OTHER  PROCESSES UNDER WHIC H RATEPAYER FUNDS 19 
+ARE AWARDED TO DISPA TCHABLE ENERGY GENER ATION OR LARGE CAPAC ITY 20 
+ENERGY RESOURCES . 21 
+ 
+7–1203.  22 
+ 
+ (A) SUBJECT TO SUBSECTION  (B) OF THIS SECTION , UNLESS EXTENDED BY  23 
+MUTUAL CONSENT OF TH E PARTIES , THE COMMISSION SHALL APPR OVE, 24 
+CONDITIONALLY APPROV E, OR DENY A PROPOSAL S UBMITTED IN RESPONSE  TO A  25 
+SOLICITATION ISSUED UNDER § 7–1202  OF THIS SUBTITLE WIT HIN 90 DAYS AFTER  26 
+THE CLOSE OF THE SOL ICITATION PERIOD . 27 
+ 
+7–1207.  28 
+ 
+ THE COMMISSION SHALL INCL UDE SPECIFICAT IONS IN A SOLICITATI ON 29 
+ISSUED UNDER § 7–1206  OF THIS SUBTITLE THA T REQUIRE EACH PROPO SAL FOR A 30 
+DISPATCHABLE ENERGY GENERATION PROJECT A ND LARGE CAPACITY EN ERGY 31 
+RESOURCE PROJECT TO : 32 
+ 
+34 HOUSE BILL 1035   
+ 
+   (1) IF THE PROJECT IS A NATURAL GAS ENERGY G ENERATING 1 
+STATION , ENSURE TH AT THE PROJECT CAN B E CONVERTED TO USE O NLY HYDROGEN 2 
+OR A ZERO –EMISSIONS BIOFUEL AS  THE ENERGY SOURCE WH EN THE COMMISSION 3 
+DETERMINES THAT THE CONVERSION IS FEASIB LE; 4 
+ 
+  (2) INCLUDE A DETAILED D ESCRIPTION OF THE TI MELINE FOR 5 
+CONSTRUCTION OF THE PROJECT , INCLUDING : 6 
+ 
+   (I) IDENTIFYING THE ENTI TY THAT HAS OWNERSHI P OR SITE 7 
+CONTROL OF THE PROJE CT SITE ; 8 
+ 
+   (II) QUEUE POSITION FOR PJM  APPROVAL ;  9 
+ 
+   (III) THE ABILITY TO PROCU RE MATERIALS , INCLUDING 10 
+TURBINES AND OTHER P IPELINE MATERIALS ; AND  11 
+ 
+   (IV) ANY INFORMATION THAT DEM ONSTRATES THE 12 
+APPLICANT ’S: 13 
+ 
+    1. READINESS TO APPLY F OR A CERTIFICATE OF PUBLIC 14 
+CONVENIENCE AND NECE SSITY UNDER § 7–207 OR § 7–207.4  OF THIS TITLE AS SOO N 15 
+AS IS REASONABLY FEA SIBLE AFTER RECEIVIN G APPROVAL FOR THE P ROJECT , 16 
+INCLUDING T HE ANTICIPATED APPLI CATION DATE ; AND  17 
+ 
+    2. ABILITY TO DEVELOP T HE PROJECT WITHIN TH E 18 
+TIMELINE PRESENTED ; 19 
+ 
+  (3) INCLUDE A DESCRIPTIO N OF THE LOCATION OF  THE PROJECT 20 
+SITE, INCLUDING : 21 
+ 
+   (I) THE PROXIMITY OF THE  SITE TO EXISTING TRA NSMISSION 22 
+LINES AND RIG HTS–OF–WAY; AND  23 
+ 
+   (II) WHETHER THE PROJECT WOULD BE RETROFITTIN G A 24 
+CURRENT OR PREVIOUS GENERATING STATION S ITE;  25 
+ 
+  (4) IF APPLICABLE , INCLUDE A DESCRIPTIO N OF : 26 
+ 
+   (I) THE TYPE AND AMOUNT OF CO–LOCATED ENERGY 27 
+GENERATION FROM TIER 1 RENEWABLE SOURCES , AS DEFINED IN § 7–701 OF THIS 28 
+TITLE , THAT WOULD BE USED W ITH THE PROJECT ; 29 
+ 
+   (II) THE AMOUNT OF CO –LOCATED ENERGY STORA GE THAT 30 
+WOULD BE USED WITH T HE PROJECT ; 31 
+ HOUSE BILL 1035  35 
+ 
+  
+   (III) THE USE OF CARBON CA PTURE OR SEQUESTRATI ON 1 
+TECHNOLOGY TO MITIGA TE GREENHOUSE GAS EM ISSIO NS FROM THE PROJECT ; AND  2 
+ 
+   (IV) THE AMOUNT OF HYDROG EN OR ZERO –EMISSIONS 3 
+BIOFUELS THAT THE PR OJECT WILL MIX WITH NATURAL GAS FOR ENER GY 4 
+GENERATION ; AND  5 
+ 
+  (5) STATE THE EMISSIONS INTENSITY OF THE GEN ERATION OUTPUT 6 
+OVER THE LIFE OF THE  PROJECT . 7 
+ 
+7–1208.   8 
+ 
+ (A) (1) WITHIN 45 DAYS AFTER THE CLOSI NG DATE FOR THE 9 
+SOLICITATION PERIOD SET IN ACCORDANCE WI TH § 7–1206  OF THIS SUBTITLE OR 10 
+SOONER AS DETERMINED  BY THE COMMISSION , THE POWER PLANT RESEARCH 11 
+PROGRAM SHALL RECOMME ND TO THE COMMISSION PROPOSALS TO BE 12 
+AUTH ORIZED TO UTILIZE TH E EXPEDITED CERTIFIC ATE OF PUBLIC CONVEN IENCE 13 
+AND NECESSITY PROCES S UNDER § 7–207.4  OF THIS TITLE . 14 
+ 
+  (2) THE POWER PLANT RESEARCH PROGRAM SHALL BASE IT S 15 
+RECOMMENDATIONS ON T HE INFORMATION IN TH E PROPOSALS RECEIVED  AND THE 16 
+SPECIFICATION S LISTED IN §§ 7–1207  AND 7–1209  OF THIS SUBTITLE . 17 
+ 
+ (B) SUBJECT TO SUBSECTION  (C) OF THIS SECTION AND AFTER 18 
+CONSIDERING THE RECO MMENDATIONS OF THE POWER PLANT RESEARCH 19 
+PROGRAM MADE UNDER SU BSECTION (A) OF THIS SECTION , UNLESS THE 20 
+COMMISSION GRANTS A R EQUE ST FOR AN EXTENSION FOR GOOD CAUSE , NOT LATER 21 
+THAN 60 DAYS AFTER THE CLOSE  OF THE SOLICITATION PERIOD THE COMMISSION 22 
+SHALL APPROVE , CONDITIONALLY APPROV E, OR DENY A PROPOSAL S UBMITTED IN 23 
+RESPONSE TO A SOLICI TATION ISSUED UNDER § 7–1206  OF THIS SUBTITLE . 24 
+ 
+ (C) IN ADDITION TO THE CR ITERIA SPECIFIED IN § 7–1207  OF THIS 25 
+SUBTITLE , THE COMMISSION SHALL DETE RMINE WHICH PROPOSAL S TO APPROVE 26 
+BASED ON THE FACTORS  AND REQUIREMENTS SPE CIFIED IN § 7–1209  OF THIS 27 
+SUBTITLE .  28 
+ 
+ (B) (D) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , THE 29 
+COMBINED TOTAL CAPAC ITY OF DISPATCHABLE ENERGY GENERATION PR OJECTS 30 
+AND LARGE CAPACITY E NERGY RESOURCE PROJE CTS APPROVED UNDER THIS 31 
+SECTION SHALL BE GRE ATER THAN THE COMBIN ED SUMMER PEAK CAPAC ITY 32 
+PROFILE OF COAL AND OIL ENERGY GENERATIN G STA TIONS IN THE STATE AS 33 
+OUTLINED UNDER TABLE 9 OF THE COMMISSION ’S TEN–YEAR PLAN (2024–2033)  34 
+OF ELECTRIC COMPANIES IN MARYLAND . 35 
+36 HOUSE BILL 1035   
+ 
+  
+  (2) THE COMBINED TOTAL CA PACITY OF NATURAL GA S 1 
+DISPATCHABLE ENERGY GENERATION PROJECTS AND LARGE CAPACITY E NERGY 2 
+RESOURCE PROJECTS  APPROVED UNDER THIS SECTION MAY NOT EXCE ED THE 3 
+COMBINED SUMMER PEAK  CAPACITY PROFILE OF COAL AND OIL ENERGY 4 
+GENERATING STATIONS IN THE STATE AS OUTLINED UND ER TABLE 9 OF THE 5 
+COMMISSION ’S TEN–YEAR PLAN (2024–2033)  OF ELECTRIC COMPANIES IN 6 
+MARYLAND . 7 
+ 
+ (C) ON AND BEFORE JUNE 30, 2030,  A DISPATCHABLE ENERG Y 8 
+GENERATION PROJECT A PPROVED UNDER THIS S ECTION SHALL BE SUBJ ECT TO THE  9 
+EXPEDITED CERTIFICAT E OF PUBLIC CONVENIE NCE AND NECESSITY PR OCESS  10 
+UNDER § 7–207.4  OF THIS TITLE . 11 
+ 
+ (E) EVERY 5 YEARS AFTER THE DATE THAT A NATURAL GAS DISPATCHABLE 12 
+ENERGY GENERATION PR OJECT OR LARGE CAPAC ITY ENERGY RESOURCE PROJECT 13 
+BECOMES OPERATIONAL UNDER A CERTIFICATE OF PUBLIC CONVENIENC E AND 14 
+NECESSITY ISSUED UND ER § 7–207.4  OF THIS TITLE , THE OWNER OR OPERATO R OF 15 
+THE NATURAL GAS DISPATCHABLE ENE RGY GENERATION OR LA RGE CAPACITY 16 
+ENERGY RESOURCE SHAL L SUBMIT TO THE COMMISSION A REPORT R EGARDING THE 17 
+FEASIBILITY OF CONVE RTING THE NATURAL GA S DISPATCHABLE ENERG Y 18 
+GENERATION OR LARGE CAPACITY ENERGY RESO URCE TO THE USE OF O NLY 19 
+HYDROGE N OR ZERO –EMISSIONS BIOFUEL .  20 
+ 
+ (F) AN APPROVAL OR CONDIT IONAL APPROVAL OF A PROJECT UNDER THIS 21 
+SECTION DOES NOT GUA RANTEE THAT THE PROJ ECT WILL BE ISSUED A  22 
+CERTIFICATE OF PUBLI C CONVENIENCE AND NE CESSITY UNDER § 7–207 OR §  23 
+7–207.4  OF THIS TITLE .  24 
+ 
+7–1204 . 25 
+ 
+ THE COMMISSION SHALL INCL UDE SPECIFICATIONS I N A SOLICITATION  26 
+ISSUED UNDER § 7–1202  OF THIS SUBTITLE THA T REQUIRE EACH PROPO SAL FOR A  27 
+DISPATCHABLE ENERGY GENERATION PROJECT T O: 28 
+ 
+  (1) FOR A NATURAL GAS EN ERGY GENERATING STAT ION, ENSURE  29 
+THAT THE PROJECT  CAN BE CONVERTED TO USE ONLY HYDROGEN OR  A  30 
+ZERO–EMISSIONS BIOFUEL AS  THE ENERGY SOURCE WH EN THE CONVERSION IS  31 
+FEASIBLE , AS DETERMINED BY THE  COMMISSION ; 32 
+ 
+  (2) INCLUDE A COST –BENEFIT ANALYSIS THA T SHALL INCLUDE , AT A  33 
+MINIMUM : 34 
+ 
+ HOUSE BILL 1035  37 
+ 
+    (I) A DETAILED INPUT–OUTPUT ANALYSIS OF T HE IMPACT OF  1 
+THE PROJECT ON INCOM E, EMPLOYMENT , WAGES , AND TAXES IN THE STATE ; 2 
+ 
+   (II) DETAILED INFORMATION  CONCERNING ASSUMED  3 
+EMPLOYMENT IMPACTS I N THE STATE , INCLUDING THE EXPECT ED DURATION OF  4 
+EMPLOYMENT OPPORTUNI TIES, THE SALARY OF EACH POSIT ION, AND OTHER  5 
+SUPPORTING EVIDENCE OF EMPLOYMENT IMPACT S; 6 
+ 
+   (III) AN ANALYSIS OF ANY I MPACT ON RESIDENTIAL , 7 
+COMMERCIAL , AND INDUSTRIAL RATEP AYERS OVER THE LIFE OF THE PROJECT ; 8 
+ 
+   (IV) AN ANALYSIS OF ANY L ONG–TERM EFFECT ON ENERG Y AND  9 
+CAPACITY MARKETS AS A RESULT OF THE PROJ ECT; 10 
+ 
+   (V) AN ANALYSIS OF ANY I MPACT THE PROJECT WO ULD HAVE  11 
+ON BUSINESSES IN THE  STATE ;  12 
+ 
+   (VI) AN ANALYSIS OF THE A NTICIPATED ENVIRONME NTAL  13 
+BENEFITS , HEALTH BENEFITS , AND ENVIRONMENTAL IM PACTS OF THE PROJECT  TO 14 
+THE CITIZENS OF THE STATE ; AND  15 
+ 
+   (VII) AN ANALYSIS OF OTHER  BENEFITS RESULTING F ROM THE  16 
+PROJECT , INCLUDING INCREASED IN–STATE CONSTRUCTION , OPERATION AND  17 
+MAINTENANCE NEEDS , AND EQUIPMENT PURCHA SES; 18 
+ 
+  (3) INCLUDE A DETAILED D ESCRIPTION OF THE TI MELINE F OR 19 
+CONSTRUCTION OF THE PROJECT , INCLUDING : 20 
+ 
+   (I) IDENTIFYING THE ENTI TY THAT HAS OWNERSHI P OR SITE  21 
+CONTROL OF THE PROJE CT SITE ; 22 
+ 
+   (II) QUEUE POSITION FOR PJM  INTERCONNECTION APPRO VAL; 23 
+AND  24 
+ 
+   (III) THE ABILITY TO PROCU RE MATERIALS , INCLUDING  25 
+TURBINES A ND OTHER PIPELINE MA TERIALS ;  26 
+ 
+  (4) INCLUDE A DESCRIPTIO N OF THE LOCATION OF  THE PROJECT  27 
+SITE, INCLUDING : 28 
+ 
+   (I) THE PROXIMITY OF THE  SITE TO EXISTING TRA NSMISSION  29 
+LINES AND RIGHTS –OF–WAY; AND  30 
+ 
+38 HOUSE BILL 1035   
+ 
+    (II) WHETHER THE PROJECT WOULD BE RETROFITTIN G A  1 
+CURRENT OR PREVIOUS GENERATI NG STATION SITE ; AND  2 
+ 
+  (5) IF APPLICABLE , INCLUDE A DESCRIPTIO N OF : 3 
+ 
+   (I) THE TYPE AND AMOUNT OF CO–LOCATED ENERGY  4 
+GENERATION FROM TIER 1 RENEWABLE SOURCES , AS DEFINED IN § 7–701 OF THIS  5 
+TITLE , THAT WOULD BE USED W ITH THE PROJECT ; 6 
+ 
+   (II) THE AMOUNT OF CO –LOCATED ENERGY STORA GE THAT  7 
+WOULD BE USED WITH T HE PROJECT ; 8 
+ 
+   (III) THE USE OF CARBON CA PTURE OR SEQUESTRATI ON 9 
+TECHNOLOGY TO MITIGA TE GREENHOUSE GAS EM ISSIONS FROM THE PRO JECT ; AND  10 
+ 
+   (IV) THE AMOUNT OF HYDROG EN OR ZERO –EMISSION S 11 
+BIOFUELS THAT THE PR OJECT WILL MIX WITH NATURAL GAS FOR ENER GY 12 
+GENERATION . 13 
+ 
+7–1205.  14 
+ 
+ (A) THE COMMISSION SHALL USE THE FOLLOWING CRITER IA TO EVALUATE  15 
+AND COMPARE PROPOSAL S FOR DISPATCHABLE E NERGY GENERATION PRO JECTS  16 
+SUBMITTED DURING A S OLICITATION PERIOD  UNDER § 7–1202  OF THIS SUBTITLE : 17 
+ 
+  (1) THE LOWEST COST IMPA CT ON RATEPAYERS ; 18 
+ 
+  (2) THE EXTENT TO WHICH THE COST –BENEFIT ANALYSIS SUB MITTED  19 
+UNDER § 7–1204  OF THIS SUBTITLE DEM ONSTRATES POSITIVE N ET ECONOMIC , 20 
+ENVIRONMENTAL , AND HEALTH BENEFITS TO THE STATE ; 21 
+ 
+  (3) THE TIMELINE FOR CON STRUCTION OF THE PRO JECT , 22 
+INCLUDING : 23 
+ 
+   (I) IDENTIFYING THE ENTI TY THAT HAS OWNERSHI P OR SITE  24 
+CONTROL OF THE PROJE CT SITE ; 25 
+ 
+   (II) POSITION IN THE PJM  INTERCONNECTION QUEUE ; AND  26 
+ 
+   (III) ABILITY TO PROCURE M ATERIALS , INCLUDING TURBINES  27 
+AND OTHER PIPELINE M ATERIALS ; 28 
+ 
+  (4) THE LOCATION OF THE PROJECT SITE , INCLUDING THE  29 
+PROXIMITY OF THE SIT E TO EXISTING TRANSM ISSION LINES AND RIG HTS–OF–WAY;  30 
+ HOUSE BILL 1035  39 
+ 
+  
+  (5) WHETHER THE PROJECT WOULD BE RETROFITTIN G A CURRENT  1 
+OR PAST GENERATING S TATION SITE ; AND  2 
+ 
+  (6) IF APPLICABLE : 3 
+ 
+   (I) THE TYPE AND AMOUNT OF CO–LOCATED ENERGY  4 
+GENERATION FROM TIER 1 RENEWABLE SOURCES , AS DEFINED IN § 7–701 OF THIS  5 
+TITLE , THAT WOULD BE USED W ITH THE PROJECT ;  6 
+ 
+   (II) THE AMOUNT OF CO –LOCATED ENERGY STORA GE TH AT 7 
+WOULD BE USED WITH T HE PROJECT ; 8 
+ 
+   (III) THE USE OF CARBON CA PTURE OR SEQUESTRATI ON 9 
+TECHNOLOGY TO MITIGA TE GREENHOUSE GAS EM ISSIONS FROM THE PRO JECT ; AND  10 
+ 
+   (IV) THE AMOUNT OF HYDROG EN OR ZERO –EMISSIONS  11 
+BIOFUELS THAT THE PR OJECT WILL MIX WITH NATURAL  GAS FOR ENERGY  12 
+GENERATION . 13 
+ 
+ (B) IN EVALUATING AND COM PARING A PROPOSAL FO R A DISPATCHABLE  14 
+ENERGY GENERATION PR OJECT UNDER SUBSECTI ON (A) OF THIS SECTION , THE 15 
+COMMISSION MAY CONTRA CT FOR THE SERVICES OF INDEPENDENT CONSU LTANTS  16 
+AND EXPERTS . 17 
+ 
+7–1206.  RESERV ED. 18 
+ 
+7–1207.  RESERVED . 19 
+ 
+7–1209.  20 
+ 
+ (A) (1) EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS SUBSECTION , 21 
+THE COMMISSION MAY APPROV E UP TO 10 PROPOSALS TO BE ELIG IBLE TO 22 
+UNDERGO THE EXPEDITE D CERTIFICATE OF PUB LIC CONVENIENCE AND NECESSITY 23 
+PROCESS UNDER § 7–207.4  OF THIS TITLE . 24 
+ 
+  (2) THE COMMISSION MAY APPROV E MORE THAN 10 PROPOSALS TO 25 
+BE ELIGIBLE TO UNDER GO THE EXPEDITED CER TIFICATE OF PUBLIC C ONVENIENCE 26 
+AND NECESSITY PROCES S UNDER § 7–207.4  OF THIS TITLE ONLY I F THE 27 
+COMMISSION DETERMINES  THAT : 28 
+ 
+   (I) THE COMMISSION HAS SUFFIC IENT RESOURCES TO 29 
+COMPLETE THAT NUMBER  OF EXPEDITED REVIEWS  OF APPLICATIONS FOR A 30 
+40 HOUSE BILL 1035   
+ 
+ CERTIFICATE OF PUBLI C CONVENIENCE AND NE CESSITY UNDER § 7–207.4  OF THIS 1 
+TITLE ; AND  2 
+ 
+   (II) THE NUMBER OF EXPEDI TED REVIEWS OF APPLI CATIONS 3 
+FOR A CER TIFICATE OF PUBLIC C ONVENIENCE AND NECES SITY UNDER § 7–207.4  OF 4 
+THIS TITLE IS IN THE  PUBLIC INTEREST .  5 
+ 
+  (3) IF NOT MORE THAN 10 PROJECTS RESPOND TO A SOLICITATION 6 
+ISSUED UNDER § 7–1206  OF THIS SUBTITLE , THE COMMISSION SHALL APPR OVE, 7 
+SUBJECT TO § 7–1208( D)(2) OF THIS SUBTITLE , ALL PROJECTS THAT AP PLY FOR THE 8 
+SOLICITATION . 9 
+ 
+ (B) (1) FOR THE PURPOSE OF TH IS SUBSECTION , A TRANSMISSION 10 
+ENERGY STORAGE DEVIC E SHALL BE CONSIDERE D A NON –EMISSIONS –EMITTING 11 
+PROJECT . 12 
+ 
+   (2) SUBJECT TO PARAGRAPH (3) OF THIS S UBSECTION , THE 13 
+COMMISSION SHALL APPR OVE 4 NON–EMISSIONS –EMITTING PROJECTS TO  EVERY 1 14 
+EMISSIONS –EMITTING PROJECT .  15 
+ 
+   (3) THE COMMISSION MAY WAIVE THE REQUIREMENT UNDE R 16 
+PARAGRAPH (2) OF THIS SUBSECTION I F A SUFFICIENT NUMBE R OF APPLICATIONS 17 
+FOR PROJECTS TH AT MEET THE REQUIREM ENT ARE NOT RECEIVED .  18 
+ 
+ (C) (1) IN DETERMINING WHICH PROPOSALS TO APPROVE , THE 19 
+COMMISSION SHALL PRIO RITIZE DISPATCHABLE ENERGY GENERATION PR OJECTS 20 
+OVER LARGE CAPACITY ENERGY RESOURCES . 21 
+ 
+  (2) IN ADDITION TO THE PR IORITIZATION IN PARA GRAPH (1) OF THIS 22 
+SUBSECTION , IF THE COMMISSION RECEIVES MORE THAN 10 PROPOSALS OR 23 
+DETERMINES THAT MORE  THAN 10 PROPOSALS MAY BE APP ROVED UNDER § 7–1208  24 
+OF THIS SUBTITLE , THE COMMISSION SHALL BASE  THE APPROVALS ON : 25 
+ 
+   (I) WHICH PROJECTS WILL PROVIDE THE HIG HEST CAPACITY 26 
+VALUE TO THE STATE ; 27 
+ 
+   (II) THE TIMELINESS OF A PROJECT TO BEGIN CONSTRUCTIO N; 28 
+ 
+   (III) THE TIMELINESS OF A PROJECT TO BEGIN OPE RATION ; AND  29 
+ 
+   (IV) WHICH PROJECTS HAVE THE LOWEST EMISSIONS  30 
+INTENSITY .  31 
+ 
+ HOUSE BILL 1035  41 
+ 
+  (D) THE COMMISSION SHALL DETE RMINE WHEN THE PROCEEDINGS  FOR A 1 
+CERTIFICATE OF PUBLI C CONVENIENCE AND NE CESSITY UNDER § 7–207.4  OF THIS 2 
+TITLE WILL BEGIN FOR  A PROPOSAL APPROVED UNDER THIS PART . 3 
+ 
+ (E) THE COMMISSION MAY CONTRA CT FOR THE SERVICES OF 4 
+INDEPENDENT CONSULTA NTS AND EXPERTS IN EVALUATING AND COMPA RING 5 
+WHETHER A PROPOSAL S HALL BE APPROVED TO BE ELIGIBLE TO UNDER GO AN 6 
+EXPEDITED CERTIFICAT E OF PUBLIC CONVENIE NCE AND NECESSITY PR OCESS 7 
+UNDER § 7–207.4  OF THIS TITLE . 8 
+ 
+ (F) A PROPOSAL THAT IS NOT  APPROVED TO BE ELIGI BLE TO UNDERGO AN 9 
+EXPEDITED CERTIFICATE  OF PUBLIC CONVENIENC E AND NECESSITY PROC ESS 10 
+UNDER § 7–207.4  OF THIS TITLE MAY AP PLY FOR A CERTIFICAT E OF PUBLIC 11 
+CONVENIENCE AND NECE SSITY UNDER § 7–207 OF THIS TITLE . 12 
+ 
+7–1210.  RESERVED . 13 
+ 
+7–1211.  RESERVED .  14 
+ 
+PART II. PART III. NUCLEAR ENERGY PROCUREMENT . 15 
+ 
+7–1208.  7–1212.  16 
+ 
+ (A) (1) AFTER THE EFFECTIVE D ATE OF COMMISSION REGULATION S 17 
+IMPLEMENTING THIS PA RT, A PERSON MAY SUBMIT AN APPLICATION TO TH E 18 
+COMMISSION FOR APPROV AL OF A PROPOSED NUC LEAR ENERGY GENERATI ON 19 
+PROJECT , INCLUDING AN APPLICA TION TO UPGRADE THE GENERATION 20 
+CAPABILITIES OF AN E XISTING NUCLEAR ENER GY GENERATING STATIO N. 21 
+ 
+  (2) FOR AN APPLICATION SU BMITTED IN ACCORDANC E WITH 22 
+PARAGRAPH (1) OF THIS SUBSECTION , THE LONG –TERM PRICING SCHEDUL E SHALL 23 
+BE BASED ONLY ON ANY  NEW GENERATION PROPOSED IN THE APPL ICATION , 24 
+INCLUDING NEW GENERA TION AT AN EXISTING NUCLEAR ENERGY GENER ATING 25 
+STATION . 26 
+ 
+ (B) (1) ON RECEIPT OF AN APPL ICATION FOR APPROVAL  OF A PROPOSED 27 
+NUCLEAR ENERGY GENER ATION PROJECT , THE COMMISSION SHALL : 28 
+ 
+   (I) OPEN AN APPLICATION PERIOD DURING WHICH O THER 29 
+INTERESTED PERSONS M AY SUBMIT APPLICATIO NS FOR APPROVAL OF A  PROPOSED 30 
+NUCLEAR ENERGY GENER ATION PROJECT ; AND 31 
+ 
+42 HOUSE BILL 1035   
+ 
+    (II) PROVIDE NOTICE THAT THE COMMISSION IS ACCEPTI NG 1 
+APPLICATIONS FOR APP ROVAL OF PROPOSED NU CLEAR ENERGY GENERAT ION 2 
+PROJECTS . 3 
+ 
+  (2) THE COMMISSION SHALL SET THE CLOSING DATE FOR  THE 4 
+APPLICATION PERIOD T O BE NOT SOONER THAN  90 DAYS AFTER THE NOTIC E 5 
+PROVIDED UNDER PARAG RAPH (1) OF THIS SUBSECTION . 6 
+ 
+ (C) THE COMMISSION SHALL PROV IDE AT LEAST TWO ADD ITIONAL 7 
+APPLICATION PERI ODS BEFORE JANUARY 1, 2031.  8 
+ 
+ (D) THE COMMISSION MAY PROVID E ADDITIONAL APPLICA TION PERIODS 9 
+THAT MEET THE REQUIR EMENTS OF THIS SECTI ON. 10 
+ 
+7–1209.  7–1213.  11 
+ 
+ (A) UNLESS EXTENDED BY MU TUAL CONSENT OF THE PARTIES  SUBJECT TO 12 
+SUBSECTION (B) OF THIS SECTION , THE COMMISSION SHALL APPR OVE, 13 
+CONDITIONALLY APPROV E, OR DENY AN APPLICATI ON SUBMITTED UNDER § 7–1208  14 
+§ 7–1212  OF THIS SUBTITLE WIT HIN 1 YEAR AFTER THE CLOSE  OF THE APPLICATION 15 
+PERIOD . 16 
+ 
+ (B) THE COMMISSION MAY EXTEND  THE TIME TO APPROVE , 17 
+CONDITIONALLY APPROVE , OR DENY AN APPLICATI ON UNDER SUBSECTION (A) OF 18 
+THIS SECTION FOR GOO D CAUSE .  19 
+ 
+7–1210.  7–1214.  20 
+ 
+ AN APPLICATION SUBMIT TED FOR A NUCLEAR EN ERGY GENERATION 21 
+PROJECT UNDER § 7–1208  § 7–1212  OF THIS SUBTITLE SHA LL INCLUDE : 22 
+ 
+  (1) A DETAILED DESCRIPTI ON AND FINANCIAL ANALYS IS OF THE 23 
+PROJECT ; 24 
+ 
+  (2) THE PROPOSED METHOD OF FINANCING THE PRO JECT , 25 
+INCLUDING DOCUMENTAT ION DEMONSTRATING TH AT THE APPLICANT HAS  APPLIED 26 
+FOR ALL CURRENT ELIG IBLE STATE AND FEDERAL GRA NTS, REBATES , TAX CREDITS , 27 
+LOAN GUARANTEES , AND O THER PROGRAMS AVAILA BLE TO OFFSET THE CO ST OF 28 
+THE PROJECT OR PROVI DE TAX ADVANTAGES ; 29 
+ 
+  (3) A COMMITMENT THAT TH E APPLICANT WILL USE  BEST EFFORTS 30 
+TO APPLY FOR ALL ELI GIBLE STATE AND FEDERAL GRA NTS, REBATES , TAX CREDITS , 31 
+LOAN GUARANTEES , OR OTHER SIMILAR BE NEFITS AS THOSE BENE FITS BECOME 32 
+AVAILABLE ;  33 
+ HOUSE BILL 1035  43 
+ 
+  
+  (4) A COST–BENEFIT ANALYSIS THA T SHALL INCLUDE , AT A MINIMUM : 1 
+ 
+   (I) A DETAILED INPUT –OUTPUT ANALYSIS OF T HE IMPACT OF 2 
+THE PROJECT ON INCOM E, EMPLOYMENT , WAGES , AND TAXES IN THE STATE ; 3 
+ 
+   (II) DETAILED INFOR MATION CONCERNING AS SUMED 4 
+EMPLOYMENT IMPACTS I N THE STATE , INCLUDING THE EXPECT ED DURATION OF 5 
+EMPLOYMENT OPPORTUNI TIES, THE SALARY OF EACH P OSITION , AND OTHER 6 
+SUPPORTING EVIDENCE OF EMPLOYMENT IMPACT S; 7 
+ 
+   (III) AN ANALYSIS OF ANY I MPACT ON RESIDENTIAL , 8 
+COMMERCIAL , AND INDUSTRIAL RATEP AYERS OVER THE LIFE OF THE PROJECT ; 9 
+ 
+   (IV) AN ANALYSIS OF ANY L ONG–TERM EFFECT ON ENERG Y AND 10 
+CAPACITY MARKETS AS A RESULT OF THE PROJ ECT; 11 
+ 
+   (V) AN ANALYSIS OF ANY I MPACT THE PROJECT WO ULD HAVE 12 
+ON BUSINESSES IN THE  STATE ;  13 
+ 
+   (VI) AN ANALYSIS OF THE A NTICIPATED ENVIRONME NTAL 14 
+BENEFITS , HEALTH BENEFITS , AND ENVIRONMENTAL  ECONOMIC  IMPACTS OF THE 15 
+PROJECT TO THE CITIZ ENS OF THE STATE ; AND  16 
+ 
+   (VII) AN ANALYSIS OF OTHER  BENEFITS RESULTING F ROM THE 17 
+PROJECT , INCLUDING INCREASED IN–STATE CONSTRUCTION , OPERATION AND 18 
+MAINTENANCE NEEDS , AND EQUIPMENT PURCHA SES; 19 
+ 
+  (5) A PROPOSED LONG –TERM PRICING SCHEDUL E FOR THE PROJECT 20 
+THAT SHALL SPECIFY A  PRICE FOR THE GENERA TION ATTRIBUTES , INCLUDING THE 21 
+ENERGY , CAPACITY , ANCILLARY SERVICES , AND ENV IRONMENTAL ATTRIBUTE S; 22 
+ 
+  (6) A DECOMMISSIONING AN D WASTE STORAGE PLAN  FOR THE 23 
+PROJECT , INCLUDING PROVISIONS  FOR DECOMMISSIONING OR WASTE STORAGE AS 24 
+REQUIRED BY THE U.S.  NUCLEAR REGULATORY COMMISSION ; 25 
+ 
+  (7) A COMMITMENT TO ABID E BY THE REQUIREMENT S SET FORTH IN 26 
+§ 7–1213  § 7–1202  OF THIS SUBTITLE ; 27 
+ 
+  (8) A DESCRIPTION OF THE  APPLICANT ’S PLAN FOR ENGAGING SMALL 28 
+BUSINESSES , AS DEFINED IN § 14–501 OF THE STATE FINANCE AND PROCUREMENT 29 
+ARTICLE ;  30 
+ 
+44 HOUSE BILL 1035   
+ 
+   (9) IF APPLICABL E, THE STATEMENT SPECIF IED IN § 7–1211( C)(2) § 1 
+7–1215( B)(2) OF THIS SUBTITLE ; AND  2 
+ 
+  (10) ANY OTHER INFORMATIO N THE COMMISSION REQUIRES . 3 
+ 
+7–1211.  7–1215.  4 
+ 
+ (A) THE COMMISSION SHALL USE THE FOLLOWING CRITER IA TO EVALUATE 5 
+AND COMPARE APPLICAT IONS FOR NUCLEAR  ENERGY GENERATION PR OJECTS 6 
+SUBMITTED DURING AN APPLICATION PERIOD U NDER § 7–1208  § 7–1212  OF THIS 7 
+SUBTITLE : 8 
+ 
+  (1) THE LOWEST COST IMPA CT ON RATEPAYERS OF THE PRICE SET 9 
+UNDER A PROPOSED LONG–TERM  PRICING SCHEDULE ; 10 
+ 
+  (2) POTENTIAL REDUCTIONS  IN TRANSMISSI ON CONGESTION PRICES  11 
+WITHIN THE STATE ; 12 
+ 
+  (3) POTENTIAL CHANGES IN  CAPACITY PRICES WITH IN THE STATE ; 13 
+ 
+  (4) POTENTIAL REDUCTIONS  IN LOCATIONAL MARGIN AL PRICING ; 14 
+ 
+  (5) POTENTIAL LONG –TERM CHANGES IN CAPA CITY PRICES WITHIN 15 
+THE STATE FROM THE PROJEC T AS IT COMPARES TO CONVENTI ONAL ENERGY 16 
+SOURCES ; 17 
+ 
+  (6) THE EXTENT TO WHICH THE COST –BENEFIT ANALYSIS SUB MITTED 18 
+UNDER § 7–1210  § 7–1214  OF THIS SUBTITLE DEM ONSTRATES POSITIVE N ET 19 
+ECONOMIC , ENVIRONMENTAL , AND HEALTH BENEFITS TO THE STATE ; 20 
+ 
+  (7) THE EXTENT TO WHICH  AN APPLICANT ’S PLAN FOR ENGAGING 21 
+SMALL BUSINESSES MEE TS THE GOALS SPECIFI ED IN TITLE 14, SUBTITLE 5 OF THE 22 
+STATE FINANCE AND PROCUREMENT ARTICLE ; 23 
+ 
+  (8) THE EXTENT TO WHICH AN APPLICANT ’S PLAN PROVIDES FOR THE 24 
+USE OF SKILLED LABOR , PARTICULARLY WITH RE GAR D TO THE CONSTRUCTIO N AND 25 
+MANUFACTURING COMPON ENTS OF THE PROJECT , THROUGH OUTREACH , HIRING , 26 
+OR REFERRAL SYSTEMS THAT ARE AFFILIATED WITH REGISTERED APPR ENTICESHIP 27 
+PROGRAMS UNDER TITLE 11, SUBTITLE 4 OF THE LABOR AND EMPLOYMENT 28 
+ARTICLE ; 29 
+ 
+  (9) THE EXTENT T O WHICH AN APPLICANT ’S PLAN PROVIDES FOR THE 30 
+USE OF AN AGREEMENT DESIGNED TO ENSURE T HE USE OF SKILLED LA BOR AND TO 31 
+PROMOTE THE PROMPT , EFFICIENT , AND SAFE COMPLETION OF THE PROJECT , 32 
+ HOUSE BILL 1035  45 
+ 
+ PARTICULARLY WITH RE GARD TO THE CONSTRUC TION , MANUFACTURING , AND 1 
+MAINTENA NCE OF THE PROJECT ; 2 
+ 
+  (10) THE EXTENT TO WHICH AN APPLICANT ’S PLAN PROVIDES FOR 3 
+COMPENSATION TO ITS EMPLOYEES AND SUBCON TRACTORS CONSISTENT WITH 4 
+WAGES OUTLINED UNDER  TITLE 17, SUBTITLE 2 OF THE STATE FINANCE AND 5 
+PROCUREMENT ARTICLE ; 6 
+ 
+  (11) SITING AND PROJECT FEASIBILITY ; 7 
+ 
+  (12) THE EXTENT TO WHICH THE PROJECT WOULD RE QUIRE 8 
+TRANSMISSION OR DIST RIBUTION INFRASTRUCT URE IMPROVEMENTS IN THE 9 
+STATE ; AND 10 
+ 
+  (13) ANY OTHER CRITERIA T HAT THE COMMISSION DETERMINES  ARE 11 
+APPROPRIATE . 12 
+ 
+ (B) IN EVALUATING AND COM PARI NG AN APPLICATION FO R A NUCLEAR  13 
+ENERGY GENERATION PR OJECT UNDER SUBSECTI ON (A) OF THIS SECTION , THE 14 
+COMMISSION MAY CONTRA CT FOR THE SERVICES OF INDEPENDENT CONSU LTANTS  15 
+AND EXPERTS . 16 
+ 
+ (C) (1) IN THIS PARAGRAPH , “MINORITY ” MEANS AN INDIVIDUAL WHO IS 17 
+A MEMBER  OF ANY OF THE GROUPS  LISTED IN § 14–301( K)(1)( I) OF THE STATE 18 
+FINANCE AND PROCUREMENT ARTICLE . 19 
+ 
+  (2) IF AN APPLICANT IS SE EKING INVESTORS IN A  PROPOSED 20 
+NUCLEAR ENERGY GENER ATION PROJECT , THE APPLICANT SHALL TAKE THE  21 
+FOLLOWING STEPS BEFO RE THE COMMISSION MAY APPROVE THE PROP OSED 22 
+PROJECT : 23 
+ 
+   (I) MAKE SERIOUS , GOOD–FAITH EFFORTS TO SOL ICIT AND 24 
+INTERVIEW A REASONAB LE NUMBER OF MINORIT Y INVESTORS ; 25 
+ 
+   (II) AS PART OF THE APPLI CATION , SUBMIT A STATEMENT T O 26 
+THE COMMISSION THAT LISTS  THE NAMES AND ADDRES SES OF A LL MINORITY 27 
+INVESTORS INTERVIEWE D AND WHETHER OR NOT  ANY OF THOSE INVESTO RS HAVE 28 
+PURCHASED AN EQUITY SHARE IN THE ENTITY SUBMITTING THE APPLI CATION ; 29 
+ 
+   (III) SIGN A MEMORANDUM OF  UNDERSTANDING WITH T HE 30 
+COMMISSION THAT REQUI RES THE APPLICANT TO  AGAIN MAKE SERIOUS ,  31 
+GOOD–FAITH EFFORTS TO SOL ICIT AND INTERVIEW A  REASONABLE NUMBER OF  32 
+MINORITY INVESTORS I N ANY FUTURE ATTEMPT S TO RAISE VENTURE C APITAL OR 33 
+ATTRACT NEW INVESTOR S TO THE PROJECT ;  34 
+46 HOUSE BILL 1035   
+ 
+  
+   (IV) SIGN A MEMORANDUM OF  UNDERSTANDING WITH T HE 1 
+COMMISSION THAT R EQUIRES THE APPLICAN T TO USE BEST EFFORT S AND 2 
+EFFECTIVE OUTREACH T O OBTAIN , AS A GOAL , CONTRACTORS AND 3 
+SUBCONTRACTORS FOR T HE PROJECT THAT ARE MINORITY BUSINESS 4 
+ENTERPRISES , TO THE EXTENT PRACTI CABLE , AS SUPPORTED BY A DI SPARITY 5 
+STUDY ; AND 6 
+ 
+   (V) SIGN A M EMORANDUM OF UNDERST ANDING WITH THE 7 
+COMMISSION AND SKILLE D LABOR ORGANIZATION S THAT REQUIRES THE 8 
+APPLICANT TO FOLLOW THE PORTIONS OF THE APPLICANT ’S PLAN THAT RELATE T O 9 
+THE CRITERIA SET FOR TH IN SUBSECTION (A)(8) AND (9) OF THIS SECTION . 10 
+ 
+  (3) THE GOVERNO R’S OFFICE OF SMALL , MINORITY , AND WOMEN 11 
+BUSINESS AFFAIRS , IN CONSULTATION WITH  THE OFFICE OF THE ATTORNEY 12 
+GENERAL , SHALL PROVIDE ASSIST ANCE TO ALL POTENTIA L APPLICANTS AND 13 
+POTENTIAL MINORITY I NVESTORS TO SATISFY THE REQUIREMENTS UND ER 14 
+PARAGRAPH (2)(I) AND  (III) OF THIS SUBSECTION . 15 
+ 
+7–1212.  7–1216.  16 
+ 
+ (A) THE COMMISSION MAY NOT AP PROVE AN APPLICATION  FOR A NUCLEAR 17 
+ENERGY GENERATION PR OJECT SUBMITTED UNDE R § 7–1208  § 7–1212  OF THIS 18 
+SUBTITLE UNLESS : 19 
+ 
+  (1) THE PROJECT IS CONNE CTED TO THE ELECTRIC  DISTRIBUTION  20 
+SYSTEM SERVING THE STATE ; 21 
+ 
+  (2) OVER THE DURATION OF  THE PROPOSED LONG –TERM PRICING 22 
+SCHEDULE , THE PROJECTED NET RA TE IMPACT FOR AN AVE RAGE RESIDENTIAL 23 
+CUSTOMER , BASED ON ANNUAL CONS UMPTION OF 12,000  KILOWATT –HOURS AND 24 
+COMBINED WITH THE PR OJECTED NET RATE IMPACT OF OTHER NUCL EAR ENERGY 25 
+GENERATION PROJECTS , DOES NOT EXCEED AN A MOUNT DETERMINED BY THE 26 
+COMMISSION ; 27 
+ 
+  (3) OVER THE DURATION OF  THE PROPOSED LONG –TERM PRICING 28 
+SCHEDULE , THE PROJECTED NET RA TE IMPACT FOR ALL NO NRESIDENTIAL 29 
+CUSTOMERS , CONSIDERED AS A  BLENDED AVERAGE AND COMBINED WITH THE 30 
+PROJECTED NET RATE I MPACT OF OTHER NUCLE AR ENERGY GENERATION  31 
+PROJECTS , DOES NOT EXCEED A PE RCENTAGE DETERMINED BY THE COMMISSION 32 
+OF NONRESIDENTIAL CU STOMERS ’ TOTAL ANNUAL ELECTRI C BILLS ; AND 33 
+ 
+  (4) THE PRICE SPECIFIED  IN THE PROPOSED LONG –TERM PRICING 34 
+SCHEDULE DOES NOT EX CEED AN AMOUNT DETER MINED BY THE COMMISSION . 35 
+ HOUSE BILL 1035  47 
+ 
+  
+ (B) WHEN CALCULATING THE PROJECTED NET AVERAG E RATE IMPACTS 1 
+FOR NUCLEAR ENERGY G ENERATION PROJECTS U NDER THIS SECTION , THE 2 
+COMMISSION SHALL APPL Y THE SAME  NET LONG –TERM COST PER  3 
+MEGAWATT –HOUR TO RESIDENTIAL AND NONRESIDENTIAL C USTOMERS . 4 
+ 
+ (C) THE COMMISSION SHALL KEEP  CONFIDENTIAL ANY AMO UNTS 5 
+DETERMINED UNDER SUB SECTION (A) OF THIS SECTION . 6 
+ 
+7–1213.  7 
+ 
+ (A) AN APPLICATION FOR A NUCLEAR ENERGY GENER ATION PROJECT  8 
+SUBMITTED UNDER § 7–1208  OF THIS SUBTITLE IS SUBJECT TO A COMMUNI TY 9 
+BENEFIT AGREEMENT . 10 
+ 
+ (B) A COMMUNITY BENEFIT AG REEMENT SHALL : 11 
+ 
+  (1) BE APPLICABLE TO THE  DEVELOPMENT OF A NUC LEAR ENERGY  12 
+GENERATION PROJECT ; 13 
+ 
+  (2) PROMOTE INCREASED OP PORTUNITIES  FOR LOCAL BUSINESSES  14 
+AND SMALL , MINORITY , WOMEN–OWNED , AND VETERAN –OWNED BUSINESSES IN THE 15 
+RENEWABLE ENERGY IND USTRY ; 16 
+ 
+  (3) ENSURE THE TIMELY , SAFE , AND EFFICIENT COMPLE TION OF THE  17 
+PROJECT BY : 18 
+ 
+   (I) FACILITATING A STEAD Y SUPPLY OF HIGHLY S KILLED  19 
+CRAFT WORKERS WHO SHALL BE  PAID NOT LESS THAN T HE PREVAILING WAGE R ATE 20 
+DETERMINED BY THE COMMISSIONER OF LABOR AND INDUSTRY UNDER TITLE 17, 21 
+SUBTITLE 2 OF THE STATE FINANCE AND PROCUREMENT ARTICLE ; AND  22 
+ 
+   (II) GUARANTEEING THAT TH E CONSTRUCTION WORK  23 
+PERFORMED IN  CONNECTION WITH THE PROJECT WILL BE SUBJ ECT TO AN  24 
+AGREEMENT THAT : 25 
+ 
+    1. IS WITH ONE OR MORE LABOR ORGANIZATIONS ; AND  26 
+ 
+    2. ESTABLISHES , IN ACCORDANCE WITH T HIS SECTION , 27 
+THE TERMS AND CONDIT IONS OF EMPLOYMENT A T THE CONSTRUCTION S ITE OF THE  28 
+PROJECT OR A PORTION OF THE PRO JECT ; 29 
+ 
+  (4) PROMOTE SAFE COMPLET ION OF THE PROJECT B Y ENSURING  30 
+THAT AT LEAST 80%  OF THE CRAFT WORKERS  ON THE PROJECT HAVE COMPLETED  31 
+48 HOUSE BILL 1035   
+ 
+ AN OCCUPATIONAL SAFETY AND HEALTH ADMINISTRATION 10–HOUR OR 30–HOUR  1 
+COURSE ; 2 
+ 
+  (5) PROMOTE CAREER TRAIN ING OPPORTUNITIES IN  THE 3 
+MANUFACTURING , MAINTENANCE , AND CONSTRUCTION IND USTRIES FOR LOCAL  4 
+RESIDENTS , VETERANS , WOMEN , AND MINORITIES ; 5 
+ 
+  (6) PROVIDE FOR BEST EFF ORTS AND EFFECTIVE O UTREACH TO  6 
+OBTAIN , AS A GOAL , THE USE OF A WORKFOR CE INCLUDING MINORIT IES, TO THE  7 
+EXTENT PRACTICABLE ; 8 
+ 
+  (7) REFLECT A 21ST–CENTURY LABOR –MANAGEMENT APPROACH BY 9 
+DEVELOPERS AND SUPPL IERS BASED ON COOPER ATION , HARMONY , AND  10 
+PARTNERSHIP THAT PRO ACTIVELY SEEKS TO EN SURE THAT WORKERS CA N FREELY  11 
+CHOOSE TO BOTH ORGAN IZE AND COLLECTIVELY  BARGAIN ; 12 
+ 
+  (8) PROVIDE PLANS TO USE  DOMESTIC IRON , STEEL , AND  13 
+MANUFACTURED GOODS T O THE GREATEST EXTEN T PRACTICABLE BY DIS CLOSING  14 
+CONTRACTED SUPPLIERS ; 15 
+ 
+  (9) USE LOCALLY AND DOME STICALLY MANUFACTURE D 16 
+CONSTRUCTION MATERIA LS AND COMPONENTS ;  17 
+ 
+  (10) MAXIMIZE THE USE OF SKILLED LOCAL LABOR , PARTICULARLY  18 
+WITH REGARD TO THE C ONSTRUCTION AND MANU FACTURING COMPONENTS  OF THE  19 
+PROJECT , USING METHODS INCLUD ING OUTREACH , HIRING , OR REFERRAL  20 
+METHODS THAT ARE AFF ILIATED WITH REGISTE RED APPRENTICESHIP P ROGRAMS  21 
+UND ER TITLE 11, SUBTITLE 4 OF THE LABOR AND EMPLOYMENT ARTICLE ;  22 
+ 
+  (11) GUARANTEE AGAINST ST RIKES , LOCKOUTS , AND SIMILAR  23 
+DISRUPTIONS ; 24 
+ 
+  (12) ENSURE THAT ALL WORK  ON THE PROJECT FULLY  CONFORMS TO  25 
+ALL RELEVANT STATE AND FEDERAL LAW S, RULES , AND REGULATIONS ; 26 
+ 
+  (13) CREATE MUTUALLY BIND ING PROCEDURES FOR R ESOLVING  27 
+LABOR DISPUTES ARISI NG DURING THE TERM O F THE PROJECT ; 28 
+ 
+  (14) SET FORTH OTHER MECH ANISMS FOR LABOR –MANAGEMENT  29 
+COOPERATION ON MATTE RS OF MUTUAL INTERES T AND CONCERN , INCLUDING  30 
+PRODUCTIVITY , QUALITY OF  WORK , SAFETY , AND HEALTH ; AND  31 
+ 
+ HOUSE BILL 1035  49 
+ 
+   (15) BIND ALL CONTRACTORS  AND SUBCONTRACTORS T O THE TERMS  1 
+OF THE AGREEMENT THR OUGH THE INCLUSION O F APPROPRIATE PROVIS IONS IN  2 
+ALL RELEVANT SOLICIT ATION AND CONTRACT D OCUMENTS . 3 
+ 
+7–1214.  7–1217.   4 
+ 
+ (A) AN ORDER THE COMMISSIO N ISSUES APPROVING A N APPLICATION FOR 5 
+A NUCLEAR ENERGY GEN ERATION PROJECT SUBM ITTED UNDER § 7–1208  § 7–1212  6 
+OF THIS SUBTITLE SHA LL: 7 
+ 
+  (1) SPECIFY THE LONG –TERM PRICING SCHEDUL E; 8 
+ 
+  (2) SPECIFY THE DURATION  OF THE LONG –TERM PRICING SCHEDUL E, 9 
+NOT TO EXCEED 30 YEARS ; 10 
+ 
+  (3) PROVIDE THAT : 11 
+ 
+   (I) A PAYMENT MAY NOT BE  MADE UNDER A LONG –TERM 12 
+PRICING SCHEDULE UNT IL ELECTRICITY SUPPL Y IS GENERATED BY TH E PROJECT ; 13 
+AND 14 
+ 
+   (II) RATEPAYERS AND THE STATE SHALL BE HELD H ARMLESS 15 
+FOR ANY COST OVERRUN S ASSOCIATED WITH TH E PROJECT ; AND 16 
+ 
+  (4) REQUIRE THAT ANY DEB T INSTRUMENT ISSUED IN CONNECTION 17 
+WITH THE PROJECT INC LUDE LANGUAGE SPECIF YING THAT THE DEBT I NSTRUMENT 18 
+DOES NOT ESTABLISH A  DEBT , AN OBLIGATION , OR A LIABILITY OF TH E STATE . 19 
+ 
+ (B) AN ORDER APPROVING A NUCLEAR ENERG Y GENERATION PROJECT  20 
+VESTS THE OWNER OF T HE PROJECT WITH THE RIGHT TO RECEIVE PAY MENTS 21 
+ACCORDING TO THE TER MS IN THE ORDER . 22 
+ 
+ (C) ON OR BEFORE MARCH 1 EACH YEAR , THE COMMISSION SHALL REPO RT 23 
+TO THE GOVERNOR AND , IN ACCORDANCE WITH § 2–1257  OF THE STATE 24 
+GOVE RNMENT ARTICLE , THE SENATE COMMITTEE ON EDUCATION , ENERGY , AND 25 
+THE ENVIRONMENT AND THE HOUSE ECONOMIC MATTERS COMMITTEE ON : 26 
+ 
+  (1) APPLICANT COMPLIANCE  WITH THE MINORITY BU SINESS 27 
+ENTERPRISE PARTICIPA TION GOALS UNDER § 7–1211( C) § 7–1215( B) OF THIS 28 
+SUBTITLE ; AND  29 
+ 
+  (2) WITH RESPECT TO THE COMMUNITY BENEFIT AG REEMENT UNDER 30 
+§ 7–1213  § 7–1202  OF THIS SUBTITLE : 31 
+ 
+50 HOUSE BILL 1035   
+ 
+    (I) THE AVAILABILITY AND  USE OF OPPORTUNITIES  FOR LOCAL 1 
+BUSINESSES AND SMALL , MINORITY , WOMEN–OWNED , AND VETERAN –OWNED 2 
+BUSINESSES ; 3 
+ 
+   (II) THE SUCCE SS OF EFFORTS TO PRO MOTE CAREER TRAINING  4 
+OPPORTUNITIES IN THE  MANUFACTURING , MAINTENANCE , AND CONSTRUCTION 5 
+INDUSTRIES FOR LOCAL  RESIDENTS , VETERANS , WOMEN , AND MINORITIES ; AND 6 
+ 
+   (III) COMPLIANCE WITH THE MINORITY WORKFORCE G OAL 7 
+UNDER § 7–1213( B) § 7–1202  OF THIS SUBTITLE . 8 
+ 
+7–1215.  7–1218.  9 
+ 
+ (A) (1) SUBJECT TO SUBSECTION  (B) OF THIS SECTION , IF IF THE 10 
+COMMISSION APPROVES PROPOSALS THAT DEMON STRATE  AN APPLICATION THAT 11 
+DEMONSTRATES , BASED ON THE CRITERI A SPECIFIED IN § 7–1210  § 7–1214  OF THIS 12 
+SUBTITLE , POSITIVE NET ECONOMI C, IMPACTS AND  ENVIRONMENTAL , AND HEALTH 13 
+BENEFITS TO THE STATE , THE COMMISSION SHALL APPROVE ORDERS TO 14 
+FACILITATE THE FINAN CING OF NUCLEAR ENER GY GENERATION PROJECTS  ISSUE 15 
+AN ORDER IN COMPLIAN CE WITH § 7–1217  OF THIS SUBTITLE . 16 
+ 
+  (2) WHEN CALCULATING THE NET BENEFITS TO THE STATE UNDER  17 
+PARAGRAPH (1) OF THIS SUBSECTION , THE COMMISSION MAY CONTRA CT FOR THE  18 
+SERVICES OF INDEPEND ENT CONSULTANTS AND EXPERTS . 19 
+ 
+ (B) THE COMMISSION MAY NOT APPROVE  ISSUE  AN ORDER TO FACILITA TE 20 
+THE FINANCING OF A  NUCLEAR ENERGY GENER ATION PROJECT UNLESS  THE 21 
+PROJECT IS SUBJECT T O A COMMUNITY BENEFI T AGREEMENT UNDER § 7–1213  §  22 
+7–1202  OF THIS SUBTITLE . 23 
+ 
+7–1216.  7–1219.  24 
+ 
+ (A) THE FINDINGS AND EVID ENCE RELIED ON BY TH E GENERAL ASSEMBLY 25 
+FOR THE CONTINUATION  OF THE MINORITY BUSINESS ENTERPRISE PROGRAM 26 
+UNDER TITLE 14, SUBTITLE 3 OF THE STATE FINANCE AND PROCUREMENT 27 
+ARTICLE ARE INCORPORA TED IN THIS SECTION . 28 
+ 
+ (B) TO THE EXTENT PRACTIC ABLE AND AUTHORIZED BY THE UNITED 29 
+STATES CONSTITUTION , AN APPLICANT APPROVE D FOR A NUCLEAR  ENERGY 30 
+GENERATION PROJECT U NDER § 7–1209  § 7–1213  OF THIS SUBTITLE SHA LL COMPLY 31 
+WITH THE STATE’S MINORITY BUSINESS ENTERPRISE PROGRAM . 32 
+ 
+ (C) (1) WITHIN 6 MONTHS AFTER THE ISS UANCE OF AN ORDER TH AT 33 
+APPROVES A NUCLEAR E NERGY GENERATION PRO JECT AND INCLUDES A  34 
+ HOUSE BILL 1035  51 
+ 
+ LONG–TERM PRICING COMPONE NT, THE GOVERNOR ’S OFFICE OF SMALL , 1 
+MINORITY , AND WOMEN BUSINESS AFFAIRS , IN CONSULTATION WITH  THE OFFICE 2 
+OF THE ATTORNEY GENERAL AND THE APPRO VED APPLICANT , SHALL ESTABLISH A 3 
+CLEAR PLAN FOR SETTI NG REASONABLE AND AP PROPRIATE MI NORITY BUSINESS 4 
+ENTERPRISE PARTICIPA TION GOALS AND PROCE DURES FOR EACH PHASE  OF THE 5 
+NUCLEAR ENERGY GENER ATION PROJECT . 6 
+ 
+  (2) TO THE EXTENT PRACTIC ABLE , THE GOALS AND PROCED URES SET 7 
+IN ACCORDANCE WITH P ARAGRAPH (1) OF THIS SUBSECTION S HALL BE BASED ON 8 
+THE REQUIREMENTS OF TITLE 14, SUBTITLE 3 OF THE STATE FINANCE AND 9 
+PROCUREMENT ARTICLE AND THE REGUL ATIONS IMPLEMENTING THAT SUBTITLE . 10 
+ 
+  (3) EVERY 6 MONTHS FOLLOWING THE  ISSUANCE OF AN ORDER  THAT 11 
+APPROVES A NUCLEAR E NERGY GENERATION PRO JECT AND INCLUDES A  12 
+LON G–TERM PRICING COMPONE NT, THE APPROVED APPLICA NT SHALL SUBMIT A 13 
+REPORT ON THE PROGRE SS MADE TO ESTABLISH  AND IMPLEMENT MINORI TY 14 
+BUSINESS ENTERPRISE GOALS AND PROCEDURES  TO THE COMMISSION . 15 
+ 
+7–1217.  7–1220.  16 
+ 
+ (A) IN THIS SECTION , “ZERO–EMISSION CREDIT ” MEANS  THE DIFFERENCE 17 
+BETWEEN THE PRICE TH AT A NUCLEAR ENERGY GENERATING STATION W ITH A 18 
+LONG–TERM PRICING SCHEDUL E APPROVED IN AN ORD ER ISSUED UNDER § 7–1217  19 
+OF THIS SUBTITLE MAY  RECEIVE ON THE WHOLE SALE MARKET AND THE COST OF 20 
+CONSTRUCTING THE NUC LEAR ENERGY GEN ERATING STATION . 21 
+ 
+ (B) THE COMMISSION SHALL ADOP T REGULATIONS THAT : 22 
+ 
+  (1) ESTABLISH THE NUCLEA R ENERGY LONG –TERM PRICING 23 
+PURCHASE OBLIGATION SUFFICIENTLY IN ADVA NCE TO ALLOW AN ELEC TRIC  24 
+COMPANY TO REFLECT N UCLEAR ENERGY LONG –TERM PRICING COSTS A S A 25 
+NONBYP ASSABLE SURCHARGE PAID BY ALL DISTRIBU TION CUSTOMERS OF TH E 26 
+ELECTRIC COMPANY  THAT IS ADDED TO THE  ELECTRIC COMPANY ’S BASE 27 
+DISTRIBUTION RATE ON  CUSTOMER BILLS ;  28 
+ 
+  (2) ESTABLISH A NONBYPAS SABLE SURCHARGE THAT  ALLOWS AN  29 
+ELECTRIC COMPANY TO RECOVER ALL COSTS ASSOCIATED WITH THE PURCHASE OF  30 
+NUCLEAR ENERGY FROM ALL DISTRIBUTION CUS TOMERS OF THE ELECTR IC 31 
+COMPANY ;  32 
+ 
+  (3) ESTABLISH AN ESCROW ACCOUNT THAT IS UNDE R COMMISSION  33 
+SUPERVISION ; AND  34 
+ 
+52 HOUSE BILL 1035   
+ 
+   (4) DEFINE RULES THAT FA CILITATE AND ENSURE THE SECURE AND 1 
+TRANSPARENT  TRANSFER OF REVENUES  AND LONG –TERM PRICING PAYMENT S 2 
+AMONG PARTIES ; 3 
+ 
+  (3) DEFINE THE TERMS AND  PROCEDURES OF THE NU CLEAR ENERGY 4 
+LONG–TERM PRICING SCHEDUL E OBLIGATIONS , INCLUDING : 5 
+ 
+   (I) ESTABLISHING A FORMU LA AND PROCESS TO AD JUST THE 6 
+VALUE OF THE LONG –TERM PRICING SCHEDULE  EVERY 2 YEARS BASED ON 7 
+PROJECTED WHOLESALE MARKET PRICES ADJUST ED BY THE LOCATIONAL  VALUE 8 
+AND EARNING POTENTIA L IN THE PJM  REGION OF THE NUCLEA R ENERGY 9 
+GENERATING STATION ; AND 10 
+ 
+   (II) ESTABLISHING A PER M EGAWATT HOUR CAP ON ANY  11 
+LONG–TERM PRICING SCHEDUL E SPECIFIED IN AN OR DER ISSUED UNDER § 7–1217  12 
+OF THIS SUBTITLE ; 13 
+ 
+  (4) REQUIRE THE COMMISSION TO ESTABLI SH AN ESCROW ACCOUNT ; 14 
+AND 15 
+ 
+  (5) TO MEET THE TOTAL ST ATEWIDE LONG –TERM PRICING PURCHAS E 16 
+OBLIGATION FOR ALL A PPLICATIONS APPROVE D IN AN ORDER ISSUED  UNDER §  17 
+7–1217  OF THIS SUBTITLE , REQUIRE THE COMMISSION TO ANNUALL Y ESTABLISH 18 
+EACH ELECTRIC COMPAN Y’S ZERO–EMISSION CREDIT PURC HASE OBLIGATION 19 
+BASED ON THE MOST RE CENT FINAL ELECTRICI TY SALES DATA AS REP ORTED BY 20 
+PJM  INTERCONNECTION AN D MEASURED AT THE CU STOMER ’S METER IN 21 
+PROPORTION TO THE EL ECTRIC COMPANY ’S SHARE OF STATEWIDE  LOAD . 22 
+ 
+ (B) (C) (1) EACH ELECTRIC COMPANY  SHALL PROCURE FROM T HE 23 
+ESCROW ACCOUNT ESTAB LISHED BY REGULATION  UNDER THIS SECTION A  VOLUME  24 
+QUANTITY  OF NUCLEAR ENERGY  ZERO–EMISSION CREDITS  EQUAL TO THE ELECTRI C 25 
+COMPANY ’S RESPECTIVE PERCENT AGE OF RETAIL ELECTR IC SALES EACH YEAR . 26 
+ 
+  (2) (I) SUBJECT TO ANY ESCROW  ACCOUNT RESERVE 27 
+REQUIREMENT THE COMMISSION ESTABLISHE S, IF THERE IS ARE INSUFFICIENT 28 
+NUCLEAR ENERGY  ZERO–EMISSIO N CREDITS  AVAILABLE TO SATISFY  THE ELECTRIC 29 
+COMPANIES ’ NUCLEAR  ENERGY OBLIGATION  ZERO–EMISSION CREDIT PURC HASE 30 
+OBLIGATIONS , THE OVERPAYMENT SHAL L BE DISTRIBUTED TO ELECTRIC 31 
+COMPANIES TO BE REFU NDED OR CREDITED TO EACH DISTRIBUTION CU STOMER 32 
+BASED ON THE CUS TOMER’S CONSUMPTION OF ELE CTRICITY SUPPLY THAT  IS 33 
+SUBJECT TO THE RENEW ABLE ENERGY PORTFOLI O STANDARD . 34 
+ 
+   (II) SUBJECT TO ANY ESCROW  ACCOUNT RESERVE  35 
+REQUIREMENT THE COMMISSION ESTABLISHE S, THE CALCULATION OF A N 36 
+ HOUSE BILL 1035  53 
+ 
+ ELECTRIC COMPANY ’S NUCLEAR ENERGY PUR CHASE OB LIGATION SHALL BE BA SED 1 
+ON FINAL ELECTRICITY  SALES DATA AS REPORT ED BY PJM  INTERCONNECTION AND  2 
+MEASURED AT THE CUST OMER METER . 3 
+ 
+  (3) FOR EACH LONG –TERM PRICING SCHEDUL E FOR WHICH A  4 
+NUCLEAR ENERGY GENER ATION PROJECT RECEIV ES PAYMENT , THE PROJECT  5 
+SHALL : 6 
+ 
+   (I) SELL ALL ENERGY , CAPACITY , AND ANCILLARY SERVIC ES 7 
+ASSOCIATED WITH THE CREATION OF THE LONG –TERM PRICING INTO TH E MARKETS  8 
+OPERATED BY PJM  INTERCONNECTION ; AND  9 
+ 
+   (II) DISTRIBUTE THE PROCE EDS RECEIVED FROM TH E SALES  10 
+UNDER ITEM (I) OF THIS PARAGRAPH TO  ELECTRIC COMPANIES T O BE REFUNDED  11 
+OR CREDITED TO EACH DISTRIBUTION CUSTOME R BASED ON THE CUSTO MER’S 12 
+CONSUMPTION OF ELECT RICITY SUPPLY THAT I S SUBJECT TO THE REN EWABLE  13 
+ENERGY PORTFOLIO STA NDARD . 14 
+ 
+ (C) (D) A DEBT , AN OBLIGATION , OR A LIABILITY OF A NUCLEAR E NERGY 15 
+GENERATION PROJECT O R OF AN OWNER OR OPE RATOR OF A NUCLEAR E NERGY 16 
+GENERATION PROJECT M AY NOT BE CONSIDERED  A DEBT , AN OBLIGATION , OR A 17 
+LIABILITY OF THE STATE . 18 
+ 
+7–1218.  7–1221.  19 
+ 
+ ON OR BEFORE JULY 1, 2027,  THE COMMISSION SHALL ADOP T REGULATIONS 20 
+TO CARRY OUT THIS PART . 21 
+ 
+7–1222.  RESERVED . 22 
+ 
+7–1223.  RESERVED . 23 
+ 
+PART IV. TRANSMISSION ENERGY STORAGE DEVICES . 24 
+ 
+7–1224.  25 
+ 
+ (A) THE COMMISSION SHALL , BY REGULATION OR ORD ER, ESTABLISH A 26 
+COMPETITIVE PROCESS FOR THE PROCUREMENT OF PROJECTS FOR THE 27 
+CONSTRUCTION AND DEPLOYMENT OF FRONT –OF–THE–METER TRANSMISSION 28 
+ENERGY STORAGE DEVIC ES IN THE STATE . 29 
+ 
+ (B) (1) (I) ON OR BEFORE JANUARY 1, 2026,  THE COMMISSION SHALL 30 
+ISSUE A PROCUREMENT SOLICITATION FOR APP LICATIONS FOR PROJEC TS FOR THE 31 
+54 HOUSE BILL 1035   
+ 
+ CONSTRUCTION AND DEP LOYMENT OF FRONT–OF–THE–METER TRANSMISSION 1 
+ENERGY STORAGE DEVIC ES. 2 
+ 
+   (II) THE PROCUREMENT SOLIC ITATION SHALL BE FOR  A 3 
+MAXIMUM OF 800 MEGAWATTS OF CUMULAT IVE ENERGY STORAGE C APACITY , AS 4 
+MEASURED IN EFFECTIV E NAMEPLATE CAPACITY . 5 
+ 
+  (2) ON OR BEFORE OCTOBER 1, 2026,  THE COMMISSION SHALL ISSU E 6 
+A DECISION ON WHETHE R TO APPROVE ONE OR MORE PROPOSALS IN AC CORDANCE 7 
+WITH § 7–1226 (C) OF THIS SUBTITLE . 8 
+ 
+  (3) (I) EXCEPT AS PROVIDED IN  SUBPARAGRAPH (II) OF THIS 9 
+PARAGRAPH , THE TRANSMISSION ENE RGY STORAGE DEVICES PROCURED IN 10 
+ACCO RDANCE WITH THIS SUB SECTION SHALL BE OPE RATIONAL WITHIN 24 MONTHS 11 
+AFTER A PROJECT IS S ELECTED BY THE COMMISSION . 12 
+ 
+   (II) THE COMMISSION MAY EXTEND  THE OPERATING DEADLI NE 13 
+UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH FO R GOOD CAUSE SHOWN . 14 
+ 
+ (C) (1) ON OR BEFORE  JANUARY 1, 2027,  THE COMMISSION SHALL ISSU E 15 
+A SECOND PROCUREMENT  SOLICITATION FOR THE  PROCUREMENT OF PROJE CTS 16 
+FOR THE CONSTRUCTION  AND DEPLOYMENT OF FR ONT–OF–THE–METER 17 
+TRANSMISSION ENERGY STORAGE DEVICES . 18 
+ 
+  (2) THE PROCUREMENT SOLIC ITATION SHALL BE FOR  A MAXIMUM OF 19 
+800 MEGAWATTS OF CUMULAT IVE ENERGY STORAGE C APACITY , AS MEASURED IN 20 
+EFFECTIVE NAMEPLATE CAPACITY . 21 
+ 
+  (3) ON OR BEFORE OCTOBER 1, 2027,  THE COMMISSION SHALL ISSU E 22 
+A DECISION ON WHETHE R TO APPROVE ONE OR MORE PROPOSALS IN AC CORDANCE 23 
+WITH § 7–1226 (C) OF THIS SUBTITLE . 24 
+ 
+  (4) (I) EXCEPT AS PROVIDED IN  SUBPARAGRAPH (II) OF THIS 25 
+PARAGRAPH , THE TRANSMISSION ENE RGY STORAGE DEVICES PROCURED IN 26 
+ACCORDANCE WITH THIS  SUBSECTION SHALL BE OPERATIONAL WITHIN 24 MONTHS 27 
+AFTER A PROJECT IS S ELECTED BY THE COMMISS ION. 28 
+ 
+   (II) THE COMMISSION MAY EXTEND  THE OPERATING DEADLI NE 29 
+UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH FO R GOOD CAUSE SHOWN . 30 
+ 
+7–1225.  31 
+ 
+ HOUSE BILL 1035  55 
+ 
+  (A) THE COMMISSION SHALL INCL UDE SPECIFICATIONS I N A 1 
+PROCUREMENT SOLICITA TION ISSUED UNDER § 7–1224  OF THIS SUBTITLE TH AT 2 
+REQUIRE EACH PROPOSA L TO: 3 
+ 
+  (1) INCLUDE A PROPOSED P RICING SCHEDULE FOR THE 4 
+TRANSMISSION ENERGY STORAGE PROJECT THAT : 5 
+ 
+   (I) IS FOR AT LEAST 15 YEARS ; AND  6 
+ 
+   (II) REPRESENTS THE ANTIC IPATED MONTHLY WHOLE SALE 7 
+VALUE OF CAPACITY PE R MEGAWATT AND OTHER  BENEFITS IDENTIFIED I N A  8 
+COST–BENEFIT ANALYSIS , BUT NOT INCLUDING AN Y ANTICIPATED WHOLES ALE 9 
+ENERGY AND ANCILLARY  SERVICES REVENUE ;  10 
+ 
+  (2) INCLUDE A COST –BENEFIT ANALYSIS OF THE PROJECT AND 11 
+PROPOSED PRICING SCH EDULE COMPARISON ON A DOLLAR –PER–MEGAWATT –HOUR  12 
+BASIS , INCLUDING AN ANALYSI S OF: 13 
+ 
+   (I) THE LOCATIONAL VALUE  AND TIME TO DEPLOYME NT OF 14 
+THE ENERGY STORAGE D EVICES ; 15 
+ 
+   (II) THE VALUE OF LONG –DURATION STORAGE , INCLUDING ITS 16 
+CAPACITY ACCREDITATI ON VALUE FOR RESOURC E ADEQUACY AS MEASUR ED IN 17 
+PJM  INTERCONNECTION ’S EFFECTIVE LOAD CAR RYING CAPABILITY CLA SS 18 
+RATINGS ; 19 
+ 
+   (III) AVOIDED OR DELAYED T RANSMISSION , GENERATION , AND 20 
+DISTRIBUTION COSTS ; 21 
+ 
+   (IV) AVOIDED EMISSIONS IN  THE SHORT TERM AND P ROJECTED 22 
+AVOIDED EMISSIONS IN  THE LONG TERM , MEASURED USING  THE SOCIAL COST OF 23 
+CARBON , AS DETERMINED BY THE  U.S.  ENVIRONMENTAL PROTECTION AGENCY AS 24 
+OF JANUARY 1, 2025;  25 
+ 
+   (V) THE VALUE OF THE RAP ID DEPLOYMENT OF ENE RGY 26 
+STORAGE DEVICES ;  27 
+ 
+   (VI) THE VALUE OF RELIABI LITY DURING PERIODS OF ELECTRIC 28 
+SYSTEM STRESS , INCLUDING THE ABILIT Y TO DELIVER CAPACIT Y DURING PERIODS 29 
+OF EXTREME WEATHER , FUEL SCARCITY , AND LARGE UNPLANNED RESOURCE 30 
+OUTAGES ; AND  31 
+ 
+   (VII) ANY OTHER AVOIDED CO STS; 32 
+ 
+56 HOUSE BILL 1035   
+ 
+   (3) ENSURE THAT T HE OWNER OR OPERATOR  OF THE PROJECT HAS 1 
+THE CAPABILITY TO EX PORT ELECTRICITY FOR  SALE ON THE WHOLESAL E MARKET 2 
+AND BID INTO THE PJM  CAPACITY MARKET UNDE R AN AGREEMENT WITH PJM  3 
+INTERCONNECTION ; 4 
+ 
+  (4) ENSURE THAT THE ENER GY STORAGE DEVICES C AN DELIVER 5 
+THEIR EFFECTIVE NAMEPLATE CAPACITY ; 6 
+ 
+  (5) INCORPORATE A COMMUN ITY BENEFIT AGREEMEN T; 7 
+ 
+  (6) ATTEST IN WRITING TH AT ALL CONTRACTORS A ND 8 
+SUBCONTRACTORS WORKI NG ON THE PROJECT HA VE BEEN IN COMPLIANC E WITH 9 
+FEDERAL AND STATE WAGE AND HOUR L AWS FOR THE IMMEDIAT ELY PR ECEDING 3 10 
+YEARS OR THE DURATIO N OF THE CONTRACTOR ’S OR SUBCONTRACTOR ’S BUSINESS 11 
+OPERATION , WHICHEVER IS LONGER ; AND  12 
+ 
+  (7) ENSURE A COMPETITIVE  BIDDING PROCESS , INCLUDING BY 13 
+REDACTING PROPRIETAR Y INFORMATION PROVID ED TO THE COMMISSION . 14 
+ 
+ (B) AN ENERGY STOR AGE DEVICE SHALL BE CONSIDERED CAPABLE O F 15 
+DELIVERING ITS EFFEC TIVE NAMEPLATE CAPAC ITY UNDER THIS SECTI ON IF : 16 
+ 
+  (1) THE ENERGY STORAGE D EVICE WILL HAVE THE CAPACITY 17 
+INTERCONNECTION RIGH TS WITH PJM  INTERCONNECTION EQUAL  TO ITS 18 
+EFFECTIVE NAMEPLATE CAPACITY ; OR 19 
+ 
+  (2) (I) THE ENERGY STORAGE D EVICE WILL HAVE SURP LUS 20 
+INTERCONNECTION SERV ICE WITH PJM  INTERCONNECTION ; AND  21 
+ 
+   (II) THE ABILITY OF THE E NERGY STORAGE DEVICE  TO DELIVER 22 
+ITS EFFECTIVE NAMEPL ATE CAPACITY WILL BE  LIMITED ONLY BY THE GENERATION 23 
+OF ANOTHER NONENERGY STORAGE GE NERATION RESOURCE WI TH WHICH THE 24 
+ENERGY STORAGE DEVIC E SHARES A POINT OF INTERCONNECTION TO T HE 25 
+ELECTRIC TRANSMISSIO N SYSTEM . 26 
+ 
+ (C) FRONT–OF–THE–METER TRANSMISSION E NERGY STORAGE DEVICE S 27 
+PAIRED WITH TIER 1 OR TIER 2 RENEWABLE SOURCES , AS DEFINED UNDER § 7–701 28 
+OF THIS TITLE , MAY BE INCLUDED IN A  PROPOSAL IN RESPONSE  TO A PROCUREMENT 29 
+SOLICITATION UNDER § 7–1224  OF THIS SUBTITLE . 30 
+ 
+7–1226.  31 
+ 
+ (A) IN SELECTING A PROPOS AL FOR A FRONT –OF–THE–METER 32 
+TRANSMISSION ENERGY STORAGE DEVICE PROJE CT, THE COMMISSION : 33 
+ HOUSE BILL 1035  57 
+ 
+  
+  (1) SHALL SPECIFY :  1 
+ 
+   (I) A 15–YEAR PRICING SCHEDUL E THAT USES A MONTHL Y 2 
+FIXED PRICE FOR EACH  MEGAWATT THAT REPRES ENTS THE ANTICIPATED  3 
+WHOLESALE VALUE OF C APACITY FOR THE FRON T–OF–THE–METER TRANSMISSION 4 
+ENERGY STORAGE DEVIC E AND THE BENEFI TS IDENTIFIED IN § 7–1225( A)(2) OF 5 
+THIS SUBTITLE ; 6 
+ 
+   (II) THAT EACH ELECTRICIT Y SUPPLIER SHALL BE 7 
+RESPONSIBLE FOR PURC HASING STORAGE CAPAC ITY CREDITS AT THE M ONTHLY 8 
+FIXED PRICE SCHEDULE  PROPORTIONAL TO THE ELECTRICITY SUPPLIER ’S 9 
+CAPACITY OBLIGATION ; 10 
+ 
+   (III) THAT ALL PJM  CAPACITY MARKET REVE NUE EARNED BY 11 
+THE ENERGY STORAGE P ROJECT BE TRANSMITTE D TO THE COMMISSION TO BE 12 
+HELD IN ESCROW FOR D ISTRIBUTION TO ELECT RIC COMPANIES TO BE REFUNDED 13 
+OR CREDITED TO EACH DISTRIBUTION CUSTOME R PROPORTIONAL TO TH E 14 
+ELECTR ICITY SUPPLIER ’S MONTHLY CAPACITY P URCHASE OBLIGATION ; 15 
+ 
+   (IV) THAT THE ENERGY STOR AGE PROJECT SHALL RE TAIN ANY 16 
+ENERGY AND ANCILLARY  SERVICES REVENUE EAR NED; 17 
+ 
+   (V) THAT ELECTRIC COMPAN IES MUST JOINTLY SEL ECT AN 18 
+ESCROW ADMINISTRATOR , IN CONSULTATION WITH  THE COMMISSION ; AND  19 
+ 
+   (VI) FOR ANY COST RECOVER Y BY AN ELECTRIC COM PANY , THAT 20 
+THE RECOVERY SHALL B E DONE THROUGH A NON BYPASSABLE SURCHARGE  21 
+ESTABLISHED BY THE E LECTRIC COMPANY THAT  IS ADDED TO THE ELEC TRIC 22 
+COMPANY ’S BASE DISTRIBUTION RATE OR SUPPLY RATE ON CUSTOMER BILLS ; 23 
+ 
+  (2) SHALL SPECIFY THAT F OR CONTINUED RECEIPT  OF PAYMENT 24 
+UNDER ITEM (1) OF THIS SUBSECTION , AN APPLICANT SHALL D EMONSTRATE , TO 25 
+THE SATISFACTION OF THE COMMISSION , THAT THE APPLICANT ’S ENERGY STORAGE 26 
+DEVICE IS AVAILABLE ; 27 
+ 
+  (3) SHALL IN CORPORATE PENALTIES FOR NONPERFORMANCE A ND 28 
+UNDERPERFORMANCE IN THE CONTRACT , INCLUDING WITHHOLDIN G OF PAYMENT 29 
+THAT REFLECTS THE DE GREE OF UNDERPERFORM ANCE , FOR ENERGY STORAGE 30 
+DEVICES THAT FAIL TO  MEET AVAILABILITY ME TRICS ; 31 
+ 
+  (4) MAY TERMINATE ENERGY  STORA GE DEVICES FROM THE PROGRAM 32 
+IF DEVICE PERFORMANC E DOES NOT IMPROVE A FTER APPROPRIATE NOT ICE AND 33 
+OPPORTUNITY TO CURE ;  34 
+58 HOUSE BILL 1035   
+ 
+  
+  (5) SHALL CONSIDER OTHER  NONPRICE FACTORS TO ENSURE 1 
+PROJECT DELIVERABILI TY WITHIN 24 MONTHS AFTER THE AWA RD DATE , SUCH AS : 2 
+ 
+   (I) PROJ ECT MATURITY DATES ; 3 
+ 
+   (II) INTERCONNECTION QUEU E STATUS ; 4 
+ 
+   (III) SITE CONTROL ;  5 
+ 
+   (IV) DEVELOPER EXPERIENCE , INCLUDING PROCURING , 6 
+CONSTRUCTING , AND OPERATING FRONT –OF–THE–METER TRANSMISSION E NERGY 7 
+STORAGE DEVICES ; 8 
+ 
+   (V) ANY EVIDENCE OF KEY DEVELOPMENT MILESTON ES TO 9 
+SUBSTANTIATE PROJECT  DELIVERABILITY WITHI N 24 MONTHS AFTER THE AWA RD 10 
+DATE ; 11 
+ 
+   (VI) SAFETY PLANS ; AND  12 
+ 
+   (VII) ANY OTHER RELEVANT N ONPRICE FACTORS AS 13 
+DETERMINED BY THE COMMISSION ; AND  14 
+ 
+  (6) SHALL REQUIRE , AT A MINIMUM , ALL ENERG Y STORAGE DEVICES 15 
+THAT UTILIZE LITHIUM –ION BATTERIES TO COM PLY WITH THE MOST UP –TO–DATE 16 
+REVISION OF THE NATIONAL FIRE PROTECTION ASSOCIATION 855:  STANDARD FOR 17 
+THE INSTALLATION OF STATIONARY ENERGY STORAGE SYSTEMS IN EFFECT AT THE 18 
+PROJECT ’S FINAL PERMIT APP LICATION DATE . 19 
+ 
+ (B) (1) EACH ENERGY STORAGE P ROJECT SHALL INCLUDE  A PROPOSED 20 
+DECOMMISSIONING PLAN . 21 
+ 
+  (2) THE PROPOSED DECOMMIS SIONING PLAN SHALL I NCLUDE A PLAN 22 
+TO MAXIMIZE THE RECY CLING OR REUSE OF AL L QUALIFYING COMPONE NTS OF 23 
+EACH ENERGY STORAGE DEVICE . 24 
+ 
+  (3) THE OWNER OR OPERATOR  OF AN ENERGY STORAGE  DEVICE MAY 25 
+SUBMIT A REVISED REC YCLING AND REUSE PLA N THAT INCORPORATES EMERGING 26 
+RECYCLING AND REUSE OPPORTUNITIES UP TO 1 YEAR BEFORE EXECUTIN G THE 27 
+DECOMMISSIONING PLAN . 28 
+ 
+ (C) THE COMMISSION SHALL : 29 
+ 
+ HOUSE BILL 1035  59 
+ 
+   (1) AFTER GIVING PUBLIC NOTICE , HOLD ONE OR MORE PUB LIC 1 
+HEARINGS TO RECEIVE PUBLIC COMMENT AND E VALUATE THE PROPOSAL S; AND  2 
+ 
+  (2) SUBJECT TO SUBSECTIO N (D) OF THIS SECTION , ISSUE ONE OR 3 
+MORE ORDERS TO SELEC T A PROPOSAL OR PROP OSALS FOR DEVELOPMEN T. 4 
+ 
+ (D) THE COMMISSION MAY END TH E SOLICITATION PROCE SS WITHOUT 5 
+SELECTING A PROPOSAL  IF THE COMMISSION FINDS THAT  NONE OF THE PROPOSAL S 6 
+ADEQUATELY SUPPORT T HE GOALS ESTABLISHED  UNDER THIS SUBTITLE , 7 
+INCLUDING THE GOAL O F SECURING AFFORDABL E, RELIABLE ELECTRICAL SERVICE  8 
+FOR MARYLAND RESIDENTS . 9 
+ 
+7–1227.  10 
+ 
+ (A) FOR ANY PROPOSAL SELE CTED UNDER THIS PART , THE COMMISSION 11 
+MAY ADOPT CONDITIONS  FOR THE CONSTRUCTION  AND OPERATION OF FAC ILITIES 12 
+INCLUDED IN THE PROP OSAL . 13 
+ 
+ (B) AN ORDER SELECTING A PROPOSAL UNDER § 7–1226  OF THIS SUB TITLE 14 
+BESTOWS THE SAME RIG HTS TO THE SELECTED PROPOSAL THAT A GENE RATING 15 
+SYSTEM WOULD OTHERWI SE BE GRANTED THROUG H A CERTIFICATE OF P UBLIC 16 
+CONVENIENCE AND NECE SSITY UNDER § 7–207 OF THIS TITLE IF THE  SELECTED 17 
+PROPOSAL IS REVIEWED  UNDER AN ALTERNATIVE  PROCE SS AS DETERMINED BY THE 18 
+COMMISSION . 19 
+ 
+7–1228.  20 
+ 
+ ANY TRANSMISSION ENER GY STORAGE DEVICE BU ILT IN ACCORDANCE WI TH 21 
+THIS SUBTITLE SHALL COUNT TOWARD THE ENE RGY STORAGE DEVICE 22 
+DEPLOYMENT GOALS UND ER § 7–216.1 OF THIS TITLE . 23 
+ 
+7–1229.  24 
+ 
+ ON OR BEFORE DECEMBER 31, 2026,  THE COMMISSION SHALL REPO RT, IN 25 
+ACCORDANCE WITH § 2–1257  OF THE STATE GOVERNMENT ARTICLE , TO THE 26 
+GENERAL ASSEMBLY ON THE EFFEC TIVENESS OF THE PROC UREMENT PROCESS 27 
+ESTABLISHED UNDER TH IS PART . 28 
+ 
+Article – State Finance and Procurement  29 
+ 
+13–102. 30 
+ 
+ (a) The following procurement methods are authorized at the procurement 31 
+officer’s discretion, where applicable:  32 
+ 
+60 HOUSE BILL 1035   
+ 
+   (1) competitive sealed bids under § 13 –103 of this subtitle;  1 
+ 
+  (2) competitive sealed proposals under § 13 –104 or § 13 –105 of this 2 
+subtitle;  3 
+ 
+  (3) noncompetitive negotiation under § 13 –106 of this subtitle;  4 
+ 
+  (4) sole source procurement under § 13 –107 of this subtitle;  5 
+ 
+  (5) emergency or expedited procurement under § 13 –108 of this subtitle;  6 
+ 
+  (6) small procurement under § 13 –109 of this subtitle;  7 
+ 
+  (7) an intergovernmental cooperative purchasing agreement under §  8 
+13–110 of this subtitle;  9 
+ 
+  (8) auction bids under § 13 –111 of this subtitle;  10 
+ 
+  (9) architectural, engineering, and land surveying services qualification 11 
+based selection under § 13 –112 of this subtitle;  12 
+ 
+  (10) master contracting under § 13 –113 of this subtitle; [or] 13 
+ 
+  (11) pay–for–success contracting under § 13 –112.1 of this subtitle ; OR 14 
+ 
+  (12)  LEGISLATIVE FAST –TRACK PROCUREMENTS U NDER § 13–117 OF 15 
+THIS SUBTITLE . 16 
+ 
+13–117.  17 
+ 
+ (A) IT IS THE INTENT OF THE GENERAL ASSEMBLY TO : 18 
+ 
+  (1) RECOGNIZE THE NEED F OR STATE AGENCIES TO BE RESPONSIVE 19 
+TO THE REQUESTS AND LEGISLATIVE DIRECTIV ES OF THE GENERAL ASSEMBLY ; 20 
+ 
+  (2) REDUCE THE TIME IT T AKES FOR STATE AGENCIES TO PRO CURE 21 
+CONSULTANTS TO ASSIS T WIT H LEGISLATIVE MANDAT ES THAT HAVE DEADLIN ES 22 
+SPECIFIED IN LAW ; AND  23 
+ 
+  (3) BE TIMELY IN ADDRESS ING CLIMATE CHANGE , ENVIRONMENTAL , 24 
+ENERGY , AND GREENHOUSE GAS E MISSIONS RELATED ISS UES. 25 
+ 
+ (B) THIS SECTION APPLIES ONLY TO THE PROCUREM ENT OF CONSULTANTS 26 
+THAT : 27 
+ 
+ HOUSE BILL 1035  61 
+ 
+   (1) ARE LEGISLATIVELY MA NDATED WITH SPECIFIC  TIME FRAMES 1 
+ESTABLISHED IN LAW ; AND  2 
+ 
+  (2) WILL ADDRESS ISSUES RELATED ONLY TO CLIM ATE CHANGE , THE 3 
+ENVIRONMENT , ENERGY , AND GREENHOUSE GAS E MISSIONS . 4 
+ 
+ (C) THE FOLLOWING UNITS A RE AUTHORIZED TO ISS UE COMPETITIVE  5 
+SEALED BIDS HIGHER T HAN THEIR DESIGNATED  SMALL PROCUREMENT 6 
+DELEGATION AUTHORITI ES: 7 
+ 
+  (1) THE PUBLIC SERVICE COMMISSION ; 8 
+ 
+  (2) THE OFFICE OF PEOPLE’S COUNSEL ; 9 
+ 
+  (3) THE MARYLAND ENERGY ADMINISTRATION ; 10 
+ 
+  (4) THE DEPARTMENT OF THE ENVIRONMENT ; AND  11 
+ 
+  (5) THE DEPARTMENT OF NATURAL RESOURCES . 12 
+ 
+ (D) BEFORE AWARDING A PRO CUREMENT CONTRACT UN DER THIS SECTION , 13 
+THE PROCUREMENT OFFI CER SHALL OBTAIN THE  APPROVAL OF : 14 
+ 
+  (1) THE HEAD OF THE UNIT ; AND  15 
+ 
+  (2) THE CHIEF PROCUREMENT OFFICER , OR THEIR DESIGNEE . 16 
+ 
+ (E) (1) THE CHIEF PROCUREMENT OFFICER , OR THEIR DESIGNEE , 17 
+SHALL APPROVE A PROC UREMENT CONTRACT SUB MITTED UNDER THIS SE CTION IF 18 
+IT COMPLIES WITH THE  REQUIREMENTS OF THIS  SECTION . 19 
+ 
+  (2) IF THE CHIEF PROCUREMENT OFFICER , OR THEIR DESIGNEE , 20 
+DOES NOT APPROVE A P ROCUR EMENT CONTRACT SUBMI TTED UNDER THIS SECT ION 21 
+WITHIN 5 BUSINESS DAYS AFTER RECEIVING THE CONTRA CT, THE CONTRACT SHALL 22 
+BE CONSIDERED APPROV ED. 23 
+ 
+Article – State Government  24 
+ 
+9–20B–05. 25 
+ 
+ (a) There is a Maryland Strategic Energy Investment Fund.  26 
+ 
+ (e) The Fund co nsists of:  27 
+ 
+62 HOUSE BILL 1035   
+ 
+   (1) all of the proceeds from the sale of allowances under § 2 –1002(g) of the 1 
+Environment Article;  2 
+ 
+  (2) money appropriated in the State budget to the Program;  3 
+ 
+  (3) repayments and prepayments of principal and interest on loans made 4 
+from the  Fund;  5 
+ 
+  (4) interest and investment earnings on the Fund;  6 
+ 
+  (5) compliance fees paid under § 7 –705 of the Public Utilities Article;  7 
+ 
+  (6) money received from any public or private source for the benefit of the 8 
+Fund;  9 
+ 
+  (7) money transferred from the Pu blic Service Commission under [§  10 
+7–207.2(c)(3) ] § 7–207.2( D)(3) of the Public Utilities Article; and  11 
+ 
+  (8) money distributed under § 2 –614.1 of the Tax – General Article.  12 
+ 
+ (i) (1) Except as provided in [paragraph ] PARAGRAPHS  (2) AND (3) of this 13 
+subsection, compliance fees paid under § 7 –705(b) of the Public Utilities Article may be 14 
+used only to make loans and grants to support the creation of new Tier 1 renewable energy 15 
+sources in the State that are owned by or directly benefit:  16 
+ 
+   (i) low– to moderate –income communities located in a census tract 17 
+with an average median income at or below 80% of the average median income for the State; 18 
+or 19 
+ 
+   (ii) overburdened or underserved communities, as defined in § 1 –701 20 
+of the Environment Article.  21 
+ 
+  (2) Compliance fees paid under § 7 –705(b)(2)(i)2 of the Public Utilities 22 
+Article shall be accounted for separately within the Fund and may be used only to make 23 
+loans and grants to support the creation of new solar energy sources in the State that are 24 
+owned by or directly benefit:  25 
+ 
+   (i) low– to moderate –income communities located in a census tract 26 
+with an average median income at or below 80% of the average median income for the State;  27 
+ 
+   (ii) overburdened or underserved communities, as defined in § 1 –701 28 
+of the Environment Article; or  29 
+ 
+   (iii) households with low to moderate income, as defined in § 9 –2016 30 
+of this title.  31 
+ 
+ HOUSE BILL 1035  63 
+ 
+   (3) (I) SUBJECT TO SUBPARAGRA PHS (II), (III), AND (IV) OF THIS 1 
+PARAGRAPH , COMPLIANCE FEES PAID  UNDER § 7–705 OF THE PUBLIC UTILITIE S 2 
+ARTICLE MAY BE USED T O PROVIDE GRANTS TO ELECTRIC COMPANIES T O BE 3 
+REFUNDED OR CREDITED  TO EACH RESIDENTIAL DISTRIBUTION CUSTOME R BASED 4 
+ON THE CUSTOMER ’S CONSUMPTION OF ELE CTRICITY SUPPLY THAT  IS SUBJECT TO 5 
+THE RENEWABLE ENERGY  PORTFOLIO STANDARD . 6 
+ 
+   (II) THE REFUNDING OR CRED ITING OF AMOUNTS TO 7 
+RESIDENTIAL DISTRIBU TION CUSTOMERS SHALL  BE IDENTIFIED ON THE  8 
+CUSTOMER ’S BILL AS A LINE ITE M IDENTIFIED AS A “LEGISLATIVE ENERGY RELIEF 9 
+REF UND”. 10 
+ 
+   (III) AN ELECTRIC COMPANY A WARDED A GRANT UNDER  THIS 11 
+PARAGRAPH :  12 
+ 
+    1. MAY NOT RETAIN ANY O F THE GRANT FUNDS TO  13 
+COVER OVERHEAD EXPEN SES; AND  14 
+ 
+    2. SHALL PROVIDE ALL OF  THE GRANT FUNDS TO 15 
+RESIDENTIAL DISTRIBU TION CUSTOMERS . 16 
+ 
+   (IV) THE PROCESS UNDER SUB PARAGRAPHS (I) AND (II) OF THIS 17 
+PARAGRAPH RELATED TO  THE REFUN DING OR CREDITING OF  AMOUNTS TO 18 
+RESIDENTIAL DISTRIBU TION CUSTOMERS SHALL  BE DIRECTED AND OVER SEEN BY 19 
+THE COMMISSION . 20 
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 21 
+as follows:  22 
+ 
+Article – Tax – General  23 
+ 
+10–207. 24 
+ 
+ (a) To the extent included in federal adjusted gross income, the amounts under 25 
+this section are subtracted from the federal adjusted gross income of a resident to determine 26 
+Maryland adjusted gross income.  27 
+ 
+ (QQ) (1) IN THIS SUBSECTION , “LEGISLATIVE ENERGY RELIEF REFUND ” 28 
+MEA NS A CREDIT AGAINST A PERSON ’S ELECTRIC UTILITY B ILL THAT IS OFFERED 29 
+THROUGH GRANTS PROVI DED TO ELECTRIC COMP ANIES IN ACCORDANCE WITH §  30 
+9–20B–05(I)(3) OF THE STATE GOVERNMENT ARTICLE . 31 
+ 
+  (2) THE SUBTRACTION UNDER  SUBSECTION (A) OF THIS SECTION 32 
+INCLUDES TH E AMOUNT OF A LEGISL ATIVE ENERGY RELIEF REFUND  RECEIVED BY 33 
+A PERSON DURING THE TAXABLE YEAR .  34 
+64 HOUSE BILL 1035   
+ 
+  
+ SECTION 4. 5. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 1 
+as follows:  2 
+ 
+Article – Public Utilities  3 
+ 
+7–701. 4 
+ 
+ (a) In this subtitle the following wor ds have the meanings indicated.  5 
+ 
+ (s) “Tier 1 renewable source” means one or more of the following types of energy 6 
+sources:  7 
+ 
+  (1) solar energy, including energy from photovoltaic technologies and solar 8 
+water heating systems;  9 
+ 
+  (2) wind;  10 
+ 
+  (3) qualifying  biomass;  11 
+ 
+  (4) methane from the anaerobic decomposition of organic materials in a 12 
+landfill or wastewater treatment plant;  13 
+ 
+  (5) geothermal, including energy generated through geothermal exchange 14 
+from or thermal energy avoided by, groundwater or a shallo w ground source;  15 
+ 
+  (6) ocean, including energy from waves, tides, currents, and thermal 16 
+differences;  17 
+ 
+  (7) a fuel cell that produces electricity from a Tier 1 renewable source 18 
+under item (3) or (4) of this subsection;  19 
+ 
+  (8) a small hydroelectric power p lant of less than 30 megawatts in capacity 20 
+that is licensed or exempt from licensing by the Federal Energy Regulatory Commission;  21 
+ 
+  (9) poultry litter –to–energy;  22 
+ 
+  (10) [waste –to–energy;  23 
+ 
+  (11) refuse –derived fuel;  24 
+ 
+  (12)] thermal energy from a thermal  biomass system; and  25 
+ 
+  [(13)] (11)  raw or treated wastewater used as a heat source or sink for a 26 
+heating or cooling system.  27 
+ 
+7–704. 28 
+ HOUSE BILL 1035  65 
+ 
+  
+ (a) (1) Energy from a Tier 1 renewable source:  1 
+ 
+   (i) is eligible for inclusion in meeting the renewable energy portfolio 2 
+standard regardless of when the generating system or facility was placed in service; and  3 
+ 
+   (ii) may be applied to the percentage requirements of the standard 4 
+for either Tier 1 renewable sources or Tier 2 renewable sources.  5 
+ 
+  (2) (i) Energy fro m a Tier 1 renewable source under § 7 –701(s)(1), (5), 6 
+OR (9)[, (10), or (11) ] of this subtitle is eligible for inclusion in meeting the renewable energy 7 
+portfolio standard only if the source is connected with the electric distribution grid serving 8 
+Maryland . 9 
+ 
+   (ii) Energy from a Tier 1 renewable source under [§ 7–701(s)(13) ] § 10 
+7–701( S)(11)  of this subtitle is eligible for inclusion in meeting the renewable energy 11 
+portfolio standard only if the source:  12 
+ 
+    1. is connected with the electric distribution gri d serving 13 
+Maryland; or  14 
+ 
+    2. processes wastewater from Maryland residents.  15 
+ 
+   (iii) If the owner of a solar generating system in this State chooses to 16 
+sell solar renewable energy credits from that system, the owner must first offer the credits 17 
+for sale to an electricity supplier or electric company that shall apply them toward 18 
+compliance with the renewable energy portfolio standard under § 7 –703 of this subtitle.  19 
+ 
+  (3) Energy from a Tier 1 renewable source under § 7 –701(s)(8) of this 20 
+subtitle is eligibl e for inclusion in meeting the renewable energy portfolio standard if it is 21 
+generated at a dam that existed as of January 1, 2004, even if a system or facility that is 22 
+capable of generating electricity did not exist on that date.  23 
+ 
+  (4) Energy from a Tier 2 renewable source under § 7 –701(t) of this subtitle 24 
+is eligible for inclusion in meeting the renewable energy portfolio standard if it is generated 25 
+at a system or facility that existed and was operational as of January 1, 2004, even if the 26 
+facility or sys tem was not capable of generating electricity on that date.  27 
+ 
+ SECTION 6. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 28 
+as follows:  29 
+ 
+Article – Public Utilities  30 
+ 
+7–207. 31 
+ 
+66 HOUSE BILL 1035   
+ 
+  (b) (1) (i) Unless a certificate of public convenience and necessity for t he 1 
+construction is first obtained from the Commission, a person may not begin construction in 2 
+the State of:  3 
+ 
+    1. a generating station; [or] 4 
+ 
+    2. a qualified generator lead line ; OR 5 
+ 
+    3. AN ENERGY STORAGE DE VICE THAT IS PART OF  A 6 
+PROPOSAL ACCEPTED BY THE COMMISSION DURING A S OLICITATION PERIOD  7 
+UNDER § 7–1202  APPROVED BY THE COMMISSION UNDER § 7–1206  OF THIS TITLE . 8 
+ 
+   (IV) NOTWITHSTANDING ANY O THER PROVISION OF TH IS 9 
+SECTION , A CERTIFICATE OF PUB LIC CONVENIENCE AND NECESSITY FOR THE 10 
+CONSTRUCTION OF A  GENERATING STATION T HAT IS PART OF A PRO POSAL  11 
+ACCEPTED BY THE COMMISSION DURING A S OLICITATION PERIOD U NDER § 7–1202  12 
+APPROVED BY THE COMMISSION UNDER § 7–1206  OF THIS TITLE SHALL BE ISSUED 13 
+IN ACCORDANCE WITH § 7–207.4  OF THIS SUBTITLE . 14 
+ 
+   (V) WHEN A PERS ON APPLIES FOR A CER TIFICATE OF PUBLIC 15 
+CONVENIENCE AND NECE SSITY FOR THE CONSTR UCTION OF A GENERATI NG 16 
+STATION UNDER THIS S ECTION , THE APPLICATION SHAL L STATE WHETHER THE  17 
+PROPOSED GENERATING STATION OR THE PROPO SED MODIFICATION IS PART OF A 18 
+PROPOSAL ACCEPTE D BY THE COMMISSION DURING A S OLICITATION PERIOD  19 
+UNDER § 7–1202  OF THIS TITLE . APPROVED BY THE COMMISSION UNDER § 7–1206  20 
+OF THIS TITLE . 21 
+ 
+   (VI) 1. THE COMMISSION MAY PRIORI TIZE THE REVIEW OF 22 
+AN APPLICATION FOR A  CERTIFICATE OF PUBLI C CONVENIENCE AND NE CES SITY 23 
+UNDER § 7–207.4  OF THIS SUBTITLE OVE R THE REVIEW OF AN A PPLICATION FOR A 24 
+CERTIFICATE OF PUBLI C CONVENIENCE AND NE CESSITY UNDER THIS S ECTION .  25 
+ 
+    2. THE COMMISSION MAY EXTEND  THE TIME FOR THE 26 
+REVIEW OF AN APPLICA TION FOR A CERTIFICA TE OF PUBLIC CONVE NIENCE AND 27 
+NECESSITY UNDER THIS  SECTION IF , IN ACCORDANCE WITH S UBSUBPARAGRAPH 1 28 
+OF THIS SUBPARAGRAPH , THE COMMISSION HAS PRIORI TIZED THE REVIEW OF AN 29 
+APPLICATION FOR A CE RTIFICATE OF PUBLIC CONVENIENCE AND NECE SSITY 30 
+UNDER § 7–207.4  OF THIS SUBTITLE OVE R THE REVIEW OF THE APP LICATION FOR A 31 
+CERTIFICATE OF PUBLI C CONVENIENCE AND NE CESSITY UNDER THIS S ECTION . 32 
+ 
+7–207.4.  33 
+ 
+ (A) (1) IN THIS SECTION THE F OLLOWING WORDS HAVE THE MEANINGS 34 
+INDICATED . 35 
+ HOUSE BILL 1035  67 
+ 
+  
+  (2) “CONSTRUCTION ” HAS THE MEANING STAT ED IN § 7–207 OF THIS 1 
+SUBTITLE . 2 
+ 
+  (3) (I) “DISPATCHABLE ENERGY GENERATING  GENERATION  3 
+PROJECT ” MEANS A GENERATING S TATION OR ENERGY STO RAGE DEVICE : 4 
+ 
+    1. THAT IS PART OF A PR OPOSAL ACCEPTED BY T HE 5 
+COMMISSION DURING A S OLICITATION PERIOD U NDER § 7–1202  OF THIS TITLE ; OR 6 
+ 
+    2. ON OR BEFORE JANUARY 1, 2025,  IS WAITING FOR  7 
+APPROVAL OR HAS BEEN  APPROVED FOR INTERCO NNECTION BY PJM  THAT IS PART 8 
+OF A PROPOSAL APPROV ED BY THE COMMISSION UNDER § 7–1206  OF THIS TITLE . 9 
+ 
+   (II) “DISPATCHABLE ENERGY GENERATING  GENERATION  10 
+PROJECT ” INCLUDE S ANY ASSOCIATED INF RASTRUCTURE NECESSAR Y TO 11 
+INTERCONNECT THE GEN ERATING STATION TO T HE ELECTRIC DISTRIBU TION 12 
+SYSTEM . 13 
+ 
+  (4) “ENERGY STORAGE DEVICE ” HAS THE MEANING STAT ED IN §  14 
+7–216 OF THIS SUBTITLE . 15 
+ 
+  (5) “GENERATING STATION ” HAS THE MEANING STAT ED IN § 7–207 OF 16 
+THIS SUBTITLE . 17 
+ 
+  (6) “LARGE CAPACITY ENERGY  RESOURCE ” MEANS A GENERATING 18 
+STATION THAT : 19 
+ 
+   (I) ON OR BEFORE JANUARY 1, 2025:  20 
+ 
+    1. HAS APPLIED TO PJM  FOR INTERCONNECTION 21 
+APPROVAL ; OR 22 
+ 
+    2. HAS BEEN APPROVED BY  PJM  FOR 23 
+INTERCONNECTION ;  24 
+ 
+   (II) HAS A CAPACITY RATIN G EQUAL TO OR GREATE R THAN 20 25 
+MEGAWATTS AFTER ACCO UNTING FOR THE EFFEC TIVE LOAD CARRYING 26 
+CAPABILITY ; AND  27 
+ 
+   (III) IS PART OF A PROPOSA L APPROVED BY THE COMMISSION 28 
+UNDER § 7–1206  OF THIS TITLE . 29 
+ 
+68 HOUSE BILL 1035   
+ 
+   (7) “QUALIFYING PROJECT ” MEANS A DISPATCHABLE ENERGY 1 
+GENERATION PROJECT O R LARGE CAPACITY ENE RGY RESOURCE PROJECT  THAT 2 
+HAS BEEN APPROVED BY  THE COMMISSION UNDER § 7–1208  OF THIS TITLE .  3 
+ 
+ (B) THIS SECTION APPLIES ONLY TO AN APPLICATI ON FOR A CERTIFICATE  4 
+OF PUBLIC CONVENIENC E AND NECESSITY  FOR THE CONSTRUCTION  OF A 5 
+DISPATCHABLE ENERGY GENERATION  QUALIFYING  PROJECT . 6 
+ 
+ (C) UNLESS A CERTIFICATE OF PUBLIC CONVENIENC E AND NECESSITY IS 7 
+FIRST OBTAINED FROM THE COMMISSION IN ACCORDA NCE WITH THIS SECTIO N OR 8 
+§ 7–207 OF THIS SUBTITLE , A PERSON MAY NOT  CONSTRUCT A DISPATCHABLE 9 
+ENERGY GENERATION  QUALIFYING  PROJECT . 10 
+ 
+ (D) WITHIN 90 DAYS AFTER THE SUBMI SSION OF AN APPLICAT ION FOR A  11 
+CERTIFICATE OF PUBLI C CONVENIENCE AND NE CESSITY THAT STATES THAT THE  12 
+APPLICATION IS FOR A  DISPATCHABLE ENERGY GENERATION PROJE CT, THE 13 
+COMMISSION SHALL : 14 
+ 
+  (1) VERIFY THAT THE GENE RATING STATION OR EN ERGY STORAGE  15 
+DEVICE IS A DISPATCH ABLE ENERGY GENERATI ON PROJECT ; AND  16 
+ 
+  (2) NOTIFY THE APPLICANT  AND RELEVANT ENTITIE S IN  17 
+ACCORDANCE WITH § 7–207( C) OF THIS SUBTITLE THA T THE APPLICATION IS  18 
+SUBJECT TO AN EXPEDI TED REVIEW PROCESS I N ACCORDANCE WITH TH IS SECTION . 19 
+ 
+ (D) A CERTIFICATE OF PUBLI C CONVENIENCE AND NE CESSITY ISSUED 20 
+UNDER THIS SECTION B ESTOWS THE SAME RIGH TS AS A CERTIFICATE OF PUBLIC 21 
+CONVENIENCE AND NECE SSITY ISSUED UND ER § 7–207 OF THIS SUBTITLE .  22 
+ 
+ (E) A PERSON APPLYING FOR A CERTIFICATE OF PUB LIC CONVENIENCE 23 
+AND NECESSITY UNDER THIS SECTION SHALL : 24 
+ 
+   (1) AT LEAST 45 DAYS BEFORE SUBMITTI NG AN APPLICATION UN DER 25 
+THIS SECTION , NOTIFY THE COMMISSION AND THE POWER PLANT RESEARCH 26 
+PROGRAM ; AND  27 
+ 
+   (2) UNLESS OTHERWISE SPE CIFIED UNDER THIS SE CTION , COMPLETE 28 
+ALL PRE –APPLICATION REQUIREM ENTS BEFORE SUBMITTI NG AN APPLICATION . 29 
+ 
+ (F) (1) EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS SUBSECTION , 30 
+THE TIMELINES ASSOCI ATED WITH THE NOR MAL PRE –APPLICATION 31 
+REQUIREMENTS UNDER § 7–207 OF THIS SUBTITLE , INCLUDING THE 32 
+REQUIREMENTS UNDER COMAR  20.79.01.04  AND COMAR  20.79.01.05,  SHALL BE 33 
+SHORTENED TO 45 DAYS FOR APPLICATION S SUBMITTED UNDER TH IS SECTION . 34 
+ HOUSE BILL 1035  69 
+ 
+  
+  (2) IF THE PROPOSED LOCAT ION OF A QUA LIFYING PROJECT IS I N AN 1 
+OVERBURDENED COMMUNI TY OR UNDERSERVED CO MMUNITY , AS DEFINED IN §  2 
+1–701 OF THE ENVIRONMENT ARTICLE , THE TIMELINE FOR THE  PRE–APPLICATION 3 
+REQUIREMENTS UNDER COMAR  20.79.01.04  AND COMAR  20.79.01.05  SHALL 4 
+REMAIN AT 90 DAYS . 5 
+ 
+ (G) ONCE  FIVE APPLICATIONS HA VE BEEN RECEIVED UND ER THIS SECTION 6 
+WITHIN A 2–MONTH PERIOD , THE COMMISSION MAY DELAY PROCESSING ANY 7 
+SUBSEQUENT APPLICATI ONS SUBMITTED UNDER THIS SECTION WITHOUT  8 
+IMPACTING THE TIMELI NES SPECIFIED IN THI S SECTION . 9 
+ 
+ (E) (H) (1) THE COMM ISSION SHALL : 10 
+ 
+   (I) EXPEDITE ALL PROCEED INGS FOR THE REVIEW AND 11 
+APPROVAL OF A CERTIF ICATE OF PUBLIC CONV ENIENCE AND NECESSIT Y FOR A  12 
+DISPATCHABLE ENERGY GENERATION PROJECT A ND PRIORITIZE THESE  13 
+PROCEEDINGS , IF NECESSARY , OVER OTHER MATTERS ; AND  QUALIFYING PROJECT ; 14 
+AND  15 
+ 
+   (II) TAKE FINAL ACTION ON  A CERTIFICATE OF PUB LIC 16 
+CONVENIENCE AND NECE SSITY FOR A DISPATCHABLE ENERGY GENERATION  17 
+QUALIFYING  PROJECT NOT LATER TH AN 6 MONTHS  295 DAYS  AFTER THE 18 
+COMMISSION MAKES THE  VERIFICATION UNDER S UBSECTION (D)(1) OF THI S 19 
+SECTION  THE POWER PLANT RESEARCH PROGRAM DETERMINES TH AT THE 20 
+APPLICATION IS COMPL ETE IN ACCORDANCE WI TH COMAR  20.79.01.10 . 21 
+ 
+  (2) A STATE AGENCY SHALL SU BMIT ANY RECOMMENDED  LICENSING  22 
+CONDITIONS OR TESTIM ONY REGARDING THE IS SUANCE OF A CERTIFIC ATE OF  23 
+PUB LIC CONVENIENCE AND NECESSITY FOR A DISP ATCHABLE ENERGY GENE RATION  24 
+PROJECT NOT LATER TH AN 90 DAYS AFTER THE DATE THE COMMISSION MAKES THE  25 
+VERIFICATION UNDER S UBSECTION (D)(1) OF THIS SECTION  THE COMMISSION MAY 26 
+EXTEND THE TIME TO T AKE FINAL ACTION ON A CERT IFICATE OF PUBLIC 27 
+CONVENIENCE AND NECE SSITY UNDER THIS SEC TION IF AN APPLICANT  FAILS TO 28 
+COMPLY WITH THE LAW , REGULATORY REQUIREME NTS, OR COMMISSION ORDERS 29 
+ASSOCIATED WITH OBTA INING A CERTIFICATE OF PUBLIC CONVENIENC E AND 30 
+NECESSITY . 31 
+ 
+  (3) NOTWITHSTANDING A NY OTHER LAW OR REGU LATION , IN ORDER 32 
+TO MEET THE REQUIRED  TIMELINES FOR THE IS SUANCE OF A CERTIFIC ATE OF 33 
+PUBLIC CONVENIENCE A ND NECESSITY UNDER T HIS SECTION , THE COMMISSION 34 
+MAY REVIEW AND DETER MINE WHETHER TO APPR OVE DECOMMISSIONING PLANS 35 
+FOR A QUALIFYING PROJECT AFTER THE CE RTIFICATE OF PUBLIC CONVENIENCE 36 
+AND NECESSITY HAS BE EN ISSUED . 37 
+70 HOUSE BILL 1035   
+ 
+  
+ (F) IF A PROPOSED SITE FO R A DISPATCHABLE ENE RGY GENERATION  1 
+QUALIFYING  PROJECT WAS PREVIOUS LY OR IS CURRENTLY U SED FOR ELECTRICITY 2 
+GENERATION AND HAS A  HIGHER GREENHOUSE G AS EMISSION PROFILE COMPARED 3 
+TO THE DISPATCHABLE ENERGY GENERATION PR OJECT : 4 
+ 
+  (1) THE APPLICANT IS EXE MPT FROM THE  REQUIREMENTS OF 5 
+COMAR  20.79.01.04  AND COMAR  20.79.01.05;  AND  6 
+ 
+  (2) THE COMMISSION SHALL PRES UME THE PROPOSED SIT E IS  7 
+APPROPRIATE AND CONSISTENT WITH THE CERTIFICATE OF PUBLI C CONVENIENCE  8 
+AND NECESSITY FOR A NEW OR EXPANDED GENE RATING STATION . 9 
+ 
+ (G) THE COMMISSION , THE DEPARTMENT OF THE ENVIRONMENT , THE 10 
+DEPARTMENT OF NATURAL RESOURCES , AND ANY OTHER IMPACT ED STATE  11 
+AGENCY SHALL WAIVE O R E XPEDITE ANY REGULATO RY REQUIREMENTS OR  12 
+DECISIONS TO COMPLY WITH THE TIME FRAMES  SET FORTH IN THIS SE CTION . 13 
+ 
+ (I) IN EVALUATING AN APPL ICATION FOR A CERTIF ICATE OF PUBLIC 14 
+CONVENIENCE AND NECE SSITY UNDER THIS SEC TION , THE COMMISSION MAY 15 
+CONTRACT FOR THE SER VICES OF INDEPENDENT CONSULTANTS AND EXPE RTS.  16 
+ 
+ SECTION 7. AND BE IT FURTHER ENACTED, That on or before January 15, 2026, 17 
+the Public Service Commission shall report to the General Assembly, in accordance with §  18 
+2–1257 of the State Government Article, on:  19 
+ 
+  (1) the status of developing regulations for the establishment and purchase 20 
+of zero –emission credits in accordance with § 7 –1220 of the Public Utilities Article, as 21 
+enacted by Section 3 of this Act; and  22 
+ 
+  (2) whether any legislative action is necessary  to implement the  23 
+zero–emission credit provisions in § 7 –1220 of the Public Utilities Article, as enacted by 24 
+Section 3 of this Act.  25 
+ 
+ SECTION 8. AND BE IT FURTHER ENACTED, That a presently existing obligation 26 
+or contract right may not be impaired in any w ay by this Act.  27 
+ 
+ SECTION 9. AND BE IT FURTHER ENACTED, That Section 5 of this Act shall 28 
+apply:  29 
+ 
+  (1) except as specified in item (2) of this section, to all renewable energy 30 
+portfolio standard compliance years starting on or after January 1, 2025; and  31 
+ 
+  (2) beginning July 1, 2026, and to each renewable energy portfolio standard 32 
+compliance year thereafter, for each facility owned by a public instrumentality of the State.   33 
+ 
+ HOUSE BILL 1035  71 
+ 
+  SECTION 5. 10. AND BE IT FURTHER ENACTED, That the General Assembly 1 
+supports the extension or renewal of the Federal Nuclear Regulatory Commission license 2 
+for the Calvert Cliffs Nuclear Power Plant’s nuclear reactors in the years 2034 and 2036.  3 
+ 
+ SECTION 11. AND BE IT F URTHER ENACTED, That:  4 
+ 
+ (a) (1) Notwithstanding any other provision of law, from the alternative 5 
+compliance fees paid into the Maryland Strategic Energy Investment Fund in accordance 6 
+with § 7 –705 of the Public Utilities Article, a portion shall be used to provide grant awards 7 
+to electric companies, including electric cooperatives and municipal electric utilities, to be 8 
+refunded or credited to residential distribution customers for electric service in fiscal 2026 9 
+in accordance with subsection (b) of this sec tion.  10 
+ 
+  (2) The Governor may transfer by budget amendment the funds described 11 
+in paragraph (1) of this subsection to the Public Service Commission to be awarded to 12 
+electric companies, including electric cooperatives and municipal electric utilities.  13 
+ 
+ (b) The funds described in subsection (a)(1) of this section shall be distributed:  14 
+ 
+  (1) in accordance with § 9 –20B–05(i)(3) of the State Government Article, 15 
+as enacted by Section 3 of this Act;  16 
+ 
+  (2) twice during the 2026 fiscal year; and  17 
+ 
+  (3) to reside ntial distribution customers as follows:  18 
+ 
+   (i) half of the amount granted under subsection (a)(1) to be refunded 19 
+or credited during a peak summer month; and  20 
+ 
+   (ii) half of the amount granted under subsection (a)(1) to be refunded 21 
+or credited during a p eak winter month.  22 
+ 
+ SECTION 12. AND BE IT FURTHER ENACTED, That Section 4 of this Act shall be 23 
+applicable to all taxable years beginning after December 31, 2024 .  24 
+ 
+ SECTION 13. AND BE IT FURTHER ENACTED, That, on or before January 1, 25 
+2026, the Department o f Human Services shall report to the Governor and, in accordance 26 
+with § 2 –1257 of the State Government Article, the General Assembly on any legislative or 27 
+regulatory changes necessary to implement the recommendation to combine all energy 28 
+assistance program s operated by the State into one program as discussed in the 29 
+Department of Legislative Services Office of Program Evaluation and Government 30 
+Accountability’s February 2025 “Evaluation of the Office of Home Energy Programs”.  31 
+ 
+ SECTION 6. 14. AND BE IT FURTH ER ENACTED, That this Act shall take effect 32 
+July June  1, 2025. Section 4 6 of this Act shall remain effective for a period of 5 years and 33 
+1 month  and, at the end of June 30, 2030, Section 4 6 of this Act, with no further action 34 
+required by the General Asse mbly, shall be abrogated and of no further force and effect.  35 

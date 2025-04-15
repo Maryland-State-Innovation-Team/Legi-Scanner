@@ -1,0 +1,546 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.  
+         Italics indicate opposite chamber/conference committee amendments.             *sb0474*      
+SENATE BILL 474  
+J5   (5lr3154 ) 
+ENROLLED BILL  
+— Finance/Health and Government Operations  — 
+Introduced by Senator Beidle  
+ 
+Read and Examined by Proofreaders:  
+ 
+_______________________________________________  
+Proofreader.  
+_______________________________________________  
+Proofreader.  
+ 
+Sealed with the Great Seal and presented to the Governor, for his approval this  
+  
+_______ day of _______________ at _________________ _______ o’clock, ________M.  
+  
+______________________________________________  
+President .  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Health Insurance – Adverse Decisions – Reporting  Notices, Reporting,  and 2 
+Examinations  3 
+ 
+FOR the purpose of requiring that certain adverse decision and grievance decision notices 4 
+include certain information in a certain manner;  requiring that the information 5 
+regarding criteria and standards for utilization review that a private review agent is 6 
+required to post on its website o r the carrier’s website be posted on the member’s and 7 
+provider’s pages of the websites; requiring that certain information submitted to the 8 
+Maryland Insurance Commissioner by carriers be aggregated by zip code;  requiring 9 
+certain carriers to provide certain  information to the Maryland Insurance  10 
+Commissioner on adverse decisions on types of services that have grown by more 11 
+than  certain percentages or more  over certain periods of time; authorizing the 12 
+Commissioner to use certain adverse decision information as  the basis of a certain 13 
+examination; requiring private review agents to have a certain telephone number and 14 
+e–mail address dedicated to utilization review that will be responded to within a 15 
+2 SENATE BILL 474   
+ 
+ certain period of time;  and generally relating to health insurance  and adverse 1 
+decisions.  2 
+ 
+BY repealing and reenacting, without amendments,  3 
+ Article – Insurance  4 
+ Section 15 –10A–02(a)  5 
+ Annotated Code of Maryland  6 
+ (2017 Replacement Volume and 2024 Supplement)  7 
+ 
+BY repealing and reenacting, with amendments,  8 
+ Article – Insurance  9 
+Section 15–10A–02(f) and (i) and 15–10A–06, 15–10A–06, and 15 –10B–05(a)(4) and 10 
+(b) 11 
+ Annotated Code of Maryland  12 
+ (2017 Replacement Volume and 2024 Supplement)  13 
+ 
+BY repealing and reenacting, with amendments,  14 
+ Article – Insurance  15 
+ Section 15 –10A–02(f) and (i)  16 
+ Annotated Code of Maryland  17 
+ (2017 Replacement Volume and 2024 Supplement)  18 
+ (As enacted by Section 1 of this Act)  19 
+ 
+BY adding to  20 
+ Article – Insurance  21 
+ Section 15 –10B–05(e)  22 
+ Annotated Code of Maryland  23 
+ (2017 Replacement Volume and 2024 Supplement)  24 
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 25 
+That the Laws of Maryland read as follows:  26 
+ 
+Article – Insurance  27 
+ 
+15–10A–02. 28 
+ 
+ (a) Each carrier shall establish an internal grievance process for its members.  29 
+ 
+ (f) (1) For nonemergency cases, w hen a carrier renders an adverse decision, 30 
+the carrier shall:  31 
+ 
+   (i) inform the member, the member’s representative, or the health 32 
+care provider acting on behalf of the member of the adverse decision:  33 
+ 
+    1. orally by telephone; or  34 
+ 
+ SENATE BILL 474  3 
+ 
+     2. with the affirmative consent of the member, the member’s 1 
+representative, or the health care provider acting on behalf of the member, by text, 2 
+facsimile, e –mail, an online portal, or other expedited means; and  3 
+ 
+   (ii) send, within 5 working days after the adverse d ecision has been 4 
+made, a written notice to the member, the member’s representative, and a health care 5 
+provider acting on behalf of the member that:  6 
+ 
+    1. states in detail in clear, understandable language the 7 
+specific factual bases for the carrier’s deci sion and the reasoning used to determine that the 8 
+health care service is not medically necessary and did not meet the carrier’s criteria and 9 
+standards used in conducting the utilization review;  10 
+ 
+    2. provides the specific reference, language, or requirem ents 11 
+from the criteria and standards, including any interpretive guidelines, on which the 12 
+decision was based, and may not solely use:  13 
+ 
+    A. generalized terms such as “experimental procedure not 14 
+covered”, “cosmetic procedure not covered”, “service include d under another procedure”, or 15 
+“not medically necessary”; or  16 
+ 
+    B. language directing the member to review the additional 17 
+coverage criteria in the member’s policy or plan documents;  18 
+ 
+    3. [states the name, ] INCLUDES A UNIQUE ID ENTIFIER 19 
+FOR AND THE  business address [,] and business telephone number of:  20 
+ 
+    A. if the carrier is a health maintenance organization, the 21 
+medical director or associate medical director, as appropriate, who made the decision; or  22 
+ 
+    B. if the carrier is not a health maintenance organization, the 23 
+designated employee or representative of the carrier who has responsibility for the carrier’s 24 
+internal grievance process and the physician who is required to make all adverse decisions 25 
+as required in § 15 –10B–07(a) of this title;  26 
+ 
+    4. gives written details of the carrier’s internal grievance 27 
+process and procedures under this subtitle; and  28 
+ 
+    5. includes the following information:  29 
+ 
+    A. that the member, the member’s representative, or a health 30 
+care provider on behalf of the member ha s a right to file a complaint with the Commissioner 31 
+within 4 months after receipt of a carrier’s grievance decision;  32 
+ 
+    B. that a complaint may be filed without first filing a 33 
+grievance if the member, the member’s representative, or a health care provide r filing a 34 
+4 SENATE BILL 474   
+ 
+ grievance on behalf of the member can demonstrate a compelling reason to do so as 1 
+determined by the Commissioner;  2 
+ 
+    C. the Commissioner’s address, telephone number, and 3 
+facsimile number;  4 
+ 
+    D. a statement that the Health Advocacy Unit is available to 5 
+assist the member or the member’s representative in both mediating and filing a grievance 6 
+under the carrier’s internal grievance process; and  7 
+ 
+    E. the address, telephone number, facsimile number, and 8 
+electronic mail address of the Health Ad vocacy Unit.  9 
+ 
+  (2) The business telephone number included in the notice as required 10 
+under paragraph (1)(ii)3 of this subsection must be a dedicated number for adverse 11 
+decisions and may not be the general customer call number for the carrier.  12 
+ 
+ (i) (1) For nonemergency cases, when a carrier renders a grievance decision, 13 
+the carrier shall:  14 
+ 
+   (i) document the grievance decision in writing after the carrier has 15 
+provided oral communication of the decision to the member, the member’s representative, 16 
+or the hea lth care provider acting on behalf of the member; and  17 
+ 
+   (ii) send, within 5 working days after the grievance decision has been 18 
+made, a written notice to the member, the member’s representative, and a health care 19 
+provider acting on behalf of the member th at: 20 
+ 
+    1. states in detail in clear, understandable language the 21 
+specific factual bases for the carrier’s decision and the reasoning used to determine that the 22 
+health care service is not medically necessary and did not meet the carrier’s criteria and 23 
+standards used in conducting utilization review;  24 
+ 
+    2. provides the specific reference, language, or requirements 25 
+from the criteria and standards, including any interpretive guidelines used by the carrier, 26 
+on which the grievance decision was based;  27 
+ 
+    3. [states the name, ] INCLUDES A UNIQUE ID ENTIFIER 28 
+FOR AND THE  business address [,] and business telephone number of:  29 
+ 
+    A. if the carrier is a health maintenance organization, the 30 
+medical director or associate medical director, as appropriate, who made the grievance 31 
+decision; or  32 
+ 
+    B. if the carrier is not a health maintenance organization, the 33 
+designated employee or representative of the carrier who has responsibility for the carrier’s 34 
+ SENATE BILL 474  5 
+ 
+ internal grievance process and the designated employee or representati ve’s title and 1 
+clinical specialty; and  2 
+ 
+    4. includes the following information:  3 
+ 
+    A. that the member or the member’s representative has a 4 
+right to file a complaint with the Commissioner within 4 months after receipt of a carrier’s 5 
+grievance decision;  6 
+ 
+    B. the Commissioner’s address, telephone number, and 7 
+facsimile number;  8 
+ 
+    C. a statement that the Health Advocacy Unit is available to 9 
+assist the member or the member’s representative in filing a complaint with the 10 
+Commissioner; and  11 
+ 
+    D. the address, telephone number, facsimile number, and 12 
+electronic mail address of the Health Advocacy Unit.  13 
+ 
+  (2) The business telephone number included in the notice as required 14 
+under paragraph (1)(ii)3 of this subsection must be a dedicated number for grievan ce 15 
+decisions and may not be the general customer call number for the carrier.  16 
+ 
+  (3) To satisfy the requirements of this subsection, a carrier may not use 17 
+solely in the written notice sent under paragraph (1) of this subsection:  18 
+ 
+   (i) generalized terms s uch as “experimental procedure not covered”, 19 
+“cosmetic procedure not covered”, “service included under another procedure”, or “not 20 
+medically necessary”; or  21 
+ 
+   (ii) language directing the member to review the additional coverage 22 
+criteria in the member’s policy or plan documents.   23 
+ 
+15–10B–05. 24 
+ 
+ (b) The private review agent shall:  25 
+ 
+  (1) post on THE MEMBER ’S AND PROVIDER ’S PAGES OF  its website or the 26 
+carrier’s website the specific criteria and standards to be used in conducting utilization 27 
+review of propose d or delivered services and any subsequent revisions, modifications, or 28 
+additions to the specific criteria and standards to be used in conducting utilization review 29 
+of proposed or delivered services; and  30 
+ 
+  (2) on the request of a person, including a healt h care facility, provide a copy 31 
+of the information specified under item (1) of this subsection to the person making the 32 
+request.  33 
+ 
+6 SENATE BILL 474   
+ 
+  SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 1 
+as follows:  2 
+ 
+Article – Insurance  3 
+ 
+15–10A–02. 4 
+ 
+ (a) Each carrier shall establish an internal grievance process for its members.  5 
+ 
+ (f) (1) For nonemergency cases, when a carrier renders an adverse decision, the 6 
+carrier shall:  7 
+ 
+   (i) inform the member, the member’s representative, or the health 8 
+care provider acti ng on behalf of the member of the adverse decision:  9 
+ 
+    1. orally by telephone; or  10 
+ 
+    2. with the affirmative consent of the member, the member’s 11 
+representative, or the health care provider acting on behalf of the member, by text, facsimile, 12 
+e–mail, an online portal, or other expedited means; and  13 
+ 
+   (ii) send, within 5 working days after the adverse decision has been 14 
+made, a written notice to the member, the member’s representative, and a health care 15 
+provider acting on behalf of the member that:  16 
+ 
+    1. STATES AT THE TOP IN  PROMINENT BOLD PRINT : 17 
+ 
+    A. THAT THE NOTICE IS A  DENIAL OF A REQUESTE D 18 
+HEALTH CARE SERVICE ; 19 
+ 
+    B. THAT THE MEMBER MAY FILE AN APPEAL ; 20 
+ 
+    C. THE TELEPHONE NUMBER  AND E–MAIL ADDRESS 21 
+REQUIRED TO BE AVAIL ABLE UNDER § 15–10B–05(E) OF THIS TITLE ; AND  22 
+ 
+    D. THAT THE NOTICE INCL UDES ADDITIONAL 23 
+INFORMATION ON HOW T O FILE AND RECEIVE A SSISTANCE FOR FILING  A COMPLAINT ; 24 
+ 
+    [1.] 2.  states in detail in clear, understandable language 25 
+the specific factual bases for the carrier’s decision an d the reasoning used to determine that 26 
+the health care service is not medically necessary and did not meet the carrier’s criteria and 27 
+standards used in conducting the utilization review;  28 
+ 
+    [2.] 3.  provides the specific reference, language, or 29 
+requirements from the criteria and standards, including any interpretive guidelines, on 30 
+which the decision was based, and may not solely use:  31 
+ SENATE BILL 474  7 
+ 
+  
+    A. generalized terms such as “experimental procedure not 1 
+covered ”, “cosmetic procedure not covered ”, “service  included under another procedure ”, or 2 
+“not medically necessary ”; or 3 
+ 
+    B. language directing the member to review the additional 4 
+coverage criteria in the member’s policy or plan documents;  5 
+ 
+    [3.] 4.  includes a unique identifier for and the  business 6 
+address and business telephone number of:  7 
+ 
+    A. if the carrier is a health maintenance organization, the 8 
+medical director or associate medical director, as appropriate, who made the decision; or  9 
+ 
+    B. if the carrier is not a health maintenance organization, the 10 
+designated employee or representative of the carrier who has responsibility for the carrier’s 11 
+internal grievance process and the physician who is required to make all adverse decisions 12 
+as required in § 15 –10B–07(a) of this title;  13 
+ 
+    [4.] 5.  gives written details of the carrier’s internal 14 
+grievance process and procedures under this subtitle; and  15 
+ 
+    [5.] 6.  includes the following information:  16 
+ 
+    A. that the member, the member’s representative, or a health 17 
+care provider on behalf of t he member has a right to file a complaint with the Commissioner 18 
+within 4 months after receipt of a carrier’s grievance decision;  19 
+ 
+    B. that a complaint may be filed without first filing a 20 
+grievance if the member, the member’s representative, or a health care provider filing a 21 
+grievance on behalf of the member can demonstrate a compelling reason to do so as 22 
+determined by the Commissioner;  23 
+ 
+    C. the Commissioner’s address, telephone number, and 24 
+facsimile number;  25 
+ 
+    D. a statement that the Health Advocacy Unit is available to 26 
+assist the member or the member’s representative in both mediating and filing a grievance 27 
+under the carrier’s internal grievance process; and  28 
+ 
+    E. the address, telephone number, facsimile number, and 29 
+electronic mail address  of the Health Advocacy Unit.  30 
+ 
+  (2) The business telephone number included in the notice as required under 31 
+paragraph [(1)(ii)3 ] (1)( II)4 of this subsection must be a dedicated number for adverse 32 
+decisions and may not be the general customer call number for the carrier.  33 
+8 SENATE BILL 474   
+ 
+  
+ (i) (1) For nonemergency cases, when a carrier renders a grievance decision, 1 
+the carrier shall:  2 
+ 
+   (i) document the gri evance decision in writing after the carrier has 3 
+provided oral communication of the decision to the member, the member’s representative, or 4 
+the health care provider acting on behalf of the member; and  5 
+ 
+   (ii) send, within 5 working days after the grievanc e decision has been 6 
+made, a written notice to the member, the member’s representative, and a health care 7 
+provider acting on behalf of the member that:  8 
+ 
+    1. STATES AT THE TOP IN  PROMINENT BOLD PRINT : 9 
+ 
+    A. THAT THE NOTICE IS A  DENIAL OF A REQUESTE D 10 
+HEA LTH CARE SERVICE ; 11 
+ 
+    B. THAT THE MEMBER MAY FILE A COMPLAINT WIT H THE 12 
+COMMISSIONER ; 13 
+ 
+    C. THE TELEPHONE NUMBER  AND E–MAIL ADDRESS 14 
+REQUIRED TO BE AVAIL ABLE UNDER § 15–10B–05(E) OF THIS TITLE ; AND  15 
+ 
+    D. THAT THE NOTICE INCL UDES ADDITIONAL 16 
+INFORMATION ON HOW TO FILE AND R ECEIVE ASSISTANCE FO R AN APPEAL ; 17 
+ 
+    [1.] 2.  states in detail in clear, understandable language 18 
+the specific factual bases for the carrier’s decision and the reasoning used to determine that 19 
+the health care service is not medically ne cessary and did not meet the carrier’s criteria and 20 
+standards used in conducting utilization review;  21 
+ 
+    [2.] 3.  provides the specific reference, language, or 22 
+requirements from the criteria and standards, including any interpretive guidelines used by 23 
+the carrier, on which the grievance decision was based;  24 
+ 
+    [3.] 4.  includes a unique identifier for and the  business 25 
+address and business telephone number of:  26 
+ 
+    A. if the carrier is a health maintenance organization, the 27 
+medical director or associate me dical director, as appropriate, who made the grievance 28 
+decision; or  29 
+ 
+    B. if the carrier is not a health maintenance organization, the 30 
+designated employee or representative of the carrier who has responsibility for the carrier’s 31 
+internal grievance process and the designated employee or representative’s title and clinical 32 
+specialty; and  33 
+ SENATE BILL 474  9 
+ 
+  
+    [4.] 5.  includes the following information:  1 
+ 
+    A. that the member or the member’s representative has a right 2 
+to file a complaint with the Commissioner within 4 months after receipt of a carrier’s 3 
+grievance decision;  4 
+ 
+    B. the Commissioner’s address, telephone number, and 5 
+facsimile number;  6 
+ 
+    C. a statement that the Health Advocacy Unit is available to 7 
+assist the member or the member’s representative in fili ng a complaint with the 8 
+Commissioner; and  9 
+ 
+    D. the address, telephone number, facsimile number, and 10 
+electronic mail address of the Health Advocacy Unit.  11 
+ 
+  (2) The business telephone number included in the notice as required under 12 
+paragraph [(1)(ii)3 ] (1)(II)4 of this subsection must be a dedicated number for grievance 13 
+decisions and may not be the general customer call number for the carrier.  14 
+ 
+  (3) To satisfy the requirements of this subsection, a carrier may not use 15 
+solely in the written notice sent under paragraph (1) of this subsection:  16 
+ 
+   (i) generalized terms such as “experimental procedure not covered ”, 17 
+“cosmetic procedure not covered ”, “service included under another procedure ”, or “not 18 
+medically necessary ”; or 19 
+ 
+   (ii) language directing the m ember to review the additional coverage 20 
+criteria in the member’s policy or plan documents.   21 
+ 
+15–10A–06. 22 
+ 
+ (a) (1) On a quarterly basis, each carrier shall submit to the Commissioner, on 23 
+the form the Commissioner requires, a report that describes THE FOLLOW ING 24 
+INFORMATION AGGREGAT ED BY ZIP CODE AS RE QUIRED BY THE COMMISSIONER : 25 
+ 
+  [(1)] (I) the number of members entitled to health care benefits under a 26 
+policy, plan, or certificate issued or delivered in the State by the carrier;  27 
+ 
+  [(2)] (II) the number of clean claims for reimbursement processed by the 28 
+carrier;  29 
+ 
+  [(3)] (III) the activities of the carrier under this subtitle, including:  30 
+ 
+   [(i)] 1. the outcome of each grievance filed with the carrier;  31 
+10 SENATE BILL 474   
+ 
+  
+   [(ii)] 2. the number and outcomes of cases that were considered 1 
+emergency cases under § 15 –10A–02(b)(2)(i) of this subtitle;  2 
+ 
+   [(iii)] 3. the time within which the carrier made a grievance 3 
+decision on each emergency case;  4 
+ 
+   [(iv)] 4. the time within which the carrier made a grievance 5 
+decision on all  other cases that were not considered emergency cases;  6 
+ 
+   [(v)] 5. the number of grievances filed with the carrier that 7 
+resulted from an adverse decision involving length of stay for inpatient hospitalization as 8 
+related to the medical procedure involved;  9 
+ 
+   [(vi)] 6. the number of adverse decisions issued by the carrier 10 
+under § 15 –10A–02(f) of this subtitle, whether the adverse decision involved a prior 11 
+authorization or step therapy protocol, and the type of service at issue in the adverse 12 
+decisions;  13 
+ 
+   [(vii)] 7. the number of adverse decisions overturned after a 14 
+reconsideration request under § 15 –10B–06 of this title; and  15 
+ 
+   [(viii)]  8. the number of requests made and granted under §  16 
+15–831(c)(1) and (2) of this title; and  17 
+ 
+  [(4)] (IV) the number and outcome of all other cases that are not subject to 18 
+activities of the carrier under this subtitle that resulted from an adverse decision involving 19 
+the length of stay for inpatient hospitalization as related to the medical procedure involved.  20 
+ 
+  (2) IF THE NUMBER OF ADVERSE  DECISIONS ISSUED BY A CARRIER 21 
+FOR A TYPE OF SERVIC E HAS GROWN BY MORE THAN  10%  OR MORE  IN THE 22 
+IMMEDIATELY PRECEDIN G CALENDAR YEAR OR 25%  OR MORE  IN THE IMMEDIATELY 23 
+PRECEDING 3 CALENDAR YEARS , THE CARRIER SHALL SU BMIT IN THE REPORT 24 
+REQUIRED UNDER PARAG RAPH (1) OF THIS SUBSECTION :  25 
+ 
+   (I) A DESCRIPTION OF ANY  CHANGES IN MEDICAL 26 
+MANAGEMENT CONTRIBUT ING TO THE RISE IN A DVERSE DECISIONS FOR  THE TYPE 27 
+OF SERVICE ; AND   28 
+ 
+   (II) ANY OTH ER KNOWN REASONS FOR  THE INCREASE ; AND 29 
+ 
+   (III) A DESCRIPTION OF THE  CARRIER ’S EFFORTS AND ACTION S 30 
+TAKEN TO DETERMINE T HE REASON FOR THE IN CREASE .  31 
+ 
+ (b) The Commissioner shall:  32 
+ SENATE BILL 474  11 
+ 
+  
+  (1) compile an annual summary report based on the information provided:  1 
+ 
+   (i) under subsection (a) of this section; and  2 
+ 
+   (ii) by the Secretary under § 19 –705.2(e) of the Health – General 3 
+Article;  4 
+ 
+  (2) report any violations or actions taken under § 15 –10B–11 of this title; 5 
+and 6 
+ 
+  (3) provide copies of the summary report to  the Governor and, subject to § 7 
+2–1257 of the State Government Article, to the General Assembly.  8 
+ 
+ (C) THE COMMISSIONER MAY USE INFORMATION PROVIDED  UNDER 9 
+SUBSECTION (A) OF THIS SECTION AS T HE BASIS FOR AN EXAM INATION UNDER 10 
+TITLE 2, SUBTITLE 2 OF THIS ARTI CLE.  11 
+ 
+15–10B–05. 12 
+ 
+ (a) In conjunction with the application, the private review agent shall submit 13 
+information that the Commissioner requires including:  14 
+ 
+  (4) the procedures and policies to ensure that a representative of the private 15 
+review agent is reaso nably accessible to patients and health care providers 7 days a week, 16 
+24 hours a day in this State INCLUDING HAVING A D IRECT TELEPHONE NUMB ER AND 17 
+MONITORED E –MAIL ADDRESS AS REQU IRED IN SUBSECTION (E) OF THIS SECTION ; 18 
+ 
+ (E) (1) A PRIVATE REVIEW AGENT  SHALL : 19 
+ 
+   (I) HAVE AVAILABLE THE F OLLOWING DEDICATED T O 20 
+UTILIZATION REVIEW : 21 
+ 
+    1. A DIRECT TELEPHONE N UMBER THAT IS NOT TH E 22 
+GENERAL CUSTOMER CAL L NUMBER ; AND  23 
+ 
+    2. A MONITORED E –MAIL ADDRESS ; AND  24 
+ 
+   (II) EXCEPT WHERE A SHORT ER TIME PERIOD IS OTHERWISE 25 
+REQUIRED UNDER THIS TITLE , RESPOND TO VOICEMAIL S OR E–MAILS WITHIN 2 26 
+BUSINESS DAYS AFTER RECEIPT OF THE VOICE MAIL OR E –MAIL . 27 
+ 
+  (2) THE TELEPHONE NUMBER AND E–MAIL ADDRESS SHALL B E 28 
+PROMINENTLY DISPLAYE D ON THE NOTICES REQ UIRED UNDER § 15–10A–02(F) AND 29 
+(I) OF THIS TITLE .  30 
+12 SENATE BILL 474   
+ 
+  
+ SECTION 2. 3. AND BE IT FURTHER ENACTED, That Section 2 of  this Act shall 1 
+take effect October 1, 2025.  2 
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED, That, except as provided in Section 3 
+3 of this Act, this Act shall take effect June 1, 2025.  4 
+ 
+ 
+ 
+ 
+ 
+Approved:  
+________________________________ ________________________________ ________________   
+           Governor.  
+________________________________ ________________________________ ________________   
+                 President of the Senate.  
+________________________________ ________________________________ ________________   
+         Speaker of the House of Delegates.  

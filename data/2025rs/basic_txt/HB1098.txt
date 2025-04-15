@@ -1,0 +1,309 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.             *hb1098*      
+HOUSE BILL 1098  
+C4   5lr1544  
+      
+By: Delegates Fraser –Hidalgo and Wilson  
+Introduced and read first time: February 5, 2025  
+Assigned to: Economic Matters  
+Committee Report: Favorable with amendments  
+House action: Adopted with floor amendments  
+Read second time: March 6, 2025  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Insurance – Automobile Insurance – Maryland Automobile Insurance Fund and 2 
+Affordability Study  3 
+ 
+FOR the purpose of requiring the Maryland Automobile Insurance Fund to calculate and 4 
+report its risk based capital level in accordance with certain provisions of insurance 5 
+law and maintain total adjusted capital in a certain amount; requiring the Maryland 6 
+Insurance Commissioner to review and determine the adequacy of an RBC plan filed 7 
+by the Fund;  establishing that certain provisions of insurance law regarding prior 8 
+approval rate making apply to the Fund during a certain time period and under 9 
+certain circum stances; requiring Maryland Insurance Administration to establish a 10 
+workgroup to study automobile insurance affordability and submit a report to the 11 
+Governor and the General Assembly on or before a certain date; authorizing the 12 
+Board of Trustees of the Fun d to certify a certain assessment in a certain manner on 13 
+or before a certain date;  and generally relating to automobile insurance.  14 
+ 
+BY adding to  15 
+ Article – Insurance  16 
+Section 20 –306 17 
+ Annotated Code of Maryland  18 
+ (2017 Replacement Volume and 2024 Supplement)  19 
+ 
+BY repealing and reenacting, with amendments,  20 
+ Article – Insurance  21 
+Section 20 –507 22 
+ Annotated Code of Maryland  23 
+2 HOUSE BILL 1098   
+ 
+  (2017 Replacement Volume and 2024 Supplement)  1 
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 2 
+That the Laws of Maryland read as follows:  3 
+ 
+Article – Insurance  4 
+ 
+20–306. 5 
+ 
+ (A) IN THIS SECTION , “COMPANY ACTION LEVEL  RBC”  HAS THE MEANING 6 
+STATED IN § 4–301( N)(1) OF THIS ARTICLE . 7 
+ 
+ (B) THE FUND SHALL CALCULATE AND REPORT ITS RBC  LEVEL IN 8 
+ACCORDANCE WITH TITLE 4, SUBTITLE 3 OF THIS ARTICLE . 9 
+ 
+ (C) (1) BEGINNING DECEMBER 31, 2026,  THE FUND SHALL MAINTAIN 10 
+TOTAL ADJUSTED CAPIT AL, AS DEFINED IN § 4–301( R) OF THIS ARTICLE , IN AN 11 
+AMOUNT THAT IS GREAT ER THAN OR EQUAL TO ITS COMPANY ACTION L EVEL RBC.  12 
+ 
+  (2) THE FUND SHALL PREPARE AN D SUBMIT AN RBC  PLAN IN  13 
+ACCORDANCE WITH § 4–305( B) OF THIS ARTICLE IF A N RBC  REPORT FILED BY THE  14 
+FUND UNDER SUBSECTION  (B) OF THIS SECTION SHOW S THAT THE FUND’S TOTAL  15 
+ADJUSTED CAPITAL : 16 
+ 
+   (I) IS LESS THAN THE FUND’S COMPANY ACTION LEV EL RBC;  17 
+OR 18 
+ 
+   (II) 1. IS LESS THAN THE PRO DUCT OF 3.0 AND THE FUND’S 19 
+AUTHORIZED CONTROL L EVEL RBC,  AS DEFINED IN § 4–301( N)(3) OF THIS ARTICLE ; 20 
+AND  21 
+ 
+    2. TRIGGERS THE TREND T EST CALCULATION INCL UDED  22 
+IN THE PROPERTY AND CASUALTY RBC  INSTRUCTIONS . 23 
+ 
+ (D) IN ACCORDANCE WITH § 4–305( D) OF THIS ARTICLE , THE 24 
+COMMISSIONER SHALL RE VIEW AND DETERMINE T HE ADEQUACY OF AN RBC  PLAN  25 
+FILED BY THE FUND AS REQUIRED UNDE R THIS SECTION . 26 
+ 
+20–507. 27 
+ 
+ (a) Subject to the authority of the Commissioner to determine whether rates are 28 
+excessive, inadeq uate, or unfairly discriminatory, as provided in Title 11, Subtitle 2 OR 29 
+SUBTITLE  3 of this article, the Executive Director shall determine the premiums to be 30 
+charged on policies issued by the Fund.  31 
+ 
+ HOUSE BILL 1098  3 
+ 
+  (b) (1) Except as provided in [subsection ] SUBSECTIONS  (c) AND (D) of this 1 
+section, the provisions of Title 11, Subtitle 3 of this article apply to the determination of 2 
+premiums by the Executive Director and the filing of rates with the Commissioner.  3 
+ 
+  (2) Notwithstanding Title 11, Subtitle 2 OR SUBTITLE  3 of this article or 4 
+any other provision of this title, the Executive Director may base premiums on one or both 5 
+of the following items:  6 
+ 
+   (i) the number of points accumulated by an insured or applicant for 7 
+insurance under the point system provided for i n Title 16, Subtitle 4 of the Transportation 8 
+Article; or  9 
+ 
+   (ii) the prior claims experience of an insured or applicant for 10 
+insurance.  11 
+ 
+ (C) THE PROVISIONS OF TITLE 11, SUBTITLE 2 OF THIS ARTICLE APPL Y TO 12 
+THE DETERMINATION OF  PREMIUMS BY THE EXECUTIVE DIRECTOR AND THE FILING  13 
+OF RATES WITH THE COMMISSIONER : 14 
+ 
+  (1) BETWEEN JULY 1, 2025,  AND DECEMBER 31, 2025,  BOTH 15 
+INCLUSIVE ; AND 16 
+ 
+  (2) BEGINNING JANUARY 1, 2026,  IF THE RBC  REPORT MOST  17 
+RECENTLY FILED BY TH E FUND SHOWS THAT THE  FUND’S TOTAL ADJUSTED 18 
+CAPITAL IS  LESS THAN THE AMOUNT  REQUIRED UNDER § 20–306( C)(1) § 20–306( C) 19 
+OF THIS TITLE .  20 
+ 
+ [(c)] (D) (1) Premiums for all commercial coverage shall be determined in 21 
+accordance with this section and § 20 –508 of this subtitle.  22 
+ 
+  (2) Notwithstanding paragraph (1) of this subsection, the rating principles 23 
+under subsection [(d)] (E) of this section may not be used to determine the premium for 24 
+commercial coverage.  25 
+ 
+ [(d)] (E) In reviewing rates filed by the Fund, the Commissioner shall consider 26 
+not only the rating principles under Title 11, Subtitle 2 OR SUBTITLE  3 of this article but 27 
+also the statutory purpose of the Fund under § 20 –301 of this title.  28 
+ 
+ [(e)] (F) (1) The Motor  Vehicle Administration and Executive Director may 29 
+arrange for the Motor Vehicle Administration to collect premiums on policies issued by the 30 
+Fund when the Motor Vehicle Administration issues a driver’s license or certificate of 31 
+registration.  32 
+ 
+  (2) A prem ium collected under this subsection shall be paid to the State 33 
+Treasurer for the account of the Fund.  34 
+ 
+4 HOUSE BILL 1098   
+ 
+  [(f)] (G) (1) The Fund may not provide directly or indirectly for the financing 1 
+of premiums.  2 
+ 
+  (2) A premium may be financed only by a premium finance company 3 
+registered with the Commissioner in accordance with § 23 –201 of this article.  4 
+ 
+  (3) If a prospective insured’s initial payment to the Fund, a fund producer, 5 
+or premium finance company is not honored, a policy or endorsement issued in reliance on 6 
+that payment is void.  7 
+ 
+ [(g)] (H) (1) (i) Subject to the approval of the Commissioner and in 8 
+accordance with this subsection, the Fund may accept premiums on an installment 9 
+payment basis.  10 
+ 
+   (ii) In approving the Fund’s plan for accepting premiums on an 11 
+installment payment basis, the Commissioner shall:  12 
+ 
+    1. consider as factors:  13 
+ 
+    A. the percentage of the initial premium payment in 14 
+comparison to the total premium under the policy;  15 
+ 
+    B. the number of installment premium payments accepted on 16 
+a polic y under the installment payment plan; and  17 
+ 
+    C. the overall affordability of the installment payment plan 18 
+in comparison to other payment options available to the policyholder; and  19 
+ 
+    2. ensure that the Fund’s installment payment plan  20 
+meets the requirem ents of § 27 –216 of this article.  21 
+ 
+  (2) The Fund may not discriminate among insureds by charging different 22 
+premiums to insureds who select, as a payment option, the Fund’s installment payment 23 
+plan instead of a premium finance agreement.  24 
+ 
+  (3) In determin ing commissions paid to a fund producer, the Fund may not 25 
+consider whether the fund producer placed an insured in an installment payment plan.  26 
+ 
+  (4) (i) In accordance with this paragraph, written and electronic 27 
+communications, including the Fund’s website , affecting the placement of coverage by the 28 
+Fund or a fund producer shall include a statement, on a form approved by the 29 
+Commissioner, advising an applicant or an insured of the payment options available to the 30 
+applicant or insured.  31 
+ 
+   (ii) The statement  shall state that the applicant or insured has the 32 
+following payment options:  33 
+ 
+ HOUSE BILL 1098  5 
+ 
+     1. the Fund’s installment payment plan;  1 
+ 
+    2. a premium finance agreement; or  2 
+ 
+    3. payment of the policy in full.  3 
+ 
+   (iii) The statement shall be included on written or electronic 4 
+communications at the time the applicant or insured:  5 
+ 
+    1. is issued a new policy; or  6 
+ 
+    2. is issued a reissuance, rewrite, or renewal of an existing 7 
+policy.  8 
+ 
+   (iv) The statement shall state that the applicant or insured should 9 
+consult  a fund producer who will fully describe the terms of each payment option.  10 
+ 
+ [(h)] (I) (1) If the Fund makes a change to its plan for accepting premiums 11 
+on an installment payment basis, within 90 days after the change, the Commissioner shall 12 
+submit a repor t to the General Assembly providing the reason for the change.  13 
+ 
+  (2) The report required under paragraph (1) of this subsection shall:  14 
+ 
+   (i) include the effect the change will have on the required factors for 15 
+consideration under [(g)(1)(ii)1 ] SUBSECTION  (H)(1)( II)1 of this section; and  16 
+ 
+   (ii) be submitted in accordance with § 2 –1257 of the State 17 
+Government Article.  18 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That:  19 
+ 
+ (a) (1) The Maryland Insurance Administration shall establish a workgroup 20 
+to study:  21 
+ 
+  (1) (i) the affordability of private passenger automobile insurance in 22 
+the State, including factors that contribute to premium rate increases and trends in rate 23 
+increases;  24 
+ 
+  (2) (ii) policy options to provide greater transparency regarding 25 
+automobile insurance premiums and to increase the affordability of automobile insurance 26 
+in the State;  27 
+ 
+  (3) (iii) ways in which the term “affordability” has been or may be 28 
+defined in the context of the establishment of private passenger automobile insurance 29 
+premium rates; and  30 
+ 
+6 HOUSE BILL 1098   
+ 
+   (4) (iv) methodologies by which affordability can be considered in 1 
+establishing private p assenger automobile insurance rates consistent with rate making 2 
+principles codified in the Insurance Article ; and  3 
+ 
+   (v) the current financial status of private passenger automobile 4 
+insurers in the State and potential options to address excess profits.  5 
+ 
+  (2) In conducting the study under paragraph (1) of this subsection, the 6 
+workgroup shall seek and consider input from relevant stakeholders, including the 7 
+reinsurance industry . 8 
+ 
+ (b) The workgroup consists of the following members:  9 
+ 
+  (1) one member of the  Senate of Maryland who is a member of the Finance 10 
+Committee, appointed by the President of the Senate;  11 
+ 
+  (2) one member of the House of Delegates who is a member of the Economic 12 
+Matters Committee, appointed by the Speaker of the House;  13 
+ 
+  (3) the Marylan d Insurance Commissioner or the Commissioner’s 14 
+designee;  15 
+ 
+  (4) the Executive Director of the Maryland Automobile Insurance Fund, or 16 
+the Executive Director’s designee; and  17 
+ 
+  (5) the following members, appointed by the chair of the workgroup:  18 
+ 
+   (i) one representative of an automobile insurer or automobile 19 
+insurer trade association; and 20 
+ 
+   (ii) one representative of a consumer advocacy group that is active 21 
+in the area of automobile insurance ; and  22 
+ 
+   (iii) one representative of private passenger automob ile insurance 23 
+producers in the State . 24 
+ 
+ (c) The Maryland Insurance Commissioner or the Commissioner’s designee shall 25 
+chair the workgroup.  26 
+ 
+ (d) On or before January 1, 2026, the workgroup shall report its findings and 27 
+recommendations to the Governor and, in accordance with § 2 –1257 of the State 28 
+Government Article, the General Assembly.  29 
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That, on or before March 15, 2026, 30 
+for calendar year 2025 operating results only, the Board of Trustees of the Maryland 31 
+Automobile In surance Fund may certify the greater of:  32 
+ 
+ HOUSE BILL 1098  7 
+ 
+   (1) the calculation yielded under § 20 –404(b) and (c) of the Insurance 1 
+Article; and  2 
+ 
+  (2) an amount not to exceed $20,000,000.   3 
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect July 4 
+1, 2025. Section 2 of this Act shall remain effective for a period of 1 year and, at the end of 5 
+June 30, 2026, Section 2 of this Act, with no further action required by the General 6 
+Assembly, shall be abrogated and of no further force and effect.  7 
+ 
+ 
+ 
+ 
+Approved:  
+________________________________ ________________________________ ________________   
+           Governor.  
+________________________________ ________________________________ ________________   
+         Speaker of the House of Delegates.  
+________________________________ ________________________________ ________________   
+                 President of the Senate.  

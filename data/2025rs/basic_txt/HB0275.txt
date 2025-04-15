@@ -1,0 +1,254 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the la w by 
+amendment.             *hb0275*      
+HOUSE BILL 275  
+D4   5lr1461  
+HB 1045/24 – JUD  (PRE –FILED)    
+By: Delegate Crutchfield  
+Requested: October 29, 2024  
+Introduced and read first time: January 8, 2025  
+Assigned to: Judiciary  
+Committee Report: Favorable  
+House action: Adopted  
+Read second time: February 27, 2025  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Family Law – Child Support – Multifamily Adjustment  2 
+ 
+FOR the purpose of altering the definition of “adjusted actual income” under the State child 3 
+support guidelines; providing for the calculation of a certain allowance required to 4 
+be deducted from adjusted actual income under the child support guidelines; 5 
+requiring that the amount of a certain allowance  be subtracted from a parent’s actual 6 
+income before the court determines the amount of a child support award; altering 7 
+the factors that the court may consider in determining whether the application of 8 
+the child support guidelines would be unjust or inappro priate in a particular case; 9 
+and generally relating to child support.  10 
+ 
+BY repealing and reenacting, without amendments,  11 
+ Article – Family Law  12 
+Section 12 –201(a) and (b)  13 
+ Annotated Code of Maryland  14 
+ (2019 Replacement Volume and 2024 Supplement)  15 
+ 
+BY repealing and reenacting, with amendments,  16 
+ Article – Family Law  17 
+Section 12 –201(c), 12 –202(a), and 12 –204(a)  18 
+ Annotated Code of Maryland  19 
+ (2019 Replacement Volume and 2024 Supplement)  20 
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 21 
+2 HOUSE BILL 275   
+ 
+ That the  Laws of Maryland read as follows:  1 
+ 
+Article – Family Law  2 
+ 
+12–201. 3 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  4 
+ 
+ (b) (1) “Actual income” means income from any source.  5 
+ 
+  (2) For income from self –employment, rent, royalties, propr ietorship of a 6 
+business, or joint ownership of a partnership or closely held corporation, “actual income” 7 
+means gross receipts minus ordinary and necessary expenses required to produce income.  8 
+ 
+  (3) “Actual income” includes:  9 
+ 
+   (i) salaries;  10 
+ 
+   (ii) wages; 11 
+ 
+   (iii) commissions;  12 
+ 
+   (iv) bonuses;  13 
+ 
+   (v) dividend income;  14 
+ 
+   (vi) pension income;  15 
+ 
+   (vii) interest income;  16 
+ 
+   (viii)  trust income;  17 
+ 
+   (ix) annuity income;  18 
+ 
+   (x) Social Security benefits;  19 
+ 
+   (xi) workers’ compensation benefits;  20 
+ 
+   (xii) unemployment insurance benefits;  21 
+ 
+   (xiii)  disability insurance benefits;  22 
+ 
+   (xiv) for the obligor, any third party payment paid to or for a minor 23 
+child as a result of the obligor’s disability, retirement, or other compensable claim;  24 
+ 
+   (xv) alimony or  maintenance received; and  25 
+ 
+ HOUSE BILL 275  3 
+ 
+    (xvi) expense reimbursements or in –kind payments received by a 1 
+parent in the course of employment, self –employment, or operation of a business to the 2 
+extent the reimbursements or payments reduce the parent’s personal living e xpenses.  3 
+ 
+  (4) Based on the circumstances of the case, the court may consider the 4 
+following items as actual income:  5 
+ 
+   (i) severance pay;  6 
+ 
+   (ii) capital gains;  7 
+ 
+   (iii) gifts; or  8 
+ 
+   (iv) prizes.  9 
+ 
+  (5) “Actual income” does not include benefits received from  10 
+means –tested public assistance programs, including temporary cash assistance, 11 
+Supplemental Security Income, food stamps, and transitional emergency, medical, and 12 
+housing assistance.  13 
+ 
+ (c) (1) “Adjust ed actual income” means actual income minus:  14 
+ 
+  [(1)] (I) preexisting reasonable child support obligations actually paid; 15 
+[and] 16 
+ 
+  [(2)] (II) except as provided in § 12 –204(a)(2) of this subtitle, alimony or 17 
+maintenance obligations actually paid ; AND  18 
+ 
+   (III) AN ALLOWANCE FOR SUP PORT FOR EACH CHILD LIVING IN 19 
+A PARENT ’S HOME TO WHOM THE P ARENT OWES A LEGAL D UTY OF SUPPORT IF TH E 20 
+CHILD IS CONSIDERED TO BE SPENDING MORE THAN 92 OVERNIGHTS IN THE 21 
+PARENT ’S HOME IN A YEAR AND  NOT SUBJECT TO THE S UPPORT ORDER . 22 
+ 
+  (2) FOR PURPOSES OF DETER MINING THE AMOUNT OF  THE 23 
+ALLOWANCE UNDER PARA GRAPH (1)(III) OF THIS SUBSECTION : 24 
+ 
+   (I) THE BASIC CHILD SUPP ORT OBLIGATION FOR E ACH 25 
+ADDITIONAL CHILD IN THE PARENT ’S HOME SHALL BE DETE RMINED IN 26 
+ACCORDANCE WITH § 12–204 OF THIS SUBT ITLE, USING ONLY THE ACTUA L INCOME 27 
+OF THE PARENT ENTITL ED TO THE DEDUCTION ; AND 28 
+ 
+   (II) THE AMOUNT DETERMINE D UNDER ITEM (I) OF THIS 29 
+PARAGRAPH SHALL BE M ULTIPLIED BY 75%. 30 
+ 
+  (3) THE COURT SHALL DECLI NE TO AWARD AN ALLOW ANCE UNDER 31 
+4 HOUSE BILL 275   
+ 
+ PARAGRAPH (1) OF THIS SUBSECTION IF THE CO URT FINDS , AFTER CONSIDERING 1 
+THE EVIDENCE AND THE  BEST INTEREST OF THE  CHILD FOR WHOM SUPPO RT IS 2 
+BEING DETERMINED , THAT THE APPLICATION  OF AN ALLOWANCE WOUL D BE 3 
+UNJUST OR INAPPROPRI ATE. 4 
+ 
+12–202. 5 
+ 
+ (a) (1) Subject to the provisions of pa ragraph (2) of this subsection and 6 
+subsection (b) of this section, in any proceeding to establish or modify child support, 7 
+whether pendente lite or permanent, the court shall use the child support guidelines set 8 
+forth in this subtitle.  9 
+ 
+  (2) (i) There is a rebuttable presumption that the amount of child 10 
+support which would result from the application of the child support guidelines set forth in 11 
+this subtitle is the correct amount of child support to be awarded.  12 
+ 
+   (ii) The presumption may be rebutted by evidence that the 13 
+application of the guidelines would be unjust or inappropriate in a particular case.  14 
+ 
+   (iii) In determining whether the application of the guidelines would 15 
+be unjust or inappropriate in a particular case, the court may consider  ANY FINA NCIAL 16 
+CONSIDERATIONS : 17 
+ 
+    1. [the terms of any ] SPECIFIED IN AN  existing separation 18 
+or property settlement agreement or court order, including : 19 
+ 
+    A. any provisions for payment of mortgages [or], marital 20 
+debts, [payment of ] OR college education expenses [,]; 21 
+ 
+    B. the terms of any use and possession order or right to 22 
+occupy the family home under an agreement [,]; AND 23 
+ 
+    C. any direct payments made for the benefit of the children 24 
+required by THE agreement or order [, or any other financial considerations  set out in an 25 
+existing separation or property settlement agreement or court order ]; 26 
+ 
+    2. [the presence in the household of either parent of other 27 
+children to whom that parent owes a duty of support and the expenses for whom that parent 28 
+is directly cont ributing; and ] THAT THE COURT DEEMS  RELEVANT TO THE BEST  29 
+INTERESTS OF THE CHI LD WHO IS THE SUBJEC T OF THE CHILD SUPPO RT ORDER ; OR 30 
+ 
+    3. [whether an obligor’s monthly child support obligation ] 31 
+THAT  would leave the obligor with a monthly actual income belo w 110% of the 2019 federal 32 
+poverty level for an individual.  33 
+ 
+ HOUSE BILL 275  5 
+ 
+    (iv) [The presumption may not be rebutted solely on the basis of 1 
+evidence of the presence in the household of either parent of other children to whom that 2 
+parent owes a duty of support and the  expenses for whom that parent is directly 3 
+contributing.  4 
+ 
+   (v)] 1. If the court determines that the application of the 5 
+guidelines would be unjust or inappropriate in a particular case, the court shall make a 6 
+written finding or specific finding on the record stating the reasons for departing from the 7 
+guidelines.  8 
+ 
+    2. The court’s finding shall state:  9 
+ 
+    A. the amount of child support that would have been required 10 
+under the guidelines;  11 
+ 
+    B. how the order varies from the guidelines;  12 
+ 
+    C. how the finding serves the best interests of the child WHO 13 
+IS THE SUBJECT OF TH E ORDER ; and  14 
+ 
+    D. in cases in which items of value are conveyed instead of a 15 
+portion of the support presumed under the guidelines, the estimated value of the items 16 
+conveyed.  17 
+ 
+12–204. 18 
+ 
+ (a) (1) The basic child support obligation shall be determined in accordance 19 
+with the schedule of basic child support obligations in subsection (e) of this section. The 20 
+basic child support obligation shall be divided between the parents in propo rtion to their 21 
+adjusted actual incomes.  22 
+ 
+  (2) (i) If one or both parents have made a request for alimony or 23 
+maintenance in the proceeding in which a child support award is sought, the court shall 24 
+decide the issue and amount of alimony or maintenance befor e determining the child 25 
+support obligation under these guidelines.  26 
+ 
+   (ii) If the court awards alimony or maintenance, the amount of 27 
+alimony or maintenance awarded shall be considered actual income for the recipient of the 28 
+alimony or maintenance and shall  be subtracted from the income of the payor of the alimony 29 
+or maintenance under [§ 12–201(c)(2) ] § 12–201( C)(1)( II) of this subtitle before the court 30 
+determines the amount of a child support award.  31 
+ 
+  (3) THE AMOUNT OF THE ALL OWANCE FOR THE SUPPO RT OF 32 
+ADDI TIONAL CHILDREN LIVI NG IN A PARENT ’S HOME DESCRIBED IN §  33 
+12–201( C)(1)( III) OF THIS SUBTITLE SHA LL BE SUBTRACTED FRO M THE PARENT ’S 34 
+6 HOUSE BILL 275   
+ 
+ ACTUAL INCOME BEFORE  THE COURT DETERMINES  THE AMOUNT OF A CHIL D 1 
+SUPPORT AWARD . 2 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That t his Act shall take effect 3 
+October 1, 2025 . 4 
+ 
+ 
+ 
+ 
+Approved:  
+________________________________ ________________________________ ________________   
+           Governor.  
+________________________________ ________________________________ ________________   
+         Speaker of the House of Delegates.  
+________________________________ ________________________________ ________________   
+                 President of the Senate.  

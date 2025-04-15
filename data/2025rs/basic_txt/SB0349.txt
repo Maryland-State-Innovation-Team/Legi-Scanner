@@ -1,0 +1,171 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.             *sb0349*      
+SENATE BILL 349  
+N1, D3    5lr1743  
+HB 673/24 – HGO    CF HB 428  
+By: Senator Love  
+Introduced and read first time: January 16, 2025  
+Assigned to: Judicial Proceedings  
+Committee Report: Favorable with amendments  
+Senate action: Adopted  
+Read second time: February 22, 2025  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Medical Debt – Complaints for Money Judgment and Real Property Liens  2 
+ 
+FOR the purpose of establishing certain requirements for a complaint for a money 3 
+judgment; prohibiting the creation of a lien on owner –occupied residential property 4 
+by contract or as a result of a breach of contract for the payment of medical debt; and 5 
+generally relating to contract lien s and medical debt.  6 
+ 
+BY repealing and reenacting, with amendments,  7 
+ Article – Courts and Judicial Proceedings  8 
+Section 11 –401 and 11 –402 9 
+ Annotated Code of Maryland  10 
+ (2020 Replacement Volume and 2024 Supplement)  11 
+ 
+BY repealing and reenacting, without amend ments,  12 
+ Article – Real Property  13 
+Section 7 –105.1(a)(8)  14 
+ Annotated Code of Maryland  15 
+ (2023 Replacement Volume and 2024 Supplement)  16 
+ 
+BY adding to  17 
+ Article – Real Property  18 
+Section 14 –203.1  19 
+ Annotated Code of Maryland  20 
+ (2023 Replacement Volume and 2024 Supplement)  21 
+ 
+2 SENATE BILL 349   
+ 
+  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 1 
+That the Laws of Maryland read as follows:  2 
+ 
+Article – Courts and Judicial Proceedings  3 
+ 
+11–401. 4 
+ 
+ (a) In this subtitle the following terms have the meanings indicated.  5 
+ 
+ (b) “Court”  means a court of law or a court of equity and includes the United 6 
+States District Court for the District of Maryland, the United States Bankruptcy Court for 7 
+the District of Maryland, the Supreme Court of Maryland, the Appellate Court of Maryland, 8 
+A CIRCUI T COURT OF A COUNTY OR BALTIMORE CITY, and the District Court of 9 
+Maryland.  10 
+ 
+ (c) (1) “Money judgment” means a judgment determining that a specified 11 
+amount of money is immediately payable to the judgment creditor.  12 
+ 
+  (2) “Money judgment” does not include a judgment mandating the payment 13 
+of money.  14 
+ 
+11–402. 15 
+ 
+ (a) (1) In this section [, “land” ] THE FOLLOWING WORDS HAVE THE 16 
+MEANINGS INDICATED .  17 
+ 
+  (2) “LAND” means real property or any interest in or appurtenant to real 18 
+property.  19 
+ 
+  (3) “MEDICAL DEBT ” HAS THE MEANING STATED IN § 14–203.1  OF 20 
+THE REAL PROPERTY ARTICLE . 21 
+ 
+ (b) (1) A COMPLAINT SEEKING A MONEY JUDGMENT SHALL  INDICATE 22 
+WHETHER THE JUDGMENT  SOUGHT IS FOR MEDICA L DEBT . 23 
+ 
+  (2) A COMPLAINT SEEKING A MONEY JUDGMENT FOR M EDICAL DEBT 24 
+SHALL INCLUDE THE AD DRESS  OF THE PRIMARY RESID ENCE OF THE DEFENDAN T. 25 
+ 
+ (C) If indexed and recorded as prescribed by the Maryland Rules, a money 26 
+judgment of a court constitutes a lien to the amount and from the date of the judgment on 27 
+the judgment debtor’s interest in land located in the county in which the judgment was 28 
+rendered except :  29 
+ 
+  (1) FOR a lease from year to year or for a term of not more than five years 30 
+and not renewable ; AND  31 
+ 
+ SENATE BILL 349  3 
+ 
+   (2) AS PROVIDED IN § 14–203.1  OF THE REAL PROPERTY ARTICLE . 1 
+ 
+ [(c)] (D) If indexed and recorded as prescribed by the Maryland Rules, a money 2 
+judgment constitutes a lien on the judgment debtor’s interest in land located in a county 3 
+other than the county in which the judgment was originally entered, except : 4 
+ 
+  (1) FOR a lease from year to year  or for a term not more than five years 5 
+and not renewable ; AND  6 
+ 
+  (2) AS PROVIDED IN § 14–203.1  OF THE REAL PROPERTY ARTICLE . 7 
+ 
+ [(d)] (E) Promptly after the entry of an order of satisfaction or the filing of a 8 
+written statement by a judgment creditor with the clerk of the court that a judgment of a 9 
+court has been satisfied, the clerk of the court shall make an entry of the word “satisfied” 10 
+on the horizontal line in the judgment record where the lien is indexed.  11 
+ 
+Article – Real Property  12 
+ 
+7–105.1.  13 
+ 
+ (a) (8) “Owner –occupied residential property” means residential property in 14 
+which at least one unit is occupied by an individual who:  15 
+ 
+   (i) Has an ownership interest in the property; and  16 
+ 
+   (ii) Uses the property as the individual’s primary residence.  17 
+ 
+14–203.1 . 18 
+ 
+ (A) (1) IN THIS SECTION THE F OLLOWING WORDS HAVE THE MEANINGS 19 
+INDICATED . 20 
+ 
+  (2) (I) “MEDICAL DEBT ” MEANS DEBT INCURRED DUE TO  A 21 
+MEDICATION , PROCEDURE , OR SERVICE  A DEBT OWED BY A CON SUMER TO A PERSON 22 
+WHOSE PRIMARY BUSINE SS IS PROVIDING MEDI CAL SERVICES , PRODUCTS , OR 23 
+DEVICES , OR TO THE PERSON ’S AGENT OR ASSIGNEE , FOR THE PROVISION OF  THE 24 
+MEDICAL SERVICES , PRODUCTS , OR DEVICES . 25 
+ 
+   (II) “MEDICAL DEBT ” DOES NOT INCLUDE DEB T CHARGED TO A 26 
+CREDIT CARD UNLESS T HE CREDIT CARD IS IS SUED UNDER AN OPEN –END  OR 27 
+CLOSED–END CREDIT PLAN OFFE RED SOLELY FOR THE P AYMENT OF HEALTH CAR E 28 
+SERVICES . 29 
+ 
+  (3) “OWNER–OCCUPIED RESIDENTIAL  PROPERTY ” HAS THE MEANING 30 
+STATED IN § 7–105.1  OF THIS ARTICLE . 31 
+4 SENATE BILL 349   
+ 
+  
+ (B) A LIEN ON OWNER –OCCUPIED RESIDENTIAL  PROPERTY MAY NOT BE 1 
+CREATED BY CONTRACT OR AS A RES ULT OF A BREACH OF C ONTRACT FOR THE 2 
+PAYMENT OF MEDICAL D EBT. 3 
+ 
+ (C) IF A LIEN IS CREATED IN VIOLATION OF THIS  SECTION , THE COURT : 4 
+ 
+  (1) SHALL REMOVE THE LIEN ; AND  5 
+ 
+  (2) MAY AWARD TO THE OWNE R OF THE PROPERTY EC ONOMIC  6 
+DAMAGES SUFFERED A S A RESULT OF THE VI OLATION  SHALL REMOVE THE LIE N. 7 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to 8 
+apply only prospectively and may not be applied or interpreted to have any effect on or 9 
+application to any complaint filed before  the effective date of this Act.  10 
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 11 
+October 1, 2025.  12 
+ 
+ 
+ 
+Approved:  
+________________________________ ________________________________ ________________   
+           Governor.  
+________________________________ ________________________________ ________________   
+                 President of the Senate.  
+________________________________ ________________________________ ________________   
+         Speaker of the House of Delegates.  

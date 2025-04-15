@@ -1,0 +1,321 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.  
+         Italics indicate opposite chamber/conference committee amendments.             *sb0294*      
+SENATE BILL 294  
+P1, S2    (5lr2179 ) 
+ENROLLED BILL  
+— Education, Energy, and the Environment/Health and Government Operations  — 
+Introduced by Senator Feldman  Senators Feldman, Attar, Brooks, Hester, Kagan, 
+Simonaire, and Watson  
+ 
+Read and Examined by Proofreaders:  
+ 
+_______________________________________________  
+Proofreader.  
+_______________________________________________  
+Proofreader.  
+ 
+Sealed with the Great Seal and pr esented to the Governor, for his approval this  
+  
+_______ day of _______________ at ________________________ o’clock, ________M.  
+  
+______________________________________________  
+President .  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Maryland Cybersecurity Council – Membership – Alterations  2 
+ 
+FOR the purpose of altering the selection of the membership and chair of the Maryland 3 
+Cybersecurity Council; requiring the Council, working with certain entities, to assess 4 
+and address cybersecurity threats and associated risks from artificial intelligence 5 
+and quantum computing;  and generally relating to the Maryland Cybersecurity 6 
+Council membership . 7 
+ 
+BY repealing and reenacting, without amendments,  8 
+ Article – State Government  9 
+Section 9–2901(b)  10 
+ Annotated Code of Maryland  11 
+ (2021 Replacement Volume and 2024 Supplement)  12 
+ 
+2 SENATE BILL 294   
+ 
+ BY repealing and reenacting, with amendments,  1 
+ Article – State Government  2 
+Section 9 –2901(c) and, (f), and (j)  3 
+Annotated Code of Maryland  4 
+ (2021 Replacement Volume and 202 4 Supplement)  5 
+ 
+BY repealing  6 
+ Article – State Government  7 
+Section 9 –2901(g)  8 
+Annotated Code of Maryland  9 
+ (2021 Replacement Volume and 2024 Supplement)  10 
+ 
+BY adding to  11 
+ Article – State Government  12 
+Section 9 –2901(g)  13 
+Annotated Code of Maryland  14 
+ (2021 Replacement Volume and 2024 Supplement)  15 
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 16 
+That the Laws of Maryland read as follows:  17 
+ 
+Article – State Government  18 
+ 
+9–2901.  19 
+ 
+ (b) There is a Maryland Cybersecurity Council.  20 
+ 
+ (c) The Council consists of the following members:  21 
+ 
+  (1) the Attorney General, or the Attorney General’s designee;  22 
+ 
+  (2) the Secretary of Information Technology, or the Secretary’s designee;  23 
+ 
+  (3) the Secretary of State Police, or the Secretary’s designee;  24 
+ 
+  (4) the Secretary of Commerce, or the Secretary’s designee;  25 
+ 
+  (5) the Adjutant General, or the Adjutant General’s designee;  26 
+ 
+  (6) the State Administrator of Elections, or the State Administrator’s 27 
+designee;  28 
+ 
+  (7) the Executive Director of the Governor’s Office of Homeland S ecurity, 29 
+or the Executive Director’s designee;  30 
+ 
+  (8) the Director of the Maryland Coordination and Analysis Center, or the 31 
+Director’s designee;  32 
+ SENATE BILL 294  3 
+ 
+  
+  (9) the Secretary of Emergency Management, or the Secretary’s designee;  1 
+ 
+  (10) THE PEOPLE’S COUNSEL , OR THE  DESIGNEE OF THE PEOPLE’S 2 
+COUNSEL ; 3 
+ 
+  (11)  the Chief Executive Officer of the Maryland Technology Development 4 
+Corporation, or the Chief Executive Officer’s designee;  5 
+ 
+  (11) (12) the Chair of the Tech Council of Maryland, or the Chair’s 6 
+designee;  7 
+ 
+  (12) (13) the President of the Fort Meade Alliance, or the President’s 8 
+designee;  9 
+ 
+  (13) (14) the President of the Army Alliance, or the President’s designee; 10 
+and 11 
+ 
+  (14) (15) the following members appointed by the [Attorney General ] 12 
+GOVERNOR : 13 
+ 
+   (i) five FOUR  representatives of cybersecurity companies located in 14 
+the State, with at least three representing cybersecurity companies with 50 or fewer 15 
+employees , DESIGNATED BY THE CYBERSECURITY ASSOCIATION OF MARYLAND ; 16 
+ 
+   (ii) four representatives from statewide or regional business 17 
+associations;  18 
+ 
+  (16)  THE CHIEF EXECUTIVE OFFICER OF THE MARYLAND CHAMBER 19 
+OF COMMERCE , OR THE CHIEF EXECUTIVE OFFICER’S DESIGNEE ; 20 
+ 
+  (17)  THE EXECUTIVE DIRECTOR OF THE CYBERSECURITY 21 
+ASSOCIATION OF MARYLAND , OR THE EXECUTIVE DIRECTOR ’S DES IGNEE ;  22 
+ 
+   (iii) up to ten  23 
+ 
+  (18)  EIGHT  NINE  representatives from institutions of higher education 24 
+located in the State WITH EXPERTISE IN CY BERSECURITY , WITH AT LEAST FOUR 25 
+REPRESENTATIVES WITH  EXPERTISE IN ARTIFIC IAL INTELLIGENCE AND  QUANTUM 26 
+COMPUTING , INCLUDING : 27 
+ 
+   (I) THE PRESIDENT , OR THE PRESIDENT ’S DESIGNEE , OF: 28 
+ 
+    1. BOWIE STATE UNIVERSITY ; 29 
+ 
+4 SENATE BILL 294   
+ 
+     2. JOHNS HOPKINS UNIVERSITY ; 1 
+ 
+    3. MORGAN STATE UNIVERSITY ; 2 
+ 
+    4. THE UNIVERSITY OF MARYLAND , BALTIMORE 3 
+CAMPUS ; 4 
+ 
+    5. THE UNIVERSITY OF MARYLAND , BALTIMORE 5 
+COUNTY ; AND  6 
+ 
+    6. THE UNIVERSITY OF MARYLAND , COLLEGE PARK 7 
+CAMPUS ; AND  8 
+ 
+   (II) THE DEAN OF THE UNIVERSITY OF MARYLAND GLOBAL 9 
+CAMPUS SCHOOL OF CYBERSECURITY AND INFORMATION TECHNOLOGY , OR THE 10 
+DEAN’S DESIGNEE ; AND  11 
+ 
+   (II) TWO ADDITIONAL REPRESENTATIVES DESI GNATED BY THE 12 
+UNIVERSITY SYSTEM OF MARYLAND , WITH DUE CONSIDERATI ON OF GEOGRAPHIC 13 
+DIVERSITY ; 14 
+ 
+   (III) TWO ADDITIONAL REPRE SENTATIVES DESIGNATE D BY THE 15 
+CHANCELLOR OF THE UNIVERSITY SYSTEM OF MARYLAND ; 16 
+ 
+   (iv) one representative of a cr ime victims organization;  17 
+ 
+   (v) four representatives from industries that may be susceptible to 18 
+attacks on cybersecurity, including at least one representative of a bank, whether or not 19 
+State –chartered, that has a branch in the State;  20 
+ 
+   (vi) two representatives of organizations that have expertise in 21 
+electronic health care records; and  22 
+ 
+  (19)  THE DIRECTOR OF CASH  CAMPAIGN OF MARYLAND , OR THE 23 
+DIRECTOR ’S DESIGNEE ; 24 
+ 
+  (20)  THE EXECUTIVE DIRECTOR OF ECONOMIC ACTION MARYLAND , 25 
+OR THE EXECUTIVE DIRECTOR ’S DESIGNEE ; 26 
+ 
+  (21)  ONE BANK CHIEF INFOR MATION SECURITY OFFI CER, DESIGNATED 27 
+BY THE MARYLAND BANKERS ASSOCIATION ; 28 
+ 
+  (22)  ONE HOSPITAL CHIEF I NFORMATION SECURITY OFFICER , 29 
+DESIGNATED BY THE MARYLAND HOSPITAL ASSOCIATION ; 30 
+ 
+ SENATE BILL 294  5 
+ 
+   (23)  ONE WATER SYSTEMS CH IEF INFO RMATION SECURITY OFF ICER 1 
+WHO WORKS FOR A WATE R SYSTEM LOCATED IN THE STATE , DESIGNATED BY THE 2 
+NATIONAL ASSOCIATION OF WATER COMPANIES ; 3 
+ 
+  (24)  ONE ELECTRIC COMPANY  CHIEF INFORMATION SE CURITY 4 
+OFFICER WHO WORKS IN  THE STATE FOR AN ELECTRIC  COMPANY SERVING 5 
+CUSTOMERS IN THE STATE , DESIGNATED BY THE EDISON ELECTRIC INSTITUTE ; 6 
+ 
+  (25)  THE EXECUTIVE DIRECTOR OF THE ELECTRONIC PRIVACY 7 
+INFORMATION CENTER , OR THE EXECUTIVE DIRECTOR ’S DESIGNEE ; 8 
+ 
+  (26)  THE EXECUTIVE DIRECTOR OF THE CENTER FOR DEMOCRACY 9 
+AND TECHNOLOGY , OR THE EXECUTIVE DIRECTOR ’S DESIGNEE ; 10 
+ 
+  (27)  THE CHIEF EXECUTIVE OFFICER OF THE TECHNOLOGY 11 
+ADVANCEMENT CENTER , OR THE CHIEF EXECUTIVE OFFICER’S DESIGNEE ; 12 
+ 
+  (28)  THE DIRECTOR OF THE CENTER FOR GOVERNANCE OF 13 
+TECHNOLOGY AND SYSTEMS , OR THE DIRECTOR ’S DESIGNEE ; AND  14 
+ 
+   (vii) (29) any other stakeholder that the [Attorney General ] 15 
+GOVERNOR  CHAIR  determines appropriate.  16 
+ 
+ (f) The [Attorney General ] GOVERNOR  CHAIR  also shall invite, as appropriate, 17 
+the following representatives of federal agencies to serve on the Council:  18 
+ 
+  (1) the Director of the National Security Agency, or the Director’s designee;  19 
+ 
+  (2) the Secretary of Homeland Security, or the Secretary’s de signee;  20 
+ 
+  (3) the Director of the Defense Information Systems Agency, or the 21 
+Director’s designee;  22 
+ 
+  (4) THE DIRECTOR OF THE NATIONAL INSTITUTE FOR SCIENCE AND 23 
+TECHNOLOGY , OR THE DIRECTOR ’S DESIGNEE ; 24 
+ 
+  (5) the Director of the Intelligence Advanced Resear ch Projects Activity, or 25 
+the Director’s designee; and  26 
+ 
+  (5) (6)  any other federal agency that the Attorney General  CHAIR  27 
+determines appropriate.  28 
+ 
+ [(g) The Attorney General, or the Attorney General’s designee, shall chair the 29 
+Council. ] 30 
+ 
+6 SENATE BILL 294   
+ 
+  (G) (1) BEGINNING  SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , 1 
+BEGINNING  OCTOBER 1, 2025,  AND EVERY 2 YEARS THEREAFTER , THE COUNCIL 2 
+SHALL ELECT A CHAIR AND VICE CHAIR  FROM AMONG THE MEMBE RS OF THE 3 
+COUNCIL . 4 
+ 
+  (2) ONE SHALL BE A STATE EMPLOYEE AND ON E SHALL BE A  5 
+NON–STATE EMPLOYEE . 6 
+ 
+ (j) The Council shall work with the National Institute of Standards and 7 
+Technology and other federal agencies, private sector businesses, NONPROFITS , and 8 
+private cybersecurity experts to ASSESS AND ADDRESS C YBERSECURITY THREATS  AND 9 
+ASSOCIATED RISKS FRO M ARTIFICIAL INTELLI GENCE AND QUANTUM CO MPUTING 10 
+TO: 11 
+ 
+  (1) for critical infrastructure [not covered by federal law or the Executive 12 
+Order ], review and conduct risk assessments to determine which local infrastructure 13 
+sectors are at the greatest risk of cyber attacks and need the most enhanced cybersecurity 14 
+measures;  15 
+ 
+  (2) use federal guidance to identify categories of critical infrastructure as 16 
+critical cyber infrastructure if cyber damage or unauthorized cyber access to the 17 
+infrastruct ure could reasonably result in catastrophic consequences, including:  18 
+ 
+   (i) interruption in the provision of energy, water, transportation, 19 
+emergency services, food, or other life –sustaining services sufficient to cause a mass 20 
+casualty event or mass evacu ations;  21 
+ 
+   (ii) catastrophic economic damage; or  22 
+ 
+   (iii) severe degradation of State or national security;  23 
+ 
+  (3) assist infrastructure entities that are not covered by the Executive 24 
+Order in complying with federal cybersecurity guidance;  25 
+ 
+  (4) assist private sector cybersecurity businesses in adopting, adapting, 26 
+and implementing the National Institute of Standards and Technology cybersecurity 27 
+framework of standards and practices;  28 
+ 
+  (5) examine inconsistencies between State and federal laws regarding 29 
+cybersecurity;  30 
+ 
+  (6) recommend a comprehensive State strategic plan to ensure a 31 
+coordinated and adaptable response to and recovery from cybersecurity attacks; [and] 32 
+ 
+ SENATE BILL 294  7 
+ 
+   (7) ADDRESS SENSITIVE PR IVACY INTERESTS OF STATE RESIDENTS 1 
+RELATED TO CYBERSECU RITY AND ASSOCIATED RISKS ; 2 
+ 
+  (8) ADDRESS EMERGING THR EATS POSED BY ARTIFI CIAL 3 
+INTELLIGENCE , INCLUDING : 4 
+ 
+   (I) ADVERSARIAL ARTIFICI AL INTELLIGENCE ; 5 
+ 
+   (II) CYBER ATTACKS ; 6 
+ 
+   (III) DEEPFAKE TECHNOLOGIE S; 7 
+ 
+   (IV) UNETHICAL USE ; AND  8 
+ 
+   (V) FRAUD ; AND  9 
+ 
+  [(7)] (9) recommend any legislative changes considered necessary by the 10 
+Council to address cybersecurity issues.  11 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That it is the intent of the General 12 
+Assembly that the Maryland Cybersecurity Council reviews and adjusts its su bcommittee 13 
+structure, if necessary, and implements appropriate bylaws of operation consistent with 14 
+State law by December 1, 2025.  15 
+ 
+ SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 16 
+October 1, 2025.  17 
+ 
+ 
+ 
+Approved:  
+________________________________ ________________________________ ________________   
+           Governor.  
+________________________________ ________________________________ ________________   
+                 President of the Senate.  
+________________________________ ________________________________ ________________   
+         Speaker of the House of Delegates.  

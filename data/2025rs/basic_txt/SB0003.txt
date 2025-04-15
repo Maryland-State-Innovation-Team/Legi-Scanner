@@ -1,0 +1,236 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.             *sb0003*      
+SENATE BILL 3  
+P2, K3    5lr1469  
+  (PRE –FILED)  CF HB 850  
+By: Senator Ellis  
+Requested: October 29, 2024  
+Introduced and read first time: January 8, 2025  
+Assigned to: Finance  
+Committee Report: Favorable with amendments  
+Senate action: Adopted  
+Read second time: March 11, 2025  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Procurement – Public Work Contracts – Data Dashboar d 2 
+(Maryland Public Works and Apprenticeship Transparency Act)  3 
+Workgroup on the Creation of a Data Dashboard for Public Work Contracts and 4 
+Apprentices – Establishment  5 
+ 
+FOR the purpose of requiring the Commissioner of Labor and Industry to develop and 6 
+maintain a data dashboard that includes certain information relating to contractors, 7 
+subcontractors, employees, and apprentices working under public work contracts; 8 
+requiring each contractor who is contracted under a public work contract to provide 9 
+certain information to the Commissioner; requiring the Commissioner to update the 10 
+data dashboard on a certain basis, post the data dashboard on the Maryland 11 
+Department of Labor website, and maintain a certain cache; and generally relating 12 
+to public work contracts  establishing the Workgroup on the Creation of a  Data 13 
+Dashboard for Public Work Contracts and Apprentices to study the most efficient 14 
+and cost –effective method to create a publicly available data dashboard that 15 
+disaggregates information regarding public work contracts with the State and 16 
+apprentices work ing under the public work contracts; and generally relating to the 17 
+Workgroup on the Creation of a Data Dashboard for Public Work Contracts and 18 
+Apprentices . 19 
+ 
+BY adding to  20 
+ Article – State Finance and Procurement  21 
+Section 17 –206 22 
+ Annotated Code of Maryland  23 
+2 SENATE BILL 3   
+ 
+  (2021 Replacement Volume and 2024 Supplement)  1 
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 2 
+That the Laws of Maryland read as follows : 3 
+ 
+ (a) There is a Workgroup on the Creation of a Data Dashboard for Public Work 4 
+Contracts and Apprentices.  5 
+ 
+ (b) The Workgroup consists of the following members:  6 
+ 
+  (1) three members of the Senate of Maryland, appointed by the President 7 
+of the Senate;  8 
+ 
+  (2) three members of the House of Delegates, appointed by the Speaker of 9 
+the House;  10 
+ 
+  (3) the Secretary of Labor, or the Secretary’s designee;  11 
+ 
+  (4) the Commissioner of Labor and Industry, or the Commissioner’s 12 
+designee; and  13 
+ 
+  (5) the following members, appointed by the Governor:  14 
+ 
+   (i) one representative of the Baltimore –DC Building Trades 15 
+Council, selected by the President of the Council;  16 
+ 
+   (ii) one representative of the Mid –Atlantic Pipe Trades Association;  17 
+ 
+   (iii) one representative who is an attorney and a member of 18 
+Steamfitters Union Local 602;  19 
+ 
+   (iv) one representative of the Ass ociated Builders and Contractors of 20 
+Maryland (ABC);  21 
+ 
+   (v) one representative of the Independent Electrical Contractors 22 
+(IEC) Chesapeake; and  23 
+ 
+   (vi) one representative of the Maryland Minority Contractors 24 
+Association (MMCA).  25 
+ 
+ (c) The President of the Senate and the Speaker of the House shall designate the 26 
+co–chairs of the Workgroup.  27 
+ 
+ (d) The Commissioner of Labor and Industry shall provide staff for the 28 
+Workgroup.  29 
+ 
+ (e) A member of the Workgroup:  30 
+ SENATE BILL 3  3 
+ 
+  
+  (1) may not receive compensation as a member of the Workgroup; but  1 
+ 
+  (2) is entitled to reimbursement for expenses under the Standard State 2 
+Travel Regulations, as provided in the State budget.  3 
+ 
+ (f) At the first meeting of the Workgroup that occurs on or after July 1, 2025, the 4 
+Workgroup shall vote to adop t a code of conduct providing for the acceptable conduct of 5 
+Workgroup members.  6 
+ 
+ (g) The Workgroup shall:  7 
+ 
+  (1) study the most efficient and cost –effective method to create a publicly 8 
+available data dashboard that disaggregates information regarding publi c work contracts 9 
+with the State, including information on:  10 
+ 
+   (i) the name of each contractor and subcontractor working under a 11 
+public work contract;  12 
+ 
+   (ii) wages, including overtime wages, and benefits paid to each 13 
+employee of a contractor or subcontractor working under a public work contract;  14 
+ 
+   (iii) the job classification of each employee employed by a contractor 15 
+or subcontractor working under a public w ork contract;  16 
+ 
+   (iv) apprentices working under each contractor and subcontractor for 17 
+public works contracts, including:  18 
+ 
+    1. the number of apprentices employed;  19 
+ 
+    2. demographic information for each apprentice;  20 
+ 
+    3. the date each apprentice registered with the Maryland 21 
+Department of Labor;  22 
+ 
+    4. the trade practiced by each apprentice; and  23 
+ 
+    5. the certification status of each apprentice; and  24 
+ 
+   (v) each apprenticeship program sponsored by each contractor or 25 
+subcontractor working under a  public work contract; and  26 
+ 
+  (2) make recommendations regarding:  27 
+ 
+   (i) where the data dashboard shall be located;  28 
+ 
+4 SENATE BILL 3   
+ 
+    (ii) necessary costs associated with the development and 1 
+maintenance of the data dashboard; and  2 
+ 
+   (iii) time frames during which the data dashboard can be developed 3 
+and implemented and the frequency with which the information in the data dashboard can 4 
+be updated.  5 
+ 
+ (h) On or before January 7, 2027, the Workgroup shall report its findings and 6 
+recommendations to the Governor and, in accor dance with § 2 –1257 of the State 7 
+Government Article, the General Assembly.   8 
+ 
+Article – State Finance and Procurement  9 
+ 
+17–206.  10 
+ 
+ (A) THE COMMISSIONER SHALL DE VELOP A CLEAR AND  11 
+EASY–TO–UNDERSTAND GRAPHIC D ATA DASHBOARD THAT I NCLUDES , FOR EACH  12 
+ONGOING PUBLIC  WORK CONTRACT : 13 
+ 
+  (1) THE NAME OF EACH CON TRACTOR AND SUBCONTR ACTOR  14 
+WORKING UNDER THE PU BLIC WORK CONTRACT ; 15 
+ 
+  (2) THE FOLLOWING INFORM ATION REGARDING THE EMPLOYEES OF  16 
+EACH CONTRACTOR AND SUBCONTRACTOR WORKIN G UNDER THE PUBLIC W ORK  17 
+CONTRACT : 18 
+ 
+   (I) THE PREVAILING WAGE RATE S PAID BY EACH CONTR ACTOR  19 
+OR SUBCONTRACTOR ; 20 
+ 
+   (II) THE NUMBER OF EMPLOY EES EMPLOYED BY EACH  21 
+CONTRACTOR OR SUBCON TRACTOR ; 22 
+ 
+   (III) THE REGULAR WAGES AN D OVERTIME WAGES PAI D BY THE  23 
+CONTRACTOR OR SUBCON TRACTOR ; 24 
+ 
+   (IV) ANY FRINGE BENEFITS PROVIDED TO  EMPLOYEES BY THE  25 
+CONTRACTOR OR SUBCON TRACTOR ;  26 
+ 
+   (V) THE JOB CLASSIFICATI ON OF EACH EMPLOYEE EMPLOYED  27 
+BY THE CONTRACTOR OR  SUBCONTRACTOR ; AND  28 
+ 
+   (VI) ANY ADDITIONAL INFOR MATION DETERMINED NE CESSARY  29 
+BY THE COMMISSIONER ; AND  30 
+ 
+ SENATE BILL 3  5 
+ 
+   (3) (I) THE NUMBER OF APPREN TICES WORKING FOR EA CH 1 
+CONTRACTOR OR SUBCON TRACTOR ; 2 
+ 
+   (II) THE TRADE PRACTICED BY EACH APPRENTICE W ORKING  3 
+FOR EACH CONTRACTOR OR SUBCONTRACTOR ; 4 
+ 
+   (III) THE CERTIFICATION ST ATUS OF EACH APPRENT ICE 5 
+WORKING FOR EACH CON TRACTOR OR SUB CONTRACTOR ; 6 
+ 
+   (IV) CONTACT INFORMATION FOR EACH APPRENTICES HIP 7 
+PROGRAM SPONSOR ;  8 
+ 
+   (V) DEMOGRAPHIC DATA FOR  EACH APPRENTICE WORK ING FOR  9 
+EACH CONTRACTOR OR S UBCONTRACTOR ; AND  10 
+ 
+   (VI) THE DATE EACH APPREN TICE REGISTERED WITH  THE 11 
+MARYLAND DEPARTMENT OF LABOR . 12 
+ 
+ (B) EACH CONTRACTOR WHO I S CONTRACTED UNDER A  PUBLIC WORK  13 
+CONTRACT SHALL PROVI DE THE COMMISSIONER WITH THE  INFORMATION LISTED  14 
+UNDER SUBSECTION (A) OF THIS SECTION ONCE  A WEEK . 15 
+ 
+ (C) THE COMMISSIONER SHALL : 16 
+ 
+  (1) UPDATE THE DATA DASH BOARD DEVELOPED UNDER SUBS ECTION  17 
+(A) OF THIS SECTION AT L EAST ONCE A MONTH ;  18 
+ 
+  (2) POST THE MOST RECENT LY UPDATED DATA DASH BOARD  19 
+PROMINENTLY ON THE MARYLAND DEPARTMENT OF LABOR WEBSITE ; AND  20 
+ 
+  (3) MAINTAIN A CACHE CON TAINING THE INFORMAT ION POSTED ON  21 
+THE DATA D ASHBOARD FOR AT LEAS T THE IMMEDIATELY PR ECEDING 24 MONTHS . 22 
+ 
+ (D) THE COMMISSIONER MAY ADOP T REGULATIONS TO CAR RY OUT THIS  23 
+SECTION . 24 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 25 
+October 1, 2025.  26 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 27 
+1, 2025. It shall remain effective for a period of 1 year and 7 months and, at the end of 28 
+January 31, 2027, this Act, with no further action required by the General Assembly, shall 29 
+be abrogated and of no further force and effect.  30 
+ 
+ 

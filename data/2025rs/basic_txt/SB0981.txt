@@ -1,0 +1,1092 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or delete d from the law by 
+amendment.             *sb0981*      
+SENATE BILL 981  
+J3   5lr2417  
+    CF HB 268  
+By: Senator Hershey  Senators Hershey, Beidle, Gile, Hayes, C.  Jackson, Kramer, 
+Lam, Mautz, Ready, and A.  Washington  
+Introduced and read first time: January 28, 2025  
+Assigned to: Finance  
+Committee Report: Favorable with amendments  
+Senate action: Adopted  
+Read second time: February 21, 2025  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Hospitals – Financial Assistance and Collection of Debts – Policies   2 
+ 
+FOR the purpose of excluding a civil action on a certain contract between a hospital and a 3 
+consumer from a certain provision of law establishing the statute of limitations on 4 
+civil actions on certain specialties;  altering  provisions of law related to a hospital’s 5 
+financial assistance and collection of debts policies; specifying the percentage by 6 
+which a hospital is required to reduce a patient’s out –of–pocket expenses under 7 
+certain circumstances; adding to the notice requi rements relating to a hospital’s 8 
+financial assistance policy; prohibiting a hospital from filing a civil action to collect 9 
+a debt against a patient whose outstanding debt is at or below a certain amount; 10 
+altering the monthly payment amount for an income –based payment plan for 11 
+medical debt; increasing the number of days before interest payments on medical 12 
+debt may be assessed; increasing the number of days before a hospital is authorized 13 
+to commence civil action against a patient to collect a debt; and gener ally relating to 14 
+hospital financial assistance and collection of debts policies.  15 
+ 
+BY repealing and reenacting, without amendments,  16 
+ Article – Courts and Judicial Proceedings  17 
+Section 5 –101 and 5 –1201(a) and (e)  18 
+ Annotated Code of Maryland  19 
+ (2020 Replacement Volume and 2024 Supplement)  20 
+ 
+BY repealing and reenacting, with amendments,  21 
+ Article – Courts and Judicial Proceedings  22 
+2 SENATE BILL 981   
+ 
+ Section 5 –102 1 
+ Annotated Code of Maryland  2 
+ (2020 Replacement Volume and 2024 Supplement)  3 
+ 
+BY repealing and reenacting, without  amendments,  4 
+ Article – Health – General  5 
+Section 19 –201(a) and (e) and 19 –301(a) and (f)  6 
+ Annotated Code of Maryland  7 
+ (2023 Replacement Volume and 2024 Supplement)  8 
+ 
+BY repealing and reenacting, with amendments,  9 
+ Article – Health – General  10 
+Section 19 –214.1 and 19 –214.2  11 
+ Annotated Code of Maryland  12 
+ (2023 Replacement Volume and 2024 Supplement)  13 
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 14 
+That the Laws of Maryland read as follows:  15 
+ 
+Article – Courts and Judicial Proceedings  16 
+ 
+5–101. 17 
+ 
+ A civil action at law shall be filed within three years from the date it accrues unless 18 
+another provision of the Code provides a different period of time within which an action 19 
+shall be commenced.  20 
+ 
+5–102. 21 
+ 
+ (a) An action on one of the following specialties shall be filed within 12 years after 22 
+the cause of action accrues, or within 12 years from the date of the death of the last to die 23 
+of the principal debtor or creditor, whichever is sooner:  24 
+ 
+  (1) Promissory note or other instrument under seal;  25 
+ 
+  (2) Bond except  a public officer ’s bond;  26 
+ 
+  (3) Judgment;  27 
+ 
+  (4) Recognizance;  28 
+ 
+  (5) Contract under seal; or  29 
+ 
+  (6) Any other specialty.  30 
+ 
+ (b) A payment of principal or interest on a specialty suspends the operation of 31 
+this section as to the specialty for three years af ter the date of payment.  32 
+ SENATE BILL 981  3 
+ 
+  
+ (c) This section does not apply to:  1 
+ 
+  (1) A specialty taken for the use of the State; [or] 2 
+ 
+  (2) A deed of trust, mortgage, or promissory note that has been signed 3 
+under seal and secures or is secured by owner –occupied residential property, as defined in 4 
+§ 7–105.1 of the Real Property Article ; OR 5 
+ 
+  (3) A CONTRACT , INCLUDING A CONTRACT  UNDER SEAL , OR A 6 
+PROMISSORY NOTE OR O THER INSTRUMENT UNDE R SEAL THAT IS : 7 
+ 
+   (I) RELATED TO AN OBLIGAT ION OF A CONSUMER TO  PAY 8 
+CONSUMER D EBT, AS DEFINED IN § 5–1201  OF THIS TITLE , THAT ARISES FROM 9 
+HOSPITAL SERVICES , AS DEFINED IN § 19–201 OF THE HEALTH – GENERAL 10 
+ARTICLE ; AND 11 
+ 
+   (II) BETWEEN A CONSUMER AN D A HOSPITAL , AS DEFINED IN § 12 
+19–301 OF THE HEALTH – GENERAL ARTICLE . 13 
+ 
+5–1201.  14 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  15 
+ 
+ (e) “Consumer debt ” means a secured or an unsecured debt that:  16 
+ 
+  (1) Is for money owed or alleged to be owed; and  17 
+ 
+  (2) Arises from a consumer transaction.  18 
+ 
+Article – Health – General  19 
+ 
+19–201. 20 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  21 
+ 
+ (e) (1) “Hospital services ” means:  22 
+ 
+   (i) Inpatient hospital services as enumerated in Medicare 23 
+Regulation 42 C.F.R. § 409.10, as amended;  24 
+ 
+   (ii) Emergency services, inclu ding services provided at a 25 
+freestanding medical facility licensed under Subtitle 3A of this title;  26 
+ 
+   (iii) Outpatient services provided at a hospital;  27 
+ 
+4 SENATE BILL 981   
+ 
+    (iv) Outpatient services, as specified by the Commission in 1 
+regulation, provided at a freestanding  medical facility licensed under Subtitle 3A of this 2 
+title that has received:  3 
+ 
+    1. A certificate of need under § 19–120(o)(1) of this title; or  4 
+ 
+    2. An exemption from obtaining a certificate of need under § 5 
+19–120(o)(3) of this title; and  6 
+ 
+   (v) Identified physician services for which a facility has 7 
+Commission –approved rates on June 30, 1985.  8 
+ 
+  (2) “Hospital services ” includes a hospital outpatient service:  9 
+ 
+   (i) Of a hospital that, on or before June 1, 2015, is under a merged 10 
+asset hospital syste m; 11 
+ 
+   (ii) That is designated as a part of another hospital under the same 12 
+merged asset hospital system to make it possible for the hospital outpatient service to 13 
+participate in the 340B Program under the federal Public Health Service Act; and  14 
+ 
+   (iii) That complies with all federal requirements for the 340B 15 
+Program and applicable provisions of 42 C.F.R. § 413.65.  16 
+ 
+  (3) “Hospital services ” does not include:  17 
+ 
+   (i) Outpatient renal dialysis services; or  18 
+ 
+   (ii) Outpatient services provided at a limited service hospital as 19 
+defined in § 19–301 of this title, except for emergency services.  20 
+ 
+19–214.1.  21 
+ 
+ (a) (1) In this section the following words have the meanings indicated.  22 
+ 
+  (2) “Financial hardship” means medical debt, incurred by a family over a 23 
+12–month  period, that exceeds 25% of family income.  24 
+ 
+  (3) “Medical debt” means out –of–pocket expenses, [excluding ] INCLUDING  25 
+co–payments, coinsurance, and deductibles, for medical costs [billed by a hospital ]. 26 
+ 
+  (4) “MEDICALLY NECESSARY C ARE” MEANS CARE THAT IS : 27 
+ 
+   (I) DIRECTLY RELATED TO D IAGNOSTIC , PREVENTIVE , 28 
+CURATIVE , PALLIATIVE , REHABILITATIVE , OR AMELIORATIVE TREA TMENT OF AN 29 
+ILLNESS , INJURY , DISABILITY , OR HEALTH CONDITION ; 30 
+ SENATE BILL 981  5 
+ 
+  
+   (II) CONSISTENT WITH ACCEP TED STANDARDS OF GOO D 1 
+MEDICAL PRACTICE ; AND 2 
+ 
+   (III) NOT PRIMARILY FOR THE  CONVENIENCE OF THE P ATIENT , 3 
+THE PATIENT ’S FAMILY , OR THE PROVIDER .  4 
+ 
+ (b) (1) The Commission shall require each acute care hospital and each chronic 5 
+care hospital in the State under the jurisdiction of the Commission to develop a fin ancial 6 
+assistance policy for providing free and reduced –cost care to patients who lack health care 7 
+coverage or whose health care coverage does not pay the full cost of the hospital bill.  8 
+ 
+  (2) The financial assistance policy shall provide, at a minimum:  9 
+ 
+   (i) Free medically necessary care to patients with family income at 10 
+or below 200% of the federal poverty level, calculated at the time of service or updated, as 11 
+appropriate, to account for any change in financial circumstances of the patient that occurs  12 
+within 240 days after the initial hospital bill is provided;  13 
+ 
+   (ii) Reduced –cost medically necessary care to low –income patients 14 
+with family income above 200% of the federal poverty level, calculated at the time of service 15 
+or updated, as appropriate, to  account for any change in financial circumstances of the 16 
+patient that occurs within 240 days after the initial hospital bill is provided;  17 
+ 
+   (iii) [A payment plan that is available to uninsured patients with 18 
+family income between 200% and 500% of the fed eral poverty level ] A DESCRIPTION OF 19 
+THE AVAILABILITY OF THE PAYMENT PLAN REQ UIRED UNDER § 19–214.2( D) OF THIS 20 
+SUBTITLE ; and  21 
+ 
+   (iv) A mechanism for a patient to request the hospital to reconsider 22 
+the denial of free or reduced –cost care that includes in t he request:  23 
+ 
+    1. The Health Education and Advocacy Unit is available to 24 
+assist the patient or the patient’s authorized representative in filing and mediating a 25 
+reconsideration request; and  26 
+ 
+    2. The address, phone number, facsimile number, e –mail 27 
+addr ess, mailing address, and website of the Health Education and Advocacy Unit.  28 
+ 
+  (3) (i) The Commission by regulation may establish income thresholds 29 
+higher than those under [paragraph ] PARAGRAPHS  (2) AND (4) of this subsection.  30 
+ 
+   (ii) In establishing income thresholds that are higher than those 31 
+under paragraph (2) of this subsection for a hospital, the Commission shall take into 32 
+account:  33 
+ 
+6 SENATE BILL 981   
+ 
+     1. The patient mix of the hospital;  1 
+ 
+    2. The financial condition of the hospital;  2 
+ 
+    3. The level of bad d ebt experienced by the hospital; and  3 
+ 
+    4. The amount of charity care provided by the hospital.  4 
+ 
+  (4) [(i)] Subject to [subparagraphs (ii) and (iii) of this paragraph ] 5 
+INCOME THRESHOLDS SE T UNDER PARAGRAPH (3) OF THIS SUBSECTION , the 6 
+financial assistanc e policy required under this subsection shall provide reduced –cost 7 
+medically necessary care to patients with family income below 500% of the federal poverty 8 
+level who have a financial hardship.  9 
+ 
+   [(ii) A hospital may seek and the Commission may approve a  family 10 
+income threshold that is different than the family income threshold under subparagraph 11 
+(i) of this paragraph.  12 
+ 
+   (iii) In establishing a family income threshold that is different than 13 
+the family income threshold under subparagraph (i) of this para graph, the Commission 14 
+shall take into account:  15 
+ 
+    1. The median family income in the hospital’s service area;  16 
+ 
+    2. The patient mix of the hospital;  17 
+ 
+    3. The financial condition of the hospital;  18 
+ 
+    4. The level of bad debt experienced by the hospi tal; 19 
+ 
+    5. The amount of charity care provided by the hospital; and  20 
+ 
+    6. Other relevant factors. ] 21 
+ 
+  (5) (I) If a patient is eligible for reduced –cost medically necessary care 22 
+under [paragraphs ] PARAGRAPH (2)(ii) [and (4) ] of this subsection, the hospital shall 23 
+[apply the reduction that is most favorable to the patient ], AT A MINIMUM , REDUCE THE 24 
+PATIENT ’S OUT–OF–POCKET EXPENSES FOR THE REGULATED HOSPIT AL SERVICE : 25 
+ 
+    1. FOR A PATIENT WITH FA MILY INCOME OF AT LE AST 26 
+201%  BUT  NOT MORE THAN 250%  OF THE FEDERAL POVER TY LEVEL , BY 75%;  AND 27 
+ 
+    2. FOR A PATIENT WITH FA MILY INCOME OF MORE THAN 28 
+250%  BUT NOT MORE THAN 300%  OF THE FEDERAL POVER TY LEVEL , BY 60%. 29 
+ 
+ SENATE BILL 981  7 
+ 
+    (II) IF A PATIENT IS ELIGI BLE FOR REDUCED –COST MEDICALLY 1 
+NECESSARY CARE UNDER PARAGRAPH  (4) OF THIS SUBSECTION , THE HOSPITAL 2 
+SHALL , AT A MINIMUM , REDUCE THE PATIENT ’S OUT–OF–POCKET EXPENSES FOR 3 
+THE REGULATED HOSPIT AL SERVICE : 4 
+ 
+    1. FOR A PATIENT WITH FA MILY INCOME OF AT LE AST 5 
+201%  BUT NOT MORE THAN 250%  OF THE FEDERAL P OVERTY LEVEL , BY 75%;  6 
+ 
+    2. FOR A PATIENT WITH FA MILY INCOME OF MORE THAN 7 
+250%  BUT NOT MORE THAN 300%  OF THE FEDERAL POVER TY LEVEL , BY 60%;  8 
+ 
+    3. FOR A PATIENT WITH FA MILY INCOME OF MORE THAN 9 
+300%  BUT NOT MORE THAN 350%  OF THE FEDERAL POVER TY LEVEL , BY 50%;  10 
+ 
+    4. FOR A PATIENT WITH FA MILY INCOME OF MORE THAN 11 
+350%  BUT NOT MORE THAN 400%  OF THE FEDERAL POVER TY LEVEL , BY 45%;   12 
+ 
+    5. FOR A PATIENT WITH FA MILY INCOME OF MORE THAN 13 
+400%  BUT NOT MORE THAN 450%  OF THE FEDERAL POVER TY LEVEL , BY 40%;  AND 14 
+ 
+    6. FOR A PATIENT WITH FA MILY INCOME OF MORE THAN 15 
+450%  BUT NOT MORE THAN 500%  OF THE FEDERAL POVER TY LEVEL , BY 35%.   16 
+ 
+  (6) If a patient has received reduced –cost medically necessary care due to 17 
+a financial hardship, the patient or any immediate family memb er of the patient living in 18 
+the same household:  19 
+ 
+   (i) Shall remain eligible for reduced –cost medically necessary care 20 
+when seeking subsequent care at the same hospital during the 12 –month period beginning 21 
+on the date on which the reduced –cost medically n ecessary care was initially received; and  22 
+ 
+   (ii) To avoid an unnecessary duplication of the hospital’s 23 
+determination of eligibility for free and reduced –cost care, shall inform the hospital of the 24 
+patient’s or family member’s eligibility for the reduced –cost medically necessary care.  25 
+ 
+  (7) The financial assistance policy required under this subsection shall 26 
+provide presumptive eligibility for free medically necessary care to a patient who is not 27 
+eligible for the Maryland Medical Assistance Progra m or Maryland Children’s Health 28 
+Program and:  29 
+ 
+   (i) Lives in a household with [children ] A CHILD WHO IS enrolled 30 
+in the free and reduced –cost meal program  AND IS ELIGIBLE FOR THE PROGRAM BASED 31 
+ON THE HOUSEHOLD ’S INCOME ; 32 
+ 
+8 SENATE BILL 981   
+ 
+    (ii) Receives benefits through the federal Supplemental Nutrition 1 
+Assistance Program;  2 
+ 
+   (iii) Receives benefits through the State’s Energy Assistance 3 
+Program;  4 
+ 
+   (iv) Receives benefits through the federal Special Supplemental Food 5 
+Program for Women, Infants, and Children; or  6 
+ 
+   (v) Receives benefits from any other social service program as 7 
+determined by the Department and the Commission.  8 
+ 
+  (8) (i) A hospital may consider only household monetary assets in 9 
+excess of $100,000 when determining eligibility for free and reduced –cost care under the 10 
+hospital’s financial assistance policy.  11 
+ 
+   (ii) If a hospital considers household monetary assets under 12 
+subparagraph (i) of this paragraph, retirement assets that the Internal Revenue Service 13 
+has granted preferential tax treatment as a retiremen t account, including  14 
+deferred –compensation plans qualified under the Internal Revenue Code or nonqualified 15 
+deferred –compensation plans shall be excluded.  16 
+ 
+  (9) (i) In determining the family income of a patient, a hospital shall 17 
+apply a definition of hous ehold size that consists of the patient and, at a minimum, the 18 
+following individuals:  19 
+ 
+    1. A spouse, regardless of whether the patient and spouse 20 
+expect to file a joint federal or State tax return;  21 
+ 
+    2. Biological children, adopted children, or stepc hildren; and  22 
+ 
+    3. Anyone for whom the patient claims a personal exemption 23 
+in a federal or State tax return.  24 
+ 
+   (ii) For a patient who is a child, the household size shall consist of 25 
+the child and the following individuals:  26 
+ 
+    1. Biological parents, adopted parents, or stepparents or 27 
+guardians;  28 
+ 
+    2. Biological siblings, adopted siblings, or stepsiblings; and  29 
+ 
+    3. Anyone for whom the patient’s parents or guardians claim 30 
+a personal exemption in a federal or State tax return.  31 
+ 
+  (10) (I) A hospital  shall provide notice of the hospital’s financial 32 
+assistance policy to the patient, the patient’s family, or the patient’s authorized 33 
+ SENATE BILL 981  9 
+ 
+ representative before discharging the patient and in each communication to the patient 1 
+regarding collection of the hospita l bill.  2 
+ 
+   (II) THE NOTICE REQUIRED U NDER SUBPARAGRAPH (I) OF THIS 3 
+PARAGRAPH SHALL STAT E THAT THE PATIENT H AS UP TO 240 DAYS AFTER THE DAY 4 
+THE PATIENT RECEIVES  THE INITIAL HOSPITAL  BILL TO APPLY FOR FI NANCIAL 5 
+ASSISTANCE FROM THE HOSPITAL . 6 
+ 
+   (III) 1. THE HOSPITAL SHALL ENSUR E THAT THE PATIENT , 7 
+THE PATIENT ’S FAMILY , OR THE PATIENT ’S AUTHORIZED REPRESE NTATIVE SIGNS 8 
+AND DATES THE NOTICE  REQUIRED UNDER SUBPA RAGRAPH (I) OF THIS PARAGRAPH 9 
+TO ACKNOWLEDGE THE P ATIENT’S RECEIPT OF THE NOT ICE BEFORE DISCHARGI NG 10 
+THE  PATIENT . 11 
+ 
+    2. IF A PATIENT CHOOSES NOT TO APPLY FOR FIN ANCIAL 12 
+ASSISTANCE , THE SIGNATURE SHALL INDICATE THAT THE PA TIENT IS NOT APPLYIN G 13 
+ON THE DAY OF THE SI GNING BUT MAY APPLY WITHIN 240 DAYS IMMEDIATELY 14 
+FOLLOWING THE PATIEN T’S RECEIPT OF THE INI TIAL H OSPITAL BILL  THE HOSPITAL 15 
+SHALL OBTAIN DOCUMEN TATION ENSURING THAT  THE PATIENT OR THE P ATIENT’S 16 
+AUTHORIZED REPRESENT ATIVE ACKNOWLEDGES T HE PATIENT ’S RECEIPT OF THE 17 
+NOTICE BEFORE DISCHA RGING THE PATIENT . 18 
+ 
+    2. IF A PATIENT CHOOSES NOT TO APPLY FOR FINANCIAL 19 
+ASSISTANCE , THE PATIENT ’S DOCUMENTED ACKNOWL EDGMENT SHALL INDICA TE 20 
+THAT THE PATIENT IS NOT APPLYING ON THE DAY OF THE ACKNOWLED GMENT BUT 21 
+MAY APPLY WITHIN 240 DAYS IMMEDIATELY FOL LOWING THE PATIENT ’S RECEIPT 22 
+OF THE INITIAL HOSPI TAL BILL . 23 
+ 
+  (11) THE HOSPITAL SHALL CO NSIDER ANY CHANGE IN  THE PATIENT ’S 24 
+FINANCIAL CIRCUMSTAN CE THAT OCCURS DURIN G THE 240–DAY PERIOD 25 
+FOLLOWING THE PATIEN T’S RECEIPT OF THE INI TIAL HOSPITAL BILL I F THE 26 
+PATIENT INFORMS THE HOSPITAL OF THE CHAN GE IN FINANCIAL CIRC UMSTANCE 27 
+ON OR BEFORE THE CONCLU SION OF THE 240–DAY PERIOD .  28 
+ 
+ (c) (1) A hospital shall post a notice in conspicuous places throughout the 29 
+hospital, including the billing office, informing patients of their right to apply for financial 30 
+assistance and who to contact at  the hospital for additional information.  31 
+ 
+  (2) The notice required under paragraph (1) of this subsection shall:  32 
+ 
+   (i) Be in simplified language in at least 10 point type; and  33 
+ 
+   (ii) Be provided in the patient’s preferred language or, if no preferred  34 
+language is specified, each language spoken by a limited English proficient population that 35 
+10 SENATE BILL 981   
+ 
+ constitutes at least 5% of the overall population within the city or county in which the 1 
+hospital is located as measured by the most recent census.  2 
+ 
+ (d) The Commission shall:  3 
+ 
+  (1) Develop a uniform financial assistance application; and  4 
+ 
+  (2) Require each hospital to use the uniform financial assistance 5 
+application to determine eligibility for free and reduced –cost care under the hospital’s 6 
+financial assista nce policy.  7 
+ 
+ (e) The uniform financial assistance application:  8 
+ 
+  (1) Shall be written in simplified language; and  9 
+ 
+  (2) May not require documentation that presents an undue barrier to a 10 
+patient’s receipt of financial assistance.  11 
+ 
+ (f) (1) Each hospital shall develop an information sheet that:  12 
+ 
+   (i) Describes the hospital’s financial assistance policy and includes 13 
+a section that allows for a patient to initial that the patient has been made aware of the 14 
+financial assistance policy;  15 
+ 
+   (ii) Describes a patient’s rights and obligations with regard to 16 
+hospital billing and collection under the law;  17 
+ 
+   (iii) Provides contact information for the individual or office at the 18 
+hospital that is available to assist the patient, the patient’s family, or the patient ’s 19 
+authorized representative in order to understand:  20 
+ 
+    1. The patient’s hospital bill;  21 
+ 
+    2. The patient’s rights and obligations with regard to the 22 
+hospital bill;  23 
+ 
+    3. How to apply for free and reduced –cost care; and  24 
+ 
+    4. How to apply for the Maryland Medical Assistance 25 
+Program and any other programs that may help pay the bill;  26 
+ 
+   (iv) Provides contact information for the Maryland Medical 27 
+Assistance Program;  28 
+ 
+   (v) Includes a statement that physician charges are not included in 29 
+the hospital b ill and are billed separately; and  30 
+ 
+ SENATE BILL 981  11 
+ 
+    (vi) Informs patients of the right to request and receive a written 1 
+estimate of the total charges for hospital nonemergency services, procedures, and supplies 2 
+that reasonably are expected to be provided for profession al services by the hospital.  3 
+ 
+  (2) The information sheet shall:  4 
+ 
+   (i) Be in simplified language in at least 10 point type; and  5 
+ 
+   (ii) Be in the patient’s preferred language or, if no preferred 6 
+language is specified, each language spoken by a limited E nglish proficient population that 7 
+constitutes at least 5% of the overall population within the city or county in which the 8 
+hospital is located as measured by the most recent census.  9 
+ 
+  (3) The information sheet shall be provided to the patient, the patient ’s 10 
+family, or the patient’s authorized representative:  11 
+ 
+   (i) Before discharge;  12 
+ 
+   (ii) With the hospital bill;  13 
+ 
+   (iii) On request; and  14 
+ 
+   (iv) In each written communication to the patient regarding 15 
+collection of the hospital bill.  16 
+ 
+  (4) The hospital  bill shall include a reference to the information sheet.  17 
+ 
+  (5) The Commission shall:  18 
+ 
+   (i) Establish uniform requirements for the information sheet; and  19 
+ 
+   (ii) Review each hospital’s implementation of and compliance with 20 
+the requirements of this subsection.  21 
+ 
+ (g) Each hospital shall ensure the availability of staff who are trained to work 22 
+with the patient, the patient’s family, and the patient’s authorized representative in order 23 
+to understand:  24 
+ 
+  (1) The patient’s hospital bill;  25 
+ 
+  (2) The patien t’s rights and obligations with regard to the hospital bill, 26 
+including the patient’s rights and obligations with regard to reduced –cost medically 27 
+necessary care due to a financial hardship;  28 
+ 
+  (3) How to apply for the Maryland Medical Assistance Program an d any 29 
+other programs that may help pay the hospital bill; and  30 
+ 
+12 SENATE BILL 981   
+ 
+   (4) How to contact the hospital for additional assistance.  1 
+ 
+ (h) Each hospital shall develop a procedure to determine a patient’s eligibility 2 
+under the hospital’s financial assistance policy in which the hospital:  3 
+ 
+  (1) Determines whether the patient has health insurance;  4 
+ 
+  (2) Determines whether the patient is presumptively eligible for free or 5 
+reduced –cost care under subsection (b)(7) of this section;  6 
+ 
+  (3) Determines whether uninsured pa tients are eligible for public or 7 
+private health insurance;  8 
+ 
+  (4) To the extent practicable, offers assistance to uninsured patients if the 9 
+patient chooses to apply for public or private health insurance;  10 
+ 
+  (5) To the extent practicable, determines wheth er the patient is eligible for 11 
+other public programs that may assist with health care costs;  12 
+ 
+  (6) Uses information in the possession of the hospital, if available, to 13 
+determine whether the patient is qualified for free or reduced –cost care under the hospital’s 14 
+financial assistance policy; and  15 
+ 
+  (7) When a patient submits a completed application for financial 16 
+assistance, determines the patient’s eligibility under the hospital’s financial assistance 17 
+policy within 14 days after the patient applies for f inancial assistance and suspends any 18 
+billing or collections actions while eligibility is being determined.  19 
+ 
+ (i) A hospital may not:  20 
+ 
+  (1) Use a patient’s citizenship or immigration status as an eligibility 21 
+requirement for financial assistance; or  22 
+ 
+  (2) Withhold financial assistance or deny a patient’s application for 23 
+financial assistance on the basis of race, color, religion, ancestry or national origin, sex, age, 24 
+marital status, sexual orientation, gender identity, genetic information, or on the basis o f 25 
+disability.  26 
+ 
+ (j) Each hospital shall submit to the Commission annually at times prescribed by 27 
+the Commission:  28 
+ 
+  (1) The hospital’s financial assistance policy developed under this section; 29 
+and 30 
+ 
+  (2) An annual report on the hospital’s financial assista nce policy that 31 
+includes:  32 
+ 
+ SENATE BILL 981  13 
+ 
+    (i) The total number of patients who completed or partially 1 
+completed an application for financial assistance during the prior year;  2 
+ 
+   (ii) The total number of inpatients and outpatients who received:  3 
+ 
+    1. Free care durin g the immediately preceding year; and  4 
+ 
+    2. Reduced –cost care for the prior year;  5 
+ 
+   (iii) The total number of patients who received financial assistance 6 
+during the immediately preceding year by race or ethnicity and gender;  7 
+ 
+   (iv) The total number of  patients who were denied financial 8 
+assistance during the immediately preceding year by race or ethnicity and gender;  9 
+ 
+   (v) The total amount of the costs of hospital services provided to 10 
+patients who received free care; and  11 
+ 
+   (vi) The total amount of the costs of hospital services provided to 12 
+patients who received reduced –cost care that was either covered by the hospital as financial 13 
+assistance or that the hospital charged to the patient.  14 
+ 
+ (k) (1) The Commission shall post on its website each hospital ’s financial 15 
+assistance policy and annual report.  16 
+ 
+  (2) The Commission shall compile the reports required under subsection (j) 17 
+of this section and issue a hospital financial assistance report.  18 
+ 
+  (3) The hospital financial assistance report required under  paragraph (2) 19 
+of this subsection shall be made available to the public free of charge.  20 
+ 
+  (4) On or before December 1 each year, the Commission shall submit a copy 21 
+of the annual hospital financial assistance report issued under paragraph (2) of this 22 
+subse ction, in accordance with § 2 –1257 of the State Government Article, to the Senate 23 
+Finance Committee and the House Health and Government Operations Committee.  24 
+ 
+19–214.2.  25 
+ 
+ (a) (1) Each hospital annually shall submit to the Commission:  26 
+ 
+   (i) At times presc ribed by the Commission, the hospital’s policy on 27 
+the collection of debts owed by patients; and  28 
+ 
+   (ii) A report including:  29 
+ 
+14 SENATE BILL 981   
+ 
+     1. The total number of patients by race or ethnicity, gender, 1 
+and zip code of residence against whom the hospital, or a debt c ollector used by the hospital, 2 
+filed an action to collect a debt owed on a hospital bill;  3 
+ 
+    2. The total number of patients by race or ethnicity, gender, 4 
+and zip code of residence with respect to whom the hospital has and has not reported or 5 
+classified a bad debt; and  6 
+ 
+    3. The total dollar amount of the charges for hospital services 7 
+provided to patients but not collected by the hospital for patients covered by insurance, 8 
+including the out –of–pocket costs for patients covered by insurance, and patients  without 9 
+insurance.  10 
+ 
+  (2) The Commission shall post the information submitted under paragraph 11 
+(1) of this subsection on its website.  12 
+ 
+ (b) The policy submitted under subsection (a)(1) of this section shall:  13 
+ 
+  (1) Provide for active oversight by the hospital of any contract for collection 14 
+of debts on behalf of the hospital;  15 
+ 
+  (2) Prohibit the hospital from selling any debt;  16 
+ 
+  (3) [Prohibit the charging of interest on bills incurred by self –pay patients 17 
+before a court judgment is obtained;  18 
+ 
+  (4)] Describe in detail the consideration by the hospital of patient income, 19 
+assets, and other criteria;  20 
+ 
+  [(5)] (4) Prohibit the hospital from reporting  ADVERSE INFORMATION  21 
+to a consumer reporting agency [or];  22 
+ 
+  (5) PROHIBIT THE HOSPITAL  FROM filing a civil a ction to collect a debt 23 
+within [180] 240 days after the initial bill is provided;  24 
+ 
+  (6) PROHIBIT THE HOSPITAL  FROM FILING A CIVIL ACTION TO 25 
+COLLECT A DEBT AGAIN ST A PATIENT WHOSE O UTSTANDING DEBT IS A T OR BELOW 26 
+$500;   27 
+ 
+  [(6)] (7) Describe the hospital’s procedures for collecting a debt;  28 
+ 
+  [(7)] (8) Describe the circumstances in which the hospital will seek a 29 
+judgment against a patient;  30 
+ 
+ SENATE BILL 981  15 
+ 
+   [(8)] (9) In accordance with subsection (c) of this section, provide for a 1 
+refund of amounts collected from a patient  or the guarantor of a patient who was later 2 
+found to be eligible for free care within 240 days after the initial bill was provided;  3 
+ 
+  [(9)] (10)  If the hospital has obtained a judgment against or reported 4 
+adverse information to a consumer reporting agenc y about a patient who later was found 5 
+to be eligible for free care within 240 days after the initial bill was provided for which the 6 
+judgment was awarded or the adverse information was reported, require the hospital to 7 
+seek to vacate the judgment or strike  the adverse information;  8 
+ 
+  [(10)] (11)  Provide a mechanism for a patient to:  9 
+ 
+   (i) Request the hospital to reconsider the denial of free or  10 
+reduced –cost care;  11 
+ 
+   (ii) File with the hospital a complaint against the hospital or a debt 12 
+collector used by  the hospital regarding the handling of the patient’s bill; and  13 
+ 
+   (iii) Allow the patient and the hospital to mutually agree to modify 14 
+the terms of a payment plan offered under subsection [(e)] (D) of this section or entered 15 
+into with the patient; and  16 
+ 
+  [(11)] (12)  [Prohibit ] FOR A PATIENT WHO IS ELIGIBLE FOR FREE OR  17 
+REDUCED –COST CARE UNDER THE HOSPITAL ’S FINANCIAL ASSISTAN CE POLICY , 18 
+PROHIBIT the hospital from [collecting additional ]: 19 
+ 
+   (I) CHARGING INTEREST ON THE DEBT OWED ON A B ILL FOR 20 
+THE PATIENT B EFORE A COURT JUDGME NT IS OBTAINED ; OR 21 
+ 
+   (II)  COLLECTING fees [in an ] OR ANY OTHER amount that exceeds 22 
+the approved charge for the hospital service as established by the Commission [for which 23 
+the medical debt is owed on a bill for a patient who is eligi ble for free or reduced –cost care 24 
+under the hospital’s financial assistance policy ] OR A PROFESSIONAL FE E. 25 
+ 
+ (c) (1) (I) [Beginning October 1, 2010, a ] A hospital shall provide for a 26 
+refund of amounts exceeding $25 collected from a patient or the guarantor of a patient 27 
+who[, within a 2 –year period after the date of service, ] was found to be eligible for free care 28 
+[on the date of service ] WITHIN 240 DAYS AF TER THE INITIAL BILL  IS PROVIDED TO 29 
+THE PATIENT . 30 
+ 
+   (II) THE HOSPITAL SHALL PR OVIDE THE REFUND TO THE 31 
+PATIENT NOT LATER TH AN 30 DAYS AFTER DETERMINI NG THAT THE PATIENT WAS 32 
+ELIGIBLE FOR FREE CA RE. 33 
+ 
+16 SENATE BILL 981   
+ 
+   (2) [A hospital may reduce the 2 –year period under parag raph (1) of this 1 
+subsection to no less than 30 days after the date the hospital requests information from a 2 
+patient, or the guarantor of a patient, to determine the patient’s eligibility for free care at 3 
+the time of service, if the hospital documents the l ack of cooperation of the patient or the 4 
+guarantor of a patient in providing the requested information.  5 
+ 
+  (3)] If a patient is enrolled in a means –tested government health care plan 6 
+that requires the patient to pay out –of–pocket for hospital services, a h ospital’s refund 7 
+policy shall provide for a refund that complies with the terms of the patient’s plan.  8 
+ 
+ [(d) A hospital may not charge interest or fees on any debt incurred on or after the 9 
+date of service by a patient who is eligible for free or reduced –cost care under § 19 –214.1 of 10 
+this subtitle. ] 11 
+ 
+ [(e)] (D) (1) Subject to paragraph (2) of this subsection, a hospital shall 12 
+provide in writing to each patient who incurs medical debt information about the 13 
+availability of an installment payment plan for the debt.  14 
+ 
+  (2) A hospital shall provide the information under paragraph (1) of this 15 
+subsection to the patient, the patient’s family, the patient’s authorized representative, or 16 
+the patient’s legal guardian:  17 
+ 
+   (i) Before the patient is discharged;  18 
+ 
+   (ii) With the hospital bill;  19 
+ 
+   (iii) On request; and  20 
+ 
+   (iv) In each written communication to the patient regarding 21 
+collection of hospital debt.  22 
+ 
+  (3) (i) The Commission shall develop guidelines, with input from 23 
+stakeholders, for an income –based payment pla n offered under this subsection that 24 
+includes:  25 
+ 
+    1. The amount of medical debt owed to the hospital;  26 
+ 
+    2. The duration of the payment plan based on a patient’s 27 
+annual gross income;  28 
+ 
+    3. Guidelines for requiring appropriate documentation of 29 
+income level;  30 
+ 
+    4. Guidelines for the payment amount that:  31 
+ 
+ SENATE BILL 981  17 
+ 
+     A. May not exceed 5% of the [individual ] patient’s federal or 1 
+State adjusted gross monthly HOUSEHOLD income THAT TAKES INTO CONS IDERATION 2 
+ALL INDIVIDUALS ON T HE SAME FEDERAL OR STATE TAX RETURN ; and 3 
+ 
+    B. Shall consider financial hardship, as defined in §  4 
+19–214.1(a) of this subtitle;  5 
+ 
+    5. Guidelines for:  6 
+ 
+    A. The determination of possible interest payments for 7 
+patients who do not qualify for free or reduced –cost care, which may not begin before [180] 8 
+240 days after the [due date of the first payment ] INITIAL BILL IS PROV IDED ; and  9 
+ 
+    B. A prohibition on interest payments for patients who 10 
+qualify for free or reduced –cost care  AS REQUIRED UNDER SU BSECTION (B)(12)  OF THIS 11 
+SECTION ; 12 
+ 
+    6. Guidelines for modification of a payment plan that does 13 
+not create a greater financial burden on the patient; and  14 
+ 
+    7. A prohibition on penalties or fees for prepayment or early 15 
+payment.  16 
+ 
+   (ii) A hospital may not seek legal action against a patient on  a debt 17 
+owed until the hospital has established and implemented a payment plan policy that 18 
+complies with the guidelines developed under subparagraph (i) of this paragraph.  19 
+ 
+  (4) (i) A patient shall be deemed to be compliant with a payment plan 20 
+if the pati ent makes at least 11 scheduled monthly payments within a 12 –month period.  21 
+ 
+   (ii) If a patient misses a scheduled monthly payment, the patient 22 
+shall contact the health care facility and identify a plan to make up the missed payment 23 
+within 1 year after th e date of the missed payment.  24 
+ 
+   (iii) The health care facility may, but may not be required to, waive 25 
+any additional missed payments that occur within a 12 –month period and allow the patient 26 
+to continue to participate in the income –based payment plan and  not refer the outstanding 27 
+balance owed to a collection agency or for legal action.  28 
+ 
+  (5) (i) A hospital shall demonstrate that it attempted in good faith to 29 
+meet the requirements of this subsection and the guidelines developed by the Commission 30 
+under par agraph (3) of this subsection before the hospital:  31 
+ 
+    1. Files an action to collect a debt owed on a hospital bill by 32 
+a patient; or  33 
+ 
+18 SENATE BILL 981   
+ 
+     2. Delegates collection activity to a debt collector for a debt 1 
+owed on a hospital bill by a patient.  2 
+ 
+   (ii) Subpar agraph (i) of this paragraph does not prohibit a hospital 3 
+from using an eligibility vendor to provide outreach to a patient for purposes of assisting 4 
+the patient in qualifying for financial assistance.  5 
+ 
+ [(f)] (E) (1) For at least [180] 240 days after [issuing an ] THE initial patient 6 
+bill WAS PROVIDED , a hospital may not report adverse information about a patient to a 7 
+consumer reporting agency or commence civil action against a patient for nonpayment.  8 
+ 
+  (2) A hospital shall report the fulfillment of a patient’s payment obligation 9 
+within 60 days after the obligation is fulfilled to any consumer reporting agency to which 10 
+the hospital had reported adverse information about the patient.  11 
+ 
+  (3) A hospital may not report adverse information to a consumer repo rting 12 
+agency regarding a patient who at the time of service was uninsured or eligible for free or 13 
+reduced –cost care under § 19 –214.1 of this subtitle.  14 
+ 
+  (4) A hospital may not report adverse information about a patient to a 15 
+consumer reporting agency, commence a civil action against a patient for nonpayment, or 16 
+delegate collection activity to a debt collector:  17 
+ 
+   (i) If the hospital was notified in accordance with federal law by the 18 
+patient or the insurance carrier that an appeal or a review of a healt h insurance decision 19 
+is pending within the immediately preceding 60 days; or  20 
+ 
+   (ii) If the hospital [has completed ] IS PROCESSING a requested 21 
+reconsideration of the denial of free or reduced –cost care that was appropriately completed 22 
+by the patient  OR HA S COMPLETED THE RECO NSIDERATION  within the immediately 23 
+preceding 60 days.  24 
+ 
+  (5) If a hospital has reported adverse information about a patient to a 25 
+consumer reporting agency, the hospital shall instruct the consumer reporting agency to 26 
+delete the adverse information about the patient:  27 
+ 
+   (i) If the hospital was informed by the patient or the insurance 28 
+carrier that an appeal or a review of a health insurance decision is pending, and until 60 29 
+days after the appeal is complete; or  30 
+ 
+   (ii) Until 60 days afte r the hospital has completed a requested 31 
+reconsideration of the denial of free or reduced –cost care.  32 
+ 
+ [(g)] (F) (1) A hospital may not force the sale or foreclosure of a patient’s 33 
+primary residence to collect a debt owed on a hospital bill.  34 
+ 
+ SENATE BILL 981  19 
+ 
+   (2) A hospi tal may not request a lien against a patient’s primary residence 1 
+in an action to collect debt owed on a hospital bill.  2 
+ 
+  (3) (i) A hospital may not [file an action against a patient to collect a 3 
+debt owed on a hospital bill or ] give notice to a patient un der subsection [(i)] (H) of this 4 
+section until after [180] 240 days after the initial bill was provided.  5 
+ 
+   (ii) If a hospital files an action to collect the debt owed on a hospital 6 
+bill, the hospital may not request the issuance of or otherwise knowingly  take action that 7 
+would cause a court to issue:  8 
+ 
+    1. A body attachment against a patient; or  9 
+ 
+    2. An arrest warrant against a patient.  10 
+ 
+  (4) A hospital may not request a writ of garnishment of wages or file an 11 
+action that would result in an attachme nt of wages against a patient to collect debt owed 12 
+on a hospital bill if the patient is eligible for free or reduced –cost care under § 19 –214.1 of 13 
+this subtitle.  14 
+ 
+  (5) (i) A hospital may not make a claim against the estate of a deceased 15 
+patient to collect  a debt owed on a hospital bill if the deceased patient was known by the 16 
+hospital to be eligible for free care under § 19 –214.1 of this subtitle or if the value of the 17 
+estate after tax obligations are fulfilled is less than half of the debt owed.  18 
+ 
+   (ii) A hospital may offer the family of the deceased patient the ability 19 
+to apply for financial assistance.  20 
+ 
+  (6) A hospital may not file an action to collect a debt owed on a hospital bill 21 
+by a patient until the hospital determines whether the patient is elig ible for free or 22 
+reduced –cost care under § 19 –214.1 of this subtitle.  23 
+ 
+ [(h)] (G) (1) Except as provided in paragraph (2) of this subsection, a spouse 24 
+or another individual may not be held liable for the debt owed on a hospital bill of an 25 
+individual who is  at least 18 years old.  26 
+ 
+  (2) An individual may voluntarily consent to assume liability for the debt 27 
+owed on a hospital bill of any other individual if the consent is:  28 
+ 
+   (i) Made on a separate document signed by the individual;  29 
+ 
+   (ii) Not solicited in  an emergency room or during an emergency 30 
+situation; and  31 
+ 
+   (iii) Not required as a condition of providing any emergency or 32 
+nonemergency health care services.  33 
+ 
+20 SENATE BILL 981   
+ 
+  [(i)] (H) (1) Subject to paragraph (2) of this subsection, at least 45 days before 1 
+filing an a ction against a patient to collect on the debt owed on a hospital bill, a hospital 2 
+shall send written notice of the intent to file an action to the patient.  3 
+ 
+  (2) The notice required under paragraph (1) of this subsection shall:  4 
+ 
+   (i) Be sent to the pat ient by certified mail and first –class mail;  5 
+ 
+   (ii) Be in simplified language and in at least 10 point type;  6 
+ 
+   (iii) Include:  7 
+ 
+    1. The name and telephone number of:  8 
+ 
+    A. The hospital;  9 
+ 
+    B. If applicable, the debt collector; and  10 
+ 
+    C. An agent of the hospital authorized to modify the terms of 11 
+the payment plan, if any;  12 
+ 
+    2. The amount required to cure the nonpayment of debt, 13 
+including past due payments, INTEREST , penalties, and fees;  14 
+ 
+    3. A statement recommending that the patient seek  debt 15 
+counseling services;  16 
+ 
+    4. Telephone numbers and Internet addresses of the Health 17 
+Education Advocacy Unit in the Office of the Attorney General, available to assist patients 18 
+experiencing medical debt;  19 
+ 
+    5. An explanation of the hospital’s financ ial assistance 20 
+policy; and  21 
+ 
+    6. Any other relevant information prescribed by the 22 
+Commission; and  23 
+ 
+   (iv) Be provided in the patient’s preferred language or, if no preferred 24 
+language is specified, each language spoken by a limited English proficient pop ulation that 25 
+constitutes at least 5% of the population within the jurisdiction in which the hospital is 26 
+located as measured by the most recent federal census.  27 
+ 
+  (3) The notice required under this subsection shall be accompanied by:  28 
+ 
+   (i) An application for financial assistance under the hospital’s 29 
+financial assistance policy, along with instructions for completing the application for 30 
+financial assistance, and the telephone number to call to confirm receipt of the application;  31 
+ SENATE BILL 981  21 
+ 
+  
+   (ii) The availability of  [a] AN INCOME –BASED payment plan to 1 
+satisfy the medical debt that is the subject of the hospital debt collection action; and  2 
+ 
+   (iii) The information sheet required under § 19 –214.1(f) of this 3 
+subtitle.  4 
+ 
+ [(j)] (I) A complaint by a hospital in an action to collect a debt owed on a 5 
+hospital bill by a patient shall:  6 
+ 
+  (1) Include an affidavit stating:  7 
+ 
+   (i) The date on which the [180–day] 240–DAY period required 8 
+under subsection [(g)(3) ] (F)(3) of this section elapsed and the nature of the nonpayment;  9 
+ 
+   (ii) That a notice of intent to file an action under subsection [(i)] (H) 10 
+of this section:  11 
+ 
+    1. Was sent to the patient and the date on which the notice 12 
+was sent; and  13 
+ 
+    2. Accurately reflected the contents required to be included 14 
+in the notice;  15 
+ 
+   (iii) That the hospital provided:  16 
+ 
+    1. The patient with a copy of the information sheet on the 17 
+financial assistance policy in accordance with subsection [(i)(3)(ii) ] (H)(3)( II) of this 18 
+section; and  19 
+ 
+    2. Notice of the financial assistance policy as d ocumented 20 
+under § 19 –214.1(f) of this subtitle;  21 
+ 
+   (iv) That the hospital made a determination regarding whether the 22 
+patient is eligible for the hospital’s financial assistance policy in accordance with § 19 –214.1 23 
+of this subtitle; and  24 
+ 
+   (v) That the ho spital made a good –faith effort to meet the 25 
+requirements of subsection [(e)] (D) of this section; and  26 
+ 
+  (2) Be accompanied by:  27 
+ 
+   (i) The original or a certified copy of the hospital bill;  28 
+ 
+   (ii) A statement of the remaining due and payable debt supported by 29 
+an affidavit of the plaintiff, the hospital, or the agent or attorney of the plaintiff or hospital;  30 
+22 SENATE BILL 981   
+ 
+  
+   (iii) A copy of the most recent hospital bill sent to the patient;  1 
+ 
+   (iv) If the defendant is eligible for federal Service Members Civil 2 
+Relief Act benefits, an affidavit that the hospital is in compliance with the Act;  3 
+ 
+   (v) A copy of the notice of intent to file an action on a hospital bill; 4 
+and 5 
+ 
+   (vi) A copy of the patient’s signed certified mail acknowledgment of 6 
+receipt of the writ ten notice of intent to file an action, if received by the hospital.  7 
+ 
+ [(k)] (J) If a hospital delegates collection activity to a debt collector, the hospital 8 
+shall:  9 
+ 
+  (1) Specify the collection activity to be performed by the debt collector 10 
+through an ex plicit authorization or contract;  11 
+ 
+  (2) Require the debt collector to abide by the hospital’s credit and collection 12 
+policy;  13 
+ 
+  (3) Specify procedures the debt collector must follow if a patient appears to 14 
+qualify for financial assistance; and  15 
+ 
+  (4) Requi re the debt collector to:  16 
+ 
+   (i) In accordance with the hospital’s policy, provide a mechanism for 17 
+a patient to file with the hospital a complaint against the hospital or the debt collector 18 
+regarding the handling of the patient’s bill;  19 
+ 
+   (ii) Forward th e complaint to the hospital if a patient files a 20 
+complaint with the debt collector; and  21 
+ 
+   (iii) Along with the hospital, be jointly and severally responsible for 22 
+meeting the requirements of this section.  23 
+ 
+ [(l)] (K) (1) The board of directors of each hos pital shall review and approve 24 
+the HOSPITAL ’S financial assistance  POLICY REQUIRED UNDE R § 19–214.1  OF THIS 25 
+SUBTITLE and debt collection [policies of the hospital ] POLICY REQUIRED UNDE R THIS 26 
+SECTION at least every 2 years.  27 
+ 
+  (2) A hospital may not alter i ts financial assistance or debt collection 28 
+policies without approval by the board of directors.  29 
+ 
+ [(m)] (L) The Commission shall review each hospital’s implementation of and 30 
+compliance with the hospital’s policies and the requirements of this section.  31 
+ SENATE BILL 981  23 
+ 
+  
+ [(n)] (M) (1) On or before February 1 each year, beginning in 2023, the 1 
+Commission shall compile the information required under subsection (a) of this section and 2 
+prepare a medical debt collection report based on the compiled information.  3 
+ 
+  (2) The report required under paragraph (1) of this subsection shall be:  4 
+ 
+   (i) Made available to the public free of charge; and  5 
+ 
+   (ii) Submitted to the Senate Finance Committee and the House 6 
+Health and Government Operations Committee in accordance with § 2 –1257 of th e State 7 
+Government Article.  8 
+ 
+19–301. 9 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  10 
+ 
+ (f) “Hospital ” means an institution that:  11 
+ 
+  (1) Has a group of at least 5 physicians who are organized as a medical 12 
+staff for the institution;  13 
+ 
+  (2) Maintains facilities to provide, under the supervision of the medical 14 
+staff, diagnostic and treatment services for 2 or more unrelated individuals; and  15 
+ 
+  (3) Admits or retains the individuals for overnight care.  16 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 17 
+October 1, 2025.  18 
+ 
+ 
+ 
+ 
+Approved:  
+________________________________ ________________________________ ________________   
+           Governor.  
+________________________________ ________________________________ ________________   
+                 President of the Senate.  
+________________________________ ________________________________ ________________   
+         Speaker of the House of Delegates.  

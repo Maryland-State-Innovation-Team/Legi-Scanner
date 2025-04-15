@@ -1,0 +1,232 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.             *hb0820*      
+HOUSE BILL 820  
+J5   5lr2577  
+      
+By: Delegates Hill, Pena –Melnyk, Kaiser, Kaufman, J.  Lewis, J.  Long, Ruff, and 
+Young  Young, Bagnall, Bhandari, Chisholm, Cullison, Guzzone, 
+Hutchinson, S.  Johnson, Kerr, Kipke, Lopez, Martinez, Reilly, Rosenberg, 
+Szeliga, Taveras, White  Holland, Woods, and Woorman  
+Introduced and read first time: January 29, 2025  
+Assigned to: Health and Government Operations  
+Committee Re port: Favorable with amendments  
+House action: Adopted  
+Read second time: February 25, 2025  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Health Insurance – Utilization Review – Use of Artificial Intelligence  2 
+ 
+FOR the purpose of requiring that certain carriers, pharmacy benefits managers, and 3 
+private review agents ensure that artificial intelligence, algorithm, or other software 4 
+tools are used in a certain manner when used for conducting utilization review; and 5 
+generally relating to utilization review and artific ial intelligence.  6 
+ 
+BY repealing and reenacting, with amendments,  7 
+ Article – Insurance  8 
+Section 15 –10A–06 9 
+ Annotated Code of Maryland  10 
+ (2017 Replacement Volume and 2024 Supplement)  11 
+ 
+BY adding to  12 
+ Article – Insurance  13 
+Section 15 –10B–05.1 14 
+ Annotated Code of Maryland  15 
+ (2017 Replacement Volume and 2024 Supplement)  16 
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 17 
+That the Laws of Maryland read as follows:  18 
+ 
+2 HOUSE BILL 820   
+ 
+ Article – Insurance  1 
+ 
+15–10A–06. 2 
+ 
+ (a) On a quarterly basis, each carrier shall submit to the  Commissioner, on the 3 
+form the Commissioner requires, a report that describes:  4 
+ 
+  (1) the number of members entitled to health care benefits under a policy, 5 
+plan, or certificate issued or delivered in the State by the carrier;  6 
+ 
+  (2) the number of clean cl aims for reimbursement processed by the carrier;  7 
+ 
+  (3) the activities of the carrier under this subtitle, including:  8 
+ 
+   (i) the outcome of each grievance filed with the carrier;  9 
+ 
+   (ii) the number and outcomes of cases that were considered 10 
+emergency cas es under § 15 –10A–02(b)(2)(i) of this subtitle;  11 
+ 
+   (iii) the time within which the carrier made a grievance decision on 12 
+each emergency case;  13 
+ 
+   (iv) the time within which the carrier made a grievance decision on 14 
+all other cases that were not considered e mergency cases;  15 
+ 
+   (v) the number of grievances filed with the carrier that resulted from 16 
+an adverse decision involving length of stay for inpatient hospitalization as related to the 17 
+medical procedure involved;  18 
+ 
+   (vi) the number of adverse decisions issued by the carrier under §  19 
+15–10A–02(f) of this subtitle, whether the adverse decision involved a prior authorization 20 
+or step therapy protocol, [and] the type of service at issue in the adverse decisions , AND 21 
+WHETHER AN ARTIFICIAL INTELLIGE NCE, ALGORITHM , OR OTHER SOFTWARE TO OL 22 
+WAS USED IN MAKING T HE ADVERSE DECISION ; 23 
+ 
+   (vii) the number of adverse decisions overturned after a 24 
+reconsideration request under § 15 –10B–06 of this title; and  25 
+ 
+   (viii)  the number of requests made and granted under § 15 –831(c)(1) 26 
+and (2) of this title; and  27 
+ 
+  (4) the number and outcome of all other cases that are not subject to 28 
+activities of the carrier under this subtitle that resulted from an adverse decision involving 29 
+the length of stay for inpatient hospitalization as related to the medical procedure involved.  30 
+ 
+ (b) The Commissioner shall:  31 
+ 
+ HOUSE BILL 820  3 
+ 
+   (1) compile an annual summary report based on the information provided:  1 
+ 
+   (i) under subsection (a) of this section; and  2 
+ 
+   (ii) by the Secretary und er § 19–705.2(e) of the Health – General 3 
+Article;  4 
+ 
+  (2) report any violations or actions taken under § 15 –10B–11 of this title; 5 
+and 6 
+ 
+  (3) provide copies of the summary report to the Governor and, subject to § 7 
+2–1257 of the State Government Article, to th e General Assembly.  8 
+ 
+15–10B–05.1.  9 
+ 
+ (A) (1) IN THIS SECTION THE F OLLOWING WORDS HAVE THE MEANINGS 10 
+INDICATED . 11 
+ 
+  (2) “ARTIFICIAL INTELLIGEN CE” MEANS AN ENGINEERED OR 12 
+MACHINE –BASED SYSTEM THAT VA RIES IN ITS LEVEL OF  AUTONOMY AND THAT CA N, 13 
+FOR EXPLICIT OR IMPLICIT OBJECTIVES , INFER FROM THE INPUT  IT RECEIVES HOW 14 
+TO GENERATE OUTPUTS THAT CAN INFLUENCE P HYSICAL OR VIRTUAL 15 
+ENVIRONMENTS . 16 
+ 
+  (3) “CARRIER” MEANS : 17 
+ 
+   (I) AN INSURER ; 18 
+ 
+   (II) A NONPROFIT HEALTH S ERVICE PLAN ; 19 
+ 
+   (III) A HEALTH MAINTENANCE  ORGANIZATION ; 20 
+ 
+   (IV) A DENTAL PLAN ORGANI ZATION ; OR 21 
+ 
+   (V) ANY OTHER PERSON THA T PROVIDES HEALTH BE NEFIT 22 
+PLANS SUBJECT TO REG ULATION BY THE STATE . 23 
+ 
+ (B) THIS SECTION APPLIES TO: 24 
+ 
+  (1) A CARRIER THAT : 25 
+ 
+   (I) USES AN ARTIFICIAL I NTELLIGENCE , ALGORITHM , OR 26 
+OTHER SOFTWARE TOOL FOR THE PURPOSE OF U TILIZATION REVIEW ; OR  27 
+ 
+4 HOUSE BILL 820   
+ 
+    (II) CONTRACTS WITH OR OT HERWISE WORKS THROUG H AN 1 
+ENTITY THAT USES AN ARTIFICIAL INTELLIGE NCE, ALGORITHM , OR OTHER 2 
+SOFTWARE TOOL FOR TH E PURPOSE OF UTILIZA TION REVIEW ; AND 3 
+ 
+  (2) A PHARM ACY BENEFITS MANAGER  OR PRIVATE REVIEW AG ENT 4 
+THAT : 5 
+ 
+   (I) CONTRACTS WITH A CAR RIER TO PROVIDE UTIL IZATION 6 
+REVIEW ON BEHALF OF THE CARRIER ; AND 7 
+ 
+   (II) USES AN ARTIFICIAL I NTELLIGENCE , ALGORITHM , OR 8 
+OTHER SOFTWARE TOOL FOR THE PURPOSE OF C ONDUCTING UTILIZ ATION REVIEW 9 
+ON BEHALF OF THE CAR RIER . 10 
+ 
+ (C) SUBJECT TO SUBSECTION  (D) OF THIS SECTION , AN ENTITY SUBJECT TO  11 
+THIS SECTION SHALL E NSURE THAT : 12 
+ 
+  (1) AN ARTIFICIAL INTELL IGENCE , ALGORITHM , OR OTHER 13 
+SOFTWARE TOOL BASES ITS DETERMINATIONS O N: 14 
+ 
+   (I) AN ENROLLEE ’S MEDICAL OR OTHER C LINICAL HISTORY ; 15 
+ 
+   (II) INDIVIDUAL CLINICAL CIRCUMSTANCES AS PRE SENTED BY 16 
+A REQUESTING PROVIDE R; OR 17 
+ 
+   (III) OTHER RELEVANT CLINI CAL INFORMATION CONT AINED IN 18 
+THE ENROLLEE ’S MEDICAL OR OTHER C LINICAL RECORD ; 19 
+ 
+  (2) AN ARTIFICIAL INTELLIGE NCE, ALGORITHM , OR OTHER 20 
+SOFTWARE TOOL DOES N OT BASE ITS DETERMIN ATIONS SOLELY ON A G ROUP 21 
+DATASET ; 22 
+ 
+  (3) THE CRITERIA AND GUI DELINES FOR USING AN  ARTIFICIAL 23 
+INTELLIGENCE , ALGORITHM , OR OTHER SOFTWARE TO OL FOR MAKING 24 
+DETERMINATIONS COMP LY WITH THE REQUIREM ENTS OF THIS TITLE ; 25 
+ 
+  (4) AN ARTIFICIAL INTELL IGENCE , ALGORITHM , OR OTHER 26 
+SOFTWARE TOOL DOES N OT REPLACE THE ROLE OF A HEALTH CARE PRO VIDER IN 27 
+THE DETERMINATION PR OCESS UNDER § 15–10B–07 OF THIS SUBTITLE ; 28 
+ 
+  (5) THE USE OF AN ARTIFI CIAL INTELLIGENCE , ALGORITHM , OR 29 
+OTHER SOFTWARE TOOL DOES NOT RESULT IN UNFAIR  DISCRIMINATION AGAINST  30 
+ENROLLEES THAT IS PR OHIBITED BY FEDERAL OR STATE LAW ; 31 
+ 
+ HOUSE BILL 820  5 
+ 
+   (6) AN ARTIFICIAL INTELL IGENCE , ALGORITHM , OR OTHER 1 
+SOFTWARE TOOL IS FAI RLY AND EQUITABLY AP PLIED , INCLUDING IN ACCORDAN CE 2 
+WITH ANY APPLICABLE REGULATIONS AND GUID ANCE ISSUED BY THE F EDERAL 3 
+DEPARTMENT OF HEALTH AND HUMAN SERVICES ; 4 
+ 
+  (7) AN ARTIFICIAL INTELL IGENCE , ALGORITHM , OR OTHER 5 
+SOFTWARE TOOL IS OPE N TO INSPECTION FOR AUDIT OR COMPLIANCE REVIEWS BY  6 
+THE COMMISSIONER ; 7 
+ 
+  (8) WRITTEN POLICIES AND  PROCEDURES ARE INCLU DED IN THE 8 
+UTILIZATION PLAN SUB MITTED UNDER § 15–10B–05 OF THIS SUBTITLE , INCLUDING 9 
+HOW AN ARTIFICIAL IN TELLIGENCE , ALGORITHM , OR OTHER SOFTWARE TO OL WILL 10 
+BE USED AND WHAT OVE RSIGHT WILL BE  PROVIDED ; 11 
+ 
+  (9) THE PERFORMANCE , USE, AND OUTCOMES OF AN A RTIFICIAL 12 
+INTELLIGENCE , ALGORITHM , OR OTHER SOFTWARE TO OL ARE REVIEWED AND 13 
+REVISED , IF NECESSARY AND AT LEAST ON A QUARTERLY  BASIS , TO MAXIMIZE 14 
+ACCURACY AND RELIABI LITY; 15 
+ 
+  (10) PATIENT DATA IS NOT USED BEYOND ITS INTENDED AND STATED 16 
+PURPOSE , CONSISTENT WITH THE FEDERAL HEALTH INSURANCE PORTABILITY AND 17 
+ACCOUNTABILITY ACT OF 1996,  AS APPLICABLE ; AND 18 
+ 
+  (11) AN ARTIFICIAL INTELL IGENCE , ALGORITHM , OR OTHER 19 
+SOFTWARE TOOL DOES N OT DIRECTLY OR INDIR ECT LY CAUSE HARM TO AN 20 
+ENROLLEE . 21 
+ 
+ (D) AN ARTIFICIAL INTELLI GENCE , ALGORITHM , OR OTHER SOFTWARE 22 
+TOOL MAY NOT DENY , DELAY OR MODIFY HEAL TH CARE SERVICES .  23 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 24 
+October 1, 2025.  25 
+ 
+ 
+ 
+ 
+Approved:  
+________________________________ ________________________________ ________________   
+           Governor.  
+________________________________ ________________________________ ________________   
+         Speaker of the House of Delegates.  
+________________________________ ________________________________ ________________   
+                 President of the Senate.  

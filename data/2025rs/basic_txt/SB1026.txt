@@ -1,0 +1,426 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.  
+         Italics indicate opposite chamber/conference committee amendments.             *sb1026*      
+SENATE BILL 1026  
+I1 EMERGENCY BILL  (5lr3555 ) 
+ENROLLED BILL  
+— Finance/Economic Matters  — 
+Introduced by Senator Beidle  
+ 
+Read and Examined by Proofreaders:  
+ 
+_______________________________________________  
+Proofreader.  
+_______________________________________________  
+Proofreader.  
+ 
+Sealed with the Great Seal and presented to the Governor, for his approval this  
+  
+_______ day of _______________ at _________________ _______ o’clock, ________M.  
+  
+______________________________________________  
+President .  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Financial Institutions – Consumer Credit – Application of Licensing 2 
+Requirements  3 
+(Maryland Secondary Market Stability Act of 2025)  4 
+ 
+FOR the purpose of providing that certain provisions of law governing the licensing of 5 
+providers of certain financial services in the State do not apply to a certain person 6 
+that acquires or is assigned a certain mortgage, mortgage loan, or install ment loan 7 
+under certain circumstances or a certain trust that acquires or is assigned a certain 8 
+mortgage loan under certain circumstances ; establishing the Maryland Licensing 9 
+Workgroup to study and make recommendations on licensing requirements for 10 
+persons  that provide financial services in the State; and generally relating to 11 
+consumer credit lending licensing requirements and the Maryland Licensing 12 
+Workgroup.  13 
+ 
+BY repealing and reenacting, without amendments,  14 
+2 SENATE BILL 1026   
+ 
+  Article – Financial Institutions  1 
+Section 1 –101(a) and (n), 11 –301(a) and (b), and 11 –501(a) and (k) through (m)  2 
+ Annotated Code of Maryland  3 
+ (2020 Replacement Volume and 2024 Supplement)  4 
+ 
+BY adding to  5 
+ Article – Financial Institutions  6 
+Section 11 –102 and 11 –501(p) and (u)  7 
+ Annotated Code of Maryland  8 
+ (2020 Replacement Volume and 2024 Supplement)  9 
+ 
+BY repealing and reenacting, with amendments,  10 
+ Article – Financial Institutions  11 
+ Section 11 –302(b), 11 –501(p) through (s), and 11 –502(b)  12 
+ Annotated Code of Maryland  13 
+ (2020 Replacement Volume and 2024 Supplemen t)  14 
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 15 
+That the Laws of Maryland read as follows:  16 
+ 
+Article – Financial Institutions  17 
+ 
+1–101. 18 
+ 
+ (a) In this article, unless the context clearly requires otherwise, the following 19 
+words have the meanings indicated.  20 
+ 
+ (n) “Mortgage” includes a deed of trust that secures a debt or the performance of 21 
+an obligation.  22 
+ 
+11–102. 23 
+ 
+ (A) IN THIS SECTION , “INSTALLMENT LOAN ” HAS THE MEANING STAT ED IN 24 
+§ 11–301 OF THIS TITLE . 25 
+ 
+ (B) EXCEPT FOR § 11–219 OF THIS TI TLE, THIS TITLE DOES NOT APPLY TO A 26 
+PERSON THAT ACQUIRES  OR IS ASSIGNED IN WH OLE OR IN PART : 27 
+ 
+  (1) A MORTGAGE , IF THE PERSON DOES N OT OTHERWISE MAKE 28 
+MORTGAGES ; 29 
+ 
+  (2) A MORTGAGE LOAN , AS DEFINED IN § 11–501 OF THIS TITLE , IF 30 
+THE PERSON DOES NOT OTHERWISE ENGAGE IN THE MORTGA GE LENDING 31 
+BUSINESS , AS DEFINED IN § 11–501 OF THIS TITLE ; OR 32 
+ 
+  (3) AN INSTALLMENT LOAN , IF THE PERSON : 33 
+ SENATE BILL 1026  3 
+ 
+  
+   (I) RELIES ON ANOTHER PER SON TO SERVICE OR CO LLECT ON 1 
+THE INSTALLMENT LOAN ; AND 2 
+ 
+   (II) DOES NOT OTHERWISE MA KE INSTALLMENT LO ANS. 3 
+ 
+ (C) THIS SECTION MAY NOT BE CONSTRUED TO ALTE R THE DEFINITION OF 4 
+“STUDENT LOAN SERVICE R”, AS DEFINED IN § 2–104.1  OF THIS ARTICLE . 5 
+ 
+11–301. 6 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  7 
+ 
+ (b) “Installment loan” means a loan  or extension of credit made for consideration 8 
+under § 12 –103(a)(3) or (c) or Title 12, Subtitle 9, or Subtitle 10 of the Commercial Law 9 
+Article.  10 
+ 
+11–302. 11 
+ 
+ (b) The licensing provisions of this subtitle do not apply to any of the following 12 
+persons, if organized under the laws of this State or otherwise qualified to do business in 13 
+this State:  14 
+ 
+  (1) A banking institution;  15 
+ 
+  (2) A national banking association;  16 
+ 
+  (3) A federal or State savings and loan association;  17 
+ 
+  (4) A federal or State credit union;  18 
+ 
+  (5) A licensee under Subtitle 2 of this title;  19 
+ 
+  (6) A seller of goods or services or both not engaged in:  20 
+ 
+   (i) Making loans; or  21 
+ 
+   (ii) Acting as a credit services business as defined under Title 14, 22 
+Subtitle 19 of the Commercial Law Article;  23 
+ 
+  (7) A licensee under Subtitle 5 of this title engaged solely in a mortgage 24 
+lending business as defined in that subtitle; or  25 
+ 
+  (8) An entity exempt from licensing as a mortgage lender under [§  26 
+11–502(b)(10) ] § 11–502( B)(3),  (10),  OR (13)  of this title.   27 
+ 
+4 SENATE BILL 1026   
+ 
+ 11–501. 1 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  2 
+ 
+ (k) (1) “Mortgage lender” means any person who:  3 
+ 
+   (i) Is a mortgage broker;  4 
+ 
+   (ii) Makes a mortgage loan to any person; or  5 
+ 
+   (iii) Is a mortgage servicer.  6 
+ 
+  (2) “Mortg age lender” does not include:  7 
+ 
+   (i) A financial institution that accepts deposits and is regulated 8 
+under Title 3, Title 4, Title 5, or Title 6 of this article;  9 
+ 
+   (ii) The Federal Home Loan Mortgage Corporation;  10 
+ 
+   (iii) The Federal National Mortgage Association;  11 
+ 
+   (iv) The Government National Mortgage Association;  12 
+ 
+   (v) Any person engaged exclusively in the acquisition of all or any 13 
+portion of a mortgage loan under any federal, State, or local governmental program of 14 
+mortgage loan purchases; or  15 
+ 
+   (vi) An affiliated insurance producer –mortgage loan originator 16 
+licensed under § 11 –603.1 of this title.  17 
+ 
+ (l) (1) “Mortgage lending business” means the activities set forth in the 18 
+definition of “mortgage lender” in subsection (k) of this section which re quire that person 19 
+to be licensed under this subtitle.  20 
+ 
+  (2) “Mortgage lending business” includes the making or procuring of 21 
+mortgage loans secured by a dwelling or residential real estate located outside Maryland.  22 
+ 
+ (m) (1) “Mortgage loan” means any loan primarily for personal, family, or 23 
+household use that is secured by a mortgage, deed of trust, or other equivalent consensual 24 
+security interest on a dwelling or residential real estate on which a dwelling is constructed 25 
+or intended to be constructed.  26 
+ 
+  (2) “Mortgage loan” includes a loan in which funds are advanced through a 27 
+shared appreciation agreement.  28 
+ 
+ (P) “PASSIVE TRUST ” MEANS A TRUST THAT : 29 
+ 
+ SENATE BILL 1026  5 
+ 
+   (1) ACQUIRES OR IS ASSIGN ED MORTGAGE LOANS IN  WHOLE OR IN 1 
+PART ; 2 
+ 
+  (2) DOES NOT MAKE MORTGAG E LOANS ; 3 
+ 
+  (3) IS NOT A MORTGAGE BRO KER OR A MORTGAGE SE RVICER ; AND  4 
+ 
+  (4) IS NOT ENGAGED IN THE  SERVICING OF MORTGAG E LOANS , WHICH 5 
+DOES NOT INCLUDE THE  ACT OF TRANSMITTING OR DIRECTING PAYMENT S RECEIVED 6 
+BY A MORTGAGE SERVIC ER. 7 
+ 
+ [(p)] (Q) “Person ” means a natural person, corporation, limited liability 8 
+company, partnership, business trust, statutory trust, or association.  9 
+ 
+ [(q)] (R) “Residential real estate ” means any owner –occupied real property 10 
+located in Maryland on which a dwelling is construct ed or intended to be constructed.  11 
+ 
+ [(r)] (S) “Shared appreciation agreement ” means a writing evidencing a 12 
+transaction or any option, future, or any other derivative between a person and a consumer 13 
+where the consumer receives money or any other item of val ue in exchange for an interest or 14 
+future interest in a dwelling or residential real estate, or a future obligation to repay a sum 15 
+on the occurrence of an event such as:  16 
+ 
+  (1) The transfer of ownership;  17 
+ 
+  (2) A repayment maturity date;  18 
+ 
+  (3) The death of  the consumer; or  19 
+ 
+  (4) Any other event contemplated by the writing.  20 
+ 
+ [(s)] (T) “State ” means the State of Maryland.  21 
+ 
+ (U) “TRUST” INCLUDES ANY TRUST E STABLISHED UNDER THE  LAWS OF THE 22 
+STATE OR ANY OTHER ST ATE. 23 
+ 
+11–502. 24 
+ 
+ (b) The provisions of this subtitle do not apply to:  25 
+ 
+  (1) Any bank, trust company, savings bank, savings and loan association, 26 
+or credit union incorporated or chartered under the laws of this State or the United States 27 
+or any other –state bank having a branch in this State;  28 
+ 
+  (2) Any insurance company authorized to do business in the State;  29 
+ 
+6 SENATE BILL 1026   
+ 
+   (3) Any corporate instrumentality of the Government of the United States 1 
+including:  2 
+ 
+   (i) The Federal Home Loan Mortgage Corporation;  3 
+ 
+   (ii) The Federal National Mortgage Association; [and] 4 
+ 
+   (iii) The Government National Mortgage Association; AND  5 
+ 
+   (IV) A TRUST ESTABLISHED BY  ANY CORPORATE 6 
+INSTRUMENTALITY OF T HE GOVERNMENT OF THE UNITED STATES FOR THE 7 
+PURPOSE OF ACQUIRING  MORTGAGE LOANS ; 8 
+ 
+  (4) Any person who takes back a deferred pur chase money mortgage in 9 
+connection with the sale of:  10 
+ 
+   (i) A dwelling or residential real estate owned by, and titled in the 11 
+name of, that person; or  12 
+ 
+   (ii) A new residential dwelling that the person built;  13 
+ 
+  (5) A nonprofit charitable organization registered with the Maryland 14 
+Secretary of State or a nonprofit religious organization;  15 
+ 
+  (6) An employer making a mortgage loan to an employee;  16 
+ 
+  (7) A person making a mortgage loan to a borrower who is the person’s 17 
+spouse, child, child’s spouse, parent,  sibling, grandparent, grandchild, or grandchild’s 18 
+spouse;  19 
+ 
+  (8) A real estate broker who:  20 
+ 
+   (i) Is licensed in the State; and  21 
+ 
+   (ii) Makes a mortgage loan providing a repayment schedule of 2 years 22 
+or less to assist the borrower in the purchase or sale of a dwelling or residential real estate 23 
+through the broker;  24 
+ 
+  (9) A home improvement contractor licensed under the Maryland Home 25 
+Improvement Law who assigns a mortgage loan without recourse within 30 days after 26 
+completion of the contract to a person  licensed under this subtitle or to an institution that is 27 
+exempt from this subtitle under item (1), (2), or (10) of this subsection;  28 
+ 
+  (10) A subsidiary or affiliate of an institution described in subsection (c) of 29 
+this section, which subsidiary or affil iate: 30 
+ 
+ SENATE BILL 1026  7 
+ 
+    (i) Is subject to audit or examination by a regulatory body or agency 1 
+of this State or the state where the subsidiary or affiliate maintains its principal office; and  2 
+ 
+   (ii) Files with the Commissioner, prior to making mortgage loans, 3 
+informati on sufficient to identify:  4 
+ 
+    1. The correct corporate name of the subsidiary or affiliate;  5 
+ 
+    2. An address and telephone number of a contact person for 6 
+the subsidiary or affiliate;  7 
+ 
+    3. A resident agent; and  8 
+ 
+    4. Any additional information considered necessary by the 9 
+Commissioner for protection of the public;  10 
+ 
+  (11) Any employee benefit plan qualified under Internal Revenue Code § 401 11 
+or persons acting as fiduciaries with respect to such a plan, making mortgage loans solely 12 
+to plan particip ants from plan assets; [or] 13 
+ 
+  (12) Employees acting within the scope of their employment with:  14 
+ 
+   (i) A licensed mortgage lender; or  15 
+ 
+   (ii) A person who is exempt from licensure under this subtitle ; OR 16 
+ 
+  (13)  A PASSIVE TRUST .  17 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That:  18 
+ 
+ (a) There is a Maryland Licensing Workgroup.  19 
+ 
+ (b) The Workgroup consists of the following members:  20 
+ 
+  (1) the Commissioner of Financial Regulation, or the Commissioner’s 21 
+designee;  22 
+ 
+  (2) the following members jointly appointed by the President of the Senate 23 
+and the Speaker of the House:  24 
+ 
+   (i) one representative  three representatives  of a consumer advocacy 25 
+organization with general knowledge about financial services, lending services, capital 26 
+markets, and structured finance;  27 
+ 
+   (ii) one representative of a banking institution operating in the 28 
+State;  29 
+8 SENATE BILL 1026   
+ 
+  
+   (iii) one representative of a credit union operating in the State;  1 
+ 
+   (iv) one representative of a nonbank mortgage business operating in 2 
+the State; and  3 
+ 
+   (v) one member with e xpertise in:  4 
+ 
+    1. State laws and regulations that impact the chartering, 5 
+licensing, and supervision of the lending industry within the State; and  6 
+ 
+    2. financial products and practices that impact consumers; 7 
+and 8 
+ 
+  (3) the following members appointed by the Governor:  9 
+ 
+   (i) one member who has general knowledge about financial services, 10 
+lending services, capital markets, and structured finance; and  11 
+ 
+   (ii) one member of the public.  12 
+ 
+ (c) The Commissioner of Financial Regulation, or the Commissioner’s designee, 13 
+shall serve as the chair of the Workgroup.  14 
+ 
+ (d) The Office of Financial Regulation shall provide staff for the Workgroup.  15 
+ 
+ (e) A member of the Workgroup:  16 
+ 
+  (1) may not receive compensation as a member of the Workgroup; but  17 
+ 
+  (2) is entitled t o reimbursement for expenses under the Standard State 18 
+Travel Regulations, as provided in the State budget.  19 
+ 
+ (f) The Workgroup shall:  20 
+ 
+  (1) subject to subsection (g) of this section, study:  21 
+ 
+   (i) all licensing statutes and regulations adopted under thos e 22 
+statutes concerning the provision of financial services in the State;  23 
+ 
+   (ii) the need for and the efficacy of the existing licensing and 24 
+registration system for actively licensed persons who provide financial services in the State; 25 
+and 26 
+ 
+   (iii) whethe r there is any benefit to expanding existing licensing or 27 
+registration systems to persons not already subject to those licensing requirements; and  28 
+ 
+ SENATE BILL 1026  9 
+ 
+   (2) make recommendations regarding:  1 
+ 
+   (i) the licensing and registration system for actively licensed 2 
+persons who provide financial services in the State; and  3 
+ 
+   (ii) the expansion of the existing licensing or registration systems to 4 
+persons not already subject to those licensing requirements.  5 
+ 
+ (g) In conducting the study required under subsection (f) of  this section, the 6 
+Workgroup shall, at a minimum, consider the potential impacts, costs, and benefits of its 7 
+recommendations on:  8 
+ 
+  (1) residents of the State;  9 
+ 
+  (2) persons facilitating, brokering, making, servicing, or acquiring loans in 10 
+the State;  11 
+ 
+  (3) the availability of credit in the State;  12 
+ 
+  (4) the cost of credit in the State compared to other states; and  13 
+ 
+  (5) the capital markets, including the volume of secondary market 14 
+transactions.  15 
+ 
+ (h) On or before December 31, 2025, the Workgroup shall re port its findings and 16 
+recommendations to the Governor and, in accordance with § 2 –1257 of the State 17 
+Government Article, the General Assembly.  18 
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That the intent of Section 1 of this 19 
+Act is to clarify existing exemptions  under State law.  20 
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED, That  this Act is an emergency 21 
+measure, is necessary for the immediate preservation of the public health or safety, has 22 
+been passed by a yea and nay vote supported by three –fifths of all the members elected to 23 
+each of the two Houses of the General Assembly, and  shall take effect from the date it is 24 
+enacted. Section 2 of this Act shall remain effective through June 30, 2026, and, at the end 25 
+of June 30, 2026, Section 2 of this Act, with no further action required by the General 26 
+Assembly, shall be abrogated and of no further force and effect.  27 
+ 

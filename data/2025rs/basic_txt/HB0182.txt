@@ -1,0 +1,185 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.  
+         Italics indicate opposite chamber/confere nce committee amendments.             *hb0182*      
+HOUSE BILL 182  
+R5   (5lr1244 ) 
+ENROLLED BILL  
+— Environment and Transportation/Judicial Proceedings  — 
+Introduced by Delegate Stewart  Delegates Stewart, Behler, Boyce, Foley, Guyton, 
+Healey, Lehman, R.  Lewis, T.  Morgan, Ruth, Terrasa, and Ziegler  
+ 
+Read and Examined by Proofreaders:  
+ 
+_______________________________________________  
+Proofreader.  
+_______________________________________________  
+Proofreader.  
+ 
+Sealed with the  Great Seal and presented to the Governor, for his approval this  
+  
+_______ day of _______________ at ________________________ o’clock, ________M.  
+  
+______________________________________________  
+Speaker .  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Motor Vehicles – Speed Monitoring Systems – Penalties  2 
+ 
+FOR the purpose of altering the penalties for a civil citation issued as a result of a recorded 3 
+image produced by a speed monitoring system; requiring the State Highway 4 
+Administration to convene a certain workgroup to study best practices regarding 5 
+speed monitoring systems in school zones;  and generally relating to speed monitoring 6 
+systems.  7 
+ 
+BY repealing and reenacting, without amendments,  8 
+ Article – Transportation  9 
+Section 21 –809(a)(1) and (8) and  (b)(1)(i) and (vi)  10 
+ Annotated Code of Maryland  11 
+ (2020 Replacement Volume and 2024 Supplement)  12 
+ 
+2 HOUSE BILL 182   
+ 
+ BY repealing and reenacting, with amendments,  1 
+ Article – Transportation  2 
+Section 21 –809(c)  3 
+ Annotated Code of Maryland  4 
+ (2020 Replacement Volume and 2024 Supplem ent) 5 
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 6 
+That the Laws of Maryland read as follows:  7 
+ 
+Article – Transportation  8 
+ 
+21–809. 9 
+ 
+ (a) (1) In this section the following words have the meanings indicated.  10 
+ 
+  (8) “Speed monitoring system” means a device with one or more motor 11 
+vehicle sensors producing recorded images of motor vehicles traveling at speeds at least 12 12 
+miles per hour above the posted speed limit.  13 
+ 
+ (b) (1) (i) A speed monitoring system may not be used in a local jurisdiction 14 
+under this section unless its use is authorized by the governing body of the local jurisdiction 15 
+by local law enacted after reasonable notice and a public hearing.  16 
+ 
+   (vi) This section applies to a violation of this subtitle recorded by a 17 
+speed monitoring s ystem that meets the requirements of this subsection and has been 18 
+placed:  19 
+ 
+    1. In Anne Arundel County, Montgomery County, or Prince 20 
+George’s County, on a highway in a residential district, as defined in § 21 –101 of this title, 21 
+with a maximum posted spee d limit of 35 miles per hour, which speed limit was established 22 
+using generally accepted traffic engineering practices;  23 
+ 
+    2. In a school zone with a posted speed limit of at least 20 24 
+miles per hour;  25 
+ 
+    3. In Prince George’s County:  26 
+ 
+    A. Subject to subparagraph (vii)1 of this paragraph, on 27 
+Maryland Route 210 (Indian Head Highway); or  28 
+ 
+    B. On that part of a highway located within the grounds of 29 
+an institution of higher education as defined in § 10 –101(h) of the Education Article, or 30 
+within one –half mile of the grounds of a building or property used by the institution of 31 
+higher education where generally accepted traffic and engineering practices indicate that 32 
+motor vehicle, pedestrian, or bicycle traffic is substantially generated or influenced by th e 33 
+institution of higher education;  34 
+ 
+ HOUSE BILL 182  3 
+ 
+     4. Subject to subparagraph (vii)2 of this paragraph, on 1 
+Interstate 83 in Baltimore City;  2 
+ 
+    5. In Anne Arundel County, on Maryland Route 175 (Jessup 3 
+Road) between the Maryland Route 175/295 interchange and the Anne Arundel  4 
+County –Howard County line; or  5 
+ 
+    6. Subject to subparagraph (vii)3 of this paragraph, at the 6 
+intersection of Maryland Route 3 33 (Oxford Road) and Bonfield Avenue in Talbot County.  7 
+ 
+ (c) (1) Unless the driver of the motor vehicle received a citation from a police 8 
+officer at the time of the violation, the owner or, in accordance with subsection (f)(4) of this 9 
+section, the driver o f a motor vehicle is subject to a civil penalty if the motor vehicle is 10 
+recorded by a speed monitoring system while being operated in violation of this subtitle.  11 
+ 
+  (2) A civil penalty under this subsection [may not exceed $40] IS: 12 
+ 
+   (I) IF THE CITATION ALLEG ES THAT THE DRIVER O F THE 13 
+MOTOR VEHICLE EXCEED ED THE SPEED LIMIT B Y BETWEEN 12 AND 15, INCLUSIVE , 14 
+MILES PER HOUR , $40 $50 $40; 15 
+ 
+   (II) IF THE CITATION ALLEG ES THAT THE DRIVER O F THE 16 
+MOTOR VEHICLE EXCEED ED THE SPEED LIMIT B Y BETWEEN 16 AND 19, INCLUSIVE , 17 
+MILES PER HOUR , $55 $70; 18 
+ 
+   (III) IF THE CITATION ALLEG ES THAT THE DRIVER O F THE 19 
+MOTOR VEHICLE EXCEED ED THE SPEED LIMIT B Y BETWEEN 20 AND 29, INCLUSIVE , 20 
+MILES PER HOUR , $95 $120 ; 21 
+ 
+   (IV) IF THE CITATION ALLEG ES THAT THE DRIVER O F THE 22 
+MOTOR VEHICLE EXCEED ED THE SPEED LIMIT B Y BETWEEN 30 AND 39, INCLUSIVE , 23 
+MILES PER HOUR , $180  $230 ; AND 24 
+ 
+   (V) IF THE CITATION ALLEG ES THAT THE DRIVER O F THE 25 
+MOTOR VEHICLE EXCEED ED THE SPEED LIMIT B Y 40 MILES PER HOUR OR MORE , 26 
+$350  $425 . 27 
+ 
+  (3) For purposes of this section, the District Court shall prescribe [: 28 
+ 
+   (i) A] A uniform citation form consistent with subsection (d)(1) of 29 
+this section and § 7 –302 of the Courts Article [; and  30 
+ 
+   (ii) A civil penalty, wh ich shall be indicated on the citation, to be paid 31 
+by persons who choose to prepay the civil penalty without appearing in District Court ]. 32 
+ 
+4 HOUSE BILL 182   
+ 
+  SECTION 2. AND BE IT FURTHER ENACTED, That:  1 
+ 
+ (a) The State Highway Administration shall convene a workgroup to study best 2 
+practices regarding speed monitoring systems in school zones.  3 
+ 
+ (b) The study of the workgroup shall:  4 
+ 
+  (1)  include relevant local education stakeholders, including local 5 
+governments, local law enforcement, and any other participants necessary to fully 6 
+represent the interests of student pedestrians in school zones;  7 
+ 
+  (2) assess:  8 
+ 
+   (i) the existing policies r egarding speed monitoring systems in 9 
+school zones;  10 
+ 
+   (ii) whether the current radius in which speed monitoring systems 11 
+are allowed in school zones is consistent with best practices;  12 
+ 
+   (iii) the annual number of serious traffic incidents that occur with in 13 
+the current radius in which speed monitoring systems are allowed in school zones, by 14 
+jurisdiction;  15 
+ 
+   (iv) the number of speed monitoring systems currently located within 16 
+the current radius in which speed monitoring systems are allowed in school zones,  by 17 
+jurisdiction;  18 
+ 
+   (v) the average distance that each speed monitoring system within 19 
+a school zone is located from the property line of the school with which it is associated, by 20 
+county; and  21 
+ 
+   (vi) any other best practices regarding the use of speed m onitoring 22 
+systems in school zones.  23 
+ 
+ (c) On or before December 1, 2025, the State Highway Administration shall 24 
+submit the findings and any recommendations of the study to the Governor and, in 25 
+accordance with § 2 –1257 of the State Government Article, the Ge neral Assembly.  26 
+ 
+ SECTION 3.  AND BE IT FURTHER ENACTED, That this Act shall take effect 27 
+October 1, 2025.  28 

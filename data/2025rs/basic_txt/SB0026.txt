@@ -1,0 +1,983 @@
+ 
+ 
+EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
+        [Brackets ] indicate matter deleted from existing law.  
+         Underlining  indicates amendments to bill.  
+         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
+amendment.  
+         Italics indicate opposite chamber/conference committee amendments.             *sb0026*      
+SENATE BILL 26  
+K3, P1, L6    (5lr1337 ) 
+ENROLLED BILL  
+— Finance/Appropriations  — 
+Introduced by Senator Kramer  
+ 
+Read and Examined by Proofreaders:  
+ 
+_______________________________________________  
+Proofreader.  
+_______________________________________________  
+Proofreader.  
+ 
+Sealed with the Great Seal and presented to the Governor, for his approval this  
+  
+_______ day of _______________ at _________________ _______ o’clock, ________M.  
+  
+______________________________________________  
+President .  
+ 
+CHAPTER ______  
+ 
+AN ACT concerning  1 
+ 
+Labor and Employment – Occupational Safety and Health – Revisions  2 
+(Davis Martinez Public Employee Safety and Health Act ) 3 
+ 
+FOR the purpose of requiring the Correctional Training Commission to adopt certain 4 
+regulations for the training, issuance, and use of body –worn cameras; requiring each 5 
+correctional unit to develop and maintain a certain written policy for the use of  6 
+body –worn cameras by correctional officers, subject to a certain exception; 7 
+establishing that it is lawful for a correctional officer to intercept certain 8 
+communications by use of a body –worn camera under certain circumstances;  9 
+requiring the Commissioner of Lab or and Industry to appoint an Assistant 10 
+Commissioner for Public Employees’ Safety and Health for certain purposes;  11 
+establishing the Public Employees’ Safety and Health Unit in the Division of Labor 12 
+and Industry to administer and enforce certain provisions regarding the oversight of 13 
+workplace safety and health of employees of certain public bodies; altering the 14 
+Maryland Occupational Safety and Health Act as it applies to certain public bodies; 15 
+2 SENATE BILL 26   
+ 
+ repealing the prohibition on certain penalties being applied to p ublic bodies; 1 
+requiring the Attorney General to provide certain notices and prioritize certain 2 
+requests for administrative warrants; requiring the revenues from certain civil 3 
+penalties to be used for the Maryland Apprenticeship and Training Program; 4 
+requir ing the Commissioner of Labor and Industry , in consultation with the 5 
+Occupational Safety and Health Advisory Board, to adopt regulations that protect 6 
+employees of public bodies from workplace violence; providing that certain penalties 7 
+do not apply with res pect to an elevator unit owned by a public body;  and generally 8 
+relating to the Maryland Occupational Safety and Health Act  public employee safety 9 
+and health . 10 
+ 
+BY adding to  11 
+ Article – Correctional Services  12 
+ Section 8 –211 13 
+ Annotated Code of Maryland  14 
+ (2017  Replacement Volume and 2024 Supplement)  15 
+ 
+BY repealing and reenacting, with amendments,  16 
+ Article – Courts and Judicial Proceedings  17 
+ Section 10 –402(c)(11)  18 
+ Annotated Code of Maryland  19 
+ (2020 Replacement Volume and 2024 Supplement)  20 
+ 
+BY repealing and reenacting, with amendments,  21 
+ Article – Labor and Employment  22 
+Section 2–104(b),  5–101, 5 –102, 5 –104, 5–202(b)(1), 5 –205(h),  5–202, 5–206, 5 –207, 23 
+5–208, 5–211, 5 –212, 5 –308, 5–702, 5 –804, 5 –811, 5–702(a),  and 5 –812 24 
+ Annotated Code of Maryland  25 
+ (2016 Replacem ent Volume and 2024 Supplement)  26 
+ 
+BY repealing  27 
+ Article – Labor and Employment  28 
+Section 5 –801 29 
+ Annotated Code of Maryland  30 
+ (2016 Replacement Volume and 2024 Supplement)  31 
+ 
+BY adding to  32 
+ Article – Labor and Employment  33 
+Section 5 –1301 and 5 –1302 to be under the new subtitle “Subtitle 13. Standards for 34 
+Preventing Workplace Violence”  35 
+ Annotated Code of Maryland  36 
+ (2016 Replacement Volume and 2024 Supplement)  37 
+ 
+BY repealing and reenacting, with amendments,  38 
+ Article – Public Safety  39 
+ Section 12 –804(b)  40 
+ Annotated Code of  Maryland  41 
+ SENATE BILL 26  3 
+ 
+  (2022 Replacement Volume and 2024 Supplement)  1 
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 2 
+That the Laws of Maryland read as follows:  3 
+ 
+Article – Correctional Services  4 
+ 
+8–211.  5 
+ 
+ (A) ON OR BEFORE JANUARY 1, 2026,  THE COMMISSION  SHALL ADOPT 6 
+REGULATIONS FOR THE TRAINING , ISSUANCE , AND USE OF A BODY –WORN CAMERA 7 
+BY A CORRECTIONAL OF FICER THAT ADDRESS : 8 
+ 
+  (1) THE TESTING OF BODY –WORN CAMERAS TO ENSU RE ADEQUATE 9 
+FUNCTIONING ; 10 
+ 
+  (2) THE PROCEDURE FOR TH E CORRECTIONAL OFFIC ER TO FOLLOW I F 11 
+THE CAMERA FAILS TO PROPERLY OPERATE AT THE BEGINNING OF OR DURING THE 12 
+CORRECTIONAL OFFICER ’S SHIFT ; 13 
+ 
+  (3) WHEN RECORDING IS MA NDATORY ; 14 
+ 
+  (4) WHEN RECORDING IS PR OHIBITED ; 15 
+ 
+  (5) WHEN RECORDING IS DI SCRETIONARY ; 16 
+ 
+  (6) WHEN RECORDING MAY R EQUIRE CONSEN T OF A SUBJECT BEING  17 
+RECORDED ; 18 
+ 
+  (7) WHEN A RECORDING MAY  BE ENDED ; 19 
+ 
+  (8) PROVIDING NOTICE OF RECORDING ; 20 
+ 
+  (9) ACCESS TO AND CONFID ENTIALITY OF RECORDI NGS; 21 
+ 
+  (10)  THE SECURE STORAGE O F DATA FROM A BODY –WORN CAMERA ; 22 
+ 
+  (11)  REVIEW AND USE OF RE CORDINGS ; 23 
+ 
+  (12)  RETENTION OF RECORDI NGS; 24 
+ 
+  (13)  DISSEMINATION AND RE LEASE OF RECORDINGS ; 25 
+ 
+4 SENATE BILL 26   
+ 
+   (14)  NOTIFICATION REQUIRE MENTS WHEN ANOTHER I NDIVIDUAL 1 
+BECOMES A PARTY TO T HE COMMUNICATION FOL LOWING THE INITIAL 2 
+NOTIFICATION ; 3 
+ 
+  (15)  SPECIFIC PROTECTIONS  FOR INDIVIDUALS WHEN THE RE IS AN 4 
+EXPECTATION OF PRIVA CY IN PRIVATE OR PUB LIC PLACES ; AND  5 
+ 
+  (16)  THE PROCEDURES FOR A  CORRECTIONAL OFFICER  TO FOLLOW IF 6 
+THE CORRECTIONAL OFF ICER REGULARLY INTER ACTS WITH MEMBERS OF  THE 7 
+PUBLIC OUTSIDE AS PA RT OF THE CORRECTION AL OFFICER ’S OFFICIAL DUTIES . 8 
+ 
+ (B) EXCEPT AS PROVIDED IN  SUBSECTION (C) OF THIS SECTION , EACH 9 
+CORRECTIONAL UNIT SH ALL DEVELOP AND MAIN TAIN A WRITTEN POLIC Y 10 
+CONSISTENT WITH THE REGULATIONS ADOPTED BY THE COMMISSION UNDER 11 
+SUBSECTION (A) OF THIS SECTION FOR THE  USE OF BODY –WORN CAMERAS . 12 
+ 
+ (C) (1) THIS SUBSECTION APPLI ES ONLY TO A LOCAL C ORRECTIONAL 13 
+FACILITY . 14 
+ 
+  (2) A LOCAL CORRECTIONAL  FACILITY MAY NOT BE REQUIRED TO 15 
+ADOPT THE USE OF BOD Y–WORN CAMERAS BY CORR ECTIONAL OFFICERS . 16 
+ 
+  (3) IF A LOCAL CORRECTION AL FACI LITY ADOPTS THE USE OF  17 
+BODY–WORN CAMERAS , THE LOCAL CORRECTION AL FACILITY SHALL DE VELOP AND 18 
+MAINTAIN A WRITTEN P OLICY CONSISTENT WIT H THE REGULATIONS AD OPTED BY 19 
+THE COMMISSION UNDER SUBS ECTION (A) OF THIS SECTION FOR THE USE OF  20 
+BODY–WORN CAMERAS . 21 
+ 
+Article – Courts and Judicial Proceedings  22 
+ 
+10–402. 23 
+ 
+ (c) (11) (i) 1. In this paragraph the following words have the meanings 24 
+indicated.  25 
+ 
+    2. “Body –worn digital recording device ” means a device worn 26 
+on the person of a law enforcement officer OR A CORRECTIONAL OFFICER  that is capable 27 
+of recording video and intercepting oral communications.  28 
+ 
+    3. “Electronic control device ” has the meaning stated in §  29 
+4–109 of the Criminal Law Article.  30 
+ 
+   (ii) It is lawful under this subtitle for a law enforcement officer OR A 31 
+CORRECTIONAL OFFICER  in the course of the officer’s regular duty to intercept an oral 32 
+ SENATE BILL 26  5 
+ 
+ communication with a body –worn digital recording device or an electronic control device 1 
+capable of rec ording video and oral communications if:  2 
+ 
+    1. The law enforcement officer OR CORRECTIONAL OFFI CER 3 
+is in uniform or prominently displaying the officer’s badge or other insignia;  4 
+ 
+    2. The law enforcement officer OR CORRECTIONAL OFFI CER 5 
+is making reason able efforts to conform to standards in accordance with § 3 –511 of the 6 
+Public Safety Article  OR § 8–211 OF THE CORRECTIONAL SERVICES ARTICLE for the use 7 
+of body –worn digital recording devices or electronic control devices capable of recording 8 
+video and ora l communications;  9 
+ 
+    3. The law enforcement officer OR CORRECTIONAL OFFI CER 10 
+is a party to the oral communication;  11 
+ 
+    4. Law enforcement OR THE CORRECTIONAL OFFICER  12 
+notifies, as soon as is practicable, the individual that the individual is being recorded, unless 13 
+it is unsafe, impractical, or impossible to do so; and  14 
+ 
+    5. The oral interception is being made as part of a videotape 15 
+or digital recording.  16 
+ 
+   (iii) Failure to notify under subparagraph (ii)4 of this paragraph does 17 
+not affect the admissibility in court of the recording if the failure to notify involved an 18 
+individual who joined a discussion in progress for which proper notification was previously 19 
+given.   20 
+ 
+Article – Labor and Employment  21 
+ 
+2–104. 22 
+ 
+ (b) (1) The Commissioner shall appoint an Assistant Commissioner for 23 
+Occupational Safety and Health AND AN ASSISTANT COMMISSIONER FOR PUBLIC  24 
+EMPLOYEES ’ SAFETY AND HEALTH , subject to the approval of the Secretary.  25 
+ 
+  (2) The [Assistant Commissioner is ] ASSISTANT COMMISSION ERS ARE  26 
+in the management service in the State Personnel Management System and serves at the 27 
+pleasure of the Commissioner.  28 
+ 
+  (3) The [Assistant Commissioner is ] ASSISTANT COMMISSION ERS ARE  29 
+entitled to the salary provided in the State budget.  30 
+ 
+5–101. 31 
+ 
+ (a) In this title the following words have the meanings indicated.  32 
+ 
+6 SENATE BILL 26   
+ 
+  (b) “Commissioner” means the Commissioner of Labor and Industry.  1 
+ 
+ (c) (1) “Employee” means, except as provided in § 5 –401 of this ti tle, an 2 
+individual whom an employer employs, for a wage or other compensation, in the business 3 
+of the employer.  4 
+ 
+  (2) “Employee” includes:  5 
+ 
+   (i) an individual whom a [governmental unit ] PUBLIC BODY  6 
+employs;  7 
+ 
+   (ii) an individual who is licensed as a taxicab driver and leases or 8 
+rents a taxicab from a person who operates or owns a taxicab business in Baltimore City;  9 
+ 
+   (iii) an individual who is employed for part –time or temporary help 10 
+by a [governmental unit ] PUBLIC BODY  or person who engages in a bu siness that directly 11 
+employs individuals to provide part –time or temporary help to another [governmental unit ] 12 
+PUBLIC BODY  or person; and  13 
+ 
+   (iv) an individual who performs work for a [governmental unit ] 14 
+PUBLIC BODY  or person to whom the individual is pro vided by another [governmental 15 
+unit] PUBLIC BODY  or person who engages in a business that directly employs individuals 16 
+to provide part –time or temporary help.  17 
+ 
+ (d) (1) “Employer” means:  18 
+ 
+   (i) except as provided in § 5 –401 of this title, a person who is 19 
+engaged in commerce, industry, trade, or other business in the State and employs at least 20 
+one employee in that business; or  21 
+ 
+   (ii) a public body.  22 
+ 
+  (2) “Employer” includes:  23 
+ 
+   (i) a person who operates or owns a taxicab business in Baltimore 24 
+City and leases or rents a taxicab to a licensed taxicab driver, to provide services to the 25 
+public;  26 
+ 
+   (ii) a governmental unit  PUBLIC BODY  or person who engages in a 27 
+business that directly employs individuals to provide part –time or temporary help to 28 
+another governmental unit  PUBLIC BODY  or person; and  29 
+ 
+   (iii) a governmental unit  PUBLIC BODY  or person who contracts 30 
+directly with another governmental unit  PUBLIC BODY  or person who engages in a 31 
+business that directly employs individuals to provide part –time or temporary help to 32 
+another governmental unit  PUBLIC BODY  or person.  33 
+ SENATE BILL 26  7 
+ 
+  
+ (e) (1) “FIELDWORK LOCATION ” MEANS A PLACE WHERE AN EMPLOYEE  1 
+OF A PUBLIC BODY GOE S TO CONDUC T WORK ON BEHALF OF THE PUBLIC BODY THAT  2 
+IS AWAY FROM A FACIL ITY THAT IS RENTED , LEASED , OR OWNED BY A PUBLIC  BODY . 3 
+ 
+  (2) “FIELDWORK LOCATION ” INCLUDES A DRIVING R OUTE THAT AN  4 
+EMPLOYEE REGULARLY T RAVELS IN THE PERFOR MANCE OF DUTIES FOR THE 5 
+PUBLIC BODY . 6 
+ 
+ (F) “Occupational safety and health standard” means a regulation that requires:  7 
+ 
+  (1) a condition that is reasonably appropriate or necessary to make 8 
+employment and places of employment safe and healthful; or  9 
+ 
+  (2) the adoption or use of a means, method,  operation, practice, or process 10 
+that is reasonably appropriate or necessary to make employment and places of employment 11 
+safe and healthful.  12 
+ 
+ [(f)] (G) “Person” includes a successor.  13 
+ 
+ [(g)] (H) (1) “Place of employment” means a place in or about which an  14 
+employee is allowed to work.  15 
+ 
+  (2) “PLACE OF EMPLOYMENT ” INCLUDES : 16 
+ 
+   (I) A FACILITY THAT IS R ENTED , LEASED , OR OWNED BY A  17 
+PUBLIC BODY ; AND  18 
+ 
+   (II) A FIELDWORK LOCATION . 19 
+ 
+ [(h)] (I) “Public body” means:  20 
+ 
+  (1) a governmental unit;  21 
+ 
+  (2) a public or quasi –public corporation of the State;  22 
+ 
+  (3) a school district in the State or any unit of the district; or  23 
+ 
+  (4) a special district in the State or any unit of the district.  24 
+ 
+ (J) (I) (1) “WORKPLACE VIOLENCE ” MEANS AN ACT OF VIOL ENCE OR A 25 
+THREAT OF VIOLENCE THAT OCCURS  AT A PLACE OF EMPLOY MENT AND THAT IS NOT  26 
+A LAWFUL ACT OF SELF –DEFENSE OR DEFENSE O F ANOTHER PERSON . 27 
+ 
+8 SENATE BILL 26   
+ 
+   (2) “WORKPLACE VIOLENCE ” INCLUDES , REGARDLESS OF WHETHE R 1 
+THE EMPLOYEE IS PHYS ICALLY OR PSYCHOLOGI CALLY INJURED : 2 
+ 
+   (I) USING OR THR EATENING TO USE PHYS ICAL FORCE AGAINST 3 
+AN EMPLOYEE ; OR 4 
+ 
+   (II) AN INCIDENT INVOLVIN G THE USE OF OR THRE ATENING THE 5 
+USE OF A FIREARM OR OTHER DANGEROUS WEAP ON. 6 
+ 
+5–102. 7 
+ 
+ (a) The General Assembly finds that:  8 
+ 
+  (1) personal injuries and illnesses that arise  out of conditions of 9 
+employment substantially burden employers and employees in terms of lost production, 10 
+medical expenses, disability compensation payments, and lost wages; [and] 11 
+ 
+  (2) the prevention of these injuries and illnesses is in the best intere st and 12 
+welfare of the people and the State ; AND  13 
+ 
+  (3) PUBLIC BODIES SHOULD  BE LEADERS IN CREATI NG AND 14 
+MAINTAINING SAFE AND  HEALTHY WORKPLACES . 15 
+ 
+ (b) The purposes of this title are to ensure, to the extent practicable, that each 16 
+working [man and woman ] INDIVIDUAL  in the State has working conditions that are safe 17 
+and healthful and to preserve human resources by:  18 
+ 
+  (1) providing that employers and employees have separate but dependent 19 
+responsibilities and rights with respect to making working conditions safe and healthful;  20 
+ 
+  (2) providing for the development and adoption of occupational safety and 21 
+health standards , INCLUDING STANDARDS THAT ADDRESS WORKPLA CE VIOLENCE ; 22 
+ 
+  (3) providing for training and other education of personnel so that 23 
+occupational safe ty and health standards are administered fairly and efficiently;  24 
+ 
+  (4) providing an effective compliance and enforcement program under this 25 
+title;  26 
+ 
+  (5) encouraging employers and employees to:  27 
+ 
+   (i) reduce the number of occupational health and safety h azards at 28 
+their places of employment; and  29 
+ 
+   (ii) create or improve programs to make working conditions safe and 30 
+healthful;  31 
+ SENATE BILL 26  9 
+ 
+  
+  (6) encouraging joint efforts of labor and management to reduce diseases 1 
+and injuries that arise out of employment;  2 
+ 
+  (7) build ing on advances already made through the initiatives of employers 3 
+and employees to make working conditions safe and healthful;  4 
+ 
+  (8) developing innovative approaches, methods, and techniques to deal 5 
+with occupational safety and health problems;  6 
+ 
+  (9) providing for research in the field of occupational safety and health;  7 
+ 
+  (10) conducting research on occupational health problems, including 8 
+research to:  9 
+ 
+   (i) identify causal connections between diseases and work in 10 
+environmental conditions; and  11 
+ 
+   (ii) explore ways to discover latent diseases;  12 
+ 
+  (11) providing medical criteria to ensure, to the extent practicable, that 13 
+work does not diminish the functional capacity, health, or life expectancy of an employee;  14 
+ 
+  (12) providing for reporting procedures on  occupational safety and health 15 
+that are appropriate to help to achieve the purposes of this title and to describe accurately 16 
+the nature of occupational safety and health problems;  17 
+ 
+  (13) providing for the dissemination of information about health and saf ety 18 
+hazards posed by toxic and hazardous substances to which workers are exposed;  19 
+ 
+  (14) requiring employers to educate employees who work with hazardous 20 
+substances about the hazards of the substances and about safe procedures;  21 
+ 
+  (15) requiring employers  to give information to governmental units  PUBLIC 22 
+BODIES  that are charged with fire protection, to protect the health and safety of firefighters 23 
+and the public; [and] 24 
+ 
+  (16) providing information and incentives for employers and employees to 25 
+make ridesharing arrangements ; AND  26 
+ 
+  (17) MAKING WORKPLACES OF  PUBLIC BODIES SAFER AND MORE 27 
+HEALTHFUL BY REQUIRI NG: 28 
+ 
+   (I) PUBLIC BODIES TO CRE ATE OR IMPROVE PROGR AMS AND 29 
+PLANS RELATED TO WOR KPLACE VIOLENCE ; 30 
+ 
+10 SENATE BILL 26   
+ 
+    (II) THAT WORKPLACES OF P UBLIC BODIES BE INSP ECTED 1 
+REGULARLY ; AND 2 
+ 
+   (III) THAT WORKPLACES OF P UBLIC BODIES BE MAIN TAINED SO 3 
+THAT : 4 
+ 
+    1. RESIDENTS AND THOSE SERVED BY PUBLIC BOD IES 5 
+ARE SAFE AND HEALTHY ; AND  6 
+ 
+    2. EMPLOYEES ARE PROVID ED PLACES OF EMPLOYM ENT 7 
+THAT ARE SAFE , HEALTHY , AND PRODUCTIVE OVER THE COURSE OF T HEIR 8 
+CAREERS . 9 
+ 
+5–104. 10 
+ 
+ (a) Each employer shall provide each employee of the employer with employment 11 
+and a place of employment that are:  12 
+ 
+  (1) safe and healthful; and  13 
+ 
+  (2) free from each recognized hazard that is causing or likely t o cause death 14 
+or serious physical harm to the employee.  15 
+ 
+ (b) (1) Each employer shall comply with this title, each applicable regulation 16 
+that the Commissioner adopts to carry out this title, and each applicable order that the 17 
+Commissioner passes under this  title.  18 
+ 
+  (2) Each employee shall comply with this title and, when applicable to the 19 
+employee’s actions and conduct in the course of employment, each regulation that the 20 
+Commissioner passes under this title.  21 
+ 
+ (c) (1) Each employer shall keep its employee s informed of their protections 22 
+and duties under this title, including each applicable occupational safety and health 23 
+standard, by:  24 
+ 
+  [(1)] (I) posting notice where notices to employees normally are posted; 25 
+or 26 
+ 
+  [(2)] (II) using other appropriate means.  27 
+ 
+  (2) IN ADDITION TO THE RE QUIREMENTS UNDER PAR AGRAPH (1) OF 28 
+THIS SUBSECTION , EACH PUBLIC BODY ANN UALLY SHALL SEND  MAKE AVAILABLE  BY 29 
+E–MAIL  TO EACH OF ITS EMPLO YEES A COPY OF : 30 
+ 
+ SENATE BILL 26  11 
+ 
+    (I) THE REPORT ISSUED BY  THE ASSISTANT  COMMISSIONER  1 
+FOR PUBLIC EMPLOYEES ’ SAFETY AND HEALTH  UNDER § 5–206( F) OF THIS TITLE ; 2 
+AND  3 
+ 
+   (II) CITATIONS ISSUED BY THE COMMISSIONER TO THE P UBLIC 4 
+BODY IN THE IMMEDIAT ELY PRECEDING YEAR , IF ANY . 5 
+ 
+5–202. 6 
+ 
+ (a) (1) [The] EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS  7 
+SUBSECTION , THE Commissioner may delegate to the [assistant commissioner ] 8 
+ASSISTANT COMMISSIONER  for [occupational safety ] OCCUPATIONAL SAFETY  and 9 
+[health ] HEALTH  any duty or function of the Commissioner under this title.  10 
+ 
+  (2) THE COMMISSIONER SHALL DE LEGATE TO THE ASSISTANT  11 
+COMMISSIONER FOR PUBLIC EMPLOYEES ’ SAFETY AND HEALTH ANY DUTY OR  12 
+FUNCTION RELATED TO THE ADMINISTRATION A ND ENFORCEMENT OF TH IS TITLE  13 
+WITH RESPECT TO PUBL IC BODIES . 14 
+ 
+ (b) (1) The Commissioner may enter into a written agreement with a 15 
+governmental  unit to delegate any power of inspection under this title.  16 
+ 
+  (2) An agreement under this subsection shall:  17 
+ 
+   (i) specify the procedure to be used in an inspection under the 18 
+agreement;  19 
+ 
+   (ii) enable the Commissioner to monitor an inspection power unde r 20 
+the agreement; and  21 
+ 
+   (iii) enable the Commissioner to revoke the agreement at any time.  22 
+ 
+5–202. 23 
+ 
+ (b) (1) The Commissioner may enter into a written agreement with a 24 
+[governmental unit ] PUBLIC BODY to delegate any power of inspection under this title.  25 
+ 
+5–205. 26 
+ 
+ (h) With the consent of a [governmental unit ] PUBLIC BODY , the Commissioner 27 
+may use an employee, facility , or service of the [governmental unit ] PUBLIC BODY , with or 28 
+without reimbursement, to help the Commissioner carry out a function under this title.   29 
+ 
+5–206. 30 
+ 
+12 SENATE BILL 26   
+ 
+  (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS  1 
+INDICATED . 2 
+ 
+  (2) “ASSISTANT COMMISSIONER ” MEANS THE ASSISTANT  3 
+COMMISSIONER FOR PUBLIC EMPLOYEES ’ SAFETY AND HEALTH . 4 
+ 
+  (3), “UNIT” MEANS THE PUBLIC EMPLOYEES ’ SAFETY AND HEALTH 5 
+UNIT. 6 
+ 
+ (B) THERE IS A PUBLIC EMPLOYEES ’ SAFETY AND HEALTH UNIT IN THE 7 
+DIVISION OF LABOR AND INDUSTRY . 8 
+ 
+ (C) THE ASSISTANT  COMMISSIONER SHALL BE  THE HEAD OF THE UNIT. 9 
+ 
+ [(a)] (D) The ASSISTANT  Commissioner shall , SUBJECT TO THE APPRO VAL 10 
+OF THE COMMISSIONER , provide for and maintain a comprehensive and effective 11 
+program on occupational safety and health for employees of public bodies THAT IS 12 
+ADMINISTERED AND ENF ORCED BY THE UNIT. 13 
+ 
+ [(b)] (E) The program under this section shall:  14 
+ 
+  (1) be general ly consistent with this title; [and] 15 
+ 
+  (2) require each public body to:  16 
+ 
+   (i) provide conditions and places of employment that are safe and 17 
+healthful;  18 
+ 
+   (ii) develop, conduct, and maintain in each unit of the public body a 19 
+program of self –inspection t hat the ASSISTANT  Commissioner approves AND MONITORS ; 20 
+ 
+   (iii) keep and make available to the ASSISTANT  Commissioner each 21 
+record that the Commissioner requires under this title and for development of information 22 
+about occupational accidents, illnesses, an d injuries, to allow proper evaluation and 23 
+necessary corrective action; and  24 
+ 
+   (iv) submit each report that the Commissioner requires ; AND  25 
+ 
+  (3) IN ADDITION TO A SEL F–INSPECTION REQUIRED UNDER ITEM 26 
+(2)(II) OF THIS SUBSECTION , INCLUDE AN INSPECTIO N PROGRA M DEVELOPED , 27 
+CONDUCTED , AND MAINTAINED BY TH E UNIT THAT : 28 
+ 
+   (I) REQUIRES THE UNIT TO ROUTINELY INS PECT THE  29 
+WORKPLACES OF PUBLIC  BODIES , INCLUDING FIELDWORK LOCATIONS ; 30 
+ 
+ SENATE BILL 26  13 
+ 
+    (II) PRIORITIZES WORKPLAC ES AND OCCUPATIONS T HAT 1 
+PRODUCE THE MOST COM PLAINTS AND CITATIONS ; 2 
+ 
+   (III) INCLUDES RANDOM INSP ECTIONS THAT OCCUR W ITHOUT  3 
+NOTICE TO THE PUBLIC  BODY THAT OWNS OR OP ERATES THE WORKPLACE ;  4 
+ 
+   (IV) ASSESSES THE FIELDWO RK LOCATIONS AND  5 
+CIRCUMSTANCES OF EMP LOYEES OF PUBLIC BOD IES WHO DO NOT WORK IN A  6 
+TRADITIONAL W ORKPLACE BUT INSTEAD  WORK AT VARYING ASSI GNED FIELDWORK  7 
+LOCATIONS ; AND  8 
+ 
+   (V) OTHERWISE COMPLIES W ITH THE INSPECTION 9 
+REQUIREMENTS OF § 5–208 OF THIS SUBTITLE . 10 
+ 
+ [(c) The Commissioner shall monitor the program of each public body for  11 
+self–inspection.  12 
+ 
+ (d) The penalties under Subtitle 8 of this title do not apply to a public body. ]  13 
+ 
+ (F) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , ON OR 14 
+BEFORE JULY 1 EACH YEAR THE ASSISTANT  COMMISSIONER SHALL PU BLISH 15 
+ONLINE A WRITTEN REP ORT ON SAFETY AND HE ALTH IN P UBLIC BODIES . 16 
+ 
+  (2) THE REPORT UNDER PARA GRAPH (1) OF THIS SUBSECTION S HALL 17 
+INCLUDE : 18 
+ 
+   (I) A SUMMARY OF THE WOR K AND FINDINGS OF TH E UNIT; 19 
+ 
+   (II) A SUMMARY OF ANY NEW  REGULATIONS ADOPTED DURING 20 
+THE IMMEDIATELY PREC EDING YEAR ; 21 
+ 
+   (III) A SUMMARY OF TRENDING SAFETY AND HEALTH ISSUES 22 
+RELATED TO EMPLOYEES  OF PUBLIC BODIES ; AND 23 
+ 
+   (IV) A LIST OF ANY : 24 
+ 
+    1. HAZARDOUS WORKPLACE CIRCUMSTANCES FOUND AT 25 
+THE WORKPLACES OF PU BLIC BODIES DURING T HE IMMEDIATELY PRECE DING YEAR ; 26 
+AND 27 
+ 
+    2. CITATIONS ISSUED TO PUBLIC BODIES DURING  THE 28 
+IMMEDIATELY PRECEDIN G YEAR . 29 
+ 
+14 SENATE BILL 26   
+ 
+   (3) ON OR BEFORE JULY 1 EACH YEAR , THE COMMISSIONER SHALL 1 
+SUBMIT THE REPORT RE QUIRED TO BE PUBLISH ED UNDER PARAGRAPH (1) OF THIS 2 
+SUBSECTION TO THE GENERAL ASSEMBLY , IN ACCORDANCE WITH § 2–1257  OF THE 3 
+STATE GOVERNMENT ARTICLE .  4 
+ 
+ (G) THIS SECTION DOES NOT  LIMIT OR PRECLUDE TH E COMMISSIONER OR 5 
+AN AUTHORIZED REPRES ENTATIVE OF THE COMMISSIONER FROM INS PECTING A 6 
+PUBLIC BODY IN ACCOR DANCE WITH ANY OTHER  PROVISION UNDER THIS  TITLE .  7 
+ 
+5–207. 8 
+ 
+ (A) On request o f the Commissioner, the Attorney General may proceed in a State 9 
+or federal court or before any other federal unit:  10 
+ 
+  (1) to enforce a decision of the Commissioner under this title;  11 
+ 
+  (2) subject to § 3 –302 of the State Finance and Procurement Article, to  12 
+collect a civil penalty that is assessed by order of the Commissioner under this title; or  13 
+ 
+  (3) to enforce any other order of the Commissioner under this title.  14 
+ 
+ (B) IF THE REQUEST UNDER SUBSECTION (A) OF THIS SECTION CONC ERNS 15 
+A PUBLIC BODY , THE ATTORNEY GENERAL SHALL : 16 
+ 
+  (1) PROVIDE NOTICE OF TH E REQUEST TO ALL AFF ECTED EMPLOYEES 17 
+OF THE PUBLIC BODY A ND ANY EMPLOYEE REPR ESENTATIVES ; AND 18 
+ 
+  (2) PROVIDE NOTICE OF TH E REQUEST TO THE GOVERNOR , THE 19 
+PRESIDENT OF THE SENATE , AND THE SPEAKER OF THE HOUSE OF DELEGATES . 20 
+ 
+5–208. 21 
+ 
+ (a) The Commissioner or authorized representative of the Commissioner may 22 
+enter a place of employment where work is performed, without delay at any reasonable 23 
+time, to:  24 
+ 
+  (1) inspect the place of employment;  25 
+ 
+  (2) investigate all pertinent apparatus, conditions, devices, equipment, 26 
+materials, [and] structures , AND VEHICLES  at the place of employment; and  27 
+ 
+  (3) question privately an agent, employee, or employer.  28 
+ 
+ (b) (1) Subject to any regulation that the Commissioner adopts to carry out 29 
+this title, a representative chosen by employees and a representative of the employer shall 30 
+ SENATE BILL 26  15 
+ 
+ be given an opportunity to accompany the Commissioner or an authorized representative 1 
+of the Com missioner during an inspection under this subtitle.  2 
+ 
+  (2) If there is no authorized employee representative, the Commissioner 3 
+shall consult with a reasonable number of employees about safety and health in the place 4 
+of employment.  5 
+ 
+ (c) (1) Before or durin g an inspection, an employee or authorized 6 
+representative of employees in a place of employment or authorized representative of the 7 
+Commissioner may give the Commissioner written notice of any violation of this title that 8 
+the employee or representative has  reason to believe exists at the place of employment of 9 
+the employee.  10 
+ 
+  (2) The Commissioner shall set, by regulation, procedures for informal 11 
+review of any refusal to issue a citation on the basis of notice under this subsection.  12 
+ 
+  (3) If an employee or  authorized representative of employees asks for 13 
+informal review under this subsection, the Commissioner shall give the employee or 14 
+representative a written statement of the reasons for the final disposition.  15 
+ 
+ (D) THE COMMISSIONER OR AUTHO RIZED REPRESENTA TIVE OF THE  16 
+COMMISSIONER MAY : 17 
+ 
+  (1) ACCOMPANY AND FOLLOW  AN EMPLOYEE OF A PUB LIC BODY TO  18 
+ANY FIELDWORK LOCATI ONS WHERE THE EMPLOY EE IS CONDUCTING WOR K ON  19 
+BEHALF OF THE PUBLIC  BODY ; AND  20 
+ 
+  (2) ENTER ANY FIELDWORK LOCATIONS THAT THE E MPLOYEE OF A  21 
+PUBLIC BOD Y HAS CAUSE TO ENTER  WHILE ACCOMPANYING T HE EMPLOYEE . 22 
+ 
+5–211. 23 
+ 
+ (a) Whenever an individual who is authorized to inspect property in the State is 24 
+denied access after the individual makes a proper request to the owner, lessee, or other 25 
+person in charge of the property, the individual may apply to the District Court for an 26 
+administrative search warrant under this section.  27 
+ 
+ (b) Each application under this section shall:  28 
+ 
+  (1) state the nature, purpose, and scope of the inspection; and  29 
+ 
+  (2) show that:  30 
+ 
+   (i) the applicant:  31 
+ 
+16 SENATE BILL 26   
+ 
+     1. is authorized by law to inspect the property to which 1 
+access was denied; and  2 
+ 
+    2. requested access at a reasonable time;  3 
+ 
+   (ii) access was denied; and  4 
+ 
+   (iii) the inspection is for a purpose related to safety or health.  5 
+ 
+ (c) (1) An application may not be submitted to the District Court unless 6 
+approved by the Attorney General.  7 
+ 
+  (2) IF THE ASSISTANT  COMMISSIONER OF PUBLIC EMPLOYEES ’ 8 
+SAFETY AND HEALTH  OR AN AUTHORIZED REP RESENTATIVE OF THE ASSISTANT  9 
+COMMISSIONER APPLIES FOR  AN ADMINISTRATIVE SE ARCH WARRANT UNDER 10 
+SUBSECTION (A) OF THIS SECTION , THE ATTORNEY GENERAL SHALL PRIORIT IZE 11 
+AND EXPEDITE REVIEW OF THE APPLICATION . 12 
+ 
+ (d) On application in accordance with this section, the District Court may issue 13 
+an administrative searc h warrant.  14 
+ 
+5–212. 15 
+ 
+ (a) (1) Except as provided in paragraph (2) of this subsection, if after an 16 
+inspection or investigation, the Commissioner or authorized representative of the 17 
+Commissioner is of the opinion that an employer has violated a duty under thi s title or an 18 
+order passed under this title or an occupational safety and health standard or other 19 
+regulation adopted to carry out this title, the Commissioner or authorized representative 20 
+shall issue a citation to the employer with reasonable promptness, not to exceed the earlier 21 
+of 90 days from the date of the closing conference on the inspection or investigation or 6 22 
+months from the occurrence of the violation.  23 
+ 
+  (2) If the incident investigated by the Commissioner involves a fatality or 24 
+serious physica l harm, the Commissioner shall issue a citation with reasonable 25 
+promptness, not to exceed 6 months from occurrence of the violation.  26 
+ 
+  (3) If an employer to whom a citation is issued is a unit of the State 27 
+government, the Commissioner or authorized representative shall send a copy of the 28 
+citation to the secretary of the principal department to which the unit is assigned or, if the 29 
+unit is not part of a principal department, the head of the unit.  30 
+ 
+  (4) IF AN EMPLOYER TO WHO M A CITATION IS ISSU ED IS A  PUBLIC 31 
+BODY OTHER THAN A UN IT OF THE STATE GOVERNMENT , THE COMMISSIONER OR 32 
+AUTHORIZED REPRESENT ATIVE SHALL SEND A C OPY OF THE CITATION TO THE 33 
+CHIEF EXECUTIVE OFFI CER OF THE PUBLIC BO DY AND ANY LEGISLATI VE BODY THAT 34 
+HAS OVERSIGHT OF THE  PUBLIC BODY . 35 
+ SENATE BILL 26  17 
+ 
+  
+ (b) Each citation under this section shall:  1 
+ 
+  (1) be in writing;  2 
+ 
+  (2) describe, with particularity, the nature of the alleged violation;  3 
+ 
+  (3) reference the provision of this title, order, or occupational safety and 4 
+health standard or other regulation that  the employer is alleged to have violated; and  5 
+ 
+  (4) set a reasonable period for abatement and correction of the alleged 6 
+violation.  7 
+ 
+ (c) (1) In accordance with any regulation that the Commissioner adopts to 8 
+carry out this title, an employer who is issued  a citation shall post the citation or a copy of 9 
+it conspicuously at or near each place where the citation alleges a violation occurred.  10 
+ 
+  (2) IN ADDITION TO THE PO STING REQUIREMENT UN DER PARAGRAPH 11 
+(1) OF THIS SUBSECTION , A PUBLIC BODY THAT I S ISSUED A CI TATION SHALL SEND  12 
+MAKE AVAILABLE  BY E–MAIL  A COPY OF THE CITATI ON TO ALL AFFECTED 13 
+EMPLOYEES . 14 
+ 
+ (d) The Commissioner may establish, by regulation, procedures for issuance of a 15 
+notice instead of a citation for a de minimis violation that has no direct or imm ediate 16 
+relationship to safety or health.  17 
+ 
+ (E) (1) IF A PUBLIC BODY , AFTER RECEIVING NOTI CE FROM THE  18 
+COMMISSIONER , DOES NOT COMPLY WITH  THE REQUIREMENTS UND ER SUBSECTION  19 
+(C) OF THIS SECTION , THE PUBLIC BODY IS S UBJECT TO A CIVIL PE NALTY OF $500  20 
+PER DAY FOR  EACH DAY DURING A 30–DAY PERIOD THAT THE PUBLIC BODY IS NOT  21 
+IN COMPLIANCE . 22 
+ 
+  (2) A CIVIL PENALTY ASSESS ED UNDER PARAGRAPH (1) OF THIS  23 
+SUBSECTION SHALL INC REASE TO $1,000  FOR EACH DAY , BEGINNING ON THE 31ST 24 
+DAY, THAT THE PUBLIC BODY  IS NOT IN COMPLIANCE . 25 
+ 
+5–308. 26 
+ 
+ (A) [The] SUBJECT TO SUBSECTION  (B) OF THIS SECTION , THE Board shall 27 
+advise, consult with, propose, and recommend to the Commissioner reasonable regulations:  28 
+ 
+  (1) to prevent conditions that are detrimental to safety and health in each 29 
+employment or place of employment in the State; and  30 
+ 
+  (2) that the Board finds are necessary to protect and to improve the safety 31 
+and health of employees on the basis of circumstantial evidence and information that:  32 
+18 SENATE BILL 26   
+ 
+  
+   (i) is developed by the Commissione r; 1 
+ 
+   (ii) is available to the Commissioner; or  2 
+ 
+   (iii) is submitted by an interested person to the Board at a public 3 
+hearing held under § 5 –310(d) of this subtitle.  4 
+ 
+ (B) TO CARRY OUT THE REQU IREMENTS OF SUBSECTI ON (A) OF THIS 5 
+SECTION WITH RESPECT  TO PUBLIC BODIES , THE BOARD SHALL : 6 
+ 
+  (1) GIVE SPECIFIC CONSID ERATION TO THE WORKP LACE CONDITIONS 7 
+AND SAFETY AND HEALT H CONCERNS OF EMPLOY EES; AND 8 
+ 
+  (2) RECOMMEND HIGHER STA NDARDS , IF WARRANTED . 9 
+ 
+5–702. 10 
+ 
+ (a) (1) [The] SUBJECT TO PARAGRAPH (2) OF THIS SUBSEC TION , THE 11 
+Commissioner may require, by regulation, that an employer keep:  12 
+ 
+  [(1)] (I) an accurate record of:  13 
+ 
+   [(i)] 1. each work –related death;  14 
+ 
+   [(ii)] 2. each work –related illness; and  15 
+ 
+   [(iii)] 3. each work –related injury other than a minor injury that 16 
+requires only first aid treatment and does not involve loss of consciousness, medical 17 
+treatment, restriction of motion or work, or transfer to another job; and  18 
+ 
+  [(2)] (II) each other record about an activity of the employer under this 19 
+title t hat the Commissioner considers appropriate or necessary to develop information 20 
+about the causes and prevention of occupational accidents, illnesses, and injuries.  21 
+ 
+  (2) (I) THE COMMISSIONER SHALL RE QUIRE BY REGULATION 22 
+THAT EACH PUBLIC BOD Y KEEP AN ACCURATE RECORD OF T HE INFORMATION 23 
+DESCRIBED UNDER PARA GRAPH (1) OF THIS SUBSECTION . 24 
+ 
+   (II) EACH PUBLIC BODY SHAL L SUBMIT TO THE COMMISSIONER  25 
+A QUARTERLY REPORT O F THE RECORDS REQUIR ED UNDER SUBPARAGRAP H (I) OF 26 
+THIS PARAGRAPH IN TH E FORM AND MANNER TH E COMMISSIONER REQUIRES . 27 
+ 
+ (b) Each employer shall make available to the Commissioner each record that the 28 
+employer is required to keep under subsection [(a)(2) ] (A)(1)( II) of this section.  29 
+ SENATE BILL 26  19 
+ 
+  
+ (c) An employer shall report orally to the Commissioner an employme nt accident 1 
+within 8 hours after it occurs if the accident results in:  2 
+ 
+  (1) the death of an employee; or  3 
+ 
+  (2) hospitalization of at least three employees.  4 
+ 
+[5–801. 5 
+ 
+ The penalties in this subtitle do not apply to a public body. ] 6 
+ 
+5–804. 7 
+ 
+ (a) A person may not knowingly make a false certification, false representation, 8 
+or false statement in an application, plan, record, report, or other document that is filed or 9 
+required to be kept under this title.  10 
+ 
+ (b) A person who violates any provision of subsection  (a) of this section is guilty 11 
+of a misdemeanor and on conviction is subject to a fine not exceeding $5,000 or 12 
+imprisonment not exceeding 6 months or both.  13 
+ 
+ (C) (1) A PERSON WHO HOLDS POL ITICAL OFFICE IN THE  STATE , 14 
+WHETHER ELECTED OR A PPOINTED , OR ANY OTH ER POSITION OF PROFI T OR TRUST  15 
+IN THE GOVERNMENT OF  OR IN THE ADMINISTRA TION OF THE BUSINESS  OF THE  16 
+STATE OR ANY COUNTY , MUNICIPALITY , OR OTHER POLITICAL S UBDIVISION THAT  17 
+VIOLATES ANY PROVISI ON OF SUBSECTION (A) OF THIS SECTION IS G UILTY OF A  18 
+MISDEMEANOR A ND ON CONVICTION IS SUBJECT TO A FINE NO T EXCEEDING $20,000  19 
+OR IMPRISONMENT NOT EXCEEDING 1 YEAR OR BOTH . 20 
+ 
+  (2) A SENTENCE IMPOSED UND ER THIS SUBSECTION S HALL BE  21 
+SEPARATE FROM AND CO NSECUTIVE TO A SENTE NCE IMPOSED FOR ANY CRIME  22 
+BASED ON THE ACT ESTABLISHING THE VIO LATION OF THIS SUBSE CTION . 23 
+ 
+5–811. 24 
+ 
+ (a) (1) If a civil penalty that is assessed under this title is not paid in full 25 
+within 30 days after the penalty becomes final, the Commissioner or the Central Collection 26 
+Unit may proceed in the Dis trict Court to enforce payment.  27 
+ 
+  (2) IF A CIVIL PENALTY TH AT IS ASSESSED AGAIN ST A PUBLIC BODY  28 
+UNDER THIS TITLE IS NOT PAID IN FULL : 29 
+ 
+   (I) WITHIN 30 DAYS AFTER THE PENAL TY BECOMES FINAL , THE 30 
+COMMISSIONER  SHALL NOTIFY THE GOVERNOR , THE PRESIDENT OF THE SENATE , 31 
+20 SENATE BILL 26   
+ 
+ AND THE SPEAKER OF THE HOUSE OF DELEGATES OF THE UNDE RLYING VIOLATION , 1 
+THE PENALTY ASSESSED , AND THE PUBLIC BODY ’S FAILURE TO PAY THE  PENALTY ; 2 
+AND  3 
+ 
+   (II) WITHIN 75 DAYS AFTER THE PENAL TY BECOMES FINAL , THE 4 
+COMMISSIONER MAY INCR EASE THE PENALTY BY  UP TO FIVE TIMES THE  INITIAL  5 
+PENALTY AMOUNT . 6 
+ 
+ (b) In a proceeding under this subsection, the Commissioner or the Central 7 
+Collection Unit is entitled to judgment in the amount of the civil penalty that remains 8 
+unpaid on a showing that:  9 
+ 
+  (1) the penalty was assessed against the defendant;  10 
+ 
+  (2) the penalty has become final;  11 
+ 
+  (3) no appeal is pending;  12 
+ 
+  (4) the penalty is wholly or partly unpaid; and  13 
+ 
+  (5) the defendant:  14 
+ 
+   (i) was duly served with a copy of the citation in accordance with 15 
+the applic able regulations of the Commissioner; or  16 
+ 
+   (ii) contested the citation for which the penalty was assessed.  17 
+ 
+5–812. 18 
+ 
+ (A) [Each ] EXCEPT AS PROVIDED IN  SUBSECTION (B) OF THIS SECTION , 19 
+EACH  civil penalty under this title shall be paid into the General Fund of the State.  20 
+ 
+ (B) THE REVENUES FROM THE  CIVIL PENALTIES ASSE SSED AGAINST A 21 
+PUBLIC BODY UNDER TH IS TITLE SHALL BE DI STRIBUTED TO A SPECI AL FUND TO BE 22 
+USED ONLY FOR THE MARYLAND APPRENTICE SHIP AND TRAINING PROGRAM . 23 
+ 
+SUBTITLE 13. STANDARDS FOR PREVENTING WORKPLACE VIOLENCE . 24 
+ 
+5–1301.  25 
+ 
+ IN THIS SUBTITLE , “BOARD” HAS THE MEANING STAT ED IN § 5–301 OF THIS 26 
+TITLE . 27 
+ 
+5–1302.  28 
+ 
+ SENATE BILL 26  21 
+ 
+  (A) THE COMMISSIONER SHALL IN CLUDE AS PART OF THE  OCCUPATIONAL 1 
+SAFETY AND  HEALTH STANDARDS EST ABLISHED UNDER THIS TITLE STANDARDS 2 
+FOR PROTECTING EMPLO YEES OF PUBLIC BODIE S FROM WORKPLACE VIO LENCE . 3 
+ 
+ (B) SUBJECT TO SUBSECTION  (C) OF THIS SECTION , ON OR BEFORE 4 
+OCTOBER 1, 2026,  THE COMMISSIONER , IN CONSULTATION WITH  THE BOARD , 5 
+SHA LL ADOPT REGULATIONS  TO CARRY OUT THIS SE CTION . 6 
+ 
+ (C) BEFORE ADOPTING REGUL ATIONS UNDER SUBSECT ION (B) OF THIS 7 
+SECTION , THE COMMISSIONER SHALL : 8 
+ 
+  (1) REVIEW AND CONSIDER THE RECOMMENDATIONS ON 9 
+PREVENTING WORKPLACE  VIOLENCE CREATED BY THE FEDERAL OCCUPATIO NAL 10 
+SAFETY AND HEALTH ADMINISTRATION AND TH E NATIONAL INSTITUTE FOR 11 
+OCCUPATIONAL SAFETY AND HEALTH ; 12 
+ 
+  (2) HOLD AT LEAST FOUR M EETINGS SOLICITING I NPUT FROM 13 
+CERTIFIED EXCLUSIVE REPRESENTATIVES OF E MPLOYEES OF PUBLIC B ODIES ON 14 
+THE BEST WAYS TO PRE VENT WORKP LACE VIOLENCE ; AND  15 
+ 
+  (3) HOLD MEETINGS IN AT LEAST FOUR GEOGRAPHI CALLY DIVERSE 16 
+LOCATIONS IN THE STATE TO RECEIVE INPU T FROM INTERESTED PA RTIES ON THE 17 
+BEST WAYS TO PREVENT  WORKPLACE VIOLENCE . 18 
+ 
+Article – Public Safety  19 
+ 
+12–804. 20 
+ 
+ (b) (1) [Sections ] EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS 21 
+SUBSECTION , §§ 5–205(j), 5 –207, 5 –214, 5 –215, and 5 –216 and Title 5, Subtitle 8 of the 22 
+Labor and Employment Article apply to Part II of this subtitle.  23 
+ 
+  (2) THE PENALTIES ESTABLI SHED UNDER THIS SUBT ITLE AND TITLE 24 
+5, SUBTITLE 8 OF THE LABOR AND EMPLOYMENT ARTICLE DO NOT APPLY WITH 25 
+RESPECT TO AN ELEVAT OR UNIT OWNED BY A P UBLIC BODY , AS DEFINED IN § 5–101 26 
+OF THE LABOR AND EMPLOYMENT ARTICLE .  27 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 28 
+October 1, 2025.  29 
+ 
