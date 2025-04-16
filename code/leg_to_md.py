@@ -176,7 +176,7 @@ def pdf_text(pdf_file):
     page_texts = list()
     doc = pymupdf.open(pdf_file) # open a document
     for index, page in enumerate(doc):
-        page_text = f'PAGE {index + 1}\n{pdf_page_to_markdown(page)}'
+        page_text = f'START OF PAGE {index + 1}\n{pdf_page_to_markdown(page)}\nEND OF PAGE {index + 1}'
         page_texts.append(page_text)
     return "\n\n".join(page_texts)
 
