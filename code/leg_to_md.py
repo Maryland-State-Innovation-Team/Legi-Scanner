@@ -77,6 +77,52 @@ def pdf_page_to_markdown(page: pymupdf.Page, include_struck: bool = True) -> str
     # Sort words primarily by vertical position (y0), then horizontal (x0)
     # This helps approximate the reading order
     words.sort(key=lambda w: (w[1], w[0]))
+    # --- Refine vertical alignment ---
+    if words:
+        # 1. Estimate distinct row y-coordinates by finding clusters
+        unique_y0s = sorted(list(set(w[1] for w in words)))
+        row_y_estimates = []
+        if unique_y0s:
+            current_row_group = [unique_y0s[0]]
+            for y in unique_y0s[1:]:
+                # Group y-coordinates that are close together (e.g., within 3 points)
+                if y - current_row_group[-1] < 3:
+                    current_row_group.append(y)
+                else:
+                    # Calculate the average y for the completed group
+                    row_y_estimates.append(sum(current_row_group) / len(current_row_group))
+                    current_row_group = [y]
+            # Add the last group
+            row_y_estimates.append(sum(current_row_group) / len(current_row_group))
+
+        # Ensure row_y_estimates is not empty if unique_y0s was not
+        if not row_y_estimates and unique_y0s:
+             row_y_estimates.append(unique_y0s[0])
+
+
+        # 2. Snap each word's y0 to the nearest estimated row center
+        snapped_words_data = []
+        for word_data in words:
+            original_y0 = word_data[1]
+            # Find the closest row y-coordinate estimate
+            if row_y_estimates:
+                closest_row_y = min(row_y_estimates, key=lambda row_y: abs(original_y0 - row_y))
+                # Create a new list for the word data with the snapped y0
+                # Keep original y1 for bounding box purposes if needed elsewhere,
+                # but use snapped y0 for sorting and line breaking.
+                snapped_data = list(word_data)
+                snapped_data[1] = closest_row_y # Update y0
+                snapped_words_data.append(snapped_data)
+            else:
+                # Should not happen if words list is not empty, but handle defensively
+                 snapped_words_data.append(list(word_data))
+
+
+        # 3. Resort words based on snapped y0, then original x0
+        snapped_words_data.sort(key=lambda w: (w[1], w[0]))
+        words = snapped_words_data # Use the list with snapped y0 values
+
+    # --- End Refine vertical alignment ---
 
     markdown_output = []
     current_line = ""
@@ -146,10 +192,10 @@ def main(session_year):
         file_name, _ = os.path.splitext(file_basename)
         destination_basename = '{}.md'.format(file_name)
         destination_file_path = os.path.join(output_dir, destination_basename)
-        if not os.path.exists(destination_file_path):
-            full_text = pdf_text(pdf_file)
-            with open(destination_file_path, 'w', encoding='utf-8') as destination_file:
-                destination_file.write(full_text)
+        # if not os.path.exists(destination_file_path):
+        full_text = pdf_text(pdf_file)
+        with open(destination_file_path, 'w', encoding='utf-8') as destination_file:
+            destination_file.write(full_text)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Parse Maryland legislation into markdown.')
