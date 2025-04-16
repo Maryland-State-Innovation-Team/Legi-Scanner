@@ -1,5 +1,6 @@
 import os
 import json
+import re
 import argparse
 import requests
 from bs4 import BeautifulSoup
@@ -49,6 +50,9 @@ def main(session_year):
     print(f'Successfully downloaded and parsed table for {session_year}.')
 
     synopses = list()
+    cross_filed_bill = list()
+    file_codes = list()
+    subjects = list()
 
     print(f'Processing {df.shape[0]} rows for {session_year}...')
     for index, row in tqdm.tqdm(df.iterrows(), total=df.shape[0], desc=f'Processing {session_year} bills'):
@@ -69,6 +73,40 @@ def main(session_year):
         else:
             print(f"Warning: Could not find the 'Synopsis' label div for bill {bill_number} at {bill_url}")
         synopses.append(synopsis_text)
+
+        cross_filed_text = ""
+        possible_cross_divs = soup.find_all('div', 'col-sm-12')
+        cross_file_divs = [div for div in possible_cross_divs if 'Cross-filed with:' in div.get_text()]
+        if len(cross_file_divs) > 1:
+            cross_filed_div = cross_file_divs[1]
+            anchor_tag = cross_filed_div.find('a')
+            if anchor_tag:
+                cross_filed_text = anchor_tag.get_text(strip=True)
+            else:
+                print(f"Warning: Found 'Cross-filed with:' div but no anchor tag for bill {bill_number} at {bill_url}")
+        cross_filed_bill.append(cross_filed_text)
+
+        file_codes_divs = soup.find_all('div', id='details-dropdown-content1')
+        file_codes_texts = list()
+        for file_codes_div in file_codes_divs:
+            anchor = file_codes_div.find('a')
+            if anchor:
+                file_codes_texts.append(anchor.get_text(strip=True))
+            else:
+                print(f"Warning: Could not find any anchor tags in div#details-dropdown-content1 for bill {bill_number} at {bill_url}")
+        file_codes_text = '|'.join(file_codes_texts)
+        file_codes.append(file_codes_text)
+
+        subjects_divs = soup.find_all('div', id='details-dropdown-content2')
+        subjects_texts = list()
+        for subjects_div in subjects_divs:
+            anchor = subjects_div.find('a')
+            if anchor:
+                subjects_texts.append(anchor.get_text(strip=True))
+            else:
+                print(f"Warning: Could not find any anchor tags in div#details-dropdown-content2 for bill {bill_number} at {bill_url}")
+        subjects_text = '|'.join(subjects_texts)
+        subjects.append(subjects_text)
 
         all_tables = soup.find_all('table')
 
@@ -100,33 +138,38 @@ def main(session_year):
             # Download the main bill PDF
             bill_pdf_url = f'https://mgaleg.maryland.gov{last_bill_link}'
             bill_pdf_path = os.path.join(pdf_output_dir, f'{bill_number}.pdf')
-            try:
-                pdf_response = requests.get(bill_pdf_url, headers=headers)
-                pdf_response.raise_for_status()
-                with open(bill_pdf_path, 'wb') as f:
-                    f.write(pdf_response.content)
-            except requests.exceptions.RequestException as e:
-                print(f"Error downloading {bill_pdf_url}: {e}")
-            except IOError as e:
-                print(f"Error saving file {bill_pdf_path}: {e}")
+            if not os.path.exists(bill_pdf_path):
+                try:
+                    pdf_response = requests.get(bill_pdf_url, headers=headers)
+                    pdf_response.raise_for_status()
+                    with open(bill_pdf_path, 'wb') as f:
+                        f.write(pdf_response.content)
+                except requests.exceptions.RequestException as e:
+                    print(f"Error downloading {bill_pdf_url}: {e}")
+                except IOError as e:
+                    print(f"Error saving file {bill_pdf_path}: {e}")
 
             # Download subsequent amendment PDFs
             for i, amd_link in enumerate(subsequent_amd_links, start=1):
                 amd_pdf_url = f'https://mgaleg.maryland.gov{amd_link}'
                 amd_pdf_path = os.path.join(pdf_output_dir, f'{bill_number}_amd{i}.pdf')
-                try:
-                    pdf_response = requests.get(amd_pdf_url, headers=headers)
-                    pdf_response.raise_for_status()
-                    with open(amd_pdf_path, 'wb') as f:
-                        f.write(pdf_response.content)
-                    # print(f"Successfully downloaded {amd_pdf_url} to {amd_pdf_path}")
-                except requests.exceptions.RequestException as e:
-                    print(f"Error downloading {amd_pdf_url}: {e}")
-                except IOError as e:
-                    print(f"Error saving file {amd_pdf_path}: {e}")
+                if not os.path.exists(amd_pdf_path):
+                    try:
+                        pdf_response = requests.get(amd_pdf_url, headers=headers)
+                        pdf_response.raise_for_status()
+                        with open(amd_pdf_path, 'wb') as f:
+                            f.write(pdf_response.content)
+                        # print(f"Successfully downloaded {amd_pdf_url} to {amd_pdf_path}")
+                    except requests.exceptions.RequestException as e:
+                        print(f"Error downloading {amd_pdf_url}: {e}")
+                    except IOError as e:
+                        print(f"Error saving file {amd_pdf_path}: {e}")
 
     print(f'Finished processing {session_year}.')
     df['Synopsis'] = synopses
+    df['Cross-filed bill'] = cross_filed_bill
+    df['File codes'] = file_codes
+    df['Subjects'] = subjects
 
     csv_output_dir = f'data/{session_year}rs/csv'
     os.makedirs(csv_output_dir, exist_ok=True)
