@@ -19,6 +19,7 @@ def main(session_year):
     full_page_count = 0
     input_dir = os.path.abspath(f'data/{session_year}rs/pdf')
     output_dir = os.path.abspath(f'data/{session_year}rs/basic_txt')
+    os.makedirs(output_dir, exist_ok=True)
     pdf_wildcard = os.path.join(input_dir, '*.pdf')
     pdf_files = glob(pdf_wildcard)
     for pdf_file in tqdm(pdf_files):

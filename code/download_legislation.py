@@ -44,11 +44,12 @@ def main(session_year):
             anchors = target_table.find_all('a', href=True)
 
             bill_prefix = f'/{session_year}RS/bills/'
+            chapter_prefix = f'/{session_year}RS/Chapters'
             amd_prefix = f'/{session_year}RS/amds/'
 
             for anchor in anchors:
                 href = anchor['href']
-                if href.startswith(bill_prefix):
+                if href.startswith(bill_prefix) or href.startswith(chapter_prefix):
                     last_bill_link = href
                     subsequent_amd_links = list() # Reset amd links when a new bill link is found
                 elif href.startswith(amd_prefix):
