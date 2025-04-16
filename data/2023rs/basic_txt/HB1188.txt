@@ -1,0 +1,428 @@
+ WES MOORE, Governor  Ch. 460  
+ 
+– 1 – Chapter 460  
+(House Bill 1188 ) 
+ 
+AN ACT concerning  
+ 
+Public Utilities – Certificate of Public Convenience and Necessity – Solar 
+Photovoltaic Systems  and Meter Aggregation  
+ 
+FOR the purpose of defining “generating station” as it relates to the requirement to obtain 
+a certificate of public convenience and necessity or approval from the Public Service 
+Commission for a person who constructs a generating station that has the capac ity 
+to produce a certain amount of electricity from a solar photovoltaic system; requiring 
+an electric company to provide meter aggregation for certain eligible  
+customer –generators under certain circumstances;  and generally relating to the 
+requirement to obtain a certificate  certificates  of public convenience and necessity 
+and meter aggregation . 
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Public Utilities  
+Section 7 –207(a), 7 –207.1, and 7 –207.2  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2022 Supplement)  
+ 
+BY adding to  
+ Article – Public Utilities  
+ Section 7 –306.3  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2022 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Public Utilities  
+ 
+7–207. 
+ 
+ (a) (1) In this section the following words have the meanings indicated.  
+ 
+  (2) “Brownfields site” means:  
+ 
+   (i) a former industrial or commercial site identified by federal or 
+State laws or regulatio n as contaminated or polluted;  
+ 
+   (ii) a closed landfill regulated by the Department of the 
+Environment; or  
+ 
+Ch. 460  2023 LAWS OF MARYLAND   
+ 
+– 2 –    (iii) mined land.  
+ 
+  (3) (i) “Construction” means:  
+ 
+    1. any physical change at a site, including fabrication, 
+erection, installation, or demolition; or  
+ 
+    2. the entry into a binding agreement or contractual 
+obligation to purchase equipment exclusively for use in construction in the State or to 
+undertake a program of actual construction in the State which cannot be canceled or 
+modified wi thout substantial loss to the owner or operator of the proposed generating 
+station.  
+ 
+   (ii) “Construction” does not include a change that is needed for the 
+temporary use of a site or route for nonutility purposes or for use in securing geological 
+data, in cluding any boring that is necessary to ascertain foundation conditions.  
+ 
+  (4) “GENERATING STATION ” DOES NOT INCLUDE : 
+ 
+   (I) A GENERATING UNIT OR  FACILITY THAT :  
+ 
+    1. IS USED FOR THE PROD UCTION OF ELECTRICIT Y;  
+ 
+    2. HAS THE CAPACITY TO PRODUCE NOT MORE THA N 2 
+MEGAWATTS OF ALTERNA TING CURRENT ; AND  
+ 
+    3. IS INSTALLED WITH EQ UIPMENT THAT PREVENT S THE 
+FLOW OF ELECTRICITY TO THE ELECTRIC GRID  DURING TIME PERIODS WHEN THE 
+ELECTRIC GRID IS OUT  OF SERVICE ; OR 
+ 
+   (II) A CO MBINATION OF TWO OR MORE GENERATING UNIT S OR 
+FACILITIES THAT :  
+ 
+    1. ARE USED FOR THE PRO DUCTION OF ELECTRICI TY 
+FROM A SOLAR PHOTOVO LTAIC SYSTEM OR AN E LIGIBLE CUSTOMER –GENERATOR 
+THAT IS SUBJECT TO T HE PROVISIONS OF § 7–306 OF THIS TITLE ;  
+ 
+    2. ARE LO CATED ON THE SAME PR OPERTY OR ADJACENT 
+PROPERTIES ; 
+ 
+    3. HAVE THE CAPACITY TO  PRODUCE , WHEN 
+CALCULATED CUMULATIV ELY FOR ALL GENERATI NG UNITS OR FACILITI ES ON THE 
+PROPERTY OR ADJACENT  PROPERTY , MORE THAN 2 MEGAWATTS BUT NOT MORE 
+THAN 14 MEGAWATTS  OF ALTER NATING CURRENT ; AND  
+ WES MOORE, Governor  Ch. 460  
+ 
+– 3 –  
+    4. FOR EACH INDIVIDUAL GENERATING UNIT OR 
+FACILITY : 
+ 
+    A. HAS THE CAPACITY TO PRODUCE NOT MORE THA N 2 
+MEGAWATTS OF ALTERNA TING CURRENT ; 
+ 
+    B. IS SEPARATELY METERE D BY THE ELECTRIC 
+COMPANY ; AND 
+ 
+    C. DOES NOT EXPORT ELECTRICITY FOR SALE  ON THE 
+WHOLESALE MARKET UND ER AN AGREEMENT WITH  PJM  INTERCONNECTION , LLC.  
+ 
+  [(4)] (5) (i) “Mined land” means the surface or subsurface of an area 
+in which surface mining operations will be, are being, or have been conducted.  
+ 
+   (ii) “Mined land” includes:  
+ 
+    1. private ways and roads used for mining appurtenant to 
+any surface mining area;  
+ 
+    2. land excavations;  
+ 
+    3. workings; and  
+ 
+    4. overburden.  
+ 
+  [(5)] (6) “Qualified generator lead line” means an overhead transmission 
+line that is designed to carry a voltage in excess of 69,000 volts and would allow an  
+out–of–state Tier 1 or Tier 2 renewable source to interconnect with a portion of the electric 
+system in Maryland that is owned by an electric company.  
+ 
+7–207.1.  
+ 
+ (A) IN THIS SECTION , “GENERATING STATION ” DOES NOT INCLUDE : 
+ 
+  (1) A GENERATING UNIT OR  FACILITY THAT :  
+ 
+   (I) IS USED FOR THE PROD UCTION OF ELECTRICIT Y;  
+ 
+   (II) HAS THE CAPACITY TO PRODUCE NOT MORE THA N 2 
+MEGAWATTS OF ALTERNA TING CURRENT ; AND  
+ 
+Ch. 460  2023 LAWS OF MARYLAND   
+ 
+– 4 –    (III) IS INSTALLED WITH EQUIP MENT THAT PREVENTS T HE FLOW 
+OF ELECTRICITY TO TH E ELECTRIC GRID DURI NG TIME PERIODS WHEN  THE 
+ELECTRIC GRID IS OUT  OF SERVICE ; OR 
+ 
+  (2) A COMBINATION OF TWO  OR MORE GENERATING U NITS OR 
+FACILITIES THAT :  
+ 
+   (I) ARE USED FOR THE PRO DUCTI ON OF ELECTRICITY FROM A 
+SOLAR PHOTOVOLTAIC S YSTEM OR AN ELIGIBLE  CUSTOMER –GENERATOR THAT IS 
+SUBJECT TO THE PROVI SIONS OF § 7–306 OF THIS TITLE ;  
+ 
+   (II) ARE LOCATED ON THE S AME PROPERTY OR ADJA CENT 
+PROPERTIES ; 
+ 
+   (III) HAVE THE CAPACITY TO  PRODUCE , WHEN CALCULATED 
+CUMULATIVELY FOR ALL  GENERATING UNITS OR FACILITIES ON THE PR OPERTY OR 
+ADJACENT PROPERTY , MORE THAN 2 MEGAWATTS BUT NOT MORE THAN 14 
+MEGAWATTS  OF ALTERNATING CURRE NT; AND  
+ 
+   (IV) FOR EACH INDIVIDUAL GENERATIN G UNIT OR FACILITY : 
+ 
+    1. HAS THE CAPACITY TO PRODUCE NOT MORE THA N 2 
+MEGAWATTS OF ALTERNA TING CURRENT ; 
+ 
+    2. IS SEPARATELY METERE D BY THE ELECTRIC 
+COMPANY ; AND 
+ 
+    3. DOES NOT EXPORT ELEC TRICITY FOR SALE ON THE 
+WHOLESALE MARKET UND ER AN AGREEMENT WIT H PJM  INTERCONNECTION , LLC.  
+ 
+ [(a)] (B) This section applies to a person who:  
+ 
+  (1) constructs a generating station:  
+ 
+   (i) designed to provide on –site generated electricity if:  
+ 
+    1. the capacity of the generating station does not exceed 70 
+megawatts;  and 
+ 
+    2. the electricity that may be exported for sale from the 
+generating station to the electric system is sold only on the wholesale market pursuant to 
+an interconnection, operation, and maintenance agreement with the local electric company; 
+or 
+ 
+ WES MOORE, Governor  Ch. 460  
+ 
+– 5 –    (ii) that produces electricity from wind if:  
+ 
+    1. the generating station is land –based;  
+ 
+    2. the capacity of the generating station does not exceed 70 
+megawatts;  
+ 
+    3. the electricity that may be exported for sale from the 
+generating station to the  electric system is sold only on the wholesale market pursuant to 
+an interconnection, operation, and maintenance agreement with the local electric company;  
+ 
+    4. the Commission provides an opportunity for public 
+comment at a public hearing as provided in  subsection [(f)] (G) of this section; and  
+ 
+    5. the generating station’s wind turbines are not located 
+within a distance from the Patuxent River Naval Air Station that is determined by 
+regulations adopted by the Commission in coordination with the Comma nder, Naval Air 
+Warfare Center Aircraft Division, provided that the distance requirement under the 
+regulation is:  
+ 
+    A. not greater than is necessary to encompass an area in 
+which utility scale wind turbines could create Doppler radar interference for mi ssions at 
+the Patuxent River Naval Air Station;  
+ 
+    B. not greater than 46 miles, measured from location 
+38.29667N, 76.37668W; and  
+ 
+    C. subject to modification if necessary to reflect changes in 
+missions or technology at the Patuxent River Naval Air St ation or changes in wind energy 
+technology; or  
+ 
+  (2) constructs a generating station if:  
+ 
+   (i) the capacity of the generating station does not exceed 25 
+megawatts;  
+ 
+   (ii) the electricity that may be exported for sale from the generating 
+station to the  electric system is sold only on the wholesale market pursuant to an 
+interconnection, operation, and maintenance agreement with the local electric company; 
+and 
+ 
+   (iii) at least 10% of the electricity generated at the generating station 
+each year is consu med on –site. 
+ 
+ [(b)] (C) (1) The Commission shall require a person that is exempted from 
+the requirement to obtain a certificate of public convenience and necessity to obtain 
+Ch. 460  2023 LAWS OF MARYLAND   
+ 
+– 6 – approval from the Commission under this section before the person may construct a  
+generating station described in subsection [(a)] (B) of this section.  
+ 
+  (2) An application for approval under this section shall:  
+ 
+   (i) be made to the Commission in writing on a form adopted by the 
+Commission;  
+ 
+   (ii) be verified by oath or affirmatio n; and  
+ 
+   (iii) contain information that the Commission requires, including:  
+ 
+    1. proof of compliance with all applicable requirements of the 
+independent system operator; and  
+ 
+    2. a copy of an interconnection, operation, and maintenance 
+agreement be tween the generating station and the local electric company.  
+ 
+ [(c)] (D) On receipt of an application for approval under this section, the 
+Commission shall provide notice immediately or require the applicant to provide notice 
+immediately of the application  to: 
+ 
+  (1) the governing body of each county or municipal corporation in which 
+any portion of the generating station is proposed to be constructed;  
+ 
+  (2) the governing body of each county or municipal corporation within 1 
+mile of the proposed location of  the generating station;  
+ 
+  (3) each member of the General Assembly representing any part of a county 
+in which any portion of the generating station is proposed to be constructed; and  
+ 
+  (4) each member of the General Assembly representing any part of each  
+county within 1 mile of the proposed location of the generating station.  
+ 
+ [(d)] (E) When reviewing an application for approval under this section, the 
+Commission shall:  
+ 
+  (1) ensure the safety and reliability of the electric system;  
+ 
+  (2) require the p erson constructing the generating station to notify the 
+Commission 2 weeks before the first export of electricity from a generating station approved 
+under this section; and  
+ 
+  (3) conduct its review and approval in an expeditious manner.  
+ 
+ WES MOORE, Governor  Ch. 460  
+ 
+– 7 –  [(e)] (F) Except  for the notice required under subsection [(c)] (D) of this section, 
+the Commission may waive an element of the approval process under this section if the 
+Commission determines that the waiver is in the public interest.  
+ 
+ [(f)] (G) (1) The Commission shall  provide an opportunity for public 
+comment and hold a public hearing as provided under this subsection on an application for 
+approval made under subsection [(a)(1)(ii) ] (B)(1)( II) of this section in each county and 
+municipal corporation in which any portio n of the construction of a generating station is 
+proposed to be located.  
+ 
+  (2) Upon the request of the governing body of a county or municipal 
+corporation in which any portion of the construction of a generating station is proposed to 
+be located, the Comm ission shall hold the public hearing jointly with the governing body.  
+ 
+  (3) Once in each of 2 successive weeks immediately before the hearing date, 
+the Commission, at the expense of the applicant, shall provide weekly notice of the public 
+hearing and oppo rtunity for public comment by advertisement in a newspaper of general 
+circulation in the county or municipal corporation affected by the application.  
+ 
+7–207.2.  
+ 
+ (A) IN THIS SECTION , “GENERATING STATION ” DOES NOT INCLUDE : 
+ 
+  (1) A GENERATING UNIT OR  FACILI TY THAT :  
+ 
+   (I) IS USED FOR THE PROD UCTION OF ELECTRICIT Y;  
+ 
+   (II) HAS THE CAPACITY TO PRODUCE NOT MORE THA N 2 
+MEGAWATTS OF ALTERNA TING CURRENT ; AND  
+ 
+   (III) IS INSTALLED WITH EQ UIPMENT THAT PREVENT S THE FLOW 
+OF ELECTRICITY TO TH E ELECTRIC GRID DURING TIME PERIODS WHEN THE 
+ELECTRIC GRID IS OUT  OF SERVICE ; OR 
+ 
+  (2) A COMBINATION OF TWO  OR MORE GENERATING U NITS OR 
+FACILITIES THAT :  
+ 
+   (I) ARE USED FOR THE PRO DUCTION OF ELECTRICI TY FROM A 
+SOLAR PHOTOVOLTAIC S YSTEM OR AN ELIGIBLE  CUSTOMER –GENERATOR  THAT IS 
+SUBJECT TO THE PROVI SIONS OF § 7–306 OF THIS TITLE ;  
+ 
+   (II) ARE LOCATED ON THE S AME PROPERTY OR ADJA CENT 
+PROPERTIES ; 
+ 
+Ch. 460  2023 LAWS OF MARYLAND   
+ 
+– 8 –    (III) HAVE THE CAPACITY TO  PRODUCE , WHEN CALCULATED 
+CUMULATIVELY FOR ALL  GENERATING UNITS OR FACILITIES ON THE PR OPERTY OR 
+ADJACENT PROPERTY , MORE THAN 2 MEGAWATTS BUT NOT MORE THAN 14 
+MEGAWATTS  OF ALTERNATING CURRE NT; AND  
+ 
+   (IV) FOR EACH INDIVIDUAL GENERATING UNIT OR F ACILITY : 
+ 
+    1. HAS THE CAPACITY TO PRODUCE NOT MORE THA N 2 
+MEGAWATTS OF ALTERNA TING CURRENT ; 
+ 
+    2. IS S EPARATELY METERED BY  THE ELECTRIC 
+COMPANY ; AND 
+ 
+    3. DOES NOT EXPORT ELEC TRICITY FOR SALE ON THE 
+WHOLESALE MARKET UND ER AN AGREEMENT WITH  PJM  INTERCONNECTION , LLC.  
+ 
+ [(a)] (B) This section applies to a person who constructs a generating station 
+that:  
+ 
+  (1) has the capacity to produce [at least ] MORE THAN  2 megawatts of 
+electricity , AS MEASURED BY THE A LTERNATING CURRENT R ATING OF THE SYSTEM ’S 
+INVERTER , from a solar photovoltaic system; and  
+ 
+  (2) is exempted under § 7 –207.1 of this subtitle from the requ irement to 
+obtain a certificate of public convenience and necessity.  
+ 
+ [(b)] (C) (1) A person shall file an application for approval to construct a 
+generating station under § 7 –207.1 of this subtitle at least 6 months before construction 
+commences.  
+ 
+  (2) The Commission shall require a person who files an application for 
+approval to construct a generating station to pay a deposit of 1% of total installed costs.  
+ 
+ [(c)] (D) (1) The Commission shall place any deposits collected under 
+subsection [(b)] (C) of this section into an escrow account.  
+ 
+  (2) If a person demonstrates to the Commission that the person is fully 
+authorized to commence construction within 18 months after filing an application for 
+approval, the Commission shall refund the deposit, less reas onable administrative costs.  
+ 
+  (3) (i) Subject to subparagraph (ii) of this paragraph, if a person does 
+not commence construction within 18 months after filing an application for approval, the 
+money held in the escrow account shall be:  
+ 
+    1. deemed to b e abandoned; and  
+ WES MOORE, Governor  Ch. 460  
+ 
+– 9 –  
+    2. transferred to the Maryland Strategic Energy Investment 
+Fund under § 9 –20B–05 of the State Government Article, less reasonable administrative 
+costs.  
+ 
+   (ii) 1. A person may request an extension for a project that does 
+not commence  construction within 18 months after the filing of an application for approval.  
+ 
+    2. The Commission may grant the request based on factors 
+the Commission considers compelling, including the occurrence of events outside the 
+person’s control.  
+ 
+7–306.3.  
+ 
+ (A) IN THIS SECTION , “ELIGIBLE CUSTOMER –GENERATOR ” HAS THE 
+MEANING STATED IN § 7–306 OF THIS SUBTITLE . 
+ 
+ (B) AN ELECTRIC COMPANY S HALL PROVIDE METER A GGREGATION FOR AN 
+ELIGIBLE CUSTOMER –GENERATOR THAT : 
+ 
+  (1) SUBMITS A REQUEST , IN WRITING , TO THE ELECTRIC COMPANY 
+FOR THE PROVISION OF  METER AGGREGATION ; AND  
+ 
+  (2) (I) USES ELECTRICAL SERV ICE FOR AGRICULTURE ; 
+ 
+   (II) IS A NONPROFIT ORGAN IZATION ; 
+ 
+   (III) IS A MUNICIPAL OR CO UNTY GOVERNMENT , OR AN 
+ORGANIZATION AFFILIA TED WITH THE MUNICIP AL OR COUNTY GOVERNMENT ; 
+ 
+   (IV) IS A UNIT OF STATE GOVERNMENT ; OR 
+ 
+   (V) IS A PUBLIC SENIOR H IGHER EDUCATION INST ITUTION , AS 
+DEFINED IN § 10–101 OF THE EDUCATION ARTICLE . 
+ 
+ (C) AN ELECTRIC COMPANY S HALL REQUIRE AN ELIG IBLE  
+CUSTOMER –GENERATOR THAT REQUE STS METER AGG REGATION UNDER THIS 
+SECTION TO PROVIDE W RITTEN ALLOCATION IN STRUCTIONS DESCRIBIN G HOW TO 
+DISTRIBUTE THE ELIGI BLE CUSTOMER –GENERATOR ’S EXCESS GENERATION 
+CREDITS TO EACH ACCO UNT BEFORE THE COMME NCEMENT OF ANY METER  
+AGGREGATION .  
+ 
+ SECTION 2. AND BE IT FURTHE R ENACTED, That it is the intent of the General 
+Assembly that this Act apply only to solar energy generating facilities and eligible 
+Ch. 460  2023 LAWS OF MARYLAND   
+ 
+– 10 – customer –generators authorized by an electric company to engage in net energy metering 
+under § 7 –306 of the Public Utilities Article and COMAR 20.50.10.07.  
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2023.  
+ 
+Approved by the Governor, May 8, 2023.  

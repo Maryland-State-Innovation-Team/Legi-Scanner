@@ -1,0 +1,329 @@
+ WES MOORE, Governor  Ch. 172  
+ 
+– 1 – Chapter 172  
+(House Bill 502 ) 
+ 
+AN ACT concerning  
+ 
+Department of Human Services – Electronic Benefits Transfer Cards – Fraud  
+Theft of Benefits  
+(Prevent Electronic Benefits Theft Act of 2023)  
+ 
+FOR the purpose of requiring the Department of Human Services to reimburse a 
+beneficiary for any benefits lost due to the fraudulent use of the beneficiary’s 
+Electronic Benefits Transfer card;  theft; authorizing certain households to request a 
+certain hearing under certain circumstances;  requiring the State to give preference 
+to certain vendors in the procurement process for electronic benefits distribution or 
+administration; requiring the Department to establish a certain point of contact for 
+investigating and identifying electronic benefits fraud; requiring the Department to 
+notify certain beneficiaries about electronic benefits fraud in a certain manner and 
+provide certain assistance to certain beneficiaries; applying certain provisions of thi s 
+Act retroactively; requiring  authorizing  the Department to restore benefits to certain 
+households; requiring the Department to issue benefits to eligible households on or 
+before a certain date; requiring the Department to take certain actions to reduce t he 
+vulnerability of Electronic Benefits Transfer cards to theft;  and generally relating to 
+electronic benefits.  
+ 
+BY adding to  
+ Article – Human Services  
+Section 5 –609 and 5 –610 
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2022 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Human Services  
+ 
+5–609. 
+ 
+ THE DEPARTMENT SHALL REIM BURSE A BENEFICIARY FOR ANY AMOUNT OF  
+BENEFITS LOST DUE TO  THE FRAUDULENT USE O F THE BENEFICIARY ’S ELECTRONIC  
+BENEFITS TRANSFER CARD . 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 
+as follows:  
+ 
+Article – Human Services  
+Ch. 172  2023 LAWS OF MARYLAND   
+ 
+– 2 –  
+5–610.  
+ 
+ (A) (1) IN THIS SECTION THE F OLLOWING WORDS HAVE THE MEANINGS 
+INDICATED . 
+ 
+  (2) (I) “PERSONAL IDENTIFYING INFORMATION ” HAS THE 
+MEANING STATED IN § 8–301 OF THE CRIMINAL LAW ARTICLE . 
+ 
+   (II) “PERSONAL IDENTIFYING INFORMATION ” INCLUDES AN 
+ELECTRONIC BENEFITS TRANSFER CARD NUMBER OR PERSONAL IDENTIFI CATION 
+NUMBER .  
+ 
+  (3) “SKIMMING PRACTICES ” INCLUDES : 
+ 
+   (I) USE OF A SKIMMING DE VICE , INCLUDING A SCANNER , 
+SKIMMER , READER , OR OTHER ELECTRONIC DEVICE USED TO ACCES S, READ , SCAN , 
+OBTAIN , MEMORIZE , OR STORE , TEMPORARILY OR PERMA NENTLY , PERSONAL 
+IDENTIFYING INFORMAT ION; OR 
+ 
+   (II) ADDING  MALICIOUS CODE ILLEG ALLY TO A WEBSITE TO  
+CAPTURE ELECTRONIC BENEFITS TRANSFER CARD DATA OR  PERSONAL 
+IDENTIFYING INFORMAT ION.  
+ 
+  (4) “THEFT” INCLUDES : 
+ 
+   (I) PHYSICAL THEFT OF AN  ELECTRONIC BENEFITS TRANSFER 
+CARD ;  
+ 
+   (II) IDENTITY FRAUD , AS DEFINED IN § 8–301 OF THE CRIMINAL 
+LAW ARTICLE ; AND  
+ 
+   (III) THEFT THROUGH SKIMMI NG PRACTICES . 
+ 
+  (5) “TWO–WAY FRAUD ALERT ” MEANS THE CAPABILITY  OF THE 
+DEPARTMENT TO COMMUNI CATE WITH HOUSEHOLDS , AND OF HOUSEHOLDS TO  
+COMMUNICATE WITH THE  DEPARTMENT , THROUGH TEXT MESS AGING REGARDING 
+POTENTIAL FRAUDULENT  USE OR THEFT OF AN ELECTRONIC BENEFITS TRANSFER 
+CARD . 
+ 
+ (B) (1) IF AN INVESTIGATION B Y THE DEPARTMENT SHOWS A 
+HOUSEHOLD ’S CORRECTLY ISSUED B ENEFITS WERE LOST DU E TO THEFT , THE 
+ WES MOORE, Governor  Ch. 172  
+ 
+– 3 – DEPARTMENT AUTOMATICA LLY SHALL RESTORE TH E BENEFITS WITHOUT 
+REQUIRING FURTHER AC TION FROM THE HOUSEH OLD.  
+ 
+  (2) AS SOON AS PRACTICABL E, BUT NOT LATER THAN 10 DAYS AFTER 
+A HOUSEHOLD INFORMS THE DEPARTMENT OF THE LOS S OF BENEFITS DUE TO  
+THEFT , THE DEPARTMENT SHALL : 
+ 
+   (I) NOTIFY THE HOUSEHOLD  IN WR ITING OF THE 
+DEPARTMENT ’S DECISION AS TO WHE THER TO RESTORE BENE FITS, THE AMOUNT OF 
+BENEFITS TO BE RESTO RED, AND THE RIGHT TO AND  METHOD OF REQUESTING  A 
+HEARING ON THE DEPARTMENT ’S DECISION IN ACCORD ANCE WITH SUBSECTION  (C) 
+OF THIS SECTION ;  
+ 
+   (II) IF TH E DEPARTMENT DETERMINES  THAT THE HOUSEHOLD 
+RECEIVES BENEFITS , RESTORE BENEFITS TO THE HOUSEHOLD IN THE  AMOUNT OF 
+BENEFITS THAT WAS LO ST; AND  
+ 
+   (III) PROVIDE THE HOUSEHOL D WITH A NEW ELECTRONIC 
+BENEFITS TRANSFER CARD .  
+ 
+  (3) THE DEPARTMENT MAY NOT : 
+ 
+   (I) REQUIRE A HOUSEHOLD TO PROVIDE A POLICE REPORT AS 
+A CONDITION OF RESTO RATION OF BENEFITS ; OR 
+ 
+   (II) LIMIT THE NUMBER OF MONTHS IN WHICH A HO USEHOLD 
+CAN RECEIVE RESTORAT ION OF BENEFITS LOST  DUE TO THEFT .  
+ 
+ (C) (1) IF A HOUSEHOLD DISPUT ES THE AMOUNT O F BENEFITS 
+RESTORED OR THE DEPARTMENT ’S DETERMINATION THAT  NO RESTORATION IS 
+DUE, THE HOUSEHOLD MAY RE QUEST A HEARING WITH  THE DEPARTMENT WITHIN 
+90 DAYS AFTER THE DATE OF THE DEPARTMENT ’S DETERMINATION .  
+ 
+  (2) IF A HOUSEHOLD REQUES TS A HEARING UNDER T HIS 
+SUBSECTION , THE DEPARTMENT SHALL REST ORE THE BENEFITS FOR  WHICH THE 
+HOUSEHOLD CLAIMS ENT ITLEMENT WHILE THE H EARING IS PENDING . 
+ 
+  (3) IF THE HEARING DECISI ON IS UNFAVORABLE TO  THE 
+HOUSEHOLD , ANY BENEFITS IMPROPE RLY RESTORED UNDER P ARAGRAPH (2) OF 
+THIS SUBS ECTION MAY BE RECOVE RED BY THE DEPARTMENT BY REDUCIN G THE 
+HOUSEHOLD ’S BENEFIT AT A RATE THAT MAY NOT EXCEED THE LESSER OF $10 OR 
+5% OF THE HOUSEHOLD ’S MONTHLY ALLOTMENT OF BENEFITS .  
+ 
+Ch. 172  2023 LAWS OF MARYLAND   
+ 
+– 4 –  (A) (D) IN THE PROCUREMENT PR OCESS FOR ELECTRONIC  BENEFITS 
+DISTRIBUTION OR ADMI NISTRATION , THE STATE OR STATE–AIDED OR  
+STATE–CONTROLLED ENTITY SH ALL GIVE PREFERENCE TO A VENDOR THAT : 
+ 
+  (1) HOLDS A FORM OF INSU RANCE THAT CAN BE US ED TO REIMBURSE 
+A BENEFICIARY FOR  IDENTITY  FRAUD OR IDENTITY  THEFT ; AND  
+ 
+  (2) PROVIDES IDENTITY AC CESS PROTECTIONS TO PROTECT AN 
+ELIGIBLE BENEFICIARY  AGAINST IDENTITY  FRAUD AND THEFT , WHICH MAY 
+INCLUDE MULTIFACTOR AUTHENTICATION . 
+ 
+ (B) (1) THE DEPARTMENT , IN CONSULTATION WITH  THE MARYLAN D 
+STATE POLICE AND ANY OTHER VENDOR THAT THE DEPARTMENT CONSIDERS  
+NECESSARY , SHALL ESTABLISH A SI NGLE POINT OF CONTAC T WITHIN EACH LOCAL  
+DEPARTMENT : 
+ 
+   (I) TO START AN INVESTIG ATION AND FILE A POL ICE REPORT  
+WHEN BENEFITS ARE ST OLEN ; 
+ 
+   (II) TO CONDUCT AN  INITIAL SCREENING TO  IDENTIFY UNUSUAL  
+CHARGES ; AND  
+ 
+   (III) SCHEDULE AN APPOINTM ENT FOR A BENEFICIAR Y TO  
+REPLACE THE BENEFICI ARY’S CARD AND BEGIN THE  REIMBURSEMENT PROCES S 
+WITHIN 1 WEEK AFTER THE IDENT IFICATION OF UNUSUAL  CHARGES . 
+ 
+  (2) THE DEPARTMENT SHALL ESTABLISH A HO TLINE TO ASSIST  
+BENEFICIARIES IN REP ORTING STOLEN BENEFI TS AND ACCESSING THE  PROCESS  
+DEVELOPED UNDER PARA GRAPH (1) OF THIS SUBSECTION . 
+ 
+ (C) THE DEPARTMENT , IN CONSULTATION WITH  THE MARYLAND STATE  
+POLICE AND ANY OTHER VENDOR THAT THE DEPARTMENT CONSIDERS NECESSARY , 
+SHALL : 
+ 
+  (1) ALERT ELECTRONIC BENEFITS TRANSFER CARD HOLDERS  
+ABOUT THE RISK OF FR AUD THROUGH MASS MES SAGING , INCLUDING E –MAILS , TEXT  
+MESSAGES , AND WRITTEN NOTICES THAT : 
+ 
+   (I) ARE EASY TO UNDERSTA ND; 
+ 
+   (II) ARE AVAILABLE  IN MULTIPLE LANGUAGE S; 
+ 
+   (III) INCLUDE VISUAL DEPIC TIONS OF A SKIMMING DEVICE ; 
+ WES MOORE, Governor  Ch. 172  
+ 
+– 5 –  
+   (IV) INCLUDE SIMPLE INSTR UCTIONS ON HOW TO CH ANGE A  
+PERSONAL IDENTIFICAT ION NUMBER (PIN)  ONLINE AND BY PHONE ; AND  
+ 
+   (V) INCLUDE INFORMATION ON THE AVAILABILITY OF 
+REPLACEMENT BENEFITS ; 
+ 
+  (2) PROACTIVELY IDENTIFY  PATTERNS IN ELECTRONIC BENEFITS  
+TRANSFER CARD ACTIVIT Y THAT COULD BE EARL Y INDICATORS OF FRAU D; AND  
+ 
+  (3) PROMPTLY NOTIFY THE CARD HOLDER TO DETER MINE WHETHER  
+BENEFITS HAVE BEEN F RAUDULENTLY USED AND , IF S O, OFFER SUPPORT TO THE  
+CARD HOLDER . 
+ 
+ (E) THE DEPARTMENT SHALL COOR DINATE WITH VENDORS TO TAKE 
+AVAILABLE PRECAUTION S TO REDUCE THE VULN ERABILITY OF ELECTRONIC 
+BENEFITS TRANSFER CARDS TO THE FT BY UTILIZING ENHA NCED TECHNOLOGY .  
+ 
+ (D) (F) ON OR BEFORE DECEM BER 1 EACH YEAR , THE DEPARTMENT , IN 
+CONSULTATION WITH THE MARYLAND STATE POLICE  LOCAL LAW ENFORCEMEN T 
+AGENCIES IN THE STATE , SHALL REPORT TO THE GENERAL ASSEMBLY , IN 
+ACCORDANCE WITH § 2–1257  OF THE STATE GOVERNMENT ARTICLE , ON: 
+ 
+  (1) THE ACCESSIBILITY AN D SECURITY OF ELECTRONIC BENEFITS 
+TRANSFER CARDS ; 
+ 
+  (2) ACTIONS TAKEN TO RED UCE THE FRAUDULENT U SE OF 
+ELECTRONIC BENEFITS TRANSFER CARDS ; AND  
+ 
+  (3) THE NUMBER OF ELECTRONIC BENEFITS TRANSFER CARDS 
+REISSUED DUE TO FRAU D IN THE IMMEDIATELY  PRECEDING YEAR ;  
+ 
+  (4) THE NUMBER OF HOUSEH OLDS REPORTING THEFT  OF BENEFITS , 
+BY JURISDICTION AND PROGRAM ; 
+ 
+  (5) THE NUMBER OF HOUSEH OLDS ELIGIBLE FOR EX PEDITED 
+SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM BENEFITS THAT  REPORTED 
+LOSS OF BENEFITS DUE  TO THEFT , BY JURISDICTION  AND PROGRAM ;  
+ 
+  (6) THE TOTAL DOLLAR AMO UNT OF BENEFITS REPO RTED LOST DUE 
+TO THEFT , BY JURISDICTION AND PROGRAM ; 
+ 
+  (7) THE NUMBER OF DETERM INATIONS OF THEFT MA DE BY THE 
+DEPARTMENT , BY JURISDICTION ; 
+Ch. 172  2023 LAWS OF MARYLAND   
+ 
+– 6 –  
+  (8) THE NUMBER OF DETERM INATIONS MADE BY THE  DEPARTM ENT 
+THAT THEFT DID NOT O CCUR , BY JURISDICTION ; 
+ 
+  (9) THE NUMBER OF HOUSEH OLDS REIMBURSED FOR BENEFITS LOST 
+DUE TO THEFT AND THE  TOTAL DOLLAR AMOUNT OF BENEFITS RESTORED , BY 
+JURISDICTION AND PRO GRAM ; 
+ 
+  (10) THE AVERAGE AND MAXI MUM LENGTH OF TIME , IN DAYS , 
+BETWEEN THE REPORT O F THEFT AND THE REST ORATION OF BENEFITS , BY 
+JURISDICTION ; 
+ 
+  (11) THE NUMBER OF HEARIN GS REQUESTED AND THE  NUMBER OF 
+HOUSEHOLDS THAT RECE IVED A RESTORATION O F BENEFITS AS AN OUT COME OF A 
+HEARING , BY JURISDICTION ; AND  
+ 
+  (12) DEMOGRAPHI C DATA ON HOUSEHOLDS  THAT EXPERIENCED 
+THEFT , INCLUDING RACE , GENDER , NUMBER OF HOUSEHOLDS  WITH CHILDREN 
+UNDER THE AGE OF 18 YEARS , AND NUMBER OF HOUSEH OLDS WITH A MEMBER A T 
+LEAST 60 YEARS OLD . 
+ 
+5–610.  
+ 
+ (A) THE DEPARTMENT MAY : 
+ 
+  (1) RESTORE BENEFITS TO ANY HOUSEHOLD THAT LOS T BENEFITS 
+DUE TO THEFT THAT OC CURRED BETWEEN JANUARY 1, 2021,  AND DECEMBER 31, 
+2021  OCTOBER 1, 2022 , BOTH INCLUSIVE , PROVIDED THAT THE DEPARTMENT 
+CONFIRMS THE HOUSEHO LD LOST BENEFITS DUE  TO THEFT DURING THAT  TIME 
+PERIOD ; AND 
+ 
+  (2) ISSUE BENEFITS TO AN Y HOUSEHOLD THAT LOS T BENEFITS DUE 
+TO THEFT THAT OCCURR ED BETWEEN JANUARY 1, 2022,  AND OCTOBER 1, 2022,  
+BOTH INCLUSIVE ; AND  
+ 
+  (3) SUPPORT INNOVATIVE P RACTICES REQUIRED TO  SUPPORT 
+BENEFICIARIES DURING  THE TIME PERIOD BETW EEN THE REPORTING OF THE LOS S 
+OF BENEFITS DUE TO T HEFT AND THE RESTORA TION OF BENEFITS . 
+ 
+ (B) ON OR BEFORE SEPTEMBER 1, 2023,  THE DEPARTMENT SHALL ISSU E 
+BENEFITS TO HOUSEHOL DS ELIGIBLE TO RECEI VE FUNDS UNDER SUBSE CTION (A) 
+OF THIS SECTION .  
+ 
+ WES MOORE, Governor  Ch. 172  
+ 
+– 7 –  SECTION 3. AND BE IT FURTHER ENACTED, That Section 1 of this Act shall be 
+construed to apply retroactively and shall be applied to and interpreted to affect all benefits 
+issued on or after January 1, 2022.  
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED, That:  
+ 
+ (a) If Congress, the President by executive order, or a federal agency implements 
+a process or program to replace benefits lost due to the fraudulent use of a beneficiary’s 
+Electronic Benefits Transfer card, with no further action required by the General Assembly, 
+Section 1 of  this Act shall be abrogated and of no further force and effect.  
+ 
+ (b) The Comptroller shall notify the Department of Legislative Services within 5 
+days of receiving notice of the federal law, executive order, or agency determination 
+described under this s ection.  
+ 
+ SECTION 5. 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2023.  in implementing the provisions of § 5 –609(f) of the Human Services Article, 
+as enacted by Section 1 of this Act, the Department of Human Services shall coor dinate 
+with vendors to implement available precautions to reduce the vulnerability of Electronic 
+Benefits Transfer cards to theft, including:  
+ 
+  (1) the inclusion of an embedded microchip in all Electronic Benefits 
+Transfer cards issued on or after October  1, 2023;  
+ 
+  (2) the use of two –way fraud alerts;  
+ 
+  (3) connectivity for universal benefits cards;  
+ 
+  (4) providing, at initial benefit approval and each redetermination of 
+eligibility, written notice of fraud risk and instructions on how to reduce the risk of theft, 
+including updating Personal Identification Numbers regularly and avoiding the use of 
+common Personal Identification Numbers;  
+ 
+  (5) enabling Electronic Benefits Transfer cardholders to place certain 
+limits on the use of their cards, includin g limiting transactions during certain hours or 
+prohibiting out –of–state transactions; and  
+ 
+  (6) monitoring transactions for suspicious activity by leveraging user 
+behavior analytics of Electronic Benefits Transfer user data to detect when data is being 
+inappropriately accessed or is compromised.  
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That the Department of Human 
+Services shall consider innovative financial and software services offered by both current 
+and potential vendors to improve the administration and security of Electronic Benefits 
+Transfer p rograms.  
+ 
+Ch. 172  2023 LAWS OF MARYLAND   
+ 
+– 8 –  SECTION 4. AND BE IT FURTHER ENACTED, That this Act is an emergency 
+measure, is necessary for the immediate preservation of the public health or safety, has 
+been passed by a yea and nay vote supported by three –fifths of all the members elected to 
+each of the two Houses of the General Assembly, and shall take effect from the date it is 
+enacted.  
+ 
+Approved by the Governor, April 24, 2023.  

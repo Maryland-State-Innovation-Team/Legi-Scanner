@@ -1,0 +1,888 @@
+ WES MOORE, Governor  Ch. 122  
+ 
+– 1 – Chapter 122  
+(House Bill 538 ) 
+ 
+AN ACT concerning  
+ 
+Land Use – Affordable Housing – Zoning Density and Permitting  
+(Housing Expansion and Affordability Act of 2024)  
+ 
+FOR the purpose of establishing the Historic Property Revitalization Director as a position 
+in the Department of Housing and Community Development; establishing the duties 
+of the Historic Property Revitalization Director;  prohibiting a local legislative bo dy 
+from prohibiting the placement of certain manufactured homes or modular dwellings  
+in a zoning district that allows single –family residential uses under certain 
+circumstances; prohibiting a local jurisdiction from using an element of an adequate 
+public f acilities law to deny a certain permit for a State –funded affordable housing 
+project or to restrict or limit the development of the project in certain manners;  
+requiring local jurisdictions to allow an increase in density of certain qualified 
+projects in certain districts or zones for certain properties formerly owned by the 
+State, located within a certain distance of a rail station, or owned or controlled by a 
+nonprofit organization; providing for the calculation of residential density in certain 
+zoning districts; prohibiting the application of certain zoning requirements under 
+certain circumstances; establishing limits on the maximum number of public 
+hearings o n certain projects under certain circumstances; requiring an entity 
+responsible for a certain qualified project to conduct a certain public health impact 
+assessment and submit the assessment to the Department for approval; prohibiting 
+the Department from a pproving a certain public health impact assessment under 
+certain circumstances;  defining certain terms; providing for the termination of a 
+portion of this Act;  and generally relating to land use and zoning for affordable 
+housing.  
+ 
+BY repealing and reenac ting, with amendments,  
+ Article – Housing and Community Development  
+Section 2 –201 
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2023 Supplement)  
+ 
+BY adding to  
+ Article – Housing and Community Development  
+Section 2 –204 
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Land Use  
+Section 1 –401, 4–104, and 10 –103 
+ Annotated Code of Maryland  
+Ch. 122  2024 LAWS OF MARYLAND   
+ 
+– 2 –  (2012 Volume and 2023 Supplement)  
+ 
+BY adding to  
+ Article – Land Use  
+Section 4–104(c) and 7 –105; and  7–501 through 7–506 7–509 to be under the new 
+subtitle “Subtitle 5. Housing Expansion and Affordability”  
+ Annotated Code of Maryland  
+ (2012 Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article  – Land Use  
+Section 7 –101 
+ Annotated Code of Maryland  
+ (2012 Volume and 2023 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Housing and Community Development  
+ 
+2–201. 
+ 
+ The Department consists of:  
+ 
+  (1) the Division of Credit Assurance;  
+ 
+  (2) the Division of Development Finance;  
+ 
+  (3) the Division of Neighborhood Revitalization;  
+ 
+  (4) the Community Development Administration;  
+ 
+  (5) the Community Legacy Program;  
+ 
+  (6) the Housing Finance Review Committee;  
+ 
+  (7) the Lead Hazard Advisory Committee;  
+ 
+  (8) the Maryland Housing Fund;  
+ 
+  (9) the Neighborhood Business Development Program; [and] 
+ 
+  (10)  THE HISTORIC PROPERTY REVITALIZATION DIRECTOR ; AND  
+ 
+  [(10)] (11)  any other governmental unit that under law is a part of the 
+Department.  
+ WES MOORE, Governor  Ch. 122  
+ 
+– 3 –  
+2–204.  
+ 
+ (A) THERE IS A HISTORIC PROPERTY REVITALIZATION DIRECTOR . 
+ 
+ (B) THE HISTORIC PROPERTY REVITALIZATION DIRECTOR SHALL : 
+ 
+  (1) SUPPORT THE WORK OF THE SMART GROWTH SUBCABINET ;  
+ 
+  (2) COLLECT AND MAINTAIN  FROM STATE AGENCIES THAT O WN 
+PROPERTY AN INVENTOR Y OF STATE–OWNED BUILDINGS THAT  ARE GREATER THAN 
+50 YEARS OLD TO BE USED  FOR PRIORITIZING PHY SICAL ASSESSMENTS AN D, IF 
+APPLICABLE , DETERMINING ELIGIBIL ITY FOR THE NATIONAL REGISTER O F 
+HISTORIC PLACES ; 
+ 
+  (3) IN CONSULTATION WITH  THE SMART GROWTH SUBCABINET AND 
+TO DETERMINE THE HIG HEST AND BEST VALUE FOR THE STATE’S DISPOSITION OF 
+PROPERTY , SUPPORT STUDIES AND CONSULTATIONS RELEVA NT TO :  
+ 
+   (I) STABILIZATION ; 
+ 
+   (II) MOTHBALLING ; 
+ 
+   (III) ENVIRONMENTAL IMPACT S;  
+ 
+   (IV) ECONOMIC PROSPECTS ; AND  
+ 
+   (V) LONG–TERM GROUND LEASES ;  
+ 
+  (4) WORK WITH THE DEPARTMENT , THE DEPARTMENT OF 
+COMMERCE , AND OTHER MEMBERS OF  THE SMART GROWTH SUBCABINET TO 
+IDENTIFY EXISTING STATE AND FEDERAL PRO GRAMS AND FINANCING MECHAN ISMS 
+THAT MAY BE LEVERAGE D TO ENHANCE THE SUC CESSFUL REDEVELOPMEN T OF 
+PROPERTY ; 
+ 
+  (5) WORK WITH THE DEPARTMENT OF GENERAL SERVICES OFFICE 
+OF REAL ESTATE DURING THE DIS POSITION PROCESS OF RELEVANT PROPERTY ; 
+AND  
+ 
+  (6) ON OR BEFORE OCTOB ER 1, 2026,  AND EACH OCTOBER 1 
+THEREAFTER , AND IN CONSULTATION WITH THE SMART GROWTH SUBCABINET , 
+REPORT TO THE GENERAL ASSEMBLY , IN ACCORDANCE WITH § 2–1257  OF THE 
+STATE GOVERNMENT ARTICLE , ON THE PROGRESS OF E FFORTS UNDER THIS 
+SUBSECTION . 
+Ch. 122  2024 LAWS OF MARYLAND   
+ 
+– 4 –  
+ (C) THE HISTORIC PROPERTY REVITALIZATION DIRECTOR SHALL 
+RECEIVE A SALARY AS PROVIDED IN THE STATE BUDGET .  
+ 
+Article – Land Use  
+ 
+1–401. 
+ 
+ (a) Except as provided in this section, this division does not apply to charter 
+counties.  
+ 
+ (b) The following provisions of thi s division apply to a charter county:  
+ 
+  (1) this subtitle, including Parts II and III (Charter county – 
+Comprehensive plans);  
+ 
+  (2) § 1–101(l), (m), and (o) (Definitions – “Plan”, “Priority funding area”, 
+and “Sensitive area”);  
+ 
+  (3) § 1–201 (Visions);  
+ 
+  (4) § 1–206 (Required education);  
+ 
+  (5) § 1–207 (Annual report – In general);  
+ 
+  (6) § 1–208 (Annual report – Measures and indicators);  
+ 
+  (7) Title 1, Subtitle 3 (Consistency);  
+ 
+  (8) Title 1, Subtitle 5 (Growth Tiers);  
+ 
+  (9) § 4–104(b)  4–104( C) (Limitations – Bicycle parking);  
+ 
+  (10) § 4–104( C) 4–104( D) (LIMITATIONS – MANUFACTURED HOMES  
+AND MODULAR DWELLING S); 
+ 
+  (11)  § 4–208 (Exceptions – Maryland Accessibility Code);  
+ 
+  [(11)] (12)  § 4–210 (Permits and variances – Solar panels);  
+ 
+  [(12)] (13)  § 4–211 (Change in zoning classification – Energy generating 
+systems);  
+ 
+  [(13)] (14)  § 4–212 (Agritourism);  
+ 
+ WES MOORE, Governor  Ch. 122  
+ 
+– 5 –   [(14)] (15)  § 4–213 (Alcohol production);  
+ 
+  [(15)] (16)  § 4–214 (Agricultural alcohol production);  
+ 
+  [(16)] (17)  § 4–215 (Pollinator –friendly  vegetation management);  
+ 
+  [(17)] (18)  § 5–102(d) (Subdivision regulations – Burial sites);  
+ 
+  [(18)] (19)  § 5–104 (Major subdivision – Review);  
+ 
+  [(19)] (20)  Title 7, Subtitle 1 (Development Mechanisms);  
+ 
+  [(20)] (21)  Title 7, Subtitle 2 (Transfer of Development Rights);  
+ 
+  [(21)] (22)  except in Montgomery County or Prince George’s County, Title 
+7, Subtitle 3 (Development Rights and Responsibilities Agreements);  
+ 
+  [(22)] (23)  Title 7, Subtitle 4 (Inclusionary Zoning);  
+ 
+  (24)  TITLE 7, SUBTITLE 5 (HOUS ING EXPANSION AND 
+AFFORDABILITY ); 
+ 
+  [(23)] (25)  § 8–401 (Conversion of overhead facilities);  
+ 
+  [(24)] (26)  for Baltimore County only, Title 9, Subtitle 3 (Single –County 
+Provisions – Baltimore County);  
+ 
+  [(25)] (27)  for Frederick County only, Title 9, Su btitle 10 (Single –County 
+Provisions – Frederick County);  
+ 
+  [(26)] (28)  for Howard County only, Title 9, Subtitle 13 (Single –County 
+Provisions – Howard County);  
+ 
+  [(27)] (29)  for Talbot County only, Title 9, Subtitle 18 (Single –County 
+Provisions – Talbot County); and  
+ 
+  [(28)] (30)  Title 11, Subtitle 2 (Civil Penalty).  
+ 
+ (c) This section supersedes any inconsistent provision of Division II of this article.  
+ 
+4–104. 
+ 
+ (a) IN THIS SECTION , “MODULAR DWELLING ” MEANS A BUILDING 
+ASSEMBLY OR SYSTEM O F BUILDING SUBASSEMBLIES DESIGN ED FOR HABITATION 
+AS A DWELLING FOR ON E OR MORE INDIVIDUAL S: 
+Ch. 122  2024 LAWS OF MARYLAND   
+ 
+– 6 –  
+  (1) THAT INCLUDES THE NE CESSARY ELECTRICAL , PLUMBING , 
+HEATING , VENTILATING , AND OTHER SERVICE SY STEMS ;  
+ 
+  (2) THAT IS MADE OR ASSEMBLED  BY A MANUFACTURER ON  OR OFF 
+THE BUI LDING SITE FOR INSTA LLATION , OR ASSEMBLY AND INST ALLATION , ON THE 
+BUILDING SITE ; AND  
+ 
+  (3) INSTALLED AND SET UP  ACCORDING TO THE MAN UFACTURER ’S 
+INSTRUCTIONS ON AN A PPROVED FOUNDATION A ND SUPPORT SYSTEM . 
+ 
+ (B) The powers granted to a local jurisdiction under this subtitle do not:  
+ 
+  (1) grant the local jurisdiction powers in any substantive area not 
+otherwise granted to the local jurisdiction by any other public general or public local law;  
+ 
+  (2) restrict the local jurisdiction from exercising any power  granted to the 
+local jurisdiction by any other public general or public local law or otherwise;  
+ 
+  (3) authorize the local jurisdiction or its officers to engage in any activity 
+that is beyond their power under any other public general or public local law  or otherwise; 
+or 
+ 
+  (4) preempt or supersede the regulatory authority of any unit of the State 
+under any public general law.  
+ 
+ [(b)] (C) (1) If a legislative body regulates off –street parking, the legislative 
+body shall require space for the parking of bi cycles in a manner that the legislative body 
+considers appropriate.  
+ 
+  (2) A legislative body may allow a reduction in the number of required 
+automobile parking spaces based on the availability of space for parking bicycles.   
+ 
+ (C) (D) A LEGISLATIVE BODY MAY  NOT PROHIBIT THE PLA CEMENT OF A 
+NEW MANUFACTURED HOM E OR MODULAR DWELLING  IN A ZONE THAT ALLOW S 
+SINGLE–FAMILY RESIDENTIAL U SES IF THE MANUFACTURED  HOME OR DWELLING : 
+ 
+  (1) (I) MEETS THE DEFINITION  OF MODULAR DWELLING UNDER 
+SUBSECTION  (A) OF THIS SECTION ; OR 
+ 
+  (2) (II) MEETS THE DEFINITION  OF A MANUFACTURED HO ME IN §  
+9–102( A) OF THE COMMERCIAL LAW ARTICLE ; AND  
+ 
+ WES MOORE, Governor  Ch. 122  
+ 
+– 7 –   (2) AND  IS, OR WILL BE AFTER PUR CHASE , CONVERTED TO REAL 
+PROPERTY IN ACCORDAN CE WITH TITLE 8B, SUBTITLE 2 OF THE REAL PROPERTY 
+ARTICLE ; OR  
+ 
+  (2) IS LOCATED ON LAND : 
+ 
+   (I) CURRENTLY OR PREVIOU SLY OWNED BY THE FED ERAL 
+GOVERNMENT ;  
+ 
+   (II) GREATER THAN 80 ACRES  IN SIZE ; AND 
+ 
+   (III) THAT WAS THE SITE OF  A FORMER U.S.  MILITARY 
+RESERVATION . 
+ 
+7–101. 
+ 
+ To encourage the preservation of natural resources or the provision of affordable 
+housing and to facilitate orderly development and growth, a local jurisdiction that  exercises 
+authority granted by this division may enact, and is encouraged to enact, local laws 
+providing for or requiring:  
+ 
+  (1) the planning, staging, or provision of adequate public facilities and 
+affordable housing;  
+ 
+  (2) off–site improvements or the  dedication of land for public facilities 
+essential for a development;  
+ 
+  (3) moderately priced dwelling unit programs;  
+ 
+  (4) mixed use developments;  
+ 
+  (5) cluster developments;  
+ 
+  (6) planned unit developments;  
+ 
+  (7) alternative subdivision requirements that:  
+ 
+   (i) meet minimum performance standards set by the local 
+jurisdiction; and  
+ 
+   (ii) reduce infrastructure costs;  
+ 
+  (8) floating zones;  
+ 
+  (9) incentive zoning; and  
+ 
+Ch. 122  2024 LAWS OF MARYLAND   
+ 
+– 8 –   (10) performance zoning.  
+ 
+SUBTITLE 5. HOUSING EXPANSION AND AFFORD ABILITY . 
+ 
+7–501. 
+ 
+ (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE  THE MEANINGS 
+INDICATED . 
+ 
+ (B) “ADEQUATE PUBLIC FACIL ITY LAW ” MEANS A LOCAL LAW PR OVIDING  
+FOR OR REQUIRING THE  PLANNING , STAGING , OR PROVISION OF ADEQ UATE PUBLIC  
+FACILITIES , AS AUTHORIZED UNDER § 7–101(1)  OF THIS TITLE . 
+ 
+ (C) (B) “AFFORDABLE ” MEANS THAT HOUSING C OSTS DO NOT EXCEED 
+30%  OF A HOUSEHOLD ’S INCOME . 
+ 
+ (D) (C) “AFFORDABLE DWELLING U NIT” MEANS A DWELLING UNI T THAT 
+IS AFFORDABLE TO HOU SEHOLDS EARNING 60%  OR LESS OF THE AREA MEDIAN 
+INCOME . 
+ 
+ (E) (D) “AREA MEDIAN INCOME ” MEANS THE MEDIAN HOU SEHOLD 
+INCOME FOR THE AREA ADJUSTED FOR HOUSEHO LD SIZE AS PUBLISHED  AND 
+ANNUALLY UPDATED BY THE U.S.  DEPARTMENT OF HOUSING AND URBAN 
+DEVELOPMENT . 
+ 
+ (F) (E) “BOARD OF APPEALS ” MEANS A BOARD OF APP EALS  ESTABLISHED 
+UNDER TITLE 4, SUBTITLE 3 OF THIS ARTICLE . 
+ 
+ (G) (F) “COTTAGE CLUSTER ” MEANS A GROUPING OF NOT FEWER THAN 
+FOUR DETACHED HOUSIN G UNITS PER ACRE THA T: 
+ 
+  (1) HAVE A FOOTPRINT OF LESS THAN 900 SQUARE FEET EACH ; AND 
+ 
+  (2) INCLUDE A COMMON COU RTYA RD. 
+ 
+ (H) (G) “HISTORIC DISTRICT COM MISSION ” OR “HISTORIC 
+PRESERVATION COMMISS ION” MEANS A COMMISSION E STABLISHED UNDER TITLE 8, 
+SUBTITLE 2 OF THIS ARTICLE . 
+ 
+ (I) (H) “MIDDLE HOUSING ” MEANS : 
+ 
+  (1) DUPLEXES ; 
+ 
+  (2) TRIPLEXES ; 
+ WES MOORE, Governor  Ch. 122  
+ 
+– 9 –  
+  (3) QUADPLEXES ; 
+ 
+  (4) COTTAGE CLUSTERS ; OR 
+ 
+  (5) TOWN HOUSES . 
+ 
+ (J) (I)  (1) “MIXED–USE” MEANS A COMBINATION OF HOU SING , 
+RETAIL , AND  OFFICE SPACE  ANY COMBINATION OF A  RESIDENTIAL USE WITH  A 
+RECREATIONAL , OFFICE , DINING , OR RETAIL USE . 
+ 
+  (2) “MIXED–USE” DOES NOT MEAN ANY COMBINATION OF A 
+RESIDENTIAL USE WITH  AN INDUSTRIAL OR HAZ ARDOUS USE . 
+ 
+ (K) (J) “PERMIT” MEANS A BUILDING PER MIT OR OTHER PERMIT ISSUED 
+IN WRITING , AS REQUIRED BY A LOC AL JURISDICTION , TO AUTHORIZE THE STA RT OF 
+PREDEVELOPMENT OR CO NSTRUCTION ACTIVITIE S TO CONSTRUCT , ALTER , 
+DEMOLISH , OR RELOCATE AN EXIST ING OR NEW STRUCTURE . 
+ 
+ (L) (K) “PLANNING COMMISSION ” INCLUDES A PLANNING COMMISSION 
+OR BOARD ESTABLISHED  UNDER : 
+ 
+  (1) TITLE 2 OF THIS ARTICLE ; 
+ 
+  (2) DIVISION II OF THIS ARTICLE ; OR 
+ 
+  (3) TITLE 10 OF THE LOCAL GOVERNMENT ARTICLE . 
+ 
+ (M) (L) “TOWN HOUSE ” MEANS A COMPLEX OF D WELLING UNITS 
+CONSTRUCTED IN A ROW  OF TWO  THREE  OR MORE ATTACHED UNI TS, WHERE EACH 
+DWELLING UNIT IS LOC ATED ON AN INDIVIDUA L LOT OR PARCEL AND SHARES AT 
+LEAST ONE COMMON WAL L WITH AN ADJA CENT DWELLING UNIT . 
+ 
+ (N) (M) “UNREASONABLE LIMITATI ON OR REQUIREMENT ” INCLUDES ANY 
+LIMITATION OR REQUIR EMENT THAT HAS  AMOUNTS TO A DE FACT O DENIAL BY 
+HAVING  A SUBSTANTIAL ADVERS E IMPACT ON : 
+ 
+  (1) THE VIABILITY OF AN AFFORDABLE HOUSING D EVELOPMENT IN A 
+QUALIFIED PROJECT ; 
+ 
+  (2) THE DEGREE OF AFFORD ABILITY OF AFFORDABL E DWELLING 
+UNITS IN A QUALIFIED  PROJECT ; OR 
+ 
+Ch. 122  2024 LAWS OF MARYLAND   
+ 
+– 10 –   (3) THE ALLOWABLE DENSIT Y OR NUMBER OF UNITS  OF THE 
+QUALIFIED PROJECT . 
+ 
+7–502. 
+ 
+ (A) IN THIS SECTION , “QUALIFIED PROJECT ” MEANS A RESIDENTIAL 
+PROJECT THAT : 
+ 
+  (1) CONSISTS OF NEW CONS TRUCTION OR SUBSTANT IAL 
+RENOVATION , AS ANNUALLY ESTABLIS HED AND IDENTIFIED B Y THE DEPARTMENT 
+OF HOUSING AND COMMUNITY DEVELOPMENT IN THE MULTIFAMILY RENTAL 
+FINANCING PROGRAM GUIDE ; 
+ 
+  (2) IS ON PROPERTY THAT : 
+ 
+   (I) 1. WAS FORMERLY OWNED B Y THE STATE ; 
+ 
+   (II) 2. CONSISTS OF MORE THA N ONE BUILDING ; 
+ 
+   (III) 3. INCLUDES AT LEAST ON E BUILDING THAT WAS BUILT 
+MORE THAN 50 YEARS BEFORE THE DAT E OF APPLICATION FOR  THE PROJECT ; AND  
+ 
+   (IV) 4. IS APPROPRIATE FOR R EDEVELOPMENT AS 
+DETERMINED BY THE SECRETARY OF HOUSING AND COMMUNITY DEVELOPMENT ; 
+OR 
+ 
+   (II) 1. IS CURRENTLY OR WAS FORMERLY OWNED BY TH E 
+FEDERAL GOVERNMENT ; 
+ 
+    2. IS GREATER THAN 80 ACRES IN SIZE ; AND 
+ 
+    3. WAS THE SITE OF A FORMER U.S.  MILITARY 
+RESERVATION ; 
+ 
+  (3) CONTAINS AT LEAST 50%  25% OF UNITS THAT ARE AF FORDABLE 
+DWELLING UNITS ; AND  
+ 
+  (4) IS DEED –RESTRICTED TO INCLUD E 50%  25% OF UNITS THAT ARE 
+AFFORDABLE DWELLING UNITS FOR A PERIOD O F AT LEAST 40 YEARS . 
+ 
+ (B) (1) IN ACCORDANCE WITH THIS  SUBSECTION , A LOCAL JURISDICTION  
+SHALL ALLOW THE DENS ITY OF A QUALIFIED P ROJECT TO EXCEED THE  DENSITY 
+OTHERWISE AUTHORIZED  IN A DISTRICT OR ZON E. 
+ 
+ WES MOORE, Governor  Ch. 122  
+ 
+– 11 –   (2) IN AN AREA ZONED EXCLUSIVELY  FOR SINGLE –FAMILY 
+RESIDENTIAL USE , A QUALIFIED PROJEC T MAY INCLUDE MIDDLE  HOUSING UNITS . 
+ 
+  (3) IN AN AREA ZONED EXCLUSIVELY  FOR MULTIFAMILY 
+RESIDENTIAL USE , A QUALIFIED PROJECT : 
+ 
+   (I) SHALL HAVE A DENSITY  LIMIT THAT EXCEEDS B Y 30%  THE 
+ALLOWABLE DENSITY IN  THAT ZONE FOR USES T HAT ARE NOT PART OF A QUALIFIE D 
+PROJECT ; AND 
+ 
+   (II) MAY CONSIST OF MIXED –USE. 
+ 
+  (4) IN SUBJECT TO § 7–509 OF THIS SUBTITLE , IN AN AREA ZONED  
+EXCLUSIVELY  FOR NONRESIDENTIAL U SE, A QUALIFIED PROJECT MAY CONSIST OF 
+MIXED–USE DEVELOPMENT WITH  DENSITY LIMITS THAT DO NOT EXCEED THE 
+HIGHEST ALLOWABLE DE NSITY IN THE LOCAL J URISDICTION ’S MULTIFAMILY 
+RESIDENTIAL ZONES : 
+ 
+   (I) IN AN AREA ZONED FOR  NONRESIDENTIAL USE ; OR 
+ 
+   (II) ON LAND THAT :  
+ 
+    1. IS CURRENTLY OR WAS FORMERLY OWNED BY TH E 
+FEDERAL GOVERNMENT ;  
+ 
+    2. IS MORE THAN 80 ACRES IN SIZE ; AND  
+ 
+    3. WAS THE SITE OF A FO RMER U.S.  MILITARY 
+RESERVATION . 
+ 
+  (5) IN AN AREA ZONED FOR MIXED–USE, A QUALIFIED PROJECT MAY 
+INCLUDE 30%  MORE HOUSING UNITS T HAN ARE ALLOWED IN T HAT ZONE FOR USES  
+THAT ARE NOT PART OF  A QUALIFIED PROJECT  CONSIST OF RESIDENTI AL 
+DEVELOPMENT WITH DEN SITY LIMITS THAT DO NOT EXCEED THE GREAT ER OF THE 
+FOLLOWING :  
+ 
+   (I) THE HIGHEST ALLOWABL E DENSITY IN THE LOC AL 
+JURISDICTION ’S RESIDENTIAL ZONES ; OR 
+ 
+   (II) SIX UNITS PER GROSS ACRE . 
+ 
+  (6) IF A QUALIFIED PROJECT IS ALLOWED TO EXCEED  THE DENSITY 
+OTHERWISE AUTHORIZED  BY A LOCAL JURISDICT ION IN A DISTRICT OR  ZONE UNDER 
+Ch. 122  2024 LAWS OF MARYLAND   
+ 
+– 12 – THIS SECTION , THE QUALIFIED PROJEC T MAY NOT ALSO EXCEE D THE AUTHORIZED 
+DENSITY UNDER § 7–503 OR § 7–504 OF THIS SUBTITLE .  
+ 
+7–503. 
+ 
+ (A) (1) IN THIS SECTION THE F OLLOWING WORDS HAVE THE MEANINGS 
+INDICATED . 
+ 
+  (2) “QUALIFIED PROJECT ” MEANS A RESIDENTIAL PROJECT THAT : 
+ 
+   (I) CONSISTS OF NEW CONS TRUCTION OR SUBSTANT IAL 
+RENOVATION ; 
+ 
+   (II) IS ON PROPERTY THAT IS LOCATED WITHIN 1  
+THREE–QUARTERS OF A  MILE OF A RAIL STATI ON LOCATED IN THE STATE ; 
+ 
+   (III) EXCEPT AS PROVIDED I N ITEM (IV) OF THIS PARAGRAPH : 
+ 
+    1. CONTAINS AT LEAST 25%  15% OF UNITS THAT ARE 
+AFFORDABLE DWELLING UNITS ; AND  
+ 
+   (IV) 2. IS DEED–RESTRICTED TO INCLUD E 25%  15% OF UNITS 
+THAT ARE AFFORDABLE DWELLING UNITS FOR A  PERIOD OF AT LEAST 40 YEARS ; 
+AND 
+ 
+   (IV) IN A COUNTY OR MUNICIPALITY THAT , ON OR BEFORE 
+DECEMBER 31, 2024,  HAS REQUIREMENTS EQU AL TO OR EXCEEDING THE 
+REQUIREMENTS UNDER I TEM (III) OF THIS SECTION  PARAGRAPH : 
+ 
+    1. CONTAINS AT LEAST 20%  OF UNITS THAT ARE 
+AFFORDABLE DWELLING UNITS ; AND 
+ 
+    2. IS DEED –RESTRICTED TO INCLUD E 20%  OF UNITS 
+THAT ARE AFFORDABLE DWELLING UNITS FOR A  PERIOD OF AT LEAST 40 YEARS . 
+ 
+  (3) “RAIL STATION ” MEANS A PRESENT OR PLANNED : 
+ 
+   (I) MARC  STATION ALONG THE PENN, CAMDEN , OR 
+BRUNSWICK LINES ; 
+ 
+   (II) BALTIMORE METRO SUBWAY LINK STATION ; 
+ 
+   (III) BALTIMORE LIGHT RAILLINK STATION ; 
+ 
+ WES MOORE, Governor  Ch. 122  
+ 
+– 13 –    (IV) METRORAIL SYSTEM STAT ION IN THE STATE ; OR 
+ 
+   (V) ANY OTHER PASSENGER RAIL STATION . 
+ 
+ (B) THIS SECTION DOES NOT  APPLY TO : 
+ 
+  (1) A PROPERTY LOCATED W ITHIN THREE –FOURTHS OF A MILE OF  A 
+RAIL STATION IN THE STATE IF : 
+ 
+   (I) THE RAIL STATION IS LOCATED ON THE CAMPU S OF AN 
+INSTITUTION OF HIGHE R EDUCATION AS DEFIN ED IN § 10–101 OF THE EDUCATION 
+ARTICLE ; OR 
+ 
+   (II) ONLY A PORTION OF TH E PROPERTY IS LOCATE D WITHIN 
+THE THREE –FOURTHS OF A MILE OF  THE RAIL STATION ; OR 
+ 
+  (2) AN AREA ZONED FOR SI NGLE–FAMILY RESIDENTIAL U SE: 
+ 
+  (1) (I) ON JANUARY 1, 2024;  AND 
+ 
+  (2) (II) DURING ANY PROCESS T O INCREASE ALLOWABLE D ENSITY 
+UNDER SUBSECTION (C) OF THIS SECTION . 
+ 
+ (C) (1) IN ACCORDANCE WITH TH IS SUBSECTION , A LOCAL JURISDICTION  
+SHALL ALLOW THE DENS ITY OF A QUALIFIED P ROJECT TO EXCEED THE  DENSITY 
+OTHERWISE AUTHORIZED  IN A DISTRICT OR ZON E. 
+ 
+  (2) IN AN AREA ZONED EXCLUSIVELY  FOR SINGLE –FAMILY 
+RESIDENTIAL USE , A QUALIFIED PROJECT MAY INCLUDE MIDDLE H OUSING UNITS . 
+ 
+  (3) IN AN AREA ZONED EXCLUSIVELY  FOR MULTIFAMILY 
+RESIDENTIAL USE , A QUALIFIED PROJECT : 
+ 
+   (I) SHALL HAVE A DENSITY  LIMIT THAT EXCEEDS B Y 30%  THE 
+ALLOWABLE DENSITY IN  THAT ZONE FOR USES T HAT ARE NOT PART OF A QUALIFIED 
+PROJECT ; AND 
+ 
+   (II) MAY CONSIST OF MIXED –USE. 
+ 
+  (4) IN SUBJECT TO § 7–509 OF THIS SUBTITLE , IN AN AREA ZONED  
+EXCLUSIVELY  FOR NONRESIDENTIAL U SE, A QUALIFIED PROJECT MAY CONSIST OF 
+MIXED–USE, WITH DENSITY LIMITS THAT DO NOT EXCEED T HE HIGHEST ALLOWABLE  
+DENSITY IN THE LOCAL  JURISDICTION ’S MULTIFAMILY RESIDE NTIAL ZONES . 
+ 
+Ch. 122  2024 LAWS OF MARYLAND   
+ 
+– 14 –   (5) IN AN AREA ZONED FOR MIXED–USE, A QUALIFIED PROJEC T MAY 
+INCLUDE 30%  MORE HOUSING UNITS T HAN ARE ALLOWED IN T HAT ZONE FOR USES 
+THAT ARE NOT PART OF  A QUALIFIED PROJECT . 
+ 
+  (6) IF A QUALIFIED PROJEC T IS ALLOWED TO EXCE ED THE DENSITY 
+OTHERWISE AUTHORIZED  BY A LOCAL JURISDICT ION IN A DISTRICT OR  ZONE UNDER 
+THIS SECTION , THE QUALIFIED PROJEC T MAY NOT ALSO EXCEE D THE AUTHORIZED 
+DENSITY UNDER § 7–502 OR § 7–504 OF THIS SUBTITLE .  
+ 
+7–504. 
+ 
+ (A) (1) IN THIS SECTION THE F OLLOWING WORDS HAVE THE MEANINGS 
+INDICATED . 
+ 
+  (2) “CONTROLLED BY ” MEANS A BUSINESS STR UCTURE IN WHICH A 
+NONPROFIT ORGANIZATI ON IS A MANAGING MEM BER, GENERAL PARTNER , OR 
+OTHERWISE CONTROLLIN G ENTITY WITH A FOR –PROFIT MEMBER OR PAR TNER AS 
+DEMONSTRATED BY AN A TTORNEY LICENSED IN THE STATE .  
+ 
+  (2) (3) “NONPR OFIT ORGANIZATION ” MEANS AN ORGANIZATIO N 
+THAT IS QUALIFIED AS  TAX–EXEMPT UNDER § 501( C)(3) OF THE INTERNAL 
+REVENUE CODE AND HAS BEEN DESIGNA TED AS SUCH FOR AT L EAST 3 YEARS . 
+ 
+  (3) (4) “QUALIFIED PROJECT ” MEANS A RESIDENTIAL PROJECT 
+THAT : 
+ 
+   (I) CONSISTS OF NEW CONSTRUCTION OR SUBSTANTIAL 
+RENOVATION ; 
+ 
+   (II) IS ON LAND , INCLUDING LAND THAT IS SUBJECT TO A 
+GROUND LEASE , THAT : 
+ 
+    1. IS WHOLLY OWNED BY A  NONPROFIT ORGANIZATI ON; 
+OR 
+ 
+    2. INCLUDES IMPROVEMENT S OWNED BY AN ENTITY  
+THAT IS CONTROLLED B Y A NONPROFIT ORGANIZATI ON; 
+ 
+   (III) CONTAINS AT LEAST 50%  25% OF UNITS THAT ARE 
+AFFORDABLE DWELLING UNITS ; AND  
+ 
+   (IV) IS DEED–RESTRICTED TO INCLUD E 50%  25% OF UNITS THAT 
+ARE AFFORDABLE DWELL ING UNITS FOR A PERI OD OF AT LEAST 40 YEARS . 
+ WES MOORE, Governor  Ch. 122  
+ 
+– 15 –  
+ (B) (1) IN ACCORDANCE WITH THIS  SUBSECTION , A LOCAL JURISDICTION  
+SHALL ALLOW THE DENS ITY OF A QUALIFIED P ROJECT TO EXCEED THE  DENSITY 
+OTHERWISE AUTHORIZED  IN A DISTRICT OR ZON E. 
+ 
+  (2) IN AN AREA ZONED EXCLUSIVELY  FOR SINGLE –FAMILY 
+RESIDENTIAL USE , A QUALIFIED PROJEC T MAY INCLUDE MIDDLE  HOUSING UNITS . 
+ 
+  (3) IN AN AREA ZONED EXCLUSIVELY  FOR MULTIFAMILY 
+RESIDENTIAL USE , A QUALIFIED PROJECT : 
+ 
+   (I) SHALL HAVE A DENSITY  LIMIT THAT EXCEEDS B Y 30%  THE 
+ALLOWABLE DENSITY IN  THAT ZONE FOR USES T HAT ARE NOT PART OF A QUALIFIED 
+PROJECT ; AND 
+ 
+   (II) MAY CONSIST OF MIXED –USE. 
+ 
+  (4) IN SUBJECT TO § 7–509 OF THIS SUBTITLE , IN AN AREA ZONED  
+EXCLUSIVELY  FOR NONRESIDENTIAL U SE, A QUALIFIED PROJECT MAY CONSIST OF 
+MIXED–USE DEVELOPMENT WITH  DENSITY LIMITS THAT DO NOT EXCEED TH E 
+HIGHEST ALLOWABLE DE NSITY IN THE LOCAL J URISDICTION ’S MULTIFAMILY 
+RESIDENTIAL ZONES . 
+ 
+  (5) IN AN AREA ZONED FOR MIXED–USE, A QUALIFIED PROJECT MAY 
+INCLUDE 30%  MORE HOUSING UNITS T HAN ARE ALLOWED IN T HAT ZONE FOR USES 
+THAT ARE NOT PART OF  A QUALIFIED PRO JECT . 
+ 
+  (6) IF A QUALIFIED PROJEC T IS ALLOWED TO EXCE ED THE DENSITY 
+OTHERWISE AUTHORIZED  BY A LOCAL JURISDICT ION IN A DISTRICT OR  ZONE UNDER 
+THIS SECTION , THE QUALIFIED PROJEC T MAY NOT ALSO EXCEE D THE AUTHORIZED 
+DENSITY UNDER § 7–502 OR § 7–503 OF THIS SU BTITLE .  
+ 
+7–505. 
+ 
+ A LOCAL JURISDICTION M AY NOT IMPOSE ANY UN REASONABLE LIMITATIO N 
+OR REQUIREMENTS ON A  QUALIFIED PROJECT UN DER THIS SUBTITLE , INCLUDING 
+LIMITATIONS ON OR RE QUIREMENTS CONCERNIN G: 
+ 
+  (1) HEIGHT ; 
+ 
+  (2) SETBACK ; 
+ 
+  (3) BULK ; 
+ 
+Ch. 122  2024 LAWS OF MARYLAND   
+ 
+– 16 –   (4) PARKING ; 
+ 
+  (5) LOADING , DIMENSIONAL , OR AREA ; OR 
+ 
+  (6) SIMILAR REQUIREMENTS . 
+ 
+7–506. 
+ 
+ (A) EXCEPT AS OTHERWISE P ROVIDED OR REQUIRED BY STATE LAW , A 
+LOCAL GOVERNMENT MAY  NOT REQUIRE THAT A Q UALIFIED PROJECT UND ER THIS 
+SUBTITLE BE REVIEWED  AT MORE THAN ONE  TWO  PUBL IC HEARING  HEARINGS  
+BEFORE EACH OF THE F OLLOWING : 
+ 
+  (1) THE LOCAL GOVERNING BODY ; AND 
+ 
+  (2) THE PLANNING COMMISS ION; 
+ 
+  (3). 
+ 
+ (B) EXCEPT AS OTHERWISE P ROVIDED OR REQUIRED BY STATE LAW , A 
+LOCAL GOVERNMENT MAY  NOT REQUIRE THAT A Q UALIFIED PROJECT UND ER THIS 
+SUBTITLE BE REVIEWED  AT MORE THAN ONE PUB LIC HEARING BEFORE E ACH OF 
+THE FOLLOWING : 
+ 
+  (1) A HISTORIC DISTRICT COMMISSION OR HISTOR IC PRESERVATION 
+COMMISSION ; AND 
+ 
+  (4) (2) THE BOARD OF APPEALS . 
+ 
+7–507.  
+ 
+ THE INCREASED DENSITY  LIMITS UNDER §§ 7–502 THROUGH 7–504 OF THIS 
+SUBTITLE ARE IN ADDI TION TO INCREASED DE NSITY THAT IS ALLOWE D OR 
+REQUIRED BY A LOCAL JURISDICTION . 
+ 
+7–508.  
+ 
+ UNDER THIS SUBTITLE , THE DENSITY OF A QUA LIFIED PROJECT MAY N OT 
+EXCEED THE DENSITY O THERWISE AUTHORIZED IN A DISTRICT OR ZON E LOCATED 
+ON: 
+ 
+  (1) AGRICULTURAL LAND , AS DEFINED IN § 9–206 OF THE TAX – 
+PROPERTY ARTICLE ; OR 
+ 
+ WES MOORE, Governor  Ch. 122  
+ 
+– 17 –   (2) CONSERVATION PROPERT Y, AS DEFINED IN § 8–209.1  OF THE  
+TAX – PROPERTY ARTICLE . 
+ 
+7–509.  
+ 
+ (A) (1) BEFORE A QUALIFIED PR OJECT IS AUTHORIZED TO EXCEED THE 
+DENSITY IN AN AREA ZON ED FOR NONRESIDENTIA L USE UNDER § 7–502( B)(4),  §  
+7–503( C)(4),  OR § 7–504( B)(4) OF THIS SUBTITLE , THE ENTITY RESPONSIB LE FOR 
+THE QUALIFIED PROJEC T SHALL :  
+ 
+   (I) CONDUCT A PUBLIC HEA LTH IMPACT ASSESSMEN T; AND  
+ 
+   (II) RECEIVE APPROVAL OF THE PUBLIC HEALTH  IMPACT 
+ASSESSMENT FROM THE DEPARTMENT OF HOUSING AND COMMUNITY 
+DEVELOPMENT . 
+ 
+  (2) A PUBLIC HEALTH IMPACT  ASSESSMENT UNDER THI S 
+SUBSECTION SHALL EVA LUATE POTENTIAL PUBL IC HEALTH IMPACTS AS SOCIATED 
+WITH THE PROXIMITY O F THE QUALIFIED PR OJECT TO ANY HEALTH HAZARDS 
+WITHIN THE AREA ZONE D FOR NONRESIDENTIAL  USE.  
+ 
+ (B) THE DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT MAY 
+NOT APPROVE A PUBLIC  HEALTH IMPACT ASSESS MENT SUBMITTED UNDER  THIS 
+SECTION IF THE ASSES SMENT SHOWS THAT RES IDENTIAL USE  IN THE 
+NONRESIDENTIAL ZONE WOULD PRESENT A SUBS TANTIAL RISK TO THE HEALTH AND 
+SAFETY OF THE RESIDE NTS. 
+ 
+ (C) THE DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT 
+SHALL ADOPT REGULATI ONS TO CARRY OUT THE  PROVISIONS OF THIS S ECTION .  
+ 
+10–103. 
+ 
+ (a) Except as  provided in this section, this division does not apply to Baltimore 
+City.  
+ 
+ (b) The following provisions of this division apply to Baltimore City:  
+ 
+  (1) this title;  
+ 
+  (2) § 1–101(m) (Definitions – “Priority funding area”);  
+ 
+  (3) § 1–101(o) (Definitions  – “Sensitive area”);  
+ 
+  (4) § 1–201 (Visions);  
+ 
+Ch. 122  2024 LAWS OF MARYLAND   
+ 
+– 18 –   (5) § 1–206 (Required education);  
+ 
+  (6) § 1–207 (Annual report – In general);  
+ 
+  (7) § 1–208 (Annual report – Measures and indicators);  
+ 
+  (8) Title 1, Subtitle 3 (Consistency);  
+ 
+  (9) Title 1, Subtitle 4 , Parts II and III (Home Rule Counties – 
+Comprehensive Plans; Implementation);  
+ 
+  (10) § 4–104(b)  4–104( C) (Limitations – Bicycle parking);  
+ 
+  (11) § 4–104( C) 4–104( D) (LIMITATIONS – MANUFACTURED HOMES  
+AND MODULAR DWELLING S); 
+ 
+  (12)  § 4–205 (Administrativ e adjustments);  
+ 
+  [(12)] (13)  § 4–207 (Exceptions – Maryland Accessibility Code);  
+ 
+  [(13)] (14)  § 4–210 (Permits and variances – Solar panels);  
+ 
+  [(14)] (15)  § 4–211 (Change in zoning classification – Energy generating 
+systems);  
+ 
+  [(15)] (16)  § 4–215 (Pollinator –friendly vegetation management);  
+ 
+  [(16)] (17)  § 5–102(d) (Subdivision regulations – Burial sites);  
+ 
+  [(17)] (18)  Title 7, Subtitle 1 (Development Mechanisms);  
+ 
+  [(18)] (19)  Title 7, Subtitle 2 (Transfer of Development Rights);  
+ 
+  [(19)] (20) Title 7, Subtitle 3 (Development Rights and Responsibilities 
+Agreements);  
+ 
+  [(20)] (21)  Title 7, Subtitle 4 (Inclusionary Zoning);  
+ 
+  (22) TITLE 7, SUBTITLE 5 (HOUSING EXPANSION AND 
+AFFORDABILITY ); and 
+ 
+  [(21)] (23)  Title 11, Subtitle 2 (Civil Penalty) . 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 
+as follows:  
+ WES MOORE, Governor  Ch. 122  
+ 
+– 19 –  
+Article – Land Use  
+ 
+7–105.  
+ 
+ (A) (1) IN THIS SECTION THE F OLLOWING WORDS HAVE THE MEANINGS  
+INDICATED . 
+ 
+  (2) “ADEQUATE PUBLIC FACIL ITY LAW” HAS THE MEANING STAT ED IN  
+§ 7–501 OF THIS TITLE . 
+ 
+  (3) “PERMIT” HAS THE MEANING STAT ED IN § 7–501 OF THIS TITLE . 
+ 
+  (4) “STATE–FUNDED AFFORDABLE HO USING PROJECT ” INCLUDES  
+ANY RESIDENTIAL PROJ ECT THAT IS FUNDED : 
+ 
+   (I) WITH FEDERAL LOW –INCOME TAX CREDITS G RANTED IN  
+ACCORDANCE WITH 26 U.S.C.  § 42; OR 
+ 
+   (II) UNDER TITLE 4, SUBTITLE 2, SUBTITLE 4, OR SUBTITLE 12 
+OF THE HOUSING AND COMMUNITY DEVELOPMENT ARTICLE . 
+ 
+ (B) IN MAKING A DECISION ON A PERMIT APPLICAT ION FOR A  
+STATE–FUNDED AFFORDABLE HO USING PROJECT , A LOCAL JURISDICTION  MAY NOT 
+USE AN ELEMENT OF AN  ADEQUATE PUBLIC FACI LITY LAW TO : 
+ 
+  (1) DENY THE PERMIT ; OR 
+ 
+  (2) UNREASONABLY RESTRIC T OR LIMIT THE DEVEL OPMENT OF THE  
+PROJECT , INCLUDING ANY RESTRI CTION OR LIMITATION THAT MAY RESULT IN A  
+SUBSTANTIAL ADVERSE IMPACT ON : 
+ 
+   (I) THE VIABILITY OF THE AFFORDABLE HOUSING  
+DEVELOPMENT ; 
+ 
+   (II) THE DEGREE OF AFFORD ABILITY OF THE AFFOR DABLE  
+DWELLING UNITS ; OR 
+ 
+   (III) THE ALLOWABLE DENSIT Y OF THE PROJECT . 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That a Position Identification 
+Number (PIN) shall be created in the Department of Housing and Community Development 
+for the Historic Property Revitalization Director.  
+ 
+Ch. 122  2024 LAWS OF MARYLAND   
+ 
+– 20 –  SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2024  January 1, 2025 . Section 2 of this Act shall remain effective for a period of 
+15 years and, at the end of September 30, 2039, Section 2 of this Act, with no further action 
+required by the General Assembly, shall be abr ogated and of no further force and effect.   
+ 
+Approved by the Governor, April 25, 2024.  

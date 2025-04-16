@@ -1,0 +1,391 @@
+ WES MOORE, Governor  Ch. 560  
+ 
+– 1 – Chapter 560  
+(House Bill 209 ) 
+ 
+AN ACT concerning  
+ 
+Corporations and Associations – Revisions  
+ 
+FOR the purpose of altering certain provisions governing the issuance of stock, convertible 
+securities, and scrip; clarifying the authority of corporations to hold annual meetings 
+by remote communication; clarifying the application of certain provisions of  law to 
+the conversion of a corporation; requiring a real estate investment trust that 
+voluntarily dissolves to file a notice of termination with the State Department of 
+Assessments and Taxation; authorizing the charter or bylaws of a nonstock 
+corporation to provide for the service of certain ex officio directors; providing for the 
+application of certain provisions of law regarding voting rights to statutory trusts; 
+and generally relating to corporations and associations.  
+ 
+BY repealing and reenacting, wi th amendments,  
+ Article – Corporations and Associations  
+Section 2 –203, 2 –210, 2 –214, 2 –501(b), 2 –503(c), 4 –601, 4A –402(a)(5), 5 –202(b), and 
+8–502 
+ Annotated Code of Maryland  
+ (2014 Replacement Volume and 2022 Supplement)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Corporations and Associations  
+Section 2 –501(a), 2 –503(a), and 4A –402(a)(8)(viii) and (9)  
+ Annotated Code of Maryland  
+ (2014 Replacement Volume and 2022 Supplement)  
+ 
+BY adding to  
+ Article – Corporations and Associations  
+Sectio n 12–307 
+ Annotated Code of Maryland  
+ (2014 Replacement Volume and 2022 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Corporations and Associations  
+ 
+2–203. 
+ 
+ (a) Before the  issuance of stock or convertible securities, the board of directors 
+shall adopt a resolution that:  
+ 
+Ch. 560  2023 LAWS OF MARYLAND   
+ 
+– 2 –   (1) Authorizes the issuance;  
+ 
+  (2) Sets the minimum consideration for the stock or convertible securities 
+or a formula for its determination; and  
+ 
+  (3) Fairly describes any consideration other than money.  
+ 
+ (b) In the absence of actual fraud in the transaction, the minimum consideration 
+stated in the charter or determined by the board of directors in its resolution is conclusive 
+for all purposes.  
+ 
+ (c) For purposes of this section, the consideration for stock issued as a stock 
+dividend is the resulting capitalization of surplus.  
+ 
+ (d) This section does not apply to the issuance of stock or convertible securities as 
+part of:  
+ 
+  (1) A reclassification of st ock effected by amendment of the charter; or  
+ 
+  (2) A consolidation, merger, [or] share exchange, OR CONVERSION , 
+including a consolidation, merger, [or] share exchange , OR CONVERSION  to which a wholly 
+owned subsidiary of the corporation is a party.  
+ 
+ (e) If its issuance is authorized in accordance with this subtitle, stock with par 
+value and securities convertible into stock with par value may be issued as full paid and 
+nonassessable even if the price or value of the consideration received is less than the  par 
+value of the stock issued or the stock into which the securities are convertible.  
+ 
+ (f) Notwithstanding any other provision of this section or § 2 –204 or § 2 –206 of 
+this subtitle, a corporation may issue stock or other securities of the corporation pu rsuant 
+to § 2 –103(13) of this title without consideration of any kind.  
+ 
+2–210. 
+ 
+ (a) Except as provided in subsections (b) and (c) of this section, each stockholder 
+is entitled to stock certificates [which ] THAT  represent and certify the shares of stock [he] 
+THE STOCKHOLDER  holds in the corporation.  
+ 
+ (b) A stock certificate may not be issued until the stock represented by it is fully 
+paid.  
+ 
+ (c) (1) Unless the charter or bylaws provide otherwise, the board of directors 
+of a corporation may authorize the is sue of some or all of the shares of any or all of its 
+classes or series without certificates.  
+ 
+ WES MOORE, Governor  Ch. 560  
+ 
+– 3 –   (2) The authorization under paragraph (1) of this subsection does not affect 
+shares already represented by certificates until they are surrendered to the corporation.  
+ 
+  (3) For shares issued without certificates, on request by a stockholder, the 
+corporation shall send the stockholder, without charge, a statement in writing or by 
+electronic transmission of the information required on certificates by § 2 –211 of this 
+subtitle.  
+ 
+ (D) A CORPORATION MAY NOT ISSUE A STOCK CERTIF ICATE IN BEARER 
+FORM . 
+ 
+2–214. 
+ 
+ (a) A corporation may, but is not obliged to:  
+ 
+  (1) Issue fractional shares of stock;  
+ 
+  (2) Eliminate a fractional interest by rounding up to a full share of stock;  
+ 
+  (3) Arrange for the disposition of a fractional interest by the person entitled 
+to it;  
+ 
+  (4) Pay cash for the fair value of a fractional share of stock determined as 
+of the time when the person entitled to receive it is determined; or  
+ 
+  (5) Issue scrip or other evidence of ownership which:  
+ 
+   (i) Entitles its holder to exchange scrip or other evidence of 
+ownership aggregating a full share for a certificate which represents the share; and  
+ 
+   (ii) Unless otherwise provided, does not entitle i ts holder to exercise 
+voting rights, receive dividends, or participate in the assets of the corporation in the event 
+of liquidation.  
+ 
+ (b) The board of directors may impose any reasonable condition on the issuance 
+of the scrip or other evidence of ownershi p, including a condition that:  
+ 
+  (1) It becomes void if not exchanged for a certificate representing a full 
+share of stock before a specified date;  
+ 
+  (2) The corporation may sell the stock for which the scrip or other evidence 
+of ownership is exchangeable and distribute the proceeds to the holders; or  
+ 
+  (3) The proceeds of a sale under paragraph (2) of this subsection are 
+forfeited to the corporation if not claimed within a specified period not less than three years 
+from the date the scrip or other evidence of ownership was originally issued.  
+Ch. 560  2023 LAWS OF MARYLAND   
+ 
+– 4 –  
+ (C) A CORPORATION MAY NOT ISSUE A CERTIFICATE REPRESENTING SCRIP 
+IN BEARER FORM . 
+ 
+ (D) FOR SCRIP ISSUED WITH OUT A CERTIFICATE , ON REQUEST BY A 
+SCRIPHOLDER , THE CORPORATION SHAL L DELIVER TO THE SCR IPHOLDE R, 
+WITHOUT CHARGE , A STATEMENT IN WRITI NG OR BY ELECTRONIC TRANSMISSION OF 
+THE INFORMATION REQU IRED TO BE ON A CERT IFICATE UNDER § 2–211 OF THIS 
+SUBTITLE . 
+ 
+2–501. 
+ 
+ (a) Each corporation shall hold an annual meeting of its stockholders to elect 
+directors an d transact any other business within its powers.  
+ 
+ (b) (1) If the charter or bylaws of a corporation [registered under ] THAT IS AN 
+INVESTMENT COMPANY A S DEFINED IN  the Investment Company Act of 1940 so 
+provides, the corporation is not required to hold an a nnual meeting in any year in which 
+the election of directors is not required to be acted upon under the Investment Company 
+Act of 1940.  
+ 
+  (2) If a corporation is required under paragraph (1) of this subsection to 
+hold a meeting of stockholders to elect di rectors, the meeting shall be designated as the 
+annual meeting of stockholders for that year.  
+ 
+2–503. 
+ 
+ (a) Unless the charter provides otherwise, meetings of stockholders shall be held 
+as is:  
+ 
+  (1) Provided in the charter or bylaws; or  
+ 
+  (2) Set by the board of directors under the provisions of the charter or 
+bylaws.  
+ 
+ (c) If authorized by the board of directors and subject to any guidelines and 
+procedures that the board adopts, stockholders and proxy holders not physically present at 
+the meeting of the stockholders, may, by remote communication:  
+ 
+  (1) Participate in the meeting of the stockholders; and  
+ 
+  (2) Be considered present in person and may vote at the meeting of the 
+stockholders, whether the meeting is held at a designated place or PARTIALLY OR solely 
+by remote communication, if:  
+ 
+ WES MOORE, Governor  Ch. 560  
+ 
+– 5 –    (i) The corporation implements reasonable measures to verify that 
+each person considered present and authorized to vote at the meeting by remote 
+communication is a stockholder or proxy holder;  
+ 
+   (ii) The corporation implements reasonable measures to provide the 
+stockholders and proxy holders a reasonable opportunity to participate in the meeting and 
+to vote on matters submitted to the stockholders, including an opportunity to read or hear 
+the proceeding s of the meeting substantially concurrently with the proceedings; and  
+ 
+   (iii) In the event any stockholder or proxy holder votes or takes other 
+action at the meeting by remote communication, a record of the vote or other action is 
+maintained by the corpo ration.  
+ 
+4–601. 
+ 
+ (A) [A] SUBJECT TO SUBSECTION  (B) OF THIS SECTION , A consolidation, 
+merger, share exchange, [or] transfer of assets , OR CONVERSION  of a close corporation 
+shall be made in accordance with the provisions of Title 3 of this article.  
+ 
+ (B) [However, approval ] APPROVAL  of a proposed consolidation or merger, a 
+transfer of [its] assets, A CONVERSION , or an acquisition of [its] stock in a share exchange 
+requires the affirmative vote of every stockholder of the CLOSE corporation.  
+ 
+4A–402. 
+ 
+ (a) Except for the requirement set forth in § 4A –404 of this subtitle that certain 
+consents be in writing, members may enter into an operating agreement not inconsistent 
+with the articles of organization to regulate or establish any aspect of the affairs of the 
+limited liability company, the conduct of its business, or the relations of its members, 
+including provisions establishing:  
+ 
+  (5) (i) The right to have and a procedure for having a member’s 
+membership interest evidenced by a certificate issued by the limi ted liability company, 
+which may NOT be issued in bearer form [only if specifically allowed by the operating 
+agreement ]; 
+ 
+   (ii) The procedure for assignment, pledge, or transfer of any 
+membership interest represented by the certificate; and  
+ 
+   (iii) Any other provisions dealing with the certificate;  
+ 
+  (8) Procedures relating to:  
+ 
+   (viii)  Any other matter with respect to the exercise of voting rights by 
+members; or  
+ 
+Ch. 560  2023 LAWS OF MARYLAND   
+ 
+– 6 –   (9) That a membership interest, an economic interest, or a noneconomic 
+interest may or shall be transferred or assigned in whole or in part to one or more persons, 
+including on the occurrence of any of the events described in § 4A –606 of this title, 
+regardless of whether the persons to whom the interest is transferred or assigned are 
+memb ers. 
+ 
+5–202. 
+ 
+ (b) Notwithstanding any other provision of this article, the charter or bylaws of a 
+nonstock corporation may:  
+ 
+  (1) Divide the directors or members of the corporation into classes;  
+ 
+  (2) Prescribe the tenure and conditions of service of it s directors, but no 
+class of directors may be elected to serve for a period shorter than the interval between 
+annual meetings unless:  
+ 
+   (i) All or a class of directors must be members; and  
+ 
+   (ii) Qualifications for membership have the effect of shorten ing their 
+tenure of service;  
+ 
+  (3) PROVIDE THAT AN INDIV IDUAL MAY SERVE AS A  DIRECTOR BY 
+REASON OF SERVING IN  A SPECIFIED OFFICE O R POSITION WITHIN OR  OUTSIDE THE 
+CORPORATION AND PRES CRIBE THAT THE INDIV IDUAL SHALL SERVE AS  A DIRECTOR 
+DURING THE INDIVIDUA L’S SERVICE IN THE SPE CIFIED OFFICE OR POS ITION ;  
+ 
+  (4) Prescribe the rights, privileges, and qualifications of its members;  
+ 
+  [(4)] (5) Prescribe the manner of giving notice of any meeting of its 
+members;  
+ 
+  [(5)] (6) Provide for the number or proportion of voting members whose 
+presence in person or by proxy constitutes a quorum at any meeting of its members;  
+ 
+  [(6)] (7) Provide that any action may be taken or authorized by any 
+number or proportion of the votes of all its members or all its dir ectors entitled to vote;  
+ 
+  [(7)] (8) Deny or limit the right of its members to vote by proxy;  
+ 
+  [(8)] (9) Provide for the right of members to vote by mail or by electronic 
+transmission on a stated proposal or for the election of directors or any officers  who are 
+elected by members;  
+ 
+ WES MOORE, Governor  Ch. 560  
+ 
+– 7 –   [(9)] (10)  Regulate the management of the business and affairs of the 
+corporation; and  
+ 
+  [(10)] (11)  Regulate the exercise or allocation of voting power between or 
+among the directors and members.  
+ 
+8–502. 
+ 
+ (a) A real estat e investment trust may terminate its existence by voluntary 
+dissolution [. The Department shall be notified of the effective date of the dissolution. ] IN 
+ACCORDANCE WITH SUBS ECTION (B) OF THIS SECTION . 
+ 
+ (b) [A real estate investment trust may curtail or ce ase its trust activities by 
+partially or completely distributing its assets. ] 
+ 
+  (1) IN ORDER TO TERMINATE  ITS EXISTENCE , A REAL ESTATE 
+INVESTMENT TRUST MUS T FILE A NOTICE OF T ERMINATION WITH THE DEPARTMENT 
+THAT INCLUDES : 
+ 
+   (I) THE NAME OF THE REAL ESTAT E INVESTMENT TRUST ; 
+ 
+   (II) 1. A STATEMENT THAT THE T ERMINATION OF THE RE AL 
+ESTATE INVESTMENT TR UST BY VOLUNTARY DIS SOLUTION WAS APPROVE D IN THE 
+MANNER AND BY THE VO TE REQUIRED BY LAW A ND BY THE DECLARATIO N OF TRUST 
+OF THE REAL ESTATE I NVESTMENT TRUST ; AND  
+ 
+    2. A STATEMENT DETAILING THE MANNER OF 
+APPROVAL ; 
+ 
+   (III) ALL OTHER PROVISIONS THE BOARD OF THE REA L ESTATE 
+INVESTMENT TRUST CON SIDERS NECESSARY TO DISSOLVE AND TERMINA TE THE 
+REAL ESTATE INVESTME NT TRUST ; AND 
+ 
+   (IV) A STATEMENT THAT THE R EAL ESTATE INVESTMENT TR UST 
+IS DISSOLVED AND TER MINATED . 
+ 
+  (2) THE NOTICE OF TERMINA TION SHALL BE EXECUT ED BY : 
+ 
+   (I) THE CHAIRMAN OR VICE CHAIRMAN OF THE BOAR D OF 
+TRUSTEES ; 
+ 
+   (II) THE CHIEF EXECUTIVE O FFICER ; 
+ 
+Ch. 560  2023 LAWS OF MARYLAND   
+ 
+– 8 –    (III) THE CHIEF OPERATING O FFICER ; 
+ 
+   (IV) THE CHIEF FINANCIAL O FFICER ; 
+ 
+   (V) THE PRESIDENT OR A VI CE PRESIDENT ; OR 
+ 
+   (VI) IF AUTHORIZED BY THE BYLAWS OR A RESOLUTI ON OF THE 
+BOARD OF TRUSTEES , ANY OTHER OFFICER OR  AGENT OF THE REAL ES TATE 
+INVESTMENT TRUST . 
+ 
+ (C) (1) EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS SUBSECTION , 
+THE REAL ESTATE INVE STMENT TRUST IS DISS OLVED AND TERMINATED  ON THE 
+LATER OF : 
+ 
+   (I) THE TIME THAT THE DEPARTMENT ACCEPTS TH E NOTICE 
+OF TERMINATION FOR R ECORD ; OR 
+ 
+   (II) THE TIME ESTABLISHED BY THE NOTICE OF TER MINATION , 
+NOT TO EXCEED 30 DAYS AFTER THE NOTIC E IS ACCEPTED FOR RE CORD . 
+ 
+  (2) THE REAL ESTATE INVES TMENT TRUST CONTINUE S TO EXIST FOR 
+THE PURPOSE OF :  
+ 
+   (I) PAYING , SATISFYING , AND DISCHARGING ANY EXISTING 
+DEBTS OR OBLIGATIONS ; 
+ 
+   (II) COLLECTING AND DISTRI BUT ING ASSETS ; AND 
+ 
+   (III) TAKING ALL OTHER ACTI ONS REQUIRED TO LIQU IDATE AND 
+WIND UP ITS BUSINESS  AND AFFAIRS .  
+ 
+ [(c)] (D) (1) The Attorney General may institute proceedings to dissolve a 
+real estate investment trust [which ] THAT  has abused, misused, or failed to use its powers.  
+ 
+  (2) The proceedings shall be brought in the manner and on the grounds 
+provided in Title 3, Subtitle 5 of this article with respect to dissolution of a corporation for 
+misuse of its franchise.  
+ 
+  [(2)] (3) The venue of an action under this subsection is in a county where 
+an officer or resident agent of the real estate investment trust is located.  
+ 
+12–307. 
+ 
+ WES MOORE, Governor  Ch. 560  
+ 
+– 9 –  (A) NOTWITHSTANDING § 3–709 OF THIS ARTICLE , THE PROVISIONS OF 
+TITLE 3, SUBTITLE 7 OF THIS ARTICLE  APPLY TO A STATUTORY  TRUST FORMED ON 
+OR AFTER OCTOBER 1, 2023,  THAT IS A CLOSED –END INVESTMENT COMPA NY AS 
+DEFINED IN THE INVESTMENT COMPANY ACT OF 1940.  
+ 
+ (B) NOTWITHSTANDING § 3–709 OF THIS ARTICLE , THE GOVERNING 
+INSTRUMENT OF A STAT UTORY TRUST FORMED B EFORE OCTOBER 1, 2023,  THAT IS 
+A CLOSED –END INVESTMENT COMPA NY AS DEFINED IN THE  INVESTMENT COMPANY 
+ACT OF 1940  MAY PROVIDE THAT TITLE 3, SUBTITLE 7 OF THIS ARTICLE APPL IES 
+TO THE STATUTORY TRU ST.  
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall  take effect 
+October 1, 2023.  
+ 
+Approved by the Governor, May 8, 2023.  

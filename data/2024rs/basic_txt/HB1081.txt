@@ -1,0 +1,158 @@
+ WES MOORE, Governor  Ch. 875  
+ 
+– 1 – Chapter 875  
+(House Bill 1081 ) 
+ 
+AN ACT concerning  
+ 
+Public Safety – Automatic License Plate Readers – Captured Plate Data Storage 
+and Upload  
+ 
+FOR the purpose of altering the definition of “historical data” to include automatic license 
+plate reader data stored by cloud computing; establishing that certain captured 
+automatic license plate reader data is the property of a certain law enforcement 
+agency and may not be sold for any purpose; establishing that certain captured 
+automatic license plate reader data may be uploaded to the Maryland Coordination 
+and Analysis Center; extending a certain offense relating to license plate reader data 
+to apply to  a vendor contracted by a law enforcement agency;  and generally relating 
+to automatic license plate readers.  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Public Safety  
+Section 3 –509(a)(1)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Public Safety  
+Section 3–509(a)(6) and (b)  3–509(a), (b), and (c)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2023 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Public Safety  
+ 
+3–509. 
+ 
+ (a) (1) In this section the following words have the meanings indicated.  
+ 
+  (2) (i) “Active data ” means:  
+ 
+    1. data uploaded to individual aut omatic license plate reader 
+system units before operation; and  
+ 
+    2. data gathered during the operation of an automatic license 
+plate reader system.  
+ 
+Ch. 875  2024 LAWS OF MARYLAND   
+ 
+– 2 –    (ii) “Active data ” does not include historical data.  
+ 
+  (3) “Automatic license plate reader system ” means a system of one or more 
+mobile or fixed high –speed cameras used in combination with computer algorithms to 
+convert images of license plates into computer –readable data.  
+ 
+  (4) (i) “Captured plate data ” means the global positioning system 
+coordinates , dates and times, photographs, license plate numbers, and any other data 
+collected by or derived from an automatic license plate reader system.  
+ 
+   (ii) “Captured plate data ” includes active data and historical data.  
+ 
+  (5) “Center ” means the Maryland Coo rdination and Analysis Center.  
+ 
+  (6) “CRIMINAL JUSTICE INFO RMATION ” MEANS INFORMATION 
+RELATING TO CRIMINAL  JUSTICE COLLECTED , PROCESSED , OR PRESERVED BY A 
+LAW ENFORCEMENT AGEN CY.  
+ 
+  (6) (7)  “Historical data” means any data collected by an automatic 
+license plate reader system and stored : 
+ 
+   (I) in an automatic license plate reader database operated by OR 
+FOR the Maryland Coordination and Analysis Center or by OR FOR a law enforcement 
+agency ; OR 
+ 
+   (II) THROUGH CLOUD COMPUT ING. 
+ 
+  [(7)] (8) “Law enf orcement agency ” has the meaning stated in § 3 –201(d) 
+of this title.  
+ 
+  [(8)] (9) “Legitimate law enforcement purpose ” means the investigation, 
+detection, or analysis of a crime or a violation of the Maryland vehicle laws or the operation 
+of terrorist or missing or endangered person searches or alerts.   
+ 
+ (b) (1) A law enforcement agency may not use captured plate data un less the 
+agency has a legitimate law enforcement purpose.  
+ 
+  (2) AUTOMATIC LICENSE PLA TE HISTORICAL  DATA CAPTURED IN 
+ACCORDANCE WITH THIS  SECTION : 
+ 
+   (I) IS THE PROPERTY OF T HE LAW ENFORCEMENT A GENCY ; 
+AND  
+ 
+ WES MOORE, Governor  Ch. 875  
+ 
+– 3 –    (II) MAY NOT BE SOLD FOR ANY PURPOSE BY A LAW 
+ENFORCEMENT AGENCY O R VENDOR CONTRACTED BY A LAW ENFORCEMENT  
+AGENCY , INCLUDING THE SALE O F SUBSCRIPTIONS OR L ICENSES TO ACCESS DA TA;  
+ 
+   (III) MAY NOT BE ACCESSED BY A VENDOR CONTRACT ED BY A 
+LAW ENFORCEMENT AGEN CY UNLESS ACCESS IS EXPRESSLY REQUESTED AND 
+AUTHORIZED BY THE LA W ENFORCEMENT AGENCY ; 
+ 
+   (IV) MAY NOT BE UPLOADED FOR ANY REASON BY TH E LAW 
+ENFORCEMENT AGENCY O R A VENDOR CONTRACTE D BY THE LAW ENFORCE MENT 
+AGENCY THAT STORES T HE DATA TO ANY OTHER  LAW ENFORCEMENT AGEN CY OR 
+ENTITY , REGAR DLESS OF WHETHER THE  AGENCY OR ENTITY IS LOCATED INSIDE OR 
+OUTSIDE THE STATE ; AND  
+ 
+   (V) MAY BE UPLOADED TO A  DATABASE OWNED OR OP ERATED 
+BY THE MARYLAND COORDINATION AND ANALYSIS CENTER . 
+ 
+  [(2)] (3) An employee of a law enforcement agency OR THE VENDOR 
+CONTRACTED BY THE LA W ENFORCEMENT AGENCY  who violates this subsection is 
+subject to imprisonment not exceeding 1 year or a fine not exceeding $10,000 or both.  
+ 
+ (c) (1) The Department of State Police and any law enforcement agency using 
+an automatic licens e plate reader system shall adopt procedures relating to the operation 
+and use of the system.  
+ 
+  (2) The procedures shall include:  
+ 
+   (i) which personnel in the Center or a law enforcement agency are 
+authorized to query captured plate data gathered by an automatic license plate reader 
+system;  
+ 
+   (II) PROCEDURES TO PROTEC T PERSONALLY IDENTIF IABLE 
+INFORMATION AND CRIM INAL JUSTICE INFORMA TION COLLECTED AND S TORED IN 
+AN AUTOMATIC LICENSE  PLATE READER DATABAS E; 
+ 
+   [(ii)] (III) an audit process to ensure that information obtained 
+through the use of an automatic license plate reader system is used only for legitimate law 
+enforcement purposes, including audits of requests made by individual law enforcement 
+agencies [or], an individual law enforcement officer , OR A VENDOR CONTRACTED BY A 
+LAW ENFORCEMENT AGEN CY; [and] 
+ 
+   [(iii)] (IV) procedures and safeguards to ensure that Center staff 
+with access to the automatic license plate reader database are adequately screened and 
+trained ; AND  
+ 
+Ch. 875  2024 LAWS OF MARYLAND   
+ 
+– 4 –    (V) PROCEDURES TO CERTIF Y WHETHER AN AUTOMATIC  
+LICENSE PLATE READER  SYSTEM EXPERIENCED A  DATA BREACH AND A 
+REQUIREMENT FOR ANY VENDOR OPERATING A D ATABASE FOR A LAW 
+ENFORCEMENT AGENCY T O REPORT : 
+ 
+    1. ANY BREACHES OF THE DATABASE ; 
+ 
+    2. THE NUMBER OF EMPLOY EES WHO HAVE ACCESS TO 
+THE DATABASE ; AND  
+ 
+    3. ANY UNAUTHORIZED REL EASES OF INFORMATION .  
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2024.  
+ 
+Approved by the Governor, May 16, 2024.  

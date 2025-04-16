@@ -1,0 +1,1207 @@
+ WES MOORE, Governor  Ch. 95  
+ 
+– 1 – Chapter 95  
+(Senate Bill 781 ) 
+ 
+AN ACT concerning  
+ 
+Offshore Wind Energy – State Goals and Procurement  
+(Promoting Offshore Wind Energy Resources Act)  
+ 
+FOR the purpose of requiring an application for any new qualified offshore wind project 
+and a certain proposal for an offshore wind transmission facility to be subject to a 
+certain community benefit agreement; altering the requirements for a certain report  
+on offshore wind projects; authorizing certain offshore wind project developers to 
+apply for an exemption from certain requirements;  requiring the Public Service 
+Commission to request that PJM Interconnection  conduct a certain analysis of 
+transmission system upgrade and  expansion options; requiring the Commission to 
+take certain actions regarding the transmission system and the analysis of 
+transmission system expansion options;  requiring and authorizing  the Co mmission 
+to issue a certain number of competitive solicitations for , or PJM Interconnection at 
+the request of the Commission, to take certain actions on  proposals for certain 
+offshore wind transmission facilities and transmission upgrades and expansions; 
+requiring the Commission to develop certain criteria for selecting a proposal and 
+include certain specifications in the solicitation;  exempting certain proposals from 
+the requirement to obtain a certificate of public convenience and necessity;  
+establishing that procurement of certain proposals may not impact the 
+interconnection plans of certain earlier offshore wind projects; requiring the 
+Department of General Services , in consultation with the Commission,  to issue an 
+invitation for bids  a certain solicitat ion for a certain power purchase agreement 
+within a certain time frame ; requiring the Department to identify the amount of 
+energy necessary to meet the State’s energy needs; requiring the State to use certain 
+energy and associated renewable energy credits in a certain manner, offer for sale 
+certain energy or associated renewable energy credits, issue a certain procurement 
+on or before a certain date, and enter into a contract or contracts for that 
+procurement on or before a certain date; establishing that t he State be exempted 
+from the renewable energy portfolio standard requirements under certain 
+circumstances; requiring certain contractors to submit a certain attestation within a 
+certain number of days after the operational commencement date of a certain p ower 
+purchase agreement; requiring the Commission to submit, on or before a certain date 
+each year, a report to the General Assembly on certain information collected under 
+the Commission’s Supplier Diversity Program ; requiring a certain certification 
+agenc y to initiate a certain study regarding clean energy and offshore wind industries 
+and certain remedial measures ; and generally relating to the development of 
+renewable energy.  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Public Utilities  
+Section 7 –701(a)  
+Ch. 95  2023 LAWS OF MARYLAND   
+ 
+– 2 –  Annotated Code of Maryland  
+ (2020 Replacement Volume and 2022 Supplement)  
+ 
+BY adding to  
+ Article – Public Utilities  
+Section 7 –701(g –1) and (h –1), 7–704.3, and 7–704.4 , and 7 –704.5  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2022 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Public Utilities  
+Section 7–701(k) and  7–704.1  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2022 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLA ND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Public Utilities  
+ 
+7–701. 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  
+ 
+ (G–1) “OFFSHORE WIND TRANSMI SSION PROJECT ” MEANS AN ELECTRIC 
+TRANSMISSION PROJECT  SELECTED BY THE COMMISSION UNDER § 7–704.4  7–704.3  
+OF THIS SUBTITLE TO INTERCONNECT DIRECTL Y OR INDIRECTLY WITH  ONE OR 
+MORE QUALIFIED OFFSH ORE WIND PROJECTS . 
+ 
+ (H–1) “PJM  INTERCONNECTION ” MEANS PJM  INTERCONNECTION , LLC  OR 
+ANY SUCCESSOR ORGANI ZATION THAT SERVICES  THE PJM  REGION . 
+ 
+ (k) “Qualified offshore wind project” means a wind turbine electricity generation 
+facility, including the associated transmission –related intercon nection facilities and 
+equipment, that:  
+ 
+  (1) is located : 
+ 
+   (I) on the outer continental shelf of the Atlantic Ocean in an area 
+that the United States Department of the Interior designates for leasing [after coordination 
+and consultation with the State in accordance with § 388(a) of the Energy Policy Act of 
+2005]; AND  
+ 
+ WES MOORE, Governor  Ch. 95  
+ 
+– 3 –    (II) MORE THAN 10 MILES OFF THE COAST OF THE STATE FOR A 
+PROJECT SELECTED UND ER § 7–704.4  OF THIS SUBTITLE OR APPROVED UNDER §  
+7–704.1  OF THIS SUBTITLE AFT ER JUNE 1, 2023 ; and  
+ 
+  (2) interconnects to the PJM Interconnection grid :  
+ 
+   (I) at a point located on the Delmarva Peninsula ; OR 
+ 
+   (II) THROUGH AN OFFSHORE WIND TRANSMISSION PR OJECT 
+SELECTED UNDER § 7–704.3  OF THIS SUBTITLE .  
+ 
+7–704.1.  
+ 
+ (a) (1) The General Assembly finds and declares that:  
+ 
+   (I) THE STATE HAS A GOAL OF R EACHING 8,500  MEGAWATTS OF 
+OFFSHORE WIND ENERGY  CAPACITY BY 2031,  INCLUDING ROUND 1 OFFSHORE WIND 
+PROJECTS , ROUND 2 OFFSHORE WIND PROJEC TS, AND ANY OTHER PROCUR EMENT 
+EFFORTS ; 
+ 
+   (II) THE GENERAL ASSEMBLY ANT ICIPATES THE ISSUANC E OF 
+SUFFICIENT WIND ENER GY LEASES IN THE CEN TRAL ATLANTIC REGION TO SA TISFY 
+THE GOAL STATED IN I TEM (I) OF THIS PARAGRAPH ; 
+ 
+   [(i)] (III) the development of offshore wind energy is important to 
+the economic well –being of the State and the nation; [and] 
+ 
+   (IV) OFFSHORE WIND CAN PR OVIDE CLEAN ENERGY A T THE 
+SCALE NEEDED TO HELP  ACHIEVE THE STATE’S ECONOMY –WIDE NET –ZERO 
+GREENHOUSE GAS EMISS IONS REDUCTION TARGETS ESTABLISHED IN CHAPTER 38 
+OF THE ACTS OF THE GENERAL ASSEMBLY OF 2022;  AND  
+ 
+   [(ii)] (V) it is in the public interest of the State to facilitate the 
+construction of at least 1,200 megawatts of Round 2 offshore wind projects in order to: 
+ 
+    1. position the State to take advantage of the economic 
+development benefits of the emerging offshore wind industry;  
+ 
+    2. promote the development of renewable energy sources 
+that increase the nation’s independence from foreign sources of fossil  fuels;  
+ 
+    3. reduce the adverse environmental and health impacts of 
+traditional fossil fuel energy sources; and  
+ 
+Ch. 95  2023 LAWS OF MARYLAND   
+ 
+– 4 –     4. provide a long –term hedge against volatile prices of fossil 
+fuels; AND  
+ 
+   (VI) IT IS IN THE PUBLIC INTEREST OF THE STATE TO MAXIMIZE  
+THE OPPORTUNITIES FO R OBTAINING AND USIN G FEDERAL FUNDS FOR OFFSHORE 
+WIND AND RELATED TRA NSMISSION PROJECTS T HROUGH THE INCLUSION  OF 
+SPECIFIED LABOR STAN DARDS AND GOALS , DOMESTIC CONTENT REQ UIREMENTS , 
+AND OTHER PROVISIONS  TO ALIGN STATE LAW WITH PROVIS IONS OF THE FEDERAL 
+INFRASTRUCTURE INVESTMENT AND JOBS ACT OF 2021  AND THE FEDERAL 
+INFLATION REDUCTION ACT OF 2022 . 
+ 
+  (2) After the effective date of Commission regulations implementing this 
+section and § 7 –704.2 of this subtitle, and before June 30, 2017, a  person may submit an 
+application to the Commission for approval of a proposed Round 1 offshore wind project.  
+ 
+  (3) (i) On receipt of the application for approval of a Round 1 offshore 
+wind project, the Commission shall:  
+ 
+    1. open an application period  when other interested persons 
+may submit applications for approval of Round 1 offshore wind projects; and  
+ 
+    2. provide notice that the Commission is accepting 
+applications for approval of Round 1 offshore wind projects.  
+ 
+   (ii) The Commission shall set the closing date for the application 
+period to be no sooner than 90 days after the notice provided under subparagraph (i) of this 
+paragraph.  
+ 
+  (4) The Commission shall provide additional application periods 
+beginning, respectively:  
+ 
+   (i) January 1, 2020, for consideration of Round 2 offshore wind 
+projects to begin creating ORECs not later than 2026;  
+ 
+   (ii) January 1, 2021, for consideration of Round 2 offshore wind 
+projects to begin creating ORECs not later than 2028; and  
+ 
+   (iii) January 1, 2022,  for consideration of Round 2 offshore wind 
+projects to begin creating ORECs not later than 2030.  
+ 
+  (5) In its discretion, the Commission may provide for additional application 
+periods THAT MEET THE REQUIR EMENTS OF THIS SECTI ON. 
+ 
+ WES MOORE, Governor  Ch. 95  
+ 
+– 5 –  (b) Unless extended by m utual consent of the parties, the Commission shall 
+approve, conditionally approve, or deny an application within 180 days after the close of 
+the application period.  
+ 
+ (c) An application shall include:  
+ 
+  (1) a detailed description and financial analysis of  the offshore wind 
+project;  
+ 
+  (2) the proposed method of financing the offshore wind project, including 
+documentation demonstrating that the applicant has applied for all current eligible State 
+and federal grants, rebates, tax credits, loan guarantees, or  other programs available to 
+offset the cost of the project or provide tax advantages;  
+ 
+  (3) a cost –benefit analysis that shall include at a minimum:  
+ 
+   (i) a detailed input –output analysis of the impact of the offshore 
+wind project on income, employment , wages, and taxes in the State with particular 
+emphasis on in –State manufacturing employment;  
+ 
+   (ii) detailed information concerning assumed employment impacts 
+in the State, including the expected duration of employment opportunities, the salary of 
+each  position, and other supporting evidence of employment impacts;  
+ 
+   (iii) an analysis of the anticipated environmental benefits, health 
+benefits, and environmental impacts of the offshore wind project to the citizens of the State;  
+ 
+   (iv) an analysis of a ny impact on residential, commercial, and 
+industrial ratepayers over the life of the offshore wind project;  
+ 
+   (v) an analysis of any long –term effect on energy and capacity 
+markets as a result of the proposed offshore wind project;  
+ 
+   (vi) an analysis of any impact on businesses in the State; and  
+ 
+   (vii) other benefits, such as increased in –State construction, 
+operations, maintenance, and equipment purchase;  
+ 
+  (4) a proposed OREC pricing schedule for the offshore wind project that 
+shall specify a pri ce for the generation attributes, including the energy, capacity, ancillary 
+services, and environmental attributes;  
+ 
+  (5) a decommissioning plan for the project, including provisions for 
+decommissioning as required by the United States Department of the I nterior;  
+ 
+  (6) a commitment to:  
+Ch. 95  2023 LAWS OF MARYLAND   
+ 
+– 6 –  
+   (i) abide by the requirements set forth in subsection [(e)] (F) of this 
+section; and  
+ 
+   (ii) deposit at least $6,000,000, in the manner required under 
+subsection [(g)] (H) of this section, into the Maryland Offshore Wi nd Business Development 
+Fund established under § 9 –20C–03 of the State Government Article;  
+ 
+  (7) a description of the applicant’s plan for engaging small businesses, as 
+defined in § 14 –501 of the State Finance and Procurement Article;  
+ 
+  (8) a commitment that the applicant will:  
+ 
+   (i) use best efforts to apply for all eligible State and federal grants, 
+rebates, tax credits, loan guarantees, or other similar benefits as those benefits become 
+available; and  
+ 
+   (ii) SUBJECT TO SUBSECTIO N (K) OF THIS SECTION , pass along to 
+ratepayers, without the need for any subsequent Commission approval, 80% of the value of 
+any [state] STATE  or federal grants, rebates, tax credits, loan guarantees, or other similar 
+benefits received by the project and not included i n the application; and  
+ 
+  (9) any other information the Commission requires.  
+ 
+ (D) THE FOLLOWING ARE SUB JECT TO A COMMUNITY BENEFIT AGREEMENT 
+UNDER SUBSECTION (F) OF THIS SECTION : 
+ 
+  (1) AN APPLICATION FOR A NY NEW QUALIFIED OFF SHORE WIND 
+PROJECT ; AND 
+ 
+  (2) A PROPOSAL FILED AND APPROVED I N ACCORDANCE WITH  
+SELECTED BY THE COMMISSION UNDER  § 7–704.3  OF THIS SUBTITLE FOR  AN 
+OFFSHORE WIND TRANSM ISSION PROJECT . 
+ 
+ [(d)] (E) (1) The Commission shall use the following criteria to evaluate and 
+compare proposed off shore wind projects submitted during an application period:  
+ 
+   (i) lowest cost impact on ratepayers of the price set under a proposed 
+OREC pricing schedule;  
+ 
+   (ii) potential reductions in transmission congestion prices within the 
+State;  
+ 
+   (iii) potent ial changes in capacity prices within the State;  
+ 
+ WES MOORE, Governor  Ch. 95  
+ 
+– 7 –    (iv) potential reductions in locational marginal pricing;  
+ 
+   (v) potential long –term changes in capacity prices within the State 
+from the offshore wind project as it compares to conventional energy sources;  
+ 
+   (vi) the extent to which the cost –benefit analysis submitted under 
+subsection (c)(3) of this section demonstrates positive net economic, environmental, and 
+health benefits to the State;  
+ 
+   (vii) the extent to which an applicant’s plan for eng aging small 
+businesses meets the goals specified in Title 14, Subtitle 5 of the State Finance and 
+Procurement Article;  
+ 
+   (viii)  the extent to which an applicant’s plan provides for the use of 
+skilled labor, particularly with regard to the construction an d manufacturing components 
+of the project, through outreach, hiring, or referral systems that are affiliated with 
+registered apprenticeship programs under Title 11, Subtitle 4 of the Labor and 
+Employment Article;  
+ 
+   (ix) the extent to which an applicant’s  plan provides for the use of an 
+agreement designed to ensure the use of skilled labor and to promote the prompt, efficient, 
+and safe completion of the project, particularly with regard to the construction, 
+manufacturing, and maintenance of the project;  
+ 
+   (x) the extent to which an applicant’s plan provides for 
+compensation to its employees and subcontractors consistent with wages outlined under §§ 
+17–201 through 17 –228 of the State Finance and Procurement Article;  
+ 
+   (xi) siting and project feasibility;  
+ 
+   (xii) the extent to which the proposed offshore wind project would 
+require transmission or distribution infrastructure improvements in the State;  
+ 
+   (xiii)  estimated ability to assist in meeting the renewable energy 
+portfolio standard under § 7 –703 o f this subtitle; and  
+ 
+   (xiv) any other criteria that the Commission determines to be 
+appropriate.  
+ 
+  (2) In evaluating and comparing an applicant’s proposed offshore wind 
+project under paragraph (1) of this subsection, the Commission shall contract for t he 
+services of independent consultants and experts.  
+ 
+  (3) The Commission shall verify that representatives of the United States 
+Department of Defense and the maritime industry have had the opportunity, through the 
+federal leasing process, to express conce rns regarding project siting.  
+Ch. 95  2023 LAWS OF MARYLAND   
+ 
+– 8 –  
+  (4) (i) In this paragraph, “minority” means an individual who is a 
+member of any of the groups listed in § 14 –301(k)(1)(i) of the State Finance and 
+Procurement Article.  
+ 
+   (ii) If an applicant is seeking investors in a pro posed offshore wind 
+project, it shall take the following steps before the Commission may approve the proposed 
+project:  
+ 
+    1. make serious, good –faith efforts to solicit and interview a 
+reasonable number of minority investors;  
+ 
+    2. as part of the appli cation, submit a statement to the 
+Commission that lists the names and addresses of all minority investors interviewed and 
+whether or not any of those investors have purchased an equity share in the entity 
+submitting an application;  
+ 
+    3. as a condition t o the Commission’s approval of the offshore 
+wind project, sign a memorandum of understanding with the Commission that requires the 
+applicant to again make serious, good –faith efforts to interview minority investors in any 
+future attempts to raise venture c apital or attract new investors to the offshore wind 
+project; and  
+ 
+    4. as a condition to the Commission’s approval of the offshore 
+wind project, sign a memorandum of understanding with the Commission that requires the 
+applicant to use best efforts and e ffective outreach to obtain, as a goal, contractors and 
+subcontractors for the project that are minority business enterprises, to the extent 
+practicable, as supported by a disparity study.  
+ 
+   (iii) The Governor’s Office of Small, Minority, and Women Busin ess 
+Affairs, in consultation with the Office of the Attorney General, shall provide assistance to 
+all potential applicants and potential minority investors to satisfy the requirements under 
+subparagraph (ii)1 and 3 of this paragraph.  
+ 
+  (5) As a condition of the Commission’s approval of the offshore wind 
+project, the applicant shall sign a memorandum of understanding with the Commission 
+and skilled labor organizations that requires the applicant to follow the portions of the 
+applicant’s plan that relate to the criteria set forth in paragraph (1)(viii) and (ix) of this 
+subsection.  
+ 
+ [(e)] (F) (1) (i) In this paragraph, “community benefit agreement” means 
+an agreement applicable to the development of any qualified offshore wind project OR 
+OFFSHORE WIND TRANSM ISSION FACILITY that:  
+ 
+    1. promotes increased opportunities for local businesses and 
+small, minority, women –owned, and veteran –owned businesses in the clean energy 
+ WES MOORE, Governor  Ch. 95  
+ 
+– 9 – industry , INCLUDING THE USE OF  A PREFERENCE GIVEN T O BUSINESSES TH AT ARE 
+CERTIFIED UNDER THE FEDERAL DISADVANTAGED BUSINESS ENTERPRISE 
+PROGRAM ; 
+ 
+    2. ensures the timely, safe, and efficient completion of the 
+project by : 
+ 
+    A. facilitating a steady supply of highly skilled craft workers 
+who shall be paid not less than  the prevailing wage rate determined by the Commissioner 
+of Labor and Industry under Title 17, Subtitle 2 of the State Finance and Procurement 
+Article ; AND  
+ 
+    B. GUARANTEEING THAT TH E CONSTRUCTION WORK 
+PERFORMED IN CONNECT ION WITH THE PROJECT  WILL BE SUB JECT TO AN 
+AGREEMENT THAT : 
+ 
+    I. IS WITH ONE OR MORE LABOR ORGANIZATIONS ; AND  
+ 
+    II. ESTABLISHES , IN ACCORDANCE WITH P ARAGRAPH (3) 
+OF THIS SUBSECTION , THE TERMS AND CONDIT IONS OF EMPLOYMENT A T THE 
+CONSTRUCTION SITE OF  THE PROJECT OR A POR TION OF THE PR OJECT ; 
+ 
+    3. promotes safe completion of the project by ensuring that 
+at least 80% of the craft workers on the project have completed an Occupational Safety and 
+Health Administration 10 –hour or 30 –hour course;  
+ 
+    4. promotes career training opportuniti es in the 
+MANUFACTURING , MAINTENANCE , AND construction [industry ] INDUSTRIES  for local 
+residents, veterans, women, and minorities;  
+ 
+    5. provides for best efforts and effective outreach to obtain, 
+as a goal, the use of a workforce including minorities, t o the extent practicable; [and] 
+ 
+    6. reflects a 21st –century labor –management approach BY 
+DEVELOPERS AND SUPPL IERS  based on cooperation, harmony, and partnership THAT 
+PROACTIVELY SEEKS TO  ENSURE THAT WORKERS CAN FREELY CHOOSE TO  BOTH 
+ORGANIZE AND COLLEC TIVELY BARGAIN ; 
+ 
+    7. PROVIDES PLANS TO US E DOMESTIC IRON , STEEL , 
+AND MANUFACTURED GOO DS TO THE GREATEST E XTENT PRACTICABLE BY  
+DISCLOSING CONTRACTE D SUPPLIERS ; 
+ 
+    8. USES LOCALLY AND DOM ESTICALLY MANUFACTUR ED 
+CONSTRUCTION MATERIA LS AND COMPONENTS ; AND 
+Ch. 95  2023 LAWS OF MARYLAND   
+ 
+– 10 –  
+    9. MAXIMIZES THE USE OF  SKILLED LOCAL LABOR , 
+PARTICULARLY WITH RE GARD TO THE CONSTRUC TION AND MANUFACTURI NG 
+COMPONENTS OF THE PR OJECT , USING METHODS INCLUD ING OUTREACH , HIRING , 
+OR REFERRAL METHODS THAT ARE AFFILIATED WITH REGISTERED  
+APPRENTICESHIP PROGRAMS UNDER TITLE 11, SUBTITLE 4 OF THE LABOR AND 
+EMPLOYMENT ARTICLE . 
+ 
+   (ii) If the Commission receives reasonable proposals that 
+demonstrate positive net economic, environmental, and health benefits to the State, based 
+on the criteria specified in su bsection (c)(3) of this section, and subject to subparagraph (iii) 
+of this paragraph, the Commission shall approve orders to facilitate the financing of 
+qualified offshore wind projects, including at least 1,200 megawatts of Round 2 offshore 
+wind projects.  
+ 
+   (iii) The Commission may not approve an applicant’s proposed 
+offshore wind project unless:  
+ 
+    1. for a Round 1 offshore wind project application:  
+ 
+    A. the projected net rate impact for an average residential 
+customer, based on annual consumption of 12,000 kilowatt –hours, combined with the 
+projected net rate impact of other Round 1 offshore wind projects, does not exceed $1.50 per 
+month in 2012 dollars, over the duration of the proposed OREC pricing schedule;  
+ 
+    B. the projected net rate impact f or all nonresidential 
+customers considered as a blended average, combined with the projected net rate impact of 
+other Round 1 offshore wind projects, does not exceed 1.5% of nonresidential customers’ 
+total annual electric bills, over the duration of the pr oposed OREC pricing schedule; and  
+ 
+    C. the price specified in the proposed OREC price schedule 
+does not exceed $190 per megawatt –hour in 2012 dollars; and  
+ 
+    2. for a Round 2 offshore wind project application:  
+ 
+    A. the projected incremental net rat e impact for an average 
+residential customer, based on annual consumption of 12 megawatt –hours, combined with 
+the projected incremental net rate impact of other Round 2 offshore wind projects, does not 
+exceed 88 cents per month in 2018 dollars, over the du ration of the proposed OREC pricing 
+schedule;  
+ 
+    B. the projected incremental net rate impact for all 
+nonresidential customers considered as a blended average, combined with the projected net 
+rate impact of other Round 2 offshore wind projects, does not exceed 0.9% of nonresidential 
+customers’ total annual electric bills during any year of the proposed OREC pricing 
+schedule; and  
+ WES MOORE, Governor  Ch. 95  
+ 
+– 11 –  
+    C. the project is subject to a community benefit agreement.  
+ 
+  (2) (i) When calculating the net benefits to the State under  paragraph 
+(1)(ii) of this subsection, the Commission shall contract for the services of independent 
+consultants and experts.  
+ 
+   (ii) When calculating the projected net average rate impacts for 
+Round 1 offshore wind projects under paragraph (1)(iii)1A and  B of this subsection and for 
+Round 2 offshore wind projects under paragraph (1)(iii)2A and B of this subsection, the 
+Commission shall apply the same net OREC cost per megawatt –hour to residential and 
+nonresidential customers.  
+ 
+  (3) AN AGREEMENT REQUIRED  UNDER PARAGRAPH (1)(I)2B OF THIS 
+SUBSECTION SHALL : 
+ 
+   (I) GUARANTEE AGAINST ST RIKES , LOCKOUTS , AND SIMILAR 
+DISRUPTIONS ; 
+ 
+   (II) ENSURE THAT ALL WORK  ON THE PROJECT FULLY  
+CONFORMS TO ALL RELE VANT STATE AND FEDERAL LAW S, RULES , AND 
+REGULATIONS ; 
+ 
+   (III) CREATE MUTUALLY BIND ING PROCEDURES FOR R ESOLVING 
+LABOR DISPUTES ARISI NG DURING THE TERM O F THE PROJECT ; 
+ 
+   (IV) SET FORTH OTHER MECH ANISMS FOR  
+LABOR–MANAGEMENT COOPERATI ON ON MATTERS OF MUT UAL INTEREST AND 
+CONCERN , INCLUDING PRODUCTIVI TY, QUALITY OF WORK , SAFETY , AND HEALTH ; 
+AND  
+ 
+   (V) BIND ALL CONTRACTORS  AND SUBCONTRACTORS T O THE 
+TERMS OF THE AGREEME NT THROUGH THE INCLU SION OF APPROPRIATE 
+PROVISIONS IN ALL RE LEVANT SOLICITATION AND CONTRACT DOCUMEN TS.  
+ 
+ [(f)] (G) (1) An order the Commission issues  approving a proposed offshore 
+wind project shall:  
+ 
+   (i) specify the OREC price schedule, which may not authorize an 
+OREC price greater than, for a Round 1 offshore wind project, $190 per megawatt –hour in 
+2012 dollars;  
+ 
+   (ii) specify the duration of th e OREC pricing schedule, not to exceed 
+20 years;  
+ 
+Ch. 95  2023 LAWS OF MARYLAND   
+ 
+– 12 –    (iii) specify the number of ORECs the offshore wind project may sell 
+each year;  
+ 
+   (iv) provide that:  
+ 
+    1. a payment may not be made for an OREC until electricity 
+supply is generated by the offshore wind project; and  
+ 
+    2. ratepayers, purchasers of ORECs, and the State shall be 
+held harmless for any cost overruns associated with the offshore wind project; and  
+ 
+   (v) require that any debt instrument issued in connection with a 
+qualified offshore win d project include language specifying that the debt instrument does 
+not establish a debt, obligation, or liability of the State.  
+ 
+  (2) An order approving a proposed offshore wind project vests the owner of 
+the qualified offshore wind project with the right to receive payments for ORECs according 
+to the terms in the order.  
+ 
+  (3) On or before March 1 each year, the Commission shall report to the 
+Governor and, in accordance with § 2 –1257 of the State Government Article, to the Senate 
+Finance  Committee ON EDUCATION , ENERGY , AND THE ENVIRONMENT  and the House 
+Economic Matters Committee on:  
+ 
+   (i) compliance by applicants with the minority business enterprise 
+participation goals under subsection [(d)(4) ] (E)(4) of this section; and  
+ 
+   (ii) with respect to the community benefit agreement under 
+subsection [(e)(1) ] (F)(1) of this section:  
+ 
+    1. the availability and use of opportunities for local 
+businesses and small, minority, women –owned, and veteran –owned businesses;  
+ 
+    2. the success of efforts to promote career training 
+opportunities in the MANUFACTURING , MAINTENANCE , AND construction [industry ] 
+INDUSTRIES  for local residents, veterans, women, and minorities; and  
+ 
+    3. compliance with the minority workforce goal under 
+subsection [(e)(1)(i)5] (F)(1)( I)5 of this section.  
+ 
+ [(g)] (H) For Round 2 offshore wind project applications, the Commission shall 
+approve OREC orders representing a minimum of 400 megawatts of nameplate capacity 
+proposed during each application period unless:  
+ 
+ WES MOORE, Governor  Ch. 95  
+ 
+– 13 –   (1) not enough Round 2 offshore wind project applications are submitted to 
+meet the net benefit test under subsection (c)(3) of this section; or  
+ 
+  (2) the cumulative net ratepayer impact exceeds the maximums provided 
+in subsection [(e)(1)(ii)2 ] (F)(1)( II)2 of th is section.  
+ 
+ [(h)] (I) (1) Within 60 days after the Commission approves the application of 
+a proposed offshore wind project, the qualified offshore wind project shall deposit 
+$2,000,000 into the Maryland Offshore Wind Business Development Fund established  
+under § 9 –20C–03 of the State Government Article.  
+ 
+  (2) Within 1 year after the initial deposit under paragraph (1) of this 
+subsection, the qualified offshore wind project shall deposit an additional $2,000,000 into 
+the Maryland Offshore Wind Business De velopment Fund.  
+ 
+  (3) Within 2 years after the initial deposit under paragraph (1) of this 
+subsection, the qualified offshore wind project shall deposit an additional $2,000,000 into 
+the Maryland Offshore Wind Business Development Fund.  
+ 
+ [(i)] (J) (1) The findings and evidence relied on by the General Assembly for 
+the continuation of the Minority Business Enterprise Program under Title 14, Subtitle 3 of 
+the State Finance and Procurement Article are incorporated in this subsection.  
+ 
+  (2) To the extent practicable and authorized by the United States 
+Constitution, approved applicants for a proposed offshore wind project shall comply with 
+the State’s Minority Business Enterprise Program.  
+ 
+  (3) (i) On or before 6 months after the issuance of an order appro ving 
+an OREC application, the Governor’s Office of Small, Minority, and Women Business 
+Affairs, in consultation with the Office of the Attorney General and an approved applicant, 
+shall establish a clear plan for setting reasonable and appropriate minority business 
+enterprise participation goals and procedures for each phase of the qualified offshore wind 
+project.  
+ 
+   (ii) To the extent practicable, the goals and procedures specified in 
+subparagraph (i) of this paragraph shall be based on the requirements of  Title 14, Subtitle 
+3 of the State Finance and Procurement Article and the regulations implementing that 
+subtitle.  
+ 
+   (iii) Every 6 months following the issuance of an order approving an 
+OREC application, an approved applicant shall submit a report on its  progress establishing 
+and implementing minority business enterprise goals and procedures to the Commission.  
+ 
+  (4) On and after July 1, 2023, the provisions of this subsection and any 
+regulations adopted in accordance with this subsection shall be of no e ffect and may not be 
+enforced.  
+Ch. 95  2023 LAWS OF MARYLAND   
+ 
+– 14 –  
+ (K) (1) A DEVELOPER OF A ROUND 1 OFFSHORE WIND PROJEC T OR 
+ROUND 2 OFFSHORE WIND PROJEC T APPROVED UNDER THI S SECTION MAY APPLY 
+TO THE COMMISSION FOR AN A FULL OR PARTIAL  EXEMPTION FROM THE 
+REQUIREMENTS IN SUBS ECTION (C)(8)( II) OF THIS SECTION FOR ANY FEDERAL 
+INFLATION REDUCTION ACT OF 2022  GRANTS , REBATES , TAX CREDITS , OR LOAN 
+GUARANTEES RECEIVED BY THE PROJECT IF AT  LEAST 15%  OF THE TOTAL LABOR 
+HOURS OF CONSTRUCTIO N, ALTERATION , OR REPAIR WORK FOR T HE PROJECT , 
+INCLUDING ANY CONSTRUCTION , ALTERATION , OR REPAIR WORK PERFO RMED BY A 
+CONTRACTOR OR SUBCON TRACTOR , IS PERFORMED BY QUAL IFIED APPRENTICES 
+CONSISTENT WITH FEDE RAL LAW . 
+ 
+  (2) A DEVELOPER SEEKING AN  EXEMPTION UNDER PARA GRAPH (1) 
+OF THIS SUBSECTION S HALL CERTIFY THAT TH E EX EMPTION IS REQUIRED TO 
+FULFILL THE DEVELOPE R’S OBLIGATIONS UNDER AN APPROVED OREC  ORDER .  
+ 
+  (3) THE COMMISSION SHALL :  
+ 
+   (I) ESTABLISH AN APPLICA TION PROCESS FOR A D EVELOPER 
+TO APPLY FOR AN EXEM PTION UNDER PARAGRAP H (1) OF THIS SUBSECTION ; 
+ 
+   (II) SUBJ ECT TO PARAGRAPH (4) OF THIS SUBSECTION , 
+APPROVE , DENY , OR REQUEST ADDITIONA L INFORMATION REGARD ING AN 
+APPLICATION SUBMITTE D UNDER THIS SUBSECT ION WITHIN 45 60 DAYS AFTER 
+RECEIPT OF THE APPLI CATION ; 
+ 
+   (III) IN EVALUATING AN APP LICATION SUBMITTED U NDER TH IS 
+SUBSECTION , TAKE INTO CONSIDERAT ION THE POTENTIAL BE NEFITS AND IMPACTS 
+OF APPROVING THE APP LICATION , INCLUDING : 
+ 
+    1. THE STATE’S GOALS FOR DEVELOPI NG OFFSHORE 
+WIND ENERGY ; 
+ 
+    2. WORKFORCE AND SUPPLY  CHAIN IMPACTS ; AND  
+ 
+    3. THE RISK THAT PRICE INFLATION MAY HAVE O N 
+ACHIEVING THE STATE’S OFFSHORE WIND ENER GY GOALS ; AND  
+ 
+   (IV) KEEP ANY PROPRIETARY  INFORMATION SUBMITTE D BY AN 
+APPLICANT CONFIDENTI AL. 
+ 
+  (4) A REQUEST MADE BY THE COMMISSION FOR ADDITI ONAL 
+INFORMATION UNDER PA RAGRAPH (3)(II) OF THIS  SUBSECTION SHALL RES TART A 
+ WES MOORE, Governor  Ch. 95  
+ 
+– 15 – NEW 45–DAY PERIOD OF REVIEW  IF THE COMMISSION APPROVES A  PARTIAL 
+EXEMPTION UNDER PARA GRAPH (1) OF THIS SUBSECTION , THE NONEXEMPT VALUE 
+OF ANY FEDERAL INFLATION REDUCTION ACT OF 2022  GRANTS , REBATES , TAX 
+CREDITS , OR LOAN GUARANTE ES RECEIVED BY THE P ROJECT SHALL BE PASS ED 
+ALONG TO RATEPAYERS .  
+ 
+7–704.3.  
+ 
+ (A) THE GENERAL ASSEMBLY FINDS AND DE CLARES THAT IT IS IN  THE 
+PUBLIC INTEREST TO U PGRADE AND EXPAND TH E TRANSMISSION SYSTE M TO 
+ACCOMMODATE THE BUIL DOUT OF AT LEAST 8,500  MEGAWATTS  OF OFFSHORE WIND 
+ENERGY FROM QUALIFIE D OFFSHORE WIND PROJ ECTS SERVING THE STATE BY 
+2031.  
+ 
+ (B) (1) (I) TO MEET THE GOAL  GOALS  ESTABLISHED UNDER § 7–703 OF 
+THIS SUBTITLE AND  SUBSECTION  (A) OF THIS SECTION , THE COMMISSION , IN 
+CONSULTATION WITH TH E MARYLAND ENERGY ADMINISTRATION AND PJM  
+INTERCONNECTION , SHALL REQUEST THAT PJM  INTERCONNECTION  CONDUCT AN 
+ANALYSIS OF TRANSMIS SION SYSTEM UPGRADE AND  EXPANSION OPTIONS THAT 
+TAKE INTO CONSIDERAT ION BOTH ONSHORE AND  OFFSHORE INFRASTRUCT URE. 
+ 
+   (II) IN CONDUCTING THE  ANALYSIS REQUIRED UN DER  
+SUBPARAGRAPH (I) OF THIS PARAGRAPH , THE  
+ 
+  (2) THE COMMISSION : 
+ 
+   (I) SHALL CONSULT WITH O THER STATES SERVED B Y PJM  
+INTERCONNECTION TO EV ALUATE REGIONAL TRAN SMISSION COOPERATION  THAT 
+COULD HELP ACHIEVE T HE STATE’S RENEWABLE ENERGY AND OFFSHORE WIND 
+ENERGY GOALS WITH GR EATER EFFICIENCY ; 
+ 
+   (II) SHALL WORK WITH PJM  INTERCONNECTION TO EN SURE 
+THAT THE ANALYSIS RE QUESTED UNDER PARAGR APH (1) OF THIS SUBSECTION 
+INCLUDES AN ANALYSIS  OF SOLUTIONS THAT : 
+ 
+    1. USE AN OPEN –ACCESS COLLECTOR TRANSMISSI ON 
+SYSTEM TO ALLOW FOR THE INTERCONNECTION OF MULTIPLE QUALIFIE D 
+OFFSHORE WIND PROJEC TS AT A SINGLE SUBST ATION ; 
+ 
+    2. AVOID A SIGNIFICANT OUTAGE , OR SINGLE 
+CONTINGENCY , OF ANY PART OF THE T RANSMISSION SYSTEM ; 
+ 
+    3. REDUCE PERMITTING  RISKS , IMPACTS ON 
+COMMUNITIES , AND UNNECESSARY HIGH  COSTS ; 
+Ch. 95  2023 LAWS OF MARYLAND   
+ 
+– 16 –  
+    4. LEVERAGE EXISTING IN FRASTRUCTURE ; 
+ 
+    5. OFFER BENEFITS THAT ADDRESS ADDITIONAL G RID 
+CHALLENGES ; AND  
+ 
+    6. ADDRESS ANY OTHER IS SUES THAT THE COMMISSION 
+IDENTIFIES ; AND  
+ 
+   (III) MAY ALSO  CONSULT WITH OWNERS OF TRANSMISSION 
+FACILITIES IN THE STATE TO GATHER RELEVANT T ECHNICAL INFORMATION . 
+ 
+  (2) (3) THE COMMISSION MAY ENTER INTO ANY NECESSARY 
+AGREEMENTS WITH PJM  INTERCONNECTION FOR T RANSMISSION PLANNING  TO: 
+ 
+   (I) FURTHER THE COMMISSION ’S INITIATE PJM  
+INTERCONNECTION ’S ANALYSIS ; OR 
+ 
+   (II) ASSIST WITH THE SOLI CITATION OF PROPOSAL S FOR 
+OFFSHORE WIND TRANSM ISSION PROJECTS . 
+ 
+  (3) (4) ON OR BEFORE JULY 1, 2024,  THE COMMISSION SHALL 
+SUBMIT ITS COMPLETED  A STATUS UPDATE ON T HE ANAL YSIS REQUESTED UNDER 
+PARAGRAPH (1) OF THIS SUBSECTION  TO THE GENERAL ASSEMBLY , IN 
+ACCORDANCE  WITH § 2–1257  OF THE STATE GOVERNMENT ARTICLE . 
+ 
+ (C) (1) ON OR BEFORE DECEMBER 1, 2024  JULY 1, 2025 , THE 
+COMMISSION SHALL ISSU E, OR REQUEST THAT PJM  INTERCONNECTIO N ISSUE , ONE 
+OR MORE COMPETITIVE SOLICITATIONS FOR PR OPOSALS FOR OPEN ACC ESS 
+OFFSHORE WIND TRANSM ISSION FACILITIES AN D NECESSARY  COMPLEMENTARY  
+ONSHORE TRANSMISSION  UPGRADES AND EXPANSI ONS. 
+ 
+  (2) THE COMMISSION MAY ISSUE , OR REQUEST THAT PJM  
+INTERCONNECTION ISSUE , FURTHER SOLICITATION S FOR PROPOSALS AFTE R THIS 
+DATE IF DETERMINED N ECESSARY BY THE COMMISSION . 
+ 
+ (D) IN DEVELOPING CRITERI A FOR SELECTING A PR OPOSAL UNDER THIS 
+SECTION , THE COMMISSION : 
+ 
+  (1) SHALL CONSIDER THE A NALYSIS REQUIRED UND ER SUBSECTION 
+(B) OF THIS SECTION , INCLUDING A CONSIDER ATION OF POTENTIAL 
+INTERCONNECTION POIN TS AND CABLE ROUTES ; 
+ 
+ WES MOORE, Governor  Ch. 95  
+ 
+– 17 –   (2) SHALL EVALUATE THE P OTENTIAL FOR COOPERA TING WITH 
+OTHER STATES IN THE PJM  REGION TO MAXIMIZE C ONSUMER BENEFITS THA T WILL 
+BEST ACHIEVE T HE STATE’S RENEWABLE ENERGY AND  OFFSHORE WIND ENERGY  
+GOALS ; AND  
+ 
+  (3) MAY CONSULT WITH THE  ADMINISTRATION , ELECTRIC 
+COMPANIES , TRANSMISSION FACILIT Y OWNERS , AND OTHER STATES OR ENTITIES 
+DESIGNATED BY THOSE STATES IN DEVELOPING  OR COORDINATING EQUI VALENT 
+STANDARDS FOR THE APP ROVAL OF TRANSMISSIO N PROJECTS UNDER THI S 
+SECTION THAT WILL FA CILITATE THE INTEGRA TION OF MULTIPLE OFF SHORE WIND 
+ENERGY PROJECTS AND POTENTIAL MULTISTATE  OFFSHORE WIND TRANSM ISSION 
+PROJECTS . 
+ 
+ (E) (1) THE COMMISSION SHALL INCL UDE, OR WORK WITH PJM  
+INTERCONNECTION TO IN CLUDE , SPECIFICATIONS IN TH E SOLICITATION THAT 
+REQUIRE PROPOSALS TO : 
+ 
+   (I) ALLOW FUTURE TRANSMI SSION LINES TO CONNE CT IN A 
+MESHED MANNER AND SH ARE LANDING POINTS ; 
+ 
+   (II) CONSIDER OTHER ONSHO RE AND OFFSHORE CLEA N 
+ENERGY GENERATION AN D STORAGE FACILITIES ; AND  
+ 
+   (III) INCORPORATE COMMUNIT Y BENEFIT AGREEMENTS  IN 
+ACCORDANCE WITH § 7–704.1  OF THIS SUBTITLE ; 
+ 
+   (IV) ADDRESS THE SITING , ENVIRONMENTAL , AND 
+SOCIOECONOMIC INFORM ATION REQUIRED TO BE C ONSIDERED BY THE 
+COMMISSION UNDER § 7–207 OF THIS TITLE FOR AN  APPLICATION FOR A 
+CERTIFICATE OF PUBLI C CONVENIENCE AND NE CESSITY , INCLUDING 
+OPPORTUNITIES FOR PU BLIC ENGAGEMENT AND COMMENT WITH UNITS O F STATE 
+AND LOCAL GOVERNMENT  AND THE  GENERAL PUBLIC ; 
+ 
+   (V) DEMONSTRATE NET BENE FITS TO RATEPAYERS I N THE 
+STATE WHEN COMPARED W ITH AN ALTERNATIVE B ASELINE SCENARIO UND ER WHICH 
+8,500  MEGAWATTS OF OFFSHOR E WIND ENERGY CAPACI TY IS CONNECTED TO PJM  
+INTERCONNECTION INDEP ENDENT OF AN OFFSHOR E WIND TRANSMISSION PR OJECT 
+TO ACHIEVE THE GOAL ESTABLISHED UNDER § 7–704.1( A)(1)( I) OF THIS SUBTITLE ; 
+AND  
+ 
+   (V) (VI) ENSURE A COMPETITIVE  BIDDING PROCESS BY 
+REDACTING PROPRIETAR Y INFORMATION PROVID ED TO THE COMMISSION OR TO 
+PJM  INTERCONNECTION . 
+ 
+Ch. 95  2023 LAWS OF MARYLAND   
+ 
+– 18 –   (2) THE COMMISSION MAY CONSIDER  EVALUATE , OR REQUEST THAT 
+PJM  INTERCONNECTION ASSIS T WITH THE EVALUATIO N OF , PROPOSALS THAT 
+INCLUDE : 
+ 
+   (I) UPGRADING THE EXISTI NG TRANSMISSION GRID ; 
+ 
+   (II) EXTENDING THE EXISTI NG TRANSMISSION GRID  ONSHORE 
+AND OFFSHORE  TO BE CLOSER TO OFFSHORE W IND ENERGY LOCATIONS ; 
+ 
+   (III) INTERCONNECTING BETW EEN OFFSHORE SUBSTAT IONS ; 
+ 
+   (IV) ADDING ENERGY STORAG E; AND 
+ 
+   (V) THE USE OF HVDC  CONVERTER TECHNOLOGY  TO SUPPORT 
+POTENTIAL WEAKNESSES  IN THE TRANSMISSION GRID . 
+ 
+  (3) THE COMMISSI ON MAY SELECT A PROP OSAL OR PROPOSALS TH AT 
+INCLUDE : 
+ 
+   (I) FEDERAL FUNDING IN T HE FORM OF A MATCH , GRANT , 
+LOAN , OR OWNERSHIP AND OPE RATION BY THE UNITED STATES GOVERNMENT ; 
+ 
+   (II) COST SHARING AMONG S TATES OR RECOVERY OF  
+TRANSMISSION COSTS T HROUGH FEDERAL TRANSMISSION  RATES , CONSISTENT 
+WITH THE POLICIES AN D TARIFFS OF THE FEDERAL ENERGY REGULATORY 
+COMMISSION ; 
+ 
+   (III) A COMBINATION OF THE  FUNDING METHODS OUTL INED IN 
+ITEMS (I) AND (II) OF THIS PARAGRAPH ; OR 
+ 
+   (IV) ANY OTHER AVAILABLE FUNDING MECHANISMS . 
+ 
+  (4) EACH PROPOSAL SHOULD MAXIMIZE ACCESS TO A ND BE 
+CONSISTENT WITH THE TERMS OF THE U.S.  DEPARTMENT OF ENERGY FUNDING 
+PROGRAMS , INCLUDING THOSE ESTA BLISHED : 
+ 
+   (I) UNDER THE FEDERAL INFRASTRUCTURE INVESTMENT AND 
+JOBS ACT; 
+ 
+   (II) UNDER THE  FEDERAL INFLATION REDUCTION ACT OF 
+2022;  
+ 
+   (III) THROUGH THE U.S.  DEPARTMENT OF ENERGY 
+TRANSMISSION FACILITATION PROGRAM ; AND 
+ WES MOORE, Governor  Ch. 95  
+ 
+– 19 –  
+   (IV) THROUGH ANY LOAN PRO GRAMS , OFFICE PROGRAMS , OR 
+RESILIENCY FUNDING . 
+ 
+  (5) (I) EACH PROPOSAL SHALL I NCLUDE A COST –BENEF IT 
+ANALYSIS TO DEMONSTR ATE THE OVERALL BENE FITS OF THE PROPOSAL  TO THE 
+STATE AND TO RATEPAYE RS. 
+ 
+   (II) THE COST –BENEFIT ANALYSIS REQ UIRED UNDER 
+SUBPARAGRAPH (I) OF THIS PARAGRAPH SH ALL INCLUDE AN ASSES SMENT OF 
+POTENTIAL COST ALLOC ATION BETWEEN STATES .  
+ 
+ (F) THE SOLICITATION PROC ESS SHALL : 
+ 
+  (1) INCLUDE A PREQUALIFI CATION PROCESS TO EN SURE THE 
+FINANCIAL AND TECHNI CAL COMPETENCE AND C APABILITIES OF THE E NTITIES 
+RESPONDING TO THE SO LICITATION FOR PROPO SALS ; 
+ 
+  (2) PROVIDE FOR RIGOROUS  SEPARATION BETWEEN INDIVIDUALS OR 
+FIRMS PARTICIPATING IN THE REVIEW , ANALYSIS , AND SELECTION OF THE  
+PROPOSALS BY OR ON B EHALF OF THE COMMISSION AND THOSE PARTICIPATING IN 
+THE DEVELOPMENT OR M ANAGEMENT OF PROPOSA LS; AND 
+ 
+  (3) PROMOTE RIGOROUS COM PETITION AMONG PREQU ALIFIED 
+ENTITIES IN THE PREPA RATION AND SUBMISSIO N OF THEIR PROPOSALS . 
+ 
+ (G) THE COMMISSION MAY MODIFY , OR REQUEST THAT PJM  
+INTERCONNECTION MODIF Y, A SOLICITATION FOR P ROPOSALS AT ANY TIME  IN 
+ORDER TO SATISFY ELI GIBILITY CRITERIA FO R U.S.  DEPARTMENT OF ENERGY 
+FUNDI NG PROGRAMS . 
+ 
+ (H) IN SELECTING A PROPOS AL UNDER THIS SECTIO N, THE COMMISSION 
+SHALL TAKE INTO CONS IDERATION THE TOTAL AMOUNT OF NEW TRANSM ISSION 
+INFRASTRUCTURE NEEDE D TO : 
+ 
+  (1) MAINTAIN ELECTRIC SY STEM RELIABILITY ; 
+ 
+  (2) AVOID UNNECESSARY UP GRADE COSTS T O THE EXISTING  
+TRANSMISSION GRID ; 
+ 
+  (3) ACHIEVE THE STATE’S OFFSHORE WIND , RENEWABLE ENERGY , 
+AND DECARBONIZATION GOALS ;  
+ 
+Ch. 95  2023 LAWS OF MARYLAND   
+ 
+– 20 –   (4) (3) OBTAIN DEMONSTRABLE BENEFITS TO THE CONS UMER AND 
+ENVIRONMENT ; AND  
+ 
+  (5) (4) FOSTER ECONOMIC DEVE LOPMENT AND JOB CREA TION IN 
+THE STATE . 
+ 
+ (I) THE COMMISSION SHALL : 
+ 
+  (1) EVALUATE  REQUEST THAT PJM  INTERCONNECTION ASSIS T WITH 
+THE EVALUATION OF  EACH PROPOSAL SUBMIT TED IN ACCORDANCE WI TH THIS 
+SECTION ; AND  
+ 
+  (2) AFTER NOTICE , ONE OR MORE HEARINGS  TO RECEIVE PUBLIC 
+COMMENT , AND AN EVIDENTIARY H EARING , AND SUBJECT TO SUBSE CTION (J) OF 
+THIS SECTION , ON OR BEFORE JULY  DECEMBER  1, 2026  2027 , BY ORDER , SELECT A 
+PROPOSAL OR PROPOSAL S FOR DEVELOPMENT : 
+ 
+   (I) USING A FUNDING MECH ANISM OR COMBINATION  OF 
+FUNDING MECHANISMS I DENTIFIED IN SUBSECTION (E)(3) OF THIS SECTION ; AND 
+ 
+   (II) THAT DEMONSTRATE NET  BENEFITS TO RATEPAYE RS IN THE 
+STATE WHEN COMPARED W ITH AN ALTERNATIVE B ASELINE SCENARIO UND ER 
+SUBSECTION (E)(1)( V) OF THIS SECTION . 
+ 
+ (J) IF THE COMMISSION FINDS THAT  NONE OF THE PROPOSAL S ARE 
+BENEFICIALLY COST –EFFECTIVE OR  ADEQUATELY SUPPORT T HE GOALS 
+ESTABLISHED UNDER TH IS SECTION OR DEMONSTRATE NET B ENEFITS TO 
+RATEPAYERS IN THE STATE WHEN COMPARED W ITH AN ALTERNATIVE B ASELINE 
+SCENARIO UNDER SUBSECTION (E)(1)( V) OF THIS SECTION , THEN THE COMMISSION 
+MAY END THE SOLICITA TION PROCESS WITHOUT  SELECTING A PROPOSAL .  
+ 
+ (K) (1) THE COMMISSION MAY , FOR A PROPOSAL SELEC TED UNDER 
+SUBSECTION (I) OF THIS SECTION :  
+ 
+   (I) ADOPT CONDITIONS FOR  THE CO NSTRUCTION AND 
+OPERATION OF FACILIT IES INCLUDED IN THE PROPOSAL ; AND  
+ 
+   (II) CONSIDER ANY CONDITI ONS PROPOSED BY THE POWER 
+PLANT RESEARCH PROGRAM . 
+ 
+  (2) THE REQUIREMENT TO OB TAIN A CERTIFICATE O F PUBLIC 
+CONVENIENCE AND NECE SSITY UNDER § 7–207 OR § 7–208 OF THIS TITLE DOES N OT 
+APPLY TO A PROPOSAL SELECTED UNDER SUBSE CTION (I) OF THIS SECTION . 
+ WES MOORE, Governor  Ch. 95  
+ 
+– 21 –  
+  (3) AN ORDER SELECTING A PROPOSAL UNDER SUBSE CTION (I) OF 
+THIS SECTION CONSTIT UTES AUTHORIZATION B Y THE COMMISSION TO CONSTRU CT 
+AND OPERATE FACILITI ES THAT WOULD OTHERWISE REQUIRE A CERTIFICATE OF 
+PUBLIC CONVENIENCE A ND NECESSITY UNDER § 7–207 OR § 7–208 OF THIS TITLE .  
+ 
+ (L) EXCEPT AS PROVIDED IN  SUBSECTION (K) OF THIS SECTION , A A 
+PROPOSAL APPROVED  SELECTED  UNDER THIS SECTION I S SUBJECT TO ALL OTH ER 
+RELEVANT REQU IREMENTS FOR THE SIT ING AND CONSTRUCTION  OF TRANSMISSION 
+LINES , INCLUDING ANY REQUIR EMENT TO OBTAIN A CE RTIFICATE  OF PUBLIC 
+CONVENIENCE AND NECE SSITY . 
+ 
+ (L) (M) SELECTION OF COORDINA TED TRANSMISSION PRO POSALS MAY 
+NOT IMPACT THE INTER CONNECTION PLANS OF EARLIER OFFSHORE WIN D 
+PROJECTS , INCLUDING OCS–A 0490  (US  WIND) AND OCS–A 0519  (SKIPJACK ), 
+UNLESS THE LEASEHOLD ERS FOR THESE PROJEC TS OPT TO PARTICIPAT E IN THE 
+PROPOSAL BY NOTIFYIN G THE COMMISSION BY MAIL OR  E–MAIL BEFORE THE 
+COMPLETION OF THE AN ALYSIS OF T RANSMISSION SYSTEM E XPANSION OPTIONS 
+UNDER SUBSECTION (B) OF THIS SECTION . 
+ 
+ (M) (N) IF NO PROPOSAL HAS BE EN APPROVED  SELECTED  UNDER THIS 
+SECTION BY JULY DECEMBER  1, 2026  2027 , THE COMMISSION SHALL SUBM IT A 
+STATEMENT OF DETERMI NATION TO THE GOVERNOR AND GENERAL ASSEMBLY 
+THAT : 
+ 
+  (1) PROVIDES A COMPREHEN SIVE EXPLANATION OF THE 
+COMMISSION ’S DECISION  DETERMINATION ; AND  
+ 
+  (2) RECOMMENDS A PATH FO RWARD TO ACHIEVE THE  STATE’S GOAL 
+UNDER SUBSECTION (A) OF THIS SECTION . 
+ 
+ (N) (O) AFTER THE COMMISSION SELECTS A PROPOSAL OR PROPOSAL S, 
+THE COMMISSION SHALL WORK  WITH THE MARYLAND ENERGY ADMINISTRATION , 
+TRANSMISSION DEVELOP ER OR DEVELOPERS , TRANSMISSION FACILIT Y OWNERS , 
+PJM  INTERCONNECTION , THE FEDERAL ENERGY REGULATORY COMMISSION , AND 
+ANY OTHER STATES THA T VOLUNTARI LY PARTICIPATE , TO FACILITATE THE  
+DEVELOPMENT OF THE P ROPOSAL OR PROPOSALS  AND THE CONSTRUCTION  OF THE 
+PROPOSED OFFSHORE WI ND PROJECT OR PROJEC TS. 
+ 
+ (O) (P) THE COMMISSION : 
+ 
+  (1) SHALL CARRY OUT THE PROVISIONS OF THIS S ECTION BY 
+OBTAINING INFORMATIO N THROUGH REQUEST , COOPERATION , SUBPOENA , OR ANY 
+Ch. 95  2023 LAWS OF MARYLAND   
+ 
+– 22 – OTHER LEGAL METHOD F ROM TRANSMISSION OWN ERS, PJM  INTERCONNECTION , 
+OR ANY OTHER ENTITY ; AND 
+ 
+  (2) MAY RETAIN CONSULTAN TS. 
+ 
+7–704.4.  
+ 
+ (A) (1) IN THIS SECTION THE F OLLOWING WORDS HAVE THE MEANINGS 
+INDICATED . 
+ 
+  (2) “COMMUNITY BENEFIT AGR EEMENT ” HAS THE MEANING STAT ED 
+IN § 7–704.1( E) OF THIS SUBTITLE . 
+ 
+  (3) “SOCIAL COST OF GREENH OUSE GASES ” MEANS THE MOST 
+RECENT SOCIAL COST O F GREENHOUSE GAS ES ADOPTED BY THE U.S.  
+ENVIRONMENTAL PROTECTION AGENCY . 
+ 
+ (B) (1) BETWEEN JULY 31, 2024,  AND APRIL 30, 2025,  THE  THE 
+DEPARTMENT OF GENERAL SERVICES , IN CONSULTATION WITH  THE PUBLIC 
+SERVICE COMMISSION , SHALL ISSUE AN INVITATION FOR BIDS  A COMPETITIVE 
+SEALED  PROCUREMENT SOLICITA TION  AND MAY ENTER INTO A T LEAST ONE 
+CONTRACT FOR A POWER  PURCHASE AGREEMENT T O PROCURE BETWEEN 1,000,000  
+AND 8,000,000  UP TO 5,000,000  MEGAWATT –HOURS ANNUALLY OF OF FSHORE WIND 
+ENERGY AND ASSOCIATE D RENEWABLE ENERGY C REDITS FROM ONE OR  MORE 
+QUALIFIED OFFSHORE W IND PROJECTS . 
+ 
+  (2) EACH AGREEMENT ENTERE D INTO UNDER PARAGRA PH (1) OF 
+THIS SUBSECTION SHAL L HAVE A TERM OF NOT  LESS THAN 20 YEARS . 
+ 
+  (3) WHEN ISSUING THE INVI TATION FOR BIDS UNDE R THIS 
+SUBSECTION , THE DEPARTMENT SHALL TAKE  INTO  CONSIDERATION : 
+ 
+   (I) THE SOCIAL COST OF G REENHOUSE GAS EMISSI ONS; 
+ 
+   (II) THE STATE’S CLIMATE COMMITMENT S; AND 
+ 
+   (III) THE STATE’S COMMITMENTS UNDER § 7–704.1( A) OF THIS 
+SUBTITLE . 
+ 
+  (4) THE EVALUATION CRITER IA FOR BIDS SHALL IN CLUDE : 
+ 
+   (I) COMPARI NG THE SOCIAL COST O F GREENHOUSE GAS 
+EMISSIONS FOR OFFSHO RE WIND WITH THE SOC IAL COST OF GREENHOU SE GAS 
+ WES MOORE, Governor  Ch. 95  
+ 
+– 23 – EMISSIONS FOR NONREN EWABLE POWER PURCHAS ED FROM WHOLESALE EL ECTRIC 
+MARKETS ADMINISTERED  BY PJM  INTERCONNECTION ; AND 
+ 
+   (II) THE EXTENT TO WHICH AN APPLICANT ’S PROPOSAL 
+PROVIDES FOR FINANCI AL AND TECHNICAL ASS ISTANCE TO SUPPORT M ONITORING 
+AND MITIGATION OF WI LDLIFE AND HABITAT I MPACTS ASSOCIATED WI TH THE 
+PROPOSED OFFSHORE WI ND PROJECT . 
+ 
+  (5) EACH AGREEMENT ENTERE D INTO UNDER PARAGRA PH (1) OF 
+THIS SUBSECTION SHALL INC LUDE : 
+ 
+   (I) A COMMUNITY BENEFIT AGREEMENT AND DOMEST IC 
+CONTENT PREFERENCES ; AND 
+ 
+   (II) A DESCRIPTION OF : 
+ 
+    1. INITIAL PLANS FOR MI TIGATING THE IMPACTS  OF THE 
+CONSTRUCTION AND OPE RATION OF THE PROPOS ED OFFSHORE WIND PRO JECT ON 
+FISHERIES AND THE ENVIR ONMENT ; AND  
+ 
+    2. THE EXTENT TO WHICH AN APPLICANT WILL PR OVIDE 
+FOR FINANCIAL AND TE CHNICAL ASSISTANCE T O SUPPORT THE MONITO RING AND 
+MITIGATION OF WILDLI FE AND HABITAT IMPAC TS ASSOCIATED WITH T HE PROJECT . 
+ 
+ (C) (1) THE DEPARTMENT OF GENERAL SERVICES SHALL IDENTI FY THE 
+AMOUNT OF ENERGY NEC ESSARY TO MEET THE STATE’S ENERGY NEEDS . 
+ 
+  (2) (I) THE STATE SHALL USE THE E NERGY PROCURED UNDER  
+SUBSECTION (B) OF THIS SECTION TO M EET THE STATE’S ENERGY NEEDS AND 
+RETIRE THE ASSOCIATE D RENEWABLE ENE RGY CREDITS TO MEET ITS OBLIGATIONS 
+UNDER THE RENEWABLE ENERGY PORTFOLIO STA NDARD AND CHAPTER 38 OF THE 
+ACTS OF THE GENERAL ASSEMBLY OF 2022.  
+ 
+   (II) THE STATE SHALL BE EXEMPT ED FROM THE RENEWABL E 
+ENERGY PORTFOLIO STA NDARD REQUIREMENTS U NDER § 7–703 OF THIS SUBTITLE 
+IF THE DEPARTMENT OF GENERAL SERVICES PROCURES 100%  OF THE STATE’S 
+ENERGY NEEDS FROM TH E POWER PURCHASE AGR EEMENT REQUIRED UNDE R 
+SUBSECTION (B) OF THIS SECTION .  
+ 
+  (3) THE STATE SHALL OFFER FOR  SALE ANY ENERGY OR R ENEWABLE 
+ENERGY CREDITS REM AINING AFTER THE REQ UIREMENTS UNDER PARA GRAPH (2) 
+OF THIS SUBSECTION H AVE BEEN MET ON THE COMPETITIVE WHOLESAL E POWER 
+MARKET OPERATED BY PJM  INTERCONNECTION , THROUGH BILATERAL SA LES TO 
+Ch. 95  2023 LAWS OF MARYLAND   
+ 
+– 24 – CREDIT–WORTHY COUNTERPARTIE S, OR INTO RENEWABLE EN ERGY CREDIT 
+MARKETS . 
+ 
+ (D) THE STATE SHALL :  
+ 
+  (1) ISSUE A PROCUREMENT FOR OFFSHORE WIND EN ERGY ON OR 
+BEFORE JULY 31, 2024;   
+ 
+  (2) PROVIDE A BIDDING  PROCUREMENT SUBMISSI ON PROCESS 
+WINDOW OF NOT LESS T HAN 180 DAYS ; AND  
+ 
+  (3) AWARD CONTRACTS IN A  TIMELY MANNER ; AND  
+ 
+  (4) ENTER INTO A CONTRAC T OR CONTRACTS FOR T HE 
+PROCUREMENT ON OR BE FORE APRIL 30, 2025 . 
+ 
+ (E) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , THE STATE 
+MAY ENTER INTO A CON TRACT OR CONTRACTS F OR THE PROCUREMENT O N OR 
+BEFORE SEPTEMBER 1, 2025.  
+ 
+  (2) THE STATE  MAY MODIFY THE DATE ESTABLISHED IN PARAG RAPH 
+(1) OF THIS SUBSECTION I F AN UNFORESEEN CIRC UMSTANCE ADVERSELY A FFECTS 
+THE PROCUREMENT SUBM ISSION PROCESS . 
+ 
+ (F) (1) WITHIN 90 DAYS AFTER THE OPERA TIONAL COMMENCEMENT 
+DATE OF THE POWER PU RCHASE AGREEMENT , ANY C ONTRACTOR PROVIDING 
+OPERATIONS AND MAINT ENANCE SERVICES UNDE R AN AGREEMENT WITH THE 
+DEPARTMENT OF GENERAL SERVICES SHALL SUBMIT  TO THE DEPARTMENT 
+ATTESTATION THAT THE  CONTRACTOR HAS ENTER ED INTO A LABOR PEAC E 
+AGREEMENT WITH EACH LABOR ORGANIZATION T HAT IS ACTIVELY ENGAGED IN 
+REPRESENTING OR ATTE MPTING TO REPRESENT EMPLOYEES PERFORMING  
+OPERATIONS AND MAINT ENANCE WORK ON THE P ROJECTS THAT : 
+ 
+   (I) PROHIBITS STRIKES , LOCKOUTS , OR ANY OTHER ECONOMI C 
+INTERFERENCE WITH TH E CONTRACTED PROJECT ; 
+ 
+   (II) DESCRIBES T HE CLASS OR CLASSES OF COVERED 
+EMPLOYEES TO WHOM TH E LABOR PEACE AGREEM ENT APPLIES ; 
+ 
+   (III) DESCRIBES ANY CLASS OR CLASSES OF EMPLOY EES NOT 
+CURRENTLY REPRESENTE D BY A LABOR ORGANIZ ATION ; 
+ 
+ WES MOORE, Governor  Ch. 95  
+ 
+– 25 –    (IV) DESCRIBES THE CLASSE S OF COVERED EMPLOYE ES FOR 
+WHICH LABOR  PEACE AGREEMENT NEGO TIATIONS HAVE NOT YE T CONCLUDED ; AND  
+ 
+   (V) FOR CLASSES OF EMPLO YEES THAT ARE NOT CO VERED BY A 
+LABOR PEACE AGREEMEN T, PROVIDES AN ATTESTAT ION THAT NO LABOR 
+ORGANIZATION HAS SOU GHT TO NEGOTIATE SUC H AN AGREEMENT . 
+ 
+  (2) A LABOR PEACE AGREEMEN T REQUIRED UNDER PAR AGRAPH (1) 
+OF THIS SUBSECTION S HALL BE :  
+ 
+   (I) VALID AND ENFORCEABL E UNDER 29 U.S.C.  § 158;  AND 
+ 
+   (II) MAINTAINED AS AN ONG OING MATERIAL CONDIT ION OF ANY 
+CONTINUATION OF PAYM ENTS UNDER ANY AGREE MENT REQUIRED BY  THIS 
+SUBSECTION . 
+ 
+ (G) NOTHING IN THIS SECTI ON MAY BE CONSTRUED TO PREVENT THE 
+PROCUREMENT OF NEW O FFSHORE WIND ENERGY GENERATION IN ACCORD ANCE 
+WITH THE CURRENT OR ANY FUTURE SOLICITAT ION SCHEDULE . 
+ 
+7–704.5.  
+ 
+ (A) ON OR BEFORE DECEMBER 31, 2024,  AND ON OR  BEFORE EACH 
+DECEMBER 31 THEREAFTER , THE COMMISSION SHALL SUBM IT A REPORT TO THE 
+GENERAL ASSEMBLY , IN ACCORDANCE WITH § 2–1257  OF THE STATE GOVERNMENT 
+ARTICLE , ON THE INFORMATION C OLLECTED UNDER THE COMMISSION ’S SUPPLIER 
+DIVERSITY PROGRAM REGARDING OFF SHOR E WIND DEVELOPERS . 
+ 
+ (B) THE REPORT REQUIRED U NDER SUBSECTION (A) OF THIS SECTION 
+SHALL INCLUDE : 
+ 
+  (1) EFFORTS TO PROMOTE O PPORTUNITIES FOR SMA LL, MINORITY , 
+WOMEN–OWNED , AND VETERAN –OWNED BUSINESSES ; 
+ 
+  (2) INFORMATION ON PARTI CIPATING OFFSHORE WI ND DEVELOPERS ; 
+ 
+  (3) PARTICIPATION OF SMA LL, MINORITY , WOMEN–OWNED , AND 
+VETERAN –OWNED BUSINESSES  AND BUSINESSES CERTI FIED UNDER THE FEDER AL 
+DISADVANTAGED BUSINESS ENTERPRISE PROGRAM  IN OFFSHORE WIND PRO JECTS , 
+INCLUDING : 
+ 
+   (I) THE NUMBER OF SMALL , MINORITY , WOMEN–OWNED , AND 
+VETERAN –OWNED BUSINESSES  AND BUSINESSES CERTI FIED UNDER THE FEDER AL 
+Ch. 95  2023 LAWS OF MARYLAND   
+ 
+– 26 – DISADVANTAGED BUSINESS ENTERPRISE PROGRAM  THAT RECEIVE CONTRAC TS OR 
+SUBCONTRACTS FOR OFF SHORE WIND PROJECTS ; AND  
+ 
+   (II) THE PERCENTAGE OF CO NTRACTORS AND 
+SUBCONTRACTORS  ON OFFSHORE WIND PRO JECTS THAT ARE SMALL , MINORITY , 
+WOMEN–OWNED , OR VETERAN –OWNED BUSINESSES  AND BUSINESSES CERTI FIED 
+UNDER THE FEDERAL DISADVANTAGED BUSINESS ENTERPRISE PROGRAM ; AND  
+ 
+  (4) PLANS TO INCREASE FU TURE PARTICIPATION O F SMALL , 
+MINORITY , WOMEN–OWNED , AND VETERAN –OWNED BUSINESSES  AND BUSINESSES 
+CERTIFIED UNDER THE FEDERAL DISADVANTAGED BUSINESS ENTERPRISE 
+PROGRAM  IN OFFSHORE WIND PRO JECTS .  
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That it is the intent of the General 
+Assembly that:  
+ 
+  (1) four Pos ition Identification Numbers (PINs) be created in the Public 
+Service Commission for full –time positions that will focus only on implementing the 
+provisions of § 7 –704.3 of the Public Utilities Article, as enacted by Section 1 of this Act; 
+and 
+ 
+  (2) notwithstanding any other provision of law, for fiscal year 2025, the 
+Governor may include in the annual budget bill an appropriation of not less than 
+$3,500,000 of additional funding to the budget of the Public Service Commission for the 
+studies and analy ses required under § 7 –704.3 of the Public Utilities Article, as enacted by 
+Section 1 of this Act.  
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That:  
+ 
+ (a) The certification agency designated by the Board of Public Works under §  
+14–303(b) of the State Finance and Procurement Article and the Governor’s Office of Small, 
+Minority, and Women Business Affairs, in consultation with the Public Service Commission, 
+the Maryland Department of Labor, the Office of the Attorney General, and t he General 
+Assembly, shall initiate a study regarding the participation of small, minority,  
+women –owned, and veteran –owned businesses and businesses certified under the federal 
+Disadvantaged Business Enterprise Program that receive contracts or subcontrac ts for 
+offshore wind projects under this Act to evaluate whether the enactment of remedial 
+measures to assist minority and women –owned businesses in the clean energy and offshore 
+wind industries would comply with the U.S. Supreme Court decision in City of Richmond 
+v. J. A. Croson Co., 488 U.S. 469, and any subsequent federal or constitutional requirements.  
+ 
+ (b) The certification agency and the Governor’s Office of Small, Minority, and 
+Women Business Affairs shall submit the findings of the study required u nder subsection 
+(a) of this section to the Legislative Policy Committee, in accordance with § 2 –1257 of the 
+ WES MOORE, Governor  Ch. 95  
+ 
+– 27 – State Government Article, on or before December 31, 2025, so that the General Assembly may 
+review the findings before the 2026 session.   
+ 
+ SECTION 3 . AND BE IT FURTHER ENACTED, That  this Act shall take effect June 
+1, 2023.  
+ 
+Approved by the Governor, April 21, 2023.  

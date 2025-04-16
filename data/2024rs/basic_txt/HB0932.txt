@@ -1,0 +1,1518 @@
+ WES MOORE, Governor  Ch. 847  
+ 
+– 1 – Chapter 847  
+(House Bill 932 ) 
+ 
+AN ACT concerning  
+ 
+Health Insurance – Utilization Review – Revisions  
+ 
+FOR the purpose of altering and establishing requirements and prohibitions related to 
+health insurance utilization review; altering requirements related to internal 
+grievance procedures and adverse decision procedures; altering certain reporting 
+requirements on health insurance carriers relating to adverse decisions; establishing  
+requirements on health insurance carriers and health care providers relating to the 
+provision of patient benefit information; and generally relating to health insurance 
+and utilization review.  
+ 
+BY adding to  
+ Article – Health – General  
+Section 19 –108.5  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Insurance  
+ Section 15 –851 and 15 –10B–01(a)  
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reena cting, with amendments,  
+ Article – Insurance  
+Section 15 –854 and 15 –10B–06 
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2023 Supplement)  
+ (As enacted by Chapters 364 and 365 of the Acts of the General Assembly of 2023)  
+ 
+BY adding to  
+ Article – Insurance  
+Section 15 –854.1  
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Insurance  
+Section 15 –10A–01, 15 –10A–02, 15 –10A–04(c), 15 –10A–06, 15 –10A–08,  
+15–10B–01(b), 15–10B–02, 15 –10B–05, 15 –10B–07, and 15 –10B–09.1 
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2023 Supplement)  
+Ch. 847  2024 LAWS OF MARYLAND   
+ 
+– 2 –  
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Health – Gener al 
+ 
+19–108.5.  
+ 
+ (A) (1) IN THIS SECTION THE F OLLOWING WORDS HAVE THE MEANINGS 
+INDICATED . 
+ 
+  (2) “CARRIER” HAS THE MEANING STAT ED IN § 15–1301  OF THE 
+INSURANCE ARTICLE . 
+ 
+  (3) “HEALTH CARE PROVIDER ” HAS THE MEANING STAT ED IN §  
+19–108.3  OF THIS SUBTITLE . 
+ 
+ (B) (1) ON OR BEFORE JULY 1, 2026,  A CARRIER SHALL ESTA BLISH AND 
+MAINTAIN AN ONLINE P ROCESS THAT : 
+ 
+   (I) LINKS DIRECTLY TO ALL  E–PRESCRIBING SYSTEMS AND 
+ELECTRONIC HEALTH RE CORD SYSTEMS THAT US E THE NATIONAL COUNCIL FOR 
+PRESCRIPTION DRUG PROGRAMS SCRIPT  STANDARD AND THE NATIONAL 
+COUNCIL FOR PRESCRIPTION DRUG PROGRAMS REAL TIME BENEFIT STANDARD ; 
+ 
+   (II) CAN ACCEPT ELECTRONIC  PRIOR AUTHORIZATION 
+REQUESTS FROM A HEAL TH CARE PROVIDER ; 
+ 
+   (III) CAN APPROVE ELECTRONI C PRIOR AUTHORIZATIO N 
+REQUESTS : 
+ 
+    1. FOR WHICH NO ADDITIONAL INFORMATION IS 
+NEEDED BY THE CARRIE R TO PROCESS THE PRI OR AUTHORIZATION REQ UEST ; 
+ 
+    2. FOR WHICH NO CLINICAL  REVIEW IS REQUIRED ; AND 
+ 
+    3. THAT MEET THE CARRIER ’S CRITERIA FOR 
+APPROVAL ; AND 
+ 
+   (IV) LINKS DIRECTLY TO REA L–TIME PATIE NT OUT–OF–POCKET 
+COSTS , INCLUDING COPAYMENT , DEDUCTIBLE , AND COINSURANCE COST S, AND 
+MORE AFFORDABLE MEDI CATION ALTERNATIVES MADE AVAILABLE BY TH E 
+CARRIER . 
+ 
+ WES MOORE, Governor  Ch. 847  
+ 
+– 3 –   (2) A CARRIER MAY NOT : 
+ 
+   (I) IMPOSE A FEE OR CHARG E ON A PERSON FOR AC CESSING 
+THE ONLINE PROCESS  REQUIRED UNDER PARAG RAPH (1) OF THIS SUBSECTION ; OR 
+ 
+   (II) ACCESS , WITHOUT HEALTH CARE PROVIDER CONSENT , 
+HEALTH CARE PROVIDER  DATA VIA THE ONLINE PROCESS OTHER THAN F OR THE 
+INSURED OR ENROLLEE . 
+ 
+ (C) ON OR BEFORE JULY 1, 2025,  A CARRIER SHALL : 
+ 
+  (1) ON REQUEST OF A HEALTH CARE PROVIDER , PROVIDE CONTACT 
+INFORMATION FOR EACH  THIRD–PARTY VENDOR OR OTHE R ENTITY THAT THE 
+CARRIER WILL USE TO MEET THE REQUIREMENT S OF SUBSECTION (B) OF THIS 
+SECTION ; AND 
+ 
+  (2) POST THE CONTACT INFO RMATION REQUIRED TO BE PROVIDE D 
+UNDER ITEM (1) OF THIS SUBSECTION O N ITS WEBSITE . 
+ 
+ (D) (1) ON OR BEFORE JULY 1, 2026,  EACH HEALTH CARE PRO VIDER 
+SHALL ENSURE THAT EA CH E–PRESCRIBING SYSTEM O R ELECTRONIC HEALTH 
+RECORD SYSTEM OWNED OR CONTRACTED FOR BY  THE HEALTH CARE PROV IDER TO 
+MAINTAI N A HEALTH RECORD OF  AN INSURED OR ENROLL EE HAS THE ABILITY T O 
+ACCESS , AT THE POINT OF PRES CRIBING : 
+ 
+   (I) THE ELECTRONIC PRIOR AUTHORIZATION PROCES S 
+ESTABLISHED BY A CAR RIER UNDER SUBSECTIO N (B) OF THIS SECTION ; AND 
+ 
+   (II) THE REAL –TIME PATIENT OUT–OF–POCKET COST 
+INFORMATION AND AVAI LABLE MEDICATION ALT ERNATIVES REQUIRED U NDER 
+SUBSECTION (B) OF THIS SECTION . 
+ 
+  (2) THE COMMISSION SHALL ESTA BLISH BY REGULATION A PROCESS 
+THROUGH WHICH A HEAL TH CARE PROVIDER MAY  REQUEST AND RECEIVE A WAIVER 
+OF COMPL IANCE FROM THE REQUI REMENTS OF THIS SUBS ECTION . 
+ 
+ (E) (1) ON OR BEFORE JULY 1, 2026,  EACH CARRIER , OR A PHARMACY 
+BENEFITS MANAGER ON BEHALF OF THE CARRIE R, SHALL : 
+ 
+   (I) PROVIDE REAL –TIME PATIENT –SPECIFIC BENEFIT 
+INFORMATION TO INSUR EDS AND ENROLLEES AN D CONTRACTED HEALTH CA RE 
+PROVIDERS , INCLUDING ANY OUT –OF–POCKET COSTS AND MOR E AFFORDABLE 
+MEDICATION ALTERNATI VES OR PRIOR AUTHORI ZATION REQUIREMENTS ; AND 
+ 
+Ch. 847  2024 LAWS OF MARYLAND   
+ 
+– 4 –    (II) ENSURE THAT THE INFOR MATION PROVIDED UNDE R ITEM 
+(I) OF THIS PARAGRAPH IS  ACCURATE . 
+ 
+  (2) EACH  CARRIER , OR A PHARMACY BENEFI TS MANAGER ON BEHALF  
+OF THE CARRIER , SHALL MAKE AVAILABLE  THE INFORMATION REQU IRED TO BE 
+PROVIDED UNDER PARAG RAPH (1) OF THIS SUBSECTION T O THE HEALTH CARE 
+PROVIDER AT THE POIN T OF PRESCRIBING IN AN ACCESSIBLE AND 
+UNDERSTANDAB LE FORMAT , SUCH AS THROUGH THE HEALTH CARE PROVIDER ’S  
+E–PRESCRIBING SYSTEM O R ELECTRONIC HEALTH RECORD SYSTEM THAT T HE 
+CARRIER , PHARMACY BENEFITS MA NAGER , OR DESIGNATED SUBCON TRACTOR HAS 
+ADOPTED THAT USES TH E NATIONAL COUNCIL FOR PRESCRIPTION DRUG 
+PROGRAM S SCRIPT  STANDARD AND THE NATIONAL COUNCIL FOR PRESCRIPTION 
+DRUG PROGRAMS REAL TIME BENEFIT STANDARD FROM WHICH T HE HEALTH 
+CARE PROVIDER MAKES THE REQUEST . 
+ 
+Article – Insurance  
+ 
+15–851. 
+ 
+ (a) (1) This section applies to:  
+ 
+   (i) insurers and nonprofit heal th service plans that provide coverage 
+for substance use disorder benefits or prescription drugs under individual, group, or 
+blanket health insurance policies or contracts that are issued or delivered in the State; and  
+ 
+   (ii) health maintenance organizat ions that provide coverage for 
+substance use disorder benefits or prescription drugs under individual or group contracts 
+that are issued or delivered in the State.  
+ 
+  (2) An insurer, a nonprofit health service plan, or a health maintenance 
+organization tha t provides coverage for substance use disorder benefits under the medical 
+benefit or for prescription drugs through a pharmacy benefits manager is subject to the 
+requirements of this section.  
+ 
+ (b) An entity subject to this section may not apply a prior au thorization 
+requirement for a prescription drug:  
+ 
+  (1) when used for treatment of an opioid use disorder; and  
+ 
+  (2) that contains methadone, buprenorphine, or naltrexone.  
+ 
+15–854. 
+ 
+ (a) (1) This section applies to:  
+ 
+ WES MOORE, Governor  Ch. 847  
+ 
+– 5 –    (i) insurers and nonprofit health service plans that provide coverage 
+for prescription drugs through a pharmacy benefit under individual, group, or blanket 
+health insurance policies or contracts that are issued or delivered in the State; and  
+ 
+   (ii) health maintenance organizations that p rovide coverage for 
+prescription drugs through a pharmacy benefit under individual or group contracts that 
+are issued or delivered in the State.  
+ 
+  (2) An insurer, a nonprofit health service plan, or a health maintenance 
+organization that provides coverage  for prescription drugs through a pharmacy benefits 
+manager or that contracts with a private review agent under Subtitle 10B of this article is 
+subject to the requirements of this section.  
+ 
+  (3) This section does not apply to a managed care organization a s defined 
+in § 15 –101 of the Health – General Article.  
+ 
+ (b) (1) (i) If an entity subject to this section requires a prior authorization 
+for a prescription drug, the prior authorization request shall allow a health care provider 
+to indicate whether a presc ription drug is to be used to treat a chronic condition.  
+ 
+   (ii) If a health care provider indicates that the prescription drug is 
+to treat a chronic condition, an entity subject to this section may not request a 
+reauthorization for a repeat prescription for the prescription drug for 1 year or for the 
+standard course of treatment for the chronic condition being treated, whichever is less.  
+ 
+  (2) For a prior authorization that is filed electronically, the entity shall 
+maintain a database that will prepopulate prior authorization requests with an insured’s 
+available insurance and demographic information.  
+ 
+ (c) [If an entity subject to this section denies coverage for a prescription drug, the 
+entity shall provide a detailed written explanation for the  denial of coverage, including 
+whether the denial was based on a requirement for prior authorization.  
+ 
+ (d)] (1) On receipt of information documenting a prior authorization from the 
+insured or from the insured’s health care provider, an entity subject to t his section shall 
+honor a prior authorization granted to an insured from a previous entity for at least the 
+[initial 30 ] LESSER OF 90 days [of an insured’s prescription drug benefit coverage under 
+the health benefit plan of the new entity ] OR THE LENGTH OF  THE COURSE OF 
+TREATMENT . 
+ 
+  (2) During the time period described in paragraph (1) of this subsection, an 
+entity may perform its own review to grant a prior authorization for the prescription drug.  
+ 
+ [(e)] (D) (1) An entity subject to this section shall ho nor a prior authorization 
+issued by the entity for a prescription drug AND MAY NOT REQUIRE A HEALTH CARE 
+Ch. 847  2024 LAWS OF MARYLAND   
+ 
+– 6 – PROVIDER TO SUBMIT A  REQUEST FOR ANOTHER PRIOR AUTHORIZATION FOR THE 
+PRESCRIPTION DRUG : 
+ 
+   (i) if the insured changes health benefit plans that are both covered 
+by the same entity and the prescription drug is a covered benefit under the current health 
+benefit plan; or  
+ 
+   (ii) except as provided in paragraph (2) of this subsection, when the 
+dosage for the approved prescription drug changes and the cha nge is consistent with federal 
+Food and Drug Administration labeled dosages.  
+ 
+  (2) [An] EXCEPT AS PROVIDED IN  § 15–851 OF THIS SUBTITLE , AN 
+entity may [not be required to honor ] REQUIRE  a prior authorization for a change in dosage 
+for an opioid under this  subsection.  
+ 
+ [(f)] (E) (1) If an entity under this section implements a new prior 
+authorization requirement for a prescription drug, the entity shall provide notice of the new 
+requirement at least [30] 60 days before the implementation of a new prior aut horization 
+requirement:  
+ 
+  [(1)] (I) in writing to any insured who is prescribed the prescription drug; 
+and 
+ 
+  [(2)] (II) either in writing or electronically to all contracted health care 
+providers.  
+ 
+  (2) THE NOTICE REQUIRED U NDER PARAGRAPH (1) OF THIS 
+SUBSECTION SHALL IND ICATE THAT THE INSUR ED MAY REMAIN ON THE  
+PRESCRIPTION DRUG AT  THE TIME OF REAUTHOR IZATION IN ACCORDANC E WITH 
+SUBSECTION (G) OF THIS SECTION . 
+ 
+ [(g)] (F) (1) Except as provided in paragraph (2) of this subsection, an entity 
+subject to th is section may not require more than one prior authorization if two or more 
+tablets of different dosage strengths of the same prescription drug are:  
+ 
+   (i) prescribed at the same time as part of an insured’s treatment 
+plan; and  
+ 
+   (ii) manufactured by th e same manufacturer.  
+ 
+  (2) This subsection does not prohibit an entity from requiring more than 
+one prior authorization if the prescription is for two or more tablets of different dosage 
+strengths of an opioid that is not an opioid partial agonist.  
+ 
+ WES MOORE, Governor  Ch. 847  
+ 
+– 7 –  (G) (1) THIS SUBSECTION DOES NOT APPLY WITH RESPE CT TO A  
+REAUTHORIZATION OF A  PRESCRIPTION DRUG RE QUESTED BY A PROVIDE R 
+EMPLOYED BY A GROUP MODEL HEALTH MAINTEN ANCE ORGANIZATION , AS DEFINED  
+IN § 19–713.6  OF THE HEALTH – GENERAL ARTICLE . 
+ 
+  (2) AN ENTITY SUBJEC T TO THIS SECTION MA Y NOT ISSUE AN 
+ADVERSE DECISION ON A REAUTHORIZATION FO R THE SAME PRESCRIPT ION DRUG 
+OR REQUEST ADDITIONA L DOCUMENTATION FROM  THE PRESCRIBER FOR T HE 
+REAUTHORIZATION REQU EST IF : 
+ 
+   (I) THE PRESCRIPTION DRU G IS: 
+ 
+    1. AN IMMUNE GLOBULIN  (HUMAN ) AS DEFINED IN 21 
+C.F.R.  § 640.100;  OR 
+ 
+    2. USED  FOR THE TREATMENT OF  A MENTAL DISORDER 
+LISTED IN THE MOST R ECENT EDITION OF THE  DIAGNOSTIC AND STATISTICAL 
+MANUAL OF MENTAL DISORDERS PUBLISHED B Y THE AMERICAN PSYCHIATRIC 
+ASSOCIATION ;  
+ 
+   (I) (II) THE ENTITY PREVIOUSL Y APPROVED A PRIOR 
+AUTHORIZATION FOR TH E PRESCRIPTION DRUG FOR THE INSURED ; 
+ 
+   (II) (III) THE INSURED HAS BEEN  TREATED WITH THE 
+PRESCRIPTION DRUG WI THOUT INTERRUPTION S INCE THE INITIAL APP ROVAL OF 
+THE PRIOR AUTHORIZAT ION; AND  
+ 
+   (III) (IV) THE PRESCRIBER ATTES TS THAT , BASED ON THE 
+PRESCRIBER ’S PROFESSIONAL JUDGM ENT, THE PRESCRIPTION DRU G CONTINUES 
+TO BE NECESSARY TO E FFECTIVELY TREAT THE  INSURED ’S CONDITION . 
+ 
+  (3) (2) IF THE PRESCRIPTION D RUG THAT IS BEING RE QUESTED HAS 
+BEEN REMO VED FROM THE FORMULA RY OR HAS BEEN MOVED  TO A HIGHER 
+DEDUCTIBLE , COPAYMENT , OR COINSURANCE TIER , THE ENTITY SHALL PRO VIDE  
+THE INSURED AND INSU RED’S HEALTH CARE PROVID ER THE INFORMATION 
+REQUIRED UNDER § 15–831 OF THIS SUBTITLE . 
+ 
+15–854.1.  
+ 
+ (A) (1) IN THIS SECTION THE FOLLOWIN G WORDS HAVE THE MEA NINGS 
+INDICATED . 
+ 
+Ch. 847  2024 LAWS OF MARYLAND   
+ 
+– 8 –   (2) “ACTIVE COURSE OF TREA TMENT” MEANS A COURSE OF 
+TREATMENT FOR WHICH AN INSURED IS ACTIVE LY SEEING A HEALTH C ARE 
+PROVIDER AND FOLLOWI NG THE COURSE OF TRE ATMENT . 
+ 
+  (3) “COURSE OF TREATMENT ” MEAN S TREATMENT THAT : 
+ 
+   (I) IS PRESCRIBED TO TRE AT OR ORDERED FOR TH E 
+TREATMENT OF AN INSU RED WITH A SPECIFIC CONDITION ; 
+ 
+   (II) IS OUTLINED AND AGRE ED TO BY THE INSURED  AND THE 
+HEALTH CARE PROVIDER  BEFORE THE TREATMENT  BEGINS ; AND 
+ 
+   (III) MAY BE PART OF A TREATMENT PLAN . 
+ 
+ (B) (1) THIS SECTION APPLIES TO: 
+ 
+   (I) INSURERS AND NONPROF IT HEALTH SERVICE PL ANS THAT 
+PROVIDE HOSPITAL , MEDICAL , OR SURGICAL BENEFITS  TO INDIVIDUALS OR GR OUPS 
+ON AN EXPENSE –INCURRED BASIS UNDER  HEALTH INSURANCE POL ICIES OR 
+CONTRACTS  THAT ARE ISSUED OR D ELIVERED IN THE STATE ; AND 
+ 
+   (II) HEALTH MAINTENANCE O RGANIZATIONS THAT PR OVIDE 
+HOSPITAL , MEDICAL , OR SURGICAL BENEFITS  TO INDIVIDUALS OR GR OUPS UNDER 
+CONTRACTS THAT ARE I SSUED OR DELIVERED I N THE STATE . 
+ 
+  (2) AN INSURER , A NONPROFI T HEALTH SERVICE PLA N, OR A HEALTH 
+MAINTENANCE ORGANIZA TION THAT CONTRACTS WITH A PRIVATE REVIE W AGENT 
+UNDER SUBTITLE 10B  OF THIS TITLE IS SUB JECT TO THE REQUIREM ENTS OF THIS 
+SECTION . 
+ 
+  (3) AN INSURER , A NONPROFIT HEALTH S ERVICE PLAN , OR A HEALTH 
+MAINTENA NCE ORGANIZATION THA T CONTRACTS WITH A T HIRD PARTY TO 
+DISPENSE MEDICAL DEV ICES, MEDICAL APPLIANCES , OR MEDICAL GOODS FOR  THE 
+TREATMENT OF A HUMAN  DISEASE OR DYSFUNCTI ON IS SUBJECT TO THE  
+REQUIREMENTS OF THIS  SECTION . 
+ 
+ (C) (1) NOTWITHSTANDING § 15–854 OF T HIS SUBTITLE AS IT A PPLIES TO 
+COVERAGE FOR PRESCRI PTION DRUGS , AN ENTITY SUBJECT TO  THIS SECTION 
+SHALL APPROVE A REQU EST FOR THE PRIOR AU THORIZATION OF A COU RSE OF 
+TREATMENT , INCLUDING FOR CHRONI C CONDITIONS , REHABILITATIVE SERVI CES, 
+SUBSTANCE USE DISORD ERS, AND MENTAL HEALTH CO NDITIONS , THAT IS : 
+ 
+ WES MOORE, Governor  Ch. 847  
+ 
+– 9 –    (I) FOR A PERIOD OF TIME  THAT IS AS LONG AS N ECESSARY TO 
+AVOID DISRUPTIONS IN  CARE ; AND 
+ 
+   (II) DETERMINED IN ACCORD ANCE WITH APPLICABLE  
+COVERAGE CRITERIA , THE INSURED ’S MEDICAL HISTORY , AND THE HEALTH CARE 
+PROVIDER’S RECOMMENDATION . 
+ 
+  (2) FOR NEW ENROLLEES , AN ENTITY SUBJECT TO  THIS SECTION MAY 
+NOT DISRUPT OR REQUI RE REAUTHORIZATION F OR AN ACTIVE COURSE OF 
+TREATMENT FOR COVERED SERVICES  FOR AT LEAST 90 DAYS AFTER THE DATE OF 
+ENROLLMENT . 
+ 
+15–10A–01. 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  
+ 
+ (b) (1) “Adverse decision” means:  
+ 
+   (i) a utilization review determination by a private review agent, a 
+carrier, or a health care provider acting on behalf of a carrier that:  
+ 
+    1. a prop osed or delivered health care service covered under 
+the member’s contract is or was not medically necessary, appropriate, or efficient; and  
+ 
+    2. may result in noncoverage of the health care service; or  
+ 
+   (ii) a denial by a carrier of a request by a member for an alternative 
+standard or a waiver of a standard to satisfy the requirements of a wellness program under 
+§ 15–509 of this title.  
+ 
+  (2) “ADVERSE DECISION ” INCLUDES A UTILIZATI ON REVIEW 
+DETERMINATION BASED ON A PRIOR AUTHORIZA TION OR STEP THERAP Y 
+REQUIREMENT . 
+ 
+  [(2)] (3) “Adverse decision” does not include a decision concerning a 
+subscriber’s status as a member.  
+ 
+ (c) “Carrier” means a person that offers a health benefit plan and is:  
+ 
+  (1) an authorized insurer that provides health insurance in  the State;  
+ 
+  (2) a nonprofit health service plan;  
+ 
+  (3) a health maintenance organization;  
+ 
+Ch. 847  2024 LAWS OF MARYLAND   
+ 
+– 10 –   (4) a dental plan organization;  
+ 
+  (5) a self –funded student health plan operated by an independent 
+institution of higher education, as defined in § 10 –101 of the Education Article, that 
+provides health care to its students and their dependents; or  
+ 
+  (6) except for a managed care organization as defined in Title 15, Subtitle 
+1 of the Health – General Article, any other person that provides health benefit plans 
+subject to regulation by the State.  
+ 
+ (d) “Complaint” means a protest filed with the Commissioner involving an 
+adverse decision or grievance decision concerning the member.  
+ 
+ (e) “Designee of the Commissioner” means any person to whom the Commissioner 
+has delegated the authority to review and decide complaints filed under this subtitle, 
+including an administrative law judge to whom the authority to conduct a hearing has been 
+delegated for recommended or final decision.  
+ 
+ (f) “Grievance” means a protest filed by a member, a member’s representative, or 
+a health care provider on behalf of a member with a carrier through the carrier’s internal 
+grievance process regarding an adverse decision concerning the member.  
+ 
+ (g) “Grievance decision” means a final dete rmination by a carrier that arises from 
+a grievance filed with the carrier under its internal grievance process regarding an adverse 
+decision concerning a member.  
+ 
+ (h) “Health Advocacy Unit” means the Health Education and Advocacy Unit in 
+the Division of Consumer Protection of the Office of the Attorney General established under 
+Title 13, Subtitle 4A of the Commercial Law Article.  
+ 
+ (i) “Health benefit plan” has the meaning stated in § 2 –112.2(a) of this article.  
+ 
+ (j) “Health care provider” means:  
+ 
+  (1) an individual who is licensed under the Health Occupations Article to 
+provide health care services in the ordinary course of business or practice of a profession 
+and is a treating provider of the member; or  
+ 
+  (2) a hospital, as defined in § 19 –301 of the Health – General Article.  
+ 
+ (k) “Health care service” means a health or medical care procedure or service 
+rendered by a health care provider that:  
+ 
+  (1) provides testing, diagnosis, or treatment of a human disease or 
+dysfunction; [or] 
+ 
+ WES MOORE, Governor  Ch. 847  
+ 
+– 11 –   (2) dispenses dru gs, medical devices, medical appliances, or medical goods 
+for the treatment of a human disease or dysfunction ; OR 
+ 
+  (3) PROVIDES ANY OTHER C ARE, SERVICE , OR TREATMENT OF 
+DISEASE OR INJURY , THE CORRECTION OF DE FECTS , OR THE MAINTENANCE O F 
+PHYSICAL OR MENTA L WELL–BEING OF INDIVIDUALS . 
+ 
+ (l) (1) “Member” means a person entitled to health care benefits under a 
+policy, plan, or certificate issued or delivered in the State by a carrier.  
+ 
+  (2) “Member” includes:  
+ 
+   (i) a subscriber; and  
+ 
+   (ii) unless preempted by federal law, a Medicare recipient.  
+ 
+  (3) “Member” does not include a Medicaid recipient.  
+ 
+ (m) “Member’s representative” means an individual who has been authorized by 
+the member to file a grievance or a complaint on the member’s behalf.  
+ 
+ (n) “Private review agent” has the meaning stated in § 15 –10B–01 of this title.  
+ 
+15–10A–02. 
+ 
+ (a) Each carrier shall establish an internal grievance process for its members.  
+ 
+ (b) (1) An internal grievance process shall meet the same requirements 
+established  under Subtitle 10B of this title.  
+ 
+  (2) In addition to the requirements of Subtitle 10B of this title, an internal 
+grievance process established by a carrier under this section shall:  
+ 
+   (i) include an expedited procedure for use in an emergency case fo r 
+purposes of rendering a grievance decision within 24 hours of the date a grievance is filed 
+with the carrier;  
+ 
+   (ii) provide that a carrier render a final decision in writing on a 
+grievance within 30 working days after the date on which the grievance i s filed unless:  
+ 
+    1. the grievance involves an emergency case under item (i) of 
+this paragraph;  
+ 
+    2. the member, the member’s representative, or a health care 
+provider filing a grievance on behalf of a member agrees in writing to an extension for a 
+period of no longer than 30 working days; or  
+Ch. 847  2024 LAWS OF MARYLAND   
+ 
+– 12 –  
+    3. the grievance involves a retrospective denial under item 
+(iv) of this paragraph;  
+ 
+   (iii) allow a grievance to be filed on behalf of a member by a health 
+care provider or the member’s representative;  
+ 
+   (iv) provide that a carrier render a final decision in writing on a 
+grievance within 45 working days after the date on which the grievance is filed when the 
+grievance involves a retrospective denial; and  
+ 
+   (v) for a retrospective denial, allow a member,  the member’s 
+representative, or a health care provider on behalf of a member to file a grievance for at 
+least 180 days after the member receives an adverse decision.  
+ 
+  (3) For purposes of using the expedited procedure for an emergency case 
+that a carrier  is required to include under paragraph (2)(i) of this subsection, the 
+[Commissioner shall define by regulation the standards required for a grievance to be 
+considered an emergency case ] CARRIER SHALL INITIA TE THE EXPEDITED PRO CEDURE 
+FOR AN EMERGENCY CAS E IF THE MEMBER OR THE ME MBER’S REPRESENTATIVE 
+REQUESTS THE EXPEDIT ED REVIEW OR  THE HEALTH CARE PROV IDER OR THE 
+MEMBER OR THE MEMBER ’S REPRESENTATIVE  ATTESTS THAT : 
+ 
+   (I) THE ADVERSE DECISION  WAS RENDERED FOR HEA LTH CARE 
+SERVICES THAT ARE PR OPOSED BUT HAVE NOT BEEN PROVIDED ; AND 
+ 
+   (II) THE SERVICES ARE NEC ESSARY TO TREAT A CO NDITION OR 
+ILLNESS THAT , WITHOUT IMMEDIATE ME DICAL ATTENTION , WOULD : 
+ 
+    1. SERIOUSLY JEOPARDIZE  THE LIFE OR HEALTH O F THE 
+MEMBER OR THE MEMBER ’S ABILITY TO REGAIN MAXIMUM FUNCTIONS ; 
+ 
+    2. CAUSE THE MEMBER TO BE IN DANGER TO SELF  OR 
+OTHERS ; OR 
+ 
+    3. CAUSE THE MEMBER TO CONTINUE USING 
+INTOXICATING SUBSTAN CES IN AN IMMINENTLY  DANGEROUS MANNER . 
+ 
+ (c) Except as provided in subsection (d) of this section, the carrier’s internal 
+grievanc e process shall be exhausted prior to filing a complaint with the Commissioner 
+under this subtitle.  
+ 
+ (d) (1) (i) A member, the member’s representative, or a health care 
+provider filing a complaint on behalf of a member may file a complaint with the 
+ WES MOORE, Governor  Ch. 847  
+ 
+– 13 – Commis sioner without first filing a grievance with a carrier and receiving a final decision 
+on the grievance if:  
+ 
+    1. the carrier waives the requirement that the carrier’s 
+internal grievance process be exhausted before filing a complaint with the Commissioner;  
+ 
+    2. the carrier has failed to comply with any of the 
+requirements of the internal grievance process as described in this section; or  
+ 
+    3. the member, the member’s representative, or the health 
+care provider provides sufficient informat ion and supporting documentation in the 
+complaint that demonstrates a compelling reason to do so.  
+ 
+   (ii) The Commissioner shall define by regulation the standards that 
+the Commissioner shall use to decide what demonstrates a compelling reason under 
+subparagraph (i) of this paragraph.  
+ 
+  (2) Subject to subsections (b)(2)(ii) and (h) of this section, a member, a 
+member’s representative, or a health care provider may file a complaint with the 
+Commissioner if the member, the member’s representative, or t he health care provider does 
+not receive a grievance decision from the carrier on or before the 30th working day on which 
+the grievance is filed.  
+ 
+  (3) Whenever the Commissioner receives a complaint under paragraph (1) 
+or (2) of this subsection, the Commi ssioner shall notify the carrier that is the subject of the 
+complaint within 5 working days after the date the complaint is filed with the 
+Commissioner.  
+ 
+ (e) Each carrier shall:  
+ 
+  (1) file for review with the Commissioner and submit to the Health 
+Advocac y Unit a copy of its internal grievance process established under this subtitle; and  
+ 
+  (2) file any revision to the internal grievance process with the 
+Commissioner and the Health Advocacy Unit at least 30 days before its intended use.  
+ 
+ (f) (1) For nonem ergency cases, when a carrier renders an adverse decision, 
+the carrier shall:  
+ 
+  [(1)] (I) inform the member, the member’s representative, or the health 
+care provider acting on behalf of the member of the adverse decision:  
+ 
+   [(i)] 1. orally by telephone;  or 
+ 
+Ch. 847  2024 LAWS OF MARYLAND   
+ 
+– 14 –    [(ii)] 2. with the affirmative consent of the member, the member’s 
+representative, or the health care provider acting on behalf of the member, by text, 
+facsimile, e –mail, an online portal, or other expedited means; and  
+ 
+  [(2)] (II) send, within 5 working days after the adverse decision has been 
+made, a written notice to the member, the member’s representative, and a health care 
+provider acting on behalf of the member that:  
+ 
+   [(i)] 1. states in detail in clear, understandable language the 
+specific  factual bases for the carrier’s decision  AND THE REASONING US ED TO 
+DETERMINE THAT THE H EALTH CARE SERVICE I S NOT MEDICALLY NECE SSARY AND 
+DID NOT MEET THE CAR RIER’S CRITERIA AND STAND ARDS USED IN CONDUCT ING 
+THE UTILIZATION REVI EW; 
+ 
+   [(ii)] 2. [references ] PROVIDES  the specific REFERENCE , 
+LANGUAGE , OR REQUIREMENTS FROM  THE criteria and standards, including ANY 
+interpretive guidelines, on which the decision was based, and may not solely use : 
+ 
+    A. generalized terms such as “experimental procedure not 
+covered”, “cosmetic procedure not covered”, “service included under another procedure”, or 
+“not medically necessary” ; OR 
+ 
+    B. LANGUAGE DIRECTING T HE MEMBER TO REVIEW THE 
+ADDITIONAL COVERAGE CRITERIA IN THE MEMB ER’S POLICY OR PLAN DOC UMENTS ; 
+ 
+   [(iii)] 3. states the name, business address, and business telephone 
+number of:  
+ 
+    [1.] A. IF THE CARRIER IS A HEALTH MAINTENANCE 
+ORGANIZATION , the medical director or associate medical director, as appropriate, who 
+made the decision [if the carrier is a health maintenance organization ]; or 
+ 
+    [2.] B. IF THE CARRIER IS NO T A HEALTH 
+MAINTENANCE ORGANIZA TION , the designated employee or representative of the carrier 
+who has responsibility for the carrier’s internal grievance process [if the carrier is not a 
+health  maintenance organization ] AND THE PHYSICIAN WH O IS REQUIRED TO MAK E 
+ALL ADVERSE DECISION S AS REQUIRED IN § 15–10B–07(A) OF THIS TITLE ; 
+ 
+   [(iv)] 4. gives written details of the carrier’s internal grievance 
+process and procedures under this subtitle; and  
+ 
+   [(v)] 5. includes the following information:  
+ 
+ WES MOORE, Governor  Ch. 847  
+ 
+– 15 –     [1.] A. that the member, the member’s representative, or a 
+health care provider on behalf of the member has a right to file a complaint with the 
+Commissioner within 4 months after receipt of a carrier’s  grievance decision;  
+ 
+    [2.] B. that a complaint may be filed without first filing a 
+grievance if the member, the member’s representative, or a health care provider filing a 
+grievance on behalf of the member can demonstrate a compelling reason to do so a s 
+determined by the Commissioner;  
+ 
+    [3.] C. the Commissioner’s address, telephone number, 
+and facsimile number;  
+ 
+    [4.] D. a statement that the Health Advocacy Unit is 
+available to assist the member or the member’s representative in both mediating and  filing 
+a grievance under the carrier’s internal grievance process; and  
+ 
+    [5.] E. the address, telephone number, facsimile number, 
+and electronic mail address of the Health Advocacy Unit.  
+ 
+  (2) THE BUSINESS TELEPHON E NUMBER INCLUDED IN  THE NOTICE AS 
+REQUIRED UNDER PARAGRA PH (1)(II)3 OF THIS SUBSECTION M UST BE A DEDICATED 
+NUMBER FOR ADVERSE D ECISIONS AND MAY NOT  BE THE GENERAL CUSTO MER CALL 
+NUMBER FOR THE CARRI ER. 
+ 
+ (g) If within 5 working days after a member, the member’s representative, or a 
+health car e provider, who has filed a grievance on behalf of a member, files a grievance 
+with the carrier, and if the carrier does not have sufficient information to complete its 
+internal grievance process, the carrier shall:  
+ 
+  (1) AFTER CONFIRMING THR OUGH A COMPLETE REVIEW OF A NY 
+INFORMATION ALREADY SUBMITTED BY THE HEA LTH CARE PROVIDER : 
+ 
+   (I) notify the member, the member’s representative, or the health 
+care provider that it cannot proceed with reviewing the grievance unless additional 
+information is provi ded; 
+ 
+   (II) REQUEST THE SPECIFIC  INFORMATION , INCLUDING ANY 
+LAB OR DIAGNOSTIC TE ST OR OTHER MEDICAL INFORMATION THAT MUS T BE 
+SUBMITTED TO COMPLET E THE INTERNAL GRIEV ANCE PROCESS ; AND 
+ 
+   (III) PROVIDE THE SPECIFIC  REFERENCE , LANGUAGE , OR 
+REQUIREMENTS FRO M THE CRITERIA AND S TANDARDS USED BY THE  CARRIER TO 
+SUPPORT THE NEED FOR  THE ADDITIONAL INFOR MATION ; and  
+ 
+Ch. 847  2024 LAWS OF MARYLAND   
+ 
+– 16 –   (2) assist the member, the member’s representative, or the health care 
+provider in gathering the necessary information without further delay.  
+ 
+ (h) A carrier may extend the 30 –day or 45 –day period required for making a final 
+grievance decision under subsection (b)(2)(ii) of this section with the written consent of the 
+member, the member’s representative, or the health care provider who filed the griev ance 
+on behalf of the member.  
+ 
+ (i) (1) For nonemergency cases, when a carrier renders a grievance decision, 
+the carrier shall:  
+ 
+   (i) document the grievance decision in writing after the carrier has 
+provided oral communication of the decision to the memb er, the member’s representative, 
+or the health care provider acting on behalf of the member; and  
+ 
+   (ii) send, within 5 working days after the grievance decision has been 
+made, a written notice to the member, the member’s representative, and a health care  
+provider acting on behalf of the member that:  
+ 
+    1. states in detail in clear, understandable language the 
+specific factual bases for the carrier’s decision AND THE REASONING US ED TO 
+DETERMINE THAT THE H EALTH CARE SERVICE I S NOT MEDICALLY NECE SSARY AND 
+DID NOT MEET THE CAR RIER’S CRITERIA AND STAND ARDS USED IN CONDUCT ING 
+UTILIZATION REVIEW ; 
+ 
+    2. [references ] PROVIDES  the specific REFERENCE , 
+LANGUAGE , OR REQUIREMENTS FROM  THE criteria and standards, including ANY 
+interpretive guidelines USED BY THE CARR IER, on which the grievance decision was 
+based;  
+ 
+    3. states the name, business address, and business telephone 
+number of:  
+ 
+    A. IF THE CARRIER IS A HEALTH MAINTENANCE 
+ORGANIZATION , the medical director or associate medical director, as appropriate, wh o 
+made the grievance decision; or  
+ 
+    B. IF THE CARRIER IS NO T A HEALTH MAINTENAN CE 
+ORGANIZATION , the designated employee or representative of the carrier who has 
+responsibility for the carrier’s internal grievance process [if the carrier is not a health 
+maintenance organization ] AND THE DESIGNATED E MPLOYEE OR REPRESENT ATIVE’S 
+TITLE AND CLINICAL S PECIALTY ; and  
+ 
+    4. includes the following information:  
+ 
+ WES MOORE, Governor  Ch. 847  
+ 
+– 17 –     A. that the member or the member’s representative has a 
+right to file a complaint with the Commissi oner within 4 months after receipt of a carrier’s 
+grievance decision;  
+ 
+    B. the Commissioner’s address, telephone number, and 
+facsimile number;  
+ 
+    C. a statement that the Health Advocacy Unit is available to 
+assist the member or the member’s representa tive in filing a complaint with the 
+Commissioner; and  
+ 
+    D. the address, telephone number, facsimile number, and 
+electronic mail address of the Health Advocacy Unit.  
+ 
+  (2) THE BUSINESS TELEPHON E NUMBER INCLUDED IN  THE NOTICE AS 
+REQUIRED UNDER PARAG RAPH (1)(II)3 OF THIS SUBSECTION M UST BE A DEDICATED 
+NUMBER FOR GRIEVANCE  DECISIONS AND MAY NO T BE THE GENERAL CUS TOMER 
+CALL NUMBER FOR THE CARRIER . 
+ 
+  [(2)] (3) [A] TO SATISFY THE REQUIR EMENTS OF THIS SUBSE CTION , 
+A carrier may not use solely in [a] THE WRITTEN  notice sent under paragraph (1) of this 
+subsection : 
+ 
+   (I) generalized terms such as “experimental procedure not covered”, 
+“cosmetic procedure not covered”, “service included under another procedure”, or “not 
+medically necessary” [to satisfy the requirem ents of this subsection ]; OR 
+ 
+   (II) LANGUAGE DIRECTING T HE MEMBER TO REVIEW THE 
+ADDITIONAL COVERAGE CRITERIA IN THE MEMB ER’S POLICY OR PLAN DOC UMENTS . 
+ 
+ (j) (1) For an emergency case under subsection (b)(2)(i) of this section, within 
+1 day after a decisi on has been orally communicated to the member, the member’s 
+representative, or the health care provider, the carrier shall send notice in writing of any 
+adverse decision or grievance decision to:  
+ 
+   (i) the member and the member’s representative, if any; and 
+ 
+   (ii) if the grievance was filed on behalf of the member under 
+subsection (b)(2)(iii) of this section, the health care provider.  
+ 
+  (2) A notice required to be sent under paragraph (1) of this subsection shall 
+include the following:  
+ 
+   (i) for an adverse decision, the information required under 
+subsection (f) of this section; and  
+ 
+Ch. 847  2024 LAWS OF MARYLAND   
+ 
+– 18 –    (ii) for a grievance decision, the information required under 
+subsection (i) of this section.  
+ 
+ (k) (1) Each carrier shall include the information required by subsecti on 
+[(f)(2)(iii), (iv), and (v) ] (F)(1)( II)3, 4, AND 5 of this section in the policy, plan, certificate, 
+enrollment materials, or other evidence of coverage that the carrier provides to a member 
+at the time of the member’s initial coverage or renewal of cov erage.  
+ 
+  (2) Each carrier shall include as part of the information required by 
+paragraph (1) of this subsection a statement indicating that, when filing a complaint with 
+the Commissioner, the member or the member’s representative will be required to 
+autho rize the release of any medical records of the member that may be required to be 
+reviewed for the purpose of reaching a decision on the complaint.  
+ 
+ (l) (1) Nothing in this subtitle prohibits a carrier from delegating its internal 
+grievance process to a pr ivate review agent that has a certificate issued under Subtitle 10B 
+of this title and is acting on behalf of the carrier.  
+ 
+  (2) If a carrier delegates its internal grievance process to a private review 
+agent, the carrier shall be:  
+ 
+   (i) bound by the gri evance decision made by the private review 
+agent acting on behalf of the carrier; and  
+ 
+   (ii) responsible for a violation of any provision of this subtitle 
+regardless of the delegation made by the carrier under paragraph (1) of this subsection.  
+ 
+15–10A–04. 
+ 
+ (c) (1) It is a violation of this subtitle for a carrier to fail to fulfill the carrier’s 
+obligations to provide or reimburse for health care services specified in the carrier’s policies 
+or contracts with members.  
+ 
+  (2) If, in rendering an adverse dec ision or grievance decision, a carrier fails 
+to fulfill the carrier’s obligations to provide or reimburse for health care services specified 
+in the carrier’s policies or contracts with members, the Commissioner may:  
+ 
+   (i) issue an administrative order th at requires the carrier to:  
+ 
+    1. cease inappropriate conduct or practices by the carrier or 
+any of the personnel employed or associated with the carrier;  
+ 
+    2. fulfill the carrier’s contractual obligations;  
+ 
+    3. provide a health care service or payment that has been 
+denied improperly; or  
+ WES MOORE, Governor  Ch. 847  
+ 
+– 19 –  
+    4. take appropriate steps to restore the carrier’s ability to 
+provide a health care service or payment that is provided under a contract; or  
+ 
+   (ii) impose any penalty or fine or take any action as authorized:  
+ 
+    1. for an insurer, nonprofit health service plan, or dental 
+plan organization, under this article; or  
+ 
+    2. for a health maintenance organization, under the Health 
+– General Article or under this article.  
+ 
+  (3) In addition to paragraph (1) of this subsection, it is a violation of this 
+subtitle, if the Commissioner, in consultation with an independent review organization, 
+medical expert, the Department, or other appropriate entity, determines that the criteria 
+and standards used by a heal th maintenance organization to conduct utilization review are 
+not[: 
+ 
+   (i) objective;  
+ 
+   (ii) clinically valid;  
+ 
+   (iii) compatible with established principles of health care; or  
+ 
+   (iv) flexible enough to allow deviations from norms when justified on 
+a case by case basis ] IN ACCORDANCE WITH § 15–10B–06 § 15–10B–05 OF THIS TITLE . 
+ 
+15–10A–06. 
+ 
+ (a) On [a quarterly ] AN ANNUAL  basis, each carrier shall submit to the 
+Commissioner, on the form the Commissioner requires, a report that describes:  
+ 
+  (1) the activities of the carrier under this subtitle, including:  
+ 
+   (i) the outcome of each grievance filed with the carrier;  
+ 
+   (ii) the number and outcomes of cases that were considered 
+emergency cases under § 15 –10A–02(b)(2)(i) of this subtitle;  
+ 
+   (iii) the time within which the carrier made a grievance decision on 
+each emergency case;  
+ 
+   (iv) the time within which the carrier made a grievance decision on 
+all other cases that were not considered emergency cases;  
+ 
+Ch. 847  2024 LAWS OF MARYLAND   
+ 
+– 20 –    (v) the number of grievances filed wit h the carrier that resulted from 
+an adverse decision involving length of stay for inpatient hospitalization as related to the 
+medical procedure involved; [and] 
+ 
+   (vi) the number of adverse decisions issued by the carrier under §  
+15–10A–02(f) of this sub title, THE TYPE OF UTILIZAT ION REVIEW PROCESS U SED, IF 
+APPLICABLE , WHETHER THE ADVERSE DECISION INVOLVED A PRIOR 
+AUTHORIZATION OR STE P THERAPY PROTOCOL , and the type of service at issue in the 
+adverse decisions; [and] 
+ 
+   (VII) THE TIME WITHIN WHIC H THE CARRIER MADE THE ADV ERSE  
+DECISIONS UNDER EACH  TYPE OF SERVICE AT I SSUE IN THE ADVERSE DECISIONS ; 
+ 
+   (VIII) (VII) THE NUMBER OF ADVERS E DECISIONS OVERTURN ED 
+AFTER A RECONSIDERAT ION REQUEST UNDER § 15–10B–06 OF THIS TITLE ; AND  
+ 
+   (IX) (VIII) THE NUMBER OF REQUESTS MADE AND GR ANTED 
+UNDER § 15–831( C)(1)  AND (2) OF THIS TITLE ; AND  
+ 
+  (2) the number and outcome of all other cases that are not subject to 
+activities of the carrier under this subtitle that resulted from an adverse decision involving 
+the length of stay for inpatient hospitalization as related to the medical procedure involved.  
+ 
+ (b) The Commissioner shall:  
+ 
+  (1) compile an annual summary report based on the information provided:  
+ 
+   (i) under subsection (a) of this section; and  
+ 
+   (ii) by the Secretary under § 19 –705.2(e) of the Health – General 
+Article; [and] 
+ 
+  (2) REPORT ANY VIOLATION S OR ACTIONS TAKEN U NDER §  
+15–10B–11 OF THIS TITLE ; AND  
+ 
+  [(2)] (3) provide copies of the summary report to the Governor and, 
+subject to § 2 –1257 of the State Government Article, to the General Assembly.  
+ 
+15–10A–08. 
+ 
+ (a) On or before November 1, 1999, and each November 1 thereafter, the Health 
+Advocacy Unit shall publish an annual summary report and provide copies of the report to 
+the Governor and, su bject to § 2 –1257 of the State Government Article, the General 
+Assembly.  
+ 
+ WES MOORE, Governor  Ch. 847  
+ 
+– 21 –  (b) (1) The annual summary report required under subsection (a) of this 
+section shall be on the grievances and complaints filed with or referred to a carrier, the 
+Commissioner, the Health Advocacy Unit, or any other federal or State government agency 
+or unit under this subtitle during the previous fiscal year.  
+ 
+  (2) In consultation with the Commissioner and any affected State 
+government agency or unit, the Health Advocacy Unit shall : 
+ 
+   (i) evaluate the effectiveness of the internal grievance process and 
+complaint process available to members; and  
+ 
+   (ii) include in the annual summary report the results of the 
+evaluation and any proposed changes TO THE LAW that it considers necessa ry TO ENSURE 
+COMPLIANCE WITH THE PURPOSES OF THE LAW . 
+ 
+15–10B–01. 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  
+ 
+ (b) (1) “Adverse decision” means a utilization review determination made by a 
+private review agent that a proposed o r delivered health care service:  
+ 
+   (i) is or was not medically necessary, appropriate, or efficient; and  
+ 
+   (ii) may result in noncoverage of the health care service.  
+ 
+  (2) “ADVERSE DECISION ” INCLUDES A UTILIZATI ON REVIEW 
+DETERMINATION BASED ON A PRIOR  AUTHORIZATION OR STE P THERAPY 
+REQUIREMENT . 
+ 
+  [(2)] (3) “Adverse decision” does not include a decision concerning a 
+subscriber’s status as a member.  
+ 
+15–10B–02. 
+ 
+ The purpose of this subtitle is to:  
+ 
+  (1) promote the delivery of quality health care in a cost effective manner 
+THAT ENSURES TIMELY ACCESS TO HEALTH CAR E SERVICES ; 
+ 
+  (2) foster greater coordination , COMMUNICATION , AND TRANSPARENCY  
+between payors , PATIENTS , and providers conducting utilization review activities;  
+ 
+  (3) protect patients, business, and providers by ensuring that private 
+review agents are qualified to perform utilization review activities and to make informed 
+decisions on the appropriateness of medical care; and  
+Ch. 847  2024 LAWS OF MARYLAND   
+ 
+– 22 –  
+  (4) ensure that private review agents maintain the confident iality of 
+medical records in accordance with applicable State and federal laws.  
+ 
+15–10B–05. 
+ 
+ (a) In conjunction with the application, the private review agent shall submit 
+information that the Commissioner requires including:  
+ 
+  (1) a utilization review p lan that includes:  
+ 
+   (i) the specific criteria and standards to be used in conducting 
+utilization review of proposed or delivered health care services;  
+ 
+   (ii) those circumstances, if any, under which utilization review may 
+be delegated to a hospital ut ilization review program; and  
+ 
+   (iii) if applicable, any provisions by which patients , OR physicians, or 
+hospitals , OR OTHER HEALTH CARE  PROVIDERS  may seek reconsideration;  
+ 
+  (2) the type and qualifications of the personnel either employed or under 
+contract to perform the utilization review;  
+ 
+  (3) a copy of the private review agent’s internal grievance process if a 
+carrier delegates its internal grievance process to the private review agent in accordance 
+with § 15 –10A–02(l) of this title;  
+ 
+  (4) the procedures and policies to ensure that a representative of the 
+private review agent is reasonably accessible to patients and health care providers 7 days 
+a week, 24 hours a day in this State;  
+ 
+  (5) if applicable, the procedures and policies to ensure tha t a representative 
+of the private review agent is accessible to health care providers to make all determinations 
+on whether to authorize or certify an emergency inpatient admission, or an admission for 
+residential crisis services as defined in § 15 –840 of this title, for the treatment of a mental, 
+emotional, or substance abuse disorder within 2 hours after receipt of the information 
+necessary to make the determination;  
+ 
+  (6) the policies and procedures to ensure that all applicable State and 
+federal laws t o protect the confidentiality of individual medical records are followed;  
+ 
+  (7) a copy of the materials designed to inform applicable patients and 
+providers of the requirements of the utilization review plan;  
+ 
+  (8) a list of the third party payors for wh ich the private review agent is 
+performing utilization review in this State;  
+ WES MOORE, Governor  Ch. 847  
+ 
+– 23 –  
+  (9) the policies and procedures to ensure that the private review agent has 
+a formal program for the orientation and training of the personnel either employed or under 
+contract  to perform the utilization review;  
+ 
+  (10) a list of the persons involved in establishing the specific criteria and 
+standards to be used in conducting utilization review , INCLUDING EACH PERSO N’S 
+BOARD CERTIFICATION OR PRACTICE SPECIALT Y, LICENSURE CATEGOR Y, AND 
+TITLE WITHIN THE PER SON’S ORGANIZATION ; and  
+ 
+  (11) certification by the private review agent that the criteria and standards 
+to be used in conducting utilization review are GENERALLY RECOGNIZED  BY HEALTH 
+CARE PROVIDERS PRACT ICING IN THE RELEVAN T CL INICAL SPECIALTIES A ND ARE : 
+ 
+   (i) objective;  
+ 
+   (ii) clinically valid;  
+ 
+   [(iii) compatible with established principles of health care; and  
+ 
+   (iv) flexible enough to allow deviations from norms when justified on 
+a case by case basis ] 
+ 
+   (III) REFLECTED IN PUBLISHED  PEER–REVIEWED SCIENTIFIC 
+STUDIES AND MEDICAL LITERATURE ; 
+ 
+   (IV) DEVELOPED BY : 
+ 
+    1. A NONPROFIT HEALTH C ARE PROVIDER 
+PROFESSIONAL MEDICAL  OR CLINICAL SPECIALT Y SOCIETY , INCLUDING THROUGH 
+THE USE OF PATIENT P LACEMENT CRITERIA AN D CLINICAL PRACTICE GU IDELINES ; 
+OR 
+ 
+    2. FOR CRITERIA NOT WIT HIN THE SCOPE OF A 
+NONPROFIT HEALTH CAR E PROVIDER PROFESSIO NAL MEDICAL OR CLINI CAL 
+SPECIALTY SOCIETY , AN ORGANIZATION THAT  WORKS DIRECTLY WITH HEALTH 
+CARE PROVIDERS IN TH E SAME SPECIALTY FOR  THE DESIGNATED CRITERIA WHO 
+ARE EMPLOYED OR ENGA GED WITHIN THE ORGAN IZATION OR OUTSIDE T HE 
+ORGANIZATION TO DEVE LOP THE CLINICAL CRI TERIA , IF THE ORGANIZATION : 
+ 
+    A. DOES NOT RECEIVE DIR ECT PAYMENTS BASED O N THE 
+OUTCOME OF THE UTILI ZATION REVIEW ; AND 
+ 
+Ch. 847  2024 LAWS OF MARYLAND   
+ 
+– 24 –     B. DEMONSTRATES THAT IT S CLINICAL CRITERIA ARE 
+CONSISTENT WITH CRIT ERIA AND STANDARDS G ENERALLY RECOGNIZED BY HEALTH 
+CARE PROVIDERS PRACT ICING IN THE RELEVAN T CLINICAL SPECIALTI ES; 
+ 
+   (V) RECOMMENDED BY FEDER AL AGENCIES ; 
+ 
+   (VI) APPROVED BY THE FEDE RAL FOOD  AND DRUG 
+ADMINISTRATION AS PAR T OF DRUG LABELING ; 
+ 
+   (VII) TAKING INTO ACCOUNT THE NEEDS OF ATYPICA L PATIENT 
+POPULATIONS AND DIAG NOSES , INCLUDING THE UNIQUE  NEEDS OF CHILDREN AN D 
+ADOLESCENTS ; 
+ 
+   (VIII) SUFFICIENTLY FLEXIBL E TO ALLOW DEVIATION S FROM 
+NORMS WHEN JUSTIFIED  ON A CASE –BY–CASE BASIS , INCLUDING THE NEED T O USE 
+AN OFF–LABEL PRESCRIPTION D RUG; 
+ 
+   (IX) ENSURING QUALITY OF CARE OF HEALTH CARE SERVICES ; 
+ 
+   (X) REVIEWED , EVALUATED , AND UPDATED AT LEAST  
+ANNUALLY AND AS NECE SSARY TO REFLECT ANY  CHANGES ; AND 
+ 
+   (XI) IN COMPLIANCE WITH A NY OTHER CRITERIA AN D 
+STANDARDS REQUIRED F OR COVERAGE UNDER TH IS TITLE , INCLUDING 
+COMPLIANCE WITH § 15–802( D) OF THIS TITLE FOR TH E TREATMENT OF SUBST ANCE 
+USE DISORDERS . 
+ 
+ (b) [On the written request of any person or  health care facility, the ] THE private 
+review agent shall [provide 1 copy of ]: 
+ 
+  (1) POST ON ITS WEBSITE OR THE CARRIER ’S WEBSITE the specific 
+criteria and standards to be used in conducting utilization review of proposed or delivered 
+services and any su bsequent revisions, modifications, or additions to the specific criteria 
+and standards to be used in conducting utilization review of proposed or delivered services 
+[to the person or health care facility making the request ]; AND  
+ 
+  (2) ON THE REQUEST OF A PERSON , INCLUDING A HEALTH C ARE 
+FACILITY , PROVIDE A COPY OF TH E INFORMATION SPECIF IED UNDER ITEM (1) OF 
+THIS SUBSECTION TO T HE PERSON MAKING THE  REQUEST . 
+ 
+ (c) The private review agent may charge a reasonable fee for a HARD copy of the 
+specific criteria an d standards or any subsequent revisions, modifications, or additions to 
+the specific criteria to any person or health care facility requesting a copy under subsection 
+[(b)] (B)(2) of this section.  
+ WES MOORE, Governor  Ch. 847  
+ 
+– 25 –  
+ (d) A private review agent shall advise the Commissioner,  in writing, of a change 
+in: 
+ 
+  (1) ownership, medical director, or chief executive officer within 30 days of 
+the date of the change;  
+ 
+  (2) the name, address, or telephone number of the private review agent 
+within 30 days of the date of the change; or  
+ 
+  (3) the private review agent’s scope of responsibility under a contract.  
+ 
+15–10B–06. 
+ 
+ (a) (1) Except as OTHERWISE provided in [paragraph (4) of ] this subsection, 
+a private review agent shall:  
+ 
+   (i) make all initial determinations on whether to authorize or certify 
+a nonemergency course of treatment OR HEALTH CARE SERVI CE, INCLUDING 
+PHARMACEUTICAL SERVI CES NOT SUBMITTED EL ECTRONICALLY , for a patient within 
+2 working days after receipt of the informati on necessary to make the determination;  
+ 
+   (ii) make all determinations on whether to authorize or certify an 
+extended stay in a health care facility or additional health care services within 1 working 
+day after receipt of the information necessary to mak e the determination; [and] 
+ 
+   (III) MAKE ALL DETERMINATI ONS TO AUTHORIZE OR CERTIFY A 
+REQUEST FOR ADDITION AL VISITS OR DAYS OF  CARE SUBMITTED AS PA RT OF AN 
+EXISTING COURSE OF T REATMENT OR TREATMEN T PLAN WITHIN 1 WORKING DAY 
+AFTER RECEIPT OF THE  INFORMATIO N NECESSARY TO MAKE THE DETERMINATION ; 
+AND 
+ 
+   [(iii)] (IV) promptly notify the health care provider of the 
+determination.  
+ 
+  (2) [If within 3 calendar days after ] AFTER  receipt of the initial request 
+for health care services AND CONFIRMING THROU GH A COMPLETE REVIEW  OF 
+INFORMATION ALREADY SUBMITTED BY THE HEA LTH CARE PROVIDER , IF the private 
+review agent DETERMINES THAT THE PRIVATE REVIEW AGENT  does not have sufficient 
+information to make a determination, the private review age nt shall PROMPTLY , BUT NOT 
+LATER THAN 3 CALENDAR DAYS AFTER RECEIPT OF THE INITI AL REQUEST , inform 
+the health care provider that additional information must be provided BY SPECIFYING : 
+ 
+Ch. 847  2024 LAWS OF MARYLAND   
+ 
+– 26 –    (I) THE INFORMATION , INCLUDING ANY LAB OR  DIAGNOSTIC 
+TEST OR OTHER M EDICAL INFORMATION , THAT MUST BE SUBMITT ED TO COMPLETE 
+THE REQUEST ; AND 
+ 
+   (II) THE CRITERIA AND STA NDARDS TO SUPPORT TH E NEED FOR 
+ADDITIONAL INFORMATI ON. 
+ 
+  [(3)] (B) If a private review agent requires prior authorization for an 
+emergency inpatient admission, or an admission for residential crisis services as defined in 
+§ 15–840 of this title, for the treatment of a mental, emotional, or substance abuse disorder, 
+the private review agent shall:  
+ 
+   [(i)] (1) make all determinations on whether to auth orize or certify 
+an inpatient admission, or an admission for residential crisis services as defined in §  
+15–840 of this title, within 2 hours after receipt of the information necessary to make the 
+determination; [and] 
+ 
+  (2) IF ADDITIONAL INFORM ATION IS N EEDED , PROMPTLY REQUEST 
+THE SPECIFIC INFORMA TION NEEDED , INCLUDING ANY LAB OR  DIAGNOSTIC TEST OR 
+OTHER MEDICAL INFORM ATION ; AND 
+ 
+   [(ii)] (3) promptly notify the health care provider of the 
+determination.  
+ 
+  [(4)] (C) (1) For a step therapy exception requ est submitted 
+electronically in accordance with a process established under § 15 –142(f) of this title or a 
+prior authorization request submitted electronically for pharmaceutical services, a private 
+review agent shall make a determination:  
+ 
+   (i) in real time if:  
+ 
+    1. no additional information is needed by the private review 
+agent to process the request; and  
+ 
+    2. the request meets the private review agent’s criteria for 
+approval; or  
+ 
+   (ii) if a request is not approved IN REAL TIME under item (i) of  this 
+paragraph, within 1 [business ] WORKING  day after the private review agent receives all of 
+the information necessary to make the determination.  
+ 
+  (2) IF ADDITIONAL INFORMA TION IS NEEDED TO MA KE A 
+DETERMINATION AFTER CONFIRMING THROUGH A  COMPLETE REVIEW OF T HE 
+INFORMATION ALREADY SUBMITTED BY THE HEA LTH CARE PROVIDER , THE PRIVATE 
+ WES MOORE, Governor  Ch. 847  
+ 
+– 27 – REVIEW AGENT SHALL R EQUEST THE INFORMATI ON PROMPTLY , BUT NOT LATER 
+THAN 3 CALENDAR DAYS AFTER R ECEIPT OF THE INITIA L REQUEST , BY SPECIFYING : 
+ 
+   (I) THE INFORMATION , INCLUDING ANY LAB OR  DIAGNOSTIC 
+TEST OR OTHER MEDICA L INFORMATION , THAT MUST BE SUBMITT ED TO COMPLETE 
+THE REQUEST ; AND 
+ 
+   (II) THE CRITERIA AND STA NDARDS TO SUPPORT  THE NEED FOR 
+THE ADDITIONAL INFOR MATION . 
+ 
+ (D) (1) (I) A EXCEPT AS PROVIDED IN  SUBSECTIONS (G) AND (H) OF 
+THIS SECTION , A PRIVATE REVIEW AGENT  SHALL MAKE INITIAL D ETERMINATIONS 
+ON WHETHER TO AUTHOR IZE OR CERTIFY AN EM ERGENCY COURSE OF TR EATMENT 
+OR HEALTH CARE SERVICE FOR A M EMBER WITHIN 24 HOURS AFTER THE INIT IAL 
+REQUEST AFTER RECEIP T OF THE INFORMATION  NECESSARY TO MAKE TH E 
+DETERMINATION . 
+ 
+   (II) IF THE PRIVATE REVIEW  AGENT DETERMINES THA T 
+ADDITIONAL INFORMATI ON IS NEEDED AFTER C ONFIRMING THROUGH A COMPL ETE 
+REVIEW OF THE INFORM ATION ALREADY SUBMIT TED BY THE HEALTH CA RE 
+PROVIDER , THE PRIVATE REVIEW A GENT SHALL : 
+ 
+    1. PROMPTLY REQUEST THE  SPECIFIC INFORMATION  
+NEEDED , INCLUDING ANY LAB OR  DIAGNOSTIC TEST OR O THER MEDICAL 
+INFORMATION ; AND 
+ 
+    2. PROMPTLY , BUT NOT LATER THAN 2 HOURS AFTER 
+RECEIPT OF THE INFOR MATION , NOTIFY THE HEALTH CA RE PROVIDER OF AN 
+AUTHORIZATION OR CER TIFICATION DETERMINA TION WHEN MADE BY TH E PRIVATE 
+REVIEW AGENT . 
+ 
+  (2) A PRIVATE REVIEW AGENT  SHALL INITIATE THE E XPEDITED 
+PROCEDURE FOR AN EMERGENCY CASE IF  THE PATIENT OR THE P ATIENT’S 
+REPRESENTATIVE REQUE STS OR IF  THE HEALTH CARE PROV IDER ATTESTS THAT 
+THE SERVICES ARE NEC ESSARY TO TREAT A CO NDITION OR ILLNESS T HAT, WITHOUT 
+IMMEDIATE MEDICAL AT TENTION , WOULD : 
+ 
+   (I) SERIOUSLY JEOPARDIZE  THE LIFE OR HEALTH O F THE 
+MEMBER OR THE MEMBER ’S ABILITY TO REGAIN MAXIMUM FUNCTIONS ; 
+ 
+   (II) CAUSE THE MEMBER TO BE IN DANGER TO SELF  OR OTHERS ; 
+OR 
+ 
+Ch. 847  2024 LAWS OF MARYLAND   
+ 
+– 28 –    (III) CAUSE THE MEMBER TO CONTINUE USING INTOX ICATING 
+SUBSTANCES IN AN IMM INENTLY DANGEROUS MA NNER . 
+ 
+ (E) IF A PRIVATE REVIEW A GENT FAILS TO MAKE A  DETERMINATION WITHIN  
+THE TIME LIMITS REQU IRED UNDER THIS SECT ION, THE REQUEST SHALL BE  
+DEEMED APPROVED . 
+ 
+ [(b)] (F) (1) If an initial determination is made by a private review agent not 
+to authorize or certify a health care service and the health care provider believes the 
+determination warrants an immediate reconsideration, a private review agent [may] 
+SHALL  provide the health care provider the opportunity to speak with the physician that 
+rendered the determina tion, by telephone on an expedited basis, within a period of time not 
+to exceed 24 hours of the health care provider seeking the reconsideration.  
+ 
+  (2) IF THE PHYSICIAN IS U NABLE TO IMMEDIATELY  SPEAK WITH THE 
+HEALTH CARE PROVIDER  SEEKING THE RECONSID ERATI ON, THE PHYSICIAN SHALL 
+PROVIDE THE HEALTH C ARE PROVIDER WITH TH E FOLLOWING CONTACT 
+INFORMATION FOR THE HEALTH CARE PROVIDER  TO USE TO CONTACT TH E 
+PHYSICIAN : 
+ 
+   (I) A DIRECT TELEPHONE N UMBER THAT IS NOT TH E GENERAL 
+CUSTOMER CALL NUMBER ; OR 
+ 
+   (II) A MONITORED E –MAIL ADDRESS THAT IS  DEDICATED TO 
+COMMUNICATION RELATE D TO UTILIZATION REV IEW. 
+ 
+ [(c)] (G) For emergency inpatient admissions, a private review agent may not 
+render an adverse decision solely because the hospital did not notify the private revi ew 
+agent of the emergency admission within 24 hours or other prescribed period of time after 
+that admission if the patient’s medical condition prevented the hospital from determining:  
+ 
+  (1) the patient’s insurance status; and  
+ 
+  (2) if applicable, the pri vate review agent’s emergency admission 
+notification requirements.  
+ 
+ [(d)] (H) (1) Subject to paragraph (2) of this subsection, a private review 
+agent may not render an adverse decision as to an admission of a patient during the first 
+24 hours after admiss ion when:  
+ 
+   (i) the admission is based on a determination that the patient is in 
+imminent danger to self or others;  
+ 
+ WES MOORE, Governor  Ch. 847  
+ 
+– 29 –    (ii) the determination has been made by the patient’s physician or 
+psychologist in conjunction with a member of the medical staff of t he facility who has 
+privileges to make the admission; and  
+ 
+   (iii) the hospital immediately notifies the private review agent of:  
+ 
+    1. the admission of the patient; and  
+ 
+    2. the reasons for the admission.  
+ 
+  (2) A private review agent may not render  an adverse decision as to an 
+admission of a patient to a hospital for up to 72 hours, as determined to be medically 
+necessary by the patient’s treating physician, when:  
+ 
+   (i) the admission is an involuntary admission under §§ 10 –615 and 
+10–617(a) of the  Health – General Article; and  
+ 
+   (ii) the hospital immediately notifies the private review agent of:  
+ 
+    1. the admission of the patient; and  
+ 
+    2. the reasons for the admission.  
+ 
+ [(e)] (I) (1) A private review agent that requires a health care provider to 
+submit a treatment plan in order for the private review agent to conduct utilization review 
+of proposed or delivered services for the treatment of a mental illness, emotional disorder, 
+or a substance abuse disorder:  
+ 
+   (i) shall accept:  
+ 
+    1. the uniform treatment plan form adopted by the 
+Commissioner under § 15 –10B–03(d) of this subtitle as a properly submitted treatment 
+plan form; or  
+ 
+    2. if a service was provided in another state, a treatment plan 
+form mandated by the state in which the  service was provided; and  
+ 
+   (ii) may not impose any requirement to:  
+ 
+    1. modify the uniform treatment plan form or its content; or  
+ 
+    2. submit additional treatment plan forms.  
+ 
+  (2) A uniform treatment plan form submitted under the provisions of this 
+subsection:  
+ 
+Ch. 847  2024 LAWS OF MARYLAND   
+ 
+– 30 –    (i) shall be properly completed by the health care provider; and  
+ 
+   (ii) may be submitted by electronic transfer.  
+ 
+15–10B–07. 
+ 
+ (a) (1) Except as provided in paragraphs (2) and (3) of this subsection, all 
+adverse decisions shall be made by a LICENSED physician, or a panel of other appropriate 
+health care service reviewers with at least one physician on the panel , who is : 
+ 
+   (I) board cert ified or eligible in the same specialty as the treatment 
+under review ; AND  
+ 
+   (II) KNOWLEDGEABLE ABOUT THE REQUESTED HEALTH  CARE 
+SERVICE OR TREATMENT  THROUGH ACTUAL CLINI CAL EXPERIENCE . 
+ 
+  (2) When the health care service under review is a mental health o r 
+substance abuse service, the adverse decision shall be made by a LICENSED physician, or 
+a panel of other appropriate health care service reviewers with at least one LICENSED  
+physician, selected by the private review agent who:  
+ 
+   (i) is board certified or eligible in the same specialty as the 
+treatment under review; or  
+ 
+   (ii) is actively practicing or has demonstrated expertise in the 
+substance abuse or mental health service or treatment under review.  
+ 
+  (3) When the health care service under review is  a dental service, the 
+adverse decision shall be made by a licensed dentist, or a panel of other appropriate health 
+care service reviewers with at least one licensed dentist on the panel WHO IS 
+KNOWLEDGEABLE ABOUT THE REQUESTED HEALTH  CARE SERVICE OR TREA TMENT 
+THROUGH ACTUAL CLINI CAL EXPERIENCE . 
+ 
+ (b) All adverse decisions shall be made by a physician or a panel of other 
+appropriate health care service reviewers who are not compensated by the private review 
+agent in a manner that violates § 19 –705.1 of the Health – General Article or that deters 
+the delivery of medically appropriate care.  
+ 
+ (c) Except as provided in subsection (d) of this section, if a course of treatment 
+has been preauthorized or approved for a patient, a private review agent may not 
+retros pectively render an adverse decision regarding the preauthorized or approved 
+services delivered to that patient.  
+ 
+ (d) A private review agent may retrospectively render an adverse decision 
+regarding preauthorized or approved services delivered to a patient  if: 
+ WES MOORE, Governor  Ch. 847  
+ 
+– 31 –  
+  (1) the information submitted to the private review agent regarding the 
+services to be delivered to the patient was fraudulent or intentionally misrepresentative;  
+ 
+  (2) critical information requested by the private review agent regarding 
+services to be delivered to the patient was omitted such that the private review agent’s 
+determination would have been different had the agent known the critical information; or  
+ 
+  (3) the planned course of treatment for the patient that was approved by 
+the private  review agent was not substantially followed by the provider.  
+ 
+ (e) If a course of treatment has been preauthorized or approved for a patient, a 
+private review agent may not revise or modify the specific criteria or standards used for the 
+utilization review to make an adverse decision regarding the services delivered to that 
+patient.  
+ 
+15–10B–09.1.  
+ 
+ A grievance decision shall be made based on the professional judgment of:  
+ 
+  (1) (i) a LICENSED physician who is board certified or eligible in the 
+same sp ecialty as the treatment under review AND KNOWLEDGEABLE AB OUT THE 
+REQUESTED HEALTH CAR E SERVICE OR TREATME NT THROUGH ACTUAL CL INICAL 
+EXPERIENCE ; or 
+ 
+   (ii) a panel of other appropriate health care service reviewers with 
+at least one LICENSED physician on the panel who is board certified or eligible in the same 
+specialty as the treatment under review AND KNOWLEDGEABLE AB OUT THE 
+REQUESTED HEALTH CAR E SERVICE OR TREATME NT THROUGH ACTUAL CL INICAL 
+EXPERIENCE ; 
+ 
+  (2) when the grievance decision involves a dental  service, a licensed 
+dentist, or a panel of appropriate health care service reviewers with at least one dentist on 
+the panel who is a licensed dentist, who shall consult with a dentist who is board certified 
+or eligible in the same specialty as the service  under review AND KNOWLEDGEABLE 
+ABOUT THE REQUESTED HEALTH CARE SERVICE OR TREATMENT THROUGH  ACTUAL 
+CLINICAL EXPERIENCE ; or 
+ 
+  (3) when the grievance decision involves a mental health or substance 
+abuse service:  
+ 
+   (i) a licensed physician who:  
+ 
+    1. is board certified or eligible in the same specialty as the 
+treatment under review; or  
+ 
+Ch. 847  2024 LAWS OF MARYLAND   
+ 
+– 32 –     2. is actively practicing or has demonstrated expertise in the 
+substance abuse or mental health service or treatment under review; or  
+ 
+   (ii) a panel of other approp riate health care service reviewers with 
+at least one LICENSED physician, selected by the private review agent who:  
+ 
+    1. is board certified or eligible in the same specialty as the 
+treatment under review; or  
+ 
+    2. is actively practicing or has demonst rated expertise in the 
+substance abuse or mental health service or treatment under review.  
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That:  
+ 
+ (a) The Maryland Health Care Commission and the Maryland Insurance 
+Administration, in consultation with health care practitioners and payors of health care 
+services, jointly shall conduct a study on the development of standards for the 
+implementation of payor programs to modify prior authorization requirements for 
+prescription drugs, medical care, and other health care services based on health care 
+practitioner –specific criteria.  
+ 
+ (b) The study conducted under subsection (a) of this section shall include, through 
+an examination of literature review and legislatively or voluntarily established programs 
+that have been imp lemented or are being considered in other states, an analysis of:  
+ 
+  (1) adjustments to payor prior authorization requirements based on a 
+health care practitioner’s:  
+ 
+   (i) prior approval rates;  
+ 
+   (ii) ordering and prescribing patterns; and  
+ 
+   (iii) participation in a payor’s two –sided incentive arrangement or a 
+capitation program; and  
+ 
+  (2) any other information or metrics necessary to implement the payor 
+programs.  
+ 
+ (c) On or before December 1, 2024, the Maryland Health Care Commission and 
+the Maryla nd Insurance Administration jointly shall submit a report to the General 
+Assembly, in accordance with § 2 –1257 of the State Government Article, with the findings 
+and recommendations from the study, including recommendations for legislative initiatives 
+necessary for the establishment of payor programs modifying prior authorization 
+requirements based on health care practitioner –specific criteria.  
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That:  
+ WES MOORE, Governor  Ch. 847  
+ 
+– 33 –  
+ (a) The Maryland Health Care Commission and the Maryland Insurance  
+Administration jointly shall establish a workgroup to , in consultation with the Maryland 
+Insurance Administration, shall : 
+ 
+  (1) assess  monitor  the progress toward implementing the requirements in 
+§ 19–108.5 of the Health – General Article, as enacted by Section 1 of this Act, including 
+monitoring any federal or State developments relating to the requirements; and  
+ 
+  (2) review issues or recommendations from other states that are 
+implementing a real –time benefit requirement, including establishing a link a t the point of 
+prescribing for any available coupons.  
+ 
+ (b) On or before December 1, 2025, the Maryland Health Care Commission and 
+the Maryland Insurance Administration jointly shall submit a report to  shall inform  the 
+General Assembly, in accordance with § 2–1257 of the State Government Article, with  of 
+any findings and recommendations from the workgroup  relating to the implementation of 
+§ 19–108.5 of the Health – General Article, as enacted by Section 1 of this Act . 
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED,  That Section 1 of this Act shall take 
+effect January 1, 2025.  
+ 
+ SECTION 5. AND BE IT FURTHER ENACTED, That, except as provided in Section 
+4 of this Act, this Act shall take effect July 1, 2024.  
+ 
+Approved by the Governor, May 16, 2024.  

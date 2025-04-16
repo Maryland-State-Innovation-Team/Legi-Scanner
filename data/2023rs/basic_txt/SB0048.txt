@@ -1,0 +1,316 @@
+ WES MOORE, Governor  Ch. 563  
+ 
+– 1 – Chapter 563  
+(Senate Bill 48 ) 
+ 
+AN ACT concerning  
+ 
+Disaster Service and Uniformed Services Leave Modernization Act of 2023  
+ 
+FOR the purpose of defining “ local  emergency manager” to clarify provisions of law relating 
+to the Cyber Preparedness Unit  emergency management ; adding certain State 
+employees to certain provisions of law authorizing disaster service leave with pay; 
+authorizing certain appointing authoriti es to waive certain requirements for disaster 
+service leave and to increase the number of days of disaster service leave under 
+certain circumstances; defining “uniformed services” for the purpose of adding 
+certain individuals to certain provisions of law r elating to certain paid leave and 
+military administrative leave; and generally relating to disaster service and 
+uniformed services leave for State employees.  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Public Safety  
+Section 14–104.1  14–101 
+ Annotated Code of Maryland  
+ (2022 Replacement Volume)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – State Personnel and Pensions  
+Section 9 –1102, 9 –1104, and 9 –1107  
+ Annotated Code of Maryland  
+ (2015 Replacement Volume and 2022 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Public Safety  
+ 
+14–104.1.  
+ 
+ (a) (1) In this section the following words have the meanings indicated.  
+ 
+  (2) “LOCAL EMERGENCY MANAG ER” MEANS AN  INDIVIDUAL WHOSE  
+PRIMARY DUTY OF EMPL OYMENT IS TO EXECUTE  THE MISSION OF EMERG ENCY  
+MANAGEMENT . 
+ 
+  (3) “Local government” includes local school systems, local school boards, 
+and local health departments.  
+ 
+Ch. 563  2023 LAWS OF MARYLAND   
+ 
+– 2 –   [(3)] (4) “Unit” means the Cyber Preparedness Unit.  
+ 
+ (b) (1) There is a Cyber Preparedness Unit in the Department.  
+ 
+  (2) In coordination with the State Chief Information Security Officer, the 
+Unit shall:  
+ 
+   (i) support local governments in developing a vulnerability 
+assessment and cyber assessment,  including providing local governments with the 
+resources and information on best practices to complete the assessments;  
+ 
+   (ii) develop and regularly update an online database of cybersecurity 
+training resources for local government personnel, including technical training resources, 
+cybersecurity continuity of operations templates, consequence management plans, and 
+trainings on malware and ransomware detection;  
+ 
+   (iii) assist local governments in:  
+ 
+    1. the development of cybersecurity preparedness an d 
+response plans;  
+ 
+    2. implementing best practices and guidance developed by 
+the State Chief Information Security Officer; and  
+ 
+    3. identifying and acquiring resources to complete 
+appropriate cybersecurity vulnerability assessments;  
+ 
+   (iv) connect local governments to appropriate resources for any other 
+purpose related to cybersecurity preparedness and response;  
+ 
+   (v) as necessary and in coordination with the National Guard, local 
+emergency managers, and other State and local entities, conduct reg ional cybersecurity 
+preparedness exercises; and  
+ 
+   (vi) establish regional assistance groups to deliver and coordinate 
+support services to local governments, agencies, or regions.  
+ 
+  (3) The Unit shall support the Office of Security Management in the 
+Depa rtment of Information Technology during emergency response efforts.  
+ 
+ (c) (1) Each local government shall report a cybersecurity incident, including 
+an attack on a State system being used by the local government, to the appropriate local 
+emergency manager and the State Security Operations Center in the Department of 
+Information Technology and to the Maryland Joint Operations Center in the Department 
+in accordance with paragraph (2) of this subsection.  
+ 
+ WES MOORE, Governor  Ch. 563  
+ 
+– 3 –   (2) For the reporting of cybersecurity incidents unde r paragraph (1) of this 
+subsection, the State Chief Information Security Officer shall determine:  
+ 
+   (i) the criteria for determining when an incident must be reported;  
+ 
+   (ii) the manner in which to report; and  
+ 
+   (iii) the time period within which a report must be made.  
+ 
+  (3) The State Security Operations Center shall immediately notify 
+appropriate agencies of a cybersecurity incident reported under this subsection through the 
+State Security Operations Center.  
+ 
+ (d) (1) Five Position Identification N umbers (PINs) shall be created for the 
+purpose of hiring staff to conduct the duties of the Maryland Department of Emergency 
+Management Cybersecurity Preparedness Unit.  
+ 
+  (2) For fiscal year 2024 and each fiscal year thereafter, the Governor shall 
+include  in the annual budget bill an appropriation of at least:  
+ 
+   (i) $220,335 for 3 PINs for Administrator III positions; and  
+ 
+   (ii) $137,643 for 2 PINs for Administrator II positions.  
+ 
+14–101. 
+ 
+ (a) In this title the following words have the meanings indicated.  
+ 
+ (b) “Department ” means the Maryland Department of Emergency Management.  
+ 
+ (c) “Emergency ” means the imminent threat or occurrence of severe or 
+widespread loss of life, injury, or other health impacts, property damage or destruction, 
+social or economic disruption, or environmental degradation from natural, technological, or 
+human –made causes.  
+ 
+ (d) (1) “Emergency management ” means the planning, implementing, and 
+conducting of risk reduction and consequence management activities across the missio n 
+areas of prevention, protection, mitigation, response, and recovery to enhance 
+preparedness, save lives, preserve public health and safety, protect public and private 
+property, and minimize or repair injury and damage that results or may result from 
+emer gencies.  
+ 
+  (2) “Emergency management ” does not include the preparation for and 
+carrying out of functions in an emergency for which military forces are primarily 
+responsible.  
+ 
+Ch. 563  2023 LAWS OF MARYLAND   
+ 
+– 4 –  (E) “EMERGENCY MANAGER ” MEANS AN INDIVIDUAL WHOSE PRIMARY 
+DUTY OF EMPLOYMENT I S TO EXECUTE THE MIS SION OF EMERGENCY MA NAGEMENT . 
+ 
+ [(e)] (F) “Local organization for emergency management ” means an 
+organization established by a political subdivision or other local authority under §  14–109 
+of this subtitle.  
+ 
+ [(f)] (G) “Political subdivision ” means a county or municipal corporation of the 
+State.  
+ 
+ [(g)] (H) “Secretary ” means the Secretary of Emergency Management.  
+ 
+ [(h)] (I) “Senior elected official ” means:  
+ 
+  (1) the mayor;  
+ 
+  (2) the county executive;  
+ 
+  (3) for a county that does not have a county executive, the president of the 
+board of county commissioners or county council or other chief executive officer of the 
+county; or  
+ 
+  (4) for a municipal corporation that does not have a  mayor, the burgess, 
+chairperson, or president of the municipal governing body or other chief executive officer of 
+the municipal corporation.  
+ 
+Article – State Personnel and Pensions  
+ 
+9–1102.  
+ 
+ (a) This section applies to all employees, including temporary  employees, of all 
+units in the Executive, Judicial, and Legislative branches of State government, including 
+any unit with an independent personnel system.  
+ 
+ (b) On request, an employee subject to this section may be entitled to disaster 
+service leave with  pay if:  
+ 
+  (1) (I) the employee is certified by the American Red Cross as a disaster 
+service volunteer; and  
+ 
+  [(2)] (II) the American Red Cross requests the services of the employee 
+during a disaster that is designated at Level II or above in the regulations and procedures 
+of the National Office of the American Red Cross ; OR 
+ 
+  (2) THE EMPLOYEE IS A ME MBER OF : 
+ WES MOORE, Governor  Ch. 563  
+ 
+– 5 –  
+   (I) THE CIVIL AIR PATROL ; 
+ 
+   (II) THE UNITED STATES COAST GUARD AUXILIARY ; OR 
+ 
+   (III) A MARYLAND VOLUNTARY OR GANIZATION ACTIVE IN  A 
+DISASTER , INCLUDING : 
+ 
+    1. THE MARYLAND INCIDENT MANAGEMENT TEAM  
+MARYLAND VOLUNTARY ORGANIZATIONS ACTIVE IN DISASTER ; 
+ 
+    2. (IV) A VOLUNTEER EMERGENC Y MEDICAL SERVICES 
+DEPARTMENT ; 
+ 
+    3. (V) A VOLUNTEER FIRE DEP ARTMENT ; OR 
+ 
+    4. (VI) A VOLUNTEER RESCUE COMPANY OR 
+VOLUNTEER RESCUE SQU AD; OR 
+ 
+   (VII) A COMMUNITY EMERGENCY RESPONSE TEAM . 
+ 
+ (c) An employee may use up to 15 days of disaster service leave in any 12 –month 
+period only after obtaining approval from the employee’s appointing authority.  
+ 
+ (D) DURING A PROLONGED OR  RECURRENT DISASTER , THE EMPLOYEE ’S 
+APPOINTING AUTHORITY  MAY: 
+ 
+  (1) WAIVE THE REQUIREMEN TS UNDER SUBSECTIONS  (B) AND (C) OF 
+THIS SECTION THAT AN  EMPLOYEE MUST REQUES T AND OBTAIN APPROVA L BEFORE 
+THE EMPLOYEE MAY USE  DISASTER SERVICE LEAVE , IF WAIVING THE REQUI REMENT 
+WOULD BE IN THE BEST  INTEREST OF THE CITI ZENS OF THE STATE ; AND 
+ 
+  (2) INCREASE THE NUMBER OF DAYS OF DISASTER SERVICE LEAVE 
+UNDER SUBSECTION (C) OF THIS SECTION THAT  AN EMPLOYEE MAY USE , IF AN 
+INCREASE WOULD BE IN  THE BEST INTEREST OF  THE CITIZENS OF THE STATE . 
+ 
+ [(d)] (E) (1) For purposes of workers’ compensation and the Maryland Tort 
+Claims Act, while an employee is using disaster service leave, the employee is deemed not 
+to be a State employee.  
+ 
+  (2) THIS SUBSECTION DOES NOT APPLY TO A STATE EMPLOYEE  
+PARTICIPATING AS A M EMBER OF THE MARYLAND INCIDENT MANAGEMENT TEAM. 
+ 
+9–1104.  
+Ch. 563  2023 LAWS OF MARYLAND   
+ 
+– 6 –  
+ (A) IN THIS SECTION , “UNIFORMED SERVICES ” HAS THE MEANING STAT ED 
+IN 38 U.S.C.  § 4303  AND 20 C.F.R.  § 1002.5( O). 
+ 
+ (B) The Secretary  may provide by regulation for leave with pay:  
+ 
+  (1) for jury service;  
+ 
+  (2) to attend employee organization events approved for this purpose by 
+the Secretary;  
+ 
+  (3) up to 15 days for [military ] UNIFORMED SERVICES training or active 
+[military ] UNIFORMED  SERVICES  duty in a reserve unit of the armed forces or in the 
+organized militia;  
+ 
+  (4) unless the employee is a party to the action or a paid witness, to appear 
+in compliance with a subpoena:  
+ 
+   (i) in court;  
+ 
+   (ii) before a grand jury;  
+ 
+   (iii) before an administrative unit; or  
+ 
+   (iv) for a deposition;  
+ 
+  (5) for administrative leave for the purpose of immediately removing an 
+employee from the work site, if the employee:  
+ 
+   (i) poses a threat to self, another individual, or State property; or  
+ 
+   (ii) is incapable of properly performing the employee’s duties 
+because of extraordinary circumstances; and  
+ 
+  (6) any other paid leave the Secretary deems necessary.  
+ 
+9–1107.  
+ 
+ (a) IN THIS SECTION , “UNIFORMED SERVICES ” HAS THE MEANING STAT ED 
+IN 38 U.S.C. § 4303  AND 20 C.F.R.  § 1002.5( O). 
+ 
+ (B) This section applies to all employees, except temporary employees, of all units 
+in the Executive, Judicial, and Legislative branches of State government, including any 
+unit with an independent personnel system.  
+ 
+ WES MOORE, Governor  Ch. 563  
+ 
+– 7 –  [(b)] (C) [Military ] UNIFORMED SERVICES administrative leave may be 
+provided to an employee subject to this section who:  
+ 
+  (1) is on active [military ] UNIFORMED SERVICES  duty on July 1, 2003; or  
+ 
+  (2) is activated for [military ] UNIFORMED SERVICES  duty o n or after July 
+1, 2003.  
+ 
+ [(c)] (D) (1) An employee who is eligible to receive [military ] UNIFORMED 
+SERVICES administrative leave under this section is entitled to leave in an amount 
+sufficient to compensate the employee, during each pay period for which the employee is 
+eligible to receive [military ] UNIFORMED SERVICES  administrative leave under this 
+section, for  the difference between the employee’s active duty base salary paid by the federal 
+government and the employee’s State base salary or direct wages.  
+ 
+  (2) Compensation provided under this subsection may not exceed an 
+employee’s State base salary or direct wages.  
+ 
+ [(d)] (E) An employee eligible to receive [military ] UNIFORMED SERVICES  
+administrative leave under this section who is activated for [military ] UNIFORMED 
+SERVICES  duty on or after July 1, 2003, shall elect to use either [military ] UNIFORMED 
+SERVICES  administrative leave or paid leave as provided in [§ 9–1104(3) ] § 9–1104( B)(3) 
+of this subtitle.  
+ 
+ [(e)] (F) The Department shall keep a record of the use of [military ] 
+UNIFORMED SERVICES  administrative leave under this section.  
+ 
+ SECTI ON 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 
+1, 2023.  
+ 
+Approved by the Governor, May 8, 2023.  

@@ -1,0 +1,614 @@
+ WES MOORE, Governor  Ch. 463  
+ 
+– 1 – Chapter 463  
+(Senate Bill 760 ) 
+ 
+AN ACT concerning  
+ 
+Consumer Protection – Retail Sales of Gift Cards  
+(Gift Card Scams Prevention Act of 2024)  
+ 
+FOR the purpose of requiring a merchant that conducts an online sale of a certain gift card 
+to register with the Division of Consumer Protection in the Office of the Attorney 
+General in a certain manner; authorizing the Division to charge a fee for the 
+registration;  prohibiting a mercha nt from selling a certain open – or closed –loop gift 
+card to a consumer unless the merchant meets certain requirements; requiring a 
+merchant that displays a gift card for sale at a retail establishment to provide certain 
+training to the employees of the merchant regarding gift card fraud; requiring the  
+Division to create a certain model notice and issue certain guidelines regarding gift 
+card fraud; requiring a certain third –party gift card reseller to record and maintain 
+a copy of certain information for a certain period of time; authorizing a law 
+enfor cement agency to request an issuer of gift cards or an issuer’s agent to provide 
+to the law enforcement agency certain evidence reasonably foreseeable to assist in 
+future criminal actions under certain circumstances;  making a violation of this Act 
+an unfai r, abusive, or deceptive trade practice that is subject to enforcement and 
+penalties under the Maryland Consumer Protection Act; and generally relating to 
+the sale of gift cards and preventing gift card fraud.  
+ 
+BY repealing and reenacting, with amendment s, 
+ Article – Commercial Law  
+Section 13 –301(14)(xl)  
+ Annotated Code of Maryland  
+ (2013 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Commercial Law  
+Section 13 –301(14)(xli)  
+ Annotated Code of Maryland  
+ (2013 Replacement Volume and 2023 Supplement)  
+ 
+BY adding to  
+ Article – Commercial Law  
+Section 13 –301(14)(xlii); and 14 –4601 through 14 –4606 to be under the new subtitle 
+“Subtitle 46. Gift Card Fraud”  
+ Annotated Code of Maryland  
+ (2013 Replacement Volume an d 2023 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Commercial Law  
+Ch. 463  2024 LAWS OF MARYLAND   
+ 
+– 2 – Section 14 –4601 through 14 –4605  
+ Annotated Code of Maryland  
+ (2013 Replacement Volume and 2023 Supplement)  
+ (As enacted by Section 1 of this Act)  
+ 
+ SECTION 1. BE I T ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Commercial Law  
+ 
+13–301. 
+ 
+ Unfair, abusive, or deceptive trade practices include any:  
+ 
+  (14) Violation of a provision of:  
+ 
+   (xl) Title 14, Subtitle 13 of the Public Safety Article; [or] 
+ 
+   (xli) Title 14, Subtitle 45 of this article; or  
+ 
+   (XLII) TITLE 14, SUBTITLE 46 OF THIS ARTICLE ; OR 
+ 
+SUBTITLE 46. GIFT CARD FRAUD . 
+ 
+14–4601.  
+ 
+ (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE  THE M EANINGS 
+INDICATED . 
+ 
+ (B) “DIVISION” HAS THE MEANING STAT ED IN § 13–101 OF THIS ARTICLE . 
+ 
+ (C) “GIFT CARD ” MEANS A CARD , CODE , OR DEVICE THAT IS : 
+ 
+  (1) ISSUED TO A CONSUMER ON A PREPAID BASIS P RIMARILY FOR  
+PERSONAL , FAMILY , OR HOUSEHOLD PURPOSE S IN A SPECIFIED AMOUNT , 
+REGARDLESS OF WHETHE R THAT AMOUNT MAY BE  INCREASED OR RELOADE D IN  
+EXCHANGE FOR PAYMENT ; AND  
+ 
+  (2) REDEEMABLE ON PRESENT ATION BY A CONSUMER AT A SINGLE  
+MERCHANT OR A GROUP OF AFFILIATED MERCHA NTS. 
+ 
+ (D) (C) “MERCHANT ” HAS THE MEANING STATED IN § 13–101 OF THIS 
+ARTICLE . 
+ 
+ (D) “OPEN–LOOP GIFT CARD ” MEANS A CARD , CODE , OR DEVICE THAT  IS: 
+ WES MOORE, Governor  Ch. 463  
+ 
+– 3 –  
+  (1) IS ISSUED  ISSUED  TO A CONSUMER ON A P REPAID BASIS 
+PRIMARILY FOR PERSON AL, FAMILY , OR HOUSEHOLD PURPOSE S IN A SPECIFIED 
+AMOUNT , REGARDLESS OF WHETHER THAT AMOUNT MAY BE INCREASED OR 
+RELOADED IN EXCHANGE  FOR PAYMENT ; 
+ 
+  (2) IS PAYMENT  PAYMENT  CARD NETWORK BRANDED ; AND  
+ 
+  (3) (I) IS REDEEMABLE  REDEEMABLE  ON PRESENTATION AT 
+MULTIPLE UNAFFILIATE D MERCHANTS FOR GOOD S OR SERVICES WITHIN  THE 
+PAYMENT CA RD NETWORK ; OR 
+ 
+   (II) IS USABLE  USABLE  AT AN AUTOMATED TELL ER MACHINE . 
+ 
+ (E) “THIRD–PARTY GIFT CARD RESE LLER” MEANS A MERCHANT WHO , 
+WITHOUT AUTHORIZATIO N FROM OR AFFILIATIO N WITH THE BUSINESS ENTITY 
+ISSUING AN OPEN –LOOP GIFT CARD , IS ENGAGED IN THE BU SINESS OF : 
+ 
+  (1) BUYING OPEN –LOOP GIFT CARDS ON B EHALF OF CONSUMERS ; OR  
+ 
+  (2) RESELLING OPEN –LOOP GIFT CARDS TO C ONSUMERS .  
+ 
+14–4602.  
+ 
+ (A) A MERCHANT THAT CONDUC TS ONLINE SALES OF G IFT CARDS TO  
+CONSUMERS SHALL REGI STER WITH THE DIVISION AS AN ONLINE  SELLER OF GIFT  
+CARDS . 
+ 
+ (B) TO ENFORCE THE PROVIS IONS OF THIS SUBTITL E, THE DIVISION MAY  
+CHARGE A MERCHANT AN  ANNUAL FEE TO BE REG ISTERED AS REQUIRED UNDER  
+THIS SECTION . 
+ 
+ (C) THE DIVISION SHALL ESTABL ISH A REGISTRATION P ROCESS TO CARRY  
+OUT THIS SECTION . 
+ 
+14–4603.  
+ 
+ (A) EXCEPT AS PROVIDED IN  SUBSECTION (B) OF THIS SECTION , A 
+MERCHANT MAY NOT KNOWINGLY  SELL A AN OPEN –LOOP  GIFT CARD TO A 
+CONSUMER UNLESS : 
+ 
+  (1) FOR AN ONLINE SALE , THE MERCHANT IS REGI STERED AS  
+REQUIRED UNDER § 14–4602  OF THIS SUBTITLE ; 
+ 
+Ch. 463  2024 LAWS OF MARYLAND   
+ 
+– 4 –   (2) THE MERCHANT CONSPICU OUSLY DISPLAYS A NOT ICE IN 
+SUBSTANTIALLY THE SA ME FORM AS THE MODEL  NOTICE CREATED UNDER  §  
+14–4605(1)  § 14–4604(1)  OF THIS SUBTITLE : 
+ 
+   (I) FOR AN IN –PERSON SALE : 
+ 
+    1. AT, AT OR NEAR THE PHYSICAL  LOCATION WHERE  
+THE: 
+ 
+    1. THE GIFT CARD IS DISPLAY ED FOR SALE ; OR 
+ 
+    2. AT OR NEAR THE PHYSIC AL LOCATION WHERE TH E 
+THE SALE OCCURS ; OR 
+ 
+   (II) FOR AN ONLINE SALE , ON THE WEBPAGE THAT DISPLAYS : 
+ 
+    1. WHERE THE GIFT CARD I S OFFERED FOR SALE ; OR 
+ 
+    2. THAT IS DISPLAYED  IMMEDIATELY  BEFORE THE SALE 
+IS FINALIZED ; AND  
+ 
+  (3) (2) FOR AN IN –PERSON SALE OF AN OPEN –LOOP GIFT CARD , 
+THE GIFT CARD IS ENC LOSED IN SECURE PACK AGING THAT : 
+ 
+   (I) IS SEALED IN A MANNER  THAT IS NOT EASILY O PENED 
+WITHOUT SIGNS OF TAM PERING AND; 
+ 
+   (II) EXCEPT AS PROVIDED IN ITEM (III) OF THIS ITEM , 
+CONCEALS ALL NUMERIC  CODES SPECIFIC TO TH E ACTIVATION OR THE 
+REDEMPTION OF THE  GIFT CARD , INCLUDING ANY BAR CO DE, CVV  NUMBER , PIN  
+NUMBER , OR ACTIVATION CODE ;  
+ 
+   (III) DISPLAYS AN ACTIVATIO N CODE , BAR CODE , OR OTHER 
+ACTIVATION DATA ONLY  IF THE PACKAGING USE D IS MORE SECURE THA N IT 
+OTHERWISE WOULD BE I F THE DATA WERE FULL Y CONCEALED ; AND  
+ 
+   (II) (IV) INCLUDES A WARNING TH AT STATES THE FOLLOW ING 
+OR USES LANGUAGE SUB STANTIALLY SIMILAR T O THE FOLLOWING : 
+ 
+“DO NOT SELL OR PURCHASE  IF PACKAGING HAS BEE N BROKEN OR INDICATE S 
+TAMPERING ”. 
+ 
+ WES MOORE, Governor  Ch. 463  
+ 
+– 5 –  (B) A MERCHANT MAY SELL A AN OPEN –LOOP  GIFT CARD THAT IS NO T 
+ENCLOSED IN SECURE P ACKAGING AS REQUIRED  UNDER SUBSECTION (A)(3) (A)(2) 
+OF THIS SECTION IF : 
+ 
+  (1) THE GIFT CARD IS A CH IP–ENABLED , NUMBERLESS CARD THAT  IS 
+ACTIVATED BY A CONSU MER AFTER REGISTERIN G THE CARD ON THE CA RD ISSUER ’S 
+WEBSITE ; OR 
+ 
+  (2) THE GIFT CARD : 
+ 
+   (I) IS SOLD EXCLUSIVELY B Y: 
+ 
+    1. A MERCHANT FOR USE ONL Y AT THE RETAIL 
+ESTABLISHMENT OF THE  MERCHANT ; OR 
+ 
+    2. A GROUP OF AFFILIATED ME RCHANTS FOR USE ONLY  
+AT THE RETAIL ESTABL ISHMENTS OF THE AFFI LIATED MERCHANTS ; AND 
+ 
+   (II) IS SECURED IN A PHYSI CAL LOCATION WITHIN THE 
+MERCHANT ’S RETAIL ESTABLISHME NT THAT IS ACCESSIBL E ONLY BY AN EMPLOYE E 
+OF THE MERCHANT . 
+ 
+14–4604.  14–4603.  
+ 
+ A MERCHANT THAT DISPLA YS A AN OPEN –LOOP  GIFT CARD FOR SALE A T A 
+RETAIL ESTABLISHMENT  SHALL PROVIDE TRAINI NG TO THE  ALL EMPLOYEES OF 
+THE MERCHANT WHOSE DUTIES REGULAR LY INCLUDE THE SALE OF OPEN –LOOP 
+GIFT CARDS TO CONSUM ERS ON HOW TO IDENTIFY A ND RESPOND TO GIFT CARD  
+FRAUD IN ACCORDANCE WITH THE GUIDELINES ESTABLISHED UNDER § 14–4605(2)  
+§ 14–4604(2)  OF THIS SUBTITLE . 
+ 
+14–4605.  14–4604.  
+ 
+ THE DIVISION SHALL : 
+ 
+  (1) CREATE A MODEL NOTICE  REGARDING OPEN –LOOP GIFT CARDS  
+FOR USE BY MERCHANTS  THAT : 
+ 
+   (I) CAUTIONS A CONSUMER A BOUT GIFT CARD SCAMS ; 
+ 
+   (II) INSTRUCTS A CONSUMER ON WHAT TO DO IF THE  
+CONSUMER SUSPECTS TH E CONSUMER MAY BE A VICTIM OF A GIFT CAR D SCAM ; AND 
+ 
+   (III) INDICATES A GIFT CARD  MAY NOT BE USED TO P AY DEBT ; 
+Ch. 463  2024 LAWS OF MARYLAND   
+ 
+– 6 –  
+  (2) ISSUE GUIDELINES R EGARDING THE DETECTI ON AND 
+PREVENTION OF OPEN–LOOP  GIFT CARD FRAUD THAT  INCLUDE : 
+ 
+   (I) INFORMATION THAT RAIS ES PUBLIC AWARENESS ABOUT 
+GIFT CARD FRAUD ; 
+ 
+   (II) INFORMATION ABOUT HOW  COMMON GIFT CARD FRA UD 
+SCHEMES WORK ; AND 
+ 
+   (III) BEST PRACTICES FOR A MERCHANT TO PREVENT GIFT CARD 
+FRAUD ; AND 
+ 
+  (3) MAKE AVAILABLE ONLINE  AND PERIODICALLY UPD ATE THE 
+MODEL NOTICE AND GUI DELINES REQUIRED UND ER THIS SECTION . 
+ 
+14–4605.  
+ 
+ (A) THIS SECTION APPLIES ONLY TO THIRD –PARTY GIFT CARD RESE LLERS . 
+ 
+ (B) SUBJECT TO SUBSECTION (C) OF THIS SECTION , WHEN A THIRD –PARTY 
+GIFT CARD RESELLER B UYS OR SELLS AN OPEN –LOOP GIFT CARD AS PA RT OF A 
+TRANSACTION OCCURRIN G IN THE STATE , THE THIRD –PARTY GIFT CARD RESE LLER 
+SHALL RECORD AND FOR  AT LEAST 3 YEARS MAINTAIN A COP Y OF THE FOLL OWING 
+INFORMATION , AS APPLICABLE : 
+ 
+  (1) THE DATE OF THE TRANS ACTION ; 
+ 
+  (2) THE NAME OF THE PERSO N WHO CONDUCTED THE TRANSACTION ; 
+ 
+  (3) THE NAME , AGE, AND ADDRESS OF THE S ELLER OF THE GIFT 
+CARD ; 
+ 
+  (4) THE SELLER ’S AND CONSUMER ’S DRIVER ’S LICENSE NUMBER OR 
+IDENTIFICATION CARD NUMBER ;  
+ 
+  (5) A DESCRIPTION OF THE P URCHASED GIFT CARD , INCLUDING : 
+ 
+   (I) THE RETAILER FOR WHIC H THE GIFT CARD IS I NTENDED 
+FOR USE ; AND  
+ 
+   (II) THE GIFT CARD NUMBER ; 
+ 
+  (6) THE SPECIFIC AMOUNT ISSU ED ON THE GIFT CARD ; 
+ WES MOORE, Governor  Ch. 463  
+ 
+– 7 –  
+  (7) THE PRICES PAID TO CO NDUCT THE TRANSACTIO N; AND  
+ 
+  (8) THE SIGNATURE OF THE CONSUMER . 
+ 
+ (C) (1) THE INFORMATION RECOR DED AND MAINTAINED U NDER 
+SUBSECTION (B) OF THIS SECTION SHAL L CHRONOLOGICALLY BE  WRITTEN I N INK 
+OR LOGGED INTO A SEC URE DATABASE , SOFTWARE SYSTEM , OR OTHER SIMILAR 
+TECHNOLOGY PLATFORM . 
+ 
+  (2) EXCEPT AS PROVIDED IN  PARAGRAPH (3) OF THIS SUBSECTION , 
+RECORDED INFORMATION  MAY NOT BE DESTROYED , ALTERED , OR ERASED . 
+ 
+  (3) A HANDWRITTEN CORRECTI ON MAY  BE MADE TO AN ENTRY OF 
+INFORMATION BY DRAWI NG A LINE OF INK THR OUGH THE ENTRY IN A MANNER THAT 
+RETAINS LEGIBILITY . 
+ 
+  (4) INFORMATION RECORDED UNDER THIS SECTION S HALL BE OPEN 
+TO INSPECTION BY ANY  DULY AUTHORIZED LAW ENFORCEMENT OFFICER : 
+ 
+   (I) DURING THE ORDINARY B USINESS HOURS OF THE   
+THIRD–PARTY GIFT CARD RESE LLER ; OR 
+ 
+   (II) AT ANY REASONABLE TIM E. 
+ 
+ (D) A THIRD–PARTY GIFT CARD RESE LLER , INCLUDING AN AGENT O R 
+EMPLOYEE OF THE THIR D–PARTY GIFT CARD RESE LLER , MAY NOT : 
+ 
+  (1) FAIL TO MAKE AN ENT RY OF OR FALSIFY , DESTROY , OR REMOVE 
+ANY INFORMATION REQU IRED TO BE RECORDED AND MAINTAINED UNDER  THIS 
+SECTION ; 
+ 
+  (2) REFUSE TO ALLOW ANY D ULY AUTHORIZED LAW E NFORCEMENT 
+OFFICER TO INSPECT A  RECORD OF INFORMATIO N OR OPEN –LOOP GIFT CARDS IN 
+THE THIRD –PARTY  GIFT CARD RESELLER ’S POSSESSION DURING THE ORDINARY 
+BUSINESS HOURS OF TH E RESELLER OR AT ANY  REASONABLE TIME ; OR 
+ 
+  (3) FAIL TO MAINTAIN A RE CORD OF EACH OPEN –LOOP GIFT CARD 
+TRANSACTION FOR AT L EAST 3 YEARS . 
+ 
+ (E) ON THE FILING OF AN O FFICIAL REPORT WITH A LAW ENFORCEMENT 
+AGENCY BY ANY PERSON  ALLEGING TO BE A VIC TIM OF THEFT OF ONE OR MORE 
+OPEN–LOOP GIFT CARDS WITH  AN AGGREGATE VALUE E XCEEDING $500,  THE LAW 
+ENFORCEMENT AGENCY M AY REQUEST THAT THE ISSUER OF THE GIFT C ARDS OR 
+Ch. 463  2024 LAWS OF MARYLAND   
+ 
+– 8 – THE ISSUER ’S AGENTS PRESERVE AN D PROVIDE TO THE LAW E NFORCEMENT 
+AGENCY ALL RELEVANT EVIDENCE REASONABLY FORESEEABLE AS OF AS SISTANCE 
+TO FUTURE CRIMINAL A CTIONS IN ACCORDANCE  WITH STATE LAW .  
+ 
+14–4606.  
+ 
+ (A) A EXCEPT AS PROVIDED IN  SUBSECTION (B) OF THIS SECTION , A A 
+VIOLATION OF THIS SUBTITLE IS : 
+ 
+  (1) AN UNFAIR , ABUSIVE , OR DECEPTIVE TRADE P RACTICE WITHIN 
+THE MEANING OF TITLE 13 OF THIS ARTICLE ; AND 
+ 
+  (2) SUBJECT TO THE PENALT Y AND ENFORCEMENT PR OVISIONS 
+CONTAINED IN TITLE 13 OF THIS ARTICLE , EXCEPT FOR § 13–408 OF THIS ARTICLE . 
+ 
+ (B) (1) BEFORE INITIATING AN ENFORCEMENT ACTION F OR A VIOLATION 
+OF THIS SUBTITLE , THE DIVISION MAY ISSUE A NOTICE OF VIOLATION TO THE 
+ALLEGED VIOLATOR IF : 
+ 
+   (I) THE DIVISION DETERMINES T HAT IT IS POSSIBLE T O CURE 
+THE VIOLATION ; 
+ 
+   (II) NO CONSUMER WAS HARMED AS A RESULT O F THE 
+VIOLATION ; AND  
+ 
+   (III) THE ALLEGED VIOLATOR HAS NOT PREVIOUSLY V IOLATED 
+THIS SUBTITLE . 
+ 
+  (2) IF THE DIVISION ISSUES A NOT ICE OF VIOLATION UND ER 
+PARAGRAPH (1) OF THIS SUBSECTION , THE DIVISION SHALL PROVID E THE ALLEGED 
+VIOLATOR N OT LESS THAN 10 DAYS AFTER THE NOTIC E OF VIOLATION IS IS SUED TO 
+CURE THE VIOLATION . 
+ 
+  (3) IF THE ALLEGED VIOLAT OR FAILS TO CURE THE  VIOLATION 
+WITHIN THE TIME PERI OD SPECIFIED BY THE DIVISION , THE DIVISION MAY INITIATE  
+AN ENFORCEMENT ACTIO N FOR A VIOLATION  OF THIS SUBTITLE .  
+ 
+ (B) A PERSON WHO VIOLATES THIS SUBTITLE IS SUB JECT TO A WARNING 
+FOR A FIRST VIOLATIO N. 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 
+as follows:  
+ 
+Article – Commercial Law  
+ WES MOORE, Governor  Ch. 463  
+ 
+– 9 –  
+14–4601.  
+ 
+ (a) In this subtitle the following words have the meanings indicated.  
+ 
+ (B) “CLOSED–LOOP GIFT CARD ” MEANS A CARD , CODE , OR DEVICE THAT IS : 
+ 
+  (1) ISSUED TO A CONSUMER ON A PREPAID BASIS P RIMARILY FOR 
+PERSONAL , FAMILY , OR HOUSEHOLD PURPOSE S IN A SPECIFIED AMO UNT, 
+REGARDLESS OF WHET HER THAT AMOUNT MAY BE INCREASED OR RELO ADED IN 
+EXCHANGE FOR PAYMENT ; AND  
+ 
+  (2) REDEEMABLE ON PRESENT ATION BY A CONSUMER AT A SINGLE 
+MERCHANT OR A GROUP OF AFFILIATED MERCHA NTS. 
+ 
+ [(b)] (C) “Division” has the meaning stated in § 13 –101 of this article.  
+ 
+ [(c)] (D) “Merchant” has the meaning stated in § 13 –101 of this article.  
+ 
+ [(d)] (E) “Open –loop gift card” means a card, code, or device that  is: 
+ 
+  (1) Is issued  Issued  to a consumer on a prepaid basis primarily for personal, 
+family, or household purposes  in a specified amount, regardless of whether that amount 
+may be increased or reloaded in exchange for payment;  
+ 
+  (2) Is payment  Payment  card network branded; and  
+ 
+  (3) (i) Is redeemable  Redeemable  on presentation at multiple 
+unaffiliated merchants for g oods or services within the payment card network; or  
+ 
+   (ii) Is usable  Usable  at an automated teller machine.  
+ 
+ [(e)] (F) “Third –party gift card reseller” means a merchant who, without 
+authorization from or affiliation with the business entity issuing an [open –loop] OPEN– OR 
+A CLOSED –LOOP  gift card, is engaged in the business of:  
+ 
+  (1) Buying [open –loop] OPEN– OR CLOSED –LOOP  gift cards on behalf of 
+consumers; or  
+ 
+  (2) Reselling [open –loop] OPEN– OR CLOSED –LOOP  gift cards to 
+consumers.  
+ 
+14–4602.  
+ 
+Ch. 463  2024 LAWS OF MARYLAND   
+ 
+– 10 –  (a) Except as provided in subsection (b) of this section, a merchant may not 
+knowingly sell an [open –loop] OPEN– OR A CLOSED –LOOP  gift card to a consumer unless:  
+ 
+  (1) The merchant conspicuously displays a notice in substantially the same 
+form as the model no tice created under § 14 –4604(1) of this subtitle:  
+ 
+   (i) For an in –person sale, at or near the physical location where:  
+ 
+    1. The gift card is displayed for sale; or  
+ 
+    2. The sale occurs; or  
+ 
+   (ii) For an online sale, on the webpage:  
+ 
+    1. Where the gift card is offered for sale; or  
+ 
+    2. That is displayed before the sale is finalized; [and] 
+ 
+  (2) For an in –person sale of an open –loop gift card, the gift card is enclosed 
+in secure packaging that:  
+ 
+   (i) Is sealed in a manner that is not easily opened without signs of 
+tampering and; 
+ 
+   (ii) Except as provided in item (iii) of this item,  conceals all numeric 
+codes specific to the activation or redemption of the gift card, including any bar code, CVV 
+number , PIN number, or activation code;   
+ 
+   (iii) Displays an activation code, bar code, or other activation data 
+only if the packing used is more secure than it otherwise would be if the data were fully 
+concealed;  and 
+ 
+   (ii) (iv) Includes a warning that states the following or uses 
+language substantially similar to the following:  
+ 
+“Do not sell or purchase if packaging has been broken or indicates tampering” ; AND  
+ 
+  (3) FOR AN IN –PERSON SALE OF A CLO SED–LOOP GIFT CARD , THE 
+GIFT CARD IS PRESENT ED IN PACKAGI NG THAT : 
+ 
+   (I) 1. IN A MANNER THAT IS N OT EASILY REMOVED OR  
+REPLACED  WITHOUT SIGNS OF TAM PERING , CONCEALS  CONCEALS  OR COVERS , IN A 
+MANNER THAT IS NOT E ASILY REMOVED OR REP LACED WITHOUT SIGNS OF 
+TAMPERING , ALL NUMERIC CODES SP ECIFIC TO THE REDEMP TION OF THE GIFT 
+CARD ; OR 
+ WES MOORE, Governor  Ch. 463  
+ 
+– 11 –  
+    2. IF MADE MORE SECURE T HROUGH PARTIAL 
+CONCEALMENT OR COVER ING THAN FULL CONCEA LMENT OR COVERING UN DER ITEM 
+1 OF THIS ITEM , PARTIALLY CONCEALS O R COVERS , IN A MANNER THAT IS NOT 
+EASILY REMOVED OR RE PLACED WITHOUT SIGNS  OF TAMPERING , ALL NUMERIC 
+CODES SPECIFIC TO RE DEMPTION OF THE GIFT  CARD ; AND  
+ 
+   (II) INCLUDES A WARNING TH AT STATES THE FOLLOW ING OR 
+USES LANGUAGE SUBSTA NTIALLY SIMILAR TO T HE FOLLOWING : 
+ 
+“DO NOT SELL OR PURCHA SE IF PACKAGING HAS BEEN BROKEN OR INDIC ATES 
+TAMPERING .”. 
+ 
+ (b) A merchant may sell an [open –loop] OPEN– OR A CLOSED –LOOP  gift card 
+that is not enclosed in secure packaging as required under subsection (a)(2) of this section 
+if: 
+ 
+  (1) The gift card is a chip –enabled, numberless card that is activated by a 
+consume r after registering the card on the card issuer’s website; or  
+ 
+  (2) The gift card:  
+ 
+   (i) Is sold exclusively by:  
+ 
+    1. A merchant for use only at the retail establishment of the 
+merchant; or  
+ 
+    2. A group of affiliated merchants for use only at the retail 
+establishments of the affiliated merchants; and  
+ 
+   (ii) Is secured in a physical location within the merchant’s retail 
+establishment that is accessible only by an employee of the merchant.  
+ 
+14–4603.  
+ 
+ A merchant that displays an [open –loop] OPEN– OR A CLOSED –LOOP  gift card for 
+sale at a retail establishment shall provide training to all employees of the merchant whose 
+duties regularly include the sale of [open –loop] OPEN– OR CLOSED –LOOP  gift cards to 
+consumers on how to identify and respond to gift card fraud in accordance with the 
+guidelines established under § 14 –4604(2) of this subtitle.  
+ 
+14–4604.  
+ 
+ The Division shall:  
+ 
+Ch. 463  2024 LAWS OF MARYLAND   
+ 
+– 12 –   (1) Create a model notice regarding [open –loop] OPEN– AND  
+CLOSED–LOOP  gift cards for use by merchants that:  
+ 
+   (i) Cautions a  consumer about gift card scams;  
+ 
+   (ii) Instructs a consumer on what to do if the consumer suspects the 
+consumer may be a victim of a gift card scam; and  
+ 
+   (iii) Indicates a gift card may not be used to pay debt;  
+ 
+  (2) Issue guidelines regarding the d etection and prevention of [open –loop] 
+OPEN– AND CLOSED –LOOP  gift card fraud that include:  
+ 
+   (i) Information that raises public awareness about gift card fraud;  
+ 
+   (ii) Information about how common gift card fraud schemes work; 
+and 
+ 
+   (iii) Best practi ces for a merchant to prevent gift card fraud; and  
+ 
+  (3) Make available online and periodically update the model notice and 
+guidelines required under this section.  
+ 
+14–4605.  
+ 
+ (a) This section applies only to third –party gift card resellers.  
+ 
+ (b) Subject to subsection (c) of this section, when a third –party gift card reseller 
+buys or sells an [open –loop] OPEN– OR A CLOSED –LOOP  gift card as part of a transaction 
+occurring in the State, the third –party gift card reseller shall record and for at least  3 years 
+maintain a copy of the following information, as applicable:  
+ 
+  (1) The date of the transaction;  
+ 
+  (2) The name of the person who conducted the transaction;  
+ 
+  (3) The name, age, and address of the seller of the gift card;  
+ 
+  (4) The seller’s and consumer’s driver’s license number or identification 
+card number;  
+ 
+  (5) A description of the purchased gift card, including:  
+ 
+   (i) The retailer for which the gift card is intended for use; and  
+ 
+   (ii) The gift card number;  
+ WES MOORE, Governor  Ch. 463  
+ 
+– 13 –  
+  (6) The specific amount issued on the gift card;  
+ 
+  (7) The prices paid to conduct the transaction; and  
+ 
+  (8) The signature of the consumer.  
+ 
+ (c) (1) The information recorded and maintained under subsection (b) of this 
+section shall chronologically be written i n ink or logged into a secure database, software 
+system, or other similar technology platform.  
+ 
+  (2) Except as provided in paragraph (3) of this subsection, recorded 
+information may not be destroyed, altered, or erased.  
+ 
+  (3) A handwritten correction may  be made to an entry of information by 
+drawing a line of ink through the entry in a manner that retains legibility.  
+ 
+  (4) Information recorded under this section shall be open to inspection by 
+any duly authorized law enforcement officer:  
+ 
+   (i) During the ordinary business hours of the third –party gift card 
+reseller; or  
+ 
+   (ii) At any reasonable time.  
+ 
+ (d) A third –party gift card reseller, including an agent or employee of the  
+third –party gift card reseller, may not:  
+ 
+  (1) Fail to make an entry of o r falsify, destroy, or remove any information 
+required to be recorded and maintained under this section;  
+ 
+  (2) Refuse to allow any duly authorized law enforcement officer to inspect 
+a record of information or [open –loop] OPEN– OR CLOSED –LOOP  gift cards in the  
+third –party gift card reseller’s possession during the ordinary business hours of the reseller 
+or at any reasonable time; or  
+ 
+  (3) Fail to maintain a record of each [open –loop] OPEN– OR  
+CLOSED–LOOP  gift card transaction for at least 3  years.  
+ 
+ (e) On the filing of an official report to a law enforcement agency by any person 
+alleging to be a victim of theft of one or more [open –loop] OPEN– OR CLOSED –LOOP  gift 
+cards with an aggregate value exceeding $500, the law enforcement agency may r equest 
+that the issuer of the gift cards or the issuer’s agents preserve and provide to the law 
+enforcement agency all relevant evidence reasonably foreseeable as of assistance to future 
+criminal actions in accordance with State law.   
+ 
+Ch. 463  2024 LAWS OF MARYLAND   
+ 
+– 14 –  SECTION 2. 3. AND B E IT FURTHER ENACTED, That Section 2 of  this Act shall 
+take effect October 1, 2024  2025 .  
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED, That, except as provided in Section 
+3 of this Act, this Act shall take effect June 1, 2025.  
+ 
+Approved by the Governor, May 9,  2024.  

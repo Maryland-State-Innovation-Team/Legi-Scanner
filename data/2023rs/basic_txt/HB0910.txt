@@ -1,0 +1,166 @@
+ WES MOORE, Governor  Ch. 570  
+ 
+– 1 – Chapter 570  
+(House Bill 910 ) 
+ 
+AN ACT concerning  
+ 
+Energy Storage – Targets and Maryland Energy Storage Program – 
+Establishment  
+ 
+FOR the purpose of requiring the Public Service Commission to establish certain targets 
+for the deployment of new energy storage devices in the State; requiring the 
+Commission to establish and implement the Maryland Energy Storage Program to 
+meet certain energy storage goals and develop a certain energy  storage system in the 
+State; and generally relating to energy storage in the State.  
+ 
+BY repealing and reenacting, without  with amendments,  
+ Article – Public Utilities  
+Section 7 –216(a)  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2022 Supplement)  
+ 
+BY adding to  
+ Article – Public Utilities  
+Section 7 –216.1  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2022 Supplement)  
+ 
+Preamble  
+ 
+ WHEREAS, Energy storage systems provide benefits to the electric grid and utility 
+customers by: ena bling the transition to a clean grid with diversified renewable resources; 
+creating system efficiencies that can reduce costs and save money for utilities and 
+ratepayers; bolstering grid reliability and resilience; improving system capabilities to 
+withstan d shocks and stressors; and promoting economic development and job creation in 
+Maryland communities; now, therefore,  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Public Utilities  
+ 
+7–216. 
+ 
+ (a) (1) In this section the following words have the meanings indicated.  
+ 
+  (2) (i) “Energy storage device” means a resource capable of absorbing 
+electrical energy, storing it for a period of time, and delivering the energy for use at a later 
+Ch. 570  2023 LAWS OF MARYLAND   
+ 
+– 2 – time as  needed, regardless of where the resource is located on the electric distribution 
+system.  
+ 
+   (ii) “Energy storage device” includes all types of electric storage 
+technologies, regardless of their size, storage medium, or operational purpose , INCLUDING : 
+ 
+    1. THERMAL STORAGE ; 
+ 
+    2. ELECTROCHEMICAL STOR AGE; 
+ 
+    3. VIRTUAL POWER PLANTS ; AND  
+ 
+    4. HYDROGEN –BASED STORAGE . 
+ 
+  (3) “Investor –owned electric company” means an electric company that is 
+not a municipal electric utility or an electric cooperative.  
+ 
+7–216.1.  
+ 
+ (A) (1) IN THIS SECTION THE F OLLOWING WORDS HAVE THE MEANINGS 
+INDICATED . 
+ 
+  (2) “ENERGY STORAGE DEVICE ” HAS THE MEANING STAT ED IN §  
+7–216 OF THIS SUBTITLE . 
+ 
+  (3) “DELIVERY YEAR ” HAS THE MEANING STAT ED IN THE PJM  
+INTERCONNECTION GLOSS ARY.  
+ 
+  (4) “INVESTOR –OWNED ELECTRIC COMPA NY” HAS THE MEANING 
+STATED IN § 7–216 OF THIS SUBTITLE . 
+ 
+  (5) “PROGRAM ” MEANS THE MARYLAND ENERGY STORAGE 
+PROGRAM . 
+ 
+ (B) (1) THE COMMISSION SHALL ESTA BLISH TARGETS FOR TH E  
+COST–EFFECTIVE  DEPLOYMENT OF NEW EN ERGY STORAGE DEVICES  IN THE STATE 
+OF AT LEAST  WITH A GOAL OF ACHIE VING : 
+ 
+  (1) (I) 750 MEGAWATT –HOURS  MEGAWATTS  OF CUMULATIVE 
+ENERGY STORAGE CAPAC ITY BY THE END OF DE LIVERY YEAR 2027;  
+ 
+  (2) (II) 1,500  MEGAWATT –HOURS  MEGAWATTS  OF CUMULATIVE 
+ENERGY STORAGE CAPAC ITY BY THE END OF DE LIVERY YEAR 2030;  AND  
+ 
+ WES MOORE, Governor  Ch. 570  
+ 
+– 3 –   (3) (III) 3,000  MEGAWATT –HOURS  MEGAWATTS  OF CUMULATIVE 
+ENERGY STORAGE CAPAC ITY BY THE END OF DE LIVERY YEAR 2033.  
+ 
+  (2) IF A TARGET SPECIFIED  IN PARAGRAPH (1) OF THIS SUBSECTION 
+CANNOT BE MET COST E FFECTIVELY , THE TARGET SHALL BE REDUCED TO THE 
+MAXIMUM COST –EFFECTIVE AMOUNT OF ENERGY STORAGE , MEASURED IN 
+MEGAWATTS , THAT CAN BE DEPLOYED  BY THE END OF THE DE LIVERY YEAR FOR THE 
+TARGET .  
+ 
+ (C) (1) THE COMMISSION SHALL ESTA BLISH THE MARYLAND ENERGY 
+STORAGE PROGRAM . 
+ 
+  (2) THE PROGRAM SHALL BE IMPL EMENTED NO LATER THA N JULY 1, 
+2024  2025 . 
+ 
+  (3) THE PROGRAM SHALL INCLUDE : 
+ 
+   (I) COMPETITIVE PROCUREM ENT MECHANISMS TO RE ACH A 
+MINIMUM OF 3,000  MEGAWATTS OF ENERGY STORAGE , OR THE MAXIMUM  
+COST–EFFECTIVE AMOUNT OF ENERGY STORAGE THAT CAN BE DEPLOYED , BY THE 
+END OF DELIVERY YEAR  2033 ;. 
+ 
+  (4) THE PROGRAM MAY INCLUDE :  
+ 
+   (II) (I) A SYSTEM OF ENERGY S TORAGE CREDITS AND  
+MARKET –BASED INCENTIVES DES IGNED TO :  
+ 
+    1. DEVELOP A ROBUST ENE RGY STORAGE MARKET IN 
+THE STATE ; AND 
+ 
+    2. DEPLOY ENERGY STORAG E DEVICES IN A  
+COST–EFFECTIVE MANNER ; 
+ 
+   (III) POWER PURCHASE AGREE MENTS THAT ARE  
+COMPETITIVELY BID BY  INVESTOR –OWNED ELECTRIC COMPA NIES TO INITIATE  
+CONTRACTS FOR ENERGY  STORAGE DEVICES OR F OR CREDITS FROM ENERGY  
+STORAGE PROJECTS UND ER § 7–216 OF THIS SUBTITLE ; AND  
+ 
+   (II) A REQUIREMENT THAT I NVESTOR –OWNED ELECTRIC 
+COMPANIES : 
+ 
+    1. INSTALL OR CONTRACT FOR ENERGY STORAGE 
+DEVICES ; OR 
+ 
+Ch. 570  2023 LAWS OF MARYLAND   
+ 
+– 4 –     2. CONTRACT FOR CREDITS  FROM AN ENERGY STORA GE 
+PROJECT UNDER § 7–216 OF THIS SUBTITLE ; OR  
+ 
+   (IV) (III) A REQUIREMENT THAT PROGRAM PARTICIPANTS 
+MAKE REASONABLE EFFO RTS TO APPLY FOR ALL  APPLICABLE STATE AND FEDERAL 
+GRANTS , REBATES , TAX CREDITS , LOAN GUARANTEES , AND OTHER SIMILAR 
+BENEFITS AS THE BENE FITS BECOME AVAILABL E; OR 
+ 
+   (IV) ANY OTHER MECHANISM OR POLICY THAT THE COMMISSION 
+DETERMINES IS APPROP RIATE TO ACHIEVE THE  GOAL OF A ROBUST ,  
+COST–EFFECTIVE ENERGY STO RAGE SYSTEM IN THE STATE . 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That, on or before December 31, 
+2023, the Commission shall report to the General Assembly, in accordance with § 2 –1257 
+of the State Government Article, on pending designs for the Maryland Energy Storage 
+Program and any additio nal statutory changes required to fully implement an effective 
+Maryland Energy Storage Program to meet the minimum targets for the deployment of new 
+energy storage devices under § 7 –216.1 of the Public Utilities Article, as enacted by Section 
+1 of this Act . 
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2023.  
+ 
+Approved by the Governor, May 8, 2023.  

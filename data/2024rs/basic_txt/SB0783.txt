@@ -1,0 +1,1118 @@
+ WES MOORE, Governor  Ch. 595  
+ 
+– 1 – Chapter 595  
+(Senate Bill 783 ) 
+ 
+AN ACT concerning  
+ 
+Renewable Energy – Net Energy Metering Aggregation, Solar Renewable 
+Energy Credits Certified SRECs and Compliance Fees, Labor Requirements , 
+and Taxes on Solar Energy Generating Systems   
+Public Utilities – Solar Energy Systems and Programs, Maryland Strategic 
+Energy Investment Fund, and Prevailing Wage  
+(Brighter Tomorrow Act)  
+ 
+FOR the purpose of requiring that certain home improvement contracts for the installation 
+of a solar energy generating system on the roof of a building include the installation 
+of a certain wildlife barrier under certain circumstances;  requiring a county or 
+municipality to implement certain software fo r features supporting the tracking and 
+approval of residential building permits for certain residential solar energy projects, 
+residential energy storage projects, and main electric panel alterations by a certain 
+date except under certain circumstances; re quiring the Maryland Energy 
+Administration to delay the implementation of or suspend a certain requirement 
+under certain circumstances;  altering the maximum generating capacity authorized 
+for certain net metered generating facilities; authorizing an eligib le  
+customer –generator participating in certain meter aggregation to receive excess 
+generation from more than one generating system; altering the expiration date of 
+renewable energy credits;  requiring the Public Service Commission to establish a 
+Small Sola r Energy Generating System Incentive Program to provide certain 
+certified systems with a certain additional percentage of renewable energy credits  
+certain certified SRECs that may be put  toward meeting the renewable energy 
+portfolio standard for solar ener gy; providing that a certified system is eligible to 
+receive an additional percentage of renewable energy credits for the life cycle of the 
+system  certain certified SRECs for a certain period of time; requiring an owner of a 
+certain solar energy generating  system to pay a certain fee to the Commission ; 
+increasing the duration of a certain renewable energy credit under certain 
+circumstances;  requiring that certain prevailing wage provisions apply to the 
+construction of a certain certified  solar energy genera ting system unless the system 
+is subject to a certain project labor agreement ; establishing the Customer –Sited Solar 
+Program within the Maryland Energy Administration for the purpose of providing 
+grants to certain eligible customer –generators for certain s olar energy generating 
+systems; authorizing a third party to apply for a grant on behalf of an eligible 
+customer –generator under certain circumstances; requiring the Administration to 
+publish certain information regarding the Program; requiring the Adminis tration to 
+develop a certain consumer protection policy; providing for the funding of Program 
+grants from certain fees in the Maryland Strategic Energy Investment Fund ; 
+requiring a certain percentage of proceeds received by the Maryland Strategic 
+Energy Investment  Fund from certain compliance fees to be credited to a certain 
+account for certain purposes;  extending for a certain number of years a certain 
+Ch. 595  2024 LAWS OF MARYLAND   
+ 
+– 2 – personal property tax exemption for certain community solar energy generating 
+system projects; exemptin g certain nonresidential solar generating systems from the 
+State or local real or personal property tax; authorizing a county or municipal 
+corporation to reduce or eliminate an assessment on certain real property on which 
+a certain solar energy generating system is located; applying certain prevailing wage 
+requirements for contractors and subcontractors working on certain projects 
+involving, and traffic control activities related to, any underground gas or electric 
+infrastructure of an investor –owned gas or  electric infrastructure project of the 
+company;  requiring a county to enter into a certain payment in lieu of taxes 
+agreement with an owner of a certain ground –mounted solar generating facility 
+under certain circumstances;  and generally relating to renewa ble energy facilities 
+and contracts and  tax provisions for renewable energy facilities  and public utility 
+activities . 
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Business Regulation  
+Section 8 –501(a)  
+ Annotated Code of Maryland  
+ (2015 Replacement Volume and 2023 Supplement)  
+ 
+BY adding to  
+ Article – Business Regulation  
+Section 8 –501(f)  
+ Annotated Code of Maryland  
+ (2015 Replacement Volume and 2023 Supplement)  
+ 
+BY adding to  
+ Article – Local Government  
+ Section 1 –1319  
+ Annotated Code of Maryland  
+ (2013 Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Public Utilities  
+Section 7 –306(g) and (i), 7 –709(d), and 7 –712 
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2023 Supplement)  
+ 
+BY adding to  
+ Article – Public Utilities  
+Section 7 –306(i) and, 7–709.1 , and 7 –714 
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2023 Supplement)  
+ 
+BY adding to  
+ Article – State Government  
+ WES MOORE, Governor  Ch. 595  
+ 
+– 3 –  Section 9 –2016 and 9 –20B–05(f)(13) and (g –1) 
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – State Government  
+Section 9 –20B–05(a) through (c)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – State Government  
+ Section 9 –20B–05(f)(12) and (13) and (i)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2023 Supplement)  
+ 
+BY adding to  repealing and reenacting, with amendments,  
+ Article – State Government  
+Section 9 –20B–05(g–1) 
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2023 Supplement)  
+ (As enacted by Section 1 of this Act)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Tax – Property  
+Section 1 –101(j)  
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Tax – Property  
+Section 7 –237(c)  
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2023 Supplement)  
+ 
+BY adding to  
+ Article – Tax – Property  
+Section 7 –249, 7 –250, and 7 –522 Section 7 –249 and 7 –250  
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Public Utilities  
+ Section 5 –305 
+ Annotated Code of  Maryland  
+ (2020 Replacement Volume and 2023 Supplement)  
+Ch. 595  2024 LAWS OF MARYLAND   
+ 
+– 4 –  
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Business Regulation  
+ 
+8–501. 
+ 
+ (a) A home improvement contract that does not comply with this section is not 
+invalid merely because of noncompliance.  
+ 
+ (F) (1) EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS SUBSECTION , A 
+HOME IMPROVEMENT CON TRACT FOR THE INSTAL LATION OF A SOLAR EN ERGY 
+GENERATING SYSTEM ON  THE ROOF OF A BUILDI NG SHALL INCLUDE THE 
+INSTALLATION OF A BA RRIER THAT MEETS IND USTRY STANDARDS TO P REVENT 
+WILDLIFE INTRUSION A ND DAMAGE TO THE SOL AR ENERGY GENERATING  SYSTEM 
+OR THE UNDERLYING RO OF. 
+ 
+  (2) A HOME IMPROVEMENT CON TRACT FOR THE INSTAL LATION OF A 
+SOLAR ENERGY GENERAT ING SYSTEM ON THE ROOF O F A BUILDING IS NOT 
+REQUIRED TO INCLUDE THE INSTALLATION OF A BARRIER AS SPECIFI ED UNDER 
+PARAGRAPH (1) OF THIS SUBSECTION I F THE CUSTOMER HAS W AIVED THE 
+INSTALLATION OF THE BARRIER AFTER BEING INFORMED OF THE COST  OF THE 
+BARRIER AND THE  RISKS OF NOT INSTALL ING A WILDLIFE BARRI ER.  
+ 
+Article – Local Government  
+ 
+1–1319.  
+ 
+ (A) (1) IN THIS SECTION THE F OLLOWING WORDS HAVE THE MEANINGS 
+INDICATED . 
+ 
+  (2) “ADMINISTRATION ” MEANS THE MARYLAND ENERGY 
+ADMINISTRATION . 
+ 
+  (3) “RESIDENTIAL ENERGY STORAGE SYSTEM ” MEANS A SYSTEM , ON 
+A RESIDENTIAL CUSTOM ER’S SIDE OF THE METER , USED TO STORE ELECTR ICAL 
+ENERGY , OR MECHANICAL , CHEMICAL , OR THERMAL ENERGY TH AT WAS ONCE 
+ELECTRICAL ENERGY , FOR USE AS ELECTRICA L ENERGY AT A LATER DATE OR IN A 
+PROCESS THAT OF FSETS ELECTRICITY US E AT PEAK TIMES . 
+ 
+  (4) “RESIDENTIAL SOLAR ENE RGY SYSTEM ” MEANS ANY 
+CONFIGURATION OF SOL AR ENERGY DEVICES TH AT COLLECTS AND DIST RIBUTES 
+ WES MOORE, Governor  Ch. 595  
+ 
+– 5 – SOLAR ENERGY FOR THE  PURPOSE OF GENERATIN G ELECTRICITY AND TH AT HAS A 
+SINGLE RESIDENTIAL I NTERCONNECTION WITH THE ELECTRICAL GRID . 
+ 
+  (5) “SOLAR PERMITTING SOFT WARE” MEANS :  
+ 
+   (I) THE MOST RECENT VERS ION OF A WEB –BASED PLATFORM , 
+DEVELOPED BY THE NATIONAL RENEWABLE ENERGY LABORATORY , THAT PROVIDES 
+A STANDARD PORTAL FO R RECEIVING AND PROC ESSING RESIDENTIAL S OLAR 
+ENERGY SYSTEM AND RE SIDENTIAL ENERGY STO RAGE SYSTEM PERMIT 
+INFORMATI ON; OR 
+ 
+   (II) AUTOMATED SOFTWARE T HAT FUNCTIONS TO SUP PORT THE 
+TRACKING AND APPROVA L OF RESIDENTIAL BUI LDING PERMITS FOR RE SIDENTIAL 
+SOLAR ENERGY SYSTEMS , RESIDENTIAL ENERGY S TORAGE SYSTEMS , MAIN 
+ELECTRICAL PANEL UPG RADES , AND MAIN ELECTRICAL PANEL DEVICES . 
+ 
+ (B) THIS SECTION APPLIES TO ALL COUNTIES AND MUNICIPALITIES . 
+ 
+ (C) SUBJECT TO SUBSECTION  (D) OF THIS SECTION AND EXCEPT AS 
+PROVIDED IN SUBSECTI ON (E) OF THIS SECTION , ON OR BEFORE AUGUST 1, 2025,  
+EACH COUNTY AND MUNI CIPALITY SHALL IMPLE MENT SOLA R PERMITTING 
+SOFTWARE FOR FEATURE S SUPPORTING THE TRA CKING AND APPROVAL O F 
+RESIDENTIAL BUILDING  PERMITS FOR : 
+ 
+  (1) RESIDENTIAL SOLAR EN ERGY SYSTEMS ; 
+ 
+  (2) RESIDENTIAL ENERGY S TORAGE SYSTEMS ; 
+ 
+  (3) MAIN ELECTRIC PANEL UPGRADES ; AND  
+ 
+  (4) MAIN ELECTRIC P ANEL DERATES . 
+ 
+ (D) A COUNTY OR MUNICIPALI TY MAY NOT BE REQUIR ED TO COMPLY WITH 
+THE REQUIREMENTS OF SUBSECTION (C) OF THIS SECTION IF : 
+ 
+  (1) THE COUNTY OR MUNICI PALITY DOES NOT REQU IRE A PERMIT 
+FOR: 
+ 
+   (I) RESIDENTIAL SOLAR EN ERGY SYSTEMS ; OR 
+ 
+   (II) RESIDENTIAL SOLAR ENER GY SYSTEMS PAIRED WI TH A 
+RESIDENTIAL SOLAR EN ERGY STORAGE SYSTEM ; OR 
+ 
+Ch. 595  2024 LAWS OF MARYLAND   
+ 
+– 6 –   (2) AS DETERMINED BY THE  ADMINISTRATION , THE AUTOMATED 
+SOFTWARE IS NO LONGE R UPDATED OR MAINTAI NED. 
+ 
+ (E) THE ADMINISTRATION SHALL DELAY THE INITIAL IM PLEMENTATION OR 
+SUSPEND THE REQUIREM ENTS OF SUBSECTION (C) OF THIS SECTION IF T HERE ARE 
+INSUFFICIENT STATE OR FEDERAL FUND S AVAILABLE TO THE ADMINISTRATION TO 
+PROVIDE FINANCIAL SU PPORT TO A COUNTY OR  MUNICIPALITY IMPLEME NTING 
+SOLAR PERMITTING SOF TWARE AS DEFINED IN SUB SECTION (A)(5)( I) OF THIS 
+SECTION .  
+ 
+Article – Public Utilities  
+ 
+7–306. 
+ 
+ (g) (1) Except as provided in paragraphs [(6) and (7) ] (6), (7), AND (8) of this 
+subsection, the generating capacity of an electric generating system used by an eligible 
+customer –generator for net metering may not exceed 2 megawatts.  
+ 
+  (2) An electric generating system used by an eligible customer –generator 
+for net metering s hall meet all applicable safety and performance standards established by 
+the National Electrical Code, the Institute of Electrical and Electronics Engineers, and 
+Underwriters Laboratories.  
+ 
+  (3) The Commission may adopt by regulation additional control an d testing 
+requirements for eligible customer –generators that the Commission determines are 
+necessary to protect public safety and system reliability.  
+ 
+  (4) An electric company may not require an eligible customer –generator 
+whose electric generating system  meets the standards of paragraphs (2) and (3) of this 
+subsection to:  
+ 
+   (i) install additional controls;  
+ 
+   (ii) perform or pay for additional tests; or  
+ 
+   (iii) purchase additional liability insurance.  
+ 
+  (5) An eligible customer –generator or the eligible customer –generator’s 
+assignee shall own and have title to all renewable energy attributes or renewable energy 
+credits associated with any electricity produced by its electric generating system.  
+ 
+  (6) The Commission may not prohibit the constructi on or operation of 
+multiple net metered solar energy generating facilities located on separate contiguous lots 
+that are owned by a local government solely because the capacity of the combined net 
+metering systems exceeds the limit established under paragra ph (1) of this subsection, if:  
+ WES MOORE, Governor  Ch. 595  
+ 
+– 7 –  
+   (i) the net metered solar energy generating facilities are intended to 
+be used solely for the benefit of the local government;  
+ 
+   (ii) the total capacity of the net metered solar energy generating 
+facilities on the contiguous lots does not exceed 5 megawatts;  
+ 
+   (iii) the contiguous lots were not subdivided for the purpose of 
+circumventing the limit established under paragraph (1) of this subsection; and  
+ 
+   (iv) the utility serving the net metered solar energy gene rating 
+facilities is not an electric cooperative or municipal electric utility.  
+ 
+  (7) The generating capacity of a community solar energy generating system 
+established under § 7 –306.2 of this subtitle that is used for net metering may not exceed 5 
+megawat ts. 
+ 
+  (8) THE GENERATING CAPACI TY OF A NET METERED FACILITY THAT  
+IS METER AGGREGATED UNDER § 7–306.3  OF THIS SUBTITLE MAY  NOT EXCEED 5 
+MEGAWATTS . 
+ 
+ (I) NOTWITHSTANDING THE G ENERATING CAPACITY L IMITS ESTABLISHED  
+IN SUBSECTION (G) OF THIS SECTION , AN ELIGIB LE CUSTOMER –GENERATOR  
+PARTICIPATING IN MET ER AGGREGATION UNDER  § 7–306.2  OR § 7–306.3  OF THIS  
+SUBTITLE MAY RECEIVE  EXCESS GENERATION FR OM MORE THAN ONE GEN ERATING  
+SYSTEM , INCLUDING IF THE COM BINED GENERATING CAP ACITY OF ALL NET  
+METERED FACILITIES T HAT ARE METER AGGREGATED EXC EEDS 5 MEGAWATTS . 
+ 
+ [(i)] (J) On or before November 1 of each year, the Commission shall report to 
+the General Assembly, in accordance with § 2 –1257 of the State Government Article, on the 
+status of the net metering program under this s ection, including:  
+ 
+  (1) the amount of capacity of electric generating facilities owned and 
+operated by eligible customer –generators in the State by type of energy resource;  
+ 
+  (2) based on the need to encourage a diversification of the State’s energy 
+resource mix to ensure reliability, whether the rated generating capacity limit in subsection 
+(d) of this section should be altered; and  
+ 
+  (3) other pertinent information.  
+ 
+7–709. 
+ 
+Ch. 595  2024 LAWS OF MARYLAND   
+ 
+– 8 –  (d) (1) Except as PROVIDED IN § 7–709.1  OF THIS SUBTITLE AND  
+authorized unde r paragraph (2) of this subsection, a renewable energy credit shall exist for 
+3 5 years from the date created.  
+ 
+  (2) A renewable energy credit may be diminished or extinguished before 
+the expiration of 3 5 years by:  
+ 
+   (i) the electricity supplier that received the credit;  
+ 
+   (ii) a nonaffiliated entity of the electricity supplier:  
+ 
+    1. that purchased the credit from the electricity supplier 
+receiving the credit; or  
+ 
+    2. to whom the electricity supplier otherwise transferred the 
+credit; or  
+ 
+   (iii) demonstrated noncompliance by the generating facility with the 
+requirements of § 7 –704(f) of this subtitle.  
+ 
+7–709.1.  
+ 
+ (A) (1) IN THIS SECTION THE F OLLOWING WORDS HAVE THE MEANINGS 
+INDICATED . 
+ 
+  (2) “BROWNFIELD ” HAS THE MEANING STAT ED IN § 7–207 OF THIS 
+TITLE . 
+ 
+  (3) “CERTIFIED SREC”  MEANS A SOLAR RENEWA BLE ENERGY 
+CREDIT GENERATED BY A CERTIFIED SYSTEM . 
+ 
+  (4) “CERTIFIED SYSTEM ” MEANS A SOLAR ENERGY  GENERATING 
+SYSTEM CERTIFIED BY THE COMMISSION AS ELIGIBLE TO RECEI VE ADDITIONAL  
+CREDITS UNDER THE PROG RAM  UNDER THE PROGRAM TO GENERATE C ERTIFIED 
+SREC S WITH THE COMPLIANC E VALUE SPECIFIED IN  SUBSECTION (C) OF THIS 
+SECTION . 
+ 
+  (3) (5) “PROGRAM ” MEANS THE SMALL SOLAR ENERGY 
+GENERATING SYSTEM INCENTIVE PROGRAM . 
+ 
+ (B) THE COMMISSION SHALL ESTA BLISH A SMALL SOLAR ENERGY 
+GENERATING SYSTEM INCENTIVE PROGRAM . 
+ 
+ WES MOORE, Governor  Ch. 595  
+ 
+– 9 –  (C) UNDER THE PROGRAM , SOLAR ENERGY GENERAT ING SYSTEMS THAT  
+ARE CERTIFIED BY THE  COMMISSION IN ACCORDA NCE WITH THIS SECTIO N SHALL  
+BE ELIGIBLE TO RECEI VE ADDITIONAL SOLAR RENEWABLE ENERGY CRE DITS AS  
+PROVID ED IN THIS SECTION . 
+ 
+ (C) (1) UNDER THE PROGRAM , A CERTIFIED SYSTEM S HALL GENERATE 
+CERTIFIED SREC S. 
+ 
+  (2) EXCEPT AS PROVIDED IN  PARAGRAPH (3) OF THIS SUBSECTION , 
+THE PROVISIONS OF TH IS SUBTITLE RELATING  TO RENEWABLE ENERGY CREDITS 
+SHALL APPLY TO CERTI FIED SREC S.  
+ 
+  (3) A CERTIFIED SREC  SHALL HAVE A COMPLIA NCE VALUE OF 150%  
+FOR ELECTRICITY SUPP LIERS TO PUT TOWARD MEETING THE R ENEWABLE ENERGY 
+PORTFOLIO STANDARD F OR ENERGY DERIVED FR OM SOLAR ENERGY UNDE R § 7–703 
+OF THIS SUBTITLE .  
+ 
+ (D) TO BE ELIGIBLE FOR CE RTIFICATION UNDER TH E PROGRAM , A SOLAR 
+ENERGY GENERATING SY STEM SHALL : 
+ 
+  (1) BE LOCATED IN THE STATE ; 
+ 
+  (2) BE ELIGIBLE FOR INCL USION IN MEETING THE  RENEWABLE 
+ENERGY PORTFOLIO STA NDARD ;  
+ 
+  (3) HAVE A GENERATING CA PACITY OF 2 5 MEGAWATTS OR LESS , AS 
+MEASURED BY THE ALTE RNATING CURRENT RATI NG OF THE SYSTEM ’S INVERTER ; 
+AND   
+ 
+  (4) BE PLACED IN SERVICE  BETWEE N JULY 1, 2024,  AND JANUARY 1, 
+2028,  INCLUSIVE ; AND 
+ 
+  (5) BE ONE OF THE FOLLOW ING TYPES OF SYSTEMS : 
+ 
+   (I) A SYSTEM WITH A GENE RATING CAPACITY OF 20 KILOWATTS 
+OR LESS , AS MEASURED BY THE A LTERNATING CURRENT R ATING OF THE SYSTEM ’S 
+INVERTER ; 
+ 
+   (II) A SYSTEM WITH A GENERA TING CAPACITY OF 2 MEGAWATTS 
+OR LESS , AS MEASURED BY THE A LTERNATING CURRENT R ATING OF THE SYSTEM ’S 
+INVERTER , IF THE SYSTEM IS USE D FOR AGGREGATE NET METERING ; OR 
+ 
+   (III) A SYSTEM WITH A GENE RATING CAPACITY OF B ETWEEN 20 
+KILOWATTS AND  5 MEGAWATTS , AS MEASURED BY THE A LTERNATING CURRENT 
+Ch. 595  2024 LAWS OF MARYLAND   
+ 
+– 10 – RATING OF THE SYSTEM ’S INVERTER , IF THE SYSTEM IS LOC ATED ON A ROOFTOP , A 
+PARKING CANOPY , OR A BROWNFIELD . 
+ 
+ (E) EXCEPT AS PROVIDED IN  SUBSECTION (F) OF THIS SECTION , THE 
+COMMISSION , AT THE TIME OF CERTI FYING A SOLAR ENERGY  GENERATING SYSTEM 
+AS A TIER 1 RENEWABLE SOURCE , SHALL CERTIFY THE SY STEM AS ELIGIBLE TO 
+RECEIVE  GENERATE  CERTIFIED SREC S IN ACCORDANCE WITH  SUBSECTION (C) OF 
+THIS SECTION IF THE APPLICANT SUBMITS WI TH ITS APPLICATION F OR 
+CERTIFICATION AS A TIER 1 RENEWABLE SOURCE : 
+ 
+  (1) A FORM REQUESTING TO  BE CERTIFIED TO RECE IVE CERTIFIED 
+SREC S WITH THE VALUE SPE CIFIED IN SUBSECTION  (C) OF THIS SECTION ;  
+ 
+  (2) A COPY OF THE INTERC ONNECTION AGREEMENT BETWEEN THE 
+APPLICANT AND THE AP PLICANT ’S ELECTRIC  COMPANY INDICATING T HAT THE SIZE 
+OF THE SYSTEM IS ELI GIBLE ; 
+ 
+  (3) IF SEEKING CERTIFICA TION AS A SYSTEM LOC ATED ON OR OVER A 
+ROOF , PARKING LOT , OR PARKING STRUCTURE , A COPY OF THE FINAL APPROVAL OF 
+THE LOCAL BUILDING P ERMIT ;  
+ 
+  (4) IF SEEKING CERTIFICA TION AS A SYSTEM LOCAT ED ON A 
+BROWNFIELD , DOCUMENTATION DEMONS TRATING THAT THE SYS TEM IS LOCATED 
+ON A BROWNFIELD ;  
+ 
+  (5) IF SEEKING CERTIFICA TION BASED ON AGGREG ATED NET 
+METERING , A COPY OF THE AGGREG ATED NET ENERGY METE RING RIDER 
+SUBMITTED WITH THE I NTERCO NNECTION AGREEMENT ; AND  
+ 
+  (6) ANY OTHER INFORMATIO N REQUIRED BY THE COMMISSION . 
+ 
+ (F) (1) THE OWNER OF A SOLAR ENERGY GENERATING SY STEM MAY 
+APPLY TO THE COMMISSION TO BE CERT IFIED UNDER THE PROGRAM IF THE 
+SYSTEM MEETS THE REQ UIREMENTS UNDER SUBS ECTION (D) OF THIS SECTION . 
+ 
+  (2) THE OWNER OF A SOLAR ENERGY GENERATING SY STEM THAT IS 
+PLACED IN SERVICE BE TWEEN JULY 1, 2024,  AND JANUARY 1, 2025,  MAY APPLY TO 
+THE COMMISSION : 
+ 
+   (I) BEFORE JANUARY 1, 2025,  FOR CERTIFICATION AS  A TIER 1 
+RENEWABLE SOURCE ; AND  
+ 
+ WES MOORE, Governor  Ch. 595  
+ 
+– 11 –    (II) ON OR AFTER JANUARY 1, 2025,  FOR CERTIFICATION 
+UNDER THE PROGRAM .  
+ 
+ (E) (G) THE TOTAL AMOUNT OF I N–STATE GENERATING CAPA CITY FOR 
+CERTIFIED SYSTEMS , AS MEASURED BY THE A LTERNATING CURRENT R ATING OF 
+THE SYSTEMS ’ INVERTERS , UNDER THE PROGRAM MAY NOT EXCEED : 
+ 
+  (1) 330 300 MEGAWATTS FOR SYSTEM S WITH A GENERATING 
+CAPACITY OF LESS THA N 20 KILOWATTS , AS MEASURED BY THE A LTERNATING 
+CURRENT RATING OF TH E SYSTEM ’S INVERTER ; AND  
+ 
+  (2) 300 270 MEGAWATTS FOR SYSTEM S WITH A GENERATING 
+CAPACITY OF BETWEEN 20 KILOWATTS AND 2 5 MEGAWATTS , AS MEASURED BY THE 
+ALTERNATING CURRENT RATING OF THE SYSTEM ’S INVERTER . 
+ 
+ (F) (1) THE OWNER OF A SOLAR ENERGY GENERATING SY STEM MAY  
+APPLY TO THE COMMISSION TO BE CERT IFIED UNDER THE PROGRAM . 
+ 
+  (2) THE OWNER OF A CERTIF IED SYSTEM SHALL PAY A ONE –TIME FEE  
+OF $100  TO THE COMMISSION AT THE TIM E OF THE CERTIFICATI ON. 
+ 
+ (H) (1) AT THE TIME A SOLAR E NERGY GENERATING SYS TEM IS 
+CERTIFIED AS A TIER 1 RENEWABLE SOURCE , THE OWNER OF THE SYS TEM SHALL 
+PAY TO THE COMMISSION A ONE –TIME FEE OF : 
+ 
+   (I) UP TO $50 FOR EACH SYSTEM WITH  A GENERATING 
+CAPACITY OF LESS THA N 20 KILOWATTS , AS MEASURED BY THE A LTERNATING 
+CURRENT RATING OF TH E SYSTEM ’S INVERTER ; AND  
+ 
+   (II) UP TO $200  FOR EACH SYSTEM WITH  A GENERATING 
+CAPACITY OF MORE THA N 20 KILOWATTS , AS MEASURED BY THE ALTE RNATING 
+CURRENT RATING OF TH E SYSTEM ’S INVERTER .  
+ 
+  (3) (2) THE COMMISSION SHALL USE THE FEES COLLECTED U NDER 
+PARAGRAPH (2) (1) OF THIS SUBSECTION T O PAY FOR COSTS ASSO CIATED WITH 
+ADMINISTERING THE PROGRAM . 
+ 
+ (G) (1) A CERTIFIED SYSTEM  UNDER THE PROGRAM SHALL RECEIVE : 
+ 
+   (I) FOR SYSTEMS WITH A G ENERATING CAPACITY O F UP TO 2 
+MEGAWATTS , AS MEASURED BY THE A LTERNATING CURRENT R ATING OF THE  
+SYSTEM’S INVERTER , 150%  CREDIT TOWARD MEETIN G THE RENEWABLE ENER GY 
+PORTFOLIO STANDARD F OR ENERGY DERIVED FR OM SOLAR ; AND  
+ 
+Ch. 595  2024 LAWS OF MARYLAND   
+ 
+– 12 –    (II) FOR SYSTEMS WITH A G ENERATING CAPACITY O F UP TO 2 
+MEGAWATTS , AS MEASURED BY THE A LTERNATING CURRENT R ATING OF THE  
+SYSTEM’S INVERTER , THAT ARE LOCATED ON A ROOFTOP , A PARKING CANOPY , OR A  
+BROWN FIELD , 200%  CREDIT TOWARD MEETIN G THE RENEWABLE ENER GY 
+PORTFOLIO STANDARD F OR ENERGY DERIVED FR OM SOLAR . 
+ 
+  (2) A CERTIFIED SYSTEM IS ELIGIBLE TO RECEIVE THE PERCENTAGE  
+CREDIT SPECIFIED IN PARAGRAPH (1) OF THIS SUBSECTION F OR THE ENTIRE  
+LIFE CYCLE OF THE SYSTEM . 
+ 
+ (H) NOTWITHSTANDING § 7–709( D)(1) OF THIS SUBTITLE , A CREDIT  
+CREATED BY A CERTIFI ED SYSTEM UNDER THE PROGRAM SHALL EXIST F OR 5 YEARS  
+FROM THE DATE CREATE D. 
+ 
+ (I) THE DEVELOPER OF A CE RTIFIED SYSTEM UNDER  THE PROGRAM THAT  
+HAS A GENERATING CAP ACITY  OVER 1 MEGAWATT , AS MEASURED BY THE  
+ALTERNATING CURRENT RATING OF THE SYSTEM ’S INVERTER , SHALL ENSURE THAT  
+WORKERS ARE PAID NOT  LESS THAN THE PREVAI LING WAGE RATE DETER MINED  
+UNDER TITLE 17, SUBTITLE 2 OF THE STATE FINANCE AND PROCUREMENT  
+ARTICLE , UNLESS T HE SYSTEM IS SUBJECT  TO A PROJECT LABOR A GREEMENT  
+THAT : 
+ 
+  (1) BINDS ALL CONTRACTOR S AND SUBCONTRACTORS  ON THE  
+SYSTEM THROUGH THE I NCLUSION OF SPECIFIC ATIONS IN ALL RELEVA NT 
+SOLICITATION PROVISI ONS AND CONTRACT DOC UMENTS ; 
+ 
+  (2) ALLOWS ALL CONTRACTO RS AND SUBCONTRACTORS TO CO MPETE  
+FOR CONTRACTS AND SU BCONTRACTS ON THE PR OJECT WITHOUT REGARD  TO 
+WHETHER THEY ARE OTH ERWISE PARTIES TO CO LLECTIVE BARGAINING  
+AGREEMENTS ; 
+ 
+  (3) ESTABLISHES UNIFORM TERMS AND CONDITIONS  OF 
+EMPLOYMENT FOR ALL C ONSTRUCTION LABOR EMPLOYED ON THE PROJ ECTS ; 
+ 
+  (4) GUARANTEES AGAINST S TRIKES , LOCKOUTS , AND SIMILAR JOB  
+DISRUPTIONS ; 
+ 
+  (5) ESTABLISHES MUTUALLY  BINDING PROCEDURES F OR RESOLVING  
+LABOR DISPUTES ; AND  
+ 
+  (6) INCLUDES ANY OTHER P ROVISIONS NEGOTIATED  BY THE PARTIES  
+TO PROMOTE S UCCESSFUL DELIVERY O F THE SYSTEM . 
+ 
+ WES MOORE, Governor  Ch. 595  
+ 
+– 13 –  (I) (1) A CERTIFIED SYSTEM SHA LL CONTINUE TO BE EL IGIBLE TO 
+RECEIVE  GENERATE  CERTIFIED SREC S FOR 15 YEARS AFTER THE DATE  OF 
+CERTIFICATION BY THE  COMMISSION , OR JANUARY 1, 2025,  WHICHEVER IS LATER , 
+AFTER WHICH THE SYST EM SHALL BE ELIGIBLE  TO RECEIVE  GENERATE  
+NONCERTIFIED SOLAR R ENEWABLE ENERGY CRED ITS AS LONG AS THE S YSTEM 
+MEETS THE  REQUIREMENTS AS A TIER 1 RENEWABLE SOURCE UND ER THIS 
+SUBTITLE . 
+ 
+  (2) THE COMMISSION SHALL : 
+ 
+   (I) ON OR BEFORE JANUARY 1, 2025,  BEGIN DETERMINING 
+ELIGIBILITY OF SOLAR  ENERGY GENERATING SY STEMS TO BE CERTIFIE D UNDER 
+THE PROGRAM ; AND  
+ 
+   (II) ON OR BEFORE  JULY 1, 2026,  IMPLEMENT A REVISED 
+SYSTEM TO REVIEW AND  ENSURE COMPLIANCE WI TH THE RENEWABLE ENE RGY 
+PORTFOLIO STANDARD . 
+ 
+  (3) AN ELECTRICITY SUPPLI ER MAY APPLY THE CER TIFIED SREC S 
+GENERATED IN ACCORDA NCE WITH THIS SECTIO N TOWARD THE RENEWAB LE 
+ENERGY PORTF OLIO STANDARD STARTI NG WITH THE 2025  COMPLIANCE YEAR . 
+ 
+  (4) NOTWITHSTANDING ANY O THER LAW , THE COMMISSION SHALL 
+ALLOW ELECTRICITY SU PPLIERS TO DEMONSTRA TE COMPLIANCE WITH T HE 
+RENEWABLE ENERGY POR TFOLIO STANDARD FOR THE 2025  COMPLIANCE YEAR BY 
+SUBMITTING I NFORMATION BETWEEN JULY 1, 2026,  AND DECEMBER 31, 2026,  
+USING THE REVISED SY STEM DEVELOPED IN AC CORDANCE WITH PARAGR APH (2)(II) 
+OF THIS SUBSECTION .  
+ 
+7–712. 
+ 
+ Subject to § 2 –1257 of the State Government Article, on or before December 1 of each 
+year the Com mission shall report to the General Assembly on the status of implementation 
+of this subtitle, including :  
+ 
+  (1) the availability of Tier 1 renewable sources [,];  
+ 
+  (2) projects supported by the Fund [,];  
+ 
+  (3) INFORMATION REGARDIN G THE STATUS OF THE SMALL SOLAR 
+ENERGY GENERATING SYSTEM INCENTIVE PROGRAM ESTABLISHED U NDER §  
+7–709.1  OF THIS SUBTITLE , INCLUDING THE TOTAL AMOUNT OF GENERATING  
+CAPACITY OF THE SYST EMS CERTIFIED UNDER THE PROGRAM ; and  
+ 
+Ch. 595  2024 LAWS OF MARYLAND   
+ 
+– 14 –   (4) other pe rtinent information.  
+ 
+7–714.  
+ 
+ THE DEVELOPER OF A SO LAR ENERGY GENERATIN G SYSTEM THAT HAS A 
+GENERATING CAPACITY OVER 1 MEGAWATT , AS MEASURED BY THE A LTERNATING 
+CURRENT RATING OF TH E SYSTEM ’S INVERTER , SHALL ENSURE THAT WO RKERS ARE 
+PAID NOT LESS THAN T HE PR EVAILING WAGE RATE D ETERMINED UNDER TITLE 17, 
+SUBTITLE 2 OF THE STATE FINANCE AND PROCUREMENT ARTICLE , UNLESS THE 
+SYSTEM IS SUBJECT TO  A PROJECT LABOR AGRE EMENT THAT : 
+ 
+  (1) BINDS ALL CONTRACTOR S AND SUBCONTRACTORS  ON THE 
+SYSTEM THROUGH THE I NCLUSION OF SPECIFICATIONS IN AL L RELEVANT 
+SOLICITATION PROVISI ONS AND CONTRACT DOC UMENTS ; 
+ 
+  (2) ALLOWS ALL CONTRACTO RS AND SUBCONTRACTOR S TO COMPETE 
+FOR CONTRACTS AND SU BCONTRACTS ON THE PR OJECT WITHOUT REGARD  TO 
+WHETHER THEY ARE OTH ERWISE PARTIES TO CO LLECTIVE BARG AINING 
+AGREEMENTS ; 
+ 
+  (3) ESTABLISHES UNIFORM TERMS AND CONDITIONS  OF 
+EMPLOYMENT FOR ALL C ONSTRUCTION LABOR EM PLOYED ON THE PROJEC TS; 
+ 
+  (4) GUARANTEES AGAINST S TRIKES , LOCKOUTS , AND SIMILAR JOB 
+DISRUPTIONS ; 
+ 
+  (5) ESTABLISHES MUTUALLY  BINDING PROCEDURES F OR RESOLVING 
+LABOR DISPUTES ; AND  
+ 
+  (6) INCLUDES ANY OTHER P ROVISIONS NEGOTIATED  BY THE PARTIES 
+TO PROMOTE SUCCESSFU L DELIVERY OF THE SY STEM . 
+ 
+Article – State Government  
+ 
+9–20B–05. 
+ 
+ (a) There is a Maryland Strategic Energy Investment Fund.  
+ 
+ (b) The purpose of the Fund is to implement the Strategic Energy Investment 
+Program.  
+ 
+ (c) The Administration shall administer the Fund.  
+ 
+ WES MOORE, Governor  Ch. 595  
+ 
+– 15 –  (G–1) UP TO 10%  OF THE PROCEEDS RECE IVED BY THE FUND FROM 
+COMPLIANCE FEES UNDE R § 7–705( B)(2)( I)2 OF THE PUBLIC UTILITIES ARTICLE 
+SHALL BE CREDITED TO  AN ADMINISTRATIVE EX PENSE ACCOUNT FOR CO STS 
+RELATED TO THE ADMIN ISTRATION OF THE FUND.  
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 
+as follows:  
+ 
+Article – State Government  
+ 
+9–2016.  
+ 
+ (A) (1) IN THIS SECTION THE FOLLOWIN G WORDS HAVE THE MEA NINGS 
+INDICATED . 
+ 
+  (2) “ELIGIBLE CUSTOMER –GENERATOR ” HAS THE MEANING STAT ED 
+IN § 7–306 OF THE PUBLIC UTILITIES ARTICLE . 
+ 
+  (3) “LOW TO MODERATE INCOM E” MEANS A HOUSEHOLD WI TH AN 
+ANNUAL HOUSEHOLD INC OME AT OR BELOW 150%  OF THE AVERAGE MEDIA N INCOME 
+FOR THE STATE . 
+ 
+  (4) “PROGRAM ” MEANS THE CUSTOMER –SITED SOLAR PROGRAM 
+ESTABLISHED IN THIS SECTION . 
+ 
+ (B) THERE IS A CUSTOMER –SITED SOLAR PROGRAM IN THE 
+ADMINISTRATION . 
+ 
+ (C) THE PURPOSE OF THE PROGRAM IS TO : 
+ 
+  (1) INCREASE DEPLOYMENT OF CUSTOMER –SITED SOLAR ENERGY 
+GENERATING SYSTEMS ; AND  
+ 
+  (2) PROVIDE GRANTS TO EL IGIBLE CUSTOMER –GENERATORS THAT 
+HAVE INSTALLED SOLAR  ENERGY GENERATING SY STEMS WITH OR WITHOU T ENERGY 
+STORAGE . 
+ 
+ (D) (1) THE ADMINISTRATION SHALL : 
+ 
+   (I) ON OR BEFORE JANUARY 1, 2025,  ESTABLISH APPLICATIO N 
+AND INCOME VERIFICAT ION PROCEDURES FOR T HE PROGRAM ; AND  
+ 
+   (II) AWARD GRANTS FROM TH E PROGRAM . 
+ 
+Ch. 595  2024 LAWS OF MARYLAND   
+ 
+– 16 –   (2) AN APPLICANT FOR A GR ANT UNDER THIS SECTI ON SHALL : 
+ 
+   (I) INCLUDE IN THE APPLI CATION AN EXECUTED C ONTRACT TO 
+PURCHASE OR LEASE A SOLAR ENERGY GENERAT ING SYSTEM OR AN EXE CUTED 
+POWER PURCHASE AGREE MENT FOR THE SYSTEM ; 
+ 
+   (II) DEMONSTRATE THAT AN AGREEMENT ENTERED IN TO 
+BETWEEN A THIRD PART Y AND AN ELIGIBLE CU STOMER –GENERATOR MEETS THE 
+MINIMUM BENEFITS PUB LISHED UNDER SUBSECT ION (J) OF THIS SECTION ; AND  
+ 
+   (III) INCLUDE A SIGNED DIS CLOSURE FORM DEVELOP ED UNDER 
+SUBSECTION (L) OF THIS SECTION .  
+ 
+ (E) THE PROGRAM MAY PROVIDE G RANTS TO AN INCOME –VERIFIED 
+ELIGIBLE CUSTOMER –GENERATOR WITH A LOW  TO MODERATE INCOME IN AN 
+AMOUNT  EQUAL TO $750  PER KILOWATT OF NAME PLATE CAPACITY FOR A  SOLAR 
+ENERGY GENERATING SY STEM , UP TO A MAXIMUM OF $7,500  PER SYSTEM . 
+ 
+ (F) A GRANT AWARDED UNDER SUBSECTION (E) OF THIS SECTION SHAL L BE 
+FUNDED FROM FEES COL LECTED UNDER § 7–705( B)(2)( I)2 OF THE PUBLIC 
+UTILITIES ARTICLE AND ALLOCATED  IN ACCORDANCE WITH § 9–20B–05(G–1) OF 
+THIS TITLE . 
+ 
+ (G) THE ADMINISTRATION SHALL USE THE INCOME VERIF ICATION 
+PROCESSES UNDER § 7–306.2( F)(1)( IV)1 THROUGH 6 OF THE PUBLIC UTILITIES 
+ARTICLE TO VERIFY INC OME FOR AN ELIGIBLE C USTOMER –GENERATOR WITH A LOW  
+TO MODERATE INCOME . 
+ 
+ (H) A THIRD PARTY MAY : 
+ 
+  (1) APPLY FOR A GRANT ON  BEHALF OF AN ELIGIBL E  
+CUSTOMER –GENERATOR WITH PROOF  OF CONSENT FROM THE ELIGIBLE  
+CUSTOMER –GENERATOR ; AND  
+ 
+  (2) BE ASSIGNED A GRANT BY THE ELIGIBLE CUST OMER–GENERATOR 
+TO ACT ON BEHALF OF THE ELIGIBLE CUSTOME R–GENERATOR . 
+ 
+ (I) (1) FUNDING USED FOR GRAN TS UNDER THIS SECTIO N SHALL BE 
+MONITORED THROUGH AN  APPLICATION PROCESS MAINTAINED BY THE 
+ADMINISTRATION AND VI SIBLE ON THE ADMINISTRATIO N’S WEBSITE . 
+ 
+  (2) DATA ON THE ADMINISTRATION ’S WEBSITE SHALL : 
+ 
+ WES MOORE, Governor  Ch. 595  
+ 
+– 17 –    (I) INCLUDE THE AMOUNT O F FUNDING AVAILABLE , RESERVED , 
+AND SPENT FOR THE FI SCAL YEAR ; AND  
+ 
+   (II) BE UPDATED REGULARLY . 
+ 
+ (J) THE ADMINISTRATION SHALL PUBLISH : 
+ 
+  (1) THE DISCLOSURE FORM DEVELOPED UNDER SUBS ECTION (L) OF 
+THIS SECTION ; AND  
+ 
+  (2) THE MINIMUM BENEFITS  THAT AN ELIGIBLE  
+CUSTOMER –GENERATOR MUST RECEI VE UNDER AN AGREEMEN T WITH A THIRD 
+PARTY . 
+ 
+ (K) A SOLAR ENERGY GENERAT ING SYSTEM SHALL BE INSTALLED WITHIN 
+180 DAYS AFTER A GRANT  UNDER THIS SECTION I S RESERVED BY THE 
+ADMINISTRATION FOR AN  ELIGIBLE CUSTOMER –GENERATOR .  
+ 
+ (L) (1) THE ADMINISTRATION SHALL DEVELOP A CONSUMER 
+PROTECTION POLICY IN  CONSULTATION WITH RE PRESENTATIVES OF THE  
+CUSTOMER –SITED SOLAR INDUSTRY . 
+ 
+  (2) THE CONSUME R PROTECTION POLICY DEVELOPED UNDER 
+PARAGRAPH (1) OF THIS SUBSECTION S HALL : 
+ 
+   (I) INCLUDE A DISCLOSURE  FORM FOR SOLAR ENERG Y POWER 
+PURCHASE AGREEMENTS , SOLAR ENERGY LEASE A GREEMENTS , AND SOLAR ENERGY 
+LOAN AGREEMENTS THAT  MUST BE SIGNED BY AN  ELIGIBLE  
+CUSTOMER –GENERATOR BEFORE ENT ERING INTO THE AGREE MENT ; 
+ 
+   (II) FOR A SOLAR ENERGY P OWER PURCHASE AGREEM ENT OR A 
+SOLAR ENERGY LEASE A GREEMENT , PROHIBIT AN ANNUAL R ATE INCREASE OF MORE  
+THAN 3%;  
+ 
+   (III) ALLOW A CUSTOMER –GENERATOR TO CANCEL AN 
+AGREEMENT ENTERED INTO WITH A THIRD PARTY UP TO 30 DAYS AFTER SIGNING 
+THE AGREEMENT ; AND  
+ 
+   (IV) BE EASILY ACCESSIBLE  ON THE ADMINISTRATION ’S 
+WEBSITE AND SOCIAL M EDIA PLATFORMS . 
+ 
+9–20B–05. 
+ 
+ (f) The Administration shall use the Fund:  
+Ch. 595  2024 LAWS OF MARYLAND   
+ 
+– 18 –  
+  (12) to provide at least $500,000 each year to the Resiliency Hub Grant 
+Program Fund under § 9 –2011 of this title; [and] 
+ 
+  (13)  TO PROVIDE GRANTS TH ROUGH THE CUSTOMER –SITED SOLAR 
+PROGRAM UNDER § 9–2016  OF THIS TITLE ; AND  
+ 
+  [(13)] (14)  to pay the expenses of t he Program.  
+ 
+ (g–1) [Up to 10% of the proceeds ] PROCEEDS  received by the Fund from compliance 
+fees under § 7 –705(b)(2)(i)2 of the Public Utilities Article shall be ALLOCATED AS 
+FOLLOWS : 
+ 
+  (1) BEGINNING IN FISCAL YEAR 2025,  AT LEAST 20%  OF THE 
+PROCEEDS SHALL BE USED TO PRO VIDE GRANTS TO SUPPO RT THE INSTALLATION OF 
+NEW SOLAR ENERGY GEN ERATING SYSTEMS UNDE R THE CUSTOMER –SITED SOLAR 
+PROGRAM ; 
+ 
+  (2) UP TO 10%  OF THE PROCEEDS SHAL L BE  credited to an 
+administrative expense account for costs related to the admi nistration of the Fund ; 
+ 
+  (3) PROCEEDS COLLECTED B UT UNUSED FROM A PRE VIOUS YEAR 
+SHALL BE USED BEFORE  PROCEEDS ALLOCATED F OR THE CURRENT YEAR ; AND  
+ 
+  (4) THE ADMINISTRATION SHALL REALLOCATE TO OTHER 
+AUTHORIZED USES ANY PROCEEDS THAT ARE NO T USED WITHIN 3 FISCAL YEARS 
+AFTER COLLECTION . 
+ 
+ (i) (1) Except as provided in paragraph (2) of this subsection, compliance fees 
+paid under § 7 –705(b) of the Public Utilities Article may be used only to make loans and 
+grants to support the creation of new Tier 1 renewable  energy sources in the State that are 
+owned by or directly benefit:  
+ 
+   (i) low– to moderate –income communities located in a census tract 
+with an average median income at or below 80% of the average median income for the State; 
+or 
+ 
+   (ii) overburdened or underserved communities, as defined in § 1 –701 
+of the Environment Article.  
+ 
+  (2) Compliance fees paid under § 7 –705(b)(2)(i)2 of the Public Utilities 
+Article shall be accounted for separately within the Fund and may be used only to make 
+loans and grants t o support the creation of new solar energy sources in the State that are 
+owned by or directly benefit:  
+ 
+ WES MOORE, Governor  Ch. 595  
+ 
+– 19 –    (i) low– to moderate –income communities located in a census tract 
+with an average median income at or below 80% of the average median income for the State; 
+[or] 
+ 
+   (ii) overburdened or underserved communities, as defined in § 1 –701 
+of the Environment Article ; OR 
+ 
+   (III) HOUSEHOLDS WITH LOW TO MODERATE INCOME , AS 
+DEFINED IN § 9–2016  OF THIS TITLE .  
+ 
+ SECTION 2. 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 
+as follows:  
+ 
+Article – Tax – Property  
+ 
+1–101. 
+ 
+ (j) (1) “Department” means the State Department of Assessments and 
+Taxation.  
+ 
+  (2) “Department” includes, unless the context requires otherwise, a 
+supervisor.  
+ 
+7–237. 
+ 
+ (c) (1) (i) In this subsection the following words have the meanings 
+indicated.  
+ 
+   (ii) “Agrivoltaics” means the simultaneous use of areas of land for 
+both solar power generation and agriculture.  
+ 
+   (iii) “Brownfield” means:  
+ 
+    1. a former industrial or commercial site identified by federal 
+or State laws or regulations as contaminated or polluted; or  
+ 
+    2. a closed municipal or rubble landfill regulated under a 
+refuse disposal permit by the Department of the Environment.  
+ 
+   (iv) “Community solar energy generating system” has the meaning 
+stated in § 7 –306.2 of the Public Utilities Article.  
+ 
+   (v) “Electric company” has the meaning stated in § 1 –101 of the 
+Public Utilities Article.  
+ 
+Ch. 595  2024 LAWS OF MARYLAND   
+ 
+– 20 –   (2) This subsection applies through the life cy cle of a community solar 
+energy generating system that:  
+ 
+   (i) is placed in service after June 30, 2022; and  
+ 
+   (ii) has been approved on or before December 31, [2025] 2030 , by 
+the Public Service Commission under § 7 –306.2 of the Public Utilities Article . 
+ 
+  (3) Personal property is exempt from county or municipal corporation 
+property tax if the property is machinery or equipment that is part of a community solar 
+energy generating system that:  
+ 
+   (i) has a generating capacity that does not exceed 2 5 megawatts as 
+measured by the alternating current rating of the system’s inverter;  
+ 
+   (ii) provides at least 50% of the energy it produces to low – or 
+moderate –income customers at a cost that is at least 20% less than the amount charged by 
+the electric company  that serves the area where the community solar energy generating 
+system is located; and  
+ 
+   (iii) 1. is used for agrivoltaics; or  
+ 
+    2. is installed on a rooftop, brownfield, parking facility 
+canopy, landfill, or clean fill.  
+ 
+  (4) On or before October 1 each year, the Department shall report to the 
+Senate Budget and Taxation Committee and the House Ways and Means Committee, in 
+accordance with § 2 –1257 of the State Government Article, on the number and location of 
+projects that, in the immediately preced ing taxable year, have received the exemption 
+under this subsection.  
+ 
+7–249. 
+ 
+ (A) THIS SECTION APPLIES ONLY TO NONRESIDENTI AL SOLAR ENERGY 
+GENERATING SYSTEMS T HAT ARE APPROVED BY THE PUBLIC SERVICE COMMISSION 
+UNDER § 7–207 OR § 7–207.1  OF THE PUBLIC UTILITIES ARTICLE ON OR AFTER 
+JULY 1, 2024.  
+ 
+ (B) NONRESIDENTIAL SOLAR ENERGY GENERATING SY STEMS THAT ARE 
+CONSTRUCTED ON THE R OOFTOPS OF BUILDINGS  OR ON PARKING FACILI TY 
+CANOPIES ARE NOT SUB JECT TO VALUATION OR  TO PROPERTY TAX . 
+ 
+7–250. 
+ 
+ WES MOORE, Governor  Ch. 595  
+ 
+– 21 –  (A) THIS SECTION A PPLIES ONLY TO REAL PROPERTY THAT INCLUD ES A 
+PARKING FACILITY ON WHICH A SOLAR ENERGY  GENERATING SYSTEM HA S BEEN 
+CONSTRUCTED ON ITS C ANOPY IF THE SOLAR E NERGY GENERATING SYS TEM HAS 
+BEEN APPROVED BY THE  PUBLIC SERVICE COMMISSION UNDER § 7–207 OR §  
+7–207.1  OF THE PUBLIC UTILITIES ARTICLE ON OR AFTER JULY 1, 2024.  
+ 
+ (B) THE GOVERNING BODY OF  A COUNTY OR MUNICIPA L CORPORATION MAY 
+REDUCE OR ELIMINATE , BY LAW , THE PERCENTAGE OF TH E ASSESSMENT OF ANY 
+REAL PROPERTY THAT I S SUBJECT TO THE COU NTY OR MUNICIPAL COR POR ATION 
+PROPERTY TAX UNDER T HIS ARTICLE IF THE R EAL PROPERTY INCLUDE S A PARKING 
+FACILITY ON WHICH A SOLAR ENERGY GENERAT ING SYSTEM HAS BEEN 
+CONSTRUCTED ON ITS C ANOPY . 
+ 
+ (B) (C) (1) A COUNTY OR MUNICIPAL CORPORATION THAT RED UCES 
+OR ELIMINATES THE PE RCENTAGE O F ASSESSMENT OF TAXA BLE REAL PROPERTY 
+UNDER SUBSECTION (A) (B) OF THIS SECTION SHAL L SUBMIT A COPY OF T HE LAW TO 
+THE DEPARTMENT . 
+ 
+  (2) IF THE DEPARTMENT RECEIVES A  COPY OF THE LAW ON O R 
+BEFORE MAY 1, THE CHANGE WILL BE E FFECTIVE FOR THE TAX ABLE YEAR 
+FOLLOWING THE DATE T HE LAW IS ENACTED . 
+ 
+ (C) (D) IF ANY REAL PROPERTY IS EXEMPT UNDER SUBS ECTION (B) (C) OF 
+THIS SECTION FROM CO UNTY PROPERTY TAX BU T IS SUBJECT TO MUNI CIPAL 
+CORPORATION PROPERTY  TAX, THE DEPARTMENT OR THE SUP ERVISOR SHALL 
+PROVIDE THE MUNIC IPAL CORPORATION WIT H THE ASSESSMENT OF THE REAL 
+PROPERTY . 
+ 
+ (D) (E) THE DEPARTMENT MAY ADOPT REGULATIONS TO IMPLE MENT 
+THIS SECTION . 
+ 
+7–522.  
+ 
+ THE GOVERNING BODY OF  A COUNTY SHALL EXEMP T OR PARTIALLY EXEMP T 
+A GROUND –MOUNTED SOLAR ENERGY  GENERATING SYSTEM FROM THE COUNTY  
+REAL OR PERSONAL PRO PERTY TAX IF THE OWN ER OF THE SYSTEM AND  THE 
+COUNTY ENTER INTO A PAYMENT IN LIEU OF T AXES AGREEMENT , APPROVED BY  
+ORDINANCE OF THE LEG ISLATIVE BODY OF THE  COUNTY , THAT SPECIFIES : 
+ 
+  (1) THAT THE OWNER OF TH E SYSTEM SHALL PAY TO THE COUNTY  
+EACH YEAR IN LIEU OF  THE PAYMENT OF COUNT Y REAL OR PERSONAL P ROPERTY  
+TAXES DURING THE TER M OF THE AGREEMENT T HE SUM OF $2,500  PER MEGAWATT  
+Ch. 595  2024 LAWS OF MARYLAND   
+ 
+– 22 – OF GENERATING CAPACI TY OF THE SYSTEM , AS MEASURED BY THE A LTERNATING  
+CURRENT RATING OF TH E SYSTEM ’S INVERTER ; 
+ 
+  (2) THE TERM OF THE AGRE EMENT ; AND  
+ 
+  (3) THAT EACH YEAR AFTER  THE EXPIRATION OR TE RMINATION OF  
+THE AGREEMENT , FULL REAL AND PERSON AL PROPERTY TAXES SH ALL BE PAYABLE  
+ON THE PROPERTY . 
+ 
+ SECTION 3. 4. AND BE IT FURTHER ENACTED, That the Laws of  Maryland read 
+as follows:  
+ 
+Article – Public Utilities  
+ 
+7–306. 
+ 
+ (g) (1) Except as provided in paragraphs [(6) and (7) ] (6), (7), AND (8) of this 
+subsection, the generating capacity of an electric generating system used by an eligible 
+customer –generator fo r net metering may not exceed 2 megawatts.  
+ 
+  (2) An electric generating system used by an eligible customer –generator 
+for net metering shall meet all applicable safety and performance standards established by 
+the National Electrical Code, the Institute of  Electrical and Electronics Engineers, and 
+Underwriters Laboratories.  
+ 
+  (3) The Commission may adopt by regulation additional control and testing 
+requirements for eligible customer –generators that the Commission determines are 
+necessary to protect public safety and system reliability.  
+ 
+  (4) An electric company may not require an eligible customer –generator 
+whose electric generating system meets the standards of paragraphs (2) and (3) of this 
+subsection to:  
+ 
+   (i) install additional controls;  
+ 
+   (ii) perform or pay for additional tests; or  
+ 
+   (iii) purchase additional liability insurance.  
+ 
+  (5) An eligible customer –generator or the eligible customer –generator’s 
+assignee shall own and have title to all renewable energy attributes or renewable energy 
+credits associated with any electricity produced by its electric generating system.  
+ 
+  (6) The Commission may not prohibit the construction or operation of 
+multiple net metered solar energy generating facilities located on separate contiguous lots 
+ WES MOORE, Governor  Ch. 595  
+ 
+– 23 – that are owned by a local government solely because the capacity of the combined net 
+metering systems exceeds the limit established under paragraph (1) of this subsection, if:  
+ 
+   (i) the net metered solar energy generating facilities are intended to 
+be used solely  for the benefit of the local government;  
+ 
+   (ii) the total capacity of the net metered solar energy generating 
+facilities on the contiguous lots does not exceed 5 megawatts;  
+ 
+   (iii) the contiguous lots were not subdivided for the purpose of 
+circumventi ng the limit established under paragraph (1) of this subsection; and  
+ 
+   (iv) the utility serving the net metered solar energy generating 
+facilities is not an electric cooperative or municipal electric utility.  
+ 
+  (7) The generating capacity of a community  solar energy generating system 
+established under § 7 –306.2 of this subtitle that is used for net metering may not exceed 5 
+megawatts.  
+ 
+  (8) THE GENERATING CAPACI TY OF A NET METERED FACILITY THAT 
+IS METER AGGREGATED UNDER § 7–306.3  OF THIS SUBTITLE MAY  NOT EXCEED 5 
+MEGAWATTS . 
+ 
+ (I) NOTWITHSTANDING THE G ENERATING CAPACITY L IMITS ESTABLISHED 
+IN SUBSECTION (G) OF THIS SECTION , AN ELIGIBLE CUSTOMER –GENERATOR 
+PARTICIPATING IN MET ER AGGREGATION UNDER  § 7–306.2  OR § 7–306.3  OF THIS 
+SUBTITLE MAY RECEIVE  EXCESS GENERATION FROM MORE  THAN ONE GENERATING 
+SYSTEM , INCLUDING IF THE COM BINED GENERATING CAP ACITY OF ALL NET 
+METERED FACILITIES T HAT ARE METER AGGREG ATED EXCEEDS 5 MEGAWATTS . 
+ 
+ [(i)] (J) On or before November 1 of each year, the Commission shall report to 
+the General Assembly, in accordance with § 2 –1257 of the State Government Article, on the 
+status of the net metering program under this section, including:  
+ 
+  (1) the amount of capacity of electric generating facilities owned and 
+operated by eligible customer –generators in the State by type of energy resource;  
+ 
+  (2) based on the need to encourage a diversification of the State’s energy 
+resource mix to ensure reliability, whether the rated generating capacity limit in subsection 
+(d) of this section should be a ltered; and  
+ 
+  (3) other pertinent information.  
+ 
+ SECTION 5. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 
+as follows:  
+ 
+Ch. 595  2024 LAWS OF MARYLAND   
+ 
+– 24 – Article – Public Utilities  
+ 
+5–305. 
+ 
+ (a) This section applies to a project by an investor –owned gas company, electric 
+company, or combination gas and electric company involving the construction, 
+reconstruction, installation, demolition, restoration, or alteration of any underground gas 
+or electric infrastructure of the company, and any related traffic control activities.  
+ 
+ (b) An investor –owned gas company, electric company, or combination gas and 
+electric company shall require a contractor or subcontractor on a project described in 
+subsection (a) of this section to pay its employees not less than the prevailing wage rate 
+determined solely by the Commissioner of Labor and Industry in a process substantially 
+similar to the process established under Title 17, Subtitle 2 of the State Finance and 
+Procurement Article.  
+ 
+ (c) In accordance with Title 3, Subtitle 5 of the Labor and  Employment Article, 
+the Maryland Department of Labor shall enforce the requirement under subsection (b) of this 
+section for contractors and subcontractors to pay employees not less than the prevailing wage 
+rate determined solely by the Commissioner of Lab or and Industry.  
+ 
+ SECTION 6. AND BE IT FURTHER ENACTED, That nothing in Section 5 of this 
+Act or in § 7 –714 of the Public Utilities Article, as enacted by Section 1 of this Act, shall be 
+construed to apply to or be interpreted to have any effect on or app lication to any contract 
+awarded before June 1, 2024  Section 5 of this Act shall be construed to apply retroactively 
+and shall be applied to and interpreted to affect contracts for projects by an investor –owned 
+gas company, electric company, or combination gas and electric company involving the 
+construction, reconstruction, installation, demolition, restoration, or alteration of any 
+underground gas or electric infrastructure of the c ompany, and any related traffic control 
+activities entered into on and after March 1, 2024 .  
+ 
+ SECTION 3. 4. 7. AND BE IT FURTHER ENACTED, That , except as provided in 
+Section 6 of this Act,  a presently existing obligation or contract right may not be impai red 
+in any way by this Act.  
+ 
+ SECTION 4. 5. 8. AND BE IT FURTHER ENACTED, That Section 2 3 of this Act 
+shall be applicable to all taxable years beginning after June 30, 2024.  
+ 
+ SECTION 9. AND BE IT FURTHER ENACTED, That  § 7–714 of the Public Utilities 
+Article, as enacted by Section 1 of this Act, shall be construed to apply only prospectively and 
+may not be applied or interpreted to have any effect on or application to the development of 
+a solar energy generating system begun before the effective date o f this Act . 
+ 
+ SECTION 10. AND BE IT FURTHER ENACTED,  That Section 2 of this Act shall 
+take effect July 1, 2024. It shall remain effective for a period of 3 years and, at the end of 
+ WES MOORE, Governor  Ch. 595  
+ 
+– 25 – June 30, 2027, Section 2 of this Act, with no further action required by th e General Assembly, 
+shall be abrogated and of no further force and effect.  
+ 
+ SECTION 6. 10. 11. AND BE IT FURTHER ENACTED, That Section 3 4 of this Act 
+shall take effect January 1, 2025.  
+ 
+ SECTION 5. 7. 11. 12. AND BE IT FURTHER ENACTED, That , except as provided 
+in Section 6  Sections 9 and 10  10 and 11  of this Act,  this Act shall take effect June 1, 2024.  
+ 
+Approved by the Governor, May 9, 2024.  

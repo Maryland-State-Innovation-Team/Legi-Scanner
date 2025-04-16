@@ -1,0 +1,303 @@
+ WES MOORE, Governor  Ch. 166  
+ 
+– 1 – Chapter 166  
+(House Bill 192 ) 
+ 
+AN ACT concerning  
+ 
+Cryptocurrency  Currency  – Campaign Finance Prohibitions – Disclosures by 
+Financial Institutions  
+ 
+FOR the purpose of prohibiting a campaign finance entity from depositing funds in a 
+cryptocurrency account;  prohibiting certain persons subject to campaign finance 
+regulation from making or accepting monetary  contributions or monetary  donations 
+using cryptocurrency  any currency other than  United States currency ; prohibiting a 
+campaign finance entity or a person acting on behalf of a campaign finance entity 
+from making an a monetary  expenditure using cryptocurrency  any currency other  
+than United States currency ; authorizing the State Admini strator of Elections to 
+investigate certain potential violations of this Act and issue a subpoena in 
+furtherance of an investigation; altering the definition of financial institution for 
+purposes of certain provisions of law authorizing the Comptroller to request certain 
+information and assistance to include a virtual currency money transmitter; and 
+generally relating to cryptocurrency  currency . 
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Election Law  
+Section 1 –101(a)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2022 Supplement)  
+ 
+BY adding to  
+ Article – Election Law  
+Section 1–101(p –1), 13–238, 13 –250, 13 –604.1(b)(11) , and (12), and (13) , and  
+13–604.3  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2022 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Election Law  
+Section 13–220(a) and (d), 13 –234, and  13–604.1(b)(9) and (10)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2022 Supplement)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Tax – General  
+ Section 13 –804(a)(1) and (b)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume)  
+ 
+Ch. 166  2023 LAWS OF MARYLAND   
+ 
+– 2 – BY repealing and reenacting, with amendments,  
+ Article – Tax – General  
+Section 13 –804(a)(2) and (4)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Election Law  
+ 
+1–101. 
+ 
+ (a) In this article the following words have the meanings indicated unless a 
+different me aning is clearly intended from the context.  
+ 
+ (P–1) “CRYPTOCURRENCY ” MEANS DIGITAL OR VIR TUAL CURRENCY THAT  
+RELIES ON CRYPTOGRAP HY TO EFFECT TRANSFE RS AND A DECENTRALIZ ED 
+NETWORK TO RECORD TR ANSACTIONS .  
+ 
+13–220. 
+ 
+ (a) (1) Each campaign finance entity shall designate one or more campaign 
+accounts.  
+ 
+  (2) Each designated campaign account shall:  
+ 
+   (i) be in a financial institution; and  
+ 
+   (ii) be registered in a manner that identifies it as the account of a 
+campaign finance entity.  
+ 
+  (3) A campaign fi nance entity shall deposit all funds received in a 
+designated campaign account.  
+ 
+  (4) A CAMPAIGN FINANCE ENT ITY MAY NOT DEPOSIT ANY FUNDS  
+RECEIVED IN A CRYPTO CURRENCY ACCOUNT . 
+ 
+ (d) (1) Subject to paragraph (3) of this subsection, a campaign finance entity 
+may make a disbursement only by:  
+ 
+   (i) check; or  
+ 
+   (ii) SUBJECT TO PARAGRAPH  (4) OF THIS SUBSECTION , an 
+electronic method that the State Board authorizes by regulation.  
+ 
+ WES MOORE, Governor  Ch. 166  
+ 
+– 3 –   (2) An electronic method of making a disbursement that the State Board 
+authorizes under this subsection shall ensure that:  
+ 
+   (i) the identity of the person making the disbursement may be 
+verified;  
+ 
+   (ii) the transaction is secure; and  
+ 
+   (iii) there is an adequate record of the transaction.  
+ 
+  (3) A campaign finance enti ty may make a disbursement to compensate a 
+responsible officer of the campaign finance entity only by check.  
+ 
+  (4) THE STATE BOARD MAY NOT AUTHORI ZE A CAMPAIGN FINANC E 
+ENTITY TO MAKE A DIS BURSEMENT USING CRYP TOCURRENCY .  
+ 
+13–234.  
+ 
+ (a) A contribution of money may be made only by:  
+ 
+  (1) check;  
+ 
+  (2) credit card;  
+ 
+  (3) cash, if the contribution does not exceed $100 in an election cycle; or  
+ 
+  (4) SUBJECT TO SUBSECTIO N (C) OF THIS SECTION , an electronic 
+method that the State Board authorizes by regulation.  
+ 
+ (b) An electronic method of making a contribution that the State Board 
+authorizes under this section shall ensure that:  
+ 
+  (1) the identity of the person making the contribution may be verified;  
+ 
+  (2) the transaction is secure; and  
+ 
+  (3) there is an adequate record of the transaction.  
+ 
+ (C) THE STATE BOARD MAY NOT AUTHORI ZE A CONTRIBUTION TO  BE MADE  
+USING CRYPTOCURRENCY . 
+ 
+13–238.   
+ 
+ (A) (1) A PERSON MAY NOT MAKE A MONETARY  CONTRIBUTION USING 
+CRYPTOCURRENCY  ANY CURRENCY OTHER T HAN UNITED STATES CURRENCY . 
+ 
+Ch. 166  2023 LAWS OF MARYLAND   
+ 
+– 4 –   (2) A PERSON MAY NOT MAKE A MONETARY  DONATION USING 
+CRYPTOCURRENCY  ANY CURRENCY OTHER T HAN UNITED STATES CURRENCY  TO A 
+PERSON REQUIRED TO R EGISTER UNDER § 13–306 OR § 13–307 OF THIS TITLE .  
+ 
+ (B) (1) A CAMPAIGN FINANCE ENT ITY MAY NOT AC CEPT A MONETARY  
+CONTRIBUTION MADE US ING CRYPTOCURRENCY  ANY CURRENCY OTHER T HAN 
+UNITED STATES CURRENCY .  
+ 
+  (2) A PERSON REQUIRED TO R EGISTER UNDER § 13–306 OR § 13–307 
+OF THIS TITLE MAY NO T ACCEPT A MONETARY  DONATION MADE USING 
+CRYPTOCURRENCY  ANY CURRENCY OTHER THAN UNITED STATES CURRENCY .  
+ 
+13–250.   
+ 
+ A CAMPAIGN FINANCE ENT ITY, OR A PERSON ACTING O N ITS BEHALF , MAY NOT 
+MAKE AN A MONETARY  EXPENDITURE USING CRYPTOCURRENCY  ANY CURRENCY 
+OTHER  THAN UNITED STATES CURRENCY .  
+ 
+13–604.1.  
+ 
+ (b) The State Board may impose a civil penalty in accordance with this section for 
+the following violations:  
+ 
+  (9) failure to include a disclosure on online campaign material as required 
+in § 13 –401.1(b) of this title; [and] 
+ 
+  (10) soliciting a recurring contribution or donatio n without the affirmative 
+consent of the contributor or donor as required in § 13 –244 of this title ; 
+ 
+  (11) DEPOSITING FUNDS IN A CRYPTOCURRENCY ACC OUNT IN  
+VIOLATION OF § 13–220( A)(4) OF THIS TITLE ;  
+ 
+  (12) MAKING A MONETARY  CONTRIBUTION OR MONETARY  DONA TION 
+USING CRYPTOCURRENCY  ANY CURRENCY OTHER T HAN UNITED STATES CURRENCY  
+OR ACCEPTING A MONETARY  CONTRIBUTION OR MONETARY  DONATION MADE USING 
+CRYPTOCURRENCY  ANY CURRENCY OTHER T HAN UNITED STATES CURRENCY  IN 
+VIOLATION OF § 13–238 OF THIS TITLE ; AND  
+ 
+  (13)  (12) MAKING AN A MONETARY  EXPENDITURE USING 
+CRYPTOCURRENCY  ANY CURRENCY OTHER THAN UNITED  STATES CURRENCY  IN 
+VIOLATION OF § 13–250 OF THIS TITLE . 
+ 
+13–604.3.   
+ 
+ WES MOORE, Governor  Ch. 166  
+ 
+– 5 –  (A) THE STATE ADMINISTRATOR OR THE STATE ADMINISTRATOR ’S 
+DESIGNEE MAY INVESTI GATE A POTENTIAL VIO LATION OF § 13–220( A)(4),  § 13–238, 
+OR § 13–250 OF THIS TITLE . 
+ 
+ (B) THE STATE ADMINISTRATOR OR THE STATE ADMINISTRATOR ’S 
+DESIGNEE SHALL : 
+ 
+  (1) NOTIFY A PERSON TH AT IS SUBJECT TO AN INVESTIGATION UNDER 
+THIS SECTION OF THE CIRCUMSTANCES THAT G AVE RISE TO THE INVESTIGATION ; 
+AND 
+ 
+  (2) PROVIDE THE PERSON A MPLE OPPORTUNITY TO BE HEARD AT A 
+PUBLIC MEETING OF TH E STATE BOARD . 
+ 
+ (C) (1) IN FURTHERANCE OF AN INVESTIGATION UNDER THIS SECTION , 
+THE STATE ADMINISTRATOR OR THE STATE ADMINISTRATOR ’S DESIGNEE MAY 
+ISSUE A SUBPOENA FOR  THE ATTENDANCE OF A WITNESS TO TESTIFY O R THE 
+PRODUCTION OF RECORD S. 
+ 
+  (2) A SUBPOENA ISSUED UNDE R THIS SUBSECTION SH ALL BE SERVED 
+IN ACCORDANCE WITH THE MARYLAND RULES . 
+ 
+  (3) IN ORDER FOR A SUBPOE NA TO BE ISSUED UNDE R THIS 
+SUBSECTION , THE STATE ADMINISTRATOR SHALL M AKE A FINDING THAT T HE 
+SUBPOENA IS NECESSAR Y TO AND IN FURTHERA NCE OF AN  INVESTIGATION  BEING 
+CONDUCTED UNDER THIS  SECTION . 
+ 
+  (4) ANY FILING SUBMITTED TO A COURT WITH RESPECT  TO A 
+SUBPOENA UNDER THIS SUBSECTION SHALL BE SEALED ON FILING . 
+ 
+  (5) IF A PERSON FAILS TO COMPLY WITH A SUBPOE NA ISSUED UNDER 
+THIS SUBSECTION , ON PETITION OF THE STATE ADMINISTRATOR , A CIRCUIT COURT 
+OF COMPETENT J URISDICTION MAY COMP EL COMPLIANCE WITH T HE SUBPOENA . 
+ 
+ (D) AT THE CONCLUSION OF THE INVESTIGATION AN D FOLLOWING THE 
+HEARING UNDER SUBSEC TION (B)(2) OF THIS SECTION , THE STATE BOARD SHALL 
+ISSUE A PUBLIC REPOR T OF ITS FINDINGS AN D MAY : 
+ 
+  (1) IMPOSE A CIVIL PENALTY IN THE AMOUN T AND MANNER 
+SPECIFIED IN § 13–604.1  OF THIS SUBTITLE ; OR 
+ 
+  (2) REFER THE MATTER FOR  FURTHER INVESTIGATIO N BY THE STATE 
+PROSECUTOR IF THE STATE BOARD HAS REASONABLE CAUSE TO BELIEVE THA T A 
+Ch. 166  2023 LAWS OF MARYLAND   
+ 
+– 6 – PERSON HAS WILLFULLY  AND KNOWINGLY VIOLAT ED § 13–220( A)(4),   
+§ 13–238, OR § 13–250 OF THIS TITLE . 
+ 
+Article – Tax – General  
+ 
+13–804. 
+ 
+ (a) (1) In this section the following words have the meanings indicated.  
+ 
+  (2) (i) “Account” means:  
+ 
+    1. any funds from a demand deposit account, checking 
+account, negotiable order of withdrawal account, savings account, time deposit account, 
+money market mutual fund account, or certificate of deposit account;  
+ 
+    2. any funds paid towards the purchase of shares or other 
+interest in a financial institution, as defin ed in paragraph (4)(ii) and (iii) of this subsection; 
+and 
+ 
+    3. any funds or property held by a financial institution, as 
+defined in paragraph (4)(iv)  OR (V) of this subsection.  
+ 
+   (ii) “Account” does not include:  
+ 
+    1. an account or portion of an account to which an obligor 
+does not have access due to the pledge of the funds as security for a loan or other obligation;  
+ 
+    2. funds or property deposited to an account after the time 
+that the financial institution initially attaches the account;  
+ 
+    3. an account or portion of an account to which the financial 
+institution has a present right to exercise a right of setoff;  
+ 
+    4. an account or portion of an account that has an account 
+holder of interest named as an owner on the account; or  
+ 
+    5. an account or portion of an account to which the obligor 
+does not have an unconditional right of access.  
+ 
+  (4) “Financial institution” means:  
+ 
+   (i) a depository institution, as defined in the Federal Deposit 
+Insurance Act under 12 U.S.C. § 1813(c);  
+ 
+   (ii) a federal credit union or State credit union, as defined in the 
+Federal Credit Union Act under 12 U.S.C. § 1752;  
+ WES MOORE, Governor  Ch. 166  
+ 
+– 7 –  
+   (iii) a State credit union regulated under Title 6 of the Financial 
+Institutions Article; [or] 
+ 
+   (iv) A VIRTUAL CURRENCY M ONEY TRANSMI TTER THAT IS 
+REGULATED UNDER TITLE 12 OF THE FINANCIAL INSTITUTIONS ARTICLE ; OR 
+ 
+   (V) a benefit association, insurance company, safe deposit company, 
+money market mutual fund, or similar entity doing business in the State that holds 
+property or maintains  accounts reflecting property belonging to others.  
+ 
+ (b) The Comptroller may request from a financial institution information and 
+assistance to enable the Comptroller to enforce the tax laws of the State.  
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 
+1, 2023.  
+ 
+Approved by the Governor, April 24, 2023.  

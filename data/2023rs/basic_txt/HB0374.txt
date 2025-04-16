@@ -1,0 +1,388 @@
+ WES MOORE, Governor  Ch. 355 
+ 
+– 1 – Chapter 355  
+(House Bill 374 ) 
+ 
+AN ACT concerning  
+ 
+Health Insurance – Pharmacy Benefits Managers – Audits of Pharmacies and 
+Pharmacists  
+ 
+FOR the purpose of expanding the applicability of the provisions regarding audits of a 
+pharmacy or pharmacist to all pharmacy benefits managers;  authorizing a pharmacy 
+benefits manager to conduct an audit through an auditing entity that is registered 
+with the Maryland Insurance Commission er; requiring the Secretary of Health to 
+adopt certain regulations for pharmacy benefits managers that contract with 
+managed care organizations that establish requirements for conducting audits of 
+pharmacies or pharmacists;  establishing requirements and prohibitions regarding 
+audits by certain  pharmacy benefits managers, including provisions related to audit 
+limits, the acceptance of certain documents as validation or  proof, the recoupment of 
+funds or  charging and payment  of fees for prescriptions of unbreakable package 
+sizes , access to financial documentation, and audit documentation; requiring that a 
+final audit report include certain information if applicable; authorizing a pharmacy 
+or pharmacist to confirm with a pharmacy  customer or purchaser that the pharmacy 
+customer or purchaser received a certain refund;  and generally relating to audits by 
+pharmacy benefits managers.  
+ 
+BY adding to  
+ Article – Health – General  
+Section 15–102.3(k)  15–103(b)(33)  
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2022 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Insurance  
+Section 15 –1629  
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2022 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL  ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Health – General  
+ 
+15–102.3.  
+ 
+Ch. 355  2023 LAWS OF MARYLAND   
+ 
+– 2 –  (K) THE PROVISIONS OF § 15–1629  OF THE INSURANCE ARTICLE APPLY TO  
+PHARMACY BENEFITS MA NAGERS THAT CONTRACT  WITH MANAGED CARE  
+ORGANIZATIONS . 
+ 
+15–103. 
+ 
+ (b) (33)  THE SECRETARY SHALL ADOPT  REGULATIONS FOR PHAR MACY 
+BENEFITS MANAGERS TH AT CONTRACT WITH MAN AGED CARE ORGANIZATI ONS THAT 
+ESTABLISH REQUIREMEN TS FOR CONDUCTING AU DITS OF PHARMACIES O R 
+PHARMACISTS THAT ARE : 
+ 
+   (I) TO THE EXTENT PRACTIC ABLE , SUBSTA NTIVELY SIMILAR 
+TO THE AUDIT PROVISI ONS UNDER § 15–1629  OF THE INSURANCE ARTICLE ; AND  
+ 
+   (II) CONSISTENT WITH FEDER AL LAW .  
+ 
+Article – Insurance  
+ 
+15–1629.  
+ 
+ [(a) This section applies only to a pharmacy benefits manager that provides 
+pharmacy benefits management services on behalf of a carrier. ] 
+ 
+ [(b)] (A) This section does not apply to an audit that involves probable or 
+potential fraud or willful misrepresentation by a pharmacy or pharmacist.  
+ 
+ [(c)] (B) A pharmacy benefits manager shall conduct an au dit of a pharmacy or 
+pharmacist under contract with the pharmacy benefits manager in accordance with this 
+section.  
+ 
+ (C) (D) (1) A PHARMACY BENEFITS MA NAGER MAY CONDUCT AN  AUDIT 
+THROUGH AN AUDITING ENTITY . 
+ 
+  (2) AN AUDITING ENTITY MU ST REGISTER WITH THE  COMMISSIONER  
+AS AN AUDITING ENTIT Y BEFORE CONDUCTING AN AUDIT IN THE STATE .  
+ 
+  (3) (2) THE COMMISSIONER MAY ADOP T REGULATIONS TO CAR RY 
+OUT THIS SUBSECTION .  
+ 
+ (d) (E) A pharmacy benefits manager may not schedule an onsite audit to begin 
+during the first 5  calendar days of a month unless requested by the pharmacy or 
+pharmacist.  
+ 
+ (e) (F)  When conducting an audit, a pharmacy benefits manager shall:  
+ WES MOORE, Governor  Ch. 355 
+ 
+– 3 –  
+  (1) if the audit is onsite, provide written notice to the pharmacy or 
+pharmacist at least 2 weeks before co nducting the initial onsite audit for each audit cycle;  
+ 
+  (2) employ the services of a pharmacist if the audit requires the clinical or 
+professional judgment of a pharmacist;  
+ 
+  (3) [permit ] ALLOW  its auditors to enter the prescription area of a 
+pharmacy only when accompanied by or authorized by a member of the pharmacy staff;  
+ 
+  (4) allow a pharmacist or pharmacy to use any prescription, or authorized 
+change to a prescription, that meets the requirements of COMAR 10.34.20.02 to validate 
+claims submitted for reimbursement for dispensing of original and refill prescriptions;  
+ 
+  (5) for purposes of validating the pharmacy record with respect to orders 
+or refills of a drug, allow the pharmacy or p harmacist to use records of a hospital or a 
+physician or other prescriber authorized by law that are:  
+ 
+   (i) written; or  
+ 
+   (ii) transmitted electronically or by any other means of 
+communication authorized by contract between the pharmacy and the pharmac y benefits 
+manager;  
+ 
+  (6) FOR PURPOSES OF AN I NVOICE AUDIT , ACCEPT AS VALIDATION  
+INVOICES ISSUED BEFO RE THE DATE OF DISPE NSING FROM : 
+ 
+   (I) A WHOLESALE DISTRIBU TOR: 
+ 
+    1. THAT HAS BEEN ISSUED  A PERMIT BY THE STATE  
+BOARD OF PHARMACY UNDER TITLE 12, SUBT ITLE 6C OF THE HEALTH  
+OCCUPATIONS ARTICLE ; AND  
+ 
+    2. FROM WHICH THE PHARM ACY OR PHARMACIST HA S 
+PURCHASED PRESCRIPTI ON DRUGS ; OR  
+ 
+   (II) FOR INVOICES FOR DUR ABLE MEDICAL EQUIPME NT OR  
+SICKROOM SUPPLIES , A DISTRIBUTOR THAT H AS THE APPROPRIATE  
+AUTHORIZATIO N TO DO BUSINESS IN THE STATE ; 
+ 
+  (7) (6) ALLOW  ACCEPT  A COMPLETED CASH  REGISTER 
+TRANSACTION TO  SERVE AS PROOF OF DE LIVERY OR PICKUP FOR  A PHARMACY 
+CUSTOMER UNLESS THERE IS CONT RADICTORY INFORMATIO N; 
+ 
+Ch. 355  2023 LAWS OF MARYLAND   
+ 
+– 4 –   [(6)] (8) (7) audit each pharmacy and pharmacist under the same standards 
+and parameters as other similarly situated pharmacies or pharmacists audited by the 
+pharmacy benefits manager;  
+ 
+  [(7)] (9) (8) only audit claims submitted or adjudicated within the 2 –year 
+period immediately preceding the audit, un less a longer period is authorized under federal 
+or State law;  
+ 
+  [(8)] (10) (9) deliver the preliminary audit report to the pharmacy or 
+pharmacist within 120 calendar days after the completion of the audit, with reasonable 
+extensions allowed;  
+ 
+  [(9)] (11) (10)  in accordance with subsection [(k)] (M) (L) (M) of this 
+section, allow a pharmacy or pharmacist to produce documentation to address any 
+discrepancy found during the audit; and  
+ 
+  [(10)] (12) (11)  deliver the final audit report to the pharmacy or 
+pharmacist:  
+ 
+   (i) within 6 months after delivery of the preliminary audit report if 
+the pharmacy or pharmacist does not request an internal appeal under subsection [(k)] (M) 
+(L) (M) of this section; or  
+ 
+   (ii) within 30 days after the conclusion of the internal appeals 
+process under subsection [(k)] (M) (L) (M) of this section if the pharmacy or pharmacist 
+requests an internal appeal.  
+ 
+ (f) (G)  If a contract between a pharmacy or pharmacist and a pharmacy 
+benef its manager specifies a period of time in which a pharmacy or pharmacist is allowed 
+to withdraw and resubmit a claim and that period of time expires before the pharmacy 
+benefits manager delivers a preliminary audit report that identifies discrepancies, the  
+pharmacy benefits manager shall allow the pharmacy or pharmacist to withdraw and 
+resubmit a claim within 30 days after:  
+ 
+  (1) the preliminary audit report is delivered if the pharmacy or pharmacist 
+does not request an internal appeal under subsection [(k)] (M) (L) (M) of this section; or  
+ 
+  (2) the conclusion of the internal appeals process under subsection [(k)] 
+(M) (L) (M) of this section if the pharmacy or pharmacist requests an internal appeal.  
+ 
+ (g) (H) During an audit, a pharmacy benefits manager may not disrupt the 
+provision of services to the customers of a pharmacy.  
+ 
+ (h) (I) (1) A pharmacy benefits manager may not:  
+ 
+ WES MOORE, Governor  Ch. 355 
+ 
+– 5 –    (i) use the accounting practice of extrapolation to calculate 
+overpayments or underpayments; [or] 
+ 
+   (ii) [Except ] EXCEPT  as provided in paragraph (2) of this subsection:  
+ 
+    1. share information from an audit with another pharmacy 
+benefits manager; or  
+ 
+    2. use information from an audit conducted by another 
+pharmacy benefits manager ; 
+ 
+   (III) CHARGE A PHARMACY OR  PHARMACIST A FEE UNL ESS AN  
+AUDIT FINDS THERE WA S A FINANCIAL DETRIM ENT TO THE PHARMACY CUSTOMER  
+OR PURCHASER ; 
+ 
+   (IV) CHARGE A PHARMACY OR  PHARMACIST A FEE WIT H REGARD  
+TO AN INCORRECT DAYS  OF SUPPLY CALCULATIO N IF THE PHARMACY BE NEFITS  
+MANAGER IS UNABLE T O ACCEPT THE CORRECT  DAYS OF SUPPLY WITHO UT HELP  
+DESK INTERVENTION ;  
+ 
+   (III) RECOUP ANY FUNDS FRO M OR CHARGE ANY FEES  TO A 
+PHARMACY OR PHARMACI ST FOR A PRESCRIPTIO N WITH REGARD TO AN INCORRECT 
+DAYS OF SUPPLY CALCU LATION IF THE PACKAG E SIZE OF THE MEDICATION IS 
+UNBREAKABLE AND THE PHARMACY BENEFITS MA NAGER CANNOT ACCEPT THE 
+CORRECT MATHEMATICAL LY CALCULABLE DAYS ’ SUPPLY DURING PRESCR IPTION 
+ADJUDICATION ;  
+ 
+   (V) (IV) HAVE OR REQUEST ACCE SS TO A PHARMACY ’S OR 
+PHARMACIST ’S BANK , CREDIT CARD , OR DEPOSI TORY STATEMENTS OR D ATA AS IT 
+RELATES TO COST –SHARING ; OR 
+ 
+   (VI) (V) AUDIT CLAIMS THAT WE RE REVERSED OR FOR W HICH 
+THERE WAS NO REMUNER ATION BY THE PURCHAS ER OR COST TO THE PH ARMACY 
+CUSTOMER EXCEPT IF NECESSARY TO EVALUATE COMPLIAN CE TO A CONTRACT . 
+ 
+  (2) Paragraph (1)(ii) of this subsection does not apply to the sharing of 
+information:  
+ 
+   (i) required by federal or State law;  
+ 
+   (ii) in connection with an acquisition or merger involving the 
+pharmacy benefits manager; or  
+ 
+   (iii) at the payor’s request or under the terms of the agreement 
+between the pharmacy benefits manager and the payor.  
+Ch. 355  2023 LAWS OF MARYLAND   
+ 
+– 6 –  
+  (3) FOR CLAIMS THAT WERE AUDITED IN VIOLATION  OF PARAGRAPH  
+(1)(VI) OF THIS SUBSECTION , THE PHARMACY BENEFIT S MANAGER OR PURCHAS ER 
+SHALL PAY THE PHARMA CY OR PHARMACIST $20 PER CLAIM FOUND TO B E IN  
+VIOLATION .  
+ 
+ (I) (J)  (1) A PHARMACY BENEFITS MA NAGER OR PURCHASER M AY NOT 
+AUDIT MORE THAN 50 125 PRESCRIPTIONS DURING  A DESK OR SITE AUDIT  UNLESS 
+THE PHARMACY BENEFITS MA NAGER OR PURCHASER R EQUESTING THE AUDIT PAYS  
+THE PHARMACY OR PHARMACI ST $20 PER ADDITIONAL PRESC RIPTION OR PROOF 
+OF DELIVERY OR PICKUP R EQUEST . 
+ 
+  (2) THE FEE REQUIRED UNDE R PARAGRAPH (1) OF THIS SUBSECTION  
+IS IN ADDITION TO TH E FEE REQUIRED UNDER  SUBSECTION (J)(1) OF THIS SECTION . 
+ 
+ (J) (1) SUBJECT  TO PARAGRAPH (2) OF THIS SUBSECTION , A PHARMACY  
+BENEFITS MANAGER OR PURCHASER SHALL PAY A PHARMACY OR PHARMA CIST $250  
+PER HOUR OF AUDIT OR  $10 PER PRESCRIPTION AUD ITED , WHICHEVER IS GREATER . 
+ 
+  (2) THE FEE REQUIRED UNDE R THIS SUBSECTION SH ALL BE  
+ADJUSTED ON JULY 1 EACH YEAR FOR INFLAT ION IN ACCORDANCE WI TH THE  
+CONSUMER PRICE INDEX .  
+ 
+ [(i)] (K) (J) (K) The recoupment of a claims payment from a pharmacy or 
+pharmacist by a pharmacy benefits manager shall be based on an actual overpayment or 
+denial of an audited claim unless the projected overpayment or denial is part of a settlement 
+agreed to by the pharmacy or pharmacist.  
+ 
+ [(j)] (L) (K) (L) (1) In this subsection, “overpayment” means a payment by the 
+pharmacy benefits manager to a pharmacy or pharmacist  that is greater than the rate or 
+terms specified in the contract between the pharmacy or pharmacist and the pharmacy 
+benefits manager at the time that the payment is made.  
+ 
+  (2) A clerical error, record –keeping error, typographical error, or 
+scrivener’s error in a required document or record may not constitute fraud or grounds for 
+recoupment of a claims payment from a pharmacy or pharmacist by a pharmacy benefits 
+manager if the prescription was otherwise legally dispensed and the claim was otherwise 
+mater ially correct.  
+ 
+  (3) Notwithstanding paragraph (2) of this subsection, claims remain 
+subject to recoupment of overpayment or payment of any discovered underpayment by the 
+pharmacy benefits manager.  
+ 
+ WES MOORE, Governor  Ch. 355 
+ 
+– 7 –  [(k)] (M) (L) (M) (1) A pharmacy benefits manager shall  establish an internal 
+appeals process under which a pharmacy or pharmacist may appeal any disputed claim in 
+a preliminary audit report.  
+ 
+  (2) Under the internal appeals process, a pharmacy benefits manager shall 
+allow a pharmacy or pharmacist to request an internal appeal within 30 working days after 
+receipt of the preliminary audit report, with reasonable extensions allowed.  
+ 
+  (3) The pharmacy benefits manager shall include in its preliminary audit 
+report a written explanation of the internal appeals pr ocess, including the name, address, 
+and telephone number of the person to whom an internal appeal should be addressed.  
+ 
+  (4) The decision of the pharmacy benefits manager on an appeal of a 
+disputed claim in a preliminary audit report by a pharmacy or phar macist shall be reflected 
+in the final audit report.  
+ 
+  (5) The pharmacy benefits manager shall deliver the final audit report to 
+the pharmacy or pharmacist within 30 calendar days after conclusion of the internal 
+appeals process.  
+ 
+ [(l)] (N) (M) (N) (1) A pharmacy benefits manager may not recoup by setoff 
+any money for an overpayment or denial of a claim until:  
+ 
+   (i) the pharmacy or pharmacist has an opportunity to review the 
+pharmacy benefits manager’s findings; and  
+ 
+   (ii) if the pharmacy or pharmacist concurs with the pharmacy 
+benefits manager’s findings of overpayment or denial, 30 working days have elapsed after 
+the date the final audit report has been delivered to the pharmacy or pharmacist.  
+ 
+  (2) If the pharmacy or pharmacist does not co ncur with the pharmacy 
+benefits manager’s findings of overpayment or denial, the pharmacy benefits manager may 
+not recoup by setoff any money pending the outcome of an appeal under subsection [(k)] 
+(M) (L) (M) of this section.  
+ 
+  (3) A pharmacy benefits manager shall remit any money due to a pharmacy 
+or pharmacist as a result of an underpayment of a claim within 30 working days after the 
+final audit report has been delivered to the pharmacy or pharmacist.  
+ 
+  (4) Notwithstanding the provisions of paragraph  (1) of this subsection, a 
+pharmacy benefits manager may withhold future payments before the date the final audit 
+report has been delivered to the pharmacy or pharmacist if the identified discrepancy for 
+all disputed claims in a preliminary audit report fo r an individual audit exceeds $25,000.  
+ 
+ (O) THE FINAL AUDIT REPOR T SHALL , IF APPLICABLE : 
+ 
+Ch. 355  2023 LAWS OF MARYLAND   
+ 
+– 8 –   (1) IDENTIFY EACH PHARMA CY CUSTOMER OR PURCH ASER  
+RECEIVING A REFUND ; AND  
+ 
+  (2) SPECIFY THE AMOUNT B EING REFUNDED TO EAC H PHARMACY  
+CUSTOMER OR PURCHASE R. 
+ 
+ (P) A PHARMACY OR PHARMACI ST MAY CONFIRM WITH THE PHARMACY  
+CUSTOMER OR PURCHASE R THAT THE PHARMACY CUSTOMER OR PURCHASE R 
+RECEIVED THE REFUND AMOUNT FROM THE PHAR MACY BENEFITS MANAGE R.  
+ 
+ (Q) (N) (O) (1) A PHARMACY BENEFITS MA NAGER SHALL PROVIDE A 
+PHARMACY OR PHARMACI ST BEING AUDITED WIT H A PHONE NUMBER AND, IF 
+AVAILABLE , ACCESS TO A SECURE P ORTAL  THAT THE PHARMACY OR  PHARMACIST 
+MAY USE TO ASK QUEST IONS REGARDING THE A UDIT . 
+ 
+  (2) AN INDIVIDUAL WHO IS FAMI LIAR WITH THE AUDIT SHALL 
+RESPOND TO ALL TELEPHONE  INQUIRIES MADE THROUGH A PHONE  NUMBER OR 
+SECURE PORTAL PROVID ED UNDER PARAGRAPH (1) OF THIS SUBSECTION  WITHIN  
+72 HOURS  3 BUSINESS DAYS  AFTER THE CALL  INQUIRY  WAS MADE . 
+ 
+ (R) (O) (P) (1) THE PHARMACY BENEFITS MANAGER SHA LL GIVE THE 
+PHARMACY OR PHARMACI ST THE OPTION TO PRO VIDE REQUESTED AUDIT  
+DOCUMENTATION BY POS TAL MAIL , E–MAIL , OR FACSIMILE . 
+ 
+  (2) IF A DOCUMENT IS REQU ESTED REGARDING AN A UDIT , THE 
+PHARMACY BENEFITS MA NAGER SHALL PROVIDE A SECURE FACS IMILE NUMBER 
+AND A MECHANISM FOR RECEIVING SECURE E –MAILS .  
+ 
+  (3) ON OR BEFORE OCTOBER 1, 2025,  A PHARMACY BENEFITS 
+MANAGER SHALL PROVID E A MECHANISM FOR SE CURE ELECTRONIC 
+COMMUNICATION FOR PH ARMACIES AND PHARMAC ISTS TO COMMUNICATE WITH 
+AND SUBMIT DOCUMEN TS TO THE AUDITING E NTITY .  
+ 
+ [(m)] (S) (P) (Q) (1) The Commissioner may adopt regulations regarding:  
+ 
+   (i) the documentation that may be requested during an audit; and  
+ 
+   (ii) the process a pharmacy benefits manager may use to conduct an 
+audit.  
+ 
+  (2) On request of the Commissioner or the Commissioner’s designee, a 
+pharmacy benefits manager shall provide a copy of its audit procedures or internal appeals 
+process.  
+ 
+ WES MOORE, Governor  Ch. 355 
+ 
+– 9 –  SECTION 2. AND BE IT FURTHER ENACTED, That:  
+ 
+ (a) Except as provided in subsection (b) of  this section, for an audit of a pharmacy 
+or pharmacist under contract with a pharmacy benefits manager, this Act shall apply only 
+to an audit performed on or after January 1, 2024.  
+ 
+ (b) For a pharmacy benefits manager that contracts with the State or a l ocal 
+government , this Act shall apply only to audits that occur on the first day of the first plan 
+year beginning on or after January 1, 2024, or the first time a contract between a pharmacy 
+benefits manager with the State or a local government  is amended or renewed on or after 
+January 1, 2024.   
+ 
+ SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2023  January 1, 2024 .  
+ 
+Approved by the Governor, May 3, 2023.  

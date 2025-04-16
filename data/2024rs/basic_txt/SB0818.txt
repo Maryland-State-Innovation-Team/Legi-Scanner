@@ -1,0 +1,1142 @@
+ WES MOORE, Governor  Ch. 496  
+ 
+– 1 – Chapter 496  
+(Senate Bill 818 ) 
+ 
+AN ACT concerning  
+ 
+Information Technology – Artificial Intelligence – Policies and Procedures 
+(Artificial Intelligence Governance Act of 2024)  
+ 
+FOR the purpose of requiring each unit of State government to conduct a certain annual 
+data inventory, a certain annual  inventory of systems that employ artificial 
+intelligence, and a certain impact assessment on or before a certain date; requiring  
+prohibi ting the Department of Information Technology from making certain 
+information publicly available under certain circumstances  to conduct ongoing 
+monitoring of certain systems under certain circumstances ; requiring the 
+Department of Information Technology , in consultation with the Governor’s Artificial 
+Intelligence Subcabinet of the Governor’s Executive Council,  to adopt policies and 
+procedures concerning the development, procurement, implementation  deployment , 
+use, and assessment of systems that employ arti ficial intelligence by units of State 
+government; prohibiting a unit of State government from implementing  deploying  or 
+using a system that employs artificial intelligence under certain circumstances 
+beginning on a certain date; requiring a unit of State g overnment to conduct certain 
+regular impact assessments under certain circumstances; exempting  the Office of the 
+Attorney General, the Comptroller, the Treasurer, and  certain public institutions of 
+higher education from certain provisions;  establishing the  Governor’s Artificial 
+Intelligence  Subcabinet of the Governor’s Executive Council ; establishing 
+competitive proof of concept procurement as a formal competitive procurement 
+method for the procurement of certain products and services; exempting certain 
+competitive proof of concept procurements from oversight by the Board of Public 
+Works;  requiring the Department of General Services, in consultation with the 
+Department of Information Technology, to develop certain policies and procedures 
+for the development and implementation of competitive proof of concept 
+procurements; requiring the Subcabinet to develop a certain roadmap;  and generally 
+relating to the use of artificial intelligence by units of State government.  
+ 
+BY repealing and reenacting, without amend ments,  
+ Article – State Finance and Procurement  
+ Section 3.5 –101(a), (c), (d), and (f)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – State Finance and Procurement  
+ Section 3.5 –301, 3.5 –303(a), and 12 –101 Section 3.5 –301 and 3.5 –303(a)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2023 Supplement)  
+ 
+Ch. 496  2024 LAWS OF MARYLAND   
+ 
+– 2 – BY adding to  
+ Article – State Finance and Procurement  
+Section 3.5 –318; 3.5 –801 through 3.5–805 3.5–806 to be under the new subtitle 
+“Subtitle 8. Artificial Intelligence”; and 13 –116 
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2023 Supplement)  
+ 
+Preamble  
+ 
+ WHEREAS, Artificial intelligence is transforming society and work, and the pace of 
+that c hange will present new opportunities and risks for the State’s residents, workers, and 
+economy; and  
+ 
+ WHEREAS, The State must ensure the responsible, ethical, beneficial, and 
+trustworthy use of artificial intelligence in State government; and  
+ 
+ WHEREAS, Th e State is home to a rich and growing artificial intelligence ecosystem 
+of academic, industry, government, and civil society experts, researchers, builders, 
+organizers, and stakeholders; and  
+ 
+ WHEREAS, To foster an environment for innovation while respecti ng individuals, 
+employees, and civil rights, as artificial intelligence technologies are developed and evolve, 
+the technologies should be analyzed and monitored by government officials, industry 
+experts, consumer protection advocates, and other stakeholder s; and  
+ 
+ WHEREAS, Given the rapid rate of change in artificial intelligence technologies and 
+industry, the State must chart a principled yet adaptable, pragmatic path forward, so that 
+the technologies’ benefits can be confidently harnessed on behalf of Marylanders and in 
+service of the Governor’s mission to Leave No One Behind; and  
+ 
+ WHEREAS, Leaders across State government share a common interest in 
+establishing effective artificial intelligence governance and are committed to working 
+together to develo p the legal and policy framework for its responsible use in the State; and  
+ 
+ WHEREAS, Automated systems should be safe and effective, developed with 
+consultation from diverse communities, stakeholders, and domain experts to identify 
+concerns, risks, and po tential impacts of the systems; and  
+ 
+ WHEREAS, Designers, developers, and deployers of automated systems should take 
+proactive and continuous measures to protect individuals and communities from 
+algorithmic discrimination and to use and design systems in a n equitable way; and  
+ 
+ WHEREAS, Designers, developers, and deployers of automated systems should seek 
+permission and respect decisions regarding collection, use, access, transfer, and deletion of 
+data in appropriate ways and to the greatest extent possible ; where not possible, alternative 
+privacy by design safeguards should be used; and  
+ WES MOORE, Governor  Ch. 496  
+ 
+– 3 –  
+ WHEREAS, Designers, developers, and deployers of automated systems should 
+provide generally accessible plain language documentation including clear descriptions of 
+the ove rall system functioning and the role automation plays, notice that such systems are 
+in use, the individual or organization responsible for the system, and explanations of 
+outcomes that are clear, timely, and accessible; and  
+ 
+ WHEREAS, Designers, developers , and deployers of automated systems should 
+consider the specific types of actions for which a human alternative is appropriate, 
+commensurate with the magnitude of the action and risk of harm, along with the extent to 
+which a human alternative would be ben eficial to individuals and the public interest; now, 
+therefore,  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – State Finance and Procurement  
+ 
+3.5–101. 
+ 
+ (a) In this title the following words have the meanings indicated.  
+ 
+ (c) “Department” means the Department of Information Technology.  
+ 
+ (d) “Secretary” means the Secretary of Information Technology.  
+ 
+ (f) “Unit of State government” means an agency or unit of the Executive Branch 
+of State  government.  
+ 
+3.5–301. 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  
+ 
+ (B) “ARTIFICIAL INTELLIGEN CE” HAS THE MEANING STAT ED IN § 3.5–801 
+OF THIS TITLE . 
+ 
+ [(b)] (C) “Cybersecurity” means processes or capabilities wherein systems, 
+communications, and information are protected and defended against damage, 
+unauthorized use or modification, and exploitation.  
+ 
+ [(c)] (D) “Cybersecurity strategy” means a vision, a plan of action, or guiding 
+principles.  
+ 
+ [(d)] (E) (1) “Development” means  all expenditures for a new information 
+technology system or an enhancement to an existing system including system:  
+ 
+Ch. 496  2024 LAWS OF MARYLAND   
+ 
+– 4 –    (i) planning;  
+ 
+   (ii) creation;  
+ 
+   (iii) installation;  
+ 
+   (iv) testing; and  
+ 
+   (v) initial training.  
+ 
+  (2) “Development” does not i nclude:  
+ 
+   (i) ongoing operating costs, software or hardware maintenance, 
+routine upgrades, or modifications that merely allow for a continuation of the existing level 
+of functionality; or  
+ 
+   (ii) expenditures made after a new or enhanced system has been  
+legally accepted by the user and is being used for the business process for which it was 
+intended.  
+ 
+ [(e)] (F) “Fund” means the Major Information Technology Development Project 
+Fund.  
+ 
+ [(f)] (G) “Information technology” means all electronic information pr ocessing, 
+including:  
+ 
+  (1) maintenance;  
+ 
+  (2) telecommunications;  
+ 
+  (3) hardware;  
+ 
+  (4) software; and  
+ 
+  (5) associated services.  
+ 
+ [(g)] (H) “Information technology services” means information provided by 
+electronic means by or on behalf of a unit of State government.  
+ 
+ [(h)] (I) “Major information technology development project” means any 
+information technology development project that meets one or more of the following 
+criteria:  
+ 
+  (1) the estimated total cost of development equals or exceeds $1,000, 000; 
+ 
+ WES MOORE, Governor  Ch. 496  
+ 
+– 5 –   (2) the project is undertaken to support a critical business function 
+associated with the public health, education, safety, or financial well –being of the citizens 
+of Maryland; or  
+ 
+  (3) the Secretary determines that the project requires the specia l attention 
+and consideration given to a major information technology development project due to:  
+ 
+   (i) the significance of the project’s potential benefits or risks;  
+ 
+   (ii) the impact of the project on the public or local governments;  
+ 
+   (iii) the public visibility of the project; or  
+ 
+   (iv) other reasons as determined by the Secretary.  
+ 
+ [(i)] (J) “Master plan” means the statewide information technology master plan 
+and statewide cybersecurity strategy.  
+ 
+ [(j)] (K) “Nonvisual access” means the abil ity, through keyboard control, 
+synthesized speech, Braille, or other methods not requiring sight to receive, use, and 
+manipulate information and operate controls necessary to access information technology in 
+accordance with standards adopted under § 3.5 –303(b) of this subtitle.  
+ 
+ [(k)] (L) “Resource sharing” means the utilization of a State resource by private 
+industry in exchange for the provision to the State of a communication service or other 
+consideration.  
+ 
+ [(l)] (M) “Systems development life cycle pl an” means a plan that defines all 
+actions, functions, or activities to be performed by a unit of State government in the 
+definition, planning, acquisition, development, testing, implementation, operation, 
+enhancement, and modification of information techno logy systems.  
+ 
+3.5–303. 
+ 
+ (a) The Secretary is responsible for carrying out the following duties:  
+ 
+  (1) developing, maintaining, revising, and enforcing information 
+technology policies, procedures, and standards;  
+ 
+  (2) providing technical assistance, advice, and recommendations to the 
+Governor and any unit of State government concerning information technology matters;  
+ 
+  (3) reviewing the annual project plan for each unit of State government to 
+make information and services available to the public over  the Internet;  
+ 
+Ch. 496  2024 LAWS OF MARYLAND   
+ 
+– 6 –   (4) developing and maintaining a statewide information technology master 
+plan that will:  
+ 
+   (i) centralize the management and direction of information 
+technology policy within the Executive Branch of State government under the control of  the 
+Department;  
+ 
+   (ii) include all aspects of State information technology including 
+telecommunications, security, data processing, and information management;  
+ 
+   (iii) consider interstate transfers as a result of federal legislation and 
+regulation;  
+ 
+   (iv) ensure that the State information technology plan and related 
+policies and standards are consistent with State goals, objectives, and resources, and 
+represent a long –range vision for using information technology to improve the overall 
+effectiveness of State government;  
+ 
+   (v) include standards to assure nonvisual access to the information 
+and services made available to the public over the Internet; and  
+ 
+   (vi) allows a State agency to maintain the agency’s own information 
+technology unit that provi des for information technology services to support the mission of 
+the agency;  
+ 
+  (5) developing and maintaining a statewide cybersecurity strategy that 
+will: 
+ 
+   (i) centralize the management and direction of cybersecurity 
+strategy within the Executive Bra nch of State government under the control of the 
+Department; and  
+ 
+   (ii) serve as the basis for budget allocations for cybersecurity 
+preparedness for the Executive Branch of State government;  
+ 
+  (6) adopting by regulation and enforcing nonvisual access st andards to be 
+used in the procurement of information technology services by or on behalf of units of State 
+government in accordance with subsection (c) of this section;  
+ 
+  (7) in consultation with the Maryland Cybersecurity Coordinating Council, 
+advising a nd overseeing a consistent cybersecurity strategy for units of State government, 
+including institutions under the control of the governing boards of the public institutions 
+of higher education;  
+ 
+  (8) advising and consulting with the Legislative and Judici al branches of 
+State government regarding a cybersecurity strategy;  
+ WES MOORE, Governor  Ch. 496  
+ 
+– 7 –  
+  (9) in consultation with the Maryland Cybersecurity Coordinating Council, 
+developing guidance on consistent cybersecurity strategies for counties, municipal 
+corporations, school systems , and all other political subdivisions of the State;  
+ 
+  (10) upgrading information technology and cybersecurity –related State 
+government infrastructure; [and] 
+ 
+  (11) annually evaluating:  
+ 
+   (i) the feasibility of units of State government providing public 
+services using artificial intelligence, machine learning, commercial cloud computer 
+services, device –as–a–service procurement models, and other emerging technologies; and  
+ 
+   (ii) the development of data analytics capabilities to enable  
+data–driven  policymaking by units of State government ; AND  
+ 
+  (12) CONDUCTING INVENTORI ES AND ONGOING ASSESSME NTS  OF 
+SYSTEMS THAT EMPLOY ARTIFICIAL INTELLIGE NCE THAT ARE USED BY  A UNIT OF 
+STATE GOVERNMENT AS R EQUIRED UNDER § 3.5–318 OF THIS SUBTITLE  § 3.5–803 
+OF THIS  TITLE . 
+ 
+3.5–318. 
+ 
+ (A) ON OR BEFORE DECEMBER 1, 2024,  AND ANNUALLY THEREAF TER, 
+EACH UNIT OF STATE GOVERNMENT SHAL L CONDUCT A DATA INV ENTORY THAT 
+IDENTIFIES DATA THAT  MEETS THE CRITERIA E STABLISHED BY THE CHIEF DATA 
+OFFICER AND THAT IS : 
+ 
+  (1) (I) NECESSARY FOR THE OP ERATION OF THE UNIT ; OR 
+ 
+   (II) OTHERWISE REQUIRED T O BE COLLECTED : 
+ 
+    1. AS A CONDITION TO RE CEIVE FEDERAL FUNDS ; OR 
+ 
+    2. BY FEDERAL OR STATE LAW ; AND 
+ 
+  (2) IN A FORM PRESCRIBED  BY THE CHIEF DATA OFFICER , 
+INCLUDING WHEN THE D ATA  IS USED IN ARTIFICIA L INTELLIGENCE . 
+ 
+ (B) THE DEPARTMENT SHALL DEVE LOP AND PUBLISH GUID ANCE ON THE 
+POLICIES AND PROCEDU RES FOR THE INVENTOR Y. 
+ 
+SUBTITLE 8. ARTIFICIAL INTELLIGENCE . 
+ 
+Ch. 496  2024 LAWS OF MARYLAND   
+ 
+– 8 – 3.5–801. 
+ 
+ (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE  THE MEANINGS 
+INDICATED . 
+ 
+ (B) (1) “ALGORITHMIC DECISION SYSTEM” MEANS A COMPUTATIONA L 
+PROCESS THAT FACILIT ATES DECISION MAKING . 
+ 
+  (2) “ALGORITHMIC DECISION SYSTEM” INCLUDES DECISIONS 
+DERIVED FROM MACHINE S, STATISTICS , FACIAL RECOGNITION , AND DECISIONS ON 
+PAPER . 
+ 
+ (C) “ARTIFICIAL INTELLIGEN CE” MEANS A MACHINE –BASED SYSTEM THAT : 
+ 
+  (1) CAN, FOR A GIVEN SET OF H UMAN–DEFINED OBJECTIVES , MAKE 
+PREDICTIONS , RECOMMENDATIONS , OR DECISIONS INFLUEN CING REAL OR VIRTUAL  
+ENVIRONMENTS ; 
+ 
+  (2) USES MACHINE AND HUM AN–BASED INPUTS TO PERCEIVE REAL 
+AND VIRTUAL ENVIRONM ENTS AND ABSTRACTS T HOSE PERCEPTIONS INT O MODELS 
+THROUGH ANALYSIS IN AN AUTOMATED MANNER ; AND 
+ 
+  (3) USES MODEL INFERENCE  TO FORMULATE OPTIONS  FOR 
+INFORMATION OR ACTIO N. 
+ 
+ (D) “HIGH–RISK” MEANS AN ACT THAT IS  LIKELY TO : 
+ 
+  (1) RESULT IN ANY UNLAWF UL DISCRIMINATION ; 
+ 
+  (2) HAVE AN UNLAWFUL DIS PARATE IMPACT ON ANY  INDIVIDUAL OR  
+GROUP OF INDIVIDUALS  ON THE BASIS OF ANY ACTUAL OR PERCEIVED  
+CHARACTERISTIC ; OR 
+ 
+  (3) HAVE A NEGATIVE IMPA CT ON THE HEALTH , SAFETY , OR  
+WELL–BEING OF  AN INDIVIDUAL .  
+ 
+ (E) (D) “IMPACT ASSESSMENT ” MEANS A DOCUMENTED R ISK–BASED  
+EVALUATION OF A SYST EM THAT EMPLOYS RIGHTS–IMPACTING OR  
+SAFETY–IMPACTING  ARTIFICIAL INTELLIGE NCE. 
+ 
+ (D) (1) “HIGH–RISK ARTIFICIAL INTE LLIGENCE ” MEANS ARTIFICIAL 
+INTELLIGENCE THAT IS  A RISK TO INDIVIDUAL S OR COMMUNITIES , AS DEFINED 
+ WES MOORE, Governor  Ch. 496  
+ 
+– 9 – UNDER REGULATIONS AD OPTED BY THE DEPARTMENT IN CONSULT ATION WITH THE 
+GOVERNOR ’S ARTIFICIAL INTELLIGENCE SUBCABINET . 
+ 
+  (2) “HIGH–RISK ARTIFICIAL INTE LLIGENCE ” INCLUDES  
+RIGHTS–IMPACTING ARTIFICIAL  INTELLIGENCE AND SAF ETY–IMPACTING 
+ARTIFICIAL INTELLIGE NCE. 
+ 
+ (E) “IMPACT ASSESSMENT ” MEANS AN ASSESSMENT OF ARTIFICIAL 
+INTELLIGENCE SYSTEMS  MADE UNDER REGULATIO NS ADOPTED BY THE 
+DEPARTMENT IN CONSULT ATION WITH THE GOVERNOR ’S ARTIFICIAL 
+INTELLIGENCE SUBCABINET AND REQUIR ED UNDER § 3.5–803 OF THIS SUBTITLE .  
+ 
+ (E) (F) “PUBLIC SENIOR HIGHER EDUCATION INSTITUTIO N” MEANS : 
+ 
+  (1) THE CONSTITUENT INST ITUTIONS OF THE UNIVERSITY SYSTEM 
+OF MARYLAND AND THE UNIVERSITY OF MARYLAND CENTER FOR 
+ENVIRONMENTAL SCIENCE ; 
+ 
+  (2) MORGAN STATE UNIVERSITY ; OR 
+ 
+  (3) ST. MARY’S COLLEGE OF MARYLAND . 
+ 
+ (F) (G) “RIGHTS–IMPACTING ARTIFICIAL  INTELLIGENCE ” MEANS 
+ARTIFICIAL INTELLIGE NCE WHOSE OUTPUT SER VES AS A BASIS FOR D ECISION OR 
+ACTION THAT HAS A LEGAL , MATERIAL , OR SIMILARLY SIGNIFI CANT EFFECT ON AN 
+INDIVIDUAL ’S OR COMMUNITY ’S: 
+ 
+  (1) CIVIL RIGHTS , CIVIL LIBERTIES , OR PRIVACY , INCLUDING 
+FREEDOM OF SPEECH , VOTING , HUMAN AUTONOMY , AND PROTECTIONS FROM  
+DISCRIMINATION , EXCESSIVE PUNISHMENT , AND UNLAWFUL SURV EILLANCE ;  
+ 
+  (2) EQUAL OPPORTUNITIES , INCLUDING EQUITABLE ACCESS TO 
+EDUCATION , HOUSING , CREDIT , EMPLOYMENT , AND OTHER SITUATIONS  WHERE 
+CIVIL RIGHTS AND EQU AL OPPORTUNITY PROTE CTIONS APPLY ; OR 
+ 
+  (3) ACCESS TO CRITICAL R ESOURCES OR SERVICES , INCLUDING 
+HEAL TH CARE , FINANCIAL SERVICES , SOCIAL SERVICES , TRANSPORTATION , 
+NONDECEPTIVE INFORMA TION ABOUT GOODS AND  SERVICES , AND GOVERNMENT 
+BENEFITS OR PRIVILEG ES. IS SIGNIFICANTLY LIK ELY TO AFFECT CIVIL RIGHTS , 
+CIVIL LIBERTIES , EQUAL OPPORTUNITIES , ACCESS TO CRITICAL  RESOURCES , OR 
+PRIVACY . 
+ 
+ (G) (H) “SAFETY–IMPACTING ARTIFICIAL  INTELLIGENCE ” MEANS 
+ARTIFICIAL INTELLIGE NCE THAT HAS THE POT ENTIAL TO MEANINGFULLY  
+Ch. 496  2024 LAWS OF MARYLAND   
+ 
+– 10 – SIGNIFICANTLY  IMPACT THE SAFETY OF INDIVIDUALS AND C OMMUNITIES 
+REGARDING : 
+ 
+  (1) HUMAN LIFE OR WELL –BEING , INCLUDING LOSS OF LI FE, SERIOUS 
+INJURY , BODILY HARM , BIOLOGICAL OR CHEMIC AL WEAPONS , OCCUPATIONAL 
+HAZARDS , HARASSMENT OR ABUSE , OR MENTAL HEALTH ; 
+ 
+  (2) THE CLIMATE OR THE E NVIRONMENT , INCLUDING IRREVERSIB LE 
+OR SIGNIFICANT ENVIR ONMENTAL DAMAGE ;  
+ 
+  (3) CRITICAL INFRASTRUCT URE, INCLUDING THE INFRAS TRUCTURE 
+FOR VOTING AND PROTE CTING THE INTEGRITY OF ELECTIONS ; OR 
+ 
+  (4) STRATEGIC ASSETS OR RESOURCES , INCLUDING INTELLECTU AL 
+PROPERTY . OF HUMAN LIFE , WELL–BEING , OR CRITICAL INFRASTR UCTURE . 
+ 
+3.5–802. 
+ 
+ (A) THIS SUBTITLE APPLIES T O EACH PUBLIC SENIOR  HIGHER EDUCATION 
+INSTITUTION AND BALTIMORE CITY COMMUNITY COLLEGE IN A PARTNERS HIP FOR 
+THE DEVELOPMENT , PROCUREMENT , DEPLOYMENT , OR USE OF ARTIFICIAL  
+INTELLIGENCE WITH A UNIT OF STATE GOVERNMENT . 
+ 
+ (B) EXCEPT AS PROVIDED IN  § 3.5–804( D) OF THIS SUBTITLE , THIS 
+SUBTITLE DOES NOT AP PLY TO ARTIFICIAL IN TELLIGENCE DEPLOYED BY PUBLIC 
+SENIOR HIGHER EDUCAT ION INSTITUTIONS OR BALTIMORE CITY COMMUNITY 
+COLLEGE USED SOLELY F OR A RESEARCH OR ACA DEMIC PURPOSE , INCLUDI NG IN A 
+PARTNERSHIP FOR THE DEVELOPMENT , PROCUREMENT , DEPLOYMENT , OR USE OF 
+ARTIFICIAL INTELLIGE NCE WITH A UNIT OF STATE GOVERNMENT .  
+ 
+ (C) A PUBLIC SENIOR HIGHER  EDUCATION INSTITUTIO N OR BALTIMORE 
+CITY COMMUNITY COLLEGE SHALL ESTABLI SH POLICIES AND PROC EDURES THAT 
+ARE FUNCTIONALLY COM PATIBLE WITH THE POL ICIES AND PROCEDURES  ADOPTED 
+UNDER § 3.5–804( A) OF THIS SUBTITLE FOR  ARTIFICIAL INTELLIGE NCE DEPLOYED 
+FOR AN OPERATIONS –RELATED PURPOSE . 
+ 
+ (A) (1) EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS SUBSECTION , 
+THIS SUBTITLE DOES NOT APPLY TO :  
+ 
+   (I) THE OFFICE OF THE ATTORNEY GENERAL ;  
+ 
+   (II) THE COMPTROLLER ; OR 
+ 
+ WES MOORE, Governor  Ch. 496  
+ 
+– 11 –    (III) THE STATE TREASURER . 
+ 
+  (2) ON OR BEFORE JUNE 1, 2025,  EACH ENTITY LISTED U NDER 
+PARAGRAPH (1) OF THIS SUBSECTION S HALL ESTABLISH POLIC IES AND 
+PROCEDURES THAT ARE FUNCTIONALLY COMPATI BLE WITH THE POLICIE S AND 
+PROCEDURES ADOPTED U NDER § 3.5–804( A) OF THIS SUBTITLE FOR  THE 
+DEVELOPMENT , PROCUREMENT , DEPLOYMENT , USE, AND ONGOING ASSESSME NT OF 
+SYSTEMS THAT EMPLOY HIGH–RISK ARTIFICIAL INTE LLIGENCE .  
+ 
+ (B) (1) EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS SUBSECTION , 
+THIS SUBTITLE APPLIE S TO EACH PUBLIC SEN IOR HIGHER EDUCATION  INSTITUTION 
+AND BALTIMORE CITY COMMUNITY COLLEGE . 
+ 
+  (2) THIS SUBTITLE DOES NO T APPLY TO ARTIFICIA L INTELLIGENCE 
+DEPLOYED BY A PUBLIC  SENIOR HIGHER EDUCAT ION INSTITUTION OR BALTIMORE 
+CITY COMMUNITY COLLEGE THAT IS USED SOLELY FOR A RESEARC H OR ACADEMIC 
+PURPOSE , INCLUDING IN PARTNERSHIP WITH A UNIT OF STATE GOVERNMENT FOR 
+THE DEVELOPMENT , PROCUREMENT , DEPLOYMENT , OR USE OF ARTIFICIAL  
+INTELLIGENCE . 
+ 
+  (3) ON OR BEFORE JUNE 1, 2025,  EACH PUBLIC SENIOR H IGHER 
+EDUCATION INSTITUTIO N AND BALTIMORE CITY COMMUNITY COLLEGE SHALL 
+ESTABLISH POLICIES AND PROCEDURES THAT ARE FUNCTIONALLY COMPATI BLE 
+WITH THE POLICIES AN D PROCEDURES ADOPTED  UNDER § 3.5–804( A) OF THIS 
+SUBTITLE FOR THE DEV ELOPMENT , PROCUREMENT , DEPLOYMENT , USE, AND 
+ONGOING ASSESSMENT O F SYSTEMS THAT EMPLO Y HIGH –RISK ARTIFICI AL 
+INTELLIGENCE USED SO LELY FOR A RESEARCH OR ACADEMIC PURPOSE .  
+ 
+  (4) ON OR BEFORE SEPTEMBER 1, 2025,  AND EACH YEAR 
+THEREAFTER , EACH PUBLIC SENIOR H IGHER EDUCATION INST ITUTION AND 
+BALTIMORE CITY COMMUNITY COLLEGE SHALL SUBMIT TO THE DEPARTMENT A 
+REPORT O N ALL HIGH –RISK ARTIFICIAL INTE LLIGENCE PROCURED AN D DEPLOYED 
+FOR A RESEARCH OR AC ADEMIC PURPOSE .  
+ 
+3.5–803.   
+ 
+ (A) ON OR BEFORE DECEMBER 1, 2024  2025 , AND ANNUALLY  REGULARLY  
+THEREAFTER , EACH UNIT OF STATE GOVERNMENT SHAL L: 
+ 
+  (1) CONDUCT AN INVENTORY  OF SYSTEMS THAT EMPL OY  
+RIGHTS–IMPACTING OR SAFETY –IMPACTING  HIGH–RISK  ARTIFICIAL INTELLIGE NCE; 
+AND  
+ 
+Ch. 496  2024 LAWS OF MARYLAND   
+ 
+– 12 –   (2) PROVIDE THE INVENTOR Y TO THE DEPARTMENT IN A FORMA T 
+REQUIRED BY THE DEPARTMENT . 
+ 
+ (B) FOR EACH SYSTEM , THE INVENTORY REQUIR ED BY THIS SECTION SHAL L 
+INCLUDE : 
+ 
+  (1) THE NAME OF THE SYST EM; 
+ 
+  (2) THE VENDOR THAT PROV IDED THE SYSTEM , IF APPLICABLE ; 
+ 
+  (3) A DESCRIPTION OF THE  CAPABILITIES OF THE SYSTEM ; 
+ 
+  (4) A STATEMENT OF THE P URPOSE AND THE INTEN DED USES OF THE 
+SYSTEM ;  
+ 
+  (5) WHETHER THE SYSTEM U NDERWENT AN IMPACT A SSESSMENT 
+PRIOR TO BEING IMPLEMENTED  DEPLOYED ; 
+ 
+  (6) WHETHER THE SYSTEM I S USED TO INDEPENDEN TLY MAKE A 
+DECISION OR JUDGMENT  OR TO INFORM OR SUPP ORT A DECISION OR JU DGMENT 
+DETERMINED BY THE DEPARTMENT TO INVOLVE  A HIGH–RISK ACTION   
+RIGHTS–IMPACTING OR SAFETY –IMPACTING  HIGH–RISK  ARTIFICIAL INTELLIGE NCE; 
+AND  
+ 
+  (7) A DETERMINATION OF THE  RISK THAT USE OF A S YSTEM MAY BE  
+HIGH–RISK  SUMMARY OF THE RESUL TS OF THE MOST RECEN T IMPACT ASSESSMENT . 
+ 
+ (C) THE DEPARTMENT SHALL MAKE  EACH INVENTORY REQUI RED BY THIS  
+SECTION  AN AGGREGATED STATEW IDE INVENTORY  PUBLICLY AVAILABLE O N ITS 
+WEBSITE .  
+ 
+ (D) (1) THE DEPARTMENT MAY NOT MA KE PUBLICLY AVAILABL E ON THE 
+DEPARTMENT ’S WEBSITE INFORMATIO N FROM THE INVENTORI ES RE QUIRED BY 
+THIS SECTION THAT RE LATE TO THE SAFETY A ND SECURITY OF STATE SYSTEMS IF 
+THE PUBLICATION OF T HE INFORMATION IS LI KELY TO COMPROMISE T HE SECURITY 
+OR INTEGRITY OF THE SYSTEM . 
+ 
+  (2) ON REQUEST , THE DEPARTMENT SHALL PROV IDE TO THE 
+GOVERNOR , MEMBERS O F THE GENERAL ASSEMBLY , AND LAW ENFORCEMENT THE 
+INFORMATION DESCRIBE D IN PARAGRAPH (1) OF THIS SUBSECTION . 
+ 
+ (E) (1) ON OR BEFORE FEBRUARY 1, 2025,  DECEMBER 31, 2025  2026 , 
+EACH UNIT OF STATE GOVERNMENT SHAL L CONDUCT AN IMPACT ASSESSMENT OF A 
+ WES MOORE, Governor  Ch. 496  
+ 
+– 13 – SYSTEM PROCURED ON OR AFTER  FEBRUARY 1, 2025  2026 , THAT INVOLVES A  
+HIGH–RISK ACTION  RIGHTS–IMPACTING OR SAFETY –IMPACTING  HIGH–RISK  
+ARTIFICIAL INTELLIGE NCE. 
+ 
+  (2) ON OR BEFORE FEBRUARY  JULY  1, 2027,  EACH UNIT OF STATE 
+GOVERNMENT SHALL CON DUCT AN IMPACT ASSES SMENT OF A SYSTEM PR OCURED 
+BEFORE FEBRUARY 1, 2025  2026 , THAT INVOLVES RIGHTS–IMPACTING OR  
+SAFETY–IMPACTING  HIGH–RISK  ARTIFICIAL INTELLIGE NCE.  
+ 
+3.5–803.  3.5–804.  
+ 
+ (A) ON OR BEFORE DECEMBER 1, 2024,  THE DEPARTMENT , IN 
+CONSULTATION WITH TH E GOVERNOR ’S ARTIFICIAL INTELLIGENCE SUBCABINET , 
+SHALL ADOPT POLICIES  AND PROCEDURES CONCE RNING THE DEVELOPMEN T, 
+PROCUREMENT , IMPLEMENTATION  DEPLOYMENT , USE, AND ONGOING ASSESSME NT 
+OF SYSTEMS THAT EMPL OY RIGHTS–IMPACTING OR SAFETY –IMPACTING  HIGH–RISK  
+ARTIFICIAL INTELLIGE NCE BY A UNIT OF STATE GOVERNMENT . 
+ 
+ (B) THE POLICIES AND PROC EDURES REQUIRED BY SUBSECTION (A) OF 
+THIS SECTION SHALL : 
+ 
+  (1) SUBJECT TO ANY OTHER  APPLICABLE LAW , GOVERN THE 
+PROCUREMENT , IMPLEMENTATION  DEPLOYMENT , AND ONGOING ASSESSME NT OF 
+SYSTEMS THAT EMPLOY RIGHTS–IMPACTING OR SAFETY –IMPACTING  HIGH–RISK  
+ARTIFICIAL INTELLIGE NCE BY A UNIT OF STATE GOVERNMENT ; 
+ 
+  (2) BE SUFFICIENT  TO ENSURE THAT THE U SE OF ANY SYSTEM THA T 
+EMPLOYS ARTIFICIAL I NTELLIGENCE BY ANY U NIT OF STATE GOVERNMENT IS N OT 
+HIGH–RISK ; 
+ 
+  (3) REQUIRE EACH UNIT OF  STATE GOVERNMENT TO A SSESS THE  
+LIKELY IMPACT OF ANY  SYSTEM THAT EMPLOYS ARTIFICIAL INTELLIGE NCE BEFORE  
+IMPLEMENTING THE SYS TEM; 
+ 
+  (2) DEFINE THE CRITERIA FOR AN INVENTORY OF SYSTEMS THAT 
+EMPLOY RIGHTS–IMPACTING OR SAFETY –IMPACTING  HIGH–RISK  ARTIFICIAL 
+INTELLIGENCE ; 
+ 
+  (3) GOVERN THE PROCUREME NT, DEPLOYMENT , USE, AND ONGOING 
+ASSESSMENT OF SYSTEM S THAT EMPLOY RIGHTS –IMPACTING OR  
+SAFETY–IMPACTING ARTIFICIAL  INTELLIGENCE FOR AN OPERATIONS –RELATED 
+PURPOSE BY A UNIT OF  STATE GOVERNMENT IN P ARTNERSHIP WITH A PU BLIC 
+SENIOR HIGHER EDUCATION INSTITUTIO N OR WITH BALTIMORE CITY COMMUNITY 
+COLLEGE ;  
+Ch. 496  2024 LAWS OF MARYLAND   
+ 
+– 14 –  
+  (3) BE SUFFICIENT TO ENS URE THAT THE USE OF ANY SYSTEM THAT 
+EMPLOYS ARTIFICIAL I NTELLIGENCE BY A UNI T OF STATE GOVERNMENT IS 
+GOVERNED BY ADEQUATE  GUARDRAILS TO PROTEC T INDIVIDUALS AND 
+COMMUNITIES ; 
+ 
+  (4) IF THE DEPARTMENT IS NOTIFIE D THAT AN INDIVIDUAL  OR GROUP 
+OF INDIVIDUALS MAY H AVE BEEN NEGATIVELY IMPACTED BY A SYSTEM  THAT 
+EMPLOYS HIGH –RISK ARTIFICIAL INTE LLIGENCE , REQUIRE THE DEPARTMENT TO :  
+ 
+   (I) NOTIFY AN INDIVIDUAL  OR A GROUP O F INDIVIDUALS 
+DETERMINED TO HAVE B EEN NEGATIVELY IMPAC TED BY A SYSTEM THAT EMP LOYS  
+RIGHTS–IMPACTING OR SAFETY –IMPACTING HIGH–RISK  ARTIFICIAL 
+INTELLIGENCE ; AND  
+ 
+   (II) PROVIDE GUIDANCE TO AN INDIVIDUAL OR A G ROUP OF 
+INDIVIDUALS DETERMIN ED TO HAVE BEEN NEGA TIVELY IMPACTED BY A SYSTEM 
+THAT EMPLOYS RIGHTS–IMPACTING OR SAFETY –IMPACTING HIGH–RISK  ARTIFICIAL 
+INTELLIGENCE  ON AVAILABLE OPTIONS  TO OPT OUT OF THE SY STEM ; AND  
+ 
+  (5) PROVIDE GUIDANCE TO UNITS OF STATE GOVERNMENT ON 
+PROCUREMENT OF A SYS TEM THAT EMPLOYS RIGHTS–IMPACTING OR  
+SAFETY–IMPACTING  HIGH–RISK  ARTIFICIAL INTELLIGE NCE THAT ENSURES DAT A 
+PRIVACY AND COMPLIAN CE WITH APPLICABLE S TATUTES AND REGULATI ONS. 
+ 
+ (C) THE DEPARTMENT SHALL MAKE  THE POLICIES AND PRO CEDURES 
+REQUIRED BY SUBSECTION (A) OF THIS SECTION PUBLICL Y AVAILABLE ON ITS 
+WEBSITE  WITHIN 45 DAYS AFTER THE POLIC IES AND PROCEDURES A RE ADOPTED . 
+ 
+ (D) EACH PUBLIC SENIOR HI GHER EDUCATION INSTI TUTION AND 
+BALTIMORE CITY COMMUNITY COLLEGE SHALL SUBMIT TO THE DEPARTMENT AN 
+ANNUAL REPORT ON ART IFICIAL INTELLIGENCE  PROCURED AND DEPLOYE D.  
+ 
+3.5–804.  3.5–805.  
+ 
+ (A) BEGINNING JULY  JANUARY  JULY  1, 2025,  A UNIT OF STATE 
+GOVERNMENT MAY NOT P ROCURE OR IMPLEMENT A  DEPLOY A NEW  SYSTEM THAT 
+EMPLOYS ARTIFICIAL I NTELLIGENCE UNLESS T HE SYSTEM COMPLIES W ITH THE 
+POLICIES AND PROCEDU RES ADOPTED UNDER § 3.5–803 3.5–804 OF THIS SUBTITLE . 
+ 
+ (B) A UNIT OF STATE GOVERNMENT THAT  EMPLOYS RIGHTS–IMPACTING OR 
+SAFETY–IMPACTING  HIGH–RISK ARTIFICIAL INTELLIGE NCE SHALL CONDUCT 
+ WES MOORE, Governor  Ch. 496  
+ 
+– 15 – REGULAR IMPACT ASSES SMENTS , AS DETERMINED BY THE  GOVERNOR ’S ARTIFICIAL 
+INTELLIGENCE SUBCABINET OF THE GOVERNOR ’S EXECUTIVE COUNCIL .  
+ 
+3.5–805.  3.5–806.  
+ 
+ (A) THERE IS A GOVERNOR ’S ARTIFICIAL INTELLIGENCE SUBCABINET  OF 
+THE GOVERNOR ’S EXECUTIVE COUNCIL . 
+ 
+ (B) THE PURPOSE OF THE SUBCABINET IS TO FACI LITATE AND ENHANCE 
+COOPERATION AMONG UN ITS OF STATE GOVERNMENT , IN CONSULTATION WITH  
+ACADEMIC INSTITUTION S AND INDUSTRIES UTI LIZING ARTIFICIAL IN TELLIGENCE . 
+ 
+ (C) THE SUBCABINET CONSISTS O F THE FOLLOWING MEMB ERS: 
+ 
+  (1) THE SECRETARY , OR THE SECRETARY ’S DESIGNEE ; 
+ 
+  (2) THE SECRETARY OF BUDGET AND MANAGEMENT , OR THE 
+SECRETARY ’S DESIGNEE ; 
+ 
+  (3) THE SECRETARY OF GENERAL SERVICES , OR THE SECRETARY ’S 
+DESIGNEE ; 
+ 
+  (4) THE SECRETARY OF LABOR , OR THE SECRETARY ’S DESIGNEE ; 
+ 
+  (5) THE SECRETARY OF COMMERCE , OR THE SECRETARY ’S 
+DESIGNEE ; 
+ 
+  (6) THE DIRECTOR OF THE GOVERNOR ’S OFFICE OF HOMELAND 
+SECURITY , OR THE DIRECTOR ’S DESIGNEE ; 
+ 
+  (7) THE CHIEF PRIVACY OFFICER , OR THE CHIEF PRIVACY 
+OFFICER’S DESIGNEE ;  
+ 
+  (8) THE CHIEF DATA OFFICER , OR THE CHIEF DATA OFFICER’S 
+DESIGNEE ; 
+ 
+  (9) THE CHIEF INFORMATION SECURITY OFFICER , OR THE CHIEF 
+INFORMATION SECURITY OFFICER’S DESIGNEE ; 
+ 
+  (10) THE GOVERNOR ’S SENIOR ADVISOR FOR RESPONSIBLE 
+ARTIFICIAL INTELLIGENCE , OR THE SENIOR ADVISOR’S DESIGNEE ; AND 
+ 
+  (11) ANY OTHER MEMBER OF THE GOVERNOR ’S EXECUTIVE COUNCIL , 
+APPOINTED BY THE GOVERNOR . 
+Ch. 496  2024 LAWS OF MARYLAND   
+ 
+– 16 –  
+ (D) THE SECRETARY SHALL CHAIR  THE SUBCABINET . 
+ 
+ (E) THE SUBCABINET SHALL : 
+ 
+  (1) DEVELOP STRATEGY , POLICY , AND MONITORING PROCE SSES FOR 
+RESPONSIBLE AND PROD UCTIVE USE OF ARTIFI CIAL INTELLIGENCE AN D 
+ASSOCIATED DATA BY U NITS OF STATE GOVERNMENT ; 
+ 
+  (2) OVERSEE THE STATE’S IMPLEMENTATION OF :  
+ 
+   (I) ARTIFICIAL INTELLIGE NCE INVENTORY ; 
+ 
+   (II) DATA INVENTO RY; 
+ 
+   (III) ARTIFICIAL INTELLIGE NCE IMPACT ASSESSMEN TS; 
+ 
+   (IV) (III) MONITORING OF ARTIFI CIAL INTELLIGENCE  
+INVOLVING A HIGH –RISK ACTION RIGHTS–IMPACTING OR SAFETY –IMPACTING 
+ARTIFICIAL INTELLIGE NCE; AND  
+ 
+   (III) MONITORING OF HIGH –RISK ARTIFICIAL INTELLIGENCE ; 
+AND   
+ 
+   (V) (IV) COMPLIANCE WITH STATE POLICIES AND 
+PROCEDURES ;  
+ 
+  (3) SUPPORT ARTIFICIAL I NTELLIGENCE AND DATA  INNOVATION 
+ACROSS UNITS OF STATE GOVERNMENT AND IN PRIVATE SECTO R ENTERPRISE  BY:; 
+ 
+   (I) IDENTIFYING AND PRIO RITIZING BEST USES  OF ARTIFICIAL 
+INTELLIGENCE IN EACH  UNIT OF STATE GOVERNMENT AND IN PRIVATE SECTOR 
+ENTERPRISE ; 
+ 
+   (II) TESTING PROOFS OF CO NCEPT OF PRIORITY AR TIFICIAL 
+INTELLIGENCE USE IN PROTOTYPING ; 
+ 
+   (III) REDUCING BARRIERS TO  THE RESPONSIBLE USE OF 
+ARTIFICIAL INTEL LIGENCE AND STATE DATA ; 
+ 
+   (IV) DEVELOPING SUCCESSFU L ARTIFICIAL INTELLI GENCE 
+PILOTS INTO PRODUCTI ON; AND  
+ 
+   (V) TRAINING AND WORKFOR CE DEVELOPMENT ; 
+ WES MOORE, Governor  Ch. 496  
+ 
+– 17 –  
+  (4) DEVELOP AND IMPLEMEN T A COMPREHENSIVE AC TION PLAN FOR 
+RESPONSIBLE AND PROD UCTIVE USE OF ARTIFI CIAL  INTELLIGENCE AND 
+ASSOCIATED DATA BY U NITS OF STATE GOVERNMENT ; 
+ 
+  (5) ESTABLISH PARTNERSHI PS, MEMORANDA OF UNDERST ANDING , 
+AND CONTRACTS TO SUP PORT THE AIMS OF THI S SECTION ; 
+ 
+  (6) PROMOTE ARTIFICIAL I NTELLIGENCE KNOWLEDG E, SKILLS , AND 
+TALENT IN STATE GOVE RNMENT BY: 
+ 
+   (I) IDENTIFYING AND OFFE RING TRAINING PROGRA MS FOR 
+STATE WORKERS ON THE USE OF ARTIFICIAL IN TELLIGENCE AND PARTI CULARLY 
+GENERATIVE ARTIFICIA L INTELLIGENCE ; AND  
+ 
+   (II) EXPLORING WAYS TO PR OVIDE EXTERNAL ARTIF ICIAL 
+INTELLIGENCE TALENT AN OPP ORTUNITY TO SERVE TH E STATE AND UNITS OF 
+STATE GOVERNMENT IN T ARGETED , SHORT–TERM PROJECTS , INCLUDING BY 
+LEVERAGING INSTITUTI ONS OF HIGHER EDUCAT ION OR INDUSTRY ; AND  
+ 
+  (7) IDENTIFY ARTIFICIAL INTELLIGENCE USE CAS ES AND BUILD 
+FOUNDATIONAL INFRAST RUCTURE BY  REQUIRING : 
+ 
+   (I) THE DEPARTMENT TO EVALUAT E RELEVANT 
+INFRASTRUCTURE TO SA FELY , SECURELY , AND EFFICIENTLY TEST  ARTIFICIAL 
+INTELLIGENCE PROOFS OF CONCEPT AND PILOT S; 
+ 
+   (II) THE DEPARTMENT OF GENERAL SERVICES , IN 
+CONSULTATION WITH TH E DEPARTMENT , TO CREA TE A MODEL FOR RUNNI NG AND 
+PROCURING ARTIFICIAL  INTELLIGENCE PROOFS OF CONCEPT AND PILOT S, IN 
+ACCORDANCE WITH STATE LAWS , REGULATIONS , AND POLICIES ; AND 
+ 
+   (III) THE DEPARTMENT , IN CONSULTATION WITH  THE 
+SUBCABINET , TO COORDINATE WITH A GENCIES TO PROVIDE S UPPORT IN 
+IDENTIFYING AND PRIO RITIZING USE CASES A ND EXECUTING PROOFS OF CONCEPT 
+AND PILOTS ALIGNED W ITH THE GOVERNOR ’S PRIORITIES . 
+ 
+ (F) THE GOVERNOR SHALL PROVID E THE SUBCABINET WITH SUFFI CIENT 
+RESOURCES TO PERFORM  THE FUNCTIONS OF THI S SECTION . 
+ 
+ (G) FOR EACH FISCAL YEAR , THE GOVERNOR MAY INCLUDE IN THE ANNUAL 
+BUDGET BILL AN APPRO PRIATION OF UP TO $3,000,000  FOR PARTNERSHIPS AND  
+CONTRACTS TO SUPPORT  THE FUNCTIONS REQUIR ED IN THIS SECTION . 
+ 
+Ch. 496  2024 LAWS OF MARYLAND   
+ 
+– 18 – 12–101. 
+ 
+ (a) This section does not apply to:  
+ 
+  (1) capital expenditures by the Department of Transportation or the 
+Maryland Transportation Authority, in connection with State roads, bridges, or highways, 
+as provided in § 12 –202 of this title;  [or] 
+ 
+  (2) procurements by the Department of General Services  AND THE 
+DEPARTMENT OF INFORMATION TECHNOLOGY for the purpose of modernizing 
+INFORMATION TECHNOLO GY AND  cybersecurity infrastructure for the State valued 
+below $1,000,000 ; OR 
+ 
+  (3) COMPETITIVE PROOF OF  CONCEPT PROCUREMENTS  VALUED  
+BELOW $1,000,000  MADE UNDER § 13–116 OF THIS ARTICLE . 
+ 
+ (b) (1) The Board may control procurement by units.  
+ 
+  (2) To implement the provisions of this Division II, the Board may:  
+ 
+   (i) set policy;  
+ 
+   (ii) adopt regulations, in accordance with Title 10, Subtitle 1 of the 
+State Government Article; and  
+ 
+   (iii) establish internal operational procedures consistent with this 
+Division II.  
+ 
+  (3) The Board shall ensure that the regulations of the primary 
+procurement units provide for procedures that are consistent with this Division II and Titl e 
+13, Subtitle 4 of the State Personnel and Pensions Article and, to the extent the 
+circumstances of a particular type of procurement or a particular unit do not require 
+otherwise, are substantially the same.  
+ 
+  (4) The Board may delegate any of its author ity that it determines to be 
+appropriate for delegation and may require prior Board approval for specified procurement 
+actions.  
+ 
+  (5) Except as limited by the Maryland Constitution, the Board may 
+exercise any control authority conferred on a primary procu rement unit by this Division II 
+and, to the extent that its action conflicts with the action of the primary procurement unit, 
+the action of the Board shall prevail.  
+ 
+ WES MOORE, Governor  Ch. 496  
+ 
+– 19 –  (c) On or before December 1 each year, the Department of General Services shall 
+submit a report to the Board on procurements made under subsection (a)(2) of this section 
+that shall include for each procurement:  
+ 
+  (1) the purpose of the procurement;  
+ 
+  (2) the name of the contractor;  
+ 
+  (3) the contract amount;  
+ 
+  (4) the method of procurement  utilized;  
+ 
+  (5) the number of bidders who bid on the procurement; and  
+ 
+  (6) the contract term.  
+ 
+ (D) ON OR BEFORE DECEMBER 1 EACH YEAR , THE DEPARTMENT OF  
+GENERAL SERVICES SHALL SUBMIT  A REPORT TO THE BOARD ON PROCUREMENTS  
+MADE UNDER SUBSECTIO N (A)(3) OF THIS SECTION THAT SH ALL INCLUDE FOR EACH  
+PROCUREMENT : 
+ 
+  (1) THE PURPOSE OF THE P ROCUREMENT ; 
+ 
+  (2) THE NAME OF THE CONT RACTOR ; 
+ 
+  (3) THE CONTRACT AMOUNT ; 
+ 
+  (4) THE NUMBER OF PROPOS ALS RECEIVED ON THE PROCUREMENT ; 
+AND  
+ 
+  (5) THE CONTRACT TERM . 
+ 
+13–116. 
+ 
+ (A) IN THIS SECTION , “PROOF OF CONCEPT ” MEANS A TEST , EVALUATION , 
+DEMONSTRATION , OR PILOT PROJECT OF A GOOD OR SERVICE  GOOD , SERVICE , OR 
+TECHNOLOGY  IN A REAL –WORLD ENVIRONMENT TO  EVALUATE WHETHER THE  GOOD 
+OR SERVICE  GOOD , SERVICE , OR TECHNOLOGY  CAN BE SU CCESSFULLY DEPLOYED 
+AND IS BENEFICIAL TO  THE STATE . 
+ 
+ (B) (1) A COMPETITIVE PROOF OF  CONCEPT PROCUREMENT IS A FORMAL 
+COMPETITIVE PROCUREM ENT METHOD THAT MAY BE USED TO SOLICIT P ROPOSALS 
+FOR THE CONDUCT OF A  PROOF OF CONCEPT PRI OR TO FULL IMPLEMENT ATION 
+WHEN THE HEAD OF A U NIT DETERMINES THE P ROCESS TO BE APPROPR IATE AND IN 
+THE BEST INTERESTS O F THE UNIT , INCLUDING :  
+Ch. 496  2024 LAWS OF MARYLAND   
+ 
+– 20 –  
+   (I) TESTING SOFTWARE –AS–A–SERVICE OR OFF –THE–SHELF 
+SOFTWARE ; 
+ 
+   (II) TESTING NEW , INNOVATIVE PRODUCTS OR SERVICES ; OR 
+ 
+   (III) TESTING A PRODUCT OR  SERVICE CONCEPTUALIZ ED OR 
+CONCEIVED OF BY A UN IT OF  STATE GOVERNMENT . 
+ 
+  (2) (I) AFTER OBTAINING THE A PPROVAL OF THE HEAD OF THE 
+UNIT AND BEFORE COND UCTING A COMPETITIVE  PROOF OF CONCEPT 
+PROCUREMENT , THE UNIT SHALL OBTAI N APPROVAL FROM THE SECRETARY OF 
+INFORMATION TECHNOLOGY , OR THE SECRETARY ’S DESIGNEE .  
+ 
+   (II) THE SECRETARY OF INFORMATION TECHNOLOGY MAY 
+GRANT APPROVAL FOR A  COMPETITIVE PROOF OF  CONCEPT PROCUREMENT IF THE 
+UNIT :  
+ 
+    1. HAS SUFFICIENT INTER NAL RESOURCES TO MAN AGE 
+THE PROOF OF CONCEPT , INCLUDING HUMAN CAPI TAL, SUBJECT MATTER 
+EXPERTISE , AND TECHNOLOGICAL IN FRASTRUCTURE , OR HAS THE MEANS TO 
+OBTAIN THESE RESOURC ES; AND  
+ 
+    2. ENTERS INTO A MEMORA NDUM OF UNDERSTANDIN G 
+WITH THE DEPARTMENT OF INFORMATION TECHNOLOGY THAT REQUI RES REGULAR 
+STATUS UPDATES , VENDOR CAPACITY , AND ANY OTHER INFORM ATION NECESSARY 
+FOR THE DEPARTMENT OF INFORMATION TECHNOLOGY TO EVALUAT E WHETHER 
+THE PROOF OF CONCEPT  CAN BE SUCCESSFULLY DEPLOYED AND IS BENE FICIAL TO 
+THE STATE .  
+ 
+ (C) (1) A COMPETITIVE PROOF OF  CONCEPT PROCUREMENT MAY BE 
+CONDUCTED THROUGH TH E ISSUANCE OF A  SOLICITATION BY ANY METHOD OF 
+PROCUREMENT AUTHORIZ ED UNDER THIS DIVISION II. 
+ 
+  (2) A COMPETITIVE PROOF OF  CONCEPT PROCUREMENT 
+SOLICITATION SHALL I NCLUDE A STATEMENT O F: 
+ 
+   (I) THE SCOPE OF WORK OR  PROJECT DESCRIPTION , 
+INCLUDING THE INTEND ED USE , QUANTIT Y, ESTIMATED TIME FRAME  FOR THE  
+PROOF OF CONCEPT , AND ANTICIPATED NUMB ER OF PROOF OF CONCE PT AWARDS 
+THAT WILL BE MADE ; AND  
+ 
+ WES MOORE, Governor  Ch. 496  
+ 
+– 21 –    (II) THE FACTORS , INCLUDING PRICE , THAT WILL BE USED IN  
+EVALUATING PROPOSALS  AND THE RELATIVE IMP ORTANCE OF EACH . 
+ 
+  (3) A SOLIC ITATION MAY BE DISTR IBUTED TO VENDORS KN OWN TO 
+OFFER GOODS OR SERVI CES WITHIN THE SCOPE  OF THE PROOF OF CONC EPT AND 
+SHALL , EXCEPT FOR PROCUREME NTS UNDER $15,000  NOT OTHERWISE REQUIR ED 
+BY LAW TO BE POSTED , BE POSTED ON E MARYLAND MARKETPLACE ADVANTAGE , IN 
+ACCORDANCE WITH THE PO LICIES AND PROCEDURE S UNDER SUBSECTION (G) OF 
+THIS SECTION . 
+ 
+ (D) AFTER RECEIPT OF PROP OSALS BUT BEFORE AWA RD OF A 
+PROCUREMENT CONTRACT , A UNIT MAY :  
+ 
+  (1) CONDUCT DISCUSSIONS WITH AN OFFEROR TO E NSURE FULL 
+UNDERSTANDING OF : 
+ 
+   (I) THE REQUIREMENTS OF THE UNIT , AS SET FORTH IN THE 
+REQUEST FOR PROPOSAL S; AND 
+ 
+   (II) THE PROPOSAL SUBMITT ED BY THE OFFEROR ; AND 
+ 
+  (2) REQUEST PRODUCT SAMP LES FOR TESTING BY T HE UNIT OR A 
+DEMONSTRATION OF A P RODUCT OR SERVICE AN D USE THESE SAMPLES OR 
+DEMO NSTRATIONS IN ITS EV ALUATION PROCESS . 
+ 
+ (E) A REQUEST FOR PRODUCT SAMPLES FOR TESTING OR DEMONSTRATION 
+MADE UNDER SUBSECTIO N (D)(2) OF THIS SECTION SHAL L BE ISSUED TO ALL 
+OFFERORS DEEMED REAS ONABLE AT THE TIME O F THE REQUEST .  
+ 
+ (F) A UNIT MAY : 
+ 
+  (1) AWAR D ONE OR MORE OF THE  PROPOSALS A CONTRACT  FOR THE 
+PROOF OF CONCEPT ; AND 
+ 
+  (2) PROVIDE AN OPTION FO R THE STATE TO PROCEED WITH  A FULL 
+IMPLEMENTATION OF AN  AWARDED PROPOSAL .  
+ 
+ (G) A VENDOR AWARDED A PRO OF OF CONCEPT PROCUR EMENT SHALL BE 
+ELIGIBLE TO BID ON A PROCUREMENT TO IMP LEMENT A PROPOSAL RE LATED TO 
+THE PROOF OF CONCEPT  PROCUREMENT . 
+ 
+ (H) THE DEPARTMENT OF GENERAL SERVICES , IN CONSULTATION WITH  
+THE DEPARTMENT OF INFORMATION TECHNOLOGY , SHALL ADOPT POLICIES  AND 
+Ch. 496  2024 LAWS OF MARYLAND   
+ 
+– 22 – PROCEDURES FOR THE D EVELOPMENT AND IMPLE MEN TATION OF COMPETITIV E 
+PROOF OF CONCEPT PRO CUREMENTS . 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That, on or before December 1, 
+2024, the Governor’s Artificial Intelligence Subcabinet of the Governor’s Executive Council, 
+in consultation with the appropriate stakeholders, shall submit an interim report and 
+recommendations to the Governor and, in accordance with § 2 –1257 of the State 
+Government Article, the General Assembly on the risks and opportunities and associated 
+recommendations related to:  
+ 
+  (1) use of artificial intelligence to support job and business creation and 
+growth in the State;  
+ 
+  (2) in collaboration with the Maryland Department of Labor and, as 
+appropriate, external experts, workers, labor unions, businesses, and civil society, use of 
+artific ial intelligence by the State workforce, including opportunities to upskill the 
+workforce;  
+ 
+  (3) in consultation with the Maryland Department of Emergency 
+Management, the Public Service Commission, the Department of the Environment, and the 
+Department of Transportation, use of artificial intelligence in critical infrastructure and 
+guidelines for owners and operators to incorporate risk management into critical 
+infrastructure, including mapping emergent cyber and physical security and resiliency 
+risks to th e State infrastructure and residents stemming from artificial intelligence;  
+ 
+  (4) in consultation with the Maryland Department of Health, the U.S. 
+Department of Veterans Affairs, and the U.S. Department of Homeland Security, use of 
+systems that employ art ificial intelligence in health care delivery and human services;  
+ 
+  (5) in consultation with the Department of Information Technology Office 
+of Security Management and the Chief Privacy Officer, use of artificial intelligence in the 
+discovery and remediati on of vulnerabilities in cybersecurity and data management across 
+State and local government, including school systems;  
+ 
+  (6) in consultation with the State Chief Privacy Officer and an independent 
+contractor identified by the Subcabinet, data privacy, sp ecifically regarding the potential 
+to train systems that employ artificial intelligence;  
+ 
+  (7) in consultation with the Maryland Department of Labor, the 
+Department of Commerce, and the Governor’s Office of Small, Minority, and Women 
+Business Affairs, use  of artificial intelligence in workforce training and hiring of talent with 
+expertise in artificial intelligence, employment practices, and workforce development 
+implications;  
+ 
+ WES MOORE, Governor  Ch. 496  
+ 
+– 23 –   (8) in consultation with the Office of the Attorney General and the Judicial 
+Branch, use of artificial intelligence in the criminal justice system, including whether and 
+how such technology should be used, in what contexts, and with what safeguards;  
+ 
+  (9) the procurement of systems that employ artificial intelligence, 
+including ef forts to increase competition and assurance that contracts retain sufficient data 
+privacy protection against vendor lock –in; 
+ 
+  (10) use of artificial intelligence by occupations licensed and certified by the 
+State, in consultation with the boards, identif ying ways for the regulatory board to identify 
+and manage the risks of opportunities of artificial intelligence and determine appropriate 
+permitted use and supervision by licensees; and  
+ 
+  (11) use of artificial intelligence in local school systems, includ ing 
+recommendations to the State on the responsible and productive use of artificial 
+intelligence based on a review of the federal Department of Education Office of Educational 
+Technology’s report entitled “Artificial Intelligence and the Future of Teachin g and 
+Learning: Insights and Recommendations”, in collaboration with the State Department of 
+Education.  
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That:  
+ 
+ (a) The Governor’s Artificial Intelligence Subcabinet of the Governor’s Executive 
+Council, in consultation with the appropriate units of State government, shall:  
+ 
+  (1) develop a roadmap to review the risks and opportunities associated 
+with the use of artificial intelligence in State services; and  
+ 
+  (2) on or before December 1, 2024, submit the ro admap to the Governor 
+and, in accordance with § 2 –1257 of the State Government Article, the General Assembly.  
+ 
+ (b) The roadmap developed under subsection (a) of this section shall include:  
+ 
+  (1) a plan to study the use of artificial intelligence:  
+ 
+   (i) to support job and business creation and growth in the State;  
+ 
+   (ii) by the State workforce, including opportunities to upskill the 
+workforce;  
+ 
+   (iii) in critical infrastructure, including guidelines for owners and 
+operators to incorporate risk m anagement into critical infrastructure;  
+ 
+   (iv) in health care delivery and human services;  
+ 
+Ch. 496  2024 LAWS OF MARYLAND   
+ 
+– 24 –    (v) in the discovery and remediation of vulnerabilities in 
+cybersecurity and data management across State and local government, including school 
+systems;  
+ 
+   (vi) in data privacy, specifically regarding the ability to train systems 
+that employ artificial intelligence;  
+ 
+   (vii) in workforce training;  
+ 
+   (viii)  in the criminal justice system and for public safety purposes, 
+including whether and how such technology should be used, in what contexts, and with 
+what safeguards;  
+ 
+   (ix) by occupations licensed and certified by the State, including 
+identifying ways fo r State regulatory boards to identify and manage the risks and 
+opportunities of artificial intelligence and determine appropriate permitted use and 
+supervision of licensees;  
+ 
+   (x) in local school systems, including recommendations to the State 
+on the re sponsible and productive use of artificial intelligence;  
+ 
+   (xi) in the conduct of elections, including reducing or eliminating the 
+spread of misinformation; and  
+ 
+   (xii) any other State service identified by the Subcabinet;  
+ 
+  (2) a plan to study:  
+ 
+   (i) the hiring of talent with expertise in artificial intelligence, 
+employment practices, and workforce development implications;  
+ 
+   (ii) methods to ensure that there is diversity in contract awards and 
+training programs related to artificial intellige nce in the State, including racial diversity; 
+and 
+ 
+   (iii) the procurement of systems that employ artificial intelligence, 
+including efforts to increase competition and assurance that contracts retain sufficient data 
+privacy protection against vendor lock –in;  
+ 
+  (3) a prioritization of the study topics listed under this subsection, 
+including the methodology for the prioritization;  
+ 
+  (4) a list of appropriate stakeholders identified to participate in each study 
+topic; and  
+ 
+  (5) the projected timeline to  complete each study topic.  
+ WES MOORE, Governor  Ch. 496  
+ 
+– 25 –  
+ SECTION 3. AND BE IT FURTHER ENACTED, That, on or before December 1, 
+2025, the Governor’s Artificial Intelligence Subcabinet of the Governor’s Executive Council 
+shall submit a report and recommendations to the Governor and, i n accordance with §  
+2–1257 of the State Government Article, the General Assembly on the sufficiency of the 
+Subcabinet to accomplish the artificial intelligence goals of the State and the efficacy of the 
+potential transition of the Subcabinet to a departme nt or independent unit of State 
+government.  
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED, That it is the intent of the General 
+Assembly that the Department of Information Technology:  
+ 
+  (1) evaluate the potential of artificial intelligence in creating a statewide 
+virtual 3 –1–1 portal as a source for Maryland residents to obtain nonemergency 
+government information and services; and  
+ 
+  (2) if the Department determines that the use of artificial intelligence in 
+creating a virtual 3 –1–1 portal is feasible, to  prioritize the creation of a virtual 3 –1–1 portal 
+through a competitive proof of concept procurement in accordance with § 13 –116 of the 
+State Finance and Procurement Article, as enacted by Section 1 of this Act.   
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED, Th at it is the intent of the Maryland 
+General Assembly, contingent on the passage of S.B. 955 or H.B. 1174 of the Acts of the 
+General Assembly of 2024 by both Houses of the General Assembly, that the Governor’s 
+Artificial Intelligence Subcabinet consult with  the Technology Advisory Commission 
+established under S.B. 955 or H.B. 1174 of the Acts of the General Assembly of 2024 in the 
+performance of its duties under Sections 1 and 2 of this Act.  
+ 
+ SECTION 4. 5. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+July 1, 2024.  
+ 
+Approved by the Governor, May 9, 2024.  

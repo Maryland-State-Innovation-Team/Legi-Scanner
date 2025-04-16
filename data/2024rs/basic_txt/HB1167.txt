@@ -1,0 +1,267 @@
+ WES MOORE, Governor  Ch. 293  
+ 
+– 1 – Chapter 293  
+(House Bill 1167 ) 
+ 
+AN ACT concerning  
+ 
+Maryland Center for School Safety – Statewide  Secure Schools Emergency 
+Response Grant  Program – Established  
+ 
+FOR the purpose of establishing the Statewide  Secure Schools Emergency Response Grant  
+Program to be administered by the Maryland Center for School Safety to provide 
+funds to  improve the safety and security of public schools in the State by 
+implementing a certain  emergency notification system  systems and communications 
+between certain entities ; and generally relating to the establishment of the 
+Statewide  Secure Schools Emergency Response Grant  Program.  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Education  
+Section 7 –1502(a)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Education  
+Section 7 –1502(g)(20) and (21)  
+ Annotated Code of Maryland  
+ (2022 Replacement  Volume and 2023 Supplement)  
+ 
+BY adding to  
+ Article – Education  
+Section 7 –1502(g)(22) and 7 –1513  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume 2023 Supplement)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Public Safety  
+Section 1 –301(a), (j), (t), and (u)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2023 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Education  
+ 
+7–1502.  
+ 
+Ch. 293  2024 LAWS OF MARYLAND   
+ 
+– 2 –  (a) There is a Maryland Center for School Safety.  
+ 
+ (g) The Center shall perform the following functions and duties:  
+ 
+  (20) Review and comment on school emergency plans developed under §  
+7–1510 of this subtitle; [and] 
+ 
+  (21) Report to the General Assembly and the Governor on life –threatening 
+incidents as required under § 7 –1510 of this subtitle ; AND  
+ 
+  (22) ADMINISTER THE STATEWIDE  SECURE SCHOOLS EMERGENCY 
+RESPONSE GRANT  PROGRAM UNDER § 7–1513  OF THIS SUBTITLE . 
+ 
+7–1513.  
+ 
+ (A) (1) IN THIS SECTION THE F OLLOWING WORDS  HAVE THE MEANINGS 
+INDICATED . 
+ 
+  (2) “EMERGENCY EVENT ” MEANS AN EMERGENCY S ITUATION THAT 
+REQUIRES AN IMMEDIAT E RESPONSE BY FIRST RESPONDERS .  
+ 
+  (2) (3) “FIRST RESPONDER ” HAS THE MEANING STAT ED IN § 1–301 
+OF THE PUBLIC SAFETY ARTICLE . 
+ 
+  (3) “PANIC BUTTON EVENT” MEANS AN EMERGENCY S ITUATION THAT  
+COMPELS THE USER OF AN EMERGENCY NOTIFIC ATION SYSTEM TO PRES S A PANIC  
+BUTTON TO INSTANTLY SUMMON HELP TO THEIR  LOCATION FROM FIRST  
+RESPONDERS OR OTHER PUBLIC SAFETY AGENCY  PERSONNEL .  
+ 
+  (4) “PROGRAM ” MEANS THE STAT EWIDE  SECURE SCHOOLS 
+EMERGENCY RESPONSE GRANT  PROGRAM . 
+ 
+  (5) “PUBLIC SAFETY AGENCY ” HAS THE MEANING STAT ED IN § 1–301 
+OF THE PUBLIC SAFETY ARTICLE . 
+ 
+  (6) “PUBLIC SAFETY ANSWERI NG POINT ” HAS THE MEANING STAT ED 
+IN § 1–301 OF THE PUBLIC SAFETY ARTICLE . 
+ 
+ (B) (1) THERE IS A STATEWIDE  SECURE SCHOOLS EMERGENCY 
+RESPONSE GRANT  PROGRAM ADMINISTERED BY THE CENTER . 
+ 
+  (2) THE PURPOSE OF THE PROGRAM IS TO PROVIDE GRANTS TO 
+LOCAL SCHOOL SYSTEMS  TO IMPROVE THE SAFETY AND  SECURITY OF PUBLIC 
+SCHOOLS IN THE STATE BY IMP LEMENTING A STATEWID E EMERGENCY 
+ WES MOORE, Governor  Ch. 293  
+ 
+– 3 – NOTIFICATION SYSTEM THAT FACILITA TES SYSTEMS AND  COMMUNICATION 
+BETWEEN PUBLIC ELEME NTARY AND SECONDARY SCHOOL PERSONNEL , A PUBLIC 
+SAFETY ANSWERING POI NT, AND A PUBLIC SAFETY AGENCY IN LIFE–THREATENING 
+AND  EMERGENCY SITUATION S, INCLUDING MEDICAL EM ERGENCIES AND THE 
+PRESENCE  OF AN ACTIVE SHOOTER  OR INTRUDER AT A PUB LIC SCHOOL  DURING 
+EMERGENCY EVENTS . 
+ 
+  (3) A LOCAL SCHOOL SYSTEM AWARDED A GRANT BY T HE CENTER 
+UNDER THE PROGRAM SHALL USE THE  FUNDS TO : 
+ 
+   (I) IMPROVE EMERGENCY NOTIFICATION SYSTEMS ; OR 
+ 
+   (II) ENHANCE COMMUNICATION S WITHIN THE SCHOOL AND 
+WITH PUBLIC SAFETY A GENCIES . 
+ 
+  (4) EACH COUNTY BOARD , IN CONSULTATION WITH  LOCAL LAW 
+ENFORCEMENT AND A LO CAL PUBLIC SAFETY AN SWERING POINT , MAY APPLY TO 
+THE CENTER FOR A GRANT UNDER THE PROGRAM .  
+ 
+ (C) THE PROGRAM SHALL PROCURE  AND IMPLEMENT AN EME RGENCY  
+COMMUNICATION PLATFO RM FOR A SECURE SCHOOLS EMERGENCY RESPONSE  
+PROGRAM THROUGH WHICH  ALL SCHOOL FACULTY A ND STAFF ARE ABLE TO  ALERT  
+A PUBLIC SAFETY ANSW ERING POINT TO REPOR T A L IFE–THREATENING OR AN  
+EMERGENCY SITUATION . 
+ 
+ (D) (C) THE COMMUNICATION PLA TFORM REQUIRED UNDER  
+SUBSECTION (C) OF THIS SECTION SHAL L AN EMERGENCY NOTIFICA TION SYSTEM 
+AND THE COMMUNICATIO NS UNDER SUBSECTION (B)(3) OF THIS SECTION MAY  
+INCLUDE THE FOLLOWIN G: 
+ 
+  (1) A CELLULAR PHONE APPLI CATION–BASED PANIC BUTTON  
+EMERGENCY  EVENT SYSTEM THAT :  
+ 
+   (I) CAN BE INTEGRATED WIT H A LOCAL PUBLIC SAF ETY 
+ANSWERING POINT ; AND 
+ 
+   (II) IS ABLE TO : 
+ 
+    1. PLACE A STANDARD TELE PHONE CALL TO 9–1–1; 
+ 
+    2. TEXT COMMUNICATIONS  BETWEEN AUTHORIZED 
+USERS AND A PUBLIC S AFETY ANSWERING POIN T AND PUBLIC SAFETY AGENCY ; 
+ 
+Ch. 293  2024 LAWS OF MARYLAND   
+ 
+– 4 –     3. PROVIDE TEXT MESSAGES , E–MAILS , AND PUSH 
+NOTIFICATIONS TO AUT HORIZED USERS , INCLUDING SCHOOL PER SONNEL , FIRST 
+RESPONDERS , AND OTHER PUBLIC SAF ETY AGENCY PERSONNEL ; AND 
+ 
+    4. AUTOMATICALLY TRANSMI T SCHOOL FLOOR PLANS , 
+SCHOOL EMERGENCY PLA NS, AND RELEVANT CONTACT  INFORMATION TO FIRST  
+RESPONDERS OR PUBLIC  SAFETY AGENCY PERSON NEL RESPONDING TO A PANIC 
+BUTTON EVENT AT A SC HOOL WITHOUT FURTHER  ACTION NEEDED BY  THE USER 
+REPORTING THE EMERGE NCY; AND  
+ 
+  (2) CAPABILITY  THE CAPABILITY  TO GENERATE AN AUTOM ATED 
+EMERGENCY ALERT NOTI FICATION TO ALL PUBL IC AND NONPUBLIC SCH OOLS 
+LOCATED IN REASONABL E PROXIMITY TO AN EM ERGENCY SITUATION TH AT IS 
+DETERMINED TO BE AN IMMINENT  THREAT TO SCHOOL CAM PUSES OR SCHOOL 
+PERSONNEL BY THE PUB LIC SAFETY ANSWERING  POINT RECEIVING THE REPORT , 
+INCLUDING REPORTS OF : 
+ 
+   (I) AN INDIVIDUAL WHO WAS  KILLED ; 
+ 
+   (II) AN ACCIDENT OR THREAT  THAT RESULTED IN SER IOUS  
+BODILY INJURY ; 
+ 
+   (III) AN INDIVI DUAL WHO WAS ASSAULT ED WITH A DEADLY  
+WEAPON AND THE ALLEG ED ASSAILANT REMAINS  AT LARGE ;  
+ 
+   (IV) THE DISCHARGE OF A FI REARM ; AND  
+ 
+   (V) ANY OTHER EMERGENCY S ITUATION AGREED TO B Y A 
+PUBLIC SAFETY AGENCY  AND A COUNTY BOARD ; AND 
+ 
+  (3) INTERCOMS , SCHOOL PUBLIC ADDRESS SYSTE MS, 
+BIDIRECTIONAL ANTENN AS OR BOOSTERS , AND OTHER TECHNOLOGY  THAT WILL 
+IMPROVE EMERGENCY NO TIFICATION AND COMMU NICATION , AS IDENTIFIED BY THE  
+CENTER . 
+ 
+ (E) THE COMMUNICATION PLA TFORM PROCURED UNDER  SUBSECTION (C) 
+OF THIS SECTION SHAL L BE CERTIFIED BY THE U.S.  DEPARTMENT OF HOMELAND  
+SECURITY UNDER THE FE DERAL SUPPORT ANTI–TERRORISM BY FOSTERING  
+EFFECTIVE TECHNOLOGIES ACT. 
+ 
+ (F) (D) (1) ON OR BEFORE SEPTEMBER 1, 2026,  THE CENTER SHALL 
+ENSURE THAT THE PROGRAM HAS BEEN IMPLEMENTED  IN EACH PUBLIC SCHOOL IN 
+THE STATE . 
+ WES MOORE, Governor  Ch. 293  
+ 
+– 5 –  
+  (2) (I) A PUBLIC SCHOOL WITH A N EXISTING PROGRAM T HAT IS  
+SUBSTANTIALLY SIMILA R TO THE PROGRAM MAY SUBMIT A REQUEST TO THE  
+CENTER TO OPT OUT OF THE PROGRAM . 
+ 
+   (II) IF THE CENTER DETERMINES THA T A PUBLIC SCHOOL ’S 
+EXISTING PROGRAM IS SUBSTANTI ALLY SIMILAR TO THE PROGRAM , THE CENTER  
+SHALL GRANT THE SCHO OL’S REQUEST TO OPT OUT  OF THE PROGRAM  IS 
+OPERATING AND AVAILA BLE TO EACH COUNTY B OARD . 
+ 
+ (G) (E) FOR FISCAL YEAR 2026,  THE  THE GOVERNOR SHALL  MAY 
+INCLUDE IN  THE ANNUAL BUDGET BILL AN APPROPRIATIO N OF $4,500,000  FOR THE 
+PROGRAM . 
+ 
+Article – Public Safety  
+ 
+1–301. 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  
+ 
+ (j) (1) “First responder” means an employee of a State or local public safety 
+agency that provides emergency response services.  
+ 
+  (2) “First responder” includes:  
+ 
+   (i) a firefighter;  
+ 
+   (ii) a paramedic;  
+ 
+   (iii) an emergency medical technician;  
+ 
+   (iv) a rescue squad member;  
+ 
+   (v) a sworn member of the Office of the State Fire Marshal;  
+ 
+   (vi) a member of a volunteer fire or rescue company who is a covered 
+employee under § 9 –234 of the Labor and Employment Article;  
+ 
+   (vii) an individual who is licensed or certified under § 13 –516 of the 
+Education Article; and  
+ 
+   (viii)  a 9–1–1 specialist.  
+ 
+ (t) “Public safety agency” means:  
+ 
+Ch. 293  2024 LAWS OF MARYLAND   
+ 
+– 6 –   (1) a functional division of a public agency that provides fire fighting, 
+police, medical, or other emergency services; or  
+ 
+  (2) a private entity that provides fire fighting, police, medical, or other 
+emergency services on a voluntary basis.  
+ 
+ (u) “Public safety answering point” means a communications facility that:  
+ 
+  (1) is operated on a 24 –hour basis;  
+ 
+  (2) first receives 9 –1–1 requests for emergency services in a 9 –1–1 service 
+area; and  
+ 
+  (3) as appr opriate:  
+ 
+   (i) dispatches public safety services directly;  
+ 
+   (ii) transmits incident data to appropriate public safety agencies 
+within the State for the dispatch of public safety services; or  
+ 
+   (iii) transfers 9 –1–1 requests for emergency services or  transmits 
+incident data to:  
+ 
+    1. an appropriate federal emergency communication center 
+responsible for the delivery of public safety services on a federal campus or federal 
+reservation; or  
+ 
+    2. an appropriate public safety answering point located 
+within or outside the State.  
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 
+1, 2024.  
+ 
+Approved by the Governor, April 25, 2024.  

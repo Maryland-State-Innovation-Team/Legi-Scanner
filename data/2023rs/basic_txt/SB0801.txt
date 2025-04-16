@@ -1,0 +1,435 @@
+ WES MOORE, Governor  Ch. 578  
+ 
+– 1 – Chapter 578  
+(Senate Bill 801 ) 
+ 
+AN ACT concerning  
+ 
+Economic Development – Cybersecurity – Cyber Maryland Program  
+ 
+FOR the purpose of establishing the Cyber Maryland Program in the Maryland Technology 
+Development Corporation to increase the cybersecurity workforce in the State, build 
+an advanced cybersecurity workforce, and carry out other purposes related to the 
+cyber security workforce in the State; establishing the Cyber Maryland Fund; 
+establishing the Cyber Maryland Board; requiring the Maryland Higher Education 
+Commission, in consultation with a certain organization, to expand the Cyber 
+Warrior Diversity Program und er certain circumstances on or before a certain date 
+each year; repealing the requirement that the Commission allocate certain funds to 
+certain institutions in the Cyber Warrior Diversity Program on a certain basis; 
+establishing requirements related to une xpended funds allocated by the Commission 
+under the Cyber Warrior Diversity Program; and generally relating to the Cyber 
+Maryland Program.  
+ 
+BY adding to  
+ Article – Economic Development  
+Section 10 –496 
+ Annotated Code of Maryland  
+ (2018 Replacement Volume  and 2022 Supplement)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Education  
+ Section 11 –1401(a), (c), and (d)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Education  
+ Secti on 11 –1402 and 11 –1405  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Economic Development  
+ 
+10–496. 
+ 
+Ch. 578  2023 LAWS OF MARYLAND   
+ 
+– 2 –  (A) (1) IN THIS SECTION THE  FOLLOWING WORDS HAVE  THE MEANINGS 
+INDICATED . 
+ 
+  (2) “BOARD” MEANS THE CYBER MARYLAND BOARD . 
+ 
+  (3) “PROGRAM ” MEANS THE CYBER MARYLAND PROGRAM . 
+ 
+ (B) THERE IS A CYBER MARYLAND PROGRAM IN THE CORPORATION . 
+ 
+ (C) THE PURPOSES OF THE PROGRAM ARE TO : 
+ 
+  (1) CREATE AND EXECUTE A  TALENT PIPELINE THAT  MATERIALLY 
+REDUCES WORKFORCE VA CANCIES BY JULY 1, 2026;  
+ 
+  (2) SERVE AS A ONE –STOP SHOP FOR EMPLOY ERS SEEKING TO 
+LEVERAGE CYBER WORKF ORCE DEVELOPMENT PRO GRAMS OFFERED BY THE  STATE 
+AND ITS PARTNERS ;  
+ 
+  (3) INFORM CYBERSECURITY TRAINI NG AND EDUCATION PRO GRAMS 
+OPERATED BY PUBLIC O R PRIVATE ENTITIES W ITH INDUSTRY –DRIVEN NEEDS ; 
+ 
+  (4) BUILD THE MOST ADVAN CED LOCAL AND STATE INFORMATION 
+TECHNOLOGY WORKFORCE  IN THE NATION , WHICH , TO THE MAXIMUM EXTEN T 
+POSSIBLE , REFLECTS THE RACIAL , GENDER , ETHNIC , AND GEOGRAPHIC DIVER SITY 
+OF THE STATE ; 
+ 
+  (5) COORDINATE AND ACCEL ERATE CYBERSECURITY RESEARCH AND 
+INNOVATION IN THE STATE ; AND 
+ 
+  (6) SUPPORT THE EFFORTS OF THE DEPARTMENT OF INFORMATION 
+TECHNOLOGY TO IMPROVE  THE STATE GOVERNME NT’S CYBERSECURITY POST URE, 
+INCLUDING STATE AGENCIES , LOCAL GOVERNMENT UNI TS, AND CRITICAL 
+INFRASTRUCTURE .  
+ 
+ (D) THE PROGRAM SHALL : 
+ 
+  (1) CONDUCT ONGOING RESE ARCH BY COLLABORATIN G WITH THE 
+CYBERSECURITY ASSOCIATION OF MARYLAND , INC., CYBERSECURITY TALENT  
+ADVISORY BOARD TO COLLECT AND ANALYZE REAL –TIME INDUSTRY DATA T O 
+IDENTIFY CYBERSECURI TY WORKFORCE NEEDS A S DESCRIBED IN THE U.S.  
+CHAMBER OF COMMERCE TALENT PIPELINE MANAGEMENT APPROACH ; 
+ 
+ WES MOORE, Governor  Ch. 578  
+ 
+– 3 –   (2) USE THE RESULTS OF T HE RESEARCH DESCRIBE D IN ITEM (1) OF 
+THIS SUBSECTION TO INCREA SE THE EFFECTIVENESS  OF EXISTING STATE 
+CYBERSECURITY WORKFO RCE PROGRAMS FOR EMP LOYERS IN THE STATE ; 
+ 
+  (3) FACILITATE PARTNERSH IPS FOR NEW TRAINING  AND EDUCATION 
+PROGRAMS TO ADDRESS THE WORKFORCE NEEDS IDENTIFIED UNDER ITE M (1) OF 
+THIS SUBSECTION ; 
+ 
+  (4) DEVELOP A STATEWIDE STRATEGIC PLAN FOR C YBERSECURITY 
+WORKFORCE DEVELOPMEN T, USING THE RESULTS OF  THE RESEARCH DESCRIB ED IN 
+ITEM (1) OF THIS SUBSECTION A ND WITH INPUT FROM T HE CYBERSECURITY 
+ASSOCIATION OF MARYLAND , INC., CYBERSECURITY TALENT ADVISORY BOARD ON 
+OR BEFORE DECEMBER 1, 2023;  
+ 
+  (5) ADMINISTER AND MANAG E THE CYBER MARYLAND FUND; AND  
+ 
+  (6) ENSURE THAT OUTCOMES  OF THE PROGRAM ARE INCLUSIVE  AND, 
+TO THE MAXIMUM EXTEN T PRACTICABLE , REFLECT THE RACIAL , GENDER , ETHNIC , 
+AND GEOGRAP HIC DIVERSITY OF THE  STATE .  
+ 
+ (E) (1) IN THIS SUBSECTION , “FUND” MEANS THE CYBER MARYLAND 
+FUND. 
+ 
+  (2) THERE IS A CYBER MARYLAND FUND. 
+ 
+  (3) THE PURPOSES OF THE FUND ARE TO : 
+ 
+   (I) ACHIEVE THE PURPOSES  IDENTIFIED UNDER SUB SECTION 
+(C) OF THIS SECTION ; AND 
+ 
+   (II) SUPPORT INNOVATIVE A PPROACHES TO MEETING  
+CYBERSECURITY WORKFO RCE NEEDS . 
+ 
+  (4) THE PROGRAM SHALL ADMINIS TER THE FUND. 
+ 
+  (5) (I) THE FUND IS A SPECIAL , NONLAPSING FUND THAT  IS NOT 
+SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE . 
+ 
+   (II) THE STATE TREASURER SHALL HOLD THE FUND 
+SEPARATELY , AND THE COMPTROLLER SHALL ACC OUNT FOR THE FUND. 
+ 
+  (6) THE FUND CONSISTS OF : 
+ 
+Ch. 578  2023 LAWS OF MARYLAND   
+ 
+– 4 –    (I) MONEY APPROPRIATED I N THE STATE BUDGET TO THE 
+FUND; AND 
+ 
+   (II) ANY OTHER MONEY FROM  ANY OTHER SOURCE ACCEPTED 
+FOR THE BENEFIT OF T HE FUND. 
+ 
+  (7) THE FUND MAY BE USED ONLY  FOR: 
+ 
+   (I) ADMINISTERING THE PROGRAM ; AND 
+ 
+   (II) PROVIDING GRANTS TO ELEMENTARY AND SECON DARY 
+SCHOOLS , INSTITUTIONS OF HIGH ER EDUCATION , INCLUDING COMMUNITY 
+COLLEGES , FOR–PROFIT COR PORATIONS , AND NONPROFIT ORGANI ZATIONS TO 
+OPERATE CYBERSECURIT Y PROGRAMS BASED ON THE STRATEGIC PLAN O F THE 
+PROGRAM . 
+ 
+  (8) (I) THE STATE TREASURER SHALL INVES T THE MONEY OF THE 
+FUND IN THE SAME MANN ER AS OTHER STATE MONEY MAY BE IN VESTED . 
+ 
+   (II) ANY INT EREST EARNINGS OF TH E FUND SHALL BE 
+CREDITED TO THE GENERAL FUND OF THE STATE . 
+ 
+  (9) EXPENDITURES FROM THE  FUND MAY BE MADE ONLY  IN 
+ACCORDANCE WITH THE STATE BUDGET .  
+ 
+  (10) FOR FISCAL YEAR 2025  AND EACH YEAR THEREA FTER , THE 
+GOVERNOR SHALL  MAY INCLUDE IN  THE ANNUAL BUDGET BI LL AN APPROPRIATION 
+OF $250,000  FOR THE FUND.  
+ 
+  (11) FOR SUBJECT TO THE AVAILA BILITY OF FUNDING , FOR FISCAL 
+YEAR 2025  AND EACH YEAR THEREA FTER , $250,000  OF THE FUND SHALL BE USED 
+FOR IMPLEMENTING THE  U.S.  CHAMBER OF COMMERCE TALENT PIPELINE 
+MANAGEMENT APPROACH . 
+ 
+  (12) (I) THE GOVERNOR SHALL INCLUD E IN THE ANNUAL BUDG ET 
+BILL AN APPROPRIATIO N IN AN AMOUNT SUFFI CIENT FOR HIRING IND IVIDUALS TO 
+CONDUCT THE DUTIES O F THE PROGRAM , INCLUDING AN EXECUTIVE DIRECTOR 
+AND AT LEAST ONE ADM INISTRAT OR. 
+ 
+   (II) THE EXECUTIVE DIRECTOR SHALL : 
+ 
+    1. BE APPOINTED BY THE CHIEF EXECUTIVE OFFICER ; 
+ 
+ WES MOORE, Governor  Ch. 578  
+ 
+– 5 –     2. HAVE RELEVANT QUALIF ICATIONS AND EXPERIE NCE 
+WITH THE ACTIVITIES AND PURPOSES OF THE PROGRAM ; AND 
+ 
+    3. SERVE AT THE PLEASUR E OF THE CHIEF EXECUTIVE 
+OFFICER .  
+ 
+ (F) (1) THERE IS A CYBER MARYLAND BOARD . 
+ 
+  (2) THE BOARD CONSISTS OF THE  FOLLOWING MEMBERS : 
+ 
+   (I) THE SENATE AND HOUSE OF DELEGATES COCHAIRS OF  THE 
+JOINT COMMITTEE ON CYBERSECURITY , INFORMATION TECHNOLOGY , AND 
+BIOTECHNOLOGY ; 
+ 
+   (II) THE SECRETARY , OR THE SECRETARY ’S DESIGNEE ; 
+ 
+   (III) THE SECRETARY OF LABOR , OR THE SECRETARY ’S 
+DESIGNEE ; 
+ 
+   (IV) THE MARYLAND SECRETARY OF VETERANS AFFAIRS , OR 
+THE SECRETARY ’S DESIGNEE ; 
+ 
+   (V) THE SECRETARY OF INFORMATION TECHNOLOGY , OR THE 
+SECRETARY ’S DES IGNEE ; 
+ 
+   (VI) THE CHAIR OF THE BOARD OF DIRECTORS OF THE 
+CYBERSECURITY ASSOCIATION OF MARYLAND , INC., OR THE CHAIR’S DESIGNEE ; 
+ 
+   (VII) THE CHAIR OF THE MARYLAND WORKFORCE ASSOCIATION , 
+OR THE CHAIR’S DESIGNEE ;  
+ 
+   (VIII) THE FOLLOWING MEMBER S, APPOINTE D BY THE 
+GOVERNOR : 
+ 
+    1. FIVE MEMBERS FROM TH E PRIVATE SECTOR WIT H 
+CYBERSECURITY NEEDS ; 
+ 
+    2. ONE REPRESENTATIVE F ROM A NONPROFIT 
+ORGANIZATION WITH EX PERTISE IN CYBERSECU RITY TALENT DEVELOPM ENT; 
+ 
+    3. ONE REPRESENTATIVE F ROM A COMMUNITY 
+COLLEGE ; 
+ 
+Ch. 578  2023 LAWS OF MARYLAND   
+ 
+– 6 –     4. ONE REPRESENTATIVE F ROM A 4–YEAR , PUBLIC 
+HBCU  COLLEGE ; 
+ 
+    5. ONE REPRESENTATIVE F ROM A 4–YEAR , PUBLIC 
+COLLEGE ; AND 
+ 
+   (IX) THE CHIEF EXECUTIVE OFFICER , OR THE CHIEF 
+EXECUTIVE OFFICER’S DESIGNEE . 
+ 
+  (3) (I) SUBJECT TO SUBPARAGRA PH (II) OF THIS PARAGR APH, THE 
+MEMBERS OF THE BOARD SHALL ELECT A C HAIR FROM AMONG THE MEMBERS OF 
+THE BOARD . 
+ 
+   (II) THE CHAIR MAY NOT BE : 
+ 
+    1. A STATE EMPLOYEE ; OR 
+ 
+    2. THE CHIEF EXECUTIVE OFFICER . 
+ 
+  (4) THE BOARD SHALL : 
+ 
+   (I) PROVIDE INPUT REGARD ING THE DEVELOPMENT OF THE 
+STATEWIDE CYBERSECUR ITY WORKFORCE DEVELO PMENT STRATEGIC PLAN  
+REQUIRED UNDER SUBSE CTION (D)(4) OF THIS SECTION ; 
+ 
+   (II) ASSIST THE EXECUTIVE DIRECTOR AND STAFF OF  THE 
+PROGRAM WITH STAKEHOL DER OUTREACH AND ENG AGEMENT ;  
+ 
+   (III) HELP THE EXECUTIVE DIRECTOR OF THE PROGRAM 
+EXPLORE SYNERGIES WH ERE APPROPRIATE WITH  CYBERSECURITY WORKFO RCE 
+DEVELOPMENT EFFORTS BY REGIONAL AND COUN TY WORKFORCE DEVELOP MENT 
+ENTITIES ; 
+ 
+   (IV) COORDINATE AS NECESS ARY WITH THE MARYLAND 
+DEPARTMENT OF LABOR AND THE DEPARTMENT ; AND 
+ 
+   (V) PROVIDE OTHER ADVICE  AND SUPPORT FOR THE PROGRAM . 
+ 
+  (5) A MEMBER OF THE BOARD : 
+ 
+   (I) MAY NOT RECEIVE COMP ENSATION AS A MEMBER  OF THE 
+BOARD ; BUT 
+ 
+ WES MOORE, Governor  Ch. 578  
+ 
+– 7 –    (II) IS ENTITLED TO REIMB URSEMENT FOR EXPENSE S UNDER 
+THE STANDARD STATE TRAVEL REGULATIONS , AS PROVIDED IN THE STATE 
+BUDGET . 
+ 
+  (6) THE GOVERNOR MAY REMOVE A N APPOINTED MEMBER O F THE 
+BOARD FOR INCOMPETENC E, MISCONDUCT , OR FAILURE TO PERFOR M THE DUTIES 
+OF THE POSITION . 
+ 
+ (G) ON OR BEFORE DECEMBER 1 EACH YEAR , BEGINNING IN 2026,  THE 
+PROGRAM , IN CONJUN CTION WITH THE CORPORATION , SHALL SUBMIT A REPOR T 
+ON THE OPERATION  AND PERFORMANCE OF T HE PROGRAM TO THE GOVERNOR AND , 
+IN ACCORDANCE WITH § 2–1257  OF THE STATE GOVERNMENT ARTICLE , THE 
+GENERAL ASSEMBLY . 
+ 
+Article – Education  
+ 
+11–1401.  
+ 
+ (a) In this subtitle the following words have the meanings indicated.  
+ 
+ (c) “Governing entity” means:  
+ 
+  (1) The Board of Trustees of Baltimore City Community College;  
+ 
+  (2) The President of Bowie State University;  
+ 
+  (3) The President of Coppin State University;  
+ 
+  (4) The B oard of Regents of Morgan State University;  
+ 
+  (5) The President of the University of Maryland Eastern Shore; and  
+ 
+  (6) The President of the University of Maryland Baltimore County 
+Training Centers.  
+ 
+ (d) “Program” means a Cyber Warrior Diversity Program.  
+ 
+11–1402.  
+ 
+ (a) There is a Cyber Warrior Diversity Program at:  
+ 
+  (1) Baltimore City Community College;  
+ 
+  (2) Bowie State University;  
+ 
+  (3) Coppin State University;  
+Ch. 578  2023 LAWS OF MARYLAND   
+ 
+– 8 –  
+  (4) Morgan State University;  
+ 
+  (5) The University of Maryland Eastern Shore; and  
+ 
+  (6) The University of Maryland Baltimore County Training Centers that 
+are located in the State.  
+ 
+ (b) The purpose of each Program is to train students in computer networking and 
+cybersecurity.  
+ 
+ (c) The governing entity at each institution is responsible f or administering the 
+Program at that institution.  
+ 
+ (D) ON OR BEFORE JULY 1 EACH YEAR , BEGINNING IN 2024,  THE 
+COMMISSION , IN CONSULTATION WITH  THE CYBERSECURITY ASSOCIATION OF 
+MARYLAND , INC., SHALL , IF APPLICABLE , EXPAND THE PROGRAM TO 
+ACCOMMODATE ANY CHAN GES IN CERTIFICATION  TRENDS IDENTIFIED UN DER §  
+10–496 OF THE ECONOMIC DEVELOPMENT ARTICLE . 
+ 
+11–1405.  
+ 
+ (a) Subject to the requirements of this section, for fiscal year 2020 and each fiscal 
+year thereafter, the Governor shall include in the annual State operating budget an 
+appropriation of $2,500,000 for the Commission to provide grants to Baltimore City 
+Community College, Bowie State University, Coppin State University, Morgan State 
+University, the University of Maryland Eastern Shore, and the University  of Maryland 
+Baltimore County Training Centers for the Program established under this section.  
+ 
+ (b) Grants provided under subsection (a) of this section shall be in the amount of:  
+ 
+  (1) At least $10,000 per student at:  
+ 
+   (i) Baltimore City Community Co llege;  
+ 
+   (ii) Bowie State University;  
+ 
+   (iii) Coppin State University;  
+ 
+   (iv) Morgan State University; and  
+ 
+   (v) The University of Maryland Eastern Shore; and  
+ 
+  (2) $500 per student at the University of Maryland Baltimore County 
+Training Centers, for the purpose of participation in job apprenticeship events.  
+ 
+ WES MOORE, Governor  Ch. 578  
+ 
+– 9 –  (c) On or before December 15, 2019, and each December 15 thereafter, the 
+governing entities shall notify the Commission of the number of students enrolled in each 
+institution’s Program for th e current academic year.  
+ 
+ (d) [(1)] The funding provided in each fiscal year in accordance with this section 
+shall supplement, but not supplant, any funds that would otherwise be provided for each 
+institution.  
+ 
+  [(2) The Commission annually shall allocate funds to Baltimore City 
+Community College, Bowie State University, Coppin State University, Morgan State 
+University, the University of Maryland Eastern Shore, and the University of Maryland 
+Baltimore County Training Centers on a pro rata basis acc ording to the most recent 
+enrollment data required under subsection (c) of this section. ] 
+ 
+ (E) NOTWITHSTANDING § 7–302 OF THE STATE FINANCE AND 
+PROCUREMENT ARTICLE , AT THE END OF EACH F ISCAL YEAR , ANY UNEXPENDED 
+FUNDS ALLOCATED BY T HE COMMISSION UNDER THI S SECTION SHALL : 
+ 
+  (1) REVERT TO THE COMMISSION TO BE ALLO CATED UNDER THIS 
+SECTION FOR THE UPCO MING FISCAL YEAR ; AND  
+ 
+  (2) BE USED TO SUPPLEMENT , BUT NOT SUPPLANT , THE AMOUNT 
+REQUIRED TO BE APPRO PRIATED TO THE COMMISSION TO BE ALLO CATED UNDER 
+THIS SECTION FOR THE UPCO MING FISCAL YEAR .  
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That:  
+ 
+ (a) In this section, “Program” means the Cyber Maryland Program established 
+under § 10 –496 of the Economic Development Article, as enacted by Section 1 of this Act.  
+ 
+ (b) It is the intent of the General Assembly that:  
+ 
+  (1) the Program immediately consider the Cybersecurity Pathways Across 
+Maryland from the U.S. Department of Labor’s Trade Adjustment Assistance Community 
+College & Career Training (2014 –2018) as an immedi ate, proven, and scalable mechanism 
+to fill jobs; and  
+ 
+  (2) in implementing the plan required under § 10 –496(d)(4) of the 
+Economic Development Article, as enacted by Section 1 of this Act, the Program consider:  
+ 
+   (i) the role and scale of the following  programs:  
+ 
+    1. K–12 Career Pathways & Teacher Externships;  
+ 
+    2. the Maryland Technology Internship Program;  
+ 
+Ch. 578  2023 LAWS OF MARYLAND   
+ 
+– 10 –     3. the Maryland EARN Program;  
+ 
+    4. the Maryland Apprenticeship & Training Program; and  
+ 
+    5. the Cyber Warrior Diversity Program; a nd 
+ 
+   (ii) the development of cyber range scenarios and provision of cyber 
+range training through appropriate partners.  
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That, for fiscal year 2025 and each 
+year thereafter, funds from the Dedicated Purpose Account may be transferred by budget 
+amendment in accordance with § 7 –310 of the State Finance and Procurement Article to 
+implement this Act.  
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED, That this Act shall take effect July 
+1, 2023.  
+ 
+Approved by the Governor, May 8, 2 023. 

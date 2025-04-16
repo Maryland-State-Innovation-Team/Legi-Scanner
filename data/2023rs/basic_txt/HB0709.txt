@@ -1,0 +1,238 @@
+ WES MOORE, Governor  Ch. 23  
+ 
+– 1 – Chapter 23  
+(House Bill 709 ) 
+ 
+AN ACT concerning  
+ 
+21st Century Financial Systems Council – Establishment   
+Modernization of State  Financial Systems – 21st Century Financial Systems 
+Enterprise  
+ 
+FOR the purpose of establishing the 21st Century Financial Systems Council to modernize 
+the financial management information systems infrastructure in the State; 
+specifying the responsibilities and priorities of the Council; establishing the position 
+of the 21st Century Financial Systems Director in the Office of the Comptroller; and 
+generally relating to the 21st Century Financial Systems Council  requiring the 
+Office of the Comptroller, the Office of the State Treasurer, the Department of 
+Budget and Management, the Department of Information Technology, and the 
+Department of General Services, in consultation with a representative of the 
+Modernize Maryland Oversight Commission, to develop, implement, manage, and 
+oversee the 21st Century Financia l Systems Enterprise; and generally relating to 
+the modernization of State financial systems and the 21st Century Financial 
+Systems Enterprise . 
+ 
+BY adding to  
+ Article – State Government  
+Section 4 –113 
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2022 Supplement)  
+ 
+Preamble  
+ 
+ WHEREAS, Substantial risk and waste are generated from the continued use of the 
+State’s existing accounting and payments platform, the Financial Management and 
+Information System (FMIS), due to limited development resources , cybersecurity risks, and 
+difficulties delivering functional enhancements to meet evolving end –user needs and 
+legislative mandates; and  
+ 
+ WHEREAS, The State must consider how future systems will integrate across the 
+State’s broader ecosystem and understan d that there is substantial risk if key finance 
+functions remain fractured in multiple systems; and  
+ 
+ WHEREAS, The State’s financial systems and applications are operated and 
+maintained by different departments, which contributes to a complex information 
+technology ecosystem and governance challenges; and  
+ 
+ WHEREAS, The Office of the Comptroller, as the chief financial officer of the State, 
+should lead the effort to consolidate and modernize the financial systems under a single 
+Ch. 23  2023 LAWS OF MARYLAND   
+ 
+– 2 – 21st Century Financial System s Enterprise that shall become the State’s financial system 
+of record; and  
+ 
+ WHEREAS, The Office of the Comptroller should partner with the Office of the State 
+Treasurer, the Department of Budget and Management, the Department of Information 
+Technology, an d the Department of General Services to consolidate and modernize the 
+financial systems under a single 21st Century Financial Systems Enterprise; and  
+ 
+ WHEREAS, Because the Modernize Maryland Oversight Commission is responsible 
+for a substantial amount of the State’s information technology and cybersecurity 
+collaboration, input and participation by that body and the constituent agencies it supports 
+will be essential to the creation of the 21st Century Financial Systems Enterprise; and  
+ 
+ WHEREAS, Because the  State has multiple information technology modernization 
+initiatives currently underway that may impact the implementation of a new financial 
+management and payroll system, a coordinated strategy and strong legislative directive is 
+required to minimize add itional information technology complexities, technical debt, 
+process inefficiency, and overall cost; now, therefore,  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – State Government  
+ 
+4–113. 
+ 
+ (A) (1) IN THIS SECTION THE F OLLOWING WORDS HAVE THE MEANINGS 
+INDICATED . 
+ 
+  (2) “COUNCIL” MEANS THE 21ST CENTURY FINANCIAL SYSTEMS 
+COUNCIL . 
+ 
+  (3) “DIRECTOR ” MEANS THE 21ST CENTURY FINANCIAL SYSTEMS 
+DIRECTOR .  
+ 
+  (4) “ENTERPRISE ” MEANS THE 21ST CENTURY FINANCIAL SYSTEMS 
+ENTERPRISE . 
+ 
+ (B) THERE IS A 21ST CENTURY FINANCIAL SYSTEMS COUNCIL . 
+ 
+ (C) THE COUNCIL CONSISTS OF T HE FOLLOWING MEMBERS : 
+ 
+  (1) THE COMPTROLLER , OR THE COMPTROLLER ’S DESIGNEE ; 
+ 
+ WES MOORE, Governor  Ch. 23  
+ 
+– 3 –   (2) THE STATE TREASURER , OR THE TREASURER ’S DESIGN EE; 
+ 
+  (3) THE SECRETARY OF BUDGET AND MANAGEMENT , OR THE 
+SECRETARY ’S DESIGNEE ; 
+ 
+  (4) THE SECRETARY OF INFORMATION TECHNOLOGY , OR THE 
+SECRETARY ’S DESIGNEE ; AND 
+ 
+  (5) THE SECRETARY OF GENERAL SERVICES , OR THE SECRETARY ’S 
+DESIGNEE . 
+ 
+ (D) (1) THE PRESIDENT OF THE SENATE MAY APPOINT ON E MEMBER OF 
+THE SENATE TO SERVE IN AN  ADVISORY CAPACITY ON  THE COUNCIL . 
+ 
+  (2) THE SPEAKER OF THE HOUSE MAY APPOINT ONE  MEMBER OF THE 
+HOUSE OF DELEGATES TO SERVE IN  AN ADVISORY CAPACITY  ON THE COUNCIL . 
+ 
+ (E) THE COMPTROLLER , OR THE COMPTROLLER ’S DESIGNEE , SHALL 
+CHAIR THE COUNCIL . 
+ 
+ (F) THE OFFICE OF THE COMPTROLLER SHALL PRO VIDE STAFF FOR THE 
+COUNCIL . 
+ 
+ (G) A MEMBER OF THE COUNCIL : 
+ 
+  (1) MAY NOT RECEIVE COMP ENSATION AS A MEMBER  OF THE 
+COUNCIL ; BUT 
+ 
+  (2) IS ENTITLED TO REIMBURSEMENT FOR EX PENSES UNDER THE 
+STANDARD STATE TRAVEL REGULATIONS , AS PROVIDED IN THE STATE BUDGET . 
+ 
+ (A) (1) IN THIS SECTION THE F OLLOWING WORDS HAVE THE MEANINGS 
+INDICATED . 
+ 
+  (2) “DEPARTMENTS ” MEANS : 
+ 
+   (I) THE OFFICE OF THE COMPTROLLER ; 
+ 
+   (II) THE OFFICE OF THE STATE TREASURER ; 
+ 
+   (III) THE DEPARTMENT OF BUDGET AND MANAGEMENT ; 
+ 
+   (IV) THE DEPARTMENT OF INFORMATION TECHNOLOGY ; AND 
+Ch. 23  2023 LAWS OF MARYLAND   
+ 
+– 4 –  
+   (V) THE DEPARTMENT OF GENERAL SERVICES . 
+ 
+  (3) “FINANCIAL MANAGEMENT INFRASTRUCTURE ” MEANS THE 
+INFORMATION TECHNOLOGY INFRASTRU CTURE THAT IS USED T O MAINTAIN THE 
+GENERAL LEDGER AND A CCOUNTANCY FOR THE STATE , INCLUDING SUBLEDGER 
+FUNCTIONS THAT ENABL E THE MANAGEMENT OF ALL PAYMENTS AND FUN D 
+TRANSFERS THROUGHOUT  THE STATE . 
+ 
+  (4) “21ST CENTURY FINANCIAL SYSTEMS ENTERPRISE ” MEANS A 
+MODERN CLOUD –BASED INFORMATION TE CHNOLOGY INFRASTRUCT URE. 
+ 
+ (H) (B) THE COUNCIL  IN CONSULTATION WITH A DESIGNATED 
+REPRESENTATIVE FROM THE MODERNIZE MARYLAND OVERSIGHT COMMISSION , 
+THE DEPARTMENTS  SHALL : 
+ 
+  (1) SET POLICIES , OBJECTIVES , AND PRIORITIES FOR TH E 
+TRANSFORMATION OF TH E STATE’S FINANCIAL MANAGEMENT  INFORMATION 
+SYSTEMS INFRASTRUCTU RE INTO THE 21ST CENTURY FINANCIAL SYSTEMS 
+ENTERPRISE ; 
+ 
+  (2) LEARN THE NEEDS AND PRIORITIES OF ALL US ERS OF THE 
+FINANCIAL MANAGEMENT  INFORMATION SYSTEMS AND FUTURE KNOWN USE RS OF 
+THE 21ST CENTURY FINANCIAL SYSTEMS  ENTERPRISE ; 
+ 
+  (3) COLLABORATE WITH CON SULTANTS TO CREATE A  PROJECT 
+PROPOSAL FOR , AND OVERSEE IMPLEMEN TATION OF , THE 21ST CENTURY 
+FINANCIAL SYSTEMS  ENTERPRISE ; 
+ 
+  (4) OVERSEE , COORDINATE , AND AUTHORIZE THE AS SIGNMENT OF 
+RESOURCES TO FOR THE DEVELOPMENT OF THE 21ST CENTURY FINANCIAL 
+SYSTEMS  ENTERPRISE ; 
+ 
+  (5) ESTABLISH WORKING GR OUPS AS NEEDED ; AND 
+ 
+  (6) RECOMMEND ANY LEGISLAT IVE CHANGES CONSIDER ED 
+NECESSARY BY THE COUNCIL  DEPARTMENTS  TO ADDRESS FINANCIAL  
+MANAGEMENT INFORMATI ON SYSTEMS ISSUES . 
+ 
+ (I) (C) THE COUNCIL  IN CONSULTATION WITH A DESIGNATED 
+REPRESENTATIVE FROM THE MODERNIZE MARYLAND OVERSIGHT COMMISSION , 
+THE DEPARTMENTS  SHALL SET PRIORITIES  TO: 
+ WES MOORE, Governor  Ch. 23  
+ 
+– 5 –  
+  (1) STANDARDIZE FINANCIA L MANAGEMENT FOR ALL  STATE 
+AGENCIES BY REQUIRIN G ALL STATE AGENCIES TO PAR TICIPATE IN THE 21ST 
+CENTURY FINANCIAL SYSTEMS  ENTERPRISE ; 
+ 
+  (2) PROVIDE SUPPORT TO P ARTICIPATING UNI TS IN ACCORDANCE 
+WITH THE POLICIES AN D OBJECTIVES ESTABLI SHED BY THE COUNCIL  
+DEPARTMENTS ; 
+ 
+  (3) CONFORM TO MODERNIZE D BUSINESS AND TECHN OLOGY 
+STANDARDS ; AND 
+ 
+  (4) HOST AND MANAGE MODE RNIZED APPLICATIONS AND SHARED 
+DATA FOR THE DELIVER Y OF ALL ACCOUNTING SERVICES IN THE STATE .; 
+ 
+ (J) (1) THERE IS A 21ST CENTURY FINANCIAL SYSTEMS DIRECTOR IN 
+THE OFFICE OF THE COMPTROLLER . 
+ 
+  (2) THE DIRECTOR SHALL BE APP OINTED BY AND SERVE AT THE 
+PLEASURE OF THE COMPTROLLER . 
+ 
+  (3) THE DIRECTOR SHALL BE PAR T OF THE STAFF OF  THE OFFICE OF 
+THE COMPTROLLER FOR ADMIN ISTRATIVE , STAFFING , AND BUDGETARY PURPOS ES. 
+ 
+  (4) THE DIRECTOR SHALL : 
+ 
+   (I) (5)  USE AND MANAGE THE 21ST CENTURY FINANCIAL 
+SYSTEMS  ENTERPRISE TO ACHIEVE  THE GOALS AND OBJECT IVES SET BY THE 
+COUNCIL  DEPARTMENTS ; 
+ 
+   (II) (6) FACILITATE AND COORD INATE THE DELIVERY O F 
+PORTFOLIO PRODUCTS A ND SERVICES ; 
+ 
+   (III) (7) ENSURE THE FAITHFUL EXECUTION OF ALL 
+AGREEMENTS ENTERED I NTO ON BEHALF OF THE  COUNCIL  DEPARTMENTS ; AND 
+ 
+   (IV) (8) OVERSEE AND BE RESPO NSIBLE FOR THE OVERS IGHT , 
+IMPLEMENTATION , AND MANAGEMENT OF TH E 21ST CENTURY FINANCIAL SYSTEMS  
+ENTERPRISE . 
+ 
+ (D) THE OFFICE OF THE COMPTROLLER , IN ACCORDANCE WITH § 2–1257  
+OF THIS ARTICLE , SHALL REPORT TO THE GENERAL ASSEMBLY ON THE STA TUS OF 
+THE DEVELOPMENT OF T HE 21ST CENTURY FINANCIAL SYSTEMS ENTERPRISE 
+Ch. 23  2023 LAWS OF MARYLAND   
+ 
+– 6 – BEGINNING ON OR BEFO RE DECEMBER 31, 2023,  AND EVERY 6 MONTHS 
+THEREAFTER , ENDING WITH THE FINA L REPORT DUE ON OR B EFORE JANUARY 1, 
+2027.  
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That thi s Act shall take effect 
+October  July 1, 2023.  
+ 
+Approved by the Governor, April 11, 2023.  

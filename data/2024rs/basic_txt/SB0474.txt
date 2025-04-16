@@ -1,0 +1,452 @@
+ WES MOORE, Governor  Ch. 411  
+ 
+– 1 – Chapter 411  
+(Senate Bill 474 ) 
+ 
+AN ACT concerning  
+ 
+Certificate of Public Convenience and Necessity and Related Approvals – 
+Definition of Generating Station  
+(Critical Infrastructure Streamlining Act of 2024)  
+ 
+FOR the purpose of altering and establishing the definition of “generating station” for the 
+purpose of exempting the construction of certain generating facilities used to produce 
+electricity for the purpose of onsite emergency backup and certain test and 
+maintenance operations from the requirement to obtain a certificate of public 
+convenience and necessity or certain other related approvals under certain 
+circumstances; altering the distribution of income tax revenue from corpora tions that 
+is attributable to certain data centers;  and generally relating to generating stations.  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Public Utilities  
+Section 1–101(a) and  7–207(a)(1)  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2023 Supplement)  
+ 
+BY adding to  
+ Article – Public Utilities  
+Section 1 –101(h –1) and 7 –207.3  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Public U tilities  
+ Section 1–101(h –1), 7–207(a)(4), 7 –207.1(a), 7 –207.2(a), and 7 –208(a)  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – State Government  
+ Section 9 –20B–05(a)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – State Government  
+ Section 9 –20B–05(e)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2023 Supplement)  
+Ch. 411  2024 LAWS OF MARYLAND   
+ 
+– 2 –  
+BY adding to 
+ Article – Tax – General  
+ Section 2 –614.1  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Tax – General  
+ Section 2 –615 
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2023 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Public Utilities  
+ 
+1–101. 
+ 
+ (a) In this division the following words have the meanings indic ated.  
+ 
+ (H–1) (1) “CRITICAL INFRASTRUCTU RE” MEANS ASSETS , SYSTEMS , AND 
+NETWORKS , WHETHER PHYSICAL OR VIRTUAL , CONSIDERED BY THE U.S.  
+DEPARTMENT OF HOMELAND SECURITY TO BE SO VIT AL TO THE UNITED STATES 
+THAT THEIR INCAPACIT ATION OR DESTRUCTION  WOULD HAVE A D EBILITATING 
+EFFECT ON ONE OR MOR E OF THE FOLLOWING : 
+ 
+   (I) SECURITY ;  
+ 
+   (II) NATIONAL ECONOMIC SE CURITY ;  
+ 
+   (III) NATIONAL PUBLIC HEAL TH; OR  
+ 
+   (IV) SAFETY . 
+ 
+  (2) “CRITICAL INFRASTRUCTU RE” INCLUDES : 
+ 
+   (I) A HOSPITAL OR HEALTH  CARE FACILITY ; AND  
+ 
+   (II) A DATA CENTER AS DEF INED IN § 11–239 OF THE TAX – 
+GENERAL ARTICLE . 
+ 
+ [(h–1)] (H–2) “Cybersecurity” has the meaning stated in § 3.5 –301 of the State 
+Finance and Procurement Article.   
+ WES MOORE, Governor  Ch. 411  
+ 
+– 3 –  
+7–207. 
+ 
+ (a) (1) In this section the following words have the mea nings indicated.  
+ 
+  (4) “Generating station” does not include:  
+ 
+   (i) a generating unit or facility that:  
+ 
+    1. is used for the production of electricity;  
+ 
+    2. has the capacity to produce not more than 2 megawatts of 
+alternating current; and  
+ 
+    3. is installed with equipment that prevents the flow of 
+electricity to the electric grid during time periods when the electric grid is out of service; 
+[or] 
+ 
+   (ii) a combination of two or more generating units or facilities that:  
+ 
+    1. are used for the pr oduction of electricity from a solar 
+photovoltaic system or an eligible customer –generator that is subject to the provisions of § 
+7–306 of this title;  
+ 
+    2. are located on the same property or adjacent properties;  
+ 
+    3. have the capacity to produce, wh en calculated 
+cumulatively for all generating units or facilities on the property or adjacent property, more 
+than 2 megawatts but not more than 14 megawatts of alternating current; and  
+ 
+    4. for each individual generating unit or facility:  
+ 
+    A. has th e capacity to produce not more than 2 megawatts of 
+alternating current;  
+ 
+    B. is separately metered by the electric company; and  
+ 
+    C. does not export electricity for sale on the wholesale market 
+under an agreement with PJM Interconnection, LLC ;  
+ 
+   (III) A GENERATING UNIT OR  FACILITY THAT : 
+ 
+    1. IS USED FOR THE PROD UCTION OF ELECTRICIT Y FOR 
+THE PURPOSE OF : 
+ 
+Ch. 411  2024 LAWS OF MARYLAND   
+ 
+– 4 –     A. ONSITE EMERGENCY BAC KUP AT A FACILITY WH EN 
+SERVICE FROM THE ELE CTRIC COMPANY IS INT ERRUPTED DUE TO ELECTRIC 
+DISTRIBUTION OR TRAN SMISSION SYSTEM FAILURE OR WH EN THERE IS EQUIPMEN T 
+FAILURE AT A SITE WH ERE CRITICAL INFRAST RUCTURE IS LOCATED ; AND  
+ 
+    B. TEST AND MAINTENANCE  OPERATIONS NECESSARY  
+TO ENSURE FUNCTIONAL ITY OF THE GENERATIN G UNIT OR FACILITY I N THE EVENT 
+OF A SERVICE INTERRU PTION FR OM THE ELECTRIC COMP ANY DUE TO ELECTRIC 
+DISTRIBUTION OR TRAN SMISSION SYSTEM FAIL URE OR WHEN THERE IS  EQUIPMENT 
+FAILURE AT A SITE WH ERE CRITICAL INFRAST RUCTURE IS LOCATED ;  
+ 
+    2. IS INSTALLED WITH EQ UIPMENT THAT PREVENT S THE 
+FLOW OF ELECTRICITY TO THE ELECTRIC GRID ; AND  
+ 
+    3. IS SUBJECT TO A PERM IT TO CONSTRUCT ISSU ED BY 
+THE DEPARTMENT OF THE ENVIRONMENT ; OR AND  
+ 
+    4. IS INSTALLED AT A FA CILITY THAT IS PART OF 
+CRITICAL INFRASTRUCTURE IF TH E FACILITY COMPLIES WITH ALL APPLICABLE 
+REGULATIONS REGARDIN G NOISE LEVEL AND TE STING HOURS ; OR  
+ 
+   (IV) A COMBINATION OF TWO  OR MORE GENERATING U NITS OR 
+FACILITIES THAT SATI SFY ITEM (III) OF THIS PARAGRAPH . 
+ 
+7–207.1.  
+ 
+ (a) In this sec tion, “generating station” does not include:  
+ 
+  (1) a generating unit or facility that:  
+ 
+   (i) is used for the production of electricity;  
+ 
+   (ii) has the capacity to produce not more than 2 megawatts of 
+alternating current; and  
+ 
+   (iii) is installed wit h equipment that prevents the flow of electricity 
+to the electric grid during time periods when the electric grid is out of service; [or] 
+ 
+  (2) a combination of two or more generating units or facilities that:  
+ 
+   (i) are used for the production of electr icity from a solar photovoltaic 
+system or an eligible customer –generator that is subject to the provisions of § 7 –306 of this 
+title;  
+ 
+ WES MOORE, Governor  Ch. 411  
+ 
+– 5 –    (ii) are located on the same property or adjacent properties;  
+ 
+   (iii) have the capacity to produce, when calculated c umulatively for 
+all generating units or facilities on the property or adjacent property, more than 2 
+megawatts but not more than 14 megawatts of alternating current; and  
+ 
+   (iv) for each individual generating unit or facility:  
+ 
+    1. has the capacity to produce not more than 2 megawatts of 
+alternating current;  
+ 
+    2. is separately metered by the electric company; and  
+ 
+    3. does not export electricity for sale on the wholesale market 
+under an agreement with PJM Interconnection, LLC ; 
+ 
+  (3) A GENERATING UNIT OR FACILITY THA T: 
+ 
+   (I) IS USED FOR THE PROD UCTION OF ELECTRICIT Y FOR THE 
+PURPOSE OF : 
+ 
+    1. ONSITE EMERGENCY BAC KUP AT A FACILITY WH EN 
+SERVICE FROM THE ELE CTRIC COMPANY IS INT ERRUPTED DUE TO ELECTRIC 
+DISTRIBUTION OR TRAN SMISSION SYSTEM FAIL URE OR WHEN THERE IS EQUIPM ENT 
+FAILURE AT A SITE WH ERE CRITICAL INFRAST RUCTURE IS LOCATED ; AND  
+ 
+    2. TEST AND MAINTENANCE  OPERATIONS NECESSARY  
+TO ENSURE FUNCTIONAL ITY OF THE GENERATIN G UNIT OR FACILITY I N THE EVENT 
+OF A SERVICE INTERRU PTION FROM THE ELECT RIC CO MPANY DUE TO ELECTRIC 
+DISTRIBUTION OR TRAN SMISSION SYSTEM FAIL URE OR WHEN THERE IS  EQUIPMENT 
+FAILURE AT A SITE WH ERE CRITICAL INFRAST RUCTURE IS LOCATED ;  
+ 
+   (II) IS INSTALLED WITH EQ UIPMENT THAT PREVENT S THE FLOW 
+OF ELECTRICITY TO TH E ELECTRIC GRID ; AND  
+ 
+   (III) IS SUBJECT TO A PERM IT TO CONSTRUCT ISSU ED BY THE 
+DEPARTMENT OF THE ENVIRONMENT ; OR AND  
+ 
+   (IV) IS INSTALLED AT A FA CILITY THAT IS PART OF CRITICAL 
+INFRASTRUCTURE IF TH E FACILITY COMPLIES WITH ALL APPLICABLE 
+REGULATIONS REGARDIN G NOISE LEVEL AND TESTING HOURS ; OR  
+ 
+  (4) A COMBINATION OF TWO  OR MORE GENERATING U NITS OR 
+FACILITIES THAT SATI SFY ITEM (3) OF THIS SUBSECTION .  
+ 
+Ch. 411  2024 LAWS OF MARYLAND   
+ 
+– 6 – 7–207.2.  
+ 
+ (a) In this section, “generating station” does not include:  
+ 
+  (1) a generating unit or facility that:  
+ 
+   (i) is used for the production of electricity;  
+ 
+   (ii) has the capacity to produce not more than 2 megawatts of 
+alternating current; and  
+ 
+   (iii) is installed with equipment that prevents the flow of electricity 
+to the electric grid during time periods when the  electric grid is out of service; [or] 
+ 
+  (2) a combination of two or more generating units or facilities that:  
+ 
+   (i) are used for the production of electricity from a solar photovoltaic 
+system or an eligible customer –generator that is subject to the pro visions of § 7 –306 of this 
+title;  
+ 
+   (ii) are located on the same property or adjacent properties;  
+ 
+   (iii) have the capacity to produce, when calculated cumulatively for 
+all generating units or facilities on the property or adjacent property, more than 2 
+megawatts but not more than 14 megawatts of alternating current; and  
+ 
+   (iv) for each individual generating unit or facility:  
+ 
+    1. has the capacity to produce not more than 2 megawatts of 
+alternating current;  
+ 
+    2. is separately metered by the elec tric company; and  
+ 
+    3. does not export electricity for sale on the wholesale market 
+under an agreement with PJM Interconnection, LLC ; 
+ 
+  (3) A GENERATING UNIT OR  FACILITY THAT : 
+ 
+   (I) IS USED FOR THE PROD UCTION OF ELECTRICIT Y FOR THE 
+PURPOSE OF : 
+ 
+    1. ONSITE EMERGENCY BAC KUP AT A FACILITY WH EN 
+SERVICE FROM THE ELE CTRIC COMPANY IS INT ERRUPTED DUE TO ELECTRIC 
+DISTRIBUTION OR TRAN SMISSION SYSTEM FAIL URE OR WHEN THERE IS  EQUIPMENT 
+FAILURE AT A SITE WH ERE CRITICAL INFRAST RUCTURE IS LOCATED ; AND  
+ WES MOORE, Governor  Ch. 411  
+ 
+– 7 –  
+    2. TEST AND MAINTENANCE  OPERATIONS NECESSARY  
+TO ENSURE FUNCTIONAL ITY OF THE GENERATIN G UNIT OR FACILITY I N THE EVENT 
+OF A SERVICE INTERRU PTION FROM THE ELECT RIC COMPANY DUE TO ELECTRIC 
+DISTRIBUTION OR TRAN SMISSION SYSTEM FAIL URE OR WHEN THERE IS  EQUIPMENT 
+FAILURE AT A SITE WHERE  CRITICAL INFRASTRUCT URE IS LOCATED ;  
+ 
+   (II) IS INSTALLED WITH EQ UIPMENT THAT PREVENT S THE FLOW 
+OF ELECTRICITY TO TH E ELECTRIC GRID ; AND  
+ 
+   (III) IS SUBJECT TO A PERM IT TO CONSTRUCT ISSU ED BY THE 
+DEPARTMENT OF THE ENVIRONMENT ; OR AND  
+ 
+   (IV) IS INSTALLED AT A FA CILITY THAT IS PART OF CRITICAL 
+INFRASTRUCTURE IF TH E FACILITY COMPLIES WITH ALL APPLICABLE 
+REGULATIONS REGARDIN G NOISE LEVEL AND TE STING HOURS ; OR  
+ 
+  (4) A COMBINATION OF TWO  OR MORE GENERATING U NITS OR 
+FACILITIES THAT SATI SFY ITEM (3) OF THIS SUBSECTION .  
+ 
+7–207.3.  
+ 
+ (A) (1) ON OR BEFORE DECEMBER 1, 2025,  AND EACH DECEMBER 1 
+THEREAFTER , THE OWNER OR OPERATO R OF A GENERATING UN IT OR FACILITY 
+SPECIFIED UNDER § 7–207( A)(4)( III) OF THIS SUBTITLE SHA LL SUBMIT TO THE 
+DEPARTMENT OF  THE ENVIRONMENT A REPORT THAT INCLUDES : 
+ 
+   (I) DATES ON WHICH THE G ENERATING UNIT OR FA CILITY WAS 
+USED FOR THE PREVIOU S 12 MONTHS ; 
+ 
+   (II) THE LENGTH OF TIME T HE GENERATING UNIT O R FACILITY 
+WAS OPERATED FOR THE  PREVIOUS 12 MONTHS ; AND  
+ 
+   (III) FOR EACH  INSTANCE THAT THE GE NERATING UNIT OR 
+FACILITY WAS OPERATE D OVER THE PREVIOUS 12 MONTHS , THE REASON THE 
+GENERATING UNIT OR F ACILITY WAS OPERATED . 
+ 
+  (2) UNLESS THE DEPARTMENT OF THE ENVIRONMENT DETERMINE S 
+THAT THE REPORT REQU IRED UNDER PARAGRAPH  (1) OF THI S SUBSECTION POSES 
+A RISK TO CYBERSECUR ITY, NATIONAL SECURITY , OR THE SECURITY OF T HE STATE , 
+THE REPORT : 
+ 
+   (I) SHALL BE MADE PUBLIC LY AVAILABLE ; AND  
+ 
+Ch. 411  2024 LAWS OF MARYLAND   
+ 
+– 8 –    (II) MAY NOT BE REDACTED . 
+ 
+ (B) ON OR BEFORE DECEMBER 1, 2025,  AND EVERY 2 YEARS THEREAFTER , 
+THE MARYLAND ENERGY ADMINISTRATION , IN CONSULTATION WITH  THE 
+DEPARTMENT OF COMMERCE AND INDUSTRY  REPRESENTATIVES SELE CTED BY THE 
+DEPARTMENT OF COMMERCE , SHALL , IN ACCORDANCE WITH § 2–1257  OF THE 
+STATE GOVERNMENT ARTICLE , SUBMIT A REPORT TO T HE GENERAL ASSEMBLY  
+DETAILING : 
+ 
+  (1) ADVANCEMENTS IN BACK UP GENERATION TECHNO LOGIES ; 
+ 
+  (2) THE COMMERCIAL AVAIL ABILITY OF NEW BACKU P GENERATION 
+TECHNOLOGIES THAT CA N BE PROCURED ; AND  
+ 
+  (3) THE AFFORDABILITY OF  ADOPTING NEW BACKUP GENERATION 
+TECHNOLOGIES .  
+ 
+7–208. 
+ 
+ (a) (1) In this section the following words have the meanings indicated.  
+ 
+  (2) “Construction” has the meaning stated in § 7 –207 of this subtitle.  
+ 
+  (3) “GENERATING STATION ” DOES NOT INCLUDE :  
+ 
+   (I) A GENERATING UNIT OR  FACILITY THAT : 
+ 
+    1. IS USED FOR THE PRODUCTION OF ELECTR ICITY FOR 
+THE PURPOSE OF : 
+ 
+    A. ONSITE EMERGENCY BAC KUP AT A FACILITY WH EN 
+SERVICE FROM THE ELE CTRIC COMPANY IS INT ERRUPTED DUE TO ELECTRIC 
+DISTRIBUTION OR TRAN SMISSION SYSTEM FAIL URE OR WHEN THERE IS  EQUIPMENT 
+FAILURE AT A SITE WH ERE  CRITICAL INFRASTRUCT URE IS LOCATED ; AND  
+ 
+    B. TEST AND MAINTENANCE  OPERATIONS NECESSARY  
+TO ENSURE FUNCTIONAL ITY OF THE GENERATIN G UNIT OR FACILITY I N THE EVENT 
+OF AN INTERRUPTION O F SERVICE FROM THE E LECTRIC COMPANY DUE TO 
+ELECTRIC DISTRIBUTIO N OR TRANS MISSION SYSTEM FAILU RE OR WHEN THERE IS 
+EQUIPMENT FAILURE AT  A SITE WHERE CRITICA L INFRASTRUCTURE IS LOCATED ;  
+ 
+    2. IS INSTALLED WITH EQ UIPMENT THAT PREVENT S THE 
+FLOW OF ELECTRICITY TO THE ELECTRIC GRID ; AND  
+ 
+ WES MOORE, Governor  Ch. 411  
+ 
+– 9 –     3. IS SUBJECT TO A PERM IT TO CONSTRUCT ISSU ED BY 
+THE DEPARTMENT OF THE ENVIRONMENT ; OR AND  
+ 
+    4. IS INSTALLED AT A FA CILITY THAT IS PART OF 
+CRITICAL INFRASTRUCT URE IF THE FACILITY COMPLIES WITH ALL AP PLICABLE 
+REGULATIONS REGARDIN G NOISE LEVEL AND TE STING HO URS; OR  
+ 
+   (II) A COMBINATION OF TWO  OR MORE GENERATING U NITS OR 
+FACILITIES THAT SATI SFY ITEM (I) OF THIS PARAGRAPH .  
+ 
+  [(3)] (4) “Qualified offshore wind project” has the meaning stated in §  
+7–701 of this title.  
+ 
+  [(4)] (5) “Qualified submerged renewable energy line” means:  
+ 
+   (i) a line carrying electricity supply and connecting a qualified 
+offshore wind project to the transmission system; and  
+ 
+   (ii) a line in which the portions of the line crossing any submerged 
+lands or any part of a beach erosion control district are buried or submerged.  
+ 
+Article – State Government  
+ 
+9–20B–05. 
+ 
+ (a) There is a Maryland Strategic Energy Investment Fund.  
+ 
+ (e) The Fund consists of:  
+ 
+  (1) all of the proceeds from the sale of allowances under § 2 –1002(g) of the  
+Environment Article;  
+ 
+  (2) money appropriated in the State budget to the Program;  
+ 
+  (3) repayments and prepayments of principal and interest on loans made 
+from the Fund;  
+ 
+  (4) interest and investment earnings on the Fund;  
+ 
+  (5) compliance fees paid un der § 7–705 of the Public Utilities Article;  
+ 
+  (6) money received from any public or private source for the benefit of the 
+Fund; [and] 
+ 
+  (7) money transferred from the Public Service Commission under §  
+7–207.2(c)(3) of the Public Utilities Article ; AND  
+Ch. 411  2024 LAWS OF MARYLAND   
+ 
+– 10 –  
+  (8) MONEY DISTRIBUTED UN DER § 2–614.1  OF THE TAX – GENERAL 
+ARTICLE . 
+ 
+Article – Tax – General  
+ 
+2–614.1.  
+ 
+ (A) IN THIS SECTION , “QUALIFIED DATA CENTE R” HAS THE MEANING 
+STATED IN § 11–239 OF THIS ARTICLE . 
+ 
+ (B) AFTER MAKING THE DIST RIBUTIONS REQUIRED U NDER §§ 2–613,   
+2–613.1,  AND 2–614 OF THIS SUBTITLE , THE COMPTROLLER SHALL DIS TRIBUTE 15%  
+OF THE REMAINING INC OME TAX REVENUE FROM  CORPORATIONS THAT IS  
+ATTRIBUTABLE TO QUAL IFIED DATA CENTERS T HAT ARE OPERATIONAL ON OR AFTER 
+JANUARY 1, 2026,  TO THE STRATEGIC ENERGY INVESTMENT FUND ESTABLISHED 
+UNDER § 9–20B–05 OF THE STATE GOVERNMENT ARTICLE . 
+ 
+2–615. 
+ 
+ After making the distributions required under §§ 2 –613, 2–613.1, [and] 2–614, AND 
+2–614.1  of this subtitle, the Comptroller shall distribute the remaining income tax revenue 
+from corporations to the General Fund of the State.  
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 
+1, 2024.  
+ 
+Approved by the Governor, May 9, 2024.  

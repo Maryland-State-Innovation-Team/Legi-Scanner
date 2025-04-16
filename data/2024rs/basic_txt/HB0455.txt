@@ -1,0 +1,360 @@
+ WES MOORE, Governor  Ch. 729  
+ 
+– 1 – Chapter 729  
+(House Bill 455 ) 
+ 
+AN ACT concerning  
+ 
+Comptroller – Electronic Tax and Fee Return Filing Requirements  
+ 
+FOR the purpose of requiring that returns for certain taxes and fees collected by the 
+Comptroller be filed electronically, subject to certain exceptions; altering certain 
+requirements for electronic filing of returns for certain taxes; prohibiting a certai n 
+tax return preparer or software company from charging a separate fee for the 
+electronic filing of certain tax documents; prohibiting a software company from 
+selling different versions of the same tax software under certain circumstances;  and 
+generally re lating to electronic filing of tax and fee returns.  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Environment  
+Section 9 –228(g)(4) and 9 –1605.2(e)(1)  
+ Annotated Code of Maryland  
+ (2014 Replacement Volume and 2023 Supplement)  
+ 
+BY adding to  
+ Article – Tax – General  
+Section 1 –208, 2 –118, 5 –201(f), 7.5 –201(d), 9 –308(e), 10 –809.1, 10 –812.1, 10 –819.1, 
+11–502.2, and 12 –202.1  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Tax – General  
+Section 4 –201, 10 –817, and 10 –824  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing  
+ Article – Tax – General  
+ Section 5 –201(f) and 9 –308(e)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume  and 2023 Supplement)  
+ 
+BY adding to  
+ Article – Tax – General  
+Section 5 –201(f), 7.5 –201(d), 9 –207(c), 9 –308(e), 10 –809.1, 10 –812.1, 10 –819.1,  
+11–502.2, and 12 –202.1  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2023 Supplement)  
+Ch. 729  2024 LAWS OF MARYLAND   
+ 
+– 2 –  
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Environment  
+ 
+9–228. 
+ 
+ (g) (4) (I) Each tire dealer shall:  
+ 
+   [(i)] 1. Pay the tire recycling fee; and  
+ 
+   [(ii)] 2. Complete and submit, under oath, a return and remit the 
+fees to the Comptroller of the Treasury on or before the 21st day of the month that follows 
+the month in which the sale was made, and for other periods and on other dates that the 
+Comptroller specifies by regulation, including periods for which no fees were due.  
+ 
+   (II) BEGINNING IN CALENDAR  YEAR 2026  FOR PERIODS 
+BEGINNING AFTER DECEMBER 31, 2026 , A PERSON SHALL FILE A TIRE RECYCLING 
+FEE RETURN ELECTRONI CALLY .  
+ 
+9–1605.2.  
+ 
+ (e) (1) (I) A local government, the billing authority for a wa ter or 
+wastewater facility, or any other authorized collecting agency shall complete and submit, 
+under oath, a return and remit the restoration fees collected to the Comptroller:  
+ 
+   [(i)] 1. On or before the 20th day of the month that follows the 
+calendar  quarter in which the restoration fee was collected; and  
+ 
+   [(ii)] 2. For other periods and on other dates that the Comptroller 
+may specify by regulation, including periods in which no restoration fee has been collected.  
+ 
+   (II) BEGINNING IN CALENDAR  YEA R 2026  FOR PERIODS 
+BEGINNING AFTER DECEMBER 31, 2026 , A PERSON SHALL FILE A BAY 
+RESTORATION FEE RETURN ELECTRONIC ALLY .  
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 
+as follows:  
+ 
+Article – Tax – General  
+ 
+1–208.  
+ 
+ WES MOORE, Governor  Ch. 729  
+ 
+– 3 –  (A) (1) IN THIS SECTION THE FOLLOWIN G WORDS HAVE THE MEA NINGS 
+INDICATED . 
+ 
+  (2) “AUTHORIZED TAX DOCUME NT” MEANS A TAX DOCUMENT  THAT 
+THE COMPTROLLER HAS AUTHO RIZED OR REQUIRES TO  BE FILED 
+ELECTRONICALLY . 
+ 
+  (3) “SOFTWARE COMPANY ” MEANS A DEVELOPER OF  TAX SOFTWARE . 
+ 
+  (4) “TAX” MEANS A TAX OR ANY O THER MATTER ADMINIST ERED BY 
+THE COMPTROLLER IN ACCORD ANCE WITH THIS ARTIC LE OR ANY OTHER 
+PROVISION OF LAW . 
+ 
+  (5) “TAX DOCUMENT ” MEANS A RETURN , A REPORT , OR ANY OTHER 
+DOCUMENT RELATING TO  A TAX . 
+ 
+  (6) (I) “TAX RETURN PREPARER ” MEANS A PERSON WHO 
+PREPARES FOR COMPENS ATION , OR WHO EMPLOYS OR EN GAGES ONE OR MORE 
+PERSONS TO PREPARE F OR COMPENSATION , AN AUTHORIZED TAX DO CUMENT . 
+ 
+   (II) “TAX RETURN PREPARER ” INCLUDES A PAYROLL S ERVICE . 
+ 
+  (7) (I) “TAX SOFTWARE ” MEANS A COMPUTER SOF TWARE 
+PROGRAM INTENDED FOR  TAX RETURN PREPARATI ON PURPOSES . 
+ 
+   (II) “TAX SOFTWARE ” INCLUDES AN OFF –THE–SHELF 
+SOFTWARE PROGRAM LOA DED ONTO A TAX RETUR N PREPARER ’S OR TAXPAYER ’S 
+COMPUTER OR AN ONLIN E TAX PREPARATION AP PLICATION . 
+ 
+ (B) (1) A TAX RETURN PREPAR ER OR A SOFTWARE COM PANY MAY NOT 
+CHARGE A SEPARATE FE E FOR THE ELECTRONIC  FILING OF AUTHORIZED  TAX 
+DOCUMENTS . 
+ 
+  (2) A SOFTWARE COMPANY MAY  NOT SELL A VERSION O F THE 
+COMPANY ’S TAX SOFTWARE THAT CHARGES A SEPARATE F EE FOR THE ELECTRONI C 
+FILING OF AUTHORIZED  TAX DOCUMENTS AND A VERSION OF THE SAME TAX 
+SOFTWARE THAT DOES N OT CHARGE THE SEPARA TE FEE . 
+ 
+ (C) (1) THE COMPTROLLER SHALL IMP OSE AGAINST A TAX RE TURN 
+PREPARER OR SOFTWARE  COMPANY THAT VIOLATE S THIS SECTION A CIV IL PENALTY 
+OF: 
+ 
+   (I) $500  FOR A FIRST VI OLATION ; OR 
+ 
+Ch. 729  2024 LAWS OF MARYLAND   
+ 
+– 4 –    (II) $1,000  FOR A SECOND OR SUBS EQUENT VIOLATION . 
+ 
+  (2) FOR THE PURPOSES OF T HIS SUBSECTION , EACH TRANSACTION IN 
+WHICH A CUSTOMER IS CHARGED A PROHIBITED  FEE OR EACH SALE TO A CUSTOMER 
+OF TAX SOFTWARE THAT  CHARGES A PROHIBITED  FEE IS AN IN DEPENDENT 
+VIOLATION . 
+ 
+  (3) BEFORE A CIVIL PENALT Y IS IMPOSED UNDER T HIS SUBSECTION , 
+THE COMPTROLLER SHALL PRO VIDE TO THE PERSON A GAINST WHOM THE CIVI L 
+PENALTY WILL BE IMPO SED NOTICE OF THE AL LEGED VIOLATION AND AN 
+OPPORTUNITY FOR A HE ARING . 
+ 
+  (4) A PERSON AGAINST WHOM A CIVIL PENALTY IS I MPOSED UNDER 
+THIS SUBSECTION MAY SEEK REVIEW OF THE P ENALTY UNDER TITLE 10, SUBTITLE 
+2 OF THE STATE GOVERNMENT ARTICLE . 
+ 
+  (5) EACH CIVIL PENALTY SH ALL BE PAID INTO THE  GENERAL FUND 
+OF THE STATE . 
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 
+as follows:  
+ 
+Article – Tax – General  
+ 
+2–118.  
+ 
+ NOTWITHSTANDING ANY O THER PROVISION OF LA W, A PERSON IS NOT 
+REQUIRED TO FILE A R ETURN , SCHEDULE , OR REPORT WITH THE COMPTROLLER 
+ELECTRONICALLY IF : 
+ 
+  (1) THE PERSON HAS A DISABIL ITY, AS DEFINED IN THE AMERICANS 
+WITH DISABILITIES ACT;  
+ 
+  (2) THE PERSON HAS RELIG IOUS BELIEFS THAT PR OHIBIT THE 
+PERSON ’S USE OF ELECTRONIC FILING TECHNOLOGY ; OR  
+ 
+  (3) THE PERSON IS DETERM INED BY THE COMPTROLLER TO HAVE A  
+SPECIAL NEED TO FILE A PAPER  RETURN , SCHEDULE , OR REPORT .  
+ 
+4–201. 
+ 
+ (A) A person shall complete, under oath, and file with the Comptroller the 
+admissions and amusement tax return:  
+ 
+ WES MOORE, Governor  Ch. 729  
+ 
+– 5 –   (1) on or before the 10th day of the month that follows the month in which 
+the person has gross receipts subject to the admissions and amusement tax; and  
+ 
+  (2) for other periods and on other dates that the Comptroller specifies by 
+regulation, including periods in which the person has no gross receipts subject to the tax.  
+ 
+ (B) BEGIN NING IN CALENDAR YEA R 2026  FOR PERIODS BEGINNING  AFTER 
+DECEMBER 31, 2026 , A PERSON SHALL FILE THE ADMISSIONS AND A MUSEMENT TAX 
+RETURN ELECTRONICALL Y.  
+ 
+5–201. 
+ 
+ [(f) On or before January 1, 2018, the Comptroller shall develop and implement 
+procedures for t he electronic filing of the alcoholic beverage tax returns required to be filed 
+under this section. ]  
+ 
+ (F) BEGINNING IN CALENDAR  YEAR 2026  FOR PERIODS BEGINNING  AFTER 
+DECEMBER 31, 2026 , A PERSON SHALL FILE AN ALCOHOLIC BEVERAG E TAX RETURN 
+ELECTRONICALLY . 
+ 
+7.5–201. 
+ 
+ (D) BEGINNING IN CALENDAR  YEAR 2026  FOR PERIODS BEGINNING  AFTER 
+DECEMBER 31, 2026 , A PERSON SHALL FILE A DIGITAL ADVERTISIN G GROSS 
+REVENUES TAX RETURN ELECTRONICALLY .  
+ 
+9–207. 
+ 
+ (C) BEGINNING IN CALENDAR  YEAR 2026,  A PERSON SHALL FILE A MOTOR  
+CARRIER TAX RETURN E LECTRONICALLY .  
+ 
+9–308. 
+ 
+ [(e) (1) The Comptroller by regulation may require each person that is required 
+to file a return under this section to file the return through electronic means.  
+ 
+  (2) A regulation adopted under this subsection : 
+ 
+   (i) shall include an exemption from electronic filing for persons that 
+do not have access to means of transmitting data electronically; and  
+ 
+   (ii) shall include provisions for the periodic affirmation and 
+verification of the information that is sub mitted electronically. ] 
+ 
+Ch. 729  2024 LAWS OF MARYLAND   
+ 
+– 6 –  (E) BEGINNING IN CALENDAR  YEAR 2026  FOR PERIODS BEGINNING  AFTER 
+DECEMBER 31, 2026 , A PERSON SHALL FILE A MOTOR FUEL TAX RET URN 
+ELECTRONICALLY .  
+ 
+10–809.1.  
+ 
+ (A) EXCEPT AS PROVIDED IN  SUBSECTION (B) OF THIS SECTION , FOR A 
+TAXABLE Y EAR BEGINNING AFTER DECEMBER 31, 2029,  AN INDIVIDUAL SHALL FILE 
+AN INCOME TAX RETURN  ELECTRONICALLY .  
+ 
+ (B) AN INDIVIDUAL IS NOT REQUIRED TO FILE AN INCOME TAX RETURN 
+ELECTRONICALLY IF TH E INDIVIDUAL : 
+ 
+  (1) IS AT LEAST 65 YEARS OLD AS OF DECEMBER 31 OF TH E TAXABLE 
+YEAR FOR WHICH THE R ETURN IS BEING FILED ; 
+ 
+  (2) IS SINGLE OR A DEPENDENT TAXPA YER AND THE INDIVIDUAL ’S 
+MARYLAND ADJUSTED GRO SS INCOME IS LESS TH AN $200,000;   
+ 
+  (3) IS MARRIED FILING SE PARATELY , A HEAD OF HOUSEHOLD , OR A 
+QUALIFYING WIDOW OR WIDOWER WITH A DEPEN DENT CHILD AND THE MARYLAND 
+ADJUSTED GROSS INCOM E OF THE INDIVIDUAL IS LESS THAN $400,000;  OR  
+ 
+  (4) IS MARRIED FILING JO INTLY AND THE MARYLAND ADJUSTED 
+GROSS INCOME OF THE INDIVI DUAL AND THE INDIVID UAL’S SPOUSE IS LESS THA N 
+$400,000 ; OR  
+ 
+  (5) HAS A DISABILITY AS DEFINED IN THE FEDER AL AMERICANS WITH  
+DISABILITIES ACT.  
+ 
+10–812.1.  
+ 
+ (A) EXCEPT AS PROVIDED IN  SUBSECTION (B) OF THIS SECTION , FOR A 
+TAXABLE YEAR BEGINNI NG AFTER DECEMBER 31, 2025  2026 , A CORPORATION 
+SHALL FILE AN INCOME  TAX RETURN ELECTRONI CALLY .  
+ 
+ (B) A CORPORATION WITH FEW ER THAN 15 EMPLOYEES IS NOT REQ UIRED 
+TO FILE AN INCO ME TAX RETURN ELECTR ONICALLY .  
+ 
+10–817. 
+ 
+ (A) A person required to withhold income tax under § 10 –906 of this title shall file 
+an income tax withholding return.  
+ 
+ WES MOORE, Governor  Ch. 729  
+ 
+– 7 –  (B) FOR A TAXABLE YEAR BE GINNING AFTER DECEMBER 31, 2025  2026 , A 
+PERSON SHALL FILE AN  INCOME TAX WITHHOLDI NG RETURN ELECTRONIC ALLY .  
+ 
+10–819.1.  
+ 
+ (A) IN THIS SECTION , “PASS–THROUGH ENTITY ” HAS THE MEANING STAT ED 
+IN § 10–102.1  OF THIS TITLE .  
+ 
+ (B) FOR A TAXABLE YEAR BE GINNING AFTER DECEMBER 31, 2025  2026 , A  
+PASS–THROUGH ENTITY SHALL F ILE AN INCOME TAX RE TURN ELECTRONICALLY .  
+ 
+10–824. 
+ 
+ (a) (1) In this section the following words have the meanings indicated.  
+ 
+  (2) (i) “Income tax return preparer” means a person who for 
+compensation prepares a substantial portion or more of a qualified return or employs one 
+or more persons to prepare for compensation a substantial portion or more of a qualified 
+return.  
+ 
+   (ii) “Income tax return preparer” does not include a person who 
+merely performs those acts described under § 7701(a)(36)(B) of the Internal Revenue Code.  
+ 
+  (3) “Qualified return” means any original return of individual income tax 
+imposed by this title, regardless of whether a tax is due or a refund is claimed.  
+ 
+ (b) [Except ] SUBJECT TO § 10–809.1  OF THIS SUBTITL E AND EXCEPT  as 
+otherwise provided in this section, an income tax return preparer shall file all qualified 
+returns that the income tax return preparer prepares by electronic means as prescribed by 
+the Comptroller if [: 
+ 
+  (1) for a taxable year beginning af ter December 31, 2008, but before 
+January 1, 2010, the income tax return preparer has prepared more than 300 qualified 
+returns in the prior taxable year;  
+ 
+  (2) for a taxable year beginning after December 31, 2009, but before 
+January 1, 2011, the income ta x return preparer has prepared more than 200 qualified 
+returns in the prior taxable year; and  
+ 
+  (3) for any taxable year beginning after December 31, 2010, ] the income 
+tax return preparer has prepared more than 100 qualified tax returns in the prior taxab le 
+year.  
+ 
+ (c) [Subsection ] SUBJECT TO § 10–809.1  OF THIS SUBTITLE , SUBSECTION  (b) 
+of this section does not apply to a qualified return if:  
+ 
+Ch. 729  2024 LAWS OF MARYLAND   
+ 
+– 8 –   (1) the taxpayer has indicated on the qualified return that the taxpayer 
+does not want the return filed by electronic means; or  
+ 
+  (2) the income tax return preparer preparing the qualified return has 
+requested and received a waiver from the Comptroller.  
+ 
+ (d) [On] SUBJECT TO § 10–809.1  OF THIS SUBTITLE , ON written request for a 
+waiver by an income tax return p reparer who is subject to subsection (b) of this section, the 
+Comptroller may grant the income tax return preparer a waiver of the requirements of this 
+section if the income tax return preparer is able to establish to the satisfaction of the 
+Comptroller ei ther reasonable cause for not filing the return by electronic means or that 
+there is no feasible means of filing the return by electronic means without undue hardship.  
+ 
+11–502.2.  
+ 
+ BEGINNING IN CALENDAR  YEAR 2026  FOR PERIODS BEGINNING  AFTER 
+DECEMBER 31, 2026, A PERSON SHALL FILE A SALES AND USE TAX RETURN 
+ELECTRONICALLY .  
+ 
+12–202.1.  
+ 
+ BEGINNING IN CALENDAR  YEAR 2026  FOR PERIODS BEGINNING  AFTER 
+DECEMBER 31, 2026 , A PERSON SHALL FILE A TOBACCO TAX RETURN  
+ELECTRONICALLY .  
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED, That Section 2 of this Act shall take 
+effect January 1, 2030.  
+ 
+ SECTION 2. 5. AND BE IT FURTHER ENACTED, That , except as provided in 
+Section 4 of this Act,  this Act shall take effect July 1, 2024.  
+ 
+Approved by the Governor, May 16, 2024.  

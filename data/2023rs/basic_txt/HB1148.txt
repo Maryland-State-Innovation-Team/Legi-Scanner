@@ -1,0 +1,904 @@
+ WES MOORE, Governor  Ch. 291  
+ 
+– 1 – Chapter 291  
+(House Bill 1148 ) 
+ 
+AN ACT concerning  
+ 
+Behavioral Health Care – Treatment and Access  
+(Behavioral Health Model for Maryland)  
+ 
+FOR the purpose of establishing the Commission on Behavioral Health Care Treatment 
+and Access to make recommendations to provide appropriate, accessible, and 
+comprehensive behavioral health services that are available on demand  to 
+individuals in the State across the behavioral health continuum that are available 
+on demand ; establishing the Behavioral Health Care Coordination Value –Based 
+Purchasing Pilot Program in the Maryland Department of Health to establish and 
+implement an intensive care coordination model using value –based purchasing in 
+the specialty behavioral health system; requiring , on or before a certain date,  the 
+Department to submit a State plan amendment to the Centers for Medicare and 
+Medicaid Services to establish certified community behavio ral health clinics  apply 
+for certain federal planning grant funds; requiring the Department to apply to 
+participate in a certain demonstration program ; extending to a certain date the 
+inclusion of certain audio –only telephone conversations in the definitio n of 
+“telehealth” in the Maryland Medical Assistance Program and certain requirements 
+related to the provision of reimbursement for health care services appropriately 
+provided through telehealth by the Program and certain insurers, nonprofit health 
+service  plans, and health maintenance organizations; requiring the Maryland 
+Health Care Commission to study and make recommendations regarding the 
+delivery of health care services through telehealth, including payment parity for the 
+delivery of health care servic es through audiovisual and audio –only telehealth 
+technologies;  and generally relating to behavioral health care treatment and access.  
+ 
+BY adding to  
+ Article – Health – General  
+Section 13 –4801 through 13 –4807 to be under the new subtitle “Subtitle 48. 
+Commission on Behavioral Health Care Treatment and Access”; and 13–4901 
+through 13 –4907 to be under the new subtitle “Subtitle 49. Behavioral Health 
+Care Coordination Value –Based Pu rchasing Pilot Program” ; and 15 –141.5  
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2022 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Health – General  
+Section 15 –141.2  
+ Annotated Code of Maryland  
+ (2019 Replacement Volu me and 2022 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+Ch. 291  2023 LAWS OF MARYLAND   
+ 
+– 2 –  Article – Insurance  
+Section 15 –139 
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2022 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the L aws of Maryland read as follows:  
+ 
+Article – Health – General  
+ 
+SUBTITLE 48. COMMISSION ON BEHAVIORAL HEALTH CARE TREATMENT AND 
+ACCESS . 
+ 
+13–4801.  
+ 
+ (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE  THE MEANINGS 
+INDICATED . 
+ 
+ (B) “BEHAVIORAL HEALTH ” INCLUDES SUBSTANCE –RELATED DISORDERS , 
+ADDICTIVE DISORDERS , MENTAL DISORDERS , LIFE STRESSORS AND C RISES , AND 
+STRESS–RELATED PHYSICAL SYM PTOMS . 
+ 
+ (C) “COMMISSION ” MEANS THE COMMISSION ON BEHAVIORAL HEALTH 
+CARE TREATMENT AND ACCESS . 
+ 
+13–4802.  
+ 
+ THERE IS A COMMISSION O N BEHAVIORAL HEALTH CARE TREATMENT AND 
+ACCESS . 
+ 
+13–4803.  
+ 
+ (A) THE COMMISSION CONSISTS O F THE FOLLOWING MEMB ERS: 
+ 
+  (1) ONE MEMBER OF THE SENATE OF MARYLAND , APPOINTED BY THE 
+PRESIDENT OF THE SENATE ; 
+ 
+  (2) ONE MEMBER OF THE HOUSE OF DELEGATES , APPOINTED B Y THE 
+SPEAKER OF THE HOUSE ; 
+ 
+  (3) ONE REPRESENTATIVE OF  MARYLAND ’S CONGRESSIONAL 
+DELEGATION ; 
+ 
+  (4) THE SECRETARY OF HEALTH , OR THE SECRETARY ’S DESIGNEE ; 
+ WES MOORE, Governor  Ch. 291  
+ 
+– 3 –  
+  (5) THE SECRETARY OF HUMAN SERVICES , OR THE SECRETARY ’S 
+DESIGNEE ; 
+ 
+  (6) THE SECRETARY OF JUVENILE  SERVICES , OR THE SECRETARY ’S 
+DESIGNEE ; 
+ 
+  (7) THE DEPUTY SECRETARY FOR BEHAVIORAL HEALTH , OR THE 
+DEPUTY SECRETARY ’S DESIGNEE ; 
+ 
+  (8) THE MARYLAND INSURANCE COMMISSIONER , OR THE 
+COMMISSIONER ’S DESIGNEE ; 
+ 
+  (9) THE EXECUTIVE DIRECTOR OF THE HEALTH SERVICES COST 
+REVIEW COMMISSION , OR THE EXECUTIVE DIRECTOR ’S DESIGNEE ; 
+ 
+  (10) THE EXECUTIVE DIRECTOR OF THE MARYLAND HEALTH CARE 
+COMMISSION , OR THE EXECUTIVE DIRECTOR ’S DESIGNEE ; 
+ 
+  (11) THE EXECUTIVE DIRECTOR OF THE MARYLAND COMMUNITY 
+HEALTH RESOURCES COMMISSION , OR THE EXECUTIVE DIRECTOR ’S DESIGNEE ; 
+ 
+  (12) THE EXECUTIVE DIRECTOR OF THE STATE–DESIGNATED HEALTH 
+INFORMATION EXCHANGE , OR THE EXECUTIVE DIRECTOR ’S DESIGNEE ; 
+ 
+  (13) THE EXECUTIVE DIRECTOR OF THE GOVERNOR ’S OFFICE OF 
+CRIME PREVENTION , YOUTH , AND VICTIM SERVICES , OR THE EXECUTIVE 
+DIRECTOR ’S DESIGNEE ; AND   
+ 
+  (14)  THE SECRETARY OF THE MARYLAND DEPARTMENT OF 
+DISABILITIES , OR THE SECRETARY ’S DESIGNEE ; 
+ 
+  (15)  THE SECRETARY  OF THE DEPARTMENT OF PUBLIC SAFETY AND 
+CORRECTIONAL SERVICES , OR THE SECRETARY ’S DESIGNEE ; 
+ 
+  (16)  THE SPECIAL SECRETARY OF OPIOID RESPONSE , OR THE 
+SPECIAL SECRETARY ’S DESIGNEE ; AND  
+ 
+  (14)  (17) THE FOLLOWING MEMBERS  APPOINTED BY THE 
+GOVERNOR : 
+ 
+   (I) ONE REPRESENTATIVE OF  THE MENTAL HEALTH 
+ASSOCIATION OF MARYLAND ; 
+ 
+Ch. 291  2023 LAWS OF MARYLAND   
+ 
+– 4 –    (II) ONE REPRESENTATIVE OF  THE NATIONAL ALLIANCE ON 
+MENTAL ILLNESS ; 
+ 
+   (III) ONE REPRESENTATIVE OF  THE COMMUNITY BEHAVIORAL 
+HEALTH ASSOCIATION OF MARYLAND ; 
+ 
+   (IV) ONE REPRESENTATIVE OF  A PROVIDER OF RESIDE NTIAL 
+BEHAVIORAL HEALTH SE RVICES ; 
+ 
+   (V) ONE REPRESENTATIVE OF  AN ACUTE CARE HOSPIT AL; 
+ 
+   (VI) ONE REPRESENTATIVE OF  AN INPATIENT PSYCHIA TRIC 
+HOSPITAL ; 
+ 
+   (VII) ONE INDIVIDUAL WITH E XPERIENCE AS A CONSU MER OF 
+BEHAVIORAL HEALTH SE RVICES; 
+ 
+   (VIII) ONE FAMILY MEMBER OF AN INDIVIDUAL WITH 
+EXPERIENCE AS A CONS UMER OF BEHAVIORAL H EALTH SERVICES ; 
+ 
+   (IX) ONE REPRESENTATIVE OF  A PROVIDER OF SUBSTA NCE USE 
+TREATMENT SERVICES ; 
+ 
+   (X) ONE REPRESENTATIVE OF  A SCHOOL –BASED HEALTH 
+CENTER ; 
+ 
+   (XI) ONE INDIVIDUAL WITH E XPERTISE IN SOCIAL 
+DETERMINANTS OF HEAL TH; 
+ 
+   (XII) ONE INDIVIDUAL WITH E XPERTISE IN HEALTH E CONOMICS ; 
+ 
+   (XIII) ONE REPRESENTATIVE OF  A HEALTH INSURANCE C ARRIER ;  
+ 
+   (XIV) ONE REPRESENTATIVE OF  A MANAGED CARE 
+ORGANIZATION ; 
+ 
+   (XV) ONE REPRESENTATIVE FR OM THE OFFICE OF THE PUBLIC 
+DEFENDER ;  
+ 
+   (XVI) ONE REPRESENTATIVE OF  THE DEVELOPMENTAL 
+DISABILITY COALITION ; 
+ 
+   (XVII) ONE REPRESENTATIVE OF  THE MARYLAND CHAPTER OF 
+THE NATIONAL COUNCIL ON ALCOHOLISM AND DRUG DEPENDENCE ;  
+ WES MOORE, Governor  Ch. 291  
+ 
+– 5 –  
+   (XVIII ) ONE REPRESENTATIVE OF  THE MARYLAND 
+PSYCHOLOGICAL ASSOCIATION ; AND   
+ 
+   (XIX) ONE REPRESENTATIVE OF  DISABILITY RIGHTS MARYLAND ; 
+ 
+   (XX) ONE REPRESENTATIVE OF  A FEDERALLY QUALIFIED 
+HEALTH CENTER ; 
+ 
+   (XXI) ONE REPRESENTATIVE OF  A LOCAL BEHAVIORAL HEALTH 
+AUTHORITY ; AND 
+ 
+   (XXII) ONE INDIVIDUAL WITH A N INTELLECTUAL DISAB ILITY WHO 
+USES SELF –DIRECTED BEHAVIORAL HEALTH SERVICES . 
+ 
+ (B) TO THE EXTENT PRACTIC ABLE , THE MEMBERSHIP OF TH E COMMISSION 
+SHALL REFLECT THE GE OGRAPHIC AND ETHNIC DIVERSITY OF THE STATE. 
+ 
+ (C) THE GOVERNOR , THE PRESIDENT OF THE SENATE , AND THE SPEAKER 
+OF THE HOUSE JOINTLY SHALL D ESIGNATE THE CHAIR O F THE COMMISSION . 
+ 
+ (D) THE DEPARTMENT SHALL PROV IDE STAFF FOR THE COMMISSION . 
+ 
+ (E) A MEMBER OF THE COMMISSION : 
+ 
+  (1) MAY NOT RECEIVE COMPENSATION AS A ME MBER OF THE 
+COMMISSION ; BUT 
+ 
+  (2) IS ENTITLED TO REIMBU RSEMENT FOR EXPENSES  UNDER THE 
+STANDARD STATE TRAVEL REGULATIONS , AS PROVIDED IN THE STATE BUDGET . 
+ 
+ (F) THE COMMISSION SHALL MEET  AT LEAST THREE TIMES  PER YEAR AT 
+THE TIMES AND PL ACES DETERMINED BY T HE COMMISSION . 
+ 
+13–4804.  
+ 
+ THE PURPOSE OF THE COMMISSION IS TO MAKE  RECOMMENDATIONS TO 
+PROVIDE APPROPRIATE , ACCESSIBLE , AND COMPREHENSIVE BE HAVIORAL HEALTH 
+SERVICES THAT ARE AVAILABLE O N DEMAND  TO INDIVIDUALS IN TH E STATE ACROSS 
+THE BEHAVIORAL HEALT H CONTINUUM THAT ARE AVAILABLE O N DEMAND . 
+ 
+13–4805.  
+ 
+ THE COMMISSION SHALL : 
+Ch. 291  2023 LAWS OF MARYLAND   
+ 
+– 6 –  
+  (1) CONDUCT AN ASSESSMENT  OF BEHAVIORAL HEALTH  SERVICES IN 
+THE STATE TO IDENTIFY NEE DS AND GAPS IN SERVI CES ACROSS THE CON TINUUM , 
+INCLUDING COMMUNITY –BASED OUTPATIENT AND  SUPPORT SERVICES , CRISIS 
+RESPONSE , AND INPATIENT CARE ; 
+ 
+  (2) EXAMINE THE METHODS F OR REIMBURSING BEHAV IORAL 
+HEALTH CARE SERVICES  IN THE STATE AND MAKE RECOMM ENDATIONS ON THE 
+MOST EFFECTIVE FORMS  OF REIMBURS EMENT TO MAXIMIZE SE RVICE DELIVERY ;  
+ 
+  (3) COMPILE FINDINGS OF STATE–SPECIFIC NEEDS ASSES SMENTS 
+RELATED TO BEHAVIORA L HEALTH CARE SERVIC ES; 
+ 
+  (4) REVIEW RECOMMENDATION S AND REPORTS OF STATE 
+COMMISSIONS , WORKGROUPS , OR TASK FORCES RELAT ED TO BEHAVIORAL HEALTH 
+CARE SERVICES ; 
+ 
+  (5) CONDUCT A NEEDS ASSES SMENT ON THE STATE’S BEHAVIORAL 
+HEALTH CARE WORKFORC E TO IDENTIFY GAPS A ND MAKE RECOMMENDATI ONS TO 
+ENSURE AN ADEQUATE , CULTURALLY COMPETENT , AND DIVERSE  WORKFORCE 
+ACROSS THE BEHAVIORA L HEALTH CARE CONTIN UUM; 
+ 
+  (6) REVIEW TRENDS AND BES T PRACTICES FROM OTH ER STATES 
+REGARDING POLICY AND  REIMBURSEMENT STRATE GIES THAT SUPPORT AC CESS TO 
+A COMPREHENSIVE ARRA Y OF SERVICES AND EN SURE QUALITY OF CARE ; 
+ 
+  (7) EXAMINE AND MAKE RECO MMENDATIONS RELATED TO THE 
+BEHAVIORAL  HEALTH OF THE GERIAT RIC AND YOUTH POPULA TIONS IN THE STATE ; 
+ 
+  (8) EXAMINE AND MAKE RECO MMENDATIONS TO PROVI DE 
+APPROPRIATE AND ADEQ UATE BEHAVIORAL HEAL TH SERVICES TO INDIV IDUALS 
+WITH DEVELOPMENTAL DISABI LITIES AND  COMPLEX BEHAVIORAL H EALTH NEEDS , 
+SPECIFIC ALLY YOUTH ; 
+ 
+  (9) ASSESS THE HEALTH INF RASTRUCTURE , FACILITIES , 
+PERSONNEL , AND SERVICES AVAILAB LE FOR THE STATE’S FORENSIC POPULATIO N 
+AND IDENTIFY DEFICIE NCIES IN RESOURCES A ND POLICIES NEEDED T O PRIORITIZE 
+HEALTH OUTCOMES , INCREASE PUBLIC SAFE TY, AND RED UCE RECIDIVISM ; 
+ 
+  (10) MAKE RECOMMENDATIONS ON EXPANDING BEHAVIO RAL HEALTH 
+TREATMENT ACCESS FOR  THE STATE’S COURT –ORDERED POPULATION ; 
+ 
+ WES MOORE, Governor  Ch. 291  
+ 
+– 7 –   (11) MAKE RECOMMENDATIONS ON ACTION PLANS REGA RDING THE 
+BEHAVIORAL HEALTH CA RE SYSTEM ’S CAPACITY TO PREPAR E FOR AND RESPOND TO  
+FUTURE CHALLENGES AF FECTING THE ENTIRE STATE OR PARTICULAR R EGIONS OR 
+POPULATIONS IN THE STATE , INCLUDING PANDEMICS AND EXTREME WEATHE R 
+EVENTS ; AND  
+ 
+  (12) MAKE RECOMMENDATIONS TO ENSURE THAT BEHAV IORAL 
+HEALTH TREATMENT IS PROVIDED IN THE APPR OPRIATE SETTING , INCLUDING 
+METHODS TO DIVERT BE HAVIORAL HEALTH PATI ENTS FROM EMERGENCY 
+DEPARTMENTS BY USING  THE MARYLAND MENTAL HEALTH AND SUBSTANC E USE 
+DISORDER REGISTRY AND REFERRAL SYSTEM ESTABLISHED UN DER § 7.5–802 OF 
+THIS ARTICLE AND 2–1–1; 
+ 
+  (13) EXAMINE AND REVIEW TH E USE OF HARM REDUCT ION 
+STRATEGIES TO FACILI TATE ACCESS TO CARE ; AND 
+ 
+  (14) EXAMINE METHODS TO AS SIST CONSUMERS IN AC CESSING 
+BEHAVIORAL HEALTH SE RVICES . 
+ 
+13–4806.  
+ 
+ (A) THE COMMISSION SHALL ESTA BLISH THE FOLLOWING WORKGROUPS : 
+ 
+  (1) GERIATRIC BEHAVIORAL HEALTH ; 
+ 
+  (2) YOUTH BEHAVIORAL HEAL TH, INDIVIDUALS WITH 
+DEVELOPMENTAL DISABI LITIES , AND INDIVIDUALS WITH  COMPLEX BEHAVIORAL 
+HEALTH NEEDS ; 
+ 
+  (3) CRIMINAL JUSTICE –INVOLVED BEHAVIORAL HEALTH ; AND 
+ 
+  (4) BEHAVIORAL HEALTH WOR KFORCE DEVELOPMENT , 
+INFRASTRUCTURE , COORDINATION , AND FINANCING . 
+ 
+ (B) THE WORKGROUPS ESTABL ISHED UNDER SUBSECTI ON (A) OF THIS 
+SECTION SHALL MEET A T LEAST TWO T IMES PER YEAR AT THE  TIMES AND PLACES 
+DETERMINED BY THE WO RKGROUP . 
+ 
+ (C) THE WORKGROUPS ESTABL ISHED UNDER SUBSECTI ON (A) OF THIS 
+SECTION SHALL INCLUD E MEMBERS OF THE COMMISSION AND MAY IN CLUDE 
+INDIVIDUALS INVITED BY THE COMMISSION TO SERVE O N THE WORKGROUP . 
+ 
+Ch. 291  2023 LAWS OF MARYLAND   
+ 
+– 8 –  (D) ON OR BEFORE DECEMBER 1 EACH YEAR , BEGINNING IN 2023,  THE 
+WORKGROUPS ESTABLISH ED UNDER SUBSECTION (A) OF THIS SECTION SHAL L 
+REPORT AND MAKE RECO MMENDATIONS TO THE COMMISSION . 
+ 
+13–4807.  
+ 
+ (A) (1) ON OR BEFORE JANUARY 1 EACH YEAR , BEGINNING IN 2024,  THE 
+COMMISSION SHALL REPO RT TO THE GOVERNOR AND , IN ACCORDANCE WITH § 
+2–1257  OF THE STATE GOVERNMENT ARTICLE , THE GENERAL ASSEMBLY ON THE 
+COMMISSION ’S FINDINGS AND RECOM MENDATIONS , INCLUDING FUNDING AN D 
+LEGISLATIVE RECOMMEN DATIONS , THAT ARE CONSISTENT WITH  PROVIDING 
+APPROPRIATE , ACCESSIBLE , AND COMPREHENSIVE BE HAVIORAL HEALTH SERV ICES 
+THAT ARE AVAILABLE O N DEMAND TO INDIVIDU ALS IN THE STATE ACROSS THE 
+BEHAVIORAL HEALTH CO NTINUUM . 
+ 
+  (2) ANY LEGISLATIVE RECOM MENDATIONS INCLUDED IN THE 
+REPORT REQUIRED UNDE R PARAGRAPH (1) OF THIS SUBSECTION T HAT REQUIRE 
+FUNDING SHALL INCLUD E AN ESTIMATE OF THE  FUNDING REQUIRED TO 
+IMPLEMENT THE RECOMM ENDATION AND INFORMA TION THAT SUPPORTS T HE 
+FUNDING ESTIMATE . 
+ 
+ (B) THE REPORT REQUIRED O N OR BEFORE JANUARY 1, 2024,  SHALL 
+INCLUDE  THE FINDINGS OF THE NEEDS ASSESSMENTS RE QUIRED UNDER § 13–4805  
+OF THIS SUBTITLE . 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 
+as follows : 
+ 
+Article – Health – General  
+ 
+SUBTITLE 49. BEHAVIORAL HEALTH CARE COORDINATION VALUE–BASED 
+PURCHASING PILOT PROGRAM . 
+ 
+13–4901.  
+ 
+ (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE  THE MEANINGS 
+INDICATED . 
+ 
+ (B) “BEHAVIORAL HEALTH CAR E COORDINATION ” MEANS A  
+PERSON –CENTERED , TEAM–BASED ACTIVITY DESIG NED TO : 
+ 
+  (1) ASSESS AND MEET THE N EEDS OF AN INDIVID UAL WITH A 
+BEHAVIORAL HEALTH CO NDITION ; AND 
+ 
+ WES MOORE, Governor  Ch. 291  
+ 
+– 9 –   (2) HELP THE INDIVIDUAL N AVIGATE THE HEALTH C ARE SYSTEM 
+EFFECTIVELY AND EFFI CIENTLY . 
+ 
+ (C) “PILOT PROGRAM ” MEANS THE BEHAVIORAL HEALTH CARE 
+COORDINATION VALUE–BASED PURCHASING PILOT PROGRAM . 
+ 
+ (D) “VALUE–BASED  PURCHASING ” MEANS FINANCIALLY IN CENTIVIZING 
+PROVIDERS TO MEET SP ECIFIED OUTCOME MEAS URES . 
+ 
+13–4902.  
+ 
+ THERE IS A BEHAVIORAL HEALTH CARE COORDINATION VALUE–BASED 
+PURCHASING PILOT PROGRAM IN THE DEPARTMENT .  
+ 
+13–4903.  
+ 
+ THE PURPOSE OF THE PILOT PROGRAM IS TO ESTABLISH AND IMP LEMENT AN 
+INTENSIVE CARE COORD INATION MODEL USING VALUE–BASED PURCHASING IN THE 
+SPECIALTY BEHAVIORAL  HEALTH SYSTEM . 
+ 
+13–4904.  
+ 
+ (A) THE DEPARTMENT SHALL ADMI NISTER THE PILOT PROGRAM . 
+ 
+ (B) THE DEPARTMENT SHALL IDEN TIFY AT LEAST 500 ADUL TS WHOSE 
+BEHAVIORAL HEALTH CO NDITION OR FUNCTIONI NG PLACES THEM AT RI SK OF 
+HOSPITAL EMERGENCY D EPARTMENT UTILIZATIO N OR INPATIENT PSYCH IATRIC 
+HOSPITAL ADMISSION . 
+ 
+ (C) THE PILOT PROGRAM SHALL BE OPER ATIONAL FOR A 3–YEAR PERIOD . 
+ 
+ (D) A PROVIDER OR NETWORK OF PROVIDERS SELECTE D TO PARTICIPATE 
+IN THE PILOT PROGRAM SHALL : 
+ 
+  (1) BE LICENSED AND IN GO OD STANDING WITH THE  MARYLAND 
+MEDICAL ASSISTANCE PROGRAM ; 
+ 
+  (2) HAVE EXPERIENCE IN PR OVIDING COMMUNITY –BASED CARE 
+COORDINATION TO SPEC IALTY BEHAVIORAL HEA LTH PROG RAM RECIPIENTS ; 
+ 
+  (3) USE AN ELECTRONIC MED ICAL RECORD FOR DOCU MENTING CARE 
+COORDINATION ACTIVIT IES AND OUTCOMES COL LECTION ; AND 
+ 
+Ch. 291  2023 LAWS OF MARYLAND   
+ 
+– 10 –   (4) HAVE AN AUTOMATED DAT A EXCHANGE WITH THE  
+STATE–DESIGNATED HEALTH IN FORMATION EXCHANGE . 
+ 
+ (E) THE DEPARTMENT SHALL : 
+ 
+  (1) PROVIDE REIMBURSEMENT  ON A PER MEMBER PER MONTH BASIS 
+FOR THE BEHAVIORAL H EALTH CARE COORDINAT ION ACTIVITIES THAT ARE NOT 
+OTHERWISE COVERED BY  THE MARYLAND MEDICAL ASSISTANCE PROGRAM ; 
+ 
+  (2) COLLECT OUTCOMES DATA  ON RECIPIENTS OF HEA LTH CARE 
+SERVICES U NDER THE PILOT PROGRAM ; AND 
+ 
+  (3) EVALUATE THE EFFECTIV ENESS OF THE VALUE –BASED 
+PURCHASING MODEL BY ANALYZING THE FOLLOW ING OUTCOME MEASURES : 
+ 
+   (I) A COMPARISON OF THE FO LLOWING DATA ELEMENT S 
+BEFORE AND AFTER ENR OLLMENT OF RECIPIENT S OF HEALTH CARE SER VICES 
+UNDER THE PILOT PROGRAM : 
+ 
+    1. EMERGENCY DEPARTMENT UTILIZATION FOR BOTH  
+BEHAVIORAL AND SOMAT IC HEALTH PURPOSES ; 
+ 
+    2. INPATIENT HOSPITALIZA TION FOR BOTH 
+BEHAVIORAL AND SOMAT IC HEALTH PURPOSES ; AND 
+ 
+    3. TOTAL HEALTH CARE EXP ENDITURES ; 
+ 
+   (II) OUTCOMES FOR RECIPIEN TS WITH AND WITHOUT PRIMARY 
+CARE SERVICES COORDI NATED BY A BEHAVIORA L HEALTH PROVIDER ; AND 
+ 
+   (III) RECOGNIZED CLINICAL Q UALITY METRICS WHICH  MAY 
+INCLUDE PATIENT EXPE RIENCE MEASURES . 
+ 
+13–4905.  
+ 
+ IF NECESSARY TO IMPLE MENT THE PILOT PROGRAM , THE DEPARTMENT 
+SHALL APPLY TO THE CENTERS FOR MEDICARE AND MEDICAID SERVICES FOR AN 
+AMENDMENT TO THE STATE’S § 1115  HEALTH CHOICE DEMONSTRATION . 
+ 
+13–4906.  
+ 
+ (A) FOR EACH OF FISCAL YE AR 2025,  FISCAL YEAR 2026,  AND FISCAL YEAR 
+2027,  THE GOVERNOR SHAL L INCLUDE IN THE ANN UAL BUDGET BILL AN 
+APPROPRIATION OF $600,000  FOR THE PILOT PROGRAM . 
+ WES MOORE, Governor  Ch. 291  
+ 
+– 11 –  
+ (B) BEGINNING IN FISCAL Y EAR 2026,  THE DEPARTMENT SHALL ALLO CATE 
+A PERCENTAGE OF THE ANNUAL APPROPRIATION  REQUIRED UNDER SUBSE CTION 
+(A) OF THIS SECTION TO REIMBURSEMENT PAID B ASED ON THE ACHIEVEM ENT OF 
+THE OUTCOME MEASURES  DESCRIBED IN § 13–4904( E)(3) OF THIS SUBTITLE . 
+ 
+ (C) IN FISCAL YEAR 2027,  THE DEPARTMENT SHALL INCR EASE THE 
+PERCENTAGE OF THE AN NUAL APPROPRIATION R EQUIRED UNDER SUBSEC TION (A) 
+OF THIS SEC TION ALLOCATED TO RE IMBURSEMENT PAID IN ACCORDANCE WITH 
+SUBSECTION (B) OF THIS SECTION OVER  THE PERCENTAGE ALLOC ATED IN FISCAL 
+YEAR 2026.  
+ 
+13–4907.  
+ 
+ ON OR BEFORE NOVEMBER 1, 2027,  THE DEPARTMENT SHALL REPO RT TO 
+THE GOVERNOR AND , IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT 
+ARTICLE , THE GENERAL ASSEMBLY ON THE DEPARTMENT ’S FINDINGS AND 
+RECOMMENDATIONS FROM  THE PILOT PROGRAM . 
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 
+as follows:  
+ 
+Article – Health – General  
+ 
+15–141.2.  
+ 
+ (a) (1) In this section the following words have the meanings indicated.  
+ 
+  (2) “Distant site” means a site at which the distant site health care provider 
+is located at the time the health care service is provided through telehealth.  
+ 
+  (3) “Distant site prov ider” means the health care provider who provides 
+medically necessary services to a patient at an originating site from a different physical 
+location than the location of the patient.  
+ 
+  (4) “Health care provider” means:  
+ 
+   (i) A person who is licensed, c ertified, or otherwise authorized under 
+the Health Occupations Article to provide health care in the ordinary course of business or 
+practice of a profession or in an approved education or training program;  
+ 
+   (ii) A mental health and substance use disorde r program licensed in 
+accordance with § 7.5 –401 of this article;  
+ 
+Ch. 291  2023 LAWS OF MARYLAND   
+ 
+– 12 –    (iii) A person licensed under Title 7, Subtitle 9 of this article to 
+provide services to an individual with developmental disability or a recipient of individual 
+support services; or  
+ 
+   (iv) A provider as defined under § 16 –201.4 of this article to provide 
+services to an individual receiving long –term care services.  
+ 
+  (5) “Originating site” means the location of the Program recipient at the 
+time the health care service is provided throug h telehealth.  
+ 
+  (6) “Remote patient monitoring services” means the use of synchronous or 
+asynchronous digital technologies that collect or monitor medical, patient –reported, and 
+other forms of health care data for Program recipients at an originating site  and 
+electronically transmit that data to a distant site provider to enable the distant site 
+provider to assess, diagnose, consult, treat, educate, provide care management, suggest 
+self–management, or make recommendations regarding the Program recipient’s health 
+care.  
+ 
+  (7) (i) “Telehealth” means the delivery of medically necessary somatic, 
+dental, or behavioral health services to a patient at an originating site by a distant site 
+provider through the use of technology –assisted communication.  
+ 
+   (ii) “Telehealth” includes:  
+ 
+    1. Synchronous and asynchronous interactions;  
+ 
+    2. From July 1, 2021, to June 30, [2023] 2025 , both 
+inclusive, an audio –only telephone conversation between a health care provider and a 
+patient that results in the delivery of a billable, covered health care service; and  
+ 
+    3. Remote patient monitoring services.  
+ 
+   (iii) “Telehealth” does not include the provision of health care 
+services solely through:  
+ 
+    1. Except as provided in subparagraph (ii)2 of this 
+paragraph, an audi o–only telephone conversation;  
+ 
+    2. An e –mail message; or  
+ 
+    3. A facsimile transmission.  
+ 
+ (b) The Program shall:  
+ 
+ WES MOORE, Governor  Ch. 291  
+ 
+– 13 –   (1) Provide health care services appropriately delivered through telehealth 
+to Program recipients regardless of the location of the Program recipient at the time 
+telehealth services are provided; and  
+ 
+  (2) Allow a distant site provider to provide health care services to a 
+Program recipient from any location at which the health care services may be appropriately 
+delivered through teleh ealth.  
+ 
+ (c) The services required to be provided under subsection (b) of this section shall 
+include counseling and treatment for substance use disorders and mental health conditions.  
+ 
+ (d) The Program may not:  
+ 
+  (1) Exclude from coverage a health care se rvice solely because it is provided 
+through telehealth and is not provided through an in –person consultation or contact 
+between a health care provider and a patient; or  
+ 
+  (2) Exclude from coverage a behavioral health care service provided to a 
+Program rec ipient in person solely because the service may also be provided through 
+telehealth.  
+ 
+ (e) The Program may undertake utilization review, including preauthorization, 
+to determine the appropriateness of any health care service whether the service is delivere d 
+through an in –person consultation or through telehealth if the appropriateness of the 
+health care service is determined in the same manner.  
+ 
+ (f) The Program may not distinguish between Program recipients in rural or 
+urban locations in providing coverage  under the Program for health care services delivered 
+through telehealth.  
+ 
+ (g) (1) Subject to paragraph (3) of this subsection, the Program shall 
+reimburse a health care provider for the diagnosis, consultation, and treatment of a 
+Program recipient for a health care service covered by the Program that can be 
+appropriately provided through telehealth.  
+ 
+  (2) This subsection does not require the Program to reimburse a health 
+care provider for a health care service delivered in person or through telehealth th at is:  
+ 
+   (i) Not a covered health care service under the Program; or  
+ 
+   (ii) Delivered by an out –of–network provider unless the health care 
+service is a self –referred service authorized under the Program.  
+ 
+  (3) (i) From July 1, 2021, to June 30, [2023] 2025 , both inclusive, when 
+appropriately provided through telehealth, the Program shall provide reimbursement in 
+Ch. 291  2023 LAWS OF MARYLAND   
+ 
+– 14 – accordance with paragraph (1) of this subsection on the same basis and the same rate as if 
+the health care service were delivered by the healt h care provider in person.  
+ 
+   (ii) The reimbursement required under subparagraph (i) of this 
+paragraph does not include:  
+ 
+    1. Clinic facility fees unless the health care service is 
+provided by a health care provider not authorized to bill a professional fee separately for 
+the health care service; or  
+ 
+    2. Any room and board fees.  
+ 
+ (h) (1) The Department may specify in regulation the types of health care 
+providers eligible to receive reimbursement for health care services provided to Progra m 
+recipients under this section.  
+ 
+  (2) If the Department specifies by regulation the types of health care 
+providers eligible to receive reimbursement for health care services provided to Program 
+recipients under this subsection, the regulations shall incl ude all types of health care 
+providers that appropriately provide telehealth services.  
+ 
+  (3) For the purpose of reimbursement and any fidelity standards 
+established by the Department, a health care service provided through telehealth is 
+equivalent to the same health care service when provided through an in –person 
+consultation.  
+ 
+ (i) Subject to subsection (g)(2) of this section, the Program or a managed care 
+organization that participates in the Program may not impose as a condition of 
+reimbursement of a co vered health care service delivered through telehealth that the 
+health care service be provided by a third –party vendor designated by the Program.  
+ 
+ (j) The Department may adopt regulations to carry out this section.  
+ 
+ (k) The Department shall obtain any f ederal authority necessary to implement 
+the requirements of this section, including applying to the Centers for Medicare and 
+Medicaid Services for an amendment to any of the State’s § 1115 waivers or the State plan.  
+ 
+ (l) This section may not be construed to supersede the authority of the Health 
+Services Cost Review Commission to set the appropriate rates for hospitals, including 
+setting the hospital facility fee for hospital –provided telehealth.  
+ 
+15–141.5.  
+ 
+ (A) IN THIS SECTION , “CERTIFIED COMMUNITY BEHAVIORAL HEALTH  
+CLINIC” MEANS A NONPROFIT CO MPREHENSIVE COMMUNIT Y MENTAL HEALTH OR  
+SUBSTANCE USE TREATM ENT ORGANIZATION LIC ENSED BY THE STATE THAT MEETS  
+ WES MOORE, Governor  Ch. 291  
+ 
+– 15 – THE FEDERAL CERTIFIC ATION CRITERIA OF § 223 OF THE FEDERAL PROTECTING  
+ACCESS TO MEDICARE ACT OF 2014  AND OFFERS , DIRECTLY OR INDIRECT LY 
+THROUGH FORMAL REFER RAL RELATIONSHIPS WI TH OTHER PROVIDERS , THE 
+FOLLOWING SERVICES :  
+ 
+  (1) OUTPATIENT MENTAL HEA LTH AND SUBSTANCE US E SERVICES ; 
+ 
+  (2) 24–HOUR MOBILE CRISIS R ESPONSE AND HOTLINE SERVICES ; 
+ 
+  (3) SCREENING , ASSESSMENT , AND DIAGNOSIS , INCLUDING RISK  
+ASSESSMENTS ; 
+ 
+  (4) PERSON–CENTERED TREATMENT P LANNING ; 
+ 
+  (5) PRIMARY CARE SCREENIN G AND MONITORING OF KEY 
+INDICATORS OF HEALTH  RISKS ; 
+ 
+  (6) TARGETED CASE MANAGEM ENT; 
+ 
+  (7) PSYCHIATRIC REHABILIT ATION SERVICES ; 
+ 
+  (8) PEER SUPPORT AND FAMI LY SUPPORTS ; 
+ 
+  (9) MEDICATION –ASSISTED TREATMENT ; 
+ 
+  (10) ASSERTIVE COMMUNITY T REATMENT ; AND  
+ 
+  (11) COMMUNITY –BASED MENTAL HEALTH CARE FOR MILITARY  
+SERVICE MEMBERS AND VETERANS . 
+ 
+ (B) ON OR BEFORE DECEMBER 1, 2023,  THE DEPARTMENT SHALL SUBM IT 
+A STATE PLAN AMENDMENT TO THE CENTERS FOR MEDICARE AND MEDICAID  
+SERVICES TO ESTABLISH  CERTIFIED COMMUNITY BEHAVIORAL HEALTH CL INICS IN  
+ACCORDANCE WITH § 223 OF THE FEDERAL PROTECTING ACCESS TO MEDICARE  
+ACT OF 2014.  
+ 
+ (C) IF THE A MENDMENT SUBMITTED U NDER SUBSECTION (B) OF THIS  
+SECTION IS APPROVED , THE DEPARTMENT SHALL AMEN D THE STATE PLAN IN  
+ACCORDANCE WITH TITLE XIX  AND TITLE XXI  OF THE SOCIAL SECURITY ACT AS  
+NECESSARY TO COVER : 
+ 
+  (1) ALL REQUIRED SERVICES  FOR INDIVIDUALS WITH  MENTAL  
+HEALTH NEEDS OR SUBS TANCE USE DISORDERS AT CERTIFIED COMMUNI TY 
+BEHAVIORAL HEALTH CL INICS THROUGH A DAIL Y BUNDLED PAYMENT  
+Ch. 291  2023 LAWS OF MARYLAND   
+ 
+– 16 – METHODOLOGY THAT IS IN ALIGNMENT WITH FE DERAL PAYMENT FROM T HE 
+CENTERS FOR MEDICARE AND MEDICAID SERVICES FOR THE CERT IFIED  
+COMMUNITY BEHAVIORAL  HEALTH CLINICS MEDICAID DEMONSTRATIO N UNDER § 
+223 OF THE FEDERAL PROTECTING ACCESS TO MEDICARE ACT OF 2014;  AND  
+ 
+  (2) ANY ADDITIONAL SERVIC ES IDENTIFIED BY THE  DEPARTMENT . 
+ 
+ (D) (1) THE DEPARTMENT SHALL ESTA BLISH STANDARDS AND  
+METHODOLOGIES FOR A PROSPECTIVE PAYMENT SYSTEM TO REIMBURSE A 
+CERTIFIED COMMUNITY BEHAVIORAL HEALTH CL INIC UNDER THE PROGRAM ON A  
+PREDETERMINED FIXED AMOUNT PER DAY FOR C OVERED SERVICES PROV IDED TO A  
+PROGRAM RECIPIENT . 
+ 
+  (2) THE PROSPECTIVE PAYME NT RATE F OR A CERTIFIED COMMU NITY  
+BEHAVIORAL HEALTH CL INIC SHALL : 
+ 
+   (I) BE ADJUSTED ONCE EVER Y 3 YEARS BY THE MEDICARE  
+ECONOMIC INDEX IN ACCORDANCE W ITH § 223 OF THE FEDERAL PROTECTING  
+ACCESS TO MEDICARE ACT OF 2014;  AND  
+ 
+   (II) ALLOW FOR MODIFICATIO NS BASED ON A CHANGE IN SCOPE  
+FOR AN INDIVIDUAL CE RTIFIED COMMUNITY BE HAVIORAL HEALTH CLIN IC.  
+ 
+  (3) THE DEPARTMENT MAY CONSID ER RATE ADJUSTMENTS ON 
+REQUEST BY A CERTIFI ED COMMUNITY BEHAVIO RAL HEALTH CLINIC . 
+ 
+ (E) (1) THE DEPARTMENT SHALL ESTA BLISH A QUALITY INCENTIVE  
+PAYMENT SYSTEM FOR A  CERTIFIED COMMUNITY BEHAVIORAL HEALTH CL INIC  
+THAT ACHIEVES SPECIF IED THRESHOLDS ON PE RFORMANCE METRICS  
+ESTABLISHED BY THE DEPARTMENT . 
+ 
+  (2) THE QUALITY INCENTIVE  PAYMENT SYSTEM ESTAB LISHED UNDER  
+PARAGRAPH (1) OF THIS SUBSECT ION SHALL BE IN ADDI TION TO THE PROSPECT IVE 
+PAYMENT RATE ESTABLI SHED UNDER SUBSECTIO N (D) OF THIS SECTION . 
+ 
+Article – Insurance  
+ 
+15–139. 
+ 
+ (a) (1) In this section, “telehealth” means, as it relates to the delivery of health 
+care services, the use of intera ctive audio, video, or other telecommunications or electronic 
+technology by a licensed health care provider to deliver a health care service within the 
+scope of practice of the health care provider at a location other than the location of the 
+patient.  
+ WES MOORE, Governor  Ch. 291  
+ 
+– 17 –  
+  (2) “Telehealth” includes from July 1, 2021, to June 30, [2023] 2025 , both 
+inclusive, an audio –only telephone conversation between a health care provider and a 
+patient that results in the delivery of a billable, covered health care service.  
+ 
+  (3) “Teleheal th” does not include:  
+ 
+   (i) except as provided in paragraph (2) of this subsection, an  
+audio –only telephone conversation between a health care provider and a patient;  
+ 
+   (ii) an electronic mail message between a health care provider and a 
+patient; or  
+ 
+   (iii) a facsimile transmission between a health care provider and a 
+patient.  
+ 
+ (b) This section applies to:  
+ 
+  (1) insurers and nonprofit health service plans that provide hospital, 
+medical, or surgical benefits to individuals or groups on an expense –incurred basis under 
+health insurance policies or contracts that are issued or delivered in the State; and  
+ 
+  (2) health maintenance organizations that provide hospital, medical, or 
+surgical benefits to individuals or groups under contracts that are issued o r delivered in 
+the State.  
+ 
+ (c) (1) An entity subject to this section:  
+ 
+   (i) shall provide coverage under a health insurance policy or 
+contract for health care services appropriately delivered through telehealth regardless of 
+the location of the patient at the time the telehealth services are provided;  
+ 
+   (ii) may not exclude from coverage a health care service solely 
+because it is provided through telehealth and is not provided through an in –person 
+consultation or contact between a health care provider and a patient; and  
+ 
+   (iii) may not exclude from coverage or deny coverage for a behavioral 
+health care service that is a covered benefit under a health insurance policy or contract 
+when provided in person solely because the behavioral health care service  may also be 
+provided through a covered telehealth benefit.  
+ 
+  (2) The health care services appropriately delivered through telehealth 
+shall include counseling and treatment for substance use disorders and mental health 
+conditions.  
+ 
+Ch. 291  2023 LAWS OF MARYLAND   
+ 
+– 18 –  (d) (1) Subject to par agraph (2) of this subsection, an entity subject to this 
+section:  
+ 
+   (i) shall reimburse a health care provider for the diagnosis, 
+consultation, and treatment of an insured patient for a health care service covered under a 
+health insurance policy or contr act that can be appropriately provided through telehealth;  
+ 
+   (ii) is not required to:  
+ 
+    1. reimburse a health care provider for a health care service 
+delivered in person or through telehealth that is not a covered benefit under the health 
+insurance policy or contract; or  
+ 
+    2. reimburse a health care provider who is not a covered 
+provider under the health insurance policy or contract; and  
+ 
+   (iii) 1. may impose a deductible, copayment, or coinsurance 
+amount on benefits for health care services tha t are delivered either through an in –person 
+consultation or through telehealth;  
+ 
+    2. may impose an annual dollar maximum as permitted by 
+federal law; and  
+ 
+    3. may not impose a lifetime dollar maximum.  
+ 
+  (2) (i) From July 1, 2021, to June 30, [2023] 2025 , both inclusive, when 
+a health care service is appropriately provided through telehealth, an entity subject to this 
+section shall provide reimbursement in accordance with paragraph (1)(i) of this subsection 
+on the same basis and at the same rate as if  the health care service were delivered by the 
+health care provider in person.  
+ 
+   (ii) The reimbursement required under subparagraph (i) of this 
+paragraph does not include:  
+ 
+    1. clinic facility fees unless the health care service is 
+provided by a healt h care provider not authorized to bill a professional fee separately for 
+the health care service; or  
+ 
+    2. any room and board fees.  
+ 
+   (iii) This paragraph may not be construed to supersede the authority 
+of the Health Services Cost Review Commission to set the appropriate rates for hospitals, 
+including setting the hospital facility fee for hospital –provided telehealth.  
+ 
+ (e) Subject to subsection (d)(1)(ii) of this section, an entity subject to this section 
+may not impose as a condition of reimbursement of a covered health care service delivered 
+ WES MOORE, Governor  Ch. 291  
+ 
+– 19 – through telehealth that the health care service be provided by a third –party vendor 
+designated by the entity.  
+ 
+ (f) An entity subject to this section may undertake utilization review, including 
+preauthorization, t o determine the appropriateness of any health care service whether the 
+service is delivered through an in –person consultation or through telehealth if the 
+appropriateness of the health care service is determined in the same manner.  
+ 
+ (g) A health insurance  policy or contract may not distinguish between patients in 
+rural or urban locations in providing coverage under the policy or contract for health care 
+services delivered through telehealth.  
+ 
+ (h) A decision by an entity subject to this section not to prov ide coverage for 
+telehealth in accordance with this section constitutes an adverse decision, as defined in § 
+15–10A–01 of this title, if the decision is based on a finding that telehealth is not medically 
+necessary, appropriate, or efficient.  
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED, That:  
+ 
+ (a) The Maryland Health Care Commission shall study and make 
+recommendations regarding the delivery of health care services through telehealth, 
+including payment parity for the delivery of health care services through audiovisual and 
+audio –only telehealth technologies.  
+ 
+ (b) In conducting the study required under subsection (a) of this section, the 
+Maryland Health Care Commission shall:  
+ 
+  (1) determine whether it is more or less costly for health care providers to 
+deliver health care services through telehealth;  
+ 
+  (2) determine whether the delivery of health care services through 
+telehealth requires more or less clinical effort on the part of the health care provider;  
+ 
+  (3) to help inform the debate on payment parity,  identify the aspects of 
+telehealth that are subject to overuse or underuse or yield greater or lower value;  
+ 
+  (4) assess the adequacy of reimbursement for behavioral health services 
+delivered in person and by telehealth; and  
+ 
+  (5) address any other issu es related to telehealth as determined necessary 
+by the Commission.  
+ 
+ (c) On or before December 1, 2024, the Maryland Health Care Commission shall 
+submit a report on its findings and recommendations to the General Assembly, in 
+accordance with § 2 –1257 of t he State Government Article.  
+ 
+Ch. 291  2023 LAWS OF MARYLAND   
+ 
+– 20 –  SECTION 5. AND BE IT FURTHER ENACTED, That the Maryland Department of 
+Health shall apply to the Substance Abuse and Mental Health Services Administration at 
+the Center for Mental Health Services for federal planning, developm ent, and 
+implementation grant funds related to certified community behavioral health clinics for 
+fiscal year 2025.  
+ 
+ SECTION 6. AND BE IT FURTHER ENACTED, That the Maryland Department of 
+Health shall apply to the Substance Abuse and Mental Health Services Administration at 
+the Center for Mental Health Services for inclusion in the state certified community 
+behavioral health clinic demonstration program for fiscal year 2026.  
+ 
+ SECTION 4. 7. AND BE IT FURTHER ENACTED, That Section 2 of this Act shall 
+take ef fect October 1, 2023. It shall remain effective for a period of 4 years and 2 months 
+and, at the end of November 30, 2027, Section 2 of this Act, with no further action required 
+by the General Assembly, shall be abrogated and of no further force and effect . 
+ 
+ SECTION 5. 8. AND BE IT FURTHER ENACTED, That, except as provided in 
+Section 4 7 of this Act, this Act shall take effect June 1, 2023. Section 1 of this Act shall 
+remain effective for a period of 4 years and 1 month and, at the end of June 30, 2027, Section 
+1 of this Act, with no further action required by the General Assembly, shall be abrogated 
+and of no further force and effect.  
+ 
+Approved by the Governor, May 3, 2023.  

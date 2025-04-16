@@ -1,0 +1,519 @@
+ WES MOORE, Governor  Ch. 590  
+ 
+– 1 – Chapter 590  
+(House Bill 979 ) 
+ 
+AN ACT concerning  
+ 
+Agriculture – Invasive Plant Species – Regulation  
+(Biodiversity and Agriculture Protection Act)  
+ 
+FOR the purpose of altering the regulatory approach for controlling invasive plant species 
+in the State, including repealing certain provisions of law relating to a two –tiered 
+regulatory approach and requiring the Secretary of Agriculture to establish a ce rtain 
+list of prohibited invasive plants by regulation in a certain manner on or before a 
+certain date; establishing certain protocols for assessing certain nonnative plants 
+and determining whether those plants are invasive or whether the plants may be 
+placed on a certain watch list; requiring the Invasive Plants Advisory Committee in 
+the Department of Agriculture to review certain invasive species assessments and 
+data to advise the Secretary in a certain manner; requiring the Committee to review 
+the qualif ications of a qualified independent assessor;  requiring the Secretary to 
+include on a certain consolidated list certain invasive plants classified as a prohibited 
+invasive plant in a certain manner; requiring the Department of Agriculture and the 
+Departmen t of Natural Resources each to post on its website a certain consolidated 
+list and certain watch list; requiring the University of Maryland Extension to post a 
+link to certain lists on its website; requiring the Department of Agriculture to 
+distribute cert ain lists to certain nurseries, plant dealers, and plant brokers in a 
+certain manner; authorizing the State Highway Administration to conduct certain 
+activities related to controlling and disposing of invasive plant species under certain 
+circumstances and in a certain manner;  and generally relating to the regulation of 
+invasive plant species.  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Agriculture  
+Section 9.5 –101, 9.5 –205, 9.5 –301, 9.5 –302, and 9.5 –303 
+ Annotated Code of Maryland  
+ (2016 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Agriculture  
+Section 9.5 –201 
+ Annotated Code of Maryland  
+ (2016 Replacement Volume and 2023 Supplement)  
+ 
+BY adding to  
+ Article – Agriculture  
+Section 9.5 –301.1 and 9.5 –301.2  
+ Annotated Code of Maryland  
+ (2016 Replacement Volume and 2023 Supplement)  
+Ch. 590  2024 LAWS OF MARYLAND   
+ 
+– 2 –  
+BY repealing  
+ Article – Agriculture  
+Section 9.5 –304 
+ Annotated Code of Maryland  
+ (2016 Replacement Volume and 2023 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GE NERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Agriculture  
+ 
+9.5–101. 
+ 
+ (a) In this title the following words have the meanings indicated.  
+ 
+ (b) “CLASSIFY AS A PROHIBI TED INVASIVE PLANT ” MEANS THE SECRETARY 
+IS INCLUDING AN INVA SIVE PLANT ON THE CONSOLIDATED LIST OF MARYLAND 
+INVASIVE PLANT SPECIES IN ACCORDANCE  WITH §§ 9.5–301 AND 9.5–301.1  OF THIS 
+TITLE .  
+ 
+ (C) “Committee” means the Invasive Plants  Advisory Committee.  
+ 
+ (D) “CONSOLIDATED LIST OF MARYLAND INVASIVE PLANT SPECIES” 
+MEANS A LIST OF PLAN T SPECIES CLASSIFIED  AS PROHIBITED INVASI VE PLANTS IN 
+ACCORDANCE WITH §§ 9.5–301 AND 9.5–301.1  OF THIS TITLE . 
+ 
+ (E) “EARLY DETECTION RAPID RESPONSE (EDRR)  PLANT SPECIES ” 
+MEANS A NONNATIVE PL ANT SPECIES THAT : 
+ 
+  (1) IS NOT YET WIDESPREAD  IN THE STATE BUT IS AT RISK OF:  
+ 
+   (I) BECOMING ESTABLISHED AS AN INVASIVE SPECI ES; AND  
+ 
+   (II) CAUSING SIGNIFICANT D AMAGE ; AND 
+ 
+  (2) (I) HAS BEEN FOUND IN AT LEAST ONE  NATIVE SPECIES 
+HABITAT IN THE STATE ; OR 
+ 
+   (II) HAS NOT YET BEEN FOUN D IN THE STATE . 
+ 
+ (F) “EXPERT ASSESSOR ” MEANS : 
+ 
+ WES MOORE, Governor  Ch. 590  
+ 
+– 3 –   (1) AN INDIVIDUAL OR A TE AM WITHIN THE DEPARTMENT OR THE 
+DEPARTMENT OF NATURAL RESOURCES ; OR 
+ 
+  (2) A QUALIFIED INDEPENDEN T ASSESSOR . 
+ 
+ [(c)] (G) (1) “Invasive plant” means [a terrestrial plant species ] ANY LIVING 
+PART OF A PLANT SPEC IES OR ITS SUBSPECIE S that:  
+ 
+  [(1)] (I) Did not evolve in the State; and  
+ 
+  [(2)] (II) If introduced within the State, will cause or is likely to cause, as 
+determined by the Secretary:  
+ 
+   [(i)] 1. Economic harm;  
+ 
+   [(ii)] 2. Ecological harm;  
+ 
+   [(iii)] 3. Environmental harm; or  
+ 
+   [(iv)] 4. Harm to human health.  
+ 
+  (2) “INVASIVE PLANT ” INCLUDES A COMMERCIA L OR 
+NONCOMMERCIAL PLANT THAT IS TERRESTRIAL OR AQUATIC AND MEETS TH E 
+DEFINITION UNDER PAR AGRAPH (1) OF THIS SUBSECTION . 
+ 
+ (H) “INVASIVE PLANT SPECIE S STATUS ASSESSMENT PROTOCOL ” MEANS A 
+PROTOCOL BASED ON TH E NATURE SERVE’S 2004  PROTOCOL (“AN INVASIVE 
+SPECIES ASSESSMENT PROTOCOL : EVALUATING NON–NATIVE PLANTS FOR THEIR 
+IMPACT ON BIODIVERSITY . VERSION 1.”). 
+ 
+ (I) (1) “INVASIVENESS RANK ” MEANS A RANK ASSIGNE D TO A 
+NONNATIVE SPECIES TO  SIGNIFY ITS LEVEL OF  INVASIVENESS BASED O N THE 
+RESULTS OF AN INVASI VE ASSESSMENT PROTOC OL.  
+ 
+  (2) “INVASIVENESS RANK ” INCLUD ES AN INVASIVENESS 
+SIGNIFICANCE RANKING  OF HIGH , MEDIUM , LOW, OR INSIGNIFICANT . 
+ 
+ [(d)] (J) “Landscaping services” includes services for ornamental horticultural 
+design, maintenance, and installation of living plants.  
+ 
+ [(e)] (K) [“Tier 1 ] “PROHIBITED invasive plant” includes invasive plant species 
+that cause or are likely to cause severe harm within the State.  
+ 
+Ch. 590  2024 LAWS OF MARYLAND   
+ 
+– 4 –  [(f) “Tier 2 invasive plant” includes invasive plant species that cause or are likely 
+to cause substantial negative impact within the State. ] 
+ 
+ (L) “QUALIFIED INDEPENDENT  ASSESSOR ” MEANS AN INDIVIDUAL OR A 
+TEAM THAT : 
+ 
+  (1) POSSESSES EXTENSIVE  AT LEAST 2 YEARS OF  FIELD EXPERIENCE 
+IN INVASIVE PLANT SP ECIES IN MARYLAND OR IN NEARBY  JURISDICTIONS , 
+INCLUDING WASHINGTON , D.C.,  DELAWARE , NEW JERSEY , NEW YORK, 
+PENNSYLVANIA , VIRGINIA , AND WEST VIRGINIA ; AND  
+ 
+  (2) HAS ASSESSED INVASIVE  PLANT SPECIES WITHOU T SUPERVISION 
+FROM THE DEPARTMENT , THE DEPARTMENT OF NATURAL RESOURCES , OR THE 
+COMMITTEE . 
+ 
+ (M) “WATCH LIST” MEANS A LIST OF PLAN T SPECIES THAT : 
+ 
+  (1) HAVE BEEN ASSESSED BY  AN EXPERT ASSESSOR I N ACCORDANCE 
+WITH § 9.5–301 OF THIS TITLE ;  
+ 
+  (2) WERE NOT DETERMINED B Y THE ASSESSMENT TO BE ELIGIBLE 
+FOR CLASSIFICATION A S A PROHIBITED INVAS IVE PLANT ; AND  
+ 
+  (3) MAY BE REASSESSED IN THE FUTURE . 
+ 
+9.5–201. 
+ 
+ There is an Invasive Plants Advisory Committee in the Department.  
+ 
+9.5–205. 
+ 
+ The Committee shall:  
+ 
+  (1) Advise the Secretary regarding regulations necessary to carry out the 
+provisions of this title; [and] 
+ 
+  (2) (i) Conduct an annual review of the [risk assessment protocol ] 
+ASSESSMENT PROTOCOLS  adopted under § 9.5 –301 of this title; and  
+ 
+   (ii) Report to the Secretary regarding any proposed changes to the 
+risk assessment protocol  AN ASSESSMENT PROTOC OL OR A REPLACEMENT OF A 
+PROTOCOL ; AND  
+ 
+ WES MOORE, Governor  Ch. 590  
+ 
+– 5 –   (3) (I) REVIE W IN CONSULTATION WITH THE SECRETARY AND THE 
+SECRETARY OF NATURAL RESOURCES , REVIEW THE QUALIFICA TIONS OF THE 
+QUALIFIED INDEPENDEN T ASSESSOR ; AND 
+ 
+   (II) REPORT TO THE SECRETARY ANY PROPOSE D CHANGES TO 
+THE QUALIFICATIONS O F THE QUALIFIED INDE PENDENT ASSESSOR ; 
+ 
+  (4) REVIEW  INVASIVE PLANT SPECI ES ASSESSMENTS CONDU CTED IN 
+ACCORDANCE WITH § 9.5–301 OF THIS TITLE TO ADV ISE THE SECRETARY ON WHICH 
+PLANTS TO CLASSIFY A S PROHIBITED INVASIV E PLANTS FOR INCLUSI ON ON THE 
+CONSOLIDATED LIST OF MARYLAND INVASIVE PLANT SPECIES ; AND 
+ 
+  (5) (I) REVIEW ANY DATA SUBMI TTED TO THE COMMITTEE THAT 
+INDICATES A CULTIVAR , SELECTION , OR INFRA –SPECIFIC HYBRID OF A  PROHIBITED 
+INVASIVE PLANT IS NO T INVASIVE ; AND 
+ 
+   (II) IF THE DATA SUBMITTED  UNDER ITEM (I) OF THIS ITEM IS 
+DEEMED A CCURATE AND SUFFICIE NT, ADVISE THE SECRETARY TO DECLASSI FY OR 
+PREEMPTIVELY NOT CLA SSIFY THE CULTIVAR , SELECTION , OR INFRA –SPECIFIC 
+HYBRID AS A PROHIBIT ED INVASIVE PLANT . 
+ 
+9.5–301. 
+ 
+ (a) The Secretary, with the advice of THE SECRETARY OF NATURAL 
+RESOURCES A ND the Committee, shall:  
+ 
+  (1) On or before October 1, [2012] 2024 , adopt regulations that:  
+ 
+   (i) Establish [a science –based risk assessment protocol ] 
+PROFESSIONALLY RECOG NIZED ASSESSMENT PRO TOCOLS for invasive plants that:  
+ 
+    1. Will serve as a basis for [creating a two –tiered ] THE 
+regulatory approach for controlling invasive plants in the State; [and] 
+ 
+    2. Considers  CONSIDER  the harm, as determined by the 
+Secretary, that invasive plants cause in the State, including:  
+ 
+    A. [Economic harm;  
+ 
+    B.] Ecological harm;  AND  
+ 
+    [C.] B. Environmental harm; and  
+ 
+Ch. 590  2024 LAWS OF MARYLAND   
+ 
+– 6 –     3. MAY CONSIDER ADDITION AL HARM , AS DETERMINED 
+BY THE EXPERT ASSESS OR, THAT INVASIVE PLANTS  CAUSE IN THE STATE , 
+INCLUDING : 
+ 
+    A. ECONOMIC HARM ; AND 
+ 
+    [D.] B. Harm to human health;  
+ 
+   (ii) Govern administrative orders that the Secretary may issue to 
+enforce this subtitle; and  
+ 
+   (iii) Establish a procedure for the approval required under § 9.5 –302 
+of this subtitle for activities involving [tier 1 ] PROHIBITED  invasive plants.  
+ 
+  (2) [On] SUBJECT TO § 9.5–301.1  OF THIS SUBTITLE , ON or before 
+October 1, [2013] 2024 , adopt regulations that:  
+ 
+   (i) Establish a list of [tier 1 ] PROHIBITED INVASIVE  plants [and 
+tier 2 plants ] in accordance with [the risk ] AN assessme nt protocol adopted under 
+paragraph (1) of this subsection;  
+ 
+   (ii) Establish a procedure for classification or declassification of an 
+invasive plant as a [tier 1 ] PROHIBITED invasive plant [or a tier 2 invasive plant ]; 
+ 
+   (iii) Phase in the implementati on of the requirements of this subtitle 
+with consideration of the economic impact of these requirements on nurseries, landscapers, 
+plant wholesalers, plant retailers, and any other industry; AND  
+ 
+   (iv) Establish a procedure for the disposal of [tier 1 ] PROHIBITED 
+INVASIVE plants [; 
+ 
+   (v) Designate the format, size, and content of the sign required 
+under § 9.5 –302(b)(1) of this subtitle; and  
+ 
+   (vi) Provide for the distribution of a list of tier 2 invasive plants to 
+licensed nurseries, plant dealers, and  plant brokers on an annual basis ]. 
+ 
+ (b) (1) The Secretary shall classify as a [tier 1 ] PROHIBITED invasive plant 
+[or a tier 2 invasive plant ] each plant identified as invasive in the National Park Service’s 
+and U.S. Fish and Wildlife Service’s Plant Invaders of Mid –Atlantic Natural Areas IF THE 
+PLANT IS ASSESSED AS  AN INVASIVE PLANT SP ECIES IN ACCORDANCE WITH 
+SUBSECTIONS (C) AND (D) OF THIS SEC TION . 
+ 
+ WES MOORE, Governor  Ch. 590  
+ 
+– 7 –   (2) Nothing in this section may be construed as limiting the Secretary’s 
+authority to classify as a [tier 1 ] PROHIBITED  invasive plant [or a tier 2 ] AN invasive plant 
+[plants ] not identified as invasive in the National Park Service’s and U.S. Fish  and Wildlife 
+Service’s Plant Invaders of Mid –Atlantic Natural Areas.  
+ 
+ (C) (1) IN ACCORDANCE WITH PA RAGRAPH (2) OF THIS SUBSECTION , AN 
+EXPERT ASSESSOR SHAL L: 
+ 
+   (I) ASSESS A NONNATIVE PL ANT SPECIES ESTABLIS HED IN 
+NATURAL AREAS WITHIN  THE STATE ;  
+ 
+   (II) DETERMINE THE INVASIV ENESS RANK OF THE NO NNATIVE 
+PLANT SPECIES ; AND 
+ 
+   (III) 1. NOTIFY THE COMMITTEE THAT THE NO NNATIVE 
+PLANT SPECIES IS ASS ESSED AS AN INVASIVE  PLANT IF THE INVASIV ENESS RANK IS 
+HIGH OR MEDIUM ; OR 
+ 
+    2. NOTIFY THE COMMITTEE THAT THE NO NNATIVE 
+PLANT SPECIES MAY BE  PLACED ON THE WATCH LIST IF THE INVASIVEN ESS RANK 
+IS LOW OR INSIGNIFIC ANT. 
+ 
+  (2) IN CARRYING OUT THE R EQUIREMENTS OF PARAG RAPH (1) OF 
+THIS SUBSECTION , AN EXPERT ASSESSOR S HALL FOLLOW THE INVA SIVE PLANT 
+SPECIES STATUS ASSES SMEN T PROTOCOL THAT INCL UDES CONSIDERATION O F 
+ECOLOGICAL FACTORS A ND ENVIRONMENTAL FAC TORS .  
+ 
+ (D) (1) IN ACCORDANCE WITH PA RAGRAPH (2) OF THIS SUBSECTION , AN 
+EXPERT ASSESSOR SHAL L: 
+ 
+   (I) ASSESS AN EARLY DETECTION RAPID RESPONSE (EDRR)  
+PLANT SPECIES ; 
+ 
+   (II) DETERMINE THE INVASIV ENESS RANK OF THE EDRR  
+PLANT SPECIES ; AND 
+ 
+   (III) 1. NOTIFY THE COMMITTEE THAT THE EDRR  PLANT 
+SPECIES IS ASSESSED AS AN INVASIVE PLANT  IF THE INVASIVENESS RANK IS HIGH 
+OR MEDIUM ; OR 
+ 
+    2. NOTIFY THE COMMITTEE THAT THE EDRR  PLANT 
+SPECIES MAY BE PLACE D ON THE WATCH LIST IF THE INVASIVEN ESS RANK IS LOW 
+OR INSIGNIFICANT . 
+ 
+Ch. 590  2024 LAWS OF MARYLAND   
+ 
+– 8 –   (2) IN CARRYING OUT THE R EQUIREMENTS OF PARAG RAPH (1) OF 
+THIS SUBSECTION , AN EXPERT ASSESSOR S HALL FOLLOW : 
+ 
+   (I) THE INVASIVE PLANT SP ECIES STATUS ASSESSM ENT 
+PROTOCOL IF : 
+ 
+    1. THE EDRR  PLANT SPECIES IS PRE SENT IN AT LEAST 
+ONE NATIVE SPECIES H ABITAT IN THE STATE ; AND 
+ 
+    2. THE ECOLOGICAL AND EN VIRONMENTAL IMPACT O F 
+THE SPECIES IN THE STATE MAY BE EFFECTIV ELY ASSESSED UNDER T HE 
+PROTOCOL ; AND 
+ 
+   (II) AN INVASIVE PLANT RISK A SSESSMENT PROTOCOL I F: 
+ 
+    1. THE EDRR  PLANT SPECIES IS NOT  PRESENT 
+ANYWHERE IN THE STATE ; OR  
+ 
+    2. A. THE EDRR  PLANT SPECIES IS PRE SENT IN THE 
+STATE ; AND 
+ 
+    B. THE ECOLOGICAL AND EN VIRONMENTAL IMPACT O F 
+THE SPECIES IN THE STATE C ANNOT BE EFFECTIVELY  ASSESSED UNDER THE 
+INVASIVE PLANT SPECI ES STATUS ASSESSMENT  PROTOCOL . 
+ 
+ (E) (1) IN ACCORDANCE WITH § 9.5–205 OF THIS TITLE AND PA RAGRAPH 
+(2) OF THIS SUBSECTION , THE COMMITTEE SHALL REVIE W THE INVASIVE PLANT  
+SPECIES ASSESSMENT C ONDUCTED  BY AN EXPERT ASSESSO R. 
+ 
+  (2) IF THE ASSESSMENT IS ACCURATE AND SUFFICI ENT AND THE 
+INVASIVENESS RANK IS : 
+ 
+   (I) HIGH OR MEDIUM , THE COMMITTEE SHALL ADVIS E THE 
+SECRETARY TO CLASSIFY  THE PLANT AS A PROHI BITED INVASIVE PLANT ; OR 
+ 
+   (II) LOW OR INSIGNIFICAN T, THE COMMITTEE SHALL PLACE  
+THE PLANT ON THE WATCH LIST. 
+ 
+  (3) THE SECRETARY SHALL DETER MINE WHETHER TO CLAS SIFY A 
+PLANT SPECIES AS A P ROHIBITED INVASIVE P LANT ON REVIEWING TH E ADVICE OF 
+THE COMMITTEE . 
+ 
+9.5–301.1.  
+ 
+ WES MOORE, Governor  Ch. 590  
+ 
+– 9 –  (A) THE REGULATIONS ADOPT ED UNDER § 9.5–301 OF THIS SUBTITLE 
+SHALL CLASSIFY AS PR OHIBITED INVASIVE PL ANTS ALL TERRESTRIAL  PLANTS 
+CLASSIFIED BY REGULA TION BEFORE JANUARY 1, 2024,  AS A TIER 1 OR TIER 2 
+INVASIVE PLANT .  
+ 
+ (B) EACH TERRESTRIAL PLAN T CLASSIFIED BY REGULATION BEFORE 
+JANUARY 1, 2024,  AS A TIER 2 INVASIVE PLANT SHALL  BE ASSESSED IN 
+ACCORDANCE WITH § 9.5–301 OF THIS SUBTITLE BY DECEMBER 31, 2025,  AND 
+SHALL BE : 
+ 
+  (1) IF THE RESULTS OF THE  ASSESSMENT DETERMINE  THE PLANT IS 
+AN INVASIVE PLANT , CLASSIFIED A S A PROHIBITED INVAS IVE PLANT UNDER THE 
+REGULATIONS ADOPTED UNDER § 9.5–301 OF THIS SUBTITLE ; OR 
+ 
+  (2) IF THE RESULTS OF THE  ASSESSMENT DETERMINE  THE PLANT IS 
+NOT AN INVASIVE PLAN T, PLACED ON THE WATCH LIST.  
+ 
+ (B) (C) IN ADDITION TO THE PR OHIBITED INVASI VE PLANTS SET FORTH 
+IN SUBSECTION (A) OF THIS SECTION , THE SECRETARY MAY CLASSIF Y, BY 
+REGULATION , A PLANT SPECIES AS A  PROHIBITED INVASIVE PLANT IN ACCORDANCE 
+WITH § 9.5–301 OF THIS SUBTITLE .  
+ 
+ (C) (D) THE SECRETARY SHALL INCLU DE ON THE CONSOLIDATED LIST 
+OF MARYLAND INVASIVE PLANT SPECIES AN INVASIVE P LANT CLASSIFIED AS A  
+PROHIBITED INVASIVE PLANT IN ACCORDANCE WITH § 9.5–301 OF THIS TITLE  
+SUBTITLE  AND SUBSECTIONS (A) AND (B) OF THIS SECTION . 
+ 
+9.5–301.2.  
+ 
+ (A) (1) THE DEPARTMENT AND THE DEPARTMENT OF NATURAL 
+RESOURCES EACH SHALL POST ON ITS WEBSITE THE CONSOLIDATED LIST OF 
+MARYLAND INVASIVE PLANT SPECIES AND THE WATCH LIST.  
+ 
+  (2) THE UNIVERSITY OF MARYLAND EXTENSION SHALL POST A LINK 
+TO THE CONSOLIDATED LIST OF MARYLAND INVASIVE PLANT SPECIES AND THE 
+WATCH LIST ON ITS WEBSITE . 
+ 
+ (B) ON AN ANNUAL BASIS , THE DEPARTMENT SHALL DIST RIBUTE THE 
+CONSOLIDATED LIST OF MARYLAND INVASIVE PLANT SPECIES AND THE WATCH 
+LIST TO LICENSED NURS ERIES , PLANT DEALERS , AND PLANT BROKERS . 
+ 
+9.5–302. 
+ 
+Ch. 590  2024 LAWS OF MARYLAND   
+ 
+– 10 –  (a) [(1)] This [subsection ] SECTION  does not apply to the transfer, lease, sale, 
+or purchase of real property on which [an] A PROHIBITED  invasive plant is located.  
+ 
+  [(2)] (B) (1) Except as provided in paragraph  PARAGRAPHS (2) AND  
+[(3)] (2) of this subsection and in accordance with regulations adopted by the Secretary , a 
+person may not propagate, import, transfer, sell, purchase, transport, or introduce any 
+living part of a [tier 1 ] PROHIBITED  invasive plant in the State.  
+ 
+  [(3)] (2) A pers on may , IN ACCORDANCE WITH R EGULATIONS 
+ADOPTED BY THE DEPARTMENT , conduct an activity prohibited under paragraph [(2)] 
+(1) of this subsection if:  
+ 
+   (i) The person receives approval from the Secretary before 
+conducting the activity; and  
+ 
+   (ii) The activity is for the purpose of:  
+ 
+    1. Disposing of the PROHIBITED  invasive plant;  
+ 
+    2. Controlling the PROHIBITED  invasive plant;  
+ 
+    3. Using the PROHIBITED invasive plant for research or 
+educational purposes; or  
+ 
+    4. Exporting the PROHIBITED  invasive plant out of the 
+State.  
+ 
+  (3) (I) NOTWITHSTANDING PARAG RAPH (2)(I) OF THIS 
+SUBSECTION AND SUBJE CT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH , THE 
+STATE HIGHWAY ADMINISTRATION MAY CO NDUCT AN ACTIVITY PR OHIBITED 
+UNDER PARAGRAPH (1) OF THIS SUBSECTION F OR THE PURPOSE OF CONTR OLLING 
+OR DISPOSING OF A PR OHIBITED INVASIVE PL ANT ALONG STATE HIGHWAYS 
+WITHOUT PRIOR APPROV AL OF THE SECRETARY . 
+ 
+   (II) THE STATE HIGHWAY ADMINISTRATION SHALL CONTROL 
+OR DISPOSE OF PROHIB ITED INVASIVE PLANTS  ALONG STATE HIGHWAYS UNDER  
+SUBPARAGRAPH (I) OF THIS PARAGRAPH IN  A MANNER CONSISTENT WITH 
+REGULATIONS ADOPTED BY THE DEPARTMENT .  
+ 
+   (III) THE DEPARTMENT SHALL NOTI FY THE STATE HIGHWAY 
+ADMINISTRATION OF ANY  CHANGES TO REGULATIO NS ADOPTED BY THE 
+DEPARTMENT THAT IMPAC T THE CONTROL O R DISPOSAL OF PROHIB ITED INVASIVE 
+PLANTS .  
+ 
+ WES MOORE, Governor  Ch. 590  
+ 
+– 11 –  [(b) In accordance with regulations adopted by the Secretary, a person may not:  
+ 
+  (1) Sell or offer for sale at a retail outlet a tier 2 invasive plant unless the 
+retail outlet posts in a conspicuous manner in proximity to all tier 2 plant displays, a sign 
+identifying the plants as tier 2 plants; or  
+ 
+  (2) Provide landscaping services to plant or supply for planting a tier 2 
+invasive plant unless the person provides to its customer a list of tier 2 invasive plants. ] 
+ 
+9.5–303. 
+ 
+ (a) On finding a [tier 1 ] PROHIBITED INVASIVE plant in violation of [§  
+9.5–302(a)(2) ] § 9.5–302( B)(1) of this subtitle, the Secretary may:  
+ 
+  (1) Issue a written condemnation seizure order;  
+ 
+  (2) Mark or tag the plant in a conspicuous manner; and  
+ 
+  (3) Provide written notice to the owner, tenant, or person in charge of the 
+premises.  
+ 
+ (b) (1) On notice from the Secretary, a person shall dispose of a [tier 1 ] 
+PROHIBITED INVASIVE plant in accordance with regulations adopted b y the Secretary.  
+ 
+  (2) If a [tier 1 ] PROHIBITED INVASIVE  plant is not disposed of in 
+accordance with paragraph (1) of this subsection, the Secretary shall:  
+ 
+   (i) Destroy the plant;  
+ 
+   (ii) Prepare a statement of facts and a statement of the expense of 
+destruction; and  
+ 
+   (iii) Provide copies of the statements to the Attorney General.  
+ 
+ (c) (1) The Attorney General shall institute the appropriate proceeding to 
+collect the expenses due to the Secretary.  
+ 
+  (2) A copy of the statements prepared under subs ection (b)(2) of this section 
+is sufficient evidence to prove a claim under this subsection.  
+ 
+[9.5–304. 
+ 
+ (a) If the Secretary finds that a tier 2 plant does not meet the signage requirement 
+under § 9.5 –302(b)(1) of this subtitle, the Secretary shall:  
+ 
+  (1) Issue a stop sale order; and  
+Ch. 590  2024 LAWS OF MARYLAND   
+ 
+– 12 –  
+  (2) Mark or tag the plant in a conspicuous manner.  
+ 
+ (b) The Secretary shall give written notice of a finding made under subsection (a) 
+of this section to the owner, tenant, or person in charge of the premises.  
+ 
+ (c) A stop sale order issued under this section shall remain in effect until the 
+required signage is posted. ] 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June 
+1, 2024.  
+ 
+Approved by the Governor, May 9, 2024.  

@@ -1,0 +1,702 @@
+ WES MOORE, Governor  Ch. 234  
+ 
+– 1 – Chapter 234  
+(House Bill 1074 ) 
+ 
+AN ACT concerning  
+ 
+Health Insurance – Mental Health and Substance Use Disorder Benefits – 
+Sunset Repeal and Modification of Reporting Requirements  
+ 
+FOR the purpose of altering certain reporting requirements on health insurance carriers 
+relating to compliance with the federal Mental Health Parity and Addiction Equity 
+Act; altering requirements for certain analyses of nonquantitative treatment 
+limitatio ns required of health insurance carriers; authorizing the Maryland 
+Insurance Commissioner to exercise discretion to review subsets of nonquantitative 
+treatment limitations under certain circumstances;  establishing certain remedies 
+the Commissioner may use to enforce compliance with the Mental Health Parity and 
+Addiction Equity Act and related reporting requirements; establishing that a health 
+insurance carrier has the burden of persuasion in demonstrating that its health plan 
+complies with the federal Menta l Health Parity and Addiction Equity Act; repealing 
+the requirement that the Commissioner use a certain form for the reporting 
+requirements;  repealing the termination date for the reporting requirements; and 
+generally relating to health insurance carriers and mental health and substance use 
+disorder benefits.  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Insurance  
+Section 15 –144 
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Insurance  
+ Section 15 –1309(a)(1) and (3)  
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing  
+ Chapter 211 of the Acts of the General Assembly of 2020  
+ Section 2  
+ 
+BY repealing and reenacting, with  amendments,  
+ Chapter 211 of the Acts of the General Assembly of 2020  
+Section 4  
+ 
+BY repealing  
+ Chapter 212 of the Acts of the General Assembly of 2020  
+ Section 2  
+Ch. 234  2024 LAWS OF MARYLAND   
+ 
+– 2 –  
+BY repealing and reenacting, with amendments,  
+ Chapter 212 of the Acts of the General Assemb ly of 2020  
+ Section 4  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Insurance  
+ 
+15–144. 
+ 
+ (a) (1) In this section the following words have the meanings indicated.  
+ 
+  (2) “Carrier” means:  
+ 
+   (i) an insurer that holds a certificate of authority in the State and 
+provides health insurance in the State;  
+ 
+   (ii) a health maintenance organization that is licensed to operate in 
+the State;  
+ 
+   (iii) a nonprofit health service plan that is licensed to operate in the 
+State; or  
+ 
+   (iv) any other person or organization that provides health benefit 
+plans subject to State insurance regulation.  
+ 
+  (3) “Health benefit plan” means:  
+ 
+   (i) for a large group or blanket plan, a health benefit plan as  defined 
+in § 15 –1401 of this title;  
+ 
+   (ii) for a small group plan, a health benefit plan as defined in §  
+15–1201 of this title;  
+ 
+   (iii) for an individual plan:  
+ 
+    1. a health benefit plan as defined in § 15 –1301(l) of this title; 
+or 
+ 
+    2. an individual health benefit plan as defined in §  
+15–1301(o) of this title;  
+ 
+   (iv) short –term limited duration insurance as defined in § 15 –1301(s) 
+of this title; or  
+ WES MOORE, Governor  Ch. 234  
+ 
+– 3 –  
+   (v) a student health plan as defined in § 15 –1318(a) of this title.  
+ 
+  (4) “Medical /surgical benefits” has the meaning stated in 45 C.F.R. § 
+146.136(a) and 29 C.F.R. § 2590.712(a).  
+ 
+  (5) “Mental health benefits” has the meaning stated in 45 C.F.R. § 
+146.136(a) and 29 C.F.R. § 2590.712(a).  
+ 
+  (6) “Nonquantitative treatment limitation” me ans treatment limitations 
+as defined in 45 C.F.R. § 146.136(a) and 29 C.F.R. § 2590.712(a).  
+ 
+  (7) (I) “Parity Act” means the Paul Wellstone and Pete Domenici 
+Mental Health Parity and Addiction Equity Act of 2008 [and 45 C.F.R. § 146.136 and 29 
+C.F.R. § 25 90.712 ], AS AMENDED . 
+ 
+   (II) “PARITY ACT” INCLUDES 45 C.F.R.  § 146.136,  29 C.F.R.  § 
+2590.712,  AND ANY OTHER RELATE D FEDERAL REGULATION S FOUND IN THE CODE 
+OF FEDERAL REGULATIONS TO IMPLEM ENT OR ENFORCE THE PAUL WELLSTONE 
+AND PETE DOMENICI MENTAL HEALTH PARITY AND ADDICTION EQUITY ACT OF 
+2008.  
+ 
+  (8) “Parity Act classification” means:  
+ 
+   (i) inpatient in –network benefits;  
+ 
+   (ii) inpatient out –of–network benefits;  
+ 
+   (iii) outpatient in –network benefits;  
+ 
+   (iv) outpatient out –of–network benefits;  
+ 
+   (v) prescription drug benefits; and  
+ 
+   (vi) emergency care benefits.  
+ 
+  (9) “PRODUCT ” HAS THE MEANING STAT ED IN § 15–1309( A)(3) OF 
+THIS TITLE .  
+ 
+  (9) (10)  “Substance use disorder benefits” has the meaning stated in 45 
+C.F.R. § 146.136(a) and 29 C.F.R. § 2590.712(a).  
+ 
+ (b) This section applies to a carrier that delivers or issues for delivery a health 
+benefit plan in the State.  
+ 
+Ch. 234  2024 LAWS OF MARYLAND   
+ 
+– 4 –  (C) (1) EACH CARRIER SUBJECT TO THIS SECTION SHAL L: 
+ 
+   (I) FOR EACH PARITY ACT CLASSIFICATION , IDENTIFY ALL 
+NONQUANTITATIVE TRE ATMENT LIMITATIONS T HAT ARE APPLIED TO M ENTAL 
+HEALTH BENEFITS , SUBSTANCE USE DISORD ER BENEFITS , AND MEDICAL /SURGICAL 
+BENEFITS ;  
+ 
+   (II) IN ACCORDANCE WITH T HE PARITY ACT, PERFORM AND 
+DOCUMENT COMPARATIVE  ANALYSES OF THE DESI GN AND APPLICATION O F ALL 
+NONQU ANTITATIVE TREATMENT  LIMITATIONS IMPOSED ON MENTAL HEALTH 
+BENEFITS AND SUBSTAN CE USE DISORDER BENE FITS; 
+ 
+   (III) PROVIDE THE COMPARAT IVE ANALYSIS FOR EAC H 
+NONQUANTITATIVE TREA TMENT LIMITATION REQ UESTED BY THE COMMISSIONER 
+WITHIN : 
+ 
+    1. 15 WORKING DAYS A FTER A WRITTEN REQUE ST; OR 
+ 
+    2. IF ADOPTED BY THE FE DERAL GOVERNMENT , LESS 
+THAN 15 WORKING DAYS TO ALIG N WITH THE FEDERAL R ULE OR REGULATION ;  
+ 
+   (IV) WITHIN 30 DAYS AFTER A WRITTEN  REQUEST , PROVIDE THE 
+COMPARATIVE ANALYSIS  FOR EACH NONQUANTITA TIVE TRE ATMENT LIMITATION 
+AND RELATED IN OPERA TION DATA ANALYSIS , IF AVAILABLE AND REQ UESTED BY A 
+MEMBER IN ACCORDANCE  WITH THE PARITY ACT DISCLOSURE REQUIR EMENTS OR , 
+FOR MEMBERS WITH IND IVIDUAL PLANS , IN ACCORDANCE WITH S UBSECTION (E)(7) 
+OF THIS SECTION ; AND  
+ 
+   (V) SUBMIT THE REPORTS R EQUIRED UNDER PARAGR APH (2) 
+OF THIS SUBSECTION .  
+ 
+ (c) (1) (2)  On or before [March 1, 2022, and March 1, 2024 ] MARCH 1 
+EACH  YEAR , BEGINNING IN 2025  JULY 1, 2024,  AND EVERY 2 YEARS THEREAFTER , 
+each carrier subject to this section shall : 
+ 
+   (i) identify the five health benefit plans with the highest enrollment 
+for each product offered by the carrier in the individual, small, and large group markets; 
+and 
+ 
+   (ii) submit a report to the Commissioner ON EACH PRODUCT 
+OFFERED BY THE CARRIER IN THE INDIV IDUAL , SMALL , AND LARGE GROUP 
+MARKETS  to demonstrate the carrier’s compliance with the Parity Act.  
+ 
+ WES MOORE, Governor  Ch. 234  
+ 
+– 5 –   (2) (3)  The report submitted under paragraph (1) (2) of this subsection 
+shall include [the following information ]: 
+ 
+   (I) ALL NONQUA NTITATIVE TREATMENT LIMITATION 
+COMPARATIVE ANALYSIS  INFORMATION REQUIRED  UNDER THE PARITY ACT, 
+SUBSECTION (D) OF THIS SECTION , AND ANY STATE REGULATIONS  for the health 
+benefit plans identified  PRODUCTS IDENTIFIED  under [item] PARAGRAPH  (1)(i)  (2) of 
+this subsection ;, INCLUDING : 
+ 
+   (i) a description of the process used to develop or select the medical 
+necessity criteria for mental health benefits and substance use disorder benefits and the 
+process used to develop or select the medical necessity cr iteria for medical and surgical 
+benefits;  
+ 
+   (ii) for each Parity Act classification, identification of 
+nonquantitative treatment limitations that are applied to mental health benefits and 
+substance use disorder benefits and medical and surgical benefits;  
+ 
+   (iii) identification of the description of the nonquantitative treatment 
+limitations identified under item (ii) of this paragraph in documents and instruments under 
+which the plan is established or operated; and  
+ 
+   (iv) (II) the results of the A comparative analysis as described 
+under subsections (d) and (e) of this section.  CONDUCTED BY THE CAR RIER ON NOT 
+FEWER THAN FIVE NONQ UANTITATIVE TREATMEN T LIMITATIONS SELECT ED BY THE 
+COMMISSIONER IN ACCOR DANCE WITH PARAGRAPH  (5) OF THIS SUBSECTION ; AND  
+ 
+   (III) SUBJECT TO PARAGRAPH  (4) OF THIS SUBSECTION , A 
+STATEMENT , SIGNED BY A CORPORAT E OFFICER , ATTESTING THAT , FOR EACH 
+PRODUCT IDENTIFIED U NDER PARAGRAPH (2) OF THIS SUBSECTION , THE SELECTED 
+NONQUANTITATIVE TREA TMENT LIMITATIONS AN D THE PROCESSES , STRAT EGIES , 
+EVIDENTIARY STANDARD S, OR OTHER FACTORS USE D IN DESIGNING AND A PPLYING 
+THE SELECTED NONQUAN TITATIVE TREATMENT L IMITATIONS TO MENTAL  HEALTH 
+BENEFITS , SUBSTANCE USE DISORD ER BENEFITS , AND MEDICAL /SURGICAL 
+BENEFITS ARE THE SAM E FOR ALL PLANS WITH IN THE  PRODUCT , AS WRITTEN AND 
+IN OPERATION . 
+ 
+  (4) IF, FOR ANY PLAN WITHIN A PRODUCT IDENTIFIED  UNDER 
+PARAGRAPH (2) OF THIS SUBSECTION , THE PROCESSES , STRATEGIES , EVIDENTIARY 
+STANDARDS , OR OTHER FACTORS USE D IN DESIGNING AND A PPLYING THE 
+SELECTED NONQUANTITA TIVE TREATMENT LIMITATI ONS TO MENTAL HEALTH  
+BENEFITS , SUBSTANCE USE DISORD ER BENEFITS , OR MEDICAL /SURGICAL BENEFITS 
+ARE DIFFERENT , AS WRITTEN OR IN OPE RATION , FROM THE OTHER PLANS  WITHIN 
+THE PRODUCT : 
+Ch. 234  2024 LAWS OF MARYLAND   
+ 
+– 6 –  
+   (I) THE STATEMENT REQUIR ED UNDER PARAGRAPH (3)(III) OF 
+THIS SUBSECTION SHAL L NOTE THE EXCEPTION  AND IDENTIFY THE PLA N; AND  
+ 
+   (II) THE CARRIER SHALL SU BMIT A SEPARATE COMP ARATIVE 
+ANALYSIS FOR THE SEL ECTED NONQUANTITATIV E TREATMENT LIMITATI ONS FOR 
+THE PLAN . 
+ 
+  (5) (I) IN SELECTING THE NONQ UANTITATIVE TREATMEN T 
+LIMITATIONS REQUIRED  TO BE INCLUDED FOR E ACH REPORTING PERIOD , THE 
+COMMISSIONER : 
+ 
+    1. SHALL PRIORITIZE THE  NONQUANTITATIVE 
+TREATMENT LIMITATION S IDENTIFIED BY THE COMMISSIONER AS HAVIN G THE 
+GREATEST IMPACT ON M EMBER ACCESS TO CARE ;  
+ 
+    2. SHALL REVIE W THE SAME SUBSET OF  
+NONQUANTITATIVE TREA TMENT LIMITATIONS FO R EACH CARRIER REPOR T; AND  
+ 
+    3. MAY TAKE INTO CONSID ERATION OTHER FACTOR S 
+DETERMINED RELEVANT BY THE COMMISSIONER , INCLUDING COMPLAINT TRENDS , 
+FEDERAL PARITY ACT GUIDANCE , AND WHETHER THE NON QUANTITATIVE 
+TREATMENT LIMITATION  WAS SELECTED FOR A P REVIOUS REPORTING YE AR. 
+ 
+   (II) OF THE FIVE SELECTED NONQUANTITATIVE TREA TMENT 
+LIMITATIONS : 
+ 
+    1. NOT MORE THAN TWO MA Y BE FOR UTILIZATION  
+REVIEW ; AND  
+ 
+    2. AT LEAST ONE MUST BE  FOR NETWORK COMPOSITION , 
+INCLUDING REIMBURSEM ENT RATE SETTING . 
+ 
+  (6) A FINDING OF NONCOMPLI ANCE FOR A PRODUCT S HALL APPLY TO 
+ALL PLANS WITHIN THE  PRODUCT .  
+ 
+ (d) (1) A carrier subject to this section shall conduct a comparative analysis 
+for the nonquantitative treatm ent limitations identified  SELECTED  under subsection 
+(c)(2)(ii)  (C)(5) of this section as nonquantitative treatment limitations are:  
+ 
+   (i) written; and  
+ 
+   (ii) in operation.  
+ 
+ WES MOORE, Governor  Ch. 234  
+ 
+– 7 –   (2) The comparative analysis of the nonquantitative treatment limitations 
+identified  SELECTED  under subsection (c)(2)(ii)  (C)(5) of this section shall : 
+ 
+   (I) demonstrate that the processes, strategies, evidentiary 
+standards, or other factors used in DESIGNING AND  applying the medical necessity criteria 
+and each SELECTED  nonquantitative treatment limitation to mental health benefits and 
+substance use disorder benefits in each Parity Act classification are comparable to, and are 
+applied no more stringently than, the processes, strategies, evidentiary standards, or other 
+factors used in DESIGNING AND  applying the medical necessity criteria and  each 
+SELECTED  nonquantitative treatment limitation to medical and surgical  
+MEDICAL /SURGICAL  benefits within the same Parity Act classification ; AND  
+ 
+   (II) INCLUDE ALL INFORMAT ION REQ UIRED UNDER THE PARITY 
+ACT. 
+ 
+  (3) REGARDLESS OF WHETHER  IT WAS USED BEFORE T HE PARITY 
+ACT WAS ENACTED AND A S REQUESTED BY THE COMMISSION , A CARRIER SHALL 
+PERFORM AND PROVIDE A COMPARATIVE ANALYS IS FOR EACH PROCESS , STRATEGY , 
+EVIDENTIARY STANDARD , OR OTHER  FACTOR USED IN DESIG NING AND APPLYING A 
+SELECTED NONQUANTITA TIVE TREATMENT LIMIT ATION USED DURING A 
+REPORTING PERIOD .  
+ 
+ (e) In providing the analysis required under subsection (d) of this section, a 
+carrier shall:  
+ 
+  (1) identify the factors used to dete rmine that a nonquantitative treatment 
+limitation will apply to a benefit, including:  
+ 
+   (i) the sources for the factors , INCLUDING SOURCES IN  EFFECT  
+BEFORE THE ENACTMENT  OF THE PARITY ACT; 
+ 
+   (ii) the factors that were considered but rejected; [and] 
+ 
+   (III) THE FACTORS THAT WER E IN EFFECT BEFORE T HE 
+ENACTMENT OF THE PARITY ACT AND ARE USED IN T HE DESIGN OR APPLICA TION  
+OF THE NONQUANTITATI VE TREATMENT LIMITAT ION; AND  
+ 
+   [(iii)] (IV) if a factor was given more weight than another, the reason 
+for the dif ference in weighting;  
+ 
+  (2) identify and define the specific evidentiary standards used to define the 
+factors and any other evidence relied on in designing each nonquantitative treatment 
+limitation , INCLUDING EVIDENTIAR Y STANDARDS IN EFFEC T BEFORE THE  
+ENA CTMENT OF THE PARITY ACT; 
+Ch. 234  2024 LAWS OF MARYLAND   
+ 
+– 8 –  
+  (3) IDENTIFY AND DEFINE THE PROCESSES AND ST RATEGIES THAT  
+ARE USED TO DESIGN O R APPLY THE NONQUANT ITATIVE TREATMENT LI MITATION , 
+INCLUDING THE PROCES SES AND STRATEGIES I N EFFECT BEFORE THE ENACTMENT  
+OF THE PARITY ACT; 
+ 
+  [(3)] (4) include the results of the audits, reviews, and analyses 
+performed on the nonquantitative treatment limitations identified under subsection 
+(c)(2)(ii)  (C)(5) of this section to conduct the analysis required under subsection (d)(2) of 
+this section for the plans AND PRODUCTS  as written;  
+ 
+  [(4)] (5) include the results of the audits, reviews, and analyses 
+performed on the nonquantitative treatment limitations id entified under subsection 
+(c)(2)(ii)  (C)(5) of this section to conduct the analysis required under subsection (d)(2) of 
+this section for the plans AND PRODUCTS  as in operation;  
+ 
+  [(5)] (6) identify the measures used to ensure comparable design and 
+applica tion of nonquantitative treatment limitations that are implemented by the carrier 
+and any entity delegated by the carrier to manage mental health benefits, substance use 
+disorder benefits, or medical/surgical benefits on behalf of the carrier;  
+ 
+  [(6)] (7) disclose the specific findings and conclusions reached by the 
+carrier that indicate that the health benefit plan is in compliance with this section and the 
+Parity Act [and its implementing regulations, including 45 C.F.R. 146.136 and 29 C.F.R. 
+2590.712 an d any other related federal regulations found in the Code of Federal 
+Regulations ]; and  
+ 
+  [(7)] (8) identify the process used to comply with the Parity Act disclosure 
+requirements for mental health benefits, substance use disorder benefits, and 
+medical/surgical benefits, including:  
+ 
+   (i) the criteria for a medical necessity determination;  
+ 
+   (ii) reasons for a denial of benefits; and  
+ 
+   (iii) in connection with a member’s request for INDIVIDUAL OR  group 
+plan information and for purposes of filing an internal coverage or grievance matter and 
+appeals, plan documents that contain information about processes, strategies, evidentiary 
+standards, and any other factors used to apply a nonquantitative treat ment limitation.  
+ 
+ (f) On or before [March 1, 2022, and March 1, 2024 ] MARCH 1 EACH YEAR , 
+BEGINNING IN 2025 , each carrier subject to this section shall submit a report for the 
+health benefit plans identified under subsection (c)(1)(i) of this section to th e Commissioner 
+on the following data for the immediately preceding calendar year for mental health 
+ WES MOORE, Governor  Ch. 234  
+ 
+– 9 – benefits, substance use disorder benefits, and medical/surgical benefits by Parity Act 
+classification:  
+ 
+  (1) the frequency, reported by number and rate, wit h which the health 
+benefit plan received, approved, and denied prior authorization requests for mental health 
+benefits, substance use disorder benefits, and medical and surgical benefits in each Parity 
+Act classification during the immediately preceding ca lendar year; [and] 
+ 
+  (2) the number of claims submitted for mental health benefits, substance 
+use disorder benefits, and medical and surgical benefits in each Parity Act classification 
+during the immediately preceding calendar year and the number and rate s of, and reasons 
+for, denial of claims ; AND  
+ 
+  (3) DATA IDENTIFIED BY T HE COMMISSIONER OR FEDER AL 
+REGULATIONS TO EVALU ATE NONQUANTITATIVE TREATMENT LIMITATION  
+COMPLIANCE WITH THE IN–OPERATION STANDARD O F THE PARITY ACT. 
+ 
+ (F) THE COMMISSIONER SHALL :  
+ 
+  (1) DEVELOP ADDITIONAL S TANDARDIZED DATA TEM PLATES : 
+ 
+   (I) TO EVALUATE THE COMP ARATIVE ANALYSIS OF 
+NONQUANTITATIVE TREA TMENT LIMITATIONS IN  OPERATION ; AND  
+ 
+   (II) THAT MEET OR EXCEED ANY MINIMUM REQUIREM ENTS FOR 
+DATA REPORTING SPECI FIED IN FEDERAL REGU LATIONS ;  
+ 
+  (2) REQUIRE EACH CARRIER  SUBJECT TO THIS SECT ION TO SUBMIT : 
+ 
+   (I) FOR EACH PRODUCT IDE NTIFIED UNDER SUBSEC TION 
+(C)(2) OF THIS SECTION , THE DATA TEMPLATES D ESCRIBED IN ITEM (1) OF THIS 
+SUBSECTION FOR THE N ONQUANTITATIVE TREAT MENT LIMITATIONS SE LECTED BY 
+THE COMMISSIONER FOR THE REPORTING YEAR IN AC CORDANCE WITH SUBSEC TION 
+(C)(5) OF THIS SECTION ; AND  
+ 
+   (II) A SEPARATE DATA TEMP LATE FOR ANY PLANS D ESCRIBED 
+IN SUBSECTION (C)(4) OF THIS SECTION ; AND  
+ 
+  (3) POST THE DATA TEMPLA TES ON THE ADMINISTRATION ’S WEBSITE 
+FOR A COMMENT PERIOD  OF NOT LESS THAN 30 DAYS BEFORE ADOPTION .  
+ 
+ (g) The reports required under subsections (c) and (f) of  this section shall:  
+ 
+  (1) be submitted on a standard form developed by the Commissioner THAT 
+CONFORMS TO  MEETS OR EXCEEDS ANY  MINIMUM REQUIREMENTS  SPECIFIED IN  
+Ch. 234  2024 LAWS OF MARYLAND   
+ 
+– 10 – THE FEDERAL REGULATI ONS AND SUB –REGULATORY GUIDANCE  ON 
+NONQUANTITATIVE TREA TMENT LIMITATIONS COMPARATIVE ANALYSIS  
+REPORTING ; 
+ 
+  (2) be submitted by the carrier that issues or delivers the health benefi t 
+plan PRODUCT ; 
+ 
+  (3) be prepared in coordination with any entity the carrier contracts with 
+to provide mental health benefits and substance use disorder benefits;  
+ 
+  (4) contain a statement, signed by a corporate officer, attesting to the 
+accuracy of the  information contained in the report;  
+ 
+  (5) be available to plan members and the public on the carrier’s website in 
+a summary form that removes confidential or proprietary information and is developed by 
+the Commissioner in accordance with subsection [(m)(2)] (N)(2) of this section; and  
+ 
+  (6) exclude any identifying information of any plan member.  
+ 
+ (h) (1) A carrier submitting a report under subsections (c) and (f) of  this section 
+may submit a written request to the Commissioner that disclosure of specif ic information 
+included in the report be denied under the Public Information Act and, if submitting a 
+request, shall:  
+ 
+   (i) identify the particular information the disclosure of which the 
+carrier requests be denied; and  
+ 
+   (ii) cite the statutory authority under the Public Information Act 
+that authorizes denial of access to the information.  
+ 
+  (2) The Commissioner may review a request submitted under paragraph 
+(1) of this subsection on receipt of a request for access to the information under the Pu blic 
+Information Act.  
+ 
+  (3) The Commissioner may notify the carrier that submitted the request 
+under paragraph (1) of this subsection before granting access to information that was the 
+subject of the request.  
+ 
+  (4) A carrier shall disclose to a member on  request any plan information 
+contained in a report that is required to be disclosed to that member under federal or State 
+law. 
+ 
+ (i) (1) The Commissioner shall:  
+ 
+ WES MOORE, Governor  Ch. 234  
+ 
+– 11 –   [(1)] (I) review each report submitted in accordance with subsections (c) , 
+(D), and (f) of this section to assess each carrier’s compliance with the Parity Act FOR EACH 
+PARITY ACT CLASSIFICATION ; 
+ 
+  [(2)] (II) notify a carrier in writing of any noncompliance with the Parity 
+Act before issuing an administrative order; and  
+ 
+  [(3)] (III) within 90  days after the notice of noncompliance is issued, allow 
+the carrier to:  
+ 
+   [(i)] 1. submit a compliance plan to the Administration to comply 
+with the Parity Act; and  
+ 
+   [(ii)] 2. reprocess any claims that were improperly denied, in 
+whole or in part, bec ause of the noncompliance.  
+ 
+  (2) THE COMMISSIONER MAY EXER CISE DISCRETION TO R EVIEW A  
+SUBSET OF NONQUANTIT ATIVE TREATMENT LIMI TATIONS FOR THE PURP OSES OF  
+THIS SECTION IF THE COMMISSIONER : 
+ 
+   (I) AFTER THE REPORTING DEADLINES ESTABLISHE D UNDER  
+SUBSECTIONS  (C) AND (F) OF THIS SECTION , IDENTIFIES THE NONQU ANTITATIVE  
+TREATMENT LIMITATION S THAT WILL BE REVIE WED BY THE COMMISSIONER ; 
+ 
+   (II) DESCRIBES AND POSTS ON THE ADMINISTRATION ’S 
+WEBSITE THE CRITERIA  USED TO IDENTIFY THE  NONQUANTITATIVE TREA TMENT  
+LIMITATIO NS THAT WILL BE REVI EWED EACH YEAR ; 
+ 
+   (III) REVIEWS NONQUANTITAT IVE TREATMENT LIMITA TIONS  
+THAT HAVE THE GREATE ST EFFECT ON ACCESS TO MENTAL HEALTH AND  
+SUBSTANCE USE DISORD ER CARE ; 
+ 
+   (IV) REVIEWS THE SAME SUB SET OF NONQUANTITATI VE 
+TREATMENT LIMITATION S FOR EACH CARRIER REP ORT; 
+ 
+   (V) REVIEWS NOT LESS THA N 10 NONQUANTITATIVE  
+TREATMENT LIMITATION S FOR EACH CARRIER R EPORT ; AND  
+ 
+   (VI) ISSUES A DETERMINATI ON IN ANY MATTER THA T 
+IMPLICATES PARITY ACT COMPLIANCE REGARD LESS OF WHETHER A  
+NONQUANTITATIVE TREATMENT LIMITATION  AT ISSUE IN THE MATT ER HAS BEEN  
+REVIEWED UNDER THIS SECTION . 
+ 
+Ch. 234  2024 LAWS OF MARYLAND   
+ 
+– 12 –   (2) THE COMMISSIONER MAY REQU IRE CARRIERS TO COMP LETE 
+DATA TEMPLATES FOR A  NONQUANTITATIVE TREA TMENT LIMITATION MOR E 
+FREQUENTLY THAN EVER Y 2 YEARS .  
+ 
+ (j) (1) If the Commissioner finds that the carrier failed to submit a complete 
+report required under subsection (c) or (f) of  this section, the Commissioner may : 
+ 
+   (I) TAKE ACTION AUTHORIZ ED UNDER PARAGRAPH (2) OF THIS 
+SUBSECTION ; 
+ 
+   (II) IN ACCORDANCE WITH § 2–208 OF THIS ARTICLE , CHARGE 
+THE CARRIER FOR ANY ADDITIONAL EXPENSES INCURRED BY THE COMMISSIONER 
+TO REVIEW ADDITIONAL  REPORTS ; 
+ 
+   (III) IMPOSE A PENALTY FOR  EACH DAY THAT THE CA RRIER 
+FAILS TO SUBMIT INFO RMATION REQUIRED BY THE COMMISSIONER TO EVALU ATE 
+COMPLIANCE ; OR 
+ 
+   (IV) impose any penalty or take any action as authorized:  
+ 
+  (1)   1. for an insurer, nonprofit health service plan, or any other 
+person subject to this section, under this article; or  
+ 
+  (2)   2. for a health maintenance organization, under this article 
+or the Health – General Article.  
+ 
+  (2) IF THE COMMISSIONER CANNOT M AKE A DETERMINATION THAT A 
+SPECIFIC CONDUCT OR PRACTICE IS COMPLIAN T WITH THE PARITY ACT BECAUSE 
+THE CARRIER FAILED T O PROVIDE A SUFFICIE NT COMPARATIVE ANALY SIS FOR A 
+NONQUANTITATIVE TREATM ENT LIMITATION , THE COMMISSIONER MAY : 
+ 
+   (I) ISSUE AN ADMINISTRAT IVE ORDER REQUIRING THE 
+CARRIER OR AN ENTITY  DELEGATED BY THE CAR RIER TO TAKE THE FOL LOWING 
+ACTION UNTIL THE COMMISSIONER CAN MAKE  A DETERMINATION OF C OMPLIANCE 
+WITH THE PARITY ACT: 
+ 
+    1. MODIFY THE CONDUCT O R PRACTICE AS SPECIF IED 
+BY THE COMMISSIONER ; 
+ 
+    2. CEASE THE CONDUCT OR  PRACTICE ; OR 
+ 
+    3. SUBMIT PERIODIC DATA  RELATED TO THE CONDU CT 
+OR PRACTICE ; OR 
+ 
+ WES MOORE, Governor  Ch. 234  
+ 
+– 13 –    (II) SUBJECT TO PARAGRAPH  (3) OF THIS SUBSECTION , 
+REQUIRE  THE CARRIER TO PERFO RM A NEW COMPARATIVE  ANALYSIS . 
+ 
+  (3) THE COMMISSIONER MAY REQU IRE THE CARRIER TO E STABLISH 
+SPECIFIC QUANTITATIV E THRESHOLDS FOR EVI DENTIARY STANDARDS A ND 
+CONDUCT A NEW COMPAR ATIVE ANALYSIS FOR A  NONQUANTITATIVE TREA TMENT 
+LIMITATION IF  THE COMMISSIONER DETERMIN ES A CARRIER FAILED TO PROVIDE A 
+SUFFICIENT COMPARATI VE ANALYSIS BECAUSE THE CARRIER DID NOT : 
+ 
+   (I) USE APPLICABLE QUANT ITATIVE THRESHOLDS F OR THE 
+EVIDENTIARY STANDARD ; OR 
+ 
+   (II) PROVIDE A SPECIFIC , DETAILED , AND REASONED 
+EXPLANATION OF HOW T HE CARRIER ENSURES T HAT THE FACTORS FOR THE 
+NONQUANTITATIVE TREA TMENT LIMITATION ARE  BEING APPLIED COMPAR ABLY 
+AND NO MORE STRINGEN TLY TO MENTAL HEALTH  AND SUBSTANCE USE DI SORDER 
+SERVICES . 
+ 
+  (4) SUBSECTION (I)(1)( III) OF THIS SECTION DO ES NOT APPLY TO THE 
+FAILURE OF A CARRIER  TO SUBMIT A COMPLETE  REPORT .  
+ 
+ (k) If, as a result of the review required under subsection [(i)(1)] (I)(1)( I) of this 
+section, the Commissioner finds that the carrier failed to comply with [the provisions of ] 
+the P arity Act, [and] did not submit a compliance plan to adequately correct the 
+noncompliance , OR FAILED TO SUBMIT INFORMATION THAT IS REQUIRED TO  
+EVALUATE COMPLIANCE WITH THE PARITY ACT, the Commissioner may:  
+ 
+  (1) issue an administrative order that requires : 
+ 
+   (i) the carrier or an entity delegated by the carrier to cease the 
+noncompliant conduct or practice; [or] 
+ 
+   (II) THE CARRIER OR AN EN TITY DELEGATED BY TH E CARRIER  
+TO CEASE THE IMPLEME NTATION OF THE NONQU ANTITATIVE TREATMENT  
+LIMITATION ; OR 
+ 
+   [(ii)] (III) the carrier to provide a payment that has been denied 
+improperly because of the noncompliance , INCLUDING A FAILURE TO PROVIDE  
+INFORMATION THAT DEM ONSTRATES COMPLIANCE ; [or] 
+ 
+  (2) IMPOSE A PENALTY OF NOT LESS THAN $1,000  FOR EACH DAY IN  
+WHICH THE C ARRIER FAILS TO SUBM IT INFORMATION REQUI RED BY THE  
+COMMISSIONER TO EVALU ATE COMPLIANCE ; OR  
+ 
+Ch. 234  2024 LAWS OF MARYLAND   
+ 
+– 14 –   [(2)] (3) impose any OTHER penalty or take any action as authorized:  
+ 
+   (i) for an insurer, nonprofit health service plan, or any other person 
+subject to this s ection, under this article; or  
+ 
+   (ii) for a health maintenance organization, under this article or the 
+Health – General Article.  
+ 
+ (L) (1) A CARRIER SHALL HAVE T HE BURDEN OF PERSUAS ION IN 
+DEMONSTRATING THAT I TS HEALTH PLAN  DESIGN AND APPLICATI ON OF A 
+NONQUANTITATIVE TREA TMENT LIMITATION  COMPLIES WITH THE PARITY ACT: 
+ 
+   (I) IN ANY REVIEW CONDUC TED BY THE COMMISSIONER 
+UNDER THIS SECTION ; OR 
+ 
+   (II) IN ANY MATTER FILED WITH  COMPLAINT INVESTIGAT ION OR 
+MARKET CONDUCT ACTIO N UNDERTAKEN BY  THE COMMISSIONER THAT INVOLVES 
+THE APPLICATION OF T HE PARITY ACT. 
+ 
+  (2) (I) A FAILURE OF A CARRIER  TO SUBMIT COMPLETE PARITY 
+ACT COMPLIANCE INFORM ATION REQUIRED UNDER  THIS SECTION OR IN 
+CONNECTION WITH A MATTER FILED WITH  AN INVESTIGATION OR EXAMINATION BY  
+THE COMMISSIONE R SHALL CONSTITUTE N ONCOMPLIANCE WITH TH E PARITY ACT. 
+ 
+   (II) SUBSECTION (I)(1)( III) OF THIS SECTION DOES  NOT APPLY 
+TO A CARRIER THAT FA ILS TO SUBMIT COMPLE TE PARITY ACT COMPLIANCE 
+INFORMATION .  
+ 
+ [(l)] (M) In determining an appropriate penalty under subsection (j) or (k) of this 
+section, the Commissioner shall consider the late filing of a report required under 
+subsection (c) or (f) of this section and any parity violation to be a serious violation with a 
+significantly deleterious effect on the public . 
+ 
+ [(m)] (N) On or before December 31, 2021, the  THE Commissioner shall create:  
+ 
+  (1) a standard form for entities to submit the reports in accordance with 
+subsection (g)(1) of this section; and  
+ 
+  (2) a summary form for entities to post to their website s in accordance with 
+subsection (g)(5) of this section.  
+ 
+ [(n)] (O) On or before December 31, [2021] 2024 , the THE Commissioner shall, 
+in consultation with interested stakeholders, adopt regulations to implement this section, 
+ WES MOORE, Governor  Ch. 234  
+ 
+– 15 – including to ensure uniform de finitions and methodology for the reporting requirements 
+established under this section.  
+ 
+15–1309.  
+ 
+ (a) (1) In this section the following words have the meanings indicated.  
+ 
+  (3) (i) “Product ” means a discrete package of health benefits that are 
+offered using a particular product network type within a geographic service area.  
+ 
+   (ii) “Product ” comprises all plans offered within the product.   
+ 
+Chapter 211 of the Acts of 2020  
+ 
+ [SECTION 2. AND B E IT FURTHER ENACTED, That the standard form the 
+Maryland Insurance Commissioner is required to develop under § 15 –144(m)(1) of the 
+Insurance Article, as enacted by Section 1 of this Act, for the report required under §  
+15–144(c) of the Insurance Article,  as enacted by Section 1 of this Act, shall be the National 
+Association of Insurance Commissioners’ Data Collection Tool for Mental Health Parity 
+Analysis, Nonquantitative Treatment Limitations and any amendments by the 
+Commissioner to the tool necessary t o incorporate the requirements of § 15 –144(c), (d), and 
+(e) of the Insurance Article, as enacted by Section 1 of this Act. ]  
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2020. [It shall remain in effect for a period of  6 years and, at the end of 
+September 30, 2026, this Act, with no further action required by the General Assembly, 
+shall be abrogated and of no further force and effect. ] 
+ 
+Chapter 212 of the Acts of 2020  
+ 
+ [SECTION 2. AND BE IT FURTHER ENACTED, That the st andard form the 
+Maryland Insurance Commissioner is required to develop under § 15 –144(m)(1) of the 
+Insurance Article, as enacted by Section 1 of this Act, for the report required under §  
+15–144(c) of the Insurance Article, as enacted by Section 1 of this Act, shall be the National 
+Association of Insurance Commissioners’ Data Collection Tool for Mental Health Parity 
+Analysis, Nonquantitative Treatment Limitations and any amendments by the 
+Commissioner to the tool necessary to incorporate the requirements of  § 15–144(c), (d), and 
+(e) of the Insurance Article, as enacted by Section 1 of this Act. ]  
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2020. [It shall remain in effect for a period of 6 years and, at the end of 
+September 30, 2026, this Act, with no further action required by the General Assembly, 
+shall be abrogated and of no further force and effect. ] 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 
+1, 2024  is an emergency measure, is necessary for the immediate preservation of the public 
+Ch. 234  2024 LAWS OF MARYLAND   
+ 
+– 16 – health or safety, has been passed by a yea and nay vote supported by three –fifths of all the 
+members elected to each of the two Houses of the General Assembly, and shall take effect 
+from the date it is  enacted .  
+ 
+Approved by the Governor, April 25, 2024.  

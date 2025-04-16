@@ -1,0 +1,337 @@
+ WES MOORE, Governor  Ch. 365  
+ 
+– 1 – Chapter 365  
+(House Bill 785 ) 
+ 
+AN ACT concerning  
+ 
+Health Insurance – Step Therapy or Fail –First Protocol and Prior Authorization  
+– Revisions  
+ 
+FOR the purpose of prohibiting certain  insurers, nonprofit health service plans, and health 
+maintenance organizations from imposing a step therapy or fail –first protocol on an 
+insured or an enrollee for certain prescription drugs used to treat a certain mental 
+disorder or condition;  requiring certain insurers, nonprofit health service plans, or 
+health maintenance organizations to establish a certain process for requesting an 
+exception to a step therapy or fail –first protocol; prohibiting certain insurers, 
+nonprofit health service plans, health maintenance organizations, and pharmacy 
+benefits managers from requiring more than a certain number of prior 
+authorizations for a prescription for different dosages of the same prescription drug; 
+requiring a private review agent to make a determination on a step therapy 
+exception request or prior authorization request submitted electronically within a 
+certain period of time;  and generally relating to step therapy or fail –first protocols 
+and prior authorizations  and health insurance.  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Insurance  
+Section 15 –142 and 15 –10B–06(a)  
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2022 Supplement)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Insurance  
+ Section 15 –854(a)  
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2022 Supplement)  
+ 
+BY adding to  
+ Article – Insurance  
+ Section 15 –854(g)  
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2022 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY O F MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Insurance  
+ 
+15–142. 
+Ch. 365  2023 LAWS OF MARYLA ND  
+ 
+– 2 –  
+ (a) (1) In this section the following words have the meanings indicated.  
+ 
+  (2) “Step therapy drug” means a prescription drug or sequence of 
+prescription drugs required to be used under a step therapy or fail –first protocol.  
+ 
+  (3) “STEP THERAPY EXCEPTIO N REQUEST ” MEANS A REQUEST TO 
+OVERRIDE A STEP THER APY OR FAIL –FIRST PROTOCOL . 
+ 
+  [(3)] (4) (I) “Step therapy or fail –first protocol” means a protocol 
+established by an insurer, a nonprofit health service plan, or a health maintenance 
+organization that requires a prescription drug or sequence of prescription drugs to be used 
+by an insured or an enrollee before a prescription drug ordered by a prescriber for the 
+insured or  the enrollee is covered.  
+ 
+   (II) “STEP THERAPY OR FAIL –FIRST PROTOCOL ” INCLUDES A 
+PROTOCOL THAT MEETS THE DEFINITION UNDER  SUBPARAGRAPH (I) OF THIS 
+PARAGRAPH REGARDLESS  OF THE NAME , LABEL , OR TERMINOLOGY USED BY THE 
+INSURER , NONPROFIT HEALTH SER VICE PLAN , OR HEALTH MAINTENANC E 
+ORGANIZATION TO IDEN TIFY THE PROTOCOL . 
+ 
+  [(4)] (5) “Supporting medical information” means:  
+ 
+   (i) a paid claim from an entity subject to this section for an insured 
+or an enrollee;  
+ 
+   (ii) a pharmacy record that documents that a prescription has been 
+filled and delivered to an insured or an enrollee, or a representative of an insured or an 
+enrollee; or  
+ 
+   (iii) other information mutually agreed on by an entity subject to this 
+section and the prescriber of an insured or an enrolle e. 
+ 
+ (b) (1) This section applies to:  
+ 
+   (i) insurers and nonprofit health service plans that provide hospital, 
+medical, or surgical benefits to individuals or groups on an expense –incurred basis under 
+health insurance policies or contracts that are issue d or delivered in the State; and  
+ 
+   (ii) health maintenance organizations that provide hospital, 
+medical, or surgical benefits to individuals or groups under contracts that are issued or 
+delivered in the State.  
+ 
+ WES MOORE, Governor  Ch. 365  
+ 
+– 3 –   (2) An insurer, a nonprofit health servic e plan, or a health maintenance 
+organization that provides coverage for prescription drugs through a pharmacy benefits 
+manager is subject to the requirements of this section.  
+ 
+ (c) An entity subject to this section may not impose a step therapy or fail –first 
+protocol on an insured or an enrollee if:  
+ 
+  (1) the step therapy drug has not been approved by the U.S. Food and Drug 
+Administration for the medical condition being treated; or  
+ 
+  (2) a prescriber provides supporting medical information to the entity that 
+a prescription drug covered by the entity:  
+ 
+   (i) was ordered by a prescriber for the insured or enrollee within the 
+past 180 days; and  
+ 
+   (ii) based on the professional judgment of the prescriber, was 
+effective in treating the insured’s or enrollee ’s disease or medical condition.  
+ 
+ (d) Subsection (c) of this section may not be construed to require coverage for a 
+prescription drug that is not:  
+ 
+  (1) covered by the policy or contract of an entity subject to this section; or  
+ 
+  (2) otherwise required by law to be covered.  
+ 
+ (e) An entity subject to this section may not impose a step therapy or fail –first 
+protocol on an insured or an enrollee for a prescription drug approved by the U.S. Food and 
+Drug Administration if:  
+ 
+  (1) (I) the prescription drug i s used to treat the insured’s or enrollee’s 
+stage four advanced metastatic cancer; and  
+ 
+  [(2)] (II) use of the prescription drug is:  
+ 
+   [(i)] 1. consistent with the U.S. Food and Drug  
+Administration –approved indication or the National Comprehensive Cancer Network 
+Drugs & Biologics Compendium indication for the treatment of stage four advanced 
+metastatic cancer; and  
+ 
+   [(ii)] 2. supported by peer –reviewed medical literature ; OR 
+ 
+  (2) THE PRESCRIPTION DRU G IS USED TO TREAT T HE INSURED ’S OR  
+ENROLLEE ’S MENTAL DISORDER OR C ONDITION , AS DEFINED IN THE CU RRENT  
+DIAGNOSTIC AND STATISTICAL MANUAL OF MENTAL DISORDERS PUBLISHED B Y 
+THE AMERICAN PSYCHIATRIC ASSOCIATION , THAT RESULTS IN A SE RIOUS  
+Ch. 365  2023 LAWS OF MARYLA ND  
+ 
+– 4 – FUNCTIONAL IMPAIRMEN T THAT SUBSTANTIALLY  INTERFERES WITH OR L IMITS O NE 
+OR MORE MAJOR LIFE A CTIVITIES . 
+ 
+ (F) (1) AN ENTITY SUBJECT TO THIS SECTION SHALL E STABLISH A 
+PROCESS FOR REQUESTI NG AN EXCEPTION TO A  STEP THERAPY OR FAIL –FIRST 
+PROTOCOL THAT IS : 
+ 
+   (I) CLEARLY DESCRIBED , INCLUDING THE SPECIF IC 
+INFORMATION AND DOCUMENTATION , IF NEEDED , THAT MUST BE SUBMITT ED BY 
+THE PRESCRIBER TO BE CON SIDERED A COMPLETE S TEP THERAPY EXCEPTIO N 
+REQUEST ; 
+ 
+   (II) EASILY ACCESSIBLE TO  THE PRESCRIBER ; AND 
+ 
+   (III) POSTED ON THE ENTITY ’S WEBSITE . 
+ 
+  (2) A STEP THERAPY EXCEPTI ON REQUE ST SHALL BE GRANTED IF, 
+BASED ON THE PROFESS IONAL JUDGMENT OF TH E PRESCRIBER AND ANY 
+INFORMATION AND DOCU MENTATION REQUIRED U NDER PARAGRAPH (1)(I) OF THIS 
+SUBSECTION : 
+ 
+   (I) THE STEP THERAPY DRU G IS CONTRAINDICATED  OR WILL 
+LIKELY CAUSE AN ADVE RSE REACTION , PHYSICAL HARM , OR MENTAL HARM  TO THE 
+INSURED OR ENROLLEE ; 
+ 
+   (II) THE STEP THERAPY DRU G IS EXPECTED TO BE INEFFECTIVE 
+BASED ON THE KNOWN C LINICAL CHARACTERIST ICS OF THE INSURED O R ENROLLEE 
+AND THE KNOWN CHARAC TERISTICS OF THE PRE SCRIPTION DRUG REGIM EN; 
+ 
+   (III) THE INSURED OR ENROL LEE IS STABLE ON A P RESCRIPTION 
+DRUG PRESCRIBED FOR THE MEDICAL CONDITIO N UNDER CONSIDERATIO N WHILE 
+COVERED UNDER THE PO LICY OR CONTRACT OF THE ENTITY OR UNDER A PREVIOUS 
+SOURCE OF COVERAGE ; OR 
+ 
+   (IV) WHILE COVERED UNDER THE  POLICY OR CONTRACT O F THE 
+ENTITY OR A PREVIOUS  SOURCE OF COVERAGE , THE INSURED OR ENROL LEE HAS 
+TRIED A PRESCRIPTION  DRUG THAT : 
+ 
+    1. IS IN THE SAME PHARM ACOLOGIC CLASS OR HA S THE 
+SAME MECHANISM OF AC TION AS THE STEP THE RAPY DRUG ; AND 
+ 
+ WES MOORE, Governor  Ch. 365  
+ 
+– 5 –     2. WAS DISCONTINUED BY THE PRESCRIBER DUE T O 
+LACK OF EFFICACY OR EFFECTIVENESS , DIMINISHED EFFECT , OR AN ADVERSE 
+EVENT .  
+ 
+  (3) AN INSURED OR ENROLLE E MAY APPEAL THE DEC ISION TO DENY  
+A STEP THERAPY EXCEP TION REQUEST UNDER T HIS SECTION .  
+ 
+  (4) (I) A STEP THER APY EXCEPTION REQUES T OR APPEAL SHALL  
+BE GRANTED : 
+ 
+    1. IN REAL TIME IF NO A DDITIONAL INFORMATIO N IS  
+NEEDED BY THE ENTITY  TO PROCESS THE REQUE ST AND THE REQUEST M EETS THE  
+ENTITY’S CRITERIA FOR APPRO VAL; OR 
+ 
+    2. IF ADDITIONAL INFORM ATION IS NEEDED BY T HE 
+ENTITY TO PROCESS TH E REQUEST AND THE RE QUEST IS NOT URGENT , WITHIN 1 
+BUSINESS DAY AFTER T HE ENTITY RECEIVES A LL RELEVANT INFORMAT ION NEEDED  
+TO PROCESS THE REQUE ST.  
+ 
+   (II) IF AN ENTITY SUBJECT TO THIS SECTION DOES  NOT GRANT  
+OR DENY A STEP THERA PY EXCEPTION REQUEST OR  AN APPEAL WITHIN THE  TIME  
+PERIOD REQUIRED UNDE R SUBPARAGRAPH (I) OF THIS PARAGRAPH , THE REQUEST  
+OR APPEAL SHALL BE T REATED AS GRANTED . 
+ 
+  (3) ON GRANTING A STEP TH ERAPY EXCEPTION REQU EST, AN ENTITY 
+SUBJECT TO THIS SECT ION SHALL AUTHORIZE COVERAGE F OR THE PRESCRIPTION 
+DRUG ORDERED BY THE PRESCRIBER FOR AN IN SURED OR ENROLLEE . 
+ 
+  (4) AN ENROLLEE OR INSURE D MAY APPEAL A STEP THERAPY 
+EXCEPTION REQUEST DE NIAL IN ACCORDANCE W ITH SUBTITLE 10A  OR SUBTITLE 
+10B  OF THIS TITLE .  
+ 
+  (5) THIS SUBSECTION MAY NOT B E CONSTRUED TO PREVENT : 
+ 
+   (I) PREVENT : 
+ 
+    1. AN ENTITY SUBJECT TO  THIS SECTION FROM 
+REQUIRING AN INSURED  OR ENROLLEE TO TRY A N AB–RATED GENERIC 
+EQUIVALENT OR INTERC HANGEABLE BIOLOGICAL  PRODUCT BEFORE PROVI DING 
+COVERAGE FOR THE EQUIVALENT BRANDED P RESCRIPTION DRUG ; OR 
+ 
+   (II) 2. A HEALTH CARE PROVID ER FROM PRESCRIBING A 
+PRESCRIPTION DRUG TH AT IS DETERMINED TO BE MEDICALLY APPROPR IATE ; OR 
+ 
+Ch. 365  2023 LAWS OF MARYLA ND  
+ 
+– 6 –    (II) REQUIRE AN ENTITY SU BJECT TO THIS SECTIO N TO 
+PROVIDE COVERAGE FOR  A PRESCRIPTION DRUG THAT IS NOT COV ERED BY A 
+POLICY OR CONTRACT O F THE ENTITY .  
+ 
+  (6) AN ENTITY SUBJECT TO THIS SECTION MAY USE  AN EXISTING STEP 
+THERAPY EXCEPTION PR OCESS THAT SATISFIES  THE REQUIREMENTS UND ER THIS 
+SUBSECTION .  
+ 
+15–854. 
+ 
+ (a) (1) This section applies to:  
+ 
+   (i) insurers and nonprofit health service plans that provide coverage 
+for prescription drugs through a pharmacy benefit under individual, group, or blanket 
+health insurance policies or contracts that are issued or delivered in the State; and  
+ 
+   (ii) health maintenance organizations that provide coverage for 
+prescription drugs through a pharmacy benefit under individual or group contracts that 
+are issued or delivered in the State.  
+ 
+  (2) An insurer, a nonprofit health service plan, or a health maintenance 
+organization that provides coverage for prescription drugs through a pharmacy benefits 
+manager or that contracts with a private review agent under Subtitle 10B of this article is 
+subject to the requirements of this section.  
+ 
+  (3) This section does not apply to a managed care organization as defined 
+in § 15 –101 of the Health – General Article.  
+ 
+ (G) (1) EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS SUBSECTION , 
+AN ENTITY SUBJECT TO  THIS SECTION MAY NOT  REQUIRE MORE THAN ON E PRIOR 
+AUTHORIZATION IF T WO OR MORE TABLETS O F DIFFERENT DOSAGE S TRENGTHS OF 
+THE SAME PRESCRIPTIO N DRUG ARE : 
+ 
+   (I) PRESCRIBED AT THE SA ME TIME AS PART OF A N INSURED ’S 
+TREATMENT PLAN ; AND  
+ 
+   (II) MANUFACTURED BY THE SAME MANUFACTURER . 
+ 
+  (2) THIS SUBSECTION DOES NOT PROHIBIT AN ENTITY FROM 
+REQUIRING MORE THAN ONE PRIOR AUTHORIZAT ION IF THE PRESCRIPT ION IS FOR 
+TWO OR MORE TABLETS OF DIFFERENT DOSAGE STRENGTHS OF AN OPIO ID THAT IS 
+NOT AN OPIOID PARTIA L AGONIST . 
+ 
+15–10B–06. 
+ 
+ WES MOORE, Governor  Ch. 365  
+ 
+– 7 –  (a) (1) [A] EXCEPT AS PROVIDED IN  PARAGRAPH (4) OF THIS 
+SUBSECTION , A private review agent shall:  
+ 
+   (i) make all initial determinations on whether to authorize or certify 
+a nonemergency course of treatment for a patient within 2 working days after receipt of the 
+information necessary to make the determination;  
+ 
+   (ii) make all determinations on whether to authorize or certify an 
+extended stay in a health care facility or additional health care services within 1 working 
+day after receipt of the information necessary to make the determination; and  
+ 
+   (iii) prom ptly notify the health care provider of the determination.  
+ 
+  (2) If within 3 calendar days after receipt of the initial request for health 
+care services the private review agent does not have sufficient information to make a 
+determination, the private rev iew agent shall inform the health care provider that 
+additional information must be provided.  
+ 
+  (3) If a private review agent requires prior authorization for an emergency 
+inpatient admission, or an admission for residential crisis services as defined in § 15–840 
+of this title, for the treatment of a mental, emotional, or substance abuse disorder, the 
+private review agent shall:  
+ 
+   (i) make all determinations on whether to authorize or certify an 
+inpatient admission, or an admission for residential crisis  services as defined in § 15 –840 
+of this title, within 2 hours after receipt of the information necessary to make the 
+determination; and  
+ 
+   (ii) promptly notify the health care provider of the determination.  
+ 
+  (4) FOR A STEP THERAPY EX CEPTION REQUEST SUBM ITTED 
+ELECTRONICALLY IN AC CORDANCE WITH A PROC ESS ESTABLISHED UNDE R §  
+15–142( F) OF THIS TITLE OR A P RIOR AUTHORIZATION R EQUEST SUBMITTED 
+ELECTRONICALLY FOR P HARMACEUTICAL SERVIC ES, A PRIVATE REVIEW AGE NT 
+SHALL MAKE  A DETERMINATION : 
+ 
+   (I) IN REAL TIME IF : 
+ 
+    1. NO ADDITIONAL INFORM ATION IS NEEDED BY T HE 
+PRIVATE REVIEW AGENT  TO PROCESS THE REQUE ST; AND  
+ 
+    2. THE REQUEST MEETS TH E PRIVATE REVIEW AGE NT’S 
+CRITERIA FOR APPROVA L; OR 
+ 
+Ch. 365  2023 LAWS OF MARYLA ND  
+ 
+– 8 –    (II) IF A REQUEST IS NOT APPRO VED UNDER ITEM (I) OF THIS 
+PARAGRAPH , WITHIN 1 BUSINESS DAY AFTER T HE PRIVATE REVIEW AG ENT 
+RECEIVES ALL OF THE INFORMATION NECESSAR Y TO MAKE THE DETERM INATION .  
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall apply to all 
+policies, contracts, a nd health benefit plans issued, delivered, or renewed in the State on or 
+after January 1, 2024.  
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+January 1, 2024.  
+ 
+Approved by the Governor, May 3, 2023.  

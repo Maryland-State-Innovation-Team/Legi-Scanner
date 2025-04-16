@@ -1,0 +1,890 @@
+ WES MOORE, Governor  Ch. 652  
+ 
+– 1 – Chapter 652  
+(House Bill 908 ) 
+ 
+AN ACT concerning  
+ 
+Electricity – Community Solar Energy Generating Systems Program and 
+Property Taxes   
+ 
+FOR the purpose of making permanent the Community Solar Energy Generating Systems 
+Pilot Program; requiring a community solar energy generating system under the 
+Program to serve a certain percentage of its kilowatt –hour output to low –income and 
+moderate –income subscribers under certain circumstances; authorizing a 
+subscription coordinator to act on behalf of a subscriber organization; altering 
+requirements related to the siting and size of certain community solar energy 
+generating systems projects; authorizi ng the use of consolidated billing for certain 
+subscription charges; prohibiting a subscriber organization or subscription 
+coordinator from charging an LMI subscriber a certain subscription rate;  requiring 
+an electric company to provide certain data to a subscriber organization or 
+subscription coordinator; authorizing an electric company to charge a certain fee for 
+the use of consolidated billing; requiring a person constructing or operating a 
+community solar energy generating system to address critical area, climate 
+resilience, and forest conservation concerns in a certain manner; requiring the Public 
+Service Commission to establish a stakeholder workgroup related to the 
+development of certain reg ulations; requiring the Commission to adopt certain 
+regulations making the pilot program permanent, allowing for the use of 
+consolidated billing, and implementing the provisions of this Act; requiring the 
+Commission to consider and implement certain method ologies to allow tenants of 
+master –metered residential facilities to participate in the Program; repealing 
+provisions related to maintenance of subscriptions if a subscriber has a change of 
+address;  prohibiting certain subscription rates and charges from b eing set at more 
+than a certain amount; establishing certain prevailing wage or labor requirements 
+for developers of certain community solar energy generating system projects;  
+creating a full –time position within the Commission for a certain purpose; alter ing 
+the personal property tax exemption for certain community solar energy generating 
+systems;  and generally relating to the Community Solar Energy Generating Systems 
+Program  community solar energy generating systems .  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Public Utilities  
+Section 7 –306.2  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2022 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Tax – Property  
+ Section 7 –237 
+Ch. 652  2023 LAWS OF MARYLAND   
+ 
+– 2 –  Annotated Code of Maryland  
+ (2019 Replacement Volume and 2022 Supplement)  
+ (As enacted by Chapters 38, 415, 658, and 659 of 2022)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Public Utilities  
+ 
+7–306.2.  
+ 
+ (a) (1) In this section the following words have the meanings indicated.  
+ 
+  (2) “AGRIVOLTAICS ” MEANS THE SIMULTANEO US USE OF AREAS OF 
+LAND FOR BOTH SOLAR POWER GENERATION AND  AGRICULTURE : 
+ 
+   (I) RAISING GRAINS , FRUITS , HERBS , MELONS , MUSHROOMS , 
+NUTS , SEEDS , TOBACCO , OR VEGETABLES ; 
+ 
+   (II) RAISING POULTRY , INCLUDING CHICKENS A ND TURKEYS , 
+FOR MEAT OR EGG PROD UCTION ; 
+ 
+   (III) DAIRY PRODUCTION , SUCH AS THE RAISING OF MILKING 
+COWS ; 
+ 
+   (IV) RAISING LIVESTOCK , INCLUDING CATTLE , SHEEP , GOATS , 
+OR PIGS ; 
+ 
+   (V) HORSE BOARDING , BREEDING , OR TRAINING ; 
+ 
+   (VI) TURF FARMING ; 
+ 
+   (VII) RAISING ORNAMENTAL S HRUBS , PLANTS , OR FLOWERS , 
+INCLUDING AQUATIC PL ANTS ; 
+ 
+   (VIII) AQUACULTURE ; 
+ 
+   (IX) SILVICULTURE ; OR 
+ 
+   (X) ANY OTHER ACTIVITY R ECOGNIZED BY THE DEPARTMENT 
+OF AGRICULTURE AS AN AGR ICULTURAL ACTIVITY . 
+ 
+  (3) “Baseline annual usage” means:  
+ 
+ WES MOORE, Governor  Ch. 652  
+ 
+– 3 –    (i) a subscriber’s accumulated electricity use in kilowatt –hours for 
+the 12 months before the subscriber’s most recent subscription; or  
+ 
+   (ii) for a subscriber that does n ot have a record of 12 months of 
+electricity use at the time of the subscriber’s most recent subscription, an estimate of the 
+subscriber’s accumulated 12 months of electricity use in kilowatt –hours, determined in a 
+manner the Commission approves.  
+ 
+  [(3)] (4) “Community solar energy generating system” means a solar 
+energy system that:  
+ 
+   (i) is connected to the electric distribution grid serving the State;  
+ 
+   (ii) is located in the same electric service territory as its subscribers;  
+ 
+   (iii) is attached to the electric meter of a subscriber or is a separate 
+facility with its own electric meter;  
+ 
+   (iv) credits its generated electricity, or the value of its generated 
+electricity, to the bills of the subscribers to that system through virtual net energy 
+metering;  
+ 
+   (v) has at least two subscribers but no limit to the maximum number 
+of subscribers;  
+ 
+   (vi) does not have subscriptions larger than 200 kilowatts 
+constituting more than 60% of its [subscriptions ] KILOWATT –HOUR OUTPUT ; 
+ 
+   (vii) has a generatin g capacity that does not exceed 5 megawatts as 
+measured by the alternating current rating of the system’s inverter; [and] 
+ 
+   (viii)  may be owned by any person ; AND  
+ 
+   (IX) WITH RESPECT TO COMMUNITY SOLAR ENER GY 
+GENERATING SYSTEMS C ONSTRUCTED UNDER  THE PROGRAM , SERVES AT LEAST 
+40%  OF ITS KILOWATT –HOUR OUTPUT TO LMI  SUBSCRIBERS UNLESS T HE SOLAR 
+ENERGY SYSTEM IS WHO LLY OWNED BY THE SUBSCRIBERS TO T HE SOLAR ENERGY  
+SYSTEM  A NONPROFIT ORGANIZA TION  THE SUBSCRIBERS TO T HE SOLAR ENERGY 
+SYSTEM . 
+ 
+  (5) “CONSOLIDATED BILLING ” MEANS A PAYMENT MECH ANISM THAT 
+REQUIRES AN ELECTRIC  COMPANY TO , AT THE REQUEST OF A SUBSCRIBER 
+ORGANIZATION OR SUBS CRIPTION COORDINATOR :  
+ 
+Ch. 652  2023 LAWS OF MARYLAND   
+ 
+– 4 –    (I) INCLUDE THE MONTHLY SUBSCRIPTION CHARGE OF A 
+SUBSCRIBER ORGANIZAT ION OR SUBSCRIPTION COORDINATOR ON THE MON THLY 
+BILLS RENDERED BY TH E ELECTRIC COMPANY F OR ELECTRIC SERVICE AND SUPPLY 
+TO SUBSCRIBERS ; AND 
+ 
+   (II) REMIT PAYMENT RECEIVED  FOR THOSE CHARGES TO  THE 
+SUBSCRIBER ORGANIZAT ION OR SUBSCRIPTION COORDINATOR . 
+ 
+  (6) “CRITICAL AREA ” HAS THE  MEANING STATED IN § 8–1802  OF THE 
+NATURAL RESOURCES ARTICLE . 
+ 
+  (7) “LMI  SUBSCRIBER ” MEANS A SUBSCRIBER T HAT: 
+ 
+   (I) IS LOW–INCOME ; 
+ 
+   (II) IS MODERATE –INCOME ; OR 
+ 
+   (III) RESIDES IN A CENSUS TRACT THAT IS AN : 
+ 
+    1. OVERBURDENED COMMUNI TY; AND  
+ 
+    2. UNDERSERVED COMMUNIT Y. 
+ 
+  (8) “LOW–INCOME ” MEANS :  
+ 
+   (I) HAVING AN ANNUAL HOU SEHOLD INCOME THAT I S AT OR 
+BELOW 200%  OF THE FEDERAL POVER TY LEVEL ; OR  
+ 
+   (II) BEING CERTIFIED AS E LIGIBLE FOR ANY FEDE RAL, STATE , 
+OR LOCAL ASSISTANCE PROGRAM THAT LIMITS PARTICIPATION TO HOU SEHOLDS 
+WHOSE INCOME IS AT O R BELOW 200%  OF THE FEDERAL POVER TY LEVEL . 
+ 
+  (9) “MODERATE –INCOME” MEANS HAVING AN ANNU AL HOUSEHOLD 
+INCOME THAT IS AT OR  BELOW 80%  OF THE MEDIAN INCOME  FOR MARYLAND . 
+ 
+  (10) “OVERBURDENED COMMUNIT Y” HAS THE MEANING STATED IN § 
+1–701 OF THE ENVIRONMENT ARTICLE . 
+ 
+  (11) “PILOT PROGRAM ” MEANS THE PROGRAM ES TABLISHED UNDER 
+THIS SECTION BEFORE OCTOBER  JULY 1, 2023 , AND EFFECTIVE UNTIL THE START 
+OF THE PROGRAM ESTABLISHED U NDER SUBSECTION (D)(20)  OF THIS SECTION . 
+ 
+  [(4)] (12)  “Program” means the Community Solar Energy Generating 
+Systems [Pilot] Program.  
+ WES MOORE, Governor  Ch. 652  
+ 
+– 5 –  
+  (13) “QUEUE” MEANS :  
+ 
+   (I) THE PILOT PROGRAM QU EUE AN ELECTRIC COMP ANY IS 
+REQUIRED TO MAINTAIN  UNDER COMAR  20.62.03.04;  AND 
+ 
+   (II) A QUEUE AN ELECTRIC COMPANY MAY BE REQUI RED TO 
+MAINTAIN UNDER THE PROGRAM . 
+ 
+  [(5)] (14)  “Subscriber” means a retail customer of an electric company that:  
+ 
+   (i) holds a subscription to a community solar energy generating 
+system; and  
+ 
+   (ii) has identified one or more indiv idual meters or accounts to which 
+the subscription shall be attributed.  
+ 
+  [(6)] (15)  “Subscriber organization” means:  
+ 
+   (i) a person that owns or operates a community solar energy 
+generating system; or  
+ 
+   (ii) the collective group of subscribers of a c ommunity solar energy 
+generating system.  
+ 
+  [(7)] (16)  “Subscription” means the portion of the electricity generated by 
+a community solar energy generating system that is credited to a subscriber.  
+ 
+  (17) “SUBSCRIPTION COORDINA TOR” MEANS A PERSON THAT : 
+ 
+   (I) MARKETS COMMUNITY SO LAR ENERGY GENERATIN G 
+SYSTEMS OR OTHERWISE  PROVIDES SERVICES RE LATED TO COMMUNITY S OLAR 
+ENERGY GENERATING SY STEMS UNDER ITS OWN BRAND NAME ; 
+ 
+   (II) PERFORMS ANY ADMINIS TRATIVE ACTION TO AL LOCATE 
+SUBSCRIPTIONS , CONNECT SUBSCRIBERS WITH COMMUNITY SOLAR  ENERGY 
+GENERATING SYSTEMS , OR ENROLL CUSTOMERS IN THE PROGRAM ; OR 
+ 
+   (III) MANAGES INTERACTIONS  BETWEEN A SUBSCRIBER  
+ORGANIZATION AND AN ELECTRIC COMPANY OR ELECTRICITY SUPPLIER  RELATING 
+TO SUBSCRIBERS . 
+ 
+  (18) “UNDERSERVED COMMUNITY ” HAS THE MEANING STAT ED IN §  
+1–701 OF THE ENVIRONMENT ARTICLE . 
+ 
+Ch. 652  2023 LAWS OF MARYLAND   
+ 
+– 6 –   [(8)] (19)  “Unsubscribed energy” means any community solar energy 
+generating system output in kilowatt –hours that is not allocated to any subscriber.  
+ 
+  [(9)] (20)  “Virtual net energy metering” means measurement of the 
+difference between the kilowatt –hours or value of electricity that is supplied by an electric 
+company and the kilowatt –hours or value of electricity attributable to a subscription to a 
+community solar energy generating system and fed back to the electric grid over the 
+subscriber’s billing period, as calculated under the tariffs established under [subsection ] 
+SUBSECTIONS  (e)(2) , (F)(2),  AND (G)(2) of this section.  
+ 
+ (b) The General Assembly finds that:  
+ 
+  (1) community solar energy generating systems:  
+ 
+   (i) provide residents and businesses, including those that lease 
+property, increased access to local solar electricity while encouraging private investment in 
+solar resources;  
+ 
+   (ii) enhance continued diversification of the State’s energy resource 
+mix to achieve the State’s renewable energy portfolio standard and Greenhouse Gas 
+Emissions Reduction Act goals; and  
+ 
+   (iii) provide electric companies and ratepayers the opportunity to 
+realize the many bene fits associated with distributed energy; and  
+ 
+  (2) it is in the public interest that the State enable the development and 
+deployment of energy generation from community solar energy generating systems in order 
+to: 
+ 
+   (i) allow renters and low –income and moderate –income retail 
+electric customers to own an interest in a community solar energy generating system;  
+ 
+   (ii) facilitate market entry for all potential subscribers while giving 
+priority to subscribers who are the most sensitive to market barriers; a nd 
+ 
+   (iii) encourage developers to promote participation by renters and 
+low–income and moderate –income retail electric customers.  
+ 
+ (c) A community solar energy generating system, [including a ] subscriber [or], 
+subscriber organization [associated with the community solar energy generating system ], 
+OR SUBSCRIPTION COOR DINATOR  is not:  
+ 
+  (1) an electric company;  
+ 
+  (2) an electricity supplier; or  
+ WES MOORE, Governor  Ch. 652  
+ 
+– 7 –  
+  (3) a generating station if the generating capacity of the community solar 
+energy generating system does not exceed 2 megawatts.  
+ 
+ (d) (1) (i) The Commission shall establish [a pilot program for ] AND 
+MAINTAIN a Community Solar Energy Generating [System ] SYSTEMS  Program.  
+ 
+   (ii) The structure of the [pilot program ] PROGRAM  is as provided in 
+this subsection.  
+ 
+  (2) All rate classes may participate in the [pilot program ] PROGRAM . 
+ 
+  (3) Subscribers served by electric standard offer service, community choice 
+aggregators, and electricity suppliers may hold subscriptions to the same community solar 
+energy generatin g system.  
+ 
+  (4) A subscriber organization OR SUBSCRIPTION COOR DINATOR 
+ACTING ON BEHALF OF A SUBSCRIBER ORGANIZ ATION  shall:  
+ 
+   (i) determine how to allocate subscriptions to subscribers; and  
+ 
+   (ii) notify an electric company and, if applicable, a releva nt 
+electricity supplier about THE ALLOCATION OF SU BSCRIPTIONS IN ACCOR DANCE WITH  
+the regulations the Commission adopts under subsection (e) of this section.  
+ 
+  (5) An electric company shall use the tariff structure under [subsection ] 
+SUBSECTIONS  (e)(2) , (F)(2),  AND (G)(2) of this section to provide each subscriber with the 
+credits.  
+ 
+  (6) A subscriber may not receive credit for virtual net excess generation 
+that exceeds 200% of the subscriber’s baseline annual usage.  
+ 
+  (7) Any unsubscribed energy generated  by a community solar energy 
+generating system that is not owned by an electric company shall be purchased under the 
+electric company’s process for purchasing the output from qualifying facilities at the 
+amount it would have cost the electric company to pr ocure the energy.  
+ 
+  (8) An electric company shall use energy generated from a community solar 
+energy generating system to offset purchases from wholesale electricity suppliers for 
+standard offer service.  
+ 
+  (9) All costs associated with small generator in terconnection standards 
+under COMAR 20.50.09 are the responsibility of the subscriber organization.  
+ 
+  (10) A subscriber organization may petition an electric company to 
+coordinate the interconnection and commencement of operations of a community solar 
+Ch. 652  2023 LAWS OF MARYLAND   
+ 
+– 8 – energy generating system after the Commission adopts regulations required under 
+subsection (e) of this section.  
+ 
+  (11) A subscriber organization may contract with a third party for the third 
+party to finance, build, own, or operate a community solar energy generating system.  
+ 
+  (12) A municipal utility or cooperative utility may participate in the [pilot 
+program ] PROGRAM . 
+ 
+  (13) (I) [Equipment for ] EXCEPT AS PROVIDED IN  SUBPARAGRAPH 
+(II) OF THIS PARAGRAPH , a community solar energy generating system may not be [built] 
+LOCATED  on [contiguous parcels of land unless the equipment is installed only on building 
+rooftops ] THE SAME OR AN ADJAC ENT PARCEL OF LAND A S AN EXISTING OR 
+PROPOSED COMMUNITY S OLAR ENERGY GENERATI NG SYSTEM IF THE TOT AL 
+INSTALLED CAPACITY O F ALL  COMMUNITY SOLAR ENER GY GENERATING SYSTEMS 
+ON THE SAME OR ADJAC ENT PARCEL WOULD EXC EED 5 MEGAWATTS .  
+ 
+   (II) THE PROHIBITION UNDER  SUBPARAGRAPH (I) OF THIS 
+PARAGRAPH DOES NOT A PPLY TO PROJECTS CON STRUCTED : 
+ 
+    1. ON THE ROOFTOPS OF B UILDINGS ;  
+ 
+    2. IN AREAS THAT ARE ZONED  FOR INDUSTRIAL USE ; 
+ 
+    3. ON BROWNFIELDS LOCAT IONS AND CLEAN FILL SITES ;  
+ 
+    4. OVER PARKING LOTS OR  ROADWAYS ;  
+ 
+    5. ON MULTILEVEL PARKIN G STRUCTURES ;  
+ 
+    6. ON OR OVER TRANSPORT ATION OR PUBLIC  
+RIGHTS–OF–WAY; 
+ 
+    7. AT AIRP ORTS ; 
+ 
+    8. ON LAND THAT : 
+ 
+    A. WAS PREVIOUSLY ZONED  FOR INDUSTRIAL USE O R IS 
+ECOLOGICALLY COMPROM ISED ; AND 
+ 
+    B. IS NOT TARGETED FOR MITIGATION OR 
+RESTORATION ; OR 
+ 
+    9. IN ANY LOCATION IF : 
+ WES MOORE, Governor  Ch. 652  
+ 
+– 9 –  
+    A. THE COMBINED CAPACIT Y OF ALL COMMUNITY SOLAR 
+ENERGY  GENERATING SYSTEMS O N THE SAME OR ADJACE NT PARCEL DOES NOT 
+EXCEED 10 MEGAWATTS ; AND:  
+ 
+    B. A. AT LEAST 75%  OF THE AGGREGATE CAP ACITY OF THE 
+CO–LOCATED COMMUNITY SO LAR ENERGY GENERATIN G SYSTEMS SERVES LMI  
+SUBSCRIBERS OR; 
+ 
+    B. FOR A SITE WITHOUT  A COMMUNITY SOLAR EN ERGY 
+GENERATING SYSTEM IN STALLED BEFORE THE S TART OF THE PROGRAM UNDER 
+PARAGRAPH (20)  OF THIS SUBSECTION , ALL OF THE COMMUNITY  SOLAR ENERGY 
+GENERATING SYSTEMS I NSTALLED AFTER THE S TART OF THE PROGRAM ARE USED 
+FOR AGRIVOLTAICS ; OR 
+ 
+    C. FOR A SITE WITH A CO MMUNITY SOLAR ENERGY  
+GENERATING SYSTEM IN STALLED BEFORE THE S TART OF THE PROGRAM UNDER 
+PARAGRAPH (20)  OF THIS SUBSECTION , EACH NEW COMMUNITY S OLAR ENERGY 
+GENERATING SYSTEM IN STALLED AFTER THE ST ART OF THE PROGRAM  IS USED FOR 
+AGRIVOLT AICS. 
+ 
+  (14) A SUBSCRIBER ORGANIZAT ION OR SUBSCRIPTION COORDINATOR 
+MAY ELECT FOR A SUBS CRIBER OR A COMMUNITY SOLAR  ENERGY GENERATING 
+SYSTEM REPRESENTED B Y THE SUBSCRIBER ORG ANIZATION OR SUBSCRI PTION 
+COORDINATOR  TO PARTICIPATE IN CO NSOLIDATED BILLING .  
+ 
+  (15) AN ELECTRIC COMPANY S HALL PROVIDE ACCESS TO CUSTOMER 
+BILLING AND USAGE DA TA TO A SUBSCRIBER O RGANIZATION OR SUBSC RIPTION 
+COORDINATOR IF THE C USTOMER PROVIDES TO THE ELECTRIC COMPANY  
+AFFIRMATIVE CONSENT THAT IS ACCOMPANIED BY A WRITTEN OR ELEC TRONIC 
+SIGNATURE .  
+ 
+  (16) (I) AN ELECTRIC COMPANY M AY REQUIRE A REASONABLE  FEE 
+FOR SUBSCRIBER ORGAN IZATIONS OR SUBSCRIP TION COORDINATORS TH AT USE 
+CONSOLIDATED BILLING . IF THE FEE DOES   
+ 
+   (II) THE FEE UNDER SUBPARA GRAPH (I) OF THIS PARAGRAPH 
+MAY  NOT EXCEED 1% OF THE BILL  CREDIT VALUE TO THE SUBSCRIBER UNLESS THE 
+COMMISSION DETERMINES  A HIGHER FEE IS JUST  AND REASONABLE BASED  ON 
+SUBSTANTIAL EVIDENCE  PRESENTED BY THE ELE CTRIC COMPANY . 
+ 
+   (III) AN ELECTRIC COMPANY M AY ADJUST THE FEE UN DER 
+SUBPARAGRA PH (I) OF THIS PARAGRAPH NO T MORE THAN ONCE PER  YEAR . 
+ 
+Ch. 652  2023 LAWS OF MARYLAND   
+ 
+– 10 –    (IV) THE FEE FOR CONSOLIDA TED BILLING ASSESSED  TO A 
+SUBSCRIBER ORGANIZAT ION OR SUBSCRIPTION COORDINATOR MAY NOT EXCEED 
+THE FEE THAT WAS IN EFFECT WHEN THE SUBS CRIBER ORGANIZATION OR 
+SUBSCRIPTION COO RDINATOR ELECTED FOR  THE COMMUNITY SOLAR ENERGY 
+GENERATING SYSTEM RE PRESENTED BY THE SUB SCRIBER ORGANIZATION  OR 
+SUBSCRIPTION COORDIN ATOR TO PARTICIPATE IN CONSOLIDATED BILL ING. 
+ 
+  (17) A SUBSCRIBER ORGANIZAT ION OR SUBSCRIPTION COORDINATOR 
+MAY NOT PROHIBIT A SUBSCRIBER FROM EN ROLLING WITH AN ELEC TRICITY 
+SUPPLIER FOR ELECTRI C SERVICE OR SUPPLY .  
+ 
+  (18) A COMMUNITY SOLAR ENER GY GENERATING SYSTEM  ON AN 
+ELECTRIC COMPANY QUE UE UNDER THE PILOT P ROGRAM ON SEPTEMBER 30, 2023,  
+SHALL RETAIN THE QUE UE POSITION UNDER THE PROGRAM . 
+ 
+  (19) IN CONSTRUCTING OR OP ERATING A COMMUNITY SOLAR ENERGY 
+GENERATING SYSTEM , A PERSON SHALL ADDRE SS CRITICAL AREA , CLIMATE 
+RESILIENCE , AND FOREST CONSERVAT ION CONCERNS BY COMP LYING WITH THE 
+FOREST CONSERVATION ACT AND OTHER RELEVAN T STATE AND LOCAL 
+ENVIRONMENT AL LAWS AND REGULATI ONS PERTAINING TO TH E CRITICAL AREA , 
+CLIMATE RESILIENCE , AND FOREST CONSERVAT ION.  
+ 
+  [(14)] (20)  The [pilot program ] PROGRAM  shall[: 
+ 
+   (i)] begin on the earlier of:  
+ 
+    [1.] (I) the date of submission of the first petition of a 
+subs criber organization under paragraph (10) of this subsection after the Commission 
+adopts the regulations required under subsection [(e)] (F) of this section; or  
+ 
+    [2.] (II) 6 months after the Commission adopts those 
+regulations [; and  
+ 
+   (ii) end 7 years  after the beginning date, but not sooner than 
+December 31, 2024.  
+ 
+  (15) The Commission shall limit the pilot program in such a way that the 
+Commission may conduct a meaningful study of the pilot program and its results, including:  
+ 
+   (i) the appropriate  number of community solar energy generating 
+systems to be included in the pilot program;  
+ 
+   (ii) the appropriate amount of generating capacity of the community 
+solar energy generating systems to be included in the pilot program and the annual capacity 
+ WES MOORE, Governor  Ch. 652  
+ 
+– 11 – limits for each program category, each of which should increase throughout the duration of 
+the pilot program; and  
+ 
+   (iii) a variety of appropriate geographical areas in the State for 
+locating community solar energy generating systems to be included in the pilot program ]. 
+ 
+ (e) On or before May 15, 2016, the Commission shall adopt regulations to 
+implement this section, including regulations for:  
+ 
+  (1) consumer protection;  
+ 
+  (2) a tariff structure for an electric company to provide a subscriber with 
+the kil owatt –hours or value of the subscriber’s subscription, as the Commission determines;  
+ 
+  (3) a calculation for virtual net energy metering as the Commission 
+determines;  
+ 
+  (4) a protocol for electric companies, electricity suppliers, and subscriber 
+organizations to communicate the information necessary to calculate and provide the 
+monthly electric bill credits and yearly net excess generation payments required by this 
+section; and  
+ 
+  (5) a protocol for a subscriber organization to coordinate with an electric 
+company for the interconnection and commencement of operations of a community solar 
+energy generating system.  
+ 
+ (F) (1) SUBJECT TO SUBSECTION  (H) OF THIS SECTION , TO IMPLEMENT 
+THE PROGRAM , THE COMMISSION SHALL , ON OR BEFORE OCTOBER 1, 2024  
+JANUARY  1, 2025 , ADOPT REVISIONS TO T HE REGULATIONS ADOPT ED UNDER 
+SUBSECTION (E) OF THIS SECTION FOR THE PILOT PROGRAM , INCLUDING REVISIONS 
+THAT : 
+ 
+   (I) REMOVE ALL PROGRAM CATEGORIES , PROJECT 
+GENERATING CAPACITY LIMITS , YEARLY PROGRAMMATIC AND ELECTRIC  
+COMPANY –SPECIFIC CAPACITY LI MITS , AND SUNSET DATES SO THAT THE TOTAL 
+NUMBER AND CAPACITY OF COMMUNITY SOLAR E NERGY GENERATING SYS TEMS IS 
+SUBJECT ONLY TO THE OVERALL LIMITATION F OR ALL NET METERING PROJECTS 
+ESTABLISHED UNDER § 7–306( D) OF THIS SUBTITLE ; 
+ 
+   (II) AUTHORIZE ALL COMMUNIT Y SOLAR ENERGY GENER ATING 
+SYSTEMS , INCLUDING THOSE CONS TRUCTED DURING THE P ILOT PROGRAM , TO 
+OPERATE AND GENERATE  SUBSCRIPTION CREDITS  UNTIL THE COMMUNITY SOLAR 
+ENERGY GENERATING SY STEM IS DECOMMISSION ED; 
+ 
+Ch. 652  2023 LAWS OF MARYLAND   
+ 
+– 12 –    (III) ADJUST CO –LOCATION RESTRICTION S TO COMPLY WITH 
+SUBSECTION (D)(13)  OF THIS SECTION ;  
+ 
+   (IV) ALLOW A CUSTOMER  SUBSCRIBER ORGANIZAT ION OR 
+SUBSCRIPTION COORDIN ATOR  TO VERIFY , WHEN SUBSCRIBING TO A COMMUNITY 
+SOLAR ENERGY GENERAT ING SYSTEM , THE INCOME OF A PRO SPECTIVE SUBSCRIBER  
+FOR ELIGIBILITY AS A N LMI  SUBSCRIBER UNDER THE  PROGRAM BY USING ONE OF 
+THE FOLLOWING METHOD S: 
+ 
+    1. SELF–ATTESTATION BY THE PROSPECTIVE 
+SUBSCRIBER  THAT DOES NOT NEED T O BE UNDER OATH OR P ENALTY OF PERJURY ; 
+ 
+    2. PROVIDING  REQUIRING THE PROSPECTIVE 
+SUBSCRIBER TO PROVID E EVIDENCE OF ELIGIBIL ITY FOR OR ENROLLMEN T IN AT 
+LEAST ONE OF THE FOL LOWING GOVERNMENT AS SISTANCE PROGRAMS : 
+ 
+    A. THE MARYLAND ENERGY ASSISTANCE PROGRAM ; 
+ 
+    B. THE SUPPLEMENTAL NUTRITION ASSISTANCE 
+PROGRAM ;  
+ 
+    C. MEDICAID ; 
+ 
+    D. HEAD START ; 
+ 
+    E. FREE AND REDUCED PRI CE SCHOOL MEALS ; 
+ 
+    F. THE FEDERAL LOW INCOME HOME ENERGY 
+ASSISTANCE PROGRAM ;  
+ 
+    G. EMPOWER  MARYLAND LOW – OR  
+MODERATE –INCOME INCENTIVES ;  
+ 
+    H. TELEPHONE LIFELINE S ERVICE ; 
+ 
+    I. THE FUEL FUND OF MARYLAND ; OR 
+ 
+    J. ANY ADDITIONAL FEDER AL, STATE , OR LOCAL 
+ASSISTANCE PROGRAM T HAT THE COMMISSION DETERMINES  WILL FURTHER THE 
+PURPOSES OF THE PROGRAM ;  
+ 
+    3. PAY STUBS ; 
+ 
+    4. INCOME TAX DOCUMENTS ; 
+ WES MOORE, Governor  Ch. 652  
+ 
+– 13 –  
+    5. PROOF OF RESIDENCE I N AN AFFORDABLE H OUSING 
+FACILITY ; 
+ 
+    6. PROOF OF RESIDENCE W ITHIN A CENSUS TRACT  THAT 
+IS: 
+ 
+    A. AN OVERBURDENED COMM UNITY ; AND  
+ 
+    B. AN UNDERSERVED COMMU NITY ; 
+ 
+    7. ANY VERIFICATION MET HOD THAT WAS AVAILAB LE 
+UNDER THE PILOT PROG RAM; OR 
+ 
+    8. ANY ADDITIONAL METHO DS APPROVED BY THE 
+COMMISSION TO VERIFY INCOME ;  
+ 
+   (V) REQUIRE ALL ELECTRIC  COMPANIES TO USE : 
+ 
+    1. BILL CREDITS APPLIED  AS A REDUCTION IN ME TERED 
+KILOWATT –HOURS ; OR 
+ 
+    2. MONETARY BILL  CREDITS THAT PROVIDE  NOT LESS 
+THAN THE VALUE  TO THE SUBSCRIBER OF  THE CREDIT HAD IT BE EN APPLIED TO THE 
+SUBSCRIBER ’S BILL AS A REDUCTIO N IN METERED KILOWAT T–HOURS ; AND 
+ 
+   (VI) ESTABLISH PROCEDURES  FOR THE COMMISSION TO : 
+ 
+    1. COLLECT DATA FROM SU BSCRIBER ORGANIZATIO NS, 
+WHEN APPLYING TO THE  COMMIS SION FOR ADMISSION T O THE PROGRAM , ON:  
+ 
+    A. THE TYPE AND QUANTIT Y OF FOREST COVER ON  THE 
+SITE OF A PROPOSED C OMMUNITY SOLAR ENERG Y GENERATING SYSTEM ; AND  
+ 
+    B. ANY ANTICIPATED IMPA CTS THAT THE 
+CONSTRUCTION OF THE PROPOSED COMMUNITY S OLAR ENERGY GENE RATING 
+SYSTEM WILL HAVE ON TREES AND FOREST COV ER AT THE SITE OF TH E PROPOSED 
+COMMUNITY SOLAR ENER GY GENERATING SYSTEM ; AND 
+ 
+    2. MAKE THE DATA COLLEC TED UNDER ITEM 1 OF THIS 
+ITEM AVAILABLE TO TH E PUBLIC IN A FORMAT  AGGREGATED BY COUNTY .  
+ 
+Ch. 652  2023 LAWS OF MARYLAND   
+ 
+– 14 –   (2) ON OR BEFORE OCTOBER 1, 2024  JULY 1, 2025 , THE COMMISSION 
+SHALL APPROVE ELECTR IC COMPANY TARIFF MO DIFICATIONS THAT ARE  
+CONSISTENT WITH THE REGULATIONS ADOPTED UNDER THIS SUBSECTIO N.  
+ 
+ (G) (1) SUBJECT TO SUBSECTION  (H) OF THIS SECTION , ON OR BEFORE  
+APRIL  JULY 1, 2025,  THE COMMISSION SHALL ADOP T REGULATIONS THAT :  
+ 
+   (I) IMPLEMENT CONSOLIDAT ED BILLING BY ELECTR IC 
+COMPANIES THAT MUST BE IN EFFE CT BY JANUARY 1, 2026 , INCLUDING PROTOCOLS 
+FOR PURCHASE OF RECEIVAB LES PROTOCOLS  OR NET CREDITING ; 
+ 
+   (II) REQUIRE ALL ELECTRIC COMPANI ES TO REPORT BILLING  
+AND CREDITING ERRORS  TO THE COMMISSION ON A REGUL AR SCHEDULE ; 
+ 
+   (III) IMPOSE SPECIFIC TIMI NG REQUIREMENTS FOR 
+APPLICATION OF BILL CREDITS TO SUBSCRIBE R BILLS AND APPLICAT ION OF 
+ROLLOVER CREDITS ; 
+ 
+   (IV) IMPLEMENT  DATA EXCHANGE PROTOC OLS FOR ELECTRIC 
+COMPANIES , SUBSCRIBER ORGANIZAT IONS , AND SUBSCRIPTION COO RDINATORS , 
+INCLUDING REQUIRED D ATA FIELDS FOR ELECT RIC COMPANY ALLOCATI ON 
+REPORTS ; 
+ 
+   (V) FOR SUBSCRIBERS ENRO LLED IN BUDGET BILLI NG, 
+REQUIRE ELECTRIC COM PANIES  TO APPLY COMMUNITY S OLAR CREDITS TO THE 
+MONTHLY AMOUNT DUE R ATHER THAN THE UNDER LYING BALANCE ; 
+ 
+   (VI) REQUIRE ALL ELECTRIC  COMPANIES TO SHOW AP PLIED AND 
+BANKED CREDITS ON EA CH BILL RENDERED TO A SUBSCRIBER ; AND 
+ 
+   (VII) IMPLEMENT ANY ADDITI ONAL CHANGES  THE COMMISSION 
+DETERMINES WILL IMPR OVE BILLING AND CRED ITING PROCESSES FOR 
+SUBSCRIBERS , SUBSCRIBER ORGANIZAT IONS , AND SUBSCRIPTION COO RDINATORS . 
+ 
+  (2) ON OR BEFORE APRIL 1, 2025  JANUARY 1, 2026 , THE 
+COMMISSION SHALL APPR OVE ELECTRIC COMPANY  TARIFF MODIFI CATIONS THAT 
+ARE CONSISTENT WITH THE REGULATIONS ADOP TED UNDER THIS SUBSE CTION . 
+ 
+ (H) THE COMMISSION SHALL CONV ENE A STAKEHOLDER WO RKGROUP TO 
+PROVIDE RECOMMENDATI ONS REGARDING THE RE GULATIONS TO BE ADOP TED BY 
+THE COMMISSION UNDER SUBS ECTIONS (F) AND (G) OF THIS SECTION .  
+ 
+ WES MOORE, Governor  Ch. 652  
+ 
+– 15 –  (I) THE COMMISSION SHALL CONS IDER AND IMPLEMENT M ETHODOLOGIES 
+TO ALLOW THE TENANTS  OF MASTER –METERED RESIDENTIAL FACILITIES TO 
+PARTICIPATE IN THE PROGRAM AND BENEFIT D IRECTLY FROM ANY ASS OCIATED 
+ELECTRIC BILL SAVING S.  
+ 
+ [(f)] (J) (1) Subject to regulations or orders of the Commission, a contract 
+relating to a community solar energy generating system [or], subscriber organization , OR 
+SUBSCRIPTION COORDIN ATOR  that is entered into during the pilot program  OR THE 
+PROGRAM  shall remain in effect according to the terms of the contract, including after the 
+termination of the pilot program OR THE PROGRAM . 
+ 
+  (2) [(i) This paragraph applies to electric companies, electric 
+cooperatives, and municipal utilities that participate i n the Program.  
+ 
+   (ii) A subscriber who has a change in the service address associated 
+with the subscriber’s subscription may maintain the subscription for the new address if the 
+new address is within the same electric territory as the old address.  
+ 
+   (iii) An electric company or a subscriber organization may not 
+terminate a subscriber’s subscription due to a change of address for the service address 
+associated with the subscription if the requirements under subparagraph (ii) of this 
+paragraph are met.  
+ 
+   (iv) An electric company shall make any changes necessary to 
+accommodate a subscriber’s change of address on notification by a subscriber organization.  
+ 
+ (g) (3) After termination of the pilot program, ] ON AND AFTER OCTOBER 1, 
+2023,  in accordance with th e operational and billing requirements in subsection (d) of this 
+section:  
+ 
+  [(1)] (I) a subscriber organization may continue the operation of a 
+community solar energy generating system that began operation during the pilot program, 
+including the creation and trading of subscriptions; and  
+ 
+  [(2)] (II) in accordance with the tariffs established under [subsection ] 
+SUBSECTIONS  (e)(2) , (F)(2),  AND (G)(2) of this section, an electric company shall continue 
+to facilitate the operation of a community solar energy  generating system that began 
+operation during the pilot program.  
+ 
+ [(h)] (K) The cumulative installed nameplate capacity under the pilot program 
+AND THE PROGRAM shall count toward the overall limitation for all net metering projects 
+established under § 7 –306(d) of this subtitle.  
+ 
+ (L) (1) (I) A SUBSCRIBER ORGANIZAT ION OR SUBSCRIPTION 
+COORDINATOR MAY NOT REQUIRE AN LMI  SUBSCRIBER TO UNDERG O A CREDIT 
+Ch. 652  2023 LAWS OF MARYLAND   
+ 
+– 16 – CHECK OR PAY A SIGN –UP FEE TO SUBSCRIBE TO A COMMUNITY SOLAR  ENERGY 
+GENERATING SYSTEM .  
+ 
+   (II) A SUBSCRIBER  ORGANIZATION OR SUBS CRIPTION 
+COORDINATOR SHALL : 
+ 
+    1. VERIFY THE ELIGIBILI TY OF AN LMI  SUBSCRIBER IN 
+ACCORDANCE WITH SUBS ECTION (F)(1)( IV) OF THIS SECTION ; AND  
+ 
+    2. RETAIN RECORDS OF EA CH DETERMINATION OF 
+ELIGIBILITY FOR AN LMI  SUBSCRIBER TO BE MAD E AVAILABLE TO THE 
+COMMISSION ON REQUEST .  
+ 
+  (2) A SUBSCRIBER WHO A SUB SCRIBER ORGANIZATION  DETERMINED 
+WAS ELIGIBLE TO PART ICIPATE AS A LOW –INCOME OR MODERATE –INCOME 
+SUBSCRIBER UNDER THE  PILOT PROGRAM SHALL REMAIN ELIGIBLE AS A N LMI  
+SUBSCRIBER UNDER THE  PROGRAM .  
+ 
+  (3) (I) A COMMUNITY SOLAR ENER GY GENERATING SYSTEM  
+CONSTRUCTED UNDER TH E PILOT PROGRAM IN A  CATEGORY REQUIRING T HAT AT 
+LEAST 30%  OF ITS KILOWATT –HOUR OUTPUT SERVE LO W–INCOME OR  
+MODERATE –INCOME SUBSCRIBERS S HALL CONTINUE TO SER VE AT LEAST 30%  OF 
+ITS KILOWATT –HOUR OUTPUT TO LOW –INCOME OR MODERATE –INCOME 
+SUBSCRIBERS . 
+ 
+   (II) A COMMUNITY SOLAR ENER GY GENERATING SYSTEM  
+CONSTRUCTED UNDER TH E PILOT PROGRAM IN A  CATEGORY REQUIRING T HAT AT 
+LEAST 51%  OF ITS KILOWATT –HOUR OUTPUT SERVE LO W–INCOME OR  
+MODERA TE–INCOME SUBSCRIBERS S HALL CONTINUE TO SER VE AT LEAST 51%  OF 
+ITS KILOWATT –HOUR OUTPUT TO LOW –INCOME OR MODERATE –INCOME 
+SUBSCRIBERS . 
+ 
+ (M) (1) A SUBSCRIBER ORGANIZAT ION OR SUBSCRIPTION COORDINATOR 
+MAY NOT CHARGE : 
+ 
+   (I) A RESIDENTIAL SUBSCR IBER WHO IS NOT  PARTICIPATING IN 
+CONSOLIDATED BILLING  A SUBSCRIPTION RATE THAT IS MORE THAN TH E 
+MONETARY VALUE OF TH E BILL CREDIT ON A B ILL ISSUED BY THE EL ECTRIC 
+COMPANY TO THE SUBSC RIBER FOR ELECTRIC S ERVICE ; OR 
+ 
+   (II) AN LMI  SUBSCRIBER A SUBSCRI PTION RATE THAT IS M ORE 
+THAN 90%  OF THE MONETARY VALU E OF THE BILL CREDIT  ON A BILL ISSUED BY THE 
+ELECTRIC COMPANY TO THE SUBSCRIBER FOR E LECTRIC SERVICE . 
+ WES MOORE, Governor  Ch. 652  
+ 
+– 17 –  
+ (N) (2) A SUBSCRIBER ORGANIZAT ION OR SUBSCRIPTION COORDINATOR 
+THAT ELECTS FOR A SU BSCRIBER TO PARTICIP ATE IN CONSOLIDATED BILLING  MAY 
+NOT SET A SUBSCRIPTI ON CHARGE THAT IS MO RE THAN THE MONETARY  VALUE OF 
+THE BILL CREDIT ON A  BILL ISSUED BY THE E LECTRIC COMPANY TO T HE 
+SUBSCRIBER . 
+ 
+ (O) (N) THE DEVELOPER OF A CO MMUNITY SOLAR ENERGY  GENERATING 
+SYSTEM WITH A GENERATING CAPACITY OVER 1 MEGAWATT , AS MEASURED IN 
+ALTERNATING CURRENT , SHALL ENSURE THAT WO RKERS ARE PAID NOT L ESS THAN 
+THE PREVAILING WAGE RATE DETERMINED UNDE R TITLE 17, SUBTITLE 2 OF THE 
+STATE FINANCE AND PROCUREMENT ARTICLE , UNLESS THE COMMUNITY  SOLA R 
+ENERGY GENERATING SY STEM IS SUBJECT TO A  PROJECT LABOR AGREEM ENT THAT : 
+ 
+  (1) BINDS ALL CONTRACTOR S AND SUBCONTRACTORS  ON THE 
+COMMUNITY SOLAR ENER GY GENERATING SYSTEM  THROUGH THE INCLUSIO N OF 
+SPECIFICATIONS IN AL L RELEVANT SOLICITAT ION PROVISIONS AND C ONTRACT 
+DOCUMENTS ; 
+ 
+  (2) ALLOWS ALL CONTRACTO RS AND SUBCONTRACTOR S TO COMPETE 
+FOR CONTRACTS AND SU BCONTRACTS ON THE PR OJECT WITHOUT REGARD  TO 
+WHETHER THEY ARE OTH ERWISE PARTIES TO CO LLECTIVE BARGAINING 
+AGREEMENTS ; 
+ 
+  (3) ESTABLISHES UNIFORM TERMS AND CONDIT IONS OF 
+EMPLOYMENT FOR ALL C ONSTRUCTION LABOR EM PLOYED ON THE PROJEC TS; 
+ 
+  (4) GUARANTEES AGAINST S TRIKES , LOCKOUTS , AND SIMILAR JOB 
+DISRUPTIONS ; 
+ 
+  (5) ESTABLISHES MUTUALLY  BINDING PROCEDURES F OR RESOLVING 
+LABOR DISPUTES ; AND  
+ 
+  (6) INCLUDES ANY OTHER P ROVISIONS NEGOTIATED B Y THE PARTIES 
+TO PROMOTE SUCCESSFU L DELIVERY OF THE CO MMUNITY SOLAR ENERGY  
+GENERATING SYSTEM .  
+ 
+Article – Tax – Property  
+ 
+7–237. 
+ 
+ (a) Except as provided in subsection (b) of this section, personal property is 
+exempt from property tax if the property is machinery or equipment used to generate:  
+ 
+Ch. 652  2023 LAWS OF MARYLAND   
+ 
+– 18 –   (1) electricity or steam for sale; or  
+ 
+  (2) hot or chilled water for sale that is used to heat or cool a building.  
+ 
+ (b) Subject to § 7 –514 of this title, and except as provided in subsection (c) of this 
+section, personal property that is machinery or equipment described in subsection (a) of 
+this section is subject to county or municipal corporation property tax on:  
+ 
+  (1) 75% of its value for the taxable year beginning July 1, 2000; and  
+ 
+  (2) 50% of its value for the taxable year beginning July 1, 2001 and each 
+subsequent taxable year.  
+ 
+ (c) (1) (i) In this subsection the following words have the meanings 
+indicated.  
+ 
+   (ii) “Agrivoltaics” means the simultaneous use of areas of land for 
+both s olar power generation and agriculture.  
+ 
+   (iii) “Brownfield” means:  
+ 
+    1. a former industrial or commercial site identified by federal 
+or State laws or regulations as contaminated or polluted; or  
+ 
+    2. a closed municipal or rubble landfill regulated u nder a 
+refuse disposal permit by the Department of the Environment.  
+ 
+   (iv) “Community solar energy generating system” has the meaning 
+stated in § 7 –306.2 of the Public Utilities Article.  
+ 
+   (v) “Electric company” has the meaning stated in § 1 –101 of the  
+Public Utilities Article.  
+ 
+  (2) This subsection applies through the life cycle of a community solar 
+energy generating system that:  
+ 
+   (i) is placed in service after June 30, 2022; and  
+ 
+   (ii) has been approved on or before December 31, 2025, by the Pub lic 
+Service Commission under § 7 –306.2 of the Public Utilities Article.  
+ 
+  (3) Personal property is exempt from county or municipal corporation 
+property tax if the property is machinery or equipment that is part of a community solar 
+energy generating syste m that:  
+ 
+ WES MOORE, Governor  Ch. 652  
+ 
+– 19 –    (i) [as defined in regulation of the Public Service Commission, is 
+part of a community solar generating system that:  
+ 
+    1.] has a generating capacity that does not exceed 2 
+megawatts as measured by the alternating current rating of the system’s inverter; [and 
+ 
+    2.] (II) provides at least 50% of the energy it produces to 
+low– or moderate –income customers at a cost that is at least 20% less than the amount 
+charged by the electric company that serves the area where the community solar energy 
+generating system is located; and  
+ 
+   [(ii)] (III) 1. is used for agrivoltaics; or  
+ 
+    2. is installed on a rooftop, brownfield, parking facility 
+canopy, landfill, or clean fill.  
+ 
+  (4) [Personal property that receives an exemption under this subsection is 
+exempt from county or municipal corporation property tax for each taxable year in which 
+the property continues to meet the requirements for the exemption under paragraph (3) of 
+this subsection.  
+ 
+  (5) The supervisor of a county or municipal corporation may not accept an 
+application from a property owner for the exemption under this subsection after December 
+31, 2024.  
+ 
+  (6)] On or before O ctober 1 each year, the Department shall report to the 
+Senate Budget and Taxation Committee and the House Ways and Means Committee, in 
+accordance with § 2 –1257 of the State Government Article, on the number and location of 
+projects that, in the immediately  preceding taxable year, have received the exemption 
+under this subsection.   
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That a Position Identification 
+Number shall be created in the Public Service Commission for a full –time position that will 
+focus only on im plementing and administering the Community Solar Energy Generating 
+Systems Program under § 7 –306.2 of the Public Utilities Article, as enacted under Section 
+1 of this Act.  
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That, notwithstanding any other 
+law, all reg ulations adopted under § 7 –306.2(e) of the Public Utilities Article for the 
+operation of the Community Solar Energy Generating Systems Pilot Program before the 
+effective date of this Act shall continue in effect until amended or repealed.  
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED, That the prevailing wage and 
+project labor agreement required under § 7–306.2(o)  § 7–306.2(n)  of the Public Utilities 
+Article, as enacted by Section 1 of this Act, shall be construed to apply only prospectively 
+and may not be applied  or interpreted to have any effect on or application to any community 
+Ch. 652  2023 LAWS OF MARYLAND   
+ 
+– 20 – solar energy generating system, as defined in § 7 –306.2(a)(4) of the Public Utilities Article, 
+as enacted by Section 1 of this Act, that received a queue position in the Pilot Program, a s 
+defined in § 7 –306.2(a)(11) of the Public Utilities Article, as enacted by Section 1 of this Act, 
+before January 1, 2025.  
+ 
+ SECTION 4. 5. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October  July 1, 2023.  
+ 
+Approved by the Governor, May 16, 2023.  

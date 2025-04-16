@@ -1,0 +1,486 @@
+ WES MOORE, Governor  Ch. 453  
+ 
+– 1 – Chapter 453  
+(House Bill 1028 ) 
+ 
+AN ACT concerning  
+ 
+Business Regulation – Electric Vehicle Supply Equipment Workgroup  – 
+Regulations for Retail Use  
+ 
+FOR the purpose of requiring the Comptroller to adopt regulations for the retail use of 
+electric vehicle supply equipment in the State; requiring the Comptroller, in 
+consultation with the Public Service Commission, to submit a report on the 
+development and enforcement of the regulations a dopted under this Act to the 
+General Assembly on or before a certain date  establishing the Electric Vehicle 
+Supply Equipment Workgroup ; and generally relating to electric vehicle supply 
+equipment  the Electric Vehicle Supply Equipment Workgroup .  
+ 
+BY addi ng to  
+ Article – Business Regulation  
+Section 19 –1001 through 19 –1003 to be under the new subtitle “Subtitle 10. Electric  
+Vehicle Supply Equipment”  
+ Annotated Code of Maryland  
+ (2015 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Public Utilities  
+Section 7 –901(a), (b), and (e)  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2023 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as foll ows: 
+ 
+Article – Business Regulation  
+ 
+SUBTITLE 10. ELECTRIC VEHICLE SUPPLY EQUIPMENT . 
+ 
+19–1001.  
+ 
+ (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE  THE MEANINGS  
+INDICATED . 
+ 
+ (B) “DIRECT CURRENT FAST C HARGER ” MEANS EV SUPPLY EQUIPMENT : 
+ 
+  (1) CAPABLE OF SUPPLYING DIRECT CUR RENT ELECTRICITY TO AN 
+ELECTRIC VEHICLE ; AND  
+Ch. 453  2024 LAWS OF MARYLAND   
+ 
+– 2 –  
+  (2) FITTED WITH AN EV CHARGING CONNECTOR . 
+ 
+ (C) “EV  CHARGING CONNECTOR ” MEANS A DEVICE THAT ATTACHES AN  
+ELECTRIC VEHICLE TO AN EV CHARGING PORT TO FAC ILITATE THE TRANSFER  OF 
+ELECTRICITY TO  AN ELECTRIC VEHICLE . 
+ 
+ (D) “EV  CHARGING PORT ” MEANS THE PORTION OF  AN EV CHARGING  
+STATION THAT ATTACHE S AN EV CHARGING CONNECTOR W ITH THE EV CHARGING  
+STATION . 
+ 
+ (E) “EV  CHARGING STATION ” MEANS A CONNECTED PO INT IN EV SUPPLY  
+EQUIPMENT : 
+ 
+  (1) AT WHICH CURRENT IS TAKEN TO CHARGE A BATTERY OR ANY 
+OTHER ENERGY STORAGE  DEVICE IN AN ELECTRI C VEHICLE ; AND  
+ 
+  (2) CAPABLE OF PROVIDING  CHARGING THAT IS AT LEAST : 
+ 
+   (I) LEVEL 2 CHARGING ; OR 
+ 
+   (II) DIRECT CURRENT FAST CHARGER CHARGING . 
+ 
+ (F) “EV  SERVICE PROVIDE R” MEANS AN ENTITY RESP ONSIBLE FOR  
+OPERATING ONE OR MOR E EV SUPPLY EQUIPMENT UNI TS, INCLUDING BEING  
+RESPONSIBLE FOR : 
+ 
+  (1) SENDING OR RECEIVING  COMMANDS OR MESSAGES  TO AN EV 
+CHARGING NETWORK AS DEFINED IN § 7–901 OF THE PUBLIC UTILITIES ARTICLE ; 
+AND  
+ 
+  (2) PROVIDING BILLING , MAINTENANCE , RESERVATIONS , AND OTHER  
+SERVICES FOR AN EV SUPPLY EQUIPMENT UNI T. 
+ 
+ (G) “EV  SUPPLY EQUIPMENT ” MEANS A UNIT THAT CO NTROLS THE POWER  
+SUPPLY TO ONE OR MOR E ELECTRIC VEHICLES AT AN EV CHARGING STATION . 
+ 
+ (H) “LEVEL 2 CHARGING ” HAS THE MEANING STAT ED IN § 7–901 OF THE  
+PUBLIC UTILITIES ARTICLE . 
+ 
+ (I) “UPTIME” MEANS THE AVAILABILI TY AND CONSISTENCY O F AN EV 
+CHARGING STATION TO SUCCESSFULLY DISPENS E ELECTRICITY AS DES IGNED , 
+MEASURED AS A PERCEN TAGE OF BOTH HOURS A ND DAYS OF A CALEN DAR YEAR . 
+ 
+ WES MOORE, Governor  Ch. 453  
+ 
+– 3 – 19–1002.  
+ 
+ THIS SUBTITLE DOES NO T APPLY TO : 
+ 
+  (1) EV SUPPLY EQUIPMENT THA T IS USED FOR NONCOM MERCIAL  
+PURPOSES ; OR 
+ 
+  (2) EV SUPPLY EQUIPMENT THA T SUPPLIES WHOLESALE  
+ELECTRICITY . 
+ 
+19–1003.  
+ 
+ (A) THE COMPTROLLER SHALL ADO PT REGULATIONS FOR T HE RETAIL USE  
+OF EV SUPPLY EQUIPMENT IN THE STATE . 
+ 
+ (B) SUBJECT TO SUBSECTION  (C) OF THIS SECTION , THE REGULATIONS  
+SHALL : 
+ 
+  (1) ESTABLISH DIFFERENT PAYMENT OPTIONS FOR THE RETAIL USE  
+OF EV SUPPLY EQUIPMENT , INCLUDING : 
+ 
+   (I) CREDIT CARD , MOBILE PHONE , AND TOLL–FREE NUMBER  
+PAYMENT OPTIONS ; AND  
+ 
+   (II) OPTIONS FOR CUSTOMER S WITH DISABILITIES AND  
+NON–ENGLISH SPEAKING CUST OMERS ; 
+ 
+  (2) PROHIBIT AN EV SERVICE PROVIDER FRO M REQUIRING A  
+SUBSCRIPTION OR MEMB ERSHIP TO INITIATE A  CHARGING SESSION ; 
+ 
+  (3) AUTHORIZE AN EV SERVICE PROVIDER TO OFFER SERVICES ON A  
+SUBSCRIPTION OR MEMB ERSHIP BASIS ; 
+ 
+  (4) ESTABLISH REQUIREMEN TS FOR TRANSPARENT I NFORMATION  
+REGARDING EV CHARGING STATIONS , INCLUDING CHARGING R ATES , LOCATION , 
+ACCESSIBILITY , AND REAL –TIME AVAILABILITY ; 
+ 
+  (5) ENABLE USERS WHO HAV E A SUBSCRIPTION OR MEMBERSHIP  
+WITH AN EV SERVICE PROVIDER TO USE AN EV CHARGING STATION THA T IS NOT  
+PART OF THE SUBSCRIP TION OR MEMBERSHIP ; 
+ 
+  (6) ESTABLISH EMPLOYEE T RAINING OR CERTIFICA TION  
+REQUIREMENTS FOR IND IVIDUALS WHO INSTALL  OR PERFORM MAINTENANCE ON 
+EV SUPPLY EQUIPMENT ; 
+Ch. 453  2024 LAWS OF MARYLAND   
+ 
+– 4 –  
+  (7) ESTABLISH MINIMUM PO WER OUTPUT LIMITS FO R EV SUPPLY  
+EQUIPMENT AND EV CHARGING STATIONS ; 
+ 
+  (8) ESTABLISH REGISTRATI ON AND CERTIFICATION  REQUIREMENTS ; 
+ 
+  (9) REQUIRE THE SUBMISSI ON OF REPORTS ON EV SUPPLY  
+EQUIPMENT TO : 
+ 
+   (I) THE OFFICE OF THE COMPTROLLER ; 
+ 
+   (II) THE PUBLIC SERVICE COMMISSION ; AND  
+ 
+   (III) THE ALTERNATIVE FUELS DATA CENTER IN THE U.S.  
+DEPARTMENT OF ENERGY ; 
+ 
+  (10) ESTABLISH LABELING R EQUIREMENTS , INCLUDING LABELING  
+REQUIREMENTS FOR EV CHARGING STATION CHAR GING RATES , CAPACITY , AND  
+VOLTAGE ; 
+ 
+  (11) REQUIRE AN UPTIME OF  97%;  
+ 
+  (12) SPECIFY HOW UPTIME W ILL BE MEASURED , INCLUDING : 
+ 
+   (I) WHETHER UPTIME MUST BE CALCULATED PER EV 
+CHARGING PORT OR PER  EV CHARGING CONNECTOR ; 
+ 
+   (II) THE DATE TO WHICH DOWNTIME IS  BACKDATED ; AND  
+ 
+   (III) WHETHER DOWNTIME INC LUDES EV CHARGING STATION  
+DISCONNECTION OR BRO KEN INTERFACE FEATUR ES WHEN THE EV SUPPLY  
+EQUIPMENT CAN STILL OUTPUT ELECTRICITY ; 
+ 
+  (13) IF DETERMINED APPROP RIATE BY THE COMPTROLLER , 
+ESTABLISH EXEMPTIONS  FROM THE UPTIME REQU IREMENT OF 97%;  
+ 
+  (14) ESTABLISH CUSTOMER S UPPORT REQUIREMENTS , INCLUDING : 
+ 
+   (I) LABELING REQUIREMENT S FOR PROVIDING CUST OMER  
+SUPPORT INFORMATION ON AN EV CHARGING STATION ; AND  
+ 
+   (II) MINIMUM HOURS OF OPE RATION  FOR: 
+ 
+    1. GENERAL CUSTOMER SER VICE NEEDS ; AND  
+ WES MOORE, Governor  Ch. 453  
+ 
+– 5 –  
+    2. PROVIDING OR DISPATC HING CUSTOMER  
+ASSISTANCE ; 
+ 
+  (15) ESTABLISH MINIMUM HO URS OF OPERATION FOR  EV CHARGING  
+STATIONS ; 
+ 
+  (16) REQUIRE PROACTIVE MO NITORING OF EV SUPPLY EQUIPMENT  
+AND EV CHARGING STATIONS ; 
+ 
+  (17) ESTABLISH STANDARDS AND PROCEDURES FOR A CCURATE FIELD  
+STANDARDS IN ACCORDA NCE WITH THE MOST RE CENT EDITION OF THE NATIONAL  
+INSTITUTE OF STANDARDS AND TECHNOLOGY HANDBOOK 44; 
+ 
+  (18) IF DETERMINED APPROP RIATE BY THE COMPTROLLER , 
+ESTABLISH STANDARDS FOR THE US E OF: 
+ 
+   (I) COMBINED CHARGING SY STEMS , UNDER WHICH A  
+STANDARD EV CHARGING CONNECTOR A LLOWS A DIRECT CURRE NT FAST CHARGER  
+TO CONNECT TO , COMMUNICATE WITH , AND CHARGE AN ELECTR IC VEHICLE ; OR 
+ 
+   (II) NORTH AMERICAN CHARGING SYS TEMS , UND ER WHICH A  
+TESLA STANDARD EV CHARGING CONNECTOR A LLOWS A DIRECT CURRE NT FAST  
+CHARGER TO CONNECT T O, COMMUNICATE WITH , AND CHARGE AN ELECTR IC 
+VEHICLE ; AND  
+ 
+  (19) ESTABLISH CIVIL PENA LTIES FOR NONCOMPLIA NCE WITH THE  
+REGULATIONS . 
+ 
+ (C) REGULATIONS ADOPTED I N ACCORDANCE WITH THIS  SECTION SHALL : 
+ 
+  (1) COMPLY WITH THE FEDERAL HIGHWAY ADMINISTRATION ’S 
+NATIONAL ELECTRIC VEHICLE INFRASTRUCTURE FORMULA PROGRAM ; AND  
+ 
+  (2) PROVIDE A DELAYED AP PLICABILITY DATE FOR  EV SUPPLY  
+EQUIPMENT INSTALLED BEFORE THE DATE THE REGULATIONS ARE INIT IALLY  
+ADOPTED . 
+ 
+Article – Public Utilities  
+ 
+7–901. 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  
+ 
+Ch. 453  2024 LAWS OF MARYLAND   
+ 
+– 6 –  (b) “EV charging network” means the total number of EV charging stations an 
+electric company installs or mainta ins for public use.  
+ 
+ (e) “Level 2 charging” means the ability to charge a battery or other energy 
+storage device in an electric vehicle in a manner that:  
+ 
+  (1) is capable of using an alternating current electrical service with a 
+minimum of 208 volts; and  
+ 
+  (2) meets applicable industry safety standards.  
+ 
+ (a) (1) In this section the following words have the meanings indicated.  
+ 
+  (2) “Direct current fast charger” means EV supply equipment:  
+ 
+   (i) capable of supplying direct current electricity to an electric 
+vehicle; and  
+ 
+   (ii) fitted with an EV charging connector.  
+ 
+  (3) “EV charging connector” means a device that attaches an electric 
+vehicle to an EV charging port to facilitate the transfer of electricity to an electric vehicle.  
+ 
+  (4) “EV charging port” means the portion of an EV charging station that 
+attaches an EV charging connector with the EV charging station.  
+ 
+  (5) “EV charging station” means a connected point in EV supply 
+equipment:  
+ 
+   (i) at which current is taken to charge a batte ry or any other energy 
+storage device in an electric vehicle; and  
+ 
+   (ii) capable of providing, at a minimum:  
+ 
+    1. Level 2 charging; or  
+ 
+    2. direct current fast charger charging.  
+ 
+  (6) “EV service provider” means an entity responsible for operating  one or 
+more EV supply equipment units, including being responsible for:  
+ 
+   (i) sending or receiving commands or messages to an EV charging 
+network as defined in § 7 –901 of the Public Utilities Article; and  
+ 
+   (ii) providing billing, maintenance, reservations, and other services 
+for an EV supply equipment unit.  
+ WES MOORE, Governor  Ch. 453  
+ 
+– 7 –  
+  (7) “EV supply equipment” means a unit that controls the power supply to 
+one or more electric vehicles at an EV charging station.  
+ 
+  (8) “Level 2 charging” has the meaning stated in § 7 –901 of the Public 
+Utilities Article.  
+ 
+  (9) “Uptime” means the availability and consistency of an EV charging 
+station to successfully dispense electricity as designed, measured as a percentage of both 
+hours and days of a calendar year.  
+ 
+ (b) There is an Electric Vehicle Supply Equipment Workgroup.  
+ 
+ (c) The Workgroup consists of the following members:  
+ 
+  (1) one member  two members  of the Senate of Maryland, appointed by the 
+President of the Senate;  
+ 
+  (2) one member  two members  of the House of Delegates, appointed by the 
+Speaker of the House;  
+ 
+  (3) one representative of the Department of Agriculture, designated by the 
+Secretary of Agriculture;  
+ 
+  (4) one representative of the Public Service Commission, designated by the 
+Chairman  Chair  of the Public Servi ce Commission;  
+ 
+  (5) one representative of the Office of the Comptroller, designated by the 
+Comptroller;  
+ 
+  (6) one representative of the Maryland Department of Transportation, 
+designated by the Secretary of Transportation; and  
+ 
+  (7) one representative of the Maryland Energy Administration, designated 
+by the Director of the Maryland Energy Administration; and  
+ 
+  (7) (8) the following members, appointed  designated  by the Governor  Public 
+Service Commission : 
+ 
+   (i) two representatives of the public interest sector who are 
+identified as nongovernment organization leaders in the electric vehicle industry in the 
+State  and consumers of electric vehicles ; and  
+ 
+   (ii) two representatives of the private sector business partners who 
+are identi fied as leaders in the electric vehicle industry in the State.  
+ 
+Ch. 453  2024 LAWS OF MARYLAND   
+ 
+– 8 –  (d) The Governor  Chair of the Public Service Commission  shall designate the 
+chair of the Workgroup.  
+ 
+ (e) The Public Service Commission shall provide staff for the Workgroup.  
+ 
+ (f) A member of the Workgroup:  
+ 
+  (1) may not receive compensation as a member of the Workgroup; but  
+ 
+  (2) is entitled to reimbursement for expenses under the Standard State 
+Travel Regulations, as provided in the State budget.  
+ 
+ (g) The Workgroup shall:  
+ 
+  (1) develop a framework for reliability and reporting standards for EV 
+charging stations;  
+ 
+  (2) study and make recommendations regarding which governmental  
+government  entities have responsibility for ensuring accountability regarding EV charging 
+stations; an d 
+ 
+  (3) make recommendations regarding adopting and implementing 
+regulations that  may: 
+ 
+   (i) establish different payment options for the retail use of EV 
+supply equipment, including:  
+ 
+    1. credit card, mobile phone, and toll –free number payment 
+option s; and  
+ 
+    2. options for customers with disabilities and non –English 
+speaking customers;  
+ 
+   (ii) prohibit an EV service provider from requiring a subscription or 
+membership to initiate a charging session;  
+ 
+   (iii) authorize an EV service provider to of fer services on a 
+subscription or membership basis;  
+ 
+   (iv) establish requirements for transparent information regarding 
+EV charging stations, including charging rates, location, accessibility, and real –time 
+availability;  
+ 
+   (v) enable users who have a subscription or membership with an EV 
+service provider to use an EV charging station that is not part of the subscription 
+membership;  
+ WES MOORE, Governor  Ch. 453  
+ 
+– 9 –  
+   (vi) establish employee training or certification requirements for 
+individuals who install or perform maintenance on EV supply equipment;  
+ 
+   (vii) establish minimum power output limits for EV supply equipment 
+and EV charging stations;  
+ 
+   (viii)  establish registration and certification requirements;  
+ 
+   (ix) require the submission of reports on EV supply equipment to:  
+ 
+    1. the Office of the Comptroller;  
+ 
+    2. the Public Service Commission; and  
+ 
+    3. the Alternative Fuels Data Center in the U.S. Department 
+of Energy;  
+ 
+   (x) establish labeling requirements, including labeling requirements 
+for EV charging station ch arging rates, capacity, and voltage;  
+ 
+   (xi) require an uptime of 97%;  
+ 
+   (xii) specify how uptime will be measured, including:  
+ 
+    1. whether uptime must be calculated per EV charging port 
+or per EV charging connector;  
+ 
+    2. the date to which downtim e is backdated; and  
+ 
+    3. whether downtime includes EV charging station 
+disconnection or broken interface features when the EV supply equipment can still output 
+electricity;  
+ 
+   (xiii)  establish exemptions from the uptime requirement of 97%;  
+ 
+   (xiv) establish customer support requirements, including:  
+ 
+    1. labeling requirements for providing customer support 
+information on an EV charging station; and  
+ 
+    2. minimum hours of operation for:  
+ 
+    A. general customer service needs; and  
+ 
+    B. providing or dispatching customer assistance;  
+Ch. 453  2024 LAWS OF MARYLAND   
+ 
+– 10 –  
+   (xv) establish minimum hours of operation for EV charging stations;  
+ 
+   (xvi) require proactive monitoring of EV supply equipment and EV 
+charging stations;  
+ 
+   (xvii)  establish standards and procedures for accurate field standards 
+in accordance with the most recent edition of the National Institute of Standards and 
+Technology Handbook 44;  
+ 
+   (xviii)  establish standards for the use of:  
+ 
+    1. combined charging systems, under which a standard EV 
+charging con nector allows a direct current fast charger to connect to, communicate with, 
+and charge an electric vehicle; or  
+ 
+    2. North American charging systems, under which a Tesla 
+standard EV charging connector allows a direct current fast charger  charge  to conne ct to, 
+communicate with, and charge an electric vehicle; and  
+ 
+   (xix) establish civil penalties for noncompliance with the regulations.  
+ 
+ (h) The recommendations made under subsection (g)(3) of this section shall:  
+ 
+  (1) comply with  give deference to  the Federal Highway Administration’s 
+National Electric Vehicle Infrastructure Formula Program , but may permit deviation for 
+good cause ; 
+ 
+  (2) provide a delayed applicability date for EV supply equipment installed 
+before the date the regulations are initially adopted; and  
+ 
+  (3) exclude regulations that apply to:  
+ 
+   (i) EV supply equipment that is used for noncommercial purposes; 
+and 
+ 
+   (ii) EV supply equipment that supplies wholesale electricity.  
+ 
+ (i) On or before November 1, 2024, the Workgroup shall repor t its framework and 
+recommendations to the Senate Education, Energy, and the Environment Committee and 
+the House Economic Matters Committee, in accordance with § 2 –1257 of the State 
+Government Article.  
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That on or be fore January 15, 2025, 
+the Comptroller, in consultation with the Public Service Commission, shall submit a report 
+to the General Assembly, in accordance with § 2 –1257 of the State Government Article, on:  
+ WES MOORE, Governor  Ch. 453  
+ 
+– 11 –  
+  (1) the progress made in developing the regulatio ns required under Section 
+1 of this Act; and  
+ 
+  (2) the resources required for the enforcement of the regulations required 
+under Section 1 of this Act.  
+ 
+ SECTION 3. 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+July 1, 2024. It shall remain  effective for a period of 2 years and, at the end of June 30, 
+2026, this Act, with no further action required by the General Assembly, shall be abrogated 
+and of no further force and effect.   
+ 
+Approved by the Governor, May 9, 2024.  

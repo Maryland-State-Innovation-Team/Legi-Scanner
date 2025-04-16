@@ -1,0 +1,616 @@
+ WES MOORE, Governor  Ch. 121  
+ 
+– 1 – Chapter 121  
+(House Bill 252 ) 
+ 
+AN ACT concerning  
+ 
+Insurance – Holding Companies – Group Capital Calculation and Liquidity 
+Stress Test  
+ 
+FOR the purpose of requiring certain controlling persons of certain insurers in an insurance 
+holding company system to file an annual group calculation as directed by the lead 
+state commissioner of the insurance group; requiring certain controlling persons  of 
+certain insurers in an insurance holding company system to file the results of a 
+liquidity stress test for certain years; providing for the confidentiality of certain 
+information; authorizing and requiring the Maryland Insurance Commissioner to 
+take ce rtain actions with respect to certain information;  and generally relating to 
+insurance company regulation.  
+ 
+BY repealing and reenacting, with amendments,  
+Article – Insurance  
+Section 7 –101, 7 –106, and 7 –603 
+Annotated Code of Maryland  
+(2017 Replacement Volume and 2023 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Insurance  
+ 
+7–101. 
+ 
+ (a) In this title the following words have the meanings indicated.  
+ 
+ (b) “Affiliate” means  a person that directly or indirectly, through one or more 
+intermediaries, controls, is controlled by, or is under common control with another person.  
+ 
+ (c) “Control”, “controlling”, “controlled by”, or “under common control with” 
+means the direct or indir ect possession of the power to direct or cause the direction of the 
+management and policies of a person, through ownership of voting securities or of securities 
+convertible into voting securities, by contract other than a commercial contract for goods or 
+nonmanagement services, or otherwise, whether or not the power is exercised or sought to 
+be exercised unless the power is the result of an official position with or corporate office 
+held by the person.  
+ 
+ (d) (1) “Enterprise risk” means any activity, circums tance, event, or series of 
+events involving one or more affiliates of an insurer that, if not remedied promptly, is likely 
+Ch. 121  2024 LAWS OF MARYLAND   
+ 
+– 2 – to have a material adverse effect on the financial condition or liquidity of the insurer or its 
+insurance holding company system as a  whole.  
+ 
+  (2) “Enterprise risk” includes anything that would:  
+ 
+   (i) cause the insurer’s risk based capital to fall to or below a 
+company action level under Title 4, Subtitle 3 of this article; or  
+ 
+   (ii) cause the insurer to be in a hazardous financial  condition under 
+§ 9–102 of this article.  
+ 
+ (E) “GROUP CAPITAL CALCULA TION INSTRUCTIONS ” MEANS THE GROUP 
+CAPITAL CALCULATION INSTRUCTIONS ADOPTED  BY THE NAIC,  AS AMENDED FROM 
+TIME TO TIME . 
+ 
+ [(e)] (F) “Insurance holding company” means a person that directly or indirectly 
+controls an insurer or controls a person that controls an insurer.  
+ 
+ [(f)] (G) “Insurance holding company system” means two or more affiliates, at 
+least one of which is an insurer.  
+ 
+ (H) “LEAD STATE COMMISSION ER” MEANS THE LEAD STATE  INSURANCE 
+COMMISSIONER OF THE INSURANCE HOLDING CO MPANY SYSTEM AS DETE RMINED 
+BY THE PROCEDURES IN  THE NAIC  FINANCIAL ANALYSIS HANDBOOK . 
+ 
+ (I) “NAIC”  MEANS THE NATIONAL ASSOCIATION OF INSURANCE 
+COMMISSIONERS . 
+ 
+ (J) “NAIC  LIQUIDITY STRESS TES T FRAMEWORK ” MEANS A SEPARATE 
+NAIC  PUBLICATION THAT INC LUDES , AS ADOPTED BY THE NAIC  AND AS AMENDED : 
+ 
+  (1) A HISTORY OF THE NAIC’ S DEVELOPMENT OF REG ULATORY 
+LIQUIDITY STRESS TES TING ; 
+ 
+  (2) THE SCOPE CRITERIA A PPLICABLE FOR A SPEC IFIC DATA YEAR ; 
+AND  
+ 
+  (3) THE LIQUIDITY  STRESS TEST INSTRUCT IONS AND REPORTING 
+TEMPLATES FOR A SPEC IFIC DATA YEAR . 
+ 
+ (K) “SCOPE CRITERIA ” MEANS THE DESIGNATED  EXPOSURE BASES ALONG  
+WITH MINIMUM MAGNITU DES OF EXPOSURE FOR THE SPECIFIED DATA Y EAR, AS 
+DETAILED IN THE NAIC  LIQUIDITY STRESS TES T FRAM EWORK , USED TO ESTABLISH 
+ WES MOORE, Governor  Ch. 121  
+ 
+– 3 – A PRELIMINARY LIST O F INSURERS CONSIDERE D INCLUDED IN THE SC OPE OF THE 
+NAIC  LIQUIDITY STRESS TES T FRAMEWORK FOR THAT  DATA YEAR . 
+ 
+ [(g)] (L) “Subsidiary” means an affiliate of a person that, directly or indirectly, 
+through one or mo re intermediaries, is controlled by that person.  
+ 
+ [(h)] (M) “Ultimate controlling person” means the person within a holding 
+company system that is not controlled by any other person.  
+ 
+7–106. 
+ 
+ (a) Except as provided in subsections (b) and (c) of this sect ion or otherwise by 
+law, all information and documents that are filed with the Commissioner in compliance 
+with the requirements of this title or that are reported to, obtained by, or otherwise 
+disclosed to the Commissioner or any other person in the course  of an examination or 
+investigation made under this title:  
+ 
+  (1) are confidential material;  
+ 
+  (2) are not subject to subpoena;  
+ 
+  (3) may not be made public by the Commissioner, the [National Association 
+of Insurance Commissioners ] NAIC , or any other person; and  
+ 
+  (4) are not subject to discovery or admissible in evidence in any civil action.  
+ 
+ (b) Material that otherwise is confidential under subsection (a) of this section may 
+be made public by any person who has received the prior written consent of  the person to 
+whom the material relates.  
+ 
+ (c) If, after giving the person to whom the material relates notice and an 
+opportunity to be heard, the Commissioner determines that it is in the interest of the 
+policyholders, stockholders, or the public to make  public any material relating to the person 
+that otherwise is confidential under subsection (a) of this section, the Commissioner may 
+make public all or part of the material in an appropriate manner.  
+ 
+ (D) (1) IN ADDITION TO THE PR OTECTIONS AFFORDED C ONFID ENTIAL  
+INFORMATION FILED UN DER THIS TITLE AND § 2–209 OF THIS ARTICLE , THE 
+FOLLOWING PROVISIONS  APPLY EXPRESSLY TO C ONFIDENTIAL INFORMAT ION THAT 
+IS IN THE CONTROL OR  POSSESSION OF THE COMMISSIONER AND OBTAINED OR  
+GENERATED DURING AN ANALYSIS CONDUCTED  REPORTED OR PROVIDED  TO THE 
+COMMISSIONER  IN ACCORDANCE WITH § 7–603( I) AND (J) OF THIS TITLE . 
+ 
+  (2) EXCEPT AS PROVIDED IN  PARAGRAPH (3) OF THIS SUBSECTION , 
+THE DOCUMENT , MATERIAL , OR INFORMATION : 
+Ch. 121  2024 LAWS OF MARYLAND   
+ 
+– 4 –  
+   (I) IS RECOGNIZED AS BEI NG PROPRIETARY AND T O CONTAIN 
+TRADE SECRETS ; 
+ 
+   (II) IS CONFIDENTIAL AND PRIVILEGED ; 
+ 
+   (III) IS NOT SUBJECT TO TH E PUBLIC INFORMATION ACT; 
+ 
+   (IV) IS NOT SUBJECT TO SU BPOENA ; AND 
+ 
+   (V) IS NOT SUBJECT TO DI SCOVERY OR ADMISSIBL E IN 
+EVIDENCE IN ANY PRIV ATE CIVIL ACTION . 
+ 
+  (3) THE COMMISSIONER MAY USE ANY DOCUMENT , MATERIAL , OR 
+INFORMATION THAT IS SUBJECT TO THIS SUBS ECTION TO FURTHER AN Y 
+REGULATORY OR LEGAL ACTION BROUGHT AS PA RT OF THE DUTIES OF THE 
+COMMISSIONER . 
+ 
+  (4) THE COMMISSIONER AND ANY PERSON THAT RECEIVES  A 
+DOCUMENT , MAT ERIAL , OR INFORMATION THAT IS SUBJECT TO THIS S UBSECTION 
+WHILE ACTING UNDER T HE AUTHORITY OF THE COMMISSIONER MAY NOT BE 
+ALLOWED OR REQUIRED TO TESTIFY IN ANY PR IVATE CIVIL ACTION C ONCERNING 
+THE DOCUMENT , MATERIAL , OR INFORMATION . 
+ 
+  (5) A RECIPIENT OF ANY  DOCUMENT , MATERIAL , OR INFORMATION  
+GENERATED UNDER § 7–603( I) AND (J) OF THIS TITLE MAY NO T STORE THE  
+DOCUMENT , MATERIAL , OR INFORMATION IN A PERMANENT DATABASE A FTER THE  
+UNDERLYING ANALYSIS IS COMPLETED . 
+ 
+  (6) THE GROUP CAPITAL CAL CULATION AND LIQUIDI TY TEST , ALONG  
+WITH THE RESULT AND SUPPORTING DISCLOSUR ES REQUIRED UNDER § 7–603( I) 
+AND (J) OF THIS TITLE MAY NO T BE MADE PUBLIC FOR  ANY REASON . 
+ 
+  (5) EXCEPT AS PROVIDED IN  PARAGRAPH (3) OF THIS SUBSECTION , 
+FOR PURPOSES OF THE INFORMATION REPORTED  AND PROVI DED TO THE 
+COMMISSIONER UNDER § 7–603( I) OF THIS TITLE , THE COMMISSIONER SHALL 
+MAINTAIN THE CONFIDE NTIALITY OF THE GROU P CAPITAL CALCULATIO N AND 
+GROUP CAPITAL RATIO PRODUCED WITHIN THE CALCULATION AND ANY GROUP 
+CAPITAL INFORMATION RECEIVED FROM AN INS URANC E HOLDING COMPANY 
+SUPERVISED BY THE FEDERAL RESERVE BOARD OR ANY U.S.  GROUP–WIDE 
+SUPERVISOR . 
+ 
+ WES MOORE, Governor  Ch. 121  
+ 
+– 5 –   (6) EXCEPT AS PROVIDED IN  PARAGRAPH (3) OF THIS SUBSECTION , 
+FOR PURPOSES OF THE INFORMATION REPORTED  AND PROVIDED TO THE 
+COMMISSIONER UNDER § 7–603( J) OF THIS T ITLE, THE COMMISSIONER SHALL 
+MAINTAIN THE CONFIDE NTIALITY OF THE LIQU IDITY STRESS TEST RE SULTS AND 
+SUPPORTING DISCLOSUR ES AND ANY LIQUIDITY  STRESS TEST INFORMAT ION 
+RECEIVED FROM AN INS URANCE HOLDING COMPA NY SUPERVISED BY THE  FEDERAL 
+RESERVE BOARD AND NON –U.S. GROUP–WIDE SUPERVISORS . 
+ 
+  (7) IN ORDER TO ASSIST IN  THE PERFORMANCE OF T HE 
+COMMISSIONER ’S DUTIES , THE COMMISSIONER : 
+ 
+   (I) EXCEPT AS PROVIDED I N ITEM (II) OF THIS PARAGRAPH , 
+MAY SHARE DOCUMENTS , MATERIALS , OR OTHER INFORMATION , INCLUDING 
+CONFIDENTIAL  AND PRIVILEGED INFOR MATION , THAT MAY INCLUDE PRO PRIETARY 
+AND TRADE SECRET DOC UMENTS AND MATERIALS  WITH OTHER STATE , FEDERAL , 
+AND INTERNATIONAL RE GULATORY AGENCIES , THE NAIC,  ANY THIRD –PARTY 
+CONSULTANTS DESIGNAT ED BY THE COMMISSIONER , AND STATE , FEDERAL , AND 
+INTERNATIONAL LAW EN FORCEMENT AUTHORITIE S, INCLUDING MEMBERS OF  ANY 
+SUPERVISORY COLLEGE DESCRIBED IN § 2–209.1  OF THIS ARTICLE , IF THE 
+RECIPIENT : 
+ 
+    1. AGREES IN WRITING TO  MAINTAIN THE 
+CONFIDENTIALITY AND PRIVILEGED STATUS OF  THE DOCUMENT , MATERIAL , OR 
+OTHER INFORMATION ; AND  
+ 
+    2. HAS VERIFIED IN WRIT ING THE LEGAL AUTHOR ITY TO 
+MAINTAIN CONFIDENTIA LITY; 
+ 
+   (II) MAY SHARE ONLY CONFI DENTIAL AND PRIVILEG ED 
+DOCUMENTS , MATERIAL , OR INFORMATION REPOR TED UNDER § 7–603( H) OF THIS 
+TITLE WITH THE COMMI SSIONER S OF STATES HAVING S TATUTES OR REGULATIO NS 
+SUBSTANTIALLY SIMILA R TO THIS SECTION AN D WHO HAVE AGREED IN  WRITING NOT 
+TO DISCLOSE THE INFO RMATION ; 
+ 
+   (III) 1. MAY RECEIVE DOCUMENT S, MATERIALS , OR 
+INFORMATION , INCLUDING OTHERWISE CONFIDENTIAL AND PRI VILEGED 
+DOCUMENTS , MATERIALS , AND INFORMATION , THAT MAY INCLUDE PRO PRIETARY 
+AND TRADE SECRET INF ORMATION FROM THE NAIC  AND ITS AFFILIATES A ND 
+SUBSIDIARIES AND FRO M REGULATORY AND LAW  ENFORCEMENT OFFICIAL S OF 
+OTHER FOREIGN OR DOM ESTIC JURISDICTIONS ; AND  
+ 
+    2. SHA LL MAINTAIN AS CONFI DENTIAL AND PRIVILEG ED 
+ANY DOCUMENT , MATERIAL , OR INFORMATION RECEI VED WITH NOTICE OR T HE 
+Ch. 121  2024 LAWS OF MARYLAND   
+ 
+– 6 – UNDERSTANDING THAT I T IS CONFIDENTIAL OR  PRIVILEGED UNDER THE  LAWS OF 
+THE JURISDICTION THA T IS THE SOURCE OF T HE DOCUMENT , MATERIAL , OR 
+INFORMATIO N; AND  
+ 
+   (IV) SHALL ENTER INTO WRI TTEN AGREEMENTS WITH  THE 
+NAIC  AND ANY THIRD –PARTY CONSULTANT DES IGNATED BY THE COMMISSIONER 
+GOVERNING THE SHARIN G AND USE OF INFORMA TION PROVIDED IN ACC ORDANCE 
+WITH THIS TITLE AND CONSISTENT WITH THIS  SECTION . 
+ 
+  (8) AN AGREEMENT ENTERED IN TO UNDER PARAGRAPH (7)(IV) OF 
+THIS SUBSECTION SHAL L: 
+ 
+   (I) SPECIFY PROCEDURES A ND PROTOCOLS REGARDI NG 
+CONFIDENTIALITY AND SECURITY OF INFORMAT ION SHARED WITH THE NAIC  OR A 
+THIRD–PARTY CONSULTANT DES IGNATED BY THE COMMISSIONER UNDER TH IS 
+TITLE , INCLUDING PROCEDURES  AND PROTOCOLS FOR TH E SHARING OF THE 
+INFORMATION BY THE NAIC  WITH OTHER STATE , FEDERAL , OR INTERNATIONAL 
+REGULATORS ; 
+ 
+   (II) PROVIDE THAT THE REC IPIENT AGREES IN WRI TING TO 
+MAINTAIN THE CONFIDE NTIALITY AND PRIVILE GED STATUS OF THE DOCUMENTS , 
+MATERIALS , AND OTHER INFORMATIO N AND HAS VERIFIED I N WRITING THE LEGAL 
+AUTHORITY TO MAINTAI N THE CONFIDENTIALIT Y; 
+ 
+   (III) SPECIFY THAT OWNERSH IP OF INFORMATION SH ARED WITH 
+THE NAIC  OR A THIRD –PARTY CONSULTANT UND ER THIS TITLE REMAIN S WITH THE 
+COMMISSIONER AND THE USE OF THE INFORMATI ON IS SUBJECT TO THE  DIRECTION 
+OF THE COMMISSIONER ; 
+ 
+   (IV) EXCLUDING DOCUMENTS , MATERIAL , OR INFORMATION 
+REPORTED UNDER § 7–603( J) OF THIS TITLE , PROHIBIT THE NAIC  OR A  
+THIRD–PARTY CONSULTANT DES IGNATED BY THE COMMISSIONER FROM STO RING 
+THE INFORMATION SHAR ED UNDER THIS TITLE IN A PERMANENT DATAB ASE AFTER 
+THE UNDERLYING ANALY SIS IS COMPLETED ; 
+ 
+   (V) REQUIRE PROMPT NOTIC E TO BE GIVEN TO AN INSURER 
+WHOSE CONFIDENTIAL I NFORMATION IN THE PO SSESSION OF THE NAIC OR A 
+THIRD–PARTY CONSULTANT DES IGNATED BY THE COMMISSIONER IS SUBJE CT TO A 
+REQUEST OR SUBPOENA TO THE NAIC  OR A THIRD –PARTY CONSULTANT 
+DESIGNATED BY THE COMMISSIONER FOR DISC LOSURE OR PRODUCTION ; 
+ 
+   (VI) REQUIRE THE NAIC  OR A THIRD –PARTY CONSULTANT 
+DESI GNATED BY THE COMMISSIONER TO CONSE NT TO INTERVENTION B Y AN 
+ WES MOORE, Governor  Ch. 121  
+ 
+– 7 – INSURER IN ANY JUDIC IAL OR ADMINISTRATIV E ACTION IN WHICH TH E NAIC  OR A 
+THIRD–PARTY CONSULTANT DES IGNATED BY THE COMMISSIONER MAY BE 
+REQUIRED TO DISCLOSE  CONFIDENTIAL INFORMA TION ABOUT THE INSUR ER 
+SHARED BY THE NAIC  OR A THIRD –PARTY CONSULTANT DES IGNATED BY THE 
+COMMISSIONER ; AND  
+ 
+   (VII) FOR DOCUMENTS , MATERIAL , OR INFORMATION REPOR TED 
+UNDER § 7–603( J) OF THIS TITLE , PROVIDE FOR THE NOTI FICATION OF THE 
+IDENTITY OF THE CONS ULTANT TO THE APPLIC ABLE INSURERS , IN THE CASE OF AN 
+AGREEMENT INVOLVING A THIRD –PARTY CONSULTANT . 
+ 
+  (9) (I) THE SHARING OF INFORM ATION BY THE COMMISSIONER 
+UNDER THIS TITLE MAY  NOT CONSTITUTE A DEL EGATION OF REGULATOR Y 
+AUTHORITY OR RULEMAK ING. 
+ 
+   (II) THE COMMISSIONER IS SOLEL Y RESPONSIBLE FOR THE 
+ADMINISTRATION , EXECUTION , AND ENFORCEMENT OF T HIS TITLE . 
+ 
+  (10)  A WAIVER OF ANY APPLIC ABLE PRIVILEGE OR CL AIM OF 
+CONFIDENTIALITY IN T HE DOCUMENTS , MATERIALS , OR INFORMATION MAY N OT 
+OCCUR AS A RESULT OF  DISCLOSURE TO THE COMMISSIONER O R AS A RESULT OF 
+SHARING AS AUTHORIZE D IN THIS SECTION . 
+ 
+  (11)  THE GROUP CAPITAL CAL CULATION AND RESULTI NG GROUP 
+CAPITAL RATIO REQUIR ED UNDER § 7–603( I) OF THIS TITLE AND TH E LIQUIDITY 
+STRESS TEST ALONG WI TH ITS RESULTS AND S UPPORTING DISCLOSURE S REQUIRED  
+UNDER § 7–603( J) OF THIS TITLE ARE RE GULATORY TOOLS FOR A SSESSING GROUP 
+RISKS AND CAPITAL AD EQUACY AND GROUP LIQ UIDITY RISKS , RESPECTIVELY , AND 
+ARE NOT INTENDED AS A MEANS TO RANK INSU RERS OR INSURANCE HO LDING 
+COMPANY SYSTEMS GENE RALLY . 
+ 
+  (12)  DISCLOSURE  OF GROUP CAPITAL CAL CULATION , GROUP CAPITAL 
+RATIO , LIQUIDITY STRESS TES T RESULTS , OR SUPPORTING DISCLO SURES BY ANY 
+INSURER , BROKER , OR OTHER PERSON ENGA GED IN ANY MANNER OF  THE 
+INSURANCE BUSINESS I S SUBJECT TO THE FOL LOWING : 
+ 
+   (I) EXCEPT AS PROVIDED I N ITEM (II) OF THIS PARAGRAPH OR  
+AS OTHERWISE REQUIRE D BY THIS TITLE , THE DIRECT OR INDIRE CT DISCLOSURE , 
+IN ANY WRITTEN , ELECTRONIC , OR OTHER MANNER AS A N ADVERTISEMENT , AN 
+ANNOUNCEMENT OR A ST ATEMENT CONTAINING A  REPRESENTATION , OR A 
+STATEMENT WITH REGARD  TO THE GROUP CAPITAL  CALCULATION , GROUP CAPITAL 
+RATIO , THE LIQUIDITY STRESS  TEST RESULTS , OR SUPPORTING DISCLO SURES FOR 
+THE LIQUIDITY STRESS  TEST OF ANY INSURER OR ANY INSURER GROUP , OR OF ANY 
+Ch. 121  2024 LAWS OF MARYLAND   
+ 
+– 8 – COMPONENT DERIVED IN  THE CALCULATION BY A NY INSURER , BROKER , OR OTHER 
+PERSON ENGAGED IN AN Y MANNER IN THE INSU RANCE BUSINESS WOULD  BE 
+MISLEADING AND IS TH EREFORE PROHIBITED ; AND  
+ 
+   (II) THE INSURER MAY PUBL ISH ANNOUNCEMENTS IN  A 
+WRITTEN PUBLICATION IF: 
+ 
+    1. ANY MATERIALLY FALSE  STATEMENT WITH RESPECT 
+TO THE GROUP CAPITAL  CALCULATION , RESULTING GROUP CAPI TAL RATIO , AN 
+INAPPROPRIATE COMPAR ISON OF ANY AMOUNT T O AN INSURER ’S OR INSURANCE 
+GROUP’S GROUP CAPITAL CALC ULATION OR RESULTING  GROUP CAPITAL RATIO , 
+LIQUIDITY STRESS TES T RESULT , SUPPORTING DIS CLOSURES FOR THE LIQ UIDITY 
+STRESS TEST , OR AN INAPPROPRIATE COMPARISON OF ANY AM OUNT TO AN 
+INSURER ’S OR INSURANCE GROUP ’S LIQUIDITY STRESS T EST RESULT OR 
+SUPPORTING DISCLOSUR ES IS PUBLISHED IN A NY WRITTEN PUBLICATI ON AND THE 
+INSURER IS ABLE TO D EMONSTRATE TO THE COMMISSIONER WITH SUB STANTIAL 
+PROOF THE FALSITY OF  THE STATEMENT OR THE  INAPPROPRIATENESS OF  THE 
+COMPARISON ; AND  
+ 
+    2. THE SOLE PURPOSE OF THE ANNOUNCEMENTS IS  TO 
+REBUT THE MATERIALLY  FALSE STATEMENT OR I NAPPROPRIATE COMPARI SON.  
+ 
+7–603. 
+ 
+ (a) Each insurer subject to registration shall file the registration statement on 
+the form provided by the Commissioner, containing the following current information:  
+ 
+  (1) the corporate and capital structure, general financial condition, 
+ownership, and manageme nt of the insurer and of any person controlling the insurer;  
+ 
+  (2) the identity and relationship of each member of the insurance holding 
+company system;  
+ 
+  (3) any pledge of the insurer’s stock, including stock of a subsidiary or 
+controlling affiliate, fo r a loan made to any member of the insurance holding company 
+system;  
+ 
+  (4) the following agreements in force, and transactions currently 
+outstanding or that have occurred during the previous calendar year between the insurer 
+and the insurer’s affiliates:  
+ 
+   (i) loans, other investments, purchases, sales, and exchanges of 
+securities of the affiliates by the insurer or of the insurer by its affiliates;  
+ 
+   (ii) purchases, sales, and exchanges of assets;  
+ WES MOORE, Governor  Ch. 121  
+ 
+– 9 –  
+   (iii) transactions not in the ordinary course of b usiness;  
+ 
+   (iv) except for insurance contracts entered into in the ordinary course 
+of the insurer’s business, guarantees or undertakings for the benefit of an affiliate that 
+result in an actual contingent exposure to liability of the insurer’s assets;  
+ 
+   (v) management agreements, service contracts, and cost –sharing 
+arrangements;  
+ 
+   (vi) reinsurance agreements;  
+ 
+   (vii) dividends and other distributions to shareholders; and  
+ 
+   (viii)  consolidated tax allocation agreements;  
+ 
+  (5) statements that the i nsurer’s board of directors oversees corporate 
+governance and internal controls and that the insurer’s officers or senior management have 
+approved, implemented, and continue to maintain and monitor corporate governance and 
+internal control procedures;  
+ 
+  (6) on request from the Commissioner and in accordance with subsection 
+(f) of this section, financial statements of or within an insurance holding company system, 
+including all affiliates;  
+ 
+  (7) any other matters about transactions between the insurer and its 
+affiliates that the registration statement form requires; and  
+ 
+  (8) a summary outlining all items in the current registration statement 
+that represent changes from the prior registration statement.  
+ 
+ (b) Each affiliate in an insurance holding company system shall give an insurer 
+subject to registration under this subtitle that is in the same insurance holding company 
+system complete and accurate information if that information is reasonably necessary to 
+enable the insurer to comply with this subtitle.  
+ 
+ (c) Each insurer required to register under this subtitle shall, on request of the 
+insurance commissioner of any state where the insurer is authorized to do business, file 
+with that commissioner a copy of the registration statement summary required by 
+subsection (a)(8) of this section.  
+ 
+ (d) The Commissioner may allow or require affiliated insurers subject to 
+registration under this subtitle to file a consolidated registration statement.  
+ 
+ (e) The Commissioner may require an insurer that is a member of an  insurance 
+holding company system and that is not subject to registration under this subtitle to provide 
+Ch. 121  2024 LAWS OF MARYLAND   
+ 
+– 10 – to the Commissioner a copy of the registration statement or other information that the 
+insurer files with the commissioner of the insurer’s domiciliary  jurisdiction.  
+ 
+ (f) (1) Financial statements required under subsection (a)(6) of this section 
+may include annual audited financial statements filed with the U.S. Securities and 
+Exchange Commission under the Securities Act of 1933, as amended, or the Secur ities 
+Exchange Act of 1934, as amended.  
+ 
+  (2) An insurer required to file financial statements under subsection (a) of 
+this section may satisfy the request by providing the Commissioner with the most recently 
+filed parent corporation financial statements that have been filed with the U.S. Securities 
+and Exchange Commission.  
+ 
+ (g) (1) [Unless ] EXCEPT AS PROVIDED IN  PARAGRAPH (3) OF THIS 
+SUBSECTION AND UNLES S otherwise provided by the Commissioner through regulation 
+or order, a sale, a purchase, an exchange,  a loan or an extension of credit, an investment, 
+or a guarantee involving 0.5% or less of an insurer’s admitted assets as of the December 31 
+immediately preceding the transaction is not material for purposes of this section.  
+ 
+  (2) Information need not be  disclosed on the registration statement filed 
+under subsection (a) of this section if the information is not material.  
+ 
+  (3) PARAGRAPH (1) OF THIS SUBSECTION D OES NOT APPLY FOR 
+PURPOSES OF THE GROU P CAPITAL CALCULATIO N OR THE LIQUIDITY S TRESS TEST 
+FRAMEW ORK. 
+ 
+ (h) (1) Beginning in 2015, the ultimate controlling person of every insurer 
+subject to registration shall file an annual enterprise risk report on or before July 1 of each 
+year unless the Commissioner extends the time for filing for good cause.  
+ 
+  (2) The enterprise risk report shall, to the best of the ultimate controlling 
+person’s knowledge and belief, identify the material risks within the insurance holding 
+company system that could pose enterprise risk to the insurer.  
+ 
+  (3) The enterprise risk r eport shall be filed with the lead state 
+commissioner of the insurance holding company system as defined and determined by the 
+procedures in the NAIC  Financial Analysis Handbook [adopted by the National 
+Association of Insurance Commissioners ]. 
+ 
+  (4) The C ommissioner may share the enterprise risk report filed under 
+paragraph (1) of this subsection with an insurance regulatory agency in a state that has 
+laws or regulations that the Commissioner determines are substantially similar to §  
+2–209(g) and (h) of t his article, only if the agency agrees in writing to maintain the 
+confidentiality and privileged status of the report.  
+ 
+ WES MOORE, Governor  Ch. 121  
+ 
+– 11 –  (I) (1) (I) EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS 
+SUBSECTION , THE ULTIMATE CONTROL LING PERSON OF EACH INSURER SUBJECT TO 
+REGISTRA TION UNDER THIS SUBT ITLE SHALL CONCURREN TLY FILE WITH THE 
+REGISTRATION STATEME NT AN ANNUAL GROUP C APITAL CALCULATION A S 
+DIRECTED BY THE LEAD  STATE COMMISSIONER O F THE INSURANCE GROU P. 
+ 
+   (II) 1. THE REPORT SHALL BE C OMPLETED IN ACCORDAN CE 
+WITH THE NAIC  GROUP CAPITAL CALCULAT ION INSTRUCTIONS . 
+ 
+    2. THE NAIC  GROUP CAPITAL CALCUL ATION 
+INSTRUCTIONS MAY AUT HORIZE THE LEAD STAT E COMMISSIONER TO AL LOW A 
+CONTROLLING PERSON T HAT IS NOT THE ULTIM ATE CONTROLLING PERS ON TO FILE 
+THE GROUP CAPITAL CA LCULATION . 
+ 
+   (III) THE REPORT SHALL BE F ILED WITH THE LEAD S TATE 
+COMMISSIONER OF THE INSURANCE HOLDING CO MPANY SYSTEM AS DETE RMINED 
+BY THE LEAD STATE CO MMISSIONER IN ACCORD ANCE WITH THE PROCED URES IN 
+THE NAIC  FINANCIAL ANALYSIS HANDBOOK . 
+ 
+  (2) THE FOLLOWING INSURAN CE HOL DING COMPANY SYSTEMS  ARE 
+EXEMPT FROM FILING T HE GROUP CAPITAL CAL CULATION : 
+ 
+   (I) AN INSURANCE HOLDING  COMPANY SYSTEM THAT : 
+ 
+    1. HAS ONLY ONE INSURER  WITHIN ITS HOLDING 
+COMPANY STRUCTURE ; 
+ 
+    2. ONLY WRITES BUSINESS  AND IS ONLY LICENSED  IN ITS 
+DOMESTIC STATE ; AND 
+ 
+    3. ASSUMES NO BUSINESS FROM ANY OTHER INSUR ER; 
+ 
+   (II) AN INSURANCE HOLDING  COMPANY SYSTEM THAT IS 
+REQUIRED TO PERFORM A GROUP CAPITAL CALC ULATION SPECIFIED BY  THE 
+FEDERAL RESERVE BOARD IS EXEMPT IF : 
+ 
+    1. THE LEAD STATE COMMISSIONER REQUEST S THE  
+CALCULATION FROM THE  FEDERAL RESERVE BOARD UNDER THE TERMS  OF 
+INFORMATION SHARING AGREEMENTS IN EFFECT ; AND  
+ 
+    2. THE FEDERAL RESERVE BOARD SHARES THE  
+CALCULATION WITH THE  LEAD STATE COMMISSIO NER, UNLESS THE FEDERAL 
+RESERVE BOAR D CANNOT SHARE THE C ALCULATION WITH THE LEAD STATE 
+COMMISSIONER AFTER T HE LEAD STATE COMMIS SIONER MAKES A REQUE ST UNDER 
+Ch. 121  2024 LAWS OF MARYLAND   
+ 
+– 12 – THE TERMS OF INFORMA TION SHARING AGREEME NTS IN EFFECT AT THE  TIME THE 
+REQUEST IS MADE ; 
+ 
+   (III) AN INSURANCE HOLDING  COMPANY SYSTEM WHOSE  
+FOREIGN  NON–U.S.  GROUP–WIDE SUPERVISOR IS L OCATED WITHIN A RECI PROCAL 
+JURISDICTION AS DESC RIBED IN § 5–917 OF THIS ARTICLE THAT  RECOGNIZES THE 
+U.S.  STATE REGULATORY APP ROACH TO GROUP SUPER VISION AND GROUP CAP ITAL; 
+ 
+   (IV) AN INSURANCE HOLDING  COMPANY SYSTEM THAT 
+PROVIDES INFORMATION  TO THE LEAD STATE TH AT MEETS THE REQUIRE MENTS 
+FOR ACCREDITATION UN DER THE NAIC  FINANCIAL STANDARDS AND 
+ACCREDITATION PROGRA M, EITHER DIRECTLY OR I NDIRECTLY THROUGH TH E 
+GROUP–WIDE SUPERV ISOR , WHO HAS DETERMINED T HAT THE INFORMATION IS 
+SATISFACTORY TO ALLO W THE LEAD STATE TO COMPLY WITH THE NAIC  GROUP 
+SUPERVISION APPROACH , AS DETAILED IN THE NAIC  FINANCIAL ANALYSIS 
+HANDBOOK ; AND 
+ 
+   (V) AN INSURANCE HOLDING  COMPANY SYSTEM WHOSE  
+FOREIGN  NON–U.S.  GROUP–WIDE SUPERVISOR THAT  IS NOT IN A RECIPROC AL 
+JURISDICTION RECOGNI ZES AND ACCEPTS , AS THE LEAD STATE CO MMISSIONER 
+SPECIFIES BY REGULAT ION, THE GROUP CAPITAL CA LCULATION AS THE  
+WORLD–WIDE GROUP CAPITAL A SSESSMENT FOR U.S.  INSURANCE GROUPS THA T 
+OPERATE IN THAT JURISD ICTION . 
+ 
+  (3) NOTWITHSTANDING PARAG RAPH (2) (2)(III), (IV), AND (V) OF THIS 
+SUBSECTION , THE LEAD STATE COMMI SSIONER SHALL REQUIR E THE GROUP 
+CAPITAL CALCULATION FOR U.S.  OPERATIONS OF ANY FOREIGN –BASED   
+NON–U.S.–BASED  INSURANCE HOLDING COMPANY SYSTEM IF , AFTER ANY 
+NECESSARY CONSULTATI ON WITH OTHER SUPERV ISORS OR OFFICIALS , THE LEAD 
+STATE COMMISSIONER D ETERMINES THAT THE G ROUP  CAPITAL CALCULATION IS 
+APPROPRIATE FOR PRUD ENTIAL OVERSIGHT AND  SOLVENCY MONITORING 
+PURPOSES OR FOR ENSU RING THE COMPETITIVENESS OF T HE INSURANCE 
+MARKETPLACE . 
+ 
+  (4) NOTWITHSTANDING THE E XEMPTIONS FROM FILIN G THE GROUP 
+CAPITAL CALCULATION STATED IN PARAGRAPH (2) OF THIS SUBSECTION , THE LEAD 
+STATE COMMISSIONER M AY EXEMPT THE ULTIMA TE CONTROLLING PERSO N FROM 
+FILING THE  ANNUAL GROUP CAPITAL  CALCULATION OR MAY A CCEPT A LIMITED 
+GROUP CAPITAL FILING  OR REPORT IN ACCORDA NCE WITH CRITERIA TH E LEAD 
+STATE COMMISSIONER S PECIFIES BY REGULATI ON. 
+ 
+  (5) IF THE LEAD STATE COM MISSIONER DETERMINES  THAT AN 
+INSURANCE HOLDING CO MPANY SYS TEM NO LONGER MEETS ONE OR MORE OF THE 
+ WES MOORE, Governor  Ch. 121  
+ 
+– 13 – REQUIREMENTS FOR AN EXEMPTION FROM FILIN G THE GROUP CAPITAL 
+CALCULATION UNDER TH IS SUBSECTION , THE INSURANCE HOLDIN G COMPANY 
+SYSTEM SHALL FILE TH E GROUP CAPITAL CALC ULATION AT THE NEXT ANNUAL 
+FILING DATE UNLESS T HE LE AD STATE COMMISSIONE R GRANTS AN EXTENSIO N 
+BASED ON REASONABLE GROUNDS SHOWN . 
+ 
+ (J) (1) THE ULTIMATE CONTROLL ING PERSON OF EVERY INSURER THAT 
+IS SUBJECT TO REGIST RATION UNDER THIS SE CTION AND INCLUDED I N THE SCOPE 
+OF THE NAIC  LIQUIDITY STRESS TES T FRAMEWORK  SHALL FILE THE RESUL TS OF A 
+SPECIFIC YEAR ’S LIQUIDITY STRESS T EST CONCURRENTLY WIT H THE 
+REGISTRATION STATEME NT. 
+ 
+  (2) THE FILING SHALL BE M ADE TO THE LEAD STAT E INSURANCE 
+COMMISSIONER OF THE INSURANCE HOLDING CO MPANY SYSTEM AS DETE RMINED 
+BY THE PROCEDURES IN THE NAIC  FINANCIAL ANALYSIS HANDBOOK IN 
+ACCORDANCE WITH PARA GRAPH (3) OF THIS SUBSECTION . 
+ 
+  (3) (I) 1. THE NAIC  LIQUIDITY STRESS TES T FRAMEWORK 
+INCLUDES SCOPE CRITE RIA APPLICABLE TO A SPECIFIC DATA YEAR . 
+ 
+    2. THE SCOPE CRITERIA AR E REVIEW ED AT LEAST 
+ANNUALLY BY THE FINANCIAL STABILITY TASK FORCE OR ITS SUCCESSO R. 
+ 
+    3. ANY CHANGES TO THE NAIC  LIQUIDITY STRESS TES T 
+FRAMEWORK OR TO THE DATA YEAR FOR WHICH THE SCOPE CRITERIA A RE TO BE 
+MEASURED SHALL BE EF FECTIVE ON JANUARY 1 OF THE YEAR FOL LOWING THE 
+CALENDAR YEAR WHEN T HE CHANGES ARE ADOPT ED. 
+ 
+   (II) INSURERS MEETING AT L EAST ONE THRESHOLD O F THE 
+SCOPE CRITERIA ARE C ONSIDERED INCLUDED I N THE SCOPE OF THE NAIC  
+LIQUIDITY STRESS TES T FRAMEWORK FOR THE SPECIFIED DATA YEAR UNLESS THE 
+LEAD STATE  COMMISSIONER , IN CONSULTATION WITH  THE NAIC  FINANCIAL 
+STABILITY TASK FORCE OR ITS SUCCESSO R, DETERMINES THAT THE INSURER 
+SHOULD NOT BE INCLUD ED IN THE SCOPE OF T HE FRAMEWORK FOR THA T DATA 
+YEAR . 
+ 
+   (III) INSURERS THAT DO NOT TRIGGER AT LEAST ONE  
+THRESHOLD  OF THE SCOPE CRITERI A ARE CONSIDERED EXC LUDED FROM THE 
+SCOPE OF THE NAIC  LIQUIDITY STRESS TES T FRAMEWORK FOR THE SPECIFIED 
+DATA YEAR , UNLESS THE LEAD STAT E COMMISSIONER , IN CONSULTATION WITH  THE 
+NAIC  FINANCIAL STABILITY TASK FORCE OR ITS SUCCESSO R, DETERM INES THAT 
+THE INSURER SHOULD B E INCLUDED IN THE SC OPE OF THE FRAMEWORK  FOR THAT 
+DATA YEAR . 
+Ch. 121  2024 LAWS OF MARYLAND   
+ 
+– 14 –  
+   (IV) ON REQUEST BY AN INSU RER, THE LEAD STATE 
+COMMISSIONER MAY CON SULT WITH THE FINANCIAL STABILITY TASK FORCE OR 
+ITS SUCCESSOR TO ADD RESS THE INSURER ’S EXPERIEN CE OF BEING INCLUDED  IN 
+OR EXCLUDED FROM THE  SCOPE OF THE NAIC  LIQUIDITY STRESS TES T 
+FRAMEWORK ON A FREQU ENT BASIS . 
+ 
+   (V) THE PERFORMANCE OF , AND FILING OF THE RE SULTS 
+FROM , A SPECIFIC YEAR ’S LIQUIDITY STRESS T EST SHALL COMPLY WIT H THE NAIC  
+LIQUIDITY STR ESS TEST FRAMEWORK ’S INSTRUCTIONS AND R EPORTING 
+TEMPLATES FOR THAT Y EAR AND ANY LEAD STA TE INSURANCE COMMISS IONER 
+DETERMINATIONS , IN CONSULTATION WITH  THE FINANCIAL STABILITY TASK 
+FORCE OR ITS SUCCESSO R, INCLUDED IN THE FRAM EWORK . 
+ 
+ SECTION 2. AND BE IT FU RTHER ENACTED, That this Act shall take effect 
+October 1, 2024.  
+ 
+Approved by the Governor, April 9, 2024.  

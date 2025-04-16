@@ -1,0 +1,287 @@
+ WES MOORE, Governor  Ch. 582  
+ 
+– 1 – Chapter 582  
+(House Bill 830 ) 
+ 
+AN ACT concerning  
+ 
+Residential Construction or Significant Renovation  – Electric Vehicle Charging  
+ 
+FOR the purpose of establishing and altering certain requirements related to the 
+installation of equipment for the charging of electric vehicles during the construction 
+or significant renovation  of certain housing units or multifamily residential 
+buildings ; clarifying that a county or municipal corporation may require a greater 
+number of electric vehicle parking spaces under certain circumstances; requiring the 
+Maryland Energy Administration to study certain issues related to the installation of 
+electric ve hicle parking spaces at multifamily residential buildings;  and generally 
+relating to electric vehicle supply equipment on new residential construction and 
+residential construction undergoing significant renovation . 
+ 
+BY repealing and reenacting, with amen dments,  
+ Article – Public Safety  
+Section 12 –205 
+ Annotated Code of Maryland  
+ (2022 Replacement Volume)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Public Safety  
+ 
+12–205. 
+ 
+ (a) (1) In this section the following words have the meanings indicated.  
+ 
+  (2) “Electric vehicle” means a vehicle that uses electricity for propulsion.  
+ 
+  [(3) “Electric vehicle charging station” means a connected point in an 
+electrical wiring installation at which  current is taken to charge a battery or any other 
+energy storage device in an electric vehicle. ]  
+ 
+  (3) “ELECTRIC VEHICLE SUPP LY EQUIPMENT ” MEANS A DEVICE OR 
+FACILITY FOR DELIVER ING ELECTRICITY TO A N ELECTRIC VEHICLE . 
+ 
+  (4) “EV–CAPABLE PARKING SPAC E” MEANS A PARKING SPAC E THAT : 
+ 
+Ch. 582  2023 LAWS OF MARYLAND   
+ 
+– 2 –    (I) HAS THE ELECTRICAL P ANEL CAPACITY AND CO NDUIT 
+INSTALLED TO SUPPORT  THE FUTURE INSTALLAT ION OF A MINIMUM 40–AMPERE , 
+208/240  VOLT CIRCUIT ; AND  
+ 
+   (II) IS NOT INCLUDED IN L OAD CALCULATIONS OR ELECTRIC 
+RESERVE CAPACITY . 
+ 
+  (5) (4) “EV–READY PARKING SPACE ” MEANS A DEDICATED  
+PARKING SPACE THAT H AS A ELECTRICAL PANEL CAP ACITY AND  FULL CIRCUIT 
+INSTALLATION OF A MI NIMUM 30–AMPERE  40–AMPERE , 208/240–VOLT CIRCUIT 
+PANEL CAPACITY , RACEWAY WIRING , A NEMA  14–50R  RECEPTACLE , AND CIRCUIT 
+OVERPROTECTION  OVERCURRENT PROTECTI ON DEVICES . 
+ 
+  (5) (6) (5) (I) “EVSE–INSTALLED PARKING SP ACE” MEANS A  
+DEDICATED  PARKING SPACE WITH E LECTRIC VEHICLE SUPP LY EQUIPMENT THAT IS  
+FULLY INSTALLED FROM  THE  ELECTRICAL PANEL TO THE PARKING SPACE . 
+ 
+   (II) “EVSE–INSTALLED PARKING SP ACE” INCLUDES THE USE 
+OF DUAL –HEAD ELECTRIC VEHICL E SUPPLY EQUIPMENT U SING A SINGLE CIRCUI T 
+OF AT LEAST 40–AMPERE , 208/240  VOLT TO PROVIDE CHAR GING TO TWO ADJACENT  
+EV–CAPABLE OR EV–READY PARKING SPACES .  
+ 
+  (6) (7) (6) (I) “HOUSING UNITS ” INCLUDES  MEANS :  
+ 
+   (I)  1.  SINGLE–FAMILY DETACHED HOUS ES; 
+ 
+   (II)  2.  DUPLEXES ; AND  
+ 
+   (III)  3.  TOWN HOUSES THAT ARE  SUBJECT TO THE 
+PROVISIONS OF THE INTERNATIONAL RESIDE NTIAL CODE  INTERNATIONAL 
+RESIDENTIAL CODE; AND  
+ 
+   (III) MULTIFAMILY RESIDENT IAL BUILDINGS . 
+ 
+   (II) “HOUSING UNITS ” DOES NOT INCLUDE MUL TIFAMILY 
+RESIDENTIAL BUILDING S THAT ARE SUBJECT T O THE PROVISIONS OF THE 
+INTERNATIONAL BUILDING CODE.  
+ 
+  [(4)] (7) (8) (7)  “Level 2 charging” means that the charging capability of 
+the electric vehicle [charging station ] SUPPLY EQUIPMENT : 
+ 
+   (i) includes the ability to charge a battery or any other energy 
+storage device in an electric vehicle through means of an alternating cu rrent electrical 
+service with a minimum of 208 volts; and  
+ WES MOORE, Governor  Ch. 582  
+ 
+– 3 –  
+   (ii) meets applicable industry safety standards.  
+ 
+  (9) “MULTIFAMILY RESIDENTI AL BUILDING ” MEANS A BUILDING 
+WITH MULTIPLE DWELLI NG UNITS , WHETHER RENTED OR OW NED BY THE 
+RESIDENTS , THAT IS SUBJEC T TO THE PROVISIONS OF THE INTERNATIONAL  
+BUILDING CODE .  
+ 
+  (8) (10) “SIGNIFICANT RENOVATIO N” MEANS ANY RENOVATION S TO 
+A HOUSING UNIT LEVEL 3 ALTERATIONS , AS DEFINED IN THE IN TERNATIONAL 
+EXISTING BUILDING CO DE, THAT INCLUDE ELECTRI C PANEL UPGRADES THA T 
+INCREASE CAPACITY OF  THE PANEL OR PARKING  UPGRADES THAT INVOLV E 
+TRENCHING IN OR  AROUND PARKING SPACE S. 
+ 
+  [(5)] (9) (11)  (8)  “Vehicle” has the meaning stated in § 11 –176 of the 
+Transportation Article.  
+ 
+ (b) This section applies only to : 
+ 
+  (1) the construction of new housing units [, including:  
+ 
+  (1) single –family detached homes; and  
+ 
+  (2) town houses ]; AND  
+ 
+  (2) THE SIGNIFICANT RENO VATION OF EXISTING H OUSING UNITS . 
+ 
+ (c) (1) THIS SUBSECTION APPLI ES TO THE CONSTRUCTI ON OR 
+SIGNIFICANT RENOVATI ON OF HOUSING UNITS THA T INCLUDE A SEPARATE  GARAGE , 
+CARPORT , OR DRIVEWAY FOR EACH  RESIDENTIAL UNIT . 
+ 
+  (2) If the construction of one or more new housing units will include at least 
+one garage, carport, or driveway for each housing unit [, the builder or the builder’s agent 
+shall provide each buyer or prospective buyer with the option to ] OR IF AN EXISTING 
+HOUSING  UNIT THAT INCLUDES A  GARAGE , CARPORT , OR DRIVEWAY IS UNDER GOING  
+SIGNIFICANT RENOVATI ON, THE CONSTRUCTION OR RENOVATION  THE 
+CONSTRUCTION OF A NE W HOU SING UNIT OR SIGNIFICANT RENOV ATION OF AN 
+EXISTING HOUSING UNI T SHALL include in or on [the] EACH  garage, carport, or 
+driveway:  
+ 
+  (1) (I) [an electric vehicle charging station ] ONE EVSE–INSTALLED 
+PARKING SPACE  capable of providing at least Level 2 charging; OR or 
+ 
+Ch. 582  2023 LAWS OF MARYLAND   
+ 
+– 4 –   [(2) a dedicated electric line of sufficient voltage to support the later 
+addition of an electric vehicle charging station capable of providing at least Level 2 
+charging. ] 
+ 
+  (2) (II) ONE EV–READY PARKING SPACE ; OR 
+ 
+   (III) ONE EV–CAPABLE PARKING SPAC E. 
+ 
+ [(d) The builder or builder’s agent shall give to each buyer or prospective buyer:  
+ 
+  (1) notice of the options listed in subsection (c) of this section; and  
+ 
+  (2) specific information about any available rebate programs related to the 
+purchase or installation of electric vehicle charging stations. ] 
+ 
+ (D) (C) (1) THIS SUBSECTION APPLI ES TO THE CONSTRUCTI ON OF 
+HOUSING UNITS OR MUL TIFAMILY RESIDENTIAL  BUILDINGS THAT DO NO T INCLUDE 
+A SEPARATE GARAGE , CARPORT , OR DRIVEWAY FOR EACH  RESIDENTIAL UNIT BUT  
+WILL PROVIDE PARKING  ON–SITE FOR RESIDENTS . 
+ 
+  (2) (I) IF THE CONSTRUCTION O R SIGNIFICANT RENOVA TION OF  
+TOWN HOUSES AND MULT IFAMILY RESIDENTIAL BUILDINGS WILL NOT I NCLUDE AT  
+LEAST ONE GARAGE , CARPORT , OR DRIVEWAY FOR EACH RE SIDENTIAL UNIT BUT  
+WILL INCLUDE OFF –STREET COMMUNAL PARK ING, THE CONSTRUCTION OR  
+SIGNIFICANT RENOVATI ON SHALL INCLUDE AT LEAST ONE COMMUNAL P ARKING  
+SPACE FOR EACH 25 RESIDENTIAL UNITS FE ATURING AN EVSE–INSTALLED  
+PARKING SPACE THE CONSTR UCTION OF A NEW HOUS ING UNIT OR MULTIFAM ILY 
+RESIDENTIAL BUILDING  SHALL INCLUDE : 
+ 
+    1. AT LEAST ONE EVSE–INSTALLED PARKING SP ACE 
+CAPABLE OF PROVIDING  AT LEAST LEVEL 2 CHARGING LOCATED IN A COMMON USE 
+PARKING AREA THAT IS  AVAILABLE FOR USE BY  ALL RESIDENTS ; AND  
+ 
+    2. SUBJECT TO THE PROVI SIONS OF PARAGRAPH (3) OF 
+THIS SUBSECTION , THE FOLLOWING NUMBER  OF EV–CAPABLE PARKING SPAC ES, 
+WHICH MAY BE DEDICAT ED TO RESIDENTIAL UN ITS OR MADE AVAILABL E FOR 
+COMMON USE : 
+ 
+    A. FOR A DEVELOPMENT AP PLICATION OR BUILDING 
+PERMIT APPLICATION M ADE ON OR AFTER OCTOBER 1, 2023,  AT LEAST 10%  OF THE 
+PARKING SPACES ; 
+ 
+ WES MOORE, Governor  Ch. 582  
+ 
+– 5 –     B. FOR A DEVELOPMENT AP PLICATION OR BUILDIN G 
+PERMIT APPLICATION M ADE ON OR AFTER JANUARY 1, 2030,  AT LEAST 20%  OF THE 
+PARKING SPACES ; AND  
+ 
+    C. FOR A D EVELOPMENT APPLICATI ON OR BUILDING 
+PERMIT APPLICATION M ADE ON OR AFTER JANUARY 1, 2035,  AT LEAST 30%  OF THE 
+PARKING SPACES . 
+ 
+   (II) EACH COMMUNAL COMMON USE  EVSE–INSTALLED  
+PARKING SPACE SHALL BE MARKED AS INTENDE D FOR ELECTRIC VEHIC LE 
+CHARGING ONLY WITH A  SIGN THAT COMPLIES W ITH § 21–1003.2  OF THE 
+TRANSPORTATION ARTICLE . 
+ 
+  (2) (3) (C) NOTWITHSTANDING ANY O THER LAW , A COUNTY OR 
+MUNICIPAL CORPORATIO N MAY REQUIRE THE CO NSTRUCTION OR SIGNIFICANT 
+RENOVATION OF  TOWN HOUSES  OF HOUSING UNITS  AND MULTIFAMILY  
+RESIDENTIAL BUILDING S THAT WILL NOT  INCLUDE AT LEAST ONE  GARAGE , 
+CARPORT , OR DRIVEWAY FOR EACH  RESIDENTIAL  UNIT BUT WILL INCLUD E  
+OFF–STREET COMMUNAL PARK ING COVERED UNDER THIS S UBSECTION  TO INCLUDE 
+A GREATER NUMBER OF EVSE–INSTALLED  EV–CAPABLE  EVSE–INSTAL LED 
+PARKING SPACES OR EV–READY  PARKING SPACES THAN ARE REQUIRED  UNDER 
+PARAGRAPH  SUBSECTION  (1) (2) (B) OF THIS  SUBSECTION  SECTION . 
+ 
+  (4) AN EV–CAPABLE , EV–READY , OR EVSE–INSTALLED PARKING 
+SPACE SHALL BE COUNT ED AS PART OF THE OV ERALL NUMBER OF PARK ING SPACES 
+FOR THE PURPOSE OF C OMPLYING WITH ANY ZO NING OR PARKING LAWS .  
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to 
+apply only prospectively and may not be applied or interpreted to have any effect on or 
+application to any new  construction or significant renovation  for which a building permit 
+is issued  complete commercial or residential service request is made to the local utility or 
+a development application or building permit application is filed with a county or municipal 
+corporation  before the effective date of this Act.  
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That:  
+ 
+ (a) (1) The Maryland Energy Administration shall study:  
+ 
+   (i) the cost of requiring multifamily residential buildings to include 
+EV–ready and EVSE –installed parking spaces; and 
+ 
+   (ii) the appropriate ratio of EVSE –installed parking spaces to 
+dwelling units in a multifamily residential building to support the State’s greenhouse gas 
+emissions reduction goals ; and  
+ 
+Ch. 582  2023 LAWS OF MARYLAND   
+ 
+– 6 –    (iii) different options for paying for charging an electric vehicle at an 
+EVSE –installed parking space at multifamily residential buildings, including:  
+ 
+    1. options to pay for vehicle charging di rectly at the charging 
+station, through credit card, access code, or cash; and  
+ 
+    2. options for including the cost of electric vehicle charging as 
+part of rent, condominium fees, or homeowner’s association fees . 
+ 
+  (2) The study shall include estimates of: 
+ 
+   (i) subject to paragraph (3) of this subsection, the cost to:  
+ 
+    1. include EV –ready or EVSE –installed parking spaces at 
+newly constructed multifamily residential buildings; and  
+ 
+    2. retrofit existing multifamily residential buildings with 
+EV–ready or EVSE –installed parking spaces; and  
+ 
+   (ii) in consultation with the Department of the Environment, the 
+number of electric vehicles that will be on the road in the State in each year from 2024 
+through 2050, inclusive, after the State adopts the  California Advanced Clean Cars II 
+regulations.  
+ 
+  (3) The cost estimates required under paragraph (2)(i) of this subsection 
+shall include separate estimates:  
+ 
+   (i) for EV –ready and EVSE –installed parking spaces;  
+ 
+   (ii) based on the following assumptions:  
+ 
+    1. that at least 10% of the parking spaces will be required to 
+be EV –ready or EVSE –installed;  
+ 
+    2. that at least 25% of the parking spaces will be required to 
+be EV –ready or EVSE –installed; and  
+ 
+    3. that at least 50% of the parking spaces will be required to 
+be EV –ready or EVSE –installed; and  
+ 
+   (iii) for the following categories of parking:  
+ 
+    1. open air parking lots;  
+ 
+    2. underground parking structures; and  
+ 
+ WES MOORE, Governor  Ch. 582  
+ 
+– 7 –     3. parking garages.  
+ 
+ (b) On or before December 1, 2023, the Administration shall report its findings 
+and recommendations to the Governor and, in accordance with § 2 –1257 of the State 
+Government Article, the General Assembly.   
+ 
+ SECTION 3. 4. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2023 . 
+ 
+Approved by the Governor, May 8, 2023.  

@@ -1,0 +1,3355 @@
+ WES MOORE, Governor  Ch. 567  
+ 
+– 1 – Chapter 567  
+(House Bill 686 ) 
+ 
+AN ACT concerning  
+ 
+Financial Regulation – Modernizing Licensing of Non –Depository Institutions  
+and Elimination of Branch License Requirements  
+ 
+FOR the purpose of eliminating requirements for collection agencies and certain  
+non–depository financial institutions to maintain separate licenses for branch 
+locations and authorizing them to conduct business at multiple licensed locations 
+under a single  license; altering certain other requirements and provisions governing 
+the licensing and regulation of collection agencies and certain non –depository 
+financial institutions, including applications, Nationwide Mortgage Licensing 
+System and Registry (NMLS) i nformation, use of trade names, examination, 
+Commissioner of Financial Regulation assessments, and bond requirements; and 
+generally relating to the licensing of financial services providers.  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Business Regulation  
+Section 7 –101, 7 –206, 7 –301(c), 7 –302(b), (d), and (e), 7 –302.1(b), 7 –302.2(a),  
+7–304(c)(1), 7 –305, 7 –306.1(a) and (c), and 7 –308(c)  
+ Annotated Code of Maryland  
+ (2015 Replacement Volume and 2022 Supplement)  
+ 
+BY repealing  
+ Article – Business Regulation  
+Section 7 –302(c) and 7 –308(b)  
+ Annotated Code of Maryland  
+ (2015 Replacement Volume and 2022 Supplement)  
+ 
+BY adding to  
+ Article – Business Regulation  
+Section 7 –302.2(c) and 7 –304(j)  
+ Annotated Code of Maryland  
+ (2015 Replacement Volume an d 2022 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Commercial Law  
+Section 14 –1216(d) and (e)  
+ Annotated Code of Maryland  
+ (2013 Replacement Volume and 202 2 Supplement)  
+ 
+BY adding to  
+ Article – Financial Institutions  
+Section 2 –120, 2–121, 11 –203.1(b), 11 –203.3(c), 11 –206(d), 11 –208, 11 –211,  
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 2 – 11–402.1(c), 11 –408, 11 –411, 11 –501(f –1) and (f –2), 11 –503.2(c), 11 –508(c), 
+12–104.1(c), 12 –110, 12 –113, 12 –401(k) and (l), 12 –404(c), 12 –407(b) (1),  
+12–415(a), 12 –905(c), and 12 –914(f)  
+ Annotat ed Code of Maryland  
+ (2020 Replacement Volume and 2022 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Financial Institutions  
+Section 11 –201, 11 –203.3(a), 11 –204(a) and (c)(2), 11 –206(a)(2) and (c)(3)(i),  
+11–210(b)(1) and (c), 11 –401, 11 –402.1(a), 11 –403(b),  
+11–404(a)(2), 11 –406(a), 11 –410(b)(1) and (c), 11 –414, 11 –503.1(b),  
+11–503.2(a), 11 –505, 11 –506.1(b) through (e), 11 –507, 11 –508(a) and ( e) 
+through (g), 11 –511(a), (c), and (d), 11 –512, 11 –512.1(a) and (c), 11 –513,  
+11–601(f), 1 1–602(c), 11 –612.1, 12 –101, 12 –104.1(a), 12 –105(b), 12 –106,  
+12–108(a)(2), 12 –112(b)(1) and (c), 12 –114(c), 12 –118, 12 –401(c) and (k –1),  
+12–404(a), 12 –406(a)(3), 12 –407(b)(2), 12 –410, 12 –412(a) and (d),  
+12–424, 12 –901, 12 –904, 12 –905(a), 12 –906(b), 12 –908(b)(1) and (2), 12 –911, 
+12–914(b)(2)(i), 12 –915, 12 –923(b)(1), 12 –924(a), (c), and (d), and 12 –1007(a)  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2022 Supplement)   
+ 
+BY repealing  
+ Article – Financial Institutions  
+Section 11 –203.1(b), 11–206(d), 11–208, 11 –211, 11 –404(c), 11 –408, 11 –411,  
+11–508(c)  and (d) , 11–610, 12 –108(c), 12 –110, 12 –113, 12 –401(e), 12 –407(b)(1) 
+and (h), 12 –415(a), and 12 –914(b)(8)  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2022 Supplement)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Financial Institutions  
+Section 11 –501(a), 11 –601(a), and 12 –401(a)  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2022 Supplement)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – State Finance and Procurement  
+ Section 6 –226(a)(2)(i)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2022 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – State Finance and Procurement  
+ Section 6 –226(a)(2)(ii)170. and 171.  
+ Annota ted Code of Maryland  
+ (2021 Replacement Volume and 2022 Supplement)  
+ WES MOORE, Governor  Ch. 567  
+ 
+– 3 –  
+BY adding to  
+ Article – State Finance and Procurement  
+ Section 6 –226(a)(2)(ii)172.  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2022 Supplement)  
+ 
+BY renumbering  
+ Article – Financial Institutions  
+ Section 12 –401(f) through (k) and (l) through (v)  
+ to be Section 12 –401(e) through (j) and (n) through (x), respectively  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2022 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Business Regulation  
+ 
+7–101. 
+ 
+ (a) In this title the following words have the meanings indicated.  
+ 
+ (b) “Board” means the State Collection Agency Licensing Board.  
+ 
+ (c) [“Branch location” means any location other than the principal executive office 
+of a licensee or license applicant at which a person does business as a collection agency or, 
+on licensure, will do business as a collection agency, in the State or with a perso n in the 
+State.  
+ 
+ (d)] “Collection agency” means a person who engages directly or indirectly in the 
+business of:  
+ 
+  (1) (i) collecting for, or soliciting from another, a consumer claim; or  
+ 
+   (ii) collecting a consumer claim the person owns, if the claim was in 
+default when the person acquired it;  
+ 
+  (2) collecting a consumer claim the person owns, using a name or other 
+artifice that indicates that another party is attempting to collect the consumer claim;  
+ 
+  (3) giving, selling, attempting to give or sell  to another, or using, for 
+collection of a consumer claim, a series or system of forms or letters that indicates directly 
+or indirectly that a person other than the owner is asserting the consumer claim; or  
+ 
+  (4) employing the services of an individual or  business to solicit or sell a 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 4 – collection system to be used for collection of a consumer claim.  
+ 
+ [(e)] (D) “Commissioner” means the Commissioner of Financial Regulation.  
+ 
+ [(f)] (E) “Consumer claim” means a claim that:  
+ 
+  (1) is for money owed or said to be owed by a resident of the State; and  
+ 
+  (2) arises from a transaction in which, for a family, household, or personal 
+purpose, the resident sought or got credit, money, personal property, real property, or 
+services.  
+ 
+ [(g)] (F) (1) “Control person” means  a person who has the power, directly or 
+indirectly, to direct the management or policies of a collection agency, whether through 
+ownership of securities, by contract, or otherwise.  
+ 
+  (2) “Control person” includes a person who:  
+ 
+   (i) is a general partne r, an officer, a director, or a member of a 
+collection agency, or occupies a similar position or performs a similar function;  
+ 
+   (ii) directly or indirectly has the right to vote 10% or more of a class 
+of voting securities, or has the power to sell or dir ect the sale of 10% or more of a class of 
+voting securities of a collection agency; or  
+ 
+   (iii) in the case of a partnership, a limited partnership, a limited 
+liability partnership, a limited liability company, or any other business entity:  
+ 
+    1. has th e right to receive on liquidation or dissolution of a 
+collection agency 10% or more of the capital of the collection agency; or  
+ 
+    2. has contributed 10% or more of the capital of a collection 
+agency.  
+ 
+ [(h)] (G) “License” means a license issued in any f orm by the Board under this 
+title to do business as a collection agency, including as provided for through NMLS.  
+ 
+ [(h–1) “Licensee” means a person licensed under this title to do business as a 
+collection agency. ] 
+ 
+ [(i)] (H) “Licensed collection agency” means a person who is required to be 
+licensed under this title, regardless of whether the person is actually licensed.  
+ 
+ (I) “LICENSED LOCATION ” MEANS ANY LOCATION L ISTED BY THE LICENSE E 
+IN NMLS  IN ACCORDANCE WITH T HIS TITLE . 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 5 –  
+ (J) “LICENSED NAME ” MEANS : 
+ 
+  (1) THE LICENSEE ’S LEGAL NAME ; AND 
+ 
+  (2) ANY TRADE NAME USED BY THE LICENSEE  IN ACCORDANCE  WITH 
+§ 2–121 OF THE FINANCIAL INSTITUTIONS ARTICLE . 
+ 
+ (K) “LICENSEE ” MEANS A PERSON LICEN SED UNDER THIS TITLE  TO DO 
+BUSINESS AS A COL LECTION AGENCY . 
+ 
+ [(j)] (L) “NMLS”  [means a multistate uniform licensing system developed and 
+maintained by the Conference of State Bank Supervisors, or by a subsidiary or an affiliate 
+of the Conference of State Bank Supervisors, that may be used for the licensing of persons 
+required to be licensed by the Board ] HAS THE MEANING STAT ED IN § 1–101 OF THE 
+FINANCIAL INSTITUTIONS ARTICLE . 
+ 
+ [(k)] (M) “Unique identifier” means a number or another identifier assigned by 
+NMLS.  
+ 
+7–206. 
+ 
+ [The] EXCEPT AS PROVIDED IN  § 7–302.2  OF THIS TITLE , THE Board shall pay 
+all money collected under this title into the General Fund of the State.   
+ 
+7–301. 
+ 
+ (c) A [separate license is required for the principal executive office and each 
+branch location of a person who does business as a collection agency ] LICENSEE MAY DO 
+BUSINESS AS A COLLEC TION AGENCY ONLY AT A LICENSED LOCATION OR AS 
+OTHERWISE AUTHORIZED  BY REGULATION . 
+ 
+7–302. 
+ 
+ (b) An application shall be made under oath and shall include:  
+ 
+  (1) the applicant’s LEGAL name,  ANY TRADE NAME USED BY THE 
+APPLICANT IN ACCORDA NCE WITH § 2–121 OF THE FINANCIAL INSTITUTIONS 
+ARTICLE , AND THE APPLICANT ’S principal executive office address, telephone number, 
+e–mail address, and Web site addresses, if any;  
+ 
+  (2) the address of each [branch] ADDITIONAL  location, if any , THAT : 
+ 
+   (I) THE GENERAL PUBLIC M AY REASONABLY VIEW A S A 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 6 – LOCATION THAT DOES B USINESS AS A COLLECT ION AGENCY , INCLUDING ANY 
+LOCATION THAT INVEST IGATES CUSTOMER COMP LAINTS OR DIRECTLY 
+COMMUNICATES WITH CU STOMERS VERBALLY , ELECTRONICALLY , OR IN WRITING ; 
+ 
+   (II) HOUSES ANY CORE OPER ATIONAL INFRASTRUCTU RE OR 
+TECHNOLOGY SYSTEMS ; 
+ 
+   (III) CONDUCTS ANY CORE MA NAGEMENT , INFORMATION 
+SECURITY AND TECHNOL OGY, RISK AND COMPLIANCE , OR FINANCE FUNCTIONS ; OR 
+ 
+   (IV) IS OTHERWISE REQUIRED TO BE LISTE D IN NMLS  BY 
+REGULATION ADOPTED U NDER THIS TITLE ; 
+ 
+  (3) the federal employer identification number or Social Security number 
+of the applicant, as applicable;  
+ 
+  (4) the state of formation and the date of formation of the applicant if t he 
+applicant is a business entity;  
+ 
+  (5) the name and residence address of each control person;  
+ 
+  (6) the name and address of the principal contact for consumer complaints;  
+ 
+  (7) the name, address, and telephone number of the applicant ’s resident 
+agent;  and 
+ 
+  (8) any other information that the Board requests.  
+ 
+ [(c) If an applicant wishes to do business as a collection agency at a branch 
+location, the applicant shall submit a separate application and pay a separate application 
+fee and investigation fee for each branch location. ] 
+ 
+ [(d)] (C) In addition to any other requirement for licensure under this subtitle, 
+an applicant for a license shall file with the Board a surety bond as required under § 7 –304 
+of this subtitle.  
+ 
+ [(e)] (D) The Board shall issue a license to each applicant who meets the 
+requirements of this subtitle.  
+ 
+7–302.1.  
+ 
+ (b) The fees established by the Board under this section AND ANY ANNUAL 
+ASSESSMENTS IMPOSED BY THE  COMMISSIONER UNDER § 2–120 OF THE FINANCIAL 
+INSTITUTIONS ARTICLE  shall b e reasonable and set in a manner that will 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 7 – COLLECTIVELY  produce funds sufficient to cover the actual direct and indirect costs of 
+regulating collection agencies in accordance with [the provisions of ] this title.  
+ 
+7–302.2.  
+ 
+ (a) All revenue received for the  licensing AND ASSESSMENT  of persons under this 
+title and any other fee or revenue received by THE COMMISSIONER OR the Board under 
+this title shall be:  
+ 
+  (1) credited to the [Nondepository ] NON–DEPOSITORY  Special Fund 
+established under [§ 11–610] § 2–120 of the Financial Institutions Article; and  
+ 
+  (2) used in accordance with [§ 11 –610(c) ] § 2–120( D) of the Financial 
+Institutions Article.  
+ 
+ (C) SUBJECT TO § 2–120( H) OF THE FINANCIAL INSTITUTIONS ARTICLE , 
+THE COMMISSIONER MAY IMPO SE AN ANNUAL ASSESSM ENT ON  ANY LICENSEE 
+UNDER THIS TITLE . 
+ 
+7–304. 
+ 
+ (c) The bond shall be:  
+ 
+  (1) in the amount [of $5,000 ] DETERMINED BY THE BOARD UNDER 
+SUBSECTION (J) OF THIS SECTION ; 
+ 
+ (J) (1) THE AMOUNT OF THE SUR ETY BOND REQUIRED UN DER 
+SUBSECTION (C) OF THIS SECTION SHAL L BE IN AN AMOUNT OF NOT LESS THAN 
+$50,000  AND NOT MORE THAN $1,000,000,  AS DETERMINED BY THE  BOARD FOR 
+EACH LICENSEE . 
+ 
+  (2) IN SETTING THE AMOUNT  OF THE SURETY BOND , THE BOARD MAY 
+CONSIDER : 
+ 
+   (I) THE NATURE AND VOLUM E OF THE BUSINESS OR  PROPOSED 
+BUSINESS OF  THE LICENSEE OR APPL ICANT ; 
+ 
+   (II) THE FINANCIAL CONDIT ION OF THE LICENSEE OR 
+APPLICANT , INCLUDING : 
+ 
+    1. THE AMOUNT , NATURE , QUALITY , AND LIQUIDITY OF 
+THE ASSETS OF THE LI CENSEE OR APPLICANT ; 
+ 
+    2. THE AMOUNT AND NATUR E OF THE LIABILITIES , 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 8 – INCLUDING  CONTINGENT LIABILITI ES, OF THE LICENSEE OR A PPLICANT ; 
+ 
+    3. THE HISTORY OF AND P ROSPECTS FOR THE LIC ENSEE 
+OR APPLICANT TO EARN  AND RETAIN INCOME ; AND 
+ 
+    4. THE POTENTIAL HARM T O CONSUMERS IF THE 
+APPLICANT OR LICENSE E BECOMES FINANCIALL Y IMPAIRED ; 
+ 
+   (III) THE QUALITY OF THE O PERATIONS OF THE LIC ENSEE OR 
+APPLICANT ; 
+ 
+   (IV) THE QUALITY OF THE M ANAGEMENT OF THE LIC ENSEE OR 
+APPLICANT ; 
+ 
+   (V) THE NATURE AND QUALI TY OF EACH CONTROL P ERSON ; 
+AND 
+ 
+   (VI) ANY OTHER FACTOR THA T THE BOARD CONSIDERS 
+RELEVANT . 
+ 
+7–305. 
+ 
+ (a) A license authorizes the licensee to do business as a collection agency at [only 
+the] EACH  licensed location AND UNDER EACH LICEN SED NAME , OR AS OTHERWISE 
+AUTHORIZED BY REGULA TION . 
+ 
+ [(b) Subject to § 7 –301(c) of this subtitle, a licensee may hold more than 1 license 
+under this title.  
+ 
+ (c) (1) Each license provided for through NMLS shall include the following 
+information:  
+ 
+   (i) the name of the licensee;  
+ 
+   (ii) the address at which the business is to be conducted; and  
+ 
+   (iii) the unique i dentifier of the licensee.  
+ 
+  (2) The unique identifier of the licensee shall constitute the license number 
+for the license. ] 
+ 
+ (B) INFORMATION IN NMLS  ASSOCIATED WITH A LI CENSE APPROVED BY 
+THE BOARD UNDER THIS SUBT ITLE SHALL INCLUDE T HE FOLLOWING : 
+ 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 9 –   (1) THE LICENSEE ’S LEGAL NAME AND  ANY TRADE NAME USED BY THE 
+LICENSEE IN ACCORDAN CE WITH § 2–121 OF THE FINANCIAL INSTITUTIONS 
+ARTICLE ; 
+ 
+  (2) THE ADDRESS OF THE L ICENSEE ’S PRINCIPAL EXECUTIV E OFFICE ; 
+AND 
+ 
+  (3) THE ADDRESS OF EACH ADDITIONAL LOCATION , IF ANY , WHERE 
+THE LICENSEE DOES BU SINESS AND THAT : 
+ 
+   (I) THE GENERAL PUBLIC M AY REASONABLY VIEW A S A 
+LOCATION THAT DOES B USINESS AS A COLLECT ION AGENCY , INCLUDING ANY 
+LOCATION THAT INVEST IGATES CUSTOMER COMP LAINTS OR DIRECTLY 
+COMMUNICATES WITH CU STOMERS VERBALL Y, ELECTRONICALLY , OR IN WRITING ; 
+ 
+   (II) HOUSES ANY CORE OPER ATIONAL INFRASTRUCTU RE OR 
+TECHNOLOGY SYSTEMS ;  
+ 
+   (III) CONDUCTS ANY CORE MA NAGEMENT , INFORMATION 
+SECURITY AND TECHNOL OGY, RISK AND COMPLIANCE , OR FINANCE FUNCTIONS ; OR 
+ 
+   (IV) IS OTHERWISE REQUIRED TO BE LISTE D IN NMLS  BY 
+REGULATION . 
+ 
+ (C) A LICENSEE SHALL MAINT AIN AND UPDATE THE I NFORMATION IN 
+NMLS  ASSOCIATED WITH THE LICENSEE ’S LICENSE TO REFLECT  ACCURATELY AT 
+ALL TIMES THE INFORM ATION REQUIRED BY SU BSECTION (B) OF THIS SECTION . 
+ 
+ (D) THE UNIQUE IDENTIFIER OF  THE LICENSEE SHALL C ONSTITUTE THE 
+LICENSE NUMBER FOR T HE LICENSE . 
+ 
+ (E) A LICENSEE MAY NOT ADD , DELETE , OR MODIFY A LOCATION  REQUIRED 
+TO BE LISTED IN NMLS  UNDER SUBSECTION (B) OF THIS SECTION UNLE SS: 
+ 
+  (1) THE LICENSEE PROVIDE S TO THE  BOARD , THROUGH NMLS  AND 
+IN ACCORDANCE WITH A NY APPLICABLE REGULA TIONS , NOTICE OF THE ADDITI ON, 
+DELETION , OR MODIFICATION ; 
+ 
+  (2) THE ADDITION , DELETION , OR MODIFICATION OF T HE LOCATION 
+IS RECORDED WITH THE  INFORMATION ASSOCIAT ED WITH THE LICENSEE ’S LICENS E 
+IN NMLS;  AND 
+ 
+  (3) THE ADDITION , DELETION , OR MODIFICATION OF T HE LOCATION 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 10 – OTHERWISE COMPLIES W ITH THIS TITLE . 
+ 
+ (F) THE LICENSEE MAY NOT DO BUSINESS AT A LOC ATION REQUIRED TO BE  
+LISTED IN NMLS  UNDER SUBSECTION (B) OF THIS SECTION UNTI L THE LOCATION 
+IS RECORDED WITH THE IN FORMATION ASSOCIATED  WITH THE LICENSEE ’S LICENSE 
+IN NMLS.  
+ 
+7–306.1.  
+ 
+ (a) Each licensee shall conspicuously post, in 48 point or larger type, at [the 
+licensee’s ] EACH  licensed location, the following information:  
+ 
+  (1) the licensee’s unique identifier; and  
+ 
+  (2) a statement advising consumers of the availability of the NMLS 
+Consumer Access website to verify the licensing status of the licensee.  
+ 
+ (c) A licensee is not required to post the information required under subsection 
+(a) of t his section AT A LICENSED LOCATI ON if the licensee does not regularly grant access 
+to [the] THAT licensed location to members of the general public.  
+ 
+7–308. 
+ 
+ [(b) If the Board finds that a ground for suspension or revocation of a license 
+applies to more than 1 place of business that the licensee operates, the Board may act 
+against:  
+ 
+  (1) each license of the licensee; or  
+ 
+  (2) only the licenses to which the ground applies. ] 
+ 
+ [(c)] (B) In determining whether to reprimand a licensee or to suspend or revok e 
+a license for a reason described in subsection (a)(2) of this section, the Board shall consider:  
+ 
+  (1) the nature of the crime;  
+ 
+  (2) the relationship of the crime to the activities authorized by the license;  
+ 
+  (3) with respect to a felony, the releva nce of the conviction to the fitness 
+and qualification of the licensee to engage in the collection agency business;  
+ 
+  (4) the length of time since the conviction; and  
+ 
+  (5) the behavior and activities of the licensee since the conviction.  
+ 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 11 – Article – Comm ercial Law  
+ 
+14–1216.  
+ 
+ (d) Except as provided in § 14 –1226 of this subtitle, all fees and other revenues 
+collected under this subtitle shall be deposited into the [Nondepository ]  
+NON–DEPOSITORY Special Fund established under [§ 11–610] § 2–120 of the Financial 
+Institutions Article.  
+ 
+ (e) The Commissioner may require a consumer reporting agency to register 
+through [the Nationwide Mortgage Licensing System and Registry ] NMLS  or through 
+other means specified by the Commissioner by regulation.  
+ 
+Article – Financial Institutions  
+ 
+2–120. 
+ 
+ (A) (1) IN THIS SECTION THE F OLLOWING WORDS HAVE THE MEANINGS 
+INDICATED . 
+ 
+  (2) “BOARD” MEANS THE STATE COLLECTION AGENCY LICENSING 
+BOARD ESTABLISHED UND ER TITLE 7 OF THE BUSINESS REGULATION ARTICLE . 
+ 
+  (3) “FUND” MEANS THE NON–DEPOSITORY SPECIAL FUND 
+ESTABLISHED UNDER TH IS SECTION . 
+ 
+  (4) “LICENSE” MEANS ANY LICENSE IS SUED BY THE COMMISSIONER 
+OR THE BOARD UNDER APPLICABL E LAW . 
+ 
+  (5) “LICENSE CATEGORY ” REFERS TO ALL LICENS ES ISSUED BY 
+EITHER THE COMMISSIONER OR TH E BOARD UNDER ANY OF TH E FOLLOWING 
+PROVISIONS : 
+ 
+   (I) TITLE 11, SUBTITLE 2 OF THIS ARTICLE ; 
+ 
+   (II) TITLE 11, SUBTITLE 3 OF THIS ARTICLE ; 
+ 
+   (III) TITLE 11, SUBTITLE 4 OF THIS ARTICLE ; 
+ 
+   (IV) TITLE 11, SUBTITLE 5 OF THIS ARTICLE ; 
+ 
+   (V) TITLE 11, SUBTITLE 6 OF THIS ARTICLE ; 
+ 
+   (VI) TITLE 12, SUBTITLE 1 OF THIS ARTICLE ; 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 12 –  
+   (VII) TITLE 12, SUBTITLE 4 OF THIS ARTICLE ; 
+ 
+   (VIII) TITLE 12, SUBTITLE 9 OF THIS ARTICLE ; OR 
+ 
+   (IX) TITLE 7 OF THE BUSINESS REGULATION ARTICLE . 
+ 
+  (6) “LICENSED PERSON ” MEANS ANY PERSON REQUIRED BY LAW TO 
+BE LICENSED BY EITHE R THE COMMISSIONER OR THE BOARD , REGARDLESS OF 
+WHETHER THE PERSON M AINTAINS THE REQUIRE D LICENSE . 
+ 
+  (7) “REGISTERED PERSON ” MEANS ANY PERSON REQ UIRED BY LAW 
+TO BE REGISTERED BY THE COMMISSIONER  OR THE BOAR D, REGARDLESS OF 
+WHETHER THE PERSON M AINTAINS THE REQUIRE D REGISTRATION . 
+ 
+  (8) “REGULATED PERSON ” MEANS : 
+ 
+   (I) A LICENSED PERSON OR R EGISTERED PERSON ; OR 
+ 
+   (II) ANY PERSON OTHERWISE ENGAGING IN ACTIVITY  SUBJECT 
+TO A PROVISION OF LA W, REGULATION , RULE , OR ORDER OVER WHICH THE 
+COMMISSIONER HAS JURI SDICTION , OTHER THAN ACTIVITY SUBJECT TO ANY OF 
+TITLES 3 THROUGH 9 OF THIS ARTICLE . 
+ 
+ (B) THERE IS A NON–DEPOSITORY SPECIAL FUND THAT CONSISTS OF : 
+ 
+  (1) ALL REVENUES RECEIVED  FROM LICENSING FEES FROM EACH 
+LICE NSED PERSON ; 
+ 
+  (2) ALL REVENUES RECEIVED  FROM REGISTRATION FE ES FROM 
+EACH REGISTERED PERS ON; 
+ 
+  (3) ALL REVENUES RECEIVED  FROM ANNUAL ASSESSME NTS UNDER 
+SUBSECTION (H) OF THIS SECTION ; 
+ 
+  (4) INCOME FROM THE INVES TMENTS THAT THE STATE TREASURER 
+MAKES FOR THE FUND; AND  
+ 
+  (5) ANY OTHER FEE , EXAMINATION OR INVES TIGATION FEE OR 
+ASSESSMENT , OR REVENUE RECEIVED BY THE COMMISSIONER OR THE BOARD WITH 
+RESPECT TO ANY REGUL ATED PERSON . 
+ 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 13 –  (C) NOTWITHSTANDING SUBSE CTION (B) OF THIS SECTION : 
+ 
+  (1) THE COMMISSIONER AND THE BOARD SHALL PAY ALL F INES AND 
+PENALTIES COLLECTED FROM ANY REGULATED P ERSON INTO THE GENERAL FUND 
+OF THE STATE ; AND 
+ 
+  (2) REVENUE RECEIVED BY T HE COMMISSIONER FOR USE OF THE 
+FORECLOSED PROPERTY REGISTRY ESTABLISHED UNDER TITLE 7 OF THE REAL 
+PROPERTY ARTICLE SHALL BE PAID  BY THE COMMISSIONER TO THE FORECLOSED 
+PROPERTY REGISTRY FUND ESTABLISHED UNDE R § 7–105.14  OF THE REAL 
+PROPERTY ARTICLE . 
+ 
+ (D) THE PURPOSE OF THE FUND IS TO COV ER THE DIRECT AND IN DIRECT 
+COSTS OF FULFILLING THE STATUTORY AND RE GULATORY DUTIES OF T HE 
+COMMISSIONER AND THE BOARD RELATED TO REGU LATED PERSONS . 
+ 
+ (E) (1) THE ANNUAL STATE BUDGET SHALL IN CLUDE THE COSTS AND 
+EXPENSES OF THE COMMISSIONER AND THE BOARD RELA TING TO SUBSECTION (D) 
+OF THIS SECTION . 
+ 
+  (2) ANY EXPENDITURES FROM  THE FUND TO COVER COSTS A ND 
+EXPENSES OF THE COMMISSIONER AND THE BOARD RELATING TO SUB SECTION (D) 
+OF THIS SECTION MAY BE MADE ONLY : 
+ 
+   (I) WITH AN APPROPRIATION  FROM THE FUND APPROVED BY  
+THE GENERAL ASSEMBLY IN THE ANNUA L STATE BUDGET ; OR 
+ 
+   (II) BY THE BUDGET AMENDME NT PROCEDURE UNDER § 7–209 
+OF THE STATE FINANCE AND PROCUREMENT ARTICLE . 
+ 
+  (3) IF, IN ANY FISCAL YEAR , THE AMOUNT OF THE RE VENUE 
+COLLECTED BY THE COMMISSIONER AND THE BOARD  AND DEPOSITED INTO T HE 
+FUND EXCEEDS THE ACTU AL APPROPRIATION FOR  THE COMMISSIONER AND THE 
+BOARD UNDER PARAGRAPH  (2)(I) OF THIS SUBSECTION , THE EXCESS AMOUNT 
+SHALL BE CARRIED FOR WARD WITHIN THE FUND. 
+ 
+ (F) (1) THE STATE TREASURER IS THE CUST ODIAN OF THE FUND. 
+ 
+  (2) THE STATE TREASURER SHALL DEPOS IT PAYMENTS RECEIVED  
+FROM THE COMMISSIONER AND THE BOARD INTO THE FUND. 
+ 
+ (G) (1) (I) THE FUND IS A SPECIAL , NONLAPSING FUND THAT  IS NOT 
+SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE . 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 14 –  
+   (II) THE FUND MAY NOT BE DEEME D A PART OF THE GENERAL 
+FUND OF THE STATE . 
+ 
+  (2) UNLESS OTHERWISE PROV IDED BY LAW , NO PART OF THE FUND 
+MAY REVERT OR BE CRE DITED TO : 
+ 
+   (I) THE GENERAL FUND OF THE STATE ; OR 
+ 
+   (II) ANY OTHER SPECIAL FUN D OF THE STATE . 
+ 
+ (H) (1) IN ORDER TO ENSURE THE FUND CONTAINS SUFFICI ENT 
+AMOUNTS TO ACHIEVE I TS PURPOSE UNDER SUB SECTION (D) OF THIS SECTION , THE 
+COMMISSIONER MAY IMPO SE AN ANNUAL ASSESSM ENT ON ANY LICENSED PERSON 
+NOT MORE THAN ONCE E ACH YEAR . 
+ 
+  (2) IN CALCULATING AN ASS ESSMENT WIT H RESPECT TO ANY 
+LICENSED PERSON , THE COMMISSIONER MAY CONS IDER : 
+ 
+   (I) THE COSTS INCURRED BY  THE COMMISSIONER OR THE 
+BOARD IN SUPERVISING LICENSED PERSONS OF THAT LICENSE CATEGOR Y; 
+ 
+   (II) THE TYPE OF BUSINESS CONDUCTED IN THE STATE BY THAT 
+LICENSED PER SON; 
+ 
+   (III) THE VOLUME OF BUSINES S THAT LICENSED PERS ON 
+CONDUCTS IN THE STATE ; 
+ 
+   (IV) ASSETS OF THE LICENSE D PERSON ; AND 
+ 
+   (V) ANY OTHER FACTOR THE COMMISSIONER CONSIDER S 
+APPROPRIATE . 
+ 
+  (3) A LICENSED PERSON SHAL L PAY ANY ASSESSMENT  IMPOSED 
+UNDER T HIS SECTION TO THE COMMISSIONER WITHIN 30 CALENDAR DAYS AFTER 
+THE ASSESSMENT IS IM POSED . 
+ 
+  (4) (I) FAILURE BY A LICENSED  PERSON TO TIMELY PAY  AN 
+ANNUAL ASSESSMENT UN DER THIS SECTION IS A VIOLATION OF THIS SECTION . 
+ 
+   (II) THE COMMISSIONER MAY TAKE  ACTION  FOR THE 
+VIOLATION AGAINST TH E LICENSED PERSON AN D THE LICENSE UNDER APPLICABLE 
+LAW. 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 15 –  
+2–121. 
+ 
+ (A) BEFORE USING A TRADE NAME T O ENGAGE IN ANY ACTI VITY REQUIRING 
+A LICENSE OR REGIS TRATION  FROM THE COMMISSIONER OR THE STATE 
+COLLECTION AGENCY LICENSING BOARD , THE LICENS ED OR REGISTERED PER SON  
+SHALL : 
+ 
+  (1) REGISTER THE TRADE NA ME WITH THE STATE DEPARTMENT OF 
+ASSESSMENTS AND TAXATION ; AND 
+ 
+  (2) OBTAIN THE APPROVAL O F THE COMMISSIONER , OR THE STATE  
+COLLECTION AGENCY LICENSING BOARD  IF LICENSED BY THE BOARD , TO USE THE 
+TRADE NAME BY : 
+ 
+   (I) DESIGNATING ON AN ORIGINAL LICENSE OR REGISTRATION 
+APPLICATION OR ON A LICENSE OR REGISTRAT ION RENEWAL APPLICAT ION 
+THROUGH NMLS  THE TRADE NAME UNDER  WHICH THE LICENSE D OR REGISTERED 
+PERSON WILL ENGAGE IN LICENSED A CTIVITY IN THE STATE ; OR 
+ 
+   (II) IF THE PERSON WISHES  TO BEGIN  USING  A TRADE NAME 
+BEFORE RENEWING A LI CENSE OR REGISTRATIO N, NOTIFYING THE COMMISSIONER , 
+OR THE STATE COLLECTION AGENCY LICENSING BOARD  IF LICENSED BY THE 
+BOARD , IN WRITING BY LISTIN G THE TRADE NAME IN THE PERSON ’S NMLS  RECORD . 
+ 
+ (B) AFTER RECEIVING APPRO VAL FROM THE COMMISSIONER OR FROM THE 
+STATE COLLECTION AGENCY LICENSING BOARD  IF LICENSED BY THE BOARD  FOR 
+THE USE OF A TRADE N AME, THE  LICENSED OR REGISTER ED PERSON SHALL : 
+ 
+  (1) MAINTAIN REGISTRATION  OF THE TRADE NAME IN ACCORDANCE 
+WITH § 1–406 OF THE CORPORATIONS AND ASSOCIATIONS ARTICLE AND ANY 
+IMPLEMENTING  REGULATIONS ;  
+ 
+  (2) LIST THE TRADE NAME I N NMLS ; AND 
+ 
+  (3) IMMEDIATELY NOTIFY  THE COMMISSIONER , OR THE STATE 
+COLLECTION AGENCY LICENSING BOARD IF LICENSED BY THE BOARD , IF THE 
+PERSON AMENDS , CANCELS , OR OTHERWISE FAILS T O RENEW THE REGISTRATION 
+OF THE TRADE NAME . 
+ 
+11–201. 
+ 
+ (a) In this subtitle the following words have the meanings  indicated.  
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 16 –  
+ (b) [“Branch location” means any location other than the principal executive office 
+of a licensee or license applicant at which the licensee conducts, or the license applicant, on 
+licensure, will conduct, activities required to be licensed un der this subtitle.  
+ 
+ (c)] (1) “Control person” means a person who has the power, directly or 
+indirectly, to direct the management or policies of a licensee or license applicant, whether 
+through ownership of securities, by contract, or otherwise.  
+ 
+  (2) “Control person” includes a person who:  
+ 
+   (i) Is a general partner, an officer, or a director of a licensee or 
+license applicant, or occupies a similar position or performs a similar function;  
+ 
+   (ii) Directly or indirectly has the right to vote 10% or more of a class 
+of voting securities, or has the power to sell or direct the sale of 10% or more of a class of 
+voting securities of a licensee or license applicant; or  
+ 
+   (iii) In the case of a partnership, a limited partnership, a limited 
+liability partn ership, a limited liability company, or any other business entity:  
+ 
+    1. Has the right to receive on liquidation or dissolution of a 
+licensee or license applicant 10% or more of the capital of the licensee or license applicant; 
+or 
+ 
+    2. Has contributed  10% or more of the capital of a licensee or 
+license applicant.  
+ 
+ [(d)] (C) “License” means a license issued in any form by the Commissioner 
+under this subtitle to make loans under the Maryland Consumer Loan Law, including as 
+provided for through NMLS.  
+ 
+ (D) “LICENSED LOCATION ” MEANS ANY LOCATION L ISTED BY THE LICENSE E 
+IN NMLS  IN ACCORDANCE WITH T HIS SUBTITLE . 
+ 
+ (E) “LICENSED NAME ” MEANS :  
+ 
+  (1) THE LICENSEE ’S LEGAL NAME ; AND 
+  
+  (2) ANY TRADE NAME USED B Y THE LICENSEE IN AC CORDANCE WITH 
+§ 2–121 OF THIS A RTICLE . 
+ 
+ [(d–1)] (F) “Licensee” means a person licensed under this subtitle to make loans 
+under the Maryland Consumer Loan Law.  
+ 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 17 –  [(e)] (G) “Loan” means any loan or advance of money or credit subject to Title 
+12, Subtitle 3 of the Commercial Law Article, the Maryland Consumer Loan Law – Credit 
+Provisions, regardless of whether the loan or advance of money or credit is or purports to 
+be made under Title 12, Subtitle 3 of the Commercial Law Article.  
+ 
+ [(f)] (H) “Maryland Consumer Loan Law” means this subtitle and Title 12, 
+Subtitle 3 of the Commercial Law Article.  
+ 
+ [(g)] (I) “Person” includes an individual, corporation, business trust, statutory 
+trust, estate, trust, partnership, association, two or more persons having a joint or common 
+interest, or a ny other legal or commercial entity.  
+ 
+ [(h)] (J) “Unique identifier” means a number or another identifier assigned by 
+NMLS.  
+ 
+11–203.1.  
+ 
+ [(b) A separate license is required for the principal executive office of the license 
+applicant or licensee and each br anch location. ] 
+ 
+ (B) EXCEPT AS OTHERWISE P ROVIDED IN § 11–204 OF THIS SUBTITLE OR 
+AUTHORIZED BY THE COMMISSIONER BY REGUL ATION , A LICENSEE MAY NOT 
+ENGAGE IN THE BUSINE SS OF MAKING LOANS A T A LOCATION OTHER T HAN A 
+LICENSED LOCATION . 
+ 
+11–203.3.  
+ 
+ (a) All re venue received for the licensing AND ASSESSMENT of persons under this 
+subtitle and Subtitle 3 of this title and any other fee or revenue received by the 
+Commissioner under this subtitle shall be:  
+ 
+  (1) Credited to the [Nondepository ] NON–DEPOSITORY  Special Fund 
+established under [§ 11–610] § 2–120 of this [title] ARTICLE ; and  
+ 
+  (2) Used in accordance with [§ 11 –610(c) ] § 2–120( D) of this [title] 
+ARTICLE .  
+ 
+ (C) SUBJECT TO § 2–120( H) OF THIS ARTICLE , THE COMMISSIONER MAY 
+IMPOSE AN ANNUAL ASS ESSMENT ON ANY LICENSEE UNDE R THIS SUBTITLE . 
+ 
+11–204. 
+ 
+ (a) A person may not:  
+ 
+  (1) Receive any application for a loan or allow any note or contract for a 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 18 – loan to be signed at any place of business [for which the person does not have a license ] 
+THAT IS NOT A LICENS ED LOCATION ; 
+ 
+  (2) Conduct any business under the Maryland Consumer Loan Law under 
+a name different from the [name that appears on the person’s license ] LICENSED NAME ; 
+or 
+ 
+  (3) Evade the application of this section by any device, sub terfuge, or 
+pretense of any kind.  
+ 
+ (c) Notwithstanding subsections (a) and (b) of this section, for a loan that is to be 
+secured by residential real property:  
+ 
+  (2) Except as provided in item (3) of this subsection, the loan closing shall 
+be conducted at : 
+ 
+   (i) [The lender’s ] A licensed location;  
+ 
+   (ii) The office of an attorney representing the licensee, the borrower, 
+the title company, or title insurer in connection with the loan; or  
+ 
+   (iii) The office of the title insurer or title agency performi ng closing 
+services in connection with the loan; and  
+ 
+11–206. 
+ 
+ (a) (2) The application shall include:  
+ 
+   (i) The applicant’s LEGAL name [, the] AND ANY TRADE NAME 
+USED BY THE APPLICAN T IN ACCORDANCE WITH  § 2–121 OF THIS ARTICLE ; 
+ 
+   (II) THE applicant’s p rincipal executive office address [, and, if ]; 
+ 
+   (III) IF the applicant is not an individual, the name and residence 
+address of each control person;  
+ 
+   [(ii)] (IV) The address of each [branch ] ADDITIONAL  location, if 
+any, THAT : 
+ 
+    1. THE GENERAL PUBLIC  MAY REASONABLY VIEW AS A 
+LOCATION THAT MAKES LOANS , INCLUDING ANY LOCATI ON THAT INVESTIGATES  
+CUSTOMER COMPLAINTS OR DIRECTLY COMMUNIC ATES WITH CUSTOMERS 
+VERBALLY , ELECTRONICALLY , OR IN WRITING ; 
+ 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 19 –     2. HOUSES ANY CORE OPERA TIONAL INFRASTRUCTUR E 
+OR TECHNOL OGY SYSTEMS ; 
+ 
+    3. CONDUCTS ANY CORE MAN AGEMENT , INFORMATION 
+SECURITY AND TECHNOL OGY, RISK AND COMPLIANCE , OR FINANCE FUNCTIONS ; OR 
+ 
+    4. IS OTHERWISE REQUIRED  TO BE LISTED IN NMLS  BY 
+REGULATION THE COMMISSIONER ADOPTS U NDER THIS SUBTITLE ; and  
+ 
+   [(iii)] (V) Any other pertinent information that the Commissioner 
+requires for an investigation and findings under § 11 –207 of this subtitle.  
+ 
+ (c) (3) The bond shall be:  
+ 
+   (i) In an amount [equal to twice the amount of the largest loan that 
+may be made unde r the Maryland Consumer Loan Law ] DETERMINED BY THE 
+COMMISSIONER UNDER SU BSECTION (D) OF THIS SECTION ; 
+ 
+ [(d) For the principal executive office and each branch location license for which 
+an applicant applies, the applicant shall:  
+ 
+  (1) Submit a separate application; and  
+ 
+  (2) Pay a separate investigation fee and license fee. ] 
+ 
+ (D) (1) THE AMOUNT OF THE SUR ETY BOND UNDER SUBSE CTION (C) OF 
+THIS SECTION SHALL B E IN AN AMOUNT OF NO T LESS THAN $50,000  AND NOT MORE 
+THAN $200,000,  AS DETERMINED BY THE  COMMISS IONER FOR EACH LICEN SEE. 
+ 
+  (2) IN SETTING THE AMOUNT  OF THE SURETY BOND , THE 
+COMMISSIONER MAY CONS IDER : 
+ 
+   (I) THE NATURE AND VOLUME  OF THE BUSINESS OR P ROPOSED 
+BUSINESS OF THE LICE NSEE OR APPLICANT ; 
+ 
+   (II) THE FINANCIAL CONDITI ON OF THE LICENSEE O R 
+APPLICANT , INCLUDING : 
+ 
+    1. THE AMOUNT , NATURE , QUALITY , AND LIQUIDITY OF 
+THE ASSETS OF THE LI CENSEE OR APPLICANT ; 
+ 
+    2. THE AMOUNT AND NATURE  OF THE LIABILITIES , 
+INCLUDING CONTINGENT  LIABILITIES , OF THE LICENSEE OR A PPLICANT ; 
+ 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 20 –     3. THE HISTORY OF AN D PROSPECTS FOR THE LICENSEE 
+OR APPLICANT TO EARN  AND RETAIN INCOME ; AND 
+ 
+    4. THE POTENTIAL HARM TO  CONSUMERS IF THE 
+APPLICANT OR LICENSE E BECOMES FINANCIALL Y IMPAIRED ; 
+ 
+   (III) THE QUALITY OF THE OP ERATIONS OF THE LICE NSEE OR 
+APPLICANT ; 
+ 
+   (IV) THE Q UALITY OF THE MANAGE MENT OF THE LICENSEE  OR 
+APPLICANT ; 
+ 
+   (V) THE NATURE AND QUALIT Y OF THE PERSON THAT  HAS 
+CONTROL OF THE LICEN SEE OR APPLICANT ; AND 
+ 
+   (VI) ANY OTHER FACTOR THAT  THE COMMISSIONER CONSIDER S 
+RELEVANT . 
+ 
+[11–208. 
+ 
+ (a) (1) Each license prov ided for through NMLS shall include the following 
+information:  
+ 
+   (i) The name of the licensee;  
+ 
+   (ii) The address of the location at which the business is to be 
+conducted; and  
+ 
+   (iii) The unique identifier of the licensee.  
+ 
+  (2) The unique identifier of the licensee shall constitute the license number 
+for the license.  
+ 
+ (b) (1) A license authorizes the licensee to do business under the license, at the 
+licensed location and under the name stated on the license.  
+ 
+  (2) Only one location may be  maintained under any one license.  
+ 
+ (c) Subject to § 11 –203.1(b) of this subtitle, the Commissioner may issue more 
+than one license to an applicant who:  
+ 
+  (1) Conducts activities for which a license is required at more than one 
+location;  
+ 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 21 –   (2) Complies with § 11 –206 of this subtitle; and  
+ 
+  (3) Otherwise meets the requirements of this subtitle. ] 
+ 
+11–208. 
+ 
+ (A) INFORMATION IN NMLS  ASSOCIATED WITH A LI CENSE APPROVED BY 
+THE COMMISSIONER UNDER TH IS SUBTITLE SHALL IN CLUDE THE FOLLOWING : 
+ 
+  (1) THE LICENSEE ’S LEGAL NAME AND  ANY TRADE NAME USED BY 
+THE LICENSEE IN ACCO RDANCE WITH § 2–121 OF THIS ARTICLE ; 
+ 
+  (2) THE ADDRESS OF THE LI CENSEE’S PRINCIPAL EXECUTIV E 
+OFFICE ; AND 
+ 
+  (3) THE ADDRESS OF EACH A DDITIONAL LOCATION , IF ANY , WHERE 
+THE LICENSEE DOES BU SINESS AND  THAT : 
+ 
+   (I) THE GENERAL PUBLIC MA Y REASONABLY VIEW AS  A 
+LOCATION THAT MAKES LOANS , INCLUDING ANY LOCATI ON THAT INVESTIGATES  
+CUSTOMER COMPLAINTS OR DIRECTLY COMMUNIC ATES WITH CUSTOMERS 
+VERBALLY , ELECTRONICALLY , OR IN WRITING ; 
+ 
+   (II) HOUSES ANY CORE OPERATIONAL INFRASTR UCTURE OR 
+TECHNOLOGY SYSTEMS ; 
+ 
+   (III) CONDUCTS ANY CORE MAN AGEMENT , INFORMATION 
+SECURITY AND TECHNOL OGY, RISK AND COMPLIANCE , OR FINANCE FUNCTIONS ; OR 
+ 
+   (IV) IS OTHERWISE REQUIRED  TO BE LISTED IN NMLS  BY 
+REGULATION THE COMMISSIONER ADOPTS UNDER THIS SU BTITLE . 
+ 
+ (B) A LICENSEE SHALL MAINT AIN AND UPDATE THE I NFORMATION IN 
+NMLS  ASSOCIATED WITH THE LICENSEE ’S LICENSE TO REFLECT  ACCURATELY AT 
+ALL TIMES THE INFORM ATION REQUIRED BY SU BSECTION (A) OF THIS SECTION . 
+ 
+ (C) THE UNIQUE IDENTIFIER  OF THE LICENSEE SHAL L CONSTITUTE THE 
+LICENSE NUMBER FOR T HE LICENSE . 
+ 
+ (D) A LICENSE AUTHORIZES T HE LICENSEE TO DO BU SINESS UNDER THE 
+LICENSE AT ANY LICEN SED LOCATION AND UND ER ANY LICENSED NAME , OR AS 
+OTHERWISE AUTHORIZED  BY THE COMMISSIONER THROUGH REGU LATION . 
+ 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 22 – 11–210. 
+ 
+ (b) (1) Each licensee shall conspicuously post, in 48 point or larger type, at 
+[the licensee’s ] EACH  licensed location the following information:  
+ 
+   (i) The licensee’s unique identifier; and  
+ 
+   (ii) A statement advising consumers of t he availability of the NMLS 
+Consumer Access website to verify the licensing status of the licensee.  
+ 
+ (c) A licensee is not required to post the information required in subsection (b)(1) 
+of this section AT A LICENSED LOCATI ON if the licensee does not REGU LARLY  grant 
+[regular ] access to [the] THAT  licensed location to members of the general public.  
+ 
+[11–211. 
+ 
+ A licensee may not  change the location for which a license is issued unless the 
+licensee:  
+ 
+  (1) Provides to the Commissioner, in the form and in ac cordance with the 
+process that the Commissioner requires, notice of the proposed change; and  
+ 
+  (2) Receives the written consent of the Commissioner by United States 
+mail, e –mail, or any means provided through NMLS. ] 
+ 
+11–211. 
+ 
+ (A) A LICENSEE MAY NOT ADD , DELETE , OR MODIFY A LOCATION  REQUIRED 
+TO BE LISTED IN NMLS  UNDER § 11–208( A)(2) OR (3) OF THIS SUBTITLE UNL ESS: 
+  
+  (1) THE LICENSEE PROVIDES  TO THE COMMISSIONER , THROUGH 
+NMLS  AND IN ACCORDANCE WI TH ANY REGULATIONS T HE COMMISSIONER ADOPTS , 
+NOTICE OF THE AD DITION , DELETION , OR MODIFICATION ; 
+  
+  (2) THE ADDITION , DELETION , OR MODIFICATION OF T HE LOCATION 
+IS RECORDED WITH THE  INFORMATION ASSOCIAT ED WITH THE LICENSEE ’S LICENSE 
+IN NMLS;  AND 
+  
+  (3) THE ADDITION , DELETION , OR MODIFICATION OF T HE LOCATION 
+OTHERWISE COMPLIES W ITH THIS SUBTITLE . 
+  
+ (B) THE LICENSEE MAY NOT DO BUSINESS AT A LOC ATION REQUIRED TO BE  
+LISTED IN NMLS  BY § 11–208( A)(2) OR (3) OF THIS SUBTITLE UNT IL THE LOCATION 
+IS RECORDED WITH THE  INFORMATION ASSOCIAT ED WITH THE LICENSEE ’S LICENSE 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 23 – IN NMLS.  
+ 
+11–401. 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  
+ 
+ (b) “Agreement” means an installment sale agreement, a renewed or extended 
+installment sale agreement, and any renewal, extension, or refund agreement made in 
+conne ction with an installment sale agreement.  
+ 
+ (c) [“Branch location” means any location other than the principal executive office 
+of a licensee or license applicant at which the licensee conducts, or the license applicant, on 
+licensure, will conduct, activit ies required to be licensed under this subtitle.  
+ 
+ (d)] (1) “Buyer” means a person who buys or leases goods under an installment 
+sale agreement, even though the person has entered into one or more renewal, extension, 
+or refund agreements.  
+ 
+  (2) “Buyer” in cludes a prospective buyer.  
+ 
+ [(e)] (D) (1) “Collateral security” means any security interest in, 
+encumbrance on, or pledge of property or goods that is given to secure performance of an 
+obligation of a buyer or a surety for a buyer under an agreement.  
+ 
+  (2) “Collateral security” includes the undertaking of a surety for a buyer.  
+ 
+  (3) “Collateral security” does not include any goods or interest in goods that 
+are the subject of an installment sale agreement.  
+ 
+ [(f)] (E) (1) “Control person” means a person who has the power, directly or 
+indirectly, to direct the management or policies of a licensee or license applicant, whether 
+through ownership of securities, by contract, or otherwise.  
+ 
+  (2) “Control person” includes a person who:  
+ 
+   (i) Is a general part ner, an officer, a director, or a member of a 
+licensee or license applicant, or occupies a similar position or performs a similar function;  
+ 
+   (ii) Directly or indirectly has the right to vote 20% or more of a class 
+of voting securities, or has the power to sell or direct the sale of 20% or more of a class of 
+voting securities, of a licensee or license applicant; or  
+ 
+   (iii) In the case of a partnership, a limited partnership, a limited 
+liability partnership, a limited liability company, or any other busi ness entity:  
+ 
+    1. Has the right to receive on liquidation or dissolution of a 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 24 – licensee or license applicant 20% or more of the capital of the licensee or license applicant; 
+or 
+ 
+    2. Has contributed 20% or more of the capital of a licensee or 
+license a pplicant.  
+ 
+ [(g)] (F) (1) “Goods” means all tangible personal property that has a cash 
+price of $25,000 or less.  
+ 
+  (2) “Goods” does not include money or things in action.  
+ 
+ [(h)] (G) (1) “Installment sale agreement” means a contract for the retail sale 
+of consumer goods, negotiated or entered into in this State, under which:  
+ 
+   (i) Part or all of the price is payable in one or more payments after 
+the making of the contract; and  
+ 
+   (ii) The seller takes collateral security or keeps a security interest in 
+the goods sold.  
+ 
+  (2) “Installment sale agreement” includes:  
+ 
+   (i) A prospective installment sale agreement;  
+ 
+   (ii) A purchase money security agreement; and  
+ 
+   (iii) A contract for the bailment or leasing of consumer goods under 
+which the bailee or l essee contracts to pay as compensation a sum that is substantially 
+equal to or is more than the value of the goods.  
+ 
+  (3) “Installment sale agreement” does not include:  
+ 
+   (i) A bona fide C.O.D. transaction or a layaway agreement as 
+defined in § 14 –1101( g) of the Commercial Law Article; or  
+ 
+   (ii) A lease for industrial, commercial, or agricultural purposes.  
+ 
+ [(i)] (H) “License” means a license issued in any form by the Commissioner 
+under this subtitle to [engage in ] DO business as a sales finance compa ny, including as 
+provided for through NMLS.  
+ 
+ (I) “LICENSED LOCATION ” MEANS ANY LOCATION L ISTED BY THE LICENSE E 
+IN NMLS  IN ACCORDANCE WITH T HIS SUBTITLE . 
+ 
+ (J) “LICENSED NAME ” MEANS :  
+ WES MOORE, Governor  Ch. 567  
+ 
+– 25 –  
+  (1) THE LICENSEE ’S LEGAL NAME ; AND 
+  
+  (2) ANY TRADE NAME USED B Y THE  LICENSEE IN ACCORDAN CE WITH 
+§ 2–121 OF THIS ARTICLE . 
+ 
+ [(i–1)] (K) “Licensee” means a person licensed under this subtitle to [engage in ] 
+DO business as a sales finance company.  
+ 
+ [(j)] (L) “Person” includes an individual, corporation, business trust, statutory 
+trust, estate, trust, partnership, association, two or more persons having a joint or common 
+interest, or any other legal or commercial entity.  
+ 
+ [(k)] (M) “Retail sale” means the sale of goods for use or consumption by the 
+buyer or for the benef it or satisfaction that the buyer may derive from the use or 
+consumption of the goods by another, but not for resale by the buyer.  
+ 
+ [(l)] (N) “Sales finance company” means a person who is engaged, whether by 
+purchase, discount, pledge, loan, or otherwise,  in the business of acquiring, investing in, or 
+lending money or credit on the security of any interest in:  
+ 
+  (1) An installment sale agreement made between other parties;  
+ 
+  (2) A retail credit account transaction, as defined in § 12 –501 of the 
+Commercia l Law Article, made between other parties; or  
+ 
+  (3) A transaction that deals with home improvement, as defined in § 8 –101 
+of the Business Regulation Article, made between other parties, if collateral security is 
+required by and given to the contractor as a condition to the transaction.  
+ 
+ [(m)] (O) “Security interest” has the meaning stated in § 1 –201(37) of the 
+Commercial Law Article.  
+ 
+ [(n)] (P) “Seller” means a person who sells or leases or agrees to sell or lease 
+goods under an installment sale agreemen t. 
+ 
+ [(o)] (Q) (1) “Surety” includes a guarantor.  
+ 
+  (2) “Surety” does not include a seller who sells, transfers, or assigns an 
+agreement.  
+ 
+ [(p)] (R) “Unique identifier” means a number or another identifier assigned by 
+NMLS.  
+ 
+11–402.1.  
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 26 –  
+ (a) All revenue r eceived for the licensing  AND ASSESSMENT  of persons under this 
+subtitle and any other fee, investigation fee or assessment, or revenue received by the 
+Commissioner under this subtitle shall be:  
+ 
+  (1) Credited to the [Nondepository ] NON–DEPOSITORY  Special Fund 
+established under [§ 11–610] § 2–120 of this [title] ARTICLE ; and  
+ 
+  (2) Used in accordance with [§ 11 –610(c) ] § 2–120( D) of this [title] 
+ARTICLE . 
+ 
+ (C) SUBJECT TO § 2–120( H) OF THIS ARTICLE , THE COMMISSIONER MAY 
+IMPOSE AN ANNUAL ASS ESSMENT O N ANY LICENSEE UNDER  THIS SUBTITLE . 
+ 
+11–403. 
+ 
+ (b) A [separate license is required for the principal executive office and each 
+branch location where a person engages in business as a sales finance company ] LICENSEE 
+MAY DO BUSINESS AS A  SALES FINANCE COMPAN Y ONLY AT A LICENSED  LOCATION 
+OR AS OTHERWISE AUTH ORIZED BY THE COMMISSIONER THROUGH REGULATION . 
+ 
+11–404. 
+ 
+ (a) (2) The application shall include:  
+ 
+   (i) The applicant’s LEGAL name [, the] AND ANY TRADE NAME 
+USED BY THE APPLICAN T IN ACCORDANCE WITH  § 2–121 OF THIS ARTICLE ; 
+ 
+   (II) THE applicant’s principal executive office address [, and, if ]; 
+ 
+   (III) IF the applicant is not an individual, the name and residence 
+address of each control person;  
+ 
+   [(ii)] (IV) The address of each [branch ] ADDITIONAL  locati on, if 
+any, THAT :  
+ 
+    1. THE GENERAL PUBLIC MA Y REASONABLY VIEW AS  A 
+LOCATION THAT DOES B USINESS AS A SALES F INANCE COMPANY , INCLUDING ANY 
+LOCATION THAT INVEST IGATES CUSTOMER COMP LAINTS OR DIRECTLY 
+COMMUNICATES WITH CU STOMERS VERBALLY , ELECTRONICALLY , OR IN WRITING ; 
+ 
+    2. HOUSES ANY CORE OPERA TIONAL INFRASTRUCTUR E 
+OR TECHNOLOGY SYSTEM S; 
+ 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 27 –     3. CONDUCTS ANY CORE MAN AGEMENT , INFORMATION 
+SECURITY AND TECHNOL OGY, RISK AND COMPLIANCE , OR FINANCE FUNCTIONS ; OR 
+ 
+    4. IS OTHERWISE REQUIRED  TO BE LISTED IN NMLS  BY 
+REGULATION THE COMMISSIONER ADOPTS U NDER THIS SUBTITLE ; and  
+ 
+   [(iii)] (V) Any other pertinent information that the Commissioner 
+requires.  
+ 
+ [(c) For the principal executive office and each branch location license for which 
+an applicant applies, t he applicant shall:  
+ 
+  (1) Submit a separate application; and  
+ 
+  (2) Pay a separate investigation fee and license fee. ] 
+ 
+11–406. 
+ 
+ (a) In addition to the investigation fee required by § 11 –404 of this subtitle, if an 
+applicant [applies for a license for a place of business that is located ] REQUESTS ANY 
+LICENSED LOCATION  outside of [this] THE State AND THE INVESTIGATIO N INCLUDES 
+TRAVEL TO THAT LOCAT ION, the applicant shall pay to the Commissioner, on 
+presentation by the Commissioner of a detailed account, th e reasonable travel and living 
+expenses incurred on account of the investigation.  
+ 
+[11–408. 
+ 
+ (a) (1) Each license provided for through NMLS shall include the following 
+information:  
+ 
+   (i) The name of the licensee;  
+ 
+   (ii) The address of the location at which the business will be 
+conducted; and  
+ 
+   (iii) The unique identifier of the licensee.  
+ 
+  (2) The unique identifier of the licensee shall constitute the license number 
+for the license.  
+ 
+ (b) (1) A license authorizes the licensee to do business under the license, at the 
+licensed location and under the name stated on the license.  
+ 
+  (2) Only one location may be maintained under any one license.  
+ 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 28 –  (c) Subject to § 11 –403(b) of this subtitle, the Commissioner may issue more than 
+one license to an applican t who:  
+ 
+  (1) Conducts activities for which a license is required at more than one 
+branch location;  
+ 
+  (2) Complies with §§ 11 –404 and 11 –406 of this subtitle; and  
+ 
+  (3) Otherwise meets the requirements of this subtitle. ] 
+ 
+11–408. 
+ 
+ (A) INFORMATION IN NML S ASSOCIATED WITH A LI CENSE APPROVED BY 
+THE COMMISSIONER UNDER TH IS SUBTITLE SHALL IN CLUDE THE FOLLOWING : 
+ 
+  (1) THE LICENSEE ’S LEGAL NAME AND ANY TRADE NAME USED BY 
+THE LICENSEE IN ACCO RDANCE WITH § 2–121 OF THIS ARTICLE ; 
+ 
+  (2) THE ADDRESS OF THE LI CENSE E’S PRINCIPAL EXECUTIV E 
+OFFICE ; AND 
+ 
+  (3) THE ADDRESS OF EACH A DDITIONAL LOCATION , IF ANY , WHERE 
+THE LICENSEE DOES BU SINESS AND THAT : 
+ 
+   (I) THE GENERAL PUBLIC MA Y REASONABLY VIEW AS  A 
+LOCATION THAT DOES B USINESS AS A SALES F INANCE COMPANY , INCLUDING ANY  
+LOCATION THAT INVEST IGATES CUSTOMER COMP LAINTS OR DIRECTLY 
+COMMUNICATES WITH CU STOMERS VERBALLY , ELECTRONICALLY , OR IN WRITING ; 
+ 
+   (II) HOUSES ANY CORE OPERA TIONAL INFRASTRUCTUR E OR 
+TECHNOLOGY SYSTEMS ; 
+ 
+   (III) CONDUCTS ANY CORE MAN AGEMENT , INFORMATION 
+SECURITY AND TECHNOL OGY, RISK AND COMPLIANCE , OR FINANCE FUNCTIONS ; OR 
+ 
+   (IV) IS OTHERWISE REQUIRED  TO BE LISTED IN NMLS  BY 
+REGULATION THE COMMISSIONER ADOPTS U NDER THIS SUBTITLE . 
+ 
+ (B) A LICENSEE SHALL MAINT AIN AND UPDATE THE I NFORMATION IN 
+NMLS  ASSOCIA TED WITH THE LICENSE E’S LICENSE TO REFLECT  ACCURATELY AT 
+ALL TIMES THE INFORM ATION REQUIRED BY SU BSECTION (A) OF THIS SECTION . 
+ 
+ (C) THE UNIQUE IDENTIFIER  OF THE LICENSEE SHAL L CONSTITUTE THE 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 29 – LICENSE NUMBER FOR T HE LICENSE . 
+ 
+ (D) A LICENSE AUTHORIZES T HE L ICENSEE TO DO BUSINE SS UNDER THE 
+LICENSE AT ANY LICEN SED LOCATION AND UND ER ANY LICENSED NAME , OR AS 
+OTHERWISE AUTHORIZED  BY THE COMMISSIONER THROUGH REGULATION . 
+ 
+11–410. 
+ 
+ (b) (1) Each licensee shall conspicuously post, in 48 point or larger type, at 
+[the licensee’s ] EACH  licensed location the following information:  
+ 
+   (i) The licensee’s unique identifier; and  
+ 
+   (ii) A statement advising consumers of the availability of the NMLS 
+Consumer Access website to verify the licensing status of the licensee.  
+ 
+ (c) A licensee is not required to post the information required in subsection (b)(1) 
+of this section AT A LICENSED LOCATI ON if the licensee does not REGULARLY  grant 
+[regular ] access to  [the] THAT  licensed location to members of the general public.  
+ 
+[11–411. 
+ 
+ If a licensee changes the location for which a license is issued, the licensee 
+immediately shall provide to the Commissioner, in the form and in accordance with the 
+process that the Commissioner requires, notice of the change. ] 
+ 
+11–411. 
+ 
+ (A) A LICENSEE  MAY NOT ADD , DELETE , OR MODIFY A LOCATION  REQUIRED 
+TO BE LISTED IN NMLS  UNDER § 11–408( A)(2) OR (3) OF THIS SUBTITLE UNL ESS: 
+  
+  (1) THE LICENSEE PROVIDES  TO THE COMMISSIONER , THROUGH 
+NMLS  AND IN ACCORDANCE WI TH ANY REGULATIONS T HE COMMISSIONER ADOPTS , 
+NOTICE OF THE ADDITI ON, DELETION , OR MODIFICATION ; 
+  
+  (2) THE ADDITION , DELETION , OR MODIFICATION OF T HE LOCATION 
+IS RECORDED WITH THE  INFORMATION ASSOCIAT ED WITH THE LICENSEE ’S LICENSE 
+IN NMLS;  AND 
+  
+  (3) THE ADDITION , DELETION , OR MODIFICATION OF T HE L OCATION 
+OTHERWISE COMPLIES W ITH THIS SUBTITLE . 
+  
+ (B) THE LICENSEE MAY NOT DO BUSINESS AT A LOC ATION REQUIRED TO BE  
+LISTED IN NMLS  BY § 11–408( A)(2) OR (3) OF THIS SUBTITLE UNT IL THE LOCATION 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 30 – IS RECORDED WITH THE  INFORMATION ASSOCIAT ED WITH THE LICENSEE ’S LICENSE 
+IN NMLS.  
+ 
+11–414. 
+ 
+ [(a)] Subject to the hearing provisions of § 11 –415 of this subtitle, the 
+Commissioner may suspend or revoke the license of any licensee, if:  
+ 
+  (1) The licensee knowingly or without exercising due care:  
+ 
+   (i) Violates any pro vision of this subtitle or of any other law that 
+regulates agreements; or  
+ 
+   (ii) Fails to comply with any demand or requirement that the 
+Commissioner makes under this subtitle;  
+ 
+  (2) The licensee makes any material misstatement in an application for a 
+license;  
+ 
+  (3) The licensee defrauds any buyer, to the buyer’s damage;  
+ 
+  (4) The licensee willfully fails to carry out any written agreement with a 
+buyer;  
+ 
+  (5) The licensee knowingly and repeatedly violates any provision of the 
+Maryland Consumer Debt Co llection Act;  
+ 
+  (6) An officer, director, or trustee of or partner in the licensee is responsible 
+for any act or omission that would be a ground for suspending or revoking a license; or  
+ 
+  (7) Any agent or employee of the licensee is responsible for any act or 
+omission that would be a ground for suspending or revoking a license, if the licensee:  
+ 
+   (i) Approves or knows of that or similar acts or omissions; and  
+ 
+   (ii) After giving approval or learning of the act or omission, keeps 
+any benefit, proceeds , profit, or advantage resulting from the act or omission or otherwise 
+ratifies the act or omission.  
+ 
+ [(b) If the licensee has more than one place of business, the Commissioner may 
+suspend or revoke only the licenses of the places of business to which the  grounds for 
+suspension or revocation relate. However, if the Commissioner suspends or revokes the 
+license of one place of business and finds that the grounds for that action apply to any other 
+place of business, the Commissioner shall take the same action  against the license for each 
+other place of business to which the grounds apply. ] 
+ 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 31 – 11–501. 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  
+ 
+ (F–1) “LICENSED LOCATION ” MEANS ANY LOCATION L ISTED BY THE LICENSE E 
+IN NMLS  IN ACCORDANCE WITH THIS SUBTITLE . 
+ 
+ (F–2) “LICENSED NAME ” MEANS : 
+ 
+  (1) THE LICENSEE ’S LEGAL NAME ; AND 
+ 
+  (2) ANY TRADE NAME USED B Y THE LICENSEE IN AC CORDANCE WITH 
+§ 2–121 OF THIS ARTICLE . 
+ 
+11–503.1.  
+ 
+ (b) The fees established by the Commissioner under this section TOGETHER 
+WITH ANY ASSESSMENTS  OF LICENSEES UNDER T HIS SUBTITLE  shall be reasonable 
+and set in a manner that will COLLECTIVELY  produce funds sufficient to cover the [actual ] 
+direct and indirect costs of [regulating ] FULFILLING THE STATU TORY AND 
+REGULATORY D UTIES OF THE COMMISSIONER RELATED TO licensees in accordance 
+with [the provisions of ] this subtitle.  
+ 
+11–503.2.  
+ 
+ (a) All revenue received for the licensing AND ASSESSMENT of persons under this 
+subtitle and any other fee, examination or investigation fee o r assessment, or revenue 
+received by the Commissioner under this subtitle shall be:  
+ 
+  (1) Credited to the [Nondepository ] NON–DEPOSITORY  Special Fund 
+established under [§ 11–610] § 2–120 of this [title] ARTICLE ; and  
+ 
+  (2) Used in accordance with [§ 11–610(c) ] § 2–120( D) of this [title] 
+ARTICLE . 
+ 
+ (C) SUBJECT TO § 2–120( H) OF THIS ARTICLE , THE COMMISSIONER MAY 
+IMPOSE AN ANNUAL ASS ESSMENT ON ANY LICEN SEE UNDER THIS SUBTI TLE. 
+ 
+11–505. 
+ 
+ (a) A license issued under this subtitle authorizes the licensee to  act as a 
+mortgage lender under the license at [the] ANY licensed [place of business ] LOCATION 
+AND UNDER ANY LICENS ED NAME , OR AS OTHERWISE AUTH ORIZED BY THE 
+COMMISSIONER THROUGH REGULATION . 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 32 –  
+ (b) [Only one place of business may be maintained under any one  license ] 
+EXCEPT AS PROVIDED IN  SUBSECTION (C) OF THIS SECTION OR A S OTHERWISE 
+AUTHORIZED BY THE COMMISSIONER THROUGH REGULATION , A LICENSEE MAY DO 
+BUSINESS AS A MORTGA GE LENDER ONLY AT A LICENSED LOCATION . 
+ 
+ [(c) A mortgage lender may maintain more than o ne license under this subtitle 
+provided that a separate application for each license is made pursuant to § 11 –507 of this 
+subtitle and the Commissioner approves such application.  
+ 
+ (d) (1) (i) Each license provided for through NMLS shall include the 
+follow ing information:  
+ 
+    1. The name of the licensee;  
+ 
+    2. The address at which the business is to be conducted; and  
+ 
+    3. The unique identifier of the licensee.  
+ 
+   (ii) The unique identifier of the licensee shall constitute the license 
+number for the license.  
+ 
+  (2) A person may not conduct any mortgage loan business at any location 
+or under any name different from the address and name that appears on the person’s 
+license. ] 
+ 
+ [(e)] (C) (1) A licensee may not allow any note, or loan contract, mortgage, or 
+evidence of indebtedness secured by a secondary mortgage or deed of trust on a dwelling or 
+residential real estate to be signed or executed at any place [for which the person does not 
+have a license ] OTHER THAN A LICENSE D LOCATION , except at the office of: 
+ 
+   (i) The attorney for the borrower or for the licensee; or  
+ 
+   (ii) A title insurance company, a title company, or an attorney for a 
+title insurance company or a title company.  
+ 
+  (2) Notwithstanding paragraph (1) of this subsection, a licensee may 
+conduct the loan closing at another location at the written request of the borrower or the 
+borrower ’s designee to accommodate the borrower because of the borrower ’s sickness.  
+ 
+  (3) The Commissioner shall adopt regulations to ensure that the loan 
+applicati on process is conducted fairly and in a manner consistent with the best interests 
+of both the borrower and mortgage lender.  
+ 
+ [(f)] (D) A license may be issued under this subtitle to a business entity whose 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 33 – principal EXECUTIVE  office is located outside [this] THE State [provided that ] IF the 
+business entity maintains a resident agent within the State at all times during the term of 
+the license, regardless of whether:  
+ 
+  (1) The business entity maintains any office within the State; or  
+ 
+  (2) The activitie s of the business entity constitute doing business or having 
+a tax situs in [this] THE State under the applicable provisions of the Corporations and 
+Associations Article.  
+ 
+ [(g)] (E) A person exempt from licensing under this subtitle who employs a 
+mortgage  loan originator licensed under Subtitle 6 of this title shall be registered with [the 
+Nationwide Mortgage Licensing System and Registry ] NMLS . 
+ 
+ (F) INFORMATION IN NMLS  ASSOCIATED WITH A LI CENSE APPROVED BY 
+THE COMMISSIONER UNDER TH IS SUBTITLE SHALL IN CLU DE THE FOLLOWING : 
+ 
+  (1) THE LICENSEE ’S LEGAL NAME AND ANY TRADE NAME USED BY 
+THE LICENSEE IN ACCO RDANCE WITH § 2–121 OF THIS ARTICLE ; 
+ 
+  (2) THE ADDRESS OF THE LI CENSEE’S PRINCIPAL EXECUTIV E 
+OFFICE ; AND 
+ 
+  (3) THE ADDRESS OF EACH A DDITIONAL LOCATION , IF ANY, WHERE 
+THE LICENSEE DOES BU SINESS AND THAT : 
+ 
+   (I) THE GENERAL PUBLIC MA Y REASONABLY VIEW AS  A 
+LOCATION THAT DOES B USINESS AS A MORTGAG E LENDER , INCLUDING ANY 
+LOCATION THAT INVEST IGATES CUSTOMER COMP LAINTS OR DIRECTLY 
+COMMUNICATES WITH CU STOMERS VERBA LLY, ELECTRONICALLY , OR IN WRITING ; 
+ 
+   (II) HOUSES ANY CORE OPERA TIONAL INFRASTRUCTUR E OR 
+TECHNOLOGY SYSTEMS ; 
+ 
+   (III) CONDUCTS ANY CORE MAN AGEMENT , INFORMATION 
+SECURITY AND TECHNOL OGY, RISK AND COMPLIANCE , OR FINANCE FUNCTIONS ; OR 
+ 
+   (IV) IS OTHERWISE REQUIRED TO BE LISTE D IN NMLS  BY 
+REGULATION THE COMMISSIONER ADOPTS U NDER THIS SUBTITLE . 
+ 
+ (G) A LICENSEE SHALL MAINT AIN AND UPDATE THE I NFORMATION IN 
+NMLS  ASSOCIATED WITH THE LICENSEE ’S LICENSE TO REFLECT  ACCURATELY AT 
+ALL TIMES THE INFORM ATION REQUIRED B Y SUBSECTION (F) OF THIS SECTION . 
+ 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 34 –  (H) THE UNIQUE IDENTIFIER  OF THE LICENSEE SHAL L CONSTITUTE THE 
+LICENSE NUMBER FOR T HE LICENSE . 
+ 
+ (I) A LICENSEE MAY NOT CON DUCT ANY BUSINESS AS  A MORTGAGE 
+LENDER : 
+ 
+  (1) UNDER ANY NAME OTHER THAN A LICENSED NAME ; OR 
+ 
+  (2) EXCEPT AS PROVIDED IN  SUBSECTION (C) OF THIS SECTION OR A S 
+OTHERWISE AUTHORIZED  BY THE COMMISSIONER THROUGH REGULATION , AT A 
+LOCATION OTHER THAN A LICENSED LOCATION . 
+ 
+11–506.1.  
+ 
+ (b) In connection with an initial application for a license under § 11 –507 of this 
+subtitle, and at any other time the Commissioner requests, an applicant or licensee shall 
+provide to [the Nationwide Mortgage Licensing System and Registry ] NMLS  information 
+concerning the applicant ’s identity, including:  
+ 
+  (1) Fingerprints for submission to the Federal Bureau of Investigation, and 
+any other governmental agency or entity authorized to receive this information, for a state, 
+national, or international criminal history background check; and  
+ 
+  (2) Personal history and experience in a form prescribed by [the 
+Nationwide Mortgage Licensing System and Registry ] NMLS , including the submission of 
+authorization for [the Nationwide Mortgage Licensing System and Registry ] NMLS  and 
+the Commissioner to obtain:  
+ 
+   (i) An independent credit repo rt from a consumer reporting agency 
+described in the federal Fair Credit Reporting Act, 15 U.S.C. § 1681a(p); and  
+ 
+   (ii) Information related to any administrative, civil, or criminal 
+findings by any governmental jurisdiction.  
+ 
+ (c) The Commissioner may r equest from the Federal Bureau of Investigation or 
+[the Nationwide Mortgage Licensing System and Registry ] NMLS , as applicable, for each 
+applicant or licensee who is required to provide fingerprints under subsection (b) of this 
+section:  
+ 
+  (1) (i) The stat e, national, or international criminal history records of 
+the applicant or licensee; and  
+ 
+   (ii) A printed statement listing any conviction or other disposition of, 
+and any plea of guilty or nolo contendere to, any criminal charge;  
+ 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 35 –   (2) (i) An update of  the initial criminal history records check or 
+criminal history background check of the applicant or licensee; and  
+ 
+   (ii) A revised statement listing any conviction or other disposition of, 
+and any plea of guilty or nolo contendere to, any criminal charg e occurring after the date 
+of the initial criminal history records check or criminal history background check; and  
+ 
+  (3) An acknowledged receipt of the application for a criminal history 
+records check or criminal history background check of the applicant or licensee.  
+ 
+ (d) An applicant or licensee who is required to provide fingerprints under 
+subsection (b) of this section shall pay any processing or other fees required by the Federal 
+Bureau of Investigation and [the Nationwide Mortgage Licensing System an d Registry ] 
+NMLS . 
+ 
+ (e) To implement this subtitle, the Commissioner may use [the Nationwide 
+Mortgage Licensing System and Registry ] NMLS  as a channeling agent to request 
+information from and distribute information to the Department of Justice, any other 
+governmental agency with subject matter jurisdiction, and any other state licensing entity 
+that has loan originators registered with [the Nationwide Mortgage Licensing System and 
+Registry ] NMLS . 
+ 
+11–507. 
+ 
+ (a) (1) To apply for a license, an applicant shall:  
+ 
+   (i) Complete, sign, and submit to the Commissioner an application 
+made under oath in the form, and in accordance with the process, that the Commissioner 
+requires; and  
+ 
+   (ii) Provide all information that the Commissioner requests.  
+ 
+  (2) THE APPLICATION SHALL IN CLUDE : 
+ 
+   (I) THE APPLICANT ’S LEGAL NAME AND  ANY TRADE NAME USED 
+BY THE APPLICANT IN ACCORDANCE WITH § 2–121 OF THIS ARTICLE ; 
+ 
+   (II) THE APPLICANT ’S PRINCIPAL EXECUTIV E OFFICE ADDRESS ; 
+ 
+   (III) IF THE APPLICANT IS N OT AN INDIVIDUAL , THE NAME AND 
+RESIDENCE ADDRESS OF  EACH CONTROL PERSON ; 
+ 
+   (IV) THE ADDRESS OF EACH A DDITIONAL LOCATION , IF ANY , 
+THAT : 
+ 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 36 –     1. THE GENERAL PUBLIC MA Y REASONABLY VIEW AS  A 
+LOCATION THAT DOES B USINESS AS A MORTGAG E LENDER , INCLUDING ANY 
+LOCATION THAT INVEST IGATES CUSTOMER COMP LAINTS OR DIRECTLY 
+COMMUNICATES WITH CU STOMERS VERBALLY , ELECTRONICALLY , OR IN WRITING ; 
+ 
+    2. HOUSES ANY CORE OPERA TIONAL INFRASTRUCTUR E 
+OR TECHNOLOGY SYSTEM S; 
+ 
+    3. CONDUCTS ANY CORE MAN AGEMENT , INFORMATION 
+SECURITY AND TECHNOL OGY, RISK AND COMPLIANCE , OR FINANCE FUNCTIONS ; OR 
+ 
+    4. IS OTHERWISE REQUIRED  TO BE LISTED IN NMLS  BY 
+REGULATION THE COMMISSIONER ADOPTS U NDER THIS SUBTITLE ; AND 
+ 
+   (V) ANY OTHER PERTINENT I NFORMATION THAT THE 
+COMMISSIONER REQUIRES . 
+ 
+  (3) The applicant sh all comply with all conditions and provisions of the 
+application for licensure and be issued a license before acting as a mortgage lender [at a 
+particular location ]. 
+ 
+ (b) [With each application,  the] THE applicant shall pay to the Commissioner the 
+following fees:  
+ 
+  (1) A nonrefundable investigation fee set by the Commissioner; and  
+ 
+  (2) A nonrefundable license fee set by the Commissioner.  
+ 
+ (c) In addition to the license fee required under subsection (b )(2) of this section, 
+an applicant for an initial license shall pay to [the Nationwide Mortgage Licensing System 
+and Registry ] NMLS  any fees that [the Nationwide Mortgage Licensing System and 
+Registry ] NMLS  imposes in connection with the application.  
+ 
+ (d) [For each license for which an applicant applies, the applicant shall:  
+ 
+  (1) Submit a separate application;  
+ 
+  (2) Pay a separate nonrefundable license fee;  
+ 
+  (3) Pay any application processing fee or other fees that the Nationwide 
+Mortgage Licensing Sy stem and Registry imposes in connection with the application;  
+ 
+  (4) If applicable, pay the surcharge; and  
+ 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 37 –   (5) File a separate surety bond or other financial guaranty under § 11 –508 
+of this subtitle.  
+ 
+ (e)] In addition to any sanctions that may be impos ed under this subtitle by the 
+Commissioner, a nonrefundable surcharge of $500 shall be paid [with]: 
+ 
+  (1) WITH an application if the applicant has begun acting as a mortgage 
+lender without a license [at the location for which an application is filed ]; AND 
+ 
+  (2) BY A LICENSEE IF THE LICENSEE HAS ACTED A S A MORTGAGE 
+LENDER AT A LOCATION  THAT IS NOT A LICENS ED LOCATION . 
+ 
+ [(f)] (E) A person who knowingly makes a false statement under oath on an 
+application filed with the Commissioner under this section is gu ilty of perjury and on 
+conviction is subject to the penalties of § 9 –101 of the Criminal Law Article.  
+ 
+11–508. 
+ 
+ (a) With the application for a [new] license, an applicant shall file a surety bond 
+with the Commissioner.  
+ 
+ [(c) (1) If an applicant has not conducted a mortgage lending business any time 
+during the 36 months prior to the filing of an original application for a license, the applicant 
+shall provide a sworn statement setting forth that fact.  
+ 
+  (2) If an applicant has conducted a mortgage lending  business any time 
+during the 36 months prior to the filing of an original application, the applicant shall 
+provide a sworn statement setting forth the aggregate principal amount of mortgage loans 
+secured or to be secured by property located in Maryland an d applied for and accepted or 
+serviced or mortgage loans secured or to be secured by property located in Maryland and 
+applied for, procured, and accepted or serviced by the mortgage lender during the 12 
+months immediately preceding the month in which the a pplication is filed.  
+ 
+  (3) If an applicant has conducted a mortgage lending business any time 
+during the 36 months prior to the filing of an original application, but during that time has 
+not acted as a mortgage lender in Maryland, the applicant shall pro vide with the original 
+application a sworn statement setting forth the aggregate principal amount of loans 
+secured or to be secured by a dwelling or residential real estate located in states other than 
+Maryland and applied for, procured, and accepted or se rviced by the mortgage lender 
+during the 12 months preceding the month in which the application is filed.  
+ 
+  (4) Except as provided in subsection (d) of this section, the applicant shall 
+file with the original application:  
+ 
+   (i) Where the aggregate princ ipal amount of loans set forth in the 
+sworn statement was $3,000,000 or less, a surety bond in the amount of $50,000;  
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 38 –  
+   (ii) Where the aggregate principal amount of loans set forth in the 
+sworn statement was more than $3,000,000 but not more than $10,000 ,000, a surety bond 
+in the amount of $100,000; and  
+ 
+   (iii) Where the aggregate principal amount of loans set forth in the 
+sworn statement was more than $10,000,000, a surety bond in the amount of $150,000. ] 
+ 
+ (C) (1) THE AMOUNT OF THE SUR ETY BOND UNDER S UBSECTION (B) OF 
+THIS SECTION SHALL B E IN AN AMOUNT OF NO T LESS THAN $50,000  AND NOT MORE 
+THAN $750,000,  AS DETERMINED BY THE  COMMISSIONER FOR EACH  LICENSEE . 
+ 
+  (2) IN SETTING THE AMOUNT  OF THE SURETY BOND , THE 
+COMMISSIONER MAY CONS IDER : 
+ 
+   (I) THE NATURE  AND VOLUME OF THE BU SINESS OR PROPOSED 
+BUSINESS OF THE LICE NSEE OR APPLICANT ; 
+ 
+   (II) THE FINANCIAL CONDITI ON OF THE LICENSEE O R 
+APPLICANT , INCLUDING : 
+ 
+    1. THE AMOUNT , NATURE , QUALITY , AND LIQUIDITY OF 
+THE ASSETS OF THE LI CENSEE OR APPLICANT ; 
+ 
+    2. THE AMOUNT AND NATURE  OF THE LIABILITIES , 
+INCLUDING CONTINGENT  LIABILITIES , OF THE LICENSEE OR A PPLICANT ; 
+ 
+    3. THE HISTORY OF AND PR OSPECTS FOR THE LICE NSEE 
+OR APPLICANT TO EARN  AND RETAIN INCOME ; AND 
+ 
+    4. THE POTENTIAL HARM TO  CONSUMERS IF THE 
+APPLI CANT OR LICENSEE BEC OMES FINANCIALLY IMP AIRED ; 
+ 
+   (III) THE QUALITY OF THE OP ERATIONS OF THE LICE NSEE OR 
+APPLICANT ; 
+ 
+   (IV) THE QUALITY OF THE MA NAGEMENT OF THE LICE NSEE OR 
+APPLICANT ; 
+ 
+   (V) THE NATURE AND QUALIT Y OF THE PERSON THAT  HAS 
+CONTROL OF THE LICENSEE OR APPLICAN T; AND 
+ 
+   (VI) ANY OTHER FACTOR THAT  THE COMMISSIONER CONSIDER S 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 39 – RELEVANT . 
+ 
+ [(d) Notwithstanding any other provisions of this section, and subject to approval 
+by the Commissioner, if an applicant files five or more original or renewal applications at 
+the same time, the applicant may provide a blanket surety bond for all licensed offices in 
+the amount of $750,000. ] 
+ 
+ [(e)] (D) Subject to approval by the Commissioner, an applicant for license who 
+files an application for a new license may  satisfy the bonding requirement under this 
+section by establishing a trust account with or obtaining an irrevocable letter of credit from 
+a financial institution insured by the Federal Deposit Insurance Corporation in an amount 
+equal to the bond required under this section.  
+ 
+ [(f)] (E) (1) The Commissioner may adopt regulations reasonably necessary 
+to assure that the proper surety bond amount established by this section is maintained by 
+each licensee throughout each licensing term.  
+ 
+  (2) The regulations m ay provide for periodic reporting, recalculation, and 
+enforcement of required bond amounts.  
+ 
+ [(g)] (F) If a mortgage servicer is subject to a receivership proceeding, the 
+Commissioner or a receiver appointed under § 7 –404.1(b)(2) or § 7 –506(b) of the Real  
+Property Article, without regard to any priorities, preferences, or adverse claims, may:  
+ 
+  (1) Reduce the bond or the deposit in lieu of a bond to cash; and  
+ 
+  (2) Use the cash to defray the costs associated with the receivership.  
+ 
+11–511. 
+ 
+ (a) Subject to any regulations the Commissioner adopts in connection with the 
+transition to [the Nationwide Mortgage Licensing System and Registry ] NMLS , an initial 
+license term shall:  
+ 
+  (1) Begin on the day the license is issued; and  
+ 
+  (2) Expire on Decembe r 31 of the year:  
+ 
+   (i) The license is issued, if the license is issued before November 1; 
+or 
+ 
+   (ii) Succeeding the year that the license is issued, if the license is 
+issued on or after November 1.  
+ 
+ (c) Subject to any regulations the Commissioner adop ts in connection with the 
+transition to [the Nationwide Mortgage Licensing System and Registry ] NMLS , a renewal 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 40 – term shall:  
+ 
+  (1) Be for a period of 1 year;  
+ 
+  (2) Begin on January 1 of each year after the initial term; and  
+ 
+  (3) Expire on December 31 of  the year the renewal term begins.  
+ 
+ (d) In addition to the license renewal fee required under subsection (b)(2) of this 
+section, an applicant for a license renewal shall pay to [the Nationwide Mortgage Licensing 
+System and Registry ] NMLS  any fees that [the Nationwide Mortgage Licensing System 
+and Registry ] NMLS  imposes in connection with the renewal application.  
+ 
+11–512. 
+ 
+ [(a) (1) A licensee may not change the place of business for which a license is 
+issued  unless the licensee:  
+ 
+   (i) Notifies the Commissioner through NMLS of the proposed 
+change; and  
+ 
+   (ii) Receives the approval of the Commissioner through NMLS.  
+ 
+  (2) Within 60 days after receiving a request for approval of a proposed 
+change in the place of business for a licensee, the Commission er shall approve or deny the 
+request.  
+ 
+  (3) If the Commissioner does not approve or deny a request for approval of 
+a proposed change in the place of business for a licensee  as provided under paragraph (2) 
+of this subsection, the request shall be deemed approved. ] 
+ 
+ (A) A LICENSEE MAY NOT ADD , DELETE , OR MODIFY A LOCATION  REQUIRED 
+TO BE LISTED IN NMLS  UNDER § 11–505( F)(2) OR (3) OF THIS SUBTITLE UNL ESS: 
+ 
+  (1) THE LICENSEE PROVIDES  TO THE COMMISSIONER , THROUGH 
+NMLS  AND IN ACCORDANCE WI TH ANY REGULATIONS T HE COMMISSIONER ADOPTS , 
+NOTICE OF THE ADDITI ON, DELETION , OR MODIFICATION ; 
+ 
+  (2) THE ADDITION , DELETION , OR MODIFICATION OF T HE LOCATION 
+IS RECORDED WITH THE  INFORMATION ASSOCIAT ED WITH THE LICENSEE ’S LICENSE 
+IN NMLS;  AND 
+  
+  (3) THE ADDITION , DELETION , OR MODIFICATION OF TH E LOCATION 
+OTHERWISE COMPLIES W ITH THIS SUBTITLE . 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 41 –   
+ (B) THE LICENSEE MAY NOT DO BUSINESS AT A LOC ATION REQUIRED TO BE  
+LISTED IN NMLS  BY § 11–505( F)(2) OR (3) OF THIS SUBTITLE UNT IL THE LOCATION 
+IS RECORDED WITH THE  INFORMATION ASSOCIAT ED WITH THE LICENSEE ’S LICENSE 
+IN NMLS.  
+ 
+ [(b)] (C) (1) A licensee may not undergo a change in control unless the 
+licensee:  
+ 
+   (i) Notifies the Commissioner through NMLS of the proposed 
+change;  
+ 
+   (ii) Makes a request through NMLS that the Commissioner a pprove 
+the proposed change;  
+ 
+   (iii) Provides any information the Commissioner may require under 
+paragraph (3) of this subsection; and  
+ 
+   (iv) Receives the approval of the Commissioner through NMLS.  
+ 
+  (2) For purposes of this subsection:  
+ 
+   (i) If the licensee is a corporation, “control” means direct or indirect 
+ownership of, or the right to control, 25% or more of the voting shares of the licensee, or the 
+ability to elect a majority of the directors or otherwise effect a change in policy; and  
+ 
+   (ii) If the licensee is an entity other than a corporation, “control” 
+means the possession, directly or indirectly, of the power to direct or cause the direction of 
+the management and policies of the licensee, whether through the ownership of voting 
+securities,  by contract, or otherwise.  
+ 
+  (3) Within 60 days after receiving a request for approval of a proposed 
+change in control, the Commissioner may require the licensee to provide any information 
+deemed necessary to determine whether a new application is requir ed because of the 
+proposed change in control.  
+ 
+  (4) The Commissioner shall approve or deny a request for approval of a 
+proposed change in control:  
+ 
+   (i) Within 60 days after the date the Commissioner receives the 
+request; or  
+ 
+   (ii) If the Commissioner  requests information from the licensee 
+under paragraph (3) of this subsection, within 60 days after the date the information is 
+received by the Commissioner.  
+ 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 42 –   (5) If the Commissioner does not approve or deny a request for approval of 
+a proposed change i n control as provided under paragraph (4) of this subsection, the request 
+shall be deemed approved.  
+ 
+ [(c)] (D) In addition to any sanctions which may be imposed under this subtitle 
+by the Commissioner, a licensee who fails to provide in a timely manner th e notice required 
+under subsection (a)(1) or [(b)(1) ] (C)(1) of this section shall:  
+ 
+  (1) For each such failure pay to the Commissioner a surcharge in the 
+amount of $500; and  
+ 
+  (2) For a licensee who fails to provide in a timely manner the notice 
+require d under subsection [(b)(1) ] (C)(1) of this section, file with the Commissioner an 
+application for a new license, together with all applicable application and investigation fees.  
+ 
+11–512.1.  
+ 
+ (a) Each licensee shall conspicuously post, in 48 point or larger type, at [the 
+licensee’s ] EACH  licensed location the following information:  
+ 
+  (1) The licensee’s unique identifier; and  
+ 
+  (2) A statement advising consumers of the availability of the NMLS 
+Consumer Access website to verify the licensing status of the licensee.  
+ 
+ (c) A licensee is not required to post the information required in subsection (a) of 
+this section AT A LICENSED LOCATI ON if the licensee does not regularly grant access to 
+[the] THAT  licensed location to members of the general public.  
+ 
+11–513. 
+ 
+ (a) Each licensee shall keep and make available to the Commissioner at the 
+licensee’s [place of business ] LICENSED LOCATION any books and records that the 
+Commissioner, by rule or regulation,  requires to enable the Commissioner to enforce:  
+ 
+  (1) This subtitle;  
+ 
+  (2) Any rule or regulation adopted under this subtitle; and  
+ 
+  (3) Any other provision regulating the application, making, brokering, or 
+servicing of mortgage loans under Titles 12 t hrough 14 of the Commercial Law Article.  
+ 
+ (b) Subject to approval by the Commissioner, nothing in this section is to be 
+construed to prohibit a licensee from maintaining duplicate records or electronic 
+equivalents at the licensee’s [place of business ] LICENSED LOCATION . 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 43 –  
+ (c) Notwithstanding subsection (a) of this section, on approval of the 
+Commissioner, a licensee need not keep at the licensee’s [place of business ] LICENSED 
+LOCATION  any books and records otherwise required by the Commissioner under 
+subse ction (a) of this section if the licensee:  
+ 
+  (1) Makes the books and records available to the Commissioner at the 
+licensee’s [place of business ] LICENSED LOCATION  within 5 business days [of] AFTER  the 
+Commissioner’s official request; and  
+ 
+  (2) Retains th e records for at least 61 months in a storage facility disclosed 
+to the Commissioner.  
+ 
+11–601. 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  
+ 
+ (f) “Fund” means the [Nondepository ] NON–DEPOSITORY  Special Fund 
+established under [§ 11–610] § 2–120 of this [subtitle ] ARTICLE . 
+ 
+11–602. 
+ 
+ (c) Each licensee shall obtain and maintain a valid unique identifier issued by 
+[the Nationwide Mortgage Licensing System and Registry ] NMLS : 
+ 
+  (1) On obtaining an initial or renewal license on or aft er July 1, 2009; or  
+ 
+  (2) If the Commissioner has not joined [the Nationwide Mortgage 
+Licensing System and Registry ] NMLS  as of July 1, 2009, on or after the date that the 
+Commissioner joins, as instructed by the Commissioner by notice to the licensee.  
+ 
+[11–610. 
+ 
+ (a) There is a Nondepository Special Fund that consists of:  
+ 
+  (1) Revenue received for the licensing of individuals under this subtitle;  
+ 
+  (2) Revenue received for the licensing of persons under Subtitle 2 of this 
+title;  
+ 
+  (3) Revenue received  for the licensing of persons under Subtitle 3 of this 
+title;  
+ 
+  (4) Revenue received for the licensing of persons under Subtitle 4 of this 
+title;  
+ 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 44 –   (5) Revenue received for the licensing of persons under Subtitle 5 of this 
+title;  
+ 
+  (6) Revenue received for the licensing of persons under Title 12, Subtitle 1 
+of this article;  
+ 
+  (7) Revenue received for the licensing of persons under Title 12, Subtitle 4 
+of this article;  
+ 
+  (8) Revenue received for the licensing of persons under Title 12, Subtitle 9 
+of thi s article;  
+ 
+  (9) Revenue received for the registration of persons under Title 12, Subtitle 
+10 of this article;  
+ 
+  (10) Revenue received for the licensing of persons under Title 7 of the 
+Business Regulation Article;  
+ 
+  (11) Revenue received for the licensi ng of persons under Title 14, Subtitle 
+19 of the Commercial Law Article;  
+ 
+  (12) Income from the investments that the State Treasurer makes for the 
+Fund; and  
+ 
+  (13) (i) Any other fee, examination or investigation fee or assessment, or 
+revenue received by the Commissioner under this subtitle, Subtitles 2, 3, 4, and 5 of this 
+title, Title 12, Subtitles 1, 4, 9, and 10 of this article, Title 12, Subtitle 14 of the Commercial 
+Law Article, and Title 14, Subtitles 12 and 19 of the Commercial Law Article; and  
+ 
+   (ii) Any other fee or revenue received by the State Collection Agency 
+Licensing Board under Title 7 of the Business Regulation Article.  
+ 
+ (b) Notwithstanding subsection (a) of this section:  
+ 
+  (1) The Commissioner shall pay all fines and penalties collect ed by the 
+Commissioner under Title 2, Subtitle 1 of this article, this subtitle, Subtitles 2, 3, 4, and 5 
+of this title, Title 12, Subtitles 1, 4, 9, and 10 of this article, Title 12, Subtitle 14 of the 
+Commercial Law Article, and Title 14, Subtitles 12 an d 19 of the Commercial Law Article 
+into the General Fund of the State; and  
+ 
+  (2) The State Collection Agency Licensing Board shall pay all fines and 
+penalties collected by the Board under Title 7 of the Business Regulation Article into the 
+General Fund of  the State.  
+ 
+ (c) The purpose of the Fund is to cover the direct and indirect costs of fulfilling 
+the statutory and regulatory duties of the Commissioner and the State Collection Agency 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 45 – Licensing Board related to:  
+ 
+  (1) Title 2, Subtitle 1 of this article ; 
+ 
+  (2) This subtitle;  
+ 
+  (3) Subtitle 2 of this title;  
+ 
+  (4) Subtitle 3 of this title;  
+ 
+  (5) Subtitle 4 of this title;  
+ 
+  (6) Subtitle 5 of this title;  
+ 
+  (7) Title 12, Subtitle 1 of this article;  
+ 
+  (8) Title 12, Subtitle 4 of this article;  
+ 
+  (9) Title 12, Subtitle 9 of this article;  
+ 
+  (10) Title 12, Subtitle 10 of this article;  
+ 
+  (11) Title 7 of the Business Regulation Article;  
+ 
+  (12) Title 12 of the Commercial Law Article;  
+ 
+  (13) Title 14, Subtitles 12, 19, and 42 of the Commercial Law Articl e; 
+ 
+  (14) Title 7, Subtitles 1, 3, 4, and 5 of the Real Property Article;  
+ 
+  (15) Title 26, Subtitle 6 of the Education Article; and  
+ 
+  (16) Any other expense authorized in the State budget.  
+ 
+ (d) (1) The annual State budget shall include the costs and expenses of the 
+Commissioner and the State Collection Agency Licensing Board relating to subsection (c) 
+of this section.  
+ 
+  (2) Any expenditures from the Fund to cover costs and expenses of the 
+Commissioner and the State Collection Agency Licensing Board r elating to subsection (c) 
+of this section may be made only:  
+ 
+   (i) With an appropriation from the Fund approved by the General 
+Assembly in the annual State budget; or  
+ 
+   (ii) By the budget amendment procedure provided for in § 7 –209 of 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 46 – the State Finance and Procurement Article.  
+ 
+  (3) If, in any fiscal year, the amount of the revenue collected by the 
+Commissioner and the State Collection Agency Licensing Board and deposited into the 
+Fund exceeds the actual appropriation for the Commissioner and the State Collection 
+Agency Licensing Board under paragraph (2)(i) of this subsection, the excess amount shall 
+be carried forward within the Fund.  
+ 
+ (e) (1) The State Treasurer is the custodian of the Fund.  
+ 
+  (2) The State Treasurer shall deposit payments received from the 
+Commissioner into the Fund.  
+ 
+ (f) (1) (i) The Fund is a special, nonlapsing fund that is not subject to §  
+7–302 of the State Finance and Procurement Article.  
+ 
+   (ii) The Fund may not be deemed a part of the General Fund of the 
+State.  
+ 
+  (2) Unle ss otherwise provided by law, no part of the Fund may revert or be 
+credited to:  
+ 
+   (i) The General Fund of the State; or  
+ 
+   (ii) Any other special fund of the State. ] 
+ 
+11–612.1.  
+ 
+ (a) The Commissioner shall set by regulation the fees provided for in this  subtitle.  
+ 
+ (b) The fees established by the Commissioner under this section shall be 
+reasonable and set in a manner that will produce funds sufficient to cover the actual direct 
+and indirect costs of regulating licensees in accordance with the provisions of this subtitle.  
+ 
+ (c) The Commissioner shall publish the fee schedule set by the Commissioner.  
+ 
+ (D) ALL REVENUE RECEIVED FOR THE LICENSING AN D ASSESSMENT OF 
+PERSONS UNDER THIS S UBTITLE AND ANY OTHE R FEE OR REVENUE THE  
+COMMISSIONER RECEIVES  UNDER THIS SU BTITLE SHALL BE : 
+ 
+  (1) CREDITED TO THE FUND; AND 
+ 
+  (2) USED IN ACCORDANCE WI TH § 2–120( D) OF THIS ARTICLE . 
+ 
+ (E) SUBJECT TO § 2–120( H) OF THIS ARTICLE , THE COMMISSIONER MAY 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 47 – IMPOSE AN ANNUAL ASS ESSMENT ON ANY LICEN SEE UNDER THIS SUBTI TLE. 
+ 
+12–101. 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  
+ 
+ (b) [“Branch location” means any location other than the principal executive office 
+of a licensee or license applicant at which the licensee conducts, or the license applicant, on 
+licensure , will conduct, activities required to be licensed under this subtitle.  
+ 
+ (c)] (1) “Control person” means a person who has the power, directly or 
+indirectly, to direct the management or policies of a licensee or license applicant, whether 
+through ownership  of securities, by contract, or otherwise.  
+ 
+  (2) “Control person” includes a person who:  
+ 
+   (i) Is a general partner, an officer, a director, or a member, or 
+occupies a similar position or performs a similar function;  
+ 
+   (ii) Directly or indirectly has the right to vote 5% or more of a class 
+of voting securities, or has the power to sell or direct the sale of 5% or more of a class of 
+voting securities, of a licensee or license applicant; or  
+ 
+   (iii) In the case of a partnership, a limited partnership, a  limited 
+liability partnership, a limited liability company, or any other business entity:  
+ 
+    1. Has the right to receive on liquidation or dissolution of a 
+licensee or license applicant 5% or more of the capital of the licensee or license applicant; 
+or 
+ 
+    2. Has contributed 5% or more of the capital of a licensee or 
+license applicant.  
+ 
+ [(d)] (C) “Exempt entity” means an entity that is exempt from all requirements 
+of licensing as provided under § 12 –103(b) and (c) of this subtitle.  
+ 
+ [(e)] (D) “License ” means a license issued in any form by the Commissioner 
+under this subtitle to provide check cashing services, including as provided for through 
+NMLS.  
+ 
+ (E) (1) “LICENSED LOCATION ” MEANS ANY LOCATION L ISTED BY THE 
+LICENSEE IN NMLS  IN ACCORDANCE WITH T HIS SUBTITLE . 
+ 
+  (2) “LICENSED LOCATION ” INCLUDES A MOBILE UN IT. 
+ 
+ (F) “LICENSED NAME ” MEANS : 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 48 –  
+  (1) THE LICENSEE ’S LEGAL NAME ; AND 
+ 
+  (2) ANY TRADE NAME USED B Y THE LICENSEE IN AC CORDANCE WITH 
+§ 2–121 OF THIS ARTICLE . 
+ 
+ [(f)] (G) “Licensee” means a person licensed under this subtitle to provide check 
+cashing services.  
+ 
+ [(g)] (H) “Mobile unit” means a motor vehicle or other movable means from 
+which check cashing services are provided.  
+ 
+ [(h)] (I) (1) “Payment instrument” means a check or a draft ordering a 
+person to pay money.  
+ 
+  (2) “Payment instrument” includes a money order.  
+ 
+ [(i)] (J) “Provide check cashing services” means to accept or cash, for 
+compensation, a payment instrument regardless of the date of the payment instrument.  
+ 
+ [(j)] (K) “Unique iden tifier” means a number or another identifier assigned by 
+NMLS.  
+ 
+12–104.1.  
+ 
+ (a) All revenue received for the licensing AND ASSESSMENT  of persons under this 
+subtitle and any other fee or revenue received by the Commissioner under this subtitle 
+shall be:  
+ 
+  (1) Credited to the [Nondepository ] NON–DEPOSITORY  Special Fund 
+established under [§ 11–610] § 2–120 of this article; and  
+ 
+  (2) Used in accordance with [§ 11–610(c) ] § 2–120( D) of this article.  
+ 
+ (C) SUBJECT TO § 2–120( H) OF THIS ARTICLE , THE COMMISSIONER  MAY 
+IMPOSE AN ANNUAL ASS ESSMENT ON ANY LICEN SEE UNDER THIS SUBTI TLE. 
+ 
+12–105. 
+ 
+ (b) A [separate license is required for the principal executive office of the license 
+applicant or licensee at which, each branch location at which, and each mobile unit from 
+which, a person provides check cashing services ] LICENSEE MAY PROVIDE  CHECK 
+CASHING SERVICES ONL Y AT A LICENSED LOCA TION OR AS OTHERWISE  AUTHORIZED 
+BY THE COMMISSIONER THROUGH REGULATION . 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 49 –  
+12–106. 
+ 
+ To qualify for a license, an applicant shall satisfy the Commissioner that:  
+ 
+  (1) The applicant’s business will promote the convenience and advantage 
+of the [community in which ] COMMUNITIES WHERE  the [applicant’s place of business, or 
+mobile unit, will be located ] APPLICANT WILL OPERA TE A LICENSED LOCATI ON 
+OFFERING CHECK CASHI NG SERVICES ; and  
+ 
+  (2) The applicant or, if the applicant is not an individual, each of the 
+owners, officers, directors, or principals of the entity:  
+ 
+   (i) Has sufficient experience, charac ter, financial responsibility, and 
+general fitness to:  
+ 
+    1. Command the confidence of the public; and  
+ 
+    2. Warrant the belief that the business will be operated 
+lawfully, honestly, fairly, and efficiently; and  
+ 
+   (ii) Has not committed any act that would be a ground for suspension 
+or revocation of a license under this subtitle.  
+ 
+12–108. 
+ 
+ (a) (2) The application shall include:  
+ 
+   (i) The applicant’s LEGAL name [, the] AND  ANY TRADE NAME 
+USED BY THE APPLICAN T IN ACCORDANCE WITH  § 2–121 OF THIS ARTICLE ; 
+ 
+   (II) THE applicant’s principal executive office address [, and, if ]; 
+ 
+   (III) IF the applicant is not an individual, the name and residence 
+address of each control person;  
+ 
+   [(ii)] (IV) The address of each [branch ] ADDITIONAL  location, if 
+any, THAT : 
+ 
+    1. THE GENERAL PUBLIC MA Y REASONABLY VIEW AS  A 
+LOCATION THAT PROVID ES CHECK CASHING SER VICES , INCLUDING ANY LOCATI ON 
+THAT INVESTIGATES CU STOMER COMPLAINTS OR  DIRECTLY COMMUNICATE S WITH 
+CUSTOMERS VERBALLY , ELECTRONICALLY , OR IN WRITING ; 
+ 
+    2. HOUSE S ANY CORE OPERATION AL INFRASTRUCTURE 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 50 – OR TECHNOLOGY SYSTEM S; 
+ 
+    3. CONDUCTS ANY CORE MAN AGEMENT , INFORMATION 
+SECURITY AND TECHNOL OGY, RISK AND COMPLIANCE , OR FINANCE FUNCTIONS ; OR 
+ 
+    4. IS OTHERWISE REQUIRED  TO BE LISTED IN NMLS  BY 
+REGULATION THE COMMISSIONER ADOPTS U NDER THIS SUBTITLE ; 
+ 
+   [(iii)] (V) If the [license is for ] LICENSEE OPERATES  a mobile unit, 
+the vehicle identification number of [the] EACH mobile unit and the geographic area [in 
+which the ] WHERE EACH mobile unit will be operating; a nd 
+ 
+   [(iv)] (VI) Any other information that the Commissioner requires for 
+an investigation and findings under § 12 –109 of this subtitle.  
+ 
+ [(c) For the principal executive office, each branch location, and each mobile unit 
+license for which an applicant applies, the applicant shall:  
+ 
+  (1) Submit a separate application; and  
+ 
+  (2) Pay a separate investigation fee and license fee. ] 
+ 
+[12–110. 
+ 
+ (a) (1) Each license provided for through NMLS shall include the following 
+information:  
+ 
+   (i) The name of the licensee;  
+ 
+   (ii) 1. The address of  the location at which check cashing services 
+will be provided; or   
+ 
+    2. If the license  is for  a mobile unit, the vehicle identification 
+number of the mobile unit and the geographic area in which check cashing service s will be 
+provided; and  
+ 
+   (iii) The unique identifier of the licensee.  
+ 
+  (2) The unique identifier of the licensee shall constitute the license number 
+for the license.  
+ 
+ (b) (1) A license authorizes the licensee to provide check cashing services 
+under the name stated on the license and at the location  at which, or if the license is for a 
+mobile unit the geographic area in which, check cashing services will be provided.  
+ 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 51 –   (2) Only one location, or one mobile unit, may be maintained under any one 
+license . 
+ 
+ (c) Subject to § 12 –105(b) of this subtitle, the Commissioner may issue more than 
+one license to an applicant who:  
+ 
+  (1) Conducts activities for which a license is required at more than one 
+location;  
+ 
+  (2) Complies with § 12 –108 of this subtitle; and  
+ 
+  (3) Otherwise meets the requirements of this subtitle. ] 
+ 
+12–110. 
+ 
+ (A) INFORMATION IN NMLS  ASSOCIATED WITH A LI CENSE APPROVED BY 
+THE COMMISSIONER UNDER TH IS SUBTITLE SHALL IN CLUDE THE FOLLOWING : 
+ 
+  (1) THE LICENSEE ’S LEGAL NAME AND ANY TRADE NAME USED BY 
+THE LICENSEE IN ACCO RDANCE WITH § 2–121 OF THIS ARTICLE ; 
+ 
+  (2) THE ADDRESS OF THE LI CENSEE’S PRINCIPAL EXECUTIV E 
+OFFICE ; 
+ 
+  (3) THE ADDRESS OF EACH A DDITIONAL LOCATION , IF ANY , WHERE 
+THE LICENSEE DOES BU SINESS AND THAT : 
+ 
+   (I) THE GENERAL PUBLIC MA Y R EASONABLY VIEW AS A 
+LOCATION THAT OFFERS  CHECK CASHING SERVIC ES, INCLUDING ANY LOCATI ON 
+THAT INVESTIGATES CU STOMER COMPLAINTS OR  DIRECTLY COMMUNICATE S WITH 
+CUSTOMERS VERBALLY , ELECTRONICALLY , OR IN WRITING ; 
+ 
+   (II) HOUSES ANY CORE OPERA TIONAL INFRASTRUCTURE OR 
+TECHNOLOGY SYSTEMS ; 
+ 
+   (III) CONDUCTS ANY CORE MAN AGEMENT , INFORMATION 
+SECURITY AND TECHNOL OGY, RISK AND COMPLIANCE , OR FINANCE FUNCTIONS ; OR 
+ 
+   (IV) IS OTHERWISE REQUIRED  TO BE LISTED IN NMLS  BY 
+REGULATION THE COMMISSIONER ADOPTS U NDER  THIS SUBTITLE ; AND 
+ 
+  (4) THE INFORMATION REQUI RED BY § 12–108( A)(2)( V) OF THIS 
+SUBTITLE FOR EACH MO BILE UNIT , IF ANY , OF THE LICENSEE . 
+ 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 52 –  (B) A LICENSEE SHALL MAINT AIN AND UPDATE THE I NFORMATION IN 
+NMLS  ASSOCIATED WITH THE LICENSEE ’S LICENSE TO REFLECT  ACCURATELY AT 
+ALL TIMES THE INFORM ATION REQUIRED BY SU BSECTION (A) OF THIS SECTION . 
+ 
+ (C) THE UNIQUE IDENTIFIER  ASSIGNED BY NMLS  TO A LICENSEE SHALL 
+CONSTITUTE THE LICEN SEE’S LICENSE NUMBER . 
+ 
+ (D) A LICENSE AUTHORIZES T HE LICENSEE TO DO BU SINESS UNDER THE 
+LICENSE AT ANY LICENSE D LOCATION , UNDER ANY LICENSED N AME AND , FOR EACH 
+MOBILE UNIT , IN THE GEOGRAPHIC AR EA LISTED FOR THE MO BILE UNIT IN NMLS,  
+OR AS OTHERWISE AUTH ORIZED BY THE COMMISSIONER THROUGH REGULATION . 
+ 
+12–112. 
+ 
+ (b) (1) Each licensee shall conspicu ously post, in 48 point or larger type, at 
+[the licensee’s ] EACH  licensed location [or mobile unit ] the following information:  
+ 
+   (i) The licensee’s unique identifier; and  
+ 
+   (ii) A statement advising consumers of the availability of the NMLS 
+Consumer Access website to verify the licensing status of the licensee.  
+ 
+ (c) A licensee is not required to post the information required in subsection (b)(1) 
+of this section AT A LICENSED LOCATI ON if THE LICENSED LOCATIO N IS NOT A MOBILE 
+UNIT AND the licensee does  not regularly grant access to [the] THAT  licensed location to 
+members of the general public.  
+ 
+[12–113. 
+ 
+ A licensee may not change the location for which a license is issued unless the  
+licensee:  
+ 
+  (1) Provides to the Commissioner, in the form and in accordance with the  
+process that the Commissioner requires, notice of the proposed change; and  
+ 
+  (2) Receives the consent of the Commissioner through NMLS prior to the 
+change. ] 
+ 
+12–113. 
+ 
+ (A) A LICENSEE MAY NOT ADD , DELETE , OR MODIFY A LOCATION  REQUIRED 
+TO BE LISTED IN NMLS  UNDER § 12–110( A)(2),  (3), OR (4) OF THIS SUBTITLE 
+UNLESS : 
+ 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 53 –   (1) THE LICENSEE PROVIDES  TO THE COMMISSIONER , THROUGH 
+NMLS  AND IN ACCORDANCE WI TH ANY REGULATIONS T HE COMMISSIONER ADOPTS , 
+NOTICE OF THE ADDITI ON, DELETION , OR MODIFICATION ; 
+ 
+  (2) THE ADDITION , DELETION , OR MODIFICATION OF T HE LOCATION 
+IS RECORDED WITH THE  INFORMATION ASSOCIAT ED WITH THE LICENSEE ’S LICENSE 
+IN NMLS;  AND 
+ 
+  (3) THE ADDITION , DELETION , OR MODIFICATION OF T HE LOCATION 
+OTHERWISE COMPLIES W ITH THIS SUBTITLE . 
+  
+ (B) THE LICENSEE MAY NOT DO BUSINESS AT A LOC ATION OR IN A 
+GEOGRAPHIC AREA REQU IRED TO BE LISTED IN  NMLS  BY § 12–110( A)(2),  (3), OR 
+(4) OF THIS SUBTITLE UNT IL THE LOCATION OR G EOGRAPHIC AREA IS RE CORDED 
+WITH THE INFORMATION  ASSOCIATED WITH THE LICENSEE ’S LIC ENSE IN NMLS.  
+ 
+12–114. 
+ 
+ (c) A licensee may retain the records required under this subtitle at any location, 
+[provided that ] IF the licensee:  
+ 
+  (1) Notifies the Commissioner in writing of the location of the records; and  
+ 
+  (2) Makes the records available  at [a place of business for which a license 
+has been issued or at the licensee’s principal place of business ] THE LICENSED LOCATIO N, 
+as agreed by the Commissioner and the licensee, within 7 days [of] AFTER  a written 
+request for examination by the Commissi oner.  
+ 
+12–118. 
+ 
+ A licensee shall conspicuously post, in 48 point or larger type, at each [place of 
+business at which, or mobile unit from which, ] LICENSED LOCATION WH ERE the licensee 
+provides check cashing services:  
+ 
+  (1) A notice of the fees for check cashing services; and  
+ 
+  (2) The phone number of the Commissioner for customers to file 
+complaints.  
+ 
+12–401. 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  
+ 
+ (c) [(1)] “Authorized delegate” means a person who is authorized by a lic ensee 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 54 – to engage in the business of money transmission under [the name of the licensee ] A 
+LICENSED NAME at any location other than [the place of business specified in the license ] 
+A LICENSED LOCATION . 
+ 
+  [(2) “Authorized delegate” does not include a branch location of a licensee. ] 
+ 
+ [(e) (1) “Branch location” means any location other than the principal executive 
+office of a licensee or license applicant at which money transmission services are, or will be 
+on licensure, conducted in the State or with a person  in the State.  
+ 
+  (2) “Branch location” does not include an authorized delegate. ] 
+ 
+ (K) (1) “LICENSED LOCATION ” MEANS ANY LOCATION L ISTED BY THE 
+LICENSEE IN NMLS  IN ACCORDANCE WITH T HIS SUBTITLE . 
+ 
+  (2) “LICENSED LOCATION ” INCLUDES A SELF –SERVICE FINANCIAL  
+KIOSK . 
+ 
+  (3) “LICENSED LOCATION ” DOES NOT INCLUDE AN AUTHORIZED 
+DELEGATE . 
+ 
+ (L) “LICENSED NAME ” MEANS : 
+ 
+  (1) THE LICENSEE ’S LEGAL NAME ; AND 
+ 
+  (2) ANY TRADE NAME USED B Y THE LICENSEE IN AC CORDANCE WITH 
+§ 2–121 OF THIS ARTICLE . 
+ 
+ [(k–1)] (M) “Licensee” m eans a person licensed under this subtitle to engage in the 
+business of money transmission.  
+ 
+12–404. 
+ 
+ (a) All revenue received for the licensing AND ASSESSMENT  of money 
+transmitters under this subtitle and any other fee, examination assessment, or revenue  
+received by the Commissioner under this subtitle shall be:  
+ 
+  (1) Credited to the [Nondepository ] NON–DEPOSITORY  Special Fund 
+established under [§ 11–610] § 2–120 of this article; and  
+ 
+  (2) Used in accordance with [§ 11–610(c) ] § 2–120( D) of this article.  
+ 
+ (C) SUBJECT TO § 2–120( H) OF THIS ARTICLE , THE COMMISSIONER MAY 
+IMPOSE AN ANNUAL ASS ESSMENT ON ANY LICEN SEE UNDER THIS SUBTI TLE. 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 55 –  
+12–406. 
+ 
+ (a) To qualify for a license, an applicant shall satisfy the Commissioner that the 
+applicant:  
+ 
+  (3) Has a tangible net worth computed according to generally accepted 
+accounting principles of at least $150,000, plus an additional net worth of $10,000 for each 
+[additional branch ] LICENSED location or authorized delegate, up to a maximum of 
+$500,000 as prov ided in subsection (b) of this section; and  
+ 
+12–407. 
+ 
+ (b) An applicant shall provide:  
+ 
+  [(1) The trade name of the applicant, as filed with the State Department of 
+Assessments and Taxation under § 1 –406 of the Corporations and Associations Article, and 
+any fictitious or other name used by the applicant in the conduct of the applicant’s 
+business; ] 
+ 
+  (1) THE APPLICANT ’S LEGAL NAME AND ANY  TRADE NAME USED BY 
+THE APPLICANT IN ACC ORDANCE WITH § 2–121 OF THIS ARTICLE ; 
+ 
+  (2) (I) The address of the principal ex ecutive office of the applicant [, 
+each branch location, and each self –service financial kiosk ]; 
+ 
+   (II) THE ADDRESS OF EACH  ADDITIONAL  LOCATION , IF ANY , 
+THAT : 
+ 
+    1. THE GENERAL PUBLIC MA Y REASONABLY VIEW AS  A 
+LOCATION THAT ENGAGE S IN THE BUSINESS OF  MONEY TRANSMISSION , INCLUDING 
+ANY LOCATION THAT IN VESTIGATES CUSTOMER COMPLAINTS OR DIRECT LY 
+COMMUNICATES WITH CU STOMERS VERBALLY , ELECTRONICALLY , OR IN WRITING ; 
+ 
+    2. HOUSES ANY CORE OPERA TIONAL INFRASTRUCTUR E 
+OR TECHNOLOGY SYSTEM S;  
+ 
+    3. CONDUCTS AN Y CORE MANAGEMENT , INFORMATION 
+SECURITY AND TECHNOL OGY, RISK AND COMPLIANCE , OR FINANCE FUNCTIONS ; OR 
+ 
+    4. IS OTHERWISE REQUIRED  TO BE LISTED IN NMLS  BY 
+REGULATION THE COMMISSIONER ADOPTS U NDER THIS SUBTITLE ; AND  
+ 
+   (III) IF THE LICENSEE OPERA TES A SEL F–SERVICE FINANCIAL 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 56 – KIOSK , THE FOLLOWING INFORM ATION FOR EACH SELF –SERVICE FINANCIAL KI OSK: 
+ 
+    1. UNIQUE IDENTIFYING IN FORMATION FOR THE  
+SELF–SERVICE FINANCIAL KI OSK, SUCH AS THE MANUFACT URER NAME , MODEL 
+NUMBER , SERIAL NUMBER , OR ASSET TAG ; 
+ 
+    2. IF THE LICENSEE INTEN DS TO OPERATE THE  
+SELF–SERVICE FINANCIAL KI OSK FROM ANY FIXED L OCATION FOR MORE THA N 30 
+DAYS IN A CALENDAR Y EAR, EACH PHYSICAL ADDRES S WHERE THE SELF –SERVICE 
+FINANCIAL KIOSK WILL  BE OPERATED ; AND 
+ 
+    3. IF THE LICENSEE INTEN DS TO OPE RATE THE  
+SELF–SERVICE FINANCIAL KI OSK AT ANY LOCATION FOR 30 DAYS OR LESS IN A 
+CALENDAR YEAR , THE GEOGRAPHIC AREA WHERE THE LICENSEE I NTENDS TO 
+OPERATE THE SELF –SERVICE FINANCIAL KI OSK; 
+ 
+ [(h) (1) In addition to any license required under §§ 12 –405 and 12 –410 of this 
+subtitle, each money transmitter shall obtain and maintain a license for its principal 
+executive office.  
+ 
+  (2) For each branch location license for which an applicant applies, the 
+applicant shall:  
+ 
+   (i) Submit a separate application;  
+ 
+   (ii) Pay a separate nonrefundable license fee of $1,000; and  
+ 
+   (iii) Pay the application processing fee that NMLS imposes in 
+connection with processing the application for the branch location.  
+ 
+  (3) For each self –service financial kiosk license for wh ich an applicant 
+applies, the applicant shall:  
+ 
+   (i) Submit a separate application;  
+ 
+   (ii) Pay a separate nonrefundable license fee of $500; and  
+ 
+   (iii) Pay the application processing fee that NMLS imposes in 
+connection with processing the applica tion for the self –service financial kiosk.  
+ 
+  (4) If an applicant has or is applying for more than one license, the 
+applicant may comply with subsection (g) of this section by filing evidence of only one surety 
+device.  
+ 
+  (5) If an applicant has or is app lying for more than one license, the 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 57 – applicant is not required to pay a separate investigation fee. ] 
+ 
+12–410. 
+ 
+ [(a) (1) Each license provided for through NMLS shall include the following 
+information:  
+ 
+   (i) The name of the licensee;  
+ 
+   (ii) The trade name of the licensee;  
+ 
+   (iii) The address at which the business is to be conducted; and  
+ 
+   (iv) The unique identifier of the licensee.  
+ 
+  (2) The unique identifier of the licensee shall constitute the license number 
+for the license.  
+ 
+ (b) (1) A license authorizes the licensee to do business under the license, at the 
+licensed place of business.  
+ 
+  (2) A license does not authorize the licensee to accept deposits or engage 
+otherwise in a banking business except as authorized in this subtitle.  
+ 
+  (3) Only on e place of business may be maintained under any one license.  
+ 
+ (c) The Commissioner may issue more than one license to an applicant who:  
+ 
+  (1) Complies with § 12 –407 of this subtitle; and  
+ 
+  (2) Otherwise meets the requirements of this subtitle. ] 
+ 
+ (A) INFORMATION IN NMLS  ASSOCIATED WITH A LI CENSE APPROVED BY 
+THE COMMISSIONER UNDER TH IS SUBTITLE SHALL IN CLUDE THE FOLLOWING : 
+ 
+  (1) THE LICENSEE ’S LEGAL NAME AND ANY TRADE NAME USED BY 
+THE LICENSEE IN ACCO RDANCE WITH § 2–121 OF THIS ARTICLE ; 
+ 
+  (2) THE ADDRESS OF THE LICEN SEE’S PRINCIPAL EXECUTIV E 
+OFFICE ; 
+ 
+  (3) THE ADDRESS OF EACH A DDITIONAL LOCATION , IF ANY , WHERE 
+THE LICENSEE DOES BU SINESS AND THAT : 
+ 
+   (I) THE GENERAL PUBLIC MA Y REASONABLY VIEW AS  A 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 58 – LOCATION THAT OFFERS  MONEY TRANSMISSION S ERVICES , INCLUDING ANY 
+LOCATION THAT INVEST IGATES CUSTOMER COMP LAINTS OR DIRECTLY 
+COMMUNICATES WITH CU STOMERS VERBALLY , ELECTRONICALLY , OR IN WRITING ; 
+ 
+   (II) HOUSES ANY CORE OPERA TIONAL INFRASTRUCTUR E OR 
+TECHNOLOGY SYSTEMS ; 
+ 
+   (III) CONDUCTS ANY CORE MAN AGEMENT , INFORMATION 
+SECURITY AND TECHNOL OGY, RISK AND COMPLIANCE , OR FINANCE FUNCTIONS ; OR 
+ 
+   (IV) IS OTHERWISE REQUIRED  TO BE LISTED IN NMLS  BY 
+REGULATION THE COMMISSIONER ADOPTS U NDER THIS SUBTITLE ; AND 
+ 
+  (4) THE INFORMATION REQUI RED BY § 12–407( B)(2)( III) OF THIS 
+SUBTITLE FOR EACH SE LF–SERVICE FINANCIAL KI OSK, IF ANY , OF THE LICENSEE . 
+ 
+ (B) A LICENSEE SHALL MAINT AIN AND UPDATE THE I NFORMATION IN 
+NMLS  ASSOCIATED WITH THE LICENSEE ’S LICENSE TO REFLECT  ACCURATELY AT 
+ALL TIMES THE INFORM ATION REQUIRED BY SU BSECTIO N (A) OF THIS SECTION . 
+ 
+ (C) THE UNIQUE IDENTIFIER  ASSIGNED BY NMLS  TO A LICENSEE SHALL 
+CONSTITUTE THE LICEN SEE’S LICENSE NUMBER . 
+ 
+ (D) A LICENSE AUTHORIZES T HE LICENSEE TO DO BU SINESS UNDER THE 
+LICENSE AT ANY LICEN SED LOCATION , UNDER ANY LICENSED N AME AND , FOR EACH  
+SELF–SERVICE FINANCIAL KI OSK, THE ADDRESS OR GEOGR APHIC AREA LISTED FO R 
+THE SELF –SERVICE FINANCIAL KI OSK IN NMLS,  OR AS OTHERWISE AUTH ORIZED BY 
+THE COMMISSIONER THROUGH REGULATION . 
+ 
+ [(d)] (E) A license may not be transferred or assigned.  
+ 
+ [(e)] (F) (1) Each licensee shall conspicuously post, in 48 point or larger type, 
+at [the licensee’s ] EACH  licensed location the following information:  
+ 
+   (i) The licensee’s unique identifier; and  
+ 
+   (ii) A statement advising consumers of the availability  of the NMLS 
+Consumer Access website to verify the licensing status of the licensee.  
+ 
+  (2) Each authorized delegate,  at each location open to the public, shall 
+conspicuously post, in at least [48–point ] 48 POINT  type,  the following information:  
+ 
+   (i) A notice stating,  “the Commissioner of Financial Regulation for 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 59 – the State of Maryland will accept all questions or complaints regarding this authorized 
+delegate of (name of licensee  and unique identifier) at (address of Commissioner), phone 
+(toll–free phone number of the Commissioner)”; and  
+ 
+   (ii) A statement advising consumers of the availability of the NMLS 
+Consumer Access website to verify the licensing status of the licensee.  
+ 
+  (3) Each licensee shall conspicuously display the following information on 
+the licensee ’s website, a ny mobile application through which the services are offered, the 
+outside of the self –service financial kiosk, any software application accessible to the public 
+and used for money transmission services, and profile page within each  social media 
+platform the licensee uses:  
+ 
+   (i) The licensee ’s unique identifier;  
+ 
+   (ii) A link to the NMLS Consumer Access website; and  
+ 
+   (iii) A notice stating, “The Commissioner of Financial Regulation for 
+the State of Maryland will accept all que stions or complaints from Maryland residents 
+regarding (name of licensee and unique identifier) at (address of Commissioner), phone 
+(toll–free phone number of the Commissioner)”.  
+ 
+ [(f)] (G) A licensee is not required to post the information  required in su bsection 
+[(e)(1) ] (F)(1) of this section AT A LICENSED LOCATI ON if the LICENSED LOCATION IS  
+NOT A SELF –SERVICE FINANCIAL KI OSK AND THE licensee does not regularly grant 
+access to [the] THAT licensed location to members of the general public.  
+ 
+12–412. 
+ 
+ (a) (1) In this section [, “trust ] THE FOLLOWING WORDS HAVE THE 
+MEANINGS INDICATED . 
+ 
+  (2) “AVERAGE DAILY MONEY T RANSMISSION LIABILIT Y” MEANS THE 
+AMOUNT OF THE APPLIC ANT’S OR LICENSEE ’S OUTSTANDING MONEY TRANSMISSION 
+OBLIGATIONS IN THE STATE AT THE END OF E ACH  DAY IN A GIVEN QUART ER, ADDED 
+TOGETHER AND DIVIDED  BY THE TOTAL NUMBER OF DAYS IN THAT QUAR TER. 
+ 
+  (3) “TRUST  company” has the meaning stated in § 1 –101 of the Estates 
+and Trusts Article.  
+ 
+ (d) (1) The amount of the surety bond under subsection (b) of this section or 
+the deposit in lieu of a surety bond under subsection (c) of this section shall be [in an 
+amount of not less than ] THE GREATER OF : 
+ 
+   (I) $150,000 [and not more than $1,000,000, as dete rmined by the 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 60 – Commissioner ]; OR 
+ 
+   (II) 100%  OF THE APPLICANT ’S AVERAGE DAILY MONE Y 
+TRANSMISSION LIABILI TY IN THE STATE CALCULATED FOR THE MOST RECENTLY 
+COMPLETED QUARTER , UP TO A MAXIMUM OF $2,000,000 . 
+ 
+  [(2) In setting the amount of the surety bond or the deposit in lieu of a surety 
+bond, the Commissioner shall  consider:  
+ 
+   (i) The financial condition of the licensee or applicant;  
+ 
+   (ii) For a licensee, the average monthly outstanding money 
+transmission liability for the previous 12 months;  
+ 
+   (iii) For an applicant, the projected monthly money transmission s 
+volume in the State, the business experience, and any other factor deemed appropriate; and  
+ 
+   (iv) The potential loss of money transmission s by persons for whom 
+or to whom money is transmitted i f the applicant or licensee becomes financially impaired. ] 
+ 
+  (2) THE QUARTERS FOR CALC ULATING THE AVERAGE DAILY MONEY 
+TRANSMISSION LIABILI TY UNDER PARAGRAPH (1) OF THIS SUBSECTION F OR ANY 
+LICENSEE REQUIRED TO  DO SO SHALL BE THE Q UARTERS ENDING MARCH 31, JUNE 
+30, SEPTEMBER 30, AND DECEMBER 31. 
+ 
+12–415. 
+ 
+ [(a) (1) A licensee may not change the place of business for which a license is  
+issued unless the licensee:  
+ 
+   (i) Notifies the Commissioner through NMLS of the proposed 
+change; and  
+ 
+   (ii) Receives the a pproval of the Commissioner through NMLS.  
+ 
+  (2) Within 60 days after receiving a request for approval of a proposed 
+change in the place of business for a licensee, the Commissioner shall approve or deny the 
+request.  
+ 
+  (3) If the Commissioner does not deny a request for approval of a proposed 
+change in the place of business for a licensee as provided under paragraph (2) of this 
+subsection, the request shall be deemed approved. ] 
+ 
+ (A) (1) A LICENSEE MAY NOT ADD , DELETE , OR MODIFY A LOCATION  
+ WES MOORE, Governor  Ch. 567  
+ 
+– 61 – REQUIRED TO B E LISTED IN NMLS  UNDER § 12–410( A)(2),  (3), OR (4) OF THIS 
+SUBTITLE UNLESS : 
+  
+   (I) THE LICENSEE PROVIDES  TO THE COMMISSIONER , 
+THROUGH NMLS  AND IN ACCORDANCE WI TH ANY REGULATIONS A DOPTED BY THE 
+COMMISSIONER , NOTICE OF THE ADDITI ON, DELETION , OR MODIFICATI ON; 
+ 
+   (II) THE ADDITION , DELETION , OR MODIFICATION OF T HE 
+LOCATION IS RECORDED  WITH THE INFORMATION  ASSOCIATED WITH THE 
+LICENSEE ’S LICENSE IN NMLS;  AND 
+ 
+   (III) THE ADDITION , DELETION , OR MODIFICATION OF T HE 
+LOCATION OTHERWISE C OMPLIES WITH THIS SU BTITL E. 
+  
+  (2) THE LICENSEE MAY NOT DO BUSINESS AT A LOC ATION OR IN A 
+GEOGRAPHIC AREA REQU IRED TO BE LISTED IN  NMLS  BY § 12–410( A)(2),  (3), OR 
+(4) OF THIS SUBTITLE UNT IL THE LOCATION OR G EOGRAPHIC AREA IS RE CORDED 
+WITH THE INFORMATION  ASSOCIATED WITH THE LICEN SEE’S LICENSE IN NMLS.  
+ 
+12–424. 
+ 
+ (a) The Commissioner may conduct an [on–site] examination of a licensee or AN 
+authorized delegate with not less than 7 business [days] DAYS’ prior notice.  
+ 
+ (b) With good cause, the Commissioner may conduct an [on–site] examination of 
+a licensee or AN authorized delegate with no prior notice.  
+ 
+ (c) The licensee shall pay all reasonably incurred costs of an examination 
+conducted under this section, including a per –day fee set by the Commissioner for each of 
+the Commissione r’s employees engaged in the examination.  
+ 
+ (d) [The on –site] ANY examination may be conducted in conjunction with an 
+examination performed by a representative of a responsible supervisory agency of another 
+state.  
+ 
+ (e) (1) The Commissioner, in lieu of an [on–site] examination, may accept the 
+examination report of a responsible supervisory agency of another state, or a report 
+prepared by an independent accounting firm.  
+ 
+  (2) A report accepted under paragraph (1) of this subsection is considered 
+for all pur poses as an official report of the Commissioner.  
+ 
+ (f) The Commissioner may:  
+ 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 62 –   (1) Examine all books, accounts, and records the Commissioner determines 
+are necessary to conduct a complete examination; and  
+ 
+  (2) Examine under oath any officer, director, or employee of the licensee, 
+or any other individual who may provide information on behalf of the licensee.  
+ 
+12–901. 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  
+ 
+ (b) “Annual gross revenue” means income or revenue from all sourc es, before any 
+expenses or taxes, computed according to generally accepted accounting principles for the 
+preceding fiscal year.  
+ 
+ (c) [“Branch location” means any location other than the principal executive office 
+of a licensee or license applicant at whic h the licensee conducts, or the license applicant, on 
+licensure, will conduct, activities required to be licensed under this subtitle.  
+ 
+ (d)] “Consultation fee” means a fee paid by a consumer to a debt management 
+services provider in connection with the pr ocessing of any application that the consumer 
+makes for debt management services.  
+ 
+ [(e)] (D) “Consumer” means an individual who:  
+ 
+  (1) Resides in the State; and  
+ 
+  (2) Is seeking debt management services or has entered into a debt 
+management services agr eement.  
+ 
+ [(f)] (E) “Consumer education program” means a program or plan that:  
+ 
+  (1) Seeks to improve the financial literacy of consumers regarding personal 
+finance, budgeting, and credit and debt management; and  
+ 
+  (2) Provides counseling tailored to the  needs and circumstances of the 
+consumer with regard to options and strategies for addressing the consumer’s debt 
+problems, including:  
+ 
+   (i) Creating and maintaining a budget;  
+ 
+   (ii) Establishing debt management payment plans with creditors;  
+ 
+   (iii) Negotiating directly with creditors on payment or interest rate 
+relief; and  
+ 
+   (iv) Filing for bankruptcy.  
+ WES MOORE, Governor  Ch. 567  
+ 
+– 63 –  
+ [(g)] (F) (1) “Control person” means a person who has the power, directly or 
+indirectly, to direct the management or policies of a licensee or lic ense applicant, whether 
+through ownership of securities, by contract, or otherwise.  
+ 
+  (2) “Control person” includes a person who:  
+ 
+   (i) Is a general partner, an officer, or a director of a licensee or 
+license applicant, or a member that occupies a simil ar position or performs a similar 
+function;  
+ 
+   (ii) Directly or indirectly has the right to vote 10% or more of a class 
+of voting securities, or has the power to sell or direct the sale of 10% or more of a class of 
+voting securities, of a licensee or lice nse applicant; or  
+ 
+   (iii) In the case of a partnership, a limited partnership, a limited 
+liability partnership, a limited liability company, or any other business entity:  
+ 
+    1. Has the right to receive on liquidation or dissolution of a 
+licensee or lic ense applicant 10% or more of the capital of the licensee or license applicant; 
+or 
+ 
+    2. Has contributed 10% or more of the capital of a licensee or 
+license applicant.  
+ 
+ [(h)] (G) “Debt management counselor” means a permanent, temporary, or 
+contractual e mployee of a debt management services provider or its agent who provides 
+counseling to consumers on behalf of the debt management services provider.  
+ 
+ [(i)] (H) “Debt management services” means receiving funds periodically from a 
+consumer under an agreemen t with the consumer for the purpose of distributing the funds 
+among the consumer’s creditors in full or partial payment of the consumer’s debts.  
+ 
+ [(j)] (I) “Debt management services agreement” means a written contract, plan, 
+or agreement between a debt management services provider and a consumer for the 
+performance of debt management services.  
+ 
+ [(k)] (J) “Debt management services provider” means a person that provides or 
+offers to provide debt management services to a consumer.  
+ 
+ [(k–1)] (K) “License” m eans a license issued in any form by the Commissioner 
+under this subtitle to provide debt management services, including as provided for through 
+NMLS.  
+ 
+ (L) “LICENSED LOCATION ” MEANS ANY LOCATION L ISTED BY THE LICENSE E 
+IN NMLS  IN ACCORDANCE WITH T HIS SUBTI TLE. 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 64 –  
+ (M) “LICENSED NAME ” MEANS : 
+ 
+  (1) THE LICENSEE ’S LEGAL NAME ; AND 
+ 
+  (2) ANY TRADE NAME USED B Y THE LICENSEE IN AC CORDANCE WITH 
+§ 2–121 OF THIS ARTICLE . 
+ 
+ [(l)] (N) “Licensee” means a person licensed under this subtitle to provide debt 
+management services.  
+ 
+ [(m)] (O) “Maintenance fee” means a fee paid by a consumer to a debt 
+management services provider for the maintenance or servicing of the consumer ’s accounts 
+with the consumer ’s creditors in accordance with a debt management services agreement.  
+ 
+ [(n)] (P) “Relative” means any of the following who are related to an individual 
+by blood, marriage, or adoption:  
+ 
+  (1) A spouse;  
+ 
+  (2) A child;  
+ 
+  (3) A sibling;  
+ 
+  (4) A parent;  
+ 
+  (5) A grandparent;  
+ 
+  (6) A grandchild;  
+ 
+  (7) A stepparent;  
+ 
+  (8) A stepchild;  
+ 
+  (9) A stepsibling;  
+ 
+  (10) An aunt; or  
+ 
+  (11) An uncle.  
+ 
+ [(o)] (Q) “Resident agent” means an individual residing in the State or a 
+Maryland corporation whose name, address, and designation as a resident agent are filed 
+or recorded with th e State Department of Assessments and Taxation in accordance with 
+[the provisions of ] the Corporations and Associations Article.  
+ 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 65 –  [(p)] (R) “Trust account” means an account that is:  
+ 
+  (1) Established in a financial institution that is federally insured;  
+ 
+  (2) Separate from the debt management services provider ’s operating 
+account;  
+ 
+  (3) Designated as a “trust account” or by another appropriate designation 
+indicating that the funds in the account are not the funds of the licensee or its officers, 
+employe es, or agents;  
+ 
+  (4) Unavailable to creditors of the debt management services provider; and  
+ 
+  (5) Used to hold funds paid by consumers to a debt management services 
+provider for disbursement to creditors of the consumers.  
+ 
+ [(q)] (S) “Unique identifier” means a number or another identifier assigned by 
+NMLS.  
+ 
+12–904. 
+ 
+ [(a) An applicant shall submit separate applications for the applicant’s principal 
+executive office and each branch location.  
+ 
+ (b)] With the license application [for the principal executive  office of an applicant ], 
+the applicant shall pay to the Commissioner:  
+ 
+  (1) A nonrefundable investigation fee of $1,000 for an initial license; and  
+ 
+  (2) A license fee for an initial license or a license renewal for an additional 
+1–year term, as follows : 
+ 
+   (i) $500, if the applicant’s annual gross revenue is not more than 
+$3,000,000;  
+ 
+   (ii) $1,000, if the applicant’s annual gross revenue is more than 
+$3,000,000 but not more than $6,000,000;  
+ 
+   (iii) $2,000, if the applicant’s annual gross revenue is  more than 
+$6,000,000 but not more than $15,000,000;  
+ 
+   (iv) $3,000, if the applicant’s annual gross revenue is more than 
+$15,000,000 but not more than $30,000,000; or  
+ 
+   (v) $4,000, if the applicant’s annual gross revenue is more than 
+$30,000,000.  
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 66 –  
+ [(c) With the license application for each branch location of an applicant, the 
+applicant shall pay to the Commissioner a $100 license fee for an initial license or a license 
+renewal for an additional 1 –year term. ] 
+ 
+12–905. 
+ 
+ (a) All revenue received for the licensing AND ASSESSMENT  of persons under this 
+subtitle and, except as provided in subsection (b) of this section, any other fee, examination 
+assessment, or revenue received by the Commissioner under this subtitle shall be:  
+ 
+  (1) Credited to the [Nondepository ] NON–DEPOSITORY  Special Fund 
+established under [§ 11–610] § 2–120 of this article; and  
+ 
+  (2) Used in accordance with [§ 11–610(c) ] § 2–120( D) of this article.  
+ 
+ (C) SUBJECT TO § 2–120( H) OF THIS ARTICLE , THE COMMISSIONER  MAY 
+IMPOSE AN ANNUAL ASS ESSMENT ON ANY LICEN SEE UNDER THIS SUBTI TLE. 
+ 
+12–906. 
+ 
+ (b) A [separate license is required for the principal executive office of the license 
+applicant or licensee and each branch location ] LICENSEE MAY DO BUSI NESS AS A DEBT 
+MANAGE MENT SERVICES PROVID ER ONLY AT A LICENSE D LOCATION OR AS 
+OTHERWISE AUTHORIZED  BY THE COMMISSIONER THROUGH REGULATION . 
+ 
+12–908. 
+ 
+ (b) The application shall include:  
+ 
+  (1) The applicant’s LEGAL name  AND ANY TRADE NAME USED BY THE 
+APPLICANT IN ACCORDA NCE WIT H § 2–121 OF THIS ARTICLE , THE APPLICANT ’S 
+principal executive office address, and website address, if any, and, if the applicant is not 
+an individual, the name and residence address of each control person, if any;  
+ 
+  (2) The address of each [branch ] ADDIT IONAL  location, if any, [at which 
+the applicant will provide debt management services; ] THAT : 
+ 
+   (I) THE GENERAL PUBLIC MA Y REASONABLY VIEW AS  A 
+LOCATION THAT DOES B USINESS AS A DEBT MA NAGEMENT SERVICES PR OVIDER , 
+INCLUDING ANY LOCATI ON THAT INVESTIGATES  CUSTOMER COMPLAINTS O R 
+DIRECTLY COMMUNICATE S WITH CUSTOMERS VER BALLY , ELECTRONICALLY , OR IN 
+WRITING ; 
+ 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 67 –    (II) HOUSES ANY CORE OPERA TIONAL INFRASTRUCTUR E OR 
+TECHNOLOGY SYSTEMS ; 
+ 
+   (III) CONDUCTS ANY CORE MAN AGEMENT , INFORMATION 
+SECURITY AND TECHNOL OGY, RISK  AND COMPLIANCE , OR FINANCE FUNCTIONS ; OR 
+ 
+   (IV) IS OTHERWISE REQUIRED  TO BE LISTED IN NMLS  BY 
+REGULATION THE COMMISSIONER ADOPTS U NDER THIS SUBTITLE ; 
+ 
+12–911. 
+ 
+ [(a) (1) Each license provided for through NMLS shall include the following 
+information:  
+ 
+   (i) The name of the licensee;  
+ 
+   (ii) The address of the location at which the business is to be 
+conducted; and  
+  
+   (iii) The unique identifier of the licensee.  
+ 
+  (2) The unique identifier of the licensee shall constitute the license number 
+for the l icense.  
+ 
+ (b) A license authorizes the licensee to provide debt management services. ] 
+ 
+ (A) INFORMATION IN NMLS  ASSOCIATED WITH A LI CENSE APPROVED BY 
+THE COMMISSIONER UNDER TH IS SUBTITLE SHALL IN CLUDE THE FOLLOWING : 
+ 
+  (1) THE LICENSEE ’S LEGAL NAME AND ANY  TRADE NAME USED BY 
+THE LICENSEE IN ACCO RDANCE WITH § 2–121 OF THIS ARTICLE ; 
+ 
+  (2) THE ADDRESS OF THE LI CENSEE’S PRINCIPAL EXECUTIV E 
+OFFICE ; AND 
+ 
+  (3) THE ADDRESS OF EACH A DDITIONAL LOCATION , IF ANY , WHERE 
+THE LICENSEE DOES BU SINESS AND THAT : 
+ 
+   (I) THE GENERAL PUBLIC MAY R EASONABLY VIEW AS A 
+LOCATION THAT DOES B USINESS AS A DEBT MA NAGEMENT SERVICES PR OVIDER , 
+INCLUDING ANY LOCATI ON THAT INVESTIGATES  CUSTOMER COMPLAINTS OR 
+DIRECTLY COMMUNICATE S WITH CUSTOMERS VER BALLY , ELECTRONICALLY , OR IN 
+WRITING ; 
+ 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 68 –    (II) HOUSES ANY CORE OPERA TIONAL INFRASTRUCTUR E OR 
+TECHNOLOGY SYSTEMS ; 
+ 
+   (III) CONDUCTS ANY CORE MAN AGEMENT , INFORMATION 
+SECURITY AND TECHNOL OGY, RISK AND COMPLIANCE , OR FINANCE FUNCTIONS ; OR 
+ 
+   (IV) IS OTHERWISE REQUIRED  TO BE LISTED IN NMLS  BY 
+REGULAT ION THE COMMISSIONER ADOPTS U NDER THIS SUBTITLE . 
+ 
+ (B) A LICENSEE SHALL MAINT AIN AND UPDATE THE I NFORMATION IN 
+NMLS  ASSOCIATED WITH THE LICENSEE ’S LICENSE TO REFLECT  ACCURATELY AT 
+ALL TIMES THE INFORM ATION REQUIRED BY SU BSECTION (A) OF THIS SECTION . 
+ 
+ (C) THE UNIQUE IDENTIFIER  ASSIGNED BY NMLS  TO A LICENSEE SHALL 
+CONSTITUTE THE LICEN SEE’S LICENSE NUMBER . 
+ 
+ (D) A LICENSE AUTHORIZES T HE LICENSEE TO DO BU SINESS UNDER THE 
+LICENSE AT ANY LICEN SED LOCATION AND UND ER ANY LICENSED NAME , OR AS 
+OTHERWISE AUTHORIZED  BY THE COMMISSIONER THROUGH REGULATION . 
+ 
+ [(c)] (E) A license may not be transferred, assigned, or pledged.  
+ 
+ [(d)] (F) Each licensee shall conspicuously post, in 48 point or larger type, at 
+[the licensee’s ] EACH  licensed location the following information:   
+ 
+  (1) The licensee’s unique identifier; and  
+ 
+  (2) A statement advising consumers of the availability of the NMLS 
+Consumer Access website to verify the licensing status of the licensee.  
+ 
+ [(e)] (G) Each licensee shall conspicuously display the followi ng information on 
+the licensee’s website, any software application accessible to the public and used to provide 
+debt management services, and profile page within each social media platform the licensee 
+uses:  
+ 
+  (1) The licensee’s unique identifier;  
+ 
+  (2) A link to the NMLS Consumer Access website; and  
+ 
+  (3) A notice stating, “The Commissioner of Financial Regulation for the 
+State of Maryland will accept any questions and complaints from Maryland residents 
+regarding (name and unique identifier of the deb t management services provider) at 
+(address of Commissioner), phone (toll –free number of the Commissioner).  
+ 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 69 –  [(f) Only one location may be maintained under any one license. ] 
+ 
+ [(g)] (H) A licensee is not required to post the information required in subsection 
+[(d)] (F) of this section AT A LICENSED LOCATI ON if the licensee does not regularly grant 
+access to [the] THAT  licensed location to members of the general public.  
+ 
+12–914. 
+ 
+ (b) (2) The bond shall be:  
+ 
+   (i) In an amount [not less than $10,000 and not more than 
+$1,000,000, as set ] DETERMINED  by the Commissioner  UNDER SUBSECTION (F) OF THIS 
+SECTION ; 
+ 
+  [(8) In setting the amount of the surety bond, the Commissioner shall 
+consider:  
+ 
+   (i) The financial condition and business experience of the applicant 
+or licensee and the agent of the applicant or licensee;  
+ 
+   (ii) For an applicant, the projected monthly and annual volume of 
+debt management services to be provided in the State;  
+ 
+   (iii) For a licensee, the average monthly and annual volume of debt 
+management services provided in the State during the previous 12 –month period;  
+ 
+   (iv) The potential loss to consumers who remit funds to the applicant 
+or licensee if the applicant or licen see becomes financially impaired; and  
+ 
+   (v) Any other factor the Commissioner considers appropriate. ] 
+ 
+ (F) (1) THE AMOUNT OF THE SUR ETY BOND UNDER SUBSE CTION (B) OF 
+THIS SECTION SHALL B E IN AN AMOUNT OF NO T LESS THAN $10,000  AND NOT MORE 
+THAN $1,000,000 , AS DETERMINED BY THE  COMMISSIONER FOR EACH  LICENSEE . 
+ 
+  (2) IN SETTING THE AMOUNT  OF THE SURETY BOND , THE 
+COMMISSIONER MAY CONS IDER : 
+ 
+   (I) THE NATURE AND VOLUME  OF THE BUSINESS OR P ROPOSED 
+BUSINESS OF THE LICE NSEE OR APPLICANT ; 
+ 
+   (II) THE FINANCIAL CONDITION OF THE LIC ENSEE OR 
+APPLICANT , INCLUDING : 
+ 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 70 –     1. THE AMOUNT , NATURE , QUALITY , AND LIQUIDITY OF 
+THE ASSETS OF THE LI CENSEE OR APPLICANT ; 
+ 
+    2. THE AMOUNT AND NATURE  OF THE LIABILITIES , 
+INCLUDING CONTINGENT  LIABILITIES , OF THE LICENSEE OR A PPLICA NT; 
+ 
+    3. THE HISTORY OF AND PR OSPECTS FOR THE LICE NSEE 
+OR APPLICANT TO EARN  AND RETAIN INCOME ; AND 
+ 
+    4. THE POTENTIAL HARM TO  CONSUMERS IF THE 
+APPLICANT OR LICENSE E BECOMES FINANCIALL Y IMPAIRED ; 
+ 
+   (III) THE QUALITY OF THE OP ERATIONS OF THE LICE NSEE  OR 
+APPLICANT ; 
+ 
+   (IV) THE QUALITY OF THE MA NAGEMENT OF THE LICE NSEE OR 
+APPLICANT ; 
+ 
+   (V) THE NATURE AND QUALIT Y OF THE PERSON THAT  HAS 
+CONTROL OF THE LICEN SEE OR APPLICANT ; AND 
+ 
+   (VI) ANY OTHER FACTOR THAT  THE COMMISSIONER CONSIDER S 
+RELEVANT . 
+ 
+12–915. 
+ 
+ (a) (1) [A] EXCEPT FOR A CHANGE O F A LICENSED LOCATIO N MADE IN 
+COMPLIANCE WITH SUBS ECTION (D) OF THIS SECTION , A licensee shall update through 
+NMLS any change in the information required to be included in the licensee’s application 
+under § 12 –908(b)(1) [and (2) ] of this subtitle at least 30 days before the change is effective.  
+ 
+  (2) The licensee shall ensure that, after the change described in this 
+subsection, the licensee will continue to satisfy the surety bond requirement under §  
+12–914 of this subt itle. 
+ 
+ (b) Unless approved by the Commissioner through NMLS, a licensee may not 
+change a control person of the licensee, or an agent who is acting on behalf of the licensee 
+to manage a trust account, listed on the licensee’s application under § 12 –908(b)( 3) and (6) 
+of this subtitle.  
+ 
+ (c) (1) To request approval of a proposed change described in subsection (b) of 
+this section, the licensee shall notify the Commissioner through NMLS  of the proposed 
+change and submit any information that the Commissioner requires.  
+ 
+ WES MOORE, Governor  Ch. 567  
+ 
+– 71 –   (2) For a proposed change in owner or agent acting on behalf of the licensee 
+to manage a trust account, the Commissioner may determine that the filing of a new 
+application for the issuance of a license is warranted.  
+ 
+  (3) Unless the Commissio ner notifies the licensee that a different time 
+period is necessary, the Commissioner shall approve or deny a request for a change 
+described in subsection (b) of this section within 60 days after the date the Commissioner 
+receives all information required under paragraph (1) of this subsection.  
+ 
+ (D) (1) A LICENSEE MAY NOT ADD , DELETE , OR MODIFY A LOCATION  
+REQUIRED TO BE LISTE D IN NMLS  UNDER § 12–911( A)(2) OR (3) OF THIS SUBTITLE 
+UNLESS : 
+  
+   (I) THE LICENSEE PROVIDES  TO THE COMMISSIONER , 
+THROUGH NMLS  AND I N ACCORDANCE WITH AN Y REGULATIONS THE 
+COMMISSIONER ADOPTS , NOTICE OF THE ADDITI ON, DELETION , OR MODIFICATION ; 
+ 
+   (II) THE ADDITION , DELETION , OR MODIFICATION OF T HE 
+LOCATION IS RECORDED  WITH THE INFORMATION  ASSOCIATED WITH THE 
+LICENSEE ’S LICENSE IN NMLS;  AND 
+ 
+   (III) THE ADDITION , DELETION , OR MODIFICATION OF T HE 
+LOCATION OTHERWISE C OMPLIES WITH THIS SU BTITLE . 
+  
+  (2) THE LICENSEE MAY NOT DO BUSINESS AT A LOC ATION REQUIRED 
+TO BE LISTED IN NMLS  BY § 12–911( A)(2) OR (3) OF THIS SUBTITLE UNT IL THE 
+LOCATION IS RECORDED WITH THE  INFORMATION ASSOCIAT ED WITH THE 
+LICENSEE ’S LICENSE IN NMLS.  
+ 
+12–923. 
+ 
+ (b) For the purposes of this section, the Commissioner:  
+ 
+  (1) Shall be given access to [the] ANY LICENSED LOCATIO N OR OTHER 
+place of business  AND ALL  books, papers , records, safes, and vaults of the person under 
+investigation; and  
+ 
+ 12–924. 
+ 
+ (a) The Commissioner may conduct an [on–site] examination of a licensee with 
+or without prior notice.  
+ 
+ (c) [An on –site] ANY examination may be conducted in conjunction with an  
+examination performed by a representative of a responsible supervisory agency of another 
+Ch. 567  2023 LAWS OF MARYLAND   
+ 
+– 72 – state.  
+ 
+ (d) (1) The Commissioner, in lieu of an [on–site] examination, may accept the 
+examination report of a responsible supervisory agency of another state.  
+ 
+  (2) A report accepted under paragraph (1) of this subsection is considered 
+for all purposes as an official report of the Commissioner.  
+ 
+12–1007.  
+ 
+ (a) All revenue received for the registration of persons under this subtitle and, 
+except as provided in subsecti on (b) of this section, any other fee, examination assessment, 
+or revenue received by the Commissioner under this subtitle shall be:  
+ 
+  (1) Credited to the [Nondepository ] NON–DEPOSITORY  Special Fund 
+established under [§ 11–610] § 2–120 of this article; an d 
+ 
+  (2) Used in accordance with [§ 11–610(c) ] § 2–120( D) of this article.  
+ 
+Article – State Finance and Procurement  
+ 
+6–226. 
+ 
+ (a) (2) (i) Notwithstanding any other provision of law, and unless 
+inconsistent with a federal law, grant agreement, or other fede ral requirement or with the 
+terms of a gift or settlement agreement, net interest on all State money allocated by the 
+State Treasurer under this section to special funds or accounts, and otherwise entitled to 
+receive interest earnings, as accounted for by the Comptroller, shall accrue to the General 
+Fund of the State.  
+ 
+   (ii) The provisions of subparagraph (i) of this paragraph do not apply 
+to the following funds:  
+ 
+    170. the Cannabis Public Health Fund; [and] 
+ 
+    171. the Community Reinvestment and Repair Fund ; AND 
+ 
+    172. THE NON–DEPOSITORY SPECIAL FUND . 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That Section(s) 12 –401(f) through 
+(k) and (l) through (v) of Article – Financial Institutions of the Annotated Code of Maryland 
+be renumbered to be Section(s) 12 –401(e) through (j) and (n) through (x), respectively.  
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect July 
+1, 2023.  
+ WES MOORE, Governor  Ch. 567  
+ 
+– 73 –  
+Approved by t he Governor, May 8, 2023.  

@@ -1,0 +1,148 @@
+ WES MOORE, Governor  Ch. 282  
+ 
+– 1 – Chapter 282  
+(House Bill 669 ) 
+ 
+AN ACT concerning  
+ 
+Workers’ Compensation – Benefits – Hearing Loss  
+ 
+FOR the purpose of altering the frequencies in which industrial noise must be for  an 
+employer to be required to provide workers’ compensation to a covered employee for 
+hearing loss;  altering the method used to determine the percentage of hearing loss 
+deafness for purposes of workers’ compensation; altering the method used to 
+determine the deduction required to be made to allow for the average amount of 
+hearing loss from nonoccupational causes in the population for purposes of 
+calculating workers’ compensation benefits for occupational deafness; requiring 
+tinnitus to be considered part o f a covered employee’s hearing loss;  and generally 
+relating to workers’ compensation benefits.  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Labor and Employment  
+Section 9–505 and  9–650 
+ Annotated Code of Maryland  
+ (2016 Replacement Volume and 2023 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Labor and Employment  
+ 
+9–505. 
+ 
+ (a) Except as otherwise provided, an employer shall provide compensation in 
+accordance  with this title to a covered employee for loss of hearing by the covered employee 
+due to industrial noise in the frequencies of 500, 1,000, 2,000, [and] 3,000 , AND 4,000  hertz.  
+ 
+ (b) An employer is not liable for compensation for occupational deafness und er 
+subsection (a) of this section unless the covered employee claiming benefits worked for the 
+employer in employment that exposed the covered employee to harmful noise for at least 
+90 days.   
+ 
+9–650. 
+ 
+ (a) (1) Hearing loss shall be measured by audiometric instrumentation that 
+meets the following criteria:  
+ 
+   (i) ANSI 3.6 –1996;  
+ 
+Ch. 282  2024 LAWS OF MARYLAND   
+ 
+– 2 –    (ii) ANSI S3.43 –1992; and  
+ 
+   (iii) ANSI 3.39 –1987 or any ANSI standard that supersedes the 
+previous calibration or measurement criteria.  
+ 
+  (2) Measurements shall be conducted in a sound room that meets the ANSI 
+3.1–1991 criteria for maximum permissible ambient noise for audiometric test rooms.  
+ 
+  (3) Behavioral psychoacoustic measurements shall be obtained with 
+instrumentation that utilizes insert earphones, as referenced in ANSI 3.6 –1996.  
+ 
+  (4) Electrodiagnostic measurements such as auditory evoked potentials, 
+acoustic emittance measurements, or distortion product otoacoustic emissions may be 
+obtained to determine the nature and extent of workplace hearing loss.  
+ 
+  (5) Audio logic results shall be used in conjunction with other information 
+to evaluate a claimant’s compensable hearing loss.  
+ 
+ (b) (1) The percentage of hearing loss for purposes of compensation for 
+occupational deafness shall be determined by calculating the aver age, in decibels, of the 
+thresholds of hearing for the frequencies of 500, 1,000, 2,000, [and] 3,000 , AND 4,000  hertz 
+in accordance with paragraph (2) of this subsection.  
+ 
+  (2) The average of the thresholds in hearing shall be calculated by:  
+ 
+   (i) addin g together the lowest measured losses in each of the [4] 5 
+frequencies; and  
+ 
+   (ii) dividing the total by [4] 5. 
+ 
+  (3) To allow for the average amount of hearing loss from nonoccupational 
+causes found in the population at any given age, there shall be de ducted from the total 
+average decibel loss determined under paragraphs (1) and (2) of this subsection one –half of 
+a decibel for each year of the covered employee’s age over 50 [at the time of the last exposure 
+to industrial noise ] OR FOR EACH YEAR SUB SEQUE NT TO THE DATE OF TH E COVERED 
+EMPLOYEE ’S LAST INJURIOUS EXP OSURE TO INDUSTRIAL NOISE , WHICHEVER IS 
+LESS . 
+ 
+ (c) (1) If the average hearing loss in the [4] 5 frequencies determined under 
+subsection (b) of this section is 25 decibels or less, the covered empl oyee does not have a 
+compensable hearing loss.  
+ 
+  (2) If the average hearing loss in the [4] 5 frequencies determined under 
+subsection (b) of this section is 91.7 decibels or more, the covered employee has a 100% 
+compensable hearing loss.  
+ WES MOORE, Governor  Ch. 282  
+ 
+– 3 –  
+  (3) For every decibel that the average hearing loss exceeds 25 decibels, the 
+covered employee shall be allowed 1.5% of the compensable hearing loss, up to a maximum 
+of 100% compensable hearing loss at 91.7 decibels.  
+ 
+ (d) The binaural percentage of hearing loss shall be  determined by:  
+ 
+  (1) multiplying the percentage of hearing loss in the better ear by 5;  
+ 
+  (2) adding that product to the percentage of hearing loss in the poorer ear; 
+and 
+ 
+  (3) dividing that sum by 6.  
+ 
+ (E) (1) TINNITUS SHALL BE CON SIDERED PART OF A COVERED  
+EMPLOYEE ’S HEARING LOSS UNDER  THIS SECTION .  
+ 
+  (2) WHEN DETERMINING THE PERCENTAGE OF HEARIN G LOSS  
+ATTRIBUTABLE TO TINN ITUS , THE COMMISSION SHALL : 
+ 
+   (I) CONSIDER THE PROVISI ONS OF § 9–721( A) OF THIS TITLE  
+AND THE APPLICABLE P ROVISIONS OF § 9–721(B) OF THIS TITLE ; AND  
+ 
+   (II) ADD THE PERCENTAGE O F HEARING LOSS ATTRI BUTABLE  
+TO TINNITUS TO THE H EARING LOSS PERCENTA GE DETERMINED UNDER  
+SUBSECTION (D) OF THIS SECTION TO D ETERMINE THE TOTAL P ERCENTAGE OF THE  
+COVERED EMPLOYEE ’S HEARING LOSS . 
+ 
+  (3) A COVERED EMPLOYEE MAY H AVE A COMPENSABLE CL AIM FOR  
+HEARING LOSS ATTRIBU TABLE TO TINNITUS UN DER THIS SUBSECTION IN THE  
+ABSENCE OF A COMPENS ABLE CLAIM FOR HEARI NG LOSS UNDER SUBSEC TIONS (B) 
+THROUGH (D) OF THIS SECTION .  
+ 
+ [(e)] (F) (1) In determining the percen tage of hearing loss under this section, 
+consideration may not be given to whether the use of an amplification device improves the 
+ability of a covered employee to understand speech or enhance behavioral hearing 
+thresholds.  
+ 
+  (2) (i) In determining a workers’ compensation claim for noise –related 
+hearing loss, audiologic data shall use both bone conduction and air conduction results.  
+ 
+   (ii) If a conductive loss is present, the bone conduction thresholds for 
+each ear, rather than the air conduction lev els, shall be used to calculate a claimant’s 
+average hearing loss.  
+ 
+Ch. 282  2024 LAWS OF MARYLAND   
+ 
+– 4 –  SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2024.  
+ 
+Approved by the Governor, April 25, 2024.  

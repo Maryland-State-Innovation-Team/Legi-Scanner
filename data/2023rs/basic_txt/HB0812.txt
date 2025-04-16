@@ -1,0 +1,1291 @@
+ WES MOORE, Governor  Ch. 249  
+ 
+– 1 – Chapter 249  
+(House Bill 812 ) 
+ 
+AN ACT concerning  
+ 
+Health – Reproductive Health Services – Protected Information and Insurance 
+Requirements  
+ 
+FOR the purpose of regulating the disclosure of certain information related to  
+legally protected health care by custodians of public records, health care providers,  
+health information exchanges, and dispensers  electronic health networks ; repealing 
+a provi sion of law authorizing a custodian to allow inspection of the part of a public 
+record that gives the home address of a licensee under certain circumstances;  
+requiring that the regulations adopted by the Maryland Health Care Commission 
+regarding clinical i nformation to be exchanged through the State –designated 
+exchange restrict data of patients who have obtained legally protected health care; 
+establishing the Protected Health Care Commission;  altering the purpose of the 
+Maryland Health Care Commission to in clude the establishment of policies and 
+standards that protect the confidentiality of certain health care information; 
+clarifying that certain insurance requirements regarding abortion care services 
+apply notwithstanding a certain restriction; and generall y relating to health 
+information and reproductive health services.  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – General Provisions  
+Section 4 –333 
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2022 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Health – General  
+Section 4 –301, 4 –302.3, 4 –305, 4–309, 19 –103, and 19 –145 and 19 –103 
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2022 Supplement)  
+ 
+BY adding to  
+ Article – Health – General  
+Section 4 –302.5 and 4 –310 
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2022 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Insurance  
+Section 15 –857 
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2022 Supplement)  
+Ch. 249  2023 LAWS OF MARYLAND   
+ 
+– 2 –  
+BY repeali ng and reenacting, without amendments,  
+ Article – Insurance  
+Section 31 –116(a)  
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2022 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – General Provisions  
+ 
+4–333. 
+ 
+ (a) Subject to subsections (b) through (d) of this section, a custodian shall deny 
+inspection of the part of a public record that : 
+ 
+  (1) contains information about the licensing of an individual in an 
+occupation or a profession ;  
+ 
+  (2) CONTAINS THE NAME OF AN INDIVIDUAL  OR OTHER IDENTIFYING  
+INFORMATION OF AN INDIVIDUAL  RELATED TO AN AMBULATORY SURGER Y CENTER : 
+ 
+   (I) EXCEPT AS PROVIDED I N SUBSECTION (B)(8) OF THIS 
+SECTION , AN AMBULATORY SURGIC AL FACILI TY LICENSED UNDER § 19–3B–01 OF 
+THE HEALTH – GENERAL ARTICLE OR A ; OR 
+ 
+   (II) A SURGICAL ABORTION FA CILITY LICENSED UNDE R §  
+20–209 OF THE HEALTH – GENERAL ARTICLE ; OR 
+ 
+  (3) RELATES TO AN INVEST IGATION OF A LICENSE E OR CERTIFICATE 
+HOLDER REGARDING THE  PROVISION OF LEGALLY P ROTECTED HEALTH CARE , AS 
+DEFINED IN § 4–301 OF THE HEALTH – GENERAL ARTICLE , PENDING A FINAL 
+ORDER . 
+ 
+ (b) A custodian shall allow inspection of the part of a public record that gives:  
+ 
+  (1) the name of the licensee;  
+ 
+  (2) (I) SUBJECT TO ITEM (II) OF THIS ITEM , the business address of 
+the licensee [or, if the business address is not available, the home address of the licensee 
+after the custodian redacts any information that identifies the location as the home address 
+of an individual wi th a disability as defined in § 20 –701 of the State Government Article ]; 
+OR 
+ 
+ WES MOORE, Governor  Ch. 249  
+ 
+– 3 –    (II) IF THE LICENSEE IS L ICENSED BY A HEALTH OCCUPATIONS 
+BOARD , THE BUSINESS ADDRESS  OF THE LICENSEE ;  
+ 
+  (3) the business telephone number of the licensee;  
+ 
+  (4) the educational and occupational background of the licensee;  
+ 
+  (5) the professional qualifications of the licensee;  
+ 
+  (6) any orders and findings that result from formal disciplinary actions; 
+and 
+ 
+  (7) any evidence that has been provided to the custodian to  meet the 
+requirements of a statute as to financial responsibility ; AND  
+ 
+  (8) FOR AN AMBULATORY SU RGICAL FACILITY LICE NSED UNDER §  
+19–3B–01 OF THE HEALTH – GENERAL ARTICLE , THE OWNER , PRIMARY CONTACT , 
+ATTORNEY , OR CONSULTANT CONTAI NED IN AN APPLICATIO N TO THE MARYLAND 
+HEALTH CARE COMMISSION FOR A CERT IFICATE OF NEED OR C ERTIFICATE OF 
+NEED EXCEPTION OR DE TERMINATION REQUEST . 
+ 
+ (c) A custodian may allow inspection of other information about a licensee if:  
+ 
+  (1) the custodian finds a compelling public purpose; and  
+ 
+  (2) the rules or regulations of the official custodian allow the inspection.  
+ 
+ (d) Except as otherwise provided by this section or other law, a custodian shall 
+allow inspection by the person in interest.  
+ 
+ (e) A custodian who sells lists of  licensees shall omit from the lists the name of 
+any licensee, on written request of the licensee.  
+ 
+Article – Health – General  
+ 
+4–301. 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  
+ 
+ (b) “Common ownership” means ownership of a health care entity:  
+ 
+  (1) By two or more health care providers;  
+ 
+  (2) By two or more health care providers employed by a mutual employer 
+for a wage, salary, fee, or payment to perform work for the employer;  
+ 
+Ch. 249  2023 LAWS OF MARYLAND   
+ 
+– 4 –   (3) By health care organizations operating a s an organized health care 
+arrangement, as defined in 45 C.F.R. § 160.103;  
+ 
+  (4) By a health care entity or health care entities that possess an ownership 
+or equity interest of 5% or more in another health care entity; or  
+ 
+  (5) By affiliated providers op erating under the same trade name.  
+ 
+ (c) “Directory information” means information concerning the presence and 
+general health condition of a patient who has been admitted to a health care facility or who 
+is currently receiving emergency health care in a he alth care facility.  
+ 
+ (d) “Disclose” or “disclosure” means the transmission or communication of 
+information in a medical record, including an acknowledgment that a medical record on a 
+particular patient or recipient exists.  
+ 
+ (e) “Emergency” means a situat ion when, in the professional opinion of the health 
+care provider, a clear and significant risk of death or imminent serious injury or harm to a 
+patient or recipient exists.  
+ 
+ (f) “General health condition” means the health status of a patient described in  
+terms of “critical”, “poor”, “fair”, “good”, “excellent”, or terms denoting similar conditions.  
+ 
+ (g) “Health care” means any care, treatment, or procedure by a health care 
+provider:  
+ 
+  (1) To diagnose, evaluate, rehabilitate, manage, treat, or maintain the 
+physical or mental condition of a patient or recipient; or  
+ 
+  (2) That affects the structure or any function of the human body.  
+ 
+ (h) (1) “Health care provider” means:  
+ 
+   (i) A person who is licensed, certified, or otherwise authorized under 
+the Healt h Occupations Article or § 13 –516 of the Education Article to provide health care 
+in the ordinary course of business or practice of a profession or in an approved education or 
+training program; or  
+ 
+   (ii) A facility where health care is provided to patien ts or recipients, 
+including a facility as defined in § 10 –101(g) of this article, a hospital as defined in §  
+19–301 of this article, a related institution as defined in § 19 –301 of this article, a health 
+maintenance organization as defined in § 19 –701(g) of this article, an outpatient clinic, a 
+medical laboratory, a comprehensive crisis response center, a crisis stabilization center, 
+and a crisis treatment center established under § 7.5 –207 of this article.  
+ 
+ WES MOORE, Governor  Ch. 249  
+ 
+– 5 –   (2) “Health care provider” includes the agents , employees, officers, and 
+directors of a facility and the agents and employees of a health care provider.  
+ 
+ (i) (1) “Health information exchange” means:  
+ 
+   (i) An individual or entity that determines, controls, or has the 
+discretion to administer any req uirement, policy, or agreement that allows, enables, or 
+requires the use of any technology or services for access, exchange, or use of electronic 
+protected health care information:  
+ 
+    1. Among more than two unaffiliated individuals or entities 
+that are e nabled to exchange electronic protected health information with each other; and  
+ 
+    2. That is for a treatment, payment, or health care 
+operations purpose, as those terms are defined in 45 C.F.R. § 164.501, regardless of whether 
+the individuals or entitie s are subject to the requirements of 45 C.F.R. parts 160 and 164; 
+or 
+ 
+   (ii) A health information technology developer of certified health 
+information technology that develops or offers health information technology, as that term 
+is defined in 42 U.S.C. 3 00jj(5), and has one or more Health Information Technology 
+Modules certified under a program for the voluntary certification of health information 
+technology that is kept or recognized by the National Coordinator in accordance with 42 
+U.S.C. 300jj –11(c)(5) . 
+ 
+  (2) “Health information exchange” does not include:  
+ 
+   (i) An entity composed of health care providers under common 
+ownership if the organizational and technical processes the entity provides or governs are 
+for health care treatment, payment, or heal th care operations purposes, as those terms are 
+defined in 45 C.F.R. § 164.501;  
+ 
+   (ii) A carrier, as defined in § 15 –1301 of the Insurance Article if the 
+organizational and technical processes the carrier provides or governs are for health care 
+treatment , payment, or health care operations purposes, as those terms are defined in 45 
+C.F.R. § 164.501;  
+ 
+   (iii) An administrator, as defined in § 8 –301 of the Insurance Article, 
+if the organizational and technical processes the administrator provides or governs are for 
+health care treatment, payment, or health care operations purposes, as those terms are 
+defined in 45 C.F.R. § 164.501;  
+ 
+   (iv) A health care provider, as defined in subsection (h) of this section, 
+if the organizational and technical proces ses the health care provider provides or governs 
+are for health care treatment, payment, or health care operations purposes, as those terms 
+are defined in 45 C.F.R. § 164.501;  
+Ch. 249  2023 LAWS OF MARYLAND   
+ 
+– 6 –  
+   (v) A carrier’s business associate, as defined in 45 C.F.R. § 160.103, 
+if the organizational and technical processes provided or governed by the business associate 
+are transactions, as defined in 45 C.F.R. § 160.103; or  
+ 
+   (vi) A carrier exchanging information as required by 45 C.F.R. § 
+156.221.  
+ 
+ (j) “LEGALLY PROTECTED HEA LTH CA RE” MEANS ALL REPRODUCTI VE 
+HEALTH SERVICES , MEDICATIONS , AND SUPPLIES RELATED  TO THE DIRECT  
+PROVISION OR SUPPORT  OF THE PROVISION OF CARE RELATED TO PREG NANCY , 
+CONTRACEPTION , ASSISTED REPRODUCTIO N, AND ABORTION THAT IS  LAWFUL IN  
+THE STATE : 
+ 
+  (1) THE PROVISION OF ABORTIO N CARE ; AND 
+ 
+  (2) OTHER SENSITIVE HEALT H SERVICES AS DETERM INED BY THE 
+SECRETARY BASED ON TH E RECOMMENDATIONS OF  THE PROTECTED HEALTH 
+CARE COMMISSION ESTABLISHE D UNDER § 4–310 OF THIS SUBTITLE .  
+ 
+ (K) (1) “Medical record” means any ora l, written, or other transmission in any 
+form or medium of information that:  
+ 
+   (i) Is entered in the record of a patient or recipient;  
+ 
+   (ii) Identifies or can readily be associated with the identity of a 
+patient or recipient; and  
+ 
+   (iii) Relates to the health care of the patient or recipient.  
+ 
+  (2) “Medical record” includes any:  
+ 
+   (i) Documentation of disclosures of a medical record to any person 
+who is not an employee, agent, or consultant of the health care provider;  
+ 
+   (ii) File or record maintained under § 12 –403(c)(13) of the Health 
+Occupations Article by a pharmacy of a prescription order for drugs, medicines, or devices 
+that identifies or may be readily associated with the identity of a patient;  
+ 
+   (iii) Documentation of an examination  of a patient regardless of who:  
+ 
+    1. Requested the examination; or  
+ 
+    2. Is making payment for the examination; and  
+ 
+ WES MOORE, Governor  Ch. 249  
+ 
+– 7 –    (iv) File or record received from another health care provider that:  
+ 
+    1. Relates to the health care of a patient or recipient received 
+from that health care provider; and  
+ 
+    2. Identifies or can readily be associated with the identity of 
+the patient or recipient.  
+ 
+ [(k)] (L) (1) “Mental health services” means health care rendered to a 
+recipient primarily in connection with the diagnosis, evaluation, treatment, case 
+management, or rehabilitation of any mental disorder.  
+ 
+  (2) For acute general hospital services, mental health services are 
+considered to be the primarily rendered service only if service is provided pursuant to Titl e 
+10, Subtitle 6 of this article or Title 3 of the Criminal Procedure Article.  
+ 
+ [(l)] (M) “Patient” means a person who receives health care and on whom a 
+medical record is maintained.  
+ 
+ [(m)] (N) “Person in interest” means:  
+ 
+  (1) An adult on whom a healt h care provider maintains a medical record;  
+ 
+  (2) A person authorized to consent to health care for an adult consistent 
+with the authority granted;  
+ 
+  (3) A duly appointed personal representative of a deceased person;  
+ 
+  (4) (i) A minor, if the medical record concerns treatment to which the 
+minor has the right to consent and has consented under Title 20, Subtitle 1 of this article; 
+or 
+ 
+   (ii) A parent, guardian, custodian, or a representative of the minor 
+designated by a court, in the discretion of the attending physician who provided the 
+treatment to the minor, as provided in § 20 –102 or § 20 –104 of this article;  
+ 
+  (5) If item (4) of this subsection does not apply to a minor:  
+ 
+   (i) A parent of the minor, except if the parent’s authority to consent 
+to health care for the minor has been specifically limited by a court order or a valid 
+separation agreement entered into by the parents of the minor; or  
+ 
+   (ii) A person authorized to consent to health care for the minor 
+consistent with the authority grante d; or 
+ 
+Ch. 249  2023 LAWS OF MARYLAND   
+ 
+– 8 –   (6) An attorney appointed in writing by a person listed in item (1), (2), (3), 
+(4), or (5) of this subsection.  
+ 
+ [(n)] (O) “Primary provider of mental health services” means the designated 
+mental health services provider who:  
+ 
+  (1) Has primary re sponsibility for the development of the mental health 
+treatment plan for the recipient; and  
+ 
+  (2) Is actively involved in providing that treatment.  
+ 
+ [(o)] (P) “Protected health information” means all individually identifiable 
+health information held or transmitted by a covered entity or its business associate 
+protected under the U.S. Department of Health and Human Services Privacy Rule.  
+ 
+ (Q) “PROTECTED MEDICATION RECORD ” MEANS ANY IDENTIFYIN G 
+INFORMATION ABOUT TH E PATIENT OR PRESCRI BER OF MEDICATION US ED IN A  
+MEDICAL ABORTION IF THE MEDICATION : 
+ 
+  (1) HAS BEEN APPROVED BY THE FEDERAL FOOD AND DRUG  
+ADMINISTRATION FOR ME DICAL ABORTION ; OR 
+ 
+  (2) IS RECOGNIZED BY THE SECRETARY .  
+ 
+ (R) (1) “PROTECTED SERVICES RE CORD” MEANS ANY IDENTIFYIN G 
+INFORMATION CONTAINED IN A PATIE NT’S MEDICAL RECORD REL ATING TO THE  
+PROVISION OF LEGALLY  PROTECTED HEALTH CAR E.  
+ 
+  (2) “PROTECTED SERVICES RE CORD” DOES NOT INCLUDE A  
+PROTECTED MEDICATION  RECORD . 
+ 
+ [(p)] (S) (Q) “Recipient” means a person who has applied for, for whom  an 
+application has been submitted, or who has received mental health services.  
+ 
+ (R) “SENSITIVE HEALTH SERV ICES” INCLUDES REPRODUCTIV E HEALTH 
+SERVICES OTHER THAN ABORTION CARE .  
+ 
+ [(q)] (T) (S) “State –designated health information exchange” means the heal th 
+information exchange designated by the Maryland Health Care Commission and the 
+Health Services Cost Review Commission under § 19 –143 of this article.  
+ 
+4–302.3.  
+ 
+ (a) (1) In this section the following words have the meanings indicated.  
+ 
+ WES MOORE, Governor  Ch. 249  
+ 
+– 9 –   (2) “Electronic  health care transactions” means health care transactions 
+that have been approved by a nationally recognized health care standards development 
+organization to support health care informatics, information exchange, systems 
+integration, and other health care  applications.  
+ 
+  (3) “Electronic health network” means an entity:  
+ 
+   (i) Involved in the exchange of electronic health care transactions 
+between a payor, health care provider, vendor, and any other entity; and  
+ 
+   (ii) Certified by the Maryland Health Care Commission.  
+ 
+  (4) “Nursing home” has the meaning stated in § 19 –1401 of this article.  
+ 
+  (5) “Standard request” means a request for clinical information from a 
+health information exchange that conforms to the major standards version specified by the 
+Office of the National Coordinator for Health Information Technology.  
+ 
+ (b) This section applies to:  
+ 
+  (1) Except for the State –designated health information exchange, a health 
+information exchange operating in the State; and  
+ 
+  (2) A payor that:  
+ 
+   (i) Holds a valid certificate of authority issued by the Maryland 
+Insurance Commissioner; and  
+ 
+   (ii) Acts as, operates, or owns a health information exchange.  
+ 
+ (c) An entity to which this section applies shall connect to the State –designated 
+health informat ion exchange in a manner consistent with applicable federal and State 
+privacy laws.  
+ 
+ (d) When a standard request for clinical information is received through the 
+State –designated health information exchange, an entity to which this section applies 
+shall:  
+ 
+  (1) Respond to the request to the extent authorized under federal and State 
+privacy laws; and  
+ 
+  (2) Transmit the response to the State –designated health information 
+exchange in the manner specified in the regulations adopted under subsection (g) of thi s 
+section.  
+ 
+Ch. 249  2023 LAWS OF MARYLAND   
+ 
+– 10 –  (e) A consent from a patient to release clinical information to a provider obtained 
+by an entity to which this section applies shall apply to information transmitted through 
+the State –designated health information exchange or by other means.  
+ 
+ (f) (1) On request of the Department, a nursing home shall submit 
+electronically clinical information to the State –designated health information exchange to 
+facilitate the objectives stated in paragraph (3) of this subsection.  
+ 
+  (2) In accordance with St ate and federal law and to facilitate the objectives 
+stated in paragraph (3) of this subsection, the State –designated health information 
+exchange may provide the information submitted under paragraph (1) of this subsection to:  
+ 
+   (i) A health care provide r; 
+ 
+   (ii) An authorized health information exchange user;  
+ 
+   (iii) A health information exchange authorized by the Maryland 
+Health Care Commission;  
+ 
+   (iv) A federal official; and  
+ 
+   (v) A State official.  
+ 
+  (3) (i) If approved by the Maryland Health Care Commission, the 
+information submitted under paragraph (1) of this subsection may be combined with other 
+data maintained by the State –designated health information exchange to facilitate:  
+ 
+    1. A State health improvement program;  
+ 
+    2. Mitigation o f a public health emergency; and  
+ 
+    3. Improvement of patient safety.  
+ 
+   (ii) The information submitted by a nursing home under paragraph 
+(1) of this subsection may be used only to facilitate the objectives stated in subparagraph 
+(i) of this paragraph a nd may not be used for any other purpose, including licensing and 
+certification.  
+ 
+ (g) (1) The State –designated health information exchange shall:  
+ 
+   (i) Participate in the advisory committee established under §  
+13–4306(a)(1) of this article; and  
+ 
+   (ii) Maintain a data set for the Maryland Commission on Health 
+Equity and provide data from the data set consistent with the parameters defined by the 
+advisory committee.  
+ WES MOORE, Governor  Ch. 249  
+ 
+– 11 –  
+  (2) If approved by the Maryland Commission on Health Equity, the  
+State –designated he alth information exchange may use the data set maintained under 
+paragraph (1) of this subsection to improve health outcomes for patients.  
+ 
+ (h) (1) An electronic health network shall provide electronic health care 
+transactions to the State –designated healt h information exchange for the following public 
+health and clinical purposes:  
+ 
+   (i) A State health improvement program;  
+ 
+   (ii) Mitigation of a public health emergency; and  
+ 
+   (iii) Improvement of patient safety.  
+ 
+  (2) An electronic health network may  not charge a fee to a health care 
+provider, health care payor, or to the State –designated health information exchange for 
+providing the information as required under paragraph (1) of this subsection.  
+ 
+  (3) The State –designated health information exchange  shall develop and 
+implement policies and procedures to implement paragraph (1) of this subsection that are 
+consistent with regulations adopted by the Maryland Health Care Commission.  
+ 
+ (i) The Maryland Health Care Commission:  
+ 
+  (1) Shall adopt regulation s for implementing the connectivity to the  
+State –designated health information exchange required under this section; and  
+ 
+  (2) Shall seek, through any regulations adopted under item (1) of this 
+subsection, to promote technology standards and formats that  conform to those specified by 
+the Office of the National Coordinator for Health Information Technology.  
+ 
+ (j) (1) The Maryland Health Care Commission shall adopt regulations that:  
+ 
+   (i) Specify the scope of clinical information to be exchanged or sent 
+under this section; and  
+ 
+   (ii) Provide for a uniform, gradual implementation of the exchange 
+of clinical information under this section.  
+ 
+  (2) Any regulations adopted under paragraph (1) of this subsection shall 
+limit the scope of the clinical informatio n to purposes that:  
+ 
+   (i) Improve treatment, including improved access to clinical records 
+by treating clinicians;  
+ 
+Ch. 249  2023 LAWS OF MARYLAND   
+ 
+– 12 –    (ii) Promote uses of the State –designated health information 
+exchange important to public health; or  
+ 
+   (iii) The protection of the electronic health information of a person in 
+interest who has opted out of having electronic health information shared or disclosed by a 
+health information exchange.  
+ 
+  (3) Regulations adopted under paragraph (1) of this subsection shall:  
+ 
+   (i) Limit red isclosure of financial information, including billed or 
+paid amounts available in electronic claims transactions;  
+ 
+   (ii) Restrict data of patients who have opted out of records sharing 
+through the State –designated health information exchange or a health information 
+exchange authorized by the Maryland Health Care Commission; [and] 
+ 
+   (iii) Restrict data from health care providers that possess sensitive 
+health care information ; AND  
+ 
+   (IV) RESTRICT DATA OF PATI ENTS WHO HAVE OBTAIN ED 
+LEGALLY PROTECTED HE ALTH CARE . 
+ 
+ (k) This section does not:  
+ 
+  (1) Require an entity to which this section applies to collect clinical 
+information or obtain any authorizations, not otherwise required by federal or State law, 
+relating to information to be sent or received throug h the State –designated health 
+information exchange;  
+ 
+  (2) Prohibit an entity to which this section applies from directly receiving 
+or sending information to providers or subscribers outside of the State –designated health 
+information exchange; or  
+ 
+  (3) Prohibit an entity to which this section applies from connecting and 
+interoperating with the State –designated health information exchange in a manner and 
+scope beyond that required under this section.  
+ 
+4–302.5.   
+ 
+ (A) SUBJECT TO SUBSECTION  (D)(3)( II) OF THIS  SECTION , THIS SECTION 
+APPLIES TO DISCLOSUR ES OF HEALTH INFORMA TION TO RECIPIENTS L OCATED IN 
+THE STATE AND OUTSIDE THE  STATE .  
+ 
+ (A) (B) A SUBJECT TO SUBSECTION  (D)(3)( II) OF THIS SECTION , 
+BEGINNING DECEMBER 1, 2023,  A HEALTH INFORMATION E XCHANGE OR 
+ WES MOORE, Governor  Ch. 249  
+ 
+– 13 – ELECTRONIC HEALTH NE TWORK  MAY NOT DISCLOSE A PROTECTED  SERVICES 
+RECORD OR PROTECTED MEDICATION RECORD TO  A TREATING  PROVIDER , 
+BUSINESS ENTITY , OR HEALTH INFORMATIO N EXCHANGE LOCATED  OUTSIDE THE 
+STATE  MIFEPRISTONE DATA OR THE DIAGNOSIS , PROCEDURE , MEDICATIO N, OR 
+RELATED CODES FOR AB ORTION CARE AND OTHE R SENSITIVE HEALTH S ERVICES AS 
+DETERMINED BY THE SECRETARY UNDER SUBSE CTION (D) OF THIS SECTION TO A  
+TREATING PROVIDER , A BUSINESS ENTITY , ANOTHER HEALTH INFOR MATION 
+EXCHANGE , OR ANOTHER ELECTRONI C HEALTH NETWO RK UNLESS THE 
+DISCLOSURE IS : 
+ 
+  (1) FOR THE ADJUDICATION OF CLAIMS ; OR 
+ 
+  (2) TO A SPECIFIC TREATIN G PROVIDER AT THE WR ITTEN REQUEST 
+OF AND WITH THE CONS ENT OF : 
+ 
+   (I) A PATIENT , FOR SERVICES FOR WHI CH THE PATIENT CAN 
+PROVIDE CONSENT UNDE R STATE LAW ; OR 
+ 
+   (II) A PARENT OR GUARDIAN O F A PATIENT , FOR SERVICES FOR 
+WHICH THE PARENT OR GUARDIAN CAN PROVIDE  CONSENT UNDER STATE LAW .  
+ 
+ (B) (1) (C) (1) A BEGINNING JUNE 1, 2024,  A PERSON WHO 
+KNOWINGLY VIOLATES T HIS SECTION IS GUILT Y OF A MISDEMEANOR A ND ON 
+CONVICTION IS SUBJEC T TO A FINE NOT TO E XCEED $10,000  PER DAY . 
+ 
+  (2) IN DETERMINING THE FI NE TO BE IMPOSED UND ER PARAGRAPH 
+(1) OF THIS SUBSECTION , THE FOLLOWING FACTOR S SHALL BE CONSIDERE D: 
+ 
+   (I) THE EXTENT OF ACTUAL OR POTENTIAL PUBLIC HARM 
+CAUSED BY T HE VIOLATION ;  
+ 
+   (II) THE COST OF INVESTIGA TING THE VIOLATION ; AND 
+ 
+   (III) WHETHER THE PERSON PR EVIOUSLY VIOLATED TH IS 
+SECTION .  
+ 
+ (C) (D) (1) THE SECRETARY SHALL : 
+ 
+  (1) ADOPT REGULATIONS THA T IDENTIFY THE MEDIC ATIONS TO BE  
+CONSIDERED A MEDICAT ION USED IN A MEDICAL AB ORTION FOR PURPOSES OF 
+DETERMINING IF A REC ORD IS A PROTECTED M EDICATION RECORD ; AND  
+ 
+  (2) FOLLOW GUIDELINES OF THE AMERICAN COLLEGE OF  
+OBSTETRICIANS AND GYNECOLOGISTS , THE WORLD HEALTH ORGANIZATION , AND  
+Ch. 249  2023 LAWS OF MARYLAND   
+ 
+– 14 – THE SOCIETY OF FAMILY PLANNING IN DETERMINING WHICH  MEDICATIONS TO  
+IDENTIFY IN THE REGU LATIONS ADOPTED UNDE R ITEM (1) OF THIS SUBSECTION  
+DETERMINE FOR ABORTI ON CARE AND SENSITIV E HEALTH SERVICES TH E 
+PROCEDURE , DIAGNOSIS , MEDICATION , AND OTHER RELATED CO DES THAT ARE 
+SUBJECT TO THE RESTR ICTIONS ON DISCLOSURE  ESTABLISHED UNDER 
+SUBSECTION (B) OF THIS SECTION DUE TO A SUBSTANTIAL RIS K TO PATIENTS OR 
+HEALTH CARE PROVIDER S THAT WOULD RESULT FROM DISCLOSURE . 
+ 
+  (2) A DETERMINATION MADE U NDER PARAGRAPH (1) OF THIS 
+SUBSECTION SHALL : 
+ 
+   (I) FOLLOW  APPLICABLE GUIDELINE S OF THE AMERICAN 
+COLLEGE OF OBSTETRICIANS AND GYNECOLOGISTS , THE WORLD HEALTH 
+ORGANIZATION , AND THE SOCIETY OF FAMILY PLANNING ; AND 
+ 
+   (II) FOR SENSITIVE HEALTH SERVICES , BE BASED ON THE 
+RECOMMENDATIONS OF T HE PROTECTED HEALTH CARE COMMISSION 
+ESTABLISHED UNDER § 4–310 OF THIS SUBTITLE . 
+ 
+  (3) (I) THE SECRETARY SHALL ADOPT  REGULATIONS TO RESTR ICT 
+THE DISCLOSURE OF AB ORTION CARE AND OTHE R SENSITIVE HEALTH S ERVICES 
+INFORMATION BY DIAGN OSIS, PROCEDURE , MEDICATION , OR RELATED CODES 
+UNDER SUBSECTION (B) OF THIS SECTION . 
+ 
+   (II) EXCEPT AS PROVIDED IN  SUBPARAGRAPH (III) OF THIS 
+PARAGRAPH , THE SECRETARY MAY ADOPT R ESTRICTIONS ON THE D ISCLOSURE OF 
+ABORTION CARE OR OTH ER SENSITIVE HEALTH SERVICES UNDER SUBPA RAGRAPH 
+(I) OF THIS PARAGRAPH TH AT AR E APPLICABLE ONLY TO  DISCLOSURES BY HEALT H 
+INFORMATION EXCHANGE S OR ELECTRONIC HEAL TH NETWORKS TO OUT –OF–STATE 
+TREATING PROVIDERS , OUT–OF–STATE BUSINESS ENTIT IES, OTHER HEALTH 
+INFORMATION EXCHANGE S, OR OTHER ELECTRONIC HEALTH NETWORKS . 
+ 
+   (III) ANY REGULA TIONS ADOPTED BY THE  SECRETARY TO 
+IMPLEMENT RESTRICTIO NS ON THE DISCLOSURE  OF MIFEPRISTONE DATA UND ER 
+SUBSECTION (B) OF THIS SECTION SHAL L APPLY TO DISCLOSUR ES OF DATA TO 
+RECIPIENTS LOCATED I N THE STATE AND OUTSIDE THE  STATE . 
+ 
+4–305. 
+ 
+ (a) This section may  not be construed to impose an obligation on a health care 
+provider to disclose a medical record.  
+ 
+ (b) A health care provider may disclose a medical record without the 
+authorization of a person in interest:  
+ WES MOORE, Governor  Ch. 249  
+ 
+– 15 –  
+  (1) (i) To the provider’s authorized employee s, agents, medical staff, 
+medical students, or consultants for the sole purpose of offering, providing, evaluating, or 
+seeking payment for health care to patients or recipients by the provider;  
+ 
+   (ii) To the provider’s legal counsel regarding only the in formation in 
+the medical record that relates to the subject matter of the representation; or  
+ 
+   (iii) To any provider’s insurer or legal counsel, or the authorized 
+employees or agents of a provider’s insurer or legal counsel, for the sole purpose of handl ing 
+a potential or actual claim against any provider if the medical record is maintained on the 
+claimant and relates to the subject matter of the claim;  
+ 
+  (2) If the person given access to the medical record signs an 
+acknowledgment of the duty under this Act not to redisclose any patient identifying 
+information, to a person for:  
+ 
+   (i) Educational or research purposes, subject to the applicable 
+requirements of an institutional review board;  
+ 
+   (ii) Evaluation and management of health care delivery system s; 
+[or] 
+ 
+   (iii) Accreditation of a facility by professional standard setting 
+entities; OR 
+ 
+   (IV) AN OUT –OF–STATE INVESTIGATION OF LEGALLY  
+PROTECTED HEALTH CAR E PROVIDED IN THE STATE ; 
+ 
+  (3) Subject to the additional limitations for a medical record developed 
+primarily in connection with the provision of mental health services in § 4 –307 of this 
+subtitle, to a government agency performing its lawful duties as authorized by an act of the 
+Maryland General Assembly or the United States Congress;  
+ 
+  (4) Subject to the additional limitations for a medical record developed 
+primarily in connection with the provision of mental health services in § 4 –307 of this 
+subtitle, to another health care provider for the sole purpose of treating the patient or 
+recipient on whom the medical record is kept;  
+ 
+  (5) If a claim has been or may be filed by, or with the authorization of a 
+patient or recipient on behalf of the patient or recipient, for covered insureds, covered 
+beneficiaries, or enrolled recipients only, to third  party payors and their agents, if the 
+payors or agents have met the applicable provisions of §§ 15 –10B–01 to 15 –10B–18 of the 
+Insurance Article, including nonprofit health service plans, health maintenance 
+organizations, fiscal intermediaries and carriers , the Department and its agents, the 
+United States Department of Health and Human Services and its agents, or any other 
+Ch. 249  2023 LAWS OF MARYLAND   
+ 
+– 16 – person obligated by contract or law to pay for the health care rendered for the sole purposes 
+of: 
+ 
+   (i) Submitting a bill to the third  party payor;  
+ 
+   (ii) Reasonable prospective, concurrent, or retrospective utilization 
+review or predetermination of benefit coverage;  
+ 
+   (iii) Review, audit, and investigation of a specific claim for payment 
+of benefits; or  
+ 
+   (iv) Coordinating benefit  payments in accordance with the provisions 
+of the Insurance Article under more than one sickness and accident, dental, or hospital and 
+medical insurance policy;  
+ 
+  (6) If a health care provider makes a professional determination that an 
+immediate disclosu re is necessary, to provide for the emergency health care needs of a 
+patient or recipient;  
+ 
+  (7) To immediate family members of the patient or any other individual 
+with whom the patient is known to have a close personal relationship, provided that:  
+ 
+   (i) The disclosure is limited to information that is directly relevant 
+to the individual’s involvement in the patient’s health care; and  
+ 
+   (ii) 1. If the patient is present or otherwise available before the 
+disclosure and has the capacity to make health ca re decisions:  
+ 
+    A. The patient has been provided with an opportunity to 
+object to the disclosure and the patient has not objected; or  
+ 
+    B. The health care provider reasonably infers from the 
+circumstances that, based on the health care provider’s professional judgment, the patient 
+does not object to the disclosure; or  
+ 
+    2. If the patient is not present or otherwise available before 
+the disclosure is made, or providing the patient with an opportunity to object to the 
+disclosure is not practicable  because of the patient’s incapacity or need for emergency care 
+or treatment, the health care provider determines, based on the health care provider’s 
+professional judgment, that the disclosure is in the best interests of the patient;  
+ 
+  (8) To an appropri ate organ, tissue, or eye recovery agency under the 
+restrictions of § 5 –408 of this article for a patient whose organs and tissues may be donated 
+for the purpose of evaluating the patient for possible organ and tissue donation;  
+ 
+ WES MOORE, Governor  Ch. 249  
+ 
+– 17 –   (9) To the Department or an organ, tissue, or eye recovery agency 
+designated by the Department for the purpose of conducting death record reviews under § 
+19–310 of this article;  
+ 
+  (10) Subject to subsection (c) of this section, if the purpose of the medical 
+record disclosure is f or the coordination of services and record retention within the 
+Montgomery County Department of Health and Human Services; [or] 
+ 
+  (11) To a carrier, as defined in § 15 –1301 of the Insurance Article, or an 
+accountable care organization, as defined in § 302 2 of the Patient Protection and Affordable 
+Care Act, for the sole purposes of enhancing or coordinating patient care, provided that:  
+ 
+   (i) A disclosure under this item is subject to the additional 
+limitations in § 4 –307 of this subtitle on disclosure of a medical record developed primarily 
+in connection with the provision of mental health services;  
+ 
+   (ii) A medical record may be disclosed only in accordance with the 
+federal Health Insurance Portability and Accountability Act of 1996, any regulations 
+adopted under the Act, and any other applicable federal privacy laws, and disclosures under 
+this item may not be made in violation of the prohibited uses or disclosures under the 
+federal Health Insurance Portability and Accountability Act of 1996;  
+ 
+   (iii) A disclosure under this item may not be used for underwriting or 
+utilization review purposes;  
+ 
+   (iv) A health care provider that discloses a medical record in 
+accordance with this item shall provide a notice consistent with the requirements of 45 
+C.F.R. §  164.520 specifying the information to be shared, with whom it will be shared, and 
+the specific types of uses and disclosures that the health care provider may make in 
+accordance with this item;  
+ 
+   (v) The notice required by item (iv) of this item shall i nclude an 
+opportunity for the individual to opt out of the sharing of the individual’s medical record 
+with a carrier or an accountable care organization for the purposes identified in this item; 
+[and] 
+ 
+   (vi) If a health care provider discloses medical in formation or medical 
+data to a carrier or accountable care organization through an infrastructure that provides 
+organizational and technical capabilities for the exchange of protected health information 
+among entities not under common ownership, the health  care providers are subject to the 
+requirements of §§ 4 –302.2 and 4 –302.3 of this subtitle ; AND  
+ 
+   (VII) IF THE DISCLOSURE IS OF A PROTECTED SERVICES  RECORD  
+OR A PROTECTED MEDIC ATION RECORD  ABORTION CARE OR OTH ER SENSITIVE 
+HEALTH SERVICES INFO RMATION AS D ETERMINED BY THE SECRETARY UNDER §  
+4–302.5( D) OF THIS SUBTITLE , THE DISCLOSURE IS SU BJECT TO THE 
+Ch. 249  2023 LAWS OF MARYLAND   
+ 
+– 18 – REQUIREMENTS FOR A PROTECTED SERV ICES RECORD AND PROT ECTED  
+MEDICATION RECORD  UNDER § 4–302.5  OF THIS SUBTITLE ; OR  
+ 
+  (12) SUBJECT TO THE REQUIR EMENTS FOR A P ROTECTED SERVICES  
+RECORD AND PROTECTED  MEDICATION RECORD UN DER § 4–302.5  OF THIS  
+SUBTITLE , TO ANOTHER HEALTH CA RE PROVIDER FOR THE SOLE PURPOSE OF  
+TREATING THE PATIENT  FOR WHOM THE MEDICAL  RECORD IS KEPT . 
+ 
+ (c) (1) The disclosure of medical records under subsection (b)(10) of this 
+section to a person that is not employed by or under contract with the Montgomery County 
+Department of Health and Human Services shall be conducted in accordance with this 
+subtitle.  
+ 
+  (2) Under provisions of State law regarding confidentiality, the 
+Montgomery County Department of Health and Human Services shall be considered to be 
+one agency.  
+ 
+4–309. 
+ 
+ (a) THIS SECTION DOES NOT  APPLY TO A VIOLATION  OF § 4–302.5  OF THIS  
+SUBTITLE .  
+ 
+ (B) If a health care provider knowingly refuses to disclose a medical record within 
+a reasonable time but no more than 21 working days after the date a person in interest 
+requests the disclosure, the health care provider is liable for actual damages.  
+ 
+ [(b)] (C) A health care provider may not refuse to disclose a medical record on 
+the request of a person in interest because of the failure of the person in interest to pay for 
+health care rendered by the health care provider.  
+ 
+ [(c)] (D) A health care provider or any other person is in violation of this su btitle 
+if the health care provider or any other person:  
+ 
+  (1) Requests or obtains a medical record under false pretenses or through 
+deception; or  
+ 
+  (2) Discloses a medical record in violation of this subtitle.  
+ 
+ [(d)] (E) Except as otherwise provided in subsection [(e)] (F) of this section, a 
+health care provider or any other person, including an officer or employee of a governmental 
+unit, who knowingly and willfully violates any provision of this subtitle is guilty of a 
+misdemeanor and on conviction is subject to a fine not exceeding $1,000 for the first offense 
+and not exceeding $5,000 for each subsequent conviction for a violation of any provision of 
+this subtitle.  
+ 
+ WES MOORE, Governor  Ch. 249  
+ 
+– 19 –  [(e)] (F) (1) A health care provider or any other perso n, including an officer 
+or employee of a governmental unit, who knowingly and willfully requests or obtains a 
+medical record under false pretenses or through deception or knowingly and willfully 
+discloses a medical record in violation of this subtitle is g uilty of a misdemeanor and on 
+conviction is subject to the following penalties:  
+ 
+   (i) A fine not exceeding $50,000, imprisonment for not more than 1 
+year, or both;  
+ 
+   (ii) If the offense is committed under false pretenses, a fine not 
+exceeding $100,000,  imprisonment for not more than 5 years, or both; and  
+ 
+   (iii) If the offense is committed with intent to sell, transfer, or use 
+individually identifiable health information for commercial advantage, personal gain, or 
+malicious harm, a fine not exceeding $250,000, imprisonment for not more than 10 years, 
+or both.  
+ 
+  (2) This subsection does not apply to an officer or employee of a 
+governmental unit that is conducting a criminal investigation.  
+ 
+ [(f)] (G) A health care provider or any other person who knowi ngly violates any 
+provision of this subtitle is liable for actual damages.  
+ 
+4–310.  
+ 
+ (A) THERE IS A PROTECTED HEALTH CARE COMMISSION . 
+ 
+ (B) THE PURPOSE OF THE COMMISSION IS TO MAKE  RECOMMENDATIONS 
+TO THE SECRETARY REGARDING S ENSITIVE HEALTH SERV ICES THAT SHOULD BE 
+DETERMINED BY THE SECRETARY TO BE LEGAL LY PROTECTED HEALTH CARE 
+UNDER THIS SUBTITLE . 
+ 
+ (C) THE COMMISSION CONSISTS O F THE FOLLOWING MEMB ERS: 
+ 
+  (1) THE ATTORNEY GENERAL OR THE ATTORNEY GENERAL ’S 
+DESIGNEE ; 
+ 
+  (2) THE EXECUTIVE DIRECTOR OF THE MARY LAND HEALTH CARE 
+COMMISSION OR THE EXECUTIVE DIRECTOR ’S DESIGNEE ; AND  
+ 
+  (3) THE FOLLOWING MEMBERS  APPOINTED BY THE SECRETARY : 
+ 
+   (I) A RESIDENT OF THE STATE WHO IS A LICENS ED PHYSICIAN 
+AND NOMINATED BY THE  AMERICAN COLLEGE OF OBSTETRICIANS AND 
+GYNECOLOGI STS; 
+Ch. 249  2023 LAWS OF MARYLAND   
+ 
+– 20 –  
+   (II) A RESIDENT OF THE STATE WHO IS A LICENS ED CLINICIAN 
+WHO PROVIDES REPRODU CTIVE HEALTH CARE AN D NOMINATED BY THE 
+REPRODUCTIVE HEALTH ACCESS PROJECT ; 
+ 
+   (III) A RESIDENT OF THE STATE WHO IS A CERTIF IED  
+NURSE–MIDWIFE NOMINATED BY  THE MARYLAND A FFILIATE OF THE AMERICAN 
+COLLEGE OF NURSE MIDWIVES ; 
+ 
+   (IV) A RESIDENT OF THE STATE WHO IS A REPRES ENTATIVE OF 
+PHYSICIANS FOR REPRODUCTIVE HEALTH ; 
+ 
+   (VI) TWO RESIDENTS OF THE STATE WHO ARE CONSUME R 
+REPRESENTATIVES WITH  EXPERTISE IN CONSUME R DATA PRIVACY ; AND  
+ 
+   (VII) A RESIDENT OF THE STATE WITH EXPERTISE IN HEALTH 
+INFORMATION . 
+ 
+ (D) THE COMMISSION SHALL : 
+ 
+  (1) SELECT A CHAIR OF THE  COMMISSION EACH YEAR ; AND  
+ 
+  (2) MEET AT LEAST FOUR TI MES A YEAR . 
+ 
+ (E) THE DEPARTMENT SHALL PROV IDE STAFF FOR THE  COMMISSION . 
+ 
+ (F) (1) THE COMMISSION SHALL IDEN TIFY SENSITIVE HEALT H SERVICES 
+INFORMATION BY DIAGN OSIS, PROCEDURAL , MEDICATION , OR RELATED CODES FOR  
+WHICH DISCLOSURE BY A HEALTH INFORMATION  EXCHANGE OR ELECTRON IC 
+HEALTH NETWORK TO A TREATING PROVIDER , BUS INESS ENTITY , ANOTHER HEALTH 
+INFORMATION EXCHANGE , OR ANOTHER ELECTRONI C HEALTH NETWORK WOU LD 
+CREATE A SUBSTANTIAL  RISK TO PATIENTS OR HEALTH CARE PROVIDER S. 
+ 
+  (2) IN CARRYING OUT ITS W ORK, THE COMMISSION MAY CONSUL T 
+WITH : 
+ 
+   (I) ORGANIZATIONS WITH EX PER TISE IN LEGAL ISSUES  
+IMPACTING PROVIDERS OF LEGALLY PROTECTED  HEALTH CARE ; 
+ 
+   (II) ORGANIZATIONS WITH EX PERTISE IN CONSUMER HEALTH 
+PRIVACY ; 
+ 
+   (III) ORGANIZATIONS WITH EX PERTISE IN HEALTH 
+INFORMATION TECHNOLO GY; AND  
+ WES MOORE, Governor  Ch. 249  
+ 
+– 21 –  
+   (IV) OTHER ORGANIZATIONS W ITH CLIN ICAL , POLICY , OR LEGAL 
+EXPERTISE RELATED TO  THE WORK OF THE COMMISSION . 
+ 
+ (G) (1) THE COMMISSION SHALL ISSU E SEMIANNUAL REPORTS  TO THE 
+SECRETARY ON RECOMMEN DATIONS REGARDING SE NSITIVE HEALTH SERVI CES 
+THAT SHOULD BE DETER MINED BY THE SECRETARY TO BE LEGAL LY PROTECTED 
+HEALTH CARE UNDER TH IS SUBTITLE OR FOR W HICH THE SECRETARY SHOULD 
+RESCIND A PREVIOUS D ETERMINATION . 
+ 
+  (2) THE REPORTS SHALL INC LUDE AN ASSESSMENT O F THE 
+POTENTIAL RISK TO PA TIENTS AND HEALTH CA RE PROVIDERS THAT WO ULD RESULT 
+FROM THE DISCLOSURE OF THE SENSITIVE HEA LTH SERVICES THAT AR E 
+ADDRESSED IN THE REP ORTS . 
+ 
+  (3) WITHIN 60 DAYS AFTER RECEIVING  A SEMIANNUAL REPORT 
+UNDER PARAGRAPH (1) OF THIS SUBSECTION , THE SECRETARY SHALL SUBMI T A 
+WRITTEN RESPONSE TO THE REPORT THAT INCL UDES THE FINDINGS AN D 
+DETERMINATIONS OF TH E SECRETARY TO : 
+ 
+   (I) THE COMMISSION ; AND  
+ 
+   (II) IN ACCORDANCE WITH § 2–1257  OF THE STATE 
+GOVERNMENT ARTICLE , THE SENATE FINANCE COMMITTEE AND THE HOUSE 
+HEALTH AND GOVERNMENT OPERATIONS COMMITTEE .  
+ 
+19–103. 
+ 
+ (a) There is a Marylan d Health Care Commission.  
+ 
+ (b) The Commission is an independent commission that functions in the 
+Department.  
+ 
+ (c) The purpose of the Commission is to:  
+ 
+  (1) Develop health care cost containment strategies to help provide access 
+to appropriate quality health care services for all Marylanders, after consulting with the 
+Health Services Cost Review Commission;  
+ 
+  (2) Promote the development of a health regulatory system that provides, 
+for all Marylanders, financial and geographic access to quality health c are services at a 
+reasonable cost by:  
+ 
+   (i) Advocating policies and systems to promote the efficient delivery 
+of and improved access to health care services; and  
+Ch. 249  2023 LAWS OF MARYLAND   
+ 
+– 22 –  
+   (ii) Enhancing the strengths of the current health care service 
+delivery and regulatory system;  
+ 
+  (3) Facilitate the public disclosure of medical claims data for the 
+development of public policy;  
+ 
+  (4) Establish and develop a medical care database on health care services 
+rendered by health care practitioners;  
+ 
+  (5) Encourage the development of clinical resource management systems 
+to permit the comparison of costs between various treatment settings and the availability 
+of information to consumers, providers, and purchasers of health care services;  
+ 
+  (6) In accordance with Title 15 , Subtitle 12 of the Insurance Article, 
+develop a uniform set of effective benefits to be included in the Comprehensive Standard 
+Health Benefit Plan;  
+ 
+  (7) Analyze the medical care database and provide, in aggregate form, an 
+annual report on the variation s in costs associated with health care practitioners;  
+ 
+  (8) Ensure utilization of the medical care database as a primary means to 
+compile data and information and annually report on trends and variances regarding fees 
+for service, cost of care, regional a nd national comparisons, and indications of malpractice 
+situations;  
+ 
+  (9) Establish standards for the operation and licensing of medical care 
+electronic claims clearinghouses in Maryland;  
+ 
+  (10) Reduce the costs of claims submission and the administratio n of claims 
+for health care practitioners and payors;  
+ 
+  (11) Determine the cost of mandated health insurance services in the State 
+in accordance with Title 15, Subtitle 15 of the Insurance Article;  
+ 
+  (12) Promote the availability of information to consum ers on charges by 
+practitioners and reimbursements from payors; [and] 
+ 
+  (13) Oversee and administer the Maryland Trauma Physician Services 
+Fund in conjunction with the Health Services Cost Review Commission ; AND  
+ 
+  (14) ESTABLISH POLICIES AN D STANDARDS TO  PROTECT THE 
+CONFIDENTIALITY OF P ATIENT AND HEALTH CA RE PRACTITIONER INFO RMATION 
+RELATED TO LEGALLY P ROTECTED HEALTH CARE  AS DEFINED IN § 4–301 OF THIS 
+ARTICLE . 
+ 
+ WES MOORE, Governor  Ch. 249  
+ 
+– 23 –  (d) The Commission shall coordinate the exercise of its functions with the 
+Department and the  Health Services Cost Review Commission to ensure an integrated, 
+effective health care policy for the State.  
+ 
+19–145. 
+ 
+ (a) (1) In this section the following words have the meanings indicated.  
+ 
+  (2) “Dispenser” means a person authorized by law to dispense, as defined 
+in § 12 –101 of the Health Occupations Article, a prescription drug to a patient or the 
+patient’s agent in the State.  
+ 
+  (3) “Noncontrolled prescription drug” means a prescription drug, as 
+defined in § 21 –201 of this article, that is not a controlled dangerous substance designated 
+under Title 5, Subtitle 4 of the Criminal Law Article.  
+ 
+  (4) “State designated exchange” has the meaning stated in § 4 –302.3 of this 
+article.  
+ 
+ (b) The State designated exchange shall operate as a health dat a utility for the 
+State.  
+ 
+ (c) The purposes of the health data utility include:  
+ 
+  (1) The collection, aggregation, and analysis of clinical information, public 
+health data, and health administrative and operations data to assist the Department, local 
+health departments, the Commission, and the Health Services Cost Review Commission in 
+the evaluation of public health interventions and health equity;  
+ 
+  (2) The communication of data between public health officials and health 
+care providers to advance disease  control and health equity; and  
+ 
+  (3) The enhancement and acceleration of the interoperability of health 
+information throughout the State.  
+ 
+ (d) [Dispensers ] EXCEPT AS PROVIDED IN  SUBSECTION (E) OF THIS  
+SECTION , EACH DISPENSER shall provide data to the St ate designated exchange.  
+ 
+ (E) (1) A DISPENSER MAY NOT SU BMIT INFORMATION ON MIFEPRISTONE , 
+MISOPROSTOL , OR ANY MEDICATION US ED FOR A MEDICAL ABO RTION , AS 
+DETERMINED BY THE SECRETARY , TO THE STATE DESIGNATED EXCH ANGE .  
+ 
+  (2) THE SECRETARY SHALL FOLLO W GUIDELINES OF THE AMERICAN  
+COLLEGE OF OBSTETRICIANS AND GYNECOLOGISTS , THE WORLD HEALTH  
+ORGANIZATION , AND THE SOCIETY OF FAMILY PLANNING IN DETERMINI NG THE  
+MEDICATIONS TO BE IN CLUDED AMONG THE MED ICATIONS USED IN A M EDICAL  
+Ch. 249  2023 LAWS OF MARYLAND   
+ 
+– 24 – ABORTION ABOUT WHICH  A DISPENSER MAY NOT SUBMIT INFOR MATION UNDER  
+PARAGRAPH (1) OF THIS SUBSECTION .  
+ 
+ [(e)] (F) (1) The purpose of this subsection is to:  
+ 
+   (i) Authorize individuals and organizations involved in the 
+treatment and care coordination of patients to access, as legally auth orized, a patient’s 
+medication history, including medications prescribed for the patient; and  
+ 
+   (ii) Assist health care providers, care managers, the Department, 
+and local health departments to understand and promote matters of health equity and 
+treatmen t efficacy.  
+ 
+  (2) After dispensing a noncontrolled prescription drug OTHER THAN THE  
+MEDICAL ABORTION MED ICATIONS DESCRIBED U NDER SUBSECTION (E) OF THIS  
+SECTION , a dispenser shall submit prescription information to the State designated 
+exchange.  
+ 
+  (3) The prescription information shall be submitted:  
+ 
+   (i) By electronic means;  
+ 
+   (ii) Without unduly increasing the workload and expense on a 
+dispenser;  
+ 
+   (iii) In a manner that minimizes burden and duplication by being as 
+compatible as possible with exist ing federal standards for data submission practices, 
+including technology software of dispensers; and  
+ 
+   (iv) As otherwise required by regulations adopted by the 
+Commission.  
+ 
+  (4) The State designated exchange may not impose any fees or other 
+assessments  on dispensers to support the operation of the exchange.  
+ 
+  (5) The State designated exchange shall make prescription information 
+submitted under this subsection available for purposes of treatment and care coordination 
+of a patient.  
+ 
+ [(f)] (G) The State designated exchange may provide data, as allowed by law, for 
+public health purposes that may include:  
+ 
+  (1) Improving health equity through access to prescription medications, 
+including for the treatment of infectious disease;  
+ 
+ WES MOORE, Governor  Ch. 249  
+ 
+– 25 –   (2) Assisting programs led by health care providers and the Department, 
+local health departments, the Commission, and the Health Services Cost Review 
+Commission to identify opportunities for quality improvement, including for stewardship 
+of antibiotic medications; and  
+ 
+  (3) Conducting case investigations and related activities.  
+ 
+ [(g)] (H) Information submitted to the State information exchange or provided 
+by the State information exchange under this section shall be submitted or provided, to the 
+extent practicable, in as near t o real time as possible.  
+ 
+ [(h)] (I) (1) The Commission, in consultation with appropriate stakeholders, 
+shall adopt regulations to carry out this section.  
+ 
+  (2) The regulations shall take into account consumer perspective and 
+include:  
+ 
+   (i) The specific  data required to be provided under subsection (d) of 
+this section;  
+ 
+   (ii) The specific prescription information required to be submitted 
+under subsection [(e)] (F) of this section;  
+ 
+   (iii) The time frame for submitting prescription information under 
+subsection [(e)] (F) of this section;  
+ 
+   (iv) The electronic means and manner by which prescription 
+information is to be submitted under subsection [(e)] (F) of this section;  
+ 
+   (v) Prescription information submission requirements that align 
+with the data  submission requirements on dispensers of monitored prescription drugs 
+under Title 21, Subtitle 2A of this article; and  
+ 
+   (vi) Identification and necessary suppression of information related 
+to providers or medications that are determined to have signifi cant potential to cause harm.  
+ 
+ [(i)] (J) (1) The State designated exchange shall establish a consumer 
+advisory council to bring the perspectives of individuals and organizations with an interest 
+in protecting consumers into the delivery of services provid ed by the State designated 
+exchange.  
+ 
+  (2) In selecting members, the State designated exchange shall consider 
+diversity of experience.  
+ 
+  (3) The consumer advisory council established under paragraph (1) of this 
+subsection shall:  
+Ch. 249  2023 LAWS OF MARYLAND   
+ 
+– 26 –  
+   (i) Consist of a mini mum of six members, including at least four 
+consumer representatives and two staff representatives, and maintain a ratio of consumer 
+representatives to nonconsumer representatives of at least two to one;  
+ 
+   (ii) Identify and report consumer privacy concerns to senior 
+leadership of the State designated exchange;  
+ 
+   (iii) Advise on efforts to educate consumers on data exchange policies, 
+including options for consumers to opt out of disclosure of protected health information;  
+ 
+   (iv) Meet at least 3 times each year; and  
+ 
+   (v) Adopt and maintain a charter to be posted online that includes 
+the purpose, members, and meeting schedule of the consumer advisory council.  
+ 
+Article – Insurance  
+ 
+15–857. 
+ 
+ (a) (1) This section applies to:  
+ 
+   (i) insurers and n onprofit health service plans that provide labor 
+and delivery coverage to individuals or groups on an expense –incurred basis under health 
+insurance policies or contracts that are issued or delivered in the State; and  
+ 
+   (ii) health maintenance organizatio ns that provide labor and 
+delivery coverage to individuals or groups under contracts that are issued or delivered in 
+the State.  
+ 
+  (2) This section does not apply to:  
+ 
+   (i) a multistate plan that does not provide coverage for abortions in 
+accordance with  42 U.S.C. § 18054(a)(6); or  
+ 
+   (ii) a high –deductible plan, as defined in 26 U.S.C. § 223(c)(2)(C) of 
+the Internal Revenue Code, unless the Commissioner determines that abortion care is not 
+excluded from the safe harbor provisions for preventive care und er § 223(c)(2)(C) of the 
+Internal Revenue Code.  
+ 
+  (3) An organization that is eligible to obtain an exclusion from the coverage 
+requirements under § 15 –826 of this subtitle may obtain from an entity subject to this 
+section an exclusion from the coverage a nd notice requirements of this section if the 
+requirements conflict with the organization’s bona fide religious beliefs and practices.  
+ 
+ WES MOORE, Governor  Ch. 249  
+ 
+– 27 –  (b) Except as provided in subsection (c) of this section AND NOTWITHSTANDING 
+§ 31–116( A) OF THIS ARTICLE , an entity sub ject to this section shall:  
+ 
+  (1) cover abortion care services without:  
+ 
+   (i) a deductible, coinsurance, copayment, or any other cost –sharing 
+requirement; and  
+ 
+   (ii) restrictions that are inconsistent with the protected rights under 
+Title 20, Subtitle  2 of the Health – General Article; and  
+ 
+  (2) provide information to consumers about abortion care coverage using 
+the terminology “abortion care” to describe coverage.  
+ 
+ (c) If the Commissioner determines that enforcement of this section may 
+adversely aff ect the allocation of federal funds to the State, the Commissioner may grant 
+an exemption to the requirements of this section to the minimum extent necessary to 
+ensure the continued receipt of federal funds.  
+ 
+31–116. 
+ 
+ (a) The essential health benefits req uired under § 1302(a) of the Affordable Care 
+Act: 
+ 
+  (1) shall be the benefits in the State benchmark plan, selected in 
+accordance with this section; and  
+ 
+  (2) notwithstanding any other benefits mandated by State law, shall be the 
+benefits required in:  
+ 
+   (i) subject to subsection (f) of this section, all individual health 
+benefit plans and health benefit plans offered to small employers, except for grandfathered 
+health plans, as defined in the Affordable Care Act, offered outside the Exchange; and  
+ 
+   (ii) subject to § 31 –115(c) of this subtitle, all qualified health plans 
+offered in the Exchange.  
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That the Secretary of Health shall 
+adopt emergency regulations within 90 days after the effective date of this Act to identify 
+diagnostic, procedure, medication, and related codes for abortion care in accordance with § 
+4–302.5 of the Health – General Article, as enacted by Section 1 of this Act.  
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That the Maryland Health Care 
+Commiss ion shall adopt emergency regulations within 9 months after the effective date of 
+this Act to implement § 4 –302.5 of the Health – General Article, as enacted by Section 1 of 
+this Act.  
+Ch. 249  2023 LAWS OF MARYLAND   
+ 
+– 28 –  
+ SECTION 4. AND BE IT FURTHER ENACTED, That, in fiscal years 2024 and 2 025, 
+the Maryland Health Care Commission shall report on a quarterly basis to the Senate 
+Finance Committee and the House Health and Government Operations Committee, in 
+accordance with § 2 –1257 of the State Government Article, on the status of the 
+implement ation of § 4 –302.5 of the Health – General Article, as enacted by Section 1 of this 
+Act.  
+ 
+ SECTION 2. 5. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October  June  1, 2023.  
+ 
+Approved by the Governor, May 3, 2023.  

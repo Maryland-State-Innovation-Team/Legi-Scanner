@@ -1,0 +1,2277 @@
+ WES MOORE, Governor  Ch. 537  
+ 
+– 1 – Chapter 537  
+(Senate Bill 1 ) 
+ 
+AN ACT concerning  
+ 
+Electricity and Gas – Retail Supply – Regulation and Consumer Protection  
+ 
+FOR the purpose of altering a certain charge that may be assessed to a public service 
+company; changing the name of the Retail Choice Customer Education and 
+Protection Fund to the Education and Protection Fund; modifying the purpose and 
+uses of the Fund; altering the scope of a certain training and educational p rogram 
+that the Public Service Commission is required to develop; requiring the Commission 
+to require a residential energy retailer to post certain information on the energy 
+retailer’s website; providing for the recovery of certain costs through rates;  
+establishing an energy salesperson license for certain persons that offer or sell 
+electricity supply agreements or gas supply agreements to customers in the State; 
+establishing an energy vendor license for certain persons that provide energy sales 
+services in  the State;  providing for the terms of electricity supplier, energy 
+salesperson, energy vendor,  and gas supplier licenses issued by the Public Service  
+Commission; establishing certain licensing and renewal requirements for certain 
+persons; providing for certain disciplinary actions by the Commission against 
+electricity suppliers, gas suppliers, and energy vendors, and  energy salespersons for 
+certain acts; altering and establishing the amounts of certain civil penalties that may 
+be a ssessed with respect to electricity suppliers, gas suppliers, and energy 
+salespersons  vendors  for certain violations; prohibiting the Commission from 
+imposing a civil penalty on an energy salesperson;  establishing certain 
+authorizations and  restrictions on  the offer and sale of certain electricity supply and 
+gas supply ; requiring an electric company and an , a certain  electricity supplier , a gas 
+company, and a certain gas supplier  to establish a mechanism for a customer to 
+request and receive a certain repla cement number under certain circumstances and 
+to allow a customer to be placed on a certain list regarding electricity service or gas 
+service ; requiring electric companies  billing entities  to submit to the Commission a 
+certain monthly report on customer ch oice; altering the contents of a certain annual 
+report that each electricity supplier is required to submit to the Commission; 
+prohibiting a certain electricity supplier from marketing electricity as green power 
+unless certain conditions are met;  requiring  an electricity supplier that offers green 
+power for sale to residential customers to purchase certain renewable energy credits 
+in excess of the renewable energy portfolio standard in a certain year in an amount 
+equal to the amount of electricity sold to r esidential customers as green power in 
+that year ; requiring the Commission to hold certain proceedings to set the price of 
+electricity marketed as green power under certain circumstances;  requiring certain 
+electricity suppliers marketing and selling green power to residential customers to 
+include a certain disclosure  certain disclosures  in certain marketing materials; 
+stating the intent of the General Assembly regarding the establishment of a certain 
+division within the Commission; allowing the Commission t o impose on certain 
+persons up to a certain amount as a special assessment in a certain manner; allowing 
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 2 – certain funds to be expended for certain purposes in accordance with an approved 
+budget amendment; requiring, on or before a certain date, the Commissi on to develop 
+a certain training and education program;  requiring the Commission to study and 
+report to certain committees of the General Assembly, on or before a certain date, on 
+certain customer load configurations;  and generally relating to retail energ y supply 
+and consumer protection.  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Public Utilities  
+Section 1 –101(a), (l), (p), (ee), and (ff), 7–310(b)  2–110(a) and (b) , 7–701(a) and (m),  
+13–101, and 13 –201(a) and (b)  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2023 Supplement)  
+ 
+BY adding to  
+ Article – Public Utilities  
+Section 1 –101(l –1) and (l –2), 7–507.1  7–315 through 7 –318, 7–603.1, 7–604.2,  and 
+7–707 
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2023 Suppleme nt) 
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Public Utilities  
+Section 2–110(c)(12),  7–310(e)  7–310, 7 –311, 7–507, 7 –510, 7 –602, 7 –603, 7 –604,  
+7–605, 7 –705(a), and 13 –201(e)(3)  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2023  Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Public Utilities  
+ 
+1–101. 
+ 
+ (a) In this division the following words have the meanings indicated.  
+ 
+ (l) (1) “Electricity supplier” means a person:  
+ 
+   (i) who sells:  
+ 
+    1. electricity;  
+ 
+    2. electricity supply services;  
+ 
+    3. competitive billing services; or  
+ WES MOORE, Governor  Ch. 537  
+ 
+– 3 –  
+    4. competitive metering services; or  
+ 
+   (ii) who purchases, brokers, arranges, or markets electricity or 
+electricity supply services for sale to a retail electric customer.  
+ 
+  (2) “Electricity supplier” includes an electric company, an aggregator, a 
+broker, and a marketer of electricity.  
+ 
+  (3) “Electricity supplier” does not include:  
+ 
+   (i) the following persons who supply electricity and electricity 
+supply services solely to occupants of a building for use by the occupants:  
+ 
+    1. an owner/operator who holds ownership in and manages 
+the internal distribution system serving the building; or  
+ 
+    2. a less ee/operator who holds a leasehold interest in and 
+manages the internal distribution system serving the building;  
+ 
+   (ii) a person who generates on –site generated electricity; or  
+ 
+   (iii) a person that owns or operates equipment used for charging 
+electric  vehicles, including a person that owns or operates:  
+ 
+    1. an electric vehicle charging station;  
+ 
+    2. electric vehicle supply equipment; or  
+ 
+    3. an electric vehicle charging station service company or 
+provider.  
+ 
+ (L–1) (1) “ENERGY SALESPERSON ” MEANS AN INDIVIDUAL WHO IS 
+LICENSED BY THE COMMISSION TO SELL : 
+ 
+  (1) (I) ELECTRICITY OR ELECT RICITY SUPPLY SERVIC ES TO  
+RESIDENTIAL  RETAIL ELECTRIC CUST OMERS ON BEHALF OF A N ELECTRICITY 
+SUPPLIER AS AN EMPLO YEE OR AGENT OF THE ELECTRICITY SUPPLIER ; OR 
+ 
+  (2) (II) GAS OR GAS SUPPLY SE RVICES TO RESIDENTIAL  RETAIL GAS 
+CUSTOMERS ON BEHALF OF A GAS SUPPLIER AS  AN EMPLOYEE OR AGENT  OF THE 
+GAS SUPPLIER . 
+ 
+  (2) “ENERGY SALESPERSON ” DOES NOT INCLUDE : 
+ 
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 4 –    (I) THE DEPARTMENT OF GENERAL SERVICES WHEN THE 
+DEPARTMENT OF GENERAL SERVICES SELLS ENERGY  UNDER § 7–704.4  OF THIS 
+ARTICLE ; 
+ 
+   (II) THE WASHINGTON SUBURBAN SANITARY COMMISSION 
+WHEN THE WASHINGTON SUBURBAN SANITARY COMMISSION SELLS ENER GY 
+UNDER DIVISION II OF THIS ARTICLE ; 
+ 
+   (III) A COMMUNITY CHOICE A GGREGATOR UND ER § 7–510.3  OF 
+THIS ARTICLE ; OR 
+ 
+   (IV) AN EMPLOYEE OR CONTR ACTOR OF AN ELECTRIC  COMPANY 
+WHEN THE EMPLOYEE OR  CONTRACTOR IS PERFOR MING DUTIES SPECIFIC  TO 
+STANDARD OFFER SERVI CE. 
+ 
+ (L–2) “ENERGY VENDOR ” MEANS A PERSON THAT HAS A CONTRACT OR 
+SUBCONTRACT TO  PROVIDE ENERGY SALES  SERVICES TO AN ELECT RICITY 
+SUPPLIER OR A GAS SU PPLIER THAT PROVIDES  ELECTRICITY SUPPLY S ERVICES OR 
+GAS SUPPLY SERVICES , RESPECTIVELY , TO A RESIDENTIAL CUS TOMER .  
+ 
+ (p) (1) “Gas supplier” means a person who:  
+ 
+   (i) sells:  
+ 
+    1. gas; 
+ 
+    2. gas supply services; or  
+ 
+    3. competitive billing services for gas supply services; or  
+ 
+   (ii) purchases, brokers, arranges, or markets gas or gas supply 
+services for sale to a retail gas customer.  
+ 
+  (2) “Gas supplier” includes an aggregator, a broker, and a marketer of gas.  
+ 
+  (3) “Gas supplier” does not include:  
+ 
+   (i) a gas company to the extent that the gas company provides gas 
+sales or delivery service at rates regulated by the Commission;  
+ 
+   (ii) the following persons who supply gas sol ely to occupants of a 
+building for use by the occupants:  
+ 
+    1. an owner/operator who holds ownership in and manages 
+the internal distribution system serving the building; and  
+ WES MOORE, Governor  Ch. 537  
+ 
+– 5 –  
+    2. a lessee/operator who holds a leasehold interest in and 
+manages the int ernal distribution system serving the building; or  
+ 
+   (iii) a person who transmits or distributes gas within a site owned by 
+the person or the person’s affiliate that is incidental to a primarily landlord –tenant 
+relationship.  
+ 
+ (ee) (1) “Retail electric c ustomer” means a purchaser of electricity for end use 
+in the State.  
+ 
+  (2) “Retail electric customer” includes:  
+ 
+   (i) a person that owns or operates equipment used for charging 
+electric vehicles, including:  
+ 
+    1. an electric vehicle charging station;  
+ 
+    2. electric vehicle supply equipment; or  
+ 
+    3. an electric vehicle charging station service company or 
+provider; and  
+ 
+   (ii) a person that charges an electric vehicle at an electric vehicle 
+charging station that the person owns or operates.  
+ 
+  (3) “Retail electric customer” does not include:  
+ 
+   (i) an occupant of a building in which the owner/operator or 
+lessee/operator manages the internal distribution system serving the building and supplies 
+electricity and electricity supply services solely to oc cupants of the building for use by the 
+occupants;  
+ 
+   (ii) a person who generates on –site generated electricity, to the 
+extent the on –site generated electricity is consumed by that person or its tenants; or  
+ 
+   (iii) except as provided in paragraph (2)(ii)  of this subsection, a 
+person that charges an electric vehicle at an electric vehicle charging station.  
+ 
+ (ff) (1) “Retail gas customer” means a purchaser of gas for end use in the State.  
+ 
+  (2) “Retail gas customer” excludes an occupant of a building in w hich the 
+owner/operator or lessee/operator manages the internal distribution system serving the 
+building and supplies gas and gas supply services solely to occupants of the building for use 
+by the occupants.  
+ 
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 6 – 2–110. 
+ 
+ (a) In this section, “public service company” includes an electricity supplier and a 
+gas supplier as those terms are defined in § 1 –101 of this article.  
+ 
+ (b) (1) The costs and expenses of the Commission and the Office of People’s 
+Counsel shall be borne by the public service companies that are subject to the Commission’s 
+jurisdiction.  
+ 
+  (2) The costs and expenses shall be assessed as provided in this section.  
+ 
+  (3) The Commission shall pay the money that it collects for the assessment 
+under this section into the Public Utility Regulation F und in the State Treasury established 
+under § 2 –110.1 of this subtitle to reimburse the State for the expenses of the Commission 
+and the Office of People’s Counsel.  
+ 
+ (c) (12) The total amount that may be charged to a public service company 
+under this sect ion for a State fiscal year may not exceed:  
+ 
+   (i) [0.25% ] 0.50%  of the public service company’s gross operating 
+revenues derived from intrastate utility and electricity supplier operations in the preceding 
+calendar year, or other 12 –month period that the  Chairman determines, for the costs and 
+expenses of the Commission other than that of the Office of People’s Counsel; plus  
+ 
+   (ii) 0.074%  of those revenues for the costs and expenses of the Office 
+of People’s Counsel.   
+ 
+7–310. 
+ 
+ (b) There is a Retail Choice Customer Education and Protection Fund.  
+ 
+ (e) (1) The Fund is a special, [nonlasping ] NONLAPSING  fund that is not 
+subject to § 7 –302 of the State Finance and Procurement Article.  
+ 
+  (2) The State Treasurer shall hold the Fund separately, and the 
+Com ptroller shall account for the Fund.  
+ 
+ (a) In this section, “Fund” means the [Retail Choice Customer ] Education and 
+Protection Fund.  
+ 
+ (b) There is [a Retail Choice Customer ] AN Education and Protection Fund.  
+ 
+ (c) The purpose of the Fund is to provide resources to improve the Commission’s 
+ability to:  
+ 
+  (1) educate customers on : 
+ WES MOORE, Governor  Ch. 537  
+ 
+– 7 –  
+   (I) retail electric and gas choice; and  
+ 
+   (II) ENERGY CHOICES THAT HELP MEET THE STATE’S CLIMATE 
+COMMITMENTS UNDER §§ 7–211 AND 7–211.2  OF THIS TITLE AND §§ 2–1204.1  AND 
+2–1204.2  OF THE ENVIRONMENT ARTICLE ; 
+ 
+  (2) protect customers from unfair, false, misleading, or deceptive practices 
+by electricity SUPPLIERS , ENERGY SALESPERSONS , ENERGY VENDORS , or gas 
+suppliers ; AND  
+ 
+  (3) DEVELOP A TRAINING A ND EDUCATIONAL PROGR AM FOR 
+ELECTRICITY SUPPLIER S, GAS SUPPLIERS , ENERGY SALESPERSONS , AND ENERGY 
+VENDORS AS PROVIDED UNDER § 7–311 OF THIS SUBTITLE . 
+ 
+ (d) The Commission shall administer the Fund.  
+ 
+ (e) (1) The Fund is a special, [nonlasping ] NONLAPSING  fund that is not 
+subject to § 7 –302 of the State Finance and Procurement Article.  
+ 
+  (2) The State Treasurer shall hold the Fund separately, and the 
+Comptroller shall account for the Fund.  
+ 
+ (f) The Fund consists of:  
+ 
+  (1) revenue distributed to the Fund  under § 13 –201(e)(3) of this article;  
+ 
+  (2) money appropriated in the State budget to the Fund; and  
+ 
+  (3) any other money from any other source accepted for the benefit of the 
+Fund.  
+ 
+ (g) The Fund may be used only to:  
+ 
+  (1) educate retail electric or g as customers on retail choice  AND ENERGY 
+CHOICES THAT HELP TO  MEET THE STATE’S CLIMATE COMMITMENT S UNDER §§  
+7–211 AND 7–211.2  OF THIS TITLE AND §§ 2–1204.1  AND 2–1204.2  OF THE 
+ENVIRONMENT ARTICLE ; [and] 
+ 
+  (2) improve customer protections for retail electric or gas customers ; AND  
+ 
+  (3) DEVELOP A TRAINING A ND EDUCATIONAL PROGR AM FOR 
+ELECTRICITY SUPPLIER S, GAS SUPPLIERS , ENERGY SALESPERSONS , AND ENERGY 
+VENDORS AS PROVIDED UNDER § 7–311 OF THIS SUBTITLE . 
+ 
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 8 –  (h) (1) The State Treasurer shall invest the money of the Fund in the same 
+manner as other State money may be invested.  
+ 
+  (2) Any investment earnings of the Fund shall be credited to the General 
+Fund of the State.  
+ 
+ (i) Expenditures from the Fund may be made only in accordance with the State 
+budget.  
+ 
+7–311. 
+ 
+ (a) The Commission shall develop a training and educational program for any 
+entity or individual that is licensed by the Commission as an electricity supplier [or], a gas 
+supplier , AN ENERGY SALESPERSO N, OR AN ENERGY VENDOR . 
+ 
+ (b) The Commission  shall develop the program in consultation with interested 
+stakeholders, including electricity suppliers [and], gas suppliers , ENERGY 
+SALESPERSONS , AND ENERGY VENDORS . 
+ 
+ (c) The program shall require that a designated representative of each licensed 
+electr icity supplier  [or], licensed gas supplier , LICENSED ENERGY VEND OR, OR 
+LICENSED ENERGY SALE SPERSON  demonstrate a thorough understanding of the 
+Commission’s regulations regarding:  
+ 
+  (1) sales;  
+ 
+  (2) consumer protection; and  
+ 
+  (3) any other matter the Commission deems appropriate.  
+ 
+ (d) At the conclusion of the training, the Commission shall:  
+ 
+  (1) conduct an examination; and  
+ 
+  (2) on a satisfactory score, certify that the designated representative of the 
+licensed electricity supplier  [or], licensed gas supplier , LICENSED ENERGY 
+SALESPERSON , OR LICENSED ENERGY V ENDOR  has successfully completed the training.  
+ 
+ (e) (1) The Commission shall determine the schedule and frequency by which 
+a designated representative of a licensed electricity suppl ier [or], licensed gas supplier , 
+LICENSED ENERGY SALE SPERSON , OR LICENSED ENERGY V ENDOR must complete the 
+training and certification.  
+ 
+ WES MOORE, Governor  Ch. 537  
+ 
+– 9 –   (2) A designated representative of a new electricity supplier  [or], gas 
+supplier , ENERGY SALESPERSON , OR ENERGY VENDOR  shall complete the training and 
+certification prior to the issuance of a license.  
+ 
+ (f) The Commission may adopt regulations that include appropriate penalties or 
+sanctions for failure to comply with this section.  
+ 
+ (g) (1) The Commission shall use [the a ssessments collected in accordance 
+with § 2 –110 of this article ] THE FOLLOWING FUNDIN G SOURCES  for the initial 
+development of the training and educational program : 
+ 
+   (I) THE ASSESSMENTS COLL ECTED IN ACCORDANCE WITH §  
+2–110 OF THIS ARTICLE ; OR 
+ 
+   (II) FUNDS DEPOSITED INTO THE EDUCATION AND 
+PROTECTION FUND IN ACCORDANCE WI TH § 7–310 OF THIS SUBTITLE . 
+ 
+  (2) The Commission may establish reasonable fees to pay for the costs of 
+the program.  
+ 
+7–315.  
+ 
+ (A) (1) IN THIS SECTION , “RESIDENTIAL ENERGY R ETAILER ” INCLUDES : 
+ 
+   (I) AN ELECTRICITY SUPPL IER THAT SUPPLIES EL ECTRICITY 
+TO RESIDENTIAL RETAI L ELECTRIC CUSTOMERS ; 
+ 
+   (II) A GAS SUPPLIER THAT SUPPLIES GAS TO RESI DENTIAL 
+RETAIL GAS CUSTOMERS ;  
+ 
+   (III) AN ENERGY SALESPERSO N; AND  
+ 
+   (IV) AN ENERGY VENDOR . 
+ 
+  (2) “RESIDENTIAL ENERGY RE TAILER” DOES NOT INCLUDE : 
+ 
+   (I) THE DEPARTMENT OF GENERAL SERVICES WHEN THE 
+DEPARTMENT OF GENERAL SERVICES SELLS ENERGY  UNDER § 7–704.4  OF THIS 
+TITLE ; OR 
+ 
+   (II) A COMMUNITY CHOICE A GGREGATOR UNDER § 7–510.3  OF 
+THIS TITLE ; 
+ 
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 10 –    (III) AN ELECTRICITY SUPPL IER THAT SUPPLIES  WHEN 
+SUPPLYING  ELECTRICITY TO COMME RCIAL RETAIL ELECTRI C CUSTOMERS ; OR 
+ 
+   (IV) A GAS SUPPLIER THAT SUPPLIES GAS TO COMM ERCIAL 
+RETAIL GAS CUSTOMERS . 
+ 
+ (B) THE COMMISSION MAY ADOPT REGULATIONS TO :  
+ 
+  (1) REQUIRE  A RESIDENTIAL ENERGY  RETAILER TO POST NOT ICES 
+AND DISCLOSURES REQU IRED UNDER THIS TITL E ON THE RETAILER ’S WEBSITE : 
+ 
+   (I) IN A PROMINENT LOCAT ION; 
+ 
+   (II) USING AT LEAST A CER TAIN MINIMUM FONT SI ZE; AND  
+ 
+   (III) IN A FORMAT APPROVED  BY THE COMMISSION ; AND  
+ 
+  (2) REQUIRE OR PROHIBIT THE USE OF SPECIFIC LANGUAGE IN A 
+RESIDENTIAL ENERGY R ETAILER ’S MARKETING MATERIAL S, DISCLAIMERS , 
+DISCLOSURES , AND LEGAL DOCUMENTS , INCLUDING REQUIRING OR PROHIBITING 
+THE USE OF SPECIFIC LANGUAGE BASED ON SE RVICE OR PRODUCT T YPE. 
+ 
+ (C) THE COMMISSION SHALL REQU IRE A RESIDENTIAL EN ERGY RETAILER 
+TO POST ON THE RETAI LER’S WEBSITE , IN CLEAR AND UNAMBIG UOUS LANGUAGE : 
+ 
+  (1) THE TERMS AND CONDIT IONS OF THE RESIDENT IAL SERVICES 
+AND PRODUCTS SOLD BY  THE RETAILER ; AND  
+ 
+  (2) AN ENVIRONMENTAL DISCLO SURE , IN A FORMAT REQUIRED  BY 
+THE COMMISSION , FOR THE RESIDENTIAL SERVICES AND PRODUCT S SOLD BY THE 
+RETAILER . 
+ 
+7–316.  
+ 
+ (A) IN THIS SECTION , “MARKETING ” DOES NOT INCLUDE MAT ERIALS TO 
+EDUCATE OR INFORM A RETAIL CUSTOMER ABOU T STANDARD OF FER SERVICE , 
+DEFAULT GAS COMMODIT Y SERVICE , OR CUSTOMER CHOICE . 
+ 
+ (B) AN EXCEPT AS PROVIDED IN  SUBSECTION (D) OF THIS SECTION , AN 
+ELECTRIC COMPANY AND OR A GAS COMPANY MAY NO T RECOVER THROUGH IT S 
+RATES ANY COSTS ASSO CIATED WITH MARKETIN G ITS SERVICES . 
+ 
+ (C) AN ELECTRIC COOPERATI VE MAY RECOVER THROU GH ITS RATES ANY 
+COSTS ASSOCIATED WIT H MARKETING ITS SERV ICES, INCLUDING THE COSTS 
+ WES MOORE, Governor  Ch. 537  
+ 
+– 11 – ASSOCIATED WITH MATE RIALS THAT EDUCATE O R INFORM A RETAIL CU STOMER 
+ABOUT STANDARD OFFER  SERVICE OR CUSTOMER CHOICE . 
+ 
+ (D) THE COMMISSION MAY , BY REGULATION , ADOPT CRITERIA FOR 
+REVIEWING MARKETING AND OTHER COMMUNICAT ION MATERIALS OF AN ELECTRIC 
+COMPANY OR A GAS COM PANY TO DETERMINE WH ETHER THE COST OF TH E 
+MATERIALS MAY BE REC OVERED THROUGH THE C OMPANY ’S RATES .  
+ 
+7–317.  
+ 
+ (A) (1) BEGINNING JULY 1, 2025,  A PERSON MAY NOT ENG AGE IN THE 
+BUSINESS OF AN ENERG Y SALESPERSON IN THE  STATE UNLESS THE PERS ON HOLDS 
+A LICENSE ISSUED BY THE COMMISSION . 
+ 
+  (2) A LICENSED ENERGY SALE SPERSON MAY OFFER OR  SELL 
+ELECTRICITY SUPPLY A GREEMENTS OR GAS SU PPLY AGREEMENTS TO C USTOMERS 
+IN THE STATE ONLY IF THE ENE RGY SALESPERSON IS A SSOCIATED WITH A LIC ENSED 
+ELECTRICITY SUPPLIER  OR LICENSED GAS SUPP LIER , RESPECTIVELY . 
+ 
+ (B) (1) AN APPLICATION FOR AN  ENERGY SALESPERSON L ICENSE SHALL : 
+ 
+   (I) BE MADE TO THE COMMISSION IN WRITING O N A FORM 
+ADOPTED BY THE COMMISSION ; 
+ 
+   (II) BE VERIFIED BY OATH OR AFFIRMATION ; AND  
+ 
+   (III) CONTAIN INFORMATION THAT THE COMMISSION REQUIRES , 
+INCLUDING : 
+ 
+    1. PROOF OF ASSOCIATION  WITH A LICENSED 
+ELECTRICITY SUPPLIER  OR LICENSED GAS SUPPLIER , AS APPROPRIATE ; 
+ 
+    2. PROOF OF COMPLIANCE WITH ALL APPLICABLE 
+TRAINING REQUIREMENT S FOR CUSTOMER PROTE CTION UNDER THIS SUB TITLE 
+AND SUBTITLES 5 AND 6 OF THIS TITLE AS REQ UIRED BY THE COMMISSION ; AND  
+ 
+    3. PAYMENT OF THE APPLI CABLE LICENSI NG FEE . 
+ 
+  (2) (I) THE TERM OF AN ENERGY  SALESPERSON LICENSE IS 3 
+YEARS . 
+ 
+   (II) THE TERMS OF LICENSES  MAY BE STAGGERED AS 
+DETERMINED BY THE COMMISSION . 
+ 
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 12 –    (III) SUBJECT TO SUBPARAGRA PH (V) OF THIS PARAGRAPH , 
+UNLESS A LICENSE IS RENEWED FOR A 3–YEAR TERM  IN ACCORDANCE WITH T HIS 
+SUBSECTION , THE LICENSE EXPIRES ON THE DATE THAT THE  COMMISSION SETS . 
+ 
+   (IV) A LICENSEE MAY RENEW A  LICENSE FOR A 3–YEAR TERM 
+BEFORE THE LICENSE E XPIRES IF THE LICENS EE: 
+ 
+    1. OTHERWISE IS ENTITLE D TO BE LICENSED ; 
+ 
+    2. SUBMITS TO THE COMMISSION A RENEWAL 
+APPLICATION ON THE F ORM THAT THE COMMISSION PROVIDES ; AND  
+ 
+    3. PAYS TO THE COMMISSION THE APPLIC ABLE 
+RENEWAL FEE SET BY T HE COMMISSION . 
+ 
+   (V) A LICENSEE MAY CONTINU E TO PROVIDE SERVICE S AS AN 
+ENERGY SALESPERSON A FTE R THE LICENSEE ’S LICENSE EXPIRES IF  THE 
+LICENSEE ’S RENEWAL APPLICATIO N IS SUBMITTED TO TH E COMMISSION BEFORE 
+THE LICENSE EXPIRES . 
+ 
+ (C) THE COMMISSION SHALL , BY REGULATION OR ORD ER: 
+ 
+  (1) REQUIRE PROOF OF FIN ANCIAL INTEGRITY ; 
+ 
+  (2) REQUIRE A LICENSEE T O POST A BOND OR OTHER  SIMILAR 
+INSTRUMENT IF , IN THE COMMISSION ’S JUDGMENT , THE BOND OR SIMILAR 
+INSTRUMENT IS NECESS ARY TO ENSURE AN ENE RGY SALESPERSON ’S FINANCIAL 
+INTEGRITY ; AND  
+ 
+  (3) ADOPT ANY OTHER REQU IREMENTS THE COMMISSION FINDS TO 
+BE IN THE PUBLIC INTEREST . 
+ 
+ (D) A LICENSE ISSUED UNDER  THIS SECTION MAY NOT  BE TRANSFERRED 
+WITHOUT PRIOR COMMISSION APPROVAL . 
+ 
+7–318.   
+ 
+ (A) BEGINNING JULY 1, 2025,  A PERSON MAY NOT ENG AGE IN THE BUSINESS 
+OF AN ENERGY VENDOR IN THE STATE UNLESS THE PERS ON HOLDS A LICENSE 
+ISSUED BY THE COMMISSION . 
+ 
+ (B) (1) AN APPLICATION FOR AN  ENERGY VENDOR LICENS E SHALL : 
+ 
+ WES MOORE, Governor  Ch. 537  
+ 
+– 13 –    (I) BE MADE TO THE COMMISSION IN WRITING  ON A FORM 
+ADOPTED BY THE COMMISSION ; 
+ 
+   (II) BE VERIFIED BY OATH OR AFFIRMATION ; AND  
+ 
+   (III) CONTAIN INFORMATION THAT THE  COMMISSION REQUIRES , 
+INCLUDING PAYMENT OF  THE APPLICABLE LICEN SING FEE . 
+ 
+  (2) (I) THE TERM OF AN ENERGY  VENDOR LICENSE IS 3 YEARS . 
+ 
+   (II) THE TERMS OF LICENSES  MAY BE STAGGERED AS 
+DETERMINED BY THE COMMISSION . 
+ 
+   (III) UNLESS A LICENSE IS R ENEWED FOR A 3–YEAR TERM IN 
+ACCORDANCE WITH THIS  SUBSECTION , THE LICENSE EXPIRES ON THE DATE THAT 
+THE COMMISSION SETS . 
+ 
+   (IV) A LICENSEE MAY RENEW A  LICENSE FOR A 3–YEAR TERM 
+BEFORE THE LICENSE E XPIRES IF THE LICENS EE: 
+ 
+    1. OTHERWISE IS ENTITLE D TO BE LICENSED ; 
+ 
+    2. SUBMITS TO THE COMMISSION A RENEWAL 
+APPLICATION ON THE F ORM THAT THE COMMISSION PROVIDES ; AND  
+ 
+    3. PAYS TO THE COMMISSION THE APPLIC ABLE 
+RENEWAL FEE SET BY T HE COMMISSION .  
+ 
+ (C) THE COMMISSION SHALL , BY REGULATION OR ORD ER: 
+ 
+  (1) REQUIRE PROOF  OF FINANCIAL INTEGRI TY; 
+ 
+  (2) REQUIRE A LICENSEE T O POST A BOND OR OTH ER SIMILAR 
+INSTRUMENT IF , IN THE COMMISSION ’S JUDGMENT , THE BOND OR SIMILAR 
+INSTRUMENT IS NECESS ARY TO ENSURE AN ENE RGY VENDOR ’S FINANCIAL 
+INTEGRITY ; AND  
+ 
+  (3) ADOPT ANY OTHER REQU IREMENTS THE COMMISSION FINDS TO 
+BE IN THE PUBLIC INT EREST . 
+ 
+ (D) A LICENSE ISSUED UNDER  THIS SECTION MAY NOT  BE TRANSFERRED 
+WITHOUT PRIOR COMMISSION APPROVAL .  
+ 
+7–507. 
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 14 –  
+ (a) A person, other than an electric company providing standard offer service 
+under § 7 –510(c) of this subtitle, a municipal electric utility serving customers solely in its 
+distribution territory, THE DEPARTMENT OF GENERAL SERVICES SELLING ENER GY 
+UNDER § 7–704.4 OF THIS TITLE , or a community choice aggregator under § 7 –510.3 of 
+this subtitle, may not engage in the business of an electricity supplier in the State unless 
+the person holds a license issued by the Commission.  
+ 
+ (b) (1) An application for an electri city supplier license shall:  
+ 
+  [(1)] (I) be made to the Commission in writing on a form adopted by the 
+Commission;  
+ 
+  [(2)] (II) be verified by oath or affirmation; and  
+ 
+  [(3)] (III) contain information that the Commission requires, including:  
+ 
+   [(i)] 1. proof of technical and managerial competence;  
+ 
+   [(ii)] 2. proof of compliance with all applicable requirements of the 
+Federal Energy Regulatory Commission, and any independent system operator or regional 
+or system transmission operator to be used by the licensee;  
+ 
+   [(iii)] 3. a certification of compliance with applicable federal and 
+State environmental laws and regulations that relate to the generation of electricity; and  
+ 
+   [(iv)] 4. payment of the applicable licensing fee.  
+ 
+  (2) (I) THE TERM OF AN A RESIDENTIAL  ELECTRICITY SUPPLIER  
+LICENSE IS 3 YEARS . 
+ 
+   (II) THE TERMS OF LICENSES  MAY BE STAGGERED AS 
+DETERMINED BY THE COMMISSION . 
+ 
+   (III) UNLESS A LICENSE FOR A RESIDENTIAL EL ECTRICITY 
+SUPPLIER  IS RENEWED FOR A 3–YEAR TERM IN ACCORDA NCE WITH THI S 
+SUBSECTION , THE LICENSE EXPIRES ON THE DATE THAT THE  COMMISSION SETS . 
+ 
+   (IV) A LICENSEE MAY RENEW A  LICENSE FOR AN ADDITIONAL  A 
+3–YEAR TERM BEFORE THE  LICENSE EXPIRES IF T HE LICENSEE : 
+ 
+    1. OTHERWISE IS ENTITLE D TO BE LICENSED ; 
+ 
+ WES MOORE, Governor  Ch. 537  
+ 
+– 15 –     2. SUBMITS TO THE  COMMISSION A RENEWAL 
+APPLICATION ON THE F ORM THAT THE COMMISSION PROVIDES ; AND 
+ 
+    3. PAYS TO THE COMMISSION THE APPLIC ABLE 
+RENEWAL FEE SET BY T HE COMMISSION . 
+ 
+ (c) The Commission shall, by regulation or order:  
+ 
+  (1) require proof of financial integrity ; 
+ 
+  (2) require a licensee to post a bond or other similar instrument [,] if, in the 
+Commission’s judgment, the bond or similar instrument is necessary to insure an electricity 
+supplier’s financial integrity;  
+ 
+  (3) require a licensee to:  
+ 
+   (i) provide proof that [it] THE LICENSEE  is qualified to do business 
+in the State with the Department of Assessments and Taxation; and  
+ 
+   (ii) agree to be subject to all applicable taxes; and  
+ 
+  (4) adopt any other requirements [it] THE COMMISSION  finds to be in the 
+public interest, which may include different requirements for:  
+ 
+   (i) electricity suppliers that serve only large customers; and  
+ 
+   (ii) the different categories of electricity suppliers.  
+ 
+ (d) A license issued under this section may not be transferred without prior 
+Commission approval.  
+ 
+ (e) The Commission shall adopt regulations or issue orders to:  
+ 
+  (1) protect consumers, electric companies, [and] electricity suppliers , AND  
+ENERGY SALESPERSONS , AND ENERGY VENDORS  from anticompetiti ve and abusive 
+practices;  
+ 
+  (2) require each electricity supplier AND, EACH ENERGY SALESPER SON, 
+AND EACH ENERGY VEND OR to provide, in addition to the requirements under §  
+7–505(b)(5) of this subtitle, adequate and accurate customer information to enable 
+customers to make informed choices regarding the purchase of any electricity services 
+offered by the electricity supplier;  
+ 
+  (3) establish reasonable restrictions on telemarketing;  
+ 
+  (4) establish procedures for contracting with customers;  
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 16 –  
+  (5) establi sh requirements and limitations relating to deposits, billing, 
+collections, and contract cancellations;  
+ 
+  (6) establish provisions providing for the referral of a delinquent account 
+by an electricity supplier to the standard offer service under § 7 –510(c)  of this subtitle; and  
+ 
+  (7) establish procedures for dispute resolution.  
+ 
+ (f) In accordance with regulations or orders of the Commission, electricity bills, 
+for competitive and regulated electric services, provided to consumers may provide, in 
+addition to the requirements of § 7 –505(b)(5) of this subtitle and subsection (e)(2) of this 
+section, the following information:  
+ 
+  (1) the identity and phone number of the electricity supplier of the service;  
+ 
+  (2) sufficient information to evaluate prices and se rvices; and  
+ 
+  (3) information identifying whether the price is regulated or competitive.  
+ 
+ (g) (1) An electricity supplier , AN ENERGY SALESPERSO N, AN ENERGY 
+VENDOR , or any person or governmental unit may not, without first obtaining the 
+customer’s permiss ion: 
+ 
+   (i) make any change in the electricity supplier for a customer; or  
+ 
+   (ii) add a new charge for a new or existing service or option.  
+ 
+  (2) The Commission shall adopt regulations or issue orders establishing 
+procedures to prevent the practices pr ohibited under paragraph (1) of this subsection.  
+ 
+ (h) (1) An electricity supplier , AN ENERGY SALESPERSO N, OR AN ENERGY 
+VENDOR  may not discriminate against any customer based wholly or partly on race, color, 
+creed, national origin, or sex of an applicant f or service or for any arbitrary, capricious, or 
+unfairly discriminatory reason.  
+ 
+  (2) An electricity supplier , AN ENERGY SALESPERSO N, OR AN ENERGY 
+VENDOR  may not refuse to provide service to a customer except by the application of 
+standards that are reaso nably related to the electricity supplier’s economic and business 
+purposes.  
+ 
+ (i) An electricity supplier , AN ENERGY SALESPERSO N, AND AN ENERGY 
+VENDOR  shall be subject to all applicable federal and State environmental laws and 
+regulations.  
+ 
+ WES MOORE, Governor  Ch. 537  
+ 
+– 17 –  (j) An electri city supplier shall post on the Internet information that is readily 
+understandable about its services and rates for small commercial and residential electric 
+customers.  
+ 
+ (k) (1) [The] FOR SUBJECT TO SUBSECTION  (R) OF THIS SECTION , FOR 
+JUST CAUSE ON THE COMMISSION ’S OWN INVESTIGATION OR ON COMPLAINT OF T HE 
+OFFICE OF PEOPLE’S COUNSEL , THE ATTORNEY GENERAL , OR AN AFFECTED 
+PARTY , THE Commission may :  
+ 
+   (I) DENY A LICENSE TO , OR revoke [or], suspend , OR REFUSE TO 
+RENEW  the license of , an electricity supplie r[,] OR, AN ENERGY SALESPERSON , OR AN 
+ENERGY VENDOR ;  
+ 
+   (II) impose a civil penalty or other remedy [,];  
+ 
+   (III) order a refund or credit to a customer [,]; or  
+ 
+   (IV) impose a moratorium on adding or soliciting additional 
+customers by the electricity  supplier [, for just cause on the Commission’s own investigation 
+or on complaint of the Office of People’s Counsel, the Attorney General, or an affected party ] 
+OR, ENERGY SALESPERSON , OR ENERGY VENDOR . 
+ 
+  (2) A civil penalty may be imposed in addition to t he Commission’s decision 
+to DENY , revoke, suspend, OR REFUSE TO RENEW A  LICENSE or impose a moratorium.  
+ 
+  (3) Just cause includes:  
+ 
+   (i) intentionally providing false information to the Commission;  
+ 
+   (ii) switching, or causing to be switched, the electricity supply for a 
+customer without first obtaining the customer’s permission;  
+ 
+   (iii) failing to provide electricity for its customers;  
+ 
+   (iv) committing fraud or engaging in deceptive practices;  
+ 
+   (v) failing to maintain financial integrity;  
+ 
+   (vi) violating a Commission regulation or order;  
+ 
+   (vii) failing to pay, collect, remit, or calculate accurately applicable 
+State or local taxes;  
+ 
+   (viii)  violating a provision of this article or any other applicable 
+consumer protection law of the State;  
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 18 –  
+   (ix) conviction of a felony by the licensee or principal of the licensee 
+or any crime involving fraud, theft, or deceit; [and] 
+ 
+   (x) DENIAL , suspension , or revocation of  OR REFUSAL TO RENEW  
+a license by any State or federal authority ; AND  
+ 
+   (XI) COMMISSION OF ANY OF  THE ACTS DESCRIBED I N ITEMS (I) 
+THROUGH (X) OF THIS PARAGRAPH BY  A PERSON THAT IS AN AFFILIATE OF THE 
+LICENSEE OR THAT IS UNDER COMMON CONTROL  WITH THE LICENSEE . 
+ 
+ (l) (1) An electricity supplier , AN ENERGY SALESPERSON  VENDOR , or ANY 
+OTHER  person , EXCEPT FOR AN ENERGY  SALESPERSON , selling or offering to sell 
+electricity in the State in violation of this section OR § 7–507.1  OF THIS SUBTITLE  §  
+7–318 OF THIS TITLE , after notice and an opportunity for a hearing, is subject to:  
+ 
+   (i) a civil penalty of not more than [$10,000 ] $25,000  for the 
+violation; [or] 
+ 
+   (ii) license DENIAL , revocation , or suspension  OR REFUSAL TO 
+RENEW THE LICENSE ; OR 
+ 
+   (III) BOTH . 
+ 
+  (2) AN ENERGY SALESPERSON  SELLING OR OFFERING TO SELL 
+ELECTRICITY IN THE STATE IN VIOLATION OF  THIS SECTION OR § 7–317 OF THIS 
+TITLE , AFTER NOTICE AND AN OPPORTUNITY FOR A HE ARING , IS SUBJECT TO 
+LICENSE DENIAL , REVOCATION , OR SUSPENSION OR REF USAL TO RENEW THE 
+LICENSE . 
+ 
+  (3) Each day OR PART OF A DAY a violation continues is a  separate 
+violation.  
+ 
+  (3) (4)  EACH CUSTOMER TO WHOM  ELECTRICITY IS SOLD OR 
+OFFERED IN VIOLATION  OF THIS SECTION IS A  SEPARATE VIOLATION . 
+ 
+  (4) (5) The Commission shall determine the amount of any civil penalty 
+after considering:  
+ 
+   (i) the number of previous violations of any provision of this division 
+BY THE ELECTRICITY S UPPLIER , ENERGY SALESPERSON  VENDOR , OR OTHER 
+PERSON ; 
+ 
+   (ii) the gravity of the current violation; [and] 
+ WES MOORE, Governor  Ch. 537  
+ 
+– 19 –  
+   (iii) the good faith of the electricity supplier , ENERGY  
+SALESPERSON  VENDOR , or OTHER person charged in attempting to achieve compliance 
+after notification of the violation ; AND  
+ 
+   (IV) ANY OTHER MATTER THA T THE COMMISSION CONSIDERS 
+APPROPRIATE AND RELE VANT . 
+ 
+ (m) In connection with a consumer complaint or Commission investigation under 
+this section  OR § 7–507.1  OF THIS SUBTITLE  § 7–317 OR § 7–318 OF THIS TITLE , an 
+electricity supplier , AN ENERGY SALESPERSO N, ENERGY VENDOR , AND ANY OTHER 
+PERSON SELLING OR OF FERING TO SELL ELECT RICITY IN THE STATE shall provi de to 
+the Commission access to any accounts, books, papers, and documents [which ] THAT  the 
+Commission considers necessary to resolve the matter at issue.  
+ 
+ (n) The Commission may order the electricity supplier , ENERGY SALESPERSON , 
+AN ENERGY VENDOR , OR OTHER PERSON to cease adding or soliciting additional 
+customers or to cease serving customers in the State.  
+ 
+ (o) The Commission shall consult with the Consumer Protection Division of the 
+Office of the Attorney General before issuing regulations designe d to protect consumers.  
+ 
+ (p) The People’s Counsel shall have the same authority in licensing, complaint, 
+and dispute resolution proceedings as it has in Title 2 of this article.  
+ 
+ (q) Nothing in this subtitle may be construed to affect the authority of th e 
+Division of Consumer Protection in the Office of the Attorney General to enforce violations 
+of Titles 13 and 14 of the Commercial Law Article or any other applicable State law or 
+regulation in connection with the activities of electricity suppliers  AND, ENERGY 
+SALESPERSONS , AND ENERGY VENDORS . 
+ 
+ (R) THE COMMISSION MAY NOT IM POSE A CIVIL PENALTY  ON AN ENERGY 
+SALESPERSON UNDER SU BSECTION (K) OR (L) OF THIS SECTION .  
+ 
+7–507.1.  
+ 
+ (A) (1) A PERSON MAY NOT ENGAG E IN THE BUSINESS OF  AN ENERGY  
+SALESPERSON IN THE STATE UNLESS THE PERS ON HOLDS A LICENSE I SSUED BY THE  
+COMMISSION . 
+ 
+  (2) A LICENSED ENERGY SALE SPERSON MAY OFFER OR  SELL  
+ELECTRICITY SUPPLY A GREEMENTS OR GAS SUP PLY AGREEMENTS TO CU STOMERS  
+IN THE STATE ONLY IF THE ENE RGY SALESPERSON IS A SSOCIATED WITH A LI CENSED  
+ELECTRICITY SUPPLIER  OR LICENSED GAS SUPP LIER , RESPECTIVELY . 
+ 
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 20 –  (B) (1) AN APPLICATION FOR AN  ENERGY SALESPERSON L ICENSE SHALL : 
+ 
+   (I) BE MADE TO THE COMMISSION IN WRITING  ON A FORM  
+ADOPTED BY THE COMMISSION ; 
+ 
+   (II) BE VERIFIED BY OATH OR AFFIRMATION ; AND  
+ 
+   (III) CONTAIN INFORMATION THAT THE COMMISSION REQUIRES , 
+INCLUDING : 
+ 
+    1. PROOF OF ASSOCIATION  WITH A LICENSED  
+ELECTRICITY SUPPLIER  OR LICENSED GAS SUPP LIER , AS APPROPRIATE ; 
+ 
+    2. PROOF OF COMPLIANCE WITH ALL APPLICABLE  
+TRAINING REQ UIREMENTS FOR CUSTOM ER PROTECTION UNDER THIS SUBTITLE  
+AND SUBTITLE 6 OF THIS TITLE AS REQ UIRED BY THE COMMISSION ; AND  
+ 
+    3. PAYMENT OF THE APPLI CABLE LICENSING FEE . 
+ 
+  (2) (I) THE TERM OF AN ENERGY  SALESPERSON LICENSE IS 3 
+YEARS . 
+ 
+   (II) THE TERMS OF LICENSES MAY BE STAG GERED AS  
+DETERMINED BY THE COMMISSION . 
+ 
+   (III) UNLESS A LICENSE IS R ENEWED FOR A 3–YEAR TERM IN  
+ACCORDANCE WITH THIS  SUBSECTION , THE LICENSE EXPIRES ON THE DATE THAT  
+THE COMMISSION SETS . 
+ 
+   (IV) A LICENSEE MAY RENEW A  LICENSE FOR AN ADDITIONAL  
+3–YEAR TERM BEFORE THE  LICENSE EXPIRES IF T HE LICENSEE : 
+ 
+    1. OTHERWISE IS ENTITLE D TO BE LICENSED ; 
+ 
+    2. SUBMITS TO THE COMMISSION A RENEWAL  
+APPLICATION ON THE F ORM THAT THE COMMISSION PROVIDES ; AND  
+ 
+    3. PAYS TO THE COMMISSION THE APPLI CABLE  
+RENEWAL FEE SET BY T HE COMMISSION . 
+ 
+ (C) THE COMMISSION SHALL , BY REGULATION OR ORD ER: 
+ 
+  (1) REQUIRE PROOF OF FIN ANCIAL INTEGRITY ; 
+ 
+ WES MOORE, Governor  Ch. 537  
+ 
+– 21 –   (2) REQUIRE A LICENSEE T O POST A BOND OR OTH ER SIMILAR  
+INSTRUMENT IF , IN THE COMMISSION ’S JUDGMENT , THE BOND OR SIMILAR  
+INSTRUMENT IS NECESS ARY TO INSURE AN ENE RGY SALESPERSON ’S FINANCIAL  
+INTEGRITY ; AND  
+ 
+  (3) ADOPT ANY OTHER REQU IREMENTS THE COMMISSION FINDS TO  
+BE IN THE PUBLIC INT EREST . 
+ 
+ (D) A LICENSE ISSUED UNDER  THIS SECTION MAY NOT  BE TRANSFERRED  
+WITHOUT PRIOR  COMMISSION APPROVAL . 
+ 
+7–510. 
+ 
+ (a) (1) Subject to subsection (b) of this section, the phased implementation of 
+customer choice shall be implemented as follows:  
+ 
+   (i) on July 1, 2000, one –third of the residential class in the State of 
+each electric compa ny shall have the opportunity for customer choice;  
+ 
+   (ii) on January 1, 2001, the entire industrial class and the entire 
+commercial class in the State of each electric company shall have the opportunity for 
+customer choice;  
+ 
+   (iii) on July 1, 2001, two –thirds of the residential class in the State 
+of each electric company shall have the opportunity for customer choice;  
+ 
+   (iv) on July 1, 2002, all customers of each electric company shall have 
+the opportunity for customer choice; and  
+ 
+   (v) by July 1, 2 003, under a separate schedule adopted by the 
+Commission, all customers of each electric cooperative shall have the opportunity for 
+customer choice.  
+ 
+  (2) (i) In accordance with this paragraph, the Commission may adopt a 
+separate schedule for municipal el ectric utilities for the implementation of customer choice.  
+ 
+   (ii) A municipal electric utility may not be required to make its 
+service territory available for customer choice unless it elects to do so.  
+ 
+   (iii) If a municipal electric utility elects to  allow customer choice, the 
+municipal electric utility shall file a proposed plan and schedule with the Commission.  
+ 
+   (iv) The Commission may approve each municipal electric utility 
+plan and schedule after considering the features that distinguish the municipal electric 
+utility from other electric companies.  
+ 
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 22 –    (v) Nothing in this subtitle may be construed to require the 
+functional, operational, structural, or legal separation of the regulated and nonregulated 
+operations of the municipal electric utili ty. 
+ 
+  (3) If a municipal electric utility serves customers outside its distribution 
+territory, electricity suppliers licensed under § 7 –507 of this subtitle may serve the 
+customers in the distribution territory of the municipal electric utility.  
+ 
+ (b) For good cause shown and if the Commission finds the action to be in the 
+public interest, the Commission may:  
+ 
+  (1) accelerate or delay the initial implementation date of July 1, 2000, by 
+up to 3 months; or  
+ 
+  (2) accelerate any of the other implementation d ates and phase –in 
+percentages in subsection (a) of this section.  
+ 
+ (c) (1) Beginning on the initial implementation date, an electric company’s 
+obligation to provide electricity supply and electricity supply service is stated by this 
+subsection.  
+ 
+  (2) (I) Electricity supply purchased from a customer’s electric company 
+is known as standard offer service.  
+ 
+   (II) A customer is considered to have chosen the standard offer 
+service if the customer:  
+ 
+   [(i)] 1. is not allowed to choose an electricity supplier under the 
+phase in of customer choice in subsection (a) of this section;  
+ 
+   [(ii)] 2. contracts for electricity with an electricity supplier and it 
+is not delivered;  
+ 
+   [(iii)] 3. cannot arrange for electricity from an electricity supplier;  
+ 
+   [(iv)] 4. does not choose an electricity supplier;  
+ 
+   [(v)] 5. chooses the standard offer service; or  
+ 
+   [(vi)] 6. has been denied service or referred to the standard offer 
+service by an electricity supplier in accordance with § 7 –507(e)(6) of this subtitle.  
+ 
+  (3) [(i) Except as provided under subparagraph (ii) of this paragraph, 
+any obligation of an electric company to provide standard offer service shall cease on July 
+1, 2003.  
+ WES MOORE, Governor  Ch. 537  
+ 
+– 23 –  
+   (ii) 1. Electric cooperatives and municipal electric utilities may 
+choose to con tinue providing standard offer service in their respective distribution 
+territories and may cease offering that service after notifying the Commission at least 12 
+months in advance.  
+ 
+    2. On and after July 1, 2003, ] an (I) AN electric 
+company continues to have  HAS the obligation to provide standard offer service to 
+residential and small commercial customers at a market price that permits recovery of the 
+verifiable, prudently incurred costs to procure or produce the electricity plus a reasonable 
+return.  
+ 
+   (iii) 1.] (II) On or before December 31, 2008, and every 5 years 
+thereafter, the Commission shall report to the Governor and, in accordance with § 2 –1257 
+of the State Government Article, to the General Assembly on the status of the standard 
+offer servic e[,] AND  the development of competition [, and the transition of standard offer 
+service to a default service ]. 
+ 
+    [2. The Commission shall establish, by order or regulation, 
+the definition of “default service”. ] 
+ 
+  (4) (i) 1. On or before July 1, 2001, the Commission shall adopt 
+regulations or issue orders to establish procedures for the competitive selection of wholesale 
+electricity suppliers, including an affiliate of an electric company, to provide electricity for 
+standard o ffer service to customers of electric companies under paragraph (2) of this 
+subsection, except for customers of electric cooperatives and municipal electric utilities.  
+ 
+    2. Unless delayed by the Commission, the competitive 
+selection shall take effect n o later than July 1, 2003.  
+ 
+   (ii) 1. Under the obligation to provide standard offer service in 
+accordance with [paragraph (3)(ii) of ] this subsection, the Commission, by regulation or 
+order, and in a manner that is designed to obtain the best price for r esidential and small 
+commercial customers in light of market conditions at the time of procurement and the 
+need to protect these customers from excessive price increases:  
+ 
+    A. shall require each investor –owned electric company to 
+obtain its electricity supply for residential and small commercial customers participating 
+in standard offer service through a competitive process in accordance with this paragraph; 
+and 
+ 
+    B. may require or allow an investor –owned electric company 
+to procure electricity for th ese customers directly from an electricity supplier through one 
+or more bilateral contracts outside the competitive process.  
+ 
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 24 –     2. A. As the Commission directs, the competitive process 
+shall include a series of competitive wholesale bids in which the inv estor –owned electric 
+company solicits bids to supply anticipated standard offer service load for residential and 
+small commercial customers as part of a portfolio of blended wholesale supply contracts of 
+short, medium, or long terms, and other appropriate electricity products and strategies, as 
+needed to meet demand in a cost –effective manner.  
+ 
+    B. The competitive process may include different bidding 
+structures and mechanisms for base load, peak load, and very short –term procurement.  
+ 
+    C. By regulation or order, as a part of the competitive process, 
+the Commission shall require or allow the procurement of cost –effective energy efficiency 
+and conservation measures and services with projected and verifiable energy savings to 
+offset anticipated d emand to be served by standard offer service, and the imposition of other 
+cost–effective demand –side management programs.  
+ 
+    3. A. In order to prevent an excessive amount of load 
+being exposed to upward price risks and volatility, the Commission may stag ger the dates 
+for the competitive wholesale auctions.  
+ 
+    B. By regulation or order, the Commission may allow a date 
+on which a competitive wholesale auction takes place to be altered based on current market 
+conditions.  
+ 
+    4. By regulation or order, the  Commission may allow an 
+investor –owned electric company to refuse to accept some or all of the bids made in a 
+competitive wholesale auction in accordance with standards adopted by the Commission.  
+ 
+    5. The investor –owned electric company shall publicly 
+disclose the names of all bidders and the names and load allocation of all successful bidders 
+90 days after all contracts for supply are executed.  
+ 
+    6. AN INVESTOR –OWNED ELECTRIC COMPA NY MAY  
+MARKET STANDARD OFFE R SERVICE TO CUSTOME RS IN ITS SERVICE TE RRITORY IN  
+COMPLIANCE WITH APPR OPRIATE CONSUMER PRO TECTIONS CONSISTENT WITH  
+THOSE THAT APPLY TO ELECTRICITY SUPPLIER S UNDER § 7–507 OF THIS SUBTITLE . 
+ 
+  (5) An electric company may procure the electricity needed to meet its 
+standard offer service electricity  supply obligation from any electricity supplier, including 
+an affiliate of the electric company.  
+ 
+  (6) In order to meet long –term, anticipated demand in the State for 
+standard offer service and other electricity supply, the Commission may require or allo w 
+an investor –owned electric company to construct, acquire, or lease, and operate, its own 
+generating facilities, and transmission facilities necessary to interconnect the generating 
+facilities with the electric grid, subject to appropriate cost recovery.  
+ WES MOORE, Governor  Ch. 537  
+ 
+– 25 –  
+  (7) (i) To determine whether an appropriate phased implementation of 
+electricity rates that is necessary to protect residential customers from the impact of 
+sudden and significant increases in electricity rates, the Commission in the case of an 
+increase  of 20% or more over the previous year’s total electricity rates, shall conduct 
+evidentiary proceedings, including public hearings.  
+ 
+   (ii) 1. A deferral of costs as part of a phased implementation of 
+electricity rates by an investor –owned electric compan y shall be treated as a regulatory 
+asset to be recovered in accordance with a rate stabilization plan under Part III of this 
+subtitle or any other plan for phased implementation approved by the Commission.  
+ 
+    2. A deferral of costs under this paragraph m ust be just, 
+reasonable, and in the public interest.  
+ 
+   (iii) The Commission shall approve the recovery of deferred costs 
+under subparagraph (ii) of this paragraph as:  
+ 
+    1. long–term recovery in accordance with a rate stabilization 
+plan under Part III of this subtitle; or  
+ 
+    2. short –term recovery through a rate proceeding 
+mechanism approved by the Commission.  
+ 
+   (iv) The Commission may approve a phasing in of increased costs by:  
+ 
+    1. placing a cap on rates and allowing recovery over time; or  
+ 
+    2. allowing rates to increase and providing for a rebate to 
+customers of any excess costs paid.  
+ 
+  (8) (i) An electric cooperative that as of July 1, 2006, supplied its 
+standard offer service load through a portfolio of blended wholesale supply contracts of 
+short, medium, and long terms, and other appropriate electricity products and strategies, 
+as needed to meet demand in a cost –effective manner, may choose to continue to use a 
+blended portfolio:  
+ 
+    1. as approved and modified by the electric cooperativ e’s 
+board of directors; and  
+ 
+    2. with appropriate review for prudent cost recovery as 
+determined by the Commission.  
+ 
+   (ii) The Commission may not set or enforce a termination date for 
+the procurement of supply through a managed portfolio previously ap proved by the 
+Commission.  
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 26 –  
+  (9) (i) The Commission, on request by an electric cooperative or on its 
+own initiative, shall initiate a proceeding to investigate options for a rate stabilization plan 
+to assist residential electric customers to gradually adju st to market rates over an extended 
+period of time.  
+ 
+   (ii) If an electric cooperative determines that total electric rates for 
+residential customers are anticipated to increase by more than 20% in a 12 –month period 
+resulting from an increase in the cost of generation, the electric cooperative shall survey its 
+membership to determine whether to make a request to the Commission to initiate a 
+proceeding under subsection (a) of this section.  
+ 
+   (iii) Notwithstanding subparagraphs (i) and (ii) of this paragra ph, as 
+approved by the Commission, an electric cooperative may receive a modification in 
+distribution and transmission rates.  
+ 
+  (10) (I) THIS PARAGRAPH DOES N OT APPLY TO A  
+MEMBER –REGULATED COOPERATIV E AS DEFINED IN § 5–601 OF THE CORPORATIONS 
+AND ASSOCIATIONS ARTICLE . 
+ 
+   (II) AN ELECTRIC COOPERATI VE MAY ADVERTISE , MARKET , 
+AND PROMOTE STANDARD  OFFER SERVICE AND RE LATED PRODUCTS IN IT S SERVICE 
+TERRITORY , INCLUDING AVAILABILI TY, PRICE , AND OTHER TERMS , IN COMPLIANCE 
+WITH APPROPRIATE CON SUMER PROTECTI ONS CONSISTENT WITH THOSE THAT 
+APPLY TO ELECTRICITY  SUPPLIERS UNDER § 7–507 OF THIS SUBTITLE .  
+ 
+ [(d) Notwithstanding the dates set forth in this section or any other law, customer 
+choice may not commence until legislation is enacted by the General Assembly to 
+restructure Maryland taxes to address the State and local tax implications of restructuring 
+the electric utility industry. ] 
+ 
+ (D) (1) THIS SUBSECTION APPLI ES TO RESIDENTIAL  ELECTRICITY 
+SUPPLY OTHER THAN SUPPLY OFFERED THROU GH: 
+ 
+   (I) STANDARD OFFER SERVICE ; 
+ 
+   (II) THE DEPARTMENT OF GENERAL SERVICES ’ SALE OF 
+ENERGY UNDER § 7–704.4  OF THIS TITLE ; OR 
+ 
+   (III) A COMMUNITY CHOICE A GGREGATOR UNDER § 7–510.3  OF 
+THIS SUBTITLE . 
+ 
+  (2) AN A RESIDENTIAL  ELECTRICITY SUPPLIER : 
+ 
+ WES MOORE, Governor  Ch. 537  
+ 
+– 27 –    (I) MAY OFFER ELECTRICITY , OTHER THAN GREEN POW ER, 
+ONLY AT A PRICE THAT  DOES NOT EXCEED THE TRAILING 12–MONTH AVERAGE OF 
+THE ELECTRIC COMPANY ’S STANDARD OFFER SER VICE RATE IN THE ELE CTRIC 
+COMPANY ’S SERVICE TERRITORY AS OF THE DATE OF AG REEMENT WITH THE 
+CUSTOMER ; 
+ 
+   (II) MAY OFFER RESIDENTIAL  ELECTRICITY SUPPLY O NLY:  
+ 
+    1. FOR A TERM NOT TO EX CEED 12 MONTHS AT A TIME ;  
+ 
+   (III) MAY, FOR ELECTRICITY SUPP LY OTHER THAN GREEN 
+POWER , AUTOMATICALLY RENEW THE TERM ONLY IF THE  ELECTRICITY SUPPLIER  
+PROVIDES NOTICE TO T HE CUST OMER 90 DAYS BEFORE AND 30 DAYS BEFORE 
+RENEWAL ; 
+ 
+   (IV) MAY OFFER GREEN POWE R THAT MEETS THE 
+REQUIREMENTS OF § 7–707 OF THIS TITLE , BUT MAY NOT AUTOMATI CALLY RENEW 
+THE TERM WITH THE CU STOMER ; AND  
+ 
+    2. WITHOUT AUTOMATIC RE NEWAL ; 
+ 
+   (III) (V) SUBJECT TO PARAGRAPH  (3) OF THIS SUBSECTION , 
+MAY NOT OFFER A VARI ABLE RATE OTHER THAN  A RATE THAT ADJUSTS FOR 
+SEASONAL VARIATION N OT MORE THAN TWICE I N A SINGLE YEAR ; AND  
+ 
+   (IV) (VI) MAY NOT PAY A COMMIS SION OR OTHER  
+INCENTIVE –BASED COMPENSATION T O AN E NERGY SALESPERSON FO R ENROLLING 
+CUSTOMERS ; AND  
+ 
+   (V) MAY NOT IMPOSE ON A CUSTOMER A FEE FOR  
+CANCELLATION OR EARL Y TERMINATION OF AN ELECTRICITY SUPPLY A GREEMENT . 
+ 
+  (3) PARAGRAPH (2)(III) (2)(V) OF THIS SUBSECTION D OES NOT 
+PROHIBIT THE OFFER A ND USE OF TIME–OF–USE RATES THAT ESTAB LISH 
+DIFFERENT RATES FOR PERIODS WITHIN A SIN GLE DAY . 
+ 
+  (4) AN ELECTRICITY SUPPLI ER MAY NOT OFFER OR PROVIDE  
+ELECTRICITY SUPPLY T O A CUSTOMER WHO REC EIVES ENERGY ASSISTA NCE 
+THROUGH THE ELECTRIC UNIVERSAL SERVICE PROGRAM UNDER § 7–512.1  OF THIS  
+SUBTITLE OR THE ENERGY ASSISTANCE PROGRAM OF THE DEPARTMENT OF  
+HUMAN SERVICES UNDER TITLE 5, SUBTITLE 5A OF THE HUMAN SERVICES  
+ARTICLE . 
+ 
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 28 –   (5) (4) AN A RESIDENTIAL  ELECTRICITY SUPPLIER  MAY NOT SELL 
+TO AN ELECTRIC COMPA NY, AND AN ELECTRIC COMPANY MAY NOT PURC HASE FROM  
+AN THE ELECTRICITY SUPPLIER , ACCOUNTS RECEIVABLE . 
+ 
+ (E) (1) THIS SUBSECTION DOES NOT APPLY TO : 
+ 
+   (I) THE DEPARTMENT OF GENERAL SERVICES ’ SALE OF 
+ENERGY UNDER § 7–704.4  OF THIS TITLE ; OR 
+ 
+   (II) A COMMUNITY CHOICE A GGREGATOR  UNDER § 7–510.3  OF 
+THIS SUBTITLE . 
+ 
+  (2) AN ELECTRIC COMPANY A ND AN A RESIDENTIAL  ELECTRICITY 
+SUPPLIER SHALL ESTAB LISH A MECHANISM FOR  A CUSTOMER WHOSE ACC OUNT 
+NUMBER OR CUSTOMER C HOICE IDENTIFICATION  NUMBER HAS BEEN 
+COMPROMISED TO RECEI VE A REPLACEMENT ACCOUNT NUMBER OR CU STOMER 
+CHOICE IDENTIFICATIO N NUMBER ON REQUEST , SUBJECT TO VERIFICAT ION IN A 
+MANNER APPROVED BY T HE COMMISSION . 
+ 
+ (F) (1) THIS SUBSECTION DOES NOT APPLY TO : 
+ 
+   (I) THE DEPARTMENT OF GENERAL SERVICES ’ SALE OF 
+ENERGY UNDER § 7–704.4  OF T HIS TITLE ; OR 
+ 
+   (II) A COMMUNITY CHOICE A GGREGATOR UNDER § 7–510.3  OF 
+THIS SUBTITLE . 
+ 
+  (2) EXCEPT AS PROVIDED IN  PARAGRAPH (3) OF THIS SUBSECTION , 
+AS AS APPROVED BY THE COMMISSION BY REGULAT ION OR ORDER , EACH ELECTRIC 
+COMPANY AND EACH RESIDENTIAL  ELECTRICITY SUPPLIER  SHALL ALLOW A 
+CUSTOMER TO INDICATE  THE CUSTOMER ’S INTENTION TO REMAI N ON STANDARD 
+OFFER SERVICE INDEFI NITELY AND NOT TO RE CEIVE DIRECTED MARKE TING 
+CONTACTS FROM ELECTR ICITY SUPPLIERS THRO UGH THE IMPLEMENTATI ON OF A 
+“DO NOT TRANSFER ” LIST ONTO WHICH THE CU STOMER MAY REQUEST T O BE 
+PLACED . 
+ 
+  (3) A RESIDENTIAL ELECTRIC ITY SUPPLIER MAY CON TACT A 
+CUSTOMER ON A “DO NOT TRANSFER ” LIST UNTIL THE ELECT RICITY SUPPLY 
+AGREEMENT ENTERED IN TO BETWEEN THE ELECT RICITY SUPPLIER AND THE 
+CUSTOMER EXPIRES .  
+ 
+ WES MOORE, Governor  Ch. 537  
+ 
+– 29 –  (G) (1) IN THIS SUBSECTION , “BILLING ENTITY ” MEANS AN ELECTRIC 
+COMPANY , A LICENSED ELECTRICI TY SUPPLIER , OR ANY OTHER ENTITY THAT IS 
+RESPONSIBLE FOR ISSU ING AN ELECTRIC BILL  TO A RESIDENTIAL CUS TOMER . 
+ 
+  (2) ON OR BEFORE THE 15TH DAY OF EACH MONTH , EACH ELECTRIC  
+COMPANY  BILLING ENTITY  SHALL SUBMIT A REPOR T TO THE COMMISSION ON 
+CUSTOMER CHOICE IN I TS SERVICE TERRITORY  FOR THE PRECEDING MO NTH, 
+INCLUDING : 
+ 
+  (1) (I) THE TOTAL KILOWATT –HOURS DISTRIBUTED TO  
+CUSTOME RS PURCHASING ELECTR ICITY FROM A THIRD –PARTY ELECTRICITY 
+SUPPLIER ; 
+ 
+  (2) (II) THE TOTAL SUPPLY COS T CHARGED TO CUSTOME RS 
+PURCHASING ELECTRICI TY FROM A THIRD –PARTY ELECTRICITY SU PPLIER ; 
+ 
+  (3) (III) THE TOTAL COST THAT CUSTOMERS SPECIFIED IN ITEM (2) 
+(II) OF THIS SUBSECTION  PARAGRAPH  WOULD HAVE PAID UNDE R STANDARD OFFER 
+SERVICE ; 
+ 
+  (4) (IV) THE NET THIRD –PARTY TOTAL COST COM PARED TO THE 
+NET STANDARD OFFER S ERVICE COST ; 
+ 
+  (5) (V) THE TOTAL THIRD –PARTY AVERAGE RATE ; 
+ 
+  (6) (VI) THE STANDARD OFFER S ERVICE AV ERAGE RATE ; 
+ 
+  (7) (VII) THE DIFFERENCE BETWE EN THE TOTAL THIRD –PARTY 
+AVERAGE RATE AND THE  STANDARD OFFER SERVI CE AVERAGE RATE ; 
+ 
+  (8) (VIII) THE THIRD –PARTY AVERAGE RESIDE NTIAL RATES BROKEN 
+OUT BY SUPPLIER AND THE VARIANCE BETWEEN  EACH OF THESE RATES AND THE 
+STANDARD OFFER SERVI CE AVERAGE RATE ; 
+ 
+  (9) (IX) THE THIRD –PARTY AVERAGE GENERA L SERVICE 
+NONDEMAND RATES BROK EN OUT BY SUPPLIER A ND THE VARIANCE BETW EEN EACH 
+OF THESE THIRD –PARTY RATES AND THE STANDARD OFFER SERVI CE AVERAGE 
+RATE ; 
+ 
+  (10) (X) THE THIRD –PARTY AVERAGE GENERA L SERVICE DEMAND 
+RATES BROKEN OUT BY SUPPLIER AND THE VAR IANCE BETWEEN EACH O F THESE  
+THIRD–PARTY RATES AND THE STANDARD OFFER SERVI CE AVERAGE RATE ; 
+ 
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 30 –   (11) (XI) THE THIRD –PARTY AVERAGE LARGE POWER DEMAND RATES 
+BROKEN OUT BY SUPPLI ER AN D THE VARIANCE BETWE EN EACH OF THESE  
+THIRD–PARTY RATES AND THE STANDARD OFFER SERVI CE AVERAGE RATE ; AND  
+ 
+  (12) (XII) OTHER PERTINENT INFO RMATION THE COMMISSION 
+CONSIDERS APPROPRIAT E. 
+ 
+ [(e)] (H) The Commission shall, by regulation or order, adopt procedures to 
+implement this section [, including the allocation of any unused opportunity for customer 
+choice among customer classes ]. 
+ 
+ [(f)] (I) Except as provided in § 7 –510.3 of this subtitle, a county or municipal 
+corporation may not act as an aggregator unless the Commission determines there is not 
+sufficient competition within the boundaries of the county or municipal corporation.  
+ 
+7–602. 
+ 
+ The General Assembly finds and declares that the purpose of this subtitle is to:  
+ 
+  (1) clarify existing  law regarding the provision of competitive retail gas 
+supply and gas supply services in the State;  
+ 
+  (2) require the Commission to license gas suppliers  AND, ENERGY 
+SALESPERSONS , AND ENERGY VENDORS ; 
+ 
+  (3) authorize the Commission to adopt complaint proc edures;  
+ 
+  (4) establish certain requirements relating to the competitiveness of retail 
+gas supply and gas supply services markets; and  
+ 
+  (5) establish standards for the protection of consumers.  
+ 
+7–603. 
+ 
+ (a) The Commission shall license gas suppliers AND, ENERGY SALESPERSONS , 
+AND ENERGY VENDORS  and shall have the same authority as the Commission has under 
+[§ 7–507] §§ 7–507 AND  7–507.1  §§ 7–317,  7–318,  AND 7–507 of this title for electricity 
+suppliers  AND, ENERGY SALESPERSONS , AND ENERGY VENDORS , including the 
+authority to:  
+ 
+  (1) DENY , revoke [or], suspend , OR REFUSE TO RENEW  a license;  
+ 
+  (2) impose a moratorium, civil penalty, or other remedy; or  
+ 
+  (3) order a refund for or credit to a customer.  
+ WES MOORE, Governor  Ch. 537  
+ 
+– 31 –  
+ (b) The Commission shall adopt licensing requirements and procedures for gas 
+suppliers AND, ENERGY SALESPERSONS , AND ENERGY VENDORS  that protect 
+consumers, the public interest, and the collection of all State and local taxes , CONSISTENT 
+WITH THE REQUIREMENT S F OR ELECTRICITY SUPPL IERS AND ENERGY 
+SALESPERSONS  UNDER SUBTITLE 5 OF THIS TITLE AND ENERGY SALESPERS ONS 
+AND ENERGY VENDORS U NDER SUBTITLE 3 OF THIS TITLE . 
+ 
+7–603.1.  
+ 
+ (A) (1) FOR SUBJECT TO SUBSECTION  (B)(5) OF THIS SECTION , FOR JUST 
+CAUSE ON THE COMMISSIO N’S OWN INVESTIGATION OR ON COMPLAINT OF T HE 
+OFFICE OF PEOPLE’S COUNSEL , THE ATTORNEY GENERAL , OR AN AFFECTED 
+PARTY , THE COMMISSION MAY :  
+ 
+   (I) DENY A LICENSE TO , OR REVOKE , SUSPEND , OR REFUSE TO 
+RENEW THE LICENSE OF , A GAS SUPPLIER OR, AN ENERGY SALESPERSON , OR AN 
+ENERGY VENDOR ;  
+ 
+   (II) IMPOSE A CIVIL PENAL TY OR OTHER REMEDY ;  
+ 
+   (III) ORDER A REFUND OR CR EDIT TO A CUSTOMER ; OR  
+ 
+   (IV) IMPOSE A MORATORIUM ON ADDING OR SOLICIT ING 
+ADDITIONAL CUSTOMERS  BY THE GAS SUPPLIER OR, ENERGY SALESPERSON , OR AN 
+ENERGY VENDOR .  
+ 
+  (2) A CIVIL PENALTY MAY BE  IMPOSED IN ADDITION TO THE 
+COMMISSION ’S DECISION TO DENY , REVOKE , SUSPEND , OR REFUSE TO RENEW A  
+LICENSE OR IMPOSE A MORATORIUM . 
+ 
+  (3) JUST CAUSE INCLUDES : 
+ 
+   (I) INTENTIONALLY PROVID ING FALSE INFORMATION TO THE 
+COMMISSION ; 
+ 
+   (II) SWITCHING , OR CAUSING TO BE SWI TCHED , THE GAS 
+SUPPLY FOR A CUSTOME R WITHOUT FIRST OBTA INING THE CUSTOMER ’S 
+PERMISSION ; 
+ 
+   (III) FAILING TO PROVIDE G AS FOR ITS CUSTOMERS ; 
+ 
+   (IV) COMMITTING FRAUD OR ENGAGING IN DECE PTIVE 
+PRACTICES ; 
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 32 –  
+   (V) FAILING TO MAINTAIN FINANCIAL INTEGRITY ; 
+ 
+   (VI) VIOLATING A COMMISSION REGULATION  OR ORDER ; 
+ 
+   (VII) FAILING TO PAY , COLLECT , REMIT , OR CALCULATE 
+ACCURATELY APPLICABL E STATE OR LOCAL TAXES ; 
+ 
+   (VIII) VIOLATING A PROVISIO N OF THIS ARTICLE OR ANY OTHER 
+APPLICABLE CONSUMER PROTECTION LAW OF TH E STATE ; 
+ 
+   (IX) CONVICTION OF A FELO NY BY THE LICENSEE O R PRINCIPAL 
+OF THE LICENSEE OR A NY CRIME INVOLVING F RAUD , THEFT , OR DECEIT ; 
+ 
+   (X) DENIAL , SUSPENSION , OR REVOCATION OF OR REFUSAL TO 
+RENEW A LICENSE BY A NY STATE OR FEDERAL AUTH ORITY ; AND 
+ 
+   (XI) COMMISSION OF ANY OF  THE ACTS DESCRIBED I N ITEMS (I) 
+THROUGH (X) OF THIS PARAGRAPH BY  A PERSON THAT IS AN AFFILIATE OF THE 
+LICENSEE OR THAT IS UNDER COMMON CONTROL  WITH THE LICENSEE . 
+ 
+ (B) (1) (I) A GAS SUPPLIER , AN ENERGY SALESPERSON  VENDOR , OR 
+ANY OTHER PERSON , EXCEPT FOR AN ENERGY  SALESPERSON , SELLING OR 
+OFFERING TO SELL GAS  IN THE STATE IN VIOLATION OF  THIS SECTION OR § 7–603 
+OF THIS SUBTITLE , AFTER NOTICE AND AN OPPORTUNITY FOR A HEARING , IS 
+SUBJECT TO : 
+ 
+   (I) 1. A CIVIL PENALTY OF N OT MORE THAN $25,000  FOR 
+THE VIOLATION ; 
+ 
+   (II) 2. LICENSE DENIAL , REVOCATION , OR SUSPENSION OR 
+REFUSAL TO RENEW THE  LICENSE ; OR 
+ 
+   (III) 3. BOTH . 
+ 
+   (II) AN ENERGY SALESPERSON  SELLING OR OFFERING TO SELL 
+GAS IN THE STATE IN VIOLATION OF  THIS SECTION OR § 7–603 OF THIS SUBTITLE , 
+AFTER NOTICE AND AN OPPORTUNITY FOR A HE ARING , IS SUBJECT TO LICENS E 
+DENIAL , REVOCATION , OR SUSPENSION OR REF USAL TO RENEW THE LI CENSE .  
+ 
+  (2) EACH DAY OR PART OF A  DAY A VI OLATION CONTINUES IS  A 
+SEPARATE VIOLATION . 
+ 
+ WES MOORE, Governor  Ch. 537  
+ 
+– 33 –   (3) EACH CUSTOMER TO WHOM  GAS IS SOLD OR OFFER ED IN 
+VIOLATION OF THIS SE CTION IS A SEPARATE VIOLATION . 
+ 
+  (4) THE COMMISSION SHALL DETE RMINE THE AMOUNT OF ANY CIVIL 
+PENALTY AFTER CONSID ERING : 
+ 
+   (I) THE NUMBER OF PREVIO US VIOLATIONS OF ANY  PROVISION 
+OF THIS DIVISION BY THE GAS SUPPLIER , ENERGY SALESPERSON  VENDOR , OR 
+OTHER PERSON ; 
+ 
+   (II) THE GRAVITY OF THE C URRENT VIOLATION ; 
+ 
+   (III) THE GOOD FAITH OF TH E GAS SUPPLIER , ENERGY  
+SALESPERSON  VENDOR , OR OTHER PERSON CHARGED  IN ATTEMPTING TO ACH IEVE 
+COMPLIANCE AFTER NOT IFICATION OF THE VIO LATION ; AND  
+ 
+   (IV) ANY OTHER MATTER THA T THE COMMISSION CONSIDERS 
+APPROPRIATE AND RELE VANT . 
+ 
+  (5) THE COMMISSION MAY NOT IM POSE A CIVIL PENALTY  ON AN 
+INDIVIDUAL ENERGY  SALESPERSON IN ACCOR DANCE WITH THIS SUBS ECTION .  
+ 
+ (C) IN CONNECTION WITH A CONSUMER COMPLAINT O R COMMISSION 
+INVESTIGATION UNDER THIS SECTION OR § 7–603 OF THIS SUBTITLE , A GAS 
+SUPPLIER , AN ENERGY SALESPERSO N, AN ENERGY VENDOR , AND ANY OTHER 
+PERSON SELLING OR OFFERING TO SELL GAS IN THE STATE SHALL PROVIDE T O THE 
+COMMISSION ACCESS TO ANY ACCOUNTS , BOOKS , PAPERS , AND DOCUMENTS THAT 
+THE COMMISSION CONSIDERS NECESSARY TO RESOLVE  THE MATTER AT ISSUE . 
+ 
+ (D) THE COMMISSION MAY ORDER THE GAS SUPPLIER , ENERG Y 
+SALESPERSON , AN ENERGY VENDOR , OR OTHER PERSON TO C EASE ADDING OR 
+SOLICITING ADDITIONA L CUSTOMERS OR TO CE ASE SERVING CUSTOMER S IN THE 
+STATE . 
+ 
+7–604. 
+ 
+ (a) On or before July 1, 2001, the Commission shall adopt consumer protection 
+orders or regulations fo r gas suppliers AND, ENERGY SALESPERSONS , AND ENERGY 
+VENDORS  that:  
+ 
+  (1) protect consumers from discriminatory, unfair, deceptive, and 
+anticompetitive acts and practices in the marketing, selling, or distributing of natural gas;  
+ 
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 34 –   (2) provide for contrac ting, enrollment, and billing practices and 
+procedures; and  
+ 
+  (3) the Commission considers necessary to protect the consumer.  
+ 
+ (b) In adopting orders and regulations under this section, unless the Commission 
+determines that the circumstances do not require consistency, the Commission shall:  
+ 
+  (1) provide customers with protections consistent with applicable 
+protections provided to retail electric customers; and  
+ 
+  (2) impose appropriate requirements on gas suppliers AND, ENERGY 
+SALESPERSONS , AND ENE RGY VENDORS  that are consistent with applicable 
+requirements imposed on electricity suppliers  AND, ENERGY SALESPERSONS , AND 
+ENERGY VENDORS . 
+ 
+7–604.2.  
+ 
+ (A) IN THIS SECTION , “DEFAULT GAS COMMODIT Y SERVICE ” MEANS THE 
+SUPPLY OF RETAIL GAS  COMMODITY SERVICE BY  A CUSTOMER ’S GAS COMPANY . 
+ 
+ (B) (1) THIS SUBSECTION APPLI ES TO RESIDENTIAL GA S SUPPLY OTHER 
+THAN DEFAULT GAS COM MODITY SERVICE PROVI DED BY A GAS COMPANY . 
+ 
+  (2) A GAS SUPPLIER THAT SU PPLIES GAS TO RESIDE NTIAL RETAIL 
+GAS CUSTOMERS : 
+ 
+   (I) MAY OFFER GAS SE RVICE ONLY AT A PRIC E THAT DOES NOT 
+EXCEED THE TRAILING 12–MONTH AVERAGE OF THE  GAS COMPANY ’S DEFAULT GAS 
+COMMODITY SERVICE IN  THE GAS COMPANY ’S SERVICE TERRITORY AS OF THE DATE 
+OF THE AGREEMENT WIT H THE CUSTOMER ; 
+ 
+   (II) MAY OFFER RESIDENTIA L GAS SUPPLY ONLY FOR A TERM 
+NOT TO EXCEED 12 MONTHS AT A TIME AND  MAY AUTOMATICALLY RE NEW THE TERM 
+ONLY IF THE GAS SUPP LIER PROVIDES NOTICE  TO THE CUSTOMER 90 DAYS BEFORE 
+AND 30 DAYS BEFORE RENEWAL ; 
+ 
+   (III) SUBJECT TO PARAGRAPH  (3) OF THIS SUBSECTION , MAY 
+NOT OFFER A VARIABLE RATE OTHE R THAN A RATE THAT A DJUSTS FOR SEASONAL 
+VARIATION NOT MORE T HAN TWICE IN A SINGL E YEAR ; AND  
+ 
+   (IV) MAY NOT PAY A COMMIS SION OR OTHER INCENT IVE–BASED 
+COMPENSATION TO AN E NERGY SALESPERSON FO R ENROLLING CUSTOMER S. 
+ 
+ WES MOORE, Governor  Ch. 537  
+ 
+– 35 –   (3) PARAGRAPH (2)(III) OF THIS SUBSECTION D OES NOT PROHIBIT 
+THE OFFER AND USE OF  RATES THAT DIFFER BA SED ON THE TOTAL NUM BER OF 
+THERMS USED BY A CUS TOMER IN ANY BILLING  PERIOD .  
+ 
+  (4) A GAS SUPPLIER THAT SU PPLIES GAS TO RESIDE NTIAL RETAIL 
+GAS CUSTOMERS MAY NO T SELL TO A GAS  COMPANY , AND A GAS COMPANY MA Y NOT 
+PURCHASE FROM THE GA S SUPPLIER , ACCOUNTS RECEIVABLE . 
+ 
+ (C) A GAS COMPANY AND A GA S SUPPLIER THAT SUPP LIES GAS TO 
+RESIDENTIAL RETAIL G AS CUSTOMERS SHALL E STABLISH A MECHANISM  FOR A 
+CUSTOMER WHOSE ACCOU NT NUMBER OR CUSTOME R CHOICE IDENTIFICAT ION 
+NUMBER HAS BEEN COMP ROMISED TO RECEIVE A  REPLACEMENT ACCOUNT NUMBER 
+OR CUSTOMER CHOICE I DENTIFICATION NUMBER  ON REQUEST , SUBJECT TO 
+VERIFICATION IN A MA NNER APPROVED BY THE  COMMISSION . 
+ 
+ (D) (1) EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS SUBSECTION , 
+AS APPROVED BY THE COMMISSION BY REGULAT ION OR ORDER , EACH GAS 
+COMPANY AND EACH GAS  SUPPLIER THAT SUPPLI ES GAS TO RESIDENTIA L RETAIL 
+GAS CUSTOMERS SHALL ALLOW A CUSTOMER TO INDICATE THE CUSTOME R’S 
+INTENTION TO REMAIN ON DEFAULT GAS COMM ODITY SERVICE INDEFI NITELY AND 
+NOT TO RECEIVE DIREC TED MARKETING CONTAC TS FROM GAS SUPPLIER S 
+THROUGH THE IMPLEMEN TATION OF A “DO NOT TRANSFER ” LIST ONTO WHICH THE 
+CUSTOMER MAY REQUEST  TO BE PLACED . 
+ 
+  (2) A GAS SUPPLIER THAT SU PPLIES GAS TO RESIDE NTIAL RET AIL 
+GAS CUSTOMERS MAY CO NTACT A CUSTOMER ON A “DO NOT TRANSFER ” LIST UNTIL 
+THE GAS SUPPLY AGREE MENT ENTERED INTO BE TWEEN THE GAS SUPPLI ER AND 
+THE CUSTOMER EXPIRES . 
+ 
+ (E) (1) IN THIS SUBSECTION , “BILLING ENTITY ” MEANS A GAS COMPANY , 
+A LICENSED GAS SUPPL IER, OR ANY OTHER ENTITY THAT IS RESPONSIBLE FOR 
+ISSUING A GAS BILL T O A RESIDENTIAL CUST OMER . 
+ 
+  (2) ON OR BEFORE THE 15TH DAY OF EACH MONTH , EACH BILLING 
+ENTITY SHALL SUBMIT A REPORT TO THE COMMISSION ON CUSTOME R CHOICE IN 
+ITS SERVICE TERRITOR Y FOR THE PRECE DING MONTH , INCLUDING : 
+ 
+   (I) THE TOTAL THERMS DIS TRIBUTED TO CUSTOMER S 
+PURCHASING GAS FROM A THIRD –PARTY GAS SUPPLIER ; 
+ 
+   (II) THE TOTAL SUPPLY COS T CHARGED TO CUSTOME RS 
+PURCHASING GAS FROM A THIRD –PARTY GAS SUPPLIER ; 
+ 
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 36 –    (III) THE TOTAL COST THAT CUSTO MERS SPECIFIED IN IT EM (II) 
+OF THIS PARAGRAPH WO ULD HAVE PAID UNDER DEFAULT GAS COMMODIT Y 
+SERVICE ; 
+ 
+   (IV) THE NET THIRD –PARTY TOTAL COST COM PARED TO THE 
+NET DEFAULT GAS COMM ODITY SERVICE COST ; 
+ 
+   (V) THE TOTAL THIRD –PARTY AVERAGE RATE ; 
+ 
+   (VI) THE DEFA ULT GAS COMMODITY SE RVICE AVERAGE RATE ; 
+ 
+   (VII) THE DIFFERENCE BETWE EN THE TOTAL THIRD –PARTY 
+AVERAGE RATE AND THE  DEFAULT GAS COMMODIT Y SERVICE AVERAGE RA TE; 
+ 
+   (VIII) THE THIRD –PARTY AVERAGE RESIDE NTIAL RATES BROKEN 
+OUT BY SUPPLIER AND THE VARIANCE BET WEEN EACH OF THESE R ATES AND THE 
+DEFAULT GAS COMMODIT Y SERVICE AVERAGE RA TE; 
+ 
+   (IX) THE THIRD –PARTY AVERAGE GENERA L SERVICE 
+NONDEMAND RATES BROK EN OUT BY SUPPLIER A ND THE VARIANCE BETW EEN EACH 
+OF THESE THIRD –PARTY RATES AND THE DEFAULT GAS COMMODIT Y SERV ICE 
+AVERAGE RATE ; 
+ 
+   (X) THE THIRD –PARTY AVERAGE GENERA L SERVICE DEMAND 
+RATES BROKEN OUT BY SUPPLIER AND THE VAR IANCE BETWEEN EACH O F THESE 
+THIRD–PARTY RATES AND THE DEFAULT GAS COMMODIT Y SERVICE AVERAGE RA TE; 
+ 
+   (XI) THE THIRD –PARTY AVERAGE LARGE POWER DEMAND RATES 
+BROKEN OUT BY SUPPLI ER AND THE VARIANCE BETWEEN EACH OF THES E  
+THIRD–PARTY RATES AND THE DEFAULT GAS COMMODIT Y SERVICE AVERAGE RA TE; 
+AND  
+ 
+   (XII) OTHER PERTINENT INFO RMATION THE COMMISSION 
+CONSIDERS APPROPR IATE . 
+ 
+ (F) THE COMMISSION SHALL , BY REGULATION OR ORD ER, ADOPT 
+PROCEDURES TO CARRY OUT THIS SECTION .  
+ 
+7–605. 
+ 
+ (a) This subtitle may not be construed to:  
+ 
+  (1) affect the authority of the Division of Consumer Protection of the Office 
+of the Attorney Gen eral to enforce violations of Titles 13 and 14 of the Commercial Law 
+ WES MOORE, Governor  Ch. 537  
+ 
+– 37 – Article or any other applicable State law or regulation in connection with the activities of 
+gas suppliers  OR, ENERGY SALESPERSONS , OR ENERGY VENDORS ; or 
+ 
+  (2) exempt gas companies [and], gas suppliers , AND  ENERGY 
+SALESPERSONS , AND ENERGY VENDORS  from otherwise applicable State or federal 
+consumer protection and antitrust laws.  
+ 
+ (b) The Commission shall consult with the Consumer Protection Division of the 
+Office of the Attorney General b efore adopting regulations designed to protect consumers 
+of gas supply and gas supply services.  
+ 
+ (c) The People’s Counsel has the same authority in licensing, complaint, and 
+dispute resolution proceedings as the People’s Counsel has under Subtitle 5 of th is title and 
+Title 2 of this article.  
+ 
+ (d) In connection with a consumer complaint or Commission investigation under 
+this subtitle, a gas supplier OR, AN ENERGY SALESPERSO N, OR AN ENERGY VENDOR  
+shall provide to the Commission access to any accounts, books , papers, and documents that 
+the Commission considers necessary to resolve a matter in dispute.  
+ 
+7–701. 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  
+ 
+ (m) “Renewable energy credit ” or “credit ” means a credit equal to the generation 
+attributes of 1 megawatt –hour of electricity that is derived from a Tier 1 renewable source 
+or a Tier 2 renewable source that is located:  
+ 
+  (1) in the PJM region;  
+ 
+  (2) outside the area described in item (1) of this subsection but in a control  
+area that is adjacent to the PJM region, if the electricity is delivered into the PJM region; or  
+ 
+  (3) on the outer continental shelf of the Atlantic Ocean in an area that:  
+ 
+   (i) the United States Department of the Interior designates for 
+leasing after  coordination and consultation with the State in accordance with § 388(a) of the 
+Energy Policy Act of 2005; and  
+ 
+   (ii) is between 10 and 80 miles off the coast of the State.   
+ 
+7–705. 
+ 
+ (a) (1) Each  EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS 
+SUBSECTION , EACH  electricity supplier shall submit a report to the Commission each year 
+in a form and by a date specified by the Commission that:  
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 38 –  
+  (1) (i) (I) 1. demonstrates that the electricity supplier has complied 
+with the applicable renewable energy portfolio s tandard under § 7 –703 of this subtitle and 
+includes the submission of the required amount of renewable energy credits; or  
+ 
+   (ii) 2. demonstrates the amount of electricity sales by which the 
+electricity supplier failed to meet the applicable renewable ene rgy portfolio standard; [and] 
+ 
+  (2) (II) documents the level of participation of minority business 
+enterprises and minorities in the activities that support the creation of renewable energy 
+credits used to satisfy the standard under § 7 –703 of this subtit le, including development, 
+installation, and operation of generating facilities that create credits ; AND  
+ 
+  (3) (III) DOCUMENTS THE AMOUNT S AND TYPES OF GENER ATION 
+ASSOCIATED WITH RENE WABLE ENERGY CREDITS  PURCHASED IN COMPLIA NCE 
+WITH § 7–707( B) OF THIS SUBTITLE DURING THE REPORTING PERIOD ; AND  
+ 
+   (IV) DOCUMENTS THE AMOUNT  OF RENEWABLE ENERGY 
+CERTIFICATES THAT DO  NOT QUALIFY AS RENEW ABLE ENERGY CREDITS AS DEFINED 
+IN § 7–701 OF THIS SUBTITLE , INCLUDING , FOR EACH CERTIFICATE : 
+ 
+    1. THE ENERGY SOURCE AS SOCIATED WITH THE 
+CERTIFICATE , INCLUDING ITS LOCATI ON, WHEN IT WAS CONSTRUC TED, AND WHICH 
+ELECTRIC DISTRIBUTIO N SYSTEM RECEIVED TH E ENERGY ; 
+ 
+    2. WHETHER THE PURCHASE  OF THE CERTIFICATE W AS 
+BUNDLED WITH A POWER  PURCHASE AGREEMENT F ROM THE ENERGY SOURC E 
+ASSOCIATED WITH THE CERTIFICATE ; 
+ 
+    3. WHETHER THE CERTIFIC ATE WAS PURCHASED 
+DIRECTLY FROM THE OP ERATOR OF THE ENERGY  SOURCE OR THROUGH A THIRD 
+PARTY ; AND  
+ 
+    4. ANY OTHER INFORMATIO N REQUIRED BY THE 
+COMMISSION . 
+ 
+  (2) PARAGRAPH (1)(III) AND (IV) OF THI S SUBSECTION DOES NO T 
+APPLY TO : 
+ 
+   (I) THE DEPARTMENT OF GENERAL SERVICES ’ SALE OF 
+ENERGY UNDER § 7–704.4  OF THIS SUBTITLE ; OR 
+ 
+   (II) A COMMUNITY CHOICE A GGREGATOR UNDER § 7–510.3  OF 
+THIS TITLE . 
+ WES MOORE, Governor  Ch. 537  
+ 
+– 39 –  
+7–707. 
+ 
+ (A) IN THIS SECTION , “GREEN POWER ” MEANS ENERGY SOURCES OR  
+RENEWABLE ENERGY CRE DITS THAT ARE MARKET ED AS GREEN , ECO–FRIENDLY , 
+ENVIRONMENTALLY FRIE NDLY OR RESPONSIBLE , CARBON –FREE , RENEWABLE , 
+100%  RENEWABLE , 100%  WIND , 100%  HYDRO , 100%  SOLAR , 100%  EMISSION –FREE , 
+OR SIMILAR CLAIMS . 
+ 
+ (A) IN THIS SECTION , “ELECTRICITY SUPPLIER ” DOES NOT INCLUDE :, 
+“GREEN POWER ” MEANS ENERGY SOURCES  OR RENEWABLE ENERGY CREDITS THAT 
+ARE MARKETED AS CLEA N, GREEN , ECO–FRIENDLY , ENVIRONMENTALLY FRIE NDLY 
+OR RESPONSIBLE , CARBON –FREE , RENEWABLE , 100%  RENEWABLE , 100%  WIND , 
+100%  HYDRO , 100%  SOLAR , 100%  EMISSION –FREE , OR SIMILAR CLAIMS . 
+ 
+ (B) THIS SECTION DOES NOT  APPLY TO :  
+ 
+  (1) THE DEPARTMENT OF GENERAL SERVICES WHEN THE 
+DEPARTMENT OF GENERAL SERVICES SELLS ENERGY  UNDER § 7–704.4  OF THIS 
+SUBTITLE ; OR 
+ 
+  (2) A COMMUNITY CHOICE AGGREGATOR UNDER § 7–510.3  OF THIS 
+TITLE ; OR 
+ 
+  (3) AN ELECTRICITY SUPPL IER THAT SUPPLIES  WHEN SUPPLYING  
+ELECTRICITY TO COMME RCIAL RETAIL ELECTRI C CUSTOMERS . 
+ 
+ (B) (C) (1) AN ELECTRICITY SUPPLI ER THAT SUPPLIES ELE CTRICITY 
+TO RESIDENTIAL RETAI L ELECTRIC CUS TOMERS MAY NOT MARKE T ELECTRICITY AS 
+GREEN POWER UNLESS :  
+ 
+   (I) (1) THE PERCENTAGE OF TH E ELECTRICITY BEING 
+OFFERED , OR THE EQUIVALENT NU MBER OF RENEWABLE EN ERGY CREDITS 
+ASSOCIATED WITH THE ELECTRICITY  BEING  MARKETED AS GREEN PO WER, THAT IS 
+ELIGIBLE FOR INCLUSION IN MEETING  THE RENEWABLE ENERGY  PORTFOLIO 
+STANDARD EQUALS OR E XCEEDS THE GREATER O F: 
+ 
+    1. (I) 51%;  OR 
+ 
+    2. (II) 1% HIGHER THAN THE RENE WABLE ENERGY 
+PORTFOLIO STANDARD F OR THE YEAR THE ELEC TRICITY IS PROVIDED TO THE 
+CUSTOMER ; AND  
+ 
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 40 –    (II) (2) THE COMMISSION APPROVES T HE PRICE OF THE 
+ELECTRICITY BEING MA RKETED AS GREEN POWE R IN ACCORDANCE WITH 
+SUBSECTION (D) OF THIS SECTION ; AND 
+ 
+  (3) THE ELECTRICITY SUPP LIER SUBMITS AN APPL ICATION TO THE 
+COMMISSION THAT : 
+ 
+   (I) DESCRIBES THE ELECTR ICITY B EING MARKETED AS GRE EN 
+POWER , INCLUDING THE GREEN POWER SOURCE AND PER CENTAGE OF THE 
+ELECTRICITY THAT IS GREEN POWER ; 
+ 
+   (II) DESCRIBES HOW THE GR EEN POWER COMPLIES W ITH STATE 
+LAW AND REGULATIONS ; AND 
+ 
+   (III) INCLUDES ANY OTHER I NFORMATION THE COMMISSION 
+CONSIDERS NECESSARY . 
+ 
+  (2) IN APPROVING THE PRIC E OF ELECTRICITY UND ER PARAGRAPH 
+(1)(II) OF THIS SUBSECTION , THE COMMISSION SHALL CONS IDER : 
+ 
+   (I) WHETHER THE PURCHASE  OF RENEWABLE ENERGY 
+CREDITS WAS BUNDLED WITH A POWER PURCHAS E AGREEMENT FRO M THE ENERGY 
+SOURCES ASSOCIATED W ITH THE CREDIT ; 
+ 
+   (II) THE PRICE OF THE ENE RGY PURCHASED , INCLUDING THE 
+TOTAL COST OF THE RE NEWABLE ENERGY CREDI TS OR POWER PURCHASE  
+AGREEMENTS ; 
+ 
+   (III) THE AMOUNT OF ELECTR ICITY THAT IS ELIGIB LE FOR 
+INCLUSION IN MEETING THE RENEWABL E ENERGY PORTFOLIO S TANDARD ; AND  
+ 
+   (IV) THE STATE IN WHICH T HE ELECTRICITY WAS G ENERATED .  
+ 
+ (D) (1) THE PRICE APPROVED BY  THE COMMISSION UNDER SUBS ECTION 
+(B)(2)  OF THIS SECTION SHAL L BE DETERMINED THRO UGH: 
+ 
+   (I) A PROCEEDING HELD IN ACCORDANCE WITH P ARAGRAPH (2) 
+OF THIS SUBSECTION ; OR 
+ 
+   (II) A PROCEEDING HELD IN  ACCORDANCE WITH PARA GRAPH (3) 
+OF THIS SUBSECTION . 
+ 
+ WES MOORE, Governor  Ch. 537  
+ 
+– 41 –   (2) (I) EACH YEAR THE COMMISSION SHALL HOLD  A PROCEEDING 
+TO SET A PRICE PER M EGAWATT –HOUR FOR ELECTRICITY  MARKETED AS  GREEN 
+POWER UNDER THIS SEC TION THAT MAY NOT BE  EXCEEDED BY AN ELECT RICITY 
+SUPPLIER EXCEPT AS P ROVIDED IN PARAGRAPH  (3) OF THIS SUBSECTION . 
+ 
+   (II) SUBJECT TO PARAGRAPH (4) OF THIS SUBSECTION , THE 
+PRICE SET BY THE COMMISSION UNDER SUBP ARAGRAPH (I) OF THIS  PARAGRAPH 
+MAY: 
+ 
+    1. EXCEED THE MAXIMUM P RICE PER MEGAWATT –HOUR 
+THAT IS AUTHORIZED U NDER § 7–510( D)(2)( I) OF THIS TITLE ; AND  
+ 
+    2. DIFFER BASED ON THE AMOUNT AND SOURCE OF  THE 
+ELECTRICITY GENERATI ON. 
+ 
+   (III) DURING A PROCEEDING H ELD UNDER SUBPARAGRA PH (I) 
+OF THIS PARAGRAPH , THE COMMISSION : 
+ 
+    1. SHALL CONSIDER : 
+ 
+    A. THE PRICE OF THE ENE RGY PURCHASED , INCLUDING 
+THE TOTAL COST OF TH E RENEWABLE ENERGY C REDITS ; 
+ 
+    B. THE AMOUNT OF ELECTR ICITY THAT IS ELIGIB LE FOR 
+INCLUSION IN MEETING  THE RENEWABLE  ENERGY PORTFOLIO STA NDARD ; 
+ 
+    C. THE STATE IN WHICH T HE ELECTRICITY WAS 
+GENERATED ; AND  
+ 
+    D. APPLICABLE MARKET DA TA; AND  
+ 
+    2. MAY CONSIDER WHETHER  THE PURCHASE OF 
+RENEWABLE ENERGY CRE DITS WAS BUNDLED WIT H A POWER PURCHASE A GREEMENT 
+FROM THE ENERGY SOURCES ASSOCIATED W ITH THE CREDIT . 
+ 
+  (3) (I) ON REQUEST BY AN ELEC TRICITY SUPPLIER , THE 
+COMMISSION SHALL HOLD  A PROCEEDING TO SET A PRICE PER MEGAWATT –HOUR 
+FOR ELECTRICITY MARK ETED AS GREEN POWER FOR THAT ELECTRICITY  SUPPLIER . 
+ 
+   (II) SUBJECT TO PARAGRAPH (4) OF THIS SUBSECTION , AT A 
+PROCEEDING HELD UNDE R THIS PARAGRAPH THE  COMMISSION MAY SET A PRICE 
+PER MEGAWATT –HOUR THAT IS HIGHER THAN THE PRICE DETER MINED IN THE 
+PROCEEDING HELD UNDE R PARAGRAPH (2) OF THIS SUBSECTION F OR AN 
+ELECTRICIT Y SUPPLIER IF : 
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 42 –  
+    1. THE ELECTRICITY SUPP LIER DEMONSTRATES TO  THE 
+COMMISSION ’S SATISFACTION , BASED ON AN INDEPEND ENT THIRD –PARTY AUDIT , 
+THAT THE ACTUAL COST  TO THE ELECTRICITY S UPPLIER FOR THE GENE RATION OR 
+SUPPLY OF ELECTRICIT Y EXCEEDS THAT OF TH E PRICE  DETERMINED THROUGH T HE 
+PROCEEDING HELD IN A CCORDANCE WITH PARAG RAPH (2) OF THIS SUBSECTION ; 
+ 
+    2. THE INCREASED PRICE REFLECTS ONLY THE CO ST OF 
+THE ELECTRICITY MARK ETED AS GREEN POWER AND IS NOT ASSOCIATE D WITH ANY 
+OF THE ELECTRICITY S UPPLIER ’S OTHER CO STS; AND  
+ 
+    3. THE ELECTRICITY SUPP LIER DEMONSTRATES TO  THE 
+COMMISSION ’S SATISFACTION THAT THE ELECTRICITY SUPP LIER HAS A 
+SIGNIFICANT LONG –TERM INVESTMENT IN R ENEWABLE ENERGY THAT  MEETS THE 
+RENEWABLE ENERGY POR TFOLIO STANDARD UNDE R § 7–703 OF THIS SUBTIT LE. 
+ 
+   (III) DURING A PROCEEDING H ELD UNDER THIS PARAG RAPH , 
+THE COMMISSION SHALL CONS IDER : 
+ 
+    1. WHETHER THE PURCHASE  OF RENEWABLE ENERGY 
+CREDITS WAS BUNDLED WITH A POWER PURCHAS E AGREEMENT FROM THE  ENERGY 
+SOURCES ASSOCIATED W ITH THE CREDIT ; 
+ 
+    2. THE  PRICE OF THE ENERGY PURCHASED , INCLUDING 
+THE TOTAL COST OF TH E RENEWABLE ENERGY C REDITS OR POWER PURC HASE 
+AGREEMENTS ; 
+ 
+    3. THE AMOUNT OF ELECTR ICITY THAT IS ELIGIB LE FOR 
+INCLUSION IN MEETING  THE RENEWABLE ENERGY  PORTFOLIO STANDARD ; 
+ 
+    4. THE STATE IN  WHICH THE ELECTRICIT Y WAS 
+GENERATED ; AND  
+ 
+    5. APPLICABLE MARKET DA TA. 
+ 
+  (4) (I) A PRICE APPROVED BY TH E COMMISSION UNDER THIS  
+SUBSECTION MAY NOT E XCEED 150%  OF THE MAXIMUM PRICE  PER MEGAWATT –HOUR 
+THAT IS AUTHORIZED U NDER § 7–510( D)(2)( I) OF THIS TITLE  UNLESS THE 
+COMMISSION DETERMINES  THAT THE ACTUAL COST  OF THE GREEN POWER E XCEEDS 
+THAT AMOUNT . 
+ 
+   (II) WITHIN 120 DAYS AFTER APPROVING  A PRICE FOR GREEN 
+POWER THAT EXCEEDS 150%  OF THE MAXIMUM PRICE  PER MEGAWATT –HOUR THAT 
+ WES MOORE, Governor  Ch. 537  
+ 
+– 43 – IS AUTHORIZED UNDER § 7–510( D)(2)( I) OF THIS TITLE , AND ANNUALLY FOR AS 
+LONG AS THE PRICE EX CEEDS THAT AMOUNT , THE COMMISSION SHALL SUBM IT A 
+REPORT TO THE GENERAL ASSEMBLY , IN ACCORDANCE WITH § 2–1257  OF THE 
+STATE GOVERNMENT ARTICLE , THAT : 
+ 
+    1. DEMONSTRATES THAT TH E APPROVED PRICE 
+REPRESENTS ONLY THE ACTUAL PRICE OF THE GREEN POWER ; AND  
+ 
+    2. INCLUDES THE COMMISSION ’S ORDER AUTHORIZING 
+THE PRICE OF THE GRE EN POWER . 
+ 
+   (III) IF THE COMMISSION HAS APPROV ED FOR 3 CONSECUTIVE 
+YEARS A PRICE FOR GR EEN POWER THAT EXCEE DS 150%  OF THE MAX IMUM PRICE 
+PER MEGAWATT –HOUR THAT IS AUTHORI ZED UNDER § 7–510( D)(2)( I) OF THIS TITLE , 
+THE COMMISSION SHALL INCL UDE IN THE ANNUAL RE PORT REQUIRED UNDER 
+SUBPARAGRAPH (II) OF THIS PARAGRAPH : 
+ 
+    1. INFORMATION ON MARKE T CONDITIONS THAT 
+NECESSITATE THE APPR OVED PRICE OF THE GR EEN POWER THAT EXCEE DS 150%  OF 
+THE MAXIMUM PRICE PE R MEGAWATT –HOUR THAT IS AUTHORI ZED UNDER §  
+7–510( D)(2)( I) OF THIS TITLE ; AND  
+ 
+    2. A RECOMMENDATION OF WHETHER TO INCREASE THE 
+LIMITATION ON THE MA XIMUM PRICE OF GREEN  POWER ABOVE WHICH TH E 
+COMMISSION IS REQUIRE D TO MAKE A DETERMIN ATION UNDER THIS PAR AGRAPH . 
+ 
+  (5) THE COMMISSION : 
+ 
+   (I) SHALL ANNUALLY REVIE W A PRICE APPROVED U NDER 
+PARAGRAPH (3) OF THIS SUBSECTION ; AND  
+ 
+   (II) MAY, ON ITS OWN INITIATIV E, OR ON PETITION BY TH E 
+OFFICE OF PEOPLE’S COUNSEL , REQUIRE AN ELECTRICI TY SUPPLIER OFFERING  
+GREEN POWER UNDER A PRICE ESTABLISHED UN DER PARAGRAPH (3) OF THIS 
+SUBSECTION TO DEMONS TRATE THAT THE PRICE  CONTINUES TO MEET TH E 
+REQUIR EMENTS OF PARAGRAPH (3) OF THIS SUBSECTION .  
+ 
+ (B) (C) (E) (1) ON AND AFTER JANUARY 1, 2025,  AN ELECTRICITY 
+SUPPLIER SHALL PURCH ASE RENEWABLE ENERGY  CREDITS FOR EACH YEA R THE 
+ELECTRICITY SUPPLIER  OFFERS GREEN POWER F OR SALE TO RESIDENTI AL RETAIL 
+ELECTRIC CUSTOMERS AS FOLLOWS : 
+ 
+   (I) BEGINNING JULY 1, 2025,  0% OF THE CREDITS MAY BE 
+GENERATED IN THE PJM  REGION ; 
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 44 –  
+   (II) BEGINNING JULY 1, 2027,  AT LEAST 10%  OF THE CREDITS 
+SHALL BE GENERATED I N THE PJM  REGION ; 
+ 
+   (III) BEGINNING JULY 1, 2029,  AT LEAST 20%  OF THE CREDITS 
+SHALL BE GENERATED I N THE PJM  REGION ; 
+ 
+   (IV) BEGINNING JULY 1, 2031,  AT LEAST 30%  OF THE CREDITS 
+SHALL BE GENERATED I N THE PJM  REGION ; 
+ 
+   (V) BEGINNING JULY 1, 2033,  AT LEAST 40%  OF THE CREDITS 
+SHALL BE GENERATED I N THE PJM  REGION ; AND  
+ 
+   (VI) BEGINNING JULY 1, 2035,  AT LEAST 50%  OF THE CREDITS 
+SHALL BE GENERATED I N THE PJM  REGION . 
+ 
+  (2) THE CREDITS THAT AN E LECTRICITY SUPPLIER PURCHASES  
+UNDER PARAGRAPH (1) OF THIS SUBSECTION S HALL BE : 
+ 
+   (I) GENERATED : 
+ 
+    1. IN THE PJM  REGION ; OR 
+ 
+    2. OUTSIDE THE PJM  REGION ONLY IF THE  
+ELECTRICITY IS DELIVERED INTO THE PJM  REGION ; AND  
+ 
+   (II) (2) A RENEWABLE ENERGY CRE DIT AN ELECTRICITY 
+SUPPLIER PURCHASES U NDER PARAGRAPH (1) OF THIS SUBSECTION  SHALL BE  
+RETIRED IN A PJM  ENVIRONMENTAL INFORMATION SERVICES , INC., GENERATION 
+ATTRIBUTE TRACKING S YSTEM RESERVE SUBACCOUNT A CCESSIBLE BY THE 
+COMMISSION . 
+ 
+ (C) (D) (F) (1) THIS SUBSECTION DOES NOT APPLY TO : 
+ 
+   (I) THE DEPARTMENT OF GENERAL SERVICES WHEN THE 
+DEPARTMENT OF GENERAL SERVICES SELLS ENERGY  UNDER § 7–704.4  OF THIS 
+SUBTITLE ; OR  
+ 
+   (II) A COMMUNITY  CHOICE AGGREGATOR UN DER § 7–510.3  OF 
+THIS TITLE . 
+ 
+  (2) AN ELECTRICITY SUPPLI ER THAT CLAIMS IN TH E ELECTRICITY 
+SUPPLIER ’S MARKETING OF ELECT RICITY TO RESIDENTIA L RETAIL ELECTRIC 
+CUSTOMERS THAT THE C USTOMER WILL BE PURC HASING GREEN POWER S HALL 
+ WES MOORE, Governor  Ch. 537  
+ 
+– 45 – INCLUDE THE FOLLOWING DISCLOSURE  OR A SIMILAR DISCLOS URE APPROVED BY 
+THE COMMISSION : 
+ 
+ “IF YOU PURCHASE THIS ENERGY PLAN , YOU ARE AGREEING TO PURCHASE  
+LOCAL UTILITY DISTRI BUTION GRID ELECTRIC ITY THAT IS PAIRED W ITH 
+RENEWABLE ENERGY CRE DITS (“REC S”) IN AN AMOUNT SUFFICIENT TO MATCH THE 
+PERCENT OF “GREEN POWER ” ELECTRICITY IN YOUR CONTRACT .”. 
+ 
+ “WE DELIVER ENERGY THR OUGH THE PURCHASE OF  RENEWABLE ENERGY 
+CREDITS (REC S). A REC  REPRESENTS THE SOCIA L GOOD THAT ACCOMPAN IES 1 
+MEGAWATT –HOUR OF RENEWABLE EL ECTRICITY GENERA TION . REC S MAY BE SOLD 
+SEPARATELY FROM RENE WABLE ELECTRICITY IT SELF . RENEWABLE ELECTRICITY  
+AND REC S MAY BE SOLD TO DIF FERENT ENTITIES . THE PURCHASE OF A REC  DOES 
+NOT INDICATE THAT RE NEWABLE ELECTRICITY ITSELF HAS BEEN PURC HASED BY 
+THE ENTITY THAT PURC HASED  THE REC.”.  
+ 
+ (E) (G) IN ADDITION TO THE DI SCLOSURE REQUIRED UN DER SUBSECTION 
+(D) (F) OF THIS SECTION , THE COMMISSION SHALL ADOP T REGULATIONS THAT 
+REQUIRE AN ELECTRICI TY SUPPLIER , OTHER THAN THE DEPARTMENT OF GENERAL 
+SERVICES WHEN THE DEPARTMENT OF GENERAL SERVICES SELLS ENERGY  UNDER 
+§ 7–704.4  OF THIS SUBTITLE OR A COMMUNITY CHOICE A GGREGAT OR UNDER §  
+7–510.3  OF THIS TITLE , THAT OFFERS GREEN PO WER FOR SALE TO RESI DENTIAL 
+RETAIL CUSTOMERS TO INCLUDE IN THE ELECT RICITY SUPPLIER ’S MARKETING 
+MATERIALS A DISCLOSU RE, WRITTEN IN PLAIN LAN GUAGE , THAT EXPLAINS : 
+ 
+  (1) WHAT THE CUSTOMER WI LL ACTUALLY BE PAYING FOR WHEN T HE 
+CUSTOMER PURCHASES G REEN POWER FROM THE ELECTRICITY SUPPLIER ; 
+ 
+  (2) HOW THE ELECTRICITY THAT THE CUSTOMER HA S PURCHASED IS 
+GENERATED ; 
+ 
+  (3) HOW THE GREEN POWER WILL BENEFIT THE ENV IRONMENT ; 
+ 
+  (4) THE PERCENTAGE OF EL ECTRICITY THAT  WOULD BE PROVIDED 
+BY THE ELECTRICITY S UPPLIER THAT IS ELIG IBLE FOR INCLUSION I N MEETING THE 
+RENEWABLE ENERGY POR TFOLIO STANDARD ; AND  
+ 
+  (5) THE STATE IN WHICH T HE ELECTRICITY WAS G ENERATED .  
+ 
+ (H) THE COMMISSION , IN ITS DISCRETION , MAY DETERMINE WHETHE R AN 
+ELECTRICITY SUPPLIER  IS MARKETING ELECTRI CITY IN ACCORDANCE W ITH THIS 
+SECTION .  
+ 
+13–101. 
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 46 –  
+ (a) This section does not apply to a violation of the following provisions of this 
+article:  
+ 
+  (1) Title 5, Subtitle 4;  
+ 
+  (2) Title 7, Subtitle 1;  
+ 
+  (3) Title 8 , Subtitles 1 and 3; and  
+ 
+  (4) Title 9, Subtitle 3.  
+ 
+ (b) A person may not fail, neglect, or refuse to comply with any provision of this 
+division or any effective and outstanding direction, ruling, order, rule, regulation, or 
+decision of the Commission.  
+ 
+ (c) An individual who knowingly violates or knowingly aids or abets a public 
+service company in the violation of subsection (b) of this section or any provision of this 
+division:  
+ 
+  (1) is guilty of a misdemeanor; and  
+ 
+  (2) unless a different punishment is specifically provided by law, on 
+conviction is subject to a fine not exceeding $1,000 for a first offense and not exceeding 
+$5,000 for each additional or subsequent offense.  
+ 
+13–201. 
+ 
+ (a) This section does not apply to a violation of the following prov isions of this 
+article:  
+ 
+  (1) Title 5, Subtitle 4;  
+ 
+  (2) Title 7, Subtitle 1;  
+ 
+  (3) § 7–213 as it applies to electric cooperatives;  
+ 
+  (4) Title 8, Subtitles 1 and 3;  
+ 
+  (5) Title 9, Subtitle 3; and  
+ 
+  (6) Title 8, Subtitle 4.  
+ 
+ (b) (1) Except as provid ed in paragraph (2) of this subsection, the Commission 
+may impose a civil penalty not exceeding $25,000 against a person who violates a provision 
+ WES MOORE, Governor  Ch. 537  
+ 
+– 47 – of this division, or an effective and outstanding direction, ruling, order, rule, or regulation 
+of the Commiss ion. 
+ 
+  (2) The civil penalty that the Commission may impose on a common carrier 
+for each violation may not exceed $2,500.  
+ 
+ (e) (3) A civil penalty assessed for a violation of [§ 7–505(b)(7), § 7 –507, §  
+7–603, § 7 –604, or § 7 –606] § 7–317,  § 7–318,  § 7–505( B)(7),  § 7–507,  § 7–507.1,  §  
+7–603,  § 7–603.1,  § 7–604,  § 7–606,  OR § 7–707 of this article, or a rule, an order, or a 
+regulation adopted under any of those sections, shall be paid into the Retail Choice 
+Customer  Education and Protection Fund unde r § 7–310 of this article.  
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That it is the intent of the General 
+Assembly that:  
+ 
+  (1) the Public Service Commission shall establish a division within the 
+Commission with the specific responsibility to receive, investigate, and resolve, including 
+by disciplinary actions and prosecution, complaints against electricity suppliers, gas 
+suppliers, and energy salespersons for violations of this Act with respect to retail 
+customers;  
+ 
+  (2) (i)  at least two additional Position Identification Numbers (PINs) 
+shall be created and assigned to the new division, in addition to existing Commission 
+personnel in the Commission’s Consumer Affairs Division, who may be assigned to assist 
+the new division in  its responsibilities under this Act; and 
+ 
+   (ii) the Department of Budget and Management shall include the two 
+PINs created under item (i) of this item in the Commission’s budget for fiscal year 2025;  
+ 
+  (3) the functions of the new division shall be fu nded by licensing and 
+renewal fees imposed on electricity suppliers, gas suppliers, and energy salespersons under 
+this Act; and  
+ 
+  (4) a special assessment on public service companies under Section 3 of this 
+Act shall be used for initial funding of the new  division.  
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That:  
+ 
+ (a) Notwithstanding any other provision of law, for fiscal year 2025 only, in 
+addition to the amounts appropriated in the budget bill for fiscal year 2025, the Public 
+Service Commission may impose up to $275,000 as a special assessment using the 
+assessment process authorized under § 2 –110 of the Public Utilities Article, provided that:  
+ 
+  (1) the assessment shall be imposed only on those electric companies, 
+electricity suppliers, gas companies, and gas suppliers otherwise subject to the assessment 
+under § 2 –110 of the Public Utilities Article; and  
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 48 –  
+  (2) the limit under § 2 –110(c)(12) of the Public Utilities Article does not 
+apply to any assessment made under this section.  
+ 
+ (b) (1) The amounts colle cted under subsection (a) of this section may be 
+expended for fiscal year 2025 for the support of the Commission in accordance with an 
+approved budget amendment.  
+ 
+  (2) Notwithstanding § 2 –110(c)(10) of the Public Utilities Article, any 
+unexpended funds at  the end of fiscal year 2025 that were collected under this section:  
+ 
+   (i) shall be considered encumbered by the Public Service 
+Commission by June 30, 2025; and  
+ 
+   (ii) may not be deducted from the appropriation for fiscal year 2026.  
+ 
+ (c) The bill sent  to each electric company, electricity supplier, gas company, and 
+gas supplier subject to the assessment under subsection (a) of this section shall equal the 
+product of multiplying:  
+ 
+  (1) the amount authorized to be collected under this section; and  
+ 
+  (2) the ratio of the gross operating revenues of the entity subject to the 
+special assessment to the total gross operating revenues for all entities subject to the 
+assessment.  
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED, That:  
+ 
+  (1) the licenses of electricity s uppliers and gas suppliers that are licensed 
+by the Public Service Commission as of July 1, 2024, shall expire on a staggered basis as 
+determined by the Commission, such that equal numbers of licenses shall expire 
+throughout each of the following 3 years b ut not later than June 30, 2027;  
+ 
+  (2) the licenses of energy salespersons who are licensed by the Commission 
+on or before June 30, 2027, shall expire on a staggered basis as determined by the 
+Commission, such that equal numbers of licenses shall expire each year; and  
+ 
+  (3) all new and renewed licenses for electricity suppliers, gas suppliers, and 
+energy salespersons shall be for a term not exceeding 3 years.  
+ 
+ SECTION 5. AND BE IT FURTHER ENACTED, That, on or before December 31, 
+2024, the Public Service  Commission shall:  
+ 
+  (1) in accordance with § 7 –311 of the Public Utilities Article, as enacted by 
+Section 1 of this Act, develop a training and education program for any entity or individual 
+ WES MOORE, Governor  Ch. 537  
+ 
+– 49 – that is licensed by the Commission as an electricity supplier, a gas supplier, an energy 
+salesperson, or an energy vendor; and  
+ 
+  (2) in accordance with § 2 –1257 of the State Government Article, report to 
+the General Assembly on the status of the development of the training and education 
+program required under § 7 –311 of the Public Utilities Article, as enacted by Section 1 of 
+this Act.   
+ 
+ SECTION 6. AND BE IT FURTHER ENACTED, That:  
+ 
+ (a) The Public Service Commission shall study and make recommendations on 
+issues related to the utilization of end –use electricity cust omer load that is physically 
+connected to the facilities of an existing or planned electric generation facility, also known 
+as co –located load configuration, including:  
+ 
+  (1) any potential cost impacts to Maryland ratepayers related to co –located 
+load con figurations;  
+ 
+  (2) any potential impacts to the wholesale capacity, energy and ancillary 
+markets, or the planning function overseen by PJM Interconnection, LLC related to  
+co–located load configurations;  
+ 
+  (3) any potential impacts to the reliability of the electric distribution or 
+transmission systems serving Maryland related to co –located load configurations; and  
+ 
+  (4) means to manage or mitigate the impacts specified in items (1) through 
+(3) of this subsection.  
+ 
+ (b) On or before December 15, 2024, th e Public Service Commission shall report 
+its findings and recommendations to the Senate Committee on Education, Energy, and the 
+Environment and the House Economic Matters Committee, in accordance with § 2 –1257 of 
+the State Government Article.   
+ 
+ SECTION 5. 6. 7. AND BE IT FURTHER ENACTED, That a presently existing 
+obligation or contract right may not be impaired in any way by this Act.  
+ 
+ SECTION 6. 7. 8. AND BE IT FURTHER ENACTED, That § 7–510(d)  §§ 7–510(d) 
+and 7 –604.2(c)  of the Public Utilities Article, a s enacted by Section 1 of this Act, shall be 
+construed to apply to all electricity supply agreements and gas supply agreements entered 
+into or renewed on or after January 1, 2025.  
+ 
+ SECTION 7. 8. 9. AND BE IT FURTHER ENACTED, That this Act shall be 
+constru ed to apply only prospectively and may not be applied or interpreted to have any 
+effect on or application to any electricity supply agreement or gas supply agreement that is 
+in effect on or before December 31, 2024.  
+ 
+Ch. 537  2024 LAWS OF MARYLAND   
+ 
+– 50 –  SECTION 8. 9. 10. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+July 1, 2024.  
+ 
+Approved by the Governor, May 9, 2024.  

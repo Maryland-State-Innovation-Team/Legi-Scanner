@@ -1,0 +1,305 @@
+ WES MOORE, Governor  Ch. 728  
+ 
+– 1 – Chapter 728  
+(House Bill 454 ) 
+ 
+AN ACT concerning  
+ 
+Disclosure of Tax Information – Tax Compliance Activity and Binding Data Use 
+Agreements  
+ 
+FOR the purpose of altering the definition of “tax information ” for purposes of provisions of 
+law governing the confidentiality and disclosure of tax information;  authorizing, 
+subject to certain limitations, the disclosure of certain tax information to certain 
+persons  tax compliance organizations  and governmental entities for the purpose of 
+assisting the Comptroller in certain tax compliance activity; requiring the 
+Comptroller, when disclosing tax information in accordance with certain provisions 
+of law, to require the party person or governmental entity  to whom the information 
+is to be disclosed to enter into a certain data use  agreement; requiring the 
+Comptroller, when disclosing tax information in accordance with certain provisions 
+of law, to supervise the recipient of th e tax information in a certain manner;  
+prohibiting an officer, employee, former officer, or former employee of a certain 
+person from disclosing the tax information except under certain circumstances; and 
+generally relating to the disclosure of tax informat ion by the Maryland Comptroller.  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Tax – General  
+Section 13–203(c)  13–101, 13 –201, 13 –203(c),  and 13 –1018  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2023 Supplement)  
+ 
+BY adding to  
+ Article – Tax – General  
+Section 13 –203(f) and (g)  and 13 –208 
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2023 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Tax – General  
+ 
+13–101. 
+ 
+ (a) In this title the following words have the meanings indicated.  
+ 
+ (b) (1) “Demand response trip ” means the carriage of a passenger who is 
+unable to use regular schedule, fixed termini services.  
+ 
+Ch. 728  2024 LAWS OF MARYLAND   
+ 
+– 2 –   (2) “Demand response trip ” includes a trip that is required under the 
+federal Americans with Disabilities Act.  
+ 
+ (C) “GOVERNMENTAL ENTITY ” MEANS : 
+ 
+  (1) A GOVERNMENTAL UNIT ; AND  
+ 
+  (2) AN INSTRUMENTALITY O F: 
+ 
+   (I) ONE OR MORE STATES ; 
+ 
+   (II) ONE OR MORE POLITICA L SUBDIVISIONS OF  A STATE ; OR 
+ 
+   (III) ONE OR MORE STATES A ND POLITICAL SUBDIVI SIONS OF 
+STATES . 
+ 
+ [(c)] (D) “Governmental unit ” means:  
+ 
+  (1) this State or a political subdivision, unit, or instrumentality of this 
+State;  
+ 
+  (2) another state or a political subdivision, unit, or instrumentality of that 
+state; and  
+ 
+  (3) a unit or instrumentality of a political subdivision of this State or of 
+another state.  
+ 
+ [(d)] (E) (1) “Tax collector ” means the person or governmental unit 
+responsible for collecting a tax.  
+ 
+  (2) “Tax c ollector ” includes:  
+ 
+   (i) the Comptroller;  
+ 
+   (ii) the Department, with respect to:  
+ 
+    1. the financial institution franchise tax; and  
+ 
+    2. the public service company franchise tax; and  
+ 
+   (iii) the registers of wills, with respect to the inheritance tax.  
+ 
+ (F) “TAX COMPLIANCE ACTIVI TY” MEANS ANY ACTIVITY T HAT SUPPORTS 
+THE COMPTROLLER IN ADMINI STERING THE LAWS DES CRIBED IN § 2–102 OF THIS 
+ARTICLE .  
+ WES MOORE, Governor  Ch. 728  
+ 
+– 3 –  
+ (G) “TAX COMPLIANCE ORGANI ZATION” MEANS AN ORGANIZATIO N: 
+ 
+  (1) A PURPOSE OF WHICH I S TO AS SIST STATE TAX OFFIC IALS IN 
+ENSURING COMPLIANCE WITH AND ENFORCING S TATE AND FEDERAL TAX  LAWS ; 
+ 
+  (2) THE MEMBERSHIP OF WH ICH CONSISTS SOLELY OF: 
+ 
+   (I) STATES ; OR 
+ 
+   (II) STATE TAX COLLECTORS , COMPTROLLERS , OR DIRECTORS 
+OF REVENUE AND THEIR  EMPLOYEES ; AND 
+ 
+  (3) OF WHICH THE STATE IS A MEMBER OR PARTICIPANT . 
+ 
+13–201. 
+ 
+ In this subtitle, “tax information ” means:  
+ 
+  (1) ANY TAX RETURN , INFORMATION RETURN , DECLARATION OF 
+ESTIMATED TAX , EXTENSION OF TIME TO  FILE A RETURN , OR CLAIM FOR REFUND 
+UNDER THIS ARTICLE T HAT IS FILED WITH TH E TAX COLLECTOR BY , ON BEHALF OF , 
+OR WITH RESPECT TO A NY PERSON AND ANY AM ENDMENT OR SUPPLEMEN T 
+THERETO , INCLUDING SUPPORTING  SCHEDULES , ATTACHMENTS , OR LISTS THAT 
+ARE SUPPLEMENTAL TO OR A PART OF THE RET URN;  
+ 
+  [(1)] (2) the amount of income or any other particulars disclosed in a tax 
+return required under this article, if the return contains ret urn information, as defined in 
+§ 6103 of the Internal Revenue Code;  
+ 
+  [(2)] (3) any RETURN OR return information, as defined in § 6103 of the 
+Internal Revenue Code, required to be attached to or included in a tax return required 
+under this article; or  
+ 
+  [(3)] (4) any information contained in:  
+ 
+   (i) an admissions and amusement tax return;  
+ 
+   (ii) an alcoholic beverage tax return;  
+ 
+   (iii) a bay restoration fee return;  
+ 
+   (iv) a boxing and wrestling tax return;  
+ 
+   (V) A DIGITAL ADVERTISIN G GROSS REVENUES TAX RETURN ; 
+Ch. 728  2024 LAWS OF MARYLAND   
+ 
+– 4 –  
+   [(v)] (VI) an E –9–1–1 fee return;  
+ 
+   [(vi)] (VII) a financial institution franchise tax return;  
+ 
+   [(vii)] (VIII) an inheritance tax return;  
+ 
+   [(viii)] (IX) a Maryland estate tax return;  
+ 
+   [(ix)] (X) a motor carrier tax retur n; 
+ 
+   [(x)] (XI) a motor fuel tax return;  
+ 
+   [(xi)] (XII) an other tobacco products tax return;  
+ 
+   [(xii)] (XIII) a public service company franchise tax return;  
+ 
+   [(xiii)] (XIV) a sales and use tax return;  
+ 
+   [(xiv)] (XV) a savings and loan association franchise tax return;  
+ 
+   [(xv)] (XVI) a tire recycling fee return;  
+ 
+   [(xvi)] (XVII) a tobacco tax return; or  
+ 
+   [(xvii) ] (XVIII ) a transportation services assessment return.   
+ 
+13–203. 
+ 
+ (c) [Tax] SUBJECT TO SUBSECTION (F) SUBSECTIONS (F) AND (G) OF THIS 
+SECTION , TAX information may be disclosed to:  
+ 
+  (1) an employee or officer of the State who, by reason of that employment 
+or office, has the right to the tax information;  
+ 
+  (2) another tax collector;  
+ 
+  (3) the Maryland Tax Court;  
+ 
+  (4) a legal representative of the State, to review the tax information about 
+a taxpayer:  
+ 
+   (i) who applies for review under this title;  
+ 
+   (ii) who appeals from a determination under this title; or  
+ WES MOORE, Governor  Ch. 728  
+ 
+– 5 –  
+   (iii) against whom an action to recover tax or a penalty is pending or 
+will be initiated under this title;  
+ 
+  (5) any license issuing authority of the State required by State law to verify 
+through the Comptroller that an applicant has paid all undisputed taxes and 
+unemployment insurance contributions pay able to the Comptroller or the Secretary of 
+Labor or that the applicant has provided for payment in a manner satisfactory to the unit 
+responsible for collection;  
+ 
+  (6) a local official as defined in § 13 –925 of this title to the extent necessary 
+to admini ster Subtitle 9, Part V of this title;  
+ 
+  (7) a federal official as defined in § 13 –930 of this title to the extent 
+necessary to administer Subtitle 9, Part VI of this title;  
+ 
+  (8) the Maryland Department of Health in accordance with the federal 
+Children’ s Health Insurance Program Reauthorization Act of 2009;  
+ 
+  (9) the State Board of Individual Tax Preparers;  
+ 
+  (10) the Alcohol and Tobacco Commission;  
+ 
+  (11) the Maryland 9 –1–1 Board;  
+ 
+  (12) a person or governmental entity authorized by the Comptroller in 
+writing to receive tax information for the purpose of identifying, preventing, or responding 
+to fraud, provided that the tax information is:  
+ 
+   (i) anonymized to the extent possible consistent with the 
+information’s intended use; and  
+ 
+   (ii) in additi on to any other protections and safeguards under law, 
+subject to any protections and safeguards set forth by the Comptroller in the written 
+authorization;  
+ 
+  (13) the Maryland Higher Education Commission;  
+ 
+  (14) a hospital, the Health Services Cost Review  Commission, the 
+Department of Human Services, the Maryland Department of Health, and the State 
+Department of Education, to the extent necessary to administer § 19 –214.4 of the Health – 
+General Article; [and] 
+ 
+  (15) subject to subsection (e) of this section, the Maryland Small Business 
+Retirement Savings Board and its authorized contractors for the purpose of administering 
+Ch. 728  2024 LAWS OF MARYLAND   
+ 
+– 6 – the Maryland Small Business Retirement Savings Program and Trust as authorized under 
+Title 12 of  the Labor and Employment Article ; AND  
+ 
+  (16) A PERSON OR GOVERNME NTAL ENTITY  A PERSON , 
+GOVERNMENTAL ENTITY , OR TAX COMPLIANCE OR GANIZATION  FOR THE PURPOSE 
+OF ASSISTING THE COMPTROLLER IN TAX CO MPLIANCE ACTIVITY . 
+ 
+ (F) WHEN  EXCEPT AS PROVIDED IN  SUBSECTIO N (G) OF THIS SECTION , 
+BEFORE  DISCLOSING CONFIDENT IAL TAX INFORMATION UNDER SUBSECTION (C) OF 
+THIS SECTION , THE COMPTROLLER SHALL  MAY, IN ITS SOLE DISCRETI ON, REQUIRE 
+THE PARTY  PERSON OR GOVERNMENT AL ENTITY  TO WHOM THE INFORMAT ION IS TO 
+BE DISCLOSED TO ENTE R INTO A BINDING , WRITTEN DATA USE  AGREEMENT 
+REGARDING THE USE AN D SECURITY OF THE TA X INFORMATION , THE TERMS OF 
+WHICH SHALL BE PRESC RIBED BY THE COMPTROLLER ACCORDING  TO THE 
+COMPTROLLER ’S DATA SECURITY POL ICIES AND BE CONSIST ENT WITH STATE AND 
+FEDERAL REQUIREMENTS . 
+ 
+ (G) (1) BEFORE DISCLOSING TAX  INFORMATION UNDER SU BSECTION 
+(C)(9),  (12),  (14),  (15),  OR (16)  OF THIS SECTION , THE COMPTROLLER SHALL 
+REQUIRE THE PARTY TO  WHOM THE TAX INFORMA TION IS TO BE DISCLO SED TO 
+ENTER INTO A BINDING , WRITTEN AGREEMENT RE GARDING THE USE AND SECURITY 
+OF THE TAX INFORMATI ON, THE TERMS OF WHICH S HALL BE : 
+ 
+   (I) PRESCRIBED BY THE COMPTROLLER ACCORDING  TO THE 
+COMPTROLLER ’S DATA SECURITY POLI CIES ;  
+ 
+   (II) CONSISTENT WITH STATE AND FEDERAL REQUIREM ENTS , 
+INCLUDING § 6103( A) OF THE INTERNAL REVENUE CODE; AND  
+ 
+   (III) IN COMPLIANCE WITH § 6103( B)(5)(B)( III) OF THE 
+INTERNAL REVENUE CODE, BY SUBSTITUTING “COMPTROLLER ” FOR 
+“SECRETARY ”. 
+ 
+  (2) THE COMPTROLLER SHALL ADE QUATELY SUPERVISE  THE 
+RECIPIENT OF THE TAX  INFORMATION UNDER SU BSECTION (C)(9),  (12),  (14),  (15),  
+OR (16)  OF THIS SECTION AT A LL TIMES .  
+ 
+13–208. 
+ 
+ AN OFFICER , EMPLOYEE , FORMER OFFICER , OR FORMER EMPLOYEE O F A 
+PERSON , GOVERNMENTAL ENTITY , OR TAX COMPLIANCE OR GANIZATION  TO WHICH 
+TAX INFORMATION HAS BEEN DISCLOSED UNDER  § 13–203( C)(16)  OF THIS SUBTITLE 
+ WES MOORE, Governor  Ch. 728  
+ 
+– 7 – MAY NOT DISCLOSE , IN ANY MANNER , ANY TAX INFORMATION OBTAINED IN 
+ACCORDANCE WITH THE DATA USE AGREEMENT , UNLESS THE DISCLOSUR E IS: 
+ 
+  (1) AUTHORIZED EXPRESSLY  BY A LAW OF THIS STATE OR THE 
+FEDERAL GOVERNMENT ; 
+ 
+  (2) AUTHORIZED BY THE DA TA USE AGREEMENT ; OR 
+ 
+  (3) REQUIRED BY A COURT ORDER . 
+ 
+13–1018.  
+ 
+ An officer, employee, former officer, or former employee of the State [or of], a political 
+subdivision of the State , OR A PERSON , GOVERNMENTAL ENTITY , OR TAX COMPLIANCE 
+ORGANIZATION  TO WHICH TAX INFORMA TION HAS BEEN DISCLO SED IN 
+ACCORDANCE WITH § 13–203 OF THIS TITLE  who makes a disclosure in violation of 
+Subtitle 2 of this title is guilty of a misdemeanor and, on conviction, is subject to a fine not 
+exceeding $1,000 or imprisonment not exceeding 6 months or both.  
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 
+1, 2024.  
+ 
+Approved by the Governor, May 16, 2024.  

@@ -1,0 +1,321 @@
+ WES MOORE, Governor  Ch. 644  
+ 
+– 1 – Chapter 644  
+(House Bill 680 ) 
+ 
+AN ACT concerning  
+ 
+Environment – Nuclear Power Plants – Emergency Preparedness  
+(Radiation and Emergency Preparedness and Protection Act)  
+ 
+FOR the purpose of establishing the Radiation Emergency Response Program in the 
+Department of the Environment; requiring the Department of the Environment to 
+serve as an off –site response organization and the lead State agency for all nuclear 
+incidents within the State; requiring the Department of the Environment to prepare 
+a technical emergency radiation response plan, respond to emergencies involving a 
+nuclear power plant, participate in a certain federal program, and procure certain 
+specialized equipment; requir ing the owner of a nuclear power plant to remit certain 
+fees to the Department of the Environment for a certain purpose; authorizing the 
+Department of the Environment to annually increase certain fees under certain 
+circumstances; requiring the Department o f the Environment to transfer a certain 
+fee collected to the Maryland Department of Emergency Management for 
+radiological emergency response preparedness activities; establishing the Radiation 
+Emergency Response Fund as a special, nonlapsing fund; requirin g interest earnings 
+of the Fund to be credited to the Fund; and generally relating to nuclear power plants 
+and emergency preparedness.  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Environment  
+ Section 8 –101 and 8 –102 
+ Annotated Code of Maryland  
+ (2013 Replacement Volume and 2023 Supplement)  
+ 
+BY adding to  
+ Article – Environment  
+Section 8 –701 through 8 –704 to be under the new subtitle “Subtitle 7. Emergency 
+Preparedness”  
+ Annotated Code of Maryland  
+ (2013 Replacement Volume and 2023 Sup plement)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – State Finance and Procurement  
+Section 6 –226(a)(2)(i)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – State Finance and Procurement  
+Section 6 –226(a)(2)(ii)189. and 190.  
+Ch. 644  2024 LAWS OF MARYLAND   
+ 
+– 2 –  Annotated Code of Maryland  
+ (2021 Replacement Volume and 2023 Supplement)  
+ 
+BY adding to  
+ Article – State Finance and Procurement  
+Section 6 –226(a)(2)(ii)191.  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2023 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Environment  
+ 
+8–101. 
+ 
+ (a) In this title the following words have the meanings indicated.  
+ 
+ (b) “Board” means the Radiation Control Advisory Board.  
+ 
+ (c) “Emergency” means a sudden and unforeseen condition of such public gravity 
+and urgency that it requires immediate response to protect the public health and welfare.  
+ 
+ (D) “EMERGENCY PLANNING ZO NE” MEANS A PLUME EXPOSURE PATHWAY 
+EMERGENCY PLANNING Z ONE, AS DESCRIBED  IN 10 C.F.R.  § 50.47( C)(2). 
+ 
+ [(d)] (E) “General license” means a license that, under the rules and regulations 
+adopted by the Department under this title, is ef fective without the filing of an application 
+by the licensee.  
+ 
+(F) “NUCLEAR INCIDENT ” MEANS ANY OCCURRENCE , INCLUDING AN 
+EXTRAORDINARY NUCLEA R OCCURRENCE , OR SERIES OF OCCURRE NCES AT A 
+NUCLEAR POWER PLANT WITH THE POTENTIAL F OR CAUSING BODILY IN JURY , 
+SICKNESS , DISEASE , DEATH , LOSS OF OR DAMAGE TO  PROPERTY , OR LOSS OF USE OF 
+PROPERTY RESULTING F ROM THE RADIOACTIVE , TOXIC , EXPLOSIVE , OR OTHER 
+HAZARDOUS PROPERTIES  OF THE RADIOACTIVE M ATERIAL USED BY A NU CLEAR 
+POWER PLANT OR STORE D ON ITS PROPERTY . 
+ 
+ (G) (1) “NUCLEAR POWER PLANT ” MEANS ANY FACILITY C APABLE OF 
+PRODUCING ELECTRI CITY USING NUCLEAR ENERGY : 
+ 
+   (I) 1. THAT IS LOCATED IN TH E STATE ; OR 
+ 
+    2. WITH AN EMERGENCY PLA NNING ZONE THAT 
+INCLUDES ANY AREA OF  THE STATE ; AND 
+ WES MOORE, Governor  Ch. 644  
+ 
+– 3 –  
+   (II) FOR WHICH THE DEPARTMENT PARTICIPAT ES IN PLANNING 
+AND RESPONSE ACTIVIT IES RELATED TO THE F ACILI TY. 
+ 
+  (2) “NUCLEAR POWER PLANT ” INCLUDES A FACILITY WITH ONE OR 
+MORE NUCLEAR POWER R EACTORS THAT : 
+ 
+   (I) HAS SPENT NUCLEAR FUE L STORED ONSITE ; 
+ 
+   (II) HAS NOT BEEN FULLY DI SMANTLED AND DECOMMI SSIONED 
+IN ACCORDANCE WITH A PPLICABLE FEDERAL LA W AND REGULAT IONS ; OR 
+ 
+   (III) HAS NOT BEEN GRANTED LICENSE TERMINATION BY THE U.S.  
+NUCLEAR REGULATORY COMMISSION . 
+ 
+ (H) “NUCLEAR REGULATORY COMMISSION ” MEANS THE U.S.  NUCLEAR 
+REGULATORY COMMISSION OR ANY SUC CESSOR ENTITY RESPON SIBLE FOR FEDERAL 
+REGULATION OF NUCLEA R ENERGY . 
+ 
+ (I) “OFF–SITE RESPONSE ORGANI ZATION” MEANS A STATE , LOCAL , OR 
+TRIBAL GOVERNMENTAL ORGANIZATION RESPONS IBLE FOR CARRYING OU T 
+EMERGENCY RESPONSE F UNCTIONS DURING A NU CLEAR INCIDENT . 
+ 
+ [(e)] (J) “Person” includes any public or municipal corporation and any agency, 
+bureau, department, or instrumentality of State or local government and, to the extent 
+authorized by federal law, federal government.  
+ 
+ [(f)] (K) “Radiation” means:  
+ 
+  (1) Ionizing radiation, including gamma rays, X –rays, alpha particles, b eta 
+particles, neutrons, high speed electrons, high speed protons, and any other atomic or nuclear 
+particles or rays;  
+ 
+  (2) Any electromagnetic radiation that can be generated during the 
+operation of a manufactured device that has an electronic circuit; o r 
+ 
+  (3) Any sonic, ultrasonic, or infrasonic waves that are emitted as a result of 
+the operation, in a manufactured device, of an electronic circuit that can generate a physical 
+field of radiation.  
+ 
+ [(g)] (L) “Specific license” means a license that, unde r the rules and regulations 
+adopted by the Department under this title, is effective only after the applicant files an 
+application and the Department approves the application.  
+ 
+8–102. 
+Ch. 644  2024 LAWS OF MARYLAND   
+ 
+– 4 –  
+ (a) The General Assembly finds that radiation:  
+ 
+  (1) If used properly, can help to improve the health, welfare, and productivity 
+of the public;  
+ 
+  (2) If used carelessly or excessively, may destroy life or health; and  
+ 
+  (3) If used improperly, may impair the industrial and agricultural potential 
+of this State.  
+ 
+ (b) It is the policy of this State:  
+ 
+  (1) To encourage the constructive uses of radiation; [and] 
+ 
+  (2) To control radiation ; AND 
+ 
+  (3) TO PROTECT THE PUBLIC  FROM UNNECESSARY AND  HARMFUL 
+EXPOSURE RESULTING F ROM A NUCLEAR INCIDE NT. 
+ 
+SUBTITLE 7. EMERGENCY PREPAREDNESS . 
+ 
+8–701. 
+ 
+ (A) IT IS THE POLICY OF T HE STATE TO PROTECT THE PUBLIC AGAINST 
+ADVERSE HEALTH EFFEC TS RESULTING FROM NU CLEAR INCIDENTS AND MITIGATE 
+THE IMPACTS OF NUCLE AR INCIDENTS BY ESTA BLISHING A STATE OF READINESS 
+THROUGH EMERGENCY PR EPAREDNES S. 
+ 
+ (B) THE GENERAL ASSEMBLY FINDS THAT T HE NUCLEAR INDUSTRY SHOULD 
+BEAR THE COSTS ASSOC IATED WITH DEVELOPIN G AND IMPLEMENTING P LANS TO 
+PREPARE FOR AND MITI GATE THE IMPACTS OF NUCLEAR INCIDENTS . 
+ 
+8–702. 
+ 
+ (A) (1) THERE IS A RADIATION EMERGENCY RESPONSE PROGRAM . 
+ 
+  (2) THE DEPARTMENT SHALL ADMI NISTER THE PROGRAM . 
+ 
+ (B) THE DEPARTMENT SHALL SERV E AS: 
+ 
+  (1) AN OFF–SITE RESPONSE ORGANI ZATION ; AND 
+ 
+  (2) THE LEAD STATE AGENCY FOR PROT ECTIVE ACTIONS FOR A LL 
+ WES MOORE, Governor  Ch. 644  
+ 
+– 5 – NUCLEAR INCIDENTS WI THIN THE STATE . 
+ 
+ (C) THE DEPARTMENT SHALL : 
+ 
+  (1) (I) PREPARE A TECHNICAL E MERGENCY RADIATION R ESPONSE 
+PLAN FOR INCORPORATI ON INTO THE STATE EMERGENCY MANAG EMENT PROGRAM 
+DEVELOPED BY THE MARYLAND DEPARTMENT OF EMERGENCY MANAGEMENT IN 
+ACCORDANCE WITH TITLE 14 OF THE PUBLIC SAFETY ARTICLE ; AND 
+ 
+   (II) RESPOND TO EMERGENCIE S THAT INVOLVE A NUC LEAR 
+POWER PLANT ; 
+ 
+  (2) PARTICIPATE IN THE FEDERAL EMERGENCY MANAGEMENT 
+ADMINISTRATION ’S RADIOLOGICAL EMERGENCY PREPAREDNESS PROGRAM 
+ACTIVITIES APPLICABL E TO EACH NUCLEAR PO WER PLANT ; AND 
+ 
+  (3) PROCURE SPECIALIZED S UPPLIES AND EQUIPMEN T FOR 
+RESPONDING TO EMERGE NCIES THAT INVOLVE A  NUCLEAR POWER PLANT . 
+ 
+8–703. 
+ 
+ (A) THE OWNER OF A NUCLEAR P OWER PLANT SHALL , FOR EACH NUCLEAR 
+POWER PLANT OWNED , REMIT THE FEES REQUI RED UNDER THIS SECTI ON TO THE 
+DEPARTMENT . 
+ 
+ (B) (1) ON OR BEFORE JULY 1, 2024,  AND EACH JULY 1 THEREAFTER , 
+THE OWNER OF A NUCLE AR POWER PLANT SHALL  PAY TO THE DEPARTMENT : 
+ 
+   (I) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , A FEE 
+OF $300,000  FOR THE OPERATIONAL COSTS OF THE RADIATION EMER GENCY 
+RESPONSE PROGRAM ; AND 
+ 
+   (II) SUBJECT TO PARAGRAPHS  (2) AND (3) OF THIS 
+SUBSECTION , A FEE OF $60,000  FOR RADIOLOGICAL EME RGENCY RESPONSE 
+PREPAREDNESS . 
+ 
+  (2) (I) SUBJECT TO SUBPARAGRA PH (II) OF THIS PARAGRAPH , THE 
+DEPARTMENT MAY ANNUAL LY INCREASE THE FEES UNDER PARAG RAPH (1) OF THIS 
+SUBSECTION IN ACCORD ANCE WITH THE PERCEN TAGE INCREASE IN THE  
+CONSUMER PRICE INDEX FOR ALL URBAN CONSUMERS FOR THE WASHINGTON 
+METROPOLITAN AREA DURING THE PREVI OUS YEAR TO ENSURE A DEQUATE 
+FUNDING FOR THE OPER ATIONAL COST S OF THE RADIATION EMERGENCY 
+RESPONSE PROGRAM . 
+Ch. 644  2024 LAWS OF MARYLAND   
+ 
+– 6 –  
+   (II) THE DEPARTMENT MAY NOT  ANNUALLY INCREASE TH E 
+FEES UNDER PARAGRAPH  (1) OF THIS SUBSECTION B Y MORE THAN 3%. 
+ 
+  (3) THE DEPARTMENT SHALL TRAN SFER THE FEE COLLECT ED 
+UNDER PARAGRAPH (1)(II) OF THIS SUBSECTION TO THE MARYLAND DEPARTMENT 
+OF EMERGENCY MANAGEMENT FOR RADIOL OGICAL EMERGENCY RES PONSE 
+PREPAREDNESS ACTIVIT IES. 
+ 
+ (C) EXCEPT AS PROVIDED IN  SUBSECTION (B)(3) OF THIS SECTION , THE 
+FEES COLLECTED UNDER  THIS SECTION SHALL B E PAID INTO THE RADIATION  
+EMERGENCY RESPONSE FUND UNDER § 8–704 OF THIS SUBTITLE . 
+ 
+8–704. 
+ 
+ (A) IN THIS SECTION , “FUND” MEANS THE RADIATION EMERGENCY 
+RESPONSE FUND. 
+ 
+ (B) THERE IS A RADIATION EMERGENCY RESPONSE FUND. 
+ 
+ (C) THE PURPOSE OF THE FUND IS TO SUPPORT TH E COSTS OF DEVELOP ING 
+AND IMPLEMENTING THE  RADIATION EMERGENCY RESPONSE PROGRAM . 
+ 
+ (D) THE DEPARTMENT SHALL ADMI NISTER THE FUND. 
+ 
+ (E) (1) THE FUND IS A SPECIAL , NONLAPSING FUND THAT  IS NOT 
+SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE . 
+ 
+  (2) THE STATE TREASURER SHALL HOLD T HE FUND SEPARATELY , 
+AND THE COMPTROLLER SHALL ACC OUNT FOR THE FUND. 
+ 
+ (F) THE FUND CONSISTS OF : 
+ 
+  (1) FEES COLLECTED UNDER § 8–703( B)(1)( I) OF THIS SUBTITLE ; 
+ 
+  (2) MONEY APPROPRIATED IN  THE STATE BUDGET TO THE FUND; 
+ 
+  (3) INTEREST EARNINGS ; AND 
+ 
+  (4) ANY OTHER MONEY FROM ANY OTHER SOURCE ACC EPTED FOR 
+THE BENEFIT OF THE FUND. 
+ 
+ WES MOORE, Governor  Ch. 644  
+ 
+– 7 –  (G) THE FUND MAY BE USED ONLY  FOR DEVELOPING AND I MPLEMENTING 
+THE RADIATION EMERGENCY RESPONSE PROGRAM , INCLUDING ADMINISTRA TIVE 
+EXPENSES . 
+ 
+ (H) (1) THE STAT E TREASURER SHALL INVES T THE MONEY OF THE FUND 
+IN THE SAME MANNER A S OTHER STATE MONEY MAY BE IN VESTED . 
+ 
+  (2) ANY INTEREST EARNINGS  OF THE FUND SHALL BE CREDITE D TO 
+THE FUND. 
+ 
+ (I) EXPENDITURES FROM THE  FUND MAY BE MADE ONLY  IN ACCORDANCE 
+WITH THE STATE B UDGET . 
+ 
+ (J) MONEY EXPENDED FROM T HE FUND FOR THE RADIATION EMERGENCY 
+RESPONSE PROGRAM IS SUPPLEMENT AL TO AND IS NOT INT ENDED TO TAKE THE 
+PLACE OF FUNDING THA T OTHERWISE WOULD BE  APPROPRIATED FOR THE  
+RADIATION EMERGENCY RESPONSE PROGRAM . 
+ 
+Article – State F inance and Procurement  
+ 
+6–226. 
+ 
+ (a) (2) (i) Notwithstanding any other provision of law, and unless 
+inconsistent with a federal law, grant agreement, or other federal requirement or with the 
+terms of a gift or settlement agreement, net interest on all State money allocated by the 
+State Treasurer under this section to special funds or accounts, and otherwise entitled to 
+receive interest earnings, as accounted for by the Comptroller, shall accrue to the General 
+Fund of the State.  
+ 
+   (ii) The provisions o f subparagraph (i) of this paragraph do not apply 
+to the following funds:  
+ 
+    189. the Teacher Retention and Development Fund; [and] 
+ 
+    190. the Protecting Against Hate Crimes Grant Fund ; AND 
+ 
+    191. THE RADIATION EMERGENCY RESPONSE FUND . 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June 
+1, 2024.  
+ 
+Approved by the Governor, May 9, 2024.  

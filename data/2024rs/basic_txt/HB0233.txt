@@ -1,0 +1,1686 @@
+ WES MOORE, Governor  Ch. 424  
+ 
+– 1 – Chapter 424  
+(House Bill 233 ) 
+ 
+AN ACT concerning  
+ 
+Chesapeake and Atlantic Coastal Bays Critical Area Protection Program  
+– Climate, Equity, and Administrative Provisions  
+ 
+FOR the purpose of altering the standards for membership on the Critical Area 
+Commission; repealing a certain advisory committee on the Atlantic Coastal Bays 
+Critical Area Program; authorizing the Commission to adopt regulations governing 
+the transfer of d evelopment rights, fee in lieu payments, the assessment of and 
+adaption to climate change relevant to  of the critical area for climate resiliency , 
+enhancing resilience in the critical area, and environmental justice and equity 
+initiatives; establishing certain considerations of climate change, climate  resiliency, 
+and equity as general principles and minimum elements of local programs; requiring 
+a local program to give consideration to underserved communities when assessing 
+the suitability of critical areas for certain recreation; requiring local jurisdictions to 
+consider climate change when approving growth allocation decisions; requiring the 
+Commis sion to consider environmental impacts on underserved or overburdened 
+communities when reviewing growth allocation map amendments; altering certain 
+resource conservation area density standards and requirements; authorizing the 
+purchase of transferable deve lopment rights for certain intrafamily transfers; 
+authorizing a certain increase in lot coverage limits under certain circumstances; 
+altering the process for performing the required local jurisdiction comprehensive 
+reviews of critical area programs; establ ishing standards under which a critical area 
+designation may be changed on proof of mistake and under which a zoning map 
+amendment may be granted; authorizing the Commission to direct a local 
+jurisdiction to correct a program deficiency; establishing a cer tain remedial process 
+if a local jurisdiction fails to update its critical area program; repealing certain 
+requirements on oil or natural gas production or exploration in the critical area; 
+establishing a process for the preparation, distribution, review, refinement, and 
+formal adoption of the periodic update of statewide base maps; and generally relating 
+to the Chesapeake and Atlantic Coastal Bays Critical Area Protection Program.  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Business Regu lation  
+Section 19 –106(a)(1) and (5)  
+ Annotated Code of Maryland  
+ (2015 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Environment  
+Section 1 –701(a)(1), (5), (7), and (8)  
+ Annotated Code of Maryland  
+ (2013 Replacement Volume and 2023 Supplement)  
+Ch. 424  2024 LAWS OF MARYLAND   
+ 
+– 2 –  
+BY repealing and reenacting, with amendments,  
+ Article – Natural Resources  
+Section 8 –1801, 8 –1802(a), 8 –1804(a)(1) and (c), 8 –1805(b)(1) and (2) and (c),  
+8–1806(a) and (b)(1)(ii), (iii), (x), (xiv)4., (xv), a nd (xvi)6., 8 –1808(a), (b), and 
+(c)(1)(iii)3., 6., 8., 13., 14., and 15. and (4), 8 –1808.1(c)(2) and (4)(vi) and (vii) 
+and (e), 8 –1808.2(f), 8 –1808.3(b) and (f), 8 –1808.10(b)(1), 8 –1809(g) through 
+(j) and (l) through (s), 8 –1811(b)(2), 8 –1812, 8 –1813.1(d)( 5), 8–1814(a) and (b) ,  
+8–1815(a)(2)(i)1. and (3)(ii), (b), and (e), and 8 –1815.1(b) through (e)  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2023 Supplement)  
+ 
+BY adding to  
+ Article – Natural Resources  
+Section 8 –1806(b)(1)(xvii), (xviii), and (xix), 8 –1808(c)(1)(iii)16. through 19.,  
+8–1808.1(c)(4)(viii), 8 –1809(h), (i), and (k), and 8 –1810(e)  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing  
+ Article – Natural Resources  
+ Section 8 –1806(c), 8 –1809(k), and  8–1817  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2023 Supplement)  
+ 
+Preamble  
+ 
+ WHEREAS, Following extensive research and the issuance of a report by the U.S. 
+Environmental Protection Agency that clearly demonstrated the alarming extent of 
+degradation of the Chesapeake Bay, in significant part because of prominent land use and 
+growth patterns, the Critical Area Commission was created in 1984 in order to preserve 
+and restore water quality in the State, to maintain valued wildlife habitat, and  to 
+accommodate inevitable growth, and these same legislative concerns were addressed in 
+2002 when the protections of the Critical Area Program were expanded to include the 
+Atlantic Coastal Bays and in 2008 with the comprehensive update to the Critical Are a 
+Program; and  
+ 
+ WHEREAS, The critical area, which comprises approximately 11% of Maryland’s 
+land mass, includes the majority of the State’s most ecologically fragile and valuable 
+properties; and  
+ 
+ WHEREAS, From its inception, partnership between State and  local government 
+has been a cornerstone of the Critical Area Program; and  
+ 
+ WES MOORE, Governor  Ch. 424  
+ 
+– 3 –  WHEREAS, To date local critical area programs are operative in Baltimore City, 16 
+counties, and 47 other municipalities, and critical area issues directly impact at least seven 
+State departments; and  
+ 
+ WHEREAS, After nearly 40 years of operation, the Critical Area Program has 
+effectively influenced thousands of land use decisions, addressed and minimized the 
+adverse impacts of growth associated with hundreds of requests for growth allocation, and 
+represented a comprehensive effort between the State and local governments to enforce a 
+variety of water quality and habitat protection standards; and  
+ 
+ WHEREAS, Despite these efforts, additional measures are necessary to enhance a 
+cooperat ive land use and natural resource management program that will restore the 
+quality and productivity of the Chesapeake Bay, the Atlantic Coastal Bays, their tidal 
+tributaries, and associated land –based ecosystems; and  
+ 
+ WHEREAS, As a member of the Maryland Commission on Climate Change, the 
+Critical Area Commission is charged with recommending short and long –term strategies 
+and initiatives to better mitigate, prepare for, and adapt to the consequences of climate 
+change; and  
+ 
+ WHEREAS, Particularly in light of  the ongoing, accelerating decline of the State’s 
+water quality resources and the loss of valuable shoreline areas due to erosion, sea level 
+rise, and climate change, the Critical Area Commission has a significant role in ensuring 
+the adaptation of Marylan d’s tidal waters, developed shorelines, and their adjacent 
+resource lands and wildlife habitats to the rapidly evolving climate realities; and  
+ 
+ WHEREAS, To address the increasing effects on water quality from more frequent 
+and higher –intensity storms, to adjust conservation programs and techniques to the 
+shifting realities of species and habitats, and to accommodate appropriate levels and 
+locations for growth within the critical area, improvements to the Critical Area Program 
+are in order at this time; and  
+ 
+ WHEREAS, It is in the interest of the citizens of Maryland that the Critical Area 
+Commission ensure the equitable distribution of the environmental benefits and burdens 
+of development, restoration, and mitigation within the critical area and, in doing s o, the 
+Commission must also ensure equitable representation and participation in its processes; 
+now, therefore,  
+ 
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Business Regulation  
+ 
+19–106. 
+ 
+ (a) (1) In this section the following words have the meanings indicated.  
+Ch. 424  2024 LAWS OF MARYLAND   
+ 
+– 4 –  
+  (5) “Underrepresented community” means a community whose members 
+self–identify:  
+ 
+   (i) as Black, African American, Hispanic, Latino, Asian, Pacific 
+Islander, Native Amer ican, Native Hawaiian, or Alaska Native; or  
+ 
+   (ii) with one or more of the racial or ethnic groups listed in item (i) 
+of this paragraph.  
+ 
+Article – Environment  
+ 
+1–701. 
+ 
+ (a) (1) In this section the following words have the meanings indicated.  
+ 
+  (5) “Env ironmental justice” means equal protection from environmental 
+and public health hazards for all people regardless of race, income, culture, and social 
+status.  
+ 
+  (7) “Overburdened community” means any census tract for which three or 
+more of the following e nvironmental health indicators are above the 75th percentile 
+statewide:  
+ 
+   (i) Particulate matter (PM) 2.5;  
+ 
+   (ii) Ozone;  
+ 
+   (iii) National Air Toxics Assessment (NATA) diesel PM;  
+ 
+   (iv) NATA cancer risk;  
+ 
+   (v) NATA respiratory hazard index;  
+ 
+   (vi) Traffic proximity;  
+ 
+   (vii) Lead paint indicator;  
+ 
+   (viii)  National Priorities List Superfund site proximity;  
+ 
+   (ix) Risk Management Plan facility proximity;  
+ 
+   (x) Hazardous waste proximity;  
+ 
+   (xi) Wastewater discharge indicator;  
+ 
+ WES MOORE, Governor  Ch. 424  
+ 
+– 5 –    (xii) Proximity to a Concentrated Animal Feeding Operation (CAFO);  
+ 
+   (xiii)  Percent of the population lacking broadband coverage;  
+ 
+   (xiv) Asthma emergency room discharges;  
+ 
+   (xv) Myocardial infarction discharges;  
+ 
+   (xvi) Low–birth –weight infants;  
+ 
+   (xvii)  Proximity to emitting power plants;  
+ 
+   (xviii)  Proximity to a Toxic Release Inventory (TRI) facility;  
+ 
+   (xix) Proximity to a brownfields site;  
+ 
+   (xx) Proximity to mining operations; and  
+ 
+   (xxi) Proximity to a hazardous waste landfill.  
+ 
+  (8) “Underserved community” means any census tract in which, according 
+to the most recent U.S. Census Bureau Survey:  
+ 
+   (i) At least 25% of the residents qualify as low –income;  
+ 
+   (ii) At least 50% of the residents identify as nonwhite; or  
+ 
+   (iii) At least  15% of the residents have limited English proficiency.  
+ 
+Article – Natural Resources  
+ 
+8–1801.  
+ 
+ (a) The General Assembly finds and declares that:  
+ 
+  (1) The Chesapeake and the Atlantic Coastal Bays and their tributaries 
+are natural resources of great significance to the State and the nation, and their beauty, 
+their ecological value, and their economic impact all reach far beyond any one local 
+jurisdiction;  
+ 
+  (2) The shoreline and adjacent lands, particularly the buffer areas, 
+constitute a valuable, fr agile, and sensitive part of this estuarine system, where human 
+activity can have a particularly immediate and adverse impact on water quality and 
+natural habitats;  
+ 
+Ch. 424  2024 LAWS OF MARYLAND   
+ 
+– 6 –   (3) The capacity of these shoreline and adjacent lands to withstand 
+continuing demands , INCLUDING CLIMATE CH ANGE , without further degradation to 
+water quality and natural habitats is limited;  
+ 
+  (4) Human activity is harmful in these shoreline areas, where the new 
+development of nonwater –dependent structures AND USES or an increase in lot cov erage 
+is presumed to be contrary to the purpose of this subtitle, because these activities may 
+cause OR AMPLIFY adverse impacts, of both an immediate and a long –term nature, to the 
+Chesapeake and the Atlantic Coastal Bays, and thus it is necessary [whereve r possible ] to 
+maintain a buffer of at least 100 feet landward from the mean high water line of tidal 
+waters, tributary streams, and tidal wetlands;  
+ 
+  (5) National studies have documented that the quality and productivity of 
+the waters of the Chesapeake B ay and its tributaries have declined due to the cumulative 
+effects of human activity that have caused increased levels of pollutants, nutrients, and 
+toxics in the Bay system and declines in more protective land uses such as forestland and 
+agricultural land  in the Bay region;  
+ 
+  (6) Those portions of the Chesapeake and the Atlantic Coastal Bays and 
+their tributaries within Maryland are particularly stressed by the continuing population 
+growth and development activity concentrated in the Baltimore –Washington metropolitan 
+corridor and along the Atlantic Coast;  
+ 
+  (7) The quality of life for the citizens of Maryland is enhanced through the 
+restoration of the quality and productivity of the waters of the Chesapeake and the Atlantic 
+Coastal Bays [,] and their tribu taries IN A MANNER IN WHICH  BURDENS AND BENEFITS  
+ARE DISTRIBUTED EQUI TABLY ; 
+ 
+  (8) The restoration of the Chesapeake and the Atlantic Coastal Bays and 
+their tributaries is dependent, in part, on minimizing further adverse impacts to the water 
+quality and natural habitats of the shoreline and adjacent lands, AND ENHANCING THE 
+RESILIENCY O F NATURAL RESOURCES IN  THE CRITICAL AREA, particularly in the 
+buffer;  
+ 
+  (9) The cumulative impact of current development and of each new 
+development activity in the buffer is inimical to these purposes, and it is therefore 
+imperative that State law protec t irreplaceable State buffer resources from unpermitted 
+activity; [and] 
+ 
+  (10) There is a critical and substantial State interest for the benefit of 
+current and future generations in fostering more sensitive development and more effective 
+enforcement in a  consistent and uniform manner along shoreline areas of the Chesapeake 
+and the Atlantic Coastal Bays and their tributaries so as to minimize damage to water 
+quality and natural habitats ; 
+ 
+ WES MOORE, Governor  Ch. 424  
+ 
+– 7 –   (11) THERE IS A CRITICAL A ND SUBSTANTIAL STATE INTEREST IN 
+DEVELOP ING POLICIES AND STR ATEGIES TO BETTER MI TIGATE , PREPARE FOR , AND 
+ADAPT TO THE CONSEQU ENCES OF CLIMATE CHA NGE ALONG THE STATE’S 
+SHORELINES , INCLUDING SEA LEVEL RISE , STORM SURGE ,  
+PRECIPITATION –INDUCED FLOODING , AND OTHER EXTREME WE ATHER EVENTS AND 
+TO ENHAN CE THE RESILIENCE OF  THE STATE’S SHORELINES BY IDEN TIFYING , 
+RESTORING , CREATING , AND CONSERVING EXIST ING NATURAL AND NATU RE–BASED 
+FEATURES ; 
+ 
+  (12) THERE IS A CRITICAL A ND SUBSTANTIAL STATE INTEREST IN 
+ENSURING THE EQUITAB LE DISTRIBUTION OF T HE BENEFITS AN D BURDENS OF 
+DEVELOPMENT , RESTORATION , MITIGATION , AND CONSERVATION ALO NG THE 
+STATE’S SHORELINES AND IN ENSURING EQUITABLE R EPRESENTATION AND 
+PARTICIPATION IN THE SE PROCESSES ; AND 
+ 
+  (13) THE INCLUSION OF INCE NTIVE–BASED PROGRAMS TO EN SURE 
+DEVELOPMENT IS C OMPATIBLE WITH PROJE CTED CLIMATE IMPACTS  AND COASTAL 
+HAZARDS IS VITAL TO THE STATE’S GOAL OF ADDRESSING  CLIMATE RESILIENCY . 
+ 
+ (b) It is the purpose of the General Assembly in enacting this subtitle:  
+ 
+  (1) To establish a Resource Protection Program for the  Chesapeake and the 
+Atlantic Coastal Bays and their tributaries by fostering more sensitive development 
+activity for certain shoreline areas so as to minimize damage to water quality and natural 
+habitats; and  
+ 
+  (2) To implement the Resource Protection Pro gram on a cooperative basis 
+between the State and affected local governments, with local governments establishing and 
+implementing their programs in a [consistent and ] CONSISTENT , uniform , AND 
+EQUITABLE  manner subject to State and local leadership, criteri a, and oversight.  
+ 
+8–1802.  
+ 
+ (a) (1) In this subtitle the following words have the meanings indicated.  
+ 
+  (2) “Atlantic Coastal Bays” means the Assawoman, Isle of Wight, 
+Sinepuxent, Newport, and Chincoteague Bays.  
+ 
+  (3) “Atlantic Coastal Bays Critical Are a” means the initial planning area 
+identified under § 8 –1807 of this subtitle.  
+ 
+  (4) “Buffer” means an existing, naturally vegetated area, or an area 
+established in vegetation and managed to protect aquatic, wetlands, shoreline, and 
+terrestrial environmen ts from manmade disturbances.  
+ 
+Ch. 424  2024 LAWS OF MARYLAND   
+ 
+– 8 –   (5) “Chesapeake Bay Critical Area” means the initial planning area 
+identified under § 8 –1807 of this subtitle.  
+ 
+  (6) (I) “CLIMATE RESILIENCY ” MEANS THE CAPACITY O F A 
+NATURAL SYSTEM TO MA INTAIN FUNCTION IN T HE FACE OF STRESSES IMPOSED BY 
+CLIMATE CHANGE AND TO ADAPT THE NAT URAL SYSTEM TO BE BE TTER PREPARED 
+FOR FUTURE CLIMATE IMPAC TS. 
+ 
+   (II) “CLIMATE RESILIENCY ” INCLUDES ADAPTING A NATURAL 
+SYSTEM TO BE BETTER PREPARED FOR FUTURE CLIMATE IMPACTS INCL UDING SEA 
+LEVEL RISE , SALTWATER INTRUSION , WETLAND MIGRATION , STORM SURGE , 
+PRECIPITATION –INDUCED FLOODING , AND OTHER EXTREME WE ATHER EVENTS .  
+ 
+  (7) “Commission” means  the Critical Area Commission for the Chesapeake 
+and Atlantic Coastal Bays established in this subtitle.  
+ 
+  [(7)] (8) “Critical Area” means the Chesapeake Bay Critical Area and the 
+Atlantic Coastal Bays Critical Area.  
+ 
+  [(8)] (9) “Developer” means:  
+ 
+   (i) A person who undertakes development as defined in this section; 
+or 
+ 
+   (ii) A person who undertakes development activities as defined in 
+the criteria of the Commission.  
+ 
+  [(9)] (10)  “Development” means any activity that materially affects the 
+conditio n or use of dry land, land under water, or any structure.  
+ 
+  [(10)] (11)  (i) “Dwelling unit” means a single unit providing complete, 
+independent living facilities for at least one person, including permanent  provisions for 
+sanitation, cooking, eating, sleeping, and other activities routinely associated with daily 
+life. 
+ 
+   (ii) “Dwelling unit” includes a living quarters for a domestic or other 
+employee or tenant, an in –law or accessory apartment, a guest hous e, or a caretaker 
+residence.  
+ 
+  (12) “ENVIRONMENTAL JUSTICE ” HAS THE MEANING STAT ED IN §  
+1–701 OF THE ENVIRONMENT ARTICLE . 
+ 
+  (13) (I) “EQUITY” MEANS PROMOTION OF J USTICE , IMPARTIALITY , 
+AND FAIRNESS WITHIN THE PROCEDURES , PROCESSES , AND DISTRIBUTION OF 
+RESOURCES BY INSTITUTI ONS OR SYSTEMS . 
+ WES MOORE, Governor  Ch. 424  
+ 
+– 9 –  
+   (II) “EQUITY” INCLUDES CONSIDERATI ON OF ENVIRONMENTAL 
+BURDENS AND BENEFITS , IDENTIFICATION OF IM PACTS AND MITIGATION  
+OPPORTUNITIES , INCREASED REPRESENTA TION IN PUBLIC PARTI CIPATION , AND 
+PROVISIONS FOR PUBLI C ACCESS T O WATERWAYS .  
+ 
+  [(11)] (14)  “Growth allocation” means the number of acres of land in the 
+Chesapeake Bay Critical Area or Atlantic Coastal Bays Critical Area that a local 
+jurisdiction may use to create new intensely developed areas and new limited development 
+areas.  
+ 
+  [(12)] (15)  “Includes” means includes or including by way of illustration and 
+not by way of limitation.  
+ 
+  [(13)] (16)  (i) “Intensely developed area” means an area of at least 20 
+acres or the entire upland portion of the critical area  within a municipal corporation, 
+whichever is less, where:  
+ 
+    1. Residential, commercial, institutional, or industrial 
+developed land uses predominate; and  
+ 
+    2. A relatively small amount of natural habitat occurs.  
+ 
+   (ii) “Intensely developed area” includes:  
+ 
+    1. An area with a housing density of at least four dwelling 
+units per acre;  
+ 
+    2. An area with public water and sewer systems with a 
+housing density of more than three dwelling units per acre; or  
+ 
+    3. A commercial marina redesignated by  a local jurisdiction 
+from a resource conservation area or limited development area to an intensely developed 
+area through a mapping correction that occurred before January 1, 2006.  
+ 
+  [(14)] (17)  “Land classification” means the designation of land in the 
+Chesapeake Bay Critical Area or Atlantic Coastal Bays Critical Area in accordance with 
+the criteria adopted by the Commission as an intensely developed area or district, a limited 
+development area or district, or a resource conservation area or district.  
+ 
+  [(15)] (18)  (i) “Limited development area” means an area:  
+ 
+    1. That is developed in low or moderate intensity uses and 
+contains areas of natural plant and animal habitat; and  
+ 
+Ch. 424  2024 LAWS OF MARYLAND   
+ 
+– 10 –     2. Where the quality of runoff has not been substantially 
+altered or im paired.  
+ 
+   (ii) “Limited development area” includes an area:  
+ 
+    1. With a housing density ranging from one dwelling unit per 
+five acres up to four dwelling units per acre;  
+ 
+    2. With a public water or sewer system;  
+ 
+    3. That is not dominated by agr icultural land, wetland, 
+forests, barren land, surface water, or open space; or  
+ 
+    4. That is less than 20 acres and otherwise qualifies as an 
+intensely developed area under paragraph [(13)] (16) of this subsection.  
+ 
+  [(16)] (19)  “Local jurisdiction” means a county, or a municipal corporation 
+with planning and zoning powers, in which any part of the Chesapeake Bay Critical Area 
+or the Atlantic Coastal Bays Critical Area, as defined in this subtitle, is located.  
+ 
+  [(17)] (20)  (i) “Lot coverage” means t he percentage of a total lot or parcel 
+that is:  
+ 
+    1. Occupied by a structure, accessory structure, parking 
+area, driveway, walkway, or roadway; or  
+ 
+    2. Covered with gravel, stone, shell, [impermeable ] decking, 
+a paver, permeable pavement, or any manm ade material.  
+ 
+   (ii) “Lot coverage” includes the ground area covered or occupied by a 
+stairway or impermeable deck.  
+ 
+   (iii) “Lot coverage” does not include:  
+ 
+    1. A fence or wall that is less than 1 foot in width that has 
+not been constructed with a footer;  
+ 
+    2. A walkway in the buffer or expanded buffer, including a 
+stairway, that provides direct access to a community or private pier;  
+ 
+    3. A wood mulch pathway; or  
+ 
+    4. A PERMEABLE deck [with gaps to allow water to pass 
+freely ]. 
+ 
+ WES MOORE, Governor  Ch. 424  
+ 
+– 11 –   (21) “NATU RAL FEATURES ” MEANS COMPONENTS AND  PROCESSES 
+PRESENT IN OR PRODUC ED BY NATURE , INCLUDING SOIL TYPES , GEOLOGY , SLOPES , 
+VEGETATION , SURFACE WATER , DRAINAGE PATTERNS , AQUIFERS , RECHARGE 
+AREAS , CLIMATE , FLOODPLAINS , AQUATIC LIFE , AND WILDLIFE . 
+ 
+  (22) (I) “NATURE–BASED FEATURES ” MEANS THOSE SMALL –SCALE 
+NONSTRUCTURAL FEATUR ES THAT MIMIC CHARAC TERISTICS OF NATURAL  
+FEATURES AND ARE CRE ATED BY HUMAN DESIGN , ENGINEERING , AND 
+CONSTRUCTION TO PROV IDE SPECIFIC SERVICE S, INCLUDING COASTAL RI SK 
+REDUCTION . 
+ 
+   (II) “NATUR E–BASED FEATURES ” INCLUDES LIVING 
+SHORELINES , OYSTER REEFS , MARSH RESTORATION , AND BUFFERS . 
+ 
+  (23) “OVERBURDENED COMMUNIT Y” HAS THE MEANING STAT ED IN § 
+1–701 OF THE ENVIRONMENT ARTICLE . 
+ 
+  [(18)] (24)  (i) “Program” means the critical area protection program of a 
+local jurisdiction.  
+ 
+   (ii) “Program” includes any amendments to the program.  
+ 
+  [(19)] (25)  (i) “Program amendment” means any change or proposed 
+change to an adopted program that is not determined by the Commission [chairman ] 
+CHAIR  to be a p rogram refinement.  
+ 
+   (ii) “Program amendment” includes a change to a zoning map that is 
+not consistent with the method for using the growth allocation contained in an adopted 
+program.  
+ 
+  [(20)] (26)  (i) “Program refinement” means any change or proposed 
+change to an adopted program that the Commission [chairman ] CHAIR  determines will 
+result in a use of land or water in the Chesapeake Bay Critical Area or the Atlantic Coastal 
+Bays Critical Area in a manner consistent with the adopted program, or that will n ot 
+significantly affect the use of land or water in the critical area.  
+ 
+   (ii) “Program refinement” may include:  
+ 
+    1. A change to an adopted program that results from State 
+law; 
+ 
+    2. A change to an adopted program that affects local 
+processes and pr ocedures;  
+ 
+Ch. 424  2024 LAWS OF MARYLAND   
+ 
+– 12 –     3. A change to a local ordinance or code that clarifies an 
+existing provision; and  
+ 
+    4. A minor change to an element of an adopted program that 
+is clearly consistent with the provisions of this subtitle and all of the criteria of the 
+Comm ission.  
+ 
+  [(21)] (27)  (i) “Project approval” means the approval of development, 
+other than development by a State or local government agency, in the Chesapeake Bay 
+Critical Area or the Atlantic Coastal Bays Critical Area by the appropriate local approval 
+authority.  
+ 
+   (ii) “Project approval” includes:  
+ 
+    1. Approval of PRELIMINARY AND FINA L subdivision plats 
+and site plans;  
+ 
+    2. Inclusion of areas within floating zones;  
+ 
+    3. Issuance of variances, special exceptions, and conditional 
+use permits; and 
+ 
+    4. Approval of rezoning.  
+ 
+   (iii) “Project approval” does not include building permits.  
+ 
+  (28) “RESILIENCY ” MEANS THE ABILITY TO  ADAPT TO CHANGING  
+CONDITIONS AND WITHS TAND AND RAPIDLY REC OVER FROM DISRUPTION  DUE TO  
+EMERGENCIES . 
+ 
+  [(22)] (29) (28)  (i) “Resource conservation area” means an area that is 
+characterized by:  
+ 
+    1. Nature dominated environments, such as wetlands, 
+surface water, forests, and open space; and  
+ 
+    2. Resource –based activities, such as agriculture, forestry, 
+fisheries, or aquaculture.  
+ 
+   (ii) “Resource conservation area” includes an area with a housing 
+density of less than one dwelling per five acres.  
+ 
+  [(23)] (30) (29)  “Tributary stream” means a perennial stream or an 
+intermittent stream within the critical area that has been identified by site inspection or 
+in accordance with local program procedures approved by the Commission.  
+ WES MOORE, Governor  Ch. 424  
+ 
+– 13 –  
+  (31)  (30) “UNDERREPRESENTED COMM UNITY” HAS THE MEANING 
+STATED IN § 19–106 OF THE BUSINESS REGULATION ARTICLE . 
+ 
+  (32)  (31) “UNDERSERVED COM MUNITY” HAS THE MEANING STAT ED 
+IN § 1–701 OF THE ENVIRONMENT ARTICLE . 
+ 
+8–1804.  
+ 
+ (a) (1) The Commission consists of 29 voting members who REFLECT THE 
+DIVERSITY OF THE STATE AND are appointed by the Governor, as follows:  
+ 
+   (i) A full –time [chairman ] CHAIR , appointed with the advice and 
+consent of the Senate, who shall serve at the pleasure of the Governor;  
+ 
+   (ii) 13 individuals, appointed with the advice and consent of the 
+Senate, each of whom is a resident and an elected or appointed official of a local  jurisdiction. 
+At least 1 of these 13 individuals must be an elected or appointed official of a municipality. 
+These individuals shall serve on the Commission only while they hold local office. Each 
+shall be selected from certain counties or from municipali ties within the counties as follows, 
+and only after the Governor has consulted with elected county and municipal officials:  
+ 
+    1. 1 from each of Baltimore City and Anne Arundel, 
+Baltimore, and Prince George’s counties;  
+ 
+    2. 1 from Harford County or Ce cil County;  
+ 
+    3. 1 from Kent County or Queen Anne’s County;  
+ 
+    4. 1 from Caroline County;  
+ 
+    5. 1 from Talbot County or Dorchester County;  
+ 
+    6. 1 from Wicomico County or Somerset County;  
+ 
+    7. 2 from Calvert County, Charles County, or St. Mary’ s 
+County, both of whom may not be from the same county; and  
+ 
+    8. 2 from Worcester County, 1 of whom shall be a resident of 
+the Chesapeake Bay Watershed and the other of whom shall be a resident of the Atlantic 
+Coastal Bays Watershed;  
+ 
+   (iii) 8 individ uals, appointed with the advice and consent of the 
+Senate, who shall represent diverse interests, INCLUDING UNDERREPRE SENTED 
+COMMUNITIES , and among whom shall be a resident from each of the 5 counties that are 
+listed and from which an appointment has not b een made under item (ii) of this paragraph 
+Ch. 424  2024 LAWS OF MARYLAND   
+ 
+– 14 – and 3 of the 8 members appointed under this item shall be at large members, 1 of whom 
+shall be a private citizen and resident of the Atlantic Coastal Bays Watershed; and  
+ 
+   (iv) The Secretaries of Agriculture, Co mmerce, Housing and 
+Community Development, the Environment, Transportation, Natural Resources, and 
+Planning, ex officio, or the designee of the Secretaries.  
+ 
+ (c) Except for the [chairman ] CHAIR  and ex officio State officers or their 
+representatives:  
+ 
+  (1) The term of a member is 4 years;  
+ 
+  (2) The terms of members are staggered as required by the terms provided 
+for members of the Commission on July 1, 1984;  
+ 
+  (3) At the end of a term, a member continues to serve until a successor is 
+appointed and qual ifies;  
+ 
+  (4) A member who is appointed after a term is begun serves for the rest of 
+the term and until a successor is appointed and qualifies;  
+ 
+  (5) A member may serve no more than 2 terms; and  
+ 
+  (6) Any member of the Commission appointed by the Governo r who shall 
+fail to attend at least 60% of the meetings of the Commission during any period of 12 
+consecutive months shall be considered to have resigned, and the [chairman ] CHAIR  shall 
+forward the member’s name to the Governor, not later than January 15 o f the year following 
+the nonattendance with the statement of the nonattendance, and the Governor shall 
+appoint a successor for the remainder of the term. If the member has been unable to attend 
+meetings as required by this subtitle for reasons satisfactory  to the Governor, the Governor 
+may waive the resignation if the reasons are made public.  
+ 
+8–1805.  
+ 
+ (b) (1) The [chairman ] CHAIR  with the approval of the Commission shall 
+appoint an Executive Director for the Commission.  
+ 
+  (2) The Executive Director serve s at the pleasure of the [chairman ] CHAIR  
+and is entitled to the salary provided in the State budget.  
+ 
+ (c) The Attorney General shall designate an assistant Attorney General to advise 
+and represent the [chairman ] CHAIR  and the Commission.  
+ 
+8–1806.  
+ 
+ WES MOORE, Governor  Ch. 424  
+ 
+– 15 –  (a) The Commission has all powers necessary for carrying out the purposes of this 
+subtitle, including the following:  
+ 
+  (1) In accordance with Title 2, Subtitle 5 (Joint Committee on 
+Administrative, Executive and Legislative Review) and Title 10, Subtitle 1 (A dministrative 
+Procedure Act) of the State Government Article, to adopt and amend regulations as 
+authorized under this subtitle for the administration and enforcement of the State and local 
+programs;  
+ 
+  (2) To conduct hearings in connection with policies, p roposed programs, 
+and proposed regulations or amendments to regulations; AND  
+ 
+  (3) To contract for consultant or other services [; and  
+ 
+  (4) To establish an advisory committee, composed of members of the 
+Commission and local citizens and local stakeholder  groups, to make recommendations to 
+the Commission with respect to Atlantic Coastal Bays Critical Area programs ]. 
+ 
+ (b) Regulations adopted or amended under subsection (a)(1) of this section shall:  
+ 
+  (1) Establish comprehensive standards and procedures fo r: 
+ 
+   (ii) [Buffer exemption areas ] MODIFIED BUFFER AREAS ; 
+ 
+   (iii) Impacts of [shore erosion control ] SHORELINE STABILIZAT ION 
+activities on the buffer;  
+ 
+   (x) Development in the critical area, with respect to:  
+ 
+    1. Clearing, grading, and constructio n activity;  
+ 
+    2. Clustering to promote conservation of natural site 
+features;  
+ 
+    3. THE TRANSFER OF DEVEL OPMENT RIGHTS ; 
+ 
+    4. Flexibility for redevelopment;  
+ 
+    [4.] 5. Stormwater management;  
+ 
+    [5.] 6. Application of the 10% pollutant reduction rule;  
+ 
+    [6.] 7. Forest and developed woodlands protections;  
+ 
+    [7.] 8. Clearing of natural vegetation;  
+ 
+Ch. 424  2024 LAWS OF MARYLAND   
+ 
+– 16 –     [8.] 9. Lot coverage standards;  
+ 
+    [9.] 10. Commission review of local provisions for lot 
+consolidation; and  
+ 
+    [10.] 11. The exclusion of State tidal wetlands from 
+calculations of density, forest and developed woodlands protections, limitations on clearing 
+natural vegetation, and lot coverage standards;  
+ 
+   (xiv) Directives for local program development and implementation, 
+with respect to:  
+ 
+    4. Reporting requirements , INCLUDING ACCOUNTING  OF 
+FEE IN LIEU FUNDS ; 
+ 
+   (xv) In consultation with the Department of the Environment, 
+surface mining in the critical area; [and] 
+ 
+   (xvi) The application for and processing of a variance, with respect t o: 
+ 
+    6. Notice of a variance decision; [and] 
+ 
+   (XVII) ASSESSING AND ADAPTIN G THE CRITICAL AREA TO 
+CLIMATE –RELATED CHANGES INCL UDING SEA LEVEL RISE , WETLAND MIGRATION , 
+STORM SURGE , PRECIPITATION –INDUCED FLOODING , AND OTHER EXTREME  
+WEATHER EVENTS  FOR CLIMATE RESILIENCY ; 
+ 
+   (XVIII ) ENHANCING THE RESILIE NCE OF THE CRITICAL AREA 
+BY PROTECTING , CREATING , AND RESTORING NATURA L AND NATURE –BASED 
+FEATURES ; AND 
+ 
+   (XIX) ENVIRONMENTAL JUSTICE  AND EQUITY INITIATIV ES THAT : 
+ 
+    1. ADDRESS DISPARATE IMP ACTS OF DE VELOPMENT ; 
+AND 
+ 
+    2. ENSURE THE BENEFITS O F DEVELOPMENT , 
+RESTORATION , MITIGATION , AND CONSERVATION ARE  SHARED EQUITABLY ; AND 
+ 
+ [(c) The members of the Commission who reside in the Atlantic Coastal Bays 
+Watershed shall serve on any committee established under subsection (a)(4) of this section. ] 
+ 
+8–1808.  
+ 
+ WES MOORE, Governor  Ch. 424  
+ 
+– 17 –  (a) (1) It is the intent of this subtitle that each local jurisdiction shall have 
+primary responsibility for developing and implementing a program, subject to review and 
+approval by the Commission.  
+ 
+  (2) [(i) The Governor shall include in the budget a sum of money to be 
+used for grants to reimburse local jurisdictions for the reasonable costs of developing a 
+program under this section.  
+ 
+   (ii) Each local jurisdiction shall submit to the Governor a detai led 
+request for funds that are equivalent to the additional costs incurred in developing the 
+program under this section.  
+ 
+   (iii) The Governor shall include in the fiscal year 2003 budget a sum 
+of money to be used for grants to reimburse local jurisdictio ns in the Atlantic Coastal Bays 
+Critical Area for the reasonable costs of developing a program under this section.  
+ 
+  (3)] The Governor shall include in the budget annually a sum of money to 
+be used for grants to assist local jurisdictions with the reasona ble costs of implementing 
+AND UPDATING  a program under this section. Each local jurisdiction shall submit to the 
+Governor by May 1 of each year a detailed request for funds to assist in the implementation 
+AND UPDATING  of a program under this section.  
+ 
+  (3) (I) FOR EACH FISCAL YEAR , THE GOVERNOR SHALL INCLUD E 
+IN THE ANNUAL BUDGET  BILL AN APPROPRIATIO N TO PROVIDE GRANTS TO ASSIST 
+LOCAL JURISDICTIONS TO INCORPORATE CLIMA TE RESILIENCY AND EQUIT ABLE  
+PLANNING  AND EQUITY PROVISION S REQUIRED UNDER SUB SECTION (C)(1)(III)16 
+AND 17 OF THIS SECTION  INTO AN UPDATED LOCA L PROGRAM . 
+ 
+   (II) BY MAY 1 OF EACH YEAR , A LOCAL JURISDICTION  SHALL 
+SUBMIT TO THE COMMISSION A DETAILED  REQUEST FOR FUNDING UNDER THIS 
+PARAGRAPH . 
+ 
+   (III) ON THE REQUEST OF A L OCAL JURISDICTION , THE CHAIR 
+MAY EXTEND THE DEADL INE UNDER SUBPARAGRA PH (II) OF THIS PARAGRAPH .  
+ 
+ (b) A program shall consist of those elements which are necessary or appropriate 
+TO: 
+ 
+  (1) [To minimize ] MINIMIZE  adverse impacts on water quality that result 
+from pollutants that  are discharged from structures or conveyances or that have run off 
+from surrounding lands;  
+ 
+  (2) [To conserve ] CONSERVE  fish, wildlife, and plant habitat; [and] 
+ 
+Ch. 424  2024 LAWS OF MARYLAND   
+ 
+– 18 –   (3) [To establish ] ESTABLISH  land use policies for development in the 
+Chesapeake Bay Critical Area or the Atlantic Coastal Bays Critical Area which 
+accommodate growth and also address the fact that, even if pollution is controlled, the 
+number, movement, and activities of persons in t hat area can create adverse environmental 
+impacts ; 
+ 
+  (4) REDUCE VULNERABILITY TO THE IMPACTS OF CL IMATE CHANGE 
+AND INCORPORATE MEAS URES TO IMPROVE THE CLIMATE  RESILIENCY OF THE 
+CHESAPEAKE AND ATLANTIC COASTAL BAYS AND ITS TRIBUTAR IES; AND  
+ 
+  (5) ENSURE AN  EQUITABLE DISTRIBUTI ON OF THE BURDENS AN D 
+BENEFITS OF DEVELOPM ENT, MITIGATION , RESTORATION , CONSERVATION , AND 
+ADAPTATION TO CLIMAT E CHANGE WITHIN THE CRITICAL AREA . 
+ 
+ (c) (1) (iii) At a minimum, a program shall contain all of the following 
+elements, inclu ding:  
+ 
+    3. As necessary, new or amended provisions of the 
+jurisdiction’s:  
+ 
+    A. Subdivision regulations;  
+ 
+    B. Comprehensive or master plan;  
+ 
+    C. [Zoning ordinances ] ORDINANCES  or regulations THAT 
+AFFECT DEVELOPMENT I N THE CRITICAL AREA ; 
+ 
+    D. Provisions relating to enforcement; and  
+ 
+    E. Provisions as appropriate relating to [grandfathering of ] 
+development [at the time ] RIGHTS THAT PREDATE  the program [is] AS adopted or 
+approved by the Commission, including provisions for bringing lands into conformance with 
+the Program as required under item 12 of this subparagraph;  
+ 
+    6. Establishment of buffer areas along shorelines within 
+which agriculture will be permit ted only if AN AGRICULTURAL  best management 
+[practices are ] PRACTICE IS  used, provided that structures or any other use of land which 
+is necessary for adjacent agriculture shall also be permitted in any buffer area;  
+ 
+    8. [Designation ] ASSESSMENT AND MAP PING  of shoreline 
+areas, if any, that are suitable for parks, hiking, biking, wildlife refuges, scenic drives, 
+public access or assembly, and water –related recreation such as boat slips, piers, and 
+beaches , WITH CONSIDERATION G IVEN TO UNDERSERVED COMMUNITI ES; 
+ 
+ WES MOORE, Governor  Ch. 424  
+ 
+– 19 –     13. Except as provided in subsection (d) of this section, 
+provisions for granting a variance to the local jurisdiction’s critical area program, in 
+accordance with regulations adopted by the Commission concerning variances set forth in 
+[COMAR 27.01 .11] COMAR  27.01.12 ; 
+ 
+    14. Penalty provisions establishing that, in addition to any 
+other penalty applicable under State or local law, each person who violates a provision of 
+this subtitle or of a program, including a contractor, property owner, or any other person 
+who committed, as sisted, authorized, or participated in the violation is subject to a fine not 
+exceeding $10,000; [and] 
+ 
+    15. Administrative enforcement procedures in accordance 
+with due process principles, including notice and an opportunity to be heard, and 
+establishi ng that:  
+ 
+    A. Each violation of this subtitle or of a regulation, rule, 
+order, program, or other requirement adopted under the authority of this subtitle 
+constitutes a separate offense;  
+ 
+    B. Each calendar day that a violation continues constitutes a 
+separate offense;  
+ 
+    C. For each offense, a person shall be subject to separate 
+fines, orders, sanctions, and other penalties;  
+ 
+    D. Civil penalties for continuing violations shall accrue 
+without a requirement for an additional assessment, notice, or o pportunity for hearing for 
+each separate offense;  
+ 
+    E. On consideration of all the factors included under this 
+subsection and any other factors in the local jurisdiction’s approved program, the local 
+jurisdiction shall impose the amount of the penalty;  
+ 
+    F. Satisfaction of all conditions specified under paragraph (4) 
+of this subsection shall be a condition precedent to the issuance of any permit, approval, 
+variance, or special exception for the affected property; and  
+ 
+    G. Unless an extension of tim e is appropriate because of 
+adverse planting conditions, within 90 days of the issuance of a permit, approval, variance, 
+or special exception for the affected property, any additional mitigation required as a 
+condition of approval for the permit, approval,  variance, or special exception shall be 
+completed ; 
+ 
+    16. PROVISIONS FOR : 
+ 
+Ch. 424  2024 LAWS OF MARYLAND   
+ 
+– 20 –     A. IDENTIFYING AREAS VUL NERABLE TO CLIMATE 
+CHANGE ; 
+ 
+    B. MITIGATION AND ADAPTA TION MEASURES THAT 
+ADDRESS SEA LEVEL RI SE, STORM SURGE , PRECIPITATION –INDUCED FLOODING , 
+OTHER EXTREME WEATHER EVEN TS, MIGRATING WETLANDS , AND COASTAL 
+FORESTS ; AND 
+ 
+    C. ENHANCING THE CLIMATE  RESILIENCY OF THE 
+CRITICAL AREA BY IDE NTIFYING , RESTORING , AND CREATING AND CON SERVING 
+EXISTING AND PROJECT ED FUTURE NATURAL AN D NATURE –BASED FEATURES ; 
+ 
+    17. PROVISIONS FOR : 
+ 
+    A. IDENTIFYING UNDERSERV ED AND OVERBURDENED 
+COMMUNITIES WITHIN T HE CRITICAL AREA ; 
+ 
+    B. MEASURES TO ENSURE TH E EQUITABLE 
+DISTRIBUTION OF THE BENEFITS AND BURDENS  OF DEVELOPMENT , RESTORATION , 
+AND MITIGATION WITHI N THE CRITICAL ARE A; AND 
+ 
+    C. ENSURING EQUITY IN TH E PUBLIC PARTICIPATI ON 
+PROCESS ; 
+ 
+    18. PROVISIONS TO ENSURE PUBLIC ACCESS TO THE  
+WATER , SHORELINE , AND OTHER NATURAL AR EAS FOR UNDERSERVED OR 
+OVERBURDENED COMMUNI TIES; AND 
+ 
+    19. METHODS TO ENSURE EFF ECTIVE ALLOCATIO N, 
+ACCOUNTING , AND REPORTING OF FEE  IN LIEU FUNDS . 
+ 
+  (4) A local jurisdiction may not issue a permit, approval, variance, or 
+special exception THAT IS SUBJECT TO T HE VIOLATION , unless the person seeking the 
+permit, approval, variance, or special exception  has: 
+ 
+   (i) Fully paid all administrative, civil, and criminal penalties 
+imposed under paragraph (1)(iii)15 of this subsection;  
+ 
+   (ii) Prepared a restoration or mitigation plan, approved by the local 
+jurisdiction, to abate impacts to water quality or n atural resources as a result of the 
+violation; and  
+ 
+   (iii) Performed the abatement measures in the approved plan in 
+accordance with the local critical area program.  
+ WES MOORE, Governor  Ch. 424  
+ 
+– 21 –  
+8–1808.1.  
+ 
+ (c) (2) When locating new intensely developed or limited development areas, 
+local jurisdictions shall use the following standards:  
+ 
+   (i) Locate a new intensely developed area in a limited development 
+area or adjacent to an existing intensely developed area;  
+ 
+   (ii) Locate a new limited development area adjacent to an existing 
+limited development area or an intensely developed area;  
+ 
+   (iii) Locate a new limited development area or an intensely developed 
+area in a manner that minimizes impacts to a habitat protection area as defined in COMAR 
+27.01.09, and in an area and manner that optimizes benefits to water quality;  
+ 
+   (iv) Locate a new intensely developed area or a limited development 
+area in a resource conservation area at least 300 feet beyond the landward edge of tidal 
+wetlands or tidal waters, unless the local jurisdicti on proposes, and the Commission 
+approves, alternative measures for enhancement of water quality and habitat that provide 
+greater benefits to the resources;  
+ 
+   (v) Locate new intensely developed areas and limited development 
+areas in a manner that minimize s their impacts to the defined land uses of the resource 
+conservation area;  
+ 
+   (vi) LOCATE NEW INTENSELY DEVELOPED AREAS AND LIMITED 
+DEVELOPMENT AREAS OU TSIDE OF AREAS VULNE RABLE TO CLIMATE CHA NGE 
+UNLESS THE LOCAL JUR ISDICTION PROPOSES A ND THE COMMISSION APPROVES : 
+ 
+    1. AREAS IDENTIFIED BY T HE LOCAL JURISDICTIO N AS 
+VULNERABLE TO CLIMAT E CHANGE AS REQUIRED  UNDER § 8–1808( C)(1)( III)16 OF 
+THIS SUBTITLE ; AND 
+ 
+    2. MEASURES THAT : 
+ 
+    A. ASSESS CLIMATE RESILI ENCY AND VULNERABILI TY; 
+AND 
+ 
+    B. INCORPORATE S ITING , DESIGN , CONSTRUCTION , AND 
+OTHER NATURAL FEATUR ES TO SIGNIFICANTLY ENHANCE CLIMATE  RESILIENCY 
+AND REDUCE VULNERABI LITY; 
+ 
+Ch. 424  2024 LAWS OF MARYLAND   
+ 
+– 22 –    (VII) Except as provided in item [(viii)] (IX) of this paragraph, no more 
+than one –half of the expansion allocated in the criteria of the Commission may be located 
+in resource conservation areas;  
+ 
+   [(vii)] (VIII) New intensely developed or limited development areas 
+involving the use of growth alloca tion shall conform to all criteria of the Commission and 
+shall be designated on the comprehensive zoning map submitted by the local jurisdiction 
+as part of its application to the Commission for program approval or at a later date in 
+compliance with § 8 –1809(g) of this subtitle; and  
+ 
+   [(viii)] (IX) In Calvert, Caroline, Cecil, Charles, Dorchester, Kent, 
+Queen Anne’s, St. Mary’s, Somerset, Talbot, Wicomico, and Worcester counties, if the 
+county is unable to utilize a portion of the growth allocated to the c ounty in items (i) and 
+(ii) of this paragraph within or adjacent to existing intensely developed or limited 
+development areas as demonstrated in the local plan approved by the Commission, then 
+that portion of the allocated expansion which cannot be so loca ted may be located in the 
+resource conservation area in addition to the expansion allocated in item [(vi)] (VII) of this 
+paragraph. A developer shall be required to cluster any development in an area of 
+expansion authorized under this paragraph.  
+ 
+  (4) In reviewing map amendments or refinements involving the use of 
+growth allocation, the Commission shall consider the following factors:  
+ 
+   (vi) Environmental impacts associated with wastewater and 
+stormwater management practices and wastewater and stormwater  discharges to tidal 
+waters, tidal wetlands, and tributary streams; [and] 
+ 
+   (vii) Environmental impacts associated with location in a coastal 
+hazard area or an increased risk of severe flooding attributable to the proposed 
+development ; AND  
+ 
+   (VIII) ENVIRONMENTAL IMPACTS  ON UNDERSERVED OR 
+OVERBURDENED COMMUNI TIES . 
+ 
+ (e) (1) Except as authorized under paragraph (2) of this subsection, in 
+calculating the 1 –in–20 acre density of development that is permitted on a parcel located 
+within the resource conser vation area, a local jurisdiction:  
+ 
+   (i) Shall count each dwelling unit; and  
+ 
+   (ii) May permit the area of any private wetlands located on the 
+property to be included, under the following conditions:  
+ 
+ WES MOORE, Governor  Ch. 424  
+ 
+– 23 –     1. [The density of development on the upland po rtion of the 
+parcel may not exceed one dwelling unit per 8 acres ] ONLY WHEN USING TRANS FER OF 
+DEVELOPMENT RIGHTS ; and  
+ 
+    2. The area of private wetlands shall be [estimated on the 
+basis of vegetative information as designated on the State wetlands maps ] FIELD 
+DELINEATED WHEN CERT IFYING DEVELOPMENT R IGHTS FOR TRANSFER . 
+ 
+  (2) (i) Within a resource conservation area, a local jurisdiction may 
+consider one additional dwelling unit per lot or parcel as part of a primary dwelling unit 
+for the purpose of the den sity calculation under this subsection if the additional dwelling 
+unit:  
+ 
+    1. DOES NOT REQUIRE A VA RIANCE TO ANY CRITIC AL 
+AREA DEVELOPMENT STA NDARDS ; AND  
+ 
+    2. A. I. Is located within the primary dwelling unit 
+or its entire perimeter is within 100 feet of the primary dwelling unit; AND  
+ 
+    [B.] II. Does not exceed 900 square feet in total enclosed 
+area; and OR 
+ 
+    [C.] III. Is served by the same sewage disposal system as the 
+primary dwelling unit; or  
+ 
+    [2. A.] B. I. Is located within the primary dwelling unit; 
+OR AND  
+ 
+    [B.] II. By its construction, does not increase the amount of 
+lot coverage already attributed to the primary dwelling unit BY GREATER THAN 900 
+SQUARE FEET ; and  
+ 
+    [C.] III. Is served by the same sewage disposal system as the 
+primary dwelling unit . 
+ 
+   (ii) The provisions of this paragraph may not be construed to require 
+a local jurisdiction to consider an additional dwelling unit as part of a primary dwelling 
+unit for the purpose of the density calculation under this subsection.  
+ 
+   (iii) An additional dwelling unit meeting all the criteria under 
+subparagraph (i) of this paragraph that is separate from the primary dwelling unit may not 
+be sub divided or conveyed separately from the primary dwelling unit.  
+ 
+  (3) [The provisions of this subsection:  
+ 
+Ch. 424  2024 LAWS OF MARYLAND   
+ 
+– 24 –    (i) Apply to density calculations only; and  
+ 
+   (ii) May not be construed to authorize a local jurisdiction to grant a 
+variance, unless the varian ce is granted in accordance with the requirements of § 8 –1808(d) 
+of this subtitle ] AN ADDITIONAL DWELLIN G UNIT THAT EXCEEDS 900 SQUARE FEET 
+SHALL COUNT TOWARDS THE DENSITY CALCULAT ION. 
+ 
+8–1808.2.  
+ 
+ (f) (1) As a condition of approval, a local jurisdiction s hall require that:  
+ 
+   (i) Any deed for a lot that is created by a bona fide intrafamily 
+transfer shall contain a covenant stating that the lot is created subject to the provisions of 
+this section; and  
+ 
+   (ii) A lot created by a bona fide intrafamily tran sfer may not be 
+conveyed subsequently to any person other than a member of the owner’s immediate family, 
+except under procedures established pursuant to subsection (g) of this section OR 
+THROUGH THE PURCHASE  OF A TRANSFERABLE DE VELOPMENT RIGHT . 
+ 
+  (2) This subsection does not prevent the conveyance of the lot to a third 
+party as security for a mortgage or deed of trust.  
+ 
+8–1808.3.  
+ 
+ (b) Lot coverage in the buffer may not exceed the minimum amount necessary for 
+water –dependent [facilities ] USES , regardless of the critical area classification or the size 
+of the parcel or lot, except:  
+ 
+  (1) For a [buffer exemption area ] MODIFIED BUFFER AREA , as mapped 
+or established under an approved local program;  
+ 
+  (2) For a variance granted in accordance with this subtitle; or  
+ 
+  (3) As provided in a waterfront revitalization area or a waterfront 
+industrial area under a local program.  
+ 
+ (f) A local jurisdiction may allow a property owner to exceed the lot coverage 
+limits provided in subsection (d)(2) and (3) of this  section if the following conditions exist:  
+ 
+  (1) Lot coverage associated with new development activities on the 
+property has been minimized;  
+ 
+  (2) For a lot or parcel one –half acre or less in size, total lot coverage does 
+not exceed lot coverage limits in subsection (d)(2) of this section by more than 25% or 500 
+square feet, whichever is greater;  
+ WES MOORE, Governor  Ch. 424  
+ 
+– 25 –  
+  (3) For a lot or parcel greater than one –half acre and less than one acre in 
+size, total lot coverage does not exceed lot coverage limits in subsection (d)(3 ) of this section 
+or 5,445 square feet, whichever is greater;  
+ 
+  (4) Water quality impacts associated with runoff from new development 
+activities that contribute to lot coverage can be and have been minimized through site 
+design considerations or use of be st management practices approved by the local 
+jurisdiction to improve water quality; [and] 
+ 
+  (5) The property owner performs on –site mitigation as required by the local 
+jurisdiction to offset potential adverse water quality impacts from the new developmen t 
+activities that contribute to lot coverage, or the property owner pays a fee to the local 
+jurisdiction in lieu of performing the on –site mitigation ; AND  
+ 
+  (6) FOR DEVELOPMENT THAT USES PERVIOUS MATERI ALS THAT 
+HAVE BEEN APPROVED B Y THE COMMISSION AS PART  OF A LOCAL PROGRAM , THE 
+LIMITS ESTABLISHED I N ITEMS (2) AND (3) OF THIS SUBSECTION M AY BE EXCEEDED 
+BY UP TO 500 SQUARE FEET . 
+ 
+8–1808.10.  
+ 
+ (b) (1) Except as provided under subsection (c) of this section, the minimum 
+buffer shall be:  
+ 
+   (i) 200 feet LANDW ARD from tidal waters or a tidal wetland; and  
+ 
+   (ii) 100 feet LANDWARD from a tributary stream.  
+ 
+8–1809.  
+ 
+ (g) Each local jurisdiction shall [review ]: 
+ 
+  (1) REVIEW  its entire program and propose any necessary amendments to 
+its entire program, including local zoning maps, at least every [6 years. Each local 
+jurisdiction shall send ] 10 YEARS ; AND  
+ 
+  (2) SEND  in writing to the Commission, within 60 days after the 
+compl etion of its review, the following information:  
+ 
+  [(1)] (I) A statement certifying that the required review has been 
+accomplished;  
+ 
+  [(2)] (II) Any necessary requests for program amendments, program 
+refinements, or other matters that the local jurisdiction wishes the Commission to consider;  
+Ch. 424  2024 LAWS OF MARYLAND   
+ 
+– 26 –  
+  [(3)] (III) An updated resource inventory; and  
+ 
+  [(4)] (IV) A statement quantifying acreages within each land 
+classification, the growth allocation used, and the growth allocation remaining.  
+ 
+ (H) ON REQU EST OF A LOCAL JURIS DICTION AND FOR GOOD CAUSE , THE 
+COMMISSION MAY  SHALL  EXTEND THE DEADLINE UNDER SUBSECTION (G) OF THIS 
+SECTION FOR THAT LOC AL JURISDICTION BY NOT MORE THAN TWO 6–MONTH  
+EXTENSIONS  1 YEAR . 
+ 
+ (I) A ON OR AFTER JANUARY 1, 2028,  A LOCAL JURISDICTION THAT DO ES 
+NOT MEET THE DEADLIN E UNDER SUBSECTION (G)(1) OF THIS SECTION OR A FTER 
+THE EXPIRATION OF AN Y EXTENSION GRANTED UNDER SUBSECTION (H) OF THIS  
+SECTION MAY NOT PROP OSE AN AMENDMENT OR REFINEMENT UNDER SUB SECTION 
+(J) OF THIS SECTION . 
+ 
+ [(h)] (J) (1) As often as necessary but not more than 4 times per calendar 
+year, each local jurisdiction may propose program amendments and program refinements 
+to its adopted program.  
+ 
+  (2) [(i) Except for program amendments or program refinements 
+developed  during program review under subsection (g) of this section, a zoning map 
+amendment may be granted by a local approving authority only on proof of a mistake in 
+the existing zoning.  
+ 
+   (ii) The requirement in paragraph (2)(i) of this subsection that a 
+zoning map amendment may be granted only on proof of a mistake does not apply to 
+proposed changes to a zoning map that:  
+ 
+    1. Are wholly consistent with the land classifications in the 
+adopted program; or  
+ 
+    2. Propose the use of a part of the remaining growth 
+allocation in accordance with the adopted program ] A CHANGE TO A CRITICAL  AREA 
+DESIGNATION MAY BE G RANTED BY A LOCAL AP PROVING AUTHORITY ON  PROOF OF 
+MISTAKE IF THE PROPO SED CRITICAL AREA CL ASSIFICATION : 
+ 
+   (I) CONFORMS TO THE STATE CRITICAL AREA MAPPING 
+CRITERIA ; 
+ 
+   (II) 1. IS BASED ON LAND USES  OR NATURAL FEATURES IN 
+EXISTENCE AS OF DECEMBER 1, 1985;  OR  
+ 
+ WES MOORE, Governor  Ch. 424  
+ 
+– 27 –     2. FOR AREAS INCLUDED IN  THE CRITICAL AREA DU E TO 
+REMAPPING , IS BASED ON LAND USE S OR NATURAL FEATURE S IN EXISTENCE AT TH E 
+TIME OF THE REM APPING ; AND  
+ 
+   (III) FOLLOWS THE LOCAL JUR ISDICTION ’S DOCUMENTED  
+MAPPING METHODOLOGY FOR CRITICAL AREA CL ASSIFICATIONS AT THE  TIME OF 
+ORIGINAL PROGRAM ADO PTION ; AND  
+ 
+   (IV) IS CONSISTENT WITH TH E PURPOSES , POLICIES , AND GOALS 
+OF THIS SUBTITLE AND  ALL CRI TERIA OF THE COMMISSION . 
+ 
+ (K) A ZONING MAP AMENDMENT  MAY BE GRANTED IF TH E ZONING MAP 
+AMENDMENT : 
+ 
+  (1) IS WHOLLY CONSISTENT WITH THE LAND CLASSI FICATIONS IN 
+THE ADOPTED PROGRAM ; 
+ 
+  (2) PROPOSES THE USE OF A  PART OF THE REMAININ G GROWTH 
+ALLOCATION IN ACCO RDANCE WITH THE ADOP TED PROGRAM ; OR 
+ 
+  (3) PROPOSES TO CHANGE TH E LAND CLASSIFICATIO N FROM EITHER 
+AN INTENSELY DEVELOP ED AREA TO A LIMITED  DEVELOPMENT AREA OR A 
+RESOURCE CONSERVATIO N AREA , OR A LIMITED DEVELOP MENT AREA TO A 
+RESOURCE CONSERVATIO N AREA . 
+ 
+ [(i)] (L) A program may not be amended except with the approval of the 
+Commission.  
+ 
+ [(j)] (M) The Commission shall approve programs and program amendments 
+that meet:  
+ 
+  (1) The standards set forth in § 8 –1808(b)(1) through [(3)] (4) of this 
+subtitle; and  
+ 
+  (2) The criteria adopted by the Commission under § 8 –1808 of this subtitle.  
+ 
+ [(k) Copies of each approved program, as the program is amended or refined from 
+time to time, shall be maintained by the local jurisdiction and the Commission in a form 
+availab le for public inspection. ] 
+ 
+ [(l)] (N) (1) If the Commission determines that an adopted program contains 
+a clear mistake, omission, or conflict with the criteria or law, the Commission may:  
+ 
+   (i) Notify the local jurisdiction of the specific deficiency; and 
+Ch. 424  2024 LAWS OF MARYLAND   
+ 
+– 28 –  
+   (ii) [Request ] DIRECT  that the jurisdiction submit a proposed 
+program amendment or program refinement to correct the deficiency.  
+ 
+  (2) Within 90 days after being notified of any deficiency under paragraph 
+(1) of this subsection, the local jurisdic tion shall submit to the Commission, as program 
+amendments or program refinements, any proposed changes that are necessary to correct 
+those deficiencies.  
+ 
+  (3) Local project approvals granted under a part of a program that the 
+Commission has determined to  be deficient shall be null and void after notice of the 
+deficiency.  
+ 
+ [(m)] (O) (1) The Commission may adopt regulations that prescribe the 
+procedures and information requirements for program amendments and program 
+refinements.  
+ 
+  (2) In the absence of re gulations under paragraph (1) of this subsection, a 
+local jurisdiction may propose changes to adopted programs. Within 10 working days of 
+receiving a proposal under this paragraph, the Commission shall:  
+ 
+   (i) [Mail a notification to ] NOTIFY IN WRITING  the local 
+jurisdiction that the proposal has been accepted for processing; or  
+ 
+   (ii) Return the proposal as incomplete.  
+ 
+ [(n)] (P) A local jurisdiction may specify whether it intends a proposed change 
+to be a program amendment or program refinement. However, the Commission shall treat 
+a proposed change as a program amendment unless the [chairman ] CHAIR  determines that 
+the proposed cha nge is a program refinement.  
+ 
+ [(o)] (Q) (1) (I) For proposed program amendments, a Commission panel 
+shall hold a public hearing in the local jurisdiction, and the Commission shall act on the 
+proposed program amendment within 130 days of the Commission’s a cceptance of the 
+proposal  UNLESS THE LOCAL JUR ISDICTION REQUESTS , AND THE CHAIR APPROV ES, 
+AN EXTENSION .  
+ 
+   (II) [If] UNLESS THE LOCAL JURI SDICTION REQUESTS , AND THE 
+CHAIR APPROVES , AN EXTENSION , IF action by the Commission is not taken within 130 
+days, the proposed program amendment is deemed approved.  
+ 
+  (2) The Commission shall determine if the proposed amendment is 
+consistent with the purposes, policies, goals, and the provisions of this subtitle, and all 
+criteria of the Commission.  
+ 
+ WES MOORE, Governor  Ch. 424  
+ 
+– 29 –   (3) In accordan ce with the Commission’s determination in paragraph (2) of 
+this subsection, the Commission shall:  
+ 
+   (i) Approve the proposed program amendment and notify the local 
+jurisdiction;  
+ 
+   (ii) Deny the proposed program amendment;  
+ 
+   (iii) Approve the proposed  program amendment subject to one or 
+more conditions; or  
+ 
+   (iv) Return the proposed program amendment to the local 
+jurisdiction with a list of the changes to be made.  
+ 
+  (4) If the Commission approves a proposed program amendment subject to 
+one or more c onditions under item (3)(iii) of this subsection, the local jurisdiction shall 
+notify the Commission within 60 days of its intent to adopt the conditions.  
+ 
+  (5) The local jurisdiction shall incorporate the approved program 
+amendment and any required condi tions into the adopted program within 120 days of 
+receiving notice from the Commission that the program amendment has been approved.  
+ 
+ [(p)] (R) (1) Proposed program refinements shall be determined as provided 
+in this subsection.  
+ 
+  (2) (i) Within 30 days of the Commission’s acceptance of a proposal to 
+change an adopted program, the [chairman ] CHAIR , on behalf of the Commission, may 
+determine that the proposed change is a program refinement. [Immediately upon making 
+a determination under this paragraph, the  chairman ]  
+ 
+   (II) THE CHAIR  shall notify the Commission of that determination 
+AT THE NEXT MEETING OR A SUBSEQUENT MEET ING IF THE LOCAL JUR ISDICTION 
+REQUESTS , AND THE CHAIR APPROV ES, AN EXTENSION . 
+ 
+   [(ii)] (III) If a proposed change that was specifically submitted as a 
+program refinement is not acted on by the [chairman ] CHAIR  within the 30 –day period, 
+the Commission shall notify the appropriate local jurisdiction that the proposed change has 
+been deemed to be a p rogram amendment.  
+ 
+  (3) (i) The Commission may vote to override the [chairman’s ] CHAIR’S 
+determination only at the first Commission meeting where a quorum is present following 
+the [chairman’s determination ] CHAIR’S NOTIFICATION TO TH E COMMISSION . 
+ 
+   (ii) If the [chairman’s ] CHAIR’S determination is overridden, the 
+proposed change is deemed a program amendment, which shall be decided by the 
+Ch. 424  2024 LAWS OF MARYLAND   
+ 
+– 30 – Commission in accordance with the procedures for program amendments provided in this 
+section, except that the Commiss ion shall act on the program amendment within [60] 90 
+days after a vote to override the [chairman ] CHAIR . 
+ 
+   (iii) If the [chairman’s ] CHAIR’S determination is not overridden, 
+within 10 working days after the opportunity to override the [chairman’s ] CHAIR’S decision 
+under item (i) of this paragraph, the [chairman, on behalf of the Commission, ] CHAIR  shall:  
+ 
+    1. Determine if the program refinement is consistent with 
+the purposes, policies, goals, and provisions of this subtitle, and all criteria of the 
+Commission; and  
+ 
+    2. A. Approve the proposed program refinement and 
+notify the local jurisdiction;  
+ 
+    B. Deny the program refinement;  
+ 
+    C. Approve the proposed program refinement subject to one 
+or more conditions; or  
+ 
+    D. Return the proposed program refinement back to the local 
+jurisdiction with a list of the changes to be made.  
+ 
+   (iv) If the [Commission ] CHAIR  approves a proposed program 
+refinement subject to one or more conditions under item (iii)3 of this paragraph, the local 
+jurisdiction  shall notify the Commission within 60 days of its intent to adopt the conditions.  
+ 
+  (4) A local jurisdiction shall incorporate an approved program refinement 
+and any required conditions into its adopted program within 120 days of receiving notice 
+from th e [chairman ] CHAIR that the program refinement has been approved.  
+ 
+ [(q)] (S) (1) (i) As necessary, a local jurisdiction may combine any or all 
+proposed program amendments or program refinements required for a specific project 
+approval into a single reques t to the Commission for program amendment, program 
+refinement, or both.  
+ 
+   (ii) The Commission shall ensure that any requests received in 
+accordance with this paragraph are consistent with the purposes, policies, goals, and 
+provisions of this subtitle, an d all criteria of the Commission.  
+ 
+  (2) A project for which a local jurisdiction requests growth allocation may 
+be submitted as a proposed program amendment, program refinement, or both.  
+ 
+  (3) Approval by the Commission of a program amendment, program 
+refinement, or both does not affect the Commission’s authority to receive notice of or 
+ WES MOORE, Governor  Ch. 424  
+ 
+– 31 – intervene in a project approval that was not specifically approved by the Commission as 
+part of its approval of a program amendment or program refinement.  
+ 
+ [(r)] (T) Within 6 months after the adoption of amended criteria, a local 
+jurisdiction shall send to the Commission:  
+ 
+  (1) Proposed program amendments or program refinements that address 
+the amended criteria; or  
+ 
+  (2) A statement describing how the adopted program  conforms to the 
+amended criteria and certifying that the adopted program is consistent with the amended 
+criteria.  
+ 
+ [(s)] (U) If the Commission adopts a regulation concerning the use of the growth 
+allocation, any use of the growth allocation must be in ac cordance with that regulation for 
+the change to be considered a program refinement.  
+ 
+8–1810.  
+ 
+ (E) IF A LOCAL JURISDICTI ON HAS FAILED TO UPD ATE AN ADOPTED  
+PROGRAM IN ACCORDANC E WITH § 8–1809( G) OF THIS SUBTITLE : 
+ 
+  (1) THE LOCAL JURISDICTIO N SHALL ADOPT AN  UPDATE TO THE  
+LOCAL PROGRAM WITHIN  1 YEAR OF NOTICE FROM THE COMMISSION ; OR 
+ 
+  (2) (1) THE COMMISSION MAY UPDATE  THE LOCAL PROGRAM  IF A 
+LOCAL JURISDICTION F AILS TO UPDATE AN AD OPTED PROGRAM AFTER THE 
+DEADLINE UNDER § 8–1809( G)(1) OF THIS SUBTITLE OR AFTER  THE EXPIRATION OF 
+AN EXTENSION GRANTED  UNDER § 8–1809( H) OF THIS SUBTITLE , THE COMMISSION 
+SHALL MAKE A GOOD FA ITH EFFORT TO NOTIFY  THE LOCAL JURISDICTI ON THAT ITS 
+PROGRAM NEEDS TO BE UPDATED BY AT LEAST 4 DOCUMENTED NOTIFICAT ION 
+ATTEMPTS OVER A 3–YEAR PER IOD. 
+ 
+  (2) (I) SUBJECT TO SUBPARAGRA PH (II) OF THIS PARAGRAPH , THE 
+LOCAL JURISDICTION S HALL ADOPT AN UPDATE  TO THE PROGRAM WITHI N 2 YEARS 
+OF THE LAST NOTICE F ROM THE COMMISSION .  
+ 
+   (II) THE COMMISSION MAY UPDATE  THE PROGRAM IF THE 
+LOCAL JURISDICTION F AILS TO UPDATE ITS PRO GRAM WITHIN THE 2–YEAR PERIOD . 
+ 
+8–1811.  
+ 
+ (b) (2) From the date designated by the Commission in approving or adopting 
+a program, an applicant for project approval or the local agency authorized to grant project 
+approval on an applicatio n in any of the identified classes shall send to the Commission in 
+Ch. 424  2024 LAWS OF MARYLAND   
+ 
+– 32 – accordance with the regulations and any other instructions of the Commission, a copy of 
+every pending or new application for approval that is in any of the identified classes. Before 
+the cl ose of the fifth business day after receipt of a copy of an application from [the applicant 
+or] the local approving authority, the Commission shall send written notice of receipt to the 
+applicant and to the local approving authority. A failure of the Commission to send a timely 
+notice shall render paragraph (3) of this subsection inapplicable as to that application.  
+ 
+8–1812.  
+ 
+ (a) After the Commission has approved or adopted a program, the [chairman ] 
+CHAIR  of the Commission has standing and the right and authority to initiate or intervene 
+in any administrative, judicial, or other original proceeding or appeal in this State 
+concerning a project approval in the Chesapeake Bay Critical Area or the Atlantic Coastal 
+Bays Critical Area. The [chairman ] CHAIR  may exercise this intervention authority 
+without first obtaining approval from the Commission, but th e [chairman ] CHAIR  shall 
+send prompt written notice of any intervention or initiation of action under this section to 
+each member of the Commission. The [chairman ] CHAIR  shall withdraw the intervention 
+or action initiated if, within 35 days after the date of the [chairman’s ] CHAIR’S notice, at 
+least 13 members indicate disapproval of the action, either in writing addressed to the 
+[chairman ] CHAIR  or by vote at a meeting of the Commission. A member representing the 
+local jurisdiction affected by the [chairma n’s] CHAIR’S intervention or action may request 
+a meeting of the Commission to vote on the [chairman’s ] CHAIR’S intervention or action.  
+ 
+ (b) Except as stated in this subtitle, the [chairman ] CHAIR  is subject to general 
+laws and rules of procedure that govern the time within and manner in which the authority 
+granted in subsection (a) of this section may be exercised.  
+ 
+ (c) The [chairman ] CHAIR  may appeal an action or decision even if the 
+[chairman ] CHAIR  was not a party to or is not specifically aggrieved by the action or 
+decision.  
+ 
+8–1813.1.  
+ 
+ (d) A local jurisdiction may include in the jurisdiction’s local critical area 
+protection program, to be approved by the Commission, an alternative buffer provision for 
+the development of a planned unit development in accordance with the planned unit 
+development’s Step III approval, provided that:  
+ 
+  (5) At least 75% of the dwelling units in the planned unit development 
+comply with the buffer requirements in  COMAR 27.01.09.01 and no dwelling unit has a 
+buffer of less than 50 feet LANDWARD  from existing or proposed tidal waters, tidal 
+wetlands, or tributary streams.  
+ 
+8–1814.  
+ 
+ WES MOORE, Governor  Ch. 424  
+ 
+– 33 –  (a) After 760 days have elapsed from the date upon which criteria adopted by the 
+Com mission become effective, any State or local agency that proposes development which 
+has not been subject to project approval by the local jurisdiction under an approved 
+program, including buildings, treatment plants, roads, railroads, and airports, in the 
+Chesapeake Bay Critical Area AND ATLANTIC COASTAL BAYS CRITICAL AREA shall, 
+before the State or local agency begins the development, receive the approval of the 
+Commission in accordance with procedures or exceptions set forth in regulations adopted 
+by the Commission using the standards set forth in § 8 –1808(b)(1) through (3) of this 
+subtitle. These regulations shall be adopted on or before September 1, 1987, and only after 
+consultation with affected State and local agencies.  
+ 
+ (b) The Secretary AND THE SECR ETARY OF THE ENVIRONMENT  shall consult 
+with the Commission in making consistency determinations under the Federal Coastal 
+Zone Management Program.  
+ 
+8–1815.  
+ 
+ (a) (2) (i) A person who violates a provision of an order, permit, plan, local 
+program, this subti tle, or regulations adopted, approved, or issued under the authority of 
+this subtitle shall be:  
+ 
+    1. Subject to prosecution or suit in circuit court or District 
+Court by the [chairman ] CHAIR  or local authorities, who may invoke the sanctions and 
+remedie s afforded by State or local law;  
+ 
+  (3) A local authority may request:  
+ 
+   (ii) That the [chairman ] CHAIR  refer an enforcement action to the 
+Attorney General.  
+ 
+ (b) Whenever the [chairman ] CHAIR  has reason to believe that a local jurisdiction 
+is failing to enforce the requirements of a program applicable to a particular development, 
+the [chairman ] CHAIR  shall serve notice upon the local enforcement authorities. If within 
+30 days after service of the notice, the local authorities have failed to initiate an action to 
+remedy or punish the violation, the [chairman ] CHAIR  may refer the matter to the Attorney 
+General.  
+ 
+ (e) Notwithstanding any other provision of this section, whenever a development 
+in the CHESAPEAKE BAY CRITICAL AREA OR ATLANTIC COASTAL BAYS Critical Area 
+is proceeding in violation of approved project plans and threatens to immediately and 
+irreparably degrade the quality of tidal waters or fish, wildlife, or plant habitat, the 
+Attorney G eneral, upon request of the [chairman ] CHAIR , may bring an action to restrain 
+the violation and, as appropriate, to compel restoration of any land or water areas affected 
+by the development.  
+ 
+8–1815.1.  
+Ch. 424  2024 LAWS OF MARYLAND   
+ 
+– 34 –  
+ (b) If a person cuts or clears or plans to cut or cl ear trees within the Chesapeake 
+Bay Critical Area or Atlantic Coastal Bays Critical Area in violation of an approved local 
+critical area program or of regulations adopted by the Commission, the [chairman ] CHAIR  
+may bring an action, or the local jurisdictio n may bring an action or request that the 
+[chairman ] CHAIR  of the Commission refer the matter to the Attorney General to bring an 
+action:  
+ 
+  (1) To require the person to replant trees where the cutting or clearing 
+occurred in accordance with a plan prepare d by the State Forester, a registered professional 
+forester, or a registered landscape architect;  
+ 
+  (2) To restrain the planned violation; or  
+ 
+  (3) For damages:  
+ 
+   (i) To be assessed by a circuit court in an amount equal to the 
+estimated cost of replant ing trees; and  
+ 
+   (ii) To be paid to the Department by the person found to have 
+violated the provisions of this subsection.  
+ 
+ (c) If the [chairman ] CHAIR  of the Commission has reason to believe that the 
+local jurisdiction is failing to enforce the require ments of subsection (b) of this section, the 
+[chairman ] CHAIR  shall refer the matter to the Attorney General as provided under §  
+8–1815(b) of this subtitle.  
+ 
+ (d) On the [chairman ] CHAIR  of the Commission’s referral of an alleged violation 
+under subsection (c) of this section to the Attorney General, the Attorney General may 
+invoke the remedies available to the local jurisdiction under subsection (b) of this section 
+in any court of compet ent jurisdiction in which the local jurisdiction would be authorized to 
+prosecute or sue.  
+ 
+ (e) On the request of a local jurisdiction or the [chairman ] CHAIR  of the 
+Commission, the State Forester, a registered professional forester, or a registered 
+landsc ape architect may prepare, oversee, and approve the final implementation of a plan 
+to: 
+ 
+  (1) Replant trees in any part of the Chesapeake Bay Critical Area where 
+trees in the Chesapeake Bay Critical Area are cut or cleared in violation of subsection (b) 
+of this section; and  
+ 
+  (2) Replant trees in any part of the Atlantic Coastal Bays Critical Area 
+where trees in the Atlantic Coastal Bays Critical Area are cut or cleared in violation of 
+subsection (b) of this section.  
+ 
+ WES MOORE, Governor  Ch. 424  
+ 
+– 35 – [8–1817.  
+ 
+ (a) By January 1, 1994, the  Commission shall adopt criteria that assure the 
+protection of land and water resources in the Critical Area and that shall apply throughout 
+the Critical Area for:  
+ 
+  (1) Production of oil or natural gas on lands or waters leased by the State; 
+and 
+ 
+  (2) Exploration or production of oil or natural gas on any lands in the 
+Critical Area.  
+ 
+ (b) (1) In addition to other applicable provisions of law, an applicant for any 
+production or exploratory drilling that will occur on, in, under, or through the Critical Ar ea, 
+including wells drilled outside the Critical Area by a method known as slant drilling that 
+will pass through the Critical Area, shall complete and submit with the application an 
+environmental impact study that addresses the potential for any adverse en vironmental 
+effects on the Critical Area as a result of the drilling.  
+ 
+  (2) (i) The Department shall forward a copy of the permit application 
+and the environmental impact study referred to in paragraph (1) of this subsection to the 
+Commission for its revi ew and comment.  
+ 
+   (ii) The Department shall consider and comment in writing on the 
+objections and concerns of the Commission before issuing a permit under this subsection. ] 
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That on completion of the statewide 
+base map project, as specified under Section 3 of Chapter 119 of the Acts of the General 
+Assembly of 2008, the process for updating the map shall proceed as follows:  
+ 
+  (1) in accordance with the following requirements and conditions, the 
+Critical Area Commissi on, with the assistance of the Department of Natural Resources and 
+the Department of the Environment, shall prepare an update to the statewide base map at 
+appropriate intervals, but not less than every 8 years, that includes a State –determined 
+shoreline an d landward boundary of tidal wetlands and a digitally generated, georeferenced 
+1,000 –foot critical area boundary, as appropriate for integration into a Geographic 
+Information System, under the following standards:  
+ 
+   (i) the best available imagery of comp arable scale shall be used to 
+identify the shoreline and landward boundary of tidal wetlands as part of the map update;  
+ 
+   (ii) the boundary shall be accurate to a scale of 1:1200; and  
+ 
+   (iii) the mapped shoreline and landward boundary of tidal wetlands  
+may not be construed to represent an official wetland delineation or to change in any way 
+any statutory provision under Title 16 of the Environment Article, any regulatory provision 
+Ch. 424  2024 LAWS OF MARYLAND   
+ 
+– 36 – under Title 26, Subtitle 24 of the Code of Maryland Regulations, or any o ther provision 
+related to a project –specific wetland delineation that may be necessary and appropriate;  
+ 
+  (2) a local jurisdiction shall formally adopt its updated critical area map 
+based on the statewide base map within 6 months of its receipt from the D epartment of 
+Natural Resources and the Commission and may request an extension of time for an 
+additional 6 months if evidence of reasonable progress has been made and is satisfactory 
+to the Commission;  
+ 
+  (3) the Commission, with the assistance of each local jurisdiction, shall:  
+ 
+   (i) designate unclassified areas that were not within the original 
+critical area boundary in accordance with the mapping standards set forth under COMAR 
+27.01.02.03 through 27.01.02.05 and COMAR 27.01.11.05; and  
+ 
+   (ii) identify areas where there appear to be inconsistencies between 
+the statewide base map and the local jurisdiction’s critical area map;  
+ 
+  (4) a local jurisdiction shall apply the updated State –determined shoreline 
+and landward boundary of tidal wetlands and a digitally generated, georeferenced  
+1,000 –foot critical area boundary once it is officially transferred from the Department of 
+Natural Resources and the Commission and shall apply the updates notwithstanding any 
+local approval process; and  
+ 
+  (5) each loca l jurisdiction shall ensure that, where applicable, each project 
+submittal uses the updated digitally generated, georeferenced critical area boundary.  
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That:  
+ 
+ (a) The Department of Natural Resources shall notify the Department of 
+Legislative Services in writing on the date of official completion of the statewide base map 
+project, as required under Section 3 of Chapter 119 of the Acts of the General Assembly of 
+2008.  
+ 
+ (b) Section 2 of this Act shall take effect 7 days  after the Department of Natural 
+Resources provides notice of the official completion of the statewide base map project under 
+subsection (a) of this section.  
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED, That, except as provided in Section 
+3 of this Act, this Act shall take effect October 1, 2024.  
+ 
+Approved by the Governor, May 9, 2024.  

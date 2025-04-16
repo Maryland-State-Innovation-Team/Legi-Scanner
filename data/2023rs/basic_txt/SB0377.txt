@@ -1,0 +1,218 @@
+ WES  MOORE, Governor  Ch. 410  
+ 
+– 1 – Chapter 410  
+(Senate Bill 377 ) 
+ 
+AN ACT concerning  
+ 
+Workers’ Compensation – Benefits – Offset and Hearing Loss  Study  
+ 
+FOR the purpose of altering the circumstances under which the payment of a benefit by a 
+governmental unit or quasi –public corporation to a covered employee offsets the 
+liability for benefits under the workers’ compensation law; altering the method used 
+to determine the deduction required to be made to allow for the average amount of 
+hearing loss from nonoccupational causes in the population for purposes of 
+calculating workers’ compensation benefits for occupational deafness; requiring 
+tinnitus to be conside red part of a covered employee’s hearing loss; requiring that 
+benefits awarded related to hearing loss be awarded without adjustment due to offset 
+against other benefits;  requiring the Joint Committee on Workers’ Compensation 
+Benefit and Insurance Oversight to conduct a certain evaluation  stating that it is the 
+intent of the General Assembly that the Maryland Association of Counties and the 
+Professional Fire Fighters of Maryland jointly research  and report certain 
+information;  and generally relating  to workers’ compensation benefits.  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Labor and Employment  
+Section 9 –610 and 9 –650 
+ Annotated Code of Maryland  
+ (2016 Replacement Volume and 2022 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Labor and Employment  
+ 
+9–610. 
+ 
+ (a) (1) Except for benefits subject to an offset under § 29 –118 of the State 
+Personnel and Pensions Article, if a statute, charter, ordinance , resolution, regulation, or 
+policy, regardless of whether part of a pension system, provides a benefit to a covered 
+employee of a governmental unit or a quasi –public corporation that is subject to this title 
+under § 9 –201(2) of this title or, in case of d eath, to the dependents of the covered employee, 
+payment of the benefit by the employer satisfies, to the extent of the payment, the liability 
+of the employer and the Subsequent Injury Fund for payment of [similar ] benefits under 
+this title ONLY  IF THE PAYMENT OF TH E BENEFIT BY THE EMP LOYER AND THE 
+PAYMENT FOR BENEFITS  UNDER THIS TITLE ARE  BASED ON THE SAME ACCIDENT AL 
+INJURY OR  OCCUPATIONAL DISEASE , IN WHOLE OR IN PART , ON THE SAME BODY 
+PART . 
+Ch. 410  2023 LAWS OF MARYLAND   
+ 
+– 2 –  
+  (2) If a benefit paid under paragraph (1) of this su bsection is less than the 
+benefits provided under this title, the employer, the Subsequent Injury Fund, or both shall 
+provide an additional benefit that equals the difference between the benefit paid under 
+paragraph (1) of this subsection and the benefits provided under this title.  
+ 
+  (3) The computation of an additional benefit payable under paragraph (2) 
+of this section shall be done at the time of the initial award and may not include any cost 
+of living adjustment after the initial award.  
+ 
+ (b) (1) If federal law provides benefits for an individual who is a covered 
+employee of the Military Department of the State under § 9 –215 of this title that are equal 
+to or greater than the benefits provided by this title, the covered employee is not entitled 
+to benef its under this title.  
+ 
+  (2) If federal law provides benefits for a covered employee of the Military 
+Department of the State that are less than the benefits provided by this title, the State and 
+its insurer shall provide an additional benefit that equals t he difference between the benefit 
+provided by federal law and the similar benefit provided by this title.  
+ 
+ (c) (1) The Commission may:  
+ 
+   (i) determine whether any benefit provided by the employer is equal 
+to or greater than any benefit provided for in t his title; and  
+ 
+   (ii) make an award against the employer or the Subsequent Injury 
+Fund or both to provide an additional benefit that equals the difference between the benefit 
+provided by the employer and the benefits required by this title.  
+ 
+  (2) A claim that comes under this section is subject to the continuing 
+powers and jurisdiction of the Commission.  
+ 
+9–650. 
+ 
+ (a) (1) Hearing loss shall be measured by audiometric instrumentation that 
+meets the following criteria:  
+ 
+   (i) ANSI 3.6 –1996;  
+ 
+   (ii) ANSI S3.43 –1992; and  
+ 
+   (iii) ANSI 3.39 –1987 or any ANSI standard that supersedes the 
+previous calibration or measurement criteria.  
+ 
+  (2) Measurements shall be conducted in a sound room that meets the ANSI 
+3.1–1991 criteria for maximum permissible ambient  noise for audiometric test rooms.  
+ WES  MOORE, Governor  Ch. 410  
+ 
+– 3 –  
+  (3) Behavioral psychoacoustic measurements shall be obtained with 
+instrumentation that utilizes insert earphones, as referenced in ANSI 3.6 –1996.  
+ 
+  (4) Electrodiagnostic measurements such as auditory evoked potentials , 
+acoustic emittance measurements, or distortion product otoacoustic emissions may be 
+obtained to determine the nature and extent of workplace hearing loss.  
+ 
+  (5) Audiologic results shall be used in conjunction with other information 
+to evaluate a claiman t’s compensable hearing loss.  
+ 
+ (b) (1) The percentage of hearing loss for purposes of compensation for 
+occupational deafness shall be determined by calculating the average, in decibels, of the 
+thresholds of hearing for the frequencies of 500, 1,000, 2,000 , and 3,000 hertz in accordance 
+with paragraph (2) of this subsection.  
+ 
+  (2) The average of the thresholds in hearing shall be calculated by:  
+ 
+   (i) adding together the lowest measured losses in each of the 4 
+frequencies; and  
+ 
+   (ii) dividing the total by 4.  
+ 
+  (3) To allow for the average amount of hearing loss from nonoccupational 
+causes found in the population at any given age, there shall be deducted from the total 
+average decibel loss determined under paragraphs (1) and (2) of this subsection THE 
+LESSER OF : 
+ 
+   (I) one–half of a decibel for each year of the covered employee’s age 
+over 50 [at the time of the last exposure to industrial noise ]; OR 
+ 
+   (II) ONE–HALF OF A DECIBEL FO R EACH YEAR SUBSEQUE NT TO  
+THE DATE OF THE COVE RED EMPLOYEE ’S LAST INJURIOUS EXPOSURE T O 
+INDUSTRIAL NOISE . 
+ 
+ (c) (1) If the average hearing loss in the 4 frequencies determined under 
+subsection (b) of this section is 25 decibels or less, the covered employee does not have a 
+compensable hearing loss.  
+ 
+  (2) If the average hearing loss in the 4 frequencies determined under 
+subsection (b) of this section is 91.7 decibels or more, the covered employee has a 100% 
+compensable hearing loss.  
+ 
+  (3) For every decibel that the average hearing loss exceeds 25 decibels, the 
+covered em ployee shall be allowed 1.5% of the compensable hearing loss, up to a maximum 
+of 100% compensable hearing loss at 91.7 decibels.  
+Ch. 410  2023 LAWS OF MARYLAND   
+ 
+– 4 –  
+ (d) The binaural percentage of hearing loss shall be determined by:  
+ 
+  (1) multiplying the percentage of hearing loss in the better ear by 5;  
+ 
+  (2) adding that product to the percentage of hearing loss in the poorer ear; 
+and 
+ 
+  (3) dividing that sum by 6.  
+ 
+ (e) (1) In determining the percentage of hearing loss under this section, 
+consideration may not be given to whether the use of an amplification device improves the 
+ability of a covered employee to understand speech or enhance behavioral hearing 
+thresholds.  
+ 
+  (2) (i) In determining a workers’ compensation claim for noise –related 
+hearing loss, audiologic data shall use both bone conduction and air conduction results.  
+ 
+   (ii) If a conductive loss is present, the bone conduction thresholds for 
+each ear, rather than the air conduction levels, shall be used to calculate a claimant’s 
+average hearing loss.  
+ 
+ (F) (1) TINNITUS SHALL  BE CONSIDERED PART O F A COVERED  
+EMPLOYEE ’S HEARING LOSS UNDER  THIS SECTION . 
+ 
+  (2) WHEN DETERMINING THE PERCENTAGE OF HEARIN G LOSS  
+ATTRIBUTABLE TO TINN ITUS , THE COMMISSION SHALL : 
+ 
+   (I) CONSIDER THE EVALUAT ION REQUIRED UNDER § 9–721( A) 
+AND (B) OF THIS TI TLE; AND  
+ 
+   (II) ADD THE PERCENTAGE O F HEARING LOSS ATTRI BUTABLE  
+TO TINNITUS TO THE H EARING LOSS PERCENTA GE DETERMINED UNDER  
+SUBSECTION (D) OF THIS SECTION TO D ETERMINE THE TOTAL P ERCENTAGE OF THE  
+COVERED EMPLOYEE ’S HEARING LOSS . 
+ 
+ (G) BENEFITS PROVIDED UNDER THIS SECTION S HALL BE AWARDED  
+WITHOUT AN ADJUSTMEN T BEING MADE UNDER § 9–610 OF THIS SUBTITLE .  
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That it is the intent of the General 
+Assembly that this Act abrogate the holding by the Supreme Court of Maryland in Spevak 
+v. Montgomery County, 480 Md. 562 (2022).  
+ 
+ WES  MOORE, Governor  Ch. 410  
+ 
+– 5 –  SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall be applied in a 
+manner that is consistent with the holding by the Supreme Court of Maryland in Reger v. 
+Washington County Board of Education, 45 5 Md. 68 (2017).  
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED, That : 
+ 
+ (a) The Joint Committee on Workers’ Compensation Benefit and Insurance 
+Oversight shall conduct an evaluation and report, with input from appropriate parties,  it 
+is the intent of the General Assembly that:  
+ 
+  (1) the Maryland Association of Counties and the Professional Fire Fighters 
+of Maryland jointly research and submit a report  on the effects of the amendments to §  
+9–610 of the Labor and Employment Article  implemented by this Act .; 
+ 
+ (b) (2) The the report shall  include data and analysis of the effects of this Act 
+on the offset of benefits following the implementation of this Act compared to a comparable 
+period of time before the Supreme Court of Maryland decision in Spevak v. Montgomery 
+County, 480 Md. 562 (2022 ).; and  
+ 
+ (c) (3) On on or before December 1, 2024, the Committee  Maryland 
+Association of Counties and the Professional Fire Fighters of Maryland  shall  report its their 
+findings to interested parties and, in accordance with § 2 –1257 of the State Government  
+Article, the Senate Finance Committee and the House Economic Matters Committee.   
+ 
+ SECTION 2. 5. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2023.  
+ 
+Approved by the Governor, May 3, 2023.  

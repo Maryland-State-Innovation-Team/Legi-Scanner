@@ -1,0 +1,910 @@
+ WES MOORE, Governor  Ch. 2  
+ 
+– 1 – Chapter 2  
+(House Bill 1526 ) 
+ 
+AN ACT concerning  
+ 
+Maryland Protecting Opportunities and Regional Trade (PORT) Act  
+ 
+FOR the purpose of establishing the Fallen Transportation Workers Scholarship Program 
+and the Fallen Transportation Workers Scholarship Fund as a special, nonlapsing 
+fund; requiring that the interest earnings of the Fund remain in the Fund; 
+authorizing the Secretary of Labor to exempt an individual from the requirement t o 
+be actively seeking work for unemployment insurance benefits eligibility under 
+certain circumstances; allowing a subtraction under the State income tax for certain 
+benefit payments received by certain individuals; increasing a certain revenue bond 
+cap fo r the Maryland Transportation Authority;  requiring the Maryland Department 
+of Labor and the Department of Commerce to establish certain temporary relief  
+programs to provide assistance to individuals and certain entities impacted by a 
+certain closure  reduce d operations  of the Port of Baltimore; authorizing the Governor 
+to transfer, by budget amendment, funds from the Revenue Stabilization Account to 
+fund the temporary relief programs; and generally relating to providing temporary 
+relief for individuals and c ertain entities affected by the closure of the Port of 
+Baltimore  authorizing the Maryland Department of Labor and the Department of 
+Commerce to transfer available funding from existing programs and special funds to 
+support certain programs; authorizing, subject to certain limitations, the disclosure 
+of certain tax information to certain governmental entities for the purpose of 
+assisting the Comptroller in certain tax compliance activity; requiring the Attorney 
+General to pursue options, including filing a ctions, to recover for the State economic 
+damages arising out of closure of the Port of Baltimore and the collapse of the Francis 
+Scott Key Bridge; and generally relating to transportation and states of emergency . 
+ 
+BY adding to  
+ Article – Education  
+ Section 18 –4001 through 18 –4004 to be under the new subtitle “Subtitle 40. Fallen 
+  Transportation Workers Scholarship Program ” 
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Labor and Employment  
+ Section 8 –611(a) and 8 –903(a)(1)  
+ Annotated Code of Maryland  
+ (2016 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Labor and Employment  
+ Section 8 –611(k)  
+Ch. 2  2024 LAWS OF MARYLAND   
+ 
+– 2 –  Annotated Code of Maryland  
+ (2016 Replacement Volume and 2023 Supplement)  
+ 
+BY adding to  
+ Article – Labor and Employment  
+ Section 8 –903(d)  
+ Annotated Code of Maryland  
+ (2016 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – State Finance and Procurement  
+ Section 6 –226(a)(2)(i)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – State Finance and Procurement  
+ Section 6 –226(a)(2)(ii)189. and 190.  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2023 Supplement)  
+ 
+BY adding to  
+ Article – State Finance and Procurement  
+ Section 6 –226(a)(2)(ii)191.  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reena cting, without amendments,  
+ Article – Tax – General  
+ Section 10 –207(a) and 10 –208(a)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2023 Supplement)  
+ 
+BY adding to  
+ Article – Tax – General  
+ Section 10 –207(pp) , 10–208(cc) , and 13 –203(c)(16)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Tax – General  
+ Section 13 –203(c) (14) and (15)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, without amendments,  
+ WES MOORE, Governor  Ch. 2  
+ 
+– 3 –  Article – Transportation  
+ Section 3 –101(a) and (l) and 4 –101(a) and (h)  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2023 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Transportation  
+ Section 4 –306 
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2023 Supplement)  
+ 
+Preamble  
+ 
+ WHEREAS, At approximately 1:30 a.m. on March 26, 2024, a major section of the 
+Francis Scott Key Bridge (Key Bridge) collapsed into the Patapsco River after the Dali, a 
+984–foot container ship, collided with one of the bridge’s primary support pillars; and  
+ 
+ WHEREAS, The collapse of the Key Bridge is a catastrophic event that resulted in a 
+tragic loss of life and the closure  reduced operat ions of the Port of Baltimore (Port); and  
+ 
+ WHEREAS, The closure  reduced operations  of the Port has severe economic 
+implications for the entire region and nation; and  
+ 
+ WHEREAS, The Port accounts for approximately $3.3 billion in annual personal 
+income for  individuals, with approximately 15,300 jobs in Maryland directly generated by 
+Port activity and approximately 140,000 total jobs linked to Port activity; and  
+ 
+ WHEREAS, In 2023, the Port set several records for itself and also ranked first 
+among ports in the nation for handling the highest volume in each of the following 
+categories: autos and light trucks (847,158 vehicles); roll –on, roll –off heavy farm and 
+construction machinery (1.3 million tons); and imported sugar and gypsum; and  
+ 
+ WHEREAS, The Port also ranked ninth in the nation in 2023 for both the tonnage 
+of international cargo handled (52.3 million tons) and total foreign cargo value ($80.8 
+billion); and  
+ 
+ WHEREAS, Additionally, in 2023, in total the Port exported more than $111 billion 
+and impor ted more than $36 billion worth of goods; and  
+ 
+ WHEREAS, It is critical to ensure that the individuals and businesses that are 
+economically impacted by the closure  reduced operations  of the Port are supported at this 
+vital juncture; now, therefore,  
+ 
+ SECTI ON 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Ch. 2  2024 LAWS OF MARYLAND   
+ 
+– 4 – Article – Education  
+ 
+SUBTITLE 40. FALLEN TRANSPORTATION WORKERS SCHOLARSHIP PROGRAM . 
+ 
+18–4001.  
+ 
+ (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE  THE MEANINGS  
+INDICATED . 
+ 
+ (B) “FALLEN TRANSPORTATION  WORKER ” MEANS AN INDIVIDUAL : 
+ 
+  (1) WHOSE OCCUPATION IS I N THE CONSTRUCTION , 
+REHABILITATION , OR OPERATION OF A TR ANSPORTATION FACILIT Y OR 
+TRANSPORTATION FACIL ITIES PROJECT IN THE  STATE ; AND  
+ 
+  (2) WHO DIED , ON OR AF TER JANUARY 1, 2022,  AS A RESULT OF AN 
+ACCIDENT OCCURRING W HILE THE INDIVIDUAL WAS PERFORMING ANY J OB DUTY 
+NECESSARY FOR THE CO NSTRUCTION , MAINTENANCE , REHABILITATION , OR 
+OPERATION OF A TRANS PORTATION FACILITY O R TRANSPORTATION FAC ILITIES 
+PROJECT IN THE STATE. 
+ 
+ (C) “FUND” MEANS THE FALLEN TRANSPORTATION WORKERS 
+SCHOLARSHIP FUND. 
+ 
+ (D) “PROGRAM ” MEANS THE FALLEN TRANSPORTATION WORKERS 
+SCHOLARSHIP PROGRAM . 
+ 
+ (E) “TRANSPORTATION FACILI TY” HAS THE MEANING STAT ED IN § 3–101 OF 
+THE TRANSPORTATION ARTICLE . 
+ 
+ (F) “TRANSPORTATION FACILI TIES PROJECT ” HAS THE MEANING STAT ED 
+IN § 4–101 OF THE TRANSPORTATION ARTICLE . 
+ 
+18–4002.  
+ 
+ (A) THERE IS A FALLEN TRANSPORTATION WORKERS SCHOLARSHIP 
+PROGRAM . 
+ 
+ (B) THE PURPOSE OF THE PROGRAM IS TO PROVIDE  TUITION ASSISTANCE 
+TO A STUDEN T WHO WAS A DEPENDEN T OR IS THE SURVIVIN G SPOUSE OF A FALLEN  
+TRANSPORTATION WORKE R. 
+ 
+18–4003.  
+ 
+ WES MOORE, Governor  Ch. 2  
+ 
+– 5 –  (A) AN INDIVIDUAL MAY APP LY TO AN ELIGIBLE IN STITUTION OF 
+POSTSECONDARY EDUCAT ION FOR A SCHOLARSHI P UNDER THIS SUBTITL E IF THE 
+INDIVIDUAL IS : 
+ 
+  (1) ACCEPTED FO R ADMISSION OR ENROL LED IN A REGULAR 
+UNDERGRADUATE , GRADUATE , OR PROFESSIONAL PROG RAM AT AN INSTITUTIO N OF 
+POSTSECONDARY EDUCAT ION;  
+ 
+  (2) AT LEAST 16 YEARS OLD ; AND  
+ 
+  (3) THE CHILD , STEPCHILD , OR SURVIVING SPOUSE OF A FALLEN 
+TRANSPORTATION WORKE R. 
+ 
+ (B) A SCHOLARSHIP AWARDED UNDER THIS SUBTITLE : 
+ 
+  (1) MAY BE USED FOR THE T UITION AND MANDATORY  FEES AT ANY 
+INSTITUTION OF POSTS ECONDARY EDUCATION ; AND  
+ 
+  (2) MAY NOT : 
+ 
+   (I) EXCEED THE EQUIVALENT  ANNUAL TUITION AND 
+MANDATORY FEES OF AN  UNDERGRADUATE STUDEN T AT THE 4–YEAR INSTITUTION 
+OF HIGHER EDUCATION WITHIN THE UNIVERSITY SYSTEM OF MARYLAND , OTHER 
+THAN THE UNIVERSITY OF MARYLAND GLOBAL CAMPUS AND THE UNIVERSITY OF 
+MARYLAND , BALTIMORE CAMPUS , WITH THE HIGHEST ANN UAL EXPENSES FOR A 
+FULL–TIME UNDERGRADUATE ; AND 
+ 
+   (II) BE LESS THAN THE LESS ER OF : 
+ 
+    1. $3,000;  OR 
+ 
+    2. THE EQUIVALENT TUITIO N AND MANDATORY FEES  OF 
+THE INSTITUTION ATTE NDED BY THE RECIPIEN T OF THE SCHOLARSHIP . 
+ 
+ (C) (1) EACH INSTITUTION OF P OSTSECONDARY EDUCATI ON SHALL 
+DETERMINE ELIGIBILIT Y OF INDIVIDUALS WHO A PPLY TO THE INSTITUT ION FOR 
+THE PROGRAM . 
+ 
+  (2) SUBJECT TO THE AVAILA BILITY OF FUNDS , FUNDS FOR THE 
+PROGRAM SHALL BE ALLO CATED BY THE COMMISSION TO EACH IN STITUTION OF 
+POSTSECONDARY EDUCAT ION BASED ON THE NUM BER OF ELIGIBLE RECI PIENTS 
+ATTENDING EACH INSTIT UTION . 
+ 
+Ch. 2  2024 LAWS OF MARYLAND   
+ 
+– 6 –   (3) IN FEBRUARY AND OCTOBER EACH YEAR , BEGINNING IN 2024,  
+EACH INSTITUTION OF POSTSECONDARY EDUCAT ION SHALL REPORT TO THE 
+COMMISSION THE NUMBER  OF ELIGIBLE RECIPIEN TS ATTENDING THE INS TITUTION . 
+ 
+  (4) THE COMMISSION SHALL ALLO CATE FUNDS FOR AWARD S TO 
+INSTITUTIONS OF POST SECONDARY EDUCATION ON VERIFICATION OF E LIGIBLE 
+RECIPIENTS ATTENDING  THE INSTITUTIONS . 
+ 
+  (5) IF FUNDS CANNOT BE AL LOCATED IN THE FISCA L YEAR IN WHICH 
+AWARDS ARE MADE , PRIORITY SHALL BE GI VEN TO ALLOCATING FU NDS  FOR THOSE 
+AWARDS IN THE IMMEDI ATELY FOLLOWING FISC AL YEAR . 
+ 
+ (D) EACH RECIPIENT OF A S CHOLARSHIP UNDER THI S SUBTITLE MAY HOLD 
+THE AWARD FOR 5 YEARS OF FULL –TIME STUDY OR 8 YEARS OF PART –TIME STUDY . 
+ 
+ (E) TO THE EXTENT PRACTIC ABLE , THE DEPARTMENT OF 
+TRANSP ORTATION , A LOCAL DEPARTMENT O F TRANSPORTATION , OR A 
+CONTRACTOR THAT EMPL OYED FALLEN TRANSPOR TATION WORKERS SHALL  
+PROVIDE TO THE COMMISSION THE NAMES AND CONTACT INFORMAT ION FOR THE 
+FAMILIES OF THE FALL EN TRANSPORTATION WO RKERS . 
+ 
+18–4004.  
+ 
+ (A) THERE IS A FALLEN TRANSPORTATION WORKERS SCHOLARSHIP 
+FUND. 
+ 
+ (B) THE COMMISSION SHALL ADMI NISTER THE FUND. 
+ 
+ (C) (1) THE FUND IS A SPECIAL , NONLAPSING FUND THAT  IS NOT 
+SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE . 
+ 
+  (2) THE STATE TREASURER SHALL HOLD THE FUND SEPARATELY , 
+AND THE COMPTROLLER SHALL ACC OUNT FOR THE FUND. 
+ 
+ (D) THE FUND CONSISTS OF : 
+ 
+  (1) MONEY APPROPRIATED IN  THE STATE BUDGET TO THE FUND; 
+ 
+  (2) INTEREST EARNINGS ; AND  
+ 
+  (3) ANY OTHER MONEY FROM ANY OTHER SOURCE ACC EPTED BY THE 
+COMMISSION FOR THE BE NEFIT OF THE FUND. 
+ 
+ WES MOORE, Governor  Ch. 2  
+ 
+– 7 –  (E) THE FUND MAY BE USED ONLY  TO AWARD SCHOLARSHIP S UNDER THE 
+PROGRAM . 
+ 
+ (F) (1) THE STATE TREASURER SHALL INVES T THE MONEY OF THE FUND 
+IN THE SAME MANNER A S OTHER STATE MONEY MAY BE IN VESTED . 
+ 
+  (2) ANY INTEREST E ARNINGS OF THE FUND SHALL BE CREDITE D TO 
+THE FUND. 
+ 
+ (G) EXPENDITURES FROM THE  FUND MAY BE MADE ONLY  IN ACCORDANCE 
+WITH THE STATE BUDGET . 
+ 
+ (H) THE COMMISSION : 
+ 
+  (1) MAY ACCEPT ANY GIFT O R GRANT FROM ANY PER SON FOR THE 
+FUND; AND  
+ 
+  (2) SHALL DEPOSIT ANY G IFT OR GRANT THAT IT  RECEIVES FOR THE 
+PROGRAM WITH THE STATE TREASURER . 
+ 
+ (I) FUNDING FOR THE PROGRAM SHALL BE AS P ROVIDED IN THE STATE 
+BUDGET . 
+ 
+Article – Labor and Employment  
+ 
+8–611. 
+ 
+ (a) For each employing unit, the Secretary shall keep an earned rating  record that 
+shows all benefits that are based on covered employment that was performed for the 
+employing unit.  
+ 
+ (k) (1) [The] SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION , THE 
+Secretary may waive the charge of benefits paid to a claimant against the earne d rating 
+record of an employing unit if:  
+ 
+   (i) the benefits are paid to the claimant during a period in which the 
+claimant is temporarily unemployed because the employing unit shut down due to a natural 
+disaster; and  
+ 
+   (ii) the Governor declared a stat e of emergency due to the natural 
+disaster.  
+ 
+  (2) If the Secretary waives the charge of benefits under paragraph (1) of 
+this subsection, the waiver may be in effect only until the earlier of:  
+ 
+Ch. 2  2024 LAWS OF MARYLAND   
+ 
+– 8 –    (i) 4 months after the natural disaster; or  
+ 
+   (ii) the da te the employing unit reopens.  
+ 
+  (3) THE SECRETARY SHALL WAIVE  THE CHARGE OF BENEFI TS PAID 
+TO A CLAIMANT AGAINS T THE EARNED RATING RECORD OF AN EMPLOYI NG UNIT FOR 
+ANY CLAIM OF BENEFIT S IF: 
+ 
+   (I) THE CLAIM IS DETERMI NED BY THE SECRETARY TO BE 
+RELATED TO THE REDUCED OPERATIO NS OF THE PORT OF BALTIMORE DUE TO THE 
+COLLAPSE OF THE FRANCIS SCOTT KEY BRIDGE ; AND  
+ 
+   (II) THE EMPLOYING UNIT H AD NO DIRECT OR INDI RECT 
+CONTROL OVER THE ACT IONS LEADING TO THE DISRUPTION IN EMPLOY MENT . 
+ 
+8–903. 
+ 
+ (a) (1) Except as otherwise provided in this section, to be eligible for benefits 
+an individual shall be:  
+ 
+   (i) able to work;  
+ 
+   (ii) available for work; and  
+ 
+   (iii) actively seeking work.  
+ 
+ (D) NOTWITHSTANDING ANY O THER PROVISION OF TH IS TITLE , THE 
+SECRETARY MAY EXEMP T AN INDIVIDUAL FROM  THE WORK SEARCH REQU IREMENT 
+UNDER SUBSECTION (A)(1)( III) OF THIS SECTION IF T HE INDIVIDUAL : 
+ 
+  (1) IS LAID OFF FROM WOR K AS A DIRECT RESULT  OF THE EVENT OR 
+OCCURRENCE THAT LED TO THE GOVERNOR DECLARING A STATE OF EMERGENCY 
+VIA EXECUTIV E ORDER 01.01.2024.09;  AND  
+ 
+  (2) REMAINS ABLE TO WORK  AND AVAILABLE FOR WO RK IN 
+ACCORDANCE WITH THIS  SECTION AND WORK –ATTACHED . 
+ 
+Article – State Finance and Procurement  
+ 
+6–226. 
+ 
+ (a) (2) (i) Notwithstanding any other provision of law, and unless 
+inconsistent with a federal law, grant agreement, or other federal requirement or with the 
+terms of a gift or settlement agreement, net interest on all State money allocated by the 
+State Treasurer unde r this section to special funds or accounts, and otherwise entitled to 
+ WES MOORE, Governor  Ch. 2  
+ 
+– 9 – receive interest earnings, as accounted for by the Comptroller, shall accrue to the General 
+Fund of the State.  
+ 
+   (ii) The provisions of subparagraph (i) of this paragraph do not apply  
+to the following funds:  
+ 
+    189. the Teacher Retention and Development Fund; [and] 
+ 
+    190. the Protecting Against Hate Crimes Grant Fund ; AND  
+ 
+    191.  THE FALLEN TRANSPORTATION WORKERS 
+SCHOLARSHIP FUND . 
+ 
+Article – Tax – General  
+ 
+10–207. 
+ 
+ (a) To the extent included in federal adjusted gross income, the amounts under 
+this section are subtracted from the federal adjusted gross income of a resident to determine 
+Maryland adjusted gross income.  
+ 
+ (PP) (1) IN THIS SUBSECTION , “BENEFIT PAYMENT ” MEANS A PAYME NT 
+THAT IS PROVIDED TO AN INDIVIDUAL OR THE  FAMILY MEMBER OF AN INDIVIDUAL 
+AS A RESULT OF THE I NDIVIDUAL BEING INJU RED OR KILLED IN THE  COLLAPSE OF 
+THE FRANCIS SCOTT KEY BRIDGE ON MARCH 26, 2024.  
+ 
+  (2) FOR A TAXABLE YEAR BE GINNING AFTER DECEMBER 31, 2023,  
+BUT BEFORE JANUARY 1, 2026,  THE SUBTRACTION UNDE R SUBSECTION (A) OF THIS 
+SECTION INCLUDES THE  AMOUNT OF ANY BENEFI T PAYMENT RECEIVED B Y AN 
+INDIVIDUAL . 
+ 
+10–208. 
+ 
+ (a) In addition to the modification under § 10 –207 of this subtitle, the amounts 
+under this s ection are subtracted from the federal adjusted gross income of a resident to 
+determine Maryland adjusted gross income.  
+ 
+ (CC) FOR A TAXABLE YEAR BE GINNING AFTER DECEMBER 31, 2024,  THE 
+SUBTRACTION UNDER SU BSECTION (A) OF THIS SECTION INCL UDES THE AMOUNT OF  
+TUITION ASSISTANCE P ROVIDED TO STUDENTS WHO ARE ELIGIBLE DEP ENDENTS OR 
+SURVIVING SPOUSES OF  FALLEN TRANSPORTATIO N WORKERS IN ACCORDA NCE 
+WITH TITLE 18, SUBTITLE 40 OF THE EDUCATION ARTICLE . 
+ 
+13–203. 
+ 
+Ch. 2  2024 LAWS OF MARYLAND   
+ 
+– 10 –  (c) Tax information may be disclosed to:  
+ 
+  (14) a hospital, the Health Services Cost Review Commission, the 
+Department of Human Services, the Maryland Department of Health, and the State 
+Department of Education, to the extent necessary to administer § 19 –214.4 of the Health – 
+General Article; [and] 
+ 
+  (15) subject to subsection (e) of this section, the Maryland Small Business 
+Retirement Savings Board and its authorized contractors for the purpose of administering 
+the Maryland Small Business Retirement Savings Program and Trust as authorized under 
+Title 12 of the Labor and Employment Article ; AND  
+ 
+  (16)  THE MARYLAND DEPARTMENT OF LABOR AND THE MARYLAND 
+DEPARTMENT OF COMMERCE TO THE EXTEN T NECESSARY TO :  
+ 
+   (I) ADMINISTER THE TEMPO RARY RELIEF PROGRAMS  
+ESTABLISHED UNDER CHAPTERS ___(S.B.1188/H.B.1526)  OF THE ACTS OF THE 
+GENERAL ASSEMBLY OF 2024;  OR  
+ 
+   (II) DETECT AND PREVENT F RAUDULENT CLAIMS FOR  RELIEF 
+OR AVOIDANCE OF REQU IRED REPAYMENT UNDER  THE TEMPORARY RELIEF  
+PROGRAMS . 
+ 
+Article – Transportation  
+ 
+3–101. 
+ 
+ (a) In this title the following words have th e meanings indicated.  
+ 
+ (l) “Transportation facility ” includes any one or more or combination of:  
+ 
+  (1) Airport facilities;  
+ 
+  (2) Highway facilities;  
+ 
+  (3) Port facilities;  
+ 
+  (4) Railroad facilities; and  
+ 
+  (5) Transit facilities.  
+ 
+4–101. 
+ 
+ (a) In this  title the following words have the meanings indicated.  
+ 
+ WES MOORE, Governor  Ch. 2  
+ 
+– 11 –  (h) “Transportation facilities project ” includes:  
+ 
+  (1) The Susquehanna River Bridge, the Harry W. Nice/Thomas “Mac” 
+Middleton Potomac River Bridge, the William Preston Lane, Jr. Memorial Chesapeak e Bay 
+Bridge and parallel Chesapeake Bay Bridge, the Baltimore Harbor Tunnel, the Fort 
+McHenry Tunnel, the Francis Scott Key Bridge, and the John F. Kennedy Memorial 
+Highway, together with their appurtenant causeways, approaches, interchanges, entrance 
+plazas, toll stations, and service facilities;  
+ 
+  (2) A vehicle parking facility located in a priority funding area as defined 
+in § 5 –7B–02 of the State Finance and Procurement Article;  
+ 
+  (3) Any other project for transportation facilities that the Authority  
+authorizes to be acquired or constructed; and  
+ 
+  (4) Any additions, improvements, or enlargements to any of these projects, 
+whenever authorized.  
+ 
+4–306. 
+ 
+ (a) Except as provided in subsection (b) of this section, revenue bonds may be 
+issued by the Authority:  
+ 
+  (1) Without obtaining the consent of any instrumentality, agency, or unit 
+of this State; and  
+ 
+  (2) Without any proceedings or the happening of any conditions or things 
+other than those specifically required by this subtitle.  
+ 
+ (b) (1) (i) Subject to subparagraph (ii) of this paragraph, revenue bonds 
+secured by toll revenue may be issued in any amount as long as the aggregate outstanding 
+and unpaid principal balance of the revenue bonds secured by toll revenue and revenue 
+bonds of prior issu es does not exceed [$3,000,000,000 or, in fiscal years 2015 through 2020, 
+$2,325,000,000, ] $4,000,000,000  on June 30 of any year.  
+ 
+   (ii) The maximum aggregate amount of revenue bonds that may be 
+outstanding and unpaid under subparagraph (i) of this parag raph shall be reduced by the 
+amount of:  
+ 
+    1. Any loan extended to the State under the federal 
+Transportation Infrastructure Finance and Innovation Act; and  
+ 
+    2. Any line of credit extended to the State under the federal 
+Transportation Infrastructure Finance and Innovation Act, to the extent the State draws 
+on the line of credit.  
+ 
+Ch. 2  2024 LAWS OF MARYLAND   
+ 
+– 12 –   (2) Except as otherwise provided in this section and § 4 –205 of this title, 
+without the approval of the General Assembly, the Authority may issue bonds to refinance 
+all or any part of the cost of a transportation facility project for which the Authority 
+previously issued bonds authorized under this subtitle.  
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That:  
+ 
+ (a) (1) In this section the following words have the meanings indicat ed.  
+ 
+  (2) “Reduced operations of the Port ” means the suspension of vessel traffic 
+or the inability of vessels to access the Port of Baltimore due to the collapse of the Francis 
+Scott Key Bridge on March 26, 2024.  
+ 
+  (3) “Port” means the Port of Baltimore.  
+ 
+ (b) Subject to subsection (e) of this section, if the President of the United States 
+does not declare a major disaster as a result of the collapse of the Francis Scott Key Bridge, 
+the Maryland Department of Labor, as soon as  practicable, shall establish a temporary 
+relief program to provide assistance to individuals who:  
+ 
+  (1) are Maryland –based and regularly performed paid work at the Port;   
+ 
+  (2) are unable to perform the work through no fault of their own due to the 
+redu ced operations of the Port; and  
+ 
+  (3) (i) are able to work and available for work, but unable to find 
+suitable work; and  
+ 
+   (ii) 1. do not qualify for unemployment insurance benefits under 
+Title 8 of the Labor and Employment Article or any similar employ er–provided benefit; or  
+ 
+    2. qualify for an amount of unemployment insurance benefits 
+that is less than the individual’s earnings attributable to the individual’s employment at 
+the Port at the time the reduced operations of the Port began.  
+ 
+  (4) (i) This paragraph does not apply to wages paid in covered 
+employment or to wages paid for employment by a disaster relief program using 
+employment.  
+ 
+   (ii) Notwithstanding § 8 –803 of the Labor and Employment Article, 
+a payment to an individual under this sub section may not be included when computing the 
+wages required to be subtracted under § 8 –803(d)(1)(iii) of the Labor and Employment 
+Article.  
+ 
+ (c) (1) Subject to paragraphs (2), (3), and (4) of this subsection and subsection 
+(e) of this section, the Maryla nd Department of Labor, as soon as practicable, shall establish 
+ WES MOORE, Governor  Ch. 2  
+ 
+– 13 – a grant program to provide assistance to small businesses, labor unions, trade associations, 
+or companies that contract with or are members of a trade association:  
+ 
+   (i) the operations of which:  
+ 
+    1. rely on access to or the operation of the Port; and  
+ 
+    2. are hindered or halted entirely due to the reduced 
+operations of the Port;   
+ 
+   (ii) that, without the return to full operations of the Port, are unable 
+to retain their Maryland –based workforce at the same hours, rates of pay, and benefits in 
+effect before the reduced operations of the Port;  
+ 
+   (iii) that are committed to continuing operations, to the fullest extent 
+practicable, at the Port once it resumes full operations; and  
+ 
+   (iv) that has its principal business operations located in the State or 
+will use any relief under the program established under this subsection for its workforce or 
+operations within the State.  
+ 
+  (2) A small business, labor unions, trade association, or co mpany that 
+contracts with a trade association that receives relief under the program established under 
+this subsection shall, to the fullest extent practicable, use the relief to avoid layoffs and 
+maintain its workforce at the same hours, rates of pay, and  benefits in effect before the 
+reduced operations of the Port.  
+ 
+  (3) The Maryland Department of Labor shall, to the extent practicable:  
+ 
+   (i) incorporate the work sharing unemployment insurance program 
+under Title 8, Subtitle 12 of the Labor and Employm ent Article in conjunction with, or as 
+a condition or an extension of, the temporary relief program established under this 
+subsection; or  
+ 
+   (ii) substitute the work sharing unemployment insurance program 
+under Title 8, Subtitle 12 of the Labor and Employment Article for the temporary relief 
+program established under this subsection.  
+ 
+  (4) (i) The program may use State funds to supplement federal funding 
+for worker retention grants to small businesses, labor unions, or trade associations.  
+ 
+   (ii) The program may use federal funds only for worker retention 
+grants to entities that do not qualify as a small business, labor union, or trade association.  
+ 
+Ch. 2  2024 LAWS OF MARYLAND   
+ 
+– 14 –  (d) Subject to subsection (e) of this section, the Department of Commerce, as soon 
+as practicable, shall establish a temporary relief program to provide assistance to 
+businesses:  
+ 
+  (1) the operations or shipments of which:  
+ 
+   (i) rely on the use of or access to the Port;  
+ 
+   (ii) are hindered or halted entirely due to the reduced operations of 
+the Por t; and  
+ 
+   (iii) are subsequently diverted to other regional ports; and  
+ 
+  (2) that are committed to continuing operations or shipments, to the fullest 
+extent practicable, at the Port once it resumes full operations; and  
+ 
+  (3) that have their principal bu siness operations located in the State or 
+that will use any relief under the program established under this subsection for their 
+operations within the State.  
+ 
+ (e) (1) The Maryland Department of Labor and the Department of Commerce:  
+ 
+   (i) shall establish  procedures and eligibility criteria for the 
+programs established under subsections (b) through (d) of this section, as applicable; and  
+ 
+   (ii) may require individuals, businesses, labor unions , trade 
+associations, or companies that contract with or are m embers of a trade association to 
+provide information to determine eligibility under the programs.  
+ 
+  (2) Any funds distributed under subsections (b) through (d) of this section 
+shall be distributed on or before June 30, 2025.  
+ 
+  (3) The Maryland Department of Labor and the Department of Commerce 
+shall establish requirements regarding:  
+ 
+   (i) the prompt filing of insurance claims related to the reduced 
+operations of the Port; and  
+ 
+   (ii) notifications of payments agreed to be made or made as a result 
+of an insurance claim.  
+ 
+  (4) (i) In accordance with program requirements, a business, a labor 
+union, a trade association, or a company that receives relief from a program established 
+under t his section shall reimburse the Maryland Department of Labor or the Department 
+of Commerce, whichever is applicable, for monetary assistance received under the 
+ WES MOORE, Governor  Ch. 2  
+ 
+– 15 – applicable relief program within 6 months after the receipt of proceeds from an insurance 
+claim or other funds.  
+ 
+   (ii) The Maryland Department of Labor and the Department of 
+Commerce shall:  
+ 
+    1. be subrogated to the cause of action of any business, labor 
+union, trade association, or company against a business, a labor union, a trade association,  
+or a company arising out of reduced operations of the Port to the extent of any monetary 
+assistance received under the applicable relief program; and  
+ 
+    2. A. have a lien on the proceeds of any insurance claim 
+filed in relation to the reduced operations  of the Port from the time that the business, labor 
+union, trade association, or company receives monetary assistance from the applicable 
+relief program; and  
+ 
+    B. be entitled to advise any carrier with which the insurance 
+claim has been filed of the rig hts and interest in the insurance proceeds.  
+ 
+  (5) In addition to the rights established under paragraph (4) of this 
+subsection, the Maryland Department of Labor and the Department of Commerce may 
+make an assessment or use other reasonable means of collec tion against an individual, 
+business, labor union, trade association, or company to recapture any amounts owed:  
+ 
+   (i) due to misappropriation, overpayment, or fraud; or  
+ 
+   (ii) in accordance with paragraph (4) of this subsection.  
+  
+  (6) To carry out th e programs established under subsections (b) through (d) 
+of this section, on request and subject to applicable federal and State law, a unit of State or 
+local government shall provide to the Maryland Department of Labor and the Department 
+of Commerce infor mation relevant to determining the identity and eligibility of an 
+applicant of a program for the purpose of preventing and combating fraud.   
+ 
+ (f) (1) Notwithstanding § 7 –311(i) of the State Finance and Procurement 
+Article, after providing the Legislative Policy Committee at least 7 days to review and 
+comment, the Governor may transfer by budget amendment increments not greater than 
+$25,000,000 to fund and administer the programs established under subsections (b) 
+through (d) of this section from the existin g fund balances within the Maryland Department 
+of Labor and the Department of Commerce or the Revenue Stabilization Account 
+established under § 7 –311 of the State Finance and Procurement Article to:  
+ 
+   (i) for the programs established under subsections (b) and (c) of this 
+section, the expenditure account of the Maryland Department of Labor; or  
+ 
+Ch. 2  2024 LAWS OF MARYLAND   
+ 
+– 16 –    (ii) for the program established under subsection (d) of this section, 
+the expenditure account of the Department of Commerce.  
+ 
+  (2) (i) The Governor shall pro vide monthly reports to the Legislative 
+Policy Committee, in accordance with § 2 –1257 of the State Government Article, on funds 
+distributed under this subsection from the Revenue Stabilization Account established 
+under § 7 –311 of the State Finance and Proc urement Article and funds distributed under 
+Executive Order 01.01.2024.11.  
+ 
+   (ii) The reports required under subparagraph (i) of this paragraph 
+shall include:  
+ 
+    1. a full accounting of all federal and State funds provided 
+for assistance for the immedi ately preceding month and in total, in the aggregate and 
+disaggregated by program and by recipient of assistance in each program including 
+jurisdiction of each recipient;  
+ 
+    2. a delineation of assistance paid, loans distributed, and 
+loans forgiven or u ncollectible by each recipient of assistance for the immediately preceding 
+month and in total;  
+ 
+    3. a description of actions taken by State agencies in relation 
+to expenditures of federal and State assistance, including outreach efforts and 
+requirement s the State has placed on the distribution of funds, if any;  
+ 
+    4.  a description of actions taken by businesses with 
+assistance provided under this Act, including how the funds are being used to assist the 
+business and workers impacted by reduced opera tions of the Port;  
+ 
+    5. a description of layoffs, if any, undertaken by businesses 
+that received assistance under this Act; and  
+ 
+    6.  a description of plans to allocate any remaining balance.  
+ 
+   (iii) If the Legislative Policy Committee requests, t he Governor shall 
+provide a briefing to the Legislative Policy Committee on funds distributed under this 
+section from the Revenue Stabilization Account established under § 7 –311 of the State 
+Finance and Procurement Article.  
+ 
+  (3) A copy of the budget amen dment shall be sent to the Senate Finance 
+Committee and the House Economic Matters Committee.  
+ 
+  (4) (i) Except as otherwise provided in this section, federal funds made 
+available for any purpose for which a program is established under this Act, shall be used 
+to: 
+ 
+ WES MOORE, Governor  Ch. 2  
+ 
+– 17 –     1. supplant, rather than supplement, any funds otherwise 
+used for the programs established under this Act; and  
+ 
+    2. to the extent authorized by federal law, reimburse the 
+Revenue Stabilization Account, established under § 7 –311 of the State Finance and 
+Procurement Article, for any funds transferred under paragraph (1) of this subsection.  
+ 
+   (ii) The Maryland Department of Labor and the Department of 
+Commerce prioritize the use of existing and available budgetary resources before 
+reques ting funds be transferred from the Revenue Stabilization Account.  
+ 
+  (5) Unspent funds distributed under this subsection from the Revenue 
+Stabilization Account established under § 7 –311 of the State Finance and Procurement 
+Article shall revert back to the Revenue Stabilization Account.  
+ 
+  (6) Funds received by the State from a lawsuit or, in the instance of a 
+subrogation claim, that are related to the collapse of the Francis Scott Key Bridge shall be 
+deposited in the Revenue Stabilization Account establishe d under § 7 –311 of the State 
+Finance and Procurement Article.  
+ 
+  (7) Notwithstanding any other provision of law, the Maryland Department 
+of Labor and the Department of Commerce may transfer available funding from their 
+existing programs and special funds t o support the programs established under subsections 
+(b) through (d) of this section . 
+ 
+ (g) The Attorney General shall:  
+ 
+  (1) pursue all available options, including filing actions against the 
+applicable parties, to recover for the State all possible econ omic damages arising from the 
+closure of the Port and the collapse of the Francis Scott Key Bridge; and  
+ 
+  (2) beginning July 1, 2024, and each month thereafter until all available 
+options pursued under item (1) of this subsection are exhausted or resolved , report to the 
+General Assembly, in accordance with § 2 –1257 of the State Government Article, on the 
+status of pursuing and recovering the economic damages.   
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That:  
+ 
+ (a) (1) In this section t he following words have the meanings indicated.  
+ 
+  (2) “Closure of the Port” means a cessation in the operations of or the 
+inability to access the Port of Baltimore due to the collapse of the Francis Scott Key Bridge 
+on March 26, 2024.  
+ 
+  (3) “Port” means  the Port of Baltimore.  
+Ch. 2  2024 LAWS OF MARYLAND   
+ 
+– 18 –  
+ (b) Subject to subsection (e) of this section, the Maryland Department of Labor, 
+as soon as practicable, shall establish a temporary relief program to provide assistance to 
+individuals who:  
+ 
+  (1) regularly performed paid work at the Port;  
+ 
+  (2) are unable to work through no fault of their own due to the closure of 
+the Port; and  
+ 
+  (3) despite being able, available, and actively seeking work, do not qualify 
+for unemployment insurance benefits unde r Title 8 of the Labor and Employment Article 
+or any similar employer –provided benefit.  
+ 
+ (c) (1) Subject to paragraph (2) of this subsection and subsection (e) of this 
+section, the Department of Commerce, as soon as practicable, shall establish a temporar y 
+relief program to provide assistance to small businesses, trade associations, or companies 
+that contract with or are members of a trade association:  
+ 
+   (i) the operations of which:  
+ 
+    1. rely on access to or the operation of the Port; and  
+ 
+    2. are substantially hindered or halted entirely due to the 
+closure of the Port;  
+ 
+   (ii) that, without the reopening of the Port, are unable to retain their 
+workforce at the same hours, rates of pay, and benefits in effect before the closure of the 
+Port; and  
+ 
+   (iii) that are committed to continuing operations, to the fullest extent 
+practicable, at the Port once it reopens.  
+ 
+  (2) A small business, trade association, or company that contracts with a 
+trade association that receives relief under the program estab lished under this subsection 
+shall, to the fullest extent practicable, use the relief to maintain its workforce at the same 
+hours, rates of pay, and benefits in effect before the closure of the Port.  
+ 
+ (d) Subject to subsection (e) of this section, the Department of Commerce, as soon 
+as practicable, shall establish a temporary relief program to provide assistance to 
+businesses:  
+ 
+  (1) the operations of which:  
+ 
+   (i) rely on the use of or access to the Port;  
+ 
+ WES MOORE, Governor  Ch. 2  
+ 
+– 19 –    (ii) are substantially hindered or halted entirely due to the closure 
+of the Port; and  
+ 
+   (iii) are subsequently diverted to other regional ports; and  
+ 
+  (2) that are committed to continuing operations, to the fullest extent 
+practicable, at the Port once it reopens.  
+ 
+ (e) (1) Any funds distributed under subsections (b) through (d) of this section 
+shall be distributed on or before June 30, 2025.  
+ 
+  (2) In administering the temporary relief programs established under 
+subsections (b) through (d) of this section, the Maryland Department of L abor and the 
+Department of Commerce shall require an individual, business, trade association, or 
+company that is compensated through indemnification or other similar means for the same 
+purpose for which assistance is provided under the applicable program t o repay any 
+monetary assistance received under the applicable program within 6 months after receipt 
+of the nonprogram compensation.  
+ 
+  (3) The Maryland Department of Labor and the Department of Commerce 
+may make an assessment against an individual, busines s, trade association, or company to 
+recapture any amounts owed in accordance with paragraph (2) of this subsection.  
+ 
+ (f) (1) Notwithstanding § 7 –311(i) of the State Finance and Procurement 
+Article, after providing the Legislative Policy Committee at leas t 7 days to review and 
+comment, the Governor may transfer by budget amendment any amounts necessary to fund  
+the temporary relief programs established under subsections (b) through (d) of this section 
+from the Revenue Stabilization Account established under  § 7–311 of the State Finance 
+and Procurement Article to:  
+ 
+   (i) for the program established under subsection (b) of this section, 
+the expenditure account of the Maryland Department of Labor;  
+ 
+   (ii) for the program established under subsection (c) of th is section, 
+the expenditure account of the Department of Commerce; or  
+ 
+   (iii) for the program established under subsection (d) of this section, 
+the Economic Development Opportunities Program Account established under § 7 –314 of 
+the State Finance and Procurement Article.  
+ 
+  (2) It is the intent of the General Assembly that, if federal funds become 
+available for any purpose for which a program is established under this Act, the federal 
+funds may be used to:  
+ 
+   (i) supplant, rather than supplement, any funds otherwise used for 
+the programs established under this Act; and  
+Ch. 2  2024 LAWS OF MARYLAND   
+ 
+– 20 –  
+   (ii) to the extent authorized by federal law, reimburse the Revenue 
+Stabilization Account, established under § 7 –311 of the State Finance and Procurement 
+Article, for any funds trans ferred under paragraph (1) of this subsection.  
+ 
+ SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act is an emergency 
+measure, is necessary for the immediate preservation of the public health or safety, has 
+been passed by a yea and nay vote supported by three –fifths of all the members elected to 
+each of the two Houses of the General Assembly, and shall take effect from the date it is 
+enacted.  
+ 
+Approved by the Governor, April 9, 2024.  

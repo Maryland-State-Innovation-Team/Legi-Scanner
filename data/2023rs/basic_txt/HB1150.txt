@@ -1,0 +1,445 @@
+ WES MOORE, Governor  Ch. 568  
+ 
+– 1 – Chapter 568  
+(House Bill 1150 ) 
+ 
+AN ACT concerning  
+ 
+Commercial Law and Financial Institutions – Credit Regulation  – Shared 
+Appreciation Agreements  
+ 
+FOR the purpose of making certain shared appreciation agreements subject to the 
+Maryland Mortgage Lender Law and other provisions of law that regulate certain 
+loans of single extensions of closed end credit  and revolving credit plans ; authorizing 
+the Commissioner of Financia l Regulation to adopt certain regulations regarding the 
+enforcement  of and compliance with provisions of law that regulate shared 
+appreciation agreements;  and generally relating to  credit regulation  and shared 
+appreciation agreements.  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Commercial Law  
+Section 12 –901(a)  and 12 –1001(a)  
+ Annotated Code of Maryland  
+ (2013 Replacement Volume and 2022 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Commercial Law  
+Section 12 –901(g)  and (g –1) through (l) , 12–913.1,  12–922, 12–1001(j)  and (k –1) 
+through (m) , and 12 –1013  
+ Annotated Code of Maryland  
+ (2013 Replacement Volume and 2022 Supplement)  
+ 
+BY adding to  
+ Article – Commercial Law  
+ Section 12 –901(n), 12–926, 12–1001( o), and 12 –1030 
+ Annotated Code of Maryland  
+ (2013 Replacement Volume and 2022 Supplement)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Financial Institutions  
+Section 11–501(a)  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2022 Supplement)  
+ 
+BY r epealing and reenacting, with amendments,  
+ Article – Financial Institutions  
+Section 11 –501(h–1) through (q) 
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2022 Supplement)  
+Ch. 568  2023 LAWS OF MARYLAND   
+ 
+– 2 –  
+BY adding to  
+ Article – Financial Institutions  
+ Section 11 –501(r) 
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2022 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Commercial Law  
+ 
+12–901. 
+ 
+ (a) In this subtitle the following wor ds have the meanings indicated.  
+ 
+ (g) (1) “Loan” means a cash advance to be paid to or for the account of the 
+borrower.  
+ 
+  (2) “LOAN” INCLUDES AN ADVANCE MADE IN ACCORDANCE W ITH THE 
+TERMS OF A SHARED AP PRECIATION AGREEMENT . 
+ 
+ [(g–1)] (H) “Mobile home” has the meaning stated in § 11 –501 of the Financial 
+Institutions Article.  
+ 
+ [(h)] (I) “Nonconsumer borrower” means any borrower other than a consumer 
+borrower.  
+ 
+ [(i)] (J) (1) “Outstanding unpaid indebtedness” means on any day the total 
+amount of purchases and  loans charged to the borrower ’s account under the plan which is 
+outstanding and unpaid at the end of the day, after adding the aggregate amount of any 
+new purchases and loans charged to the account that day and deducting the aggregate 
+amount of any paymen ts and credits applied to the account that day.  
+ 
+  (2) If the agreement governing the plan permits, “outstanding unpaid 
+indebtedness” may include the amount of any interest, finance charges, and additional 
+charges, including late or delinquency charges, that have accrued in the account and are 
+unpaid at the end of the day.  
+ 
+ [(j)] (K) “Purchase” means an extension of credit for a purchase of real or 
+personal, tangible or intangible property, or an extension of credit for services, licenses, 
+taxes, officia l fees, fines, private or governmental obligations, or any other thing of value, 
+including a charitable contribution.  
+ 
+ WES MOORE, Governor  Ch. 568  
+ 
+– 3 –  [(k)] (L) “Residential real property” means owner –occupied real property having 
+a dwelling on it designated principally as a residence w ith accommodations for not more 
+than four families.  
+ 
+ [(l)] (M) “Revolving credit plan” or “plan” means a plan that contemplates the 
+extension of credit under an account governed by an agreement between a credit grantor 
+and a borrower under which:  
+ 
+  (1) The credit grantor permits the borrower and, if the agreement 
+governing the plan permits, persons acting on behalf of or with authorization from the 
+borrower to make purchases or obtain loans from time to time;  
+ 
+  (2) The amounts of purchases and loans are charged to the borrower ’s 
+account;  
+ 
+  (3) The borrower is required to pay the credit grantor the amounts of all 
+purchases and loans charged to the borrower ’s account under the plan but has the privilege 
+of paying amounts due from time to time as agreed; an d 
+ 
+  (4) Interest or finance charges may be charged and collected by the credit 
+grantor from time to time on the amounts due under the plan.  
+ 
+ (N) “SHARED APPRECIATION A GREEMENT ” HAS THE MEANING STAT ED IN § 
+11–501 OF THE FINANCIAL INSTITUTIONS ARTICLE .  
+ 
+12–913.1.  
+ 
+ (a) (1) On or after October 1, 1993, a credit grantor may at its option elect to 
+offer a plan to any borrower either pursuant to this subtitle or as otherwise permitted by 
+applicable law.  
+ 
+  (2) In order for a plan to be established under and go verned by this subtitle, 
+a credit grantor shall make a written election to that effect in the agreement governing the 
+plan.  
+ 
+ (b) (1) If a credit grantor elects in accordance with this section to establish a 
+plan under this subtitle, the provisions of Subt itle 1, 3, 4, 5, 6, or 10 of this title do not apply 
+to the plan.  
+ 
+  (2) If a person fails to elect in accordance with this section to establish a 
+plan under this subtitle, the provisions of this subtitle do not apply.  
+ 
+ (C) NOTWITHSTANDING ANY O THER PROVISION OF TH IS TITLE , A LOAN 
+SHALL BE SUBJECT TO THE PROVISIONS OF TH IS SUBTITLE , WHETHER OR NOT 
+ELECTED , IF THE LOAN : 
+ 
+Ch. 568  2023 LAWS OF MARYLAND   
+ 
+– 4 –   (1) IS A SHARED APPRECIATIO N AGREEMENT ; AND 
+ 
+  (2) ALLOWS THE BORROWER T O REPAY ADVANCES AND  HAVE ANY 
+REPAID AMOUNTS SUBSE QUENTLY RE ADVANCED TO THE BORR OWER .  
+ 
+12–922. 
+ 
+ (a) (1) In this section the following words have the meanings indicated.  
+ 
+  (2) “Borrower” means a consumer borrower who makes an application for 
+a loan secured by a first mortgage or firs t deed of trust on residential real property to be 
+occupied by the borrower as the borrower’s primary residence.  
+ 
+  (3) “Commitment” means a written, specific, binding agreement between a 
+borrower and a lender which sets forth the terms of a loan being ext ended to the borrower.  
+ 
+  (4) “Financing agreement” means a written agreement between a borrower 
+and a lender  [which  sets] THAT : 
+ 
+   (I) SETS  forth the terms of a purchase money loan or a refinancing 
+of an existing loan that:  
+ 
+   [(i)] 1. Results in or is secured by a first mortgage or a first deed 
+of trust on residential real property to be occupied by the borrower; and  
+ 
+   [(ii)] 2. Is offered or extended to the borrower ; OR 
+ 
+   (II) IS A SHARED APPRECIAT ION AGREEMENT . 
+ 
+  (5) (i) “Lender” means a credit g rantor subject to the licensing 
+requirements of Title 11, Subtitle 5 of the Financial Institutions Article.  
+ 
+   (ii) “Lender” does not include a credit grantor exempt from licensing 
+under § 11 –502 of the Financial Institutions Article.  
+ 
+  (6) (i) “Loan application” means any oral or written request for an 
+extension of credit that is made in accordance with procedures established by a lender for 
+the purpose of inducing the lender to seek to procure or make a mortgage loan.  
+ 
+   (ii) “Loan application” does  not include the use of an account or line 
+of credit to obtain a loan within a previously established credit limit.  
+ 
+ (b) (1) A lender who offers to make or procure a loan secured by a first 
+mortgage or first deed of trust on residential real property to b e occupied by the borrower 
+ WES MOORE, Governor  Ch. 568  
+ 
+– 5 – shall provide the borrower with a financing agreement executed by the lender within 10 
+business days after the date the loan application is completed.  
+ 
+  (2) The financing agreement shall provide:  
+ 
+   (i) The term and principal a mount of the loan;  
+ 
+   (ii) An explanation of the type of mortgage loan being offered;  
+ 
+   (iii) The rate of interest that will apply to the loan and, if the rate is 
+subject to change or is a variable rate or is subject to final determination at a future d ate 
+based on some objective standard, a specific statement of those facts;  
+ 
+   (iv) The points, if any, to be paid by the borrower or the seller, or 
+both; and  
+ 
+   (v) The term during which the financing agreement remains in 
+effect.  
+ 
+  (3) If all the provis ions of the financing agreement are not subject to future 
+determination, change, or alteration during its term, the financing agreement shall 
+constitute the final binding agreement between the parties as to the items covered by the 
+financing agreement.  
+ 
+ (c) (1) If any of the provisions of the financing agreement are subject to change 
+or determination after its execution, the lender shall provide the borrower with a 
+commitment, executed by the lender, at least 72 hours before the time of settlement agreed 
+to by the parties, providing:  
+ 
+   (i) The effective fixed interest rate or initial interest rate that will 
+be applied to the loan; and  
+ 
+   (ii) A restatement of all the remaining unchanged provisions of the 
+financing agreement.  
+ 
+  (2) Subsequent to execution of the financing agreement, the borrower may 
+waive in writing the 72 –hour advance presentation requirement and accept the 
+commitment at settlement only if compliance with the 72 –hour requirement is shown by 
+the lender to be infeasible.  
+ 
+ (d) (1) A borrower aggrieved by any violation of this section shall be entitled 
+to bring a civil suit for damages, including reasonable attorney’s fees, against the lender.  
+ 
+  (2) The penalties set out under § 12 –918 of this subtitle do not apply to any 
+violation of this section.  
+ 
+Ch. 568  2023 LAWS OF MARYLAND   
+ 
+– 6 – 12–926. 
+ 
+ THE COMMISSIONER OF FINANCIAL REGULATION MAY ADOPT REGULATIONS 
+REGARDING THE ENFORC EMENT  OF AND COMPLIANCE  WITH  THIS SUBTITLE AS TO 
+CREDIT GRANTORS WHO OFFER OR MAKE SHARED  APPRECIATION AGREEME NTS 
+UNDER THIS SUBTITLE . 
+ 
+12–1001.  
+ 
+ (a) In this subtitle the following words have the meanings indicated.  
+ 
+ (j) (1) “Loan” means any single extension of closed end credit, whether 
+repayable in installments, on demand, or otherwise and whether extended in one or more 
+advances.  
+ 
+  (2) “LOAN” INCLUDES AN ADVANCE MADE IN ACCORDANCE W ITH THE 
+TERMS OF A SHARED AP PRECIATION AGREEMENT . 
+ 
+ [(k–1)] (L) “Mobile home” has the meaning stated in § 11 –501 of the Financial 
+Institutions Article.  
+ 
+ [(l)] (M) “Remaining loan balance”, when used in reference to  a debt cancellation 
+agreement, does not include:  
+ 
+  (1) Any delinquent or deferred payments;  
+ 
+  (2) Past due charges;  
+ 
+  (3) Late payment charges;  
+ 
+  (4) Unearned interest;  
+ 
+  (5) Unearned rental payments;  
+ 
+  (6) The portion of any financed taxes or charges, including charges for 
+credit life insurance, credit health insurance, credit involuntary unemployment benefit 
+insurance, and mechanical repair contracts, actually refunded to the borrower or credited 
+as a reduction to the loan balance; or  
+ 
+  (7) By agreement of the parties, the amount of any primary insurance 
+deductible.  
+ 
+ [(m)] (N) “Residential real property” means owner –occupied real property having 
+a dwelling on it designated principally as a residence with accommodations for not more 
+than four families.  
+ WES MOORE, Governor  Ch. 568  
+ 
+– 7 –  
+ (O) “SHARED APPRECIATION A GREEMENT ” HAS THE MEANING STAT ED IN § 
+11–501 OF THE FINANCIAL INSTITUTIONS ARTICLE . 
+ 
+12–1013.  
+ 
+ (a) Unless otherwise provided under the express terms of the agreement, note, or 
+other evidence of the extension of closed  end credit, the provisions of Subtitle 1, 3, 4, 5, 6, 
+or 9 of this title do not apply to an extension of closed end credit if:  
+ 
+  (1) The agreement, note, or other evidence of the extension of credit is made 
+before October 1, 1993; and  
+ 
+  (2) The extensio n of credit is made under this subtitle before October 1, 
+1993.  
+ 
+ (b) For the purposes of subsection (a) of this section, an extension of credit is made 
+under this subtitle if:  
+ 
+  (1) The credit grantor has made a written election to do so in the 
+agreement , note, or other evidence of the extension of credit; or  
+ 
+  (2) The agreement, note, or other evidence of the extension of credit is made 
+pursuant to the provisions of this subtitle.  
+ 
+ (c) For the purposes of subsection (a) of this section, if there is no written election 
+to extend credit under this subtitle, the burden of proof is on the credit grantor to show the 
+agreement, note, or other evidence of the extension of credit was made pursuant to this 
+subtitle.  
+ 
+ (d) Any agreement, note, or other evidence o f an extension of credit made before 
+October 1, 1993 is not subject to § 12 –1013.2 of this subtitle.  
+ 
+ (E) NOTWITHSTANDING ANY O THER PROVISION OF TH IS TITLE , A LOAN 
+SHALL BE SUBJECT TO THE PROVISIONS OF TH IS SUBTITLE , WHETHER OR NOT 
+ELECTED , IF THE LOAN : 
+ 
+  (1) IS A SHARED APPRECIAT ION AGREEMENT ; AND 
+ 
+  (2) DOES NOT ALLOW THE BO RROWER TO REPAY ADVA NCES AND 
+HAVE ANY REPAID AMOU NTS SUBSEQUENTLY REA DVANCED TO THE BORRO WER. 
+ 
+12–1030 . 
+ 
+Ch. 568  2023 LAWS OF MARYLAND   
+ 
+– 8 –  THE COMMISSIONER OF FINANCIAL REGULATION MAY ADOPT REGULATIONS 
+REGARDING THE  ENFORCEMENT OF AND COMPLIANCE WITH THIS SUBTITLE AS TO 
+CREDIT GRANTORS WHO OFFER OR MAKE SHARED  APPRECIATION AGREEME NTS 
+UNDER THIS SUBTITLE . 
+ 
+Article – Financial Institutions  
+ 
+11–501. 
+ 
+ (a) In this subtitle the following words have the meanings indicated.  
+ 
+ [(h–1)] (I) “Mobile home” means a structure, including the plumbing, heating, air 
+conditioning, and electrical systems contained in the structure, that is:  
+ 
+  (1) Transportable in one or more sections;  
+ 
+  (2) Eight or more body feet in width and 30 or more body feet in length;  
+ 
+  (3) Built on a permanent chassis; and  
+ 
+  (4) Permanently attached to land or connected to utility, water, or sewage 
+facilities.  
+ 
+ [(i)] (J) “Mortgage broker” means a person who:  
+ 
+  (1) For a fee or other valuable consideration,  whether received directly or 
+indirectly, aids or assists a borrower in obtaining a mortgage loan; and  
+ 
+  (2) Is not named as a lender in the agreement, note, deed of trust, or other 
+evidence of the indebtedness.  
+ 
+ [(j)] (K) (1) “Mortgage lender” means any  person who:  
+ 
+   (i) Is a mortgage broker;  
+ 
+   (ii) Makes a mortgage loan to any person; or  
+ 
+   (iii) Is a mortgage servicer.  
+ 
+  (2) “Mortgage lender” does not include:  
+ 
+   (i) A financial institution that accepts deposits and is regulated 
+under Title 3, T itle 4, Title 5, or Title 6 of this article;  
+ 
+   (ii) The Federal Home Loan Mortgage Corporation;  
+ WES MOORE, Governor  Ch. 568  
+ 
+– 9 –  
+   (iii) The Federal National Mortgage Association;  
+ 
+   (iv) The Government National Mortgage Association;  
+ 
+   (v) Any person engaged exclusively in the acquisition of all or any 
+portion of a mortgage loan under any federal, State, or local governmental program of 
+mortgage loan purchases; or  
+ 
+   (vi) An affiliated insurance producer –mortgage loan originator 
+licensed under § 11 –603.1 of this title.  
+ 
+ [(k)] (L) (1) “Mortgage lending business” means the activities set forth in the 
+definition of “mortgage lender” in subsection  [(j)] (K) of this section which require that 
+person to be licensed under this subtitle.  
+ 
+  (2) “Mortgage lending business” includes the making or procuring of 
+mortgage loans secured by a dwelling or residential real estate located outside Maryland.  
+ 
+ [(l)] (M) (1) “Mortgage loan” means any loan primarily for personal, family, 
+or household use that is secured by a mortgage, deed of trust, o r other equivalent 
+consensual security interest on a dwelling or residential real estate on which a dwelling is 
+constructed or intended to be constructed.  
+ 
+  (2) “MORTGAGE LOAN ” INCLUDES A  LOAN IN WHICH FUNDS ARE 
+ADVANCED THROUGH A S HARED APPRECIATION A GRE EMENT .  
+ 
+ [(m)] (N) “Mortgage loan originator” has the meaning stated in § 11 –601 of this 
+title.  
+ 
+ [(n)] (O) “Mortgage servicer” means a person who:  
+ 
+  (1) Engages in whole or in part in the business of servicing mortgage loans 
+for others; or  
+ 
+  (2) Collects or otherwise receives payments on mortgage loans directly 
+from borrowers for distribution to any other person.  
+ 
+ [(o)] (P) “Person” means a natural person, corporation, limited liability 
+company, partnership, business trust, statutory trust, or as sociation.  
+ 
+ [(p)] (Q) “Residential real estate” means any owner –occupied real property 
+located in Maryland on which a dwelling is constructed or intended to be constructed.  
+ 
+ (R) “SHARED APPRECIATION A GREEMENT ” MEANS A WRITING EVID ENCING 
+A TRANSACTION OR ANY  OPTION , FUTURE , OR ANY OTHER DERIVAT IVE BETWEEN A 
+Ch. 568  2023 LAWS OF MARYLAND   
+ 
+– 10 – PERSON AND A CONSUME R WHERE THE CONSUMER  RECEIVES MONEY OR ANY OTHER 
+ITEM OF VALUE IN EXC HANGE FOR A N INTEREST OR FUTURE I NTER EST IN A 
+DWELLING  OR RESIDENTIAL REAL EST ATE, OR A FUTURE OBLIGATI ON TO REPAY A 
+SUM ON THE OCCURRENC E OF AN EV ENT  SUCH AS : 
+ 
+  (1) THE TRANSFER OF OWNERSHI P; 
+ 
+  (2) A REPAYMENT MATURITY D ATE; 
+ 
+  (3) THE DEATH OF THE CONSUME R; OR 
+ 
+  (4) ANY OTHER EVENT CONTEMPLATED BY THE WRITING . 
+ 
+ [(q)] (S) “State” means the State of Maryland.  
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 
+1, 2023.  
+ 
+Approved by the Governor, May 8, 2023.  

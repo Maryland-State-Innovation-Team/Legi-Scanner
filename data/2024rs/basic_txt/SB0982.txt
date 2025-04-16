@@ -1,0 +1,1160 @@
+ WES MOORE, Governor  Ch. 497  
+ 
+– 1 – Chapter 497  
+(Senate Bill 982 ) 
+ 
+AN ACT concerning  
+ 
+Information Technology – Modernization of Information Technology Projects  
+ 
+FOR the purpose of altering the duties of the Secretary of Information Technology related 
+to modernization of information technology systems; altering the authority of the 
+Board of Public Works over certain information technology projects;  establishing the  
+Information Technology Investment Fund as a special, nonlapsing fund and the 
+Technology Investment Board;  renaming the Major Information Technology 
+Development Fund; requiring a certain amount of the Fund to be set aside for certain 
+projects each fiscal y ear; requiring the Board of Public Works to expedite the 
+placement on an agenda and approval of certain contracts;  altering the duties  name, 
+duties,  and membership of the Modernize Maryland Oversight Commission; 
+providing for the terms of certain Commission members;  and generally relating to 
+information technology modernization.  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – State Finance and Procurement  
+Section 3.5–303(a)(4), 3.5 –307, 3.5 –316, and 12 –101 3.5–201, 3.5 –301, 3.5 –307,  
+3.5–308, 3.5 –309, and 3.5 –316 
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2023 Supplement)  
+ 
+BY adding to  
+ Article – State Finance and Procurement  
+Section 3.5–309.1 and 3.5 –309.2  12–101(d)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2023 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – State Finance and Procurement  
+ 
+3.5–201. 
+ 
+ (A) There is a Department of Information Technology established as a principal 
+department of State government.  
+ 
+ (B) IT SUBJECT TO THE PROVIS IONS OF § 3.5–302 OF THIS TITLE , IT IS THE 
+INTENT OF THE GENERAL ASSEMBLY THAT RESPONS IBILITY AND OVERSIGH T OF 
+THE INFORMATION TECH NOLOGY PROJECTS FOR UNITS OF STATE GOVERNMENT BE 
+Ch. 497  2024 LAWS OF MARYLAND   
+ 
+– 2 – CENT RALIZED AT THE DEPARTMENT AND THAT P RIORITY BE GIVEN TO FUNDING 
+INFORMATION TECHNOLO GY PROJECTS THAT ADD RESS THE GREATEST  NEEDS FOR 
+THE PUBLIC HEALTH , EDUCATION , SAFETY , OR FINANCIAL WELL –BEING OF THE 
+RESIDENTS OF MARYLAND . 
+ 
+3.5–301. 
+ 
+ (a) In this subtitle  the following words have the meanings indicated.  
+ 
+ (b) “Cybersecurity” means processes or capabilities wherein systems, 
+communications, and information are protected and defended against damage, 
+unauthorized use or modification, and exploitation.  
+ 
+ (c) “Cybersecurity strategy” means a vision, a plan of action, or guiding 
+principles.  
+ 
+ (d) (1) “Development” means all expenditures for a new information 
+technology system or an enhancement to an existing system including system:  
+ 
+   (i) planning;  
+ 
+   (ii) creation;  
+ 
+   (iii) installation;  
+ 
+   (iv) testing; and  
+ 
+   (v) initial training.  
+ 
+  (2) “Development” does not include:  
+ 
+   (i) ongoing operating costs, software or hardware maintenance, 
+routine upgrades, or modifications that merely allow for a continuatio n of the existing level 
+of functionality; or  
+ 
+   (ii) expenditures made after a new or enhanced system has been 
+legally accepted by the user and is being used for the business process for which it was 
+intended.  
+ 
+ (e) “EXPEDITED PROJECT ” MEANS A PROJECT THA T IS NOT A MAJOR 
+INFORMATION TECHNOLO GY DEVELOPMENT PROJE CT THAT RECEIVES MON EY 
+FROM THE FUND IN A MANNER THAT  ALLOWS FOR MODERNIZA TION PROJECTS 
+CONSISTENT WITH THE STATE MODERNIZATION PLAN TO MOVE FORWARD IN A 
+NIMBLE AND EXPEDITED  MANNER . 
+ 
+ WES MOORE, Governor  Ch. 497  
+ 
+– 3 –  (F) “Fund” mea ns the [Major Information Technology Development Project Fund ] 
+INFORMATION TECHNOLOGY INVESTMENT FUND . 
+ 
+ [(f)] (G) “Information technology” means all electronic information processing, 
+including:  
+ 
+  (1) maintenance;  
+ 
+  (2) NETWORKING ; 
+ 
+  (3) telecommunications;  
+ 
+  [(3)] (4) hardware;  
+ 
+  [(4)] (5) software AND APPLICATIONS ; and  
+ 
+  [(5)] (6) associated services.  
+ 
+ [(g)] (H) “Information technology services” means information provided by 
+electronic means by or on behalf of a unit of State government.  
+ 
+ (I) “LEGACY SYSTEM ” MEANS A HARDWARE OR SOFTWARE SYSTEM THAT  IS 
+OUTMODED OR OBSOLETE  END OF SUPPORT OR EN D OF LIFE . 
+ 
+ [(h)] (J) (1) “Major information technology development project” means any 
+information technology development project that m eets one or more of the following 
+criteria:  
+ 
+  [(1)] (I) EXCEPT AS PROVIDED I N PARAGRAPH (2) OF THIS 
+SUBSECTION , the estimated total cost of development equals or exceeds [$1,000,000 ] 
+$5,000,000 ; 
+ 
+  [(2)] (II) the project is undertaken to support a critical business function 
+associated with the public health, education, safety, or financial well –being of the [citizens ] 
+RESIDENTS  of Maryland; or  
+ 
+  [(3)] (III) the Secretary determines that the project requires th e special 
+attention and consideration given to a major information technology development project 
+due to:  
+ 
+   [(i)] 1. the significance of the project’s potential benefits or risks;  
+ 
+   [(ii)] 2. the impact of the project on the public or local 
+governments;  
+ 
+Ch. 497  2024 LAWS OF MARYLAND   
+ 
+– 4 –    [(iii)] 3. the public visibility of the project; or  
+ 
+   [(iv)] 4. other reasons as determined by the Secretary.  
+ 
+  (2) “MAJOR INFORMATION TEC HNOLOGY DEVELOPMENT PROJECT ” 
+DOES NOT INCLUDE : 
+ 
+   (I) TECHNOLOGY THAT IS R EOCCURRING , STANDARD 
+OPERATING TECHNOLOGY  AS DETERMINED BY THE  SECRETARY AND SUBMITT ED TO 
+THE LEGISLATIVE POLICY COMMITTEE FOR A 30–DAY REVIEW AND COMME NT 
+PERIOD ; OR 
+ 
+   (II) A PROJECT WITH AN ES TIMATED TOTAL COST O F 
+DEVELOPMENT THAT IS : 
+ 
+    1. LESS THAN $5,000,000  AND IS FUN DED WITH MONEY 
+SET ASIDE FOR EXPEDI TED PROJECTS IN THE FUND; OR 
+ 
+    2. MORE THAN $5,000,000  AND IS FUNDED WITH T HE 
+MONEY SET ASIDE FOR EXPEDITED PROJECTS I N THE FUND IF THE SECRETARY 
+DETERMINES THAT : 
+ 
+    A. THE UNIT OF STATE GOVERNMENT HAS SUFFICIENT 
+IMP LEMENTATION RESOURCE S, INCLUDING HUMAN CAPI TAL, SUBJECT MATTER 
+EXPERTISE , AND TECHNOLOGICAL IN FRASTRUCTURE , OR HAS THE MEANS TO 
+OBTAIN THESE RESOURC ES BEFORE PROJECT IN ITIATION ; 
+ 
+    B. THERE IS NO SUFFICIE NT ALTERNATIVE WITHI N THE 
+STATE’S INFORMATION TECH NOLOGY INVENTORY ; AND  
+ 
+    C. THE PROJECT WILL RES ULT IN A SINGLE , 
+COMPREHENSIVE SOLUTI ON DESIGNED TO MEET A COHESIVE SET OF BU SINESS AND 
+TECHNOLOGICAL OBJECT IVES. 
+ 
+ [(i)] (K) “Master plan” means the statewide information technology master plan 
+and statewide cybersecurity strategy.  
+ 
+ [(j)] (L) “Nonvisual access” means the ability, through keyboard control, 
+synthesized speech, Braille, or other methods not requiring sight to receive, use, and 
+manipulate information and operate controls necessary to ac cess information technology in 
+accordance with standards adopted under § 3.5 –303(b) of this subtitle.  
+ 
+ (M) (1) SUBJECT TO THE PROVIS IONS OF § 3.5–302 OF THIS SUBTITLE , 
+“OVERSIGHT ” MEANS THE OBLIGATION  TO MONITOR , ASSESS , APPROVE , AND 
+ WES MOORE, Governor  Ch. 497  
+ 
+– 5 – REPORT ON THE IMPLEM ENTATION AND FINANCIA L STATUS OF MAJOR 
+INFORMATION TECHNOLO GY DEVELOPMENT PROJE CTS. 
+ 
+  (2) “OVERSIGHT ” DOES NOT INCLUDE CON TINUED PROJECT OR 
+PROGRAM MANAGEMENT S UPPORT OR RESPONSIBI LITY OVER PROJECT AC TIVITIES 
+OF A SUCCESSFULLY IM PLEMENTED PROJECT AS  DELEGATED BY THE SECRETARY 
+TO A UNIT OF STATE GOVERNMENT UNDE R § 3.5–308( E)(2) OF THIS SUBTITLE . 
+ 
+ [(k)] (N) (M)  “Resource sharing” means the utilization of a State resource by 
+private industry in exchange for the provision to the State of a communication  service or 
+other consideration.  
+ 
+ (O) (N) “STATE MODERNIZATION PLAN” MEANS THE PLAN DEVEL OPED 
+AND ADOPTED BY THE SECRETARY TO MODERNIZ E STATE INFORMATION 
+TECHNOLOGY . 
+ 
+ [(l)] (P) (O) “Systems development life cycle plan” means a plan that defines all 
+actio ns, functions, or activities to be performed by a unit of State government in the 
+definition, planning, acquisition, development, testing, implementation, operation, 
+enhancement, and modification of information technology systems.   
+ 
+3.5–303. 
+ 
+ (a) The Secretary is responsible for carrying out the following duties:  
+ 
+  (4) developing and maintaining a statewide information technology master 
+plan that will:  
+ 
+   (i) IN CONSULTATION WITH  THE MODERNIZE MARYLAND  
+OVERSIGHT COMMISSION ESTABLISHE D UNDER § 3.5–316 OF THIS SUBTITLE , 
+centralize the management and direction of information technology policy within the 
+Executive Branch of State government under the control of the Department;  
+ 
+   (ii) include all aspects of State information technology including 
+telecomm unications, security, data processing, and information management;  
+ 
+   (iii) consider interstate transfers as a result of federal legislation and 
+regulation;  
+ 
+   (iv) ensure that the State information technology plan and related 
+policies and standards are consistent with State goals, objectives, and resources, and 
+represent a long –range vision for using information technology to improve the overall 
+effectiveness of State government;  
+ 
+Ch. 497  2024 LAWS OF MARYLAND   
+ 
+– 6 –    (v) include standards to assure nonvisual access to the information 
+and services made available to the public over the Internet; and  
+ 
+   (vi) allows a State agency to maintain the agency’s own information 
+technology unit that provides for information technology services to support the mission of 
+the agency;  
+ 
+3.5–307. 
+ 
+ (a) (1) A unit of State government may not purchase, lease, or rent information 
+technology unless consistent with the master plan , AS DETERMINED BY THE  
+SECRETARY . 
+ 
+  (2) A unit of State government other than a public institution of higher 
+education may not make expenditures for major information technology development 
+projects or cybersecurity projects except as provided in § 3.5 –308 of this subtitle.  
+ 
+ (b) The Secretary may review any information technology project or cybersecurity 
+project for consistency w ith the master plan.  
+ 
+ (c) (1) A unit of State government shall advise the Secretary of any 
+information technology proposal involving:  
+ 
+   (i) resource sharing;  
+ 
+   (ii) the exchange of goods or services;  
+ 
+   (iii) a gift, contribution, or grant of real or  personal property; or  
+ 
+   (iv) the sale, lease, exchange, or other disposition of communications 
+facilities or communications frequencies.  
+ 
+  (2) The Secretary shall determine if the value of the resources, services, 
+property, or other consideration to be  obtained by the State under the terms of any proposal 
+submitted in accordance with paragraph (1) of this subsection equals or exceeds $100,000.  
+ 
+  (3) If the value of any proposal submitted in accordance with this 
+subsection equals or exceeds $100,000 and  the Secretary and unit agree to proceed with the 
+proposal, information on the proposal shall be:  
+ 
+   (i) advertised for a period of at least 30 days in the eMaryland 
+Marketplace; and  
+ 
+   (ii) submitted, simultaneously with the advertisement, to the 
+Legisl ative Policy Committee for a 60 –day review and comment period, during which time 
+ WES MOORE, Governor  Ch. 497  
+ 
+– 7 – the Committee may recommend that the proposal be treated as a procurement contract 
+under Division II of this article.  
+ 
+  (4) (I) [Following ] EXCEPT AS PROVIDED IN  SUBJECT TO  
+SUBPARAGRAPH (II) OF THIS PARAGRAPH , FOLLOWING  the period for review and 
+comment by the Legislative Policy Committee under paragraph (3) of this subsection, the 
+proposal is subject to approval by the Board of Public Works.  
+ 
+   (II) A PROPOSAL CONTRACT  TO MODERNIZE AN INFORMA TION  
+TECHNOLOGY SYSTEM THAT IS AN EXPEDITED  PROJECT FUNDED WITH MONEY SET 
+ASIDE FOR EXPEDITED PROJECTS IN THE FUND  SHALL BE EXEMPT FROM  
+EXPEDITED FOR  APPROVAL BY THE BOARD OF PUBLIC WORKS AS PROVIDED IN § 
+12–101 OF THIS ARTICLE . 
+ 
+  (5) This subsection may not be construed as authorizing an exception from 
+the requirements of Division II of this article for any contract that otherwise would be 
+subject to the State procurement process.  
+ 
+  (6) (D) (1) THE DEPARTMENT OF GENERAL SERVICES , IN 
+CONSULTATION WITH TH E DEPARTMENT  OF GENERAL SERVICES , SHALL HIRE A 
+CONTRACTOR  CONSULTANT  TO ASSESS THE PROCUR EMENT PROCESS FOR 
+INFORMATION TECHNOLO GY PROJECTS INVOLVIN G MODERNIZATION AND MAKE 
+RECOMMENDATIONS TO I NCREASE THE STATE’S ABILITY TO PROCEED  WITH A 
+MODERNIZATION PROJEC T IN A RAPID AND RES PONSIVE MANNER . 
+ 
+  (7) (2) (I) ON OR BEFORE JANUARY  JULY 1, 2025,  THE 
+DEPARTMENT SHALL INVE NTORY AND ASSESS THE  STATE’S LEGACY SYSTEMS AND  
+PRIORITIZE MODERNIZA TION . 
+ 
+   (II) ON OR BEFORE JANUARY 1, 2026,  AND EACH  EVERY OTHER  
+JANUARY 1 THEREAFTER , THE DEPARTMENT , IN CONSULTATION WITH  EACH UNIT 
+OF STATE GOVERNMENT , SHALL SUBMIT A REPOR T TO THE GOVERNOR , THE 
+SECRETARY , AND, IN ACCORDANCE WITH § 2–1257  OF THE STATE GOVERNMENT 
+ARTICLE , THE GENERAL ASSEMBLY THAT PROVIDE S: 
+ 
+    1. AN ESTIMATE OF THE F UNDING REQUIRED TO 
+MODERNIZE EACH LEGAC Y SYSTEM IN THE UNIT ; AND  
+ 
+    2. A 5–YEAR PROJECTION OF F UNDING REQUIRED TO 
+MODERNIZE EACH LEGAC Y SYSTEM . 
+ 
+3.5–308. 
+ 
+ (a) This section does not apply to a public institution of higher education.  
+Ch. 497  2024 LAWS OF MARYLAND   
+ 
+– 8 –  
+ (b) [In] BEFORE  submitting its information technology project requests, a unit 
+of State government shall [designate projects which are major information technology 
+development projects ] SUBMIT INFORMATION I N SUPPORT OF THE REQ UEST 
+REQUIRED BY THE SECRETARY FOR REVIEW AND DETERMINATION CO NSISTENT 
+WITH § 3.5–301( J) OF THIS SUBTITLE . 
+ 
+ (c) In reviewing information technology project requests, the Secretary may 
+change a unit’s designation of a major information technology development project.  
+ 
+ (d) The Secretary shall review and, with the advice of the Secretary of Budget and 
+Management, approve major information technology development projects and 
+specifications for consistency with all statewide plans, policies, and standards, including a 
+systems development life cycle plan.  
+ 
+ (e) (1) The Secretary shall be responsible for [overseeing ] THE OVERSIGHT 
+OF the implementation of major information technology development projects AND 
+EXPEDITED PROJECTS , regardless of fund source.  
+ 
+  (2) (I) THE SECRETARY MAY DELEGAT E OVERSIGHT OF A 
+SUCCESSFULLY IMPLEME NTED PROJECT TO A UN IT OF STATE GOVERNMENT IF T HE 
+SECRETARY DETERMINES THE UNIT HAS THE INT ERNAL CAPACITY , INCLUDING 
+HUMAN CAPITAL , SUBJECT MATTER EXPER TISE, AND TECHNICAL 
+INFRASTRUCTURE , TO ADE QUATELY SUPPORT CONT INUED PROJECT AND PR OGRAM 
+MANAGEMENT AND RESPO NSIBILITY OVER PROGR AM ACTIVITIES . 
+ 
+   (II) THE SECRETARY , INDEPENDENT OF THE R EQUIRED 
+OVERSIGHT , MAY PROVIDE SUPPORT , INCLUDING DESIGN , ENGINEERING , AND 
+PRODUCT SUPPORT , TO A UNIT OF STATE GOVERNMENT . 
+ 
+   (III) THE SECRETARY MAY REVOKE THE DELEGATION UNDER  
+SUBPARAGRAPH (I) OF THIS PARAGRAPH IF  THE SECRETARY DETERMINES A UNIT 
+NO LONGER HAS THE CA PACITY TO ADEQUATELY  SUPPORT CONTINUED PR OJECT OR 
+PROGRAM MANAGEMENT O R RESPONSIBILITY OVE R PROGRA M ACTIVITIES .  
+ 
+ (f) (1) With the advice of the Secretary of Budget and Management, 
+expenditures for major information technology development projects shall be subject to the 
+approval of the Secretary who shall approve expenditures only when those projects  are 
+consistent with statewide plans, policies, and standards.  
+ 
+  (2) THE SECRETARY SHALL MAKE A RECOMMENDATION TO THE 
+SECRETARY OF BUDGET AND MANAGEMENT THAT PROJE CT FUNDS , REGARDLESS OF 
+FUND SOURCE , BE WITHHELD IF : 
+ 
+ WES MOORE, Governor  Ch. 497  
+ 
+– 9 –    (I) A UNIT OF STATE GOVERNMENT IS N OT CONSISTENTLY 
+REPORTING ON THE STA TUS OF A PROJECT OR PROJECTS TO THE DEPARTMENT IN 
+THE FORM AND MANNER REQUIRED BY THE DEPARTMENT ; OR 
+ 
+   (II) THE DEPARTMENT DETERMINES  THAT PROJECT 
+IMPLEMENTATION ISSUE S EXIST , INCLUDING PROJECT TI MELINE DELAYS , 
+SIGNIFI CANT COST INCREASES , VENDOR NONPERFORMANC E, DECREASED AGENCY 
+CAPACITY , OR OTHER ISSUES THAT  INDICATE ISSUES OF C ONCERN THAT COULD 
+JEOPARDIZE SUCCESSFU L IMPLEMENTATION .  
+ 
+ (g) (1) The Secretary shall approve funding for major information technology 
+developm ent projects , EXPEDITED PROJECTS , AND OTHER EXPENDITUR ES FROM THE 
+FUND  only when [those ]: 
+ 
+   (I) THE MAJOR INFORMATIO N TECHNOLOGY DEVELOP MENT 
+PROJECTS OR THE EXPE DITED PROJECTS ARE I N COMPLIANCE WITH ST ATEWIDE 
+PLANS , POLICIES , AND STANDARDS , AS DETERMINED  BY THE SECRETARY ; AND  
+ 
+   (II) THE MAJOR INFORMATIO N TECHNOLOGY DEVELOP MENT  
+projects are supported by an approved systems development life cycle plan.  
+ 
+  (2) An approved systems development life cycle plan shall include 
+submission of:  
+ 
+   (i) a project pl anning request that details initial planning for the 
+project, including:  
+ 
+    1. the project title, appropriation code, and summary;  
+ 
+    2. a description of:  
+ 
+    A. the [needs addressed by the project ] BUSINESS AND 
+TECHNOLOGY OUTCOMES TO BE ACHIEVED BY TH E PROJECT ; 
+ 
+    B. THE FEATURES AVAILAB LE TO THE END USER O N 
+COMPLETION , INCLUDING USER ACCEP TANCE TESTING AND AC CESSIBILITY PLANS ; 
+ 
+    C. the potential risks associated with the project;  
+ 
+    [C.] D. possible alternatives; and  
+ 
+    [D.] E. the scope and complexity of the project; and  
+ 
+    3. an estimate of:  
+ 
+Ch. 497  2024 LAWS OF MARYLAND   
+ 
+– 10 –     A. the total costs required to complete through planning; and  
+ 
+    B. the fund sources available to support planning costs; and  
+ 
+   (ii) a pro ject implementation request to begin full design, 
+development, and implementation of the project after the completion of planning, including:  
+ 
+    1. the project title, appropriation code, and summary;  
+ 
+    2. a description of:  
+ 
+    A. the [needs addressed  by the project ] BUSINESS AND 
+TECHNOLOGY OUTCOMES TO BE ACHIEVED BY TH E PROJECT AND THE ME TRICS BY 
+WHICH THE SUCCESS OF  THOSE OUTCOMES WILL BE MEASURED ; 
+ 
+    B. THE FEATURES AVAILAB LE TO THE END USER O N 
+COMPLETION , INCLUDING USER ACCEP TANCE TESTING AND AC CESSIBILITY PLANS ; 
+ 
+    C. the potential risks associated with the project;  
+ 
+    [C.] D. possible alternatives;  
+ 
+    [D.] E. the scope and complexity of the project; and  
+ 
+    [E.] F. how the project meets the goals of the statewide 
+master plan; and  
+ 
+    3. an estimate of:  
+ 
+    A. the total project cost , BY PHASE ; and  
+ 
+    B. the fund sources [available ] TO BE UTILIZED . 
+ 
+  (3) The Secretary may approve funding incrementally, consistent with the 
+systems development life cycle plan.  
+ 
+ (H) THE DEPARTMENT , IN CON SULTATION WITH THE MODERNIZE 
+MARYLAND COMMISSION ESTABLISHE D UNDER § 3.5–316 OF THIS ARTICLE  
+SUBTITLE , SHALL : 
+ 
+  (1) DEVELOP STANDARDS FO R UNITS OF STATE GOVERNMENT TO 
+ASSIST IN IDENTIFYIN G LEGACY SYSTEMS THA T REQUIRE MODERNIZAT ION 
+PROJECTS APPROPRIATE  TO BE FINANCED AS AN EX PEDITED PROJECT THRO UGH 
+THE FUND; 
+ 
+ WES MOORE, Governor  Ch. 497  
+ 
+– 11 –   (2) ADOPT AN INFORMATION TECHNOLOGY INVESTMENT MATURITY 
+MODEL THAT INCLUDES : 
+ 
+   (I) CRITERIA TO INFORM A ND PRIORITIZE INVEST MENT 
+DECISIONS ; 
+ 
+   (II) PROCESSES TO DEVELOP  THE INFORMATION REQU IRED TO 
+EVALUATE INVESTMENT PROPOSALS AGAINST TH E CRITERIA UNDER ITE M (I) OF 
+THIS ITEM ; AND  
+ 
+   (III) MANAGEMENT PROCESSES  TO MONITOR THE 
+IMPLEMENTATION OF AP PROVED MODERNIZATION  PROJECTS ; AND  
+ 
+  (3) DEVELOP A STATE MODERNIZATION PLAN. 
+ 
+3.5–309. 
+ 
+ (a) There is [a Major Information Technology Development Project Fund ] AN 
+INFORMATION TECHNOLOGY INVESTMENT FUND . 
+ 
+ (b) The purpose of the Fund is to support major information technology 
+development projects AND EXPEDITED PROJEC TS. 
+ 
+ (c) The Secretary:  
+ 
+  (1) shall admini ster the Fund in accordance with this section; and  
+ 
+  (2) subject to the provisions of § 2 –201 of this article and § 3.5 –307 of this 
+subtitle, may receive and accept contributions, grants, or gifts of money or property.  
+ 
+ (d) (1) The Fund is a special, non lapsing fund that is not subject to § 7 –302 of 
+this article.  
+ 
+  (2) The State Treasurer shall hold the Fund separately and the 
+Comptroller shall account for the Fund.  
+ 
+  (3) The State Treasurer shall invest and reinvest the money of the Fund in 
+the same ma nner as other State money may be invested.  
+ 
+  (4) Any investment earnings of the Fund shall be paid into the Fund.  
+ 
+ (e) Except as provided in subsection (f) of this section, the Fund consists of:  
+ 
+  (1) money appropriated in the State budget to the Fund;  
+ 
+Ch. 497  2024 LAWS OF MARYLAND   
+ 
+– 12 –   (2) as approved by the Secretary, money received from:  
+ 
+   (i) the sale, lease, or exchange of communication sites, 
+communication facilities, or communication frequencies for information technology 
+purposes; or  
+ 
+   (ii) an information technology agreement involving resource 
+sharing;  
+ 
+  (3) that portion of money earned from pay phone commissions to the extent 
+that the commission rates exceed those in effect in December 1993;  
+ 
+  (4) money received and accepted as contributions, grants, or gifts as 
+authorized under subsection (c) of this section;  
+ 
+  (5) general funds appropriated for major information technology 
+development projects of any unit of State government other than a public institution of 
+higher education that:  
+ 
+   (i) are unencumbered and u nexpended at the end of a fiscal year;  
+ 
+   (ii) have been abandoned; or  
+ 
+   (iii) have been withheld by the General Assembly or the Secretary;  
+ 
+  (6) any investment earnings; and  
+ 
+  (7) any other money from any source accepted for the benefit of the Fund.  
+ 
+ (f) The Fund does not include any money:  
+ 
+  (1) received by the Department of Transportation, the Maryland 
+Transportation Authority, Baltimore City Community College, or the Maryland Public 
+Broadcasting Commission;  
+ 
+  (2) received by the Judicial or Legi slative branches of State government; or  
+ 
+  (3) generated from pay phone commissions that are credited to other 
+accounts or funds in accordance with other provisions of law or are authorized for other 
+purposes in the State budget or through an approved budget amendment.  
+ 
+ (g) The Governor shall submit with the State budget:  
+ 
+  (1) a summary showing the unencumbered balance in the Fund as of the 
+close of the prior fiscal year and a listing of any encumbrances;  
+ 
+ WES MOORE, Governor  Ch. 497  
+ 
+– 13 –   (2) an estimate of projected revenue from each of the sources specified in 
+subsection (e) of this section for the fiscal year for which the State budget is submitted; 
+[and] 
+ 
+  (3) a descriptive listing of MAJOR INFORMATION TE CHNOLOGY 
+DEVELOPMENT projects reflecting projected costs for the fiscal y ear for which the State 
+budget is submitted and any estimated future year costs ; AND  
+ 
+  (4) THE AMOUNT PROPOSED TO BE SET ASIDE FOR EXPEDITED 
+PROJECTS . 
+ 
+ (h) Expenditures from the Fund shall be made only:  
+ 
+  (1) in accordance with an appropriation approved  by the General Assembly 
+in the annual State budget; [or] 
+ 
+  (2) through an approved State budget amendment under Title 7, Subtitle 
+2, Part II of this article, provided that a State budget amendment for any project not 
+requested as part of the State budget  submission or for any project for which the scope or 
+cost has increased by more than 5% or $250,000 shall be submitted to the budget 
+committees allowing a 30 –day period for their review and comment ; OR 
+ 
+  (3) FOR EXPEDITED PROJEC T CONTRACTS APPROVED  FOR F UNDING 
+BY THE SECRETARY AND APPROVE D BY THE BOARD OF PUBLIC WORKS AS 
+PROVIDED IN § 12–101 OF THIS ARTICLE . 
+ 
+ (i) The Fund may be used:  
+ 
+  (1) for major information technology development projects;  
+ 
+  (2) as provided in subsections (j) and [(l)] (M) of this section; [or] 
+ 
+  (3) notwithstanding § 3.5 –301(b)(2) of this subtitle, for the costs of the first 
+12 months of operation and maintenance of a major information technology development 
+project ; 
+ 
+  (4) FOR EXPEDITED PROJEC TS; OR 
+ 
+  (5) FOR MAJOR INFORMATION TECHNOLO GY DEVELOPMENT 
+PROJECTS AND EXPEDIT ED PROJECTS THROUGH A REVOLVING LOAN PRO CESS 
+THROUGH WHICH AN AGE NCY MAY REIMBURSE TH E FUND IN FUTURE FISCAL  YEARS 
+AS ESTABLISHED BY TH E SECRETARY IN REGULATI ON. 
+ 
+ (j) Notwithstanding subsection (b) of  this section and except for the cost incurred 
+in administering the Fund, each fiscal year up to $1,000,000 of this Fund may be used for:  
+Ch. 497  2024 LAWS OF MARYLAND   
+ 
+– 14 –  
+  (1) educationally related information technology projects;  
+ 
+  (2) application service provider initiatives as provi ded for in Title 9, 
+Subtitle 22 of the State Government Article; or  
+ 
+  (3) information technology projects, including:  
+ 
+   (i) pilots; and  
+ 
+   (ii) prototypes.  
+ 
+ (k) A unit of State government or local government may submit a request to the 
+Secretary to support the cost of an information technology project with money under 
+subsection (j) of this section.  
+ 
+ (L) (1) EACH FISCAL YEAR , AT LEAST 20%  OF THE AMOUNT INCLUD ED IN 
+THE GOVERNOR ’S ALLOWANCE AND APPR OPRIATED TO THE FUND SHALL BE SET 
+ASIDE TO BE USED FO R EXPEDITED PROJECTS . 
+ 
+  (2) ANY AMOUNT SET ASIDE UNDER PARAGRAPH (1) OF THIS 
+SUBSECTION THAT IS N OT USED IN THE FISCA L YEAR THAT IT IS SE T ASIDE SHALL 
+REMAIN SET ASIDE IN THE FUND AND AVAILABLE TO  BE USED FOR FUTURE 
+EXPEDITED PROJECTS . 
+ 
+ [(l)] (M) (1) Notwithstanding subsection (b) of this section and in accordance 
+with paragraph (2) of this subsection, money paid into the Fund under subsection (e)(2) of 
+this section shall be used to support:  
+ 
+   (i) the State telecommunication and computer network establi shed 
+under § 3.5 –404 of this title, including program development for these activities; and  
+ 
+   (ii) the Statewide Public Safety Interoperability Radio System, also 
+known as Maryland First (first responder interoperable radio system team), under Title 1, 
+Subtitle 5 of the Public Safety Article.  
+ 
+  (2) The Secretary may determine the portion of the money paid into the 
+Fund that shall be allocated to each program described in paragraph (1) of this subsection.  
+ 
+ [(m)] (N) (1) On or before November 1 of each year, the Secretary shall report 
+to the Governor [,] AND  the Secretary of Budget and Management [, and to the budget 
+committees of the General Assembly and submit a copy of the report to the General 
+Assembly, ] AND, in accordance with § 2 –1257 of the State Go vernment Article , TO THE 
+SENATE BUDGET AND TAXATION COMMITTEE , THE SENATE COMMITTEE ON 
+EDUCATION , ENERGY , AND THE ENVIRONMENT , THE HOUSE APPROPRIATIONS 
+ WES MOORE, Governor  Ch. 497  
+ 
+– 15 – COMMITTEE , THE HOUSE HEALTH AND GOVERNMENT OPERATIONS COMMITTEE , 
+AND THE JOINT COMMITTEE ON CYBERSECURIT Y, INFORMATION TECHNOLOGY , 
+AND BIOTECHNOLOGY . 
+ 
+  (2) The report shall include:  
+ 
+   (i) the financial status of the Fund and a summary of its operations 
+for the preceding fiscal year;  
+ 
+   (ii) an accounting for the preceding fiscal year of all money from ea ch 
+of the revenue sources specified in subsection (e) of this section, including any expenditures 
+made from the Fund; and  
+ 
+   (iii) for each project receiving money from the Fund in the preceding 
+fiscal year and for each major information technology develo pment project OR EXPEDITED 
+PROJECT receiving funding from any source other than the Fund in the preceding fiscal 
+year:  
+ 
+    1. the status of the project  AND PROJECT FUNDING 
+DECISIONS ; 
+ 
+    2. a comparison of estimated and actual costs of the project;  
+ 
+    3. any known or anticipated changes in scope or costs of the 
+project;  
+ 
+    4. an evaluation of whether the project is using best 
+practices; and  
+ 
+    5. a summary of any monitoring and oversight of the project 
+from outside the agency in which the project is  being developed, including a description of 
+any problems identified by any external review and any corrective actions taken.  
+ 
+ [(n)] (O) On or before January 15 of each year, for each major information 
+technology development project OR EXPEDITED PROJECT  currently in development or for 
+which operations and maintenance funding is being provided in accordance with subsection 
+(i)(3) of this section, subject to § 2 –1257 of the State Government Article, the Secretary 
+shall provide a summary report to the Departm ent of Legislative Services with the most 
+up–to–date project information including:  
+ 
+  (1) project FUNDING DECISIONS AN D PROJECT status;  
+ 
+  (2) any schedule, cost, and scope changes since the last annual report;  
+ 
+  (3) a risk assessment including any problems identified by any internal or 
+external review and any corrective actions taken; and  
+Ch. 497  2024 LAWS OF MARYLAND   
+ 
+– 16 –  
+  (4) any change in the monitoring or oversight status.  
+ 
+ (P) (1) THE SECRETARY MAY ADOPT R EGULATIONS NECESSARY  TO 
+CARRY OUT THIS SECTI ON. 
+ 
+  (2) THE SECRETARY SH ALL ADOPT REGULATION S NECESSARY TO 
+ESTABLISH A PROCESS FOR UNITS OF STATE GOVERNMENT TO R EQUEST AND 
+RECEIVE FUNDING FOR AN EXPEDITED PROJECT  ALIGNED WITH THE STATE 
+MODERNIZATION PLAN THAT SHALL : 
+ 
+   (I) ALLOW UNITS OF STATE GOVERNMENT TO A PPLY FOR 
+PROJECT FUNDING BIANNUALLY ; 
+ 
+   (II) BE CONSISTENT WITH T HE GOALS AND PREFERE NCES 
+ESTABLISHED UNDER TITLE 14 OF THIS ARTICLE AND ENCOURAGE SMALL AND 
+MINORITY BUSINESS EN TERPRISE VENDORS ; AND  
+ 
+   (III) PROVIDE MEASURES THA T ENSURE COMPLIANCE WITH THIS 
+SUBTITLE AND THE DEPARTMENT ’S REGULATIONS BY BOT H VENDORS AND UNITS OF 
+STATE GOVERNMENT .  
+ 
+3.5–309.1.  
+ 
+ (A) (1) IN THIS SECTION THE F OLLOWING WORDS HAVE THE MEANINGS  
+INDICATED . 
+ 
+  (2) “FUND” MEANS THE INFORMATION TECHNOLOGY INVESTMENT  
+FUND. 
+ 
+  (3) “LEGACY SYSTEM ” MEANS  A HARDWARE OR SOFTWA RE SYSTEM  
+THAT IS OUTMODED OR OBSOLETE . 
+ 
+ (B) THERE IS AN INFORMATION TECHNOLOGY INVESTMENT FUND. 
+ 
+ (C) (1) THE PURPOSE OF THE FUND IS TO ASSESS AND  REPLACE LEGACY  
+SYSTEMS . 
+ 
+  (2) THE DEPARTMENT SHALL HIRE  A CONSULTANT TO ASSE SS A  
+LEGACY SYSTEM , PRIORITIZED BASED ON  THE SECURITY RISK OF  THE SYSTEM . 
+ 
+ (D) THE SECRETARY SHALL ADMIN ISTER THE FUND. 
+ 
+ WES MOORE, Governor  Ch. 497  
+ 
+– 17 –  (E) THE DEPARTMENT , IN CONSULTATION WITH  EACH UNIT OF STATE  
+GOVERNMENT , SHALL DETERMINE THE FUNDING REQUIRED TO ASSESS EACH  
+LEGACY SYSTEM IN THE UNIT AND A 5–YEAR PROJECTION OF F UNDING REQUIRED  
+TO MODERNIZE THE LEG ACY SYSTEM . 
+ 
+ (F) (1) THE FUND IS A SPECIAL , NONLAPSING FUND THAT  IS NOT  
+SUBJECT TO § 7–302 OF THIS ARTICLE . 
+ 
+  (2) THE STATE TREASURER SHALL HOLD THE FUND SEPARATELY , 
+AND THE COMP TROLLER SHALL ACCOUN T FOR THE FUND. 
+ 
+ (G) THE FUND CONSISTS OF :  
+ 
+  (1) TO THE EXTENT PRACTI CABLE , MONEY RECEIVED FROM THE SALE  
+OF STATE GENERAL OBLIGAT ION BONDS ; AND  
+ 
+  (2) MONEY APPROPRIATED I N THE STATE BUDGET TO THE FUND. 
+ 
+ (H) THE FUND MAY BE USED FOR  LEGACY SYSTEM ASSESS MENTS AND  
+REPLACEMENTS . 
+ 
+ (I) (1) THE STATE TREASURER SHALL INVES T THE MONEY OF THE FUND  
+IN THE SAME MANNER A S OTHER STATE MONEY MAY BE IN VESTED . 
+ 
+  (2) ANY INTEREST EARNINGS  OF THE FUND SHALL BE CREDITE D TO  
+THE GENERAL FUND OF THE STATE.  
+ 
+ (J) EXPENDITURES FROM THE  FUND MAY BE MADE ONLY  IN ACCORDANCE  
+WITH THE STATE BUDGET . 
+ 
+ (K) (1) BEGINNING IN FISCAL Y EAR 2026  AND EACH FISCAL YEAR  
+THEREAFTER , THE GOVERNOR MAY INCLUDE IN THE ANNUAL BUDGET  BILL AN  
+APPROPRIATION TO THE  FUND ALIGNED WITH THE  STATE MODERNIZATION PLAN.  
+ 
+  (2) IN FISCAL YEAR 2026,  THE APPROPRIATION MA DE UNDER  
+PARAGRAPH (1) OF THIS SUBSECTION S HALL BE GREATER THAN  THE 
+DEPARTMENT ’S BUDGET FOR FISCAL YEAR 2025  FOR MAJOR INFORMATIO N 
+TECHNOL OGY DEVELOPMENT PROJ ECTS . 
+ 
+ (L) ON OR BEFORE JANUARY 1, 2028,  THE DEPARTMENT SHALL : 
+ 
+  (1) ESTABLISH A PROCESS THROUGH WHICH THE PR OCESS TO ASSESS  
+AND REPLACE LEGACY S YSTEMS IS REPLACED W ITH THE PROCESS FOR APPROVING  
+AND REVIEWING MAJOR INFORMATION TECHNOLOGY DEVELOPME NT PROJECTS  
+Ch. 497  2024 LAWS OF MARYLAND   
+ 
+– 18 – UNDER § 3.5–308 OF THIS SUBTITLE , INCLUDING GUARDRAILS  TO ENSURE  
+COMPLIANCE WITH THE PROCESS ; AND  
+ 
+  (2) SUBMIT A REPORT TO T HE GOVERNOR AND , IN ACCORDANCE  
+WITH § 2–1257  OF THE STATE GOVERNMENT ARTICLE , THE GENERAL ASSEMBLY  
+ON THE PROCESS ESTAB LISHED UNDER ITEM (1) OF THIS SUBSECTION . 
+ 
+3.5–309.2.  
+ 
+ (A) IN THIS SECTION , “BOARD” MEANS THE TECHNOLOGY INVESTMENT  
+BOARD . 
+ 
+ (B) THERE IS A TECHNOLOGY INVESTMENT BOARD IN THE DEPARTMENT . 
+ 
+ (C) THE BOARD CONSISTS OF : 
+ 
+  (1) THE SECRETAR Y, OR THE SECRETARY ’S DESIGNEE ; 
+ 
+  (2) THE COMPTROLLER , OR THE COMPTROLLER ’S DESIGNEE ;  
+ 
+  (3) THE STATE TREASURER , OR THE STATE TREASURER ’S DESIGNEE ;  
+ 
+  (4) THE GOVERNOR , OR THE GOVERNOR ’S DESIGNEE ;  
+ 
+  (5) A MEMBER OF THE PUBL IC, APPOINTED BY THE GOVERNOR ; AND  
+ 
+  (6) ANY OTHER MEMBERS TH E GOVERNOR DETERMINES A RE 
+APPROPRIATE . 
+ 
+ (D) THE SECRETARY OR THE SECRETARY ’S DESIGNEE SHALL SER VE AS  
+CHAIR OF THE BOARD .  
+ 
+ (E) THE DEPARTMENT SHALL PROV IDE STAFF FOR THE BOARD . 
+ 
+ (F) THE BOARD SHALL : 
+ 
+  (1) DEVELOP ENTERPRISE A RCHITECTURE STANDARD S FOR UNITS  
+OF STATE GOVERNMENT TO A SSIST IN IDENTIFYING  LEGACY SYSTEMS THAT  
+REQUIRE MODERNIZATIO N; 
+ 
+  (2) BEGINNING JANUARY 1, 2028,  EVALUATE AND APPROVE  ALL 
+MAJOR INFORMATION TE CHNOLOGY DEVELOPMENT  PROJECTS INVOLVI NG THE  
+MODERNIZATION OF INF ORMATION TECHNOLOGY AND LEGACY SYSTEMS ; AND  
+ 
+ WES MOORE, Governor  Ch. 497  
+ 
+– 19 –   (3) ADOPT AN INFORMATION TECHNOLOGY INVESTMENT MATURITY  
+MODEL THAT INCLUDES : 
+ 
+   (I) CRITERIA TO INFORM I NVESTMENT DECISIONS ; 
+ 
+   (II) PROCESSES TO DEVELOP  THE INFORMATION REQU IRED TO 
+EVALUATE INVESTMENT PROPOSALS AGAINST TH E CRITERIA UNDER ITE M (I) OF 
+THIS ITEM ; AND  
+ 
+   (III) MANAGEMENT PROCESSES  TO MONITOR THE  
+IMPLEMENTATION OF AP PROVED MODERNIZATION  PROJECTS . 
+ 
+ (G) ON OR BEFORE DECEMBER 1 EACH YEAR , THE BOARD SHALL REPORT  
+FUNDING DECISIONS MADE UNDER  SUBSECTION (F) OF THIS SECTION TO T HE 
+BOARD OF PUBLIC WORKS .  
+ 
+3.5–316. 
+ 
+ (a) (1) In this section the following words have the meanings indicated.  
+ 
+  (2) “Commission” means the Modernize Maryland Oversight  Commission.  
+ 
+  (3) “Critical system” means an information technology or cybersecurity 
+system that is severely outdated, as determined by the Department.  
+ 
+  (4) “LEGACY SYSTEM ” HAS THE MEANING STAT ED IN § 3.5–309.1  OF 
+THIS SUBTITLE . 
+ 
+ (b) There is an independent Modernize Maryland Over sight  Commission.  
+ 
+ (c) The purpose of the Commission is to [: 
+ 
+  (1) ensure the confidentiality, integrity, and availability of information 
+held by the State concerning State residents; and  
+ 
+  (2) advise the Secretary and State Chief Information Security Officer on:  
+ 
+   (i) the appropriate information technology and cybersecurity 
+investments and upgrades;  
+ 
+   (ii) the funding sources for the appropriate information technology 
+and cybersecurity upgrades; and  
+ 
+   (iii) future mechanisms for the procurement o f appropriate 
+information technology and cybersecurity upgrades, including ways to increase the 
+Ch. 497  2024 LAWS OF MARYLAND   
+ 
+– 20 – efficiency of procurements made for information technology and cybersecurity upgrades ] 
+ENSURE  RECOMMEND  BEST PRACTICES RELAT ED TO THE MODERNIZAT ION AND THE 
+REPL ACEMENT OF LEGACY SY STEMS .  
+ 
+ (d) The Commission consists of the following members:  
+ 
+  (1) the Secretary , OR THE SECRETARY ’S DESIGNEE ; 
+ 
+  (2) the State Chief Information Security Officer , OR THE CHIEF 
+INFORMATION SECURITY OFFICER’S DESIGNEE ; 
+ 
+  (3) three c hief information security officers representing different units of 
+State government, appointed by the Governor;  
+ 
+  (4) one information technology modernization expert with experience in 
+the private sector, appointed by the Governor;  
+ 
+  (5) one representative from  RECOMMENDED BY  the Maryland Chamber 
+of Commerce with knowledge of cybersecurity issues , APPOINTED BY THE GOVERNOR ; 
+ 
+  (6) two individuals who are end users of State information technology 
+systems, appointed by the Governor;  
+ 
+  (7) one representative from  RECOMMENDED BY  the Cybersecurity 
+Association of Maryland , APPOINTED BY THE GOVERNOR ; [and] 
+ 
+  (8) one individual who is either an instructor or a professional in the 
+academic field of cybersecurity at a college or university in the State, appointed by the 
+Governor ; AND  
+ 
+  (9) ONE EMPLOYEE OF THE OFFICE OF LEGISLATIVE AUDITS , 
+APPOINTED BY THE LEGISLATIVE AUDITOR  ONE REPRESENTATIVE O F THE 
+INFORMATION TECHNOLO GY INDUSTRY , APPOINTED BY THE GOVERNOR . 
+ 
+ (e) The cochairs of the Joint Commit tee on Cybersecurity, Information 
+Technology, and Biotechnology shall serve as advisory, nonvoting members of the 
+Commission.  
+ 
+ (F) THE UNIVERSITY OF MARYLAND GLOBAL CAMPUS SHALL STAFF TH E 
+COMMISSION . 
+ 
+ (F) A MEMBER OF THE COMMISSION : 
+ 
+ WES MOORE, Governor  Ch. 497  
+ 
+– 21 –   (1) MAY NOT RECEIVE COMPENSATION  AS A MEMBER OF THE 
+COMMISSION ; BUT 
+ 
+  (2) IS ENTITLED TO REIMB URSEMENT FOR EXPENSE S UNDER THE 
+STANDARD STATE TRAVEL REGULATIONS , AS PROVIDED IN THE STATE BUDGET . 
+ 
+ (G) (1) THE TERM OF AN APPOIN TED MEMBER IS 3 YEARS . 
+ 
+  (2) THE TERMS OF  MEMBERS ARE STAGGERE D AS REQUIRED BY THE  
+TERMS PROVIDED FOR M EMBERS OF THE COMMISSION ON JULY 1, 2024.  
+ 
+  (3) AT THE END OF A TERM , A MEMBER CONTINUES T O SERVE UNTIL 
+A SUCCESSOR IS APPOI NTED AND QUALIFIES . 
+ 
+ (H) (1) THE DEPARTMENT , IN CONSULTATION WITH  THE DEPARTMENT 
+OF LEGISLATIVE SERVICES , SHALL PROVIDE STAFF TO THE COMMISSION . 
+ 
+  (2) THE SECRETARY OR THE SECRETARY ’S DESIGNEE IS THE CH AIR 
+OF THE COMMISSION .  
+ 
+ [(f)] (G) (I) The Commission shall:  
+ 
+  [(1) advise the Secretary on a strategic roadmap with a timeline and budget 
+that will:  
+ 
+   (i) require the updates and investments of critical information 
+technology and cybersecurity systems identified by the Commission in the first 
+recommendations reported under paragraph (2) of this subsection to be comple ted on or 
+before December 31, 2025; and  
+ 
+   (ii) require all updates and investments of information technology 
+and cybersecurity to be made on or before December 31, 2030;  
+ 
+  (2) make periodic recommendations on investments in State information 
+technology structures based on the assessments completed in accordance with the 
+framework developed in § 3.5 –317 of this subtitle;  
+ 
+  (3) review and provide recommendations on the Department’s basic 
+security standards for use of the network established under § 3.5 –404(b) of this title; and  
+ 
+  (4) each year, in accordance with § 2 –1257 of the State Government Article, 
+report its findings and recommendations to the Senate Budget and Taxation Committee, 
+the Senate Education, Health, and Environmental Affairs Committee, t he House 
+Appropriations Committee, the House Health and Government Operations Committee, and 
+the Joint Committee on Cybersecurity, Information Technology, and Biotechnology. ] 
+Ch. 497  2024 LAWS OF MARYLAND   
+ 
+– 22 –  
+  (1) IDENTIFY BEST PRACTI CES FOR INFORMATION TECHNOLOGY 
+MODERNIZATION AND TH E REPLACEMENT OF LEGACY  SYSTEMS ; 
+ 
+  (2) PROVIDE RECOMMENDATI ONS FOR MODERNIZATIO N OF 
+INFORMATION TECHNOLO GY SYSTEMS TO EACH UNIT OF STATE GOVERNMENT  THE 
+GOVERNOR , THE SECRETARY , AND THE GENERAL ASSEMBLY ;  
+ 
+  (3) PROVIDE RECOMMENDATI ONS TO  PROMOTE TRANSPARENCY  IN 
+MODERNIZATION EFFORT S IN UNITS OF STATE GOVERNMENT ; AND  
+ 
+  (4) EACH YEAR , IN ACCORDANCE WITH § 2–1257  OF THE STATE 
+GOVERNMENT ARTICLE , REPORT ITS FINDINGS AND RECOMMENDATIONS TO THE 
+GOVERNOR , THE SECRETARY , THE SENATE BUDGET AND TAXATION COMMITTEE , 
+THE  SENATE COMMITTEE ON EDUCATION , ENERGY , AND THE ENVIRONMENT , THE 
+HOUSE APPROPRIATIONS COMMITTEE , THE HOUSE HEALTH AND GOVERNMENT 
+OPERATIONS COMMITTEE , AND THE JOINT COMMITTEE ON CYBERSECURITY , 
+INFORMATION TECHNOLOGY , AND BIOTECHNOLOGY . 
+ 
+ [(g)] (H) (J) The report submitted under subsection [(f)(4)] (G)(4) (I)(4) of this 
+section may not contain information about the security of an information system.  
+ 
+12–101. 
+ 
+ (a) (1) This section does not apply to:  
+ 
+  [(1)] (I) capital expenditures by the Department of Transportation or the 
+Maryland Transportation Authority, in connection with State roads, bridges, or highways, 
+as provided in § 12 –202 of this title; [or] 
+ 
+  [(2)] (II) procurements by the Department of General Ser vices for the 
+purpose of modernizing cybersecurity infrastructure for the State valued below $1,000,000 ; 
+OR 
+ 
+   (III) PROCUREMENTS BY THE DEPARTMENT OF INFORMATION  
+TECHNOLOGY TO MODERNI ZE AN INFORMATION TE CHNOLOGY SYSTEM . 
+ 
+  (2) THE AMOUNT IN PARAGRA PH (1)(II) OF THIS SUBSECTION M AY BE  
+ADJUSTED BY THE DEPARTMENT OF INFORMATION TECHNOLOGY EACH YEAR FOR 
+INFLATION . 
+ 
+ (b) (1) The Board may control procurement by units.  
+ 
+  (2) To implement the provisions of this Division II, the Board may:  
+ WES MOORE, Governor  Ch. 497  
+ 
+– 23 –  
+   (i) set policy;  
+ 
+   (ii) adopt regulations, in accordance with Title 10, Subtitle 1 of the 
+State Government Article; and  
+ 
+   (iii) establish internal operational procedures consistent with this 
+Division II.  
+ 
+  (3) The Board shall ensure that the regulations of the primar y 
+procurement units provide for procedures that are consistent with this Division II and Title 
+13, Subtitle 4 of the State Personnel and Pensions Article and, to the extent the 
+circumstances of a particular type of procurement or a particular unit do not r equire 
+otherwise, are substantially the same.  
+ 
+  (4) The Board may delegate any of its authority that it determines to be 
+appropriate for delegation and may require prior Board approval for specified procurement 
+actions.  
+ 
+  (5) Except as limited by the Maryland Constitution, the Board may 
+exercise any control authority conferred on a primary procurement unit by this Division II 
+and, to the extent that its action conflicts with the action of the primary procurement unit, 
+the action of the Board shall prev ail. 
+ 
+ (c) On or before December 1 each year, the Department of General Services shall 
+submit a report to the Board on procurements made under subsection (a)(2) of this section 
+that shall include for each procurement:  
+ 
+  (1) the purpose of the procurement;  
+ 
+  (2) the name of the contractor;  
+ 
+  (3) the contract amount;  
+ 
+  (4) the method of procurement utilized;  
+ 
+  (5) the number of bidders who bid on the procurement; and  
+ 
+  (6) the contract term.  
+ 
+12–101. 
+ 
+ (D) A CONTRACT TO MODERNIZ E AN INFORMATION TEC HNOLO GY SYSTEM 
+OR TO PROCEED WITH A N EXPEDITED PROJECT AS DEFINED IN § 3.5–101 3.5–301 OF 
+THIS ARTICLE SHALL B E EXPEDITED FOR APPR OVAL BY THE BOARD AND PLACED ON 
+THE AGENDA OF THE BOARD AS SOON AS PRAC TICABLE .  
+Ch. 497  2024 LAWS OF MARYLAND   
+ 
+– 24 –  
+ SECTION 2. AND BE IT FURTHER ENACTED, That on or before December 1, 2024  
+2025 , the Secretary of Information Technology shall:  
+ 
+  (1) develop a State Modernization Plan that includes:  
+ 
+   (i) identification of technical debt and legacy systems including 
+their criticality, complexity, and risk to the State;  
+ 
+   (ii) designation of priority systems and applications for 
+modernization including rehosting, rebuilding, replacing, or retiring;  
+ 
+   (iii) in consultation with the Comptroller,  specific recommendations 
+for a process to remove State agencies from  the Annapolis Data Center mainframes and 
+the development of a sunset goal  consistent with the January 1, 2029, sunset goal of the 
+Comptroller ; and 
+ 
+   (iv) high level timeframe and cost estimates ; 
+ 
+   (v) identification of funding sources for the appropriate information 
+technology and cybersecurity upgrades; and  
+ 
+   (vi) plans to train and uptrain existing employees to be able to fully 
+utilize technology as part of a modernization project . 
+ 
+  (2) develop a strategy for centralization of information technology 
+management across the Executive Branch of State government under the Department of 
+Information Technology; and 
+ 
+  (3) identify positions in the Department of Information Technology th at 
+would be suitable for independent salary setting authority or greater flexibility in position 
+classification to ensure the Department can recruit and retain the necessary staff to meet 
+the mission of the Department; and  
+ 
+  (4) submit the strategic plan and centralization strategy to the Governor 
+and, in accordance with § 2 –1257 of the State Government Article, the General Assembly.  
+ 
+ SECTION 3. AND BE IT FURTHER ENACTED, That, beginning in fiscal year 2026, 
+the Governor shall include in the annual budget  bill two position identification numbers 
+and an appropriation in an amount sufficient to create two positions within the Department 
+of Information Technology to carry out duties as follows:  
+ 
+  (1) one shall assist in administering the process for units of  State 
+government to apply for expedited projects under this Act; and  
+ 
+ WES MOORE, Governor  Ch. 497  
+ 
+– 25 –   (2) one position shall be a grants administrator responsible for aggressively 
+seeking all possible federal or private grant funding to support major information 
+technology projects or  expedited projects under this Act.  
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED, That, on or before December 1, 
+2024, the Department of Information Technology shall evaluate how the Information 
+Technology Investment Fund could be used as a reimbursable fund to assist with State and 
+local fiber and broadband projects and report on the evaluation and any related 
+recommendations to the Governor and, in accordance with § 2 –1257 of the State 
+Government Article, the General Assembly, including the Senate Budget and Ta xation 
+Committee, the Senate Committee on Education, Energy, and the Environment, the House 
+Appropriations Committee, the House Health and Government Operations Committee, and 
+the Joint Committee on Cybersecurity, Information Technology, and Biotechnology.   
+ 
+ SECTION 4. AND BE IT FURTHER ENACTED, That, on or before December 1, 
+2024, the Joint Audit and Evaluation Committee, in consultation with the Joint Committee 
+on Cybersecurity, Information Technology, and Biotechnology, shall study and make 
+recommendations for any statutory and operational changes necessary to address the 
+findings of the audit issued on April 2, 2024, by the Office of Legislative Audits in the 
+Department of Legislative Services and shall report on any recommendations for statutory 
+changes to  the Governor and, in accordance with § 2 –1257 of the State Government Article, 
+the General Assembly, including the Senate Budget and Taxation Committee, the Senate 
+Committee on Education, Energy, and the Environment, the House Appropriations 
+Committee, an d the House Health and Government Operations Committee.  
+ 
+ SECTION 4. 5. AND BE IT FURTHER ENACTED, That the terms of the appointed 
+members of the Modernize Maryland Commission shall expire as follows:  
+ 
+  (1) two members on July 1, 2024, as determined by the Governor;  
+ 
+  (2) two members on July 1, 2025, as determined by the Governor; and  
+ 
+  (3) the remaining appointed member on July 1, 2026.   
+ 
+ SECTION 3. 5. 6. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+July 1, 2024.  
+ 
+Approved by the Governor, May 9, 2024.  
