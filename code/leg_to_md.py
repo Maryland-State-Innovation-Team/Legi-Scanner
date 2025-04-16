@@ -120,7 +120,7 @@ def pdf_page_to_markdown(page: pymupdf.Page, include_struck: bool = True) -> str
 
         # Handle the last word/line
         if i == len(words) - 1:
-             markdown_output.append(current_line.strip())
+            markdown_output.append(current_line.strip())
 
 
     return "\n".join(markdown_output)
