@@ -144,7 +144,7 @@ def main(session_year):
     for pdf_file in tqdm(pdf_files):
         file_basename = os.path.basename(pdf_file)
         file_name, _ = os.path.splitext(file_basename)
-        destination_basename = '{}_pymupdf.md'.format(file_name)
+        destination_basename = '{}.md'.format(file_name)
         destination_file_path = os.path.join(output_dir, destination_basename)
         if not os.path.exists(destination_file_path):
             full_text = pdf_text(pdf_file)
