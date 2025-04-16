@@ -7,7 +7,7 @@ EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW .
 amendment.             *hb0004*      
 HOUSE BILL 4  
 N1   5lr1517  
-HB 366/24 ñ ENT  (PRE ñFILED)  CF SB 120  
+HB 366/24 ‚Äì ENT  (PRE ‚ÄìFILED)  CF SB 120  
 By: Delegate Smith  
 Requested: October 30, 2024  
 Introduced and read first time: January 8, 2025  
@@ -20,7 +20,7 @@ CHAPTER ______
  
 AN ACT concerning  1 
  
-Restrictions on Use ñ Solar Collector Systems ñ Alteration  2 
+Restrictions on Use ‚Äì Solar Collector Systems ‚Äì Alteration  2 
  
 FOR the purpose of prohibiting a restriction on use regarding land use that increases the 3 
 cost of installing a solar collector system by at least a certain percentage over a 4 
@@ -36,8 +36,8 @@ otherwise prohibited by applicable law; and generally relating to regulation of 
 collector systems.  14 
  
 BY repealing and reenacting, with amendments,  15 
- Article ñ Real Property  16 
-Section 2 ñ119 17 
+ Article ‚Äì Real Property  16 
+Section 2 ‚Äì119 17 
  Annotated Code of Mar yland  18 
  (2023 Replacement Volume  and 2024 Supplement ) 19 
  
@@ -46,13 +46,13 @@ That the Laws of Maryland read as follows:  21
  
 2 HOUSE BILL 4   
  
- Article ñ Real Property  1 
+ Article ‚Äì Real Property  1 
  
-2ñ119. 2 
+2‚Äì119. 2 
  
  (a) (1) In this section the following words have the meanings  indicated.  3 
  
-  (2) ìRestriction on useî includes any covenant, restriction, or condition 4 
+  (2) ‚ÄúRestriction on use‚Äù includes any covenant, restriction, or condition 4 
 contained in:  5 
  
    (i) A deed;  6 
@@ -72,17 +72,17 @@ association;  10
  
     2. Any other interest in real property.  14 
  
-  (3) ìSolar collector systemî means a solar collector or other solar energy 15 
+  (3) ‚ÄúSolar collector system‚Äù means a solar collector or other solar energy 15 
 device, the primary purpos e of which is to provide for the collection, storage, and 16 
 distribution of solar energy for electricity generation, space heating, space cooling, or water 17 
 heating.  18 
  
-  (4) ìSolar easementî means an interest in land that:  19 
+  (4) ‚ÄúSolar easement‚Äù means an interest in land that:  19 
  
    (i) Is conveyed or assigned in pe rpetuity; and  20 
  
    (ii) Limits the use of the land to preserve the receipt of sunlight 21 
-across the land for the use of a property ownerís solar collector system.  22 
+across the land for the use of a property owner‚Äôs solar collector system.  22 
  
  (b) (1) A restriction on use regarding land use may not impose or act to impose 23 
 unreasonable limitations on the installation of a solar collector system on the roof or 24 

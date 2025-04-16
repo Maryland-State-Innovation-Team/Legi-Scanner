@@ -7,8 +7,8 @@ EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW .
 amendment.             *hb0199*      
 HOUSE BILL 199  
 G1   5lr0170  
-  (PRE–FILED)  CF SB 257  
-By: Chair, Ways and Means Committee (By Request – Departmental – State Board 
+  (PREâ€“FILED)  CF SB 257  
+By: Chair, Ways and Means Committee (By Request â€“ Departmental â€“ State Board 
 of Elections)  
 Requested: September 18, 2024  
 Introduced and read first time: January 8, 2025  
@@ -21,7 +21,7 @@ CHAPTER ______
  
 AN ACT concerning  1 
  
-Election Law – Notice to Permanent Absentee Voters  2 
+Election Law â€“ Notice to Permanent Absentee Voters  2 
  
 FOR the purpose of altering the time before an election when a certain notice is required 3 
 to be sent to each voter who is on the permanent absentee ballot list; repealing a 4 
@@ -32,14 +32,14 @@ permanent absentee ballot list using the method of communicati on chosen by the 
 voter; and generally relating to permanent absentee voters.    9 
  
 BY repealing and reenacting, without amendments,  10 
- Article – Election Law  11 
-Section 9 –311.1(d)  12 
+ Article â€“ Election Law  11 
+Section 9 â€“311.1(d)  12 
  Annotated Code of Maryland  13 
  (2022 Replacement Volume and 2024 Supplement)  14 
  
 BY re pealing and reenacting, with amendments,  15 
- Article – Election Law  16 
- Section 9 –311.1(g)  17 
+ Article â€“ Election Law  16 
+ Section 9 â€“311.1(g)  17 
  Annotated Code of Maryland  18 
  (2022 Replacement Volume and 2024 Supplement)  19 
  
@@ -48,9 +48,9 @@ BY re pealing and reenacting, with amendments,  15
   SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 1 
 That the Laws of Maryland read a s follows:  2 
  
-Article – Election Law  3 
+Article â€“ Election Law  3 
  
-9–311.1.  4 
+9â€“311.1.  4 
  
  (d) A voter shall specify in an absentee ballot application submitted in accordance 5 
 with subsection (b) of this section:  6 
@@ -69,7 +69,7 @@ by the State Board under subsection (g) of this section before each election:  1
  
    (i) nonfo rwardable mail;  14 
  
-   (ii) e–mail; or  15 
+   (ii) eâ€“mail; or  15 
  
    (iii) text message.  16 
  

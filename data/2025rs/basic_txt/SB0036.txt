@@ -1,176 +1,153 @@
+ WES MOORE, Governor  Ch. 14  
  
+– 1 – Chapter 14  
+(Senate Bill 36 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *sb0036*      
-SENATE BILL 36  
-E4   5lr0784  
-  (PRE–FILED)  CF HB 421  
-By: Senators Kagan and Augustine  
-Requested: September 9, 2024  
-Introduced and read first time: January 8, 2025  
-Assigned to: Budget and Taxation  
-Committee Report: Favorable  
-Senate action: Adopted  
-Read second time: January 24, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Public Safety – 9–1–1 Trust Fund  – 9–8–8 Suicide Prevention Hotline  
  
-AN ACT concerning  1 
+FOR the purpose  of authorizing the use of the 9 –1–1 Trust Fund  for certain  expenditures 
+that support  the 9–8–8 suicide prevention hotline ; altering a certain restriction on  
+the use of the 9 –1–1 Trust Fund  to prohibit funds from being used  for expenses solely 
+related to the 9 –8–8 suicide prevention hotline , instead of  preventing the use  of funds  
+for any costs associated with the 9 –8–8 suicide prevention hotline ; and generally 
+relating to  the 9–1–1 Trust Fund and the 9–8–8 suicide prevention hotline . 
  
-Public Safety – 9–1–1 Trust Fund  – 9–8–8 Suicide Prevention Hotline  2 
+BY repealing and reenacting, without amendments,  
+ Article – Public Safety  
+ Section 1 –308(a) and 1–309(a)  and (c)(1)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose  of authorizing the use of the 9 –1–1 Trust Fund for  certain  expenditures 3 
-that support  the 9–8–8 suicide prevention hotline ; altering a certain restriction on  4 
-the use of the 9 –1–1 Trust Fund  to prohibit funds from being used  for expenses solely 5 
-related to the 9 –8–8 suicide prevention hotline , instead of preventing the use  of funds  6 
-for any costs associated with the 9 –8–8 suicide prevention hotline ; and generally 7 
-relating to  the 9–1–1 Trust Fund and the 9–8–8 suicide prevention  hotline . 8 
+BY repealing and reenacting, with amendments,  
+ Article – Public Safety  
+Section 1 –308(b)  and 1–309(c) (6) 
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  9 
- Article – Public Safety  10 
- Section 1 –308(a) and 1–309(a)  and (c)(1)  11 
- Annotated Code of Maryland  12 
- (2022 Replacement Volume and 2024 Supplement)  13 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  14 
- Article – Public Safety  15 
-Section 1 –308(b)  and 1–309(c) (6) 16 
- Annotated Code of Maryland  17 
- (2022 Replacement Volume and 2024 Supplement)  18 
+Article – Public Safety  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 19 
-That the Laws of Maryland read as follows:  20 
+1–308. 
  
-2 SENATE BILL 36   
+ (a) There is a 9 –1–1 Trust Fund.  
  
- Article – Public  Safety  1 
+ (b) (1) Except as provided in p aragraph (2) of this subsection and subject to § 
+1–309.1 of this subtitle, the purposes of the 9 –1–1 Trust Fund are to:  
  
-1–308. 2 
+   (i) reimburse counties for the cost of enhancing a 9 –1–1 system;  
  
- (a) There is a 9 –1–1 Trust Fund.  3 
+   (ii) pay contractors in accordance with § 1 –306(b)(12) of this subtitle; 
+and 
  
- (b) (1) Except as provided in paragraph (2) of this subsection and subject to § 4 
-1–309.1 of this subtitle, the purposes of the 9 –1–1 Trust Fund are to:  5 
+   (iii) fund the coordinator position and staff to handle the increased 
+duties related to wireless enhanced 9 –1–1 service under § 1 –305 of this subtitle, as an 
+administrative cost.  
+Ch. 14  2025 LAWS OF MARYLAND   
  
-   (i) reimburse counties for the cost of enhancing  a 9–1–1 system;  6 
+– 2 –  
+  (2) Subject to paragraph (3) of this subsection, in addition to the purposes 
+described under paragraph (1) of this subsection, the purposes of the 9 –1–1 Trust Fund 
+include funding:  
  
-   (ii) pay contractors in accordance with § 1 –306(b)(12) of this subtitle; 7 
-and 8 
+   (i) the operation and maintenance of 9 –1–1 systems, enhanced  
+9–1–1 systems, and Next Generation 9 –1–1 services, including:  
  
-   (iii) fund the coordinator position and staff to handle the increased 9 
-duties related to wireless enhanced 9 –1–1 service under § 1 –305 of this subtitle, as  an 10 
-administrative cost.  11 
+    1. equipment and software utilized directly for providing  
+9–1–1 services by a public safety answering point;  
  
-  (2) Subject to paragraph (3) of this subsection, in addition to the purposes 12 
-described under paragraph (1) of this subsection, the purposes of the 9 –1–1 Trust Fund 13 
-include funding:  14 
+    2. protocol systems and software utilized directly for 
+providing 9 –1–1 services by a public safety answering point;  
  
-   (i) the operation and maintenance of 9 –1–1 systems, enhanced  15 
-9–1–1 systems, and Next Generation 9 –1–1 services, including:  16 
+    3. interpretat ion services provided for a public safety 
+answering point;  
  
-    1. equipment and software utilized directly for providing  17 
-9–1–1 services by a public safety answering point;  18 
+    4. services provided for a public safety answering point to 
+ensure improved access to individuals with disabilities and other individuals who use 
+assistive technology; and  
  
-    2. protocol syst ems and software utilized directly for 19 
-providing 9 –1–1 services by a public safety answering point;  20 
+    5. voice, data,  and call log recorders utilized to capture 
+information from 9 –1–1 systems, enhanced 9 –1–1 systems, and Next Generation 9 –1–1 
+services;  
  
-    3. interpretation services provided for a public safety 21 
-answering point;  22 
+   (ii) the operation and maintenance of 9 –1–1 systems, enhanced  
+9–1–1 systems, and Next Generation 9 –1–1 services con nectivity and infrastructure 
+equipment, including:  
  
-    4. services provided for a public safety answering point to 23 
-ensure improv ed access to individuals with disabilities and other individuals who use 24 
-assistive technology; and  25 
+    1. automatic number and location identification; and  
  
-    5. voice, data, and call log recorders utilized to capture 26 
-information from 9 –1–1 systems, enhanced 9 –1–1 systems, and Next Generation 9 –1–1 27 
-services;  28 
+    2. Primary Rate Interface and Session Initiation Protocol 
+trucking  for 10–digit emergency and nonemergency lines;  
  
-   (ii) the operation and maintenance of 9 –1–1 systems, enhanced  29 
-9–1–1 systems, and Next Generation 9 –1–1 services connectivity and infrastructure 30 
-equipment, including:  31 
+   (iii) geographical infor mation systems hardware, software, data 
+development, and data management costs incurred for the effective operation of 9 –1–1 
+systems, enhanced 9 –1–1 systems, and Next Generation 9 –1–1 services, including:  
  
-    1. automatic number and location identification; and  32 
- SENATE BILL 36  3 
+    1. mapping equipment;  
  
-  
-    2. Primary Rate Interfa ce and Session Initiation Protocol 1 
-trucking  for 10–digit emergency and nonemergency lines;  2 
+    2. interfaces to co mputer–aided dispatch; and  
  
-   (iii) geographical information systems hardware, software, data 3 
-development, and data management costs incurred for the effective operation of 9 –1–1 4 
-systems, enh anced 9–1–1 systems, and Next Generation 9 –1–1 services, including:  5 
+    3. geographical information systems base layer development 
+and management;  
  
-    1. mapping equipment;  6 
+ WES MOORE, Governor  Ch. 14  
  
-    2. interfaces to computer –aided dispatch; and  7 
+– 3 –    (iv) public safety answering point facilities costs, including access 
+control, security systems, and standby power;  
  
-    3. geographical information systems base layer development 8 
-and management;  9 
+   (v) costs for public education materials;  
  
-   (iv) public safety answeri ng point facilities costs, including access 10 
-control, security systems, and standby power;  11 
+   (vi) the training of county personnel working in or directly 
+supporting a public safety answering point;  
  
-   (v) costs for public education materials;  12 
+   (vii) the provision of tuition reimbursement for 9 –1–1 specialists for 
+educational programs related to the 9 –1–1 specialis t career field;  
  
-   (vi) the training of county personnel working in or directly 13 
-supporting a public safety answering point;  14 
+   (viii)  costs to maintain the cybersecurity of 9 –1–1 systems, enhanced 
+9–1–1 systems, and Next Generation 9 –1–1 services;  
  
-   (vii) the provision of tuition reimbursement for 9 –1–1 specialists for 15 
-educational programs related to the 9 –1–1 specialist career field;  16 
+   (ix) costs of 9 –1–1 specialist recruitment activities as described in § 
+1–306(b)(17) of this subtitle; [and] 
  
-   (viii)  costs to maintain the cybersecurity of 9 –1–1 systems, enhanced 17 
-9–1–1 systems, and Next Generation 9 –1–1 services;  18 
+   (x) costs of telecommunications cardiopulmonary resuscitation 
+training ; AND  
  
-   (ix) costs of 9 –1–1 specialist recruitment activities as described in § 19 
-1–306(b)(17) of this subtitle; [and] 20 
+   (XI) COST S RELATED TO THE OPERATION OF THE 9–8–8 SUICIDE 
+PREVENTION HOTLINE THAT MAY BE SHARED W ITH 9–1–1 ACTIVITIES , INCLUDING  
+SOFTWARE INTERFACES AND JOINT TRAINING . 
  
-   (x) costs of telecommunications cardiopulmonary resuscitation 21 
-training ; AND  22 
+  (3) Funding allocated in accordance with paragraph (2) of this subsection 
+may not be utilized for any [purpose associated with ] COSTS THAT SOLELY SUPPORT  the 
+9–8–8 suicide prevention hotline.  
  
-   (XI) COST S RELATED TO THE OPERATION OF THE 9–8–8 SUICIDE 23 
-PREVENTION HOTLINE THAT MAY BE SHARED W ITH 9–1–1 ACTIVITIES , INCLUDING  24 
-SOFTWARE INTERFACES AND JOINT TRAINING . 25 
+1–309. 
  
-  (3) Funding allocated in accordance with paragraph (2) of this subsection 26 
-may not be utilized for any [purpose associated with ] COSTS THAT SOLELY SUPPORT  the 27 
-9–8–8 suicide prevention hotline.  28 
+ (a) On recommendation of the Board, each year the Secretary shall request an 
+appropriation from the 9 –1–1 Trust Fund in an amount sufficient to:  
  
-1–309. 29 
+  (1) carry out the purposes of this subtitle;  
  
-4 SENATE BILL 36   
+  (2) pay the administrative costs chargeable to the 9 –1–1 Trust Fund; and  
  
-  (a) On recommendation of the Board, each year the Secretary shall request an 1 
-appropriation from the 9 –1–1 Trust Fund in an amount sufficient to:  2 
+  (3) reimburse counties for the cost of enhancing a 9 –1–1 system.  
  
-  (1) carry out the purposes of this  subtitle;  3 
+ (c) (1) Money accruing to the 9 –1–1 Trust Fund may be used as provided in 
+this subsection.  
  
-  (2) pay the administrative costs chargeable to the 9 –1–1 Trust Fund; and  4 
+  (6) Money accruing to the 9 –1–1 Trust Fund may not be used for:  
  
-  (3) reimburse counties for the cost of enhancing a 9 –1–1 system.  5 
+   (i) the maintenance or operation of communications centers  other 
+than public safety answering points; or  
+Ch. 14  2025 LAWS OF MARYLAND   
  
- (c) (1) Money accruing to the 9 –1–1 Trust Fund may be used as provided in 6 
-this subsection.  7 
+– 4 –  
+   (ii) any [purpose associated with] COSTS THAT SOLELY SUPPORT 
+the 9–8–8 suicide prevention hotline.  
  
-  (6) Money accruing to the 9 –1–1 Trust Fund may not be used for:  8 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
-   (i) the maintenance or operation of communications centers other 9 
-than public safety answering points; or  10 
- 
-   (ii) any [purpose associated with] COSTS THAT SOLELY SUPPORT 11 
-the 9–8–8 suicide preve ntion hotline.  12 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 13 
-October 1, 2025.  14 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
+Approved by the Governor, April 8, 2025.  

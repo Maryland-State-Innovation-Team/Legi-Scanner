@@ -9,8 +9,8 @@ amendment.
 HOUSE BILL 208  
 I3, S1    (5lr1358 ) 
 ENROLLED BILL  
-ó Economic Matters/Finance  ó 
-Introduced by Delegate Fraser ñHidalgo  Delegate Pruski  
+‚Äî Economic Matters/Finance  ‚Äî 
+Introduced by Delegate Fraser ‚ÄìHidalgo  Delegate Pruski  
  
 Read and Examined by Proofreaders:  
  
@@ -21,7 +21,7 @@ Proofreader.
  
 Sealed with the Great Seal and presented to the Governor, for his approval this  
   
-_______ day of _______________ at __ ______________________ oíclock, ________M.  
+_______ day of _______________ at __ ______________________ o‚Äôclock, ________M.  
   
 ______________________________________________  
 Speaker .  
@@ -30,10 +30,10 @@ CHAPTER ______
  
 AN ACT concerning  1 
  
-Consumer Protection ñ False Advertising ñ Digital Goods  2 
+Consumer Protection ‚Äì False Advertising ‚Äì Digital Goods  2 
  
 FOR the purpose of prohibiting a certain  person from advertising or offering for sale a 3 
-digital good using certain terminology or alongside an option for a time ñlimited 4 
+digital good using certain terminology or alongside an option for a time ‚Äìlimited 4 
 rental  unless a certain acknowledgments are  acknowledgment is  received from the 5 
 purchaser and or a certain statements are  state ment is  provided by the seller; 6 
 establishing that a person is guilty of a misdemeanor and subject to a certain 7 
@@ -42,47 +42,47 @@ practice ; and generally relating to the advertising and o ffering of digital go
 sale.  10 
  
 BY repealing and reenacting, with amendments,  11 
- Article ñ Commercial Law  12 
-Section 13ñ301(14)(xlii) and  14ñ2901  13 
+ Article ‚Äì Commercial Law  12 
+Section 13‚Äì301(14)(xlii) and  14‚Äì2901  13 
  Annotated Code of Maryland  14 
 2 HOUSE BILL 208   
  
   (2013 Replacement Volume and 2024 Supplement)  1 
  
 BY repealing and reenacting, without amendments,  2 
- Article ñ Commercial Law  3 
- Section 13 ñ301(14)(xliii)  4 
+ Article ‚Äì Commercial Law  3 
+ Section 13 ‚Äì301(14)(xliii)  4 
  Annotated Code of Maryland  5 
  (2013 Replacement Volume and 2024 Supplement)  6 
  
 BY adding to  7 
- Article ñ Commercial Law  8 
-Section 13ñ301(14)(xliv) and  14ñ2904  9 
+ Article ‚Äì Commercial Law  8 
+Section 13‚Äì301(14)(xliv) and  14‚Äì2904  9 
  Annotated Code of Maryland  10 
  (2013 Replacement Volume and 2024 Supplement)  11 
  
  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 12 
 That the Laws of Maryland read as follows:  13 
  
-Article ñ Commercial Law  14 
+Article ‚Äì Commercial Law  14 
  
-13ñ301. 15 
+13‚Äì301. 15 
  
  Unfair, abusive, or deceptive trade practices include any:  16 
  
   (14) Violation of a provision of:  17 
  
-   (xlii)  Section 12 ñ6Cñ09.1 of the Health Occupations Article; [or] 18 
+   (xlii)  Section 12 ‚Äì6C‚Äì09.1 of the Health Occupations Article; [or] 18 
  
    (xliii)  Title 14, Subtitle 48 of this article; or  19 
  
-   (XLIV) SECTION 14ñ2904  OF THIS ARTICLE ; OR  20 
+   (XLIV) SECTION 14‚Äì2904  OF THIS ARTICLE ; OR  20 
  
-14ñ2901.  21 
+14‚Äì2901.  21 
  
  (a) In this subtitle the following words have the meanings indicated.  22 
  
- (b) ìAdvertiseî means:  23 
+ (b) ‚ÄúAdvertise‚Äù means:  23 
  
   (1) To publish, circulate, disseminate, or place before the public in any way 24 
 or through any medium for the purpose of selling merchandise; and  25 
@@ -98,7 +98,7 @@ or through any medium for the purpose of selling merchandise; and  25
     (iii) Newspaper, magazine, book, notice, or any other method or 1 
 material.  2 
  
- (C) ìCLEAR AND CONSPICUOUS î MEANS IN A MANNER TH AT CLEARLY 3 
+ (C) ‚ÄúCLEAR AND CONSPICUOUS ‚Äù MEANS IN A MANNER TH AT CLEARLY 3 
 CALLS ATTENTION TO T HE LA NGUAGE , INCLUDING TEXT THAT IS: 4 
  
   (1) IN LARGER TYPE THAN T HE SURROUNDING TEXT ; 5 
@@ -109,13 +109,13 @@ TEXT ; OR 7
   (3) SET OFF FROM THE SURR OUNDING TEXT BY SYMB OLS OR OTHER 8 
 MARKS .  9 
  
- (D) ìDIGITAL APPLICATION O R GAMEî MEANS ANY APPLICATIO N OR GAME 10 
+ (D) ‚ÄúDIGITAL APPLICATION O R GAME‚Äù MEANS ANY APPLICATIO N OR GAME 10 
 THAT A PERSON ACCESS ES AND MANIPULATES U SING A SPECIALIZED E LECTRONIC 11 
 GAMING DEVICE , COMPUTER , MOBILE DEVICE , TABLET , OR OTHER DEVICE WITH  A 12 
-DISPLAY SCREEN , INCLUDING ANY ADD ñONS OR ADDITIONAL CO NTENT FOR THE 13 
+DISPLAY SCREEN , INCLUDING ANY ADD ‚ÄìONS OR ADDITIONAL CO NTENT FOR THE 13 
 APPLICATION  OR GAME . 14 
  
- (E) ìDIGITAL AUDIO WORK î MEANS A WORK THAT RE SULTS FROM THE 15 
+ (E) ‚ÄúDIGITAL AUDIO WORK ‚Äù MEANS A WORK THAT RE SULTS FROM THE 15 
 FIXATION OF A SERIES  OF MUSICAL , SPOKEN , OR OTHER SOUNDS THAT  ARE 16 
 TRANSFERRED ELECTRON ICALLY , INCLUDING :  17 
  
@@ -131,47 +131,47 @@ TRANSFERRED ELECTRON ICALLY , INCLUDING :  17
  
   (6) OTHER SOUND RECORDING S. 23 
  
- (F) (1) ìDIGITAL AUDIOVISUAL W ORKî MEANS A SERIES OF RE LATED 24 
+ (F) (1) ‚ÄúDIGITAL AUDIOVISUAL W ORK‚Äù MEANS A SERIES OF RE LATED 24 
 IMAGES THAT , WHEN SHOWN IN SUCCES SION , IMPART AN IMPRESSION  OF MOTION , 25 
 TOGE THER WITH ACCOMPANYI NG SOUNDS .  26 
  
-  (2) ìDIGITAL AUDIOVISUAL W ORKî INCLUDES MOTION PICT URES , 27 
+  (2) ‚ÄúDIGITAL AUDIOVISUAL W ORK‚Äù INCLUDES MOTION PICT URES , 27 
 MUSICALS , VIDEOS , NEWS AND ENTERTAINME NT PROGRAMS , AND LIVE EVENTS . 28 
  
 4 HOUSE BILL 208   
  
-  (G) ìDIGITAL BOOK î MEANS A WORK THAT IS  GENERALLY RECOGNIZED  AS 1 
+  (G) ‚ÄúDIGITAL BOOK ‚Äù MEANS A WORK THAT IS  GENERALLY RECOGNIZED  AS 1 
 A BOOK AND IS TRANSF ERRED ELEC TRONICALLY , INCLUDING A WORK OF FICTION 2 
 OR NONFICTION . 3 
  
- (H) (1) ìDIGITAL CODE î MEANS A CODE THAT GR ANTS THE PERSON 4 
+ (H) (1) ‚ÄúDIGITAL CODE ‚Äù MEANS A CODE THAT GR ANTS THE PERSON 4 
 HOLDING THE CODE A R IGHT TO OBTAIN AN AD DITIONAL DIGITAL GOO D THAT MAY  5 
 BE OBTAINED BY ANY M EANS , INCLUDING TANGIBLE F ORMS AND ELECTRONIC MAIL , 6 
 REGARDLESS OF WHETHE R THE CODE IS DESIGN ATED AS A SONG CODE , VIDEO 7 
 CODE , OR BOOK CODE . 8 
  
-  (2) ìDIGITAL CODE î INCLUDES :  9 
+  (2) ‚ÄúDIGITAL CODE ‚Äù INCLUDES :  9 
  
    (I) A A CODE USED TO ACCESS OR OBTAIN ANY SPECIF IED 10 
 DIGITAL GOODS , OR ANY ADDITIONAL DI GITAL GOODS THAT HAV E BEEN 11 
 PREVIOUSLY P URCHASED ; AND  12 
  
    (II) PROMOTION CARDS OR CO DES THAT ARE PURCHAS ED BY A  13 
-RETAILER OR OTHER BU SINESS ENTITY FOR US E BY THE RETAILER íS OR ENTITY íS 14 
+RETAILER OR OTHER BU SINESS ENTITY FOR US E BY THE RETAILER ‚ÄôS OR ENTITY ‚ÄôS 14 
 CUSTOMERS . 15 
  
- (I) (1) ìDIGITAL GOOD î MEANS A DIGITAL APPL ICATION OR GAME , 16 
+ (I) (1) ‚ÄúDIGITAL GOOD ‚Äù MEANS A DIGITAL APPL ICATION OR GAME , 16 
 DIGITAL AUDIO WORK , DIGITAL AUDIOVISUAL WORK , DIGITAL BOOK , OR DIGITAL 17 
 CODE , WHETHER ELECTRONICAL LY OR DIGITALLY DELI VERED OR ACCESSED . 18 
  
-  (2) ìDIGITAL GOOD î DOES NOT INCLUDE A C ABLE TELEVISION 19 
+  (2) ‚ÄúDIGITAL GOOD ‚Äù DOES NOT INCLUDE A C ABLE TELEVISION 19 
 SERVICE , SATELLITE RELAY TELE VISION SERVICE , OR ANY OTHER DISTRIB UTION OF 20 
 TELEVISION , VIDEO , OR RADIO SERVICE . 21 
  
- [(c)] (J) ìPersonî includes an association, firm, partnership, corporation, or an 22 
+ [(c)] (J) ‚ÄúPerson‚Äù includes an association, firm, partnership, corporation, or an 22 
 agent or employee of any of these entities.  23 
  
- [(d)] (K) ìPropertyî, as used in ß 14 ñ2902(a) through (c) of this subtitle, includes:  24 
+ [(d)] (K) ‚ÄúProperty‚Äù, as used in ¬ß 14 ‚Äì2902(a) through (c) of this subtitle, includes:  24 
  
   (1) Merchand ise; 25 
  
@@ -190,7 +190,7 @@ the making of loans at interest; or  31
   
   (7) Anything else of value.  1 
  
-14ñ2904.  2 
+14‚Äì2904.  2 
  
  (A) A PERSON THAT IS A SELLER  MAY NOT ADVERTISE OR  OFFER FOR SALE 3 
 A DIGITAL GOOD USING  TERMINOLOGY THAT A R EASONABLE PERSON WOU LD 4 
@@ -220,7 +220,7 @@ BUYING A LICENSE FOR  THE DIGITAL GOOD ; AND 19
 DETAILS , TERMS , AND CONDITIONS . 21 
  
  (B) A PERSON MAY NOT ADVER TISE OR OFFER FOR SA LE A DIGITAL GOOD  22 
-ALONGSIDE AN OPTION FOR A T IMEñLIMITED RENTAL , UNLESS , AT THE TIME OF  23 
+ALONGSIDE AN OPTION FOR A T IME‚ÄìLIMITED RENTAL , UNLESS , AT THE TIME OF  23 
 SALE : 24 
  
   (1) THE SELLER RECEIVES A N AFFIRMATIVE ACKNOW LEDGMENT  25 
@@ -267,7 +267,7 @@ SERVER THAT CAN BE A CCESSED THROUGH THE INTERNET .  21
  (F) (E) THIS SECTION DOES NOT  APPLY TO A PERSON WH O ADVERTISES 22 
 OR OFFERS FOR SALE : 23 
  
-  (1) A SUBSCRIPTION ñBASED SERVICE THAT P ROVIDES ACCESS TO A 24 
+  (1) A SUBSCRIPTION ‚ÄìBASED SERVICE THAT P ROVIDES ACCESS TO A 24 
 DIGITAL GOOD ONLY F OR THE DURATION OF T HE SUBSCRIPTION ;  25 
  
   (2) ACCESS TO A DIGITAL G OOD WITHOUT THE REQU IREMENT FOR 26 
@@ -289,7 +289,7 @@ VIOLATION OF THIS SE CTION IS : 5
 THE MEANING OF TITLE 13 OF THIS ARTICLE ; AND  7 
  
   (2) SUBJECT TO THE ENFORC EMENT AND PENALTY PR OVISIONS 8 
-CONTAINED IN TITLE 13 OF THIS ARTICLE , EXCEPT ßß 13ñ408 AND 13ñ411 OF THIS 9 
+CONTAINED IN TITLE 13 OF THIS ARTICLE , EXCEPT ¬ß¬ß 13‚Äì408 AND 13‚Äì411 OF THIS 9 
 ARTICLE  OR IMPRISONMENT NOT EXC EEDING 1 YEAR OR BOTH .  10 
  
  SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 11 

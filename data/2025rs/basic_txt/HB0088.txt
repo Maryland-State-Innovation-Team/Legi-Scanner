@@ -7,7 +7,7 @@ EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW .
 amendment.             *hb0088*      
 HOUSE BILL 88  
 N2   5lr1556  
-  (PRE–FILED)  CF SB 158  
+  (PREâ€“FILED)  CF SB 158  
 By: Delegate Cardin  
 Requested: October 31, 2024  
 Introduced and read first time: January 8, 2025  
@@ -20,7 +20,7 @@ CHAPTER ______
  
 AN ACT concerning  1 
  
-Estates and Trusts – Maryland Trust Decanting Act – Notification and 2 
+Estates and Trusts â€“ Maryland Trust Decanting Act â€“ Notification and 2 
 Document Transmittal   3 
  
 FOR the purpose of specifying the manner in which notice regarding an exercise of the 4 
@@ -29,17 +29,17 @@ Act is required to be provided; and generally relating to the Maryland Trust 6
 Decanting Act.  7 
  
 BY adding to  8 
- Article – Estates and Trusts  9 
-Section 14 –602.1  10 
+ Article â€“ Estates and Trusts  9 
+Section 14 â€“602.1  10 
  Annotated Code of Maryland  11 
  (2022 Replacement Volume and 2024 Supplement)  12 
  
  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 13 
 That the Laws of Maryland read as follows:  14 
  
-Article – Estates and Trust s 15 
+Article â€“ Estates and Trust s 15 
  
-14–602.1.  16 
+14â€“602.1.  16 
  
  (A) NOTICE TO A PERSON UN DER THIS SUBTITLE OR  THE SENDING OF A 17 
 DOCUMENT TO A PERSON  UNDER THIS SUBTITLE SHALL BE ACCOMPLISHE D IN A 18 
@@ -53,7 +53,7 @@ UNDER THIS SUBTITLE : 4
  
   (1) BY PERSONAL SERVICE ; 5 
  
-  (2) BY CERTIFIED MAIL OR FIRST–CLASS MAIL , POSTAGE PREPAID , 6 
+  (2) BY CERTIFIED MAIL OR FIRSTâ€“CLASS MAIL , POSTAGE PREPAID , 6 
 RETURN RECEIPT REQUE STED ; 7 
  
   (3) BY COURIER DELIVERY S ERVICE , DELIVERY SERVICE PREPAID , 8 
@@ -62,15 +62,15 @@ DELIVERY CONFIRMATIO N REQUESTED ; OR 9
   (4) IF A PERSON ENTITLED TO RECEIVE NOTICE UN DER THIS 10 
 SUBTITLE AGREES IN W RITING TO ACCEPT AN ALTERNATIVE FORM OF NOTICE : 11 
  
-   (I) BY FIRST–CLASS MAIL , POSTAGE PREPAID ; 12 
+   (I) BY FIRSTâ€“CLASS MAIL , POSTAGE PREPAID ; 12 
  
    (II) BY FACSIMILE TRANSMIS SION FROM A FACSIMILE DEVICE 13 
 THAT PRODUCES A CONF IRMATION PAGE THAT S PECIFIES THE DATE AN D TIME OF A 14 
 SUCCESSFUL FACSIMILE  TRANSMISSION ; OR 15 
  
-   (III) BY E–MAIL , ACKNOWLEDGEMENT REQU ESTED . 16 
+   (III) BY Eâ€“MAIL , ACKNOWLEDGEMENT REQU ESTED . 16 
  
- (C) (1) A PERSON MAY REVOKE TH E AUTHORIZED FIDUCIA RY’S 17 
+ (C) (1) A PERSON MAY REVOKE TH E AUTHORIZED FIDUCIA RYâ€™S 17 
 AUTHORIZATION TO PRO VIDE NOTICE BY AN ALTE RNATIVE METHOD UNDER  18 
 SUBSECTION (B)(4) OF THIS SECTION BY P ROVIDING NOTICE TO T HE AUTHORIZED 19 
 FIDUCIARY IN A METHO D SPECIFIED UNDER SU BSECTION (B)(1) THROUGH (3) OF 20 

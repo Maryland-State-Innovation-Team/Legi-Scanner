@@ -1,315 +1,289 @@
+ WES MOORE, Governor  Ch. 61  
+ 
+– 1 – Chapter 61  
+(House Bill 272 ) 
+ 
+AN ACT concerning  
+ 
+Maryland Department of Planning – Modernization  
  
+FOR the purpose of requiring the State Administrator of Elections to submit certain 
+information to the Secretary of Planning under certain circumstances; altering a 
+requirement that the Department of the Environment submit certain proposals to 
+the Department of Planning under certain circumstances; altering certain 
+requirements re lated to the Department of Planning preparing certain population 
+projections; repealing a provision authorizing the Secretary of Planning or staff 
+member of the Department of Planning to access certain capital facilities planning 
+information and to enter c ertain State –owned land under certain circumstances; 
+repealing a certain provision authorizing the Department of Planning to include 
+certain funding in the Department’s budget for the Maryland –National Capital Park 
+and Planning Commission; repealing a prov ision requiring the Department of 
+Planning to establish certain statewide classification standards; altering certain 
+provisions requiring the Department of Planning to be a repository and 
+clearinghouse for information relating to State –owned real property;  repealing an 
+obsolete reference to the State Economic Growth, Resource Protection, and Planning 
+Commission; repealing a requirement that each local jurisdiction file a certain report 
+with the State Economic Growth, Resource Protection, and Planning Commis sion; 
+and generally relating to the Department of Planning and State planning.  
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTING LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0272*      
-HOUSE BILL 272  
-P1   5lr0304  
-  (PRE –FILED)  CF SB 236  
-By: Chair, Environment and Transportation Committee (By Request – 
-Departmental – Planning)  
-Requested: October 6, 2024  
-Introduced and read first time: January 8, 2025  
-Assigned to: Environment and Transportation  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: February 18, 2025  
- 
-CHAPTER ______  
- 
-AN ACT concerning  1 
- 
-Maryland Department of Planning – Modernization  2 
- 
-FOR the purpose of requiring the State Administrator of Elections to submit certain 3 
-information to the Secretary of Planning under certain circumstances; altering a 4 
-requirement that the Department of the E nvironment submit certain proposals to 5 
-the Department of Planning under certain circumstances; altering certain 6 
-requirements related to the Department of Planning preparing certain population 7 
-projections; repealing a provision authorizing the Secretary of Planning or staff 8 
-member of the Department of Planning to access certain capital facilities planning 9 
-information and to enter certain State –owned land under certain circumstances; 10 
-repealing a certain provision authorizing the Department of Planning to incl ude 11 
-certain funding in the Department’s budget for the Maryland –National Capital Park 12 
-and Planning Commission; repealing a provision requiring the Department of 13 
-Planning to establish certain statewide classification standards; altering certain 14 
-provisions r equiring the Department of Planning to be a repository and 15 
-clearinghouse for information relating to State –owned real property; repealing an 16 
-obsolete reference to the State Economic Growth, Resource Protection, and Planning 17 
-Commission; repealing a requirem ent that each local jurisdiction file a certain report 18 
-with the State Economic Growth, Resource Protection, and Planning Commission; 19 
-and generally relating to the Department of Planning and State planning.  20 
- 
-BY repealing and reenacting, with amendments,  21 
- Article – Election Law  22 
-2 HOUSE BILL 272   
- 
- Section 2 –303(d)  1 
- Annotated Code of Maryland  2 
- (2022 Replacement Volume and 2024 Supplement)  3 
- 
-BY repealing and reenacting, with amendments,  4 
- Article – Environment  5 
-Section 9 –507(b)  6 
- Annotated Code of Maryland  7 
- (2014 Replacement Volume and 2024 Supplement)  8 
+BY repealing and reenacting, with amendments,  
+ Article – Election Law  
+Section 2 –303(d)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  9 
- Article – State Finance and Procurement  10 
-Section 5 –101 11 
- Annotated Code of Maryland  12 
- (2021 Replacement Volume and 2024 Supplement)  13 
+BY repealing and reenacting, with amendments,  
+ Article – Environment  
+Section 9 –507(b)  
+ Annotated Code of Maryland  
+ (2014 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  14 
- Article  – State Finance and Procurement  15 
-Section 5 –306, 5 –307, 5 –503, and 5 –7A–02 16 
- Annotated Code of Maryland  17 
- (2021 Replacement Volume and 2024 Supplement)  18 
+BY repealing and reenacting, without amendments,  
+ Article – State Finance and Procurement  
+Section  5–101 
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-BY repealing  19 
- Article – State Finance and Procurement  20 
-Section 5 –311, 5 –407, and 5 –502 21 
- Annotated Code of M aryland  22 
- (2021 Replacement Volume and 2024 Supplement)  23 
+BY repealing and reenacting, with amendments,  
+ Article – State Finance and Procurement  
+Ch. 61  2025 LAWS OF MARYLAND   
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 24 
-That the Laws of Maryland read as follows:  25 
+– 2 – Section 5 –306, 5 –307, 5 –503, and 5 –7A–02 
+ Annotated Code of Maryland  
+ (2021 Replacemen t Volume and 2024 Supplement)  
  
-Article – Election Law  26 
+BY repealing  
+ Article – State Finance and Procurement  
+Section 5 –311, 5 –407, and 5 –502 
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-2–303. 27 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
- (d) (1) Within 5 days of creating a new precinct or changing  a precinct 28 
-boundary, a local board shall send to the State Administrator a written description of the 29 
-new boundary and a map of the area involved.  30 
+Article – Election Law  
  
-  (2) ON RECEIPT OF THE DES CRIPTION AND MAP REL ATING TO A 31 
-PRECINCT BOUNDARY DE SCRIBED IN PARAGRAPH  (1) OF T HIS SUBSECTION , THE 32 
-STATE ADMINISTRATOR SHALL I MMEDIATELY SEND THE INFORMATION 33 
-ELECTRONICALLY TO TH E SECRETARY OF PLANNING . 34 
+2–303. 
  
-Article – Environment  35 
+ (d) (1) Within 5 days of creating a new precinct or changing a precinct 
+boundary, a local board shall send to the State Administrator a written description of the 
+new boundary and  a map of the area involved.  
  
-9–507. 36 
- HOUSE BILL 272  3 
+  (2) ON RECEIPT OF THE DES CRIPTION AND MAP REL ATING TO A 
+PRECINCT BOUNDARY DE SCRIBED IN PARAGRAPH  (1) OF THIS SUBSECTION , THE 
+STATE ADMINISTRATOR SHALL I MMEDIATELY SEND THE INFORMATION 
+ELECTRONICALLY TO TH E SECRETARY OF PLANN ING. 
  
-  
- (b) Before the Department approves or disapproves, in whole or in part, a 1 
-proposed county plan or a  proposed revision or amendment of a county plan, the 2 
-Department shall submit the proposal:  3 
+Article – Environment  
  
-  (1) To the Department of Natural Resources for advice on natural 4 
-resources matters;  5 
+9–507. 
  
-  (2) [To] FOR WATER AND SEWERAG E PROPOSALS ONLY , TO the 6 
-Department of Plann ing for advice on the consistency of the proposal with the local master 7 
-plan and other appropriate matters; and  8 
+ (b) Before the Department approves or disapproves, in whole or in part, a 
+proposed county plan or a proposed revision or amendment of a county plan, the 
+Department shall submit the proposal:  
  
-  (3) To the Department of Agriculture for advice on the impact of water and 9 
-sewerage service and solid waste facilities on productive or poten tially productive 10 
-agricultural land.  11 
+  (1) To the Department of  Natural Resources for advice on natural 
+resources matters;  
  
-Article – State Finance and Procurement  12 
+  (2) [To] FOR WATER AND SEWERAG E PROPOSALS ONLY , TO the 
+Department of Planning for advice on the consistency of the proposal with the local master 
+plan and other appropriate matters; and  
  
-5–101. 13 
+  (3) To the Department of Agriculture for advice on the impact of water and 
+sewerage service and solid waste facilities on productive or potentially productive 
+agricultural land.  
  
- (a) In this title the following words have the meanings indicated.  14 
+Article – State Finance and Procurement  
+ WES MOORE, Governor  Ch. 61  
  
- (b) “Department” means the Department of Planning.  15 
+– 3 –  
+5–101. 
  
- (c) “Secretary” means the Secretary of Planning.  16 
+ (a) In this title the following  words have the meanings indicated.  
  
-5–306. 17 
+ (b) “Department” means the Department of Planning.  
  
- (a) The Department shall prepare population projections for the State [and for ], 18 
-each county , and, ON REQUEST OF A MUNI CIPAL CORPORATION , FOR A  municipal 19 
-corporation in the State.  20 
+ (c) “Secretary” means the Secretary of Planning.  
  
- (b) The population projections PREPARED FOR THE STATE AND EACH COUNTY  21 
-shall include details of age, sex, and race.  22 
+5–306. 
  
- (c) The Department shall prepare the population projections for periods of 20 23 
-years, in 5 –year intervals beginning with [1990] 2025 . 24 
+ (a) The Department shall prepare population projections for the State [and for ], 
+each county , and, ON REQU EST OF A MUNICIPAL C ORPORATION , FOR A  municipal 
+corporation in the State.  
  
- (d) Beginning in 1991, the Department shall revise the pop ulation projections at 25 
-least every 3 years.  26 
+ (b) The population projections PREPARED FOR THE STATE AND EACH COUNTY  
+shall include details of age, sex, and race.  
  
- (e) In preparing the population projections for the Washington metropolitan 27 
-[area] AND BALTIMORE METROPOLITA N AREAS , the Department may use the 28 
-population figures developed by the Maryland –National Capital Park  and Planning 29 
-Commission AND THE  BALTIMORE METROPOLITAN COUNCIL , THE METROPOLITAN 30 
-4 HOUSE BILL 272   
+ (c) The Department shall prepare the population projections for  periods of 20 
+years, in 5 –year intervals beginning with [1990] 2025 . 
  
- WASHINGTON COUNCIL OF GOVERNMENTS , AND THE MEMBER JURIS DICTIONS OF 1 
-THESE COUNCILS . 2 
+ (d) Beginning in 1991, the Department shall revise the population projections at 
+least every 3 years.  
  
-5–307. 3 
+ (e) In preparing the population projections for the Washington metropolitan 
+[area] AND BALTIMORE METROPOLITA N AREAS , the Department may use the 
+population figures developed by the Maryland –National Capital Park and Planning 
+Commission AND THE  BALTIMORE METROPOLITAN COUNCIL , THE METROPOLITAN 
+WASHINGTON COUNCIL OF GOVERNMENTS , AND THE M EMBER JURISDICTIONS OF 
+THESE COUNCILS . 
  
- (a) Each year, no later than 60 days before the General Assembly convenes for its  4 
-regular session, the Department shall submit a report to the Governor.  5 
+5–307. 
  
- (b) The annual report shall include:  6 
+ (a) Each year, no later than 60 days before the General Assembly convenes for its 
+regular session, the Department shall submit a report to the Governor.  
  
-  (1) a summary and description of the nature of every section of the State 7 
-Development Plan that has been:  8 
+ (b) The annual report shall include:  
  
-   (i) added, deleted, or revised s ince the last annual report; and  9 
+  (1) a summary and description of the nature of every section of the State 
+Development Plan that has been:  
  
-   (ii) filed by the Governor under § 5 –605 of this title;  10 
+   (i) added, deleted, or revised since the last annual report; and  
  
-  (2) a summary of each important study wholly or partly completed by the 11 
-Department since the last annual report; and  12 
+   (ii) filed by the Governor under § 5 –605 of this title;  
  
-  (3) [summaries of the work of the Department and of the State Economic 13 
-Growth, Resource Protection, and Planning Commission ] A SUMMARY OF THE WOR K OF 14 
-THE DEPARTMENT . 15 
+Ch. 61  2025 LAWS OF MARYLAND   
  
- (c) The Department shall distribute copies of the annual report:  16 
+– 4 –   (2) a summary of each im portant study wholly or partly completed by the 
+Department since the last annual report; and  
  
-  (1) subject to § 2 –1257 of the State Government Articl e, to the General 17 
-Assembly;  18 
+  (3) [summaries of the work of the Department and of the State Economic 
+Growth, Resource Protection, and Planning Commission ] A SUMMARY OF THE WOR K OF 
+THE DEPART MENT . 
  
-  (2) to the head of each department of the State government;  19 
+ (c) The Department shall distribute copies of the annual report:  
  
-  (3) to the head of each local or regional planning agency in the State; and  20 
+  (1) subject to § 2 –1257 of the State Government Article, to the General 
+Assembly;  
  
-  (4) on request, to any federal agency.  21 
+  (2) to the head of each department of the State government;  
  
- (d) The Department shall make copies of th e annual report available for general 22 
-distribution or sale.  23 
+  (3) to the head of each local or  regional planning agency in the State; and  
  
-[5–311. 24 
+  (4) on request, to any federal agency.  
  
- (a) The Secretary or a staff member of the Department designated by the 25 
-Secretary shall have access to information that relates to capital facilities planning in the 26 
-possession of any u nit of the State government.  27 
+ (d) The Department shall make copies of the annual report available for general 
+distribution or sale.  
  
- (b) If the entry is made in a manner so as to cause no unnecessary injury, the 28 
-Secretary or a staff member of the Department designated by the Secretary may enter, at 29 
- HOUSE BILL 272  5 
+[5–311. 
  
- any reasonable hour, on any State –owned land in order to m ake examinations and surveys 1 
-that relate to capital facilities planning. ] 2 
+ (a) The Secretary or a staff member of the Department d esignated by the 
+Secretary shall have access to information that relates to capital facilities planning in the 
+possession of any unit of the State government.  
  
-[5–407. 3 
+ (b) If the entry is made in a manner so as to cause no unnecessary injury, the 
+Secretary or a s taff member of the Department designated by the Secretary may enter, at 
+any reasonable hour, on any State –owned land in order to make examinations and surveys 
+that relate to capital facilities planning. ] 
  
- (a) In this section, “Commission” means the Maryland –National Capital Park 4 
-and Planning Commission.  5 
+[5–407. 
  
- (b) To provide regional planning in the area of the State subject to the jurisdiction 6 
-of the Commission, and except as otherwise provided in this section, the Department may 7 
-include in the annual budget of the Department the amount the Secretary considers 8 
-appropriate as the State’s share of the cost of regional planning pro jects programmed by 9 
-the Commission for the following fiscal year.  10 
+ (a) In this section, “Commission” means the Maryland –National Capital Park 
+and Planning Commission.  
  
- (c) The amount included in the annual budget under subsection (b) of this section 11 
-may not exceed $100,000 in any single year.  12 
+ (b) To provide regional planning in the area of the State subject to the jurisdiction 
+of the Commission, and except as otherwise provided in this section, the Department may 
+include in the annua l budget of the Department the amount the Secretary considers 
+appropriate as the State’s share of the cost of regional planning projects programmed by 
+the Commission for the following fiscal year.  
  
- (d) The Secretary shall determine which regional planning projects programmed 13 
-by the Commission qualify for State assistance.  14 
+ (c) The amount included in the annual budget under subsec tion (b) of this section 
+may not exceed $100,000 in any single year.  
  
- (e) (1) The Commission shall provide the Secretary with any information the 15 
-Secretary requires to determine which regional planning projects programmed by the 16 
-Commission qualify for Stat e assistance.  17 
+ WES MOORE, Governor  Ch. 61  
  
-  (2) On or before August 1 of each year, the Commission shall provide the 18 
-Secretary with a copy of the proposed budget of the Commission for the following fiscal 19 
-year. After the copy of the proposed budget is provided to the Secretary, the Commission 20 
-shall promptly notify the Secretary and obtain the approval of the Secretary for any 21 
-changes in the proposed budget for regional projects funded under this section.  22 
+– 5 –  (d) The Secretary shall determine which regional planning projects programmed 
+by the Commission qualify for State assistance.  
  
- (f) The Secretary may require an annual audit of the operations of the 23 
-Commiss ion that relate to any project financed wholly or partly by payments to the 24 
-Commission from the Department. ] 25 
+ (e) (1) The Commission shall provide the Secretary with a ny information the 
+Secretary requires to determine which regional planning projects programmed by the 
+Commission qualify for State assistance.  
  
-[5–502. 26 
+  (2) On or before August 1 of each year, the Commission shall provide the 
+Secretary with a copy of the proposed  budget of the Commission for the following fiscal 
+year. After the copy of the proposed budget is provided to the Secretary, the Commission 
+shall promptly notify the Secretary and obtain the approval of the Secretary for any 
+changes in the proposed budget for regional projects funded under this section.  
  
- (a) The Department shall establish statewide classification standards for 27 
-geographically referencing all basic planning information coll ected by any unit of the State 28 
-government.  29 
+ (f) The Secretary may require an annual audit of the operations of the 
+Commission that relate to any project financed wholly or partly by payments to the 
+Commission from the Department. ] 
  
- (b) The classification standards may be used by any unit of the State or of a local 30 
-government. ] 31 
+[5–502. 
  
-5–503. 32 
+ (a) The Department shall establish statewide classification standards for 
+geographically referencing all basic planning information collected by any unit of the State 
+government.  
  
-6 HOUSE BILL 272   
+ (b) The classification standards may be used by any unit of the State or of a loca l 
+government. ] 
  
-  (a) The Department shall be a repository [and clearinghouse] for information 1 
-about STATE–OWNED  real property [available for public use ]. 2 
+5–503. 
  
- (b) The Department shall correlate information concerning real property owned 3 
-by the State [or any political subdivision of the State ]. 4 
+ (a) The Department shall be a repository [and clearinghouse] for information 
+about STATE–OWNED  real property [available for public use ]. 
  
- (c) (1) The Department shall maintain a current, updated list of real pro perty 5 
-owned by the State [or any political subdivision of the State ]. 6 
+ (b) The Department shall correlate information concerning real property owned 
+by the State [or any political subdivision of the State ]. 
  
-  (2) The list shall include pertinent details concerning size, facilities, and 7 
-value.  8 
+ (c) (1) The Department shall maintain a current, updated list of real property 
+owned by the State [or any political subdivision of the State ]. 
  
-  (3) A copy of the list and any related information shall be provided to any 9 
-State agency and th e General Assembly upon request.  10 
+  (2) The list shall include pertinent details concerning size, fa cilities, and 
+value.  
  
-5–7A–02. 11 
+  (3) A copy of the list and any related information shall be provided to any 
+State agency and the General Assembly upon request.  
  
- (a) (1) Except as provided in paragraph (2) of this subsection, with respect to 12 
-a State public works, transportation, or major capital improvement project funded through 13 
-State or federal funds, the State may not  provide State funding for the project if the project 14 
-is not consistent with:  15 
+5–7A–02. 
  
-   (i) the State Economic Growth, Resource Protection, and Planning 16 
-Policy established in § 5 –7A–01 of this subtitle; or  17 
+Ch. 61  2025 LAWS OF MARYLAND   
  
-   (ii) the local plan of the jurisdiction in which the  project is located.  18 
+– 6 –  (a) (1) Except as provided in paragraph (2) of this subsection, with respect to 
+a State publ ic works, transportation, or major capital improvement project funded through 
+State or federal funds, the State may not provide State funding for the project if the project 
+is not consistent with:  
  
-  (2) The State may provide State funding for a State public works, 19 
-transportation, or major capital improvement project funded through State or federal funds 20 
-which is not consistent with the policy or plan under paragraph (1) of this  subsection if the 21 
-State determines that extraordinary circumstances exist that warrant proceeding with the 22 
-project and that no reasonably feasible alternative exists.  23 
+   (i) the State Economic Growth, Resource Protection, and  Planning 
+Policy established in § 5 –7A–01 of this subtitle; or  
  
- (b) (1) Except as provided in paragraph (2) of this subsection with respect to a 24 
-local  construction project involving the use of State funds, grants, loans, loan guaranties, 25 
-or insurance, a local jurisdiction may not approve or construct the project unless the project 26 
-is consistent with the local plan.  27 
+   (ii) the local plan of the jurisdiction in which the project is located.  
  
-  (2) A local jurisdiction may approv e and construct a local construction 28 
-project which is inconsistent with the local plan under paragraph (1) of this subsection if 29 
-the local jurisdiction determines that extraordinary circumstances exist that warrant 30 
-proceeding with the project and that no r easonably feasible alternative exists.  31 
+  (2) The State may provide State funding for a State public works, 
+transportation, or major capital improvement pr oject funded through State or federal funds 
+which is not consistent with the policy or plan under paragraph (1) of this subsection if the 
+State determines that extraordinary circumstances exist that warrant proceeding with the 
+project and that no reasonabl y feasible alternative exists.  
  
- (c) By December 1, 1992 the Governor shall establish procedures for review of 32 
-State projects under subsection (a) of this section, and each local jurisdiction shall establish 33 
-procedures for the review of local proje cts under subsection (b) of this section, to:  34 
+ (b) (1) Except as provided in paragraph (2) of this subsection with respect to a 
+local construction project involving the use of State funds, grants, loans, loan guaranties, 
+or insurance, a local jurisdiction may not approv e or construct the project unless the project 
+is consistent with the local plan.  
  
- HOUSE BILL 272  7 
+  (2) A local jurisdiction may approve and construct a local construction 
+project which is inconsistent with the local plan under paragraph (1) of this subsection if 
+the loca l jurisdiction determines that extraordinary circumstances exist that warrant 
+proceeding with the project and that no reasonably feasible alternative exists.  
  
-   (1) ensure that the projects are consistent with their respective policy and 1 
-plans; and  2 
+ (c) By December 1, 1992 the Governor shall establish procedures for review of 
+State projects und er subsection (a) of this section, and each local jurisdiction shall establish 
+procedures for the review of local projects under subsection (b) of this section, to:  
  
-  (2) evaluate extraordinary circumstances under subsections (a)(2) and 3 
-(b)(2) of this section, respectively.  4 
+  (1) ensure that the projects are consistent with their respective policy and 
+plans; and  
  
- [(d) Each local jurisdiction shall report on or before February 1 of each year to the 5 
-State Economic Growth, Resource Protection, and Planning Commission on the number 6 
-and type of projects approved under subsection (b)(2) of this section during the preceding 7 
-calendar year, including a description of the extraordinary circumstances existing and the 8 
-alternatives considered, together with any additional information required by the 9 
-Commission. ] 10 
+  (2) evaluate extraordinary circumstances under subsections (a)(2) and 
+(b)(2) of this section, respectively.  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 11 
-October 1, 2025.  12 
+ [(d) Each local jurisdiction shall report on or before February 1 of each year to the 
+State Economic Growth, Resource Protection, and Planning Commission on the number 
+and type of projects approved under subsection (b)(2) of this section during the preceding 
+calendar year, including a description of the extraordinary circumstances existing and the 
+alternatives considered, together with any additi onal information required by the 
+Commission. ] 
  
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
+ WES MOORE, Governor  Ch. 61  
  
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+– 7 – Approved by the Governor, April 8, 2025.  

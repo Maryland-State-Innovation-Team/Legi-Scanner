@@ -9,7 +9,7 @@ amendment.
 HOUSE BILL 222  
 C2, E4    (5lr1479 ) 
 ENROLLED BILL  
-— Environment and Transportation/Education, Energy, and the Environment  — 
+â€” Environment and Transportation/Education, Energy, and the Environment  â€” 
 Introduced by Delegate Stein  Delegates Stein, Boyce, Holmes, Otto, Ruth, and 
 Terrasa  
  
@@ -22,7 +22,7 @@ Proofreader.
  
 Sealed with the Great Seal and presented to the Governor, for his approval this  
   
-_______ day of _______________ at ________________________ o’clock, ________M.  
+_______ day of _______________ at ________________________ oâ€™clock, ________M.  
   
 ______________________________________________  
 Speaker .  
@@ -31,12 +31,12 @@ CHAPTER ______
  
 AN ACT concerning  1 
  
-Public Safety – Fuel Gas Piping Systems and  Corrugated Stainless Steel Tubing 2 
-for Fuel Gas Piping Systems – Requirements and Prohibitions  – Prohibitions 3 
+Public Safety â€“ Fuel Gas Piping Systems and  Corrugated Stainless Steel Tubing 2 
+for Fuel Gas Piping Systems â€“ Requirements and Prohibitions  â€“ Prohibitions 3 
 and Study  4 
  
 FOR the purpose of prohibiting the sale, offer for sale, transfer, or distribution of  5 
-non–arc–resistant jacketed  corrugated stainless steel tubing that does not meet 6 
+nonâ€“arcâ€“resistant jacketed  corrugated stainless steel tubing that does not meet 6 
 certain qualifications; requiring certain tubing used ; establishing a certain civil 7 
 penalty for a person who uses certain tubing  in the construction of fuel gas piping 8 
 systems in certain buildings to me et certain qualifications ; requiring  the Maryland 9 
@@ -49,26 +49,26 @@ piping systems, gas piping, and  corrugated stainless steel tubing.  14
  
   
 BY adding to  1 
- Article – Business Regulation  2 
-Section 19 –108 3 
+ Article â€“ Business Regulation  2 
+Section 19 â€“108 3 
  Annotated Code of Maryland  4 
  (2024 Replacement Volume)  5 
  
 BY repealing and reenacting, with amendments,  6 
- Article – Public Safety  7 
-Section 12 –206 8 
+ Article â€“ Public Safety  7 
+Section 12 â€“206 8 
  Annotated Code of Maryland  9 
  (2022 Replacement Volume and 2024 Supplement)  10 
  
  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 11 
 That the Laws of Maryland read as follows:  12 
  
-Article – Business Regulation  13 
+Article â€“ Business Regulation  13 
  
-19–108. 14 
+19â€“108. 14 
  
  (A) A PERSON MAY NOT SELL , OFFER FOR SALE , TRANSFER , OR DISTRIBUTE  15 
-NON–ARC–RESISTANT JACKETED  CORRUGATED STAINLESS  STEEL TUBING THAT : 16 
+NONâ€“ARCâ€“RESISTANT JACKETED  CORRUGATED STAINLESS  STEEL TUBING THAT : 16 
  
   (1) DOES NOT MEET THE RE QUIREMENTS OF THE LC1027  STANDARD  17 
 DESCRIBED IN THE MOS T RECENT EDITION OF THE INTERNATIONAL FUEL AND GAS 18 
@@ -80,14 +80,14 @@ OF ELECTRICAL ARCING  CHARGE BY AN ELECTRI CAL ARCING TEST . 21
  (B) A PERSON WHO VIOLATES THIS SECTION IS SUBJ ECT TO A CIVIL 22 
 PENALTY NOT EXCEEDIN G $1,000.  23 
  
-Article – Public Safety  24 
+Article â€“ Public Safety  24 
  
-12–206. 25 
+12â€“206. 25 
  
  (a) This section applies to any building that uses fuel gas piping systems not 26 
 subject to  Title 49, Part 192 of the Code of Federal Regulations.  27 
  
- (b) [Non–arc–resistant jacketed ] ONLY corrugated stainless steel tubing THAT  28 
+ (b) [Nonâ€“arcâ€“resistant jacketed ] ONLY corrugated stainless steel tubing THAT  28 
 MEETS THE REQUIREMEN TS OF THE LC1027  STANDARD DESCRIBED I N THE MOST  29 
 RECENT EDITION OF TH E INTERNATIONAL FUEL AND GAS CODE  ISSUED BY THE  30 
 INTERNATIONAL CODE COUNCIL OR HAS BEEN P ROVEN TO WITHSTAND A T LEAST  31 
@@ -96,7 +96,7 @@ INTERNATIONAL CODE COUNCIL OR HAS BEEN P ROVEN TO WITHSTAND A T LEAST  31
  36 COULOMBS OF ELECTRIC AL ARCING CHARGE BY AN ELECTRICAL ARCING  TEST  1 
 may [not] be used in:  2 
  
-  (1) the new construction of a customer –owned natural gas or liquefied 3 
+  (1) the new construction of a customer â€“owned natural gas or liquefied 3 
 propane p iping system in a building;  4 
  
   (2) a natural gas or liquefied propane piping system in a renovated 5 
@@ -136,8 +136,8 @@ and corrugated stainless steel tubing;  29
  
   (5) identify potential legislative or regulatory changes in the State to 30 
 prevent or minimize the fire h azards associated with fuel gas piping systems, including gas 31 
-piping and corrugated stainless steel tubing , § 12–206 of the Public Safety Article, and if 32 
-enacted by S.B. 175 or H.B. 222 of 2025, § 19 –108 of the Business Regulation Article ; 33 
+piping and corrugated stainless steel tubing , Â§ 12â€“206 of the Public Safety Article, and if 32 
+enacted by S.B. 175 or H.B. 222 of 2025, Â§ 19 â€“108 of the Business Regulation Article ; 33 
  
 4 HOUSE BILL 222   
  
@@ -150,7 +150,7 @@ address aggravating factors that may reasonably contribute to the failure or 5
 malfunctioning of fuel gas piping systems, including gas piping and corrugated stainless 6 
 steel tubing, and create a fire hazard, such as improper installation or gro unding;  7 
  
-  (8) assess the prevalence of non –arc–resistant jacketed corrugated 8 
+  (8) assess the prevalence of non â€“arcâ€“resistant jacketed corrugated 8 
 stainless steel tubing in residential and commercial buildings and the fire hazards that this 9 
 presents; and  10 
  
@@ -171,12 +171,12 @@ tubing.  19
  
  (d) (1) On or before December 1, 2025, the Department and the Office shall 20 
 submit an interim report of its findings and recommendations to the Governor and, in 21 
-accordance with § 2 –1257 of the State Government Article, the Senate Committee on 22 
+accordance with Â§ 2 â€“1257 of the State Government Article, the Senate Committee on 22 
 Education, Energy, and the Environment and the House Environment and Transportation 23 
 Committee.  24 
  
   (2) On or before Septem ber 1, 2026, the  Department and the  Office shall 25 
-report its findings and recommendations to the Governor and, in accordance with § 2 –1257 26 
+report its findings and recommendations to the Governor and, in accordance with Â§ 2 â€“1257 26 
 of the State Government Article, the Senate Committee on Education, Energy, and the 27 
 Environment and the House Environm ent and Transportation Committee.  28 
  

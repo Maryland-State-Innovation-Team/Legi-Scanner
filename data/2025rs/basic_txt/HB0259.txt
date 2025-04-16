@@ -1,370 +1,344 @@
+ WES MOORE, Governor  Ch. 91  
  
+– 1 – Chapter 91  
+(House Bill 259 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0259*      
-HOUSE BILL 259  
-F1   5lr0096  
-  (PRE –FILED)  CF SB 202  
-By: Chair, Judiciary Committee (By Request – Departmental – State Police) and 
-Delegate Conaway  
-Requested: September 28, 2024  
-Introduced and read first time: January 8, 2025  
-Assigned to: Judiciary  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: February 27, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Public Safety – Statewide DNA Database System, DNA Collection, and Penalties 
+– Alterations  
  
-AN ACT concerning  1 
+FOR the purpose of requiring a certain DNA sample to be collected in a certain manner 
+from an individual who is required to register as a sex offender; requiring a DNA 
+sample to be collected by a certain individual or at a certain location under certain 
+circumstances; requiring a custodial agen cy or correctional facility to ensure a DNA 
+sample is collected in a certain manner; prohibiting a DNA sample from being tested 
+and placed in a certain statewide DNA database system until certain conditions are 
+met; prohibiting an individual from refusing to provide a DNA sample as required 
+for collection in the database system; requiring certain DNA samples or DNA records 
+to be destroyed and expunged under certain circumstances; and generally relating 
+to the statewide DNA database system and the collection  of DNA samples.  
  
-Public Safety – Statewide DNA Database System, DNA Collection, and Penalties 2 
-– Alterations  3 
+BY repealing and reenacting, without amendments,  
+ Article – Public Safety  
+ Section 2 –501 
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of requiring a certain DNA sample to be collected in a certain manner 4 
-from an individual who is required to register as a sex offender; requiring a DNA 5 
-sample to be collected by a certain individual or at a certain location under certain 6 
-circumstances; requiring a custodial agency or correctional facility to ensure a DNA 7 
-sample is collected in a certain manner; prohibiting a DNA sample from being tested 8 
-and placed in a certain statewide DNA database system until certain conditions are 9 
-met; prohibiting an individual from refusing to provide a DNA sample as required 10 
-for collection in the database system; requiring certain DNA samples or DNA records 11 
-to be destroyed and  expunged under certain circumstances; and generally relating 12 
-to the statewide DNA database system and the collection of DNA samples.  13 
+BY repealing and reenacting, with amendments,  
+ Article – Public Safety  
+ Section 2 –504 and 2 –511 
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  14 
- Article – Public Safety  15 
- Section 2 –501 16 
- Annotated Code of Maryland  17 
- (2022 Replacement Volume and 2024 Supplement)  18 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  19 
- Article – Public Safety  20 
- Section 2 –504 and 2 –511 21 
-2 HOUSE BILL 259   
+Article – Public Safety  
  
-  Annotated Code of Maryland  1 
- (2022 Replacement Volume and 2024 Supplement)  2 
+2–501. 
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 3 
-That the Laws of Maryland read as follows:  4 
+ (a) In this subtitle the following words have the meanings indicated.  
  
-Article – Public Safety  5 
+ (b) “Burglary” includes the crimes enumerated in §§ 6 –202, 6 –203, and 6 –204 of 
+the Criminal Law Article.  
  
-2–501. 6 
+ (c) (1) “CODIS” means the Federal Bureau of Investigation’s “Combi ned DNA 
+Index System” that allows the storage and exchange of DNA records submitted by federal, 
+state, and local forensic DNA laboratories.  
+Ch. 91  2025 LAWS OF MARYLAND   
  
- (a) In this subtitle the following words have the meanings indicated.  7 
+– 2 –  
+  (2) “CODIS” includes the national DNA index administered and operated 
+by the Federal Bureau of Investigation.  
  
- (b) “Burglary” includes the crimes enumerated in §§ 6 –202, 6 –203, and 6 –204 of 8 
-the Criminal Law Article.  9 
+ (d) “Crime Laboratory” means the Forensic Sciences Division of the Department.  
  
- (c) (1) “CODIS” means the Federal Bureau of Investigation’s “Combined DNA 10 
-Index System” that allows the storage and exchange of DNA records submitted by federal, 11 
-state, and local forensic DNA laboratories.  12 
+ (e) (1) Except as provided in paragraph (2) of this subsection, “crime of 
+violence” has the meaning stated in § 14 –101 of the Criminal Law Article.  
  
-  (2) “CODIS” incl udes the national DNA index administered and operated 13 
-by the Federal Bureau of Investigation.  14 
+  (2) “Crime of violence” does not include mayhem.  
  
- (d) “Crime Laboratory” means the Forensic Sciences Division of the Department.  15 
+ (f) “Director” means the Director of the Crime Laboratory or the Director’s 
+designee.  
  
- (e) (1) Except as provided in paragraph (2) of this subsection, “crime of 16 
-viole nce” has the meaning stated in § 14 –101 of the Criminal Law Article.  17 
+ (g) “DNA” means deoxyribonucleic acid.  
  
-  (2) “Crime of violence” does not include mayhem.  18 
+ (h) (1) “DNA record” means DNA information stored in CODIS or the 
+statewide DNA database system.  
  
- (f) “Director” means the Director of the Crime Laboratory or the Director’s 19 
-designee.  20 
+  (2) “DNA record” includes the information commonly referred to as a DNA 
+profile.  
  
- (g) “DNA” means deoxyribonucleic acid.  21 
+ (i) “DNA sample” means a body fluid or tissue sample that is:  
  
- (h) (1) “DNA record” means DNA information stored in CODIS or the 22 
-statewide DNA database system.  23 
+  (1) provided by an individual who is convicted of a felony or a violation of § 
+6–205 or § 6 –206 of the Crimi nal Law Article;  
  
-  (2) “DNA record” includes the information commonly referred to as a DNA 24 
-profile.  25 
+  (2) provided by an individual who is charged with:  
  
- (i) “DNA sample” means a body fluid or tissue sample that is:  26 
+   (i) a crime of violence or an attempt to commit a crime of violence; 
+or 
  
-  (1) provided  by an individual who is convicted of a felony or a violation of § 27 
-6–205 or § 6 –206 of the Criminal Law Article;  28 
+   (ii) burglary or an attempt to commit burglary; or  
  
-  (2) provided by an individual who is charged with:  29 
+  (3) submitted to the statewide DNA database system for testing as part of 
+a criminal investigation.  
  
- HOUSE BILL 259  3 
+ (j) “Statewide DNA database system” means the DNA record system 
+administered by the Department for identification purposes.  
  
-    (i) a crime of violence or an attempt to commit a crime of violence; 1 
-or 2 
+ (k) “Statewide DNA repository” means the State repository of DNA samples 
+collec ted under this subtitle.  
  
-   (ii) burg lary or an attempt to commit burglary; or  3 
+2–504. 
  
-  (3) submitted to the statewide DNA database system for testing as part of 4 
-a criminal investigation.  5 
+ WES MOORE, Governor  Ch. 91  
  
- (j) “Statewide DNA database system” means the DNA record system 6 
-administered by the Department for identifica tion purposes.  7 
+– 3 –  (a) (1) In accordance with regulations adopted under this subtitle, an 
+individual who is convicted of a felony or a violation of § 6 –205 or § 6 –206 of the Criminal 
+Law Article shall:  
  
- (k) “Statewide DNA repository” means the State repository of DNA samples 8 
-collected under this subtitle.  9 
+   (i) have a DNA sample collected either at the time of sentence or on 
+intake to a correctional facility, if the individual is sentenced to a term of imprisonment; or  
  
-2–504. 10 
+   (ii) provide a DNA sample as a condition of sentence or probation, if 
+the individual is not sentenced to a term of impr isonment.  
  
- (a) (1) In accordance with regulations adopted under this subtitle, an 11 
-individual who is convicted of a felony or a violation  of § 6 –205 or § 6 –206 of the Criminal 12 
-Law Article shall:  13 
+  (2) An individual who was convicted of a felony or a violation of § 6 –205 or 
+§ 6–206 of the Criminal Law Article on or before October 1, 2003 and who remains confined 
+in a correctional facility on or after October 1, 1999, shall submit a DNA s ample to the 
+Department.  
  
-   (i) have a DNA sample collected either at the time of sentence or on 14 
-intake to a correctional facility, if the individual is sentenced to a term of imprisonment; or  15 
+  (3) (i) In accordance with regulations adopted under this subtitle, a 
+DNA sample shall be collected from an individual who is charged with:  
  
-   (ii) provide a DNA sample  as a condition of sentence or probation, if 16 
-the individual is not sentenced to a term of imprisonment.  17 
+    1. a crime of violence or an attempt to commit a crime of 
+violence; or  
  
-  (2) An individual who was convicted of a felony or a violation of § 6 –205 or 18 
-§ 6–206 of the Criminal Law Article on or before October 1, 2003 and who  remains confined 19 
-in a correctional facility on or after October 1, 1999, shall submit a DNA sample to the 20 
-Department.  21 
+    2. burg lary or an attempt to commit burglary.  
  
-  (3) (i) In accordance with regulations adopted under this subtitle, a 22 
-DNA sample shall be collected from an individual who is charged with:  23 
+   (ii) At the time of collection of the DNA sample under this 
+paragraph, the individual from whom a sample is collected shall be given notice that the 
+DNA record may be expunged and the DNA sample destroyed in accor dance with § 2 –511 
+of this subtitle.  
  
-    1. a crime of violence or an attempt to commit a crime of 24 
-violence; or  25 
+   (iii) DNA evidence collected from a crime scene or collected as 
+evidence of sexual assault at a hospital that a law enforcement investigator considers 
+relevant to the identification or exoneration of a suspect shall  be tested as soon as 
+reasonably possible following collection of the sample.  
  
-    2. burglary or an attempt to commit burglary.  26 
+  (4) AN INDIVIDUAL REQUIRE D TO REGISTER AS A S EX OFFENDER 
+UNDER § 11–704 OF THE CRIMINAL PROCEDURE ARTICLE SHALL HAVE A DNA  
+SAMPLE COLLECTED BY THE SUPERVISING AUTH ORITY WHERE THE INDIVIDUAL IS 
+INITIALLY REQUIRED T O REGISTER . 
  
-   (ii) At the time of collection of the DNA sample under this 27 
-paragraph, the individual from whom a sample is collected s hall be given notice that the 28 
-DNA record may be expunged and the DNA sample destroyed in accordance with § 2 –511 29 
-of this subtitle.  30 
+ (b) In accordance with regulations adopted under this subtitle, each DNA sample 
+required to be collected under this section shall be collected:  
  
-   (iii) DNA evidence collected from a crime scene or collected as 31 
-evidence of sexual assault at a hospital that a law enfor cement investigator considers 32 
-4 HOUSE BILL 259   
+  (1) BY AN INDIVIDUAL WHO  IS:  
  
- relevant to the identification or exoneration of a suspect shall be tested as soon as 1 
-reasonably possible following collection of the sample.  2 
+   (I) DESIGNATED BY THE DIRECTOR ; AND  
  
-  (4) AN INDIVIDUAL REQUIRE D TO REGISTER AS A S EX OFFENDER 3 
-UNDER § 11–704 OF THE CRIMINAL PROCEDURE ARTICLE SHALL HAVE A DNA  4 
-SAMPLE COLLECTED BY THE SUPERVISING AUTH ORITY WHERE THE INDI VIDUAL IS 5 
-INITIALLY REQUIRED T O REGISTER . 6 
+Ch. 91  2025 LAWS OF MARYLAND   
  
- (b) In accordance with regulations adopted under this subtitle, each DNA sample 7 
-required to be collected under  this section shall be collected:  8 
+– 4 –    (II) TRAINED IN THE COLLE CTION PROCEDURES THA T THE 
+CRIME LABORATORY USES ; AND  
  
-  (1) BY AN INDIVIDUAL WHO  IS:  9 
+  (2) (I) at the time the individual is charged, [at a facility specified by 
+the Secretary ] BY AN EMPLOYEE OF A BOOKING FACILITY OR THE ARRESTING 
+AGENCY ;  
  
-   (I) DESIGNATED BY THE DIRECTOR ; AND  10 
+   (II) AFTER A CONVICTION O F A QUALIFYING CRIME  UNDER 
+SUBSECTION (A)(1) OF THIS SECTION :  
  
-   (II) TRAINED IN THE COLLE CTION PROCEDURES THA T THE 11 
-CRIME LABORATORY USES ; AND  12 
+  [(2)]  1. BY AN EMPLOYEE OF A CORRECTIONAL FACILIT Y AT 
+THE TIME OF INTAKE  at the correctional fac ility where the individual is confined, if the 
+individual is confined in a correctional facility on or after October 1, 2003, or is sentenced 
+to a term of imprisonment on or after October 1, 2003;  
  
-  (2) (I) at the time the individual is charged, [at a facility specified by 13 
-the Secretary ] BY AN EMPLOYEE OF A BOOKING FACILITY OR THE ARRESTING 14 
-AGENCY ;  15 
+  [(3)]  2. at a facility specified by the Director, if t he individual is 
+on probation or is not sentenced to a term of imprisonment; or  
  
-   (II) AFTER A CONVICTION O F A QUALIFYING CRIME  UNDER 16 
-SUBSECTION (A)(1) OF THIS SECTION :  17 
+  [(4)]  3. at a suitable location in a circuit court following the 
+imposition of sentence; OR 
  
-  [(2)]  1. BY AN EMPLOYEE OF A CORRECTIONAL FACILIT Y AT 18 
-THE TIME OF INT AKE at the correctional facility where the individual is confined, if the 19 
-individual is confined in a correctional facility on or after October 1, 2003, or is sentenced 20 
-to a term of imprisonment on or after October 1, 2003;  21 
+   (III) AT THE TIME OF REGIS TRATION AS A SEX OFF ENDER UNDER 
+§ 11–704 OF THE CRIMINAL PROCEDURE ARTICLE , BY THE SUPERVISING 
+AUTHORITY WHERE THE INDIVIDUAL IS INITIA LLY REQUIRED TO REGI STER , IF 
+APPLICABLE . 
  
-  [(3)]  2. at a facility specified by the Director, if the individual is 22 
-on probation or is not sentenced to a term of imprisonment; or  23 
+ [(c) A DNA sample shall be collected by an individual who is:  
  
-  [(4)]  3. at a suitable location in a circuit court following the 24 
-imposition of sentence; OR 25 
+  (1) designated by the Director; and  
  
-   (III) AT THE TIME OF REGIS TRAT ION AS A SEX OFFENDE R UNDER 26 
-§ 11–704 OF THE CRIMINAL PROCEDURE ARTICLE , BY THE SUPERVISING 27 
-AUTHORITY WHERE THE INDIVIDUAL IS INITIA LLY REQUIRED TO REGI STER , IF 28 
-APPLICABLE . 29 
+  (2) trained in the collection procedures that the Crime Laboratory uses. ] 
  
- [(c) A DNA sample shall be collected by an individual who is:  30 
+ (C) BEFORE RELEASING AN I NDIVIDUAL FROM CUSTO DY, THE CUSTODIAL 
+AGENCY OR CORRECTION AL FACILITY SHALL EN SURE THAT THE INDIVI DUAL’S DNA  
+SAMPLE HAS BEEN COLL ECTED IN ACCORDANCE WITH THIS SECTION . 
  
-  (1) designated by  the Director; and  31 
+ (d) (1) IN THIS SUBSECTION , “POLICE OFFICER ” HAS THE MEANING 
+STATED IN § 3–301 OF THIS ARTICLE . 
  
- HOUSE BILL 259  5 
+  (2) A DNA sample collected from an individual charged with a crime under 
+subsection (a)(3) of this section may not ONLY  be tested or placed in the statewide DNA 
+database system  [prior to the first scheduled arraignment date ]: 
  
-   (2) trained in the collection procedures that the Crime Laboratory uses. ] 1 
+   (I) UNTIL  IF: 
+ WES MOORE, Governor  Ch. 91  
  
- (C) BEFORE RELEASING AN I NDIVIDUAL FROM CUSTO DY, THE CUSTODIAL 2 
-AGENCY OR CORRECTION AL FACILITY SHALL EN SURE THAT THE INDIVI DUAL’S DNA  3 
-SAMPLE HAS BEEN COLL ECTE D IN ACCORDANCE WITH  THIS SECTION . 4 
+– 5 –  
+    1. A DETERMINATION IS M ADE BY A JUDGE OR 
+COMMISSIONER OF THE DISTRICT COURT OR A JUDGE OF T HE CIRCUIT COURT , 
+BASED ON AN APPLICATION FOR A ST ATEMENT OF CHARGES F ILED BY A POLICE 
+OFFICER OR A STATE’S ATTORNEY , THAT PROBABLE CAUSE EXISTS FOR A 
+QUALIFYING CRIME IN ACCORDANCE WITH THE MARYLAND RULES ; 
  
- (d) (1) IN THIS SUBSECTION , “POLICE OFFICER ” HAS THE MEANING 5 
-STATED IN § 3–301 OF THIS ARTICLE . 6 
+    2. THE INDIVIDUAL HAS B EEN ARRESTED FOR A 
+QUALIFYING CHARGE  CRIME  IN ACCOR DANCE WITH AN ARREST  WARRANT BASED ON 
+AN APPLICATION FOR A  STATEMENT OF CHARGES  FILED BY A POLICE OF FICER OR A 
+STATE’S ATTORNEY ;  
  
-  (2) A DNA sample collected from an individual charged with a crime under 7 
-subsection (a)(3) of this section may not ONLY  be tested or placed in the statewide DNA 8 
-database system  [prior to the first scheduled arraignment date ]: 9 
+    3. AN INFORMATION IS FI LED BY A STATE’S ATTORNEY 
+FOR A QUALIFYING CRI ME IN ACCORDANCE WIT H § 4–102 OF THE CRIMINAL 
+PROCEDURE ARTICLE ; OR  
  
-   (I) UNTIL  IF: 10 
+    4. AN INDICTMENT IS RET URNED BY A GRAND JUR Y 
+CHARGING THE INDIVID UAL WITH A QUALIFYIN G CRIME ; OR 
  
-    1. A DETERMINATION IS M ADE BY A JUDGE OR 11 
-COMMISSIONER OF THE DISTRICT COURT OR A JUDGE OF T HE CIRCUIT COURT , 12 
-BASED ON AN APPLI CATION FOR A STATEME NT OF CHARGES FILED BY A POLICE 13 
-OFFICER OR A STATE’S ATTORNEY , THAT PROBABLE CAUSE EXISTS FOR A 14 
-QUALIFYING CRIME IN ACCORDANCE WITH THE MARYLAND RULES ; 15 
+   (II) unless req uested or consented to by the individual as provided in 
+paragraph (3) (4) of this subsection.  
  
-    2. THE INDIVIDUAL HAS B EEN ARRESTED FOR A 16 
-QUALIFYING CHARGE  CRIME  IN ACCORDANCE  WITH AN ARREST WARRA NT BASED ON 17 
-AN APPLICATION FOR A  STATEMENT OF CHARGES  FILED BY A POLICE OF FICER OR A 18 
-STATE’S ATTORNEY ;  19 
+  (2) (3)  If all qualifying criminal charges are determined to be 
+unsupported by probable cause:  
  
-    3. AN INFORMATION IS FI LED BY A STATE’S ATTORNEY 20 
-FOR A QUALIFYING CRI ME IN ACCORDANCE WIT H § 4–102 OF THE CRIMINAL 21 
-PROCEDURE ARTICLE ; OR  22 
+   (i) the DNA sample shall be immediately destroyed; and  
  
-    4. AN INDICTMENT IS RET URNED BY A GRAND JUR Y 23 
-CHARGING THE INDIVID UAL WITH A QUALIFYIN G CRIME ; OR 24 
+   (ii) notice shall be sent to the defendant and counsel of record for the 
+defendant that the sample was destroyed.  
  
-   (II) unless requested or consented to by the individual as provided in 25 
-paragraph (3) (4) of this subsection.  26 
+  (3) (4)  An individual may request or consent to have the individual’s 
+DNA sample processed prior to [arraignment ] A PROBABLE CAUSE DET ERMI NATION  for 
+the sole purpose of having the sample checked against a sample that:  
  
-  (2) (3)  If all qualifying criminal charges are determined to be 27 
-unsupported by probable cause:  28 
+   (i) has been processed from the crime scene or the hospital; and  
  
-   (i) the DNA sample shall be immediately destroyed ; and  29 
+   (ii) is related to the charges against the individual.  
  
-   (ii) notice shall be sent to the defendant and counsel of record for the 30 
-defendant that the sample was destroyed.  31 
+ (e) A second DNA sample shall be taken if needed to obtain sufficient DNA for 
+the statewide DNA database system or if ordered by the court for good cause shown.  
  
-6 HOUSE BILL 259   
+ (f) Failure of an individual who is not sentenced to a term of imprisonment to 
+provide a DNA sample within 90 days after notice by the Director is a violation of probation.  
  
-   (3) (4)  An individual may request or consent to have the individual’s 1 
-DNA sample processed prior to [arraignment ] A PROBABLE CAU SE DETERMINATION  for 2 
-the sole purpose of having the sample checked against a sample that:  3 
+Ch. 91  2025 LAWS OF MARYLAND   
  
-   (i) has been processed from the crime scene or the hospital; and  4 
+– 6 –  (G) (1) AN INDIVIDUAL MAY NOT  REFUSE TO PROVIDE A DNA  SAMPLE IN 
+ACCORDANCE WITH THIS  SECTION . 
  
-   (ii) is related to the charges against the individual.  5 
+  (2) AN INDIVIDUAL WHO VIO LATES PARAGRAPH (1) OF THIS 
+SUBSECTION IS GUILTY  OF A MISDEMEANOR AND  ON CONVICTION IS SUB JECT TO A 
+FINE NOT EXCEEDING $10,000  $1,000 . 
  
- (e) A second DNA sample shall be taken if needed to obtain sufficient DNA for 6 
-the statewide DNA database system or if ordered by the court for good cause shown.  7 
+ (H) (1) AN EMPLOYEE WHO ATTEM PTS TO COLLECT A DNA  SAMPLE IN 
+ACCORDANCE WITH THIS  SECTION , BUT IS U NABLE TO COLLECT THE  SAMPLE 
+BECAUSE THE INDIVIDU AL WHO IS REQUIRED T O SUBMIT THE SAMPLE REFUSES TO 
+DO SO , SHALL BE DEEMED TO H AVE DISCHARGED THE E MPLOYEE ’S DUTY UNDER 
+THIS SECTION .  
  
- (f) Failure of an individual who is not sentenced to a term of imprisonment to 8 
-provide a DNA sample within 90 days after notic e by the Director is a violation of probation.  9 
+  (2) A REFUSAL TO SUBMIT A DNA  SAMPLE AS REQUIRED U NDER THIS 
+SECTION SHA LL BE REFERRED TO TH E STATE’S ATTORNEY ’S OFFICE FOR 
+PROSECUTION UNDER SU BSECTION (G) OF THIS SECTION . 
  
- (G) (1) AN INDIVIDUAL MAY NOT  REFUSE TO PROVIDE A DNA  SAMPLE IN 10 
-ACCORDANCE WITH THIS  SECTION . 11 
+2–511. 
  
-  (2) AN INDIVIDUAL WHO VIO LATES PARAGRAPH (1) OF THIS 12 
-SUBSECTION IS GUILTY  OF A MISDEMEANOR AND  ON CONVICTION I S SUBJECT TO A 13 
-FINE NOT EXCEEDING $10,000  $1,000 . 14 
+ (a) (1) Except as provided in paragraph [(2)] (3) of this subsection, [any] AN 
+INDIVIDUAL ’S DNA samples and records [generated as part of a crim inal investigation or 
+prosecution ] THAT ARE COLLECTED I N ACCORDANCE WITH § 2–504( A)(3) OF THIS 
+SUBTITLE  shall be destroyed [or] AND  expunged automatically from the [State ] 
+STATEWIDE  DNA database SYSTEM  if: 
  
- (H) (1) AN EMPLOYEE WHO ATTEM PTS TO COLLECT A DNA  SAMPLE IN 15 
-ACCORDANCE WITH THIS  SECTION , BUT IS UNABLE TO COL LECT THE SAMPLE 16 
-BECAUSE THE INDIVIDU AL WHO IS REQUIRED T O SUBMIT THE SAMPLE REFUSES TO 17 
-DO SO , SHALL BE DEEMED TO H AVE DISCHARGED THE E MPLOYEE ’S DUTY UNDER 18 
-THIS SECTION .  19 
+   (i) a criminal action begun against the individual relating to the 
+crime does not result in a conviction of the individual;  
  
-  (2) A REFUSAL TO SUBMIT A DNA  SAMPLE AS REQUIRED U NDER THIS 20 
-SECTION SHALL BE REF ERRED TO THE STATE’S ATTORNEY ’S OFFICE FOR 21 
-PROSECUTION UNDER SU BSECTION (G) OF THIS SECTION . 22 
+   (ii) the conviction is finally reversed or vacated and no new trial is 
+permitted; or  
  
-2–511. 23 
+   (iii) the individual is granted an unconditional pardon.  
  
- (a) (1) Except as provided in paragraph [(2)] (3) of this subsection, [any] AN 24 
-INDIVIDUAL ’S DNA samples and records [generated as part of a criminal investigation or 25 
-prosecution ] THAT ARE COLLECTED I N ACCORDANCE WITH § 2–504( A)(3) OF THIS 26 
-SUBTITLE  shall be destroyed [or] AND  expunged automatically from the [State ] 27 
-STATEWIDE  DNA database SYSTEM  if: 28 
+  (2) EXCEPT AS PROVI DED IN PARAGRAPH (3) OF THIS SUBSECTION , A 
+DNA  SAMPLE COLLECTED , BUT NOT TESTED , FROM AN INDIVIDUAL C HARGED WITH 
+A CRIME UNDER § 2–504( A)(3) OF THIS SUBTITLE SHA LL BE DESTROYED AND 
+EXPUNGED IF : 
  
-   (i) a criminal action begun against the individual relating to the 29 
-crime does not result in a conviction of the individual;  30 
+   (I) AT LEAST 2 YEARS HAVE PASSED FR OM THE DATE OF 
+COLLECTI ON OF THE DNA  SAMPLE ; AND 
  
-   (ii) the conviction i s finally reversed or vacated and no new trial is 31 
-permitted; or  32 
+   (II) THE DNA  SAMPLE FAILED TO MEE T THE REQUIREMENTS 
+FOR TESTING .  
  
- HOUSE BILL 259  7 
+ WES MOORE, Governor  Ch. 91  
  
-    (iii) the individual is granted an unconditional pardon.  1 
+– 7 –   [(2)] (3) A DNA sample or DNA record may not be destroyed or expunged 
+automatically from the [State ] STATEWIDE  DNA database SYSTEM  if: 
  
-  (2) EXCEPT AS PROVIDED IN  PARAGRAPH (3) OF THIS SUBSECTION , A 2 
-DNA  SAMPLE COLLECTED , BUT NOT TESTED , FROM AN INDIVIDUAL C HARGED W ITH 3 
-A CRIME UNDER § 2–504( A)(3) OF THIS SUBTITLE SHA LL BE DESTROYED AND 4 
-EXPUNGED IF : 5 
+   (I) the criminal action is put on the stet docket [or];  
  
-   (I) AT LEAST 2 YEARS HAVE PASSED FR OM THE DATE OF 6 
-COLLECTION OF THE DNA  SAMPLE ; AND 7 
+   (II) the individual receives probation before judgment ; OR 
  
-   (II) THE DNA  SAMPLE FAILED TO MEE T THE REQUIREMENTS 8 
-FOR TESTING .  9 
+   (III) THE TRIAL FOR A QUAL IFYING CHARGE UNDER §  
+2–504( A)(3) OF THIS SUBTITLE REM AINS PENDING FOR ANY  REASON . 
  
-  [(2)] (3) A DNA sample or DNA record may not be destroyed or expunged 10 
-automatically from the [State ] STATEWIDE  DNA database SYSTEM  if: 11 
+ (b) If the DNA sample or  DNA record was obtained or generated only in 
+connection with a case in which eligibility for expungement has been established, the DNA 
+sample shall be destroyed and the DNA record shall be expunged.  
  
-   (I) the criminal action is put on the stet docket [or];  12 
+ (c) Any DNA record expunged in accordance with this se ction shall be expunged 
+from every database into which it has been entered, including local, State, and federal 
+databases.  
  
-   (II) the individual receives probation before judgment ; OR 13 
+ (d) An expungement or destruction of sample under this section shall occur within 
+60 days of an event listed in subsection (a) of t his section.  
  
-   (III) THE TRIAL FOR A QUAL IFYING CHARGE UNDER §  14 
-2–504( A)(3) OF THIS SUBTITLE REM AINS PENDING FOR ANY  REASON . 15 
+ (e) [A letter ] WRITTEN NOTICE  documenting expungement of the DNA record 
+and destruction of the DNA sample shall , IN ACCORDANCE WITH R EGULATIONS 
+ADOPTED BY THE DIRECTOR , be sent by the Director to the defendant and the 
+defendant’s attorney at  the address specified by the court in the order of expungement.  
  
- (b) If the DNA sample or DNA record was obtained or generated only in 16 
-connection with a case in which eligibility for expungement has been estab lished, the DNA 17 
-sample shall be destroyed and the DNA record shall be expunged.  18 
+ (f) A record or sample that qualifies for expungement or destruction under this 
+section and is matched concurrent with or subsequent to the date of qualification for 
+expungement:  
  
- (c) Any DNA record expunged in accordance with this section shall be expunged 19 
-from every database into which it has been entered, including local, State, and federal 20 
-databases.  21 
+  (1) may not be utilized for a determination of probable cause regardless of 
+whether it is expunged or destroyed timely; and  
  
- (d) An expungement or destruction of sample under this section shall occur within 22 
-60 days of an event listed in subsection (a) of this section.  23 
+  (2) is not admissible in any proceeding for any purpose.  
  
- (e) [A letter ] WRITTEN NOTICE  documenting expungement of the DNA record 24 
-and destruction of the DN A sample shall , IN ACCORDANCE WITH R EGULATIONS 25 
-ADOPTED BY THE DIRECTOR , be sent by the Director to the defendant and the 26 
-defendant’s attorney at the address specified by the court in the order of expungement.  27 
+ (g) The Director shall adopt [procedures ] REGULATIONS  to comply with this 
+section.  
  
- (f) A record or sample that qualifies for exp ungement or destruction under this 28 
-section and is matched concurrent with or subsequent to the date of qualification for 29 
-expungement:  30 
+ SECTION 2. AND BE IT FURTHER ENACTED, That:  
  
-  (1) may not be utilized for a determination of probable cause regardless of 31 
-whether it is expunged or destroyed timely;  and 32 
+ (a) (1) In this section the following words have the meanings indicated.  
  
-8 HOUSE BILL 259   
+  (2) “DNA sample” has the meaning stated in § 2 –501 of the Public Safety 
+Article.  
  
-   (2) is not admissible in any proceeding for any purpose.  1 
+Ch. 91  2025 LAWS OF MARYLAND   
  
- (g) The Director shall adopt [procedures ] REGULATIONS  to comply with this 2 
-section.  3 
+– 8 –   (3) “Statewide DNA database system” has the meaning stated in § 2 –501 
+of the Public Safety Article.  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That:  4 
+ (b) For any DNA sample collected in accordance with § 2 –504(a)(3) of the Public 
+Safety Article before the effective date of this Act, the Forensic Sciences D ivision in the 
+Department of State Police shall, on or before October 1, 2028, destroy and expunge the 
+record of any DNA sample that has not been tested or placed in the statewide DNA 
+database system on or before November 1, 2027, because the DNA sample fa iled to meet 
+the requirements of Title 2, Subtitle 5 of the Public Safety Article, as that subtitle existed 
+before the effective date of this Act.  
  
- (a) (1) In this section the following words have the mean ings indicated.  5 
+ SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
-  (2) “DNA sample” has the meaning stated in § 2 –501 of the Public Safety 6 
-Article.  7 
- 
-  (3) “Statewide DNA database system” has the meaning stated in § 2 –501 8 
-of the Public Safety Article.  9 
- 
- (b) For any DNA sample collected in accordance w ith § 2 –504(a)(3) of the Public 10 
-Safety Article before the effective date of this Act, the Forensic Sciences Division in the 11 
-Department of State Police shall, on or before October 1, 2028, destroy and expunge the 12 
-record of any DNA sample that has not been t ested or placed in the statewide DNA 13 
-database system on or before November 1, 2027, because the DNA sample failed to meet 14 
-the requirements of Title 2, Subtitle 5 of the Public Safety Article, as that subtitle existed 15 
-before the effective date of this Act.  16 
- 
- SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 17 
-October 1, 2025.  18 
- 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Gov ernor, April 8, 2025.  

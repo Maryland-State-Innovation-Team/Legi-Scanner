@@ -1,182 +1,167 @@
+ WES MOORE, Governor  Ch. 80  
  
+– 1 – Chapter 80  
+(Senate Bill 184 ) 
  
-EXPLANATION:  CAPITALS INDICATE MATTER ADDED TO EXIS TING LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *sb0184*      
-SENATE BILL 184  
-C2   5lr0165  
-SB 262/24 – JPR (PRE –FILED)  CF HB 239  
-By: Chair, Judicial Proceedings Committee (By Request – Departmental – 
-Secretary of State)  
-Requested: September 18, 2024  
-Introduced and read first time: January 8, 2025  
-Assigned to: Judicial Proceedings  
-Committee Report: Favorable  
-Senate action: Adopted  
-Read second time: January 24, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Charitable Organizations – Late Fees and Registration – Suspension and 
+Cancellation Requirements  
  
-AN ACT concerning  1 
+FOR the purpose of  authorizing the Secretary of State to suspend payment of certain late 
+fees assessed to certain charitable organizations under certain circumstances; 
+authorizing the Secretary of State to cancel a charitable organization’s registration 
+or reinstate a chari table organization’s canceled registration under certain 
+circumstances; and generally relating to the regulation of charitable organizations 
+by the Secretary of State.  
  
-Charitable Organizations – Late Fees and Registration – Suspension and 2 
-Cancellation Requirements  3 
+BY repealing and reenacting, with amendments,  
+ Article – Business Regulation  
+ Section  6–407 
+ Annotated Code of Maryland  
+ (2024 Replacement Volume)  
  
-FOR the purpose of  authorizing the Secretary of State to suspend payment of certain late 4 
-fees assessed to certain charitable organizations under certain circumstances;  5 
-authorizing the Secretary of State to cancel a charitable organization’s registration 6 
-or reinstate a charitable organization’s canceled registration under certain 7 
-circumstances; and generally relating to the regulation of charitable organizations 8 
-by the S ecretary of State.  9 
+BY repealing and reenacting, without amendments,  
+ Article – Business Regulation  
+ Section 6 –417 
+ Annotated Code of Maryland  
+ (2024 Replacement Volume)  
  
-BY repealing and reenacting, with amendments,  10 
- Article – Business Regulation  11 
- Section 6 –407 12 
- Annotated Code of Maryland  13 
- (2024 Replacement Volume)  14 
+BY adding to  
+ Article – Business Regulation  
+ Section 6 –418 
+ Annotated Code of Maryland  
+ (2024 Replacement Volume)  
  
-BY repealing and reenacting, without amendments,  15 
- Article – Business Regulation  16 
- Section 6 –417 17 
- Annotated Code of Maryland  18 
- (2024 Replacement Volume)  19 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY adding to  20 
-2 SENATE BILL 184   
+Article – Business Regulation  
  
-  Article – Business Regulation  1 
- Section 6 –418 2 
- Annotated Code of Maryland  3 
- (2024 Replacement Volume)  4 
+6–407. 
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 5 
-That the  Laws of Maryland read as follows:  6 
+ (a) A charitable organizati on that collects less than $25,000 in charitable 
+contributions from the public in a year need not pay an annual fee, except that, if the 
+charitable organization uses a professional solicitor, it shall pay an annual fee of $50.  
  
-Article – Business Regulation  7 
+Ch. 80  2025 LAWS OF MARYLAND   
  
-6–407. 8 
+– 2 –  (b) (1) Each charitable org anization that submits a separate registration 
+statement and collects at least $25,000 in charitable contributions from the public in a year 
+shall pay an annual fee based on the charitable contributions collected.  
  
- (a) A charitable organization that collects less than $25,000 in charitable 9 
-contributions from the public in a year need not pay an annual fee, except that, if the 10 
-charitable organ ization uses a professional solicitor, it shall pay an annual fee of $50.  11 
+  (2) The annual fee shall be:  
  
- (b) (1) Each charitable organization that submits a separate registration 12 
-statement and collects at least $25,000 in charitable contributions from the public in a year 13 
-shall pay an  annual fee based on the charitable contributions collected.  14 
+   (i) $50, if charitable contributions from the public are at least 
+$25,000 but less than $50,001;  
  
-  (2) The annual fee shall be:  15 
+   (ii) $75, if charitable contributions from the public are at least 
+$50,001 but less than $75,001;  
  
-   (i) $50, if charitable contributions from the public are at least 16 
-$25,000 but less than $50,001;  17 
+   (iii) $100, if charitable contributions from the public a re at least 
+$75,001 but less than $100,001;  
  
-   (ii) $75, if charitable contributions from the public are at least 18 
-$50,001 but less than $75,001;  19 
+   (iv) $200, if charitable contributions from the public are at least 
+$100,001 but less than $500,001; and  
  
-   (iii) $100, if charitable contributions from the public are at least 20 
-$75,001 but less than $100,001;  21 
+   (v) $300, if charitable contributions from the public are at least 
+$500,001.  
  
-   (iv) $200, if charitable contributions from the public are at least 22 
-$100,001 but less than $500,001; and  23 
+ (c) (1) [An] A CHARI TABLE  organization  failing  to file an annual report 
+either by the end of the 6 –month period after the end of the charitable organization’s fiscal 
+year or within any period of extension granted shall  pay, in addition to the annual fee, $25 
+for each month or  part thereof after the date on which the annual report was due to be filed 
+or after the period of extension granted for such filing.  
  
-   (v) $300, if charitable contributions from the public are at least 24 
-$500,001.  25 
+  (2) The late fee shall be assessed 60 days after:  
  
- (c) (1) [An] A CHARITABLE  organization  failing  to file an annual report 26 
-either by the end of the 6 –month period after the end of the charitable organization’s fiscal 27 
-year or within any period of extension granted shall  pay, in addition to the annual fee, $25 28 
-for each month or part thereof after the date on which the annual report was due to be filed 29 
-or after the period of extension granted for such filing.  30 
+   (i) the end of the 6th month after the end of the fiscal year; or  
  
-  (2) The late fee shall be assessed 60 days after:  31 
+   (ii) the period of extension.  
  
-   (i) the end of the 6th month after the end of the fiscal year; or  32 
+  (3) Failure  to remit an assessed  late fee is a violation  of this title.  
  
- SENATE BILL 184  3 
+  (4) THE SECRETARY OF STATE MAY SUSPEND OR WAIVE LATE FEES 
+IN ACCORDANCE WITH : 
  
-    (ii) the period of extension.  1 
+   (I) REGULATIONS ADOPTED UNDER SUBSECTION (F) OF THIS 
+SECTION ; OR 
  
-  (3) Failure  to remit an assessed  late fee is a violation  of this title.  2 
+   (II) A SETTLEMENT AGREEME NT MADE UNDER § 6–205( B) AND 
+(C) OF THIS TITLE . 
  
-  (4) THE SECRETARY OF STATE MAY SUSPEND OR  WAIVE LATE FEES 3 
-IN ACCORDANCE WITH : 4 
+ WES MOORE, Governor  Ch. 80  
  
-   (I) REGULATIONS ADOPTED UNDER SUBSECTION (F) OF THIS 5 
-SECTION ; OR 6 
+– 3 –  (d) The following revenues shall be distributed to the Charitable Enforcement 
+Fund under Subtitle 2A of this title, to be used only to support the actions of the Secretary 
+of State and the Attorney General in carrying out the duties of the Secretary of State and 
+the Attorney General under this title and Title 6.5 of this article:  
  
-   (II) A SETTLEMENT AGREEME NT MADE UNDER § 6–205( B) AND 7 
-(C) OF THIS TITLE . 8 
+  (1) $100 of the annual fee paid by each charitable organization under 
+subsection (b)(2)(v) of  this section; and  
  
- (d) The following revenues shall be distributed to the Charitable Enfor cement 9 
-Fund under Subtitle 2A of this title, to be used only to support the actions of the Secretary 10 
-of State and the Attorney General in carrying out the duties of the Secretary of State and 11 
-the Attorney General under this title and Title 6.5 of this arti cle: 12 
+  (2) the late fees collected under subsection (c) of this section.  
  
-  (1) $100 of the annual fee paid by each charitable organization under 13 
-subsection (b)(2)(v) of this section; and  14 
+ (E) A LATE FEE ASSESSED UN DER THIS SECTION MAY  NOT BE CONSIDERED 
+A DELINQUENT ACCOUNT  OR DEBT REQUIRING RE FERRAL TO THE CENTRAL 
+COLLECTION UNIT FOR COLLECTION P URPOSE S UNDER § 3–302 OF THE STATE 
+FINANCE AND PROCUREMENT ARTICLE . 
  
-  (2) the late fees collected under subsection (c) of this section.  15 
+ (F) THE SECRETARY OF STATE MAY ADOPT REGUL ATIONS REGARDING THE  
+SUSPENSION OR WAIVER  OF LATE FEES FOR CHA RITABLE ORGANIZATION S THAT 
+FAIL TO FILE AN ANNU AL REPORT UNDER SUBS ECTION (C) OF THIS SECTION . 
  
- (E) A LATE FEE ASSESSED UN DER THIS SECTION MAY  NOT BE CONSIDERED 16 
-A DELINQUENT ACCOUNT  OR DEBT REQUIRING RE FERRAL TO THE CENTRAL 17 
-COLLECTION UNIT FOR COLLECTION P URPOSES UNDER § 3–302 OF THE STATE 18 
-FINANCE AND PROCUREMENT ARTICLE . 19 
+6–417. 
  
- (F) THE SECRETARY OF STATE MAY ADOPT REGUL ATIONS REGARDING THE  20 
-SUSPENSION OR WAIVER  OF LATE  FEES FOR CHARITABLE ORGANIZATIONS THAT 21 
-FAIL TO FILE AN ANNU AL REPORT UNDER SUBS ECTION (C) OF THIS SECTION . 22 
+ A charitable organization that intends to end soliciting shall submit to the Secretary 
+of State:  
  
-6–417. 23 
+  (1) a statement of its intent; and  
  
- A charitable organization that intends to end soliciting shall submit to the Secretary 24 
-of State:  25 
+  (2) a final annual report within 6 months after the end of its fiscal year.  
  
-  (1) a statement of its intent; and  26 
+6–418. 
  
-  (2) a final annual report within 6 months after the end of its fiscal year.  27 
+ (A) THE SECRE TARY OF STATE MAY CANCEL THE REGISTRATION OF A 
+CHARITABLE ORGANIZAT ION IF : 
  
-6–418. 28 
+  (1) THE ORGANIZATION FAI LED TO SUBMIT : 
  
- (A) THE SECRETARY OF STATE MAY CANCEL THE REGISTRATION OF A 29 
-CHARITABLE ORGANIZAT ION IF : 30 
-4 SENATE BILL 184   
+   (I) A STATEMENT OF INTEN T AND FINAL ANNUAL R EPORT 
+UNDER § 6–417 OF THIS SUBTITLE WIT HIN 3 YEARS AFTER THE DATE  THE 
+STATEMENT OF INTENT AND FINAL ANNUAL REP ORT WERE DUE ; OR 
  
-  
-  (1) THE ORGANIZATION FAI LED TO SUBMIT : 1 
+   (II) ANY ANNUAL REPORT OR  UPDATES REQUIRED UND ER §  
+6–408 OF THIS SUBTITLE FOR  A 3–YEAR PERIOD ; AND 
  
-   (I) A STATEMENT OF INTEN T AND FINAL ANNUAL REPORT 2 
-UNDER § 6–417 OF THIS SUBTITLE WIT HIN 3 YEARS AFTER THE DATE  THE 3 
-STATEMENT OF INTENT AND FINAL ANNUAL REP ORT WERE DUE ; OR 4 
+  (2) THE SECRETARY OF STATE SENDS A NOTICE OF CANCELLATION 
+TO THE LAST KNOWN AD DRESS AND E –MAIL ADDRESS OF THE ORGANIZATION . 
+Ch. 80  2025 LAWS OF MARYLAND   
  
-   (II) ANY ANNUAL REPORT OR  UPDATES REQUIRED UND ER §  5 
-6–408 OF THIS SUBTITLE FOR  A 3–YEAR PERIOD ; AND 6 
+– 4 –  
+ (B) A CHARITABLE ORGANIZAT ION MAY REQUEST THAT  THE SECRETARY OF 
+STATE REINSTATE A REG ISTRATION CANCELED U NDER SUBSECTION (A) OF THIS 
+SECTION IF THE ORGAN IZATION : 
  
-  (2) THE SECRE TARY OF STATE SENDS A NOTICE OF CANCELLATION 7 
-TO THE LAST KNOWN AD DRESS AND E –MAIL ADDRESS OF THE ORGANIZATION . 8 
+  (1) SUBMITS TO THE SECRETARY OF STATE ANY OUTSTANDING  OR 
+MISSING ANNUAL REPORTS , SUPPORTING MATERIALS , AND ANNUAL FEES 
+REQUIRED UNDER THIS TITLE ; 
  
- (B) A CHARITABLE ORGANIZAT ION MAY REQUEST THAT  THE SECRETARY OF 9 
-STATE REINSTATE A REG ISTRATION CANCELED U NDER SUBSECTION (A) OF THIS 10 
-SECTION IF  THE ORGANIZATION : 11 
+  (2) (I) REMITS ALL UNPAID LA TE FEES ; OR 
  
-  (1) SUBMITS TO THE SECRETARY OF STATE ANY OUTSTANDING  OR 12 
-MISSING ANNUAL REPOR TS, SUPPORTING MATERIALS , AND ANNUAL FEES 13 
-REQUIRED UNDER THIS TITLE ; 14 
+   (II) HAD LATE FEES SUSPEN DED OR WAIVED IN ACC ORDANCE 
+WITH § 6–407( C) OF THIS SUBTITLE ; 
  
-  (2) (I) REMITS ALL UNPAID LA TE FEES ; OR 15 
+  (3) IS IN GOOD STANDING WITH THE STATE DEPART MENT OF 
+ASSESSMENTS AND TAXATION , IF APPLICABLE ; 
  
-   (II) HAD LATE FEES SUSPEN DED OR WAIVED IN  ACCORDANCE 16 
-WITH § 6–407( C) OF THIS SUBTITLE ; 17 
+  (4) HAS A CURRENT TAX –EXEMPT STATUS UNDER § 501( C)(3) OF THE 
+INTERNAL REVENUE CODE, IF APPLICABLE ; AND 
  
-  (3) IS IN GOOD STANDING WITH THE STATE DEPARTMENT OF 18 
-ASSESSMENTS AND TAXATION , IF APPLICABLE ; 19 
+  (5) PROVIDES ANY OTHER I NFORMATION THAT THE SECRETARY OF 
+STATE REQUIRES . 
  
-  (4) HAS A CURRENT TAX –EXEMPT STATUS UNDER § 501( C)(3) OF THE 20 
-INTERNAL REVENUE CODE, IF APPLICABLE ; AND 21 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 
+1, 2025.  
  
-  (5) PROVIDES ANY OTHER I NFORMATION THAT THE SECRETARY OF 22 
-STATE REQUIRES . 23 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 24 
-1, 2025.  25 
- 
+Approved by the Governor, April 8, 2025.  

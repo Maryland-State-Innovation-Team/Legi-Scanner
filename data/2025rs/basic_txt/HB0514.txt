@@ -1,596 +1,571 @@
+ WES MOORE, Governor  Ch. 21  
  
+– 1 – Chapter 21  
+(House Bill 514 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0514*      
-HOUSE BILL 514  
-J2   5lr1560  
-    CF SB 52  
-By: Delegate Hill  Delegates Hill, Bagnall, Bhandari, Chisholm, Cullison, Guzzone, 
-Hutchinson, S.  Johnson, Kaiser, Kerr, Kipke, Lopez, Martinez,  
-Pena–Melnyk, Reilly, Rosenberg, Szeliga, Taveras, White  Holland, Woods, 
-and Woorman  
-Introduced and read first time: January 22,  2025  
-Assigned to: Health and Government Operations  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: February 25, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Health Occupations – State Board of Chiropractic Examiners – Revisions  
  
-AN ACT concerning  1 
+FOR the purpose of altering certain provisions of law governing the State Board of 
+Chiropractic Examiners and the practice of chiropractic in the State related to Board 
+membership, licensure of chiropractors, the discipline of chiropractors, and the 
+denial  of licenses to applicants; authorizing the Board to inspect chiropractor offices 
+under certain circumstances; requiring the Board to require a licensee or applicant 
+to submit to an examination by a health care provider under certain circumstances; 
+and gen erally relating to the Maryland Chiropractic Act.  
  
-Health Occupations – State Board of Chiropractic Examiners – Revisions  2 
+BY repealing and reenacting, with amendments,  
+ Article – Health Occupations  
+Section 3 –101, 3 –202(a) and (b), 3 –205, 3 –301(d), 3 –302(c) and (d), 3 –303(a),  
+3–304(c), 3 –305.1, 3 –311, 3 –313(29) and (30), and 3 –314(a)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of altering certain provisions of law governing the State Board of 3 
-Chiropractic Examiners and the practice of chiropractic in the State related to Board 4 
-membership, licensure of chiropractors, the discipline of chiropractors, and the 5 
-denial of licenses to applicants; authorizing the Board to inspect chiropractor offices 6 
-under certain circumstances; requiring the Board to require a licensee or applicant 7 
-to submit to an examination by a health care provider under certain circumst ances; 8 
-and generally relating to the Maryland Chiropractic Act.  9 
+BY repealing  
+ Article – Health Occupations  
+Section 3 –302(e), 3 –304(d) and (e), and 3 –402 
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  10 
- Article – Health Occupations  11 
-Section 3 –101, 3 –202(a) and (b), 3 –205, 3 –301(d), 3 –302(c) and (d), 3 –303(a),  12 
-3–304(c), 3 –305.1, 3 –311, 3–313(29) and (30), and 3 –314(a)  13 
- Annotated Code of Maryland  14 
- (2021 Replacement Volume and 2024 Supplement)  15 
+BY adding to  
+ Article – Health Occupations  
+ Section 3 –304(d) through (g), 3 –313(31) through (33), and 3 –318 
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-BY repealing  16 
- Article – Health Occupations  17 
-Section 3 –302(e), 3 –304(d) and (e), and 3 –402 18 
- Annotated Code of Maryland  19 
- (2021 Replacement Volume and 2024 Supplement)  20 
-2 HOUSE BILL 514   
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the La ws of Maryland read as follows:  
  
-  
-BY adding to  1 
- Article – Health Occupations  2 
- Section 3 –304(d) through (g), 3 –313(31) through (33), and 3 –318 3 
- Annotated Code of Maryland  4 
- (2021 Replacement Volume and 2024 Supplement)  5 
+Article – Health Occupations  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF M ARYLAND, 6 
-That the Laws of Maryland read as follows:  7 
+3–101. 
  
-Article – Health Occupations  8 
+ (a) In this title the following words have the meanings indicated.  
  
-3–101. 9 
+ (b) “Board” means the State Board of Chiropractic Examiners.  
  
- (a) In this title the following words have the meanings indicated.  10 
+ (c) “Chiropractor” means an individual who practices  chiropractic.  
+Ch. 21  2025 LAWS OF MARYLAND   
  
- (b) “Board” means the State Board of Chiropractic Examiners.  11 
+– 2 –  
+ (d) “Direct supervision” means supervision provided by a supervising 
+chiropractor who is personally present or immediately available where the procedures are 
+performed to give aid, direction, and instruction when certain procedures or acti vities are 
+performed.  
  
- (c) “Chiropractor” means an indi vidual who practices chiropractic.  12 
+ [(e) “Extern license” means a license to practice chiropractic under the direct 
+supervision of a Board –approved licensed chiropractor. ] 
  
- (d) “Direct supervision” means supervision provided by a supervising 13 
-chiropractor who is personally present or immediately available where the procedures are 14 
-performed to give aid, direction, and instruction when certai n procedures or activities are 15 
-performed.  16 
+ [(f)] (E) “License” means, unless the context requires otherwise, a license 
+granted by the Boa rd: 
  
- [(e) “Extern license” means a license to practice chiropractic under the direct 17 
-supervision of a Board –approved licensed chiropractor. ] 18 
+  (1) To practice chiropractic; or  
  
- [(f)] (E) “License” means, unless the context requires otherwise, a licens e 19 
-granted by the Board:  20 
+  (2) To practice chiropractic with the right to practice physical therapy.  
  
-  (1) To practice chiropractic; or  21 
+ [(g)] (F) “Licensed chiropractor” means, unless the context requires otherwise, 
+a chiropractor who is licensed by the Board to practice c hiropractic or to practice 
+chiropractic with the right to practice physical therapy.  
  
-  (2) To practice chiropractic with the right to practice physical therapy.  22 
+ [(h)] (G) (1) “Practice chiropractic” means to use a drugless system of health 
+care based on the principle that interference with the transmission of nerve impulses may 
+cause disease.  
  
- [(g)] (F) “Licensed chiropractor” means, unless the context requires otherwise, 23 
-a chiropractor who is licensed by the  Board to practice chiropractic or to practice 24 
-chiropractic with the right to practice physical therapy.  25 
+  (2) “Practice chiropractic” includes the diagnosing and locating of 
+misaligned or displaced vertebrae and, through the manual manipulation and adjustment 
+of the spine and other skeletal structures, treating disorders of the human body.  
  
- [(h)] (G) (1) “Practice chiropractic” means to use a drugless system of health 26 
-care based on the principle that interference with the transmission of  nerve impulses may 27 
-cause disease.  28 
+  (3) Except as otherwise provided in this title, “practice chiropractic” does 
+not include the use of drugs or surgery, or the practice of osteopathy, obstetrics, or any 
+other branch of medicine.  
  
-  (2) “Practice chiropractic” includes the diagnosing and locating of 29 
-misaligned or displaced vertebrae and, through the manual manipulation and adjustment 30 
-of the spine and other skeletal structures, treating disorders o f the human body.  31 
+  (4) The definition of “practice chiropractic” does not pro hibit a chiropractor 
+from selecting diet and hygiene measures for an individual.  
  
- HOUSE BILL 514  3 
+ [(i)] (H) “Practice physical therapy” has the meaning stated in § 13 –101 of this 
+article.  
  
-   (3) Except as otherwise provided in this title, “practice chiropractic” does 1 
-not include the use of drugs or surgery, or the practice of osteopathy, obstetrics, or any 2 
-other branch of medicine.  3 
+ (I) “PRECEPTORSHIP ” MEANS AN ORGANIZED S YSTEM OF CLINICAL 
+EXPERIENCE THAT ALLO WS A STUDENT ENROLLED I N A CHIROPRACTIC PRO GRAM 
+OF STUDY TO BE PAIRE D WITH A CLINICAL PR ECEPTOR FOR THE PURP OSE OF 
+ATTAINING SPECIFIC L EARNING OBJECTIVES . 
  
-  (4) The definition of “practice chirop ractic” does not prohibit a chiropractor 4 
-from selecting diet and hygiene measures for an individual.  5 
+3–202. 
  
- [(i)] (H) “Practice physical therapy” has the meaning stated in § 13 –101 of this 6 
-article.  7 
+ WES MOORE, Governor  Ch. 21  
  
- (I) “PRECEPTORSHIP ” MEANS AN ORGANIZED S YSTEM OF CLINICAL 8 
-EXP ERIENCE THAT ALLOWS A STUDENT ENROLLED I N A CHIROPRACTIC PRO GRAM 9 
-OF STUDY TO BE PAIRE D WITH A CLINICAL PR ECEPTOR FOR THE PURP OSE OF 10 
-ATTAINING SPECIFIC L EARNING OBJECTIVES . 11 
+– 3 –  (a) (1) The Board consists of 7 members.  
  
-3–202. 12 
+  (2) Of the 7 members:  
  
- (a) (1) The Board consists of 7 members.  13 
+   (i) 5 shall be licensed chiropractors; and  
  
-  (2) Of the 7 members:  14 
+   (ii) 2 shall be consumer members.  
  
-   (i) 5 shall be licensed chiropractors; and  15 
+  (3) (i) The Governor shall appoint the chiropractor members, with the 
+advice of the Secretary, and with the advice and consent of the Senate, from [a]: 
  
-   (ii) 2 shall be consumer members.  16 
+    1. A list of qualified individuals subm itted to the Governor 
+by the Maryland Chiropractic Association ; OR 
  
-  (3) (i) The Governor shall appoint the chiropractor members, with the 17 
-advice of the Secretary, and with the advice and consent of the Senate, from [a]: 18 
+    2. THE INDIVIDUALS WHO P ROVIDE A STATEMENT O F 
+NOMINATION SIGNED BY  AT LEAST 15 20 CHIROPRACTORS LICENS ED IN THE STATE . 
  
-    1. A list of qualified individuals submitted to the Governor 19 
-by the Maryland Chiropractic Association ; OR 20 
+   (ii) The number of names on the list SUBMITTED UNDER 
+SUBPARAG RAPH (I)1 OF THIS PARAGRAPH shall be [five] THREE  times the number of 
+vacancies.  
  
-    2. THE INDIVIDUALS WHO P ROVIDE A STATEMENT O F 21 
-NOMINATION SIGNED BY  AT LEAST 15 20 CHIROPRACTORS LICENS ED IN THE STATE . 22 
+   (iii) The list SUBMITTED UNDER SUBP ARAGRAPH (I)1 OF THIS 
+PARAGRAPH shall include the name of the incumbent member unless the incumbent 
+declines renomination.  
  
-   (ii) The number of names on the list SUBMITTED UNDER 23 
-SUBPARAGRAPH (I)1 OF THIS PARAGRAPH shall be [five] THREE  times the number of 24 
-vacancies.  25 
+  (4) The Governor shall appoint the consumer members with the advice of 
+the Secretary, and with the advice and consent of the Senate.  
  
-   (iii) The list SUBMITTED UNDER SUBP ARAGRAPH (I)1 OF THIS 26 
-PARAGRAPH shall include the name of the incumbent member u nless the incumbent 27 
-declines renomination.  28 
+ (b) Each chiropractor member of the Board shall be:  
  
-  (4) The Governor shall appoint the consumer members with the advice of 29 
-the Secretary, and with the advice and consent of the Senate.  30 
+  (1) A resident of this State;  
  
- (b) Each chiropractor member of the Board shall be:  31 
-4 HOUSE BILL 514   
+  (2) A licensed chiropractor of integrity and ability who is in active practice; 
+AND  
  
-  
-  (1) A resident of th is State;  1 
+  (3) [A graduate of a resident course in chiropractic; and  
  
-  (2) A licensed chiropractor of integrity and ability who is in active practice; 2 
-AND  3 
+  (4)] An individual who has practiced chiropractic in this State for at least 5 
+consecutive years.  
  
-  (3) [A graduate of a resident course in chiropractic; and  4 
+3–205. 
  
-  (4)] An individual who has practiced chiropractic in this State for at least 5 5 
-consecutive year s. 6 
+ (a) In addition to the powers set forth elsewhere in this title, the Board may:  
  
-3–205. 7 
+  (1) Adopt rules and regulations to carry out the provisions of this title;  
+Ch. 21  2025 LAWS OF MARYLAND   
  
- (a) In addition to the powers set forth elsewhere in this title, the Board may:  8 
+– 4 –  
+  (2) Summon witnesses, administer oaths, take affidavits, and take 
+testimony about matters that rela te to the duties of the Board; [and] 
  
-  (1) Adopt rules and regulations to carry out the provisions of this title;  9 
+  (3) In accordance with the State budget, authorize payment of fees and 
+travel expenses of witnesses who testify in any proceeding before the Board ; AND  
  
-  (2) Summon witnesses, administer oaths, take affidavits, and take 10 
-testimony about matters that relate to the duties of the Board; [and] 11 
+  (4) EXCEPT FOR AN OFFICE OF A CHIROPRACTOR IN  A HOSPITAL , 
+REL ATED INSTITUTION , FREESTANDING MEDICAL  FACILITY , OR FREESTANDING 
+BIRTHING CENTER , CONDUCT AN UNANNOUNC ED INSPECTION OF THE  OFFICE OF A 
+CHIROPRACTOR AGAINST  WHOM A COMPLAINT HAS  BEEN FILED WITH THE BOARD 
+REGARDING A VIOLATIO N OF THE CENTERS FOR DISEASE CONT ROL AND 
+PREVENTION ’S GUIDELINES ON STAN DARD PRECAUTIONS AND RELATED 
+GUIDELINES IN REGULA TIONS ADOPTED BY THE  BOARD  TO DETERMINE 
+COMPLIANCE WITH THE GUIDELINES AT THAT O FFICE . 
  
-  (3) In accordance with the State budget, authorize payment of fees and 12 
-travel expenses of witnesses who testify in any pr oceeding before the Board ; AND  13 
+ (b) In addition to the duties set forth elsewhere in this title, the Board shal l: 
  
-  (4) EXCEPT FOR AN OFFICE OF A CHIROPRACTOR IN  A HOSPITAL , 14 
-RELATED INSTITUTION , FREESTANDING MEDICAL  FACILITY , OR FREESTANDING 15 
-BIRTHING CENTER , CONDUCT AN UNANNOUNC ED INSPECTION OF THE  OFFICE OF A 16 
-CHIROPRACTOR AGAINST  WHOM A COMPLAINT HAS BEEN  FILED WITH THE BOARD 17 
-REGARDING A VIOLATIO N OF THE CENTERS FOR DISEASE CONTROL AND 18 
-PREVENTION ’S GUIDELINES ON STAN DARD PRECAUTIONS AND RELATED 19 
-GUIDELINES IN REGULA TIONS ADOPTED BY THE  BOARD  TO DETERMINE 20 
-COMPLIANCE WITH THE GUIDELINES AT  THAT OFFICE . 21 
+  (1) Adopt an official seal;  
  
- (b) In addition to the duties set forth elsewhere in this title, the Board shall:  22 
+  (2) File reports of its activities as required by the Secretary;  
  
-  (1) Adopt an official seal;  23 
+  (3) Assist in prosecutions under this title; [and] 
  
-  (2) File reports of its activities as required by the Secretary;  24 
+  (4) Investigate an alleged violation of this title ; AND  
  
-  (3) Assist in prosecutions under this title; [and] 25 
+  (5) ADOPT REGULATIONS GOV ERNING PRECEPTORSHIPS . 
  
-  (4) Investigate an alleged violation of this title ; AND  26 
+3–301. 
  
-  (5) ADOPT REGULATIONS GOV ERNING PRECEPTORSHIP S. 27 
+ (d) This section does not apply to:  
  
-3–301. 28 
+  (1) A student of chiropractic ENGAGED IN A PRECEPT ORSHIP  while 
+under the direct supervision of a BOARD–APPROVED  licensed chiropractor engaged in an 
+educational program [: 
  
- HOUSE BILL 514  5 
+   (i) Sponsored ] SPONSORED  by a [college ] PROGRAM  accredited by 
+the Council on Chiropractic Education , AN EQUIVALENT ENTITY  RECOGNIZED BY THE 
+U.S.  DEPARTMENT OF EDUCATION OR ANOTHER ENTITY  THAT ACCREDITS 
+PROGRAMS OFFERING IN STRUCTION IN CHIROPR ACTIC , OR AN EQUIVALENT 
+FOREIGN  AGENCY THAT ACCREDIT S PROGRAMS OFFERING INSTRUCTION IN 
+CHIROPRACTIC ; [and 
  
-  (d) This section does not apply to:  1 
+   (ii) Approved by the Board; ] or 
+ WES MOORE, Governor  Ch. 21  
  
-  (1) A student of chiropractic ENGAGED IN A PRECEPT ORSHIP  while 2 
-under the direct supervision of a BOARD–APPROVED  licensed chiropractor engaged in an 3 
-educational program [: 4 
+– 5 –  
+  (2) An individual licensed to practice chiropractic in any other state or a 
+foreign country while that individual makes a clinical demonstrati on before:  
  
-   (i) Sponsored ] SPONSORED  by a [college ] PROGRAM  accredited by 5 
-the Council on Chiropractic Education , AN EQUIVALENT ENTITY  RECOGNIZED BY THE 6 
-U.S.  DEPARTMENT OF EDUCATION OR ANOTHER EN TITY  THAT ACCREDITS 7 
-PROGRAMS OFFERING IN STRUCTION IN CHIROPR ACTIC , OR AN EQUIVALENT 8 
-FOREIGN AGENCY THAT ACCREDITS PROGRAMS O FFERING INSTRUCTION IN 9 
-CHIROPRACTIC ; [and 10 
+   (i) A chiropractic association;  
  
-   (ii) Approved by the Board; ] or 11 
+   (ii) A chiropractic convention; or  
  
-  (2) An individual licensed to practice chiropractic  in any other state or a 12 
-foreign country while that individual makes a clinical demonstration before:  13 
+   (iii) A chiropractic [college ] PROGRAM . 
  
-   (i) A chiropractic association;  14 
+3–302. 
  
-   (ii) A chiropractic convention; or  15 
+ (c) Except as otherwise provided in this title, the applicant [shall] MUST : 
  
-   (iii) A chiropractic [college ] PROGRAM . 16 
+  (1) [(i) Hold a bachelor’s degree fro m a college or university approved by 
+an accrediting agency of the United States Department of Education; and  
  
-3–302. 17 
+   (ii) Have completed satisfactorily college courses required by the 
+Board; and  
  
- (c) Except as otherwise p rovided in this title, the applicant [shall] MUST : 18 
+  (2) (i)] Be a graduate of a [school of ] chiropractic PROGRAM OF STUDY  
+that [has been approved by the Board under § 3 –402 of this title ] WAS, AT THE TIME OF 
+THE APPLICANT ’S GRADUATION , ACCREDITED BY THE COUNCIL ON CHIROPRACTIC 
+EDUCATION , AN EQUIVALENT ENTITY  RECOGNIZED BY THE U.S.  DEPARTMENT OF 
+EDUCATION OR ANOTHER E NTITY  THAT ACCREDITS PROGR AMS OFFERING 
+INSTRUCTION IN CHIRO PRACTIC , OR AN EQUIVALENT FOR EIGN AGENCY THAT 
+ACCREDITS PROGRAMS O FFERING INSTRUCTION IN CHIROPRACTIC ; or 
  
-  (1) [(i) Hold a bachelor’s degree from a college or university approved by 19 
-an accrediting agency of the United States Department of Education; and  20 
+   [(ii) 1.] (2)  (I) Be licensed in another state for at least 2 
+years; and  
  
-   (ii) Have completed satisfactorily college courses required by the 21 
-Board; and  22 
+    [2.] (II) Be a graduate of a [school of ] chiropractic 
+PROGRAM OF STUDY : 
  
-  (2) (i)] Be a graduate of a [school of ] chiropractic PROGRAM OF STUDY  23 
-that [has been approved by the Board under § 3 –402 of this title ] WAS, AT THE TIME OF 24 
-THE APPLICANT ’S GRADUATION , ACCREDITED BY THE COUNCIL ON CHIROPRACTIC 25 
-EDUCATION , AN EQUIVALENT ENTITY  RECOGNIZED BY THE U.S.  DEPARTMENT OF 26 
-EDUCATION OR ANOTHER ENTITY  THAT ACCREDITS PROGR AMS OFFERING 27 
-INSTRUCTION IN CHIRO PRACTIC , OR AN EQUIVALENT FOR EIGN AGENCY THAT 28 
-ACCREDITS PROGRAMS O FFERING INSTRUCTION IN CHIROPRACTIC ; or 29 
+    [A.] 1. That has been [approved ] ACCREDITED  by the 
+Council on Chiropractic Education , AN EQUIVALENT ENTITY  RECOGNIZED BY THE U.S.  
+DEPARTMENT OF EDUCATION OR ANOTHER ENTITY  THAT ACCREDITS PROGRAMS 
+OFFERING INSTRUCTION  IN CHIROPRACTIC , OR AN EQUIVALENT FOR EIGN AGENCY 
+THAT  ACCREDITS PROGRAMS O FFERING INSTRUCTION IN CHIROPRACTIC  within 4 
+years after the applicant graduated from that [school ] CHIROPRACTIC PROGRAM  OF 
+STUDY ; and  
  
-   [(ii) 1.] (2)  (I) Be licensed in another state for at least 2 30 
-years; and  31 
+    [B.] 2. That the Board determines had standards 
+comparable to an [approved school ] ACCREDITED CHIROPRAC TIC PROGRAM OF STUDY  
+at the time the applicant graduated.  
+Ch. 21  2025 LAWS OF MARYLAND   
  
-6 HOUSE BILL 514   
+– 6 –  
+ (d) An applicant shall be entitled to a license to practice chiropractic with the 
+right to practice p hysical therapy if the applicant [: 
  
-     [2.] (II) Be a graduate of a [school of ] chiropractic 1 
-PROGRAM OF STUDY : 2 
+  (1) Satisfies ] SATISFIES  the requirements [of this section and §§ 3 –303 
+and 3 –304(e)(2) of this subtitle;  
  
-    [A.] 1. That has been [approved ] ACCREDITED  by the 3 
-Council on Chiropractic Education , AN EQUIVALENT ENTITY  RECOGNIZED BY THE U.S.  4 
-DEPARTMENT OF EDUCATION OR ANOTHER ENTITY  THAT ACCREDITS PROGR AMS 5 
-OFFERING INSTRUCTION  IN CHIROPRACTIC , OR AN EQUIVALENT FOR EIGN AGENCY 6 
-THAT  ACCREDITS PROGRAMS O FFERING INSTRUCTION IN CHIROPRACTIC  within 4 7 
-years after the applicant graduated from that [school ] CHIROPRACTIC PROGRAM  OF 8 
-STUDY ; and  9 
+  (2) Was licensed as a chiropractor on or before June 1, 1949; or  
  
-    [B.] 2. That the Board determines had standards 10 
-comparable to an [approved school ] ACCREDITED CHIROPRAC TIC PROGRAM OF STUDY  11 
-at the time the applicant graduated.  12 
+  (3) Was enrolled at an approved college o f chiropractic on June 1, 1949, and 
+later was graduated by that college and licensed ] TO PRACTICE CHIROPRA CTIC AND ANY 
+ADDITIONAL REQUIREME NTS ESTABLISHED BY T HE BOARD IN REGULATIONS . 
  
- (d) An applicant shall be entitled to a license to practice chiropractic with the 13 
-right to practice physical therapy if the applicant [: 14 
+ [(e) An applicant may not be required under subsection (c)(1)(i) of th is section to 
+hold a bachelor’s degree if the applicant:  
  
-  (1) Satisfies ] SATISFIES  the requirements [of this section and §§ 3 –303 15 
-and 3 –304(e)(2) of this subtitle;  16 
+  (1) Graduated from a school of chiropractic before July 1, 1999; and  
  
-  (2) Was lice nsed as a chiropractor on or before June 1, 1949; or  17 
+  (2) Meets the educational requirements in place at the time of the 
+applicant’s graduation from a school of chiropractic. ] 
  
-  (3) Was enrolled at an approved college of chiropractic on June 1, 1949, and 18 
-later was graduated by that college and licensed ] TO PRACTICE CHIROPRA CTIC AND ANY 19 
-ADDITIONAL REQUIREME NTS ESTABLISHED BY T HE BOARD IN REGULATIONS . 20 
+3–303. 
  
- [(e) An applicant may not be required under subsection (c)(1)(i) of this section to 21 
-hold a bachelor’s degree if the applicant:  22 
+ (a) To apply for a license, an applicant shall submit to the Board at least 45 days 
+before an examination:  
  
-  (1) Graduated from a school of chiropractic before July 1, 1999; and  23 
+  (1) An application on the form the Board requires that includes 
+information of the applicant’s:  
  
-  (2) Meets the educational r equirements in place at the time of the 24 
-applicant’s graduation from a school of chiropractic. ] 25 
+   (i) Educational history;  
  
-3–303. 26 
+   (ii) Experience in health care;  
  
- (a) To apply for a license, an applicant shall submit to the Board at least 45 days 27 
-before an examination:  28 
+   (iii) [Hours and courses ] COURSES  taken during chiropractic 
+studies;  
  
-  (1) An application on the form the Board requires that includes 29 
-information of the applicant’s:  30 
+   (iv) Training or studies in related fields; and  
  
-   (i) Educational history;  31 
+   (v) [Clinical ] PRECEPTORSHIP  experience;  
  
-   (ii) Experience in health care;  32 
- HOUSE BILL 514  7 
+  (2) Certified transcripts that demonstrate compliance wi th the [college 
+credit ] requirements of § 3 –302 of this subtitle;  
  
-  
-   (iii) [Hours and courses ] COURSES  taken during chiropractic 1 
-studies;  2 
+  (3) Proof of any degrees or certification alleged;  
  
-   (iv) Training or studies in related fields; and  3 
+ WES MOORE, Governor  Ch. 21  
  
-   (v) [Clinical ] PRECEPTORSHIP  experience;  4 
+– 7 –   (4) Satisfactory evidence of good moral character;  
  
-  (2) Certified transcripts that demonstrate compliance with the [college 5 
-credit ] requirements of § 3 –302 of this subtitle;  6 
+  (5) An application fee set by the Board; and  
  
-  (3) Proof of any degrees or certification alleged;  7 
+  (6) Satisfactory evidence of having completed a State and national criminal 
+history records check in accordance with § 3 –302.1 of this subtitle.  
  
-  (4) Satisfactory evidence of good mora l character;  8 
+3–304. 
  
-  (5) An application fee set by the Board; and  9 
+ (c) The Board shall [: 
  
-  (6) Satisfactory evidence of having completed a State and national criminal 10 
-history records check in accordance with § 3 –302.1 of this subtitle.  11 
+  (1) Notify ] NOTIFY each qualified applicant of the time and place of 
+examination [; and  
  
-3–304. 12 
+  (2) Publish in a newspaper of general circulation the time and place of each 
+examination, at least 30 days before the examination ]. 
  
- (c) The Board shall [: 13 
+ [(d) (1) The Board shall develop written evaluation criteria to be used to 
+identify minimum competency on the oral or clinical portions o f the examination.  
  
-  (1) Notify ] NOTIFY each qualified applicant of the time and place of 14 
-examination [; and  15 
+  (2) Except as otherwise provided in this section, the Board shall determine 
+the subjects, scope, method, and form for examinations given under this title.  
  
-  (2) Publish in a newspaper of general circulation the time and place of each 16 
-examination, at least 30 days before the examination ]. 17 
+  (3) Until the grading of all examinations is completed:  
  
- [(d) (1) The Board shall develop written eva luation criteria to be used to 18 
-identify minimum competency on the oral or clinical portions of the examination.  19 
+   (i) The examinat ion papers of each applicant shall be identified only 
+by a number; and  
  
-  (2) Except as otherwise provided in this section, the Board shall determine 20 
-the subjects, scope, method, and form for examinations given unde r this title.  21 
+   (ii) The name of the applicant to whom an examination paper 
+belongs may not be disclosed to any member of the Board.  
  
-  (3) Until the grading of all examinations is completed:  22 
+  (4) The examination shall include a written practical or oral  section on 
+clinical subjects, including:  
  
-   (i) The examination papers of each applicant shall be identified only 23 
-by a number; and  24 
+   (i) Chiropractic principles;  
  
-   (ii) The name of the applicant to whom an examination paper 25 
-belongs may not be disclosed  to any member of the Board.  26 
+   (ii) Chiropractic technique and practice;  
  
-  (4) The examination shall include a written practical or oral section on 27 
-clinical subjects, including:  28 
-8 HOUSE BILL 514   
+   (iii) Hygiene;  
  
-  
-   (i) Chiropractic principles;  1 
+   (iv) Neurology;  
  
-   (ii) Chiropractic technique and practice;  2 
+   (v) Orthopedics;  
  
-   (iii) Hygiene;  3 
+   (vi) Physical diagnosis;  
  
-   (iv) Neurology;  4 
+Ch. 21  2025 LAWS OF MARYLAND   
  
-   (v) Orthopedics;  5 
+– 8 –    (vii) Roentgenology;  
  
-   (vi) Physical diagnosis;  6 
+   (viii)  Symptomatology; and  
  
-   (vii) Roentgenology;  7 
+   (ix) Physical therapy, as defined in § 13 –101 of this article.  
  
-   (viii)  Symptomatology; and  8 
+ (e) (1) Except as otherwise provided in this title, an applicant qualifies for a 
+license to practice chiropractic only if the applicant answers correctly at least:  
  
-   (ix) Physical therapy, as defined in § 13 –101 of this article.  9 
+   (i) 60 percent of the questions in each subsection of the examination 
+other than the subsection on physical therapy; and  
  
- (e) (1) Except as otherwise provided in this title, an applicant qualifies for a 10 
-license to practice chiropractic only if the applicant answers correctly at least:  11 
+   (ii) 75 percent of all of the questions on the examination other than 
+those on physical therapy.  
  
-   (i) 60 percent of the questions in each subsection of the examination 12 
-other than the subsection on physical therapy; and  13 
+  (2) Except as otherwise provid ed in this title, an applicant qualifies for a 
+license to practice chiropractic with the right to practice physical therapy only if the 
+applicant answers correctly at least:  
  
-   (ii) 75 percent of all of the questions on the examination other than 14 
-those on physical therapy.  15 
+   (i) 60 percent of the questions in each subsection of the examination; 
+and 
  
-  (2) Except as otherwise provided in this title, an applicant qualifies for a 16 
-license to practice chiropractic with the right to practice physical therapy only if the 17 
-applicant answers correctly at le ast: 18 
+   (ii) 75 percent of all of the questions on the examination. ] 
  
-   (i) 60 percent of the questions in each subsection of the examination; 19 
-and 20 
+ (D) (1) THE BOARD–ADMINISTERED EXAMINA TION SHALL INCLUDE : 
  
-   (ii) 75 percent of all of the questions on the examination. ] 21 
+   (I) THE GENERAL LAWS AND REGULATIONS OF THE STATE ON 
+THE PRACTICE OF CHIR OPRACTIC ; AND 
  
- (D) (1) THE BOARD–ADMINISTERED EXAMINA TION SHALL INCLUDE : 22 
+   (II) THE LAWS AND REGULATI ONS ON INFECTION CONTROL . 
  
-   (I) THE GENERAL LAWS AND REGULATIONS OF THE  STATE ON 23 
-THE PRACTICE OF CHIR OPRACTIC ; AND 24 
+  (2) AN APPLICANT QUALIFIE S FOR A LICENSE TO P RACTICE 
+CHIROPRACTIC ONLY IF  THE APPLICANT ANSWER S CORRECTLY AT LEAST  75%  OF 
+ALL THE QUESTIONS ON  THE BOARD–ADMINISTERED EXAMINA TION . 
  
-   (II) THE LAWS AND REGULATI ONS ON INFECTION CON TROL . 25 
+ (E) (1) AN APPLICANT SHALL PA Y TO THE BOARD AN EXAMINATION FEE 
+SET BY THE BOARD . 
  
- HOUSE BILL 514  9 
+  (2) THE PAYMENT OF ONE EX AMINATION FEE ENTITL ES AN 
+APPLICANT TO TAKE TH E BOARD–ADMINISTERED EXAMINA TION TWICE . 
  
-   (2) AN APPLICANT QUALIFIE S FOR A LICENSE TO P RACTICE 1 
-CHIROPRACTIC ONLY IF  THE APPLICANT ANSWER S CORRECTLY AT LEAST  75%  OF 2 
-ALL THE QUESTIONS ON  THE BOARD–ADMINISTERED EXAMINA TION . 3 
+ (F) IF AN APPLICANT FAILS  THE BOARD–ADMINISTERED EXAMINA TION 
+TWICE , THE APPLICANT MAY RE TAKE THE EXAMINATI ON IF THE APPLICANT PAYS 
+THE APPROPRIATE FEE . 
  
- (E) (1) AN APPLICANT SHALL PA Y TO THE BOARD AN EXAMINATION FEE 4 
-SET BY THE BOARD . 5 
+ WES MOORE, Governor  Ch. 21  
  
-  (2) THE PAYMENT OF ONE EX AMINATION FEE ENTITL ES AN 6 
-APPLICANT TO TAKE TH E BOARD–ADMINISTERED EXAMINA TION TWICE . 7 
+– 9 –  (G) IN ADDITION TO THE WR ITTEN EXAMINATION AD MINISTERED BY THE 
+BOARD , AN APPLICANT SHALL T AKE AND PASS ALL APP LICABLE SECTIONS OF THE 
+NATIONAL EXAMINATION  ADMINISTERED BY : 
  
- (F) IF AN APPLICANT FAILS  THE BOARD–ADMINISTERED EXAMINA TION 8 
-TWICE , THE APPLICANT MAY RE TAKE THE EXAMINATION  IF THE APPLICANT PAY S 9 
-THE APPROPRIATE FEE . 10 
+  (1) THE NATIONAL BOARD OF CHIROPR ACTIC EXAMINERS OR ITS 
+SUCCESSOR ENTITY ; 
  
- (G) IN ADDITION TO THE WR ITTEN EXAMINATION AD MINISTERED BY THE 11 
-BOARD , AN APPLICANT SHALL T AKE AND PASS ALL APP LICABLE SECTIONS OF THE  12 
-NATIONAL EXAMINATION  ADMINISTERED BY : 13 
+  (2) AN EQUIVALENT NATIONA L CHIROPRACTIC TESTI NG ENTITY 
+APPROVED BY THE BOARD ; OR 
  
-  (1) THE NATIONAL BOARD OF CHIROPRACTIC EXAMINERS OR ITS 14 
-SUCCESSOR ENTITY ; 15 
+  (2) (3) AN EQUIVALENT FOREIGN  CHIROPRACTIC TESTING  ENTITY 
+APPROVED BY THE BOARD . 
  
-  (2) AN EQUIVALENT NATIONA L CHIROPRACTIC TESTI NG ENTITY 16 
-APPROVED BY THE BOARD ; OR 17 
+3–305.1.  
  
-  (2) (3) AN EQUIVALENT FOREIGN  CHIROPRACTIC TESTING  ENTITY 18 
-APPROVED BY THE BOARD . 19 
+ (a) The Board may grant [, as appropriate, an extern ] A TEMPORARY  license to 
+an individual who meets the requirements of this section.  
  
-3–305.1.  20 
+ (b) To qualify for [an extern ] A TEMPORARY  license, an applicant [shall be an 
+individual seeking to participate in a chiropractic externship who ] SHA LL: 
  
- (a) The Board may grant [, as appropriate, an extern ] A TEMPORARY  license to 21 
-an individual who meets the requirements of this section.  22 
+  (1) [Submits ] SUBMIT  an application provided by the Board;  
  
- (b) To qualify for [an extern ] A TEMPORARY  license, an applicant [shall be an 23 
-individual seeking to participate in a chiropractic externship who ] SHALL : 24 
+  (2) [Has] HAVE graduated from an accredited chiropractic [college ] 
+PROGRAM OF STUDY ; 
  
-  (1) [Submits ] SUBMIT  an application provided by the Board;  25 
+  (3) [Has] HAVE begun the process of applying to the Board for a license to 
+practice chiropractic, b ut [who has ] not met [certain ] requirements [, specified in 
+regulation, ] to qualify for a license;  
  
-  (2) [Has] HAVE graduated from an accredited chiropractic [college ] 26 
-PROGRAM OF STUDY ; 27 
+  (4) (I) [Has taken and passed the examination of the National Board of 
+Chiropractic Examiners; ] HAVE BEEN LICENSED IN  ANOTHER STATE FOR AT  LEAST 2 
+YEARS PRECEDING THE APPLICATION IN THE STATE ; OR 
  
-  (3) [Has] HAVE begun the process of applying to the Board for a license to 28 
-practice chiropractic, but [who has ] not met [certain ] requirements [, specified in 29 
-regulation, ] to qualify for a license;  30 
+   (II) HAVE GRADUATED FROM A N ACCREDITED CHIROPR ACTIC 
+PROGRAM OF STUDY WIT HIN 6 MONTHS PRECEDING THE  APPLICATION IN THE 
+STATE ; 
  
-10 HOUSE BILL 514   
+  (5) HAVE SUBMITTED WRIT TEN, VERIFIED EVIDENCE TH AT THE 
+APPLICANT HAS SUBMIT TED A CRIMINAL HISTO RY RECORDS CHECK IN 
+ACCORDANCE WITH § 3–302.1  OF THIS SUBTITLE ; 
  
-   (4) (I) [Has taken and passed the examination of the National Board of  1 
-Chiropractic Examiners; ] HAVE BEEN LICENSED IN  ANOTHER STATE FOR AT  LEAST 2 2 
-YEARS PRECEDING THE APPLICATION IN THE STATE ; OR 3 
+Ch. 21  2025 LAWS OF MARYLAND   
  
-   (II) HAVE GRADUATED FROM A N ACCREDITED CHIROPR ACTIC 4 
-PROGRAM OF STUDY WIT HIN 6 MONTHS PRECEDING THE  APPLICATION IN THE 5 
-STATE ; 6 
+– 10 –   (6) [Agrees ] AGREE  to practice under the direct supervision of a  
+Board –approved supervisor who is a licensed chiropr actor while the [extern ] TEMPORARY  
+license is in effect; and  
  
-  (5) HAVE SUBMITTED WRITTE N, VERIFIED EVIDENCE TH AT THE 7 
-APPLICANT HAS SUBMIT TED A CRIMINAL HISTO RY RECORDS CHECK IN 8 
-ACCORDANCE WITH § 3–302.1  OF THIS SUBTITLE ; 9 
+  [(6)] (7) [Pays] PAY the TEMPORARY  license fee set by the Board.  
  
-  (6) [Agrees ] AGREE  to practice under the direct supervision of a  10 
-Board –approved supervisor who is a licensed chiropractor while the [extern ] TEMPORARY  11 
-license is in effect; and  12 
+ (c) The applicant shall be of good moral character.  
  
-  [(6)] (7) [Pays] PAY the TEMPORARY  license fee set by the Board.  13 
+ [(d) (1) The term of an extern license is the lesser of:  
  
- (c) The applicant shall be of good moral character.  14 
+   (i) The du ration of the individual’s participation in the chiropractic 
+externship; or  
  
- [(d) (1) The term of an extern license is the lesser of:  15 
+   (ii) 6 months from the date of the Board’s approval of the externship 
+application.  
  
-   (i) The duration of the individual’s participation in the chiropractic 16 
-externship; or  17 
+  (2) The term of an extern license shall terminate on the earlier of:  
  
-   (ii) 6 months from the date of the Board’s approval of the externship 18 
-application.  19 
+   (i) The date the individual’s chiropractic externship terminates; or  
  
-  (2) The term of an extern license shall terminate on the earlier of: 20 
+   (ii) The date the individual is licensed by the Board to practice 
+chiropractic without the direct supervision of a Board –approved licensed chiropractor. ] 
  
-   (i) The date the individual’s chiropractic externship terminates; or  21 
+ (D) (1) UNLESS THE BOARD SUSPENDS OR REV OKES  A TEMPORARY 
+LICENSE , EACH TEMPORARY LICEN SE EXPIRES 6 MONTHS AFTER THE DAT E OF 
+ISSUE . 
  
-   (ii) The date the individual is licensed by the Board to practice 22 
-chiropractic without the direct supervision of a Board –approved licensed chiropractor. ] 23 
+  (2) (I) SUBJECT TO SUBPARAGRA PH (II) OF THIS PARAGRAPH , A 
+TEMPORARY LICENSE MA Y BE EXTENDED EVERY 90 DAYS . 
  
- (D) (1) UNLESS THE BOARD SUSPENDS OR REV OKES A TEMPORARY 24 
-LICENSE , EACH TEMPORARY LICEN SE EXPIRES 6 MONTHS AFTER THE DAT E OF 25 
-ISSUE . 26 
+   (II) THE TOTAL LENGTH OF R ENEWAL MAY NOT EXCEE D 12 
+MONTHS FROM THE DATE  THE ORIGINAL TEMPORA RY LICENSE WAS ISSUE D. 
  
-  (2) (I) SUBJECT TO SUBPARAGRA PH (II) OF THIS PARAGRAPH , A 27 
-TEMPORARY LICENSE MA Y BE EXTENDED EVERY 90 DAYS . 28 
+3–311. 
  
-   (II) THE TOTAL LENGTH OF R ENEW AL MAY NOT EXCEED 12 29 
-MONTHS FROM THE DATE  THE ORIGINAL TEMPORA RY LICENSE WAS ISSUE D. 30 
+ (a) The Board shall place a licensee on inactive status, if the licensee submits to 
+the Board:  
  
- HOUSE BILL 514  11 
+  (1) An application for inactive status on the form required by the Board; 
+and 
  
- 3–311. 1 
+  (2) The inactive status fee set by the Board.  
  
- (a) The Board shall place a licensee on inactive status, if the licensee submits to 2 
-the Board:  3 
+ (b) A licensee on inactive status may reactivate the license [at any time ] if the 
+licensee:  
+ WES MOORE, Governor  Ch. 21  
  
-  (1) An application for inactive status on the form required by the Board; 4 
-and 5 
+– 11 –  
+  (1) Complies with the continuing education AND CARDIOPULMONARY 
+RESUSCITATION (CPR)  requirements in effect for the re newal period in which the 
+licensee seeks to reactivate the license; and  
  
-  (2) The inactive status fee set by the Board.  6 
+  (2) Pays the [reinstatement ] REACTIVATION  fee set by the Board.  
  
- (b) A licensee on inactive status may reactivate the license [at any time ] if the 7 
-licensee:  8 
+3–313. 
  
-  (1) Complies with the continuing education AND CARDIOPULMONARY 9 
-RESUSCITATION (CPR)  requirements in effect for the renewal period in which the 10 
-licensee seeks to reactivate the license; and  11 
+ Subject to the hearing provisions of § 3 –315 of this subtitle, the Board may deny a 
+license to any applican t, reprimand any licensee, place any licensee on probation, with or 
+without conditions, or suspend or revoke a license, or any combination thereof, if the 
+applicant or licensee:  
  
-  (2) Pays the [reinstatement ] REACTIVATION  fee set by the Board.  12 
+  (29) Fails to submit to a criminal history records check in accordance with  § 
+3–302.1 of this subtitle; [or] 
  
-3–313. 13 
+  (30) Fails to comply with any Board order ; 
  
- Subject to the hearing provisions of § 3 –315 of this subtitle, the Board may deny a 14 
-license to any applicant, reprimand any licensee, place any licensee on probation, with or 15 
-without conditions, or suspend or revoke a license, or any combination thereof, if the 16 
-applicant or licensee:  17 
+  (31) DOES AN ACT THAT IS I NCONSISTENT WITH GEN ERALLY 
+ACCEPTED PROFESSIONA L STANDARDS IN THE P RACTICE OF CHIROPRAC TIC; 
  
-  (29) Fails to submit to a criminal histor y records check in accordance with § 18 
-3–302.1 of this subtitle; [or] 19 
+  (32) FAILS TO COOPERATE WI TH A LAWFUL INVESTIG ATION 
+CONDUCTED BY THE BOARD ; OR 
  
-  (30) Fails to comply with any Board order ; 20 
+  (33) EXCEPT IN AN EMERGENC Y LIFE–THREATENING SITUATIO N 
+WHERE IT IS NOT FEAS IBLE OR PRACTICABLE , FAILS TO COMPLY WITH  THE CENTERS 
+FOR DISEASE CONTROL AND PREVENTION ’S GUIDELINES ON STAN DARD 
+PRECAUTIONS . 
  
-  (31) DOES AN ACT THAT IS I NCONSISTENT WITH GEN ERALLY 21 
-ACCEPTED PROFESSIONA L STANDARDS IN THE P RACTICE OF CHIROPRAC TIC; 22 
+3–314. 
  
-  (32) FAILS TO COOPERATE WITH A LAW FUL INVESTIGATION 23 
-CONDUCTED BY THE BOARD ; OR 24 
+ (a) If after a  hearing under § 3 –315 of this subtitle the Board finds that there are 
+grounds under § 3 –313 of this subtitle to REPRIMAND ANY LICENS EE, PLACE ANY 
+LICENSEE ON PROBATIO N, OR suspend or revoke a license, the Board may impose a 
+penalty not exceeding $5,000 fo r each violation:  
  
-  (33) EXCEPT IN AN EMERGENC Y LIFE–THREATENING SITUATIO N 25 
-WHERE IT IS NOT FEAS IBLE OR PRACTICABLE , FAILS TO COMPLY WITH  THE CENTERS 26 
-FOR DISEASE CONTROL AND PREVENTION ’S GUIDELINES ON STAN DARD  27 
-PRECAUTIONS . 28 
+  (1) Instead of REPRIMANDING THE LIC ENSEE , PLACING THE LICENSEE  
+ON PROBATION , OR suspending  OR REVOKING  the license; or  
  
-3–314. 29 
+  (2) In addition to REPRIMANDING THE LIC ENSEE , PLACING THE 
+LICENSEE ON PROBATIO N, OR suspending or revoking the license.  
  
- (a) If after a hearing under § 3 –315 of this subtitle the Board finds that there are 30 
-grounds under § 3 –313 of this subtitle to REPRIMAND ANY LICENS EE, PLACE ANY 31 
-12 HOUSE BILL 514   
+3–318. 
  
- LICENSEE ON PROBATIO N, OR suspend or revoke a license, the Board may im pose a 1 
-penalty not exceeding $5,000 for each violation:  2 
+Ch. 21  2025 LAWS OF MARYLAND   
  
-  (1) Instead of REPRIMANDING THE LIC ENSEE , PLACING THE LICENSEE  3 
-ON PROBATION , OR suspending  OR REVOKING  the license; or  4 
+– 12 –  (A) IF THE BOARD , WHILE REVIEWING AN A PPLICATION FOR LICEN SURE OR 
+INVESTIGATING AN ALL EGATION BROUGHT AGAI NST A LICENSEE UNDER  THIS TITLE , 
+HAS REASON TO BELIEV E AND OBJECTIVE EVID ENCE THAT THE APPLIC ANT OR 
+LICENSEE MAY CAUSE H ARM TO INDI VIDUALS AFFECTED BY THE APPLICANT ’S OR 
+LICENSEE ’S PRACTICE OF CHIROP RACTIC , THE BOARD SHALL REQUIRE T HE 
+APPLICANT OR LICENSE E TO SUBMIT TO AN AP PROPRIATE EXAMINATIO N BY A 
+HEALTH CARE PROVIDER  DESIGNATED BY THE BOARD .  
  
-  (2) In addition to REPRIMANDING THE LIC ENSEE , PLACING THE 5 
-LICENSEE ON PROBATIO N, OR suspending or revoking the license.  6 
+ (B) IN RETURN FOR THE PRI VILEGE TO P RACTICE CHIROPRACTIC  IN THE 
+STATE , THE APPLICANT OR LIC ENSEE IS DEEMED TO H AVE:  
  
-3–318. 7 
+  (1) CONSENTED TO SUBMIT T O AN EXAMINATION UND ER THIS 
+SECTION , IF REQUESTED BY THE BOARD IN WRITING ; AND  
  
- (A) IF THE BOARD , WHILE REVIEWING AN A PPLICATION FOR LICEN SURE OR 8 
-INVESTIGATING AN ALL EGATION BROUGHT AGAI NST A LICENSEE UNDER  THIS TITLE , 9 
-HAS RE ASON TO BELIEVE AND OBJECTIVE EVIDENCE T HAT THE APPLICANT OR  10 
-LICENSEE MAY CAUSE H ARM TO INDIVIDUALS A FFECTED BY THE APPLI CANT’S OR 11 
-LICENSEE ’S PRACTICE OF CHIROP RACTIC , THE BOARD SHALL REQUIRE T HE 12 
-APPLICANT OR LICENSE E TO SUBMIT TO AN AP PROPRIATE EXAMINATIO N BY A 13 
-HEALTH CARE PROVIDER  DESIGNATED BY THE BOARD .  14 
+  (2) WAIVED ANY CLAIM OF P RIVILEGE AS TO THE T ESTIMONY OR 
+EXAMINA TION REPORTS OF THE EXAMINING HEALTH CAR E PROFESSIONAL .  
  
- (B) IN RETURN FOR THE PRI VILEGE TO PRACTICE C HIROPRACTIC IN THE 15 
-STATE , THE APPLICANT OR LIC ENSEE IS DEEMED TO H AVE:  16 
+ (C) THE FAILURE OR REFUSA L OF THE APPLICANT O R LICENSEE TO SUBMIT  
+TO AN EXAMINATION RE QUIRED UNDER SUBSECT ION (B) OF THIS SECTION IS P RIMA 
+FACIE EVIDENCE OF TH E APPLICANT ’S OR LICENSEE ’S INABILITY TO PRACTICE 
+CHIROPRACTIC COMPETE NTLY UNLESS THE BOARD FINDS THAT THE FAILURE OR 
+REFUSAL WAS BEYOND T HE CONTROL OF THE LI CENSEE .  
  
-  (1) CONSENTED TO SUBMIT T O AN EXAMINATION UND ER THIS 17 
-SECTION , IF REQUESTED BY TH E BOARD IN WRITING ; AND  18 
+ (D) THE BOARD SHALL PAY THE C OST OF ANY EXAMINATI ON MADE UNDER 
+THIS SECTION . 
  
-  (2) WAIVED ANY CLAIM OF P RIVILEGE AS TO THE T ESTIMONY OR 19 
-EXAMINATION REPORTS OF THE EXAMINING HEA LTH CARE PROFESSIONA L.  20 
+[3–402. 
  
- (C) THE FAILURE OR REFUSA L OF THE APPLICANT O R LICENSEE TO SUBMIT  21 
-TO AN EXAMINATION RE QUIRED UNDER SUBSEC TION (B) OF THIS SECTION IS P RIMA 22 
-FACIE EVIDENCE OF TH E APPLICANT ’S OR LICENSEE ’S INABILITY TO PRACT ICE 23 
-CHIROPRACTIC COMPETE NTLY UNLESS THE BOARD FINDS THAT THE FAILURE OR 24 
-REFUSAL WAS BEYOND T HE CONTROL OF THE LI CENSEE .  25 
+ (a) The Board shall approve those schools of chiropractic that provide a 
+curriculum, teaching standards, and facilities that the Board determines are adequate to 
+prepare a license applicant to practice chiropractic under this title.  
  
- (D) THE BOARD SHALL PAY THE C OST OF ANY EXAMINATION M ADE UNDER 26 
-THIS SECTION . 27 
+ (b) To be approved under this section, a school shall o ffer a program that:  
  
-[3–402. 28 
+  (1) Is 4 academic years that total at least 4,000 60 –minute hours of 
+resident study; and  
  
- (a) The Board shall approve those schools of chiropractic that provide a 29 
-curriculum, teaching standards, and facilities that the Board determines are adequate to 30 
-prepare a license applicant to practice  chiropractic under this title.  31 
+  (2) Leads to a degree of Doctor of Chiropractic.  
  
- (b) To be approved under this section, a school shall offer a program that:  32 
+ (c) The Board may inspect any school of chiropractic to determine whether it 
+meets the st andards required by this section.  
  
- HOUSE BILL 514  13 
+ (d) The Board may approve a school in another state on the recommendation of:  
  
-   (1) Is 4 academic years that total at least 4,000 60 –minute hours of 1 
-resident study; and  2 
+ WES MOORE, Governor  Ch. 21  
  
-  (2) Leads to a degree of Doctor of Chiropractic.  3 
+– 13 –   (1) The chiropractic licensing authority of that state; or  
  
- (c) The Board may inspect any school of chiropractic to determine whether it 4 
-meets the standards required by this section.  5 
+  (2) The Council on Chiropractic Education. ] 
  
- (d) The Board may approve a school in another state on the recommendation of:  6 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 
+1, 2025.  
  
-  (1) The chiropractic licensing authority of that s tate; or  7 
- 
-  (2) The Council on Chiropractic Education. ] 8 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 9 
-1, 2025.  10 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, April 8, 2025.  

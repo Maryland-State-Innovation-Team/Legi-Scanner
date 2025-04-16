@@ -7,7 +7,7 @@ EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW .
 amendment.             *hb0003*      
 HOUSE BILL 3  
 J2   5lr1115  
-  (PRE ñFILED)  CF SB 47  
+  (PRE ‚ÄìFILED)  CF SB 47  
 By: Delegate Bagnall  
 Requested: October 4, 2024  
 Introduced and read first time: January 8, 2025  
@@ -20,24 +20,24 @@ CHAPTER ______
  
 AN ACT concerning  1 
  
-State Board of Physical Therapy Examiners ñ Revisions  2 
+State Board of Physical Therapy Examiners ‚Äì Revisions  2 
  
-FOR the purpose of clarifying the definition of ìphysical therapist assistantî as used in the 3 
+FOR the purpose of clarifying the definition of ‚Äúphysical therapist assistant‚Äù as used in the 3 
 Maryland Physical Therapy Act; altering the membership of the State Board of 4 
 Physical Therapy Examiners; requiring the Board to send renewal notices to 5 
-licensees by electronic means, rather than f irstñclass mail, unless the licensee 6 
-requests to receive the renewal notice by first ñclass mail; and generally relating to 7 
+licensees by electronic means, rather than f irst‚Äìclass mail, unless the licensee 6 
+requests to receive the renewal notice by first ‚Äìclass mail; and generally relating to 7 
 the State Board of Physical Therapy Examiners.  8 
  
 BY repealing and reenacting, without amendments,  9 
- Article ñ Health Occupations  10 
- Section 13ñ101(a) and 13 ñ311(a)  11 
+ Article ‚Äì Health Occupations  10 
+ Section 13‚Äì101(a) and 13 ‚Äì311(a)  11 
  Annotated Code of Maryland  12 
  (2021 Replacement Volume and 2024 Supplement)  13 
  
 BY repealing and reenacting, with amendments,  14 
- Article ñ Health Occupations  15 
- Section 13ñ101(g), 13 ñ202(a)(1) through (3) and (c), and 13 ñ311(b)  16 
+ Article ‚Äì Health Occupations  15 
+ Section 13‚Äì101(g), 13 ‚Äì202(a)(1) through (3) and (c), and 13 ‚Äì311(b)  16 
  Annotated Code of Maryland  17 
  (2021 Replacement Volume and 2024 Supplement)  18 
  
@@ -46,18 +46,18 @@ That the Laws of Maryland read as follows:  20
  
 2 HOUSE BILL 3   
  
- Article ñ Health Occupations  1 
+ Article ‚Äì Health Occupations  1 
  
-13ñ101. 2 
+13‚Äì101. 2 
  
  (a) In this title the following words have the meanings indicated.  3 
  
- (g) ìPhysical therapist assistantî means an individual  LICENSED BY THE STATE 4 
+ (g) ‚ÄúPhysical therapist assistant‚Äù means an individual  LICENSED BY THE STATE 4 
 BOARD OF PHYSICAL THERAPY EXAMINERS  who practices limited physical therapy and 5 
 who has passed the national physical therapy licensing examinat ion administered or 6 
 accepted by the Board.  7 
  
-13ñ202. 8 
+13‚Äì202. 8 
  
  (a) (1) The Board consists of [8] 9 members.  9 
  
@@ -79,11 +79,11 @@ names on the list shall be at least three times the number of vacancies.  20
  
  (c) [The] EACH licensed physical therapist assistant member shall:  21 
  
-  (1) Have 5 yearsí experience in limited physical therapy; and  22 
+  (1) Have 5 years‚Äô experience in limited physical therapy; and  22 
  
   (2) Be engaged in the profession of limited physical therapy in this State.  23 
  
-13ñ311. 24 
+13‚Äì311. 24 
  
  (a) (1) A license expires on the date set by the Board, unless the license is 25 
 renewed for an additional term as provided in this section.  26 
@@ -91,10 +91,10 @@ renewed for an additional term as provided in this section.  26
   (2) A license may not be renewed for a term longer than 2 years.  27 
  
  (b) (1) Except as provided in paragraph (2) of this subsection, at least 1 month 28 
-before the license expires, the Board shall send to the licensee, by  [firstñclass mail ] 29 
+before the license expires, the Board shall send to the licensee, by  [first‚Äìclass mail ] 29 
  HOUSE BILL 3  3 
  
- ELECTRONIC MEANS  to the last known  EñMAIL  address of the licensee, a renewal notice 1 
+ ELECTRONIC MEANS  to the last known  E‚ÄìMAIL  address of the licensee, a renewal notice 1 
 that states:  2 
  
    (i) The date on which the current license expires;  3 
@@ -106,11 +106,11 @@ the Board for the renewal to be issued [and mailed ] before the license expires 
  
   (2) If requested by a licensee, the Board shall send to the licensee [, at least 7 
 two times within the month before a license expires, ] a renewal notice by  [electronic means ] 8 
-FIRSTñCLASS MAIL  to the last know n [electronic mail ] address of the licensee.  9 
+FIRST‚ÄìCLASS MAIL  to the last know n [electronic mail ] address of the licensee.  9 
  
   (3) If a renewal notice sent by electronic means under paragraph  [(2)] (1) 10 
 of this subsection is returned to the Board as undeliverable, the Board shall send to the 11 
-licensee a renewal notice by first ñclass ma il to the last known address of the licensee.  12 
+licensee a renewal notice by first ‚Äìclass ma il to the last known address of the licensee.  12 
  
  SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 13 
 1, 2025.  14 

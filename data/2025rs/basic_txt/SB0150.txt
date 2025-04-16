@@ -1,705 +1,682 @@
+ WES MOORE, Governor  Ch. 66  
  
+– 1 – Chapter 66  
+(Senate Bill 150 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.  
-         Italics indicate opposite chamber/confere nce committee amendments.             *sb0150*      
-SENATE BILL 150  
-N1   (5lr1361 ) 
-ENROLLED BILL  
-— Judicial Proceedings/Environment and Transportation  — 
-Introduced by Senator Watson  
+AN ACT concerning  
  
-Read and Examined by Proofreaders:  
+Real Property – Recordation and Land Records – Requirements  
  
-_______________________________________________  
-Proofreader.  
-_______________________________________________  
-Proofreader.  
+FOR the purpose of altering certain provisions relating to the filing, maintenance, and 
+transmittal of land records; and generally relating to the recordation of instruments 
+affecting real property and land records.  
  
-Sealed with the Great Seal and presented to the Governor, for his approval this  
-  
-_______ day of _______________ at __ ______________________ o’clock, ________M.  
-  
-______________________________________________  
-President .  
+BY repealing and reenacting, with amendments,  
+ Article – Real Property  
+Section 1 –101, 3 –104(a), (d),  and (e)(1), 3 –105, 3 –106, 3 –108(a) through (d), 3 –301 
+through 3 –304, 3 –403, 3 –404, 7 –105.5(c), and 8 –402.2  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-CHAPTER ______  
+BY repealing and reenacting, without amendments,  
+ Article – Real Property  
+Section 3 –108(e) and 7 –105.5(a) and (b)  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-AN ACT concerning  1 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-Real Property – Recordation and Land Records – Requirements  2 
+Article – Real Property  
  
-FOR the purpose of altering certain provisions relating to the filing, maintenance, and 3 
-transmittal of land records; and generally relating to the recordation of instruments 4 
-affecting real property and land records.  5 
+1–101. 
  
-BY repealing and reenacting, with amendments,  6 
- Article – Real Property  7 
-Section 1–101, 3 –104(a), (d), and (e)(1), 3 –105, 3 –106, 3 –108(a) through (d), 3 –301 8 
-through 3 –304, 3 –403, 3 –404, 7 –105.5(c), and 8 –402.2  9 
- Annotated Code of Maryland  10 
- (2023 Replacement Volume and 2024 Supplement)  11 
+ (a) In this article the following words have the meanings indicated unless 
+otherwise apparent from context.  
  
-BY repealing and reenacting, without amendments,  12 
- Article – Real Property  13 
-2 SENATE BILL 150   
+ (b) “County” includes Baltimore City.  
  
- Section 3 –108(e) and 7 –105.5(a) and (b)  1 
- Annotated Code of Maryland  2 
- (2023 Replacement Volume and 2024 Supplement)  3 
+ (c) “Deed” includes any deed, grant, mortgage, deed of trust, lease, assignment, 
+and release, pe rtaining to land or property or any interest therein or appurtenant thereto, 
+including an interest in rents and profits from rents.  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 4 
-That the Laws of Maryland read as follows:  5 
+ (d) (1) “Deed of trust” means [only] a deed of trust [which ] THAT  secures a 
+debt or the performance of an obligation [, and]. 
  
-Article – Real Property  6 
+  (2) “DEED OF TRUST ” does not include a voluntary grant unrelated to 
+security purposes.  
+Ch. 66  2025 LAWS OF MARYLAND   
  
-1–101. 7 
+– 2 –  
+ (e) “Grant” includes conveyance, assignment, and transfer.  
  
- (a) In this article the following words have the meanings indicated unless 8 
-otherwise apparent from context.  9 
+ (f) “Land” [has the same meaning as “property” ] MEANS PROPERTY . 
  
- (b) “County” includes Baltimore City.  10 
+ (G) “LAND RECORD ” MEANS ANY DOCUMENT R ECORDED BY A CLERK O F 
+THE CIRCUIT COURT AFFECTING THE TITLE  RELATING  TO PROPERTY . 
  
- (c) “Deed” includes any deed, grant, mortgage, deed of trust, lease, assignment, 11 
-and release, pertaining to land or property or any interest therein or appurtenant thereto, 12 
-including an interest in rents and profits from rents.  13 
+ [(g)] (H) “Landlord” means any landlord, including a [“lessor” ] LESSOR . 
  
- (d) (1) “Deed of trust” means [only] a deed of trust [which ] THAT  secures a 14 
-debt or the performance of an ob ligation [, and]. 15 
+ [(h)] (I) “Lease” means any oral or written agreement, express or implied, 
+creating a landlord and tenant relationship, including any [“sublease” ] SUBLEASE and any 
+further sublease.  
  
-  (2) “DEED OF TRUST ” does not include a voluntary grant unrelated to 16 
-security purposes.  17 
+ [(i)] (J) “Mortgage” means any mortgage, including a deed in the nature of 
+mortgag e. 
  
- (e) “Grant” includes conveyance, assignment, and transfer.  18 
+ [(j)] (K) “Person” includes an individual, A receiver, A trustee, A guardian, AN 
+executor, AN administrator, A fiduciary, or A representative of any kind, or any partnership, 
+firm, association, public or private corporation, or any other entity.  
  
- (f) “Land” [has the same meaning as “property” ] MEANS PROPERTY . 19 
+ [(k)] (L) “Property” means real property or any interest [therein or appurtenant 
+thereto ] IN REAL PROPERTY . 
  
- (G) “LAND RECORD ” MEANS ANY DOCUMENT R ECORDED BY A CLERK O F 20 
-THE CIRCUIT COURT AFFECTING THE TITLE  RELATING  TO PROPERTY . 21 
+ [(l)] (M) “Purchaser” [has the same meaning as ] MEANS A  buyer or vendee.  
  
- [(g)] (H) “Landlord” means any landlord, including a [“lessor” ] LESSOR . 22 
+ [(m)] (N) “Tenant” means any tenant including a [“lessee” ] LESSEE . 
  
- [(h)] (I) “Lease” means any oral or written agreement, express o r implied, 23 
-creating a landlord and tenant relationship, including any [“sublease” ] SUBLEASE and any 24 
-further sublease.  25 
+ [(n)] (O) “Vendor” [has the same meaning as ] MEANS A  seller.  
  
- [(i)] (J) “Mortgage” means any mortgage, including a deed in the nature of 26 
-mortgage.  27 
+3–104. 
  
- [(j)] (K) “Person” includes an individual, A receiver, A trustee, A guardian, AN 28 
-executor, AN administrator, A fiduciary, or A representative of any kind, or any partnership, 29 
-firm, association, public or private corporation, or any other entity.  30 
+ (a) (1) The [Clerk of the Circuit Court ] CLERK OF THE CIRCUIT  COURT  may 
+record an instrument that effects a change of ownership if the instrument is:  
  
- SENATE BILL 150  3 
+   (i) Endorsed with the certificate of the collector of taxes of the 
+county in which the property is assessed, required under subsection (b) of this section;  
  
-  [(k)] (L) “Property” means real property or any inter est [therein or appurtenant 1 
-thereto ] IN REAL PROPERTY . 2 
+   (ii) 1. Accompanied by a complete intake sheet; or  
  
- [(l)] (M) “Purchaser” [has the same meaning as ] MEANS A  buyer or vendee.  3 
- 
- [(m)] (N) “Tenant” means any tenant including a [“lessee” ] LESSEE . 4 
- 
- [(n)] (O) “Vendor” [has the same meaning as ] MEANS A  seller.  5 
- 
-3–104. 6 
- 
- (a) (1) The [Clerk of the Circuit Court ] CLERK OF THE CIRCUIT  COURT  may 7 
-record an instrument that effects a change of ownership if the instrument is:  8 
- 
-   (i) Endorsed with the certificate of the collector of taxes of the 9 
-county in which the property is assessed, required under subsection (b) of this section;  10 
- 
-   (ii) 1. Accompanied by a complete intake sheet; or  11 
- 
-    2. Endorsed by the assessment office for the county as 12 
-provided in subsection (g)(8) of this section; and  13 
- 
-   (iii) Accomp anied by a copy of the instrument, and any survey, for 14 
-submission to the Department of Assessments and Taxation.  15 
- 
-  (2) The Supervisor of Assessments shall transfer ownership of property in 16 
-the assessment records, effective as of the date of recordation, [upon] ON receipt from the 17 
-[Clerk of the Circuit Court ] CLERK OF THE CIRCUIT  COURT  of a copy of the instrument, 18 
-the completed intake sheet, and any survey submitted under paragraph (1) of this 19 
-subsection  OR DOCUMENTS RECEIVE D THROUGH AN ELECTRO NIC RECORDATI ON 20 
-SYSTEM . 21 
- 
- (d) (1) Every deed or other instrument offered for recordation shall have the 22 
-name of each person typed or printed directly above or below the signature of the person.  23 
- 
-  (2) If a typed or printed name is not provided as required in this subsection, 24 
-the clerk shall make reasonable efforts to determine the correct name under which the deed 25 
-or other instrument shall be indexed.  26 
- 
- (e) (1) (I) Any printed deed or other instrument offered for recordation 27 
-shall [be]: 28 
- 
-    1. BE printed in not less than [eight –point ] 10 8 POINT  type 29 
-and in black letters and be on white paper of sufficient weight and thickness to be clearly 30 
-readable. If the deed or other instrument is wholly typewritten or typewritten on a printed 31 
-4 SENATE BILL 150   
- 
- form, the typewr iting shall be in black letters, in not less than elite type and [upon] ON 1 
-white paper of sufficient weight or thickness as to be clearly readable. The foregoing 2 
-provisions do not apply to manuscript covers or backs customarily used on documents 3 
-offered fo r recordation. The recording charge for any instrument not conforming to these 4 
-requirements shall be [treble ] THREE TIMES  the normal [charge ] AMOUNT CHARGED . In 5 
-any clerk’s office where the deeds or other instruments are [photostated or microfilmed ] 6 
-SCANNE D, no instrument on which a rider has been placed or attached in a manner 7 
-obscuring, hiding, or covering any other part of the instrument may be offered or received 8 
-for record. No instrument not otherwise readily subject to [photostating or microfilming ] 9 
-SCANNING  may be offered or received for record until [treble ] THREE TIMES  the normal 10 
-recording charge is paid to the clerk and unless an affidavit, black type on white paper, is 11 
-attached and made a part of the document stating the kind of instrument, the da te, the 12 
-parties to the transaction, description of the property, and all other pertinent data ; AND  13 
- 
-    2. INCLUDE AT LEAST A 3–INCH MARGIN AT THE T OP OF 14 
-THE FIRST PAGE AND 1–INCH MARGINS ON ALL REMAINING  THE LEFT AND RIGHT  15 
-SIDES OF EACH PAGE O F THE INSTRUMENT FOR OFFIC IAL USE . 16 
- 
-   (II) A CLERK MAY REFUSE TO RECORD AN INSTRUMENT  THAT  17 
-DOES NOT MEET THE RE QUIREMENTS OF SUBPAR AGRAPH (I) OF THIS PARAGRAPH  18 
-MAY NOT BE HELD LIAB LE FOR FAILURE OF A DOCUMENT THAT DOES N OT MEET THE 19 
-REQUIREMENTS OF SUBP ARAGRAPH (I) OF THIS PARAGRAPH TO  BE EFFECTIVELY 20 
-SCANNED OR PRESERVED  FOR RECORD . 21 
- 
-   (III) After any document has been recorded in one county, a certified 22 
-copy of the recorded document may be recorded in any other county.  23 
- 
-3–105. 24 
- 
- (a) A mortgage or deed of trust may be released validly by any procedure 25 
-enumerated in this section or § 3 –105.2 of this subtitle.  26 
- 
- (b) (1) A release may be endorsed on the original mortgage or deed of trust by 27 
-the mortgagee or [his] AN assignee OF THE MORTGAGEE , the trustee or [his] A successor 28 
-OF THE TRUSTEE  under a deed of trust, or by the holder of the debt or obligation secured 29 
-by the deed of trust.  30 
- 
-  (2) The mortgage or the deed of trust, with the endorsed release, then shall 31 
-be filed in the office in which the mortgage or deed of  trust is recorded.  32 
- 
-  (3) The clerk shall record the release [photographically ], with an 33 
-attachment or rider affixed to it containing the names of the parties as they appear on the 34 
-original mortgage or deed of trust, together with a reference to the book and page number 35 
-where the mortgage or deed of trust is recorded.  36 
- 
- SENATE BILL 150  5 
- 
-  [(c) At the option of the clerk of the court in whose office the book form of recording 1 
-is used, the release may be written by the mortgagee, or his assignee, or the trustee, or his 2 
-success or under a deed of trust, on the record in the office where the mortgage or deed of 3 
-trust is recorded and attested by the clerk of the court. At the time of recording any 4 
-mortgage or deed of trust, the clerk of the court in whose office the book form of re cording 5 
-is used shall leave a blank space at the foot of the mortgage or deed of trust for the purpose 6 
-of entering such release. ] 7 
- 
- [(d)] (C) (1) (I) When the debt secured by a deed of trust is paid fully or 8 
-satisfied, and any bond, note, or other evidence  of the total indebtedness is marked “paid” 9 
-or “canceled” by the holder or [his] AN agent OF THE HOLDER , it may be received by the 10 
-clerk and indexed and recorded as any other instrument in the nature of a release.  11 
- 
-   (II) The marked note has the same effect as a release of the property 12 
-for which it is the security, as if a release were executed by the named trustees, if there is 13 
-attached to or endorsed on the note an affidavit of the holder, the party making satisfaction, 14 
-or an agent of either of them,  that it has been paid or satisfied, and specifically setting forth 15 
-the land record reference where the original deed of trust is recorded.  16 
- 
-  (2) (I) When the debt secured by a mortgage is paid fully or satisfied, 17 
-and the original mortgage is marked “paid ” or “canceled” by the mortgagee or [his] AN 18 
-agent OF THE MORTGAGEE , it may be received by the clerk and indexed and recorded as 19 
-any other instrument in the nature of a release.  20 
- 
-   (II) The marked mortgage has the same effect as a release of the 21 
-property for which it is the security, as if a release were executed by the mortgagee, if there 22 
-is attached to or endorsed on the mortgage an affidavit of the mortgagee, the mortgagor, 23 
-the party m aking satisfaction, or the agent of [any of them ] THE MORTGAGEE , THE 24 
-MORTGAGOR , OR THE PARTY MAKING SATISFACTION , that it has been paid or satisfied, 25 
-and specifically setting forth the land record reference where the mortgage is recorded.  26 
- 
-  (3) (I) When t he debt secured by a mortgage or deed of trust is paid fully 27 
-or satisfied, and the canceled check evidencing final payment or, if the canceled check is 28 
-unavailable, a copy of the canceled check accompanied by a certificate from the institution 29 
-on which the  check was drawn stating that the copy is a true and genuine image of the 30 
-original check is presented, it may be received by the clerk and indexed and recorded as 31 
-any other instrument in the nature of a release.  32 
- 
-   (II) The canceled check or copy accompan ied by the certificate has 33 
-the same effect as a release of the property for which the mortgage or deed of trust is the 34 
-security, as if a release were executed by the mortgagee or named trustees, if:  35 
- 
-   [(i)] 1. The party making satisfaction of the mortgag e or deed of 36 
-trust has:  37 
- 
-6 SENATE BILL 150   
- 
-     [1.] A. Allowed at least a 60 –day waiting period, from the 1 
-date the mortgage or deed of trust is paid fully or is satisfied, for the party satisfied to 2 
-provide a release suitable for recording;  3 
- 
-    [2.] B. Sent the party satis fied a copy of this section and a 4 
-notice that, unless a release is provided within 30 days, the party making satisfaction will 5 
-obtain a release by utilizing the provisions of this paragraph; and  6 
- 
-    [3.] C. Following the mailing of the notice required und er 7 
-item 2 of this item, allowed an additional waiting period of at least 30 days for the party 8 
-satisfied to provide a release suitable for recording; [and] 9 
- 
-   [(ii)] 2. The canceled check or copy accompanied by the certificate 10 
-contains the name of the par ty whose debt is being satisfied, the debt account number, if 11 
-any, and words indicating that the check is intended as payment in full of the debt being 12 
-satisfied; and  13 
- 
-   [(iii)] 3. There is attached to the canceled check or copy 14 
-accompanied by the certifi cate an affidavit made by a member of the Maryland Bar that 15 
-the mortgage or deed of trust has been satisfied, that the notice required under item [(i)] 1 16 
-of this [paragraph ] SUBPARAGRAPH  has been sent, and specifically setting forth the land 17 
-record reference where the original mortgage or deed of trust is recorded.  18 
- 
-  (4) (I) When the debt secured by a mortgage or deed of trust is fully paid 19 
-or satisfied and the holder or the agent of the  holder of the mortgage or deed of trust note 20 
-or other obligation secured by the deed of trust, or the trustee or successor trustee under 21 
-the deed of trust, executes and acknowledges a certificate of satisfaction substantially in 22 
-the form specified under §  4–203(d) of this article, containing the name of the debtor, holder, 23 
-the authorized agent of the holder, or the trustee or successor trustee under the deed of 24 
-trust, the date, and the land record recording reference of the instrument to be released, it 25 
-may be received by the clerk and indexed and recorded as any other instrument in the 26 
-nature of a release.  27 
- 
-   (II) The certificate of satisfaction shall have the same effect as a 28 
-release executed by the holder of a mortgage or the named trustee under a deed of trust.  29 
- 
-  (5) (I) When the holder of a mortgage or deed of trust note or other 30 
-obligation secured by the deed of trust has agreed to release certain property from the lien 31 
-of the mortgage or deed of trust and the holder or the agent of the holder of the  mortgage 32 
-or deed of trust note or other obligation secured by the deed of trust, or the trustee or 33 
-successor trustee under the deed of trust executes and acknowledges a certificate of partial 34 
-satisfaction or partial release substantially in the form speci fied under § 4 –203(e) of this 35 
-article, containing the name of the debtor, holder, the authorized agent of the holder, or the 36 
-trustee or successor trustee under the deed of trust, the date, the land record recording 37 
-reference of the instrument to be partial ly released, and a description of the real property 38 
- SENATE BILL 150  7 
- 
- being released, it may be received by the clerk and indexed and recorded as any other 1 
-instrument in the nature of a partial release.  2 
- 
-   (II) The certificate of partial satisfaction or partial release shall have 3 
-the same effect as a partial release executed by the holder of a mortgage, the holder of the 4 
-debt secured by a deed of trust, or the named trustee under a deed of trust.  5 
- 
- [(e)] (D) A release of a mortgage or deed of trust may be made on a separ ate 6 
-instrument if it states that the mortgagee, holder of the debt or obligation secured by the 7 
-deed of trust, trustee, or assignee releases the mortgage or deed of trust and states the 8 
-names of the parties to the mortgage or deed of trust and the date and  recording reference 9 
-of the mortgage or deed of trust to be released. In addition, any form of release that satisfies 10 
-the requirements of a deed and is recorded as required by this article is sufficient.  11 
- 
- [(f)] (E) (1) A holder of a debt secured by a mort gage or deed of trust, or a 12 
-successor of a holder, may release part of the collateral securing the mortgage or deed of 13 
-trust by executing and acknowledging a partial release on an instrument separate from the 14 
-mortgage or deed of trust.  15 
- 
-  (2) A partial rel ease shall:  16 
- 
-   (i) Be executed and acknowledged;  17 
- 
-   (ii) Contain the names of the parties to the mortgage or deed of trust, 18 
-the date, and the land record recording reference of the instrument subject to the partial 19 
-release; and  20 
- 
-   (iii) Otherwise satisf y the requirements of a valid deed.  21 
- 
-  (3) The clerk of the court shall accept, index, and record, as a partial 22 
-release, an instrument that complies with and is filed under this section.  23 
- 
-  (4) Unless otherwise stated in an instrument recorded among the la nd 24 
-records, a trustee under a deed of trust may execute, acknowledge, and deliver partial 25 
-releases.  26 
- 
- [(g)] (F) If a full or partial release of a mortgage or deed of trust is recorded 27 
-[other than at the foot of the recorded mortgage or deed of trust ], the clerk shall place a 28 
-reference to the book and page number or other place where the release is recorded on the 29 
-recorded mortgage or deed of trust.  30 
- 
- [(h)] (G) Unless otherwise expressly provided in the release, a full or partial 31 
-release that is recorded for  a mortgage or deed of trust that is re –recorded, amended, 32 
-modified, or otherwise altered or affected by a supplemental instrument and which cites 33 
-the released mortgage or deed of trust by reference to only the original recorded mortgage, 34 
-deed of trust, or  supplemental instrument to the original mortgage or deed of trust, shall 35 
-8 SENATE BILL 150   
- 
- be effective as a full or partial release of the original mortgage or deed of trust and all 1 
-supplemental instruments to the original mortgage or deed of trust.  2 
- 
- [(i)] (H) Unless otherwise expressly provided in the release, a full or partial 3 
-release that is recorded for a mortgage or deed of trust, or for any re –recording, amendment, 4 
-modification, or supplemental instrument to the mortgage or deed of trust shall terminate 5 
-or partia lly release any related financing statements, but only to the extent that the 6 
-financing statements describe fixtures that are part of the collateral described in the full 7 
-or partial release.  8 
- 
-3–106. 9 
- 
- The clerk of the CIRCUIT court shall record [photographically ] any assignment of a 10 
-mortgage with an attachment or rider affixed to it containing the names of the parties as 11 
-they appear on the original mortgage and a reference to the book number and page number 12 
-where the mortgage is recorded.  13 
- 
-3–108. 14 
- 
- (a) (1) Except as provided in paragraph (2) of this subsection, the provisions of 15 
-this section are in addition to any other provisions of the Code, pertaining to recordation of 16 
-subdivision plats.  17 
- 
-  (2) [The provisions of this ] THIS section [do] DOES  not apply in Queen 18 
-Anne’s County.  19 
- 
- (b) (1) If the owner of land in the State subdivides [his] THE land for 20 
-commercial, industrial, or residential use to be comprised of streets, avenues, lanes, or 21 
-alleys and lots, and desires, for the purpose of description and identification, to record a 22 
-plat of the subdivision among the land records of the county where the land lies, the clerk 23 
-of the court shall accept and record the plat as prescribed in this section.  24 
- 
-  (2) The clerk may not accept the plat for record unt il the owner of land 25 
-complies with the requirements prescribed in this section.  26 
- 
- (c) (1) In this subsection, “coordinate” means a number which determines the 27 
-position of any point in a north or south and an east or west direction in relation to any 28 
-other point in the same coordinate system.  29 
- 
-  (2) The plat shall be legible, drawn accurately and to scale and shall be 30 
-submitted for recordation using black ink on transparent mylar [, or linen ] or black –line 31 
-photo process comparable to original quality that wil l conform to archival standards. [The 32 
-State Highway Administration may substitute microfilm aperture cards showing property 33 
-or rights –of–way to be acquired or granted. Microfilm aperture cards must meet archival 34 
-standards for permanent records. ] 35 
- 
- SENATE BILL 150  9 
- 
-   (3) The plat shall contain the courses and distances of all lines drawn on 1 
-the plat.  2 
- 
-  (4) With respect to all curved lines, the plat shall show the length of all 3 
-radii, arcs, and tangents and the courses and distances of all chords.  4 
- 
-  (5) The plat shall contai n a north arrow which represents and designates 5 
-either true or magnetic meridian as of a date specified on the plat or shall be referenced to 6 
-a recognized coordinate system within the county.  7 
- 
-  (6) All courses shown on the plat shall be calculated from th e plat meridian.  8 
- 
-  (7) No distance on the plat may be marked “more or less” except on lines 9 
-which begin, terminate, or bind on a marsh, stream, or any body of water.  10 
- 
-  (8) (I) The plat shall show the position by coordinates of not less than 11 
-four markers set in convenient places within the subdivision in a manner so that the 12 
-position of one marker is visible from the position of one other marker.  13 
- 
-   (II) From these markers, commonly called [“traverse points” ] 14 
-TRAVERSE POINTS , every corner and line can be readily calculated and marked on the 15 
-ground.  16 
- 
-   (III) These markers shall comply with standards that the State Board 17 
-for Professional Land Surveyors sets by regulation under § 15 –208 of the Business 18 
-Occupations and Professions Article.  19 
- 
-  (9) A certificat e stating that the requirement of this subsection, as far as it 20 
-concerns the making of the plat and setting of the markers, shall be put on the plat and 21 
-signed by the owner of the land shown on the plat to the best of [his] THE OWNER ’S 22 
-knowledge and by the  professional land surveyor or property line surveyor preparing it.  23 
- 
- (d) (1) [Three linen ] THE OWNER SHALL MAIL OR DELIVER THREE  copies 24 
-of the plat [shall be mailed or delivered ] to the clerk.  25 
- 
-  (2) (I) [The] EXCEPT AS PROVIDED IN  SUBPARAGRAPH (II) OF TH IS 26 
-PARAGRAPH , THE fee is $5 for each set of plats [, except that a ]. 27 
- 
-   (II) A fee is not required for plats [or microfilm aperture cards ] 28 
-showing property or rights –of–way to be acquired or granted by the State Highway 29 
-Administration.  30 
- 
-   (III) THE CLERK MAY ASSESS ADDITIONA L FEES IF REQUIRED B Y 31 
-LOCAL LAW OR ORDINAN CE. 32 
- 
-10 SENATE BILL 150   
- 
-  (e) Each plat shall be signed and sealed by a professional land surveyor or 1 
-property line surveyor licensed in the State.  2 
- 
-3–301. 3 
- 
- (a) (1) If the person offering a deed or other instrument affecting property for 4 
-record first pays the recording fees, the clerk of the circuit court of each county shall record 5 
-every deed and other instrument affecting property in [well–bound books to be named 6 
-“Land Records”, if that is the practice in the county, or on microfilm, if that is the practice ] 7 
-LAND RECORDS AVAILAB LE TO THE PUBLIC . 8 
- 
-  (2) The clerk shall endorse on the deed or other instrument the time [he 9 
-receives ] OF RECEIPT OF  the document for record ing and the endorsement shall show in 10 
-the [Land Records ] LAND RECORDS . 11 
- 
-  (3) Any deed or other instrument affecting property which also affects 12 
-personal property shall be recorded in the same manner in the [Land Records ] LAND 13 
-RECORDS  only, and not in the [“Financing Records” ] FINANCING STATEMENTS . 14 
- 
- (b) If an interested party so requests, the [“Financing Records” ] FINANCING 15 
-STATEMENTS  provided for in § 9 –402(9) of the Commercial Law Article shall include a 16 
-notation that the instrument is recorded among the  [“Land Records” ] LAND RECORDS . 17 
-The instrument also shall be indexed in the general alphabetical index provided in § 3 –302 18 
-of this subtitle. The notation and indexing have the same effect as if the instrument were 19 
-recorded in full among the [“Financing Rec ords” ] FINANCING STATEMENTS . 20 
- 
- (c) (1) The clerk may not refuse to accept any deed or other document entitled 21 
-to be recorded, solely on the grounds that the deed or document contains a  22 
-strike –through, interlineation, or other corrections.  23 
- 
-  (2) The clerk may refuse to accept for re –recording, a previously recorded 24 
-deed or document that has been corrected or altered by a strike –through, interlineation, or 25 
-similar corrective measures, and that has not been re –executed, [initialled ] INITIALED , or 26 
-otherwise ratified in writing by the party or parties affected by the correction.  27 
- 
-3–302. 28 
- 
- (a) (1) The clerk of the circuit court of each county shall make and maintain a 29 
-full and complete general alphabetical index of every deed, and other instrument [in a  30 
-well–bound book in his office ]. 31 
- 
-  (2) The index shall  [be]: 32 
- 
-   (I) BE both in the name of each grantor, donor, mortgagor, and 33 
-assignor, and each grantee, donee, mortgagee, or assignee [. It shall include ]; AND  34 
- SENATE BILL 150  11 
- 
-  
-   (II) INCLUDE  the book and page of the  recordation of every 1 
-instrument designating these names.  2 
- 
-  (3) The clerk shall index every deed or other instrument [retaining a 3 
-vendor’s lien both as a deed and as a vendor’s lien, ] in the same manner as mortgages are 4 
-indexed.  5 
- 
- (b) [In every clerk’s of fice where land records are not recorded in book form, the ] 6 
-THE clerk shall index every assignment of a mortgage, deed of trust, and release or partial 7 
-[releases ] RELEASE  of a MORTGAGE OR  deed of trust, whether in long or short form [, in 8 
-the general alphabetical index, and shall place an entry in the general alphabetical index 9 
-where the instrument is indexed, on the same horizontal line, indicating the place of record 10 
-of the original instrument being assigned or released ]. 11 
- 
- [(c) The clerk of the circ uit court of each county shall date each change or 12 
-correction made to information in the general alphabetical index on the horizontal line on 13 
-which the change or correction was made. ] 14 
- 
- [(d)] (C) (1) If a court [of equity ] decrees a payment of cost or make s some 15 
-other decree for payment of money by a plaintiff, the clerk immediately shall [enter ] INDEX  16 
-the plaintiff’s name [in a separate index, known as the index of plaintiffs ]. 17 
- 
-  (2) Until the plaintiff’s name is indexed, no lien under the decree arises 18 
-against the property of the plaintiff and no right of execution accrues on the decree.  19 
- 
- [(e)] (D) (1) The clerk shall [include in the ] index each property identifier 20 
-provided on an intake sheet under § 3 –104(g) of this title [or, if the space available in the 21 
-index will not accommodate all of the identifiers, then as many as the space allows, giving 22 
-priority to identifiers in the order in which they are listed in § 3 –104(g)(3)(i) of this title ]. 23 
- 
-  (2) The clerk shall rely on the instrument that is accompan ied by the 24 
-intake sheet for indexing of grantor’s and grantee’s names.  25 
- 
-3–303. 26 
- 
- The clerk shall [make a microfilm picture or other copy of every document he records 27 
-and] transmit [the microfilm pictures or copies ] RECORDED DOCUMENTS to the State 28 
-Archivist [at the end of each year. When requested by the State Archivist, the clerk also 29 
-shall make a microfilm picture or copy of the general index ]. 30 
- 
-3–304. 31 
- 
-12 SENATE BILL 150   
- 
-  (a) Except as provided in subsection (e) of this section, the clerk shall [fasten  1 
-securely one copy of ] RECORD  each plat described under § 3 –108 of this title [in a book 2 
-provided for that purpose or shall record the plat ]. 3 
+    2. Endorsed by the assessment office for th e county as 
+provided in subsection (g)(8) of this section; and  
  
- (b) The clerk promptly shall send one copy of each plat to the supervisor of 4 
-assessments of the county and one c opy, with one half of the filing fee, to the State Archivist, 5 
-who shall number and file the plat as part of the records of the State Archivist’s office [and 6 
-shall notify the clerk of the number given ]. 7 
+   (iii) Accompanied by a copy of the instrument, and any survey, for 
+submission to the Department of Assessments and Taxation.  
+ WES MOORE, Governor  Ch. 66  
  
- (c) The State Archivist shall mail or deliver, free of cost, to any supervisor of 8 
-assessments of the State, a copy of the plat on request.  9 
+– 3 –  
+  (2) The Supervisor of Assessments shall transfer ownership of  property in 
+the assessment records, effective as of the date of recordation, [upon] ON receipt from the 
+[Clerk of the Circuit Court ] CLERK OF THE CIRCUIT  COURT  of a copy of the instrument, 
+the completed intake sheet, and any survey submitted under paragra ph (1) of this 
+subsection  OR DOCUMENTS RECEIVE D THROUGH AN ELECTRO NIC RECORDATION 
+SYSTEM . 
+ 
+ (d) (1) Every deed or other instrument offered for recordation shall have the 
+name of each person typed or printed directly above or below the signature of the pers on. 
+ 
+  (2) If a typed or printed name is not provided as required in this subsection, 
+the clerk shall make reasonable efforts to determine the correct name under which the deed 
+or other instrument shall be indexed.  
+ 
+ (e) (1) (I) Any printed deed or other i nstrument offered for recordation 
+shall [be]: 
+ 
+    1. BE printed in not less than [eight –point ] 10 8 POINT  type 
+and in black letters and be on white paper of sufficient weight and thickness to be clearly 
+readable. If the deed or other instrument is wholly typewritten or typewritten on a printed 
+form, the typewriting shall be in black letters, in not less than elite type and [upon] ON 
+white paper of sufficient weight or thickness as to be clearly readable. The foregoing 
+provisions do not apply to manuscript covers or backs customarily used on documents 
+offered for recordation. The recording charge for any instru ment not conforming to these 
+requirements shall be [treble ] THREE TIMES  the normal [charge ] AMOUNT CHARGED . In 
+any clerk’s office where the deeds or other instruments are [photostated or microfilmed ] 
+SCANNED , no instrument on which a rider has been placed or attached in a manner 
+obscuring, hiding, or covering any other part of the instrument may be offered or received 
+for record. No instrument not otherwise readily subject to [photostating or microfilming ] 
+SCANNING  may be offered or received for record unti l [treble ] THREE TIMES  the normal 
+recording charge is paid to the clerk and unless an affidavit, black type on white paper, is 
+attached and made a part of the document stating the kind of instrument, the date, the 
+parties to the transaction, description of  the property, and all other pertinent data ; AND  
+ 
+    2. INCLUDE AT LEAST A 3–INCH MARGIN AT THE T OP OF 
+THE FIRST PAGE AND 1–INCH MARGINS ON ALL REMAINING  THE LEFT AND RIGHT  
+SIDES OF EACH PAGE O F THE INSTRUMENT FOR  OFFICIAL USE . 
+ 
+   (II) A CLERK MAY REFUSE  TO RECORD AN INSTRUM ENT THAT  
+DOES NOT MEET THE RE QUIREMENTS OF SUBPAR AGRAPH (I) OF THIS PARAGRAPH  
+MAY NOT BE HELD LIAB LE FOR FAILURE OF A DOCUMENT THAT DOES N OT MEET THE 
+REQUIREMENTS OF SUBP ARAGRAPH (I) OF THIS PARAGRAPH TO  BE EFFECTIVELY 
+SCANNED OR PRESE RVED FOR RECORD . 
+Ch. 66  2025 LAWS OF MARYLAND   
+ 
+– 4 –  
+   (III) After any document has been recorded in one county, a certified 
+copy of the recorded document may be recorded in any other county.  
+ 
+3–105. 
+ 
+ (a) A mortgage or deed of trust may be released validly by any procedure 
+enumerated in this section or § 3 –105.2 of this subtitle.  
+ 
+ (b) (1) A release may be endorsed on the original mortgage or deed of trust by 
+the mortgagee or [his] AN assignee OF THE MORTGAGEE , the trustee or [his] A successor 
+OF THE TRUSTEE  under a deed of trust, or by t he holder of the debt or obligation secured 
+by the deed of trust.  
+ 
+  (2) The mortgage or the deed of trust, with the endorsed release, then shall 
+be filed in the office in which the mortgage or deed of trust is recorded.  
+ 
+  (3) The clerk shall record the r elease [photographically ], with an 
+attachment or rider affixed to it containing the names of the parties as they appear on the 
+original mortgage or deed of trust, together with a reference to the book and page number 
+where the mortgage or deed of trust is recorded.  
+ 
+ [(c) At the option of the clerk of the court in whose office the book form of recording 
+is used, the release may be written by the mortgagee, or his assignee, or the trustee, or his 
+successor under a deed of trust, on the record in the office w here the mortgage or deed of 
+trust is recorded and attested by the clerk of the court. At the time of recording any 
+mortgage or deed of trust, the clerk of the court in whose office the book form of recording 
+is used shall leave a blank space at the foot o f the mortgage or deed of trust for the purpose 
+of entering such release. ] 
+ 
+ [(d)] (C) (1) (I) When the debt secured by a deed of trust is paid fully or 
+satisfied, and any bond, note, or other evidence of the total indebtedness is marked “paid” 
+or “cancele d” by the holder or [his] AN agent OF THE HOLDER , it may be received by the 
+clerk and indexed and recorded as any other instrument in the nature of a release.  
+ 
+   (II) The marked note has the same effect as a release of the property 
+for which it is the sec urity, as if a release were executed by the named trustees, if there is 
+attached to or endorsed on the note an affidavit of the holder, the party making satisfaction, 
+or an agent of either of them, that it has been paid or satisfied, and specifically setti ng forth 
+the land record reference where the original deed of trust is recorded.  
+ 
+  (2) (I) When the debt secured by a mortgage is paid fully or satisfied, 
+and the original mortgage is marked “paid” or “canceled” by the mortgagee or [his] AN 
+agent OF THE M ORTGAGEE , it may be received by the clerk and indexed and recorded as 
+any other instrument in the nature of a release.  
+ WES MOORE, Governor  Ch. 66  
+ 
+– 5 –  
+   (II) The marked mortgage has the same effect as a release of the 
+property for which it is the security, as if a release were executed by the mortgagee, if there 
+is attached to or endorsed on the mortgage an affidavit of the mortgagee, the mortgagor, 
+the party m aking satisfaction, or the agent of [any of them ] THE MORTGAGEE , THE 
+MORTGAGOR , OR THE PARTY MAKING SATISFACTION , that it has been paid or satisfied, 
+and specifically setting forth the land record reference where the mortgage is recorded.  
+ 
+  (3) (I) When t he debt secured by a mortgage or deed of trust is paid fully 
+or satisfied, and the canceled check evidencing final payment or, if the canceled check is 
+unavailable, a copy of the canceled check accompanied by a certificate from the institution 
+on which the  check was drawn stating that the copy is a true and genuine image of the 
+original check is presented, it may be received by the clerk and indexed and recorded as 
+any other instrument in the nature of a release.  
+ 
+   (II) The canceled check or copy accompan ied by the certificate has 
+the same effect as a release of the property for which the mortgage or deed of trust is the 
+security, as if a release were executed by the mortgagee or named trustees, if:  
+ 
+   [(i)] 1. The party making satisfaction of the mortgag e or deed of 
+trust has:  
+ 
+    [1.] A. Allowed at least a 60 –day waiting period, from the 
+date the mortgage or deed of trust is paid fully or is satisfied, for the party satisfied to 
+provide a release suitable for recording;  
+ 
+    [2.] B. Sent the party satis fied a copy of this section and a 
+notice that, unless a release is provided within 30 days, the party making satisfaction will 
+obtain a release by utilizing the provisions of this paragraph; and  
+ 
+    [3.] C. Following the mailing of the notice required under 
+item 2 of this item, allowed an additional waiting period of at least 30 days for the party 
+satisfied to provide a release suitable for recording; [and] 
+ 
+   [(ii)] 2. The canceled check or copy accompanied  by the certificate 
+contains the name of the party whose debt is being satisfied, the debt account number, if 
+any, and words indicating that the check is intended as payment in full of the debt being 
+satisfied; and  
+ 
+   [(iii)] 3. There is attached to the c anceled check or copy 
+accompanied by the certificate an affidavit made by a member of the Maryland Bar that 
+the mortgage or deed of trust has been satisfied, that the notice required under item [(i)] 1 
+of this [paragraph ] SUBPARAGRAPH  has been sent, and specifically setting forth the land 
+record reference where the original mortgage or deed of trust is recorded.  
+ 
+Ch. 66  2025 LAWS OF MARYLAND   
+ 
+– 6 –   (4) (I) When the debt secured by a mortgage or deed of trust is fully paid 
+or satisfied and the holder or the agent of the  holder of the mortgage or deed of trust note 
+or other obligation secured by the deed of trust, or the trustee or successor trustee under 
+the deed of trust, executes and acknowledges a certificate of satisfaction substantially in 
+the form specified under §  4–203(d) of this article, containing the name of the debtor, holder, 
+the authorized agent of the holder, or the trustee or successor trustee under the deed of 
+trust, the date, and the land record recording reference of the instrument to be released, it 
+may be received by the clerk and indexed and recorded as any other instrument in the 
+nature of a release.  
+ 
+   (II) The certificate of satisfaction shall have the same effect as a 
+release executed by the holder of a mortgage or the named trustee under a deed of trust.  
+ 
+  (5) (I) When the holder of a mortgage or deed of trust note or other 
+obligation secured by the deed of trust has agreed to release certain property from the lien 
+of the mortgage or deed of trust and the holder or the agent of the holder of the  mortgage 
+or deed of trust note or other obligation secured by the deed of trust, or the trustee or 
+successor trustee under the deed of trust executes and acknowledges a certificate of partial 
+satisfaction or partial release substantially in the form speci fied under § 4 –203(e) of this 
+article, containing the name of the debtor, holder, the authorized agent of the holder, or the 
+trustee or successor trustee under the deed of trust, the date, the land record recording 
+reference of the instrument to be partial ly released, and a description of the real property 
+being released, it may be received by the clerk and indexed and recorded as any other 
+instrument in the nature of a partial release.  
+ 
+   (II) The certificate of partial satisfaction or partial release sha ll have 
+the same effect as a partial release executed by the holder of a mortgage, the holder of the 
+debt secured by a deed of trust, or the named trustee under a deed of trust.  
+ 
+ [(e)] (D) A release of a mortgage or deed of trust may be made on a separate  
+instrument if it states that the mortgagee, holder of the debt or obligation secured by the 
+deed of trust, trustee, or assignee releases the mortgage or deed of trust and states the 
+names of the parties to the mortgage or deed of trust and the date and re cording reference 
+of the mortgage or deed of trust to be released. In addition, any form of release that satisfies 
+the requirements of a deed and is recorded as required by this article is sufficient.  
+ 
+ [(f)] (E) (1) A holder of a debt secured by a mortgag e or deed of trust, or a 
+successor of a holder, may release part of the collateral securing the mortgage or deed of 
+trust by executing and acknowledging a partial release on an instrument separate from the 
+mortgage or deed of trust.  
+ 
+  (2) A partial releas e shall:  
+ 
+   (i) Be executed and acknowledged;  
+ 
+ WES MOORE, Governor  Ch. 66  
+ 
+– 7 –    (ii) Contain the names of the parties to the mortgage or deed of trust, 
+the date, and the land record recording reference of the instrument subject to the partial 
+release; and  
+ 
+   (iii) Otherwise satisfy t he requirements of a valid deed.  
+ 
+  (3) The clerk of the court shall accept, index, and record, as a partial 
+release, an instrument that complies with and is filed under this section.  
+ 
+  (4) Unless otherwise stated in an instrument recorded among the land 
+records, a trustee under a deed of trust may execute, acknowledge, and deliver partial 
+releases.  
+ 
+ [(g)] (F) If a full or partial release of a mortgage or deed of trust is recorded 
+[other than at the foot of the recorded mortgage or deed of trust ], the cle rk shall place a 
+reference to the book and page number or other place where the release is recorded on the 
+recorded mortgage or deed of trust.  
+ 
+ [(h)] (G) Unless otherwise expressly provided in the release, a full or partial 
+release that is recorded for a mortgage or deed of trust that is re –recorded, amended, 
+modified, or otherwise altered or affected by a supplemental instrument and which cites 
+the released mortgage or deed of trust by reference to only the original recorded mortgage, 
+deed of trust, or su pplemental instrument to the original mortgage or deed of trust, shall 
+be effective as a full or partial release of the original mortgage or deed of trust and all 
+supplemental instruments to the original mortgage or deed of trust.  
+ 
+ [(i)] (H) Unless otherwise expressly provided in the release, a full or partial 
+release that is recorded for a mortgage or deed of trust, or for any re –recording, amendment, 
+modification, or supplemental instrument to the mortgage or deed of trust shall terminate 
+or partia lly release any related financing statements, but only to the extent that the 
+financing statements describe fixtures that are part of the collateral described in the full 
+or partial release.  
+ 
+3–106. 
+ 
+ The clerk of the CIRCUIT court shall record [photograph ically ] any assignment of a 
+mortgage with an attachment or rider affixed to it containing the names of the parties as 
+they appear on the original mortgage and a reference to the book number and page number 
+where the mortgage is recorded.  
+ 
+3–108. 
+ 
+ (a) (1) Except as provided in paragraph (2) of this subsection, the provisions of 
+this section are in addition to any other provisions of the Code, pertaining to recordation of 
+subdivision plats.  
+ 
+Ch. 66  2025 LAWS OF MARYLAND   
+ 
+– 8 –   (2) [The provisions of this ] THIS section [do] DOES  not apply in Queen 
+Anne’s County.  
+ 
+ (b) (1) If the owner of land in the State subdivides [his] THE land for 
+commercial, industrial, or residential use to be comprised of streets, avenues, lanes, or 
+alleys and lots, and desires, for the purpose of description and identi fication, to record a 
+plat of the subdivision among the land records of the county where the land lies, the clerk 
+of the court shall accept and record the plat as prescribed in this section.  
+ 
+  (2) The clerk may not accept the plat for record until the own er of land 
+complies with the requirements prescribed in this section.  
+ 
+ (c) (1) In this subsection, “coordinate” means a number which determines the 
+position of any point in a north or south and an east or west direction in relation to any 
+other point in t he same coordinate system.  
+ 
+  (2) The plat shall be legible, drawn accurately and to scale and shall be 
+submitted for recordation using black ink on transparent mylar [, or linen ] or black –line 
+photo process comparable to original quality that will conform to archival standards. [The 
+State Highway Administration may substitute microfilm aperture cards showing property 
+or rights –of–way to be acquired or granted. Microfilm aperture cards must meet archival 
+standards for permanent records. ] 
+ 
+  (3) The plat shall contain the courses and distances of all lines drawn on 
+the plat.  
+ 
+  (4) With respect to all curved lines, the plat shall show the length of all 
+radii, arcs, and tangents and the courses and distances of all chords.  
+ 
+  (5) The plat shall contain a no rth arrow which represents and designates 
+either true or magnetic meridian as of a date specified on the plat or shall be referenced to 
+a recognized coordinate system within the county.  
+ 
+  (6) All courses shown on the plat shall be calculated from the plat  meridian.  
+ 
+  (7) No distance on the plat may be marked “more or less” except on lines 
+which begin, terminate, or bind on a marsh, stream, or any body of water.  
+ 
+  (8) (I) The plat shall show the position by coordinates of not less than 
+four markers set in  convenient places within the subdivision in a manner so that the 
+position of one marker is visible from the position of one other marker.  
+ 
+   (II) From these markers, commonly called [“traverse points” ] 
+TRAVERSE POINTS , every corner and line can be readily calculated and marked on the 
+ground.  
+ WES MOORE, Governor  Ch. 66  
+ 
+– 9 –  
+   (III) These markers shall comply with standards that the State Board 
+for Professional Land Surveyors sets by regulation under § 15 –208 of the Business 
+Occupations and Professions Article.  
+ 
+  (9) A certificat e stating that the requirement of this subsection, as far as it 
+concerns the making of the plat and setting of the markers, shall be put on the plat and 
+signed by the owner of the land shown on the plat to the best of [his] THE OWNER ’S 
+knowledge and by the  professional land surveyor or property line surveyor preparing it.  
+ 
+ (d) (1) [Three linen ] THE OWNER SHALL MAIL OR DELIVER THREE  copies 
+of the plat [shall be mailed or delivered ] to the clerk.  
+ 
+  (2) (I) [The] EXCEPT AS PROVIDED IN  SUBPARAGRAPH (II) OF TH IS 
+PARAGRAPH , THE fee is $5 for each set of plats [, except that a ]. 
+ 
+   (II) A fee is not required for plats [or microfilm aperture cards ] 
+showing property or rights –of–way to be acquired or granted by the State Highway 
+Administration.  
+ 
+   (III) THE CLERK MAY ASSESS ADDITIONA L FEES IF REQUIRED B Y 
+LOCAL LAW OR ORDINAN CE. 
+ 
+ (e) Each plat shall be signed and sealed by a professional land surveyor or 
+property line surveyor licensed in the State.  
+ 
+3–301. 
+ 
+ (a) (1) If the person offering a deed or other instrument affecting property for 
+record first pays the recording fees, the clerk of the circuit court of each county shall record 
+every deed and other instrument affecting property in [well–bound books to be named 
+“Land Records”, if that is the practice in the county, or on microfilm, if that is the practice ] 
+LAND RECORDS AVAILAB LE TO THE PUBLIC . 
+ 
+  (2) The clerk shall endorse on the deed or other instrument the time [he 
+receives ] OF RECEIPT OF  the document for record ing and the endorsement shall show in 
+the [Land Records ] LAND RECORDS . 
+ 
+  (3) Any deed or other instrument affecting property which also affects 
+personal property shall be recorded in the same manner in the [Land Records ] LAND 
+RECORDS  only, and not in the [“Financing Records” ] FINANCING STATEMENTS . 
+ 
+ (b) If an interested party so requests, the [“Financing Records” ] FINANCING 
+STATEMENTS  provided for in § 9 –402(9) of the Commercial Law Article shall include a 
+notation that the instrument is recorded among the  [“Land Records” ] LAND RECORDS . 
+Ch. 66  2025 LAWS OF MARYLAND   
+ 
+– 10 – The instrument also shall be indexed in the general alphabetical index provided in § 3 –302 
+of this subtitle. The notation and indexing have the same effect as if the instrument were 
+recorded in full among the [“Financing Rec ords” ] FINANCING STATEMENTS . 
+ 
+ (c) (1) The clerk may not refuse to accept any deed or other document entitled 
+to be recorded, solely on the grounds that the deed or document contains a  
+strike –through, interlineation, or other corrections.  
+ 
+  (2) The clerk  may refuse to accept for re –recording, a previously recorded 
+deed or document that has been corrected or altered by a strike –through, interlineation, or 
+similar corrective measures, and that has not been re –executed, [initialled ] INITIALED , or 
+otherwise r atified in writing by the party or parties affected by the correction.  
+ 
+3–302. 
+ 
+ (a) (1) The clerk of the circuit court of each county shall make and maintain a 
+full and complete general alphabetical index of every deed, and other instrument [in a  
+well–bound book in his office ]. 
+ 
+  (2) The index shall  [be]: 
+ 
+   (I) BE both in the name of each grantor, donor, mortgagor, and 
+assignor, and each grantee, donee, mortgagee, or assignee [. It shall include ]; AND  
+ 
+   (II) INCLUDE  the book and page of the rec ordation of every 
+instrument designating these names.  
+ 
+  (3) The clerk shall index every deed or other instrument [retaining a 
+vendor’s lien both as a deed and as a vendor’s lien, ] in the same manner as mortgages are 
+indexed.  
+ 
+ (b) [In every clerk’s office  where land records are not recorded in book form, the ] 
+THE clerk shall index every assignment of a mortgage, deed of trust, and release or partial 
+[releases ] RELEASE  of a MORTGAGE OR  deed of trust, whether in long or short form [, in 
+the general alphabetical index, and shall place an entry in the general alphabetical index 
+where the instrument is indexed, on the same horizontal line, indicating the place of record 
+of the original instrument being assigned or released ]. 
+ 
+ [(c) The clerk of the circ uit court of each county shall date each change or 
+correction made to information in the general alphabetical index on the horizontal line on 
+which the change or correction was made. ] 
+ 
+ WES MOORE, Governor  Ch. 66  
+ 
+– 11 –  [(d)] (C) (1) If a court [of equity ] decrees a payment of cost or make s some 
+other decree for payment of money by a plaintiff, the clerk immediately shall [enter ] INDEX  
+the plaintiff’s name [in a separate index, known as the index of plaintiffs ]. 
+ 
+  (2) Until the plaintiff’s name is indexed, no lien under the decree arises 
+against the property of the plaintiff and no right of execution accrues on the decree.  
+ 
+ [(e)] (D) (1) The clerk shall [include in the ] index each property identifier 
+provided on an intake sheet under § 3 –104(g) of this title [or, if the space available in the 
+index will not accommodate all of the identifiers, then as many as the space allows, giving 
+priority to identifiers in the order in which they are listed in § 3 –104(g)(3)(i) of this title ]. 
+ 
+  (2) The clerk shall rely on the instrument that is accompan ied by the 
+intake sheet for indexing of grantor’s and grantee’s names.  
+ 
+3–303. 
+ 
+ The clerk shall [make a microfilm picture or other copy of every document he records 
+and] transmit [the microfilm pictures or copies ] RECORDED DOCUMENTS to the State 
+Archivist  [at the end of each year. When requested by the State Archivist, the clerk also 
+shall make a microfilm picture or copy of the general index ]. 
+ 
+3–304. 
+ 
+ (a) Except as provided in subsection (e) of this section, the clerk shall [fasten 
+securely one copy of ] RECORD  each plat described under § 3 –108 of this title [in a book 
+provided for that purpose or shall record the plat ]. 
+ 
+ (b) The clerk promptly shall send one copy of each plat to the supervisor of 
+assessments of the county and one copy, with one half of the filing fee, to the State Archivist, 
+who shall number and file the plat as part of the records of the State Archivist’s office [and 
+shall notify the clerk of the number given ]. 
+ 
+ (c) The State Archivist shall mail or deliver, free of cost, to any superv isor of 
+assessments of the State, a copy of the plat on request.  
+ 
+ (d) (1) Nothing in this section affects any recording fee of the clerk of the court 
+under any local legislation prescribing recording fees for subdivision plats.  
+ 
+  (2) The clerk and the State Archivist shall keep accurate memoranda of the 
+filing fees.  
+ 
+ (e) In Montgomery County, the clerk may record or maintain the plat in electronic 
+form in a manner approved by the State Archivist.  
+ 
+Ch. 66  2025 LAWS OF MARYLAND   
+ 
+– 12 – 3–403. 
+ 
+ (a) [If] A FILING OFFICER SHALL  RECORD  a notic e of federal lien, a refiling of 
+a notice of federal lien, or a notice of revocation of any certificate described in subsection 
+(b) of this section [is] presented to the filing officer [, he shall cause the notice to be marked, 
+indexed, and recorded in an alphabetical federal lien index, showing on one line the name 
+and residence of the person named in the notice, the U.S. government serial number of the 
+notice, the date and hour of filing, and the amount of the lien with the interest, penalties, 
+and costs.  He shall file and keep all original notices so filed in numerical order in a file, or 
+files, and designated federal lien notices ]. 
+ 
+ (b) [If] A FILING OFFICER SHALL  RECORD  a certificate of release, 
+nonattachment, discharge, or subordination of any lien [is] presented to the filing officer 
+[for filing he shall enter the same with date of filing in said federal lien index on the line 
+where notice of the lien so affected is entered, and permanently attach the original 
+certificate of release, nonattachment, di scharge or subordination to the original notice of 
+lien]. 
+ 
+3–404. 
+ 
+ The fee for filing and indexing each notice of lien or certificate or notice affecting the 
+lien is $3. [The office shall bill the district directors of internal revenue or other appropriat e 
+federal officials on a monthly basis for fees for documents filed by them. ] 
+ 
+7–105.5.  
+ 
+ (a) In this section, “holder of a subordinate interest” includes any condominium 
+council of unit owners or homeowners association that has filed a request for notice of sale 
+under subsection (c) of this section.  
+ 
+ (b) The person authorized to make a sale in an action to foreclose a mortgage or 
+deed of trust shall give written notice of any proposed foreclosure sale to the holder of any 
+subordinate mortgage, deed of tru st, or other subordinate interest, including a judgment, 
+in accordance with § 7 –105.4 of this subtitle and the requirements of Maryland Rule  
+14–210. 
+ 
+ (c) (1) The land records office of each county shall maintain a current listing 
+of recorded requests for  notice of sale by holders of subordinate mortgages, deeds of trust, 
+or other subordinate interests.  
+ 
+  (2) The holder of a subordinate mortgage, deed of trust, or other 
+subordinate interest may file a request for notice under this subsection.  
  
- (d) (1) Nothing in this section affects any recording fee of the clerk of the court 10 
-under any local legislation prescribing recording fees for subdivision plats.  11 
+  (3) Each request for notice of sale shall:  
  
-  (2) The clerk and the State Archivist shall keep accurate memoranda of the 12 
-filing fees.  13 
+ WES MOORE, Governor  Ch. 66  
  
- (e) In Montgomery County, the clerk may record or maintain the plat in electronic 14 
-form in a manner approved by the State Archivist.  15 
+– 13 –    (i) Be recorded in a separate [docket or book ] PAPER OR 
+ELECTRONIC INDEX  which shall be indexed under the name of the holder of the superior 
+mortgage or deed of trust and under the book and page numbers where the super ior 
+mortgage or deed of trust is recorded;  
  
-3–403. 16 
+   (ii) Identify the property in which the subordinate interest is held;  
  
- (a) [If] A FILING OFFICER SHALL RECORD  a notice of federal lien, a refiling of 17 
-a notice of federal lien, or a notice of revocation of any certificate described in subsection 18 
-(b) of this section [is] presented to the filing officer [, he shall cause the notice to be marked, 19 
-indexed, and recorded in an alphabetical federal lien index, showing on one line the name 20 
-and residence of the person named in the notice, the U.S. government serial number of the 21 
-notice, the date and hour of filing, and the amount of the lien with the interest, pe nalties, 22 
-and costs. He shall file and keep all original notices so filed in numerical order in a file, or 23 
-files, and designated federal lien notices ]. 24 
+   (iii) State the name and address of the holder of the subordinate 
+interest; and  
  
- (b) [If] A FILING OFFICER SHALL  RECORD  a certificate of release, 25 
-nonattachment, discharge, or subordina tion of any lien [is] presented to the filing officer 26 
-[for filing he shall enter the same with date of filing in said federal lien index on the line 27 
-where notice of the lien so affected is entered, and permanently attach the original 28 
-certificate of release , nonattachment, discharge or subordination to the original notice of 29 
-lien]. 30 
+   (iv) Identify the superior mortgage or deed of trust by stating:  
  
-3–404. 31 
+    1. The names of the original parties to the superior mortgage 
+or deed of trust;  
+ 
+    2. The date the superior mortgage or deed of trust was 
+recorded; and  
  
- The fee for filing and indexing each notice of lien or certificate or notice affecting the 32 
-lien is $3. [The office shall bill the district directors of internal revenue or other appropriate 33 
-federal officials on a monthly basis for fees for documents filed by them. ] 34 
+    3. The office, docket or book, and page where the superior 
+mortgage or dee d of trust is recorded.  
  
-7–105.5.  35 
- SENATE BILL 150  13 
+  (4) (i) Except as provided in subparagraph (ii) of this paragraph, failure 
+of a holder of a subordinate mortgage, deed of trust, or other subordinate interest to record 
+a request for notice under this subsection does not affect t he duty of a holder of a superior 
+interest to provide notice as required under this section.  
  
-  
- (a) In this section, “holder of a subordinate interest” includes any condominium 1 
-council of unit owners or homeowners association that has filed a request for notice of sale 2 
-under subsection (c) of this section.  3 
+   (ii) A holder of a superior interest does not have a duty to provide 
+notice to a condominium council of unit owners or homeowners association that has not 
+filed a request for notice under this subsection.  
  
- (b) The person authorized to make a sale in an action to foreclose a mortgage or 4 
-deed of trust shall give written notice of any proposed foreclosure sale to the holder of any 5 
-subordinate mo rtgage, deed of trust, or other subordinate interest, including a judgment, 6 
-in accordance with § 7 –105.4 of this subtitle and the requirements of Maryland Rule  7 
-14–210. 8 
+8–402.2.  
  
- (c) (1) The land records office of each county shall maintain a current listing 9 
-of recorded requests for notice of sale by holders of subordinate mortgages, deeds of trust, 10 
-or other subordinate interests.  11 
+ (a) (1) This section applies to property:  
  
-  (2) The holder of a subordinate mortgage, deed of trust, or other 12 
-subordinate interest may file a request for notice under this subse ction.  13 
+   (i) Leased for business, commercial, manufacturing, mercantile, or 
+industrial purposes, or any other purpose that is not primarily residential;  
  
-  (3) Each request for notice of sale shall:  14 
+   (ii) Improved or to be improved by any apartment, condominium, 
+cooperative, or other building for multifamily use of greater than four dwelling units; or  
  
-   (i) Be recorded in a separate [docket or book ] PAPER OR 15 
-ELECTRONIC INDEX  which shall be indexed under the name of the holder of the superior 16 
-mortgage or deed of trust and under the book and page numb ers where the superior 17 
-mortgage or deed of trust is recorded;  18 
+   (iii) Leased for dwellings or mobile homes that are erected or placed 
+in a mobile home development or mobile home park.  
  
-   (ii) Identify the property in which the subordinate interest is held;  19 
+  (2) This section does not apply to residential property that is or was used, 
+intended to be used, or authorized to be used for four or fewer dwelling units.  
  
-   (iii) State the name and address of the holder of the subordinate 20 
-interest; and  21 
+Ch. 66  2025 LAWS OF MARYLAND   
  
-   (iv) Identify the superior mortg age or deed of trust by stating:  22 
+– 14 –  (b) (1) Whenever, in a case that involves a 99 –year ground lease renewable 
+forever, at least 6 months ground rent is in arrears and the landlord has the lawful right 
+to reenter for the nonpayment of the rent, the landlord, no less than 45 days after sending 
+to the tenant by certified mail, return receipt requested, at the tenant’ s last known address, 
+and also by first –class mail to the title agent or attorney listed on the deed to the property 
+or the intake sheet recorded with the deed, a bill for the ground rent due, may bring an 
+action for possession of the property under § 14 –108.1 of this article [; if]. 
  
-    1. The names of the original parties to the superior mortgage 23 
-or deed of trust;  24 
+  (2) (I) IF the tenant cannot be personally served IN ACCORDANCE 
+WITH PARAGRAPH (1) OF THIS SUBSECTION , or there is no tenant in actual possession 
+of the property, service by posting notice on the property may be made in accor dance with 
+the Maryland Rules.  
  
-    2. The date the superior mortgage or deed of trust was 25 
-recorded; and  26 
+   (II) Personal service or posting in accordance with the Maryland 
+Rules shall stand in the place of a demand and reentry.  
  
-    3. The office, docket or book, and page where the superior 27 
-mortgage or deed of trust is recorded.  28 
+ (c) (1) Before entry of a judgment the landlord shall give written notice of the 
+pending entry of judgment to each mortgagee of the lease, or any part of the lease, who 
+before entry of the judgment has recorded in the land records of each county where the 
+property is located a timely request for notice of judgment.  
  
-  (4) (i) Except as provided in subparagraph (ii) of this paragraph, failure 29 
-of a holder of a subordinate mortgage, deed of trust, or other subordinate interest to record 30 
-a request for notice under this subsection does not affect the duty of a holder of a superior 31 
-interest to provide notice as required under this section.  32 
+  (2) A request for notice of judgme nt DESCRIBED UNDER PARA GRAPH (1) 
+OF THIS SUBSECTION shall:  
  
-14 SENATE BILL 150   
+   (i) Be recorded in a separate [docket or book ] PAPER OR 
+ELECTRONIC INDEX  that is indexed under the name of the mortgagor;  
  
-    (ii) A holder of a superior interest does not have a duty to provide 1 
-notice to a condominium council of unit owners or homeowners association that has not 2 
-filed a request for notice under this subsection.  3 
+   (ii) Identify the property on which the mortgage is held and refer to 
+the date and recording reference of that mortgage;  
  
-8–402.2.  4 
+   (iii) State the name and address of the holder of the mortgage; and  
  
- (a) (1) This section applies to property:  5 
+   (iv) Identify the ground lease by stating:  
  
-   (i) Leased for business, commercial, manufacturing, mercantile, or 6 
-industrial purposes, or any other purpose that is not primarily residential;  7 
+    1. The name of the original lessor;  
  
-   (ii) Improved or to be improved by any apartment, condominium, 8 
-cooperative, or other building for multifamily use of greater than four dwelling units; or  9 
+    2. The date the ground lease was reco rded; and  
  
-   (iii) Leased for dwellings or mobile homes that are erected or placed 10 
-in a mobile  home development or mobile home park.  11 
+    3. The office, docket or book, and page where the ground 
+lease is recorded.  
  
-  (2) This section does not apply to residential property that is or was used, 12 
-intended to be used, or authorized to be used for four or fewer dwelling units.  13 
+  [(2)] (3) (I) The landlord shall mail the notice by certified mail return 
+receipt requested to the mortgagee at the address stated in the recorded request for not ice 
+of judgment.  
  
- (b) (1) Whenever, in a case that involves a 99 –year gro und lease renewable 14 
-forever, at least 6 months ground rent is in arrears and the landlord has the lawful right 15 
-to reenter for the nonpayment of the rent, the landlord, no less than 45 days after sending 16 
-to the tenant by certified mail, return receipt reque sted, at the tenant’s last known address, 17 
-and also by first –class mail to the title agent or attorney listed on the deed to the property 18 
-or the intake sheet recorded with the deed, a bill for the ground rent due, may bring an 19 
-action for possession of the p roperty under § 14 –108.1 of this article [; if]. 20 
+ WES MOORE, Governor  Ch. 66  
  
-  (2) (I) IF the tenant cannot be personally served IN ACCORDANCE 21 
-WITH PARAGRAPH (1) OF THIS SUBSECTION , or there is no tenant in actual possession 22 
-of the property, service by posting notice on the property may be made in accordance with 23 
-the Maryland Rules.  24 
+– 15 –    (II) If the notice is not given, judgment in favor of the landlord does 
+not impair the lien of the mortgagee.  
  
-   (II) Personal service or posting in accordance with the Maryland 25 
-Rules shall stand in the place of a demand and reentry.  26 
+   (III) Except as otherwise provided in this subsection, the property is 
+discharged from the lease and the rights of all persons claiming under the lease are 
+foreclosed unless, within 6 calendar months after execution of the judgment for possession, 
+the tenant or any other person claiming under the lease:  
  
- (c) (1) Before entry of a judgment the landlord shall give written notice of t he 27 
-pending entry of judgment to each mortgagee of the lease, or any part of the lease, who 28 
-before entry of the judgment has recorded in the land records of each county where the 29 
-property is located a timely request for notice of judgment.  30 
+   [(i)] 1. Pays the ground rent, arrears, and all costs awarded 
+against that person; and  
  
-  (2) A request for notice of judgment DESCRIBED UNDER PARA GRAPH (1) 31 
-OF THIS SUBSECTION shall:  32 
+   [(ii)] 2. Commences a proceeding to obtain relief from the 
+judgment.  
  
-   (i) Be recorded in a separate [docket or book ] PAPER OR 33 
-ELECTRONIC INDEX  that is indexed under the name of the mortgagor;  34 
- SENATE BILL 150  15 
+ (d) This section does not bar the right of any mortgagee of the lease, or any part 
+of the lease, who is not in possession at any time before expiration of 6 cal endar months 
+after execution of the judgment awarding the landlord possession, to pay all costs and 
+damages sustained by the landlord and to perform all the covenants and agreements that 
+are to be performed by the tenant.  
  
-  
-   (ii) Identify the property on which the mortgage is held and refer to 1 
-the date and recording reference of that mortgage;  2 
+ SECTION 2. AND BE IT FURTHER ENA CTED, That this Act shall take effect 
+October 1, 2025.  
  
-   (iii) State the name and address of the holder of the mortgage; and  3 
- 
-   (iv) Identify the ground lease by stating:  4 
- 
-    1. The name of the original lessor;  5 
- 
-    2. The dat e the ground lease was recorded; and  6 
- 
-    3. The office, docket or book, and page where the ground 7 
-lease is recorded.  8 
- 
-  [(2)] (3) (I) The landlord shall mail the notice by certified mail return 9 
-receipt requested to the mortgagee at the address stated in t he recorded request for notice 10 
-of judgment.  11 
- 
-   (II) If the notice is not given, judgment in favor of the landlord does 12 
-not impair the lien of the mortgagee.  13 
- 
-   (III) Except as otherwise provided in this subsection, the property is 14 
-discharged from the lease and the rights of all persons claiming under the lease are 15 
-foreclosed unless, within 6 calendar months after execution of the judgment for possession, 16 
-the tenant or any other person claiming under the lease:  17 
- 
-   [(i)] 1. Pays the ground rent, arrears , and all costs awarded 18 
-against that person; and  19 
- 
-   [(ii)] 2. Commences a proceeding to obtain relief from the 20 
-judgment.  21 
- 
- (d) This section does not bar the right of any mortgagee of the lease, or any part 22 
-of the lease, who is not in possession at any tim e before expiration of 6 calendar months 23 
-after execution of the judgment awarding the landlord possession, to pay all costs and 24 
-damages sustained by the landlord and to perform all the covenants and agreements that 25 
-are to be performed by the tenant.  26 
- 
- SECT ION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 27 
-October 1, 2025.  28 
+Approved by the Governor, April 8, 2025.  

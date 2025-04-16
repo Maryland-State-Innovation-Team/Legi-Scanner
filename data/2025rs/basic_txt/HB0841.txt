@@ -1,268 +1,246 @@
+ WES MOORE, Governor  Ch. 81  
  
+– 1 – Chapter 81  
+(House Bill 841 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0841*      
-HOUSE BILL 841  
-C7   5lr2706  
-    CF SB 730  
-By: Charles County Delegation  
-Introduced and read first time: January 29, 2025  
-Assigned to: Ways and Means  
-Committee Report: Favorable  
-House action: Adopted  
-Read second time: March 5, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Gaming – Charles County Gaming Permit Review Board – Repeal  
  
-AN ACT concerning  1 
+FOR the purpose of  repealing the Charles County Gaming Permit Review Board ; 
+transferring certain powers and duties of the board concerning gaming activities in 
+Charles County to the County Attorney for Charles County ; and generally relating 
+to gaming in Charles County . 
  
-Gaming – Charles County Gaming Permit Review Board – Repeal  2 
+BY repealing  
+ Article – Criminal Law  
+Section 13–1101(b) and 13–1104 
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of  repealing the Charles County Gaming Permit Review Board ; 3 
-transferring certain powers and duties of the board concerning gaming activities in 4 
-Charles County to the County Attorney for Charles County ; and generally relating 5 
-to gaming in Charles County . 6 
+BY renumbering  
+ Article – Criminal Law  
+Section 13 –1105 through 13 –1115  
+to be Section 13 –1104 through 13 –1114, respectively  
+ Annotated Code of Maryland  
+ (2021 R eplacement Volume and 2024 Supplement)  
  
-BY repealing  7 
- Article – Criminal Law  8 
-Section 13–1101(b) and 13–1104 9 
- Annotated Code of Maryland  10 
- (2021 Replacement Volume and 2024 Supplement)  11 
+BY repealing and reenacting, without amendments,  
+ Article – Criminal Law  
+Section 13 –1101(a) and (c)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-BY renumbering  12 
- Article – Criminal Law  13 
-Section 13 –1105 through 13 –1115  14 
-to be Section 13 –1104 through 13 –1114, respectively  15 
- Annotated Code of Maryland  16 
- (2021 R eplacement Volume and 2024 Supplement)  17 
+BY adding to  
+ Article  – Criminal Law  
+ Section 13 –1101(b)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  18 
- Article – Criminal Law  19 
-Section 13 –1101(a) and (c)  20 
- Annotated Code of Maryland  21 
- (2021 Replacement Volume and 2024 Supplement)  22 
-2 HOUSE BILL 841   
+BY repealing and reenacting, with amendments,  
+ Article – Criminal Law  
+Section 13–1103  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-  
-BY adding to  1 
- Article  – Criminal Law  2 
- Section 13 –1101(b)  3 
- Annotated Code of Maryland  4 
- (2021 Replacement Volume and 2024 Supplement)  5 
+BY repealing and reenacting, with amendments,  
+ Article – Criminal Law  
+Ch. 81  2025 LAWS OF MARYLAND   
  
-BY repealing and reenacting, with amendments,  6 
- Article – Criminal Law  7 
-Section 13–1103  8 
- Annotated Code of Maryland  9 
- (2021 Replacement Volume and 2024 Supplement)  10 
+– 2 – Section 13 –1105(c)(1) and (2)(vii) and (e)(1) and (3) and 13 –1107(a)(6) and (9)(iii), 
+(b)(1) and (2)(iv) and (ix), and (c)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
+ (As enacted by Section 2 of this Act)  
  
-BY repealing and reenacting, with amendments,  11 
- Article – Criminal Law  12 
-Section 13 –1105(c)(1) and (2)(vii) and (e)(1) and (3) and 13 –1107(a)(6) and (9)(iii), 13 
-(b)(1) and (2)(iv) and (ix), and (c)  14 
- Annotated Code of Maryland  15 
- (2021 Replacement Volume and 2024  Supplement)  16 
- (As enacted by Section 2 of this Act)  17 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 18 
-That the Laws of Maryland read as follows:  19 
+Article – Criminal Law  
  
-Article – Criminal Law  20 
+[13–1104.  
  
-[13–1104.  21 
+ (a) There is a Charles County Gaming Permit Review Board.  
  
- (a) There is a Charles County Gaming Permit Review Board.  22 
+ (b) (1) The board consists of seven members.  
  
- (b) (1) The board consists of seven members.  23 
+  (2) Of the seven members of the board:  
  
-  (2) Of the seven members of the board:  24 
+   (i) one shall be a member of the county sheriff’s office;  
  
-   (i) one shall be a member of the county sheriff’s office;  25 
+   (ii) one shall be a member of the Department of State Police;  
  
-   (ii) one shall be a member of the Department of State Police;  26 
+   (iii) one shall be a member of a fundraising organization in the 
+county;  
  
-   (iii) one shall be a member of a fund raising organization in the 27 
-county;  28 
+   (iv) one shall be an individual with background and experience in 
+finance; and  
  
-   (iv) one shall be an individual with background and experience in 29 
-finance; and  30 
+   (v) three shall be members at large.  
  
-   (v) three shall be members at large.  31 
+  (3) Each member at large:  
  
-  (3) Each member at large:  32 
- HOUSE BILL 841  3 
+   (i) shall be a member of the general public;  
  
-  
-   (i) shall be a member of the general public;  1 
+   (ii) may n ot be a member of a fundraising organization or otherwise 
+be subject to regulation by the board;  
  
-   (ii) may not b e a member of a fundraising organization or otherwise 2 
-be subject to regulation by the board;  3 
+   (iii) may not, within 1 year before appointment, have had a financial 
+interest in or have received compensation from a person regulated by the board; and  
  
-   (iii) may not, within 1 year before appointment, have had a financial 4 
-interest in or have received compensation from a person regulated by the board; and  5 
+   (iv) may not, while a member of the board, have a financial interest 
+in or receive compensation from a person regulated by the board.  
  
-   (iv) may not, while a member of the board, have a financial interest 6 
-in or receive compensation from a person regulated by the board.  7 
+  (4) Each member of the board shall be a resident of the county.  
  
-  (4) Each member of the board shall be a resident of the county.  8 
+ WES MOORE, Governor  Ch. 81  
  
-  (5) The board shall select a chairperson from among its members, to serve 9 
-the term that the board sets.  10 
+– 3 –   (5) The board shall select a chairperson from amo ng its members, to serve 
+the term that the board sets.  
  
- (c) (1) The term of a member is 4 years.  11 
+ (c) (1) The term of a member is 4 years.  
  
-  (2) The terms of members are staggered as required by the terms provided 12 
-for members of the board on October 1, 2002.  13 
+  (2) The terms of members are staggered as required by the terms provided 
+for members of the board on October 1, 2002.  
  
-  (3) At the end of a term, a member co ntinues to serve until a successor is 14 
-appointed and qualifies.  15 
+  (3) At the end of a term, a member  continues to serve until a successor is 
+appointed and qualifies.  
  
-  (4) A member who is appointed after a term has begun serves only for the 16 
-rest of the term and until a successor is appointed and qualifies.  17 
+  (4) A member who is appointed after a term has begun serves only for the 
+rest of the term and until a successor is appointed and qualifies.  
  
- (d) The board may recommend to the county commis sioners:  18 
+ (d) The board may recommend to the county com missioners:  
  
-  (1) the types of gaming devices that may be operated in the county;  19 
+  (1) the types of gaming devices that may be operated in the county;  
  
-  (2) approval or denial of a gaming permit; and  20 
+  (2) approval or denial of a gaming permit; and  
  
-  (3) modifications of the county gaming regulations and procedures.  21 
+  (3) modifications of the county gaming regulations and procedures.  
  
- (e) The board shall:  22 
+ (e) The board shall:  
  
-  (1) review at least quarterly gaming permit applications;  23 
+  (1) review at least quarter ly gaming permit applications;  
  
-  (2) review gaming regulations and permit procedures;  24 
+  (2) review gaming regulations and permit procedures;  
  
-  (3) keep a list of all approved lessors of gaming devices and premises for 25 
-gaming events;  26 
+  (3) keep a list of all approved lessors of gaming devices and premises for 
+gaming events;  
  
-  (4) keep a record of the gaming permits that the board has reviewed; and  27 
+  (4) keep a record of the gaming permits that the board has reviewed; and  
  
-4 HOUSE BILL 841   
+  (5) undertake the other duties regarding gaming regulation that the 
+county commissioners delegate.  
  
-   (5) undertake the other duties regarding gaming regulation that the 1 
-county commissioners delegate.  2 
+ (f) As the county commissioners consider appropriate, the county commissioners 
+shall provide for the board a clerk, legal counsel, supplies, and funding . 
  
- (f) As the county commissioners consider appropriate, the county commissioners 3 
-shall provide for the board a clerk, legal counsel, supplies, and funding.  4 
+ (g) The county commissioners may pay salaries to the members of the board. ] 
  
- (g) The county commissioners may pay salaries to the members of the board. ] 5 
+ SECTION 2. AND BE IT FURTHER ENACTED, That Section(s) 13 –1105 through 
+13–1115 of Article – Criminal Law of the Annotated Code of Maryland be renumbered to 
+be Section(s) 13–1104 through 13 –1114, respectively.  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That Section(s) 13 –1105 through 6 
-13–1115 of Article – Criminal Law of the Annotated Code of Maryland be renumbered to 7 
-be Section(s) 13 –1104 through 13 –1114, respectively.  8 
+Ch. 81  2025 LAWS OF MARYLAND   
  
- SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 9 
-as follows:  10 
+– 4 –  SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 
+as follows:  
  
-Article – Criminal Law  11 
+Article – Criminal Law  
  
-13–1101.  12 
+13–1101.  
  
- (a) In this subtitle the following words have the meanings indicated.  13 
+ (a) In this subtitle the following words have the meanings indicated.  
  
- [(b) “Board” means the Charles Cou nty Gaming Permit Review Board. ] 14 
+ [(b) “Board” means the Cha rles County Gaming Permit Review Board. ] 
  
- (B) “COUNTY ATTORNEY ” MEANS THE COUNTY ATTORNEY FOR  CHARLES 15 
-COUNTY . 16 
+ (B) “COUNTY ATTORNEY ” MEANS THE COUNTY ATTORNEY FOR  CHARLES 
+COUNTY . 
  
- (c) “County commissioners” means the Board of County Commissioners of 17 
-Charles County.  18 
+ (c) “County commissioners” means the Board of County Commissioners of 
+Charles County.  
  
-13–1103.  19 
+13–1103.  
  
- The county commissioners may:  20 
+ The county commissioners may:  
  
-  (1) designate the types of gaming devices that may be operated in the 21 
-county;  22 
+  (1) designat e the types of gaming devices that may be operated in the 
+county;  
  
-  (2) set fees for gaming permits issued under this subtitle;  23 
+  (2) set fees for gaming permits issued under this subtitle;  
  
-  (3) [set salaries and funding for the board and the board’s clerk, legal 24 
-counsel, and support staff;  25 
+  (3) [set salaries and funding for the board and the board’s clerk, legal 
+counsel, and support staff;  
  
-  (4)] approve or deny gaming permit applications;  26 
+  (4)] approve or deny  gaming permit applications;  
  
-  [(5)] (4) investigate persons involved in gaming events and examine 27 
-records of fundraising organizations with respect to gaming events;  28 
+  [(5)] (4) investigate persons involved in gaming events and examine 
+records of fundraising organizations with respect to gaming events;  
  
- HOUSE BILL 841  5 
+  [(6)] (5) delegate its powers and duties under this subtitle to the [board ] 
+COUNTY ATTORNEY ; and  
  
-   [(6)] (5) delegate its powers and duties under this subtitle to the [board ] 1 
-COUNTY ATTORNEY ; and  2 
+  [(7)] (6) adopt regulations to carry out this subtitle.  
  
-  [(7)] (6) adopt regulations to carry out this subtitle.  3 
+13–1105. 
  
-13–1105. 4 
+ (c) (1) At least 30 days before the first day of the calendar quarter in which 
+the gaming event is to be conducted, a fundraising organization seeking a gaming permit 
+shall submit to the [board ] COUNTY ATTORNEY  an application and the application fee.  
  
- (c) (1) At least 30 days before the first day of the calendar quarter in which 5 
-the gaming event is to be conducted, a fundraising organization seeking a gaming permit 6 
-shall s ubmit to the [board ] COUNTY ATTORNEY  an application and the application fee.  7 
+ WES MOORE, Governor  Ch. 81  
  
-  (2) The application shall contain the following:  8 
+– 5 –   (2) The application shall contain the following:  
  
-   (vii) any other information that the [board ] COUNTY ATTORNEY  9 
-considers necessary or helpful.  10 
+   (vii) any other information that the [board ] COUNTY ATTORNEY  
+considers necessary or helpful.  
  
- (e) (1) The [board ] COUNTY ATTORNEY  shall:  11 
+ (e) (1) The [board ] COUNTY ATTORNEY  shall:  
  
-   (i) review the gaming permit applications for a calendar quarter 12 
-within 10 days after the application deadline set in subsection (c)(1) of this section;  13 
+   (i) review the gaming permit applications for a calendar quarter 
+within 10 days after the application deadline set in subsection (c)(1) of this section;  
  
-   (ii) recommend approval or denial of each application; and  14 
+   (ii) recommend approval or denial of each application; and  
  
-   (iii) promptly forward the applications and recommendations to the 15 
-county commissioners.  16 
+   (iii) promptly f orward the applications and recommendations to the 
+county commissioners.  
  
-  (3) This section does not prevent the [board ] COUNTY ATTORNEY  or the 17 
-county commissioners from reviewing gaming permit applications more frequently or 18 
-earlier than required  by this subsection.  19 
+  (3) This section does not prevent the [board ] COUNTY ATTORNEY  or the 
+county commissioners from reviewing gaming permit applications more frequently or 
+earlier than required by this  subsection.  
  
-13–1107. 20 
+13–1107. 
  
- (a) (6) A fundraising organization may lease gaming devices or premises for a 21 
-gaming event only from a fundraising organization that the [board ] COUNTY ATTORNEY  22 
-approves.  23 
+ (a) (6) A fundraising organization may lease gaming devices or premises for a 
+gaming event only from a fundraising organization that the [board ] COUNTY ATTORNEY  
+approves.  
  
-  (9) (iii) Notwithstanding subparagraph (i) of this paragraph, a 24 
-fundraising organization that conducts a gaming event at the Charles County Fair in 25 
-conjunction with the Charles County Fair Board may conduct the gaming event under a 26 
-single gaming permit for more than  48 hours, subject to regulations that the county 27 
-commissioners adopt on recommendation of the [board ] COUNTY ATTORNEY . 28 
+  (9) (iii) Notwithstanding subparagraph (i) of this paragraph, a 
+fundraising organization that conducts a gaming event at the Charles County Fair in 
+conjunction with the Charles County Fair Board may conduct the gaming event under a 
+single gaming permit for more than  48 hours, subject to regulations that the county 
+commissioners adopt on recommendation of the [board ] COUNTY ATTORNEY . 
  
- (b) (1) A fundraising organization that has conducted a gaming event shall 29 
-submit a report to the [board ] COUNTY ATTORNEY  within 30 da ys after the end of the 30 
-calendar quarter in which the gaming event was conducted.  31 
+ (b) (1) A fundraising organization that has conducted a gaming event shall 
+submit a report to the [board ] COUNTY ATTORNEY  within 30 da ys after the end of the 
+calendar quarter in which the gaming event was conducted.  
  
-6 HOUSE BILL 841   
+  (2) The report shall contain:  
  
-   (2) The report shall contain:  1 
+   (iv) the date, amount, nature, source, and recipient of each receipt 
+and expenditure associated with the gaming event, in the format that  the [board ] COUNTY 
+ATTORNEY  prescribes;  
  
-   (iv) the date, amount, nature, source, and recipient of each receipt 2 
-and expenditure associated with the gaming event, in the format that  the [board ] COUNTY 3 
-ATTORNEY  prescribes;  4 
+   (ix) any other information that the [board ] COUNTY ATTORNEY  
+considers necessary or helpful.  
  
-   (ix) any other information that the [board ] COUNTY ATTORNEY  5 
-considers necessary or helpful.  6 
+ (c) A fundraising organization that conducts a gaming event shall maintain 
+accurate records of each transaction conce rning the gaming event, and shall keep the 
+Ch. 81  2025 LAWS OF MARYLAND   
  
- (c) A fundraising organization that conducts a gaming event shall maintain 7 
-accurate records of each transaction concerning the gaming event, and shall keep the 8 
-records available for examination by the [board ] COUNTY ATTORNEY  and the county 9 
-commissioners for 3 years after the gaming event.  10 
+– 6 – records available for examination by the [board ] COUNTY ATTORNEY  and the county 
+commissioners for 3 years after the gaming event.  
  
- SECTION 4. AND BE IT FURTHER ENACTED, That this Act shall take effect 11 
-October 1, 2025.  12 
+ SECTION 4. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, April 8, 2025.  

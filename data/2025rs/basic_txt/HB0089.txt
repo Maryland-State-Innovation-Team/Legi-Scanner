@@ -7,7 +7,7 @@ EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW.
 amendment.             *hb0089*      
 HOUSE BILL 89  
 E2   5lr0999  
-HB 667/24 – JUD  (PRE–FILED)  CF SB 152  
+HB 667/24 â€“ JUD  (PREâ€“FILED)  CF SB 152  
 By: Delegate Embry  
 Requested: September 29, 2024  
 Introduced and read first time: January 8, 2025  
@@ -20,7 +20,7 @@ CHAPTER ______
  
 AN ACT concerning  1 
  
-Criminal Law – Crimes Relating to Animals – Conviction and Sentencing  2 
+Criminal Law â€“ Crimes Relating to Animals â€“ Conviction and Sentencing  2 
  
 FOR the purpose of establishing that certain crimes relating to animals do not apply to 3 
 certain activities; establishing that each animal harmed in a violation of a 4 
@@ -33,14 +33,14 @@ sentence based on the act establishing a violation; and generally relating to cr
 relating to animals.  11 
  
 BY repealing and reenacting, with amendments,  12 
- Article – Criminal Law  13 
- Section 10 –603 14 
+ Article â€“ Criminal Law  13 
+ Section 10 â€“603 14 
  Annotated Code of Maryl and 15 
  (2021 Replacement Volume and 2024 Supplement)  16 
  
 BY adding to  17 
- Article – Criminal Law  18 
-Section 10 –627 19 
+ Article â€“ Criminal Law  18 
+Section 10 â€“627 19 
  Annotated Code of Maryland  20 
  (2021 Replacement Volume and 2024 Supplement)  21 
  
@@ -49,11 +49,11 @@ Section 10 –627 19
   SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 1 
 That the Laws of Maryland read as follows:  2 
  
-Article – Criminal Law  3 
+Article â€“ Criminal Law  3 
  
-10–603. 4 
+10â€“603. 4 
  
- Sections 10 –601 through 10 –608 and 10 –626 of this subtitle do not apply to:  5 
+ Sections 10 â€“601 through 10 â€“608 and 10 â€“626 of this subtitle do not apply to:  5 
  
   (1) customary and normal veterinary and agricultural husbandry practices 6 
 including dehorning, castration, tail docking, and limit feeding;  7 
@@ -79,7 +79,7 @@ OR ANY REGULATIONS A DOPTED UNDER THOSE T ITLES ; or 19
   (4) normal human activities in  which the infliction of pain to an animal is 20 
 purely incidental and unavoidable.  21 
  
-10–627. 22 
+10â€“627. 22 
  
  (A) FOR THE PURPOSES OF T HIS SUBTITLE , EACH ANIMAL HARMED I N A 23 
 VIOLATION OF THIS SU BTITLE IS A SEPARATE  OFFENSE AND SHALL BE  DEEMED AN 24 

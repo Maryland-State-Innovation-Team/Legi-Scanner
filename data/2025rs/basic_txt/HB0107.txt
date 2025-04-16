@@ -9,7 +9,7 @@ amendment.
 HOUSE BILL 107  
 I3   (5lr1355 ) 
 ENROLLED BILL  
-ó Economic Matters/Finance  ó 
+‚Äî Economic Matters/Finance  ‚Äî 
 Introduced by Delegate Pruski  
  
 Read and Examined by Proofreaders:  
@@ -21,7 +21,7 @@ Proofreader.
  
 Sealed with the Great Seal and presented to the Governor, for his approval this  
   
-_______ day of _______________ at _________________ _______ oíclock, ________M.  
+_______ day of _______________ at _________________ _______ o‚Äôclock, ________M.  
   
 ______________________________________________  
 Speaker .  
@@ -30,7 +30,7 @@ CHAPTER ______
  
 AN ACT concerning  1 
  
-Consumer Protection ñ Automatic Renewals  2 
+Consumer Protection ‚Äì Automatic Renewals  2 
  
 FOR the purpose of requiring a person who makes an automatic renewal offer to consumers 3 
 to allow a consumer to cancel the automatic renewal in a certain manner; requiring 4 
@@ -38,7 +38,7 @@ automatic renewal offers to be displayed in a certain manner and contain certain
 information; requiring a person who makes an automatic renewal offer to provide a 6 
 consumer with notice before the date when the automatic renewal is scheduled to 7 
 take effect; prohibiting a person who makes an automatic renewal offer from 8 
-automatically charging  a consumerís credit card unless certain conditions are met ; 9 
+automatically charging  a consumer‚Äôs credit card unless certain conditions are met ; 9 
 establishing that compliance with certain regulations or a certain license  shall be 10 
 considered to be in compliance with this Act; establishing that a violation of this Act 11 
 is an unfair, abusive, or deceptive trade practice; and generally relating to automatic 12 
@@ -47,33 +47,33 @@ renewals.  13
 BY repealing and reenacting, with amendments,  14 
 2 HOUSE BILL 107   
  
-  Article ñ Commercial Law  1 
-Section 13 ñ301(14)(xliv)  2 
+  Article ‚Äì Commercial Law  1 
+Section 13 ‚Äì301(14)(xliv)  2 
  Annotated Code of Maryland  3 
  (2013 Replacement Volume and 2024 Supplement)  4 
 (As enacted by Chapters 262, 454, 455, 460, 461, 463, and 962 of the Acts of the 5 
 General Assembly of 2024)  6 
  
 BY repealing and reenacting, with out amendments,  7 
- Article ñ Commercial Law  8 
-Section 13 ñ301(14)(xlv)  9 
+ Article ‚Äì Commercial Law  8 
+Section 13 ‚Äì301(14)(xlv)  9 
  Annotated Code of Maryland  10 
  (2013 Replacement Volume and 2024 Supplement)  11 
  (As enacted by Chapters 262, 454, 455, 460, 461, 463, and 962 of the Acts of the 12 
  General Assembly of 2024)  13 
  
 BY adding to  14 
- Article ñ Commercial Law  15 
-Section 13 ñ301(14)(xlvi) and 14 ñ1328  16 
+ Article ‚Äì Commercial Law  15 
+Section 13 ‚Äì301(14)(xlvi) and 14 ‚Äì1328  16 
  Annotated Code of Maryland  17 
  (2013 Replacement Volume and 2024 Supplement)  18 
  
  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 19 
 That the Laws of Maryland read as follows:  20 
  
-Article ñ Commercial Law  21 
+Article ‚Äì Commercial Law  21 
  
-13ñ301. 22 
+13‚Äì301. 22 
  
  Unfair, abusive, or deceptive trade practices include any:  23 
  
@@ -81,13 +81,13 @@ Article ñ Commercial Law  21
  
    (xliv)  Title 14, Subtitle 49 of this article; [or] 25 
  
-   (xlv) Section 12 ñ6Cñ09.1 of the Health Occupations Article; or  26 
+   (xlv) Section 12 ‚Äì6C‚Äì09.1 of the Health Occupations Article; or  26 
  
-   (XLVI ) SECTION 14ñ1328  OF THIS ARTICLE ; OR 27 
+   (XLVI ) SECTION 14‚Äì1328  OF THIS ARTICLE ; OR 27 
  
-14ñ1328.  28 
+14‚Äì1328.  28 
  
- (A) IN THIS SECTION , ìAUTOMATIC RENEWAL î MEANS ANY CONTRACT , 29 
+ (A) IN THIS SECTION , ‚ÄúAUTOMATIC RENEWAL ‚Äù MEANS ANY CONTRACT , 29 
 PLAN , OR AGREEMENT BETWEEN  A CONSUMER AND A SEL LER IN WHICH A PAID 30 
 SUBSCRIPTION OR PURC HASING AGREEMENT IS AUTOMATICALLY RENEWE D AT THE  31 
 END OF A DEFINITE TE RM OF MORE THAN 1 MONTH  FOR A SUBSEQUENT TER M. 32 
@@ -116,7 +116,7 @@ AUTOMATIC RENEWAL ; AND 15
  
    (III) ALLOWS THE CONSUMER T O TERMINATE THE OFFE R IN A 16 
 MANNER THAT DOES NOT  UNREASONABLY  DELAY , HINDER , OR OBSTRUCT THE 17 
-CONSUMER íS ABILITY TO TERMINA TE THE AUTOMAT IC RENEWAL . 18 
+CONSUMER ‚ÄôS ABILITY TO TERMINA TE THE AUTOMAT IC RENEWAL . 18 
  
   (2) IF THE OFFER ALSO INC LUDES A FREE GIFT OR  TRIAL , THE OFFER 19 
 SHALL INCLUDE A CLEA R AND CONSPICUOUS EX PLANATION OF THE PRI CE THAT 20 
@@ -126,8 +126,8 @@ OF THE TRIAL . 23
  
   (3) (I) A PERSON THAT MAKES AN  AUTOMATIC RENEWAL OF FER 24 
 SHALL ALLOW A CONSUM ER WHO ACCEPTS THE O FFER TO TERMINATE TH E 25 
-AUTOMATIC RENEWAL BY  PROVIDING THE CONSUM ER A SIMPLE , COSTñEFFECTIVE , 26 
-AND WIDELY AVAILABLE  COSTñEFFECTIVE , TIMELY , AND EASY ñTOñUSE MECHANISM 27 
+AUTOMATIC RENEWAL BY  PROVIDING THE CONSUM ER A SIMPLE , COST‚ÄìEFFECTIVE , 26 
+AND WIDELY AVAILABLE  COST‚ÄìEFFECTIVE , TIMELY , AND EASY ‚ÄìTO‚ÄìUSE MECHANISM 27 
 TO: 28 
  
     1. CANCEL THE AUTOMATIC RENEWAL ; 29 
@@ -160,24 +160,24 @@ EITHER WITHIN A CUST OMER ACCOUNT OR PROF ILE OR WITHIN DEVICE  OR USER 14
 SETTINGS ; OR  15 
  
     B. BY AN  AN IMMEDIATELY ACCESSIB LE TERMINATION 16 
-EñMAIL FORMATTED AND P ROVIDED BY THE BUSIN ESS OR PERSON THAT M ADE THE 17 
+E‚ÄìMAIL FORMATTED AND P ROVIDED BY THE BUSIN ESS OR PERSON THAT M ADE THE 17 
 AUTOMATIC RENEWAL OF FER THAT A CONSUMER MAY SEND WITHOUT ADD ITIONAL 18 
 INFORMATION ; 19 
  
     4. IN THE CASE OF CANCEL LATION BY TELEPHONE 20 
-CALL , BE PROMPTLY PE RFORMED THROUGH CALL S RECEIVED AT A TOLLñFREE  21 
+CALL , BE PROMPTLY PE RFORMED THROUGH CALL S RECEIVED AT A TOLL‚ÄìFREE  21 
 TELEPHONE NUMBER THA T IS ANSWERED OR REC ORDS MESSAGES AND TH AT IS 22 
 MADE AVAILABLE DURIN G NORMAL BUSINESS HO URS; AND  23 
  
     5. IN THE CASE OF CANCEL LATION PERFORMED IN 24 
-PERSON , BE PERFORMED IN A MA NNER SIMILAR TO TH E INñPERSON METHOD THE 25 
+PERSON , BE PERFORMED IN A MA NNER SIMILAR TO TH E IN‚ÄìPERSON METHOD THE 25 
 CONSUMER USED TO CON SENT TO THE AUTOMATI C RENEWAL , WHICH MAY INCLUDE 26 
 MAIL TO A POSTAL ADD RESS , IF THE PERSON BILLS THE CONSUMER AT THE 27 
-CONSUMER íS POSTAL ADDRESS . 28 
+CONSUMER ‚ÄôS POSTAL ADDRESS . 28 
  
    (III) THE ALTERNATIVE MECHA NISMS DESCRIBED IN 29 
 SUBPARAGRAPH (II)3 AND 4 OF THIS PARAGRAPH MU ST ALSO BE MADE AVAI LABLE 30 
-FOR AN IN ñPERSON CANCELLATION UNDER SUBPARAGRAPH (II)5 OF THIS 31 
+FOR AN IN ‚ÄìPERSON CANCELLATION UNDER SUBPARAGRAPH (II)5 OF THIS 31 
 PARAGRAPH . 32 
  
    (IV) 1. IF A CONSUMER HAS AN ACCOUNT WITH A BUSIN ESS, 33 
@@ -188,10 +188,10 @@ THE BUSINESS MAY REQ UIRE THE CONSUMER TO  ENTER ACCOUNT INFORM ATION OR 34
 OF THE AUTOMATIC REN EWAL OR CONTINUOUS S ERVICE . 2 
  
     2. IF A CONSUMER IS UNWI LLING OR UNABLE TO E NTER 3 
-ACCOUNT INFORMATION OR OTHERWISE AUTHENT ICATE THE CONSUMER íS 4 
+ACCOUNT INFORMATION OR OTHERWISE AUTHENT ICATE THE CONSUMER ‚ÄôS 4 
 ACCOUNT ONLINE BEFOR E ONL INE TERMINATION OF T HE AUTOMATIC RENEWAL  OR 5 
 CONTINUOUS SERVICE , THE CONSUMER MAY NOT  BE PRECLUDED FROM 6 
-AUTHENTICATING THE C ONSUMER íS ACCOUNT OR TERMINA TING THE AUTOMATIC 7 
+AUTHENTICATING THE C ONSUMER ‚ÄôS ACCOUNT OR TERMINA TING THE AUTOMATIC 7 
 RENEWAL OR CONTINUOU S SERVICE USING ANOT HER METHOD THAT THE BUSINESS 8 
 PROVIDES IN A CLE AR AND CONSPICUOUS M ANNER .  9 
  
@@ -240,14 +240,14 @@ IS SCHEDULED TO TAKE  EFFECT . 7
  
  (D) EXCEPT AS PROVIDED IN  SUBSECTION (E) OF THIS SECTION , A PERSON 8 
 THAT MAKES AN AU TOMATIC RENEWAL OFFE R WITH AN INITIAL DEFI NITE TERM OF 9 
-MORE THAN 1 MONTH  MAY NOT AUTOMATICALL Y CHARGE THE CONSUME RíS CREDIT 10 
+MORE THAN 1 MONTH  MAY NOT AUTOMATICALL Y CHARGE THE CONSUME R‚ÄôS CREDIT 10 
 CARD UNLESS : 11 
  
   (1) CLEAR  CLEAR  AND CONSPICUOUS NOTI CE IS PROVIDED TO THE 12 
 CONSUMER ; AND 13 
  
   (2) THE CONSUMER PROVIDES  CONSENT TO THE AUTOMATIC 14 
-CHARGE OF THE CONSUM ERíS CREDIT CARD . 15 
+CHARGE OF THE CONSUM ER‚ÄôS CREDIT CARD . 15 
  
  (E) A PERSON THAT COMPLIES  WITH THE REQUIREMENT S FOR CONTRACT 16 
 RENEWAL PROCEDURES E STABLISHED BY THE STATE OR FEDERAL REGU LATORY 17 
@@ -282,7 +282,7 @@ OR  28
 THE MEANING OF TITLE 13 OF THIS ARTICLE ; AND 4 
  
   (2) SUBJECT TO THE ENFORC EMENT AND PENALTY PR OVISIONS 5 
-CONTAINED IN TITLE 13 OF THIS ARTICLE , EXCEPT ß 13ñ408 ßß 13ñ408 AND 13ñ411 6 
+CONTAINED IN TITLE 13 OF THIS ARTICLE , EXCEPT ¬ß 13‚Äì408 ¬ß¬ß 13‚Äì408 AND 13‚Äì411 6 
 OF THIS ARTICLE . 7 
  
  (H) NOTHING IN THIS SECTI ON MAY BE CONSTRUED TO AUTHORIZE A 8 

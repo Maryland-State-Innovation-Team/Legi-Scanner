@@ -9,7 +9,7 @@ amendment.
 HOUSE BILL 182  
 R5   (5lr1244 ) 
 ENROLLED BILL  
-ó Environment and Transportation/Judicial Proceedings  ó 
+‚Äî Environment and Transportation/Judicial Proceedings  ‚Äî 
 Introduced by Delegate Stewart  Delegates Stewart, Behler, Boyce, Foley, Guyton, 
 Healey, Lehman, R.  Lewis, T.  Morgan, Ruth, Terrasa, and Ziegler  
  
@@ -22,7 +22,7 @@ Proofreader.
  
 Sealed with the  Great Seal and presented to the Governor, for his approval this  
   
-_______ day of _______________ at ________________________ oíclock, ________M.  
+_______ day of _______________ at ________________________ o‚Äôclock, ________M.  
   
 ______________________________________________  
 Speaker .  
@@ -31,7 +31,7 @@ CHAPTER ______
  
 AN ACT concerning  1 
  
-Motor Vehicles ñ Speed Monitoring Systems ñ Penalties  2 
+Motor Vehicles ‚Äì Speed Monitoring Systems ‚Äì Penalties  2 
  
 FOR the purpose of altering the penalties for a civil citation issued as a result of a recorded 3 
 image produced by a speed monitoring system; requiring the State Highway 4 
@@ -40,29 +40,29 @@ speed monitoring systems in school zones;  and generally relating to speed monit
 systems.  7 
  
 BY repealing and reenacting, without amendments,  8 
- Article ñ Transportation  9 
-Section 21 ñ809(a)(1) and (8) and  (b)(1)(i) and (vi)  10 
+ Article ‚Äì Transportation  9 
+Section 21 ‚Äì809(a)(1) and (8) and  (b)(1)(i) and (vi)  10 
  Annotated Code of Maryland  11 
  (2020 Replacement Volume and 2024 Supplement)  12 
  
 2 HOUSE BILL 182   
  
  BY repealing and reenacting, with amendments,  1 
- Article ñ Transportation  2 
-Section 21 ñ809(c)  3 
+ Article ‚Äì Transportation  2 
+Section 21 ‚Äì809(c)  3 
  Annotated Code of Maryland  4 
  (2020 Replacement Volume and 2024 Supplem ent) 5 
  
  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 6 
 That the Laws of Maryland read as follows:  7 
  
-Article ñ Transportation  8 
+Article ‚Äì Transportation  8 
  
-21ñ809. 9 
+21‚Äì809. 9 
  
  (a) (1) In this section the following words have the meanings indicated.  10 
  
-  (8) ìSpeed monitoring systemî means a device with one or more motor 11 
+  (8) ‚ÄúSpeed monitoring system‚Äù means a device with one or more motor 11 
 vehicle sensors producing recorded images of motor vehicles traveling at speeds at least 12 12 
 miles per hour above the posted speed limit.  13 
  
@@ -75,21 +75,21 @@ speed monitoring s ystem that meets the requirements of this subsection and has 
 placed:  19 
  
     1. In Anne Arundel County, Montgomery County, or Prince 20 
-Georgeís County, on a highway in a residential district, as defined in ß 21 ñ101 of this title, 21 
+George‚Äôs County, on a highway in a residential district, as defined in ¬ß 21 ‚Äì101 of this title, 21 
 with a maximum posted spee d limit of 35 miles per hour, which speed limit was established 22 
 using generally accepted traffic engineering practices;  23 
  
     2. In a school zone with a posted speed limit of at least 20 24 
 miles per hour;  25 
  
-    3. In Prince Georgeís County:  26 
+    3. In Prince George‚Äôs County:  26 
  
     A. Subject to subparagraph (vii)1 of this paragraph, on 27 
 Maryland Route 210 (Indian Head Highway); or  28 
  
     B. On that part of a highway located within the grounds of 29 
-an institution of higher education as defined in ß 10 ñ101(h) of the Education Article, or 30 
-within one ñhalf mile of the grounds of a building or property used by the institution of 31 
+an institution of higher education as defined in ¬ß 10 ‚Äì101(h) of the Education Article, or 30 
+within one ‚Äìhalf mile of the grounds of a building or property used by the institution of 31 
 higher education where generally accepted traffic and engineering practices indicate that 32 
 motor vehicle, pedestrian, or bicycle traffic is substantially generated or influenced by th e 33 
 institution of higher education;  34 
@@ -101,7 +101,7 @@ Interstate 83 in Baltimore City;  2
  
     5. In Anne Arundel County, on Maryland Route 175 (Jessup 3 
 Road) between the Maryland Route 175/295 interchange and the Anne Arundel  4 
-County ñHoward County line; or  5 
+County ‚ÄìHoward County line; or  5 
  
     6. Subject to subparagraph (vii)3 of this paragraph, at the 6 
 intersection of Maryland Route 3 33 (Oxford Road) and Bonfield Avenue in Talbot County.  7 
@@ -136,7 +136,7 @@ $350  $425 . 27
   (3) For purposes of this section, the District Court shall prescribe [: 28 
  
    (i) A] A uniform citation form consistent with subsection (d)(1) of 29 
-this section and ß 7 ñ302 of the Courts Article [; and  30 
+this section and ¬ß 7 ‚Äì302 of the Courts Article [; and  30 
  
    (ii) A civil penalty, wh ich shall be indicated on the citation, to be paid 31 
 by persons who choose to prepay the civil penalty without appearing in District Court ]. 32 
@@ -179,7 +179,7 @@ systems in school zones.  23
  
  (c) On or before December 1, 2025, the State Highway Administration shall 24 
 submit the findings and any recommendations of the study to the Governor and, in 25 
-accordance with ß 2 ñ1257 of the State Government Article, the Ge neral Assembly.  26 
+accordance with ¬ß 2 ‚Äì1257 of the State Government Article, the Ge neral Assembly.  26 
  
  SECTION 3.  AND BE IT FURTHER ENACTED, That this Act shall take effect 27 
 October 1, 2025.  28 

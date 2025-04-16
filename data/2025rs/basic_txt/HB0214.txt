@@ -7,8 +7,8 @@ EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW .
 amendment.             *hb0214*      
 HOUSE BILL 214  
 O3   5lr0052  
-  (PRE ñFILED)  CF SB 208  
-By: Chair, Appropriations Committee (By Request ñ Departmental ñ Disabilities)  
+  (PRE ‚ÄìFILED)  CF SB 208  
+By: Chair, Appropriations Committee (By Request ‚Äì Departmental ‚Äì Disabilities)  
 Requested: September 28, 2024  
 Introduced and read first time: January 8, 2025  
 Assigned to: Appropriations  
@@ -20,7 +20,7 @@ CHAPTER ______
  
 AN ACT concerning  1 
  
-Human Services ñ Maryland Assistive Technology Program ñ Establishment  2 
+Human Services ‚Äì Maryland Assistive Technology Program ‚Äì Establishment  2 
  
 FOR the purpose of establishing the Maryland Assistive Technology Program in the 3 
 Department of Disabilities to provide assistive technology devices and services to 4 
@@ -29,44 +29,44 @@ a special, nonlapsing fund; requiring interest earnings of the Fund to be credit
 the Fund; and generally relating to the Maryland Assistive Technology Program . 7 
  
 BY repealing and reenacting, with amendments,  8 
- Article ñ Human Serv ices 9 
-Section 7 ñ114(b)  10 
+ Article ‚Äì Human Serv ices 9 
+Section 7 ‚Äì114(b)  10 
  Annotated Code of Maryland  11 
  (2019 Replacement Volume and 2024 Supplement)  12 
  
 BY adding to  13 
- Article ñ Human Services  14 
-Section 7 ñ1201 through 7 ñ1205 to be under the new subtitle ìSubtitle 12. Maryland 15 
-Assistive Technology Programî  16 
+ Article ‚Äì Human Services  14 
+Section 7 ‚Äì1201 through 7 ‚Äì1205 to be under the new subtitle ‚ÄúSubtitle 12. Maryland 15 
+Assistive Technology Program‚Äù  16 
  Annota ted Code of Maryland  17 
  (2019 Replacement Volume and 2024 Supplement)  18 
  
 BY repealing and reenacting, without amendments,  19 
- Article ñ State Finance and Procurement  20 
- Section 6 ñ226(a)(2)(i)  21 
+ Article ‚Äì State Finance and Procurement  20 
+ Section 6 ‚Äì226(a)(2)(i)  21 
 2 HOUSE BILL 214   
  
   Annotated Code of Maryland  1 
  (2021 Replacement Volume and 2024 Supplement)  2 
  
 BY repealing and reenacting, with amendments,  3 
- Article ñ State Finance and Procurement  4 
- Section 6 ñ226(a)(2)(ii)204. and 205.  5 
+ Article ‚Äì State Finance and Procurement  4 
+ Section 6 ‚Äì226(a)(2)(ii)204. and 205.  5 
  Annotated Code of Maryland  6 
  (2021 Replacement Volume and 2024 Supplement)  7 
  
 BY adding to  8 
- Article ñ State Finance and Procurement  9 
- Section 6 ñ226(a)(2)(ii)206.  10 
+ Article ‚Äì State Finance and Procurement  9 
+ Section 6 ‚Äì226(a)(2)(ii)206.  10 
  Annotated Code of Maryland  11 
  (2021 Replacement Volume and 2024 Supplement)  12 
  
  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 13 
 That the Laws of Maryland read as follows:  14 
  
-Article ñ Human Services  15 
+Article ‚Äì Human Services  15 
  
-7ñ114. 16 
+7‚Äì114. 16 
  
  (b) The Department shall oversee and administer the following programs and 17 
 units:  18 
@@ -90,28 +90,28 @@ SUBTITLE 12 OF THIS TITLE . 29
  
 SUBTITLE 12. MARYLAND ASSISTIVE TECHNOLOGY PROGRAM . 30 
  
-7ñ1201.  31 
+7‚Äì1201.  31 
  
  HOUSE BILL 214  3 
  
   (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE  THE MEA NINGS 1 
 INDICATED . 2 
  
- (B) ìASSISTIVE TECHNOLOGY DEVICEî MEANS ANY ITEM , PIECE OF 3 
+ (B) ‚ÄúASSISTIVE TECHNOLOGY DEVICE‚Äù MEANS ANY ITEM , PIECE OF 3 
 EQUIPMENT , OR PRODUCT SYSTEM , WHETHER ACQUIRED COM MERCIALLY , 4 
 MODIFIED , OR CUSTOMIZED , THAT IS USED TO INCR EASE , MAINTAIN , OR IMPROVE 5 
 FUNCTIONAL CAPABILIT IES OF INDIVIDUALS W ITH D ISABILITIES . 6 
  
- (C) ìASSISTIVE TECHNOLOGY SERVICE î MEANS ANY SERVICE TH AT ASSISTS 7 
+ (C) ‚ÄúASSISTIVE TECHNOLOGY SERVICE ‚Äù MEANS ANY SERVICE TH AT ASSISTS 7 
 AN INDIVIDUAL WITH A  DISABILITY IN THE SE LECTION , ACQUISITION , OR USE OF AN 8 
 ASSISTIVE TECHNOLOGY  DEVICE . 9 
  
- (D) ìFUNDî MEANS THE ASSISTIVE TECHNOLOGY SERVICES FUND. 10 
+ (D) ‚ÄúFUND‚Äù MEANS THE ASSISTIVE TECHNOLOGY SERVICES FUND. 10 
  
- (E) ìPROG RAMî MEANS THE MARYLAND ASSISTIVE TECHNOLOGY 11 
+ (E) ‚ÄúPROG RAM‚Äù MEANS THE MARYLAND ASSISTIVE TECHNOLOGY 11 
 PROGRAM . 12 
  
-7ñ1202.  13 
+7‚Äì1202.  13 
  
  (A) THERE IS A MARYLAND ASSISTIVE TECHNOLOGY PROGRAM IN THE 14 
 DEPARTMENT . 15 
@@ -121,15 +121,15 @@ DEPARTMENT . 15
   (1) INCREASE ACCESS TO A SSISTIVE TECHNOLOGY DEVICES AND 17 
 ASSISTIVE TECHNOLOGY  SERVICES FOR INDIVID UALS WITH DISABILITI ES; 18 
  
-  (2) SUPPORT THE STATEíS EFFORTS TO IMPROVE  THE PROVISION OF 19 
+  (2) SUPPORT THE STATE‚ÄôS EFFORTS TO IMPROVE  THE PROVISION OF 19 
 ASSISTIVE TECHNOLOGY  TO INDIVIDUALS WITH DISABILITIES OF ALL AGES , 20 
 INCLUDING UNDERREPRE SENTED POPULATIONS , THROUGH COMPREHENSIV E 21 
-STATEWIDE PROGRAMS OF TECHNOLOGY ñRELATED ASSISTANCE ; 22 
+STATEWIDE PROGRAMS OF TECHNOLOGY ‚ÄìRELATED ASSISTANCE ; 22 
  
   (3) ENSURE STATEWIDE ACC ESS TO ASSISTIVE TEC HNOLOGY 23 
 LENDING LIBRARIES TH AT ALLOW INDIVIDUALS  WITH DISABILITIES AN D THOSE 24 
 SUPPORTING INDIVIDUA LS WITH DISABILITIES  TO LEARN ABOUT , TRY, AND BORROW 25 
-ASSISTIVE TECHNOLOGY  DEVI CES THROUGH SHORT ñTERM LOANS ; AND 26 
+ASSISTIVE TECHNOLOGY  DEVI CES THROUGH SHORT ‚ÄìTERM LOANS ; AND 26 
  
   (4) IMPLEMENT ACTIVITIES  REQUIRED BY FEDERAL GRANTS , 27 
 INCLUDING FUNDING AU THORIZED UNDER THE FEDERAL 21ST CENTURY ASSISTIVE 28 
@@ -141,7 +141,7 @@ TECHNOLOGY SERVIC ES THAT INCLUDE ANY ACTIVITY DESCRIBED I N THE FEDERAL 31
 4 HOUSE BILL 214   
  
   
-7ñ1203.  1 
+7‚Äì1203.  1 
  
  (A) THERE IS AN ASSISTIVE TECHNOLOGY SERVICES FUND IN THE 2 
 DEPARTMENT . 3 
@@ -163,7 +163,7 @@ TECHNOLOGY SERV ICES PROVIDED BY THE  PROGRAM , INCLUDING : 5
 FUND. 12 
  
  (D) (1) THE FUND IS A SPECIAL , NONLAPSING FUND THAT  IS NOT 13 
-SUBJECT TO ß 7ñ302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE . 14 
+SUBJECT TO ¬ß 7‚Äì302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE . 14 
  
   (2) THE STATE TREASURER SHALL HOLD THE FUND SEPA RATELY , 15 
 AND THE COMPTROLLER SHALL ACC OUNT FOR THE FUND. 16 
@@ -198,18 +198,18 @@ WITH THE STATE BUDGET . 6
 SUPPLEMENTAL TO AND IS NOT INTENDED TO T AKE THE PLACE OF FUN DING THAT 8 
 OTHERWISE WOULD BE A PPROPRIATED FOR THE PROGRAM . 9 
  
-7ñ1204.  10 
+7‚Äì1204.  10 
  
  THIS SUBTITLE MAY NOT  BE CONSTRUED TO ESTA BLISH AN ENTITLEMENT  11 
 PROGRAM . 12 
  
-7ñ1205.  13 
+7‚Äì1205.  13 
  
  THE SECRET ARY MAY ADOPT REGULA TIONS TO IMPLEMENT T HIS SUBTITLE . 14 
  
-Article ñ State Finance and Procurement  15 
+Article ‚Äì State Finance and Procurement  15 
  
-6ñ226. 16 
+6‚Äì226. 16 
  
  (a) (2) (i) 1. This subparagraph does not apply in fiscal years 2024 17 
 through 2028.  18 

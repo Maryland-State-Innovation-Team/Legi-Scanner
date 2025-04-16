@@ -7,8 +7,8 @@ EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW .
 amendment.             *hb0075*      
 HOUSE BILL 75  
 G1 EMERGENCY BILL  5lr0174  
-  (PRE–FILED)  CF SB 262  
-By: Chair, Ways and Means Committee (By Request – Departmental – State Board 
+  (PREâ€“FILED)  CF SB 262  
+By: Chair, Ways and Means Committee (By Request â€“ Departmental â€“ State Board 
 of Elections)  
 Requested: September 19, 2024  
 Introduced and read first time: January 8, 2025  
@@ -21,7 +21,7 @@ CHAPTER ______
  
 AN ACT concerning  1 
  
-Election Law – Special Elections  2 
+Election Law â€“ Special Elections  2 
  
 FOR the purpose of altering requirements for scheduling special elections to fill vacancies 3 
 in a county council or in the office of chief executive officer or county executive; 4 
@@ -36,38 +36,38 @@ Administrator determines a conflict exists between State law and regulations and
 county charter or other county law relating to the conduct of a special election; 13 
 providing that a local board of ele ctions is not required to mail specimen ballots to 14 
 the registered voters of the county in a special election conducted by mail; altering 15 
-when a local board is required to send a vote –by–mail ballot to each registered voter 16 
-in a special election conducted b y mail; authorizing a voter to return a vote –by–mail 17 
+when a local board is required to send a vote â€“byâ€“mail ballot to each registered voter 16 
+in a special election conducted b y mail; authorizing a voter to return a vote â€“byâ€“mail 17 
 ballot through a ballot drop box in a special election conducted by mail; and generally 18 
 relating to special elections.  19 
  
 BY repealing and reenacting, with amendments,  20 
- Article – Election Law  21 
- Section 8–202(a),  8–401(a) and (b), 9 –502(a) and (d), and 9 –504(a)  22 
+ Article â€“ Election Law  21 
+ Section 8â€“202(a),  8â€“401(a) and (b), 9 â€“502(a) and (d), and 9 â€“504(a)  22 
 2 HOUSE BILL 75   
  
   Annotated Code of Maryland  1 
  (2022 Replacement Volume and 2024 Supplement)  2 
  
 BY adding to  3 
- Article – Election Law  4 
-Section 8 –402 and 8–403  5 
+ Article â€“ Election Law  4 
+Section 8 â€“402 and 8â€“403  5 
  Annotated Code of Maryland  6 
  (2022 Replacement Volume and 2024 Supplement)  7 
  
  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 8 
 That the Laws of Maryland read as follows:  9 
  
-Article – Election Law  10 
+Article â€“ Election Law  10 
  
-8–202. 11 
+8â€“202. 11 
  
  (a) A principal political party, as determined by the statement of registration 12 
 issued by the Stat e Board:  13 
  
   (1) shall use the primary election to:  14 
  
-   (i) EXCEPT AS PROVIDED I N § 8–402 OF THIS TITLE , nominate its 15 
+   (i) EXCEPT AS PROVIDED I N Â§ 8â€“402 OF THIS TITLE , nominate its 15 
 candidates for public office; and  16 
  
    (ii) elect all members of the local central committees of the political 17 
@@ -76,7 +76,7 @@ party; and  18
   (2) may use the  primary election in the year of a presidential election to 19 
 elect delegates to a national presidential nominating convention.  20 
  
-8–401. 21 
+8â€“401. 21 
  
  (a) A special primary election [and] OR a special general election may be held at 22 
 a time other than the date of a regular primary election [and] OR a regular general election:  23 
@@ -110,7 +110,7 @@ board makes an absentee ballot available to an absent uniformed services voter o
 voter, as defined under the Uniformed an d Overseas Citizens Absentee Voting Act, and the 10 
 date of the special election.  11 
  
-8–402.   12 
+8â€“402.   12 
  
  (A) THE RESOLUTION OF A C OUNTY COUNCIL ESTABL ISHING THE DATE OF  13 
 A SPECIAL ELECTION T O FILL A VACANCY IN THE COUNTY COUNCIL O R IN THE  14 
@@ -127,14 +127,14 @@ OF THE SPECIAL ELECT ION SHALL SPECIFY ON E OF THE FOLLOWING M ETHODS FOR  21
 CONDUCTING THE SPECI AL GENERAL ELECTION :  22 
  
   (1) A PARTISAN ELECTION IN WHICH THERE ARE N O PARTY NOMINEES  23 
-BUT EACH FILED CANDI DATE APPEARS  ON THE BALLOT WITH T HE CANDIDATE ’S 24 
+BUT EACH FILED CANDI DATE APPEARS  ON THE BALLOT WITH T HE CANDIDATE â€™S 24 
 PARTY AFFILIATION , IF ANY ; OR  25 
  
   (2) A NONPARTISAN ELECTI ON IN WHICH THERE AR E NO PARTY  26 
 NOMINEES AND EACH FI LED CANDIDATE APPEAR S ON THE BALLOT WITH OUT THE  27 
-CANDIDATE ’S PARTY AFFILIATION .  28 
+CANDIDATE â€™S PARTY AFFILIATION .  28 
  
-8–403.   29 
+8â€“403.   29 
  
  IF THE STATE ADMINISTRATOR DETERMI NES THAT A CONFLICT EXISTS 30 
 BETWEEN A COUNTY CHA RTER OR OTHER COUNTY  LAW RELATING TO THE CONDUCT 31 
@@ -145,24 +145,24 @@ MARYLAND REGULATIONS , THE STATE ADMINISTRATOR SHALL C ONDUCT THE 33
  SPEC IAL ELECTION ENTIREL Y IN ACCORDANCE WITH  THIS ARTICLE AND THE  CODE 1 
 OF MARYLAND REGULATIONS .  2 
  
-9–502. 3 
+9â€“502. 3 
  
  (a) (1) Except as provided in paragraph (2) of this subsection, a local board 4 
-shall mail by nonforwardable mail a vote –by–mail ballot to each registered voter who is 5 
+shall mail by nonforwardable mail a vote â€“byâ€“mail ballot to each registered voter who is 5 
 eligible to vote in a special election.  6 
  
-  (2) A local board is not required to mail a vote –by–mail ballot to a voter if 7 
+  (2) A local board is not required to mail a vote â€“byâ€“mail ballot to a voter if 7 
 the voter has requested that the ballot be sent by other means.  8 
  
   (3) A LOCAL BOARD IS NOT R EQUIRED TO MAIL SPEC IMEN BALL OTS 9 
-TO THE REGISTERED VO TERS OF THE COUNTY U NDER § 8–102 OF THIS ARTICLE . 10 
+TO THE REGISTERED VO TERS OF THE COUNTY U NDER Â§ 8â€“102 OF THIS ARTICLE . 10 
  
- (d) A local board shall send a vote –by–mail ballot to each eligible voter at least 11 
+ (d) A local board shall send a vote â€“byâ€“mail ballot to each eligible voter at least 11 
 [14] 30 days before the day of a special election.  12 
  
-9–504. 13 
+9â€“504. 13 
  
- (a) A voter may return a vote –by–mail ballot to a local board:  14 
+ (a) A voter may return a vote â€“byâ€“mail ballot to a local board:  14 
  
   (1) by mail;  15 
  
@@ -175,7 +175,7 @@ this section.  19
  
  SECTION 2. AND BE IT FURTHER ENAC TED, That this Act is an emergency 20 
 measure, is necessary for the immediate preservation of the public health or safety, has 21 
-been passed by a yea and nay vote supported by three –fifths of all the members elected to 22 
+been passed by a yea and nay vote supported by three â€“fifths of all the members elected to 22 
 each of the two Houses of the General Asse mbly, and shall take effect from the date it is 23 
 enacted.  24 
  

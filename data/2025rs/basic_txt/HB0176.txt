@@ -9,7 +9,7 @@ amendment.
 HOUSE BILL 176  
 K3, P1, L6    (5lr1547 ) 
 ENROLLED BILL  
-ó Appropriations/Finance  ó 
+‚Äî Appropriations/Finance  ‚Äî 
 Introduced by Delegate Solomon  
  
 Read and Examined by Proofreaders:  
@@ -21,7 +21,7 @@ Proofreader.
  
 Sealed with the Great Seal and presented to the Governor, for his approval this  
   
-_______ day of _______________ at _________________ _______ oíclock, ________M.  
+_______ day of _______________ at _________________ _______ o‚Äôclock, ________M.  
   
 ______________________________________________  
 Speaker .  
@@ -30,18 +30,18 @@ CHAPTER ______
  
 AN ACT concerning  1 
  
-Labor and Employment ñ Occupational Safety and Health ñ Revisions  2 
+Labor and Employment ‚Äì Occupational Safety and Health ‚Äì Revisions  2 
 (Davis Martinez Public Employee Safety and Health Act ) 3 
  
 FOR the purpose of requiring the Commissioner of Labor and Industry to appoint an 4 
-Assistant Commissioner for Public Employeesí Safety and Health for certain 5 
+Assistant Commissioner for Public Employees‚Äô Safety and Health for certain 5 
 purposes;  requiring the Correctional Training Commission to adopt certain 6 
-regulations for the train ing, issuance, and use of body ñworn cameras; requiring each 7 
+regulations for the train ing, issuance, and use of body ‚Äìworn cameras; requiring each 7 
 correctional unit to develop and maintain a certain written policy for the use of  8 
-body ñworn cameras by correctional officers, subject to a certain exception; 9 
+body ‚Äìworn cameras by correctional officers, subject to a certain exception; 9 
 establishing that it is lawful for a correctional officer to intercept certain 10 
-communications by use of a body ñworn camera under certain circumstances;  11 
-establishing the Public Employeesí Safety and Health Unit in the Division of Labor 12 
+communications by use of a body ‚Äìworn camera under certain circumstances;  11 
+establishing the Public Employees‚Äô Safety and Health Unit in the Division of Labor 12 
 and Industry to administer and enforce certain provisions regarding the oversight of 13 
 workplace safety and health of employees of certain public bodies; altering the 14 
 Maryland Occupational Safety and Health Act as it applies to certain public bodies; 15 
@@ -59,40 +59,40 @@ relating to the Maryland Occupational Safety and Health Act  public employee saf
 and health . 10 
  
 BY adding to  11 
- Article ñ Correctional Services  12 
- Section 8 ñ211 13 
+ Article ‚Äì Correctional Services  12 
+ Section 8 ‚Äì211 13 
  Annotated Code of Maryland  14 
  (2017  Replacement Volume and 2024 Supplement)  15 
  
 BY repealing and reenacting, with amendments,  16 
- Article ñ Courts and Judicial Proceedings  17 
- Section 10 ñ402(c)(11)  18 
+ Article ‚Äì Courts and Judicial Proceedings  17 
+ Section 10 ‚Äì402(c)(11)  18 
  Annotated Code of Maryland  19 
  (2020 Replacement Volume and 2024 Supplement)  20 
  
 BY repealing and reenacting, with amendments,  21 
- Article ñ Labor and Employment  22 
-Section 2ñ104(b),  5ñ101, 5 ñ102, 5 ñ104, 5ñ202, 5ñ202(b)(1), 5 ñ205(h),  5ñ206, 5 ñ207, 23 
-5ñ208, 5ñ211, 5 ñ212, 5 ñ308, 5ñ702, 5 ñ804, 5 ñ811, 5ñ702(a),  and 5 ñ812 24 
+ Article ‚Äì Labor and Employment  22 
+Section 2‚Äì104(b),  5‚Äì101, 5 ‚Äì102, 5 ‚Äì104, 5‚Äì202, 5‚Äì202(b)(1), 5 ‚Äì205(h),  5‚Äì206, 5 ‚Äì207, 23 
+5‚Äì208, 5‚Äì211, 5 ‚Äì212, 5 ‚Äì308, 5‚Äì702, 5 ‚Äì804, 5 ‚Äì811, 5‚Äì702(a),  and 5 ‚Äì812 24 
  Annotated Code of Maryland  25 
  (2016 Replacem ent Volume and 2024 Supplement)  26 
  
 BY repealing  27 
- Article ñ Labor and Employment  28 
-Section 5 ñ801 29 
+ Article ‚Äì Labor and Employment  28 
+Section 5 ‚Äì801 29 
  Annotated Code of Maryland  30 
  (2016 Replacement Volume and 2024 Supplement)  31 
  
 BY adding to  32 
- Article ñ Labor and Employment  33 
-Section 5 ñ1301 and 5 ñ1302 to be under the n ew subtitle ìSubtitle 13. Standards for 34 
-Preventing Workplace Violenceî  35 
+ Article ‚Äì Labor and Employment  33 
+Section 5 ‚Äì1301 and 5 ‚Äì1302 to be under the n ew subtitle ‚ÄúSubtitle 13. Standards for 34 
+Preventing Workplace Violence‚Äù  35 
  Annotated Code of Maryland  36 
  (2016 Replacement Volume and 2024 Supplement)  37 
  
 BY repealing and reenacting, with amendments,  38 
- Article ñ Public Safety  39 
- Section 12 ñ804(b)  40 
+ Article ‚Äì Public Safety  39 
+ Section 12 ‚Äì804(b)  40 
  Annotated Code of Maryland  41 
  HOUSE BILL 176  3 
  
@@ -101,20 +101,20 @@ BY repealing and reenacting, with amendments,  38
  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 2 
 That the Laws of Maryland read as follows:  3 
  
-Article ñ Correctional Services  4 
+Article ‚Äì Correctional Services  4 
  
-8ñ211.  5 
+8‚Äì211.  5 
  
  (A) ON OR BEFORE JANUARY 1, 2026,  THE COMMISSION SHALL ADOPT 6 
-REGULATIONS FOR THE TRAINING , ISSUANCE , AND USE OF A BODY ñWORN CAMERA 7 
+REGULATIONS FOR THE TRAINING , ISSUANCE , AND USE OF A BODY ‚ÄìWORN CAMERA 7 
 BY A CORRECTIONAL OF FICER THAT ADDRESSES : 8 
  
-  (1) THE TESTING OF BODY ñWORN CAMERAS TO ENSU RE ADEQUATE 9 
+  (1) THE TESTING OF BODY ‚ÄìWORN CAMERAS TO ENSU RE ADEQUATE 9 
 FUNCTIONING ; 10 
  
   (2) THE PROCEDURE FOR TH E CORRECTIONAL OFFIC ER TO FOLLOW 11 
 IF THE CAMERA FAILS TO PROPERLY OPERATE AT THE BEGINNING OF OR DURING 12 
-THE CORRECTIONAL OFF ICERíS SHIFT ; 13 
+THE CORRECTIONAL OFF ICER‚ÄôS SHIFT ; 13 
  
   (3) WHEN RECORDING IS MA NDATORY ; 14 
  
@@ -131,7 +131,7 @@ RECORDED ; 18
  
   (9) ACCESS TO AND CONFID ENTIALITY OF RECORDI NGS; 21 
  
-  (10)  THE SECURE STORAGE O F DATA FROM A BODY ñWORN CAMERA ; 22 
+  (10)  THE SECURE STORAGE O F DATA FROM A BODY ‚ÄìWORN CAMERA ; 22 
  
   (11)  REVIEW AND USE OF RECORDINGS ; 23 
  
@@ -150,12 +150,12 @@ EXPECTATION OF PRIVA CY IN PRIVATE OR PUB LIC PLACES ; AND  5
  
   (16)  THE PROCEDURES FOR A  CORRECTIONAL OFFICER  TO FOLLOW IF 6 
 THE CORRECTIONAL OFF ICER REGULARLY INTER ACTS WITH MEMBERS OF  THE 7 
-PUBLIC OUTSIDE AS PA RT OF THE CORRECTION AL OFFICER íS OFFICIAL DUTIES . 8 
+PUBLIC OUTSIDE AS PA RT OF THE CORRECTION AL OFFICER ‚ÄôS OFFICIAL DUTIES . 8 
  
  (B) (1) EXCEPT AS PROVIDED IN  SUBSECTION (C) OF THIS SECTION , EACH 9 
 CORRECTIONAL UNIT SH ALL DEVELOP AND MAIN TAIN A WRITTEN POLIC Y 10 
 CONSISTENT WITH THE REGULATIONS ADOPTED BY THE COMMISSION UNDER 11 
-SUBSECTION (A) OF THIS SECTION FOR THE USE OF BODY ñWORN CAMERAS . 12 
+SUBSECTION (A) OF THIS SECTION FOR THE USE OF BODY ‚ÄìWORN CAMERAS . 12 
  
   (2) A POLICY DEVELOPED AND  MAINTAINED UNDER PAR AGRAPH (1) 13 
 OF THIS SUBSECTION S HALL BE A MANDATORY SUBJECT OF COLLECTIV E 14 
@@ -166,42 +166,42 @@ REPRESENTATIVE . 16
 FACILITY . 18 
  
   (2) A LOCAL CORRECTIONAL F ACILITY MAY NOT BE R EQUIRED TO 19 
-ADOPT THE USE OF BOD YñWORN CAMERAS BY CORR ECTIONAL OFFICERS . 20 
+ADOPT THE USE OF BOD Y‚ÄìWORN CAMERAS BY CORR ECTIONAL OFFICERS . 20 
  
   (3) IF A LOCAL CORRECTION AL FACILITY ADOPTS T HE USE OF  21 
-BODYñWORN CAMERAS , THE LOCAL CORRECTIONAL  FACILITY SHALL DEVEL OP AND 22 
+BODY‚ÄìWORN CAMERAS , THE LOCAL CORRECTIONAL  FACILITY SHALL DEVEL OP AND 22 
 MAINTAIN A WRITTEN P OLICY CONSISTENT WIT H THE REGULATIONS AD OPTED BY 23 
 THE COMMISSION UNDER SUBS ECTION (A) OF THIS SECTION FOR THE USE OF  24 
-BODYñWORN CAMERAS . 25 
+BODY‚ÄìWORN CAMERAS . 25 
  
-Article ñ Courts and Judicial Proceedings  26 
+Article ‚Äì Courts and Judicial Proceedings  26 
  
-10ñ402. 27 
+10‚Äì402. 27 
  
  (c) (11) (i) 1. In this paragraph the following words have the meanings 28 
 indicated.  29 
  
-    2. ìBody ñworn digital recording deviceî means a device worn 30 
+    2. ‚ÄúBody ‚Äìworn digital recording device‚Äù means a device worn 30 
 on the person of a law enforcement officer OR A CORRECTIONAL OF FICER  that is capable 31 
 of recording video and intercepting oral communications.  32 
  
  HOUSE BILL 176  5 
  
-     3. ìElectronic control deviceî has the meaning stated in ß  1 
-4ñ109 of the Criminal Law Article.  2 
+     3. ‚ÄúElectronic control device‚Äù has the meaning stated in ¬ß  1 
+4‚Äì109 of the Criminal Law Article.  2 
  
    (ii) It is lawful under this subtitle for a law enforcement officer OR 3 
-A CORRE CTIONAL OFFICER  in the course of the officerís regular duty to intercept an oral 4 
-communication with a body ñworn digital recording device or an electronic control device 5 
+A CORRE CTIONAL OFFICER  in the course of the officer‚Äôs regular duty to intercept an oral 4 
+communication with a body ‚Äìworn digital recording device or an electronic control device 5 
 capable of recording video and oral communications if:  6 
  
     1. The law enforcement offi cer OR CORRECTIONAL 7 
-OFFICER  is in uniform or prominently displaying the officerís badge or other insignia;  8 
+OFFICER  is in uniform or prominently displaying the officer‚Äôs badge or other insignia;  8 
  
     2. The law enforcement officer OR CORRECTIONAL 9 
-OFFICER  is making reasonable efforts to conform to standards in accordance with ß 3 ñ511 10 
-of the Pu blic Safety Article  OR ß 8ñ211 OF THE CORRECTIONAL SERVICES ARTICLE for 11 
-the use of body ñworn digital recording devices or electronic control devices capable of 12 
+OFFICER  is making reasonable efforts to conform to standards in accordance with ¬ß 3 ‚Äì511 10 
+of the Pu blic Safety Article  OR ¬ß 8‚Äì211 OF THE CORRECTIONAL SERVICES ARTICLE for 11 
+the use of body ‚Äìworn digital recording devices or electronic control devices capable of 12 
 recording video and oral communications;  13 
  
     3. The law enforcement officer OR CORRECTIONAL 14 
@@ -219,13 +219,13 @@ not affect the admissibility in court of the recording if the failure to notify 
 individ ual who joined a discussion in progress for which proper notification was previously 23 
 given.  24 
  
-Article ñ Labor and Employment  25 
+Article ‚Äì Labor and Employment  25 
  
-2ñ104. 26 
+2‚Äì104. 26 
  
  (b) (1) The Commissioner shall appoint an Assistant Commissioner for 27 
 Occupational Safety and Health AND AN ASSISTANT COMMISSIONER FOR PUBLIC  28 
-EMPLOYEES í SAFETY AND HEALTH , subject to the approval of the Secretary.  29 
+EMPLOYEES ‚Äô SAFETY AND HEALTH , subject to the approval of the Secretary.  29 
  
   (2) The [Assistant Commissioner is ] ASSISTANT COMMISSION ERS ARE  30 
 in the management service in the State Personnel Management System and serves at the 31 
@@ -236,17 +236,17 @@ entitled to the salary provided in the State budget.  34
 6 HOUSE BILL 176   
  
   
-5ñ101. 1 
+5‚Äì101. 1 
  
  (a) In this title the following words have the meanings indicated.  2 
  
- (b) ìCommissionerî means the Commis sioner of Labor and Industry.  3 
+ (b) ‚ÄúCommissioner‚Äù means the Commis sioner of Labor and Industry.  3 
  
- (c) (1) ìEmployeeî means, except as provided in ß 5 ñ401 of this title, an 4 
+ (c) (1) ‚ÄúEmployee‚Äù means, except as provided in ¬ß 5 ‚Äì401 of this title, an 4 
 individual whom an employer employs, for a wage or other compensation, in the business 5 
 of the employer.  6 
  
-  (2) ìEmployeeî includes:  7 
+  (2) ‚ÄúEmployee‚Äù includes:  7 
  
    (i) an individual whom a [governmental unit ] PUBLIC BODY  8 
 employs;  9 
@@ -254,50 +254,50 @@ employs;  9
    (ii) an individual who is licensed as a taxicab driver and leases or 10 
 rents a taxicab from a person who operates or owns a taxicab business in Baltimore City;  11 
  
-   (iii) an individual who is e mployed for part ñtime or temporary help 12 
+   (iii) an individual who is e mployed for part ‚Äìtime or temporary help 12 
 by a [governmental unit ] PUBLIC BODY  or person who engages in a business that directly 13 
-employs individuals to provide part ñtime or temporary help to another [governmental unit ] 14 
+employs individuals to provide part ‚Äìtime or temporary help to another [governmental unit ] 14 
 PUBLIC BODY  or person; and  15 
  
    (iv) an individual who performs work for a [governmental unit ] 16 
 PUBLIC BODY  or person to whom the individual is provided by another [governmental 17 
 unit] PUBLIC BODY  or person who engages in a business that directly employs individuals 18 
-to provide part ñtime or tempora ry help.  19 
+to provide part ‚Äìtime or tempora ry help.  19 
  
- (d) (1) ìEmployerî means:  20 
+ (d) (1) ‚ÄúEmployer‚Äù means:  20 
  
-   (i) except as provided in ß 5 ñ401 of this title, a person who is 21 
+   (i) except as provided in ¬ß 5 ‚Äì401 of this title, a person who is 21 
 engaged in commerce, industry, trade, or other business in the State and employs at least 22 
 one employee in that business; or  23 
  
    (ii) a public body.  24 
  
-  (2) ìEmployerî includes:  25 
+  (2) ‚ÄúEmployer‚Äù includes:  25 
  
    (i) a person who operates or owns a taxicab business in Baltimore 26 
 City and leases or rents a taxicab to a licensed taxicab driver, to provide services to the 27 
 public;  28 
  
    (ii) a governmental unit  PUBLIC BODY  or person who engages in a 29 
-business that directly employs individuals to provide part ñtime or temporary help to 30 
+business that directly employs individuals to provide part ‚Äìtime or temporary help to 30 
 another governmental unit  PUBLIC BODY  or person; and  31 
  HOUSE BILL 176  7 
  
   
    (iii) a governmental unit  PUBLIC BODY  or person who contracts 1 
 directly with another governmental unit  PUBLIC BODY  or person who engages in a 2 
-business that directly employs individuals to provide part ñtime or temporary help to 3 
+business that directly employs individuals to provide part ‚Äìtime or temporary help to 3 
 another governmental unit  PUBLIC BODY  or person.  4 
  
- (e) (1) ìFIELDWORK LOCATION î MEANS A PLACE WHERE AN EMPLOYEE  5 
+ (e) (1) ‚ÄúFIELDWORK LOCATION ‚Äù MEANS A PLACE WHERE AN EMPLOYEE  5 
 OF A  PUBLIC BODY GOES TO CONDUCT WORK ON BEHA LF OF THE PUBLIC BOD Y THAT  6 
 IS AWAY FROM A FACIL ITY THAT IS RENTED , LEASED , OR OWNED BY A PUBLIC  BODY . 7 
  
-  (2) ìFIELDWORK LOCATION î INCLUDES A DRIVING R OUTE THAT AN  8 
+  (2) ‚ÄúFIELDWORK LOCATION ‚Äù INCLUDES A DRIVING R OUTE THAT AN  8 
 EMPLOYEE REGULARLY T RAVELS IN THE PERFOR MANCE OF DUT IES FOR THE  9 
 PUBLIC BODY . 10 
  
- (F) ìOccupational safety and health standardî means a regulation that requires:  11 
+ (F) ‚ÄúOccupational safety and health standard‚Äù means a regulation that requires:  11 
  
   (1) a condition that is reasonably appropriate or necessary to make 12 
 employment and places of employment safe and healthful; or  13 
@@ -306,23 +306,23 @@ employment and places of employment safe and healthful; or  13
 that is reasonably appropriate or necessary to make employment and places of employment 15 
 safe and healthful.  16 
  
- [(f)] (G) ìPersonî includes a successor.  17 
+ [(f)] (G) ‚ÄúPerson‚Äù includes a successor.  17 
  
- [(g)] (H) (1) ìPlace of employmentî means a  place in or about which an 18 
+ [(g)] (H) (1) ‚ÄúPlace of employment‚Äù means a  place in or about which an 18 
 employee is allowed to work.  19 
  
-  (2) ìPLACE OF EMPLOYMENT î INCLUDES : 20 
+  (2) ‚ÄúPLACE OF EMPLOYMENT ‚Äù INCLUDES : 20 
  
    (I) A FACILITY THAT IS R ENTED , LEASED , OR OWNED BY A  21 
 PUBLIC BODY ; AND  22 
  
    (II) A FIELDWORK LOCATION . 23 
  
- [(h)] (I) ìPublic bodyî means:  24 
+ [(h)] (I) ‚ÄúPublic body‚Äù means:  24 
  
   (1) a governmental unit;  25 
  
-  (2) a public or quasi ñpublic corporation of the State;  26 
+  (2) a public or quasi ‚Äìpublic corporation of the State;  26 
  
   (3) a school district in the State or any unit of the district; or  27 
  
@@ -330,11 +330,11 @@ PUBLIC BODY ; AND  22
  
 8 HOUSE BILL 176   
  
-  (J) (I) (1) ìWORKPLACE VIOLENCE î MEANS AN ACT OF VIOLENCE OR A 1 
+  (J) (I) (1) ‚ÄúWORKPLACE VIOLENCE ‚Äù MEANS AN ACT OF VIOLENCE OR A 1 
 THREAT OF VIOLENCE T HAT OCCURS AT A PLAC E OF EMPLOYMENT AND THAT IS NOT 2 
-A LAWFUL ACT OF SELF ñDEFENSE OR DEFENSE O F ANOTHER PERSON . 3 
+A LAWFUL ACT OF SELF ‚ÄìDEFENSE OR DEFENSE O F ANOTHER PERSON . 3 
  
-  (2) ìWORKPLACE VIOLENCE î INCLUDES , REGARDLESS OF WHETHE R 4 
+  (2) ‚ÄúWORKPLACE VIOLENCE ‚Äù INCLUDES , REGARDLESS OF WHETHE R 4 
 THE EMPLOYEE IS PHYS ICALLY OR PSYCHOLOGI CALLY INJUR ED: 5 
  
    (I) USING OR THREATENING  TO USE PHYSICAL FORC E AGAINST 6 
@@ -343,7 +343,7 @@ AN EMPLOYEE ; OR 7
    (II) AN INCIDENT INVOLVIN G THE USE OF OR THRE ATENING THE 8 
 USE OF A FIREARM OR OTHER DANGEROUS WEAP ON. 9 
  
-5ñ102. 10 
+5‚Äì102. 10 
  
  (a) The General Assembly finds that:  11 
  
@@ -443,7 +443,7 @@ ARE SAFE AND HEALTHY ; AND  10
 THAT ARE SAFE , HEALTHY , AND PRODUCTIVE OVER THE COURSE OF THEIR 12 
 CAREERS . 13 
  
-5ñ104. 14 
+5‚Äì104. 14 
  
  (a) Each employer shall provide each employee of the employer with employment 15 
 and a place of employment that are:  16 
@@ -458,7 +458,7 @@ that the Commissioner adopts to carry out this title, and each applicable order 
 Commissioner passes under this title.  22 
  
   (2) Each employee shall comply with this title and, when applicable to the 23 
-employeeís actions and conduct in the course of employment, each regulation that the 24 
+employee‚Äôs actions and conduct in the course of employment, each regulation that the 24 
 Commissioner passes under this title.  25 
  
  (c) (1) Each em ployer shall keep its employees informed of their protections 26 
@@ -473,17 +473,17 @@ or 30
  
   
   (2) IN ADDITION TO THE RE QUIREMENTS UNDER PAR AGRAPH (1) OF 1 
-THIS SUBSECTION , EACH PUBLIC BODY ANN UALLY SHALL SEND BY E ñMAIL  MAKE 2 
+THIS SUBSECTION , EACH PUBLIC BODY ANN UALLY SHALL SEND BY E ‚ÄìMAIL  MAKE 2 
 AVAILABLE  TO EACH OF ITS EMPLO YEES A COPY OF : 3 
  
    (I) THE REPORT ISSUED BY  THE ASSISTANT  COMMI SSIONER  4 
-FOR PUBLIC EMPLOYEES í SAFETY AND HEALTH  UNDER ß 5ñ206( F) OF THIS TITLE ; 5 
+FOR PUBLIC EMPLOYEES ‚Äô SAFETY AND HEALTH  UNDER ¬ß 5‚Äì206( F) OF THIS TITLE ; 5 
 AND  6 
  
    (II) CITATIONS ISSUED BY THE COMMISSIONER TO THE P UBLIC 7 
 BODY IN THE IMMEDIAT ELY PRECEDING YEAR , IF ANY . 8 
  
-5ñ202. 9 
+5‚Äì202. 9 
  
  (a) (1) [The] EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS  10 
 SUBSECTION , THE Commissioner may delegate to the [assistant commissioner ] 11 
@@ -491,7 +491,7 @@ ASSISTANT COMMISSIONER  for [occupational safety ] OCCUPATIONAL SAFETY  and 12
 [health ] HEALTH  any duty or function of the Commissioner under t his title.  13 
  
   (2) THE COMMISSIONER SHALL DE LEGATE TO THE ASSISTANT  14 
-COMMISSIONER FOR PUBLIC EMPLOYEES í SAFETY AND HEALTH ANY DUTY OR  15 
+COMMISSIONER FOR PUBLIC EMPLOYEES ‚Äô SAFETY AND HEALTH ANY DUTY OR  15 
 FUNCTION RELATED TO THE ADMINISTRATION A ND ENFORCEMENT OF TH IS TITLE  16 
 WITH RESPECT TO PUBL IC BODIES . 17 
  
@@ -508,26 +508,26 @@ the agreement; and  24
  
    (iii) enable the Commissioner to revoke the agreement at any time.  25 
  
-5ñ205. 26 
+5‚Äì205. 26 
  
  (h) With the consent of a [governmental unit ] PUBLIC BODY , the Commissioner 27 
 may use a n employee, facility , or service of the [governmental unit ] PUBLIC BODY , with or 28 
 without reimbursement, to help the Commissioner carry out a function under this title.  29 
  
-5ñ206. 30 
+5‚Äì206. 30 
  
 12 HOUSE BILL 176   
  
   (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS  1 
 INDICATED . 2 
  
-  (2) ìASSISTANT COMMISSIONER î MEANS THE ASSISTANT  3 
-COMMISSIONER FOR PUBLIC EMPLOYEES í SAFETY AND HEALTH . 4 
+  (2) ‚ÄúASSISTANT COMMISSIONER ‚Äù MEANS THE ASSISTANT  3 
+COMMISSIONER FOR PUBLIC EMPLOYEES ‚Äô SAFETY AND HEALTH . 4 
  
-  (3), ìUNITî MEANS THE PUBLIC EMPLOYEES í SAFETY AND HEALTH 5 
+  (3), ‚ÄúUNIT‚Äù MEANS THE PUBLIC EMPLOYEES ‚Äô SAFETY AND HEALTH 5 
 UNIT. 6 
  
- (B) THERE IS A PUBLIC EMPLOYEES í SAFETY AND HEALTH UNIT IN THE 7 
+ (B) THERE IS A PUBLIC EMPLOYEES ‚Äô SAFETY AND HEALTH UNIT IN THE 7 
 DIVISION OF LABOR AND  INDUSTRY . 8 
  
  (C) THE ASSISTANT  COMMISSIONER SHALL BE  THE HEAD OF THE UNIT. 9 
@@ -547,7 +547,7 @@ ADMINISTERED AND ENF ORCED BY THE UNIT. 13
 healthful;  18 
  
    (ii) develop, conduct, and maintain in each unit of the public body a 19 
-program of self ñinspection that the ASSIS TANT  Commissioner approves AND MONITORS ; 20 
+program of self ‚Äìinspection that the ASSIS TANT  Commissioner approves AND MONITORS ; 20 
  
    (iii) keep and make available to the ASSISTANT  Commissioner each 21 
 record that the Commissioner requires under this title and for development of information 22 
@@ -556,7 +556,7 @@ necessary corrective action; and  24
  
    (iv) submit each report that the Commissioner requires ; AND  25 
  
-  (3) IN ADDITION TO A SEL FñINSPECTION REQUIRED UNDER ITEM 26 
+  (3) IN ADDITION TO A SEL F‚ÄìINSPECTION REQUIRED UNDER ITEM 26 
 (2)(II) OF THIS SUBSECTION , INCLUDE AN INSPECTIO N PROGRAM DEVELOPED , 27 
 CONDUCTED , AND MAINTAINED BY TH E UNIT THAT : 28 
  
@@ -577,10 +577,10 @@ TRADITIONAL WORKPLAC E BUT IN STEAD WORK AT VARYIN G ASSIGNED FIELDWORK  7
 LOCATIONS ; AND  8 
  
    (V) OTHERWISE COMPLIES W ITH THE INSPECTION 9 
-REQUIREMENTS OF ß 5ñ208 OF THIS SUBTITLE . 10 
+REQUIREMENTS OF ¬ß 5‚Äì208 OF THIS SUBTITLE . 10 
  
  [(c) The Commissioner shall monitor the program of each public body for  11 
-selfñinspection.  12 
+self‚Äìinspection.  12 
  
  (d) The penalties  under Subtitle 8 of this title do not apply to a public body. ] 13 
  
@@ -612,21 +612,21 @@ IMMEDIATELY PRECEDIN G YEAR . 29
  
    (3) ON OR BEFORE JULY 1 EACH YEAR , THE COMMISSIONER SHALL 1 
 SUBMIT THE REPORT RE QUIRED TO BE PUBLISH ED UNDER PARAGRAPH (1) OF THIS 2 
-SUBSECTION TO THE GENERAL ASSEMBLY , IN ACCORDANCE WITH ß 2ñ1257  OF THE 3 
+SUBSECTION TO THE GENERAL ASSEMBLY , IN ACCORDANCE WITH ¬ß 2‚Äì1257  OF THE 3 
 STATE GOVERNMENT ARTICLE . 4 
  
  (G) THIS SECTION DOES NOT  LIMIT OR PRECLUDE TH E COMMISSIONER OR 5 
 AN AUTHORIZED REPRES ENTATIVE OF THE COMMISSIONER FROM INS PECTING A 6 
 PUBLIC BODY IN ACCOR DANCE WITH ANY OTHER  PROVISION UNDER THIS  TITLE . 7 
  
-5ñ207. 8 
+5‚Äì207. 8 
  
  (A) On request of the Commissioner,  the Attorney General may proceed in a State 9 
 or federal court or before any other federal unit:  10 
  
   (1) to enforce a decision of the Commissioner under this title;  11 
  
-  (2) subject to ß 3 ñ302 of the State Finance and Procurement Article, to 12 
+  (2) subject to ¬ß 3 ‚Äì302 of the State Finance and Procurement Article, to 12 
 collect a civil pe nalty that is assessed by order of the Commissioner under this title; or  13 
  
   (3) to enforce any other order of the Commissioner under this title.  14 
@@ -640,7 +640,7 @@ OF THE PUBLIC BODY A ND ANY EMPLOYEE REPR ESENTATIVES ; AND 18
   (2) PROVIDE NOTICE OF TH E REQUEST TO THE GOVERNOR , THE 19 
 PRESIDENT OF THE SENATE , AND THE SPEAKER OF THE HOUSE OF DELEGATES . 20 
  
-5ñ208. 21 
+5‚Äì208. 21 
  
  (a) The Commissioner or authorized representative of the Commissioner may 22 
 enter a place of employment where work is performed, without delay at any reasonable 23 
@@ -687,7 +687,7 @@ BEHALF OF THE PUBLIC  BODY ; AND  20
   (2) ENTER ANY FIELDWORK LOCATIONS THAT THE E MPLOYEE OF A  21 
 PUBLIC BODY HAS CAUS E TO ENTER WHILE ACC OMPAN YING THE EMPLOYEE . 22 
  
-5ñ211. 23 
+5‚Äì211. 23 
  
  (a) Whenever an individual who is authorized to inspect property in the State is 24 
 denied access after the individual makes a proper request to the owner, lessee, or other 25 
@@ -716,7 +716,7 @@ access was denied; and  2
  (c) (1) An application may not  be submitted to the District Court unless 6 
 approved by the Attorney General.  7 
  
-  (2) IF THE ASSISTANT  COMMISSIONER OF PUBLIC EMPLOYEES í 8 
+  (2) IF THE ASSISTANT  COMMISSIONER OF PUBLIC EMPLOYEES ‚Äô 8 
 SAFETY AND HEALTH  OR AN AUTHORIZED REP RESENTATIVE OF THE ASSISTANT  9 
 COMMISSIONER APPLIES FOR AN ADMINISTRATIV E SEARCH WARR ANT UNDER 10 
 SUBSECTION (A) OF THIS SECTION , THE ATTORNEY GENERAL SHALL PRIORIT IZE 11 
@@ -725,7 +725,7 @@ AND EXPEDITE REVIEW OF THE APPLICATION . 12
  (d) On application in accordance with this section, the District Court may issue 13 
 an administrative search warrant.  14 
  
-5ñ212. 15 
+5‚Äì212. 15 
  
  (a) (1) Except as provided in paragraph (2) of this subsection, if after an 16 
 inspection or investigation, the Commissioner or authorized representative of the 17 
@@ -771,7 +771,7 @@ it conspicuously at or near each place where the citation alleges a violation oc
  
   (2) IN ADDITION TO THE PO STING REQUIREMENT UN DER PARAGRAPH 11 
 (1) OF THIS SUBSECTION , A PUBLIC BODY THAT I S ISSUED A CITATION SHALL SEND  12 
-BY EñMAIL  MAKE AVAILABLE  A COPY OF THE CITATI ON TO ALL AFFECTED 13 
+BY E‚ÄìMAIL  MAKE AVAILABLE  A COPY OF THE CITATI ON TO ALL AFFECTED 13 
 EMPLOYEES . 14 
  
  (d) The Commissioner may establish, by regulation, procedures for issuance of a 15 
@@ -781,14 +781,14 @@ relationship to safety or health.  17
  (E) (1) IF A PUBLIC BODY , AFTER RECEIVING NOTI CE FROM THE  18 
 COMMISSIONER , DOES NOT COMPLY WITH  THE REQUIREMENTS UND ER SUBSECTION  19 
 (C) OF THIS SECTION , THE PUBLIC BODY IS S UBJECT TO A CIVIL PE NALTY OF $500  20 
-PER DAY FOR EACH DAY  DURING A 30ñDAY PERIOD THAT THE PUBLIC BODY  IS NOT  21 
+PER DAY FOR EACH DAY  DURING A 30‚ÄìDAY PERIOD THAT THE PUBLIC BODY  IS NOT  21 
 IN COMPLIANCE . 22 
  
   (2) A CIVIL PENALTY ASSESS ED UNDER PARAGRAPH (1) OF THIS  23 
 SUBSECTION SHALL INC REASE TO $1,000  FOR EACH DAY , BEGINNING ON THE 31ST 24 
 DAY, THAT THE PUBLIC BODY  IS NOT IN COMPLIANCE . 25 
  
-5ñ308. 26 
+5‚Äì308. 26 
  
  (A) [The] SUBJECT TO SUBSECTION  (B) OF THIS SECTION , THE Board shall 27 
 advise, consult with, propose, and recommend to the Commissioner reasonable regulations:  28 
@@ -806,7 +806,7 @@ and health of employees on the basis of circumstantial evidence and information 
    (ii) is available to the Commissioner; or  2 
  
    (iii) is submitted by an interested person to the Board at a public 3 
-hearing held under ß 5 ñ310(d) of this subtitle.  4 
+hearing held under ¬ß 5 ‚Äì310(d) of this subtitle.  4 
  
  (B) TO CARRY OUT THE REQU IREMENTS OF SUBSECTI ON (A) OF THIS 5 
 SECTION WITH RESPECT  TO PUBLIC BODIES , THE BOARD SHAL L: 6 
@@ -816,18 +816,18 @@ AND SAFETY AND HEALT H CONCERNS OF EMPLOY EES; AND 8
  
   (2) RECOMMEND HIGHER STA NDARDS , IF WARRANTED . 9 
  
-5ñ702. 10 
+5‚Äì702. 10 
  
  (a) (1) [The] SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , THE 11 
 Commissioner may require, by regulation, that an employer keep:  12 
  
   [(1)] (I) an accurate record of:  13 
  
-   [(i)] 1. each work ñrelated death;  14 
+   [(i)] 1. each work ‚Äìrelated death;  14 
  
-   [(ii)] 2. each work ñrelated illness; and  15 
+   [(ii)] 2. each work ‚Äìrelated illness; and  15 
  
-   [(iii)] 3. each work ñrelated injury other than a minor injury that 16 
+   [(iii)] 3. each work ‚Äìrelated injury other than a minor injury that 16 
 requires only first aid treatment and does not involve loss of consciousness, medical 17 
 treatment, restriction of motion or work, or transfer to another job; and  18 
  
@@ -855,11 +855,11 @@ within 8 hours after it occurs if the accident results in:  2
  
   (2) hospitalization of at least three employees.  4 
  
-[5ñ801. 5 
+[5‚Äì801. 5 
  
  The penalties in this subtitle do not apply to a public body. ] 6 
  
-5ñ804. 7 
+5‚Äì804. 7 
  
  (a) A person may not knowingly make a false certification, false representation, 8 
 or false statement in an application, plan, record, report, or other document that is filed or 9 
@@ -881,7 +881,7 @@ OR IMPRISONMENT NOT EXCEEDING 1 YEAR OR BOTH . 20
 SEPARATE FROM AND CO NSECUTIVE TO A SENTE NCE IMPOSED FOR ANY CRIME  22 
 BASED ON THE ACT EST ABLISHING THE VIOLATION OF THIS SU BSECTION . 23 
  
-5ñ811. 24 
+5‚Äì811. 24 
  
  (a) (1) If a civil penalty that is assessed under this title is not paid in full 25 
 within 30 days after the penalty becomes final, the Commissioner or the Central Collection 26 
@@ -895,7 +895,7 @@ COMMISSIONER  SHALL NOTIFY THE GOVERNOR , THE PRESIDENT OF THE SENATE , 31
 20 HOUSE BILL 176   
  
  AND THE  SPEAKER OF THE HOUSE OF DELEGATES OF THE UNDE RLYING VIOLATION , 1 
-THE PENALTY ASSESSED , AND THE PUBLIC BODY íS FAILURE TO PAY THE  PENALTY ; 2 
+THE PENALTY ASSESSED , AND THE PUBLIC BODY ‚ÄôS FAILURE TO PAY THE  PENALTY ; 2 
 AND  3 
  
    (II) WITHIN 75 DAYS AFTER THE PENAL TY BECOMES FINAL , THE 4 
@@ -921,7 +921,7 @@ the applicable regulati ons of the Commissioner; or  16
  
    (ii) contested the citation for which the penalty was assessed.  17 
  
-5ñ812. 18 
+5‚Äì812. 18 
  
  (A) [Each ] EXCEPT AS PROVIDED IN  SUBSECTION (B) OF THIS SECTION , 19 
 EACH  civil penalty under this title shall be paid into the General Fund of the State.  20 
@@ -932,12 +932,12 @@ USED ONLY FOR THE MARYLAND APPRENTICESHIP AND TRAINING PROGRAM . 23
  
 SUBTITLE 13. STANDARDS FOR PREVENTING WORKPLACE VIOLE NCE. 24 
  
-5ñ1301.  25 
+5‚Äì1301.  25 
  
- IN THIS SUBTITLE , ìBOARDî HAS THE MEANING STAT ED IN ß 5ñ301 OF THIS 26 
+ IN THIS SUBTITLE , ‚ÄúBOARD‚Äù HAS THE MEANING STAT ED IN ¬ß 5‚Äì301 OF THIS 26 
 TITLE . 27 
  
-5ñ1302.  28 
+5‚Äì1302.  28 
  
  HOUSE BILL 176  21 
  
@@ -965,17 +965,17 @@ THE BEST WAYS TO PRE VENT WORKPLACE VIOLE NCE; AND 15
 LOCATIONS IN THE STATE TO RECEIVE INPU T FROM INTERESTED PA RTIES ON THE 17 
 BEST WAYS TO PREVENT  WORKPLACE VIOLENCE . 18 
  
-Article ñ Public Safety  19 
+Article ‚Äì Public Safety  19 
  
-12ñ804. 20 
+12‚Äì804. 20 
  
  (b) (1) [Sections ] EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS 21 
-SUBSECTION , ßß 5ñ205(j), 5 ñ207, 5ñ214, 5ñ215, and 5 ñ216 and Title 5, Subtitle 8 of the 22 
+SUBSECTION , ¬ß¬ß 5‚Äì205(j), 5 ‚Äì207, 5‚Äì214, 5‚Äì215, and 5 ‚Äì216 and Title 5, Subtitle 8 of the 22 
 Labor and Employment Article apply to Part II of this subtitle.  23 
  
   (2) THE PENALTIES ESTABLI SHED UNDER THIS SUBT ITLE AND TITLE 24 
 5, SUBTITLE 8 OF THE LABOR AND EMPLOYMENT ARTICLE DO NOT  APPLY WITH 25 
-RESPECT TO AN ELEVAT OR UNIT OWNED BY A P UBLIC BODY , AS DEFINED IN ß 5ñ101 26 
+RESPECT TO AN ELEVAT OR UNIT OWNED BY A P UBLIC BODY , AS DEFINED IN ¬ß 5‚Äì101 26 
 OF THE LABOR AND EMPLOYMENT ARTICLE .  27 
  
  SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 28 

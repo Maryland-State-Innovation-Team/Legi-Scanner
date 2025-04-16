@@ -7,7 +7,7 @@ EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW .
 amendment.             *hb0100*      
 HOUSE BILL 100  
 L6, C4    5lr0658  
-  (PRE ñFILED)  CF SB 102  
+  (PRE ‚ÄìFILED)  CF SB 102  
 By: Delegate Bagnall  
 Requested: July 31, 2024  
 Introduced and read first time: January 8, 2025  
@@ -20,34 +20,34 @@ CHAPTER ______
  
 AN ACT concerning  1 
  
-Insurance Pooling  ñ Public Entity  ñ Definition  2 
+Insurance Pooling  ‚Äì Public Entity  ‚Äì Definition  2 
  
-FOR the purpose of altering the definition of ìpublic entityî to include a Resilience 3 
+FOR the purpose of altering the definition of ‚Äúpublic entity‚Äù to include a Resilience 3 
 Authority for purposes of insurance pooling; and generally relating to  Resilience 4 
 Authorities and insurance pooling.   5 
  
 BY repealing and reenacting, with amendments,  6 
- Article ñ Insurance  7 
-Section 19 ñ602 8 
+ Article ‚Äì Insurance  7 
+Section 19 ‚Äì602 8 
  Annotated Code of Maryland  9 
  (2017 Replacement Volume and 2024 Supplement)  10 
  
 BY repealing and reenacting, with out amendments,  11 
- Article ñ Local Government  12 
-Section 22ñ101(a) and (g) 13 
+ Article ‚Äì Local Government  12 
+Section 22‚Äì101(a) and (g) 13 
  Annotated Code of Maryland  14 
  (2013 Volume and 2024 Supplement)  15 
  
  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 16 
 That the Laws of Maryland read as follows:  17 
  
-Article ñ Insurance  18 
+Article ‚Äì Insurance  18 
  
-19ñ602. 19 
+19‚Äì602. 19 
 2 HOUSE BILL 100   
  
   
- (a) In this section, ìpublic entityî means:  1 
+ (a) In this section, ‚Äúpublic entity‚Äù means:  1 
  
   (1) a political subdivision of the State;  2 
  
@@ -58,22 +58,22 @@ Article ñ Insurance  18
    (i) receives 50% or more of its annual operating budget from the 5 
 State or a local government; and  6 
  
-   (ii) is exempt from taxation under ß 501(c)(3) or (4) of the Internal 7 
+   (ii) is exempt from taxation under ¬ß 501(c)(3) or (4) of the Internal 7 
 Revenue Code ; OR 8 
  
-  (4) A RESILIENCE AUTHORITY AS  DEFINED IN ß 22ñ101 OF THE 9 
+  (4) A RESILIENCE AUTHORITY AS  DEFINED IN ¬ß 22‚Äì101 OF THE 9 
 LOCAL GOVERNMENT ARTICLE . 10 
  
  (b) Public entities may pool together to purchase casualty insurance, property 11 
-insurance, or health insurance or to self ñinsure against casualty, property , or health risks.  12 
+insurance, or health insurance or to self ‚Äìinsure against casualty, property , or health risks.  12 
  
-Article ñ Local Government  13 
+Article ‚Äì Local Government  13 
  
-22ñ101. 14 
+22‚Äì101. 14 
  
  (a) In this title the following words have the meanings indicated.  15 
  
- (g) ìResilience Authorityî means an authority incorporated by one or more local 16 
+ (g) ‚ÄúResilience Authority‚Äù means an authority incorporated by one or more local 16 
 governments in accordance with this title whose purpose is to undertake or support 17 
 resilience infrastructure projects.  18 
  

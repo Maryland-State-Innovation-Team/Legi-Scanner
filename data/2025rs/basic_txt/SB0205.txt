@@ -1,172 +1,147 @@
+ WES MOORE, Governor  Ch. 38  
  
+– 1 – Chapter 38  
+(Senate Bill 205 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *sb0205*      
-SENATE BILL 205  
-O2   5lr0343  
-  (PRE –FILED)  CF HB 246  
-By: Chair, Judicial Proceedings Committee (By Request – Departmental – Human 
-Services)  
-Requested: October 9, 2024  
-Introduced and read first time: January 8, 2025  
-Assigned to: Judicial Proceedings  
-Committee Report: Favorable with amendments  
-Senate action: Adopted  
-Read second time: February 25, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Human Services – Adult Protective Services  
  
-AN ACT concerning  1 
+FOR the purpose of specifying that certain provisions of law relating to confidentiality do 
+not prohibit the disclosure of certain information relating to adult protective services 
+or the disclosure of the identity of certain persons making certain reports  under 
+certain circumstances; expanding the definition of “health practitioner” to include 
+certain emergency medical services providers in certain provisions of law relating to 
+adult protective services; authorizing certain individuals who are required und er 
+certain circumstances to report certain information regarding alleged vulnerable 
+adults to make a report by calling the statewide reporting hotline;  and generally 
+relating to vulnerable adults and  adult protective services.  
  
-Human Services – Adult Protective Services  2 
+BY repealing and reenactin g, with amendments,  
+ Article – Human Services  
+ Section 1 –201 
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of specifying that certain provisions of law relating to confidentiality do 3 
-not prohibit the disclosure of certain information relating to adult protective services 4 
-or the disclosure of the identity of certain p ersons making certain reports under 5 
-certain circumstances; expanding the definition of “health practitioner” to include 6 
-certain emergency medical services providers in certain provisions of law relating to 7 
-adult protective services; authorizing certain ind ividuals who are required under 8 
-certain circumstances to report certain information regarding alleged vulnerable 9 
-adults to make a report by calling the statewide reporting hotline;  and generally 10 
-relating to vulnerable adults and  adult protective services.  11 
+BY repealing and reenacting, with amendments,  
+ Article – Family Law  
+ Section 14 –101(g) , 14–302(b),  and 14 –308 
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  12 
- Article – Human Services  13 
- Section 1 –201 14 
- Annotated Code of Maryland  15 
- (2019 Replacement Volume and 2024 Supplement)  16 
+BY repealing and reenacting, without amendments,  
+ Article – Family Law  
+ Section 14 –302(a)  
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  17 
- Article – Family Law  18 
- Section 14 –101(g) , 14–302(b),  and 14 –308 19 
- Annotated Code of Maryland  20 
- (2019 Replacement Volume and 2024 Supplement)  21 
-2 SENATE BILL 205   
+ SECTION 1. BE  IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-  
-BY repealing and reenacting, without amendments,  1 
- Article – Family Law  2 
- Section 14 –302(a)  3 
- Annotated Code of Maryland  4 
- (2019 Replacement Volume and 2024 Supplement)  5 
+Article – Human Services  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 6 
-That the Laws of Maryland read as follows:  7 
+1–201. 
  
-Article – Human Services  8 
+ (a) Except as provided in subsection (b) of this section, a person may not disclose 
+any information concerning an applicant for or recipient of social services, child welfare 
+services, cash assistance, food stamps, or medical assistance that is directly or indirectly 
+derived from the records, investigations, or communications of the State, a county, or a 
+Ch. 38  2025 LAWS OF MARYLAND   
  
-1–201. 9 
+– 2 – municipal corporation or a unit of the State, a county, or a municipal corporation or that is 
+acquired in the course of the performance of official duties.  
  
- (a) Except as provided in subsection (b) of this section, a person  may not disclose 10 
-any information concerning an applicant for or recipient of social services, child welfare 11 
-services, cash assistance, food stamps, or medical assistance that is directly or indirectly 12 
-derived from the records, investigations, or communica tions of the State, a county, or a 13 
-municipal corporation or a unit of the State, a county, or a municipal corporation or that is 14 
-acquired in the course of the performance of official duties.  15 
+ (b) This section does not prohibit the disclosure of information:  
  
- (b) This section does not prohibit the disclosure of informatio n: 16 
+  (1) in accordance with a court order;  
  
-  (1) in accordance with a court order;  17 
+  (2) to an officer or employee of any state or local government [,] OR the 
+United States, [or a fiduciary institution, ] if the officer or employee is entitled to the 
+information in an official capacity and the disclosure is necessary to administer:  
  
-  (2) to an officer or employee of any state or local government [,] OR the 18 
-United States, [or a fiduciary institution, ] if the officer or employee is entitled to the 19 
-information in an official capacity and the disclosure is necessary to administer:  20 
+   (i) public assistance, medical assistance, social services, or child 
+welfare services programs; or  
  
-   (i) public assistance, medical assistance, social services, or child 21 
-welfare services programs; or  22 
+   (ii) voter registration in accordance with § 3 –203 of the Election Law 
+Article; [or] 
  
-   (ii) voter registration in accordance with § 3 –203 of the Election Law 23 
-Article; [or] 24 
+  (3) to a fiduciary institution that reported suspected financial abuse or 
+financial exploitation, if the fiduciary institution is authorized to request the information 
+under § 1 –306(h) of the Financial Institutions Article ; OR 
  
-  (3) to a fiduciary ins titution that reported suspected financial abuse or 25 
-financial exploitation, if the fiduciary institution is authorized to request the information 26 
-under § 1 –306(h) of the Financial Institutions Article ; OR 27 
+  (4) RELATING TO ADULT PR OTECTIVE SERVICES , TO AN OFFICER OR 
+EMPLOYEE OF ANY STAT E OR LOCAL GOVERNMEN T OR THE UNITED STATES IF THE 
+OFFICER OR EMPLOYEE IS RESPONSIBLE FOR C ONDUCTING AN INVESTI GATION IN 
+AN OFFICIAL CAPACITY  AND THE DISCLOSURE I S RELEVANT TO THE IN VESTIGATION . 
  
-  (4) RELATING TO ADULT PR OTECTIVE SERVICES , TO AN OFFICER OR 28 
-EMPLOYEE OF ANY STAT E OR LOCAL GOVERNMEN T OR THE UNITED STATES IF THE 29 
-OFFICER OR EMPLOYEE IS RESPONSIBLE FOR C ONDUCTING AN INVESTI GATION IN 30 
-AN OFFICIAL CAPACITY  AND THE DISCLOSURE I S RELEVANT TO THE I NVESTIGATION . 31 
+ (c) A person who violates this section is guilty of a misdemeanor and on convictio n 
+is subject to imprisonment not exceeding 90 days or a fine not exceeding $500 or both.  
  
- (c) A person who violates this section is guilty of a misdemeanor and on conviction 32 
-is subject to imprisonment not exceeding 90 days or a fine not exceeding $500 or both.  33 
- SENATE BILL 205  3 
+ SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 
+as follows:  
  
-  
- SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland rea d 1 
-as follows:  2 
+Article – Family Law  
  
-Article – Family Law  3 
+14–101. 
  
-14–101. 4 
+ (g) (1) “Health practitioner” includes any person who is authorized to practice 
+healing under the Health Occupations Article OR, EXCEPT AS PROVIDED I N PARAGRAPH 
+(2) OF THIS SUBSECTION , § 13–516 OF THE EDUCATION ARTICLE . 
  
- (g) (1) “Health practitioner” includes any person who is authorized to practice 5 
-healing under the Health Occupations Article OR, EXCEPT AS PROVIDED I N PARAGRAPH 6 
-(2) OF THIS SUBSECTION , § 13–516 OF THE EDUCATI ON ARTICLE . 7 
+  (2) “HEALTH PRACTITIONER ” DOES NOT INCLUDE AN EMERGENCY 
+MEDICAL DISPATCHER , AS DEFI NED IN § 13–516 OF THE EDUCATION ARTICLE . 
  
-  (2) “HEALTH PRACTITIONER ” DOES NOT INCLUDE AN EMERGENCY 8 
-MEDICAL DISPATCHER , AS DEFINED IN § 13–516 OF THE EDUCATION ARTICLE . 9 
+ SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 
+as follows:  
+ WES MOORE, Governor  Ch. 38  
  
- SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 10 
-as follows:  11 
+– 3 –  
+Article – Family Law  
  
-Article – Family Law  12 
+14–302. 
  
-14–302. 13 
+ (a) (1) Except as provided in paragraph (2) of this subsection, notwithstanding 
+any law on privileged communications, each health practitioner, police officer, or human 
+service worker who contacts, examines, attends, or treats an alleged vulnerable adult, and 
+who has reason to believe that the alleged vulnerable adult has been subjected to abuse , 
+neglect, self –neglect, or exploitation shall:  
  
- (a) (1) Except as provided in paragraph (2) of this subsection, notwithstanding 14 
-any law on privileged communications, each health practitioner, police officer, or human 15 
-service worker who contacts, examines, attends, or treats an alleged vulnerable adult, and 16 
-who has reason to believe that the alleged vulnerable adult has been subjected to abuse, 17 
-neglect, self –neglect, or exploitation shall:  18 
+   (i) notify the local department; and  
  
-   (i) notify the local department; and  19 
+   (ii) if acting as a staff member of a hospital or public health agency, 
+immediately notify and give all the information required by this section to the head of the  
+institution or the designee of the head.  
  
-   (ii) if acting as a staff member of a hospital or public health agency, 20 
-immediately notify and give all the information required by this section to the head of the 21 
-institution or the designee of the head.  22 
+  (2) An ombudsman, as defined in § 10 –901 of the Human Services Article, 
+shall comply with 42 U.S.C. § 3058g(d)(2) and may not disclose the identity of a resident or 
+complainant except as authorized under 42 U.S. C. § 3058g(d)(2).  
  
-  (2) An ombudsman, as defined in § 10 –901 of the Human Services Article, 23 
-shall comply with 42 U.S.C. § 3058g(d)(2) and may not disclose the identity of a resident or 24 
-complainant except as authorized under 42 U.S.C. § 3058g(d)(2).  25 
+ (b) An individual who is required to make a report under subsection (a) of this 
+section shall make the report AS SOON AS POSSIBLE by telephone, BY direct 
+communication, or in writing to the local department  [as soon as possible ] OR BY C ALLING 
+THE STATEWIDE REPORT ING HOTLINE .  
  
- (b) An individual who is required to make a report under subsection (a) of this 26 
-section shall make the report AS SOON AS POSSIBLE by telephone,  BY direct 27 
-communication, or in writing to the local department  [as soon as possible ] OR BY CALLING 28 
-THE STATEWIDE REPORT ING HOTLINE .  29 
+14–308. 
  
-14–308. 30 
+ (a) Subject to the provisions of subsection (b) of this section, the identity of any 
+person who makes a report under § 14 –302 of this subtitle shall be confidential.  
  
-4 SENATE BILL 205   
+ (b) The identity of a person who makes a report under § 14 –302 of this subtitle 
+may be disclosed if:  
  
-  (a) Subject to the provisions of subsection (b) of this section, the identity of any 1 
-person who makes a report under § 14 –302 of this subtitle shall be confidential.  2 
+  (1) the person consents; [or] 
  
- (b) The identity of a person who makes a report under § 14 –302 of this subtitle 3 
-may be disclosed if:  4 
+  (2) the court orders the disclosure ; OR 
  
-  (1) the person consents; [or] 5 
+  (3) THE DISCLOSURE OCCUR S IN ACCORDANCE WITH  § 1–201 OF THE 
+HUMAN SERVICES ARTICLE . 
  
-  (2) the court orders the disclosure ; OR 6 
+ SECTION 4. AND BE IT FU RTHER ENACTED, That Section 2 of this Act shall take 
+effect July 1, 2026.  
  
-  (3) THE DISCLOSURE OCCURS IN ACCORDANCE  WITH § 1–201 OF THE 7 
-HUMAN SERVICES ARTICLE . 8 
+ SECTION 2. 5. AND BE IT FURTHER ENACTED, That , except as provided in 
+Section 4 of this Act,  this Act shall take effect October 1, 2025.  
+Ch. 38  2025 LAWS OF MARYLAND   
  
- SECTION 4. AND BE IT FURTHER ENACTED, That Section 2 of this Act shall take 9 
-effect July 1, 2026.  10 
- 
- SECTION 2. 5. AND BE IT FURTHER ENACTED, That , except as provided in 11 
-Section 4 of this Ac t, this Act shall take effect October 1, 2025.  12 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
+– 4 –  
+Approved by the Governor, April 8, 2025.  

@@ -7,7 +7,7 @@ EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW .
 amendment.             *hb0027*      
 HOUSE BILL 27  
 N2   5lr1555  
-  (PRE –FILED)  CF SB 19  
+  (PRE â€“FILED)  CF SB 19  
 By: Delegate Cardin  
 Requested: October 31, 2024  
 Introduced and read first time: January 8, 2025  
@@ -20,7 +20,7 @@ CHAPTER ______
  
 AN ACT concerning  1 
  
-Estates and Trusts – Compensation of Guardians of Property and Trustees  2 
+Estates and Trusts â€“ Compensation of Guardians of Property and Trustees  2 
  
 FOR the purpose of clarifying the commissions that a guardian of the property may charge; 3 
 authorizing a trustee of a trust to charge compensation that is reasonable under the 4 
@@ -30,17 +30,17 @@ schedule of rates; and generally relating to the compensation of guardians of 7
 property and trustees of trusts.  8 
  
 BY repealing and reenacting, with amendments,  9 
- Article – Estates and Trusts  10 
-Section 13 –218, 14.5 –708, 1 5–511(3), 15 –523, 15 –524(a), and 15 –526(b)(5)  11 
+ Article â€“ Estates and Trusts  10 
+Section 13 â€“218, 14.5 â€“708, 1 5â€“511(3), 15 â€“523, 15 â€“524(a), and 15 â€“526(b)(5)  11 
  Annotated Code of Maryland  12 
  (2022 Replacement Volume and 2024 Supplement)  13 
  
  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 14 
 That the Laws of Maryland read as follows:  15 
  
-Article – Estates and Trust s 16 
+Article â€“ Estates and Trust s 16 
  
-13–218. 17 
+13â€“218. 17 
  
  (a) (1) Except in unusual circumstances and as provided in subsection [(b)] 18 
 (C) of this section, the guardian is entitled to [the same ] compensation and reimbursement 19 
@@ -146,12 +146,12 @@ SHALL BE CHARGED AGA INST FEES OF THE GUA RDIAN AND MAY NOT BE  ASSUMED 5
 BY THE GUARDIANSHIP ESTATE OR THE INTERE STED PARTIES . 6 
  
  [(b)] (C) If the guardian is appointed as the guardian of a disabled person who 7 
-is a recipient of long –term care service s and supports under the Maryland Medical 8 
-Assistance Program and whose income is subject to § 15 –122.3 of the Health – General 9 
+is a recipient of long â€“term care service s and supports under the Maryland Medical 8 
+Assistance Program and whose income is subject to Â§ 15 â€“122.3 of the Health â€“ General 9 
 Article, the guardian is not entitled to receive more than $50 per month in compensation 10 
 unless the court makes a finding that un usual circumstances exist.  11 
  
-14.5–708. 12 
+14.5â€“708. 12 
  
  [(a) (1) (i) A testamentary trustee and trustee of any other trust whose 13 
 duties comprise the collection and distribution of income from property held under a trust 14 
@@ -247,11 +247,11 @@ to revision or determination by a circuit court having jurisdiction.  7
 paragraph (1) of this subsection shall be equal to 0.5% of the fair value of the corpus that 9 
 is distributed. ] 10 
  
- (A) (1) IF THE TERMS OF A TRU ST DO NOT SPECIFY A TRUSTEE ’S 11 
+ (A) (1) IF THE TERMS OF A TRU ST DO NOT SPECIFY A TRUSTEE â€™S 11 
 COMPENSATION , THE TRUSTEE IS ENTIT LED TO COMPENSATION THAT IS 12 
 REASONABLE UNDER THE  CIRCUMSTANCES . 13 
  
-  (2) IF THE TERMS OF A TRU ST SPECIFY A TRUSTEE ’S COMPENSATION , 14 
+  (2) IF THE TERMS OF A TRU ST SPECIFY A TRUSTEE â€™S COMPENSATION , 14 
 THE TRUSTEE IS ENTIT LED TO BE COMPENSATE D AS SPECIFIED IN TH E TERMS , BUT 15 
 THE COURT MAY AUTHOR IZE MORE OR LESS COM PENSATION IF : 16 
  
@@ -267,7 +267,7 @@ CONNECTION WITH THE ADMINISTRATION OF TH E TRUST , THE TRUSTEE SHALL ALS O 23
 BE ALLOWED REASONABL E COMPENSATION FOR T HE OTHER SERVICES RE NDERED 24 
 IN ADDITION TO REASO NABLE COMPENSATION A S TRUSTEE . 25 
  
- (B) IN DETERMINING WHETHE R A TRUSTEE ’S COMPENSATION IS 26 
+ (B) IN DETERMINING WHETHE R A TRUSTEE â€™S COMPENSATION IS 26 
 REASONABLE , A COURT SHALL CONSID ER: 27 
  
   (1) THE VALUE AND CHARACTER OF THE TRU ST PROPERTY ; 28 
@@ -282,7 +282,7 @@ SERVICES PROVIDED BY  THE TRUSTEE ; 32
   
   (4) THE CHARACTER AND COS T OF SERVICES PROVID ED BY O THERS ; 1 
  
-  (5) THE TRUSTEE ’S SKILL AND EXPERIEN CE; 2 
+  (5) THE TRUSTEE â€™S SKILL AND EXPERIEN CE; 2 
  
   (6) THE RESULTS OBTAINED BY THE TRUSTEE ; 3 
  
@@ -374,33 +374,33 @@ charged against fees of the trustee and m ay not be assumed by the trust or the 
  
  HOUSE BILL 27  9 
  
- 15–511. 1 
+ 15â€“511. 1 
  
  A trustee shall allocate to principal:  2 
  
   (3) Amounts recovered from third parties to reimburse the trust because of 3 
-disbursements described in [§ 15–524(a)(9) ] § 15–524( A)(7) of this subtitle  or for other 4 
+disbursements described in [Â§ 15â€“524(a)(9) ] Â§ 15â€“524( A)(7) of this subtitle  or for other 4 
 reasons to the extent not based on the loss of income;  5 
  
-15–523. 6 
+15â€“523. 6 
  
  A trustee shall make the following disbursements from income to the extent that 7 
-they are not disbursements to which § 15 –503(c)(2) or (3) of this subtitle apply:  8 
+they are not disbursements to which Â§ 15 â€“503(c)(2) or (3) of this subtitle apply:  8 
  
   [(1) Regula r compensation of the trustee on income, if determined in 9 
-accordance with § 14.5 –708(b) of this article;  10 
+accordance with Â§ 14.5 â€“708(b) of this article;  10 
  
   (2) That portion of the regular compensation of the trustee, if the 11 
-compensation is determined in a manner other than in accordance with § 14.5 –708(b) and 12 
+compensation is determined in a manner other than in accordance with Â§ 14.5 â€“708(b) and 12 
 (c) of this article, and that portion of the compensation of any person providing investment 13 
 advisory or custodial services to the trustee, as the trustee determines is fair and 14 
-reasonable in accordance with § 15 –502(b) of this subtitle; ] 15 
+reasonable in accordance with Â§ 15 â€“502(b) of this subtitle; ] 15 
  
-  (1) ONE–HALF OF THE REGULAR COMPENSATION OF THE TRUSTEE 16 
+  (1) ONEâ€“HALF OF THE REGULAR COMPENSATION OF THE TRUSTEE 16 
 AND ANY PERSON PROVI DING INVESTMENT ADVI SORY OR CUSTODIAL SE RVICES TO 17 
 THE TRUSTEE ; 18 
  
-  [(3)] (2) One–half of all expenses for accountings, judicial proceedings, or 19 
+  [(3)] (2) Oneâ€“half of all expenses for accountings, judicial proceedings, or 19 
 other matters that involve both the income a nd remainder interests;  20 
  
   [(4)] (3) All of the other ordinary expenses incurred in connection with 21 
@@ -412,28 +412,28 @@ interest; and  25
   [(5)] (4) Recurring premiums on insurance covering the loss of a principal 26 
 asset or the loss of income from or use of the ass et. 27 
  
-15–524. 28 
+15â€“524. 28 
  
  (a) A trustee shall make the following disbursements from principal:  29 
  
   [(1) Regular compensation of the trustee on principal, if determined in 30 
-accordance with § 14.5 –708(c) of this article;  31 
+accordance with Â§ 14.5 â€“708(c) of this article;  31 
  
 10 HOUSE BILL 27   
  
    (2) That portion of the regular compensation of  the trustee, if the 1 
-compensation is determined in a manner other than in accordance with § 14.5 –708(b) and 2 
+compensation is determined in a manner other than in accordance with Â§ 14.5 â€“708(b) and 2 
 (c) of this article, and that portion of the compensation of any person providing investment 3 
 advisory or custodial services to the trustee, as the t rustee determines is fair and 4 
-reasonable in accordance with § 15 –502(b) of this subtitle;  5 
+reasonable in accordance with Â§ 15 â€“502(b) of this subtitle;  5 
  
-  (3) One–half of all expenses for accountings, judicial proceedings, or other 6 
+  (3) Oneâ€“half of all expenses for accountings, judicial proceedings, or other 6 
 matters that involve both the income and remainder interests; ] 7 
  
-  (1) THE REMAINING ON E–HALF OF THE DISBURSE MENTS DESCRIBED 8 
-UNDER § 15–523(1)  AND (2) OF THIS SUBTITLE ; 9 
+  (1) THE REMAINING ON Eâ€“HALF OF THE DISBURSE MENTS DESCRIBED 8 
+UNDER Â§ 15â€“523(1)  AND (2) OF THIS SUBTITLE ; 9 
  
-  [(4)] (2) All of the trustee’s compensation calculated on principal as a fee 10 
+  [(4)] (2) All of the trusteeâ€™s compensation calculated on principal as a fee 10 
 for acceptance, distribution, or termination, and disbursements made to prepare property 11 
 for sale; 12 
  
@@ -442,8 +442,8 @@ for sale; 12
   [(6)] (4) Expenses of a proceeding that concerns primarily principal, 14 
 including a proceeding to construe the trust or to protect the trust or its property;  15 
  
-  [(7)] (5) Premiums paid on a policy of insurance not described in [§  16 
-15–523(5) ] § 15–523(4)  of this subtitle of which the trust is the owner and beneficiary;  17 
+  [(7)] (5) Premiums paid on a policy of insurance not described in [Â§  16 
+15â€“523(5) ] Â§ 15â€“523(4)  of this subtitle of which the trust is the owner and beneficiary;  17 
  
   [(8)] (6) Estate, inheritance, and other transfer taxes, including 18 
 penalties, apportioned to the trust; and 19 
@@ -456,13 +456,13 @@ for the costs of those activities, penalties imposed under environmental laws or
 and other payments made to comply with those laws or regulations, statutory or  common 25 
 law claims by third parties, and defending claims based on environmental matters.  26 
  
-15–526. 27 
+15â€“526. 27 
  
  (b) Principal disbursements to which subsection (a) applies include the following, 28 
 but only to the extent that the trustee has not been and does not expect  to be reimbursed 29 
 by a third party:  30 
  
-  (5) Disbursements described in [§ 15–524(a)(9) ] § 15–524( A)(7) of this 31 
+  (5) Disbursements described in [Â§ 15â€“524(a)(9) ] Â§ 15â€“524( A)(7) of this 31 
 subtitle.  32 
  
  SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 33 

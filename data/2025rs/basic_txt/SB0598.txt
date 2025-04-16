@@ -1,108 +1,84 @@
+ WES MOORE, Governor  Ch. 68  
  
+– 1 – Chapter 68  
+(Senate Bill 598 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *sb0598*      
-SENATE BILL 598  
-Q1   5lr2178  
-    CF HB 585  
-By: Senator Hettleman  
-Introduced and read first time: January 23, 2025  
-Assigned to: Budget and Taxation  
-Committee Report: Favorable with amendments  
-Senate action: Adopted  
-Read second time: February 21, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Property Tax – Low–Income Housing Tax Credit – Valuation of Property  
  
-AN ACT concerning  1 
+FOR the purpose of requiring the supervisor of assessments for a county to evaluate a 
+certain net operating income calculation when determining the value of commercial 
+real property that is developed under a certain provision of federal law  Department 
+of Housing and Community Development to notify the State Depart ment of 
+Assessments and Taxation that a commercial property that is developed under a 
+certain provision of federal law has been awarded a low –income housing tax credit ; 
+and generally relating to low –income housing.  
  
-Property Tax – Low–Income Housing Tax Credit – Valuation of Property  2 
+BY repealing and reenacting, with amendments,  
+ Article – Tax – Property  
+Section 8 –105(a)  
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of requiring the supervisor of assessments for a county to evaluate a 3 
-certain net operating income calculation when determining the value of commercial 4 
-real property that is developed under a certain provision of federal law  Department 5 
-of Housing and Community Development to notify the State Department of 6 
-Assessments and Taxation that a commercial property that is developed under a 7 
-certain provision of federal law has been awarded a low –income housing tax credit ; 8 
-and generally relating to low –income housing.  9 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacti ng, with amendments,  10 
- Article – Tax – Property  11 
-Section 8 –105(a)  12 
- Annotated Code of Maryland  13 
- (2019 Replacement Volume and 2024 Supplement)  14 
+Article – Tax – Property  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 15 
-That the Laws of Maryland read as follows:  16 
+8–105. 
  
-Article – Tax – Property  17 
+ (a) (1) Except for land that is actively devoted to farm or agricultural use, the 
+supervisor:  
  
-8–105. 18 
+   (i) may value income producing real property by using the 
+capitalization of income method or any other appropriate method of valuing the re al 
+property; and  
  
- (a) (1) Except for land that is actively devoted to farm or agricultural use, the 19 
-supervisor:  20 
-2 SENATE BILL 598   
+   (ii) shall consider an income method in valuing income producing 
+commercial real property.  
  
-  
-   (i) may value income producing real property by using the 1 
-capitalization of income method or any other appropriate method of valuing  the real 2 
-property; and  3 
+  (2) For income producing single –family residential real property, the 
+supervisor may value the property by using the same methods that are us ed for  
+single–family residential real property that is owner –occupied.  
  
-   (ii) shall consider an income method in valuing income producing 4 
-commercial real property.  5 
+  (3) (I) In determining the value of commercial real property developed 
+under § 42 of the Internal Revenue Code, the supervisor  SHALL EVALUATE EACH OF THE  
+FOLLOWING : 
+Ch. 68  2025 LAWS OF MARYLAND   
  
-  (2) For income producing single –family residential real property, the 6 
-supervisor may value the property by using the same methods that  are used for  7 
-single–family residential real property that is owner –occupied.  8 
+– 2 –  
+   [(i)] 1. [shall consider ] the impact of applicable rent restrictions, 
+affordability requirements, or any other related restrictions required by § 42 of the Internal 
+Revenue Code and any other federal, State, or local programs;  
  
-  (3) (I) In determining the value of commercial real property developed 9 
-under § 42 of the Internal Revenue Code, the supervisor  SHALL EVALUATE EACH OF THE  10 
-FOLLOWING : 11 
+   [(ii)] 2. [may not consider income tax credits under § 42 of the 
+Internal Revenue Code as income attributable to the real property; and  
  
-   [(i)] 1. [shall consider ] the impact of applicable rent restrictions, 12 
-affordability requirements, or any other related restrictions required by § 42 of the Internal 13 
-Revenue Code and any other federal, State, or local programs;  14 
+   (iii) 3. may consider ] the replacement cost approach only if the 
+value produced by the replacement cost approach is less than the value produced by the 
+income approach for the property and it is reflective of the value of the real property ; AND  
  
-   [(ii)] 2. [may not consider in come tax credits under § 42 of the 15 
-Internal Revenue Code as income attributable to the real property; and  16 
+    3. THE ACTUAL OR ANTICI PATED  NET OPERATING  
+INCOME ATTRIBUTABLE TO THE REAL PROPERTY , CAPITALIZED AT THE P REVAILING  
+MARKET RATE FOR CONV ENTIONAL MULTIFAMILY  PROPERTIES IN THE SA ME 
+GEOGRAPHIC AREA , UPWARD ADJUSTED BETW EEN 1.5%  AND 2% TO ACCOUNT FOR  
+AFFORDABILITY RESTRI CTIONS AND OTHER ENCUMBRANCES REQUIRE D UNDER § 
+42 OF THE INTERNAL REVENUE CODE . 
  
-   (iii) 3. may consider ] the replacement cost approach only if the 17 
-value produced by the replacement cost approach is less than the value produced by the 18 
-income approach for the property and it is reflective of the value of the real property ; AND  19 
+   (II) IN DETERMINING THE VA LUE OF COMMERCIAL RE AL 
+PROPERTY DEVELOPED U NDER § 42 OF THE INTERNAL REVENUE CODE, THE 
+SUPERVISOR MAY NOT C ONSIDER INCOME TAX C REDITS UNDER § 42 OF THE  
+INTERNAL REVENUE CODE AS INCOME ATTRIB UTABLE TO THE REAL P ROPERTY . 
  
-    3. THE ACTUAL OR ANTICI PATED  NET OPERATING  20 
-INCOME ATTRIBUTABLE TO THE REAL PROPERTY , CAPITALIZED AT THE P REVAILING  21 
-MARKET RATE FOR CONV ENTIONAL MULTIFAMILY  PROPERTIES IN THE SA ME 22 
-GEOGRAPHIC AREA , UPWARD ADJUSTED BETW EEN 1.5%  AND 2% TO ACCOUNT FOR  23 
-AFFORDABILITY RESTRI CTIONS AND OTHER ENCUMBRANCES REQUIRE D UNDER § 24 
-42 OF THE INTERNAL REVENUE CODE . 25 
+   (II) WITHIN 30 DAYS OF CLOSING AND THE EXECUTION AND 
+DELIVERY OF THE REGU LATORY AGREEMENT GOV ERNING A LOW –INCOME HOUSING 
+TAX CREDIT FOR COMME RCIAL REAL PROPERTY DEVELOPED UNDER § 42 OF THE 
+INTERNA L REVENUE CODE, THE DEPARTMENT OF HOUSING AND COMMUNITY 
+DEVELOPMENT SHALL NOT IFY THE DEPARTMENT THAT A PRO PERTY HAS BEEN 
+AWARDED THE LOW –INCOME HOUSING TAX C REDIT .  
  
-   (II) IN DETERMINING THE VA LUE OF COMMERCIAL RE AL 26 
-PROPERTY DEVELOPED U NDER § 42 OF THE INTERNAL REVENUE CODE, THE 27 
-SUPERVISOR MAY NOT C ONSIDER INCOME TAX C REDITS UNDER § 42 OF THE  28 
-INTERNAL REVENUE CODE AS INCOME ATTRIB UTABLE TO THE REAL P ROPERTY . 29 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June 
+1, 2025, and s hall be applicable to all taxable years beginning after June 30, 2025.  
  
-   (II) WITHIN 30 DAYS OF CLOSING AND THE EXECUTION AND 30 
-DELIVERY OF THE REGU LATORY AGREEMENT GOV ERNING A LOW –INCOME HOUSING 31 
-TAX CREDIT FOR COMME RCIAL REAL PROPERTY DEVELOPED UNDER § 42 OF THE 32 
-INTERNAL REVENUE CODE, THE DEPARTMENT OF HOUSING AND COMMUNITY 33 
-DEVELOPMENT SHALL NOT IFY THE DEPARTMENT THAT A PRO PERTY HAS BEEN 34 
-AWARDED THE LOW –INCOME HOUSING TAX C REDIT .  35 
- SENATE BILL 598  3 
- 
-  
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June 1 
-1, 2025 , and shall be applicable to all taxable years beginning after June 30, 2025.  2 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
+Approved by the Governor, April 8, 2025.  

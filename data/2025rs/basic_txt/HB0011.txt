@@ -7,10 +7,10 @@ EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW .
 amendment.             *hb0011*      
 HOUSE BILL 11  
 J5, J4    5lr1407  
-  (PRE ñFILED)  CF SB 902  
-By: Delegate Sample ñHughes  Delegates Sample ñHughes, Alston, Bagnall , 
+  (PRE ‚ÄìFILED)  CF SB 902  
+By: Delegate Sample ‚ÄìHughes  Delegates Sample ‚ÄìHughes, Alston, Bagnall , 
 Bhandari, Chisholm, Cullison, Guzzone, Hill, Hutchinson, S.  Johnson, 
-Kaiser, Kerr, Kipke, Lopez, Martinez, M.  Morgan, Pena ñMelnyk, Reilly, 
+Kaiser, Kerr, Kipke, Lopez, Martinez, M.  Morgan, Pena ‚ÄìMelnyk, Reilly, 
 Rosenberg, Szeliga, Taveras, White  Holland, Woods, and Woorman  
 Requested: October 18, 2024  
 Introduced and read fi rst time: January 8, 2025  
@@ -23,12 +23,12 @@ CHAPTER ______
  
 AN ACT concerning  1 
  
-Health Insurance ñ Access to Nonparticipating Providers ñ Referrals, Additional 2 
+Health Insurance ‚Äì Access to Nonparticipating Providers ‚Äì Referrals, Additional 2 
 Assistance, and Coverage  3 
  
 FOR the purpose of repealing the termination date for certain provisions of law related to 4 
 referrals to and reimbursement of specialists and nonphysician specialists who are 5 
-not part of a carrierís provider panel; requiring that a certain referral procedure 6 
+not part of a carrier‚Äôs provider panel; requiring that a certain referral procedure 6 
 required to be established and implemented by certain insurers, nonprofit health 7 
 service plans, and health maintenance organizations require the carrier to provide 8 
 certain ass istance to a member in identifying and arranging coverage for a specialist 9 
@@ -37,21 +37,21 @@ services ; prohibiting certain carriers from imposing prior authorization 11
 requirements for scheduling, reimbursing, or continuing an established treatment 12 
 plan by certain nonparticipating providers  utilization review requirements other 13 
 than what would be required if the covered benefit was provided by a provider on the 14 
-carrierís provider panel u nder certain circumstances ; requiring the Maryland Health 15 
+carrier‚Äôs provider panel u nder certain circumstances ; requiring the Maryland Health 15 
 Care Commission to establish certain reimbursement rates for nonparticipating 16 
 providers;  and generally relating to access to nonparticipating providers.  17 
  
 BY repealing and reenacting, without amen dments,  18 
- Article ñ Insurance  19 
-Section 15 ñ830(a)  20 
+ Article ‚Äì Insurance  19 
+Section 15 ‚Äì830(a)  20 
 2 HOUSE BILL 11   
  
   Annotated Code of Maryland  1 
  (2017 Replacement Volume and 2024 Supplement)  2 
  
 BY repealing and reenacting, with amendments,  3 
- Article ñ Insurance  4 
-Section 15 ñ830(d) and (e)  5 
+ Article ‚Äì Insurance  4 
+Section 15 ‚Äì830(d) and (e)  5 
  Annotated Code of Maryland  6 
  (2017 Replacement Volume and 2024 Supplement)  7 
  
@@ -66,15 +66,15 @@ BY repealing and reenacting, with amendments,  11
  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 14 
 That the Laws of Maryland read as follows:  15 
  
-Article ñ Insurance  16 
+Article ‚Äì Insurance  16 
  
-15ñ830. 17 
+15‚Äì830. 17 
  
  (a) (1) In this section the following words have the meanings indicated.  18 
  
-  (2) ìCarrierî means:  19 
+  (2) ‚ÄúCarrier‚Äù means:  19 
  
-   (i) an insurer that offers health insurance other than long ñterm 20 
+   (i) an insurer that offers health insurance other than long ‚Äìterm 20 
 care insurance or disability insurance;  21 
  
    (ii) a nonprofit health service plan;  22 
@@ -84,15 +84,15 @@ care insurance or disability insurance;  21
    (iv) a dental plan organization; or  24 
  
    (v) except for a managed care organization as defined in Title 15, 25 
-Subtitle 1 of the Health ñ General Article, any other person that provides health benefit 26 
+Subtitle 1 of the Health ‚Äì General Article, any other person that provides health benefit 26 
 plans subject to State regulation.  27 
  
-  (3) (i) ìMemberî means an individual entitled to health care benefits 28 
+  (3) (i) ‚ÄúMember‚Äù means an individual entitled to health care benefits 28 
 under a policy or plan issued or delivered in the State by a carrier.  29 
  
-   (ii) ìMemberî includes a subscriber.  30 
+   (ii) ‚ÄúMember‚Äù includes a subscriber.  30 
  
-  (4) ìNonphysician specialistî means a health care provider:  31 
+  (4) ‚ÄúNonphysician specialist‚Äù means a health care provider:  31 
  HOUSE BILL 11  3 
  
   
@@ -105,27 +105,27 @@ Article; and  3
 services for a specified condition or disease in a manner that is within the scope of the 5 
 license or certification of the health care provider; or  6 
  
-   (ii) that is  licensed as a behavioral health program under ß 7.5 ñ401 7 
-of the Health ñ General Article.  8 
+   (ii) that is  licensed as a behavioral health program under ¬ß 7.5 ‚Äì401 7 
+of the Health ‚Äì General Article.  8 
  
-  (5) (i) ìProvider panelî means the providers that contract with a carrier 9 
+  (5) (i) ‚ÄúProvider panel‚Äù means the providers that contract with a carrier 9 
 either directly or through a subcontracting entity to provide health care services to 10 
 enrollees of the carrier.  11 
  
-   (ii) ìProvider panelî does not include an arrangement in which any 12 
+   (ii) ‚ÄúProvider panel‚Äù does not include an arrangement in which any 12 
 provider may participate solely by contracting with the carrier to provide health care 13 
-services at a discounted fee ñforñservice rate.  14 
+services at a discounted fee ‚Äìfor‚Äìservice rate.  14 
  
-  (6) ìSpecialistî means a physician who is certified or trained to practice in 15 
+  (6) ‚ÄúSpecialist‚Äù means a physician who is certified or trained to practice in 15 
 a specified field of medicine and who is not designated as a primary care provider by the 16 
 carrier.  17 
  
  (d) (1) Each carrier shall establish and implement a procedure by which a 18 
 member may request a referra l to a specialist or nonphysician specialist who is not part of 19 
-the carrierís provider panel in accordance with this subsection.  20 
+the carrier‚Äôs provider panel in accordance with this subsection.  20 
  
   (2) The procedure shall provide for a referral to a specialist or nonphysician 21 
-specialist who is not part of the carrierís p rovider panel if:  22 
+specialist who is not part of the carrier‚Äôs p rovider panel if:  22 
  
    (i) 1. the member is diagnosed with OR SEEKING CARE FOR  a 23 
 condition or disease that requires specialized health care services or medical care; and  24 
@@ -152,13 +152,13 @@ APPOINTMENT WAITING TIME AND TRAVEL DIST ANCE STANDARDS ESTAB LISHED IN 5
 REGULATION FOR MENTA L HEALTH AND SUBSTAN CE USE DISORDER SERV ICES . 6 
  
   (3) The procedure shall ensure that a request to obtain a referral to a 7 
-specialist or nonphysician specialist who is not part of the carrierís provider panel is 8 
+specialist or nonphysician specialist who is not part of the carrier‚Äôs provider panel is 8 
 addressed in a timely manner that is:  9 
  
-   (i) appropriate for the memberís condition; and  10 
+   (i) appropriate for the member‚Äôs condition; and  10 
  
    (ii) in accordance with the timeliness requirements for 11 
-determinations made by private review agents under ß 15 ñ10Bñ06 of this title.  12 
+determinations made by private review agents under ¬ß 15 ‚Äì10B‚Äì06 of this title.  12 
  
   (4) IF A MEMBER CANNOT AC CESS MENTAL HEALTH O R SUBSTANCE 13 
 USE DISORDER SERVICE S THROUGH THE REFERR AL REQUIREMENTS UNDE R 14 
@@ -166,26 +166,26 @@ PARAGRAPHS (2) AND (3) OF THIS SUBSECTION , THE PROCEDURE SHALL REQUIRE 15
 THE CARRIER TO P ROVIDE ADDITIONAL AS SISTANCE TO THE MEMB ER IN 16 
 IDENTIFYING AND ARRA NGING COVERAGE OF ME NTAL HEALTH OR SUBST ANCE USE 17 
 DISORDER SERVICES BY  A SPECIALIST OR NONP HYSICIAN SPECIALIST WHO IS NOT 18 
-PART OF THE CARRIER íS PROVIDER PANEL .  19 
+PART OF THE CARRIER ‚ÄôS PROVIDER PANEL .  19 
  
   (5) THE PROCEDURE MAY NOT  REQUIRE PRIOR AUTHORI ZATION FOR  20 
 PURPOSES OF : 21 
  
    (I) SCHEDULING AN APPOIN TMENT WITH A SPECIAL IST OR  22 
-NONPHYSICIAN SPECIAL IST WHO IS NOT PART OF THE CARRIER íS PROVIDER PANEL ; 23 
+NONPHYSICIAN SPECIAL IST WHO IS NOT PART OF THE CARRIER ‚ÄôS PROVIDER PANEL ; 23 
  
    (II) REIMBURSING A SPECIA LIST OR NONPHYSICIAN  SPECIALIST  24 
-WHO IS NOT PART OF T HE CARRIER íS PROVIDER PANEL ; OR 25 
+WHO IS NOT PART OF T HE CARRIER ‚ÄôS PROVIDER PANEL ; OR 25 
  
    (III) CONTINUING AN ESTABL ISHED TREATMENT PLAN  WITH A  26 
-SPECIALIST OR NONPHY SICIAN SPECIALIST WH O IS NOT PART OF THE  CARRIER íS 27 
-PROVIDER PANEL  IF A CARRIER APPROVES  A MEMBER íS REQUEST FOR A REFE RRAL 28 
+SPECIALIST OR NONPHY SICIAN SPECIALIST WH O IS NOT PART OF THE  CARRIER ‚ÄôS 27 
+PROVIDER PANEL  IF A CARRIER APPROVES  A MEMBER ‚ÄôS REQUEST FOR A REFE RRAL 28 
 MADE IN ACCORDANCE W ITH THI S SUBSECTION , THE CARRIER MAY NOT REQUIRE 29 
 UTILIZATION REVIEW O THER THAN WHAT WOULD  BE REQUIRED IF THE C OVERED 30 
-BENEFIT WERE PROVIDE D BY A PROVIDER ON T HE CARRIER íS PROVIDER PANEL .  31 
+BENEFIT WERE PROVIDE D BY A PROVIDER ON T HE CARRIER ‚ÄôS PROVIDER PANEL .  31 
  
   [(4)] (6) The procedure may not be used by a carrier as a substitute for 32 
-establishing and maintaining a sufficient provider network in accordance with ß 15 ñ112 of 33 
+establishing and maintaining a sufficient provider network in accordance with ¬ß 15 ‚Äì112 of 33 
 this title.  34 
  
  HOUSE BILL 11  5 
@@ -194,7 +194,7 @@ this title.  34
  
    (i) have a system in place that documents all requests to obtain a 2 
 referral to receive a covered service from a speci alist or nonphysician specialist who is not 3 
-part of the carrierís provider panel;  4 
+part of the carrier‚Äôs provider panel;  4 
  
    (ii) inform members of the procedure to request a referral under 5 
 paragraph (1) of this subsection; and  6 
@@ -205,12 +205,12 @@ paragraph to the Commissioner on request.  8
  (e) (1) Except as provided in paragraph (2) of this subsection, for purposes of 9 
 calculating any deductible, copayment amount, or coinsurance payable by the member, a 10 
 carrier shall treat services received in acco rdance with subsection (d) of this section as if 11 
-the service was provided by a provider on the carrierís provider panel.  12 
+the service was provided by a provider on the carrier‚Äôs provider panel.  12 
  
   (2) A carrier shall ensure that services received in accordance with 13 
 subsection (d) of this section for mental health or substance u se disorders are provided FOR 14 
 THE DURATION OF THE TREATMENT PLAN at no greater cost to the covered individual 15 
-than if the covered benefit were provided by a provider on the carrierís provider panel.  16 
+than if the covered benefit were provided by a provider on the carrier‚Äôs provider panel.  16 
  
   (3) (I) SUBJECT TO SUBPARAGRA PH (II) OF THIS PARAGRAPH , AND  17 
 NOT LATER THAN JANUARY 1, 2026,  THE MARYLAND HEALTH CARE COMMISSION  18 

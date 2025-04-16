@@ -7,8 +7,8 @@ EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW .
 amendment.             *hb0032*      
 HOUSE BILL 32  
 E2, J1, J3    5lr1450  
-  (PRE ñFILED)  CF SB 43  
-By: Delegate Charkoudian  Delegates Charkoudian, Pena ñMelnyk, Cullison, 
+  (PRE ‚ÄìFILED)  CF SB 43  
+By: Delegate Charkoudian  Delegates Charkoudian, Pena ‚ÄìMelnyk, Cullison, 
 Alston, Bagnall, Bhandari, Guzzone, Hill, Hutchinson, S.  Johnson, Kaiser, 
 Kerr, Kipke, Lopez, Martinez, M.  Morgan, Reilly, Rosenberg, Szeliga, 
 Taveras, White  Holland, Woods, Woorman, and Ross  
@@ -23,8 +23,8 @@ CHAPTER ______
  
 AN ACT concerning  1 
  
-Maryland Department of Health ñ Forensic Review Board and Community 2 
-Forensic Aftercare Program  ñ Established  3 
+Maryland Department of Health ‚Äì Forensic Review Board and Community 2 
+Forensic Aftercare Program  ‚Äì Established  3 
  
 FOR the purpose of requiring the Maryland Department of Health to establish a forensic 4 
 review board at facilities that have charge of persons who have been committed to 5 
@@ -38,43 +38,43 @@ persons on conditional release;  and generally relating to forensic review board
 the Community Forensic Aftercare Program . 13 
  
 BY repealing and reenacting, without amendments,  14 
- Article ñ Criminal Procedure  15 
-Section 3 ñ101(a), (b), and (d) and 3 ñ121(b)  16 
+ Article ‚Äì Criminal Procedure  15 
+Section 3 ‚Äì101(a), (b), and (d) and 3 ‚Äì121(b)  16 
  Annotated Code of Maryland  17 
  (2018 Replacement Volume and 2024 Supplement)  18 
  
 BY adding to  19 
 2 HOUSE BILL 32   
  
-  Article ñ Criminal Procedure  1 
-Section 3 ñ120.1  2 
+  Article ‚Äì Criminal Procedure  1 
+Section 3 ‚Äì120.1  2 
  Annotated Code of Maryland  3 
  (2018 Replacement Volume and 2024 Supplement)  4 
  
 BY adding to  5 
- Article ñ Health ñ General  6 
-Section 13 ñ5501 and 13 ñ5502 to be under the new subtitle ìSubtitle 55. Community  7 
-Forensic Aftercare Programî  8 
+ Article ‚Äì Health ‚Äì General  6 
+Section 13 ‚Äì5501 and 13 ‚Äì5502 to be under the new subtitle ‚ÄúSubtitle 55. Community  7 
+Forensic Aftercare Program‚Äù  8 
  Annotated Code of Maryland  9 
  (2023 Replacement Volume and 2024 Supplement)  10 
  
  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 11 
 That the Laws of Maryland read as follows:  12 
  
-Article ñ Criminal Procedure  13 
+Article ‚Äì Criminal Procedure  13 
  
-3ñ101. 14 
+3‚Äì101. 14 
  
  (a) In this title the following words have the meanings indicated.  15 
  
- (b) ìCommitted personî means a person comm itted to the Health Department as 16 
+ (b) ‚ÄúCommitted person‚Äù means a person comm itted to the Health Department as 16 
 not criminally responsible under the test for criminal responsibility.  17 
  
- (d) ìHealth Departmentî means the Maryland Department of Health.  18 
+ (d) ‚ÄúHealth Department‚Äù means the Maryland Department of Health.  18 
  
-3ñ120.1.  19 
+3‚Äì120.1.  19 
  
- (A) IN THIS SECTION , ìAUTHORIZED AGENT î MEANS AN INDIVIDUAL WHO IS 20 
+ (A) IN THIS SECTION , ‚ÄúAUTHORIZED AGENT ‚Äù MEANS AN INDIVIDUAL WHO IS 20 
 NOT COUNSEL FOR THE COMMITTED PERSON AND  WHO IS SELECTED BY T HE 21 
 COMMITTED PERSON TO REPRESENT THE INTERE STS OF THE COMMITTED  PERSON 22 
 IN ALL FORENSIC REVI EW BOARD MATTERS . 23 
@@ -93,8 +93,8 @@ HEALTH CARE PROVIDER  LICENSED UNDER THE HEALTH OCCUPATIONS ARTICLE . 31
  HOUSE BILL 32  3 
  
   (C) (D) (1) EACH  AT LEAST ONCE PER YEA R, EACH  FORENSIC REVIEW 1 
-BOARD SHALL REVIEW ANNUALLY  EACH COMMITTED PERSO NíS ELIGIBILITY FOR 2 
-RELEASE UNDER ß 3ñ114 OF THIS SUBTITLE . 3 
+BOARD SHALL REVIEW ANNUALLY  EACH COMMITTED PERSO N‚ÄôS ELIGIBILITY FOR 2 
+RELEASE UNDER ¬ß 3‚Äì114 OF THIS SUBTITLE . 3 
  
   (2) THE FORENSIC REVIEW B OARD SHALL , BY A MAJORITY VOTE O F 4 
 THE MEMBERS , DETERMINE WHETHER TO  RECOMMEND TO THE COU RT THAT A 5 
@@ -108,7 +108,7 @@ WRITTEN RECORD CONTA INING ITS FINDINGS A ND RECOMMENDATIONS . 9
 MEDICAL RECORD OF TH E COMMITTED PERSON . 11 
  
    (III) THE FINDINGS SHALL IN CLUDE THE REASONS FO R THE 12 
-FORENSIC REVIEW BOAR DíS RECOMMENDATION AND  A PLAN FOR OVERCOMIN G ANY 13 
+FORENSIC REVIEW BOAR D‚ÄôS RECOMMENDATION AND  A PLAN FOR OVERCOMIN G ANY 13 
 BARRIERS TO RELEASE . 14 
  
   (4) WHEN MAKING A RECOMME NDATION UNDER THIS S ECTION , A 15 
@@ -151,7 +151,7 @@ REPRESENTING THE COM MITTED PERSON . 6
   (4) COUNSEL FOR ANY PARTY  MAY NOT ATTEND FOREN SIC REVIEW 8 
 BOARD MEETINGS .  9 
  
- (E) (G) (1) IF THE COMMITTED PERS ONíS TREATMENT TEAM 10 
+ (E) (G) (1) IF THE COMMITTED PERS ON‚ÄôS TREATMENT TEAM 10 
 DETERMINES THAT THE COMMITTED PERSON IS ELIGIBLE FOR DISCHAR GE OR 11 
 CONDITIONAL R ELEASE BEFORE THE AN NUAL REVIEW SCHEDULE D UNDER 12 
 SUBSECTION (C) (D) OF THIS SECTION , THE TREATMENT TEAM S HALL NOTIFY THE 13 
@@ -180,29 +180,29 @@ REVIEW BOARD UNDER T HIS SECTION SHALL , ON REQUEST , BE PROVIDED TO : 27
  
   (3) THE COURT ;  30 
  
-  (4) THE STATEíS ATTORNEY ; OR 31 
+  (4) THE STATE‚ÄôS ATTORNEY ; OR 31 
  
  HOUSE BILL 32  5 
  
    (5) THE HEALTH DEPARTMENT . 1 
  
- (I) THE COMMITTED PERSON íS TREATMENT TEAM SHA LL IMPLEMENT 2 
+ (I) THE COMMITTED PERSON ‚ÄôS TREATMENT TEAM SHA LL IMPLEMENT 2 
 RECOMMENDATIONS , IF ANY , FROM THE FORENSIC RE VIEW BOARD AND MAKE 3 
 ARRANGEMENTS FOR NECESSARY TREATMENT TO REHABILITATE THE COMMITTED 4 
-PERSON IN ACCORDANCE  WITH ß 10ñ706 OF THE HEALTH ñ GENERAL ARTICLE . 5 
+PERSON IN ACCORDANCE  WITH ¬ß 10‚Äì706 OF THE HEALTH ‚Äì GENERAL ARTICLE . 5 
  
  (J) (1) A FORENSIC REVIEW BOAR D MAY APPOINT A REPR ESENTATIVE TO 6 
-TESTIFY AS TO THE HEALTH DEPARTMENT íS POSITION AT A RELE ASE HEARING . 7 
+TESTIFY AS TO THE HEALTH DEPARTMENT ‚ÄôS POSITION AT A RELE ASE HEARING . 7 
  
   (2) IF A FORENSIC REVIEW BOARD TAKES A POSITI ON CONTRARY TO 8 
-THE POSITION OF THE COMMITTED PERSON íS TREATMENT TEAM , THE 9 
+THE POSITION OF THE COMMITTED PERSON ‚ÄôS TREATMENT TEAM , THE 9 
 REPRESENTATIVE APPOI NTED UNDER THIS SUBS ECTION MAY NOT BE A MEMBER OF 10 
-THE COMMITTED PERSON íS TREATMENT TEAM . 11 
+THE COMMITTED PERSON ‚ÄôS TREATMENT TEAM . 11 
  
  (K) THE HEALTH DEPARTMENT SHALL ADOPT REGULATI ONS TO CARRY 12 
 OUT THIS SECTION .  13 
  
-3ñ121. 14 
+3‚Äì121. 14 
  
  (b) (1) If a court receives a report that alleges that a committed person has 15 
 violated a condition of a conditional release, the court promptly shall:  16 
@@ -213,9 +213,9 @@ violated a condition of a conditional release, the court promptly shall:  16
  
     2. counsel of record for the committed person; and  19 
  
-    3. the Stateís Attorney; and  20 
+    3. the State‚Äôs Attorney; and  20 
  
-   (ii) provide the Stateís Attorney with the name, address, and 21 
+   (ii) provide the State‚Äôs Attorney with the name, address, and 21 
 telephone number of the person who reported the violation and a copy of the order for 22 
 conditiona l release.  23 
  
@@ -228,30 +228,30 @@ committed person has violated conditional release, the Department shall:  25
  
     2. counsel of record for the committed person; and  28 
  
-    3. the Stateís Attorney; and  29 
+    3. the State‚Äôs Attorney; and  29 
  
 6 HOUSE BILL 32   
  
-    (ii) provide the Stateís Attorney with the name, address, and 1 
+    (ii) provide the State‚Äôs Attorney with the name, address, and 1 
 telephone number of the person who reported the violation and a copy of the order for 2 
 conditional release.  3 
  
-Article ñ Health ñ General  4 
+Article ‚Äì Health ‚Äì General  4 
  
 SUBTITLE 55. COMMUNITY FORENSIC  AFTERCARE PROGRAM . 5 
  
-13ñ5501.  6 
+13‚Äì5501.  6 
  
  (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE  THE MEANINGS  7 
 INDICATED . 8 
  
- (B) ìCOMMITTED PERSON î HAS THE MEANING STAT ED IN ß 3ñ101 OF THE  9 
+ (B) ‚ÄúCOMMITTED PERSON ‚Äù HAS THE MEANING STAT ED IN ¬ß 3‚Äì101 OF THE  9 
 CRIMINAL PROCEDURE ARTICLE . 10 
  
- (C) ìPROGRAM î MEANS THE COMMUNITY FORENSIC AFTERCARE  11 
+ (C) ‚ÄúPROGRAM ‚Äù MEANS THE COMMUNITY FORENSIC AFTERCARE  11 
 PROGRAM . 12 
  
-13ñ5502.  13 
+13‚Äì5502.  13 
  
  (A) THERE IS A COMMUNITY FORENSIC AFTERCARE PROGRAM IN THE  14 
 DEPARTMENT . 15 
@@ -261,7 +261,7 @@ ON CONDITIONAL RELEA SE. 17
  
  (C) (1) THE PROGRAM SHALL MONITOR  COMMITTED PERSONS ON  18 
 CONDITIONAL RELEASE IN ACCORDANC E WITH THE RECOMMEND ATIONS OF THE  19 
-COMMITTED PERSON íS MENTAL HEALTH TEAM . 20 
+COMMITTED PERSON ‚ÄôS MENTAL HEALTH TEAM . 20 
  
   (2) THE PROGRAM MAY NOT MAKE CLINICAL DECISIONS R EGARDING  21 
 THE TREATMENT OF COM MITTED PERSONS . 22 
@@ -283,11 +283,11 @@ MEETING HELD UNDER P ARAGRAPH (1) OF THIS SUBSECTION . 30
  (E) IF THE PROGRAM RECEIVES A RE PORT ALLEGING THAT A  COMMITTED  1 
 PERSON HAS VIOLATED CONDITIONAL RELEASE , THE PROGRAM SHALL : 2 
  
-  (1) MAKE THE NOTIFICATION S REQUIRED UND ER ß 3ñ121( B)(2)( I) OF 3 
+  (1) MAKE THE NOTIFICATION S REQUIRED UND ER ¬ß 3‚Äì121( B)(2)( I) OF 3 
 THE CRIMINAL PROCEDURE ARTICLE ; AND  4 
  
-  (2) PROVIDE THE STATEíS ATTORNEY WITH THE INF ORMATION  5 
-REQUIRED UNDER ß 3ñ121( B)(2)( II) OF THE CRIMINAL PROCEDURE ARTICLE . 6 
+  (2) PROVIDE THE STATE‚ÄôS ATTORNEY WITH THE INF ORMATION  5 
+REQUIRED UNDER ¬ß 3‚Äì121( B)(2)( II) OF THE CRIMINAL PROCEDURE ARTICLE . 6 
  
  (F) IF THE PROGRAM RECEIVES A RE QUEST FOR RECORDS , THE PROGRAM  7 
 SHALL PROVIDE THE RECORDS WITHIN 48 HOURS AFTER THE REQU EST IS RECEIVED  8 

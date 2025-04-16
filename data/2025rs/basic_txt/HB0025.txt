@@ -9,9 +9,9 @@ amendment.
 HOUSE BILL 25  
 M3   (5lr0294 ) 
 ENROLLED BILL  
-ó Environment and Transportation/Education, Energy, and the Environment  ó 
-Introduced by Chair, Environment and Transportation Committee (By Request ñ 
-Departmental ñ Environment)  
+‚Äî Environment and Transportation/Education, Energy, and the Environment  ‚Äî 
+Introduced by Chair, Environment and Transportation Committee (By Request ‚Äì 
+Departmental ‚Äì Environment)  
  
 Read and Examined by Proofreaders:  
  
@@ -22,7 +22,7 @@ Proofreader.
  
 Sealed with the Great Seal and presented to the Governor, for his approval this  
   
-_______ day of _______________ at ________________________ oíclock, ________M.  
+_______ day of _______________ at ________________________ o‚Äôclock, ________M.  
   
 ______________________________________________  
 Speaker .  
@@ -31,7 +31,7 @@ CHAPTER ______
  
 AN ACT concerning  1 
  
-Environment ñ Reservoir Augmentation Permit ñ Establishment  2 
+Environment ‚Äì Reservoir Augmentation Permit ‚Äì Establishment  2 
  
 FOR the purpose of establishing the Reservoir Augmentation Program in the Department 3 
 of the Environment; requiring a person to obtain a permit from the Department to 4 
@@ -41,34 +41,34 @@ requiring certain revenues to be used for the operation and oversight of the Pro
 and generally relating to the establishment of the Reservoir A ugmentation Program.  8 
  
 BY repealing and reenacting, with amendments,  9 
- Article ñ Environment  10 
- Section 1 ñ601(a)  11 
+ Article ‚Äì Environment  10 
+ Section 1 ‚Äì601(a)  11 
  Annotated Code of Maryland  12 
  (2013 Replacement Volume and 2024 Supplement)  13 
 2 HOUSE BILL 25   
  
   
 BY repealing and reenacting, with amendments,  1 
- Article ñ Environment  2 
- Section 9 ñ301, 9ñ303.2(o),  and 9 ñ320(b)  3 
+ Article ‚Äì Environment  2 
+ Section 9 ‚Äì301, 9‚Äì303.2(o),  and 9 ‚Äì320(b)  3 
  Annotated Code of Maryland  4 
  (2014 Replacement Volume and 2024 Supplement)  5 
  
 BY repealing and reenacting, without amendments,  6 
- Article ñ Environment  7 
- Section 9 ñ303.2(b) and 9 ñ320(a)  8 
+ Article ‚Äì Environment  7 
+ Section 9 ‚Äì303.2(b) and 9 ‚Äì320(a)  8 
  Annotated Code of Maryland  9 
  (2014 Replacement Volume and 2024 Supplement)  10 
  
 BY adding to  11 
- Article ñ Environment  12 
- Section 9 ñ303.4  13 
+ Article ‚Äì Environment  12 
+ Section 9 ‚Äì303.4  13 
  Annotated Code of Maryland  14 
  (2014 Replacement Volume and 2024 Supplement)  15 
  
 BY repealing and reenacting, without amendments,  16 
- Article ñ Environment  17 
-Section  9ñ320(a)  18 
+ Article ‚Äì Environment  17 
+Section  9‚Äì320(a)  18 
  Annotated Code of Maryland  19 
  (2014 Replacement Volume and 2024 Supplement)  20 
  
@@ -83,64 +83,64 @@ Section 3  26
  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 27 
 That the Laws of Maryland read as follows:  28 
  
-Article ñ Environment  29 
+Article ‚Äì Environment  29 
  
-1ñ601. 30 
+1‚Äì601. 30 
  
  (a) Permits issued by the Department under the following sections shall be issued 31 
 in accordance with this subtitle:  32 
  
-  (1) Air quality control permits to construct subject to ß 2 ñ404 of this article;  33 
+  (1) Air quality control permits to construct subject to ¬ß 2 ‚Äì404 of this article;  33 
  
   (2) Permits to install, materially alter, or materially extend landfill 34 
-systems, incinerators for public use, or rubble landfills subject to ß 9 ñ209 of this article;  35 
+systems, incinerators for public use, or rubble landfills subject to ¬ß 9 ‚Äì209 of this article;  35 
  HOUSE BILL 25  3 
  
   
   (3) Permits to discharge pollutants to waters of the State issued pursuant 1 
-to ß 9 ñ323 of this article;  2 
+to ¬ß 9 ‚Äì323 of this article;  2 
  
   (4) Permits to install, materially alter, or materially extend a structure 3 
 used for storage  or distribution of any type of sewage sludge issued, renewed, or amended 4 
-pursuant to ß 9 ñ234.1 or ß 9 ñ238 of this article;  5 
+pursuant to ¬ß 9 ‚Äì234.1 or ¬ß 9 ‚Äì238 of this article;  5 
  
   (5) Permits to own, operate, establish, or maintain a controlled hazardous 6 
-substance facility issued pursuant to ß 7 ñ232 of this article;  7 
+substance facility issued pursuant to ¬ß 7 ‚Äì232 of this article;  7 
  
   (6) Permits to own, operate, or maintain a hazardous material facility 8 
-issued pursuant to ß 7 ñ103 of this article;  9 
+issued pursuant to ¬ß 7 ‚Äì103 of this article;  9 
  
-  (7) Permits to own, operate, establish, or maintain a low ñlevel nuclear 10 
-waste facility issued pursuant to ß 7 ñ233 of this arti cle; [and] 11 
+  (7) Permits to own, operate, establish, or maintain a low ‚Äìlevel nuclear 10 
+waste facility issued pursuant to ¬ß 7 ‚Äì233 of this arti cle; [and] 11 
  
-  (8) Potable reuse permits issued in accordance with ß 9 ñ303.2 of this 12 
+  (8) Potable reuse permits issued in accordance with ¬ß 9 ‚Äì303.2 of this 12 
 article ; AND  13 
  
   (9) PERMITS FOR RESERVOIR  AUGMENTATION ISSUED IN 14 
-ACCORDANCE WITH ß 9ñ303.4  OF THIS ARTICLE . 15 
+ACCORDANCE WITH ¬ß 9‚Äì303.4  OF THIS ARTICLE . 15 
  
-9ñ301. 16 
+9‚Äì301. 16 
  
  (a) In this subtitle the following words have the meanings indicated.  17 
  
- (b) ìBoardî means the Water Science Advisory Board.  18 
+ (b) ‚ÄúBoard‚Äù means the Water Science Advisory Board.  18 
  
- (c) ìCAFOî means a concentrated animal feeding operation, as defined in 19 
+ (c) ‚ÄúCAFO‚Äù means a concentrated animal feeding operation, as defined in 19 
 Department regulations.  20 
  
- (d) ìDischarge permitî means a permit issued by the Department for the 21 
+ (d) ‚ÄúDischarge permit‚Äù means a permit issued by the Department for the 21 
 discharge o f any pollutant or combination of pollutants into the waters of this State.  22 
  
- (E) ìDRINKING WATER TREATM ENT FACILITY î MEANS A FACILITY THA T IS 23 
+ (E) ‚ÄúDRINKING WATER TREATM ENT FACILITY ‚Äù MEANS A FACILITY THA T IS 23 
 USED TO TREAT WATER IN A PUBLIC WATER SY STEM . 24 
  
- [(e)] (F) ìPersonî includes the federal government, this State, a ny county, 25 
+ [(e)] (F) ‚ÄúPerson‚Äù includes the federal government, this State, a ny county, 25 
 municipal corporation, or other political subdivision of this State, or any of their units.  26 
  
- (G) ìPUBLIC WATER SYSTEM î HAS THE MEANING STAT ED IN ß 9ñ401 OF THIS 27 
+ (G) ‚ÄúPUBLIC WATER SYSTEM ‚Äù HAS THE MEANING STAT ED IN ¬ß 9‚Äì401 OF THIS 27 
 TITLE . 28 
  
- [(f)] (H) ìReclaimed waterî means sewage that:  29 
+ [(f)] (H) ‚ÄúReclaimed water‚Äù means sewage that:  29 
  
 4 HOUSE BILL 25   
  
@@ -150,21 +150,21 @@ TITLE . 28
  
    (i) 3 fecal coliform colonies per 100 milliliters;  3 
  
-   (ii) 10 milligrams per liter of 5 ñday biological oxygen demand; and  4 
+   (ii) 10 milligrams per liter of 5 ‚Äìday biological oxygen demand; and  4 
  
    (iii) 10 milligrams per liter of tot al suspended solids.  5 
  
- (I) ìRESERVOIR AUGMENTATIO Nî MEANS THE PLANNED PL ACEMENT OF 6 
+ (I) ‚ÄúRESERVOIR AUGMENTATIO N‚Äù MEANS THE PLANNED PL ACEMENT OF 6 
 RECLAIMED WATER INTO  A SURFACE WATER RESE RVOIR USED AS A SOUR CE FOR A 7 
 DRINKING WATER TREAT MENT FACILITY . 8 
  
- (J) ìRESERVOIR AUGMENTATIO N PERMIT î MEANS A PERMIT ISSUE D BY 9 
+ (J) ‚ÄúRESERVOIR AUGMENTATIO N PERMIT ‚Äù MEANS A PERMIT ISSUE D BY 9 
 THE DEPARTMENT FOR RESERV OIR AUGMENTATION . 10 
  
- [(g)] (K) ìSewageî means any human or animal excretion, domestic waste, or 11 
+ [(g)] (K) ‚ÄúSewage‚Äù means any human or animal excretion, domestic waste, or 11 
 industrial waste.  12 
  
- [(h)] (L) (1) ìSewerage systemî means:  13 
+ [(h)] (L) (1) ‚ÄúSewerage system‚Äù means:  13 
  
    (i) The channels used or intended to be used to collect and dispose 14 
 of sewage; and  15 
@@ -172,17 +172,17 @@ of sewage; and  15
    (ii) Any structure and appurtenance used or intended to be used to 16 
 collect or prepare sewage for discharge into the waters of this State.  17 
  
-  (2) ìSewerage systemî includes any sewer of any size.  18 
+  (2) ‚ÄúSewerage system‚Äù includes any sewer of any size.  18 
  
-  (3) ìSewerage systemî does not include the  plumbing system inside any 19 
+  (3) ‚ÄúSewerage system‚Äù does not include the  plumbing system inside any 19 
 building served by the sewerage system.  20 
  
-9ñ303.2.  21 
+9‚Äì303.2.  21 
  
  (b) There is an Indirect Potable Reuse Pilot Program in the Department.  22 
  
  (o) (1) On or before December 31, 2024, the Department shall report to the 23 
-Governor and, in accordance  with ß 2 ñ1257 of the State Government Article, the General 24 
+Governor and, in accordance  with ¬ß 2 ‚Äì1257 of the State Government Article, the General 24 
 Assembly on:  25 
  
   [(1)] (I) The status of the Pilot Program;  26 
@@ -197,11 +197,11 @@ recommends to permanently authorize the regulated use of reclaimed water as a so
 drinking water treatment facilities, if appropriate.  3 
  
   (2) ON OR BEFORE DECEMBER 31, 2029,  THE DEPARTMENT SHALL 4 
-REPORT TO THE GOVERNOR AND , IN ACCORDA NCE WITH ß 2ñ1257  OF THE STATE 5 
+REPORT TO THE GOVERNOR AND , IN ACCORDA NCE WITH ¬ß 2‚Äì1257  OF THE STATE 5 
 GOVERNMENT ARTICLE , THE GENERAL ASSEMBLY ON THE IMPLE MENTATION OF 6 
 THE PILOT PROGRAM .  7 
  
-9ñ303.4.  8 
+9‚Äì303.4.  8 
  
  (A) THERE IS A RESERVOIR AUGMENTATION PROGRAM IN THE 9 
 DEPARTMENT . 10 
@@ -337,14 +337,14 @@ AUGMENTATION PROGRAM . 4
  
  (L) ON OR BEFORE DECEMBER 31, 2035,  AND EVERY 5 YEARS THEREAFTER , 5 
 THE DEPARTMENT SHALL REPO RT TO THE GOVERNOR AND , IN ACCORDANCE WITH 6 
-ß 2ñ1257  OF THE STATE  GOVERNMENT ARTICLE , THE GENERAL ASSEMBLY ON THE 7 
+¬ß 2‚Äì1257  OF THE STATE  GOVERNMENT ARTICLE , THE GENERAL ASSEMBLY ON THE 7 
 IMPLEMENTATION OF TH E RESERVOIR AUGMENTATION PROGRAM .  8 
  
-9ñ320. 9 
+9‚Äì320. 9 
  
  (a) There is a Maryland Clean Water Fund.  10 
  
- (b) [The] EXCEPT AS PROVIDED IN  ß 9ñ303.4  OF THIS SUBTITLE , THE 11 
+ (b) [The] EXCEPT AS PROVIDED IN  ¬ß 9‚Äì303.4  OF THIS SUBTITLE , THE 11 
 following payments shall be made into the Maryland Clean Water Fund:  12 
  
   (1) All application fees, permit fees, renewal fees, and funds collected by 13 
@@ -358,7 +358,7 @@ Title 5, Subtitle 5 of this article relating to water appropriation and use;  17
 the provisions of Title 4, Subtitle 1 of this article;  19 
  
   (4) Any fees or funds that the Department collects under Subtitle 2, Part 20 
-III of this title and ßß 9 ñ269 and 9 ñ270 of this title and any civil or administrative penalty 21 
+III of this title and ¬ß¬ß 9 ‚Äì269 and 9 ‚Äì270 of this title and any civil or administrative penalty 21 
 or fine imposed by a court under the provisions of Subtitle 2 of this title; and  22 
  
   (5) Any fees or funds that the Department collects under Subtitle 24 of this 23 
@@ -369,7 +369,7 @@ Chapter 122 of the Acts of 2023  26
  
  SECTION 3. AND BE IT FURTHER ENACTED, That this Act is an emergency 27 
 measure, is necessary for the immediate preservation of the public health or safety, has 28 
-been passed by a yea and nay vote supp orted by three ñfifths of all the members elected to 29 
+been passed by a yea and nay vote supp orted by three ‚Äìfifths of all the members elected to 29 
 each of the two Houses of the General Assembly, and shall take effect from the date it is 30 
 enacted. [Section 1 of this Act ] IT shall remain effective through June 30, [2028] 2030 , 31 
 and, at the end of June 3 0, [2028] 2030 , [Section 1 of ] this Act, with no further action 32 
@@ -381,7 +381,7 @@ Chapter 123 of the Acts of 2023  34
   
  SECTION 3. AND BE IT FURTHER ENACTED, That this Act is an emergency 1 
 measure, is necessary for the immediate preservation of the public health or safety, has 2 
-been passed by a yea and nay vote supported by three ñfifths of all the members elected to 3 
+been passed by a yea and nay vote supported by three ‚Äìfifths of all the members elected to 3 
 each of the two Houses of the General Assembly, and shall take effect from th e date it is 4 
 enacted. [Section 1 of this Act ] IT shall remain effective through June 30, [2028] 2030 , 5 
 and, at the end of June 30, [2028] 2030 , [Section 1 of ] this Act, with no further action 6 

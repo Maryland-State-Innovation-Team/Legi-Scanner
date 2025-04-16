@@ -9,9 +9,9 @@ amendment.
 HOUSE BILL 193  
 K1   (5lr0036 ) 
 ENROLLED BILL  
-— Economic Matters/Finance  — 
-Introduced by Chair, Economic Matters Committee (By Request – Departmental – 
-Uninsured Employers’ Fund)  
+â€” Economic Matters/Finance  â€” 
+Introduced by Chair, Economic Matters Committee (By Request â€“ Departmental â€“ 
+Uninsured Employersâ€™ Fund)  
  
 Read and Examined by Proofreaders:  
  
@@ -22,7 +22,7 @@ Proofreader.
  
 Sealed with the Great Seal and presented to the Governor, for his approval th is 
   
-_______ day of _______________ at ________________________ o’clock, ________M.  
+_______ day of _______________ at ________________________ oâ€™clock, ________M.  
   
 ______________________________________________  
 Speaker .  
@@ -31,20 +31,20 @@ CHAPTER ______
  
 AN ACT concerning  1 
  
-Uninsured Employers’ Fund – Additional Assessment on Awards and 2 
-Settlements  – Amount  Assessments and Special Monitor  3 
+Uninsured Employersâ€™ Fund â€“ Additional Assessment on Awards and 2 
+Settlements  â€“ Amount  Assessments and Special Monitor  3 
  
-FOR the purpose of altering the circumstances under which the Uninsured Employers’ Fund 4 
+FOR the purpose of altering the circumstances under which the Uninsured Employersâ€™ Fund 4 
 must collect or suspend a certain assessment;  altering the additional percentage the 5 
-Uninsured Employers’ Fund Board may direct the Workers’ Compensation 6 
+Uninsured Employersâ€™ Fund Board may direct the Workersâ€™ Compensation 6 
 Commission to assess on awards and settlements if the Board determines that the 7 
 reserves of the Fund are inadequate to meet anticipated losses; requiring the 8 
-Workers’ Compensation Commission to designate a certain special monitor for certain 9 
-purposes;  and generally relating to the Uninsured Employers’ Fund.  10 
+Workersâ€™ Compensation Commission to designate a certain special monitor for certain 9 
+purposes;  and generally relating to the Uninsured Employersâ€™ Fund.  10 
  
 BY repealing and reenacting, with amendments,  11 
- Article – Labor and Employment  12 
- Section 9 –1007 and 9 –1011   13 
+ Article â€“ Labor and Employment  12 
+ Section 9 â€“1007 and 9 â€“1011   13 
 2 HOUSE BILL 193   
  
   Annotated Code of Maryland  1 
@@ -53,9 +53,9 @@ BY repealing and reenacting, with amendments,  11
  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 3 
 That the Laws of Maryland read as follows:  4 
  
-Article – Labor and Employment  5 
+Article â€“ Labor and Employment  5 
  
-9–1007.  6 
+9â€“1007.  6 
  
  (a) (1) Except  as provided in subsection (b) of this section, the Commission 7 
 shall impose against an employer or, if insured, its insurer an assessment equal to 1% of:  8 
@@ -67,7 +67,7 @@ death, including awards for disfigurement or mutilation; and  10
 amount payable by the employer or its insurer under a settlement agreement approved by 12 
 the Commission.  13 
  
-  (2) The amount of medical benefits specified in  a formal set –aside 14 
+  (2) The amount of medical benefits specified in  a formal set â€“aside 14 
 allocation that is part of an approved settlement agreement shall be excluded from the 15 
 assessment imposed by the Commission under paragraph (1)(ii) of this subsection if:  16 
  
@@ -80,15 +80,15 @@ employee pursuant to a single premium annuity; or  20
    (ii) 1. the amount of medical benefits is  in any amount; and  21 
  
     2. the payment of medical benefits by the employer or its 22 
-insurer is to an independent third –party administrator that controls and pays the medical 23 
-services in accordance with the formal set –aside allocation, provided there is no 24 
-reversionary interest to the covered employee or the covered employee’s beneficiaries.  25 
+insurer is to an independent third â€“party administrator that controls and pays the medical 23 
+services in accordance with the formal set â€“aside allocation, provided there is no 24 
+reversionary interest to the covered employee or the covered employeeâ€™s beneficiaries.  25 
  
   (3) (i) Notwithstanding any other provision of law, if the employer is a 26 
 corporation the assets of which are not sufficient to satisfy an assessment, any officer of th e 27 
 corporation who has responsibility for the general management of the corporation in the 28 
 State is jointly and severally liable for the assessment if the corporate officer knowingly 29 
-failed to secure workers’ compensation insurance.  30 
+failed to secure workersâ€™ compensation insurance.  30 
  
    (ii) Notwithstanding  any other provision of law, if the employer is a 31 
 limited liability company the assets of which are not sufficient to satisfy an assessment, 32 
@@ -97,9 +97,9 @@ management of the limited liabil ity company in the State is jointly and several
  HOUSE BILL 193  3 
  
  the assessment if a member of the limited liability company who has general management 1 
-responsibility knowingly failed to secure workers’ compensation insurance.  2 
+responsibility knowingly failed to secure workersâ€™ compensation insurance.  2 
  
- (b) Notwithstanding the limit o n the balance of the Fund under § 9 –1011 of this 3 
+ (b) Notwithstanding the limit o n the balance of the Fund under Â§ 9 â€“1011 of this 3 
 subtitle, if the Board determines that the reserves of the Fund are inadequate to meet 4 
 anticipated losses, the Board may direct the Commission to assess UP TO  an additional 5 
 [1%] 2% 1.5%  under subsection (a) of this section.  6 
@@ -113,18 +113,18 @@ or (b) of this section into t he Fund.  10
  (e) Payments under this section are in addition to the payment of compensation 11 
 to a covered employee or the dependents of a covered employee under this title.  12 
  
-9–1011.  13 
+9â€“1011.  13 
  
  (a) (1) When the amount of the Fund equals at least [$5,000,000 ] 14 
 $10,000,000 , the payment of assessments by employers and insurers is suspended.  15 
  
-  (2) The Director shall notify each self –insured employer and insurer of the 16 
+  (2) The Director shall notify each self â€“insured employer and insurer of the 16 
 suspension of the payment of assessments under paragraph (1) of this subsection.  17 
  
  (b) (1) Payme nt of assessments shall be resumed if:  18 
  
    (i) the amount of the Fund becomes less than [$3,000,000 ] 19 
-$8,000,000  because of payments made under § 9 –1002 of this subtitle or other payments; 20 
+$8,000,000  because of payments made under Â§ 9 â€“1002 of this subtitle or other payments; 20 
 or 21 
  
    (ii) the Director determines that payments that are likely to  be made 22 
@@ -132,7 +132,7 @@ from the Fund in the next 3 months will reduce the amount of the Fund to less th
 [$3,000,000 ] $8,000,000 . 24 
  
   (2) When payment of assessments is to be resumed under paragraph (1) of 25 
-this subsection, the Director shall notify each self –insured emp loyer and insurer that 26 
+this subsection, the Director shall notify each self â€“insured emp loyer and insurer that 26 
 payment of assessments is to:  27 
  
    (i) resume on a specified date; and  28 
@@ -144,24 +144,24 @@ payment of assessments is to:  27
  
 4 HOUSE BILL 193   
  
-  (a) The Workers’ Compensation Commission shall designate a special monitor to 1 
-assess the financial condition of the Uninsured Employers’ Fund, including the reserve 2 
-setting and third –party administrator practices of the Fund.  3 
+  (a) The Workersâ€™ Compensation Commission shall designate a special monitor to 1 
+assess the financial condition of the Uninsured Employersâ€™ Fund, including the reserve 2 
+setting and third â€“party administrator practices of the Fund.  3 
  
  (b) The special monitor shall m onitor the financial condition of the Fund for a 4 
 period of up to 1 year, with the duties of the special monitor ending on or before June 30, 5 
 2026, unless an earlier date is agreed on by the Fund and the Commission.  6 
  
  (c) The special monitor shall submit t o the Senate Finance Committee and the 7 
-House Economic Matters Committee, in accordance with § 2 –1257 of the State Government 8 
+House Economic Matters Committee, in accordance with Â§ 2 â€“1257 of the State Government 8 
 Article:  9 
  
   (1) on or before December 1, 2025, an interim report regarding the financial 10 
-condition of the Uninsured Employers’ Fund  and any recommendations for legislative or 11 
+condition of the Uninsured Employersâ€™ Fund  and any recommendations for legislative or 11 
 regulatory changes necessary to improve the condition of the Fund; and  12 
  
   (2) on or before June 1, 2026, a final report regarding the financial 13 
-condition of the Uninsured Employers’ Fund and any recommendations for legislative or 14 
+condition of the Uninsured Employersâ€™ Fund and any recommendations for legislative or 14 
 regulatory changes necessary to improve the condition of the Fund.  15 
  
  (d) The Fund shall reimburse the monitor at a rate commensurate with the rate 16 
