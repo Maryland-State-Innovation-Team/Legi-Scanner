@@ -27,9 +27,17 @@ def main(session_year):
 
     df = pd.DataFrame.from_records(filtered_leg_data)
 
+    seen_crossfiled_bill_numbers = list()
+    df_rows_to_remove = list()
+
     print(f'Processing {df.shape[0]} rows for {session_year}...')
     for index, row in tqdm.tqdm(df.iterrows(), total=df.shape[0], desc=f'Processing {session_year} bills'):
         bill_number = row['BillNumber']
+        if bill_number in seen_crossfiled_bill_numbers:
+            df_rows_to_remove.append(index)
+            continue
+        crossfiled_bill_number = row['CrossfileBillNumber']
+        seen_crossfiled_bill_numbers.append(crossfiled_bill_number)
         bill_url = f'https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/{bill_number}?ys={session_year}rs'
         bill_response = requests.get(bill_url, headers=headers)
         bill_response.raise_for_status()
@@ -92,7 +100,8 @@ def main(session_year):
                         print(f"Error downloading {amd_pdf_url}: {e}")
                     except IOError as e:
                         print(f"Error saving file {amd_pdf_path}: {e}")
-
+    print(f"Removing {len(df_rows_to_remove)} crossfiled bills.")
+    df.drop(df_rows_to_remove, inplace=True)
     print(f'Finished processing {session_year}.')
 
     csv_output_dir = f'data/{session_year}rs/csv'
