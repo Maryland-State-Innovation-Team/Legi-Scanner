@@ -11,102 +11,29 @@ import pandas as pd
 tqdm.tqdm.pandas()
 
 def main(session_year):
-    if session_year == 2025:
-        passed_type = 'passedByBoth'
-    else:
-        passed_type = 'chapters'
-    base_url = 'https://mgaleg.maryland.gov/mgawebsite/Legislation/GetReportsTable'
-    payload = {
-        'ys': f'{session_year}rs',
-        'type': passed_type 
-    }
-    headers = {
-        'accept': 'text/html, */*; q=0.01',
-        'accept-language': 'en-US,en;q=0.9',
-        'cache-control': 'no-cache',
-        'content-type': 'application/x-www-form-urlencoded; charset=UTF-8',
-        'pragma': 'no-cache',
-        'priority': 'u=1, i',
-        'sec-ch-ua': '\'Google Chrome\';v=\'135\', \'Not-A.Brand\';v=\'8\', \'Chromium\';v=\'135\'',
-        'sec-ch-ua-mobile': '?0',
-        'sec-ch-ua-platform': '\'Windows\'',
-        'sec-fetch-dest': 'empty',
-        'sec-fetch-mode': 'cors',
-        'sec-fetch-site': 'same-origin',
-        'x-requested-with': 'XMLHttpRequest',
-        'Referer': f'https://mgaleg.maryland.gov/mgawebsite/Legislation/Report?id={passed_type}',
-        'Referrer-Policy': 'strict-origin-when-cross-origin',
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'
-    }
-    response = requests.post(base_url, headers=headers, data=payload)
-    response.raise_for_status()  # Raise an exception for bad status codes
-    tables = pd.read_html(response.content)
-    if not tables:
-        print('No tables found in the response.')
-        return
-    df = tables[0]
-    # Remove parenthetical text from 'Bill Number'
-    df['Bill Number'] = df['Bill Number'].str.replace(r'\s\(.*\)$', '', regex=True)
-    print(f'Successfully downloaded and parsed table for {session_year}.')
+    json_url = f'https://mgaleg.maryland.gov/{session_year}rs/misc/billsmasterlist/legislation.json'
 
-    synopses = list()
-    cross_filed_bill = list()
-    file_codes = list()
-    subjects = list()
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+    }
+    response = requests.get(json_url, headers=headers)
+    response.raise_for_status()
+    leg_data = response.json()
+
+    if session_year == 2025:
+        filtered_leg_data = [leg for leg in leg_data if leg['PassedByMGA']]
+    else:
+        filtered_leg_data = [leg for leg in leg_data if leg['ChapterNumber'] != '']
+
+    df = pd.DataFrame.from_records(filtered_leg_data)
 
     print(f'Processing {df.shape[0]} rows for {session_year}...')
     for index, row in tqdm.tqdm(df.iterrows(), total=df.shape[0], desc=f'Processing {session_year} bills'):
-        bill_number = row['Bill Number']
-        bill_url = f'https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/{bill_number}?ys={payload['ys']}'
+        bill_number = row['BillNumber']
+        bill_url = f'https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/{bill_number}?ys={session_year}rs'
         bill_response = requests.get(bill_url, headers=headers)
         bill_response.raise_for_status()
         soup = BeautifulSoup(bill_response.content, 'html.parser')
-
-        synopsis_div = soup.find('div', string='Synopsis')
-        synopsis_text = ""
-        if synopsis_div:
-            next_sibling_div = synopsis_div.find_next_sibling('div')
-            if next_sibling_div:
-                synopsis_text = next_sibling_div.get_text(strip=True)
-            else:
-                print(f"Warning: Could not find the synopsis text div for bill {bill_number} at {bill_url}")
-        else:
-            print(f"Warning: Could not find the 'Synopsis' label div for bill {bill_number} at {bill_url}")
-        synopses.append(synopsis_text)
-
-        cross_filed_text = ""
-        possible_cross_divs = soup.find_all('div', 'col-sm-12')
-        cross_file_divs = [div for div in possible_cross_divs if 'Cross-filed with:' in div.get_text()]
-        if len(cross_file_divs) > 1:
-            cross_filed_div = cross_file_divs[1]
-            anchor_tag = cross_filed_div.find('a')
-            if anchor_tag:
-                cross_filed_text = anchor_tag.get_text(strip=True)
-            else:
-                print(f"Warning: Found 'Cross-filed with:' div but no anchor tag for bill {bill_number} at {bill_url}")
-        cross_filed_bill.append(cross_filed_text)
-
-        file_codes_divs = soup.find_all('div', id='details-dropdown-content1')
-        file_codes_texts = list()
-        for file_codes_div in file_codes_divs:
-            anchor = file_codes_div.find('a')
-            if anchor:
-                file_codes_texts.append(anchor.get_text(strip=True))
-            else:
-                print(f"Warning: Could not find any anchor tags in div#details-dropdown-content1 for bill {bill_number} at {bill_url}")
-        file_codes_text = '|'.join(file_codes_texts)
-        file_codes.append(file_codes_text)
-
-        subjects_divs = soup.find_all('div', id='details-dropdown-content2')
-        subjects_texts = list()
-        for subjects_div in subjects_divs:
-            anchor = subjects_div.find('a')
-            if anchor:
-                subjects_texts.append(anchor.get_text(strip=True))
-            else:
-                print(f"Warning: Could not find any anchor tags in div#details-dropdown-content2 for bill {bill_number} at {bill_url}")
-        subjects_text = '|'.join(subjects_texts)
-        subjects.append(subjects_text)
 
         all_tables = soup.find_all('table')
 
@@ -166,10 +93,6 @@ def main(session_year):
                         print(f"Error saving file {amd_pdf_path}: {e}")
 
     print(f'Finished processing {session_year}.')
-    df['Synopsis'] = synopses
-    df['Cross-filed bill'] = cross_filed_bill
-    df['File codes'] = file_codes
-    df['Subjects'] = subjects
 
     csv_output_dir = f'data/{session_year}rs/csv'
     os.makedirs(csv_output_dir, exist_ok=True)
