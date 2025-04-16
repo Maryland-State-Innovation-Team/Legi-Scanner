@@ -18,5 +18,5 @@ activate
 cd ../..
 python code/download_legislation.py 2025
 python code/leg_to_basic_txt.py 2025 # Total page count: 6478
-python code/count_tokens.py 2025 # This will use at least 3,372,770 tokens and cost at least $0.51 to run using model gpt-4o-mini.
+python code/count_tokens.py 2025 # This will use at least 3,333,186 tokens and cost at least $0.5 to run using model gpt-4o-mini.
 ```
