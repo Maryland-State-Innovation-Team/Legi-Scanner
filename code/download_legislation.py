@@ -44,6 +44,8 @@ def main(session_year):
         print('No tables found in the response.')
         return
     df = tables[0]
+    # Remove parenthetical text from 'Bill Number'
+    df['Bill Number'] = df['Bill Number'].str.replace(r'\s\(.*\)$', '', regex=True)
     print(f'Successfully downloaded and parsed table for {session_year}.')
 
     synopses = list()
