@@ -128,7 +128,7 @@ def gptClassify(client, model, value):
     for attempt in range(max_retries):
         try:
             completion = client.beta.chat.completions.parse(
-                model='gpt-4o-mini',
+                model='gpt-4.1-nano-2025-04-14',
                 messages=formattedPromptContents,
                 temperature=0.0,
                 response_format=AnswersToQuestions
