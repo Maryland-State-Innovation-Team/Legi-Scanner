@@ -74,7 +74,7 @@ def main(session_year):
         else:
             print(f"Warning: Could not find the second table for bill {bill_number} at {bill_url}")
         if last_bill_link:
-            print(f"Found {len(subsequent_amd_links) + 1} PDFs to download for {bill_number}.")
+            print(f"Found {len(subsequent_amd_links.keys()) + 1} PDFs to download for {bill_number}.")
             pdf_output_dir = f'data/{session_year}rs/pdf'
             os.makedirs(pdf_output_dir, exist_ok=True)
 
@@ -93,9 +93,9 @@ def main(session_year):
                     print(f"Error saving file {bill_pdf_path}: {e}")
 
             # Download subsequent amendment PDFs
-            for i, amd_link in enumerate(subsequent_amd_links, start=1):
+            for amd_id, amd_link in subsequent_amd_links.items:
                 amd_pdf_url = f'https://mgaleg.maryland.gov{amd_link}'
-                amd_pdf_path = os.path.join(pdf_output_dir, f'{bill_number}_amd{i}.pdf')
+                amd_pdf_path = os.path.join(pdf_output_dir, f'{bill_number}_amd{amd_id}.pdf')
                 if not os.path.exists(amd_pdf_path):
                     try:
                         pdf_response = requests.get(amd_pdf_url, headers=headers)
