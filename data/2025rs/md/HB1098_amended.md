@@ -1,5 +1,3 @@
-```markdown
-<bill>
 START OF PAGE 1
 HOUSE BILL 1098
 
@@ -325,5 +323,3 @@ Speaker of the House of Delegates.
 ________________________________________________________________________________
 President of the Senate.
 END OF PAGE 7
-</bill>
-```

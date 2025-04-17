@@ -1,4 +1,3 @@
-<bill>
 START OF PAGE 1
 SENATE BILL 93
 
@@ -86,4 +85,3 @@ President of the Senate.
 ________________________________________________________________________________
 Speaker of the House of Delegates.
 END OF PAGE 2
-</bill>
