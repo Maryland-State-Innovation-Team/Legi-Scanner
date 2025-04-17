@@ -55,7 +55,6 @@ def get_struck_word_rects(page: pymupdf.Page, height_threshold: float = 1.5) -> 
 
     return struck_word_bounding_boxes
 
-# --- Main Conversion Function ---
 def pdf_page_to_markdown(page: pymupdf.Page, include_struck: bool = True) -> str:
     """
     Converts a PDF page to Markdown text, handling strikethroughs.
@@ -77,7 +76,7 @@ def pdf_page_to_markdown(page: pymupdf.Page, include_struck: bool = True) -> str
     # Sort words primarily by vertical position (y0), then horizontal (x0)
     # This helps approximate the reading order
     words.sort(key=lambda w: (w[1], w[0]))
-    # --- Refine vertical alignment ---
+    # Refine vertical alignment
     if words:
         # 1. Estimate distinct row y-coordinates by finding clusters
         unique_y0s = sorted(list(set(w[1] for w in words)))
@@ -121,8 +120,6 @@ def pdf_page_to_markdown(page: pymupdf.Page, include_struck: bool = True) -> str
         # 3. Resort words based on snapped y0, then original x0
         snapped_words_data.sort(key=lambda w: (w[1], w[0]))
         words = snapped_words_data # Use the list with snapped y0 values
-
-    # --- End Refine vertical alignment ---
 
     markdown_output = []
     current_line = ""
