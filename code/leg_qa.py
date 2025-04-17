@@ -23,6 +23,7 @@ import time
 
 question_dict = {
     'bill_summary': 'Write a brief, plain-English summary of the bill.',
+    'programmatic': 'Does this bill establish a distinct service, initiative, or intervention for the public? Answer False if it mainly changes rules, fees, definitions, or legal processes.',
     'program_start_year': 'What year do the programs described in the bill start?',
     'program_end_year': 'What year do the programs described in the bill end?',
     'funding': 'How much money in total has been allocated for the programs? (if millions, write out full number. E.g. "1 million" should be 1000000)',
@@ -51,6 +52,7 @@ GEMINI_SYSTEM_PROMPT = SYSTEM_PROMPT + "\nThe markdown follows below:\n\n{}"
 
 class AnswersToQuestions(BaseModel):
     bill_summary: str
+    programmatic: bool
     program_start_year: int
     program_end_year: int
     funding: float
@@ -125,7 +127,7 @@ def gptClassify(client, model, value):
     for attempt in range(max_retries):
         try:
             completion = client.beta.chat.completions.parse(
-                model='gpt-4o-mini',
+                model='gpt-4.1-nano-2025-04-14',
                 messages=formattedPromptContents,
                 response_format=AnswersToQuestions
             )
