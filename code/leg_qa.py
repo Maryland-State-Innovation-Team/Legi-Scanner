@@ -194,7 +194,6 @@ def main(args):
 
     data = pd.read_csv(csv_filepath)
     data = data[['YearAndSession', 'BillNumber', 'Title', 'Synopsis']]
-    data = data.sample(n=10)
     bill_numbers = data['BillNumber'].values.tolist()
 
     model_responses = []
