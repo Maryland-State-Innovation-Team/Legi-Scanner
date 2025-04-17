@@ -30,9 +30,9 @@ question_dict = {
     'responsible_party': 'What Maryland State agency, department, office, or role is responsible for implementing the programs?',
     'stakeholders': 'What population will be impacted by the bill?',
     'innovative_summary': 'How innovative (employing new technologies or new approaches to government) is the program?',
-    'innovative_score': 'How innovative is the program on a scale from 1 to 5, with 5 being the most innovative?',
+    'innovative_score': 'How innovative is the program on a scale from 1 to 10, with 10 being the most innovative?',
     'child_poverty_direct_summary': 'How high is the potential for the program to have a direct impact on child poverty?',
-    'child_poverty_direct_score': 'How high is the potential for the program to have a direct impact on child poverty on a scale from 1 to 5, with 5 being highest potential?',
+    'child_poverty_direct_score': 'How high is the potential for the program to have a direct impact on child poverty on a scale from 1 to 10, with 10 being highest potential?',
 }
 
 
@@ -93,6 +93,7 @@ def geminiClassify(client, model, value):
                 model='gemini-2.0-flash',
                 contents=formattedPromptContents,
                 config={
+                    'temperature': 0,
                     'response_mime_type': 'application/json',
                     'response_schema': AnswersToQuestions,
                 },
@@ -127,8 +128,9 @@ def gptClassify(client, model, value):
     for attempt in range(max_retries):
         try:
             completion = client.beta.chat.completions.parse(
-                model='gpt-4.1-nano-2025-04-14',
+                model='gpt-4o-mini',
                 messages=formattedPromptContents,
+                temperature=0.0,
                 response_format=AnswersToQuestions
             )
             json_response = completion.choices[0].message.parsed
@@ -160,7 +162,8 @@ def ollamaClassify(client, model, value):
     response: ChatResponse = client(
         model=model,
         format=AnswersToQuestions.model_json_schema(),
-        messages=formattedPromptContents
+        messages=formattedPromptContents,
+        options={'temperature': 0.2}
     )
     parsed_response_content = json.loads(response.message.content)
     return parsed_response_content
