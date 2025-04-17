@@ -46,7 +46,7 @@ def main(session_year):
         all_tables = soup.find_all('table')
 
         last_bill_link = None
-        subsequent_amd_links = list()
+        subsequent_amd_links = dict()
         if len(all_tables) > 1:
             target_table = all_tables[1]
             anchors = target_table.find_all('a', href=True)
@@ -59,11 +59,18 @@ def main(session_year):
                 href = anchor['href']
                 if href.startswith(bill_prefix) or href.startswith(chapter_prefix):
                     last_bill_link = href
-                    subsequent_amd_links = list() # Reset amd links when a new bill link is found
+                    subsequent_amd_links = dict() # Reset amd links when a new bill link is found
                 elif href.startswith(amd_prefix):
-                    # Only collect amd links if they appear after a bill link
+                    # Only collect amd links if they appear after a bill link and were adopted and not subsequently withdrawn
                     if last_bill_link is not None:
-                        subsequent_amd_links.append(href)
+                        amendment_id = anchor.text.replace("/","_")
+                        if 'Adopted' in anchor.parent.text:
+                            subsequent_amd_links[amendment_id] = href
+                        elif 'Withdrawn' in anchor.parent.text:
+                            try:
+                                del subsequent_amd_links[amendment_id]
+                            except KeyError:
+                                pass
         else:
             print(f"Warning: Could not find the second table for bill {bill_number} at {bill_url}")
         if last_bill_link:
