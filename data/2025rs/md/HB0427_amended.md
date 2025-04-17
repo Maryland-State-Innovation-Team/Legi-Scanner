@@ -1,0 +1,235 @@
+```markdown
+<bill>
+START OF PAGE 1
+HOUSE BILL 427
+
+C3 5lr2095
+CF SB 148
+
+By: Delegate Queen
+Introduced and read first time: January 16, 2025
+Assigned to: Economic Matters
+
+Committee Report: Favorable
+House action: Adopted
+Read second time: February 25, 2025
+
+CHAPTER ______
+
+1 AN ACT concerning
+
+2 State Board of Public Accountancy – Emeritus Status
+
+3 FOR the purpose of authorizing the State Board of Public Accountancy to place a licensee
+4 on emeritus status under certain circumstances; requiring the Board to reinstate the
+5 license of an individual who is on emeritus status under certain circumstances; and
+6 generally relating to the State Board of Public Accountancy and emeritus status.
+
+7 BY repealing and reenacting, with amendments,
+8 Article – Business Occupations and Professions
+9 Section 2–311(a), 2–314, 2–601, and 2–603
+10 Annotated Code of Maryland
+11 (2018 Replacement Volume and 2024 Supplement)
+
+12 BY adding to
+13 Article – Business Occupations and Professions
+14 Section 2–313.1
+15 Annotated Code of Maryland
+16 (2018 Replacement Volume and 2024 Supplement)
+
+17 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+18 That the Laws of Maryland read as follows:
+
+19 Article – Business Occupations and Professions
+
+20 2–311.
+
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0427*
+END OF PAGE 1
+
+START OF PAGE 2
+2 HOUSE BILL 427
+
+1 (a) (1) THIS SUBSECTION DOES NOT APPLY TO A CERTIFIED PUBLIC
+2 ACCOUNTANT WHO IS ON EMERITUS STATUS UNDER § 2–313.1 OF THIS SUBTITLE.
+
+3 (2) Unless a license is renewed for a 2–year term as provided in this
+4 section, the license expires on the first December 31 that comes:
+
+5 [(1)] (I) after the effective date of the license; and
+
+6 [(2)] (II) in an even–numbered year.
+
+7 2–313.1.
+
+8 (A) THE BOARD MAY PLACE A LICENSEE ON EMERITUS STATUS, IF THE
+9 LICENSEE SUBMITS TO THE BOARD AN APPLICATION FOR EMERITUS STATUS ON THE
+10 FORM REQUIRED BY THE BOARD.
+
+11 (B) THE BOARD SHALL PLACE A LICENSEE ON EMERITUS STATUS IF THE
+12 INDIVIDUAL:
+
+13 (1) HAS AN ACTIVE OR INACTIVE LICENSE TO PRACTICE CERTIFIED
+14 PUBLIC ACCOUNTANCY UNDER THIS SUBTITLE;
+
+15 (2) IS NOT UNDER INVESTIGATION BY THE BOARD FOR A VIOLATION
+16 OF THIS TITLE OR A COMPARABLE BODY OF ANOTHER STATE FOR A VIOLATION OF A PROVISION THAT IS COMPARABLE TO A PROVISION OF THIS TITLE;
+
+17 (3) IS NOT THE SUBJECT OF A PENDING DISCIPLINARY ACTION
+18 RELATED TO THE PRACTICE OF CERTIFIED PUBLIC ACCOUNTANCY IN THE STATE OR
+19 ANOTHER STATE;
+
+20 (4) (I) 1. HAS PRACTICED PUBLIC ACCOUNTANCY IN THE
+21 STATE FOR AT LEAST ~~20~~ ~~YEARS~~ 6 YEARS AS AN ACTIVE CERTIFIED PUBLIC ACCOUNTANT; AND
+
+22 2. IS AT LEAST 60 YEARS OLD; OR
+
+23 (II) HAS AT LEAST 40 YEARS OF EXPERIENCE AS A CERTIFIED
+24 PUBLIC ACCOUNTANT; AND
+
+25 (5) ATTESTS THAT:
+
+26 (I) THE INDIVIDUAL IS RETIRED AND IS NO LONGER ACTIVELY
+27 PRACTICING PUBLIC ACCOUNTANCY IN THE STATE; AND
+END OF PAGE 2
+
+START OF PAGE 3
+HOUSE BILL 427 3
+
+1 (II) THE INDIVIDUAL WILL NOT PROVIDE OR BE COMPENSATED FOR CERTIFIED PUBLIC
+2 ACCOUNTANCY SERVICES UNLESS REINSTATED IN ACCORDANCE WITH § 2–314 OF
+3 THIS SUBTITLE.
+
+4 (C) THE BOARD SHALL REVIEW AN APPLICATION SUBMITTED UNDER THIS
+5 SECTION WITHIN ~~60~~ 90 DAYS OF RECEIPT OF THE APPLICATION.
+
+6 (D) IF THE BOARD APPROVES AN APPLICATION FOR EMERITUS STATUS
+7 UNDER THIS SECTION, THE BOARD SHALL SEND THE LICENSEE:
+
+8 (1) WRITTEN NOTICE OF THE APPROVAL; AND
+
+9 (2) A CERTIFICATE OF EMERITUS STATUS.
+
+10 (E) A LICENSEE ON EMERITUS STATUS IS EXEMPT FROM:
+
+11 (1) THE CONTINUING EDUCATION REQUIREMENTS UNDER § 2–312 OF
+12 THIS SUBTITLE; AND
+
+13 (2) THE REINSTATEMENT FEE UNDER § ~~2–341~~ 2–314 OF THIS SUBTITLE.
+
+14 2–314.
+
+15 In accordance with its regulations, the Board may reinstate the license of an
+16 individual who has failed to renew the license for any reason OR IS ON EMERITUS STATUS
+17 UNDER § 2–313.1 OF THIS SUBTITLE if the individual:
+
+18 (1) otherwise is entitled to be licensed;
+
+19 (2) ~~EXCEPT~~ ~~AS~~ ~~PROVIDED~~ ~~UNDER~~ ~~§~~ ~~2–313.1~~ ~~OF~~ ~~THIS~~ ~~SUBTITLE,~~
+20 complies with each continuing education requirement that the Board sets for this purpose;
+21 and
+
+22 (3) ~~EXCEPT~~ ~~AS~~ ~~PROVIDED~~ ~~UNDER~~ ~~§~~ ~~2–313.1~~ ~~OF~~ ~~THIS~~ ~~SUBTITLE,~~ pays to
+23 the Board a reinstatement fee set by the Board.
+
+24 2–601.
+
+25 Except as otherwise provided in this title[,]:
+
+26 (1) a person may not practice, attempt to practice, or offer to practice
+27 certified public accountancy in the State unless licensed by the Board or qualified for a
+28 practice privilege under § 2–321 of this title; AND
+END OF PAGE 3
+
+START OF PAGE 4
+4 HOUSE BILL 427
+
+1 (2) A LICENSEE ON EMERITUS STATUS UNDER § 2–313.1 OF THIS
+2 TITLE MAY NOT:
+
+3 (I) PRACTICE, ATTEMPT TO PRACTICE, OR OFFER TO PRACTICE
+4 CERTIFIED PUBLIC ACCOUNTANCY IN THE STATE;
+
+5 (II) SIGN OR CERTIFY FINANCIAL STATEMENTS, TAX RETURNS,
+6 OR AUDIT REPORTS; OR
+
+7 (III) PROVIDE ATTESTATION SERVICES.
+
+8 2–603.
+
+9 (a) Subject to subsection (b) of this section and unless authorized under this title
+10 to practice certified public accountancy, a person may not represent to the public, by use of
+11 a title, including “licensed certified public accountant”, “certified public accountant”, “public
+12 accountant”, or “auditor”, by use of the abbreviation “CPA”, by description of services,
+13 methods, or procedures, or otherwise, that the person is authorized to practice certified
+14 public accountancy in the State.
+
+15 (b) Subsection (a) of this section does not prohibit:
+
+16 (1) the description of a principal, officer, or employee of an organization by
+17 the position, title, or office that the individual holds in the organization; [or]
+
+18 (2) THE DESCRIPTION OF A LICENSEE WHO IS ON EMERITUS STATUS
+19 UNDER § 2–313.1 OF THIS TITLE, PROVIDED THAT THE LICENSEE DOES NOT
+20 REPRESENT TO THE PUBLIC THAT THE LICENSEE IS AUTHORIZED TO PRACTICE
+21 CERTIFIED PUBLIC ACCOUNTANCY IN THE STATE; OR
+
+22 [(2)] (3) a partnership, limited liability company, or corporation that
+23 holds a permit or is exempt from the permit requirement under § 2–401 of this title from
+24 using, in connection with the name of the partnership, limited liability company, or
+25 corporation, any of the terms or the abbreviation to which subsection (a) of this section
+26 refers.
+
+27 (c) (1) (I) [The] EXCEPT AS PROVIDED IN SUBPARAGRAPH (II) OF THIS
+28 PARAGRAPH, THE display, distribution, or other use by a person of the person’s name, in
+29 conjunction with any of the following list of titles or abbreviations in a card, sign,
+30 advertisement, directory listing, or other instrument or device, is, in any proceeding under
+31 this title, prima facie evidence that the person represents to the public that the person is
+32 authorized to practice certified public accountancy:
+
+33 [(i)] 1. “licensed certified public accountant”;
+END OF PAGE 4
+
+START OF PAGE 5
+HOUSE BILL 427 5
+
+1 [(ii)] 2. “certified public accountant”;
+
+2 [(iii)] 3. “public accountant”;
+
+3 [(iv)] 4. “auditor”; or
+
+4 [(v)] 5. an abbreviation of any of these titles.
+
+5 (II) A LICENSEE WHO IS ON EMERITUS STATUS UNDER § 2–313.1
+6 OF THIS TITLE MAY USE THE WORDS “CERTIFIED PUBLIC ACCOUNTANT EMERITUS”
+7 OR THE ABBREVIATION “CPA EMERITUS” TO DESCRIBE THE OCCUPATION OF THE
+8 INDIVIDUAL, PROVIDED THAT THE LICENSEE DOES NOT REPRESENT TO THE PUBLIC
+9 THAT THE LICENSEE IS AUTHORIZED TO PRACTICE CERTIFIED PUBLIC
+10 ACCOUNTANCY IN THE STATE.
+
+11 (2) In a proceeding under this title, evidence of a single representation
+12 described in paragraph (1) of this subsection is, without evidence of a general course of
+13 conduct, adequate to justify a finding that a person has represented to the public that the
+14 person is authorized to practice certified public accountancy in the State.
+
+15 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+16 1, 2025.
+
+Approved:
+
+________________________________________________________________________________
+Governor.
+
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+________________________________________________________________________________
+President of the Senate.
+END OF PAGE 5
+</bill>
+```
