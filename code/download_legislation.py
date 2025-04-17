@@ -93,7 +93,7 @@ def main(session_year):
                     print(f"Error saving file {bill_pdf_path}: {e}")
 
             # Download subsequent amendment PDFs
-            for amd_id, amd_link in subsequent_amd_links.items:
+            for amd_id, amd_link in subsequent_amd_links.items():
                 amd_pdf_url = f'https://mgaleg.maryland.gov{amd_link}'
                 amd_pdf_path = os.path.join(pdf_output_dir, f'{bill_number}_amd{amd_id}.pdf')
                 if not os.path.exists(amd_pdf_path):
