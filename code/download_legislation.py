@@ -20,7 +20,7 @@ def main(session_year):
     response.raise_for_status()
     leg_data = response.json()
 
-    if session_year == 2025:
+    if session_year == 2026:
         filtered_leg_data = [leg for leg in leg_data if leg['PassedByMGA']]
     else:
         filtered_leg_data = [leg for leg in leg_data if leg['ChapterNumber'] != '']
