@@ -1,307 +1,272 @@
+ WES MOORE, Governor  Ch. 372  
  
+– 1 – Chapter 372  
+(Senate Bill 341 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.  
-         Italics indicate opposite chamber/conference committee amendments.             *sb0341*      
-SENATE BILL 341  
-C7   (5lr2013 ) 
-ENROLLED BILL  
-— Budget and Taxation/Ways and Means  — 
-Introduced by Senator McCray  
+AN ACT concerning  
  
-Read and Examined by Proofreaders:  
+Baltimore City – Raffles – Organizations Affiliated With a Professional Major 
+League Baseball Team  
  
-_______________________________________________  
-Proofreader.  
-_______________________________________________  
-Proofreader.  
+FOR the purpose of authorizing certain organizations that are affiliated with a professional 
+major league baseball team that plays its home games in Baltimore City to conduct 
+certain raffles; requiring the organization to obtain a permit to conduct raffles  from 
+an agency designated by the Baltimore City government; requiring that raffle tickets 
+are sold using age –verification measures to ensure that the buyer is at least a certain 
+age; authorizing a raffle ticket to be sold and received in–person or  on an e lectronic 
+device located within the a certain  geographical boundaries of  area in  Baltimore City; 
+providing that, subject to certain limitations, an organization conducting a raffle 
+under this Act is not subject to a certain provision of law that prohibits the 
+organization from accepting credit as payment;  and generally relating to raffles in 
+Baltimore City.  
  
-Sealed with the Great Seal and presented to the Governor, for his approval this  
-  
-_______ day of _______________ at _________________ _______ o’clock, ________M.  
-  
-______________________________________________  
-President .  
+BY repealing and reenacting, with amendments,  
+ Article – Criminal Law  
+Section 13 –501, 13 –503, 13 –505, and 13 –510 
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-CHAPTER ______  
+BY adding to  
+ Article – Criminal Law  
+Section 13 –505.1  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-AN ACT concerning  1 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryl and read as follows:  
  
-Baltimore City – Raffles – Organizations Affiliated With a Professional Major 2 
-League Baseball Team  3 
+Article – Criminal Law  
  
-FOR the purpose of authorizing certain organizations that are affiliated with a professional 4 
-major league baseball team that plays its home games in Baltimore City to conduct 5 
-certain raffles; requiring the organization to obtain a permit to conduct raffles  from 6 
-an agency designated by the Baltimore City government; requiring that raffle tickets 7 
-are sold using age –verification measures to ensure that the buyer is at least a certain 8 
-age; authorizing a raffle ticket to be sold and received in–person or  on an electronic 9 
-device located within the a certain  geographical boundaries of  area in  Baltimore City; 10 
-providing that, subject to certain limitations, an organization conducting a raffle 11 
-under this Act is not subject to a certain provision of law that pr ohibits the 12 
-organization from accepting credit as payment;  and generally relating to raffles in 13 
-Baltimore City.  14 
+13–501. 
  
-2 SENATE BILL 341   
+ (a) In this subtitle the following words have the meanings indicated.  
  
- BY repealing and reenacting, with amendments,  1 
- Article – Criminal Law  2 
-Section 13 –501, 13 –503, 13 –505, and 13 –510 3 
- Annotated Code of Maryland  4 
- (2021 Replacement Volume and 2024 Supplement)  5 
+ (b) “Commissioner” means the Baltimore City Police Commissioner.  
  
-BY adding to  6 
- Article – Criminal Law  7 
-Section 13 –505.1  8 
- Annotated Code of Maryland  9 
- (2021 Replacement Volume and 2024 Supplement)  10 
+ (C) “DESIGNATED CITY AGENC Y” MEANS AN AGENCY DESI GNATED BY THE 
+BALTIMORE CITY GOVERNMENT . 
+Ch. 372  2025 LAWS OF MARYLAND   
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 11 
-That the Laws of Maryland read as follows:  12 
+– 2 –  
+ (D) (1) “ELECTRONIC DEVICE ” MEANS A DEVICE THAT IS CAPABLE OF 
+TRANSMITTING , RECEIVING , OR RECORDING MESSAGE S, IMAGES , SOUNDS , DATA , OR 
+OTHER INFORMATION BY  ELECTRONIC MEANS OR THAT , IN APPEARANCE , 
+PURPORTS TO BE A CEL L PHON E, COMPUTER , OR OTHER SUCH DEVICE . 
  
-Article – Criminal Law  13 
+  (2) “ELECTRONIC DEVICE ” INCLUDES A CELL PHON E OR COMPUTER . 
  
-13–501. 14 
+  (3) “ELECTRONIC DEVICE ” DOES NOT INCLUDE A V IDEO LOTTERY 
+TERMINAL AS DEFINED UNDER § 9–1A–01 OF THE STATE GOVERNMENT ARTICLE . 
  
- (a) In this subtitle the following words have the meanings indicated.  15 
+ [(c)] (E) “Gaming event” means a carnival, bazaar, or raffle.  
  
- (b) “Commissioner” means the Baltimore City Police Commissioner.  16 
+ (F) (1) “GEOFENCE ” MEANS TECHNOLOGY THA T ESTABLISHES A 
+VIRTUAL GEOGRAPHICAL  BOUNDARY . 
  
- (C) “DESIGNATED CITY AGENC Y” MEANS AN AGENCY DESIGNATED BY THE 17 
-BALTIMORE CITY GOVERNMENT . 18 
+  (2) “GEOFENCE ” INCLUDES BOUNDARIES THAT ARE ESTABLISHED  
+OR MONITORED THROUGH  THE USE OF : 
  
- (D) (1) “ELECTRONIC DEVICE ” MEANS A DEVICE THAT IS CAPABLE OF 19 
-TRANSMITTING , RECEIVING , OR RECORDING MESSAGE S, IMAGES , SOUNDS , DATA , OR 20 
-OTHER INFORMATION BY  ELECTRONIC MEANS OR THAT , IN APPEARANCE , 21 
-PURPORTS TO BE A CELL PHONE , COMPUTER , OR OTHER SUCH DEVICE . 22 
+   (I) GLOBAL POSITIONING T ECHNOLOGY ; 
  
-  (2) “ELECTRONIC DEVICE ” INCLUDES A CELL PHON E OR COMPUTER . 23 
+   (II) CELL TOWER CONNECTIV ITY; 
  
-  (3) “ELECTRONIC DEVICE ” DOES NOT INCLUDE A V IDEO LOTTERY 24 
-TERMINAL AS DEFINED UNDER § 9–1A–01 OF THE STATE GOVERNMENT ARTICLE . 25 
+   (III) CELLULAR DATA ; 
  
- [(c)] (E) “Gam ing event” means a carnival, bazaar, or raffle.  26 
+   (IV) RADIO FREQUENCY IDEN TIFICATION ; 
  
- (F) (1) “GEOFENCE ” MEANS TECHNOLOGY THA T ESTABLISHES A 27 
-VIRTUAL GEOGRAPHICAL  BOUNDARY . 28 
+   (V) WIRELESS FIDELITY TE CHNOLOGY ; OR 
  
-  (2) “GEOFENCE ” INCLUDES BOUNDARIES THAT ARE ESTABLISHED  29 
-OR MONITORED THROUGH  THE USE OF : 30 
+   (VI) ANY OTHER FORM OF LO CATION DETERMINATION  
+TECHNOLOGY . 
  
-   (I) GLOBAL POSITIONING T ECHNOLOGY ; 31 
- SENATE BILL 341  3 
+ [(d)] (G) “Raffle” means one or more drawings from a single series of chances 
+sold [from chance books ]. 
  
-  
-   (II) CELL TOWER CONNECTIV ITY; 1 
+13–503. 
  
-   (III) CELLULAR DATA ; 2 
+ (a) THIS SECTION DOES NOT  APPLY TO A RAFFLE AU THORIZED UNDER §  
+13–505.1  OF THIS SUBTITLE . 
  
-   (IV) RADIO FREQUENCY IDEN TIFICATION ; 3 
+ (B) Before an organization listed in subsection [(b)] (C) of this section may operate 
+a gaming event, the organization shall obtain a permit from the commissioner.  
  
-   (V) WIRELESS FIDELITY TE CHNOLOGY ; OR 4 
+ WES MOORE, Governor  Ch. 372  
  
-   (VI) ANY OTHER FORM OF LO CATION DETERMINATION  5 
-TECHNOLOGY . 6 
+– 3 –  [(b)] (C) (1) An organization that meets the conditions of paragraph (2) of this 
+subsection may conduct a gaming event for the benefit of any of th e following listed 
+organizations if the organization is a bona fide:  
  
- [(d)] (G) “Raffle” means one or more drawings from a single series of chances 7 
-sold [from chance books ]. 8 
+   (i) religious organization;  
  
-13–503. 9 
+   (ii) fraternal organization;  
  
- (a) THIS SECTION DOES NOT  APPLY TO A RAFFLE AU THORIZED UNDER §  10 
-13–505.1  OF THIS SUBTITLE . 11 
+   (iii) civic organization;  
  
- (B) Before an organization listed in subsection [(b)] (C) of this section may operate 12 
-a gaming event, the organization shall obtain a permit from the commissioner.  13 
+   (iv) veterans’ hospital;  
  
- [(b)] (C) (1) An organization that meets the conditions of paragraph (2) of this 14 
-subsection may conduct a gaming event for the benefit of any of the  following listed 15 
-organizations if the organization is a bona fide:  16 
+   (v) amateur athletic organization in which all playing memb ers are 
+under the age of 18 years; or  
  
-   (i) religious organization;  17 
+   (vi) charitable organization.  
  
-   (ii) fraternal organization;  18 
+  (2) An organization conducting a gaming event shall:  
  
-   (iii) civic organization;  19 
+   (i) be located in Baltimore City; and  
  
-   (iv) veterans’ hospital;  20 
+   (ii) spend a majority of the organization’s funds in Baltimore City 
+for: 
  
-   (v) amateur athletic organization in which all playing members are 21 
-under the age of 18 years; or  22 
+    1. fraternal purposes;  
  
-   (vi) charitable organization.  23 
+    2. civic purposes;  
  
-  (2) An organization conducting a gaming event shall:  24 
+    3. purposes related to a veterans’ hospital;  
  
-   (i) be located in Baltimore City; and  25 
+    4. purposes related to amateur athletics; or  
  
-   (ii) spend a majority of the organization’s funds in Baltimore City 26 
-for: 27 
-4 SENATE BILL 341   
+    5. charitable purposes.  
  
-  
-    1. fraternal purposes;  1 
+ [(c)] (D) (1) Before the commissioner may issue a permit, the commissioner 
+shall review the character of the organization applying for the permit to ascertain that the 
+organization meets the requirements of §§ 13 –503 through 13 –505 of this subtitle.  
  
-    2. civic purposes;  2 
+  (2) The commissioner shall make any application for a permit and the 
+action taken by  the commissioner on that application a matter of public record.  
  
-    3. purposes related to a veterans’ hospital;  3 
+ [(d)] (E) (1) The permit shall state that the gaming event shall be managed 
+and operated personally only by members of the organization obtaining the permit.  
  
-    4. purposes related to amateur athletics; or  4 
+  (2) The permit is not transferable.  
  
-    5. charitable purposes.  5 
+Ch. 372  2025 LAWS OF MARYLAND   
  
- [(c)] (D) (1) Before the commissioner may issue a permit, the commissioner 6 
-shall review the character of the organization applying for the permit to ascertain that the 7 
-organization meets the requirements of §§ 13 –503 through 13 –505 of this subtitle.  8 
+– 4 –  [(e)] (F) An organization conducting a gaming event in Baltimore City may not 
+allow an individual or group of individuals to:  
  
-  (2) The commissioner shall make any application for a permit and the 9 
-action taken  by the commissioner on that application a matter of public record.  10 
+  (1) benefit financially from the gaming event; or  
  
- [(d)] (E) (1) The permit shall state that the gaming event shall be managed 11 
-and operated personally only by members of the organization obtaining the permit.  12 
+  (2) receive any of the proceeds of the gaming event for pe rsonal use or 
+benefit.  
  
-  (2) The permit is not transferable.  13 
+13–505. 
  
- [(e)] (F) An organization conducting a gaming event in Baltimore City may not 14 
-allow an individual or group of individuals to:  15 
+ (a) A permit holder may award prizes in merchandise and money in a raffle in 
+any amount.  
  
-  (1) benefit financially from the gaming event; or  16 
+ (b) [A] EXCEPT AS PROVIDED IN  § 13–505.1( D)(1)( II) OF THIS SUBTITLE , A 
+permit holder may not conduct more than 12 raffles in a cale ndar year.  
  
-  (2) receive any of the proceeds of the gaming event for pe rsonal use or 17 
-benefit.  18 
+13–505.1.  
  
-13–505. 19 
+ (A) A RAFFLE MAY BE CONDUC TED BY AN ORGANIZATI ON THAT : 
  
- (a) A permit holder may award prizes in merchandise and money in a raffle in 20 
-any amount.  21 
+  (1) IS LOCATED IN BALTIMORE CITY; 
  
- (b) [A] EXCEPT AS PROVIDED IN  § 13–505.1( D)(1)( II) OF THIS SUBTITLE , A 22 
-permit holder may not conduct more than 12 raffles in a cale ndar year.  23 
+  (2) SPENDS A MAJORITY OF  THE ORGANIZATION ’S FUNDS IN 
+BALTIMORE CITY FOR : 
  
-13–505.1.  24 
+   (I) FRATERNAL PURPOSES ; 
  
- (A) A RAFFLE MAY BE CONDUC TED BY AN ORGANIZATI ON THAT : 25 
+   (II) CIVIC PURPOSES ; 
  
-  (1) IS LOCATED IN BALTIMORE CITY; 26 
+   (III) PURPOSES RELATED TO A VETERANS ’ HOSPITAL ; 
  
- SENATE BILL 341  5 
+   (IV) PURPOSES RELATED TO AMATEUR ATHLETICS ; OR 
  
-   (2) SPENDS A MAJORITY OF  THE ORGANIZATION ’S FUNDS IN 1 
-BALTIMORE CITY FOR : 2 
+   (V) CHARITABLE PURPOSES ; AND 
  
-   (I) FRATERNAL PURPOSES ; 3 
+  (3) IS AFFILIATED WITH A  PROFESSIONAL MAJOR L EAGUE BASEBALL 
+TEAM THAT PLAYS ITS HOME GAMES IN BALTIMORE CITY. 
  
-   (II) CIVIC PURPOSES ; 4 
+ (B) (1) BEFORE CONDUCTING A RAFFLE , AN ORGANIZATION SHAL L 
+OBTAIN A WRITTEN PER MIT FROM THE DESIGNA TED CITY AGENCY . 
  
-   (III) PURPOSES RELATED TO A  VETERANS ’ HOSPITAL ; 5 
+  (2) BEFORE ISSUING A PERM IT, THE DESIGNATED CITY AGENCY 
+SHALL ASCERTAIN THE CHARACTER OF THE ORG ANIZATION TO DETERMI NE IF THE 
+PERMIT SHOULD BE ISS UED. 
+ WES MOORE, Governor  Ch. 372  
  
-   (IV) PURPOSES RELATED TO AMATEUR ATHLETICS ; OR 6 
+– 5 –  
+ (C) (1) A PERMIT ISSUED TO AN ORGANIZATION UNDER T HIS SECTION 
+MAY NOT BE TRANSFERR ED. 
  
-   (V) CHARITABLE PURPOSES ; AND 7 
+  (2) THE PERMIT SHALL STAT E THAT THE RAFFLE IS  REQUIRED TO BE 
+MANAGED AND OPERATED  ONLY BY MEMBERS OF T HE ORGANIZATION OBTA INING 
+THE PERMIT . 
  
-  (3) IS AFFILIATED WITH A  PROFESSIONAL MAJOR L EAGUE BASEBALL 8 
-TEAM THAT PLAYS ITS HOME GAMES IN BALTIMORE CITY. 9 
+ (D) (1) (I) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , THE 
+DESIGNATED CITY AGEN CY MAY ISSUE A SINGL E PERMIT TO AN ORGAN IZATION TO 
+HOLD RAFFLES AT MULT IPLE PROFESSIONAL MA JOR LEAGUE BASEBALL GAMES 
+PLAYED IN BALTIMORE CITY. 
  
- (B) (1) BEFORE CONDUCTING A RAFFLE , AN ORGANIZATION SHAL L 10 
-OBTAIN A WRITTEN PER MIT FROM THE DESIGNA TED CITY AGENCY . 11 
+   (II) THERE IS NO LIMIT ON THE NUMBER OF RAFFLE S THA T AN 
+ORGANIZATION MAY CON DUCT IN CONJUNCTION WITH PROFESSIONAL MA JOR 
+LEAGUE BASEBALL GAME S PLAYED IN BALTIMORE CITY. 
  
-  (2) BEFORE ISSUING A PERM IT, THE DESIGNATED CITY AGENCY 12 
-SHALL ASCERTAIN THE CHARACTER OF THE ORG ANIZATION TO DETERMI NE IF THE 13 
-PERMIT SHOULD BE ISS UED. 14 
+  (2) A PERMIT TO HOLD RAFFL ES AT MULTIPLE PROFE SSIONAL 
+MAJOR LEAGUE BASEBAL L GAMES PLAYED IN BALTIMORE CITY EXPIRES AT THE 
+END OF THE CAL ENDAR YEAR IN WHICH THE PERMIT IS ISSUED . 
  
- (C) (1) A PERMIT ISSUED TO AN ORGANIZATION UNDER T HIS SECTION 15 
-MAY NOT BE TRANSFERR ED. 16 
+ (E) AN ORGANIZATION CONDU CTING A RAFFLE MAY : 
  
-  (2) THE PERMIT SHALL STAT E THAT THE RAFFLE IS  REQUIRED TO BE 17 
-MANAGED AND OPERATED  ONLY BY MEMBERS OF T HE ORGANIZATION OBTA INING 18 
-THE PERMIT . 19 
+  (1) SET THE PRICE OF RAF FLE TICKETS ; AND 
  
- (D) (1) (I) SUBJECT TO PA RAGRAPH (2) OF THIS SUBSECTION , THE 20 
-DESIGNATED CITY AGEN CY MAY ISSUE A SINGL E PERMIT TO AN ORGAN IZATION TO 21 
-HOLD RAFFLES AT MULT IPLE PROFESSIONAL MA JOR LEAGUE BASEBALL GAMES 22 
-PLAYED IN BALTIMORE CITY. 23 
+  (2) AWARD PRIZES IN MERC HANDISE AND MONEY IN  ANY AMOUNT . 
  
-   (II) THERE IS NO LIMIT ON THE NUMBER OF RAFFLE S THAT AN 24 
-ORGANIZATION MAY CON DUCT IN CONJUNCTION WITH PROFESSIONAL MA JOR 25 
-LEAGUE BASEBALL GAME S PLAYED IN BALTIMORE CITY. 26 
+ (F) AN ORGANIZATION CONDU CTING A RAFFLE MAY N OT ALLOW AN 
+INDI VIDUAL OR GROUP OF I NDIVIDUALS TO : 
  
-  (2) A PERMIT TO HOLD RAFFL ES AT MULTIPLE PROFE SSIONAL 27 
-MAJOR LEAGUE BASEBAL L GAMES PLAYED IN BALTIMORE CITY EXPIRES AT THE 28 
-END OF THE CALEN DAR YEAR IN WHICH TH E PERMIT IS ISSUED . 29 
+  (1) BENEFIT FINANCIALLY FROM THE RAFFLE ; OR 
  
- (E) AN ORGANIZATION CONDU CTING A RAFFLE MAY : 30 
-6 SENATE BILL 341   
+  (2) RECEIVE ANY OF THE P ROCEEDS OF THE RAFFL E FOR PERSONAL 
+USE OR BENEFIT . 
  
-  
-  (1) SET THE PRICE OF RAF FLE TICKETS ; AND 1 
+ (G) (1) A RAFFLE TICKET SOLD B Y AN ORGANIZATION IN  CONJUNCTION 
+WITH A PROFESSIONAL MAJOR LEAGUE BASEBALL GAME  PLAYED IN BALTIMORE 
+CITY: 
  
-  (2) AWARD PRIZES IN MERC HANDISE AND MONEY IN  ANY AMOUNT . 2 
+   (I) SHALL  MAY ONLY  BE SOLD USING ONLY  AGE–VERIFICATION 
+MEASURES TO ENSURE T HAT THE BUYER IS AT LEAST 18 YEARS OLD ; 
  
- (F) AN ORGANIZATION CONDU CTING A RAFFLE MAY N OT ALLOW AN 3 
-INDIVIDUAL OR GROUP OF INDIVIDUALS TO : 4 
+Ch. 372  2025 LAWS OF MARYLAND   
  
-  (1) BENEFIT FINANCIALLY FROM THE RAFFLE ; OR 5 
+– 6 –    (I) (II) MAY BE SOLD AND RECE IVED IN–PERSON OR  ON AN 
+ELECTRONIC DEVICE ON LY WITHIN THE GEOGRA PHICAL BOUNDARIES OF 
+BALTIMORE CITY DESCRIBED IN PARAGRA PH (2) OF THIS SUBSECTION ; AND  
  
-  (2) RECEIVE ANY OF THE P ROCEEDS OF THE RAFFL E FOR PERSONAL 6 
-USE OR BENEFIT . 7 
+   (II) (III) SHALL BE SOLD AND RE CEIVED NOT EARLIER T HAN 1 
+HOUR BEFORE THE OFFI CIAL START OF THE BA SEBALL GAME AND NOT LATER THAN 
+THE SEVENTH INNING O F THAT BASEBALL GAME . 
  
- (G) (1) A RAFFLE TICKET SOLD B Y AN ORGANIZATION IN  CONJUNCTION 8 
-WITH A PROFESSIONAL MAJOR LEAGUE BASEBALL GAME  PLAYED IN BALTIMORE 9 
-CITY: 10 
+  (2) AN ORGANIZATION CONDU CTING A RAFFLE UNDER  THIS SECTION : 
  
-   (I) SHALL  MAY ONLY  BE SOLD USING ONLY  AGE–VERIFICATION 11 
-MEASURES TO ENSURE T HAT THE BUYER IS AT LEAST 18 YEARS OLD ; 12 
+   (I) IS NOT SUBJECT TO § 12–108 OF THIS ARTICLE , PROVIDED 
+THAT AN INDIVIDUAL M AY NOT PURCHASE MORE  THAN $50 WORTH OF TICKETS OR 
+MAKE MORE THAN ONE CREDIT TRAN SACTION EACH DAY ; AND 
  
-   (I) (II) MAY BE SOLD AND RECE IVED IN–PERSON OR  ON AN 13 
-ELECTRONIC DEVICE ON LY WITHIN THE GEOGRA PHICAL BOUNDARIES OF 14 
-BALTIMORE CITY DESCRIBED IN PARAGRA PH (2) OF THIS SUBSECTION ; AND  15 
+   (II) SHALL USE A GEOFENCE  TO ENSURE THAT RAFFL E TICKETS 
+SOLD AND RECEIVED ON  AN ELECTRONIC DEVICE  ARE SOLD AND RECEIVE D WITHIN 
+THE GEOGRAPHICAL  BOUNDARIES OF  WITHIN AN AREA IN  BALTIMORE CITY THAT IS 
+BOUNDED AS FOLLOWS : FROM THE INTERSECTIO N OF WEST CAMDEN STREET AND 
+SOUTH HOWARD STREET , SOUTH ON SOUTH HOWARD STREET TO WEST CONWAY 
+STREET , WEST ON WEST CONWAY STREET TO SOUTH EUTAW STREET , SOUTH ON 
+SOUTH EUTAW STREET TO WEST LEE STREET , WEST ON WEST LEE STREET TO 
+RUSSELL STREET , NORTH ON RUSSELL STREET TO SOUTH PACA STREET , 
+NORTHEAST ON SOUTH PACA STREET TO WEST CAMDEN STREET , AND EAST ON 
+WEST CAMDEN STREET TO THE INTERSE CTION OF WEST CAMDEN STREET AND 
+SOUTH HOWARD STREET . 
  
-   (II) (III) SHALL BE SOLD AND RE CEIVED NOT EARLIER T HAN 1 16 
-HOUR BEFORE THE OFFI CIAL START OF THE BA SEBALL GAME AND NOT LATER THAN 17 
-THE SEVENTH INNING O F THAT BASEBALL GAME . 18 
+13–510. 
  
-  (2) AN ORGANIZATION CONDU CTING A RAFFLE UNDER  THIS SECTION : 19 
+ (a) A person may not knowingly c onduct or attempt to conduct a bazaar or raffle 
+in violation of §§ 13 –503 through 13 –505 AND 13–505.1  of this subtitle.  
  
-   (I) IS NOT SUBJECT TO § 12–108 OF THIS ARTICLE , PROVIDED 20 
-THAT AN INDIVIDUAL M AY NOT PURCHASE MORE  THAN $50 WORTH OF TICKETS OR 21 
-MAKE MORE THAN ONE CREDIT TRAN SACTION EACH DAY ; AND 22 
+ (b) A person who violates this section is guilty of a misdemeanor and on conviction 
+is subject to imprisonment not exceeding 1 year or  a fine not exceeding $1,000 or both.  
  
-   (II) SHALL USE A GEOFENCE  TO ENSURE THAT RAFFL E TICKETS 23 
-SOLD AND RECEIVED ON  AN ELECTRONIC DEVICE  ARE SOLD AND RECEIVE D WITHIN 24 
-THE GEOGRAPHICAL  BOUNDARIES OF  WITHIN AN AREA IN  BALTIMORE CITY THAT IS 25 
-BOUNDED AS FOLLOWS : FROM THE INTERSECTIO N OF WEST CAMDEN STREET AND 26 
-SOUTH HOWARD STREET , SOUTH ON SOUTH HOWARD STREET TO WEST CONWAY 27 
-STREET , WEST ON WEST CONWAY STREET TO SOUTH EUTAW STREET , SOUTH ON 28 
-SOUTH EUTAW STREET TO WEST LEE STREET , WEST ON WEST LEE STREET TO 29 
-RUSSELL STREET , NORTH ON RUSSELL STREET TO SOUTH PACA STREET , 30 
-NORTHEAST ON SOUTH PACA STREET TO WEST CAMDEN STREET , AND EAST ON 31 
- SENATE BILL 341  7 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June 
+1, 2025. It shall remain effective for a period of 3 years  1 year and 1 month  and, at the end 
+of May 31, 2028  June 30, 2026 , this Act, with n o further action required by the General 
+Assembly, shall be abrogated and of no further force and effect.  
  
- WEST CAMDEN STREET TO THE INTERSE CTION OF WEST CAMDEN STREET AND 1 
-SOUTH HOWARD STREET . 2 
- 
-13–510. 3 
- 
- (a) A person may not knowingly conduct or attempt to conduct a bazaar or raffle 4 
-in violation of §§ 13 –503 through 13 –505 AND 13–505.1  of this subtitle.  5 
- 
- (b) A person who violates this section is guilty of a misdemeanor and on conviction 6 
-is subject to imprisonment not exceeding 1 year or a fine not exceeding $1,000 or both.  7 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June 8 
-1, 2025. It shall remain effective for a period of 3 years  1 year and 1 month  and, at the end 9 
-of May 31, 2028  June 30, 202 6, this Act, with no further action required by the General 10 
-Assembly, shall be abrogated and of no further force and effect.  11 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
+Approved by the Governor, May 6, 2025.  

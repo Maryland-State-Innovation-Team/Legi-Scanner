@@ -1,469 +1,455 @@
+ WES MOORE, Governor  Ch. 433  
+ 
+– 1 – Chapter 433  
+(House Bill 719 ) 
  
+AN ACT concerning  
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0719*      
-HOUSE BILL 719  
-M1   5lr0347  
-    CF 5lr0348  
-By: Chair, Environment and Transportation Committee (By Request – 
-Departmental – Natural Resources)  
-Introduced and read first time: January 27, 2025  
-Assigned to: Environment and Transportation  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: February 27, 2025  
- 
-CHAPTER ______  
- 
-AN ACT concerning  1 
- 
-Natural Resources – State Boat Act  – Alterations  2 
- 
-FOR the purpose of altering the definition of “personal watercraft” and “personal flotation 3 
-device” for purposes of the State Boat Act; repealing the definition of “Class A vessel” 4 
-as it applies to the rental of livery vessels; repealing the definition of “personal 5 
-flotation device” as it applies to certain waterskiing restrictions; repealing certain 6 
-advertising and public hearing requirements for proposed regulations implementing 7 
-the State Boat Act; increasing the funding threshold  certai n funding thresholds  for 8 
-certain projects financed by the Waterway Improvement Fund; altering the fees for 9 
-manufacturer and dealer licenses, certificates of number, Maryland use stickers, and 10 
-the issuance of certificates of title, transfer of title, or dup licate or corrected 11 
-certificates of title; authorizing the owner of certain vessels to apply to the 12 
-Department of Natural Resources for a nonmotorized vessel decal; authorizing the 13 
-Department to establish or alter certain speed zones or restricted areas by  public 14 
-notice; altering the requirements for a personal flotation device worn by a child in 15 
-certain vessels; and generally relating to the State Boat Act.  16 
- 
-BY repealing and reenacting, without amendments,  17 
- Article – Natural Resources  18 
- Section 8 –701(a)  19 
- Annotated Code of Maryland  20 
- (2023 Replacement Volume and 2024 Supplement)  21 
+Natural Resources – State Boat Act – Alterations  
  
-BY repealing and reenacting, with amendments,  22 
-2 HOUSE BILL 719   
+FOR the purpose of altering the definition of “personal watercraft” and “personal flotation 
+device” for purposes of the State Boat Act; repealing the definition of “Class A vessel” 
+as it applies to the rental of livery vessels; repealing the definition of “personal 
+flotation device” as it applies to certain waterskiing restrictions; repealing certain 
+advertising and public hearing requirements for proposed regulations implementing 
+the State Boat Act; increasing the funding threshold  certain funding threshol ds for 
+certain projects financed by the Waterway Improvement Fund; altering the fees for 
+manufacturer and dealer licenses, certificates of number, Maryland use stickers, and 
+the issuance of certificates of title, transfer of title, or duplicate or correcte d 
+certificates of title; authorizing the owner of certain vessels to apply to the 
+Department of Natural Resources for a nonmotorized vessel decal; authorizing the 
+Department to establish or alter certain speed zones or restricted areas by public 
+notice; al tering the requirements for a personal flotation device worn by a child in 
+certain vessels; and generally relating to the State Boat Act.  
  
-  Article – Natural Resources  1 
-Section 8 –701(m), 8 –708(b), 8–709(b),  8–710(a) and (c), 8 –712(c), 8 –712.1(a) and (b), 2 
-8–712.3(a) and (b), 8–714(c), 8 –716(b) and (c), 8 –725(c), and 8 –743(a) and 3 
-(b)(1)  4 
- Annotated Code of Maryland  5 
- (2023 Replacement Volume and 2024 Supplement)  6 
+BY repealing and reenacting, without amendments,  
+ Article – Natural Resources  
+ Section 8 –701(a)  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-BY repealing  7 
- Article – Natural Resources  8 
- Section 8 –704(e)  9 
- Annotated Code of Maryland  10 
- (2023 Replacement Volume and 2024 Supplement)  11 
+BY repealing and reenacting, with amendments,  
+ Article – Natural Resources  
+Section 8 –701(m), 8 –708(b), 8–709(b),  8–710(a) and (c), 8 –712(c), 8 –712.1(a) and (b), 
+8–712.3(a) and (b), 8 –714(c), 8 –716(b)  and (c), 8 –725(c), and 8 –743(a) and 
+(b)(1)  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-BY adding to  12 
- Article – Natural Resources  13 
- Section 8 –712.4 and 8 –725.9  14 
- Annotated Code of Maryland  15 
- (2023 Replacement Volume and 2024 Supplement)  16 
+BY repealing  
+ Article – Natural Resources  
+ Section 8 –704(e)  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-BY renumbering  17 
- Article – Natural Resources  18 
- Section 8 –704(f) through (i)  19 
- to be Section 8 –704(e) through (h), respectively  20 
- Annotated Code of Maryland  21 
- (2023 Replacement Volume and 2024 Supplement)  22 
+BY adding to  
+ Article – Natural Resources  
+ Section 8 –712.4 and 8 –725.9  
+ Annotated Code of Maryland  
+Ch. 433  2025 LAWS OF MARYLAND   
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 23 
-That the Laws of Maryland read as follows:  24 
+– 2 –  (2023 Replacement Volume and 2024 Supplement)  
  
-Article – Natural Resources  25 
+BY renumbering  
+ Article – Natural Resources  
+ Section 8 –704(f) through (i)  
+ to be Section 8 –704(e) through (h) , respectively  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-8–701. 26 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
- (a) In this subtitle the following words have the meanings indicated.  27 
+Article – Natural Resources  
  
- (m) (1) “Personal watercraft” means a [Class A vessel that:  28 
+8–701. 
  
-  (1) Has an inboard motor which uses an internal combustion engine 29 
-powering a water jet pump as its primary source of motive propulsion;  30 
+ (a) In this subtitle  the following words have the meanings indicated.  
  
-  (2) Is designed for the operator and passenger to ride on the outside 31 
-surfaces of the vessel rather than inside the vessel;  32 
+ (m) (1) “Personal watercraft” means a [Class A vessel that:  
  
-  (3) Has the probability that the operator and passenger may, in the normal 33 
-course of use, fall overboard; a nd 34 
+  (1) Has an inboard motor which uses an internal combustion engine 
+powering a water jet pump as its primary source of motive propulsion;  
  
- HOUSE BILL 719  3 
+  (2) Is designed for the operator and passenger to ride on the outside 
+surfaces of the vessel rather than inside the vessel;  
  
-   (4) Is designed with no open load –carrying area which would retain water ] 1 
-VESSEL THAT IS : 2 
+  (3) Has the probability that the operator and passenger may, in the normal 
+course of use, fall overboard; and  
  
-   (I) PROPELLED BY A WATER –JET PUMP OR OTHER MA CHINERY 3 
-AS ITS PRIMARY SOURC E OF MOTIVE POWER ; AND 4 
+  (4) Is designed with no open load –carrying area which would retain water ] 
+VESSEL THAT IS : 
  
-   (II) DESIGNED TO BE OPERAT ED BY A PERSON SITTI NG, 5 
-STANDI NG, OR KNEELING ON THE V ESSEL . 6 
+   (I) PROPELLED BY A WATER –JET PUMP OR OTHER MA CHINERY 
+AS ITS PRIMARY SOURC E OF MOTIVE POWER ; AND 
  
-  (2) “PERSONAL WATERCRAFT ” DOES NOT INCLUDE A V ESSEL THAT IS 7 
-DESIGNED TO BE OPERA TED BY A PERSON SITT ING, STANDING , OR KNEELING IN THE 8 
-VESSEL’S HULL . 9 
+   (II) DESIGNED TO BE OPERAT ED BY A PERSON SITTI NG, 
+STANDING , OR KNEELING ON THE  VESSEL . 
  
-8–704. 10 
+  (2) “PERSONAL WATERCRAFT ” DOES NOT INCLUDE A V ESSEL THAT IS 
+DESIGNED TO BE OPERA TED BY A PERSON SITT ING, STANDING , OR KNEELING IN THE 
+VESSEL’S HULL . 
  
- [(e) Department regulations do not become effective unless adve rtised publicly in 11 
-at least 2 daily newspapers of general circulation and at least 1 weekly newspaper serving 12 
-the area or areas involved at least 45 days before the effective date. If 50 citizens of the 13 
-State file a petition with the Department at least 15  days prior to the effective date, the 14 
-Department shall conduct a public hearing on the proposed regulations. ] 15 
+8–704. 
  
-8–708. 16 
+ WES MOORE, Governor  Ch. 433  
  
- (b) (1) Except for the construction of pump –out stations for use by the general 17 
-boating public at public and private marinas, the gover ning body and the Waterway 18 
-Improvement Fund jointly shall finance projects to construct marine facilities beneficial to 19 
-the boating public.  20 
+– 3 –  [(e) Department regulations do not become effective unless advertised publicly in 
+at least 2 daily newspapers of general circulation and at least 1 weekly newspaper serving 
+the area or areas involved at least 45 days before the effective date. If 50 citizens of the 
+State file a petition with the Department at least 15 days prior to the eff ective date, the 
+Department shall conduct a public hearing on the proposed regulations. ] 
  
-  (2) Except as provided in paragraph (3)  PARAGRAPHS (3) AND (4) of this 21 
-subsection, the contribution of the Waterway Improvement Fund shall be limited to not 22 
-more than 50% of the cost of each project.  23 
+8–708. 
  
-  (3) The Waterway Improvement Fund may finance completely:  24 
+ (b) (1) Except for the construction of pump –out stations for use by the general 
+boating public at public and private marinas, the governing body and the Wate rway 
+Improvement Fund jointly shall finance projects to construct marine facilities beneficial to 
+the boating public.  
  
-   (i) 1. [Any] SUBJECT TO ITEM 2 OF THIS ITEM , ANY 25 
-construction project beneficial to the boating public [which ] THAT  costs $250,000  $500,000  26 
-or less, regardless of its location; AND  27 
+  (2) Except as provided in paragraph (3)  PARAGRAPHS (3) AND (4) of this 
+subsection, the contribution of the Waterway Improvement Fund sh all be limited to not 
+more than 50% of the cost of each project.  
  
-    2. ANY MARINA CONSTRUCTI ON PROJECT BENEFICIA L 28 
-TO THE GENERAL BOATI NG PUBLIC THAT COSTS  $1,000,000  OR LESS , REGARDLESS 29 
-OF ITS LOCATION ; 30 
+  (3) The Waterway Improvement Fund may finance completely:  
  
-   (ii) A project that involves the beneficial use of dredged material; 31 
-and 32 
+   (i) 1. [Any] SUBJECT TO ITEM 2 OF THIS ITEM , ANY 
+construction project beneficial to the boating public [which ] THAT  costs $250,000  $500,000  
+or less, regardless of its location; AND  
  
-4 HOUSE BILL 719   
+    2. ANY MARINA CONSTRUCTI ON PROJECT BENEFICIA L 
+TO THE GENERAL BOATI NG PUBLIC THAT COSTS  $1,000,000  OR LESS , REGARDLESS 
+OF ITS LOCATION ; 
  
-    (iii) Any water quality monitoring by the Department.  1 
+   (ii) A project that involves the beneficial use of dr edged material; 
+and 
  
-  (4) THE WATERWAY IMPROVEMENT FUND MAY FINANCE NOT MORE 2 
-THAN 50%  OF THE COSTS EXCEEDI NG: 3 
+   (iii) Any water quality monitoring by the Department.  
  
-   (I) $500, 000 FOR CONSTRUCTION PRO JECTS BENEFICIAL TO 4 
-THE BOATING PUBLIC ; AND  5 
+  (4) THE WATERWAY IMPROVEMENT FUND MAY FINANCE NOT MORE 
+THAN 50%  OF THE COSTS EXCEEDI NG: 
  
-   (II) $1,000,000  FOR MARINA CONSTRUCT ION PROJECTS 6 
-BENEFICIAL TO THE GE NERAL BOATING PUBLIC . 7 
+   (I) $500,000  FOR CONSTRUCTION PRO JECTS BENEFICIAL TO 
+THE BOATING PUBLIC ; AND  
  
-8–709. 8 
+   (II) $1,000,000  FOR MARINA CONSTRUCT ION PROJECTS 
+BENEFICIAL TO THE GE NERAL BOATING PUBLIC . 
  
- (b) Notwithstanding the provisions of subsection (a) of this section, in any fiscal 9 
-year the Department may expend from the Waterway Improvement Fund without 10 
-legislative approval a total sum of not more than [$225,000. Of this amount, a sum of not 11 
-more than $1 25,000 may be expended for small projects under § 8 –707(a)(3) and (4) of this 12 
-subtitle ] $350,000  IN OPERATING FUNDS F OR SMALL PROJECTS , subject to the 13 
-limitation that a single project of this kind may not exceed [$5,000 ] $25,000  in cost to the 14 
-Waterway Imp rovement Fund, and a sum of not more than $100,000 may be expended for 15 
-boating safety and education.  16 
+8–709. 
  
-8–710. 17 
+ (b) Notwithstanding the provisions of subsection (a) of this section, in any fiscal 
+year the Department may expend from the Waterway Improvement Fund without 
+Ch. 433  2025 LAWS OF MARYLAND   
  
- (a) A manufacturer or dealer may not conduct [his] business in the State unless 18 
-licensed as a manufacturer or dealer [pursuant to ] IN ACCORDANCE WITH  regulations 19 
-ADOPTED BY  the Department [adopts ]. 20 
+– 4 – legislative approval a total sum of not more than [$225,000. Of this amount, a sum of not 
+more than $1 25,000 may be expended for small projects under § 8 –707(a)(3) and (4) of this 
+subtitle ] $350,000  IN OPERATING FUNDS F OR SMALL PROJECTS , subject to the 
+limitation that a single project of this kind may not exceed [$5,000 ] $25,000  in cost to the 
+Waterway Imp rovement Fund, and a sum of not more than $100,000 may be expended for 
+boating safety and education.  
  
- (c) (1) Application for a manufacturer’s or dealer’s license is made on the form 21 
-the Department prescribes and contains the name and address of the applicant.  22 
+8–710. 
  
-  (2) If the applicant is a partnership, the application shall include the name 23 
-and address of each partner.  24 
+ (a) A manufacturer or dealer may not conduct [his] business in the State unless 
+licensed as a manufacturer or dealer [pursuant to ] IN ACCORDANCE WITH  regulations 
+ADOPTED BY  the Department [adopts ]. 
  
-  (3) If the applicant is a corporation, the application shall contain the names 25 
-of the principal officers of the corporation, the state of incorporation, the addresses of every 26 
-place whe re the business is conducted, the nature of the business, and any other 27 
-information the Department requires.  28 
+ (c) (1) Application for a manufacturer’s or dealer’s license is made on the form 
+the Department prescribes and contains the name and address of the applicant.  
  
-  (4) Every application shall be verified by oath or affirmation of the 29 
-applicant if an individual, or by the partner or officer if the applicant is a partnership or 30 
-corporation.  31 
+  (2) If the applicant is a partnership, the application shall include the name 
+and address of each partner.  
  
-  (5) (I) A license fee [fixed by the Department not to exceed $25 ] shall 32 
-accompany every application.  33 
+  (3) If the applicant is a corporation, the application shall contain the names 
+of the principal officers of the corporation, the state of incorporation, the addresses of every 
+place whe re the business is conducted, the nature of the business, and any other 
+information the Department requires.  
  
- HOUSE BILL 719  5 
+  (4) Every application shall be verified by oath or affirmation of the 
+applicant if an individual, or by the partner or officer if the applicant is a partnership or 
+corporation.  
  
-    (II) THE DEPARTMENT SHALL SET THE LICENSE FEE AT A N 1 
-AMOUNT NOT TO EXCEED  $50. 2 
+  (5) (I) A license fee [fixed by the Department not to exceed $25 ] shall 
+accompany every application.  
  
-8–712. 3 
+   (II) THE DEPARTMENT SHALL SET THE LICENSE FEE AT A N 
+AMOUNT NOT TO EXCEED  $50. 
  
- (c) (1) (I) Certificates of  number issued under this section shall be valid for 4 
-a period not to exceed 2 years.  5 
+8–712. 
  
-   (II) The owner of the vessel may apply every other year for renewal 6 
-of the certificate.  7 
+ (c) (1) (I) Certificates of  number issued under this section shall be valid for 
+a period not to exceed 2 years.  
  
-   (III) The renewed certificate shall expire on December 31 of the 8 
-calendar year following the year the certificate is issued. [The fee for a 2 –year certificate 9 
-for vessels is $24. Vessels 16 feet in length or less and equipped with a 7 1/2 horsepower 10 
-motor or less are exempt from this fee. The fee to replace a lost, destroyed, or  corrected 11 
-certificate is $2. ] 12 
+   (II) The owner of the vessel may apply every other year for renewal 
+of the certificate.  
  
-   (IV) The Department shall record any transaction or transfer of 13 
-numbered boats.  14 
+   (III) The renewed certificate shall expire on December 31 of the 
+calendar year following the year the certificate is issued. [The fee for a 2 –year certificate 
+for vessels is $24. Vessels 16 feet in length or less and equipped with a 7 1/2 horsepower 
+ WES MOORE, Governor  Ch. 433  
  
-   (V) The Department may record any amount of money owing on a 15 
-vessel required to be numbered at the time of sale.  16 
+– 5 – motor or less are exempt from this fee. The fee to replace a lost, destroyed, or  corrected 
+certificate is $2. ] 
  
-   (VI) The Department may not effect a transfer of ownership until the 17 
-amount of money owed as shown on the records of the Department is fully paid or recorded 18 
-on the new title.  19 
+   (IV) The Department shall record any transaction or transfer of 
+numbered boats.  
  
-   (VII) Any vessel that is required to be numbered under this section 20 
-that is exempt [prior to ] BEFORE  January 1, 1974, shall be exempt from payment of [this 21 
-title] THE EXCISE  tax IMPOSED UNDER § 8–716 OF THIS SUBTITLE . 22 
+   (V) The Department may record any amount of money owing on a 
+vessel required to be numbered at the time of sale.  
  
-  (2) EXCEPT AS PROVIDED IN  PARAGRAPH (3) OF THIS SUBSECTION , 23 
-THE FEE FOR : 24 
+   (VI) The Department may not effect a transfer of ownership until the 
+amount of money owed as shown on the records of the Department is fully paid or recorded 
+on the new title.  
  
-   (I) AN APPLICATION FOR A CERTIFICATE OF NUMBE R IS $70;  25 
-AND 26 
+   (VII) Any vessel that is required to be numbered under this section 
+that is exempt [prior to ] BEFORE  January 1, 1974, shall be exempt from payment of [this 
+title] THE EXCISE  tax IMPOSED UNDER § 8–716 OF THIS SUBTITLE . 
  
-   (II) A REPLACEMENT OR CORRE CTED CERTIFICATE OF NUMBER 27 
-IS $20. 28 
+  (2) EXCEPT AS PROVIDED IN  PARAGRAPH (3) OF THIS SUBSECTION , 
+THE FEE FOR : 
  
-  (3) Emergency rescue boats and fire boats that belong to fire departments 29 
-or rescue squads in Maryland:  30 
+   (I) AN APPLICATION FOR A CERTIFICATE OF NUMBE R IS $70;  
+AND 
  
-   (i) Shall be exempt from all registration fees , INCLUDING A FEE 31 
-FOR A CERT IFICATE OF NUMBER ; but  32 
-6 HOUSE BILL 719   
+   (II) A REPLACEMENT OR CORRE CTED CERTIFICATE OF NUMBER 
+IS $20. 
  
-  
-   (ii) Shall apply for a registration renewal every 3 2 years.  1 
+  (3) Emergency rescue boats and fire boats that belong to fire departments 
+or rescue squads in Maryland:  
  
-8–712.1.  2 
+   (i) Shall be exempt from all registration fees , INCLUDING A FEE 
+FOR A CERT IFICATE OF NUMBER ; but  
  
- (a) (1) An owner of a vessel that has a valid document issued by the [United 3 
-States ] U.S.  Coast Guard and that is used principally on the waters of the State for 4 
-pleasure shall apply to the Department for a Maryland use sticker.  5 
+   (ii) Shall apply for a registration renewal every 3 2 years.  
  
-  (2) The Department shall issue a Maryland use sticker to any person who 6 
-submits an application and pays a fee as required by subsection (b) of this section.  7 
+8–712.1.  
  
-  (3) The Maryland use sticker issued under this section shall be valid for a 8 
-period not to exceed 2 years expiring on December 31 of the calendar year following the 9 
-year the sticker is issued.  10 
+ (a) (1) An owner of a vessel that has a valid document issued by the [United 
+States ] U.S.  Coast Guard and that is used principally on the waters of the State for 
+pleasure shall apply to the Department for a Maryland use sticker.  
  
- (b) The owner o f the vessel shall:  11 
+  (2) The Department shall issue a Maryland use sticker to any person who 
+submits an application and pays a fee as required by subsection (b) of this section.  
  
-  (1) Submit an application to the Department on the form that the 12 
-Department requires and that is signed by every owner of the vessel; and  13 
+Ch. 433  2025 LAWS OF MARYLAND   
  
-  (2) Pay to the Department [an] THE FOLLOWING FEES : 14 
+– 6 –   (3) The Maryland use sticker issued under this section shall be valid for a 
+period not to exceed 2 years expiring on December 31 of the calendar year following the 
+year the sticker is issued.  
  
-   (I) AN application fee of [$10] $70 for the 2 –year sticker ; AND  15 
+ (b) The owner of the vessel shall:  
  
-   (II) A FEE OF $20 FOR A REPLACEMENT ST ICKER . 16 
+  (1) Submit an application to the Department on the form that the 
+Department requires and that is signed by every owner of the vessel; and  
  
-8–712.3.  17 
+  (2) Pay to the Department [an] THE FOLLOWING FEES : 
  
- (a) (1) In this section the following words have the meanings indicated.  18 
+   (I) AN application fee of [$10] $70 for the 2 –year sticker ; AND  
  
-  (2) “Livery vessel owner” means a person who engages in whole or in part 19 
-in the business o f renting, leasing, or chartering a [Class A ] vessel THAT IS LESS THAN 16 20 
-FEET IN LENGTH for a period of less than 24 hours.  21 
+   (II) A FEE OF $20 FOR A REPLACEMENT ST ICKER . 
  
-  (3) [“Class A vessel” means a motorboat that is less than 16 feet in length 22 
-as defined by the U.S. Coast Guard in 46 C.F.R. § 24 .10–17. 23 
+8–712.3.  
  
-  (4)] “Seaworthy condition” means the ability to withstand ordinary stress of 24 
-wind, waves, and other weather that the vessel might normally be expected to encounter.  25 
+ (a) (1) In this section the following words have the meanings indicated.  
  
- (b) A livery vessel owner or an agent or employee of the livery vessel owner m ay 26 
-not rent or offer for rent a [Class A ] vessel THAT IS LESS THAN 16 FEET IN LENGTH  to 27 
-be operated on the waters of the State unless:  28 
+  (2) “Livery vessel owner” means a person who engages in whole or in part 
+in the business of  renting, leasing, or chartering a [Class A ] vessel THAT IS LESS THAN 16 
+FEET IN LENGTH for a period of less than 24 hours.  
  
- HOUSE BILL 719  7 
+  (3) [“Class A vessel” means a motorboat that is less than 16 feet in length 
+as defined by the U.S. Coast Guard in 46 C.F.R. § 24. 10–17. 
  
-   (1) Each vessel is in seaworthy condition and equipped for the waters 1 
-where the vessel is intended to be used; and  2 
+  (4)] “Seaworthy condition” means the ability to withstand ordinary stress of 
+wind, waves, and other weather that the vessel might normally be expected to encounter.  
  
-  (2) The livery vessel owner or agent or employee of the livery vessel owner 3 
-possesses a boating safety certificate approved by the Department.  4 
+ (b) A livery vessel owner or an agent or employee of the livery vessel owner ma y 
+not rent or offer for rent a [Class A ] vessel THAT IS LESS THAN 16 FEET IN LENGTH  to 
+be operated on the waters of the State unless:  
  
-8–712.4.  5 
+  (1) Each vessel is in seaworthy condition and equipped for the waters 
+where the vessel is intended to be used; and  
  
- (A) (1) AN OWNER OF A VESSEL MAY APPLY TO THE DEPARTMENT FOR A 6 
-NONMOTORIZED VESSEL DECAL IF THE VESSE L IS: 7 
+  (2) The livery vessel owner or agent or employee of the livery vessel owner 
+possesses a boating safety certificate approved by the Department.  
  
-   (I) NOT EQUIPPED WITH PRO PULSION MACHINERY ; 8 
+8–712.4.  
  
-   (II) USED PRINCIPALLY ON T HE WATERS OF THE STATE ; AND 9 
+ (A) (1) AN OWNER OF A VESSEL MAY APPLY TO THE DEPARTMENT FOR A 
+NONMOTORIZED VESSEL DECAL IF THE VESSEL IS : 
  
-   (III) NOT SUBJECT TO THE RE QUIREMENTS OF § 8–712 OR §  10 
-8–712.1  OF THIS SUBTITLE . 11 
+   (I) NOT EQUIPPED WITH PRO PULSION MACHINERY ; 
+ WES MOORE, Governor  Ch. 433  
  
-  (2) THE OWNER SHALL APPLY  FOR A NONMOTORIZED  VESSEL DECAL 12 
-ON A FORM APPROVED B Y THE DEPARTMENT . 13 
+– 7 –  
+   (II) USED PRINCIPALLY ON T HE WATERS OF THE STATE ; AND 
  
- (B) A NONMOTORIZED VESSEL DECAL : 14 
+   (III) NOT SUBJECT TO THE RE QUIREMENTS OF § 8–712 OR §  
+8–712.1  OF THIS SUBTITLE . 
  
-  (1) IS VALID FOR A PERIOD  NOT TO EXCEED 2 YEARS ; AND 15 
+  (2) THE OWNER SHALL APPLY  FOR A NONMOTORIZED V ESSEL  DECAL 
+ON A FORM APPROVED B Y THE DEPARTMENT . 
  
-  (2) EXPIRES ON DECEMBER 31 OF THE CALENDAR YEAR  FOLLOWING 16 
-THE YEAR THE DECAL W AS ISSUED . 17 
+ (B) A NONMOTORIZED VESSEL DECAL : 
  
- (C) THE FEE FOR A N ONMOTORIZED VESSEL D ECAL IS $12. 18 
+  (1) IS VALID FOR A PERIOD  NOT TO EXCEED 2 YEARS ; AND 
  
- (D) THE NONMOTORIZED VESS EL DECAL SHALL BE DI SPLAYED ON THE 19 
-EXTERIOR OF THE VESS EL. 20 
+  (2) EXPIRES ON DECEMBER 31 OF THE CALENDAR YEAR  FOLLOWING 
+THE YEAR THE DECAL W AS ISSUED . 
  
- (E) WITHIN 30 DAYS AFTER THE SALE OR OTHER TRANSFER OF  A VESSEL 21 
-DISPLAYING A NONMOTO RIZED VESSEL DECAL U NDER THIS SECTION : 22 
+ (C) THE FEE FOR A NONMOTO RIZED VESSEL DECAL IS  $12. 
  
-  (1) THE T RANSFEROR SHALL GIVE  NOTICE OF THE TRANSF ER TO THE 23 
-DEPARTMENT ON A FORM THAT THE DEPARTMENT REQUIRES ; AND 24 
+ (D) THE NONMOTORIZED VESS EL DECAL SHALL BE DI SPLAYED ON THE 
+EXTERIOR OF THE VESS EL. 
  
-  (2) IF THE TRANSFEREE INT ENDS TO CONTINUE TO USE THE VESSEL 25 
-PRINCIPALLY ON THE W ATERS OF THE STATE , THE TRANSFEREE MAY S UBMIT AN 26 
-APPLICATION FOR A NONMOTORIZED VESSEL DECAL AND PAY THE FE E REQUIRED 27 
-UNDER SUBSECTION (C) OF THIS SECTION . 28 
+ (E) WITHIN 30 DAYS AFTER THE SALE OR OTHER TRANSFER OF  A VESSEL 
+DISPLAYING A NONMOTO RIZED VESSEL DECAL U NDER THIS SECTION : 
  
-8–714. 29 
-8 HOUSE BILL 719   
+  (1) THE TRANSFER OR SHALL GIVE NOTICE  OF THE TRANSFER TO T HE 
+DEPARTMENT ON A FORM THAT THE DEPARTMENT REQUIRES ; AND 
  
-  
- (c) (1) Each application for the manufacturer’s or dealer’s certificates of 1 
-number shall be on forms the Department approves and be accompanied by a fee of [$24] 2 
-$70.  3 
+  (2) IF THE TRANSFEREE INT ENDS TO CONTINUE TO USE THE VESSEL 
+PRINCIPALLY ON THE W ATERS OF THE STATE , THE TRANSFEREE MAY S UBMIT AN 
+APPLICATION FOR A NONMOTORIZED VESSEL DECAL AND PAY THE FE E REQUIRED 
+UNDER SUBSECTION (C) OF THIS SECTION . 
  
-  (2) The certificate of number issued under this section is valid for a period 4 
-not to exceed 2 years and shall expire on December 31 of the calendar year following the 5 
-year the certificate is issued.  6 
+8–714. 
  
-8–716. 7 
+ (c) (1) Each application for the manufacturer’s or dealer’s certificates of 
+number shall be on forms the Department approves and be accompanied by a fee of [$24] 
+$70.  
  
- (b) The Department shall charge a [$2] $20 fee to issue a certificate of title, a 8 
-transfer of title, or a duplicate or corrected certificate of title.  9 
+  (2) The certificate of number issued under this section is valid for a period 
+not to exceed 2 years and shall expire on December 31 of the calendar year following the 
+year the certificate is issued.  
  
- (c) (1) Subject to the limitation under paragraph (3) of this subsection and 10 
-except as provided in § 8 –715(d) of this subtitle and in subsections (e) and (f) of this section, 11 
-and in addition to the fees prescribed in subsection (b) of this section, an excise tax is levied 12 
-at the rate of 5% of the fair market value of the vessel on:  13 
+8–716. 
  
-   (i) The issuance of every  original certificate of title required for a 14 
-vessel under this subtitle;  15 
+Ch. 433  2025 LAWS OF MARYLAND   
  
-   (ii) The issuance of every subsequent certificate of title for the sale, 16 
-resale, or transfer of the vessel;  17 
+– 8 –  (b) The Department shall charge a  [$2] $20 fee to issue a certificate of title, a 
+transfer of title, or a duplicate or corrected certificate of title.  
  
-   (iii) The sale within the State of every other vessel; and  18 
+ (c) (1) Subject to the limitation under paragraph (3) of this subsection and 
+except as provided in § 8 –715(d) of this subtitle and in su bsections (e) and (f) of this section, 
+and in addition to the fees prescribed in subsection (b) of this section, an excise tax is levied 
+at the rate of 5% of the fair market value of the vessel on:  
  
-   (iv) The possession within the State of a vessel used or to be used 19 
-principally in the State.  20 
+   (i) The issuance of every original certificate of titl e required for a 
+vessel under this subtitle;  
  
-  (2) (I) Notwithstanding the provisions of this subsection, no tax is paid 21 
-on issuance of any certificate of title if the owner of the vessel for which a certifica te of title 22 
-is sought was the owner of the vessel [prior to ] BEFORE  June 1, 1965, or paid Maryland 23 
-sales and use tax on the vessel as required by law at the time of acquisition.  24 
+   (ii) The issuance of every subsequent certificate of title for the sale, 
+resale, or transfer of the vessel;  
  
-   (II) The Department may require the applicant for titling to submit 25 
-satisf actory proof that the applicant owned the vessel [prior to ] BEFORE  June 1, 1965.  26 
+   (iii) The sale within the State of every other vessel; and  
  
-  (3) (i) Subject to subparagraph (ii) of this paragraph, the excise tax 27 
-imposed under this subsection may not exceed $15,000 for any vessel.  28 
+   (iv) The possession within the S tate of a vessel used or to be used 
+principally in the State.  
  
-   (ii) The maximum amount of t he excise tax imposed for any vessel 29 
-as specified in subparagraph (i) of this paragraph shall be increased by $100 on:  30 
+  (2) (I) Notwithstanding the provisions of this subsection, no tax is paid 
+on issuance of any certificate of title if the owner of the vessel for which a certificate of title 
+is sought was the  owner of the vessel [prior to ] BEFORE  June 1, 1965, or paid Maryland 
+sales and use tax on the vessel as required by law at the time of acquisition.  
  
-    1. July 1, 2016; and  31 
+   (II) The Department may require the applicant for titling to submit 
+satisfactory proof that the applica nt owned the vessel [prior to ] BEFORE  June 1, 1965.  
  
- HOUSE BILL 719  9 
+  (3) (i) Subject to subparagraph (ii) of this paragraph, the excise tax 
+imposed under this subsection may not exceed $15,000 for any vessel.  
  
-     2. July 1 of each subsequent year.  1 
+   (ii) The maximum amount of the excise tax imposed for any  vessel 
+as specified in subparagraph (i) of this paragraph shall be increased by $100 on:  
  
-8–725. 2 
+    1. July 1, 2016; and  
  
- (c) [(1) In this subsection, “personal flotation device” includes:  3 
+    2. July 1 of each subsequent year.  
  
-   (i) A life jacket;  4 
+8–725. 
  
-   (ii) A life vest;  5 
+ (c) [(1) In this subsection, “personal flotation device” includes:  
  
-   (iii) A life preserver;  6 
+   (i) A life jacket;  
  
-   (iv) A barefoot wet suit; or  7 
+   (ii) A life vest;  
  
-   (v) A trick skiing wet suit.  8 
+   (iii) A life preserver;  
+ WES MOORE, Governor  Ch. 433  
  
-  (2)] A person who is in or over the waters of the State and is being towed 9 
-behind a vessel must wear a personal flotation device , A BAREFOOT WET SUIT , OR A 10 
-TRICK SKIING WET SUI T. 11 
+– 9 –  
+   (iv) A barefoot wet suit; or  
  
-8–725.9.  12 
+   (v) A trick skiing wet suit.  
  
- (A) NOTWITHSTANDING ANY O THER PROVISION OF TH IS TITLE , THE 13 
-DEPARTMENT MAY ESTABL ISH OR ALTER BY PUBL IC NOTICE : 14 
+  (2)] A person who is in or over the waters of the State and is being towed 
+behind a vessel must wear a personal flotation device , A BAREFOOT WET SUIT , OR A 
+TRICK SKIING WET SUI T. 
  
-  (1) IF THE DEPARTMENT DETERMINES  PUBLIC SAFETY IS AT RISK 15 
-AND IT IS CONTRARY T O THE PUBLIC INTERES T TO DELAY ACTION , A SPEED ZONE 16 
-NEAR : 17 
+8–725.9.  
  
-   (I) A CONSTRUCTION PROJECT  ON OR ADJACENT TO STATE 18 
-WATERS ; 19 
+ (A) NOTWITHSTANDING ANY O THER PROVISION OF TH IS TITLE , THE 
+DEPARTMENT MAY ESTABL ISH OR ALTER BY PUBL IC NOTICE : 
  
-   (II) A MARINE EVENT ; OR 20 
+  (1) IF THE DEPARTMENT DETERMINES  PUBLIC SAFETY IS AT RISK 
+AND IT IS CONTRARY T O THE  PUBLIC INTEREST TO D ELAY ACTION , A SPEED ZONE 
+NEAR : 
  
-   (III) AN ACCIDENT OR OTHER EMERGENT SITUATION ; OR 21 
+   (I) A CONSTRUCTION PROJECT  ON OR ADJACENT TO STATE 
+WATERS ; 
  
-  (2) AN AREA WHERE VESSEL MOVEMENT IS CONTROLL ED, LIMITED , 22 
-OR RESTRICTED AS DES IGNATED BY THE U.S.  COAST GUARD OR ANOTHER FEDE RAL 23 
-AGENCY . 24 
+   (II) A MARINE EVENT ; OR 
  
- (B) THE DEPARTMENT MAY ADOPT REGULATIONS TO IMPLE MENT THIS 25 
-SECTION . 26 
+   (III) AN ACCIDENT OR OTHER EMERGENT SITUATION ; OR 
  
-8–743. 27 
+  (2) AN AREA WHERE VESSEL MOVEMENT IS CONTROLL ED, LIMITE D, 
+OR RESTRICTED AS DES IGNATED BY THE U.S.  COAST GUARD OR ANOTHER FEDE RAL 
+AGENCY . 
  
-10 HOUSE BILL 719   
+ (B) THE DEPARTMENT MAY ADOPT REGULATIONS TO IMPLE MENT THIS 
+SECTION . 
  
-  (a) (1) In this section the following words have the meanings in dicated.  1 
+8–743. 
  
-  (2) “Child” means an individual who is under the age of 13 years.  2 
+ (a) (1) In this section the following words have the meanings indicated.  
  
-  (3) “Personal flotation device” means a [Type I, II, III, or V U.S. Coast 3 
-Guard approved personal flotation device that is:  4 
+  (2) “Child” means an individual who is under the age of 13 years.  
  
-   (i) The proper size for the child; and  5 
+  (3) “Personal flotation device” means a [Type I, II, III, or V U.S. Coast 
+Guard approved personal flotation device that is:  
  
-   (ii) In good and serviceable condition ] FLOTATION DEVICE THA T IS 6 
-APPROVED BY THE U.S.  COAST GUARD . 7 
+   (i) The proper size for the child; and  
  
-  (4) (i) “Vessel” means:  8 
+   (ii) In good and serviceable condi tion] FLOTATION DEVICE THA T IS 
+APPROVED BY THE U.S.  COAST GUARD . 
+Ch. 433  2025 LAWS OF MARYLAND   
  
-    1. A vessel used for recreational purposes; or  9 
+– 10 –  
+  (4) (i) “Vessel” means:  
  
-    2. A vessel leased, rented, or chartered for noncommercial 10 
-use. 11 
+    1. A vessel used for recreational purposes; or  
  
-   (ii) “Vessel” does not include a vessel carrying passengers for hire 12 
-under the command of an individual licensed by the U.S. Coast Guard to carry passengers 13 
-for hire, or a vessel displaying a valid seafood harvester’s license number while engaged in 14 
-the harvest ing of seafood for sale.  15 
+    2. A vessel leased, rented, or chartered for noncommercial 
+use. 
  
- (b) (1) A person may not operate or [permit ] ALLOW  the operation of a vessel 16 
-under 21 feet in length [while ] IF there is [present in the vessel ] a child [not] PRESENT IN 17 
-THE VESSEL UNLESS TH E CHILD IS  wearing a personal flotation  device [which ] THAT  is 18 
-[securely ]: 19 
+   (ii) “Vessel” does not include a vessel  carrying passengers for hire 
+under the command of an individual licensed by the U.S. Coast Guard to carry passengers 
+for hire, or a vessel displaying a valid seafood harvester’s license number while engaged in 
+the harvesting of seafood for sale.  
  
-   (I) PROPERLY SIZED FOR TH E CHILD ; 20 
+ (b) (1) A person may not operate or [permit ] ALLOW  the operation of a vessel 
+under 21 feet in length [while ] IF there is [present in the vessel ] a child [not] PRESENT IN 
+THE VESSEL UNLESS TH E CHILD IS  wearing a personal flotation device [which ] THAT  is 
+[securely ]: 
  
-   (II) IN GOOD AND SERVICEAB LE CONDITION ; AND 21 
+   (I) PROPERLY SIZED FOR TH E CHILD ; 
  
-   (III) SECURELY  and properly attached to the child.  22 
+   (II) IN GOOD AND SERVICEAB LE CONDITION ; AND 
  
- SECTION 2. AND BE IT FURTHER ENACTED, That Section(s) 8 –704(f) through 23 
-(i) of  Article – Natural Resources of the Annotated Code of Maryland be renumbered to be 24 
-Section(s) 8 –704(e) through (h), respectively.  25 
+   (III) SECURELY  and properly attached to the child.  
  
- SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 26 
-October 1, 2025.  27 
+ SECTION 2. AND BE IT FURTHER ENACTED, That Section(s) 8 –704(f) through 
+(i) of Article – Natural Resources of th e Annotated Code of Maryland be renumbered to be 
+Section(s) 8 –704(e) through (h), respectively.  
  
+ SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
+ 
+Approved by the Governor, May 13, 2025.  

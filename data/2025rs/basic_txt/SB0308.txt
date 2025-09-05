@@ -1,126 +1,104 @@
+ WES MOORE, Governor  Ch. 276  
  
+– 1 – Chapter 276  
+(Senate Bill 308 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *sb0308*      
-SENATE BILL 308  
-G1   5lr1406  
-      
-By: Senator Simonaire  Senators Simonaire, Brooks, and Kagan  
-Introduced and read first time: January 13, 2025  
-Assigned to: Education, Energy, and the Environment  
-Committee Report: Favorable with amendments  
-Senate action: Adopted  
-Read second time: February 25, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Election Law – Chief Election Judges – Party Affiliation  
  
-AN ACT concerning  1 
+FOR the purpose of requiring the election director of a local board of elections to designate 
+chief election judges from certain political parties to each polling place except under 
+certain circumstances; and generally relating to the party affiliation of chief election 
+judges.  
  
-Election Law – Chief Election Judges – Party Affiliation  2 
+BY repealing and reenacting, with amendments,  
+ Article – Election Law  
+Section 10 –201 
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of requiring the election director of a local board of elections to designate 3 
-chief election judges from certain political parties to each polling place except under 4 
-certain circumstances; and generally relating to the party affiliation of chief election 5 
-judges.  6 
+BY repealing and reenacting, without amendments,  
+ Article – Election  Law 
+Section 10 –203(a) and (b)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  7 
- Article – Election Law  8 
-Section 10 –201 9 
- Annotated Code of Maryland  10 
- (2022 Replacement Volume and 2024 Supplement)  11 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, without amendments,  12 
- Article – Election  Law 13 
-Section 10 –203(a) and (b)  14 
- Annotated Code of Maryland  15 
- (2022 Replacement Volume and 2024 Supplement)  16 
+Article – Election Law  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 17 
-That the Laws of Maryland read as follows:  18 
+10–201. 
  
-Article – Election Law  19 
+ (a) (1) (i) Except as provided in subparagraph (ii) of this paragraph, each 
+local board shall provide at least four election judges to be the staff for each polling place.  
  
-10–201. 20 
-2 SENATE BILL 308   
+   (ii) In a precinct with fewer than 200 registered voters, the local 
+board may provide tw o election judges for that precinct’s polling place.  
  
-  
- (a) (1) (i) Except as provided in subparagraph (ii) of this paragraph, each 1 
-local board shall provide at least four election judges to be the staff for each polling place.  2 
+  (2) An election judge shall be appointed in accordance with the 
+requirements of § 10 –203 of this subtitle.  
  
-   (ii) In a precinct with fewer than 200 registered voters, the local 3 
-board may provide tw o election judges for that precinct’s polling place.  4 
+ (b) (1) Except as provided in [paragraph ] PARAGRAPHS  (2) AND (3) of this 
+subsection, TO THE  EXTENT PRACTICABLE , each polling place shall have an equal 
+number of election judges , INCLUDING CHIEF JUDG ES DESIGNATED UNDER § 10–203 
+OF THIS SUBTITLE , from:  
  
-  (2) An election judge shall be appointed in accordance with the 5 
-requirements of § 10 –203 of this subtitle.  6 
+Ch. 276  2025 LAWS OF MARYLAND   
  
- (b) (1) Except as provided in [paragraph ] PARAGRAPHS  (2) AND (3) of this 7 
-subsection, TO THE  EXTENT PRACTICABLE , each polling place shall have an equal 8 
-number of election judges , INCLUDING CHIEF JUDG ES DESIGNATED UNDER § 10–203 9 
-OF THIS SUBTITLE , from:  10 
+– 2 –    (i) the majority party; and  
  
-   (i) the majority party; and  11 
+   (ii) the principal minority party.  
  
-   (ii) the principal minority party.  12 
+  (2) [(i)] If the total  number of election judges for a precinct is six or more:  
  
-  (2) [(i)] If the total  number of election judges for a precinct is six or more:  13 
+    [1.] (I) a local board may provide one or more election 
+judges who are not registered with either the majority party or principal minority political 
+party; and  
  
-    [1.] (I) a local board may provide one or more election 14 
-judges who are not registered with either the majority party or principal minority political 15 
-party; and  16 
+    [2.] (II) a local board may provide one or more election 
+judges who are minors.  
  
-    [2.] (II) a local board may provide one or more election 17 
-judges who are minors.  18 
+   [(ii) The number of election judges provided under this paragraph 
+may not exceed the lesser of:  
  
-   [(ii) The number of election judges provided under this paragraph 19 
-may not exceed the lesser of:  20 
+    1. the number of election judges who belong to the majority 
+party; or  
  
-    1. the number of election judges who belong to the majority 21 
-party; or  22 
+    2. the number of electio n judges who belong to the principal 
+minority party. ] 
  
-    2. the number of election judges who belong to the principal 23 
-minority party. ] 24 
+  (3) (I) THIS PARAGRAPH APPLIE S IF AN ELECTION DIR ECTOR IS 
+UNABLE TO DESIGNATE CHIEF JUDGES FOR A P OLLING PLACE AT LEAS T 45 DAYS 
+BEFORE THE START OF EARLY VOTING . 
  
-  (3) (I) THIS PARAGRAPH APPLIE S IF AN ELECTION DIR ECTOR IS 25 
-UNABLE TO DESIGNATE CHIEF JUDGES FOR A P OLLING PLACE AT LEAS T 45 DAYS 26 
-BEFORE THE START OF EARLY VOTING . 27 
+   (II) IF AN ELECTION DIRECT OR DESIGNATING TWO CHIE F 
+JUDGES FOR A POLLING  PLACE UNDER § 10–203 OF THIS SUBTITLE IS UNABLE TO 
+DESIGNATE THE CHIEF JUDGES IN ACCORDANCE  WITH PARAGRAPH (1) OF THIS 
+SUBSECTION , AN ELECTION DIRECTOR  SHALL DESIGNATE : 
  
-   (II) IF AN ELECTION DIRECT OR DESIGNATING TWO C HIEF 28 
-JUDGES FOR A POLLING  PLACE UNDER § 10–203 OF THIS SUBTITLE IS UNABLE TO 29 
-DESIGNATE THE CHIEF JUDGES IN ACCORDANCE  WITH PARAGRAPH (1) OF THIS 30 
-SUBSECTION , AN ELECTION DIRECTOR  SHALL DESIGNATE : 31 
+    1. ONE CHIEF JUDGE FROM  THE MAJORITY PA RTY OR 
+THE PRINCIPAL MINORI TY POLITICAL PARTY ; AND 
  
- SENATE BILL 308  3 
+    2. ONE CHIEF JUDGE WHO IS NOT REGISTERED WI TH 
+EITHER THE MAJORITY PARTY OR THE PRINCIP AL MINORITY POLITICA L PARTY .  
  
-     1. ONE CHIEF JUDGE FROM  THE MAJORITY  PARTY OR 1 
-THE PRINCIPAL MINORI TY POLITICAL PARTY ; AND 2 
+10–203. 
  
-    2. ONE CHIEF JUDGE WHO IS NOT REGISTERED WI TH 3 
-EITHER THE MAJORITY PARTY OR THE PRINCIP AL MINORITY POLITICA L PARTY .  4 
+ (a) The election director, with the approval of the local board, shall ap point the 
+election judges for each polling place for a term that begins on the Tuesday that is 13 weeks 
+before each statewide primary election.  
  
-10–203. 5 
+ (b) One or two election judges in each precinct shall:  
  
- (a) The election director, with the approval of the local board, shall  appoint the 6 
-election judges for each polling place for a term that begins on the Tuesday that is 13 weeks 7 
-before each statewide primary election.  8 
+ WES MOORE, Governor  Ch. 276  
  
- (b) One or two election judges in each precinct shall:  9 
+– 3 –   (1) be designated chief judge; and  
  
-  (1) be designated chief judge; and  10 
+  (2) supervise the staff at the polling place.  
  
-  (2) supervi se the staff at the polling place.  11 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 12 
-October 1, 2025.  13 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
+Approved by the Governor, May 6, 2025.  

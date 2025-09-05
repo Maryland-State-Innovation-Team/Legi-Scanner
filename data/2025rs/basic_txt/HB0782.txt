@@ -1,133 +1,108 @@
+ WES MOORE, Governor  Ch. 244  
  
+– 1 – Chapter 244  
+(House Bill 782 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW. 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.  
-         Italics indicate opposite chamber/conference committee amendments.             *hb0782*      
-HOUSE BILL 782  
-F1   (5lr2969 ) 
-ENROLLED BILL  
-— Ways and Means/Education, Energy, and the Environment  — 
-Introduced by Delegate Atterbeary  Delegates Atterbeary, Ebersole, Fair, Griffith, 
-Hornberger, R.  Long, Miller, Mireku –North, Patterson, Roberts, Vogel, 
-Wells, Wilkins, Wims, Wu, and Young  
+AN ACT concerning  
  
-Read and Examined by Proofreaders:  
+Study on Detecting Deadly Weapons in Public Middle and High Schools  
  
-_______________________________________________  
-Proofreader.  
-________________________ _______________________  
-Proofreader.  
+FOR the purpose of requiring the State Department of Education  Maryland Center for 
+School Safety  to study how best to detect deadly weapons in public middle and high 
+schools and how best to rapidly report the detection of weapons to a law enforcement 
+agency; requiring the Maryland Center for School Safety to  request any available 
+assessment of the technologies evaluated under this Act;  and generally relating to a 
+study on detecting deadly weapons in public middle and high schools.  
  
-Sealed with the Great Seal and presented to the Governor, for his approval this  
-  
-_______ day of _______________ at ________________________ o’clock, ________M.  
-  
-______________________________________________  
-Speaker .  
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That:  
  
-CHAPTER ______  
+ (a) The State Department of Education  Maryland Center for School Safety  shall 
+study how best to:  
  
-AN ACT concerning  1 
+  (1) detect deadly weapons on public middle and high school properties; and  
  
-Study on Detecting Deadly Weapons in Public Middle and High Schools  2 
+  (2) have schools rapidly report the detection of a deadly weapon to a law 
+enforcement agency.  
  
-FOR the purpose of requiring the State Department of Education  Maryland Center for 3 
-School Safety  to study how best to detect deadly weapons in public middle and high 4 
-schools and how best to rapidly report the detection of weapons to a law enforcement 5 
-agency; requiring the Maryland Center for School Safety to request any available 6 
-assessment of the te chnologies evaluated under this Act;  and generally relating to a 7 
-study on detecting deadly weapons in public middle and high schools.  8 
+ (b) (1) The study required under this section shall include a comprehensive 
+audit  evaluation  of the current security infrastructure used in each public school system in 
+the State.  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 9 
-That:  10 
+  (2) The audit  evaluation  shall include an evaluatio n of meetings with 
+members of each local school system to assess : 
  
-2 HOUSE BILL 782   
+   (i) physical and technological security measures currently in use; 
+and 
  
-  (a) The State Department of Education  Maryland C enter for School Safety  shall 1 
-study how best to:  2 
+   (ii) any gaps or areas that require improvement within the current 
+security system.  
  
-  (1) detect deadly weapons on public middle and high school properties; and  3 
+  (3) The Center shall bui ld on information collected as part of regular safety 
+evaluations and other reports collected under § 7 –1510 of the Education Article in 
+conducting its evaluation.  
  
-  (2) have schools rapidly report the detection of a deadly weapon to a law 4 
-enforcement agency.  5 
+  (4) Information collected as part of an evaluation is not a public record and 
+shall be pr otected in the same manner as records covered by § 4 –314.1 of the General 
+Provisions Article.  
  
- (b) (1) The study required u nder this section shall include a comprehensive 6 
-audit  evaluation  of the current security infrastructure used in each public school system in 7 
-the State.  8 
+Ch. 244  2025 LAWS OF MARYLAND   
  
-  (2) The audit  evaluation  shall include an evaluation of  meetings with 9 
-members of each local school sy stem to assess : 10 
+– 2 –  (c) The study shall, at minimum, include an evaluation of:  
  
-   (i) physical and technological security measures currently in use; 11 
-and 12 
+  (1) any widely accepted  available methods not currently used by the public 
+school systems in the S tate and the feasibility of using those methods to help fill gaps or 
+make improvements in the security system identified in the comprehensive audit  
+evaluation ; 
  
-   (ii) any gaps or areas that require improvement within the current 13 
-security system.  14 
+  (2) how the current security system could best be adapted to achieve better 
+detection of deadly weapons and quicker reporting to law enforcement agencies when 
+deadly weapons have been detected;  
  
-  (3) The Center shall build on information collected as part of regular safety 15 
-evaluations and other reports collected under § 7 –1510 of the Education Article in 16 
-conducting its evaluation.  17 
+  (3) software that uses artificial intelligence to identify deadly weapons, and 
+the necessary steps to ensure that the software works effectively, in cluding integration  
+used for school safety and how it can best be integrated effectively  with security cameras 
+and other currently used safety measures;  
  
-  (4) Information collected as part of an evaluation is not a public record and 18 
-shall be protected in the same manner as records covered b y § 4 –314.1 of the General 19 
-Provisions Article.  20 
+  (4) an increased use of security cameras in public middle and high schools 
+and their ideal placement ; and  
  
- (c) The study shall, at minimum, include an evaluation of:  21 
+  (5) an increased use of metal detectors, including handheld metal 
+detectors, in public middle and high school entrances.  
  
-  (1) any widely accepted  available methods not currently used by the public 22 
-school systems in the State and the feasibility of using those methods to help fill gaps or 23 
-make improvements in the security system identified in the comprehensive audit  24 
-evaluation ; 25 
+ (d) The Center shall request any available assessment of technologies evaluated 
+under this Act that analyzes the technology’s:  
  
-  (2) how the curren t security system could best be adapted to achieve better 26 
-detection of deadly weapons and quicker reporting to law enforcement agencies when 27 
-deadly weapons have been detected;  28 
+  (1) efficacy;  
  
-  (3) software that uses artificial intelligence to identify deadly weapons, an d 29 
-the necessary steps to ensure that the software works effectively, including integration  30 
-used for school safety and how it can best be integrated effectively  with security cameras 31 
-and other currently used safety measures;  32 
+  (2) bias;  
  
-  (4) an increased use of secur ity cameras in public middle and high schools 33 
-and their ideal placement; and  34 
- HOUSE BILL 782  3 
+  (3) data ownership;  
  
-  
-  (5) an increased use of metal detectors, including handheld metal 1 
-detectors, in public middle and high school entrances.  2 
+  (4) privacy;  
  
- (d) The Center shall request any available assessment  of technologies evaluated 3 
-under this Act that analyzes the technology’s:  4 
+  (5) scope of use; and  
  
-  (1) efficacy;  5 
+  (6) risk management.  
  
-  (2) bias;  6 
+ (e) (1) On or before December 1, 2025, in a manner that does not jeopardize 
+school safety, the State Department of Education  Maryland Center for School Safety  shall 
+issue an interim  report, in accordance with § 2 –1257 of the State Government Article, on 
+the findings of its study to the President of the Senate,  the Speaker of the House , the Senate 
+Committee on Education , Energy, and the Environment,  and the House Ways and Means 
+Committee.  
  
-  (3) data ownership;  7 
+  (2) On or before December 1, 2026, in a manner that does not jeopardize 
+school safety, the Maryland Center for School Safety shall issue a final report, in accordance 
+ WES MOORE, Governor  Ch. 244  
  
-  (4) privacy;  8 
+– 3 – with § 2–1257 o f the State Government Article, on the findings of its study to the President 
+of the Senate, the Speaker of the House, the Senate Committee on Education, Energy, and 
+the Environment, and the House Ways and Means Committee.  
  
-  (5) scope of use; and  9 
+ SECTION 2. AND BE IT FURTHER EN ACTED, That this Act shall take effect June 
+1, 2025. It shall remain effective for a period of 1 year  2 years  and 1 month and, at the end 
+of June 30, 2026  2027 , this Act, with no further action required by the General Assembly, 
+shall be abrogated and of no  further force and effect.  
  
-  (6) risk management.  10 
- 
- (e) (1) On or before December 1, 2025, in a manner that does not jeopardize 11 
-school safety, the State Department of Education  Maryland Center for School Safety  shall 12 
-issue an interim  report, in accordance with § 2 –1257 of the State Government Article, on 13 
-the findin gs of its study to the President of the Senate,  the Speaker of the House , the Senate 14 
-Committee on Education, Energy, and the Environment,  and the House Ways and Means 15 
-Committee.  16 
- 
-  (2) On or before December 1, 2026, in a manner that does not jeopardize 17 
-school safety, the Maryland Center for School Safety shall issue a final report, in accordance 18 
-with § 2 –1257 of the State Government Article, on the findings of its study to the President 19 
-of the Senate, the Speaker of the House, the Senate Committee on Educat ion, Energy, and 20 
-the Environment, and the House Ways and Means Committee.  21 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June 22 
-1, 2025. It shall remain effective for a period of 1 year  2 years  and 1 month and, at the end 23 
-of June 30,  2026  2027 , this Act, with no further action required by the General Assembly, 24 
-shall be abrogated and of no further force and effect.  25 
+Approved by the Governor, May 6, 2025.  

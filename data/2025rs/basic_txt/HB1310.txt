@@ -1,543 +1,507 @@
+ WES MOORE, Governor  Ch. 705  
  
+– 1 – Chapter 705  
+(House Bill 1310 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTING LA W. 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.  
-         Italics indicate opposite chamber/conference committee amendments.             *hb1310*      
-HOUSE BILL 1310  
-J1   (5lr2600 ) 
-ENROLLED BILL  
-— Health and Government Operations/Finance  — 
-Introduced by Delegate Bhandari  
+AN ACT concerning  
  
-Read and Examined by Proofreaders:  
+Prescription Drug Repository Program – Out–of–State Pharmacies  Revisions  
  
-_______________________________________________  
-Proofreader.  
-_______________________________________________  
-Proofreader.  
+FOR the purpose of defining “licensed pharmacy” for the  purpose of allowing pharmacies 
+licensed in another state to be designated by the State Board of Pharmacy as a 
+repository under the Prescription Drug Repository Program  altering the Prescription 
+Drug Repository Program, including by allowing certain entiti es located in another 
+state to participate in the Program as drop –off sites and repositories, including  
+over–the–counter drugs under the Program, and altering the individuals who are 
+eligible to receive drugs or medical supplies under the Program; alterin g the persons 
+for whom and the activities with respect to which certain immunity is provided under 
+the Program ; and generally relating to the Prescription Drug Repository Program.  
  
-Sealed with the Great Seal and presented to the Governor, for his approval this  
-  
-_______ day of _______________ at _________________ _______ o’clock, ________M.  
-  
-______________________________________________  
-Speaker .  
+BY repealing and reenacting, with amendments,  
+ Article – Health – General  
+Section 15 –601 through 15 –609 
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-CHAPTER ______  
+BY repealing and reenacting, without amendments,  
+ Article – Health – General  
+Section 15 –605, 15 –607, and 15 –609 
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-AN ACT concerning  1 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-Prescription Drug Repository Program – Out–of–State Pharmacies  Revisions  2 
+Article – Health – General  
  
-FOR the purpose of defining “licensed pharmacy” for the  purpose of allowing pharmacies 3 
-licensed in another state to be designated by the State Board of Pharmacy as a 4 
-repository under the Prescription Drug Repository Program  altering the Prescription 5 
-Drug Repository Program, including by allowing certain entiti es located in another 6 
-state to participate in the Program as drop –off sites and repositories, including  7 
-over–the–counter drugs under the Program, and altering the individuals who are 8 
-eligible to receive drugs or medical supplies under the Program; alterin g the persons 9 
-for whom and the activities with respect to which certain immunity is provided under 10 
-the Program ; and generally relating to the Prescription Drug Repository Program.  11 
+15–601. 
  
-BY repealing and reenacting, with amendments,  12 
- Article – Health – General  13 
-Section 15 –601 through 15 –609 14 
-2 HOUSE BILL 1310   
+ (a) In this subtitle the following words have the meanings indicated.  
  
-  Annotated Code of Maryland  1 
- (2023 Replacement Volume and 2024 Supplement)  2 
+ (b) “Board” means the State Board of Pharmacy.  
  
-BY repealing and reenacting, without amendments,  3 
- Article – Health – General  4 
-Section 15 –605, 15 –607, and 15 –609 5 
- Annotated Code of Maryland  6 
- (2023 Re placement Volume and 2024 Supplement)  7 
+ (c) “DISPENSE ” MEANS TO PROVIDE : 
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 8 
-That the Laws of Maryland read as follows:  9 
+  (1) A PRESCRIPTION DRUG OR  MEDICAL SUPPLY IN AC CORDANCE 
+WITH A PRESCRIPTION ; OR 
  
-Article – Health – General  10 
+Ch. 705  2025 LAWS OF MARYLAND   
  
-15–601. 11 
+– 2 –   (2) AN OVER–THE–COUNTER DRUG OR MEDI CAL SUPPLY . 
  
- (a) In this subtitle the following words have the meanings indicated.  12 
+ (D) “Drop –off site” means a pharmacy or, other health care facility , OR OTHER 
+ENTITY PARTICIPATING  IN A DRUG DONATION O R REPOSITORY PROGRAM  AND  
+designated by the Board that:  
  
- (b) “Board” means the State Board of Pharmacy.  13 
+  (1) Has voluntarily agreed to accept donated prescription drugs ,  
+OVER–THE–COUNTER DRUGS , or medical supplies; and 
  
- (c) “DISPENSE ” MEANS TO PROVIDE : 14 
+  (2) IS LOCATED WITHIN THE  STATE OR IN ANOTHER S TATE ; AND  
  
-  (1) A PRESCRIPTION DRUG OR  MEDICAL SUPPLY IN AC CORDANCE 15 
-WITH A PRESCRIPTION ; OR 16 
+  (3) Does not have a final disciplinary order issued against it by a health 
+occupations board.  
  
-  (2) AN OVER–THE–COUNTER DRUG OR MEDI CAL SUPPLY . 17 
+ (D) “LICENSED PHARMACY ” MEANS A PHARMACY LIC ENSED BY THE BOARD  
+OR A PHARMACY LICENSED IN ANOTHER STATE . 
  
- (D) “Drop –off site” means a pharmacy or, other health care facility , OR OTHER 18 
-ENTITY PARTICIPATING  IN A DRUG DONATION O R REPOSITORY PROGRAM  AND  19 
-designated by the Board that:  20 
+ [(d)] (E) “ELIGIBLE PATIENT ” MEANS AN INDIVIDUAL WHO, THROUGH 
+SELF–ATTESTATION , IS INDIGENT , UNINSURED , UNDERINSURED , OR ENROLLED IN A 
+PUBLIC HEALTH BENEFI TS PROGRAM . 
  
-  (1) Has voluntarily agreed to accept donated prescription drugs ,  21 
-OVER–THE–COUNTER DRUGS , or medical supplies; and 22 
+ (F) “Program” means the Prescription Drug Repository Program.  
  
-  (2) IS LOCATED WITHIN THE  STATE OR IN ANOTHER S TATE ; AND  23 
+ [(e)] (F) (G) “Repository” means a licensed pharmacy that:  
  
-  (3) Does not have a final disciplinary order issued against it by a health 24 
-occupations board.  25 
+  (1) Does  IF THE LICENSED PHARM ACY IS LOCATED IN TH E STATE , 
+DOES  not have a final disciplinary order issued against it by the Board of Pharmacy OR, 
+FOR AN OUT –OF–STATE LICENSED PHARMACY , THE APPLICABLE  REGULATORY 
+AUTHORITY ; 
  
- (D) “LICENSED PHARMACY ” MEANS A PHARMACY LIC ENSED BY THE BOARD  26 
-OR A PHARMACY LICENS ED IN ANOTHER STATE . 27 
+  (2) Has voluntarily agreed to participate in the Program; and 
  
- [(d)] (E) “ELIGIBLE PATIENT ” MEANS AN INDIVIDUAL WHO, THROUGH 28 
-SELF–ATTESTATION , IS INDIGENT , UNINSURED , UNDERINSURED , OR ENROLLED IN A 29 
-PUBLIC HEALTH BENEFI TS PROGRAM . 30 
- HOUSE BILL 1310  3 
+  (3) IS LOCATED IN THE STATE OR IN ANOTHER S TATE ; AND  
  
-  
- (F) “Program” means the Prescription Drug Repository Program.  1 
+  (4) Has been approved by the Board to:  
  
- [(e)] (F) (G) “Repository” means a licensed pharmacy that:  2 
+   (i) Accept donated prescription d rugs, OVER–THE–COUNTER 
+DRUGS , or medical supplies from a designated drop –off site;  
  
-  (1) Does  IF THE LICENSED PHARM ACY IS LOCATED IN TH E STATE , 3 
-DOES  not have a final disciplinary order issued against it by the Board of Pharmacy OR, 4 
-FOR AN OUT –OF–STATE LICENSED PHARM ACY, THE APPLICABLE  REGULAT ORY 5 
-AUTHORITY ; 6 
+   (ii) Dispense the donated prescription drugs , OVER–THE–COUNTER 
+DRUGS , or medical supplies to needy individuals  ELIGIBLE PATIENTS ; or 
  
-  (2) Has voluntarily agreed to participate in the Program; and 7 
+   (iii) Dispose of prescription drugs , OVER–THE–COUNTER DRUGS , or 
+medical supplies not accepted for dispensing to needy individuals  ELIGIBLE PATIENTS . 
+ WES MOORE, Governor  Ch. 705  
  
-  (3) IS LOCATED IN THE STATE OR IN ANOTHER S TATE ; AND  8 
+– 3 –  
+ (H) “TAMPER–EVIDENT PACKAGING ” MEANS A PACKAGING SY STEM THAT : 
  
-  (4) Has been approved by the Board to:  9 
+  (1) MAY INVOLVE AN IMMEDI ATE–CONTAINER AND CLOSUR E SYSTEM , 
+SECONDARY –CONTAINER OR CARTON S YSTEM , TERTIARY –CONTAINER SYSTEM , OR 
+OTHER COMBINATION OF  SYSTEMS INTENDED TO PROVIDE A VISUAL IND ICATION OF 
+PACKAGE INTEGRITY ; 
  
-   (i) Accept donated prescription drugs , OVER–THE–COUNTER 10 
-DRUGS , or medical supplies from a designated drop –off site;  11 
+  (2) MAY CONTAIN UNIT –DOSE OR MULTI –DOSE CONTENTS ; AND  
  
-   (ii) Dispense the donated prescription drugs , OVER–THE–COUNTER 12 
-DRUGS , or medical supplies to needy individuals  ELIGIBLE PATIENTS ; or 13 
+  (3) HAS ONE OR MORE INDIC ATORS OR BARRIERS TO  ENTRY THAT : 
  
-   (iii) Dispose of prescription drugs , OVER–THE–COUNTER DRUGS , or 14 
-medical supplies not accepted for dispensing to needy individuals  ELIGIBLE PATIENTS . 15 
+   (I) IF BREACHED OR MISSIN G, CAN REASONABLY BE EX PECTED 
+TO PROVIDE VISIBLE E VIDENCE TO CONSUMERS  THAT TAMPERING HAS O CCURRED ; 
+AND  
  
- (H) “TAMPER–EVIDENT PACKAGING ” MEANS A PACKAGING SY STEM THAT : 16 
+   (II) IF HANDLED IN A REASO NABLE MANNER DURING 
+MANUFACTURE , DISTRIBUTION , OR RETAIL DISPLAY , IS DESIGNED TO REMAIN 
+INTACT . 
  
-  (1) MAY INVOLVE AN IMMEDI ATE–CONTAINER AND CLOSUR E SYSTEM , 17 
-SECONDARY –CONTAINER OR CARTON SYSTEM , TER TIARY–CONTAINER SYSTEM , OR 18 
-OTHER COMBINATION OF  SYSTEMS INTENDED TO PROVIDE A VISUAL IND ICATION OF 19 
-PACKAGE INTEGRITY ; 20 
+15–602. 
  
-  (2) MAY CONTAIN UNIT –DOSE OR MULTI –DOSE CONTENTS ; AND  21 
+ (a) There is a Prescription Drug Repository Program regulated by the Board.  
  
-  (3) HAS ONE OR MORE INDIC ATORS OR BARRIERS TO  ENTRY THAT : 22 
+ (b) The purpose of the Program is to:  
  
-   (I) IF BREACHED OR MISSING , CAN REASONABLY BE EX PECTED 23 
-TO PROVIDE VISIBLE E VIDENCE TO CONSUMERS  THAT TAMPERING HAS O CCURRED ; 24 
-AND  25 
+  (1) Accept prescription drugs , OVER–THE–COUNTER DRUGS , and medical 
+supplies donated for the purpose of dispensi ng to [needy individuals ] ELIGIBLE PATIENTS ; 
+and 
  
-   (II) IF HANDLED IN A REASO NABLE MANNER DURING 26 
-MANUFACTURE , DISTRIBUTION , OR RETAIL DISPLAY , IS DESIGNED TO REMAI N 27 
-INTACT . 28 
+  (2) Accept prescription drugs , OVER–THE–COUNTER DRUGS , and medical 
+supplies returned to a pharmacy for the purpose of proper disposal.  
  
-4 HOUSE BILL 1310   
+15–603. 
  
- 15–602. 1 
+ (a) Except as provided in subsection (b) of this section, the Program may accept for 
+the purpose of dispensing only:  
  
- (a) There is a Prescription Drug Repository Program regulated by the Board.  2 
+  (1) Prescription drugs AND OVER –THE–COUNTER DRUGS in their 
+original unopened, sealed, and tamper –evident [unit dose ] packaging , INCLUDING DRUGS 
+THAT HAVE BEEN PACKA GED BY A MANUFACTURE R OR HAVE BEEN REPACKAGED BY 
+AN ENTITY AUTHORIZED  TO REPACKAGE DRUGS I N THE STATE IN WHICH  THE ENTITY 
+IS LOCATED ; and  
  
- (b) The purpose of the Program is to:  3 
+  (2) Medical supplies in their original unopened and sealed packaging.  
+Ch. 705  2025 LAWS OF MARYLAND   
  
-  (1) Accept prescription drugs , OVER–THE–COUNTER DRUGS , and medical 4 
-supplies donated for the purpose of dispensing to [needy individuals ] ELIGIB LE PATIENTS ; 5 
-and 6 
+– 4 –  
+ (b) The Program may accept and dispense prescription drugs AND  
+OVER–THE–COUNTER DRUGS  packaged in single unit doses when the outside packaging 
+is opened if the single unit dose packaging is undisturbed.  
  
-  (2) Accept prescription drugs , OVER–THE–COUNTER DRUGS , and medical 7 
-supplies returned to a pharmacy for the purpose of proper disposal.  8 
+ (c) (1) The Program may not accept prescription drugs , OVER–THE–COUNTER 
+DRUGS , or medical supplies for dispensing that:  
  
-15–603. 9 
+  [(1)] (I) [Bear] EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS 
+SUBSECTION , BEAR  an expiration date that is less than 90 days from the date the drug is 
+donated;  
  
- (a) Except as provided in subsection (b) of this section, the Program may accept for 10 
-the purpose of dispensing only:  11 
+  [(2)] (II) May be adulterated, according to the standards of § 21 –216 of this 
+article;  or 
  
-  (1) Prescription drugs AND OVER –THE–COUNTER DRUGS in their 12 
-original unopened, sealed, and tamper –evident [unit dose ] packaging , INCLUDING DRUGS 13 
-THAT HAVE BEEN PACKA GED BY A MANUFACTURE R OR HAVE BEEN REPAC KAGED BY 14 
-AN ENTITY AU THORIZED TO REPACKAG E DRUGS IN THE STATE  IN WHICH THE ENTITY 15 
-IS LOCATED ; and  16 
+  [(3)] (III) Belong to a category of unacceptable drugs established under § 
+15–608(b)(1) of this subtitle.  
  
-  (2) Medical supplies in their original unopened and sealed packaging.  17 
+  (2) (I) THE PROGRAM MAY ACCEPT PR ESCRIPTION DRUGS AND  
+OVER–THE–COUNTER DRUGS THAT B EAR AN EXPIRATION DA TE THAT IS LESS THAN  
+90 DAYS FROM THE  DATE THE DRUG IS DON ATED IF THE PRESCRIP TION DRUG OR 
+OVER–THE–COUNTER DRUG  IS IN HIGH DEMAND . 
  
- (b) The Program may accept and dispense prescription drugs AND  18 
-OVER–THE–COUNTER DRUGS  packaged in single unit doses when the outside packaging 19 
-is opened if the single unit dose packaging is undisturbed.  20 
+   (II) IF THE PROGRAM ACCEPTS A PRE SCRIPTION DRUG OR 
+OVER–THE–COUNTER DRUG UNDER S UBPARAGRAPH (I) OF THIS PARAGRAPH , THE 
+PROGRAM MAY NOT DISPE NSE THE PRESCRIPT ION DRUG OR OVER –THE–COUNTER 
+DRUG IF THE EXPIRATI ON DATE OCCURS DURIN G THE TIME PERIOD FO R WHICH THE 
+PRESCRIPTION DRUG OR  OVER–THE–COUNTER DRUG IS PRES CRIBED . 
  
- (c) (1) The Program may not accept prescription drugs , OVER–THE–COUNTER 21 
-DRUGS , or medical supplies for dispensing that:  22 
+15–604. 
  
-  [(1)] (I) [Bear] EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS 23 
-SUBSECTION , BEAR  an expiration date that is less than 90 days from the date the drug is 24 
-donated;  25 
+ (a) (1) Any person may donate prescription drugs , OVER–THE–COUNTER 
+DRUGS , or medical s upplies to the Program.  
  
-  [(2)] (II) May be adulterated, according to the standards of § 21 –216 of this 26 
-article; or  27 
+  (2) THE PROGRAM MAY RECEIVE D ONATED PRESCRIPTION DRUGS , 
+OVER–THE–COUNTER DRUGS , OR MEDICAL SUPPLIES FROM ANY PERSON . 
  
-  [(3)] (III) Belong to a category of unacceptable drugs established under § 28 
-15–608(b)(1) of this subtitle.  29 
+ (b) Prescription drugs , OVER–THE–COUNTER DRUGS , or medical supplies may 
+be donated only [at] TO a drop –off site designated for that purpose by the Board.  
  
-  (2) (I) THE PROGRAM MAY ACCEPT PR ESCRIPTION DRUGS AND  30 
-OVER–THE–COUNTER DRUGS THAT B EAR AN EXPIRATION DA TE THAT IS LESS THAN  31 
- HOUSE BILL 1310  5 
+ (c) A drop –off site LOCATED IN THE STATE shall:  
  
- 90 DAYS FROM THE DATE T HE DRUG IS D ONATED IF THE PRESCR IPTION DRUG OR 1 
-OVER–THE–COUNTER DRUG  IS IN HIGH DEMAND . 2 
+  (1) Require a donor to complete and sign a donor form releasing the 
+prescription drugs , OVER–THE–COUNTER DRUGS , or medical supplies to the Progr am; 
+ WES MOORE, Governor  Ch. 705  
  
-   (II) IF THE PROGRAM ACCEPTS A PRE SCRIPTION DRUG OR 3 
-OVER–THE–COUNTER DRUG UNDER S UBPARAGRAPH (I) OF THIS PARAGRAPH , THE 4 
-PROGRAM MAY NOT DISPE NSE THE PRESCRIPTION  DRUG OR OVER –THE–COUNTER 5 
-DRUG IF THE EXPIRATI ON DATE OCCURS DURIN G THE TIME PERIOD FO R WHICH THE 6 
-PRESCRIPTION DRUG OR  OVER–THE–COUNTER DRUG IS PRES CRIBED . 7 
+– 5 –  
+  (2) Store donated prescription drugs , OVER–THE–COUNTER DRUGS , and 
+medical supplies in a secure location used exclusively for the Program; and  
  
-15–604. 8 
+  (3) Forward, at the cost of the designated drop –off site, all donated 
+prescription drugs , OVER–THE–COUNT ER DRUGS , and medical supplies to a [central ] 
+repository.  
  
- (a) (1) Any person may donate prescription drugs , OVER–THE–COUNTER 9 
-DRUGS , or medical supplies to the Prog ram.  10 
+ (d) A drop –off site LOCATED IN THE STATE may not:  
  
-  (2) THE PROGRAM MAY RECEIVE D ONATED PRESCRIPTION DRUGS , 11 
-OVER–THE–COUNTER DRUGS , OR MEDICAL SUPPLIES FROM ANY PERSON . 12 
+  (1) Dispense donated prescription drugs , OVER–THE–COUNTER DRUGS , 
+or medical supplies;  
  
- (b) Prescription drugs , OVER–THE–COUNTER DRUGS , or medical supplies may 13 
-be donated only [at] TO a drop –off site designated for that purpose by the Board.  14 
+  (2) Resell prescription drugs , OVER–THE–COUNTER DRUGS , or medical 
+supplies donated to the Program; or  
  
- (c) A drop –off site LOCATED IN THE STATE shall:  15 
+  (3) Charge a fee for accepting a donation.  
  
-  (1) Require a donor to complete and sign a donor form releasing the 16 
-prescription drugs , OVER–THE–COUNTER DRUGS , or medical supplies to the Progr am; 17 
+ (E) CONSISTENT WITH ITS A PPROVAL BY THE BOARD , AN ENTITY LOCATED 
+IN ANOTHER STATE : 
  
-  (2) Store donated prescription drugs , OVER–THE–COUNTER DRUGS , and 18 
-medical supplies in a secure location used exclusively for the Program; and  19 
+  (1) MAY PARTICIPATE IN TH E PROGRAM AS A DROP –OFF SITE ; AND  
  
-  (3) Forward, at the cost of the designated drop –off site, all donated 20 
-prescription drugs , OVER–THE–COUNT ER DRUGS , and medical supplies to a [central ] 21 
-repository.  22 
+  (2) MAY ACCE PT DONATED PRESCRIPT ION DRUGS ,  
+OVER–THE–COUNTER DRUGS , AND MEDICAL SUPPLIES  FROM A PERSON , UNLESS 
+OTHERWISE PROHIBITED  BY FEDERAL LAW OR TH E LAWS OF THE STATE IN WHICH 
+THE ENTITY IS LOCATE D.  
  
- (d) A drop –off site LOCATED IN THE STATE may not:  23 
+15–605. 
  
-  (1) Dispense donated prescription drugs , OVER–THE–COUNTER DRUGS , 24 
-or medical supplies;  25 
+ (a) The Board may approve Medbank of Maryland, Inc.,  or another  A licensed 
+pharmacy , to be a repository.  
  
-  (2) Resell prescription drugs , OVER–THE–COUNTER DRUGS , or medical 26 
-supplies donated to the Program; or  27 
+ (b) Consistent with its approval by the Board, a repository LOCATED IN THE 
+STATE  shall:  
  
-  (3) Charge a fee for accepting a donation.  28 
+  (1) Accept only donated prescription drugs , OVER–THE–COUNTER 
+DRUGS , and medical supplies forwarded by designated drop –off sites;  
  
- (E) CONSISTENT WITH ITS A PPROVAL BY THE BOARD , AN ENTITY LOCATED 29 
-IN ANOTHER STATE : 30 
+  (2) Inspect all donated prescription drugs , OVER–THE–COUNTER DRUGS , 
+and medical supplies;  
  
-6 HOUSE BILL 1310   
+  (3) Accept for dispensing to needy individuals  ELIGIBLE PATIENTS  only 
+those donated prescription d rugs, OVER–THE–COUNTER DRUGS , and medical supplies 
+that meet the requirements of § 15 –603 of this subtitle;  
+Ch. 705  2025 LAWS OF MARYLAND   
  
-   (1) MAY PARTICIPATE IN TH E PROGRAM AS A DROP –OFF SITE ; AND  1 
+– 6 –  
+  (4) Dispose of donated prescription drugs , OVER–THE–COUNTER DRUGS , 
+and medical supplies not accepted for dispensing to needy individuals  ELIGIBLE  PATIENTS  
+in accordance with State and federal law;  
  
-  (2) MAY ACCE PT DONATED PRESCRIPT ION DRUGS ,  2 
-OVER–THE–COUNTER DRUGS , AND MEDICAL SUPPLIES  FROM A PERSON , UNLESS 3 
-OTHERWISE PROHIBITED  BY FEDERAL LAW OR TH E LAWS OF THE STATE IN WHICH 4 
-THE ENTITY IS LOCATE D.  5 
+  (5) Maintain a separate inventory of donated prescription drugs ,  
+OVER–THE–COUNTER DRUGS , and medical supplies;  
  
-15–605. 6 
+  (6) Store donated prescription drugs , OVER–THE–COUNTER DRUGS , and 
+medical supplies in a secure location used exclusively for the Program;  
  
- (a) The Board may approve Medbank of Maryland, Inc.,  or another  A licensed 7 
-pharmacy , to be a repository.  8 
+  (7) Maintain separate prescription files for patients receiving donated 
+prescription drugs and medical supplies; and  
  
- (b) Consistent with its approval by the Board, a repository LOCATED IN THE 9 
-STATE  shall:  10 
+  (8) Obliterate from the labels of donated prescription drugs and medical 
+supplies  any information specific to the patient for whom the donated prescription drugs , 
+OVER–THE–COUNTER DRUGS , and medical supplies were originally dispensed OR 
+OTHERWISE PROVIDED T O THE PATIENT . 
  
-  (1) Accept only donated prescription drugs , OVER–THE–COUNTER 11 
-DRUGS , and medical supplies forwarded by designated drop –off sites;  12 
+ (c) A repository LOCATED IN THE STATE  shall dispense donated pr escription 
+drugs , OVER–THE–COUNTER DRUGS , and medical supplies only:  
  
-  (2) Inspect all donated prescription drugs , OVER–THE–COUNTER DRUGS , 13 
-and medical supplies;  14 
+  (1) To an individual who meets the requirements of § 15–606 § 15–606( A) 
+of this subtitle;  
  
-  (3) Accept for dispensing to needy individuals  ELIGIBLE PATIENTS  only 15 
-those donated prescription d rugs, OVER–THE–COUNTER DRUGS , and medical supplies 16 
-that meet the requirements of § 15 –603 of this subtitle;  17 
+  (2) On a new prescription, in the case of a prescription drug or medical 
+supply that requires a prescription; and  
  
-  (4) Dispose of donated prescription drugs , OVER–THE–COUNTER DRUGS , 18 
-and medical supplies not accepted for dispensing to needy individuals  ELIGIBLE  PATIENTS  19 
-in accordance with State and federal law;  20 
+  (3) In accordance with State and federal laws pertaining to:  
  
-  (5) Maintain a separate inventory of donated prescription drugs ,  21 
-OVER–THE–COUNTER DRUGS , and medical supplies;  22 
+   (i) Storage, distribution, and dispensing of prescription drugs; and  
  
-  (6) Store donated prescription drugs , OVER–THE–COUNTER DRUGS , and 23 
-medical supplies in a secure location used exclusively for the Program;  24 
+   (ii) Confidentiality of patient information.  
  
-  (7) Maintain separate prescription files for patients receiving donated 25 
-prescription drugs and medical supplies; and  26 
+ (d) A repository LOCATED IN THE STATE  may:  
  
-  (8) Obliterate from the labels of donated prescription d rugs and medical 27 
-supplies any information specific to the patient for whom the donated prescription drugs , 28 
-OVER–THE–COUNTER DRUGS , and medical supplies were originally dispensed OR 29 
-OTHERWISE PROVIDED T O THE PATIENT . 30 
+  (1) Charge a fee, not to exceed $10, for each prescription drug ,  
+OVER–THE–COUNTER DRUG , or medical supply dispensed; and  
  
- (c) A repository LOCATED IN THE STATE  shall dispense donated prescription 31 
-drugs , OVER–THE–COUNTER DRUGS , and medical supplies only:  32 
- HOUSE BILL 1310  7 
+  (2) Dispense a donated prescription drug , OVER–THE–COUNTER DRUG , 
+or medical supply by mail , provided that the repository i nforms the patient that a delay 
+may be entailed . 
  
-  
-  (1) To an individual who meets the requirements of § 15–606 § 15–606( A) 1 
-of this subtitle;  2 
+ (e) A repository may not establish or maintain a waiting list for any prescription 
+drug, OVER–THE–COUNTER DRUG , or medical supply dispensed by the Program.  
+ WES MOORE, Governor  Ch. 705  
  
-  (2) On a new prescription, in the case of a prescription drug or medical 3 
-supply that requires a prescription; and  4 
+– 7 –  
+ (f) A pharmacy may accept prescription drugs , OVER–THE–COUNTER DRUGS , 
+and medical supplies taken to the pharmacy for disposal only if the pharmacy is approved 
+by the Board as a repository for this purpose.  
  
-  (3) In accordance with State and federal laws pertaining to:  5 
+ (g) CONSISTENT WITH ITS A PPROVAL BY THE BOARD , AN ENTITY LOCATED 
+IN ANOTHER STATE : 
  
-   (i) Storage, distribution, and dispensing of prescription drugs; and  6 
+  (1) MAY PARTICIPATE IN THE PROGRAM AS A REPOSITO RY; AND  
  
-   (ii) Confidentiality of patient information.  7 
+  (2) SHALL DISPENSE DONATE D PRESCRIPTION DRUGS ,  
+OVER–THE–COUNTER DRUGS , AND MEDICAL SUPPLIES  TO RESIDENTS OF THE STATE 
+ONLY IN ACCORDANCE W ITH: 
  
- (d) A repository LOCATED IN THE STATE  may:  8 
+   (I) FEDERAL LAW ; 
  
-  (1) Charge a fee, not to exceed $10, for each prescription drug ,  9 
-OVER–THE–COUNTER DRUG , or medical supply dispensed; and  10 
+   (II) LAWS OF THE STATE IN WHICH THE ENTITY IS LOCATED 
+PERTAINING TO STORAG E AND DISTRIBUTION O F PRESCRIPTION DRUGS ,  
+OVER–THE–COUNTER DRUGS , AND MEDICAL SUPPLIES ; AND  
  
-  (2) Dispense a donated prescription drug , OVER–THE–COUNTER DRUG , 11 
-or medical supply by mail , provided tha t the repository informs the patient that a delay 12 
-may be entailed . 13 
+   (III) STATE LAWS PERTAINING  TO NONRESIDENT PHARM ACIES . 
  
- (e) A repository may not establish or maintain a waiting list for any prescription 14 
-drug, OVER–THE–COUNTER DRUG , or medical supply dispensed by the Program.  15 
+ (H) The Program may not require a private entity to establish, operate, or fund a 
+drop–off site or disposal program.  
  
- (f) A pharmacy may accept prescription drugs , OVER–THE–COUNTER DRUGS , 16 
-and medical supplies taken to the pharmacy for disposal only if the pharmacy is approved 17 
-by the Board as a repository for this purpose.  18 
+ (h) (I) The Department shall develop a process for providing information about the 
+availability of the State’s earned income tax credit established under § 10 –704 of the Tax – 
+General Article to each individual receiving donated prescription drugs and medical 
+supp lies from the A repository.  
  
- (g) CONSISTENT WITH ITS A PPROVAL BY THE BOARD , AN ENTITY LOCATED 19 
-IN ANOTHE R STATE : 20 
+ (J) A PERSON DONATING , TRANSFERRING , OR RECEIVING PRESCRI PTION 
+DRUGS , OVER–THE–COUNTER DRUGS , AND MEDICAL SUPPLIES , OR FACILITATING 
+THE DONATION , TRANSFER , OR RECEIPT , IN ACCORDANCE WITH T HIS SUBTITLE MAY 
+NOT BE REQUIRED TO H OLD A WHOLESALE DISTR IBUTION LICENSE . 
  
-  (1) MAY PARTICIPATE IN TH E PROGRAM AS A REPOSITO RY; AND  21 
+ (K) A REPOSITORY LOCATED I N ANOTHER STATE OPER ATING PRIMARILY 
+FOR THE PURPOSE OF P ARTICIPATING IN A DR UG DONATION OR REPOS ITORY 
+PROGRAM MAY NOT BE R EQUIRED TO POSSESS A  COMPREHENSIVE OR MIN IMUM 
+SUPPLY OF PRESCRIPTI ON DRUGS , OVER–THE–COUNTER DRUGS , OR MEDICAL 
+SUPPLIES . 
  
-  (2) SHALL DISPENSE DONATE D PRESCRIPTION DRUGS ,  22 
-OVER–THE–COUNTER DRUGS , AND MEDICAL SUPPLIES  TO RESIDENTS OF THE STATE 23 
-ONLY IN ACCORDANCE W ITH: 24 
+ (L) A REPOSITORY LOCATED I N THE STATE MAY TRANSFER DO NATED 
+PRESCRIPTION DRUGS , OVER–THE–COUNTER DRUGS , AND MEDICAL SUPPLIES  TO: 
  
-   (I) FEDERAL LAW ; 25 
+Ch. 705  2025 LAWS OF MARYLAND   
  
-   (II) LAWS OF THE STATE IN WHICH THE ENTITY IS LOCATED 26 
-PERTAINING TO STORAG E AND DISTRIBUTION O F PRESCRIPTION DRUGS ,  27 
-OVER–THE–COUNTER DRUGS , AND MEDICAL SUPPLIES ; AND  28 
+– 8 –   (1) ANOTHER REPOSITORY LO CATED IN THE STATE ; OR 
  
-   (III) STATE LAWS PERTAINING  TO NONRESIDENT PHARM ACIES . 29 
-8 HOUSE BILL 1310   
+  (2) A DROP–OFF SITE LOCATED IN ANOTHER S TATE , A REPOSITORY 
+LOCATED IN ANOTHER S TATE , OR ANOTHER ENTITY LO CATED IN ANOTHER STA TE 
+THAT PARTICIPATES IN  A DRUG DONATION OR R EPOSITORY PROGRAM IN  
+ACCORDANCE WITH THE LAWS OF THE STATE IN  WHICH THE ENTITY IS LOCATED 
+ONLY IF THERE IS NO NEED FOR THE DONA TED PRESCRIPTION DRU GS,  
+OVER–THE–COUNTER DRUGS , OR MEDICAL SUPPLIES FOR USE BY ELIGIBLE 
+PATIENTS IN THE STATE , AS DETERMINED BY THE  TRANSFERRING REPOSIT ORY. 
  
-  
- (H) The Program may not require a  private entity to establish, operate, or fund a 1 
-drop–off site or disposal program.  2 
+ (M) UNLESS OTHERWISE PROH IBITED BY FEDERAL LA W OR THE LAWS OF 
+THE STATE IN WHICH IT IS LOCATED , A DROP–OFF SITE OR REPOSITO RY LOCATED IN 
+ANOTHER STATE MAY PE RFORM AND RECEIVE : 
  
- (h) (I) The Department shall develop a process for providing information about the 3 
-availability of the State’s earned income tax credit established under § 10 –704 of the Tax – 4 
-General Article to each individual receiving donated prescription drugs and medical 5 
-supp lies from the A repository.  6 
+  (1) INTRACOMPANY TRANSFER S OF DONATED PRESCRI PTION DRUGS , 
+OVER–THE–COUNTER DRUGS , AND MEDICAL SUPPLIES ; AND  
  
- (J) A PERSON DONATING , TRANSFERRING , OR RECEIVING PRESCRI PTION 7 
-DRUGS , OVER–THE–COUNTER DRUGS , AND MEDICAL SUPPLIES , OR FACILITATING 8 
-THE DONATION , TRANSFER , OR RECEIPT , IN ACCORDANCE WITH T HIS SUBTITLE MAY 9 
-NOT BE REQUIRED TO H OLD A WHOLESALE DISTR IBUTION LICENSE . 10 
+  (2) TRANSFERS OF DONATED PRESCRIPTION DRU GS,  
+OVER–THE–COUNTER DRUGS , AND MEDICAL SUPPLIES  FROM DROP –OFF SITES 
+LOCATED IN ANOTHER S TATE , REPOSITORIES LOCATED  IN ANOTHER STATE , OR 
+OTHER ENTITIES PARTI CIPATING IN A DRUG D ONATION OR REPOSITOR Y PROGRAM 
+IN ACCORDANCE WITH T HE LAWS OF THE STATE  IN WHIC H THE ENTITY IS LOCA TED. 
  
- (K) A REPOSITORY LOCATED I N ANOTHER STATE OPER ATING PRIMARILY 11 
-FOR THE PURPOSE OF P ARTICIPATING IN A DR UG DONATION OR REPOS ITORY 12 
-PROGRAM MAY NOT BE R EQUIRED TO POSSESS A  COMPREHENSIVE OR MIN IMUM 13 
-SUPPLY OF PRESCRIPTI ON DRUGS , OVER–THE–COUNTER DRUGS , OR MEDICAL 14 
-SUPPLIES . 15 
+15–606. 
  
- (L) A REPOSITORY LOCATED I N THE STATE MAY TRANSFER DO NATED 16 
-PRESCRIPTION DRUGS , OVER–THE–COUNTER DRUGS , AND MEDICAL SUPPLIES  TO: 17 
+ (A) To be eligible to receive donated prescription drugs , OVER–THE–COUNTER 
+DRUGS , or medical supplies FROM A REPOSITORY LO CATED IN THE STATE , an 
+individual [shall] MUST : 
  
-  (1) ANOTHER REPOSITORY LO CATED IN THE STATE ; OR 18 
+  (1) Be a resident of the State; and  
  
-  (2) A DROP–OFF SITE LOCATED IN ANOTHER STATE , A REPOSITORY 19 
-LOCATED IN ANOTHER S TATE , OR ANOTHER ENTITY LO CATED IN ANOTHER STA TE 20 
-THAT PARTICIPATES IN  A DRUG DONATION OR R EPOSITORY PROGRAM IN  21 
-ACCORDANCE WITH THE LAWS OF THE STATE IN  WHICH THE ENTITY IS LOCATED 22 
-ONLY IF THERE IS NO N EED FOR THE DONATED PRESCRIPTION DRUGS ,  23 
-OVER–THE–COUNTER DRUGS , OR MEDICAL SUPPLIES FOR USE BY ELIGIBLE 24 
-PATIENTS IN THE STATE , AS DETERMINED BY THE  TRANSFERRING REPOSIT ORY. 25 
+  (2) Be [a needy ] AN ELIGIBLE  patient [, as indicated by the individual’s 
+health care practitioner ]. 
  
- (M) UNLESS OTHERWISE PROH IBITED BY FEDERAL LA W OR THE LAWS OF 26 
-THE STATE IN WHICH I T IS LOCATED , A DROP–OFF SITE OR REPOSITO RY LOCATED IN 27 
-ANOTHER STATE MAY PE RFORM AND RECEIVE : 28 
+ (B) TO BE ELIGIBLE TO REC EIVE DONATED PRESCRI PTION DRUGS ,  
+OVER–THE–COUNTER DRUGS , OR MEDICAL SUPPLIES FROM A REPOSITORY LO CATED 
+IN ANOTHER STATE , AN INDIVIDUAL MUST BE AN ELIGIBLE PATIENT .  
  
-  (1) INTRACOMPANY TRANSFER S OF DONATED PRESCRI PTION DRUGS , 29 
-OVER–THE–COUNTER DRUGS , AND MEDICAL SUPPLIES ; AND  30 
+15–607. 
  
-  (2) TRANSFERS OF DONATED PRESCRIPTION DRUGS ,  31 
-OVER–THE–COUNTER DRUGS , AND MEDICAL SUPPLIES  FROM DROP –OFF SITES 32 
-LOCATED IN ANOTHER S TATE , REPOSITORIES LOCATED  IN ANOTHER STATE , OR 33 
- HOUSE BILL 1310  9 
+ (a) This section applies to:  
  
- OTHER ENTITIES PARTI CIPATING IN A DRUG D ONATION OR REPOSITOR Y PROGRAM 1 
-IN ACCORDANCE WITH T HE LAWS OF T HE STATE IN WHICH TH E ENTITY IS LOCATED . 2 
+  (1) A person that donates prescription drugs , OVER–THE–COUNTER 
+DRUGS , or medical supplies to the Program;  
+ WES MOORE, Governor  Ch. 705  
  
-15–606. 3 
+– 9 –  
+  (2) A drop –off site;  
  
- (A) To be eligible to receive donated prescription drugs , OVER–THE–COUNTER 4 
-DRUGS , or medical supplies FROM A REPOSITORY LO CATED IN THE STATE , an 5 
-individual [shall] MUST : 6 
+  (3) A repository;  
  
-  (1) Be a resident of the State;  and 7 
+  (4) The Board; and 
  
-  (2) Be [a needy ] AN ELIGIBLE  patient [, as indicated by the individual’s 8 
-health care practitioner ]. 9 
+  (5) Pharmacists ; 
  
- (B) TO BE ELIGIBLE TO REC EIVE DONATED PRESCRI PTION DRUGS ,  10 
-OVER–THE–COUNTER DRUGS , OR MEDICAL SUPPLIES FROM A REPOSITORY LO CATED 11 
-IN ANOTHER STATE , AN INDIVIDUAL MUST B E AN ELIGIBLE PATIEN T.  12 
+  (6) PHARMACY TECHNICIANS ; AND  
  
-15–607. 13 
+  (7) STAFF EMPLOYED BY OR VOLUNTEERING FOR AN ENTITY 
+PARTICIPATING IN THE  PROGRAM . 
  
- (a) This section applies to:  14 
+ (b) For matters related to donating, accepting, TRANSFERRING , disposing of, or 
+dispensing prescription drugs , OVER–THE–COUN TER DRUGS , or medical supplies under 
+the Program, OR FACILITATING THE DONATION , ACCEPTANCE , TRANSFER , 
+DISPOSITION OF , OR DISPENSING , a person described in subsection (a) of this section 
+that acts in good faith may not be subject to:  
  
-  (1) A person that donates prescription drugs , OVER–THE–COUNTER 15 
-DRUGS , or medical supplies to the Program;  16 
+  (1) Criminal prosecu tion; or  
  
-  (2) A drop –off site;  17 
+  (2) Liability in tort or other civil action for injury, death, or loss to person 
+or property.  
  
-  (3) A repository;  18 
+ (c) A drug manufacturer acting in good faith may not be subject to criminal 
+prosecution or liability in tort or other civil action for injury, death, or loss to person or 
+property for matters related to the donation, acceptance, or dispensing of a drug 
+manufactured by the drug manufacturer that is donated by any person under the Program, 
+including liability for failure to transfer or communicate product or consumer information 
+or the expiration date of the donated drug.  
  
-  (4) The Board; and 19 
+15–608. 
  
-  (5) Pharmacists ; 20 
+ (a) On or before January 1, 2007, and in consideration of the recommendations of 
+the Task Force on the Establishment of a Prescription Drug Repository Program, the Board  
+shall adopt regulations governing the Program.  
  
-  (6) PHARMACY TECHNICIANS ; AND  21 
+ (b) The regulations shall include:  
  
-  (7) STAFF EMPLOYED BY OR VOLUNTEERING FOR AN ENTITY 22 
-PARTICIPATING IN THE  PROGRAM . 23 
+  (1) Categories of drugs that a repository will not accept, including a 
+statement as to why the drug is ineligible for donation;  
  
- (b) For matters related to donating, accepting, TRANSFERRING , disposing of, or 24 
-dispensing prescription drugs , OVER–THE–COUNTER DRUGS , or medical supplies under 25 
-the Program, OR FACILITATING THE DONATION , ACCEPTANCE , TRANSFER , 26 
-DISPOSITION OF , OR DISPENSING , a person described in subsection (a) of this section 27 
-that acts in good faith may not be subject to:  28 
+  (2) A standard form each donor DONATI NG TO A DROP –OFF SITE 
+LOCATED IN THE STATE  must sign stating that the donor is the owner of the drugs and 
+intends to voluntarily donate them to the Program;  
+Ch. 705  2025 LAWS OF MARYLAND   
  
-  (1) Crimi nal prosecution; or  29 
-10 HOUSE BILL 1310   
+– 10 –  
+  (3) Requirements for designation of drop –off sites to accept donated 
+prescription drugs , OVER–THE–COUNTER DRUGS , and medical supplies under the 
+Program;  
  
-  
-  (2) Liability in tort or other civil action for injury, death, or loss to person 1 
-or property.  2 
+  (4) Requirements for designation of repositories to dispense or dispose of 
+donated prescription drugs , OVER–THE–COUNTER DRUGS , and medical supplies under 
+the Program;  
  
- (c) A drug manufacturer acting in good faith may not be subject to criminal 3 
-prosecution or liability in tort or other civil action for in jury, death, or loss to person or 4 
-property for matters related to the donation, acceptance, or dispensing of a drug 5 
-manufactured by the drug manufacturer that is donated by any person under the Program, 6 
-including liability for failure to transfer or commun icate product or consumer information 7 
-or the expiration date of the donated drug.  8 
+  (5) Standards and procedur es for DROP–OFF SITES AND REPOSI TORIES 
+LOCATED IN THE STATE RELATED TO  accepting, safely storing, dispensing, shipping, and 
+disposing of donated prescription drugs , OVER–THE–COUNTER DRUGS , and medical 
+supplies;  
  
-15–608. 9 
+  (6) Standards and procedures for REPOSITOR IES LOCATED IN THE 
+STATE RELATED TO  inspecting donated prescription drugs , OVER–THE–COUNTER 
+DRUGS , and medical supplies intended for dispensing to determine that:  
  
- (a) On or before January 1, 2007, and in consideration of the recommendations of 10 
-the Task Force on the Establishment of a Prescription Drug Repository Program, the  Board 11 
-shall adopt regulations governing the Program.  12 
+   (i) The [original packaging is:  
  
- (b) The regulations shall include:  13 
+    1. Sealed and tamper –evident; and  
  
-  (1) Categories of drugs that a repository will not accept, including a 14 
-statement as to why the drug is ineligible for donation;  15 
+    2. In the case of prescription drugs, in the undisturbed single 
+unit dose packaging; and ] PRESCRIPTION DRUGS A ND OVER –THE–COUNTER DRUGS 
+ARE IN ORIGINAL UNOP ENED , SEALED , AND TAMPER –EVIDENT PACKAGING , WHICH 
+MAY INCLUDE PACKAGIN G PLACED BY THE MANU FACTURER AND PACKAGI NG PLACED 
+BY AN ENTITY AUTHORI ZED TO REPACKAGE DRU GS IN THE STATE IN W HICH THE 
+ENTITY IS LOCATED ;  
  
-  (2) A standard form each donor DONATING TO A DROP –OFF SITE 16 
-LOCATED IN THE STATE  must sign stating that the donor is the owner of the drugs and 17 
-intends to voluntarily donate them to the Program;  18 
+   (ii) The MEDICAL SUPPLIES ARE  IN THEIR ORIGINAL UN OPENED 
+AND SEALED PACKAGING ; AND  
  
-  (3) Requirements for designation of drop –off sites to accept donated 19 
-prescription drugs , OVER–THE–COUNTER DRUGS , and medical supplies under the 20 
-Program;  21 
+   (III) THE prescription drugs , OVER–THE–COUNTER DRUGS , and 
+medical supplies are unadulterated, safe, and suitable for dispensing;  
  
-  (4) Requirements for designation of repositories to dispense or dispose of 22 
-donated prescription drugs , OVER–THE–COUNTER DRUGS , and medical supplies under 23 
-the Program;  24 
+  (7) [A standard form for health care practitioners to submit to a repository 
+to indicate a patient’s need for the Program;  
  
-  (5) Standards and p rocedures for DROP–OFF SITES AND REPOSI TORIES 25 
-LOCATED IN THE STATE RELATED TO  accepting, safely storing, dispensing, shipping, and 26 
-disposing of donated prescription drugs , OVER–THE–COUNTER DRUGS , and medical 27 
-supplies;  28 
+  (8)] A standard form that an individual receiving a  prescription drug , 
+OVER–THE–COUNTER DRUG , or medical supply from [the Program ] A REPOSITORY 
+LOCATED IN THE STATE  must sign before receiving the drug or supply to confirm that the 
+individual understands that:  
  
-  (6) Standards and procedures for REPOSITORIES LOCATED I N THE 29 
-STATE RELATED TO  inspecting donated prescription drugs , OVER–THE–COUNTER 30 
-DRUGS , and medical supplies intended for dispensing to determine that:  31 
+ WES MOORE, Governor  Ch. 705  
  
-   (i) The [original packaging is:  32 
+– 11 –    (i) The individual is receiving prescription drugs ,  
+OVER–THE–COUNTER DRUGS , or medical supplies that have been donated to the Program; 
+and 
  
-    1. Sealed and tamper –evident; and  33 
- HOUSE BILL 1310  11 
+   (ii) Entities involved in the Program have certain immunity from 
+liability;  
  
-  
-    2. In the case of prescription drugs, in the undisturbed single 1 
-unit dose packaging; and ] PRESCRIPTION DRUGS A ND OVER –THE–COUNTER DRUGS 2 
-ARE IN ORIGINAL UNOP ENED , SEALED , AND TAMPER –EVIDENT PACKAGING , WHICH 3 
-MAY INCLUDE PACKAGIN G PLACED BY THE MANU FACTURER AND PAC KAGING PLACED 4 
-BY AN ENTITY AUTHORI ZED TO REPACKAGE DRU GS IN THE STATE IN W HICH THE 5 
-ENTITY IS LOCATED ;  6 
+  [(9)] (8) Record keeping and reporting requirements for a reposit ory 
+LOCATED IN THE STATE ; and  
  
-   (ii) The MEDICAL SUPPLIES ARE  IN THEIR ORIGINAL UN OPENED 7 
-AND SEALED PACKAGING ; AND  8 
+  [(10)] (9) Any other standards and procedures the Board considers 
+appropriate FOR DROP –OFF SITES AND REPOSI TORIES LOCATED IN TH E STATE .  
  
-   (III) THE prescription drugs , OVER–THE–COUNTER DRUGS , and 9 
-medi cal supplies are unadulterated, safe, and suitable for dispensing;  10 
+15–609. 
  
-  (7) [A standard form for health care practitioners to submit to a repository 11 
-to indicate a patient’s need for the Program;  12 
+ (a) A repository LOCATED IN THE STATE  shall:  
  
-  (8)] A standard form that an individual receiving a prescrip tion drug , 13 
-OVER–THE–COUNTER DRUG , or medical supply from [the Program ] A REPOSITORY 14 
-LOCATED IN THE STATE  must sign before receiving the drug or supply to confirm that the 15 
-individual understands that:  16 
+  (1) Maintain WRITTEN OR ELECTRONIC  records of donated prescription 
+drugs , OVER–THE–COUNTER DRUGS , and medical supplies; and  
  
-   (i) The individual is receiving prescription drugs ,  17 
-OVER–THE–COUNTER DRUGS , or medical supplies that have been donated to the Program; 18 
-and 19 
+  (2) Submit periodic reports to the Board on its activities.  
  
-   (ii) Entities involved in the Program have certain immunity from 20 
-liability;  21 
+ (b) To determine compliance with the requirements of this subtitle, the Board 
+shall:  
  
-  [(9)] (8) Record keeping and reporting requirements for a repository 22 
-LOCATED IN THE STATE ; and  23 
+  (1) Inspect designated drop –off sites and repositories LOCATED IN THE 
+STATE ; 
  
-  [(10)] (9) Any other standards and procedures the Board considers 24 
-appropriate FOR DROP –OFF SITES AND REPOSI TORIES LOCATED IN TH E STATE .  25 
+  (2) Inspect records of donated prescription drugs , OVER–THE–COUNTER 
+DRUGS , and medical supplies maintained by the repository  REPOSITORIES LOCATED  IN 
+THE STATE ; and  
  
-15–609. 26 
+  (3) Beginning January 1, 2007, and each January 1 thereafter, report to 
+the Governor and, in accordance with § 2 –1257 of the State Government Article, the 
+General Assembly on the operation of the Program.  
  
- (a) A repository LOCATED IN THE STATE  shall:  27 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act s hall take effect 
+October 1, 2025.  
  
-  (1) Maintain WRITTEN OR ELECTRONI C records of donated prescription 28 
-drugs , OVER–THE–COUNTER DRUGS , and medical supplies; and  29 
- 
-  (2) Submit periodic reports to the Board on its activities.  30 
- 
-12 HOUSE BILL 1310   
- 
-  (b) To determine compliance with the requirements of this subtitle, the Board 1 
-shall:  2 
- 
-  (1) Inspect d esignated drop –off sites and repositories LOCATED IN THE 3 
-STATE ; 4 
- 
-  (2) Inspect records of donated prescription drugs , OVER–THE–COUNTER 5 
-DRUGS , and medical supplies maintained by the repository  REPOSITORIES LOCATED  IN 6 
-THE STATE ; and  7 
- 
-  (3) Beginning January 1, 2007, and each January 1 thereafter, report to 8 
-the Governor and, in accordance with § 2 –1257 of the State Government Article, the 9 
-General Assembly on the operation of the Program.  10 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 11 
-October 1, 2025.  12 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 20, 2025.  

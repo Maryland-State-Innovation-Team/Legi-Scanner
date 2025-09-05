@@ -1,351 +1,326 @@
+ WES MOORE, Governor  Ch. 647  
  
+– 1 – Chapter 647  
+(House Bill 953 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0953*      
-HOUSE BILL 953  
-Q1   5lr2639  
-      
-By: Delegates Kaiser, Feldmark, Pasteur, and Woorman  
-Introduced and read first time: January 31, 2025  
-Assigned to: Ways and Means  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: March 4, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Tax Sales – Homeowner Protection Program – Funding and Alterations  
  
-AN ACT concerning  1 
+FOR the purpose of requiring each collector of taxes that maintains a website to include on 
+the collector’s website certain information and a certain link relating to the 
+Homeowner Protection Program; altering the information the State Department of 
+Assessments and Taxation is required to obtain and include in a certain annual 
+report regarding tax sales; requiring the State Tax Sale Ombudsman to take certain 
+actions to maximize enrollment in the Homeowner Protection Program; prohibiting 
+the Department from charging interest on unpaid taxes owed to the Department b y 
+homeowners enrolled in the Homeowner Protection Program; requiring the Governor 
+to include in the annual budget bill a certain appropriation for the Homeowner 
+Protection Fund; requiring county governments collectively to pay a certain amount 
+to the Homeo wner Protection Fund each fiscal year; and generally relating to tax 
+sales and the Homeowner Protection Program.  
  
-Tax Sales – Homeowner Protection Program – Funding and Alterations  2 
+BY repealing and reenacting, without amendments,  
+ Article – Tax – Property  
+Section 4 –201.1(a) and 14 –884 
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of requiring each collector of taxes that maintains a website to include on 3 
-the collector’s website certain information and a certain link relating to the 4 
-Homeowner Protection Program; altering the information the State Department of 5 
-Assessments and Taxation is required to obtain and include in a certain annual 6 
-report regarding tax sales; requiring the State Tax Sale Ombudsman to take certain 7 
-actions to maximize enrollment in the Homeowner Protection Program; prohibiting 8 
-the Department from charging interest on unpaid taxes owed to the Department by 9 
-homeowners enrolled in the Homeowner Protection Program; requiring the Governor 10 
-to include in the annual budget bill a certain appropriation for the Homeowner 11 
-Protection Fund; requiring county governments collectively to pay a cer tain amount 12 
-to the Homeowner Protection Fund each fiscal year; and generally relating to tax 13 
-sales and the Homeowner Protection Program.  14 
+BY adding to  
+ Article – Tax – Property  
+Section 4 –201.1(e)  
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  15 
- Article – Tax – Property  16 
-Section 4 –201.1(a) and 14 –884 17 
- Annotated Code of Maryland  18 
- (2019 Replacement Volume and 2024 Supplement)  19 
+BY repealing and reenacting, with amendments,  
+ Article – Tax – Property  
+Section 14–879(c) and (d), 14 –880(a), 14 –886(c), 14 –887(e), 14 –889, and 14 –891 
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024 Supplement)  
  
-BY adding to  20 
- Article – Tax – Property  21 
-Section 4 –201.1(e)  22 
- Annotated Code of Maryland  23 
-2 HOUSE BILL 953   
+BY repealing  
+ Article – Tax – Property  
+Section 14 –885(e)  
+ Annotated Code of Maryland  
+ (2019 Replacement Volum e and 2024 Supplement)  
  
-  (2019 Replacement Volume and 2024 Supplement)  1 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+Ch. 647  2025 LAWS OF MARYLAND   
  
-BY repealing and reenacting, with amendments,  2 
- Article – Tax – Property  3 
-Section 14 –879(c) and (d), 14 –880(a), 14 –886(c), 14 –887(e), 14 –889, and 14 –891 4 
- Annotated Code of Maryland  5 
- (2019 Replacement Volume and 2024 Supplement)  6 
+– 2 –  
+Article – Tax – Property  
  
-BY repealing  7 
- Article – Tax – Property  8 
-Section 14 –885(e)  9 
- Annotated Code of Maryland  10 
- (2019 Replacement Volume and 2024 Supplement)  11 
+4–201.1.  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 12 
-That the Laws of Maryland read as follows:  13 
+ (a) In this section, “Program” means the Homeowner Protection Program 
+established under Title 14, Subtitle 8, Part VII of this article.  
  
-Article – Tax – Property  14 
+ (E) EACH COLLECTOR THAT M AINTAINS A WEBSITE S HALL INCLUDE ON THE 
+COLLECTOR ’S WEBSITE IN A CONSP ICUOUS LOCATION : 
  
-4–201.1.  15 
+  (1) A CONCISE DESCRIPTIO N OF THE PROGRAM ; AND 
  
- (a) In this section, “Program” means the Homeowner Protection Pro gram 16 
-established under Title 14, Subtitle 8, Part VII of this article.  17 
+  (2) A LINK TO THE APPLIC ATION FOR THE PROG RAM. 
  
- (E) EACH COLLECTOR THAT M AINTAINS A WEBSITE S HALL INCLUDE ON THE 18 
-COLLECTOR ’S WEBSITE IN A CONSP ICUOUS LOCATION : 19 
+14–879. 
  
-  (1) A CONCISE DESCRIPTIO N OF THE PROGRAM ; AND 20 
+ (c) The Department shall obtain the following information concerning each 
+county’s tax sale process for the second immediately preceding taxable year:  
  
-  (2) A LINK TO THE APPLICATION FOR THE PROGRAM . 21 
+  (1) each type of charge that the county collects through its tax sale process, 
+includi ng property taxes, water and sewer charges, environmental charges, and any other 
+local government charges;  
  
-14–879. 22 
+  (2) THE TOTAL NUMBER OF REAL PROPERTY TAX AC COUNTS IN THE 
+COUNTY DURING THE SE COND IMMEDIATELY PRE CEDING TAXABLE YEAR AND THE 
+TOTAL NUMBER OF REAL  PROPERTY TAX ACCOUNT S THAT BECAME DELINQ UENT 
+DURING THE SECOND IM MEDIATELY PRECEDING TAXABLE YEAR ; 
  
- (c) The Department shall obtain the following information concerning each 23 
-county’s tax sale process for the second immediately preceding taxable year:  24 
+  (3) THE TOTAL AMOUNT OF INTEREST ON OVERDUE COUNTY REAL 
+PROPERTY TAXES COLLE CTED DURING THE SECO ND IMMEDIATELY PRECE DING 
+TAXABLE YEAR ; 
  
-  (1) each type of charge that the county collects through its t ax sale process, 25 
-including property taxes, water and sewer charges, environmental charges, and any other 26 
-local government charges;  27 
+  [(2)] (4) the length of time the tax on a property is required to be overdue 
+before the county begins the process to sell the property under Part III of this subtitle;  
  
-  (2) THE TOTAL NUMBER OF REAL PROPERTY TAX AC COUNTS IN THE 28 
-COUNTY DURING THE SE COND IMMEDIATELY PRE CEDING TAXABLE YEAR AND THE 29 
-TOTAL NUMBER OF REAL  PROPERTY TAX ACCOUNT S THAT BECAME DELINQ UENT 30 
-DURING THE SECOND IM MEDIATELY PRECEDING TAXABLE YEAR ; 31 
+  [(3)] (5) how frequently the county conducts a tax sale and the time of 
+year when the tax sale occu rs; 
  
- HOUSE BILL 953 3 
+  [(4)] (6) whether the county conducts tax sales on behalf of municipal 
+corporations in the county and, if applicable, which municipal corporations;  
  
-   (3) THE TOTAL AMOUNT OF INTEREST ON OVERDUE COUNTY REAL 1 
-PROPERTY TAXES COLLE CTED DURING THE SECO ND IMMEDIATELY PRECE DING 2 
-TAXABLE YEAR ; 3 
+  [(5)] (7) the rate of interest the county charges on overdue property taxes 
+under § 14 –603 of this  title;  
  
-  [(2)] (4) the length of time the tax on a property is required to be overdue 4 
-before the county begins the process to sell the property under Part III of this subtitle;  5 
+ WES MOORE, Governor  Ch. 647  
  
-  [(3)] (5) how frequently the county conducts a tax sale and the time of 6 
-year when the tax sale occurs;  7 
+– 3 –   [(6)] (8) the rate of redemption interest a property owner is required to 
+pay to redeem a property after a tax sale under § 14 –820 of this subtitle;  
  
-  [(4)] (6) whether the county conducts tax sales on behalf of municipal 8 
-corporations in the county and, if applicable, which municipal corporations;  9 
+  [(7)] (9) the minimum threshold amount of unpaid taxes on a residential 
+property that will ca use the county to put the property in tax sale under § 14 –811(b) of this 
+subtitle;  
  
-  [(5)] (7) the rate of interest the county charges on overdue property taxes  10 
-under § 14 –603 of this title;  11 
+  [(8)] (10)  regarding bid balance money in excess of the amount required 
+for the payment of taxes, interest, penalties, and costs of the sale of a property:  
  
-  [(6)] (8) the rate of redemption interest a property owner is required to 12 
-pay to redeem a property after a tax sale under § 14 –820 of this subtitle;  13 
+   (i) the to tal aggregate amount of all bid balance money held by the 
+county in a special fund pending distribution to property owners under § 14 –819(a) of this 
+subtitle;  
  
-  [(7)] (9) the minimum threshold amount of unpaid taxes on a residentia l 14 
-property that will cause the county to put the property in tax sale under § 14 –811(b) of this 15 
-subtitle;  16 
+   (ii) the total aggregate amount of bid balance money distributed to 
+property owners under § 1 4–819(a) of this subtitle; and  
  
-  [(8)] (10)  regarding bid balance money in excess of the amount required 17 
-for the payment of taxes, interest, penalties, and costs of the sale of a p roperty:  18 
+   (iii) the total aggregate amount of bid balance money transferred to 
+the county under § 14 –819(b) and (c) of this subtitle;  
  
-   (i) the total aggregate amount of all bid balance money held by the 19 
-county in a special fund pending distribution to property owners under § 14 –819(a) of this 20 
-subtitle;  21 
+  [(9)] (11)  whether the county has established a County Tax Sale 
+Ombudsman under § 2 –112(e) of this article; and  
  
-   (ii) the total aggregate amount of bid balance money distributed to 22 
-property owners under § 14 –819(a) of this subtitle; and  23 
+  [(10)] (12)  a copy of the separate insert required to be mailed to property 
+owners under § 14 –812(b) of this subtitle.  
  
-   (iii) the total aggregate amount of bid balance money transferred to 24 
-the county under § 14 –819(b) and (c) of this subtitle;  25 
+ (d) The Department shall obtain:  
  
-  [(9)] (11)  whether the county has established a County Tax Sale 26 
-Ombud sman under § 2 –112(e) of this article; and  27 
+  (1) the number of counties and municipal corporations that have withheld 
+from sale under [§ 14 –811(e) ] § 14–811( H) of this subtitle a dwelling owned by a 
+homeowner who is low –income, at least 65 years old, or disabled;  
  
-  [(10)] (12)  a copy of the separate insert required to be mailed to property 28 
-owners under § 14 –812(b) of this subtitle.  29 
+  (2) the eligibility criteria used by each county and municipal corporation to 
+withhold a dwelling from sale under [§ 14–811(e) ] § 14–811( H) of this subtitle; and  
  
- (d) The Department shall obtain:  30 
+  (3) the number of dwellings withheld from sale by each county and 
+municipal corporation under [§ 14–811(e) ] § 14–811( H) of this subtitle.  
  
-4 HOUSE BILL 953   
+14–880. 
  
-   (1) the number of counties and municipal corporations  that have withheld 1 
-from sale under [§ 14 –811(e) ] § 14–811( H) of this subtitle a dwelling owned by a 2 
-homeowner who is low –income, at least 65 years old, or disabled;  3 
+ (a) Each year, the Department shall issue a report that includes:  
  
-  (2) the eligibility criteria used by each county and municipal corporation to 4 
-withhold a dwelling from sale under [§ 14–811(e) ] § 14–811( H) of this subtitle; and  5 
+  (1) an analysis and summary of the information collected through the 
+survey under § 14 –879 of this subtitle; and  
  
-  (3) the number of dwellings withheld from sale by each county and 6 
-municipal corporation under [§ 14–811(e) ] § 14–811( H) of this subtitle.  7 
+Ch. 647  2025 LAWS OF MARYLAND   
  
-14–880. 8 
+– 4 –   (2) the following  information concerning the activities of the State Tax Sale 
+Ombudsman established under § 2 –112 of this article in the preceding taxable year:  
  
- (a) Each year, the Department  shall issue a report that includes:  9 
+   (i) the number of homeowners who contacted the Ombudsman;  
  
-  (1) an analysis and summary of the information collected through the 10 
-survey under § 14 –879 of this subtitle; and  11 
+   (ii) the number of homeowners assisted by the Ombudsman to apply 
+for each of the tax credits under § 9 –104 or § 9 –105 of this article;  
  
-  (2) the following information concerning the activities of the State Tax Sale 12 
-Ombudsman established under § 2 –112 of this article in the preceding taxable year:  13 
+   (iii) the number of homeowners assisted by the Ombudsman to apply 
+for other discount programs or public benefits and a brief summary of those programs and 
+benefits ; 
  
-   (i) the number of homeowners who contacted the Ombudsman;  14 
+   (iv) the number of homeowners referred by the Ombudsman to legal 
+services, housing counseling, and other social services, and a brief summary of those 
+services;  
  
-   (ii) the number of homeowners assisted by the Ombudsman to apply 15 
-for each of the tax credits under § 9 –104 or § 9 –105 of this article;  16 
+   (v) the number of homeowners enrolled in the Homeowner 
+Protection Program under Part VII of this subtitle;  
  
-   (iii) the number of homeowners assisted by the Ombudsman to apply 17 
-for other discount programs or public benefits and a brief summary of those programs and 18 
-benefits;  19 
+   (vi) a summary of the implementation of the Homeowner Protection 
+Program under Part VII of this subtitle, including outreach to homeowners under §  
+14–886(d) of this subtitle;  
  
-   (iv) the number of homeowners referred by the Ombudsman to legal 20 
-services,  housing counseling, and other social services, and a brief summary of those 21 
-services;  22 
+   (VII) THE TOTAL NUMBER OF PERSONS MAKING A VOL UNTA RY 
+DONATION TO THE HOMEOWNER PROTECTION PROGRAM UNDER PART VII OF THIS 
+SUBTITLE THROUGH THE  WEBSITE UNDER § 4–201.1  OF THIS ARTICLE ; 
  
-   (v) the number of homeowners enrolled in the Homeowner 23 
-Protection Program under Part VII of this subtitle;  24 
+   (VIII) THE TOTAL AMOUNT OF VOLUNTARY DONATIONS MADE TO 
+THE HOMEOWNER PROTECTION PROGRAM UNDER PART VII OF THIS SUBTITLE  
+THROUGH THE WEBSITE UNDER § 4–201.1  OF THIS ARTICLE ; 
  
-   (vi) a summary of the implementation of the Homeowner Protection 25 
-Program under Part VII of this subtitle, including outreach to homeowners under §  26 
-14–886(d) of this subtitle;  27 
+   (IX) THE BALANCE OF FUNDS  IN THE HOMEOWNER PROTECTION 
+FUND ESTABLISHED UNDE R § 14–891 OF THIS SUBTITLE AS OF THE DATE OF THE 
+REPORT , AND A DETAILED ACCOU NTING OF REVENUES RE CEIVED BY THE 
+HOMEOWNER PROTECTION FUND AND EXPENDITURES  MADE FROM THE 
+HOMEOWNER PROTECTION FUND IN THE PRECEDING  TAXABLE YEAR ;  
  
-   (VII) THE TOTAL NUMBER OF PERSONS MAKING A VOL UNTARY 28 
-DONATION TO THE HOMEOWNER PROTECTION PROGRAM UNDER PART VII OF THIS 29 
-SUBTITLE THROUGH THE WEBSITE UNDER § 4–201.1  OF THIS ARTICLE ; 30 
+   [(vii)] (IX) (X) any statutory or administrative changes the 
+Ombudsman recommends to improve the administration of the Homeowner Protection 
+Program under Part VII of this subtitle; and  
  
- HOUSE BILL 953 5 
+   [(viii)] (X) (XI) any other relevant information.  
  
-    (VIII) THE TOTAL AMOUNT OF VOLUNTARY DONATIONS MADE TO 1 
-THE HOMEOWNER PROTECTION PROGRAM UNDER PART VII OF THIS SUBTITLE 2 
-THROUGH THE WEBSITE UNDER § 4–201.1  OF THIS ARTICLE ; 3 
+14–884. 
  
-   (IX) THE BALANCE OF FU NDS IN THE HOMEOWNER PROTECTION 4 
-FUND ESTABLISHED UNDE R § 14–891 OF THIS SUBTITLE AS OF THE DATE OF THE 5 
-REPORT , AND A DETAILED ACCOU NTING OF REVENUES RE CEIVED BY THE 6 
-HOMEOWNER PROTECTION FUND AND EXPENDITURES  MADE FROM THE 7 
-HOMEOWNER PROTECTION FUND IN THE P RECEDING TAXABLE YEA R;  8 
+ WES MOORE, Governor  Ch. 647  
  
-   [(vii)] (IX) (X) any statutory or administrative changes the 9 
-Ombudsman recommends to improve the administration of the Homeowner Protection 10 
-Program under Part VII of this subtitle; and  11 
+– 5 –  (a) There is a Homeowner Protection Program administered by the Ombudsman 
+in the Department.  
  
-   [(viii)] (X) (XI) any other relevant information.  12 
+ (b) The purpose of the Program is to divert vulnerable home owners from the 
+private tax lien sale process under Part III of this subtitle into an alternative program with 
+the primary purpose of:  
  
-14–884. 13 
+  (1) minimizing tax collection costs to homeowners;  
  
- (a) There is a Homeowner Protection Program administered by the Ombudsman 14 
-in the Department.  15 
+  (2) assisting homeowners to pay their taxes; and  
  
- (b) The purpose of the Program is to divert vulnerable homeowners from the 16 
-private tax lien sale process under Part III of this subtitle into an alternative program with 17 
-the primary purpose of:  18 
+  (3) allowing  homeowners to remain in their homes.  
  
-  (1) minimizing tax collection costs to homeowners;  19 
+14–885. 
  
-  (2) assisting homeowners to pay their taxes; and  20 
+ [(e) County or municipal governments may not be required to pay any costs of the 
+Program. ] 
  
-  (3) allowing homeowners to remain in their homes.  21 
+14–886. 
  
-14–885. 22 
+ (c) The Ombudsman shall PRIORITIZE MAXIMIZIN G ENROLLMENT IN THE 
+PROGRAM BY : 
  
- [(e) County or municipal governments may not be required to pay any costs of the 23 
-Program. ] 24 
+  (1) prominently [advertise ] ADVERTISING  the Program and [make ] 
+MAKING  applications available on the Ombudsman’s website; [and] 
  
-14–886. 25 
+  (2) [collaborate ] COLLABORATING  with local governments, community 
+organizations, and public and private providers of social services and benefits to raise 
+awareness of the Program and disseminate applications ; 
  
- (c) The Ombudsman shall PRIORITIZE MAXIMIZIN G ENROLLMENT IN THE 26 
-PROGRAM BY : 27 
+  (3) STRONGLY ENCOURAGING  ALL HOMEOWNERS WHO M EET THE 
+ELIGIBILITY REQUIREMENTS TO ENRO LL IN THE PROGRAM ; AND 
  
-  (1) prominently [advertise ] ADVERTISING  the Program and [make ] 28 
-MAKING  applications available on the Ombudsman’s website; [and] 29 
+  (4) SCREENING EACH HOMEO WNER WHO CONTACTS TH E 
+OMBUDSMAN FOR ELIGIBI LITY FOR THE PROGRAM AND , IF THE HOMEOWNER 
+APPEARS TO BE ELIGIB LE, STRONGLY ENCOURAGING  THE HOMEOWNER TO 
+COMPLETE AN APPLICAT ION FOR THE PROGRA M. 
  
-6 HOUSE BILL 953   
+14–887. 
  
-   (2) [collaborate ] COLLABORATING  with local governments, community 1 
-organizations, and public and private providers of social services and benefits to raise 2 
-awareness of the Program and disseminate applications ; 3 
+ (e) If a homeowner’s enrollment in the Program is canceled under [§ 14–886(d) ] 
+§ 14–886( E) of this subtitle, the Department shall retain a lien on the homeowner’s 
+dwelling for the taxes owed to the Department but may not initiate any collecti on efforts or 
+otherwise act to enforce the lien until ownership of the dwelling is transferred.  
  
-  (3) STRONGLY ENCOURAGING ALL HOME OWNERS WHO MEET THE 4 
-ELIGIBILITY REQUIREM ENTS TO ENROLL IN TH E PROGRAM ; AND 5 
+Ch. 647  2025 LAWS OF MARYLAND   
  
-  (4) SCREENING EACH HOMEO WNER WHO CONTACTS TH E 6 
-OMBUDSMAN FOR ELIGIBI LITY FOR THE PROGRAM AND , IF THE HOMEOWNER 7 
-APPEARS TO BE ELIGIB LE, STRONGLY ENCOURAGING  THE  HOMEOWNER TO 8 
-COMPLETE AN APPLICAT ION FOR THE PROGRAM . 9 
+– 6 – 14–889. 
  
-14–887. 10 
+ (a) [(1) The Department may charge interest on unpaid taxes owed to the 
+Department at a rate not exceeding 6%.  
  
- (e) If a homeowner’s enrollment in the Program is canceled under [§ 14–886(d) ] 11 
-§ 14–886( E) of this subtitle, the Department shall retain a lien on the homeowner’s 12 
-dwelling for the taxes owed  to the Department but may not initiate any collection efforts or 13 
-otherwise act to enforce the lien until ownership of the dwelling is transferred.  14 
+  (2) The Ombudsman may set a lower i nterest rate or waive interest 
+entirely at the Ombudsman’s discretion. ] THE DEPARTMENT MAY NOT CH ARGE 
+INTEREST ON UNPAID T AXES OWED TO THE DEPARTMENT . 
  
-14–889. 15 
+ (b) [Other than the interest specified in subsection (a) of this section, the ] THE 
+Department may not i mpose any fees or costs on a homeowner in addition to the taxes 
+owed.  
  
- (a) [(1) The Department may charge interest on unpaid taxes owed to the 16 
-Department at a rate not exceeding 6%.  17 
+14–891. 
  
-  (2) The Ombudsman may set a lower interest rate or waive interest 18 
-entirely at the Ombudsman’s discretion. ] THE DEPARTMENT MAY NOT CH ARGE 19 
-INTEREST ON UNPAID T AXES OWED TO THE DEPARTMENT . 20 
+ (a) In this section, “Fund” means the Homeowner Protection Fund.  
  
- (b) [Other than the interest specified in subsectio n (a) of this section, the ] THE 21 
-Department may not impose any fees or costs on a homeowner in addition to the taxes 22 
-owed.  23 
+ (b) There is a Homeowner Protection Fund.  
  
-14–891. 24 
+ (c) The purpose of the Fund is to finance the Program.  
  
- (a) In this section, “Fund” means the Homeowner Protection Fund.  25 
+ (d) The Department shall administer the Fund.  
  
- (b) There is a Homeowner Protection Fund.  26 
+ (e) (1) The Fund is a special, nonlapsing fund that is not subject to § 7 –302 of 
+the State Finance and Procurement Article.  
  
- (c) The purp ose of the Fund is to finance the Program.  27 
+  (2) The State Treasurer shall hold the Fund separately, and the 
+Comptroller shall account for the Fund.  
  
- (d) The Department shall administer the Fund.  28 
+ (f) The Fund consists of:  
  
- (e) (1) The Fund is a special, nonlapsing fund that is not subject to § 7 –302 of 29 
-the State Finance and Procurement Article.  30 
+  (1) tax and interest payments made to the Department by homeowners 
+enrolled in the Program;  
  
- HOUSE BILL 953 7 
+  (2) voluntary donations to the Fund under § 4 –201.1 of this article;  
  
-   (2) The State Treasurer shall hold t he Fund separately, and the 1 
-Comptroller shall account for the Fund.  2 
+  (3) money appropriated in the State budget to the Fund;  
  
- (f) The Fund consists of:  3 
+  (4) MONEY PAID BY COUNTY  GOVERNMENTS UNDER SU BSECTION (H) 
+OF THIS SECTION ; 
  
-  (1) tax and interest payments made to the Department by homeowners 4 
-enrolled in the Program;  5 
+  [(4)] (5) interest earnings; and  
  
-  (2) voluntary donations to the Fund under § 4 –201.1 of this ar ticle;  6 
+  [(5)] (6) any other money from any other source accepted for the benefit 
+of the Fund.  
+ WES MOORE, Governor  Ch. 647  
  
-  (3) money appropriated in the State budget to the Fund;  7 
+– 7 –  
+ (g) For each [of] fiscal [years  2023, 2024, and 2025 ] YEAR , the Governor shall 
+include in the annual budget bill an appropriation of [$750,000 ] $500,000  $250,000  OF 
+THE INTEREST ON OVER DUE STATE PROPERTY TAX  to the Fund.  
  
-  (4) MONEY PAID BY COUNTY  GOVERNMENTS UNDER SU BSECTION (H) 8 
-OF THIS SECTION ; 9 
+ (H) (1) FOR EACH FISCAL YEAR , COUNTY GOVERNMENTS S HALL 
+COLLECTIV ELY PAY $1,000,000  $500,000  TO THE FUND. 
  
-  [(4)] (5) interest earnings; and  10 
+  (2) THE AMOUNT REQUIRED T O BE PAID UNDER PARA GRAPH (1) OF 
+THIS SUBSECTION SHAL L BE ALLOCATED AMONG  THE COUNTIES BASED O N THE 
+NUMBER OF REAL PROPE RTY ACCOUNTS IN EACH  COUNTY AS A PERCENTA GE OF THE 
+TOTAL NUMBER OF REAL PROPERTY ACCOUN TS STATEWIDE AS OF JULY 1 OF THE 
+PRECEDING FISCAL YEA R. 
  
-  [(5)] (6) any other money from any other source accepted for the benefit 11 
-of the Fund.  12 
+  (3) THE AMOUNT PAID BY EA CH COUNTY UNDER THIS  SUBSECTION 
+SHALL BE DERIVED FRO M INTEREST ON OVERDU E COUNTY PROPERTY TA X. 
  
- (g) For each [of] fiscal [years 2023, 2024, and 2025 ] YEAR , the Governor shall 13 
-include in the annual budget bill an appropriation of [$750,000 ] $500,000  $250,000  OF 14 
-THE INTEREST ON OVER DUE STATE PROPERTY TAX  to the Fund.  15 
+  (4) EACH COUNTY SHALL REM IT TO THE DEPARTMENT THE COUN TY’S 
+SHARE OF THE AMOUNT REQUIRED UNDER PARAG RAPH (1) OF THIS SUBSECTION O N 
+OR BEFORE THE FIRST DAY OF EACH FISCAL Y EAR. 
  
- (H) (1) FOR EACH F ISCAL YEAR , COUNTY GOVERNMENTS S HALL 16 
-COLLECTIVELY PAY $1,000,000  $500,000  TO THE FUND. 17 
+ [(h)] (I) (1) The Fund may be used only for any expenses associated with the 
+Program.  
  
-  (2) THE AMOUNT REQUIRED T O BE PAID UNDER PARA GRAPH (1) OF 18 
-THIS SUBSECTION SHAL L BE ALLOCATED AMONG  THE COUNTIES BASED O N THE 19 
-NUMBER OF REAL PROPE RTY ACCOUNTS IN EACH  COUNTY AS A PERCENTA GE OF THE 20 
-TOTAL NUMBER OF REAL  PROPERTY ACCOUNTS ST ATEWIDE AS OF JULY 1 OF THE 21 
-PRECEDING FISCAL YEA R. 22 
+  (2) The Fund may not be used for any expenses of the office of the State 
+Tax Sale Ombudsman that are not directly related to the Program.  
  
-  (3) THE AMOUNT PAID BY EA CH COUNTY UNDER THIS  SUBSECTION 23 
-SHALL BE DERIVED FRO M INTEREST ON OVERDU E COUNTY PROPERTY TA X. 24 
+ [(i)] (J) (1) The State Treasurer shall invest the money of the Fund in the 
+same manner as other State money may be invested.  
  
-  (4) EACH  COUNTY SHALL REMIT T O THE DEPARTMENT THE COUNTY ’S 25 
-SHARE OF THE AMOUNT REQUIRED UNDER PARAG RAPH (1) OF THIS SUBSECTION O N 26 
-OR BEFORE THE FIRST DAY OF EACH FISCAL Y EAR. 27 
+  (2) Any interest earning s of the Fund shall be credited to the Fund.  
  
- [(h)] (I) (1) The Fund may be used only for any expenses associated with the 28 
-Program.  29 
+ [(j)] (K) Expenditures from the Fund may be made only in accordance with the 
+State budget.  
  
-  (2) The Fund may not be used for any expenses of the office of the State 30 
-Tax Sale Ombudsman that are not directly related to the Program.  31 
-8 HOUSE BILL 953   
+ [(k)] (L) The Fund is the exclusive source of funding for the Program.  
  
-  
- [(i)] (J) (1) The State Treasurer shall invest the money of the Fund in the 1 
-same manner as other State money may b e invested.  2 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 
+1, 2025.  
  
-  (2) Any interest earnings of the Fund shall be credited to the Fund.  3 
- 
- [(j)] (K) Expenditures from the Fund may be made only in accordance with the 4 
-State budget.  5 
- 
- [(k)] (L) The Fund is the exclusive source of funding for the Program.  6 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 7 
-1, 2025.  8 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 20, 2025.  

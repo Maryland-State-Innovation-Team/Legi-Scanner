@@ -1,179 +1,156 @@
+ WES MOORE, Governor  Ch. 209  
  
+– 1 – Chapter 209  
+(House Bill 969 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0969*      
-HOUSE BILL 969  
-Q1   5lr3270  
-    CF SB 774  
-By: Delegate A.  Johnson  Delegates A.  Johnson, Griffith, and Wells  
-Introduced and read first time: January 31, 2025  
-Assigned to: Ways and Means  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: March 4, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Property Tax – Valuation of Operating Property of Rural  Payment in Lieu of 
+Taxes Agreements – Broadband Service Providers  
  
-AN ACT concerning  1 
+FOR the purpose of requiring the State Department of Assessments and Taxation, subject 
+to certain limitations, to use a certain method when determining the value of the 
+operating property of a provider of rural broadband service; and generally relating 
+to the valuation of  authorizing the governing body of a county to enter into a payment 
+in lieu of taxes agreement with a provider of broadband service located in the county 
+for property located in the county and owned by the provider; and generally relating 
+to payment in lieu of taxes agreements for  the property of rural  broadband service 
+providers.  
  
-Property Tax – Valuation of Operating Property of Rural  Payment in Lieu of 2 
-Taxes Agreements – Broadband Service Providers  3 
+BY repealing and reenacting, with amendments,  
+ Article – Tax – Property  
+Section 8 –109 
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of requiring the State Department of Assessments and Taxation, subject 4 
-to certain limitations, to use a certain method when determining the value of the 5 
-operating property of a provider of rural broadband service; and generally relating 6 
-to the valuation of  authorizing the governing body of a county to enter into a payment 7 
-in lieu of taxes agreement with a provider of broadband service located in the county 8 
-for property located in the county and ow ned by the provider; and generally relating 9 
-to payment in lieu of taxes agreements for  the property of rural  broadband service 10 
-providers.  11 
+BY adding to  
+ Article – Tax – Property  
+ Section 7 –522 
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  12 
- Article – Tax – Property  13 
-Section 8 –109 14 
- Annotated Code of Maryland  15 
- (2019 Replacement Volume and 2024 Supplement)  16 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY adding to  17 
- Article – Tax – Property  18 
- Section 7 –522 19 
- Annotated Code of Maryland  20 
- (2019 Replacement Volume and 2024 Supplement)  21 
+Articl e – Tax – Property  
  
-2 HOUSE BILL 969   
+8–109. 
  
-  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 1 
-That the Laws of  Maryland read as follows:  2 
+ (a) [The] EXCEPT AS PROVIDED IN  SUBSECTION (F) OF THIS SECTION , THE 
+Department shall annually value the operating unit of a public utility on the basis of the 
+value of the operating property of the public utility, by considering:  
  
-Article – Tax – Property  3 
+  (1) the earning capacity of the operating unit; and  
  
-8–109. 4 
+  (2) all other factors relevant to a  determination of value of the operating 
+unit.  
  
- (a) [The] EXCEPT AS PROVIDED IN  SUBSECTION (F) OF THIS SECTION , THE 5 
-Department shall annually value the operating unit of a public utility on the basis of the 6 
-value of the operating property of the public utility, by considering:  7 
+Ch. 209  2025 LAWS OF MARYLAND   
  
-  (1) the earning capacity of the operating unit; and  8 
+– 2 –  (b) The Department shall allocate to this State the value of that part of the 
+operating unit that is reasonably attributable to the part located in this State.  
  
-  (2) all other factors relevant to a  determination of value of the operating 9 
-unit.  10 
+ (c) (1) From the value allocated to this State under subsection (b) of this 
+section, the Department shall deduct:  
  
- (b) The Department shall allocate to this State the value of that part of the 11 
-operating unit that is reasonably attributable to the part located in this State.  12 
+   (i) the fair average value of fuel that represents the percentage 
+reduction or exemption authorized by §§ 7 –108, 7 –222, and 7 –226 of this article; and  
  
- (c) (1) From the value allocated to this Stat e under subsection (b) of this 13 
-section, the Department shall deduct:  14 
+   (ii) the assessment of o perating property, if any, that is exempt by 
+law from property tax.  
  
-   (i) the fair average value of fuel that represents the percentage 15 
-reduction or exemption authorized by §§ 7 –108, 7 –222, and 7 –226 of this article; and  16 
+  (2) (i) The value remaining after making the deductions shall be 
+divided into an operating real property value and an operating personal property value, as 
+determined by the Department.  
  
-   (ii) the assessment of opera ting property, if any, that is exempt by 17 
-law from property tax.  18 
+   (ii) The value of operating real property is the assessment of 
+operating real property of a public utility.  
  
-  (2) (i) The value remaining after making the deductions shall be 19 
-divided into an operating real property value and an operating personal property value, as 20 
-determined by the Department.  21 
+   (iii) The value of operating personal property is the assessment of 
+operating personal property of a public utility.  
  
-   (ii) The value of operating real property is the assessment of 22 
-operating real property of a public utility.  23 
+  (3) Operating land of a public utility is valued and assessed by the 
+Department as part of the operating unit and is not valued and assessed by the supervisor.  
  
-   (iii) The value of operating personal property is the assessment of 24 
-operating personal property of a public utility.  25 
+  (4) The provisions of this subsection are not intended to alter the law as 
+codified in former Article 81 of the Code that was in effect as of January 31, 1986.  
  
-  (3) Operating land of a  public utility is valued and assessed by the 26 
-Department as part of the operating unit and is not valued and assessed by the supervisor.  27 
+  (5) Returns, notices, and appeals of operating property assessments shall 
+be administered pursuant to the sections of this article governing personal property 
+assessments.  
  
-  (4) The provisions of this subsection are not intended to alter the law as 28 
-codified in former Article 81 of the Code  that was in effect as of January 31, 1986.  29 
+ (d) For operating property of a  public utility, the Department shall apportion the 
+assessment of that operating property among the counties and municipal corporations 
+where the operating property is located.  
  
-  (5) Returns, notices, and appeals of operating property assessments shall 30 
-be administered pursuant to the sections of this article governing personal property 31 
-assessments.  32 
- HOUSE BILL 969  3 
+ (e) (1) In determining whether to classify a company as a public utility, the  
+Department shall consider and evaluate whether the company:  
  
-  
- (d) For operating property of a pub lic utility, the Department shall apportion the 1 
-assessment of that operating property among the counties and municipal corporations 2 
-where the operating property is located.  3 
+   (i) is subject to the authority of a regulatory body of the State or the 
+federal government, such as the Maryland Public Service Commission, the Federal 
+Communications Commission, or the Fede ral Energy Regulatory Commission;  
  
- (e) (1) In determining whether to classify a company as a public utility, the 4 
-Department shall consider and evaluate whether the company:  5 
+   (ii) uses a significant portion of the real and personal property used 
+in its business operations as an integrated whole or unit;  
  
-   (i) is subject to the authority of a regulatory body of the State or the 6 
-federal government, such as the Maryland Public Service Commission, the Federal 7 
-Communications Commission, or the Federal Energy Regulatory Commission;  8 
+ WES MOORE, Governor  Ch. 209  
  
-   (ii) uses a significant portion of the real and personal property used 9 
-in its business operations as an integrated whole or unit;  10 
+– 3 –    (iii) provides a basic service to the public; and  
  
-   (iii) provides a basic service to the public; and  11 
+   (iv) owns or uses assets that are most appropriately appraised using 
+the unit valuation method.  
  
-   (iv) owns or uses assets that are most appropriately appraised using 12 
-the unit valuation method.  13 
+  (2) Notwithstanding a company’s failure to meet all of the criteria under 
+paragraph (1) of this subsection, the Department may classify the company as a public 
+utility if the Department d etermines that the company predominantly meets the criteria.  
  
-  (2) Notwithstanding a company’s failure to meet all of the criteria under 14 
-paragraph (1) of this subsection, the Department may classify the company as a public 15 
-utility if the Department deter mines that the company predominantly meets the criteria.  16 
+ (F) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , IN 
+DETERMINING THE VALU E OF OPERATING PROPE RTY OF A PROVIDER OF  RURAL  
+BROADBAND SERVICE , THE DEPARTMENT : 
  
- (F) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , IN 17 
-DETERMINING THE VALU E OF OPERATING PROPE RTY OF A PROVIDER OF  RURAL  18 
-BROADBAND SERVICE , THE DEPARTMENT : 19 
+   (I) WHEN USING AN INCOME  APPROACH , SHALL CONSIDER  
+ONLY ACTUAL OPERATIN G INCOME ; AND  
  
-   (I) WHEN USING AN INCOME  APPROACH , SHALL CONSIDER  20 
-ONLY ACTUAL OPERATIN G INCOME ; AND  21 
+   (II) WHEN USING A REPLACE MENT COST APPROACH , SHALL  
+OFFSET THE VALUATION  OF PROPERTY TO THE E XTENT OF ANY CONTRIB UTIONS , 
+TAX CREDITS , OR OTHER SUBSIDIES A ND BENEFITS PROVIDED  BY A GOVERNMENTAL  
+UNIT OR PROGRAM . 
  
-   (II) WHEN USING A REPLACE MENT COST APPROACH , SHALL  22 
-OFFSET THE VALUATION  OF PROPERTY TO THE E XTENT OF ANY CONTRIB UTIONS , 23 
-TAX CREDITS , OR OTHER SUBSIDIES A ND BENEFITS PROVIDED  BY A GOVERNMENTAL  24 
-UNIT OR PRO GRAM . 25 
+  (2) THE DEPARTMENT MAY USE TH E REPLACEMENT COST A PPROACH  
+UNDER PARAGRAPH (1)(II) OF THIS SUBSECTION O NLY IF THE VALUE DET ERMINED  
+IS LESS THAN THE VAL UE DETERMINED USING THE INCOME APPROACH UNDER  
+PARAGRAPH (1)(I) OF THIS SUBSECTION . 
  
-  (2) THE DEPARTMENT MAY USE TH E REPLACEMENT COST A PPROACH  26 
-UNDER PARAGRAPH (1)(II) OF THIS SUBSECTION O NLY IF THE VALUE DET ERMINED  27 
-IS LESS THAN THE VAL UE DETERMINED USING THE INCOME APPROACH UNDER  28 
-PARAGRAPH (1)(I) OF THIS SUBSECTION . 29 
+ [(f)] (G) The Department may adopt regulations to carry out the provisions of 
+this section.  
  
- [(f)] (G) The Department may adopt regulations to carry out the provisions of 30 
-this section.  31 
+7–522.  
  
-7–522.  32 
+ (A) THE GOVERNING BODY OF  A COUNTY MAY ENTER I NTO AN AGREEMENT 
+WITH A BROADBAND SER VICES PROVIDER LOCAT ED IN THE COUNTY FOR  A 
+NEGOTIATED PAYMENT B Y THE PROVIDER IN LIEU OF TAXES ON PROPERTY 
+LOCATED IN THE COUNT Y AND OWNED BY THE P ROVIDER . 
  
-4 HOUSE BILL 969   
+ (B) AN AGREEMENT FOR A NE GOTIATED PAYMENT IN LIEU OF TAXES UNDER 
+THIS SECTION SHALL P ROVIDE THAT , FOR THE TERM SPECIFI ED IN THE 
+AGREEMENT : 
  
-  (A) THE GOVERNING BODY OF  A COUNTY MAY ENTER I NTO AN AGREEMENT 1 
-WITH A BROADBAND SER VICES PROVIDER LOCAT ED IN THE COUNTY FOR  A 2 
-NEGOTIATED PAYMENT B Y THE PROVIDER IN LI EU OF TAXES ON PROPER TY 3 
-LOCATED IN THE COUNT Y AND OWNED BY THE P ROVIDER . 4 
+  (1) THE PROVIDER SHALL P AY TO THE COUNTY A SP ECIFIED AMOUNT 
+EACH YEAR IN LIEU OF  THE PAYMENT OF COUNT Y REAL AND PERSONAL PROPERTY 
+TAX; AND  
  
- (B) AN AGREEMENT FOR A NE GOTIATED PAYMENT IN LIEU OF TAXES UNDER 5 
-THIS SECTION SHALL P ROVIDE THAT , FOR THE TERM SPECIFI ED IN THE 6 
-AGREEMENT : 7 
+Ch. 209  2025 LAWS OF MARYLAND   
  
-  (1) THE PROVIDER SHALL P AY TO THE COUNTY  A SPECIFIED AMOUNT 8 
-EACH YEAR IN LIEU OF  THE PAYMENT OF COUNT Y REAL AND PERSONAL PROPERTY 9 
-TAX; AND  10 
+– 4 –   (2) ALL OR A SPECIFIED P ART OF THE PROVIDER ’S REAL AND 
+PERSONAL PROPERTY LO CATED IN THE COUNTY SHALL BE EXEMPT FROM  COUNTY 
+PROPERTY TAX FOR  THE TERM OF THE AGRE EMENT . 
  
-  (2) ALL OR A SPECIFIED P ART OF THE PROVIDER ’S REAL AND 11 
-PERSONAL PROPERTY LO CATED IN THE COUNTY SHALL BE EXEMPT FROM  COUNTY 12 
-PROPERTY TAX FOR THE  TERM OF TH E AGREEMENT . 13 
+ (C) AS SPECIFIED IN AN AG REEMENT FOR A NEGOTI ATED PAYMENT IN LIEU  
+OF TAXES UNDER THIS SECTION , FOR THE TERM SPECIFI ED IN THE AGREEMENT , THE 
+PROVIDER ’S REAL AND PERSONAL PROPERTY LOCATED IN THE COUNTY IS EXEMPT  
+FROM COUNTY PROP ERTY TAX .  
  
- (C) AS SPECIFIED IN AN AG REEMENT FOR A NEGOTI ATED PAYMENT IN LIEU  14 
-OF TAXES UNDER THIS SECTION , FOR THE TERM SPECIFI ED IN THE AGREEMENT , THE 15 
-PROVIDER ’S REAL AND PERSONAL PROPERTY LOCATED IN THE COUNTY IS EXEMPT  16 
-FROM COUNTY PROPERTY  TAX.  17 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June 
+1, 2025, and shall be applicable to all taxable years beginning after June 30, 2025.  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June 18 
-1, 2025, and shall be applicable to all taxable years beginning after June 30, 2025.  19 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, April 22, 2025.  

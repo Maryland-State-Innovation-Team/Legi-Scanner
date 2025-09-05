@@ -1,265 +1,238 @@
+ WES MOORE, Governor  Ch. 660  
  
+– 1 – Chapter 660  
+(House Bill 11 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0011*      
-HOUSE BILL 11  
-J5, J4    5lr1407  
-  (PRE –FILED)  CF SB 902  
-By: Delegate Sample –Hughes  Delegates Sample –Hughes, Alston, Bagnall , 
-Bhandari, Chisholm, Cullison, Guzzone, Hill, Hutchinson, S.  Johnson, 
-Kaiser, Kerr, Kipke, Lopez, Martinez, M.  Morgan, Pena –Melnyk, Reilly, 
-Rosenberg, Szeliga, Taveras, White  Holland, Woods, and Woorman  
-Requested: October 18, 2024  
-Introduced and read fi rst time: January 8, 2025  
-Assigned to: Health and Government Operations  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: February 22, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Health Insurance – Access to Nonparticipating Providers – Referrals, Additional 
+Assistance, and Coverage  
  
-AN ACT concerning  1 
+FOR the purpose of repealing the termination date for certain provisions of law related to 
+referrals to and reimbursement of specialists and nonphysician specialists who are 
+not part of a carrier’s provider panel; requiring that a certain referral procedur e 
+required to be established and implemented by certain insurers, nonprofit health 
+service plans, and health maintenance organizations require the carrier to provide 
+certain assistance to a member in identifying and arranging coverage for a specialist 
+or nonphysician specialist for treatment of a mental health or substance use disorder 
+services ; prohibiting certain carriers from imposing prior authorization 
+requirements for scheduling, reimbursing, or continuing an established treatment 
+plan by certain nonp articipating providers  utilization review requirements other 
+than what would be required if the covered benefit was provided by a provider on the 
+carrier’s provider panel under certain circumstances ; requiring the Maryland Health 
+Care Commission to establi sh certain reimbursement rates for nonparticipating 
+providers;  and generally relating to access to nonparticipating providers.  
  
-Health Insurance – Access to Nonparticipating Providers – Referrals, Additional 2 
-Assistance, and Coverage  3 
+BY repealing and reenacting, without amendments,  
+ Article – Insurance  
+Section 15 –830(a)  
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of repealing the termination date for certain provisions of law related to 4 
-referrals to and reimbursement of specialists and nonphysician specialists who are 5 
-not part of a carrier’s provider panel; requiring that a certain referral procedure 6 
-required to be established and implemented by certain insurers, nonprofit health 7 
-service plans, and health maintenance organizations require the carrier to provide 8 
-certain ass istance to a member in identifying and arranging coverage for a specialist 9 
-or nonphysician specialist for treatment of a mental health or substance use disorder 10 
-services ; prohibiting certain carriers from imposing prior authorization 11 
-requirements for scheduling, reimbursing, or continuing an established treatment 12 
-plan by certain nonparticipating providers  utilization review requirements other 13 
-than what would be required if the covered benefit was provided by a provider on the 14 
-carrier’s provider panel u nder certain circumstances ; requiring the Maryland Health 15 
-Care Commission to establish certain reimbursement rates for nonparticipating 16 
-providers;  and generally relating to access to nonparticipating providers.  17 
+BY repealing and reenacting, with amendments,  
+ Article – Insurance  
+Section 15 –830(d) and (e)  
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amen dments,  18 
- Article – Insurance  19 
-Section 15 –830(a)  20 
-2 HOUSE BILL 11   
+BY repealing and reenacting, with amendments,  
+ Chapter 271 of the Acts of the General Assembly of 2022  
+ Section 4  
  
-  Annotated Code of Maryland  1 
- (2017 Replacement Volume and 2024 Supplement)  2 
+BY repealing and reenacting, with amendments,  
+ Chapter 272 of the Acts of the General Assembly of 2022  
+ Section 4  
  
-BY repealing and reenacting, with amendments,  3 
- Article – Insurance  4 
-Section 15 –830(d) and (e)  5 
- Annotated Code of Maryland  6 
- (2017 Replacement Volume and 2024 Supplement)  7 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  8 
- Chapter 271 of the Acts of the General Assembly of 2022  9 
- Section 4  10 
+Ch. 660  2025 LAWS OF MARYLAND   
  
-BY repealing and reenacting, with amendments,  11 
- Chapter 272 of the Acts of the General Assembly of 20 22 12 
- Section 4  13 
+– 2 – Article – Insurance  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 14 
-That the Laws of Maryland read as follows:  15 
+15–830. 
  
-Article – Insurance  16 
+ (a) (1) In this section the following words have the meanings indicated.  
  
-15–830. 17 
+  (2) “Carrier” means:  
  
- (a) (1) In this section the following words have the meanings indicated.  18 
+   (i) an insurer that offers health insurance other than long –term 
+care insurance or disability insurance;  
  
-  (2) “Carrier” means:  19 
+   (ii) a nonprofit health service plan;  
  
-   (i) an insurer that offers health insurance other than long –term 20 
-care insurance or disability insurance;  21 
+   (iii) a health maintenance organization;  
  
-   (ii) a nonprofit health service plan;  22 
+   (iv) a dental plan organization; or  
  
-   (iii) a health maintenance organization;  23 
+   (v) except for a managed care organization as defined in Title 15, 
+Subtitle 1 of the Health – General A rticle, any other person that provides health benefit 
+plans subject to State regulation.  
  
-   (iv) a dental plan organization; or  24 
+  (3) (i) “Member” means an individual entitled to health care benefits 
+under a policy or plan issued or delivered in the State by a carrier.  
  
-   (v) except for a managed care organization as defined in Title 15, 25 
-Subtitle 1 of the Health – General Article, any other person that provides health benefit 26 
-plans subject to State regulation.  27 
+   (ii) “Member” includ es a subscriber.  
  
-  (3) (i) “Member” means an individual entitled to health care benefits 28 
-under a policy or plan issued or delivered in the State by a carrier.  29 
+  (4) “Nonphysician specialist” means a health care provider:  
  
-   (ii) “Member” includes a subscriber.  30 
+   (i) 1. who is not a physician;  
  
-  (4) “Nonphysician specialist” means a health care provider:  31 
- HOUSE BILL 11  3 
+    2. who is licensed or certified under the Health Occupations 
+Article; and  
  
-  
-   (i) 1. who is not a physician;  1 
+    3. who is certified or trained to treat or provide health  care 
+services for a specified condition or disease in a manner that is within the scope of the 
+license or certification of the health care provider; or  
  
-    2. who is licensed or certified under the Health Occupations 2 
-Article; and  3 
+   (ii) that is licensed as a behavioral health program under § 7.5 –401 
+of the Health – General Articl e. 
  
-    3. who is certified or trained to treat or provide health care 4 
-services for a specified condition or disease in a manner that is within the scope of the 5 
-license or certification of the health care provider; or  6 
+  (5) (i) “Provider panel” means the providers that contract with a carrier 
+either directly or through a subcontracting entity to provide health care services to 
+enrollees of the carrier.  
  
-   (ii) that is  licensed as a behavioral health program under § 7.5 –401 7 
-of the Health – General Article.  8 
+ WES MOORE, Governor  Ch. 660  
  
-  (5) (i) “Provider panel” means the providers that contract with a carrier 9 
-either directly or through a subcontracting entity to provide health care services to 10 
-enrollees of the carrier.  11 
+– 3 –    (ii) “Provider panel” does not include an arrangement in which any 
+provider may participate solely by contracting with the carrier to provide health care 
+services at a discounted fee –for–service rate.  
  
-   (ii) “Provider panel” does not include an arrangement in which any 12 
-provider may participate solely by contracting with the carrier to provide health care 13 
-services at a discounted fee –for–service rate.  14 
+  (6) “Specialist” means a physician who is certified or trained to practice in 
+a specified field of medicine a nd who is not designated as a primary care provider by the 
+carrier.  
+ 
+ (d) (1) Each carrier shall establish and implement a procedure by which a 
+member may request a referral to a specialist or nonphysician specialist who is not part of 
+the carrier’s provid er panel in accordance with this subsection.  
+ 
+  (2) The procedure shall provide for a referral to a specialist or nonphysician 
+specialist who is not part of the carrier’s provider panel if:  
+ 
+   (i) 1. the member is diagnosed with OR SEEKING CARE FOR  a 
+condition or disease that requires specialized health care services or medical care; and  
+ 
+   (ii) 1. 2. A. the carrier does not have in its provider panel a 
+specialist or nonphysician specialist with the professional training and expertise to treat or 
+provide health care services for the condition or disease; or  
+ 
+    2. B. the carrier cannot provide reasonable access to a specialist 
+or nonphysician specialist with the professional training and expertise to treat or provide 
+health care services for the co ndition or disease [without unreasonable delay or travel ], 
+INCLUDING  WITHIN THE REASONABL E APPOINTMENT WAITIN G TIME AND TRAVEL 
+DISTANCE STANDARDS E STABLISHED IN REGULA TION FOR MENTAL HEALTH AN D 
+SUBSTANCE USE DISORD ER SERVICES ; OR 
+ 
+   (II) 1. THE MEMBER IS SEEKIN G MENTAL HEALTH OR 
+SUBSTANCE USE DISORD ER CARE ; AND  
+ 
+    2. THE CARRIER CANNOT P ROVIDE REASONABLE 
+ACCESS TO A SPECIALI ST OR NONPHYSICIAN S PECIALIST WITHIN THE  REASONABLE 
+APPOINTMENT WAITING TIME AND TRAVEL DIST ANCE STANDARDS ESTAB LISHE D IN 
+REGULATION FOR MENTA L HEALTH AND SUBSTAN CE USE DISORDER SERV ICES . 
  
-  (6) “Specialist” means a physician who is certified or trained to practice in 15 
-a specified field of medicine and who is not designated as a primary care provider by the 16 
-carrier.  17 
+  (3) The procedure shall ensure that a request to obtain a referral to a 
+specialist or nonphysician specialist who is not part of the carrier’s provider panel is 
+addressed in a timely  manner that is:  
  
- (d) (1) Each carrier shall establish and implement a procedure by which a 18 
-member may request a referra l to a specialist or nonphysician specialist who is not part of 19 
-the carrier’s provider panel in accordance with this subsection.  20 
- 
-  (2) The procedure shall provide for a referral to a specialist or nonphysician 21 
-specialist who is not part of the carrier’s p rovider panel if:  22 
+   (i) appropriate for the member’s condition; and  
  
-   (i) 1. the member is diagnosed with OR SEEKING CARE FOR  a 23 
-condition or disease that requires specialized health care services or medical care; and  24 
+   (ii) in accordance with the timeliness requirements for 
+determinations made by private review agents under § 15 –10B–06 of this title.  
+Ch. 660  2025 LAWS OF MARYLAND   
  
-   (ii) 1. 2. A. the carrier does not have in its provider panel a 25 
-specialist or nonphysician specialist with the professional training and expertise to treat or 26 
-provide health care services for the condition or disease; or  27 
+– 4 –  
+  (4) IF A MEMBER CANNOT AC CESS MENTAL HEALTH O R SUBSTANCE 
+USE DISORDER SERVICE S THROUGH THE REFERR AL REQUIREMENTS UNDE R 
+PARAGRAPHS (2) AND (3) OF THIS SUBSECTION , THE PROCEDURE SHALL REQUIRE 
+THE CARRIER TO PROVI DE ADDITIONAL ASSIST ANCE TO THE MEMBER I N 
+IDENTIFYING AND ARRA NGING COVERAGE OF ME NTAL HEALT H OR SUBSTANCE USE 
+DISORDER SERVICES BY  A SPECIALIST OR NONP HYSICIAN SPECIALIST WHO IS NOT 
+PART OF THE CARRIER ’S PROVIDER PANEL .  
  
-    2. B. the carrier cannot provide reasonable access to a specialist 28 
-or nonphysician  specialist with the professional training and expertise to treat or provide 29 
-health care services for the condition or disease [without unreasonable delay or travel ], 30 
-INCLUDING  WITHIN THE REASONABL E APPOINTMENT WAITIN G TIME AND TRAVEL 31 
-DISTANCE STANDARDS E STABLISHED IN REGULAT ION FOR MENTAL HEALTH AN D 32 
-SUBSTANCE USE DISORD ER SERVICES ; OR 33 
+  (5) THE PROCEDURE MAY NOT  REQUIRE PRIOR AUTHOR IZATION FOR  
+PURPOSES OF : 
  
-4 HOUSE BILL 11   
+   (I) SCHEDULING AN APPOIN TMENT WITH A SPECIAL IST OR 
+NONPHYSICIAN SPECIAL IST WHO IS NOT PART OF THE CARRIER ’S PROVIDER PANEL ; 
  
-    (II) 1. THE MEMBER IS SEEKIN G MENTAL HEALTH OR 1 
-SUBSTANCE USE DISORD ER CARE ; AND  2 
+   (II) REIMBURSING A SPECIA LIST OR NONPHYSICIAN  SPECIALIST  
+WHO IS NOT PART OF T HE CARRIER ’S PROVIDER PANEL ; OR 
  
-    2. THE CARRIER CANNOT P ROVIDE REASONABLE 3 
-ACCESS TO A SPECIALI ST OR NONPHYSICIAN S PEC IALIST WITHIN THE RE ASONABLE 4 
-APPOINTMENT WAITING TIME AND TRAVEL DIST ANCE STANDARDS ESTAB LISHED IN 5 
-REGULATION FOR MENTA L HEALTH AND SUBSTAN CE USE DISORDER SERV ICES . 6 
+   (III) CONTINUING AN ESTABL ISHED TREATMENT PLAN  WITH A  
+SPECIALIS T OR NONPHYSICIAN SP ECIALIST WHO IS NOT PART OF THE CARRIER ’S 
+PROVIDER PANEL  IF A CARRIER APPROVES  A MEMBER ’S REQUEST FOR A REFE RRAL 
+MADE IN ACCORDANCE W ITH THIS SUBSECTION , THE CARRIER MAY NOT REQUIRE 
+UTILIZATION REVIEW O THER THAN WHAT WOULD  BE REQUIRED I F THE COVERED 
+BENEFIT WERE PROVIDE D BY A PROVIDER ON T HE CARRIER ’S PROVIDER PANEL .  
  
-  (3) The procedure shall ensure that a request to obtain a referral to a 7 
-specialist or nonphysician specialist who is not part of the carrier’s provider panel is 8 
-addressed in a timely manner that is:  9 
+  [(4)] (6) The procedure may not be used by a carrier as a substitute for 
+establishing and maintaining a sufficient provider network in accordance with § 15 –112 of 
+this t itle. 
  
-   (i) appropriate for the member’s condition; and  10 
+  [(5)] (7) Each carrier shall:  
  
-   (ii) in accordance with the timeliness requirements for 11 
-determinations made by private review agents under § 15 –10B–06 of this title.  12 
+   (i) have a system in place that documents all requests to obtain a 
+referral to receive a covered service from a specialist or nonphysician specialist who is not 
+part of the carrier’s provider panel;  
  
-  (4) IF A MEMBER CANNOT AC CESS MENTAL HEALTH O R SUBSTANCE 13 
-USE DISORDER SERVICE S THROUGH THE REFERR AL REQUIREMENTS UNDE R 14 
-PARAGRAPHS (2) AND (3) OF THIS SUBSECTION , THE PROCEDURE SHALL REQUIRE 15 
-THE CARRIER TO P ROVIDE ADDITIONAL AS SISTANCE TO THE MEMB ER IN 16 
-IDENTIFYING AND ARRA NGING COVERAGE OF ME NTAL HEALTH OR SUBST ANCE USE 17 
-DISORDER SERVICES BY  A SPECIALIST OR NONP HYSICIAN SPECIALIST WHO IS NOT 18 
-PART OF THE CARRIER ’S PROVIDER PANEL .  19 
+   (ii) inform members of the procedure to request a referral under 
+paragraph (1) of this subsection; and  
  
-  (5) THE PROCEDURE MAY NOT  REQUIRE PRIOR AUTHORI ZATION FOR  20 
-PURPOSES OF : 21 
+   (iii) provide the information documented under item (i) of this 
+paragraph to the Commissioner on request.  
  
-   (I) SCHEDULING AN APPOIN TMENT WITH A SPECIAL IST OR  22 
-NONPHYSICIAN SPECIAL IST WHO IS NOT PART OF THE CARRIER ’S PROVIDER PANEL ; 23 
+ (e) (1) Except as provided in paragraph (2) of  this subsection, for purposes of 
+calculating any deductible, copayment amount, or coinsurance payable by the member, a 
+ WES MOORE, Governor  Ch. 660  
  
-   (II) REIMBURSING A SPECIA LIST OR NONPHYSICIAN  SPECIALIST  24 
-WHO IS NOT PART OF T HE CARRIER ’S PROVIDER PANEL ; OR 25 
+– 5 – carrier shall treat services received in accordance with subsection (d) of this section as if 
+the service was provided by a provider on the carrier’s provider panel.  
  
-   (III) CONTINUING AN ESTABL ISHED TREATMENT PLAN  WITH A  26 
-SPECIALIST OR NONPHY SICIAN SPECIALIST WH O IS NOT PART OF THE  CARRIER ’S 27 
-PROVIDER PANEL  IF A CARRIER APPROVES  A MEMBER ’S REQUEST FOR A REFE RRAL 28 
-MADE IN ACCORDANCE W ITH THI S SUBSECTION , THE CARRIER MAY NOT REQUIRE 29 
-UTILIZATION REVIEW O THER THAN WHAT WOULD  BE REQUIRED IF THE C OVERED 30 
-BENEFIT WERE PROVIDE D BY A PROVIDER ON T HE CARRIER ’S PROVIDER PANEL .  31 
+  (2) A carrier shall ensure that services received in accordance with 
+subsection (d) of this section for mental health or substance use disorders are provided FOR 
+THE DURATION OF THE TREATMENT PLAN at no greater cost to the covered individual 
+than if the covered benefit were provided by a provider on the carrier’s provider panel.  
  
-  [(4)] (6) The procedure may not be used by a carrier as a substitute for 32 
-establishing and maintaining a sufficient provider network in accordance with § 15 –112 of 33 
-this title.  34 
+  (3) (I) SUBJECT TO SUBPARAGRA PH (II) OF THIS PARAGRAPH , AND  
+NOT LATER THAN JANUARY 1, 2026,  THE MARYLAND HEALTH CARE COMMISSION  
+SHALL ESTABLISH A  REIMBURSEMENT FORMUL A TO DETERMINE THE  
+REIMBURSEMENT RATE F OR NONPARTICIPATING PROVIDERS WHO DELIVE R 
+SERVICES UNDER PARAG RAPH (2) OF THIS SUBSECTION . 
  
- HOUSE BILL 11  5 
+   (II) THE MARYLAND HEALTH CARE COMMISSION SHALL HOLD  
+PUBLIC MEETINGS WITH  CARRIERS , MENTAL HEALTH AND SUBSTANCE USE  
+DISORDER PROVIDERS , CONSUMERS OF MENTAL HEALTH AND SUBSTANCE  USE 
+DISORDER SERVICES , AND OTHER INTERESTED  PARTIES TO DETERMINE  THE 
+REIMBURSEMENT FORMUL A.  
  
-   [(5)] (7) Each carrier shall:  1 
+ SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 
+as follows:  
  
-   (i) have a system in place that documents all requests to obtain a 2 
-referral to receive a covered service from a speci alist or nonphysician specialist who is not 3 
-part of the carrier’s provider panel;  4 
+Chapter 271 of the Acts of 2022  
  
-   (ii) inform members of the procedure to request a referral under 5 
-paragraph (1) of this subsection; and  6 
+ SECTION 4. AND BE IT FURTHER ENACTED, That this Act shall take effect July 
+1, 2022. [It shall remain effective for a period of 3 years and, at the end of June 30, 2025, 
+this Act, with no further action required by the Gene ral Assembly, shall be abrogated and 
+of no further force and effect. ] 
  
-   (iii) provide the information documented under item (i) of this  7 
-paragraph to the Commissioner on request.  8 
+Chapter 272 of the Acts of 2022  
  
- (e) (1) Except as provided in paragraph (2) of this subsection, for purposes of 9 
-calculating any deductible, copayment amount, or coinsurance payable by the member, a 10 
-carrier shall treat services received in acco rdance with subsection (d) of this section as if 11 
-the service was provided by a provider on the carrier’s provider panel.  12 
+ SECTION 4. AND BE IT FURTHER ENACTED, That this Act shall take effect July 
+1, 2022. [It shall remain effective for a period of 3 years and, at the end of June 30, 2025, 
+this Act, with no further action required by the General Assembly, shall be abrogated and 
+of no further force and effect. ] 
  
-  (2) A carrier shall ensure that services received in accordance with 13 
-subsection (d) of this section for mental health or substance u se disorders are provided FOR 14 
-THE DURATION OF THE TREATMENT PLAN at no greater cost to the covered individual 15 
-than if the covered benefit were provided by a provider on the carrier’s provider panel.  16 
+ SECTION 3. AND BE IT FURTHER ENACTED, That Section 1 of this Act shall 
+apply to all policies, contracts, and heal th benefit plans issued, delivered, or renewed in the 
+State on or after January 1, 2026.  
  
-  (3) (I) SUBJECT TO SUBPARAGRA PH (II) OF THIS PARAGRAPH , AND  17 
-NOT LATER THAN JANUARY 1, 2026,  THE MARYLAND HEALTH CARE COMMISSION  18 
-SHALL ESTABLISH A RE IMBURSEMENT FORMULA TO DETERMINE THE  19 
-REIMBURSEMENT RATE F OR NONPARTICIPATING PROVIDERS WHO DELIVE R 20 
-SERVICES UNDER PARAG RAPH (2) OF THIS SUBSECTION . 21 
+ SECTION 4. AND BE IT FURTHER ENACTED, That Section 1 of this Act shall take 
+effect January 1, 2026.  
  
-   (II) THE MARYLAND HEALTH CARE COMMISSION SHALL HOLD  22 
-PUBLIC MEETINGS WITH  CARRIERS , MENTAL HEALTH AND SU BSTANCE USE  23 
-DISORDER PROVIDERS , CONSUMERS OF MENTAL HEALTH AND SUBSTANCE  USE 24 
-DISORDER SERVICES , AND OTHER INTERESTED  PARTIES TO DETERMINE  THE 25 
-REIMBURSEMENT FORMUL A.  26 
+Ch. 660  2025 LAWS OF MARYLAND   
  
- SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 27 
-as follows:  28 
+– 6 –  SECTION 5. AND BE IT FURTHER ENACTED, That, except as provided  in Section 
+4 of this Act, this Act shall take effect June 1, 2025.  
  
-Chapter 271 of the Acts of 2022  29 
- 
- SECTION 4. AND BE IT FURTHER ENACTED, That this Act shall take effect July 30 
-1, 2022. [It shall remain effective for a period of 3 years  and, at the end of June 30, 2025, 31 
-this Act, with no further action required by the General Assembly, shall be abrogated and 32 
-of no further force and effect. ] 33 
- 
-Chapter 272 of the Acts of 2022  34 
- 
-6 HOUSE BILL 11   
- 
-  SECTION 4. AND BE IT FURTHER ENACTED, That this Act shall take effect July 1 
-1, 2022. [It shall remain effective for a period of 3 years and, at the end of June 30, 2025, 2 
-this Act, with no further action required by the General Assembly, shall be abrogated a nd 3 
-of no further force and effect. ] 4 
- 
- SECTION 3. AND BE IT FURTHER ENACTED, That Section 1 of this Act shall 5 
-apply to all policies, contracts, and health benefit plans issued, delivered, or renewed in the 6 
-State on or after January 1, 2026.  7 
- 
- SECTION 4. AN D BE IT FURTHER ENACTED, That Section 1 of this Act shall take 8 
-effect January 1, 2026.  9 
- 
- SECTION 5. AND BE IT FURTHER ENACTED, That, except as provided in Section 10 
-4 of this Act, this Act shall take effect June 1, 2025.  11 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 20, 2025.  

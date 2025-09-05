@@ -1,183 +1,158 @@
+ WES MOORE,  Governor  Ch. 446  
  
+– 1 – Chapter 446  
+(House Bill 744 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0744*      
-HOUSE BILL 744  
-R5   5lr0823  
-    CF SB 590  
-By: Delegates Wims , Edelson , Addison, Foley, Guyton, Harris, Hill, Kaufman, 
-Lopez, McComas, Palakovich  Carr, Phillips, Schindler, Solomon, Spiegel, 
-Taylor, Toles, and Wolek  Wolek, Behler, Boyce, R.  Lewis, Stewart, and 
-Ziegler  
-Introduced and read first time: January 27, 2025  
-Assigne d to: Environment and Transportation  
-Committee Report: Favorable with amendments  
-House action: Adopted  with floor amendments  
-Read second time: March 6, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Motor Vehicles – Reckless, Negligent, and Aggressive Drivin g 
+(Sergeant Patrick Kepp Act)  
  
-AN ACT concerning  1 
+FOR the purpose of altering the penalties and points assessments related to the offenses of 
+reckless, negligent, and aggressive driving; adding certain motor vehicle offenses as 
+elements that may contribute to charges for reckless or aggressive driving; and 
+generally relating to motor ve hicle offenses.  
  
-Motor Vehicles – Reckless, Negligent, and Aggressive Drivin g 2 
-(Sergeant Patrick Kepp Act)  3 
+BY repealing  
+ Article – Transportation  
+Section 16 –402(a)(17)  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of altering the penalties and points assessments related to the offenses of 4 
-reckless, negligent, and aggressive driving; adding certain motor vehicle offenses as 5 
-elements that may contribute to charges  for reckless or aggressive driving; and 6 
-generally relating to motor vehicle offenses.  7 
+BY renumbering  
+ Article – Transportation  
+Section 16 –402(a)(13) through (16) and (28) through (46)  
+to be Section 16 –402(a)(14) through (17) and (29) through (47), respectively  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2024 Supplement)  
  
-BY repealing  8 
- Article – Transportation  9 
-Section 16 –402(a)(17)  10 
- Annotated Code of Maryland  11 
- (2020 Replacement Volume and 2024 Supplement)  12 
+BY adding to  
+ Article – Transportation  
+Section 16 –402(a)(13) and (28)  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2024 Supplement)  
  
-BY renumbering  13 
- Article – Transportation  14 
-Section 16 –402(a)(13) through (16) and (28) through (46)  15 
-to be Section 16 –402(a)(14) through (17) and (29) through (47), respectively  16 
- Annotated Code of Maryland  17 
- (2020 Replacement Volume and 2024 Supplement)  18 
+BY repealing and reenacting, with amendments,  
+ Article – Transportation  
+Section 21 –901.1 and 21 –901.2  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2024 Supplement)  
  
-BY adding to  19 
-2 HOUSE BILL 744   
+ SECTION 1. BE IT ENACTED BY THE GE NERAL ASSEMBLY OF MARYLAND, 
+That Section(s) 16 –402(a)(17) of Article – Transportation of the Annotated Code of 
+Maryland be repealed.  
  
-  Article – Transportation  1 
-Section 16 –402(a)(13) and (28)  2 
- Annotated Code of Maryland  3 
- (2020 Replacement Volume and 2024 Supplement)  4 
+ SECTION 2. AND BE IT FURTHER ENACTED, That Section(s) 16 –402(a)(13) 
+through (16) and (28) through (46) of Article – Transportation of the Annotated Code of 
+Maryland be renumbered to be Section(s) 16 –402(a)(14) through (17) and (29) through (47), 
+respectively.  
+Ch. 446  2025 LAWS OF MARYLAND   
  
-BY repealing and reenacting, with amendments,  5 
- Article – Transportation  6 
-Section 21 –901.1 and 21 –901.2  7 
- Annotated Code of Maryland  8 
- (2020 Replacement Volume and 2024 Supplement)  9 
+– 2 –  
+ SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 
+as follows:  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 10 
-That Section(s) 16 –402(a)(17) of Article – Transportation of the Annotated Code of 11 
-Maryland be repealed.  12 
+Article – Transportation  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That  Section(s) 16 –402(a)(13) 13 
-through (16) and (28) through (46) of Article – Transportation of the Annotated Code of 14 
-Maryland be renumbered to be Section(s) 16 –402(a)(14) through (17) and (29) through (47), 15 
-respectively.  16 
+16–402. 
  
- SECTION 3. AND BE IT FURTHER ENACTED , That the Laws of Maryland read 17 
-as follows:  18 
+ (a) After the conviction of an individual for a violation of Title 2, Subtitle 5, §  
+2–209, § 3–211, or § 10 –110 of the Criminal Law Article, or of the vehicle laws or regulations 
+of this State or of any local authority, points shall be assessed ag ainst the individual as of 
+the date of violation and as follows:  
  
-Article – Transportation  19 
+  (13) NEGLIGENT DRIVING ……………………………………… ... 2 POINTS  
  
-16–402. 20 
+  (28) SPEEDING IN EXCESS OF  THE POSTED SPEED LIM IT BY 30 MILES 
+PER HOUR OR MORE ……………………………………………………………… .. 6 POINTS  
  
- (a) After the conviction of an individual for a violation of Title 2, Subtitle 5, §  21 
-2–209, § 3–211, or § 10 –110 of the Criminal Law Article, or of the vehicle laws or regula tions 22 
-of this State or of any local authority, points shall be assessed against the individual as of 23 
-the date of violation and as follows:  24 
+21–901.1.  
  
-  (13) NEGLIGENT DRIVING ……………………………………… ... 2 POINTS  25 
+ (a) A person is guilty of reckless driving if [he] THE PERSON  drives a motor 
+vehicle:  
  
-  (28) SPEEDING IN EXCESS OF  THE POSTED SPEED LIM IT BY 30 MILES 26 
-PER HOUR OR MORE ……………………………………………………………… .. 6 POINTS  27 
+  (1) In wanton or willful disregard for the safety of persons or property; [or] 
  
-21–901.1.  28 
+  (2) In a manner that indicates a wanton or willful disregard for the safety 
+of persons or  property ; OR 
  
- (a) A person is guilty of reckless driving if [he] THE PERSON  drives a motor 29 
-vehicle:  30 
+  (3) AT A SPEED AT LEAST 30 MILES PER HOUR ABOVE  THE POSTED 
+SPEED LIMIT . 
  
-  (1) In wanton or willful disregard for the s afety of persons or property; [or] 31 
+ (b) A person is guilty of negligent driving if [he] THE PERSON  drives a motor 
+vehicle in a careless or imprudent manner that endangers any property or the life or pe rson 
+of any individual.  
  
-  (2) In a manner that indicates a wanton or willful disregard for the safety 32 
-of persons or property ; OR 33 
- HOUSE BILL 744  3 
+ (c) (1) A person convicted of a violation of subsection (a) of this section is 
+subject to IMPRISONMENT NOT EXC EEDING 60 DAYS OR a fine not exceeding $1,000  OR 
+BOTH . 
  
-  
-  (3) AT A SPEED AT LEAST 30 MILES PER HOUR ABOVE  THE POSTED 1 
-SPEED LIMIT . 2 
+  (2) A PERSON CONVICTED OF A VIOLATION OF SUBSE CTION (B) OF 
+THIS SECTION IS SUBJ ECT TO A FINE NOT EX CEEDING $750.  
  
- (b) A person is guilty of negligent dr iving if [he] THE PERSON  drives a motor 3 
-vehicle in a careless or imprudent manner that endangers any property or the life or person 4 
-of any individual.  5 
+21–901.2.  
  
- (c) (1) A person convicted of a violation of subsection (a) of this section is 6 
-subject to IMPRISONMENT NOT EXCEEDING 60 DAYS OR a fine not exceeding $1,000  OR 7 
-BOTH . 8 
+ WES MOORE,  Governor  Ch. 446  
  
-  (2) A PERSON CONVICTED OF A VIOLATION OF SUBSE CTION (B) OF 9 
-THIS SECTION IS SUBJ ECT TO A FINE NOT EX CEEDING $750.  10 
+– 3 –  (A) A person is guilty of aggressive driving if the person commits [three ] TWO  or 
+more of the following offenses at the same time or during a single and continuous period of 
+driving in violation of:  
  
-21–901.2.  11 
+  (1) § 21–201 OF THIS TITLE (FAILURE TO OBEY TRAFF IC CONTROL 
+DEVICE OR LEAVING RO ADWAY TO AVOID TRAFF IC CONTROL DEVICE ); 
  
- (A) A person is guilty of aggressive driving if the person commit s [three ] TWO  or 12 
-more of the following offenses at the same time or during a single and continuous period of 13 
-driving in violation of:  14 
+  (2) § 21–202 of this title (Traffic lights with steady indication);  
  
-  (1) § 21–201 OF THIS TITLE (FAILURE TO OBEY TRAFF IC CONTROL 15 
-DEVICE OR LEAVING RO ADWAY TO AVOID TRAFF IC CONTROL DEVICE ); 16 
+  [(2)] (3) § 21–303 of this title (Overtaking and passing vehicles);  
  
-  (2) § 21–202 of this title (Traffic lights with steady indication);  17 
+  [(3)] (4) § 21–304 of this title (Passing on right);  
  
-  [(2)] (3) § 21–303 of this title (Overtaking and passing vehicles);  18 
+  (5) § 21–305 OF THIS TITLE (DRIVING LEFT OF CENTE R OF ROADWAY 
+IN OV ERTAKING AND PASSING  VEHICLE ); 
  
-  [(3)] (4) § 21–304 of this title (Passing on right);  19 
+  (6) § 21–307 OF THIS TITLE (DRIVING ON LEFT IN NO –PASSING ZONE ); 
  
-  (5) § 21–305 OF THIS TITLE (DRIVING LEFT OF CENTE R OF ROADWAY 20 
-IN OVERTAKING AND PA SSING VEHICLE ); 21 
+  [(4)] (7) § 21–309 of this title (Driving on laned roadways);  
  
-  (6) § 21–307 OF THIS TITLE (DRIVING ON LEFT IN NO –PASSING ZONE ); 22 
+  [(5)] (8) § 21–310 of this title (Following too closely);  
  
-  [(4)] (7) § 21–309 of this title (Driving on laned roadways);  23 
+  [(6)] (9) § 21–403 of this t itle (Failure to yield right –of–way); [or] 
  
-  [(5)] (8) § 21–310 of this title (Following too closely);  24 
+  (10) § 21–502( A)(2) OF THIS TITLE (FAILURE TO STOP FOR 
+PEDESTRIAN IN CROSSW ALK); 
  
-  [(6)] (9) § 21–403 of this title (Failure to yield right –of–way); [or] 25 
+  (11) § 21–502( C) OF THIS TITLE (OVERTAKING AND PASSIN G VEHICLE 
+STOPPED FOR PEDESTRI AN IN CROSSWALK ); 
  
-  (10) § 21–502( A)(2) OF THIS TITLE (FAILURE TO STOP FOR 26 
-PEDESTRIAN IN CROSSW ALK); 27 
+  (12) § 21–706 OF THIS TITLE (OVERTAKING AND PASSIN G SCHOOL 
+VEHICLE STOPPED AND OPERATING ALTERNATEL Y FLASHING RED LIGHT S); 
  
-4 HOUSE BILL 744   
+  (13) § 21–707 OF THIS TITLE (STOP SIGNS AND YIELD SIGNS ); 
  
-   (11) § 21–502( C) OF THIS TITLE (OVERTAKING AND PASSIN G VEHICLE 1 
-STOPPED FOR PEDESTRI AN IN CROSSWALK ); 2 
+  [(7)] (14)  § 21–801.1 of this title (Exceeding [a] maximum speed limit or 
+posted maximum sp eed limit) ; 
  
-  (12) § 21–706 OF THIS TITLE (OVERTAKING AND PASSIN G SCHOOL 3 
-VEHICLE STOPPED AND OPERATING ALTERNATEL Y FLASHING RED LIGHT S); 4 
+  (15) § 21–1117  OF THIS TITLE (SKIDDING , SPINNING WHEELS , AND 
+EXCESSIVE NOISE ); 
  
-  (13) § 21–707 OF THIS TITLE (STOP SIGNS AND YIELD SIGNS ); 5 
+  (16) § 21–1131  OF THIS TITLE (DISCHARGING DIESEL EM ISSIONS ONTO 
+ANOTHER ); 
  
-  [(7)] (14)  § 21–801.1 of this title (Exceeding [a] maximum speed limit or 6 
-posted maximum speed limit) ; 7 
+Ch. 446  2025 LAWS OF MARYLAND   
  
-  (15) § 21–1117  OF THIS TITLE (SKIDDING , SPINNING WHEELS , AND 8 
-EXCESSIVE NOISE ); 9 
+– 4 –   (17) § 21–1209( A) OF THIS TITLE (AVOIDING COLLISION AN D 
+OVERTAKING AND PASSI NG BIC YCLE , EPAMD,  OR MOTOR SCOOTER ); 
  
-  (16) § 21–1131  OF THIS TITLE (DISCHARGING DIESEL EM ISSIONS ONTO 10 
-ANOTHER ); 11 
+  (18) § 21–1303( C) OF THIS TITLE (MOTORCYCLE OVERTAKING  AND 
+PASSING IN SAME LANE  AS ANOTHER VEHICLE ); OR 
  
-  (17) § 21–1209( A) OF THIS TITLE (AVOIDING COLLISION AN D 12 
-OVERTAKING AND PASSING BICYCLE , EPAMD,  OR MOTOR SCOOTER ); 13 
+  (19) § 21–1303( D) OF THIS TITLE (MOTORCYCLE OPERATING 
+BETWEEN LANES OF TRA FFIC OR VEHICLES ). 
  
-  (18) § 21–1303( C) OF THIS TITLE (MOTORCYCLE OVERTAKING  AND 14 
-PASSING IN SAME LANE  AS ANOTHER VEHICLE ); OR 15 
+ (B) A PERSON CONVIC TED OF A VIOLATION O F THIS SECTION IS SU BJECT TO 
+A FINE NOT EXCEEDING  $1,000.  
  
-  (19) § 21–1303( D) OF THIS TITLE (MOTORCYCLE OPERATING 16 
-BETWEEN LANES OF TRA FFIC OR VEHICLES ). 17 
+ SECTION 4. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
- (B) A PERSON CONVICTED OF A VIOLATION OF THIS SECTION IS SUBJECT T O 18 
-A FINE NOT EXCEEDING  $1,000.  19 
- 
- SECTION 4. AND BE IT FURTHER ENACTED, That this Act shall take effect 20 
-October 1, 2025.  21 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 13, 2025.  

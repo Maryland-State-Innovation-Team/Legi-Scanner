@@ -1,124 +1,98 @@
+ WES MOORE, Governor  Ch. 709  
  
+– 1 – Chapter 709  
+(House Bill 1380 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb1380*      
-HOUSE BILL 1380  
-J1, J3    5lr2113  
-    CF SB 676  
-By: Delegates Pena –Melnyk, Acevero, Addison, Bagnall, Boyce, Cullison, Davis, 
-Harrison, Lehman, Patterson, Taveras, Terrasa, and Wilson  Wilson, 
-Bhandari, Guzzone, Hill, S.  Johnson, Kaiser, Kerr, Lopez, Martinez, 
-Rosenberg, White  Holland, Woods, and Woorman  
-Introduced and read first time: February 7, 2025  
-Assigned to: Health and Government Operations  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: February 26, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Health Care Facilities – Hospitals and Freestanding Birthing Centers – 
+Perinatal Care Standards  
  
-AN ACT concerning  1 
+FOR the purpose of requiring the  Maryland Department of Health , in coordination with 
+the Maryland Institute for Emergency Medical Services Systems,  to adopt 
+regulations establishing minimum perinatal care standards for certain hospitals 
+that meet or exceed the Maryland Perinatal System S tandards; requiring certain 
+hospitals and freestanding birthing centers, as a condition of licensure, to comply 
+with certain minimum perinatal care standards; and generally relating to standards 
+of care for hospitals and freestanding birthing centers.  
  
-Health Care Facilities – Hospitals and Freestanding Birthing Centers – 2 
-Perinatal Care Standards  3 
+BY repealing and reenacting, without amendments,  
+ Article – Health – General  
+Section 19 –319(a) and 19 –3B–02(a) and (b)  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of requiring the Maryland Department of Health , in coordination with 4 
-the Maryland Institute for Emergency Medical Services Systems,  to adopt 5 
-regulations establishing minimum perinatal care standards for certain hospitals 6 
-that meet or exceed the Maryland Perinatal System Standards; requiring certain 7 
-hospitals and freestanding birthing centers, as a condition of licensure, to comply 8 
-with certain minimum peri natal care standards; and generally relating to standards 9 
-of care for hospitals and freestanding birthing centers.  10 
+BY adding to  
+ Article – Health – General  
+Section 19 –319(j) and 19–3B–03(a)(1)(ii)9.  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  11 
- Article – Health – General  12 
-Section 19 –319(a) and 19 –3B–02(a) and (b)  13 
- Annotated Code of  Maryland  14 
- (2023 Replacement Volume and 2024 Supplement)  15 
+BY repealing and reenacting, with amendments,  
+ Article – Health – General  
+Section 19 –3B–03(a)(1)(ii)8. and 9.  
+ Annotated Code of Maryland  
+ (2023 Replacemen t Volume and 2024 Supplement)  
  
-BY adding to  16 
- Article – Health – General  17 
-Section 19 –319(j) and 19 –3B–03(a)(1)(ii)9.  18 
- Annotated Code of Maryland  19 
- (2023 Replacement Volume and 2024 Supplement)  20 
-2 HOUSE BILL 1380   
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-  
-BY repealing and reenacting, with amendments,  1 
- Article – Health – General  2 
-Section 19 –3B–03(a)(1)(ii)8. and 9.  3 
- Annotated Code of Maryland  4 
- (2023 Replacement Volume and 2024 Supplement)  5 
+Article – Health – General  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 6 
-That the Laws of Maryland read as follows : 7 
+19–319. 
  
-Article – Health – General  8 
+ (a) To qualify for a license, an applicant and the hospital or related instituti on to 
+be operated shall meet the requirements of this section.  
  
-19–319. 9 
+Ch. 709  2025 LAWS OF MARYLAND   
  
- (a) To qualify for a license, an applicant and the hospital or related institution to 10 
-be operated shall meet the requirements of this section.  11 
+– 2 –  (J) (1) THE DEPARTMENT , IN COORDINATION WITH  THE MARYLAND 
+INSTITUTE FOR EMERGENCY MEDICAL SERVICES SYSTEMS , SHALL ADOPT 
+REGULATIONS ESTABLIS HING MINIMUM PERINAT AL CARE STANDARDS TH AT MEET 
+OR EXCEED THE MARYLAND PERINATAL SYSTEM STANDARDS FOR EACH HO SPITAL 
+THAT PROVIDES OBSTET RICAL SERVICES . 
  
- (J) (1) THE DEPARTMENT , IN COORDINATION WITH  THE MARYLAND 12 
-INSTITUTE FO R EMERGENCY MEDICAL SERVICES SYSTEMS , SHALL ADOPT 13 
-REGULATIONS ESTABLIS HING MINIMUM PERINAT AL CARE STANDARDS TH AT MEET 14 
-OR EXCEED THE MARYLAND PERINATAL SYSTEM STANDARDS FOR EACH HO SPITAL 15 
-THAT PROVIDES OBSTET RICAL SERVICES . 16 
+  (2) EACH HOSPITAL THAT PR OVIDES OBSTETRICAL S ERVICES SHALL 
+COMPLY WITH THE PERI NATAL CARE STANDARDS  ESTABLISHED BY THE 
+REGULATIONS ADOPTED UNDER PARAGRA PH (1) OF THIS SUBSECTION A S A 
+CONDITION OF LICENSU RE. 
  
-  (2) EACH HOSPITAL THAT PR OVIDES  OBSTETRICAL SERVICES  SHALL 17 
-COMPLY WITH THE PERI NATAL CARE STANDARDS  ESTABLISHED BY THE 18 
-REGULATIONS ADOPTED UNDER PARAGRAPH (1) OF THIS SUBSECTION A S A 19 
-CONDITION OF LICENSU RE. 20 
+19–3B–02. 
  
-19–3B–02. 21 
+ (a) A freestanding ambulatory care facility may not operate in the State unless 
+the Secretary has granted the facility a license.  
  
- (a) A freestanding ambulatory care facility may not operate in the State unless 22 
-the Secretary has granted the facility a license.  23 
+ (b) The Secretary shall issue a license to an applicant that meets the 
+requirements of this subtitle and all applicable regulations adopted by the Secretary.  
  
- (b) The Secretary shall issue a license to an applicant that meets the 24 
-requirements of this subtitle and all applicable regulations adopted by the Secretary.  25 
+19–3B–03. 
  
-19–3B–03. 26 
+ (a) (1) After consultation with representatives of payors, health care 
+practitioners, and freestanding ambulatory care facilities, the Secret ary shall by regulation 
+establish:  
  
- (a) (1) After consultation with representatives of payors, health care 27 
-practitioners, and freestanding ambulatory care facilities, the Secretary shall by regulation 28 
-establish:  29 
+   (ii) Standards to ensure quality of care and patient safety that shall 
+include:  
  
-   (ii) Standards to ensure quality of care and patient safety that shall 30 
-include:  31 
+    8. The use of ultrasound imaging in a freestanding birthing 
+center; [and] 
  
- HOUSE BILL 1380  3 
+    9. MINIMUM PERINATAL CAR E STANDARDS FOR A 
+FREESTANDING BIRTHIN G CENTER THAT MEET O R EXCEED THE MARYLAND 
+PERINATAL SYSTEM STANDARDS THAT A FREE STANDING BIRTHING CE NTER SHALL 
+MEET AS A CONDITION OF LICENSURE ; AND  
  
-     8. The use of ultrasound imaging in a freestanding birthing 1 
-center; [and] 2 
+    [9.] 10. Any other procedures that the Secretary considers 
+necessary for quality o f care and patient safety.  
  
-    9. MINIMUM PERINATAL CAR E STANDARDS FOR A 3 
-FREESTANDING BIRTHIN G CENTER THAT MEET O R EXCEED THE MARYLAND 4 
-PERINATAL SYSTEM STANDARDS THAT A FREE STANDING BIRTHING CE NTER SHALL 5 
-MEET AS A  CONDITION OF LICENSU RE; AND  6 
+ SECTION 2. AND BE IT FURTHER ENACTED, That the Maryland Department of 
+Health shall adopt the regulations required under §§ 19 –319(j)(1) and 19 –3B–03(a)(1)(ii)9 
+of the Heath – General Article, as enacted by Section 1 of this Act , on or before October 1, 
+2026.  
  
-    [9.] 10. Any other procedures that the Secretary considers 7 
-necessary for quality of care and patient safety.  8 
+ WES MOORE, Governor  Ch. 709  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That the Maryland Department of 9 
-Health shall adopt the regulations requir ed under §§ 19 –319(j)(1) and 19 –3B–03(a)(1)(ii)9 10 
-of the Heath – General Article, as enacted by Section 1 of this Act, on or before October 1, 11 
-2026.  12 
+– 3 –  SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
- SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 13 
-October 1, 2025.  14 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 20, 2025.  

@@ -1,332 +1,308 @@
+ WES MOORE, Governor  Ch. 721  
  
+– 1 – Chapter 721  
+(House Bill 297 ) 
  
-EXPLANATION:  CAPITALS INDICATE MATTER ADDE D TO EXISTING LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0297*      
-HOUSE BILL 297  
-J5   5lr1017  
-    CF SB 5  
-By: Delegate Kerr  Delegates Kerr, Bagnall , Bhandari, Cullison, Guzzone, Hill, 
-S. Johnson, Kaiser, Lopez, Martinez, Pena –Melnyk, Rosenberg, Taveras, 
-White Holland, Woods, and Woorman  
-Introduced and read first time: January 9, 2025  
-Assigned to: Health and Government Operations  
-Committee Report : Favorable with amendments  
-House action: Adopted  
-Read second time: February 18, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Maryland Health Benefit Exchange – State–Based Young Adult Health 
+Insurance Subsidies Pilot Program – Sunset Repeal  
  
-AN ACT concerning  1 
+FOR the purpose of renaming the State –Based Young Adult Health Insurance Subsidies 
+Pilot Program to be the State –Based Young Adult Health Insurance Subsidies 
+Program; repealing the termination date of certain provisions of law that establish 
+and govern the  funding for the Program; authorizing rather than requiring the 
+Maryland Health Benefit Exchange to establish and implement the Program; 
+prohibiting the Exchange from implementing the Program if certain funds are not 
+available;  and generally relating to th e health insurance subsidies for young adults.  
  
-Maryland Health Benefit Exchange – State–Based Young Adult Health 2 
-Insurance Subsidies Pilot Program – Sunset Repeal  3 
+BY repealing and reenacting, without amendments,  
+ Article – Insurance  
+ Section 31 –107(a)  
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of renaming the State –Based Young Adult Health Insurance Subsidies 4 
-Pilot Program to be the State –Based Young Adult Health Insurance Subsidies 5 
-Program; repealing the termination date of certain provisions of law that establish 6 
-and govern the  funding for the Program; authorizing rather than requiring the 7 
-Maryland Health Benefit Exchange to establish and implement the Program; 8 
-prohibiting the Exchange from implementing the Program if certain funds are not 9 
-available;  and generally relating to th e health insurance subsidies for young adults.  10 
+BY repealing and reenacting, with amendments,  
+ Article – Insurance  
+ Section 31 –107(b), (f)(1)(iv), and (g)(1)  and 31 –122 
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  11 
- Article – Insurance  12 
- Section 31 –107(a)  13 
- Annotated Code of Maryland  14 
- (2017 Replacement Volume and 2024 Supplement)  15 
+BY repealing and reenacting, with amendments,  
+ Chapter 778 of the Acts of the General Assembl y of 2021, as amended by Chapters 
+ 256 and 257 of the Acts of the General Assembly of 2023  
+ Section 2  
  
-BY repealing and reenacting, with amendments,  16 
- Article – Insurance  17 
- Section 31 –107(b), (f)(1)(iv), and (g)(1)  and 31 –122 18 
- Annotated Code of Maryland  19 
- (2017 Replacement Volume and 2024 Supplement)  20 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-2 HOUSE BILL 297   
+Article – Insurance  
  
- BY repealing and reenacting, with amendments,  1 
- Chapter 778 of the Acts of the General Assembly of 2021, as amended by Chapters 2 
- 256 and 257 of the Acts of the General Assembly of 2023  3 
- Section 2  4 
+31–107. 
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 5 
-That the Laws of Maryland read as follows:  6 
+ (a) There is a Maryland Health Benefit Exchange Fund.  
  
-Article – Insurance  7 
+ (b) (1) The purpose of the Fund is to:  
  
-31–107. 8 
+   (i) provide funding for the operation and administration of the 
+Exchange in carrying out the purposes of the Exchange under this subtitle;  
+Ch. 721  2025 LAWS OF MARYLAND   
  
- (a) There is a Maryland Health Benefit Exchange Fund.  9 
+– 2 –  
+   (ii) provide funding for the establishment and operation of the State 
+Reinsurance Program authorized under this subtitle;  
  
- (b) (1) The purpose of the Fund is to:  10 
+   (iii) provide funding for the Medical Assistance Program and the 
+Senior Prescription Drug Assistance Program;  
  
-   (i) provide funding for the operation and administration of the 11 
-Exchange in carrying out the purposes of the Exchange under th is subtitle;  12 
+   (iv) provide funding for the establishment an d operation of Health 
+Equity Resource Communities under Title 20, Subtitle 14 of the Health – General Article; 
+and 
  
-   (ii) provide funding for the establishment and operation of the State 13 
-Reinsurance Program authorized under this subtitle;  14 
+   (v) provide funding for the establishment and operation of the 
+State –Based Young Adult Health Insurance Subsidies [Pilot] Program authorized under 
+this subtitle.  
  
-   (iii) provide funding for the Medical Assistance Program and the 15 
-Senior Prescription Drug Assistance Program;  16 
+  (2) The operation and administration of the Exchange, the State 
+Reinsurance Program, the State –Based Young Adult Health Insurance Subsidies [Pilot] 
+Program, and the Qualified Resident Enrollment Program may inclu de functions delegated 
+by the Exchange to a third party under law or by contract.  
  
-   (iv) provide funding for the establishment and operation of Health 17 
-Equity Resource Communities under Title 20, Subtitle 14 of the Health – General Article; 18 
-and 19 
+ (c) The Exchange shall administer the Fund.  
  
-   (v) provide funding for the establishment and operation of the 20 
-State –Based Young Adult Health Insurance Subsidies [Pilot] Program authorized under 21 
-this subtitle.  22 
+ (d) (1) The Fund is a special, nonlapsing fund that is not subject to § 7 –302 of 
+the State Finance and Procurement Article.  
  
-  (2) The operation and administration of the Exchange, the State 23 
-Reinsurance Program, the State –Based Young Adult Health Insurance Subsidies [Pilot] 24 
-Program, and the Qualified Resident Enrollment Program may include functions delegated 25 
-by the Exchange to a thir d party under law or by contract.  26 
+  (2) The State Treasurer shall hold the Fund separately, and the 
+Comptroller shall account for the Fund.  
  
- (c) The Exchange shall administer the Fund.  27 
+ (e) The Fund consists of:  
  
- (d) (1) The Fund is a special, nonlapsing fund that is not subject to § 7 –302 of 28 
-the State Finance and Procurement Article.  29 
+  (1) any user fees or other assessments collected by the Exchange;  
  
-  (2) The State Treasurer shall hold the Fund sep arately, and the 30 
-Comptroller shall account for the Fund.  31 
+  (2) all revenue deposited into the Fund that is rec eived from the 
+distribution of the premium tax under § 6 –103.2 of this article;  
  
- (e) The Fund consists of:  32 
- HOUSE BILL 297  3 
+  (3) income from investments made on behalf of the Fund;  
  
-  
-  (1) any user fees or other assessments collected by the Exchange;  1 
+  (4) interest on deposits or investments of money in the Fund;  
  
-  (2) all revenue deposited into the Fund that is received from the 2 
-distribution of the premium tax u nder § 6 –103.2 of this article;  3 
+  (5) money collected by the Board as a result of legal or other actions taken 
+by the Board on behalf of the Exchange or the Fund;  
  
-  (3) income from investments made on behalf of the Fund;  4 
+  (6) money donated to the Fund;  
  
-  (4) interest on deposits or investments of money in the Fund;  5 
+  (7) money awarded to the Fund through grants;  
  
-  (5) money collected by the Board as a result of legal or other actions taken 6 
-by the Board on beha lf of the Exchange or the Fund;  7 
+ WES MOORE, Governor  Ch. 721  
  
-  (6) money donated to the Fund;  8 
+– 3 –   (8) any pass –through funds received from the federal government under a 
+waiver approved under § 1332 of the Affordable Care Act;  
  
-  (7) money awarded to the Fund through grants;  9 
+  (9) any funds designated by the federal government to provide reinsurance 
+to carriers that offer individual health benefit plans in the State;  
  
-  (8) any pass –through funds received from the federal government under a 10 
-waiver approved under § 1332 of the Affordable Care Act;  11 
+  (10) any funds designated by the State to provide reinsurance to c arriers 
+that offer individual health benefit plans in the State;  
  
-  (9) any funds designated by the federal government to provide reinsurance 12 
-to carriers that offer individual health benefit plans in the State;  13 
+  (11) any funds designated by the State to provide State –based health 
+insurance subsidies to young adults in the State;  
  
-  (10) any funds designated by the State to provide reinsurance to carriers 14 
-that offer individual health benefit plans in the State;  15 
+  (12) any federal funds received in accordance with § 31 –121 of thi s subtitle 
+for the administration of small business tax credits; and  
  
-  (11) any funds designated by the State to provide State –based health 16 
-insurance subsidies to young adults in the State;  17 
+  (13) any other money from any other source accepted for the benefit of the 
+Fund.  
  
-  (12) any federal funds received in accordance with § 31 –121 of this subtitle 18 
-for the administration of small bu siness tax credits; and  19 
+ (f) (1) The Fund may be used only:  
  
-  (13) any other money from any other source accepted for the benefit of the 20 
-Fund.  21 
+   (i) 1. for the operation and administration of the Exchange in  
+carrying out the purposes authorized under this subtitle;  
  
- (f) (1) The Fund may be used only:  22 
+    2. for the establishment and operation of the State 
+Reinsurance Program; and  
  
-   (i) 1. for the operation and administration of the Exchange in 23 
-carrying out the purposes authorized under t his subtitle;  24 
+    3. for appropriations to the Health Equity Resource 
+Community Reserve Fund under § 20 –1407 of the Health – General Article;  
  
-    2. for the establishment and operation of the State 25 
-Reinsurance Program; and  26 
+   (ii) in fiscal years 2021 and 2022, for the Medical Assistance 
+Program within the Medical Care Programs Administration of the Maryland Department 
+of Health;  
  
-    3. for appropriations to the Health Equity Resource 27 
-Community Reserve Fund under § 20 –1407 of the Health – General Article;  28 
+   (iii) in fiscal year 2022, for the Senior Prescription Drug Assistance 
+Program established under Title 15, Subtitle 10 of the Health – General Article; and  
  
-4 HOUSE BILL 297   
+   (iv) for the establishment and operation of the State –Based Young 
+Adult Health Insurance Subsidies [Pilot] Program.  
  
-    (ii) in fiscal years 2021 a nd 2022, for the Medical Assistance 1 
-Program within the Medical Care Programs Administration of the Maryland Department 2 
-of Health;  3 
+  (2) In each of fiscal years 2023 through 2025, the Governor shall:  
  
-   (iii) in fiscal year 2022, for the Senior Prescription Drug Assistance 4 
-Program established under Title 15, Subtitle 10 of the Health – General Article; and  5 
+   (i) transfer $15,000,000 to the Health Equity Resource Community 
+Reserve Fund; and  
  
-   (iv) for the establishment and operation of the State –Based Young 6 
-Adult Health Insurance Subsidies [Pilot] Program.  7 
+Ch. 721  2025 LAWS OF MARYLAND   
  
-  (2) In each of fiscal years 2023 through 2025, the Governor shall:  8 
+– 4 –    (ii) include the funds transferred in accordance with item (i) of this 
+paragraph in the annual budget bill as an appropriation to the Health Equi ty Resource 
+Community Reserve Fund under § 20 –1407 of the Health – General Article.  
  
-   (i) transfer $15,000,000 to the Health Equity Resource Community 9 
-Reserve Fund; and  10 
+ (g) (1) The Board shall maintain separate accounts within the Fund for 
+Exchange operations, for the State Reinsurance Program, and for the State –Based Young 
+Adult Health Insurance Subsidies [Pilot] Program.  
  
-   (ii) include the funds transferred in accordance with item (i) of this 11 
-paragraph in the annual budget bill as an appropriation to the Health Equity Resource 12 
-Community Reserve Fund under § 20 –1407 of the Health – General Article.  13 
+  (2) Accounts within the Fund shall contain the money that is intended to 
+support the purpose for which each account is designated.  
  
- (g) (1) The Board shall maintain separate accounts within the Fund for 14 
-Exchange operations, for the State Reinsurance Program, and for the State –Based Young 15 
-Adult Health Insurance Subsidies [Pilot] Program.  16 
+  (3) Funds received from the distribution of the premium tax under §  
+6–103.2 of th is article shall be placed in the account for Exchange operations and may be 
+used only for the purpose of funding the operation and administration of the Exchange.  
  
-  (2) Account s within the Fund shall contain the money that is intended to 17 
-support the purpose for which each account is designated.  18 
+  (4) The following funds may be used only for the purposes of funding the 
+State Reinsuranc e Program:  
  
-  (3) Funds received from the distribution of the premium tax under §  19 
-6–103.2 of this article shall be placed in the account for Excha nge operations and may be 20 
-used only for the purpose of funding the operation and administration of the Exchange.  21 
+   (i) any pass –through funds received from the federal government 
+under a waiver approved under § 1332 of the Affordable Care Act to provide reinsurance to 
+carriers that offer individual health benefit plans in the State;  
  
-  (4) The following funds may be used only for the purposes of funding the 22 
-State Reinsurance Program:  23 
+   (ii) any funds de signated by the federal government to provide 
+reinsurance to carriers that offer individual health benefit plans in the State;  
  
-   (i) any pass –through funds received from the federal government 24 
-under a waiver approved under § 1332 of the Affordable Care Act to provide reinsurance to 25 
-carriers that offer individual health benefit plans in the State;  26 
+   (iii) any funds designated by the State to provide reinsurance to 
+carriers that offer individual health benefit plans in the State; and  
  
-   (ii) any funds designated by the federal government to provide 27 
-reins urance to carriers that offer individual health benefit plans in the State;  28 
+   (iv) except as provided in subsection (f) of this section, funds received 
+from the distribution of the assessment under § 6 –102.1 of this article.  
  
-   (iii) any funds designated by the State to provide reinsurance to 29 
-carriers that offer individual health benefit plans in the State; and  30 
+ (h) (1) Expenditures from the Fund for the purposes authorized by this 
+subtitle may be made only:  
  
-   (iv) except as provided in subsection (f) of this section, funds received 31 
-from the distribution of the assessment under § 6 –102.1 of this article.  32 
+   (i) with an appropriation from the Fund approved by the General 
+Assembly in the State budget; or  
  
- HOUSE BILL 297  5 
+   (ii) by the budget amendment procedure provided for in Title 7, 
+Subtitle 2 of the State Finance and Procurement Article.  
  
-  (h) (1) Expenditures from the Fund for the purposes authorized by this 1 
-subtitle may be made only:  2 
+  (2) Notwithstanding §  7–304 of the State Finance and Procurement Article, 
+if the amount of the distribution from the premium tax under § 6 –103.2 of this article 
+exceeds in any State fiscal year the actual expenditures incurred for the operation and 
+administration of the Exchan ge, funds in the Exchange operations account from the 
+premium tax that remain unspent at the end of the State fiscal year shall revert to the 
+General Fund of the State.  
+ WES MOORE, Governor  Ch. 721  
  
-   (i) with an appropriation from t he Fund approved by the General 3 
-Assembly in the State budget; or  4 
+– 5 –  
+  (3) If operating expenses of the Exchange may be charged to either State 
+or non –State fund sources, the non –State funds shall be charged before State funds are 
+charged.  
  
-   (ii) by the budget amendment procedure provided for in Title 7, 5 
-Subtitle 2 of the State Finance and Procurement Article.  6 
+ (i) (1) The State Treasurer shall invest the money of the Fund in the same 
+manner as other State money may be invested.  
  
-  (2) Notwithstanding § 7 –304 of the State Finance and Procuremen t Article, 7 
-if the amount of the distribution from the premium tax under § 6 –103.2 of this article 8 
-exceeds in any State fiscal year the actual expenditures incurred for the operation and 9 
-administration of the Exchange, funds in the Exchange operations accou nt from the 10 
-premium tax that remain unspent at the end of the State fiscal year shall revert to the 11 
-General Fund of the State.  12 
+  (2) Any investment earnings of the Fund shall be credited to the Fund.  
  
-  (3) If operating expenses of the Exchange may be charged to either State 13 
-or non –State fund sources, the non –State funds shall be charged before State funds are 14 
-charged.  15 
+  (3) Except as provided in subsection (h)(2) of this section, no part of the 
+Fund may revert or be credited to the General Fund or any special fund of the State.  
  
- (i) (1) The State Treasurer shall invest the money of the Fund in the same 16 
-manner as other State money may be invested.  17 
+ (j) A debt or an obligation of the Fund is not a debt of the Stat e or a pledge of 
+credit of the State.  
  
-  (2) Any investment earnings of the Fund shall be credited to the Fund.  18 
+31–122. 
  
-  (3) Except as provided in subsection (h)(2) of this section, no part of the 19 
-Fund may revert or be credited to the General Fund or any special fund of the State.  20 
+ (a) In this section, [“Pilot Program” ] “PROGRAM ” means the State –Based Young 
+Adult Health Insurance Subsidies [Pilot] Program.  
  
- (j) A debt or an obligation of the Fund is not a debt of the State or a pledge of 21 
-credit of the State.  22 
+ (b) (1) The SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , THE 
+Exchange, in consultation with the Commissioner and as approved by the Board, shall  MAY  
+establish and implement a State –Based Young Adult Health Insurance Subsidies [Pilot] 
+Program to provide subsidies to young adults for the purchase of health benefit pl ans in 
+the individual health insurance market.  
  
-31–122. 23 
+  (2) THE EXCHANGE MAY NOT IMPL EMENT THE PROGRAM FOR 
+CALENDAR YEARS IN WH ICH FUNDS FROM THE D ISTRIBUTION OF THE A SSESSMENT 
+UNDER § 6–102.1  OF THIS ARTICLE ARE NOT AVAILABLE .  
  
- (a) In this section, [“Pilot Program” ] “PROGRAM ” means the State –Based Young 24 
-Adult Health Insurance Subsidies [Pilot] Program.  25 
+ (c) The [Pilot] Program require d under this section shall be designed to:  
  
- (b) (1) The SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , THE 26 
-Exchange, in consultation with the Commissioner and as approved by the Board, shall  MAY  27 
-establish and implement a State –Based Young Adult Health Insurance Subsidies [Pilot] 28 
-Program to provide subsidies to young adults for the purchase of health benefit pl ans in 29 
-the individual health insurance market.  30 
+  (1) reduce the amount that young adults pay for health benefit plans in the 
+individual health insurance market; and  
  
-  (2) THE EXCHANGE MAY NOT IMPL EMENT THE PROGRAM FOR 31 
-CALENDAR YEARS IN WH ICH FUNDS FROM THE D ISTRIBUTION OF THE A SSESSMENT 32 
-UNDER § 6–102.1  OF THIS ARTICLE ARE NOT AVAILABLE .  33 
+  (2) target young adults who are not directly impacted by the State 
+Reinsurance Program.  
  
-6 HOUSE BILL 297   
+ (d) (1) For EACH  calendar [years 2022 through 2025 ] YEAR , the Exchange, in 
+consultation with the Commissioner and as approved by the Board, shall establish subsidy 
+eligibility and payment parameters for the [Pilot] Program.  
  
-  (c) The [Pilot] Program require d under this section shall be designed to:  1 
+  (2) In determining the subsid y eligibility and payment parameters 
+required under paragraph (1) of this subsection, the Exchange shall consider:  
  
-  (1) reduce the amount that young adults pay for health benefit plans in the 2 
-individual health insurance market; and  3 
+Ch. 721  2025 LAWS OF MARYLAND   
  
-  (2) target young adults who are not directly impacted by the State 4 
-Reinsurance Program.  5 
+– 6 –    (i) young adults at least 18 years old and under the age of 41 years; 
+and 
  
- (d) (1) For EACH  calendar [years 2022 through 2025 ] YEAR , the Exchange, in 6 
-consultation with the Commissioner and as approved by the Board, shall establish subsidy 7 
-eligibility and payment parameters for the [Pilot] Program.  8 
+   (ii) income groups between 133% and 400% of the federal pov erty 
+level.  
  
-  (2) In determining the subsid y eligibility and payment parameters 9 
-required under paragraph (1) of this subsection, the Exchange shall consider:  10 
+ (e) [(1)] Subject to available funds [and paragraph (2) of this subsection ], in 
+each [of] fiscal [years 2022 through 2026 ] YEAR , the Exchange may designate funds from 
+the Fund to be used for the [Pilot] Program so that annual subsidies may be  provided to 
+young adults who meet the subsidy eligibility and payment parameters established under 
+subsection (d) of this section.  
  
-   (i) young adults at least 18 years old and under the age of 41 years; 11 
-and 12 
+  [(2) (I) For each of calendar years 2024 and 2025, the funds designated 
+under paragraph (1) of this subsection may not exceed $20,000,000 plus any unspent funds 
+designated for subsidies for young adults in a previous calendar year. ] 
  
-   (ii) income groups between 133% and 400% of the federal poverty 13 
-level.  14 
+   (II) FOR CALENDAR YEAR 2026  AND EACH CALENDAR YE AR 
+THEREAFTER , THE EXCHANGE , IN CONSULTATION WITH  THE COMMISSIONER , MAY 
+DESIGNATE FUNDS FR OM THE FUND TO PROVIDE ANNUA L SUBSIDIES TO YOUNG  
+ADULTS WHO MEET THE SUBSIDY ELIGIBILITY AND PAYMENT PARAMETE RS 
+ESTABLISHED UNDER SU BSECTION (D) OF THIS SECTION .  
  
- (e) [(1)] Subject to available funds [and paragraph (2) of this subsection ], in 15 
-each [of] fiscal [years 2022 through 2026 ] YEAR , the Exchange may designate funds from 16 
-the Fund to be used for the [Pilot] Program so that annual subsidies may  be provided to 17 
-young adults who meet the subsidy eligibility and payment parameters established under 18 
-subsection (d) of this section.  19 
+ (f) The Exchange shall adopt regulations implementing the provisions of this 
+section.  
  
-  [(2) (I) For each of calendar years 2024 and 2025, the funds designated 20 
-under paragraph (1) of this subsection may not  exceed $20,000,000 plus any unspent funds 21 
-designated for subsidies for young adults in a previous calendar year. ] 22 
+ (g) The Exchange shall adopt regulations to provide a subsidy to cover 100% of 
+the cost of the premium for young adults who have a 0% expected contribution under the 
+subsidy eligibility parameters established under subsection (d) of this section.  
  
-   (II) FOR CALENDAR YEAR 2026  AND EACH CALENDAR YE AR 23 
-THEREAFTER , THE EXCHANGE , IN CONSULTATION WITH  THE COMMISSIONER , MAY 24 
-DESIGNATE FUNDS F ROM THE FUND TO PROVIDE ANNUA L SUBSIDIES TO YOUNG  25 
-ADULTS WHO MEET THE SUBSIDY ELIGIBILITY AND PAYMENT PARAMETE RS 26 
-ESTABLISHED UNDER SU BSECTION (D) OF THIS SECTION .  27 
+ (h) (1) The Exchange shall track on a monthly basis expenditures on subsidies 
+provided under the  [Pilot] Program, including:  
  
- (f) The Exchange shall adopt regulations implementing the provisions of this 28 
-section.  29 
+   (i) the average number of young adults receiving subsidies under 
+the [Pilot] Program; and  
  
- (g) The Exchange shall adopt regulations to provide a subsidy to cover 100% of 30 
-the cost of the premium for young adults who have a 0% expected contribution under the 31 
-subsidy eligibility parameters established under subsection (d) of this section.  32 
+   (ii) the average subsidy amount received by young adults under the 
+[Pilot] Program.  
  
- (h) (1) The Exchange shall track on a monthly basis expenditures on subsidies 33 
-provided under the  [Pilot] Program, including:  34 
- HOUSE BILL 297  7 
+  (2) The Exchange shall track:  
  
-  
-   (i) the average number of young adults receiving subsidies under 1 
-the [Pilot] Program; and  2 
+   (i) the impact the [Pilot] Program has on rates in the individual 
+insurance market; and  
  
-   (ii) the average subsidy amount received by young adults under the 3 
-[Pilot] Program.  4 
+   (ii) the impact of covering 100% of the cost of premiums for qualified 
+participants on effectuation rates and termination for nonpayment rates.  
+ WES MOORE, Governor  Ch. 721  
  
-  (2) The Exchange shall track:  5 
+– 7 –  
+  (3) The information tracked by the Exchange under paragraphs (1) and (2) 
+of this subsection shall be:  
  
-   (i) the impact the [Pilot] Program has on rates in the individual 6 
-insurance market; and  7 
+   (i) posted on the website of the Exchange; and  
  
-   (ii) the impact of covering 100% of the cost of premiums for qualified 8 
-participants on effectuation rates and termination for nonpayment rates.  9 
+   (ii) included in the annual report required under §  
+31–119(d) of this subtitle.  
  
-  (3) The information tracked by the Exchange under paragraphs (1) and (2) 10 
-of this subsection shall be:  11 
+Chapter 778 of the Acts of 2021, as amended by Chapters 256 and 257 of the Acts 
+of 2023  
  
-   (i) posted on the website of the Exchange; and  12 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 
+1, 2021. [It shall remain effective for a period of 5 years and, at the end of June 30, 2026, 
+this Act, with no further action required by the General Assembly, shall be abrogated and 
+of no further force and effect. ] 
  
-   (ii) included in the annual report required under §  13 
-31–119(d) of this subtitle.  14 
+ SECTION 2. AND BE IT FURTHER ENACTED, That thi s Act shall take effect July 
+1, 2025.  
  
-Chapter 778 of the Acts of 2021, as amended by Chapters 256 and 257 of the Acts 15 
-of 2023  16 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 17 
-1, 2021. [It shall remain effective for a period of 5 years and, at the end of June 30, 2026, 18 
-this Act, with no further action required by the General Assembly, shall be abrogated and 19 
-of no further force and effect. ] 20 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That thi s Act shall take effect July 21 
-1, 2025.  22 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 20, 2025.  

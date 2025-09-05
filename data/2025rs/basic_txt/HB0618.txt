@@ -1,153 +1,128 @@
+ WES MOORE, Governor  Ch. 340  
  
+– 1 – Chapter 340  
+(House Bill 618 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0618*      
-HOUSE BILL 618  
-C7   5lr2957  
-HB 566/23 – W&M      
-By: Delegate Patterson  
-Introduced and read first time: January 23, 2025  
-Assigned to: Ways and Means  
-Committee  Report: Favorable with amendments  
-House action: Adopted  
-Read second time: March 4, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+State Lottery – Internet Sales of Subscription Plans – Authorization  
  
-AN ACT concerning  1 
+FOR the purpose of authorizing the State Lottery and Gaming Control Agency to allow the 
+establishment of a system or program that allows for the  an individual to  purchase 
+of a State lottery subscription plan in a certain manner; requiring the Agency to 
+report to certain committees of the General Assembly regarding State lottery 
+subscription sales on or before a certain date;  and generally relating to the sale of 
+State lottery subscription plans.  
  
-State Lottery – Internet Sales of Subscription Plans – Authorization  2 
+BY repealing and reenacting, with amendments,  
+ Article – State Government  
+Section 9–101 and  9–111(e)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of authorizing the State Lottery and Gaming Control Agency to allow the 3 
-establishment of a system or program that allows for the  an individual to  purchase 4 
-of a State lottery subscription plan in a certain manner; requiring the Agency to 5 
-report to certain committees of the General Assembly regarding State lottery 6 
-subscription sales on or before a certain date;  and generally relating to the sale of 7 
-State lottery subscription plans.  8 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  9 
- Article – State Government  10 
-Section 9–101 and  9–111(e)  11 
- Annotated Code of Maryland  12 
- (2021 Replacement Volume and 2024 Supplement)  13 
+Article – State Government  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 14 
-That the Laws of Maryland read as follows:  15 
+9–101. 
  
-Article – State Government  16 
+ (a) In this subtitle the following words have the meanings indicated.  
  
-9–101. 17 
+ (b) “Agency” means the State Lottery and Gaming Control Agency.  
  
- (a) In this subtitle the following words have the meanings indicated.  18 
+ (c) “Commission ” means the State Lottery and Gaming Control Commission.  
  
- (b) “Agency” means the State Lottery and Gaming Control Agency.  19 
-2 HOUSE BILL 618   
+ (d) “Director ” means the Director o f the Agency.  
  
-  
- (c) “Commission ” means the State Lottery and Gaming Control Commission.  1 
+ (e) “Governmental unit ” means:  
  
- (d) “Director ” means the Director of the Agency.  2 
+  (1) an instrumentality of the State;  
  
- (e) “Governmental unit ” means:  3 
+  (2) a county or municipal corporation of the State; or  
  
-  (1) an instrumentality of the State;  4 
+  (3) an instrumentality of a county or municipal corporation of the State.  
  
-  (2) a county or municipal corporation of the State; or  5 
+ (f) “JACKPOT GAME ” MEANS A LOTTERY GAME  FOR WHICH THE TOP PR IZE 
+AMOUNT VARIES : 
+Ch. 340  2025 LAWS OF MARYLAND   
  
-  (3) an instrumentality of a county or municipal corporation of the State.  6 
+– 2 –  
+  (1) BASED ON SALES ; AND  
  
- (f) “JACKPOT GAME ” MEANS A LOTTERY GAME  FOR WHICH THE TOP PR IZE 7 
-AMOUNT VARIES : 8 
+  (2) IF THE PRIZE WAS WON  IN THE PRECEDING DRA WING . 
  
-  (1) BASED ON SALES ; AND  9 
+ (G) “License” means a license issued by the Director to act as a licensed agent.  
  
-  (2) IF THE PRIZE WAS WON  IN THE PRECEDING DRA WING . 10 
+ [(g)] (H) “Licensed agent ” means a person or governmental unit licensed by the 
+Director to act as a State lottery sales agent.  
  
- (G) “License” means a license issued by the Director to act as a licensed agent.  11 
+ (I) “MULTIJURISDICTIONAL G AME” MEANS A LOTTERY GAME  OFFERED BY 
+THE AGENCY AND : 
  
- [(g)] (H) “Licen sed agent ” means a person or governmental unit licensed by the 12 
-Director to act as a State lottery sales agent.  13 
+  (1) ANY OTHER POLITICAL ENTITY OUTSIDE THE STATE OR OUTSIDE 
+THE UNITED STATES ; OR 
  
- (I) “MULTIJURISDICTIONAL G AME” MEANS A LOTTERY GAME  OFFERED BY 14 
-THE AGENCY AND : 15 
+  (2) ANY PRIVATE LICENSEE  OF A STATE OR FOREIG N NATION . 
  
-  (1) ANY OTHER POLITICAL ENTITY OUTSIDE THE STATE OR OUTSIDE 16 
-THE UNITED STATES ; OR 17 
+ [(h)] (J) (1) “State lottery ” means the lottery established and operated under 
+this subtitle.  
  
-  (2) ANY PRIVATE LICENSEE  OF A STATE OR FOREIG N NATION . 18 
+  (2) “State lottery ” includes a raffle conducted by the Agency.  
  
- [(h)] (J) (1) “State lottery ” means the lottery established and operated under 19 
-this subtitle.  20 
+ (K) “SUBSCRIPTION ” MEAN S A METHOD OF PLAYIN G A 
+MULTIJURISDICTIONAL OR JACKPOT LOTTERY G AME BY WHICH AN INDI VIDUAL 
+SUBMITS TO THE AGENCY : 
  
-  (2) “State lottery ” includes a raffle conducted by the Agency.  21 
+  (1) AN APPLICATION TO PL AY A GAME USING THE SAME GAME DATA 
+FOR A SPECIFIED NUMB ER OF CONSECUTIVE DR AWINGS ; AND  
  
- (K) “SUBSCRI PTION” MEANS A METHOD OF PL AYING A 22 
-MULTIJURISDICTIONAL OR JACKPOT LOTTERY G AME BY WHICH AN INDI VIDUAL 23 
-SUBMITS TO THE AGENCY : 24 
+  (2) PAYMENT FOR THE DRAWINGS . 
  
-  (1) AN APPLICATION TO PL AY A GAME USING THE SAME GAME DATA 25 
-FOR A SPECIFIED NUMB ER OF CONSECUTIVE DR AWINGS ; AND  26 
+9–111. 
  
- HOUSE BILL 618  3 
+ (e) (1) [The] EXCEPT AS PROVIDED IN  PARAGRAPH (2) PARAGRAPHS (2) 
+AND (3) OF THIS SUBSECTION , THE Agency may not allow the establishment of any 
+system or program that allows a person to purchase a State lottery ticket through an 
+electronic device that connects to the Internet, such as a personal computer or mobile 
+device.  
  
-   (2) PAYMENT FOR THE DRAWINGS . 1 
+  (2) THE AGENCY MAY ALLOW T HE ESTABLISHMENT OF A SYSTEM OR 
+PROGRAM THAT ALLOWS FOR THE PURCHASE OF A STATE LOTTERY SUBSCRI PTION  
+PLAN  AN INDIVIDUAL TO PUR CHASE A SUBSCRIPTION  THROUGH AN ELECTRONI C 
+ WES MOORE, Governor  Ch. 340  
  
-9–111. 2 
+– 3 – DEVICE THAT CONNECTS  TO THE INTERNET , SUCH AS A PERSONAL C OMPUTER OR 
+MOBILE DEVICE . 
  
- (e) (1) [The] EXCEPT AS PROVIDED IN  PARAGRAPH (2) PARAGRAPHS (2) 3 
-AND (3) OF THIS SUBSECTION , THE Agency may not allow the establishment of any 4 
-system or program that allows a person to purchase a State lottery ticket through an 5 
-electronic device that connects to the Internet, such as a personal computer or mobile 6 
-device.  7 
+  (3) (I) THE AGENCY MAY ALLOW A LI CENSED AGENT TO SELL  A 
+VOUCHER THAT AN INDI VIDUAL MAY USE TO FU ND THE PURCHASE OF A  
+SUBSCRIPTION . 
  
-  (2) THE AGENCY MAY ALLOW THE ESTABLISHMENT OF A S YSTEM OR 8 
-PROGRAM THAT ALLOWS FOR THE PURCHASE OF A STATE LOTTERY SUBSCRI PTION  9 
-PLAN  AN INDIVIDUAL TO PUR CHASE A SUBSCRIPTION  THROUGH AN ELECTRONI C 10 
-DEVICE THAT CONNECTS  TO THE INTERNET , SUCH AS A PERSONAL C OMPUTER OR 11 
-MOBILE DEVICE . 12 
+   (II) THE AGENCY SHALL PAY A LI CENSED AGENT THAT SE LLS A 
+VOUCHER DESCRIBED UN DER SUBPARAGRAPH (I) OF THIS PARAGRAPH TH E 
+COMMISSION RATE STATED  IN § 9–117 OF THIS SUBTITLE . 
  
-  (3) (I) THE AGENCY MAY ALLOW A LI CENSED AGENT TO SELL  A 13 
-VOUCHER THAT AN INDI VIDUAL MAY USE TO FU ND THE PURCHASE OF A  14 
-SUBSCRIPTION . 15 
+   (III) THE AGENCY SHALL PAY A LI CENSED AGENT THE 
+COMMISSION RATE STAT ED IN § 9–117 OF THIS SUBTITLE FOR  THE RENEWAL OF A 
+SUBSCRIPTION THAT WA S ORIGINALLY FUNDED BY A VOUCHER SOLD BY  THE 
+LICENSED AGENT AND IS RENEWED BEFOR E THE SUBSCRIPTION ’S EXPIRATION FOR 
+A PERIOD OF 24 MONTHS FROM THE DATE  OF THE FIRST RENEWAL . 
  
-   (II) THE AGENCY SHALL PAY A LI CENSED AGENT THAT SE LLS A 16 
-VOUCHER DESCRIBED UN DER SUBPARAGRAPH (I) OF THIS PARAGRAPH TH E 17 
-COMMISSION RATE STAT ED IN § 9–117 OF THIS SUBTITLE . 18 
+ SECTION 2. AND BE IT FURTHER ENACTED, That, on or before December 1, 
+2026, the State Lottery and Gaming Control Agency shall report to the S enate Budget and 
+Taxation Committee, the House Appropriations Committee, and the House Ways and 
+Means Committee, in accordance with § 2 –1257 of the State Government Article, on State 
+lottery subscription sales, including:  
  
-   (III) THE AGENCY SHALL PAY A LI CENSED AGENT THE 19 
-COMMISSION RATE STAT ED IN § 9–117 OF THIS SUBTITLE FOR  THE RENEWAL OF A 20 
-SUBSCRIPTION THAT WA S ORIGINALLY FUNDED BY A VOUCHER SOLD BY  THE 21 
-LICENSED AGENT AND I S RENEWED BEFORE THE  SUBSCRIPTION ’S EXPIRATION FOR 22 
-A PERIOD OF 24 MONTHS FROM THE DATE  OF THE FIRST RENEWAL . 23 
+  (1) the number and amount of su bscriptions sold directly by the Agency;  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That, on or before December 1, 24 
-2026, the State Lottery and Gaming Control Agency shall report to the Senate Budget and 25 
-Taxation Committee, the House Appropriations Committee, and the House Ways and 26 
-Means Committee, in accordance with  § 2–1257 of the State Government Article, on State 27 
-lottery subscription sales, including:  28 
+  (2) the number and amount of vouchers sold by licensed agents; and  
  
-  (1) the number and amount of subscriptions sold directly by the Agency;  29 
+  (3) the number of subscription renewals processed directly by the Agency 
+that were originally funded by vouchers.  
  
-  (2) the number and amount of vouchers sold by licensed agents; and  30 
+ SECTION 2. 3. AND BE IT FU RTHER ENACTED, That this Act shall take effect 
+July 1, 2025.  
  
-  (3) the number of  subscription renewals processed directly by the Agency 31 
-that were originally funded by vouchers.  32 
- 
- SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 33 
-July 1, 2025.  34 
-4 HOUSE BILL 618   
- 
-  
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 6, 2025.  

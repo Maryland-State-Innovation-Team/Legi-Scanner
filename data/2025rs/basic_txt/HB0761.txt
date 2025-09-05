@@ -1,970 +1,946 @@
+ WES MOORE, Governor  Ch. 636  
  
+– 1 – Chapter 636  
+(House Bill 761 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0761*      
-HOUSE BILL 761  
-I4   5lr1720  
-    CF SB 665  
-By: The Speaker (By Request – Office of the Comptroller)  
-Introduced and read first time: January 27, 2025  
-Assigned to:  Economic Matters  
-Reassigned: Health and Government Operations, February 3, 2025  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: March 1, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Maryland Uniform Disposition of Abandoned Property Act – Revisions  
  
-AN ACT concerning  1 
+FOR the purpose of making certain virtual currency subject to the abandoned property laws 
+in the State; establishing provisions to determine certain information about certain 
+apparent owners of abandoned property; providing that a certain operation does no t 
+prevent certain insurance policies from maturing or terminating; altering and 
+establishing certain provisions pertaining to the presumption of abandonment for 
+certain types of property; establishing certain procedures to establish the death of a 
+certain insured or certain annuitant; altering the dollar value at which the 
+Comptroller is required to publish certain notice;  authorizing the Comptroller to 
+retain, for certain purposes, certain funding from proceeds obtained through the 
+disposition of abandoned  property; altering the procedures for filing a claim with the 
+Comptroller to reclaim abandoned property; and generally relating to the Maryland 
+Uniform Disposition of Abandoned Property Act.  
  
-Maryland Uniform Disposition of Abandoned Property Act – Revisions  2 
+BY repealing and reenacting, with amendments,  
+ Article – Comm ercial Law  
+Section 17 –101, 17 –301, 17 –302, 17 –304(a)(2)(i), 17 –308(d), 17 –308.1(b), 17–311(c),  
+17–317(a)(1), and 17 –318 through 17 –320 
+ Annotated Code of Maryland  
+ (2013 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of making certain virtual currency subject to the abandoned property laws 3 
-in the State; establishing provisions to determine certain information about certain 4 
-apparent owners of abandoned property; prov iding that a certain operation does not 5 
-prevent certain insurance policies from maturing or terminating; altering and 6 
-establishing certain provisions pertaining to the presumption of abandonment for 7 
-certain types of property; establishing certain procedure s to establish the death of a 8 
-certain insured or certain annuitant; altering the dollar value at which the 9 
-Comptroller is required to publish certain notice;  authorizing the Comptroller to 10 
-retain, for certain purposes, certain funding from proceeds obtaine d through the 11 
-disposition of abandoned property; altering the procedures for filing a claim with the 12 
-Comptroller to reclaim abandoned property; and generally relating to the Maryland 13 
-Uniform Disposition of Abandoned Property Act.  14 
+BY adding to  
+ Article – Commercial Law  
+Section 17 –301, 17 –302.1, 17 –306.1, 17 –307.2, and 17 –319.1  
+ Annotated Code of Maryland  
+ (2013 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenac ting, with amendments,  15 
- Article – Commercial Law  16 
-Section 17 –101, 17 –301, 17 –302, 17 –304(a)(2)(i), 17 –308(d), 17 –308.1(b), 17–311(c),  17 
-17–317(a)(1), and 17 –318 through 17 –320 18 
- Annotated Code of Maryland  19 
- (2013 Replacement Volume and 2024 Supplement)  20 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY adding to  21 
- Article – Commercial Law  22 
-2 HOUSE BILL 761   
+Article – Comm ercial Law  
  
- Section 17 –301, 17 –302.1, 17 –306.1, 17 –307.2, and 17 –319.1  1 
- Annotated Code of Maryland  2 
- (2013 Replacement Volume and 2024 Supplement)  3 
+17–101. 
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 4 
-That the Laws of Maryland read as follows:  5 
+ (a) In this title the following words have the meanings indicated.  
  
-Article – Commercial Law  6 
+ (b) (1) “Abandoned property” means personal property that is considered 
+abandoned under this title.  
  
-17–101. 7 
+Ch. 636  2025 LAWS OF MARYLAND   
  
- (a) In this title the following words have the meanings indicated.  8 
+– 2 –   (2) “Abandoned property” includes property in the custody of t he federal 
+government that is classified as “unclaimed property” under federal law.  
  
- (b) (1) “Abandoned property” means personal property that is considered 9 
-abandoned under this title.  10 
+ (c) “Administrator” means the State Comptroller.  
  
-  (2) “Abandoned proper ty” includes property in the custody of the federal 11 
-government that is classified as “unclaimed property” under federal law.  12 
+ (D) “APPARENT OWNER ” MEANS A PERSON WHOSE  NAME APPEARS ON A 
+RECORD OF A HOLDER A S THE OWNER OF PROPE RTY HELD , ISSUED , OR OWING BY 
+THE HOLDER . 
  
- (c) “Administrator” means the State Comptroller.  13 
+ [(d)] (E) “Banking organization” means any bank, trust company, savings bank, 
+land bank, and any other similar organization engaged in business in the State.  
  
- (D) “APPARENT OWNER ” MEANS A PERSON WHOSE  NAME APPEARS ON A 14 
-RECORD OF A HOLDER  AS THE OWNER OF PROP ERTY HELD , ISSUED , OR OWING BY 15 
-THE HOLDER . 16 
+ [(e)] (F) “Business association” means any corporation, joint stock co mpany, 
+business trust, statutory trust, partnership, or any association for business purposes of two 
+or more individuals.  
  
- [(d)] (E) “Banking organization” means any bank, trust company, savings bank, 17 
-land bank, and any other similar organization engaged in business in the State.  18 
+ [(f)] (G) “County” includes Baltimore City.  
  
- [(e)] (F) “Business associatio n” means any corporation, joint stock company, 19 
-business trust, statutory trust, partnership, or any association for business purposes of two 20 
-or more individuals.  21 
+ [(g)] (H) “Federal government” includes any of its agencies or instrumentalities.  
  
- [(f)] (G) “County” includes Baltimore City.  22 
+ [(h)] (I) “Financial organization” means any savings and loan association or 
+credit union engaged in business in the State.  
  
- [(g)] (H) “Federal government” includes any of  its agencies or instrumentalities.  23 
+ (J) “GIFT CARD ” MEANS A GIFT CARD DE SCRIBED IN § 14–1320  OF THIS 
+ARTICLE . 
  
- [(h)] (I) “Financial organization” means any savings and loan association or 24 
-credit union engaged in business in the State.  25 
+ (K) “GIFT CERTIFICATE ” HAS THE MEANING STAT ED IN § 14–1319 OF THIS 
+ARTICLE .  
  
- (J) “GIFT CARD ” MEANS A GIFT CARD DE SCRIBED IN § 14–1320  OF THIS 26 
-ARTICLE . 27 
+ [(i)] (J) (L) “Holder” means any person who is:  
  
- (K) “GIFT CERTIFICATE ” HAS THE MEANING STAT ED IN § 14–1319  OF THIS 28 
-ARTICLE .  29 
+  (1) In possession of property subject to this title belonging to another;  
  
- [(i)] (J) (L) “Holder” means any person who is:  30 
- HOUSE BILL 761  3 
+  (2) A trustee, in the case of a trust; or  
  
-  
-  (1) In possession of property subject to this title belonging to another;  1 
+  (3) Indebted to another on an obligation subject to this title.  
  
-  (2) A trustee, in the case of a trust; or  2 
+ (K) (M) “INDICATION OF APPAREN T OWNER INTEREST IN PROPERTY ” 
+MEANS : 
  
-  (3) Indebted t o another on an obligation subject to this title.  3 
+  (1) A RECORD COMMUNICATED BY THE APPARENT OWNE R TO THE 
+HOLDER OR AGENT OF T HE HOLDER CONCERNING  THE PROPERTY OR THE ACCOUNT 
+IN WHICH THE PROPERT Y IS HELD ; 
  
- (K) (M) “INDICATION OF APPAREN T OWNER INTEREST IN PROPERTY ” 4 
-MEANS : 5 
+ WES MOORE, Governor  Ch. 636  
  
-  (1) A RECORD COMMUNICATED BY THE APPARENT OWNE R TO THE 6 
-HOLDER OR AGENT OF T HE HOLDER CONCERNING  THE PROPERTY OR THE ACCOUNT 7 
-IN WHICH THE PROPERTY IS HELD ; 8 
+– 3 –   (2) AN ORAL COMMUNICATION BY THE  APPARENT OWNER TO TH E 
+HOLDER OR AGENT OF T HE HOLDER CONCERNING  THE PROPERTY OR THE ACCOUNT 
+IN WHICH THE PROPERT Y IS HELD , IF THE HOLDER OR ITS  AGENT 
+CONTEMPORANEOUSLY MA KES AND PRESERVES A RECORD OF THE FACT O F THE 
+APPARENT OWNER ’S COM MUNICATION ; 
  
-  (2) AN ORAL COMMUNICATION  BY THE APPARENT OWNE R TO THE 9 
-HOLDER OR AGENT OF T HE HOLDER CONCERNING  THE PROPERTY OR THE ACCOUNT 10 
-IN WHICH THE PROPERT Y IS HELD , IF THE HOLDER OR ITS  AGENT 11 
-CONTEMPORANEOUSLY MA KES AND PRESERVES A RECORD OF  THE FACT OF THE 12 
-APPARENT OWNER ’S COMMUNICATION ; 13 
+  (3) FOR AN ACCOUNT , UNDERLYING SECURITY , OR INTEREST IN A 
+BUSINESS ASSOCIATION , THE PRESENTMENT OF : 
  
-  (3) FOR AN ACCOUNT , UNDERLYING SECURITY , OR INTEREST IN A 14 
-BUSINESS ASSOCIATION , THE PRESENTMENT OF : 15 
+   (I) A CHECK OR OTHER INSTR UMENT OF PAYMENT OF A 
+DIVIDEND , INTEREST PAYMENT , OR OTHER DISTRIBUTIO N; OR  
  
-   (I) A CHECK OR OTHER INSTR UMENT OF PAYMENT OF A 16 
-DIVIDEND , INTEREST PAYMENT , OR OTHER DISTRIBUTIO N; OR  17 
+   (II) EVIDENCE OF RECEIPT O F A DISTRIBUTION MADE BY  
+ELECTRONIC OR SIMILA R MEANS ; 
  
-   (II) EVIDENCE OF RECEIPT O F A DISTRIBUTION MAD E BY 18 
-ELECTRONIC OR SIMILA R MEANS ; 19 
+  (4) ACTIVITY DIRECTED BY AN APPARENT OWNER IN  THE ACCOUNT 
+IN WHICH THE PROPERT Y IS HELD , INCLUDING : 
  
-  (4) ACTIVITY DIRECTED BY AN APPARENT OWNER IN  THE ACCOUNT 20 
-IN WHICH THE PROPERT Y IS HELD , INCLUDING : 21 
+   (I) ACCESSING THE ACCOUNT  OR INFORMATION CONCE RNING 
+THE ACCOUNT ; OR  
  
-   (I) ACCESSING THE ACCOUNT  OR INFORMATION CONCE RNING 22 
-THE ACCOUN T; OR  23 
+   (II) A DIRECTION BY THE AP PARENT OWNER TO INCR EASE , 
+DECREASE , OR OTHERWISE CHANGE THE AMOUNT OR TYPE O F PROPERTY HELD IN 
+THE ACCOUNT ; 
  
-   (II) A DIRECTION BY THE APP ARENT OWNER TO INCRE ASE, 24 
-DECREASE , OR OTHERWISE CHANGE THE AMOUNT OR TYPE O F PROPERTY HELD IN 25 
-THE ACCOUNT ; 26 
+  (5) A DEPOSIT INTO OR WITH DRAWAL FROM AN ACCOU NT AT A 
+FINANCIAL INSTITUTIO N, INCLUDING AN AUTOMAT IC DEPOSIT OR WITHDR AWAL 
+PREVIOUSLY AUTHORIZE D BY THE APPARENT OWNER  OTHER THAN AN AUTOMA TIC 
+REINVESTMENT OF DIVI DENDS OR INTEREST ; 
  
-  (5) A DEPOSIT INTO OR WITH DRAWAL FROM AN ACCOU NT AT A 27 
-FINANCIAL INSTITUTIO N, INCLUDING AN AUTOMAT IC DEPOSIT OR WITHDRAWAL 28 
-PREVIOUSLY AUTHORIZE D BY THE APPARENT OW NER OTHER THAN AN AU TOMATIC 29 
-REINVESTMENT OF DIVI DENDS OR INTEREST ; 30 
+  (6) SUBJECT TO § 17–301( A)(3) OF THIS TITLE , PAYMENT OF A 
+PREMIUM ON AN INSURA NCE POLICY ; AND 
  
-4 HOUSE BILL 761   
+  (7) ANY OTHER ACTION BY T HE APPARENT OWNER TH AT 
+REASONABLY DEMONSTRA TES TO THE HOLDER THAT T HE APPARENT OWNER KN OWS 
+THAT THE PROPERTY EX ISTS. 
  
-   (6) SUBJECT TO § 17–301( A)(3) OF THIS TITLE , PAYMENT OF A 1 
-PREMIUM ON AN INSURA NCE POLICY ; AND 2 
+ [(j)] (L) (N) “Insurance corporation” means any association or corporation 
+transacting in the State the business of insurance on the lives of persons or insurance 
+pertaining to life insurance, including endowments and annuities, disability, accident and 
+health insurance, and property, casualty, and surety insurance, as these terms are defined 
+in the Insurance Article.  
  
-  (7) ANY OTHER ACTION BY T HE APPAREN T OWNER THAT 3 
-REASONABLY DEMONSTRA TES TO THE HOLDER TH AT THE APPARENT OWNE R KNOWS 4 
-THAT THE PROPERTY EX ISTS. 5 
+ [(k)] (M) (O) “Owner” means:  
+Ch. 636  2025 LAWS OF MARYLAND   
  
- [(j)] (L) (N) “Insurance corporation” means any association or corporation 6 
-transacting in the State the business of insurance on the lives of persons or insurance 7 
-pertaining to life insurance, including endowments and annuities, disability, accident and 8 
-health insurance, and property, casualty, and surety insurance, as these terms are defined 9 
-in the Insurance Article.  10 
+– 4 –  
+  (1) In the case of a deposit, a d epositor or a person entitled to receive the 
+funds as reflected on the records of the bank or financial organization;  
  
- [(k)] (M) (O) “Owner” mea ns: 11 
+  (2) In the case of a trust, a beneficiary;  
  
-  (1) In the case of a deposit, a depositor or a person entitled to receive the 12 
-funds as reflected on the records of the bank or financial organization;  13 
+  (3) In the case of other choses in action, a creditor, claimant, or payee;  
  
-  (2) In the case of a trust, a beneficiary;  14 
+  (4) In the case of abandoned property in federal custody, the person who is 
+defined as the owner by any applicable federal law; [or] 
  
-  (3) In the case of other choses in action, a cred itor, claimant, or payee;  15 
+  (5) Any person who has a legal or equitable interest in property subject to 
+this title, or the legal representative of that person ; OR 
  
-  (4) In the case of abandoned property in federal custody, the person who is 16 
-defined as the owner by any applicable federal law; [or] 17 
+  (6) IN THE CASE OF A PENS ION ACCOUNT OR RETIR EMENT ACCOUNT 
+THAT QUALIFIES FOR T AX DEFERRAL UNDER TH E INCOME TAX PROVISI ONS OF THE 
+INTERNAL REVENUE CODE, THE PAYEE . 
  
-  (5) Any person who has a legal or equitable interest in property subject to 18 
-this title, or the legal representative of that person ; OR 19 
+ [(l)] (N) (P) “Person” includes the State, any county, municipal corporation, or other 
+political subdivision of the State, or any of their units, an individual, business association, 
+corporation, business trust, statutory trust, estate, trust, partnership, association, two or 
+more persons having a joint or common intere st, or any other legal or commercial entity.  
  
-  (6) IN THE CASE OF A PENS ION ACCOUNT OR RETIR EMENT ACCOUNT 20 
-THAT QUALIFIES FOR T AX DEFERRAL UNDER TH E INCOME TAX PROVISI ONS OF THE 21 
-INTERNAL REVENUE CODE, THE PAYEE . 22 
+ [(m)] (O) (Q) “Personal property” does not include:  
  
- [(l)] (N) (P) “Person” includes the State, any county, municipal corporation, or other 23 
-political subdivision of the State, or any of their units, an individual, business association, 24 
-corporation, business trust, statutory trust, estate, trust, partnership, association, two or 25 
-more persons having a joint or common interest, or any other legal or commercial entity.  26 
+  (1) A gift certificate  OR A GIFT CARD ; 
  
- [(m)] (O) (Q) “Personal property” does not include:  27 
+  (2) Credits in connection with the sale of consumer goods to a wholesaler 
+or retailer in the ordinary course of business;  
  
-  (1) A gift certificate  OR A GIFT CARD ; 28 
+  (3) Outstanding checks or credits issued to vendors or commercial 
+customers in the ordinary course of business, other than property described in [§ 17–301(a) ] 
+§ 17–301.1( A) of this title held by a banking organization or financial organization ; 
  
-  (2) Credits in connection with the sale of consumer goods to a wholesaler 29 
-or retailer in the ordinary course of business;  30 
+  (4) Credit balances in vendor or commercial customer accounts that occur 
+in the ordinary course of business, other than property described in [§ 17 –301(a) ] §  
+17–301.1( A) of this title held by a banking organization or financial organization; or  
  
- HOUSE BILL 761  5 
+  (5) Purchase price rebates issued to customers in the ordinary course of 
+business.  
  
-   (3) Outstanding checks or credits issued to vendors or commercial 1 
-customers in the ordinary course of business, other than property described in [§ 17–301(a) ] 2 
-§ 17–301.1( A) of this title held by a banking organization or  financial organization;  3 
+ (P) (R) “RECORD” MEANS INFORMATION TH AT IS : 
  
-  (4) Credit balances in vendor or commercial customer accounts that occur 4 
-in the ordinary course of business, other than property described in [§ 17 –301(a) ] §  5 
-17–301.1( A) of this title held by a banking organization or financial  organization; or  6 
+  (1) INSCRIBED ON A TANGIB LE MEDIUM ; OR  
  
-  (5) Purchase price rebates issued to customers in the ordinary course of 7 
-business.  8 
+ WES MOORE, Governor  Ch. 636  
  
- (P) (R) “RECORD” MEANS INFORMATION TH AT IS : 9 
+– 5 –   (2) STORED IN AN ELECTRON IC OR OTHER MEDIUM A ND 
+RETRIEVABLE IN PERCE IVABLE FORM . 
  
-  (1) INSCRIBED ON A TANGIB LE MEDIUM ; OR  10 
+ [(n)] (Q) (S) “Service charge” means any type of deduction or charge made by a 
+holder on property presumed abandoned under this title.  
  
-  (2) STORED IN AN ELECTRON IC OR OTHER MEDIUM A ND 11 
-RETRIEVABLE IN PERCEIVABLE FORM . 12 
+ [(o)] (R) (T) “Utility” means any person who owns or operates in the State, for public 
+use, any plant, equipment, prope rty, franchise, or license for the transmission of 
+communications, for the production, storage, transmission, sale, delivery, or furnishing of 
+electricity, water, steam, or gas, or for the transportation of persons or property.  
  
- [(n)] (Q) (S) “Service charge” means any type of deduction or charge made by a 13 
-holder on property presumed abandoned under this title.  14 
+ (S) (U) (1) “VIRTUAL CURRENCY ” MEANS A DIGITAL REPR ESENTATION 
+OF VALUE USED AS A M EDIUM OF EXCHANGE , UNIT OF ACCOUNT , OR STORE OF 
+VALUE THAT DOES NOT HAVE LEGAL TENDER ST ATUS RECOGNIZED BY T HE UNITED 
+STATES . 
  
- [(o)] (R) (T) “Utility” means any person who owns or operates in the State, for public 15 
-use, any plant, equipment, property, franchise, or license for the transmission of 16 
-communications, for the production, storage, transmission, sale, delivery, or furnishing of 17 
-electricity, water, steam, or gas, or for the transportation of persons or property.  18 
+  (2) “VIRTUAL CURRENCY ” DOES NOT INCLUDE : 
  
- (S) (U) (1) “VIRTUAL CURRENCY ” MEANS A DIGITAL REPR ESENTATION 19 
-OF VALUE USED AS A M EDIUM OF EXCHANGE , UNIT OF ACCOUNT , OR STORE OF 20 
-VALUE THAT DOES NOT HAVE LEGAL TENDER ST ATUS RECOGNIZED BY T HE UNITED 21 
-STATES . 22 
+   (I) THE SOFTWARE OR P ROTOCOLS GOVERNING T HE 
+TRANSFER OF THE DIGI TAL REPRESENTATION O F VALUE ; 
  
-  (2) “VIRTUAL CURRENCY ” DOES NOT INCLUDE : 23 
+   (II) GAME–RELATED DIGITAL CONT ENT; OR 
  
-   (I) THE SOFTWARE OR PROTO COLS GOVERNING THE 24 
-TRANSFER OF THE DIGI TAL REPRESENTATION O F VALUE ; 25 
+   (III) A LOYALTY CARD . 
  
-   (II) GAME–RELATED DIGITAL CONT ENT; OR 26 
+17–301. 
  
-   (III) A LOYALTY CARD . 27 
+ (A) FOR PURPOSES OF THIS SUBTITLE : 
  
-17–301. 28 
+  (1) AN ACTION BY AN AGENT  OR OTHER REPRESENTAT IVE OF AN 
+APPARENT OW NER, OTHER THAN A HOLDER ACTING AS THE APPARE NT OWNER ’S 
+AGENT , IS PRESUMED TO BE AN  ACTION ON BEHALF OF THE APPARENT OWNER ; AND 
  
- (A) FOR PURPOSES OF THIS SUBTITLE : 29 
+  (2) A COMMUNICATION WITH A N APPARENT OWNER BY A PERSON 
+OTHER THAN THE HOLDE R OR THE HOLDER ’S REPRESENTATIVE IS NOT AN 
+INDICAT ION OF APPARENT OWNE R INTEREST IN PROPER TY UNLESS A RECORD O F 
+THE COMMUNICATION EV IDENCES THE APPARENT  OWNER’S KNOWLEDGE OF A 
+RIGHT TO THE PROPERT Y; AND. 
  
-6 HOUSE BILL 761   
+  (3) IF AN INSURED DIES OR  THE INSURED OR BENEF ICIARY OF AN  
+INSURANCE POLICY OTH ERWISE BECOMES ENTITLED TO THE PROC EEDS BEFORE  
+DEPLETION OF THE CAS H SURRENDER VALUE OF  THE POLICY BY OPERAT ION OF AN  
+AUTOMATIC –PREMIUM –LOAN PROVISION OR OT HER NONFORFEITURE PR OVISION  
+Ch. 636  2025 LAWS OF MARYLAND   
  
-   (1) AN ACTION BY AN AGENT  OR OTHER REPRESENTAT IVE OF AN 1 
-APPARENT OWNER , OTHER THAN A HOLDER ACTING AS THE APPARE NT OWNER ’S 2 
-AGENT , IS PRESUMED TO BE AN  ACTION ON BEHALF OF THE APPARENT OWNER ; AND 3 
+– 6 – CONTAINED IN THE POL ICY, THE OPERATION OF THE  PROVISION DOES NOT  
+PREVENT THE POLICY F ROM MATURING OR TERMIN ATING . 
  
-  (2) A COMMUNICATION WITH A N APPARENT OWNER BY A PERSON 4 
-OTHER T HAN THE HOLDER OR TH E HOLDER ’S REPRESENTATIVE IS NOT AN 5 
-INDICATION OF APPARE NT OWNER INTEREST IN  PROPERTY UNLESS A RE CORD OF 6 
-THE COMMUNICATION EV IDENCES THE APPARENT  OWNER’S KNOWLEDGE OF A 7 
-RIGHT TO THE PROPERT Y; AND. 8 
+ (B) WHEN DETERMINING THE ADDRESS OF AN APPARE NT OWNER UNDER 
+THIS SUBTITLE : 
  
-  (3) IF AN INSURED DIES OR  THE INSURED OR BENEFICIA RY OF AN  9 
-INSURANCE POLICY OTH ERWISE BECOMES ENTIT LED TO THE PROCEEDS BEFORE  10 
-DEPLETION OF THE CAS H SURRENDER VALUE OF  THE POLICY BY OPERAT ION OF AN  11 
-AUTOMATIC –PREMIUM –LOAN PROVISION OR OT HER NONFORFEITURE PR OVISION  12 
-CONTAINED IN THE POL ICY, THE OPERATION OF THE  PROVISION DOES NOT  13 
-PREVENT THE POLICY F ROM MATURING OR TERM INATING . 14 
+  (1) (I) THE LAST KNOWN ADDRES S OF AN APPARENT OWN ER 
+INCLUDES ANY DESCRIP TION , CODE , OR OTHER INDICATION OF THE LOCATION OF 
+THE APPARENT OWNER T HAT IDENTIFIES A STATE ; AND 
  
- (B) WHEN DETERMINING THE ADDRESS OF AN APPARE NT OWNER UNDER 15 
-THIS SUBTITLE : 16 
+   (II) AN INDICATION OF THE LOCATION OF THE APPA RENT 
+OWNER THAT IDENTIFIE S A STATE DOES NOT N EED TO BE SUFFICIENT  TO DIRECT 
+THE DELIVERY OF FIRS T–CLASS MAIL TO THE AP PARENT OWNER ;  
  
-  (1) (I) THE LAST KNOWN ADDRES S OF AN APPARENT OWN ER 17 
-INCLUDES ANY DESCRIP TION , CODE , OR OTHER INDICATION O F THE LOCATION OF 18 
-THE APPARENT OWNER T HAT IDENTIFIES A STA TE; AND 19 
+  (2) THIS STATE IS DEEMED TO BE  THE STATE OF TH E LAST KNOWN 
+ADDRESS OF THE APPAR ENT OWNER IF : 
  
-   (II) AN INDICATION OF THE LOCATION OF THE APPA RENT 20 
-OWNER THAT IDENTIFIE S A STATE DOES NOT N EED TO BE SUFFICIENT  TO DIRECT 21 
-THE DELIVERY OF FIRS T–CLASS MAIL TO THE AP PARENT OWNER ;  22 
+   (I) THE POSTAL ZIP CODE A SSOCIATED WITH THE A PPARENT 
+OWNER IS FOR A POST OFFICE LOCATED IN TH IS STATE ; AND 
  
-  (2) THIS STATE IS DEEMED TO BE  THE STATE OF THE LAS T KNOWN 23 
-ADDRESS OF THE APPAR ENT OWNER IF : 24 
+   (II) THERE ARE NO OTHER RE CORDS ASSOCIATED WIT H THE 
+APPARENT OWNER THAT SPECIFICALLY IDENTIF Y THE PHYSICAL ADDRESS  OF THE 
+APPARENT OWNER TO BE  IN ANOTHER STATE ; 
  
-   (I) THE POSTAL ZIP CODE A SSOCIATED WITH THE A PPARENT 25 
-OWNER IS FOR A POST OFFICE LOCATED IN TH IS STATE ; AND 26 
+  (3) ANOTHER STATE IS DEEM ED TO BE THE STATE O F THE LAST 
+KNOWN ADDRESS OF THE  APPARENT OWNER IF : 
  
-   (II) THERE ARE NO OTHER RE CORDS ASSOCIATED WITH THE 27 
-APPARENT OWNER THAT SPECIFICALLY IDENTIF Y THE PHYSICAL ADDRE SS OF THE 28 
-APPARENT OWNER TO BE  IN ANOTHER STATE ; 29 
+   (I) THE POSTAL ZIP CODE A SSOCIATED WITH THE A PPARENT 
+OWNER IS FOR A POST OFFICE LOCATE D OUTSIDE THIS STATE ; AND 
  
-  (3) ANOTHER STATE IS DEEM ED TO BE THE STATE O F THE LAST 30 
-KNOWN ADDRESS OF THE  APPARENT OWNER IF : 31 
+   (II) THERE ARE NO OTHER RE CORDS ASSOCIATED WIT H THE 
+APPARENT OWNER THAT SPECIFICALLY IDENTIF Y THE PHYSICAL ADDRE SS OF THE 
+APPARENT OWNER TO BE  IN THIS STATE ; AND 
  
-   (I) THE POSTAL ZIP CODE ASSOCIATED WITH THE APPARENT 32 
-OWNER IS FOR A POST OFFICE LOCATED OUTSI DE THIS STATE ; AND 33 
+  (4) THE ADDRESS OF THE AP PARENT OWNER OF A LI FE OR 
+ENDOWMENT INSURANCE POLICY OR ANNUITY CONTRACT OR ITS PROCEEDS IS 
+PRESUMED TO BE THE A DDRESS OF THE INSURE D OR ANNUITANT IF : 
  
- HOUSE BILL 761  7 
+   (I) A PERSON OTHER THAN TH E INSURED OR ANNUITA NT IS 
+ENTITLED TO THE AMOU NT OWED UNDER THE PO LICY OR CONTRACT ; AND 
  
-    (II) THERE ARE NO OTHER RE CORDS ASSOCIATED WIT H THE 1 
-APPARENT OWNER THAT SPECIFICALLY IDENTIF Y THE PHYSICAL ADDRE SS OF THE 2 
-APPARENT OWNER TO BE  IN THIS STATE ; AND 3 
+   (II) THE ADDRESS OF  THE PERSON ENTITLED TO THE AMOUNT 
+OWED UNDER THE POLIC Y OR CONTRACT IS : 
+ WES MOORE, Governor  Ch. 636  
  
-  (4) THE ADDRESS OF THE AP PARENT OWNER OF A LI FE OR 4 
-ENDOWMENT INSURANCE POLICY OR ANNUITY CO NTRACT OR ITS PROCEE DS IS 5 
-PRESUMED TO BE THE A DDRESS OF THE INSURE D OR ANNUITANT IF : 6 
+– 7 –  
+    1. NOT KNOWN BY THE INSU RANCE COMPANY ; AND 
  
-   (I) A PERSON OTHER THAN TH E INSURED OR ANNUITA NT IS 7 
-ENTITLED TO THE AMOU NT OWED UNDER THE POLIC Y OR CONTRACT ; AND 8 
+    2. CANNOT BE DETERMINED UNDER § 17–301.1( D) OF 
+THIS SUBTITLE . 
  
-   (II) THE ADDRESS OF THE PE RSON ENTITLED TO THE  AMOUNT 9 
-OWED UNDER THE POLIC Y OR CONTRACT IS : 10 
+[17–301.] 17–301.1.  
  
-    1. NOT KNOWN BY THE INSU RANCE COMPANY ; AND 11 
+ (a) (1) For purposes of this section and subject to paragraph (2) of this 
+subsection, a holder shall be deemed to no longer have a valid address for the owner of the 
+property as of the later of:  
  
-    2. CANNOT BE DETERMINED UNDER § 17–301.1( D) OF 12 
-THIS SUBTITLE . 13 
+   (i) The date a second communication is returned by the U.S. Postal 
+Service to a holder as undelive rable to an apparent owner, if:  
  
-[17–301.] 17–301.1.  14 
+    1. The holder sent the second communication to the apparent 
+owner by first –class mail; and  
  
- (a) (1) For purposes of this section and subject to paragraph (2) of this 15 
-subsection, a holder shall be deemed to no longer have a valid address for the owner of the 16 
-property as of the later of:  17 
+    2. A previous communication was:  
  
-   (i) The date a second communication is returned by the U.S. Postal 18 
-Service to a holder as undeliverable to an apparent owner, if:  19 
+    A. Sent by first –class mail;  
  
-    1. The holder sent the second communication to the apparent 20 
-owner by first –class mail; and  21 
+    B. Sent immediately preceding the second communicat ion; 
+and 
  
-    2. A previous communication was:  22 
+    C. Returned by the U.S. Postal Service to the holder as 
+undeliverable to the apparent owner; or  
  
-    A. Sent by first –class mail;  23 
+   (ii) The date a previous communication is returned by the U.S. 
+Postal Service to a holder as undeliverable to an apparent owner, if the holder : 
  
-    B. Sent immediately preceding the second communication; 24 
-and 25 
+    1. Sent the previous communication to the apparent owner:  
  
-    C. Returned by the U.S. Postal Service to the holder as 26 
-undeliverable to the apparent owner; or  27 
+    A. By first –class mail; and  
  
-   (ii) The date a previous communication is returned by the U.S. 28 
-Postal Service to  a holder as undeliverable to an apparent owner, if the holder:  29 
+    B. Immediately preceding a second communication; and  
  
-    1. Sent the previous communication to the apparent owner:  30 
+    2. Sent the second communication to the apparent owner:  
  
-8 HOUSE BILL 761   
+    A. By first –class mail; and  
  
-     A. By first –class mail; and  1 
+    B. More than 30 days after the previous communication 
+under this subparagraph was sent.  
  
-    B. Immediately preceding a second communication; and  2 
+  (2) (i) Subject to subparagraph (ii) of this paragraph, if the holder does 
+not send communications to an apparent owner by first –class mail, the holder shall attempt  
+Ch. 636  2025 LAWS OF MARYLAND   
  
-    2. Sent the second communication to the apparent owner:  3 
+– 8 – to confirm the apparent owner’s interest in the property by e –mailing the apparent owner 
+not later than 2 years after the apparent owner’s last indication of interest in the property.  
  
-    A. By first –class mail; and  4 
+   (ii) The holder shall promptly attempt to contact the apparent owne r 
+by first –class mail if:  
  
-    B. More than 30 days after the previous communication 5 
-under this subparagraph was sent.  6 
+    1. The holder does not have the information needed to send 
+an e–mail to the apparent owner;  
  
-  (2) (i) Subject to subparagraph (ii) of this paragraph, if the holder does 7 
-not send communications to an  apparent owner by first –class mail, the holder shall attempt 8 
-to confirm the apparent owner’s interest in the property by e –mailing the apparent owner 9 
-not later than 2 years after the apparent owner’s last indication of interest in the property.  10 
+    2. The holder believes the apparent owner’s e –mail address 
+in the holder’s records is not valid;  
  
-   (ii) The holder shall promptly attempt to contact the apparent owner 11 
-by first –class mail if:  12 
+    3. The holder receives not ification that the e –mail was not 
+received; or  
  
-    1. The holder does not have the information needed to send 13 
-an e–mail to the apparent owner;  14 
+    4. The apparent owner does not respond to the e –mail 
+communication within 30 days after the e –mail was sent.  
  
-    2. The holder believes the apparent owner’s e –mail address 15 
-in the h older’s records is not valid;  16 
+   (iii) 1. If a mailing sent in accordance with subparagraph (ii) of 
+this paragraph is return ed by the U.S. Postal Service to the holder as undeliverable to the 
+apparent owner, the mailing shall constitute a communication for purposes of paragraph 
+(1) of this subsection.  
  
-    3. The holder receives notification that the e –mail was not 17 
-received; or  18 
+    2. If a mailing sent in accordance with subparagraph (ii) of 
+this paragr aph is not returned by the U.S. Postal Service to the holder as undeliverable to 
+the apparent owner, the holder shall be presumed to have a valid address for the owner of 
+the property.  
  
-    4. The apparent owner does not respond to the e –mail 19 
-communication within 30 days after the e –mail was sent.  20 
+ (b) The following property held by a banking or financial organizatio n[,] or 
+business association is presumed abandoned:  
  
-   (iii) 1. If a mailing sent in accordance with subparagraph (ii) of 21 
-this paragraph is returned by the U.S. Postal Service to the holder as undeliverable to the 22 
-apparent owner, the mailing shall constitute a communication for purposes of paragraph 23 
-(1) of this subsection.  24 
+  (1) Any demand, savings, or matured time deposit account made with a 
+banking organization, together with any interest or dividend on it, excluding any charges 
+that lawfully may be withheld, 3 years aft er the later of:  
  
-    2. If a mai ling sent in accordance with subparagraph (ii) of 25 
-this paragraph is not returned by the U.S. Postal Service to the holder as undeliverable to 26 
-the apparent owner, the holder shall be presumed to have a valid address for the owner of 27 
-the property.  28 
+   (i) The date the holder is deemed to no longer have a valid address 
+for the owner of the property; or  
  
- (b) The following property held by a banking or financial organization [,] or 29 
-business association is presumed abandoned:  30 
+   (ii) The date the owner last:  
  
-  (1) Any demand, savings, or matured time deposit account made with a 31 
-banking organization, together with any interest or dividend on it, exc luding any charges 32 
-that lawfully may be withheld, 3 years after the later of:  33 
- HOUSE BILL 761  9 
+    1. Increased or decreased the amount of the deposit;  
  
-  
-   (i) The date the holder is deemed to no longer have a valid address 1 
-for the owner of the property; or  2 
+    2. Presented evidence of the deposit  for the crediting of 
+interest;  
  
-   (ii) The date the owner last:  3 
+ WES MOORE, Governor  Ch. 636  
  
-    1. Increased or decreased the amount of the deposit;  4 
+– 9 –     3. Corresponded in writing with the banking organization 
+concerning the deposit;  
  
-    2. Presented evidence of the deposit for the crediting of 5 
-interest;  6 
+    4. ACCESSED THE ACCOUNT OR INFORMATION 
+CONCERNING THE ACCOU NT; 
  
-    3. Corresponded in writing with the banking organization 7 
-concerning the deposit;  8 
+    [4.] 5. Engaged in any credit, trust, or other deposit transactio n 
+with the banking organization; or  
  
-    4. ACCESSED THE ACCOUNT OR INFORMATION 9 
-CONCERNING THE ACCOU NT; 10 
+    [5.] 6. Otherwise indicated an interest in the deposit as 
+evidenced by a memorandum on file with the banking organization;  
  
-    [4.] 5. Engaged in any credit, trust, or other deposit transaction 11 
-with the banking organization; or  12 
+  (2) Any funds paid toward the purchase of shares or other interest in a 
+financial organiz ation, or any deposit made with these funds, and any interest or dividends 
+on these, excluding any charges that lawfully may be withheld, 3 years after the later of:  
  
-    [5.] 6. Otherwise indicated an interest in the deposit as 13 
-evidenced by a memorandum on file with the banking organization;  14 
+   (i) The date the holder is deemed to no longer have a valid address 
+for the owner of t he property; or  
  
-  (2) Any funds paid toward  the purchase of shares or other interest in a 15 
-financial organization, or any deposit made with these funds, and any interest or dividends 16 
-on these, excluding any charges that lawfully may be withheld, 3 years after the later of:  17 
+   (ii) The date the owner last:  
  
-   (i) The date the holde r is deemed to no longer have a valid address 18 
-for the owner of the property; or  19 
+    1. Increased or decreased the amount of the funds or deposit, 
+or presented an appropriate record for the crediting of interest or dividends;  
  
-   (ii) The date the owner last:  20 
+    2. Corresponded in writing with the financial organizat ion 
+concerning the funds or deposit;  
  
-    1. Increased or decreased the amount of the funds or deposit, 21 
-or presented an appropriate record for the crediting of interest or dividen ds; 22 
+    3. ACCESSED THE ACCOUNT OR INFORMATION 
+CONCERNING THE ACCOU NT; 
  
-    2. Corresponded in writing with the financial organization 23 
-concerning the funds or deposit;  24 
+    [3.] 4. Engaged in any credit, share, or other deposit transaction 
+with the financial organization; or  
  
-    3. ACCESSED THE ACCOUNT OR INFORMATION 25 
-CONCERNING THE ACCOU NT; 26 
+    [4.] 5. Otherwise indicated an interest in the funds or deposit as 
+evidenced by a memorandum on file with the financial organization;  
  
-    [3.] 4. Engaged in any credit, share, or other deposit transaction 27 
-with the financ ial organization; or  28 
+  (3) Any sum payable on a check certified in this State or on a written 
+instrument issued in this State on which a banking or financial organization or  business 
+association is directly liable, including any certificate of deposit, draft, traveler’s check, and 
+money order, that has been outstanding for more than 3 years from the date it was payable 
+(or 15 years in the case of a traveler’s check) or, if pa yable on demand, from the date of its 
+issuance, unless, within 3 years or 15 years in the case of a traveler’s check, the owner has:  
  
-    [4.] 5. Otherwise indicated an interest in the funds or deposit as 29 
-evidenced by a memorandum on file with the financial organization;  30 
-10 HOUSE BILL 761   
+   (i) Corresponded in writing with the banking or financial 
+organization or business association concerning it; [or] 
  
-  
-  (3) Any sum payable on a check certified in this State or on a written 1 
-instrument issued in t his State on which a banking or financial organization or business 2 
-association is directly liable, including any certificate of deposit, draft, traveler’s check, and 3 
-money order, that has been outstanding for more than 3 years from the date it was payable 4 
-(or 15 years in the case of a traveler’s check) or, if payable on demand, from the date of its 5 
-issuance, unless, within 3 years or 15 years in the case of a traveler’s check, the owner has:  6 
+Ch. 636  2025 LAWS OF MARYLAND   
  
-   (i) Corresponded in writing with the banking or financial 7 
-organization or business association concerning it; [or] 8 
+– 10 –    (II) ACCESSED THE ACCOUNT OR INFORMATION CONCE RNING 
+THE ACCOUNT ; OR 
  
-   (II) ACCESSED THE ACCOUNT OR INFORMATION CONCE RNING 9 
-THE ACCOUNT ; OR 10 
+   [(ii)] (III) Otherwise indicated an interest as evidenced by a 
+memorandum on file with the banking or financial organization or business association; 
+and 
  
-   [(ii)] (III) Otherwise indicated an interest as evidenced by a 11 
-memorandum on file with the banking or financial organization or  business association; 12 
-and 13 
+  (4) Any property removed from a safekeeping repository on which the lease 
+or rental period has expired or any surplus amounts arising from the sale of the property 
+pursuant to law, that have been unclaimed by the owner for more than 3 years from the 
+date on which the lease or rent al period expired.  
  
-  (4) Any property removed from a safekeeping repository on which the lease 14 
-or rental period has expired or any surplus amounts arising from the sale of the property 15 
-pursuant to law, that have been unclaimed by the owner for mor e than 3 years from the 16 
-date on which the lease or rental period expired.  17 
+ (c) Nothing in this section shall be construed to apply to any demand, savings, or 
+matured time deposits that are designated subject to the order of any court of this State.  
  
- (c) Nothing in this section shall be construed to apply to any demand, savings, or 18 
-matured time deposits that are designated subject to the order of any court of this State.  19 
+ (d) Property is subject to the custody of this State as unc laimed property if the 
+conditions raising a presumption of abandonment under this section are met and:  
  
- (d) Property is subject to the custody of this State as unclaimed property if the 20 
-conditions raising a presumption of abandonment under this section are met and:  21 
+  (1) The last known address, as shown on the records of the holder, of the 
+apparent owner is in this State;  
  
-  (1) The last known address, as shown on the records of the holder, of the 22 
-apparent owner is in this State;  23 
+  (2) The records of the holder do not ref lect the identity of the person 
+entitled to the property and it is established that the last known address of the person 
+entitled to the property is in this State;  
  
-  (2) The records of the holder do not reflect the identity of the person 24 
-entitled to the property and it is established that the last known address of the person 25 
-entitled to the property is in this State;  26 
+  (3) The records of the holder do not reflect the last known address of the 
+apparent owner , and it is established that:  
  
-  (3) The records of the holder do n ot reflect the last known address of the 27 
-apparent owner, and it is established that:  28 
+   (i) The last known address of the person entitled to the property is 
+in this State; or  
  
-   (i) The last known address of the person entitled to the property is 29 
-in this State; or  30 
+   (ii) The holder is a domiciliary or a government or governmental 
+subdivision or agency of this State and has not previously paid or  delivered the property to 
+the State of the last known address of the apparent owner or other person entitled to the 
+property;  
  
-   (ii) The holder is a domiciliary or a government or governmental 31 
-subdivision  or agency of this State and has not previously paid or delivered the property to 32 
-the State of the last known address of the apparent owner or other person entitled to the 33 
-property;  34 
+  (4) The last known address, as shown on the records of the holder, of the 
+apparent owner is in a state that does not provide b y law for the escheat or custodial taking 
+of the property or its escheat or unclaimed property law is not applicable to the property 
+and the holder is a domiciliary or a government or governmental subdivision or agency of 
+this State;  
  
- HOUSE BILL 761  11 
+  (5) The last known address, as shown on the records of the holder, of the 
+apparent owner is in a foreign nation and the holder is a domiciliary or a government or 
+governmental subdivision or agency of this State; or  
  
-   (4) The last known address, as shown on the records of the holder, of t he 1 
-apparent owner is in a state that does not provide by law for the escheat or custodial taking 2 
-of the property or its escheat or unclaimed property law is not applicable to the property 3 
-and the holder is a domiciliary or a government or governmental subd ivision or agency of 4 
-this State;  5 
+ WES MOORE, Governor  Ch. 636  
  
-  (5) The last known address, as shown on the records of the holder, of the 6 
-apparent owner is in a foreign nation and the holder is a domiciliary or a government or 7 
-governmental subdivision or agency of this State; or  8 
+– 11 –   (6) The transaction out of which the property arose occu rred in this State 
+and: 
  
-  (6) The transaction out of which the property arose occurred in this State 9 
-and: 10 
+   (i) The last known address of the apparent owner or other person 
+entitled to the property is unknown or the last known address of the apparent owner or 
+other person entitled to the property is in a state that does not provide by  law for the escheat 
+or custodial taking of the property or its escheat or unclaimed property law is not applicable 
+to the property; and  
  
-   (i) The last known address of the apparent owner or other person 11 
-entitled to the property is unknown or the last known address of the apparent owner or 12 
-other person entitled  to the property is in a state that does not provide by law for the escheat 13 
-or custodial taking of the property or its escheat or unclaimed property law is not applicable 14 
-to the property; and  15 
+   (ii) The holder is a domiciliary of a state that does not provide by law 
+for the escheat or custodial taking of the  property or its escheat or unclaimed property law 
+is not applicable to the property.  
  
-   (ii) The holder is a domiciliary of a state that does not pr ovide by law 16 
-for the escheat or custodial taking of the property or its escheat or unclaimed property law 17 
-is not applicable to the property.  18 
+ (e) The running of the 3 –year period of abandonment ceases immediately on:  
  
- (e) The running of the 3 –year period of abandonment ceases immediately on:  19 
+  (1) The holder obtaining a valid address for the owner of the property; or  
  
-  (1) The holder obtaining a valid ad dress for the owner of the property; or  20 
+  (2) The occu rrence of an action referred to in subsection (b)(1)(ii) or (2)(ii) 
+of this section.  
  
-  (2) The occurrence of an action referred to in subsection (b)(1)(ii) or (2)(ii) 21 
-of this section.  22 
+17–302. 
  
-17–302. 23 
+ (a) Funds held or owing under any life or endowment insurance policy or annuity 
+contract that has matured or terminated are presumed abandoned if unclaimed for more 
+than 3 years after the funds FIRST become due and payable [as established from the 
+records of the insurance company holding or owing the funds ] IN ACCORDANCE WITH : 
  
- (a) Funds held or owing under any life or endowment insurance policy or annuity 24 
-contract that has matured or terminated are presumed abandoned if unclaimed for more 25 
-than 3 years after the funds FIRST become due and payable [as established from the 26 
-records of t he insurance company holding or owing the funds ] IN ACCORDANCE WITH : 27 
+  (1) THE INSURANCE POLICY OR ANNUITY CONTRACT ; OR 
  
-  (1) THE INSURANCE POLICY OR ANNUITY CONTRACT ; OR 28 
+  (2) SECTION 16–118 OF THE INSURA NCE ARTICLE . 
  
-  (2) SECTION 16–118 OF THE INSURANCE ARTICLE . 29 
+ (b) [If a person other than the insured or annuitant is entitled to the funds and 
+an address of the person is not known to the company or it is not definite and certain from 
+the records of the company who is entitled to the funds, it is pres umed that the last known 
+address of the person entitled to the funds is the same as the last known address of the 
+insured or annuitant according to the records of the company.  
  
- (b) [If a person other than the insured or annuitant is entitled to the funds and 30 
-an address of the person is not known to the company or it is not definite and certain from 31 
-the records of the company who is entitled to the funds, it is presumed that the last known 32 
-address of the person entitled to the funds is the same as the last known a ddress of the 33 
-insured or annuitant according to the records of the company.  34 
+ (c)] For purposes of this subtitle, a life or endowment insurance policy or an nuity 
+contract not matured by actual proof of the death of the insured or annuitant according to 
+the records of the INSURANCE company is matured and the proceeds due and payable if:  
  
-12 HOUSE BILL 761   
+  (1) The company knows that the insured or annuitant has died; or  
  
-  (c)] For purposes of this subtitle, a life or endowment insurance policy or annuity 1 
-contract not matured by actual proof of the death of the insured or annuitant according to 2 
-the records of the INSURANCE company is matured and the proceeds due and payable if:  3 
+  (2) (i) The insured has attained, or would have attained if [he] THE 
+INSURED  were living, the limiting age under the mortality table on which the reserve is 
+based;  
+Ch. 636  2025 LAWS OF MARYLAND   
  
-  (1) The company knows that the insured or annuitant has died; or  4 
+– 12 –  
+   (ii) The policy was in force at the time the insured attained, or would 
+have attained, the limiting age specified in item (i) of this paragraph; and  
  
-  (2) (i) The insured has attained, or would have attained if [he] THE 5 
-INSURED  were living, the limiting age under the mortality table on which the reserve is 6 
-based;  7 
+   (iii) Neither the insured nor any other person appearing to have an 
+interest in the policy within the preceding 3 years, according to the records of the company, 
+has assigned, readjusted, or pai d premiums on the policy, subjected the policy to a loan, 
+corresponded in writing with the company concerning the policy, or otherwise indicated an 
+interest as evidenced by a memorandum or other record on file prepared by an employee of 
+the company.  
  
-   (ii) The policy was in force at the time the insured attained, or would 8 
-have attained, the limiting age specified in item (i) of this paragraph; and  9 
+ [(d)] (C) (1) (I) “Unclaimed funds”, as defined in paragraph (2) of this 
+subsection, held by a fire, casualty, or surety insurance corporation, shall be presumed 
+abandoned if the last known address of the person entitled to the funds, according to the 
+records of the corporation, is in this State.  
  
-   (iii) Neith er the insured nor any other person appearing to have an 10 
-interest in the policy within the preceding 3 years, according to the records of the company, 11 
-has assigned, readjusted, or paid premiums on the policy, subjected the policy to a loan, 12 
-corresponded in  writing with the company concerning the policy, or otherwise indicated an 13 
-interest as evidenced by a memorandum or other record on file prepared by an employee of 14 
-the company.  15 
+   (II) If a person other than the insured, the principal, or the claimant 
+is entitled to the funds and the address of the person is not known to the corporation or if 
+it is not definite and certain from the records of the corporation which person is entitled to 
+the funds, it is presumed that the last known address of the person entitled to the funds is 
+the same as the last known address of the insured, the principal, or the claimant according 
+to the records of the co rporation.  
  
- [(d)] (C) (1) (I) “Unclaimed funds”, as defined in paragraph (2) of this 16 
-subs ection, held by a fire, casualty, or surety insurance corporation, shall be presumed 17 
-abandoned if the last known address of the person entitled to the funds, according to the 18 
-records of the corporation, is in this State.  19 
+  (2) “Unclaimed funds”, as used in this subsection, means all money held by 
+any fire, casualty, or surety insurance corporation unclaimed and unpaid for more than 3 
+years after the money becomes due and payable, as established from the records  of the 
+corporation, either to an insured, a principal, or a claimant under any fire, casualty, or 
+surety insurance policy or contract.  
  
-   (II) If a person other than th e insured, the principal, or the claimant 20 
-is entitled to the funds and the address of the person is not known to the corporation or if 21 
-it is not definite and certain from the records of the corporation which person is entitled to 22 
-the funds, it is presumed that the last known address of the person entitled to the funds is 23 
-the same as the last known address of the insured, the principal, or the claimant according 24 
-to the records of the corporation.  25 
+ [(e)] (D) Money otherwise payable according to the records of the corporation is 
+considered due and payable although t he policy or contract has not been surrendered as 
+required.  
  
-  (2) “Unclaimed funds”, as used in this subsection, means all money held by 26 
-any fire, casualty, or surety insurance corporation unclaimed and unpaid for more than 3 27 
-years after the money becomes due and payable, as established from the records of the 28 
-corporation, either to an insured, a principal, or a claimant u nder any fire, casualty, or 29 
-surety insurance policy or contract.  30 
+17–302.1.  
  
- [(e)] (D) Money otherwise payable according to the records of the corporation is 31 
-considered due and payable although the policy or contract has not been surrendered as 32 
-required.  33 
+ (A) IN THIS SECTION , “DEATH MASTER FILE ” MEANS : 
  
-17–302.1.  34 
+  (1) THE SOCIAL SECURITY ADMINISTRATION DEATH MASTER FILE; 
+OR  
  
- (A) IN THIS SECTION , “DEATH MASTER FILE ” MEANS : 35 
+  (2) ANY OTHER DATABASE OR  SERVICE THAT IS AT L EAST AS 
+COMPREHENSIVE  AS THE SOCIAL SECURITY ADMINISTRATION DEATH MASTER 
+FILE FOR DETERMINING THAT AN INDIVIDUAL R EPORTEDLY HAS DIED . 
  
- HOUSE BILL 761  13 
+ (B) FOR PURPOSES OF THIS SECTION : 
+ WES MOORE, Governor  Ch. 636  
  
-   (1) THE SOCIAL SECURITY ADMINISTRATION DEATH MASTER FILE; 1 
-OR  2 
+– 13 –  
+  (1) A DEATH MASTER FILE MA TCH DESCRIBED UNDER SUBSECTION 
+(C)(3) AND (4) OF THIS SECTION OCCU RS IF THE CR ITERIA FOR AN EXACT OR 
+PARTIAL MATCH ARE SA TISFIED AS PROVIDED BY: 
  
-  (2) ANY OTHER DATABASE OR  SERVICE THAT IS AT L EAST AS 3 
-COMPREHENSIVE AS THE  SOCIAL SECURITY ADMINISTRATION DEATH MASTER 4 
-FILE FOR DETERMININ G THAT AN INDIVIDUAL  REPORTEDLY HAS DIED . 5 
+   (I) THE INSURANCE ARTICLE ; OR 
  
- (B) FOR PURPOSES OF THIS SECTION : 6 
+   (II) A RULE OR POLICY ADOPT ED BY THE MARYLAND 
+INSURANCE COMMISSIONER . 
  
-  (1) A DEATH MASTER FILE MA TCH DESCRIBED UNDER SUBSECTION 7 
-(C)(3) AND (4) OF THIS SECTION OCCU RS IF THE CRITERIA F OR AN EXACT OR 8 
-PARTIAL MATCH ARE SA TISFIED AS PROVIDED BY: 9 
+  (2) A DEATH MASTER FILE MA TCH OR VALIDATION OF  THE INSURED ’S 
+OR ANNUITANT ’S DEATH DOES NOT ALTER  THE REQUIREMENTS FOR  A BENEFICIARY , 
+ANNUITANT , OR OWNER OF THE POLI CY OR CONTRACT TO MA KE A CLAIM TO 
+RECEIVE PROCEEDS UND ER THE TERMS OF THE POLICY OR CONTRACT . 
  
-   (I) THE INSURANCE ARTICLE ; OR 10 
+  (3) AN INSURED OR AN ANNU ITANT IS PRESUMED DE AD IF THE DATE 
+OF THE INSURED ’S OR ANNUITANT ’S DEATH IS INDICATED  BY A DEATH MASTER FI LE 
+MATCH DESCRIBED UNDE R SUBSECTION (C)(3) AND (4) OF THIS SECTION , UNLESS 
+THE INSURANCE COMPAN Y HAS COMPETENT AND SUBSTANTIAL EVIDENCE  THAT 
+THE INSURED OR ANNUI TANT IS LIVING , INCLUDING A CON TACT MADE BY THE 
+COMPANY WITH THE INS URED OR ANNUITANT OR  THE INSURED ’S OR ANNUITANT ’S 
+LEGAL REPRESENTATIVE . 
  
-   (II) A RULE OR POLICY ADOPT ED BY THE MARYLAND 11 
-INSURANCE COMMISSIONER . 12 
+ (C) WITH RESPECT TO A LIF E OR ENDOWMENT INSUR ANCE POLICY OR 
+ANNUITY CONTRACT FOR  WHICH AN AMOUNT IS O WED ON PROOF OF DEAT H, BUT 
+THAT HAS NOT MATU RED BY PROOF OF DEAT H OF THE INSURED OR ANNUITANT , THE 
+INSURANCE COMPANY SH ALL BE DEEMED TO HAV E KNOWLEDGE OF THE D EATH OF 
+AN INSURED OR ANNUIT ANT WHEN : 
  
-  (2) A DEATH MASTER FILE MA TCH OR VALIDATION OF  THE INSURED ’S 13 
-OR ANNUITANT ’S DEATH DOES NOT ALT ER THE REQUIREMENTS FOR A BENEFICIARY , 14 
-ANNUITANT , OR OW NER OF THE POLICY OR  CONTRACT TO MAKE A C LAIM TO 15 
-RECEIVE PROCEEDS UND ER THE TERMS OF THE POLICY OR CONTRACT . 16 
+  (1) THE COMPANY RECEIVES A DEATH CERTIFICATE OR COURT 
+ORDER DETERMINING TH AT THE INSURED OR AN NUITAN T HAS DIED ; 
  
-  (3) AN INSURED OR AN ANNU ITANT IS PRESUMED DE AD IF THE DATE 17 
-OF THE INSURED ’S OR ANNUITANT ’S DEATH IS INDICATED  BY A DEATH MASTER FI LE 18 
-MATCH DESCRIBED UNDER SUBS ECTION (C)(3) AND (4) OF THIS SECTION , UNLESS 19 
-THE INSURANCE COMPAN Y HAS COMPETENT AND SUBSTANTIAL EVIDENCE  THAT 20 
-THE INSURED OR ANNUI TANT IS LIVING , INCLUDING A CONTACT MADE BY THE 21 
-COMPANY WITH THE INS URED OR ANNUITANT OR  THE INSURED ’S OR ANNUITANT ’S 22 
-LEGAL REPRESENTATIVE . 23 
+  (2) THE COMPANY RECEIVES NOTICE OF THE DEATH OF THE INSURED 
+OR ANNUITANT FROM : 
  
- (C) WITH RESPECT TO A LIF E OR ENDOWMENT INSUR ANCE POLICY OR 24 
-ANNUITY CONTRACT FOR  WHICH AN AMOUNT IS O WED ON PROOF OF DEAT H, BUT 25 
-THAT HAS NOT MATURED  BY PROOF OF DEATH OF  THE INSURED OR ANNUI TANT , THE 26 
-INSURANCE COMPANY SHALL BE DEEMED TO H AVE KNOWLEDGE OF THE  DEATH OF 27 
-AN INSURED OR ANNUIT ANT WHEN : 28 
+   (I) THE ADMINISTRATOR OR AN U NCLAIMED PROPERTY 
+ADMINISTRATOR OF ANO THER STATE ; 
  
-  (1) THE COMPANY RECEIVES A DEATH CERTIFICATE OR COURT 29 
-ORDER DETERMINING TH AT THE INSURED OR AN NUITANT HAS DIED ; 30 
+   (II) A BENEFICIARY ; 
  
-  (2) THE COMPANY RECEIVES NOTICE OF THE DEATH OF THE INSURED 31 
-OR ANNUITANT FROM : 32 
+   (III) A POLICY OWNER ; 
  
-14 HOUSE BILL 761   
+   (IV) A RELATIVE OF THE IN SURED OR ANNUITANT ; 
  
-    (I) THE ADMINISTRATOR OR AN U NCLAIMED PROPERTY 1 
-ADMINISTRATOR OF ANO THER STATE ; 2 
+Ch. 636  2025 LAWS OF MARYLAND   
  
-   (II) A BENEFICIARY ; 3 
+– 14 –    (V) A REPRESENTATIVE OF TH E INSURED OR ANNUITA NT, 
+INCLUDING AN ADMINIS TRATOR , A GUARDIAN , A STANDBY GUARDIAN , OR A 
+TEMPORARY GUARDIAN ; OR 
  
-   (III) A POLICY OWNER ; 4 
+   (VI) AN EXECUTOR OR OTHER LEGAL REPRESENTATIVE  OF THE 
+INSURED ’S OR ANNUITANT ’S ESTATE ; 
  
-   (IV) A RELATIVE OF THE INSU RED OR ANNUITANT ; 5 
+  (3) (I) THE COMPANY CONDUCTS A COMPARISON FOR ANY  
+PURPOSE BETWEEN A DE ATH MASTER FILE AND THE NAMES OF SOME OR  ALL OF THE 
+COMPANY ’S INSUREDS OR ANNUIT ANTS ; AND  
  
-   (V) A REPRESENTATIVE OF TH E INSURED OR ANNU ITANT , 6 
-INCLUDING AN ADMINIS TRATOR , A GUARDIAN , A STANDBY GUARDIAN , OR A 7 
-TEMPORARY GUARDIAN ; OR 8 
+   (II) FINDS A MATCH THAT PR OVIDES NOTICE THAT T HE 
+INSURED OR ANNUITANT  HAS DIED ; OR 
  
-   (VI) AN EXECUTOR OR OTHER LEGAL REPRESENTATIVE  OF THE 9 
-INSURED ’S OR ANNUITANT ’S ESTATE ; 10 
+  (4) (I) THE ADMINISTRATOR OR THE ADMINISTRATOR ’S AGENT IN 
+THE NORMAL COURSE OF  BUSINESS CONDUCTS A COMPARISON FOR THE P URPOSE 
+OF FINDING MATCHES B ETWEEN A DEATH MASTE R FILE AND THE NAMES  OF SOME 
+OR ALL OF THE COMPAN Y’S INSUREDS OR ANNUIT ANTS ; AND  
  
-  (3) (I) THE COMPANY CONDUCTS A COMPARISON FOR ANY  11 
-PURPOSE BETWEEN A  DEATH MASTER FILE AN D THE NAMES OF SOME OR ALL OF THE 12 
-COMPANY ’S INSUREDS OR ANNUIT ANTS ; AND  13 
+   (II) FINDS A MATCH THAT PROVI DES NOTICE THAT THE 
+INSURED OR ANNUITANT  HAS DIED . 
  
-   (II) FINDS A MATCH THAT PR OVIDES NOTICE THAT T HE 14 
-INSURED OR ANNUITANT  HAS DIED ; OR 15 
+ (D) A HOLDER OF FUNDS UNDE R § 17–302 OF THIS SUBTITLE SHA LL, ON AT 
+LEAST AN ANNUAL BASI S: 
  
-  (4) (I) THE ADMINISTRATOR OR THE ADMINISTRATOR ’S AGENT IN 16 
-THE NORMAL COU RSE OF BUSINESS COND UCTS A COMPARISON FO R THE PURPOSE 17 
-OF FINDING MATCHES B ETWEEN A DEATH MASTE R FILE AND THE NAMES  OF SOME 18 
-OR ALL OF THE COMPAN Y’S INSUREDS OR ANNUIT ANTS ; AND  19 
+  (1) CONDUCT A DEATH MASTE R FILE EXAMINATION A ND 
+COMPARISON DESCRIBED  UNDER SUBSECTION (C)(3) OF THIS SECTION ON A LL 
+INSUREDS AND ANNUITA NTS; AND  
  
-   (II) FINDS A MATCH THAT PR OVIDES NOTICE THAT T HE 20 
-INSURED OR ANNUITANT  HAS DI ED. 21 
+  (2) MAKE A RECORD OF THE DATE ON WHICH ANY EX AMINATION AND 
+COMPARISON UNDER ITE M (1) OF THIS SUBSECTION O CCURS . 
  
- (D) A HOLDER OF FUNDS UNDE R § 17–302 OF THIS SUBTITLE SHA LL, ON AT 22 
-LEAST AN ANNUAL BASI S: 23 
+17–304. 
  
-  (1) CONDUCT A DEATH MASTE R FILE EXAMINATION A ND 24 
-COMPARISON DESCRIBED  UNDER SUBSECTION (C)(3) OF THIS SECTION ON A LL 25 
-INSUREDS AND ANNUITA NTS; AND  26 
+ (a) (2) (i) Subject to subparagraph (ii) of this paragraph, if the holder does 
+not send communications to an apparent owner by first –class mail, the holder shall attempt 
+to confirm the apparent owner’s interest in the property by e –mailing the apparent owner 
+not later  than 2 years after the apparent owner’s last indication of APPARENT OWNER  
+interest in the property.  
  
-  (2) MAKE  A RECORD OF THE DATE  ON WHICH ANY EXAMINA TION AND 27 
-COMPARISON UNDER ITE M (1) OF THIS SUBSECTION O CCURS . 28 
+17–306.1.  
  
-17–304. 29 
+ WES MOORE, Governor  Ch. 636  
  
- (a) (2) (i) Subject to subparagraph (ii) of this paragraph, if the holder does 30 
-not send communications to an apparent owner by first –class ma il, the holder shall attempt 31 
- HOUSE BILL 761  15 
+– 15 –  (A) IN THIS SECTION , “RETURNED AS UNDELIVE RABLE” MEANS RETURNED 
+BY THE U.S.  POSTAL SERVICE TO THE HOLDER  AS UNDELIVERABLE TO THE 
+APPARENT OWNE R. 
  
- to confirm the apparent owner’s interest in the property by e –mailing the apparent owner 1 
-not later than 2 years after the apparent owner’s last indication of APPARENT OWNER  2 
-interest in the property.  3 
+ (B) PROPERTY HELD IN A PE NSION ACCOUNT OR RET IREMENT ACCOUNT 
+THAT QUALIFIES FOR T AX DEFERRAL UNDER TH E INCOME TAX PROVISI ONS OF THE 
+INTERNAL REVENUE CODE IS PRESUMED ABAN DONED IF IT IS UNCLA IMED BY AN 
+APPARENT OWNER OF TH E ACCOUNT AFTER THE LATER OF : 
  
-17–306.1.  4 
+  (1) SUBJECT TO SUBSECTION S (D) THROUGH (F) OF THIS SECTION , 3 
+YEARS AFTER : 
  
- (A) IN THIS SEC TION , “RETURNED AS UNDELIVE RABLE” MEANS RETURNED 5 
-BY THE U.S.  POSTAL SERVICE TO THE HOLDER  AS UNDELIVERABLE TO THE 6 
-APPARENT OWNER . 7 
+   (I) THE DATE A FIRST COMM UNICATION SENT BY TH E HOLDER 
+BY FIRST –CLASS MAIL TO THE AP PARENT OWNER IS RETU RNED AS UNDELIVERABL E; 
+OR 
  
- (B) PROPERTY HELD IN A PE NSION ACCOUNT OR RET IREMENT ACCOUNT 8 
-THAT QUALIFIES FOR T AX DEFERRAL UNDER TH E INCOME TAX PROVISI ONS  OF THE 9 
-INTERNAL REVENUE CODE IS PRESUMED ABAN DONED IF IT IS UNCLA IMED BY AN 10 
-APPARENT OWNER OF TH E ACCOUNT AFTER THE LATER OF : 11 
+   (II) THE DATE A SECOND COM MUNICATION SENT  BY THE 
+HOLDER BY FIRST –CLASS MAIL TO THE AP PARENT OWNER IS RETU RNED AS 
+UNDELIVERABLE , IF THE SECOND COMMUN ICATION IS SENT WITH IN 30 DAYS AFTER 
+THE DATE OF THE FIRS T COMMUNICATION UNDE R ITEM (I) OF THIS ITEM IS 
+RETURNED AS UNDELIVE RABLE ; OR 
  
-  (1) SUBJECT TO SUBSECTION S (D) THROUGH (F) OF THIS SECTION , 3 12 
-YEARS AFTER : 13 
+  (2) IF APPLI CABLE , THE EARLIER OF THE F OLLOWING DATES : 
  
-   (I) THE DATE A FIRST COMM UNICATION SENT BY TH E HOLDER 14 
-BY FIRST –CLASS MAIL TO THE AP PARENT OWNER IS RETU RNED AS UNDELIVERABL E; 15 
-OR 16 
+   (I) 3 YEARS AFTER THE DATE  THE APPARENT OWNER B ECOMES 
+72 YEARS OLD , IF DETERMINABLE BY T HE HOLDER ; OR 
  
-   (II) THE DATE A SECOND COM MUNICATION SENT BY T HE 17 
-HOLDER BY FIRST –CLASS MAIL TO THE AP PARENT OWNER IS RETU RNED AS 18 
-UNDELIVERABLE , IF THE SECOND COMMUN ICATION IS SENT WITH IN 30 DAYS AFTER 19 
-THE DATE OF THE FIRS T COMMUNICATION UNDE R ITEM (I) OF THIS ITEM IS 20 
-RETURNED AS UNDELIVE RABLE ; OR 21 
+   (II) SUBJECT TO SUBSECTION  (C) OF THIS SECTION , IF THE 
+INTERNAL REVENUE CODE REQUIRES DISTRIB UTION TO A VOID A TAX PENALTY , 2 
+YEARS AFTER THE DATE  THE HOLDER : 
  
-  (2) IF APPLICABLE , THE EARLIER OF THE F OLLOWING DATES : 22 
+    1. RECEIVES CONFIRMATION  OF THE DEATH OF THE 
+APPARENT OWNER IN TH E ORDINARY COURSE OF  ITS BUSINESS ; OR 
  
-   (I) 3 YEARS AFTER THE DATE  THE APPARENT OWNER B ECOMES 23 
-72 YEARS OLD , IF DETERMINABL E BY THE HOLDER ; OR 24 
+    2. CONFIRMS THE DEATH OF  THE APPARENT OWNER . 
  
-   (II) SUBJECT TO SUBSECTION  (C) OF THIS SECTION , IF THE 25 
-INTERNAL REVENUE CODE REQUIRES DISTRIB UTION TO AVOID A TAX  PENALTY , 2 26 
-YEARS AFTER THE DATE  THE HOLDER : 27 
+ (C) FOR PURPOSES OF ESTAB LISHING A PRESUM PTION OF ABANDONED 
+PROPERTY UNDER THIS SECTION , IF A HOLDER IN THE O RDINARY COURSE OF IT S 
+BUSINESS RECEIVES NO TICE OR AN INDICATIO N OF THE DEATH OF AN  APPARENT 
+OWNER AND SUBSECTION  (B)(2)( II) OF THIS SECTION APPL IES, THE HOLDER SHALL 
+ATTEMPT NOT LATER TH AN 90 DAYS AFTER RECEIPT O F THE NOTICE OR INDI CATION 
+TO CONFIRM WHETHER T HE APPARENT OWNER IS  DECEASED . 
  
-    1. RECEIVES CONFIRMATION  OF THE DEATH OF THE 28 
-APPARENT OWNER IN TH E OR DINARY COURSE OF ITS  BUSINESS ; OR 29 
+Ch. 636  2025 LAWS OF MARYLAND   
  
-    2. CONFIRMS THE DEATH OF  THE APPARENT OWNER . 30 
+– 16 –  (D) SUBJECT TO SUBSECTION  (E) OF THIS SECTION , IF THE HOLDER DOES 
+NOT SEND COMMUNICATI ONS TO THE APPARENT OWNER OF AN ACCOUNT BY  
+FIRST–CLASS MAIL AS DE SCRIBED IN SUBSECTIO N (B) OF THIS SECTION , THE 
+HOLDER SHALL ATTEMPT  TO CONFIRM THE APPAR ENT OWNER ’S INTEREST IN THE 
+PROPERTY BY SENDING THE APPARENT OWNER A N E–MAIL NOT LATER THAN 2 
+YEARS AFTER THE LAST  INDICATION OF APPARE NT OWNER INTEREST IN  THE 
+PROPERTY . 
  
- (C) FOR PURPOSES OF ESTAB LISHING A PRESUMPTIO N OF ABANDONED 31 
-PROPERTY UNDER THIS SECTION , IF A HOLDER IN THE O RDINARY COURSE OF IT S 32 
-16 HOUSE BILL 761   
+ (E) THE HOLDER SHALL PROM PTLY ATTEMPT TO CONT ACT THE APPARENT 
+OWNER BY REGISTERED MAIL IF : 
  
- BUSINESS RECEIVES NO TICE OR AN INDICATION OF THE DE ATH OF AN APPARENT 1 
-OWNER AND SUBSECTION  (B)(2)( II) OF THIS SECTION APPL IES, THE HOLDER SHALL 2 
-ATTEMPT NOT LATER TH AN 90 DAYS AFTER RECEIPT O F THE NOTICE OR INDI CATION 3 
-TO CONFIRM WHETHER T HE APPARENT OWNER IS  DECEASED . 4 
+  (1) THE HOLDER DOES NOT H AVE INFORMATION NEED ED TO SEND 
+THE APPARENT OWNER A N E–MAIL OR THE HOLDER B ELIEVES THAT THE APP ARENT 
+OWNER’S E–MAIL ADDRESS IN THE HOLDER’S RECORDS IS NOT VAL ID; 
  
- (D) SUBJECT TO SU BSECTION (E) OF THIS SECTION , IF THE HOLDER DOES 5 
-NOT SEND COMMUNICATI ONS TO THE APPARENT OWNER OF AN ACCOUNT BY  6 
-FIRST–CLASS MAIL AS DESCRI BED IN SUBSECTION (B) OF THIS SECTION , THE 7 
-HOLDER SHALL ATTEMPT  TO CONFIRM THE APPAR ENT OWNER ’S INTEREST IN THE 8 
-PROPE RTY BY SENDING THE A PPARENT OWNER AN E –MAIL NOT LATER THAN 2 9 
-YEARS AFTER THE LAST  INDICATION OF APPARE NT OWNER INTEREST IN  THE 10 
-PROPERTY . 11 
+  (2) THE HOLDER RECEIVES N OTIFICATION THAT THE  E–MAIL WAS 
+NOT RECEIVED ; OR 
  
- (E) THE HOLDER SHALL PROM PTLY ATTEMPT TO CONT ACT THE APPARENT 12 
-OWNER BY REGISTERED MAIL IF : 13 
+  (3) THE APPARENT OWNER DO ES NOT RESPOND TO TH E E–MAIL 
+WITHIN 30 DAYS AFTER THE HOLDE R SENDS THE E –MAIL . 
  
-  (1) THE HOLDER DOES NOT  HAVE INFORMATION NEE DED TO SEND 14 
-THE APPARENT OWNER A N E–MAIL OR THE HOLDER B ELIEVES THAT THE APP ARENT 15 
-OWNER’S E–MAIL ADDRESS IN THE HOLDER ’S RECORDS IS NOT VAL ID; 16 
+ (F) (1) IF THE REGISTERED MAI L SENT BY THE HOLDER UNDER 
+SUBSECTION (E) OF THIS SECTION IS R ETURNED AS UNDELIVER ABLE : 
  
-  (2) THE HOLDER RECEIVES N OTIFICATION THAT THE  E–MAIL WAS 17 
-NOT RECEIVED ; OR 18 
+   (I) THE REGISTERED MAIL S HALL CONSTITUTE A FI RST 
+COMMUNICATION FOR PU RPOSES OF SUBSECTION  (B)(1)( I) OF THIS SECTION ; AND 
  
-  (3) THE APPARENT OWNER DOES NOT RESPOND TO THE E –MAIL 19 
-WITHIN 30 DAYS AFTER THE HOLDE R SENDS THE E –MAIL . 20 
+   (II) THE HOLDER SHALL SEND  A SECOND COMMUNICATI ON TO 
+THE APPARENT OWNER B Y FIRST–CLASS MAIL . 
  
- (F) (1) IF THE REGISTERED MAI L SENT BY THE HOLDER  UNDER 21 
-SUBSECTION (E) OF THIS SECTION IS R ETURNED AS UNDELIVER ABLE : 22 
+  (2) (I) IF THE SECOND COMMUNI CATION UNDER PARAGRA PH 
+(1)(II) OF THIS SUBSECTION I S RETURNED AS UNDELI VERABLE WITHIN 30 DAYS 
+AFTER SENDING THE FI RST COMMUNICATION UN DER PARAGRAPH (1)(I) OF THIS 
+SUBSECTION , THE D ATE THE SECOND COMMU NICATION IS RETURNED  AS 
+UNDELIVERABLE SHALL CONSTITUTE THE DATE FOR PURPOSES OF SUBS ECTION 
+(B)(1)( II) OF THIS SECTION .  
  
-   (I) THE REGISTERED MAIL S HALL CONSTIT UTE A FIRST 23 
-COMMUNICATION FOR PU RPOSES OF SUBSECTION  (B)(1)( I) OF THIS SECTION ; AND 24 
+   (II) IF THE SECOND COMMUNI CATION UNDER PARAGRA PH 
+(1)(II) OF THIS SUBSECTION I S SENT MORE THAN 30 DAYS AFTER THE FIRST 
+COMMUNICATION UNDER PARAGRAPH (1)(I) OF THIS SUBSECTION I S RETURNED AS 
+UNDELIVERABLE , THE DATE THE FIRST C OMMUNICATION IS RETU RNED AS 
+UNDELIVERABLE SHALL CONTROL FOR PURPOSES  OF DETERMINING A DAT E UNDER 
+SUBSECTION (B)(1) OF THIS SECTION . 
+ WES MOORE, Governor  Ch. 636  
  
-   (II) THE HOLDER SHALL SEND  A SECOND COMMUNICATI ON TO 25 
-THE APPARENT OWNER B Y FIRST–CLASS MAIL . 26 
+– 17 –  
+17–307.2.  
  
-  (2) (I) IF THE SECOND COMMUNI CATION UNDER PARAGRA PH 27 
-(1)(II) OF THIS SUBS ECTION IS RETURNED A S UNDELIVERABLE WITH IN 30 DAYS 28 
-AFTER SENDING THE FI RST COMMUNICATION UN DER PARAGRAPH (1)(I) OF THIS 29 
-SUBSECTION , THE DATE THE SECOND COMMUNICATION IS RET URNED AS 30 
-UNDELIVERABLE SHALL CONSTITUTE THE DATE FOR PURPOSES OF SUBS ECTION 31 
-(B)(1)( II) OF THIS SECTION .  32 
+ (A) VIRTUAL CURRENCY IS P RESUMED ABANDONED IF  IT REMAINS 
+UNCLAIMED 5 YEARS AFTER THE LAST  INDICATION OF APPARE NT OWNER INTEREST 
+IN THE PROPERTY . 
  
-   (II) IF THE SECOND COMMUNI CATION UNDER PARAGRA PH 33 
-(1)(II) OF THIS SUBSECTION I S SENT MORE THAN 30 DAYS AFTER THE FIRST  34 
- HOUSE BILL 761  17 
+ (B) WITHIN 30 DAYS BEFORE THE FILI NG OF THE REPORT REQ UIRED 
+UNDER § 17–310 OF THIS SUBTITLE , THE HOLDER OF A BANDONED VIRTUAL 
+CURRENCY SHALL LIQUI DATE THE VIRTUAL CUR RENCY . 
  
- COMMUNICATION UNDER PARAGRAPH (1)(I) OF THIS SUBSECTION I S RETURNED AS 1 
-UNDELIVERABLE , THE DATE THE FIRST C OMMUNIC ATION IS RETURNED AS  2 
-UNDELIVERABLE SHALL CONTROL FOR PURPOSES  OF DETERMINING A DAT E UNDER 3 
-SUBSECTION (B)(1) OF THIS SECTION . 4 
+ (C) THE HOLDER SHALL REMI T ANY LIQUIDATION PR OCEEDS TO THE 
+ADMINISTRATOR . 
  
-17–307.2.  5 
+ (D) NOTWITHSTANDING ANY O THER PROVISION UNDER  THIS SUBTITLE , AN 
+OWNER HAS NO RIGHT O F RECOURSE AGAINST A  HOLDER OR  THE ADMINISTRATOR 
+TO RECOVER ANY GAIN IN VALUE TO THE VIRT UAL CURRENCY THAT OC CURS AFTER 
+THE LIQUIDATION DESC RIBED UNDER SUBSECTI ON (B) OF THIS SECTION . 
  
- (A) VIRTUAL CURRENCY IS P RESUMED ABANDONED IF  IT REMAINS 6 
-UNCLAIMED 5 YEARS AFTER THE LAST  INDICATION OF APPARE NT OWNER  INTEREST 7 
-IN THE PROPERTY . 8 
+17–308. 
  
- (B) WITHIN 30 DAYS BEFORE THE FILI NG OF THE REPORT REQ UIRED 9 
-UNDER § 17–310 OF THIS SUBTITLE , THE HOLDER OF ABANDO NED VIRTUAL 10 
-CURRENCY SHALL LIQUI DATE THE VIRTUAL CUR RENCY . 11 
+ (d) Property is reportable to this State under subsection (b) of this section under 
+the pri ority rules established under [§ 17–301(d) ] § 17–301.1( D) of this subtitle.  
  
- (C) THE HOLDER SHALL REMI T ANY LIQUIDATION PR OCEEDS TO THE 12 
-ADMINISTRATOR . 13 
+17–308.1.  
  
- (D) NOTWITHSTANDING ANY O THER PROVISION UNDER  THIS SUBTITLE , AN 14 
-OWNER HAS NO RIGHT O F RECOURSE AGAINST A  HOLDER OR THE ADMINISTRATOR 15 
-TO RECOVER ANY GAIN IN VALUE TO THE VIRT UAL CURRENCY THAT OC CURS AFTER 16 
-THE LIQUIDATION DESC RIBED UN DER SUBSECTION (B) OF THIS SECTION . 17 
+ (b) A holder may consider a money order dormant or inactive for purposes of 
+imposing a service charge if the owner has taken none of the actions set forth in [§  
+17–301(b)(3) ] § 17–301.1( B)(3) of this subtitle for 1 year from the date of issuance of the 
+money order.  
  
-17–308. 18 
+17–311. 
  
- (d) Property is reportable to this State under subsection (b) of this section under 19 
-the priority rules established under [§ 17–301(d) ] § 17–301.1( D) of this subtitle.  20 
+ (c) The Administrator is not required to publish in the notice any item valued at 
+less than [$100] $50 unless the Administrator considers the publication to be in the public 
+interest.   
  
-17–308.1.  21 
+17–317. 
  
- (b) A holder may consider a m oney order dormant or inactive for purposes of 22 
-imposing a service charge if the owner has taken none of the actions set forth in [§  23 
-17–301(b)(3) ] § 17–301.1( B)(3) of this subtitle for 1 year from the date of issuance of the 24 
-money order.  25 
+ (a) (1) (i) All funds received under this title, including the proceeds of the 
+sale of abandoned property under § 17 –316 of this subtitle, shall be credited by th e 
+Administrator to a special fund.  
  
-17–311. 26 
+   (ii) The Administrator shall retain in the special fund at the end of 
+each fiscal year, from the proceeds received [, an]: 
+Ch. 636  2025 LAWS OF MARYLAND   
  
- (c) The Administrator is not required to publish in the notice any item valued at 27 
-less than [$100] $50 unless the Administrator considers the publication to be in the public 28 
-interest.   29 
+– 18 –  
+    1. AN AMOUNT NOT EXCEEDI NG $5,000,000  FOR 
+INFORMATION TECHNOLO GY COSTS OF THE ADMINISTRATO R, INCLUDING 
+CYBERSECURITY , CUSTOMER RELATION SY STEMS , AND A SYSTEM FOR MAN AGING 
+UNCLAIMED PROPERTY ; AND 
  
-17–317. 30 
+    2. AN amount [not to exceed $50,000 ] OF FUNDS THE 
+ADMINISTRATOR REASONA BLY ESTIMATES IS SUF FICIENT , from which sum the 
+Administrator shall pay any  claim allowed under this title.  
  
-18 HOUSE BILL 761   
+17–318. 
  
-  (a) (1) (i) All funds received under this title, including the p roceeds of the 1 
-sale of abandoned property under § 17 –316 of this subtitle, shall be credited by the 2 
-Administrator to a special fund.  3 
+ (A) (1) Any person who claims a legal interest in any property delivered to the 
+State under this title must [file]: 
  
-   (ii) The Administrator shall retain in the special fund at the end of 4 
-each fiscal year, from the proceeds received [, an]: 5 
+   (I) FILE a claim to the property or to the proceeds from its sale on 
+the form prescribed by the Administrator ; AND  
  
-    1. AN AMOUNT NOT EXCEEDI NG $5,000,000  FOR 6 
-INFORMATION TECHNOLO GY COSTS OF THE ADMINISTRATOR , INCLUDING 7 
-CYBERSECURITY , CUSTOMER RELATION SY STEMS , AND A SYSTEM FOR MAN AGING 8 
-UNCLAIMED PROPERTY ; AND 9 
+   (II) VERIFY THE CLAIM AS T O ITS COMPLETENESS A ND 
+ACCURACY . 
  
-    2. AN amount [not to exceed $50,000 ] OF FUNDS TH E 10 
-ADMINISTRATOR REASONA BLY ESTIMATES IS SUF FICIENT , from which sum the 11 
-Administrator shall pay any claim allowed under this title.  12 
+  (2) AFTER A CLAIM IS FILE D UNDER PARAGRAPH (1) OF THIS 
+SUBSECTION , THE ADMINISTRATO R SHALL ALLOW OR DEN Y THE CLAIM AND 
+PROVIDE THE CLAIMANT  NOTICE OF THE DECISI ON. 
  
-17–318. 13 
+  (3) IF A CLAIM FILED IN A CCORDANCE WITH THIS SUBSECTION IS 
+DENIED : 
  
- (A) (1) Any person who claims a legal interest in any property delivered to the 14 
-State under this title must [file]: 15 
+   (I) THE ADMINISTRATOR SHALL I NFORM THE CLAIMANT O F 
+THE REASON FOR THE D ENIAL AND SPECIFY WH AT ADDITIO NAL EVIDENCE , IF ANY , 
+IS REQUIRED FOR THE CLAIM TO BE ALLOWED ; 
  
-   (I) FILE a claim to the property or to the proceeds from its sale on 16 
-the form prescribed by the Administrator ; AND  17 
+   (II) THE CLAIMANT MAY FILE  AN AMENDED CLAIM WIT H THE 
+ADMINISTRATOR OR COMM ENCE AN ACTION UNDER  § 17–320 OF THIS SUBTITLE ; 
+AND 
  
-   (II) VERIFY THE CLAIM AS T O ITS COMPLETENESS A ND 18 
-ACCURACY . 19 
+   (III) THE ADMINISTRATOR SHALL C ONSIDER AN AMENDED 
+CLAIM FILED UNDER ITEM (II) OF THIS PARAGRAPH AS  THE INITIAL CLAIM . 
  
-  (2) AFTER A CLAIM IS FILE D UNDER PARAGRAPH (1) OF THIS 20 
-SUBSECTION , THE ADMINISTRATOR SHALL A LLOW OR DENY THE CLA IM AND 21 
-PROVIDE THE CLAIMANT  NOTICE OF THE DECISI ON. 22 
+  (4) IF THE ADMINISTRATOR DOES NO T TAKE ACTION ON A C LAIM 
+DURING THE 6–MONTH PERIOD IMMEDIA TELY FOLLOWING THE F ILING OF A CLAIM 
+UNDER THIS SUBSECTIO N, THE CLAIM SHALL BE D EEMED DENIED . 
  
-  (3) IF A CLAIM FILED IN A CCORDANCE WITH THIS SUBSECTION IS 23 
-DENIED : 24 
+ WES MOORE, Governor  Ch. 636  
  
-   (I) THE ADMINISTRATOR SHALL I NFORM THE CLAIMANT O F 25 
-THE REASON FOR THE D ENIAL AND SPECIF Y WHAT ADDITIONAL EV IDENCE , IF ANY , 26 
-IS REQUIRED FOR THE CLAIM TO BE ALLOWED ; 27 
+– 19 –  (B) (1) THE ADMINISTRATOR MAY  WAIVE THE FILING REQ UIREMENT 
+UNDER SUBSECTION (A) OF THIS SECTION IF : 
  
-   (II) THE CLAIMANT MAY FILE  AN AMENDED CLAIM WIT H THE 28 
-ADMINISTRATOR OR COMM ENCE AN ACTION UNDER  § 17–320 OF THIS SUBTITLE ; 29 
-AND 30 
+   (I) THE PERSON RECEIVING THE PROPERTY OR PAYM ENT IS 
+THE APPARENT OWNER I NCLUDED IN A REPORT FILED UNDER § 17–310 OF THIS 
+SUBTITLE ; 
  
-   (III) THE ADMINISTRATOR SHALL C ONSIDER AN AME NDED 31 
-CLAIM FILED UNDER IT EM (II) OF THIS PARAGRAPH AS  THE INITIAL CLAIM . 32 
+   (II) THE ADMINISTRATOR  REASONABLY BELIEVES THE PERSON 
+IS ENTITLED TO RECEI VE THE PROPERTY OR P AYMENT ; AND 
  
- HOUSE BILL 761  19 
+   (III) THE PROPERTY OR PAYME NT HAS A VALUE OF $5,000  OR 
+LESS . 
  
-   (4) IF THE ADMINISTRATOR DOES NO T TAKE ACTION ON A C LAIM 1 
-DURING THE 6–MONTH PERIOD IMMEDIA TELY FOLLOWING THE F ILING OF A CLAIM 2 
-UNDER THIS SUBSECTIO N, THE CLAIM SHALL BE D EEMED DENI ED. 3 
+  (2) IF THE ADMINISTRATOR WAIVES THE FILING REQUIREME NT IN 
+ACCORDANCE WITH PARA GRAPH (1) OF THIS SUBSECTI ON, THE ADMINISTRATOR 
+SHALL MAKE PAYMENT I N ACCORDANCE WITH § 17–319( B) OF THIS SUBTITLE . 
  
- (B) (1) THE ADMINISTRATOR MAY  WAIVE THE FILING REQ UIREMENT 4 
-UNDER SUBSECTION (A) OF THIS SECTION IF : 5 
+ (C) THE ADMINISTRATOR SHALL P AY OR DELIVER PROPER TY TO A 
+CLAIMANT UNDER THIS SECTION IF THE ADMINISTRATOR RECEIVE S EVIDENCE 
+SUFFICIENT TO THE SA TISFACTION OF THE ADMINISTRATOR TO ESTAB LISH THAT 
+THE CLAIMANT IS THE OWNER OF THE PROPERT Y. 
  
-   (I) THE PERSON RECEIVING THE PROPERTY OR PAYM ENT IS 6 
-THE APPARENT OWNER I NCLUDED IN A REPORT FILED UNDER § 17–310 OF THIS 7 
-SUBTITLE ; 8 
+17–319. 
  
-   (II) THE ADMINISTRATOR REASONAB LY BELIEVES THE PERS ON 9 
-IS ENTITLED TO RECEI VE THE PROPERTY OR P AYMENT ; AND 10 
+ (a) (1) The Administrator shall consider any claim filed under this title and 
+may hold a hearing and receive evidence concerning it.  
  
-   (III) THE PROPERTY OR PAYME NT HAS A VALUE OF $5,000  OR 11 
-LESS . 12 
+  (2) (I) If a hearing is held, [he] THE ADMINISTRATOR  shall prepare a 
+finding and a decision in writing on each claim filed, stating the substance of any evidence 
+heard by [him] THE ADMINISTRATOR  and the reasons for [his] THE ADMINISTRATOR ’S 
+decision.  
  
-  (2) IF THE ADMINISTRATOR WAIVES THE FILING REQUIREME NT IN 13 
-ACCORDANCE WITH PARA GRAPH (1) OF THIS SUBSECTION , THE ADMINISTRATOR 14 
-SHALL MAKE PAYMENT I N ACCORDANCE WITH § 17–319( B) OF THIS SUBTITLE . 15 
+   (II) The decision shall be a publi c record.  
  
- (C) THE ADMINISTRATOR SHALL P AY OR DELIVER PROPER TY TO A 16 
-CLAIMANT UNDER THIS SECTION IF THE ADMINISTRATOR RECEIVE S EVIDENCE 17 
-SUFFICIENT TO THE SA TISFACT ION OF THE ADMINISTRATOR TO ESTA BLISH THAT 18 
-THE CLAIMANT IS THE OWNER OF THE PROPERT Y. 19 
+ (b) (1) If the claim is allowed, OR IF THE ADMINISTRATOR WAIVES THE 
+FILING REQUIREMENT I N ACCORDANCE WITH § 17–318( B) OF THIS SUBTITLE , the 
+Administrator immediately shall make payment.  
  
-17–319. 20 
+  (2) The claim shall be paid without deduction for costs of notices or sale or 
+for service charges.  
  
- (a) (1) The Administrator shall consider any claim filed under this title and 21 
-may hold a hearing and receive evidence concerning it.  22 
+ (c) In satisfying a claim the Administrator shall pay the claimant an amount 
+equal to the sales price obtained at the public sale.  
  
-  (2) (I) If a hearing is held, [he] THE ADMINISTRATOR  shall prepare a 23 
-finding and a decision in writing on each claim filed, stating the substance of any evidence 24 
-heard by [him] THE ADMINISTRATOR  and the reasons for [his] THE ADMINISTRATOR ’S 25 
-decision.  26 
+17–319.1.  
+Ch. 636  2025 LAWS OF MARYLAND   
  
-   (II) The decision shall be a public record.  27 
+– 20 –  
+ (A) NOT LATER THAN 6 MONTHS AFTER A CLAIM  IS ALLOWED UNDER §  
+17–318( A) OF THIS SUBTITLE , THE ADMINISTRATOR SHALL D ELIVER THE PROPERTY 
+TO THE OWNER OR PAY TO THE OWNER THE NET  PROCEEDS OF A SALE O F THE 
+PROPERTY . 
  
- (b) (1) If the claim is allowed, OR IF THE ADMINISTRATOR WAIVES THE 28 
-FILING REQUIREMENT I N ACCORDANCE WITH § 17–318( B) OF THIS SUBTITLE , the 29 
-Administrator immediately shall make payment.  30 
+ (B) THE ADMINISTRATOR MAY APP LY PROPERTY HELD UND ER THIS TITLE 
+BY THE ADMINISTRATOR TO A CL AIM FOR THE PAYMENT OF A DEBT OW ED TO THE 
+STATE IDENTIFIED BY O R CERTIFIED TO THE ADMINISTRATOR , INCLUDING DEBTS 
+FOR UNPAID STATE , COUNTY , OR MUNICIPAL TAX . 
  
-  (2) The claim shall be paid without deduction for costs of notices or sale or 31 
-for service charges.  32 
+ (C) BEFORE DELIVERY TO AN  OWNER OF PROPERTY VALUED AT $100  OR 
+MORE  OR PAYMENT TO AN OWN ER FOR NET PROCEEDS OF A SALE OF PROPERTY 
+WHERE THE NET PROCEE DS ARE $100  OR MORE , THE ADMINISTRATOR SHALL : 
  
-20 HOUSE BILL 761   
+  (1) APPLY THE PROPERTY OR  NET PROCEEDS TO ANY DEBT UNDER 
+SUBSECTION (B) OF THIS SECTION THAT  THE ADMINISTRATOR DETERMI NES IS 
+OWED BY THE OWNER ; 
  
-  (c) In satisfying a claim the Administrator shall pay the claimant an amount 1 
-equal to the sales price obtained at the public sale.  2 
+  (2) PAY THE AMOUNT IDENTIFIED BY OR CER TIFIED TO THE 
+ADMINISTRATOR UNDER S UBSECTION (B) OF THIS SECTION ; AND 
  
-17–319.1.  3 
+  (3) NOTIFY THE OWNER OF A NY PAYMENT TOWARD A DEBT UNDER 
+SUBSECTION (B) OF THIS SECTION THAT  THE ADMINISTRATOR DETERMI NES IS 
+OWED BY THE OWNER . 
  
- (A) NOT LATER THAN 6 MONTHS AFTER A CLA IM IS ALLOWED UNDER §  4 
-17–318( A) OF THIS SUBTITLE , THE ADMINISTRATOR SHALL D ELIVER THE PROPERTY 5 
-TO THE OWNER OR PAY TO THE OWNER THE NET  PROCEEDS OF A SALE O F THE 6 
-PROPERTY . 7 
+ (D) (1) THE ADMINI STRATOR MAY MAKE PER IODIC INQUIRIES OF STATE 
+AND LOCAL AGENCIES I N THE ABSENCE OF A C LAIM FILED UNDER § 17–318( A) OF 
+THIS SUBTITLE TO DET ERMINE WHETHER AN AP PARENT OWNER INCLUDE D IN THE 
+UNCLAIMED PROPERTY R ECORDS OF THE STATE HAS ENFORCEABLE  DEBTS UNDER 
+SUBSECTION (B) OF THIS SECTION IF THE AMOUNT OF PRO PERTY IS VALUED AT $100  
+OR MORE . 
  
- (B) THE ADMINISTRATOR MAY APP LY PROPERTY HELD UND ER THIS TITLE 8 
-BY THE ADMINISTRAT OR TO A CLAIM FOR TH E PAYMENT OF A DEBT OWED TO THE 9 
-STATE IDENTIFIED BY O R CERTIFIED TO THE ADMINISTRATOR , INCLUDING DEBTS 10 
-FOR UNPAID STATE , COUNTY , OR MUNICIPAL TAX . 11 
+  (2) IF THE ADMINISTRATOR IDENTIF IES AN ENFORCEABLE D EBT 
+DURING A PERIODIC IN QUIRY , THE ADMINISTRATOR SHALL : 
  
- (C) BEFORE DELIVERY TO AN  OWNER OF PROPERTY VALUED AT $100  OR 12 
-MORE  OR PAYMENT TO AN OWN ER FOR NET PROCEEDS OF A SALE OF PROPERT Y 13 
-WHERE THE NET PROCEE DS ARE $100  OR MORE , THE ADMINISTRATOR SHALL : 14 
+   (I) APPLY THE PROPERTY OR  NET PROCEEDS OF A SA LE OF THE 
+PRO PERTY HELD BY THE ADMINISTRATOR TO THE DEBT OF AN APPARENT OWNER 
+WHO APPEARS IN THE R ECORDS OF THE ADMINISTRATOR ; 
  
-  (1) APPLY THE PROPERTY OR  NET PROCEEDS TO ANY DEBT UNDER 15 
-SUBSECTION (B) OF THIS SECTION THAT  THE ADMINISTRATOR DETERMI NES IS 16 
-OWED BY THE OWNER ; 17 
+   (II) PAY THE AMOUNT IDENTI FIED BY OR CERTIFIED  TO THE 
+ADMINISTRATOR UNDER S UBSECTION (B) OF THIS SECTION ; AND 
  
-  (2) PAY THE AMOUNT IDENTI FIED BY OR CERTIFIED  TO THE 18 
-ADMINISTRATOR UNDER S UBSECTION (B) OF THIS SECTION ; AND 19 
+ WES MOORE, Governor  Ch. 636  
  
-  (3) NOTIFY THE OWNER OF A NY PAYMENT TOWARD A DEBT UNDER 20 
-SUBSECTION (B) OF THIS SECTION THAT  THE ADMINISTRATOR DETERMI NES IS 21 
-OWED BY THE OWNER . 22 
+– 21 –    (III) NOTIFY THE OWNER OF ANY PAYMENT TOWAR D A DEBT 
+UNDER SUBSECTION (B) OF THIS SECTION THAT  THE ADMINISTRATOR DETERMI NES 
+IS OWED BY THE OWNER . 
  
- (D) (1) THE ADMINISTRATOR MAY MAK E PERIODIC INQUIRIES  OF STATE 23 
-AND LOCAL AGENCIES I N THE ABSENCE OF A C LAIM FILED UNDER § 17–318( A) OF 24 
-THIS SUBTITLE TO DET ERMINE WHETHER AN AP PARENT OWNER INCLUDE D IN THE 25 
-UNCLAIMED PROPERTY R ECORDS OF THE STATE HAS ENFOR CEABLE DEBTS UNDER 26 
-SUBSECTION (B) OF THIS SECTION IF THE AMOUNT OF PRO PERTY IS VALUED AT $100  27 
-OR MORE . 28 
+17–320. 
  
-  (2) IF THE ADMINISTRATOR IDENTIF IES AN ENFORCEABLE D EBT 29 
-DURING A PERIODIC IN QUIRY , THE ADMINISTRATOR SHALL : 30 
+ (A) Any person aggrieved by a decision of the Administrator or as to whose claim 
+the Administrator has failed to act within  [90 days] 6 MONTHS  after the filing of the claim, 
+may commence an action in the circuit court for the county to establish [his] THE claim.  
  
-   (I) APPLY THE PROPERTY OR  NET PROCEEDS  OF A SALE OF THE 31 
-PROPERTY HELD BY THE  ADMINISTRATOR TO THE DEBT OF AN APPARENT OWNER 32 
-WHO APPEARS IN THE R ECORDS OF THE ADMINISTRATOR ; 33 
+ (B) The proceeding shall be brought within 90 days after the decision of the 
+Administrator or within [180 days ] 1 YEAR  from the filing of the claim if the Administrator 
+fails to act.  
  
- HOUSE BILL 761  21 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
-    (II) PAY THE AMOUNT IDENTI FIED BY OR CERTIFIED  TO THE 1 
-ADMINISTRATOR UNDER S UBSECTION (B) OF THIS SECTION ; AND 2 
- 
-   (III) NOTIFY THE OWNER OF A NY PAYMENT TOWARD A DEBT 3 
-UNDER SUBSECTION (B) OF THIS SECTION THAT  THE ADMINISTRATOR DETERMI NES 4 
-IS OWED BY THE OWNER . 5 
- 
-17–320. 6 
- 
- (A) Any person aggrieved by a decision of the Administrator or as to whose claim 7 
-the Administrator has failed to act within [90 days] 6 MONTHS  after the filing of the claim, 8 
-may commence an action in the circuit court for the county to establish [his] THE claim.  9 
- 
- (B) The proceeding shall be brought within 90 days after the decision of the 10 
-Administrator or  within [180 days ] 1 YEAR  from the filing of the claim if the Administrator 11 
-fails to act.  12 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 13 
-October 1, 2025.  14 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 20, 2025.  

@@ -1,608 +1,584 @@
+ WES MOORE, Governor  Ch. 300  
  
+– 1 – Chapter 300  
+(House Bill 932 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0932*      
-HOUSE BILL 932  
-G2   5lr1235  
-    CF SB 723  
-By: Delegates Korman and Boyce , Boyce, Allen, Behler, Foley, Guyton, Holmes, 
-Lehman, R.  Lewis, J.  Long, Ruth, Stein, Stewart, Terrasa, and Ziegler  
-Introduced and read first time: January 31, 2025  
-Assigned to: Environment and Transportation  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: February 27, 2025  
- 
-CHAPTER ______  
- 
-AN ACT  concerning  1 
- 
-Public Ethics – Conflicts of Interest and Blind Trust – Governor  2 
- 
-FOR the purpose of requiring the Governor within a certain period of time to place certain 3 
-interests into a certain certified blind trust or divest of certain interests; requi ring 4 
-the Governor to enter into a nonparticipation agreement with the State Ethics 5 
-Commission for any interests not included in a blind trust; requiring a business 6 
-entity that seeks to obtain a State grant, competitive award, or contract to report to 7 
-the E thics Commission any interest held in the business entity by the Governor or a 8 
-restricted individual; requiring the Governor –elect to consult with the Ethics 9 
-Commission to begin the process of establishing a certified blind trust or divest of 10 
-certain inter ests; and generally relating to conflicts of interest and blind trusts.  11 
- 
-BY repealing and reenacting, without amendments,  12 
- Article – General Provisions  13 
-Section 5 –101(a), 5 –501, and 5 –502(b) and (c)  14 
- Annotated Code of Maryland  15 
- (2019 Replacement Volume and 2024 Supplement)  16 
- 
-BY repealing and reenacting, with amendments,  17 
- Article – General Provisions  18 
-Section 5 –101(t), 5 –301, 5 –303, and 5 –903 19 
-Annotated Code of Maryland  20 
- (2019 Replacement Volume and 2024 Supplement)  21 
- 
-2 HOUSE BILL 932   
- 
- BY adding to  1 
- Article – General Provisions  2 
-Section 5 –501.1  3 
- Annotated Code of Maryland  4 
- (2019 Replacement Volume and 2024 Supplement)  5 
+AN ACT concerning  
  
-BY repealing and reenacting, without amendments,  6 
- Article – State Finance and Procurement  7 
-Section 13 –101(a) and (c) and 17 –501 8 
- Annotated Code of Marylan d 9 
- (2021 Replacement Volume and 2024 Supplement)  10 
+Public Ethics – Conflicts of Interest and Blind Trust – Governor  
  
-BY repealing and reenacting, with amendments,  11 
- Article – State Finance and Procurement  12 
-The subtitle designation “Subtitle 5. eMaryland Marketplace” immediately 13 
-preceding Section 17 –501 14 
- Annotated Code of Ma ryland  15 
- (2021 Replacement Volume and 2024 Supplement)  16 
+FOR the purpose of requiring the Governor within a certain period of time to place certain 
+interests into a certain certified blind trust or divest of certain interests; requiring 
+the Governor to enter into a nonparticipation agreement with the State Ethics 
+Commission for any interests not included in a blind trus t; requiring a business 
+entity that seeks to obtain a State grant, competitive award, or contract to report to 
+the Ethics Commission any interest held in the business entity by the Governor or a 
+restricted individual; requiring the Governor –elect to consul t with the Ethics 
+Commission to begin the process of establishing a certified blind trust or divest of 
+certain interests; and generally relating to conflicts of interest and blind trusts.  
  
-BY adding to  17 
- Article – State Finance and Procurement  18 
-Section 17 –503 19 
- Annotated Code of Maryland  20 
- (2021 Replacement Volume and 2024 Supplement)  21 
+BY repealing and reenacting, without amendments,  
+ Article – Gener al Provisions  
+Section 5 –101(a), 5 –501, and 5 –502(b) and (c)  
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  22 
- Article – State Government  23 
-Section 3 –204 24 
- Annotated Code of Maryland  25 
- (2021 Replacement Volume and 2024 Supplement)  26 
+BY repealing and reenacting, with amendments,  
+ Article – General Provisions  
+Section 5 –101(t), 5 –301, 5 –303, and 5 –903 
+Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024 Supplement)  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 27 
-That the Laws of Maryland read as follows:  28 
+BY adding to  
+ Article – General Provisions  
+Section 5 –501.1  
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024 Supplement)  
  
-Article – General Provisions  29 
+BY repealing and reenacting, without amendment s, 
+ Article – State Finance and Procurement  
+Section 13 –101(a) and (c) and 17 –501 
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-5–101. 30 
+BY repealing and reenacting, with amendments,  
+ Article – State Finance and Procurement  
+The subtitle  designation “Subtitle 5. eMaryland Marketplace” immediately 
+preceding Section 17 –501 
+ Annotated Code of Maryland  
+Ch. 300  2025 LAWS OF MARYLAND   
  
- (a) In this title the following words have the meanings indicated unless:  31 
+– 2 –  (2021 Replacement Volume and 2024 Supplement)  
  
-  (1) the context clearly requires a different meaning; or  32 
+BY adding to  
+ Article – State Finance and Procurement  
+Section 17 –503 
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-  (2) a different definition is adopted for a particular provision.  33 
+BY repealing and reenacting, with amendments,  
+ Article – State Government  
+Section 3 –204 
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
- (t) (1) “Interest” means a legal or equitable economi c interest that is owned or 34 
-held wholly or partly, jointly or severally, or directly or indirectly, whether or not the 35 
-economic interest is subject to an encumbrance or condition.  36 
- HOUSE BILL 932  3 
+ SECTION 1. BE IT ENACTED BY THE GE NERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-  
-  (2) “Interest” does not include:  1 
+Article – General Provisions  
  
-   (i) an interest held in the capacity  of agent, custodian, fiduciary, 2 
-personal representative, or trustee, unless the holder has an equitable interest in the 3 
-subject matter;  4 
+5–101. 
  
-   (ii) an interest in a time or demand deposit in a financial institution;  5 
+ (a) In this title the following words have the meanings indicated unless:  
  
-   (iii) an interest in an insurance policy, endowment policy, or annuity 6 
-contract under which an insurer promises to pay a fixed amount of money in a lump sum 7 
-or periodically for life or a specified period;  8 
+  (1) the context clearly requires a different meaning; or  
  
-   (iv) a common trust fund or a trust that forms part of a pension or a 9 
-profit –sharing plan that:  10 
+  (2) a different definition is adopted for a particular provision.  
  
-    1. has more than 25 participants; and  11 
+ (t) (1) “Interest” means a legal or equitable economic interest that is owned or 
+held wholly or partly, jointly or severally, or directly or indirectly, whether or not the 
+economic interest is s ubject to an encumbrance or condition.  
  
-    2. is determined by the Internal Revenue Service to be a 12 
-qualified trust under the Internal Revenue Code or a qualified tuition plan established 13 
-pursuant to Section 529 of the Intern al Revenue Code; [or] 14 
+  (2) “Interest” does not include:  
  
-   (v) a mutual fund or exchange –traded fund that is publicly traded 15 
-on a national scale unless the mutual fund or exchange –traded fund is composed primarily 16 
-of holdings of stocks and interests in a specific sector or area that is re gulated by the 17 
-individual’s governmental unit ; OR 18 
+   (i) an interest held in the capacity of agent, custodian, fiduciary, 
+personal representative, or trustee, unless the holder has an equitable interest in the 
+subject matter;  
  
-   (VI) FOR § 5–501.1  OF THIS TITLE , ANY RESIDENCE OF THE  19 
-GOVERNOR FROM WHICH N O INCOME WAS DERIVED  IN THE IMMEDIATELY 20 
-PRECEDING YEAR . 21 
+   (ii) an interest in a time or demand deposit in a financial institution;  
  
-5–301. 22 
+   (iii) an interest in an insurance policy, endowment policy, or annuity 
+contract under which an insurer promises to pay a fixed amount of money in a lump sum 
+or periodically for li fe or a specified period;  
  
- (a) (1) Subject to subsection (b) of this section, on writte n request of an entity 23 
-subject to this title, the appropriate advisory body shall issue an advisory opinion regarding 24 
-the application of this title.  25 
+   (iv) a common trust fund or a trust that forms part of a pension or a 
+profit –sharing plan that:  
  
-  (2) On written request of any other entity, the appropriate advisory body 26 
-may issue an advisory opinion.  27 
+ WES MOORE, Governor  Ch. 300  
  
- (b) (1) The appropriate advisory body may issue informal advice instead of an 28 
-advisory opinion.  29 
+– 3 –     1. has more than 25 participants; and  
  
-  (2) Except as provided in [§ 5–502(f) ] §§ 5–501.1  AND 5–502( F) of this 30 
-title, information related to informal advice provided under this subsection shall remain 31 
-confidential and is not subject to the requirements of § 5 –303 of this subtitle.  32 
-4 HOUSE BILL 932   
+    2. is determined by the Internal Revenue Service to be a 
+qualified trust under the  Internal Revenue Code or a qualified tuition plan established 
+pursuant to Section 529 of the Internal Revenue Code; [or] 
  
-  
-5–303. 1 
+   (v) a mutual fund or exchange –traded fund that is publicly traded 
+on a national scale unless the mutual fund or exchange –traded fund is composed primarily 
+of holdings of stocks and interests in a specific sector or area that is regulated by the 
+individual’s governmental unit ; OR 
  
- (a) Each advisory opinion shall be:  2 
+   (VI) FOR § 5–501.1  OF THIS TITLE , ANY RESIDENCE OF THE  
+GOVERNOR FROM WHICH N O INCOME WAS DERIVED  IN THE IMMEDIATELY 
+PRECEDING YEAR . 
  
-  (1) in writing; and  3 
+5–301. 
  
-  (2) published in the Maryland Register, subject to subsection (b) of this 4 
-section.  5 
+ (a) (1) Subject to subsection (b) of this section, on written request of an entity 
+subject to this title, the appropriate advisory body shall issue an advisory opinion regarding 
+the application of this title.  
  
- (b) (1) Except as provided in [§ 5–502(f) ] §§ 5–501.1  AND  5–502( F) of this 6 
-title, before an advisory opinion may be made public, the advisory body shall delete:  7 
+  (2) On written request of any other entity, the appropriate advisory body 
+may issue an advisory opinion.  
  
-   (i) the name of the entity that is the subject of the opinion; and  8 
+ (b) (1) The appropriate advisory body may issue informal advice instead of an 
+advisory opinion.  
  
-   (ii) to the fullest extent p ossible, any other information that may 9 
-identify the entity.  10 
+  (2) Except as provided in [§ 5–502(f) ] §§ 5–501.1  AND 5–502( F) of this 
+title, information related to informal advice provided under this subsection shall remain 
+confidential and is not subject to the requirements of § 5 –303 of this subtitle.  
  
-  (2) The identity of the entity that is the subject of the opinion may not be 11 
-revealed.  12 
+5–303. 
  
-5–501. 13 
+ (a) Each advisory opinion shall be:  
  
- (a) Except as otherwise provided in subsection (c) of this section, an official or 14 
-employee may  not participate in a matter if:  15 
+  (1) in writing;  and 
  
-  (1) the official or employee or a qualifying relative of the official or 16 
-employee has an interest in the matter and the official or employee knows of the interest; 17 
-or 18 
+  (2) published in the Maryland Register, subject to subsection (b) of this 
+section.  
  
-  (2) any of the following is a party to the matter:  19 
+ (b) (1) Except as provided in [§ 5–502(f) ] §§ 5–501.1  AND  5–502( F) of this 
+title, before an advisory opinion may be made public, the advisory body shall delete:  
  
-   (i) a business entity in which the official or employee has a direct 20 
-financial interest of which the official or employee reasonably may be expected to know;  21 
+   (i) the name of the entity that is the subject of the opinion; and  
  
-   (ii) a business entity, including a limited liability company or a 22 
-limited liability part nership, of which any of the following is an officer, a director, a trustee, 23 
-a partner, or an employee:  24 
+Ch. 300  2025 LAWS OF MARYLAND   
  
-    1. the official or employee; or  25 
+– 4 –    (ii) to the fullest extent possible, any other information that may 
+identify the entity.  
  
-    2. if known to the official or employee, a qualifying relative 26 
-of the official or employee;  27 
+  (2) The identity of the entity that is the subject of the opinion may not be 
+revealed.  
  
-   (iii) a business entity with which any of the following has applied for 28 
-a position, is negotiating employment, or has arranged prospective employment:  29 
+5–501. 
  
- HOUSE BILL 932  5 
+ (a) Except as otherwise provided in subsection (c) of this section, an official or 
+employee may not participate in a matter if:  
  
-     1. the official or employee; or  1 
+  (1) the official or employee or a qualifying relative of the official or 
+employee has an interest in the matter and the  official or employee knows of the interest; 
+or 
  
-    2. if known to the official or employee, a qualifying relative 2 
-of the official or employee;  3 
+  (2) any of the following is a party to the matter:  
  
-   (iv) if the contract reasonably could be expected to result in a conflict 4 
-between the private interest and the official State duties of the official or employee, a 5 
-business entity that is a party to a contract with:  6 
+   (i) a business entity in which the official or employee has a direct 
+financial interest of which the official or employee reasonably may be expected to know;  
  
-    1. the of ficial or employee; or  7 
+   (ii) a business entity, including a limited liability company or a 
+limited liability partnership, of which any of the following is an officer, a director, a trustee, 
+a partner, or an employee:  
  
-    2. if known to the official or employee, a qualifying relative 8 
-of the official or employee;  9 
+    1. the official or employee; or  
  
-   (v) a business entity, either engaged in a transaction with the State 10 
-or subject to regulation by the official’s or employee’s gover nmental unit, in which a direct 11 
-financial interest is owned by another business entity if the official or employee:  12 
+    2. if kn own to the official or employee, a qualifying relative 
+of the official or employee;  
  
-    1. has a direct financial interest in the other business entity; 13 
-and 14 
+   (iii) a business entity with which any of the following has applied for 
+a position, is negotiating employment, or has arranged prospective employment:  
  
-    2. reasonably may be expected to know of both financial 15 
-inter ests; or  16 
+    1. the offic ial or employee; or  
  
-   (vi) a business entity that:  17 
+    2. if known to the official or employee, a qualifying relative 
+of the official or employee;  
  
-    1. the official or employee knows is a creditor or an obligee of 18 
-the official or employee, or of a qualifying relative of the official or employee, with respect 19 
-to a thing of economic value; and  20 
+   (iv) if the contract reasonably could be expected to result in a conflict 
+between the private interest and the official State duties of  the official or employee, a 
+business entity that is a party to a contract with:  
  
-    2. as a c reditor or an obligee, is in a position to affect directly 21 
-and substantially the interest of the official, employee, or qualifying relative.  22 
+    1. the official or employee; or  
  
- (a–1) (1) This subsection does not apply to an individual who is a public official 23 
-only as a member of a board and who receives annual compensation that is less than 25% 24 
-of the lowest annual compensation at State grade level 16.  25 
+    2. if known to the official or employee, a qualifying relative 
+of the official or employee;  
  
-  (2) A former regulated lobbyist who is or becomes subject to regulation 26 
-under this title as a public official or employee may not parti cipate in a case, contract, or 27 
-other specific matter as a public official or employee for 1 year after the termination of the 28 
-registration of the former regulated lobbyist if the former regulated lobbyist previously 29 
-assisted or represented another party fo r compensation in the matter.  30 
+ WES MOORE, Governor  Ch. 300  
  
- (b) (1) The prohibitions of subsection (a) of this section do not apply if 31 
-participation is allowed:  32 
+– 5 –    (v) a business entity, either engaged  in a transaction with the State 
+or subject to regulation by the official’s or employee’s governmental unit, in which a direct 
+financial interest is owned by another business entity if the official or employee:  
  
-6 HOUSE BILL 932   
+    1. has a direct financial interest in th e other business entity; 
+and 
  
-    (i) as to officials and employees subject to the authority of the Ethics 1 
-Commission, by regulation of the Ethics Commis sion;  2 
+    2. reasonably may be expected to know of both financial 
+interests; or  
  
-   (ii) by the opinion of an advisory body; or  3 
+   (vi) a business entity that:  
  
-   (iii) by another provision of this subtitle.  4 
+    1. the official or employee knows is a creditor or an obligee of 
+the official or employee, or of a qualifying relative of the official or employee, with respect 
+to a thing of economic value; and  
  
-  (2) This section does not prohibit participation by an official or employee 5 
-that is limited to the exercise of an administrative or ministerial duty t hat does not affect 6 
-the decision or disposition with respect to the matter.  7 
+    2. as a creditor or an obligee, is in a position to affect directly 
+and substantially the interest of the official, employee, or qualifying relative.  
  
- (c) (1) An official or employee who otherwise would be disqualified from 8 
-participation under subsection (a) of this section shall disclose the nature and 9 
-circumstances of the con flict, and may participate or act, if:  10 
+ (a–1) (1) This subsection does not apply to an individual who is a public official 
+only as a member of a board and who receives annual compensation that is less than 25% 
+of the lowest annual compensation at State grade level 16.  
  
-   (i) the disqualification would leave a body with less than a quorum 11 
-capable of acting;  12 
+  (2) A former regulated lobbyist who is  or becomes subject to regulation 
+under this title as a public official or employee may not participate in a case, contract, or 
+other specific matter as a public official or employee for 1 year after the termination of the 
+registration of the former regula ted lobbyist if the former regulated lobbyist previously 
+assisted or represented another party for compensation in the matter.  
  
-   (ii) the disqualified official or employee is required by law to act; or  13 
+ (b) (1) The prohibitions of subsection (a) of this section do not apply if 
+participation is allowed:  
  
-   (iii) the disqualified official or employee i s the only individual 14 
-authorized to act.  15 
+   (i) as to officials an d employees subject to the authority of the Ethics 
+Commission, by regulation of the Ethics Commission;  
  
-  (2) If the Governor, Lieutenant Governor, Attorney General, Treasurer, or 16 
-Comptroller is required to make a disclosure under paragraph (1) of this subsection, the 17 
-Governor, Lieutenant Governor, Attorney General, Treasurer, or Comptroller, as 18 
-appropriate, shall send a copy of the disclosure to the presiding officers of the General 19 
-Assembly and to the Ethics Commission.  20 
+   (ii) by the opinion of an advisory body; or  
  
- (d) (1) This subsection applies only to:  21 
+   (iii) by another provision of this subtitle.  
  
-   (i) the Governor;  22 
+  (2) This section does not prohibit participation by a n official or employee 
+that is limited to the exercise of an administrative or ministerial duty that does not affect 
+the decision or disposition with respect to the matter.  
  
-   (ii) the Lieutenant Governor;  23 
+ (c) (1) An official or employee who otherwise would be disqualified from 
+particip ation under subsection (a) of this section shall disclose the nature and 
+circumstances of the conflict, and may participate or act, if:  
+Ch. 300  2025 LAWS OF MARYLAND   
  
-   (iii) the Attorney General;  24 
+– 6 –  
+   (i) the disqualification would leave a body with less than a quorum 
+capable of acting;  
  
-   (iv) the Treasurer;  25 
+   (ii) the disqualified off icial or employee is required by law to act; or  
  
-   (v) the Comptroller; and  26 
+   (iii) the disqualified official or employee is the only individual 
+authorized to act.  
  
-   (vi) a secretary of a principal department in the Executive Branch.  27 
+  (2) If the Governor, Lieutenant Governor, Attorney General, Treasurer, or 
+Comptroller is required to make a disclosure under paragraph (1) of this subsection, the 
+Governor, Lieutenant Governor, Attorney General, Treasurer, or Comptroller, as 
+appropriate, shall  send a copy of the disclosure to the presiding officers of the General 
+Assembly and to the Ethics Commission.  
  
-  (2) (i) An official who takes executive action that the official knows or 28 
-reasonably s hould know would have a material financial impact on the official or a person 29 
-whose interests are attributable to the official under § 5 –608 of this title shall provide the 30 
- HOUSE BILL 932  7 
+ (d) (1) This subsection applies only to:  
  
- Ethics Commission and the Joint Ethics Committee a description of the executive act ion 1 
-and the circumstances of the potential impact.  2 
+   (i) the Governor;  
  
-   (ii) An official is not required to make a disclosure under this 3 
-paragraph if the impact is common to all members of:  4 
+   (ii) the Lieutenant Governor;  
  
-    1. the general public or a large class of the general public; or  5 
+   (iii) the Attorney General;  
  
-    2. a pro fession or occupation of which the official is a 6 
-member.  7 
+   (iv) the Treasurer;  
  
-5–501.1.  8 
+   (v) the Comptroller; and  
  
- (A) IN THIS SECTION , “RESTRICTED INDIVIDUA L” MEANS : 9 
+   (vi) a secretary of a principal department in the Executive Branch.  
  
-  (1) A SPOUSE OF THE GOVERNOR ; 10 
+  (2) (i) An official who takes executive action that the official knows or 
+reasonably should know would have a material financial impact on th e official or a person 
+whose interests are attributable to the official under § 5 –608 of this title shall provide the 
+Ethics Commission and the Joint Ethics Committee a description of the executive action 
+and the circumstances of the potential impact.  
  
-  (2) A PARENT OR STEPPARE NT OF THE GOVERNOR ; 11 
+   (ii) An official is not required to make a disclosure under this 
+paragraph if the impact is common to all members of:  
  
-  (3) A SIBLING OR STEPSIB LING OF THE GOVERNOR ; 12 
+    1. the general public or a large class of the general public; or  
  
-  (4) A CHILD , STEPCHILD , FOSTER CHILD , OR WARD OF THE 13 
-GOVERNOR ; 14 
+    2. a profession or occupation of which the official is a 
+member . 
  
-  (5) A MOTHER –IN–LAW OR FATHER –IN–LAW OF THE GOVERNOR ; 15 
+5–501.1.  
  
-  (6) A SON–IN–LAW OR DAUGHTER –IN–LAW OF THE GOVERNOR ; 16 
+ (A) IN THIS SECTION , “RESTRICTED INDIVIDUA L” MEANS : 
+ WES MOORE, Governor  Ch. 300  
  
-  (7) A GRANDPARENT OF THE  GOVERNOR OR THE GOVERNOR ’S 17 
-SPOUSE ; 18 
+– 7 –  
+  (1) A SPOUSE OF THE GOVERNOR ; 
  
-  (8) A GRANDCHILD OF THE GOVERNOR ; OR 19 
+  (2) A PARENT OR STEPPARE NT OF THE GOVERNOR ; 
  
-  (9) EXCEPT FOR AN EMPLOY EE OF THE GOVERNOR , ANY INDIVIDUAL 20 
-WHO RESIDES IN THE GOVERNOR ’S PRIMARY RESIDENCE . 21 
+  (3) A SIBLING OR STEPSIB LING OF THE GOVERNOR ; 
  
- (B) (1) WITHIN 6 MONTHS AFTER TAKING THE OATH OF OFFICE T HE 22 
-GOVERNOR SHALL : 23 
+  (4) A CHILD , STEPCHILD , FOSTER CHILD , OR WARD OF THE 
+GOVERNOR ; 
  
-   (I) EXCEPT AS PROVIDED I N REGULATIONS ADOPT ED BY THE 24 
-ETHICS COMMISSION , PLACE ALL OF THE GOVERNOR ’S INTERESTS INTO A 25 
-CERTIFIED BLIND TRUS T APPROVED BY THE ETHICS COMMISSION AND OPERAT ED 26 
-IN ACCORDANCE WITH R EGULATIONS ADOPTED B Y THE ETHICS COMMISSION ; OR  27 
+  (5) A MOTHER –IN–LAW OR FATHER –IN–LAW OF THE GOVERNOR ; 
  
-8 HOUSE BILL 932   
+  (6) A SON–IN–LAW OR DAUGHTER –IN–LAW OF THE GOVERNOR ; 
  
-    (II) DIVEST ANY INTEREST THE ETHICS COMM ISSION 1 
-DETERMINES IS NECESS ARY TO RESOLVE LIKEL Y OR POTENTIAL CONFL ICTS OF 2 
-INTEREST WITH THE GOVERNOR ’S PUBLIC DUTIES . 3 
+  (7) A GRANDPARENT OF THE  GOVERNOR OR THE GOVERNOR ’S 
+SPOUSE ; 
  
-  (2) FOR GOOD CAUSE SHOWN , THE ETHICS COMMISSION MAY 4 
-EXTEND THE DEADLINE TO COMPLETE THE ESTA BLISHMENT OF THE CER TIFIED 5 
-BLIND TRUST OR DIVESTITURE BY A REA SONABLE AMOUNT OF TI ME. 6 
+  (8) A GRANDCHILD OF THE GOVERNOR ; OR 
  
-  (3) THE ETHICS COMMISSION SHALL POST  ANY APPROVED 7 
-CERTIFIED BLIND TRUS T AND SUPPORTING DOC UMENTS ON ITS WEBSIT E. 8 
+  (9) EXCEPT FOR AN EMPLOY EE OF THE GOVERNOR , ANY INDIVIDUAL 
+WHO RESIDES IN THE GOVERNOR ’S PRIMARY RESIDENCE . 
  
- (C) (1) THE GOVERNOR SHALL APPOIN T AS THE TRUSTEE OF THE BLIND 9 
-TRUST A FINANCIAL IN STITUTION O R AN ORGANIZATION TH AT HAS A MINIMUM OF 2 10 
-YEARS OF EXPERIENCE IN TRUST MANAGEMENT ACTIVITIES .  11 
+ (B) (1) WITHIN 6 MONTHS AFTER TAKING THE OATH OF OFFICE T HE 
+GOVERNOR SHALL : 
  
-  (2) (I) EXCEPT AS PROVIDED IN  SUBPARAGRAPH (II) OF THIS 12 
-PARAGRAPH , THE GOVERNOR MAY NOT RECE IVE FROM A TRUSTEE A PPOINTED 13 
-UNDER PARAGRAPH (1) OF THIS SUBSECTIO N COMMUNICATIONS REG ARDING 14 
-MANAGEMENT OF OR INC OME FROM THE BLIND T RUST AS A TRUSTOR OR  15 
-BENEFICIARY OF THE B LIND TRUST AT ANY TI ME DURING THE GOVERNOR ’S TERM 16 
-OF OFFICE . 17 
+   (I) EXCEPT AS PROVIDED I N REGULATIONS ADOPTE D BY THE 
+ETHICS COMMISSION , PLACE ALL OF THE GOVE RNOR’S INTERESTS INTO A 
+CERTIFIED BLIND TRUS T APPROVED BY THE ETHICS COMMISSION AND OPERAT ED 
+IN ACCORDANCE WITH R EGULATIONS ADOPTED B Y THE ETHICS COMMISSION ; OR  
  
-   (II) THE GOVERNOR MAY RECEIVE FROM A TRUSTEE 18 
-APPOINTED UNDER PARA GRAPH (1) OF THIS SUBSECTION COMMUNICA TIONS 19 
-NECESSARY TO PREPARE  AND FILE THE GOVERNOR ’S PERSONAL INCOME TA X 20 
-RETURNS . 21 
+   (II) DIVEST ANY INTEREST THE ETHICS COMMISSION 
+DETERMINES IS NECESS ARY TO RESOLVE LIKEL Y OR POTENTIAL CONFLICT S OF 
+INTEREST WITH THE GOVERNOR ’S PUBLIC DUTIES . 
  
- (D) (1) THE GOVERNOR MAY NOT FAIL  TO INCLUDE ANY INTER EST IN A 22 
-BLIND TRUST WITHOUT THE WRITTEN APPROVAL  OF THE ETHICS COMMISSION . 23 
+  (2) FOR GOOD CAUSE SHOWN , THE ETHICS COMMISSION MAY 
+EXTEND THE DEADLINE TO COMPLETE THE ESTA BLISHMENT OF THE CER TIFIED 
+BLIND TRUST OR DIVES TITURE BY A REASONAB LE AMOUNT OF TIME . 
  
-  (2) FOR ANY INTEREST NOT INCLUDED IN A BLIND TRUST UNDER 24 
-PARAGRAPH (1) OF THIS SUBSECTION , INCLUDING AN INTERES T EXEMPTED UNDER 25 
-REGULATIONS ADOPTED BY THE ETHICS COMMISSION UNDER THIS  SECTION , THE 26 
-GOVERNOR SHALL ENTER INTO A NONPARTICIPAT ION AGREEMENT WITH T HE 27 
-ETHICS COMMISSION THAT PROHI BITS THE GOVERNOR FROM PARTICI PATING IN 28 
-ANY WAY IN A MATTER THAT INVOLVES THE IN TEREST , INCLUDING A MATTER 29 
-BEFORE THE BOARD OF PUBLIC WORKS .  30 
+  (3) THE ETHICS COMMISSION SHALL POST  ANY APPROVED 
+CERTIFIED BLIND TRUS T AND SUPPORTING DOC UMENTS ON ITS WEBSIT E. 
  
-  (3) NOTWITHSTANDING §§ 5–301 AND 5–303 OF THIS TITLE , THE 31 
-ETHICS COMMISSION SHALL : 32 
+ (C) (1) THE GOVERNOR SHALL APPOIN T AS THE TRUSTEE OF THE BLIND 
+TRUST A FINANCIAL IN STITUTION OR AN ORGA NIZATION THAT HAS A MINIMUM OF 2 
+YEARS OF  EXPERIENCE IN TRUST MANAGEMENT ACTIVITIE S.  
+Ch. 300  2025 LAWS OF MARYLAND   
  
-   (I) POST ON ITS WEBSITE ANY NONPARTICIPATION  33 
-AGREEMENT ENTERED IN TO WITH THE GOVERNOR ; AND 34 
+– 8 –  
+  (2) (I) EXCEPT AS PROVIDED IN  SUBPARAGRAPH (II) OF THIS 
+PARAGRAPH , THE GOVERNOR MAY NOT RECE IVE FROM A TRUSTEE A PPOINTED 
+UNDER PARAGRAPH (1) OF THIS SUBSECTION C OMMUNICATIONS REGARD ING 
+MANAGEMENT OF OR INC OME  FROM THE BLIND TRUST  AS A TRUSTOR OR 
+BENEFICIARY OF THE B LIND TRUST AT ANY TI ME DURING THE GOVERNOR ’S TERM 
+OF OFFICE . 
  
- HOUSE BILL 932  9 
+   (II) THE GOVERNOR MAY RECEIVE FROM A TRUSTEE 
+APPOINTED UNDER PARA GRAPH (1) OF THIS SUBSECTION C OMMUNICATIONS 
+NECESSARY TO PREPARE  AND  FILE THE GOVERNOR ’S PERSONAL INCOME TA X 
+RETURNS . 
  
-    (II) PROVIDE A COPY OF AN Y NONPARTICIPATION A GREEMENT 1 
-ENTERED INTO WITH TH E GOVERNOR TO : 2 
+ (D) (1) THE GOVERNOR MAY NOT FAIL  TO INCLUDE ANY INTER EST IN A 
+BLIND TRUST WITHOUT THE WRITTEN APPROVAL  OF THE ETHICS COMMISSION . 
  
-    1. THE PRESIDING OFFICE RS OF THE GENERAL 3 
-ASSEMBLY ; 4 
+  (2) FOR ANY INTEREST NOT INCLUDED IN A BLIND TRUST UNDER 
+PARAGRAPH (1) OF THIS SUBSECTION , INCLUDING AN INTERES T EXEMPTED UNDER 
+REGULATIONS ADOPTED BY THE ETHICS COMMISSION UNDER THIS  SECTION , THE 
+GOVERNOR SHALL ENTER INTO A NONPARTICIPAT ION AGREEMENT WITH T HE 
+ETHICS COMMISSION THAT PROHI BITS THE GOVERNOR FROM PARTICI PATING I N 
+ANY WAY IN A MATTER THAT INVOLVES THE IN TEREST , INCLUDING A MATTER 
+BEFORE THE BOARD OF PUBLIC WORKS .  
  
-    2. THE  JOINT ETHICS COMMITTEE ; AND 5 
+  (3) NOTWITHSTANDING §§ 5–301 AND 5–303 OF THIS TITLE , THE 
+ETHICS COMMISSION SHALL : 
  
-    3. THE EXECUTIVE SECRETARY AND THE GENERAL 6 
-COUNSEL OF THE BOARD OF PUBLIC WORKS . 7 
+   (I) POST ON ITS WEBSITE ANY NONPARTICIPATION  
+AGREEMENT ENTERED  INTO WITH THE GOVERNOR ; AND 
  
-  (4) BY JANUARY 31 EACH YEAR , THE GOVERNOR SHALL CERTIF Y TO 8 
-THE ETHICS COMMISSION IN A FORM REQUIRED BY THE ETHICS COMMISSION THAT 9 
-THE GOVE RNOR HAS : 10 
+   (II) PROVIDE A COPY OF AN Y NONPARTICIPATION A GREEMENT 
+ENTERED INTO WITH TH E GOVERNOR TO : 
  
-   (I) OBTAINED NO NEW INTE RESTS IN THE IMMEDIA TELY 11 
-PRECEDING YEAR THAT ARE NOT INCLUDED IN THE BLIND TRUST ; OR 12 
+    1. THE PRESIDING OFFICE RS OF THE GENERAL 
+ASSEMBLY ; 
  
-   (II) ENTERED INTO A NONPA RTICIPATION AGREEMEN T WITH 13 
-THE ETHICS COMMISSION FOR ANY NE W INTEREST OBTAINED IN THE IMMEDIATELY 14 
-PRECED ING YEAR THAT WAS NO T INCLUDED IN THE BL IND TRUST . 15 
+    2. THE JOINT ETHICS COMMITTEE ; AND 
  
- (E) (1) THIS SUBSECTION APPLI ES TO A BUSINESS ENT ITY THAT THE 16 
-GOVERNOR OR RESTRICTE D INDIVIDUAL , TOGETHER OR SEPARATE LY, HAS: 17 
+    3. THE EXECUTIVE SECRETARY AND TH E GENERAL 
+COUNSEL OF THE BOARD OF PUBLIC WORKS . 
  
-   (I) FOR A CORPORATION , 10%  OR MORE OF THE CAPIT AL 18 
-STOCK ; OR 19 
+ WES MOORE, Governor  Ch. 300  
  
-   (II) FOR A PARTNERSHIP , LIMITED LIABILITY PA RTNERSHIP , OR 20 
-LIMITED LIABILITY CO RPORATION , ANY INTEREST . 21 
+– 9 –   (4) BY JANUARY 31 EACH YEAR , THE GOVERNOR SHALL CERTIF Y TO 
+THE ETHICS COMMISSION IN A FORM REQUIRED BY THE ETHICS COMMISSION THAT 
+THE GOVERNOR HAS : 
  
-  (2) A BUSINESS ENTITY THAT  SEEKS TO OBTAIN A STATE GRANT , 22 
-COMPETITIVE AWARD , OR CONTRACT , INCLUDING A CONTRACT  FOR THE SALE OR 23 
-PURCHASE OF REAL OR PERSONAL PRO PERTY , SHALL REPORT TO THE ETHICS 24 
-COMMISSION IN A FORM REQUIRED BY THE ETHICS COMMISSION ANY INTERE ST 25 
-HELD IN THE BUSINESS  ENTITY BY THE GOVERNOR OR A RESTRIC TED INDIVIDUAL . 26 
+   (I) OBTAINED NO NEW INTE RESTS IN THE IMMEDIA TELY 
+PRECEDING YEAR THAT ARE NOT INCLUDED IN THE BLIND TRUST ; OR 
  
-  (3) THE ETHICS COMMISSION SHALL POST  ANY REPORT IT RECEIV ES 27 
-UNDER PARAGRAPH (2) OF THIS SUBSECTION O N ITS WEBSITE . 28 
+   (II) ENTERED INTO A NONPA RTICIPATION AGREEMEN T WITH 
+THE ETHICS COMMISSION FOR ANY NE W INTEREST OBTAINED IN THE IMMEDIATELY 
+PRECEDING YEAR THAT WAS NOT INCLUDED IN THE BLIND TRUST . 
  
- (F) (1) THE ETHICS COMMISSION MAY GRANT AN EXEMPTION TO THE 29 
-REQUIREMENT TO PLACE  AN INTEREST IN A BLI ND TRUST UNDER SUBSE CTION (B) 30 
-OF THIS SECTION .  31 
+ (E) (1) THIS SUBSECTION APPLIE S TO A BUSINESS ENTI TY THAT THE 
+GOVERNOR OR RESTRICTE D INDIVIDUAL , TOGETHER OR SEPARATE LY, HAS: 
  
-10 HOUSE BILL 932   
+   (I) FOR A CORPORATION , 10%  OR MORE OF THE CAPIT AL 
+STOCK ; OR 
  
-   (2) IN GRANTING AN EXEMPT ION UNDER PARAGRAPH (1) OF THIS 1 
-SUBSECTIO N, THE ETHICS COMMISSION MAY CONSID ER ISSUES IT DETERMI NES 2 
-APPROPRIATE TO PREVE NT CONFLICTS OF INTE REST , INCLUDING WHETHER TH E 3 
-INTEREST : 4 
+   (II) FOR A PARTNERSHIP , LIMITED LIABILITY PA RTNERSHIP , OR 
+LIMITED LIABIL ITY CORPORATION , ANY INTEREST . 
  
-   (I) INVOLVES A CLOSELY H ELD CORPORATION OR A  FAMILY 5 
-BUSINESS ; 6 
+  (2) A BUSINESS ENTITY THAT  SEEKS TO OBTAIN A STATE GRANT , 
+COMPETITIVE AWARD , OR CONTRACT , INCLUDING A CONTRACT  FOR THE SALE OR 
+PURCHASE OF REAL OR PERSONAL PROPERTY , SHALL REPORT TO THE ETHICS 
+COMMISSION IN A FORM REQUIRED  BY THE ETHICS COMMISSION ANY INTERE ST 
+HELD IN THE BUSINESS  ENTITY BY THE GOVERNOR OR A RESTRIC TED INDIVIDUAL . 
  
-   (II) IS READILY MARKETABL E; 7 
+  (3) THE ETHICS COMMISSION SHALL POST  ANY REPORT IT RECEIV ES 
+UNDER PARAGRAPH (2) OF THIS SUBSECTION O N ITS WEBSITE . 
  
-   (III) HAS AN IMPACT UNIQUE TO THE  GOVERNOR ; OR 8 
+ (F) (1) THE ETHICS COMMIS SION MAY GRANT AN EX EMPTION TO THE 
+REQUIREMENT TO PLACE  AN INTEREST IN A BLI ND TRUST UNDER SUBSE CTION (B) 
+OF THIS SECTION .  
  
-   (IV) IS SUBJECT TO ANY RE STRICTIONS OR ENCUMB RANCES . 9 
+  (2) IN GRANTING AN EXEMPT ION UNDER PARAGRAPH (1) OF THIS 
+SUBSECTION , THE ETHICS COMMISSION MAY CONSID ER ISSUES IT DETERMI NES 
+APPR OPRIATE TO PREVENT C ONFLICTS OF INTEREST , INCLUDING WHETHER TH E 
+INTEREST : 
  
- (G) IF THE ETHICS COMMISSION DETERMINES  THAT THE GOVERNOR HAS 10 
-VIOLATED A PROVISION  OF THIS SECTION , THE ETHICS COMMISSION MAY IMPOSE  A 11 
-FINE NOT EXCEEDING $5,000  FOR EACH VIOLATION . 12 
+   (I) INVOLVES A CLOSELY H ELD CORPORATION OR A  FAMILY 
+BUSINESS ; 
  
- (H) THE ETHICS COMMISSION SHALL ADOP T REGULATIONS TO CAR RY OUT 13 
-THIS SECTION , INCLUDING REGULATION S THAT ESTABLISH STA NDARDS AND 14 
-REQUIREMENTS FOR THE  TYPES OF INTERESTS T HAT MAY BE EXEMPTED FROM THE 15 
-REQUIREMENT TO PLACE  AN INTEREST IN A BLIND TRUST UNDER SU BSECTION (B) 16 
-OF THIS SECTION . 17 
+   (II) IS READILY MARKETABL E; 
  
-5–502. 18 
+   (III) HAS AN IMPACT UNIQUE  TO THE GOVERNOR ; OR 
+Ch. 300  2025 LAWS OF MARYLAND   
  
- (b) Except as provided in subsections (c) and (d) of this section, an official or 19 
-employee may not:  20 
+– 10 –  
+   (IV) IS SUBJECT TO ANY RE STRI CTIONS OR ENCUMBRANC ES. 
  
-  (1) be employed by or have a financial interest in:  21 
+ (G) IF THE ETHICS COMMISSION DETERMINES  THAT THE GOVERNOR HAS 
+VIOLATED A PROVISION  OF THIS SECTION , THE ETHICS COMMISSION MAY IMPOSE  A 
+FINE NOT EXCEEDING $5,000  FOR EACH VIOLATION . 
  
-   (i) an entity subject to the authority of that official or employee or 22 
-of the governmental unit with which the official or employee is affiliated; or  23 
+ (H) THE ETHICS COMMISSION SHALL ADOP T REGULATIONS TO CARRY  OUT 
+THIS SECTION , INCLUDING REGULATION S THAT ESTABLISH STA NDARDS AND 
+REQUIREMENTS FOR THE  TYPES OF INTERESTS T HAT MAY BE EXEMPTED FROM THE 
+REQUIREMENT TO PLACE  AN INTEREST IN A BLI ND TRUST UNDER SUBSE CTION (B) 
+OF THIS SECTION . 
  
-   (ii) an entity that is negotiating or has entered a contract with that 24 
-governmental unit or an entity that is a subcontractor on a contract with that governmental 25 
-unit; or  26 
+5–502. 
  
-  (2) hold any other employment relationship that would impair the 27 
-impartiality and independent judgment of the official or employee.  28 
+ (b) Except as provided in subsections (c) and (d) of this section, an official or 
+employee may not:  
  
- (c) The prohibitions of subsection (b) of this section do not apply:  29 
+  (1) be employed by or have a financial interest in:  
  
-  (1) to employment or a financial interest allowed by regulation of the 30 
-Ethics Commission if:  31 
+   (i) an entity subject to the authority of that official or employee or 
+of the governmental unit  with which the official or employee is affiliated; or  
  
- HOUSE BILL 932  11 
+   (ii) an entity that is negotiating or has entered a contract with that 
+governmental unit or an entity that is a subcontractor on a contract with that governmental 
+unit; or  
  
-    (i) the employment does not create a conflict of interest or the 1 
-appearance of a conflict of interest; or  2 
+  (2) hold any other emp loyment relationship that would impair the 
+impartiality and independent judgment of the official or employee.  
  
-   (ii) the financial interest is disclosed;  3 
+ (c) The prohibitions of subsection (b) of this section do not apply:  
  
-  (2) to a p ublic official who is appointed to a regulatory or licensing unit in 4 
-accordance with a statutory requirement that entities subject to the jurisdiction of the unit 5 
-be represented in appointments to it;  6 
+  (1) to employment or a financial interest allowed by regulation of the 
+Ethics Commission if:  
  
-  (3) as allowed by regulations adopted by the Ethics Commission, to an 7 
-employee whose government duties are ministerial, if the private employment or financial 8 
-interest does not create a conflict of interest or the appearance of a conflict of interest; or  9 
+   (i) the employment does not create a conflict of interest or the 
+appearance of a conflict of interest; or  
  
-  (4) to a member of a board who holds the employmen t or financial interest 10 
-when appointed if the employment or financial interest is disclosed publicly to the 11 
-appointing authority, the Ethics Commission, and, if applicable, the Senate of Maryland 12 
-before Senate confirmation.  13 
+   (ii) the financial interest is disclosed;  
  
-5–903. 14 
+  (2) to a public official who is appointed to a regulatory or licensing unit in 
+accordance with a statutory requirement that entities subject to the jurisdiction of the unit 
+be represented in appointments to it;  
  
- (a) (1) Except as prov ided in § 5 –716 of this title, a person that knowingly and 15 
-willfully violates Subtitle 7 of this title is guilty of a misdemeanor and on conviction is 16 
-subject to a fine not exceeding $10,000 or imprisonment not exceeding 1 year or both.  17 
+ WES MOORE, Governor  Ch. 300  
  
-  (2) A PERSON THAT KNOWINGL Y AND WILLFULLY VIOL ATES §  18 
-5–501.1( E) OF THIS TITLE IS GUI LTY OF A MISDEMEANOR  AND ON CONVICTION IS  19 
-SUBJECT TO A FINE NO T EXCEEDING $10,000  OR IMPRISONMENT NOT EXCEEDING 1 20 
-YEAR OR BOTH . 21 
+– 11 –   (3) as allowed by regulations adopted by the Ethics Commission, to an 
+employee whose government duties are ministerial, if the private employment or financial 
+interest does not create a conflict of interest or the appearance of a conflict of interest; or  
  
- (b) If the person is not an individual, each officer or partner who knowingly 22 
-authorizes or participates in a violation of § 5–501.1( E) OR Subtitle 7 of this title is guilty 23 
-of a misdemeanor and on conviction is subject to the penalty specified in subsection (a) of 24 
-this section.  25 
+  (4) to a member of a board who holds the employment or financial interest 
+when appointed if the employmen t or financial interest is disclosed publicly to the 
+appointing authority, the Ethics Commission, and, if applicable, the Senate of Maryland 
+before Senate confirmation.  
  
- (c) A fine assessed  under this section shall be distributed to the Fair Campaign 26 
-Financing Fund established under § 15 –103 of the Election Law Article.  27 
+5–903. 
  
-Article – State Finance and Procurement  28 
+ (a) (1) Except as provided in § 5 –716 of this title, a person that knowingly and 
+willfully violates Subtitle 7 of this title is guilty of a misdemeanor and on conviction is 
+subject to a fine not exceeding $10,000 or imprisonment not exceeding 1 year or both.  
  
-13–101. 29 
+  (2) A PERSON THAT KNOWINGL Y AND WILLFULLY VIOL ATES §  
+5–501.1( E) OF THI S TITLE IS GUILTY OF  A MISDEMEANOR AND ON  CONVICTION IS 
+SUBJECT TO A FINE NO T EXCEEDING $10,000  OR IMPRISONMENT NOT EXCEEDING 1 
+YEAR OR BOTH . 
  
- (a) In this subtitle the following words have the meanings indicated.  30 
+ (b) If the person is not an individual, each officer or partner who knowingly 
+authorizes or participates in a vi olation of § 5–501.1( E) OR Subtitle 7 of this title is guilty 
+of a misdemeanor and on conviction is subject to the penalty specified in subsection (a) of 
+this section.  
  
- (c) “eMaryland Marketplace” or “eMaryland Marketplace Advantage” means the 31 
-Internet –based procurement system managed by the Department of General Services.  32 
+ (c) A fine assessed under this section shall be distributed to the Fair Campaign 
+Finan cing Fund established under § 15 –103 of the Election Law Article.  
  
-12 HOUSE BILL 932   
+Article – State Finance and Procurement  
  
- Subtitle 5. eMaryland Marketplace [ – Use by Certain Persons ]. 1 
+13–101. 
  
-17–501. 2 
+ (a) In this subtitle the following words have the meanings indicated.  
  
- (a) In this subtitle the following words have the meanings indicated.  3 
+ (c) “eMaryland Marketplace” or “eMaryland Marketplace Advantage” m eans the 
+Internet –based procurement system managed by the Department of General Services.  
  
- (b) “eMaryland Marketplace” has the meaning stated in § 13 –101 of this article.  4 
+Subtitle 5. eMaryland Marketplace [ – Use by Certain Persons ]. 
  
- (c) “Procurement” means procurement by competitive sealed bidding, competitive 5 
-sealed proposals, or noncompetitive negotiation.  6 
+17–501. 
  
-17–503. 7 
+ (a) In this subtitle the following words have the meanings indicated.  
  
- (A) IN THIS SECTION , “RESTRICTED INDIVIDUA L” HAS THE MEANING 8 
-STATED IN § 5–501.1  OF THE GENERAL PROVISIONS ARTICLE . 9 
+ (b) “eMaryland Marketplace” has the meaning stated in § 13 –101 of this article.  
  
- (B) THE DEPARTMENT OF GENERAL SERVICES SHALL INCLUD E WITH EACH 10 
-NOTICE OF A PROCUREM ENT PUBLISHED ON E MARYLAND MARKETPLACE ON OR 11 
-AFTER OCTOBER 1, 2025,  A CHECK –OFF BOX TO INDICATE AN OWNERSHIP INTERES T 12 
-BY THE GOVERNOR OR A RESTRIC TED INDIVIDUAL IN TH E BIDDER OR OFFEROR AS 13 
-REPORTED UNDER § 5–501.1  OF THE GENERAL PROVISIONS ARTICLE . 14 
+Ch. 300  2025 LAWS OF MARYLAND   
  
-Article – State Government  15 
+– 12 –  (c) “Procurement” means procurement by competitive sealed bidding, competitive 
+sealed proposals, or noncompetitive negotiation.  
  
-3–204. 16 
+17–503. 
  
- (a) To info rm career civil servants about program goals and new policies and to 17 
-establish communication with the administration of the incumbent Governor, the 18 
-Governor –elect may circulate questionnaires or otherwise obtain information from the 19 
-administration.  20 
+ (A) IN THIS SECTION , “RESTRICTED INDIVIDUA L” HAS T HE MEANING 
+STATED IN § 5–501.1  OF THE GENERAL PROVISIONS ARTICLE . 
  
- (b) The Governor –elect may ask any question that will help to carry out the 21 
-purpose of this subtitle, including a question that is intended to obtain:  22 
+ (B) THE DEPARTMENT OF GENERAL SERVICES SHALL INCLUD E WITH EACH 
+NOTICE OF A PROCUREM ENT PUBLISHED ON E MARYLAND MARKETPLACE ON OR 
+AFTER OCTOBER 1, 2025,  A CHECK –OFF BOX TO INDICATE AN OWNERS HIP INTEREST 
+BY THE GOVERNOR OR A RESTRIC TED INDIVIDUAL IN TH E BIDDER OR OFFEROR AS 
+REPORTED UNDER § 5–501.1  OF THE GENERAL PROVISIONS ARTICLE . 
  
-  (1) a description of a program;  23 
+Article – State Government  
  
-  (2) a recommendation and justification for expansion, limitation, or 24 
-elimination of a service;  25 
+3–204. 
  
-  (3) a projection of future developments or needs in a program;  26 
+ (a) To inform career civil servants about program goals and new policies a nd to 
+establish communication with the administration of the incumbent Governor, the 
+Governor –elect may circulate questionnaires or otherwise obtain information from the 
+administration.  
  
-  (4) a recommendation for an administrative change;  27 
+ (b) The Governor –elect may ask any question that will help to carry out the 
+purpose of this subtitle, including a question that is intended to obtain:  
  
-  (5) a comment on anticipated federal developments that might affect a 28 
-program or the State budget; or  29 
+  (1) a description of a program;  
  
- HOUSE BILL 932  13 
+  (2) a recommendation and justification for expansion, limitation, or 
+elimination of a service;  
  
-   (6) an elaboration of procedural details.  1 
+  (3) a projection of future developmen ts or needs in a program;  
  
- (c) The incumbent Governor shall direct that all official documents, vital 2 
-information, and procedural manuals are to be made available to the Governor –elect.  3 
+  (4) a recommendation for an administrative change;  
  
- (D) THE GOVERNOR –ELECT SHALL CONSULT WITH THE STATE ETHICS 4 
-COMMISSION TO BEGIN T HE PROCESS OF ESTABL ISHING A CERTIFIED B LIND TRUST  5 
-OR DIVESTING OF PRIV ATE INTERESTS IN ACC ORDANCE WITH § 5–501.1  OF THE 6 
-GENERAL PROVISIONS ARTICLE .  7 
+  (5) a comment on anticipated federal developments that might affect a 
+program or the State budget; or  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That, on or before July 1, 2026, the 8 
-State Ethics Commission shall review and update its regulations governing blind trusts 9 
-and restrictions on employment, financial interests, and participation in State matters.  10 
+  (6) an elaboration of procedural details.  
  
- SECTION 3. AND BE IT FURTHER ENACTED, That:  11 
+ (c) The incumbent Governor shall direct that all official documents, vital 
+information, and procedural manuals are to be made available to the Governor –elect.  
  
-  (1) the requirements of Section  1 of this Act shall apply to the Governor 12 
-beginning on the effective date of the regulations required under Section 2 of this Act; and  13 
+ (D) THE GOVERNOR –ELECT SHALL CONSULT WITH THE STATE ETHICS 
+COMMISSION TO BEGIN T HE PROCESS OF ESTABL ISHING A CERT IFIED BLIND TRUST  
+ WES MOORE, Governor  Ch. 300  
  
-  (2) the Governor shall comply with the requirements of Section 1 of this 14 
-Act within 6 months after the effective date  of the regulations required under Section 2 of 15 
-this Act.  16 
+– 13 – OR DIVESTING OF PRIV ATE INTERESTS IN ACC ORDANCE WITH § 5–501.1  OF THE 
+GENERAL PROVISIONS ARTICLE .  
  
- SECTION 4. AND BE IT FURTHER ENACTED, That this Act shall take effect 17 
-October 1, 2025.  18 
+ SECTION 2. AND BE IT FURTHER ENACTED, That, on or before July 1, 2026, the 
+State Ethics Commission shall review and update its regulation s governing blind trusts 
+and restrictions on employment, financial interests, and participation in State matters.  
  
+ SECTION 3. AND BE IT FURTHER ENACTED, That:  
  
+  (1) the requirements of Section 1 of this Act shall apply to the Governor 
+beginning on the e ffective date of the regulations required under Section 2 of this Act; and  
  
+  (2) the Governor shall comply with the requirements of Section 1 of this 
+Act within 6 months after the effective date of the regulations required under Section 2 of 
+this Act.  
  
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+ SECTION 4. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
+ 
+Approved by the Governor, May 6, 2025.  

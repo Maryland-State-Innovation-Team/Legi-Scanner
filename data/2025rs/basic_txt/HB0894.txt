@@ -1,230 +1,215 @@
+ WES MOORE, Governor  Ch. 551  
  
+– 1 – Chapter 551  
+(House Bill 894 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0894*      
-HOUSE BILL 894  
-M1   5lr3073  
-    CF SB 946  
-By: Delegates Jacobs, Arentz, Arikan, Ghrist, Hutchinson, T.  Morgan, Nawrocki, 
-Otto, Schmidt, Szeliga, Valentine, and Wivell  Wivell, Behler, Boyce, and 
-Stewart  
-Introduced and read first time: January 30, 2025  
-Assigned to: Environment and Transportation  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: February 25, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Endangered and Threatened Species – Incidental Taking – Bats  
  
-AN ACT concerning  1 
+FOR the purpose of authorizing the Secretary of Natural Resources to  issue an incidental 
+taking permit for certain species of bats if an applicant submits a certain plan and 
+the Secretary makes certain findings; and generally relating to the establishment of 
+an incidental taking permit for certain species of bats.  
  
-Endangered and Threatened Species – Incidental Taking – Bats  2 
+BY re pealing and reenacting, with amendments,  
+ Article – Natural Resources  
+Section 10 –2A–05 
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of authorizing the Secretary of Natural Resources to issue an incidental 3 
-taking permit for certain species of bats if an applicant submits a certain plan and 4 
-the Secretary makes certain findings; and generally relating to the establishment of 5 
-an incidental taking permit for certain species of bats.  6 
+BY repealing and reenacting, without amendments,  
+ Article – Natural Resources  
+Section 10–2A–05.2 
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  7 
- Article – Natural Resources  8 
-Section 10 –2A–05 9 
- Annotated  Code of Maryland  10 
- (2023 Replacement Volume and 2024 Supplement)  11 
+BY adding to  
+ Article – Natural Resources  
+Section 10 –2A–05.3 
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  12 
- Article – Natural Resources  13 
-Section 10 –2A–05.2 14 
- Annotated Code of Maryland  15 
- (2023 Replacement Volume and 2024 Supplement)  16 
+ SECTION 1. BE IT ENACTED BY THE  GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY adding to  17 
- Article – Natural Resources  18 
-Section 10 –2A–05.3 19 
- Annotated Code of Maryland  20 
-2 HOUSE BILL 894   
+Article – Natural Resources  
  
-  (2023 Replacement Volume and 2024 Supplement)  1 
+10–2A–05. 
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 2 
-That the Laws of Maryland read as follows:  3 
+ (a) (1) Except with respect to species of wildlife or plants determined to be 
+endangered or threatened pursuant to the Endangered Species Ac t, the Secretary, upon the 
+petition of an interested person that meets the requirements of paragraph (2) of this 
+subsection, shall conduct a review of any listed or unlisted species proposed to be removed 
+from or added to the lists published pursuant to § 10–2A–04(f) of this subtitle, if the 
+Secretary publishes public notice that the person has presented substantial evidence which 
+warrants a review.  
  
-Article – Natural Resource s 4 
+Ch. 551  2025 LAWS OF MARYLAND   
  
-10–2A–05. 5 
+– 2 –   (2) A petition submitted by an interested person under paragraph (1) of 
+this subsection shall include:  
  
- (a) (1) Except with respect to species of wildlife or plants determined to be 6 
-endangered or threatened pursuant to the Endangered Species Act, the Secretary, upon the 7 
-petition of an interested person that meets the requirements of paragraph (2) of this 8 
-subsection, shall conduct a review of any listed or unlisted species proposed to be removed 9 
-from or added to the lists published pursuant to § 10 –2A–04(f) of this subtitle, if the 10 
-Secretary publishes public notice that the person has presented substantial evidence which 11 
-warrants a review.  12 
+   (i) A description of the biological distribution of the species in the 
+State;  
  
-  (2) A petition submitted by an interested person under paragraph (1) of 13 
-this subsection shall include:  14 
+   (ii) The life needs and habitat requirements of the species;  
  
-   (i) A description of the biological distribution of the species in the 15 
-State;  16 
+   (iii) Evidence:  
  
-   (ii) The life need s and habitat requirements of the species;  17 
+    1. Of the species’ decline, if the species is an unlisted species; 
+or 
  
-   (iii) Evidence:  18 
+    2. That the species is more common than previously believed 
+and documented, if the species is a listed species;  
  
-    1. Of the species’ decline, if the species is an unlisted species; 19 
-or 20 
+   (iv) All known threats that jeopardize the continued existence of the 
+species;  
  
-    2. That the species is more common than previously believed 21 
-and documented, if the species is a listed species;  22 
+   (v) Any other relevant biological and ecological data or other life 
+history information pertinent to the status of the species;  
  
-   (iv) All known threats that jeopardize the continued existence of the 23 
-species;  24 
+   (vi) Evidence that the species is recognized as a valid species, or 
+infraspecific taxa of regional or national significance; and  
  
-   (v) Any other relevant biological and ecological data or other life 25 
-history information pertinent to the status of the species;  26 
+   (vii) Adequate documentation that the species occurs natural ly and is 
+permanently established in the State.  
  
-   (vi) Evidence that the species is reco gnized as a valid species, or 27 
-infraspecific taxa of regional or national significance; and  28 
+ (b) (1) When any species of wildlife or plant is listed as a threatened species 
+pursuant to § 10 –2A–04(f) of this subtitle, the Secretary shall adopt regulations necessary 
+and advisable to provide for the c onservation of the species.  
  
-   (vii) Adequate documentation that the species occurs naturally and is 29 
-permanently established in the State.  30 
+  (2) The Secretary, by regulations, may prohibit with respect to any 
+threatened species of wildlife or plant any act prohibited under subsection (c) of this section.  
  
- HOUSE BILL 894  3 
+ (c) Except as provided in subsection (f) of this section a nd [§ 10–2A–05.1] §§  
+10–2A–05.1, 10–2A–05.2,  AND 10–2A–05.3  of this subtitle, with respect to any 
+endangered species of wildlife, a person may not:  
  
-  (b) (1) When any species of wildlife or plant is li sted as a threatened species 1 
-pursuant to § 10 –2A–04(f) of this subtitle, the Secretary shall adopt regulations necessary 2 
-and advisable to provide for the conservation of the species.  3 
+  (1) Export the species from the State;  
  
-  (2) The Secretary, by regulations, may prohibit with respect to any 4 
-threatened species of wildlife or plant any act prohibited under subsection (c) of this section.  5 
+  (2) Take the species within the State;  
  
- (c) Except as provided in subsection (f) of this section and [§ 10–2A–05.1] §§  6 
-10–2A–05.1, 10–2A–05.2,  AND 10–2A–05.3  of this subtitle, with respect to any 7 
-endangered species of wildlife, a person may not:  8 
+  (3) Possess, process, sell or offer for sale, deliver, carry, transport, or ship 
+the species by any means; or  
  
-  (1) Export the species from the State;  9 
+ WES MOORE, Governor  Ch. 551  
  
-  (2) Take the species within the State;  10 
+– 3 –   (4) Violate any regulation pertaining to the conservation of the species or 
+to any threatened species of wildlife listed pursuant to this subsection and ado pted by the 
+Secretary pursuant to authority provided by this section.  
  
-  (3) Possess, process, sell or offer for sale, deliver, carry, transport, or ship 11 
-the species by any means; or  12 
+ (d) Except as provided in subsection (f) of this section, with respect to any 
+endangered species of plant, a person may not:  
  
-  (4) Violate any regulation pertaining to the conservation of the species or 13 
-to any threatened species of wildlife listed pursuant to this subsection and adopted by the 14 
-Secretary pursuant to authority provided by this section.  15 
+  (1) Export the species from the State;  
  
- (d) Except as provided in subsec tion (f) of this section, with respect to any 16 
-endangered species of plant, a person may not:  17 
+  (2) Possess, p rocess, sell, offer for sale, deliver, carry, transport, or ship the 
+species by any means; or  
  
-  (1) Export the species from the State;  18 
+  (3) Violate any regulation pertaining to the species or to any threatened 
+species of plant listed pursuant to § 10 –2A–04(f) of this subtitle and adopted by the  
+Secretary.  
  
-  (2) Possess, process, sell, offer for sale, deliver, carry, transport, or ship the 19 
-species by any means; or  20 
+ (e) Any endangered species of wildlife or plant which enters the State from 
+another state or from a point outside the territorial limits of the United States and which 
+is transported to a point within or beyond the State may enter and be tran sported without 
+restriction in accordance with the terms of any federal permit or permit issued under the 
+laws or regulations of another state.  
  
-  (3) Violate any regulation pertaining to the species or to any threatened 21 
-species of plant listed pursuant to § 10 –2A–04(f) of this subtitle and adopted by the 22 
-Secretary.  23 
+ (f) The Secretary may permit, under the terms and conditions that the Secretary 
+prescribes, any act otherwise prohibited by subsections (c) and (d) of this section for 
+scientific purposes or to enhance the propagation or survival of the affected species.  
  
- (e) Any endangered species of wildlife or plant which enters the State from 24 
-another sta te or from a point outside the territorial limits of the United States and which 25 
-is transported to a point within or beyond the State may enter and be transported without 26 
-restriction in accordance with the terms of any federal permit or permit issued under  the 27 
-laws or regulations of another state.  28 
+10–2A–05.2.  
  
- (f) The Secretary may permit, under the terms and conditions that the Secretary 29 
-prescribes, any act otherwise prohibited by subsections (c) and (d) of this section for 30 
-scientific purposes or to enhance the propa gation or survival of the affected species.  31 
+ (a) The Secretary may issue a permit to an applicant that authorizes an 
+incidental taking of th e endangered Delmarva fox squirrel if:  
  
-10–2A–05.2.  32 
+  (1) The applicant submits a conservation plan to the Department that 
+specifies:  
  
-4 HOUSE BILL 894   
+   (i) The impact that will likely result from the incidental taking;  
  
-  (a) The Secretary may issue a permit to an applicant that authorizes an 1 
-incidental taking of the endangered Delmarva fox squirrel if:  2 
+   (ii) The steps that the applicant will take to minimize and  mitigate 
+the impact;  
  
-  (1) The applicant submits a conservation plan to the Depart ment that 3 
-specifies:  4 
+   (iii) The funding that will be available to implement the steps;  
  
-   (i) The impact that will likely result from the incidental taking;  5 
+   (iv) The alternative actions to the incidental taking that the 
+applicant considered and the reasons that the alternatives were not used; and  
  
-   (ii) The steps that the applicant will take to minimize and mitigate 6 
-the impact;  7 
+   (v) Any other me asures that the Secretary requires as being 
+necessary or appropriate for the purposes of the plan; and  
+Ch. 551  2025 LAWS OF MARYLAND   
  
-   (iii) The funding that will be available to implement the steps;  8 
+– 4 –  
+  (2) The Secretary finds that:  
  
-   (iv) The alternative actions to the incidental taking that the 9 
-applicant considered and the reasons that the alternatives were not used; and  10 
+   (i) The incidental taking will not appreciably reduce the likelihood 
+of the survival or recovery of the Delmarva fox  squirrel in the wild;  
  
-   (v) Any other measures that the Secretary requires as being 11 
-necessary or appropriate for the purposes of the plan; an d 12 
+   (ii) The applicant will, to the extent practicable, minimize and 
+mitigate the impacts of the incidental taking;  
  
-  (2) The Secretary finds that:  13 
+   (iii) Adequate funding for the conservation plan is available and the 
+plan will be implemented; and  
  
-   (i) The incidental taking will not appreciably reduce the likelihood 14 
-of the survival or recovery of the Delmarva fox squirrel in the wild;  15 
+   (iv) The applicant has obtained the required federal authorization for 
+the incidental taking of the Delmarva fox squirrel.  
  
-   (ii) The applicant will, to the extent practicable, minimize and 16 
-mitigate the impacts of the incidental taking;  17 
+ (b) The Secretary may adopt regulations to implement and enforce this section.  
  
-   (iii) Adequate funding for the conservation plan is available and the 18 
-plan will be implemented; and  19 
+10–2A–05.3.   
  
-   (iv) The applicant has obtained the required federal authorization for 20 
-the incidental taking of the Delmarva f ox squirrel.  21 
+ (A) THE SECRETARY MAY ISSUE A  PERMIT TO AN AP PLICANT THAT 
+AUTHORIZES AN INCIDE NTAL TAKING OF THE INDIANA BAT , THE NORTHERN  
+LONG–EARED BAT , AND THE TRICOLOR BAT  THE TRICOLORED BAT , OR THE EASTERN 
+SMALL–FOOTED BAT  IF: 
  
- (b) The Secretary may adopt regulations to implement and enforce this section.  22 
+  (1) THE APPLICANT SUBMITS  A CONSERVATION PLAN TO THE 
+DEPARTMENT THAT SPECI FIES: 
  
-10–2A–05.3.   23 
+   (I) THE IMPACT THAT WILL LIKELY RESULT FROM T HE 
+INCIDENTAL TAKING ; 
  
- (A) THE SECRETARY MAY ISSUE A  PERMIT TO AN APPLICA NT THAT 24 
-AUTHORIZES AN INCIDE NTAL TAKING OF THE INDIANA BAT , THE NORTHERN  25 
-LONG–EARED BAT , AND TH E TRICOLOR BAT  THE TRICOLORED BAT , OR THE EASTERN 26 
-SMALL–FOOTED BAT  IF: 27 
+   (II) THE STEPS THAT THE AP PLICANT WILL TAKE TO  MINIMIZE 
+AND MITIGATE THE IMP ACT; 
  
-  (1) THE APPLICANT SUBMITS  A CONSERVATION PLAN TO THE 28 
-DEPARTMENT THAT SPECI FIES: 29 
+   (III) THE FUNDING THAT WILL  BE AVAILABLE TO IMPL EMENT 
+THE STEPS ; 
  
- HOUSE BILL 894  5 
+   (IV) THE ALTERNATIVE ACTIO NS TO THE INCIDENTAL TA KING 
+THAT THE APPLICANT C ONSIDERED AND THE RE ASONS THAT THE ALTER NATIVES 
+WERE NOT USED ; AND 
  
-    (I) THE IMPACT THAT WILL LIKELY RESULT FROM T HE 1 
-INCIDENTAL TAKING ; 2 
+   (V) ANY OTHER MEASURES TH AT THE SECRETARY REQUIRES 
+AS BEING NECESSARY O R APPROPRIATE FOR TH E PURPOSES OF THE PL AN; AND 
  
-   (II) THE STEPS THAT THE APPLICANT WILL TAKE TO MINIMIZE 3 
-AND MITIGATE THE IMP ACT; 4 
+  (2) THE SECRETARY  FINDS THAT : 
+ WES MOORE, Governor  Ch. 551  
  
-   (III) THE FUNDING THAT WILL  BE AVAILABLE TO IMPL EMENT 5 
-THE STEPS ; 6 
+– 5 –  
+   (I) THE INCIDENTAL TAKING  WILL NOT APPRECIABLY  REDUCE 
+THE LIKELIHOOD OF TH E SURVIVAL OR RECOVE RY OF THE INDIANA BAT , THE 
+NORTHERN LONG –EARED BAT , AND THE TRICOLOR BAT  THE TRICOLORED BAT , OR 
+THE EASTERN SMALL –FOOTED BAT  IN THE WILD ; 
  
-   (IV) THE ALTERNATIVE ACTIO NS TO THE INCIDENTAL  TAKING 7 
-THAT THE APPLICANT C ONSIDERED AND THE RE ASONS THAT THE ALTER NATIVES 8 
-WERE  NOT USED ; AND 9 
+   (II) THE APPLICANT WILL , TO THE EXTENT PRACTI CABLE , 
+MINIMIZE AND MITIGAT E THE IMPACTS OF THE  INCIDENTAL TAKING ; 
  
-   (V) ANY OTHER MEASURES TH AT THE SECRETARY REQUIRES 10 
-AS BEING NECESSARY O R APPROPRIATE FOR TH E PURPOSES OF THE PL AN; AND 11 
+   (III) ADEQUATE FUNDING FOR THE CONSERVATION PLA N IS 
+AVAILABLE AND THE PL AN WILL BE IMPLEMENT ED; AND 
  
-  (2) THE SECRETARY FINDS THAT : 12 
+   (IV) THE APPLICANT HAS OBT AINED THE REQ UIRED FEDERAL 
+AUTHORIZATION FOR TH E INCIDENTAL TAKING OF THE INDIANA BAT , THE 
+NORTHERN LONG –EARED BAT , AND THE TRICOLOR BAT  THE TRICOLORED BAT , OR 
+THE EASTERN SMALL –FOOTED BAT . 
  
-   (I) THE INCIDENTAL TAKING  WILL NOT APPRECIABLY  REDUCE 13 
-THE LIKELIHOOD OF TH E SURVIVAL OR RECOVE RY OF THE INDIANA BAT , THE 14 
-NORTHERN LONG –EARED BAT , AND THE TRICOLOR BAT  THE TRICOLORED BAT , OR 15 
-THE EASTERN SMALL –FOOTED BAT  IN THE WILD ; 16 
+ (B) THE SECRETARY MAY ADOPT R EGULATIONS TO IMPLEM ENT AND 
+ENFORCE THIS SECTION . 
  
-   (II) THE APPLICANT WILL , TO THE EXTENT PRACTI CABLE , 17 
-MINIMIZE AND MITIGAT E THE IMPACTS OF THE  INCIDENTAL TAKING ; 18 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
-   (III) ADEQUATE FUNDING FOR THE CONSERVATION PLA N IS 19 
-AVAILABLE AND THE PL AN WILL BE IMPLEMENT ED; AND 20 
- 
-   (IV) THE APPLICANT HAS OBT AINED THE REQUIRED F EDERAL 21 
-AUTHORIZATION FOR TH E INCIDENTAL TAKING OF THE INDIANA BAT , THE 22 
-NORTHERN LONG –EARED BAT , AND THE TRICOLOR BAT  THE TRICOLORED BAT , OR 23 
-THE EASTERN SMALL –FOOTED BAT . 24 
- 
- (B) THE SECRETARY MAY ADOPT R EGULATIONS TO IMPLEMENT AND 25 
-ENFORCE THIS SECTION . 26 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 27 
-October 1, 2025.  28 
- 
+Approved by the Governor, May 13, 2025.  

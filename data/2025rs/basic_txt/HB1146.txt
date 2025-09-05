@@ -1,232 +1,202 @@
+ WES MOORE, Governor  Ch. 659  
  
+– 1 – Chapter 659  
+(House Bill 1146 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.  
-         Italics indicate opposite chamber/conference committee amendments.             *hb1146*      
-HOUSE BILL 1146  
-J1   (5lr2608 ) 
-ENROLLED BILL  
-— Health and Government Operations/Finance  — 
-Introduced by Delegate White  Holland  Delegates White  Holland, Pena –Melnyk, 
-Cullison, Alston, Bagnall, Bhandari, Chisholm, Guzzone, Hill, Hutchinson, 
-S. Johnson, Kaiser, Kerr, Kipke, Lopez, Martinez, M.  Morgan, Reilly, 
-Rosenberg, Szeliga, Woods, Woorman, and Ross  
+AN ACT concerning  
  
-Read and Examined by Proofreaders:  
+Maryland Behavioral Health Crisis Response System – Integration of 9 –8–8 
+Suicide and Crisis Lifeline Network and Outcome Evaluations  
  
-_____________________________ __________________  
-Proofreader.  
-_______________________________________________  
-Proofreader.  
+FOR the purpose of requiring the Maryland Behavioral Health Crisis Response System to 
+have a State 9 –8–8 Suicide and Crisis Lifeline, rather than a crisis communication 
+center, in each jurisdiction;  requiring each crisis communication center  State 9–8–8 
+Suicide and Crisis Lifeline  in the Maryland Behavioral Health Crisis Response  
+System to coordinate with the national  9–8–8 Suicide and Crisis Lifeline Network to 
+provide certain support services; altering the evaluation of outcome of services the 
+System is required to include; and generally relating to the Maryland Behavioral 
+Health Crisis Response System.  
  
-Sealed with the Great Seal and presented to the Governor, for his approval this  
-  
-_______ day of _______________ at ________________________ o’clock, ________M.  
-  
-______________________________________________  
-Speaker .  
+BY repealing and reenacting, with amendments,  
+ Article – Health – General  
+Section 10 –1403  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-CHAPTER ______  
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-AN ACT concerning  1 
+Article – Health – General  
  
-Maryland Behavioral Health Crisis Response System – Integration of 9 –8–8 2 
-Suicide and Crisis Lifeline Network and Outcome Evaluations  3 
+10–1403.  
  
-FOR the purpose of requiring the Maryland Behavioral Health Crisis Response System to 4 
-have a State 9 –8–8 Suicide and Crisis Lifeline, rather than a crisis communication 5 
-center, in each jurisdiction;  requiring each crisis communication center  State 9 –8–8 6 
-Suicide and Crisis Li feline  in the Maryland Behavioral Health Crisis Response  7 
-System to coordinate with the national  9–8–8 Suicide and Crisis Lifeline Network to 8 
-provide certain support services; altering the evaluation of outcome of services the 9 
-System is required to include;  and generally relating to the Maryland Behavioral 10 
-Health Crisis Response System.  11 
+ (a) The Crisis Response System shall include:  
  
-2 HOUSE BILL 1146   
+  (1) A crisis communication cente r STATE 9–8–8 SUICIDE AND CRISIS 
+LIFELINE  in each jurisdiction or region to [provide ]: 
  
- BY repealing and reenacting, with amendments,  1 
- Article – Health – General  2 
-Section 10 –1403  3 
- Annotated Code of Maryland  4 
- (2023 Replacement Volume and 2024 Supplement)  5 
+   (i) [A] PROVIDE A  single point of entry to the Crisis Response 
+System;  
  
- SECT ION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 6 
-That the Laws of Maryland read as follows:  7 
+   (ii) [Coordination ] COORDINATE WITH THE NATIONAL  9–8–8 
+SUICIDE AND CRISIS LIFELINE TO PROVIDE T HE FULL RANGE OF SER VICES 
+PROVIDED BY THE NATIONAL  9–8–8 SUICIDE AND CRISIS LIFELINE , INCLUDING :  
  
-Article – Health – General  8 
+    1. SUPPORTIVE COUNSELING ;  
  
-10–1403.  9 
+    2. SUICIDE PREVENTION ;  
+Ch. 659  2025 LAWS OF MARYLAND   
  
- (a) The Crisis Response System shall include:  10 
+– 2 –  
+    3. CRISIS INTERVENTION ; AND  
  
-  (1) A crisis communication center  STATE 9–8–8 SUICIDE AND CRISIS 11 
-LIFELINE  in each jurisdiction or region to [provide ]: 12 
+    4. REFERRALS TO ADDITION AL RESOURCES ; AND 
  
-   (i) [A] PROVIDE A  single point of entry to the Crisis Response 13 
-System;  14 
+    5. DIRECT DISPATCH OR WA RM HAND –OFFS TO MOBILE 
+CRISIS RESPONSE AND STABILIZATION SERVIC ES AND OTHER IMMEDIA TE SERVICES 
+AS NEEDED ; 
  
-   (ii) [Coordination ] COORDINATE WITH THE NATIONAL  9–8–8 15 
-SUICIDE AND CRISIS LIFELINE TO PROVIDE T HE FULL RANGE OF SER VICES 16 
-PROVIDED BY THE NATIONAL  9–8–8 SUICIDE AND CRISIS LIFELINE , INCLUDING :  17 
+   (III) COORDINATE  with the local core service agency or local 
+behavioral health  authority, police, 3 –1–1, 2–1–1, or other local mental health hotlines, 
+emergency medical service personnel, and behavioral health providers; and  
  
-    1. SUPPORTIVE COUNSELING ;  18 
+   [(iii)] (IV) [Programs ] PROVIDE OTHER PROGRAM S that may 
+include:  
  
-    2. SUICIDE PREVENTION ;  19 
+    1. A clinical crisis telephone line  for suicide prevention and 
+crisis intervention;  
  
-    3. CRISIS INTERVENTION ; AND  20 
+    2. A hotline for behavioral health information, referral, and 
+assistance;  
  
-    4. REFERRALS TO ADDITION AL RESOURCES ; AND 21 
+    3. Clinical crisis walk –in services, including:  
  
-    5. DIRECT DISPATCH OR WA RM HAND –OFFS TO MOBILE 22 
-CRISIS RESPONSE AND STABILIZATION SERVIC ES AND OTHER IMMEDIA TE SERVICES 23 
-AS NEEDED ; 24 
+    A. Triage for initial assessment;  
  
-   (III) COORDINATE  with the local core service agency or local 25 
-behavioral health  authority, police, 3 –1–1, 2–1–1, or other local mental health hotlines, 26 
-emergency medical service personnel, and behavioral health providers; and  27 
+    B. Crisis stabilization until additional services are available;  
  
-   [(iii)] (IV) [Programs ] PROVIDE OTHER PROGRAM S that may 28 
-include:  29 
+    C. Linkage to treatment services and family and peer support 
+groups; and  
  
- HOUSE BILL 1146  3 
+    D. Linkage to other health and human services programs;  
  
-     1. A clinical crisis telephone line  for suicide prevention and 1 
-crisis intervention;  2 
+    4. Critical incident stress management teams, providing 
+disaster behavioral h ealth services, critical incident stress management, and an on –call 
+system for these services;  
  
-    2. A hotline for behavioral health information, referral, and 3 
-assistance;  4 
+    5. Crisis residential beds to serve as an alternative to 
+hospitalization;  
  
-    3. Clinical crisis walk –in services, including:  5 
+    6. A community crisis bed and hospital bed registry, 
+including a daily tally of empty beds;  
  
-    A. Triage for initial assessment;  6 
+    7. Transportation coordination, ensuring transportation of 
+patients to urgent appointments or to emergency psychiatric facilities;  
+ WES MOORE, Governor  Ch. 659  
  
-    B. Crisis stabilization until additional services are available;  7 
+– 3 –  
+    8. Mobile crisis teams;  
  
-    C. Linkage to treatment services and family and peer support 8 
-groups; and  9 
+    9. 23–hour holding beds;  
  
-    D. Linkage to other health and human services programs;  10 
+    10. Emergency psychiatric services;  
  
-    4. Critical incident stress management teams, providing 11 
-disaster behavioral h ealth services, critical incident stress management, and an on –call 12 
-system for these services;  13 
+    11. Urgent care capacity;  
  
-    5. Crisis residential beds to serve as an alternative to 14 
-hospitalization;  15 
+    12. Expanded capacity for assertive community treatment;  
  
-    6. A community crisis bed and hospital bed registry, 16 
-including a daily tally of empty beds;  17 
+    13. Crisis intervention teams with capacity to respond in each 
+jurisdiction 24 hours a day and 7 days a week; and  
  
-    7. Transportation coordination, ensuring transportation of 18 
-patients to urgent appointments or to emergency psychiatric facilities;  19 
+    14. Individualized family intervention teams ; 
  
-    8. Mobile crisis teams;  20 
+  (2) Community awareness promotion and training programs; and  
  
-    9. 23–hour holding beds;  21 
+  (3) An evaluation of outcomes of services [through ]: 
  
-    10. Emergency psychiatric services;  22 
+   (I) IN EACH JURISDICTION OR REGION , INCLUDING AN 
+EVALUATION OF : 
  
-    11. Urgent care capacity;  23 
+    1. 9–8–8 CALL , TEXT , AND CHAT VOLUME ; 
  
-    12. Expanded capacity for assertive community treatment;  24 
+    2. 9–8–8 LOCAL ANS WER RATE ; 
  
-    13. Crisis intervention teams with capacity to respond in each 25 
-jurisdiction 24 hours a day and 7 days a week; and  26 
+    3. 9–8–8 CALL , TEXT , AND CHAT RESOLUTION DATA , 
+INCLUDING : 
  
-    14. Individualized family intervention teams;  27 
+    A. THE PROPORTION OF CRI SES RESOLVED BY PHON E; 
  
-  (2) Community awareness promotion and training programs; and  28 
+    B. THE PROPORTION OF CRI SES RESOLVED THROUGH  
+MOBILE CRISIS TEAM D ISPATCH ; AND 
  
-4 HOUSE BILL 1146   
+    C. THE PROPORTION OF CRI SES RESOLVED BY 
+TRANSFER TO 9–1–1; 
  
-   (3) An evaluation of outcomes of services [through ]: 1 
+    4. MOBILE CRISIS TEAM DI SPATCH VOLUME ; 
  
-   (I) IN EACH JURISDICTION OR REGION , INCLUDING AN 2 
-EVALUATION OF : 3 
+    5. MOBILE CRISIS TEAM RE SPONSE TIME ; 
  
-    1. 9–8–8 CALL , TEXT , AND CHAT VOLUME ; 4 
+    6. MOBILE CRISIS TEAM DI SPATCH RESOLUTION DA TA, 
+INCLUDING : 
  
-    2. 9–8–8 LOCA L ANSWER RATE ; 5 
+Ch. 659  2025 LAWS OF MARYLAND   
  
-    3. 9–8–8 CALL , TEXT , AND CHAT RESOLUTION DATA , 6 
-INCLUDING : 7 
+– 4 –     A. THE PROPORTION OF CRI SES RESOLVED SAFELY IN 
+THE COMMUNITY ; AND 
  
-    A. THE PROPORTION OF CRI SES RESOLVED BY PHON E; 8 
+    B. THE PROP ORTION OF CRISES RES OLVED THROUGH 
+TRANSFER TO A HIGHER  LEVEL OF CARE ; 
  
-    B. THE PROPORTION OF CRI SES RESOLVED THROUGH  9 
-MOBILE CRISIS TEAM D ISPATCH ; AND 10 
+    7. CRISIS STABILIZATION CENTER USAGE ; AND 
  
-    C. THE PROPORTION OF CRI SES RESOLVED BY 11 
-TRANSFER TO 9–1–1; 12 
+    8. CRISIS STABILIZATION CENTER DISCHARGE DAT A, 
+INCLUDING : 
  
-    4. MOBILE CRISIS TEAM DI SPATCH VOLUME ; 13 
+    A. THE PROPORTION OF CRI SES RESOLVED THROUGH  A 
+DISCHARGE TO HOME ; AND 
  
-    5. MOBILE CRISIS TEAM RE SPONSE TIME ; 14 
+    B. THE PROPORTION OF CRI SES RESOLVED THROUGH  A 
+DISCHARGE TO A HIGHE R LEVEL OF CARE ; 
  
-    6. MOBILE CRISIS TEAM DI SPATCH RESOLUTION DA TA, 15 
-INCLUDING : 16 
+   [(i)] (II) [An] THROUGH AN annual survey by the Administration 
+of DATA OBTAINED FROM  consumers and family members who have received services 
+from the Crisis Response System COLLECTED THROUGH ON GOING DATA COLLECTIO N 
+FROM 9–8–8 CALL , TEXT , AND CHAT PROVIDERS A ND OTHER CRISIS PROV IDERS 
+THAT IS REPORTED ANN UALLY ; and  
  
-    A. THE PROPORTION OF CRI SES RESOLVED SAFELY IN 17 
-THE COMMUNITY ; AND 18 
+   [(ii)] (III) [Annual ] THROUGH ANNUAL CRISIS SERVICES  data 
+collection on the number of behavioral health calls received by police, attempted and 
+completed suicides, unnecessary hospitalizations, hospital diversions, arrests and 
+detentions of individuals with behavioral health d iagnoses, and diversion of arrests and 
+detentions of individuals with behavioral health diagnoses  INVOLVEMENT OF LAW 
+ENFORCEMENT , INVOLUNTARY STATUS O F CLIENTS , AND DIVERSION FROM H IGHER 
+LEVELS OF CARE , INCLUDING HOSPITALS . 
  
-    B. THE PROPORTION OF CRISES  RESOLVED THROUGH 19 
-TRANSFER TO A HIGHER  LEVEL OF CARE ; 20 
+ (b) The data derived from the evaluation of outcomes of services required under 
+subsection (a)(3) of this section shall be:  
  
-    7. CRISIS STABILIZATION CENTER USAGE ; AND 21 
+  (1) Collected, analyzed, and publicly reported [at least annually ] ON OR 
+BEFORE DECEMBER 1 EACH YEAR , BEGINNING IN 2026 ; 
  
-    8. CRISIS STABILIZATION CENTER DISCHARGE DAT A, 22 
-INCLUDING : 23 
+  (2) Disaggregated by race, gender, age, and zip code; and  
  
-    A. THE PROPORTION OF CRI SES RESOLVED THROUGH  A 24 
-DISCHARGE TO HOME ; AND 25 
+  (3) Used to formulate policy recommendations with the goal of decreasing 
+criminal detention and improving crisis diversion programs and linkages to effective 
+community health services.  
  
-    B. THE PROPORTION OF CRI SES RESOLVED THROUGH  A 26 
-DISCHARGE TO A HIGHE R LEVEL OF CARE ; 27 
+ WES MOORE, Governor  Ch. 659  
  
- HOUSE BILL 1146  5 
+– 5 –  (c) The Crisis Response System services sha ll be implemented as determined by 
+the Administration in collaboration with the core service agency or local behavioral health 
+authority serving each jurisdiction and community members of each jurisdiction.  
  
-    [(i)] (II) [An] THROUGH AN annual survey by the Administration 1 
-of DATA OBTAINED FROM  consumers and family members who have received services 2 
-from the Crisis Response System COLLECTED THROUGH ON GOING DATA COLLECTIO N 3 
-FROM 9–8–8 CALL , TEXT , AND CHAT PROVIDERS A ND OTHER CRISIS PROV IDERS 4 
-THAT IS REPORTED ANN UALLY ; and  5 
+ (d) An advance directive for mental health serv ices under § 5 –602.1 of this article 
+shall apply to the delivery of services under this subtitle.  
  
-   [(ii)] (III) [Annual ] THROUGH ANNUAL CRISIS SERVICES  data 6 
-collection on the number of behavioral health calls received by police, attempted and 7 
-completed suicides, unnecessary hospitalizations, hospital diversions, arrests and 8 
-detentions of individuals with behavioral health d iagnoses, and diversion of arrests and 9 
-detentions of individuals with behavioral health diagnoses  INVOLVEMENT OF LAW 10 
-ENFORCEMENT , INVOLUNTARY STATUS O F CLIENTS , AND DIVERSION FROM H IGHER 11 
-LEVELS OF CARE , INCLUDING HOSPITALS . 12 
+ (e) This subtitle may not be construed to affect petitions for emergency 
+evaluations under § 10 –622 of this title.  
  
- (b) The data derived from the evaluation of outcomes of services required under 13 
-subsection (a)(3) of this section shall be:  14 
+ SECTION 2. AND BE IT FURTHER ENACTED, T hat this Act shall take effect July 
+1, 2025.  
  
-  (1) Collected, analyzed, and publicly reported [at least annually ] ON OR 15 
-BEFORE DECEMBER 1 EACH YEAR , BEGINNING IN 2026 ; 16 
- 
-  (2) Disaggregated by race, gender, age, and zip code; and  17 
- 
-  (3) Used to formulate policy recommendations with the goal of decreasing 18 
-criminal detention and improving crisis diversion programs and linkages to effective 19 
-community health services.  20 
- 
- (c) The Crisis Response System services sha ll be implemented as determined by 21 
-the Administration in collaboration with the core service agency or local behavioral health 22 
-authority serving each jurisdiction and community members of each jurisdiction.  23 
- 
- (d) An advance directive for mental health services under § 5 –602.1 of this article 24 
-shall apply to the delivery of services under this subtitle.  25 
- 
- (e) This subtitle may not be construed to affect petitions for emergency 26 
-evaluations under § 10 –622 of this title.  27 
- 
- SECTION 2. AND BE IT FURTHER ENACTE D, That this Act shall take effect July 28 
-1, 2025.  29 
- 
- 
- 
- 
+Approved by the Governor, May 20, 2025.  

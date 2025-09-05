@@ -1,372 +1,359 @@
+ WES MOORE, Governor  Ch. 530  
  
+– 1 – Chapter 530  
+(House Bill 533 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0533*      
-HOUSE BILL 533  
-D4, E2    5lr1324  
-    CF SB 273  
-By: Delegate Crutchfield  
-Introduced and read first time: January 22, 2025  
-Assigned to: Judiciary  
-Committee Report: Favorable  
-House action: Adopted  
-Read second time: February 27, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Peace Orders and Protective Orders – Military Protection Orders  
  
-AN ACT concerning  1 
+FOR the purpose of authorizing a judge to consider whether a military protection order has 
+been issued against a respondent when determining whether to grant a temporary 
+peace order or a temporary protective order; requiring a law enforcement officer to 
+notify a certain law enforcement agency that an individual may have violated a 
+military protection order under certain circumstances; and generally relating to 
+peace orders and protective orders.  
  
-Peace Orders and Protective Orders – Military Protection Orders  2 
+BY repealing and reenacting, with amendments,  
+ Article – Courts and Judicial Proceedings  
+Section 3 –1501, 3 –1504(a)(1), and 3 –1508  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of authorizing a judge to consider whether a military protection order has 3 
-been issued against a respondent when determining whether to grant a temporary 4 
-peace order or a temporary protective order; requiring a law enforcement officer to 5 
-notify a certain law enforcement agency that an individual may have violated a 6 
-military protection order under certain circumstances; and generally relating to 7 
-peace orders and protective orders.  8 
+BY repealing and reenacting, with amendments,  
+ Article – Family Law  
+Section 4 –501, 4 –505(a)(1), and 4 –509 
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  9 
- Article – Courts and Judicial Proceedings  10 
-Section 3 –1501, 3 –1504(a)(1), and 3 –1508  11 
- Annotated Code of Maryland  12 
- (2020 Replacement Volume and 2024 Supplement)  13 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  14 
- Article – Family Law  15 
-Section 4 –501, 4 –505(a)(1), and 4 –509 16 
- Annotated Code of Maryland  17 
- (2019 Replacement Volume and 2024 Supplement)  18 
+Article – Courts and Judicial Proceedings  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 19 
-That the Laws of Maryland read as follows:  20 
+3–1501.  
  
-Article – Courts and Judicial Proceedings  21 
-2 HOUSE BILL 533   
+ (a) In this subtitle  the following words have the meanings indicated.  
  
-  
-3–1501.  1 
+ (b) “Commissioner” means a District Court commissioner appointed in 
+accordance with Article IV, § 41G of the Maryland Constitution.  
  
- (a) In this subtitle the following words have the meanings indicated.  2 
+ (c) “Court” means the District Court of Maryland.  
  
- (b) “Commissioner” means a District Court commissioner appointed in 3 
-accordance with Article IV, § 41G of the Maryland Constitution.  4 
+ (d) “Employee” mea ns: 
  
- (c) “Court” means the District Court of Maryland.  5 
+  (1) An individual who is employed by an employer; or  
  
- (d) “Employee” mean s: 6 
+  (2) A volunteer or an independent contractor who performs services for an 
+employer at the employer’s workplace.  
+Ch. 530  2025 LAWS OF MARYLAND   
  
-  (1) An individual who is employed by an employer; or  7 
+– 2 –  
+ (e) (1) “Employer” means a person engaged in a business, an industry, a 
+profession, a trade, or any other enterprise in the State.  
  
-  (2) A volunteer or an independent contractor who performs services for an 8 
-employer at the employer’s workplace.  9 
+  (2) “Employer” includes a person that acts directly or indirectly in the 
+interest of another employer with an employee.  
  
- (e) (1) “Employer” means a person engaged in a business, an industry, a 10 
-professi on, a trade, or any other enterprise in the State.  11 
+ (f) “Final peace order” means a peace order issued by a judge under § 3 –1505 of 
+this subtitle.  
  
-  (2) “Employer” includes a person that acts directly or indirectly in the 12 
-interest of another employer with an employee.  13 
+ (g) “Interim peace order” means an order that a commissioner issues under this 
+subtitle pending a hearing by a judge on a petition.  
  
- (f) “Final peace order” means a peace order issued by a judge under § 3 –1505 of 14 
-this subtitle.  15 
+ (H) “MILITARY PROTECTION O RDER” MEANS A PROTECTION O RDER ISSUED 
+IN ACCORDANCE WITH 10 U.S.C.  § 1567  BY A COMMANDING OFFI CER AGAINST A 
+PERSON UNDER THE OFF ICER’S COMMAND IN : 
  
- (g) “Interim peace order” means an order that a commissioner issues under this 16 
-subtitle pending a hearing by a judge on a petition.  17 
+  (1) ANY BRANCH OF THE UNI FORMED SERVICES OF T HE UNITED 
+STATES ;  
  
- (H) “MILITARY PROTECTION O RDER” MEANS A PROTECTION O RDER ISSUED 18 
-IN ACCORDANCE WITH 10 U.S.C.  § 1567  BY A COMMANDING OFFICER A GAINST A 19 
-PERSON UNDER THE OFF ICER’S COMMAND IN : 20 
+  (2) THE MARYLAND NATIONAL GUARD ; OR 
  
-  (1) ANY BRANCH OF THE UNI FORMED SERVICES OF T HE UNITED 21 
-STATES ;  22 
+  (3) THE NATIONAL GUARD OF  ANY OTHER STATE . 
  
-  (2) THE MARYLAND NATIONAL GUARD ; OR 23 
+ [(h)] (I) “Petitioner” m eans an individual who files a petition under § 3 –1503 of 
+this subtitle.  
  
-  (3) THE NATIONAL GUARD OF  ANY OTHER STATE . 24 
+ [(i)] (J) “Residence” includes the yard, grounds, outbuildings, and common 
+areas surrounding the residence.  
  
- [(h)] (I) “Petitioner” means an individual who files a petition under § 3 –1503 of 25 
-this subtitle.  26 
+ [(j)] (K) “Respondent” means an individual alleged in a petition to hav e 
+committed an act specified in § 3 –1503(a) of this subtitle against a petitioner or a 
+petitioner’s employee.  
  
- [(i)] (J) “Residence” includes the yard, grounds, outbuildings, and common 27 
-areas surrounding the residence.  28 
+ [(k)] (L) “Temporary peace order” means a peace order issued by a judge under 
+§ 3–1504 of this subtitle.  
  
- HOUSE BILL 533  3 
+3–1504.  
  
-  [(j)] (K) “Respondent” means an individual alleged in a petition to have 1 
-commit ted an act specified in § 3 –1503(a) of this subtitle against a petitioner or a 2 
-petitioner’s employee.  3 
+ (a) (1) (I) If after a hearing on a petition, whether ex parte or otherwise, a 
+judge finds that there are reasonable grounds to believe that the respondent has committed, 
+and is likely to commit in the future, an act specified in § 3 –1503(a) of this subtitle against 
+the petition er or the petitioner’s employee, the judge may issue a temporary peace order to 
+protect the petitioner or the petitioner’s employee.  
  
- [(k)] (L) “Temporary peace order” means a peace order issued by a judge under 4 
-§ 3–1504 of this subtitle.  5 
+ WES MOORE, Governor  Ch. 530  
  
-3–1504.  6 
+– 3 –    (II) IN DETERMINING WHETHE R THERE ARE REASONAB LE 
+GROUNDS TO BELIEVE T HAT A RESPONDENT HAS  COMMITTED , AND IS LIKELY TO 
+COMMIT IN THE FUTURE , AN ACT SPECIFIED IN § 3–1503( A) OF THIS SUBTITLE 
+AGAINST THE PETITION ER OR THE PETITIONER ’S EMPLOYEE , THE JUDGE MAY 
+CONSIDER WHETHER A M ILITARY PROTECTION O RDER HAS BEEN ISSUED  AGAINST 
+THE RESPONDENT FOR T HE SAME OR SIMILAR C ONDUCT AGA INST THE SAME 
+PETITIONER OR THE PE TITIONER ’S EMPLOYEE . 
  
- (a) (1) (I) If after a hearing on a petition, whether ex parte or otherwise, a 7 
-judge finds that there are reasonable grounds to believe that the respondent has committed, 8 
-and is likely to commit in the future, an act specified in § 3 –1503(a) of this subtitle against 9 
-the petitioner or the pet itioner’s employee, the judge may issue a temporary peace order to 10 
-protect the petitioner or the petitioner’s employee.  11 
+3–1508.  
  
-   (II) IN DETERMINING WHETHE R THERE ARE REASONAB LE 12 
-GROUNDS TO BELIEVE T HAT A RESPONDENT HAS  COMMITTED , AND IS LIKELY TO 13 
-COMMIT IN THE FUTURE , AN ACT SPECIFIED IN § 3–1503( A) OF THIS SUBTITLE 14 
-AGAINST THE PETITION ER OR THE PETITIONER ’S EMPLOYEE , THE JUDGE MAY 15 
-CONSIDER WHETHER A M ILITARY PROTECTION O RDER HAS BEEN ISSUED  AGAINST 16 
-THE RESPONDENT FOR T HE SAME OR SIMILAR C ONDUCT AGAINST THE S AME  17 
-PETITIONER OR THE PE TITIONER ’S EMPLOYEE . 18 
+ (a) An individual who fails to comply with the relief granted in an interim peace 
+order under § 3 –1503.1 of this subtitle, a temporary peace order under § 3 –1504(a)(2) of 
+this subtitle, or a  final peace order under § 3 –1505(d)(1)(i), (ii), (iii), or (iv) of this subtitle 
+is guilty of a misdemeanor and on conviction is subject to:  
  
-3–1508.  19 
+  (1) For a first offense, a fine not exceeding $1,000 or imprisonment not 
+exceeding 90 days or both; and  
  
- (a) An individual who fails to comply with the relief granted in an interim peace 20 
-order under § 3 –1503.1 of this subtitle, a temporary peace order under § 3 –1504(a)(2) of 21 
-this subtitle, or a final peace order under § 3 –1505(d)(1)(i), (ii), (iii), or (iv) of this subtitle 22 
-is guilty of a misdemeanor and on conviction is subject to:  23 
+  (2) For a second or subsequent offense, a fine not exceeding $2,500 or 
+imprisonment not exceeding 1 year or both.  
  
-  (1) For a first offense, a fine not exceeding $1,000 or imprisonment not 24 
-exceeding 90 days or both; and  25 
+ (b) For the purpose of second or subsequent offender penalties provided under 
+subsection (a)(2) of this section, a prior conviction under § 4 –509 of the Family Law Article 
+shall be considered a conviction under this section.  
  
-  (2) For a second or subsequent offense, a fine not exceeding $2,500 or 26 
-imprisonment not exceeding 1 year or both.  27 
+ (c) (1) A law enforcement officer shall arrest with or without a warrant and 
+take into custody an individual who the officer has probable cause to believe is in violation 
+of an interim peace order, temporary peace order, or final peace order in effect at the time 
+of the violation.  
  
- (b) For the purpose of second or subsequent offender penalties provided under 28 
-subsection (a)(2) of this section, a prior conviction under § 4 –509 of the Family Law Article 29 
-shall be considered a conviction under this section.  30 
+  (2) IF A LAW ENFORCEMENT OFFICER HAS PROBABLE  CAUSE TO 
+BELIEVE THAT AN INDI VIDUAL DESCRIBED IN PARAGRAPH (1) OF THIS SUBSECTION 
+IS A SERVICE MEM BER IN VIOLATION OF A MILITARY PROTECTIO N ORDER ENTERED 
+INTO THE FEDERAL BUREAU OF INVESTIGATION ’S NATIONAL CRIME INFORMATION 
+CENTER DATABASE , THE LAW ENFORCEMENT OFFICER SHALL NOTIFY  THE LAW 
+ENFORCEMENT AGENCY T HAT ENTERED THE MILI TARY PROTECTION ORDE R IN TO 
+THE DATABASE THAT TH E SERVICE MEMBER MAY  HAVE VIOLATED THE MI LITARY 
+PROTECTION ORDER . 
  
- (c) (1) A law enforcement officer shall arrest with or without a warrant and 31 
-take into custody an individual who the officer has probable cause to believe is in violation 32 
-of an inter im peace order, temporary peace order, or final peace order in effect at the time 33 
-of the violation.  34 
+Article – Family Law  
  
-4 HOUSE BILL 533   
+4–501. 
  
-   (2) IF A LAW ENFORCEMENT OFFICER HAS PROBABLE  CAUSE TO 1 
-BELIEVE THAT AN INDI VIDUAL DESCRIBED IN PARAGRAPH (1) OF THIS SUBSECTION 2 
-IS A SERVICE MEMBER IN VI OLATION OF A MILITAR Y PROTECTION ORDER E NTERED 3 
-INTO THE FEDERAL BUREAU OF INVESTIGATION ’S NATIONAL CRIME INFORMATION 4 
-CENTER DATABASE , THE LAW ENFORCEMENT OFFICER SHALL NOTIFY  THE LAW 5 
-ENFORCEMENT AGENCY T HAT ENTERED THE MILI TARY PROTECTION ORDE R INTO 6 
-THE DA TABASE THAT THE SERV ICE MEMBER MAY HAVE VIOLATED THE MILITAR Y 7 
-PROTECTION ORDER . 8 
+ (a) In this subtitle the following words have the meanings indicated.  
  
-Article – Family Law  9 
+Ch. 530  2025 LAWS OF MARYLAND   
  
-4–501. 10 
+– 4 –  (b) (1) “Abuse” means any of the following acts:  
  
- (a) In this subtitle the following words have the meanings indicated.  11 
+   (i) an act  that causes serious bodily harm;  
  
- (b) (1) “Abuse” means any of the following acts:  12 
+   (ii) an act that places a person eligible for relief in fear of imminent 
+serious bodily harm;  
  
-   (i) an act that cau ses serious bodily harm;  13 
+   (iii) assault in any degree;  
  
-   (ii) an act that places a person eligible for relief in fear of imminent 14 
-serious bodily harm;  15 
+   (iv) rape or sexual offense under § 3 –303, § 3 –304, § 3 –307, or §  
+ 3–308 of the Crimina l Law Article or attempted rape or sexual offense in any degree;  
  
-   (iii) assault in any degree;  16 
+   (v) false imprisonment;  
  
-   (iv) rape or sexual offense under § 3 –303, § 3 –304, § 3 –307, or §  17 
- 3–308 of the Criminal Law Art icle or attempted rape or sexual offense in any degree;  18 
+   (vi) stalking under § 3 –802 of the Criminal Law Article; or  
  
-   (v) false imprisonment;  19 
+   (vii) revenge porn under § 3 –809 of the Criminal Law Article.  
  
-   (vi) stalking under § 3 –802 of the Criminal Law Article; or  20 
+  (2) (i) If the person for whom  relief is sought is a child, “abuse” may 
+also include abuse of a child, as defined in Title 5, Subtitle 7 of this article.  
  
-   (vii) revenge porn under § 3 –809 of the Criminal Law Article.  21 
+   (ii) Nothing in this subtitle shall be construed to prohibit reasonable 
+punishment, including reasonable corporal punishment, in  light of the age and condition of 
+the child, from being performed by a parent or stepparent of the child.  
  
-  (2) (i) If the person for whom relief is sought is a child, “abuse” may 22 
-also include abuse of a child, as defined in Title 5, Subtitle 7 of this article.  23 
+  (3) If the person for whom relief is sought is a vulnerable adult, “abuse” 
+may also include abuse of a vulnerable adult, as defined in Title 14, S ubtitle 1 of this article.  
  
-   (ii) Nothing in this subtitle shall be construed to prohibit reasonable 24 
-punishment, including reasonable corporal punishment, in light o f the age and condition of 25 
-the child, from being performed by a parent or stepparent of the child.  26 
+ (c) “Child care provider” means a person that provides supervision and care for a 
+minor child.  
  
-  (3) If the person for whom relief is sought is a vulnerable adult, “abuse” 27 
-may also include abuse of a vulnerable adult, as defined in Title 14, Subtitle 1 of this article.  28 
+ (d) “Cohabitant” means a person who has had a sexual relationship with the 
+respondent and resided with the respondent in the home for a period of at least 90 days 
+within 1 year before the filing of the petition.  
  
- (c) “Child care provider” means a person that provides supervision and care for a 29 
-minor child.  30 
+ (e) “Commissioner” means a District Court Commissioner appointed in 
+accordance with Article IV, § 41G of the Maryland Constitution.  
  
- HOUSE BILL 533  5 
+ (f) “Court” means the District Court or a circuit court in this State.  
  
-  (d) “Cohabitant” means a person who has had a sexual relationship with the 1 
-respondent and resided with the respondent in the home for a pe riod of at least 90 days 2 
-within 1 year before the filing of the petition.  3 
+ (g) “Emergency family maintenance” means a monetary award given to or for a 
+person eligible for relief to whom the respondent has a duty of support under this article 
+based on:  
  
- (e) “Commissioner” means a District Court Commissioner appointed in 4 
-accordance with Article IV, § 41G of the Maryland Constitution.  5 
+  (1) the financial needs of the person el igible for relief; and  
  
- (f) “Court” means the District Court or a circ uit court in this State.  6 
+ WES MOORE, Governor  Ch. 530  
  
- (g) “Emergency family maintenance” means a monetary award given to or for a 7 
-person eligible for relief to whom the respondent has a duty of support under this article 8 
-based on:  9 
+– 5 –   (2) the resources available to the person eligible for relief and the 
+respondent.  
  
-  (1) the financial needs of the person eligible fo r relief; and  10 
+ (h) “Executive Director” means the Executive Director of the Governor’s Office of 
+Crime Prevention and Policy.  
  
-  (2) the resources available to the person eligible for relief and the 11 
-respondent.  12 
+ (i) “Final protective order” mean s a protective order issued under § 4 –506 of this 
+subtitle.  
  
- (h) “Executive Director” means the Executive Director of the Governor’s Office of 13 
-Crime Prevention and Policy.  14 
+ (j) “Home” means the property in this State that:  
  
- (i) “Final protective order” means a prote ctive order issued under § 4 –506 of this 15 
-subtitle.  16 
+  (1) is the principal residence of a person eligible for relief; and  
  
- (j) “Home” means the property in this State that:  17 
+  (2) is owned, rented, or leased by the person eligible for relief or r espondent 
+or, in a petition alleging child abuse or abuse of a vulnerable adult, an adult living in the 
+home at the time of a proceeding under this subtitle.  
  
-  (1) is the principal residence of a person eligible for relief; and  18 
+ (k) “Interim protective order” means an order that a Commissioner issues under 
+this subtitle pen ding a hearing by a judge on a petition.  
  
-  (2) is owned, rented, or leased by the person eligible for relief or respondent  19 
-or, in a petition alleging child abuse or abuse of a vulnerable adult, an adult living in the 20 
-home at the time of a proceeding under this subtitle.  21 
+ (l) “Local department” means the local department that has jurisdiction in the 
+county:  
  
- (k) “Interim protective order” means an order that a Commissioner issues under 22 
-this subtitle pending a he aring by a judge on a petition.  23 
+  (1) where the home is located; or  
  
- (l) “Local department” means the local department that has jurisdiction in the 24 
-county:  25 
+  (2) if different, where the abuse is alleged to have taken place.  
  
-  (1) where the home is located; or  26 
+ (m) “MILITARY PROTECTION ORDER ” MEANS A PROTECTION O RDER ISSUED 
+IN ACCORDANCE WITH 10 U.S.C.  § 1567  BY A COMMANDING OFFI CER AGAINST A 
+PERSON UNDER SUCH OF FICER’S COMMAND IN : 
  
-  (2) if different, where the abuse is alleged to have taken place.  27 
+  (1) ANY BRANCH OF THE UN IFORMED SERVICES OF THE UNITED 
+STATES ;  
  
- (m) “MILITARY PROTECTION O RDER” MEANS A PROTECTION O RDER ISSUED 28 
-IN ACCORDANCE WITH 10 U.S.C.  § 1567  BY A COMMANDING OFFI CER AGAINST A 29 
-PERSON UNDER SUCH OF FICER’S COMMAND IN : 30 
+  (2) THE MARYLAND NATIONAL GUARD ; OR 
  
-6 HOUSE BILL 533   
+  (3) THE NATIONAL GUARD O F ANY OTHER STATE . 
  
-   (1) ANY BRANCH OF THE UN IFORMED SERVICES OF THE UNITED 1 
-STATES ;  2 
+ (N) “Person eligible for relief” includes:  
  
-  (2) THE MARYLAND NATIONAL GUARD ; OR 3 
+  (1) the current or former spouse of the respondent;  
  
-  (3) THE NATIONAL GUARD O F ANY OTHER STATE . 4 
+  (2) a cohabitant of the respondent;  
  
- (N) “Person eligible for relief” includes:  5 
+  (3) a person related to the respondent by blood, marriage,  or adoption;  
  
-  (1) the current or former spouse of the respondent;  6 
+Ch. 530  2025 LAWS OF MARYLAND   
  
-  (2) a cohabitant of the respondent;  7 
+– 6 –   (4) a parent, stepparent, child, or stepchild of the respondent or the person 
+eligible for relief who resides or resided with the respondent or person eligible for relief for 
+at least 90 days within 1 year before the filing of the petition ; 
  
-  (3) a person related to the respondent by blood, marriage, or adoption;  8 
+  (5) a vulnerable adult;  
  
-  (4) a parent, stepparent, child, or stepchild of the respondent or the person 9 
-eligible for relief who resides or resided with the respondent or person eligible for relief for 10 
-at least 90 days within 1 year before the filing of the petition;  11 
+  (6) an individual who has a child in common with the respondent;  
  
-  (5) a vulnerable adult;  12 
+  (7) an individual who has had a sexual relationship with the respondent 
+within 1 year before the filing of the petition; and  
  
-  (6) an individual who has a child in common with the respondent;  13 
+  (8) an individual who allege s that the respondent committed, within 6 
+months before the filing of the petition, any of the following acts against the individual:  
  
-  (7) an individual who has had a sexual relationship with the respondent 14 
-within 1 year before the filing of the petition; and  15 
+   (i) rape or a sexual offense under § 3 –303, § 3 –304, § 3 –307, or §  
+3–308 of the Criminal Law Article; or  
  
-  (8) an individual who alleges that the re spondent committed, within 6 16 
-months before the filing of the petition, any of the following acts against the individual:  17 
+   (ii) attempted rape or sexual offense in any degree.  
  
-   (i) rape or a sexual offense under § 3 –303, § 3 –304, § 3 –307, or §  18 
-3–308 of the Criminal Law Article; or  19 
+ [(n)] (O) (1) “Pet” means a domesticated animal.  
  
-   (ii) attempted rape o r sexual offense in any degree.  20 
+  (2) “Pet” does not include livestock.  
  
- [(n)] (O) (1) “Pet” means a domesticated animal.  21 
+ [(o)] (P) (1) “Petitioner” means an individual who files a petition.  
  
-  (2) “Pet” does not include livestock.  22 
+  (2) “Petitioner” includes:  
  
- [(o)] (P) (1) “Petitioner” means an individual who files a petition.  23 
+   (i) a perso n eligible for relief; or  
  
-  (2) “Petitioner” includes:  24 
+   (ii) the following persons who may seek relief from abuse on behalf 
+of a minor or vulnerable adult:  
  
-   (i) a person eligible for r elief; or  25 
+    1. the State’s Attorney for the county where the child or 
+vulnerable adult lives, or, if different, where the abuse is al leged to have taken place;  
  
-   (ii) the following persons who may seek relief from abuse on behalf 26 
-of a minor or vulnerable adult:  27 
- HOUSE BILL 533  7 
+    2. the department of social services that has jurisdiction in 
+the county where the child or vulnerable adult lives, or, if different, where the abuse is 
+alleged to have taken place;  
  
-  
-    1. the State’s Attorney for the county where the child or 1 
-vulnerable adult lives, or, if different, where the abuse is alleged to have taken place;  2 
+    3. a person related to the child or v ulnerable adult by blood, 
+marriage, or adoption; and  
  
-    2. the department of social services that has jurisdiction in 3 
-the county where the child or vulnerable adult lives, or, if different, where the abuse is 4 
-alleged to have taken place;  5 
+    4. an adult who resides in the home.  
  
-    3. a person related to the child or vulnerable adul t by blood, 6 
-marriage, or adoption; and  7 
+ [(p)] (Q) “Residence” includes the yard, grounds, outbuildings, and common 
+areas surrounding the residence.  
+ WES MOORE, Governor  Ch. 530  
  
-    4. an adult who resides in the home.  8 
+– 7 –  
+ [(q)] (R) “Respondent” means the person alleged in the petition to have 
+committed the abuse.  
  
- [(p)] (Q) “Residence” includes the yard, grounds, outbuildings, and common 9 
-areas surrounding the residence.  10 
+ [(r)] (S) “Temporary protective order” means a protective order issued under § 
+4–505 of this subtitle.  
  
- [(q)] (R) “Respondent” means the person alleged in the petition  to have 11 
-committed the abuse.  12 
+ [(s)] (T) “Victim” includes a person eligible for relief.  
  
- [(r)] (S) “Temporary protective order” means a protective order issued under § 13 
-4–505 of this subtitle.  14 
+ [(t)] (U) “Vulnerable adult” has the meaning  provided in § 14 –101(q) of this 
+article.  
  
- [(s)] (T) “Victim” includes a person eligible for relief.  15 
+4–505. 
  
- [(t)] (U) “Vulnerable adult” has the meaning provided in § 14–101(q) of this 16 
-article.  17 
+ (a) (1) (I) If, after a hearing on a petition, whether ex parte or otherwise, a 
+judge finds that there are reasonable grounds to believe that a person eligible for relief has 
+been abused, the judge may en ter a temporary protective order to protect any person 
+eligible for relief from abuse.  
  
-4–505. 18 
+   (II) IN DETERMINING WHETHE R THERE ARE REASONAB LE 
+GROUNDS TO BELIEVE T HAT A PERSON ELIGIBL E FOR RELIEF HAS BEE N ABUSED , 
+THE JUDGE MAY CONSID ER WHETHER A MILITAR Y PROT ECTION ORDER HAS BEE N 
+ISSUED AGAINST THE R ESPONDENT FOR THE SA ME OR SIMILAR CONDUC T AGAINST 
+THE SAME PERSON ELIG IBLE FOR RELIEF . 
  
- (a) (1) (I) If, after a hearing on a petition, whether ex parte or otherwise, a 19 
-judge finds that there are reasonable grounds to believe that a person eligible for relief has 20 
-been abused, the judge may enter a temporary  protective order to protect any person 21 
-eligible for relief from abuse.  22 
+4–509. 
  
-   (II) IN DETERMINING WHETHE R THERE ARE REASONAB LE 23 
-GROUNDS TO BELIEVE T HAT A PERSON ELIGIBL E FOR RELIEF HAS BEE N ABUSED , 24 
-THE JUDGE MAY CONSID ER WHETHER A MILITAR Y PROTECTION ORDER H AS BEEN 25 
-ISSUED AGAINST THE R ESPONDENT FOR THE SA ME OR SIMILAR CONDUC T AGAINST 26 
-THE SAME PERSON ELIG IBLE FOR RELIEF . 27 
+ (a) A person may not fail to comply with the relief granted in an interim protective 
+order under § 4 –504.1(c)(1), (2) , (3), (4)(i), (7), or (8) of this subtitle, a temporary protective 
+order under § 4 –505(a)(2)(i), (ii), (iii), (iv), (v), or (viii) of this subtitle, or a final protective 
+order under § 4 –506(d)(1), (2), (3), (4), or (5), or (f) of this subtitle.  
  
-4–509. 28 
+ (b) A person who violates subsection (a) of this section is guilty of a misdemeanor 
+and on conviction is subject, for each offense, to:  
  
- (a) A person may not fail to comply with the relief granted in an interim protective 29 
-order under § 4 –504.1(c)(1), (2), (3), (4)(i), (7), or (8) of this subtitle, a temporary protective 30 
-order under § 4 –505(a)(2)(i), (ii), (iii), (iv), (v), or (viii) of this subtitle, or a final protective 31 
-order under § 4 –506(d)(1), (2), (3), (4), or (5), or (f) of this subtitle.  32 
-8 HOUSE BILL 533   
+  (1) for a first offense, a fine not exceeding $1,000 or imprisonment not 
+exceeding 90 days or both; and  
  
-  
- (b) A person who viola tes subsection (a) of this section is guilty of a misdemeanor 1 
-and on conviction is subject, for each offense, to:  2 
+  (2) for a second or subsequent offense, a fine not exceeding $2,500 or 
+imprisonment not exceeding 1 year or both.  
  
-  (1) for a first offense, a fine not exceeding $1,000 or imprisonment not 3 
-exceeding 90 days or both; and  4 
+ (c) Notwithstanding any other law, a conviction under this section may not merge 
+with a conviction for any other crime based on the act establishing the viol ation of this 
+section.  
  
-  (2) for a second or subsequent o ffense, a fine not exceeding $2,500 or 5 
-imprisonment not exceeding 1 year or both.  6 
+Ch. 530  2025 LAWS OF MARYLAND   
  
- (c) Notwithstanding any other law, a conviction under this section may not merge 7 
-with a conviction for any other crime based on the act establishing the violation of this 8 
-section.  9 
+– 8 –  (d) A sentence imposed under this section may be imposed separate from and 
+consecutive to or concurrent with a sentence for any crime based on the act establishing 
+the violation of this section.  
  
- (d) A sentence imposed under this section may be imposed separate from and 10 
-consecutive to or concurrent with a sentence for any crime based on the act establishing 11 
-the violation of this section.  12 
+ (e) For the purpose of second or subsequent offender penalties provided under 
+subsection (b)(2) of this section, a prior conviction under § 3 –1508 of the Courts Article shall 
+be considered a conviction under this section.  
  
- (e) For the purpose of second or subsequent offen der penalties provided under 13 
-subsection (b)(2) of this section, a prior conviction under § 3 –1508 of the Courts Article shall 14 
-be considered a conviction under this section.  15 
+ (f) (1) An officer shall arrest with or without a warrant and tak e into custody 
+a person who the officer has probable cause to believe is in violation of an interim, 
+temporary, or final protective order in effect at the time of the violation.  
  
- (f) (1) An officer shall arrest with or without a warrant and take into custody 16 
-a person who the officer has probable cause to believe is in violation of an interim, 17 
-temporary, or final protective order in effect at the time of the violation.  18 
+  (2) IF AN OFFICER HAS PRO BABLE CAUSE TO BELIE VE THAT AN 
+INDIVIDUAL DESCRIBE D IN PARAGRAPH (1) OF THIS SUBSECTION I S A SERVICE 
+MEMBER IN VIOLATION OF A MILITARY PROTEC TION ORDER ENTERED I NTO THE 
+FEDERAL BUREAU OF INVESTIGATION ’S NATIONAL CRIME INFORMATION CENTER 
+DATABASE , THE OFFICER SHALL NO TIFY THE LAW ENFORCE MENT AGENCY THAT 
+ENTERED THE MILITARY P ROTECTION ORDER INTO  THE DATABASE THAT TH E 
+SERVICE MEMBER MAY H AVE VIOLATED THE MIL ITARY PROTECTION ORD ER. 
  
-  (2) IF AN OFFICER HAS PRO BABLE CAUSE TO BELIE VE THAT AN 19 
-INDIVIDUAL DESCRIBED  IN PARAGRAPH (1) OF THIS SUBSECTION I S A SERVICE 20 
-MEMBER IN VIOLATION OF A MILITARY PROTEC TION ORDER ENTERED I NTO THE 21 
-FEDERAL BUREAU OF INVESTIGATION ’S NATIONAL CRIME INFORMATION CENTER 22 
-DATABASE , THE OFFICER SHALL NO TIFY THE LAW ENFORCE MENT AGENCY THAT 23 
-ENTERED THE MILITA RY PROTECTION ORDER INTO THE DATABASE TH AT THE 24 
-SERVICE MEMBER MAY H AVE VIOLATED THE MIL ITARY PROTECTION ORD ER. 25 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 26 
-October 1, 2025.  27 
- 
+Approved by the Governor, May 13, 2025.  

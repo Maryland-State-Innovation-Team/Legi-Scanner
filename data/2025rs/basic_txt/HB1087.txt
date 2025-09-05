@@ -1,137 +1,111 @@
+ WES MOORE, Governor  Ch. 706  
  
+– 1 – Chapter 706  
+(House Bill 1087 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb1087*      
-HOUSE BILL 1087  
-J5, J4    5lr3160  
-    CF SB 921  
-By: Delegates Bhandari and Woods , Woods, Alston, Bagnall , Chisholm, Cullison, 
-Guzzone, Hill, Hutchinson, S.  Johnson, Kaiser, Kerr, Kipke, Lopez, 
-Martinez, M.  Morgan, Pena –Melnyk, Reilly, Rosenberg, Ross, Szeliga, 
-Taveras, White  Holland, and Woorman  
-Introduced and read first time: February 5, 2025  
-Assigned to:  Health and Government Operations  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: March 6, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Health Insurance – Step Therapy or Fail –First Protocols – Drugs to Treat 
+Associated Conditions of Advanced Metastatic Cancer  
  
-AN ACT concerning  1 
+FOR the purpose of prohibiting certain insurers, nonprofit health service plans, and health 
+maintenance organizations from imposing a step therapy or fail –first protocol on 
+certain prescription drugs used  prescribed by a treating physician  to treat a 
+sympt om of or a side effect from treatment of certain metastatic cancer under certain 
+circumstances; and generally relating to step therapy and fail –first protocols and 
+health insurance.  
  
-Health Insurance – Step Therapy or Fail –First Protocols – Drugs to Treat 2 
-Associated Conditions of Advanced Metastatic Cancer  3 
+BY repealing and reenacting, without amendments,  
+ Article – Insurance  
+Section 15 –142(a)(1) and (4) and (b)  
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of prohibiting certain insurers, nonprofit health service plans, and health 4 
-maintenance organizations from imposing a step therapy or fail –first protocol on 5 
-certain prescription drugs used prescribed by a treating physician  to treat a 6 
-symptom of or a side effect from treatment of certain metastatic cancer under certain 7 
-circumstances; and generally relating to step therapy and fail –first protocols and 8 
-health insurance.  9 
+BY repealing and reenacting, with amendments,  
+ Article – Insurance  
+Section 15 –142(e)  
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  10 
- Article – Insurance  11 
-Section 15 –142(a)(1) and (4) and (b)  12 
- Annotated Code of Maryland  13 
- (2017 Replacement Volume and 2024 Supplement)  14 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  15 
- Article – Insurance  16 
-Section 15 –142(e)  17 
- Annotated Code of Maryland  18 
- (2017 Replacement Volume and 2024 Supplement)  19 
+Article – Insurance  
  
-2 HOUSE BILL 1087   
+15–142. 
  
-  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 1 
-That the Laws of Maryland read as follows:  2 
+ (a) (1) In this section the following words have the meanings indicated.  
  
-Article – Insurance  3 
+  (4) (i) “Step therapy or  fail–first protocol” means a protocol established 
+by an insurer, a nonprofit health service plan, or a health maintenance organization that 
+requires a prescription drug or sequence of prescription drugs to be used by an insured or 
+an enrollee before a pre scription drug ordered by a prescriber for the insured or the enrollee 
+is covered.  
  
-15–142. 4 
+   (ii) “Step therapy or fail –first protocol” includes a protocol that 
+meets the definition under subparagraph (i) of this paragraph regardless of the name, label, 
+or termi nology used by the insurer, nonprofit health service plan, or health maintenance 
+organization to identify the protocol.  
+Ch. 706  2025 LAWS OF MARYLAND   
  
- (a) (1) In this section the following words  have the meanings indicated.  5 
+– 2 –  
+ (b) (1) This section applies to:  
  
-  (4) (i) “Step therapy or fail –first protocol” means a protocol established 6 
-by an insurer, a nonprofit health service plan, or a health maintenance organization that 7 
-requires a prescription drug or sequence of prescription d rugs to be used by an insured or 8 
-an enrollee before a prescription drug ordered by a prescriber for the insured or the enrollee 9 
-is covered.  10 
+   (i) insurers and nonprofit health service plans that provide hospital, 
+medical, or surgical benefits to individuals or groups on an expense –incurred basis under 
+health insurance policies or contracts that are issued or delivered in the State; and  
  
-   (ii) “Step therapy or fail –first protocol” includes a protocol that 11 
-meets the definition under subparagraph (i) of this paragraph regardless of the name, label, 12 
-or terminology used by the insurer, nonprofit health service plan, or health maintenance 13 
-organization to identify the protocol.  14 
+   (ii) health maintenance organizations that provide hospital, 
+medical, or surgical benefits to ind ividuals or groups under contracts that are issued or 
+delivered in the State.  
  
- (b) (1) This section applies to:  15 
+  (2) An insurer, a nonprofit health service plan, or a health maintenance 
+organization that provides coverage for prescription drugs through a pharmacy benefits 
+manager is subj ect to the requirements of this section.  
  
-   (i) insurers and nonprofit health servic e plans that provide hospital, 16 
-medical, or surgical benefits to individuals or groups on an expense –incurred basis under 17 
-health insurance policies or contracts that are issued or delivered in the State; and  18 
+ (e) An entity subject to this section may not impose a step therapy or fail –first 
+protocol on an insured or an enrollee for a prescription drug approved by the U.S. Food and 
+Drug Administration if:  
  
-   (ii) health maintenance organizations that pr ovide hospital, 19 
-medical, or surgical benefits to individuals or groups under contracts that are issued or 20 
-delivered in the State.  21 
+  (1) (I) the prescription drug is used to treat the insured’s or enrollee’s 
+stage four advanced metastatic cancer; and  
  
-  (2) An insurer, a nonprofit health service plan, or a health maintenance 22 
-organization that provides coverage for prescripti on drugs through a pharmacy benefits 23 
-manager is subject to the requirements of this section.  24 
+  [(2)] (II) use of the prescription drug is:  
  
- (e) An entity subject to this section may not impose a step therapy or fail –first 25 
-protocol on an insured or an enrollee for a prescription drug approved by the U .S. Food and 26 
-Drug Administration if:  27 
+   [(i)] 1. consistent with the U.S. Food and Drug  
+Administration –approved indication or the National  Comprehensive Cancer Network 
+Drugs & Biologics Compendium indication for the treatment of stage four advanced 
+metastatic cancer; and  
  
-  (1) (I) the prescription drug is used to treat the insured’s or enrollee’s 28 
-stage four advanced metastatic cancer; and  29 
+   [(ii)] 2. supported by peer –reviewed medical literature ; OR 
  
-  [(2)] (II) use of the prescription drug is:  30 
+  (2) (I) THE PRESCRIPTION DRU G IS USED  PRESCRIBED BY A 
+TREATING PHYSICIAN  TO TREAT A SYMPTOM O F OR A SIDE EFFECT F ROM 
+TREATMENT OF THE INS URED’S OR ENROLLEE ’S STAGE FOUR ADVANCE D 
+METASTATIC CANCER THAT THE TREATING PR OVIDER  DETERMINES WILL 
+NEGATIVELY IMPACT TH E INSURED ’S OR ENROLLEE ’S HEALTH IF  LEFT UNTREATED ; 
+AND  
  
-   [(i)] 1. consistent with the U.S. Food and Drug  31 
-Administration –approved indication or the National Comprehensive Cancer Network 32 
-Drugs & Biologics Compendium indication for the treatment of stage four advanced 33 
-metastatic cancer; and  34 
- HOUSE BILL 1087  3 
+   (II) USE OF THE PRESCRIPT ION DRUG IS : 
  
-  
-   [(ii)] 2. supported by peer –reviewed medical literature ; OR 1 
+    1. CONSISTENT WITH BEST  PRACTICES FOR THE 
+TREATMENT OF STAGE F OUR ADVANCED METASTA TIC CANCER , A CONDITION 
+ASSOCIATED WITH STAG E FOUR ADVANCED META STATIC CANCER , OR A SIDE EFFECT 
+ASSOCIATED WITH STAG E FOUR  ADVANCED METASTATIC CANCER TREATMENT ; AND 
  
-  (2) (I) THE PRESCRIPTION DRU G IS USED  PRESCRIBED BY A 2 
-TREATING PHYSICIAN  TO TREAT A SYMPTOM O F OR A SIDE EFFECT F ROM 3 
-TREATMENT OF THE INS URED’S OR ENROLLEE ’S STAGE FOUR ADVANCE D 4 
-METASTATIC CANCER THAT THE TREATING PR OVIDE R DETERMINES WILL 5 
-NEGATIVELY IMPACT TH E INSURED ’S OR ENROLLEE ’S HEALTH IF  LEFT UNTREATED ; 6 
-AND  7 
+ WES MOORE, Governor  Ch. 706  
  
-   (II) USE OF THE PRESCRIPT ION DRUG IS : 8 
+– 3 –     2. SUPPORTED BY PEER –REVIEWED MEDICAL 
+LITERATURE ; AND 
  
-    1. CONSISTENT WITH BEST  PRACTICES FOR THE 9 
-TREATMENT OF STAGE F OUR ADVANCED METASTA TIC CANCER , A CONDITION 10 
-ASSOCIATE D WITH STAGE FOUR AD VANCED METASTATIC CA NCER , OR A SIDE EFFECT 11 
-ASSOCIATED WITH STAG E FOUR ADVANCED META STATIC CANCER TREATM ENT; AND 12 
+   (III) THE PRESCRIPTION DRU G IS COVERED UNDER T HE TERMS 
+OF THE POLICY OR CON TRACT OF THE INSURED  OR ENROLLEE . 
  
-    2. SUPPORTED BY PEER –REVIEWED MEDICAL 13 
-LITERATURE ; AND 14 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall apply to all 
+policies, contracts, and health benefit plans issued, delivered, or renewed in the State on or 
+after January 1, 2026.  
  
-   (III) THE PRESCRIPTION DRU G IS COVERED UNDER T HE TERMS 15 
-OF THE  POLICY OR CONTRACT O F THE INSURED OR ENR OLLEE . 16 
+ SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+January 1, 2026.  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall apply to all 17 
-policies, contracts, and health benefit plans issued, delivered, or renewed in the State on or 18 
-after January 1, 2026.  19 
- 
- SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 20 
-January 1, 2026.  21 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 20, 2025.  

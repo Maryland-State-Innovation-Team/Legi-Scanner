@@ -1,179 +1,155 @@
+ WES MOORE, Governor  Ch. 389  
  
+– 1 – Chapter 389  
+(House Bill 452 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0452*      
-HOUSE BILL 452  
-M3, M5, E4    5lr0640  
-HB 305/24 – ENT    CF 5lr1116  
-By: Delegates Guyton, Wilkins, Kaiser, Lehman, Patterson, Ruth, Stonko, and 
-Wolek  
-Introduced and read first time: January 16, 2025  
-Assigned to: Environment and Transportation  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: March 5, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Outdoor Lighting – Guidance and Use of State Funds  
  
-AN ACT concerning  1 
+FOR the purpose of requiring the Maryland Green Building Council, on or before  a certain 
+date, to update or develop guidance for the purchase of outdoor lighting fixtures in 
+consideration of certain recommendations; prohibiting State funds from being used 
+to install or replace certain permanent outdoor luminaires for lighting unless  certain 
+requirements are met; altering the requirements for the use of State funds for the 
+installation or replacement of certain permanent outdoor luminaires for lighting; 
+authorizing the Board of Public Works, or the Board’s designee, to waive a 
+require ment for the use of State funds for the installation or replacement of certain 
+permanent outdoor luminaires under certain circumstances; requiring the 
+Department of Transportation to conduct a certain review; and generally relating to 
+outdoor lighting.  
  
-Outdoor Lighting – Guidance and Use of State Funds  2 
+BY adding to  
+ Article – Public Safety  
+Section 12 –1301 to be under the new subtitle “Subtitle 13. Outdoor Lighting 
+ Guidance”  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of requiring the Maryland Green Building Council, on or before a certain 3 
-date, to update or develop guidance for the purchase of outdoor lighting fixtures in 4 
-consideration of certain recommendations; prohibiting State funds from being used 5 
-to install or replace certain permanent outdoor luminaires for lighting unless certain 6 
-requirements are met; altering the requirements for the use of State funds for the 7 
-installation or replacement of certain permanent outdoor luminai res for lighting; 8 
-authorizing the Board of Public Works, or the Board’s designee, to waive a 9 
-requirement for the use of State funds for the installation or replacement of certain 10 
-permanent outdoor luminaires under certain circumstances; requiring the 11 
-Depar tment of Transportation to conduct a certain review; and generally relating to 12 
-outdoor lighting.  13 
+BY repealing and reenacting, with amendments,  
+ Article – State Finance and Procurement  
+ Section 14 –412 
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-BY adding to  14 
- Article – Public Safety  15 
-Section 12 –1301 to be under the new subtitle “Subtitle 13. Outdoor Lighting 16 
- Guidance”  17 
- Annotated Code of Maryland  18 
- (2022 Replacement Volume and 2024 Supplement)  19 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  20 
- Article – State Finance and Procurement  21 
- Section 14 –412 22 
-2 HOUSE BILL 452   
+Article – Public Safety  
  
-  Annotated Code of Maryland  1 
- (2021 Replacement Volume and 2024 Supplement)  2 
+SUBTITLE 13. OUTDOOR LIGHTING GUIDANCE . 
  
- SECTION 1. BE IT ENACTED BY THE  GENERAL ASSEMBLY OF MARYLAND, 3 
-That the Laws of Maryland read as follows:  4 
+12–1301.  
  
-Article – Public Safety  5 
+ (A) ON OR BEFORE OCTOBER 1, 2026,  THE MARYLAND GREEN BUILDING 
+COUNCIL SHALL UPDATE OR DEVELOP GUIDANCE FOR THE PURCHASE OF OUTDOOR 
+LIGHTING FIXTURES IN  CONSIDERATION OF REC OMMENDATIONS REGARDI NG LIGHT 
+Ch. 389  2025 LAWS OF MARYLAND   
  
-SUBTITLE 13. OUTDOOR LIGHTING GUIDANCE . 6 
+– 2 – POL LUTION AND COLOR TEM PERATURE PUBLISHED B Y THE AMERICAN MEDICAL 
+ASSOCIATION . 
  
-12–1301.  7 
+ (B) THE DEPARTMENT OF TRANSPORTATION IS NOT  SUBJECT TO ANY 
+GUIDELINES UPDATED O R DEVELOPED UNDER SU BSECTION (A) OF THIS SECTION . 
  
- (A) ON OR BEFORE OCTOBER 1, 2026,  THE MARYLAND GREEN BUILDING 8 
-COUNCIL SHALL UPDATE OR DEVELOP GUIDANCE FOR THE PURCHASE OF O UTDOOR 9 
-LIGHTING FIXTURES IN  CONSIDERATION OF REC OMMENDATIONS REGARDI NG LIGHT 10 
-POLLUTION AND COLOR TEMPERATURE PUBLISHE D BY THE AMERICAN MEDICAL 11 
-ASSOCIATION . 12 
+Article – State Finance and Procurement  
  
- (B) THE DEPARTMENT OF TRANSPORTATION IS NOT  SUBJECT TO ANY 13 
-GUIDELINES UPDATED OR DEVELOPED UNDER S UBSECTION (A) OF THIS SECTION . 14 
+14–412. 
  
-Article – State Finance and Procurement  15 
+ (a) (1) In this section the following words have the meanings indicated.  
  
-14–412. 16 
+  (2) “Lamp” means the component of a luminaire that produces the light.  
  
- (a) (1) In this section the following words have the meanings indicated.  17 
+  (3) “Lumen” means a unit of measurement of luminous flux.  
  
-  (2) “Lamp” means the component of a luminaire that produces the light.  18 
+  (4) “Luminaire” means the complete lighting unit, including the lamp or 
+other component that produces light and the assembly that holds the lamp, including an 
+assembly housing, a mounting bracket or pole socket, a lamp holder, a ballast, a reflector 
+or mirror, and a refractor or lens.  
  
-  (3) “Lumen” means a unit of measurement of luminous flux.  19 
+  (5) “Restricted uplight luminaire” means a luminaire that:  
  
-  (4) “Luminaire” means the complete lighting unit, including the lamp or 20 
-other component that produces light and the assembly that holds the lamp, including an 21 
-assembly housing, a mounting bracket or  pole socket, a lamp holder, a ballast, a reflector 22 
-or mirror, and a refractor or lens.  23 
+   (i) except for a 0.5% maximum incidental uplight from reflection off 
+mounting hardware, allows no direct light emission above a horizontal plane through the 
+luminaire’s lowest light –emitting part ; and  
  
-  (5) “Restricted uplight luminaire” means a luminaire that:  24 
+   (ii) emits no more than 10% of the total direct light emission at or 
+above a vertical angle of 80 degrees.  
  
-   (i) except for a 0.5% maximum incidental uplight from reflection off 25 
-mounting hardware, allows no direct light emission above a horizontal plane through the 26 
-luminaire’s lowest light –emitting part; and  27 
+  (6) “State building” means a building owned or leased by the State or a unit 
+of the State.  
  
-   (ii) emits no more than 10% of the total direct light emission at or 28 
-above a vertical angle of 80 degrees.  29 
+ (b) This section does not apply to a lumina ire: 
  
- HOUSE BILL 452  3 
+  (1) located on the grounds of a correctional facility;  
  
-   (6) “State building” means a building o wned or leased by the State or a unit 1 
-of the State.  2 
+  (2) required by federal regulation;  
  
- (b) This section does not apply to a luminaire:  3 
+  (3) required for storm operation activities performed by the Department of 
+Transportation;  
  
-  (1) located on the grounds of a correctional facility;  4 
+  (4) required to illuminate the State flag or the flag of the United States;  
  
-  (2) required by federal regulation;  5 
+  (5) used for sign illumination; [or] 
  
-  (3) required for storm operation activities performed by the Department of 6 
-Transportation;  7 
+ WES MOORE, Governor  Ch. 389  
  
-  (4) required to illuminate the State flag or the flag of the United States;  8 
+– 3 –   (6) in a lighting plan where less than 25% of the luminaires are to be 
+replaced ; OR 
  
-  (5) used for sign illumination; [or] 9 
+  (7) USED TO ILLUMINATE T HE FIELD OF PLAY AT A SPORTS FACILITY . 
  
-  (6) in a lighting plan where less than 25% of the luminaires are to be 10 
-replaced ; OR 11 
+ (c) State funds may not be used to install or replace a permanent outdoor 
+luminaire for lighting on the grounds of any State building [or], facility , PARK , OR TRAIL  
+unless:  
  
-  (7) USED TO ILLUMINATE THE FI ELD OF PLAY AT A SPO RTS FACILITY . 12 
+  (1) the luminaire is designed to maximize energy conservation and to 
+minimize light pollution, glare, and light trespass;  
  
- (c) State funds may not be used to install or replace a permanent outdoor 13 
-luminaire for lighting on the grounds of any State building [or], facility , PARK , OR TRAIL  14 
-unless:  15 
+  (2) EXCEPT FOR A LUMINAI RE INSTALLED OR REPL ACED BY THE 
+DEPARTMENT OF TRANSPORTATION , THE LUMINAIRE HAS A CORRELATED LIGHT 
+TEMPERATURE THAT IS LESS THAN OR EQUAL T O 3,000  KELVINS ; 
  
-  (1) the luminaire is des igned to maximize energy conservation and to 16 
-minimize light pollution, glare, and light trespass;  17 
+  (3) the illumination produced by  the luminaire is the minimum 
+illumination necessary for the intended purpose of the lighting; and  
  
-  (2) EXCEPT FOR A LUMINAI RE INSTALLED OR REPL ACED BY THE 18 
-DEPARTMENT OF TRANSPORTATION , THE LUMINAIRE HAS A CORRELATED LIGHT 19 
-TEMPERATURE THAT IS LESS THAN OR  EQUAL TO 3,000  KELVINS ; 20 
+  [(3)] (4) for a luminaire with an output of more than 1,800 lumens, the 
+luminaire is a restricted uplight luminaire.  
  
-  (3) the illumination produced by the luminaire is the minimum 21 
-illumination necessary for the intended purpose of the lighting; and  22 
+ (d) (1) The Board of Public Works o r the Board’s designee may waive the 
+[requirement ] REQUIREMENTS  of subsection [(c)(3)] (C)(2) OR (4) of this section if, after 
+a request for a waiver has been made, the Board of Public Works or the Board’s designee 
+determines that the waiver is necessary f or the lighting application.  
  
-  [(3)] (4) for a luminaire with an output of more than 1,800 lumens, the 23 
-luminaire is a restricted uplight luminaire.  24 
+  (2) The Board of Public Works shall establish the requirements for a waiver 
+request under paragraph (1) of this subsection, including:  
  
- (d) (1) The Board of Public Works or the Board’s designee may waive the 25 
-[requirement ] REQUIREMENTS  of subsection [(c)(3)] (C)(2) OR (4) of this section if, after 26 
-a request for a waiver has been made, the Board of Public Work s or the Board’s designee 27 
-determines that the waiver is necessary for the lighting application.  28 
+   (i) a description of the lighting plan;  
  
-  (2) The Board of Public Works shall establish the requirements for a waiver 29 
-request under paragraph (1) of this subsection, including:  30 
+   (ii) a description of the efforts made to  comply with the requirements 
+of this section; and  
  
-4 HOUSE BILL 452   
+   (iii) the reason a waiver is necessary.  
  
-    (i) a description of the lighting plan;  1 
+  (3) In reviewing a waiver request, the Board of Public Works or the Board’s 
+designee shall consider design safety, costs, and any other factors the Board or t he Board’s 
+designee determines are appropriate.  
  
-   (ii) a description of the efforts made to comply with the requirements 2 
-of this section; and  3 
+ SECTION 2. AND BE IT FURTHER ENACTED, That, on or before September 30, 
+2026, the Department of Transportation shall conduct a review of highway lighting 
+practices and, where applicable, consider alterations  to current State practices that are 
+inconsistent with the guidelines established in the most recent edition of the Federal 
+Highway Administration’s Lighting Handbook.  
+Ch. 389  2025 LAWS OF MARYLAND   
  
-   (iii) the reason a waiver is necessary.  4 
+– 4 –  
+ SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall be construed to 
+apply only p rospectively and may not be applied to or interpreted to have any effect on or 
+application to the purchase of any outdoor lighting fixtures for a project for which the design 
+phase has been completed before the effective date of any guidance published in a ccordance 
+with § 12 –1301 of the Public Safety Article, as enacted by Section 1 of this Act.  
  
-  (3) In reviewing a waiver request, the Board of Public Works or the Board’s 5 
-designee shall consider design safety, costs, and any other factors the Board or the Board’s 6 
-designee determines are appropriate.  7 
+ SECTION 3. 4. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That, on or before September 30, 8 
-2026, the Department of Transportation shall conduct a review of hig hway lighting 9 
-practices and, where applicable, consider alterations to current State practices that are 10 
-inconsistent with the guidelines established in the most recent edition of the Federal 11 
-Highway Administration’s Lighting Handbook.  12 
- 
- SECTION 3. AND BE I T FURTHER ENACTED, That this Act shall be construed to 13 
-apply only prospectively and may not be applied to or interpreted to have any effect on or 14 
-application to the purchase of any outdoor lighting fixtures for a project for which the design 15 
-phase has been  completed before the effective date of any guidance published in accordance 16 
-with § 12 –1301 of the Public Safety Article, as enacted by Section 1 of this Act.  17 
- 
- SECTION 3. 4. AND BE IT FURTHER ENACTED, That this Act shall take effect 18 
-October 1, 2025.  19 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 6, 2025.  

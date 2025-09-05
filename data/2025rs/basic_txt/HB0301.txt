@@ -1,128 +1,92 @@
+ WES MOORE, Governor  Ch. 135  
  
+– 1 – Chapter 135  
+(House Bill 301 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.  
-         Italics indicate opposite chamber/conference committee amendments.             *hb0301*      
-HOUSE BILL 301  
-E2   (5lr0865 ) 
-ENROLLED BILL  
-— Judiciary/Judicial Proceedings  — 
-Introduced by Delegate Moon  
+AN ACT concerning  
  
-Read and Examined by Proofreaders:  
+Criminal Procedure – Forensic Genetic Genealogical DNA Analysis and Search – 
+Affidavit for Judicial Authorization  
  
-_______________________________________________  
-Proofreader.  
-_______________________________________________  
-Proofreader.  
+FOR the purpose of altering and clarifying  certain requirements for a sworn affidavit 
+submitted for judicial authorization to initiate a forensic genetic genealogical DNA 
+analysis search (FGGS); and generally relating to FGGS.  
  
-Sealed with the Great Seal and presented to the Governor, for his approval this  
-  
-_______ day of _______________ at _________________ _______ o’clock, ________M.  
-  
-______________________________________________  
-Speaker .  
+BY repealing and reenacting, without amendments,  
+ Article – Criminal Procedure  
+Section 17 –101(e) and 17 –102(a)  
+ Annotated Code of Maryland  
+ (2018 Replacement Volume and 2024 Supplement)  
  
-CHAPTER ______  
+BY repealing and reenacting, with amendments,  
+ Article – Criminal Procedure  
+Section 17–102(b)  
+ Annotated Code of Maryland  
+ (2018 Replacement Volume and 2024 Supplement)  
  
-AN ACT concerning  1 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-Criminal Procedure – Forensic Genetic Genealogical DNA Analysis and Search – 2 
-Affidavit for Judicial Authorization  3 
+Article – Criminal Procedure  
  
-FOR the purpose of altering and clarifying  certain requirements for a sworn affidavit 4 
-submitted for judicial authorization to initiate a forensic genetic genealogical DNA 5 
-analysis search (FGGS); and generally relating to FGGS.  6 
+17–101. 
  
-BY repealing and reenacting, without amendments,  7 
- Article – Criminal Procedure  8 
-Section 17 –101(e) and 17 –102(a)  9 
- Annotated Code of Maryland  10 
- (2018 Replacement Volume and 2024 Supplement)  11 
+ (e) “Forensic genetic g enealogical DNA analysis and search” or “FGGS” means:  
  
-BY repealing and reenacting, with amendments,  12 
- Article – Criminal Procedure  13 
-2 HOUSE BILL 301  
+  (1) the forensic genetic genealogical DNA analysis of biological material 
+using SNP or other sequencing techniques to develop an FGG profile;  
  
- Section 17 –102(b)  1 
- Annotated Code of Maryland  2 
- (2018 Replacement Volume and 2024 Supplement)  3 
+  (2) a subsequent search using the FGG profile in a pub licly available  
+open –data personal genomics database or a direct –to–consumer genetic genealogy service 
+to find individuals related to the source of the FGG profile; and  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 4 
-That the Laws of Maryland read as follows:  5 
+  (3) a genealogical search using public records and other lawful means to 
+obtain inf ormation in accordance with this title.  
  
-Article – Criminal Procedure  6 
+17–102.  
  
-17–101. 7 
+Ch. 135  2025 LAWS OF MARYLAND   
  
- (e) “Forensic genetic genealogical DNA analysis and search” or “FGGS” means:  8 
+– 2 –  (a) (1) FGGS may not be initiated without judicial authorization and without 
+certifying before the court that the forensic sample and the criminal case satisfy the criteria 
+set forth in this section.  
  
-  (1) the forensic genetic genealogical DNA analysis of biological material 9 
-using SNP or other sequencing techniques to develop an FGG profile;  10 
+  (2) If an FGGS is certified before a court in accordance with this section, 
+the court shall authorize the initiation of the FGGS.  
  
-  (2) a subsequent search using the FGG profile in a pu blicly available  11 
-open –data personal genomics database or a direct –to–consumer genetic genealogy service 12 
-to find individuals related to the source of the FGG profile; and  13 
+ (b) (1) A sworn affidavit shall be submitted by a law enforcement agent with 
+approval of a prosecutor from the relevant juri sdiction asserting that:  
  
-  (3) a genealogical search using public records and other lawful means to 14 
-obtain in formation in accordance with this title.  15 
+  (1) (I) THE IDENTITY OF THE PERPETRATOR IS UNKNO WN; 
  
-17–102.  16 
+  [(1)] (2) (II) the crime is the commission of, or the attempt to commit, 
+murder, rape, a felony sexual offense, or a criminal act involving circumstances presenting 
+a substantial and ongoing threat to public safety or national security;  
  
- (a) (1) FGGS may not be initiated without judicial authorization and without 17 
-certifying before the court that the forensic sample and the criminal case satisfy the criteria 18 
-set forth in this section.  19 
+  [(2)] (3) (III) the forensic sample to be subjected to the FGGS is 
+biological material reasonably believed by investigators to have been deposited by a 
+putative perpetrator and that the forensic sample was collected from:  
  
-  (2) If an FGGS is certified before a court in accordance with this section, 20 
-the court shall authorize the initiation of the FGGS.  21 
+   (i) 1. a crime scene;  
  
- (b) (1) A sworn affidavit shall be submitted by a law enforcement agent with 22 
-approval of a prosecutor from the relevant jurisdiction asserting that:  23 
+   (ii) 2. a person, an item, or a location connected to the criminal 
+event; or  
  
-  (1) (I) THE IDENTITY OF THE PERPETRATOR IS UNKNO WN; 24 
+   (iii) 3. the unidentified human remains of a suspected homicide 
+victim; AND  
  
-  [(1)] (2) (II) the crime is the commission of, or the attempt to commit, 25 
-murder, rape, a felony sexual offense, or a criminal act involving circumstances presenting 26 
-a substantial and ongoing threat to public safety or national security;  27 
+  [(3)] (4) (IV) an STR DNA profile has already been developed from the 
+forensic sample, was entered into the statewide DNA database system and the national 
+DNA database system, and failed to identify a known individual [; and  
  
-  [(2)] (3) (III) the forensic sample to be subjected to the FGGS  is 28 
-biological material reasonably believed by investigators to have been deposited by a 29 
-putative perpetrator and that the forensic sample was collected from:  30 
+  (4) (V) unless the crime being investigated presents an  ongoing threat 
+to public safety or national security concerns, reasonable investigative leads have been 
+pursued and failed to identify the perpetrator ]. 
  
-   (i) 1. a crime scene;  31 
- HOUSE BILL 301  3 
+  (2) NOTHING IN THIS SUBSE CTION MAY BE CONSTRU ED TO REQUIRE 
+THAT ALL INVESTIGATI VE LEADS HAVE BEEN E XHAUSTED .  
  
-  
-   (ii) 2. a person, an item, or a location connected to the criminal 1 
-event; or  2 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
-   (iii) 3. the unidentified human remains of a suspected homicide 3 
-victim; AND  4 
- 
-  [(3)] (4) (IV) an STR  DNA profile has already been developed from the 5 
-forensic sample, was entered into the statewide DNA database system and the national 6 
-DNA database system, and failed to identify a known individual [; and  7 
- 
-  (4) (V) unless the crime being investigated presen ts an ongoing threat 8 
-to public safety or national security concerns, reasonable investigative leads have been 9 
-pursued and failed to identify the perpetrator ]. 10 
- 
-  (2) NOTHING IN THIS SUBSE CTION MAY BE CONSTRU ED TO REQUIRE 11 
-THAT ALL INVESTIGATI VE LEADS HAVE BEEN EXHAUSTED .  12 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 13 
-October 1, 2025.  14 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, April 22, 2025.  

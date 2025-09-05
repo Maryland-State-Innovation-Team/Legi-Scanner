@@ -1,560 +1,527 @@
+ WES MOORE, Governor  Ch. 218  
  
+– 1 – Chapter 218  
+(Senate Bill 867 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.  
-         Italics indicate opposite chamber/confere nce committee amendments.             *sb0867*      
-SENATE BILL 867  
-C8, K3    (5lr2290 ) 
-ENROLLED BILL  
-— Education, Energy, and the Environment/Health and Government Operations  — 
-Introduced by Senator Hester  
+AN ACT concerning  
  
-Read and Examined by Proofreaders:  
+Cyber Maryland Program – Revisions  
  
-_______________________________________________  
-Proofreader.  
-_______________________________________________  
-Proofreader.  
+FOR the purpose of transferring the Cyber Maryland Program from the Maryland 
+Technology Development Corporation to the Maryland Department of Labor; 
+altering the duties of the Program; requiring the Program to award certain 
+competitive grants and contracts ; altering the purposes for which the Cyber 
+Maryland Fund may be used; altering certain funding requirements related to the 
+Program; requiring that unused balances from certain programs and funds be 
+transferred to the Program at the close of the fiscal yea r; altering the membership of 
+the Cyber Maryland Board; and generally relating to the Cyber Maryland Program.  
  
-Sealed with the Great Seal and presented to the Governor, for his approval this  
-  
-_______ day of _________ ______ at ________________________ o’clock, ________M.  
-  
-______________________________________________  
-President .  
+BY transferring  
+ Article – Economic Development  
+ Section 10 –491 and the part “Part XI. Miscellaneous”  
+ Annotated Code of Maryland  
+ (2024 Replacement Volume and 2024 Supplement)  
+to be  
+ Article – Labor and Employment  
+ Section 11 –1701 and the subtitle “Subtitle 17. Miscellaneous”  
+ Annotated Code of Maryland  
+ (2016 Replacement Volume and 2024 Supplement)  
  
-CHAPTER ______  
+BY repealing and reenacting, with amend ments,  
+ Article – Labor and Employment  
+Section 11 –1701 to be under the amended subtitle “Subtitle 17. Cyber Maryland 
+Program”  
+ Annotated Code of Maryland  
+ (2016 Replacement Volume and 2024 Supplement)  
+ (As enacted by Section 1 of this Act)  
  
-AN ACT concerning  1 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That Section(s) 10 –491 and the part “Part XI. Miscellaneous” of Article – Economic 
+Development of the Annotated Code of Maryland be transferred to be Section(s) 11 –1701 
+and the subtitle “Subtitle 17. Miscella neous” of Article – Labor and Employment of the 
+Annotated Code of Maryland.  
  
-Cyber Maryland Program – Revisions  2 
+ SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 
+as follows:  
  
-FOR the purpose of transferring the Cyber Maryland Program from the Maryland 3 
-Technology Development Corporation to the Maryland Department of Labor; 4 
-altering the duties of the Program; requiring the Program to award certain 5 
-competitive grants and contracts ; altering the purposes for which the Cyber 6 
-Maryland Fund may be used; altering certain funding requirements related to the 7 
-Program; requiring that unused balances from certain programs and funds be 8 
-transferred to the Program at the close of the fiscal yea r; altering the membership of 9 
-the Cyber Maryland Board; and generally relating to the Cyber Maryland Program.  10 
+Article – Labor and Employment  
  
-BY transferring  11 
- Article – Economic Development  12 
- Section 10 –491 and the part “Part XI. Miscellaneous”  13 
- Annotated Code of Maryland  14 
-2 SENATE BILL 867   
+Ch. 218  2025  LAWS OF MARYLAND   
  
-  (2024 Replacement Volume and 2024 Supplement)  1 
-to be  2 
- Article – Labor and Employment  3 
- Section 11 –1701 and the subtitle “Subtitle 17. Miscellaneous”  4 
- Annotated Code of Maryland  5 
- (2016 Replacement Volume and 2024 Supplement)  6 
+– 2 – Subtitle 17. [Miscellaneous ] CYBER MARYLAND PROGRAM . 
  
-BY repealing and reenacting, with amend ments,  7 
- Article – Labor and Employment  8 
-Section 11 –1701 to be under the amended subtitle “Subtitle 17. Cyber Maryland 9 
-Program”  10 
- Annotated Code of Maryland  11 
- (2016 Replacement Volume and 2024 Supplement)  12 
- (As enacted by Section 1 of this Act)  13 
+11–1701.  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 14 
-That Section(s) 10 –491 and the part “Part XI. Miscellaneous” of Article – Economic 15 
-Development of the Annotated Code of Maryland be transferred to be Section(s) 11 –1701 16 
-and the subtitle “Subtitle 17. Miscella neous” of Article – Labor and Employment of the 17 
-Annotated Code of Maryland.  18 
+ (a) [(1)] In this [section ] SUBTITLE  the following words have the meanings 
+indicated.  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 19 
-as follows:  20 
+  [(2)] (B) “Board” means the Cyber Maryland Board.  
  
-Article – Labor and Employment  21 
+  [(3)] (C) “Fund” means the Cyber Maryland Fund.  
  
-Subtitle 17. [Miscellaneous ] CYBER MARYLAND PROGRAM . 22 
+  [(4)] (D) “Program” means the Cyber Maryland Program.  
  
-11–1701.  23 
+11–1702.  
  
- (a) [(1)] In this [section ] SUBTITLE  the following words have the meanings 24 
-indicated.  25 
+ [(b)] (A) There is a Cyber Maryland Program in the [Corporation ] 
+DEPARTMENT . 
  
-  [(2)] (B) “Board” means the Cyber Maryland Board.  26 
+ [(c)] (B) The purposes of the Program are to:  
  
-  [(3)] (C) “Fund” means the Cyber Maryland Fund.  27 
+  (1) create and execute a talent pipeline that materially reduces workforce 
+vacancies by July 1, 2026;  
  
-  [(4)] (D) “Program” means the Cyber Maryland Program.  28 
+  (2) serve a s a one –stop shop for employers seeking to leverage cyber 
+workforce development programs offered by the State and its partners;  
  
-11–1702 . 29 
+  (3) inform cybersecurity training and education programs operated by 
+public or private entities with industry –driven needs;  
  
- [(b)] (A) There is a Cyber Maryland Program in the [Corporation ] 30 
-DEPARTMENT . 31 
+  (4) build the most advanced local and State information technology 
+workforce in the nation, which, to the maximum extent possible, reflects the racial, gender, 
+ethnic, and geographic diversity of the State;  
  
- [(c)] (B) The purposes of the Program are to:  32 
+  (5) coordinate and accelerate cybersecurity research and innovation in the 
+State; and  
  
- SENATE BILL 867  3 
+  (6) support the efforts of the Department of Information Technology to 
+improve the State government’s cybersecurity posture, including State agencies, local 
+government units, and critical infrastructure.  
  
-   (1) create and execute a talent pipeline that materially reduces workforce 1 
-vacancies by July 1, 2026;  2 
+ [(d)] (C) The Program shall:  
  
-  (2) serve as a one–stop shop for employers seeking to leverage cyber 3 
-workforce development programs offered by the State and its partners;  4 
+  (1) conduct ongoing research by collaborating with the Cybersecurity 
+Association [of Maryland ], Inc., Cybersecurity Talent Advisory Board to collect and analyze 
+ WES MOORE, Governor  Ch. 218  
  
-  (3) inform cybersecurity training and education programs operated by 5 
-public or private entities with industry –driven needs;  6 
+– 3 – real–time industry data to identify cybersecurity workforce needs as  described in the U.S. 
+Chamber of Commerce Talent Pipeline Management Approach;  
  
-  (4) build the most advanced local and State information technology 7 
-workforce in the nation, which, to the maximum extent possible, reflects the racial, gender, 8 
-ethnic, and geographic diversity of the State;  9 
+  (2) use the results of the research described in item (1) of this subsection 
+to increase the effectiveness of existing State cybersecurity workforce programs for 
+employers i n the State;  
  
-  (5) coordinate and accelerate cybersecurity rese arch and innovation in the 10 
-State; and  11 
+  (3) facilitate partnerships for new training and education programs to 
+address the workforce needs identified under item (1) of this subsection;  
  
-  (6) support the efforts of the Department of Information Technology to 12 
-improve the State government’s cybersecurity posture, including State agencies, local 13 
-government units, and critical infrastructure.  14 
+  (4) develop a statewide strategic plan for cybersecurity workforce 
+development, using the re sults of the research described in item (1) of this subsection and 
+with input from the Cybersecurity Association [of Maryland ], Inc., Cybersecurity Talent 
+Advisory Board on or before December 1, 2023; [and] 
  
- [(d)] (C) The Program shall:  15 
+  (5) DEVELOP , PROMOTE , SUPPORT , AND INVEST IN T ALENT 
+IMPROVEMENT STRATEGI ES, SUCH AS STRATEGIES T HAT LEVERAGE THE U.S.  
+CHAMBER OF COMMERCE TALENT PIPELINE MANAGEMENT APPROACH ; AND 
  
-  (1) conduct ongoing research by collaborating with the Cybersecurity 16 
-Association [of Maryland ], Inc., Cybersecurity Talent Advisory Board to collect and analyze 17 
-real–time industry data to identify cybersecurity workforce needs as des cribed in the U.S. 18 
-Chamber of Commerce Talent Pipeline Management Approach;  19 
+  [(5)] (6) ensure that outcomes of the Program are inclusive and, to the 
+maximum extent practicable, reflect the racial, gender, ethnic, and geographic diversity of 
+the State.  
  
-  (2) use the results of the research described in item (1) of this subsection 20 
-to increase the effectiveness of existing State cybersecurity workforce programs for 21 
-employers in th e State;  22 
+ (D) BEGINNING IN FISCAL Y EAR 2026,  THE PROGRAM , IN CONSULTATION 
+WITH THE BOARD , SHALL AWARD COMPETIT IVE GRANTS OR CONTRA CTS FOR 
+INFORMATION TECHNOLO GY OR OPERATIONAL TE CHNOLOGY  TO ENHANCE 
+CYBERSECURITY WORKFO RCE DEVELOPMENT , INCLUDING CYBERSECUR ITY FOR 
+OPERATIONAL TECHNOLO GY. 
  
-  (3) facilitate partnerships for new training and education programs to 23 
-address the workforce needs identified under item (1) of this subsection;  24 
+11–1703.  
  
-  (4) develop a statewide strategic plan for cybersecurity workforce 25 
-development, using the result s of the research described in item (1) of this subsection and 26 
-with input from the Cybersecurity Association [of Maryland ], Inc., Cybersecurity Talent 27 
-Advisory Board on or before December 1, 2023; [and] 28 
+ [(e) (1)] (A) There is a Cyber Maryland Fund.  
  
-  (5) DEVELOP , PROMOTE , SUPPORT , AND INVEST IN TALENT 29 
-IMPROVEMENT STRATEGI ES, SUCH AS STRATEGIES T HAT LEVERAGE THE U.S.  30 
-CHAMBER OF COMMERCE TALENT PIPELINE MANAGEMENT APPROACH ; AND 31 
+  [(2)] (B) The purposes of the Fund are to:  
  
-  [(5)] (6) ensure that outcomes of the Program are inclusive and, to the 32 
-maximum extent practicable, reflect the racial,  gender, ethnic, and geographic diversity of 33 
-the State.  34 
-4 SENATE BILL 867   
+   [(i)] (1) achieve the purposes identified under [subsection  (c) of 
+this section ] § 11–1702( B) OF THIS SUBTITLE ; and  
  
-  
- (D) BEGINNING IN FISCAL Y EAR 2026,  THE PROGRAM , IN CONSULTATION 1 
-WITH THE BOARD , SHALL AWARD COMPETIT IVE GRANTS OR CONTRA CTS FOR 2 
-INFORMATION TECHNOLO GY OR OPERATIONAL TE CHNOLOGY  TO ENHANCE 3 
-CYBERSECURITY WORKFO RCE DEVELOPMENT , INCLUDING CYBERSECUR ITY FOR 4 
-OPERATIONAL TECHNOLO GY. 5 
+   [(ii)] (2) support innovative approaches to meeting cybersecurity 
+workforce needs.  
  
-11–1703.  6 
+  [(3)] (C) The [Corporation ] DEPARTMENT  shall administer the Fund.  
  
- [(e) (1)] (A) There is a Cyber Maryland Fund.  7 
+  [(4) (i)] (D) (1) The Fund is a special,  nonlapsing fund that is not 
+subject to § 7 –302 of the State Finance and Procurement Article.  
+Ch. 218  2025  LAWS OF MARYLAND   
  
-  [(2)] (B) The purposes of the Fund are to:  8 
+– 4 –  
+   [(ii)] (2) The State Treasurer shall hold the Fund separately, and 
+the Comptroller shall account for the Fund.  
  
-   [(i)] (1) achieve the purposes identified under [subsection  (c) of 9 
-this section ] § 11–1702( B) OF THIS SUBTITLE ; and  10 
+  [(5)] (E) The Fund consists of:  
  
-   [(ii)] (2) support innovative approaches to meeting cybersecurity 11 
-workforce needs.  12 
+   [(i)] (1) money appropriated in the State budget to the Fund; [and] 
  
-  [(3)] (C) The [Corporation ] DEPARTMENT  shall administer the Fund.  13 
+  (2) MONEY TRANSFERRED TO  THE FUND IN ACCORDANCE WI TH 
+SUBSECTION (M) OF THIS SECTION ; AND  
  
-  [(4) (i)] (D) (1) The Fund is a special,  nonlapsing fund that is not 14 
-subject to § 7 –302 of the State Finance and Procurement Article.  15 
+   [(ii)] (3) any other money from any other source accepted for the 
+benefit of the Fund.  
  
-   [(ii)] (2) The State Treasurer shall hold the Fund separately, and 16 
-the Comptroller shall account for the Fund.  17 
+  [(6)] (F) The Fund may be used only for:  
  
-  [(5)] (E) The Fund consists of:  18 
+   [(i)] (1) administrative expenses of the Program, including hiring 
+staff in accordance with the State budget and hiring consultants and other professionals as 
+necessary to implement, maintain, and administer the Program a nd the Fund; and  
  
-   [(i)] (1) money appropriated in the State budget to the Fund; [and] 19 
+   [(ii)] (2) providing grants to elementary and secondary schools, 
+institutions of higher education, including community colleges, EMPLOYERS , INCLUDING  
+for–profit corporations, [and] nonprofit organizations , REGISTERED APPRENTIC ESHIP 
+SPO NSORS , LOCAL WORKFORCE BOAR DS, INDUSTRY ASSOCIATION S, LABOR UNIONS , 
+LOCAL GOVERNMENTS , LOCAL OR REGIONAL EC ONOMIC DEVELOPMENT E NTITIES , 
+AND OTHER RELEVANT P ARTNER ENTITIES AT T HE DEPARTMENT ’S DISCRETION  to 
+operate cybersecurity programs based on the strate gic plan of the Program.  
  
-  (2) MONEY TRANSFERRED TO  THE FUND IN ACCORDANCE WI TH 20 
-SUBSECTION (M) OF THIS SECTION ; AND  21 
+  [(7)] (G) The [Corporation ] DEPARTMENT shall adopt standards to 
+award grants under this section.  
  
-   [(ii)] (3) any other money from any other source accepted for the 22 
-benefit of the Fund.  23 
+  [(8) (i)] (H) (1) The State Treasurer shall invest the money of the 
+Fund in the same manner as other State money may be invested . 
  
-  [(6)] (F) The Fund may be used only for:  24 
+  [(ii)] (2) Any interest earnings of the Fund shall be credited to the 
+General Fund of the State.  
  
-   [(i)] (1) administrative expenses of the Program, including hiring 25 
-staff in accordance with the State budget and hiring consultants and other professionals as 26 
-necessary to implement, maintain, and administer the Program a nd the Fund; and  27 
+  [(9)] (I) Expenditures from the Fund may be made only in accordance 
+with the State budget.  
  
-   [(ii)] (2) providing grants to elementary and secondary schools, 28 
-institutions of higher education, including community colleges, EMPLOYERS , INCLUDING  29 
- SENATE BILL 867  5 
+  [(10)] (J) (1) For fiscal year [2025 and each year thereafter ] 2026 , the 
+Governor [: 
  
- for–profit corporations, [and] nonprofit organizations , REGISTERED APPRENTIC ESHIP 1 
-SPO NSORS , LOCAL WORKFORCE BOAR DS, INDUSTRY ASSOCIATION S, LABOR UNIONS , 2 
-LOCAL GOVERNMENTS , LOCAL OR REGIONAL EC ONOMIC DEVELOPMENT E NTITIES , 3 
-AND OTHER RELEVANT P ARTNER ENTITIES AT T HE DEPARTMENT ’S DISCRETION  to 4 
-operate cybersecurity programs based on the strate gic plan of the Program.  5 
+ WES MOORE, Governor  Ch. 218  
  
-  [(7)] (G) The [Corporation ] DEPARTMENT shall adopt standards to 6 
-award grants under this section.  7 
+– 5 –    (i) shall] MAY  include in the annual budget bill an appropriation of 
+[$99,000 ] $3,100,000  for the Fund to be used for [talent pipeline management; and  
  
-  [(8) (i)] (H) (1) The State Treasurer shall invest the money of the 8 
-Fund in the same manner as other State money may be invested . 9 
+   (ii) may include in the annual budget bill an additional 
+appropr iation of $250,000 for the Fund ] THE AWARDING OF GRAN TS AND CONTRACTS 
+UNDER § 11–1702( D) OF THIS SUBTITLE ALI GNED WITH THE STRATE GY OF AND 
+APPROVED BY THE BOARD . 
  
-  [(ii)] (2) Any interest earnings of the Fund shall be credited to the 10 
-General Fund of the State.  11 
+  (2) FOR FISCAL YEAR 2027  AND EACH FISCAL YEAR  THEREAFTER , 
+THE GOVERNOR SHALL  MAY  INCLUDE IN  THE ANNUAL BUDGET BI LL AN 
+APPROPRIATION SUFFIC IENT TO RUN THE PROGRAM . 
  
-  [(9)] (I) Expenditures from the Fund may be made only in accordance 12 
-with the State budget.  13 
+  (3) THE PROGRAM SHALL SEEK ALTERNATE FUNDING SO URCES TO 
+INCLUDE  COST–SHARING OR COST –MATCHING AGREEMENTS FROM PARTNERS  
+SOURCES OTHER THAN T HE STATE , INCLUDING THE FEDERA L GOVERNMENT , THE 
+PRIVATE SECTOR , AND PHILANTHROPY , TO DOUBLE  SUPPLEMENT  THE MONEY 
+APPROPRIATED TO THE FUND UNDER PARAGRAPH (1) OF THIS SUBSECTION . 
  
-  [(10)] (J) (1) For fiscal year [2025 and each year thereafter ] 2026 , the 14 
-Governor [: 15 
+  [(11)] (K) Subject to the availability of funding, for fiscal year 2025 and 
+each year thereafter, $250,000 of the Fun d shall be used for implementing the U.S. 
+Chamber of Commerce Talent Pipeline Management Approach.  
  
-   (i) shall] MAY  include in the annual budget bill an appropriation of 16 
-[$99,000 ] $3,100,000  for the Fund to be used for [talent pipeline management; and  17 
+  [(12)] (L) The Governor shall  MAY  include in the annual budget bill an 
+appropriation in an amount sufficient for the Program , INCLUDING TO HIRE SU FFICIENT  
+STAFF TO CARRY OUT I TS DUTIES . 
  
-   (ii) may include in the annual budget bill an additional 18 
-appropr iation of $250,000 for the Fund ] THE AWARDING OF GRAN TS AND CONTRACTS 19 
-UNDER § 11–1702( D) OF THIS SUBTITLE ALI GNED WITH THE STRATE GY OF AND 20 
-APPROVED BY THE BOARD . 21 
+ (M) NOTWITHSTANDING § 7–302 OF THE STATE FINANCE AND  
+PROCUREMENT ARTICLE AND ANY OTHER  PROVISION OF LAW , THE UNSPENT  
+BALANCE OF THE FOLLO WING PROGRAMS AND FU NDS THAT WAS MADE FO R THE  
+FISCAL YEAR SHALL BE  TRANSFERRED TO THE  FUND AT THE CLOSE OF THAT FISCAL  
+YEAR : 
  
-  (2) FOR FISCAL YEAR 2027  AND EACH FISCAL YEAR  THEREAFTER , 22 
-THE GOVERNOR SHALL  MAY  INCLUDE IN  THE ANNUAL BUDGET BI LL AN 23 
-APPROPRIATION SUFFIC IENT TO RUN THE PROGRAM . 24 
+  (1) EMPLOYMENT ADVANCEMENT RIGHT NOW PROGRAM ; 
  
-  (3) THE PROGRAM SHALL SEEK ALTERNATE FUNDING SO URCES TO 25 
-INCLUDE  COST–SHARING OR COST –MATCHING AGREEMENTS FROM PARTNERS  26 
-SOURCES OTHER THAN T HE STATE , INCLUDING THE FEDERA L GOVERNMENT , THE 27 
-PRIVATE SECTOR , AND PHILANTHROPY , TO DOUBLE  SUPPLEMENT  THE MONEY 28 
-APPROPRIATED TO THE FUND UNDER PARAGRAPH (1) OF THIS SUBSECTION . 29 
+  (2) CYBERSECURITY INVESTMENT TAX CREDIT ; 
  
-  [(11)] (K) Subject to the availability of funding, for fiscal year 2025 and 30 
-each year thereafter, $250,000 of the Fund shall be used for implementing the U.S. 31 
-Chamber of Commerce Talent Pipeline Management Approach.  32 
+  (3) BUY MARYLAND CYBERSECURITY TAX CREDIT ; 
  
-6 SENATE BILL 867   
+  (4) CYBERSECURITY INVESTMENT FUND; 
  
-   [(12)] (L) The Governor shall  MAY  include in the annual budget bill an 1 
-appropriation in an amount sufficient for the Program , INCLUDING TO HIRE SUFFICIENT 2 
-STAFF TO CARRY OUT I TS DUTIES . 3 
+  (5) PATHWAYS IN TECHNOLOGY EARLY COLLEGE HIGH SCHOOL  
+PROGRAM ; 
  
- (M) NOTWITHSTANDING § 7–302 OF THE STATE FINANCE AND  4 
-PROCUREMENT ARTICLE AND ANY OTHER  PROVISION OF LAW , THE UNSPENT  5 
-BALANCE OF THE FOLLO WING PROGRAMS AND FU NDS THAT WAS MADE FO R THE  6 
-FISCAL YEAR SHALL BE  TRANSFER RED TO THE FUND AT THE CLOSE OF THAT FISCAL  7 
-YEAR : 8 
+  (6) CYBER PUBLIC SERVICE SCHOLARSHIP ; 
+Ch. 218  2025  LAWS OF MARYLAND   
  
-  (1) EMPLOYMENT ADVANCEMENT RIGHT NOW PROGRAM ; 9 
+– 6 –  
+  (7) MARYLAND TECHNOLOGY INTERNSHIP PROGRAM ; 
  
-  (2) CYBERSECURITY INVESTMENT TAX CREDIT ; 10 
+  (8) MARYLAND INSTITUTE FOR INNOVATIVE COMPUTING ; 
  
-  (3) BUY MARYLAND CYBERSECURITY TAX CREDIT ; 11 
+  (9) ACCELERATING CYBER CAREERS PROGRAM ; 
  
-  (4) CYBERSECURITY INVESTMENT FUND; 12 
+  (10) UNIVERSITY OF MARYLAND , BALTIMORE COUNTY’S CENTER FOR  
+CYBERSECURITY ; 
  
-  (5) PATHWAYS IN TECHNOLOGY  EARLY COLLEGE HIGH SCHOOL  13 
-PROGRAM ; 14 
+  (11) BUILD OUR FUTURE GRANT PILOT PROGRAM ; AND  
  
-  (6) CYBER PUBLIC SERVICE SCHOLARSHIP ; 15 
+  (12) REGISTERED APPRENTIC ESHIPS IN CYBERSECUR ITY. 
  
-  (7) MARYLAND TECHNOLOGY INTERNSHIP PROGRAM ; 16 
+11–1704.  
  
-  (8) MARYLAND INSTITUTE FOR INNOVATIVE COMPUTING ; 17 
+ [(f) (1)] (A) There is a Cyber Maryland Board.  
  
-  (9) ACCELERATING CYBER CAREERS PROGRAM ; 18 
+  [(2)] (B) The Board consists of the following members:  
  
-  (10) UNIVERSITY OF MARYLAND , BALTIMORE COUNTY’S CENTER FOR  19 
-CYBERSECURITY ; 20 
+   [(i)] (1) the Senate and House of Delegates cochairs of the Joint 
+Committee on Cybersecurity, Information Technology, and Biotechnology;  
  
-  (11) BUILD OUR FUTURE GRANT PILOT PROGRAM ; AND  21 
+   [(ii)] (2) the Secretary, or the Secretary’s designee;  
  
-  (12) REGISTERED APPRENTIC ESHIPS IN CYBERSECUR ITY. 22 
+   [(iii)] (3) the Secretary of [Labor ] COMMERCE , or the  Secretary’s 
+designee;  
  
-11–1704.  23 
+   [(iv)] (4) the Maryland Secretary of Veterans and Military 
+Families, or the Secretary’s designee;  
  
- [(f) (1)] (A) There is a Cyber Maryland Board.  24 
+   [(v)] (5) the Secretary of Information Technology, or the 
+Secretary’s designee;  
  
-  [(2)] (B) The Board consists of the following members:  25 
+  (6) THE SECRETARY OF HIGHER EDUCATION , OR THE SECRETARY ’S 
+DESIGNEE ; 
  
-   [(i)] (1) the Senate and House of Delegates cochairs of the Joint 26 
-Committee on Cybersecurity, Information Technology, and Biotechnology;  27 
+  (7) THE STATE SUPERINTENDENT OF SCHOOLS , OR THE 
+SUPERINTENDENT ’S DESIGNEE ; 
  
- SENATE BILL 867  7 
+   [(vi)] (8) the Chair of the Board of Directors of the Cybersecurity 
+Association [of Maryland ], Inc., or the Chair’s designee;  
  
-    [(ii)] (2) the Secretary, or the Secretary’s designee;  1 
+ WES MOORE, Governor  Ch. 218  
  
-   [(iii)] (3) the Secretary of [Labor ] COMMER CE, or the Secretary’s 2 
-designee;  3 
+– 7 –    [(vii)] (9) the Chair of the Maryland Workforce Association, or the 
+Chair’s designee;  
  
-   [(iv)] (4) the Maryland Secretary of Veterans and Military 4 
-Families, or the Secretary’s designee;  5 
+  (10)  THE ADJUTANT GENERAL , OR THE ADJUTANT GENERAL’S 
+DESIGNEE ;  
  
-   [(v)] (5) the Secretary of Information Technology, or the 6 
-Secretary’s designee;  7 
+  (10)  (11) THE CHIEF EXECUTIVE OFFICER  OF THE MARYLAND 
+TECHNOLOGY DEVELOPMENT CORPORATION (TEDCO),  OR THE CHIEF 
+EXECUTIVE OFFICER’S DESIGNEE ; AND  
  
-  (6) THE SECRETARY OF HIGHER EDUCAT ION, OR THE SECRETARY ’S 8 
-DESIGNEE ; 9 
+   [(viii)] (11) (12)  the following members, appointed by the Governor:  
  
-  (7) THE STATE SUPERINTENDENT OF SCHOOLS , OR THE 10 
-SUPERINTENDENT ’S DESIGNEE ; 11 
+    [1.] (I) five members from the private sector with 
+cybersecurity needs;  
  
-   [(vi)] (8) the Chair of the Board of Directors of the Cybersecurity 12 
-Association [of Maryland ], Inc., or the Chair’s designee;  13 
+    [2.] (II) one representative from a nonprofit organization 
+with ex pertise in cybersecurity talent development;  
  
-   [(vii)] (9) the Chair of the Maryland Workforce Association, or the 14 
-Chair’s designee;  15 
+    [3.] (III) one representative from a community college;  
  
-  (10)  THE ADJUTANT GENERAL , OR THE ADJUTANT GENERAL’S 16 
-DESIGNEE ;  17 
+    [4.] (IV) one representative from a 4 –year, public HBCU 
+college; and  
  
-  (10)  (11) THE CHIEF EXECUTIVE OFFICER  OF THE MARYLAND 18 
-TECHNOLOGY DEVELOPMENT CORPORATION (TEDCO),  OR THE CHIEF 19 
-EXECUTIVE OFFICER’S DESIGNEE ; AND  20 
+    [5.] (V) one representative from a 4 –year, public college [; 
+and 
  
-   [(viii)] (11) (12)  the following members, appointed by the Governor:  21 
+   (ix) the Chief Executive Officer, or the Chief Executive Officer’s 
+designee ]. 
  
-    [1.] (I) five members from the private sector with 22 
-cybersecurity needs;  23 
+  [(3) (i)] (C) (1) Subject to [subparagraph (ii) ] PARAGRAPH (2) of 
+this [paragraph ] SUBSECTION , the members of the Board shall elect a chair from among 
+the members of the Board.  
  
-    [2.] (II) one representative from a nonprofit organization 24 
-with expertise in cybersecurity talent development;  25 
+   [(ii)] (2) The chair may not be:  
  
-    [3.] (III) one representative from a community college;  26 
+    [1.] (I) a State employee; or  
  
-    [4.] (IV) one representative from a 4 –year, public HBCU 27 
-college; and  28 
+    [2.] (II) the Chief Executive Officer OF THE MARYLAND 
+TECHNOLOGY DEVELOPMENT CORPORATION (TEDCO) . 
  
-    [5.] (V) one representative from a 4 –year, public college [; 29 
-and 30 
-8 SENATE BILL 867   
+  [(4)] (D) The Board shall:  
  
-  
-   (ix) the Chief Executive Officer, or the Chief Executive Officer’s 1 
-designee ]. 2 
+   [(i)] (1) provide input regarding the de velopment of the statewide 
+cybersecurity workforce development strategic plan required under [subsection (d)(4) of 
+this section ] § 11–1702( C)(4) OF THIS SUBTITLE ; 
+Ch. 218  2025  LAWS OF MARYLAND   
  
-  [(3) (i)] (C) (1) Subject to [subparagraph (ii) ] PARAGRAPH (2) of 3 
-this [paragraph ] SUBSECTION , the members of the Board shall elect a chair from among 4 
-the members of the Bo ard. 5 
+– 8 –  
+   [(ii)] (2) assist the Program with stakeholder outreach and 
+engagement;  
  
-   [(ii)] (2) The chair may not be:  6 
+   [(iii)] (3) help the Program explore synergies where appropriate 
+with cybersecurity workforce development efforts by regional and county workforce 
+development entities;  
  
-    [1.] (I) a State employee; or  7 
+   [(iv)] (4) coordinate as necessary with the [Maryland ] Department 
+of [Labor ] COMMERCE  and the D epartment; and  
  
-    [2.] (II) the Chief Executive Officer OF THE MARYLAND 8 
-TECHNOLOGY DEVELOPMENT CORPORATION (TEDCO) . 9 
+   [(v)] (5) provide other advice and support for the Program.  
  
-  [(4)] (D) The Board shall:  10 
+  [(5)] (E) A member of the Board:  
  
-   [(i)] (1) provide input regarding the development of the statewide 11 
-cybersecurity workforce development strategic plan required under [subsection (d)(4) of 12 
-this section ] § 11–1702( C)(4) OF THIS SUBTITLE ; 13 
+   [(i)] (1) may not receive compensation as a member of the Board; 
+but 
  
-   [(ii)] (2) assist the Program with stakeholder outreach and  14 
-engagement;  15 
+   [(ii)] (2) is entitled to reimbursement for expenses under the 
+Standard State Travel Regulations, as provided in the State budget.  
  
-   [(iii)] (3) help the Program explore synergies where appropriate 16 
-with cybersecurity workforce development efforts by regional and county workforce 17 
-development entities;  18 
+  [(6) The Governor may remove an appointed member of the Board for 
+incompetence, misconduct, or failure to perform the duties of the position. ] 
  
-   [(iv)] (4) coordinate as necessary with the [Maryland ] Department 19 
-of [Labor ] COMMERCE  and the Department; and  20 
+ (F) TO THE EXTENT PRACTIC ABLE , THE MEMBERSHIP OF THE BOARD 
+SHALL REFLECT THE RA CIAL , GENDER , AGE, AND GEOGRAPHIC DIVER SITY OF THE 
+STATE . 
  
-   [(v)] (5) provide other advice and support for the Program.  21 
+ (G) (1) THE TERM OF AN APPOIN TED MEMBER OF THE BOARD IS 4 YEARS . 
  
-  [(5)] (E) A member of the Board:  22 
+  (2) THE TERMS OF THE APPO INTED MEMBERS ARE ST AGGERED AS  
+REQUIRED BY THE TERM S PROVID ED FOR APPOINTED MEM BERS OF THE BOARD ON  
+OCTOBER 1, 2025.  
  
-   [(i)] (1) may not receive compensation as a member of the Board; 23 
-but 24 
+  (3) AT THE END OF A TERM , AN APPOINTED MEMBER CONTINUES TO  
+SERVE UNTIL A SUCCES SOR IS APPOINTED AND  QUALIFIES . 
  
-   [(ii)] (2) is entitled to reimburse ment for expenses under the 25 
-Standard State Travel Regulations, as provided in the State budget.  26 
+  (4) A MEMBER WHO IS APPOIN TED AFTER A TERM HAS  BEGUN SERVES  
+ONLY FOR THE REST OF  THE TERM AND UNTIL A  SUCCESSOR IS APPOINT ED AND  
+QUALIFIES  THE BOARD SHALL ADOPT BYL AWS THAT ESTABLISH S TAGGERED TERMS 
+FOR THE MEMBERS OF T HE BOARD AND PROCEDURES GOVERNING VACANCIES IN 
+MEMBERSHIP . 
  
-  [(6) The Governor may remove an appointed member of the Board for 27 
-incompetence, misconduct, or failure to perform the duties of the position. ] 28 
+11–1705.  
+ WES MOORE, Governor  Ch. 218  
  
- SENATE BILL 867  9 
+– 9 –  
+ [(g)] (A) On or before December 1 each year, beginning in 2026, the Program, in 
+conjunction with the [Corporation ] DEPARTMENT , shall submit a report on the operation 
+and performance of the Program to the Governor and, in accordance with § 2 –1257 of the 
+State Governm ent Article, the General Assembly.  
  
-  (F) TO THE EXTENT PRACTICABLE , THE MEMBERSHIP OF TH E BOARD 1 
-SHALL REFLECT THE RA CIAL , GENDER , AGE, AND GEOGRAPHIC DIVER SITY OF THE 2 
-STATE . 3 
+ (B) THE REPORT REQUIRED U NDER SUBSECTION (A) OF THIS SECTION 
+SHALL INCLUDE KEY PE RFORMANCE METRICS ES TABLISHED BY THE DEPARTMENT 
+THAT ARE ALIGNED WIT H THE STATE STRATEGY AND GO ALS FOR THE PROGRAM 
+AND THE PROGRESS OF THE  PROGRAM AGAINST THOSE  METRICS . 
  
- (G) (1) THE TERM OF AN APPOIN TED MEMBER OF THE BOARD IS 4 YEARS . 4 
+ SECTION 3. AND BE IT FURTHER ENACTED, That:  
  
-  (2) THE TERMS OF THE APPO INTED MEMBERS ARE ST AGGERED AS  5 
-REQU IRED BY THE TERMS PR OVIDED FOR APPOINTED  MEMBERS OF THE BOARD ON  6 
-OCTOBER 1, 2025.  7 
+ (a) The Cyber Maryland Program, in conjunction with the Maryland Department 
+of Labor and the Cyber Maryland Board, shall report on cyber workforce program activities 
+determined  relevant by the Program through collaboration with relevant departments and 
+entities, including:  
  
-  (3) AT THE END OF A TERM , AN APPOINTED MEMBER CONTINUES TO  8 
-SERVE UNTIL A SUCCES SOR IS APPOINTED AND  QUALIFIES . 9 
+  (1) Employment Advancement Right Now Program;  
  
-  (4) A MEMBER WHO IS APPOIN TED AFTER A TERM HAS  BEGUN SERVES  10 
-ONLY FOR THE REST OF  THE TERM AND UNTIL A  SUCCESSOR IS APPOINT ED AND  11 
-QUALIFIES  THE BOARD SHALL ADOPT BYL AWS THAT ESTABLISH S TAGGERED TERMS 12 
-FOR THE MEMBERS OF T HE BOARD AND PROCEDURES GOVERNING VACANCIES IN 13 
-MEMBERSHIP . 14 
+  (2) Pathways in Technology Early College High School;  
  
-11–1705.  15 
+  (3) Cyber Public Service Scholarship;  
  
- [(g)] (A) On or before December 1 each year, beginning in 2026, the Program, in 16 
-conjunction with the [Corporation ] DEPARTMENT , shall submit a report on the operation 17 
-and performance of the Program to the Governor and, in accordance with § 2 –1257 of the 18 
-State Governm ent Article, the General Assembly.  19 
+  (4) Maryland Technology Internship Program;  
  
- (B) THE REPORT REQUIRED U NDER SUBSECTION (A) OF THIS SECTION 20 
-SHALL INCLUDE KEY PE RFORMANCE METRICS ES TABLISHED BY THE DEPARTMENT 21 
-THAT ARE ALIGNED WIT H THE STATE STRATEGY AND GO ALS FOR THE PROGRAM 22 
-AND THE PROGRESS OF THE  PROGRAM AGAINST THOSE  METRICS . 23 
+  (5) Maryland Institute for Innovative Computing;  
  
- SECTION 3. AND BE IT FURTHER ENACTED, That:  24 
+  (6) Accelerating Cyber Careers Program;  
  
- (a) The Cyber Maryland Program, in conjunction with the Maryland Department 25 
-of Labor and the Cyber Maryland Board, shall report on cyber workforce program activities 26 
-determined  relevant by the Program through collaboration with relevant departments and 27 
-entities, including:  28 
+  (7) University of Maryland Baltimore County’s Center for Cybersecurity;  
  
-  (1) Employment Advancement Right Now Program;  29 
+  (8) Build Our Future Grant Pilot Program; and 
  
-  (2) Pathways in Technology Early College High School;  30 
+  (9) Registered Apprenticeships in Cybersecurity.  
  
-  (3) Cyber Public Service Scholarship;  31 
+ (b) The report required under subsection (a) of this section shall capture the 
+following data for each program:  
  
-  (4) Mary land Technology Internship Program;  32 
-10 SENATE BILL 867   
+  (1) program outputs, such as the number of program participants served;  
  
-  
-  (5) Maryland Institute for Innovative Computing;  1 
+  (2) program outcomes, such as the impact of or changes resulting from the 
+program;  
  
-  (6) Accelerating Cyber Careers Program;  2 
+  (3) the performance targets for program outputs and outcomes; and  
  
-  (7) University of Maryland Baltimore County’s Center for Cybersecurity;  3 
+Ch. 218  2025  LAWS OF MARYLAND   
  
-  (8) Build Our Future Grant Pilot Program; and  4 
+– 10 –   (4) if possible, the return on program investments.  
  
-  (9) Registered Apprenticeships in Cybersecurity.  5 
+ (c) On or before December 1, 2026, the Cyber Maryland P rogram, in conjunction 
+with the Maryland Department of Labor, shall submit the report to the Governor and, in 
+accordance with § 2 –1257 of the State Government Article, the General Assembly.  
  
- (b) The report required under subsection (a) of this section shall capture the 6 
-following data for each program:  7 
+ SECTION 4. AND BE IT FURTHER ENACTED, That  
  
-  (1) program outputs, such as the number of program participants served;  8 
+ (a) It it is the intent of the General Assembly that : 
  
-  (2) program o utcomes, such as the impact of or changes resulting from the 9 
-program;  10 
+  (1) the amounts awarded in grants and contracts under § 11 –702(d) of the 
+Labor and Employment Article, as enacted by Section 2 of this Act, not exceed the following:  
  
-  (3) the performance targets for program outputs and outcomes; and  11 
+  (1) may be allocated to provide  $1,000,000 for the establishment of 
+cybersecurity clinics ;, including clinics related to operational technology, that:  
  
-  (4) if possible, the return on program investments.  12 
+   (i) are focused on ensuring individuals attain hands –on 
+cybersecurity skills to protect critical infrastructure sectors including em ergency services, 
+water, elementary and secondary schools, health care, energy, small businesses, and 
+nonprofit entities;  
  
- (c) On or before December 1, 2026, the Cyber Maryland Progra m, in conjunction 13 
-with the Maryland Department of Labor, shall submit the report to the Governor and, in 14 
-accordance with § 2 –1257 of the State Government Article, the General Assembly.  15 
+   (ii) provide cyber awareness and training to customers;  
  
- SECTION 4. AND BE IT FURTHER ENACTED, That  16 
+   (iii) perform cybersecurity assessments for customers;  
  
- (a) It it is the intent of the General Assembly that : 17 
+   (iv) provid e recommendations for necessary remediations;  
  
-  (1) the amounts awarded in grants and contracts under § 11 –702(d) of the 18 
-Labor and Employment Article, as enacted by Section 2 of this Act, not exceed the following:  19 
+   (v) install free or reduced –cost cybersecurity tools as part of the 
+grant or at a reduced rate to the end customer; or  
  
-  (1) may be allocated to provide  $1,000,000 for the establishment of 20 
-cybersecurity clinics ;, including clinics related to operational technology, that:  21 
+   (vi) provide additional cybersecurity tasks as appropriate; and  
  
-   (i) are focused on ensuring individuals attain hands –on 22 
-cybersecurity skills to protect critical infrastructure sectors including em ergency services, 23 
-water, elementary and secondary schools, health care, energy, small businesses, and 24 
-nonprofit entities;  25 
+  (2) the balance of the Cyber Maryland Fund be used to implement 
+initiatives approved by the Cyber Maryland Board, including strategies to support 
+transitioning veterans, existing worker training, education for kindergarten through 12th 
+grade students at summer camps, the Maryland Statewide Computing Alignment to Locate 
+your Education Scale (SCALE) portal, a marketing campaign for the Cyber Maryland 
+Brand to attract talent to the State, and others outlined in the statewide strategic plan 
+required under § 11 –1702(c)(4) of th e Labor and Employment Article.  
  
-   (ii) provide cyber awareness and training to customers;  26 
+  (2) $500,000 to support the development of a  
+service –based learning program for cybersecurity;  
  
-   (iii) perform cybersecurity assessments for customers;  27 
+  (3) $500,000 to support transitioning veterans within the State who have 
+cyber skills, adjacent skills, or relevant clearan ces acquired during their service;  
  
-   (iv) provide recommendations for necessary remediations;  28 
- SENATE BILL 867  11 
+ WES MOORE, Governor  Ch. 218  
  
-  
-   (v) install free or reduced –cost cybersecurity tools as part of the 1 
-grant or at a reduced rate to the end customer; or  2 
+– 11 –   (4) $99,000 for talent pipeline management aligned with the framework 
+from the U.S. Chamber of Commerce Foundation.  
  
-   (vi) provide additional cybersecurity tasks as appropriate; and  3 
+  (5) $250,000 to support existing or develop new programs and incentives 
+for existing worker trainin g;  
  
-  (2) the ba lance of the Cyber Maryland Fund be used to implement 4 
-initiatives approved by the Cyber Maryland Board, including strategies to support 5 
-transitioning veterans, existing worker training, education for kindergarten through 12th 6 
-grade students at summer camps , the Maryland Statewide Computing Alignment to Locate 7 
-your Education Scale (SCALE) portal, a marketing campaign for the Cyber Maryland 8 
-Brand to attract talent to the State, and others outlined in the statewide strategic plan 9 
-required under § 11 –1702(c)(4)  of the Labor and Employment Article.  10 
+  (6) $250,000 to support cybersecurity education at the kindergarten, 
+elementary school, and secondary school levels, including at summer camps;  
  
-  (2) $500,000 to support the development of a  11 
-service –based learning program for cybersecurity;  12 
+  (7) $250,000 for a marketing campaign, in consultation with the 
+Department of Commerce, to attract cyber talent and industry to the State; and  
  
-  (3) $500,000 to support transitioning veterans within the State who have 13 
-cyber skills, adjacent skills, or relevant c learances acquired during their service;  14 
+  (8) $250,000 for the Maryland Statewide Computing Alignment to Locate 
+your Education (SCALE) portal.  
  
-  (4) $99,000 for talent pipeline management aligned with the framework 15 
-from the U.S. Chamber of Commerce Foundation.  16 
+ (b) It is the intent of the General Assembly that the cybersecurity clinics under 
+subsection (a)(1) of thi s section:  
  
-  (5) $250,000 to support existing or develop new programs and incentives 17 
-for existing worker t raining;  18 
+  (1) include five pilot programs, with each pilot program focused on one of 
+the following customer groups:  
  
-  (6) $250,000 to support cybersecurity education at the kindergarten, 19 
-elementary school, and secondary school levels, including at summer camps;  20 
+   (i) emergency services;  
  
-  (7) $250,000 for a marketing campaign, in consultation with the 21 
-Department of Commerce, to attract cyber talent and industry to the State; and  22 
+   (ii) water;  
  
-  (8) $250,000 for the Maryland Statewide Computing Alignment to Locate 23 
-your Education (SCALE) portal.  24 
+   (iii) elementary and secondary schools;  
  
- (b) It is the intent of the General Assembly that the cybersecurity clinics under 25 
-subsection (a)(1 ) of this section:  26 
+   (iv) health; and  
  
-  (1) include five pilot programs, with each pilot program focused on one of 27 
-the following customer groups:  28 
+   (v) small businesses an d nonprofit entities; and  
  
-   (i) emergency services;  29 
+  (2) will: 
  
-   (ii) water;  30 
+   (i) provide cyber awareness and training to customers;  
  
-   (iii) elementary and secondary schools;  31 
+   (ii) perform cybersecurity assessments for customers;  
  
-12 SENATE BILL 867   
+   (iii) provide recommendations for necessary remediations; and  
  
-    (iv) health; and  1 
+   (iv) install free or reduced –cost cybersecurity tools as part of the 
+grant or at a reduced rate to the end customer.  
  
-   (v) small businesses and nonprofit entities; and  2 
+ SECTION 4. AND BE IT FURTHER ENACTED, That the terms of the initial 
+appointed members of the Cyber Maryland Board shall expire as follows:  
  
-  (2) will: 3 
+  (1) three members in 2026;  
+Ch. 218  2025  LAWS OF MARYLAND   
  
-   (i) provide cyber awareness and training to customers;  4 
+– 12 –  
+  (2) two members in 2027;  
  
-   (ii) perform cybersecurity assessments for customers;  5 
+  (3) two members in 2028; and  
  
-   (iii) provide recommendations for necessary remediations; and  6 
+  (4) two members in 2029.  
  
-   (iv) install free  or reduced –cost cybersecurity tools as part of the 7 
-grant or at a reduced rate to the end customer.  8 
+ SECTION 5. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October  July 1, 2025.  
  
- SECTION 4. AND BE IT FURTHER ENACTED, That the terms of the initial 9 
-appointed members of the Cyber Maryland Board shall expire as follows:  10 
- 
-  (1) three members in 2026;  11 
- 
-  (2) two members in 2027;  12 
- 
-  (3) two members in 2028; and  13 
- 
-  (4) two members in 2029.  14 
- 
- SECTION 5. AND BE IT FURTHER ENACTED, That this Act shall take effect 15 
-October  July 1, 2025.  16 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
+Approved by the Governor, April 22, 2025.  

@@ -1,282 +1,260 @@
+ WES MOORE, Governor  Ch. 147  
  
+– 1 – Chapter 147  
+(House Bill 442 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED  TO EXISTING LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0442*      
-HOUSE BILL 442  
-E2   5lr1784  
-    CF SB 333  
-By: Delegates Simpson, Acevero, Bouchat, Fair, Kerr, Miller, and Tomlinson  
-Introduced and read first time: January 16,  2025  
-Assigned to: Judiciary  
-Committee Report: Favorable  
-House action: Adopted  
-Read second time: February 25, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Criminal Procedure – Victims and Witnesses  – Out of Court Statement of Child 
+to Forensic Interviewer  
  
-AN ACT concerning  1 
+FOR the purpose of  expanding  a certain evidentiary rule to render admissible a n out of 
+court statement made by a child victim or witness to a certain forensic interviewer  
+subject to certain requirements ; and generally relating to out of court statements by 
+child victims and witnesses . 
  
-Criminal Procedure – Victims and Witnesses  – Out of Court Statement of Child 2 
-to Forensic Interviewer  3 
+BY repealing and reenacting, with amendments,  
+ Article – Criminal Procedure  
+Section 11 –304 
+ Annotated Code of Maryland  
+ (2018 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of  expanding a certain evidentiary rule to render admissible a n out of 4 
-court statement made by a child victim or witness to a certain forensic interviewer  5 
-subject to certain requirements ; and generally relating to out of court statements by 6 
-child victims and witnesses . 7 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  8 
- Article – Criminal Procedure  9 
-Section 11 –304 10 
- Annotated Code of Maryland  11 
- (2018 Replacement Volume and 2024 Supplement)  12 
+Article – Criminal Procedure  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 13 
-That the Laws of Maryland read as follows:  14 
+11–304. 
  
-Article – Criminal Procedure  15 
+ (a) (1) In this section [, “statement” ] THE FOLLOWING WORDS HAVE THE 
+MEANINGS INDICATED .  
  
-11–304. 16 
+  (2) “FORENSIC INTERVIEWER ” MEANS A PROFESSIONAL WHO : 
  
- (a) (1) In this section [, “statement” ] THE FOLLOWING WORDS HAVE THE 17 
-MEANINGS INDICATED .  18 
+   (I) IS TRAINED IN CHILD FORENSIC INTERVIEWING PROTOCO LS 
+AND TECHNIQUES THAT ALLOW FOR NEUTRAL , LEGALLY SOUND , NONLEADING , AND 
+DEVELOPMENTALLY APPR OPRIATE INTERVIEWS W ITH CHILDREN TO GATH ER 
+INFORMATION WITHOUT INFLUENCING THE INFORMATION PROV IDED BY THE 
+CHILD ; 
  
-  (2) “FORENSIC INTERVIEWER ” MEANS A PROFESSIONAL WHO : 19 
-2 HOUSE BILL 442   
+   (II) IS NOT A LAW ENFORCEMENT OFFICER ; AND 
  
-  
-   (I) IS TRAINED IN CHILD FORENSIC INTERVIEWIN G PROTOCOL S 1 
-AND TECHNIQUES THAT ALLOW FOR NEUTRAL , LEGALLY SOUND , NONLEADING , AND 2 
-DEVELOPMENTALLY APPR OPRIATE INTERVIEWS W ITH CHILDREN TO GATH ER 3 
-INFORMATION WITHOUT INFLUENCING THE INFORMATION PROV IDED BY THE 4 
-CHILD ; 5 
+   (III) IS EMPLOYED BY OR WO RKS UNDER CONTRACT W ITH A 
+CHILD ADVOCACY CENTE R AS DEFINED IN § 13–2201  OF THE HEALTH – GENERAL 
+ARTICLE , OR AN ENTITY  IN ANOTHER JURISDICT ION THAT  WOULD QUALIFY  AS A 
+CHILD ADVOCACY CENTE R IN THE STATE . 
  
-   (II) IS NOT A LAW ENFORCE MENT OFFICER ; AND 6 
+Ch. 147  2025 LAWS OF MARYLAND   
  
-   (III) IS EMPLOYED BY OR WO RKS UNDER CONTRACT W ITH A 7 
-CHILD ADVOCACY CENTE R AS DEFINED IN § 13–2201  OF THE HEALTH – GENERAL 8 
-ARTICLE , OR AN ENTITY  IN ANOTHER JURISDICT ION THAT  WOULD QUALIFY  AS A 9 
-CHILD ADVOCACY CENTE R IN THE STATE . 10 
+– 2 –   (3)  “STATEMENT ” means:  
  
-  (3)  “STATEMENT ” means:  11 
+  [(1)] (I) an oral or written assertion; or  
  
-  [(1)] (I) an oral or written assertion; or  12 
+  [(2)] (II) nonverbal conduct intended as an assertion, including sounds, 
+gestures, demonstrations, drawings, and similar actions.  
  
-  [(2)] (II) nonverbal conduct intended as an assertion, including sounds, 13 
-gestures, demonstrations, drawings, and similar actions.  14 
+ (b) Subject to subsections (c), (d), and (e) of  this section, the court may admit into 
+evidence in a juvenile court proceeding or in a criminal proceeding an out of court statement 
+to prove the truth of the matter asserted in the statement made by a child victim or witness 
+who:  
  
- (b) Subject to subsections (c), (d), and (e) of this section, the court may admit into 15 
-evidence in a juvenile court proceeding or in a criminal proceeding an out of court statement 16 
-to prove the truth of the matter asserted in the statement made by a child victim or witness 17 
-who:  18 
+  (1) (i) is under the age of 13 years; and  
  
-  (1) (i) is under the age of 13 years; and  19 
+   (ii) is an alleged victim or a child alleged to need assistance in the 
+case before the court concerning:  
  
-   (ii) is an alleged victim or a child alleged to need assistance in the 20 
-case before the court concerning:  21 
+    1. child abuse under § 3 –601 or § 3 –602 of the Criminal Law 
+Article;  
  
-    1. child abuse under § 3 –601 or § 3 –602 of the Criminal Law 22 
-Article;  23 
+    2. rape or sexual offense under §§ 3 –303 throug h 3–307 of 
+the Criminal Law Article;  
  
-    2. rape or sexual offense under §§ 3 –303 through 3 –307 of 24 
-the Criminal Law Article;  25 
+    3. attempted rape in the first or second degree under §§  
+3–309 and 3 –310 of the Criminal Law Article;  
  
-    3. attempted rape in the first or second degree under §§  26 
-3–309 and 3 –310 of the Criminal Law Article;  27 
+    4. in a juvenile court proceeding, abuse or neglect as defined 
+in § 5 –701 of the Family Law Article; or  
  
-    4. in a ju venile court proceeding, abuse or neglect as defined 28 
-in § 5 –701 of the Family Law Article; or  29 
+    5. neglect of a minor under § 3 –602.1 of the Criminal Law 
+Article; or  
  
-    5. neglect of a minor under § 3 –602.1 of the Criminal Law 30 
-Article; or  31 
+  (2) (i) is under the age of 13 years; and  
  
- HOUSE BILL 442  3 
+   (ii) is an alleged victim or a witness in a case before the court 
+concerning a crime of violence as defined under § 14 –101 of the Crim inal Law Article.  
  
-   (2) (i) is under the age of 13 years; and  1 
+ (c) An out of court statement may be admissible under this section only if the 
+statement was made to and is offered by a person acting lawfully in the course of the 
+person’s profession when the statement was made who is:  
  
-   (ii) is an alleged victim or a witness  in a case before the court 2 
-concerning a crime of violence as defined under § 14 –101 of the Criminal Law Article.  3 
+  (1) a physic ian; 
  
- (c) An out of court statement may be admissible under this section only if the 4 
-statement was made to and is offered by a person acting lawfu lly in the course of the 5 
-person’s profession when the statement was made who is:  6 
+  (2) a psychologist;  
  
-  (1) a physician;  7 
+  (3) a nurse;  
+ WES MOORE, Governor  Ch. 147  
  
-  (2) a psychologist;  8 
+– 3 –  
+  (4) a social worker;  
  
-  (3) a nurse;  9 
+  (5) a principal, vice principal, teacher, or school counselor at a public or 
+private preschool, elementary school, or secondary school;  
  
-  (4) a social worker;  10 
+  (6) a counselor licensed or certified in accordance with Title 17 of the 
+Health Occupations Article; [or] 
  
-  (5) a principal, vice principal, teacher, or school counselor at a public or 11 
-private pres chool, elementary school, or secondary school;  12 
+  (7) a therapist licensed or certified in accordance with Title 17 of the 
+Health Occupations Article ; OR 
  
-  (6) a counselor licensed or certified in accordance with Title 17 of the 13 
-Health Occupations Article; [or] 14 
+  (8) A FORENSIC INTERVIEW ER. 
  
-  (7) a therapist licensed or certified in accordance with Title 17 of the 15 
-Health Occupations Artic le; OR 16 
+ (d) (1) Under this section, an out of court statement by a child victim or 
+witness may come into evidence in a criminal proceeding or in a juvenile court proceeding 
+other than a child in need of assistance proceeding under Title 3, Subtitle 8 of the Courts 
+Article to pr ove the truth of the matter asserted in the statement:  
  
-  (8) A FORENSIC INTERVIEW ER. 17 
+   (i) if the statement is not admissible under any other hearsay 
+exception; and  
  
- (d) (1) Under this section, an out of court statement by a child victim or 18 
-witness may come into evidence in a criminal proceeding or in a juvenile court proceeding 19 
-other than a child in need of assistance proceeding  under Title 3, Subtitle 8 of the Courts 20 
-Article to prove the truth of the matter asserted in the statement:  21 
+   (ii) if the child victim or witness testifies.  
  
-   (i) if the statement is not admissible under any other hearsay 22 
-exception; and  23 
+  (2) (i) In a child in need of assistance proceeding in the juveni le court 
+under Title 3, Subtitle 8 of the Courts Article, an out of court statement by a child victim 
+may come into evidence to prove the truth of the matter asserted in the statement:  
  
-   (ii) if the child victim or witness testifies.  24 
+    1. if the statement is not admissible under any other hearsay 
+exception; and  
  
-  (2) (i) In a child in need of assistance proceeding in the juvenile court 25 
-under Title 3, Subtitle 8 of the Courts Article, an out of court statement by a child victim 26 
-may come into evidence to prove the truth of the matter asserted in the statement:  27 
+    2. regardless of whether the child victim testifies.  
  
-    1. if the st atement is not admissible under any other hearsay 28 
-exception; and  29 
+   (ii) If the child victim does not testify, the child victim’s out of court 
+statement will be admissible only if there is corroborative evidence that the alleged offender 
+had the oppor tunity to commit the alleged abuse or neglect.  
  
-    2. regardless of whether the child victim testifies.  30 
+  (3) To provide the defendant, child respondent, or alleged offender with an 
+opportunity to prepare a response to the statement, the prosecuting attorney shall serve on 
+the defendant, child respondent, or alleged offender and the attorney for the defendant, 
+child respondent, or alleged offender within a reasonable time before the juvenile court 
+proceeding and at least 20 days before the criminal proceeding in which the statement is to 
+be offered into eviden ce, notice of:  
  
-4 HOUSE BILL 442   
+   (i) the State’s intention to introduce the statement;  
  
-    (ii) If the child victim does not testify, the child victim’s out of court 1 
-statement will be admissible only if there is corrobor ative evidence that the alleged offender 2 
-had the opportunity to commit the alleged abuse or neglect.  3 
+Ch. 147  2025 LAWS OF MARYLAND   
  
-  (3) To provide the defendant, child respondent, or alleged offender with an 4 
-opportunity to prepare a response to the statement, the prosecuting attorney  shall serve on 5 
-the defendant, child respondent, or alleged offender and the attorney for the defendant, 6 
-child respondent, or alleged offender within a reasonable time before the juvenile court 7 
-proceeding and at least 20 days before the criminal proceeding  in which the statement is to 8 
-be offered into evidence, notice of:  9 
+– 4 –    (ii) any audio or visual recording of the statement; and  
  
-   (i) the State’s intention to introduce the statement;  10 
+   (iii) if an audio or visual recording of the statement is not available, 
+the content of the statement.  
  
-   (ii) any audio or visual recording of the statement; and  11 
+  (4) (i) The defendant, child respondent, or alleged offender may depose 
+a witness who will testify under this section.  
  
-   (iii) if an audio or visual recording of the statement is not avai lable, 12 
-the content of the statement.  13 
+   (ii) Unless the State and the defendant, child respondent, or alleged 
+offender agree or the court orders otherwise, the defendant, child responde nt, or alleged 
+offender shall file a notice of deposition:  
  
-  (4) (i) The defendant, child respondent, or alleged offender may depose 14 
-a witness who will testify under this section.  15 
+    1. in a criminal proceeding, at least 5 days before the date of 
+the deposition; or  
  
-   (ii) Unless the State and the defendant, child respondent, or alleged 16 
-offender agree or the c ourt orders otherwise, the defendant, child respondent, or alleged 17 
-offender shall file a notice of deposition:  18 
+    2. in a juvenile court proceeding, within a reasonable time 
+before the date of the deposition.  
  
-    1. in a criminal proceeding, at least 5 days before the date of 19 
-the deposition; or  20 
+   (iii) Except where inconsistent with this paragraph, Maryland Rule 
+4–261 applies to a deposition taken under this paragraph.  
  
-    2. in a juvenile court proceeding, within a reasonab le time 21 
-before the date of the deposition.  22 
+ (e) (1) A child victim’s or witness’s out of court statement is admissible under 
+this section only if the statement has particularized  guarantees of trustworthiness.  
  
-   (iii) Except where inconsistent with this paragraph, Maryland Rule 23 
-4–261 applies to a deposition taken under this paragraph.  24 
+  (2) To determine whether the statement has particularized guarantees of 
+trustworthiness under this section, the court shall consider, but is not limited to, the 
+following factors:  
  
- (e) (1) A child victim’s or witness’s out of court statement is admissible under 25 
-this section only if the statement has particularized guarantees of trustworthiness.  26 
+   (i) the child victim’s or witness’s p ersonal knowledge of the event;  
  
-  (2) To determine whether the statement has particularized guarantees of 27 
-trustworthiness under this section, the court shall consider, but is not limited to, the 28 
-followi ng factors:  29 
+   (ii) the certainty that the statement was made;  
  
-   (i) the child victim’s or witness’s personal knowledge of the event;  30 
+   (iii) any apparent motive to fabricate or exhibit partiality by the child 
+victim or witness, including interest, bias, corruption, or coercion;  
  
-   (ii) the certainty that the statement was made;  31 
+   (iv) whether the statement was spontaneous or directly responsive to 
+questions;  
  
-   (iii) any apparent motive to fabricate or exhibit partiality by the child 32 
-victim or witness, including interest, bi as, corruption, or coercion;  33 
- HOUSE BILL 442  5 
+   (v) the timing of the statement;  
  
-  
-   (iv) whether the statement was spontaneous or directly responsive to 1 
-questions;  2 
+   (vi) whether the child victim’s or witness’s young age makes it 
+unlikely that the child victim or witness fabricated the statement that represents a gra phic, 
+detailed account beyond the child victim’s or witness’s expected knowledge and experience;  
  
-   (v) the timing of the statement;  3 
+   (vii) the appropriateness of the terminology of the statement to the 
+child victim’s or witness’s age;  
+ WES MOORE, Governor  Ch. 147  
  
-   (vi) whether the child victim’s or witness’s young age makes it 4 
-unlikely that the child victim or witn ess fabricated the statement that represents a graphic, 5 
-detailed account beyond the child victim’s or witness’s expected knowledge and experience;  6 
+– 5 –  
+   (viii)  the nature and duration of the abuse or ne glect;  
  
-   (vii) the appropriateness of the terminology of the statement to the 7 
-child victim’s or witness’s age;  8 
+   (ix) the inner consistency and coherence of the statement;  
  
-   (viii)  the nature and duration of the abuse or neglect;  9 
+   (x) whether the child victim or witness was suffering pain or distress 
+when making the statement;  
  
-   (ix) the inner consistency and coherence of the statement;  10 
+   (xi) whether extrinsic evidence exists to show the defendant or child 
+respondent  had an opportunity to commit the act complained of in the child victim’s or 
+witness’s statement;  
  
-   (x) whether the child victim or witness was suffering pain or distress 11 
-when making the statement;  12 
+   (xii) whether the statement was suggested by the use of leading 
+questions; and  
  
-   (xi) whether extrinsic evidence exists to show the defendant or child 13 
-respondent had an opportunity to commit the act complained of in the child victim’s or 14 
-witness’s statement;  15 
+   (xiii)  the credibility of the person testifying about the statement.  
  
-   (xii) whether the statement was suggested by the use of leading 16 
-questions; and  17 
+ (f) In a hearing outside of the presence of the jury or before the juvenile court 
+proceeding, the court shall:  
  
-   (xiii)  the cre dibility of the person testifying about the statement.  18 
+  (1) make a finding on the record as to the specific guarantees of 
+trustworthiness that are in the statement; and  
  
- (f) In a hearing outside of the presence of the jury or before the juvenile court 19 
-proceeding, the court shall:  20 
+  (2) determine the admissib ility of the statement.  
  
-  (1) make a finding on the record as to the specific guarantees of 21 
-trustworthiness tha t are in the statement; and  22 
+ (g) (1) In making a determination under subsection (f) of this section, the court 
+shall examine the child victim or witness in a proceeding in the judge’s chambers, the 
+courtroom, or another suitable location that the public may not attend unless:  
  
-  (2) determine the admissibility of the statement.  23 
+   (i) the child victim or witness:  
  
- (g) (1) In making a determination under subsection (f) of this section, the court 24 
-shall examine the child victim or witness in a proceeding in the judge’s chambers, the 25 
-courtroom, or another suitable location that the public may not attend unless:  26 
+    1. is deceased; or  
  
-   (i) the child victim or witness:  27 
+    2. is absent from the jurisdiction for good cause shown or the 
+State has been unable to procure the child victim’s or witness’s presence by subpoena or 
+other reasonable me ans; or  
  
-    1. is deceased; or  28 
+   (ii) the court determines that an audio or visual recording of the 
+child victim’s or witness’s statement makes an examination of the child victim or witness 
+unnecessary.  
  
-6 HOUSE BILL 442   
+  (2) Except as provided in paragraph (3) of this subsection, any defenda nt 
+or child respondent, attorney for a defendant or child respondent, and the prosecuting 
+attorney may be present when the court hears testimony on whether to admit into evidence 
+the out of court statement of a child victim or witness under this section.  
  
-     2. is absent from the jurisdiction for good cause shown or the 1 
-State has been unable to procure the child victim’s or witness’s presence by subpoena or 2 
-other reasonable means; or  3 
+Ch. 147  2025 LAWS OF MARYLAND   
  
-   (ii) the court determines that an audio or visual recording of the 4 
-child victim’s or witness’s statement makes an examination of the child victim or witness 5 
-unnecessary.  6 
+– 6 –   (3) When the court examines the child victim or witness as paragraph (1) 
+of this subsection requires:  
  
-  (2) Except as p rovided in paragraph (3) of this subsection, any defendant 7 
-or child respondent, attorney for a defendant or child respondent, and the prosecuting 8 
-attorney may be present when the court hears testimony on whether to admit into evidence 9 
-the out of court stat ement of a child victim or witness under this section.  10 
+   (i) one attorney for each defendant or child respondent, one attorney 
+for the child victim or witness, and one prosecuting attorney may be present a t the 
+examination; and  
  
-  (3) When the court examines the child victim or witness as paragraph (1) 11 
-of this subsection requires:  12 
+   (ii) the court may not allow a defendant or child respondent to be 
+present at the examination.  
  
-   (i) one attorney for each defendant or child respondent, one attorney 13 
-for the child victim o r witness, and one prosecuting attorney may be present at the 14 
-examination; and  15 
+ (h) (1) This section does not limit the admissibility of a statement under any 
+other applicable hearsay exception or rule of evidenc e. 
  
-   (ii) the court may not allow a defendant or child respondent to be 16 
-present at the examination.  17 
+  (2) This section does not prohibit the court in a juvenile court proceeding 
+from hearing testimony in the judge’s chambers.  
  
- (h) (1) This section does not limit the admissibility of a statement under any 18 
-other applicable hearsay exception or rule of evidence.  19 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
-  (2) This section does not prohibit the court in a juvenile court proceeding 20 
-from hearing testimony in the judge’s chambers.  21 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effe ct 22 
-October 1, 2025.  23 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, April 22, 2025.  

@@ -1,263 +1,238 @@
+ WES MOORE, Governor  Ch. 343  
  
+– 1 – Chapter 343  
+(House Bill 497 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0497*      
-HOUSE BILL 497  
-O1, O4    5lr2082  
-    CF SB 400  
-By: Delegate Stewart  Delegates Stewart, Crutchfield, Tomlinson, Pasteur, Toles , 
-Schmidt, Simmons, Phillips, Stinnett, Taylor, Simpson, Grammer,  
-Sample –Hughes, Conaway, and Kaufman  
-Introduced and read first time: January 20, 2025  
-Assigned to: Judiciary  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read secon d time: March 18, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Residential Child Care Programs – Transportation Companies – Regulation  
+(Preventing Abduction in Youth Transport Act of 2025)  
  
-AN ACT concerning  1 
+FOR  the purpose of prohibiting certain transportation companies that transport children 
+to residential child care programs from using certain restraints except under certain 
+circumstances; prohibiting certain transportation companies that transport children 
+to residential child care programs from picking up children between certain hours; 
+authorizing an individual and the Attorney General to bring a civil action against 
+certain transportation companies that transport children to residential child care 
+programs  under certain circumstances; and generally relating to transportation 
+companies that transport children to residential child care programs.  
  
-Residential Child Care Programs – Transportation Companies – Regulation  2 
-(Preventing Abduction in Youth Transport Act of 2025)  3 
+BY repealing and reenacting, without amendments,  
+ Article – Human Services  
+Section 8 –101(a) and (p)  
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of prohibiting certain transportation companies that transport children 4 
-to residential child care programs from using certain restraints except under certain 5 
-circumstances; prohibiting certain transportation companies that transport children 6 
-to residential child care programs from picking up children be tween certain hours; 7 
-authorizing an individual and the Attorney General to bring a civil action against 8 
-certain transportation companies that transport children to residential child care 9 
-programs under certain circumstances; and generally relating to trans portation 10 
-companies that transport children to residential child care programs.  11 
+BY adding to  
+ Article – Human Services  
+Section 8 –715 through 8 –717 to be under the new part “Part III. Transportation 
+Companies”  
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024  Supplement)  
  
-BY repealing and reenacting, without amendments,  12 
- Article – Human Services  13 
-Section 8 –101(a) and (p)  14 
- Annotated Code of Maryland  15 
- (2019 Replacement Volume and 2024 Supplement)  16 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY adding to  17 
- Article – Human Services  18 
-Section 8 –715 through 8 –717 to be under the new part “Part III. Transportation 19 
-Companies”  20 
- Annotated Code of Maryland  21 
-2 HOUSE BILL 497   
+Article – Human Services  
  
-  (2019 Replacement Volume and 2024 Supplement)  1 
+8–101. 
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 2 
-That the Laws of Maryland read as follows:  3 
+ (a) In this title the following words have the meanings indicated.  
  
-Article – Human Services  4 
+ (p) (1) “Residential child care  program” means an entity that provides 24 –hour 
+per day care for children within a structured set of services and activities that are designed 
+to achieve specific objectives relative to the needs of the children served and that include 
+the provision of foo d, clothing, shelter, education, social services, health, mental health, 
+recreation, or any combination of these services and activities.  
  
-8–101. 5 
+  (2) “Residential child care program” includes a program:  
+Ch. 343  2025 LAWS OF MARYLAND   
  
- (a) In this title the following words have the meanings indicated.  6 
+– 2 –  
+   (i) licensed by:  
  
- (p) (1) “Residential child care program” means an entity that provides 24 –hour  7 
-per day care for children within a structured set of services and activities that are designed 8 
-to achieve specific objectives relative to the needs of the children served and that include 9 
-the provision of food, clothing, shelter, education, social service s, health, mental health, 10 
-recreation, or any combination of these services and activities.  11 
+    1. the Maryland Department of Health;  
  
-  (2) “Residential child care program” includes a program:  12 
+    2. the Department of Human Services; or  
  
-   (i) licensed by:  13 
+    3. the Department of Juvenile Services; and  
  
-    1. the Maryland Department of Health;  14 
+   (ii) that is subject to the licensing regulations of the members of the 
+Children’s Cabinet governing the operations of residential child care programs . 
  
-    2. the Department of Human Services;  or 15 
+Subtitle 7. Residential Child Care Programs – General Provisions.  
  
-    3. the Department of Juvenile Services; and  16 
+8–713.  RESERVED . 
  
-   (ii) that is subject to the licensing regulations of the members of the 17 
-Children’s Cabinet governing the operations of residential child care programs.  18 
+8–714.  RESERVED . 
  
-Subtitle 7. Residential Child Care Programs – General Provisions.  19 
+PART III. TRANSPORTATION COMPANIES . 
  
-8–713.  RESERVED . 20 
+8–715. 
  
-8–714.  RESERVED . 21 
+ (A) IN THIS PART THE FOLL OWING WORDS HAVE THE  MEANINGS 
+INDICATED . 
  
-PART III. TRANSPORTATION COMPANIES . 22 
+ (B) (1) “RESIDENTIAL CHILD CAR E PROG RAM” INCLUDES A FACILITY OR 
+PROGRAM THAT : 
  
-8–715. 23 
+   (I) PROVIDES A RESIDENTI AL ENVIRONMENT SUCH AS: 
  
- (A) IN THIS PART THE FOLL OWING WORDS HAVE THE  MEANINGS 24 
-INDICATED . 25 
+    1. A PROGRAM WITH A WIL DERNESS OR OUTDOOR 
+EXPERIENCE , EXPEDITION , OR INTERVENTION ; 
  
- (B) (1) “RESIDENTIAL CHILD CAR E PROGRAM ” INCLUDES A FACILITY OR 26 
-PROGRAM THAT : 27 
+    2. A BOOT CAMP EXPERIEN CE OR OTHER EXPERIEN CE 
+DESIGNED TO SIMULATE  CHARACTERISTICS OF B ASIC MILITARY TRAINI NG FOR 
+CORRECTIONAL REGIMES ; 
  
- HOUSE BILL 497  3 
+    3. AN EDUCATIONAL OR TH ERAPEUTIC BOARDING 
+SCHOOL ; OR 
  
-    (I) PROVIDES A RESIDENTI AL ENVIRONMENT SUCH AS: 1 
+    4. A BEHAVIORAL MODIFIC ATION PROGRAM ; AND 
  
-    1. A PROGRAM WITH A WIL DERNESS OR OUTDOOR 2 
-EXPERIENCE , EXPEDITION , OR INTERVENTION ; 3 
+   (II) SERVES YOUTH  CHILDREN  WHO HAVE A HISTORY O F 
+DIAGNOSIS OF : 
+ WES MOORE, Governor  Ch. 343  
  
-    2. A BOOT CAMP EXPERIEN CE OR OTHER EXPERIEN CE 4 
-DESIGNED TO SIMULATE  CHARACTERISTICS OF B ASIC MILITARY TRAINI NG FOR 5 
-CORRECTIONAL REGIMES ; 6 
+– 3 –  
+    1. AN EMOTIONAL , BEHAVIORAL , OR MENTAL HEALTH 
+DISORDER ; 
  
-    3. AN EDUCATIONAL OR TH ERAPEUTIC BOARDING 7 
-SCHOOL ; OR 8 
+    2. A SUBSTANCE MISUSE O R USE DISORDER , INCLUDING 
+ALCOHOL MISUSE OR US E DISORDER ; OR 
  
-    4. A BEHAVIORAL MODIFIC ATION PROGRAM ; AND 9 
+    3. AN INTELLECTUAL , DEVELOPMENTAL , PHYSICAL , OR 
+SENSORY DISABILITY . 
  
-   (II) SERVES YOUTH  CHILDREN  WHO HAVE A HISTORY O F 10 
-DIAGNOSIS OF : 11 
+  (2) “RESIDENTIAL CHILD CAR E PROGRAM ” DOES  NOT INCLUDE : 
  
-    1. AN EMOTIONAL , BEHAVIORAL , OR MENTAL HEALTH 12 
-DISORDER ; 13 
+   (I) A HOSPITAL LICENSED BY THE STATE ; 
  
-    2. A SUBSTANCE MISUSE O R USE DISORDER , INCLUDING 14 
-ALCOHOL MISUSE OR US E DISORDER ; OR 15 
+   (II) A DETENTION FACILITY  LICENSED BY THE STATE ; 
  
-    3. AN INTELLECTUAL , DEVELOPMENTAL , PHYSICAL , OR 16 
-SENSORY DISABILITY . 17 
+   (III) A YOUTH CORRECTIONAL  FACILITY ; 
  
-  (2) “RESIDENTIAL CHILD CAR E PROGRAM ” DOES NOT INCLUDE : 18 
+   (IV) A SUBSTANCE ABUSE TR EATMENT FACILITY ; 
  
-   (I) A HOSPITAL LICENSED BY THE STATE; 19 
+   (V) A FOSTER FAMILY HOME : 
  
-   (II) A DETENTION FACILITY  LICENSED BY THE STATE ; 20 
+    1. THAT PROVIDES 24–HOUR  SUBSTITUTE CARE FOR 
+CHILDREN PLACED AWAY  FROM THEIR PARENTS O R GUARDIANS ; 
  
-   (III) A YOUTH CORRECTIONAL  FACILITY ; 21 
+    2. FOR WHICH THE STATE CHILD WELFARE S ERVICES 
+AGENCY HAS PLACEMENT  AND CARE RESPONSIBIL ITY; AND  
  
-   (IV) A SUBSTANCE ABUSE TR EATMENT FACILITY ; 22 
+    3. THAT IS LICENSED AND  REGULATED BY THE STATE AS 
+A FOSTER FAMILY HOME ; OR 
  
-   (V) A FOSTER FAMILY HOME : 23 
+   (VI) ANY OTHER SECURE FAC ILITY .  
  
-    1. THAT PROVIDES 24–HOUR SUBSTITUTE CARE  FOR 24 
-CHILDREN PLACED AWAY  FROM THEIR PARENTS OR GUA RDIANS ; 25 
+ (C) “YOUTH TRANSPORTATION COMPANY ” MEANS A BUSINESS THA T 
+SPECIALIZES IN TRANS PORTING A PERSON  CHILD  TO A RESIDENTIAL CHI LD CARE 
+PROGRAM . 
  
-    2. FOR WHICH THE STATE CHILD WELFARE S ERVICES 26 
-AGENCY HAS PLACEMENT  AND CARE RESPONSIBIL ITY; AND  27 
+8–716.   
  
-4 HOUSE BILL 497   
+ (A) SUBJECT TO SUBSECTION  (B) OF THIS SECTION , WHILE TRANSPORTING  
+CHILDREN TO A RESIDENT IAL CHILD CARE PROGR AM, WHEN THE FINAL INTEND ED 
+DESTINATION IS A RES IDENTIAL CHILD CARE PROGRAM AND SUBJECT TO 
+SUBSECTION (B) OF THIS SECTION , A YOUTH TRANSPORTATI ON COMPANY MAY NOT 
+USE: 
+Ch. 343  2025 LAWS OF MARYLAND   
  
-     3. THAT IS LICENSED AND  REGULATED BY THE STATE AS 1 
-A FOSTER FAMILY HOME ; OR 2 
+– 4 –  
+  (1) VISUAL IMPAIRMENT , SUCH AS BLINDFOLDS A ND HOODS ; OR 
  
-   (VI) ANY OTHER SECURE FAC ILITY .  3 
+  (2) PHYSICAL  MECHANICAL  RESTRAINTS , SUCH AS HANDCUFFS , 
+CHAINS , IRONS , STRAITJACKETS , CLOTH RESTRAINTS , LEATHER RESTRAINTS , 
+PLASTIC RESTRAINTS , OR OTHER SIMILAR ITE MS; OR 
  
- (C) “YOUTH TRANSPORTATION C OMPANY ” MEANS A BUSINESS THA T 4 
-SPECIALIZES IN TRANS PORTING A PERSON  CHILD  TO A RESIDENTIAL CHI LD CARE 5 
-PROGRAM . 6 
+  (3) PHYSICAL RESTRAINTS , INCLUDING HOLDS , OR OTHER USE OF 
+PHYSICAL FORCE TO RESTRICT FR EE MOVEMENT , UNLESS : 
  
-8–716.   7 
+   (I) THE RESTRAINTS ARE N ECESSARY DUE TO AN IMMEDIATE  
+AND SERIOUS RISK OF DANGEROUS OR DISRUPT IVE BEHAVIOR  A SUBSTANTIAL 
+LIKELIHOOD OF IMMINE NT SERIOUS PHYSICAL HARM TO A CHILD OR O THERS ; AND  
  
- (A) SUBJECT TO SUBSECTION  (B) OF THIS SECTION , WHILE TRANSPORTING  8 
-CHILDREN TO A RESIDE NTIAL CHILD CARE PRO GRAM , WHEN THE FINAL INTEND ED 9 
-DESTINATION IS A RES IDENTIAL CHILD CARE PROGRAM AND SUBJECT TO 10 
-SUBSECTION (B) OF THIS SECTION , A YOUTH TRANSPORTATI ON COMPANY MAY NOT 11 
-USE: 12 
+   (II) THERE ARE NO LESS RESTRICTIVE ALTERNATIVES THAT 
+WILL ALLEVIATE THE IMMEDIATE AND SERIOU S RISK OF DANGEROUS OR 
+DISRUPTIVE BEHAVIOR  SUBSTANTIAL LIKELIHO OD OF IMMINENT SERIO US 
+PHYSICAL HARM TO THE  CHILD OR OTHERS . 
  
-  (1) VISUAL IMPAIRMENT , SUCH AS BLINDFOLDS A ND HOODS ; OR 13 
+ (B) (1) PHYSICAL RESTRAINTS M AY NOT BE USED : 
  
-  (2) PHYSICAL  MECHANICAL  RESTRAINTS , SUCH AS HANDCUFFS , 14 
-CHAINS , IRONS , STRAITJACKETS , CLOTH RESTRAINTS , LEATHER RESTRAINTS , 15 
-PLASTIC RESTRAINTS , OR OTHER SIMILAR ITE MS; OR 16 
+   (I) AS PUNISHMENT ; 
  
-  (3) PHYSICAL RESTRAINTS , INCLUDING HOLDS , OR OTHER USE OF 17 
-PHYSICAL FORCE TO RE STRICT FREE MOVEMENT , UNLESS : 18 
+   (II) FOR CONVENIENCE ; OR 
  
-   (I) THE RESTRAINTS ARE N ECESSARY DUE TO AN IMMEDIATE  19 
-AND SERIOUS RISK OF DANGEROUS OR DISRUPT IVE BEHAVIOR  A SUBSTANTIAL 20 
-LIKELIHOOD OF IMMINE NT SERIOUS PHYSICAL HARM TO A CHILD OR O THERS ; AND  21 
+   (III) AS A SUBSTITUTE FOR STAFF SUPERVISION . 
  
-   (II) THERE ARE NO LESS RE STRICTIVE ALTERNATIV ES THAT 22 
-WILL ALLEVIATE THE IMMEDIATE AND SERIOU S RISK OF DANGEROUS OR 23 
-DISRUPTIVE BEHAVIOR  SUBSTANTIAL LIKELIHO OD OF IMMINENT SERIO US 24 
-PHYSICAL HARM TO THE  CHILD OR OTHERS . 25 
+  (2) ONLY YOUTH TRANSPORTA TION COMPANY STAFF W HO HAVE 
+BEEN ADEQUATELY TRAI NED IN RESTRAINT DEV ICE USAGE MAY USE AN D APPLY 
+RESTRAINTS DURING TR ANSPORTATION . 
  
- (B) (1) PHYSICAL RESTRAINTS M AY NOT BE USED : 26 
+  (3) IF RESTRAINTS ARE NEC ESSARY DUE TO A SUBS TANTIAL 
+LIKELIHOOD OF IMMINE NT SERIOUS PHYSICAL HARM TO A CHILD OR O THERS , THE 
+RESTRAINTS MAY BE US ED ONLY AS LONG AS T HE IMMINENT RISK PER SISTS .  
  
-   (I) AS PUNISHMENT ; 27 
+ (C) (1) A EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS SUBSECTI ON, 
+WHEN THE FINAL INTEN DED DESTINATION IS A  RESIDENTIAL CHILD CA RE 
+PROGRAM , A YOUTH TRANSPORTATION  COMPANY MAY NOT PICK  UP A CHILD FOR 
+TRANSPORT TO A RESID ENTIAL CHILD CARE PR OGRAM BETWEEN THE HO URS OF 9 
+P.M. AND 6 A.M. 
  
-   (II) FOR CONVENIENCE ; OR 28 
+ WES MOORE, Governor  Ch. 343  
  
-   (III) AS A SUBSTITUTE FOR STAFF SUPERVISION . 29 
+– 5 –   (2) PARAGRAPH (1) OF THIS SUBSECTION DOES NOT APPLY TO A 
+YOUTH TRANSPORTATION  COMPANY UNDER CONTRA CT WITH THE DEPARTMENT OF 
+HUMAN SERVICES .  
  
- HOUSE BILL 497  5 
+8–717. 
  
-   (2) ONLY YOUTH TRANSPORTA TION COMPANY STAFF W HO HAVE 1 
-BEEN ADEQUATELY TRAI NED IN RESTRAINT DEV ICE USAGE MAY USE AN D APPLY 2 
-RESTRAINTS DURING TR ANSPORTATION . 3 
+ (A) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , THE 
+ATTORNEY GENERAL MAY BRING AN ACTION AGAINST A YOU TH TRANSPORTATION 
+COMPAN Y FOR A VIOLATION OF  § 8–716 OF THIS PART . 
  
-  (3) IF RESTRAINTS ARE NEC ESSARY DUE TO A S UBSTANTIAL 4 
-LIKELIHOOD OF IMMINE NT SERIOUS PHYSICAL HARM TO A CHILD OR O THERS , THE 5 
-RESTRAINTS MAY BE US ED ONLY AS LONG AS T HE IMMINENT RISK PER SISTS .  6 
+  (2) IN AN ACTION BROUGHT UNDER THIS SUBSECTIO N, THE 
+ATTORNEY GENERAL MAY SEEK :  
  
- (C) (1) A EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS SUBSECTION , 7 
-WHEN THE FINAL INTEN DED DESTINATION IS  A RESIDENTIAL CHILD CARE 8 
-PROGRAM , A YOUTH TRANSPORTATION  COMPANY MAY NOT PICK  UP A CHILD FOR 9 
-TRANSPORT TO A RESID ENTIAL CHILD CARE PR OGRAM BETWEEN THE HO URS OF 9 10 
-P.M. AND 6 A.M. 11 
+   (I) INJUNCTIVE RELIEF ; AND 
  
-  (2) PARAGRAPH (1) OF THIS SUBSECTION D OES NOT APPLY TO A 12 
-YOUTH TRANSPORTATION COMPA NY UNDER CONTRACT WI TH THE DEPARTMENT OF 13 
-HUMAN SERVICES .  14 
+   (II) STATUTORY DAMAGES UP  TO: 
  
-8–717. 15 
+    1. $1,000  FOR A FIRST OFFENSE ; AND 
  
- (A) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , THE 16 
-ATTORNEY GENERAL MAY BRING AN ACTION AGAINST A YOU TH TRANSPORTATION 17 
-COMPANY FOR A VIOLAT ION OF § 8–716 OF THIS PART . 18 
+    2. $3,000  FOR A SUBS EQUENT OFFENSE . 
  
-  (2) IN AN ACTION BROUGHT UNDER THIS SUBSECTIO N, THE 19 
-ATTORNEY GENERAL MAY SEEK :  20 
+ (B) (1) SUBJECT TO PARAGRAPHS  (2) AND (3) THROUGH (4) OF THIS 
+SUBSECTION , AN INDIVIDUAL MAY BR ING AN ACTION AGAINS T A YOUTH 
+TRANSPORTATION COMPA NY FOR A VIOLATION O F § 8–716 OF THIS PART . 
  
-   (I) INJUNCTIVE RELIEF ; AND 21 
+  (2) IN AN ACTION BROUGHT UNDER THIS SUBSECTIO N, THE 
+INDIVIDUAL MAY SEEK : 
  
-   (II) STATUTORY DAMAGES UP  TO: 22 
+   (I) RESTITUTION ; AND  
  
-    1. $1,000  FOR A FIRST OFFENSE ; AND 23 
+   (II) COMPENSATORY DAMAGES ; 
  
-    2. $3,000  FOR A SUBSEQUENT OFF ENSE . 24 
+   (III) STATUTORY DAMAGES UP  TO $500  PER VIOLATION ; AND   
  
- (B) (1) SUBJECT TO PARAGRAPHS (2) AND (3) THROUGH (4) OF THIS 25 
-SUBSECTION , AN INDIVIDUAL MAY BR ING AN ACTION AGAINS T A YOUTH 26 
-TRANSPORTATION COMPA NY FOR A VIOLATION O F § 8–716 OF THIS PART . 27 
+   (II) (IV) IF AWARDED RESTITUTI ON OR DAMAGES , 
+REASONABLE ATTORNEY ’S FEES . 
  
-  (2) IN AN ACTION BROUGHT UNDER THIS SUBSECTIO N, THE 28 
-INDIVIDUAL MAY SEEK : 29 
+  (3) IF THE COURT DETERMIN ES THAT AN  ACTION IS FRIVOLOUS OR 
+BROUGHT IN BAD FAITH  UNDER THIS SUBSECTIO N, THE COURT MAY ORDER THE 
+OFFENDING PARTY TO P AY THE REASONABLE AT TORNEY ’S FEES OF THE OTHER  
+PARTY . AN ACTION BROUGHT UND ER THIS SECTION SHAL L BE FILED WITHIN 10 
+YEARS AFTER THE DATE  THAT TH E VICTIM REACHES THE  AGE OF MAJORITY . 
  
-   (I) RESTITUTION ; AND  30 
+Ch. 343  2025 LAWS OF MARYLAND   
  
-6 HOUSE BILL 497   
+– 6 –  SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to 
+apply only prospectively and may not be applied or interpreted to have any effect on or 
+application to any cause of action arising before the effective date of this Act.  
  
-    (II) COMPENSATORY DAMAGES ; 1 
+ SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
-   (III) STATUTORY DAMAGES UP  TO $500  PER VIOLATION ; AND   2 
- 
-   (II) (IV) IF AWARDED RESTITUTI ON OR DAMAGES , 3 
-REASONABLE ATTORNEY ’S FEES . 4 
- 
-  (3) IF THE COURT DETERMIN ES THAT AN ACTION IS  FRIVOLOUS OR  5 
-BROUGHT IN  BAD FAITH UNDER THIS  SUBSECTION , THE COURT MAY ORDER THE 6 
-OFFENDING PARTY TO P AY THE REASONABLE AT TORNEY ’S FEES OF THE OTHER  7 
-PARTY . AN ACTION BROUGHT UND ER THIS SECTION SHAL L BE FILED WITHIN 10 8 
-YEARS AFTER THE DATE  THAT THE VICTIM REAC HES THE AGE OF MAJOR ITY. 9 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to 10 
-apply only prospectively and may not be applied or interpreted to have any effect on or 11 
-application to any cause of action arising before the effective date of this Act.  12 
- 
- SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 13 
-October 1, 2025.  14 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 6, 2025.  

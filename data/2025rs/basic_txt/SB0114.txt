@@ -1,135 +1,110 @@
+ WES MOORE, Governor  Ch. 250  
  
+– 1 – Chapter 250  
+(Senate Bill 114 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *sb0114*      
-SENATE BILL 114  
-C3   5lr0636  
-  (PRE –FILED)    
-By: Senators Simonaire and M. Jackson  
-Requested: June 16, 2024  
-Introduced and read first time: January 8, 2025  
-Assigned to: Finance  
-Reassigned: Education, Energy, and the Environment and Finance, January 13, 2025  
-Committee Report: Favorable with amendments  
-Senate action: Adopted  
-Read second time: February 22, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Maryland Department of Labor – Licenses – Notation of Veteran Status and 
+Eligibility for Benefits  
  
-AN ACT concerning  1 
+FOR the purpose of authorizing units in the Maryland Department of Labor to establish a 
+certain process to include a notation of veteran status on an occupational license and 
+assist in determining eligibility for State and federal benefits ; and generally r elating 
+to occupational and professional licenses and veterans.  
  
-Maryland Department of Labor – Licenses – Notation of Veteran Status and 2 
-Eligibility for Benefits  3 
+BY renumbering  
+ Article – Business Regulation  
+Section 2.5 –103 through 2.5 –108  
+to be Section 2.5 –104 through 2.5 –109, respectively  
+ Annotated Code of Maryland  
+ (2024 Replacement Volume)  
  
-FOR the purpose of authorizing units in the Maryland Department of Labor to establish a 4 
-certain process to include a notation of veteran status on an occupational l icense and 5 
-assist in determining eligibility for State and federal benefits ; and generally relating 6 
-to occupational and professional licenses and veterans.  7 
+BY repealing and reenacting, without amendments,  
+ Article – Business Regulation  
+Section 2.5 –101(a), (b), (e), and (f)  
+ Annotated Code of Maryland  
+ (2024 Replacement Volume)  
  
-BY renumbering  8 
- Article – Business Regulation  9 
-Section 2.5 –103 through 2.5 –108  10 
-to be Section 2.5–104 through 2.5 –109, respectively  11 
- Annotated Code of Maryland  12 
- (2024 Replacement Volume)  13 
+BY adding to  
+ Article – Business Regulation  
+Section 2.5 –103 
+ Annotated Code of Maryl and 
+ (2024 Replacement Volume)  
  
-BY repealing and reenacting, without amendments,  14 
- Article – Business Regulation  15 
-Section 2.5 –101(a), (b), (e), and (f)  16 
- Annotated Code of Maryland  17 
- (2024 Replacement Volume)  18 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That Section(s) 2.5 –103 through 2.5 –108 of Article – Business Regulation of the Annotated 
+Code of Maryland be renumbered to be Section(s) 2.5 –104 through 2.5 –109, respectively.  
  
-BY adding to  19 
- Article – Business Regulation  20 
-2 SENATE BILL 114   
+ SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 
+as follows:  
  
- Section 2.5 –103 1 
- Annotated Code of Maryland  2 
- (2024 Replacement Volume)  3 
+Article – Business Regulation  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 4 
-That Section(s) 2.5 –103 through 2.5 –108 of Article – Business Regulation of the Annotated 5 
-Code of Maryland be renumbered to be Section(s) 2.5 –104 through 2.5 –109, respectively.  6 
+2.5–101. 
  
- SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 7 
-as follows:  8 
+ (a) In this title the following words have the meanings indicated.  
  
-Article – Business Regulation  9 
+Ch. 250  2025 LAWS OF MARYLAND   
  
-2.5–101. 10 
+– 2 –  (b) (1) “License” means any grant of authority to an individual to practice an 
+occupation or profession.  
  
- (a) In th is title the following words have the meanings indicated.  11 
+  (2) “License” includes a certificate, permit, or registration.  
  
- (b) (1) “License” means any grant of authority to an individual to practice an 12 
-occupation or profession.  13 
+ (e) “Unit” means a unit in the Department that is authorized to issue a license.  
  
-  (2) “License” includes a certificate, permit, or registration.  14 
+ (f) “Veteran” means a former service member who was discharged from active 
+duty under circumstances other than dishonorable before the date on which the application 
+for a license is submitted.  
  
- (e) “Unit” means a unit  in the Department that is authorized to issue a license.  15 
+2.5–103. 
  
- (f) “Veteran” means a former service member who was discharged from active 16 
-duty under circumstances other than dishonorable before the date on which the application 17 
-for a license is submitted.  18 
+ (A) THIS SECTION APPLIES ONLY TO A UNIT THAT ESTABLISHES A PROCES S 
+UNDER SUBSECTION (B) OF THIS SECTION . 
  
-2.5–103. 19 
+ (B) EACH UNIT MAY ESTABLI SH A PROCESS TO INCL UDE A NOTATION 
+INDICATING VETERAN S TATUS ON A LICENSE AND TO ASSIST IN DET ERMINING  
+ELIGIBILITY FOR STATE AND FEDERAL VET ERANS’ BENEFITS . 
  
- (A) THIS SECTION APPLIES ONLY TO A UNIT THAT ESTABLISHES A PROCES S 20 
-UNDER SUBSECTION (B) OF THIS SECTION . 21 
+ (C) (1) AN APPLICATION FOR AN  INITIAL LICENSE OR RENEWAL LICENSE 
+ISSUED BY A UNIT SHA LL ALLOW THE APPLICA NT TO : 
  
- (B) EACH UNIT MAY ESTABLI SH A PROCESS TO INCL UDE A NOTATION 22 
-INDICATING VETERAN S TATUS ON A LICENSE AND TO ASSIST IN DET ERMINING  23 
-ELIGIBILITY FOR STATE AND FEDERAL VET ERANS’ BENEFITS . 24 
+   (I) REQUEST THAT A NOTAT ION OF THE APPLICANT ’S VETERAN 
+STATUS BE INCLUDED O N THE LICENSE ; AND 
  
- (C) (1) AN APPLICATION FOR AN  INITIAL LICENSE OR R ENEWAL LICENSE 25 
-ISSUED BY A UNIT SHA LL ALLOW THE APPLICA NT TO : 26 
+   (II) PROVIDE AFFIRMATIVE CONSENT TO BEING CON TACTED BY 
+APPROPRIATE EXECUTIVE BRANCH AGENCIE S REGARDING THE APPL ICANT’S 
+ELIGIBILITY FOR STATE OR FEDERAL VETE RANS’ BENEFITS . 
  
-   (I) REQUEST THAT A NOTAT ION OF THE APPLICANT ’S VETERAN 27 
-STATUS BE INCLUDED O N THE LICENSE ; AND 28 
+  (2) AN APPLICANT FOR AN I NITIAL LICENSE OR A RENEWAL LICENSE 
+SHALL SUBMIT TO THE UNIT ONE OF THE FOLL OWING AS CERTIFICATI ON OF 
+VETERAN STATUS : 
  
-   (II) PROVIDE AFFIRMATIVE CONSENT TO BEING CON TACTED BY 29 
-APPROPRIATE EXECUTIVE BRANCH AGENCIES REGAR DING THE APPLICANT ’S 30 
-ELIGIBILITY FOR STATE OR FEDERAL VETE RANS’ BENEFITS . 31 
- SENATE BILL 114  3 
+   (I) A CERTIFICATION OF V ETERAN STATUS OBTAINE D FROM 
+THE DEPARTMENT OF VETERANS AND MILITARY FAMILIES IN ACCORDANC E WITH § 
+9–905 OF THE STATE GOVERNMENT ARTICLE ; 
  
-  
-  (2) AN APPLICANT FOR AN I NITIAL LICENSE OR A RENEWAL LICENSE 1 
-SHALL SUBMIT TO TH E UNIT ONE OF THE FO LLOWING AS CERTIFICA TION OF 2 
-VETERAN STATUS : 3 
+   (II) A FEDERAL CERTIFICATE OF RELEASE OR DISCHARGE 
+FROM ACTIVE DUTY (DD  FORM 214);  OR 
  
-   (I) A CERTIFICATION OF V ETERAN STATUS OBTAIN ED FROM 4 
-THE DEPARTMENT OF VETERANS AND MILITARY FAMILIES IN ACCORDANC E WITH § 5 
-9–905 OF THE STATE GOVERNMENT ARTICLE ; 6 
+   (III) ANY OTHER DOCUMENTATION ACCEPT ABLE TO THE UNIT . 
  
-   (II) A FEDERAL CERTIFIC ATE OF RELEASE OR DISCHARGE 7 
-FROM ACTIVE DUTY (DD  FORM 214);  OR 8 
+ WES MOORE, Governor  Ch. 250  
  
-   (III) ANY OTHER DOCUMENTAT ION ACCEPTABLE TO TH E UNIT . 9 
+– 3 –  (D) IF AN APPLICANT FOR A N INITIAL LICENSE OR  A RENEWAL LICENSE 
+SUBMITS THE DOCUMENT ATION REQUIRED UNDER  SUBSECTION (C)(2) OF THIS 
+SECTION , THE UNIT SHALL INCLU DE A NOTATION OF VET ERAN STATUS ON THE 
+LICENSE . 
  
- (D) IF AN APPLICANT FOR A N INITIAL LICENSE OR  A RENEWAL LICENSE 10 
-SUBMITS THE DOCUMENT ATION REQUIRED UNDER  SUBSECTION (C)(2) OF THIS 11 
-SECTION , THE UNIT SHALL INCLU DE A NOTATION OF VET ERAN STATUS ON THE 12 
-LICENSE . 13 
+ (E) IN ACCORDANCE WITH §§ 4–304 THROUGH 4–325 OF THE GENERAL 
+PROVISIONS ARTICLE AND ANY OTHER  APPLICABLE LAW , AND ON REQUEST BY AN  
+EXECUTIVE BRANCH AGENCY , A UNIT SHALL ELECTRO NICALLY TRANSMIT TO THE 
+EXECUTIVE BRANCH AGENCY APPROPR IATE INFORMATION ABO UT EACH 
+APP LICANT FOR AN INITIA L LICENSE OR A RENEW AL LICENSE WHO CONSE NTS TO 
+BEING CONTACTED UNDE R SUBSECTION (C)(1) OF THIS SECTION . 
  
- (E) IN ACCORDANCE WITH §§ 4–304 THROUGH 4–325 OF THE GENERAL 14 
-PROVISIONS ARTICLE AND ANY OTHER  APPLICABLE LAW , AND ON REQUEST BY AN  15 
-EXECUTIVE BRANCH AGENCY , A UNIT SHALL ELECTRONICALLY TRANS MIT TO THE 16 
-EXECUTIVE BRANCH AGENCY APPROPR IATE INFORMATION ABO UT EACH 17 
-APPLICANT FOR AN INI TIAL LICENSE OR A RE NEWAL LICENSE WHO CO NSENTS TO 18 
-BEING CONTACTED UNDE R SUBSECTION (C)(1) OF THIS SECTION . 19 
+ SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
- SECTION 3. AND BE IT FURTHER ENACTED,  That this Act shall take effect 20 
-October 1, 2025.  21 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
+Approved by the Governor, May 6, 2025.  

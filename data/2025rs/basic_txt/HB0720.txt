@@ -1,611 +1,587 @@
+ WES MOORE, Governor  Ch. 444  
  
+– 1 – Chapter 444  
+(House Bill 720 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0720*      
-HOUSE BILL 720  
-M1   5lr0355  
-    CF 5lr0356  
-By: Chair, Environment and Transportation Committee (By Request – 
-Departmental – Natural Resources)  
-Introduced and read first time: January 27, 2025  
-Assigned to: Environment and Transportation  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: February 25, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Natural Resources – Repeal of Somers Cove Marina Commission and 
+Improvement Fund and Alteration of Operations  
  
-AN ACT concerning  1 
+FOR the purpose of repealing provisions of law relating to the Somers Cove Marina 
+Commission, the Somers Cove Marina Improvement Fund, and the operation of 
+Somers Cove Marina; authorizing the Secretary of Natural Resources to execute 
+certain leases, procur e and execute certain contracts, and employ certain staff , and 
+assess certain fees ; requiring the Secretary to set the compensation for certain 
+employees under certain circumstances; establishing the Somers Cove Marina 
+Advisory Commission to advise the Sec retary on certain matters relating to the 
+Somers Cove Marina; requiring certain revenue received by the Department of 
+Natural Resources to be deposited into the Natural Resources Property Maintenance 
+Fund; altering the uses of the Natural Resources Propert y Maintenance Fund; 
+requiring interest earnings of the Natural Resources Property Maintenance Fund to 
+be credited to th at Fund;  and generally relating to Somers Cove Marina.  
  
-Natural Resources – Repeal of Somers Cove Marina Commission and 2 
-Improvement Fund and Alteration of Operations  3 
+BY repealing  
+ Article – Natural Resources  
+ Section 5 –908.1  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of repealing provisions of law relating to the Somers Cove Marina 4 
-Commission, the Somers Cove Marina Improvement Fund, and the operation of 5 
-Somers Cove Marin a; authorizing the Secretary of Natural Resources to execute 6 
-certain leases, procure and execute certain contracts, and employ certain staff , and 7 
-assess certain fees ; requiring the Secretary to set the compensation for certain 8 
-employees under certain circu mstances; establishing the Somers Cove Marina 9 
-Advisory Commission to advise the Secretary on certain matters relating to the 10 
-Somers Cove Marina; requiring certain revenue received by the Department of 11 
-Natural Resources to be deposited into the Natural Reso urces Property Maintenance 12 
-Fund; altering the uses of the Natural Resources Property Maintenance Fund; 13 
-requiring interest earnings of the Natural Resources Property Maintenance Fund to 14 
-be credited to th at Fund;  and generally relating to Somers Cove Marina.  15 
+BY adding to  
+ Article – Natural Resources  
+ Section 5 –908.1 and 5 –908.2  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-BY repealing  16 
- Article – Natural Resources  17 
- Section 5 –908.1  18 
- Annotated Code of Maryland  19 
- (2023 Replacement Volume and 2024 Supplement)  20 
+BY repealing and reenacting, with amendments,  
+ Artic le – Natural Resources  
+ Section 5 –909 
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-BY adding to  21 
- Article – Natural Resources  22 
-2 HOUSE BILL 720   
+BY repealing and reenacting, without amendments,  
+ Article – State Finance and Procurement  
+ Section 6 –226(a)(2)(i)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-  Section 5 –908.1 and 5 –908.2  1 
- Annotated Code of Maryland  2 
- (2023 Replacement  Volume and 2024 Supplement)  3 
+BY repealing and reenacting, with amendments,  
+Ch. 444  2025 LAWS OF MARYLAND   
  
-BY repealing and reenacting, with amendments,  4 
- Article – Natural Resources  5 
- Section 5 –909 6 
- Annotated Code of Maryland  7 
- (2023 Replacement Volume and 2024 Supplement)  8 
+– 2 –  Article – State Finance and Procurement  
+ Section 6 –226(a)(2)(ii)204. and 205.  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  9 
- Article – State Finance and Procurement  10 
- Section 6 –226(a)(2)(i)  11 
- Annotated Code of Maryland  12 
- (2021 Replacement Volume and 2024 Supplement)  13 
+BY adding to  
+ Article – State Finance and Procurement  
+ Section 6 –226(a)(2)(ii)206.  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  14 
- Article – State Finance and Procurement  15 
- Section 6 –226(a)(2)(ii)204. and 205.  16 
- Annotated Code of Maryland  17 
- (2021 Replacement Volume and 2024 Supplement)  18 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as fo llows:  
  
-BY adding to  19 
- Article – State Finance and Procurement  20 
- Section 6 –226(a)(2)(ii)206.  21 
- Annotated Code of Maryland  22 
- (2021 Replacement Volume and 2024 Supplement)  23 
+Article – Natural Resources  
  
- SECTION 1. BE IT ENA CTED BY THE GENERAL ASSEMBLY OF MARYLAND, 24 
-That the Laws of Maryland read as follows:  25 
+[5–908.1.  
  
-Article – Natural Resources  26 
+ (a) (1) In this section the following words have the meanings indicated.  
  
-[5–908.1.  27 
+  (2) “Commission” means the Somers Cove Marina Commission.  
  
- (a) (1) In this section the following words have the meanings indicated.  28 
+  (3) “Fund” means the Somers Cove Marina Improvement Fund.  
  
-  (2) “Commission” means the Somers Cove Marina Commission.  29 
+  (4) “Unen cumbered” means not pledged for use by the State for Somers 
+Cove Marina before the creation of the Commission.  
  
-  (3) “Fund” means the Somers Cove Marina Improvement Fund.  30 
+ (b) (1) (i) There is a Somers Cove Marina Commission.  
  
-  (4) “Unencumbered” means not pledged for use by the State for Somers 31 
-Cove Marina before the creation of the Commission.  32 
+   (ii) The Commission is a body politic and corporate and an 
+instrumentality of the Sta te. 
  
- (b) (1) (i) There is a Somers Cove Marina Commission.  33 
+  (2) The Commission consists of the following members:  
  
- HOUSE BILL 720  3 
+   (i) Two members from Somerset County, appointed by the Board of 
+County Commissioners of Somerset County, one of whom shall be a member of the Somerset 
+County business community;  
  
-    (ii) The Commission is a body politic and corporate and an 1 
-instrumentality of the State.  2 
+   (ii) Two members from the City of Crisfield, appointed by the Mayor 
+of Crisfield, one of whom shall be a member of the Somerset County business community; 
+and 
  
-  (2) The Commission consists of the following members:  3 
+   (iii) Three members appointed by the Secretary, one of whom shall 
+be a current slip holder at Somers C ove Marina.  
  
-   (i) Two members from Somerset County, appointed by the Board of 4 
-County Commissioners of Somerset County, o ne of whom shall be a member of the Somerset 5 
-County business community;  6 
+  (3) (i) The term of a member is 4 years.  
+ WES MOORE, Governor  Ch. 444  
  
-   (ii) Two members from the City of Crisfield, appointed by the Mayor 7 
-of Crisfield, one of whom shall be a member of the Somerset County business community; 8 
-and 9 
+– 3 –  
+   (ii) A member may not serve more than 2 consecutive terms.  
  
-   (iii) Three membe rs appointed by the Secretary, one of whom shall 10 
-be a current slip holder at Somers Cove Marina.  11 
+   (iii) At the end of a term, a member continues to serve until a 
+successor is appointed and qualifies.  
  
-  (3) (i) The term of a member is 4 years.  12 
+   (iv) A member who is appointed after a term has begun serves only 
+for the rest of the term and until a successor is appointed and qualifies.  
  
-   (ii) A member may not serve more than 2 consecutive terms.  13 
+  (4) A member is not entitled to compensation except for reimbursement for 
+expenses as provided in the budget of the Commission.  
  
-   (iii) At the end of a term, a member continues to serve until a 14 
-successor is appointed and qualifies.  15 
+  (5) (i) The Commission shall elect a chair and a vice chair of the 
+Commission from among its members.  
  
-   (iv) A member who is appointed after a term has begun serves only 16 
-for the rest of the term and until a successor is appointed and qualifies.  17 
+   (ii) The Commission shall appoint a secretary –treasurer who need 
+not be a member of the Commission.  
  
-  (4) A member is not entitled to compensation except for reimbursement for 18 
-expenses as provided in the budget of the Commission.  19 
+   (iii) A secretary –treasurer who is not a member of the Commission 
+may not vote on matters before the Commission.  
  
-  (5) (i) The Commission shall elect a chair and a vice chair of the 20 
-Commission from among its members.  21 
+  (6) (i) The Commission shall meet at least every 2 months, as 
+determined by the chair.  
  
-   (ii) The Commission shall appoint a secretary –treasurer who need 22 
-not be  a member of the Commission.  23 
+   (ii) At least 10 days before each meeting, written notice shall be 
+given to each member of the Co mmission.  
  
-   (iii) A secretary –treasurer who is not a member of the Commission 24 
-may not vote on matters before the Commission.  25 
+  (7) Five members of the Commission are a quorum.  
  
-  (6) (i) The Commission shall meet at least every 2 months, as 26 
-determined by the chair.  27 
+  (8) A majority vote of the members present at a meeting having a quorum 
+is needed for the Commission to act.  
  
-   (ii) At least 10  days before each meeting, written notice shall be 28 
-given to each member of the Commission.  29 
+  (9) (i) The Secretary may remove a member of the Commission for any 
+reason upon  a majority vote of the members of the Commission.  
  
-  (7) Five members of the Commission are a quorum.  30 
+   (ii) If a member is removed, a new member shall promptly be 
+appointed by the individual or body that appointed the removed member.  
  
-4 HOUSE BILL 720   
+ (c) (1) The Secretary shall:  
  
-   (8) A majority vote of the members present at a meeting having a quorum 1 
-is needed for the Commission to act.  2 
+   (i) Appoint an Executive Director;  
  
-  (9) (i) The Secretary may remove a member of the Commission for any 3 
-reason upon a majority vote of the members of the Commission.  4 
+   (ii) Consult with the Commission in conducting the annual 
+performance evaluation of the Executive Director; and  
  
-   (ii) If a member is removed, a new member shall promptly be 5 
-appointed by the individual or body that appointed the remov ed member.  6 
+Ch. 444  2025 LAWS OF MARYLAND   
  
- (c) (1) The Secretary shall:  7 
+– 4 –    (iii) Review and make determinations on requests for approval of 
+leases and contracts submitted to the Secretary by the Executive Direct or in accordance 
+with subsection (d) of this section.  
  
-   (i) Appoint an Executive Director;  8 
+  (2) The Executive Director:  
  
-   (ii) Consult with the Commission in conducting the annual 9 
-performance evaluation of the Executive Director; and  10 
+   (i) Shall administer the Fund;  
  
-   (iii) Review and make determinations on requests for approval of 11 
-leases and contracts submitted to the Secretary by the Executive Director in accordance 12 
-with subsection (d) of this section.  13 
+   (ii) On or before May 1 of each year, and after consulting with the 
+Commission, shall prepare operating and capital budgets for the subsequent fiscal year and 
+submit the budgets to the Commission for review and approval;  
  
-  (2) The Executive Director:  14 
+   (iii) Shall supervise the marina manager;  
  
-   (i) Shall administer the Fund;  15 
+   (iv) May execute leases of land, buildings, or facilities at Somers Cove 
+Marina and execute contracts for events or c oncessions at Somers Cove Marina in 
+accordance with subsection (c) of this section;  
  
-   (ii) On or before May 1 of each year, and after c onsulting with the 16 
-Commission, shall prepare operating and capital budgets for the subsequent fiscal year and 17 
-submit the budgets to the Commission for review and approval;  18 
+   (v) Subject to the approval of the Secretary, and in cooperation with 
+the Commission, shall develop an annual master plan for the operations, maintenance, 
+development, and improvement of Somers Cove Marina that improves services to the 
+general boating public;  
  
-   (iii) Shall supervise the marina manager;  19 
+   (vi) Shall administer, in cooperation with the Commission, all 
+unencumbered grants;  
  
-   (iv) May execute leases of land, b uildings, or facilities at Somers Cove 20 
-Marina and execute contracts for events or concessions at Somers Cove Marina in 21 
-accordance with subsection (c) of this section;  22 
+   (vii) 1. Shall employ a staff to operate and maintain Somers Cove 
+Marina, and set the staff’s compensation; and  
  
-   (v) Subject to the approval of the Secretary, and in cooperation with 23 
-the Commission,  shall develop an annual master plan for the operations, maintenance, 24 
-development, and improvement of Somers Cove Marina that improves services to the 25 
-general boating public;  26 
+    2. Shall, except for the marina manager, employ staff as 
+employees of the Commission; and  
  
-   (vi) Shall administer, in cooperation with the Commission, all 27 
-unencumbered g rants;  28 
+   (viii)  Shall be an employee of the State and serve at the pleasure of the 
+Secretary.  
  
-   (vii) 1. Shall employ a staff to operate and maintain Somers Cove 29 
-Marina, and set the staff’s compensation; and  30 
+  (3) (i) The marina mana ger shall be an employee of the State.  
  
-    2. Shall, except for the marina manager, employ staff as 31 
-employees of the Commission; and  32 
- HOUSE BILL 720  5 
+   (ii) The marina manager is responsible for the day –to–day 
+operations of the marina.  
  
-  
-   (viii)  Shall be an employee of the  State and serve at the pleasure of the 1 
-Secretary.  2 
+  (4) On approval of and subject to the conditions that the Department may 
+require, Commission staff who are not employees of th e Department may use vehicles or 
+equipment of the Department.  
  
-  (3) (i) The marina manager shall be an employee of the State.  3 
+ WES MOORE, Governor  Ch. 444  
  
-   (ii) The marina manager is responsible for the day –to–day 4 
-operations of the marina.  5 
+– 5 –  (d) (1) A lease of land, a building, or other facility at the Somers Cove Marina 
+or a contract for an event or concession at the Somers Cove Marina shall conform to the 
+annual master plan appr oved under subsection (c)(2)(v) of this section.  
  
-  (4) On approval of and subject to the conditions that the Department may 6 
-require, Commission staff who are not employees of the Department may use vehicles or 7 
-equipment of the Department.  8 
+  (2) A lease of land, a building, or a facility or a contract for an event or 
+concession that is executed by the Executive Director:  
  
- (d) (1) A lease of land, a building, or other facility at the Somers Cove Marina 9 
-or a contract for an event or conc ession at the Somers Cove Marina shall conform to the 10 
-annual master plan approved under subsection (c)(2)(v) of this section.  11 
+   (i) May not be for a term of more than 5 years or be renewed for 
+more than an additional 5 years; and  
  
-  (2) A lease of land, a building, or a facility or a contract for an event or 12 
-concession that is executed by the Executive Direc tor: 13 
+   (ii) Shall be reviewed and approved by the Commission and Office of 
+the Attorney General.  
  
-   (i) May not be for a term of more than 5 years or be renewed for 14 
-more than an additional 5 years; and  15 
+  (3) A lease entered into before the creation of the Commission shall remain 
+in effect for the duration of the term of the lea se. 
  
-   (ii) Shall be reviewed and approved by the Commission and Office of 16 
-the Attorney General.  17 
+  (4) (i) The Executive Director may not execute a lease or contract for 
+nonboating related improvements or goods at the marina without the approval of the 
+Secretary.  
  
-  (3) A lease entered into before the creation of the Commission shall remain 18 
-in effect for the duration of the term of the lease.  19 
+   (ii) Within 30 days after receiving a request for approval of a lease 
+or contrac t, the Secretary shall provide the Executive Director with an initial response that 
+may include a process or plan of action for addressing the merits of the request.  
  
-  (4) (i) The Executive Director may not execute a lease or contract for 20 
-nonboating related improvements or goods at the marina without the approval of the 21 
-Secretary.  22 
+ (e) On approval of and subject to the conditions that the Secretary may require, 
+the Department may transfer any vehicle, equipment, or other inventory to the 
+Commission.  
  
-   (ii) Within 30 days after receiving a request for approval of a lease 23 
-or contract, the Secretary shall provide the Executive Director with an initial response that 24 
-may include a process or plan of action for addressing the merits of the request.  25 
+ (f) (1) Except as provided in paragraph (6) of this subsection, the Executive 
+Director shall procure goods, services, and capital improvement, design, and maintenance 
+projects in accordance with the requirements of this subsection.  
  
- (e) On appr oval of and subject to the conditions that the Secretary may require, 26 
-the Department may transfer any vehicle, equipment, or other inventory to the 27 
-Commission.  28 
+  (2) For goods, services, and capital improvement, design, and maintenance 
+projects with an expected value of $1,000 to $5,000, the Executive Director shall:  
  
- (f) (1) Except as provided in paragraph (6) of this subsection, the Executive 29 
-Director shall p rocure goods, services, and capital improvement, design, and maintenance 30 
-projects in accordance with the requirements of this subsection.  31 
+   (i) Make a written or teleph one request for bids;  
  
-  (2) For goods, services, and capital improvement, design, and maintenance 32 
-projects with an expected value of $1,000  to $5,000, the Executive Director shall:  33 
-6 HOUSE BILL 720   
+   (ii) Evaluate the bids; and  
  
-  
-   (i) Make a written or telephone request for bids;  1 
+   (iii) Award the contract to the responsible bidder that submits the 
+responsive bid that is the lowest bid price.  
  
-   (ii) Evaluate the bids; and  2 
+  (3) For goods, services, and capital improvement, design, and maintenance 
+projects  with an expected value of $5,000 to $200,000, the Executive Director shall:  
  
-   (iii) Award the contract to the responsible bidder that submits the 3 
-responsive bid that is the lowest bid price.  4 
+Ch. 444  2025 LAWS OF MARYLAND   
  
-  (3) For goods, services, and capital improvement, design, and maintenance 5 
-projects with an expected value of $5,000 to $200,000, the Executive Director shall:  6 
+– 6 –    (i) Advertise the solicitation in a local newspaper and on the 
+Somerset County website;  
  
-   (i) Advertise the solicitation in a local newspaper and on the 7 
-Somerset County website;  8 
+   (ii) Issue invitations for bids to all known prospective vendors;  
  
-   (ii) Issue invitations for bids to all known prospective vendors;  9 
+   (iii) Tabulate and evaluate the bids;  
  
-   (iii) Tabulate and evaluate the bids;  10 
+   (iv) Select for award the responsible bidder who submits the 
+responsive bid that is the lowest bid price; and  
  
-   (iv) Select for award the responsible bidder who submits the 11 
-responsive bid that is the lowest bid price; and  12 
+   (v) Submit the proposed award to the Commission for review and 
+approval.  
  
-   (v) Submit the proposed award to the Commission for review and 13 
-approval.  14 
+  (4) The Executive Director sha ll procure goods, services, and capital 
+improvement, design, and maintenance projects with an expected value exceeding $200,000 
+in accordance with Division II of the State Finance and Procurement Article.  
  
-  (4) The Executive Director shall procure goods, services, and capital 15 
-improvement, design, and maintenance projects with an expected value exceeding $200,000 16 
-in accordance with Division II of the State Finance and Pro curement Article.  17 
+  (5) For goods, services, and capital improvement, design, and maintenance 
+projects funded by the proceeds from State bonds, the Executive Director shall submit the 
+proposed award to the Board of Public Works for approval.  
  
-  (5) For goods, services, and capital improvement, design, and maintenance 18 
-projects funded by the proceeds from State bonds, the Executive Director shall submit the 19 
-proposed award to the Board of Public Works for approval.  20 
+  (6) For an emergency procurement that the Executive Director determi nes 
+to be necessary to avoid or mitigate serious damage to public health, safety, or welfare, the 
+Executive Director shall:  
  
-  (6) For an  emergency procurement that the Executive Director determines 21 
-to be necessary to avoid or mitigate serious damage to public health, safety, or welfare, the 22 
-Executive Director shall:  23 
+   (i) Obtain as much competition as possible under the circumstances; 
+and 
  
-   (i) Obtain as much competition as possible under the circumstances; 24 
-and 25 
+   (ii) After awarding the procurement contract, submit  to the 
+Commission and the Secretary a written report that gives the justification for the use of 
+the emergency procurement procedure.  
  
-   (ii) After awarding the procurement contract, submit to the 26 
-Commission and the Secretary a written report that gives the justification for the use of 27 
-the emergency procurement procedure.  28 
+  (7) The Executive Director shall adopt a procurement policy that includes 
+provisions for minority – and women –owned bus iness participation.  
  
-  (7) The Executive Director shall adopt a procurement policy that includes 29 
-provisions for minority – and women –owned business participation.  30 
+  (8) This subsection does not apply to procurement in support of enterprise 
+activities for the purpose of direct resale or remanufacture and subsequent resale.  
  
- HOUSE BILL 720  7 
+ (g) (1) The Commission shall:  
  
-   (8) This subsection does not apply to procurement in support of enterprise 1 
-activities for the purpose of direct resale or remanufacture and subsequent resale.  2 
+   (i) Adopt an operating budget to use the Fund to implement the 
+master plan;  
  
- (g) (1) The C ommission shall:  3 
+   (ii) Adopt a capital budget that may use funds from Somerset 
+County, the City of Crisfield, the State, and other sources to implement the master plan;  
  
-   (i) Adopt an operating budget to use the Fund to implement the 4 
-master plan;  5 
+ WES MOORE, Governor  Ch. 444  
  
-   (ii) Adopt a capital budget that may use funds from Somerset 6 
-County, the City of Crisfield, the State, and other sources to implement the master plan;  7 
+– 7 –    (iii) 1. Apply for grants from the Waterway Improvement Fu nd 
+in accordance with Title 8, Subtitle 7 of this article; and  
  
-   (iii) 1. Apply for grants from the Waterway Improvement Fund 8 
-in accordance with Title 8, Subtitle 7 of this article; and  9 
+    2. Subject to the Secretary’s approval, receive approved 
+grant amounts at the time of acceptance of a bid or bids for waterway improvement work;  
  
-    2. Subject to the Secretary’s approval, receive approved 10 
-grant amounts at the time of acceptance of a bid or bids for waterway imp rovement work;  11 
+   (iv) Assess slip and other fees and cha rges at Somers Cove Marina as 
+necessary in order to implement the master plan;  
  
-   (iv) Assess slip and other fees and charges at Somers Cove Marina as 12 
-necessary in order to implement the master plan;  13 
+   (v) Set policy and provide general oversight of marina operations; 
+and 
  
-   (v) Set policy and provide general oversight of marina operations; 14 
-and 15 
+   (vi) Adopt rules and regulations necessary for the conduct of its own 
+affairs.  
  
-   (vi) Adopt rules and regulations necessa ry for the conduct of its own 16 
-affairs.  17 
+  (2) The Commission may:  
  
-  (2) The Commission may:  18 
+   (i) Accept gifts, contributions, or loans of money, supplies, goods, 
+and services, and accept appropriations, allotments, and loans of money from:  
  
-   (i) Accept gifts, contributions, or loans of money, supplies, goods, 19 
-and services, and accept appropriations, allotments, and loans of money from:  20 
+    1. The State or federal government;  
  
-    1. The State or federal government ; 21 
+    2. A federal corporation;  
  
-    2. A federal corporation;  22 
+    3. A unit or  instrumentality of the federal government; or  
  
-    3. A unit or instrumentality of the federal government; or  23 
+    4. A political subdivision or instrumentality of the State;  
  
-    4. A political subdivision or instrumentality of the State;  24 
+   (ii) Exercise a power usually possessed by a private corporation in 
+performing similar functions unless to do so would conflict with State l aw; and  
  
-   (ii) Exercise a power usually possessed by a private corporation in 25 
-performing similar functions unless to do so would conflict with State law; and  26 
+   (iii) Do all things necessary to carry out the mandates and powers 
+expressly provided by this section.  
  
-   (iii) Do all things necessary to carry out the mandates and powers 27 
-expressly provided by this section.  28 
+ (h) There is a Somers Cove Marina Improvement Fund in the Commission, to be 
+used for the operation, maintenance, development, and improveme nt of the Somers Cove 
+Marina facilities in Crisfield, Maryland.  
  
-8 HOUSE BILL 720   
+ (i) Any money obtained by the Commission from Somers Cove Marina shall be 
+credited to the Fund.  
  
-  (h) There is a Somers Cove Marina Improvement Fund in the Commission, to be 1 
-used for t he operation, maintenance, development, and improvement of the Somers Cove 2 
-Marina facilities in Crisfield, Maryland.  3 
+ (j) (1) The Commission shall:  
  
- (i) Any money obtained by the Commission from Somers Cove Marina shall be 4 
-credited to the Fund.  5 
+   (i) Maintain the Fund in a bank account separate from Stat e funds;  
  
- (j) (1) The Commission shall:  6 
+Ch. 444  2025 LAWS OF MARYLAND   
  
-   (i) Maintain the Fund in a bank account separate from State funds;  7 
+– 8 –    (ii) Transfer any unencumbered money in the Fund run by the 
+Department to the Commission’s Fund; and  
  
-   (ii) Transfer any unencumbered money in the Fund run by the 8 
-Department to the Commission’s Fund; and  9 
+   (iii) Reimburse the State for the salary of the marina manager.  
  
-   (iii) Reimburse the State for the salary of the marina manager.  10 
+  (2) Money of the Fund is:  
  
-  (2) Money of the F und is:  11 
+   (i) Not money of the State within the meaning of Article VI of the 
+Maryland Constitution; and  
  
-   (i) Not money of the State within the meaning of Article VI of the 12 
-Maryland Constitution; and  13 
+   (ii) Subject to audit by the State, including the Department and the 
+Legislative Auditor.  
  
-   (ii) Subject to audit by the State, including the Department and the 14 
-Legislative Auditor.  15 
+  (3) Money pledged for use by the State for Somers Cove Marina before the 
+creation of the Commission sha ll be used for the same purpose as originally pledged.  
  
-  (3) Money pledged for use by the State for Somers Cove Marina before the 16 
-creation of the Commission shall be used for the same purpose as originally pledged.  17 
+ (k) On or before October 1 of each year, the Commission shall provide to the 
+Department an accounting of revenues and expenses from Somers Cove Marina for the 
+previous fiscal year.  
  
- (k) On or before October 1 of each year, the Commission shall provide to the 18 
-Department an accounting of revenues and expenses from Somers Cove Ma rina for the 19 
-previous fiscal year.  20 
+ (l) (1) On Novem ber 1, 2011, the Department and the Commission shall begin 
+to evaluate the Commission’s work so that the Department and the Commission may make 
+findings and recommendations concerning the Commission’s ability to:  
  
- (l) (1) On November 1, 2011, the Department and the Commission shall begin 21 
-to evaluate the Commission’s work so that the Department and the Commission may make 22 
-findings and recommendations concerning the Commission’s ab ility to:  23 
+   (i) Operate, maintain, develop, and imp rove Somers Cove Marina in 
+an effective manner; and  
  
-   (i) Operate, maintain, develop, and improve Somers Cove Marina in 24 
-an effective manner; and  25 
+   (ii) Afford or assume the costs of operating, maintaining, developing, 
+and improving Somers Cove Marina, including the salaries of:  
  
-   (ii) Afford or assume the costs of operating, maintaining, developing, 26 
-and improving Somers Cove Marina, including the salaries of:  27 
+    1. The Executive Director; and  
  
-    1. The Exe cutive Director; and  28 
+    2. Employees of the State w ho remain working at Somers 
+Cove Marina.  
  
-    2. Employees of the State who remain working at Somers 29 
-Cove Marina.  30 
+  (2) On November 1, 2013, based on the evaluation undertaken in 
+accordance with paragraph (1) of this subsection, the Department and the Commission 
+shall report their findings and recommendations, in accordance wi th § 2 –1257 of the State 
+Government Article, to the General Assembly. ]  
  
- HOUSE BILL 720  9 
+5–908.1.  
  
-   (2) On November 1, 2013, based on the evaluation undertaken in 1 
-accordance with paragraph (1) of this subsection, the Department and the Commission 2 
-shall report  their findings and recommendations, in accordance with § 2 –1257 of the State 3 
-Government Article, to the General Assembly. ]  4 
+ (A) THE SECRETARY : 
  
-5–908.1.  5 
+  (1) MAY:  
  
- (A) THE SECRETARY : 6 
+ WES MOORE, Governor  Ch. 444  
  
-  (1) MAY:  7 
+– 9 –    (I) EXECUTE LEASES OF LAN D, BUILDINGS , OR FACILITIES AT 
+SOMERS COVE MARINA ; 
  
-   (I) EXECUTE LEASES OF LAN D, BUILDINGS , OR FACILITIES AT 8 
-SOMERS COVE MARINA ; 9 
+   (II) PROCURE AND EXECUTE C ONTRACTS FOR OPERATI ONS, 
+MAINTENANCE , MANAGEMENT , IMPROVEMENTS , EVENTS , OR CONCESSIONS AT 
+SOMERS COVE MARINA IN ACCORDANCE WITH DIVISION II OF THE STATE FINANCE 
+AND PROCUREMENT ARTICLE ; 
  
-   (II) PROCURE AND EXECUTE C ONTRACTS FOR OPERATI ONS, 10 
-MAINTENANCE , MANAGEMENT , IMPROVEMENTS , EVENTS , OR CONCESSIONS AT 11 
-SOMERS COVE MARINA IN ACCORDANCE WITH DIVISION II OF THE STATE FINANCE 12 
-AND PROCUREMENT ARTICLE ; 13 
+   (III) EMPLOY A MARINA MANAG ER WHO IS RESPONSIBL E FOR 
+THE DAY –TO–DAY OPERATIONS OF SOMERS COVE MARINA ; AND  
  
-   (III) EMPLOY A MARINA MANAG ER WHO IS RES PONSIBLE FOR 14 
-THE DAY –TO–DAY OPERATIONS OF SOMERS COVE MARINA ; AND  15 
+   (IV) EMPLOY ADDITIONAL STA FF TO OPERATE AND MA INTAIN 
+SOMERS COVE MARINA ; AND 
  
-   (IV) EMPLOY ADDITIONAL STA FF TO OPERATE AND MA INTAIN 16 
-SOMERS COVE MARINA ; AND 17 
+   (V) ASSESS SLIP AND OTHER  FEES AND CHARGES AS 
+NECESSARY TO OPERATE , MAINTAIN , MANAGE , AND IMPROVE SOMERS COVE 
+MARINA ; AND   
  
-   (V) ASSESS SLIP AND OTHER  FEES AND CHARGES AS 18 
-NECESSARY TO OPERATE , MAINTAIN , MANAGE , AND IMPROVE SOMERS COVE 19 
-MARINA ; AND   20 
+  (2) SHALL : 
  
-  (2) SHALL : 21 
+   (I) IF APPLICABLE , SET THE COMPENSATION  FOR A MANAGER 
+AND STAFF EMPLOYED U NDER ITEM (1)(III) AND (IV) OF THIS SECTION ; 
  
-   (I) IF APPLICABLE , SET THE COMPENSATION  FOR A MANAGER 22 
-AND STAFF EMPLOYED U NDER ITEM (1)(III) AND (IV) OF THIS SECTION ; 23 
+   (II) ON OR BEFORE OCTOBER 1, 2027,  DEVELOP A MASTER 
+PLAN FOR THE OPERATI ONS, MAINTENANCE , DEVELOPMENT , AND IMPROVEMENT 
+OF SOMERS COVE MARINA  THAT IMPROVES SERVIC ES TO THE GENERAL BO ATING 
+PUBLIC ; AND 
  
-   (II) ON OR BEFORE OCTOBER 1, 2027,  DEVELOP A MASTER 24 
-PLAN FOR THE OPERATI ONS, MAINTENANCE , DEVELOPMENT , AND IMPROVEMENT 25 
-OF SOMERS COVE MARINA THAT IMPROVES SERVICES TO THE GENE RAL BOATING 26 
-PUBLIC ; AND 27 
+   (III) ON OR BEFORE OCTOBER 1, 2032,  AND OCTOBER 1 EVERY 
+5 YEARS THEREAFTER , UPDATE THE MASTER PL AN DEVELOPED UNDER I TEM (II) OF 
+THIS ITEM . 
  
-   (III) ON OR BEFORE OCTOBER 1, 2032,  AND OCTOBER 1 EVERY 28 
-5 YEARS THEREAFTER , UPDATE THE MASTER PL AN DEVELOPED UNDER I TEM (II) OF 29 
-THIS ITEM . 30 
+ (B) ALL REVENUE RECEIVED BY THE DEPARTMENT FROM MANA GING , 
+OPERATING , MAINTAINING , IMPROVING , AND DEVELOPING SOMERS COVE MARINA 
+SHALL BE DEPOSITED I NTO THE NATURAL RESOURCES PROPERTY MAINTENANCE 
+FUND ESTABLISHED UNDE R § 5–909 OF THIS SUBTITLE . 
  
- (B) ALL REVENUE RECEIVED BY THE DEPARTMENT FROM MANAG ING, 31 
-OPERATING , MAINTAINING , IMPROVING , AND DEVELOPING SOMERS COVE MARINA 32 
-10 HOUSE BILL 720   
+5–908.2.   
  
- SHALL BE DEPOSITED I NTO THE NATURAL RESOURCES PROPERTY MAINTENANCE 1 
-FUND ESTABLISHED UNDE R § 5–909 OF THIS SUBTITLE . 2 
+ (A) IN THIS SECTION , “COMMISSION ” MEANS THE SOMERS COVE MARINA 
+ADVISORY COMMISSION .  
  
-5–908.2.   3 
+ (B) (1) THERE IS A SOMERS COVE MARINA ADVISORY COMMISSION IN 
+THE DEPARTMENT .  
+Ch. 444  2025 LAWS OF MARYLAND   
  
- (A) IN THIS SECTION , “COMMISSION ” MEANS THE SOMERS COVE MARINA 4 
-ADVISORY COMMISSION .  5 
+– 10 –  
+  (2) (I) THE COMMISSION SHALL CONS IST OF THE FOLLOWING  
+MEMBERS :  
  
- (B) (1) THERE IS A SOMERS COVE MARINA ADVISORY COMMISSION IN 6 
-THE DEPARTMENT .  7 
+    1. ONE REPRESENTATIVE FR OM SOMERSET COUNTY , 
+APPOINTED BY THE BOARD OF COUNTY COMMISSIONERS OF SOMERSET COUNTY ;  
  
-  (2) (I) THE COMMISSION SHALL CONS IST OF THE FOLLOWING  8 
-MEMBERS :  9 
+    2. ONE REPRESENTATIVE FR OM THE CITY OF 
+CRISFIELD , APPOINTED BY THE MAYOR OF CRISFIELD ;  
  
-    1. ONE REPRESENTATIVE FR OM SOMERSET COUNTY , 10 
-APPOINTED BY THE BOARD OF COUNTY COMMISSIONERS OF SOMERSET COUNTY ;  11 
+    3. THE SECRETARY , OR THE SECRETARY ’S DESIGNEE ;  
  
-    2. ONE REPRESENTATIVE FR OM THE CITY OF 12 
-CRISFIELD , APPOINTED BY THE MAYOR OF CRISFIELD ;  13 
+    4. ONE REPRESENTATIVE FR OM THE COMMERCIAL 
+FISHING INDUSTRY ;  
  
-    3. THE SECRETARY , OR THE SECRETARY ’S DESIGNEE ;  14 
+    5. ONE REPRESENTATIVE FR OM THE ECONOMIC 
+DEVELOPMENT OR TOURI SM INDUSTRY ;  
  
-    4. ONE REPRESENTATIVE FR OM THE COMMERCIAL 15 
-FISHING INDUSTRY ;  16 
+    6. ONE REPRESENTATIVE OF  SAILBOAT OWNERS , WHO 
+MAY BE A CURRENT SLI P HOLDER AT SOMERS COVE MARINA ; AND  
  
-    5. ONE REPRESENTATIVE FR OM THE ECONOMIC 17 
-DEVELOPMENT OR TOURI SM INDUSTRY ;  18 
+    7. ONE REPRESENTATIVE OF  POWER BOAT OWNERS , 
+WHO MAY BE A CURRENT  SLIP HOLDER AT SOMERS COVE MARINA .  
  
-    6. ONE REPRESENTATIVE OF  SAILBOAT OWNERS , WHO 19 
-MAY BE A CURRENT SLI P HOLDER AT SOMERS COVE MARINA ; AND  20 
+   (II) THE COMPOSITION OF TH E COMMISSION SHALL 
+CONSTITUTE A DIVERSE  CROSS–SECTION OF STAKEHOLD ERS BROADLY 
+REPRESENTATIVE OF MU LTIPLE INTERESTS INC LUDING  TOURISM , ECONOMIC 
+DEVELOPMENT , BUSINESS COMMUNITIES , FISHING , AND BOATING .  
  
-    7. ONE REPRESENTATIVE OF  POWER BOAT OWNERS , 21 
-WHO MAY BE A CURRENT  SLIP HOLDER AT SOMERS COVE MARINA .  22 
+  (3) FROM AMONG ITS MEMBER S, THE COMMISSION SHALL ELEC T A 
+CHAIR AND A VICE CHA IR.  
  
-   (II) THE COMPOSITION OF TH E COMMISSION SHALL 23 
-CONSTITUTE A DIVERSE  CROSS–SECTION OF STAKEHOLD ERS BROADLY 24 
-REPRESENTATIVE OF MU LTIPLE INTERESTS INC LUDING  TOURISM , ECONOMIC 25 
-DEVELOPMENT , BUSINESS COMMUNITIES , FISHING , AND BOATING .  26 
+  (4) (I) THE TERM OF A MEMBER IS 4 YEARS .  
  
-  (3) FROM AMONG ITS MEMBER S, THE COMMISSION SHALL ELEC T A 27 
-CHAIR AND A VICE CHA IR.  28 
+   (II) AT THE END OF A TERM , A MEMBER CONTINUES  TO SERVE 
+UNTIL A SUCCESSOR IS  APPOINTED AND QUALIF IES.  
  
-  (4) (I) THE TERM OF A MEMBER IS 4 YEARS .  29 
+   (III) A MEMBER WHO IS APPOIN TED AFTER A TERM HAS  BEGUN 
+SERVES ONLY FOR THE REST OF THE TERM AND  UNTIL A SUCCESSOR IS  APPOINTED 
+AND QUALIFIES .  
  
- HOUSE BILL 720  11 
+  (5) THE COMMISSION SHALL MEET  AT LEAST BIANNUALLY .  
  
-    (II) AT THE END OF A TERM , A MEMBER CONTINUES  TO SERVE 1 
-UNTIL A SUCCESSOR IS  APPOINTED AND QUALIF IES.  2 
+ WES MOORE, Governor  Ch. 444  
  
-   (III) A MEMBER WHO IS APPOIN TED AFTER A TERM HAS  BEGUN 3 
-SERVES ONLY FOR THE REST OF THE TERM AND  UNTIL A SUCCESSOR IS  APPOINTED 4 
-AND QUALIFIES .  5 
+– 11 –  (C) THE COMMISSION SHALL ADVI SE THE SECRETARY ON MATTERS 
+RELATED TO THE MANAG EMENT , OPERATION , MAINTENANCE , AND DEVELOPMENT 
+OF SOMERS COVE MARINA .  
  
-  (5) THE COMMISSION SHALL MEET  AT LEAST BIANNUALLY .  6 
+5–909. 
  
- (C) THE COMMISSION SHALL ADVI SE THE SECRETARY ON MATTERS 7 
-RELATED TO THE MANAG EMENT , OPERATION , MAINTENANCE , AND DEVELOPMENT 8 
-OF SOMERS COVE MARINA .  9 
+ (a) In this section, “Fund ” means the Natural Resources Property Maintenance 
+Fund.  
  
-5–909. 10 
+ [(b) The Natural Resources Property Maintenance Fund is created within the 
+Department to be used for the maintenance, repair, and management of property owned by 
+the Department.  
  
- (a) In this section, “Fund ” means the Natural Resources Property Maintenance 11 
-Fund.  12 
+ (c) (1) The Fund i s a special, nonlapsing fund that is not subject to § 7 –302 of 
+the State Finance and Procurement Article.  
  
- [(b) The Natural Resources Property Maintenance Fund is created within the 13 
-Department to be used for the maintenance, repair, and management of property owned by 14 
-the Department.  15 
+  (2) Any investment earnings of the Fund shall be credited to the General 
+Fund of the State.  
  
- (c) (1) The Fund is a special, nonlapsing fund that is not subject to § 7 –302 of 16 
-the State Finance and Procurement Article.  17 
+  (3) Money in the Fund may be used for administrative  costs calculated in 
+accordance with § 1 –103(b)(2) of this article. ] 
  
-  (2) Any investment earnings of the Fund shall be credited to the General 18 
-Fund of the State.  19 
+ (B) THERE IS A NATURAL RESOURCES PROPERTY MAINTENANCE FUND IN 
+THE DEPARTMENT . 
  
-  (3) Money in the Fund may be used for administrative costs calculated in 20 
-accordance with § 1 –103(b)(2) of this article .] 21 
+ (C) THE DEPARTMENT SHALL ADMI NISTER THE FUND.  
  
- (B) THERE IS A NATURAL RESOURCES PROPERTY MAINTENANCE FUND IN 22 
-THE DEPARTMENT . 23 
+ (D) (1) THE FUND IS A SPECIAL , NONLAPSING FUND THAT  IS N OT 
+SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE .  
  
- (C) THE DEPARTMENT SHALL ADMI NISTER THE FUND.  24 
+  (2) THE STATE TREASURER SHALL HOLD THE FUND SEPARATELY , 
+AND THE COMPTROLLER SHALL ACC OUNT FOR THE FUND.  
  
- (D) (1) THE FUND IS A SPECIAL , NONLAPSING FUND THAT  IS NOT 25 
-SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE .  26 
+ (E) THE FUND CONSISTS OF :  
  
-  (2) THE STATE TREASURER SHALL HOLD THE FUND SEPARATELY , 27 
-AND THE COMPTROLLER SHALL ACC OUNT FOR THE FUND.  28 
+  (1) MONEY APPROPRIATED IN  THE STATE BUDGET TO THE FUND;  
  
- (E) THE FUND CONSISTS OF :  29 
+  (2) REVENUE DEPOSITED INT O THE FUND IN ACCORDANCE WI TH §  
+5–908.1( B) OF THIS SUBTITLE ;  
  
-  (1) MONEY APPROPRIATED IN  THE STATE BUDGET TO THE FUND;  30 
-12 HOUSE BILL 720   
+  (3) INTEREST EARNINGS ; AND  
  
-  
-  (2) REVENUE DEPOSITED INT O THE FUND IN ACCORDANCE WI TH §  1 
-5–908.1( B) OF THIS SUBTITLE ;  2 
+  (4) ANY OTHER MONEY FROM ANY OTHER SOURCE ACC EPTED FOR 
+THE BENEFIT OF THE FUND.  
  
-  (3) INTEREST EARNINGS ; AND  3 
+Ch. 444  2025 LAWS OF MARYLAND   
  
-  (4) ANY OTHER MONEY FROM ANY OTHER SOURCE ACC EPTED FOR 4 
-THE BENEFIT OF THE FUND.  5 
+– 12 –  (F) THE FUND MAY BE USED ONLY  FOR:  
  
- (F) THE FUND MAY BE USED ONLY  FOR:  6 
+  (1) MAINTAINING , REPAIRING , AND MANAGING PROPERT Y OWNED BY 
+THE DEPARTMENT ;  
  
-  (1) MAINTAINING , REPAIRING , AND MANAGING PROPERT Y OWNED BY 7 
-THE DEPARTMENT ;  8 
+  (2) MANAGING , OPERATING , MAINTAINING , AND DEVELOPING 
+SOMERS COVE MARINA ; AND  
  
-  (2) MANAGING , OPERATING , MAINTAINING , AND DEVELOPING 9 
-SOMERS COVE MARINA ; AND  10 
+  (3) ADMINISTRATIVE EXPENS ES CALCULATED IN ACC ORDANCE  WITH 
+§ 1–103( B)(2) OF THIS ARTICLE .  
  
-  (3) ADMINISTRATIVE EXPENS ES CALCULATED IN ACC ORDANCE WITH 11 
-§ 1–103( B)(2) OF THIS ARTICLE .  12 
+ (G) (1) THE STATE TREASURER SHALL INVES T THE MONEY OF THE FUND 
+IN THE SAME MANNER A S OTHER STATE MONEY MAY BE IN VESTED .  
  
- (G) (1) THE STATE TREASURER SHALL INVES T THE MONEY OF THE FUND 13 
-IN THE SAME MANNER A S OTHER STATE MONEY MAY BE IN VESTED .  14 
+  (2) ANY INTEREST EARNINGS  OF THE FUND SHALL BE CREDITE D TO 
+THE FUND.  
  
-  (2) ANY INTEREST EARNINGS  OF THE FUND SHALL BE CREDITE D TO 15 
-THE FUND.  16 
+ (H) EXPENDITURES FRO M THE FUND MAY BE MADE ONLY  IN ACCORDANCE 
+WITH THE STATE BUDGET . 
  
- (H) EXPENDITURES FROM THE  FUND MAY BE MADE ONLY  IN ACCORDANCE 17 
-WITH T HE STATE BUDGET . 18 
+Article – State Finance and Procurement  
  
-Article – State Finance and Procurement  19 
+6–226. 
  
-6–226. 20 
+ (a) (2) (i) 1. This subparagraph does not apply in fiscal years 2024 
+through 2028.  
  
- (a) (2) (i) 1. This subparagraph does not apply in fiscal years 2024 21 
-through 2028.  22 
+    2. Notwithstanding any other provision of law, and unless 
+inconsistent with a federal law, grant agreement, or other federal requirement or with the 
+terms of a gift or settlement agreement, net interest on all State money allocated by the 
+State Treasurer under this section to special funds or accounts, and  otherwise entitled to 
+receive interest earnings, as accounted for by the Comptroller, shall accrue to the General 
+Fund of the State.  
  
-    2. Notwithstanding any other provision of law, and unless 23 
-inconsistent with a federal law, grant agreement, or other federal requirement or with the 24 
-terms of a gift or settlement agreement, net interest on all State money allocated by the 25 
-State Treasurer under this section to special funds or accounts, and otherwise entitled to 26 
-receive interest earnin gs, as accounted for by the Comptroller, shall accrue to the General 27 
-Fund of the State.  28 
+   (ii) The provisions of subparagraph (i) of this paragraph do not apply 
+to the following funds:  
  
-   (ii) The provisions of subparagraph (i) of this paragraph do not apply 29 
-to the following funds:  30 
- HOUSE BILL 720  13 
+    204. the Victims o f Domestic Violence Program Grant Fund; 
+[and] 
  
-  
-    204. the Victims of Domestic Violence Program Grant Fund; 1 
-[and] 2 
+    205. the Proposed Programs Collaborative Grant Fund ; AND  
  
-    205. the Proposed Programs Collaborative Grant Fund ; AND  3 
+    206.  THE NATURAL RESOURCES PROPERTY 
+MAINTENANCE FUND . 
  
-    206.  THE NATURAL RESOURCES PROPERTY 4 
-MAINTENANCE FUND . 5 
+ WES MOORE, Governor  Ch. 444  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That the Department of Natural 6 
-Resources shall strive to ensure that current members of the Somers Cove Marina 7 
-Commission are appointed to the Somers Cove Marina Advisory Commission.  8 
+– 13 –  SECTION 2. AND BE IT FURTHER ENACTED, That the Department of Natural 
+Resources shall st rive to ensure that current members of the Somers Cove Marina 
+Commission are appointed to the Somers Cove Marina Advisory Commission.  
  
- SECTION 3. AND BE IT FURTHER ENACTED, That the Department of Natural 9 
-Resources and the Somers Cove Marina Commission shall work cooperatively to ensure the 10 
-continuity of operations at the marina as management responsibilities are transferred from 11 
-the Commi ssion to the Department, including any necessary assignments of contracts and 12 
-negotiation or renegotiation of agreements related to the facility, property, management, 13 
-maintenance, service, and staffing.  14 
+ SECTION 3. AND BE IT FURTHER ENACTED, That the Department of Natural 
+Resources and the Somers Cove Marina Commission shall work cooperatively to ensure the 
+continuity of operations at the marina as management responsibilities are transferred from 
+the Commi ssion to the Department, including any necessary assignments of contracts and 
+negotiation or renegotiation of agreements related to the facility, property, management, 
+maintenance, service, and staffing.  
  
- SECTION 4. AND BE IT FURTHER ENACTED, That, on or  before October 1, 2025, 15 
-the Somers Cove Marina Commission shall transfer the remaining balance from the Somers 16 
-Cove Marina Improvement Fund to the Natural Resources Property Maintenance Fund 17 
-established under § 5 –909 of the Natural Resources Article, incl uding any unencumbered 18 
-funds, accounts receivable, and cancelled encumbrances.  19 
+ SECTION 4. AND BE IT FURTHER ENACTED, That, on or  before October 1, 2025, 
+the Somers Cove Marina Commission shall transfer the remaining balance from the Somers 
+Cove Marina Improvement Fund to the Natural Resources Property Maintenance Fund 
+established under § 5 –909 of the Natural Resources Article, incl uding any unencumbered 
+funds, accounts receivable, and cancelled encumbrances.  
  
- SECTION 2 5. AND BE IT FURTHER ENACTED, That this Act shall take effect 20 
-October 1, 2025.  21 
+ SECTION 2 5. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 13, 2025.  

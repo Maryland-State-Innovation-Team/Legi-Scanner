@@ -1,126 +1,103 @@
+ WES MOORE, Governor  Ch. 352  
  
+– 1 – Chapter 352  
+(House Bill 3 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0003*      
-HOUSE BILL 3  
-J2   5lr1115  
-  (PRE –FILED)  CF SB 47  
-By: Delegate Bagnall  
-Requested: October 4, 2024  
-Introduced and read first time: January 8, 2025  
-Assigned to: Health and Government Operations  
-Committee Report: Favorable  
-House action: Adopted  
-Read second time: February 11, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+State Board of Physical Therapy Examiners – Revisions  
  
-AN ACT concerning  1 
+FOR the purpose of clarifying the definition of “physical therapist assistant” as used in the 
+Maryland Physical Therapy Act; altering the membership of the State Board of 
+Physical Therapy Examiners; requiring the Board to send renewal notices to 
+licensees by electronic means, rather than first –class mail, unless the licens ee 
+requests to receive the renewal notice by first –class mail; and generally relating to 
+the State Board of Physical Therapy Examiners.  
  
-State Board of Physical Therapy Examiners – Revisions  2 
+BY repealing and reenacting, without amendments,  
+ Article – Health Occupations  
+ Section 13–101(a) and 13 –311(a)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of clarifying the definition of “physical therapist assistant” as used in the 3 
-Maryland Physical Therapy Act; altering the membership of the State Board of 4 
-Physical Therapy Examiners; requiring the Board to send renewal notices to 5 
-licensees by electronic means, rather than f irst–class mail, unless the licensee 6 
-requests to receive the renewal notice by first –class mail; and generally relating to 7 
-the State Board of Physical Therapy Examiners.  8 
+BY repealing and reenacting, with amendments,  
+ Article – Health Occupations  
+ Section 13–101(g), 13 –202(a)(1) through (3) and (c), and 13 –311(b)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  9 
- Article – Health Occupations  10 
- Section 13–101(a) and 13 –311(a)  11 
- Annotated Code of Maryland  12 
- (2021 Replacement Volume and 2024 Supplement)  13 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  14 
- Article – Health Occupations  15 
- Section 13–101(g), 13 –202(a)(1) through (3) and (c), and 13 –311(b)  16 
- Annotated Code of Maryland  17 
- (2021 Replacement Volume and 2024 Supplement)  18 
+Article – Health Occupations  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 19 
-That the Laws of Maryland read as follows:  20 
+13–101. 
  
-2 HOUSE BILL 3   
+ (a) In this title the following words have the meanings indicated.  
  
- Article – Health Occupations  1 
+ (g) “Physical therapist assistant” means an individual  LICENSED BY THE STATE 
+BOARD OF PHYSICAL THERAPY EXAMINERS  who practices limited physical therapy and 
+who has passed the national physical therapy licensing examination administered or 
+accepted by the Board.  
  
-13–101. 2 
+13–202. 
  
- (a) In this title the following words have the meanings indicated.  3 
+ (a) (1) The Board consists of [8] 9 members.  
  
- (g) “Physical therapist assistant” means an individual  LICENSED BY THE STATE 4 
-BOARD OF PHYSICAL THERAPY EXAMINERS  who practices limited physical therapy and 5 
-who has passed the national physical therapy licensing examinat ion administered or 6 
-accepted by the Board.  7 
+  (2) Of the  [8] 9 Board members:  
+Ch. 352  2025 LAWS OF MARYLAND   
  
-13–202. 8 
+– 2 –  
+   (i) Five shall be licensed physical therapists, of which a minimum 
+of four shall be engaged primarily in the clinical practice of physical therapy in this  State;  
  
- (a) (1) The Board consists of [8] 9 members.  9 
+   (ii) [One] TWO shall be  [a] licensed physical therapist  [assistant ] 
+ASSISTANTS  practicing limited physical therapy in this State; and  
  
-  (2) Of the  [8] 9 Board members:  10 
+   (iii) Two shall be consumer members.  
  
-   (i) Five shall be licensed physical therapists, of which a minimum 11 
-of four shall be engaged primarily in the clinical practice of physical therapy in this State;  12 
+  (3) The Governor shall appoint the licensed physical therapist members 
+and the licensed physical therapist assistant  [member ] MEMBERS , with the advice of the 
+Secretary, from a list of names of qualified individuals submitted to the Secretary and the 
+Governor by the American Physical Therapy Association of Maryland. Th e number of 
+names on the list shall be at least three times the number of vacancies.  
  
-   (ii) [One] TWO shall be  [a] licensed physical therapist  [assistant ] 13 
-ASSISTANTS  practicing limited physical therapy in this State; and  14 
+ (c) [The] EACH licensed physical therapist assistant member shall:  
  
-   (iii) Two shall be consumer members.  15 
+  (1) Have 5 years’ experience in limited physical therapy; and  
  
-  (3) The Governor shall appoint  the licensed physical therapist members 16 
-and the licensed physical therapist assistant  [member ] MEMBERS , with the advice of the 17 
-Secretary, from a list of names of qualified individuals submitted to the Secretary and the 18 
-Governor by the American Physical Th erapy Association of Maryland. The number of 19 
-names on the list shall be at least three times the number of vacancies.  20 
+  (2) Be engaged in the profession of limited physical therapy in this State.  
  
- (c) [The] EACH licensed physical therapist assistant member shall:  21 
+13–311. 
  
-  (1) Have 5 years’ experience in limited physical therapy; and  22 
+ (a) (1) A license expires on the date set by the Board, unless the license is 
+renewed for an additional term as provided in this section.  
  
-  (2) Be engaged in the profession of limited physical therapy in this State.  23 
+  (2) A license may not be renewed for a term longer than 2 yea rs. 
  
-13–311. 24 
+ (b) (1) Except as provided in paragraph (2) of this subsection, at least 1 month 
+before the license expires, the Board shall send to the licensee, by  [first–class mail ] 
+ELECTRONIC MEANS  to the last known  E–MAIL  address of the licensee, a renewal noti ce 
+that states:  
  
- (a) (1) A license expires on the date set by the Board, unless the license is 25 
-renewed for an additional term as provided in this section.  26 
+   (i) The date on which the current license expires;  
  
-  (2) A license may not be renewed for a term longer than 2 years.  27 
+   (ii) The date by which the renewal application must be received by 
+the Board for the renewal to be issued [and mailed ] before the license expires; and  
  
- (b) (1) Except as provided in paragraph (2) of this subsection, at least 1 month 28 
-before the license expires, the Board shall send to the licensee, by  [first–class mail ] 29 
- HOUSE BILL 3  3 
+   (iii) The amount of the re newal fee.  
  
- ELECTRONIC MEANS  to the last known  E–MAIL  address of the licensee, a renewal notice 1 
-that states:  2 
+  (2) If requested by a licensee, the Board shall send to the licensee [, at least 
+two times within the month before a license expires, ] a renewal notice by  [electronic means ] 
+FIRST–CLASS MAIL  to the last known  [electronic mail ] address of the licensee.  
  
-   (i) The date on which the current license expires;  3 
+ WES MOORE, Governor  Ch. 352  
  
-   (ii) The date by which the renewal application must be received by 4 
-the Board for the renewal to be issued [and mailed ] before the license expires ; and  5 
+– 3 –   (3) If a renewal notice sent by electronic means under paragraph  [(2)] (1) 
+of this subsection is returned to the Board as undeliverable, the Board shall send to the 
+licensee a renewal notice by first –class mail to the last known address of the  licensee.  
  
-   (iii) The amount of the renewal fee.  6 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 
+1, 2025.  
  
-  (2) If requested by a licensee, the Board shall send to the licensee [, at least 7 
-two times within the month before a license expires, ] a renewal notice by  [electronic means ] 8 
-FIRST–CLASS MAIL  to the last know n [electronic mail ] address of the licensee.  9 
- 
-  (3) If a renewal notice sent by electronic means under paragraph  [(2)] (1) 10 
-of this subsection is returned to the Board as undeliverable, the Board shall send to the 11 
-licensee a renewal notice by first –class ma il to the last known address of the licensee.  12 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 13 
-1, 2025.  14 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 6, 2025.  

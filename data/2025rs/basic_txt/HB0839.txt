@@ -1,113 +1,88 @@
+ WES MOORE, Governor  Ch. 391  
  
+– 1 – Chapter 391  
+(House Bill 839 ) 
  
-EXPLANATION:  CAPITALS INDICATE MATTER ADDED TO EXIS TING LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0839*      
-HOUSE BILL 839  
-G1   5lr2727  
-    CF SB 543  
-By: Delegate Roberson  
-Introduced and read first time: January 29, 2025  
-Assigned to: Ways and Means  
-Committee Report: Favorable  
-House action: Adopted  
-Read second time: February 26, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Election Law – Provisional Ballots – Nonpartisan Board of Education Contests  
  
-AN ACT concerning  1 
+FOR the purpose of providing that a voter is qualified to vote a provisional ballot if the 
+provisional ballot was cast because the voter claimed a different political party 
+affiliation from the political party affiliation on record for the voter and the voter 
+made a selection in a nonpartisan board o f education contest; requiring a local board 
+of canvassers to count only the votes cast in a nonpartisan board of education contest 
+if the voter cast a provisional ballot for a different political party from the political 
+party affiliation on record for th e voter; and generally relating to provisional ballots.  
  
-Election Law – Provisional Ballots – Nonpartisan Board of Education Contests  2 
+BY repealing and reenacting, with amendments,  
+ Article – Election Law  
+Section 11 –303(d) and (e)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of providing that a voter is qualified to vote a provisional ballot if the 3 
-provisional ballot was cast because the voter claimed a different political party 4 
-affiliation from the political party affiliation on record for the voter and the voter 5 
-made a selection in a nonpartisan board of education c ontest; requiring a local board 6 
-of canvassers to count only the votes cast in a nonpartisan board of education contest 7 
-if the voter cast a provisional ballot for a different political party from the political 8 
-party affiliation on record for the voter; and generally relating to provisional ballots.  9 
+ SECTION 1. BE IT ENACTED  BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  10 
- Article – Election Law  11 
-Section 11 –303(d) and (e)  12 
- Annotated Code of Maryland  13 
- (2022 Replacement Volume and 2024 Supplement)  14 
+Article – Election Law  
  
- SECTION 1. BE IT ENACTED BY THE GENER AL ASSEMBLY OF MARYLAND, 15 
-That the Laws of Maryland read as follows:  16 
+11–303. 
  
-Article – Election Law  17 
+ (d) (1) Subject to § 11 –303.2 of this subtitle, a local board may not reject a 
+provisional ballot except by unanimous vote and in accordance  with regulations of the State 
+Board.  
  
-11–303. 18 
+  (2) The local board shall reject a provisional ballot if:  
  
-2 HOUSE BILL 839   
+   (i) pursuant to paragraph (4) of this subsection, the local board 
+determines that the individual who cast the provisional ballot is not qualified to vote  that 
+provisional ballot;  
  
-  (d) (1) Subject to § 11 –303.2 of this subtitle, a local board may not reject a 1 
-provisional ballot except by unanimous vote and in accordance with regulat ions of the State 2 
-Board.  3 
+   (ii) the individual failed to sign the oath on the provisional ballot 
+application; or  
  
-  (2) The local board shall reject a provisional ballot if:  4 
+   (iii) the local board determines that a provisional ballot is 
+intentionally marked with an identifying mark that is clearly evident and placed on the 
+ballot for the purpose of identifying the ballot.  
  
-   (i) pursuant to paragraph (4) of this subsection, the local board 5 
-determines that the individual who cast the provisional ballot is not qualified to vote that 6 
-provisional ballot;  7 
+Ch. 391  2025 LAWS OF MARYLAND   
  
-   (ii) the individual failed to sign the oath on the provisional ballot 8 
-application; or  9 
+– 2 –   (3) If the intent of the voter with respect to a particular contest is not 
+clearly demonstrated, the local board shall reject only the vote for that contest.  
  
-   (iii) the local board determines that a provisional ballot is 10 
-intentionally marked with an identifying mark that is clearly evident and placed  on the 11 
-ballot for the purpose of identifying the ballot.  12 
+  (4) For the purposes of this  section, an individual is qualified to vote the 
+provisional ballot cast if the local board determines that:  
  
-  (3) If the intent of the voter with respect to a particular contest is not 13 
-clearly demonstrated, the local board shall reject only the vote for that contest.  14 
+   (i) the individual is registered in the State;  
  
-  (4) For the purposes of this secti on, an individual is qualified to vote the 15 
-provisional ballot cast if the local board determines that:  16 
+   (ii) if the provisional ballot was cast because the voter failed to 
+provide required identification, the individual who cast the provisional ballot has met the 
+identification requirements established by the State Board; [and] 
  
-   (i) the individual is registered in the State;  17 
+   (iii) if the provisional ballot  was cast during a period covered by a 
+court order or other order extending the time for closing the polls, the order has not been 
+invalidated by a subsequent court order ; AND 
  
-   (ii) if the provisional ballot was cast because the voter failed to 18 
-provide required identificatio n, the individual who cast the provisional ballot has met the 19 
-identification requirements established by the State Board; [and] 20 
+   (IV) IF THE PROVISIONAL B ALLOT WAS CAST BECAU SE THE 
+VOTER CLAIMED A DIFF EREN T POLITICAL PARTY AF FILIATION FROM THE 
+POLITICAL PARTY AFFI LIATION ON RECORD FO R THE VOTER , THE VOTER MADE A 
+SELECTION IN A NONPA RTISAN BOARD OF EDUC ATION CONTEST ON THE  BALLOT . 
  
-   (iii) if the provisional ballot was cast during a period covered by a 21 
-court order or other order extending the time for closing the polls, the order has not been 22 
-invalidated by a subsequent court order ; AND 23 
+ (e) A local board shall count:  
  
-   (IV) IF THE PROVISIONAL B ALLOT WAS CAST BECAU SE THE 24 
-VOTER CLAIMED A DIFF ERENT POLITICAL PART Y AFFILIATION FROM T HE 25 
-POLITICAL PARTY AFFI LIATION ON RECORD FO R THE VOTE R, THE VOTER MADE A 26 
-SELECTION IN A NONPA RTISAN BOARD OF EDUC ATION CONTEST ON THE  BALLOT . 27 
+  (1) the entire provisional ballot if the a ddress on the provisional ballot 
+application is within the precinct where the provisional ballot was cast; [or] 
  
- (e) A local board shall count:  28 
+  (2) only the votes cast by the voter for each candidate or question applicable 
+to the precinct in which the voter resides, as determined by t he address on the provisional 
+ballot application of the voter ; OR 
  
-  (1) the entire provisional ballot if the address on the provisional ballot 29 
-application is within the precinct where the provisional  ballot was cast; [or] 30 
+  (3) ONLY THE VOTES CAST BY THE VOTER IN A NO NPARTISAN BOARD 
+OF EDUCATION CONTEST  IF THE VOTER CAST A PROVISIONAL BALLOT F OR A 
+DIFFERENT POLITICAL PARTY FROM THE POLIT ICAL PARTY AFFILIATI ON ON 
+RECORD FOR THE VOTER . 
  
-  (2) only the votes cast by the voter for each candidate or question applicable 31 
-to the precinct in which the voter resides, as determined by the address on the provisional 32 
-ballot application of the voter ; OR 33 
- HOUSE BILL 839  3 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
-  
-  (3) ONLY THE VOTES C AST BY THE VOTER IN A NONPARTISAN BOARD 1 
-OF EDUCATION CONTEST  IF THE VOTER CAST A PROVISIONAL BALLOT F OR A 2 
-DIFFERENT POLITICAL PARTY FROM THE POLIT ICAL PARTY AFFILIATI ON ON 3 
-RECORD FOR THE VOTER . 4 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 5 
-October 1, 2025.  6 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 6, 2025.  

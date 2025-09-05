@@ -1,298 +1,270 @@
+ WES MOORE, Governor  Ch. 748  
  
+– 1 – Chapter 748  
+(House Bill 1478 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb1478*      
-HOUSE BILL 1478  
-J3   5lr2959  
-      
-By: Delegates Hill, Kaiser, Kaufman, Terrasa, Valderrama, and Woorman  
-Woorman, Alston, Bagnall, Bhandari, Chisholm, Cullison, Guzzone, 
-Hutchinson, S.  Johnson, Kerr, Kipke, Lopez, Martinez, M.  Morgan,  
-Pena–Melnyk, Reilly, Rosenberg, Ross, Szeliga, Taveras, White  Holland, 
-and Woods  
-Introduced and read first time: February 7 , 2025  
-Assigned to: Health and Government Operations  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: March 6, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Public Health – Report on Establishing a Directory of  Home Health Care 
+Providers – Directory   
  
-AN ACT concerning  1 
+FOR the purpose of requiring the Maryland Department of Health to establish and 
+maintain an online directory of each home health care provider; requiring that the 
+directory allow an individual to search the directory and identify a home health care 
+provide r based on specified criteria  submit a report on the feasibility of establishing 
+and maintaining an online directory of home health care providers for certain 
+purposes to certain committees of the General Assembly on or before a certain date ; 
+and generally  relating to home health care providers.  
  
-Public Health – Report on Establishing a Directory of  Home Health Care 2 
-Providers – Directory   3 
+BY repealing and reenacting, without amendments,  
+ Article – Health – General  
+Section 19 –4A–01(a), (b), and (f)  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of requiring the Maryland Department of Health to establish and 4 
-maintain an online directory of each home health care provider; requiring that the 5 
-directory allow an individual to search the directory and identify a home health care 6 
-provider based on specified criteria  submit a report on the feasibility of establishing 7 
-and maintaining an online directory of home health care providers for certain 8 
-purposes to certain committees of the General As sembly on or before a certain date ; 9 
-and generally relating to home health care providers.  10 
+BY adding to  
+ Article – Health – General  
+Section 19 –4C–01 and 19 –4C–02 to be under the new subtitle “Subtitle 4C. Home  
+Health Care Provider Directory”  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  11 
- Article – Health – General  12 
-Section 19 –4A–01(a), (b), and (f)  13 
- Annotated Code of Maryland  14 
- (2023 Replacement Volum e and 2024 Supplement)  15 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows : 
  
-BY adding to  16 
- Article – Health – General  17 
-Section 19 –4C–01 and 19 –4C–02 to be under the new subtitle “Subtitle 4C. Home  18 
-Health Care Provider Directory”  19 
-2 HOUSE BILL 1478   
+ (a) On or before December 31, 2025, the Maryland Department of Health, in 
+consultation with stakeholders, including the Maryland Department of Aging, trade 
+associations of residential service agencies,  consumer organizations, and employee 
+organizations representing health care workers, shall report to the Senate Finance 
+Committee and the House Health and Government Operations Committee, in accordance 
+with § 2 –1257 of the State Government Article, on the  feasibility of establishing and 
+maintaining an online directory of home health care providers for purposes of:  
  
-  Annotated Code of Maryland  1 
- (2023 Replacement Volume and 2024 Supplement)  2 
+  (1) allowing an individual seeking home health care services to identify a 
+home health care provider in a statewide directory based on specif ied criteria, such as 
+language proficiency, certifications, previous experience, or special skills; and  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 3 
-That the Laws of Maryland read as follows : 4 
+  (2) supporting statewide communication to home health care providers for:  
  
- (a) On or before December 31, 2025, the Maryland Department of Health, in 5 
-consultation with stakeholders, including the Maryland Department of Aging,  trade 6 
-associations of residential service agencies, consumer organizations, and employee 7 
-organizations representing health care workers, shall report to the Senate Finance 8 
-Committee and the House Health and Government Operations Committee, in accordance 9 
-with § 2 –1257 of the State Government Article, on the feasibility of establishing and 10 
-maintaining an online directory of home health care providers for purposes of:  11 
+Ch. 748  2025 LAWS OF MARYLAND   
  
-  (1) allowing an individual seeking home health care services to identify a 12 
-home health ca re provider in a statewide directory based on specified criteria, such as 13 
-language proficiency, certifications, previous experience, or special skills; and  14 
+– 2 –    (i) retention and recruitment by helping individuals to become and 
+rema in enrolled as home and community –based services providers under the Maryland 
+Medical Assistance Program;  
  
-  (2) supporting statewide communication to home health care providers for:  15 
+   (ii) workforce development by connecting home health care 
+providers to training and workforce development opportunities that support consumers’ 
+specific health needs; and  
  
-   (i) retention and recruitment by helping individuals to become and 16 
-remain enrolled as home and community –based services providers under the Maryland 17 
-Medical Assistance Program;  18 
+   (iii) facilitating communication with home health care providers in 
+the event of a public health or other emergency.  
  
-   (ii) workforce development by connecting home health care 19 
-providers to training and workforce  development opportunities that support consumers’ 20 
-specific health needs; and  21 
+ (b) The report shall include:  
  
-   (iii) facilitating communication with home health care providers in 22 
-the event of a public health or other emergency.  23 
+  (1) information on which other states have established home health care 
+provider directories;  
  
- (b) The report shall include:  24 
+  (2) the types of information that would be appropriate to include in a home 
+health care provider directory;  
  
-  (1) information on whi ch other states have established home health care 25 
-provider directories;  26 
+  (3) a review of home health care provider directories already established 
+by counties in the State;  
  
-  (2) the types of information that would be appropriate to include in a home 27 
-health care provider directory;  28 
+  (4) a review of existing home health care consumer resources and service 
+programs already available through the Maryland Health Care Commission and the 
+Maryland Department of Health Office of Health Care Quality; and  
  
-  (3) a review of home health care provider directories already establis hed 29 
-by counties in the State;  30 
+  (5) based on items (1) through (4) of this subsectio n, recommendations on 
+establishing and maintaining a home health care provider directory based on available 
+federal and State funding for home health care directories.   
  
-  (4) a review of existing home health care consumer resources and service 31 
-programs already available through the Maryland Health Care Commission and the 32 
-Maryland Department of Health Office of Health Care Quality; and  33 
+Article – Health – General  
  
- HOUSE BILL 1478  3 
+19–4A–01. 
  
-   (5) based on items (1) through (4) of this subsection, recommendations on 1 
-establishing and maintaining a home health care provider directory based on available 2 
-federal and State funding for home health care directories.   3 
+ (a) In this subtitle the following words have the meanings indicated.  
  
-Article – Health – General  4 
+ (b) “Home health care” includes any of the following services:  
  
-19–4A–01. 5 
+  (1) Audiology and speech pathology;  
  
- (a) In this subtitle the following words have the meanings indicated.  6 
+  (2) Dietary and nutritional services;  
  
- (b) “Home health care” includes any of the following services:  7 
+  (3) Drug services;  
  
-  (1) Audiology and speech pathology;  8 
+  (4) Home health aide;  
  
-  (2) Dietary and nutritional services;  9 
+ WES MOORE, Governor  Ch. 748  
  
-  (3) Drug services;  10 
+– 3 –   (5) Laboratory;  
  
-  (4) Home health aide;  11 
+  (6) Medical social  services;  
  
-  (5) Laboratory;  12 
+  (7) Nursing;  
  
-  (6) Medical social services;  13 
+  (8) Occupational therapy;  
  
-  (7) Nursing;  14 
+  (9) Physical therapy;  
  
-  (8) Occupational therapy;  15 
+  (10) Provision of invasive medical equipment; and  
  
-  (9) Physical therapy;  16 
+  (11) Home medical equipment services.  
  
-  (10) Provision of invasive medical equipment; and  17 
+ (f) (1) “Residential service agency” means any person that is engaged in a 
+nong overnmental business of employing or contracting with individuals to provide home 
+health care for compensation to an unrelated sick or disabled individual in the residence of 
+that individual.  
  
-  (11) Home medical equipment services.  18 
+  (2) “Residential service agency” includes any agency that emp loys or 
+contracts with individuals directly for hire as home health care providers.  
  
- (f) (1) “Residential service agency” means any person that is engaged in a 19 
-nongovernmental business of employing or contracting with individuals to provide home 20 
-health care for compensation to an unrelated sick or disabled individual in the residence of 21 
-that individual.  22 
+  (3) “Residential service agency” does not include:  
  
-  (2) “Residential service agency” includes any agency that employs or 23 
-contracts with individuals directly for hire as home health care providers.  24 
+   (i) A home health agency that is licensed under the provisions of 
+Subtitle 4 of this title;  
  
-  (3) “Residential service agency” does not include:  25 
+   (ii) A person required to be licensed as a home health agency under 
+the provisions of Subtitle 4 of this title;  
  
-   (i) A home health agency that is licensed under the prov isions of 26 
-Subtitle 4 of this title;  27 
+   (iii) A home –based hospice care program that is licensed under the 
+provisions of Subtitle 9 of this title;  
  
-4 HOUSE BILL 1478   
+   (iv) A hospital that is licensed under the provisions of Subtitle 3 of 
+this title;  
  
-    (ii) A person required to be licensed as a home health agency under 1 
-the provisions of Subtitle 4 of this title;  2 
+   (v) A related institution that is licensed under the provisions of 
+Subtitle 3 of this title;  
  
-   (iii) A home –based hospice care program that is licensed under the 3 
-provisions of Subtitle 9 of this title;  4 
+   (vi) Personal care providers under the Medical Assistance Personal 
+Care Program;  
  
-   (iv) A hospital that is licensed under the provisions of Subtitle 3 of 5 
-this title;  6 
+   (vii) Any person practicing a health occupation that the person is 
+authorized to practice under the Health Occupations Article;  
  
-   (v) A related institution that is licensed under the provisions of 7 
-Subtitle 3 of this title;  8 
+Ch. 748  2025 LAWS OF MARYLAND   
  
-   (vi) Personal care providers under the Medical Assistance Per sonal 9 
-Care Program;  10 
+– 4 –    (viii)  A nursing referral service agency that is licensed under Subtitle 
+4B of this title;  
  
-   (vii) Any person practicing a health occupation that the person is 11 
-authorized to practice under the Health Occupations Article;  12 
+   (ix) A group of persons licensed under the same title of th e Health 
+Occupations Article practicing as a business; or  
  
-   (viii)  A nursing referral service agency that is licensed under Subtitle 13 
-4B of this title;  14 
+   (x) Residential rehabilitation services providers approved under 
+regulations adopted by the State mental health authority.  
  
-   (ix) A group of persons licensed under the same title of the Health 15 
-Occupations Article practicing as a business; or  16 
+SUBTITLE 4C. HOME HEALTH CARE PROVIDER DIRECTORY . 
  
-   (x) Residential rehabilitation services providers approved under 17 
-regulations adopted by the State mental health authority.  18 
+19–4C–01. 
  
-SUBTITLE 4C. HOME HEALTH CARE PROVIDER DIRECTORY . 19 
+ IN THIS  SUBTITLE , “HOME HEALTH CARE PRO VIDER” MEANS AN INDIVIDUAL  
+WHO PROVIDES HOME HE ALTH CARE , AS DEFINED IN § 19–4A–01 OF THIS TITLE , 
+REGARDLESS OF WHETHE R THE INDIVIDUAL IS EMPLOYED BY OR CONTR ACTS WITH  
+A RESIDENTIAL SERVIC E AGENCY .  
  
-19–4C–01. 20 
+19–4C–02. 
  
- IN THIS SUBTITLE , “HOME HEALTH CARE PRO VIDER” MEANS AN INDIVIDUAL  21 
-WHO PROVIDES HOME HE ALTH CARE , AS DEFINED IN § 19–4A–01 OF THIS TITLE , 22 
-REGARDLESS OF WHETHE R THE INDIVIDUAL IS EMPLOYED BY OR CONTR ACTS WITH  23 
-A RESIDENTIAL SERVIC E AGENCY .  24 
+ (A) (1) THE DEPARTMENT SHALL ESTA BLISH AND MAINTAIN A N ONLINE  
+DIRECTORY OF EACH HO ME CARE PROVIDER IN THE STATE .  
  
-19–4C–02. 25 
+  (2) THE DEPARTMENT SHALL MODE L THE DIRECTORY ON E XISTING  
+DIRECTORIES .  
  
- (A) (1) THE DEPARTMENT SHALL ESTA BLISH AND MAINTAIN A N ONLINE  26 
-DIRECTORY OF EACH HO ME CARE PROVIDER IN THE STATE .  27 
+ (B) THE ONLINE DIRECTORY SHALL ALLOW AN INDIV IDUAL SEEKING HOME  
+HEALTH CARE SERVICES TO SEARCH T HE INFORMATION IN TH E DIRECTORY AND  
+IDENTIFY A HOME HEAL TH CARE PROVIDER BAS ED ON SPECIFIED CRIT ERIA , SUCH  
+AS LANGUAGE PROFICIE NCY, CERTIFICATIONS , PREVIOUS EXPERIENCE , OR 
+SPECIAL SKILLS . 
  
-  (2) THE DEPARTMENT SHALL MODE L THE DIRECTORY ON E XISTING  28 
-DIRECTORIES .  29 
+ (C) THE DIRECTORY MAY INC LUDE FUNCTIONALITIES  THAT : 
  
- (B) THE ONLINE DIRECT ORY SHALL ALLOW AN I NDIVIDUAL SEEKING HO ME 30 
-HEALTH CARE SERVICES  TO SEARCH THE INFORM ATION IN THE DIRECTO RY AND  31 
- HOUSE BILL 1478  5 
+  (1) CONNECT AN INDIVIDUAL  SEEKING HOME – AND  
+COMMUNITY –BASED SERVICES WITH A QUALIFIED PROVIDER  BY: 
  
- IDENTIFY A HOME HEAL TH CARE PROVIDER BAS ED ON SPECIFIED CRIT ERIA , SUCH  1 
-AS LANGUAGE PROFICIE NCY, CERTIFICATIONS , PREVIOUS EXPERIENCE , OR 2 
-SPECIAL S KILLS . 3 
+   (I) PROVIDING A STATEWIDE  SYSTEM THROUGH WHICH  AN 
+INDIVIDUAL CAN IDENT IFY AND ACCESS AVAIL ABLE INFORMATION ON HOME  
+HEALTH CARE PROVIDER S; AND  
  
- (C) THE DIRECTORY MAY INC LUDE FUNCTIONALITIES  THAT : 4 
+   (II) ASSISTING AN INDIVIDU AL IN NAVIGATING THE  HOME– AND  
+COMMUNITY –BASED SERVICES SYSTE M IN THE STATE ; 
  
-  (1) CONNECT AN INDIVIDUAL  SEEKING HOME – AND  5 
-COMMUNITY –BASED SERVICES WITH A QUALIFIED PROVIDER  BY: 6 
+ WES MOORE, Governor  Ch. 748  
  
-   (I) PROVIDING A STATEWIDE  SYSTEM THROUGH WHICH  AN 7 
-INDIVIDUAL CAN IDENT IFY AND ACCESS AVAILABLE INFORMATIO N ON HOME  8 
-HEALTH CARE PROVIDER S; AND  9 
+– 5 –   (2) SUPPORT THE RECRUITME NT AND RETENTION OF QUALIFIED  
+HOME HEALTH CARE PRO VIDERS BY : 
  
-   (II) ASSISTING AN INDIVIDU AL IN NAVIGATING THE  HOME– AND  10 
-COMMUNITY –BASED SERVICES SYSTE M IN THE STATE ; 11 
+   (I) HELPING INDIVIDUALS T O BECOME AND REMAIN  
+ENROLLED AS  HOME– AND COMMUNITY –BASED SERVICES PROVI DERS UNDER THE  
+MARYLAND MEDICAL ASSISTANCE PROGRAM ;  
  
-  (2) SUPPORT THE RECRUITME NT AND RETENTION OF QUALIFIED  12 
-HOME HEALTH CARE PRO VIDERS BY : 13 
+   (II) ACTIVELY RECRUITING H OME HEALTH CARE PROV IDERS  
+THROUGH JOB ADVERTIS EMENTS AND JOB FAIRS ; 
  
-   (I) HELPING INDIVIDUALS T O BECOME AND REMAIN  14 
-ENROLLED AS HOME – AND COMMUNITY –BASED SERVICES PROVI DERS UNDER THE  15 
-MARYLAND MEDICAL ASSISTANCE PROGRAM ;  16 
+   (III) CONNECTING HOME HEALT H CARE PROVIDERS TO  
+TRAINING AND OPPORTUNITIES FOR PR OFESSIONAL DEVELOPME NT; AND  
  
-   (II) ACTIVELY RECRUITING H OME HEALTH CARE PROV IDERS  17 
-THROUGH JOB ADVERTIS EMENTS AND JOB FAIRS ; 18 
+   (IV) FACILITATING ACCESS F OR HOME HEALTH CARE  
+PROVIDERS TO HEALTH INSURANCE AND OTHER BENEFITS ; AND  
  
-   (III) CONNECTING HOME HEALT H CARE PROVIDERS TO  19 
-TRAINING AND OPPORTU NITIES FOR PROFESSIO NAL DEVELOPMENT ; AND  20 
+  (3) FACILITATING COMMUNIC ATION WITH HOME HEAL TH CARE  
+PROVIDERS IN THE EVE NT OF A PUBLIC HEALT H OR O THER EMERGENCY .  
  
-   (IV) FACILITATING ACCESS F OR HOME HEALTH CARE  21 
-PROVIDERS TO HEALTH INSURANCE AND OTHER BENEFITS ; AND  22 
+ (D) (1) THE DIRECTORY SHALL I NCLUDE EACH PROVIDER ’S: 
  
-  (3) FACILITATING COMMUNIC ATION WITH HOME HEALTH CARE  23 
-PROVIDERS IN THE EVE NT OF A PUBLIC HEALT H OR OTHER EMERGENCY .  24 
+   (I) FULL NAME ; 
  
- (D) (1) THE DIRECTORY SHALL I NCLUDE EACH PROVIDER ’S: 25 
+   (II) IDENTIFICATION NUMBER ; 
  
-   (I) FULL NAME ; 26 
+   (III) JOB TITLE ; 
  
-   (II) IDENTIFICATION NUMBER ; 27 
+   (IV) COMPLETED TRAINING AN D CERTIFICATIONS ; 
  
-   (III) JOB TITLE ; 28 
+   (V) GENDER ; 
  
-   (IV) COMPLETED TRAINING AN D CERTIFICATIONS ; 29 
+   (VI) ABUSE AND NEGLECT REP ORTS ; AND  
  
-6 HOUSE BILL 1478   
+   (VII) ASSOCIATED RESIDENTIA L SERVICES AGENCY . 
  
-    (V) GENDER ; 1 
+  (2) THE DIRECTORY MAY INC LUDE EACH HOME CARE PROVIDER ’S: 
  
-   (VI) ABUSE AND NEGLECT REP ORTS ; AND  2 
+   (I) LANGUAGE PROFICIENCY ; AND  
  
-   (VII) ASSOCIATED RESIDENTIA L SERVICES AGENCY . 3 
+   (II) WORK HISTORY . 
  
-  (2) THE DIRECTORY MAY INC LUDE EACH HOME CARE PROVIDER ’S: 4 
+ (E) (1) EACH RESIDENTIAL SERV ICE AGENCY SHALL :  
  
-   (I) LANGUAGE PROFICIENCY ; AND  5 
+Ch. 748  2025 LAWS OF MARYLAND   
  
-   (II) WORK HISTORY . 6 
+– 6 –    (I) PROVIDE TO THE DEPARTMENT EACH HOME  HEALTH CARE  
+PROVIDER ’S: 
  
- (E) (1) EACH RESIDENTIAL SERV ICE AGENCY SHALL :  7 
+    1. FULL NAME ; 
  
-   (I) PROVIDE TO THE DEPARTMENT EACH HOME HEALTH CARE  8 
-PROVIDER ’S: 9 
+    2. ADDRESS ; 
  
-    1. FULL NAME ; 10 
+    3. E–MAIL ADDRESS ; AND  
  
-    2. ADDRESS ; 11 
+    4. PHONE NUMBER ; AND  
  
-    3. E–MAIL ADDRESS ; AND  12 
+   (II) ANNUALLY COLLECT AND SUBMIT TO THE DEPARTMENT  
+THE ONLINE DIRECTORY  INFORMATION REQUIRED  UNDER SUBSECTION (D) OF THIS  
+SECTION IN THE MANNE R REQUIRED BY THE DEPARTMENT .  
  
-    4. PHONE NUMBER ; AND  13 
+  (2) IF A HOME HEALTH CARE  PROVIDER IS NOT EMPL OYED BY OR  
+DOES NOT CONTRACT TH ROUGH A RESIDENTIAL SERVICE AGENCY , THE HOME  
+HEALTH CARE PROVIDER  MAY PROVIDE THE INFO RMATION DESCRIBED IN  
+PARAGRAPH (1)(I) OF THIS SUBSECTION .  
  
-   (II) ANNUALLY COLLECT AND SUBMIT TO THE DEPARTMENT  14 
-THE  ONLINE DIRECTORY INF ORMATION REQUIRED UN DER SUBSECTION (D) OF THIS  15 
-SECTION IN THE MANNE R REQUIRED BY THE DEPARTMENT .  16 
+  (3) THE DEPARTMENT MAY NOT DI SCLOSE TO THE PUBLIC  THE 
+INFORMATION PROVIDED  UNDER PARAGRAPHS (1)(I)1, 2, AND 3 AND (2) OF THIS  
+SUBSECTION . 
  
-  (2) IF A HOME HEALTH CARE  PROVIDER IS NOT EMPL OYED BY OR  17 
-DOES NOT CONTRACT TH ROUGH A RESIDENTIAL SERVICE AGENCY , THE HOME  18 
-HEALTH CARE PROVIDER MAY PROVIDE  THE INFORMATION DESC RIBED IN  19 
-PARAGRAPH (1)(I) OF THIS SUBSECTION .  20 
+ (F) THE DEPARTMENT MAY CHARGE  A HOME HEALTH PROVID ER A FEE FOR  
+MAINTAINING THE DIRE CTORY . 
  
-  (3) THE DEPARTMENT MAY NOT DI SCLOSE TO THE PUBLIC  THE 21 
-INFORMATION PROVIDED  UNDER PARAGRAPHS (1)(I)1, 2, AND 3 AND (2) OF THIS  22 
-SUBSECTION . 23 
+ (G) THE DEPARTMENT SHALL ADOP T REGULATIONS TO CAR RY OUT THIS  
+SECTION .  
  
- (F) THE DEPARTMENT MAY CH ARGE A HOME HEALTH P ROVIDER A FEE FOR  24 
-MAINTAINING THE DIRE CTORY . 25 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October  June  1, 2025.  
  
- (G) THE DEPARTMENT SHALL ADOP T REGULATIONS TO CAR RY OUT THIS  26 
-SECTION .  27 
- 
- HOUSE BILL 1478  7 
- 
-  SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 1 
-October  June  1, 2025.  2 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 20, 2025.  

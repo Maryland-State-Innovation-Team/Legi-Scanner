@@ -1,227 +1,212 @@
+ WES MOORE, Governor  Ch. 729  
  
+– 1 – Chapter 729  
+(House Bill 1243 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTING LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb1243*      
-HOUSE BILL 1243  
-J5   5lr2645  
-    CF SB 975  
-By: Delegate S.  Johnson  Delegates S.  Johnson, Alston, Bagnall , Bhandari, 
-Chisholm, Cullison, Guzzone, Hill, Hutchinson, Kaiser, Kerr, Kipke, Lopez, 
-Martinez, M.  Morgan, Pena –Melnyk, Reilly, Rosenberg, Ross, Szeliga, 
-Taveras, White  Holland, Woods, and Woorman  
-Introduced and read first time: February 7, 2025  
-Assigne d to: Health and Government Operations  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: March 1, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Health Insurance – Coverage for Specialty Drugs  
  
-AN ACT concerning  1 
+FOR the purpose of prohibiting certain insurers, nonprofit health service plans, and health 
+maintenance organizations from excluding coverage for certain specialty drugs that 
+are administered or dispensed by a provider that meets certain criteria; requiring 
+the reimbursement rate for certain specialty drugs to meet certain crite ria; and 
+generally relating to health insurance coverage for specialty drugs.  
  
-Health Insurance – Coverage for Specialty Drugs  2 
+BY repealing and reenacting, without amendments,  
+ Article – Insurance  
+Section 15 –847(a)(1) and (5)  
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of prohibiting certain insurers, nonprofit health service plans, and health 3 
-maintenance organizations from excluding coverage for certain specialty drugs that 4 
-are administered or dispensed by a provider that meets certain criteria; requiring 5 
-the reimbursement  rate for certain specialty drugs to meet certain criteria; and 6 
-generally relating to health insurance coverage for specialty drugs.  7 
+BY repealing and reenacting, with amendments,  
+ Article – Insurance  
+Section 15 –847(d), 15 –1611.1, and 15 –1612  
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  8 
- Article – Insurance  9 
-Section 15 –847(a)(1) and (5)  10 
- Annotated Code of Ma ryland  11 
- (2017 Replacement Volume and 2024 Supplement)  12 
+BY adding to  
+ Article – Insurance  
+Section 15–847(h) and  15–847.2  
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  13 
- Article – Insurance  14 
-Section 15 –847(d), 15 –1611.1, and 15 –1612  15 
- Annotated Code of Maryland  16 
- (2017 Replacement Volume and 2024 Supplement)  17 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY adding to  18 
- Article – Insurance  19 
-2 HOUSE BILL 1243   
+Article – Insurance  
  
- Section 15–847(h) and  15–847.2  1 
- Annotated Code of Maryland  2 
- (2017 Replacement Volume and 2024 Supplement)  3 
+15–847. 
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 4 
-That the Laws of Maryland read as follows:  5 
+ (a) (1) In this section the following words  have the meanings indicated.  
  
-Article – Insurance  6 
+  (5) (i) “Specialty drug” means a prescription drug that:  
  
-15–847. 7 
+    1. is prescribed for an individual with a complex or chronic 
+medical condition or a rare medical condition;  
  
- (a) (1) In this section the following words have the meanings indicated.  8 
+    2. costs $600 or more for up to a 30 –day supply;  
+Ch. 729  2025 LAWS OF MARYLAND   
  
-  (5) (i) “Specialty drug” means a prescription drug that:  9 
+– 2 –  
+    3. is not typically stocked at retail pharmacies; and  
  
-    1. is prescribed for an individual with a complex or chronic 10 
-medical condition or a rare medical condition;  11 
+    4. A. requires a difficult or unusual process of delivery to 
+the patient in the preparation, handling, storage, inventory, or distribution of the drug; or  
  
-    2. costs $600 or more for up to a 30 –day supply;  12 
+    B. requires enhanced patient ed ucation, management, or 
+support, beyond those required for traditional dispensing, before or after administration of 
+the drug.  
  
-    3. is not typically stocked at retail pharmacies; and  13 
+   (ii) “Specialty drug” does not include a prescription drug prescribed 
+to treat diabetes, HIV, or AIDS.  
  
-    4. A. requires a difficult or unusual process of delivery to 14 
-the patient in the preparation, handling, storage, inventory, or distribution of the drug; or  15 
+ (d) Subject to SUBSE CTION (H) OF THIS SECTION AND  § 15–805 of this subtitle 
+[and], notwithstanding § 15 –806 of this subtitle, [nothing in ] AND EXCEPT AS PROVID ED 
+IN § 15–847.2  OF THIS SUBTITLE , this article or regulations adopted under this article 
+[precludes ] DO NOT PRECLUDE  an entity subject to this section from requiring a covered 
+specialty drug to be obtained through:  
  
-    B. requires enhanced patient education, management, or 16 
-support, beyond those required for traditional dispensing, before or after administration of 17 
-the drug.  18 
+  (1) a designated pharmacy or other source authorized under the Health 
+Occupations Article to dispense or administer prescription drugs; or  
  
-   (ii) “Specialty drug” does not include a prescription drug prescribed 19 
-to treat diabetes, HIV, or AIDS.  20 
+  (2) a pharma cy participating in the entity’s provider network, if the entity 
+determines that the pharmacy:  
  
- (d) Subject to SUBSECTION (H) OF THIS SECTION AND  § 15–805 of this subtitle 21 
-[and], notwithstanding § 15 –806 of this subtitle, [nothing in ] AND EXCEPT AS PROVID ED 22 
-IN § 15–847.2  OF THIS SUBTITLE , this article or regulations adopted under this article 23 
-[precludes ] DO NOT PRECLUDE  an entity subject to this section from requiring a covered 24 
-specialty drug to be obtained through:  25 
+   (i) meets the entity’s performance standards; and  
  
-  (1) a designated pharmacy or other source authorized under the Health 26 
-Occupations Article to dispense or administer prescription drugs; or  27 
+   (ii) accepts the entity’s network reimbursement rates.  
  
-  (2) a pharmacy participating in the entity’s provider network, if the entity 28 
-determines that the pharmacy:  29 
+ (H) THIS SECTION MAY NOT BE CONSTRUED TO SUPE RSEDE THE AUTHORITY 
+OF THE HEALTH SERVICES COST REVIEW COMMISSION TO SET RAT ES FOR 
+SPECIALTY DRUGS ADMI NISTERED TO PATIENTS  IN A SETTING REGULAT ED BY THE 
+HEALTH SERVICES COST REVIEW COMMISSION .  
  
-   (i) meets the entity’s performance standards; and  30 
+15–847.2.  
  
-   (ii) accepts the ent ity’s network reimbursement rates.  31 
- HOUSE BILL 1243  3 
+ (A) IN THIS SECTION , “SPECIALTY DRUG ” HAS THE MEANING STATED IN § 
+15–847 OF THIS SUBTITLE . 
  
-  
- (H) THIS SECTION MAY NOT BE CONSTRUED TO SUPE RSEDE THE AUTHORITY 1 
-OF THE HEALTH SERVICES COST REVIEW COMMISSION TO SET RAT ES FOR 2 
-SPECIALTY DRUGS ADMI NISTERED TO PATIENTS  IN A SETTING REGULAT ED BY THE 3 
-HEALTH SERVICES COST  REVIEW COMMISSION .  4 
+ (B) (1) THIS SECTION APPLIES TO: 
  
-15–847.2.  5 
+   (I) INSURERS AND NONPROF IT HEALTH SERVICE PL ANS THAT 
+PROVIDE COVERAGE FOR  PRESCRIPTION DRUGS U NDER INDIVIDUAL , GROUP , OR 
+BLANKET HEALTH INSUR ANCE POLICIES OR CON TRACTS THAT  ARE ISSUED OR 
+DELIVERED IN THE STATE ; AND 
+ WES MOORE, Governor  Ch. 729  
  
- (A) IN THIS SECTION , “SPECIALTY DRUG ” HAS THE MEANING STAT ED IN § 6 
-15–847 OF THIS SUBTITLE . 7 
+– 3 –  
+   (II) HEALTH MAINTENANCE O RGANIZATIONS THAT PR OVIDE 
+COVERAGE FOR PRESCRI PTION DRUGS UNDER IN DIVIDUAL OR GROUP CO NTRACTS 
+THAT ARE ISSUED OR D ELIVERED IN THE STATE . 
  
- (B) (1) THIS SECTION APPLIES TO: 8 
+  (2) AN INSURER , A NONPROFIT HEALTH S ERVICE P LAN, OR A HEALTH 
+MAINTENANCE ORGANIZA TION THAT PROVIDES C OVERAGE FOR PRESCRIP TION 
+DRUGS THROUGH A PHAR MACY BENEFITS MANAGE R IS SUBJECT TO THE 
+REQUIREMENTS OF THIS  SECTION . 
  
-   (I) INSURERS AND NONPROF IT HEALTH SERVICE PL ANS THAT 9 
-PROVIDE COVERAGE FOR  PRESCRIPTION DRUGS  UNDER INDIVIDUAL , GROUP , OR 10 
-BLANKET HEALTH INSUR ANCE POLICIES OR CON TRACTS THAT ARE ISSU ED OR 11 
-DELIVERED IN THE STATE ; AND 12 
+ (C) AN ENTITY SUBJECT TO THIS SECTION MAY NOT  EXCLUDE COVERAGE 
+FOR A COVERED SPECI ALTY DRUG ADMINISTER ED OR DISPENSED BY A  PROVIDER 
+UNDER § 12–102 OF THE HEALTH OCCUPATIONS ARTICLE IF THE ENTITY  
+DETERMINES THAT : 
  
-   (II) HEALTH MAINTENANCE O RGANIZATIONS THAT PR OVIDE 13 
-COVERAGE FOR PRESCRI PTION DRUGS UNDER IN DIVIDUAL OR GROUP CO NTRACTS 14 
-THAT ARE I SSUED OR DELIVERED I N THE STATE . 15 
+  (1) THE PROVIDER THAT AD MINISTERS OR DISPENS ES THE COVERED 
+SPECIALTY DRUG : 
  
-  (2) AN INSURER , A NONPROFIT HEALTH S ERVICE PLAN , OR A HEALTH 16 
-MAINTENANCE ORGANIZA TION THAT PROVIDES C OVERAGE FOR PRESCRIP TION 17 
-DRUGS THROUGH A PHAR MACY BENEFITS MANAGE R IS SUBJECT TO THE 18 
-REQUIREMENTS OF THIS  SECTION . 19 
+   (I) IS AN IN –NETWORK PROVIDER OF COVERED MED ICAL  
+ONCOLOGY SERVICES ; AND  
  
- (C) AN ENTITY SUBJECT TO THIS SECTION MAY NOT  EXCLUDE COVERAGE 20 
-FOR A COVERED SPECIA LTY DRUG ADMINISTERE D OR DISPENSED BY A PROVIDER 21 
-UNDER § 12–102 OF THE HEALTH OCCUPATIONS ARTICLE IF THE ENTITY  22 
-DETERMINES THAT : 23 
+   (II) COMPLIES WITH STATE REGULATIONS FOR  THE 
+ADMINISTERING AND DI SPENSING OF SPECIALT Y DRUGS ; AND 
  
-  (1) THE PROVIDER THAT AD MINISTERS OR DISPENSES THE COVERE D 24 
-SPECIALTY DRUG : 25 
+  (2) THE COVERED SPECIALT Y DRUG IS : 
  
-   (I) IS AN IN –NETWORK PROVIDER OF COVERED MEDICAL  26 
-ONCOLOGY SERVICES ; AND  27 
+   (I) INFUSED , AUTO–INJECTED , OR AN ORAL TARGETED 
+IMMUNE MODULATOR ; OR 
  
-   (II) COMPLIES WITH STATE REGULATIONS FOR  THE 28 
-ADMINISTERING AND DI SPENSING OF SPECIALT Y DRUGS ; AND 29 
+   (II) AN ORAL MEDICATION THAT : 
  
-  (2) THE COVERED SPECIALT Y DRUG IS : 30 
+    1. REQUIRES COMPLEX DOS ING BASED ON CLINICA L 
+PRESENTATION ; OR 
  
-4 HOUSE BILL 1243   
+    2. IS USED CONCOMITANTL Y WITH OTHER INFUSIO N OR 
+RADIATION THERAPIES . 
  
-    (I) INFUSED , AUTO–INJECTED , OR AN ORAL TARGETED 1 
-IMMUNE MODULATOR ; OR 2 
+ (D) (1) THE SUBJECT TO SUBSECTION  (F) OF THIS SECTION , THE 
+REIMBURSEMENT RATE F OR SPECIALTY  DRUGS COVERED UNDER THIS SECTION 
+SHALL BE : 
  
-   (II) AN ORAL MEDICATION T HAT: 3 
+  (1) (I) AGREED TO BY THE COV ERED , IN–NETWORK PROVIDER AND  
+THE ENTITY SUBJECT T O THIS SECTION ; AND  
  
-    1. REQUIRES COMPLEX DOS ING BASED ON CLINICA L 4 
-PRESENTATION ; OR 5 
+Ch. 729  2025 LAWS OF MARYLAND   
  
-    2. IS USED CONCOMITANTL Y WITH OTHER INFUSIO N OR 6 
-RADIATION THERAPIES . 7 
+– 4 –   (2) (II) BILLED AT A NONHOSPI TAL LEVEL OF CARE OR  PLACE OF 
+SERVICE . 
  
- (D) (1) THE SUBJECT TO SUBSECTION  (F) OF THIS SECTION , THE 8 
-REIMBURSEMENT RATE F OR SPECIALTY DRUGS COVE RED UNDER THIS SECTI ON 9 
-SHALL BE : 10 
+  (2) UNLESS OTHERWISE AGRE ED TO BY THE  COVERED , IN–NETWORK 
+PROVIDER AND THE ENT ITY SUBJECT TO THIS SECTION , THE REIMBURSEMENT RA TE 
+FOR SPECIALTY DRUGS COVERED UNDER THIS S ECTION MAY NOT EXCEE D THE RATE 
+APPLICABLE TO A DESI GNATED SPECIALTY PHA RMACY FOR DISPENSING  THE 
+COVERED SPECIALTY DR UGS.  
  
-  (1) (I) AGREED TO BY THE COV ERED , IN–NETWORK PROVIDER AND  11 
-THE ENTITY SUBJECT T O THIS SECTION ; AND  12 
+ (E) THIS SECTION DOES NOT  PROHIBIT AN ENTITY S UBJECT TO THIS 
+SECTION FROM REFUSIN G TO AUTHORIZE OR AP PROVE OR FROM DENYIN G 
+COVERAGE FOR A COVER ED SPECIALTY DRUG AD MINISTERED OR DISPEN SED BY A 
+PROVIDER IF ADMINIST ERING OR DISPENSING THE DRUG FAILS TO SA TISFY 
+MEDICAL NECESSITY CR ITERIA . 
  
-  (2) (II) BILLED AT A NONHOSPITAL LEVEL OF  CARE OR PLACE OF 13 
-SERVICE . 14 
+ (F) THIS SECTION MAY NOT BE CONSTRUED TO SUPE RSEDE THE AUTHORITY 
+OF THE HEALTH SERVICES COST REVIEW COMMISSION TO SET RAT ES FOR 
+SPECIALTY DRUGS ADMI NISTERED TO PATIENTS  IN A SETTING REGULAT ED BY THE 
+HEALTH SERVICES COST REVIEW COMMISSION .  
  
-  (2) UNLESS OTHERWISE AGRE ED TO BY THE COVERED , IN–NETWORK 15 
-PROVIDER AND THE ENT ITY SUBJECT TO THIS SECTION , THE REIMBURSEMENT RA TE 16 
-FOR SPECIALTY DRUGS COVERED UNDER THIS S ECTION MAY NOT EXCEE D THE RATE 17 
-APPLICABLE TO A DESI GNATED SPECIALTY PHA RMACY FOR DISPENSING  THE 18 
-COVERED SPECIALTY DR UGS.  19 
+15–1611.1.  
  
- (E) THIS SECTION DOES NOT  PROHIBIT AN ENTITY S UBJECT TO THIS 20 
-SECTION FROM REFUSIN G TO AUTHORIZE OR AP PROVE OR FROM DENYIN G 21 
-COVERAGE FOR A COVER ED SPECIALTY DRUG ADMINISTERED OR DISP ENSED BY A 22 
-PROVIDER IF ADMINIST ERING OR DISPENSING THE DRUG FAILS TO SA TISFY 23 
-MEDICAL NECESSITY CR ITERIA . 24 
+ (a) This section applies only to a pharmacy benefits manager that provides 
+pharmacy benefits management services on behalf of a carrier.  
  
- (F) THIS SECTION MAY NOT BE CONSTRUED TO SUPE RSEDE THE AUTHORITY 25 
-OF THE HEALTH SERVICES COST REVIEW COMMISSION TO SET RAT ES FOR 26 
-SPECIALTY DRUGS ADMIN ISTERED TO PATIENTS IN A SETTING REGULAT ED BY THE 27 
-HEALTH SERVICES COST REVIEW COMMISSION .  28 
+ (b) Except as provided in subsection (c) of this section, a pharmacy benefits 
+manager may not require that a beneficiary use a specific pharmacy or entity to fill a 
+prescription if:  
  
-15–1611.1.  29 
+  (1) the pharmacy benefits manager or a corporate affiliate of the pharmacy 
+benefits manager has an ownership interest in the pharmacy or entity; or  
  
- (a) This section applies only to a pharmacy benefits manager that provides 30 
-pharmacy benefits management services on behalf of a car rier. 31 
+  (2) the pharmacy or entity has an ownership interest in the pharmacy 
+benefits manager or a corporate affiliate of the pharmacy benefits manager.  
  
- HOUSE BILL 1243  5 
+ (c) [A] EXCEPT AS PROVIDED IN  § 15–847.2  OF THIS TITLE , A pharmacy 
+benefits manager may require a beneficiary to us e a specific pharmacy or entity for a 
+specialty drug as defined in § 15 –847 of this title.  
  
-  (b) Except as provided in subsection (c) of this section, a pharmacy benefits 1 
-manager may not require that a beneficiary use a specific pharmacy or entity to fill a 2 
-prescription if:  3 
+15–1612.  
  
-  (1) the pharmacy benefits manager or a corporate affiliate of t he pharmacy 4 
-benefits manager has an ownership interest in the pharmacy or entity; or  5 
+ (a) This section applies only to a pharmacy benefits manager that provides 
+pharmacy benefits management services on behalf of a carrier.  
  
-  (2) the pharmacy or entity has an ownership interest in the pharmacy 6 
-benefits manager or a corporate affiliate of the pharmacy benefits manager.  7 
+ (b) This section does not apply to reimbursement:  
+ WES MOORE, Governor  Ch. 729  
  
- (c) [A] EXCEPT AS PRO VIDED IN § 15–847.2  OF THIS TITLE , A pharmacy 8 
-benefits manager may require a beneficiary to use a specific pharmacy or entity for a 9 
-specialty drug as defined in § 15 –847 of this title.  10 
+– 5 –  
+  (1) EXCEPT AS PROVIDED I N § 15–847.2  OF THIS TITLE , for specialty 
+drugs;  
  
-15–1612.  11 
+  (2) for mail order drugs; or  
  
- (a) This section applies only to a pharmacy benefits manage r that provides 12 
-pharmacy benefits management services on behalf of a carrier.  13 
+  (3) to a chain pharmacy with more than 15 stores or a pharmacist who is 
+an employee of the chain pharmac y. 
  
- (b) This section does not apply to reimbursement:  14 
+ (c) A pharmacy benefits manager may not reimburse a pharmacy or pharmacist 
+for a pharmaceutical product or pharmacist service in an amount less than the amount that 
+the pharmacy benefits manager reimburses itself or an affiliate for providing the same  
+product or service.  
  
-  (1) EXCEPT AS PROVIDED I N § 15–847.2  OF THIS TITLE , for specialty 15 
-drugs;  16 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall apply to all 
+policies, contracts, and health benefit plans issued, delivered, or renewed in the State on or 
+after January 1, 2026.  
  
-  (2) for mail order drugs; or  17 
+ SECTION 3. AND BE IT FURTHER ENACTED, That  this Act shall take effect 
+January 1, 2026.  
  
-  (3) to a chain pharmacy with more than 15 stores or a pharmacist who is 18 
-an employee of the chain pharmacy.  19 
- 
- (c) A pharmacy benefits manager may not reimburse a pharmacy or pharmacist 20 
-for a pharmaceutical product or pharmacist service in an amount less than the amount th at 21 
-the pharmacy benefits manager reimburses itself or an affiliate for providing the same 22 
-product or service.  23 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall apply to all 24 
-policies, contracts, and health benefit plans issued, delivered, or renew ed in the State on or 25 
-after January 1, 2026.  26 
- 
- SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 27 
-January 1, 2026.  28 
+Approved by the Governor, May 20, 2025.  

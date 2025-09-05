@@ -1,115 +1,90 @@
+ WES MOORE, Governor  Ch. 290  
  
+– 1 – Chapter 290  
+(House Bill 633 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0633*      
-HOUSE BILL 633  
-C7   5lr2104  
-    CF SB 667  
-By: Delegate Atterbeary  
-Introduced and read first time: January 23, 2025  
-Assigned to: Ways and Means  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: March 4, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Gaming – Slot Machines – Skills–Based Amusement Devices  
  
-AN ACT concerning  1 
+FOR the purpose of altering the definition of “slot machine” to provide that certain  
+skills –based amusement devices excluded from the definition may award certain 
+objects that do not exceed a certain minimal value per play and may be accumulated 
+and excha nged for merchandise or prizes of a certain value; and generally relating 
+to slot machines and skills –based amusement devices.  
  
-Gaming – Slot Machines – Skills–Based Amusement Devices  2 
+BY repealing and reenacting, with amendments,  
+ Article – Criminal Law  
+Section 12 –301(3)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of altering the definition of “slot machine” to provide that certain  3 
-skills –based amusement devices excluded from the definition may award certain 4 
-objects that do not exceed a certain minimal value per play and may be accumulated 5 
-and excha nged for merchandise or prizes of a certain value; and generally relating 6 
-to slot machines and skills –based amusement devices.  7 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  8 
- Article – Criminal Law  9 
-Section 12 –301(3)  10 
- Annotated Code of Maryland  11 
- (2021 Rep lacement Volume and 2024 Supplement)  12 
+Article – Criminal Law  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 13 
-That the Laws of Maryland read as follows:  14 
+12–301. 
  
-Article – Criminal Law  15 
+ In this subtitle:  
  
-12–301. 16 
+  (3) “slot machine” does not include a machine, apparatus, or device that:  
  
- In this subtitle:  17 
+   (i) awards the user only free additional games or plays;  
  
-  (3) “slot machine” does not include a machine, apparatus, or device that:  18 
+   (ii) awards the user only noncash merchandise or noncash prizes of 
+minimal value;  
  
-2 HOUSE BILL 633   
+   (iii) dispenses paper pull tab tip jar tickets or paper pull tab instant 
+bingo  tickets that must be opened manually by the user provided that the machine, 
+apparatus, or device does not:  
  
-    (i) awards the user only free additional games or plays;  1 
+    1. read the tickets electronically;  
  
-   (ii) awards the user only noncash merchandise or noncash prizes of 2 
-minimal value;  3 
+    2. alert the user to a winning or losing ticket; or  
  
-   (iii) dispenses paper pull tab tip jar tickets or paper pull tab instant 4 
-bingo  tickets that must be opened manually by the user provided that the machine, 5 
-apparatus, or device does not:  6 
+    3. tabulate a player’s winnings and losses;  
  
-    1. read the tickets electronically;  7 
+Ch. 290  2025 LAWS OF MARYLAND   
  
-    2. alert the user to a winning or losing ticket; or  8 
+– 2 –    (iv) 1. is a handheld device that displays only facsimiles of bingo 
+cards that an individual uses to mark and monitor contemporaneously to a live call of bingo 
+numbers called on the premises by an individual where the user is operating the machine;  
  
-    3. tabulate a player’s winnings and losses;  9 
+    2. does not permit a user to play more than 54 bingo cards at 
+the same time;  
  
-   (iv) 1. is a handheld device that displays only facsimiles of bingo 10 
-cards that an individual uses to mark and monitor contemporaneously to a live call of bingo 11 
-numbers called on the premises by an individual where the user is operating the machine;  12 
+    3. does not randomly generate any numbers; and  
  
-    2. does not permit a user to play more than 54 bingo cards at 13 
-the same time;  14 
+    4. is not part of an integrated system;  
  
-    3. does not randomly generate any numbers; and  15 
+   (v) is used by the State Lottery and Gaming Control Commission 
+under Title 9 of the State Government Article;  
  
-    4. is not part of an integrated system;  16 
+   (vi) if legislation takes effect authorizing the operation of video 
+lottery terminals, is a video lottery terminal as defined in and licensed under that 
+legislation;  
  
-   (v) is used by the State Lottery and Gaming Control Commission 17 
-under Title 9 of the State Government Article;  18 
+   (vii) is a skills –based amusement device that awa rds prizes [of], 
+MERCHANDISE , TICKETS , TOKENS , OR OTHER OBJECTS THA T: 
  
-   (vi) if legislation takes effect authorizing the operation of video 19 
-lottery terminals, is a video lottery terminal as defined in and licensed under that 20 
-legislation;  21 
+    1. PER PLAY , DO NOT EXCEED  minimal value approved by 
+the State Lottery and Gaming Control Commission through regulation; [or] AND  
  
-   (vii) is a skills –based amusement device that awards prizes [of], 22 
-MERCHANDISE , TICKETS , TOKENS , OR OTHER OBJECTS THA T: 23 
+    2. MAY BE ACCUMULATED A ND EXCHANGED FOR  
+NONCA SH MERCHANDISE OR PR IZES OF VALUE THAT : 
  
-    1. PER PLAY , DO NOT EXCEED  minimal value approved by 24 
-the State Lottery and Gaming Control Commission through regulation; [or] AND  25 
+    A. IS SIMILAR TO THE CU MULATED VALUE OF THE  
+OBJECTS EXCHANGED ; AND 
  
-    2. MAY BE ACCUMULATED A ND EXCHANGED FOR  26 
-NONCASH MERCHANDISE OR PRIZES OF VALUE T HAT: 27 
+    B. DOES NOT EXCEED A MI NIMAL WHOLESALE VALU E OF 
+$599;  OR 
  
-    A. IS SIMILAR TO THE CU MULATED VALUE OF THE  28 
-OBJECTS EXCHANGED ; AND 29 
+   (viii)  is a skills –based device that awards noncash merchandise and is 
+located  at a family entertainment center in Worcester County licensed under § 9 –1B–02 of 
+the State Government Article.  
  
- HOUSE BILL 633  3 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 
+1, 2025.  
  
-     B. DOES NOT EXCEED A MI NIMAL WHOLESALE VALU E OF 1 
-$599;  OR 2 
- 
-   (viii)  is a skills –based device that awards noncash merchandise and is 3 
-located at a family entertainment center in Worcester County licensed under § 9 –1B–02 of 4 
-the State Government Article.  5 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 6 
-1, 2025.  7 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 6, 2025.  

@@ -1,326 +1,303 @@
+ WES MOORE, Governor  Ch. 121  
  
+– 1 – Chapter 121  
+(House Bill 1020 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.  
-         Italics indicate opposite chamber/conference committee amendments.             *hb1020*      
-HOUSE BILL 1020  
-I3, J3    (5lr2315 ) 
-ENROLLED BILL  
-— Economic Matters/Finance  — 
-Introduced by Delegate Palakovich  Carr  
+AN ACT concerning  
  
-Read and Examined by Proofreaders:  
+Consumer Protection – Credit Reporting – Medical Debt  
+(Fair Medical Debt Reporting Act)  
  
-_______________________________________________  
-Proofreader.  
-_______________________________________________  
-Proofreader.  
+FOR the purpose of prohibiting a consumer reporting agency from including certain 
+medical debt information in a consumer report; prohibiting a person from using 
+medical debt information included in a consumer report when making a 
+creditworthiness determination; prohibiting certain entitie s from disclosing medical 
+debt to a consumer reporting agency; requiring certain entities to include a certain 
+provision in contracts entered into with a collection entity regarding medical debt 
+and establishing a contract that does not contain the provisi on is void and 
+unenforceable; and generally relating to credit reporting and medical debt.  
  
-Sealed with the Great Seal and presented to the Governor, for his approval this  
-  
-_______ day of _______________ at _________________ _______ o’clock, ________M.  
-  
-______________________________________________  
-Speaker .  
+BY adding to  
+ Article – Commercial Law  
+Section 14 –1213  
+ Annotated Code of Maryland  
+ (2013 Replacement Volume and 2024 Supplement)  
  
-CHAPTER ______  
+BY repealing and reenacting, without amendments,  
+ Article – Health – General  
+ Section 19 –214.2(a)(1) and (e)(1)  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-AN ACT concerning  1 
+BY repealing and reenacting, with amendments,  
+ Article – Health – General  
+ Section 19–214.2(f)  19–214.2(b), (e)(4), and (f)  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-Consumer Protection – Credit Reporting – Medical Debt  2 
-(Fair Medical Debt Reporting Act)  3 
+BY adding to  
+ Article – Health – General  
+Section 24 –2501 and 24 –2502 be under the new subtitle “Subtitle 25. Medical Debt 
+Reporting”  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of prohibiting a consumer reporting agency from including certain 4 
-medical debt information in a consumer report; prohibiting a person from using 5 
-medical debt information included in a consumer report when making a 6 
-creditworthiness determination; prohibiting certain entitie s from disclosing medical 7 
-debt to a consumer reporting agency; requiring certain entities to include a certain 8 
-provision in contracts entered into with a collection entity regarding medical debt 9 
-and establishing a contract that does not contain the provisi on is void and 10 
-unenforceable; and generally relating to credit reporting and medical debt.  11 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY adding to  12 
- Article – Commercial Law  13 
-Section 14 –1213  14 
-2 HOUSE BILL 1020   
+Article – Commercial Law  
+Ch. 121  2025 LAWS OF MARYLAND   
  
-  Annotated Code of Maryland  1 
- (2013 Replacement Volume and 2024 Supplement)  2 
+– 2 –  
+14–1213.  
  
-BY repealing and reenacting, without amendments,  3 
- Article – Health – General  4 
- Section 19 –214.2(a)(1) and (e)(1)  5 
- Annotated Code of Maryland  6 
- (2023 Replacement Volume and 2024 Supplement)  7 
+ (A) (1) IN THIS SECTION , “MEDICAL DEBT ” MEANS AN OBLIGATION OF A  
+CONSUMER TO PAY ANY AMOUNT RELATED TO TH E RECEIPT OF HEALTH CARE  
+SERVICES , PRODUCTS , DEVICES , DURABLE MEDICAL EQUI PMENT , OR 
+PRESCRIPTION DRUGS P ROVIDED TO A PERSON BY: 
  
-BY repealing and reenacting, with amendments,  8 
- Article – Health – General  9 
- Section 19–214.2(f)  19–214.2(b), (e)(4), and (f)  10 
- Annotated Code of Maryland  11 
- (2023 Replacement Volume and 2024 Supplement)  12 
+   (I) A HEALTH CARE FACILITY  AS DEFINED IN § 19–114 OF THE  
+HEALTH – GENERAL ARTICLE ; 
  
-BY adding to  13 
- Article – Health – General  14 
-Section 24 –2501 and 24 –2502 be under the new subtitle “Subtitle 25. Medical Debt 15 
-Reporting”  16 
- Annotated Code of  Maryland  17 
- (2023 Replacement Volume and 2024 Supplement)  18 
+   (II) A HEALTH CARE PRACTITI ONER AS DEFINED IN § 19–114 OF 
+THE HEALTH – GENERAL ARTICLE ; OR 
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 19 
-That the Laws of Maryland read as follows:  20 
+   (III) AN AMBULANCE SERVICE AS DEFINED IN § 13–515 OF THE  
+EDUCATION ARTICLE  DEBT OWED BY A CONSU MER TO :  
  
-Article – Commercial Law  21 
+   (I) A PERSON WHOSE PRIMARY  BUSINESS IS PROVIDIN G 
+MEDICAL SERVICES , PRODUCTS , OR DEVICES ; OR  
  
-14–1213.  22 
+   (II) THE PERSON ’S AGENT OR ASSIGNEE FOR THE PROVISION OF  
+MEDICAL SERVICES , PRODUCTS , OR DEVICES .  
  
- (A) (1) IN THIS SECTION , “MEDICAL DEBT ” MEANS AN OBLIGATION OF A  23 
-CONSUMER TO PAY ANY AMOUNT RELATED TO TH E RECEIPT OF HEALTH CARE  24 
-SERVICES , PRODUCTS , DEVICES , DURABLE MEDICAL EQUI PMENT , OR 25 
-PRESCRIPTION DRUGS P ROVIDED TO A PERSON BY: 26 
+  (2) “MEDICAL DEBT ” INCLUDES MEDICAL BIL LS THAT : 
  
-   (I) A HEALTH CARE FACILITY  AS DEFINED IN § 19–114 OF THE  27 
-HEALTH – GENERAL ARTICLE ; 28 
+   (I) ARE NO T PAST DUE ; OR 
  
-   (II) A HEALTH CARE PRACTITI ONER AS DEFINED IN § 19–114 OF 29 
-THE HEALTH – GENERAL ARTICLE ; OR 30 
+   (II) HAVE ALREADY BEEN PAI D. 
  
-   (III) AN AMBULANCE SERVICE AS DEFINED IN § 13–515 OF THE  31 
-EDUCATION ARTICLE  DEBT OWED BY A CONSU MER TO :  32 
+  (3) “MEDICAL DEBT ” DOES NOT INCLUDE DEB T CHARGED TO A 
+CREDIT CARD UNLESS T HE CREDIT CARD IS IS SUED UNDER AN OPEN–ENDED OR A  
+CLOSE–ENDED  OPEN–END OR CLOSE–END CLOSED–END CREDIT  PLAN OFFERED 
+SPECIFICALLY  SOLELY  FOR THE PAYMENT OF H EALTH CARE SERVICES , PRODUCTS , 
+OR DEVICES , DURABLE MEDICAL EQUI PMENT , OR PRESCRIPTION DRUGS . 
  
-   (I) A PERSON WHOSE PRIMARY  BUSINESS IS PROVIDIN G 33 
-MEDICAL SERVICES , PRODUCTS , OR DEVICES ; OR  34 
+ (B) (1) A CONSUMER REPORTING A GENCY MAY NOT : 
  
- HOUSE BILL 1020  3 
+   (I) MAKE, CREATE , OR FURNISH ANY CONSU MER REPORT 
+CONTAINING , INCORPORATING , OR REFLECTING :  
  
-    (II) THE PERSON ’S AGENT OR ASSIGNEE FOR THE PROVISION OF  1 
-MEDICAL SERVICES , PRODUCTS , OR DEVICES .  2 
+    1. ANY ADVERSE INFORMATI ON THAT THE CONSUMER  
+REPORTING AGENCY KNO WS OR SHOULD KNOW RE LATES TO MEDICAL DEB T 
+INCURRED BY THE CONS UMER ; OR  
  
-  (2) “MEDICAL DEBT ” INCLUDES MEDICAL BIL LS THAT : 3 
+ WES MOORE, Governor  Ch. 121  
  
-   (I) ARE NO T PAST DUE ; OR 4 
+– 3 –     2. ANY COLLECTION ACT ION AGAINST A CONSUM ER TO 
+COLLECT MEDICAL DEBT ; OR 
  
-   (II) HAVE ALREADY BEEN PAI D. 5 
+   (II) MAINTAIN IN A FILE ON  A CONSUMER ANY INFOR MATION 
+RELATING TO : 
  
-  (3) “MEDICAL DEBT ” DOES NOT INCLUDE DEB T CHARGED TO A 6 
-CREDIT CARD UNLESS T HE CREDIT CARD IS IS SUED UNDER AN OPEN–ENDED OR A  7 
-CLOSE–ENDED  OPEN–END OR CLOSE–END CLOSED–END CREDIT  PLAN OFFERED 8 
-SPECIFICALLY  SOLELY  FOR THE PAYMENT OF H EALTH CARE SERVICES , PRODUCTS , 9 
-OR DEVICES , DURABLE MEDICAL EQUI PMENT , OR PRESCRIPTION DRUGS . 10 
+    1. MEDICAL DEBT INCURRED  BY THE CONSUMER ; OR  
  
- (B) (1) A CONSUMER REPORTING A GENCY MAY NOT : 11 
+    2. ANY COLLECTION ACTION  AGAINST THE CONSUMER  
+TO COLLECT MEDICAL D EBT. 
  
-   (I) MAKE, CREATE , OR FURNISH ANY CONSU MER REPORT 12 
-CONTAINING , INCORPORATING , OR REFLECTING :  13 
+  (2) THE PROHIBITIONS ESTA BLISHED UNDER PARAGR APH (1) OF 
+THIS SUBSECTION APPL Y REGARDLESS OF WHEN  MEDICAL DEBT WAS INC URRED BY 
+A CONSUMER . 
  
-    1. ANY ADVERSE INFORMATI ON THAT THE CONSUMER  14 
-REPORTING AGENCY KNO WS OR SHOULD KNOW RE LATES TO MEDICAL DEB T 15 
-INCURRED BY THE CONS UMER ; OR  16 
+ (C) A PERSON MAY NOT USE M EDICAL DEBT INFORMAT ION INCLUDED IN A 
+CONSUMER REPORT TO M AKE A DETERMINATION REGARDING THE 
+CREDITWORTHINESS OF TH E CONSUMER . 
  
-    2. ANY COLLECTION ACT ION AGAINST A CONSUM ER TO 17 
-COLLECT MEDICAL DEBT ; OR 18 
+Article – Health – General  
  
-   (II) MAINTAIN IN A FILE ON  A CONSUMER ANY INFOR MATION 19 
-RELATING TO : 20 
+19–214.2.  
  
-    1. MEDICAL DEBT INCURRED  BY THE CONSUMER ; OR  21 
+ (a) (1) Each hospital annually shall submit to the Commission:  
  
-    2. ANY COLLECTION ACTION  AGAINST THE CONSUMER  22 
-TO COLLECT MEDICAL D EBT. 23 
+   (i) At times prescribed by the Commission, the hospital’s policy on 
+the collection of debts owed by patients; and  
  
-  (2) THE PROHIBITIONS ESTA BLISHED UNDER PARAGR APH (1) OF 24 
-THIS SUBSECTION APPL Y REGARDLESS OF WHEN  MEDICAL DEBT WAS INC URRED BY 25 
-A CONSUMER . 26 
+   (ii) A report including:  
  
- (C) A PERSON MAY NOT USE M EDICAL DEBT INFORMAT ION INCLUDED IN A 27 
-CONSUMER REPORT TO M AKE A DETERMINATION REGARDING THE 28 
-CREDITWORTHINESS OF TH E CONSUMER . 29 
+    1. The total number of patients by race or ethnicity, gender, 
+and zip code of residence against whom the hospital, or a debt collector used by the hospital, 
+filed an action to collect a debt owed on a hospital bill;  
  
-Article – Health – General  30 
-4 HOUSE BILL 1020   
+    2. The total number of patients by race or ethnicity, gender, 
+and zip code of residence with respect to whom the hospital has and has not reported or 
+classified a bad debt; and  
  
-  
-19–214.2.  1 
+    3. The total dollar amount of the charges for hospital services 
+provided to p atients but not collected by the hospital for patients covered by insurance, 
+including the out –of–pocket costs for patients covered by insurance, and patients without 
+insurance.  
  
- (a) (1) Each hospital annually shall submit to the Commission:  2 
+ (b) The policy submitted under subsection (a)(1) of this section shall:  
  
-   (i) At times prescribed by the Commission, the hospital’s policy on 3 
-the collection of debts owed by patients; and  4 
+Ch. 121  2025 LAWS OF MARYLAND   
  
-   (ii) A report including:  5 
+– 4 –   (1) Provide for active oversight by the hospital of any contract for collection 
+of debts on behalf of the hospital;  
  
-    1. The total number of patients by race or ethnicity, gender, 6 
-and zip code of residence against whom the hospital, or a debt collector used by the hospital, 7 
-filed an action to collect a debt owed on a hospital bill;  8 
+  (2) Prohibit the hospital from selling any debt;  
  
-    2. The total number of patients by race or ethnicity, gender, 9 
-and zip code of residence with respect to whom the hospital has and has not reported or 10 
-classified a bad debt; and  11 
+  (3) Prohibit the charging of interest on bills incurred by self –pay patients 
+before a court judgment is obtained;  
  
-    3. The total dollar amount of the charges for hospital services 12 
-provided to p atients but not collected by the hospital for patients covered by insurance, 13 
-including the out –of–pocket costs for patients covered by insurance, and patients without 14 
-insurance.  15 
+  (4) Describe in detail the consideration by the hospital of patient income, 
+assets, and other criteria;  
  
- (b) The policy submitted under subsection (a)(1) of this section shall:  16 
+  (5) Prohibit the hospital from [reporting ]:  
  
-  (1) Provide for active oversight by the hospital of any contract for collection 17 
-of debts on behalf of the hospital;  18 
+   (I) REPORTING  ADVERSE INFORMATION to a consumer reporting 
+agency ; or [filing ]  
  
-  (2) Prohibit the hospital from selling any debt;  19 
+   (II) FILING  a civil action to collect a debt within 180 days after the 
+initial bill is provided;  
  
-  (3) Prohibit the charging of interest on bills incurred by self –pay patients 20 
-before a court judgment is obtained;  21 
+  (6) Describe the hospital’s procedures for collecting a debt;  
  
-  (4) Describe in detail the consideration by the hospital of patient income, 22 
-assets, and other criteria;  23 
+  (7) Describe the circumstances in which the hospital will seek a judgment 
+against a patient;  
  
-  (5) Prohibit the hospital from [reporting ]:  24 
+  (8) In accordance with subsection (c) of this section, provide for a refund of 
+amounts collected from a patient or the guarantor of a patient who was later found to be 
+eligible for free care within 240 days after the initial bill was pro vided;  
  
-   (I) REPORTING  ADVERSE INFORMATION to a consumer reporting 25 
-agency ; or [filing ]  26 
+  (9) If the hospital has obtained a judgment against or reported adverse 
+information to a consumer reporting agency about a patient who later was found to be 
+eligible for free care within 240 days after the initial bill was provided for which the 
+judgment was awarded or the adverse information was reported, require the hospital to 
+seek to vacate the judgment or strike the adverse information;  
  
-   (II) FILING  a civil action to collect a debt within 180 days after the 27 
-initial bill is provided;  28 
+  (10) Provide a mechanism for a patient to:  
  
-  (6) Describe the hospital’s procedures for collecting a debt;  29 
+   (i) Request the hospital to reconsider the denial of free  or  
+reduced –cost care;  
  
- HOUSE BILL 1020  5 
+   (ii) File with the hospital a complaint against the hospital or a debt 
+collector used by the hospital regarding the handling of the patient’s bill; and  
  
-   (7) Describe the circumstances in which the hospital will seek a judgment 1 
-against a patient;  2 
+   (iii) Allow the patient and the hospital to mutually agree to modify 
+the terms of a payment plan offered under subsection (e) of this section or entered into with 
+the patient; [and] 
  
-  (8) In accordance with subsection (c) of this section, provide for a refund of 3 
-amounts collected from a patient or the guarantor of a patient who was later found to be 4 
-eligible for free care within 240 days after the initial bill was pro vided;  5 
+ WES MOORE, Governor  Ch. 121  
  
-  (9) If the hospital has obtained a judgment against or reported adverse 6 
-information to a consumer reporting agency about a patient who later was found to be 7 
-eligible for free care within 240 days after the initial bill was provided for which the 8 
-judgment was awarded or the adverse information was reported, require the hospital to 9 
-seek to vacate the judgment or strike the adverse information;  10 
+– 5 –   (11) Prohibit the hospital from collecting additional fees in an amount that 
+exceeds the approved charge for the hospital service as established by the Commission for 
+which the medical debt is owed on a bill for a patient who is eligible for free or  
+reduced –cost care under the hospital’s financial assistance policy ; AND  
  
-  (10) Provide a mechanism for a patient to:  11 
+  (12)  COMPLY WITH § 24–2505  § 24–2502  OF THIS ARTICLE . 
  
-   (i) Request the hospital to reconsider the denial of free  or  12 
-reduced –cost care;  13 
+ (e) (1) Subject to paragraph (2) of this subsection, a hospital shall provide in 
+writing to each patient who incurs medical debt infor mation about the availability of an 
+installment payment plan for the debt.  
  
-   (ii) File with the hospital a complaint against the hospital or a debt 14 
-collector used by the hospital regarding the handling of the patient’s bill; and  15 
+  (4) (i) A patient shall be deemed to be compliant with a payment plan 
+if the patient makes at least 11 scheduled monthly payments within a 12 –month period.  
  
-   (iii) Allow the patient and the hospital to mutually agree to modify 16 
-the terms of a payment plan offered under subsection (e) of this section or entered into with 17 
-the patient; [and] 18 
+   (ii) If a patient misses a scheduled monthly payment, the patient 
+shall contact the health care facility and identify a plan to make up the missed payment 
+within 1 year after the date of the missed payment.  
  
-  (11) Prohibit the hospital from collecting additional fees in an amount that 19 
-exceeds the approved charge for the hospital service as established by the Commission for 20 
-which the medical debt is owed on a bill for a patient who is eligible for free or  21 
-reduced –cost care under the hospital’s financial assistance policy ; AND  22 
+   (iii) The health care facility may, but may not be required to,  waive 
+any additional missed payments that occur within a 12 –month period and allow the patient 
+to continue to participate in the income –based payment plan and not refer the outstanding 
+balance owed [to a collection agency or ] for legal action.   
  
-  (12)  COMPLY WITH § 24–2505  § 24–2502  OF THIS ARTICLE . 23 
+ (f) (1) A HOSPITAL SHALL COMPL Y WITH § 24–2502  OF THIS ARTICLE . 
  
- (e) (1) Subject to paragraph (2) of this subsection, a hospital shall provide in 24 
-writing to each patient who incurs medical debt infor mation about the availability of an 25 
-installment payment plan for the debt.  26 
+  (2) For at least 180 days after issuing an initial patient bill, a hospital may 
+NOT  not report adverse information about a patient to a consumer reporting agency or  
+commence civil action against a patient for nonpayment.  
  
-  (4) (i) A patient shall be deemed to be compliant with a payment plan 27 
-if the patient makes at least 11 scheduled monthly payments within a 12 –month period.  28 
+  [(2)] (3) A hospital shall report the fulfillment of a patient’s payment 
+obligation within 60 days after the obligation is fulfilled to any consumer reporting agency 
+to which the hospital had reported adverse information about the patient.  
  
-   (ii) If a patient misses a scheduled monthly payment, the patient 29 
-shall contact the health care facility and identify a plan to make up the missed payment 30 
-within 1 year after the date of the missed payment.  31 
+  [(3)] (4) A hospital may not report adverse information to a consumer 
+reporting agency regarding a patient who at the time of service was uninsured or eligible 
+for free or reduced –cost care under § 19 –214.1 of this subtitle.  
  
-   (iii) The health care facility may, but may not be required to,  waive 32 
-any additional missed payments that occur within a 12 –month period and allow the patient 33 
-6 HOUSE BILL 1020   
+  [(4)] (5) A hospital may not report adverse information about a patient to 
+a consumer reporting agency,  commence a civil action against a patient for nonpayment, or 
+delegate collection activity to a debt collector:  
  
- to continue to participate in the income –based payment plan and not refer the outstanding 1 
-balance owed [to a collection agency or ] for legal action.   2 
+   (i) If the hospital was notified in accordance wi th federal law by the 
+patient or the insurance carrier that an appeal or a review of a health insurance decision 
+is pending within the immediately preceding 60 days; or  
  
- (f) (1) A HOSPITAL SHALL COMPL Y WITH § 24–2502  OF THIS ARTICLE . 3 
+Ch. 121  2025 LAWS OF MARYLAND   
  
-  (2) For at least 180 days after issuing an initial patient bill, a hospital may 4 
-NOT  not report adverse information about a patient to a consumer reporting agency or  5 
-commence civil action against a patient for nonpayment.  6 
+– 6 –    (ii) If the hospital has completed a requested reconsideration of the 
+denial of fre e or reduced –cost care that was appropriately completed by the patient within 
+the immediately preceding 60 days.  
  
-  [(2)] (3) A hospital shall report the fulfillment of a patient’s payment 7 
-obligation within 60 days after the obligation is fulfilled to any consumer reporting agency 8 
-to which the hospital had reported adverse information about the patient.  9 
+  [(5)] (6) If a hospital has  BY NOVEMBER 1, 2025,  A HOSPITAL THAT 
+HAD  reported adverse information about a patient to a consumer reporting agency , the 
+hospital  shall instruct the consumer reporting agency to delete the adverse information 
+about the patient : 
  
-  [(3)] (4) A hospital may not report adverse information to a consumer 10 
-reporting agency regarding a patient who at the time of service was uninsured or eligible 11 
-for free or reduced –cost care under § 19 –214.1 of this subtitle.  12 
+   (i) If the hospital was informed by the patient or the insuranc e 
+carrier that an appeal or a review of a health insurance decision is pending, and until 60 
+days after the appeal is complete; or  
  
-  [(4)] (5) A hospital may not report adverse information about a patient to 13 
-a consumer reporting agency,  commence a civil action against a patient for nonpayment, or 14 
-delegate collection activity to a debt collector:  15 
+   (ii) Until 60 days after the hospital has completed a requested 
+reconsideration of the denial of free or reduced –cost car e. 
  
-   (i) If the hospital was notified in accordance wi th federal law by the 16 
-patient or the insurance carrier that an appeal or a review of a health insurance decision 17 
-is pending within the immediately preceding 60 days; or  18 
+SUBTITLE 25. MEDICAL DEBT REPORTING . 
  
-   (ii) If the hospital has completed a requested reconsideration of the 19 
-denial of fre e or reduced –cost care that was appropriately completed by the patient within 20 
-the immediately preceding 60 days.  21 
+24–2501.  
  
-  [(5)] (6) If a hospital has  BY NOVEMBER 1, 2025,  A HOSPITAL THAT 22 
-HAD  reported adverse information about a patient to a consumer reporting agency , the 23 
-hospital  shall instruct the consumer reporting agency to delete the adverse information 24 
-about the patient : 25 
+ (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE  THE MEANINGS 
+INDICATED . 
  
-   (i) If the hospital was informed by the patient or the insurance 26 
-carrier that an appeal or a review of a health insurance decision is pending, and until 60 27 
-days after the appeal is complete; or  28 
+ (B) “AMBULANCE SERVICE ” HAS THE MEANING STAT ED IN § 13–515 OF THE  
+EDUCATION ARTICLE . 
  
-   (ii) Until 60 days after the hospital has completed a requested 29 
-reconsideration of the denial of free or reduced –cost care . 30 
+ (C) (B) “COLLECTION ENTITY ” MEANS ANY INDIVIDUAL , PARTNERSHIP , 
+CORPORATION , TRUST , ESTATE , COOPERATIVE , ASSOCIATION , GOVERNMENT OR 
+GOVERNMENT SUBDIVISI ON, AGENCY , OR OTHER ENTITY THAT  PURCHASES 
+MEDICAL DEBT OR COLL ECTS MEDICAL DEBT ON  BEHALF OF ANOTHER . 
  
-SUBTITLE 25. MEDICAL DEBT REPORTING . 31 
+ (D) “HEALTH CARE FACILITY ” HAS THE MEANING STATED IN § 19–114 OF 
+THIS ARTICLE . 
  
-24–2501.  32 
+ (E) “HEALTH CARE PRACTITIO NER” HAS THE MEANING STAT ED IN § 19–114 
+OF THIS ARTICLE . 
  
- HOUSE BILL 1020  7 
+ (F) (C) “MEDICAL DEBT ” HAS THE MEANING STAT ED IN § 14–1213  OF THE 
+COMMERCIAL LAW ARTICLE . 
  
-  (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE  THE MEANINGS 1 
-INDICATED . 2 
+24–2502.  
  
- (B) “AMBULANCE SERVICE ” HAS THE MEANING STAT ED IN § 13–515 OF THE  3 
-EDUCATION ARTICLE . 4 
+ (A) A HEALTH CARE FACIL ITY, A HEALTH CARE PRACTI TIONER , OR AN  
+AMBULANCE SERVICE  A PERSON WHOSE PRIMARY  BUSINESS IS PROVIDIN G 
+ WES MOORE, Governor  Ch. 121  
  
- (C) (B) “COLLECTION ENTITY ” MEANS ANY INDIVIDUAL , PARTNERSHIP , 5 
-CORPORATION , TRUST , ESTATE , COOPERATIVE , ASSOCIATION , GOVERNMENT OR 6 
-GOVERNMENT SUBDIVISI ON, AGENCY , OR OTHER ENTITY THAT  PURCHASES 7 
-MEDICAL DEBT OR COLL ECTS MEDICAL DEBT ON  BEHALF OF ANOTHER . 8 
+– 7 – MEDICAL SERVICES , PRODUCTS , OR DEVICES , OR THE PERSON ’S AGENT OR 
+ASSIGNEE : 
  
- (D) “HEALTH CARE FACILITY ” HAS THE  MEANING STATED IN § 19–114 OF 9 
-THIS ARTICLE . 10 
+  (1) MAY NOT DISCLOSE ANY PORTION OF A MEDICAL  DEBT TO A 
+CONSUMER REPORTING AGENCY ; AND 
  
- (E) “HEALTH CARE PRACTITIO NER” HAS THE MEANING STAT ED IN § 19–114 11 
-OF THIS ARTICLE . 12 
+  (2) SHALL INCLUDE IN ANY CONTRACT ENTERED INT O WITH A 
+COLLECTION ENTITY FO R THE PURCHASE OR CO LLECTION OF MEDICAL DEBT A 
+PROVISION PROHIBITIN G THE DISCLOSURE OF ANY PORTION OF THE M EDICAL DEBT 
+TO A CONSUMER REPORT ING AGENCY . 
  
- (F) (C) “MEDICAL DEBT ” HAS THE MEANING STAT ED IN § 14–1213  OF THE 13 
-COMMERCIAL LAW ARTICLE . 14 
+ (B) A CONTRACT  ENTERED INTO ON OR A FTER OCTOBER 1, 2025,  THAT 
+DOES NOT INCLUDE THE  PROVISION REQUIRED U NDER SUBSECTION (A)(2) OF THIS 
+SECTION IS VOID AND UNENFORCEABLE . 
  
-24–2502.  15 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
- (A) A HEALTH CARE FACI LITY, A HEALTH CARE PRACTI TIONER , OR AN  16 
-AMBULANCE SERVICE  A PERSON WHOSE PRIMARY  BUSINESS IS PROVIDIN G 17 
-MEDICAL SERVICES , PRODUCTS , OR DEVICES , OR THE PERSON ’S AGENT OR 18 
-ASSIGNEE : 19 
- 
-  (1) MAY NOT DISCLOSE ANY PORTION OF A MEDICAL  DEBT TO A 20 
-CONSUMER REPORTING AGENCY ; AND 21 
- 
-  (2) SHALL INCLUDE IN ANY CONTRACT ENTERED INT O WITH A 22 
-COLLECTION ENTITY FO R THE PURCHASE OR CO LLECTION OF MEDICAL DEBT A 23 
-PROVISION PROHIBITIN G THE DISCLOSURE OF ANY PORTION OF THE M EDICAL DEBT 24 
-TO A CONSUMER REPORT ING AGENCY . 25 
- 
- (B) A CONTRACT  ENTERED INTO ON OR A FTER OCTOBER 1, 2025,  THAT 26 
-DOES NOT INCLUDE THE  PROVISION REQUIRED U NDER SUBSECTION (A)(2) OF THIS 27 
-SECTION IS VOID AND UNENFORCEABLE . 28 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 29 
-October 1, 2025.  30 
+Approved b y the Governor, April 22, 2025.  

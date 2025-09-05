@@ -1,236 +1,212 @@
+ WES MOORE, Governor  Ch. 322  
  
+– 1 – Chapter 322  
+(Senate Bill 789 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *sb0789*      
-SENATE BILL 789  
-F2   5lr2158  
-      
-By: Senator M.  Washington  Senators M.  Washington, Attar, Augustine, and 
-Brooks  
-Introduced and read first time: January 28, 2025  
-Assigned to: Education, Energy, and the Environment  
-Committee Report: Favorable with amendments  
-Senate action: Adopted  
-Read second time: February 24, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Higher Education – Hunger –Free Campus Grant Program – Alterations  
  
-AN ACT concerning  1 
+FOR the purpose of requiring the Maryland Higher Education Commission to designate 
+certain private institutions of higher education as hunger –free campuses; 
+prohibiting certain private institutions of higher education from being eligible to 
+receive grant f unding under the Hunger –Free Campus Grant Program; altering the 
+requirement of the Governor, beginning in a certain fiscal year, to include in the 
+annual budget bill a certain appropriation for the Program;  and generally relating 
+to alterations to the Hung er–Free Campus Grant Program.  
  
-Higher Education – Hunger –Free Campus Grant Program – Alterations  2 
+BY repealing and reenacting, with amendments,  
+ Article – Education  
+Section 11 –1701 and 11 –1703 through 11 –1706 , 11–1703, 11 –1705, and 11 –1706  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of requiring the Maryland Higher Education Commission to designate 3 
-certain private institutions of higher education as hunger –free campuses; 4 
-prohibiting certain private institutions of higher education from being eligible to 5 
-receive grant funding under the Hunger –Free Campus Grant Program; altering the 6 
-requirement of the Governor, beginning in a certain fiscal year, to include in the 7 
-annual budget bill a certain appropriation for the Program;  and generally relating 8 
-to alterati ons to the Hunger –Free Campus Grant Program.  9 
+BY repealing and reenacting, without amendments,  
+ Article – Education  
+Section 11 –1702 and 11 –1704  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  10 
- Article – Education  11 
-Section 11 –1701 and 11 –1703 through 11 –1706 , 11–1703, 11 –1705, and 11 –1706  12 
- Annotated Code of Maryland  13 
- (2022 Replacement Volume and 2024 Supplement)  14 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryl and read as follows:  
  
-BY repealing and reenacting, without amendments,  15 
- Article – Education  16 
-Section 11 –1702 and 11 –1704  17 
- Annotated Code of Maryland  18 
- (2022 Replacement Volume and 2024 Supplement)  19 
+Article – Education  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 20 
-That the Laws of Maryland read as follows:  21 
-2 SENATE BILL 789   
+11–1701.  
  
-  
-Article – Education  1 
+ (a) In this subtitle the following words have the meanings indicated.  
  
-11–1701.  2 
+ (b) “Emergency assistance” means immediate direct assistance provided by a 
+hunger –free campus to any student facing an unanticipat ed financial crisis or hardship.  
  
- (a) In this subtitle the following words have the meanings indicated.  3 
+ (c) “Hunger –free campus” means a campus of any 4 –year [public ] institution of 
+higher education or regional higher education center that meets the requirements of §  
+11–1703(a) of this subtitle or any 2 –year [public ] insti tution of higher education that meets 
+the requirements of § 11 –1703(b) of this subtitle.  
  
- (b) “Emergency assistance” means immediate direct assistance provided by a 4 
-hunger –free campus to any student faci ng an unanticipated financial crisis or hardship.  5 
+ (d) “Program” means the Hunger –Free Campus Grant Program.  
+Ch. 322  2025 LAWS OF  MARYLAND   
  
- (c) “Hunger –free campus” means a campus of any 4 –year [public ] institution of 6 
-higher education or regional higher education center that meets the requirements of §  7 
-11–1703(a) of this subtitle or any 2 –year [public ] institution of higher education that meets 8 
-the requirements of § 11 –1703(b) of this subtitle.  9 
+– 2 –  
+11–1702.  
  
- (d) “Program” means the Hunger –Free Campus Grant Program.  10 
+ (a) There is a Hunger –Free Campus Grant Program.  
  
-11–1702.  11 
+ (b) The purpose of the Program is to:  
  
- (a) There is a Hunger –Free Campus Grant Program.  12 
+  (1) Address student hunger;  
  
- (b) The purpose of the Prog ram is to:  13 
+  (2) Leverage more sustainable solutions to address basic food needs on 
+campus;  
  
-  (1) Address student hunger;  14 
+  (3) Raise awareness of services currently offered on campus that address 
+basic food needs; and  
  
-  (2) Leverage more sustainable solutions to address basic food needs on 15 
-campus;  16 
+  (4) Build strategic partnerships at the local, S tate, and national levels to 
+address food insecurity among students.  
  
-  (3) Raise awareness of services currently offered on campus that address 17 
-basic food needs; and  18 
+ (c) (1) The Commission shall administer the Program.  
  
-  (4) Build strategic partnerships at the local, State, and national levels to 19 
-address food insecurity among students.  20 
+  (2) The Commission shall develop the form to be used for the annual 
+student survey required under § 11 –1703 of this subtitle.  
  
- (c) (1) The Commission shall administer the Program.  21 
+11–1703.  
  
-  (2) The Commission shall develop the form to be used for the annual 22 
-student survey required under § 1 1–1703 of this subtitle.  23 
+ (a) The Commission shall designate as a hunger –free campus any campus of a  
+4–year [public ] institution of higher education or regional higher education center that:  
  
-11–1703.  24 
+  (1) Has established a hunger task force that:  
  
- (a) The Commission shall designate as a hunger –free campus any campus of a  25 
-4–year [public ] institution of higher education or regional higher education center that:  26 
+   (i) Meets at least three tim es per academic year; and  
  
-  (1) Has established a hunger task force that:  27 
+   (ii) Sets at least two goals with action plans;  
  
-   (i) Meets at least three times per academic year; and  28 
- SENATE BILL 789  3 
+  (2) Has designated a staff member responsible for:  
  
-  
-   (ii) Sets at least two goals with action plans;  1 
+   (i) Assisting students in enrolling in the Supplemental Nutrition 
+Assistance Program; or  
  
-  (2) Has designated a staff member responsible for:  2 
+   (ii) Connecting students with available Supplemental Nutrition 
+Assistance Program outreach partners that can assist students in enrolling in the 
+Supplemental Nutrition Assistance Program;  
  
-   (i) Assisting students in enrolling in the Supplemental Nutrition 3 
-Assistance Program; or  4 
+  (3) Has designated a staff member responsible for informing students 
+participating in fede ral work –study programs that they are eligible for the Supplemental 
+Nutrition Assistance Program;  
+ WES MOORE, Governor  Ch. 322  
  
-   (ii) Connecting students with available Supplemental Nutrition 5 
-Assistance Program outreach partners that can assist students in enrolling in the 6 
-Supplemental Nutrition Assistance Program;  7 
+– 3 –  
+  (4) (i) Provides options for students to utilize Supplemental Nutrition 
+Assistance Program benefits at campus retailers; or  
  
-  (3) Has designated a staff member responsible for informing stud ents 8 
-participating in federal work –study programs that they are eligible for the Supplemental 9 
-Nutrition Assistance Program;  10 
+   (ii) Provides students with  information on the names and locations 
+of off –campus retailers that accept Supplemental Nutrition Assistance Program benefits;  
  
-  (4) (i) Provides options for students to utilize Supplemental Nutrition 11 
-Assistance Program benefits at campus retailers; or  12 
+  (5) Participates in an awareness day campaign activity and plans at least 
+one campus awareness event during the National Hung er and Homelessness Awareness 
+Week;  
  
-   (ii) Provides students with information on the names and locations 13 
-of off –campus retailers that accept Supplemental Nutrition Assistance Program benefits;  14 
+  (6) Provides at least one food pantry on campus, or enables students in 
+need to receive food through a separate, stigma –free arrangement;  
  
-  (5) Participates in an awareness day campaign activity and plans at least 15 
-one campus awareness eve nt during the National Hunger and Homelessness Awareness 16 
-Week;  17 
+  (7) Develops and maintains a meal –sharing program that allows students 
+to do nate their unused meal plan credits to be distributed to students in need for use in 
+campus dining halls or at an on –campus food pantry, if applicable;  
  
-  (6) Provides at least one food pantry on campus, or enables students in 18 
-need to receive food through a separate, stigma –free arrangement;  19 
+  (8) Conducts a standardized annual student survey on hunger and submits 
+the results to the Commission ; and  
  
-  (7) Develops and maintains a meal –sharing program  that allows students 20 
-to donate their unused meal plan credits to be distributed to students in need for use in 21 
-campus dining halls or at an on –campus food pantry, if applicable;  22 
+  (9) Submits an annual report detailing its efforts to address student 
+hunger to the Commission.  
  
-  (8) Conducts a standardized annual student survey on hunger and submits 23 
-the results to the Commission; and  24 
+ (b) The Commission shall designate as a hunger –free campus any campus of a  
+2–year [public ] institution of higher education that meets all of the req uirements for  
+4–year [public ] institutions of higher education or regional higher education centers 
+identified in subsection (a) of this section, with the exception of the requirements in 
+subsection (a)(4) and (7) of this section.  
  
-  (9) Submits an annual report detailing its efforts to address student 25 
-hunger to the Commission.  26 
+ (c) (1) Each 4 –year [public] institution of higher education may develop its 
+own procedures for a meal –sharing program.  
  
- (b) The Commission shall designate as a hunger –free campus any campus of a  27 
-2–year [public ] institution of higher educatio n that meets all of the requirements for  28 
-4–year [public ] institutions of higher education or regional higher education centers 29 
-identified in subsection (a) of this section, with the exception of the requirements in 30 
-subsection (a)(4) and (7) of this sectio n. 31 
+  (2) The 4 –year [public ] institutions of higher education shall make 
+information about the meal –sharing program publicly available, including:  
  
- (c) (1) Each 4 –year [public ] institution of higher education may develop its 32 
-own procedures for a meal –sharing program.  33 
-4 SENATE BILL 789   
+   (i) How a  student may donate unused meal plan credits;  
  
-  
-  (2) The 4 –year [public ] institutions of higher education shall make 1 
-information about the meal –sharing program publicly availabl e, including:  2 
+   (ii) How a student in need may apply to receive donated meal plan 
+credits; and  
  
-   (i) How a student may donate unused meal plan credits;  3 
+   (iii) The methodology that a 4 –year [public ] institution of higher 
+education uses to ensure that unused donated meal plan c redits are used to purchase food 
+to support an on –campus food pantry, if applicable.  
  
-   (ii) How a student in need may apply to receive donated meal plan 4 
-credits; and  5 
+11–1704.  
+Ch. 322  2025 LAWS OF  MARYLAND   
  
-   (iii) The methodology that a 4 –year [public ] institution of higher 6 
-education uses to ensure that  unused donated meal plan credits are used to purchase food 7 
-to support an on –campus food pantry, if applicable.  8 
+– 4 –  
+ (A) For fiscal [year 2023 and each fiscal year thereafter ] YEARS 2023  THROUGH  
+2026 , the Governor shall include in the annual budget bill an appropriation of $150,000 
+for the Program.  
  
-11–1704.  9 
+ (B) FOR FISCAL YEAR 2027  AND EACH FISCAL YEAR  THEREAFTER , THE 
+GOVERNOR SHALL INCLUD E IN THE ANNUAL BUDG ET BILL AN APPROPRIA TION OF  
+$250,000  FOR THE PROGRAM . 
  
- (A) For fiscal [year 2023 and each fiscal year thereafter ] YEARS 2023  THROUGH  10 
-2026 , the Governor shall include in the annual budget bill an appropriation of $150,000 11 
-for the Program.  12 
+11–1705.  
  
- (B) FOR FISCAL YEAR 2027  AND EACH FISCAL YEAR  THEREAFTER , THE 13 
-GOVERNOR SHALL INCLUD E IN THE ANNUAL BUDG ET BILL AN APPROPRIA TION OF  14 
-$250,000  FOR THE PROGRAM . 15 
+ (a) (1) The Commission shall allocate grant funding to any 4–year or 2 –year 
+public institution of higher education or regional higher education center that:  
  
-11–1705.  16 
+  [(1)] (I) Pledges a matching contribution to be used to implement the 
+goals of the Program; and  
  
- (a) (1) The Commission shall alloc ate grant funding to any 4 –year or 2 –year 17 
-public institution of higher education or regional higher education center that:  18 
+  [(2)] (II) Is designated as a hunger –free campus.  
  
-  [(1)] (I) Pledges a matching contribution to be used to implement the 19 
-goals of the Program; and  20 
+  (2) NOTWITHSTANDING DESIG NATION AS A HUNGER –FREE CAMPUS 
+UNDER THIS SUBTITLE , A 4–YEAR OR 2–YEAR PRIVATE INSTITU TION OF HIGHER 
+EDUCATION OR A REGIO NAL HIGHER EDUCATION  CENTER OPERATED BY A  PRIVATE 
+NONPROFIT INSTITUTIO N OF HIGHER EDUCATIO N IS NOT ELIGIBLE TO  RECEIVE 
+GRANT FUNDING UNDER THE PROGRAM . 
  
-  [(2)] (II) Is designated as a h unger –free campus.  21 
+ (b) The Commission shall determine the amount of each grant.  
  
-  (2) NOTWITHSTANDING DESIG NATION AS A HUNGER –FREE CAMPUS 22 
-UNDER THIS SUBTITLE , A 4–YEAR OR 2–YEAR PRIVATE INSTITU TION OF HIGHER 23 
-EDUCATION OR A REGIO NAL HIGHER EDUCATION  CENTER OPERATED BY A  PRIVATE 24 
-NONPROFIT INSTITUTIO N OF HIGHER EDUCATION IS NOT ELI GIBLE TO RECEIVE 25 
-GRANT FUNDING UNDER THE PROGRAM . 26 
+ (c) The Commission shall incorporate into the 2026 –2030 State Plan for Higher 
+Education a plan for addressing any basic needs insecurity of higher educa tion students.  
  
- (b) The Commission shall determine the amount of each grant.  27 
+ (d) (1) The Commission shall adopt regulations necessary to carry out the 
+requirements of this subtitle.  
  
- (c) The Commission shall incorporate into the 2026 –2030 State Plan for Higher 28 
-Education a plan for addressing any basic n eeds insecurity of higher education students.  29 
+  (2) The regulations adopted under this subsection shall allow grant 
+recipients to use grant funds flexibly to implement the goals of the Program, including 
+giving recipients the ability to:  
  
- (d) (1) The Commission shall adopt regulations necessary to carry out the 30 
-requirements of this subtitle.  31 
- SENATE BILL 789  5 
+   (i) Support emergency assistance;  
  
-  
-  (2) The regulations adopted under this subsection shall allow grant 1 
-recipients to use grant funds fl exibly to implement the goals of the Program, including 2 
-giving recipients the ability to:  3 
+   (ii) Hire staff to manage initiatives related to the Program; and  
  
-   (i) Support emergency assistance;  4 
+   (iii) Use grant funds for operational activities related to the Program.  
  
-   (ii) Hire staff to manage initiatives related to the Program; and  5 
+11–1706.  
  
-   (iii) Use grant funds for operational activities relat ed to the Program.  6 
+ WES MOORE, Governor  Ch. 322  
  
-11–1706.  7 
+– 5 –  (a) Not later than 2 years after establishing the Program, the Commission shall 
+report to the Governor and, in accordance with § 2 –1257 of the State Government Article, 
+the General Assembly on the implementation of this subtitle.  
  
- (a) Not later than 2 years after establishing the Program, the Commission shall 8 
-report to the Governor and, in accordance with § 2 –1257 of the State Government Article, 9 
-the General Assembly on the implementation of this subtitle.  10 
+ (b) The report shall in clude:  
  
- (b) The report shall include:  11 
+  (1) The number and amounts of grants awarded;  
  
-  (1) The number and amounts of grants awarded;  12 
+  (2) The impact of the Program on establishing hunger –free campuses at 
+[public ] institutions of higher education and regional higher education centers;  
  
-  (2) The impact of the Program on establishing hunger –free campuses at 13 
-[public ] institutions of higher education and regional higher education centers;  14 
+  (3) The impact of awarded grants on reducin g the number of students 
+experiencing food insecurity; and  
  
-  (3) The impact of awarded grants on reducing the number of students 15 
-experiencing food insecurity; and  16 
+  (4) Recommendations on expanding the Program.  
  
-  (4) Recommendations on expanding the Program.  17 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 
+1, 2025.  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 18 
-1, 2025.  19 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
+Approved by the Governor, May 6, 2025.  

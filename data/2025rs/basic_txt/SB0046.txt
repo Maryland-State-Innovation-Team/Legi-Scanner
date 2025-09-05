@@ -1,276 +1,250 @@
+ WES MOORE, Governor  Ch. 188  
  
+– 1 – Chapter 188  
+(Senate Bill 46 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.  
-         Italics indicate opposite chamber/conference committee amendments.             *sb0046*      
-SENATE BILL 46  
-E1, N1    (5lr0913 ) 
-ENROLLED BILL  
-— Judicial Proceedings/Judiciary  — 
-Introduced by Senator Watson  Senators Watson, Charles, Folden, James, Jennings, 
-Lewis  Young, McKay, Ready, Salling, A.  Washington, and West  West, Attar, 
-and C.  Jackson  
- 
-Read and Examined by Proofreaders:  
- 
-_______________________________________________  
-Proofreader.  
-_________________ ______________________________  
-Proofreader.  
- 
-Sealed with the Great Seal and presented to the Governor, for his approval this  
-  
-_______ day of _______________ at ________________________ o’clock, ________M.  
-  
-______________________________________________  
-President .  
- 
-CHAPTER ______  
- 
-AN ACT concerning  1 
- 
-Criminal Law – Fraud – Possession of Residential Real Property  2 
-Real Property – Wrongful Detainer Actions  – Time of Hearing and Service of 3 
-Process  4 
+AN ACT concerning  
  
-FOR the purpose of prohibiting a person from possessing or claiming a right to possess 5 
-residential real property the person does not lawfully possess or own, with the intent 6 
-to defraud another; authorizing the owner of certain residential real property to file 7 
-a certain swor n affidavit and requiring a sheriff to remove a certain person from 8 
-residential real property under certain circumstances; providing this Act does not 9 
-prohibit the owner of residential real property from filing a wrongful detainer action; 10 
-and generally rel ating to fraudulent possession of residential real property  altering 11 
-provisions relating to wrongful detainer actions, including requirements for 12 
-summonses, hearings, and judgments;  requiring a certain hearing to be held within 13 
-2 SENATE BILL 46   
+Criminal Law – Fraud – Possession of Residential Real Property  
+Real Property – Wrongful Detainer Actions  – Time of Hearing and Service of 
+Process  
  
- a certain time after a certa in complaint is filed; altering requirements relating to 1 
-service of process in a wrongful detainer action;  and generally relating to wrongful 2 
-detainer actions . 3 
+FOR the purpose of prohibiting a person from possessing or claiming a right to possess 
+residential real property the person does not lawfully possess or own, with the intent 
+to defraud another; authorizing the owner of certain residential real property to file 
+a certain sworn affidavit and requiring a sheriff to remove a certain person from 
+residential real property under certain circumstances; providing this Act does not 
+prohibit the owner of residential real property from fili ng a wrongful detainer action; 
+and generally relating to fraudulent possession of residential real property  altering 
+provisions relating to wrongful detainer actions, including requirements for 
+summonses, hearings, and judgments;  requiring a certain hearin g to be held within 
+a certain time after a certain complaint is filed; altering requirements relating to 
+service of process in a wrongful detainer action;  and generally relating to wrongful 
+detainer actions . 
  
-BY adding to  4 
- Article – Criminal Law  5 
-Section 8 –906 6 
- Annotated Code of Maryland  7 
- (2021 Replacement Volume and 2024 Supplement)  8 
+BY adding to  
+ Article – Criminal Law  
+Section 8–906 
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  9 
- Article – Real Property  10 
- Section 14 –132 11 
- Annotated Code of Maryland  12 
- (2023 Replacement Volume and 2024 Supplement)  13 
+BY repealing and reenacting, with amendments,  
+ Article – Real Property  
+ Section 14 –132 
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 14 
-That the Laws of Maryland read as follows:  15 
+ SECTION 1 . BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-Article – Criminal Law  16 
+Article – Criminal Law  
  
-8–906.  17 
+8–906.  
  
- (A) A PERSON MAY NOT , WITH INTENT TO DEFRA UD ANOTHER , POSSESS OR  18 
-CLAIM A RIGHT TO POS SESS RESIDENTIAL REA L PROPERTY THE PERSO N DOES NOT  19 
-LAWFULLY POSSESS OR OWN.  20 
+ (A) A PERSON MAY NOT , WITH INTENT TO DEFRA UD ANOTHER , POSSESS OR  
+CLAIM A RIGHT TO POS SESS RESIDENTIAL REA L PROPERTY THE PERSO N DOES NOT  
+LAWFULLY POSSESS OR OWN.  
  
- (B) A PERSON WHO VIOLATES THIS SECTION IS GUIL TY OF A MISDEMEANOR  21 
-AND ON CONVICTION IS  SUBJECT TO : 22 
+Ch. 188  2025 LAWS OF MARYLAND   
  
-  (1) FOR A FIRST VIOLATIO N, IMPRISONMENT NOT EXC EEDING 90 23 
-DAYS OR A FINE NOT E XCEEDING $500  OR BOTH ; 24 
+– 2 –  (B) A PERSON WHO VIOLATES THIS SECTION IS GUIL TY OF A MISDEMEANOR  
+AND ON CONVICTION IS  SUBJECT TO : 
  
-  (2) FOR A SECOND VIOLATI ON OCCURRING WITHIN 2 YEARS  AFTER  25 
-THE FIRST VIOLATION , IMPRISONMENT NOT EXC EEDING 6 MONTHS OR A FINE NOT  26 
-EXCEEDING $1,000  OR BOTH ; AND  27 
+  (1) FOR A FIRST VIOLATIO N, IMPRISONMENT NOT EXC EEDING 90 
+DAYS OR A FINE NOT E XCEEDING $500  OR BOTH ; 
  
-  (3) FOR EACH SUBSEQUENT VIOLATION OCCURRING WITHIN 2 YEARS  28 
-AFTER THE PRECEDING VIOLATION , IMPRISONMENT NOT EXC EEDING 1 YEAR OR A  29 
-FINE NOT EXCEEDING $2,500  OR BOTH .  30 
+  (2) FOR A SEC OND VIOLATION OCCURR ING WITHIN 2 YEARS AFTER  
+THE FIRST VIOLATION , IMPRISONMENT NOT EXC EEDING 6 MONTHS OR A FINE NOT  
+EXCEEDING $1,000  OR BOTH ; AND  
  
- (C) (1) THIS SUBSECTION DOES NOT APPLY IF : 31 
+  (3) FOR EACH SUBSEQUENT VIOLATION OCCURRING WITHIN 2 YEARS  
+AFTER THE PRECEDING VIOLATION , IMPRISONMENT NOT EXCEEDING 1 YEAR OR A  
+FINE NOT EXCEEDING $2,500  OR BOTH .  
  
-   (I) THE PERSON IN ACTUAL  POSSESSION OF THE RE SIDENTIAL  32 
-REAL PROPERTY HAS BE EN GRANTED POSSESSIO N UNDER A COURT ORDE R; OR 33 
- SENATE BILL 46  3 
+ (C) (1) THIS SUBSECTION DOES NOT APPLY IF : 
  
-  
-   (II) A REMEDY IS AVAILABL E UNDER TITLE 8 OF TH E REAL 1 
-PROPERTY ARTICLE . 2 
+   (I) THE PERSON IN ACTUAL  POSSESSION OF THE RE SIDENTIAL  
+REAL PROPERTY HAS BE EN GRANTED POSSESSIO N UNDER A COURT ORDE R; OR 
  
-  (2) THE OWNER OF RESIDENT IAL REAL PROPERTY IN  THE 3 
-POSSESSION OF ANOTHE R ALLEGEDLY IN VIOLA TION OF SUBSECTION (A) OF THIS  4 
-SECTION MAY SUBMIT A  SWORN AFFIDAVIT TO T HE SHERIFF FOR A COU NTY IN  5 
-WHICH THE PROPERTY I S LOCATED STATING T HAT THE PERSON IS FR AUDULENTLY  6 
-IN POSSESSION OF THE  PROPERTY . 7 
+   (II) A REMEDY IS AVAILAB LE UNDER TITLE 8 OF THE REAL 
+PROPERTY ARTICLE . 
  
-  (3) (I) SUBJECT TO SUBPARAGRA PH (II) OF THIS PARAGRAPH , A 8 
-SHERIFF SHALL REMOVE  A PERSON IN POSSESSI ON OF RESIDENTIAL RE AL 9 
-PROPERTY AFTER RECEI VING AN AFFIDAVIT SU BMITTED UNDER PARAGR APH (2) OF 10 
-THIS SUBSECTION AND RETURN POSSESSION OF  THE PROPERTY TO THE OWNER . 11 
+  (2) THE OWNER OF RESIDENT IAL REAL PROPERTY IN  THE 
+POSSESSION OF ANOTHE R ALLEGEDLY IN VIOLA TION OF SUBSECTION (A) OF THIS  
+SECTION MAY SUBMIT A  SWORN AFFIDAVIT TO T HE SHERIFF FOR A COU NTY IN  
+WHICH THE PROPERTY IS LOCATED STATING THAT THE PER SON IS FRAUDULENTLY  
+IN POSSESSION OF THE  PROPERTY . 
  
-   (II) A DEPUTY SHERIFF MAY N OT REMOVE A PERSON I N 12 
-POSSESSION OF RESIDE NTIAL REAL PROPERTY FOLLOWING THE FILING  OF AN  13 
-AFFIDAVIT UNDER SUBP ARAGRAPH (I) OF THIS PARAGRAPH IF  THE PERSON IN 14 
-POSSESSION PRODUCES EVIDENCE OF LAWFUL P OSSESSION OF THE PRO PERTY TO  15 
-THE LAW ENFORCEMENT OFFICER . 16 
+  (3) (I) SUBJECT TO SUBPARAGRA PH (II) OF THIS PARAGRAPH , A 
+SHERIFF SHALL REMOVE  A PERSON IN POSSESSI ON OF RESIDENTIAL RE AL 
+PROPERTY AFTER RECEI VING AN AFFIDAVIT SU BMITTED UNDER PARAGR APH (2) OF 
+THIS SUBSECTION AND RETURN POSSESSION OF  THE PROPERTY TO THE OWNER . 
  
- (D) THIS SECTION DOES NOT  PROHIBIT THE OWNER O F RESIDENTIAL REAL  17 
-PROPERTY FROM FILING  A SUIT UNDER § 14–132 OF THE REAL PROPERTY ARTICLE . 18 
+   (II) A DEPUTY SHERIFF MAY N OT REMOVE A PERSON I N 
+POSSESSION OF RESIDE NTIAL REAL PROPERTY FOLLOWING THE FILING  OF AN  
+AFFIDAVIT UNDER SUBP ARAGRAPH (I) OF T HIS PARAGRAPH IF THE  PERSON IN  
+POSSESSION PRODUCES EVIDENCE OF LAWFUL P OSSESSION OF THE PRO PERTY TO  
+THE LAW ENFORCEMENT OFFICER . 
  
-Article – Real  Property  19 
+ (D) THIS SECTION DOES NOT  PROHIBIT THE OWNER O F RESIDENTIAL REAL  
+PROPERTY FROM FILING  A SUIT UNDER § 14–132 OF THE REAL PROPE RTY ARTICLE . 
  
-14–132. 20 
+Article – Real Property  
+ WES MOORE, Governor  Ch. 188  
  
- (a) In this section, “wrongful detainer” means to hold possession of real property 21 
-without the right of possession.  22 
+– 3 –  
+14–132. 
  
- (b) This section does not apply if:  23 
+ (a) In this section, “wrongful detainer” means to hold possession of real property 
+without the right of possession.  
  
-  (1) The person in actual possession of the property has been granted 24 
-possessio n under a court order;  25 
+ (b) This section does not apply if:  
  
-  (2) A remedy is available under Title 8 of this article; or  26 
+  (1) The person in actual possession of the property has been granted 
+possession under a court order;  
  
-  (3) Any other exclusive means to recover possession is provided by statute 27 
-or rule.  28 
+  (2) A remedy is available under Title 8 of this article; or  
  
- (c) A person may not hold possession of property unless the person is entitled to  29 
-possession of the property under the law.  30 
+  (3) Any other exclusive means to recover possession is provided by statute 
+or rule.  
  
-4 SENATE BILL 46   
+ (c) A person may not hold possession of property unless the person is entitled to 
+possession of the property under the law.  
  
-  (d) (1) If a person violates subsection (c) of this section, a person claiming 1 
-possession may make complaint in writing to the District Court of the county in which the 2 
-property is located.  3 
+ (d) (1) If a person violates subsection (c) of this section, a person claiming 
+possession may make complaint in writing to the District Court of the county in which the 
+property is located.  
  
-  (2) (I) On receipt  of a complaint under paragraph (1) of this subsection, 4 
-the court shall summons immediately the person in possession to appear before the court 5 
-on the day specified in the summons to show cause, if any, why restitution of the possession 6 
-of the property to the person filing the complaint should not be made.  7 
+  (2) (I) On receipt of a complaint under paragraph (1) of this subsection, 
+the court shall summons immediately the person in possession to appear before the court 
+on the day specified in the summons to show cause, if any, why restitut ion of the possession 
+of the property to the person filing the complaint should not be made.  
  
-   (II) A HEARING SCHEDULED UN DER SUBPARAGRAPH (I) OF THIS 8 
-PARAGRAPH SHALL BE H ELD NOT MORE THAN 10 BUSINESS DAYS AFTER THE 9 
-COMPLAINT IS FILED U NDER PARAGRAPH (1) OF THIS SUBSECTION .  10 
+   (II) A HEARING SCHEDULED UN DER SUBPARAGRAPH (I) OF THIS 
+PARAGRAPH SHALL BE H ELD NOT MORE THAN 10 BUSINESS DAYS AFTER THE 
+COMPLAINT IS FILED U NDER PARAGRAPH (1) OF THIS SUBSECTION .  
  
-  (3) A SUMMONS ISSUED UNDER  PARAGRAPH (2) OF THIS 11 
-SUBSECTION :  12 
+  (3) A SUMMONS ISSUED UNDER  PARAGRAPH (2) OF THIS 
+SUBSECTION :  
  
-   (I) NEED NOT CONTAIN THE DEFENDANT ’S NAME ; AND  13 
+   (I) NEED NOT CONTAIN THE DEFENDANT ’S NAME ; AND  
  
-   (II) MAY BE ADDRESSED TO “OCCUPANT LOCATED AT ” 14 
-FOLLOWED BY THE PROP ERTY ADDRESS .  15 
+   (II) MAY BE ADDRESSED TO “OCCUPANT LOCATED AT ” 
+FOLLOWED BY THE PROP ERTY ADDRESS .  
  
-  [(3)] (4) [If, for any reason, the person in actual posse ssion cannot be 16 
-found  AFTER TWO GOOD FAITH  EFFORTS ON DIFFERENT  DAYS , the ] THE person 17 
-authorized to serve process by the Maryland Rules shall affix: 18 
+  [(3)] (4) [If, for any reason, the person in actual possession cannot be 
+found  AFTER TWO GOOD FAITH  EFFORTS ON DIFFERENT  DAYS , the ] THE person 
+authorized to serve process by the Maryland Rules shall affix: 
  
-   (I) FILE AN AFFIDAVIT WIT H THE COURT DESCRIBI NG THE 19 
-GOOD FAITH EFFORTS T O SERVE THE PERSON I N ACTUAL POSSESSION ;  20 
+Ch. 188  2025 LAWS OF MARYLAND   
  
-   (II) MAIL A COPY OF THE CO MPLAINT BY CERTIFIED  MAIL , 21 
-RETURN RECEIPT REQUE STED , AND FIRST –CLASS MAIL TO THE LA ST KNOWN 22 
-ADDRESS OF THE PERSO N IN  ACTUAL POSSESSION AN D, IF DIFFERENT , TO THE 23 
-ADDRESS OF THE RESID ENTIAL PROPERTY SUBJ ECT TO THE COMPLAINT ; AND  24 
+– 4 –    (I) FILE AN AFFIDAVIT WIT H THE COURT DESCRIBI NG THE 
+GOOD FAITH EFFORTS T O SERVE THE PERSON I N ACTUAL POSSESSION ;  
  
-   (III) AFFIX an attested copy of the summons conspicuously on the 25 
-property.  26 
+   (II) MAIL A COPY OF THE CO MPLAINT BY CERTIFIED  MAIL , 
+RETURN RECEIPT REQUE STED , AND FIRST –CLASS MAIL TO THE LA ST KNOWN 
+ADDRESS OF THE PERSO N IN  ACTUAL POSSESSION AN D, IF DIFFERENT , TO THE 
+ADDRESS OF THE RESID ENTIAL PROPERTY SUBJ ECT TO THE COMPLAINT ; AND  
  
-  [(4)] (5) If notice of the summons is sent to the person in possession by 27 
-first–class mail, the affixing of the summons  in accordance with paragraph [(3)] (4) of this 28 
-subsection , THE NOTICE  shall constitute sufficient service to support restitution of 29 
-possession.  30 
+   (III) AFFIX an attested copy of the summons conspicuously on the 
+property.  
  
-  (6) A HEARING SCHEDULED UN DER THIS SUBSECTION SHALL BE 31 
-HELD NOT LESS THAN 4 CALENDAR DAYS AND NO T MORE THAN 7 CALENDAR DAYS 32 
-AFTER THE COMPLAINT IS FILED UNDER PARAG RAPH (1) OF THIS SUBSECTION .  33 
+  [(4)] (5) If notice of the summons is sent to the person in possession by 
+first–class mail, the affixing of the summons  in accordance with paragraph [(3)] (4) of this 
+subsection , THE NOTICE  shall constitute sufficient service to support restitution of 
+possession.  
  
- SENATE BILL 46  5 
+  (6) A HEARING SCHEDULED UN DER THIS SUBSECTION SHALL BE 
+HELD NOT LESS THAN 4 CALENDAR DAYS AND NO T MORE THAN 7 CALENDAR DAYS 
+AFTER THE COMPLAINT IS FILED UNDER PARAG RAPH (1) OF THIS SUBSECTION .  
  
-   (5) SERVICE SHALL BE MADE  UNDER PARAGRAPHS (3) AND (4) OF 1 
-THIS SUBSECTION WITH IN 4 BUSINESS DAYS AFTER THE COMPLAINT IS FIL ED UNDER 2 
-PARAGRAPH (1) OF THIS SUBSECTION .  3 
+  (5) SERVICE SHALL BE MADE  UNDER PARAGRAPHS (3) AND (4) OF 
+THIS SUBSECTION WITH IN 4 BUSINESS DAYS AFTER THE COMPLAINT IS FIL ED UNDER 
+PARAGRAPH (1) OF THIS SUBSECTION .  
  
- (e) A counterclaim or cross –claim may not be filed in an action brought under this 4 
-section.  5 
+ (e) A counterclaim or cross –claim may not be filed in an action brought under this 
+section.  
  
- (F) THE COMPLAINANT SHALL  PROVIDE SUFFICIENT E VIDENCE TO THE 6 
-COURT DEMONSTRATING THE COMPLAINANT ’S LEGAL INTEREST IN THE PROPERTY .  7 
+ (F) THE COMPLAINANT SHALL  PROVIDE SUFFICIENT E VIDEN CE TO THE 
+COURT DEMONSTRATING THE COMPLAINANT ’S LEGAL INTEREST IN THE PROPERTY .  
  
- [(f)] (G) (1) If the court determines that the complainant is legally entitled 8 
-to possession, the court shall:  9 
+ [(f)] (G) (1) If the court determines that the complainant is legally entitled 
+to possession, the court shall:  
  
-   (i) Give judgment for restitution of the possession of the property to 10 
-the complainant; and  11 
+   (i) Give judgment for restitution of the possession of the  property to 
+the complainant; and  
  
-   (ii) Issue its warrant to the sheriff or constable commanding the 12 
-sheriff or constable to IMMEDIATELY  deliver possession to the complainant.  13 
+   (ii) Issue its warrant to the sheriff or constable commanding the 
+sheriff or constable to IMMEDIATELY  deliver possession to the complainant.  
  
-  (2) The court may also gi ve judgment in favor of the complainant for 14 
-damages due to the wrongful detainer and for court costs and attorney fees if [: 15 
+  (2) The court may also give judgment in favor of the complainant for 
+damag es due to the wrongful detainer and for court costs and attorney fees if [: 
  
-   (i) The] THE complainant claimed damages in the complaint [; and  16 
+   (i) The] THE complainant claimed damages in the complaint [; and  
  
-   (ii) The court finds that:  17 
+ WES MOORE, Governor  Ch. 188  
  
-    1. The person in actual possession was personally served 18 
-with the summons; or  19 
+– 5 –    (ii) The court finds that:  
  
-    2. There was service of process or submission to the 20 
-jurisdiction of the court as would support a judgment in contract or tort ]. 21 
+    1. The person in actual possession was personally served 
+with the summons; or  
  
-  (3) A person in actual possession who is not personally served wi th a 22 
-summons is not subject to the personal jurisdiction of the District Court if the person 23 
-appears in response to the summons and prior to the time that evidence is taken by the 24 
-court and asserts that the appearance is only for the purpose of defending a n in rem action.  25 
+    2. There was service of process or submission to the 
+jurisdiction of the court as would support a judgment in contract or tort ]. 
  
- [(g)] (H) Subject to § 8 –118.1 of this article, a party to a wrongful detainer action 26 
-brought in the District Court under this section may demand a trial by jury in accordance 27 
-with Title 8, Subtitle 6 of this article.  28 
+  (3) A person in actual possession who is not personally served with a 
+summons is not subject to the personal jurisdict ion of the District Court if the person 
+appears in response to the summons and prior to the time that evidence is taken by the 
+court and asserts that the appearance is only for the purpose of defending an in rem action.  
  
- (I) IF A DEFENDAN T DOES NOT ATTEND TH E HEARING , THE DISTRICT 29 
-COURT SHALL ENTER A D EFAULT JUDGMENT AGAI NST THE DEFENDANT .  30 
+ [(g)] (H) Subject to § 8 –118.1 of this article, a party to a wrongful detainer action 
+brought in the District Court under this section may demand a trial by jury in accordance 
+with Title 8, Subtitle 6 of this article.  
  
-6 SENATE BILL 46   
+ (I) IF A DEFENDANT DOES N OT ATTEND THE HEARIN G, THE DISTRICT 
+COURT SHA LL ENTER A DEFAULT J UDGMENT AGAINST THE DEFENDANT .  
  
-  [(h)] (J) (1) Not later than [10] 4 days  from the entry of the judgment of the 1 
-District Court, either party may appeal to the circuit court for the county in which the 2 
-property is located.  3 
+ [(h)] (J) (1) Not later than [10] 4 days  from the entry of the judgment of the 
+District Court, either party may appeal to the circuit court for the county in which the 
+property is located.  
  
-  (2) The person in actual possession of the property may retain possession 4 
-until the determination of the appeal if the person:  5 
+  (2) The person in actual possession of the property may retain possession 
+until the determination of the appeal if the person:  
  
-   (i) Files with the court an affidavit that the appeal is not taken for 6 
-delay; and  7 
+   (i) Files with the court an affidavit that the appeal is not taken for 
+delay; and  
  
-   (ii) 1. Files sufficient bond with one or more securities 8 
-conditioned on diligent prosecution of the appeal; or  9 
+   (ii) 1. Files sufficient bond with one or more securities 
+conditioned on diligent prosecution of the appeal; or  
  
-    2. Pays to the complainant or into the appellate court:  10 
+    2. Pays to the complainant or into the appellate court:  
  
-    A. The fair rental value of the property for the entire period 11 
-of possession up to the date of judgment;  12 
+    A. The fair rental value of the property for the entire period 
+of possession up to the date of judgment;  
  
-    B. All court costs in the case;  13 
+    B. All court co sts in the case;  
  
-    C. All losses or damages other than the fair rental value of 14 
-the property up to the day of judgment that the court determined to be due because of the 15 
-detention of possession;  and 16 
+    C. All losses or damages other than the fair rental value of 
+the property up to the day of judgment that the court determined to be due because of the 
+detention of possession; and  
  
-    D. The fair rental value of the property during the pendency 17 
-of the appeal.  18 
+    D. The fair rental value of the property during the pendency 
+of the appeal.  
+Ch. 188  2025 LAWS OF MARYLAND   
  
-  (3) On application of either party, the court shall set a hearing date for the 19 
-appeal that is not less than [5] 4 days or more than [15] 7 days after the application f or 20 
-appeal.  21 
+– 6 –  
+  (3) On application of either party, the court shall set a hearing date for the 
+appeal that is not less than [5] 4 days or more than [15] 7 days after the application for 
+appeal.  
  
-  (4) Notice of the order for a hearing shall be served on the parties or the 22 
-parties’ counsels not less than [5] 4 days before the hearing.  23 
+  (4) Notice of the order for a hearing shall be served on the parties or the 
+parties’ counsels not less than [5] 4 days before the hearing.  
  
- [(i)] (K) If the judgment of the circuit court shall be in favor of the person 24 
-claiming possession, a  warrant shall be issued by the court to the sheriff, who shall proceed 25 
-immediately to execute the warrant.   26 
+ [(i)] (K) If the judgment of the circuit court shall be in favor of the person 
+claiming possession, a warrant shall be issued by the court to the sheriff, who shall proceed 
+immediately to execute the warrant.   
  
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 27 
-October 1, 2025.  28 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
+Approved by the Governor, April 22, 2025.  

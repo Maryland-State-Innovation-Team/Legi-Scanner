@@ -1,112 +1,87 @@
+ WES MOORE, Governor  Ch. 727  
  
+– 1 – Chapter 727  
+(Senate Bill 962 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *sb0962*      
-SENATE BILL 962  
-L3   5lr2985  
-      
-By: Senator Mautz  
-Introduced and read first time: January 28, 2025  
-Assigned to: Budget and Taxation  
-Committee Report: Favorable with amendments  
-Senate action: Adopted  
-Read second time: February 28, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Municipalities – Legislative Audit – Exemption  
  
-AN ACT concerning  1 
+FOR the purpose of exempting a municipality with annual revenues below a certain amount 
+from a certain audit requirement; clarifying that a certain audit exemption does not 
+affect certain financial reporting requirements; authorizing the Joint Audit and 
+Evaluation Committee to request or require a certain review or audit of the financi al 
+records of a certain municipality under certain circumstances; and generally relating 
+to audits of the financial records of municipalities.  
  
-Municipalities – Legislative Audit – Exemption  2 
+BY repealing and reenacting, with amendments,  
+ Article – Local Government  
+Section 16 –305 
+ Annotated Code of Maryland  
+ (2013 Volume and 2024 Supplement)  
  
-FOR the purpose of exempting a municipality with annual revenues below a certain amount 3 
-from a certain audit requirement; clarifying that a certain audit exemption does not 4 
-affect certain financial reporting requirements; authorizing the Joint Audit and 5 
-Evaluation Committee to request or require a certain review or audit of the financi al 6 
-records of a certain municipality under certain circumstances; and generally relating 7 
-to audits of the financial records of municipalities.  8 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  9 
- Article – Local Government  10 
-Section 16 –305 11 
- Annotated Code of Ma ryland  12 
- (2013 Volume and 2024 Supplement)  13 
+Article – Local Government  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 14 
-That the Laws of Maryland read as follows:  15 
+16–305. 
  
-Article – Local Government  16 
+ (a) Except as provided in subsection (b) of this section, each county, municipality, 
+and special taxing district created by the State shall have its financial records audited at 
+least once each fiscal year by the persons and for the purposes specified in this section and 
+§§ 16–307 and 16 –308 of this subtitle.  
  
-16–305. 17 
+ (b) (1) Unless the Legislative Auditor determines, on a case –by–case basis, 
+that more frequent audits are required, the Legislative Auditor may authorize a 
+municipality or a special taxing district created by the State with annual revenues of less 
+than $250,000 in the prior 4 fiscal years to have an audit conducted once every 4 years.  
  
- (a) Except as provided in subsection (b) of this section, each county, municipality, 18 
-and special taxing district created by the State shall have its financial records audited at 19 
-2 SENATE BILL 962   
+  (2) NOTWITHSTANDING PARAG RAPH (1) OF THIS SUBSECTION AND 
+EXCEPT AS PROVIDED I N SUBSECTION (E) OF THIS SECTION , A MUNICIPALITY IS 
+EXEMPT FROM THE AUDI T REQUIREMENTS OF SU BSECTION (A) OF THIS SECTION 
+FOR ANY FISCAL YEAR IN WHICH THE MUNICIP AL ANNUAL REVENUES A RE LESS 
+THAN $100,000.  
  
- least once each fiscal year by the persons and for the purposes specified in this section and 1 
-§§ 16–307 and 16 –308 of this subtitle.  2 
+ (c) (1) The audit required under subsection (a) of this section shall be 
+conducted by a certified public accountant:  
+Ch. 727  2025 LAWS OF MARYLAND   
  
- (b) (1) Unless the Legislative Auditor determines, on a case –by–case basis, 3 
-that more frequent audits are required, the Legislative Auditor may authorize a 4 
-municipality or a special taxing district created by the State with annual revenues of less 5 
-than $250,00 0 in the prior 4 fiscal years to have an audit conducted once every 4 years.  6 
+– 2 –  
+   (i) acting in the capacity of an independent auditor or an official 
+auditor of a county or municipality; and  
  
-  (2) NOTWITHSTANDING PARAG RAPH (1) OF THIS SUBSECTION AND 7 
-EXCEPT AS PROVIDED I N SUBSECTION (E) OF THIS SECTION , A MUNICIPALITY IS 8 
-EXEMPT FROM THE AUDI T REQUIREMENTS OF SU BSECTIO N (A) OF THIS SECTION 9 
-FOR ANY FISCAL YEAR IN WHICH THE MUNICIP AL ANNUAL REVENUES A RE LESS 10 
-THAN $100,000.  11 
+   (ii) who is in compliance with the Maryland Public Accountancy Act.  
  
- (c) (1) The audit required under subsection (a) of this section shall be 12 
-conducted by a certified public accountant:  13 
+  (2) An official auditor must be approved by the Legislative Auditor to 
+conduct the audit.  
  
-   (i) acting in the capacity o f an independent auditor or an official 14 
-auditor of a county or municipality; and  15 
+  (3) In conducting the audit, the auditor shall examine the methods, 
+accuracy, and legality of the financial records of the county, municipality, or special taxing 
+district.  
  
-   (ii) who is in compliance with the Maryland Public Accountancy Act.  16 
+ (d) (1) On the initiative of the Legislative Auditor, the Legislative Auditor may 
+review  or audit the financial records of any county, municipality, or special taxing district 
+created by the State.  
  
-  (2) An official auditor must be approved by the Legislative Auditor to 17 
-conduct the audit.  18 
+  (2) A county, municipality, or special taxing district created by the State 
+may request the Legislative Auditor to audit its financial records.  
  
-  (3) In conducting the audit, the auditor shall examine the methods, 19 
-accuracy, and legality of the financial records of the county, municipality, or special taxing 20 
-district.  21 
+ (E) (1) AN AUDIT EXEMPTION FO R A MUNICIPALITY UND ER SUBSECTION 
+(B)(2) OF THIS SECTION DOES  NOT AFFECT THE REQUI REMENT OF THAT 
+MUNICIPALITY TO FILE  WITH THE DEPARTMENT OF LEGISLATIVE SERVICES A 
+FINANCIAL REPORT IN ACCORDANCE WITH § 16–304 OF THIS SUBTITL E. 
  
- (d) (1) On the initiative of the Legislative Auditor, the Legislative Auditor may 22 
-review  or audit the financial records of any county, municipality, or special taxing district 23 
-created by the State.  24 
+  (2) IF THE FINANCIAL REPO RT SUBMITTED IN ACCO RDANCE WITH § 
+16–304 OF THIS SUBTITLE BY A MUNICIPALITY THAT HAS AN AUDIT EXEMPTI ON 
+UNDER SUBSECTION (B)(2) OF THIS SECTION INDI CATES A FINANCIAL OR  
+ACCOUNTING IRREGULAR ITY OR CONCERN , THE JOINT AUDIT AND EVALUATION 
+COMMITTEE MAY REQUEST  OR REQUIRE A REVIEW OR AUDIT OF  THE FINANCIAL  
+RECORDS OF THAT MUNI CIPALITY  THE MUNICIPALITY TO CONDUCT A REVIEW OR 
+AUDIT OF ITS FINANCI AL RECORDS CONSISTEN T WITH THE REQUIREME NTS OF 
+SUBSECTION (C) OF THIS SECTION . 
  
-  (2) A county, municipality, or special taxing district created by the State 25 
-may request the Legislative Auditor to audit its financial records.  26 
+ SECTION  2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 
+1, 2025.  
  
- (E) (1) AN AUDIT EXEMPTION FO R A MUNICIPALITY UND ER SUBSECTION 27 
-(B)(2) OF THIS SECTION DOES  NOT AFFECT THE REQUI REMENT OF THAT 28 
-MUNICIPALITY TO FILE  WITH THE DEPARTMENT OF LEGISLATIVE SERVICES A 29 
-FINANCIAL REPORT IN ACCORDANCE WITH § 16–304 OF THIS SUBTITL E. 30 
- 
-  (2) IF THE FINANCIAL REPO RT SUBMITTED IN ACCO RDANCE WITH § 31 
-16–304 OF THIS SUBTITLE BY A MUNICIPALITY THAT HAS AN AUDIT EXEMPTI ON 32 
-UNDER SUBSECTION (B)(2) OF THIS SECTION INDI CATES A FINANCIAL OR  33 
-ACCOUNTING IRREGULAR ITY OR CONCERN , THE JOINT AUDIT AND EVALUATION 34 
-COMMITTEE MAY REQUEST  OR REQUIRE A REVIEW OR AUDIT OF  THE FINANCIAL  35 
- SENATE BILL 962  3 
- 
- RECORDS OF THAT MUNI CIPALITY  THE MUNICIPALITY TO CONDUCT A REVIEW OR 1 
-AUDIT OF ITS FINANCI AL RECORDS CONSISTEN T WITH THE REQUIREME NTS OF 2 
-SUBSECTION (C) OF THIS SECTION . 3 
- 
- SECTION  2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 4 
-1, 2025.  5 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
+Approved by the Governor, May 20, 2025.  

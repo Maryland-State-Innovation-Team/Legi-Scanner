@@ -1,123 +1,100 @@
+ WES MOORE, Governor  Ch. 295  
  
+– 1 – Chapter 295  
+(Senate Bill 522 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *sb0522*      
-SENATE BILL 522  
-C2   5lr1759  
-      
-By: Senator Charles  
-Introduced and read first time: January 23, 2025  
-Assigned to: Finance  
-Committee Report: Favorable with  amendments  
-Senate action: Adopted  
-Read second time: February 11, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Home Builders – New Home Sales – Notice of Appliance Warranty Registration  
  
-AN ACT concerning  1 
+FOR the purpose of requiring a person registered to build a new home to include in a 
+contract  provide at the time of closing  for the initial sale of a new home certain 
+information about the warranties for appliances registered by the person; and 
+generally relating to home builders and notice of appliance warranty registration.  
  
-Home Builders – New Home Sales – Notice of Appliance Warranty Registration  2 
+BY repealing and reenacting, without amendments,  
+ Article – Business Regulation  
+Section 4.5 –101(a), (m), and (r)  
+ Annotated Code of Maryland  
+ (2024 Replacement Volume)  
  
-FOR the purpose of requiring a person registered to build a new home to include in a 3 
-contract  provide at the time of closing  for the initial sale of a new home certain 4 
-information about the warranties for appliances registered by the person; and 5 
-generally relating to home builders and notice of appliance warranty registration.  6 
+BY repealing and reenacting, with amendments,  BY adding to  
+ Article – Business Regulation  
+Section 4.5–603 4.5–606 
+ Annotated Code of Maryland  
+ (2024 Replacement Volume)  
  
-BY repealing and reenacting, without amendments,  7 
- Article – Business Regulation  8 
-Section 4.5 –101(a), (m), and (r)  9 
- Annotated Code of Maryland  10 
- (2024 Replacement Volume)  11 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  BY adding to  12 
- Article – Business Regulation  13 
-Section 4.5–603 4.5–606 14 
- Annotated Code of Maryland  15 
- (2024 Replacement Volume)  16 
+Article – Business Regulation  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 17 
-That the Laws of Maryland read as follows:  18 
+4.5–101. 
  
-Article – Business Regulation  19 
+ (a) In this title the following words have the meanings indicated.  
  
-4.5–101. 20 
-2 SENATE BILL 522   
+ (m) (1) “New home” means each newly constructed residential dwelling unit in 
+the State and the fixtures and structure that are made a part of a newly constructed private 
+dwelling unit at the time of construction.  
  
-  
- (a) In this title the following words have the meanings indicated.  1 
+  (2) “New home” includes:  
  
- (m) (1) “New home” means each newly constructed residential dwelling unit in 2 
-the State and the fixtures and structure that are made a part of a newly constructed private 3 
-dwelling unit at the time of construction.  4 
+   (i) a custom home as defined in § 10 –501(c) of the Real Property 
+Article;  
  
-  (2) “New home” includes:  5 
+   (ii) a new home to which § 10 –301 of the Real Property Article 
+applies;  
  
-   (i) a custom home as defined in § 10 –501(c) of the Real Property 6 
-Article;  7 
+   (iii) an industrialized building intended for residential use; and  
+Ch. 295  2025 LAWS OF MARYLAND   
  
-   (ii) a new home to which § 10 –301 of the Real Property Artic le 8 
-applies;  9 
+– 2 –  
+   (iv) a mobile home.  
  
-   (iii) an industrialized building intended for residential use; and  10 
+ (r) “Registrant” means a person registered to build new homes.  
  
-   (iv) a mobile home.  11 
+4.5–603. 
  
- (r) “Registrant” means a person registered to build new homes.  12 
+ (a) (1) This subsection applies only to a development that contains  11 or more 
+new homes to be built by the same registrant.  
  
-4.5–603. 13 
+  (2) Prior to the execution of any contract for the initial sale of a new home, 
+a registrant shall provide the purchaser with written information about any  
+energy –efficient options, including a statement that tax credits may be available related to 
+the energy –efficient options, that are available for installation in the home before 
+construction of the home is completed.  
  
- (a) (1) This subsection applies only to a development that contains 11 or more 14 
-new homes to be built by the same registrant.  15 
+ (b) A registrant shall include in any contract for the initial sale of a ne w home : 
  
-  (2) Prior to the execution of any contract for the initial sale of a new home, 16 
-a registrant shall provide the purchaser with written information about any  17 
-energy –efficient options, including a state ment that tax credits may be available related to 18 
-the energy –efficient options, that are available for installation in the home before 19 
-construction of the home is completed.  20 
+  (1) FOR EACH APPLIANCE I N THE NEW HOME , INCLUDING THE  
+HEATING , VENTILATION , AND AIR –CONDITIONING SYSTEM , THAT WAS REGISTERED  
+BY THE REGISTRANT , THE WARRANTY INFORMA TION FOR THE APPLIAN CE, 
+INCLUDING : 
  
- (b) A registrant shall include in any contract for the initial sale of a new home : 21 
+   (I) THE DATE THE REGISTR ANT REGISTERED THE  WARRANTY ; 
+AND  
  
-  (1) FOR EACH APPLIANCE I N THE NEW HOME , INCLUDING THE  22 
-HEATING , VENTILATION , AND AIR –CONDITIONING SYSTEM , THAT WAS REGISTERED  23 
-BY THE REGISTRANT , THE WARRANTY INFORMA TION FOR THE APPLIAN CE, 24 
-INCLUDING : 25 
+   (II) THE TIME REMAINING U NDER THE WARRANTY ; AND  
  
-   (I) THE DATE THE REGISTR ANT REGISTERED THE W ARRANTY ; 26 
-AND  27 
+  (2) the information required under § 14 –117(a)(3), (i), and (m) of the Real 
+Property Article, if applicable.  
  
-   (II) THE TIME REMAINING U NDER THE WARRANTY ; AND  28 
+4.5–606.  
  
-  (2) the information required under § 14 –117(a)(3), (i), and (m) of the Real 29 
-Property Article, if applicable.  30 
- SENATE BILL 522  3 
+ (A) IN THIS SECTION , “APPLIANCE ” INCLUDES A HEATING , VENTILATION , 
+AND AIR –CONDITIONING SYSTEM . 
  
-  
-4.5–606.  1 
+ (B) A REGISTRANT SHALL PRO VIDE , AT THE TIME OF CLOSI NG FOR THE 
+INITIAL SALE OF A NE W HOME , THE WARRANTY INFORMA TION FOR EACH APPLIA NCE 
+IN THE NEW HOME THAT  WAS REGISTERED BY TH E REGISTRANT , INCLUDING : 
  
- (A) IN THIS SECTION , “APPLIANCE ” INCLUDES A HEATING , VENTILATION , 2 
-AND AIR –CONDITIONING SYSTEM . 3 
+  (1) THE DATE THE REGISTR ANT REGISTERED THE W ARRANTY ; AND  
  
- (B) A REGISTRANT SHALL PRO VIDE , AT THE TIME OF CLOSI NG FOR THE 4 
-INITIAL SALE OF A NE W HOME , THE WARRANTY INFORMA TION FOR EACH APPLIA NCE 5 
-IN THE NEW HOME THAT  WAS REGISTERED BY TH E REGISTRANT , INCLUDING : 6 
+  (2) THE TIME REMAINING U NDER THE WARRANTY .  
  
-  (1) THE DATE THE REGISTR ANT REGISTERED THE W ARRANTY ; AND  7 
+ WES MOORE, Governor  Ch. 295  
  
-  (2) THE TIME REMAINING U NDER THE WARRANTY .  8 
+– 3 –  SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 9 
-October 1, 2025.  10 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
+Approved by the Governor, May 6, 2025.  

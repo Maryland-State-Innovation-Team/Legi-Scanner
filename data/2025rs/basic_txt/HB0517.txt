@@ -1,406 +1,369 @@
+ WES MOORE, Governor  Ch. 462  
  
+– 1 – Chapter 462  
+(House Bill 517 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW. 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.  
-         Italics indicate opposite chamber/conference committee amendments.             *hb0517*      
-HOUSE BILL 517  
-R2   (5lr1146 ) 
-ENROLLED BILL  
-— Environment and Transportation and Appropriations/Budget and Taxation and 
-Finance  — 
-Introduced by Delegates Korman and Solomon , Solomon, and Spiegel  
+AN ACT concerning  
  
-Read and Examined by Proofreaders:  
+Transportation – Maryland Area Rail Commuter Rail Authority – Establishment 
+(MARC Rail Authority Act of 2025)   
+Workgroup on the Reorganization of the Maryland Transit Administration  
  
-_______________________________________________  
-Proofreader.  
-_______________________________________________  
-Proofreader.  
+FOR the purpose of establishing the Maryland Area Rail Commuter (MARC) Rail Authority 
+and the powers and duties of the MARC Rail Authority, acting on behalf of the 
+Department of Transportation, has with respect to the supervision, construction, 
+operation, maintenance, and repair of MARC railroad facilities projects; and 
+generally relating to the establishment of the Maryland Area Rail Commuter 
+(MARC) Rail Authority  the Workgroup on the Reorganization  of the Maryland 
+Transit Administration to study reorganizing the Maryland Transit Administration; 
+and generally relating to the Workgroup on the Reorganization of the Maryland 
+Transit Administration . 
  
-Sealed with the Great Seal and presented to the Governor, for hi s approval this  
-  
-_______ day of _______________ at ________________________ o’clock, ________M.  
-  
-______________________________________________  
-Speaker .  
+BY adding to  
+ Article – Transportation  
+Section 7–1301 through 7 –1310 to be under the new subtitle “Subtitle 13. Maryland  
+Area Rail Commuter (MARC) Rail Authority”  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2024 Supplement)  
  
-CHAPTER ______  
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows : 
  
-AN ACT concerning  1 
+Article – Transportation  
  
-Transportation – Maryland Area Rail Commuter Rail Authority – Establishment 2 
-(MARC Rail Authority Act of 2025)   3 
-Workgroup on the Reorganization of the Maryland Transit Administration  4 
+SUBTITLE 13. MARYLAND AREA RAIL COMMUTER (MARC)  RAIL AUTHORITY . 
  
-FOR the purpose of establishing the Maryland Area Rail Commuter (MARC) Rail Authority 5 
-and the powers and duties of the MARC Rail Authority, acting on behalf of the 6 
-Department of Transportation, has with respect to the supervision, construction, 7 
-operation, maintenance, and repair of MARC railroad facilities projects; and 8 
-generally relating to the establishment of the Maryland Area Ra il Commuter 9 
-(MARC) Rail Authority  the Workgroup on the Reorganization of the Maryland 10 
-Transit Administration to study reorganizing the Maryland Transit Administration; 11 
-and generally relating to the Workgroup on the Reorganization of the Maryland 12 
-Transit Ad ministration . 13 
+7–1301.  
  
-2 HOUSE BILL 517   
+ (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE  THE MEANINGS  
+INDICATED . 
  
- BY adding to  1 
- Article – Transportation  2 
-Section 7 –1301 through 7 –1310 to be under the new subtitle “Subtitle 13. Maryland  3 
-Area Rail Commuter (MARC) Rail Authority”  4 
- Annotated Code of Maryland  5 
- (2020 Replacement Volume and 2024 Supplement)  6 
+ (B) “MARC”  MEANS MARYLAND AREA RAIL COMMUTER RAIL SERVICE . 
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 7 
-That the Laws of Maryland read as follows : 8 
+ (C) “MARC  RAILROAD FACILITIES PROJECT ” INCLUDES : 
  
-Article – Transportation  9 
+  (1) (I) THE BRUNSWICK , CAMDEN , OR PENN LINES OF THE  
+MARYLAND AREA RAIL COMMUTER (MARC)  SERVICE ; AND  
  
-SUBTITLE 13. MARYLAND AREA RAIL COMMUTER (MARC)  RAIL AUTHORITY . 10 
+Ch. 462  2025 LAWS OF MARYLAND   
  
-7–1301.  11 
+– 2 –    (II) EXTENDING MARC  SERVICE ; AND  
  
- (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE  THE MEANINGS  12 
-INDICATED . 13 
+  (2) ANY ADDITIONS , IMPROVEMENTS , OR ENL ARGEMENTS TO ANY OF  
+THE PROJECTS LISTED UNDER ITEM (1) OF THIS SUBSECTION , WHENEVER  
+AUTHORIZED . 
  
- (B) “MARC”  MEANS MARYLAND AREA RAIL COMMUTER RAIL SERVICE . 14 
+7–1302.  
  
- (C) “MARC  RAILROAD FACILITIES PROJECT ” INCLUDES : 15 
+ THERE IS A MARC  RAIL AUTHORITY . 
  
-  (1) (I) THE BRUNSWICK , CAMDEN , OR PENN LINES OF THE  16 
-MARYLAND AREA RAIL COMMUTER (MARC)  SERVICE ; AND  17 
+7–1303.  
  
-   (II) EXTENDIN G MARC  SERVICE ; AND  18 
+ (A) (1) THE SECRETARY IS THE CHAI R OF THE MARC  RAIL AUTHORITY . 
  
-  (2) ANY ADDITIONS , IMPROVEMENTS , OR ENLARGEMENTS TO A NY OF  19 
-THE PROJECTS LISTED UNDER ITEM (1) OF THIS SUBSECTION , WHENEVER  20 
-AUTHORIZED . 21 
+  (2) THE SECRETARY SHALL DESIG NATE AN EXECUTIVE DIRECTOR  
+OF THE MARC  RAIL AUTHORITY . 
  
-7–1302.  22 
+ (B) IN ADDITION TO THE CH AIR, THE MARC  RAIL AUTHORITY CONSISTS OF  
+THE FOLLOWING MEMBER S: 
  
- THERE IS A MARC  RAIL AUTHORITY . 23 
+  (1) (I) ONE MEMBER WITH A BAC KGROUND IN RAIL TRAN SIT, 
+APPOINTED BY THE PRESIDENT OF THE SENATE ; AND  
  
-7–1303.  24 
+   (II) ONE ME MBER WITH A BACKGROU ND IN RAIL TRANSIT , 
+APPOINTED BY THE SPEAKER OF THE HOUSE ; AND  
  
- (A) (1) THE SECRETARY IS THE CHAI R OF THE MARC  RAIL AUTHORITY . 25 
+  (2) AS AN EX OFFICIO MEMB ER, THE EXECUTIVE DIRECTOR OF THE  
+MARC  RAIL AUTHORITY . 
  
-  (2) THE SECRETARY SHALL DESIG NATE AN EXECUTIVE DIRECTOR  26 
-OF THE MARC  RAIL AUTHORITY . 27 
+ (C) (1) THE TERM OF AN APPOIN TED MEMBER IS 4 YEARS . 
  
- (B) IN ADDITION TO THE CH AIR, THE MARC  RAIL AUTHORITY CONSISTS OF  28 
-THE FOLLOWING MEMBER S: 29 
- HOUSE BILL 517  3 
+  (2) AN APPOINTED MEMBER M AY NOT S ERVE MORE THAN THREE  
+CONSECUTIVE TERMS . 
  
-  
-  (1) (I) ONE MEMBER WITH A BAC KGROUND IN RAIL TRAN SIT, 1 
-APPOINTED BY THE PRESIDENT OF THE SENATE ; AND  2 
+  (3) AT THE END OF A TERM , A MEMBER CONTINUES T O SERVE UNTIL  
+A SUCCESSOR IS APPOI NTED AND QUALIFIES . 
  
-   (II) ONE MEMBER WITH A BAC KGROUND IN RAIL TRAN SIT, 3 
-APPOINTED BY THE SPEAKER OF THE HOUSE ; AND  4 
+  (4) A MEMBER WHO IS APPOIN TED AFTER A TERM HAS  BEGUN SERVES  
+ONLY FOR THE REST OF  THE TERM AND UNTIL A  SUCCESSOR IS APPOINT ED AND  
+QUALIFIES . 
  
-  (2) AS AN EX OFFICIO MEMB ER, THE EXECUTIVE DIRECTOR OF THE  5 
-MARC  RAIL AUTHORITY . 6 
+ (D) AN APPOINTED MEMBER O F THE MARC  RAIL AUTHORITY IS ENTITLED  
+TO: 
  
- (C) (1) THE TERM OF AN APPOINTED MEMBER IS 4 YEARS . 7 
+ WES MOORE, Governor  Ch. 462  
  
-  (2) AN APPOINTED MEMBER M AY NOT SERVE MORE TH AN THREE  8 
-CONSECUTIVE TERMS . 9 
+– 3 –   (1) THE COMPENSATION PROV IDED IN THE STATE BUDGET ; AND  
  
-  (3) AT THE END OF A TERM , A MEMBER CONTINUES T O SERVE UNTIL  10 
-A SUCCESSOR IS APPOI NTED AND QUALIFIES . 11 
+  (2) REIMBURSEMENT FOR EXP ENSES UNDER THE STANDARD STATE  
+TRAVEL REGULATIONS , AS PROVIDED IN THE STATE BUDGET . 
  
-  (4) A MEMBER WHO IS APPOIN TED AFTER A TERM HA S BEGUN SERVES  12 
-ONLY FOR THE REST OF  THE TERM AND UNTIL A  SUCCESSOR IS APPOINT ED AND  13 
-QUALIFIES . 14 
+ (E) THE MARC  RAIL AUTHORITY IS SUBJECT TO THE OPEN MEETINGS  
+ACT UNDER TITLE 3 OF THE GENERAL PROVISIONS ARTICLE . 
  
- (D) AN APPOINTED MEMBER O F THE MARC  RAIL AUTHORITY IS ENTITLED  15 
-TO: 16 
+7–1304.  
  
-  (1) THE COMPENSATION PROV IDED IN THE STATE BUDGET ; AND  17 
+ (A) THE MARC  RAIL AUTHORITY IS ENTITLED  TO THE STAFF PROVIDE D IN 
+THE STATE BUDGET . 
  
-  (2) REIMBURSEMENT FOR EXP ENSES UNDER THE STANDARD STATE  18 
-TRAVEL REGULATIONS , AS PROVIDED IN THE STATE BUDGET . 19 
+ (B) THE SECRETARY SHALL PROVIDE THE MARC  RAIL AUTHORITY WITH  
+THE PERSONNEL OF THE  DEPARTMENT THAT THE SECRETARY CONSIDERS  
+NECESSARY FOR PERFOR MANCE OF THE MAINTEN ANCE AND OTHER FUNCT IONS  
+REQUIRED OF THE MARC  RAIL AUTHORITY TO MEET ITS  OBLIGATIONS WITH  
+RESPECT TO ITS MARC  RAILROAD  FACILITIES PROJECTS . 
  
- (E) THE MARC  RAIL AUTHORITY IS SUBJECT TO THE OPEN MEETINGS  20 
-ACT UNDER TITLE 3 OF THE GENERAL PROVISIONS ARTICLE . 21 
+7–1305.  
  
-7–1304.  22 
+ (A) (1) ACTING ON BEHALF OF T HE DEPARTMENT , THE MARC  RAIL 
+AUTHORITY HAS THOSE P OWERS AND DUTIES REL ATING TO THE SUPERVI SION , 
+FINANCING , CONSTRUCTION , OPERATION , MAINTENANCE , AND REPAIR OF MARC  
+RAILROAD FACILITIES PROJECTS A S ARE GRANTED TO IT BY THIS SUBTITLE . 
  
- (A) THE MARC  RAIL AUTHORITY IS ENTITLED  TO THE STAFF  PROVIDED IN  23 
-THE STATE BUDGET . 24 
+  (2) THE MARC  RAIL AUTHORITY MAY : 
  
- (B) THE SECRETARY SHALL PROVI DE THE MARC  RAIL AUTHORITY WITH  25 
-THE PERSONNEL OF THE  DEPARTMENT THAT THE SECRETARY CONSIDERS  26 
-NECESSARY FOR PERFOR MANCE OF THE MAINTEN ANCE AND OTHER FUNCT IONS  27 
-REQUIRED OF THE MARC  RAIL AUTHORITY TO MEET ITS OBLIGATI ONS WITH  28 
-RESPECT TO ITS MARC  RAILROAD FACILITIES PROJECTS . 29 
+   (I) DELEGATE PROJECT OPER ATIONS , MAINTENANCE , AND  
+REPAIR TO THE ADMINISTRATION ; AND  
  
-4 HOUSE BILL 517   
+   (II) USE FARE REVENUE TO P ROVIDE THE ADMINISTRATION  
+WITH PAYMENTS FOR PR OJECT OPERATIONS , MAINTENANCE , AND REPAIR . 
  
- 7–1305.  1 
+ (B) THE MARC  RAIL AUTHORITY HAS GENERAL  SUPERVISION OF MARC  
+RAILROAD FACILITIES PROJECTS . 
  
- (A) (1) ACTING ON BEHALF OF T HE DEPARTMENT , THE MARC  RAIL 2 
-AUTHORITY HAS THOSE P OWERS AND DUTIES REL ATING TO THE SUPERVI SION , 3 
-FINANCING , CONSTRUCTION , OPERATION , MAINTENANCE , AND REPAIR OF MARC  4 
-RAILROAD FACILITIES PROJECTS AS ARE GRAN TED TO IT BY THIS SU BTITLE . 5 
+ (C) THE MARC  RAIL AUTHORITY SHALL FINAN CE, CONSTRUCT , OPERATE , 
+REPAIR , AND MAINTAIN IN GOOD  ORDER THE MARC  RAILROAD FACILITIES . 
  
-  (2) THE MARC  RAIL AUTHORITY MAY : 6 
+ (D) THE MARC  RAIL AUTHORITY SHALL , TO THE EXTENT PRACTI CABLE , 
+ADHERE TO THE TRANSI T PLANS PREPARED UND ER SUBTITLE 3 OF THIS TITLE . 
  
-   (I) DELEGATE PROJECT OPER ATIONS , MAINTENANCE , AND  7 
-REPAIR TO THE ADMINISTRATION ; AND  8 
+7–1306.  
+Ch. 462  2025 LAWS OF MARYLAND   
  
-   (II) USE FARE REVENUE TO PROVIDE THE ADMINISTRATION  9 
-WITH PAYMENTS FOR PR OJECT OPERATIONS , MAINTENANCE , AND REPAIR . 10 
+– 4 –  
+ (A) THE MARC  RAIL AUTHORITY MAY ACQUIRE , HOLD , AND DISPOSE OF  
+PROPERTY IN THE EXER CISE OF ITS POWERS A ND PERFORMANCE OF I TS DUTIES . 
  
- (B) THE MARC  RAIL AUTHORITY HAS GENERAL  SUPERVISION OF MARC  11 
-RAILROAD FACILITIES PROJECTS . 12 
+ (B) THE MARC  RAIL AUTHORITY MAY MAKE AN Y CONTRACTS AND  
+AGREEMENTS NECESSARY  OR INCIDENTAL TO THE  EXERCISE OF ITS POWE RS AND  
+PERFORMANCE OF ITS D UTIES . 
  
- (C) THE MARC  RAIL AUTHORITY SHALL FINAN CE, CONSTRUCT , OPERATE , 13 
-REPAIR , AND MAINTAIN IN GOOD ORDER THE MARC  RAILROAD FACILITIES . 14 
+ (C) THE MARC  RAIL AUTHORITY MAY APPLY F OR AND RECEIVE GRANT S 
+FROM ANY FEDERAL AGE NCY FOR T HE PLANNING , CONSTRUCTION , OPERATION , OR 
+FINANCING OF ANY PAS SENGER RAIL OR TRANS IT PROJECT AND MAY R ECEIVE AID  
+OR CONTRIBUTIONS OF MONEY , PROPERTY , LABOR , OR OTHER THINGS OF V ALUE  
+FROM ANY SOURCE , TO BE HELD , USED , AND APPLIED FOR THE PURPOSES FOR  
+WHICH T HE GRANTS , AID, AND CONTRIBUTIONS AR E MADE . 
  
- (D) THE MARC  RAIL AUTHORITY SHALL , TO THE EXTENT PRACTI CABLE , 15 
-ADHERE TO THE TRANSI T PLANS PREPARED UND ER SUBTITLE 3 OF THIS TITLE . 16 
+ (D) THE MARC  RAIL AUTHORITY MAY ADOPT R ULES AND REGULATIONS  TO 
+CARRY OUT THE PROVIS IONS OF THIS SUBTITL E. 
  
-7–1306.  17 
+ (E) THE MARC  RAIL AUTHORITY MAY DO ANYT HING ELSE NECESSARY OR 
+CONVENIENT TO CARRY OUT THE POWERS GRANTED IN THIS SUBT ITLE. 
  
- (A) THE MARC  RAIL AUTHORITY MAY ACQUIRE , HOLD , AND DISPO SE OF  18 
-PROPERTY IN THE EXER CISE OF ITS POWERS A ND PERFORMANCE OF IT S DUTIES . 19 
+7–1307.  
  
- (B) THE MARC  RAIL AUTHORITY MAY MAKE AN Y CONTRACTS AND  20 
-AGREEMENTS NECESSARY  OR INCIDENTAL TO THE  EXERCISE OF ITS POWE RS AND  21 
-PERFORMANCE OF ITS D UTIES . 22 
+ SUBJECT TO TITLE 12 OF THE REAL PROPERTY ARTICLE AND CHAPTER 608 
+OF THE ACTS OF THE GENERAL ASSEMBLY OF 1976,  THE MARC  RAIL AUTHORITY  
+MAY CONDEMN PROPERTY  FOR ANY MARC  RAILROAD FACILITIES PROJECT . 
  
- (C) THE MARC  RAIL AUTHORITY MAY APPLY F OR AND RECEIVE GRANT S 23 
-FROM ANY FEDERAL AGE NCY FOR THE PLANNING , CONSTRUCTION , OPERATION , OR 24 
-FINANCING OF ANY PAS SENGER RAIL OR TRANS IT PROJECT AND MAY R ECEIVE AID  25 
-OR CONTRIBUTIONS OF MONEY , PROPERTY , LABOR , OR OTHER THINGS OF V ALUE  26 
-FRO M ANY SOURCE , TO BE HELD , USED , AND APPLIED FOR THE PURPOSES FOR  27 
-WHICH THE GRANTS , AID, AND CONTRIBUTIONS AR E MADE . 28 
+7–1308.  
  
- (D) THE MARC  RAIL AUTHORITY MAY ADOPT R ULES AND REGULATIONS  TO 29 
-CARRY OUT THE PROVIS IONS OF THIS SUBTITL E. 30 
+ THE MARC  RAIL AUTHORITY MAY CONTRAC T WITH THE ADMINISTRATION  
+TO AUTHORIZE ADMINISTRATION POLICE  OFFICERS TO EXERCISE  THE POWERS  
+DESCRIBED UNDER § 7–207 OF THIS TITLE ON PRO PERTY OWNED , LEASED , OR 
+OPERATED BY OR UNDER  THE CONTROL OF THE MARC  RAIL AUTHORITY . 
  
- HOUSE BILL 517  5 
+7–1309.  
  
-  (E) THE MARC  RAIL AUTHORITY MA Y DO ANYTHING ELSE N ECESSARY OR  1 
-CONVENIENT TO CARRY OUT THE POWERS GRANT ED IN THIS SUBTITLE . 2 
+ (A) THE MARC  RAIL AUTHORITY SHALL MAKE PUBLICLY AVAILABLE O N 
+ITS WEBSITE : 
  
-7–1307.  3 
+  (1) EACH OPEN MEETING AGE NDA: 
  
- SUBJECT TO TITLE 12 OF THE REAL PROPERTY ARTICLE AND CHAPTER 608 4 
-OF THE ACTS OF THE GENERAL ASSEMBLY OF 1976,  THE MARC  RAIL AUTHORITY  5 
-MAY CONDEMN PROPERTY FOR ANY MARC  RAILROAD FACILITIES PROJECT . 6 
+   (I) AT LEAST 48 HOURS IN ADVANCE OF EACH MEETING ; OR 
  
-7–1308.  7 
+ WES MOORE, Governor  Ch. 462  
  
- THE MARC  RAIL AUTHORITY MAY CONTRAC T WITH THE ADMINISTRATION  8 
-TO AUTHORIZE ADMINISTRATION POLICE  OFFICERS TO EXERCISE  THE POWERS  9 
-DESCRIBED UNDER § 7–207 OF THIS TITLE ON PRO PERTY OWNED , LEASED , OR 10 
-OPERATED BY OR UNDER  THE CONTROL OF THE MARC  RAIL AUTHORITY . 11 
+– 5 –    (II) IF THE MEETING IS BEI NG HELD DUE TO AN EM ERGENCY , A 
+NATURAL DISASTER , OR ANY OTHER  UNANTICIPATED SITUAT ION, AS FAR IN  
+ADVANCE OF THE MEETI NG AS PRACTICABLE ; 
  
-7–1309.  12 
+  (2) MEETING MINUTES FROM THE PORTIONS OF A ME ETING THAT  
+WERE HELD IN OPEN SE SSION , NOT MORE THAN 2 BUSINESS DAYS AFTER THE 
+MINUTES ARE APPROVED ; 
  
- (A) THE MARC  RAIL AUTHORITY SHALL MAKE PUBLICLY AVAILABLE O N 13 
-ITS WEBSITE : 14 
+  (3) LIVE VIDEO STREAMING OF EA CH OPEN MEETING OF T HE MARC  
+RAIL AUTHORITY THAT IS HEL D AT: 
  
-  (1) EACH OPEN MEETING AGE NDA: 15 
+   (I) THE HEADQUARTERS OF T HE MARC  RAIL AUTHORITY ; OR 
  
-   (I) AT LEAST 48 HOURS IN ADVANCE OF EACH MEETING ; OR 16 
+   (II) ANY OTHER LOCATION WH ERE THE MARC  RAIL 
+AUTHORITY HAS HELD AT  LEAST 10 MEETINGS DURING THE IMMEDIATELY  
+PRECEDING CALENDAR Y EAR; AND  
  
-   (II) IF THE MEETING IS BEING HEL D DUE TO AN EMERGENC Y, A 17 
-NATURAL DISASTER , OR ANY OTHER UNANTIC IPATED SITUATION , AS FAR IN  18 
-ADVANCE OF THE MEETI NG AS PRACTICABLE ; 19 
+  (4) A COMPLETE AND UNEDITE D ARCHIVED VIDEO REC ORDING OF  
+EACH OPEN MEETING FO R WHICH LIVE VIDEO S TREAMING WAS MADE AV AILABLE  
+UNDER ITEM (3) OF THIS SUBSECTION F OR A MINIMUM OF 5 YEARS AFTER THE DATE  
+OF THE MEETING . 
  
-  (2) MEETING MINUTES FROM THE PORTIONS OF A ME ETING THAT  20 
-WERE HELD IN OPEN SE SSION , NOT MORE THAN 2 BUSI NESS DAYS AFTER THE  21 
-MINUTES ARE APPROVED ; 22 
+ (B) THE DEPARTMENT OF INFORMATION TECHNOLOGY SHALL PROVID E TO  
+THE MARC  RAIL AUTHORITY THE TECHNIC AL STAFF , SUPPORT , AND EQUIPMENT  
+NECESSARY TO LIVESTR EAM THE OPEN MEETING S OF THE MARC  RAIL AUTHORITY . 
  
-  (3) LIVE VIDEO STREAMING OF EACH OPEN MEETING  OF THE MARC  23 
-RAIL AUTHORITY THAT IS HEL D AT: 24 
+7–1310.  
  
-   (I) THE HEADQUARTERS OF T HE MARC  RAIL AUTHORITY ; OR 25 
+ (A) ON AN ANNUAL BASIS , THE DEPARTMENT SHALL ALLO CATE TO THE  
+MARC  RAIL AUTHORITY THE REVENUE NEEDED T O SUPPORT THE MARC  
+OPERATING AND CAPITA L BUDGETS . 
  
-   (II) ANY OTHER LOCATION WH ERE THE MARC  RAIL 26 
-AUTHORITY HAS HELD AT LEAST 10 MEETINGS DURING THE IMMEDIATELY  27 
-PRECEDING CALENDAR Y EAR; AND  28 
+ (B) (1) EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS SUBSECTION , 
+MARC  FARES AND ANY OTHER REVENUE FROM CHARGES  IMPOSED FOR MARC  
+SERVICE MAY BE USED ONLY TO SUPPORT THE MARC  RAIL AUTHORI TY. 
  
-  (4) A COMPLETE AND UNEDITE D ARCHIVED VIDEO REC ORDING OF  29 
-EACH OPEN MEETING FO R WHICH LIVE VIDEO S TREAMING WAS MADE AV AILABLE  30 
-6 HOUSE BILL 517   
+  (2) TO THE EXTENT REQUIRE D UNDER FINANCING AG REEMENTS  
+UNDER TITLE 4, SUBTITLE 3 OF THIS ARTICLE ENTE RED INTO ON OR BEFOR E 
+OCTOBER 1, 2024,  MARC  FARES AND ANY OTHER REVENUE FROM CHARGES  
+IMPOSED FOR MARC  SERVICE SHALL CONTIN UE TO SUPPORT THOSE EXISTIN G 
+INSTRUMENTS AND OBLI GATIONS . 
  
- UNDER ITEM (3) OF THIS SUBSECTION F OR A MINIMUM OF 5 YEARS AFTER THE DATE  1 
-OF THE MEETING . 2 
+Ch. 462  2025 LAWS OF MARYLAND   
  
- (B) THE DEPARTMENT OF INFORMATION TECHNOLOGY SHALL PROV IDE TO  3 
-THE MARC  RAIL AUTHORITY THE TECHNIC AL STAFF , SUPPORT , AND EQUIPMENT  4 
-NECESSARY TO LIVESTR EAM THE OPEN MEETING S OF THE MARC  RAIL AUTHORITY . 5 
+– 6 –  SECTION 2. AND BE IT FURTHER ENACTED, That the Maryland Department of 
+Transportation shall transition all MARC operations and contracts to the MARC Rail 
+Authority to the extent permissible by such agreements.  
  
-7–1310.  6 
+ (a) There is a Workgroup on the Reorganization of the Maryland Transit 
+Administration.  
  
- (A) ON AN ANNUAL BASIS , THE DEPARTMENT SHALL ALLO CATE TO THE  7 
-MARC  RAIL AUTHORITY THE REVENUE  NEEDED TO SUPPORT TH E MARC  8 
-OPERATING AND CAPITA L BUDGETS . 9 
+ (b) The Workgroup consists of the following members:  
  
- (B) (1) EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS SUBSECTION , 10 
-MARC  FARES AND ANY OTHER REVENUE FROM CHARG ES IMPOSED FOR MARC  11 
-SERVICE MAY BE USED ONLY TO SUPPORT THE MARC  RAIL AUTHORITY . 12 
+  (1) the Chair of the Appropriations Committee, or the Chair’s designee;  
  
-  (2) TO THE EXTENT REQUIRE D UNDER FINANCING AG REEMENTS  13 
-UNDER TITLE 4, SUBTITLE 3 OF THIS ARTICLE ENTE RED INTO ON OR BEFOR E 14 
-OCTOBER 1, 2024,  MARC  FARES AND ANY OTHER REVENUE FROM CHARGES  15 
-IMPOSED FOR MARC  SERVICE SHALL CONTIN UE TO SUPPORT THOSE EXISTING  16 
-INSTRUMENTS AND OBLI GATIONS . 17 
+  (2) the Chair of the Environment and Transport ation Committee, or the 
+Chair’s designee;  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That the Maryland Department of 18 
-Transportation shall transition all MARC operations and contracts to the MAR C Rail 19 
-Authority to the extent permissible by such agreements.  20 
+  (3) the Chair of the Budget and Taxation Committee, or the Chair’s 
+designee;  
  
- (a) There is a Workgroup on the Reorganization of the Maryland Transit 21 
-Administration.  22 
+  (4) the Chair of the Budget and Taxation Committee’s Public Safety, 
+Transportation, and Environment Subcommittee, or the Chair’s de signee;  
  
- (b) The Workgroup consists of the following members:  23 
+  (5) the Secretary of Transportation, or the Secretary’s designee;  
  
-  (1) the Chair of the Appropriations Committee , or the Chair’s designee;  24 
+  (6) the Maryland Transit Administrator, or the Administrator’s designee;  
  
-  (2) the Chair of the Environment and Transportation Committee, or the 25 
-Chair’s designee;  26 
+  (7) the Chair of the Baltimore Region Transit Commission, or the Chair’s 
+designee; and 
  
-  (3) the Chair of the Budget and Taxation Committee, or the Chair’s 27 
-designee;  28 
+  (8) a repr esentative of the local metropolitan planning organization for 
+Baltimore City, designated by the organization ; and  
  
-  (4) the Chair of the Budget and Taxation Committee’s Public Safety, 29 
-Transportation, and Environment Subcommittee, or the Chair’s designee;  30 
+  (9) two members who regularly use MTA services, appointed by the 
+Governor . 
  
-  (5) the Secretary of Transportation, or the Secretary’s designee;  31 
+ (c) The Secretary of Transportation shall designate the chair  of the Workgroup.  
  
- HOUSE BILL 517  7 
+ (d) The Department of Legislative Services  and the Department of Transportation  
+shall provide staff for the Workgroup.  
  
-   (6) the Maryland Transit Administrator, or the Administrator’s designee;  1 
+ (e) A member of the Workgroup:  
  
-  (7) the Chair of the Baltimore Region Transit Commission, or the Chair’s 2 
-designee; and 3 
+  (1) may not receive compensation as a member of the Workgroup; but  
  
-  (8) a representative of the local metropolitan planning organization for 4 
-Baltimore City, designated by the organization ; and  5 
+  (2) is entitled to reimbursement for expenses under the Standard State 
+Travel Regulations, as provided in the State budget.  
  
-  (9) two members who regularly use MTA serv ices, appointed by the 6 
-Governor . 7 
+ (f) The Workgroup shall:  
+ WES MOORE, Governor  Ch. 462  
  
- (c) The Secretary of Transportation shall designate the chair of the Workgroup.  8 
+– 7 –  
+  (1) study issues relating to a reorganization of  the potential for 
+reorganizing  the Maryland Department of Tr ansportation and the Maryland Transit 
+Administration, including:  
  
- (d) The Department of Legislative Services  and the Department of Transportation  9 
-shall provide staff for the Workgroup.  10 
+   (i) options for allowing the Administration to continue providing 
+local Baltimore City transit services, including light rail, subway, and bus services and the 
+creation of a new unit or r eorganization of the Office of the Secretary to provide statewide 
+transit services;  
  
- (e) A member of the Workgroup:  11 
+   (ii) the current contractual obligations and agreements of the 
+Administration and the process  necessary steps  to transfer the obligations and agreements 
+as part  in the event  of a reorganization of the Department and the Administration; and  
  
-  (1) may not receive compensation as a member of the Workgroup; but  12 
+   (iii) the governance changes to the Administration necessary to 
+ensure that Baltimore City has the appropriate oversight and input into local Baltimore 
+City transit service; and  
  
-  (2) is entitled to reimbursement for expenses under the Standard State 13 
-Travel Regulations, as provided in the State budget.  14 
+  (2) make recommendations regarding the  potential for the  reorganization 
+of the Department and the Administration to ensure that:  
  
- (f) The Workgroup shall:  15 
+   (i) local Baltimore City transit service, including light rail, subway, 
+and bus service, remain as a single unit within th e Department and any other functions of 
+the Administration are reorganized into a separate unit within the Department or the 
+Office of the Secretary;  
  
-  (1) study issues relating to a reorganization of  the potential for 16 
-reorganizing  the Maryland Department of Transportation and the Maryland Transit 17 
-Administration, including:  18 
+   (ii) the workforce and personnel of the Administration necessary to 
+operate local Baltimore City trans it services remain within the Administration and the 
+workforce and personnel of the Administration necessary to operate statewide transit 
+services are reorganized into a separate unit within the Department or the Office of the 
+Secretary; and  
  
-   (i) options for allowing the Administration to continue providing 19 
-local Baltimore City trans it services, including light rail, subway, and bus services and the 20 
-creation of a new unit or reorganization of the Office of the Secretary to provide statewide 21 
-transit services;  22 
+   (iii) the funding for local Baltimore City transit service is not 
+reduced . 
  
-   (ii) the current contractual obligations and agreements of the 23 
-Administra tion and the process  necessary steps  to transfer the obligations and agreements 24 
-as part  in the event  of a reorganization of the Department and the Administration; and  25 
+ (g) On or before December 1, 2025, the Workgroup shall report its findings and 
+recommendations to the Governor and, in accordance with § 2 –1257 of the State 
+Government Article, the General  Assembly.  
  
-   (iii) the governance changes to the Administration necessary to 26 
-ensure that Baltimore  City has the appropriate oversight and input into local Baltimore 27 
-City transit service; and  28 
+ (g) (1) To the extent practicable, the Workgroup shall:  
  
-  (2) make recommendations regarding the  potential for the  reorganization 29 
-of the Department and the Administration to ensure that:  30 
+   (i) analyze alternative reorganization plans and weigh the costs and 
+benefits of each alternative;  
  
-   (i) local Baltimore City transit service, including light rail, subway, 31 
-and bus service, remain as a single unit within the Department and any other functions of 32 
-8 HOUSE BILL 517   
+   (ii) provide cost estimates for any reorganization plan; and  
  
- the Administration are reorganized into a separate unit within the Department or the 1 
-Office of the Secretary;  2 
+Ch. 462  2025 LAWS OF MARYLAND   
  
-   (ii) the workforce and personnel of the Administration necessary to 3 
-operate local Baltimore City transit services remain within the Administration and the 4 
-workforce and personnel of the Administration necessary to operate statewide transit 5 
-services are reorgani zed into a separate unit within the Department or the Office of the 6 
-Secretary; and  7 
+– 8 –    (iii) analyze the impact of any potential reorganization plan on federal 
+funding and regulatory compliance.  
  
-   (iii) the funding for local Baltimore City transit service is not 8 
-reduced . 9 
+  (2) Any reorganization plan considered by the Workgroup under this 
+subsection may not reduce funding for local Baltimore City transit services.  
  
- (g) On or before December 1, 2025, the Workgroup shall report its findings and 10 
-recommendati ons to the Governor and, in accordance with § 2 –1257 of the State 11 
-Government Article, the General Assembly.  12 
+ (h) It is the  intent of the General Assembly that the fiscal year 2027 budget for the 
+Office of the Secretary of Transportation include an appropriation of $150,000 for consulting 
+services to support the efforts of the Workgroup.  
  
- (g) (1) To the extent practicable, the Workgroup shall:  13 
+ (i) On or before December 1, 2026:  
  
-   (i) analyze alternative reorganization plans and weigh the costs and 14 
-benefits of each alternative;  15 
+  (1) the Workgroup shall report its findings and recommendations to the 
+Governor and, in accordance with § 2 –1257 of the State Government Article, the General 
+Assembly; and  
  
-   (ii) provide cost estimates for any reorganization plan; and  16 
+  (2) the Department of Transportation, in consultation with the Department 
+of Legislative Services, shall submit to the Speaker of the House and the President of the 
+Senate draft legislation to effectuate the recommendations of the Workgroup.  
  
-   (iii) analyze the impact of any potential reorganization plan on federal 17 
-funding and regulatory compliance.  18 
+ SECTION 2. AND BE IT FURTHER ENACTED, That it is the intent of the General 
+Assembly that:  
  
-  (2) Any reorganization plan considered by the Workgroup under t his 19 
-subsection may not reduce funding for local Baltimore City transit services.  20 
+  (1) beginning with the fiscal year 2027 budget, all local Baltimore City 
+transit services, including light rail, subway, and bus service, be included in the Maryland 
+Transit Administration budget and all statewide transit service, including MARC rail 
+service, the construction and operation of the Purple Line, and commuter bus service, be 
+included in the Office of the Secretary’s budget; and  
  
- (h) It is the intent of the General Assembly that the fiscal year 2027 budget for the 21 
-Office of the Secretary of Transportation include an appropriation of $150,000 for cons ulting 22 
-services to support the efforts of the Workgroup.  23 
+  (2) on or before December 1, 2025, the Department of Transportation shall 
+submit draft legislation to the Gove rnor and, in accordance with § 2 –1257 of the State 
+Government Article, the General Assembly providing for the reorganization of the 
+Department to ensure that the Maryland Transit Administration provides local Baltimore 
+City transit services, including ligh t rail, subway, and bus service, and a separate unit 
+within the Department provides statewide transit services including MARC rail service, 
+the construction and operation of the Purple Line, and commuter bus service.  
  
- (i) On or before December 1, 2026:  24 
+ SECTION 3. 2. AND BE IT FURTHER ENAC TED, That this Act shall take effect 
+July 1, 2025. It shall remain effective for a period of 1 year  2 years  and, at the end of June 
+30, 2026  2027 , this Act, with no further action required by the General Assembly, shall be 
+abrogated and of no further force  and effect.  
  
-  (1) the Workgroup shall report its findings and recommendations to the 25 
-Governor and, in accordance with § 2 –1257 of the State Government Article, the General 26 
-Assembly; and  27 
- 
-  (2) the Department of Transportation, in consultation with the Department 28 
-of Legislative Services, shall submit to the Speaker of the House and the President of the 29 
-Senate draft legislation to effectuate the recommendations of the Workgroup.  30 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That it is the intent of the General 31 
-Assembly that:  32 
- 
- HOUSE BILL 517  9 
- 
-   (1) beginning with the fiscal year 2027 budget, all local Baltimore City 1 
-transit services, including light rail, subway, and bus service, be included in the Maryland 2 
-Transit Administration budget and all statewide transit service, including MARC rail 3 
-service, the construction and operation of the Purple Line, and commuter bus service, be 4 
-included in the Office of the Secretary’s budget; and  5 
- 
-  (2) on or before December 1, 2025, the Department of Transportation shall 6 
-submit draft legislation to the Governor and , in accordance with § 2 –1257 of the State 7 
-Government Article, the General Assembly providing for the reorganization of the 8 
-Department to ensure that the Maryland Transit Administration provides local Baltimore 9 
-City transit services, including light rail, subway, and bus service, and a separate unit 10 
-within the Department provides statewide transit services including MARC rail service, 11 
-the construction and operation of the Purple Line, and commuter bus service.  12 
- 
- SECTION 3. 2. AND BE IT FURTHER ENACTED, Tha t this Act shall take effect 13 
-July 1, 2025. It shall remain effective for a period of 1 year  2 years  and, at the end of June 14 
-30, 2026  2027 , this Act, with no further action required by the General Assembly, shall be 15 
-abrogated and of no further force and eff ect. 16 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 13, 2025.  

@@ -1,383 +1,357 @@
+ WES MOORE, Governor  Ch. 461  
  
+– 1 – Chapter 461  
+(House Bill 131 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0131*      
-HOUSE BILL 131  
-M3   5lr1676  
-  (PRE –FILED)  CF SB 117  
-By: Delegate Stein  Delegates Stein, Guyton, and Ruth  
-Requested: November 1, 2024  
-Introduced and read first time: January 8, 2025  
-Assigned to: Environment and Transportation  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: February 22, 2025  
- 
-CHAPTER ______  
- 
-AN ACT concerning  1 
- 
-Environment – Bay Restoration Fund – Septic System Upgrade Program  2 
- 
-FOR the purpose of authorizing the Department of the Environment to establish 3 
-performance –based funding levels for best available nitrogen removal technologies 4 
-for on –site sewage disposal systems using a certain evaluation and ran king process; 5 
-requiring the Department to make certain eligible funding levels available in a 6 
-certain manner;  altering priorities for funding the repair or replacement of certain 7 
-on–site sewage disposal systems; expanding certain funding eligibility criter ia for 8 
-on–site sewage disposal systems and community sewerage systems; exempting 9 
-procurements by the Department of certain best available nitrogen removal 10 
-technologies for on –site sewage disposal systems from certain provisions of the 11 
-general procurement l aw; and generally relating to on –site sewage disposal systems.  12 
- 
-BY repealing and reenacting, with  without  amendments,  13 
- Article – Environment  14 
- Section 9 –1108.1 and 9 –1605.2(h)(2) through (5)  Section 9 –1605.2(a)(1) and (h)(1)  15 
- Annotated Code of Maryland  16 
- (2014 Replacement Volume and 2024 Supplement)  17 
+AN ACT concerning  
  
-BY repealing and reenacting, without  with amendments,  18 
- Article – Environment  19 
-Section 9–1605.2(a)(1) and (h)(1)  9–1605.2(h)(2) through (5)  20 
- Annotated Code of Maryland  21 
- (2014 Replacement Volume and 2024 Supplement)  22 
-2 HOUSE BILL 131   
+Environment – Bay Restoration Fund – Septic System Upgrade Program  
  
-  
-BY repealing and reenacting, with amendments,  1 
- Article – State Finance and Procurement  2 
- Section 11 –203(a)(1)(xviii) and (xix)  3 
- Annotated Code of Maryland  4 
- (2021 Replacement Volume and 2024 Supplement)  5 
- 
-BY adding to  6 
- Article – State Finance and  Procurement  7 
- Section 11 –203(a)(1)(xx)  8 
- Annotated Code of Maryland  9 
- (2021 Replacement Volume and 2024 Supplement)  10 
+FOR the purpose of authorizing the Department of the Environment to establish 
+performance –based funding levels for best available nitrogen removal technologies 
+for on –site sewage disposal systems using a certain evaluation and ranking process; 
+requiring the Department to make certain eligible funding levels available in a 
+certain manner;  altering priorities for funding the repair or replacement of certain 
+on–site sewage disposal systems; expanding certain funding eligibility criteria for 
+on–site sewage disposal systems and community sewerage systems; exemptin g 
+procurements by the Department of certain best available nitrogen removal 
+technologies for on –site sewage disposal systems from certain provisions of the 
+general procurement law;  and generally relating to on –site sewage disposal systems.  
  
-BY repealing and reenacting, without amendments,  11 
- Article – State Finance and Procurement  12 
- Section 11 –203(a)(2) and (3)  13 
- Annotated Code of Maryland  14 
- (2021 Replacement Volume and 2024 Supplement)  15 
+BY repealing and reenacting, with  without  amendments,  
+ Article – Environment  
+ Section 9 –1108.1 and 9 –1605.2(h)(2) through (5)  Section 9 –1605.2(a)(1) and (h)(1)  
+ Annotated Code of Maryland  
+ (2014 Replacement Volume and 2024 Supplement)  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 16 
-That the Laws of Maryland read as follows:  17 
- 
-Article – Environment  18 
+BY repealing and reenacting, without  with amendments,  
+ Article – Environment  
+Section 9–1605.2(a)(1) and (h)(1)  9–1605.2(h)(2) through (5)  
+ Annotated Code of Maryland  
+ (2014 Replacement Volume and 2024 Supplement)  
  
-9–1108.1.  19 
- 
- (a) (1) In this section the following words have the meanings indicated.  20 
- 
-  (2) “Nitrogen removal technology” has the meaning stated in § 9 –1108 of 21 
-this subtitle.  22 
- 
-  (3) “On–site sewage disposal system” has the meaning stated in § 9 –1108 23 
-of this subtitle.  24 
- 
-  (4) “Vendor” means a person that sells, offers for  sale, or distributes  25 
-on–site sewage disposal systems that utilize nitrogen removal technology.  26 
- 
- (b) (1) In accordance with subsection (c) of this section, the Department shall 27 
-evaluate and rank all best available nitrogen removal technologies for on –site sewage 28 
-disposal systems to advise local governments and residents of the State of approved 29 
-technologies that qualify for funding under § 9 –1605.2(h)(2) of this title.  30 
- 
-  (2) THE DEPARTMENT MAY USE TH E EVALUATION AND RAN KING  31 
-UNDER PARAGRAPH (1) OF THIS SU BSECTION TO ESTABLIS H PERFORMANCE –BASED  32 
-FUNDING LEVELS FOR E ACH BEST AVAILABLE N ITROGEN REMOVAL TECH NOLOGY  33 
-FOR ON–SITE SEWAGE DISPOSAL  SYSTEMS THAT QUALIFI ES FOR FUNDING UNDER  § 34 
-9–1605.2( H)(2) OF THIS TITLE . 35 
- HOUSE BILL 131  3 
- 
-  
-  (3) The Department shall:  1 
- 
-   (i) Make available the evaluation [and], ranking , AND ELIGIBLE  2 
-FUNDING LEVELS  of all best available nitrogen removal technologies required under this 3 
-section on the Department’s [Web site ] WEBSITE ; and  4 
+BY repealing and reenacting, with amendments,  
+ Article – State Finance and Procurement  
+ Section 11 –203(a)(1)(xviii) and (xix)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-   (ii) Provide the evaluation  [and], ranking , AND ELIGIB LE 5 
-FUNDING LEVELS  of all best available nitrogen removal technologies to a county, 6 
-municipality, or resident of the State in any correspondence relating to approved 7 
-technologies that qualify for funding under § 9 –1605.2(h)(2) of this title.  8 
+BY adding to  
+ Article – State Finance and Procurement  
+ Section 11 –203(a)(1)(xx)  
+ Annotated Code of Maryland  
+ (2021 Replacemen t Volume and 2024 Supplement)  
  
- (c) The Depar tment shall evaluate and rank all best available nitrogen removal 9 
-technologies for on –site sewage disposal systems based on:  10 
+BY repealing and reenacting, without amendments,  
+ Article – State Finance and Procurement  
+ Section 11 –203(a)(2) and (3)  
+ Annotated Code of Maryland  
+Ch. 461  2025 LAWS OF MARYLAND   
  
-  (1) The total amount of nitrogen reduction the technology can achieve;  11 
+– 2 –  (2021 Replacement Volume and 2024 Supplement)  
  
-  (2) The total cost of the technology, including the estimated annual cost of 12 
-operation and maintenance, including electricity costs;  13 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-  (3) The cost per pound of the nitrogen reduction; and  14 
+Article – Environment  
  
-  (4) Any other information the Department determines is necessary.  15 
+9–1108.1.  
  
- (d) Beginning June 1, 2011, and every 2 years thereafter, the Department shall 16 
-request information from vendors necessary to carry out the requirements of this section.  17 
+ (a) (1) In this section the following words have the meanings indicated.  
  
-9–1605.2.  18 
+  (2) “Nitrogen removal technology” has the meaning stated in § 9 –1108 of 
+this subtitle.  
  
- (a) (1) There is a Bay Restoration Fund.  19 
+  (3) “On–site sewage disposal system” has the meaning stated in § 9 –1108 
+of this subtitle.  
  
- (h) (1) With regard to the funds collected under subsection (b)(1)(i)1 of thi s 20 
-section from users of an on –site sewage disposal system or holding tank that receive a water 21 
-bill and subsection (b)(1)(i)2 and 3 of this section, beginning in fiscal year 2006, the 22 
-Comptroller shall:  23 
+  (4) “Vendor” means a person that sells, offers for sale, or distributes  
+on–site sewage disposal systems that utilize nitrogen removal techn ology.  
  
-   (i) Establish a separate account within the Bay R estoration Fund;  24 
-and 25 
+ (b) (1) In accordance with subsection (c) of this section, the Department shall 
+evaluate and rank all best available nitrogen removal technologies for on –site sewage 
+disposal systems to advise local governments and residents of the State of approv ed 
+technologies that qualify for funding under § 9 –1605.2(h)(2) of this title.  
  
-   (ii) Disburse the funds as provided under paragraph (2) of this 26 
-subsection.  27 
+  (2) THE DEPARTMENT MAY USE TH E EVALUATION AND RAN KING  
+UNDER PARAGRAPH (1) OF THIS SUBSECTION T O ESTABLISH PERFORMA NCE–BASED  
+FUNDING LEVELS FOR E ACH BEST AVAILABLE N ITROGEN RE MOVAL TECHNOLOGY  
+FOR ON–SITE SEWAGE DISPOSAL  SYSTEMS THAT QUALIFI ES FOR FUNDING UNDER  § 
+9–1605.2( H)(2) OF THIS TITLE . 
  
-  (2) The Comptroller shall:  28 
+  (3) The Department shall:  
  
-   (i) Deposit 60% of the funds in the separate account to be used for:  29 
+   (i) Make available the evaluation [and], ranking , AND ELIGIBLE  
+FUNDING LEVELS  of all best available nitrogen removal technologies required under this 
+section on the Department’s [Web site ] WEBSITE ; and  
  
-4 HOUSE BILL 131   
+   (ii) Provide the evaluation  [and], ranking , AND ELIGIBLE  
+FUNDING LEVELS  of all best available nitrogen removal technologies to a county, 
+municipality, or resident of the State in any correspondence relating to approved 
+technologies that qualify for funding under § 9 –1605.2(h)(2) of this title.  
  
-     1. Subject to paragraphs (3), (4), (5), and (6)  of this 1 
-subsection, with priority first given to failing systems and holding tanks located in the 2 
-Chesapeake and Atlantic Coastal Bays Critical Area  [and then ], SECOND  to failing 3 
-systems that ARE LOCATED WITHIN THE WATERSHED OF A N ITROGEN –IMPAIRED  4 
-BODY OF  WATER , AND THIRD  A MARYLAND CHESAPEAKE BAY 8–DIGIT WATERSHED 5 
-THAT HAS A RELATIVE EFFECTIVENESS FOR TO TAL NITROGEN REDUCTI ON OF 9.24  6 
-OR HIGHER BASED ON T HE CHESAPEAKE BAY WATERSHED MODEL , THIRD TO 7 
-FAILING SYSTEMS THAT  ARE LOCATED WITHIN T HE 500–YEAR FLOODP LAIN , AND 8 
-FOURTH  TO FAILING SYSTEMS T HAT the Department determines are a threat to public 9 
-health or water quality, grants or loans for up to 100% of:  10 
+ (c) The Department shall evaluate and rank all best available nitrogen removal 
+technologies for on –site sewage disposal systems based on:  
  
-    A. The costs attributable to upgrading an on –site sewage 11 
-disposal system to the best available techno logy for the removal of nitrogen;  12 
+ WES MOORE, Governor  Ch. 461  
  
-    B. The cost difference between a conventional on –site sewage 13 
-disposal system and a system that utilizes the best available technology for the removal of 14 
-nitrogen;  15 
+– 3 –   (1) The total amount of nitrogen reduction the technology can achieve;  
  
-    C. The cost of repairing or replacing a failing o n–site sewage 16 
-disposal system with a system that uses the best available technology for nitrogen removal;  17 
+  (2) The total cost of the technology, including the estimated annual cost of 
+operation and maintenance, including electr icity costs;  
  
-    D. The cost, up to the sum of the costs authorized under item 18 
-B of this item for each individual system, of replacing multiple on –site sewage dis posal 19 
-systems located in the same community with a new community sewerage system that is 20 
-owned by a local government and that meets enhanced nutrient removal standards; or  21 
+  (3) The cost per pound of the nitrogen reduction; and  
  
-    E. The cost, up to the sum of the costs authorized under item 22 
-C of this item for each individual system, of connecting a property using an on –site sewage 23 
-disposal system to an existing municipal wastewater facility that is achieving, or has signed 24 
-a funding agreement with the Department and is under construction to achieve, enhance d 25 
-nutrient removal or biological nutrient removal level treatment, including payment of the 26 
-principal, but not interest, of debt issued by a local government for such connection costs;  27 
+  (4) Any other information the Department determines is necessary.  
  
-    2. The reasonable costs of the Department, not to exceed 8% 28 
-of the  funds deposited into the separate account, to:  29 
+ (d) Beginning June 1, 2011, and every 2 years thereafter, the Department shall 
+request information from vendors necessary to carry out the requirements of this section.  
  
-    A. Implement an education, outreach, and upgrade program 30 
-to advise owners of on –site sewage disposal systems and holding tanks on the proper 31 
-maintenance of the systems and tanks and the availability of g rants and loans under item 32 
-1 of this item;  33 
+9–1605.2.  
  
-    B. Review and approve the design and construction of on –site 34 
-sewage disposal system or holding tank upgrades;  35 
+ (a) (1) There is a Bay Restoration Fund.  
  
-    C. Issue grants or loans as provided under item 1 of this item; 36 
-and 37 
- HOUSE BILL 131  5 
+ (h) (1) With regard to the funds collected under subsection (b)(1)(i)1 of this 
+section from users of an on –site sewage disposal system or holdi ng tank that receive a water 
+bill and subsection (b)(1)(i)2 and 3 of this section, beginning in fiscal year 2006, the 
+Comptroller shall:  
  
-  
-    D. Provide technical  support for owners of upgraded  1 
-on–site sewage disposal systems or holding tanks to operate and maintain the upgraded 2 
-systems;  3 
+   (i) Establish a separate account within the Bay Restoration Fund;  
+and 
  
-    3. A portion of the reasonable costs of a local public entity 4 
-that has been delegated by the Department under § 1 –301(b) of  this article to administer 5 
-and enforce environmental laws, not to exceed 10% of the funds deposited into the separate 6 
-account, to implement regulations adopted by the Department for on –site sewage disposal 7 
-systems that utilize the best available technolog y for the removal of nitrogen;  8 
+   (ii) Disburse the funds as provided under  paragraph (2) of this 
+subsection.  
  
-    4. Subject to paragraph (7) of this subsection, financial 9 
-assistance to low –income homeowners, as defined by the Department, for up to 50% of the 10 
-cost of an operation and maintenance contract of up to 5 years for an on –site sewage 11 
-disposal system that utilizes nitrogen removal technology;  12 
+  (2) The Comptroller shall:  
  
-    5. Subject to paragraph (8) of this subsection, a local 13 
-jurisdiction to provide financial assistance to eligible homeowners for the reasonable cost 14 
-of pumping out an on –site sewage disposal system, at least once every 5 years, unless a 15 
-more frequent pump out schedule is recommended during an inspection, not to exceed 10% 16 
-of the funds allocated to the local jurisdiction; and  17 
+   (i) Deposit 60% of the funds in the separate account to be used for:  
  
-    6. In fiscal years 2020 and 2021, financial assistance to a 18 
-local jurisdiction for the development of a septic stewardship plan that meets the 19 
-requirements under paragraph (8)(iii)2 of this subsection; and  20 
+    1. Subject to paragraphs (3), (4), (5), and (6) of this 
+subsection, with priority first given to failing systems and holding tanks located in the 
+Chesapeake and Atlantic Coastal Bays Critical Area  [and then ], SECOND  to failing 
+systems that ARE LOCATED WITHIN THE WATERSHED OF A N ITROGEN –IMPAIRED  
+BODY OF WATER , AND THIRD  A MARYLAND CHESAPEAKE BAY 8–DIGIT WATERSHED 
+THAT  HAS A RELATIVE EFFEC TIVENESS FOR TOTAL N ITROGEN REDUCTION OF  9.24  
+OR HIGHER BASED ON T HE CHESAPEAKE BAY WATERSHED MODEL , THIRD TO 
+FAILING SYSTEMS THAT  ARE LOCATED WITHIN T HE 500–YEAR FLOODPLAIN , AND 
+FOURTH  TO FAILING SYSTEMS T HAT the Department determines are a threat to public 
+health or water quality, grants or loans for up to 100% of:  
  
-   (ii) Transfer 40% of the funds to the Maryland Agriculture Water 21 
-Quality Cost Share Program in the De partment of Agriculture in order to fund cover crop 22 
-activities.  23 
+    A. The costs attributable to upgrading an on –site sewage 
+disposal system to the best available technology for the removal of nitrogen;  
  
-  (3) Funding for the costs identified in paragraph (2)(i)1 of this subsection 24 
-shall be provided in the following order of priority:  25 
+Ch. 461  2025 LAWS OF MARYLAND   
  
-   (i) For owners of all levels of income, the costs iden tified in 26 
-paragraph (2)(i)1A and B of this subsection; and  27 
+– 4 –     B. The cost difference between a conventional on –site sewage 
+disposal system and a system that utilizes the best available technology for the removal of 
+nitrogen;  
  
-   (ii) For [low–income ] LOW– AND MODERATE –INCOME  owners, as 28 
-defined by the Department, the costs identified in paragraph (2)(i)1C of this subsection:  29 
+    C. The cost of repairing or replacing a failing on –site sewage 
+disposal system with a sys tem that uses the best available technology for nitrogen removal;  
  
-    1. First, for best available technologies for nitrogen removal; 30 
-and 31 
+    D. The cost, up to the sum of the costs authorized under item 
+B of this item for each individual system, of replacing multiple on –site sewage disposal 
+systems located in the same commun ity with a new community sewerage system that is 
+owned by a local government and that meets enhanced nutrient removal standards; or  
  
-    2. Second, for other wastewater treatment systems.  32 
+    E. The cost, up to the sum of the costs authorized under item 
+C of this item for each individual system, of connecting a property using an on –site sewage 
+disposal system to an existing municipal wastewater facility that is achieving, or has signed 
+a funding agreement with the Department and is under construction to achieve, enhanced 
+nutrient removal or biological nutrient removal level treatment, including payment of the 
+principal, but not interest, of debt issued by a local government for such connection costs;  
  
-  (4) Funding for the costs identified in paragraph (2)(i)1D of this subsection 33 
-may be provided if:  34 
+    2. The reasonable costs of the Department, not to exceed 8% 
+of the funds deposited into the separate account , to: 
  
-6 HOUSE BILL 131   
+    A. Implement an education, outreach, and upgrade program 
+to advise owners of on –site sewage disposal systems and holding tanks on the proper 
+maintenance of the systems and tanks and the availability of grants and loans under item 
+1 of this item;  
  
-    (i) The environmental impact of the on –site sewage dispo sal system 1 
-is documented by the local government and confirmed by the Department;  2 
+    B. Review and approve the design and construction of on –site 
+sewage disposal system or holding tank upgrades;  
  
-   (ii) It can be demonstrated that:  3 
+    C. Issue grants or loans as provided under item 1 of this item; 
+and 
  
-    1. The replacement of the on –site sewage disposal system 4 
-with a new community sewerage system is more cost effective for nitrogen r emoval than 5 
-upgrading each individual on –site sewage disposal system; or  6 
+    D. Provide technical support for owners of upgraded  
+on–site s ewage disposal systems or holding tanks to operate and maintain the upgraded 
+systems;  
  
-    2. The individual replacement of the on –site sewage disposal 7 
-system is not feasible; and  8 
+    3. A portion of the reasonable costs of a local public entity 
+that has been delegated by the Department under § 1 –301(b) of this article to administer 
+and enforce en vironmental laws, not to exceed 10% of the funds deposited into the separate 
+account, to implement regulations adopted by the Department for on –site sewage disposal 
+systems that utilize the best available technology for the removal of nitrogen;  
  
-   (iii) The new community sewerage system will only serve lots that 9 
-have received a cer tificate of occupancy, or equivalent certificate, [on or before October 1, 10 
-2008] AT LEAST 15 YEARS BEFORE JULY 1 OF THE YEAR IN WHICH  THE APPLICATION 11 
-FOR FUNDING IS MADE . 12 
+    4. Subject to paragraph (7) of this subsection, financial 
+assistance to low –income homeowners, as defined by the Department, for up to 50% of the 
+ WES MOORE, Governor  Ch. 461  
  
-  (5) Funding for the costs identified in paragraph (2)(i)1E of this subsection 13 
-may be provided only if all of the following conditions are met:  14 
+– 5 – cost of an operation and maintenance contract of up to 5 years for an on –site sewage 
+disposal system that utilizes n itrogen removal technology;  
  
-   (i) The environmental impact of the on –site sewage disposal system 15 
-is documented by the local government and confirmed by the Department;  16 
+    5. Subject to paragraph (8) of this subsection, a local 
+jurisdiction to provide financial assistance to eligible homeowners for the reasonable cost 
+of pumping out an on –site sewage disposal system, at least once every 5 yea rs, unless a 
+more frequent pump out schedule is recommended during an inspection, not to exceed 10% 
+of the funds allocated to the local jurisdiction; and  
  
-   (ii) It can be demonstrated that:  17 
+    6. In fiscal years 2020 and 2021, financial assistance to a 
+local jurisdiction for the development of a septic stewardship plan that meets the 
+requirements under paragraph (8)(iii)2 of this subsection; and  
  
-    1. The rep lacement of the on –site sewage disposal system 18 
-with service to an existing municipal wastewater facility that is achieving, or has signed a 19 
-funding agreement with the Department and is under construction to achieve, enhanced 20 
-nutrient removal or biological nutrient removal level treatment is more cost –effective for 21 
-nitrogen removal than upgrading the individual on –site sewage disposal system; or  22 
+   (ii) Transfer 40% of the funds to the Maryland Agriculture Water 
+Quality Cost Share Program in the Department of Agriculture in order  to fund cover crop 
+activities.  
  
-    2. The individual replacement of the on –site sewage disposal 23 
-system is not feasible;  24 
+  (3) Funding for the costs identified in paragraph (2)(i)1 of this subsection 
+shall be provided in the following order of priority:  
  
-   (iii) The project is  consistent with the county’s comprehensive plan 25 
-and water and sewer master plan;  26 
+   (i) For owners of all levels of income, the costs identified in 
+paragraph (2)(i)1A and  B of this subsection; and  
  
-   (iv) 1. The on –site sewage disposal system was installed [as of 27 
-October 1, 2008 ] AT LEAST 15 YEARS BEFORE JULY 1 OF THE YEAR IN WHICH  THE 28 
-APPLICATION FOR FUND ING IS MADE , and the property the system serves is located in a 29 
-priority funding area, in accordance with § 5 –7B–02 of the State Finance and Procurement 30 
-Article; or  31 
+   (ii) For [low–income ] LOW– AND MODERATE –INCOME  owners, as 
+defined by the Department, the costs identified in paragraph (2)(i)1C of this subsection:  
  
-    2. The on –site sewage disposal system was installed [as of 32 
-October 1, 2008 ] AT LEAST 15 YEARS BEFO RE JULY 1 OF THE YEAR IN WHICH  THE 33 
-APPLICATION FOR FUND ING IS MADE , the property the system serves is not located in a 34 
- HOUSE BILL 131  7 
+    1. First, for best available technologies for nitrogen removal; 
+and 
  
- priority funding area, and the project meets the requirements under § 5 –7B–06 of the State 1 
-Finance and Procurement Article and is consist ent with a public health area of concern:  2 
+    2. Second, for other wastewater treatment systems.  
  
-    A. Identified in the county water and sewer plan; or  3 
+  (4) Funding for the costs identified in paragraph (2)(i)1D of this subsection 
+may be provided if:  
  
-    B. Certified by a county environmental health director with 4 
-concurrence by the Department and, if funding is approved, subsequently added to the 5 
-county  water and sewer plan within a time frame jointly agreed on by the Department and 6 
-the county that takes into consideration the county’s water and sewer plan update and 7 
-amendment process; and  8 
+   (i) The environmental impact of the on –site sewage disposal system 
+is documented by the local gover nment and confirmed by the Department;  
  
-   (v) The funding agreement for a project that meets the condit ions for 9 
-funding under subparagraph (iv)2 of this paragraph includes provisions to ensure:  10 
+   (ii) It can be demonstrated that:  
  
-    1. Denial of access for any future connections that are not 11 
-included in the project’s proposed service area; and  12 
+    1. The replacement of the on –site sewage disposal system 
+with a new community sewerage system is more cost effective for nitrogen removal than 
+upgrading each individual on –site sewage disposal system; or  
  
-    2. That the project will not unduly impede  access to funding 13 
-for upgrading individual on –site sewage disposal systems in the county with best available 14 
-technology for nitrogen removal.  15 
+    2. The individual replacement of the on –site sewage disposal 
+system is not feasible; and  
  
-Article – State Finance and Procurement  16 
+Ch. 461  2025 LAWS OF MARYLAND   
  
-11–203. 17 
+– 6 –    (iii) The new community sewerage system will only serve lots that 
+have received a certificate of occupancy, or equivalent certif icate, [on or before October 1, 
+2008] AT LEAST 15 YEARS BEFORE JULY 1 OF THE YEAR IN WHICH  THE APPLICATION 
+FOR FUNDING IS MADE . 
  
- (a) Except as provided in subsection (b) of this section, this Division II does not 18 
-apply to:  19 
+  (5) Funding for the costs identified in paragraph (2)(i)1E of this subsection 
+may be provided only if all of the following conditions are met:  
  
-  (1) procurement by:  20 
+   (i) The environmental impact of the on –site sewage disposal system 
+is documented by the local government and confirmed by the Department;  
  
-   (xviii)  the Department of Natural Resources, for negotiating or entering 21 
-into grants, agreements, or partnerships with nonprofit entities related to conservation 22 
-service opportunities; [and] 23 
+   (ii) It can be demonstrated that:  
  
-   (xix) the State Archives for preservation, conservation, proper care, 24 
-restoration, and transportation of fine art or decorative art that is:  25 
+    1. The replacement of the on –site sewage disposal s ystem 
+with service to an existing municipal wastewater facility that is achieving, or has signed a 
+funding agreement with the Department and is under construction to achieve, enhanced 
+nutrient removal or biological nutrient removal level treatment is more cost–effective for 
+nitrogen removal than upgrading the individual on –site sewage disposal system; or  
  
-    1. in the custody of the Commission on Artistic Property; and  26 
+    2. The individual replacement of the on –site sewage disposal 
+system is not feasible;  
  
-    2. owned by or loaned to the State; AND  27 
+   (iii) The project is consistent with the county’s comprehensi ve plan 
+and water and sewer master plan;  
  
-   (XX) THE DEPARTMENT OF THE ENVIRONMENT FOR BEST  28 
-AVAILABLE NITROGEN R EMOVAL TECHNOLOGIES FOR ON–SITE SEWAGE DISPOSAL  29 
-SYSTEMS THAT QUALIFY  FOR FUNDING UNDER § 9–1605( H)(2) OF THE  30 
-ENVIRONMENT ARTICLE , INCLUDING : 31 
+   (iv) 1. The on –site sewage disposal system was installed [as of 
+October 1, 2008 ] AT LEAST 15 YEARS BEFORE JULY 1 OF THE YEAR IN WHICH  THE 
+APPLICATION FOR FUND ING IS MADE , and the property the system serves is lo cated in a 
+priority funding area, in accordance with § 5 –7B–02 of the State Finance and Procurement 
+Article; or  
  
-8 HOUSE BILL 131   
+    2. The on –site sewage disposal system was installed [as of 
+October 1, 2008 ] AT LEAST 15 YEARS BEFORE JULY 1 OF THE YEAR IN WHICH  THE 
+APPLIC ATION FOR FUNDING IS  MADE , the property the system serves is not located in a 
+priority funding area, and the project meets the requirements under § 5 –7B–06 of the State 
+Finance and Procurement Article and is consistent with a public health area of concern:  
  
-     1. REQUESTING INFORMATI ON FROM VENDORS ; 1 
+    A. Identified in the county water and sewer plan; or  
  
-    2. RANKING AND EVALUATI NG BEST AVAILABLE  2 
-TECHNOLOGIES ; AND  3 
+    B. Certified by a county environmental health director with 
+concurrence by the Department and, if funding is approved, subsequently added to the 
+county water and sewer plan within a time frame  jointly agreed on by the Department and 
+the county that takes into consideration the county’s water and sewer plan update and 
+amendment process; and  
  
-    3. ESTABLISHING PERFORM ANCE–BASED FUNDING  4 
-LEVELS AS PROVIDED I N § 9–1108.1  OF THE ENVIRONMENT ARTICLE ; 5 
+ WES MOORE, Governor  Ch. 461  
  
-  (2) procurement by a unit from:  6 
+– 7 –    (v) The funding agreement for a project that meets the conditions for 
+funding under subparagraph (iv)2  of this paragraph includes provisions to ensure:  
  
-   (i) another unit;  7 
+    1. Denial of access for any future connections that are not 
+included in the project’s proposed service area; and  
  
-   (ii) a political subdi vision of the State;  8 
+    2. That the project will not unduly impede access to funding 
+for upgrading individu al on –site sewage disposal systems in the county with best available 
+technology for nitrogen removal.  
  
-   (iii) an agency of a political subdivision of the State;  9 
+Article – State Finance and Procurement  
  
-   (iv) a government, including the government of another state, of the 10 
-United States, or of another country;  11 
+11–203. 
  
-   (v) an agency or political subdivision of a government; or  12 
+ (a) Except as provided in subsection (b) of this section, this Division II does not 
+apply to:  
  
-   (vi) a bistate, multistate, bicounty, or multicounty governmental 13 
-agency; or  14 
+  (1) procurement by:  
  
-  (3) procurement in support of enterprise activities for the purpose of:  15 
+   (xviii)  the Department of Natural Resources, for negotiating or entering 
+into grants, agreements, or partnerships with nonprofit entities related to conservation 
+service opportunities; [and] 
  
-   (i) direct resale; or  16 
+   (xix) the State Archives for preservation , conservation, proper care, 
+restoration, and transportation of fine art or decorative art that is:  
  
-   (ii) remanufacture and subsequent resale.  17 
+    1. in the custody of the Commission on Artistic Property; and  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 18 
-1, 2026.  19 
+    2. owned by or loaned to the State; AND  
  
+   (XX) THE DEPARTMENT OF THE ENVIRONMENT F OR BEST  
+AVAILABLE NITROGEN R EMOVAL TECHNOLOGIES FOR ON–SITE SEWAGE DISPOSAL  
+SYSTEMS THAT QUALIFY  FOR FUNDING UNDER § 9–1605( H)(2) OF THE  
+ENVIRONMENT ARTICLE , INCLUDING : 
  
+    1. REQUESTING INFORMATI ON FROM VENDORS ; 
  
+    2. RANKING AND EVALUATI NG BEST AVAILA BLE 
+TECHNOLOGIES ; AND  
  
+    3. ESTABLISHING PERFORM ANCE–BASED FUNDING  
+LEVELS AS PROVIDED I N § 9–1108.1  OF THE ENVIRONMENT ARTICLE ; 
  
+  (2) procurement by a unit from:  
  
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+   (i) another unit;  
+Ch. 461  2025 LAWS OF MARYLAND   
+ 
+– 8 –  
+   (ii) a political subdivision of the State;  
+ 
+   (iii) an agency of  a political subdivision of the State;  
+ 
+   (iv) a government, including the government of another state, of the 
+United States, or of another country;  
+ 
+   (v) an agency or political subdivision of a government; or  
+ 
+   (vi) a bistate, multistate, bicounty, o r multicounty governmental 
+agency; or  
+ 
+  (3) procurement in support of enterprise activities for the purpose of:  
+ 
+   (i) direct resale; or  
+ 
+   (ii) remanufacture and subsequent resale.  
+ 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect  July 
+1, 2026.  
+ 
+Approved by the Governor, May 13, 2025.  

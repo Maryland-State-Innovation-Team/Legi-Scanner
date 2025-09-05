@@ -1,182 +1,167 @@
+ WES MOORE, Governor  Ch. 607  
  
+– 1 – Chapter 607  
+(Senate Bill 231 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *sb0231*      
-SENATE BILL 231  
-P4, F5    5lr0007  
-  (PRE –FILED)  CF HB 266  
-By: Chair, Finance Committee (By Request – Departmental – Public Employee 
-Relations Board)  
-Requested: October 14, 2024  
-Introduced and read first time: January 8, 2025  
-Assigned to: Finance  
-Committee Report: Favorable with amendments  
-Senate action: Adopted  
-Read second time: January 24, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+State Government – Public Employee Relations Act – Alterations  
  
-AN ACT concerning  1 
+FOR the purpose of repealing the condition that must be met for a certain exclusive 
+representative to meet with a new employee by video or similar technology; providing 
+that a certain employee organization has the right to membership dues deductions 
+until the employee organization ceases to be the exclusive representative of a 
+bargaining unit;  altering certain requirements for the deputy directors appointed by 
+the Public Employee Relations Board; altering certain procedures regarding the 
+timing of exclusive  representation elections; and generally relating to the Public 
+Employee Relations Act.  
  
-State Government – Public Employee Relations Act – Alterations  2 
+BY repealing and reenacting, with amendments,  
+ Article – State Government  
+ Section 22 –207(b)(4), 22–209(d)(1),  22–305, 22 –307, and 22 –405(c)(1)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of repealing the condition that must be met for a certain exclusive 3 
-representative to meet with a new employee by video or similar technology; providing 4 
-that a certain emplo yee organization has the right to membership dues deductions 5 
-until the employee organization ceases to be the exclusive representative of a 6 
-bargaining unit;  altering certain requirements for the deputy directors appointed by 7 
-the Public Employee Relations B oard; altering certain procedures regarding the 8 
-timing of exclusive representation elections; and generally relating to the Public 9 
-Employee Relations Act.  10 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  11 
- Article – State Government  12 
- Section 22 –207(b)(4), 22–209(d)(1),  22–305, 22 –307, and 22 –405(c)(1)  13 
- Annotated Code of Maryland  14 
- (2021 Replacement Volume and 2024 Supplement)  15 
+Article – State Government  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 16 
-That the Laws of Maryland read as follows:  17 
+22–207.  
  
-Article – State Government  18 
+ (b) (4) (i) Except as provided in subparagraph (ii) o f this paragraph, a 
+meeting between the new employee and the exclusive representative shall be in person.  
  
-22–207.  19 
-2 SENATE BILL 231   
+   (ii) An exclusive representative may choose to meet with a new 
+employee by video or similar technology [if public health concerns necessitate that  a 
+meeting be conducted remotely ]. 
  
-  
- (b) (4) (i) Except as provided in subparagraph (ii) of this paragraph, a 1 
-meeting between the new employee and the exclusive representative shall be in person.  2 
+22–209.  
  
-   (ii) An exclusive representative may choose to meet with a new 3 
-employee by video or similar technology [if public health concerns necessitate that a 4 
-meeting be conducted remotely ]. 5 
+ (d) (1) The right of an employee organization to membership dues deduction 
+shall remain in full force and effect until:  
  
-22–209.  6 
+   (i) an employee revokes membership in accordance with a collective 
+bargaining agreeme nt or the membership application;  
  
- (d) (1) The right of an employee organization to membership dues ded uction 7 
-shall remain in full force and effect until:  8 
+Ch. 607  2025 LAWS OF MARYLAND   
  
-   (i) an employee revokes membership in accordance with a collective 9 
-bargaining agreement or the membership application;  10 
+– 2 –    (ii) the employee cancels membership dues deduction under § 2 –403 
+of the State Personnel and Pensions Article; [or] 
  
-   (ii) the employee cancels membership dues deduction under § 2 –403 11 
-of the Stat e Personnel and Pensions Article; [or] 12 
+   (iii) subject to paragraph (2) of this subsection, the employee is no 
+longer employed by the publi c employer ; OR 
  
-   (iii) subject to paragraph (2) of this subsection, the employee is no 13 
-longer employed by the public employer ; OR 14 
+   (IV) THE EMPLOYEE ORGANIZ ATION CEASES TO BE T HE 
+EXCLUSIVE REPRESENTA TIVE OF THE APPLICAB LE BARGAINING UNIT . 
  
-   (IV) THE EMPLOYEE ORGANIZ ATION CEASES TO BE T HE 15 
-EXCLUSIVE REPRESENTA TIVE OF THE APPLICAB LE BARGAINING UNIT . 16 
+22–305.  
  
-22–305.  17 
+ (a) The Board shall appoint [:  
  
- (a) The Board shall appoint [:  18 
+  (1) a deputy director primarily responsible for Executive Branch labor 
+relations;  
  
-  (1) a deputy director primarily responsible for Executive Branch labor 19 
-relations;  20 
+  (2) a deputy director primarily responsible for public school labor relations; 
+and 
  
-  (2) a deputy director primarily responsible for public school labor relations; 21 
-and 22 
+  (3) a deputy director primarily responsible for public higher education 
+labor relations ] UP TO THREE DEPUTY D IRECTORS . 
  
-  (3) a deputy director primarily responsible for public higher education 23 
-labor relations ] UP TO THREE DEPUTY D IRECTORS . 24 
+ (b) The deputy directors:  
  
- (b) The deputy directors:  25 
+  (1) are responsibl e to and serve at the pleasure of the Board;  
  
-  (1) are responsible to and serve at the pleasure of the Board;  26 
+  (2) must have knowledge of and experience with labor issues [and the 
+subject matter area associated with their positions ]; [and] 
  
-  (2) must have knowledge of and experience with labor issues [and the 27 
-subject matter area associated with their positions ]; [and] 28 
+  (3) MUST BE ATTORNEYS WH O: 
  
-  (3) MUST BE ATTORNEYS WH O: 29 
- SENATE BILL 231  3 
+   (I) ARE LICENSED BY THE STATE AT THE TIME OF 
+APPOINTMENT ; OR  
  
-  
-   (I) ARE LICENSED BY THE STATE AT THE TIME OF 1 
-APPOINTMENT ; OR  2 
+   (II) WILL BECOME LICENSED  BY THE STATE WITHIN 12 MONTHS 
+AFTER THE DATE OF AP POINTMENT ; AND 
  
-   (II) WILL BECOME LICENSED  BY THE STATE WITHIN 12 MONTHS 3 
-AFTER THE DATE OF AP POINTMENT ; AND 4 
+  [(3)] (4) are entitled to the salary provided in the State budget.  
  
-  [(3)] (4) are entitled to the salary provided in the State budget.  5 
+22–307. 
  
-22–307. 6 
+ (a) (1) If a party has been charged with engaging in an unfair labor practice, 
+[the appropriate ] A deputy director shall investigate the charge.  
  
- (a) (1) If a party has been charged with engaging in an unfair labor practice, 7 
-[the appropriate ] A deputy director shall investigate the charge.  8 
+ WES MOORE, Governor  Ch. 607  
  
-  (2) If the Board, throu gh the deputy director’s investigation, finds that 9 
-probable cause exists to support the charge of an unfair labor practice, the Board shall:  10 
+– 3 –   (2) If the Board, through the deputy director’s investigation, finds that 
+probable cause exists to support the charge of an unfair labor practice, the Board shall:  
  
-   (i) issue a complaint against the party stated in the charge; and  11 
+   (i) issue a complaint against the party stated in the charge; and  
  
-   (ii) not less than 15 days after issuing the complaint, issue a notice 12 
-of a hearing before the Board or the Office of Administrative Hearings.  13 
+   (ii) not less than 15 days after issuing the complaint, issue a notice 
+of a hearing before the Board or the Office of Administrat ive Hearings.  
  
- (b) The Board may not issue a complaint under subsection (a)(2)(i) of this section 14 
-if the unfair labor practice occurred more than 6 months before the f iling of the charge.  15 
+ (b) The Board may not issue a complaint under subsection (a)(2)(i) of this section 
+if the unfair labor practice occurred more than 6 months before the filing of the charge.  
  
- (c) (1) The deputy directors shall endeavor at all times to seek informal 16 
-resolution of charges or complaints.  17 
+ (c) (1) The deputy directors shall endeavor at all times to seek informal 
+resolution of charges or complaints.  
  
-  (2) The Board and the [appropriate ] deputy [director ] DIRECTORS  shall 18 
-make all practical and reasonable efforts to resolve charges and complaints of unfair labor 19 
-practices in a swift manner.  20 
+  (2) The Board and the [appropriate ] deputy [director ] DIRECTORS  shall 
+make all practical and reasonable efforts to resolve charges and complaints of unfair labor 
+practices in a swift manner.  
  
- (d) For the purposes of examination and the right to copy, the Board and the 21 
-deputy directors shall at all reasonable times ha ve access to evidence of a person being 22 
-investigated or proceeded against that relates to a matter under investigation or in question 23 
-under this section.  24 
+ (d) For the pu rposes of examination and the right to copy, the Board and the 
+deputy directors shall at all reasonable times have access to evidence of a person being 
+investigated or proceeded against that relates to a matter under investigation or in question 
+under this  section.  
  
- (e) (1) If there is a charge of an unfair labor practice resulting from a party’s 25 
-conduct in collect ive bargaining and that is alleged to have an effect on the course of 26 
-collective bargaining:  27 
+ (e) (1) If there is a charge of an unfair labor practice resulting from a party’s 
+conduct in collective bargaining and that is alleged to have an effect on the course of 
+collective bargaining:  
  
-   (i) [the appropriate ] A deputy director shall determine whether 28 
-there is probable cause for the Board to issue a complaint;  29 
+   (i) [the appropriate ] A deputy director shall d etermine whether 
+there is probable cause for the Board to issue a complaint;  
  
-   (ii) if the deputy director det ermines there is probable cause, the 30 
-Board shall issue a complaint within 30 days after the filing of the charge; and  31 
-4 SENATE BILL 231   
+   (ii) if the deputy director determines there is probable cause, the 
+Board shall issue a complaint within 30 days after the filing of the charge; and  
  
-  
-   (iii) if a complaint is issued, the Board shall resolve the complaint 1 
-and issue a final decision within 90 days after the filing of th e charge.  2 
+   (iii) if a complaint i s issued, the Board shall resolve the complaint 
+and issue a final decision within 90 days after the filing of the charge.  
  
-  (2) The Board may accelerate the time to resolve charges and complaints 3 
-in exigent circumstances under regulations adopted by the Board.  4 
+  (2) The Board may accelerate the time to resolve charges and complaints 
+in exigent circumstances under regulations adopted by the B oard.  
  
- (f) The [appropriate ] deputy director shall provide relevant information gathered 5 
-in the investigation o f a charge of unfair labor practices to the Board.  6 
+ (f) The [appropriate ] deputy director shall provide relevant information gathered 
+in the investigation of a charge of unfair labor practices to the Board.  
  
- (g) The charging party has the right to participate in any hearing before the 7 
-Board or the Office of Administrative Hearings.  8 
+ (g) The charging party has the right to participate in any hearing before the 
+Board or the Office of Administrative Hearings.  
  
- (h) The Board shall accept documents filed by e –mail.  9 
+ (h) The Board shall accept documents filed by e –mail.  
+Ch. 607  2025 LAWS OF MARYLAND   
  
-22–405.  10 
+– 4 –  
+22–405.  
  
- (c) (1) (i) The Board shall conduct the election:  11 
+ (c) (1) (i) The Board shall conduct the election:  
  
-    1. by secret ballot; and  12 
+    1. by secret ballot; and  
  
-    2. subject to subparagraph (ii) of this paragraph, in whole or 13 
-in part by in –person voting, mail, or an electronic voting system.  14 
+    2. subject to subparagraph (ii) of this paragraph, in whole or 
+in part by in –person voting, mail, or an electronic voting system.  
  
-   (ii) The Board may designate the time period for in –person voting 15 
-[under subparagraph (iii) of this paragraph ] only after consulting with the public employer 16 
-and employee organizations on the ballot.  17 
+   (ii) The Board may designate the time period for in –person voting 
+[under subparagraph (iii) of this paragraph ] only after consulting with the public employer 
+and employee organizations on the ballot.  
  
-   (iii) 1. The Board shall allow at least 10 days of voting  for an 18 
-election conducted BY MAIL OR AN ELECTR ONIC VOTING  SYSTEM under subparagraph 19 
-(i) of this paragraph, unless an employee organization on the ballot requests an extension.  20 
+   (iii) 1. The Board shall allow at least 10 days of voting for an 
+election conducted BY MAIL OR AN ELECTR ONIC VOTING  SYSTEM under subparagraph 
+(i) of this paragraph, unless an employee organization on the ballot requests an extension.  
  
-    2. If the voting system is inoperable, the Board may extend 21 
-the time perio d for voting.  22 
+    2. If the voting system is inoperable, the Board may extend 
+the time period for voting.  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 23 
-October 1, 2025.  24 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
+Approved by the Governor, May 20, 2025.  

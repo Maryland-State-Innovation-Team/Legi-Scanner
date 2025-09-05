@@ -1,594 +1,556 @@
+ WES MOORE, Governor  Ch. 434  
  
+– 1 – Chapter 434  
+(House Bill 1473 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.  
-         Italics indicate opposite chamber/conference committee amendments.             *hb1473*      
-HOUSE BILL 1473  
-P1   (5lr2792 ) 
-ENROLLED BILL  
-— Health and Government Operations/Education, Energy, and the Environment  — 
-Introduced by Delegates Acevero , Addison, Alston, Amprey, Fair, Fennell, Harris, 
-Hill, Kerr, Lehman, R.  Lewis, Martinez, Mireku –North, Roberson, Ruff, 
-Sample –Hughes, Simmons, Simpson, Smith, Taveras, Turner, Williams, 
-Woods, Woorman, and Young  Young, Bagnall, Bhandari, Cullison, Guzzone , 
-S. Johnson, Kaiser, Lopez, Pena –Melnyk, Rosenberg, Ross, and 
-White  Holland  
- 
-Read and Examined by Proofreaders:  
+AN ACT concerning  
  
-_______________________________________________  
-Proofreader.  
-_______________________________________________  
-Proofreader.  
- 
-Sealed with the G reat Seal and presented to the Governor, for his approval this  
-  
-_______ day of _______________ at ________________________ o’clock, ________M.  
-  
-______________________________________________  
-Speaker .  
+State Government – Equal Access to Public Services for Individuals With 
+Limited English Proficiency and Individuals With Disabilities  
  
-CHAPTER ______  
- 
-AN ACT concerning  1 
- 
-State Government – Equal Access to Public Services for Individuals With 2 
-Limited English Proficiency and Individuals With Disabilities  3 
- 
-FOR the purpose of requiring the Governor’s Office of Immigrant Affairs and the 4 
-Department of Disabilities to convene an advisory group to make findings and 5 
-recommendations on oversight, monitoring, investigation, and enforcement of certain 6 
-provisions of law relating to equa l access to public services for certain individuals;  7 
-altering provisions of law relating to equal access to public services for individuals 8 
-with limited English proficiency to include individuals with disabilities; establishing 9 
-certain requirements for equ al access to public services for certain State 10 
-2 HOUSE BILL 1473   
- 
- departments, agencies, or programs, including developing a language access plan for 1 
-certain individuals; requiring the Governor’s Office of Immigrant Affairs to oversee, 2 
-monitor, investigate, and enforce certa in provisions of law;  requiring certain State 3 
-departments, agencies, and programs to implement certain provisions of law on or 4 
-before certain dates; and generally relating to equal access to public services for 5 
-individuals with limited English proficiency and individuals with disabilities.  6 
+FOR the purpose of requiring the Governor’s Office of Immigrant Affairs and the 
+Department of Disabilities to convene an advisory group to make findings and 
+recommendations on oversight, monitoring, investigation, and enforcement of certain  
+provisions of law relating to equal access to public services for certain individuals;  
+altering provisions of law relating to equal access to public services for individuals 
+with limited English proficiency to include individuals with disabilities; establ ishing 
+certain requirements for equal access to public services for certain State 
+departments, agencies, or programs, including developing a language access plan for 
+certain individuals; requiring the Governor’s Office of Immigrant Affairs to oversee, 
+moni tor, investigate, and enforce certain provisions of law;  requiring certain State 
+departments, agencies, and programs to implement certain provisions of law on or 
+before certain dates; and generally relating to equal access to public services for 
+individuals with limited English proficiency and individuals with disabilities.  
  
-BY repealing and reenacting, without amendments,  7 
- Article – State Government  8 
-Section 9 –3301(a) and (e)  9 
- Annotated Code of Maryland  10 
- (2021 Replacement Volume and 2024 Supplement)  11 
+BY repealing and reenacting, without amendments,  
+ Article – State Government  
+Section 9 –3301(a) and (e)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-BY adding to  12 
- Article – State Governmen t 13 
-Section 9 –3303.1  14 
- Annotated Code of Maryland  15 
- (2021 Replacement Volume and 2024 Supplement)  16 
+BY adding to  
+ Article – State Government  
+Section 9 –3303.1  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  17 
- Article – State Government  18 
-Section 10 –1102 and 10 –1103  19 
- Annotated Code of Maryland  20 
- (2021 Replacement Volume and 2024 Supplement)  21 
+BY repealing and reenacting, with amendments,  
+ Article – State Government  
+Section 10 –1102 and 10 –1103  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-BY adding to  22 
- Article – State Government  23 
- Section 10 –1103.1  24 
- Annotated Code of Maryland  25 
- (2021 Replacement Volume and 2024 Supplement)  26 
+BY adding to  
+ Article – State Government  
+ Section 10 –1103.1  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-Preamble  27 
+Ch. 434  2025 LAWS OF MARYLAND   
  
- WHEREAS, Maryland is a state rich in diverse languages and cultures with more 28 
-than 333,000  residents who identify as having limited English proficiency; and  29 
+– 2 – Preamble  
  
- WHEREAS, More than 670,000 Marylanders live with a disability or identify as 30 
-having limited English proficiency; and  31 
+ WHEREAS, Maryland is a state rich in diverse languages and cultures with more 
+than 333,000 residents who identify as having limited English proficiency; and  
  
- WHEREAS, Limited English proficiency designations are impacted by th e context, 32 
-such as school, courtroom, and online applications, and type of communication, such as 33 
-speaking, writing, and reading; and  34 
+ WHEREAS, More than 670,000 Marylanders live with a disability or identify as 
+having limited English proficiency; and  
  
- WHEREAS, An individual’s primary and preferred language should never be a 35 
-barrier to access public services; and  36 
+ WHEREAS, Limited English proficiency designations are impacted by the context, 
+such  as school, courtroom, and online applications, and type of communication, such as 
+speaking, writing, and reading; and  
  
- HOUSE BILL 1473  3 
+ WHEREAS, An individual’s primary and preferred language should never be a 
+barrier to access public services; and  
  
-  WHERE AS, Certain departments, agencies, and programs in State government have 1 
-a duty to provide meaningful access to programs and services to all Marylanders, including 2 
-individuals with limited English proficiency; and  3 
+ WHEREAS, Certain dep artments, agencies, and programs in State government have 
+a duty to provide meaningful access to programs and services to all Marylanders, including 
+individuals with limited English proficiency; and  
  
- WHEREAS, It is in the interest and obligation of the State to ensure that individuals 4 
-with limited English proficiency are treated with dignity and respect and provided timely 5 
-and effective access to public services; now, therefore,  6 
+ WHEREAS, It is in the interest and obligation of the St ate to ensure that individuals 
+with limited English proficiency are treated with dignity and respect and provided timely 
+and effective access to public services; now, therefore,  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARY LAND, 7 
-That the Laws of Maryland read as follows:  8 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-Article – State Government  9 
+Article – State Government  
  
-9–3301.  10 
+9–3301.  
  
- (a) In this subtitle the following words have the meanings indicated.  11 
+ (a) In this subtitle the following words have the meanings indicated.  
  
- (e) “Office” means the Governor’s Office of Immigrant Affairs.  12 
+ (e) “Office” means the Governor’s Office of Immigrant Affairs.  
  
-9–3303.1.  13 
+9–3303.1.  
  
- (A) ON OR BEFORE JULY 1, 2027,  THE OFFICE SHALL : 14 
+ (A) ON OR BEFORE JULY 1, 2027,  THE OFFICE SHALL : 
  
-  (1) DEVELOP A STRATEGY T O ENFORCE THE REQUIR EMENTS UNDER  15 
-§ 10–1103  OF THIS ARTICLE FOR EACH IDENTIFIED STATE DEPARTMENT , AGENCY , 16 
-OR PROGRAM ; 17 
+  (1) DEVELOP A STRATEGY T O ENFORCE THE REQUIR EMENTS UNDER  
+§ 10–1103  OF THIS ARTICLE FOR EACH IDENTIFIED STATE DEPARTMENT , AGENCY , 
+OR PROGRAM ; 
  
-  (2) OVERSEE , MONITOR , INVESTIGATE , AND ENFORCE COMPLIAN CE 18 
-WITH § 10–1103  OF T HIS ARTICLE FOR EACH  IDENTIFIED STATE DEPARTMENT , 19 
-AGENCY , OR PROGRAM ; 20 
+  (2) OVERSEE , MONITOR , INVESTIGATE , AND ENFORCE COMPLIAN CE 
+WITH § 10–1103  OF THIS ARTICLE FOR EACH IDENTIFIED STATE DEPARTMENT , 
+AGENCY , OR PROGRAM ; 
+ WES MOORE, Governor  Ch. 434  
  
-  (3) DESIGNATE A LANGUAGE  ACCESS COMPLIANCE PR OGRAM  21 
-DIRECTOR ; 22 
+– 3 –  
+  (3) DESIGNATE A LANGUAGE  ACCESS COMPLIANCE PR OGRAM  
+DIRECTOR ; 
  
-  (4) PROVIDE GUIDANCE AND  TECHNICAL ASSISTANCE , IN 23 
-CONSULTATION WITH TH E MARYLAND DEPARTMENT OF DISABILITIES AND THE  24 
-GOVERNOR ’S OFFICE OF THE DEAF AND HARD OF HEARING , ON THE  25 
-DEVELOPMENT AND IMPL EMENTATION OF LANGUA GE ACCESS PLANS AND POLICIES  26 
-TO STATE DEPARTMENTS , AGENCIES , AND PROGRAMS IDENTIF IED UNDER §  27 
-10–1103  OF THIS ARTICLE ; AND  28 
+  (4) PROVIDE GUIDANCE AND  TECHNICAL ASSISTANCE , IN 
+CONSULTATION WITH TH E MARYLAND DEPARTMENT OF DISABILITIES AND THE  
+GOVERNOR ’S OFFICE OF THE DEAF AND HARD OF HEARING , ON THE  
+DEVELOPMENT AND IMPL EMENTATION OF LANGUA GE ACCESS PLANS AND POLICIES  
+TO STATE DEPARTMENTS , AGENCIES , AND PROGRAMS IDENTIF IED UNDER §  
+10–1103  OF THIS ARTICLE ; AND  
  
-  (5) IN PERFORMING THE DU TIES REQ UIRED UNDER THIS  29 
-SUBSECTION , SOLICIT FEEDBACK FRO M STAKEHOLDERS THROU GH PUBLIC  30 
-COMMENT . 31 
+  (5) IN PERFORMING THE DU TIES REQUIRED UNDER THIS  
+SUBSECTION , SOLICIT FEEDBACK FRO M STAKEHOLDERS THROU GH PUBLIC  
+COMMENT . 
  
-4 HOUSE BILL 1473   
+ (B) THE OFFICE MAY DEVELOP AN D UPDATE LANGUAGE AC CESS POLICY  
+AND LANGUAGE ACCESS STANDARD OPERATING P ROCEDURE TEMPLATES F OR A  
+STATE DEPARTMENT , AGENCY , OR PROGRAM IDENTIFIE D UNDER § 10–1103  OF THIS  
+ARTICLE . 
  
-  (B) THE OFFICE MAY DEVELOP AN D UPDATE LANGUAGE AC CESS POLICY  1 
-AND LANGUAGE ACCESS STANDARD OPERATING P ROCEDURE TEMPLATES F OR A  2 
-STATE DEPARTMENT , AGENCY , OR PROGRAM IDENTIFIED UNDER § 10–1103  OF THIS  3 
-ARTICLE . 4 
+ (C) BEGINNING IN FISCAL Y EAR 2027,  THE GOVERNOR SHALL INCLUD E IN 
+THE ANNUAL BUDGET BI LL AN APPROPRIATION OF $400,000  FOR THE OFFICE TO  
+IMPLEMENT THE PROVIS IONS OF THIS SECTION . 
  
- (C) BEGINNING IN FISCAL Y EAR 2027,  THE GOVERNOR SHALL INCLUD E IN 5 
-THE ANNUAL BUDGET BI LL AN APPROPRIATION OF $400,000  FOR THE OFFICE TO  6 
-IMPLEMENT THE PROVIS IONS OF THIS SECTION . 7 
+10–1102.  
  
-10–1102.  8 
+ (a) In this subtitle the following words h ave the meanings indicated.  
  
- (a) In this subtitle the following words have the meanings indicated.  9 
+ (b) (1) “Equal access” means to be informed of, participate in, and benefit from 
+public services offered by a State department, agency, or program, at a level equal to 
+English proficient individuals.  
  
- (b) (1) “Equal access” means to be informed of, participate in, and benefit from 10 
-public services offered by a State department, agency, or program, at a level equal to 11 
-English proficient individuals.  12 
+  (2) “EQUAL ACCESS ” INCLUDES THE ABILITY  TO RECEIVE LANGUAGE 
+ASSISTANCE THAT : 
  
-  (2) “EQUAL ACCESS ” INCLUDES THE ABILITY  TO RECEIVE LANGUAGE 13 
-ASSISTANCE THAT : 14 
+   (I) ENSURES ACCURATE , TIMELY , AND EFFECTIVE 
+COMMUNICATION AT NO COST TO THE INDIVIDU AL; AND 
  
-   (I) ENSURES ACCURATE , TIMELY , AND EFFECTIVE 15 
-COMMUNICATION AT NO COST TO THE INDIVIDU AL; AND 16 
+   (II) IS NOT SIGNIFICANTLY  RESTRICTED , DELAYED , OR OF 
+LOWER QUALITY COMPAR ED TO PROGRAMS OR AC TIVIT IES AVAILABLE TO 
+ENGLISH–PROFICIENT INDIVIDUA LS. 
  
-   (II) IS NOT SIGNIFICANTLY  RESTRICTED , DELAYED , OR OF 17 
-LOWER QUALITY COMPAR ED TO PROGRAMS OR ACTIVITI ES AVAILABLE TO 18 
-ENGLISH–PROFICIENT INDIVIDUA LS. 19 
+ [(c) “Limited English proficiency” means the inability to adequately understand 
+or express oneself in the spoken or written English language. ] 
+Ch. 434  2025 LAWS OF MARYLAND   
  
- [(c) “Limited English proficiency” means the inability to adequately understand 20 
-or express oneself in the spoken or written English language. ] 21 
+– 4 –  
+ (C) “LANGUAGE ACCESS PLAN ” MEANS A WRITTEN DOCU MENT THAT 
+STANDARDIZES THE LAN GUAGE ACCESS COMPLIA NCE POLICY , STANDARD 
+OPERATING PROCEDURE , REPORTING , AND COMPLAINT PROCES S FOR EACH STATE 
+DEPARTMENT , AGENCY , OR PROGRAM . 
  
- (C) “LANGUAGE ACCESS PLAN ” MEANS A WRITTE N DOCUMENT THAT 22 
-STANDARDIZES THE LAN GUAGE ACCESS COMPLIA NCE POLICY , STANDARD 23 
-OPERATING PROCEDURE , REPORTING , AND COMPLAINT PROCES S FOR EACH STATE 24 
-DEPARTMENT , AGENCY , OR PROGRAM . 25 
+ (d) [“Oral language ] “LANGUAGE ASSISTANCE  services” includes various 
+methods to provide verb al information and interpretation such as : 
  
- (d) [“Oral language ] “LANGUAGE ASSISTANCE  services” includes various 26 
-methods  to provide verbal information and interpretation such as : 27 
+  (1) staff interpreters, bilingual staff, telephone interpreter programs, and 
+private interpreter programs ; AND  
  
-  (1) staff interpreters, bilingual staff, telephone interpreter programs, and 28 
-private interpreter programs ; AND  29 
+  (2) SIGN LANGUAGES , BRAILLE , TDD/TT/TTY,  LARGE PRINT , PLAIN 
+LANGUAGE , AND OTHER COMMUNICAT ION AC COMMODATIONS USED BY  
+INDIVIDUALS WITH DIS ABILITIES . 
  
-  (2) SIGN LANGUAGES , BRAILLE , TDD/TT/TTY,  LARGE PRINT , PLAIN 30 
-LANGUAGE , AND OTHER COMMUNICATION ACCOMM ODATIONS USED BY 31 
-INDIVIDUALS WITH DIS ABILITIES . 32 
- HOUSE BILL 1473  5 
+ (E) “LIMITED ENGLISH PROFICIENCY ” MEANS A LIMITED ABIL ITY TO READ , 
+WRITE , SPEAK , OR UNDERSTAND ENGLISH IN A MANNER T HAT ALLOWS EFFECTIVE  
+COMMUNICATION WITH A  STATE DEPARTMENT , AGENCY , OR PROGRAM TO HAVE  
+ACCESS TO AND PARTIC IPATE IN SERVICES , ACTIVITIES , PROGRAMS , OR OTHER 
+BENEFITS ADMINISTERE D BY THE STATE . 
  
-  
- (E) “LIMITED ENGLISH PROFICIENCY ” MEANS A LIMITED ABIL ITY TO READ , 1 
-WRITE , SPEAK , OR UNDERSTAND ENGLISH IN A MANNER T HAT ALLOWS EFFECTIVE  2 
-COMMUNICATION WITH A  STATE DEPARTMENT , AGENCY , OR PROGRAM TO HAVE 3 
-ACCESS TO AND PARTIC IPATE IN SERVICES , ACTIVITIES , PROGRAMS , OR OTHER 4 
-BENEFITS ADMINISTERE D BY THE STATE . 5 
+ [(e)] (F) “Program” means all of the operations of a State department, State 
+agency, or any other instrumentality of the State.  
  
- [(e)] (F) “Program” means all of the operations of a State department, State 6 
-agency, or any other instrumentality of the State.  7 
+ (G) “PUBLIC CONTA CT POSITIONS ” ARE POSITIONS IN A STATE 
+DEPARTMENT , AGENCY , OR PROGRAM FOR WHICH  THE PRIMARY RESPONSI BILITIES 
+INCLUDE GREETING , MEETING , OR PROVIDING INFORMA TION OR SERVICES TO THE 
+PUBLIC . 
  
- (G) “PUBLIC CONTACT POSITI ONS” ARE POSITIONS IN A STATE 8 
-DEPARTMENT , AGENCY , OR PROGRAM FOR WHICH  THE PRIMARY RESPONSI BILITIES 9 
-INCLUDE GREETING , MEETING , OR PROVIDING INFORMA TION OR SERVICES TO THE 10 
-PUBLIC . 11 
+ [(f)] (H) (1) “Vital documents” means all applications or informational 
+materials, notices, and complaint forms offered by State departments, agencies, and 
+programs THAT ARE CRITICAL FO R ACCESSING A STATE DEPARTMENT , AGENCY , OR 
+PROGRAM . 
  
- [(f)] (H) (1) “Vital documents” means all applications or informational 12 
-materials, notices, and complaint forms offered by State departments, agencies, and 13 
-programs THAT ARE CRITICAL FO R ACCESSING A STATE DEPARTMENT , AGENCY , OR 14 
-PROGRAM . 15 
+  (2) “VITAL DOCUMENTS ” INCLUDE : 
  
-  (2) “VITAL DOCUMENTS ” INCLUDE : 16 
+   (I) EMERGENCY PREPAREDNE SS AND RISK COMMUNIC ATIONS ; 
  
-   (I) EMERGENCY PREPAREDNE SS AND RISK COMMUNIC ATIONS ; 17 
+   (II) ONLINE AND PAPER APP LICATIONS ; 
  
-   (II) ONLINE AND PAPER APP LICATIONS ; 18 
+   (III) CONSENT FORMS ; 
  
-   (III) CONSENT FORMS ; 19 
+   (IV) COMPLAINT FORMS ;  
+ WES MOORE, Governor  Ch. 434  
  
-   (IV) COMPLAINT FORMS ;  20 
+– 5 –  
+   (V) ALL CATEGORIES OF LE TTERS OR NOTICES PER TAINING TO 
+THE ELIGIBILITY FOR STATE BENEFITS ; 
  
-   (V) ALL CATEGORIES OF LE TTERS OR NOTICES PER TAINING TO 21 
-THE ELIGIBILITY FOR STATE BENEFITS ; 22 
+   (VI) WRITTEN TESTS EVALUA TING COMPETENCY FOR A LICENSE , 
+JOB, OR SKILL FOR WHICH ENGLISH PROFICIENCY I S NOT REQUIRED ; 
  
-   (VI) WRI TTEN TESTS EVALUATIN G COMPETENCY FOR A L ICENSE , 23 
-JOB, OR SKILL FOR WHICH ENGLISH PROFICIENCY I S NOT REQUIRED ; 24 
+   (VII) DOCUMENTS THAT ARE R EQUIRED BY LAW ; AND 
  
-   (VII) DOCUMENTS THAT ARE R EQUIRED BY LAW ; AND 25 
+   (VIII) NOTICES AT NO COST R EGARDING THE AVAILAB ILITY OF 
+LANGUAGE ASSISTANCE SERVICES FOR I NDIVIDUALS WITH LIMI TED ENGLISH 
+PROFICIENCY . 
  
-   (VIII) NOTICES AT NO COST R EGARDING THE AVAILAB ILITY OF 26 
-LANGUAGE ASSISTANCE SERVICES FOR INDI VIDUALS WITH LIMITED  ENGLISH 27 
-PROFICIENCY . 28 
+  [(2)] (3) “Vital documents” does not include applications and 
+examinations related to the licensure, certification, or registration under the Health 
+Occupations Article, Financial Institutions Article, Busine ss Occupations and Professions 
+Article, and Business Regulation Article within the jurisdiction of the Maryland 
+Department of Health or the Maryland Department of Labor.  
  
-  [(2)] (3) “Vital documents” does not include applications and 29 
-examinations related to the licensure, certification, or registration under the Health 30 
-6 HOUSE BILL 1473   
+10–1103.  
  
- Occupations Article, Financial Institutions Article, Business Occupations and Professions 1 
-Article, and Business Regulation Article within the jurisdiction of the Maryland 2 
-Department of Health or the Maryland Department of Labor.  3 
+ (a) Each State department, agency, or program listed or identified under 
+subsection (c) of this section shall : 
  
-10–1103.  4 
+  (1) SUBJECT TO SUBSECTIO N (B) OF THIS SECTION , DEVELOP A 
+LANGUAGE ACCESS PLAN ; 
  
- (a) Each State department, agency, or program listed or identified under 5 
-subsection (c) of this section shall : 6 
+  (2) take reasonable steps to provide equal access to public services for 
+individuals with limited English proficiency [.] WHO NEED LANGUAGE AS SISTANCE , 
+INCLUDING ANY ORAL , WRITTEN , AND SIGN LANGUAGE SE RVICES NEEDED TO ASSIST  
+INDIVIDUALS WITH LIM ITED ENGLISH PROFICIENCY A ND INDIVIDUALS WITH  
+DISABILITIES TO : 
  
-  (1) SUBJECT TO SUBSECTIO N (B) OF THIS SECTION , DEVELOP A 7 
-LANGUAGE ACCESS PLAN ; 8 
+   (I) COMMUNICATE EFFECTIV ELY WITH STATE PERSONNEL AND  
+CONTRACTORS ; 
  
-  (2) take reasonable steps to provide equal access to public services for 9 
-individuals with limited English proficiency [.] WHO NEED LANGUAGE AS SISTANCE , 10 
-INCLUDING ANY ORAL , WRITTEN , AND SIGN LANGUAGE SE RVICES NEEDED TO ASSIST  11 
-INDIVIDUALS WITH LIM ITED ENGLISH PROFICIENCY A ND INDIVIDUALS WITH  12 
-DISABILITIES TO : 13 
+   (II) GAIN EQUAL ACCESS TO  PUBLIC SERVICES ; AND  
  
-   (I) COMMUNICATE EFFECTIV ELY WITH STATE PERSONNEL AND  14 
-CONTRACTORS ; 15 
+   (III) PROVIDE AN EQUAL OPP ORTUNITY TO PARTICIP ATE IN THE  
+SERVICES , ACTIVITIES , PROGRAMS , OR OTHER BENEFITS PR OVIDED BY A STATE  
+DEPARTMENT , AGENCY , OR PROGRAM ; 
  
-   (II) GAIN EQUAL ACCESS TO  PUBLIC SERVICES ; AND  16 
+  (3) PROVIDE ORAL LANGUAG E ASSISTANCE , INCLUDING  
+INTERPRETATION IN NO N–ENGLISH LANGUAGES PRO VIDED IN PERSON OR  
+Ch. 434  2025 LAWS OF MARYLAND   
  
-   (III) PROVIDE AN EQUAL OPP ORTUNITY TO PARTICIP ATE IN THE  17 
-SERVICES , ACTIVITIES , PROGRAMS , OR OTHER BENEFITS PR OVIDED BY A STATE  18 
-DEPARTMENT , AGENCY , OR PROGRAM ; 19 
+– 6 – REMOTELY BY A QUALIF IED INTERPRETER FOR AN INDIVIDUAL WITH L IMITED  
+ENGLISH PROFICIENCY ; 
  
-  (3) PROVIDE ORAL LANGUAG E ASSISTANCE , INCLUDING  20 
-INTERPRETATION IN NO N–ENGLISH LANGUAGES PRO VIDED IN PERSON OR  21 
-REMOTELY BY A QUALIF IED INTERPRETER FOR AN INDIVIDUAL WITH L IMITED  22 
-ENGLISH PROFICIENCY ; 23 
+  (4) ARRANGE FOR QUALIFIE D BILINGUAL OR MULTI LINGUAL STAFF  
+TO COMMUNICATE DIREC TLY WITH INDIVI DUALS WITH LIMITED ENGLISH  
+PROFICIENCY ;  
  
-  (4) ARRANGE FOR QUALIFIE D BILINGUAL OR MULTI LINGUAL STAFF  24 
-TO COMMUNICATE DIREC TLY WITH INDIVI DUALS WITH LIMITED ENGLISH  25 
-PROFICIENCY ;  26 
+  (5) PROVIDE NOTICES OF T HE LANGUAGE ASSISTAN CE SERVICES  
+THAT ARE AVAILABLE ; AND  
  
-  (5) PROVIDE NOTICES OF T HE LANGUAGE ASSISTAN CE SERVICES  27 
-THAT ARE AVAILABLE ; AND  28 
+ [(b) Reasonable steps to provide equal access to public services include:  
  
- [(b) Reasonable steps to provide equal access to public services include:  29 
+  (1) the provision of oral language services for individuals with limited 
+English proficiency, which must be through face –to–face, in –house oral language services 
+if contact between the agency and individuals with limited English proficiency is on a 
+weekly or more frequent basis; ] 
  
-  (1) the provision of oral language services for indiv iduals with limited 30 
-English proficiency, which must be through face –to–face, in –house oral language services 31 
-if contact between the agency and individuals with limited English proficiency is on a 32 
-weekly or more frequent basis; ] 33 
- HOUSE BILL 1473  7 
+  [(2) (i)] (6) (3) ARRANGE FOR the translation of vital documents 
+ordinarily provided to the public into any language spoken by any limited English proficient 
+population that constitutes [3%] 0.5%  of the [overall ] population [within the geographic 
+area served by a local offi ce of a ] OF THE  State [program ] as measured by the United States 
+Census [; and  
  
-  
-  [(2) (i)] (6) (3) ARRANGE FOR the translation of vital documents 1 
-ordinarily provided to the public into any language spoken by any limited English proficient 2 
-population that constitutes [3%] 0.5%  of the [overall ] population [within the geographic 3 
-area served by a local offi ce of a ] OF THE  State [program ] as measured by the United States 4 
-Census [; and  5 
+   (ii) the provision of vital documents translated under item (i) of this 
+item on a statewide basis to any local office as necessary; and  
  
-   (ii) the provision of vital documents translated under item (i) of this 6 
-item on a statewide basis to any local office as necessary; and  7 
+  (3) any additional methods or means  necessary to achieve equal access to 
+public services ]. 
  
-  (3) any additional methods or means  necessary to achieve equal access to 8 
-public services ]. 9 
+ (B) (1) IN DEVELOPING THE LAN GUAGE ACCESS PLAN RE QUIRED UNDER 
+SUBSECTION (A)(1) OF THIS SECTION , EACH STATE DEPARTMENT , AGENCY , OR 
+PROGRAM SHALL : 
  
- (B) (1) IN DEVELOPING THE LAN GUAGE ACCESS PLAN RE QUIRED UNDER 10 
-SUBSECTION (A)(1) OF THIS SECTION , EACH STATE DEPARTMENT , AGENCY , OR 11 
-PROGRAM SHALL : 12 
+   (I) DETERMINE THE NUMBER  OR PERCENTAGE OF 
+INDIVI DUALS WITH LIMITED ENGLISH PROFICIENCY W HO ARE ELIGIBLE TO B E 
+SERVED BY , OR LIKELY TO HAVE AN  ENCOUNTER WITH , THE STATE DEPARTMENT , 
+AGENCY , OR PROGRAM ; 
  
-   (I) DETERMINE THE NUMBER  OR PERCENTAGE OF 13 
-INDIVI DUALS WITH LIMITED ENGLISH PROFICIENCY W HO ARE ELIGIBLE TO B E 14 
-SERVED BY , OR LIKELY TO HAVE AN  ENCOUNTER WITH , THE STATE DEPARTMENT , 15 
-AGENCY , OR PROGRAM ; 16 
+   (II) ESTIMATE THE FREQUEN CY WITH WHICH INDIVI DUALS 
+WITH LIMITED ENGLISH PROFICIENCY W ILL COME INTO C ONTACT WITH THE STATE 
+DEPARTMENT , AGENCY , OR PROGRAM ; AND 
  
-   (II) ESTIMATE THE FREQUEN CY WITH WHICH INDIVI DUALS 17 
-WITH LIMITED ENGLISH PROFICIENCY W ILL COME INTO C ONTACT WITH THE STATE 18 
-DEPARTMENT , AGENCY , OR PROGRAM ; AND 19 
+   (III) DETERMINE THE LANGUA GE ASSISTANCE RESOUR CES 
+AVAILABLE TO THE STATE DEPARTMENT , AGENCY , OR PROGRAM . 
+ WES MOORE, Governor  Ch. 434  
  
-   (III) DETERMINE THE LANGUA GE ASSISTANCE RESOUR CES 20 
-AVAILABLE TO THE STATE DEPARTMENT , AGENCY , OR PROGRAM . 21 
+– 7 –  
+  (2) EACH STATE DEPARTMENT , AGENCY , OR PROGRAM SHALL 
+UPDATE THE LANGUAGE ACCESS PLAN EV ERY 2 YEARS AND INCLUDE : 
  
-  (2) EACH STATE DEPARTMENT , AGENCY , OR PROGRAM SHALL 22 
-UPDATE THE LANGUAGE ACCESS PLAN EV ERY 2 YEARS AND INCLUDE : 23 
+   (I) THE TYPES AND DESCRI PTIONS OF LANGUAGE A SSISTANCE 
+SERVICES THAT THE STATE DEPARTMENT , AGENCY , OR PROGRAM WILL PROV IDE; 
  
-   (I) THE TYPES AND DESCRI PTIONS OF LANGUAGE A SSISTANCE 24 
-SERVICES THAT THE STATE DEPARTMENT , AGENCY , OR PROGRAM WILL PROV IDE; 25 
+   (II) A LIST OF THE LANGUA GES, INCLUDING DIALECTS , OR 
+FORMS OF COMMUNICATI ON FOR WHICH A STATE DEPART MENT , AGENCY , OR 
+PROGRAM WILL PROVIDE  LANGUAGE ASSISTANCE SERVICES AND THE RAT IONALE 
+FOR SELECTING THE LA NGUAGES , DIALECTS , OR FORMS OF COMMUNIC ATION ; 
  
-   (II) A LIST OF THE LANGUA GES, INCLUDING DIALECTS , OR 26 
-FORMS OF COMMUNICATI ON FOR WHICH A STATE DEPART MENT , AGENCY , OR 27 
-PROGRAM WILL PROVIDE  LANGUAGE ASSISTANCE SERVICES AND THE RAT IONALE 28 
-FOR SELECTING THE LA NGUAGES , DIALECTS , OR FORMS OF COMMUNIC ATION ; 29 
+   (III) AN EVALUATION AND AS SESSMENT OF THE ADEQ UACY OF 
+THE LANGUAGE ASSISTA NCE SERVICES TO BE PROVIDED ; 
  
-   (III) AN EVALUATION AND AS SESSMENT OF THE ADEQ UACY OF 30 
-THE LANGUAGE ASSISTA NCE SERVICES TO BE P ROVIDED ; 31 
+   (IV) A DESCRIPTION AND FR EQUENCY OF TRAINING FOR PUBLIC 
+CONTACT STAFF ON THE  LANGUAGE ACCESS PLAN ; 
  
-8 HOUSE BILL 1473   
+   (V) THE PROCESS FOR FILI NG A COMPLAINT RELAT ED TO A 
+LANGUAGE ASSISTANCE SERVICE ; AND 
  
-    (IV) A DESCRIPTION AND FR EQUENCY OF TRAINING FOR PUBLIC 1 
-CONTACT STAFF ON THE  LANGUAGE ACCESS PLAN ; 2 
+   (VI) A DESCRIPTION OF THE  FUNDING AND BUDGETAR Y 
+SOURCES TO IMPLEMENT T HE LANGUAGE ACCESS P LAN. 
  
-   (V) THE PROCESS FOR FILI NG A COMPLAINT RELAT ED TO A 3 
-LANGUAGE ASSISTANCE SERVICE ; AND 4 
+ (c) (1) The provisions of this section shall be fully implemented according to 
+the following schedule:  
  
-   (VI) A DESCRIPTION OF THE  FUNDING AND BUDGETAR Y 5 
-SOURCES TO  IMPLEMENT THE LANGUA GE ACCESS PLAN . 6 
+  [(1)] (I) ON OR BEFORE JULY 1, 2027,  FULL IMPLEMENTATION BY 
+THE GOVERNOR ’S OFFICE OF IMMIGRANT AFFAIRS ; AND  
  
- (c) (1) The provisions of this section shall be fully implemented according to 7 
-the following schedule:  8 
+   (II) on ON or before July 1, [2003] 2028 , full implementation  THE 
+PROVISIONS OF THIS S ECTION SHALL BE FULL Y IMPLEMENTED  by: 
  
-  [(1)] (I) ON OR BEFORE JULY 1, 2027,  FULL IMPLEMENTATION BY 9 
-THE GOVERNOR ’S OFFICE OF IMMIGRANT AFFAIRS ; AND  10 
+   [(i) the Department of Human Services;  
  
-   (II) on ON or before July 1, [2003] 2028 , full implementation  THE 11 
-PROVISIONS OF THIS S ECTION SHALL BE FULL Y IMPLEMENTED  by: 12 
+   (ii) the Maryland Department of Labor;  
  
-   [(i) the Department of Human Services;  13 
+   (iii) the Maryland Department of Health;  
  
-   (ii) the Maryland Department of Labor;  14 
+   (iv) the Department of Juvenile Services; and  
  
-   (iii) the Maryland Department of Health;  15 
+   (v) the Workers’ Compensation Commission;  
  
-   (iv) the Department of Juvenile Services; and  16 
+  (2) on or before July 1, 2004, full implementation by:  
  
-   (v) the Workers’ Compensation Commission;  17 
+Ch. 434  2025 LAWS OF MARYLAND   
  
-  (2) on or before July 1, 2004, full implementation by:  18 
+– 8 –    (i) the Department of Aging;  
  
-   (i) the Department of Aging;  19 
+   (ii) the Department of Public Safety and Correctional Services;  
  
-   (ii) the Department of Public Safety and Correctional Services;  20 
+   (iii) the Department of Transportation, not including the Maryland 
+Transit Administration;  
  
-   (iii) the Department of Transportation, not including the Maryland 21 
-Transit Administration;  22 
+   (iv) the Commission on Civil Rights;  
  
-   (iv) the Commission on Civil Rights;  23 
+   (v) the Department of State Police; and  
  
-   (v) the Department of State Police; and  24 
+   (vi) five independent agencies, boards, or commissions, to be 
+determined by the Secretary of Human Services, in consultation with the Office of the 
+Attorney General;  
  
-   (vi) five independent agencies, boards, or commissions, to be 25 
-determined by the Secretary of Human Services, in consultation with the Office of the 26 
-Attorney General;  27 
+  (3) on or before July 1, 2005, full implementation by:  
  
-  (3) on or before July 1, 2005, full implementation by:  28 
- HOUSE BILL 1473  9 
+   (i) the Comptroller of Maryland;  
  
-  
-   (i) the Comptroller of Maryland;  1 
+   (ii) the Department of Housing and Community Developm ent; 
  
-   (ii) the Department of Housing and Community Development;  2 
+   (iii) the Maryland Transit Administration;  
  
-   (iii) the Maryland Transit Administration;  3 
+   (iv) the Department of Natural Resources;  
  
-   (iv) the Department of Natural Resources;  4 
+   (v) the Maryland State Department of Education;  
  
-   (v) the Maryland State Department of Education;  5 
+   (vi) the Office of the Attorney General; and  
  
-   (vi) the Office of the Attorney General; and  6 
+   (vii) five independent agencies, boards, or commissio ns to be 
+determined by the Secretary of Human Services, in consultation with the Office of the 
+Attorney General;  
  
-   (vii) five independent agencies, boards, or commissions to be 7 
-determined by the Secretary of Human Services, in consultation with the Office of the 8 
-Attorney General;  9 
+  (4) on or before July 1, 2006, full implementation by:  
  
-  (4) on or before July 1, 2006, full implementation by:  10 
+   (i) the Department of Agriculture;  
  
-   (i) the Department of Agriculture;  11 
+   (ii) the Department of Commerce;  
  
-   (ii) the Department of Commerce;  12 
+   (iii) the Department of Veterans and Military Families;  
  
-   (iii) the Department of Veterans and Military Families;  13 
+   (iv) the Department of the Environment; and  
  
-   (iv) the Department of the Environment; and  14 
+   (v) five independent agencies, boards, or commissions to be 
+determined by the Secretary of Human Services, in consultation with the Office of the 
+Attorne y General; ] 
+ WES MOORE, Governor  Ch. 434  
  
-   (v) five independent agencies, boards, or commissions to be 15 
-determined by the Secretary of Human Services, in consultation with the Office of the 16 
-Attorney General; ] 17 
+– 9 –  
+    1. (I)  THE WORKERS ’ COMPENSATION COMMISSION ; 
  
-    1. (I)  THE WORKERS ’ COMPENSATION COMMISSION ; 18 
+    2. (II)  THE COMMISSION ON CIVIL RIGHTS ; 
  
-    2. (II)  THE COMMISSION ON CIVIL RIGHTS ; 19 
+    3. (III) THE DEPARTMENT OF STATE POLICE ; 
  
-    3. (III) THE DEPARTMENT OF STATE POLICE ; 20 
+    4. (IV) THE COMPTROLLER OF MARYLAND ; 
  
-    4. (IV) THE COMPTROLLER OF MARYLAND ; 21 
+    5. (V)  THE MARYLAND TRANSIT ADMINISTRATION ; 
  
-    5. (V)  THE MARYLAND TRANSIT ADMINISTRATION ; 22 
+    6. (VI) THE STATE DEPARTMENT OF EDUCATION ;  
  
-    6. (VI) THE STATE DEPARTMENT OF EDUCATION ;  23 
+    7. (VII) THE OFFICE OF THE ATTORNEY GENERAL ;  
  
-    7. (VII) THE OFFICE OF THE ATTORNEY GENERAL ;  24 
+    8. (VIII) FIVE INDEPENDENT AGE NCIES , BOARDS , OR 
+COMMISSIONS , TO BE DETERMINED BY THE SECRETARY OF HUMAN SERVICES , IN 
+COLLABORATION WITH T HE OFFICE OF THE ATTOR NEY GENERAL ; AND  
  
-10 HOUSE BILL 1473   
+  [(5)]  9. (IX) [on or before July 1, 2025, full implementation by ] 
+each principal department listed under § 8 –201 of this article [; and]. 
  
-     8. (VIII) FIVE INDEPENDENT AGE NCIES , BOARDS , OR 1 
-COMMISSIONS , TO BE DETERMINED BY THE SECRETARY OF HUMAN SERVICES , IN 2 
-COLLABORATION WITH T HE OFFICE OF THE ATTOR NEY GENERAL ; AND  3 
+  [(6)] (2) [if] IF a principal department is created on or after October 1, 
+[2024] 2028 , the principal department shall comply with the requirements of this section 
+beginning 1 year after the date on which the principal department is created.  
  
-  [(5)]  9. (IX) [on or before July 1, 2025, full implementation by ] 4 
-each principal department listed under § 8 –201 of this article [; and]. 5 
+ (D) ON OR BEFORE SEPTEMBER 30 EACH YEAR , EACH STATE DEPARTMENT , 
+AGENCY , OR PROGRAM IDENTIFIE D UNDER SUBS ECTION (C) OF THIS SECTION SHAL L 
+SUBMIT A REPORT TO T HE GOVERNOR ’S OFFICE OF IMMIGRANT AFFAIRS  
+MARYLAND LANGUAGE ADVISORY GROUP  THAT CONTAINS THE FO LLOWING 
+INFORMATION FOR THE PREVIOUS FISCAL YEAR : 
  
-  [(6)] (2) [if] IF a principal department is created on or after October 1, 6 
-[2024] 2028 , the principal department shall comply with the requirements of this section 7 
-beginning 1 year after the date on which the principal department is created.  8 
+  (1) A SUMMARY OF ALL ACT IVITIES PERFORMED , INCLUDING A  
+SELF–ASSESSMENT AND EXPLA NATION OF ANY UNMET OBJECTIVES ; AND 
  
- (D) ON OR BEFORE SEPTEMBER 30 EACH YEAR , EACH STATE DEPARTMENT , 9 
-AGENCY , OR PROGRAM IDENTIFIE D UNDER SUBS ECTION (C) OF THIS SECTION SHAL L 10 
-SUBMIT A REPORT TO T HE GOVERNOR ’S OFFICE OF IMMIGRANT AFFAIRS  11 
-MARYLAND LANGUAGE ADVISORY GROUP  THAT CONTAINS THE FO LLOWING 12 
-INFORMATION FOR THE PREVIOUS FISCAL YEAR : 13 
+  (2) THE TOTAL NUMBER OF INDIVIDUALS SERVED F ROM THE TOTAL  
+POPULATION SERVED BY  THE STATE DEPARTMENT , AGENCY , OR PROGRAM , 
+DISAGGREGATED BY LAN GUAGE ;  
  
-  (1) A SUMMARY OF ALL ACT IVITIES PERFORMED , INCLUDING A  14 
-SELF–ASSESSMENT AND EXPLA NATION OF ANY UNMET OBJECTIVES ; AND 15 
+  (3) THE NUMBER AND TYPES  OF LANGUAGE ASSISTANCE SERVICES  
+PROVIDED , DISAGGREGATED BY LAN GUAGE ; 
  
-  (2) THE TOTAL NUMBER OF INDIVIDUALS SERVED F ROM THE TOTAL  16 
-POPULATION SERVED BY  THE STATE DEPARTMENT , AGENCY , OR PROGRAM , 17 
-DISAGGREGATED BY LAN GUAGE ;  18 
+Ch. 434  2025 LAWS OF MARYLAND   
  
-  (3) THE NUMBER AND TYPES  OF LANGUAGE ASSISTANCE SERVICES  19 
-PROVIDED , DISAGGREGATED BY LAN GUAGE ; 20 
+– 10 –   (4) THE NAMES OF ALL ORG ANIZATIONS RECEIVING  GRANTS OR  
+CONTRACTS TO PROVIDE  LANGUAGE ASSISTANCE SERVICES FROM THE STATE  
+DEPARTMENT , AGENCY , OR PROGRAM ; 
  
-  (4) THE NAMES OF ALL ORG ANIZATIONS RECEIVING  GRANTS OR  21 
-CONTRACTS TO PROVIDE  LANGUAGE ASSISTANCE SERVICES FROM THE STATE  22 
-DEPARTMENT , AGENCY , OR PROGRAM ; 23 
+  (5) AN ITEMIZED BUDGET F OR LANGUAGE ASSIS TANCE SERVICES  
+EXPENDITURES ;  
  
-  (5) AN ITEMIZED BUDGET F OR LANGUAGE ASSIS TANCE SERVICES  24 
-EXPENDITURES ;  25 
+  (6) A LIST OF QUALIFIED BILINGUAL OR MULTILI NGUAL PERSONNEL  
+EMPLOYED IN PUBLIC C ONTACT POSITIONS BY THE STATE DEPARTMENT , AGENCY , 
+OR PROGRAM ; AND  
  
-  (6) A LIST OF QUALIFIED BILINGUAL OR MULTILI NGUAL PERSONNEL  26 
-EMPLOYED IN PUBLIC C ONTACT POSITIONS BY THE STATE DEPARTMENT , AGENCY , 27 
-OR PROGRAM ; AND  28 
+  (7) THE NUMBER OF LANGUA GE ACCESS COMPLAINTS  RECEIVED , THE 
+CURRENT STATUS  OF THE COMPLAINTS , AND THE STEPS TAKEN TO RESOLVE THE  
+COMPLAINTS  ANY OTHER PERFORMANC E MEASURES REQUIRED BY THE MARYLAND 
+LANGUAGE ADVISORY GROUP . 
  
-  (7) THE NUMBER OF LANGUA GE ACCESS COMPLAINTS  RECEIVED , THE 29 
-CURRENT STATUS  OF THE COMPLAINTS , AND THE STEPS TAKEN TO RESOLVE THE  30 
-COMPLAINTS  ANY OTHER PERFORMANC E MEASURES REQUIRED BY THE MARYLAND 31 
-LANGUAGE ADVISORY GROUP . 32 
+10–1103.1.  
  
-10–1103.1.  33 
- HOUSE BILL 1473  11 
+ (A) IN THIS SECTION , “ADVISORY GROUP” MEANS THE MARYLAND 
+LANGUAGE ADVISORY GROUP . 
  
-  
- (A) IN THIS SECTION , “ADVISORY GROUP” MEANS THE MARYLAND 1 
-LANGUAGE ADVISORY GROUP . 2 
+ (B) ON OR BEFORE JANUARY 1, 2026,  THE OFFICE AND THE DEPARTMENT 
+OF DISABILITIES SHALL CO NVENE THE MARYLAND LANGUAGE ADVISORY GROUP TO 
+MAKE FINDINGS AND RE COMMENDATIONS ON OVE RSIGHT , MONITORING , 
+INVESTIGATION , AND ENFORCEMENT OF T HIS SUBTITL E. 
  
- (B) ON OR BEFORE JANUARY 1, 2026,  THE OFFICE AND THE DEPARTMENT 3 
-OF DISABILITIES SHALL CO NVENE THE MARYLAND LANGUAGE ADVISORY GROUP TO 4 
-MAKE FINDINGS AND RE COMMENDATIONS ON OVE RSIGHT , MONITORING , 5 
-INVESTIGATION , AND ENFORCEMENT OF T HIS SUBTITL E. 6 
+ (C) THE ADVISORY GROUP SHALL INCLUDE : 
  
- (C) THE ADVISOR Y GROUP SHALL INCLUDE : 7 
+  (1) THE DIRECTOR , OR THE DIRECTOR ’S DESIGNEE ; 
  
-  (1) THE DIRECTOR , OR THE DIRECTOR ’S DESIGNEE ; 8 
+  (2) THE DIRECTOR OF THE OFFICE OF THE DEAF AND HARD OF 
+HEARING , OR THE DIRECTOR ’S DESIGNEE ; 
  
-  (2) THE DIRECTOR OF THE OFFICE OF THE DEAF AND HARD OF 9 
-HEARING , OR THE DIRECTOR ’S DESIGNEE ; 10 
+  (3) THE SECRETARY OF DISABILITIES , OR THE SECRETARY ’S 
+DESIGNEE ; 
  
-  (3) THE SECRETARY OF DISABILITIES , OR THE SECRETARY ’S 11 
-DESIGNEE ; 12 
+  (4) THE SECR ETARY OF LABOR , OR THE SECRETARY ’S DESIGNEE ; 
  
-  (4) THE SECRETARY O F LABOR , OR THE SECRETARY ’S DESIGNEE ; 13 
+  (5) THE SECRETARY OF HUMAN SERVICES , OR THE SECRETARY ’S 
+DESIGNEE ; 
  
-  (5) THE SECRETARY OF HUMAN SERVICES , OR THE SECRETARY ’S 14 
-DESIGNEE ; 15 
+  (6) THE SECRETARY OF HEALTH , OR THE SECRETARY ’S DESIGNEE ; 
  
-  (6) THE SECRETARY OF HEALTH , OR THE SECRETARY ’S DESIGNEE ; 16 
+ WES MOORE, Governor  Ch. 434  
  
-  (7) THE SECRETARY OF INFORMATION TECHNOLOGY , OR THE 17 
-SECRETARY ’S DESIGNEE ; AND  18 
+– 11 –   (7) THE SECRETARY OF INFORMATION TECHNOLOGY , OR THE 
+SECRETARY ’S DESIGNEE ; AND  
  
-  (8) THE STATE SUPERINTENDENT OF SCHOOLS , OR THE STATE 19 
-SUPERINTENDENT ’S DESIGNEE . 20 
+  (8) THE STATE SUPERINTENDENT OF SCHOOLS , OR THE STATE 
+SUPERINTENDENT ’S DESIGNEE . 
  
- (D) THE DIRECTOR OR THE DIRECTOR ’S DESIGNEE AND THE SECRETARY OF 21 
-DISABILITIES OR THE SECRETARY ’S DESIGNEE ARE THE C O–CHAIRS OF THE 22 
-ADVISORY GROUP . 23 
+ (D) THE DIRECTOR OR THE DIRECTOR ’S DESIGNEE AND THE SECRETARY OF 
+DISABILITIES OR THE SECRETARY ’S DESIGNEE ARE THE C O–CHAIRS OF THE 
+ADVISORY GROUP . 
  
- (E) THE STAFFING RESPONSIBILITIES SHA LL BE SHARED BY THE OFFICE 24 
-AND THE DEPARTMENT OF DISABILITIES . 25 
+ (E) THE STAFFING RESPONSIBILITIES SHA LL BE SHARED BY THE OFFICE 
+AND THE DEPARTMENT OF DISABILITIES . 
  
- (F) THE ADVISORY GROUP SHALL MEET AT L EAST TWICE EACH YEAR . 26 
+ (F) THE ADVISORY GROUP SHALL MEET AT L EAST TWICE EACH YEAR . 
  
- (G) (1) THE ADVISORY GROUP MAY ESTABLISH W ORKGROUPS AS 27 
-NECESSARY TO COMPLET E THE DUTIES OF THE ADVISORY GROUP . 28 
+ (G) (1) THE ADVISORY GROUP MAY ESTABLISH W ORKGROUPS AS 
+NECESSARY TO COMPLET E THE DUTIES OF THE ADVISORY GROUP . 
  
-12 HOUSE BILL 1473   
+  (2) A WORKGROUP ESTABLISHE D UNDER PARAGRAPH (1) OF THIS 
+SUBSECTION MAY INCLU DE MEMBERS THAT ARE NOT LISTED UNDER SUB SECTION (C) 
+OF THIS SECTION . 
  
-   (2) A WORKGROUP ESTABLISHE D UNDER PARAGRAPH (1) OF THIS 1 
-SUBSECTION MAY INCLU DE MEMBERS THAT ARE NOT LISTED UNDER SUB SECTION (C) 2 
-OF THIS SECTION . 3 
+ (H) ON OR BEFORE JULY 1 EACH YEAR , THE ADVISORY GROUP SHALL : 
  
- (H) ON OR BEFORE JULY 1 EACH YEAR , THE ADVISORY GROUP SHALL : 4 
+  (1) IN CONSULTATION WITH  THE APPROPRIATE  STATE AND LOCAL 
+AGENCIES AND COMMUNI TY ORGANIZATIONS : 
  
-  (1) IN CONSULTATION WITH  THE APPROPRIATE  STATE AND LOCAL 5 
-AGENCIES AND COMMUNI TY ORGANIZATIONS : 6 
+   (I) REVIEW ANY LANGUAGE ACCESS PLANS , AS DEFINED IN §  
+10–1102  OF THIS SUBTITLE , DEVELOPED BY STATE DEPARTMENTS , AGENCIES , AND 
+PROGRAMS TO DEVELOP A TEMPLATE LANGUAGE ACCESS PLAN ; 
  
-   (I) REVIEW ANY LANGUAGE ACCESS PLANS , AS DEFINED IN §  7 
-10–1102  OF THIS SUBTITLE , DEVELOPED BY STATE DEPARTMENTS , AGENCIES , AND 8 
-PROGRAMS TO DEVELOP A TEMPLATE LANGUAGE ACCESS PLAN ; 9 
+   (II) REVIEW L AWS AND BEST PRACTIC ES OF LOCAL 
+JURISDICTIONS AND OT HER STATES RELATING TO LANGUAGE ACCESS ; 
  
-   (II) REVIEW L AWS AND BEST PRACTIC ES OF LOCAL 10 
-JURISDICTIONS AND OT HER STATES RELATING TO LANGUAGE ACCESS ; 11 
+   (III) DEVELOP A TEMPLATE L ANGUAGE ACCESS PLAN , AS 
+DEFINED IN § 10–1102  OF THIS SUBTITLE , FOR STATE DEPARTMENTS , AGENCIES , OR 
+PROGRAMS ; 
  
-   (III) DEVELOP A TEMPLATE L ANGUAGE ACCESS PLAN , AS 12 
-DEFINED IN § 10–1102  OF THIS SUBTITLE , FOR STATE DEPARTMENTS , AGENCIES , OR 13 
-PROGRAMS ; 14 
+   (IV) DEVELOP A TEMPLATE LANGUAGE AC CESS POLICY AND 
+TEMPLATE LANGUAGE AC CESS STANDARD OPERAT ING PROCEDURE FOR STATE 
+DEPARTMENTS , AGENCIES , OR PROGRAMS ; 
  
-   (IV) DEVELOP A TEMPLATE LANGUAGE AC CESS POLICY AND 15 
-TEMPLATE LANGUAGE AC CESS STANDARD OPERAT ING PROCEDURE FOR STATE 16 
-DEPARTMENTS , AGENCIES , OR PROGRAMS ; 17 
+Ch. 434  2025 LAWS OF MARYLAND   
  
-   (V) RECOMMEND AT LEAST O NE STATE DEPARTMENT , AGENCY , 18 
-OR PROGRAM TO PERFOR M OVERSIGHT , MONITORING , INVESTIGATION , AND  19 
-ENFORCEMENT OF THIS SUBTITLE ; 20 
+– 12 –    (V) RECOMMEND AT LEAST O NE STATE DEPARTMENT , AGENCY , 
+OR PROGRAM TO PERFOR M OVERSIGHT , MONITORING , INVESTIGATION , AND  
+ENFORCEMENT OF THIS SUBTITLE ; 
  
-   (VI) ESTABLISH A FRAMEWOR K TO ASSESS IF STATE 21 
-DEPARTMENTS , AGENCIES , AND PROGRAMS ARE IN COMPLIANCE WITH § 10–1103  OF 22 
-THIS SUBTITLE ; AND  23 
+   (VI) ESTABLISH A FRAMEWOR K TO ASSESS IF STATE 
+DEPARTMENTS , AGENCIES , AND PROGRAMS ARE IN COMPLIANCE WITH § 10–1103  OF 
+THIS SUBTITLE ; AND  
  
-   (VII) SOLICIT INPUT FROM T HE STAKEHOLDERS IDEN TIFIED 24 
-UNDER ITEM (2) OF THIS SUBS ECTION ;  25 
+   (VII) SOLICIT INPUT FROM T HE STAKEHOLDERS IDEN TIFIED 
+UNDER ITEM (2) OF THIS SUBS ECTION ;  
  
-  (2) SOLICIT INPUT FROM : 26 
+  (2) SOLICIT INPUT FROM : 
  
-   (I) LEGAL AND SOCIAL SER VICES ORGANIZATIONS THAT 27 
-PROVIDE SERVICES TO INDIVIDUALS WITH LIM ITED ENGLISH PROFICIENCY , AS 28 
-DEFINED IN § 10–1102  OF THIS SUBTITLE ; 29 
+   (I) LEGAL AND SOCIAL SER VICES ORGANIZATIONS THAT 
+PROVIDE SERVICES TO INDIVIDUALS WITH LIM ITED ENGLISH PROFICIENCY , AS 
+DEFINED IN § 10–1102  OF THIS SUBTITLE ; 
  
-   (II) LEGAL AND SOCIAL SER VICES ORGANIZATIONS THAT 30 
-PROVI DE SERVICES TO INDIV IDUALS WITH DISABILI TIES; 31 
+   (II) LEGAL AND SOCIAL SER VICES ORGANIZATIONS THAT 
+PROVI DE SERVICES TO INDIV IDUALS WITH DISABILI TIES; 
  
- HOUSE BILL 1473  13 
+   (III) DISABILITY RIGHTS AD VOCACY ORGANIZATIONS ; 
  
-    (III) DISABILITY RIGHTS AD VOCACY ORGANIZATIONS ; 1 
+   (IV) IMMIGRANTS ’ RIGHTS ADVOCACY ORGA NIZATIONS ; 
  
-   (IV) IMMIGRANTS ’ RIGHTS ADVOCACY ORGA NIZATIONS ; 2 
+   (V) INDIVIDUALS WITH LIV ED EXPERIENCE WITH L IMITED 
+ENGLISH PROFICIENCY , AS DEFINED IN § 10–1102  OF THIS SUBTITLE , SIGN 
+LANGUAGE , VISUAL DISABILITIES , OR OTHER COMMUNICATI ON DISABILITIES ; AND  
  
-   (V) INDIVIDUALS WITH LIV ED EXPERIENCE WITH L IMITED 3 
-ENGLISH PROFICIENCY , AS DEFINED IN § 10–1102  OF THIS SUBTITLE , SIGN 4 
-LANGUAGE , VISUAL DISABILITIES , OR OTHER COMMUNICATI ON DISABILITIES ; AND  5 
+   (VI) OTHER RELEVANT STAKE HOLDERS . 
  
-   (VI) OTHER RELEVANT STAKE HOLDERS . 6 
+ (I) (1) ON OR BEFORE JUNE 1 EACH YEAR , THE ADVISORY GROUP SHALL 
+SUBMIT AN ANNUAL REP ORT TO THE GENERAL ASSEMBLY , IN ACCORDANCE WITH § 
+2–1257  OF THIS ARTICLE . 
  
- (I) (1) ON OR BEFORE JUNE 1 EACH YEAR , THE ADVISORY GROUP SHALL 7 
-SUBMIT AN ANNUAL REP ORT TO THE GENERAL ASSEMBLY , IN ACCORDANCE WITH § 8 
-2–1257  OF THIS ARTICLE . 9 
+  (2) THE REPORT SHALL INCL UDE: 
  
-  (2) THE REPORT SHALL INCL UDE: 10 
+   (I) A DESCRIPTION OF THE  WORK OF THE ADVISORY GROUP ; 
+AND  
  
-   (I) A DESCRIPTION OF THE  WORK OF THE ADVISORY GROUP ; 11 
-AND  12 
+   (II) ANY RECOMMENDATIONS OF T HE ADVISORY GROUP .  
  
-   (II) ANY RECOMMENDATIONS OF THE ADVISORY GROUP .  13 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 14 
-October 1, 2025.  15 
+ WES MOORE, Governor  Ch. 434  
  
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+– 13 – Approved by the Governor, May 13, 2025.  

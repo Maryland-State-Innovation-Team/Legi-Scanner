@@ -1,360 +1,336 @@
+ WES MOORE, Governor  Ch. 468  
  
+– 1 – Chapter 468  
+(House Bill 1082 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb1082*      
-HOUSE BILL 1082  
-J5   5lr2604  
-      
-By: Delegates Pena –Melnyk, Cullison, and White  Holland  White  Holland, Alston,  
-Bagnall, Bhandari, Guzzone, Hill, S. Johnson, Kaiser, Kerr, Lopez, 
-Martinez, Rosenberg, Ross, Taveras,  Woods, and Woorman  
-Introduced and read first time: February 5, 2025  
-Assigned to: Health and Government Operations  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: February 27, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Health Insurance – Individual Market Stabilization – Establishment of the 
+State–Based Health Insurance Subsidies Program  
  
-AN ACT concerning  1 
+FOR the purpose of establishing the State –Based Health Insurance Subsidies Program to 
+provide subsidies to individuals in the State to mitigate the impact of a reduction in 
+certain federal advance premium tax credits in a certain calendar year years ; 
+requi ring the Maryland Health Benefit Exchange to implement the Program under 
+certain circumstances; and generally relating to the individual health insurance 
+market.  
  
-Health Insurance – Individual Market Stabilization – Establishment of the 2 
-State–Based Health Insurance Subsidies Program  3 
+BY repealing and reenacting, with amendments,  
+ Article – Insurance  
+Section 31 –107 
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of establishing the State –Based Health Insurance Subsidies Program to 4 
-provide subsidies to individuals in the State to mitigate the impact of a reduction in 5 
-certain federal advance premium tax credits in a certain calendar year years ; 6 
-requiring the Maryland Health Benefit Exchange to implement the Program under 7 
-certain circumstances; and generally relating to the individual health insurance 8 
-market.  9 
+BY adding to  
+ Article – Insurance  
+Section 31 –125 
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  10 
- Article – Insurance  11 
-Section 31 –107 12 
- Annotated Code of Maryland  13 
- (2017 Replacement Volume and 2024 Supplement)  14 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MAR YLAND, 
+That the Laws of Maryland read as follows:  
  
-BY adding to  15 
- Article – Insurance  16 
-Section 31 –125 17 
- Annotated Code of Maryland  18 
- (2017 Replacement Volume and 2024 Supplement)  19 
+Article – Insurance  
  
-2 HOUSE BILL 1082   
+31–107. 
  
-  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 1 
-That the Laws of Maryland read as follows:  2 
+ (a) There is a Maryland Health Benefit Exchange Fund.  
  
-Article – Insurance  3 
+ (b) (1) The purpose of the Fund is to:  
  
-31–107. 4 
+   (i) provide funding for the operation and administration of the 
+Exchange in  carrying out the purposes of the Exchange under this subtitle;  
  
- (a) There is a Maryland Health Benefit Exchange Fund.  5 
+   (ii) provide funding for the establishment and operation of the State 
+Reinsurance Program authorized under this subtitle;  
  
- (b) (1) The purpose of the Fund is to:  6 
+   (iii) provide funding for the Medical Assistance Program and the 
+Senior Prescription Drug Assistance Program;  
+Ch. 468  2025 LAWS OF MARYLAND   
  
-   (i) provide funding for the operation and administration of the 7 
-Exchange  in carrying out the purposes of the Exchange under this subtitle;  8 
+– 2 –  
+   (iv) provide funding for the establishment and operation of Health 
+Equity Resource Communities under Title 20, Subtitle 14 of the Health – General Article; 
+[and] 
  
-   (ii) provide funding for the establishment and operation of the State 9 
-Reinsurance Program authorized under this subtitle;  10 
+   (v) provide funding for the establish ment and operation of the 
+State–Based Young Adult Health Insurance Subsidies Pilot Program authorized under this 
+subtitle ; AND  
  
-   (iii) provide funding for the Medical Assistance Program an d the 11 
-Senior Prescription Drug Assistance Program;  12 
+   (VI) PROVIDE FUNDING FOR THE ESTABLISHMENT OF   
+STATE–BASED HEALTH INSURAN CE SUBSIDIES TO MITI GATE THE IMPACT OF A  
+REDUCTION I N FEDERAL ADVANCE PR EMIUM TAX CREDITS UN DER 26 U.S.C.  § 
+36B( B)(3)(A)( III). 
  
-   (iv) provide funding for the establishment and operation of Health 13 
-Equity Resource Communities under Title 20, Subtitle 14 of the Health – General Article; 14 
-[and] 15 
+  (2) The operation and administration of the Exchange, the State 
+Reinsurance Program, the State –Based Young Adult Health Insurance Subsidies Pilot 
+Program, and the Qualified Resid ent Enrollment Program may include functions delegated 
+by the Exchange to a third party under law or by contract.  
  
-   (v) provide funding for the establi shment and operation of the 16 
-State–Based Young Adult Health Insurance Subsidies Pilot Program authorized under this 17 
-subtitle ; AND  18 
+ (c) The Exchange shall administer the Fund.  
  
-   (VI) PROVIDE FUNDING FOR THE ESTABLISHMENT OF   19 
-STATE–BASED HEALTH INSURAN CE SUBSIDIES TO MITI GATE THE IMPACT OF A  20 
-REDUCTION  IN FEDERAL ADVANCE P REMIUM TAX CREDITS U NDER 26 U.S.C.  § 21 
-36B( B)(3)(A)( III). 22 
+ (d) (1) The Fund is a special, nonlapsing fund that is not subject to § 7 –302 of 
+the State Fin ance and Procurement Article.  
  
-  (2) The operation and administration of the Exchange, the State 23 
-Reinsurance Program, the State –Based Young Adult Health Insurance Subsidies Pilot 24 
-Program, and the Qualified Res ident Enrollment Program may include functions delegated 25 
-by the Exchange to a third party under law or by contract.  26 
+  (2) The State Treasurer shall hold the Fund separately, and the 
+Comptroller shall account for the Fund.  
  
- (c) The Exchange shall administer the Fund.  27 
+ (e) The Fund consists of:  
  
- (d) (1) The Fund is a special, nonlapsing fund that is not subject to § 7 –302 of 28 
-the State Finance and Procurement Article.  29 
+  (1) any user fees or other assessments collected by the Exchange;  
  
-  (2) The State Treasurer shall hold the Fund separately, and the 30 
-Comptroller shall account for the Fund.  31 
+  (2) all revenue dep osited into the Fund that is received from the 
+distribution of the premium tax under § 6 –103.2 of this article;  
  
- HOUSE BILL 1082  3 
+  (3) income from investments made on behalf of the Fund;  
  
-  (e) The Fund consists of:  1 
+  (4) interest on deposits or investments of money in the Fund;  
  
-  (1) any user fees or other assessments collected by the Exchange;  2 
+  (5) money collected by the Board as a result of legal or other actions taken 
+by the Board on behalf of the Exchange or the Fund;  
  
-  (2) all revenue deposited into the Fund that is received from the 3 
-distribution of the premium tax under § 6 –103.2 of this article;  4 
+  (6) money donated to the Fund;  
  
-  (3) income from investments made on behalf of the Fund;  5 
+  (7) money awarded to the Fund through grants;  
  
-  (4) interest on deposits or investments of money in the Fund;  6 
+ WES MOORE, Governor  Ch. 468  
  
-  (5) money coll ected by the Board as a result of legal or other actions taken 7 
-by the Board on behalf of the Exchange or the Fund;  8 
+– 3 –   (8) any pass –through funds received from the federal government under a 
+waiver approved under § 1332 of the Affordable Care Act;  
  
-  (6) money donated to the Fund;  9 
+  (9) any funds designated by the federal government to provide reinsurance 
+to carriers that offer individual health benefit plans in the State;  
  
-  (7) money awarded to the Fund through grants;  10 
+  (10) any funds designat ed by the State to provide reinsurance to carriers 
+that offer individual health benefit plans in the State;  
  
-  (8) any pass –through funds received from the federal go vernment under a 11 
-waiver approved under § 1332 of the Affordable Care Act;  12 
+  (11) any funds designated by the State to provide State –based health 
+insurance subsidies to young adults in the State;  
  
-  (9) any funds designated by the federal government to provide reinsurance 13 
-to carriers that offer individual health benefit plans in the State;  14 
+  (12) ANY FUNDS DESIGNAT ED BY THE STATE TO PROVIDE  
+STATE–BASED HEALTH INSURAN CE SUBSIDIES TO INDI VIDUALS IN THE STATE TO 
+MITIGATE THE IMPACT OF A REDUCTION IN FE DERAL ADVANCE PREMIU M TAX 
+CREDITS UNDER 26 U.S.C.  § 36B( B)(3)(A)( III); 
  
-  (10) any funds designated by the State to provide reinsurance to carriers 15 
-that offer individual health benefit plans in the State;  16 
+  [(12)] (13)  any federal funds received in ac cordance with § 31 –121 of this 
+subtitle for the administration of small business tax credits; and  
  
-  (11) any funds designated by the State to provide State –based health 17 
-insurance subsidies to young adults in the State;  18 
+  [(13)] (14)  any other money from any other source accepted for the benefit 
+of the Fund.  
  
-  (12) ANY FUNDS DESIGNATED  BY THE STATE TO PROVIDE  19 
-STATE–BASED HEALTH INSURAN CE SUBSIDIES TO INDI VIDUALS IN THE STATE TO 20 
-MITIGATE THE IMPACT OF A REDUCTION IN FE DERAL ADVANCE PREMIU M TAX 21 
-CREDITS UNDER 26 U.S.C.  § 36B( B)(3)(A)( III); 22 
+ (f) (1) The Fund may be used only:  
  
-  [(12)] (13)  any federal fu nds received in accordance with § 31 –121 of this 23 
-subtitle for the administration of small business tax credits; and  24 
+   (i) 1. for the operation a nd administration of the Exchange in 
+carrying out the purposes authorized under this subtitle;  
  
-  [(13)] (14)  any other money from any other source accepted for the benefit 25 
-of the Fund.  26 
+    2. for the establishment and operation of the State 
+Reinsurance Program; and  
  
- (f) (1) The Fund may be used only:  27 
+    3. for appropriations to the Health Equity Resource 
+Community Reserve Fund  under § 20 –1407 of the Health – General Article;  
  
-   (i) 1. for the operation and administration of the Exchange in 28 
-carrying out the purposes authorized under this subtitle;  29 
+   (ii) in fiscal years 2021 and 2022, for the Medical Assistance 
+Program within the Medical Care Programs Administration of the Maryland Department 
+of Health;  
  
-4 HOUSE BILL 1082   
+   (iii) in fiscal year 2022, for the Senior Prescription Drug Assistance 
+Program established under Title 15, Subtitle 10 of the Health – General Article; [and] 
  
-     2. for the establishment and operation of the State 1 
-Reinsurance Program; and  2 
+   (iv) for the establishment and operation of the State –Based Young 
+Adult Health Insurance Subsidies P ilot Program ; AND  
  
-    3. for appropriations to the Health Equity Resource 3 
-Comm unity Reserve Fund under § 20 –1407 of the Health – General Article;  4 
+   (V) IN FISCAL YEARS 2026  AND 2027  THROUGH 2028 , FOR THE 
+ESTABLISHMENT OF STATE–BASED HEALTH INSURAN CE SUBSIDIES TO MITI GATE 
+Ch. 468  2025 LAWS OF MARYLAND   
  
-   (ii) in fiscal years 2021 and 2022, for the Medical Assistance 5 
-Program within the Medical Care Programs Administration of the Maryland Department 6 
-of Health;  7 
+– 4 – THE IMPACT OF A REDU CTION IN FEDERAL ADV ANCE PREMIUM TAX CRE DITS UNDER 
+26 U.S.C.  § 36B( B)(3)(A)( III). 
  
-   (iii) in fiscal year 20 22, for the Senior Prescription Drug Assistance 8 
-Program established under Title 15, Subtitle 10 of the Health – General Article; [and] 9 
+  (2) In each of fiscal years 2023 through 2025, the Governor shall:  
  
-   (iv) for the establishment and operation of the State –Based Young 10 
-Adult Health Insurance Subsidies Pilot Program ; AND  11 
+   (i) transfer $15,000,000 to the Health Equity Resource Community 
+Reserve Fund; and  
  
-   (V) IN FISCAL YEARS 2026  AND 2027  THROUGH 2028 , FOR THE 12 
-ESTABLISHMENT OF STATE–BASED HEALTH INSURAN CE SUBSIDIES TO MITI GATE 13 
-THE IMPACT OF A REDU CTION IN FEDERAL ADV ANCE PREMIUM TAX CRE DITS UNDER 14 
-26 U.S.C.  § 36B( B)(3)(A)( III). 15 
+   (ii) include the funds transferred in accordance with item (i) of this 
+paragraph in the annual budget bill as an appropriation to the Health Equity Resource 
+Community Reserve Fund under § 20 –1407 of the Health – General Article.  
  
-  (2) In each of fiscal years 2023 through 2025, the Governor shall:  16 
+ (g) (1) The Board shall maintain separate accounts within the Fund for 
+Exchange operations, for the State Reinsurance Program, and for the State –Based Young 
+Adult Health Insurance Subsidies Pilot Program.  
  
-   (i) transfer $15,000,000 to the Health Equity Resource Community 17 
-Reserve Fund; and  18 
+  (2) Accounts within the Fund shall contain the money that is intended to 
+support the purpose for which each account is designated.  
  
-   (ii) include the funds transferred in accordance with item (i) of this 19 
-paragraph in the annual budget bill as an appropriation to the Health Equity Resource 20 
-Community Reserve Fund under § 20 –1407 of the Health – General Article.  21 
+  (3) Funds received from the distribution of the premium tax under §  
+6–103.2 of this article shall be placed in the account for Exchange operations and may be 
+used only for the purpose of funding the operation and administration of the Exchange.  
  
- (g) (1) The Board shall maintain separate accounts within the Fund for 22 
-Exchange operations, for the State Reinsurance Program, and for the  State–Based Young 23 
-Adult Health Insurance Subsidies Pilot Program.  24 
+  (4) The following funds may be used only for the  purposes of funding the 
+State Reinsurance Program:  
  
-  (2) Accounts within the Fund shall contain the money that is intended to 25 
-support the purpose for which each account is designated.  26 
+   (i) any pass –through funds received from the federal government 
+under a waiver approved under § 1332 of the Affordable Care Act to provide reinsurance to 
+carriers that offer individual health benefit plans in the State;  
  
-  (3) Funds received from the distribution of the prem ium tax under §  27 
-6–103.2 of this article shall be placed in the account for Exchange operations and may be 28 
-used only for the purpose of funding the operation and administration of the Exchange.  29 
+   (ii) any funds designated by the federal government to provide 
+reinsurance to carriers that offer individual health benefit plans in the State; AND  
  
-  (4) The following funds may be used only for the purposes o f funding the 30 
-State Reinsurance Program:  31 
+   (iii) any funds designated by the State to provide reinsurance to 
+carriers that offer individual health benefit plans in the State [; and  
  
- HOUSE BILL 1082  5 
+   (iv) except as provided in subsection (f) of this section, funds received 
+from the distribution of the assessment under § 6 –102.1 of this article ]. 
  
-    (i) any pass –through funds received from the federal government 1 
-under a waiver approved under § 1332 of the Affordable Care Act to provide reinsurance to 2 
-carriers that offer individual health benefit plans in th e State;  3 
+  (5) EXCEPT AS PROVIDED IN  SUBSECTION (F) OF THIS SECTION , 
+FUNDS RECEIVED FROM THE DISTRIBUTION OF THE ASSESSMENT UNDER  § 6–102.1  
+OF THIS ARTICLE MAY BE USED ONLY FOR PUR POSES OF FUNDING THE  STATE 
+REINSURANCE PROGRAM AND THE STATE–BASED HEALTH INSURANCE SUBSIDIES 
+PROGRAM . 
  
-   (ii) any funds designated by the federal government to provide 4 
-reinsurance to carriers that offer individual health benefit plans in the State; AND  5 
+ WES MOORE, Governor  Ch. 468  
  
-   (iii) any funds designated by the State to provide reinsurance to 6 
-carriers that offer indiv idual health benefit plans in the State [; and  7 
+– 5 –  (h) (1) Expenditures from the Fund for the purposes authorized by this 
+subtitle may be made only:  
  
-   (iv) except as provided in subsection (f) of this section, funds received 8 
-from the distribution of the assessment under § 6 –102.1 of this article ]. 9 
+   (i) with an appropriation from the Fund approved by the General 
+Assembly in the State budget; or  
  
-  (5) EXCEPT AS PROVIDED IN  SUBSECTION (F) OF THIS SECTIO N, 10 
-FUNDS RECEIVED FROM THE DISTRIBUTION OF THE ASSESSMENT UNDER  § 6–102.1  11 
-OF THIS ARTICLE MAY BE USED ONLY FOR PUR POSES OF FUNDING THE  STATE 12 
-REINSURANCE PROGRAM AND THE STATE–BASED HEALTH INSURANCE SUBSIDIES 13 
-PROGRAM . 14 
+   (ii) by the budget amendment procedure provided for in Title 7, 
+Subtitle 2 of t he State Finance and Procurement Article.  
  
- (h) (1) Expenditures from the Fund fo r the purposes authorized by this 15 
-subtitle may be made only:  16 
+  (2) Notwithstanding § 7 –304 of the State Finance and Procurement Article, 
+if the amount of the distribution from the premium tax under § 6 –103.2 of this article 
+exceeds in any State fiscal year the actual expend itures incurred for the operation and 
+administration of the Exchange, funds in the Exchange operations account from the 
+premium tax that remain unspent at the end of the State fiscal year shall revert to the 
+General Fund of the State.  
  
-   (i) with an appropriation from the Fund approved by the General 17 
-Assembly in the State budget; or  18 
+  (3) If operating e xpenses of the Exchange may be charged to either State 
+or non–State fund sources, the non –State funds shall be charged before State funds are 
+charged.  
  
-   (ii) by the budget amendment procedure provided for in Title 7, 19 
-Subtitle 2 of the State Fi nance and Procurement Article.  20 
+ (i) (1) The State Treasurer shall invest the money of the Fund in the same 
+manner as other State money may be invested.  
  
-  (2) Notwithstanding § 7 –304 of the State Finance and Procurement Article, 21 
-if the amount of the distribution from the premium tax under § 6 –103.2 of this article 22 
-exceeds in any State fiscal year the actual expenditures incurred for the operation and 23 
-administration of the Exchange, funds in the Exchange operations account from the 24 
-premium tax that remain unspent at the end of the State fiscal year shall revert to the 25 
-General Fund of the State.  26 
+  (2) Any investment earnings of the Fund shall be credited to the Fund.  
  
-  (3) If operating expenses  of the Exchange may be charged to either State 27 
-or non–State fund sources, the non –State funds shall be charged before State funds are 28 
-charged.  29 
+  (3) Except as provided in subsection (h)(2) of this section, no part of the 
+Fund may revert or be credited to the General Fund or any special fund of the State.  
  
- (i) (1) The State Treasurer shall invest the money of the Fund in the same 30 
-manner as other State money may be invested.  31 
+ (j) A debt or an obligation of the Fund is not a debt of the State or a pledge of 
+credit of the State.  
  
-  (2) Any investment earnings of the Fund shall be credited to the Fund.  32 
+31–125. 
  
-  (3) Except as provided in subsection (h)(2) of this section, no part of the 33 
-Fund may revert or be credited to the General Fund or any special fund of the State.  34 
-6 HOUSE BILL 1082   
+ (A) IN THIS SECTION , “PROGRAM ” MEANS THE STATE–BASED HEALTH 
+INSURANCE SUBSIDIES PROGRAM . 
  
-  
- (j) A debt or an obligation of the Fund is not a debt of the State or a pledge of 1 
-credit of the State.  2 
+ (B) THE EXCHANGE , IN CONSULTATION WITH  THE COMMISSIONER AND AS 
+APPROVED BY THE BOARD , SHALL ESTABLISH AND IMPLEMENT A STATE–BASED 
+HEALTH INSURANCE SUBSIDIES PROGRAM TO PROVIDE SU BSIDIES TO INDIVIDUA LS 
+FOR THE PURCHASE OF HEALTH BENEFIT PLANS  IN THE INDIVIDUAL HE ALTH 
+INSURANCE MARKET . 
  
-31–125. 3 
+ (C) THE PROG RAM REQUIRED UNDER T HIS SECTION SHALL BE  DESIGNED 
+TO: 
  
- (A) IN THIS SECTION , “PROGRAM ” MEANS THE STATE–BASED HEALTH 4 
-INSURANCE SUBSIDIES PROGRAM . 5 
+Ch. 468  2025 LAWS OF MARYLAND   
  
- (B) THE EXCHANGE , IN CONSULTATION WITH  THE COMMISSIONER A ND AS 6 
-APPROVED BY THE BOARD , SHALL ESTABLISH AND IMPLEMENT A STATE–BASED 7 
-HEALTH INSURANCE SUBSIDIES PROGRAM TO PROVIDE SU BSIDIES TO INDIVIDUA LS 8 
-FOR THE PURCHASE OF HEALTH BENEFIT PLANS  IN THE INDIVIDUAL HE ALTH 9 
-INSURANCE MARKET . 10 
+– 6 –   (1) MAINTAIN AFFORDABILI TY FOR INDIVIDUALS P URCHASING 
+HEALTH BENEFIT PLANS  THROUGH THE EXCHANGE ; AND 
  
- (C) THE PROGRAM REQUIRED U NDER THIS SECTION SH ALL BE DESIGNED 11 
-TO: 12 
+  (2) TARGET INDIVIDUALS W HO EXPERIENCE AN INC REASE IN THE 
+APPLICABLE PERCENTAG ES ESTABLISHED UNDER  26 U.S.C.  § 36B( B)(3)(A)( III) 
+FOR PREMIUMS BASED O N HOUSEHOLD INCOME I N CALENDAR YEAR 2026  YEARS 
+2026  AND 2027 , AS COMPARED TO THE A PPLICABLE PERCENTAGE S IN PLACE  FOR 
+CALENDAR YEAR 2025.  
  
-  (1) MAINTAIN AFFORDABILI TY FOR INDIVIDUALS P URCHASING 13 
-HEALTH BENEFIT PLANS  THROUGH THE EXCHANGE ; AND 14 
+ (D) SUBJECT TO AVAILABLE FUNDS , FOR CALENDAR YEAR 2026  YEARS 2026  
+AND 2027 , THE EXCHANGE , IN CONSULTATION WITH  THE COMMISSIONER AND AS 
+APPROVED BY THE BOARD , SHALL ESTABLISH SUBS IDY ELIGIBILITY AND PAYMENT 
+PARAMETERS FOR THE PROG RAM THAT : 
  
-  (2) TARGET INDIVIDUALS W HO EXPERIENCE AN INC REASE IN THE 15 
-APPLICABLE PERCENTAG ES ESTABLISHED UNDER  26 U.S.C.  § 36B( B)(3)(A)( III) 16 
-FOR PREMIUMS BASED O N HOUSEHOLD INCOME I N CALENDAR YEAR 2026  YEARS 17 
-2026  AND 2027 , AS COMPARED TO THE A PPLICABLE PERCENTAGE S IN PLACE FOR 18 
-CALENDAR YEAR 2025.  19 
+  (1) MITIGATE A REDUCTION  IN ADVANCE PREMIUM T AX CREDITS 
+BECAUSE OF CHANGES I N THE APPLICABLE PER CENTAGES DESCRIBED I N 
+SUBSECTION (C)(2) OF THIS SECTION ; AND  
  
- (D) SUBJECT TO AVAILABLE FUNDS , FOR CALENDAR YEAR 2026  YEARS 2026  20 
-AND 2027 , THE EXCHANGE , IN CONSULTATION WITH  THE COMMISSIONER AND AS 21 
-APPROVED BY THE BOARD , SHALL ESTABLISH SUBS IDY ELIGIBILITY AND PAYMENT 22 
-PARAMETERS FOR THE PROGRAM THAT : 23 
+  (2) MAXIMIZE ENROLLMENT IN THE INDIVIDUAL MA RKET ; 
  
-  (1) MITIGATE A REDUCTION  IN ADVANCE PREMIUM T AX CREDITS 24 
-BECAUSE OF CHANGES I N THE APPLICABLE PER CENTAGES DESCRIBED I N 25 
-SUBSECTION (C)(2) OF THIS SECTION ; AND  26 
+  (3) TAKE INTO CONSIDERAT ION STATE FUNDS NEEDED TO ENSURE 
+THE STATE REINSURANCE PROGRAM CONTINUES TO PROVIDE MARKET STABI LITY 
+THROUGH CALENDAR YEA R 2028;  AND 
  
-  (2) MAXIMIZE ENROLLMENT IN THE INDIVIDUAL MA RKET ; 27 
+  (4) TAKE INTO CONSIDERAT ION UNCERTAINTIES IN  ENROLLMENT IN 
+THE MARYLAND MEDICAL ASSISTANCE PROGRAM , THE INDIVIDUAL MARKE T, AND  
+THE SMALL GROUP MARK ET DUE TO CHANGES IN  STATE AND FEDERAL REG ULATION 
+AND FUNDING . 
  
-  (3) TAKE INTO CONSIDERAT ION STATE FUNDS NEEDED TO ENSURE 28 
-THE STATE REINSURANCE PROGRAM CONTINUES TO PROVIDE MARKET STABI LITY 29 
-THROUGH CALENDAR YEA R 2028;  AND 30 
+ (E) IN FISCAL YEARS 2026  AND 2027  THROUGH 2028 , THE EXCHANGE MAY 
+DESIGNATE FUNDS FROM  THE FUND TO BE USED FOR T HE PROGRAM . 
  
-  (4) TAKE INTO CONSIDERAT ION UNCERTAINTIES IN  ENROLLMENT IN 31 
-THE MARYLAND MEDICAL ASSISTANCE PROGRAM , THE INDIVIDUAL MARKE T, AND 32 
- HOUSE BILL 1082  7 
+ (F) THE EXCHANGE SHALL ADOPT REGULATIONS TO C ARRY OUT THIS 
+SECTION . 
  
- THE SMALL GROUP MARKET DUE TO CHANGE S IN STATE AND FEDERAL REG ULATION 1 
-AND FUNDING . 2 
+ (G) (1) THE EXCHANGE SHALL TRACK ON A MONTHLY BASIS 
+EXPENDITURES ON SUBS IDIES PROVIDED UNDER  THE PROGRAM , INCLUDING : 
  
- (E) IN FISCAL YEARS 2026  AND 2027  THROUGH 2028 , THE EXCHANGE MAY 3 
-DESIGNATE FUNDS FROM  THE FUND TO BE USED FOR T HE PROGRAM . 4 
+   (I) THE AVERAGE NUMBER O F INDIVIDUALS RECEIV ING 
+SUBSIDIES UNDER THE PROGRAM ; 
  
- (F) THE EXCHANGE SHALL ADOPT REGULATIONS TO CARRY  OUT THIS 5 
-SEC TION . 6 
+   (II) THE AVERAGE SUBSIDY AMOU NT RECEIVED BY 
+INDIVIDUALS UNDER TH E PROGRAM ; AND 
+ WES MOORE, Governor  Ch. 468  
  
- (G) (1) THE EXCHANGE SHALL TRACK ON A MONTHLY BASIS 7 
-EXPENDITURES ON SUBS IDIES PROVIDED UNDER  THE PROGRAM , INCLUDING : 8 
+– 7 –  
+   (III) THE IMPACT THE PROGRAM HAS ON RATES IN THE 
+INDIVIDUAL INSURANCE  MARKET . 
  
-   (I) THE AVERAGE NUMBER O F INDIVIDUALS RECEIV ING 9 
-SUBSIDIES UNDER THE PROGRAM ; 10 
+  (2) THE INFORMATION TRACK ED BY THE EXCHANGE UNDER 
+PARAGRAPH (1) OF THIS SUBSECTION S HALL BE : 
  
-   (II) THE AVERAGE SUBSIDY AMOUNT RECEIVED BY 11 
-INDIVIDUALS UNDER THE PROGRAM ; AND 12 
+   (I) POSTED ON THE WEBSITE OF THE EXCHANGE ; AND 
  
-   (III) THE IMPACT THE PROGRAM HAS ON RATES IN THE 13 
-INDIVIDUAL INSURANCE  MARKET . 14 
+   (II) INCLUDED IN THE ANNU AL REPORT REQUIRED U NDER §  
+31–119( D) OF THIS SUBTITLE . 
  
-  (2) THE INFORMATION TRACK ED BY THE EXCHANGE UNDER 15 
-PARAGRAPH (1) OF THIS SUBSECTION S HALL BE : 16 
+ SECTION 2. AND BE IT FURTHER ENACTED, That:  
  
-   (I) POSTED ON THE WEBSIT E OF THE EXCHANGE ; AND 17 
+ (a) Section 1 of this Act is contingent on the federal government eliminating or 
+significantly  reducing advanced premium tax credits under 26 U.S.C. § 36B(b)(3)(A)(iii) and 
+the Maryland Health Benefit Exchange Board and the Insurance Commissioner 
+determining that the elimination or reduction in advanced premium tax credits will cause 
+an increase of  at least 15% in average premiums net of federal advance premium tax credits 
+in the individual market in the State.  
  
-   (II) INCLUDED IN THE ANNU AL REPORT REQUIRED U NDER §  18 
-31–119( D) OF THIS SUBTITLE . 19 
+ (b) Within 5 days after making the determination described in subsection (a) of 
+this section, the Exchange and the Commissioner shall noti fy the Department of Legislative 
+Services.  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That:  20 
+ (c) If notice is received by the Department of Legislative Services in accordance 
+with subsection (b) of this section on or before July 1, 2026, Section 1 of this Act shall take 
+effect on the date the notice is received by the Department of Legislative Services. It shall 
+remain effective through July 1, 2027, and, at the end of July 1, 2027, with no further action 
+required by the General Assembly, shall be abrogated and of no further force and effect.  
  
- (a) Section 1 of this Act is contingent on the federal government eliminating or 21 
-significantly reducing advanced premium tax credits under 26 U.S.C. § 36B(b)(3)(A)(iii) and 22 
-the Maryland Health Benefit Exchange Board and the Insurance Commissioner 23 
-determining that the elimination or reduction in advanced premium tax credits will cause 24 
-an increase of at least 15% in average premiums net of federal advance premium tax credits 25 
-in the individual market in the State.  26 
+ (d) If no tice is not received by the Department of Legislative Services on or before 
+July 1, 2026, Section 1 of this Act, with no further action required by the General Assembly, 
+shall be null and void.  
  
- (b) Within 5 days after making the determination described in subsection (a) of 27 
-this section, the Exchange and the Commissioner shall notify the Dep artment of Legislative 28 
-Services.  29 
+ (a) If the advance premium tax credits under 26 U.S.C. § 36B (b)(3)(A)(iii) are 
+extended for calendar years 2026 and 2027, Section 1 of this Act shall, with no further 
+action required by the General Assembly, be abrogated and of no further force and effect.  
  
- (c) If notice is received by the Department of Legislative Services in accordance 30 
-with subsection (b) of this section on or before July 1, 2026, Section 1 of this Act shall take 31 
-effect on the date the notice is received b y the Department of Legislative Services. It shall 32 
-8 HOUSE BILL 1082   
+ (b) Within 5 days of a change in federal law as described  in subsection (a) of this 
+section, the Maryland Health Benefit Exchange Board and the Maryland Insurance 
+Commissioner shall notify the Department of Legislative Services of the change.  
  
- remain effective through July 1, 2027, and, at the end of July 1, 2027, with no further action 1 
-required by the General Assembly, shall be abrogated and of no further force and effect.  2 
+ SECTION 3. AND BE IT FURTHER ENACTED, That , subject to Section 2 of  this 
+Act, this Act shall take effect July June  1, 2025. Subject to Section 2 of this Act, this Act 
+shall remain effective for a period of 3 years and 1 month and, at the end of June 30, 2028, 
+Ch. 468  2025 LAWS OF MARYLAND   
  
- (d) If notice is no t received by the Department of Legislative Services on or before 3 
-July 1, 2026, Section 1 of this Act, with no further action required by the General Assembly, 4 
-shall be null and void.  5 
+– 8 – this Act, with no further action required by the General Assemb ly, shall be abrogated and 
+of no further force and effect.   
  
- (a) If the advance premium tax credits under 26 U.S.C. § 36B(b)(3)(A)( iii) are 6 
-extended for calendar years 2026 and 2027, Section 1 of this Act shall, with no further 7 
-action required by the General Assembly, be abrogated and of no further force and effect.  8 
- 
- (b) Within 5 days of a change in federal law as described in subsection (a) of this 9 
-section, the Maryland Health Benefit Exchange Board and the Maryland Insurance 10 
-Commissioner shall notify the Department of Legislative Services of the change.  11 
- 
- SECTION 3. AND  BE IT FURTHER ENACTED, That , subject to Section 2 of this 12 
-Act, this Act shall take effect July June  1, 2025. Subject to Section 2 of this Act, this Act 13 
-shall remain effective for a period of 3 years and 1 month and, at the end of June 30, 2028, 14 
-this Act, with no further action required by the General Assembly, shall be abrogated and 15 
-of no further force and effect.   16 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 13, 2025.  

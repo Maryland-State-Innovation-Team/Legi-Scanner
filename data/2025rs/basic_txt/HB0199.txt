@@ -1,121 +1,94 @@
+ WES MOORE, Governor  Ch. 280  
  
+– 1 – Chapter 280  
+(House Bill 199 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0199*      
-HOUSE BILL 199  
-G1   5lr0170  
-  (PRE–FILED)  CF SB 257  
-By: Chair, Ways and Means Committee (By Request – Departmental – State Board 
-of Elections)  
-Requested: September 18, 2024  
-Introduced and read first time: January 8, 2025  
-Assigned to: Ways and Means  
-Committee Report: Favorable  
-House action: Adopted  
-Read second time: February 11, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Election Law – Notice to Permanent Absentee Voters  
  
-AN ACT concerning  1 
+FOR the purpose of altering the time before an election when a certain notice is required 
+to be sent to each voter who is on the permanent absentee ballot list; repealing a 
+requirement that the notice be sent to each voter who is on the permanent absentee 
+ballot list as of a certain date; altering the action the State Board of Elections is 
+required to take if the State Board is unable to contact a voter who is on the 
+permanent absentee ballot list using the method of communication chosen by the 
+voter; and g enerally relating to permanent absentee voters.    
  
-Election Law – Notice to Permanent Absentee Voters  2 
+BY repealing and reenacting, without amendments,  
+ Article – Election Law  
+Section 9 –311.1(d)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of altering the time before an election when a certain notice is required 3 
-to be sent to each voter who is on the permanent absentee ballot list; repealing a 4 
-requirement that the notice be sent to each voter who is on the permanent absentee 5 
-ballot list as of a certain date; altering the action the State Board of Elections is 6 
-required to take if the State Board is unable to contact a voter who is on the 7 
-permanent absentee ballot list using the method of communicati on chosen by the 8 
-voter; and generally relating to permanent absentee voters.    9 
+BY repealing and reenacting, with amendments,  
+ Article – Election Law  
+ Section 9 –311.1(g)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  10 
- Article – Election Law  11 
-Section 9 –311.1(d)  12 
- Annotated Code of Maryland  13 
- (2022 Replacement Volume and 2024 Supplement)  14 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY re pealing and reenacting, with amendments,  15 
- Article – Election Law  16 
- Section 9 –311.1(g)  17 
- Annotated Code of Maryland  18 
- (2022 Replacement Volume and 2024 Supplement)  19 
+Article – Electio n Law  
  
-2 HOUSE BILL 199   
+9–311.1.  
  
-  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 1 
-That the Laws of Maryland read a s follows:  2 
+ (d) A voter shall specify in an absentee ballot application submitted in accordance 
+with subsection (b) of this section:  
  
-Article – Election Law  3 
+  (1) one of the following methods by which the voter chooses to receive an 
+absentee ballot:  
  
-9–311.1.  4 
+   (i) mail;  
  
- (d) A voter shall specify in an absentee ballot application submitted in accordance 5 
-with subsection (b) of this section:  6 
+   (ii) facsimile transmission; or  
  
-  (1) one of the following methods by which the voter chooses to receive an 7 
-absentee ballot:  8 
+   (iii) the Internet; and  
  
-   (i) mail;  9 
+Ch. 280  2025 LAWS OF MARYLAND   
  
-   (ii) facsimile transmission; or  10 
+– 2 –   (2) one of the following methods by which the voter chooses to be contacted 
+by the State Board under subsection (g) of this section before each election:  
  
-   (iii) the Internet; and  11 
+   (i) nonforwardable mail;  
  
-  (2) one of the following methods by which the voter chooses to be contacted 12 
-by the State Board under subsection (g) of this section before each election:  13 
+   (ii) e–mail; or  
  
-   (i) nonfo rwardable mail;  14 
+   (iii) text message.  
  
-   (ii) e–mail; or  15 
+ (g) (1) [Not less than 75 ] DURING THE PERIOD BEG INNING 120 DAYS 
+BEFORE AN ELECTION A ND ENDING 90 days before [the day on which a local board begins 
+to send absentee ballots to voters ] THE ELECTION , the State Board shall send a written 
+communication to each voter who is on the permanent absentee ballot list [as of a date that 
+is at least 90 days before the upcoming election ] using the method chosen by the voter 
+under subsection (d)(2) of this sectio n. 
  
-   (iii) text message.  16 
+  (2) The communication required under paragraph (1) of this subsection 
+shall include:  
  
- (g) (1) [Not less than 75 ] DURING THE PERIOD BEG INNING 120 DAYS 17 
-BEFORE AN ELECTION A ND ENDING 90 days before [the day on which a local board begins 18 
-to send absentee ballots to voters ] THE ELECTION , the State Board shall send a written 19 
-communication to each voter who is on the permanent absentee ballot list [as of a date that 20 
-is at least 90 days before the upcoming election ] using the method chosen by the voter 21 
-under subsection (d)(2) o f this section.  22 
+   (i) confirmation that the voter is included on the permanent 
+absentee ballot list;  
  
-  (2) The communication required under paragraph (1) of this subsection 23 
-shall include:  24 
+   (ii) the address of the voter;  
  
-   (i) confirmation that the voter is included on the permanent 25 
-absentee ballot list;  26 
+   (iii) the method by which the voter has  chosen to receive an absentee 
+ballot; and  
  
-   (ii) the address of the voter;  27 
+   (iv) a statement that the voter must notify the local board if any of 
+the changes listed in subsection (j) of this section have occurred.  
  
-   (iii) the method by which the voter has chosen to receive an absentee 28 
-ballot; and  29 
+  (3) If the State Board is unable to contact a voter using the method  of 
+communication chosen by the voter under subsection (d)(2) of this section, the State Board 
+shall [send the written communication ] ATTEMPT TO CONTACT T HE VOTER  using 
+another method [if the State Board has other contact information for the voter ]. 
  
- HOUSE BILL 199  3 
+  (4) If the communication required under paragraph (1) of this subsection 
+is sent by mail, the envelope shall include a statement, prominently placed, requesting that 
+the recipient return the communication to the State Board if the intended recipient no 
+longer  lives at that address.  
  
-    (iv) a statement that the voter must notify the local board if any of 1 
-the changes listed in subsection (j) of this section have occurred.  2 
+ SECTION 2. AND BE IT FURTHER ENACTED, that this Act shall take effect July 
+1, 2025.  
  
-  (3) If the State Board is unable to contact a voter usi ng the method of 3 
-communication chosen by the voter under subsection (d)(2) of this section, the State Board 4 
-shall [send the written communication ] ATTEMPT TO CONTACT T HE VOTER  using 5 
-another method [if the State Board has other contact information for the v oter]. 6 
- 
-  (4) If the communication required under paragraph (1) of this subsection 7 
-is sent by mail, the envelope shall include a statement, prominently placed, requesting that 8 
-the recipient return the communication to the State Board if the intended recipi ent no 9 
-longer lives at that address.  10 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, that this Act shall take effect July 11 
-1, 2025.  12 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 6, 2025.  

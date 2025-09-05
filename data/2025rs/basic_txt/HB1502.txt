@@ -1,318 +1,295 @@
+ WES MOORE, Governor  Ch. 758  
  
+– 1 – Chapter 758  
+(House Bill 1502 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb1502*      
-HOUSE BILL 1502  
-J1   5lr3585  
-    CF 5lr3586  
-By: Delegate Wells (By Request – Baltimore City Administration)  
-Introduced and read first time: February 14, 2025  
-Assigned to: Rules and Executive Nominations  
-Re–referred to: Health and Government Operations, February 25, 2025  
-Committee Report: Favorable  
-House action: Adopted  
-Read second time: March 6, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Baltimore City – AIDS  Prevention Sterile Needle and Syringe  Exchange Pilot  
+Program  – Revisions  
  
-AN ACT concerning  1 
+FOR the purpose of renaming the AIDS Prevention Sterile Needle and Syringe Exchange 
+Pilot Program to be the HIV Prevention Syringe Services Program; altering the 
+duties of the Program, the Director of the Program , and the Baltimore City Health 
+Department  regarding the Program; altering the membership  and duties  of the 
+Program’s oversight committee; altering the immunity provided to Program staff and 
+participants;  and generally relating to the AIDS Prevention Sterile Needle and 
+Syringe Exchange Pilot Progr am. 
  
-Baltimore City – AIDS  Prevention Sterile Needle and Syringe  Exchange Pilot  2 
-Program  – Revisions  3 
+BY repealing and reenacting, without amendments,  
+ Article – Health – General  
+Section 24 –801(a)  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of renaming the AIDS Prevention Sterile Needle and Syringe Exchange 4 
-Pilot Program to be the HIV Prevention Syringe Services Program; altering the 5 
-duties of the Program, the Director of the Program , and the Baltimore City Health 6 
-Department  regarding the Program; altering the membership  and duties  of the 7 
-Program’s oversight committee; altering the immunity provided to Program staff and 8 
-participants;  and genera lly relating to the AIDS Prevention Sterile Needle and 9 
-Syringe Exchange Pilot Program . 10 
+BY repealing and reenacting, with amendments,  
+ Article – Health – General  
+Section 24 –801(e), 24 –802 through 24 –806, 24–808, and 24–809 
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  11 
- Article – Health – General  12 
-Section 24 –801(a)  13 
- Annotated Code of Maryland  14 
- (2023 Replacement Volume and 2024 Suppleme nt) 15 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  16 
- Article – Health – General  17 
-Section 24 –801(e), 24 –802 through 24 –806, 24–808, and 24–809 18 
- Annotated Code of Maryland  19 
- (2023 Replacement Volume and 2024 Supplement)  20 
+Article – Health – General  
  
-2 HOUSE BILL 1502   
+24–801. 
  
-  SECTION 1. BE IT ENACTED BY THE GENERAL  ASSEMBLY OF MARYLAND, 1 
-That the Laws of Maryland read as follows:  2 
+ (a) In this subtitle the following words have the meanings indicated.  
  
-Article – Health – General  3 
+ (e) “Program” means the [AIDS ] HIV  Prevention [Sterile Needle and ] Syringe 
+[Exchange Pilot ] SERVICES  Program.  
  
-24–801. 4 
+24–802. 
  
- (a) In this subtitle the following words have the meanings indicated.  5 
+ (a) There is an [AIDS ] HIV  Preventi on [Sterile Needle and ] Syringe [Exchange 
+Pilot] SERVICES  Program in the Baltimore City Health Department.  
  
- (e) “Program” means the [AIDS ] HIV  Prevention [Sterile Needle and ] Syringe 6 
-[Exchange Pilot ] SERVICES  Program.  7 
+Ch. 758  2025 LAWS OF MARYLAND   
  
-24–802. 8 
+– 2 –  (b) The Program shall:  
  
- (a) There is an [AIDS ] HIV  Prevention [Sterile Needle and ] Syringe [Exchange 9 
-Pilot] SERVICES  Program in the Baltimore City Health Department.  10 
+  (1) [Provide ] DISTRIBUTE SYRINGES A ND PROVIDE for the exchange by 
+participants of used hypodermic needles and syringes for sterile hypodermic needles and 
+syringes  AS NEEDED ; and  
  
- (b) The Program shall:  11 
+  (2) Operate in accordance with the procedures approved, with the advice 
+and approval of the oversight committee, by the Commissioner of Health.  
  
-  (1) [Provide ] DISTRIBUTE SYRINGES A ND PRO VIDE for the exchange by 12 
-participants of used hypodermic needles and syringes for sterile hypodermic needles and 13 
-syringes  AS NEEDED ; and  14 
+24–803. 
  
-  (2) Operate in accordance with the procedures approved, with the advice 15 
-and approval of the oversight committee, by the Commissioner of Health.  16 
+ The Program shall:  
  
-24–803. 17 
+  (1) Be designed and maintained to provide [maximum security of exchange 
+locations and equipment, including ] security measures [that may be ] AND PROCESSES 
+required to [control the use and dispersal of ] SAFELY DISTRIBUTE hypodermic needles 
+and syringes and [security measures that allow for a full accounting of ] ACCOUNT FOR  the 
+number of hypodermic needles and syringes [in circulation ] EXCHANGED AND 
+DISTRIBUTED BY THE BALTIMORE CITY HEALTH DEPARTMENT  and the number of 
+hypodermic needles and syringes in storage;  
  
- The Program shall:  18 
+  (2) Be operated to allow participants to exchange used hypodermic needles 
+and syringes at [any exchange location, if more than one location is ] available  MOBILE 
+SYRINGE SERVICES SIT ES; 
  
-  (1) Be designed and maintained to provide [maximum security of exchange 19 
-locations and equipment, including ] security measures [that may be ] AND PROCESSES 20 
-required to [control the use and dispersa l of] SAFELY DISTRIBUTE hypodermic needles 21 
-and syringes and [security measures that allow for a full accounting of ] ACCOUNT FOR  the 22 
-number of hypodermic needles and syringes [in circulation ] EXCHANGED AND 23 
-DISTRIBUTED BY THE BALTIMORE CITY HEALTH DEPARTMENT  and the number of 24 
-hypodermic needles and syringes in storage;  25 
+  (3) Include appropriate levels of staff expertise in working with i njecting 
+drug users and adequate staff training in providing community SERVICE PROVIDER 
+referrals, counseling, and preventive education;  
  
-  (2) Be operated to allow participants to exchange used hypodermic needles 26 
-and syringes at [any exchange location, if more than one location is ] available  MOBILE 27 
-SYRINGE SERVICES SIT ES; 28 
+  (4) Provide for the dissemination of other preventive means for [curtailing 
+the spread of the HIV infection ] DECREASING THE RISK OF HIV  TRANSMISSION ; 
  
-  (3) Include appropriate levels of staff expertise in working with injecting 29 
-drug users and adequate staff training in providing community SERVICE PROVIDER 30 
-referrals, counseling, and preventive education;  31 
+  (5) Provide [a linkage for ] referrals to drug counseling and treatment 
+services, and follow –up to those referrals to assure that participants receive the treatment 
+they desire;  
  
- HOUSE BILL 1502  3 
+  (6) Educate injecting drug users  on the [dangers of contracting the HIV 
+infection ] RISK OF TRANSMITTING  HIV  or the hepatitis B virus through HIGH–RISK 
+needle –sharing practices and [unsafe ] sexual behaviors;  
  
-   (4) Provide for the dissemination of other preventive means for [curtailing 1 
-the spread of the HIV infection ] DECREASING THE RISK OF HIV  TRANSMISSION ; 2 
+  (7) Include policies and procedures for the screening of applicants to the 
+Program in order to preclude noninjecting drug users from participating in the Program;  
+AND 
  
-  (5) Provide [a linkage for ] referrals to drug counseling and treatment 3 
-services, and follow –up to those ref errals to assure that participants receive the treatment 4 
-they desire;  5 
+ WES MOORE, Governor  Ch. 758  
  
-  (6) Educate injecting drug users on the [dangers of contracting the HIV 6 
-infection ] RISK OF TRANSMITTING  HIV  or the hepatitis B virus through HIGH–RISK 7 
-needle –sharing practices and [unsafe] sexual behaviors;  8 
+– 3 –   (8) [Establish ] IMPLEMENT  procedures for identifying Program 
+participants that are consistent with the confidentiality provisions of this subtitle [; and 
  
-  (7) Include policies and procedures for the screening of applicants to the 9 
-Program in order to preclude noninjecting drug users from participating in the Program;  10 
-AND 11 
+  (9) Esta blish a method of identification and authorization for Program staff 
+members who have access to hypodermic needles, syringes, or Program records ]. 
  
-  (8) [Establish ] IMPLEMENT  procedures for identifying Progra m 12 
-participants that are consistent with the confidentiality provisions of this subtitle [; and 13 
+24–804. 
  
-  (9) Establish a method of identification and authorization for Program staff 14 
-members who have access to hypodermic needles, syringes, or Program records ]. 15 
+ (a) The Mayor of Baltimore City shall appoint an oversight committee for the 
+Program.  
  
-24–804. 16 
+ (b) The oversight committee shall consist of:  
  
- (a) The Mayor of Baltimore City shall appoint an oversight committee for the 17 
-Program.  18 
+  (1) [Two representatives ] ONE REPRESENTATIVE  from academia who 
+[specialize ] SPECIALIZES  in public health issues;  
  
- (b) The oversight committee shall consist of:  19 
+  (2) One representative from law enforcement [, nominated by the Secretary 
+of Public Safety and Corre ctional Services ]; 
  
-  (1) [Two representatives ] ONE REPRESENTATIVE  from academia who 20 
-[specialize ] SPECIALIZES  in public health issu es; 21 
+  [(3) One representative of the Baltimore City Police Department; ] 
  
-  (2) One representative from law enforcement [, nominated by the Secretary 22 
-of Public Safety and Correctional Services ]; 23 
+  [(4)] (3) [Two representatives ] ONE REPRESENTATIVE  from the 
+Maryland Department of Health [, the Department of Juvenile Services, or the Department 
+of Education, nomi nated by the Secretary of Health ]; 
  
-  [(3) One representative of the Baltimore City Police Department; ] 24 
+  [(5)] (4) One representative of a Baltimore City community group;  
  
-  [(4)] (3) [Two representatives ] ONE REPRESENTATIVE  from the  25 
-Maryland Department of Health [, the Department of Juvenile Services, or the Department 26 
-of Education, nominated by the Secretary of Health ]; 27 
+  [(6)] (5) One representative of an [AIDS ] HIV  advocacy group;  
  
-  [(5)] (4) One representative of a Baltimore City community group;  28 
+  [(7)] (6) One [drug abuse ] ADDICTION  treatment counselor;  
  
-  [(6)] (5) One representative of an [AIDS ] HIV  advocacy group;  29 
+  [(8)] (7) One recovering injecting drug user; and  
  
-  [(7)] (6) One [drug abuse ] ADDICTION  treatment counselor;  30 
-4 HOUSE BILL 1502   
+  [(9)] (8) Up to three other individuals whom the [Mayor of Baltimore 
+City] BALTIMORE CITY HEALTH DEPARTMENT  determines to be appropriate for 
+appointment to the oversight committee.  
  
-  
-  [(8)] (7) One recovering injecting drug user; and  1 
+ (c) The oversight committee shall:  
  
-  [(9)] (8) Up to three other individuals whom the [Mayor of Baltimore 2 
-City] BALTIMORE CITY HEALTH DEPARTMENT  determines to be appropriate for 3 
-appointment to the oversight committee.  4 
+  (1) Provide advice to the Commissioner of Health and the Program Director 
+on developing  AND REVISING AS NECE SSARY : 
  
- (c) The oversight committee shall:  5 
+   (i) Program operating procedures for the [furnishing ] 
+DISTRIBUTION  and exchange of hypodermic needles and syringes to injecting drug users;  
  
-  (1) Provide advice to the Commissioner of Health and the Program Director 6 
-on developing  AND REVISING AS NECE SSARY : 7 
+Ch. 758  2025 LAWS OF MARYLAND   
  
-   (i) Program operating procedures fo r the [furnishing ] 8 
-DISTRIBUTION  and exchange of hypodermic needles and syringes to injecting drug users;  9 
+– 4 –    (ii) A plan for community outreach and education;  
  
-   (ii) A plan for community outreach and education;  10 
+   (iii) A protocol for providing [a linkage ] REFERRALS  for Program 
+participants to [substance abuse ] ADDICTION  treatment and r ehabilitation; and  
  
-   (iii) A protocol for providing [a linkage ] REFERRALS  for Program 11 
-participants to [substance abuse ] ADDICTION  treatment and rehabilitation; and  12 
+   (iv) A plan for evaluating the Program; and  
  
-   (iv) A plan for evaluating the Program; and  13 
+  (2) Provide ongoing oversight of the Program and make recommendations 
+to the Program Director or the Commissioner of Health regarding any aspect of Program 
+procedures, operation, or eval uation.  
  
-  (2) Provide ongoing oversight of the Program and make recommendations 14 
-to the Program Director or the Commissioner of Health regarding any aspect of Progra m 15 
-procedures, operation, or evaluation.  16 
+24–805. 
  
-24–805. 17 
+ (a) The Commissioner of Health shall appoint a Director for the Program.  
  
- (a) The Commissioner of Health shall appoint a Director for the Program.  18 
+ (b) With the advice [and approval ] of the oversight committee, the Director shall 
+develop  AND REVISE AS NECESS ARY: 
  
- (b) With the advice [and approval ] of the oversight committee, the Director shall 19 
-develop  AND REVISE AS NECESS ARY: 20 
+  (1) Program operating procedures for the [furnishing ] DISTRIBUTION  and 
+exchange of hypodermic needles and syringes to injecting drug users;  
  
-  (1) Program operating procedures for the [furnishing ] DISTRIBUTION  and 21 
-exchange of hypodermic needles and syringes to injecting drug users;  22 
+  (2) A community outreach and education program; and  
  
-  (2) A community outreach and education program; and  23 
+  (3) A protocol for providing [a linkage ] REFERRALS  for Program 
+participants to substance abuse treatme nt and rehabilitation.  
  
-  (3) A protocol for providing [a linkage ] REFERRALS  for Program  24 
-participants to substance abuse treatment and rehabilitation.  25 
+ (c) The Director shall submit the operating procedures, the plan for a community 
+outreach and education program, and the [substance abuse ] ADDICTION  treatment 
+[linkage ] REFERRAL  protocol to the Commissioner of Health  OR THE COMMISSIONER ’S 
+DESIGNEE  for approval prior to THE implementation  OF REVISED PROCEDURES . 
  
- (c) The Director shall submit the operating procedures, the plan for a community 26 
-outreach and education program, and the [substance abuse ] ADDICTION  treatment 27 
-[linkage ] REFERRAL  protocol to the Commissioner of Health  OR THE COMMISSIONER ’S 28 
-DESIGNEE  for approval prior to THE implementation  OF REVISED PROCEDURES . 29 
+24–806. 
  
- HOUSE BILL 1502  5 
+ (a) The Baltimore City Health Department shall include in its Program operating 
+procedures measures to collect the following data:  
  
- 24–806. 1 
+  (1) The number of participants served by the Program;  
  
- (a) The Baltimore City Health Department shall include in its Program operating 2 
-procedures measures to collect  the following data:  3 
+  (2) The length of time a participant is served by the Program;  
  
-  (1) The number of participants served by the Program;  4 
+  (3) Demographic profiles of participants served by the Program that 
+include:  
  
-  (2) The length of time a participant is served by the Program;  5 
+   (i) Age; 
  
-  (3) Demographic profiles of participants served by the Program that 6 
-include:  7 
+ WES MOORE, Governor  Ch. 758  
  
-   (i) Age; 8 
+– 5 –    (ii) Sex; 
  
-   (ii) Sex; 9 
+   (iii) Race;  AND 
  
-   (iii) Race;  AND 10 
+   [(iv) Occupation; ] 
  
-   [(iv) Occupation; ] 11 
+   [(v)] (IV) Zip code of residence;  
  
-   [(v)] (IV) Zip code of residence;  12 
+   [(vi) Types of drugs used;  
  
-   [(vi) Types of drugs used;  13 
+   (vii) Length of drug use; and  
  
-   (vii) Length of drug use; and  14 
+   (viii)  Frequency of injection; ] 
  
-   (viii)  Frequency of injection; ] 15 
+  (4) The number of hypodermic needles and syringes exchanged;  
  
-  (4) The number of hypodermic needles and syringes exchanged;  16 
+  (5) The number of participants [entering  drug counseling and ] REFERRED 
+TO ADDICTION  treatment; and  
  
-  (5) The number of participants [entering  drug counseling and ] REFERRED 17 
-TO ADDICTION  treatment; and  18 
+  (6) The number of referrals made by the Program for [drug counseling and ] 
+ADDICTION  treatment  FOR PEOPLE WHO INJEC T DRUGS . 
  
-  (6) The number of referrals made by the Program for [drug counseling and ] 19 
-ADDICTION  treatment  FOR PEOPLE WHO INJEC T DRUGS . 20 
+ (b) With the advice [and approval ] of the oversight committee, the Ba ltimore City 
+Health Department shall develop and implement a plan for Program evaluation that shall 
+include the following issues:  
  
- (b) With the advice [and approval ] of the oversight committee, the Baltimore City 21 
-Health Department shall develop and implement a plan for Program evaluation that shall 22 
-include the following issues:  23 
+  (1) The ESTIMATED prevalence  AND INCIDENCE  of HIV among Program 
+participants;  
  
-  (1) The ESTIMATED prevalence  AND INCIDENCE  of HIV among Program 24 
-participants;  25 
+  [(2) Changes in the level of drug use amon g Program participants;  
  
-  [(2) Changes in the level of drug use among Program participants;  26 
+  (3) Changes in the level of needle –sharing among Program participants;  
  
-  (3) Changes in the level of needle –sharing among Program participants;  27 
-6 HOUSE BILL 1502   
+  (4) Changes in the use of condoms among Program participants;  
  
-  
-  (4) Changes in the use of condoms among Program participants;  1 
+  (5) The status of treatment and recovery for Program participants who 
+entered drug treatme nt programs;  
  
-  (5) The status of treatment and recovery for Program participants who 2 
-entered drug treatment programs;  3 
+  (6) The impact of the Program on risk behaviors for the transmission of the 
+HIV infection, the hepatitis B virus, and other life –threatening blood –borne diseases 
+among injecting drug users;  
  
-  (6) The impact of the Program on risk behaviors for the transmission of the 4 
-HIV infection, the hepatitis B virus, and other life –threatening blood –borne diseases 5 
-among injecting drug users;  6 
+  (7) The cost –effectiveness of the Program versu s the direct and indirect 
+costs of the HIV infection in terms of medical treatment and other services normally 
+required by HIV –infected individuals; ] 
+Ch. 758  2025 LAWS OF MARYLAND   
  
-  (7) The co st–effectiveness of the Program versus the direct and indirect 7 
-costs of the HIV infection in terms of medical treatment and other services normally 8 
-required by HIV –infected individuals; ] 9 
+– 6 –  
+  [(8)] (2) The strengths and weaknesses of the Program; and  
  
-  [(8)] (2) The strengths and weaknesses of the Program; and  10 
+  [(9)] (3) The advisability of continuing the Program.  
  
-  [(9)] (3) The advisability of continuing the Program.  11 
+ (c) As part of its plans for data collection and Program evaluation described under 
+subsections (a) and (b) of this section, the Baltimore City Health Department shall develop 
+and implement a methodology [: 
  
- (c) As part of its plans for data collection and Program evaluation described under 12 
-subsections (a) and (b) of this section, the Baltimore City Health Department shall develop 13 
-and implement a methodology [: 14 
+  (1) For identifying Program hypo dermic needles and syringes, such as 
+through the use of bar coding or any other method approved by the oversight committee; 
+and 
  
-  (1) For identifying Program hypodermic needles and syringes, such as 15 
-through the use of bar coding or any other method approved by the oversight committee; 16 
-and 17 
+  (2) To perform HIV antibody testing on the residue left in a sample of 
+hypodermic needles and syringes returned to the Program ] TO COLLECT RETURNED 
+NEEDLES AND SYRINGES  AND SEND THEM TO THE  RAPID ANALYSIS OF DRUGS 
+PROGRAM OPERATED BY T HE CENTER FOR HARM REDUCTION AT THE MARYLAND 
+DEPARTMENT OF HEALTH . 
  
-  (2) To perform HIV antibody testing on the residue left in a sample of 18 
-hypodermic needle s and syringes returned to the Program ] TO COLLECT RETURNED 19 
-NEEDLES AND SYRINGES  AND SEND THEM TO THE  RAPID ANALYSIS OF DRUGS 20 
-PROGRAM OPERATED BY T HE CENTER FOR HARM REDUCTION AT THE MARYLAND 21 
-DEPARTMENT OF HEALTH . 22 
+ (d) On or before December 31 of each year, the Baltimore City Health De partment 
+shall report to the oversight committee, the Governor, and, in accordance with § 2 –1257 of 
+the State Government Article, the General Assembly, on the number of hypodermic needles 
+and syringes exchanged as part of the Program.  
  
- (d) On or before December 31 of each yea r, the Baltimore City Health Department 23 
-shall report to the oversight committee, the Governor, and, in accordance with § 2 –1257 of 24 
-the State Government Article, the General Assembly, on the number of hypodermic needles 25 
-and syringes exchanged as part of the  Program.  26 
+24–808. 
  
-24–808. 27 
+ [(a)] No P rogram staff member or Program participant may be found guilty of 
+violating § 5 –601, § 5 –619, § 5 –620, § 5 –902, or § 5 –904 of the Criminal Law Article for 
+possessing or distributing controlled paraphernalia or drug paraphernalia whenever the 
+possession or distribution of the controlled paraphernalia or drug paraphernalia is a direct 
+result of the employee’s or participant’s activities in connection with the work of the 
+Program authorized under this subtitle.  
  
- [(a)] No Program staff member or Program participant may be found guilty of 28 
-violating § 5 –601, § 5 –619, § 5 –620, § 5 –902, or § 5 –904 of the Criminal Law Article for 29 
-possessing or distributing controlled paraphernalia or drug parapherna lia whenever the 30 
-possession or distribution of the controlled paraphernalia or drug paraphernalia is a direct 31 
-result of the employee’s or participant’s activities in connection with the work of the 32 
-Program authorized under this subtitle.  33 
+ [(b) Notwithstanding the provisions of subsecti on (a) of this section, a Program 
+staff member or Program participant is not immune from criminal prosecution for:  
  
- HOUSE BILL 1502  7 
+  (1) The redistribution of hypodermic needles or syringes in any form;  
  
-  [(b) Notwithstan ding the provisions of subsection (a) of this section, a Program 1 
-staff member or Program participant is not immune from criminal prosecution for:  2 
+  (2) Any activities not authorized or approved by the Program; or  
  
-  (1) The redistribution of hypodermic needles or syringes in any form;  3 
+  (3) The possession or distribution of controlled paraphernalia or drug 
+paraphernalia or any other unlawful activity outside of the Baltimore City limits. ] 
  
-  (2) Any activities not authorized or approved by the Program; or  4 
+24–809. 
  
-  (3) The possession or distribution of controlled paraphernalia or drug 5 
-paraphernalia or any other unlawful activity outside of the Baltimore City limits. ] 6 
+ WES MOORE, Governor  Ch. 758  
  
-24–809. 7 
+– 7 –  Except for violations of any laws that could arise from residue attached to or 
+containe d within hypodermic needles or syringes being returned or already returned to the 
+Program, [nothing in ] this subtitle [provides ] DOES NOT PROVIDE  immunity to a Program 
+staff member or Program participant from criminal prosecution for a violation of any law 
+prohibiting or regulating the use, possession, dispensing, distribution, or promotion of 
+[controlled dangerous substances, dangerous drugs, detr imental drugs, or harmful drugs 
+or any conspiracy or attempt to commit any of those offenses ] ILLICIT DRUGS . 
  
- Except for violations of any laws that could arise from residue attached to or 8 
-contained within hypodermic needles or syringes being returned or already returned to the 9 
-Program, [nothing in ] this subtitle [provides ] DOES NOT PROVIDE  immunity to a Program 10 
-staff member or Program participant from criminal prosecution for a violation of any law 11 
-prohibiting or regulating the use, possession, dispensing, distribution, or promotion of 12 
-[controlled dangerous substances, dangerous drugs, detr imental drugs, or harmful drugs 13 
-or any conspiracy or attempt to commit any of those offenses ] ILLICIT DRUGS . 14 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 15 
-October 1, 2025.  16 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 20, 2025.  

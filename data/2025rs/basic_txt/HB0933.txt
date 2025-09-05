@@ -1,134 +1,119 @@
+ WES MOORE, Governor  Ch. 733  
  
+– 1 – Chapter 733  
+(House Bill 933 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0933*      
-HOUSE BILL 933  
-J2, K3    5lr2877  
-    CF SB 679  
-By: Delegate Martinez  Delegates Martinez, Alston, Bagnall , Bhandari, Cullison, 
-Guzzone, Hill, S.  Johnson, Kaiser, Kerr, Lopez, Pena –Melnyk, Rosenberg, 
-Ross, Taveras, White  Holland, Woods, and Woorman  
-Introduced and read first time: January 31, 2025  
-Assigned to: Health and Government Operations  
-Committee Rep ort: Favorable with amendments  
-House action: Adopted  
-Read second time: February 27, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Nursing Homes – Direct Care Wages and Benefits and  Cost Reports  
  
-AN ACT concerning  1 
+FOR the purpose of requiring a nursing home to expend at least a certain percentage of its 
+total nursing and residential care revenue for direct care wages and benefits; 
+requiring nursing homes to annually submit a certain cost report to  the Maryland 
+Department of Health to review the cost reports and other data submitt ed by each 
+nursing home that participates in the Maryland Medical Assistance Program ; and 
+generally relating to nursing homes.  
  
-Nursing Homes – Direct Care Wages and Benefits and  Cost Reports  2 
+BY adding to  
+ Article – Health – General  
+Section 16 –209 and 16 –210 
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of requiring a nursing home to expend at least a certain percentage of its 3 
-total nursing and residential care revenue for direct care wages and benefits; 4 
-requiring nursing homes to annually submit a certain cost report to  the Maryland 5 
-Department of Health to review the cost reports and other data  submitted by each 6 
-nursing home that participates in the Maryland Medical Assistance Program ; and 7 
-generally relating to nursing homes.  8 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY adding to  9 
- Article – Health – General  10 
-Section 16 –209 and 16 –210 11 
- Annotated Code of Maryland  12 
- (2023 Replacement Vol ume and 2024 Supplement)  13 
+Article – Health – General  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 14 
-That the Laws of Maryland read as follows:  15 
+16–209.  
  
-Article – Health – General  16 
+ (A) IN THIS SECTION , “DIRECT CARE WAGES AN D BENEFITS ” MEANS THE  
+DIRECT CARE WORKFORC E WAGES A ND BENEFITS FOR NURS ING, DIETARY , 
+RESTORATIVE THERAPY , AND SOCIAL WORKER ST AFF. 
  
-16–209.  17 
+ (B) A NURSING HOME SHALL E XPEND AT LEAST 75%  OF ITS TOTAL NURSING  
+AND RESIDENTIAL CARE  REVENUE FOR DIRECT C ARE WAGES AND BENEFI TS. 
  
-2 HOUSE BILL 933   
+16–210.  
  
-  (A) IN THIS SECTION , “DIRECT CARE WAGES AN D BENEFITS ” MEANS THE  1 
-DIRECT CARE WORKFORC E WAGES AND BENEFITS F OR NURSING , DIETARY , 2 
-RESTORATIVE THERAPY , AND SOCIAL WORKER ST AFF. 3 
+ (A) ON OR BEFORE SEPTEMBER 1 EACH YEAR , BEGINNING IN 2026,  EACH  
+NURSING HOME SHALL S UBMIT TO THE DEPARTMENT A COST REP ORT IN THE FORM  
+AND MANNER REQUIRED BY THE DEPARTMENT . 
  
- (B) A NURSING HOME SHALL E XPEND AT LEAST 75%  OF ITS TOTAL NURSING  4 
-AND RESIDENTIAL CARE  REVENUE FOR DIRECT C ARE WAGES AND BENEFI TS. 5 
+ (B) THE COST REPORT REQUI RED UNDER SUBSECTION  (A) OF THIS SECTION  
+SHALL : 
  
-16–210.  6 
+  (1) INCLUDE : 
  
- (A) ON OR BEFORE SEPTEMB ER 1 EACH YEAR , BEGINNING IN 2026,  EACH  7 
-NURSING HOME SHALL S UBMIT TO THE DEPARTMENT A COST REP ORT IN THE FORM  8 
-AND MANNER REQUIRED BY THE DEPARTMENT . 9 
+Ch. 733  2025 LAWS OF MARYLAND   
  
- (B) THE COST REPORT REQUI RED UNDER SUBSECTION  (A) OF THIS SECTION  10 
-SHALL : 11 
+– 2 –    (I) DOCUMENTATION  OF WAGE DISBURSEMENT ; AND  
  
-  (1) INCLUDE : 12 
+   (II) ANY OTHER INFORMATION  THE DEPARTMENT DETERMINES  
+IS APPROPRIATE ; AND  
  
-   (I) DOCUMENT ATION OF WAGE DISBUR SEMENT ; AND  13 
+  (2) BE SIGNED BY AN AUTHO RIZED REPRESENTATIVE  OF THE  
+NURSING HOME UNDER P ENALTY OF PERJURY . 
  
-   (II) ANY OTHER INFORMATION  THE DEPARTMENT DETERMINES  14 
-IS APPROPRIATE ; AND  15 
+ (C) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , THE 
+DEPARTMENT MAY TAKE A PPROPRIATE ENFORCEME NT ACTION AGAINST A  
+NURSING HOME IF THE NURSING HOME : 
  
-  (2) BE SIGNED BY AN AUTHO RIZED REPRESENTATIVE  OF THE  16 
-NURSING HOME UNDER P ENALTY OF PERJURY . 17 
+   (I) FAILS TO SUBMIT A COS T REPORT AS REQUIRED ; 
  
- (C) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , THE 18 
-DEPARTMENT MAY TAKE A PPROPRIATE ENFORCEME NT ACTION AGAINST A  19 
-NURSING HOME IF THE NURSING HOME : 20 
+   (II) SUBMITS AN INACCURATE , INCOMPLETE , OR INVALID COST  
+REPORT ; OR 
  
-   (I) FAILS TO SUBMIT A COS T REPORT AS REQUIRED ; 21 
+   (III) FAILS TO PAY THE WAGE S IN  THE AMOUNT REQUIRED . 
  
-   (II) SUBMITS AN INACCURATE , INCOMPLETE , OR INVALID COST  22 
-REPORT ; OR 23 
+  (2) THE ENFORCEMENT ACTIO N THAT THE DEPARTMENT MAY TAKE  
+UNDER PARAGRAPH (1) OF THIS SUBSECTION I NCLUDES : 
  
-   (III) FAILS TO PAY THE WAGES IN THE AMO UNT REQUIRED . 24 
+   (I) RECOUPMENT BY THE DEPARTMENT OF FUNDING  
+RESULTING FROM THE R EIMBURSEMENT RATE IN CREASE PROVIDED FOR UNDER § 
+16–201.4( B) OF THIS SUBTITLE ; 
  
-  (2) THE ENFORCEMENT ACTIO N THAT THE DEPARTMENT MAY TAKE  25 
-UNDER PARAGRAPH (1) OF THIS SUBSECTION I NCLUDES : 26 
+   (II) IMPOSITION OF A CORRE CTIVE PLAN ; OR 
  
-   (I) RECOUPMENT BY THE DEPARTMENT OF FUNDING  27 
-RESULTING FROM THE R EIMBURSEMENT RATE IN CREASE PROVIDED FOR UNDER § 28 
-16–201.4( B) OF THIS SUBTITLE ; 29 
+   (III) SUSPENSION OR TERMINA TION FROM THE PROGRA M. 
  
- HOUSE BILL 933  3 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That:  
  
-    (II) IMPOSITION OF A CORRE CTIVE PLAN ; OR 1 
+ (a) The Maryland Department of Health shall review the cost reports and other 
+data submitted by each nursing home that participates in the Maryland Medical Assistance 
+Program, including data related to revenues allocated to:  
  
-   (III) SUSPENSION OR TERMINA TION FROM THE PROGRA M. 2 
+  (1) contracted nursing care services; and  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 3 
-That:  4 
+  (2) salaries and wages of all direct care n onadministrative staff, including:  
  
- (a) The Maryland Department of Health shall review the cost reports and other 5 
-data submitted by each nursing home that participates in the Maryland Medical Assistance 6 
-Program, including data related to revenues allocated to:  7 
+   (i) certified nurse aides;  
  
-  (1) contracted nursing care services; and  8 
+   (ii) directors of nurses;  
+ WES MOORE, Governor  Ch. 733  
  
-  (2) salaries and wages of all dire ct care nonadministrative staff, including:  9 
+– 3 –  
+   (iii) licensed practical nurses;  
  
-   (i) certified nurse aides;  10 
+   (iv) noncertified or resident care aides;  
  
-   (ii) directors of nurses;  11 
+   (v) registered nurses;  
  
-   (iii) licensed practical nurses;  12 
+   (vi) housekeepers;  
  
-   (iv) noncertified or resident care aides;  13 
+   (vii) dietary workers; and  
  
-   (v) registered nurses;  14 
+   (viii)  in–house clerical staff who regularly interact with residents, 
+Maryland Medical Assistance Program recipients, and caregivers.  
  
-   (vi) housekeepers;  15 
+ (b) On or before October 1, 2025, and on or before October 1 each year thereafter 
+through 2029, the Maryland Department of Health shall report the findings resulting from 
+the review conducted under subsection (a) of this section to the Governor and, in accorda nce 
+with § 2 –1257 of the State Government Article, the Senate Finance Committee and the 
+House Health and Government Operations Committee.  
  
-   (vii) dietary workers; and  16 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June 
+1, 2025.  
  
-   (viii)  in–house clerical staff who regularly interact with residents, 17 
-Maryland Medical Assistance Program recipients, and caregivers.  18 
- 
- (b) On or before October 1, 2025, and on or before October 1 each year thereafter 19 
-through 2029, the Maryland Department of Health shall report the findings resulting from 20 
-the review conducted under subsection (a) of this section to the Governor and, in accorda nce 21 
-with § 2 –1257 of the State Government Article, the Senate Finance Committee and the 22 
-House Health and Government Operations Committee.  23 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June 24 
-1, 2025.  25 
- 
+Approved by the Governor, May 20, 2025.  

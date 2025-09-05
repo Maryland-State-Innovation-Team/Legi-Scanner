@@ -1,381 +1,358 @@
+ WES MOORE, Governor  Ch. 764  
  
+– 1 – Chapter 764  
+(House Bill 1072 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb1072*      
-HOUSE BILL 1072  
-P6   5lr2374  
-    CF SB 862  
-By: Delegate Forbes (Chair, Joint Committee on Pensions)  
-Introduced and read first time: February 5, 2025  
-Assigned to: Appropriations  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: March 4, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+State Retirement and Pension System – Administrative Fees – Repeal  
  
-AN ACT concerning  1 
+FOR the purpose of requiring the Board of Trustees for the State Retirement and Pension 
+System to certify certain employer contribution rates each fiscal year; requiring the 
+employer contribution rates to include recognition of certain administrative and 
+operational expenses; repealing a requirement that certain administrative and 
+operational expenses of the State Retirement and Pension System and the State 
+Retirement Agency be funded by charging each participating employer an 
+administrative fee for each sy stem participant; clarifying that certain payments 
+certified by the Board of Trustees to be paid by local employers in a certain fiscal 
+year shall be paid;  requiring the Board of Trustees to fund certain operating 
+expenses of the State Retirement Agency th rough the accumulation fund; and 
+generally relating to the funding of the administrative and operating expenses of the 
+State Retirement and Pension System and the State Retirement Agency.  
  
-State Retirement and Pension System – Administrative Fees – Repeal  2 
+BY repealing and reenacting, with amendments,  
+ Article – State Pe rsonnel and Pensions  
+Section 21 –125, 21 –302, 21 –303, and 21 –315 
+ Annotated Code of Maryland  
+ (2024 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of requiring the Board of Trustees for the State Retirement and Pension 3 
-System to certify certain employer contribution rates each fiscal year; requiring the 4 
-employer contribution rates to include recognition of certain administrative and 5 
-operational expenses; repealing a requirement that certain administrative and 6 
-operational expenses of the State Retirement and Pension System and the State 7 
-Retirement Agency be funded by charging each participating employer an 8 
-administrative fee for each sy stem participant; clarifying that certain payments 9 
-certified by the Board of Trustees to be paid by local employers in a certain fiscal 10 
-year shall be paid;  requiring the Board of Trustees to fund certain operating 11 
-expenses of the State Retirement Agency th rough the accumulation fund; and 12 
-generally relating to the funding of the administrative and operating expenses of the 13 
-State Retirement and Pension System and the State Retirement Agency.  14 
+BY repealing and reenacting, without amendments,  
+ Article – State Personnel and Pensions  
+Section 21 –301 
+ Annotated Code of Maryland  
+ (2024 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  15 
- Article – State Pe rsonnel and Pensions  16 
-Section 21 –125, 21 –302, 21 –303, and 21 –315 17 
- Annotated Code of Maryland  18 
- (2024 Replacement Volume and 2024 Supplement)  19 
+BY repealing  
+ Article – State Personnel and Pensions  
+Section 21 –316 
+ Annotated Code of Maryland  
+ (2024 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  20 
- Article – State Personnel and Pensions  21 
-Section 21 –301 22 
- Annotated Code of Maryland  23 
-2 HOUSE BILL 1072   
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMB LY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-  (2024 Replacement Volume and 2024 Supplement)  1 
+Article – State Personnel and Pensions  
  
-BY repealing  2 
- Article – State Personnel and Pensions  3 
-Section 21 –316 4 
- Annotated Code of Maryland  5 
- (2024 Replacement Volume and 2024 Supplement)  6 
+21–125. 
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 7 
-That the Laws of Maryland read as follows:  8 
+ (a) The Board of Trustees shall designate an actuary who shall:  
+Ch. 764  2025 LAWS OF MARYLAND   
  
-Article – State Personnel and Pensions  9 
+– 2 –  
+  (1) give technical advice to the Board of Trustees on the operation of the 
+funds of the several systems; and  
  
-21–125. 10 
+  (2) perform other related duties that the Board of Trustees requires.  
  
- (a) The Board of Trustees shall designate an actuary who shall:  11 
+ (b) (1) On the basis of actuarial assumptions that the Board of Trustees 
+adopts, each year the actuary shall make a valuation of the assets and lia bilities of the 
+funds of the several systems AND SHALL RECOMMEND THE RATES OF EMPLOYE R 
+CONTRIBUTIONS TO BE CERTIFIED BY THE BOARD OF TRUSTEES . 
  
-  (1) give technical advice to the Board of Trustees on the operation of th e 12 
-funds of the several systems; and  13 
+  (2) (I) 1. Each year , ON THE RECOMMENDATIO N OF THE 
+ACTUARY , the Board of Trustees shall certify to the Secreta ry of Budget and Management 
+and to the Governor the rates of employer contributions.  
  
-  (2) perform other related duties that the Board of Trustees requires.  14 
+    2. EACH YEAR , ON THE RECOMMENDATIO N OF THE 
+ACTUARY , THE BOARD OF TRUSTEES SHALL CERTIF Y TO ALL OTHER PARTI CIPATING 
+EMPLOYERS THE RATES OF EMPLOYER CONTRIBU TIONS . 
  
- (b) (1) On the basis of actuarial assumptions that the Board of Trustees 15 
-adopts, each year the actuary shall make a valuation of the assets and l iabilities of the 16 
-funds of the several systems AND SHALL RECOMMEND THE RATES OF EMPLOYE R 17 
-CONTRIBUTIONS TO BE CERTIFIED BY THE BOARD OF TRUSTEES . 18 
+   (II) THE NORMAL CONTRIBUTI ON RATE RECOMMENDED BY THE 
+ACTUARY AND CERTIFIE D BY THE BOARD OF TRUSTEES FOR ALL EMPL OYERS 
+UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH FO R EACH FISCAL YEAR S HALL 
+INCLUDE AN AMOUNT NE CESSARY FOR THE ADMI NISTRATIVE AND OPERA TIONAL 
+EXP ENSES OF THE BOARD OF TRUSTEES AND THE STATE RETIREMENT AGENCY , 
+EXCLUDING THE ADMINI STRATIVE AND OPERATI ONAL EXPENSES OF THE  
+INVESTMENT DIVISION . 
  
-  (2) (I) 1. Each year , ON THE RECOMMENDATIO N OF THE 19 
-ACTUARY , the Board of Trustees shall certify to the Secre tary of Budget and Management 20 
-and to the Governor the rates of employer contributions.  21 
+  (3) For purposes of actuarial valuation, the Board of Trustees may adopt a 
+generally accepted ACTUARIAL  method for determining the value of the assets held by the 
+several systems.  
  
-    2. EACH YEAR , ON THE RECOMMENDATIO N OF THE 22 
-ACTUARY , THE BOARD OF TRUSTEES SHALL CERTIF Y TO ALL OTHER PARTI CIPATING 23 
-EMPLOYERS THE RATES OF EMPLOYER CONTRIBU TIONS . 24 
+  (4) For general ledger accounting and financial reporting, the Board of 
+Trustees shall use generally accepted accounting principles.  
  
-   (II) THE NORMAL CONTRIBUTI ON RATE RECOMMENDED BY THE 25 
-ACTUARY AND CERTIFIE D BY THE BOARD OF TRUSTEES FOR ALL EMPL OYERS 26 
-UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH FO R EACH FISCAL YEAR S HALL 27 
-INCLUDE AN AMOUNT NE CESSARY FOR THE ADMI NISTRATIVE AND OPERA TIONAL 28 
-EXPENSES OF THE BOARD OF TRUSTEES AND THE STATE RETIREMENT AGENCY , 29 
-EXCLUDING THE ADMINI STRATIVE AND OPERATI ONAL EXPENSES OF THE  30 
-INVESTMENT DIVISION . 31 
+ (c) (1) At least once in each 5 –year period, the actuary shall make:  
  
-  (3) For purposes of actuarial valuation, the Board of Trustees may adopt a 32 
-generally accepted ACTUARIAL  method for determining the value of the assets held by the 33 
-several systems.  34 
- HOUSE BILL 1072  3 
+   (i) actuarial investigations into the compensation, mortality, and 
+service experience of the participants of each of the several systems; and  
  
-  
-  (4) For general ledger accounting and financial reporting, the Board of 1 
-Trustees shall use generally accepted accounting principles.  2 
+   (ii) a valuation of the assets and liabilities of the funds of each of the 
+several  systems.  
  
- (c) (1) At least once in each 5 –year period , the actuary shall make:  3 
+  (2) The Board of Trustees shall:  
  
-   (i) actuarial investigations into the compensation, mortality, and 4 
-service experience of the participants of each of the several systems; and  5 
+ WES MOORE, Governor  Ch. 764  
  
-   (ii) a valuation of the assets and liabilities of the funds of each of the 6 
-several systems.  7 
+– 3 –    (i) review the results of the investigations and valuations of the 
+actuary; and  
  
-  (2) The Board of Trustees shall:  8 
+   (ii) adopt the actuarial assumptions for each of the several systems 
+as the Board of Trustees considers necessary.  
  
-   (i) review the results of the investigations and valuations of the 9 
-actuary; and  10 
+21–301. 
  
-   (ii) adopt the actuarial assumptions for each of the several systems 11 
-as the Board of Trustees considers necessary.  12 
+ (a) In each State system, there is:  
  
-21–301. 13 
+  (1) an accumulation fund;  
  
- (a) In each State system, there is:  14 
+  (2) an annuity savings fund; and  
  
-  (1) an accumulation fund;  15 
+  (3) an expense fund.  
  
-  (2) an annuity savings fund; and  16 
+ (b) The Board of Trustees shall credit the assets of each State system to the 
+appropriate fund of the State system acco rding to the purpose for which the assets are held.  
  
-  (3) an expense fund.  17 
+21–302. 
  
- (b) The Board of Trustees shall credit the assets of each State system to the 18 
-appropriate fund of the State system according to the purpose for which the assets are held.  19 
+ (a) The following are obligations of the State:  
  
-21–302. 20 
+  (1) the payment of all allowances and other benefits payable under this 
+Division II;  
  
- (a) The following are obligations of the State:  21 
+  (2) the creation and maintenance of reserves in the ac cumulation funds of 
+the several systems; AND  
  
-  (1) the payment of all allowances and other benefits payable under this 22 
-Division II;  23 
+  (3) the crediting of regular interest to the annuity savings funds of the 
+several systems [; and  
  
-  (2) the creation and maintenance of reserves in th e accumulation funds of 24 
-the several systems; AND  25 
+  (4) except as provided in § 21 –316 of this subtitle, the payment of the 
+expenses for administration and opera tion of the several systems ]. 
  
-  (3) the crediting of regular interest to the annuity savings funds of the 26 
-several systems [; and  27 
+ (b) The assets of the several systems shall be used to pay the obligations of the 
+State specified in this section.  
  
-4 HOUSE BILL 1072   
+ (c) Each fiscal year the State shall pay to the accumulation fund of each State 
+system at least an amount that when combined with the amount in the accumulation fund 
+of the system is sufficient to provide the allowances and other benefits payable out of the 
+fund during that fiscal year.  
  
-   (4) except as provided in § 21 –316 of this subtitle, the payment of the 1 
-expenses for administration and o peration of the several systems ]. 2 
+21–303. 
  
- (b) The assets of the several systems shall be used to pay the obligations of the 3 
-State specified in this section.  4 
+Ch. 764  2025 LAWS OF MARYLAND   
  
- (c) Each fiscal year the State shall pay to the accumulation fund of each State 5 
-system at least an amou nt that when combined with the amount in the accumulation fund 6 
-of the system is sufficient to provide the allowances and other benefits payable out of the 7 
-fund during that fiscal year.  8 
+– 4 –  (a) The Board of Trustees shall credit to the accumulation fund  of each State 
+system:  
  
-21–303. 9 
+  (1) all employer contributions to the State system;  
  
- (a) The Board of Trustees shall credit to the accumulation f und of each State 10 
-system:  11 
+  (2) all interest, dividends, and other income derived from the assets of the 
+State system; and  
  
-  (1) all employer contributions to the State system;  12 
+  (3) amounts transferred under § 21 –311(c) or (d) of this subtitle.  
  
-  (2) all interest, dividends, and other income derived from the assets of the 13 
-State system; and  14 
+ (b) The Board of Trustees shall pay from the accumulation fund of a State system 
+all benefits payable under that State system except for benefits payable from the annuity 
+savings fund of that State system.  
  
-  (3) amounts transferred under § 21 –311(c) or (d) of this subtitle.  15 
+ (c) (1) Each year the Board of Trustees shall transfer f rom the accumulation 
+fund of each State system to each member’s account in the annuity savings fund of that 
+State system regular interest on the account as provided in this Division II.  
  
- (b) The Board of Trustees shall pay from the accumulation fund of a State system 16 
-all benefits payable under that State system except for benefits payable from the annuity 17 
-savings fund of that State system.  18 
+  (2) If a retiree who has retired because of disability is restored to 
+membership, the Board of Trustees shall transfer from the accumulation fund of the 
+appropriate State system to the annuity savings fund of that State system an amount equal 
+to the remaining portion of the retiree’s annuity reserve.  
  
- (c) (1) Each year the Board of Trustees shall transf er from the accumulation 19 
-fund of each State system to each member’s account in the annuity savings fund of that 20 
-State system regular interest on the account as provided in this Division II.  21 
+ (d) [(1)] Each year , the Board of Trustees shall transfer from the accumulation 
+fund of each State system to the expense fund of that system the amounts required by § 
+21–315 of this subtitle.  
  
-  (2) If a retiree who has retired because of disability is resto red to 22 
-membership, the Board of Trustees shall transfer from the accumulation fund of the 23 
-appropriate State system to the annuity savings fund of that State system an amount equal 24 
-to the remaining portion of the retiree’s annuity reserve.  25 
+  [(2) On or before June 30 each year, the administrative fees that are paid 
+by pa rticipating employers as provided in § 21 –316 of this subtitle for that year shall be 
+reimbursed to the accumulation fund of each State system for the amount transferred to 
+the expense fund of that system under paragraph (1) of this subsection. ] 
  
- (d) [(1)] Each year, the Board of Trustees shall transfer from the accumulation 26 
-fund of each State system to the expense fund of that system the amounts required by § 27 
-21–315 of this subtitle.  28 
+21–315. 
  
-  [(2) On or before June 30 each year, the administrative fees that are paid 29 
-by participating employers as provided in § 21 –316 of this subtitle for that year shall be 30 
-reimbursed to the accumulation fund of each State system for the amount transferred to 31 
-the expense fund of that system under paragraph (1) of this subsection. ] 32 
+ (a) The Board of Trustees shall credit to the expense fund of each State system 
+its pro rata share of:  
  
-21–315. 33 
+  (1) the amount [provided in the annual State budget to pay the 
+administrative and operational expenses of the Board of Trustees and the State Retirement 
+Agency ] ATTRIBUTABLE TO THE ADMINISTRATIVE AND O PERATIONAL EXPENSES OF 
+THE BOARD OF TRUSTEES AND THE STATE RETIREMENT AGENCY AS CERTIFIED B Y 
+THE BOARD OF TRUSTEES UNDER § 21–125 OF THIS TITLE ; 
  
- HOUSE BILL 1072  5 
+ WES MOORE, Governor  Ch. 764  
  
-  (a) The Board of Trustees shall credit to the expense fund of each State system 1 
-its pro rata share of:  2 
+– 5 –   (2) the amounts authorized by the Board of Trustees under this section for 
+investment management services, including personnel and operational expenses of the 
+Investment Division; and  
  
-  (1) the amount [provided in the annual State budget to pay the 3 
-administrative and operational expenses of the Board of Trustees and the State Ret irement 4 
-Agency ] ATTRIBUTABLE TO THE ADMINISTRATIVE AND O PERATIONAL EXPENSES OF 5 
-THE BOARD OF TRUSTEES AND THE STATE RETIREMENT AGENCY AS CERTIFIED B Y 6 
-THE BOARD OF TRUSTEES UNDER § 21–125 OF THIS TITLE ; 7 
+  (3) the amount authorized by the Board of Trustees to implement a closing 
+agreement with the Internal Revenue Se rvice regarding former members of the Employees’ 
+Retirement System or the Teachers’ Retirement System who elected to become members of 
+or participate in those State systems under former Article 73B, §§ 2 –206 and 3 –206 of the 
+Code.  
  
-  (2) the amounts authorized by the Board of Trustees under this section for 8 
-investment management services, including personnel and operational expenses of the 9 
-Investment Division; and  10 
+ (b) (1) The Board of Tr ustees shall pay from the expense fund of each State 
+system its pro rata share of:  
  
-  (3) the amount authorized by the Board of Trustees to implement a closing 11 
-agreement with the Internal Revenue Service reg arding former members of the Employees’ 12 
-Retirement System or the Teachers’ Retirement System who elected to become members of 13 
-or participate in those State systems under former Article 73B, §§ 2 –206 and 3 –206 of the 14 
-Code.  15 
+   (i) the administrative and operational expenses of the Board of 
+Trustees and the State Retirement Agency, in accordance with the annual State budget;  
  
- (b) (1) The Board of Trustees sh all pay from the expense fund of each State 16 
-system its pro rata share of:  17 
+   (ii) the amount s as authorized by the Board of Trustees necessary 
+for investment management services, including personnel and operational expenses of the 
+Investment Division; and  
  
-   (i) the administrative and operational expenses of the Board of 18 
-Trustees and the State Retirement Agency, in accordance with the annual State budget;  19 
+   (iii) the amounts as authorized by the Board of Trustees necessary to 
+implement a closin g agreement with the Internal Revenue Service regarding former 
+members of the Employees’ Retirement System or the Teachers’ Retirement System who 
+elected to become members of or participate in those State systems under former Article 
+73B, §§ 2 –206 and 3 –206 of the Code.  
  
-   (ii) the amounts as authorized by the Board of Trustees necessary 20 
-for investment management services, including personnel and operational expenses of the 21 
-Investment Division; and  22 
+  (2) The amounts for the personnel and operational expenses of the 
+Investment Division shall be paid out of the accumulation fund of each State system on a 
+pro rata basis [and may not be paid by participating employers as provided in § 21 –316 of 
+this subtitle ]. 
  
-   (iii) the amounts as authorized by the Board of Trustees necessary to 23 
-implement a closing agr eement with the Internal Revenue Service regarding former 24 
-members of the Employees’ Retirement System or the Teachers’ Retirement System who 25 
-elected to become members of or participate in those State systems under former Article 26 
-73B, §§ 2 –206 and 3 –206 of the Code.  27 
+ (c) Each year the Board of Trustees shall estimate the amount, not exceeding 
+0.22% of active member payroll, retiree benefits, and former member compensation, 
+necessary for the administrative and operational expenses of the Board o f Trustees and the 
+State Retirement Agency.  
  
-  (2) The amounts for the personnel and operational expenses of the 28 
-Investment Division shall be paid out of the accumulation fund of each State system on a 29 
-pro rata basis [and may not be paid by participating employers as provided in § 21 –316 o f 30 
-this subtitle ]. 31 
+ (d) (1) Each quarter of the fiscal year the Board of Trustees shall estimate 
+one–fourth of an amount, not exceeding 0.5% of the market value as of the last day of the 
+preceding quarter of invested assets that a re externally managed exclusive of assets 
+invested in real estate or alternative investments, necessary to procure and retain 
+investment management services other than external real estate or alternative investment 
+management services.  
  
- (c) Each year the Board of Trustees shall estimate the amount, not exceeding 32 
-0.22% of active member payroll, retiree benefits, and former member compensation, 33 
-necessary for the administrative and operational expenses of the Board of Tru stees and the 34 
-State Retirement Agency.  35 
+  (2) The Board of Trustees is not limited in the amount of investment 
+manager fees that the Board of Trustees may pay as necessary for external real estate or 
+alternative investment management services.  
+Ch. 764  2025 LAWS OF MARYLAND   
  
-6 HOUSE BILL 1072   
+– 6 –  
+ (e) (1) The amounts estimated under subsection (c) of this section sh all be paid 
+into the expense funds of the several systems during the ensuing year on a pro rata basis 
+according to the total membership of each system.  
  
-  (d) (1) Each quarter of the fiscal year the Board of Trustees shall estimate 1 
-one–fourth of an amount, not exceeding 0.5% of the market value as of the last day of the 2 
-preceding quarter of invested assets that are ex ternally managed exclusive of assets 3 
-invested in real estate or alternative investments, necessary to procure and retain 4 
-investment management services other than external real estate or alternative investment 5 
-management services.  6 
+  (2) The amounts estimated under subsection (d) of this section shall be paid 
+into the expense funds o f the several systems during the ensuing year on a pro rata basis 
+according to the total assets held by each system.  
  
-  (2) The Board of Trust ees is not limited in the amount of investment 7 
-manager fees that the Board of Trustees may pay as necessary for external real estate or 8 
-alternative investment management services.  9 
+ (f) The Board of Trustees may combine the expense funds of the several systems 
+for budgetary and administrative efficiency.  
  
- (e) (1) The amounts estimated under subsection (c) of this section shall b e paid 10 
-into the expense funds of the several systems during the ensuing year on a pro rata basis 11 
-according to the total membership of each system.  12 
+ (g) (1) (i) On or before December 31 of each year, the Board of Trustees 
+shall report to the General Assembly the actual amount spent for investment management 
+services during the preceding fiscal year.  
  
-  (2) The amounts estimated under subsection (d) of this section shall be paid 13 
-into the expense funds of the  several systems during the ensuing year on a pro rata basis 14 
-according to the total assets held by each system.  15 
+   (ii) The report required under subparagraph (i) of this para graph 
+shall include the amount of carried interest on any assets of the system.  
  
- (f) The Board of Trustees may combine the expense funds of the several systems 16 
-for budgetary and administrative efficiency.  17 
+  (2) On or before December 31 each year, the Board of Trustees shall report 
+to the General Assembly the actual amount spent for Investment Division operations 
+during the prec eding fiscal year.  
  
- (g) (1) (i) On o r before December 31 of each year, the Board of Trustees 18 
-shall report to the General Assembly the actual amount spent for investment management 19 
-services during the preceding fiscal year.  20 
+[21–316. 
  
-   (ii) The report required under subparagraph (i) of this paragraph  21 
-shall include the amount of carried interest on any assets of the system.  22 
+ (a) (1) In this section the following words have the meanings indicated.  
  
-  (2) On or before December 31 each year, the Board of Trustees shall report 23 
-to the General Assembly the actual amount spent for Investment Division operations 24 
-during the preceding  fiscal year.  25 
+  (2) “Administrative fees” means the actual administrative and operational 
+expenses incurred by the Board of Trustees and the State Retirement Agency as of June 30 
+of the second prior fiscal year.  
  
-[21–316. 26 
+  (3) “Library” means a library that is established or operates under the 
+Education Article.  
  
- (a) (1) In this section the following words have the meanings indicated.  27 
+  (4) “Local employer” means a participating employer other than the State.  
  
-  (2) “Administrative fees” means the actual administrative and operational 28 
-expenses incurred by the Board of Trustees and the State Retirement Agency as of  June 30 29 
-of the second prior fiscal year.  30 
+ (b) (1) Subject to paragraph (3) of this subsection, for each fiscal year, the 
+State and each local employer shall pay to the Board of Trustees their pro rata shares of 
+the administrative fees.  
  
-  (3) “Library” means a library that is established or operates under the 31 
-Education Article.  32 
+  (2) The pro rata share of the administrative fees of the State and of each 
+local employer for e ach fiscal year shall be based on the number of members of the several 
+systems employed by the State or local employer as of June 30 of the second prior fiscal 
+year compared to the total membership of the several systems as of that date.  
  
-  (4) “Local employer” means a participating employer other than the State.  33 
+  (3) The State s hall pay the pro rata share under this section of each library.  
+ WES MOORE, Governor  Ch. 764  
  
- HOUSE BILL 1072  7 
+– 7 –  
+  (4) The administrative fees used to determine the pro rata shares under 
+this subsection may not include costs for the personnel and operational expenses of the 
+Investment Division.  
  
-  (b) (1) Subject to paragraph (3) of this subsection, for each fiscal year, the 1 
-State and each local employer shall pay to the Board of Trustees their pro rata shares of 2 
-the administrative fees.  3 
+ (c) As part of its annual budget submission for a fiscal year, the Board of Trustees 
+shall certify to the Secretary of Budget and Management the percentage of the total 
+membership of the several systems that is employed by the State, the libraries, and each 
+local employer as of June 30 of the second prior fiscal year.  
  
-  (2) The pro rata share of the administrative fees of the State and of each 4 
-local employer for each f iscal year shall be based on the number of members of the several 5 
-systems employed by the State or local employer as of June 30 of the second prior fiscal 6 
-year compared to the total membership of the several systems as of that date.  7 
+ (d) (1) The Governor shall include in the budget bill an appropriation to the 
+accumulation funds of the State Retirement and Pension System that equals the authorized 
+administrative fees for the f iscal year.  
  
-  (3) The State shall pay the pro rata share under this section of each library.  8 
+  (2) The amounts payable by the State under this section with respect to 
+members employed by each State unit shall be charged against the budget of that unit.  
  
-  (4) The administrative fees used to determine the pro rata shares under 9 
-this subsection may not include costs for the personnel and operational expenses of the 10 
-Investment Division.  11 
+  (3) The State shall pay its pro rata share of the amount of administrative 
+fees authorized in the State budget to the Board of Trustees on July 1 of the applicable 
+fiscal year.  
  
- (c) As part  of its annual budget submission for a fiscal year, the Board of Trustees 12 
-shall certify to the Secretary of Budget and Management the percentage of the total 13 
-membership of the several systems that is employed by the State, the libraries, and each 14 
-local emp loyer as of June 30 of the second prior fiscal year.  15 
+ (e) (1) On or before October 1 each year, the Board of Trustees shall:  
  
- (d) (1) The Governor shall include in the budget bill an appropriation to the 16 
-accumulation funds of the State Retirement and Pension System that equals the authorized 17 
-administrative fees for the fiscal  year.  18 
+   (i) certify to each local employer other than a library the amount 
+payable by the local employer for the next fiscal year that is equal to the percentage 
+certified under subsection (c) of this section multiplied by the amount of administrative 
+fees; and  
  
-  (2) The amounts payable by the State under this section with respect to 19 
-members employed by each State unit shall be charged against the budget of that unit.  20 
+   (ii) notify the Secretary of Budget and Management and the 
+Department of Legislative Services of the certifications sent under item (i) of this 
+paragraph.  
  
-  (3) The State shall pay its pro rata share of the amount of administrative 21 
-fees autho rized in the State budget to the Board of Trustees on July 1 of the applicable 22 
-fiscal year.  23 
+  (2) On or before October 1, January 1, April 16, and June 1 of the fiscal 
+year immediately following the certification required in paragraph (1) of this subsection, 
+each l ocal employer shall pay to the Board of Trustees 25% of the amount certified to the 
+local employer by the Board of Trustees under paragraph (1) of this subsection.  
  
- (e) (1) On or before October 1 each year, the Board of Trustees shall:  24 
+  (3) If a local employer does not pay the amounts required under this section 
+within the t ime required, the local employer is liable for interest on delinquent amounts at 
+a rate of 4% a year until payment.  
  
-   (i) certify to each local employer other than a library the amount 25 
-payable by the local  employer for the next fiscal year that is equal to the percentage 26 
-certified under subsection (c) of this section multiplied by the amount of administrative 27 
-fees; and  28 
+  (4) The Secretary of the Board of Trustees may allow a grace period not to 
+exceed 10 calendar days for payment of the amounts certified u nder this section.  
  
-   (ii) notify the Secretary of Budget and Management and the 29 
-Department of Legislative Services of the certifications sent under item (i) of this 30 
-paragraph.  31 
+Ch. 764  2025 LAWS OF MARYLAND   
  
-  (2) On or before October 1, January 1, April 16, and June 1 of the fiscal 32 
-year immediately following the certification required in paragraph (1) of this subsection, 33 
-each local employer shall pay to the Board of Trustees 25% of the amount certified to the 34 
-local employer by the Board of Trustees under paragraph (1) of this subsection.  35 
+– 8 –   (5) On notification by the Secretary of the Board of Trustees that a 
+delinquency exists, the State Comptroller immediately shall exercise the right of setoff 
+against any money due or coming due to that local employer from the State.  
  
-8 HOUSE BILL 1072   
+ (f) On receipt of payments under this section, the Board of Trustees shall credit 
+these amounts to the accumulation fund of the appropriate State system. ] 
  
-   (3) If a local employer does not pay the amounts required under this section 1 
-within the time r equired, the local employer is liable for interest on delinquent amounts at 2 
-a rate of 4% a year until payment.  3 
+ SECTION 2. AND BE IT FURTHER ENACTED, That, notwithstanding Section 1 of 
+this Act, on or before Ju ne 1, 2025, each local employer shall pay to the Board of Trustees 
+for the State Retirement and Pension System the amounts certified to be paid by each local 
+employer for fiscal year 2025 to the Board of Trustees in accordance with § 21 –316 of the 
+State Pe rsonnel and Pensions Article in effect at the time of certification.  
  
-  (4) The Secretary of the Board of Trustees may allow a grace period not to 4 
-exceed 10 calendar days for payment of the amounts certified under this section.  5 
+ SECTION 2. 3. AND BE IT FURTHER ENACTED, That, for fiscal year 2026, the 
+amounts for the administrative and operational expenses of the Board of Trustees for the 
+State Retirement and P ension System and the State Retirement Agency shall be paid out 
+of the accumulation fund of each State system on a pro rata basis.  
  
-  (5) On notification by the Secretary of the Board of Trustees that a 6 
-delinquency exists, the State Comptroller immediately shall exercise the right of setoff 7 
-against any money due or coming due to that local employer from the State.  8 
+ SECTION 3. 4. AND BE IT FURTHER ENACTED, That, for fiscal year 2027 and 
+each fiscal year thereafter , the administrative and  operational expenses of the Board of 
+Trustees for the State Retirement and Pension System and the State Retirement Agency 
+shall be included in the employer contribution rates certified by the Board of Trustees for 
+the State Retirement and Pension System a s provided in Section 1 of this Act.  
  
- (f) On receipt of payments under this section, the Board of Trustees shall credit 9 
-these amounts to the accumulation fund of the appropriate State system. ] 10 
+ SECTION 4. 5. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+June 1, 2025.  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That, notwithstanding Section 1 of 11 
-this Act, on or before June 1,  2025, each local employer shall pay to the Board of Trustees 12 
-for the State Retirement and Pension System the amounts certified to be paid by each local 13 
-employer for fiscal year 2025 to the Board of Trustees in accordance with § 21 –316 of the 14 
-State Personn el and Pensions Article in effect at the time of certification.  15 
- 
- SECTION 2. 3. AND BE IT FURTHER ENACTED, That, for fiscal year 2026, the 16 
-amounts for the administrative and operational expenses of the Board of Trustees for the 17 
-State Retirement and Pensio n System and the State Retirement Agency shall be paid out 18 
-of the accumulation fund of each State system on a pro rata basis.  19 
- 
- SECTION 3. 4. AND BE IT FURTHER ENACTED, That, for fiscal year 2027 and 20 
-each fiscal year thereafter , the administrative and oper ational expenses of the Board of 21 
-Trustees for the State Retirement and Pension System and the State Retirement Agency 22 
-shall be included in the employer contribution rates certified by the Board of Trustees for 23 
-the State Retirement and Pension System as pro vided in Section 1 of this Act.  24 
- 
- SECTION 4. 5. AND BE IT FURTHER ENACTED, That this Act shall take effect 25 
-June 1, 2025.  26 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 20, 2025.  

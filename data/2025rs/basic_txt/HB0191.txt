@@ -1,301 +1,276 @@
+ WES MOORE, Governor  Ch. 520  
  
+– 1 – Chapter 520  
+(House Bill 191 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0191*      
-HOUSE BILL 191  
-R7   5lr1222  
-  (PRE –FILED)  CF SB 40  
-By: Delegate Foley  
-Requested: October 15, 2024  
-Introduced and read first time: January 8, 2025  
-Assigned to: Environment and Transportation  
-Committee Report: Favorable  
-House action: Adopted  
-Read second time: February 11, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Vehicle Laws  – Towed, Removed, or Abandoned Vehicles – Electronic Noti ce to 
+Owner  
  
-AN ACT concerning  1 
+FOR the purpose of authorizing a person who tows or removes a vehicle from a parking lot 
+to provide electronic notice of the tow or removal to the vehicle owne r through the  
+Motor Vehicle Administration under certain circumstances ; authorizing a police 
+department that takes an abandoned vehicle i nto custody to send an electronic notice 
+to the last known registered owner  of the vehicle  through the Administration  under 
+certain circumstances ; and generally relating t o the electronic  notice to vehicle 
+owners for towed, removed, or abandoned vehicles.  
  
-Vehicle Laws  – Towed, Removed, or Abandoned Vehicles – Electronic Noti ce to 2 
-Owner  3 
+BY repealing and reenacting, with amendments,  
+ Article – Transportation  
+Section 21–10A–04, 25 –204, and 25 –205 
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of authorizing a person who tows or removes a vehicle from a parking lot 4 
-to provide electronic notice of the tow or removal to the vehicle owne r through the  5 
-Motor Vehicle Administration under certain circumstances ; authorizing a police 6 
-depa rtment that takes an abandoned vehicle into custody to send an electronic notice 7 
-to the last known registered owner  of the vehicle  through the Administration  under 8 
-certain circumstances ; and generally relating t o the electronic  notice to vehicle 9 
-owners for towed, removed, or abandoned vehicles.  10 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  11 
- Article – Transportation  12 
-Section 21–10A–04, 25 –204, and 25 –205 13 
- Annotated Code of Maryland  14 
- (2020 Replacement Volume and 2024 Supplement)  15 
+Article – Transportation  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 16 
-That the Laws of Maryland read as follows:  17 
+21–10A–04. 
  
-Article – Transportation  18 
+ (a) Unless otherwise set by local law, a person who undertakes the towing or 
+removal of a vehicle from a parking lot:  
  
-21–10A–04. 19 
+  (1) May not charge the owner of the vehicle, the own er’s agent, the insurer 
+of record, or any secured party more than:  
  
-2 HOUSE BILL 191   
+   (i) Twice the amount of the total fees normally charged or 
+authorized by the political subdivision for the public safety impound towing of vehicles;  
  
-  (a) Unless otherwise set by local law, a person who undertakes the towing or 1 
-removal of a vehicle from a parking lot:  2 
+   (ii) Notwithstanding § 16 –207(f) (1) of the Commercial Law Article, 
+the fee normally charged or authorized by the political subdivision from which the vehicle 
+was towed for the daily storage of impounded vehicles;  
  
-  (1) May not charge the owner of the vehicle, the owner’s agent, the insurer 3 
-of record, or any secured party more than:  4 
+   (iii) If a political subdivision does not establish a fee limit for the  
+public safety towing, recovery, or storage of impounded vehicles, $250 for towing and 
+recovering a vehicle and $30 per day for vehicle storage; and  
  
-   (i) Twice the amount of the total fees normally charged or 5 
-authorized by the political subdivision for the public safety impound towing of v ehicles;  6 
+Ch. 520  2025 LAWS OF MARYLAND   
  
-   (ii) Notwithstanding § 16 –207(f)(1) of the Commercial Law Article, 7 
-the fee normally charged or authorized by the political subdivision from which the vehicle 8 
-was towed for the daily storage of impounded vehicles;  9 
+– 2 –    (iv) Subject to subsection (b) of this section, the actual cost of 
+providing notice under this section;  
  
-   (iii) If a political subdi vision does not establish a fee limit for the 10 
-public safety towing, recovery, or storage of impounded vehicles, $250 for towing and 11 
-recovering a vehicle and $30 per day for vehicle storage; and  12 
+  (2) Shall notify the police department in the jurisdiction where the parking 
+lot is located within 1 hour after towing or removing the vehicle from the parking lot, and 
+shall provide the following information:  
  
-   (iv) Subject to subsection (b) of this section, the actual  cost of 13 
-providing notice under this section;  14 
+   (i) A description of the vehicle including the vehicle’s registration 
+plate number and vehicle identification number;  
  
-  (2) Shall notify the police department in the jurisdiction where the parking 15 
-lot is located within 1 hour after towing or removing the vehicle from the parking lot, and 16 
-shall provide the following informatio n: 17 
+   (ii) The date and time the vehicle was towed or removed;  
  
-   (i) A description of the vehicle including the vehicle’s registration 18 
-plate number and vehicle identification number;  19 
+   (iii) The reason the vehicle was towed or removed; and  
  
-   (ii) The date and time the vehicle was towed or removed;  20 
+   (iv) The locations from which and to which the vehicle was towed or 
+removed;  
  
-   (iii) The reason the vehicle was towed or removed; and  21 
+  (3) (i) [Shall ] SUBJECT TO  ITEM S (II) AND (III) OF THIS ITEM , 
+SHALL  notify the owner and [, except as provided in item (ii) of this item, ] the insurer of 
+record and any secured party by certified mail, return receipt requested, and first –class 
+mail within 7 days, exclusive of days that the towing business is closed, after towing or 
+removing the vehicle, and shall provide the same information  required in a notice to a police 
+department under item (2) of this subsection; [and] 
  
-   (iv) The locations from which and to which the vehicle was towed or 22 
-removed;  23 
+   (II) MAY PROVIDE NOTICE REQUI RED UNDER ITEM (I) OF THIS 
+ITEM  TO THE OWNER ELECTRO NICALLY  THROUGH THE ADMINISTRATION IF: 
  
-  (3) (i) [Shall ] SUBJECT TO  ITEM S (II) AND (III) OF THIS ITEM , 24 
-SHALL  notify the owner and [, except as provided in item (ii) of this item, ] the insurer of 25 
-record and any secured party by certified mail, return receipt requested, and first –class 26 
-mail within 7 days, exclusive of days that the towing business is closed, after towing or 27 
-removing the vehicle, and shall provide the same information  required in a notice to a police 28 
-department under item (2) of this subsection; [and] 29 
+    1. THE ADMINISTRATION SENDS THE NOTICE TO  THE 
+OWNER USING THE E –MAIL ADDRESS THE OWNER PROVIDED TO THE 
+ADMINISTRATION , AS SHOWN IN THE  ADMINISTRATION ’S RECORDS ; AND  
  
-   (II) MAY PROVIDE NOTICE REQUI RED UNDER ITEM (I) OF THIS 30 
-ITEM  TO THE OWNER ELECTRO NICALLY  THROUGH THE ADMINISTRATION IF: 31 
+    2. THE TOWER SENDS A NOT ICE BY CERTIFIED MAIL , 
+RETURN RECEIPT REQUE STED , AND FIRST –CLASS MAIL , TO THE OWNER IF THE 
+OWNER DOES NOT RESPOND  WITHIN 7 DAYS  AFTER THE ELECTRONIC NOTICE  WAS 
+SENT BY THE ADMINISTRATION ; AND 
  
- HOUSE BILL 191  3 
+   [(ii)] (III) May provide notice required under item (i) of this item to 
+any secured party or insurer of record electronically, if that form of notice is agreed to  by 
+the tower and the secured party or insurer of record in writing or by electronic 
+communication;  
  
-     1. THE ADMINISTRATION SENDS THE NOTICE TO  THE 1 
-OWNER USING THE E –MAIL ADDRESS THE OWNER PROVIDED TO THE 2 
-ADMINISTRATION , AS SHOWN IN THE  ADMINISTRATION ’S RECORDS ; AND  3 
+  (4) Shall provide to the owner, any secured party, and the insurer of record 
+the itemized actual costs of providing notice under this section;  
  
-    2. THE TOWER SENDS A NOT ICE BY CERTIFIED MAIL , 4 
-RETURN RECEIPT REQUE STED , AND FIRST –CLASS MAIL , TO THE OWNER IF THE 5 
-OWNER DOES NOT RESPOND  WITHIN 7 DAYS  AFTER THE ELECTRONIC NOTICE  WAS 6 
-SENT BY THE ADMINISTRATION ; AND 7 
+ WES MOORE, Governor  Ch. 520  
  
-   [(ii)] (III) May provide notice required under item (i) of this item to 8 
-any secured party or insurer of record electronically, if that form of notice is agreed to  by 9 
-the tower and the secured party or insurer of record in writing or by electronic 10 
-communication;  11 
+– 3 –   (5) Before towing or removing the vehicle, shall have authorization of the 
+parking lot owner which shall include:  
  
-  (4) Shall provide to the owner, any secured party, and the insurer of record 12 
-the itemized actual costs of providing notice under this section;  13 
+   (i) The name of the person authorizing the tow or removal;  
  
-  (5) Before towing or removing the vehicle, shall have authorization of the 14 
-parking lot owner which shall include:  15 
+   (ii) A statement that the vehicle is being towed or removed at the 
+request of the parking lot owner; and  
  
-   (i) The name of the person authorizing the tow or removal;  16 
+   (iii) Photographic evidence of the violation or event that precipitated 
+the towing of the vehicle;  
  
-   (ii) A statement that the vehicle is being towed or removed at the 17 
-request of the parking lot owner; and  18 
+  (6) Shall obtain commercial liability insurance in the amount required by 
+federal law for transporting property in interstate or foreign commerce to cover the cost of 
+any damage to the vehicle resulting from the person’s negligence;  
  
-   (iii) Photographic evidence of the violation or event that precipitated 19 
-the towing of the vehicle;  20 
+  (7) May not employ or otherwise compensate individuals, commonly 
+referred to as “spotters”, whose primary task is to report the presence of unauth orized 
+parked vehicles for the purposes of towing or removal, and impounding;  
  
-  (6) Shall obtain commercial liability insurance in the amount required by 21 
-federal law for transporting property in interstate o r foreign commerce to cover the cost of 22 
-any damage to the vehicle resulting from the person’s negligence;  23 
+  (8) May not pay any remuneration to the owner, agent, or employee of the 
+parking lot; and  
  
-  (7) May not employ or otherwise compensate individuals, commonly 24 
-referred to as “spotters”, whose primary task is to report the presence of unautho rized 25 
-parked vehicles for the purposes of towing or removal, and impounding;  26 
+  (9) May not tow a vehicle solely for a violation of failure to display a valid 
+current registration under § 13 –411 of this article until 72 hours after a notice of violation 
+is placed on the vehicle.  
  
-  (8) May not pay any remuneration to the owner, agent, or employee of the 27 
-parking lot; and  28 
+ (b) A person may not charge for the actual cost of providing notice under 
+subsection (a)(1)(iv) of this section if the vehicle owner, th e owner’s agent, the insurer of 
+record, or any secured party retakes possession of the vehicle within 48 hours after the 
+vehicle was received at the storage facility.  
  
-  (9) May not tow a vehicle solely for a violation of failure to display a valid 29 
-current registration under § 13 –411 of this article until 72 hours after a notice of violation 30 
-is placed on the vehicle.  31 
+ (c) The Administration shall:  
  
- (b) A person may not charge for the actual cost of providing notice under 32 
-subsection (a)(1)(iv) of this section if the vehicle owner, the  owner’s agent, the insurer of 33 
-4 HOUSE BILL 191   
+  (1) ADOPT REGULATIONS TO ALLOW FOR ELECTRONIC NOTIFICATION  
+TO VEHICLE OWNERS UNDER SUBSECTION (A)(3)(II) OF THIS SECTION ;  
  
- record, or any secured party retakes possession of the vehicle within 48 hours after the 1 
-vehicle was received at the storage facility.  2 
+  (2) Establish and maintain a database containing  the proper address for 
+providing notice to an insurer under subsection [(a)(3) ] (A)(3)( III) of this section for each 
+insurer au thorized to write a vehicle liability insurance policy in the State; and  
  
- (c) The Administration shall:  3 
+  [(2)] (3) Make the database REQUIRED UNDER ITEM (2) OF THIS 
+SUBSECTION  available to any tower free of charge.  
  
-  (1) ADOPT REGULATIONS TO ALLOW FOR ELECTRONIC NOTIFICATION  4 
-TO VEHICLE OWNERS UNDER SUBSECTION (A)(3)(II) OF THIS SECTION ;  5 
+ (d) An agreement to provide notice electronically made in accordance with 
+subsection [(a)(3)(ii) ] (A)(3)(III) of this section shall remain in effect until terminated by 
+either party.  
+Ch. 520  2025 LAWS OF MARYLAND   
  
-  (2) Establish and maintain a database containing  the proper address for 6 
-providing notice to an insurer under subsection [(a)(3) ] (A)(3)( III) of this section for each 7 
-insurer authorized to write a vehicle liability insurance policy in the State; and  8 
+– 4 –  
+25–204. 
  
-  [(2)] (3) Make the database REQUIRED UNDER ITEM (2) OF THIS 9 
-SUBSECTION  available to any tower free of charge.  10 
+ (a) (1) As soon as reasonably possible and within 7 days at most a fter it takes 
+an abandoned vehicle into custody, a police department shall send a notice, by certified 
+mail, return receipt requested, bearing a postmark from the United States Postal Service, 
+to: 
  
- (d) An agreement to provide notice electronically made in accordance with 11 
-subsection [(a)(3)(ii) ] (A)(3)(III) of this section shall remain in effect until terminated by 12 
-either party.  13 
+   (i) [The] SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , 
+THE last known registered owner of the vehicle; and  
  
-25–204. 14 
+   (ii) Subject to paragraph [(2)] (3) of this subsection, each secured 
+party, as shown on the records of the Administration.  
  
- (a) (1) As soon as reasonably possible and within 7 days at most a fter it takes 15 
-an abandoned vehicle into custody, a police department shall send a notice, by certified 16 
-mail, return receipt requested, bearing a postmark from the United States Postal Service, 17 
-to: 18 
+  (2) A POLICE DEPARTMENT MA Y NOTIFY  THE LAST KNOWN 
+REGISTERED OWNER ELECTRONICALLY  THROUGH THE  ADMINISTRATION IF: 
  
-   (i) [The] SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , 19 
-THE last known registered owner of the vehicle; and  20 
+   (I) THE ADMINISTRATION SENDS THE NOTI CE TO THE  OWNER 
+USING THE  E–MAIL ADDRESS THE OWNER PROVIDED  TO THE ADMINISTRATION , AS 
+SHOWN IN THE RECORDS OF THE ADMINISTRATION ; AND  
  
-   (ii) Subject to paragraph [(2)] (3) of this subsection, each secured 21 
-party, as shown on the records of the Administration.  22 
+   (II) THE POLICE DEPARTMENT SENDS  THE OWNER NOTICE BY 
+CERTIFIED MAIL , RETURN RECEIPT REQUE STED , AND FIRST –CLASS MAIL , IF THE 
+OWNER DOES NOT RESPOND WIT HIN 7 DAYS AFTER THE ELECTRONIC NOTIC E WAS 
+SENT BY THE ADMINISTRATION .  
  
-  (2) A POLICE DEPARTMENT MA Y NOTIFY  THE LAST KNOWN 23 
-REGISTERED OWNER ELECTRO NICALLY  THROUGH THE  ADMINISTRATION IF: 24 
+  [(2)] (3) A police department may send notice to any secur ed party 
+electronically, if that form of notice is agreed to by the police department, the tower, and 
+the secured party in writing or by electronic communication.  
  
-   (I) THE ADMINISTRATION SENDS THE NOTI CE TO THE  OWNER 25 
-USING THE  E–MAIL ADDRESS THE OWNER PROVIDED  TO THE ADMINISTRATION , AS 26 
-SHOWN IN THE RECORDS OF THE ADMINISTRATION ; AND  27 
+ (b) The notice shall:  
  
-   (II) THE POLICE DEPARTMENT SENDS  THE OWNER NOTICE BY 28 
-CERTIFIED MAIL , RETURN RECEIPT REQUE STED , AND FIRST –CLASS MAIL , IF THE 29 
-OWNER DOES NOT RESPOND WIT HIN 7 DAYS AFTER THE ELECTRONIC NOTIC E WAS 30 
-SENT BY THE ADMINISTRATION .  31 
+  (1) State that the abandoned vehicle has been taken into custody;  
  
- HOUSE BILL 191  5 
+  (2) Describe the year, make, model, and vehicle identification number of 
+the vehicle;  
  
-   [(2)] (3) A police department may send notice to any secured pa rty 1 
-electronically, if that form of notice is agreed to by the police department, the tower, and 2 
-the secured party in writing or by electronic communication.  3 
+  (3) Give the location of the facility where the vehicle is held;  
  
- (b) The notice shall:  4 
+  (4) (i) Inform the owner and secured party of the owner’s and secured 
+party’s right to reclaim t he vehicle within 3 weeks after the date of the notice, on payment 
+of all towing, preservation, and storage charges resulting from taking or placing the vehicle 
+in custody; or  
  
-  (1) State that the abandoned vehicle has been taken into custody;  5 
+ WES MOORE, Governor  Ch. 520  
  
-  (2) Describe the year, make, model, and vehicle identification number of 6 
-the vehicle;  7 
+– 5 –    (ii) In Baltimore City and Montgomery County, subject to subsection 
+(a)(2) AND (3) of this section, be sent by certified mail, return receipt requested, and inform 
+the owner and secured party of the owner’s and secured party’s right to reclaim the vehicle 
+within 11 working days after the receipt of the notice, on payment of all to wing, 
+preservation, and storage charges resulting from taking or placing the vehicle in custody; 
+and 
  
-  (3) Give the location of the facility where the vehicle is held;  8 
+  (5) State that the failure of the owner or secured party to exercise this right 
+in the time provided is:  
  
-  (4) (i) Inform the owner and secured party of the owner’s and secured 9 
-party’s right to reclaim the vehicle within 3 weeks after the date of the notice, on payment 10 
-of all towing, preservation, and storage charges resulting from taking or placing the vehicle 11 
-in custody; or  12 
+   (i) A waiver by the owner or secured party of all of the owner’s or 
+secured party’s right, title, and interest in the vehicle;  
  
-   (ii) In Baltimore City and Montgomery County, subject to subsection 13 
-(a)(2) AND (3) of this section, be sent by certified mail, return receipt requested, and inform 14 
-the owner and secured party of the owner’s and secured party’s right to reclaim the vehicle 15 
-within 11 working days after the receipt of the notice, on payment of all towin g, 16 
-preservation, and storage charges resulting from taking or placing the vehicle in custody; 17 
-and 18 
+   (ii) A consent to the sale of the vehicle at public auction; and  
  
-  (5) State that the failure of the owner or secured party to exercise this right 19 
-in the time provided is:  20 
+   (iii) A consent by the owner other than a lessor to the retention of the 
+vehicle for public purposes as provided in § 25 –207 of this subtitle.  
  
-   (i) A waiver by the owner or secured party of all of the owner’s or 21 
-secured party’s right, title, and interest in the vehicle;  22 
+ (c) In Baltimore City, Prince George’s County, and Montgomery County, a police 
+department or its agent may seek to recover costs of impoundment, storage, and sale of a 
+vehicle as provided by §§ 25 –206.1 and 25 –206.2 of this subtitle. If a police department or 
+its agent seeks to apply the provisions of §§ 25 –206.1 and 25 –206.2 of this subtitle, the 
+notice required by this section shall also state that the failure of the owner or secured party 
+to exercise t he right to reclaim the vehicle in the time provided may cause:  
  
-   (ii) A consent to the sale of the vehicle at public auction; and  23 
+  (1) Continuing liability of the owner for costs of:  
  
-   (iii) A consent by the owner other than a lessor to the retention of the 24 
-vehicle for public purposes a s provided in § 25 –207 of this subtitle.  25 
+   (i) Impoundment;  
  
- (c) In Baltimore City, Prince George’s County, and Montgomery County, a police 26 
-department or its agent may seek to recover costs of impoundment, storage, and sale of a 27 
-vehicle as provided by §§ 25 –206.1 and 25 –206.2 of this subtitle. If a police department or 28 
-its agent seeks to apply the provisions of §§ 25 –206.1 and 25 –206.2 of this subtitle, the 29 
-notice required by this section shall also state that the failure of the owner or secured party 30 
-to exercise the right t o reclaim the vehicle in the time provided may cause:  31 
+   (ii) Storage within the chargeable limit for storage as provided in § 
+25–206.1(b) of this subtitle; and  
  
-  (1) Continuing liability of the owner for costs of:  32 
+   (iii) Sale of the vehicle; and  
  
-   (i) Impoundment;  33 
+  (2) Denial of any application by the owner to renew the registration of any 
+vehicle as required by § 25 –206.2 of this subtitle.  
  
-6 HOUSE BILL 191   
+ (D) THE ADMINISTRATION SHALL ADOPT REGULATIONS TO  ALLOW FOR 
+ELECTRONIC NOTIFICATION  TO THE LAST KNOWN RE GISTERED OWNER OF A 
+VEHICLE UNDER SUBSECTION (A)(2) OF THIS SECTION .  
  
-    (ii) Storage within the chargeable limit for storage as provided in § 1 
-25–206.1(b) of this subtitle; and  2 
+25–205. 
  
-   (iii) Sale of the vehicle; and  3 
+ (a) This section applies if:  
  
-  (2) Denial of any application by the owner to renew the registration of any 4 
-vehicle as required by § 25 –206.2 of this subtitle.  5 
+Ch. 520  2025 LAWS OF MARYLAND   
  
- (D) THE ADMINISTRATION SHALL ADOPT REGULATIONS TO  ALLOW FOR 6 
-ELECTRONIC NOTIFICATION  TO THE LAST KNOWN RE GISTERED OWNER OF A 7 
-VEHICLE UNDER SUBSECTION (A)(2) OF THIS SECTION .  8 
+– 6 –   (1) The identity of the last registered owner of an abandoned vehicle cannot 
+be determined;  
  
-25–205. 9 
+  (2) The registration of the vehicle gives no address for the owner;  
  
- (a) This section applies if:  10 
+  (3) It is impossible to determine with reasonable certainty the identity and 
+address of each secured party;  
  
-  (1) The identity of the last registered owner of an abandoned vehicle cannot 11 
-be determined;  12 
+  (4) The certified mail notice  required by § 25 –204 of this subtitle is  
+returned as undeliverable; or  
  
-  (2) The registration of the vehicle gives no address for the owner;  13 
+  (5) The electronic [notice ] NOTICES  authorized under [§ 25 –204] §  
+25–204(A)(2) OR (3) of this subtitle [is] ARE not acknowledged or [is] ARE returned as 
+undeliverabl e. 
  
-  (3) It is impossible to determine with reasonable certainty the identity and 14 
-address of each secured party;  15 
+ (b) Under one of the conditions described in subsection (a) of this section, a police 
+department that takes an abandoned vehicle into custody shall give the required notice by 
+posting a notice complying with the provisions of subsection (c) of this section in the circuit 
+court of the county where the abandoned vehicle was found.  
  
-  (4) The certified mail notice  required by § 25 –204 of this subtitle is  16 
-returned as undeliverable; or  17 
+ (c) The notice:  
  
-  (5) The electronic [notice ] NOTICES  authorized under [§ 25 –204] §  18 
-25–204(A)(2) OR (3) of this subtitle [is] ARE not acknowledged or [is] ARE returned as 19 
-undeliverabl e. 20 
+  (1) May contain multiple listings of abandoned vehicles;  
  
- (b) Under one of the conditions described in subsection (a) of this section, a police 21 
-department that takes an abandoned vehicle into custody shall give the required notice by 22 
-posting a notice complying with the provisions of subsection (c) of this section in the circuit 23 
-court of the county where the abandoned vehicle was found.  24 
+  (2) Shall contain the information required by § 25 –204 of this subtitle; and  
  
- (c) The notice:  25 
+  (3) Shall be posted:  
  
-  (1) May contain multiple listings of abandoned vehicles;  26 
+   (i) Within 15 days of the taking into custody of the vehicle; or  
  
-  (2) Shall contain the information required by § 25 –204 of this subtitle; and  27 
+   (ii) If the notice by posting under this section is made because of the 
+return as undeliverable of a prior notice by certified mail, return receipt requested, bearing 
+a postmark from the United States Postal Service, within 7 days of the return of that prior 
+notice. 
  
-  (3) Shall be posted:  28 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
-   (i) Within 15 days of the taking into custody of the vehicle; or  29 
- 
- HOUSE BILL 191  7 
- 
-    (ii) If the notice by posting under this section is made because of the 1 
-return as undeliverable of a prior notice by certified mail, return receipt requested, bearing 2 
-a postmark from the United States Postal Service, within 7 days of the return of that prior 3 
-notice. 4 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 5 
-October 1, 2025.  6 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 13, 2025.  

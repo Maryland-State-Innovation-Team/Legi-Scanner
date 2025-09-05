@@ -1,1066 +1,1031 @@
+ WES MOORE, Governor  Ch. 844  
+ 
+– 1 – Chapter 844  
+(House Bill 49 ) 
+ 
+AN ACT concerning  
+ 
+Environment – Building Energy Performance Standards – Compliance and 
+Reporting  Alterations  and Analysis  
+ 
+FOR the purpose of altering an alternative compliance fee paid by certain owners of covered 
+buildings under certain circumstances to include the energy use attributable to the 
+building’s failure to meet certain energy targets; requiring certain regulations to 
+include a certa in annual reporting fee to cover certain costs; requiring the 
+Department of the Environment to deposit alternative compliance fees into the 
+Maryland Strategic Energy Investment Fund; and generally relating to compliance 
+and reporting for Building Energy Pe rformance Standards  altering the requirements 
+for certain regulations adopted by the Department of the Environment relating to 
+building energy performance standards to include certain crediting,  exclusions, and 
+considerations, a certain alternative complia nce pathway fee for energy use 
+attributable to a building’s failure to meet energy use intensity targets, certain 
+waivers from certain alternative compliance pathway fees, and a certain annual 
+reporting fee to cover certain costs; requiring the Department to offer certain 
+training to help certain energy auditors understand the requirements under the 
+building energy performance standards and publish a list of energy auditors that 
+have completed the training  and a certain annual reporting fee to cover certain  costs ; 
+authorizing  requiring  the Department to certify a  certain  building energy 
+performance standards program adopted by a county under certain circumstances; 
+requiring the Department to deposit alternative compliance pathway payments into 
+the Maryland S trategic Energy Investment Fund  conduct a certain analysis ; and 
+generally relating to building energy performance standards . 
+ 
+BY repealing and reacting, with amendments,  
+ Article – Environment  
+ Section 2–1601 and  2–1602(c)  
+ Annotated Code of Maryland  
+ (2013 Replacement Volume and 2024 Supplement)  
+ 
+BY adding to  
+ Article – Environment  
+ Section 2 –1602(f)  
+ Annotated Code of Maryland  
+ (2013 Replacement Volume and 2024 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – Environment  
+Section 2–1602(c)  
+ Annotated Code of Maryland  
+Ch. 844  2025 LAWS OF MARYLAND   
+ 
+– 2 –  (2013 Replacement Volume and 2024 Supplement)  
+ (As enacted by Chapter 38 of the Acts of the General Assembly of 2022)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Economic Development  
+ Section 3 –201(a)  and (d)  
+ Annotated Code of Maryland  
+ (2024 Replacement Volume and 2024 Supplement)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Environment  
+ Section 2 –1202(a) and (h)  
+ Annotated Code of Maryland  
+ (2013 Replacement Volume and 2024 Supplement)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – Public Utilities  
+ Section 1 –101(a) and (h –1) 
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2024 Supplement)  
+ 
+BY repealing and reenacting, without amendments,  
+ Article – State Government  
+Section 9 –20B–05(a) and (b)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
+ 
+BY repealing and reenacting, with amendments,  
+ Article – State Government  
+ Section 9 –20B–05(e)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
+ 
+BY adding to  
+ Article – State Government  
+ Section 9 –20B–05(g–2) 
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
+ 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
+ 
+Article – Environment  
+ 
+2–1602.  
+ 
+ WES MOORE, Governor  Ch. 844  
+ 
+– 3 –  (c) (1) On or before June 1, 2023, the Department shall adopt regulations to 
+implement this section.  
+ 
+  (2) Regulations adopted under this section shall:  
  
+   (i) Subject to items (ii) and (iii), (III), (IV), AND (V) of this 
+paragraph, include energy use intensity targets by building type;  
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.  
-         Italics indicate opposite chamber/conference committee amendments.             *hb0049*      
-HOUSE BILL 49  
-M3   (5lr0290 ) 
-ENROLLED BILL  
-— Environment and Transportation/Education, Energy, and the Environment  — 
-Introduced by Chair, Environment and Transportation Committee (By Request – 
-Departmental – Environment)  
- 
-Read and Examined by Proofreaders:  
- 
-_______________________________________________  
-Proofreader.  
-_______________________________________________  
-Proofreader.  
- 
-Sealed with the Great Seal and presented to the Governor, for his approval this  
-  
-_______ day of _______________ at ________________________ o’clock, ________M.  
-  
-______________________________________________  
-Speaker .  
- 
-CHAPTER ______  
- 
-AN ACT concerning  1 
- 
-Environment – Building Energy Performance Standards – Compliance and 2 
-Reporting  Alterations  and Analysis  3 
- 
-FOR the purpose of altering an alternative compliance fee paid by certain owners of covered 4 
-buildings under certain circumstances to include the energy use attributable to the 5 
-building’s failure to meet certain energy targets; requiring certain regulations to 6 
-include a certain annual reporting fee to cover certain costs; requiring the 7 
-Department of the Environment to deposit alternative compliance fees into the 8 
-Maryland Strategic Energy Investment Fund; and generally relating to compliance 9 
-and reporting for Building Energy Performance Standards  altering the requirements 10 
-for certain regulations adopted by the Department of the Environment relating to  11 
-building energy performance standards to include certain crediting,  exclusions, and 12 
-considerations, a certain alternative compliance pathway fee for energy use 13 
-attributable to a building’s failure to meet energy use intensity targets, certain 14 
-2 HOUSE BILL 49   
- 
- waivers from  certain alternative compliance pathway fees, and a certain annual 1 
-reporting fee to cover certain costs; requiring the Department to offer certain 2 
-training to help certain energy auditors understand the requirements under the 3 
-building energy performance st andards and publish a list of energy auditors that 4 
-have completed the training  and a certain annual reporting fee to cover certain costs ; 5 
-authorizing  requiring  the Department to certify a  certain  building energy 6 
-performance standards program adopted by a c ounty under certain circumstances; 7 
-requiring the Department to deposit alternative compliance pathway payments into 8 
-the Maryland Strategic Energy Investment Fund  conduct a certain analysis ; and 9 
-generally relating to building energy performance standards . 10 
- 
-BY repealing and reacting, with amendments,  11 
- Article – Environment  12 
- Section 2–1601 and  2–1602(c)  13 
- Annotated Code of Maryland  14 
- (2013 Replacement Volume and 2024 Supplement)  15 
- 
-BY adding to  16 
- Article – Environment  17 
- Section 2 –1602(f)  18 
- Annotated Code of Marylan d 19 
- (2013 Replacement Volume and 2024 Supplement)  20 
- 
-BY repealing and reenacting, with amendments,  21 
- Article – Environment  22 
-Section 2 –1602(c)  23 
- Annotated Code of Maryland  24 
- (2013 Replacement Volume and 2024 Supplement)  25 
- (As enacted by Chapter 38 of the Acts of the General Assembly of 2022)  26 
- 
-BY repealing and reenacting, without amendments,  27 
- Article – Economic Development  28 
- Section 3 –201(a) and (d)  29 
- Annotated Code of Maryland  30 
- (2024 Replacement Volume and 2024 Supplement)  31 
- 
-BY repealing and reenacting, without amendments,  32 
- Article – Environment  33 
- Section 2 –1202(a) and (h)  34 
- Annotated Code of Maryland  35 
- (2013 Replacement Volume and 2024 Supplement)  36 
- 
-BY repealing and reenacting, without amendments,  37 
- Article – Public Utilities  38 
- Section 1 –101(a) and (h –1) 39 
- Annotated Co de of Maryland  40 
- (2020 Replacement Volume and 2024 Supplement)  41 
- HOUSE BILL 49  3 
- 
-  
-BY repealing and reenacting, without amendments,  1 
- Article – State Government  2 
-Section 9 –20B–05(a) and (b)  3 
- Annotated Code of Maryland  4 
- (2021 Replacement Volume and 2024 Supplement)  5 
+   (ii) As necessary, include special provisions or exceptions to account 
+for: 
  
-BY repealing and reenacting, with amendments,  6 
- Article – State Government  7 
- Section 9 –20B–05(e)  8 
- Annotated Code of Maryland  9 
- (2021 Replacement Volume and 2024 Supplement)  10 
+    1. Building age;  
  
-BY adding to  11 
- Article – State Government  12 
- Section 9 –20B–05(g–2) 13 
- Annotated Code of Maryl and 14 
- (2021 Replacement Volume and 2024 Supplement)  15 
+    2. Regional differences;  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 16 
-That the Laws of Maryland read as follows:  17 
+    3. The unique needs of particular building or occupancy 
+types, including health care facilities, laboratories, assisted living and nursing facilities, 
+military buildings, critical infrastructure, and buildings used in life sciences AS DEFINED 
+IN § 3–201 OF TH E ECONOMIC DEVELOPMENT ARTICLE  as defined in § 3 –201 of the 
+Economic Development Article ; and 
  
-Article – Environment  18 
+    4. The use of district energy systems and biofuels by covered 
+buildings;  
  
-2–1602.  19 
+    5. CREDITING THE GENERAT ION OF ON –SITE 
+RENEWABLE ENERGY BY COVERED BUILDINGS TO WARD THEIR ENERGY US E 
+INTENSITY TARGETS ; 
  
- (c) (1) On or before June 1, 2023, the Department shall adopt r egulations to 20 
-implement this section.  21 
+    6. CREDITING THE GREENHO USE GAS REDUCTION 
+IMPACT OF THE ON –SITE USE OF BIOMETHA NE;  
  
-  (2) Regulations adopted under this section shall:  22 
+    7. EXCLUDING THE ENERGY USE AND GREENHOUSE G AS 
+EMISSIONS RELATED TO  THE PRODUCTION OF ST EAM FOR STERILIZATIO N IN A 
+HEALTH  CARE FACILITY , LABORATORY , ASSISTED LIVING AND NURSING FACILITY , 
+MILITARY BUILDING , OR BUILDING USED IN LIFE SCIENCES ; AND  
  
-   (i) Subject to items (ii) and (iii) , (III), (IV), AND (V) of this 23 
-paragraph, include energy use intensity targets by building type;  24 
+    8. EXCLUDING THE ENERGY USE AND GREENHOUSE G AS 
+EMISSIONS RELATED TO  THE GENERATION OF EM ERGENCY BACKUP POWER  AT A 
+HEALTH CARE FACILITY , LABORATORY , ASSISTED LIVING AND NURSING FACILITY , 
+MILITARY BUILDING , CRITICAL INFRASTRUCT URE, EXCEPT FOR ANY CRITI CAL 
+INFRASTRUCTURE IDENT IFIED UNDER § 1–101( H–1)(2)( II) OF THE PUBLIC 
+UTILITIES ARTICLE , OR BUILDING USED IN LIFE SCIENCES ; AND  
  
-   (ii) As necessary, include special provisions or exceptions to account 25 
-for: 26 
+    9. OPERATIONAL NEEDS , INCLUDING SCALING FA CTORS 
+TO ADJUST FOR DIFFER ENT OPERATING HOURS ;  
+Ch. 844  2025 LAWS OF MARYLAND   
  
-    1. Building age;  27 
+– 4 –  
+   (iii) Consider the needs of the owners of covered buildings who:  
  
-    2. Regional differences;  28 
+    1. Are not responsible for the design, modification, fixtures, 
+or equipment of commercial t enants;  
  
-    3. The unique needs of particular building or occupancy 29 
-types, including health care facilities, laboratories, assisted living and nursing fac ilities, 30 
-military buildings, critical infrastructure, and buildings used in life sciences AS DEFINED 31 
-IN § 3–201 OF THE ECONOMIC DEVELOPMENT ARTICLE  as defined in § 3 –201 of the 32 
-Economic Development Article ; and 33 
-4 HOUSE BILL 49   
+    2. Do not have access to or control over building energy 
+systems that are used or controlled by commercial tenants; or  
  
-  
-    4. The use of district energy systems an d biofuels by covered 1 
-buildings;  2 
+    3. Own buildings occupied by commercial tenants who are 
+responsible for all maintenance of and repairs to the buildings ; 
  
-    5. CREDITING THE GENERAT ION OF ON –SITE 3 
-RENEWABLE ENERGY BY COVERED BUILDINGS TO WARD THEIR ENERGY US E 4 
-INTENSITY TARGETS ; 5 
+   (iv) SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION , EXEMPT 
+FROM ENERGY USE INTE NSITY TARGETS A COVE RED BUILDING THAT CO NTAINS AN 
+AREA DESIGNED , BUILT , AND OPERATED AS A PE RMANENT SENSITIVE 
+COMPARTMENTED INFORM ATION FACILITY AND I S OPERATED BY AN AGE NCY  OR 
+CONTRACTOR OF : 
  
-    6. CREDITING THE GREENHO USE GAS REDUCTION 6 
-IMPACT OF THE ON –SITE USE OF BIOMETHA NE;  7 
+    1. THE U.S.  GENERAL SERVICES ADMINISTRATION ;  
  
-    7. EXCLUDING THE ENERGY USE AND GREENHOUSE G AS 8 
-EMISSIONS RELATED TO  THE PRODUCTION OF ST EAM FOR STERILIZATIO N IN A 9 
-HEALTH CARE FACILITY , LABORATORY , ASSISTED LIVING AND NURSING FACILITY , 10 
-MILITARY BUILDING , OR BUILDING USED IN LIFE SCIENCES ; AND  11 
+    2. A. THE U.S.  DEPARTMENT OF DEFENSE ;  
+ 
+    B. THE NATIONAL SECURITY AGENCY ;  
  
-    8. EXCLUDING THE ENERGY USE AND GREENHOUSE G AS 12 
-EMISSIONS RELATED TO  THE GENERATION OF EM ERGENCY BACKUP POWER  AT A 13 
-HEALTH CARE FACILITY , LABORATORY , ASSISTED LIVING AND NURSING FACILITY , 14 
-MILITARY BUILDING , CRITICAL INFRASTRUCT URE, EXCEPT FOR ANY CRITI CAL 15 
-INFRA STRUCTURE IDENTIFIED  UNDER § 1–101( H–1)(2)( II) OF THE PUBLIC 16 
-UTILITIES ARTICLE , OR BUILDING USED IN LIFE SCIENCES ; AND  17 
+    C. THE U.S.  DEPARTMENT OF HOMELAND SECURITY ; 
+OR 
  
-    9. OPERATIONAL NEEDS , INCLUDING SCALING FA CTORS 18 
-TO ADJUST FOR DIFFER ENT OPERATING HOURS ;  19 
+    D. ANY OTHER U.S.  INTELLIGENCE AGENCY ; OR 
+ 
+    3. THE STATE ;  
  
-   (iii) Consider the needs of the owners  of covered buildings who:  20 
+   (V) EXEMPT AN OWNER OF A COVERED BUILDING FRO M 
+ENERGY USE INTENSITY  REPORTING REQUIREMEN TS IF : 
  
-    1. Are not responsible for the design, modification, fixtures, 21 
-or equipment of commercial tenants;  22 
+    1. THE COVERED BUILDING MEETS THE CRITERIA 
+UNDER ITEM (IV) OF THIS PARAGRAPH ; AND  
+ 
+    2. THE IN CIRCUMSTANCES WHER E TENANT 
+AUTHORIZATI ON IS REQUIRED , THE TENANT OR OCCUPANT D OES NOT PROVIDE 
+ENERGY USE INFORMATI ON TO THE OWNER OF T HE COVERED BUILDING DUE TO 
+CONCERNS ABOUT THE C ONFIDENTIALITY OF TH E BUILDING ’S SECURE AREA ; 
  
-    2. Do not have access to or control over building energy 23 
-systems that are used or controlled by commercial tenants; or  24 
+   (VI) Provide maximum flexibility to the owners of covered buildings 
+to comply with building energy performance standards;  
+ WES MOORE, Governor  Ch. 844  
  
-    3. Own buildings occupied by commercial tenants who are 25 
-responsible for all maintenance of and repairs to the buildings;  26 
+– 5 –  
+   (v) (VII) Subject to paragraph (3) (4) (3) of this subsection AND 
+SUBSECTION (F) OF THIS SECTION , include an alternative compliance pathway allowing 
+the owner of a covered building to pay a fee for [greenhouse ]:  
  
-   (iv) SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION , EXEMPT 27 
-FROM ENERGY USE INTE NSITY TARGETS A COVE RED BUILDING THAT CO NTAINS AN 28 
-AREA DESIGNED , BUILT , AND OPERATED AS A PE RMANENT SENSITIVE 29 
-COMPARTMENTED INFORM ATION FACILITY AND I S OPERATED BY AN AGE NCY OR 30 
-CONTRACTOR OF : 31 
+    1. GREENHOUSE  gas emissions attributable to the 
+building’s failure to meet direct greenhouse gas emissions reduction targets; and 
  
-    1. THE U.S.  GENERAL SERVICES ADMINISTRATION ;  32 
+    2. ENERGY USE ATTRIBUTAB LE TO THE BUILDING ’S 
+FAILURE TO MEET ENER GY USE INTENSITY TAR GETS ; 
+ 
+   (VIII) SUBJECT TO PARAGRAPH (4)(II) OF THIS SUBSECTION A ND 
+SUBSECTION (F) OF THIS SECTION , INCLUDE AN ALTERNATI VE COMPLIANCE 
+PATHWAY ALLOWING THE  OWNER OF A COVERED B UILDING TO PAY A FEE  OF 5 
+CENTS PER THOUSAND BRITISH THERMAL UNITS  OF ENERGY , ADJUSTED  FOR 
+INFLATION USING 2020  AS THE BASELINE YEAR  FOR CALCULATING THE 
+ADJUSTMENT , FOR ENERGY USE ATTRI BUTABLE TO THE BUILD ING’S FAILURE TO 
+MEET ENERGY USE INTE NSITY TARGETS ; 
+ 
+   (IX) ALLOW THE OWNER OF A COVERED BUILDING TO REQUEST 
+A ONE–TIME WAIVER , FOR THE ENTIRE BUILDING , FROM PAYING AN ALTER NATIVE 
+COMPLIANCE PATHWAY F EE UNDER ITEMS (VII) AND (VIII) OF THIS PARAGRAPH 
+THROUGH NOT LATER TH AN 2039  FOR ENERGY OR EMISSI ONS ATTRIBUTABLE TO 
+CONTINUED OPERATION OF EQUIPMENT INSTALL ED BEFORE 2025  FOR THE 
+EXPECTED AV ERAGE REMAINING LIFE SPAN OF THAT EQUIPME NT, AS IDENTIFIED BY 
+A PUBLICLY AVAILABLE  DATABASE SELECTED BY  THE DEPARTMENT , BY: 
  
- HOUSE BILL 49  5 
+    1. SUBMITTING TO THE DEPARTMENT , AT LEAST 1 YEAR 
+BEFORE THE REQUESTED  WAIVER WOULD TAKE EF FECT : 
  
-     2. A. THE U.S.  DEPARTMENT OF DEFENSE ;  1 
+    A. AN INVENTORY OF DESCR IPTIONS , SERIAL NUMBERS , 
+AND INSTALLATION DAT ES OF THE EQUIPMENT THAT PROVIDES THE BA SIS OF THE 
+WAIVER APPLICATIONS ; AND  
  
-    B. THE NATIONAL SECURITY AGENCY ;  2 
+    B. A PLAN PREPARED BY AN ENERGY AUDITOR THAT 
+COMPLETED THE TRAINI NG REQUIRED UNDER PA RAGRAPH (7) OF THIS SUBSECTION 
+DETAILING THE DAT ES THAT SPECIFIC PRO JECTS WILL BE COMPLE TED AND THE 
+ENERGY USE INTENSITY  AND GREENHOUSE GAS E MISSIONS SAVINGS THA T WILL 
+RESULT FROM THE PROJ ECTS ; 
+ 
+    2. DEMONSTRATING IN THE PLAN PREPARED UNDER 
+ITEM 1B OF THIS ITEM HOW THE  BUILDING WILL COME I NTO COMPLIANCE WITH THE 
+FINAL TARGETS BEFORE  2040  WITH MINIMAL RELIANC E ON ALTERNATIVE 
+COMPLIANCE PATHWAY P AYMENTS ; 
+Ch. 844  2025 LAWS OF MARYLAND   
  
-    C. THE U.S.  DEPARTMENT OF HOMELAND SECURITY ; 3 
-OR 4 
+– 6 –  
+    3. CERTIFYING THAT THE P ROJECTS WILL BE 
+COMPLETED BY THE DAT ES DETAILED UNDER IT EM 1B OF THIS ITEM , OR THAT THE 
+EXEMPTED ALTERNATIVE  COMPLI ANCE PATHWAY FEES WI LL BE PAID IF THE 
+PROJECTS ARE NOT COM PLETED BY THOSE DATE S; AND  
+ 
+    4. PAYING A FEE TO COVER  THE COST FOR THE 
+DEPARTMENT OR ITS CON TRACTOR TO REVIEW TH E PLAN ; 
+ 
+   (X) SUBJECT TO PARAGRAPH (5) OF THIS SUBSECTION , ALLOW 
+THE OWNER OF A C OVERED BUILDING TO R EQUEST A WAIVER FROM  PAYING 
+ALTERNATIVE COMPLIAN CE PATHWAY FEES FOR ENERGY USE OR GREENH OUSE GAS 
+EMISSIONS ASSOCIATED  WITH ENERGY OR EMISS IONS REDUCTION MEASU RES THAT 
+THE DEPARTMENT DETERMINES  TO BE IMPRACTICABLE OR ECONOMICALLY 
+INFEASI BLE BY : 
  
-    D. ANY OTHER U.S.  INTELLIGENCE AGENCY ; OR 5 
+    1. SUBMITTING TO THE DEPARTMENT , AT LEAST 1 YEAR 
+BEFORE THE REQUESTED  WAIVER WOULD TAKE EF FECT , AN ENGINEERING STUDY  
+PREPARED BY AN ENERG Y AUDITOR THAT COMPL ETED THE TRAINING RE QUIRED 
+UNDER PARAGRAPH (7) OF THIS SUBSECTION D ETAILING THE PRACTI CABILITY OR 
+IMPRACTICABILITY OR ECONOMIC FEASIBILITY  OR INFEASIBILITY OF ENERGY OR 
+EMISSIONS REDUCTION MEASURES THAT WOULD BE NEEDED TO ACHIEVE  THE 
+ENERGY USE INTENSITY  AND DIRECT GREENHOUS E GAS EMISSIONS REDU CTION 
+TARGETS ; 
+ 
+    2. DETAILING THE ENERGY USE  INTENSITY OR DIRECT 
+GREENHOUSE GAS EMISS IONS ABOVE TARGET LE VELS THAT WOULD OCCU R IF THE 
+OWNER OF THE COVERED  BUILDING DOES NOT IM PLEMENT THE IMPRACTI CABLE OR 
+ECONOMICALLY INFEASI BLE MEASURES ; AND  
+ 
+    3. PAYING A FEE TO COVER  THE COST FOR THE 
+DEPARTMENT OR ITS CONTRACTOR TO  REVIEW THE STUDY ;  
+ 
+   (VI) (XI) (VIII) To the extent authorized by law, include financial 
+incentives recommended by the Building Energy Transition Implementation Task Force ; 
+AND  
+ 
+   (VII) (XII) (IX) INCLUDE AN ANNUAL REP ORTING FEE OF $100  
+PER COVERED BUILDING , ADJUSTED FOR INFLATI ON, TO COVER THE 
+ADMINISTRATIVE COSTS  UNDER THIS SECTION  OF THE PROGRAM . 
+ 
+  (3) (I) AN OWNER OF A COVERED  BUILDING THAT IS EXE MPT FROM 
+ENERGY USE INTENSITY  TARGETS UNDER PARAGR APH (2)(IV) OF THIS SUBSECTION 
+ WES MOORE, Governor  Ch. 844  
+ 
+– 7 – SHALL PROVIDE AN AFF IDAVIT SIGNED BY AN OFFICER OR PRINCIPAL  
+CONTROLLING MEMBER , SHAREHOLDER , OR PARTNER OF THE OW NER OF THE 
+COVERED BUILDING THA T PROVIDES : 
+ 
+    1. THE ADDRESS OF EACH B UILDING FOR WHICH TH E 
+EXEMPTION APPLIES ; AND  
+ 
+    2. A STATEMENT CONFI RMING THAT AS OF THE  DATE OF 
+THE AFFIDAVIT THE BU ILDING MEETS THE STA NDARDS SET FORTH IN PARAGRAPH 
+(2)(IV) OF THIS SUBSECTION . 
+ 
+   (II) INFORMATION SUBMITTED  TO THE DEPARTMENT UNDER 
+PARAGRAPH (2)(IV) OF THIS SUBSECTION A ND THIS PARAGRAPH IS  EXEMPT FROM 
+DISCLOSURE IN ACCORDANC E WITH § 4–301( A)(2) OF THE GENERAL PROVISIONS 
+ARTICLE . 
+ 
+  (4) (I) The Department may not set an alternative compliance fee that 
+is less than the social cost of greenhouse gases adopted by the Department or the U.S. 
+Environmental Protec tion Agency  THAT IS IN THE AMOUN T OF $190  PER METRIC TON 
+OF EXCESS CARBON DIO XIDE EQUIVALENT , ADJUSTED FOR INFLATI ON USING 2020  
+AS THE BASELINE YEAR  FOR CALCULATING THE ADJUSTMENT . 
+ 
+   (II) IF A COVERED BUILDING  EXERCISES THE ALTERN ATIVE 
+COMPLIANCE FEE OPTION FOR BOTH DIRE CT GREENHOUSE GAS EM ISSIONS 
+TARGETS AND ENERGY U SE INTENSITY TARGETS , THE DEPARTMENT SHALL 
+COLLECT ONLY THE HIG HER OF THE TWO FEES . 
+ 
+  (5) (I) A WAIVER GRANTED UNDER  PARAGRAPH (2)(X) OF THIS 
+SUBSECTION : 
+ 
+    1. SHALL REMAIN IN EFFEC T FO R A PERIOD OF 5 YEARS ; 
+AND  
+ 
+    2. MAY BE RENEWED . 
  
-    3. THE STATE ;  6 
+   (II) IN MAKING A DETERMINA TION ON A WAIVER REQ UEST 
+SUBMITTED UNDER PARA GRAPH (2)(X) OF THIS SUBSECTION , THE DEPARTMENT 
+SHALL : 
  
-   (V) EXEMPT AN OWNER OF A COVERED BUILDING FRO M 7 
-ENERGY USE INTENSITY  REPORTING REQUIREMEN TS IF : 8 
+    1. IF A COVERED BUILDING  EXERCISES THE 
+ALTERNATIVE COMPLIAN CE FEE OPTION FOR BOTH DIRE CT GREENHOUSE GAS 
+EMISSIONS TARGETS AN D ENERGY USE INTENSI TY TARGETS , CONSIDER ONLY THE 
+HIGHER OF THE TWO FE ES WHEN CALCULATING AVOIDED COMPLIANCE P ATHWAY 
+PAYMENTS ; AND  
+Ch. 844  2025 LAWS OF MARYLAND   
  
-    1. THE COVERED BUILDING MEETS THE CRITERIA 9 
-UNDER ITEM (IV) OF THIS PARAGRAPH ; AND  10 
+– 8 –  
+    2. CONSIDER THE AVAILABI LITY OF CAPITAL .  
  
-    2. THE IN CIRCUMSTANCES WHER E TENANT 11 
-AUTHORIZATION IS REQ UIRED , THE TENANT OR OCCUPANT D OES NOT PROVIDE 12 
-ENERGY USE INFORMATI ON TO THE OWNER OF T HE COVERED BUILDING DUE TO  13 
-CONCERNS ABOUT THE C ONFIDENTIALITY OF TH E BUILDING ’S SECURE AREA ; 14 
+  (4) (6) THE DEPAR TMENT SHALL DEPOSIT AN ALTERNATIVE  
+COMPLIANCE FEE COLLE CTED UNDER THIS SUBS ECTION INTO THE MARYLAND  
+STRATEGIC ENERGY INVESTMENT FUND UNDER § 9–20B–05 OF THE STATE  
+GOVERNMENT ARTICLE . 
  
-   (VI) Provide maximum flexibility to the owners of covered buildings 15 
-to comply with building energy performance standards;  16 
+  (7) (I) THE DEPARTMENT SHALL : 
  
-   (v) (VII) Subject to paragraph (3) (4) (3) of this subsection AND 17 
-SUBSECTION (F) OF THIS SECTION , include an alternative compliance pathway allowing 18 
-the owner of a covered building to pay a fee for [greenhouse ]:  19 
+    1. OFFER TRAINING TO HEL P ENERGY AUDITORS THAT 
+POSSESS , IN GOOD STANDING , A PROFESSIONAL LICEN SE OR CREDENTIAL 
+RECOGNIZED BY THE DEPARTMENT UNDERSTAND  THE REGULATIONS ADOP TED 
+UNDER THIS SECTION , INCLUDING REQUIREMEN TS FOR ALTERNATIVE C OMPLIANCE 
+PLANS AND ENGINEERIN G STUDIES ; 
  
-    1. GREENHOUSE  gas emissions attributable to the 20 
-building’s failure to meet direct greenhouse gas emissions reduction targets; and 21 
+    2. PUBLI SH A LIST OF ENERGY AUDITORS THAT HAVE 
+COMPLETED THE TRAINI NG OFFERED UNDER ITE M 1 OF THIS SUBPARAGRAPH ; AND  
  
-    2. ENERGY USE ATTRIBUTAB LE TO THE BUILDING ’S 22 
-FAILURE TO MEET ENER GY USE INTENSITY TAR GETS ; 23 
+    3. INCLUDE A FEE TO COVE R THE COST FOR THE 
+DEPARTMENT OR ITS CON TRACTOR TO PROVIDE T HE TRAINING . 
  
-   (VIII) SUBJECT TO PARAGRAPH (4)(II) OF THIS SUBSECTION AND 24 
-SUBSECTION (F) OF THIS SECTION , INCLUDE AN ALTERNATI VE COMPLIANCE 25 
-PATHWAY ALLOWING THE  OWNER OF A COVERED B UILDING TO PAY A FEE  OF 5 26 
-CENTS PER THOUSAND BRITISH THERMAL UNITS  OF ENERGY , ADJUSTED FOR 27 
-INFLATION USING 2020  AS THE BASELINE Y EAR FOR CALCULATING THE 28 
-ADJUSTMENT , FOR ENERGY USE ATTRI BUTABLE TO THE BUILD ING’S FAILURE TO 29 
-MEET ENERGY USE INTE NSITY TARGETS ; 30 
+   (II) AN OWNER OF A COVERED  BUILDING SHALL  CONTRACT 
+WITH AN ENERGY AUDIT OR THAT COMPLETED TH E TRAINING REQUIRED UNDER 
+SUBPARAGRAPH (I) OF THIS PARAGRAPH TO  SUBMIT AN ENGINEERIN G PLAN OR 
+STUDY SEEKING A WAIV ER UNDER PARAGRAPH (2)(IX) AND (X) OF THIS SUBSECTION . 
  
-6 HOUSE BILL 49   
+  (8) (4) (I) SUBJECT TO SUBPARAGRA PH (II) OF THIS 
+PARAGRAPH , THE DEPARTMENT MAY SHALL  CERTIFY A BUILDING E NERGY 
+PERFORMANCE STANDARD S PROGRAM ADOPTED BY  A COUNTY  ADMINISTERING A 
+BUILDING ENERGY PERF ORMANCE STANDARDS PR OGRAM ON OR BEFORE MARCH 1, 
+2025,  AND WAIVE THE REQ UIREMENT FOR A COVERED BUILDING  BUILDINGS IN THE 
+COUNTY  TO COMPLY WITH THE S TATEWIDE PROGRAM ADO PTED UNDER THIS 
+SECTION WHEN : 
  
-    (IX) ALLOW THE OWNER OF A COVERED BUILDING TO REQUEST 1 
-A ONE–TIME WAIVER , FOR THE ENTIRE BUILD ING, FROM PAYING AN ALTER NATIVE  2 
-COMPLIANCE PATHWAY F EE UNDER ITEMS (VII) AND (VIII) OF THIS PARAGRAPH 3 
-THROUGH NOT LATER TH AN 2039  FOR ENERGY OR EMISSI ONS ATTRIBUTABLE TO 4 
-CONTINUED OPERATION OF EQUIPMENT INSTALL ED BEFORE 2025  FOR THE 5 
-EXPECTED AVERAGE REM AINING LIFESPAN OF T HAT EQUIPMENT , AS IDENTIFIED BY 6 
-A PUBLICLY AVAILABLE  DATABASE SELECTED BY  THE DEPARTMENT , BY: 7 
+    1. THE DEPARTMENT DETERMINES , BASED ON A 
+DEMONSTRATION PROVID ED BY THE COUNTY , THAT THE COUNTY HAS ADOPTED A 
+BUILDING ENERGY PERFORMANCE STANDARD S PROGRAM THAT IS AT  LEAST AS 
+STRINGENT AS THE STA TEWIDE PROGRAM ADOPT ED UNDER THIS SECTIO N; AND  
  
-    1. SUBMITTING TO THE DEPARTMENT , AT LEAST 1 YEAR 8 
-BEFORE THE REQUESTED  WAIVER WOULD TAKE EF FECT : 9 
+    2. THE COUNTY ANNUALLY S UBMITS TO THE 
+DEPARTMENT A COMPLETE  LIST OF COVERED BUIL DINGS , INCLUDING THEIR 
+ WES MOORE, Governor  Ch. 844  
  
-    A. AN INVENTORY OF DESCR IPTIONS , SERIAL NUMBERS , 10 
-AND INSTALLATION DAT ES OF THE EQUIPMENT T HAT PROVIDES THE BAS IS OF THE 11 
-WAIVER APPLICATIONS ; AND  12 
+– 9 – ENERGY USE INTENSITY , DIRECT GR EENHOUSE GAS EMISSIO NS, AND COMPLIANCE 
+STATUS WITH THE COUN TY PROGRAM . 
  
-    B. A PLAN PREPARED BY AN ENERGY AUDITOR THAT 13 
-COMPLETED THE TRAINI NG REQUIRED UNDER PA RAGRAPH (7) OF THIS SUBSECTION 14 
-DETAILING THE DATES THAT SPECIFIC PROJEC TS WILL BE COMPLETED  AND THE 15 
-ENERGY USE INTENSITY  AND GREENHOUSE GAS E MISSIONS SAVINGS THA T WILL 16 
-RESULT FROM THE PROJ ECTS ; 17 
+   (II) A COUNTY ADMINISTERING  A BUILDING ENERGY 
+PERFORMANCE STANDARD S PROGRAM CERTIFIED BY THE DEPARTMENT UNDER 
+SUBPARAGRAPH (I) OF THIS PARAGRAPH MA Y TAKE APPROPRIATE A CTIONS TO 
+ENFO RCE THE STANDARDS , INCLUDING :  
  
-    2. DEMONSTRATING IN THE PLAN PREPARED UNDER 18 
-ITEM 1B OF THIS ITEM HOW THE  BUILDING WILL COME I NTO COMPLIANCE WITH THE 19 
-FINAL TARGETS BEFORE  2040  WITH MINIMAL RELIANCE ON ALTERNATIVE 20 
-COMPLIANCE PATHWAY P AYMENTS ; 21 
+    1. ESTABLISHING ALTERNAT IVE COMPLIANCE 
+PATHWAYS FOR COMPLYI NG WITH ENERGY USE I NTENSITY AND DIRECT 
+GREENHOUSE GAS EMISS IONS REQUIREMENTS ES TABLISHED IN THE STA NDARDS ; 
  
-    3. CERTIFYING THAT THE P ROJECTS WILL BE 22 
-COMPLETED BY THE DAT ES DETAILED UNDER IT EM 1B OF THIS ITEM , OR THAT THE 23 
-EXEMPTED ALTERNATIVE  COMPLIANCE PATHWAY F EES WILL BE PAID IF THE 24 
-PROJECTS ARE NOT COMPLETED BY THO SE DATES ; AND  25 
+    2. IMPOSING AND COLLECTI NG ALTERNATIVE 
+COMPLIANC E FEES IN UP TO  THE SAME AMOUNT AND  IN THE SAME  MANNER 
+ALLOWED BY THE DEPARTMENT UNDER THIS  SECTION ; AND  
  
-    4. PAYING A FEE TO COVER  THE COST FOR THE 26 
-DEPARTMENT OR ITS CON TRACTOR TO REVIEW TH E PLAN ; 27 
+    3. IMPOSING AND COLLECTI NG PENALTIES IN UP TO  THE 
+SAME AMOUNT AND  IN THE SAME  MANNER ALLOWED BY TH E DEPARTMENT UNDER 
+§ 2–610 OF THIS TITLE . 
  
-   (X) SUBJECT TO PARAGRAPH (5) OF THIS SUBSECTION , ALLOW 28 
-THE OWNER OF A COVER ED BUILDING TO REQUE ST A WAIVER FROM PAY ING 29 
-ALT ERNATIVE COMPLIANCE PATHWAY FEES FOR ENE RGY USE OR GREENHOUS E GAS 30 
-EMISSIONS ASSOCIATED  WITH ENERGY OR EMISS IONS REDUCTION MEASU RES THAT 31 
-THE DEPARTMENT DETERMINES  TO BE IMPRACTICABLE OR ECONOMICALLY 32 
-INFEASIBLE BY : 33 
+  (9) (5) NOTHING IN THIS SECTI ON SHALL PRECLUDE A COUNTY  
+ADMINISTERING A BUIL DING ENERGY PERFORMA NCE STANDARDS PROGRA M 
+CERTIFIED BY THE DEPARTMENT UNDER PARA GRAPH (4)( I) OF THIS SUBSECTION  
+FROM ADOPTING : 
  
-    1. SUBMITTING TO THE DEPARTMENT , AT LE AST 1 YEAR 34 
-BEFORE THE REQUESTED  WAIVER WOULD TAKE EF FECT , AN ENGINEERING STUDY  35 
-PREPARED BY AN ENERG Y AUDITOR THAT COMPL ETED THE TRAINING RE QUIRED 36 
- HOUSE BILL 49  7 
+   (I) ADOPTING  BUILDING ENERGY PERF ORMANCE STANDARDS 
+FOR BUILDINGS THAT A RE NOT COVERED BUILD INGS UNDER THE STATE WIDE 
+PROGRAM ADOPTED UNDE R THIS SECTION ; OR 
  
- UNDER PARAGRAPH (7) OF THIS SUBSECTION D ETAILING THE PRACTIC ABILITY OR 1 
-IMPRACTICABILITY OR ECONOMIC FEASIBILIT Y OR INFEASIBILITY O F ENERGY OR 2 
-EMISSIONS REDUCTION MEASURES THAT WOULD BE NEEDED TO ACHIEVE  THE 3 
-ENERGY USE INTENSITY  AND DIRECT GREENHOUS E GAS EMISSIONS REDU CTION 4 
-TARGETS ; 5 
+   (II) MODIFYING AN ADOPTED BUILDING PERFORMANCE  
+STANDARDS PROGRAM . 
  
-    2. DETAILING THE ENERGY USE INTENSITY OR DIR ECT 6 
-GREENHOUSE GAS EMISS IONS ABOVE  TARGET LEVELS THAT W OULD OCCUR IF THE 7 
-OWNER OF THE COVERED  BUILDING DOES NOT IM PLEMENT THE IMPRACTI CABLE OR 8 
-ECONOMICALLY INFEASI BLE MEASURES ; AND  9 
+  (10)  THE DEPARTMENT SHALL MAKE  THE NECESSARY APPLIC ATION 
+AND FORMS FOR A WAIV ER UNDER THIS SECTION A VAILABLE ON THE 
+DEPARTMENT ’S WEBSITE . 
  
-    3. PAYING A FEE TO COVER  THE COST FOR THE 10 
-DEPARTMENT OR ITS CON TRACTOR TO REVIEW TH E STUDY ;  11 
+ (F) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , THE 
+DEPARTMENT MAY NOT : 
  
-   (VI) (XI) (VIII) To the extent authorized by law, include financial 12 
-incentives recommended by the Building Energy Transition Implementation Task Force ; 13 
-AND  14 
+   (I) IMPOSE AND COLLECT AL TERNATIVE COMPLIANCE  FEES 
+UNDER THIS SECTION U NTIL 2032;  OR 
  
-   (VII) (XII) (IX) INCLUDE AN ANNUAL REP ORTING FEE OF $100  15 
-PER COVERED BUILDING , ADJUSTED FOR INFLATI ON, TO COVER THE 16 
-ADMINISTRATIVE COSTS  UNDER THIS SECTION  OF THE PROGRAM . 17 
+Ch. 844  2025 LAWS OF MARYLAND   
  
-  (3) (I) AN OWNER OF A COVERED  BUILDING THAT IS EXE MPT FROM 18 
-ENERGY USE INTENSITY  TARGETS UNDER PARAGR APH (2)(IV) OF THIS SUBSECTION 19 
-SHALL PROVIDE AN AFF IDAVIT SIGNED BY AN OFFICER OR PRINCIPAL 20 
-CONTROLLING MEMBER , SHAREHOLDER , OR PARTNER OF THE OW NER OF THE 21 
-COVERED BUILDING THA T PROVIDES : 22 
+– 10 –    (II) IMPOSE AND COLLECT P ENALTIES FOR FAILURE  TO 
+ACHIEVE BUILDING ENE RGY PERFORMANCE STAN DARDS UNDER THIS SEC TION 
+UNTIL 2032.  
  
-    1. THE ADDRESS OF EACH B UILDING FOR WHICH TH E 23 
-EXEMPTION APPLIES ; AND  24 
+  (2) THE PROHIBITION UNDER  PARAGRAPH (1)(II) OF THIS 
+SUBSECTION DOES NOT APPLY TO THE IMPOSIT ION AND COLLECTION O F PENALTIES 
+FOR FAILURE TO MEET ANY REPORTING REQUIREMEN TS UNDER THIS SECTIO N.  
  
-    2. A STATEMENT CONFIRMING  THAT AS OF THE DATE OF 25 
-THE AFFIDAVIT THE BU ILDING MEETS THE STAND ARDS SET FORTH IN PA RAGRAPH 26 
-(2)(IV) OF THIS SUBSECTION . 27 
+ SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 
+as follows:  
  
-   (II) INFORMATION SUBMITTED  TO THE DEPARTMENT UNDER 28 
-PARAGRAPH (2)(IV) OF THIS SUBSECTION A ND THIS PARAGRAPH IS  EXEMPT FROM 29 
-DISCLOSURE IN ACCORD ANCE WITH § 4–301( A)(2) OF THE GENERAL PROVISIONS 30 
-ARTICLE . 31 
+Article – Environment  
  
-  (4) (I) The Department may not set an alternative compliance fee that 32 
-is less than the social cost of greenhouse gases adopted by the Department or the U.S. 33 
-Environmental Protection Agency  THAT IS IN THE AMOUN T OF $190  PER METRI C TON 34 
-8 HOUSE BILL 49   
+2–1602.  
  
- OF EXCESS CARBON DIO XIDE EQUIVALENT , ADJUSTED FOR INFLATI ON USING 2020  1 
-AS THE BASELINE YEAR  FOR CALCULATING THE ADJUSTMENT . 2 
+ (c) (1) On or before June 1, 2023, the Department shall adopt regulations to 
+implement this sec tion.  
  
-   (II) IF A COVERED BUILDING  EXERCISES THE ALTERN ATIVE 3 
-COMPLIANCE FEE OPTIO N FOR BOTH DIRECT GR EENHOUSE GAS EMISSIO NS 4 
-TARGET S AND ENERGY USE INT ENSITY TARGETS , THE DEPARTMENT SHALL 5 
-COLLECT ONLY THE HIG HER OF THE TWO FEES . 6 
+  (2) Regulations adopted under this section shall:  
  
-  (5) (I) A WAIVER GRANTED UNDER  PARAGRAPH (2)(X) OF THIS 7 
-SUBSECTION : 8 
+   (i) Subject to items (ii)  AND (III), (III), (IV), AND (V) of this 
+paragraph, include energy use intensity targets by building type;  
  
-    1. SHALL REMAIN IN EFFEC T FOR A PERIOD OF 5 YEARS ; 9 
-AND  10 
+   (ii) As necessary, include special provisions or exceptions to account 
+for: 
  
-    2. MAY BE RENEWED . 11 
+    1. Building age;  
  
-   (II) IN MAKING A DETERMINA TION ON A WAIVER REQ UEST 12 
-SUBMITTED UNDER PARA GRAPH (2)(X) OF THIS SUBSECTION , THE DEPARTMENT 13 
-SHALL : 14 
+    2. Regional differences;  
  
-    1. IF A COVERED BUILDING  EXERCISES THE 15 
-ALTERNATIVE COMPLIAN CE FEE OPTION FOR BO TH DIRECT GREENHOUSE  GAS 16 
-EMISSIONS TARGETS AND ENERGY USE INTEN SITY TARGETS , CONSIDER ONLY THE 17 
-HIGHER OF THE TWO FE ES WHEN CALCULATING AVOIDED COMPLIANCE P ATHWAY 18 
-PAYMENTS ; AND  19 
+    3. The unique needs of particular building or occupancy 
+types, including health care facilities, laboratories, assisted living and nursing facilities, 
+military buildings, c ritical infrastructure, and buildings used in life sciences AS DEFINED 
+IN § 3–201 OF THE ECONOMIC DEVELOPMENT ARTICLE  as defined in § 3 –201 of the 
+Economic Development Article ; and 
  
-    2. CONSIDER THE AVAILABI LITY OF CAPITAL .  20 
+    4. The use of district energy systems and biofuels by covered 
+building s; 
  
-  (4) (6) THE DEPARTMENT SHALL DEPO SIT AN ALTERNATIVE  21 
-COMPLIANCE FEE COLLE CTED UNDER THIS SUBSE CTION INTO THE MARYLAND  22 
-STRATEGIC ENERGY INVESTMENT FUND UNDER § 9–20B–05 OF THE STATE  23 
-GOVERNMENT ARTICLE . 24 
+    5. CREDITING THE GENERAT ION OF ON –SITE 
+RENEWABLE ENERGY BY COVERED BUILDINGS TO WARD THEIR ENERGY US E 
+INTENSITY TARGETS ; 
  
-  (7) (I) THE DEPARTMENT SHALL : 25 
+    6. CREDITING THE GREENHO USE GAS REDUCTION 
+IMPACT OF THE ON –SITE USE OF BIOMETHA NE;  
+ WES MOORE, Governor  Ch. 844  
  
-    1. OFFER TRAINING TO HEL P ENERGY AUDITORS TH AT 26 
-POSSESS , IN GOOD STANDING , A PROFESSIONAL LICENSE OR CREDENTIA L 27 
-RECOGNIZED BY THE DEPARTMENT UNDERSTAND  THE REGULATIONS ADOP TED 28 
-UNDER THIS SECTION , INCLUDING REQUIREMEN TS FOR ALTERNATIVE C OMPLIANCE 29 
-PLANS AND ENGINEERIN G STUDIES ; 30 
+– 11 –  
+    7. EXCLUDING THE ENERGY USE AND GREENHOUSE GAS 
+EMISSIONS RELATED TO  THE PRODUCTION OF ST EAM FOR STERILIZATIO N IN A 
+HEALTH CARE FACILITY , LABORATORY , ASSISTED LIVING AND NURSING FACILITY , 
+MILITARY BUILDING , OR BUILDING USED IN LIFE SCIENCES ; AND  
  
-    2. PUBLISH A LIST OF ENE RGY AUDITORS THAT HA VE 31 
-COMPLETED THE TRA INING OFFERED UNDER ITEM 1 OF THIS SUBPARAGRAPH ; AND  32 
+    8. EXCLUDING THE ENERGY USE AND GREEN HOUSE GAS 
+EMISSIONS RELATED TO  THE GENERATION OF EM ERGENCY BACKUP POWER  AT A 
+HEALTH CARE FACILITY , LABORATORY , ASSISTED LIVING AND NURSING FACILITY , 
+MILITARY BUILDING , CRITICAL INFRASTRUCT URE, EXCEPT FOR ANY CRITI CAL 
+INFRASTRUCTURE IDENT IFIED UNDER § 1–101(H–1)(2)( II) OF THE PUBLIC 
+UTILITIES ARTICLE , OR BUILDING USED IN LIFE SCIENCES ; AND  
  
- HOUSE BILL 49  9 
+    9. OPERATIONAL NEEDS , INCLUDING SCALING FA CTORS 
+TO ADJUST FOR DIFFER ENT OPERATING HOURS ;  
  
-     3. INCLUDE A FEE TO COVE R THE COST FOR THE 1 
-DEPARTMENT OR ITS CON TRACTOR TO PROVIDE T HE TRAINING . 2 
+   (iii) Consider the needs of the owners of covered buildings who:  
  
-   (II) AN OWNER OF A COVERED  BUILDING SHALL CONTR ACT 3 
-WITH AN ENERGY AUDIT OR THAT COMPLETED TH E TRAI NING REQUIRED UNDER 4 
-SUBPARAGRAPH (I) OF THIS PARAGRAPH TO  SUBMIT AN ENGINEERIN G PLAN OR 5 
-STUDY SEEKING A WAIV ER UNDER PARAGRAPH (2)(IX) AND (X) OF THIS SUBSECTION . 6 
+    1. Are not responsible for the design, modification, fixtures, 
+or equipment of commercial tenants;  
  
-  (8) (4) (I) SUBJECT TO SUBPARAGRA PH (II) OF THIS 7 
-PARAGRAPH , THE DEPARTMENT MAY SHALL  CERTIFY A BUILDING E NERGY 8 
-PERFORMANCE STANDARD S PROGRAM ADOPTED BY  A COUNTY  ADMINISTERING A 9 
-BUILDING ENERGY PERF ORMANCE STANDARDS PR OGRAM ON OR BEFORE MARCH 1, 10 
-2025,  AND WAIVE THE REQUIR EMENT FOR A COVERED BUILDING  BUILDINGS IN THE 11 
-COUNTY  TO COMPLY WITH TH E STATEWIDE PROGRAM ADOPTED UNDER THIS 12 
-SECTION WHEN : 13 
+    2. Do not have access to or control over building energy 
+systems that are used or controlled by commercial tenants; or  
  
-    1. THE DEPARTMENT DETERMINES , BASED ON A 14 
-DEMONSTRATION PROVID ED BY THE COUNTY , THAT THE COUNTY HAS ADOPTED A 15 
-BUILDING ENERGY PERF ORMANCE STANDARDS PR OGRAM THAT IS AT LEA ST AS 16 
-STRINGENT AS THE STATEWIDE PROGRAM AD OPTED UNDER THIS SEC TION ; AND  17 
+    3. Own buildings occupied by c ommercial tenants who are 
+responsible for all maintenance of and repairs to the buildings;  
  
-    2. THE COUNTY ANNUALLY S UBMITS TO THE 18 
-DEPARTMENT A COMPLETE  LIST OF COVERED BUIL DINGS , INCLUDING THEIR 19 
-ENERGY USE INTENSITY , DIRECT GREENHOUSE GA S EMISSIONS , AND COMPLIANCE 20 
-STATUS WITH THE COUN TY PROGR AM. 21 
+   (iv) SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION , EXEMPT 
+FROM ENERGY USE INTE NSITY TARGETS A COVE RED BUILDING THAT CO NTAINS AN 
+AREA DESIGNED , BUILT , AND OPERATED  AS A PERMANENT SENSI TIVE 
+COMPARTMENTED INFORM ATION FACILITY AND I S OPERATED BY AN AGE NCY OR 
+CONTRACTOR OF : 
  
-   (II) A COUNTY ADMINISTERING  A BUILDING ENERGY 22 
-PERFORMANCE STANDARD S PROGRAM CERTIFIED BY THE DEPARTMENT UNDER 23 
-SUBPARAGRAPH (I) OF THIS PARAGRAPH MA Y TAKE APPROPRIATE A CTIONS TO 24 
-ENFORCE THE STANDARD S, INCLUDING :  25 
+    1. THE U.S.  GENERAL SERVICES ADMINISTRATION ;  
  
-    1. ESTABLISHING ALTERNAT IVE COM PLIANCE 26 
-PATHWAYS FOR COMPLYI NG WITH ENERGY USE I NTENSITY AND DIRECT 27 
-GREENHOUSE GAS EMISS IONS REQUIREMENTS ES TABLISHED IN THE STA NDARDS ; 28 
+    2. A. THE U.S.  DEPARTMENT OF DEFENSE ;  
  
-    2. IMPOSING AND COLLECTI NG ALTERNATIVE 29 
-COMPLIANCE FEES IN UP TO  THE SAME AMOUNT AND  IN THE SAME  MANNER 30 
-ALLOWED BY THE DEPARTMENT UNDER THIS  SECTION ; AND  31 
+    B. THE NATIONAL SECURITY AGENCY ;  
  
-    3. IMPOSING AND COLLECTI NG PENALTIES IN UP TO  THE 32 
-SAME AMOUNT AND  IN THE SAME  MANNER ALLOWED BY TH E DEPARTMENT UNDER 33 
-§ 2–610 OF THIS TITLE . 34 
+    C. THE U.S.  DEPARTMENT OF HOMELAND SECURITY ; 
+OR 
  
-10 HOUSE BILL 49   
+    D. ANY OTHER U.S.  INTELLIGENCE AGENCY ; OR 
  
-   (9) (5) NOTHING IN THIS SECTI ON SHALL PRECLUDE A COUNTY  1 
-ADMINISTERING  A BUILDING ENERGY PE RFORMANCE STANDARDS PROGRAM 2 
-CERTIFIED BY THE DEPARTMENT UNDER PARA GRAPH (4)( I) OF THIS SUBSECTION  3 
-FROM ADOPTING : 4 
+Ch. 844  2025 LAWS OF MARYLAND   
  
-   (I) ADOPTING  BUILDING ENERGY PERF ORMANCE STANDARDS 5 
-FOR BUILDINGS THAT A RE NOT COVERED BUILD INGS UNDER THE STATE WIDE 6 
-PROGRAM ADOPTED UNDER THIS SECTION ; OR 7 
+– 12 –     3. THE STATE ;  
  
-   (II) MODIFYING AN ADOPTED BUILDING PERFORMANCE  8 
-STANDARDS PROGRAM . 9 
+   (V) EXEMPT AN OWNER OF A COVERED BUILDING FRO M 
+ENERGY USE INTENSITY  REPORTING REQUIREMEN TS IF : 
  
-  (10)  THE DEPARTMENT SHALL MAKE  THE NECESSARY APPLIC ATION 10 
-AND FORMS FOR A WAIV ER UNDER THIS SECTIO N AVAILABLE ON THE 11 
-DEPARTMENT ’S WEBSITE . 12 
+    1. THE COVERED BUILDING MEETS THE CRITERIA 
+UNDER ITEM (IV) OF THIS PARAGRAPH ; AND  
  
- (F) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , THE 13 
-DEPARTMENT MAY NOT : 14 
+    2. THE IN CIRCUMSTANCES WHER E TENANT 
+AUTHORIZATION IS REQ UIRED , THE TENANT OR OCCUPANT D OES NOT PROVIDE 
+ENERGY USE INFORMATI ON TO THE OWNER OF T HE COVERED BUILDING DUE TO 
+CONCERNS ABOUT THE C ONFIDENTIALITY OF TH E BUILDING ’S SECURE AREA ; 
  
-   (I) IMPOSE AND COLLECT AL TERNATIVE COMPLIANCE  FEES 15 
-UNDER THIS SECTION U NTIL 2032;  OR 16 
+   (VI) Provide maximum flexibility to the owners of covered buildings 
+to comply with building energy performance standards;  
  
-   (II) IMPOSE AND COLLECT PE NALTIES FOR FAILURE TO 17 
-ACHIEVE BUILDING ENE RGY PERFORMANCE STAN DARDS UNDER THIS SECT ION 18 
-UNTIL 2032.  19 
+   (v) (VII) Subject to paragraph (3) (4) (3) of this subsection  AND 
+SUBSECTION (F) OF THIS SECTION , include an alternative compliance pathway allowing 
+the owner of a covered building to pay a fee for  [greenhouse ]:  
  
-  (2) THE PROHIBITION UNDER  PARAGRAPH (1)(II) OF THIS 20 
-SUBSECTION DOES NOT APPLY TO THE IMPOSIT ION AND COLLECTION O F PENALTIES 21 
-FOR FAILURE TO MEET ANY REPORTING REQUIR EMENTS UNDER THIS SE CTION .  22 
+    1. GREENHOUSE  gas emissions attributable to the 
+building’s failure to meet direct greenhouse gas emissions reduction targets; and 
  
- SECTION 2. AND BE IT FU RTHER ENACTED, That the Laws of Maryland read 23 
-as follows:  24 
+    2. ENERGY USE ATTRIBUTAB LE TO THE BUILDING ’S 
+FAILURE TO MEET ENER GY USE INTENSITY TAR GETS ; 
  
-Article – Environment  25 
+   (VIII) SUBJECT TO PARAGRAPH (4)(II) OF THIS SUBSECTION A ND 
+SUBSECTION (F) OF THIS SECTION , INCLUDE AN ALTERNATI VE COMPLIANCE 
+PATHWAY ALLOWING THE  OWNER OF A COVERED  BUILDING TO PAY A FE E OF 5 
+CENTS PER THOUSAND BRITISH THERMAL UNITS  OF ENERGY , ADJUSTED FOR 
+INFLATION USING 2020  AS THE BASELINE YEAR  FOR CALCULATING THE 
+ADJUSTMENT , FOR ENERGY USE ATTRI BUTABLE TO THE BUILD ING’S FAILURE TO 
+MEET ENERGY USE INTE NSITY TARGET S; 
  
-2–1602.  26 
+   (IX) ALLOW THE OWNER OF A COVERED BUILDING TO REQUEST 
+A ONE–TIME WAIVER , FOR THE ENTIRE BUILD ING, FROM PAYING AN ALTER NATIVE 
+COMPLIANCE PATHWAY F EE UNDER ITEMS (VII) AND (VIII) OF THIS PARAGRAPH 
+THROUGH NOT LATER TH AN 2039  FOR ENERGY OR EMISSI ONS AT TRIBUTABLE TO 
+CONTINUED OPERATION OF EQUIPMENT INSTALL ED BEFORE 2025  FOR THE 
+EXPECTED AVERAGE REM AINING LIFESPAN OF T HAT EQUIPMENT , AS IDENTIFIED BY 
+A PUBLICLY AVAILABLE  DATABASE SELECTED BY  THE DEPARTMENT , BY: 
  
- (c) (1) On or before June 1, 2023, the Department shall adopt regulations to 27 
-implement this section.  28 
+ WES MOORE, Governor  Ch. 844  
  
-  (2) Regulations adopted under this section shall:  29 
+– 13 –     1. SUBMITTING TO THE DEPARTMENT , AT LEAST 1 YEAR 
+BEFORE THE REQUESTED  WAIVER WOULD TAKE EF FECT : 
  
-   (i) Subject to items (ii)  AND (III), (III), (IV), AND (V) of this 30 
-paragraph, include energy use intensity targets by building type;  31 
+    A. AN INVENTORY OF DESCR IPTIONS , SERIAL NUMBERS , 
+AND INSTALLATION DAT ES OF THE EQUIPMENT THAT PROVIDES THE BA SIS OF THE 
+WAIVER APPLICATIONS ; AND  
  
- HOUSE BILL 49  11 
+    B. A PLAN PREPARED BY AN ENERGY AUDITOR T HAT 
+COMPLETED THE TRAINI NG REQUIRED UNDER PA RAGRAPH (7) OF THIS SUBSECTION 
+DETAILING THE DATES THAT SPECIFIC PROJEC TS WILL BE COMPLETED  AND THE 
+ENERGY USE INTENSITY  AND GREENHOUSE GAS E MISSIONS SAVINGS THA T WILL 
+RESULT FROM THE PROJ ECTS ; 
  
-    (ii) As necessary, include special provisions or exceptions to account 1 
-for: 2 
+    2. DEMONSTRATING IN THE PLAN PREPARED UNDER 
+ITEM 1B OF THIS ITEM HOW THE  BUILDING WILL COME I NTO COMPLIANCE WITH THE 
+FINAL TARGETS BEFORE  2040  WITH MINIMAL RELIANC E ON ALTERNATIVE 
+COMPLIANCE PATHWAY P AYMENTS ; 
  
-    1. Building age;  3 
+    3. CERTIFYING THAT THE P ROJECTS WILL BE 
+COMPL ETED BY THE DATES DE TAILED UNDER ITEM 1B OF THIS ITEM , OR THAT THE 
+EXEMPTED ALTERNATIVE  COMPLIANCE PATHWAY F EES WILL BE PAID IF THE 
+PROJECTS ARE NOT COM PLETED BY THOSE DATE S; AND  
  
-    2. Regional differenc es; 4 
+    4. PAYING A FEE TO COVER  THE COST FOR THE 
+DEPARTMENT OR ITS CON TRACTOR T O REVIEW THE PLAN ; 
  
-    3. The unique needs of particular building or occupancy 5 
-types, including health care facilities, laboratories, assisted living and nursing facilities, 6 
-military buildings, critical infrastructure, and buildings used in life sciences AS DEFINED 7 
-IN § 3–201 OF THE ECONOMIC DEVELOPMENT ARTICLE  as defined in § 3 –201 of the 8 
-Economic Development Article ; and 9 
+   (X) SUBJECT TO PARAGRAPH (5) OF THIS SUBSECTION , ALLOW 
+THE OWNER OF A COVER ED BUILDING TO REQUE ST A WAIVER FROM PAY ING 
+ALTERNATIVE COMPLIAN CE PATHWAY FEES FOR ENERGY USE OR GREENH OUSE GAS 
+EMISSIONS ASSOCIATED  WITH ENERGY OR EMISS IONS  REDUCTION MEASURES T HAT 
+THE DEPARTMENT DETERMINES  TO BE IMPRACTICABLE OR ECONOMICALLY 
+INFEASIBLE BY : 
  
-    4. The use of district energy systems and biofuels by covered 10 
-buildings;  11 
+    1. SUBMITTING TO THE DEPARTMENT , AT LEAST 1 YEAR 
+BEFORE THE REQUESTED  WAIVER WOULD TAKE EF FECT , AN ENGINEERING STUDY  
+PREPARED BY AN ENERG Y AUDITOR TH AT COMPLETED THE TRA INING REQUIRED 
+UNDER PARAGRAPH (7) OF THIS SUBSECTION D ETAILING THE PRACTIC ABILITY OR 
+IMPRACTICABILITY OR ECONOMIC FEASIBILITY  OR INFEASIBILITY OF ENERGY OR 
+EMISSIONS REDUCTION MEASURES THAT WOULD BE NEEDED TO ACHIEVE  THE 
+ENERGY USE INT ENSITY AND DIRECT GR EENHOUSE GAS EMISSIO NS REDUCTION 
+TARGETS ; 
  
-    5. CREDITING THE GENERAT ION OF ON –SITE 12 
-RENEWABLE ENERGY BY COVERED BUILDINGS TOWARD THE IR ENERGY USE 13 
-INTENSITY TARGETS ; 14 
+Ch. 844  2025 LAWS OF MARYLAND   
  
-    6. CREDITING THE GREENHO USE GAS REDUCTION 15 
-IMPACT OF THE ON –SITE USE OF BIOMETHA NE;  16 
+– 14 –     2. DETAILING THE ENERGY USE INTENSITY OR DIR ECT 
+GREENHOUSE GAS EMISS IONS ABOVE TARGET LE VELS THAT WOULD OCCU R IF THE 
+OWNER OF THE COVERED  BUILDING DOES NOT IM PLEMENT THE IMPRACTI CABLE OR 
+ECONOMICALLY INFEASIBL E MEASURES ; AND  
  
-    7. EXCLUDING THE ENERGY USE AND GREENHOUSE G AS 17 
-EMISSIONS RELATED TO  THE PRODUCTION OF ST EAM FOR STERILIZATIO N IN A 18 
-HEALTH CARE FACILITY , LABORATORY , ASSISTED LIVING AND NURSING FACILITY , 19 
-MILITARY BUILDING , OR BUILDING USED IN LIFE SCIENCES ; AND  20 
+    3. PAYING A FEE TO COVER  THE COST FOR THE 
+DEPARTMENT OR ITS CON TRACTOR TO REVIEW TH E STUDY ;  
  
-    8. EXCLUDING THE ENERGY USE AND GREENHOUSE G AS 21 
-EMISSIONS RELATED TO  THE GENERATION OF EM ERGENCY BACKUP POWER  AT A 22 
-HEALTH CARE FACILITY , LABORATORY , ASSISTED LIVING AND NURSING FACILITY , 23 
-MILITARY BUILDING , CRITICAL INFRASTRUCT URE, EXCEPT FOR ANY CRITI CAL 24 
-INFRASTRUCTURE IDENT IFIED UNDER § 1–101( H–1)(2)( II) OF THE PUBLIC 25 
-UTILITIES ARTICLE , OR BUILDING USED IN LIFE SCIENC ES; AND  26 
+   (vi) (XI) (VIII) To the extent authorized by law, include financial 
+incentives recommended by the Building Energy Transition Implementation Task Force ; 
+AND  
  
-    9. OPERATIONAL NEEDS , INCLUDING SCALING FA CTORS 27 
-TO ADJUST FOR DIFFER ENT OPERATING HOURS ;  28 
+   (VII) (XII) (IX) INCLUDE AN ANNUAL REP ORTING FEE OF $100  
+PER COVERED BUILDING , ADJUSTED FOR INFLATI ON, TO COVER THE 
+ADMINISTRATIVE COSTS  UNDER THIS SECTION  OF THE PROGRAM . 
  
-   (iii) Consider the needs of the owners of covered buildings who:  29 
+  (3) (I) AN OWNER OF A COVERED  BUILDING THAT IS EXE MPT FROM 
+ENERGY USE INTENSITY  TARGETS UNDER PARAGR APH (2)(IV) OF THIS SUBSECTION 
+SHALL PROVIDE AN AFF IDAVIT SIGNED BY AN OFFICER OR PRINCIPAL  
+CONTROLLING MEMBER , SHAREHOLDER , OR PARTNER OF THE OW NER OF THE 
+COVERED BUILDING THA T PROVIDES : 
  
-    1. Are not responsible for the design, modification, fixtures, 30 
-or equipment of commercial tenants;  31 
+    1. THE ADDRESS OF EACH B UILDING FOR WHICH TH E 
+EXEMPTION APPLIES ; AND  
  
-    2. Do not have access to or control over building energy 32 
-systems that are used or controlled by commercial tenants; or  33 
-12 HOUSE BILL 49   
+    2. A STATEMENT CONFIRMING  THAT AS OF THE DATE OF 
+THE AFFIDAVIT THE BU ILDING MEETS THE STA NDARDS SET FORTH IN PARAGRAPH 
+(2)(IV) OF THIS SUBSECTION . 
  
-  
-    3. Own buildings occupied by commercial tenants who are 1 
-responsible for all maintenance of and repairs to t he buildings;  2 
+   (II) INFORMATION SUBMITT ED TO THE DEPARTMENT UNDER 
+PARAGRAPH (2)(IV) OF THIS SUBSECTION A ND THIS PARAGRAPH IS  EXEMPT FROM 
+DISCLOSURE IN ACCORD ANCE WITH § 4–301( A)(2) OF THE GENERAL PROVISIONS 
+ARTICLE . 
  
-   (iv) SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION , EXEMPT 3 
-FROM ENERGY USE INTE NSITY TARGETS A COVE RED BUILDING THAT CO NTAINS AN 4 
-AREA DESIGNED , BUILT , AND OPERATED AS A PE RMANENT SENSITIVE 5 
-COMPARTMENTED INFORM ATION FACILITY AND I S OPERATED BY AN AGENCY OR 6 
-CONTRACTOR OF : 7 
+  (4) (I) The Department may not set an alternative compliance fee that 
+is less than the social cost of greenhouse gases adopted by the Department or the U.S. 
+Environmental Protection Agency  THAT IS IN THE AMOUN T OF $190  PER METRIC TON 
+OF EXCESS CARBON DIO XIDE EQUIVALENT , ADJUSTED FOR INFLATI ON USING 2020  
+AS THE BASELINE YEAR  FOR  CALCULATING THE ADJU STMENT . 
  
-    1. THE U.S.  GENERAL SERVICES ADMINISTRATION ;  8 
+   (II) IF A COVERED BUILDING  EXERCISES THE ALTERN ATIVE 
+COMPLIANCE FEE OPTIO N FOR BOTH DIRECT GR EENHOUSE GAS EMISSIO NS 
+ WES MOORE, Governor  Ch. 844  
  
-    2. A. THE U.S.  DEPARTMENT OF DEFENSE ;  9 
+– 15 – TARGETS AND ENERGY U SE INTENSITY TARGETS , THE DEPARTMENT SHALL 
+COLLECT ONLY THE HIG HER OF THE TWO FEES . 
  
-    B. THE NATIONAL SECURITY AGENCY ;  10 
+  (5) (I) A WAIVER GRANTED UNDER  PARAGRAPH (2)(X) OF THIS 
+SUBSECTION : 
  
-    C. THE U.S.  DEPARTMENT OF HOMELAND SECURITY ; 11 
-OR 12 
+    1. SHALL REMAIN IN EFFEC T FOR A PERIOD OF 5 YEARS ; 
+AND  
  
-    D. ANY OTHER U.S.  INTELLIGENCE AGENCY ; OR 13 
+    2. MAY BE RENEWED . 
  
-    3. THE STATE ;  14 
+   (II) IN MAKING A DETERMINA TION ON A WAIVER REQ UEST 
+SUBMITTED UNDER PARA GRAPH (2)(X) OF THIS SUBSECTI ON, THE DEPARTMENT 
+SHALL : 
  
-   (V) EXEMPT AN OWNER OF A COVERED BUILDING FRO M 15 
-ENERGY USE INTENSITY  REPORTING REQUIREMEN TS IF : 16 
+    1. IF A COVERED BUILDING  EXERCISES THE 
+ALTERNATIVE COMPLIAN CE FEE OPTION FOR BO TH DIRECT GREENHOUSE  GAS 
+EMISSIONS TARGETS AN D ENERGY USE INTENSI TY TARGETS , CONSIDER ONLY THE 
+HIGHER OF THE TWO FE ES WHEN CALCULATING AVOIDED COM PLIANCE PATHWAY 
+PAYMENTS ; AND  
  
-    1. THE COVERED BUILDING MEETS THE CRITERIA 17 
-UNDER ITEM (IV) OF THIS PARAGRAPH ; AND  18 
+    2. CONSIDER THE AVAILABI LITY OF CAPITAL .  
  
-    2. THE IN CIRCUMSTANCES WHER E TENANT 19 
-AUTHORIZATION IS REQ UIRED , THE TENANT OR OCCUPANT D OES NOT PROVIDE 20 
-ENERGY USE INFORMATI ON TO THE OWNER OF T HE COVERED BUILDING DUE TO 21 
-CONCERNS ABOUT THE C ONFIDENTIALITY OF TH E BUILDING ’S SECURE AREA ; 22 
+  (4) (6) THE DEPARTMENT SHALL DEPO SIT AN ALTERNATIVE  
+COMPLIANCE FEE COLLE CTED UNDER THIS SUBS ECTION INTO THE MARYLAND  
+STRATEGIC ENERGY INVESTMENT FUND UNDER § 9–20B–05 OF THE STATE  
+GOVERNMENT ARTICLE . 
  
-   (VI) Provide maximum flexibility to the owners of covered buildings 23 
-to comply with building energy performance standards;  24 
+  (7) (I) THE DEPARTMENT SHALL : 
  
-   (v) (VII) Subject to paragraph (3) (4) (3) of this subsection  AND 25 
-SUBSECTION (F) OF THIS SECTION , include an alternative compliance pathway allowing 26 
-the owner of a covere d building to pay a fee for  [greenhouse ]:  27 
+    1. OFFER TRAINING TO HEL P ENERGY AUDITORS TH AT 
+POSSESS , IN GOOD STANDING , A PROFESSIONAL LICEN SE OR CREDENTIAL 
+RECOGNIZED BY THE DEPARTMENT UNDERSTAND  THE REGULATIONS ADOP TED 
+UNDER THIS SECTIO N, INCLUDING REQUIREMEN TS FOR ALTERNATIVE C OMPLIANCE 
+PLANS AND ENGINEERIN G STUDIES ; 
  
-    1. GREENHOUSE  gas emissions attributable to the 28 
-building’s failure to meet direct greenhouse gas emissions reduction targets; and 29 
+    2. PUBLISH A LIST OF ENE RGY AUDITORS THAT HA VE 
+COMPLETED THE TRAINI NG OFFERED UNDER ITE M 1 OF THIS SUBPARAGRAPH ; AND  
  
- HOUSE BILL 49  13 
+    3. INCLUDE A FEE TO COVE R THE COST FOR THE 
+DEPARTMENT OR ITS CONT RACTOR TO PROVIDE TH E TRAINING . 
  
-     2. ENERGY USE ATTRIBUTAB LE TO THE BUILDING ’S 1 
-FAILURE TO MEET ENER GY USE INTENSITY TARGETS ; 2 
+   (II) AN OWNER OF A COVERED  BUILDING SHALL CONTR ACT 
+WITH AN ENERGY AUDIT OR THAT COMPLETED TH E TRAINING REQUIRED UNDER 
+Ch. 844  2025 LAWS OF MARYLAND   
  
-   (VIII) SUBJECT TO PARAGRAPH (4)(II) OF THIS SUBSECTION A ND 3 
-SUBSECTION (F) OF THIS SECTION , INCLUDE AN ALTERNATI VE COMPLIANCE 4 
-PATHWAY ALLOWING THE  OWNER OF A COVERED B UILDING TO PAY A FEE  OF 5 5 
-CENTS PER THOUSAND BRITISH THERMAL UNITS  OF ENERGY , ADJUSTED FOR 6 
-INFLATION USING 2020  AS THE BASELINE YEAR  FOR CALCULATING THE 7 
-ADJUSTMENT , FOR ENERGY USE ATTRI BUTABLE TO THE BUILD ING’S FAILURE TO 8 
-MEET ENERGY USE INTE NSITY TARGETS ; 9 
+– 16 – SUBPARAGRAPH (I) OF THIS PARAGRAPH TO  SUBMIT AN ENGINEERIN G PLAN OR 
+STUDY SEEKING A WAIV ER UNDER PARAGRAPHS (2)(IX) AND (X) OF THIS 
+SUBSECTION .  
  
-   (IX) ALLOW THE OWNER OF A COVERED BUILDING TO REQUEST 10 
-A ONE–TIME WAIVER , FOR THE ENTIRE BUILD ING, FROM PAYING AN ALTER NATIVE 11 
-COMPLIANCE PATHWAY F EE UNDER ITEMS (VII) AND (VIII) OF THIS PARAGRAPH 12 
-THROUGH NOT LATER TH AN 2039  FOR ENERGY OR EMISSI ONS ATTRIBUTABLE TO 13 
-CONTINUED OPERATION OF EQUIPMENT INSTALL ED BEFORE 2025  FOR THE 14 
-EXPECTED AVERAGE REM AINING LIFESPAN OF T HAT EQUIPMENT , AS IDENTIFIED BY 15 
-A PUBLICLY AVAILABLE  DATABASE SELECTED BY  THE DEPARTMENT , BY: 16 
+  (8) (4) (I) SUBJECT TO SUBPARAGRA PH (II) OF THIS 
+PARAGRAPH , THE DEPARTMENT MAY SHALL  CERTIFY A BUILDING ENERGY 
+PERFORMANCE STANDARD S PROGRAM ADOPTED BY  A COUNTY  ADMINISTERING A 
+BUILDING ENERGY PERF ORMANCE STANDARDS PR OGRAM ON OR BEFORE MARCH 1, 
+2025,  AND WAIVE THE REQUIR EMENT FOR A COVERED BUILDING  BUILDINGS IN THE 
+COUNTY  TO COMPLY WITH THE S TATEWIDE PROGRAM  ADOPTED UNDER THIS 
+SECTION WHEN : 
  
-    1. SUBMITTING TO THE DEPARTMENT , AT LEAST 1 YEAR 17 
-BEFORE THE REQUESTED  WAIVER WOULD TAKE EF FECT : 18 
+    1. THE DEPARTMENT DETERMINES , BASED ON A 
+DEMONSTRATION PROVID ED BY THE COUNTY , THAT THE COUNTY HAS ADOPTED A 
+BUILDING ENERGY PERF ORMANCE STANDARDS PR OGRAM THAT IS AT LEA ST AS 
+STRINGENT AS THE STA TEWIDE PROGRAM ADOPT ED UNDER THIS SECTION ; AND  
  
-    A. AN INVENTORY OF DESCRIP TIONS , SERIAL NUMBERS , 19 
-AND INSTALLATION DAT ES OF THE EQUIPMENT THAT PROVIDES THE BA SIS OF THE 20 
-WAIVER APPLICATIONS ; AND  21 
+    2. THE COUNTY ANNUALLY S UBMITS TO THE 
+DEPARTMENT A COMPLETE  LIST OF COVERED BUIL DINGS , INCLUDING THEIR 
+ENERGY USE INTENSITY , DIRECT GREENHOUSE GA S EMISSIONS , AND COMPLIANCE 
+STATUS WITH THE COUN TY PROGRAM . 
  
-    B. A PLAN PREPARED BY AN ENERGY AUDITOR THAT 22 
-COMPLETED THE TRAINI NG REQUIRED UNDER PA RAGRAPH (7) OF THIS SUBSECT ION 23 
-DETAILING THE DATES THAT SPECIFIC PROJEC TS WILL BE COMPLETED  AND THE 24 
-ENERGY USE INTENSITY  AND GREENHOUSE GAS E MISSIONS SAVINGS THA T WILL 25 
-RESULT FROM THE PROJ ECTS ; 26 
+   (II) A COUNTY ADMINISTERING  A BUILDING ENERGY 
+PERFORMANCE STANDARD S PROGRAM CERTIFIED BY THE DEPARTMENT UNDER 
+SUBPARAGRAPH (I) OF THIS PARAGRAPH MA Y TAKE APPROPRIATE A CTIONS TO 
+ENFORCE THE STANDARD S, INCLUDING :  
  
-    2. DEMONSTRATING IN THE PLAN PREPARED UNDER 27 
-ITEM 1B OF THIS ITEM HOW THE  BUILDING WI LL COME INTO COMPLIA NCE WITH THE 28 
-FINAL TARGETS BEFORE  2040  WITH MINIMAL RELIANC E ON ALTERNATIVE 29 
-COMPLIANCE PATHWAY P AYMENTS ; 30 
+    1. ESTABLISHING ALTERNAT IVE COMPLIANCE 
+PATHW AYS FOR COMPLYING WI TH ENERGY USE INTENS ITY AND DIRECT 
+GREENHOUSE GAS EMISS IONS REQUIREMENTS ES TABLISHED IN THE STA NDARDS ; 
  
-    3. CERTIFYING THAT THE P ROJECTS WILL BE 31 
-COMPLETED BY THE DAT ES DETAILED UNDER IT EM 1B OF THIS ITEM , OR THAT THE 32 
-EXEMPTED ALTER NATIVE COMPLIANCE PA THWAY FEES WILL BE P AID IF THE 33 
-PROJECTS ARE NOT COM PLETED BY THOSE DATE S; AND  34 
+    2. IMPOSING AND COLLECTI NG ALTERNATIVE 
+COMPLIANCE FEES IN UP TO  THE SAME AMOUNT AND  IN THE SAME  MANNER 
+ALLOWED BY THE DEPARTMENT  UNDER THIS SECTION ; AND  
  
-    4. PAYING A FEE TO COVER  THE COST FOR THE 35 
-DEPARTMENT OR ITS CON TRACTOR TO REVIEW TH E PLAN ; 36 
-14 HOUSE BILL 49   
+    3. IMPOSING AND COLLECTI NG PENALTIES IN UP TO  THE 
+SAME AMOUNT AND  IN THE SAME  MANNER ALLOWED BY TH E DEPARTMENT UNDER 
+§ 2–610 OF THIS TITLE . 
  
-  
-   (X) SUBJECT TO PARAGRAPH (5) OF THIS SUBSECTION , ALLOW 1 
-THE  OWNER OF A COVERED B UILDING TO REQUEST A  WAIVER FROM PAYING 2 
-ALTERNATIVE COMPLIAN CE PATHWAY FEES FOR ENERGY USE OR GREENH OUSE GAS 3 
-EMISSIONS ASSOCIATED  WITH ENERGY OR EMISS IONS REDUCTION MEASU RES THAT 4 
-THE DEPARTMENT DETERMINES  TO BE IMPRACTICABLE OR ECONOMI CALLY 5 
-INFEASIBLE BY : 6 
+  (9) (5) NOTHING IN THIS SECTI ON SHALL PRECLUDE A COUNTY  
+ADMINISTERING A BUIL DING ENERGY PERFORMANCE S TANDARDS PROGRAM 
+CERTIFIED BY THE DEPARTMENT UNDER PARA GRAPH (4)( I) OF THIS SUBSECTION  
+FROM ADOPTING : 
+ WES MOORE, Governor  Ch. 844  
  
-    1. SUBMITTING TO THE DEPARTMENT , AT LEAST 1 YEAR 7 
-BEFORE THE REQUESTED  WAIVER WOULD TAKE EF FECT , AN ENGINEERING STUDY  8 
-PREPARED BY AN ENERG Y AUDITOR THAT COMPL ETED THE TRAINING RE QUIRED 9 
-UNDER PARAGRAPH (7) OF THIS SUBSECTION D ETAILI NG THE PRACTICABILIT Y OR 10 
-IMPRACTICABILITY OR ECONOMIC FEASIBILITY  OR INFEASIBILITY OF ENERGY OR 11 
-EMISSIONS REDUCTION MEASURES THAT WOULD BE NEEDED TO ACHIEVE  THE 12 
-ENERGY USE INTENSITY  AND DIRECT GREENHOUS E GAS EMISSIONS REDU CTION 13 
-TARGETS ; 14 
+– 17 –  
+   (I) ADOPTING  BUILDING ENERGY PERF ORMANCE STANDARDS 
+FOR BUILDINGS THAT A RE NOT COVERED BUILD INGS UNDER THE STATE WIDE 
+PROGRAM ADOPTE D UNDER THIS SECTION ; OR 
  
-    2. DETAILING THE ENERGY USE INTEN SITY OR DIRECT 15 
-GREENHOUSE GAS EMISS IONS ABOVE TARGET LE VELS THAT WOULD OCCU R IF THE 16 
-OWNER OF THE COVERED  BUILDING DOES NOT IM PLEMENT THE IMPRACTI CABLE OR 17 
-ECONOMICALLY INFEASI BLE MEASURES ; AND  18 
+   (II) MODIFYING AN ADOPTED BUILDING PERFORMANCE  
+STANDARDS PROGRAM . 
  
-    3. PAYING A FEE TO COVER  THE COST FOR T HE 19 
-DEPARTMENT OR ITS CON TRACTOR TO REVIEW TH E STUDY ;  20 
+  (10)  THE DEPARTMENT SHALL MAKE  THE NECESSARY APPLIC ATION 
+AND FORMS FOR A WAIV ER UNDER THIS SECTIO N AVAILABLE ON THE 
+DEPARTMENT ’S WEBSITE . 
  
-   (vi) (XI) (VIII) To the extent authorized by law, include financial 21 
-incentives recommended by the Building Energy Transition Implementation Task Force ; 22 
-AND  23 
+ (F) (1) SUBJECT TO  PARAGRAPH (2) OF THIS SUBSECTION , THE 
+DEPARTMENT MAY NOT : 
  
-   (VII) (XII) (IX) INCLUDE AN ANNUAL REP ORTING FEE OF $100  24 
-PER COVERED BUILDING , ADJUSTED FOR INFLATI ON, TO COVER THE 25 
-ADMINISTRATIVE COSTS  UNDER THIS SECTION  OF THE PROGRAM . 26 
+   (I) IMPOSE AND COLLECT AL TERNATIVE COMPLIANCE  FEES 
+UNDER THIS SECTION U NTIL 2032;  OR 
  
-  (3) (I) AN OWNER OF A COVERED  BUILDING THAT IS EXE MPT FROM 27 
-ENERGY USE INTENSITY  TARGETS UNDER PARAGRAPH (2)(IV) OF THIS SUBSECTION 28 
-SHALL PROVIDE AN AFF IDAVIT SIGNED BY AN OFFICER OR PRINCIPAL  29 
-CONTROLLING MEMBER , SHAREHOLDER , OR PARTNER OF THE OW NER OF THE 30 
-COVERED BUILDING THA T PROVIDES : 31 
+   (II) IMPOSE AND COLLECT PE NALTIES FOR FAILURE TO 
+ACHIEVE BUILDING ENE RGY PERFORMANCE STAN DARDS UNDER THIS SECTION 
+UNTIL 2032.  
  
-    1. THE ADDRESS OF EACH B UILDING FOR WHICH TH E 32 
-EXEMPTION A PPLIES ; AND  33 
+  (2) THE PROHIBITION UNDER  PARAGRAPH (1)(II) OF THIS 
+SUBSECTION DOES NOT APPLY TO THE IMPOSIT ION AND COLLECTION O F PENALTIES 
+FOR FAILURE TO MEET ANY REPORTING REQUIR EMENTS UNDER THIS SE CTION .  
  
- HOUSE BILL 49  15 
+ SECTION 3. AND BE IT FURTHER ENACT ED, That the Laws of Maryland read 
+as follows:  
  
-     2. A STATEMENT CONFIRMING  THAT AS OF THE DATE OF 1 
-THE AFFIDAVIT THE BU ILDING MEETS THE STA NDARDS SET FORTH IN PARAGRAPH 2 
-(2)(IV) OF THIS SUBSECTION . 3 
+Article – Economic Development  
  
-   (II) INFORMATION SUBMITTED  TO THE DEPARTMENT UNDER 4 
-PARAGRAPH (2)(IV) OF THIS SUBSECTION AND THIS PARAGRAPH I S EXEMPT FROM 5 
-DISCLOSURE IN ACCORD ANCE WITH § 4–301( A)(2) OF THE GENERAL PROVISIONS 6 
-ARTICLE . 7 
+3–201.  
  
-  (4) (I) The Department may not set an alternative compliance fee that 8 
-is less than the social cost of greenhouse gases adopted by the Depart ment or the U.S. 9 
-Environmental Protection Agency  THAT IS IN THE AMOUN T OF $190  PER METRIC TON 10 
-OF EXCESS CARBON DIO XIDE EQUIVALENT , ADJUSTED FOR INFLATI ON USING 2020  11 
-AS THE BASELINE YEAR  FOR CALCULATING THE ADJUSTMENT . 12 
+ (a) In this subtitle the following words have the meanings indicated.  
  
-   (II) IF A COVERED BUILDING  EXERCISES THE ALTERN ATIVE 13 
-COMPLIANCE FEE OPTIO N FOR BOTH DIRECT GR EENHOUSE GAS EMISSIO NS 14 
-TARGETS AND ENERGY U SE INTENSITY TARGETS , THE DEPARTMENT SHALL 15 
-COLLECT ONLY THE HIG HER OF THE TWO FEES . 16 
+ (d) “Life sciences” includes the fields of biotechnology, pharmaceuticals, 
+biomedical technologies, life systems technologies, food sciences, environmental sciences, 
+and biomedical devices.  
  
-  (5) (I) A WAIVER GRANTED UNDER  PARAGRAPH (2)(X) OF THIS 17 
-SUBS ECTION : 18 
+Article – Environment  
  
-    1. SHALL REMAIN IN EFFEC T FOR A PERIOD OF 5 YEARS ; 19 
-AND  20 
+2–1202.  
  
-    2. MAY BE RENEWED . 21 
+ (a) In this subtitle the following words have the meanings indicated.  
  
-   (II) IN MAKING A DETERMINA TION ON A WAIVER REQ UEST 22 
-SUBMITTED UNDER PARA GRAPH (2)(X) OF THIS SUBSECTION , THE DEPARTMENT 23 
-SHALL : 24 
+Ch. 844  2025 LAWS OF MARYLAND   
  
-    1. IF A COVERED BUILDING  EXERCISES THE 25 
-ALTERNATIVE COMPLIAN CE FEE OPTION FOR BO TH DIRECT GREENHOUSE  GAS 26 
-EMISSIONS TARGETS AN D ENERGY USE INTENSI TY TARGETS , CONSIDER ONLY THE 27 
-HIGHER OF THE TWO FE ES WHEN CALCULATING AVOIDED COMPLIANCE P ATHWAY 28 
-PAYMENTS ; AND  29 
+– 18 –  (h) (1) “Manufacturing” means the process of s ubstantially transforming, or a 
+substantial step in the process of substantially transforming, tangible personal property 
+into a new and different article of tangible personal property by the use of labor or 
+machinery.  
  
-    2. CONSIDER THE AVAIL ABILITY OF CAPITAL .  30 
+  (2) “Manufacturing”, when performe d by companies primarily engaged in 
+the activities described in paragraph (1) of this subsection, includes:  
  
-  (4) (6) THE DEPARTMENT SHALL DEPO SIT AN ALTERNATIVE  31 
-COMPLIANCE FEE COLLE CTED UNDER THIS SUBS ECTION INTO THE MARYLAND  32 
-STRATEGIC ENERGY INVESTMENT FUND UNDER § 9–20B–05 OF THE STATE  33 
-GOVERNMENT ARTICLE . 34 
-16 HOUSE BILL 49   
+   (i) The operation of saw mills, grain mills, or feed mills;  
  
-  
-  (7) (I) THE DEPARTMENT SHALL : 1 
+   (ii) The operation of machinery and equipment used to extract and 
+process minerals, metals, or earthen materials or by –products that result from the 
+extracting or processing; and  
  
-    1. OFFER TRAINING TO HEL P ENERGY AUDITORS TH AT 2 
-POSSESS , IN GOOD STANDING , A PROFESSIONAL LICEN SE OR CREDENTIAL 3 
-RECOGNIZED BY THE DEPARTMENT UNDERSTAND  THE REGULATIONS ADOP TED 4 
-UNDER THIS SECTION , INCLUDING REQUIREMEN TS FOR ALTERNATIVE C OMPLIANCE 5 
-PLANS  AND ENGINEERING STUD IES; 6 
+   (iii) Research and development activities.  
  
-    2. PUBLISH A LIST OF ENE RGY AUDITORS THAT HA VE 7 
-COMPLETED THE TRAINI NG OFFERED UNDER ITE M 1 OF THIS SUBPARAGRAPH ; AND  8 
+  (3) “Manufacturing” does not include:  
  
-    3. INCLUDE A FEE TO COVE R THE COST FOR THE 9 
-DEPARTMENT OR ITS CON TRACTOR TO PROVIDE T HE TRAINING . 10 
+   (i) Activities that are primarily a service;  
  
-   (II) AN OWNER OF A COVERED  BUILDING SHALL CONTR ACT 11 
-WITH AN ENERGY AUDIT OR THAT COMPLETED TH E TRAINING REQUIRED UNDER 12 
-SUBPARAGRAPH (I) OF THIS PARAGRAPH TO  SUBMIT AN ENGINEERIN G PLAN OR 13 
-STUDY SEEKING A WAIV ER UNDER PARAGRAPHS (2)(IX) AND (X) OF THIS 14 
-SUBSECTION .  15 
+   (ii) Activities that are intellectual, artistic, or clerical in nature;  
  
-  (8) (4) (I) SUBJECT TO SUBPARAGRA PH (II) OF THIS 16 
-PARAGRAPH , THE DEPARTMENT MAY SHALL  CERTIFY A BUILDING E NERGY 17 
-PERFORMANCE STANDARD S PROGRAM ADOPTED BY  A COUNTY  ADMINISTERING A 18 
-BUILDING ENERGY PERF ORMANCE STANDARDS PR OGRAM ON OR BEFORE MARCH 1, 19 
-2025,  AND WAIVE THE REQUIR EMENT FOR A COVERED BUILDING  BUILDINGS IN THE 20 
-COUNTY  TO COMPLY WITH THE S TATEWIDE PROGRAM ADO PTED UNDER THIS 21 
-SECTION WHEN : 22 
+   (iii) Public utility services, including gas, electric, water, and steam 
+production services;  
  
-    1. THE DEPARTMENT DETERMINES , BASED ON A 23 
-DEMONSTRATION PROVID ED BY THE COUNTY , THAT THE COUNTY HAS ADOPTED A  24 
-BUILDING ENERGY PERF ORMANCE STANDARDS PR OGRAM THAT IS AT LEA ST AS 25 
-STRINGENT AS THE STA TEWIDE PROGRAM ADOPT ED UNDER THIS SECTIO N; AND  26 
+   (iv) The production of cement; or  
  
-    2. THE COUNTY ANNUALLY S UBMITS TO THE 27 
-DEPARTMENT A COMPLETE  LIST OF COVERED BUIL DINGS , INCLUDING THEIR 28 
-ENERGY USE INT ENSITY , DIRECT GREENHOUSE GA S EMISSIONS , AND COMPLIANCE 29 
-STATUS WITH THE COUN TY PROGRAM . 30 
+   (v) Any other activity that would not commonly be  considered as 
+manufacturing.  
  
-   (II) A COUNTY ADMINISTERING  A BUILDING ENERGY 31 
-PERFORMANCE STANDARD S PROGRAM CERTIFIED BY THE DEPARTMENT UNDER 32 
-SUBPARAGRAPH (I) OF THIS PARAGRAPH MA Y TAKE APPROPRIATE A CTIONS TO 33 
-ENFORCE THE STANDARD S, INCLUDING :  34 
+2–1601.  
  
- HOUSE BILL 49  17 
+ (a) In this subtitle the following words have the meanings indicated.  
  
-     1. ESTABLISHING ALTERNAT IVE COMPLIANCE 1 
-PATHW AYS FOR COMPLYING WI TH ENERGY USE INTENS ITY AND DIRECT 2 
-GREENHOUSE GAS EMISS IONS REQUIREMENTS ES TABLISHED IN THE STA NDARDS ; 3 
+ (b) (1) “Agricultural building” means a structure that is used primarily to 
+cultivate, manufacture, process, or produce agricultural crops, raw  materials, products, or 
+commodities.  
  
-    2. IMPOSING AND COLLECTI NG ALTERNATIVE 4 
-COMPLIANCE FEES IN UP TO  THE SAME AMOUNT AND  IN THE SAME  MANNER 5 
-ALLOWED BY THE DEPARTMENT  UNDER THIS SECTION ; AND  6 
+  (2) “Agricultural building” includes a greenhouse.  
  
-    3. IMPOSING AND COLLECTI NG PENALTIES IN UP TO  THE 7 
-SAME AMOUNT AND  IN THE SAME  MANNER ALLOWED BY TH E DEPARTMENT UNDER 8 
-§ 2–610 OF THIS TITLE . 9 
+ (c) “Building” has the meaning stated in the International Building Code.  
  
-  (9) (5) NOTHING IN THIS SECTI ON SHALL PRECLUDE A COUNTY  10 
-ADMINISTERING A BUIL DING ENERGY PERFORMANCE S TANDARDS PROGRAM 11 
-CERTIFIED BY THE DEPARTMENT UNDER PARA GRAPH (4)( I) OF THIS SUBSECTION  12 
-FROM ADOPTING : 13 
+ (d) “Commercial building” means a building that is subject to the commercial 
+provision s of the International Energy Conservation Code.  
  
-   (I) ADOPTING  BUILDING ENERGY PERF ORMANCE STANDARDS 14 
-FOR BUILDINGS THAT A RE NOT COVERED BUILD INGS UNDER THE STATE WIDE 15 
-PROGRAM ADOPTE D UNDER THIS SECTION ; OR 16 
+ (e) (1) “Covered building” means a building that:  
+ WES MOORE, Governor  Ch. 844  
  
-   (II) MODIFYING AN ADOPTED BUILDING PERFORMANCE  17 
-STANDARDS PROGRAM . 18 
+– 19 –  
+   (i) 1. Is a commercial or multifamily residential building in the 
+State; or  
  
-  (10)  THE DEPARTMENT SHALL MAKE  THE NECESSARY APPLIC ATION 19 
-AND FORMS FOR A WAIV ER UNDER THIS SECTIO N AVAILABLE ON THE 20 
-DEPARTMENT ’S WEBSITE . 21 
+    2. Is owned by the State; and  
  
- (F) (1) SUBJECT TO  PARAGRAPH (2) OF THIS SUBSECTION , THE 22 
-DEPARTMENT MAY NOT : 23 
+   (ii) Has a gross floor area of 35,000 square feet or more, excluding 
+the parking garage area.  
  
-   (I) IMPOSE AND COLLECT AL TERNATIVE COMPLIANCE  FEES 24 
-UNDER THIS SECTION U NTIL 2032;  OR 25 
+  (2) “Covered building” does not include:  
  
-   (II) IMPOSE AND COLLECT PE NALTIES FOR FAILURE TO 26 
-ACHIEVE BUILDING ENE RGY PERFORMANCE STAN DARDS UNDER THI S SECTION 27 
-UNTIL 2032.  28 
+   (i) A building designated as a historic property under federal, State, 
+or local law;  
  
-  (2) THE PROHIBITION UNDER  PARAGRAPH (1)(II) OF THIS 29 
-SUBSECTION DOES NOT APPLY TO THE IMPOSIT ION AND COLLECTION O F PENALTIES 30 
-FOR FAILURE TO MEET ANY REPORTING REQUIR EMENTS UNDER THIS SE CTION .  31 
+   (ii) A public or nonpublic elementary or secondary school building;  
  
- SECTION 3. AND BE IT FURTHER ENACTED,  That the Laws of Maryland read 32 
-as follows:  33 
-18 HOUSE BILL 49   
+   (iii) A HOSPITAL ;  
  
-  
-Article – Economic Development  1 
+   (IV) A [manufacturing ] building  IN WHICH 50%  OR MORE OF THE 
+BUILDING ’S GROSS FLOOR AREA I S USED FOR MANUFACTU RING , AS DEFINED IN §  
+2–1202  OF THIS ARTICLE ; or 
  
-3–201.  2 
+   [(iv)] (V) An agricultural building.  
  
- (a) In this subtitle the following words have the meanings indicated.  3 
+ (f) “CRITICAL INFRASTRUCTU RE” HAS THE MEANING STAT ED IN § 1–101 OF 
+THE PUBLIC UTILITIES ARTICLE . 
  
- (d) “Life sciences” includes the fields of biotechnology, pharmaceuticals, 4 
-biomedical technologies, life systems technologies, food sciences, environmental sciences, 5 
-and biomedical devices.  6 
+ (G) “Direct greenhouse gas emissions” means greenhouse gas emissions produced 
+on–site by covered buildings.  
  
-Article – Environment  7 
+ [(g)] (H) “District energy” means thermal energy ge nerated at one or more 
+central facilities that produce hot water, steam, or chilled water that then flows through a 
+network of insulated underground pipes to provide hot water, space heating, air 
+conditioning, or chilled water to nearby buildings.  
  
-2–1202.  8 
+ (I) “ECONOMICALLY INFEASIB LE” MEANS :  
  
- (a) In this subtitle the following words have the meanings indicated.  9 
+  (1) FOR A COVERED BUILDIN G THAT IS A MULTIFAM ILY RESIDENTIAL 
+BUILDING , THE EXPECTED PAYBACK  PERIOD FOR AN ENERGY  OR EMISSIONS 
+REDUCTION MEASURE IS  MORE THAN 10 YEARS , AS OF THE DATE OF SU BMITTAL OF 
+A WAIVER REQUEST TO THE DEPARTMENT UNDER § 2–1602( C)(2)( X) OF THIS 
+SUBTITLE , ACCOUNTING FOR ALL A VAILABLE INCENTIVES AND AVOIDED 
+ALTERNATIVE COMPLIAN CE PATHWAY PAYMENTS ; AND  
  
- (h) (1) “Manufacturing” means the process of s ubstantially transforming, or a 10 
-substantial step in the process of substantially transforming, tangible personal property 11 
-into a new and different article of tangible personal property by the use of labor or 12 
-machinery.  13 
+Ch. 844  2025 LAWS OF MARYLAND   
  
-  (2) “Manufacturing”, when performe d by companies primarily engaged in 14 
-the activities described in paragraph (1) of this subsection, includes:  15 
+– 20 –   (2) FOR A COVERED BUILDIN G THAT IS NOT A MULT IFAMILY 
+RESIDENTIAL BUILDING , THE EXPECTED PAYBACK  PER IOD FOR AN ENERGY OR  
+EMISSIONS REDUCTION MEASURE IS MORE THAN  25 YEARS , AS OF THE DATE OF 
+SUBMITTAL OF A WAIVE R REQUEST TO THE DEPARTMENT UNDER § 2–1602( C)(2)( X) 
+OF THIS SUBTITLE , ACCOUNTING FOR ALL A VAILABLE INCENTIVES AND AVOIDED 
+ALTERNATIVE COMPLIAN CE P ATHWAY PAYMENTS . 
  
-   (i) The operation of saw mills, grain mills, or feed mills;  16 
+ (J) “ENERGY OR EMISSIONS R EDUCTION MEASURE ” MEANS A PHYSICAL 
+CHANGE TO A BUILDING  OR A CONNECTION TO A  DISTRICT ENERGY SYST EM THAT 
+REDUCES THE BUILDING ’S ENERGY USE OR GREE NHOUSE GAS EMISSIONS  AT THE 
+LOWEST PRACTICABLE C OST. 
  
-   (ii) The operation of machinery and equipment used to extract and 17 
-process minera ls, metals, or earthen materials or by –products that result from the 18 
-extracting or processing; and  19 
+ (K) “IMPRA CTICABLE ” INCLUDES THAT AN ENE RGY OR EMISSIONS 
+REDUCTION MEASURE NE CESSARY TO COMPLY WI TH THIS SUBTITLE CAN NOT BE 
+REASONABLY IMPLEMENT ED, INCLUDING DUE TO LAC K OF EXISTING TECHNO LOGY . 
  
-   (iii) Research and development activities.  20 
+ (L) “LIFE SCIENCES ” HAS THE MEANING STAT ED IN § 3–201 OF THE 
+ECONOMIC DEVELOPMENT ARTICLE . 
  
-  (3) “Manufacturing” does not include:  21 
+ (I) “MANUFACTURING BUILDIN G” MEANS A FACILITY IN WHICH 
+MANUFACTURING , AS DEFINED IN § 2–1202  OF THIS ARTICLE , TAKES PLACE .  
  
-   (i) Activities that are primarily a service;  22 
+Article – Public Utilities  
  
-   (ii) Activities that are intellectual, artistic, or clerical in nature;  23 
+1–101. 
  
-   (iii) Public utility services, including gas, electric, water, and steam 24 
-production services;  25 
+ (a) In this division the following words have the meanings indicated.  
  
-   (iv) The production of cement; or  26 
+ (h–1) (1) “Critical infrastructure” means assets, systems, and networks, whether 
+physical or virtual, considered by the U.S. Department of Homeland Security to be so vital 
+to the United States that their incapacitation or destruction would have a debilita ting effect 
+on one or more of the following:  
  
-   (v) Any other activity that would not commonly be considered  as 27 
-manufacturing.  28 
+   (i) security;  
  
- HOUSE BILL 49  19 
+   (ii) national economic security;  
  
- 2–1601.  1 
+   (iii) national public health; or  
  
- (a) In this subtitle the following words have the meanings indicated.  2 
+   (iv) safety.  
  
- (b) (1) “Agricultural building” means a structure that is used primarily to 3 
-cultivate, manufacture, process, or produce agricultural crops, raw materials,  products, or 4 
-commodities.  5 
+  (2) “Critical infrastructure” includes:  
  
-  (2) “Agricultural building” includes a greenhouse.  6 
+   (i) a hospital or health care facility; and  
  
- (c) “Building” has the meaning stated in the International Building Code.  7 
+ WES MOORE, Governor  Ch. 844  
  
- (d) “Commercial building” means a building that is subject to the commercial 8 
-provisions of the In ternational Energy Conservation Code.  9 
+– 21 –    (ii) a data center as defined in § 11 –239 of the Tax – General Article.  
  
- (e) (1) “Covered building” means a building that:  10 
+Article – State Government  
  
-   (i) 1. Is a commercial or multifamily residential building in the 11 
-State; or  12 
+9–20B–05. 
  
-    2. Is owned by the State; and  13 
+ (a) There is a Maryland Strategic Energy Investment Fund.  
  
-   (ii) Has a gross floor area of 35,000 square fe et or more, excluding 14 
-the parking garage area.  15 
+ (b) The purpose of the Fund is to implement the Strategic Energy Investment 
+Program.  
  
-  (2) “Covered building” does not include:  16 
+ (e) The Fund consists of:  
  
-   (i) A building designated as a historic property under federal, State, 17 
-or local law;  18 
+  (1) all of the proceeds from the sale of allowances under § 2 –1002(g) of the 
+Environment Article;  
  
-   (ii) A public or nonpublic elementary or secondary school building;  19 
+  (2) money appropriated in the State budget to the Program;  
  
-   (iii) A HOSPITAL ;  20 
+  (3) repayments and prepayments of principal and interest on loan s made 
+from the Fund;  
  
-   (IV) A [manufacturing ] building  IN WHICH 50%  OR MORE OF THE 21 
-BUILDING ’S GROSS FLOOR AREA I S USED FOR MANUFACTU RING , AS DEFINED IN §  22 
-2–1202  OF THIS ARTICLE ; or 23 
+  (4) interest and investment earnings on the Fund;  
  
-   [(iv)] (V) An agricultural building.  24 
+  (5) compliance fees paid under § 7 –705 of the Public Utilities Article;  
  
- (f) “CRITICAL INFRASTRUCTU RE” HAS THE MEANING STAT ED IN § 1–101 OF 25 
-THE PUBLIC UTILITIES ARTICLE . 26 
+  (6) money received from any public or private source for the benefit of the 
+Fund;  
  
- (G) “Direct greenhouse gas emissions” means greenhouse gas emissions produced 27 
-on–site by covered buildings.  28 
+  (7) money transferred from the Public Service Commission under §  
+7–207.2(c)(3) of the Public Utilities Article; [and] 
  
-20 HOUSE BILL 49   
+  (8) money distributed under § 2 –614.1 of the Tax – General Article ; AND  
  
-  [(g)] (H) “District energy” means thermal energy generated at one or more 1 
-central facilities that produce hot water, steam, or chilled water that then flows through a 2 
-network of insulated underground pipes to provide hot water, space heating, air 3 
-conditioning, or chilled water to nearby buildings.  4 
+  (9) ALTERNATIVE COMPLIAN CE FEES PAID PATHWAY PAYMENTS  
+UNDER § 2–1602( C)(2)( V) 2–1602( C)(2)( VII) OF THE ENVIRONMENT ARTICLE . 
  
- (I) “ECONOMICALLY INFEASIB LE” MEANS:  5 
+ (G–2) (1) EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS SUBSECTION , 
+PROCEEDS RECEIVED BY  THE FUND FROM ALTERNATIVE  COMPLIANCE PATHWAY 
+PAYMENTS UNDER § 2–1602  OF THE ENVIRONMENT ARTICLE S HALL BE USED TO 
+PROVIDE GRANTS AND L OANS TO HELP OWNERS OF COVERED BUILDINGS  COMPLY 
+WITH REGULATIONS ADO PTED UNDER § 2–1602  OF THE ENVIRONMENT ARTICLE . 
  
-  (1) FOR A COVERED BUILDIN G THAT IS A MULTIFAM ILY RESIDENTIAL 6 
-BUILDING , THE EXPECTED PAYBACK  PERIOD FOR AN ENERGY  OR EMISSIONS 7 
-REDUCTION MEASURE IS  MORE THAN 10 YEARS , AS OF THE DATE OF SU BMITTAL OF 8 
-A WAIVER REQUEST TO THE DEPARTMENT UNDER § 2–1602( C)(2)( X) OF THIS 9 
-SUBTITLE , ACCOUNTING FOR ALL A VAILABLE INCENTIVES AND AVOIDED 10 
-ALTERNATIVE COMPLIAN CE PATHWAY PAYMENTS ; AND  11 
+  (2) UP TO 10%  OF ALTERNATIVE COMPL IANCE PATHWAY PAYMEN TS 
+UNDER § 2–1602  OF THE ENVIRONMENT ARTICLE MA Y BE USED FOR 
+Ch. 844  2025 LAWS OF MARYLAND   
  
-  (2) FOR A COVERED BUILDIN G THAT IS NOT A MULT IFAMILY 12 
-RESIDENTIAL BUILDING , THE EXPECTED PAYBACK  PERIOD FOR AN ENERGY  OR 13 
-EMISSIONS REDUCTION ME ASURE IS MORE THAN 25 YEARS , AS OF THE DATE OF 14 
-SUBMITTAL OF A WAIVE R REQUEST TO THE DEPARTMENT UNDER § 2–1602( C)(2)( X) 15 
-OF THIS SUBTITLE , ACCOUNTING FOR ALL A VAILABLE INCENTIVES AND AVOIDED 16 
-ALTERNATIVE COMPLIAN CE PATHWAY PAYMENTS . 17 
+– 22 – ADMINISTRATION OF TH E GRANTS AND LOANS D ESCRIBED UNDER PARAG RAPH (1) 
+OF THIS SUBSECTION .  
  
- (J) “ENERGY OR EMISSIONS R EDUCTION MEASURE ” MEANS A PHYSICAL 18 
-CHANGE TO A BUILDING  OR A CONNECTION TO A  DISTRICT ENERGY SYST EM THAT 19 
-REDUCES THE BUILDING ’S ENERGY USE OR GREE NHOUSE GAS EMISSIONS  AT THE 20 
-LOWEST PRACTICABLE C OST. 21 
+ SECTION 4. AND BE IT FURTHER ENACTED, That:  
  
- (K) “IMPRACTICABLE ” INCLUDES THAT  AN ENERGY OR EMISSIO NS 22 
-REDUCTION MEASURE NE CESSARY TO COMPLY WI TH THIS SUBTITLE CAN NOT BE 23 
-REASONABLY IMPLEMENT ED, INCLUDING DUE TO LAC K OF EXISTING TECHNO LOGY . 24 
+ (a) The Department of the Environment shall conduct  an analysis of the potential 
+costs and benefits of building energy performance standards policy options featuring direct 
+emissions reduction requirements, energy use intensity requirements, and a combination of 
+both requirements that describes, for each scenario:  
  
- (L) “LIFE SCIENCES ” HAS THE MEANING STAT ED IN § 3–201 OF THE 25 
-ECONOMIC DEVELOPMENT ARTICLE . 26 
+  (1) program design considerations;  
  
- (I) “MANUFACTURING BUILDIN G” MEANS A FACILITY IN WHICH 27 
-MANUFACTURING , AS DEFINED IN § 2–1202  OF THIS ARTICLE , TAKES PLACE .  28 
+  (2) greenhouse gas emissions reduction potential;  
  
-Article – Public Utilities  29 
+  (3) direct emissions reduction potential;  
  
-1–101. 30 
+  (4) overall energy savings potential;  
  
- (a) In this division the following words have the meanings indicated.  31 
+  (5) peak energy savings potential;  
  
- (h–1) (1) “Critical infrastructure” means assets, systems, and networks, whether 32 
-physical or virtual, considered by the U.S. Department of Homeland Security to be so vital 33 
- HOUSE BILL 49  21 
+  (6) implementation costs to building owners and the Department;  
  
- to the United States that their incapacitation or destruction would have a debilitating effect  1 
-on one or more of the following:  2 
+  (7) lifecycle costs of the building and equipment and cost –effectiveness for 
+building owners; and  
  
-   (i) security;  3 
+  (8) program implementation cost and complexity . 
  
-   (ii) national economic security;  4 
+ (b) In conducting the analysis required under subsection (a) of this section, the 
+Department shall:  
  
-   (iii) national public health; or  5 
+  (1) identify policy considerations and recommendations, including 
+potential scenarios, including:  
  
-   (iv) safety.  6 
+   (i) a recommendation for calculating an alternative compliance fee 
+for energy use intensity on covered building owners based on a simple payback period that 
+takes into  account any financial incentives offered to the building owners;  
  
-  (2) “Critical infrastructure” includes:  7 
+   (ii) recommendations on how to address covered buildings that, 
+despite all available incentives including the avoidance of penalties and fees, would not 
+achieve compliance greenhouse gas  emissions reductions and targets; and  
  
-   (i) a hospital or health care facility; and  8 
+   (iii) recommendations on how to consider county –owned buildings, 
+community colleges, emergency facilities, manufacturing buildings, and residential 
+buildings, including considerations of tenants and condominium un it owners; and  
  
-   (ii) a data center as defined in § 11 –239 of the Tax – General Article.  9 
+ WES MOORE, Governor  Ch. 844  
  
-Article – State Government  10 
+– 23 –   (2) calculate building benchmarks based on benchmarking data reported to 
+the Department in accordance with § 2 –1602(b) of the Environment Article.  
  
-9–20B–05. 11 
+ (c) On or before December 31, 2026, the Department shall submit the analysis and 
+recommen dations required under this section to the Governor and, in accordance with §  
+2–1257 of the State Government Article, the General Assembly.   
  
- (a) There is a Maryland Strategic Energy Investment Fund.  12 
+ SECTION 4. 5. AND BE IT FURTHER ENACTED, That Section 2 of this Act shall 
+take effect on the taking effect of th e termination provision specified in Section 17 of 
+Chapter 38 of the Acts of the General Assembly of 2022. If that termination provision takes 
+effect, Section 1 of this Act, with no further action required by the General Assembly, shall 
+be abrogated and of  no further force and effect. This Act may not be interpreted to have any 
+effect on that termination provision.  
  
- (b) The purpose of the Fund is to implement the Strategic Energy Investment 13 
-Program.  14 
+ SECTION 5. 6. AND BE IT FURTHER ENACTED, That, subject to the provisions 
+of Section 4 5 of this Act, this Act shall take effect October 1, 2025.  
  
- (e) The Fund consists of:  15 
- 
-  (1) all of the proceeds from the sale of allowances under § 2 –1002(g) of the 16 
-Environment Article;  17 
- 
-  (2) money appropriated in the State budget to the Program;  18 
- 
-  (3) repayments and prepayments of principal and interest on loan s made 19 
-from the Fund;  20 
- 
-  (4) interest and investment earnings on the Fund;  21 
- 
-  (5) compliance fees paid under § 7 –705 of the Public Utilities Article;  22 
- 
-  (6) money received from any public or private source for the benefit of the 23 
-Fund;  24 
- 
-  (7) money transfer red from the Public Service Commission under §  25 
-7–207.2(c)(3) of the Public Utilities Article; [and] 26 
- 
-  (8) money distributed under § 2 –614.1 of the Tax – General Article ; AND  27 
-22 HOUSE BILL 49   
- 
-  
-  (9) ALTERNATIVE COMPLIAN CE FEES PAID PATHWAY PAYMENTS  1 
-UNDER § 2–1602( C)(2)( V) 2–1602( C)(2)( VII) OF THE ENVIRONMENT ARTICLE . 2 
- 
- (G–2) (1) EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS SUBSECTION , 3 
-PROCEEDS RECEIVED BY  THE FUND FROM ALTERNATIVE  COMPLIANCE PATHWAY 4 
-PAYMENTS UNDER § 2–1602  OF THE ENVIRONMENT ARTICLE S HALL BE USED TO 5 
-PROVIDE GRANTS AND L OANS TO HELP OWNERS OF COVERED BUILDINGS  COMPLY 6 
-WITH REGULATIONS ADO PTED UNDER § 2–1602  OF THE ENVIRONMENT ARTICLE . 7 
- 
-  (2) UP TO 10%  OF ALTERNATIVE COMPL IANCE PATHWAY PAYMEN TS 8 
-UNDER § 2–1602  OF THE ENVIRONMENT ARTICLE MA Y BE USED FOR 9 
-ADMINISTRATION OF TH E GRANTS AND LOANS D ESCRIBED UNDER PARAG RAPH (1) 10 
-OF THIS SUBSECTION .  11 
- 
- SECTION 4. AND BE IT FURTHER ENACTED, That:  12 
- 
- (a) The Department of the Environment shall conduct  an analysis of the potential 13 
-costs and benefits of building energy performance standards policy options featuring direct 14 
-emissions reduction requirements, energy use intensity requirements, and a combination of 15 
-both requirements that describes, for each scenario:  16 
- 
-  (1) program design considerations;  17 
- 
-  (2) greenhouse gas emissions reduction potential;  18 
- 
-  (3) direct emissions reduction potential;  19 
- 
-  (4) overall energy savings potential;  20 
- 
-  (5) peak energy savings potential;  21 
- 
-  (6) implementation costs to building owners and the Department;  22 
- 
-  (7) lifecycle costs of the building and equipment and cost –effectiveness for 23 
-building owners; and  24 
- 
-  (8) program implementation cost and complexity . 25 
- 
- (b) In conducting the analysis required under subsection (a) of this section, the 26 
-Department shall:  27 
- 
-  (1) identify policy considerations and recommendations, including 28 
-potential scenarios, including:  29 
- 
- HOUSE BILL 49  23 
- 
-    (i) a recommendation for calculating an alternative compliance fee 1 
-for energy use intensity on covered building owners based on a simple payback period that 2 
-takes into  account any financial incentives offered to the building owners;  3 
- 
-   (ii) recommendations on how to address covered buildings that, 4 
-despite all available incentives including the avoidance of penalties and fees, would not 5 
-achieve compliance greenhouse gas  emissions reductions and targets; and  6 
- 
-   (iii) recommendations on how to consider county –owned buildings, 7 
-community colleges, emergency facilities, manufacturing buildings, and residential 8 
-buildings, including considerations of tenants and condominium un it owners; and  9 
- 
-  (2) calculate building benchmarks based on benchmarking data reported to 10 
-the Department in accordance with § 2 –1602(b) of the Environment Article.  11 
- 
- (c) On or before December 31, 2026, the Department shall submit the analysis and 12 
-recommen dations required under this section to the Governor and, in accordance with §  13 
-2–1257 of the State Government Article, the General Assembly.   14 
- 
- SECTION 4. 5. AND BE IT FURTHER ENACTED, That Section 2 of this Act shall 15 
-take effect on the taking effect of th e termination provision specified in Section 17 of 16 
-Chapter 38 of the Acts of the General Assembly of 2022. If that termination provision takes 17 
-effect, Section 1 of this Act, with no further action required by the General Assembly, shall 18 
-be abrogated and of  no further force and effect. This Act may not be interpreted to have any 19 
-effect on that termination provision.  20 
- 
- SECTION 5. 6. AND BE IT FURTHER ENACTED, That, subject to the provisions 21 
-of Section 4 5 of this Act, this Act shall take effect October 1, 2025.  22 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Enacted under Article II, § 17(c) of the Maryland Constitution, May 25, 2025.  

@@ -1,235 +1,220 @@
+ WES MOORE, Governor  Ch. 111  
  
+– 1 – Chapter 111  
+(House Bill 1171 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb1171*      
-HOUSE BILL 1171  
-C1   5lr2625  
-    CF SB 992  
-By: Delegate Amprey  
-Introduced and read first time: February 6, 2025  
-Assigned to: Economic Matters  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: February 27, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Corporations and Associations – Revisions  
  
-AN ACT concerning  1 
+FOR the purpose of establishing a process for the transfer of assets that are collateral for 
+securing a mortgage, pledge, or security interest without the approval of the 
+stockholders; establishing certain exceptions to the process for the transfer of assets 
+that are secured collateral without the approval of the stockholders; repea ling 
+provisions of law specifying what shall be included in the articles of merger if a 
+limited partnership, limited liability company, or partnership is a party to the 
+articles; and generally relating to corporations and associations.  
  
-Corporations and Associations – Revisions  2 
+BY repealing and reenacting, with amendments,  
+ Article – Corporations and Associations  
+Section 2 –411(e), 3 –104, and 3 –109(d)  
+ Annotated Code of Maryland  
+ (2014 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of establishing a process for the transfer of assets that are collateral for 3 
-securing a mortgage, pledge, or security interest without the approval of the 4 
-stockholders; establishing certain exceptions to the process for the transfer of assets 5 
-that are secured collateral without the approval of the stockholders; repea ling 6 
-provisions of law specifying what shall be included in the articles of merger if a 7 
-limited partnership, limited liability company, or partnership is a party to the 8 
-articles; and generally relating to corporations and associations.  9 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  10 
- Article – Corporations and Associations  11 
-Section 2 –411(e), 3 –104, and 3 –109(d)  12 
- Annotated Code of Maryland  13 
- (2014 Replacement Volume and 2024 Supplement)  14 
+Article – Corporations and Associations  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 15 
-That the Laws of Maryland read as follows:  16 
+2–411. 
  
-Article – Corporations and Associations  17 
+ (e) Notwithstanding subsection (a) of this section or [§ 2–408(d) ] § 2–408( E) of 
+this subtitle, the charter or bylaws of a corporation, or any agreement to which the 
+corporation is a party and which has been approved by the board of directors, may provide 
+for: 
  
-2–411. 18 
+  (1) The establishment of one or more standing committees or for the 
+creation of one or more committees upon the occurrence of certain events; and  
  
- (e) Notwithstanding subsection (a) of this section or [§ 2–408(d) ] § 2–408( E) of 19 
-this subtitle, the charter or bylaws of a corporation, or any agreement to which the 20 
-2 HOUSE BILL 1171   
+  (2) The composition of the membership, and the qualifications and the 
+voting and other rights of members of any such committee, subject to the continued service 
+of members of t he committee as directors.  
  
- corporation is a party and which has been approved by the board of directors, may provide 1 
-for: 2 
+3–104. 
  
-  (1) The establishment of one or more standing committees or for the 3 
-creation of one or more committees upon the occurrence of certain events; and  4 
+ (a) Notwithstanding any other provision of this subtitle, unless the charter or 
+bylaws of a corporation provide otherwise by reference to this section or the subject matter 
+of this section, the approval of the stockhold ers is not required for any:  
  
-  (2) The composition of the membership, and the qualifications and the 5 
-voting and other rights of members of any such committee, subject to the continued service 6 
-of members of t he committee as directors.  7 
+Ch. 111  2025 LAWS OF MARYLAND   
  
-3–104. 8 
+– 2 –   (1) Transfer of assets by a corporation in the ordinary course of business 
+actually conducted by it or as a distribution as defined in § 2 –301 of this article;  
  
- (a) Notwithstanding any other provision of this subtitle, unless the charter or 9 
-bylaws of a corporation provide otherwise by reference to this section or the subject matter 10 
-of this section, the approval of the stockhold ers is not required for any:  11 
+  (2) Mortgage, pledge, or creation of any other security inter est in any or all 
+of the assets of a corporation, whether or not in the ordinary course of its business;  
  
-  (1) Transfer of assets by a corporation in the ordinary course of business 12 
-actually conducted by it or as a distribution as defined in § 2 –301 of this article;  13 
+  (3) Transfer of assets by a corporation to one or more persons if all of the 
+equity interests of the person or persons are owned, directly or indirectly, by the 
+corporation;  
  
-  (2) Mortgage, pledge, or creation of any other security inter est in any or all 14 
-of the assets of a corporation, whether or not in the ordinary course of its business;  15 
+  (4) Transfer of assets by a corporation registered as an open –end 
+investment company under the Investment Company Act of 1940, including a transfer 
+between or among classes or series of stock of a corporation; or  
  
-  (3) Transfer of assets by a corporation to one or more persons if all of the 16 
-equity interests of the person or persons are owned, directly or indire ctly, by the 17 
-corporation;  18 
+  (5) Transfer of assets by a corporation that is dissolved.  
  
-  (4) Transfer of assets by a corporation registered as an open –end 19 
-investment company under the Investment Company Act of 1940, including a transfer 20 
-between or among classes or series of stock of a corporation; or  21 
+ (b) Notwithstanding any other provisions of this subtitle, unless the charter or 
+bylaws of a corporation provide otherwise by reference to this section or the subject matter 
+of this section, the appro val of the stockholders and articles of share exchange are not 
+required for an exchange of shares of stock through voluntary action or under an agreement 
+with the stockholders participating in the exchange.  
  
-  (5) Transfe r of assets by a corporation that is dissolved.  22 
+ (C) NOTWITHSTANDING ANY O THER PROVISION OF TH IS SUBTITLE , UNLESS 
+THE CHARTER OR BYLAW S OF A CORPORATION P ROVIDE OTHERWISE BY REFERENCE 
+TO THIS SECTION OR T HE SUBJECT MATTER OF  THIS SECTION , THE APPROVAL OF 
+THE STOCKHOLDERS IS NOT REQUIRED FOR A T RANSFER OF ASSETS TH AT IS 
+COLLATERAL FOR SECUR ING A MORTG AGE, PLEDGE , OR SECURITY INTEREST  IF: 
  
- (b) Notwithstanding any other provisions of this subtitle, unless the charter or 23 
-bylaws of a corporation provide otherwise by reference to this section or the subject matter 24 
-of this section, the approval of  the stockholders and articles of share exchange are not 25 
-required for an exchange of shares of stock through voluntary action or under an agreement 26 
-with the stockholders participating in the exchange.  27 
+  (1) THE MORTGAGEE , PLEDGEE , OR SECURED PARTY EXE RCISES ITS 
+RIGHTS UNDER :  
  
- (C) NOTWITHSTANDING ANY O THER PROVISION OF TH IS SUBTI TLE, UNLESS 28 
-THE CHARTER OR BYLAW S OF A CORPORATION P ROVIDE OTHERWISE BY REFERENCE 29 
-TO THIS SECTION OR T HE SUBJECT MATTER OF  THIS SECTION , THE APPROVAL OF 30 
-THE STOCKHOLDERS IS NOT REQUIRED FOR A T RANSFER OF ASSETS TH AT IS 31 
-COLLATERAL FOR SECUR ING A MORTGAGE , PLEDGE , OR SECURITY INTEREST  IF: 32 
+   (I) TITLE 9 OF THE MARYLAND UNIFORM COMMERCIAL CODE; 
  
-  (1) THE MORTGAGEE , PLEDGEE , OR SECURED PARTY EXE RCISES ITS 33 
-RIGHTS UNDER :  34 
- HOUSE BILL 1171  3 
+   (II) THE REAL PROPERTY ARTICLE ; OR 
  
-  
-   (I) TITLE 9 OF THE MARYLAND UNIFORM COMMERCIAL CODE; 1 
+   (III) OTHER APPLICABLE LAW TO EFFECT THE TRANSFER OF 
+ASSETS WITHOUT THE C ONSENT OF THE CORPOR ATION ; OR 
  
-   (II) THE REAL PROPERTY ARTICLE ; OR 2 
+  (2) THE BOARD OF DIRECTOR S OF THE CORPORATION  AUTHORIZES 
+AN ALTERNATIVE SALE OF ASSETS WITH THE M ORTGAGEE , THE PLEDGEE , A 
+SECURED PARTY , OR ANOTHER PERSON : 
  
-   (III) OTHER APPLICABLE LAW TO EFFECT THE TRANSFER OF 3 
-ASSETS WITHOUT THE C ONSENT OF THE CORPOR ATION ; OR 4 
+   (I) THAT RESULTS IN THE R EDUCTI ON OR ELIMINATION OF  
+THE LIABILITIES OR O BLIGATIONS SECURED B Y THE ASSETS ; AND 
  
-  (2) THE BOARD OF DIRECTOR S OF THE CORPORATION  AUTHORIZES 5 
-AN ALTERNATIVE SALE OF ASSETS WITH THE M ORTGAGEE , THE PLEDGEE , A 6 
-SECURED PARTY , OR ANOTHER PERSON : 7 
+ WES MOORE, Governor  Ch. 111  
  
-   (I) THAT RESULTS IN THE R EDUCTI ON OR ELIMINATION OF  8 
-THE LIABILITIES OR O BLIGATIONS SECURED B Y THE ASSETS ; AND 9 
+– 3 –    (II) FOR WHICH THE VALUE O F THE ASSETS IS LESS  THAN OR 
+EQUAL TO THE AMOUNT OF THE LIABILITIES O R OBLIGATIONS BEING REDUCED OR 
+ELIMINATED . 
  
-   (II) FOR WHICH THE VALUE O F THE ASSETS IS LESS  THAN OR 10 
-EQUAL TO THE AMOUNT OF THE LIABILITIES O R OBLIGATIONS BEING REDUCED OR 11 
-ELIMINATED . 12 
+ (D) THE RECEIPT OF CONSID ERATION BY THE CORPORATION O R ITS 
+STOCKHOLDERS IN AN A LTERNATIVE SALE OF A SSETS IN ACCORDANCE WITH 
+SUBSECTION (C)(2) OF THIS SECTION MAY NOT CREATE A PRESUMP TION THAT THE 
+VALUE OF THE ASSETS IS GREATER THAN THE AMOUNT OF LIABILITIE S OR 
+OBLIGATIONS BEING EL IMINATED  OR REDUCED FOR THE P URPOSES OF THIS 
+SECTION . 
  
- (D) THE RECEIPT OF CONSID ERATION BY THE CORPORATION O R ITS 13 
-STOCKHOLDERS IN AN A LTERNATIVE SALE OF A SSETS IN ACCORDANCE WITH 14 
-SUBSECTION (C)(2) OF THIS SECTION MAY NOT CREATE A PRESUMP TION THAT THE 15 
-VALUE OF THE ASSETS IS GREATER THAN THE AMOUNT OF LIABILITIE S OR 16 
-OBLIGATIONS BEING EL IMINATED  OR REDUCED FOR THE P URPOSES OF THIS 17 
-SECTION . 18 
+ (E) (1) THIS SUBSECTION DOES NOT APPLY TO ANY PRO CEEDING 
+AGAINST A CORPORATIO N AND ANOTHER NECESS ARY PARTY TO ENJOIN A SALE 
+BEFORE THE SALE IS C OMPLETED . 
  
- (E) (1) THIS SUBSECTION DOES NOT APPLY TO ANY PRO CEEDING 19 
-AGAINST A CORPORATIO N AND ANOTHER NECESS ARY PARTY TO ENJOIN A SALE 20 
-BEFORE THE SALE IS C OMPLETED . 21 
+  (2) SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION , FAILURE TO 
+SATISFY SUBSECTION (C)(2)( II) OF THIS SECTION MAY NOT INVALIDATE A SAL E IF 
+THE TRANSFEREE OF TH E ASSETS : 
  
-  (2) SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION , FAILURE TO 22 
-SATISFY SUBSECTION (C)(2)( II) OF THIS SECTION MAY NOT INVALIDATE A SAL E IF 23 
-THE TRANSFEREE OF TH E ASSETS : 24 
+   (I) PROVIDED VALUE FOR TH E ASSETS , INCLUDING THE 
+REDUCTION OR ELIMINA TION OF THE LIABILIT IES OR OBLIGATIONS S ECURED BY 
+THE ASSETS ; AND 
  
-   (I) PROVIDED VALUE FOR TH E ASSETS , INCLUDING THE 25 
-REDUCTION OR ELIMINA TION OF THE LIABILIT IES OR OBLIGATIONS S ECURED BY 26 
-THE ASSETS ; AND 27 
+   (II) ACTED IN GOOD FAITH . 
  
-   (II) ACTED IN GOOD FAITH . 28 
+  (3) PARAGRAPH (2) OF THIS SUBSECTION M AY NOT BE INTERPRETE D 
+TO ELIMINATE ANY LIABILITY FOR MONETA RY DAMAGES ARISING F ROM  CLAIM , 
+INCLUDING : 
  
-  (3) PARAGRAPH (2) OF THIS SUBSECTION M AY NOT BE INTERPRETE D 29 
-TO ELIMINATE ANY LIABILITY FOR MONETA RY DAMAGES ARISING F ROM  CLAIM , 30 
-INCLUDING : 31 
+   (I) A CLAIM THAT  FOR MONETARY DAMAGES  ARISING FROM  
+THE DIRECTOR DID NOT  FAILING T O SATISFY THE STANDARD  OF CONDUCT FOR 
+DIRECTORS UNDER § 2–405.1( C) OF THIS ARTICLE , INCLUDING A CLAIM BY  OR IN 
+THE RIGHT OF THE COR PORATION ; OR 
  
-4 HOUSE BILL 1171   
+   (II) A CLAIM FOR EQUITABLE RELIEF . 
  
-    (I) A CLAIM THAT  FOR MONETARY DAMAGES  ARISING FROM  1 
-THE DIRECTOR DID NOT  FAILING T O SATISFY THE STANDARD  OF CONDUCT FOR 2 
-DIRECTORS UNDER § 2–405.1( C) OF THIS ARTICLE , INCLUDING A CLAIM BY  OR IN 3 
-THE RIGHT OF THE COR PORATION ; OR 4 
+ [(c)] (F) A transaction described in subsection (a) [or], (b), OR (C) of this section 
+also may be effected as otherwise provided in this subtitle.  
  
-   (II) A CLAIM FOR EQUITABLE RELIEF . 5 
+3–109. 
  
- [(c)] (F) A transaction described in subsection (a) [or], (b), OR (C) of this section 6 
-also may be effected as otherwise provided in this subtitle.  7 
+ (d) In addition to the requirements of subsection (b) of this section, articles of 
+merger shall include:  
  
-3–109. 8 
+Ch. 111  2025 LAWS OF MARYLAND   
  
- (d) In addition to the requirements of subsection (b) of this section, articles of 9 
-merger shall include:  10 
+– 4 –   (1) (i) Any amendment to the charter, certificate of limited  partnership, 
+articles of organization, or declaration of trust of the successor to be effected as part of the 
+merger; and  
  
-  (1) (i) Any amendment to the charter, certificate of limited  partnership, 11 
-articles of organization, or declaration of trust of the successor to be effected as part of the 12 
-merger; and  13 
+   (ii) The restatement, if a restatement of the charter, the certificate 
+of limited partnership, articles of organization, or decla ration of trust of the successor is to 
+be effected as a part of the merger;  
  
-   (ii) The restatement, if a restatement of the charter, the certificate 14 
-of limited partnership, articles of organization, or decla ration of trust of the successor is to 15 
-be effected as a part of the merger;  16 
+  (2) As to each corporation party to the articles:  
  
-  (2) As to each corporation party to the articles:  17 
+   (i) The total number of shares of stock of all classes or series which 
+the corporation has authority to issue;  
  
-   (i) The total number of shares of stock of all classes or series which 18 
-the corporation has authority to issue;  19 
+   (ii) The number of shares of stock of each class or series;  
  
-   (ii) The number of shares of stock of each class or series;  20 
+   (iii) The par value of the shares of stock of each class or series or a 
+statement that the shares are without par value; and  
  
-   (iii) The par value of the shares of stock of each class or series or a 21 
-statement that the shares are without par value; and  22 
+   (iv) If there are any shares of stock with par value, the aggregate par  
+value of all the shares of all classes or series;  
  
-   (iv) If there are any shares of stock with par value, the aggregate par  23 
-value of all the shares of all classes or series;  24 
+  (3) As to each business trust party to the articles:  
  
-  (3) As to each business trust party to the articles:  25 
+   (i) The total number of shares of beneficial interest of all classes and 
+series which the business trust has authority to issue; and  
  
-   (i) The total number of shares of beneficial interest of all classes and 26 
-series which the business trust has authority to issue; and  27 
+   (ii) The number of shares of beneficial interest of each class and 
+series;  
  
-   (ii) The number of shares of beneficial interest of each class and 28 
-series;  29 
+  (4) [As to each limited partnership party to the articles:  
  
-  (4) [As to each limited partnership party to the articles:  30 
+   (i) The percentages of partnership interest of each class or series of 
+partnership interest of the limited partnership; and  
  
- HOUSE BILL 1171  5 
+   (ii) The class of partners and the respective percentage of 
+partnership interests in each class or series of partnership interest;  
  
-    (i) The percentages of partnership interest of each class or series of 1 
-partnership interest of the limited partnership; and  2 
+  (5) As to each limited liability company party to the articles:  
  
-   (ii) The class of partners and the respective percentage of 3 
-partnership interests in each class or series of partnership interest;  4 
+   (i) The percentages of membership interest of eac h class or series of 
+membership interest of the limited liability company; and  
  
-  (5) As to each limited liability company party to the articles:  5 
+   (ii) The class of members and the respective percentage of 
+membership interests in each class or series of membership interest;  
  
-   (i) The percentages of membership interest of eac h class or series of 6 
-membership interest of the limited liability company; and  7 
+  (6) As to each partnership party to the ar ticles:  
+ WES MOORE, Governor  Ch. 111  
  
-   (ii) The class of members and the respective percentage of 8 
-membership interests in each class or series of membership interest;  9 
+– 5 –  
+   (i) The percentages of partnership interest of each class or series of 
+partnership interest of the partnership; and  
  
-  (6) As to each partnership party to the ar ticles:  10 
+   (ii) The class of partners and the respective percentage of 
+partnership interests in each class or series of partnership interest;  
  
-   (i) The percentages of partnership interest of each class or series of 11 
-partnership interest of the partnership; and  12 
+  (7)] If the charter [, certificate of limited partnership, articles of 
+organization, ] or declaration of trust of the successor is amended in a manner which 
+changes any of the information required by items (2) [through (5) ] AND (3) of this 
+subse ction, that information as it was both immediately before and as changed by the 
+merger; and  
  
-   (ii) The class of partners and the respective percentage of 13 
-partnership interests in each class or series of partnership int erest;  14 
+  [(8)] (5) The manner and basis of converting or exchanging issued shares 
+of stock of the merging corporations, outstanding partnership interest of the merging 
+partnership or limited partnership, or shares of beneficial interest of the merging business 
+trusts into different stock of a corporation, partnership interest of a partnership or limited 
+partnership, outstanding membership interest of a limited liability company, shares of 
+beneficial interest of a business trust, or other consideration, and the treatment of any 
+issued shares of stock of the merging corporations, partnership interest of the merging 
+partnership or limited partnerships, membership interest of  the merging limited liability 
+company, or shares of beneficial interest of the merging business trusts not to be converted 
+or exchanged, any or all of which may be made dependent on facts ascertainable outside 
+the articles of merger.  
  
-  (7)] If the charter [, certificate of limited partnership, articles of 15 
-organization, ] or declaration of trust of the successor is amended in a manner which 16 
-changes any of the information required by items (2) [through (5) ] AND (3) of this 17 
-subsecti on, that information as it was both immediately before and as changed by the 18 
-merger; and  19 
+ SECTION 2. AND BE I T FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
-  [(8)] (5) The manner and basis of converting or exchanging issued shares 20 
-of stock of the merging corporations, outstanding partnership interest of the merging 21 
-partn ership or limited partnership, or shares of beneficial interest of the merging business 22 
-trusts into different stock of a corporation, partnership interest of a partnership or limited 23 
-partnership, outstanding membership interest of a limited liability compa ny, shares of 24 
-beneficial interest of a business trust, or other consideration, and the treatment of any 25 
-issued shares of stock of the merging corporations, partnership interest of the merging 26 
-partnership or limited partnerships, membership interest of the merging limited liability 27 
-company, or shares of beneficial interest of the merging business trusts not to be converted 28 
-or exchanged, any or all of which may be made dependent on facts ascertainable outside 29 
-the articles of merger.  30 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 31 
-October 1, 2025.  32 
- 
- 
- 
+Approved by the Governor, April 22, 2025.  

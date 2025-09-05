@@ -1,184 +1,162 @@
+ WES MOORE, Governor  Ch. 500  
  
+– 1 – Chapter 500  
+(House Bill 542 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0542*      
-HOUSE BILL 542  
-D4, O1    5lr1331  
-    CF SB 347  
-By: Delegate Crutchfield  
-Introduced and read first time: January 22, 2025  
-Assigned to: Judiciary  
-Committee Report: Favorable  
-House action: Adopted  
-Read second time: February 27, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Adult Protective Services – Investigations and Disclosure  of Information  
  
-AN ACT concerning  1 
+FOR the purpose of authorizing a local department  of social services  to request assistance 
+from federal  law enforcement officers  in an investigation  relating to  an alleged 
+vulnerable adult ; altering certain provisions relating to the disclosure of certain 
+information concerning human services to include adult protective services ; and 
+generally relating to adult protective services.  
  
-Adult Protective Services – Investigations and Disclosure  of Information  2 
+BY repealing and reenacting, without amendments,  
+ Article – Family Law  
+Section 14 –101(i), 14–102(a), 14–201, and 14–301 
+ Annotated Code of Maryland  
+ (2019 Replacement Volume  and 2024 Supplement)  
  
-FOR the purpose of authorizing a local department  of social services  to request assistance 3 
-from federal  law enforcement officers  in an investigation  relating to  an alleged 4 
-vulnerable adult ; altering certain provisions relating to the disclosure of certain 5 
-information concerning human services to include adult protective services ; and 6 
-generally relating to adult protective services.  7 
+BY repealing and reenacting, with amendments,  
+ Article – Family Law  
+Section 14 –303 
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  8 
- Article – Family Law  9 
-Section 14 –101(i), 14–102(a), 14–201, and 14–301 10 
- Annotated Code of Maryland  11 
- (2019 Replacement Volume  and 2024 Supplement)  12 
+BY repealing and reenacting, with amendments,  
+ Article – Human Services  
+Section 1 –201  
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  13 
- Article – Family Law  14 
-Section 14 –303 15 
- Annotated Code of Maryland  16 
- (2019 Replacement Volume and 2024 Supplement)  17 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  18 
- Article – Human Services  19 
-Section 1 –201  20 
- Annotated Code of Maryland  21 
- (2019 Replacement Volume and 2024 Supplement)  22 
-2 HOUSE BILL 542   
+Article – Family Law  
  
-  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 1 
-That the Laws of Maryland read as follows:  2 
+14–101. 
  
-Article – Family Law  3 
+ (i) “Law enforcement agency”  means a State, county, or municipal police 
+department, bureau, or agency.  
  
-14–101. 4 
+14–102. 
  
- (i) “Law enforcement agency” means a State, county, or municipal police 5 
-department, bureau, or agency.  6 
+ (a) It is the policy of the State that adults who lack the physical or mental capacity 
+to care for their basic daily living needs shall have access to and be provided with needed 
+professional services sufficient to protect their health, safety, and welfare.  
+Ch. 500  2025 LAWS OF MARYLAND   
  
-14–102. 7 
+– 2 –  
+14–201. 
  
- (a) It is the policy of the State that adults who lack the physical or mental capacity 8 
-to care for their basic daily living needs shall have access to and be provi ded with needed 9 
-professional services sufficient to protect their health, safety, and welfare.  10 
+ To implement the policy set out in § 14 –102 of this title, the Secretary, with the 
+advice of the Secretary of Health and the Secretary of Aging, shall dev elop, supervise, and 
+cause each local department to implement a program of protective services for disabled 
+individuals and vulnerable adults.  
  
-14–201. 11 
+14–301. 
  
- To implement the policy set out in § 14 –102 of this title, the Secretary, with the 12 
-advice of the Secretary of Health and the Secretary of Aging, shall  develop, supervise, and 13 
-cause each local department to implement a program of protective services for disabled 14 
-individuals and vulnerable adults.  15 
+ The provisions of this subtitle do not limit the responsibility of a law enforcement 
+agency to enforce  the laws of this State or preclude a law enforcement agency from 
+reporting and investigating alleged criminal conduct.  
  
-14–301. 16 
+14–303. 
  
- The provisions of this subtitle do not limit the responsibility of a law enforcement 17 
-agency to enf orce the laws of this State or preclude a law enforcement agency from 18 
-reporting and investigating alleged criminal conduct.  19 
+ (a) To protect the welfare of the alleged vulnerable adult the local department 
+shall begin a thorough investigation:  
  
-14–303. 20 
+  (1) within 5 working days after the receipt of the report of suspected abuse, 
+neglect, self –neglect, or exploitation; or  
  
- (a) To protect the welfare of the alleged vulnerable adult the local department 21 
-shall begin a thorough investigation:  22 
+  (2) within 24 hours after the receipt of the report of suspected abuse, 
+neglect, self –neglect, or exploitation if the report indicates t hat an emergency exists.  
  
-  (1) within 5 working days after the receipt of the report of suspected abuse, 23 
-neglect, self –neglect, or exploitation; or  24 
+ (b) The investigation shall include:  
  
-  (2) within 24 hours after the receipt of the report of suspected abuse, 25 
-neglect, self –neglect, or exploitation if the report indicat es that an emergency exists.  26 
+  (1) a determination of whether:  
  
- (b) The investigation shall include:  27 
+   (i) the individual is a vulnerable adult; and  
  
-  (1) a determination of whether:  28 
+   (ii) there has been abuse, neglect, self –neglect, or exploitation; and  
  
-   (i) the individual is a vulnerable adult; and  29 
+  (2) if the individual is determined to be a vulnerable adult and to have 
+suffered abuse, neglect, self –neglect, or exploitation:  
  
- HOUSE BILL 542  3 
+   (i) a determination of the nature, extent, and cause of the abuse, 
+neglect, self –neglect, or exploitation;  
  
-    (ii) there has been abuse, neglect, self –neglect, or exploitation; and  1 
+   (ii) a determination of the identity of the person or persons 
+responsible for the abuse, neglect, self –neglect, or exploitation;  
  
-  (2) if the individual is determined to be a vulnerable adult and to have 2 
-suffered abuse, neglect, self –neglect, or exploitation:  3 
+   (iii) an evaluation of the home environment; and  
  
-   (i) a determination of the nature, extent, and cause of the abuse, 4 
-neglect, self –neglect, or exploitation;  5 
+   (iv) a determination of any other pertinent facts.  
  
-   (ii) a determination of the identity of the person or persons 6 
-responsible for the abuse, neglect, self –neglect, or exploitation;  7 
+ WES MOORE, Governor  Ch. 500  
  
-   (iii) an evaluation of the home environment; and  8 
+– 3 –  (c) (1) On request by the local department, the local State’s Attorney or the 
+appropriate law enforcement agency shall assist in the investigation.  
  
-   (iv) a determination of any other pertinent facts.  9 
+  (2) As appropriate, the local office on aging or the Department of Aging, 
+local geriatric evaluation service, or any other public or private agency, including a 
+fiduciary institution, providing services or care to the alleged vulnerable adult or whose 
+information or expertise may be of assistance in assessing risk or planning services may 
+assist in the investigation on the request by the local department.  
  
- (c) (1) On request by the local department, the local State’s Attorney or the 10 
-appropriate law enforcement agency shall assist in the investigation.  11 
+  (3) AS APPROPRIATE  IN AN INVESTIGATION , THE LOCAL 
+DEPARTMENT MAY REQUE ST THE ASSISTANCE OF  A FEDERAL LAW ENFORCEM ENT  
+OFFICER , AS DEFINED IN § 2–104 OF THE CRIMINAL PROCEDURE ARTICLE . 
  
-  (2) As appropriate, the local office on aging or the Department of Aging, 12 
-local geriatric evaluation service, or any other public or private agency, including a 13 
-fiduciary institution, providing services or care to the alleged vulnerable adult or whose 14 
-information or expertise may be of assistance in assessing risk or planning services may 15 
-assist in the investigation on the request by the local department.  16 
+  [(3)] (4) Any agencies set out in this subsection may jointly agree to 
+cooperative arrangements for investigation.  
  
-  (3) AS APPROPRIATE  IN AN INVESTIGATION , THE LOCAL 17 
-DEPARTMENT MAY REQUE ST THE ASSISTANCE OF  A FEDERAL LAW ENFORCEM ENT  18 
-OFFICER , AS DEFINED IN § 2–104 OF THE CRIMINAL PROCEDURE ARTICLE . 19 
+ (d) An investigation under this section shall be completed within:  
  
-  [(3)] (4) Any agencies set out in this subsection may jointly agree to 20 
-cooperative arrangements for investigation.  21 
+  (1) 60 days; or  
  
- (d) An investigation under this section shall be completed within:  22 
+  (2) 10 days if the report indicates that an emergency exists.  
  
-  (1) 60 days; or  23 
+ (e) Parties participating in an investigation may share p ertinent client 
+information relevant to the investigation.  
  
-  (2) 10 days if the report indicates that an emergency exists.  24 
+Article – Human Services  
  
- (e) Parties participating in an investigation may share p ertinent client 25 
-information relevant to the investigation.  26 
+1–201.  
  
-Article – Human Services  27 
+ (a) Except as provided in subsection (b) of this section, a person may not disclose 
+any information concerning an applicant for or recipient of social services, child welfare 
+services, ADULT PROTECTIVE SER VICES , cash assistance, food stamps, or medical 
+assista nce that is directly or indirectly derived from the records, investigations, or 
+communications of the State, a county, or a municipal corporation or a unit of the State, a 
+county, or a municipal corporation or that is acquired in the course of the performa nce of 
+official duties.  
  
-1–201.  28 
+ (b) This section does not prohibit the disclosure of information:  
  
- (a) Except as provided in subsection (b) of this section, a person may not disclose 29 
-any information concerning an applicant for or recipient of social services,  child welfare 30 
-services, ADULT PROTECTIVE SER VICES , cash assistance, food stamps, or medical 31 
-4 HOUSE BILL 542   
+  (1) in accordance with a court order;  
  
- assistance that is directly or indirectly derived from the records, investigations, or 1 
-communications of the State, a county, or a municipal corporation or a unit of the State, a 2 
-county, or a municipal corporation or that is acquired in the course of the performance of 3 
-official duties.  4 
+  (2) to an officer or employee of any state or local government, the United 
+States, or a fiduciary institution, if the of ficer or employee is entitled to the information in 
+an official capacity and the disclosure is necessary to administer:  
  
- (b) This section does not prohibit the disclosure of information:  5 
+Ch. 500  2025 LAWS OF MARYLAND   
  
-  (1) in accordance with a court order;  6 
+– 4 –    (i) public assistance, medical assistance, social services,  ADULT 
+PROTECTIVE SERVICES , or child welfare services programs; or  
  
-  (2) to an officer or  employee of any state or local government, the United 7 
-States, or a fiduciary institution, if the officer or employee is entitled to the information in 8 
-an official capacity and the disclosure is necessary to administer:  9 
+   (ii) voter registration in accordance with § 3 –203 of the Election Law 
+Article; or  
  
-   (i) public assistance, medical assistance, social services,  ADULT 10 
-PROTECTIVE SERVICES , or child welfare services programs; or  11 
+  (3) to a fiduciary institution that reported suspected financial abuse or 
+financial exploitation, if the fiduciary institution is authorized to request the information 
+unde r § 1–306(h) of the Financial Institutions Article.  
  
-   (ii) voter registration in accordance with § 3 –203 of the Election Law 12 
-Article; or  13 
+ (c) A person who violates this section is guilty of a misdemeanor and on conviction 
+is subject to imprisonment not exceeding 90 days or a fine not exceeding $500 or both.  
  
-  (3) to a fiduciary institution that reported suspected financial abuse or 14 
-financial exploitation, if the fiduciary institution is authorized to request the information 15 
-under § 1 –306(h) of the Financial Institutions Article.  16 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
- (c) A person who violates this section is guilty of a misdemeanor and on conviction 17 
-is subject to imp risonment not exceeding 90 days or a fine not exceeding $500 or both.  18 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 19 
-October 1, 2025.  20 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 13, 2025.  

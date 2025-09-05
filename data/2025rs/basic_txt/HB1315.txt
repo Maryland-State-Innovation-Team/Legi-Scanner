@@ -1,277 +1,250 @@
+ WES MOORE, Governor  Ch. 738  
  
+– 1 – Chapter 738  
+(House Bill 1315 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb1315*      
-HOUSE BILL 1315  
-J5, J1    5lr2486  
-      
-By: Delegates Guzzone, Pena –Melnyk, Barnes, Crutchfield, Cullison, Embry, Fair, 
-Forbes, Harris, Hill, Kaiser, R.  Lewis, Lopez, Martinez, Palakovich  Carr, 
-Pruski, Ruff, Schindler, Smith, Stewart, Terrasa, Williams, and Woorman  
-Woorman, Alston, Bagnall, Bhandari, S.  Johnson, Kerr, Rosenberg, Ross, 
-Taveras, White  Holland,  and Woods  
-Introduced and read first time: February 7, 2025  
-Assigned to: Health and Government Operations  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second  time: March 6, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Health Insurance – Vaccinations by Pharmacists and Health Insurance  
+Coverage for Child Wellness Services – Immunizations  
  
-AN ACT concerning  1 
+FOR the purpose of altering the vaccinations that a pharmacist may administer, subject to 
+certain requirements, to an individual of at least a certain age;  altering the 
+vaccinations included in the minimum package of child wellness services for which 
+certain health insurers and nonprofit health service plans are required to provide 
+coverage; and generally relating to health insurance coverage for child welln ess 
+services  immunizations . 
  
-Health Insurance – Vaccinations by Pharmacists and Health Insurance  2 
-Coverage for Child Wellness Services – Immunizations  3 
+BY repealing and reenacting, with amendments,  
+ Article – Health Occupations  
+ Section 12 –508 
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of altering the vaccinations that a pharmacist may administer, subject to 4 
-certain requirements, to an individual of at least a certain age;  altering the 5 
-vaccinations included in the minimum package of child wellness services for which 6 
-certain health insurers and nonprofit health service plans are required to provide 7 
-coverage; and generally relating to health insurance coverage for child wellness 8 
-services  immunizations . 9 
+BY repealing and reenacting, without amendments,  
+ Article – Insurance  
+Section 15 –817(a), (b), and (f)  
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  10 
- Article – Health Occupations  11 
- Section 12 –508 12 
- Annotated Code of Maryland  13 
- (2021 Replacemen t Volume and 2024 Supplement)  14 
+BY repealing and reenacting, with amendments,  
+ Article – Insurance  
+Section 15 –817(c)  
+ Annotated Code of Maryland  
+ (2017 Replacem ent Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  15 
- Article – Insurance  16 
-Section 15 –817(a), (b), and (f)  17 
- Annotated Code of Maryland  18 
- (2017 Replacement Volume and 2024 Supplement)  19 
-2 HOUSE BILL 1315   
+BY adding to  
+ Article – Insurance  
+ Section 15 –817(g)  
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2024 Supplement)  
  
-  
-BY repealing and reenacting, with amendments,  1 
- Article – Insurance  2 
-Section 15 –817(c)  3 
- Annotated Code of Maryland  4 
- (2017 Replacement Volume and 2024 Supplement)  5 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read  as follows:  
  
-BY adding to  6 
- Article – Insurance  7 
- Section 15 –817(g)  8 
- Annotated Code of Maryland  9 
- (2017 Replacement Volume and 2024 Supplement)  10 
+Article – Health Occupations  
  
- SECTION 1.  BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 11 
-That the Laws of Maryland read as follows:  12 
+12–508. 
  
-Article – Health Occupations  13 
+Ch. 738  2025 LAWS OF MARYLAND   
  
-12–508. 14 
+– 2 –  (a) (1) Subject to paragraph (4) of this subsection, a pharmacist may order and 
+administer a vaccination to an individual who is at least 3 years old if:  
  
- (a) (1) Subject to paragraph (4) of this subsection, a pharmacist may order and 15 
-administer a vaccination to an individua l who is at least 3 years old if:  16 
+   (i) The vaccine is:  
  
-   (i) The vaccine is:  17 
+    1. An influenza vaccine;  
  
-    1. An influenza vaccine;  18 
+    2. A COVID –19 vaccine; or  
  
-    2. A COVID –19 vaccine; or  19 
+    3. Used in response to a public health emergency;  
  
-    3. Used in response to a public health emergency;  20 
+   (ii) The pharmacist has completed a practical training program of at 
+least 20 hours that is approved by the Accreditation Council for Pharmacy Education and 
+includes:  
  
-   (ii) The pharmacist has completed a practical training program of at 21 
-least 20 hours that is approved by the Accreditation Council for Pharmacy Education and 22 
-includes:  23 
+    1. Hands –on injection techniques;  
  
-    1. Hands –on injection techniques;  24 
+    2. Clinical evaluation of indications and contraindications of 
+vaccines; and  
  
-    2. Clinical evaluation of indications and contraindications of 25 
-vaccines; and  26 
+    3. The recognition and treatment of emergency reactions to 
+vaccines;  
  
-    3. The recognition and treatment of emergency reactions to 27 
-vaccines;  28 
+   (iii) The pharmacist has a current certificate in basic 
+cardiopulmonary resuscitation;  
  
-   (iii) The pharmacist has a current certificate in basic 29 
-cardiopulmonary resuscitation;  30 
+   (iv) The pharmacist has completed a minimum of 2 hours of 
+continuing pharmaceutical education related to immunizations that is approved by the 
+Accreditation Council for Pharmacy Education as part of the license r enewal requirements 
+under § 12 –309 of this title;  
  
- HOUSE BILL 1315  3 
+   (v) The pharmacist complies with the record –keeping and reporting 
+requirements in paragraph (5) of this subsection and any corresponding regulations 
+adopted by the Board; and  
  
-    (iv) The pharmacist has completed a minimum of 2 hours of 1 
-continuing pharmaceutical education related to immunizations that is a pproved by the 2 
-Accreditation Council for Pharmacy Education as part of the license renewal requirements 3 
-under § 12 –309 of this title;  4 
+   (vi) If the vaccination  is administered to an individual under the age 
+of 18 years, the pharmacist informs the child vaccination patient and adult caregiver who 
+is accompanying the child of the importance of well –child visits with a pediatric primary 
+care provider and refers the  patient to a pediatric primary care provider when appropriate.  
  
-   (v) The pharmacist complies with the record –keeping and reporting 5 
-requirements in paragraph (5) of this subsection and  any corresponding regulations 6 
-adopted by the Board; and  7 
+  (2) Subject to paragraph (4) of this subsection, a pharmacist who has met 
+the requirement of paragraph (1)(ii) through (vi) of this subsection may administer to an 
+individual who is at leas t 7 years old a vaccination that is:  
  
-   (vi) If the vaccination is administered to an individual under the age 8 
-of 18 years, the pharmacist informs the child vaccination patient and adult caregiver who 9 
-is accompanying the child of the i mportance of well –child visits with a pediatric primary 10 
-care provider and refers the patient to a pediatric primary care provider when appropriate.  11 
+   (i) Recommended by the Centers for Disease Control and 
+Prevention’s Advisory Committee on Immunization Practices; or  
+ WES MOORE, Governor  Ch. 738  
  
-  (2) Subject to paragraph (4) of this subsection, a pharmacist who has met 12 
-the requirement of paragraph (1 )(ii) through (vi) of this subsection may administer to an 13 
-individual who is at least 7 years old a vaccination that is:  14 
+– 3 –  
+   (ii) Approved or authorized by the U.S. Food and Drug 
+Administration.  
  
-   (i) Recommended by the Centers for Disease Control and 15 
-Prevention’s Advisory Committee on Immunization Practices; or  16 
+  (3) Subject to paragr aph (4) of this subsection, a pharmacist who has met 
+the requirement of paragraph (1)(ii), (iii), and (iv) of this subsection may administer to an 
+adult a vaccination that is recommended in the Centers for Disease Control and 
+Prevention’s Health Informatio n for International Travel.  
  
-   (ii) Appro ved or authorized by the U.S. Food and Drug 17 
-Administration.  18 
+  (4) (I) A pharmacist shall administer a vaccination under paragraph 
+(1), (2), or (3) of this subsection under a written protocol that:  
  
-  (3) Subject to paragraph (4) of this subsection, a pharmacist who has met 19 
-the requirement of paragraph (1)(ii), (iii), and (iv) of this subsection may administer to an 20 
-adult a vaccination that is recommended in the Centers for Disease Control and 21 
-Prevention’s Health Information for International Travel.  22 
+   [(i)] 1. Is vaccine specific; and  
  
-  (4) (I) A pharmacist shall administer a vaccination under paragraph 23 
-(1), (2), or (3) of this subsection under a written protocol that:  24 
+   [(ii)] 2. Meets criteria established by the Depa rtment, in 
+consultation with the Board, the Board of Physicians, and the Board of Nursing, in 
+regulation.  
  
-   [(i)] 1. Is vaccine specific; and  25 
+   (II) THE RECOMMENDATIONS O F THE CENTERS FOR DISEASE 
+CONTROL AND PREVENTION ’S ADVISORY COMMITTEE ON IMMUNIZATION 
+PRACTICES CITED IN TH IS SECTION RE FER TO FEDERAL STATU TES, RULES , AND 
+GUIDANCE IN EFFECT : 
  
-   [(ii)] 2. Meets criteria established by the Department, in 26 
-consultation with the Board, the Board of Physicians, and the Board of Nursing, in 27 
-regulation.  28 
+    1. ON DECEMBER 31, 2024;  OR 
  
-   (II) THE RECOMMENDATIONS O F THE CENTERS FOR DISEASE 29 
-CONTROL AND PREVENTION ’S ADVISORY COMMITTEE ON IMMUNIZATION 30 
-PRACTICES CITED IN TH IS SECTION REFER TO FEDERAL STATUTES , RULES , AND 31 
-GUIDANCE IN EFFECT : 32 
+    2. AT A LATER DATE TO AC COUNT FOR ANY NEW 
+VACCINES RECOMMENDED  BY THE CENTERS FOR DISEASE CONTROL AND 
+PREVENTION ’S ADVISORY COMMITTEE ON IMMUNIZATION PRACTICES AFTER 
+DECEMBER 31, 2024.   
  
-    1. ON DECEMBER 31, 2024;  OR 33 
+  (5) A pharmacist shall:  
  
-4 HOUSE BILL 1315   
+   (i) Report all vaccinations administered b y the pharmacist to the 
+ImmuNet Program established under § 18 –109 of the Health – General Article;  
  
-     2. AT A LATER DATE TO AC COUNT FOR ANY NEW 1 
-VACCINES RECOMMENDED  BY THE CENTER S FOR DISEASE CONTROL AND 2 
-PREVENTION ’S ADVISORY COMMITTEE ON IMMUNIZATION PRACTICES AFTER 3 
-DECEMBER 31, 2024.   4 
+   (ii) If the vaccination has been administered in accordance with a 
+prescription, document at least one effort to inform the individual’s authorized pres criber 
+that the vaccination has been administered; and  
  
-  (5) A pharmacist shall:  5 
+   (iii) Except for an influenza vaccination administered under 
+paragraph (1) of this subsection, if the authorized prescriber is not the individual’s primary 
+care provider or if the vaccination has not been administered in accordance with a 
+prescription, document at least one effort to inform the individual’s primary care provider 
+or other usual source of care that the vaccination has been administered.  
  
-   (i) Report all vaccinations administered by the pharmacist to the 6 
-ImmuNet Program established under § 18 –109 of the  Health – General Article;  7 
+Ch. 738  2025 LAWS OF MARYLAND   
  
-   (ii) If the vaccination has been administered in accordance with a 8 
-prescription, document at least one effort to inform the individual’s authorized prescriber 9 
-that the vaccination has been administered; and  10 
+– 4 –  (b) The Board shall:  
  
-   (iii) Except f or an influenza vaccination administered under 11 
-paragraph (1) of this subsection, if the authorized prescriber is not the individual’s primary 12 
-care provider or if the vaccination has not been administered in accordance with a 13 
-prescription, document at least  one effort to inform the individual’s primary care provider 14 
-or other usual source of care that the vaccination has been administered.  15 
+  (1) Set reasonable fe es for the administration of vaccinations under this 
+section; and  
  
- (b) The Board shall:  16 
+  (2) Adopt regulations that require a pharmacist to submit a registration 
+form to the Board that includes verification that the pharmacist:  
  
-  (1) Set reasonable fees for the administration of vaccinations under this 17 
-section; and  18 
+   (i) Has successfully completed a certificati on course approved by the 
+Board that included instruction in the guidelines and recommendations of the Centers for 
+Disease Control and Prevention regarding vaccinations IN EFFECT ON DECEMBER 31, 
+2024 ; and  
  
-  (2) Adopt regulations that require a pharmacist to submit a registration 19 
-form to the Board that includes verification that the pharmacist:  20 
+   (ii) Is certified in basic cardiopulmonary resu scitation and obtained 
+the certification through in –person classroom instruction.   
  
-   (i) Has successfully completed a certification course approved by the 21 
-Board that included instruction in the guidelines and recommendations of the Centers for 22 
-Disease Control and Prevention regarding vaccinations IN EFFECT ON DECEMBER 31, 23 
-2024 ; and  24 
+Article – Insurance  
  
-   (ii) Is certified in basic cardiopulmonary resuscitation and obtained 25 
-the certification through in –person classroom instruction.   26 
+15–817. 
  
-Article – Insurance  27 
+ (a) In this section, “child wellness services” means preventive activities designed 
+to protect children from morbidity and mortality and prom ote child development.  
  
-15–817. 28 
+ (b) This section applies to each individual hospital or major medical insurance 
+policy, group or blanket health insurance policy, and nonprofit health service plan that:  
  
- (a) In this section, “child wellness services” means preventive activities designed 29 
-to protect childr en from morbidity and mortality and promote child development.  30 
+  (1) is delivered or issued for delivery in the State;  
  
- (b) This section applies to each individual hospital or major medical insurance 31 
-policy, group or blanket health insurance policy, and nonprofit health service plan that:  32 
+  (2) is written on an expense –incurred basis; and  
  
- HOUSE BILL 1315  5 
+  (3) provides coverage for a family member of the insured.  
  
-   (1) is delivered o r issued for delivery in the State;  1 
+ (c) (1) A policy or plan subject to this section shall include under the family 
+member coverage a minimum package of child wellness services that  are consistent with:  
  
-  (2) is written on an expense –incurred basis; and  2 
+   (i) public health policy;  
  
-  (3) provides coverage for a family member of the insured.  3 
+   (ii) professional standards; and  
  
- (c) (1) A policy or plan subject to this section shall include under the family 4 
-member coverage a minimum  package of child wellness services that are consistent with:  5 
+   (iii) scientific evidence of effectiveness.  
  
-   (i) public health policy;  6 
+  (2) The minimum package of child wellness services shall cover at least:  
  
-   (ii) professional standards; and  7 
+   (i) all visits for and costs of childhood and adolescent 
+immunizations : 
  
-   (iii) scientific evidence of effectiveness.  8 
+ WES MOORE, Governor  Ch. 738  
  
-  (2) The minimum package of child wellness services shall cover at least:  9 
+– 5 –     1. recommended by the Advisory Committee on 
+Immunization Practices of the Centers for Disease Control and Prevention ; OR 
  
-   (i) all visits for and costs of childhood and adolescent 10 
-immunizations : 11 
+    2. RECOMMENDED BY THE AMERICAN ACADEMY OF  
+PEDIATRICS IN ITS CHILD AND ADOLESCENT IMMU NIZATION SCHEDULE BY AGE AS 
+OF DECEMBER 31, 2024 ; 
  
-    1. recommended by the Advisory Committee on 12 
-Immunization Practices of the Centers for Disease Control and Prevention ; OR 13 
+   (ii) visits for the collection of adequate samples, the first of which is 
+to be collected before 2 weeks of age, for hereditary and metabolic newborn screening and 
+follow –up between birth and 4 weeks of  age; 
  
-    2. RECOMMENDED BY THE AMERICAN ACADEMY OF  14 
-PEDIATRICS  IN ITS CHILD AND ADOLESCENT IMMUNIZATION SCHEDULE BY AGE AS 15 
-OF DECEMBER 31, 2024 ; 16 
+   (iii) universal hearing screening of newborns provided by a hospital 
+before discharge;  
  
-   (ii) visits for the collection of adequate samples, the first of which is 17 
-to be collected before 2 weeks of age, for hereditary and metabolic newborn screening and 18 
-follow –up between birth and 4 weeks of age;  19 
+   (iv) all visits for and costs of age –appropriate screening tests for 
+tuberculosis, anemia, lead toxicity, hearing, and vision as determined by the American  
+Academy of Pediatrics;  
  
-   (iii) universal hearing screening of newborns provided by a hospital 20 
-before discharge;  21 
+   (v) all visits for obesity evaluation and management;  
  
-   (iv) all visits for and costs of age –appropriate screening tests for 22 
-tuberculosis, anemia, lead toxicity, hearing, an d vision as determined by the American 23 
-Academy of Pediatrics;  24 
+   (vi) all visits for and costs of developmental screening as 
+recommended by the American Academy of Pediatrics;  
  
-   (v) all visits for obesity evaluation and management;  25 
+   (vii) a physical examination, developmental assessment,  and 
+parental anticipatory guidance services at each of the visits required under items (i), (ii), 
+(iv), (v), and (vi) of this paragraph; and  
  
-   (vi) all visits for and costs of developmental screening as 26 
-recommended by the American Academy of Pediatrics;  27 
+   (viii)  any laboratory tests considered necessary by the physician as 
+indicated by the services provided under items (i), (ii), (iv), (v), (vi), or (vii) of this paragraph.  
  
-   (vii) a physical examination, developmental assessment, and 28 
-parental anticipatory guidance services at each of the visits required under items (i), (ii), 29 
-(iv), (v), and (vi) of this paragraph; and  30 
-6 HOUSE BILL 1315   
+ (f) (1) A policy or plan subject to this section may not impose a deductible on 
+the coverage required under this section.  
  
-  
-   (viii)  any laboratory tests considered necessary by the physician as 1 
-indicated by the services provided under items (i), (ii), (iv), (v), (vi), or (vii) of this paragraph.  2 
+  (2) Each health insurance policy and certificate shall contain a no tice of the 
+prohibition established by paragraph (1) of this subsection in a form approved by the 
+Commissioner.  
  
- (f) (1) A policy or plan subject to this section may not impose a deductible on 3 
-the coverage required under this section.  4 
+ (G) THE COMMISSIONER MAY ADOP T REGULATIONS NECESS ARY TO CARRY 
+OUT SUBPARAGRAPH (C)(2)( I) OF THIS SECTION , CONSISTENT WITH FEDE RAL 
+STATUTES , RULES , AND GUIDANCE IN EFFE CT: 
  
-  (2) Each health insurance pol icy and certificate shall contain a notice of the 5 
-prohibition established by paragraph (1) of this subsection in a form approved by the 6 
-Commissioner.  7 
+  (1) ON DECEMBER 31, 2024;  OR 
  
- (G) THE COMMISSIONER MAY ADOP T REGULATIONS NECESS ARY TO CARRY 8 
-OUT SUBPARAGRAPH (C)(2)( I) OF THIS SECTION , CONSISTENT WITH FEDE RAL 9 
-STATUTES , RULES , AND GUIDANCE IN EFFE CT: 10 
+Ch. 738  2025 LAWS OF MARYLAND   
  
-  (1) ON DECEMBER 31, 2024;  OR 11 
+– 6 –   (2) AT A LATER DATE TO A CCOUNT FOR ANY NEW V ACCINES 
+RECOMMENDED BY THE CENTERS FOR DISEASE CONTROL AND PREVENTION ’S 
+ADVISORY COMMITTEE ON IMMUNIZATION PRACTICES AFTER DECEMBER 31, 2024.   
  
-  (2) AT A LATER DATE TO A CCOUNT FOR ANY NEW V ACCINES 12 
-RECOMMENDED BY THE CENTERS FOR DISEASE CONTROL AND PREVENTION ’S 13 
-ADVISORY COMMITTEE ON IMMUNIZATION PRACTICES AFTER DECEMBER 31, 2024.   14 
+ SECTION 2. AND BE IT FURTHER ENACTED, That Section 1 of this Act shall 
+apply to all policies, contracts, and health benefit plans issued, delivered, or renewed in the 
+State on or after January 1, 2026.  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That Section 1 of this Act shall 15 
-apply to all policies, contracts, and health benefit plans issued, delivered, or renewed in the 16 
-State on or after January 1, 2026.  17 
+ SECTION 3. AND BE IT FURTHER ENACTED, That this Act s hall take effect 
+January 1, 2026  June 1, 2025 .  
  
- SECTION 3. AND  BE IT FURTHER ENACTED, That this Act shall take effect 18 
-January 1, 2026  June 1, 2025 .  19 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 20, 2025.  

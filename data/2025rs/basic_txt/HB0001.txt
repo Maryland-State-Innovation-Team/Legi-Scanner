@@ -1,154 +1,126 @@
+ WES MOORE, Governor  Ch. 437  
  
+– 1 – Chapter 437  
+(House Bill 1 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0001*      
-HOUSE BILL 1  
-R2   5lr0871  
-HB 148/24 – ENT  (PRE–FILED)  CF SB 7  
-By: Delegates Ebersole, Bagnall, Boyce, Cardin, Crosby, Fair, Feldmark , Forbes, 
-Hill, Lehman, Pasteur, Pruski, Ruth, Stein, Stewart, Terrasa, Toles, Wims, 
-Wu, and Ziegler  Ziegler, Allen, Behler, Foley, Healey, and R.  Lewis  
-Requested: September 18, 2024  
-Introduced and read first time: January 8, 2025  
-Assigned to: Environment and Transportation  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: February 25, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Department of Transportation – Human Trafficking Awareness, Training, and 
+Response  
+(See Someone, Save Someone Act)  
  
-AN ACT concerning  1 
+FOR the purpose of requiring the Maryland Department of Transportation to develop or 
+identify and implement a certain training program for certain transportation –sector 
+employees on the identification and reporting of suspected human trafficking 
+victims; requiring certain  transportation sector employers to certify that certain 
+employees have completed the training program; requiring certain transportation 
+sector employers to establish procedures for reporting suspected human trafficking 
+to certain entities and to implement  a certain human trafficking prevention policy; 
+prohibiting certain employers or employees from being held civilly or criminally 
+liable for reporting or responding to in good faith a suspected incident of human 
+trafficking; requiring the Department to requ ire frequent public service 
+announcements with safety information for trafficking victims at certain locations; 
+and generally relating to human trafficking awareness, training, and response.  
  
-Department of Transportation – Human Trafficking Awareness, Training, and 2 
-Response  3 
-(See Someone, Save Someone Act)  4 
+BY adding to  
+ Article – Transportation  
+Section 2 –114 
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of requiring the Maryland Department of Transportation to develop or 5 
-identify and implement a certain training program for certain transportation –sector 6 
-employees on the identification and reporti ng of suspected human trafficking 7 
-victims; requiring certain transportation sector employers to certify that certain 8 
-employees have completed the training program; requiring certain transportation 9 
-sector employers to establish procedures for reporting susp ected human trafficking 10 
-to certain entities and to implement a certain human trafficking prevention policy; 11 
-prohibiting certain employers or employees from being held civilly or criminally 12 
-liable for reporting or responding to in good faith a suspected inc ident of human 13 
-trafficking; requiring the Department to require frequent public service 14 
-announcements with safety information for trafficking victims at certain locations; 15 
-and generally relating to human trafficking awareness, training, and response.  16 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY adding to  17 
- Article – Transportation  18 
-Section 2 –114 19 
- Annotated Code of Maryland  20 
- (2020 Replacement Volume and 2024 Supplement)  21 
-2 HOUSE BILL 1   
+Article – Transportation  
  
-  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 1 
-That the Laws of Maryland read as follows:  2 
+2–114.   
  
-Article – Transportation  3 
+ (A) IN THIS SECTION , “TRANSIT SERVICE ” AND “TRANSIT STATION ” HAVE 
+THE MEANINGS STATED IN § 7–101 OF THIS ARTICLE .  
  
-2–114.   4 
+ (B) THIS SECTION APPLIES ONLY TO : 
  
- (A) IN THIS SECTION , “TRANSIT SERVICE ” AND “TRANSIT STATION ” HAVE 5 
-THE MEANINGS STATED IN § 7–101 OF THIS ARTICLE .  6 
+  (1) AN EMPLOYEE WHO IS : 
  
- (B) THIS SECTION APPLIES ONLY TO : 7 
+   (I) A STATE EMPLOYEE WHO WO RKS AT A TRANSIT STA TION , 
+AIRPORT , PORT FACILITY , OR HIGHWAY REST STOP ; 
  
-  (1) AN EMPLOYEE WHO IS : 8 
+Ch. 437  2025 LAWS OF MARYLAND   
  
-   (I) A STATE EMPLOYEE WHO WO RKS AT A TRANSIT STA TION, 9 
-AIRPORT , PORT FACILITY , OR HIGHWAY REST STOP ; 10 
+– 2 –    (II) A STATE EMPLOYEE WHO PR OVIDES TRANSIT SERVI CE; OR 
  
-   (II) A STATE EMPLOYEE WHO PR OVIDES TRANSIT SERVI CE; OR 11 
+   (III) EMPLOYED UNDER A CONT RACT WITH THE STATE TO 
+PROVIDE TRANSIT SERV ICE; OR  
  
-   (III) EMPLOYED UNDER A CONT RACT WITH THE STATE TO 12 
-PROVIDE TRANSIT SERV ICE; OR  13 
+  (2) AN EMPLOYER OF AN EMP LOYEE DESCRIBED IN I TEM (1) OF THIS 
+SUBSECTION . 
  
-  (2) AN EMPLOYER OF AN EMP LOYEE DESCRIBED IN I TEM (1) OF THIS  14 
-SUBSECTION . 15 
+ (C) (1) THE DEPARTMENT SHALL : 
  
- (C) (1) THE DEPARTMENT SHALL : 16 
+   (I) IN CONSULTATION WITH STAKEHOLDERS , DEVELOP  OR 
+IDENTIFY AND IMPLEME NT A TRAINING PROGRA M THAT INCLUDES A CU RRICULUM 
+ON THE IDENTIFICATIO N AND REPORTING OF S USPECTED HUMAN TRAFF ICKING ; 
+AND  
  
-   (I) IN CONSULTATION WITH STAKEHOLDERS , DEVELOP  OR 17 
-IDENTIFY AND IMPLEME NT A TRAINING PROGRA M THAT INCLUDES A CU RRICULUM 18 
-ON THE IDENTIFICATIO N AND REPORTING OF S USPECTED HUMAN TRAFF ICKING ; 19 
-AND  20 
+   (II) ADMINISTER THE TRAINI NG PROGRAM TO: 
  
-   (II) ADMINISTER THE TRAINI NG PROGRAM TO: 21 
+    1. TO ALL EMPLOYEES AND CO NTRACT EMPLOYEES OF 
+THE DEPARTMENT ; AND 
  
-    1. TO ALL EMPLOYEES AND CO NTRACT EMPLOYEES OF 22 
-THE DEPARTMENT ; AND 23 
+    2. TO THE EXTENT FEASIBL E, DURING REGULAR 
+WORKING HOURS .  
  
-    2. TO THE EXTENT FEASIBL E, DURING REGULAR 24 
-WORKING HOURS .  25 
+  (2) THE TRAINING PROGRAM SHALL : 
  
-  (2) THE TRAINING PROGRAM SHALL : 26 
+   (I) INCLUDE A DEFINITION OF HUMAN TRAFFICKING ; AND 
  
-   (I) INCLUDE A DEFINITION OF HUMAN TRAFFICKING ; AND 27 
+   (II) OFFER  GUIDANCE TO EMPLOYEES AND  CONTRACT 
+EMPLOYEES ON THE IDE NTIFICATION OF POTEN TIAL VICTIMS OF HUMA N 
+TRAFFICKING AND PROT OCOLS FOR REPORTING SUSPECTED HUMAN TRAF FICKING .  
  
- HOUSE BILL 1 3 
+ (D) (1) EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS SUBSECTION , 
+ON OR BEFORE JANUARY 1, 2026  2027 , AND EACH JANUARY 1 THEREAFTER , EACH 
+EMPLOYER SHALL CERTI FY TO THE DEPARTMENT THAT ALL T HE EMPLOYER ’S 
+EMPLOYEES HAVE COMPL ETED THE TRAINING PR OGRAM .  
  
-    (II) OFFER  GUIDANCE TO EMPLOYEE S AND  CONTRACT 1 
-EMPLOYEES ON THE IDE NTIFICATION OF POTEN TIAL VICTIMS OF HUMA N 2 
-TRAFFICKING AND PROT OCOLS FOR REPORTING SUSPECTED HUMAN TRAF FICKING .  3 
+  (2) AN EMPLOYER SHALL PROVIDE : 
  
- (D) (1) EXCEPT AS PROVIDED IN  PARAGRAPH (2) OF THIS SUBSECTION , 4 
-ON O R BEFORE JANUARY 1, 2026  2027 , AND EACH JANUARY 1 THEREAFTER , EACH 5 
-EMPLOYER SHALL CERTI FY TO THE DEPARTMENT THAT ALL T HE EMPLOYER ’S 6 
-EMPLOYEES HAVE COMPL ETED THE TRAINING PR OGRAM .  7 
+   (I) PROVIDE  A NEW EMPLOYEE WITH THE TRAINING REQUIRE D 
+UNDER THIS SECT ION WITHIN 90 DAYS AFTER THE DATE OF HIRE ; AND 
  
-  (2) AN EMPLOYER SHALL PROVIDE : 8 
+   (II) TO THE EXTENT FEASIBL E, ADMINISTER THE TRAIN ING 
+PROGRAM DURING REGUL AR WORKING HOURS . 
  
-   (I) PROVIDE  A NEW EMPLOYEE WITH THE TR AINING REQUIRED 9 
-UNDER THIS SECTION W ITHIN 90 DAYS AFTER THE DATE OF HIRE ; AND 10 
+ WES MOORE, Governor  Ch. 437  
  
-   (II) TO THE EXTENT FEASIBL E, ADMINISTER THE TRAIN ING 11 
-PROGRAM DURING REGUL AR WORKING HOURS . 12 
+– 3 –  (E) EACH EMPLOYER , IN CONSULTATION WITH  THE DEPARTMENT , SHALL : 
  
- (E) EACH EMPLOYER , IN CONSULTATION WITH  THE DEPARTMENT , SHALL : 13 
+  (1) ESTABLISH A PROCEDURE  FOR EMPLOYEES AND  CONTRACT 
+EMPLOYEES TO REPORT SUSPECTED INCIDENTS OF HUMAN TRAFFICKING  TO THE 
+APPROPRIATE LOCAL AG ENCIES , INCLUDING THE DESIGN ATED REGIONAL 
+NAVIGATOR ; AND  
  
-  (1) ESTABLISH A  PROCEDURE FOR EMPLOY EES AND  CONTRACT 14 
-EMPLOYEES TO REPORT SUSPECTED INCIDENTS OF HUMAN TRAFFICKING  TO THE 15 
-APPROPRIATE LOCAL AG ENCIES , INCLUDING THE DESIGN ATED REGIONAL 16 
-NAVIGATOR ; AND  17 
+  (2) IMPLEMENT A HUMAN TRA FFICKING PREVENTION POLICY FOR 
+EMPLOYEES AND  CONTRACT EMPLOYEES B Y PROVIDING INFORMATIO N ON HOW TO : 
  
-  (2) IMPLEMENT A HUMAN TRA FFICKING PREVENTION POLICY FOR 18 
-EMPLOYEES AND  CONTRACT EMPLOYEES B Y PROVIDING INFORMAT ION ON HOW TO : 19 
+   (I) RECOGNIZE POTENTIAL V ICTIMS OF HUMAN TRAF FICKING ;  
  
-   (I) RECOGNIZE POTENTIAL V ICTIMS OF HUMAN TRAF FICKING ;  20 
+   (II) RESPOND TO AN INDIVID UAL WHO MAY BE OR IS  A VICTIM 
+OF HUMAN TRAFFICKING ; AND 
  
-   (II) RESPOND TO AN INDIVID UAL WHO MAY BE OR IS  A VICTIM 21 
-OF HUMAN TRAFFICKING ; AND 22 
+   (III) CONNECT AN INDIVIDUAL  WHO MAY BE OR IS A V ICTIM OF 
+HUMAN TRAFFICKING  WITH AVAILABLE RESOU RCES .  
  
-   (III) CONNECT AN INDIVIDUAL  WHO MAY BE OR IS A V ICTI M OF 23 
-HUMAN TRAFFICKING WI TH AVAILABLE RESOURC ES.  24 
+ (F) AN EMPLOYER , AN EMPLOYEE , OR A CONTRACT EMPLOYEE MAY NOT BE 
+HELD CIVILLY OR CRIM INALLY LIABLE FOR RE PORTING OR RESPONDIN G IN GOOD 
+FAITH TO A SUSPECTED  INCIDENT OF HUMAN TR AFFICKING .  
  
- (F) AN EMPLOYER , AN EMPLOYEE , OR A CONTRACT EMPLOYEE MAY NOT BE 25 
-HELD CIVILLY OR CRIM INALLY LIABLE FOR RE PORTING OR RESPONDIN G IN GOOD 26 
-FAITH TO A SUSPECTED  INCIDENT OF HUMAN TR AFFICKING .  27 
+ (G) TO THE EXTENT PRACTIC ABLE , THE DEPARTMENT SHALL REQUI RE 
+FREQUENT PUBLIC SERV ICE ANNOUNCEMENTS WI TH SAFETY INFORMATIO N FOR 
+HUMAN TRAFFICKING VI CTIMS TO BE MADE , IN BOTH ENGLISH AND SPANISH , AT 
+TRANSIT STATIONS , AIRPORTS , PORT FACILITIES , AND HIGHWAY REST STO PS. 
  
- (G) TO THE EXTENT PRACTICABLE , THE DEPARTMENT SHALL REQU IRE 28 
-FREQUENT PUBLIC SERV ICE ANNOUNCEMENTS WI TH SAFETY INFORMATIO N FOR 29 
-HUMAN TRAFFICKING VI CTIMS TO BE MADE , IN BOTH ENGLISH AND SPANISH , AT 30 
-TRANSIT STATIONS , AIRPORTS , PORT FACILITIES , AND HIGHWAY REST STO PS. 31 
+ SECTION 2. AND BE IT FURTH ER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
-4 HOUSE BILL 1   
- 
-  SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 1 
-October 1, 2025.  2 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 13, 2025.  

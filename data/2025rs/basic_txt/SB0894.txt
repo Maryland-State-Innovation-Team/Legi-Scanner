@@ -1,461 +1,448 @@
+ WES MOORE, Governor  Ch. 195  
+ 
+– 1 – Chapter 195  
+(Senate Bill 894 ) 
  
+AN ACT concerning  
+ 
+Office of Social Equity – Community Reinvestment and Repair Fund – Advisory 
+Board and  Modifications  
+ 
+FOR the purpose of requiring  the Office of Social Equity, rather than the Comptroller, to 
+administer the Community Reinvestment and Repair Fund;  repealing provisions of 
+law requiring the Office of Social Equity  to report on the Community Reinvestment 
+and Repair  Fund and to solicit public input on the uses of the Fund and publish a 
+review of the input; requiring the Office to oversee the appropriation of funds from 
+the Fund and to train fund recipients; establishing the Community Reinvestment 
+and Repair Advisory Board;  altering certain limitations on the use of the Fund; 
+limiting certain administrative costs to administer the Fund to a certain amount; 
+requiring counties to administer funds from the Fund in a certain manner; requiring 
+the Office to require each cou nty to develop a plan for the distribution of certain 
+funds to community –based organizations and to report certain information to the 
+Office by a certain date each year; and generally relating to the Community 
+Reinvestment and Repair Fund and the Office of  Social Equity.  
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *sb0894*      
-SENATE BILL 894  
-A3   5lr3266  
-    CF HB 1364  
-By: Senator M.  Washington  
-Introduced and read first time: January 28, 2025  
-Assigned to: Finance  
-Committee Report:  Favorable with amendments  
-Senate action: Adopted  
-Read second time: February 28, 2025  
- 
-CHAPTER ______  
- 
-AN ACT concerning  1 
- 
-Office of Social Equity – Community Reinvestment and Repair Fund – Advisory 2 
-Board and  Modifications  3 
- 
-FOR the purpose of requiring  the Office of Social Equity, rather than the Comptroller, to 4 
-administer the Community Reinvestment and Repair Fund;  repealing provisions of 5 
-law requiring the Office of Social Equity  to report on the Community Reinvestment 6 
-and Repair  Fund and to solicit pu blic input on the uses of the Fund and publish a 7 
-review of the input; requiring the Office to oversee the appropriation of funds from 8 
-the Fund and to train fund recipients; establishing the Community Reinvestment 9 
-and Repair Advisory Board;  altering certain limitations on the use of the Fund; 10 
-limiting certain administrative costs to administer the Fund to a certain amount; 11 
-requiring counties to administer funds from the Fund in a certain manner; requiring 12 
-the Office to require each county to  develop a plan for the distribution of certain 13 
-funds to community –based organizations and to report certain information to the 14 
-Office by a certain date each year; and generally relating to the Community 15 
-Reinvestment and Repair Fund and the Office of Socia l Equity.  16 
+BY repealing and reenacting, without amendments,  
+ Article – General Provisions  
+ Section 1 –110 
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  17 
- Article – General Provisions  18 
- Section 1 –110 19 
- Annotated Code of Maryland  20 
- (2019 Replacement Volume and 2024 Supplement)  21 
+BY repealing and reenacting, with amendments,  
+ Article – Alcoholic Beverages and Cannabis  
+Section 1 –309.1 and 1 –322 
+ Annotated Code of Maryland  
+ (2024 Replacement Volume)  
  
-BY repealing and reenacting, with amendments,  22 
- Article – Alcoholic Beve rages and Cannabis  23 
-2 SENATE BILL 894   
+BY adding to  
+ Article – Alcoholic Beverages and Cannabis  
+Section 1 –3A–01 through 1 –3A–03 and 1 –3A–02 to be under the new subtitle 
+“Subtitle 3 A. Community Reinvestment and Repair Advisory Board and  
+Fund”  
+ Annotated Code of Maryland  
+ (2024 Replacement Volume)  
  
- Section 1 –309.1 and 1 –322 1 
- Annotated Code of Maryland  2 
- (2024 Replacement Volume)  3 
+BY renumbering  
+ Article – Alcoholic Beverages and Cannabis  
+Section 1 –323  
+to be Section 1 –322 
+Ch. 195  2025 LAWS OF MARYLAND   
  
-BY adding to  4 
- Article – Alcoholic Beverages and Cannabis  5 
-Section 1 –3A–01 through 1 –3A–03 and 1 –3A–02 to be under the new subtitle 6 
-“Subtitle 3A. Community Reinvestment and Repair Advisory Board and  7 
-Fund”  8 
- Annotated Code of Maryland  9 
- (2024 Replacement Volume)  10 
+– 2 –  Annotated Code of Maryland  
+ (2024 Replaceme nt Volume)  
  
-BY renumbering  11 
- Article – Alcoholic Beverages and Cannabis  12 
-Section 1 –323  13 
-to be Section 1 –322 14 
- Annotated Code of Maryland  15 
- (2024 Replacement Volume)  16 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 17 
-That the Laws of Maryland read as follows:  18 
+Article – General Provisions  
  
-Article – General Provisions  19 
+1–110. 
  
-1–110. 20 
+ “Includes ” or “including ” means includes or including by way of illustration and not 
+by way of limitation.  
  
- “Includes ” or “including ” means includes or including by way of illustration and not 21 
-by way of limitation.  22 
+Article – Alcoholic Beverages and Cannabis  
  
-Article – Alcoholic Beverages and Cannabis  23 
+1–309.1.  
  
-1–309.1.  24 
+ (a) (1) There is an Office of Social Equity.  
  
- (a) (1) There is an Office of Social Equity.  25 
+  (2) The Office is an independent office that functions within the Mar yland 
+Cannabis Administration.  
  
-  (2) The Office is an independent office that functions within the Maryland 26 
-Cannabis Administration.  27 
+ (b) (1) The Governor shall appoint an Executive Director of the Office of Social 
+Equity.  
  
- (b) (1) The Governor shall appoint an Executive Director of the Office of Social 28 
-Equity.  29 
+  (2) The Executive Director of the Office of Social Equity shall have at least 
+5 years of experience in civil rights advocacy, civil  rights litigation, or another area of social 
+justice.  
  
-  (2) The Executive Director of the Office of Social Equity shall have at least 30 
-5 years of experience in civil rights advocacy, ci vil rights litigation, or another area of social 31 
-justice.  32 
+ (c) The Office of Social Equity may employ staff and retain contractors as may be 
+required to carry out the functions of the Office.  
  
- (c) The Office of Social Equity may employ staff and retain contractors as may be 33 
-required to carry out the functions of the Office.  34 
- SENATE BILL 894  3 
+ (d) The Office of Social Equity shall:  
  
-  
- (d) The Office of Social Equity shall:  1 
+  (1) promote and encour age full participation in the regulated cannabis 
+industry by people from communities that have previously been disproportionately 
+impacted by the war on drugs in order to positively impact those communities;  
  
-  (1) promote and enc ourage full participation in the regulated cannabis 2 
-industry by people from communities that have previously been disproportionately 3 
-impacted by the war on drugs in order to positively impact those communities;  4 
+  (2) [consult with and assist the Comptroller in the administration of the ] 
+WITH THE ASSISTANCE OF THE COMPTROLLER , ADMINISTER  OVERSEE  THE 
+Community Reinvestment and Repair Fund under [§ 1–322] § 1–3A–04 § 1–3A–03 of this 
+[subtitle ] TITLE ; 
  
-  (2) [consult with and assist the Comptroll er in the administration of the ] 5 
-WITH THE ASSISTANCE OF THE COMPTROLLER , ADMINISTER  OVERSEE  THE 6 
-Community Reinvestment and Repair Fund under [§ 1–322] § 1–3A–04 § 1–3A–03 of this 7 
-[subtitle ] TITLE ; 8 
+  (3) consult with and assist the Department of Commerce in the 
+administration of the Cannabis Business Assistance Fund under § 5 –1901 of the Economic 
+Development Article;  
+ WES MOORE, Governor  Ch. 195  
  
-  (3) consult with and assist the Department of Commerce in the 9 
-administration of the Cannabis Business Assistance Fund under § 5 –1901 of the Economic 10 
-Development Article;  11 
+– 3 –  
+  (4) identify and oppose regulations that unnecessarily burden or 
+undermine the legislative intent of the Office, including regulations that i mpose undue 
+restrictions or financial requirements;  
  
-  (4) identify and oppose regulations that unnecessarily burden or 12 
-undermine the legislative intent of the Office, including regulations tha t impose undue 13 
-restrictions or financial requirements;  14 
+  (5) OVERSEE THE APPROPRI ATION OF FUNDS AND T HE TRAINING OF 
+RECIPIENTS OF FUNDS FROM THE COMMUNITY REINVESTMENT AND REPAIR FUND 
+UNDER § 1–3A–04 § 1–3A–03 OF THIS TITLE ; 
  
-  (5) OVERSEE THE APPROPRI ATION OF FUNDS AND T HE TRAINING OF 15 
-RECIPIENTS OF FUNDS FROM THE COMMUNITY REINVESTMENT AND REPAIR FUND 16 
-UNDER § 1–3A–04 § 1–3A–03 OF THIS TITLE ; 17 
+  (6) provide recommendations to  the Maryland Cannabis Administration on 
+regulations related to:  
  
-  (6) provide recommendations  to the Maryland Cannabis Administration on 18 
-regulations related to:  19 
+   (i) diversity; and  
  
-   (i) diversity; and  20 
+   (ii) social equity applications;  
  
-   (ii) social equity applications;  21 
+  [(6)] (7) work with the Maryland Cannabis Administration to implement 
+free technical assistance for social equity and minority c annabis business applicants;  
  
-  [(6)] (7) work with the Maryland Cannabis Administration to implement 22 
-free technical assistance for social equity and minority cannabis business applicants;  23 
+  [(7)] (8) produce reports and recommendations on diversity and equity in 
+ownership, management, and employment in the legal cannabis economy; and  
  
-  [(7)] (8) produce reports and recommendations on diversity and equity in 24 
-ownership, management, and employment in the legal cannabis economy; and  25 
+  [(8)] (9) assist businesses with obtaining financing through the Capital 
+Access Program under Title 36, Subtitle 14 of this article.  
  
-  [(8)] (9) assist businesses with obtaining financing through the Capital 26 
-Access Program under Title 36, Subtitle 14 of this article.  27 
+ [(e) (1) On or before March 1 each year, the Office of Social Equity shall produce 
+and make publicly available a report on how the funds in the Community Reinvestment 
+and Repair Fund under § 1 –322 of this subtitle were allocated during the immediately 
+preceding calendar year.  
  
- [(e) (1) On or before March 1 each year, the Office of Social Equity shall produce 28 
-and make publicly available a report on how the funds in the Community Reinvestment 29 
-and Repair Fund und er § 1 –322 of this subtitle were allocated during the immediately 30 
-preceding calendar year.  31 
+  (2) The report shall also be submitted to the General Assembly in 
+accordance with § 2 –1257 of the State Government Article.  
  
-4 SENATE BILL 894   
+  (3) The Office may request information from p olitical subdivisions and 
+entities receiving distributions from the Fund to assist with the completion of the report.  
  
-   (2) The report shall also be submitted to the General Assembly in 1 
-accordance with § 2 –1257 of the State Government Article.  2 
+ (f) (1) On or before November 1 every 2 years, beginning in 2024, the Office of 
+Social Equity shall solicit public input on the uses of the funds in the Community 
+Reinvestment and Repair Fund under § 1 –322 of this subtitle.  
  
-  (3) The Office may request informat ion from political subdivisions and 3 
-entities receiving distributions from the Fund to assist with the completion of the report.  4 
+  (2) On or before December 15 every 2 years, beginning in 2024, the Office 
+of Social Equity shall publish a review of the input received under paragraph (1) of this 
+subsection on a publicly accessible part of the Office’s website.  
  
- (f) (1) On or before November 1 every 2 years, beginning in 2024, the Office of 5 
-Social Equity shall solicit public input on th e uses of the funds in the Community 6 
-Reinvestment and Repair Fund under § 1 –322 of this subtitle.  7 
+  (3) The Office shall include in the review information on how the funds 
+received from the Fund were spent during the immediately preceding 2 calendar years. ] 
+Ch. 195  2025 LAWS OF MARYLAND   
  
-  (2) On or before December 15 every 2 years, beginning in 2024, the Office 8 
-of Social Equity shall publish a review of the input received under paragraph (1)  of this 9 
-subsection on a publicly accessible part of the Office’s website.  10 
+– 4 –  
+SUBTITLE 3A. COMMUNITY REINVESTMENT AND REPAIR ADVISORY BOARD AND  
+FUND. 
  
-  (3) The Office shall include in the review information on how the funds 11 
-received from the Fund were spent during the immediately preceding 2 calendar years. ] 12 
+1–3A–01. 
  
-SUBTITLE 3A. COMMUNITY REINVESTMENT AND REPAIR ADVISORY BOARD AND  13 
-FUND. 14 
+ (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE  THE MEANINGS 
+INDICATED . 
  
-1–3A–01. 15 
+ (B) “EXECUTIVE DIRECTOR ” MEANS THE EXECUTIVE DIRECTOR OF THE 
+OFFICE OF SOCIAL EQUITY . 
  
- (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE  THE MEANINGS 16 
-INDICATED . 17 
+ (C) “FUND” MEANS THE COMMUNITY REINVESTMENT AND REPAIR FUND. 
  
- (B) “EXECUTIVE DIRECTOR ” MEANS THE EXECUTIVE DIRECTOR OF THE 18 
-OFFICE OF SOCIAL EQUITY . 19 
+ (D) “OFFICE” MEANS THE OFFICE OF SOCIAL EQUITY . 
  
- (C) “FUND” MEANS THE COMMUNITY REINVESTMENT AND REPAIR FUND. 20 
+1–3A–02. 
  
- (D) “OFFICE” MEANS THE OFFICE OF SOCIAL EQUITY . 21 
+ (A) THE GENERAL ASSEMBLY FINDS THAT : 
  
-1–3A–02. 22 
+  (1) THE GOAL OF REGULATI ON AND TAXATION OF C ANNABIS IN THE 
+STATE IS TO CREATE A SAFE AND REGULATED I NDUST RY THAT BENEFITS THE  
+PUBLIC INTEREST ; 
  
- (A) THE GENERAL ASSEMBLY FINDS THAT : 23 
+  (2) THE USE OF INCARCERA TION IN ENFORCING PR OHIBITIONS ON 
+THE IMPORTATION , MANUFACTURE , USE, SALE , AND DISTRIBUTION OF CANNABIS 
+VARIED WITHIN THE STATE BY JURISDICTION  AND RACIAL CLASSIFIC ATION ; 
  
-  (1) THE GOAL OF REGULATI ON AND TAXATION OF C ANNABIS IN THE 24 
-STATE IS TO CREATE A SAFE AND REGULATED I NDUS TRY THAT BENEFITS TH E 25 
-PUBLIC INTEREST ; 26 
+  (3) ANALYSIS OF G EOGRAPHIC AND DEMOGR APHIC 
+CHARACTERISTICS REVE ALED DISPARITIES IN ARRESTS , PROSECUTION , AND 
+IMPRISONMENT FOR CAN NABIS USE , WITH A NEGATIVE AND DISPROPORTIONATE 
+IMPACT ON SOME COMMU NITIES AND NEIGHBORH OODS WITHIN THE STATE ; AND 
  
-  (2) THE USE OF INCARCERA TION IN ENFORCING PR OHIBITIONS ON 27 
-THE IMPORTATION , MANUFACTURE , USE, SALE , AND DISTRIBUTION OF CANNABIS 28 
-VARIED WITHIN THE STATE BY JURISDICTION  AND RACIAL CLASSIFIC ATION ; 29 
+  (4) CONSEQUENCES OF THE DISPROPORTIONATE ENFOR CEMENT OF 
+CANNABIS –RELATED OFFENSES HAV E CONTRIBUTED TO THE  ECONOMIC , PUBLIC 
+HEALTH , AND SOCIAL CONDITION S OF SPECIFIC COMMUN ITIES AND HAVE HAD 
+SIGNIFICANT AND MEAS URABLE EFFECTS ON TH E SOCIAL AND FINANCI AL 
+RESOURCES AVAILABLE TO THE CH ILDREN , FAMILIES , AND LOCAL 
+INFRASTRUCTURE OF TH ESE COMMUNITIES . 
  
- SENATE BILL 894  5 
+ (B) THE GENERAL ASSEMBLY THEREFORE FI NDS THAT THE PUBLIC 
+INTEREST IS SERVED B Y: 
  
-   (3) ANALYSIS OF GEOGRAPHIC AND DEMOG RAPHIC 1 
-CHARACTERISTICS REVE ALED DISPARITIES IN ARRESTS , PROSECUTION , AND 2 
-IMPRISONMENT FOR CAN NABIS USE , WITH A NEGATIVE AND DISPROPORTIONATE 3 
-IMPACT ON SOME COMMU NITIES AND NEIGHBORH OODS WITHIN THE STATE ; AND 4 
+ WES MOORE, Governor  Ch. 195  
  
-  (4) CONSEQUENCES OF THE DISPROPORTIONATE ENFO RCEMENT OF 5 
-CANNABIS –RELATED OFFENSES HAV E CONTRIBUTED TO THE  ECONOMIC , PUBLIC 6 
-HEALTH , AND SOCIAL CONDITION S OF SPECIFIC COMMUN ITIES AND HAVE HAD 7 
-SIGNIFICANT AND MEAS URABLE EFFECTS ON TH E SOCIAL AND FINANCI AL 8 
-RESOURCES AVAILABLE TO THE C HILDREN , FAMILIES , AND LOCAL 9 
-INFRASTRUCTURE OF TH ESE COMMUNITIES . 10 
+– 5 –   (1) ACKNOWLEDGING AND RE PAIRING THE CAUSES A ND 
+CONSEQUENCES OF DISP ARITIES IN ARRESTS A ND IMPRISONMENT IN 
+PROSECUTIONS OF CANN ABIS–RELATED OFFENSES AMO NG SPECIFIC POPULATI ONS 
+AND GEOGRAPHIC REGIO NS; 
  
- (B) THE GENERAL ASSEMBLY THEREFORE FI NDS THAT THE PUBLIC 11 
-INTEREST IS SERVED B Y: 12 
+  (2) DEVELOPING , AMONG EXISTING MEMBE RS OF COMMUNITIES 
+THAT HAVE BEEN DISPR OPORTIONATELY AND NE GATIVELY IMPACTED , THE 
+CAPACITY TO ASCERTAI N AND ADDRESS THE SO CIAL AND ECONOMIC 
+DETERMINANTS THAT AR E FUNDAMENTAL TO RED UCING THE IMPACT OF 
+LONGSTANDING INEQUIT IES AND IMPROVING EC ONOMIC , EDUCATIONAL , AND 
+HEALTH OUTCOMES ; AND  
  
-  (1) ACKNOWLEDGING AND RE PAIRING THE CAUSES A ND 13 
-CONSEQUENCES OF DISP ARITIES IN ARRESTS A ND IMPRISONMENT IN  14 
-PROSECUTIONS OF CANN ABIS–RELATED OFFENSES AMO NG SPECIFIC POPULATI ONS 15 
-AND GEOGRAPHIC REGIO NS; 16 
+  (3) BEING CONSISTENT WIT H SOCIAL EQUITY PRIN CIPLES AND 
+GOVERNANCE BY ALLOCA TING A SIGNIFICANT PORTION OF TAX REVENUE FROM THE 
+ADULT–USE CANNABIS MARKET TO THE COMMUNITY REINVESTMENT AND REPAIR 
+FUND FOR DISTRIBUTION  TO LOCAL JURISDICTIO NS TO BE ADMINISTERE D BY THE 
+LOCAL JURISDICTIONS . 
  
-  (2) DEVELOPING , AMONG EXISTING MEMBE RS OF COMMUNITIES 17 
-THAT HAVE BEEN DISPR OPORTIONATELY AND NE GATIVELY IMPACTED , THE 18 
-CAPACITY TO ASCERTAI N AND ADDRESS THE SO CIAL AND ECONOMIC 19 
-DETERMINANTS THAT AR E FUNDAMENTAL TO RED UCING THE IMPACT OF 20 
-LONGSTANDING INEQUIT IES AND IMPROVING EC ONOMIC , EDUCATIONAL , AND 21 
-HEALTH OUTCOMES ; AND  22 
+1–3A–03. 
  
-  (3) BEING CONSISTENT WIT H SOCIAL EQUITY PRIN CIPLES AND 23 
-GOVERNANCE BY ALLOCA TING A SIGNIFICANT PORTION OF TAX REVENUE FROM THE 24 
-ADULT–USE CANNABIS MARKET TO THE COMMUNITY REINVESTMENT AND REPAIR 25 
-FUND FOR DISTRIBUTION  TO LOCAL JURISDICTIO NS TO BE ADMINISTERE D BY THE 26 
-LOCAL JURISDICTIONS . 27 
+ (A) THERE IS A COMMUNITY REINVESTMENT AND  REPAIR ADVISORY  
+BOARD .  
  
-1–3A–03. 28 
+ (B) THE BOARD SHALL : 
  
- (A) THERE IS A COMMUNITY REINVESTMENT AND  REPAIR ADVISORY  29 
-BOARD .  30 
+  (1) CONSIDER MATTERS SUB MITTED TO THE BOARD BY THE  
+GOVERNOR , THE GENERAL ASSEMBLY , OR THE OFFICE ; 
  
- (B) THE BOARD SHALL : 31 
+  (2) PROVIDE OVERSIGHT AN D RECOMMENDATIONS FO R THE  
+EQUITABLE DISTRIBUTI ON AND USE OF THE COMMUNITY REINVE STMENT AND  
+REPAIR FUND; 
  
-  (1) CONSIDER MATTERS SUB MITTED TO THE BOARD BY THE  32 
-GOVERNOR , THE GENERAL ASSEMBLY , OR THE OFFICE ; 33 
+  (3) REVIEW AND EVALUATE THE FUND’S EXPENDITURES FOR  
+ALIGNMENT WITH THE FUND’S OBJECTIVES ; AND  
  
-6 SENATE BILL 894   
+  (4) MEET ANNUALLY WITH T HE EXECUTIVE DIRECTOR . 
  
-   (2) PROVIDE OVERSIGHT AN D RECOMMENDATIONS FO R THE  1 
-EQUITABLE DISTRIBUTI ON AND USE OF THE COMMUNITY REINVE STMENT AND  2 
-REPAIR FUND; 3 
+ (C) THE OFFICE SHALL PROVIDE STAFF AND ADMINISTRA TIVE SUPPORT  
+FOR THE BOARD . 
  
-  (3) REVIEW AND EVALUATE THE FUND’S EXPENDITURES FOR  4 
-ALIGNMENT WITH THE FUND’S OBJECTIVES ; AND  5 
+ (D) THE BOARD CONSISTS OF THE  FOLLOWING MEMBERS , APPOINTED BY  
+THE GOVERNOR ON THE RECOM MENDATION OF THE EXECUTIVE DIRECTOR : 
  
-  (4) MEET ANNUALLY WITH T HE EXECUTIVE DIRECTOR . 6 
+Ch. 195  2025 LAWS OF MARYLAND   
  
- (C) THE OFFICE SHALL PROVIDE STAFF AND ADMINISTRA TIVE SUPPORT  7 
-FOR THE BOARD . 8 
+– 6 –   (1) FIVE MEMBERS WITH EX PERIENCE IN ONE OR M ORE OF THE  
+FOLLOWING AREAS : 
  
- (D) THE BOARD CONSISTS OF THE  FOLLOWING MEMBERS , APPOINTED BY  9 
-THE GOVERNOR ON THE RECOM MENDATION OF THE EXECUTIVE DIRECTOR : 10 
+   (I) COMMUNITY DEVELOPMEN T; 
  
-  (1) FIVE MEMBERS WITH EX PERIENCE IN ONE OR M ORE OF THE  11 
-FOLLOWING AREAS : 12 
+   (II) CRIMINAL JUSTICE REFORM OR REENTRY SE RVICES ; 
  
-   (I) COMMUNITY DEVELOPMEN T; 13 
+   (III) PUBLIC HEALTH , PARTICULARLY IN UNDE RSERVED  
+COMMUNITIES ; OR 
  
-   (II) CRIMINAL JUSTICE REF ORM OR REENTRY SERVIC ES; 14 
+   (IV) BEHAVIORAL HEALTH , SOCIAL SERVICES , OR  
+TRAUMA –INFORMED CARE , PARTICULARLY IN UNDE RSERVED COMMUNITIES ; 
  
-   (III) PUBLIC HEALTH , PARTICULARLY IN UNDE RSERVED  15 
-COMMUNITIES ; OR 16 
+  (2) TWO MEMBERS FROM COM MUNITY–BASED ORGANIZ ATIONS THAT  
+FOCUS ON VIOLENCE PR EVENTION , YOUTH DEVELOPMENT , OR ECONOMIC  
+EMPOWERMENT ; 
  
-   (IV) BEHAVIORAL HEALTH , SOCIAL SERVICES , OR  17 
-TRAUMA –INFORMED CARE , PARTICULARLY IN UNDE RSERVED COMMUNITIES ; 18 
+  (3) TWO MEMBERS FROM COM MUNITIES DISPROPORTI ONATELY  
+IMPACTED BY THE ENFO RCEMENT OF CANNABIS LAWS , WITH AT LEAST ONE ME MBER  
+HAVING DIRECT LIVED EXPERIENCE ;  
  
-  (2) TWO MEMBERS FROM COM MUNITY–BASED ORGANIZATIONS THAT  19 
-FOCUS ON VIOLENCE PR EVENTION , YOUTH DEVELOPMENT , OR ECONOMIC  20 
-EMPOWERMENT ; 21 
+  (4) ONE MEMBER WHO IS A PROF ESSIONAL IN ACCOUNTI NG, FINANCE , 
+OR AUDITING ; 
  
-  (3) TWO MEMBERS FROM COM MUNITIES DISPROPORTI ONATELY  22 
-IMPACTED BY THE ENFO RCEMENT OF CANNABIS LAWS , WITH AT LEAST ONE ME MBER  23 
-HAVING DIRECT LIVED EXPERIENCE ;  24 
+  (5) ONE MEMBER WHO IS AN  EXPERT IN NONPROFIT OR PUBLIC  
+SECTOR GRANT ADMINIS TRATION AND EVALUATI ON; AND  
  
-  (4) ONE MEMBER WHO IS A PROFESSIONAL IN ACCO UNTING , FINANCE , 25 
-OR AUDITING ; 26 
+  (6) SIX MEMBERS DEEMED A PPROPRIATE BY THE GOVERNOR TO  
+MEET THE GOALS OF TH E BOARD . 
  
-  (5) ONE MEMBER WHO IS AN  EXPERT IN NONPROFIT OR PUBLIC  27 
-SECTOR GRANT ADMINIS TRATION AND EVALUATI ON; AND  28 
+ (E) THE BOARD SHALL ELECT A C HAIR FROM AMONG ITS MEMBERS . 
  
-  (6) SIX MEMBERS DEEMED A PPROPRIATE BY THE GOVERNOR TO  29 
-MEET THE GOALS OF T HE BOARD . 30 
- SENATE BILL 894  7 
+ (F) (1) THE TERM OF A MEMBER IS 2 YEARS . 
  
-  
- (E) THE BOARD SHALL ELECT A C HAIR FROM AMONG ITS MEMBERS . 1 
+  (2) A MEMBER CONTINUES TO SERVE ON THE BOARD UNTIL A  
+SUCCESSOR IS APPOINT ED. 
  
- (F) (1) THE TERM OF A MEMBER IS 2 YEARS . 2 
+  (3) A MEMBER MUST BE A RES IDENT OF THE STATE . 
  
-  (2) A MEMBER CONTINUES TO SERVE ON THE BOARD UNTIL A  3 
-SUCCESSOR IS APPOINT ED. 4 
+  (4) THE MEMBERSHIP OF THE BOARD SHALL REFLECT T HE 
+DIVERSITY OF THE STATE TO THE EXTENT P RACTICABLE . 
  
-  (3) A MEMBER MUST BE A RES IDENT OF THE STATE . 5 
+ (G) A MEMBER OF THE BOARD : 
  
-  (4) THE MEMBERSHIP OF THE BOARD SHALL REFLECT T HE 6 
-DIVERSITY OF THE STATE TO THE EXTENT P RACTICABLE . 7 
+ WES MOORE, Governor  Ch. 195  
  
- (G) A MEMBER OF THE BOARD : 8 
+– 7 –   (1) MAY NOT RECEIVE COMP ENSATION AS A MEMBER  OF THE BOARD ; 
+BUT 
  
-  (1) MAY NOT RECEIVE COMP ENSATION AS A MEMBER  OF THE BOARD ; 9 
-BUT 10 
+  (2) IS ENTITLED TO REIMB URSEMENT FOR EXPENSE S UNDER THE  
+STANDARD STATE TRAVEL  REGULATIONS , AS PROVIDED IN THE STATE BUDGET . 
  
-  (2) IS ENTITLED TO REIMB URSEMENT FOR EXPENSE S UNDER THE  11 
-STANDARD STATE TRAVEL REGULATIONS , AS PROVIDED IN THE STATE BUDGET . 12 
+[1–322.] 1–3A–04. 1–3A–03. 
  
-[1–322.] 1–3A–04. 1–3A–03. 13 
+ (a) (1) There is a Community Reinvestment and Repair Fund.  
  
- (a) (1) There is a Community Reinvestment and Repair Fund.  14 
+  (2) The purpose of the Fund is to provide funds to community –based 
+organizations that serve communities determined by  the Office [of Social Equity ], in 
+consultation with the Office of the Attorney General, to have been the most impacted by 
+disproportionate enforcement of the cannabis prohibition before July 1, 2022.  
  
-  (2) The purpose of the Fund is to provide funds to community –based 15 
-organizations that serve communities determined by the Office [of Social Equity ], in 16 
-consultation with the Office of the Attorney General, to have been the most impacted by 17 
-disproportionate enf orcement of the cannabis prohibition before July 1, 2022.  18 
+  (3) The [Comptroller ] EXECUTIVE DIRECTOR  shall administer the Fund.  
  
-  (3) The [Comptroller ] EXECUTIVE DIRECTOR  shall administer the Fund.  19 
+  (4) (i) The Fund is a special, nonlapsing fund that is not subject to §  
+7–302 of the State Finance and Procurement Article.  
  
-  (4) (i) The Fund is a special, nonlapsing fund that is not subject to §  20 
-7–302 of the State Finance and Procurement Article.  21 
+   (ii) The State Treasurer shall hold the Fund separately, and the 
+Comptroller shall account for t he Fund.  
  
-   (ii) The State Treasurer shall hold the Fund separately, and the 22 
-Comptroller shall account for the Fund.  23 
+  (5) The Fund consists of:  
  
-  (5) The Fund consists of:  24 
+   (i) sales and use tax revenue distributed to the Fund under §  
+2–1302.2 of the Tax – General Article;  
  
-   (i) sales and use tax revenue distributed to the Fund under §  25 
-2–1302.2 of the Tax – General Article;  26 
+   (ii) conversion fees paid by businesses under § 36 –403 of this article; 
+and 
  
-   (ii) conversion fees paid by businesses under § 36 –403 of this article; 27 
-and 28 
+   (iii) any other money from any other source accepted for the benefit 
+of the Fund, in accordance with any conditions adopted by the [Comptroller ] EXECUTIVE  
+DIRECTOR  for the acceptance of donations or gifts to the Fund.  
  
-8 SENATE BILL 894   
+  (6) (i) The Fund may be used only for:  
  
-    (iii) any other money from any other source accepted for the benefit 1 
-of the Fund, in accordance with any conditions adopted by the [Comptroller ] EXECUTIVE  2 
-DIRECTOR  for the acceptance of donations or gifts to the Fund.  3 
+    1. funding community –based initiatives intended to benefit 
+low–income communities , INCLUDING : 
  
-  (6) (i) The Fund may be used only for:  4 
+    A. BEHAVIORAL HEALTH CR ISIS RESPONSE SERVIC ES; 
  
-    1. funding community –based initiatives intended to benefit 5 
-low–income communities , INCLUDING : 6 
+    B. EDUCATION AND AFTER –SCHOOL PROGRAMS ; 
  
-    A. BEHAVIORAL HEALTH CR ISIS RESPONSE SERVIC ES; 7 
+Ch. 195  2025 LAWS OF MARYLAND   
  
-    B. EDUCATION AND AFTER–SCHOOL PROGRAMS ; 8 
+– 8 –     C. TRUANCY AND ABSENTEE ISM INTERVENTION 
+PROGRAMS ; 
  
-    C. TRUANCY AND ABSENTEE ISM INTERVENTION 9 
-PROGRAMS ; 10 
+    D. HOUSING AND HOMELESS NESS PREVENTION 
+INITIATIVES ; 
  
-    D. HOUSING AND HOMELESS NESS PREVENTION 11 
-INITIATIVES ; 12 
+    E. TRANSPORTATION IMPRO VEMENTS IN HIGH –DENSITY 
+AREAS THAT HAVE PUBL IC TRANSPORTATION ; 
  
-    E. TRANSPORTATION IMPRO VEMENTS IN HIGH –DENSITY 13 
-AREAS THAT HAVE PUBL IC TRANSPORTATION ; 14 
+    F. JOB TRAINING AND WOR KFORCE DEVELOPMENT 
+PROGRAMS ; 
  
-    F. JOB TRAINING AND WOR KFORCE DEVELOPMENT 15 
-PROGRAMS ; 16 
+    G. COMMUNITY CHILD CARE  AND RECREATIONAL 
+SERVICES ; AND 
  
-    G. COMMUNITY CHILD CARE  AND RECREATIONAL 17 
-SERVICES ; AND 18 
+    H. PROGRAMS THAT BENEFI T INDIVIDUALS AND 
+FAMILIES IMPACTED BY  INCARCERATION ; 
  
-    H. PROGRAMS THAT BENEFI T INDIVIDUALS AND 19 
-FAMILIES IMPACTED BY  INCARCERATION ; 20 
+    2. funding community –based initiatives that serve 
+disproportionately impacted areas, as defined in § 36 –101 of this article; and  
  
-    2. funding community –based initiatives that serve 21 
-disproportionately impacted areas, as defined in § 36 –101 of this article; and  22 
+    3. any related administrative expenses INCURRED BY A 
+LOCAL GOVERNMENT IN ADMINISTERING THE FU NDS THAT DO NOT EXCEED 5% 15% 
+OF THE FUNDS RECEIVE D IN THE FISCAL YEAR . 
  
-    3. any related administrative expenses INCURRED BY A 23 
-LOCAL GOVERNMENT IN ADMINISTERING THE FU NDS THAT DO NOT EXCEED 5% 15% 24 
-OF THE FUNDS RECEIVE D IN THE FISCAL YEAR . 25 
+   (ii) Money may not be expended from the Fund for law enforcement 
+agencies or activities.  
  
-   (ii) Money may not be expended from the Fund for law enforcement 26 
-agencies or activities.  27 
+   (iii) Money expended from the Fund is supplemental to and may not 
+supplant funding that otherwise would be appropriated for preexisting local government 
+programs.  
  
-   (iii) Money expended from the Fund is supplemental to and may not 28 
-supplant funding that otherwise would be appropriated for preexisting local government 29 
-programs.  30 
+  (7) (i) The State Treasurer shall invest the money of the Fund in the 
+same manner as ot her State money may be invested.  
  
- SENATE BILL 894  9 
+   (ii) Any interest earnings of the Fund shall be credited to the 
+General Fund of the State.  
  
-   (7) (i) The State Treasurer shall invest the money of the Fund in the 1 
-same manner as other State money may be invested.  2 
+  (8) No part of the Fund may revert or be credited to:  
  
-   (ii) Any interest earnings of the Fund shall be credited to the 3 
-General Fund of the State.  4 
+   (i) the General Fund of the State; or  
  
-  (8) No part of the Fund may revert or be credited to:  5 
+   (ii) any other special fu nd of the State.  
  
-   (i) the General Fund of the State; or  6 
+ WES MOORE, Governor  Ch. 195  
  
-   (ii) any other special fund of the State.  7 
+– 9 –   (9) The [Comptroller ] EXECUTIVE DIRECTOR  shall pay out money from 
+the Fund.  
  
-  (9) The [Comptroller ] EXECUTIVE DIRECTOR  shall pay out money from 8 
-the Fund.  9 
+  (10) The Fund is subject to audit by the Office of Legislative Audits as 
+provided for in § 2 –1220 of the State Government Article.  
  
-  (10) The Fund is subject to audit by the Office of Legislative Audits as 10 
-provided for in § 2 –1220 of the State Government Article.  11 
+ (b) (1) Based on the per centage allocable to each county determined by the 
+Office [of Social Equity and reported by the Office to the Comptroller on or before July 31 
+each year ], the [Comptroller ] EXECUTIVE DIRECTOR  shall distribute funds from the 
+Fund to each county in an amount that, for the period from July 1, 2002, to January 1, 
+2023, both inclusive, is proportionate to the total number of cannabis possession charges in 
+the county compared to the total number of cannabis possession charges in the State.  
  
- (b) (1) Based on the percentage allocable to each county determined by the 12 
-Office [of Social Equity and reported by the Office to the Comptroller on or before July 31 13 
-each year ], the [Comptroller ] EXECUTIVE DIRECTOR  shall distribute funds from the 14 
-Fund to each county in an amount that, for the period from July 1, 2002, to January 1, 15 
-2023, both inclusive, is proportionate to the total number of cannabis possession charges in 16 
-the county compared to the total number of cannabis possession charges in the State.  17 
+  (2) FOR ANY DISTRIBUTION OF FUNDS TO A COUNTY  UNDER 
+PARAGRAPH (1) OF THIS SUBSECTION , THE COUNTY SHALL : 
  
-  (2) FOR ANY DISTRIBUTION OF FUNDS TO A COUNTY  UNDER 18 
-PARAGRAPH (1) OF THIS SUBSECTION , THE COUNTY SHALL : 19 
+   (I) TREAT THE FUNDS AS S PECIAL FUNDS RESTRIC TED TO THE  
+USES SPECIFIED IN SU BSECTION (A)(6) OF THIS SECT ION; AND  
  
-   (I) TREAT THE FUNDS AS S PECIAL FUNDS RESTRIC TED TO THE  20 
-USES SPECIFIED IN SU BSECTION (A)(6) OF THIS SECT ION; AND  21 
+   (II) HOLD THE FUNDS SEPAR ATELY FROM OTHER REV ENUE AND 
+GENERAL FUNDS . 
  
-   (II) HOLD THE FUNDS SEPAR ATELY FROM OTHER REV ENUE AND 22 
-GENERAL FUNDS . 23 
+  (3) Subject to the limitations under subsection (a)(6) of this section, each 
+county shall adopt a law establishing the purpose for which money received from the Fund 
+may b e used.  
  
-  (3) Subject to the limitations under subsection (a)(6) of this section, each 24 
-county shall adopt a law establishing the purpose for which money received from the Fund 25 
-may b e used.  26 
+ (C) (1) THE OFFICE SHALL REQUIRE EACH COUNTY TO DEVEL OP A PLAN 
+FOR THE DISTRIBUTION  OF FUNDS TO COMMUNIT Y–BASED ORGANIZATIONS FOR USE 
+IN ACCORDANCE WITH T HIS SECTION . 
  
- (C) (1) THE OFFICE SHALL REQUIRE EACH COUNTY TO DEVEL OP A PLAN 27 
-FOR THE DISTRIBUTION  OF FUNDS TO COMMUNIT Y–BASED ORGANIZATIONS FOR USE 28 
-IN ACCORDANCE WITH T HIS SECTION . 29 
+  (2) THE PLAN DEVELOPED BY  A COUNTY SHALL BE : 
  
-  (2) THE PLAN DEVELOPED BY  A COUNTY SHALL BE : 30 
+   (I) ESTABLISHED BEFORE DISTRIBUTING FUNDS U NDER THIS 
+SECTION ; 
  
-   (I) ESTABLISHED BEFORE DISTRIBUTING FUNDS U NDER THIS 31 
-SECTION ; 32 
-10 SENATE BILL 894   
+   (II) DEVELOPED IN CONSULT ATION WITH STAKEHOLD ERS; AND 
  
-  
-   (II) DEVELOPED IN CONSULT ATION WITH STAKEHOLD ERS; AND 1 
+   (III) THE SUBJECT OF A PUB LIC HEARING BEFORE F INALIZING 
+THE PLAN . 
  
-   (III) THE SUBJECT OF A PUB LIC HEARING BEFORE F INALIZING 2 
-THE PLAN . 3 
+  (3) THE COUNTY ’S ADMINISTRATION AND  DISTRIBUTION OF FUND S IN 
+ACCORDANCE WITH THIS  SECT ION IS SOLELY THE RE SPONSIBILITY OF THE COUNTY  
+AND MAY NOT BE DELEG ATED TO AN OUTSIDE O RGANIZATION .  
  
-  (3) THE COUNTY ’S ADMINISTRATION AND  DISTRIBUTION OF FUND S IN 4 
-ACCORDANCE WITH THIS  SECTION IS SOLELY TH E RESPONSIBILITY OF THE COUNTY  5 
-AND MAY NOT BE DELEG ATED TO AN OUTSIDE O RGANIZATION .  6 
+Ch. 195  2025 LAWS OF MARYLAND   
  
-  (4) THE ON OR BEFORE OCTOBER 1, 2025,  THE OFFICE SHALL ADOPT 7 
-REGULATIONS TO CARRY  OUT THIS SECTION . 8 
+– 10 –   (4) THE ON OR BEFORE OCTOBER 1, 2025,  THE OFFICE SHALL ADOPT 
+REGULATIONS TO CARRY  OUT THIS SECTION . 
  
- (D) ON OR BEFORE OCTOBER 1, 2026,  AND EACH OCTOBER 1 THEREAFTER , 9 
-EACH COUNTY SHALL SU BMIT A REPORT TO THE  OFFICE ON : 10 
+ (D) ON OR BEFORE OCTOBER 1, 2026,  AND EACH OCTOBER  1 THEREAFTER , 
+EACH COUNTY SHALL SU BMIT A REPORT TO THE  OFFICE ON : 
  
-  (1) THE AMOUNT OF FUNDS RECEIVED FROM THE FUND UNDER 11 
-SUBSECTION (B)(1) OF THIS SECTION ; 12 
+  (1) THE AMOUNT OF FUNDS RECEIVED FROM THE FUND UNDER 
+SUBSECTION (B)(1) OF THIS SECTION ; 
  
-  (2) THE ORGANIZATIONS TH AT RECEIVED FUNDING FROM THE 13 
-COUNTY UNDER THIS SE CTION ; 14 
+  (2) THE ORGANIZATIONS TH AT RECEIVED FUNDING FROM THE 
+COUNTY UNDER THIS SE CTION ; 
  
-  (3) THE METHODS USED BY THE COUNTY TO SOLICIT , REVIEW , AND 15 
-SELECT ORGANIZATIONS  THAT MAY BE ELIGIBLE  FOR FUNDING UNDER TH IS 16 
-SECTION ; AND 17 
+  (3) THE METHODS USED BY THE COUNTY TO SOLICIT , REVIEW , AND 
+SELECT ORGANIZATIONS  THAT MAY BE ELIGIBLE  FOR FUNDING UNDER TH IS 
+SECTION ; AND 
  
-  (4) ADMINISTRATIVE EXPEN SES RELATED TO THE C OUNTY’S 18 
-ADMINISTRATION AND D ISTRIBUTION OF THE F UNDS RECEIVED UNDER 19 
-SUBSECTION (B)(1) OF THIS SECTION . 20 
+  (4) ADMINISTRATIVE EXPEN SES RELATED TO THE C OUNTY’S 
+ADMINISTRATION AND D ISTRIBUTION OF THE F UNDS RECEIVED UNDER 
+SUBSECTION (B)(1) OF THIS SECTION . 
  
- SECTION 2. AND BE IT FURTHER ENACTED, That Section(s) 1 –323 of Article – 21 
-Alcoholic Beverages and Cannabis of the Annotated Code of Maryland be renumbered to be 22 
-Section(s) 1 –322. 23 
+ SECTION 2. AND BE IT FURTHER ENACTED, That Section(s) 1 –323 of Article – 
+Alcoholic Beverages and Cannabis of the Annotated Code of Maryland be renumbered to be 
+Section(s) 1 –322. 
  
- SECTION 3. AND BE IT FURTHER ENACTED, That this Act  shall take effect 24 
-October  June  1, 2025.  25 
+ SECTION 3. AND BE IT FURTHER ENACTED, That this Act  shall take effect 
+October  June  1, 2025.  
  
+Approved by the Governor, April 22, 2025.  

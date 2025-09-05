@@ -1,141 +1,128 @@
+ WES MOORE, Governor  Ch. 677  
  
+– 1 – Chapter 677  
+(House Bill 546 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the la w by 
-amendment.             *hb0546*      
-HOUSE BILL 546  
-Q7   5lr1882  
-HB 1067/24 – W&M    CF SB 605  
-By: Delegate Feldmark  
-Introduced and read first time: January 22, 2025  
-Assigned to: Ways and Means  
-Committee Report: Favorable  
-House action: Adopted  
-Read second time: March 1, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Digital Advertising Gross Revenues Tax  – Assessments – Appeals and 
+Corrections  
  
-AN ACT concerning  1 
+FOR the purpose of establishing a certain appeal process for persons who are subject to the 
+digital advertising gross revenues tax and receive a notice of assessment from the 
+Comptroller; authorizing the Comptroller or the Comptroller’s designee to issue an 
+order to correct an erroneous assessment of the  digital advertising gross revenues 
+tax, subject to certain conditions; and generally relating to the digital advertising 
+gross revenues tax.  
  
-Digital Advertising Gross Revenues Tax  – Assessments – Appeals and 2 
-Corrections  3 
+BY repealing and reenacting, without amendments,  
+ Article – Tax – General  
+Section 13 –402(a)(6)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 202 4 Supplement)  
  
-FOR the purpose of establishing a certain appeal process for persons who are subject to the 4 
-digital advertising gross revenues tax and receive a notice of assessment from the 5 
-Comptroller; authorizing the Comptroller or the Comptroller’s designee to issue an 6 
-order to correct an erroneous assessment of the  digital advertising gross revenues 7 
-tax, subject to certain conditions; and generally relating to the digital advertising 8 
-gross revenues tax.  9 
+BY repealing and reenacting, with amendments,  
+ Article – Tax – General  
+Section 13 –508 and 13 –509 
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 202 4 Supplement)  
  
-BY repealing and reenacting, without amendments,  10 
- Article – Tax – General  11 
-Section 13 –402(a)(6)  12 
- Annotated Code of Maryland  13 
- (2022 Replacement Volume and 202 4 Supplement)  14 
+ SECTION 1. BE IT ENACT ED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  15 
- Article – Tax – General  16 
-Section 13 –508 and 13 –509 17 
- Annotated Code of Maryland  18 
- (2022 Replacement Volume and 202 4 Supplement)  19 
+Article – Tax – General  
  
- SECTION 1. BE IT ENACT ED BY THE GENERAL ASSEMBLY OF MARYLAND, 20 
-That the Laws of Maryland read as follows:  21 
+13–402. 
  
-2 HOUSE BILL 546   
+ (a) If a notice and demand for a return is made under § 13 –303 of this title and 
+the person or governmental unit fails to file the return , the tax collector shall:  
  
- Article – Tax – General  1 
+  (6) for digital advertising gross revenues tax:  
  
-13–402. 2 
+   (i) estimate gross revenues from the best information in possession 
+of the tax collector; and  
  
- (a) If a notice and demand for a return is made under § 13 –303 of this title and 3 
-the person or governmental unit fails to file the return, the tax collector shall:  4 
+   (ii) assess the tax due on the estimated assessable base.  
  
-  (6) for digital advertising gross revenues tax:  5 
+13–508. 
  
-   (i) estimate gross revenues from the best information in possession 6 
-of the tax collector; and  7 
+Ch. 677  2025 LAWS OF MARYLAND   
  
-   (ii) assess the tax due on the estimated assessable base.  8 
+– 2 –  (a) Within 30 days after the date on which a notice of assessment of the 
+admissions and amusement tax, alcoholic beverage tax, boxing and wrestling tax, DIGITAL 
+ADVERTISING GROSS RE VENUES TAX , income tax, motor carrier tax, motor fuel tax, 
+public service company franchise tax, financial institution franchise tax, sales and use tax, 
+or tobacco tax is mailed, a person or governmental unit against which the assessment is 
+made may submit to the tax  collector:  
  
-13–508. 9 
+  (1) an application for revision of the assessment; or  
  
- (a) Within 30 days after the date on which a notice of assessment of the 10 
-admissions and amusement tax, alcoholic beverage tax, boxing and wrestling tax, DIGITAL 11 
-ADVERTISING GROSS RE VENUES TAX , income tax, motor carrier tax, motor fuel tax, 12 
-public service company franchise tax, financial institution franchise tax, sales and use tax, 13 
-or tobacco tax is mailed, a person or governmental unit against which the assessment is 14 
-made may submit to the tax  collector:  15 
+  (2) except for the public service company franchise tax, if the assessment 
+is paid, a claim for refund.  
  
-  (1) an application for revision of the assessment; or  16 
+ (b) If a person or governmental unit fails to submit an application for revisi on or 
+claim for refund within the time allowed in subsection (a) of this section, the assessment 
+becomes final.  
  
-  (2) except for the public service company franchise tax, if the assessment 17 
-is paid, a claim for refund.  18 
+ (c) The Comptroller or an employee of the Comptroller’s office expressly 
+designated by the Comptroller promptly:  
  
- (b) If a person or governmental unit fails to submit an application for revisi on or 19 
-claim for refund within the time allowed in subsection (a) of this section, the assessment 20 
-becomes final.  21 
+  (1) (i) shall hold an info rmal hearing on a person’s or governmental 
+unit’s admissions and amusement tax, alcoholic beverage tax, boxing and wrestling tax, 
+DIGITAL ADVERTISING GROSS REVENUES TAX , income tax, motor carrier tax, motor fuel 
+tax, sales and use tax, or tobacco tax appli cation for revision or claim for refund under 
+subsection (a) of this section; and  
  
- (c) The Comptroller or an employee of the Comptroller’s office expressly 22 
-designated by the Comptroller promptly:  23 
+   (ii) after the hearing:  
  
-  (1) (i) shall hold an info rmal hearing on a person’s or governmental 24 
-unit’s admissions and amusement tax, alcoholic beverage tax, boxing and wrestling tax, 25 
-DIGITAL ADVERTISING GROSS REVENUES TAX , income tax, motor carrier tax, motor fuel 26 
-tax, sales and use tax, or tobacco tax appli cation for revision or claim for refund under 27 
-subsection (a) of this section; and  28 
+    1. shall act on the application for revision; and  
  
-   (ii) after the hearing:  29 
+    2. may assess any additional tax, penalty, and interest due; 
+and 
  
-    1. shall act on the application for revision; and  30 
+  (2) shall mail to the person or governmental unit a notice of final 
+determination.  
  
-    2. may assess any additional tax, penalty, and interest due; 31 
-and 32 
- HOUSE BILL 546  3 
+ (d) The Department promptly:  
  
-  
-  (2) shall mail to the person or governmental unit a notice of final 1 
-determination.  2 
+  (1) (i) shall act on a person’s public service company franchise tax or 
+financial institution franchise tax application for revision under subsection (a) of this 
+section; or  
  
- (d) The Department promptly:  3 
+   (ii) 1. shall hold an informal hearing after giving reasonable 
+notice to the person; and  
  
-  (1) (i) shall act on a person’s public service company franchise tax or 4 
-financial institution franchise tax application for revision under subsection (a) of this 5 
-section; or  6 
+    2. after the hearing:  
  
-   (ii) 1. shall hold an informal hearing after giving reasonable 7 
-notice to the person; and  8 
+ WES MOORE, Governor  Ch. 677  
  
-    2. after the hearing:  9 
+– 3 –     A. shall act on the application for revision; and  
  
-    A. shall act on the application for revision; and  10 
+    B. may assess any additional tax, penalty, and interest due; 
+and 
  
-    B. may assess any additional tax, penalty, and interest due ; 11 
-and 12 
+  (2) shall mail to the person a notice of final determination.  
  
-  (2) shall mail to the person a notice of final determination.  13 
+13–509. 
  
-13–509. 14 
+ (a) Notwithstanding a person’s failure to file a timely application for revision or 
+claim for refund of an assessment of the admissions and amusement tax, alcoholic bevera ge 
+tax, boxing and wrestling tax, DIGITAL ADVERTISING GROSS REVENUES TAX , income 
+tax, motor carrier tax, motor fuel tax, sales and use tax, or tobacco tax under § 13 –508(a) 
+of this subtitle, the Comptroller or the Comptroller’s designee may issue an order 
+decreasing or abating an assessment to correct an erroneous assessment.  
  
- (a) Notwithstanding a person’s failure to file a timely application for revision or 15 
-claim for refund of an assessment of the admissions and amusement tax, alcoholic beverage 16 
-tax, boxing and wrestling tax, DIGITAL ADVERTISING GROSS REVENUES TAX , income 17 
-tax, motor carrier tax, motor fuel tax, sales and use tax, or tobacco tax under § 13 –508(a) 18 
-of this subtitle, the Comptroller or the Comptroller’s designee may issue an order 19 
-decreasing or abating an assessment to correct an erroneous assessment.  20 
+ (b) If action is taken under subsection (a) of this section, the order shall state 
+clearly the reasons for decreasing or abating the assessment.  
  
- (b) If action is taken under subsection (a) of this section, the order shall state 21 
-clearly the reasons for decreasing or abating the assessment.  22 
+ (c) Any order issued by the Comptro ller under subsection (a) of this section shall 
+be final and not subject to appeal.  
  
- (c) Any order issued by the Comptroller under subsection (a) of this section shall 23 
-be final and not subject to appeal.  24 
+ (d) The Comptroller’s refusal to enter an order under subsection (a) of this section 
+shall be final and not subject to appeal.  
  
- (d) The Comptroller’s refusal to enter an order under subsection (a) of this section 25 
-shall be final and not subject to appeal.  26 
+ SECTION 2. AND BE IT FURTHER ENACTED, Tha t this Act shall take effect 
+January  1, 202 6, and shall be applicable to assessments of the digital advertising gross 
+revenues tax made after December 31, 202 5. 
  
- SECTION 2. AND BE IT FURTHER ENACT ED, That this Act shall take effect 27 
-January  1, 202 6, and shall be applicable to assessments of the digital advertising gross 28 
-revenues tax made after December 31, 202 5. 29 
- 
+Approved by the Governor, May 20, 2025.  

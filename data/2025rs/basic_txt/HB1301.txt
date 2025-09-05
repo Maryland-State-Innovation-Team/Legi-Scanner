@@ -1,163 +1,136 @@
+ WES MOORE, Governor  Ch. 612  
  
+– 1 – Chapter 612  
+(House Bill 1301 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb1301*      
-HOUSE BILL 1301  
-J5, J1, J4    5lr3342  
-      
-By: Delegate Rosenberg  Delegates Rosenberg, Bagnall, Chisholm, Cullison, 
-Guzzone, Hill, Hutchinson, S.  Johnson, Kaiser,  Kerr, Kipke, Lopez, 
-Martinez, Pena –Melnyk, Ross, Szeliga, and White  Holland  
-Introduced and read first time: February 7, 2025  
-Assigned to: Health and Government Operations  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second t ime: March 7, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Maryland Medical Assistance Program, Maryland Children’s Health Program, 
+and Health Insurance – Transfers to Special Pediatric Hospitals – Prior 
+Authorizations  
  
-AN ACT concerning  1 
+FOR the purpose of prohibiting the Maryland Medical Assistance Program, the Maryland 
+Children’s Health Program, managed care organizations, and certain health 
+insurers, nonprofit health service plans, and health maintena nce organizations from 
+requiring prior authorization for a transfer to a special pediatric hospital; and 
+generally relating to health insurance coverage for transfers to special pediatric 
+hospitals.  
  
-Maryland Medical Assistance Program, Maryland Children’s Health Program, 2 
-and Health Insurance – Transfers to Special Pediatric Hospitals – Prior 3 
-Authorizations  4 
+BY repealing and reenacting, without amendments,  
+ Article – Health – General  
+Section 15 –101(a), (c), and (h) and 15 –103(a)(1)  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of prohibiting the Maryland Medical Assistance Program, the Maryland 5 
-Children’s Health Program, managed care organizations, and certain health 6 
-insurers, nonprofit health service plans, and health maintenance organizations from 7 
-requiring prior authorization for a transfer to a special pediatric hospital; and 8 
-generally relating to health insurance coverage for transfers to special pediatric 9 
-hospitals.  10 
+BY adding to  
+ Article – Health – General  
+Section 15 –101(k), 15 –102.3(m), 15 –103(a)(2)(xxv), and 15 –157 
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  11 
- Article – Health – General  12 
-Section 15 –101(a), (c), and (h) and 15 –103(a)(1)  13 
- Annotated Code of Maryland  14 
- (2023 Replacement Volume and 2024 Supplement)  15 
+BY repealing and reenacting, with amendments,  
+ Article – Health – General  
+Section 15 –101(k) and (l) and 15 –103(a)(2)(xxiii) and (xxiv)  
+ Annotated Code of Maryland  
+ (2023 Replacement  Volume and 2024 Supplement)  
  
-BY adding to  16 
- Article – Health – General  17 
-Section 15 –101(k), 15 –102.3(m), 15 –103(a)(2)(xxv), and 15 –157 18 
- Annotated Code of Maryland  19 
- (2023 Replacement Volume and 2024 Supplement)  20 
+BY adding to  
+ Article – Insurance  
+Section 15 –861 
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2024 Supplement)  
  
-2 HOUSE BILL 1301   
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as foll ows: 
  
- BY repealing and reenacting, with amendments,  1 
- Article – Health – General  2 
-Section 15 –101(k) and (l) and 15 –103(a)(2)(xxiii) and (xxiv)  3 
- Annotated Code of Maryland  4 
- (2023 Replacement Volume and 2024 Supplement)  5 
+Article – Health – General  
  
-BY adding to  6 
- Article – Insurance  7 
-Section 15 –861 8 
- Annotated Code of Maryland  9 
- (2017 Replacement Volume and 2024 Supplement)  10 
+15–101. 
+Ch. 612  2025 LAWS OF MARYLAND   
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 11 
-That the Laws of Maryland read as follows:  12 
+– 2 –  
+ (a) In this title the following words have the meanings indicated.  
  
-Article – Health – General  13 
+ (c) “Facility” means a hospital or nursing facility including an intermediate care 
+facility, skilled nursing facility, comprehensive care facility, or extended care facility.  
  
-15–101. 14 
+ (h) “Program” means the Maryland Medical Assistance Program.  
  
- (a) In this title the following  words have the meanings indicated.  15 
+ (K) “SPECIAL PEDIATRIC HOS PITAL ” MEANS A FACILITY IN THE STATE  
+THAT PROVIDES NONACU TE MEDICAL , REHABILITATION , THERAPY , AND 
+PALLIATIVE SERVICES TO INDIVID UALS : 
  
- (c) “Facility” means a hospital or nursing facility including an intermediate care 16 
-facility, skilled nursing facility, comprehensive care facility, or extended care facility.  17 
+  (1) UNDER THE AGE OF 22 YEARS ; OR 
  
- (h) “Program” means the Maryland Medical Assistance Program.  18 
+  (2) WHO ARE AT LEAST 2 YEARS OLD AND UNDER THE AGE OF 23 
+YEARS AND HAVE CO –OCCURRING PHYSICAL A ND BEHAVIORAL HEALTH  
+CONDITIONS . 
  
- (K) “SPECIAL PEDIATRIC HOS PITAL ” MEANS A FACILITY IN THE STATE  19 
-THAT PROVIDES NONACU TE MEDICAL , REHABILITATION , THERAPY , AND 20 
-PALLIATIVE SERVICES TO INDIVIDUALS : 21 
+ [(k)] (L) “Specialty mental health services” means any mental health services 
+other than primary mental health services.  
  
-  (1) UNDER THE AGE OF 22 YEARS ; OR 22 
+ [(l)] (M) “Validated home blood pressure monitor” means a blood pressure 
+measurement device that has been validated for accuracy and is listed in the U.S. Blood 
+Pressure Validated Device Listing.  
  
-  (2) WHO ARE AT LEAST 2 YEARS OLD A ND UNDER THE AGE OF 23 23 
-YEARS AND HAVE CO –OCCURRING PHYSICAL A ND BEHAVIORAL HEALTH  24 
-CONDITIONS . 25 
+15–102.3.  
  
- [(k)] (L) “Specialty mental health services” means any mental health services 26 
-other than primary mental health services.  27 
+ (M) BEGINNING JANUARY 1, 2026,  THE PROVISIONS OF § 15–861 OF THE 
+INSURANCE ARTICLE APPLY TO MANA GED CARE ORGANIZATIO NS IN THE SAME 
+MANNER THAT THEY APP LY TO CARRIERS . 
  
- [(l)] (M) “Validated home blood pressure monitor” means a blood pressure 28 
-measurement device that has been validated for accuracy and is listed in the U.S. Blood 29 
-Pressure Validated Device Listing.  30 
+15–103. 
  
-15–102.3.  31 
+ (a) (1) The Secretary shall administer the Maryland Medical Assistance 
+Program.  
  
- HOUSE BILL 1301  3 
+  (2) The Program:  
  
-  (M) BEGINNING JANUARY 1, 2026,  THE PROVISIONS OF § 15–861 OF THE 1 
-INSURANCE ARTICLE APPLY TO MANAGED  CARE ORGANIZATIONS I N THE SAME 2 
-MANNER THAT THEY APP LY TO CARRIERS . 3 
+   (xxiii)  Beginning on July 1, 2025, shall provide, subject to the 
+limitations of the State budget, and as permitted by federal law, coverage for biomarker 
+testing in accordance with § 15 –859 of the Insurance Article; [and] 
  
-15–103. 4 
+   (xxiv)  Beginning on January 1, 2025, shall provide coverage for 
+prostheses in accordance with § 15 –844 of the Insurance Article ; AND  
  
- (a) (1) The Secretary shall administer the Maryland Medical Assistance 5 
-Program.  6 
+ WES MOORE, Governor  Ch. 612  
  
-  (2) The Program:  7 
+– 3 –    (XXV) BEGINNING ON JANUARY 1, 2026,  SHALL PROVIDE 
+COVERAGE FOR A TRANS FER TO A SPECIAL PED IATRIC HOSPITAL IN A CCORDANCE 
+WITH § 15–861 OF THE INSURANCE ARTICLE . 
  
-   (xxiii)  Beginning on July 1, 2025, shall provide, sub ject to the 8 
-limitations of the State budget, and as permitted by federal law, coverage for biomarker 9 
-testing in accordance with § 15 –859 of the Insurance Article; [and] 10 
+15–157. 
  
-   (xxiv)  Beginning on January 1, 2025, shall provide coverage for 11 
-prostheses in accor dance with § 15 –844 of the Insurance Article ; AND  12 
+ THE PROGRAM AND THE MARYLAND CHILDREN ’S HEALTH PROGRAM MAY 
+NOT REQUIRE PRIOR AU THORIZATION FOR A TR ANSFER TO A SPECIAL PEDIATRIC 
+HOSPITAL . 
  
-   (XXV) BEGINNING ON JANUARY 1, 2026,  SHALL PROVIDE 13 
-COVERAGE FOR A TRANS FER TO A SPECIAL PED IATRIC HOSPITAL IN A CCORDANCE 14 
-WITH § 15–861 OF THE INSURANCE ARTICLE . 15 
+Article – Insurance  
  
-15–157. 16 
+15–861. 
  
- THE PROGRAM AND THE MARYLAND CHILDREN ’S HEALTH PROGRAM MAY 17 
-NOT REQUIRE PRIOR AU THORIZATION FOR A TR ANSFER TO A SPECIAL PEDIATRIC 18 
-HOSPITAL . 19 
+ (A) IN THIS SECTION , “SPECIAL PEDIATRIC  HOSPITAL ” HAS THE MEANING 
+STATED IN § 15–101 OF THE HEALTH – GENERAL ARTICLE . 
  
-Article – Insurance  20 
+ (B) THIS SECTION APPLIES TO: 
  
-15–861. 21 
+  (1) INSURERS AND NONPROF IT HEALTH SERVICE PL ANS THAT 
+PROVIDE HOSPITAL , MEDICAL , OR SURGICAL BENEFITS  TO INDIVIDUALS OR GR OUPS 
+ON AN EXPENSE –INCURRED BASIS UNDER HE ALTH INSURANCE POLIC IES OR 
+CONTRACTS THAT ARE I SSUED OR DELIVERED I N THE STATE ; AND 
  
- (A) IN THIS SECTION , “SPECIAL PEDIATRIC HO SPITAL ” HAS THE MEANING 22 
-STATED IN § 15–101 OF THE HEALTH – GENERAL ARTIC LE. 23 
+  (2) HEALTH MAINTENANCE O RGANIZATIONS THAT PR OVIDE 
+HOSPITAL , MEDICAL , OR SURGICAL BENEFITS  TO INDIVIDUALS OR GR OUPS UNDER 
+CONTRACTS THAT ARE I SSUED OR  DELIVERED IN THE STATE . 
  
- (B) THIS SECTION APPLIES TO: 24 
+ (C) AN ENTITY SUBJECT TO THIS SECTION MAY NOT  REQUIRE PRIOR 
+AUTHORIZATION FOR A TRANSFER TO A SPECIA L PEDIATRIC HOSPITAL .  
  
-  (1) INSURERS AND NONPROF IT HEALTH SERVICE PL ANS THAT 25 
-PROVIDE HOSPITAL , MEDICAL , OR SURGICAL BENEFITS  TO INDIVIDUALS OR GR OUPS 26 
-ON AN EXPENSE –INCURRED BASIS UNDER  HEALTH INSURANCE POL ICIES OR 27 
-CONTRACTS THAT ARE I SSUED OR  DELIVERED IN THE STATE ; AND 28 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall apply to all 
+policies, contracts, and health benefit plans issued, delivered, or renewed in the State on or 
+after January 1, 2026.  
  
-  (2) HEALTH MAINTENANCE O RGANIZATIONS THAT PR OVIDE 29 
-HOSPITAL , MEDICAL , OR SURGICAL BENEFITS  TO INDIVIDUALS OR GR OUPS UNDER 30 
-CONTRACTS THAT ARE I SSUED OR DELIVERED I N THE STATE . 31 
-4 HOUSE BILL 1301   
+ SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+January 1, 2026.  
  
-  
- (C) AN ENTITY SUBJECT TO THIS SECTION MAY NOT  REQUIRE PRIOR 1 
-AUTHORIZATION FOR A TRANSFER TO A SPECIA L PEDIATRIC HOSPITAL .  2 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall apply to all 3 
-policies, contracts, and health benefit plans issued, delivered,  or renewed in the State on or 4 
-after January 1, 2026.  5 
- 
- SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 6 
-January 1, 2026.  7 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 20, 2025.  

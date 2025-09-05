@@ -1,120 +1,97 @@
+ WES MOORE, Governor  Ch. 724  
  
+– 1 – Chapter 724  
+(House Bill 507 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0507*      
-HOUSE BILL 507  
-P2   5lr3083  
-    CF SB 453  
-By: Delegate Kerr  
-Introduced and read first time: January 22, 2025  
-Assigned to: Health and Government Operations  
-Committee Report: Favorable  
-House action: Adopted  
-Read second time: February 25, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+State Contracts – Prohibited Provisions  
  
-AN ACT concerning  1 
+FOR the purpose of clarifying a prohibition on including in State contracts provisions 
+pertaining to limitations of liability for damage to certain property; clarifying a 
+prohibition on including in State contracts provisions limiting the recovery of costs 
+related to the use of replacement contractors under certain circumstances; and 
+general ly relating to prohibited provisions in State contracts.  
  
-State Contracts – Prohibited Provisions  2 
+BY repealing and reenacting, with amendments,  
+ Article – State Finance and Procurement  
+Section 2 –901 
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of clarifying a prohibition on including in State contracts provisions 3 
-pertaining to limitations of liability for damage to certain property; clarifying a 4 
-prohibition on including in State contracts provisions limiting the recovery of costs 5 
-related to the use of replacement contractors under certain circumstances; and 6 
-general ly relating to prohibited provisions in State contracts.  7 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  8 
- Article – State Finance and Procurement  9 
-Section 2 –901 10 
- Annotated Code of Maryland  11 
- (2021 Replacement Volume and 2024 Supplement)  12 
+Article – State Finance and Procurement  
  
- SECTION 1. BE IT E NACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 13 
-That the Laws of Maryland read as follows:  14 
+2–901. 
  
-Article – State Finance and Procurement  15 
+ (a) In this section, “State contract” means any agreement entered into by the 
+State.  
  
-2–901. 16 
+ (a–1) This section does not ap ply to a State contract relating to the purchase, 
+redevelopment, or operation of a racing facility or training facility site as those terms are 
+defined under § 10 –601 of the Economic Development Article.  
  
- (a) In this section, “State contract” means any agreement entered into by the 17 
-State.  18 
+ (b) Except as required by State or federal law, a State contract may not include:  
  
-2 HOUSE BILL 507   
+  (1) a provision that requires the State to indemnify, defend, or hold 
+harmless another person without an appropriation of State funds for that purpose;  
  
-  (a–1) This section does not apply to a State contract relating to the purchase, 1 
-redevelopment, or operation of a racing facility or training facility site as those terms are 2 
-defined under § 10 –601 of the Economic Development Article.  3 
+  (2) a provision by which the State agrees to binding arbitration o r any 
+other binding extrajudicial dispute resolution process;  
  
- (b) Except as required by State or federal law, a State contract may not include:  4 
+  (3) a provision that names a jurisdiction or venue for any action or dispute 
+against the State other than a court of proper jurisdiction in the State;  
  
-  (1) a provision that requires the State to indemnify, defend, or hold 5 
-harmless another person without an appropriation of State funds for that purpose;  6 
+Ch. 724  2025 LAWS OF MARYLAND   
  
-  (2) a provision by which the State agrees to binding arbitration  or any 7 
-other binding extrajudicial dispute resolution process;  8 
+– 2 –   (4) a provision that requires the Sta te to agree to limit the liability for any 
+direct loss to the State for bodily injury, death, or damage to REAL PROPERTY OR 
+TANGIBLE PERSONAL property of the State caused by the negligence, intentional or willful 
+misconduct, fraudulent act, recklessness, or other tortious conduct of a person or a person’s 
+employees or agents or a provision that would otherwise impose an indemnification 
+obligation on the State;  
  
-  (3) a provision that names a jurisdiction or venue for any action or dispute 9 
-against the State other than a court of proper jurisdiction in the State;  10 
+  (5) a provision that requires the State to be bound by a term or condition 
+that:  
  
-  (4) a provision that requires the S tate to agree to limit the liability for any 11 
-direct loss to the State for bodily injury, death, or damage to REAL PROPERTY OR 12 
-TANGIBLE PERSONAL property of the State caused by the negligence, intentional or willful 13 
-misconduct, fraudulent act, recklessness,  or other tortious conduct of a person or a person’s 14 
-employees or agents or a provision that would otherwise impose an indemnification 15 
-obligation on the State;  16 
+   (i) is unknown to the State at the time of signing a contract;  
  
-  (5) a provision that requires the State to be bound by a term or condition 17 
-that:  18 
+   (ii) may be unilaterally changed by the other party; or  
  
-   (i) is unknown to the State at the time of signing a contract;  19 
+   (iii) is electronically accepted by a State employee without authority;  
  
-   (ii) may be unilaterally changed by the other party; or  20 
+  (6) a provision that provides for a person other than the Att orney General 
+of Maryland to serve as legal counsel for the State, unless provided under § 6 –106 of the 
+State Government Article;  
  
-   (iii) is electronically accepted by a State employee without authority;  21 
+  (7) a provision that is inconsistent with the State’s obligations under Title 
+3 or 4 of the General Provisions Article;  
  
-  (6) a provision that provides for a person other than the Atto rney General 22 
-of Maryland to serve as legal counsel for the State, unless provided under § 6 –106 of the 23 
-State Government Article;  24 
+  (8) a provision prohibited under § 7 –237 of this article;  
  
-  (7) a provision that is inconsistent with the State’s obligations under Title 25 
-3 or 4 of the General Provisions Article;  26 
+  (9) a provision for automatic renewal that obligates the State to allocate 
+funding in subsequent fiscal years; or  
  
-  (8) a provision prohibited under § 7 –237 of this article;  27 
+  (10) a provision that limits the State’s ability to recover the DIFFERENCE 
+IN THE cost of a replacement contractor TO PERFORM THE SERVI CES NOT PERFORMED 
+BY THE ORIGINAL CONT RACTOR , TO THE EXTENT THAT T HE SUM OF THE AMOUNT  
+PAID TO THE REPLACEM ENT CONTRACTOR AND T HE AMOUNT PAID TO TH E 
+ORIGINAL CONTRACTOR EXCEED THE COSTS PRO VIDED FOR IN THE CONTRACT WITH  
+THE ORIGINAL CONTRAC TOR. 
  
-  (9) a provision for automatic renewal that obligates the State to allocate 28 
-funding in subsequent fiscal years; or  29 
+ (c) If a State contract contains a provision listed under subsection (b) of this 
+section, the provision is void ab initio and the contract containing that provision shall be 
+enforceable as if it did not conta in the provision.  
  
-  (10) a provision that limits the State’s ability to recover the DIFFERENCE 30 
-IN THE cost of a replacement contractor TO PERFORM THE SERVI CES NOT PERFORMED 31 
-BY THE ORIGINAL CONT RACTOR , TO THE EXTENT THAT T HE SUM OF THE AMOUNT  32 
- HOUSE BILL 507  3 
+ (d) A State contract that contains a provision listed under subsection (b) of this 
+section shall be governed by and construed in accordance with State law, notwithstanding 
+any term or condition to the contrary in the contract.  
  
- PAID TO THE REPLACEM ENT CONTRACTOR AND T HE AMOUNT PAID TO TH E 1 
-ORIGINAL CONTRACTOR EXCEED THE COSTS PRO VIDED FOR IN THE CONTRACT WITH  2 
-THE ORIGINAL CONTRAC TOR. 3 
+ SECTION  2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
+ WES MOORE, Governor  Ch. 724  
  
- (c) If a State contract contains a provision listed under subsection (b) of this 4 
-section, the provision is void ab initio and the contract containing that provision shall be 5 
-enforceable as if it did not conta in the provision.  6 
- 
- (d) A State contract that contains a provision listed under subsection (b) of this 7 
-section shall be governed by and construed in accordance with State law, notwithstanding 8 
-any term or condition to the contrary in the contract.  9 
- 
- SECTION  2. AND BE IT FURTHER ENACTED, That this Act shall take effect 10 
-October 1, 2025.  11 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+– 3 –  
+Approved by the Governor, May 20, 2025.  

@@ -1,184 +1,160 @@
+ WES MOORE, Governor  Ch. 385  
  
+– 1 – Chapter 385  
+(House Bill 222 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTING LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.  
-         Italics indicate opposite chamber/conference committee amendments.             *hb0222*      
-HOUSE BILL 222  
-C2, E4    (5lr1479 ) 
-ENROLLED BILL  
-— Environment and Transportation/Education, Energy, and the Environment  — 
-Introduced by Delegate Stein  Delegates Stein, Boyce, Holmes, Otto, Ruth, and 
-Terrasa  
+AN ACT concerning  
  
-Read and Examined by Proofreaders:  
+Public Safety – Fuel Gas Piping Systems and  Corrugated Stainless Steel Tubing 
+for Fuel Gas Piping Systems – Requirements and Prohibitions  – Prohibitions 
+and Study  
  
-_______________________________________________  
-Proofreader.  
-_______________________________________________  
-Proofreader.  
+FOR the purpose of prohibiting the sale, offer for sale, transfer, or distribution of  
+non–arc–resistant jacketed  corrugated stainless steel tubing that does not meet 
+certain qualifications; requiring certain tubing  used ; establishing a certain civil 
+penalty for a person who uses certain tubing  in the construction of fuel gas piping 
+systems in certain buildings to meet certain qualifications ; requiring  the Maryland 
+Department of Labor and  the Office of the State Fire  Marshal to study and make 
+recommendations related to preventing the fire hazards associated with commonly 
+used fuel gas piping systems, including gas piping and corrugated stainless steel 
+tubing, in residential and commercial buildings ; and generally rela ting to fuel gas 
+piping systems, gas piping, and  corrugated stainless steel tubing.  
  
-Sealed with the Great Seal and presented to the Governor, for his approval this  
-  
-_______ day of _______________ at ________________________ o’clock, ________M.  
-  
-______________________________________________  
-Speaker .  
+BY adding to  
+ Article – Business Regulation  
+Section 19 –108 
+ Annotated Code of Maryland  
+ (2024 Replacement Volume)  
  
-CHAPTER ______  
+BY repealing and reenacting, with amendments,  
+ Article  – Public Safety  
+Section 12 –206 
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2024 Supplement)  
  
-AN ACT concerning  1 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-Public Safety – Fuel Gas Piping Systems and  Corrugated Stainless Steel Tubing 2 
-for Fuel Gas Piping Systems – Requirements and Prohibitions  – Prohibitions 3 
-and Study  4 
+Article – Business Regulation  
  
-FOR the purpose of prohibiting the sale, offer for sale, transfer, or distribution of  5 
-non–arc–resistant jacketed  corrugated stainless steel tubing that does not meet 6 
-certain qualifications; requiring certain tubing used ; establishing a certain civil 7 
-penalty for a person who uses certain tubing  in the construction of fuel gas piping 8 
-systems in certain buildings to me et certain qualifications ; requiring  the Maryland 9 
-Department of Labor and  the Office of the State Fire Marshal to study and make 10 
-recommendations related to preventing the fire hazards associated with commonly 11 
-used fuel gas piping systems, including gas pip ing and corrugated stainless steel 12 
-tubing, in residential and commercial buildings ; and generally relating to fuel gas 13 
-piping systems, gas piping, and  corrugated stainless steel tubing.  14 
-2 HOUSE BILL 222   
+19–108. 
  
-  
-BY adding to  1 
- Article – Business Regulation  2 
-Section 19 –108 3 
- Annotated Code of Maryland  4 
- (2024 Replacement Volume)  5 
+ (A) A PERSON MAY NOT SELL , OFFER FOR SALE , TRANSFER , OR DISTRIBUTE  
+NON–ARC–RESISTANT JACKETED  CORRUGATED STAINLESS  STEEL TUBING THAT : 
  
-BY repealing and reenacting, with amendments,  6 
- Article – Public Safety  7 
-Section 12 –206 8 
- Annotated Code of Maryland  9 
- (2022 Replacement Volume and 2024 Supplement)  10 
+  (1) DOES NOT MEET THE RE QUIREMENTS OF THE LC1027  STANDARD  
+DESCRIBED IN THE MOS T RECENT EDITION OF THE INTERNATIONAL FUEL AND GAS 
+CODE ISSUED BY THE INTERNATIONAL CODE COUNCIL ; OR 
+Ch. 385  2025 LAWS OF MARYLAND   
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 11 
-That the Laws of Maryland read as follows:  12 
+– 2 –  
+  (2) HAS NOT BEEN PROVEN TO WITHSTAND AT LEAS T 36 COULOMBS  
+OF ELECTRICAL ARCING  CHARGE BY AN ELECTRI CAL ARCING TEST . 
  
-Article – Business Regulation  13 
+ (B) A PERSON WHO VIOLATES THIS SECTION IS SUBJ ECT TO A CIVIL 
+PENALTY NOT EX CEEDING $1,000.  
  
-19–108. 14 
+Article – Public Safety  
  
- (A) A PERSON MAY NOT SELL , OFFER FOR SALE , TRANSFER , OR DISTRIBUTE  15 
-NON–ARC–RESISTANT JACKETED  CORRUGATED STAINLESS  STEEL TUBING THAT : 16 
+12–206. 
  
-  (1) DOES NOT MEET THE RE QUIREMENTS OF THE LC1027  STANDARD  17 
-DESCRIBED IN THE MOS T RECENT EDITION OF THE INTERNATIONAL FUEL AND GAS 18 
-CODE ISSUED BY THE INTERNATIONAL CODE COUNCIL ; OR 19 
+ (a) This section applies to any building that uses fuel gas piping systems not 
+subject to Title 49, Part 192 of the Code of Federal Regulations.  
  
-  (2) HAS NOT BEEN PROVEN TO WITHSTAND AT LEAS T 36 COULOMBS  20 
-OF ELECTRICAL ARCING  CHARGE BY AN ELECTRI CAL ARCING TEST . 21 
+ (b) [Non–arc–resistant jacketed ] ONLY corrugated stainless steel tubing THAT  
+MEETS THE REQUIREMEN TS OF THE LC1027  STANDARD DESCRIBED I N THE MOST  
+RECENT EDITION OF TH E INTERNATIONAL FUEL AND GAS CODE ISSUED BY THE  
+INTERNATIONAL CODE COUNCIL OR HAS BEEN P ROVEN TO WITHSTAND A T LEAST  
+36 COULOMBS OF ELECTRICAL ARCING  CHARGE BY AN ELECTRI CAL ARCING TEST  
+may [not] be used in:  
  
- (B) A PERSON WHO VIOLATES THIS SECTION IS SUBJ ECT TO A CIVIL 22 
-PENALTY NOT EXCEEDIN G $1,000.  23 
+  (1) the new construction of a customer –owned natural gas or liquefied 
+propane piping system in a building;  
  
-Article – Public Safety  24 
+  (2) a natural gas or liquefied propane piping system in a renova ted 
+property if the renovation affects more than 50% of the total square footage of the property; 
+or 
  
-12–206. 25 
+  (3) a natural gas or liquefied propane piping system that requires the 
+addition of a new gas line to the gas piping system.  
  
- (a) This section applies to any building that uses fuel gas piping systems not 26 
-subject to  Title 49, Part 192 of the Code of Federal Regulations.  27 
+ (C) A PERSON WHO VIOLATES THIS SECTION IS SUBJ ECT TO A CIVIL 
+PENALTY NOT EXCEEDIN G $1,000.  
  
- (b) [Non–arc–resistant jacketed ] ONLY corrugated stainless steel tubing THAT  28 
-MEETS THE REQUIREMEN TS OF THE LC1027  STANDARD DESCRIBED I N THE MOST  29 
-RECENT EDITION OF TH E INTERNATIONAL FUEL AND GAS CODE  ISSUED BY THE  30 
-INTERNATIONAL CODE COUNCIL OR HAS BEEN P ROVEN TO WITHSTAND A T LEAST  31 
- HOUSE BILL 222  3 
+ SECTION 2. AND BE IT FURTHER ENACTED, That:  
  
- 36 COULOMBS OF ELECTRIC AL ARCING CHARGE BY AN ELECTRICAL ARCING  TEST  1 
-may [not] be used in:  2 
+ (a) The Maryland Department of Labor and the  Office of the State Fire Marshal 
+shall conduct a study and make recommendations related to preventing the fire hazards 
+associated with commonly used fuel gas piping systems, including gas piping and 
+corrugated stainless steel tubing, in residential and commercial buildings.  
  
-  (1) the new construction of a customer –owned natural gas or liquefied 3 
-propane p iping system in a building;  4 
+ (b) In conducting the study and making the recommendations, the  Depart ment 
+and the  Office shall:  
  
-  (2) a natural gas or liquefied propane piping system in a renovated 5 
-property if the renovation affects more than 50% of the total square footage of the property; 6 
-or 7 
+ WES MOORE, Governor  Ch. 385  
  
-  (3) a natural gas or liquefied propane piping system that  requires the 8 
-addition of a new gas line to the gas piping system.  9 
+– 3 –   (1) study and compare the fire hazard risks of different types of fuel gas 
+piping systems, including gas piping and corrugated stainless steel tubing;  
  
- (C) A PERSON WHO VIOLATES THIS SECTION IS SUBJ ECT TO A CIVIL 10 
-PENALTY NOT EXCEEDIN G $1,000.  11 
+  (2) study the likelihood of fuel gas piping systems, including gas pipin g and 
+corrugated stainless steel tubing, causing a fire in a residential or commercial building 
+following a direct or indirect lightning strike;  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That:  12 
+  (3) analyze the effectiveness of existing standards and requirements in the 
+State related to fuel gas piping  systems, including gas piping and corrugated stainless steel 
+tubing, and identify areas for improvement;  
  
- (a) The Maryland Department of Labor and the  Office of the State Fire Marshal 13 
-shall conduct a study and make recommendations related to preventing the fire hazards 14 
-associated with commonly used fuel gas piping systems, including gas piping and 15 
-corrugated stainless steel tubing, in residential and com mercial buildings.  16 
+  (4) analyze and identify the best practices for state and local legislative, 
+regulatory, and building code standards for fuel gas piping systems, i ncluding gas piping 
+and corrugated stainless steel tubing;  
  
- (b) In conducting the study and making the recommendations, the  Department 17 
-and the  Office shall:  18 
+  (5) identify potential legislative or regulatory changes in the State to 
+prevent or minimize the fire hazards associated with fuel gas piping systems, including gas 
+piping and corrugated stainle ss steel tubing , § 12–206 of the Public Safety Article, and if 
+enacted by S.B. 175 or H.B. 222 of 2025, § 19 –108 of the Business Regulation Article ; 
  
-  (1) study and compare the fire hazard risks of different types of fuel gas 19 
-piping systems, including gas piping and corrugated stainles s steel tubing;  20 
+  (6) determine what industry standards or requirements are necessary to 
+prevent or minimize the fire hazards associated with fuel gas piping systems, including gas 
+piping and corrugated stainless steel tubing;  
  
-  (2) study the likelihood of fuel gas piping systems, including gas piping and 21 
-corrugated stainless steel tubing, causing a fire in a residential or commercial building 22 
-following a direct or indirect lightning strike;  23 
+  (7) determine what standards or requirements are necessary, if any, to 
+address aggravating factors that may reasonably contribute to the failure  or 
+malfunctioning of fuel gas piping systems, including gas piping and corrugated stainless 
+steel tubing, and create a fire hazard, such as improper installation or grounding;  
  
-  (3) analyze the e ffectiveness of existing standards and requirements in the 24 
-State related to fuel gas piping systems, including gas piping and corrugated stainless steel 25 
-tubing, and identify areas for improvement;  26 
+  (8) assess the prevalence of non –arc–resistant jacketed corrugated 
+stainless  steel tubing in residential and commercial buildings and the fire hazards that this 
+presents; and  
  
-  (4) analyze and identify the best practices for state an d local legislative, 27 
-regulatory, and building code standards for fuel gas piping systems, including gas piping 28 
-and corrugated stainless steel tubing;  29 
+  (9) assess the feasibility of implementing the standards and requirements 
+identified in this study.  
  
-  (5) identify potential legislative or regulatory changes in the State to 30 
-prevent or minimize the fire h azards associated with fuel gas piping systems, including gas 31 
-piping and corrugated stainless steel tubing , § 12–206 of the Public Safety Article, and if 32 
-enacted by S.B. 175 or H.B. 222 of 2025, § 19 –108 of the Business Regulation Article ; 33 
+ (c) In carrying out the study,  the Department and  the Office shall consult with:  
  
-4 HOUSE BILL 222   
+  (1) the State Fire Prevention Commission;  
  
-   (6) determine  what industry standards or requirements are necessary to 1 
-prevent or minimize the fire hazards associated with fuel gas piping systems, including gas 2 
-piping and corrugated stainless steel tubing;  3 
+  (2) the Maryland Department of Labor;  
  
-  (7) determine what standards or requirements are necessar y, if any, to 4 
-address aggravating factors that may reasonably contribute to the failure or 5 
-malfunctioning of fuel gas piping systems, including gas piping and corrugated stainless 6 
-steel tubing, and create a fire hazard, such as improper installation or gro unding;  7 
+  (3) local government entities responsible for residential or commercial gas 
+fitting inspections; and  
  
-  (8) assess the prevalence of non –arc–resistant jacketed corrugated 8 
-stainless steel tubing in residential and commercial buildings and the fire hazards that this 9 
-presents; and  10 
+Ch. 385  2025 LAWS OF MARYLAND   
  
-  (9) assess the feasibility of implementing the standards and requir ements 11 
-identified in this study.  12 
+– 4 –   (4) (3) manufacturers of fuel gas piping systems and corrugated stainless steel 
+tubing.  
  
- (c) In carrying out the study,  the Department and  the Office shall consult with:  13 
+ (d) (1) On or before December 1, 2025, the Department and the Office shall 
+submit an interim report of its findings and recommendations to the Governor and, in 
+accordance with § 2 –1257 of the State Government Article, the Senate Committee on 
+Education, Energy, and the Environment and the House Environment and Transportation 
+Committee.  
  
-  (1) the State Fire Prevention Commission;  14 
+  (2) On or before September 1, 2026, the  Department and the  Office shall 
+report its findings and recommendations to  the Governor and, in accordance with § 2 –1257 
+of the State Government Article, the Senate Committee on Education, Energy, and the 
+Environment and the House Environment and Transportation Committee.  
  
-  (2) the Maryland Department of Labor;  15 
+ SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2027  June 1, 2025 . 
  
-  (3) local government entities responsible for residential or commercial gas 16 
-fitting inspections; and  17 
- 
-  (4) (3) manufacturers of fuel gas piping systems and corrugated stainless steel 18 
-tubing.  19 
- 
- (d) (1) On or before December 1, 2025, the Department and the Office shall 20 
-submit an interim report of its findings and recommendations to the Governor and, in 21 
-accordance with § 2 –1257 of the State Government Article, the Senate Committee on 22 
-Education, Energy, and the Environment and the House Environment and Transportation 23 
-Committee.  24 
- 
-  (2) On or before Septem ber 1, 2026, the  Department and the  Office shall 25 
-report its findings and recommendations to the Governor and, in accordance with § 2 –1257 26 
-of the State Government Article, the Senate Committee on Education, Energy, and the 27 
-Environment and the House Environm ent and Transportation Committee.  28 
- 
- SECTION 2. 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 29 
-October 1, 2027  June 1, 2025 . 30 
+Approved by the Governor, May 6, 2025.  

@@ -1,240 +1,214 @@
+ WES MOORE, Governor  Ch. 696  
  
+– 1 – Chapter 696  
+(House Bill 718 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike  out indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.  
-         Italics indicate opposite chamber/conference committee amendments.             *hb0718*      
-HOUSE BILL 718  
-J5, J1, C3    (5lr2585 ) 
-ENROLLED BILL  
-— Health and Government Operations/Finance  — 
-Introduced by Delegates Rosenberg and Pena –Melnyk , Pena–Melnyk, Alston, 
-Bagnall, Bhandari, Cullison, Guzzone, Hill, S.  Johnson, Kaiser, Kerr, Lopez, 
-Martinez, Ross, Taveras, White  Holland, Woods, and Woorman  
+AN ACT concerning  
  
-Read and Examined by Proofreaders:  
+Maryland Health Insurance Coverage Protection Commission – Established  
  
-_______________________________________________  
-Proofreader.  
-____________ ___________________________________  
-Proofreader.  
+FOR the purpose of establishing the Maryland Health Insurance Coverage Protection 
+Commission to monitor and assess the impact of potential and actual federal changes 
+to specified health care programs and to provide recommendations for State and local 
+action to protect the access of residents of the State to  affordable health coverage; 
+and generally relating to the Maryland Health Insurance Coverage Protection 
+Commission.  
  
-Sealed with the Great Seal and presented to the Governor, for his approval this  
-  
-_______ day of _______________ at ________________________ o’clock, ________M.  
-  
-___________________________________________ ___ 
-Speaker .  
+Preamble  
  
-CHAPTER ______  
+ WHEREAS, The federal Patient Protection and Affordable Care Act (ACA) has 
+enabled more than 600,000 Maryland residents to gai n access to quality and affordable 
+health insurance coverage since its implementation, with the State’s uninsured rate 
+dropping from approximately 11% in 2010 to approximately 6% in 2024; and  
  
-AN ACT concerning  1 
+ WHEREAS, Approximately 6% of Maryland residents remain uninsured, with 
+disparities in coverage rates particularly affecting communities of color and low –income 
+households; and  
  
-Maryland Health Insurance Coverage Protection Commission – Established  2 
+ WHEREAS, Changes to the ACA, the federal Mental Health Parity and Addiction 
+Equity Act (MHPAEA),  Medicaid, or Medicare could significantly impact health care access 
+and affordability for Maryland residents; and  
  
-FOR the purpose of establishing the Maryland Health Insurance Coverage Protection 3 
-Commission to monitor and assess the impact of potential and actual federal changes 4 
-to specified health care programs and to provide recommendations for State and local 5 
-action to protect the access of residents of the State to affordable health coverage; 6 
-and generally relating to the Maryland Health In surance Coverage Protection 7 
-Commission.  8 
+ WHEREAS, It is estimated that a repeal of the ACA may result in over 30 million 
+individuals becoming uninsured in the United States; and  
  
-Preamble  9 
+ WHEREAS, In Maryland, more than 600,000 people may become uninsured in the 
+aftermath of a repeal of the ACA; and  
  
- WHEREAS, The federal Patient Protection and Affordable Care Act (ACA) has 10 
-enabled more than 600,000 Maryland residents to gain access to quality and affordable 11 
-2 HOUSE BILL 718   
+ WHEREAS, Millions of American seniors, including thousands of Maryland seniors, 
+could incur substantially higher health care costs following a repeal or weakening of the 
+ACA or Medicare; and  
  
- health insurance coverage since its implementation, with the State’s uninsured rate 1 
-dropping from approximately 11% in 2010 to approximately 6% in 2024; and  2 
+ WHEREAS, Recent federal policy changes and market dynamics have created 
+uncertainty in the health care landscape, potentially affecting the stability of Maryland’s 
+insurance markets and health care delive ry systems; and  
  
- WHEREAS, Approximately 6% of Maryland residents remain uninsured, with 3 
-disparities in coverage rates particularly affecting communiti es of color and low –income 4 
-households; and  5 
+ WHEREAS, The COVID –19 pandemic highlighted the critical importance of 
+maintaining robust health care infrastructure and ensuring widespread access to 
+affordable health coverage; and  
+Ch. 696  2025 LAWS OF MARYLAND   
  
- WHEREAS, Changes to the ACA, the federal Mental Health Parity and Addiction 6 
-Equity Act (MHPAEA),  Medicaid, or Medicare could significantly impact health care access 7 
-and affordability for Maryland residents; and  8 
+– 2 –  
+ WHEREAS, It is prudent for Maryland to monitor and mit igate these negative 
+effects of a repeal or weakening of the ACA, MHPAEA,  Medicaid, or Medicare and to protect 
+public health by recommending and implementing solutions in the event of a broad –scale 
+loss of health coverage; now, therefore,  
  
- WHEREAS, It is estimated that a repeal of the ACA may result in over 30 million 9 
-individuals becoming uninsured in the United States; and  10 
+ SECTION 1. BE I T ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That:  
  
- WHEREAS, In Maryland, more than 600,000 people may become uninsured in the 11 
-aftermath of a repeal of the ACA; and  12 
+ (a) (1) In this section , the following words have the meanings indicated.  
  
- WHEREAS, Millions of American seniors, including thousands of Maryland seniors, 13 
-could incur substantially higher health care costs following a repeal or weakening of the 14 
-ACA or Medicare; and  15 
+  (2) “ACA” means the federal Patient Protection and Affordable Care Act.  
  
- WHEREAS, Recent federal policy changes and market dynamics have  created 16 
-uncertainty in the health care landscape, potentially affecting the stability of Maryland’s 17 
-insurance markets and health care delivery systems; and  18 
+  (3) “MHPAEA” means the federal Mental Health Pari ty and Addiction 
+Equity Act.   
  
- WHEREAS, The COVID –19 pandemic highlighted the critical importance of 19 
-maintaining robust health c are infrastructure and ensuring widespread access to 20 
-affordable health coverage; and  21 
+ (b) There is a Maryland Health Insurance Coverage Protection Commission.  
  
- WHEREAS, It is prudent for Maryland to monitor and mitigate these negative 22 
-effects of a repeal or weakening of the ACA, MHPAEA,  Medicaid, or Medicare and to protect 23 
-public health by recommending and implementing solutions in the event of a broad –scale 24 
-loss of health coverage; now, therefore,  25 
+ (c) The Commission consists of the following members:  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 26 
-That:  27 
+  (1) three members of the Senate of Maryland, appointed by the President 
+of the Senate;  
  
- (a) (1) In this section , the following words have the meanin gs indicated.  28 
+  (2) three members of the House of Delegates, appointed by the Speaker of 
+the House;  
  
-  (2) “ACA” means the federal Patient Protection and Affordable Care Act.  29 
+  (3) the Secretary of Health and Mental Hygiene, or the Secretary’s 
+designee;  
  
-  (3) “MHPAEA” means the federal Mental Health Parity and Addiction 30 
-Equity Act.   31 
+  (4) the Maryland Insurance Commissioner, or the Commissioner’s 
+designee;  
  
- (b) There is a Maryland Health Insurance Coverage Protection Commission.  32 
+  (5) the Exec utive Director of the Health Services Cost Review Commission, 
+or the Executive Director’s designee;  
  
- (c) The Commission consists of the following members:  33 
- HOUSE BILL 718  3 
+  (6) the Executive Director of the Maryland Health Benefit Exchange, or the 
+Executive Director’s designee;   
  
-  
-  (1) three members of the Senate of Maryland, appointed by the President 1 
-of the Senate;  2 
+  (5) (7) the Attorney General, or the Attorn ey General’s designee; and  
  
-  (2) three members of the House of Delegates, appointed by the Speaker of 3 
-the House;  4 
+  (6) (8) the following members:  
  
-  (3) the Secretary of Health an d Mental Hygiene, or the Secretary’s 5 
-designee;  6 
+   (i) one representative of the Maryland Hospital Association, 
+designated by the President of the Association;  
  
-  (4) the Maryland Insurance Commissioner, or the Commissioner’s 7 
-designee;  8 
+ WES MOORE, Governor  Ch. 696  
  
-  (5) the Executive Director of the Health Services Cost Review Commission, 9 
-or the Executive Director’s designee;  10 
+– 3 –    (ii) one representative of a managed care organization, appointed 
+jointly by the President of the Senate and the Speaker of the House;  
  
-  (6) the Executive Director of the Maryland Health Benefit Exchange, or the 11 
-Executive Director’s designee;   12 
+   (iii) one consumer of health care services, appointed jointly by the 
+President of the Senate and the Speaker of the House;  
  
-  (5) (7) the Attorney General, or the Attorney General’s designee; and  13 
+   (iv) one representative of a health insurance carrier, appointed 
+jointly by the President of the Senate and the Speaker of the House;  
  
-  (6) (8) the following members:  14 
+   (v) one representative who is an employer, appointed by the 
+Governor;  
  
-   (i) one representative of the Maryland Hospita l Association, 15 
-designated by the President of the Association;  16 
+   (vi) one representative of the nursing home industry, appointed by 
+the Governor;  
  
-   (ii) one representative of a managed care organization, appointed 17 
-jointly by the President of the Senate and the Speaker of the House;  18 
+   (vii) one representative  of MedChi, designated by the Chief Executive 
+Officer of MedChi;  
  
-   (iii) one consumer of health care services, appoi nted jointly by the 19 
-President of the Senate and the Speaker of the House;  20 
+   (viii)  one representative of behavioral health providers, appointed 
+jointly by the President of the Senate and the Speaker of the House;  
  
-   (iv) one representative of a health insurance carrier, appointed 21 
-jointly by the President of the Senate and the Speaker of the House;  22 
+   (ix) two members of the public:  
  
-   (v) one representative who is an employ er, appointed by the 23 
-Governor;  24 
+    1. one of  whom shall be appointed jointly by the President of 
+the Senate and the Speaker of the House; and  
  
-   (vi) one representative of the nursing home industry, appointed by 25 
-the Governor;  26 
+    2. one of whom shall be appointed by the Governor;  
  
-   (vii) one representative of MedChi, designated by the Chief Executive 27 
-Officer of MedChi;  28 
+   (x) one representative of a group model health maintenance 
+organization that participates in the i ndividual market, appointed by the Governor; and 
  
-   (viii)  one representative of behavioral he alth providers, appointed 29 
-jointly by the President of the Senate and the Speaker of the House;  30 
+   (xi) one representative of the League of Life and Health Insurers of 
+Maryland, designated by the President of the League ; 
  
-4 HOUSE BILL 718   
+   (xii) one representative of the National Association of Insurance and 
+Financi al Advisors, designated by the President of the Association; and  
  
-    (ix) two members of the public:  1 
+   (xiii)  one representative of the Maryland Association of Counties, 
+designated by the Association . 
  
-    1. one of whom shall be appointed jointly by the President of 2 
-the Senate and the Speaker of the House; and  3 
+ (d) The President of the Senate and the Speaker of the House shall designate a 
+member w ho is a Senator and a member who is a Delegate, respectively, to serve as cochairs 
+of the Commission.  
  
-    2. one of whom shall be appointed by the Governor;  4 
+ (e) The Department of Legislative Services, the Maryland Department of Health, 
+and the Maryland Insurance Administration jointly shall provide staff for  the Commission.  
+Ch. 696  2025 LAWS OF MARYLAND   
  
-   (x) one representative of a group model health maintenance 5 
-organization that participates in the individual market, appointed by the Governor; and 6 
+– 4 –  
+ (f) A member of the Commission:  
  
-   (xi) one representative of the League of Life and Health Insurers of 7 
-Maryland, designated by the President of the League ; 8 
+  (1) may not receive compensation as a member of the Commission; but  
  
-   (xii) one representative of the National Association of Insurance and 9 
-Financial Advisors, designated by the President of the Association; and  10 
+  (2) is entitled to reimbursement for expenses under the Standard State 
+Travel Regulations, as provided in the State budget.  
  
-   (xiii)  one representative of the Maryland  Association of Counties, 11 
-designated by the Association . 12 
+ (g) (1) The Commission shall:  
  
- (d) The President of the Senate and the Speaker of the House shall designate a 13 
-member who is a Senator and a member who is a Delegate, respectively, to serve as cochairs 14 
-of the Commission.  15 
+   (i) monitor potential and actual federal changes to the ACA, 
+MHPAEA,  Medicaid, the Maryland Children’s Health Program, Medicare, and the 
+Maryland All –Payer Model;  
  
- (e) The Department of Legislative Services, the Maryland Department of Health, 16 
-and the Maryland Insurance Administration jointly shall provide staff for the Commission.  17 
+   (ii) assess the impact of potential and actual federal changes to the 
+ACA, MHPAEA,  Medicaid, the Maryland Children’s Health Program, Medicare, and the 
+Maryland All –Payer Model; and  
  
- (f) A member of the Commission:  18 
+   (iii) provide recommendations for State and local action to protect 
+access o f residents of the State to affordable health coverage.  
  
-  (1) may not receive compensation as a member of the Comm ission; but  19 
+  (2) The duties of the Commission include:  
  
-  (2) is entitled to reimbursement for expenses under the Standard State 20 
-Travel Regulations, as provided in the State budget.  21 
+   (i) assessing the current and potential adverse effects of the loss of 
+health coverage on the residents, public health, and economy of the State result ing from 
+changes to the ACA, MHPAEA,  Medicaid, the Maryland Children’s Health Program, 
+Medicare, or the Maryland All –Payer Model;  
  
- (g) (1) The Commission shall:  22 
+   (ii) estimating the costs to the State and State residents of adverse 
+effects from potential and actual changes to the ACA , MHPAEA,  Medicaid, the Maryland 
+Children’s Health Program, Medicare, or the Maryland All –Payer Model and the resulting 
+loss of health coverage;  
  
-   (i) monitor potential and actual federal changes to the ACA, 23 
-MHPAEA,  Medicaid, th e Maryland Children’s Health Program, Medicare, and the 24 
-Maryland All –Payer Model;  25 
+   (iii) examining measures that may prevent or mitigate the adverse 
+effects of potential and actual changes t o the ACA, MHPAEA,  Medicaid, the Maryland 
+Children’s Health Program, Medicare, or the Maryland All –Payer Model and the resulting 
+loss of health coverage on the residents, public health, and economy of the State;  
  
-   (ii) assess the impact of potential and actual federal changes to the 26 
-ACA, MHPAEA,  Medicaid, the Maryland Children’s Health Program, Medicare, and the 27 
-Maryland All –Payer Model; and  28 
+   (iv) making recommendations for laws th at: 
  
-   (iii) provide recommendations for State and local action to protect 29 
-access of residents of the State to affordable health coverage.  30 
+    1. may be warranted to minimize the adverse effects 
+associated with potential and actual changes to the ACA, MHPAEA,  Medicaid, the 
+Maryland Children’s Health Program, Medicare, or the Maryland All –Payer Model; and  
  
-  (2) The duties of the Commission include:  31 
- HOUSE BILL 718  5 
+    2. will assist residents in obtaining and maintaining 
+affordable health coverage; and  
+ WES MOORE, Governor  Ch. 696  
  
-  
-   (i) assessing the current and potential adverse effects of the loss of 1 
-health coverage on the residents, public health, and economy of the State resulting from 2 
-changes to the ACA, MHPAEA,  Medicaid, the Maryland Children’s Health Program, 3 
-Medicare, or the Maryl and All –Payer Model;  4 
+– 5 –  
+   (v) identifying potential funding sources for recommended laws, as 
+necessary.  
  
-   (ii) estimating the costs to the State and State residents of adverse 5 
-effects from potential and actual changes to the ACA, MHPAEA,  Medicaid, the Maryland 6 
-Children’s Health Program, Medicare, or the Maryland All –Payer Model and the  resulting 7 
-loss of health coverage;  8 
+ (h) The Commission may:  
  
-   (iii) examining measures that may prevent or mitigate the adverse 9 
-effects of potential and actual changes to the ACA, MHPAEA,  Medicaid, the Maryland 10 
-Children’s Health Program, Medicare, or the Maryland All –Payer Mode l and the resulting 11 
-loss of health coverage on the residents, public health, and economy of the State;  12 
+  (1) hold public meetings across the State to carry out the duties of the 
+Commission; and 
  
-   (iv) making recommendations for laws that:  13 
+  (2) convene workgroups to solicit input from stakeholders.  
  
-    1. may be warranted to minimize the adverse effects 14 
-associated with potential and actual changes to the ACA, MHPAEA,  Medicaid, the 15 
-Maryland Children’s Health Program, Medicare, or the Maryland All –Payer Model; and  16 
+ (i) On or before December 31 each year, the Commission shall submit a report on 
+its findings and recommendations, including any legislative proposals, to the Governor and, 
+in accordance wi th § 2 –1257 of the State Government Article, the General Assembly.  
  
-    2. will assist residents in obtaining and maintaining 17 
-affordable health coverage; and  18 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June 
+1, 2025. It shall remain effective for a period of 4 years and 1 month and, at the end of June 
+30, 2029, with no  further action required by the General Assembly, shall be abrogated and 
+of no further force and effect.  
  
-   (v) identifying potential funding sources for r ecommended laws, as 19 
-necessary.  20 
- 
- (h) The Commission may:  21 
- 
-  (1) hold public meetings across the State to carry out the duties of the 22 
-Commission; and  23 
- 
-  (2) convene workgroups to solicit input from stakeholders.  24 
- 
- (i) On or before December 31 each year, the  Commission shall submit a report on 25 
-its findings and recommendations, including any legislative proposals, to the Governor and, 26 
-in accordance with § 2 –1257 of the State Government Article, the General Assembly.  27 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That  this Act shall take effect June 28 
-1, 2025. It shall remain effective for a period of 4 years and 1 month and, at the end of June 29 
-30, 2029, with no further action required by the General Assembly, shall be abrogated and 30 
-of no further force and effect.  31 
- 
+Approved by the Governor, May 20, 2025.  

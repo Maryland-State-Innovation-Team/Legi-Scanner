@@ -1,258 +1,234 @@
+ WES MOORE, Governor  Ch. 759  
  
+– 1 – Chapter 759  
+(House Bill 1131 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb1131*      
-HOUSE BILL 1131  
-J1, F2    5lr2053  
-      
-By: Delegates Vogel and Tomlinson  
-Introduced and read first time: February 5, 2025  
-Assigned to: Health and Government Operations  
-Committee Report: Favorable  
-House action: Adopted  
-Read second time: March 1, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Public Health  – Buprenorphine – Training Grant Program  and Workgroup  
  
-AN ACT concerning  1 
+FOR the purpose of establishing the Buprenorphine Training Grant Program  to assist 
+counties with offsetting the cost of training paramedics to administer buprenorphine; 
+including the Program as an authoriz ed use of funding from the Opioid Rest itution  
+Fund;  requiring the Maryland Office of Overdose Response to convene  a workgroup 
+to study access to  buprenorphine in the State; and gen erally relating to 
+buprenorphine.  
  
-Public Health  – Buprenorphine – Training Grant Program  and Workgroup  2 
+BY adding to  
+ Article – Health – General  
+Section 13 –5501 and 13 –5502  to be under the new subtitle “Subtitle 55. 
+Buprenorphine Training Grant Program”  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of establishing the Buprenorphine  Training Grant Program  to assist 3 
-counties with offsetting the cost of training paramedics to administer buprenorphine; 4 
-including the Program as an authoriz ed use of funding from the Opioid Rest itution  5 
-Fund;  requiring the Maryland Office of Overdose Response to convene  a workgroup 6 
-to study access to  buprenorphine in the State; and gen erally relating to 7 
-buprenorphine.  8 
+BY repealing and reenacting, without amendments,  
+ Article – State Finance and Procurement  
+ Section 7 –331(a) through (e)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-BY adding to  9 
- Article – Health – General  10 
-Section 13 –5501 and 13 –5502  to be under the new subtitle “Subtitle 55. 11 
-Buprenorphine Trainin g Grant Program”  12 
- Annotated Code of Maryland  13 
- (2023 Replacement Volume and 2024 Supplement)  14 
+BY repealing and reenacting, with amendments,  
+ Article – State Finance and Procurement  
+ Section 7 –331(f) 
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  15 
- Article – State Finance and Procurement  16 
- Section 7 –331(a) through (e)  17 
- Annotated Code of Maryland  18 
- (2021 Replacement Volume and 2024 Supplement)  19 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEM BLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  20 
- Article – State Finance and Procurement  21 
- Section 7 –331(f) 22 
-2 HOUSE BILL 1131   
+Article – Health  – General  
  
-  Annotated Code of Maryland  1 
- (2021 Replacement Volume and 2024 Supplement)  2 
+SUBTITLE 55. BUPRENORPHINE TRAINING GRANT PROGRAM . 
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 3 
-That the Laws of Maryland read as follows:  4 
+13–5501. 
  
-Article – Health  – General  5 
+ (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE  THE MEANINGS 
+INDICATED . 
  
-SUBTITLE 55. BUPRENORPHINE TRAINING GRANT PROGRAM . 6 
+Ch. 759  2025 LAWS OF MARYLAND   
  
-13–5501. 7 
+– 2 –  (B) “PARAMEDIC ” HAS THE MEANING STATED IN § 13–516 OF THE 
+EDUCATION ARTICLE . 
  
- (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE  THE MEANINGS 8 
-INDICATED . 9 
+ (C) “PROGRAM ” MEANS THE BUPRENORPHINE TRAINING GRANT 
+PROGRAM . 
  
- (B) “PARAMEDIC ” HAS  THE MEANING STATED I N § 13–516 OF THE 10 
-EDUCATION ARTICLE . 11 
+13–5502.  
  
- (C) “PROGRAM ” MEANS THE BUPRENORPHINE TRAINING GRANT 12 
-PROGRAM . 13 
+ (A) (1) THERE IS A BUPRENORPHINE TRAINING GRANT PROGRAM IN 
+THE DEPARTMENT . 
  
-13–5502.  14 
+  (2) THE PURPOSE OF THE PROGRAM IS TO  ASSIST  A COUNT Y WITH 
+OFFSETTING THE COST OF TRAINING PARAMEDI CS TO ADMINISTER 
+BUPRENORPHINE . 
  
- (A) (1) THERE IS A BUPRENORPHINE TRAINING GRANT PROGRAM IN 15 
-THE DEPARTMENT . 16 
+ (B) A COUNTY MAY APPLY TO THE DEPARTMENT  FOR A GRANT FROM THE  
+PROGRAM . 
  
-  (2) THE PURPOSE OF THE PROGRAM IS TO  ASSIST  A COUNT Y WITH 17 
-OFFSETTING THE COST OF TRAINING PARAMEDI CS TO ADMINISTER 18 
-BUPRENORPHINE . 19 
+ (C) A COUNTY MAY USE A GRA NT AWARDED UNDER THE PROGRAM  ONLY 
+FOR TRAINING PARAMED ICS TO ADMINISTER BUPRENORPHINE .  
  
- (B) A COUNTY MAY APPLY TO THE DEPARTMENT  FOR A GRANT FROM THE  20 
-PROGRAM . 21 
+ (D) THE GOVERNOR SHALL INCLUDE IN THE ANNUA L BUDGET BILL AN  
+APPROPRIATION OF AT LEAST $50,000  FROM THE  OPIOID RESTITUTION FUND FOR 
+THE PROGRAM .  
  
- (C) A COUNTY MAY USE A GRA NT AWARDED UNDER THE PROGRAM  ONLY 22 
-FOR TRAINING PARAMED ICS TO ADMINISTER BUPRENORPHINE .  23 
+Article – State Finance and Procurement  
  
- (D) THE GOVERNOR SHALL INCLUDE IN THE ANNUA L BUDGET BILL AN  24 
-APPROPRIATION OF AT LEAST $50,000  FROM THE  OPIOID RESTITUTION FUND FOR 25 
-THE PROGRAM .  26 
+7–331. 
  
-Article – State Finance and Procurement  27 
+ (a) In this section, “Fund” means the Opioid Restitution Fund.  
  
-7–331. 28 
+ (b) There is an Opioid Restitution Fund.  
  
- (a) In this section, “Fund” means the Opioid Restitution Fund.  29 
- HOUSE BILL 1131  3 
+ (c) The purpose of the Fund is to retain the amount of settlement revenues 
+deposited to the Fund in accordance with subsection (e)(1) of this section.  
  
-  
- (b) There is an Opioid Restitution Fund.  1 
+ (d) (1) The Fund is a special, nonlapsing fund that is not subject to § 7 –302 of 
+this subtitle.  
  
- (c) The purpose of the Fund is to retain the amount of settlement revenues 2 
-deposited to the Fund in accordance with subsection (e)(1) of this sect ion. 3 
+  (2) The State Treasurer shall hold the Fund separately, and the 
+Comptroller shall account for the Fund.  
  
- (d) (1) The Fund is a special, nonlapsing fund that is not subject to § 7 –302 of 4 
-this subtitle.  5 
+ (e) The Fund consists of:  
  
-  (2) The State Treasurer shall hold the Fund separately, and the 6 
-Comptroller shall account for the Fund.  7 
+ WES MOORE, Governor  Ch. 759  
  
- (e) The Fund consists of:  8 
+– 3 –   (1) all revenues received by the State from any sourc e resulting, directly or 
+indirectly, from any judgment against, or settlement with, opioid manufacturers, opioid 
+research associations, or any other person in the opioid industry relating to any claims 
+made or prosecuted by the State to recover damages for  violations of State law; and  
  
-  (1) all revenue s received by the State from any source resulting, directly or 9 
-indirectly, from any judgment against, or settlement with, opioid manufacturers, opioid 10 
-research associations, or any other person in the opioid industry relating to any claims 11 
-made or prosecut ed by the State to recover damages for violations of State law; and  12 
+  (2) the interest earnings of the Fund.  
  
-  (2) the interest earnings of the Fund.  13 
+ (f) The Fund may be used only to provide funds for:  
  
- (f) The Fund may be used only to provide funds for:  14 
+  (1) programs, services, supports, and resources for evidence –based 
+substance use disorder prevention, treatment, recovery, or h arm reduction that have the 
+purpose of:  
  
-  (1) programs, services, supports, and resources for evidence –based 15 
-substance use disorder  prevention, treatment, recovery, or harm reduction that have the 16 
-purpose of:  17 
+   (i) improving access to medications proven to prevent or reverse an 
+overdose, including by supporting the initiative to co –locate naloxone with automated 
+external defibrillators placed in public buildings under §  13–518 of the Education Article;  
  
-   (i) improving access to medications proven to prevent or reverse an 18 
-overdose, including by supporting the initiative to co –locate naloxone with automated 19 
-external defibrillat ors placed in public buildings under § 13 –518 of the Education Article;  20 
+   (ii) supporting peer support specialists and screening, brief 
+intervention, and referral to treatment services for hospitals, correctional facilities, and 
+other high –risk populations;  
  
-   (ii) supporting peer support specialists and screening, brief 21 
-intervention, and referral to treatment services for hospitals, correctional facilities, and 22 
-other high –risk populatio ns; 23 
+   (iii) increasing access to med ications that support recovery from 
+substance use disorders;  
  
-   (iii) increasing access to medications that support recovery from 24 
-substance use disorders;  25 
+   (iv) expanding the Heroin Coordinator Program, including for 
+administrative expenses;  
  
-   (iv) expanding the Heroin Coordinator Program, including for 26 
-administrative expenses;  27 
+   (v) expanding access to crisis beds and residential treatment 
+services for adults and minors;  
  
-   (v) expanding access to crisis beds and residential treatment 28 
-services for adults and minors;  29 
+   (vi) expanding and establishing safe stations, mobile crisis response 
+systems, and crisis stabilization centers;  
  
-   (vi) expanding and establishing safe stations, mobile crisis response 30 
-systems, and crisis stabilization centers;  31 
+   (vii) supporting the behavioral health crisis hotline;  
  
-4 HOUSE BILL 1131   
+   (viii)  organizing primary and secondary school education campaigns 
+to prevent opioid use, including for administrative expenses;  
  
-    (vii) supporting the behavioral health crisis hotline;  1 
+   (ix) enforcing the laws regarding opioid prescriptions and sales, 
+including for administrative expenses;  
  
-   (viii)  organizing primary and secondary school education campaigns 2 
-to prevent opioid use, including for administrative expenses;  3 
+   (x) research regarding and training for substance use treatment and 
+overdose prevention, inc luding for administrative expenses; and  
  
-   (ix) enforcing the laws regarding opioid prescriptions and sales, 4 
-including for administrative expenses;  5 
+   (xi) supporting and expanding other evidence –based interventions 
+for overdose prevention and substance use treatment;  
+Ch. 759  2025 LAWS OF MARYLAND   
  
-   (x) research regarding and training for substance use treatment and 6 
-overdose prevention, including for administrative expenses; and  7 
+– 4 –  
+  (2) supporting community –based nonprofit recovery organizations that 
+provide nonclinical su bstance use recovery support services in the State;  
  
-   (xi) supporting and expanding other evidence –based interventions 8 
-for overdose prevention and substance use treatment;  9 
+  (3) evidence –informed substance use disorder prevention, treatment 
+recovery, or harm reduction pilot programs or demonstration studies that are not  
+evidence –based if the Opioid Restitution Fund Adviso ry Council, established under §  
+7.5–902 of the Health – General Article:  
  
-  (2) supporting community –based nonprofit recovery org anizations that 10 
-provide nonclinical substance use recovery support services in the State;  11 
+   (i) determines that emerging evidence supports the distribution of 
+money for the pilot program or that there is a reasonable basis for funding the 
+demonstration study with the ex pectation of creating an evidence –based program; and  
  
-  (3) evidence –informed substance use disorder prevention, treatment 12 
-recovery, or harm reduction pilot programs or demonstration studies that are not  13 
-evidence –based if the Opioid Restitution Fund Advisory Council, established under §  14 
-7.5–902 of the Health – General Article:  15 
+   (ii) approves the use of money for the pilot program or demonstration 
+study; [and] 
  
-   (i) determines that emerging evidence supports the distribution of 16 
-money for the pilot program or that there is a reasonable b asis for funding the 17 
-demonstration study with the expectation of creating an evidence –based program; and  18 
+  (4) evaluations of the effectiveness and outcomes reporting for substance 
+use disorder abatement infrastructure, programs, services, supports, and resources for 
+which money from the Fund was used, including evaluations of the impact on access to 
+harm reduction services or treatment for substance use disorders and the reduction in 
+drug –related mortality ; AND  
  
-   (ii) approves the use of money for the pilot program or demonstration 19 
-study; [and] 20 
+  (5) THE BUPRENORPHINE TRAINING GRANT PROGRAM 
+ESTABLISHED UNDER § 13–5502  OF THE HEALTH – GENERAL ARTICLE . 
  
-  (4) evaluations of the effectiveness and outcomes reporting f or substance 21 
-use disorder abatement infrastructure, programs, services, supports, and resources for 22 
-which money from the Fund was used, including evaluations of the impact on access to 23 
-harm reduction services or treatment for substance use disorders and th e reduction in 24 
-drug –related mortality ; AND  25 
+ SECTION 2. AND BE IT FURTHER ENACTED, That:  
  
-  (5) THE BUPRENORPHINE TRAINING GRANT PROGRAM 26 
-ESTABLISHED UNDER § 13–5502  OF THE HEALTH – GENERAL ARTICLE . 27 
+ (a) The Maryland Office of Overdose Response shall convene a  workgroup to 
+study  access to  buprenorphine in the State.  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That:  28 
+ (b) The workgroup shall include:  
  
- (a) The Maryland Office of Overdose Response shall convene a  workgroup to 29 
-study  access to  buprenorphine in the State.  30 
+  (1) one member of the Senate  of Maryland, appointed by the  President of 
+the Senate ; 
  
- (b) The workgroup shall include:  31 
+  (2) one member of the House of Delegates , appointed by the Speaker  of the 
+House ; and 
  
-  (1) one member of the Senate  of Maryland, appointed by the  President of 32 
-the Senate ; 33 
- HOUSE BILL 1131  5 
+  (3) representatives of : 
  
-  
-  (2) one member of the House of Delegates , appointed by the Speak er of the 1 
-House ; and 2 
+   (i) the Maryland Institute of Emergency Medical Services Systems;  
  
-  (3) representatives of : 3 
+   (ii) the Behavioral Health Administration;  
  
-   (i) the Maryland Institute of Emergency Medical Services Systems;  4 
+   (iii) hospitals;  
  
-   (ii) the Behavioral Health Administration;  5 
+ WES MOORE, Governor  Ch. 759  
  
-   (iii) hospitals;  6 
+– 5 –    (iv) local behavioral health agencies; and  
  
-   (iv) local behavioral health agencies; and  7 
+   (v) the Maryland Association of Counties.  
  
-   (v) the Maryland Association of Counties.  8 
+ (c) The workgroup shall examine:  
  
- (c) The workgroup shall examine:  9 
+  (1) how buprenorphine services are offered in the State;  
  
-  (1) how buprenorphine services are offered in the State;  10 
+  (2) the capacity of providers to provide buprenorphine ;  
  
-  (2) the capacity of providers to provide buprenorphine ;  11 
+  (3) any geographic areas where significant gaps in buprenorphine services 
+may exist;  
  
-  (3) any geographic areas where significant gaps in buprenorphine services  12 
-may exist;  13 
+  (4) the feasibility of financial support for a long –term expansion of 
+buprenorphine services;  
  
-  (4) the feasibility of financial support for a long –term expansion of 14 
-buprenorphine services;  15 
+  (5) a plan for ongoing data collection for the purpose of the monitoring and 
+improvement of buprenorphine services;  
  
-  (5) a plan for ongoing data collection for the purpose of the monitoring and 16 
-improvement of buprenorphine services;  17 
+  (6) how to effectively grow a hub –and–spoke  model to ensure access to 
+buprenorphine in the State ; and  
  
-  (6) how to effectively grow a hub –and–spoke model to ensure access to 18 
-buprenorphine in the State ; and  19 
+  (7) any other strategies that would improve buprenorphine services  in the 
+State .  
  
-  (7) any other strategies that would improve buprenorphine services  in the 20 
-State .  21 
+ (d) On or before December 31, 2025, the Maryland Office of Overdose Response 
+shall submit a report on the findings and recommendations of the workgroup, including the 
+need for any statutory changes , to the Governor  and, in accordance with § 2 –1257 of the 
+State Government Article , the Senate Finance Committee and the  House Health an d 
+Government Operations Committee.  
  
- (d) On or before December 31, 2025, the Maryland Office of Overdose Response 22 
-shall submit a report on the findings and recommendations of the workgroup, including the 23 
-need for any statutory changes , to the Governor  and, in accordance with § 2 –1257 of the 24 
-State Government Article , the Senate Finance Committee and the  House Health an d 25 
-Government Operations Committee.  26 
+ SECTION 3. AND BE IT FURTHER ENACTED, That Section 1 of this Act shall take 
+effect October 1, 2025.  Section 1 of this Act shall remain in effect for a period of 5 years and, 
+at the end of September 30, 2030, Section 1 of this Act, with no further action required by 
+the General Assembly, shall be abrogated and of no further force and effect.  
  
- SECTION 3. AND BE IT FURTHER ENACTED, That Section 1 of this Act shall take 27 
-effect October 1, 2025.  Section 1 of this Act shall remain in effect for a period of 5 years and, 28 
-at the end of September 30, 2030, Section 1 of this Act, with no further action required by 29 
-the General Assembly, shall be abrogated and of no further force and effect.  30 
-6 HOUSE BILL 1131   
+ SECTION 4. AND BE IT FURTHER ENACTED, That , except as provided in Section 
+3 of this Act,  this Act shall take effect July 1, 2025.  Section 2 of this Act  shall remain 
+effective for a period of 1 year and, at the end of  June 30, 202 6, Section 2 of this Act, with 
+no further action required by the General Assembly, shall be abrogated and of no further 
+force and effect.  
  
-  
- SECTION 4. AND BE IT FURTHER ENACTED, That , except as provided in Section 1 
-3 of this Act,  this Act shall take effect July 1, 2025.  Section 2 of this Act  shall remain 2 
-effective for a period of 1 year and, at the end of  June 30, 202 6, Section 2 of this Act, with 3 
-no further action required by the General Assembly, shall be abrogated and of no further 4 
-force and effect.  5 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 20, 2025.  

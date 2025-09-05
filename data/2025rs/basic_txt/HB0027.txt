@@ -1,482 +1,456 @@
+ WES MOORE, Governor  Ch. 224  
  
+– 1 – Chapter 224  
+(House Bill 27 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0027*      
-HOUSE BILL 27  
-N2   5lr1555  
-  (PRE –FILED)  CF SB 19  
-By: Delegate Cardin  
-Requested: October 31, 2024  
-Introduced and read first time: January 8, 2025  
-Assigned to: Judiciary  
-Committee Report: Favorable  
-House action: Adopted  
-Read second time: February 18, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Estates and Trusts – Compensation of Guardians of Property and Trustees  
  
-AN ACT concerning  1 
+FOR the purpose of clarifying the commissions that a guardian of the property may charge; 
+authorizing a trustee of a trust to charge compensation that is reasonable under the 
+circumstances; authorizing certain trustees to charge compensation that is 
+reasonable under the circumstances and calculated in accord ance with a certain 
+schedule of rates; and generally relating to the compensation of guardians of 
+property and trustees of trusts.  
  
-Estates and Trusts – Compensation of Guardians of Property and Trustees  2 
+BY repealing and reenacting, with amendments,  
+ Article – Estates and Trusts  
+Section 13 –218, 14.5 –708, 15 –511(3), 15 –523, 15–524(a), and 15 –526(b)(5)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of clarifying the commissions that a guardian of the property may charge; 3 
-authorizing a trustee of a trust to charge compensation that is reasonable under the 4 
-circumstances; authorizing certain trustees to charge compensation that is 5 
-reasonable under the circumstances and c alculated in accordance with a certain 6 
-schedule of rates; and generally relating to the compensation of guardians of 7 
-property and trustees of trusts.  8 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  9 
- Article – Estates and Trusts  10 
-Section 13 –218, 14.5 –708, 1 5–511(3), 15 –523, 15 –524(a), and 15 –526(b)(5)  11 
- Annotated Code of Maryland  12 
- (2022 Replacement Volume and 2024 Supplement)  13 
+Article – Estates and Trusts  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 14 
-That the Laws of Maryland read as follows:  15 
+13–218. 
  
-Article – Estates and Trust s 16 
+ (a) (1) Except in unusual circumstances and as provided in subsection [(b)] 
+(C) of this section, the guardian is entitled to [the same ] compensation and reimbursement 
+for actual and necessary expenses as [the trustee of a trust ] PROVIDED IN SUBSECTI ON 
+(B) OF THIS SECTION . 
  
-13–218. 17 
+  (2) No petition or hearing is required to entitle the guardian to 
+compensation and expenses.  
  
- (a) (1) Except in unusual circumstances and as provided in subsection [(b)] 18 
-(C) of this section, the guardian is entitled to [the same ] compensation and reimbursement 19 
-2 HOUSE BILL 27   
+  (3) On the petition of any interested person and on a finding by the court 
+that unusual circumstances exist, the  court may increase or decrease compensation.  
  
- for actual and necessary expenses as [the trustee of a trust ] PROVIDED IN SUBSECTI ON 1 
-(B) OF THIS SECTION . 2 
+ (B) (1) (I) ACCOUNTING FROM JULY 1, 1981,  REGARDLESS OF 
+WHETHER THE GUARDIAN SHIP ESTATE WAS IN E XISTENCE AT THE TIME , INCOME 
+COMMISSIONS ARE : 
  
-  (2) No petition or hearing is required to entitle the guardian to 3 
-compensation and expenses.  4 
+    1. 6% ON ALL INCOME FROM R EAL ESTATE , GROUND 
+RENTS , AND MORTG AGES COLLECTED IN EA CH YEAR ; AND 
  
-  (3) On the petition of any interested person and on a finding by the court 5 
-that unusual circumstances exist, the  court may increase or decrease compensation.  6 
+Ch. 224 2025 LAWS OF MARYLAND   
  
- (B) (1) (I) ACCOUNTING FROM JULY 1, 1981,  REGARDLESS OF 7 
-WHETHER THE GUARDIAN SHIP ESTATE WAS IN E XISTENCE AT THE TIME , INCOME 8 
-COMMISSIONS ARE : 9 
+– 2 –     2. A. 6.5%  ON THE FIRST $10,000  OF ALL OTHER 
+INCOME COLLECTED IN EACH YEAR ; 
  
-    1. 6% ON ALL INCOME FROM R EAL ESTATE , GROUND 10 
-RENTS , AND MORTG AGES COLLECTED IN EA CH YEAR ; AND 11 
+    B. 5% ON THE NEXT $10,000;  
  
-    2. A. 6.5%  ON THE FIRST $10,000  OF ALL OTHER 12 
-INCOME COLLECTED IN EACH YEAR ; 13 
+    C. 4% ON THE NEXT $10,000;  AND 
  
-    B. 5% ON THE NEXT $10,000;  14 
+    D. 3% ON ANY REMAINDER . 
  
-    C. 4% ON THE NEXT $10,000;  AND 15 
+   (II) INCOME COMMISSIONS SH ALL BE PAID FROM AND 
+CHARGEABLE AGAINST I NCOME . 
  
-    D. 3% ON ANY REMAINDER . 16 
+   (III) INCOME COLLECTED INCL UDES A PORTION OF IN COME 
+PAYABLE TO A TRUSTEE  BUT WITHHELD BY THE PAYOR IN COMPLIANCE WITH 
+REVENUE LAW .  
  
-   (II) INCOME COMMISSIONS SH ALL BE PAID FRO M AND 17 
-CHARGEABLE AGAINST I NCOME . 18 
+  (2) (I) ACCOUNTING FROM JULY 1, 1981,  REGARDLESS OF 
+WHETHER THE GUARDIAN SHIP ESTA TE WAS IN EXISTENCE AT THE TIME , 
+COMMISSIONS ARE PAYA BLE AT THE END OF EA CH YEAR ON THE FAIR VALUE OF THE 
+CORPUS OR PRINCIPAL HELD IN THE GUARDIAN SHIP ESTATE AT THE E ND OF EACH 
+YEAR AS FOLLOWS : 
  
-   (III) INCOME COLLECTED INCL UDES A PORTION OF IN COME 19 
-PAYABLE TO A TRUSTEE  BUT WITHHELD BY THE PAYOR IN COMPLIANCE WITH 20 
-REVENUE LAW .  21 
+    1. 0.4%  ON THE FIRST $250,000;  
  
-  (2) (I) ACCOUNTING FROM JULY 1, 1981,  REGARDLESS OF 22 
-WHETHER THE GUARDIAN SHIP ESTATE WAS IN EXISTENCE AT THE TIME , 23 
-COMMISSIONS ARE PAYA BLE AT THE END OF EA CH YEAR ON THE FAIR VALUE OF THE 24 
-CORPUS OR PRINCIPAL HELD IN THE GUARDIAN SHIP ESTATE AT THE E ND OF EACH 25 
-YEAR AS FOLLOWS : 26 
+    2. 0.25%  ON THE NEXT $250,000;  
  
-    1. 0.4%  ON THE FIRST $250,000;  27 
+    3. 0.15%  ON THE NEXT $500,000;  AND 
  
-    2. 0.25%  ON THE NEXT $250,000;  28 
+    4. 0.1%  ON ANY EXCESS . 
  
-    3. 0.15%  ON THE NEXT $500,000;  AND 29 
+   (II) CORPUS COMMISSIONS UN DER THIS PARAGRAPH S HALL BE 
+PAID OUT OF AND CHAR GEABLE AGAINST THE C ORPUS . 
  
- HOUSE BILL 27  3 
+   (III) IF A GUARDIANSHIP EST ATE TERMINATES , WITH RESPECT 
+TO ALL OR PAR T OF THE CORPUS HELD  IN THE GUARDIANSHIP ESTATE IN THE 
+COURSE OF A YEAR , THE COMMISSION FOR T HAT YEAR SHALL BE RE DUCED OR 
+PRORATED ACCORDING T O THE PART OF THE YE AR ELAPSED AND THE A MOUNT OF 
+CORPUS AS TO WHICH T HE GUARDIANSHIP ESTA TE TERMINATES , AND BE 
+CHA RGEABLE , FOR THAT PART OF THE  YEAR , AND WITH RESPECT TO THIS PART OF 
+THE CORPUS , AT THE TERMINATION O F THE GUARDIANSHIP E STATE , ON THE THEN 
+VALUE OF THE CORPUS . 
  
-     4. 0.1%  ON ANY EXCESS . 1 
+ WES MOORE, Governor  Ch. 224  
  
-   (II) CORPUS COMMISSIONS UN DER THIS PARAGRAPH S HALL BE 2 
-PAID OUT OF AND CHAR GEABLE AGAINST THE C ORPUS . 3 
+– 3 –   (3) (I) FOR SELLING REAL OR L EASEHOLD PROPERTY , A 
+COMMISSION ON THE PR OCEEDS OF THE SALE I S PAYABLE AT THE RATE ALLOWED 
+BY RULE OF COURT OR STATUTE TO GUARDIANS  APPOINTED TO MAKE SA LES UNDER 
+DECREES OR ORDERS OF  THE COURT FOR THE CO UNTY WHERE THE REAL OR 
+LEASEHOLD PROPERTY I S SITUATED , OR IF THE PROPERTY I S LOCATED OUTSIDE OF  
+THIS STATE , FOR SELL ING SIMILAR PROPERTY  IN THE COUNTY WHERE THE 
+GUARDIANSHIP ESTATE IS BEING ADMINISTERE D. 
  
-   (III) IF A GUARDIANSHIP EST ATE TERMINATES , WITH RESPECT 4 
-TO ALL OR PART OF THE CORPUS HELD I N THE GUARDIANSHIP E STATE IN THE 5 
-COURSE OF A YEAR , THE COMMISSION FOR T HAT YEAR SHALL BE RE DUCED OR 6 
-PRORATED ACCORDING T O THE PART OF THE YE AR ELAPSED AND THE A MOUNT OF 7 
-CORPUS AS TO WHICH T HE GUARDIANSHIP ESTA TE TERMINATES , AND BE 8 
-CHARG EABLE , FOR THAT PART OF THE  YEAR , AND WITH RESPECT TO THIS PART OF 9 
-THE CORPUS , AT THE TERMINATION O F THE GUARDIANSHIP E STATE , ON THE THEN 10 
-VALUE OF THE CORPUS . 11 
+   (II) THE COMMISSION DESCRI BED IN SUBPARAGRAPH (I) OF 
+THIS PARAGRAPH IS PA YABLE FROM THE PROCE EDS OF THE SALE WHEN  
+COLLECTED . 
  
-  (3) (I) FOR SELLING REAL OR L EASEHOLD PROPERTY , A 12 
-COMMISSION ON THE PR OCEEDS OF THE SALE I S PA YABLE AT THE RATE AL LOWED 13 
-BY RULE OF COURT OR STATUTE TO GUARDIANS  APPOINTED TO MAKE SA LES UNDER 14 
-DECREES OR ORDERS OF  THE COURT FOR THE CO UNTY WHERE THE REAL OR 15 
-LEASEHOLD PROPERTY I S SITUATED , OR IF THE PROPERTY I S LOCATED OUTSIDE OF  16 
-THIS STATE , FOR SELLIN G SIMILAR PROPERTY I N THE COUNTY WHERE T HE 17 
-GUARDIANSHIP ESTATE IS BEING ADMINISTERE D. 18 
+  (4) (I) ON THE FINAL DISTRIBU TION OF  A GUARDIANSHIP ESTAT E 
+OR PORTION OF A GUAR DIANSHIP ESTATE , AN ALLOWANCE IS PAYA BLE 
+COMMENSURATE WITH TH E LABOR AND RESPONSI BILITY INVOLVED IN M AKING THE 
+DISTRIBUTION , INCLUDING THE MAKING  OF A DIVISION , THE ASCERTAINMENT OF  
+THE PARTIES ENTITLED  TO THE DIS TRIBUTION , THE ASCERTAINMENT AN D 
+PAYMENT OF TAXES , AND ANY NECESSARY TR ANSFER OF ASSETS . 
  
-   (II) THE COMMISSION DESCRI BED IN SUBPARAGRAPH (I) OF 19 
-THIS PARAGRAPH IS PA YABLE FROM THE PROCE EDS OF THE SALE WHEN  20 
-COLLECTED . 21 
+   (II) THE ALLOWANCE DESCRIB ED IN SUBPARAGRAPH (I) OF 
+THIS PARAGRAPH IS SU BJECT TO REVISION OR  DETERMINATION BY A C OURT 
+HAVING JURISDICTION . 
  
-  (4) (I) ON THE FINAL DISTRIBU TION OF A  GUARDIANSHIP ESTATE 22 
-OR PORTION OF A GUAR DIANSHIP ESTATE , AN ALLOWANCE IS PAYA BLE 23 
-COMMENSURATE WITH TH E LABOR AND RESPONSI BILITY INVOLVED IN M AKING THE 24 
-DISTRIBUTION , INCLUDING THE MAKING  OF A DIVISION , THE ASCERTAINMENT OF  25 
-THE PARTIES ENTITLED  TO THE DISTR IBUTION , THE ASCERTAINMENT AN D 26 
-PAYMENT OF TAXES , AND ANY NECESSARY TR ANSFER OF ASSETS . 27 
+   (III) IN THE ABSENCE  OF SPECIAL CIRCUMSTA NCES , THE 
+ALLOWANCE DESCRIBED IN SUBPARAGRAPH (I) OF THIS PARAGRAPH SH ALL BE 
+EQUAL TO 0.5%  OF THE FAIR VALUE OF  THE CORPUS THAT IS D ISTRIBUTED . 
  
-   (II) THE ALLOWANCE DESCRIB ED IN SUBPARAGRAPH (I) OF 28 
-THIS PARAGRAPH IS SU BJECT TO REVISION OR  DETERMINATION BY A C OURT 29 
-HAVING JURISDICTION . 30 
+  (5) A GUARDIAN MAY PETITIO N THE COURT FOR THE COUNTY WHERE 
+THE GUARDIANSHIP EST ATE IS LO CATED AND OBTAIN APP ROVAL FOR AN INCREAS E 
+IN FEES AFTER GIVING  NOTICE OF THE ACTION  TO THE INTERESTED PA RTIES OF THE 
+GUARDIANSHIP ESTATE . 
  
-   (III) IN THE ABSENCE O F SPECIAL CIRCUMSTAN CES, THE 31 
-ALLOWANCE DESCRIBED IN SUBPARAGRAPH (I) OF THIS PARAGRAPH SH ALL BE 32 
-EQUAL TO 0.5%  OF THE FAIR VALUE OF  THE CORPUS THAT IS D ISTRIBUTED . 33 
+  (6) THE LEGAL AND COURT C OSTS INCURRED BY THE  GUARDIAN IN 
+ACCORDANCE WITH A CO URT REVIEW UNDER PAR AGRAPH (5) OF THI S SUBSECTION 
+SHALL BE CHARGED AGA INST FEES OF THE GUA RDIAN AND MAY NOT BE  ASSUMED 
+BY THE GUARDIANSHIP ESTATE OR THE INTERE STED PARTIES . 
  
-  (5) A GUARDIAN MAY PETITIO N THE COURT FOR THE COUNTY WHERE 34 
-THE GUARDIANSHIP EST ATE IS LOCA TED AND OBTAIN APPRO VAL FOR AN INCREASE 35 
-4 HOUSE BILL 27   
+ [(b)] (C) If the guardian is appointed as the guardian of a disabled person who 
+is a recipient of long –term care servi ces and supports under the Maryland Medical 
+Assistance Program and whose income is subject to § 15 –122.3 of the Health – General 
+Article, the guardian is not entitled to receive more than $50 per month in compensation 
+unless the court makes a finding that unusual circumstances exist.  
  
- IN FEES AFTER GIVING  NOTICE OF THE ACTION  TO THE INTERESTED PA RTIES OF THE 1 
-GUARDIANSHIP ESTATE . 2 
+Ch. 224 2025 LAWS OF MARYLAND   
  
-  (6) THE LEGAL AND COURT C OSTS INCURRED BY THE  GUARDIAN IN 3 
-ACCORDANCE WITH A CO URT REVIEW UNDER PAR AGRAPH (5) OF THIS SUBSECTION 4 
-SHALL BE CHARGED AGA INST FEES OF THE GUA RDIAN AND MAY NOT BE  ASSUMED 5 
-BY THE GUARDIANSHIP ESTATE OR THE INTERE STED PARTIES . 6 
+– 4 – 14.5–708. 
  
- [(b)] (C) If the guardian is appointed as the guardian of a disabled person who 7 
-is a recipient of long –term care service s and supports under the Maryland Medical 8 
-Assistance Program and whose income is subject to § 15 –122.3 of the Health – General 9 
-Article, the guardian is not entitled to receive more than $50 per month in compensation 10 
-unless the court makes a finding that un usual circumstances exist.  11 
+ [(a) (1) (i) A testamentary trustee and trustee of any other trust whose 
+duties comprise the collection and distribution of income from property held under a trust 
+agreement or the preservation and distribution of the property are entitled to commissions 
+provided for in this section for services in administering the trusts.  
  
-14.5–708. 12 
+   (ii) The amount and source of payment of commissions are subject to 
+the provisions of any valid agreement.  
  
- [(a) (1) (i) A testamentary trustee and trustee of any other trust whose 13 
-duties comprise the collection and distribution of income from property held under a trust 14 
-agreement or the preservation and distribution of th e property are entitled to commissions 15 
-provided for in this section for services in administering the trusts.  16 
+   (iii) A court having jurisdic tion over the administration of the trust 
+may increase or diminish commissions for sufficient cause or may allow special 
+commissions or compensation for services of an unusual nature.  
  
-   (ii) The amount and source of payment of commissions are subject to 17 
-the provisions of any valid agreement.  18 
+  (2) A schedule of increased rates of income commissions and corpus 
+commissions may be charged by a trustee whose activities are subject to State or federal 
+supervision or that is a member of the Maryland Bar and who has:  
  
-   (iii) A court having jurisdiction over the administration of the trust 19 
-may increase or diminish commissions for sufficient cause or may allow special 20 
-commissions or compensation for services of an unusual nature.  21 
+   (i) Filed a schedule of the increased rates of commissions with an 
+appropriate agency; and  
  
-  (2) A schedule of increased rates of income commissions and c orpus 22 
-commissions may be charged by a trustee whose activities are subject to State or federal 23 
-supervision or that is a member of the Maryland Bar and who has:  24 
+   (ii) Given notice of the scheduled rates or revisions to the qualified 
+beneficiaries of the affected trust.  
  
-   (i) Filed a schedule of the increased rates of commissions with an 25 
-appropriate agency; and  26 
+  (3) The notice required under paragraph (2) of this subsection shall be 
+delivered to the qualified beneficiaries personally or sent to the qualified b eneficiaries at 
+their last known address by certified mail, postage prepaid, return receipt requested.  
  
-   (ii) Given notice of the scheduled rates or revisions to the qualified 27 
-beneficiaries of the affected trust.  28 
+ (b) (1) Accounting from July 1, 1981, regardless of whether the trust was in 
+existence at that time, income commissions are:  
  
-  (3) The notice required under paragraph (2) of this subsection shall be 29 
-delivered to the qualified beneficiaries personally or sent to the qua lified beneficiaries at 30 
-their last known address by certified mail, postage prepaid, return receipt requested.  31 
+   (i) 6% on all income from real estate, ground rents, and mortgages 
+collected in each year; and  
  
- (b) (1) Accounting from July 1, 1981, regardless of whether the trust was in 32 
-existence at that time, income commissions are:  33 
+   (ii) 1. 6.5% on the first $10,000 of all other income collected in 
+each year;  
  
- HOUSE BILL 27  5 
+    2. 5% on the next $10,000;  
  
-    (i) 6% on all income from real estate, ground rents, and mortgages 1 
-collected in each year; and  2 
+    3. 4% on the next $10,000; and  
  
-   (ii) 1. 6.5% on the first $10,000 of all other income collected in 3 
-each year;  4 
+    4. 3% on any remainder.  
  
-    2. 5% on the next $10,000;  5 
+  (2) (i) Income commissions shall be paid from and chargeable against 
+income.  
  
-    3. 4% on the next $10,000; and  6 
+ WES MOORE, Governor  Ch. 224  
  
-    4. 3% on any remaind er. 7 
+– 5 –    (ii) Income collected includes a portion of income payable to a trustee 
+but withheld by the payor in compliance with revenue law.  
  
-  (2) (i) Income commissions shall be paid from and chargeable against 8 
-income.  9 
+ (c) (1) Accounting from July 1, 1981, regar dless of whether the trust was in 
+existence at that time, commissions are payable at the end of each year on the fair value of 
+the corpus or principal held in trust at the end of each year as follows:  
  
-   (ii) Income collected includes a portion of income payable to a trustee 10 
-but withheld by the payor in compliance with revenue law.  11 
+   (i) 0.4% on the first $250,000;  
  
- (c) (1) Accounting from July 1, 1981, regardless of whether the trust was in 12 
-existence at that time, commissions are payable at the end of each year on the fair value of 13 
-the corpus or principal held in trust at the end of each year as follows:  14 
+   (ii) 0.25% on t he next $250,000;  
  
-   (i) 0.4% on the first $250,000;  15 
+   (iii) 0.15% on the next $500,000; and  
  
-   (ii) 0.25% on the next $250,000;  16 
+   (iv) 0.1% on any excess.  
  
-   (iii) 0.15% on the next $500,000; and  17 
+  (2) Corpus commissions under this subsection shall be paid out of and 
+chargeable against the corpus.  
  
-   (iv) 0.1% on any excess.  18 
+  (3) If a trust terminates, with respect to all or part of the corpus held in 
+trust in the course of a year, the commission for that year shall be reduced or prorated 
+according to the part of the year elapsed and the amount of corpus as to which the trust 
+terminates, and be chargeable, for that part of the year, a nd with respect to this part of the 
+corpus, at the termination of the trust, on the then value of the corpus.  
  
-  (2) Corpus commissions under this subsection shall be paid out of and 19 
-chargeable against the corpus.  20 
+ (d) (1) For selling real or leasehold property, a commission on the proceeds of 
+the sale is payable at the rate allowed by rule of court or stat ute to trustees appointed to 
+make sales under decrees or orders of the circuit court for the county where the real or 
+leasehold property is situated, or if the property is located outside Maryland, for selling 
+similar property in the county where the trust  is being administered.  
  
-  (3) If a trust terminates, with respect to all or  part of the corpus held in 21 
-trust in the course of a year, the commission for that year shall be reduced or prorated 22 
-according to the part of the year elapsed and the amount of corpus as to which the trust 23 
-terminates, and be chargeable, for that part of th e year, and with respect to this part of the 24 
-corpus, at the termination of the trust, on the then value of the corpus.  25 
+  (2) The commission described in paragraph (1) of this subsection is payable 
+from the proceeds of the sale when collected.  
  
- (d) (1) For selling real or leasehold property, a commission on the proceeds of 26 
-the sale is payable at the rate allowed by rule of cour t or statute to trustees appointed to 27 
-make sales under decrees or orders of the circuit court for the county where the real or 28 
-leasehold property is situated, or if the property is located outside Maryland, for selling 29 
-similar property in the county where the trust is being administered.  30 
+ (e) (1) On the final distribution of a trust estate or a portion of a trust estate, 
+an allowance is payab le commensurate with the labor and responsibility involved in 
+making the distribution, including the making of a division, the ascertainment of the 
+parties entitled to the distribution, the ascertainment and payment of taxes, and any 
+necessary transfer of assets.  
  
-  (2) The commission described in paragraph (1) of this subsection is payable 31 
-from the proceeds of the sale when collected.  32 
-6 HOUSE BILL 27   
+  (2) The allowance described in paragraph (1) of this subsection is subject 
+to revision or determination by a circuit court having jurisdiction.  
  
-  
- (e) (1) On the final distribution of a trust estate or a portion of a trust estate, 1 
-an allowance  is payable commensurate with the labor and responsibility involved in 2 
-making the distribution, including the making of a division, the ascertainment of the 3 
-parties entitled to the distribution, the ascertainment and payment of taxes, and any 4 
-necessary tra nsfer of assets.  5 
+  (3) In the absence of special circumstances, the allowance described in 
+paragraph (1) of this subs ection shall be equal to 0.5% of the fair value of the corpus that 
+is distributed. ] 
  
-  (2) The allowance described in paragraph (1) of this subsection is subject 6 
-to revision or determination by a circuit court having jurisdiction.  7 
+Ch. 224 2025 LAWS OF MARYLAND   
  
-  (3) In the absence of special circumstances, the allowance described in 8 
-paragraph (1) of this subsection shall be equal to 0.5% of the fair value of the corpus that 9 
-is distributed. ] 10 
+– 6 –  (A) (1) IF THE TERMS OF A TRU ST DO NOT SPECIFY A TRUSTEE ’S 
+COMPENSATION , THE TRUSTEE IS ENTIT LED TO COMPENSATION THAT IS 
+REASONABLE UNDER THE  CIRCUMSTANCES . 
  
- (A) (1) IF THE TERMS OF A TRU ST DO NOT SPECIFY A TRUSTEE ’S 11 
-COMPENSATION , THE TRUSTEE IS ENTIT LED TO COMPENSATION THAT IS 12 
-REASONABLE UNDER THE  CIRCUMSTANCES . 13 
+  (2) IF THE  TERMS OF A TRUST SPE CIFY A TRUSTEE ’S COMPENSATION , 
+THE TRUSTEE IS ENTIT LED TO BE COMPENSATE D AS SPECIFIED IN TH E TERMS , BUT 
+THE COURT MAY AUTHOR IZE MORE OR LESS COM PENSATION IF : 
  
-  (2) IF THE TERMS OF A TRU ST SPECIFY A TRUSTEE ’S COMPENSATION , 14 
-THE TRUSTEE IS ENTIT LED TO BE COMPENSATE D AS SPECIFIED IN TH E TERMS , BUT 15 
-THE COURT MAY AUTHOR IZE MORE OR LESS COM PENSATION IF : 16 
+   (I) THE DUTIES OF THE TRU STEE ARE SUBSTANTIAL LY 
+DIFFERENT FROM THOSE  CONT EMPLATED WHEN THE TR UST WAS FIRST CREATE D; 
+OR 
  
-   (I) THE DUTIES OF THE TRU STEE ARE SUBSTANTIAL LY 17 
-DIFFERENT FROM THOSE CONTEMPLATED W HEN THE TRUST WAS FI RST CREATED ; 18 
-OR 19 
+   (II) THE COMPENSATION SPEC IFIED BY THE TERMS O F THE 
+TRUST WOULD BE UNREA SONABLY LOW OR HIGH . 
  
-   (II) THE COMPENSATION SPEC IFIED BY THE TERMS O F THE 20 
-TRUST WOULD BE UNREA SONABLY LOW OR HIGH . 21 
+  (3) IF THE TRUSTEE HAS RE NDERED OTHER SERVICE S IN 
+CONNECTION WITH THE ADMINISTRATION OF TH E TRUST , THE TRUSTEE  SHALL ALSO 
+BE ALLOWED REASONABL E COMPENSATION FOR T HE OTHER SERVICES RE NDERED 
+IN ADDITION TO REASO NABLE COMPENSATION A S TRUSTEE . 
  
-  (3) IF THE TRUSTEE HAS RE NDERED OTHER SERVICE S IN 22 
-CONNECTION WITH THE ADMINISTRATION OF TH E TRUST , THE TRUSTEE SHALL ALS O 23 
-BE ALLOWED REASONABL E COMPENSATION FOR T HE OTHER SERVICES RE NDERED 24 
-IN ADDITION TO REASO NABLE COMPENSATION A S TRUSTEE . 25 
+ (B) IN DETERMINING WHETHE R A TRUSTEE ’S COMPENSATION IS 
+REASONABLE , A COURT SHALL CONSID ER: 
  
- (B) IN DETERMINING WHETHE R A TRUSTEE ’S COMPENSATION IS 26 
-REASONABLE , A COURT SHALL CONSID ER: 27 
+  (1) THE VALUE AND CHARACT ER OF  THE TRUST PROPERTY ; 
  
-  (1) THE VALUE AND CHARACTER OF THE TRU ST PROPERTY ; 28 
+  (2) THE RISK AND RESPONSI BILITY OF ADMINISTER ING THE TRUST 
+PROPERTY ; 
  
-  (2) THE RISK AND RESPONSI BILITY OF ADMINISTER ING THE TRUST 29 
-PROPERTY ; 30 
+  (3) THE TIME SPENT ON AND  THE QUALITY AND CHAR ACTER OF THE 
+SERVICES PROVIDED BY  THE TRUSTEE ; 
  
-  (3) THE TIME SPENT ON AND  THE QUALITY AND CHAR ACTER OF THE 31 
-SERVICES PROVIDED BY  THE TRUSTEE ; 32 
- HOUSE BILL 27  7 
+  (4) THE CHARACTER AND COS T OF SERVICES PROVID ED BY OTHERS ; 
  
-  
-  (4) THE CHARACTER AND COS T OF SERVICES PROVID ED BY O THERS ; 1 
+  (5) THE TRUSTEE ’S SKILL AND EXPERIEN CE; 
  
-  (5) THE TRUSTEE ’S SKILL AND EXPERIEN CE; 2 
+  (6) THE RESULTS OBTAINED BY THE TRUSTEE ; 
  
-  (6) THE RESULTS OBTAINED BY THE TRUSTEE ; 3 
+  (7) THE TERMS OF THE TRUS T; AND 
  
-  (7) THE TERMS OF THE TRUS T; AND 4 
+  (8) ANY OTHER FACTOR THE COURT CONSIDERS RELE VANT . 
  
-  (8) ANY OTHER FACTOR THE COURT CONSIDERS RELE VANT . 5 
+ WES MOORE, Governor  Ch. 224  
  
- [(f)] (C) (1) In determining what is a single trust for the application  of the 6 
-rates provided in this section, all property held undivided under the terms of the will or 7 
-other instrument creating the trust shall be considered as a single trust.  8 
+– 7 –  [(f)] (C) (1) In determining what is a single trust for the application of the 
+rates provided in this section, all property held undivided under the terms of the will or 
+other instrument creating the trust shall be considered as a single trust.  
  
-  (2) After shares have been set apart or divided in accordance with 9 
-paragraph (1) of this subsection, to be held in separate trust, each separate trust set apart 10 
-shall be considered as a single trust.  11 
+  (2) After shares have been set apart or divided in accordance with 
+paragraph (1) of this subsection, to be held in separate trust, each separate trust set apart 
+shall be considered as a single trust.  
  
- [(g)] (D) (1) [Instead of the rates of income commissions and corpus 12 
-commissions provided in subsections (b) and (c) of this sectio n, a] A trustee may charge 13 
-[reasonable ] compensation THAT IS REASONABLE U NDER THE CIRCUMSTANC ES AND  14 
-calculated in accordance with a schedule of rates previously filed by the trustee with the 15 
-appropriate agency as specified in paragraph (2) of this subsecti on, if the trustee is:  16 
+ [(g)] (D) (1) [Instead of the rates of income commissions and corpus 
+commissions provided in subsections (b) and (c) of this section, a ] A trustee may charge 
+[reasonable ] compensation THAT IS REASONABLE U NDER THE CIRCUMSTANC ES AND  
+calculated in accordance with a schedule of rates previously filed by the trustee with the 
+appropriate agency as specified in paragraph (2) of this subsection, if the t rustee is:  
  
-   (i) A financial institution whose activities are subject to supervision 17 
-by this State or the federal government or that is an instrumentality of the United States; 18 
-or 19 
+   (i) A financial institution whose activities are subject to supervision 
+by this State or the federal government or that is an instrumentality of the United States; 
+or 
  
-   (ii) A member of the Maryland Bar.  20 
+   (ii) A member of the Maryland Bar.  
  
-  (2) A trustee shall file a schedule of rates under this subsection as follows:  21 
+  (2) A trustee shall file a sched ule of rates under this subsection as follows:  
  
-   (i) For a savings and loan association, with the State Director of the 22 
-Division of Savings and Loan Associations;  23 
+   (i) For a savings and loan association, with the State Director of the 
+Division of Savings and Loan Associations;  
  
-   (ii) For all other trustees, including attorneys and State chartered 24 
-and na tional banks, with the Commissioner of Financial Regulation; and  25 
+   (ii) For all other trustees, including attorneys and State chartered 
+and national banks, with the Commissioner of Financial Regulation; and  
  
-   (iii) For a trustee administering an estate under the jurisdiction of a 26 
-court, in addition to the filing described in item (i) or (ii) of this paragraph, with the trust 27 
-clerk of the court . 28 
+   (iii) For a trustee administering an estate under the jurisdiction of a 
+court, in addition to the filing described in item (i) or (ii) of this paragraph, with the trust 
+clerk of the court.  
  
-  (3) In a trust involving multiple trustees in which more than one of the 29 
-trustees may be entitled to file a schedule of [increased ] rates, the controlling schedule will 30 
-8 HOUSE BILL 27   
+  (3) In a trust involving multiple trustees in which more than one of the 
+trustees may be entitled to file a schedule of [increased ] rates, the controlling schedule will 
+be the schedule filed by the trustee having custody of the assets and maintaining records  
+of the trust.  
  
- be the schedule filed by the trustee having custody of the assets and maintaining records 1 
-of the trust.  2 
+  (4) (i) On the filing by a trustee of a schedule of [increased ] rates under 
+this subsection, the trustee shall give notice to the qualified beneficiaries of each affected 
+trust.  
  
-  (4) (i) On the filing by a trustee of a schedule of [increased ] rates under 3 
-this subsection, the trustee shall give notice to the qualified beneficiaries of each affected 4 
-trust.  5 
+   (ii) The notice required under this paragraph shall be d elivered to 
+the qualified beneficiaries personally or sent to the qualified beneficiaries at the last known 
+address of the qualified beneficiaries by certified mail, postage prepaid, return receipt 
+requested.  
  
-   (ii) The notice required under this paragraph sha ll be delivered to 6 
-the qualified beneficiaries personally or sent to the qualified beneficiaries at the last known 7 
-address of the qualified beneficiaries by certified mail, postage prepaid, return receipt 8 
-requested.  9 
+Ch. 224 2025 LAWS OF MARYLAND   
  
-   (iii) A qualified beneficiary of a t rust that objects to the schedule of 10 
-rates to be charged to that trust, after notifying the trustee of the objection, may petition 11 
-the appropriate circuit court to review the reasonableness of the rates to be charged.  12 
+– 8 –    (iii) A qualified beneficiary of a trust th at objects to the schedule of 
+rates to be charged to that trust, after notifying the trustee of the objection, may petition 
+the appropriate circuit court to review the reasonableness of the rates to be charged.  
  
-   (iv) The notice required by this p aragraph shall include a clear 13 
-statement of the rights and procedures available to qualified beneficiaries under this 14 
-subsection.  15 
+   (iv) The notice required by this paragrap h shall include a clear 
+statement of the rights and procedures available to qualified beneficiaries under this 
+subsection.  
  
-   (v) If the court finds that the rates in the schedule are unreasonable 16 
-for the current fiscal year of the particular trust, the commissions of the trustee for that 17 
-trust for that fiscal year shall be limited to the rates charged that trust during the previous 18 
-fiscal year.  19 
+   (v) If the court finds that the rates in the schedule are unreasonable 
+for the current fiscal year of the particular trust, the c ommissions of the trustee for that 
+trust for that fiscal year shall be limited to the rates charged that trust during the previous 
+fiscal year.  
  
-  (5) If a trustee does not file a schedule of rates with the appropriate agency 20 
-under paragraph (2 )(i) or (ii) of this subsection and does not notify qualified beneficiaries 21 
-as provided in paragraph (4) of this subsection, the trustee is [limited to charging the rates 22 
-set forth ] ENTITLED TO COMPENSA TION AS PROVIDED  in [subsections (b) and (c) ] 23 
-SUBSECTI ON (A) of this section.  24 
+  (5) If a trustee does not file a schedule of rates with the appropriate agency 
+under paragraph (2)(i) or (ii)  of this subsection and does not notify qualified beneficiaries 
+as provided in paragraph (4) of this subsection, the trustee is [limited to charging the rates 
+set forth ] ENTITLED TO COMPENSA TION AS PROVIDED  in [subsections (b) and (c) ] 
+SUBSECTION (A) of th is section.  
  
- [(h)] (E) An individual trustee that is not authorized to file a schedule of 25 
-[increased ] rates under this section is [limited to charging the rates set forth ] ENTITLED 26 
-TO COMPENSATION AS P ROVIDED  in [subsections (b) and (c) ] SUBSE CTION (A) of this 27 
-section unless the trustee petitions the circuit court for the county where the trustee is 28 
-located and obtains approval [of an increase in fee ] TO FILE A SCHEDULE O F RATES  after 29 
-giving notice of the action to the qualified beneficiaries of the affected trusts.  30 
+ [(h)] (E) An individual trustee that is not authorized to file a schedule of 
+[increased ] rates under this section is [limited to charging the rates set forth ] ENTITLED 
+TO COMPENSATION AS P ROVIDED  in [subsections (b) and (c) ] SUBSECTION (A) of this 
+section unless the trustee petitions the circuit court for the county where the trustee is 
+located and obtains approval [of an increase in fee ] TO FILE A SCHEDULE O F RATES  after 
+giving notice of the action to the qualified beneficiaries of the affected trusts.  
  
- [(i) The schedule of increased rates of income commissions and corpus 31 
-commissions which trustees are authorized to charge as provided in subsection (g) of this 32 
-section is not applicable to guardians. ] 33 
+ [(i) The schedule of increased rates of income commissions and corpus 
+commissions which trustees are authorized to charge as provided in subsection (g) of this 
+section is not applicable to guardians. ] 
  
- [(j)] (F) The legal and court costs incurred by the trustee in accordance with a 34 
-court review under subsection [(g)(4) ] (D)(4) or subsection [(h)] (E) of this section shall be 35 
-charged against fees of the trustee and m ay not be assumed by the trust or the beneficiaries.  36 
+ [(j)] (F) The legal and court costs incurred by the trustee in accordance with a 
+court review under subsection [(g)(4) ] (D)(4) or subsection [(h)] (E) of this section shall be 
+charged against fees of the trustee and m ay not be assumed by the trust or the beneficiaries.  
  
- HOUSE BILL 27  9 
+15–511. 
  
- 15–511. 1 
+ A trustee shall allocate to principal:  
  
- A trustee shall allocate to principal:  2 
+  (3) Amounts recovered from third parties to reimburse the trust because of 
+disbursements described in [§ 15–524(a)(9) ] § 15–524( A)(7) of this subtitle or for other 
+reasons to the extent not based on the loss of income;  
  
-  (3) Amounts recovered from third parties to reimburse the trust because of 3 
-disbursements described in [§ 15–524(a)(9) ] § 15–524( A)(7) of this subtitle  or for other 4 
-reasons to the extent not based on the loss of income;  5 
+15–523. 
  
-15–523. 6 
+ WES MOORE, Governor  Ch. 224  
  
- A trustee shall make the following disbursements from income to the extent that 7 
-they are not disbursements to which § 15 –503(c)(2) or (3) of this subtitle apply:  8 
+– 9 –  A trustee shall make the following disbursements from income to the extent that 
+they are not disbursements to which § 15 –503(c)(2) or (3) of this subtitle appl y: 
  
-  [(1) Regula r compensation of the trustee on income, if determined in 9 
-accordance with § 14.5 –708(b) of this article;  10 
+  [(1) Regular compensation of the trustee on income, if determined in 
+accordance with § 14.5 –708(b) of this article;  
  
-  (2) That portion of the regular compensation of the trustee, if the 11 
-compensation is determined in a manner other than in accordance with § 14.5 –708(b) and 12 
-(c) of this article, and that portion of the compensation of any person providing investment 13 
-advisory or custodial services to the trustee, as the trustee determines is fair and 14 
-reasonable in accordance with § 15 –502(b) of this subtitle; ] 15 
+  (2) That portion of the regular compensation of the trustee, if the 
+compensation is determined in a manner other than in accordance  with § 14.5 –708(b) and 
+(c) of this article, and that portion of the compensation of any person providing investment 
+advisory or custodial services to the trustee, as the trustee determines is fair and 
+reasonable in accordance with § 15 –502(b) of this subt itle;] 
  
-  (1) ONE–HALF OF THE REGULAR COMPENSATION OF THE TRUSTEE 16 
-AND ANY PERSON PROVI DING INVESTMENT ADVI SORY OR CUSTODIAL SE RVICES TO 17 
-THE TRUSTEE ; 18 
+  (1) ONE–HALF OF THE REGULAR COMPENSATION OF THE TRUSTEE 
+AND ANY PERSON PROVI DING INVESTMENT ADVI SORY OR CUSTODIAL SE RVICES TO 
+THE TRUSTEE ; 
  
-  [(3)] (2) One–half of all expenses for accountings, judicial proceedings, or 19 
-other matters that involve both the income a nd remainder interests;  20 
+  [(3)] (2) One–half of all expenses for accountings, judicial proceedings, or 
+other matters that involve both the income and remainder interests;  
  
-  [(4)] (3) All of the other ordinary expenses incurred in connection with 21 
-the administration, management, or preservation of trust property and the distribution of 22 
-income, including interest, ordinary repairs, regularly recurring taxes assessed against 23 
-principal, and expenses of a proceeding or other matter that concerns primarily the income 24 
-interest; and  25 
+  [(4)] (3) All of the other ordinary expenses incurred in connection with 
+the administration, management, or preservation of trust property and the distribution of 
+income, including interest, ordinary repairs, reg ularly recurring taxes assessed against 
+principal, and expenses of a proceeding or other matter that concerns primarily the income 
+interest; and  
  
-  [(5)] (4) Recurring premiums on insurance covering the loss of a principal 26 
-asset or the loss of income from or use of the ass et. 27 
+  [(5)] (4) Recurring premiums on insurance covering the loss of a principal 
+asset or the loss of income from or use of the asset.  
  
-15–524. 28 
+15–524. 
  
- (a) A trustee shall make the following disbursements from principal:  29 
+ (a) A trustee shall make the following disbursements from principal:  
  
-  [(1) Regular compensation of the trustee on principal, if determined in 30 
-accordance with § 14.5 –708(c) of this article;  31 
+  [(1) Regular compensation of the trustee on principal, if determined in 
+accordance with § 14.5 –708(c) of this article;  
  
-10 HOUSE BILL 27   
+  (2) That portion of the regula r compensation of the trustee, if the 
+compensation is determined in a manner other than in accordance with § 14.5 –708(b) and 
+(c) of this article, and that portion of the compensation of any person providing investment 
+advisory or custodial services to the trustee, as the trustee determines is fair and 
+reasonable in accordance with § 15 –502(b) of this subtitle;  
  
-   (2) That portion of the regular compensation of  the trustee, if the 1 
-compensation is determined in a manner other than in accordance with § 14.5 –708(b) and 2 
-(c) of this article, and that portion of the compensation of any person providing investment 3 
-advisory or custodial services to the trustee, as the t rustee determines is fair and 4 
-reasonable in accordance with § 15 –502(b) of this subtitle;  5 
+  (3) One–half of all expenses for accountings, judicial proceedings, or other 
+matters that involve both the income and remainder interests; ] 
  
-  (3) One–half of all expenses for accountings, judicial proceedings, or other 6 
-matters that involve both the income and remainder interests; ] 7 
+Ch. 224 2025 LAWS OF MARYLAND   
  
-  (1) THE REMAINING ON E–HALF OF THE DISBURSE MENTS DESCRIBED 8 
-UNDER § 15–523(1)  AND (2) OF THIS SUBTITLE ; 9 
+– 10 –   (1) THE REMAINING ONE –HALF OF THE DISBURSE MENTS DESCRIBED 
+UNDER § 15–523(1)  AND (2) OF THIS SUBTITLE ; 
  
-  [(4)] (2) All of the trustee’s compensation calculated on principal as a fee 10 
-for acceptance, distribution, or termination, and disbursements made to prepare property 11 
-for sale; 12 
+  [(4)] (2) All of the trustee’s compensation calculated on principal as a fee 
+for acceptance, distribution, or termination, and disbursements made to prepa re property 
+for sale;  
  
-  [(5)] (3) Payments on the principal of a trust debt;  13 
+  [(5)] (3) Payments on the principal of a trust debt;  
  
-  [(6)] (4) Expenses of a proceeding that concerns primarily principal, 14 
-including a proceeding to construe the trust or to protect the trust or its property;  15 
+  [(6)] (4) Expenses of a proceeding that concerns primarily principal, 
+including a proceeding to construe the trust or to protect the trust or its property;  
  
-  [(7)] (5) Premiums paid on a policy of insurance not described in [§  16 
-15–523(5) ] § 15–523(4)  of this subtitle of which the trust is the owner and beneficiary;  17 
+  [(7)] (5) Premiums paid on a policy of insurance not described in [§  
+15–523(5) ] § 15–523(4)  of this subtitle of which the trust is the owner and beneficiary;  
  
-  [(8)] (6) Estate, inheritance, and other transfer taxes, including 18 
-penalties, apportioned to the trust; and 19 
+  [(8)] (6) Estate, inheritance, and other transfer taxes, including 
+penalties, apportioned to the trust; and 
  
-  [(9)] (7) Disbursements related to environmental matters, including 20 
-reclamation, assessing environmental conditions, remedying and removing environmental 21 
-contamination, monitoring remedial activities and the release of substances, preventing 22 
-future releases of substances, collecting amounts from persons liable or potentially liable 23 
-for the costs of those activities, penalties imposed under environmental laws or regulations 24 
-and other payments made to comply with those laws or regulations, statutory or  common 25 
-law claims by third parties, and defending claims based on environmental matters.  26 
+  [(9)] (7) Disbursements related to environmental matters, including 
+reclamation, assessing environmental conditions, remedying and removing environmental 
+contamination, monitoring remedial activities and the release of substances, preventing 
+future releases of substances, collecting amounts from persons liable or potentially liable 
+for the costs of those activities, penalties imposed under environmental laws or regulations 
+and other payments made to comply with those laws or regulations, statutory or  common 
+law claims by third parties, and defending claims based on environmental matters.  
  
-15–526. 27 
+15–526. 
  
- (b) Principal disbursements to which subsection (a) applies include the following, 28 
-but only to the extent that the trustee has not been and does not expect  to be reimbursed 29 
-by a third party:  30 
+ (b) Principal disbursements to which subsection (a) applies include the following, 
+but only to the extent that the trustee has not been and does not expect  to be reimbursed 
+by a third party:  
  
-  (5) Disbursements described in [§ 15–524(a)(9) ] § 15–524( A)(7) of this 31 
-subtitle.  32 
+  (5) Disbursements described in [§ 15–524(a)(9) ] § 15–524( A)(7) of this 
+subtitle.  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 33 
-October 1, 2025.  34 
- HOUSE BILL 27  11 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
-  
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, April 22, 2025.  

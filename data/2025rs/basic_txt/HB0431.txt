@@ -1,170 +1,135 @@
+ WES MOORE, Governor  Ch. 194  
  
+– 1 – Chapter 194  
+(House Bill 431 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.  
-         Italics indicate opposite chamber/conference committee amendments.             *hb0431*      
-HOUSE BILL 431  
-D3, I3    (5lr0854 ) 
-ENROLLED BILL  
-— Economic Matters/Finance  — 
-Introduced by Delegate Stewart  
+AN ACT concerning  
  
-Read and Examined by Proofreaders:  
+Civil Actions – Consumer Contracts – Limitations Periods  
+Consumer Protection – Consumer Contracts – Limitation Periods  
  
-_______________________________________________  
-Proofreader.  
-_______________________________________________  
-Proofreader.  
+FOR the purpose of establishing that any provision of a consumer contract that sets a 
+shorter period of time to bring an action on or under the contract than otherwise 
+required under State law at the time the contract is issued or delivered is void; 
+provid ing that a violation of this Act is considered a violation of the Consumer 
+Protection Act; and generally relating to consumer contracts  prohibiting a consumer 
+contract from setting a shorter time to bring an action under or on the consumer 
+contract than re quired by the law of the State; excluding certain entities from the 
+application of this Act; and generally relating to consumer contracts . 
  
-Sealed with the Great Seal and presented to the Governor, for his approval this  
-  
-_______ day of _______________ at _________________ _______ o’clock, ________M.  
-  
-______________________________________________  
-Speaker .  
+BY repealing and reenacting, with amendments,  
+ Article – Commercial Law  
+Section 13 –301(14)(xliv)  
+ Annotated Code of Maryland  
+ (2013 Replacement Volume and 2024 Supplement)  
+ (As enacted by Chapters 262, 454, 455, 460, 461, 463, and 962 of the Acts of the  
+ General Assembly of 2024)  
  
-CHAPTER ______  
+BY repealing and reenacting, without amendments,  
+ Article – Commercial Law  
+Section 13 –301(14)(xlv)  
+ Annotated Code of Maryland  
+ (2013 Replacement Volume and 2024 Supplement)  
+ (As enacted by Chapters 262, 454, 455, 460, 461, 463, and 962 of the Acts of the  
+ General Assembly of 2024)  
  
-AN ACT concerning  1 
+BY adding to  
+ Article – Commercial Law  
+Section 13–301(14)(xlvi)  
+ Annotated Code of Maryland  
+ (2013 Replacement Volume and 2024 Supplement)  
+ (As enacted by Chapters 262, 454, 455, 460, 461, 463, and 962 of the Acts of the  
+ General Assembly of 2024)  
  
-Civil Actions – Consumer Contracts – Limitations Periods  2 
-Consumer Protection – Consumer Contracts – Limitation Periods  3 
+BY adding to  
+ Article – Courts and Judicial Proceeding s 
+Section 5 –428 
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2024 Supplement)  
+Ch. 194  2025 LAWS OF MARYLAN D  
  
-FOR the purpose of establishing that any provision of a consumer contract that sets a 4 
-shorter period of time to bring an action on or under the contract than otherwise 5 
-required under State law at the time the contract is issued or delivered is void; 6 
-provid ing that a violation of this Act is considered a violation of the Consumer 7 
-Protection Act; and generally relating to consumer contracts  prohibiting a consumer 8 
-contract from setting a shorter time to bring an action under or on the consumer 9 
-contract than re quired by the law of the State; excluding certain entities from the 10 
-application of this Act; and generally relating to consumer contracts . 11 
+– 2 –  
+BY adding to  
+ Article – Commercial Law  
+ Section 14 –1328  
+ Annotated Code of Maryland  
+ (2013 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  12 
- Article – Commercial Law  13 
-Section 13 –301(14)(xliv)  14 
-2 HOUSE BILL 431   
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-  Annotated Code o f Maryland  1 
- (2013 Replacement Volume and 2024 Supplement)  2 
- (As enacted by Chapters 262, 454, 455, 460, 461, 463, and 962 of the Acts of the  3 
- General Assembly of 2024)  4 
+Article – Commercial Law  
  
-BY repealing and reenacting, without amendments,  5 
- Article – Commercial Law  6 
-Section 13 –301(14)(xlv)  7 
- Annotated Code of Maryland  8 
- (2013 Replacement Volume and 2024 Supplement)  9 
- (As enacted by Chapters 262, 454, 455, 460, 461, 463, and 962 of the Acts of the  10 
- General Assembly of 2024)  11 
+13–301. 
  
-BY adding to  12 
- Article – Commercial Law  13 
-Section 13–301(14)(xlvi)  14 
- Annotated Code of Maryland  15 
- (2013 Replacement Volume and 2024 Supplement)  16 
- (As enacted by Chapters 262, 454, 455, 460, 461, 463, and 962 of the Acts of the  17 
- General Assembly of 2024)  18 
+ Unfair, abusive, or deceptive trade practices include any:  
  
-BY adding to  19 
- Article – Courts and Judicial Proceeding s 20 
-Section 5 –428 21 
- Annotated Code of Maryland  22 
- (2020 Replacement Volume and 2024 Supplement)  23 
+  (14) Violation of a provision of:  
  
-BY adding to  24 
- Article – Commercial Law  25 
- Section 14 –1328  26 
- Annotated Code of Maryland  27 
- (2013 Replacement Volume and 2024 Supplement)  28 
+   (xliv)  Title 14, Subtitle 49 of this artic le; [or] 
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 29 
-That the Laws of Maryland read as follows:  30 
+   (xlv) Section 12 –6C–09.1 of the Health Occupations Article; or  
  
-Article – Commercial Law  31 
+   (XLVI ) SECTION 5–428 OF THE COURTS ARTICLE ; OR 
  
-13–301. 32 
+Article – Courts and Judicial Proceedings  
  
- Unfair, abusive, or deceptive trade practices include any:  33 
+5–428.  14–1328.  
  
-  (14) Violation of a provision of:  34 
+ (A) IN THIS SECTION , “CONSUMER CONTRACT ” MEANS A CONTRACT 
+INVOLVING  THE SALE , LEASE , OR PROVISION OF GOOD S OR SERVICES THAT A RE FOR 
+PERSONAL , FAMILY , OR HOUSEHOLD PURPOSE S. 
  
-   (xliv)  Title 14, Subtitle 49 of this article; [or] 35 
+ (B) THIS SECTION DOES NOT  APPLY TO : 
  
-   (xlv) Section 12 –6C–09.1 of the Health Occupations Article; or  36 
- HOUSE BILL 431  3 
+  (1) ANY CONSUMER CONTRACT  PROVIDED BY A BUSINE SS, INCLUDING 
+AN AFFILIATE OR A SU BSIDIARY OF THE BUSI NESS , THAT IS DOING BUSINE SS UNDER 
+A LICENSE , FRANCHISE AGREEMENT , CERTIFICATE , OR OTHER AUTHORIZATI ON 
+ISSUED BY A STATE AGENCY , POLITICAL SUBDIVISIO N, OR PUBLIC UTILITY 
+COMMISSION ; 
  
-  
-   (XLVI ) SECTION 5–428 OF THE COURTS ARTICLE ; OR 1 
+  (2) A SERVICE REGULATED BY : 
  
-Article – Courts and Judicial Proceedings  2 
+   (I) THE MARYLAND PUBLIC SERVICE COMMISSION ; 
  
-5–428.  14–1328.  3 
+   (II) THE FEDERAL COMMUNICATIONS COMMISSION ; OR 
+ WES MOORE, Governor  Ch. 194  
  
- (A) IN THIS SECTION , “CONSUMER CONTRACT ” MEANS A CONTRACT 4 
-INVOLVING THE SALE , LEASE , OR PROVISION OF GOOD S OR SERVICES THAT A RE FOR 5 
-PERSONAL , FAMILY , OR HOUSEHOLD PURPOSE S. 6 
+– 3 –  
+   (III) THE FEDERAL ENERGY REGULATORY COMMISSION ; OR 
  
- (B) THIS SECTION DOES NOT  APPLY TO : 7 
+  (3) A PERSON OR BUSINESS L ICENSED TO PROVIDE S ECURITY SYSTEM 
+SERVICES UNDER TITLE 18 OF THE BUSINESS OCCUPATIONS AND PROFESSIONS 
+ARTICLE . 
  
-  (1) ANY CONSUMER CONTRACT  PROVIDED BY A BUSINE SS, INCLUDING 8 
-AN AFFILIATE OR A SUBSIDIARY OF T HE BUSINESS , THAT IS DOING BUSINE SS UNDER 9 
-A LICENSE , FRANCHISE AGREEMENT , CERTIFICATE , OR OTHER AUTHORIZATI ON 10 
-ISSUED BY A STATE AGENCY , POLITICAL SUBDIVISIO N, OR PUBLIC UTILITY 11 
-COMMISSION ; 12 
+ (C) ANY A PROVISION IN A CONSU MER CONTRACT THAT SE TS A SHORTER 
+PERIOD OF  TIME TO BRING AN ACT ION UNDER OR ON THE CONSUMER CONTRACT 
+THAN REQUIRED UNDER  BY THE LAW OF THE STATE AT THE TIME  WHEN  THE 
+CONSUMER CONTRACT IS  ISSUED OR DELIVERED IS AGAINST STATE  PUBLIC POL ICY, 
+ILLEGAL , AND VOID . 
  
-  (2) A SERVICE REGULATED BY : 13 
+ (C) (D) IF A CONSUMER CONTRAC T CONTAINS A PROVISI ON THAT IS 
+ILLEGAL UNDER THIS S ECTION : 
  
-   (I) THE MARYLAND PUBLIC SERVICE COMMISSION ; 14 
+  (1) A COURT MAY NOT GIVE E FFECT TO THE PROVISI ON; AND 
  
-   (II) THE FEDERAL COMMUNICATIONS COMMISSION ; OR 15 
+  (2) A DEFENSE TO LIABILITY  UNDER THE CONSUMER C ONTRACT MAY 
+NOT BE BASED ON THE SHORTER LIMITATION P ERIOD . 
  
-   (III) THE FEDERAL ENERGY REGULATORY COMMISSION ; OR 16 
+ (D) A VIOLATION OF THIS SE CTION IS : 
  
-  (3) A PERSON OR BUSINESS L ICENSED TO PROVIDE S ECURITY SYSTEM 17 
-SERVICES UNDER TITLE 18 OF THE BUSINESS OCCUPATION S AND PROFESSIONS 18 
-ARTICLE . 19 
+  (1) AN UNFAIR , ABUSIVE , OR DECEPTIVE TRADE P RACTICE WITHIN  
+THE MEANING OF TITLE 13 OF THE COMMERCIAL LAW ARTICLE ; AND  
  
- (C) ANY A PROVISION IN A CONSU MER CONTRACT THAT SE TS A SHORTER 20 
-PERIOD OF  TIME TO BRING AN ACT ION UNDER OR ON THE CONSUMER CONTRACT 21 
-THAN REQUIRED UNDER  BY THE LAW OF THE STATE AT THE TIME  WHEN  THE 22 
-CONSUMER CONTRACT IS  ISSUED OR DELIVERED IS AGAINST STATE  PUBLIC POLICY , 23 
-ILLEGAL , AND VOID . 24 
+  (2) SUBJECT TO THE ENFORC EMENT AND PENALTY PR OVISIONS  
+CONTAINED IN TITLE 13 OF THE COMMERCIAL LAW ARTICLE , EXCEPT § 13–411 OF 
+THE COMMERCIAL LAW ARTICLE . 
  
- (C) (D) IF A CONSUMER CONTRAC T CONTAINS A PROVISI ON THAT IS 25 
-ILLEGAL UNDER THIS S ECTION : 26 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to 
+apply only prospectively and may not be applied or interpreted to have any effect on or 
+application to any contract entered into before the effective date of this Act.  
  
-  (1) A COURT MAY NOT GIVE E FFECT TO THE PROVISI ON; AND 27 
+ SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025  June 1, 2026 .  
  
-  (2) A DEFENSE TO LIABILITY  UNDER THE CONSUMER C ONTRACT MAY 28 
-NOT BE BASED ON THE SHORTER LIMITATION P ERIOD . 29 
-4 HOUSE BILL 431   
- 
-  
- (D) A VIOLATION OF THIS SE CTION IS : 1 
- 
-  (1) AN UNFAIR , ABUSIVE , OR DECEPTIVE TRADE P RACTICE WITHIN  2 
-THE MEANING OF TITLE 13 OF THE COMMERCIAL LAW ARTICLE ; AND 3 
- 
-  (2) SUBJECT TO THE ENFORC EMENT AND PENALTY PR OVISIONS  4 
-CONTAINED IN TITLE 13 OF THE COMMERCIAL LAW ARTICLE , EXCEPT § 13–411 OF 5 
-THE COMMERCIAL LAW ARTICLE . 6 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to 7 
-apply only prospectively and may not be applied or interpreted to have any effect on or 8 
-application to any contract entered into before the effective date of this Act.  9 
- 
- SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect 10 
-October 1, 2025  June 1, 202 6.  11 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, April 22, 2025.  

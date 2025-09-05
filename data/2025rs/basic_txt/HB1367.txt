@@ -1,112 +1,86 @@
+ WES MOORE, Governor  Ch. 507  
  
+– 1 – Chapter 507  
+(House Bill 1367 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb1367*      
-HOUSE BILL 1367  
-M3   5lr2953  
-      
-By: Delegate Rosenberg  Delegates Rosenberg, Allen, Behler, Guyton, Healey, 
-Holmes, Lehman, Ruth, Stein, Stewart, and Terrasa  
-Introduced and read first time: February 7, 2025  
-Assigned to: Environment and Transportation  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: March 6, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Lead Testing and Inspections – Falsifying Information – Penalty  
  
-AN ACT concerning  1 
+FOR the purpose of establishing a certain penalty for a person who falsifies information 
+that is submitted in a certain report; and generally relating to lead testing and 
+inspections.  
  
-Lead Testing and Inspections – Falsifying Information – Penalty  2 
+BY repealing and reenacting, without amendments,  
+ Article – Environment  
+Section 6 –818 
+ Annotated Code of Maryland  
+ (2013 Replacement  Volume and 2024 Supplement)  
  
-FOR the purpose of establishing a certain penalty for a person who falsifies information 3 
-that is submitted in a certain report; and generally relating to lead testing and 4 
-inspections.  5 
+BY repealing and reenacting, with amendments,  
+ Article – Environment  
+Section 6 –850 
+ Annotated Code of Maryland  
+ (2013 Replacement Volume and 2024 Supplement)  
  
-BY repealing and re enacting, without amendments,  6 
- Article – Environment  7 
-Section 6 –818 8 
- Annotated Code of Maryland  9 
- (2013 Replacement Volume and 2024 Supplement)  10 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That  the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  11 
- Article – Environment  12 
-Section 6 –850 13 
- Annotated Code of Maryland  14 
- (2013 Replacement Volume and 2024 Supplement)  15 
+Article – Environment  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 16 
-That the Laws of Maryland read as follows:  17 
+6–818. 
  
-Article – Environment  18 
+ (a) (1) Any person performing lead –contaminated dust testing or conducting 
+inspections required by this subtitle:  
  
-6–818. 19 
-2 HOUSE BILL 1367   
+   (i) Shall be accredited by the Department;  
  
-  
- (a) (1) Any person performing lead –contaminated dust testing or conducting 1 
-inspections required by this subtitle:  2 
+   (ii) May not be a r elated party to the owner; and  
  
-   (i) Shall be accredited by the Department;  3 
+   (iii) Shall submit a verified report of the result of the  
+lead–contaminated dust testing or visual inspection to the Department, the owner, and the 
+tenant, if any, of the affected property.  
  
-   (ii) May not be a related party to the owner; and  4 
+  (2) An owner may not employ  or engage a related party to the owner to 
+perform lead –contaminated dust testing or conduct inspections required by this subtitle.  
  
-   (iii) Shall submit a verified report of the result of the  5 
-lead–contaminated dust testing or visual i nspection to the Department, the owner, and the 6 
-tenant, if any, of the affected property.  7 
+ (b) A report submitted to the Department under subsection (a) of this section that 
+certifies compliance for an affected pr operty with the risk reduction standard shall be 
+Ch. 507  2025 LAWS OF MARYLAND   
  
-  (2) An owner may not employ or engage a related party to the owner to 8 
-perform lead –contaminated dust testing or conduct inspections required by this subtitle.  9 
+– 2 – conclusive proof that the owner is in compliance with the risk reduction standard for the 
+affected property during the period for which the certification is effective, unless there is:  
  
- (b) A report submitted to the Department under subsection (a) of this section that 10 
-certifies compliance for an affected property with the risk reduction standard shall be 11 
-conclusive proof that the owner is in compliance with the risk reduction standard for t he 12 
-affected property during the period for which the certification is effective, unless there is:  13 
+  (1) Proof of actual  fraud as to that affected property;  
  
-  (1) Proof of actual fraud as to that affected property;  14 
+  (2) Proof that the work performed in the affected property was not 
+performed by or under the supervision of personnel accredited under § 6 –1002 of this title; 
+or 
  
-  (2) Proof that the work performed in the affected property was not 15 
-performed by or under the sup ervision of personnel accredited under § 6 –1002 of this title; 16 
-or 17 
+  (3) Proof that the owner failed to respond to a com plaint regarding the 
+affected property as required by § 6 –819 of this subtitle.  
  
-  (3) Proof that the owner failed to respond to a complaint regarding the 18 
-affected property as required by § 6 –819 of this subtitle.  19 
+6–850. 
  
-6–850. 20 
+ (a) Except as provided in § 6 –849 of this subtitle, in addition to any other 
+remedies provided in this subtitle, the provisions and procedures of §§ 7 –256 through  
+7–264 and 7 –266 of this article shall be used and shall apply to enforce violations of this 
+subtitle, provided that the penalty imposed under § 7 –266(b)(2)(i) of this article may not 
+exceed $500 per day for any violation of this subtitle.  
  
- (a) Except as provided in § 6 –849 of this subtitle, in addition to any other 21 
-remedies provided in this subtitle, the provisions and procedures of §§ 7 –256 through  22 
-7–264 and 7 –266 of this article shall be used and shall apply to enforce violations of this 23 
-subtitle, provided that the penalty imposed under § 7 –266(b)(2)(i) of this article may not 24 
-exceed $500 per day for any violation of this subtitle.  25 
+ (b) If an accredi ted supervisor falsely verifies that work was performed on an 
+affected property pursuant to § 6 –819(g) of this subtitle, the owner of the affected property 
+who employs the supervisor and who has actual knowledge of the false verification shall be 
+subject t o a civil penalty not to exceed $30,000.  
  
- (b) If an accredited supervisor falsely verifies that work was performed on an 26 
-affected property pursuant to § 6–819(g) of this subtitle, the owner of the affected property 27 
-who employs the supervisor and who has actual knowledge of the false verification shall be 28 
-subject to a civil penalty not to exceed $30,000.  29 
+ (C) (1) A PERSON WHO FALSIFIES  INFORMATION THAT IS SUBMITTED IN 
+A REPORT UNDER § 6–818( A)(1)( III) OF THIS SUBTITLE IS LIABLE FOR A CIVIL 
+PENALTY NOT EXCEEDIN G $50,000,  TO BE COLLECTED IN A  CIVIL ACTION . 
  
- (C) (1) A PERSON WHO FALSIFIES  INFORMATION THAT IS SUBMITTED IN 30 
-A REPORT UNDER § 6–818( A)(1)( III) OF THIS SUBTITLE IS LIABLE FOR A CIVIL 31 
-PENALTY NOT EXCEEDIN G $50,000,  TO BE COLLECTED IN A  CIVIL ACTION . 32 
+  (2) EACH DAY A VIOLATION OC CURS IS A SEPARATE V IOLATION  
+UNDER THIS SUBSECTIO N. 
  
- HOUSE BILL 1367  3 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
-   (2) EACH DAY A VIOLATION OCCURS IS A SEPARATE  VIOLATION  1 
-UNDER THIS SUBSECTIO N. 2 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 3 
-October 1, 2025.  4 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 13, 2025.  

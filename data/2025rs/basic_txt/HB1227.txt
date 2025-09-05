@@ -1,169 +1,146 @@
+ WES MOORE, Governor  Ch. 589  
  
+– 1 – Chapter 589  
+(House Bill 1227 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb1227*      
-HOUSE BILL 1227  
-R5, F3    5lr0934  
-      
-By: Montgomery County Delegation  
-Introduced and read first time: February 7, 2025  
-Assigned to: Environment and Transportation  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: March 6, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Montgomery County – Vehicle Control and Monitoring Systems –  
+Distribution of Contested Traffic Fines, Application, and Implementation  
+School Bus Stops on Highways – Alterations  
  
-AN ACT concerning  1 
+MC 8–25 
  
-Montgomery County – Vehicle Control and Monitoring Systems –  2 
-Distribution of Contested Traffic Fines, Application, and Implementation  3 
-School Bus Stops on Highways – Alterations  4 
+FOR the purpose of requiring, beginning on a certain date, that citations issued for certain 
+alleged traffic violations in Montgomery County provide that the penalty be paid 
+directly to Montgomery County; requiring, beginning on a certain date, that the fines 
+collected by Montgomery County as a result of certain traffic violations contested in 
+the District Court be distributed in a certain manner to be used only to assist in 
+covering t he cost to construct median dividers on certain highways in Montgomery 
+County;  altering the application of and implementation date for a provision of law 
+regarding school bus stops located on certain highways in Montgomery County; and 
+generally relating to  vehicle control and monitoring systems  school bus stops on 
+highways  in Montgomery County.  
  
-MC 8–25 5 
+BY repealing and reenacting, with amendments,  
+ Article – Courts and Judicial Proceedings  
+Section 7 –302(e)(2)  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume  and 2024 Supplement)  
  
-FOR the purpose of requiring, beginning on a certain date, that citations issued for certain 6 
-alleged traffic violations in Montgomery County provide that the penalty be paid 7 
-directly to Montgomery County; requiring, beginning on a certain date, that the fines 8 
-collected by Montgomery County as a result of certain traffic violations contested in 9 
-the District Court be distributed in a certain manner to be used onl y to assist in 10 
-covering the cost to construct median dividers on certain highways in Montgomery 11 
-County;  altering the application of and implementation date for a provision of law 12 
-regarding school bus stops located on certain highways in Montgomery County; and 13 
-generally relating to vehicle control and monitoring systems  school bus stops on 14 
-highways  in Montgomery County.  15 
+BY repealing and reenacting, without amendments,  
+ Article – Courts and Judicial Proceedings  
+Section 7 –302(e)(4)(i) and (ii)  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  16 
- Article – Courts and Judicial Proceedings  17 
-Section 7 –302(e)(2)  18 
- Annotated Code of Maryland  19 
- (2020 Replacement Volume and 2024 Supplement)  20 
+BY adding to  
+ Article – Courts an d Judicial Proceedings  
+Section 7 –302(e)(4)(vii)  
+ Annotated Code of Maryland  
+ (2020 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  21 
- Article – Courts and Judicial Proceedings  22 
-2 HOUSE BILL 1227   
+BY repealing and reenacting, with amendments,  
+ Article – Education  
+Section 7 –801.1  
+ Annotated Code of Maryland  
+ (2022 Replacement Vo lume and 2024 Supplement)  
  
- Section 7 –302(e)(4)(i) and (ii)  1 
- Annotated Code of Maryland  2 
- (2020 Replacement Volume and 2024 Supplement)  3 
+Ch. 589  2025 LAWS OF MARYLAND   
  
-BY adding to  4 
- Article – Courts and Judicial Proceedings  5 
-Section 7 –302(e)(4)(vii)  6 
- Annotated Code of Maryland  7 
- (2020 Replacement Volume and 2024 Supplement)  8 
+– 2 –  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  9 
- Article – Education  10 
-Section 7 –801.1  11 
- Annotated Code of Maryland  12 
- (2022 Replacement Volume and 2024 Supplement)  13 
+Article – Courts and Judicial Proceedings  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 14 
-That the Laws of Maryland read as follows:  15 
+7–302. 
  
-Article – Courts and Judicial Proceedings  16 
+ (e) (2) (i) A citation issued as the result of a vehicle height monitoring 
+system, a traffic control signal monitoring system, a speed monitoring system, a work zone 
+speed control system or a stop sign monitoring system controlled by a political subdivision, 
+a school bus monitoring camera, a bus lane monitoring system,  or a noise abatement 
+monitoring system shall provide that, in an uncontested case, the penalty shall be paid 
+directly to that political subdivision.  
  
-7–302. 17 
+   (ii) A citation issued as the result of a traffic control signal 
+monitoring system or a work zone spee d control system controlled by a State agency, or as 
+a result of a vehicle height monitoring system, a traffic control signal monitoring system, a 
+speed monitoring system, a stop sign monitoring system, a school bus monitoring camera, 
+a bus lane monitoring  system, or a noise abatement monitoring system in a case contested 
+in District Court, shall provide that the penalty shall be paid directly to [the]: 
  
- (e) (2) (i) A citation issued as the result of a vehicle height monitoring 18 
-system, a traffic control signal monitoring system, a speed monitoring system, a work zone 19 
-speed control system or a stop sign monitoring system controlled by a political subdivision, 20 
-a school bus monitoring camera, a bus lane monitoring system, or a noise abatement 21 
-monitoring system shall provide that, in an uncontested case, the penalty shall be paid 22 
-directly to that political subdivision.  23 
+    1. BEGINNING OCTOBER 1, 2025,  MONTGOMERY  
+COUNTY FOR CITATIONS ISSUED FOR ALLEGED V IOLATIONS IN MONTG OMERY  
+COUNTY ; OR 
  
-   (ii) A citation issued as the result of a traffic control signal 24 
-monitoring system or a work zone speed control system controlled by a State agency, or as 25 
-a result of a vehicle height monitoring system, a traffic control signal monitoring system, a 26 
-speed monito ring system, a stop sign monitoring system, a school bus monitoring camera, 27 
-a bus lane monitoring system, or a noise abatement monitoring system in a case contested 28 
-in District Court, shall provide that the penalty shall be paid directly to [the]: 29 
+    2. THE District Court FOR CITATIONS ISSUED  FOR 
+ALLEGED VIOLATIONS I N ALL OTHER POLITICA L SUBDIVISIONS . 
  
-    1. BEGINNING OCTOBER 1, 2025,  MONTGOMERY  30 
-COUNTY FOR CITATIONS ISSUED FOR ALLEGED V IOLATIONS IN MONTGOMERY  31 
-COUNTY ; OR 32 
+  (4) (i) Except as provided in paragraph (5) of this subsection, from the 
+fines collected by a political subdivision as a result of violations enforced by speed 
+monitoring systems, work zone speed control systems, stop sign monitoring systems, school 
+bus monitoring  cameras, bus lane monitoring systems, or noise abatement monitoring 
+systems, a political subdivision:  
  
-    2. THE District Court FOR CITATIONS ISSUED  FOR 33 
-ALLEGED VIOLATIONS I N ALL OTHER POLITICA L SUBDIVISIONS . 34 
+    1. May recover the costs of implementing and administering 
+the speed monitoring systems, work zone speed control systems, school bus monitoring 
+came ras, bus lane monitoring systems, or noise abatement monitoring systems; and  
  
-  (4) (i) Except as provided in paragraph (5) of this subsection, from the 35 
-fines collected by a political subdivision as a result of violations enforced by speed 36 
- HOUSE BILL 1227  3 
+    2. Subject to subparagraphs (ii), (iii), and (iv) of this 
+paragraph, may spend any remaining balance solely for public safety purposes, including 
+pedestrian or highway safety  programs.  
  
- monitoring systems, work zone speed control systems, stop sign monitoring systems, school 1 
-bus monitoring  cameras, bus lane monitoring systems, or noise abatement monitoring 2 
-systems, a political subdivision:  3 
+   (ii) 1. For any fiscal year, if the balance remaining from the fines 
+collected by a political subdivision as a result of violations enforced by speed monitoring 
+systems, after the costs of implementing and administering the systems are recov ered in 
+accordance with subparagraph (i)1 of this paragraph, is greater than 10% of the total 
+ WES MOORE, Governor  Ch. 589  
  
-    1. May recover the costs of implementing and administering 4 
-the speed monitoring systems, work zone speed control systems, school bus monitoring 5 
-came ras, bus lane monitoring systems, or noise abatement monitoring systems; and  6 
+– 3 – revenues of the political subdivision for the fiscal year, the political subdivision shall remit 
+any funds that exceed 10% of the total revenues to the Comptrolle r. 
  
-    2. Subject to subparagraphs (ii), (iii), and (iv) of this 7 
-paragraph, may spend any remaining balance solely for public safety purposes, including 8 
-pedestrian or highway safety  programs.  9 
+    2. The Comptroller shall deposit any money remitted under 
+this subparagraph to the General Fund of the State.  
  
-   (ii) 1. For any fiscal year, if the balance remaining from the fines 10 
-collected by a political subdivision as a result of violations enforced by speed monitoring 11 
-systems, after the costs of implementing and administering the systems are recov ered in 12 
-accordance with subparagraph (i)1 of this paragraph, is greater than 10% of the total 13 
-revenues of the political subdivision for the fiscal year, the political subdivision shall remit 14 
-any funds that exceed 10% of the total revenues to the Comptrolle r. 15 
+   (VII) BEGINNING OCTOBER 1, 2025,  FROM THE FINES  
+COLLECTED BY MONTGOMERY COUNTY AS A RESULT OF  CITATIONS ISSUED AND  
+CONTESTED IN ACCORD ANCE WITH § 21–202.1,  § 21–706.1,  § 21–809,  § 21–810,  §  
+21–1134,  OR § 22–612 OF THE TRANSPORTATION ARTICLE , ANY BALANCE  
+REMAINING AFTER THE ALLOCATION OF FINES UNDER SUBPARAGRAPH (I)1 OF THIS  
+PARAGRAPH SHALL BE R EMITTED TO THE COMPTROLLER FOR DISTR IBUTION  TO 
+THE STATE HIGHWAY ADMINISTRATION TO BE USED ONLY TO ASSIST IN COVERING  
+THE COST TO CONSTRUC T MEDIAN DIVIDERS ON  HIGHWAYS IN MONTGOMERY  
+COUNTY WHERE : 
  
-    2. The Comptroller shall deposit any money remitted under 16 
-this subparagraph to the General Fund of the State.  17 
+    1. A SCHOOL BUS STOP IS L OCATED ; AND  
  
-   (VII) BEGINNING OCTOBER 1, 2025,  FROM THE FINES  18 
-COLLECTED BY MONTGOMERY COUNTY AS A RESULT OF  CITATIONS ISSUED AND  19 
-CONTESTED IN ACCORD ANCE WITH § 21–202.1,  § 21–706.1,  § 21–809,  § 21–810,  §  20 
-21–1134,  OR § 22–612 OF THE TRANSPORTATION ARTICLE , ANY BALANCE  21 
-REMAINING AFTER THE ALLOCATION OF FINES UNDER SUBPARAGRAPH (I)1 OF THIS  22 
-PARAGRAPH SHALL BE R EMITTED TO THE COMPTROLLER FOR DISTR IBUTION  TO 23 
-THE STATE HIGHWAY ADMINISTRATION TO BE USED ONLY TO ASSIST IN COVERING  24 
-THE COST TO CONSTRUC T MEDIAN DIVIDERS ON  HIGHWAYS IN MONTGOMERY  25 
-COUNTY WHERE : 26 
+    2. AT LEAST 400 CITATIONS HAVE BEEN ISSUED TO  
+DRIVERS TRAVELING IN THE OPP OSITE DIRECTION OF T HE BUS STOP . 
  
-    1. A SCHOOL BUS STOP IS L OCATED ; AND  27 
+Article – Education  
  
-    2. AT LEAST 400 CITATIONS HAVE BEEN ISSUED TO  28 
-DRIVERS TRAVELING IN THE OPP OSITE DIRECTION OF T HE BUS STOP . 29 
+7–801.1.  
  
-Article – Education  30 
+ (a) This section applies only [in]: 
  
-7–801.1.  31 
+  (1) IN Montgomery County ; AND  
  
- (a) This section applies only [in]: 32 
+  (2) TO A SCHOOL BUS STOP AT A LOCATION FOR WH ICH AT LEAST 400 
+CITATIONS HAVE BEEN ISSUED  WERE ISSU ED IN THE PRECEDING FISCAL YEAR  TO 
+DRIVERS TRAVELING IN  THE OPPOSITE DIRECTI ON OF THE BUS STOP . 
  
-  (1) IN Montgomery County ; AND  33 
+ (b) Beginning on December 31, [2026] 2028 , a school bus stop may not be located 
+on any highway with five or more undivided traffic lanes unless:  
  
-4 HOUSE BILL 1227   
+  (1) A scho ol crossing guard is posted at the school bus stop to assist 
+students in crossing the highway; or  
  
-   (2) TO A SCHOOL BUS STOP AT A LOCATION FOR WH ICH AT LEAST 400 1 
-CITATIONS HAVE BEEN ISSUED  WERE ISSUED IN THE PRECED ING FISCAL YEAR  TO 2 
-DRIVERS TRAVELING IN  THE OPPOSITE DIRECTI ON OF THE BUS STOP . 3 
+  (2) A traffic control device that maintains a red signal while a student is 
+boarding or exiting a school bus is placed at the school bus stop.  
  
- (b) Beginning on December 31, [2026] 2028 , a school bus stop may not be located 4 
-on any highway with five or more undivided traffic lanes unless:  5 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 
+1, 2025.  
  
-  (1) A school crossing guard is posted at the school bus stop to assist 6 
-students in crossing the highway; or  7 
+Ch. 589  2025 LAWS OF MARYLAND   
  
-  (2) A traffic control device that maintains a red signal while a student is 8 
-boarding or exiting a school bus is placed at the school bus stop.  9 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 10 
-1, 2025.  11 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+– 4 – Approved by the Governor, May 13, 2025.  

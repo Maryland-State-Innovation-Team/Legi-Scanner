@@ -1,184 +1,160 @@
+ WES MOORE, Governor  Ch. 124  
  
+– 1 – Chapter 124  
+(House Bill 322 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0322*      
-HOUSE BILL 322  
-G1 EMERGENCY BILL  5lr1711  
-    CF SB 88  
-By: Delegate Wims  
-Introduced and read first time: January 10, 2025  
-Assigned to: Ways and Means  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: February 22, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Election Law – State Administrator of Elections – Municipal Elections – 
+Administration  
  
-AN ACT concerning  1 
+FOR the purpose of authorizing the State Administrator of Elections to enter into 
+memoranda of understanding with municipalities  municipal corporations  that allow 
+the State Administrator to work collaboratively with a municipality  municipal 
+corporation  to support the administration of the municipality’s  municipal 
+corporation’s  elections; authorizing the State Administrator to lease a voting system 
+or other equipment used to administer an election to a municipal corporation for use 
+in a municipal electio n; repealing the authority of a local board of elections to lease 
+a voting system to a governmental or nongovernmental entity within the county; 
+altering the deadline for municipal corporations to request that the State Board of 
+Elections include on a ball ot offices and questions to be voted on in a municipal 
+election and the certification that must be included in the request;  and generally 
+relating to the administration of municipal elections.  
  
-Election Law – State Administrator of Elections – Municipal Elections – 2 
-Administration  3 
+BY repealing and reenacting, without amendments,  
+ Article – Election Law  
+Section 2 –103(a)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of authorizing the State Administrator of Elections to enter into 4 
-memoranda of understanding with municipalities  municipal corporations  that allow 5 
-the State Administrator to work collaboratively with a municipality  municipal 6 
-corporation  to support the administration of the municipality’s  municipal 7 
-corporation’s  elections; authorizing the State Administrator to lease a voting system 8 
-or other equipment used to administer an election to a municipal corporation for use 9 
-in a municipal electio n; repealing the authority of a local board of elections to lease 10 
-a voting system to a governmental or nongovernmental entity within the county; 11 
-altering the deadline for municipal corporations to request that the State Board of 12 
-Elections include on a ball ot offices and questions to be voted on in a municipal 13 
-election and the certification that must be included in the request;  and generally 14 
-relating to the administration of municipal elections.  15 
+BY adding to  
+ Article – Election Law  
+Section 2 –103(e) and (f)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  16 
- Article – Election Law  17 
-Section 2 –103(a)  18 
- Annotated Code of Maryland  19 
- (2022 Replacement Volume and 2024 Supplement)  20 
+BY repealing  and reenacting, with amendments,  
+ Article – Election Law  
+ Section 9 –105 
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2024 Supplement)  
  
-BY adding to  21 
- Article – Election Law  22 
-Section 2 –103(e) and (f)  23 
-2 HOUSE BILL 322   
+BY repealing and reenacting, without amendments,  
+ Article – Local Government  
+ Section 4 –108.3(a) and (b)  
+ Annotated Code of Maryland  
+ (2013 Volume and 2024 Supplement)  
  
-  Annotated Code of Maryland  1 
- (2022 Replacement Volume and 2024 Supplement)  2 
+BY repealing and reenacting, with amendments,  
+Ch. 124  2025 LAWS OF MARYLAND   
  
-BY repealing  and reenacting, with amendments,  3 
- Article – Election Law  4 
- Section 9 –105 5 
- Annotated Code of Maryland  6 
- (2022 Replacement Volume and 2024 Supplement)  7 
+– 2 –  Article – Local Government  
+ Section 4 –108.3(c)  
+ Annotated Code of Maryland  
+ (2013 Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  8 
- Article – Local Government  9 
- Section 4 –108.3(a) and (b)  10 
- Annotated Code of Maryland  11 
- (2013 Volume and 2024 Supplement)  12 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  13 
- Article – Local Government  14 
- Section 4 –108.3(c)  15 
- Annotated Code of Maryland  16 
- (2013 Volume and 2024 Supplement)  17 
+Article – Election Law  
  
- SECTION 1. BE IT ENACTED BY THE G ENERAL ASSEMBLY OF MARYLAND, 18 
-That the Laws of Maryland read as follows:  19 
+2–103. 
  
-Article – Election Law  20 
+ (a) There is a State Administrator of Elections.  
  
-2–103. 21 
+ (E) THE STATE ADMINISTRATOR MAY ENT ER INTO A MEMORANDUM  OF 
+UNDERSTANDING WITH A  MUNICIPALITY  MUNIC IPAL CORPORATION , THE TERMS OF 
+WHICH SHALL ALLOW TH E ADMINISTRATOR TO WORK  COLLABORATIVELY WITH  THE 
+MUNICIPALITY  MUNICIPAL CORPORATIO N TO SUPPORT THE ADMIN ISTRATION OF 
+THE MUNICIPALITY ’S MUNICIPAL CORPORATIO N’S ELECTIONS . 
  
- (a) There is a State Administrator of Elections.  22 
+ (F) (1) THE STATE ADMINISTRATOR MAY LEASE A VOTING S YSTEM OR 
+ANY OTHER EQUIPMENT USED TO ADMINISTER A N ELECTION TO A MUNI CIPAL 
+CORPORATION FOR USE IN A MUNICIPAL ELECT ION IN ACCORDANCE WI TH A 
+MEMORANDUM OF UNDERS TANDING ENTERED INTO  UNDER SUBSECTION (E) OF 
+THIS SECTION . 
  
- (E) THE STATE ADMINISTRATOR MAY ENT ER INTO A MEMORANDUM  OF 23 
-UNDERSTANDING WITH A  MUNICIPALITY  MUNICIPAL CORPORATIO N, THE TERMS OF 24 
-WHICH SHALL ALLOW TH E ADMINISTRATOR TO WORK  COLLABORATIVELY WITH  THE 25 
-MUNICIPALITY  MUNICIPAL CORPORATIO N TO SUPPORT THE ADMIN ISTRATION OF 26 
-THE MUNICIPALITY ’S MUNICIPAL CORPORATIO N’S ELECTIONS . 27 
+  (2) THE STATE ADMINISTRATOR SHALL : 
  
- (F) (1) THE STATE ADMINISTRATOR MAY LEA SE A VOTING SYSTEM O R 28 
-ANY OTHER EQUIPMENT USED TO ADMINISTER A N ELECTION TO A MUNI CIPAL 29 
-CORPORATION FOR USE IN A MUNICIPAL ELECT ION IN ACCORDANCE WI TH A 30 
-MEMORANDUM OF UNDERS TANDING ENTERED INTO  UNDER SUBSECTION (E) OF 31 
-THIS SECTION . 32 
+   (I) DETERMINE THE TERMS AND CONDITIONS OF TH E LEASE ; 
+AND  
  
-  (2) THE STATE ADMINISTRATOR SHALL : 33 
+   (II) DISTRIBUTE THE PROCE EDS OF THE LEASE TO THE FAIR 
+CAMPAIGN FINANCING FUND ESTABLISHED UNDE R § 15–103 OF THIS ARTICLE .  
  
-   (I) DETERMINE THE TERMS AND CONDITIONS OF TH E LEASE ; 34 
-AND  35 
- HOUSE BILL 322  3 
+9–105. 
  
-  
-   (II) DISTRIBUTE THE PROCE EDS OF THE LEASE TO THE FAIR 1 
-CAMPAIGN FINANCING FUND ESTABLISHED UNDE R § 15–103 OF THIS ARTICLE .  2 
+ [(a)] Acquisition of a voting system  shall be by purchase, lease, or rental and shall 
+be exempt from State, county, or municipal taxation.  
  
-9–105. 3 
+ [(b) (1) A local board may lease a voting system to any governmental or 
+nongovernmental entity within the county.  
  
- [(a)] Acquisition of a  voting system shall be by purchase, lease, or rental and shall 4 
-be exempt from State, county, or municipal taxation.  5 
+  (2) The local board shall determine the terms and conditions of the lease.  
  
- [(b) (1) A local board may lease a voting system to any governmental or 6 
-nongovernmental entity within the county.  7 
+ WES MOORE, Governor  Ch. 124  
  
-  (2) The local board shall determine the terms and conditions of the lease.  8 
+– 3 –   (3) The local board shall pay to the governing body of the county, within 30 
+days of receipt, the proceeds of the lease. ]  
  
-  (3) The local board shall pay to the governing body of the county, within 30 9 
-days of receipt, the proceeds of the lease. ]  10 
+Article – Local Government  
  
-Article – Local Government  11 
+4–108.3.  
  
-4–108.3.  12 
+ (a) (1) In this section the following wor ds have the meanings indicated.  
  
- (a) (1) In this section the following words have the meanings indicated.  13 
+  (2) “Ballot ” means a ballot prepared by the State Board of Elections under 
+Title 9 of the Election Law Article.  
  
-  (2) “Ballot ” means a ballot prepared by the State Board of Elections under 14 
-Title 9 of the Election Law Article.  15 
+  (3) “State Board ” means the State Board of Elections.  
  
-  (3) “State Board ” means the State Board of Elections.  16 
+ (b) A municipality may request that the State Board include on a ballot the offices 
+and questions to be voted on in a municipal election.  
  
- (b) A municipality may request that the State Board include on a ballot the offices 17 
-and questions to be voted on in a municipal election.  18 
+ (c) (1) A municipality that makes a request under this section shall:  
  
- (c) (1) A municipality that makes a request under this section shall:  19 
+   (i) file the request with the State Board on or before the day that is 
+[18] 9 months bef ore the deadline date applicable for individuals who are required to file a 
+certificate of candidacy as required under § 5 –303 of the Election Law Article; and  
  
-   (i) file the request with the State Board on or before the day that is 20 
-[18] 9 months before the deadline date applicable for individuals who are required to file a 21 
-certificate of candidacy as required under § 5 –303 of the Election Law Article; and  22 
+   (ii) certify as part of the request that the charter of the municipality 
+requires, and the m unicipality has established, deadlines and procedures for the 
+administration of municipal elections for the municipality that are consistent with the 
+deadlines and procedures for State and county elections established by the State Board 
+with regard to:  
  
-   (ii) certify as part of the request that the charter of the municipality 23 
-requires,  and the municipality has established, deadlines and procedures for the 24 
-administration of municipal elections for the municipality that are consistent with the 25 
-deadlines and procedures for State and county elections established by the State Board 26 
-with rega rd to:  27 
+    1. the filing of certificates of candidacy;  
  
-    1. the filing of certificates of candidacy;  28 
+    2. the filling of a vacancy in office;  
  
-    2. the filling of a vacancy in office;  29 
-4 HOUSE BILL 322   
+    3. the filing of a petition; [and] 
  
-  
-    3. the filing of a petition; [and] 1 
+    4. the certification of a ballot question ; 
  
-    4. the certification of a ballot question ; 2 
+    5. VOTER REGISTRATION ; AND  
  
-    5. VOTER REGISTRATION ; AND  3 
+    6. VOTING . 
  
-    6. VOTING . 4 
+  (2) (i) Except as provided in subparagraph (ii) of this paragraph, if the 
+State Board previously included a municipal election on the ballot, that municipality’s 
+elections may continue to appear on the ballot without the municipality filing an additional 
+request under this section.  
  
-  (2) (i) Except as  provided in subparagraph (ii) of this paragraph, if the 5 
-State Board previously included a municipal election on the ballot, that municipality’s 6 
-elections may continue to appear on the ballot without the municipality filing an additional 7 
-request under this  section.  8 
+Ch. 124  2025 LAWS OF MARYLAND   
  
-   (ii) A municipality shall file a request under this section if, since the 9 
-municipality’s election last appeared on the ballot, there has been a significant change in 10 
-the method the municipality uses to conduct its elections.  11 
+– 4 –    (ii) A municipality shall file a request under this section if, since the 
+municipality’s election last appeared on the ballot, there has been a significant change in 
+the method the municipality uses to conduct its elections.  
  
-  (3) Within 30 days after receipt of a municipality’s request under this 12 
-section, the State Board, after consultation with the local board in the county where the 13 
-municipality is located, shall notify the municipality of its decision whether to include the 14 
-municipal elec tion on the ballot.   15 
+  (3) Within 30 days after  receipt of a municipality’s request under this 
+section, the State Board, after consultation with the local board in the county where the 
+municipality is located, shall notify the municipality of its decision whether to include the 
+municipal election on th e ballot.   
  
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act is an emergency 16 
-measure, is necessary for the immediate preservation of the public health or safety, has 17 
-been passed by a yea and nay vote supported by three –fifths of all the membe rs elected to 18 
-each of the two Houses of the General Assembly, and shall take effect from the date it is 19 
-enacted.  20 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act is an emergency 
+measure, is necessary for the immediate preservation of the public health or safety, has 
+been passed by a yea and nay vote supported by three –fifths of all the members elected  to 
+each of the two Houses of the General Assembly, and shall take effect from the date it is 
+enacted.  
  
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, April 22, 2025.  

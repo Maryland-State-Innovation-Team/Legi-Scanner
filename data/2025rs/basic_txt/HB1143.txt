@@ -1,255 +1,228 @@
+ WES MOORE, Governor  Ch. 753  
  
+– 1 – Chapter 753  
+(House Bill 1143 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb1143*      
-HOUSE BILL 1143  
-J2, J1    5lr2078  
-    CF SB 988  
-By: Delegates Bagnall, Cullison, and Kipke  Pena –Melnyk, Alston, Bhandari, 
-Guzzone, Hill, S.  Johnson, Kaiser, Kerr, Lopez, Martinez, Rosenberg, 
-Taveras, Woods, Woorman, and Ross  
-Introduced and read first time: February 5, 2025  
-Assigned to: Health and Government Operations  
-Committee Report: Favo rable with amendments  
-House action: Adopted  
-Read second time: March 3, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Dental Services – Dental Hygienists in Schools and School –Based Health 
+Centers and the  Maryland Collaborative to Improve Children’s Oral Health 
+Through School –Based Programs – Establishment  
  
-AN ACT concerning  1 
+FOR the purpose of providing that a general license to practice dental hygiene authorizes 
+the licensee to practice dental hygiene under the general s upervision of a dentist in 
+a school or school –based health center;  establishing the Maryland Collaborative to 
+Improve Children’s Oral Health Through School –Based Programs to study and make 
+recommendations on ways to improve school –based dental programs; an d generally 
+relating to school –based  dental services.  
  
-Dental Services – Dental Hygienists in Schools and School –Based Health 2 
-Centers and the  Maryland Collaborative to Improve Children’s Oral Health 3 
-Through School –Based Programs – Establishment  4 
+BY repealing and reenacting, with amendments,  
+ Article – Health Occupations  
+Section 4 –308(f)(1)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of providing that a general license to practice dental hygiene authorizes 5 
-the licensee to practice dental hygiene under the general supervision of a dentist in 6 
-a school or school –based health center;  establishing the Maryland Collaborative to 7 
-Improve Children’s Oral Health Through School –Based Programs to study and make 8 
-recommendations on ways to improve school –based dental programs; a nd generally 9 
-relating to school –based  dental services.  10 
+BY adding to  
+ Article – Health Occupations  
+Section 4 –308(n)  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  11 
- Article – Health Occupations  12 
-Section 4 –308(f)(1)  13 
- Annotated Code of Maryland  14 
- (2021 Replacement Volume and 2024 Supplement)  15 
+Preamble  
  
-BY adding to  16 
- Article – Health Occupations  17 
-Section 4 –308(n)  18 
- Annotated Code of Maryland  19 
- (2021 Replacement Volume and 2024 Supplement)  20 
+ WHEREAS, The death of Deamonte Driver, a 12 –year–old insured under the 
+Maryland Medical Assistance Program, from a tooth abscess on F ebruary 25, 2007, 
+triggered a call to action in public health; and  
  
-2 HOUSE BILL 1143   
+ WHEREAS, In response to Deamonte Driver’s death, the Maryland Department of 
+Health, oral health advocates, the dental provider community, and the health care 
+community collaborated to adv ance significant systemic improvements for access to dental 
+services for all children, including children in underserved communities in the State; and  
  
- Preamble  1 
+ WHEREAS, Access to dental services for children covered by the Maryland Medical 
+Assistance Program impr oved steadily between 2008 and 2015 with the percentage of 
+children receiving preventive services rising from 50.1% to 64%; and  
  
- WHEREAS, The death of Deamonte  Driver, a 12 –year–old insured under the 2 
-Maryland Medical Assistance Program, from a tooth abscess on February 25, 2007, 3 
-triggered a call to action in public health; and  4 
+ WHEREAS, Access to dental services for children covered by the Maryland Medical 
+Assistance Program remained steady between 201 6 and 2019, with 63% to 64% of children 
+receiving preventive services; and  
+Ch. 753  2025 LAWS OF MARYLAND   
  
- WHEREAS, In response to Deamonte Driver’s death, the Maryland Department of 5 
-Health, oral health advocates, the dental provider community, and the health care 6 
-community collaborated to advance significant systemic improvements for access to dental 7 
-services for all children, including children in underserved communities in the State; and  8 
+– 2 –  
+ WHEREAS, Access to dental services for children covered by the Maryland Medical 
+Assistance Program plummeted with the onset of the COVID –19 pandemic and has yet to 
+recover, with o nly 56.5% of children receiving preventive dental services in 2023; and  
  
- WHEREAS, Access to dental services for children covered by the Maryland Medical 9 
-Assistance Program improved steadily between 2008 and 2015 with the percentage of 10 
-children receiving preventive services rising from 50.1% to 64%; and  11 
+ WHEREAS, The 2022 –2023 Children’s Oral Health Survey conducted by the 
+Maryland Department of Health demonstrated that 21% of children had untreated dental 
+decay, with Hispanic childr en having the highest prevalence of untreated decay at 30% and 
+the Western region of the State with the highest prevalence at 27%; and  
  
- WHEREAS, Access to dent al services for children covered by the Maryland Medical 12 
-Assistance Program remained steady between 2016 and 2019, with 63% to 64% of children 13 
-receiving preventive services; and  14 
+ WHEREAS, The 2022 –2023 Children’s Oral Health Survey conducted by the 
+Maryland Department of Health demonstrated that 51% of Maryland’s school children 
+needed sealants, with Black children at the highest prevalence of need at 60% and the 
+Western region of the State with the highest sealant need at 72%; and  
  
- WHEREAS, Access to dental services for children covered by the Maryland Medi cal 15 
-Assistance Program plummeted with the onset of the COVID –19 pandemic and has yet to 16 
-recover, with only 56.5% of children receiving preventive dental services in 2023; and  17 
+ WHEREAS, Children in the State need public health action to impr ove access to 
+dental services to avoid serious long –term health consequences; and  
  
- WHEREAS, The 2022 –2023 Children’s Oral Health Survey conducted by the 18 
-Maryland Department of Health demonstrated that 21% of children had untreated dental 19 
-decay, with Hispanic children having the highest prevalence of untreated decay at 30% and 20 
-the Western region of the State with the highest prevalence at 27%; and  21 
+ WHEREAS, School –based dental programs offer the potential to provide preventive 
+and screening services and linkages to permanent dental homes for children in every 
+Maryland  community; now, therefore,  
  
- WHEREAS, The 202 2–2023 Children’s Oral Health Survey conducted by the 22 
-Maryland Department of Health demonstrated that 51% of Maryland’s school children 23 
-needed sealants, with Black children at the highest prevalence of need at 60% and the 24 
-Western region of the State with t he highest sealant need at 72%; and  25 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows : 
  
- WHEREAS, Children in the State need public health action to improve access to 26 
-dental services to avoid serious long –term health consequences; and  27 
+Article – Health Occupations  
  
- WHEREAS, School –based dental programs offer the potential to provide p reventive 28 
-and screening services and linkages to permanent dental homes for children in every 29 
-Maryland community; now, therefore,  30 
+4–308. 
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 31 
-That the Laws of Maryland read as follows : 32 
+ (f) (1) Except as provided in subsection (k) of this section, while it is effective, 
+a general license to practice dental hygiene issued under this title authorizes the licensee 
+to practice dental hygiene:  
  
-Article – Health O ccupations  33 
+   (i) Under the supervision of a licensed dentist who is:  
  
-4–308. 34 
+    1. On the premises and available for personal consultation 
+while the services are being performed; or  
  
- HOUSE BILL 1143  3 
+    2. Not on the premises while authorized dental hygiene 
+services are provided when the requirements of subsection (l) OR (N) of this section have 
+been fully satisfied; and  
  
-  (f) (1) Except as provided in subsection (k) of this section, while it is effective, 1 
-a general license to practice dental hygiene issued under this title authorizes the licensee 2 
-to practice dental hygiene:  3 
+   (ii) Only in a:  
  
-   (i) Under the supervision  of a licensed dentist who is:  4 
+    1. Dental of fice; 
  
-    1. On the premises and available for personal consultation 5 
-while the services are being performed; or  6 
+ WES MOORE, Governor  Ch. 753  
  
-    2. Not on the premises while authorized dental hygiene 7 
-services are provided when the requirements of subsection (l) OR (N) of this section have 8 
-been fully satisfied; and  9 
+– 3 –     2. Dental clinic;  
  
-   (ii) Only in a:  10 
+    3. Hospital;  
  
-    1. Dental office;  11 
+    4. School;  
  
-    2. Dental clinic;  12 
+    5. Charitable institution; or  
  
-    3. Hospital;  13 
+    6. Health maintenance organization certified by the State 
+Insurance Commissioner.  
  
-    4. School;  14 
+ (N) WHILE IT IS EFFECTIVE , A GENERAL LICENSE TO  PRACTICE DENTAL  
+HYGIENE ISSUED UNDER  THIS TITLE AUTHORIZE S THE LICENSEE TO PR ACTICE  
+DENTAL HYGIENE UNDER  THE GENERAL SUPERVIS ION OF A LICENSED DE NTIST IN A  
+SCHOOL OR SCHOOL –BASED HEALTH CENTER IF THE LICENSEE SUBM ITS ON A FORM  
+PROVIDED BY THE BOARD A STATEMENT THA T THE LI CENSEE INTENDS TO  
+PRACTICE IN A SCHOOL  OR SCHOOL –BASED HEALTH CENTER . 
  
-    5. Charitable institution; or  15 
+ SECTION 2. AND BE IT FURTHER ENACTED, That:  
  
-    6. Health maintenance organization certified by the State 16 
-Insurance Commissioner.  17 
+ (a) There is a Maryland Collaborative to Improve Children’s Oral Health Through 
+School –Based Programs.  
  
- (N) WHILE IT IS EFFECTIVE , A GENERAL LICENSE TO  PRACTICE DENTAL  18 
-HYGIENE ISSUED UNDER  THIS TITLE AUTHORIZE S THE LICENSEE TO PR ACTICE  19 
-DENTAL HYGIENE UNDER  THE GENERAL SUPERVIS ION OF A LICENSED DE NTIST IN A  20 
-SCHOOL OR SCHOOL –BASED HEA LTH CENTER IF THE LI CENSEE SUBMITS ON A FORM  21 
-PROVIDED BY THE BOARD A STATEMENT THA T THE LICENSEE INTEN DS TO  22 
-PRACTICE IN A SCHOOL  OR SCHOOL –BASED HEALTH CENTER . 23 
+ (b) The Collaborative consists of  the following members:  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That:  24 
+  (1) two members of the Senate of Maryland, appointed by the President of 
+the Senate;  
  
- (a) There is a Maryland Collaborative to Improve  Children’s Oral Health Through 25 
-School –Based Programs.  26 
+  (2) two members of the House of Delegates, appointed by the Speaker of 
+the House;  
  
- (b) The Collaborative consists of the following members:  27 
+  (3) the Secretary of Health, or the Secretary’s designee ; 
  
-  (1) two members of the Senate of Maryland, appointed by the President of 28 
-the Senate;  29 
+  (4) the Secretary of Education, or the Secretary’s designee;  
  
-4 HOUSE BILL 1143   
+  (5) the Deputy Secretary of Public Health Services, or the Deputy 
+Secretary’s designee;  
  
-   (2) two members of the House of Delegates, appointe d by the Speaker of 1 
-the House;  2 
+  (6) the Chair of the Maryland Community Health Resources Commission, 
+or the Chair’s designee; an d 
  
-  (3) the Secretary of Health, or the Secretary’s designee;  3 
+  (7) the following members, appointed by the Secretary of Health:  
  
-  (4) the Secretary of Education, or the Secretary’s designee;  4 
+   (i) one representative of the Maryland Medical Assistance Program;  
  
-  (5) the Deputy Secretary of Public Health Services, or the Deputy 5 
-Secretary’s designee;  6 
+Ch. 753  2025 LAWS OF MARYLAND   
  
-  (6) the Chair of the Maryland Community Health Resources Commission, 7 
-or the Chair’s designee; and  8 
+– 4 –    (ii) one representative of the Maryland Association of School Health 
+Nurses;  
  
-  (7) the following members, appointed by the Secretary of Health:  9 
+   (iii) one representative of the Maryland Assembly of School –Based 
+Health Care;  
  
-   (i) one representative of the Maryland Medical Assistance Program;  10 
+   (iv) one representative of the Maryland Dental Action Coalition;  
  
-   (ii) one representati ve of the Maryland Association of School Health 11 
-Nurses;  12 
+   (v) one representative of the Maryland Dental Hygienists’ 
+Association;  
  
-   (iii) one representative of the Maryland Assembly of School –Based 13 
-Health Care;  14 
+   (vi) one representative of the Maryland State Dental Association;  
  
-   (iv) one representative of the Maryland Dental Action Coalition;  15 
+   (vii) one representative of the Maryland Dental Society;  
  
-   (v) one representative of the Maryland Dental Hygienists’ 16 
-Association;  17 
+   (viii)  one representative of the State Board of Dental Examiners;  
  
-   (vi) one representative of the Maryland State Dental Association;  18 
+   (vii) (ix) one representative of a federally qualified health center 
+that manages a school –based dental prog ram;  
  
-   (vii) one representative of the Maryland Dental Society;  19 
+   (viii)  (x) one representative of the Maryland Association of Boards 
+of Education;  
  
-   (viii)  one representative of the State Board of Dental Examiners;  20 
+   (ix) (xi) one representative of the Public School Superintendents’ 
+Association of Maryland; and  
  
-   (vii) (ix) one repr esentative of a federally qualified health center 21 
-that manages a school –based dental program;  22 
+   (x) (xii) one representative of the National Maternal and Chi ld 
+Health Resource Center.  
  
-   (viii)  (x) one representative of the Maryland Association of Boards 23 
-of Education;  24 
+ (c) The Secretary of Health shall designate the chair of the Collaborative.  
  
-   (ix) (xi) one representative of the Public School Superintendents’ 25 
-Assoc iation of Maryland; and  26 
+ (d) The Maryland Department of Health shall provide staff for the Collaborative.  
  
-   (x) (xii) one representative of the National Maternal and Child 27 
-Health Resource Center.  28 
+ (e) A member of the Collaborative:  
  
- (c) The Secretary of Health shall designate the chair of the Collaborative.  29 
- HOUSE BILL 1143  5 
+  (1) may not receive compensation as a member of the Collaborative; but  
  
-  
- (d) The Maryland Department of Health shall provide staff fo r the Collaborative.  1 
+  (2) is entitled to reimbursement for expenses under the Standard State 
+Travel Regulations, as provided in the State budget.  
  
- (e) A member of the Collaborative:  2 
+ (f) The Collaborative shall study and make recommendations to improve the or al 
+health of children in the State through school –based dental programs by analyzing the 
+impact of:  
  
-  (1) may not receive compensation as a member of the Collaborative; but  3 
+  (1) supporting schools and community dental partners in linking families 
+and children to permanent dental facilities;  
+ WES MOORE, Governor  Ch. 753  
  
-  (2) is entitled to reimbursement for expenses under the Standard State 4 
-Travel Regulations, as provided in the State budge t. 5 
+– 5 –  
+  (2) increasing the number of den tal hygienists providing school –based 
+services through policy initiatives, including grant support for services for uninsured 
+children and Medicaid reimbursement of dental hygienists who render dental services;  
  
- (f) The Collaborative shall study and make recommendations to improve the oral 6 
-health of children in the State through school –based dental programs by analyzing the 7 
-impact of:  8 
+  (3) authorizing school nurses to provide f luoride varnishes among other 
+clinically appropriate services by modifying school health guidelines and providing 
+reimbursement through the Maryland Medical Assistance Program;  
  
-  (1) supporting schools and community dental partners in linking families  9 
-and children to permanent dental facilities;  10 
+  (4) expanding the capacity of school –based health centers to provide dental 
+services; and 
  
-  (2) increasing the number of dental hygienists providing school –based 11 
-services through policy initiatives, including grant support for services for uninsured 12 
-children and Medicaid reimbursement of dental hyg ienists who render dental services;  13 
+  (5) clarifying the law governing the practice of dental hygienists in school 
+settings to reduce confusion among practitioners and school –based programs; and  
  
-  (3) authorizing school nurses to provide fluoride varnishes among other 14 
-clinically appropriate services by modifying school health guidelines and providing 15 
-reimbursement through the Maryland Medical Assistance Program ; 16 
+  (5) (6) other innovative models for providing dental services to children in 
+schools.  
  
-  (4) expanding the capacity of school –based health centers to provide dental 17 
-services; and 18 
+ (g) The Collaborative may consult with any other individual or organization with 
+expertise in school –based dental programs.  
  
-  (5) clarifying the law governing the practice of dental hygienists in school 19 
-settings to reduce confusion among practitioners and school –based programs; and  20 
+ (h) (1) On or before December 1, 2025, the Collaborative shall submit an 
+interim report of its findings and recommendatio ns to the Governor and, in accordance with 
+§ 2–1257 of the State Government Article, the General Assembly.  
  
-  (5) (6) other innovative models for providing dental services to children in 21 
-schools.  22 
+  (2) On or before October 1, 2026, the Collaborative shall submit a final 
+report of its findings and recommendations to the Governor and, in accordance with §  
+2–1257 of the State Government Article, the General Assembly.  
  
- (g) The Collaborative may consult with any other individual or organization with 23 
-expertise in school –based dental programs.  24 
+ SECTION 3. 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+July 1, 2025. Section 2 of this Act  It shall remain effective for a period of 2 years and, at 
+the end of June 30, 2027, Section 2 of  this Act, with no further action required by the 
+General Assemb ly, shall be abrogated and of no further force and effect.  
  
- (h) (1) On or before December 1, 2025, t he Collaborative shall submit an 25 
-interim report of its findings and recommendations to the Governor and, in accordance with 26 
-§ 2–1257 of the State Government Article, the General Assembly.  27 
- 
-  (2) On or before October 1, 2026, the Collaborative shall submit a final 28 
-report of its findings and recommendations to the Governor and, in accordance with §  29 
-2–1257 of the State Government Article, the General Assembly.  30 
- 
- SECTION 3. 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 31 
-July 1, 2025. Section 2 of this Act  It shall remain effective for a period of 2 years and, at 32 
-6 HOUSE BILL 1143   
- 
- the end of June 30, 2027, Section 2 of  this Act, with no further action required by the 1 
-General Assembly, shall be abrogated and of no further force and effect.  2 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 20, 2025.  

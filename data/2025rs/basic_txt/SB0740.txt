@@ -1,186 +1,161 @@
+ WES MOORE, Governor  Ch. 757  
  
+– 1 – Chapter 757  
+(Senate Bill 740 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTING LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.  
-         Italics indicate opposite chamber/conference committee amendments.             *sb0740*      
-SENATE BILL 740  
-J1, J3    (5lr2781 ) 
-ENROLLED BILL  
-— Finance/Health and Government Operations  — 
-Introduced by Senator Folden  Senators Folden, Beidle, Ellis, Gile, Lam, Mautz, 
-Ready, and A.  Washington  
+AN ACT concerning  
  
-Read and Examined by Proofreaders:  
+Health Care Facilities – Warrior  Service Member  Community Members  
+(SFC Matthew Fast Act for Warrior Healthcare ) 
  
-_______________________________________________  
-Proofreader.  
-_______________________________________________  
-Proofreader.  
+FOR the purpose of requiring  authorizing  each health care facility to screen each patient 
+for information on whether the patient is a warrior  service member  community 
+member, include on the patient’s medical record whether the patient is a warrior  
+service member  community member, and meet certain standards established by The 
+Joint Commission for the purpose of improving health care equity for warrior  service 
+member  community members; and generally relating to health care facilities and 
+veterans, service mem bers, and their families.  
  
-Sealed with the Great Seal and presented to the Governor, for his approval this  
-  
-_______ day of _______________ at ________________________ o’clock, ________M.  
-  
-______________________________________________  
-President .  
+BY adding to  
+ Article – Health – General  
+Section 24 –2501 and 24 –2502 to be under the new subtitle “Subtitle 25. Health Care 
+Equity for Warrior  Service Member  Community Members”  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-CHAPTER ______  
+BY repealing and reenacting, with amendments,  
+ Article – State Government  
+ Section 9 –901 
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-AN ACT concerning  1 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-Health Care Facilities – Warrior  Service Member  Community Members  2 
-(SFC Matthew Fast Act for Warrior Healthcare ) 3 
+Article – Health – General  
  
-FOR the purpose of requiring  authorizing  each health care facility to screen each patient 4 
-for information on whether the patient is a warrior  service member  community 5 
-member, include on t he patient’s medical record whether the patient is a warrior  6 
-service member  community member, and meet certain standards established by The 7 
-Joint Commission for the purpose of improving health care equity for warrior  service 8 
-member  community members; and g enerally relating to health care facilities and 9 
-veterans, service members, and their families.  10 
+SUBTITLE 25. HEALTH CARE EQUITY FOR WARRIOR  SERVICE MEMBER  
+COMMUNITY MEMBERS .  
  
-BY adding to  11 
- Article – Health – General  12 
-2 SENATE BILL 740   
+24–2501.  
  
- Section 24 –2501 and 24 –2502 to be under the new subtitle “Subtitle 25. Health Care 1 
-Equity for Warrior  Service Member  Community Members”  2 
- Annotated Code of Maryland  3 
- (2023 Replacement Volume and 2024 Supplement)  4 
+ (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE  THE MEANINGS 
+INDICATED . 
  
-BY repealing and reenacting, with amendments,  5 
- Article – State Government  6 
- Section 9 –901 7 
- Annotated Code of Maryland  8 
- (2021 Replacement Volume and 2024 Suppleme nt)  9 
+ (B) (1) “HEALTH CARE FACILITY ” MEANS A FACILITY OR AN OFFICE 
+WHERE HEALTH CARE IS  PROVIDED TO PATIENTS  BY A HEALTH CARE PRA CTITIONER 
+Ch. 757  2025 LAWS OF MARYLAND   
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 10 
-That the Laws of Maryland read as follows:  11 
+– 2 – OR GROUP OF HEALTH C ARE PRACTITIONERS LI CENSED , CERTIFIED , OR OTHERWISE 
+AUTHORIZED BY LAW TO  PROVIDE HEALTH CARE SERVICES . 
  
-Article – Health – General  12 
+  (2) “HEALTH CARE FACILITY ” INCLUDES : 
  
-SUBTITLE 25. HEALTH CARE EQUITY FOR WARRIOR  SERVICE MEMBER  13 
-COMMUNITY MEMBERS .  14 
+   (I) A HOSPITAL , AS DEFINED IN § 19–301 OF THIS ARTICLE ; 
  
-24–2501.  15 
+   (II) A FREESTANDING MEDICAL  FACILITY , AS DEFINED IN §  
+19–3A–01 OF THIS ARTICLE ; 
  
- (A) IN THIS SUBTITLE THE  FOLLOWING WORDS HAVE  THE MEANINGS 16 
-INDICATED . 17 
+   (III) A NURSING FACILITY ; 
  
- (B) (1) “HEALTH CARE FACILITY ” MEANS A FACILITY OR AN OFFICE 18 
-WHERE HEALTH CARE IS  PROVIDED TO PATIENTS  BY A HEALTH CARE PRA CTITIONER 19 
-OR GROUP OF HEALTH C ARE PRACTITIONERS LI CENSED , CERTIFIED , OR OTHERWISE 20 
-AUT HORIZED BY LAW TO PR OVIDE HEALTH CARE SE RVICES . 21 
+   (IV) A RESIDENTIAL TREATMEN T CENTER ; 
  
-  (2) “HEALTH CARE FACILITY ” INCLUDES : 22 
+   (V) A REHABILITATION FACIL ITY; AND 
  
-   (I) A HOSPITAL , AS DEFINED IN § 19–301 OF THIS ARTICLE ; 23 
+   (VI) A FACILITY OPERATED BY  THE DEPARTMENT , THE 
+BEHAVIORAL HEALTH ADMINISTRATION , OR A HEALTH OFFICER . 
  
-   (II) A FREESTANDING MEDICAL  FACILITY , AS DEFINED IN §  24 
-19–3A–01 OF THIS ARTICLE ; 25 
+ (C) “SERVICE MEMBER ” MEANS AN INDIVIDUAL WHO IS AN ACTIVE DUT Y 
+MEMBER OF : 
  
-   (III) A NURSING FAC ILITY ; 26 
+  (1) THE ARMED FORCES OF T HE UNITED STATES ; 
  
-   (IV) A RESIDENTIAL TREATMEN T CENTER ; 27 
+  (2) A RESERVE COMPONENT OF  THE ARMED FORCES OF THE UNITED  
+STATES ; OR 
  
-   (V) A REHABILITATION FACIL ITY; AND 28 
+  (3) THE NATIONAL GUARD OF ANY STATE  HAS THE MEANING STAT ED 
+IN § 9–901 OF THE STATE GOVERNMENT ARTICLE . 
  
-   (VI) A FACILITY OPERATED BY  THE DEPARTMENT , THE 29 
-BEHAVIORAL HEALTH ADMINISTRATION , OR A HEALTH OFFICER . 30 
+ (D) “VETERAN ” MEANS A FORMER SERVI CE MEMBER WHO WAS  
+DISCHARGED FROM ACTIVE DUTY . 
  
- SENATE BILL 740  3 
+ (E) (D) “WARRIOR  SERVICE MEMBER  COMMUNITY MEMBER ” MEANS : 
  
-  (C) “SERVICE MEMBER ” MEANS AN INDIVIDUAL WHO IS AN ACTIVE DUTY  1 
-MEMBER OF : 2 
+  (1) A SERVICE MEMBER ; 
  
-  (1) THE ARMED FORCES OF T HE UNITED STATES ; 3 
+  (2) A VETERAN ; 
  
-  (2) A RESERVE COMPONENT OF  THE ARMED FORCES OF THE UNITED  4 
-STATES ; OR 5 
+  (3) THE SPOUSE OF A SERVI CE MEMBER OR VETERAN ; 
  
-  (3) THE NATIONAL GUARD OF ANY STATE  HAS THE MEANING STAT ED 6 
-IN § 9–901 OF THE STATE GOVERNMENT ARTICLE . 7 
+  (4) A CHILD OF A SERVICE M EMBER OR VETERAN ; OR 
  
- (D) “VETERAN ” MEANS A FORMER SERVI CE MEMBER WHO WAS  8 
-DISCHARGED FROM ACTI VE DUTY . 9 
+  (5) A STEPCHILD OF A SERVI CE MEMBER OR  VETERAN . 
+ WES MOORE, Governor  Ch. 757  
  
- (E) (D) “WARRIOR  SERVICE MEMBER  COMMUNITY MEMBER ” MEANS : 10 
+– 3 –  
+ (E) “VETERAN ” MEANS A FORMER SERVI CE MEMBER WHO WAS 
+DISCHARGED FROM ACTI VE DUTY  HAS THE MEANING STAT ED IN § 9–901 OF THE 
+STATE GOVERNMENT ARTICLE .  
  
-  (1) A SERVICE MEMBER ; 11 
+24–2502.  
  
-  (2) A VETERAN ; 12 
+ (A) EACH HEALTH CARE FACI LITY SHALL  MAY  SCREEN EACH PATIENT FOR 
+INFORMATION ON THE P ATIENT’S ELIGIBILITY AS A WARRIOR  SERVICE MEMBER  
+COMMUNITY MEMBER AND  INCLUDE IN THE PATIE NT’S MEDICAL RECORD WHE THER 
+THE PATIENT IS A WARRIOR  SERVICE MEMBER  COMMUNITY MEMBER . 
  
-  (3) THE SPOUSE OF A SERVI CE MEMBER OR VETERAN ; 13 
+ (B) FOR THE PURPOSE OF IM PROVING HEALTH CARE EQUITY F OR WARRIOR  
+SERVICE MEMBER  COMMUNITY MEMBERS , EACH HEALTH CARE FAC ILITY SHALL  
+MAY  IDENTIFY WARRIOR  SERVICE MEMBER  COMMUNITY MEMBERS AS  A 
+VULNERABLE POPULATIO N AND COMPLY WITH TH E STANDARDS ASSOCIAT ED WITH 
+THE NATIONAL PATIENT SAFETY GOAL  TO IMPROVE HEALTH CARE EQUITY 
+ESTABLISHED BY THE JOINT COMMISSION . 
  
-  (4) A CHILD OF A SERVICE M EMBER OR  VETERAN ; OR 14 
+ (C) ON OR BEFORE DECEMBER 1 EACH YEAR , BEGINNING IN 2026,  THE 
+DEPARTMENT SHALL REPO RT TO THE GOVERNOR AND , IN ACCORDANCE WITH §  
+2–1257  OF THE STATE GOVERNMENT ARTICLE , THE GENERAL ASSEM BLY ON : 
  
-  (5) A STEPCHILD OF A SERVI CE MEMBER OR VETERAN . 15 
+  (1) THE NEEDS OF WARRIOR COMMUNITY MEMBERS ; 
  
- (E) “VETERAN ” MEANS A FORMER SERVI CE MEMBER WHO WAS 16 
-DISCHARGED FROM ACTI VE DUTY  HAS THE MEANING STAT ED IN § 9–901 OF THE 17 
-STATE GOVERNMENT ARTICLE .  18 
+  (2) THE EXTENT TO WHICH E ACH HEALTH CARE FACI LITY MEETS THE  
+NEEDS OF WARRIOR COM MUNITY MEMBERS IDENT IFIED UNDER ITEM (1) OF THIS  
+SUBSECTION ; AND  
  
-24–2502.  19 
+  (3) A DESCRIPTION OF PROGR ESS MADE TOWARD HEAL TH CARE  
+EQUITY FOR WARRIOR C OMMUNITY MEMBERS . 
  
- (A) EACH HEALTH CARE FACI LITY SHALL  MAY  SCREEN EACH PATIENT FOR 20 
-INFORMATION ON THE P ATIENT’S ELIGIBILITY AS A WARRIOR  SERVICE MEMBER  21 
-COMMUNITY MEMBER AND  INCLUDE IN THE PATIE NT’S MEDICAL RECORD WHE THER 22 
-THE PATIENT IS A WARRIOR  SERVICE MEMBER  COMMUNITY MEMBER . 23 
+Article – State Government  
  
- (B) FOR THE PURPOSE OF IM PROVING HEALTH CARE EQUITY FOR WARRIOR  24 
-SERVICE MEMBER  COMMUNITY MEMBERS , EACH HEALTH CARE FAC ILITY SHALL  25 
-MAY  IDENTIFY WARRIOR  SERVICE MEMBER  COMMUNITY MEMBERS AS  A 26 
-VULNERABLE POPULATIO N AND COMPLY WITH TH E STANDARDS ASSOCIAT ED WITH 27 
-THE  NATIONAL PATIENT SAFETY GOAL TO IMPROVE HEALTH CARE EQUITY 28 
-ESTABLISHED BY THE JOINT COMMISSION . 29 
+9–901. 
  
-4 SENATE BILL 740   
+ (a) In this subtitle the following words have the meanings indicated.  
  
-  (C) ON OR BEFORE DECEMBER 1 EACH YEAR , BEGINNING IN 2026,  THE 1 
-DEPARTMENT SHALL REPO RT TO THE GOVERNOR AND , IN ACCORDANCE WITH §  2 
-2–1257  OF THE STATE GOVERNME NT ARTICLE , THE GENERAL ASSEMBLY ON : 3 
+ (b) “Board” means the Board of Trustees of the Maryland Veterans Trust.  
  
-  (1) THE NEEDS OF WARRIOR COMMUNITY MEMBERS ; 4 
+ (c) “Department ” means the Department of Veterans and Military Families.  
  
-  (2) THE EXTENT TO WHICH E ACH HEALTH CARE FACI LITY MEETS THE  5 
-NEEDS OF WARRIOR COM MUNITY MEMBERS IDENT IFIED UNDER ITEM (1) OF THIS  6 
-SUBSECTION ; AND  7 
+ (D) “RESERVE COMPONENT ” HAS THE MEANING STAT ED IN 37 U.S.C.  § 101.  
  
-  (3) A DESCRIPTION OF PROGRESS MADE TOWARD  HEALTH CARE  8 
-EQUITY FOR WARRIOR C OMMUNITY MEMBERS . 9 
+Ch. 757  2025 LAWS OF MARYLAND   
  
-Article – State Government  10 
+– 4 –  [(d)] (E) “Secretary ” means the Secretary of Veterans and Military Families.  
  
-9–901. 11 
+ (F) “SERVICE MEMBER ” MEANS AN INDIVIDUAL WHO IS A MEMBER OF : 
  
- (a) In this subtitle the following words have the meanings indicated.  12 
+  (1) THE UNIFORM ED SERVICES ; OR 
  
- (b) “Board” means the Board of Trustees of the Maryland Veterans Trust.  13 
+  (2) A RESERVE COMPONENT OF THE UNIFORMED SER VICES . 
  
- (c) “Department ” means the Department of Veterans and Military Families.  14 
+ [(e)] (G) “Trust” means the Maryland Veterans Trust.  
  
- (D) “RESERVE COMPONENT ” HAS THE MEANING STAT ED IN 37 U.S.C.  § 101.  15 
+ (H) “UNIFORMED SERVICES ” HAS THE MEANING STAT ED IN 37 U.S.C.  § 101.  
  
- [(d)] (E) “Secretary ” means the Secretary of Veterans and Military Families.  16 
+ [(f)] (I) Except as otherwise provided [in this subtitle ], “veteran” [means an 
+individual who served on active duty in the armed forces of the United States, other than for 
+training, and was discharged or released under conditions other than dishonorable ] HAS 
+THE MEANING STATED I N 38 U.S.C.  § 101.  
  
- (F) “SERVICE MEMBER ” MEANS AN INDIVIDUAL WHO IS A MEMBER OF : 17 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
-  (1) THE UNIFORM ED SERVICES ; OR 18 
- 
-  (2) A RESERVE COMPONENT OF THE UNIFORMED SER VICES . 19 
- 
- [(e)] (G) “Trust” means the Maryland Veterans Trust.  20 
- 
- (H) “UNIFORMED SERVICES ” HAS THE MEANING STAT ED IN 37 U.S.C.  § 101.  21 
- 
- [(f)] (I) Except as otherwise provided [in this subtitle ], “veteran” [means an 22 
-individual who served on active duty in the armed forces of the United States, other than for 23 
-training, and was discharged or released under conditions other than dishonorable ] HAS 24 
-THE MEANING STATED I N 38 U.S.C.  § 101.  25 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 26 
-October 1, 2025.  27 
- 
+Approved by the Governor, May 20, 2025.  

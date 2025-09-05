@@ -1,107 +1,82 @@
+ WES MOORE, Governor  Ch. 584  
  
+– 1 – Chapter 584  
+(House Bill 808 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0808*      
-HOUSE BILL 808  
-N1   5lr0940  
-HB 1452/24 – ENT    CF 5lr0942  
-By: Howard County Delegation  
-Introduced and read first time: January 29, 2025  
-Assigned to: Environment  and Transportation  
-Committee Report: Favorable  
-House action: Adopted  
-Read second time: March 6, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Columbia Association – Lease Requirements and Governing Documents  
  
-AN ACT concerning  1 
+Ho. Co. 14 –25 
  
-Columbia Association – Lease Requirements and Governing Documents  2 
+FOR the purpose of requiring a written lease for certain residential or commercial real 
+property in Howard County to include information on the annual charge assessed by 
+the Columbia Association and a description of certain rights and privileges under 
+certain circumstances; requiring a landlord to pr ovide a tenant with a copy of certain 
+covenants and governing documents under certain circumstances; and generally 
+relating to certain residential and commercial rental property leases in Howard 
+County.  
  
-Ho. Co. 14 –25 3 
+BY adding to  
+ Article – Real Property  
+Section 8–121 
+ Annotated Code of Maryland  
+ (2023 Replacement Volume  and 2024 Supplement ) 
  
-FOR the purpose of requiring a written lease for certain residential or commercial real 4 
-property in Howard County to include information on the annual charge assessed by 5 
-the Columbia Association and a description of certain rights and privileges under 6 
-certain circumstances; requiring a landlord to provide a tenant with a copy of certain 7 
-covenants and governing documents under certain circumstances; and generally 8 
-relating to certain residential and commercial rental property leases in Howard 9 
-County.  10 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY adding to  11 
- Article – Real Property  12 
-Section 8–121 13 
- Annotated Code of Maryland  14 
- (2023 Replacement Volume  and 2024 Supplement ) 15 
+Article – Real Property  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 16 
-That the Laws of Maryland read as follows:  17 
+8–121. 
  
-Article – Real Property  18 
+ (A) IN THIS SECTION , “ANNUAL CHARGE ” MEANS THE CHARGE ASS ESSED BY 
+THE COLUMBIA ASSOCIATION ON RESIDE NTIAL OR COMMERCIAL REAL PROPERTY 
+IN HOWARD COUNTY THAT IS SUBJEC T TO COLUMBIA ASSOCIATION COVENANTS . 
  
-8–121. 19 
+ (B) THIS SECTION APPLIES ONLY TO LEASES FOR R ESIDENTIAL AND 
+COMMERCIAL REAL PROP ERTY IN HOWARD COUNTY THAT ARE SUBJE CT TO 
+COLUMBIA ASSOCIATION COVENANTS . 
  
-2 HOUSE BILL 808   
+ (C) IF A LANDLORD REQUIRE S A TENANT TO PAY AL L OR PART OF AN 
+ANNUAL CHARGE AS A P ART OF THE RENT , THE LANDLORD SHALL U SE A WRITTEN 
+LEASE THAT INCLUDES : 
  
-  (A) IN THIS SECTION , “ANNUAL CHARGE ” MEANS THE CHARGE ASS ESSED BY 1 
-THE COLUMBIA ASSOCIATION ON RESIDE NTIAL OR COMMERCIAL REAL PROPERTY 2 
-IN HOWARD COUNTY THAT IS SUBJEC T TO COLUMBIA ASSOCIATION COVENANTS . 3 
+  (1) NOTICE OF THE AMOUNT OF THE ANNUAL CHARGE  THAT IS 
+INCLUDED IN THE RENT ; AND 
+Ch. 584  2025 LAWS OF MARYLAND   
  
- (B) THIS SECTION APPLIES ONLY TO LEASES FOR R ESIDENTIAL AND 4 
-COMMERCIAL REAL PROP ERTY IN HOWARD COUNTY THAT ARE SUBJE CT TO 5 
-COLUMBIA ASSOCIATION COVENANTS . 6 
+– 2 –  
+  (2) A DESCRIPTION OF HOW T HE ANNUAL CHARGE IS CALCULATED . 
  
- (C) IF A LANDLORD REQUIRE S A TENANT TO PAY AL L OR PART OF AN 7 
-ANNUAL CHARGE AS A P ART OF THE RENT , THE LANDLORD SHALL U SE A WRITTEN 8 
-LEASE THAT INCLUDES : 9 
+ (D) A LANDLORD SHALL USE A  WRITTEN LEASE THAT I NCLUDES A 
+DESCRIPTION OF , OR INSTRUCTIONS ON W HERE TO FIND A DESCR IPTION OF , THE 
+RIGHTS AND PRIVILEGE S AFFORDED TO :  
  
-  (1) NOTICE OF THE AMOUNT OF THE ANNUAL CHARGE  THAT IS 10 
-INCLUDED IN THE RENT ; AND 11 
+  (1) FOR A RESIDENTIAL LEA SE, THE TENANT AS A RESI DENT OF REAL 
+PROPERTY THAT IS SUB JECT TO COLUMBIA ASSOCIATION COVENANTS  AND 
+GOVERNING DOCUMENTS ; OR  
  
-  (2) A DESCRIPTION OF HOW T HE ANNUAL CHARGE IS CALCULATED . 12 
+  (2) FOR A COMMERCIAL LEAS E, THE TENANT ’S EMPLOYEES  ASSIGNED 
+TO THE SITE THAT IS SUBJECT TO COLUMBIA ASSOCIATION COVENANTS  AND 
+GOVERNING DOCUMENTS . 
  
- (D) A LANDLORD SHALL USE A  WRITTEN LEASE THAT I NCLUDES A 13 
-DESCRIPTION OF , OR INSTRUCTIONS ON W HERE TO FIND A DESCR IPTION OF , THE 14 
-RIGHTS AND PRIVILEGE S AFFORDED TO :  15 
+ (E) (1) WHEN A TENANT SIGNS A  LEASE , THE LANDLORD SHALL P ROVIDE 
+THE TENANT WITH A CO PY OF : 
  
-  (1) FOR A RESIDENTIAL LEA SE, THE TENANT AS A RESI DENT OF REAL 16 
-PROPERTY THAT IS SUB JECT TO COLUMBIA ASSOCIATION COVENANTS  AND 17 
-GOVERNING DOCUMENTS ; OR  18 
+   (I) THE COLUMBIA ASSOCIATION COVENANTS  AND 
+GOVERNING DOCUMENTS ; AND 
  
-  (2) FOR A COMMERCIAL LEAS E, THE TENANT ’S EMPLOYEES  ASSIGNED 19 
-TO THE SITE THAT IS SUBJECT TO COLUMBIA ASSOCIATION COVENANTS  AND 20 
-GOVERNING DOCUMENTS . 21 
+   (II) IF THE LEASE IS FOR R ESIDENTIAL PROPERTY , THE 
+GOVERNING DOCUMENTS OF THE VILLAGE ASSOC IATION OR TOWN CENTER , AS 
+APPROPRIATE . 
  
- (E) (1) WHEN A TENANT SIGNS A  LEASE , THE LANDLORD SHALL P ROVIDE 22 
-THE TENANT WITH A CO PY OF : 23 
+  (2) A LANDLORD MAY SATISFY  THE REQUIREMENT UNDE R 
+PARAGRAPH (1) OF THIS SUBSECTION B Y PROVIDING A PHYSIC AL COPY , DIGITAL 
+COPY , OR PERMANENT LINK TO  A DIGITAL COPY OF TH E COVENANTS AND 
+GOVERNING DOCUMENTS . 
  
-   (I) THE COLUMBIA ASSOCIATION COVENANTS  AND 24 
-GOVERNING DOCUMENTS ; AND 25 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025 . 
  
-   (II) IF THE LEASE IS FOR R ESIDENTIAL PROPERTY , THE 26 
-GOVERNING DOCUMENTS OF THE VILLAGE ASSOC IATION OR TOWN CENTER , AS 27 
-APPROPRIATE . 28 
- 
-  (2) A LANDLORD MAY SATISFY  THE REQUIREMENT UNDE R 29 
-PARAGRAPH (1) OF THIS SUBSECTION B Y PROVIDING A PHYSIC AL COPY , DIGITAL 30 
-COPY , OR PERMANENT LINK TO  A DIGITAL COPY OF TH E COVENANTS AND 31 
-GOVERNING DOCUMENTS . 32 
- HOUSE BILL 808  3 
- 
-  
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 1 
-October 1, 2025 . 2 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 13, 2025.  

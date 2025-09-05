@@ -1,213 +1,186 @@
+ WES MOORE, Governor  Ch. 483  
  
+– 1 – Chapter 483  
+(House Bill 1191 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb1191*      
-HOUSE BILL 1191  
-D4   5lr2743  
-HB 848/24 – JUD    CF SB 548  
-By: Delegates McComas, Arentz, Bartlett, Buckel, Chisholm, Crutchfield, Kaiser, 
-Kaufman, Nkongolo, Pasteur, Qi, Rose, Schmidt, Taveras, Valentine, and 
-Wivell  
-Introduced and read first time: February 6, 2025  
-Assigned to: Judiciary  
-Committee Report: Favorable  
-House action: Adopted  
-Read second time: March 1, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Family Law – Child Custody – Determinations  
  
-AN ACT concerning  1 
+FOR the purpose of authorizing the court, in determining legal and physical custody in 
+certain child custody proceedings, to consider certain factors; authorizing the court 
+to modify a child custody or visitation order under certain circumstances; and 
+generally relating to child custody and visitation.  
  
-Family Law – Child Custody – Determinations  2 
+BY repealing and reenacting, with out amendments,  
+ Article – Family Law  
+Section 9 –101, 9 –101.1, and 9 –101.2  
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 202 4 Supplement)  
  
-FOR the purpose of authorizing the court, in determining legal and physical custody in 3 
-certain child custody proceedings, to consider certain factors; authorizing the court 4 
-to modify a child custody or visita tion order under certain circumstances; and 5 
-generally relating to child custody and visitation.  6 
+BY adding to  
+ Article – Family Law  
+Section 9 –201 and 9 –202 to be under the new subtitle “Subtitle 2. Legal  and Physical 
+Custody – Judicial Determinations”  
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 202 4 Supplement)  
  
-BY repealing and reenacting, without amendments,  7 
- Article – Family Law  8 
-Section 9 –101, 9 –101.1, and 9 –101.2  9 
- Annotated Code of Maryland  10 
- (2019 Replacement Vol ume and 202 4 Supplement)  11 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY adding to  12 
- Article – Family Law  13 
-Section 9 –201 and 9 –202 to be under the new subtitle “Subtitle 2. Legal and Physical 14 
-Custody – Judicial Determinations”  15 
- Annotated Code of Maryland  16 
- (2019 Replacement Volume and 202 4 Supplement)  17 
+Article – Family Law  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 18 
-That the Laws of Maryland read as follows:  19 
+9–101. 
  
-2 HOUSE BILL 1191   
+ (a) In any custody or visitation proceeding, if the court has reasonable grounds to 
+believe that a child has been abused or neglected by a party to the proceeding, the court 
+shall determine whether abuse or neglect is likely to occur if custody or v isitation rights 
+are granted to the party.  
  
- Article – Family Law  1 
+ (b) Unless the court specifically finds that there is no likelihood of further child 
+abuse or neglect by the party, the court shall deny custody or visitation rights to that party, 
+except that the court may appr ove a supervised visitation arrangement that assures the 
+safety and the physiological, psychological, and emotional well –being of the child.  
  
-9–101. 2 
+9–101.1.  
  
- (a) In any custody or visitation proceeding, if the court has reasonable grounds to 3 
-believe that a child has been abu sed or neglected by a party to the proceeding, the court 4 
-shall determine whether abuse or neglect is likely to occur if custody or visitation rights 5 
-are granted to the party.  6 
+ (a) In this section, “abuse” has the meaning stated in § 4 –501 of this article.  
  
- (b) Unless the court specifically finds that there is no likelihood of further child 7 
-abuse or neglect by the party, the court shall deny custody or visitation rights to that party, 8 
-except that the court may approve a supervised visitation arrangement that assures the 9 
-safety and the physiological, psychological, and emotional well –being of the child.  10 
+Ch. 483  2025 LAWS OF MARYLAND   
  
-9–101.1.  11 
+– 2 –  (b) In a custody or visitation proceeding, the court shall consider, when deciding 
+custody or visitation issues, evidence of abuse by a party against:  
  
- (a) In this section, “abuse” has the meaning stated in § 4 –501 of this article.  12 
+  (1) the other parent of the party’s child;  
  
- (b) In a custody or visitation proceeding, the court shall consider, when deciding 13 
-custody or visitation issues, evidence of abuse by a party aga inst: 14 
+  (2) the party’s spouse; or  
  
-  (1) the other parent of the party’s child;  15 
+  (3) any child residing within the party’s hous ehold, including a child other 
+than the child who is the subject of the custody or visitation proceeding.  
  
-  (2) the party’s spouse; or  16 
+ (c) If the court finds that a party has committed abuse against the other parent 
+of the party’s child, the party’s spouse, or any child residing wit hin the party’s household, 
+the court shall make arrangements for custody or visitation that best protect:  
  
-  (3) any child residing within the party’s household, including a child other 17 
-than the child who is the subject of the custody or visitation proceeding.  18 
+  (1) the child who is the subject of the proceeding; and  
  
- (c) If the court finds that a party has committed abuse against the other parent 19 
-of the party’s child, the party’s spouse, or any child residing within the party’s household, 20 
-the court shall make arrangements for custody or visitation that best protect:  21 
+  (2) the victim of the abuse.  
  
-  (1) the child who is the subject of the proceeding; and  22 
+9–101.2.  
  
-  (2) the victim of the abuse.  23 
+ (a) Except as provided in subsection (b) of thi s section, unless good cause for the 
+award of custody or visitation is shown by clear and convincing evidence, a court may not 
+award custody of a child or visitation with a child:  
  
-9–101.2.  24 
+  (1) to a parent who has been found by a court of this State to be guilty of 
+first degree or second degree murder of the other parent of the child, another child of the 
+parent, or any family member residing in the household of either parent of the child; or  
  
- (a) Except as provided in subsection (b) of this section, unless good cause for the 25 
-award of custody or visitation is shown by clear and convincing evidence, a court may not 26 
-award custody of a child or visitation with a child:  27 
+  (2) to a parent who has been found by a court of any state or of the United 
+States to be guilty of a crime that, if committed in this State, would be first degree murder 
+or second degree murder of the other parent of the child, another child of the parent, or any 
+family member residing in the household of either parent of t he child.  
  
-  (1) to a parent who has been found by a court of this State to be guilty of 28 
-first degree or second degree murder of the other parent of the child, another child of the 29 
-parent, or any family member  residing in the household of either parent of the child; or  30 
+ (b) If it is in the best interest of the child, the court may approve a supervised 
+visitation arrangement that assures the safety and the physiological, psychological, and 
+emotional well –being of the child.  
  
-  (2) to a parent who has been found by a court of any state or of the United 31 
- HOUSE BILL 1191  3 
+SUBTITLE 2. LEGAL AND PHYSICAL CUSTODY – JUDICIAL DETERMINATIONS . 
  
- States to be guilty of a crime that, if committed in this State, would be first degree murder 1 
-or second degree murde r of the other parent of the child, another child of the parent, or any 2 
-family member residing in the household of either parent of the child.  3 
+9–201.  
  
- (b) If it is in the best interest of the child, the court may approve a supervised 4 
-visitation arrangement that assures the safety and the physiological, psychological, and 5 
-emotional well –being of the child.  6 
+ (A) SUBJECT TO THE PROVIS IONS OF §§ 9–101,  9–101.1,  AND 9–101.2  OF 
+THIS TITLE , IN DETERMINING WHAT LEGAL CUSTODY AND PH YSICAL CUSTODY IS IN  
+THE BEST INTEREST OF  A CHILD , THE COURT MAY CONSID ER THE FOLLOWING 
+FACTORS : 
+ WES MOORE, Governor  Ch. 483  
  
-SUBTITLE 2. LEGAL AND PHYSICAL CUSTODY – JUDICIAL DETERMINATIONS . 7 
+– 3 –  
+  (1) STABILITY AND THE FO RESEEABLE HEALTH AND  WELFARE OF THE 
+CHILD ; 
  
-9–201.  8 
+  (2) FREQUENT , REGULAR , AND CONTINUING CONTA CT WITH PARENTS 
+WHO CAN ACT IN THE C HILD’S BEST INTEREST ; 
  
- (A) SUBJECT TO THE PROVIS IONS OF §§ 9–101,  9–101.1,  AND 9–101.2  OF 9 
-THIS TITLE , IN DETERMINING WHAT LEG AL CUSTODY AND PHYSI CAL CUSTODY IS IN 10 
-THE BEST INTEREST OF  A CHILD , THE COURT MAY CONSID ER THE FOLLOWING 11 
-FACTORS : 12 
+  (3) WHETHER AND HOW PARE NTS WHO DO NOT LIVE TOGETHER WILL 
+SHARE THE RI GHTS AND RESPONSIBIL ITIES OF RAISING THE  CHILD ; 
  
-  (1) STABILITY AND THE FO RESEEABLE HEALTH AND  WELFARE OF THE 13 
-CHILD ; 14 
+  (4) THE CHILD ’S RELATIONSHIP WITH EACH PARENT , ANY SIBLINGS , 
+OTHER RELATIVES , AND INDIVIDUALS WHO ARE OR MAY BECOME IM PORTANT IN THE 
+CHILD’S LIFE ; 
  
-  (2) FREQUENT , REGULAR , AND CONTINUING CONTA CT WIT H PARENTS 15 
-WHO CAN ACT IN THE C HILD’S BEST INTEREST ; 16 
+  (5) THE CHILD ’S PHYSICAL AND EMOTI ONAL SECURITY AND 
+PRO TECTION FROM EXPOSUR E TO CONFLICT AND VI OLENCE ; 
  
-  (3) WHETHER AND HOW PARE NTS WHO DO NOT LIVE TOGETHER WILL 17 
-SHARE THE RIGHTS AND  RESPONSIBILITIES OF RAISING THE CHILD ; 18 
+  (6) THE CHILD ’S DEVELOPMENTAL NEED S, INCLUDING PHYSICAL 
+SAFETY , EMOTIONAL SECURITY , POSITIVE SELF –IMAGE , INTERPERSONAL SKILLS , 
+AND INTELLECTUAL AND  COGNITIVE GROWTH ; 
  
-  (4) THE CHILD ’S RELATIONSHIP WITH EACH PARENT , ANY SIBLINGS , 19 
-OTHER RELATIVES , AND INDIVIDUALS WHO ARE OR MAY BECOME IM PORTANT IN THE 20 
-CHILD’S LIFE ; 21 
+  (7) THE DAY –TO–DAY NEEDS OF THE CHI LD, INCLUDING EDUCATION , 
+SOCIALIZATION , CULTURE AND RELIGION , FOOD , SHELTER , CLOTHING , AND 
+MENTAL AND PHYSICAL HEALTH ; 
  
-  (5) THE CHILD ’S PHYSICAL AND EMOTI ONAL SECURITY AND 22 
-PROTECTION FROM EXPO SURE TO CONFLICT AND  VIOLENCE ; 23 
+  (8) HOW TO : 
  
-  (6) THE CHILD ’S DEVELOPMENTAL NEED S, INCLUDING PHYSICAL 24 
-SAFETY , EMOTIONAL SECU RITY , POSITIVE SELF –IMAGE , INTERPERSONAL SKILLS , 25 
-AND INTELLECTUAL AND  COGNITIVE GROWTH ; 26 
+   (I) PLACE THE CHILD ’S NEEDS ABOVE THE PA RENTS’ NEEDS ; 
  
-  (7) THE DAY –TO–DAY NEEDS OF THE CHI LD, INCLUDING EDUCATION , 27 
-SOCIALIZATION , CULTURE AND RELIGION , FOOD , SHELTER , CLOTHING , AND 28 
-MENTAL AND PHYSICAL HEALTH ; 29 
+   (II) PROTECT THE CHILD FR OM THE NEGATIVE EFFE CTS OF ANY 
+CONFL ICT BETWEEN THE PARE NTS; AND 
  
-  (8) HOW TO: 30 
+   (III) MAINTAIN THE CHILD ’S RELATIONSHIP WITH THE PARENTS , 
+SIBLINGS , OTHER RELATIVES , OR OTHER INDIVIDUALS  WHO HAVE OR LIKELY M AY 
+HAVE A SIGNIFICANT R ELATIONSHIP WITH THE  CHILD ; 
  
-   (I) PLACE THE CHILD ’S NEEDS ABOVE THE PA RENTS’ NEEDS ; 31 
+  (9) THE AGE OF THE CHILD ; 
  
-4 HOUSE BILL 1191   
+  (10) ANY MILITARY DEPLOYMENT OF A PARENT AND ITS EFFECT , IF 
+ANY, ON THE PARENT –CHILD RELATIONSHIP ; 
  
-    (II) PROTECT THE CHILD FR OM THE NEGATIVE EFFE CTS OF ANY 1 
-CONFLICT BETWEEN THE  PARENTS ; AND 2 
+  (11) ANY PRIOR COURT ORDE RS OR AGREEMENTS ; 
  
-   (III) MAINTAIN THE CHILD ’S RELATIONSHIP WITH THE PARENTS , 3 
-SIBLINGS , OTHER RELATIVES , OR OTHER IN DIVIDUALS WHO HAVE O R LIKELY MAY 4 
-HAVE A SIGNIFICANT R ELATIONSHIP WITH THE  CHILD ; 5 
+  (12) EACH PARENT ’S ROLE AND TASKS REL ATED TO THE CHILD AN D 
+Ch. 483  2025 LAWS OF MARYLAND   
  
-  (9) THE AGE OF THE CHILD ; 6 
+– 4 – HOW , IF AT ALL , THOSE ROLES AND TASK S HAVE CHANGED ; 
  
-  (10) ANY MILITARY DEPLOYM ENT OF A PARENT AND ITS EFFECT , IF 7 
-ANY, ON THE PARENT –CHILD RELATIONSHIP ; 8 
+  (13) THE LOCATION OF EACH  PARENT ’S HOME AS IT RELATES  TO THE 
+PARENT ’S ABILITY TO COORDIN ATE PARENTING TIME , SCHOOL , AND ACTIVITIES ; 
  
-  (11) ANY PRIOR COURT ORDE RS OR AGREEMENTS ; 9 
+  (14) THE PARENTS ’ RELATIONSHIP WITH EA CH OTHER , INCLUDING : 
  
-  (12) EACH PARENT ’S ROLE AND TASKS REL ATED TO THE CHILD AN D 10 
-HOW , IF AT ALL , THOSE ROLES AND TASK S HAVE CHANGED ; 11 
+   (I) HOW THEY COMMUNICATE  WITH EACH OTHER ; 
  
-  (13) THE LOCATION OF EACH  PARENT ’S HOME AS IT RELATES  TO THE 12 
-PARENT ’S ABILITY TO COORDIN ATE PARENTING TIME , SCHOOL , AND ACTIVITIES ; 13 
+   (II) WHETHER THEY CAN CO –PARENT WITHOUT DISRU PTING 
+THE CHILD ’S SOCIAL AND SCHOOL LIFE; AND 
  
-  (14) THE PARENTS ’ RELATIONSHIP WITH EA CH OTHER , INCLUDING : 14 
+   (III) HOW THE PARENTS WILL  RESOLVE ANY DISPUTES  IN THE 
+FUTURE WITHOUT THE N EED FOR COURT INTERV ENTION ; 
  
-   (I) HOW THEY COMMUNICATE  WITH EACH OTHER ; 15 
+  (15) THE CHILD ’S PREFERENCE , IF AGE–APPROPRIATE ; AND 
  
-   (II) WHETHER THEY CAN CO –PARENT WITHOUT DISRU PTING 16 
-THE CHILD ’S SOCIAL AND SCHOOL LIFE; AND 17 
+  (16) ANY OTH ER FACTOR THAT THE C OURT CONSIDERS APPRO PRIATE 
+IN DETERMINING HOW B EST TO SERVE THE PHY SICAL , DEVELOPMENTAL , AND 
+EMOTIONAL NEEDS OF T HE CHILD . 
  
-   (III) HOW THE PARENTS WILL  RESOLVE ANY DISPUTES  IN THE 18 
-FUTURE WITHOUT THE N EED FOR COURT INTERV ENTION ; 19 
+ (B) THE COURT SHALL ARTIC ULATE ITS FINDINGS O F FACT ON THE RECORD  
+OR IN A WRITTEN OPIN ION, INCLUDING THE CONSID ERATION OF EACH FACT OR 
+LISTED IN SUBSECTION  (A) OF THIS SECTION AND  ANY OTHER FACTOR THA T THE 
+COURT CONSIDERED . 
  
-  (15) THE CHILD ’S PREFERENCE , IF AGE–APPROPRIATE ; AND 20 
+9–202. 
  
-  (16) ANY OTHER FACTOR THA T THE COURT CONSIDER S APPROPRIATE 21 
-IN DETERMINING HOW B EST TO SERVE THE PHY SICAL , DEVELOPMENTAL , AND 22 
-EMOTIONAL NEEDS OF T HE CHILD . 23 
+ (A) THE COURT MAY MODIFY , IN ACCORDANCE WITH T HE PROVISIONS OF 
+THIS SUBTITLE , A CHILD CUSTODY OR V ISITATION ORDER IF T HE COURT 
+DETERMINES THAT THER E HAS BEEN A MATERIA L CHANGE IN CIRCUMST ANCES 
+SINCE THE ISSUANCE O F THE ORDER THAT REL ATES TO THE NEEDS OF  THE CHILD 
+OR THE ABILITY OF TH E PARENTS TO MEET TH OSE NEEDS AND THAT M ODIFYING THE 
+ORDER IS IN THE BEST  INTEREST OF THE CHIL D. 
  
- (B) THE COURT SHALL ARTIC ULATE ITS FINDINGS O F FACT ON THE RECORD  24 
-OR IN A WRITTEN OPIN ION, INCLUDING THE CONSID ERATION OF EACH FACT OR 25 
-LISTED IN SUBSECTION  (A) OF THIS SECTION AND  ANY OTHER FACTOR THA T THE 26 
-COURT CONSIDERED . 27 
+ (B) A PARENT ’S PROPOSAL TO RELOCA TE THE RESIDENCE OF THE PARENT 
+OR THE CHILD IN A WA Y THAT WOULD CAUSE P HYSICAL CUSTODY TO B E 
+IMPRACTICABLE CONSTI TUTES A MATERIAL CHA NGE IN CIRCUMSTANCES . 
  
-9–202. 28 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take eff ect 
+October 1, 202 5. 
  
- (A) THE COU RT MAY MODIFY , IN ACCORDANCE WITH T HE PROVISIONS OF 29 
- HOUSE BILL 1191  5 
- 
- THIS SUBTITLE , A CHILD CUSTODY OR V ISITATION ORDER IF T HE COURT 1 
-DETERMINES THAT THER E HAS BEEN A MATERIA L CHANGE IN CIRCUMST ANCES 2 
-SINCE THE ISSUANCE O F THE ORDER THAT REL ATES TO THE NEEDS OF  THE CHILD 3 
-OR THE ABILITY OF THE P ARENTS TO MEET THOSE  NEEDS AND THAT MODIF YING THE 4 
-ORDER IS IN THE BEST  INTEREST OF THE CHIL D. 5 
- 
- (B) A PARENT ’S PROPOSAL TO RELOCA TE THE RESIDENCE OF THE PARENT 6 
-OR THE CHILD IN A WA Y THAT WOULD CAUSE P HYSICAL CUSTODY TO B E 7 
-IMPRACTICABLE CONSTITUTES A MATERI AL CHANGE IN CIRCUMS TANCES . 8 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 9 
-October 1, 202 5. 10 
- 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 13, 2025.  

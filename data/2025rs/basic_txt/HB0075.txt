@@ -1,181 +1,166 @@
+ WES MOORE, Governor  Ch. 126  
  
+– 1 – Chapter 126  
+(House Bill 75 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0075*      
-HOUSE BILL 75  
-G1 EMERGENCY BILL  5lr0174  
-  (PRE–FILED)  CF SB 262  
-By: Chair, Ways and Means Committee (By Request – Departmental – State Board 
-of Elections)  
-Requested: September 19, 2024  
-Introduced and read first time: January 8, 2025  
-Assigned to: Ways and Means  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: February 26, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Election Law – Special Elections  
  
-AN ACT concerning  1 
+FOR the purpose of altering requirements for scheduling special elections to fill vacancies 
+in a county council or in the office of chief executive officer or county executive; 
+authorizing the resolution of a county council establishing the date of a speci al 
+election to fill a vacancy in the county council or in the office of chief executive officer 
+or county executive to direct that a special primary election not be held and that the 
+vacancy be filled solely through a special general election; requiring a county council 
+to specify a method for conducting the special general election if the county council 
+directs that a special primary election not be held;  requiring the State Administrator 
+to conduct a special election in accordance with State law and regul ations if the State 
+Administrator determines a conflict exists between State law and regulations and a 
+county charter or other county law relating to the conduct of a special election; 
+providing that a local board of elections is not required to mail speci men ballots to 
+the registered voters of the county in a special election conducted by mail; altering 
+when a local board is required to send a vote –by–mail ballot to each registered voter 
+in a special election conducted by mail; authorizing a voter to retur n a vote–by–mail 
+ballot through a ballot drop box in a special election conducted by mail; and generally 
+relating to special elections.  
  
-Election Law – Special Elections  2 
+BY repealing and reenacting, with amendments,  
+ Article – Election Law  
+ Section 8–202(a),  8–401(a) and (b), 9 –502(a) and (d), and 9 –504(a)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of altering requirements for scheduling special elections to fill vacancies 3 
-in a county council or in the office of chief executive officer or county executive; 4 
-authorizing the resolution of a county coun cil establishing the date of a special 5 
-election to fill a vacancy in the county council or in the office of chief executive officer 6 
-or county executive to direct that a special primary election not be held and that the 7 
-vacancy be filled solely through a sp ecial general election; requiring a county council 8 
-to specify a method for conducting the special general election if the county council 9 
-directs that a special primary election not be held;  requiring the State Administrator 10 
-to conduct a special election in  accordance with State law and regulations if the State 11 
-Administrator determines a conflict exists between State law and regulations and a 12 
-county charter or other county law relating to the conduct of a special election; 13 
-providing that a local board of ele ctions is not required to mail specimen ballots to 14 
-the registered voters of the county in a special election conducted by mail; altering 15 
-when a local board is required to send a vote –by–mail ballot to each registered voter 16 
-in a special election conducted b y mail; authorizing a voter to return a vote –by–mail 17 
-ballot through a ballot drop box in a special election conducted by mail; and generally 18 
-relating to special elections.  19 
+BY adding to  
+ Article – Election Law  
+Section 8 –402 and 8–403  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  20 
- Article – Election Law  21 
- Section 8–202(a),  8–401(a) and (b), 9 –502(a) and (d), and 9 –504(a)  22 
-2 HOUSE BILL 75   
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-  Annotated Code of Maryland  1 
- (2022 Replacement Volume and 2024 Supplement)  2 
+Article – Election Law  
  
-BY adding to  3 
- Article – Election Law  4 
-Section 8 –402 and 8–403  5 
- Annotated Code of Maryland  6 
- (2022 Replacement Volume and 2024 Supplement)  7 
+8–202. 
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 8 
-That the Laws of Maryland read as follows:  9 
+ (a) A principal political party, as determined by the statement of registration 
+issued by the State Board:  
+Ch. 126  2025 LAWS OF MARYLAND   
  
-Article – Election Law  10 
+– 2 –  
+  (1) shall use the primar y election to:  
  
-8–202. 11 
+   (i) EXCEPT AS PROVIDED I N § 8–402 OF THIS TITLE , nominate its 
+candidates for public office; and  
  
- (a) A principal political party, as determined by the statement of registration 12 
-issued by the Stat e Board:  13 
+   (ii) elect all members of the local central committees of the political 
+party; and  
  
-  (1) shall use the primary election to:  14 
+  (2) may use the primary election in the year of a p residential election to 
+elect delegates to a national presidential nominating convention.  
  
-   (i) EXCEPT AS PROVIDED I N § 8–402 OF THIS TITLE , nominate its 15 
-candidates for public office; and  16 
+8–401. 
  
-   (ii) elect all members of the local central committees of the political 17 
-party; and  18 
+ (a) A special primary election [and] OR a special general election may be held at 
+a time other than the date of a regular primary election [and] OR a regular general election:  
  
-  (2) may use the  primary election in the year of a presidential election to 19 
-elect delegates to a national presidential nominating convention.  20 
+  (1) to fill a vacancy in the office of Representative in Congress; or  
  
-8–401. 21 
+  (2) to fill a vacancy in the county council or in the office of chief executive 
+officer or county executive if the charter of that county provides for special elections.  
  
- (a) A special primary election [and] OR a special general election may be held at 22 
-a time other than the date of a regular primary election [and] OR a regular general election:  23 
+ (b) (1) Special elections to fill a vacancy in the office of Representative in 
+Congress shall be held at the time specified in Subtitle 7 of this title.  
  
-  (1) to fill a vacancy in the office of Representative in Congress; or  24 
+  (2) (i) [Special ] SUBJECT TO SUBPARAGRA PH (II) OF THIS 
+PARAGRAPH , SPECIAL  elect ions to fill vacancies in a county council or in the office of chief 
+executive officer or county executive shall be held as provided in the county charter.  
  
-  (2) to fill a vacancy in the county council  or in the office of chief executive 25 
-officer or county executive if the charter of that county provides for special elections.  26 
+   (ii) The date set for the special election to fill a vacancy under this 
+paragraph [shall]: 
  
- (b) (1) Special elections to fill a vacancy in the office of Representative in 27 
-Congress shall be held at the time specified in Subtitle 7 of this title.  28 
+    1. SHALL BE AT LEAST 90 DAYS AFTER THE ADOPT ION OF 
+THE RESOLUTION OF TH E COUNTY COUNCIL EST ABLISHING THE DATE O F THE 
+SPECIAL ELECTION ;  
  
-  (2) (i) [Special ] SUBJECT TO SUBPARAGRA PH (II) OF THIS 29 
-PARAGRAPH , SPECIAL  elections to fill vacancies in a county council or in the office of chief 30 
-executive officer or county executive shall be held as provided in the county c harter.  31 
+    2. MAY NOT BE WITHIN 120 DAYS OF A REGULARLY 
+SCHEDULED ELECTION ; AND  
  
- HOUSE BILL 75  3 
+    3. SHALL allow at least 45 days between the date a local 
+board makes an absentee ballot available to an absent uniformed services voter or overseas 
+voter, as defined under the Uniformed and Overseas Citizens Absentee Voting Act, and the 
+date of the special election.  
  
-    (ii) The date set for the special election to fill a vacancy under this 1 
-paragraph [shall]: 2 
+8–402.   
+ WES MOORE, Governor  Ch. 126  
  
-    1. SHALL BE AT LEAST 90 DAYS AFTER THE ADOPT ION OF 3 
-THE RESOLUTION OF TH E COUNTY COUNCIL EST ABLISHING THE DATE O F THE 4 
-SPECIAL ELECTION ;  5 
+– 3 –  
+ (A) THE RESOLUTION  OF A COUNTY COUNCIL ESTABLISHING THE DAT E OF  
+A SPECIAL ELECTION T O FILL A VACANCY IN THE COUNTY COUNCIL O R IN THE  
+OFFICE OF CHIEF EXEC UTIVE OFFICER OR COU NTY EXECUTIVE MAY DI RECT THAT : 
  
-    2. MAY NOT BE WITHIN 120 DAYS OF A REGULARLY 6 
-SCHEDULED ELECTION ; AND  7 
+  (1) A SPECIAL PRIMARY EL ECTION NOT BE HELD ; AND  
  
-    3. SHALL allow at least 45 days between the date a local 8 
-board makes an absentee ballot available to an absent uniformed services voter or overseas 9 
-voter, as defined under the Uniformed an d Overseas Citizens Absentee Voting Act, and the 10 
-date of the special election.  11 
+  (2) THE VACANCY  BE FILLED SOLELY THR OUGH A SPECIAL GENER AL 
+ELECTION .  
  
-8–402.   12 
+ (B) IF THE COUNTY COUNCIL  DIRECTS THAT A SPECI AL PRIMARY ELECTION  
+NOT BE HELD , THE RESOLUTION OF TH E COUNTY COUNCIL EST ABLISHING THE DATE  
+OF THE SPECIAL ELECT ION SHALL SPECIFY ON E OF THE FOLLOWING M ETHODS FOR  
+CONDUCTING THE SPECI AL GENERAL ELECTION :  
  
- (A) THE RESOLUTION OF A C OUNTY COUNCIL ESTABL ISHING THE DATE OF  13 
-A SPECIAL ELECTION T O FILL A VACANCY IN THE COUNTY COUNCIL O R IN THE  14 
-OFFICE OF CHIEF EXEC UTIVE OFFICER  OR COUNTY EXECUTIVE MAY DIRECT THAT : 15 
+  (1) A PARTISAN ELECTION IN WHICH THERE ARE N O PARTY NOMINEES  
+BUT EACH FILED CANDI DATE APPEARS ON THE BALLOT WITH THE CAND IDATE’S 
+PARTY AFFILIATION , IF ANY ; OR  
  
-  (1) A SPECIAL PRIMARY EL ECTION NOT BE HELD ; AND  16 
+  (2) A NONPARTISAN ELECTI ON IN WHICH TH ERE ARE NO PARTY  
+NOMINEES AND EACH FI LED CANDIDATE APPEAR S ON THE BALLOT WITH OUT THE  
+CANDIDATE ’S PARTY AFFILIATION .  
  
-  (2) THE VACANCY BE FILLE D SOLELY THROUGH A S PECIAL GENERAL  17 
-ELECTION .  18 
+8–403.   
  
- (B) IF THE COUNTY COUNCIL  DIRECTS THAT A SPECI AL PRIMARY ELECTION  19 
-NOT BE HELD , THE RESOLUTI ON OF THE COUNTY COU NCIL ESTABLISHING TH E DATE  20 
-OF THE SPECIAL ELECT ION SHALL SPECIFY ON E OF THE FOLLOWING M ETHODS FOR  21 
-CONDUCTING THE SPECI AL GENERAL ELECTION :  22 
+ IF THE STATE ADMINISTRATOR DETERMI NES THAT A CONFLICT EXISTS 
+BETWEEN A COUNTY CHA RTER OR OTHER COUNTY  LAW RELATING TO THE CONDUCT 
+OF A SPECIAL ELECTIO N AND THE PROVISIONS  OF THIS ARTICLE OR T HE CODE OF 
+MARYLAND REGULATIONS , THE STATE ADMINISTRATOR SHALL C ONDUCT THE 
+SPEC IAL ELECTION ENTIREL Y IN ACCORDANCE WITH  THIS ARTICLE AND THE  CODE 
+OF MARYLAND REGULATIONS .  
  
-  (1) A PARTISAN ELECTION IN WHICH THERE ARE N O PARTY NOMINEES  23 
-BUT EACH FILED CANDI DATE APPEARS  ON THE BALLOT WITH T HE CANDIDATE ’S 24 
-PARTY AFFILIATION , IF ANY ; OR  25 
+9–502. 
  
-  (2) A NONPARTISAN ELECTI ON IN WHICH THERE AR E NO PARTY  26 
-NOMINEES AND EACH FI LED CANDIDATE APPEAR S ON THE BALLOT WITH OUT THE  27 
-CANDIDATE ’S PARTY AFFILIATION .  28 
+ (a) (1) Except as provided in paragraph (2) of this subsection, a local board 
+shall mail by nonforwardable mail a vote –by–mail ballot to each registered voter who is 
+eligible to vote in a special election.  
  
-8–403.   29 
+  (2) A local board is not required to mail a vote –by–mail ballot to a voter if 
+the voter has requested that the ballot be sent by other means.  
  
- IF THE STATE ADMINISTRATOR DETERMI NES THAT A CONFLICT EXISTS 30 
-BETWEEN A COUNTY CHA RTER OR OTHER COUNTY  LAW RELATING TO THE CONDUCT 31 
-OF A SPECIAL ELECTIO N AND THE PROVISIONS  OF THIS ARTICLE OR T HE CODE OF 32 
-MARYLAND REGULATIONS , THE STATE ADMINISTRATOR SHALL C ONDUCT THE 33 
-4 HOUSE BILL 75   
+  (3) A LOCAL BOARD IS NOT R EQUIRED TO MAIL SPEC IMEN BALL OTS 
+TO THE REGISTERED VO TERS OF THE COUNTY U NDER § 8–102 OF THIS ARTICLE . 
  
- SPEC IAL ELECTION ENTIREL Y IN ACCORDANCE WITH  THIS ARTICLE AND THE  CODE 1 
-OF MARYLAND REGULATIONS .  2 
+Ch. 126  2025 LAWS OF MARYLAND   
  
-9–502. 3 
+– 4 –  (d) A local board shall send a vote –by–mail ballot to each eligible voter at least 
+[14] 30 days before the day of a special election.  
  
- (a) (1) Except as provided in paragraph (2) of this subsection, a local board 4 
-shall mail by nonforwardable mail a vote –by–mail ballot to each registered voter who is 5 
-eligible to vote in a special election.  6 
+9–504. 
  
-  (2) A local board is not required to mail a vote –by–mail ballot to a voter if 7 
-the voter has requested that the ballot be sent by other means.  8 
+ (a) A voter may return a vote –by–mail ballot to a local board:  
  
-  (3) A LOCAL BOARD IS NOT R EQUIRED TO MAIL SPEC IMEN BALL OTS 9 
-TO THE REGISTERED VO TERS OF THE COUNTY U NDER § 8–102 OF THIS ARTICLE . 10 
+  (1) by mail;  
  
- (d) A local board shall send a vote –by–mail ballot to each eligible voter at least 11 
-[14] 30 days before the day of a special election.  12 
+  (2) in person during regular office hours; [or] 
  
-9–504. 13 
+  (3) THROUGH A BALLOT DRO P BOX ; OR 
  
- (a) A voter may return a vote –by–mail ballot to a local board:  14 
+  (4) through a duly authorized agent in accordance with subsection (b) of 
+this section.  
  
-  (1) by mail;  15 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act is an emergency 
+measure, is necessary for the immediate preservation of the public health or safety, has 
+been passed by a yea and nay vote supported by three –fifths of all the members elected to 
+each of t he two Houses of the General Assembly, and shall take effect from the date it is 
+enacted.  
  
-  (2) in person during regular office hours; [or] 16 
- 
-  (3) THROUGH A BALLOT DRO P BOX ; OR 17 
- 
-  (4) through a duly authorized agent in accordance with subsection (b) of 18 
-this section.  19 
- 
- SECTION 2. AND BE IT FURTHER ENAC TED, That this Act is an emergency 20 
-measure, is necessary for the immediate preservation of the public health or safety, has 21 
-been passed by a yea and nay vote supported by three –fifths of all the members elected to 22 
-each of the two Houses of the General Asse mbly, and shall take effect from the date it is 23 
-enacted.  24 
- 
+Approved by the Governor, April 22, 2025.  

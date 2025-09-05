@@ -1,190 +1,166 @@
+ WES MOORE, Governor  Ch. 234  
  
+– 1 – Chapter 234  
+(House Bill 716 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.  
-         Italics indicate opposite chamber/confere nce committee amendments.             *hb0716*      
-HOUSE BILL 716  
-C9   (5lr0149 ) 
-ENROLLED BILL  
-— Environment and Transportation/Education, Energy, and the Environment  — 
-Introduced by Chair, Environment and Transportation Committee (By Request – 
-Departmental – Housing and Community Development)  
+AN ACT concerning  
  
-Read and Examined by Proofreaders:  
+Housing and Community Development – Statewide Rental Assistance Voucher 
+Program Eligibility – Alterations  
  
-_______________________________________________  
-Proofreader.  
-_______________________________________________  
-Proofreader.  
+FOR the purpose of including the Department of Housing and Community Development in 
+the definition of “public housing agency” for the purpose of certain provisions of law 
+relating to the Statewide Rental Assistance Voucher Program; authorizing a public 
+housing agency to administer the Program in accordance with a local administrative 
+plan;  authorizing the Department to project –base up to a certain amount of its 
+authorized voucher units; altering the manner in which the Department and each 
+public housing age ncy shall prioritize vouchers and housing assistance payments for 
+certain families; altering the percentage of monthly adjusted gross income for rent 
+and utilities a family assisted under the Program shall be expected to pay;  altering 
+the time at which the Department or a public housing agency shall make a certain 
+determination; altering certain inspection schedule and standard requirements; 
+altering the amount the Department shall issue to each public housing agency each 
+year for certain purposes; and generally relating to the Statewide Rental Assistance 
+Voucher Program.  
  
-Seale d with the Great Seal and presented to the Governor, for his approval this  
-  
-_______ day of _______________ at ________________________ o’clock, ________M.  
-  
-______________________________________________  
-Speaker .  
+BY repealing and reenacting, without amendments,  
+ Article – Housing and Community Development  
+Section 4 –2901(a) and 4 –2902  
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024 Supplement)  
  
-CHAPTER ______  
+BY repealing and reenacting, with amendments,  
+ Article – Housing and Community Development  
+ Section 4 –2901(i), 4–2904(a)  4–2904 , 4–2906, 4 –2908(b), 4 –2911, and 4 –2919  
+ Annotated Code of Maryland  
+ (2019 Replace ment Volume and 2024 Supplement)  
  
-AN ACT concerning  1 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-Housing and Community Development – Statewide Rental Assistance Voucher 2 
-Program Eligibility – Alterations  3 
+Article – Housing and Community Development  
  
-FOR the purpose of including the Department of Housing and Community Development in 4 
-the definition of “public housing agency” for the purpose of ce rtain provisions of law 5 
-relating to the Statewide Rental Assistance Voucher Program; authorizing a public 6 
-housing agency to administer the Program in accordance with a local administrative 7 
-plan;  authorizing the Department to project –base up to a certain amount of its 8 
-authorized voucher units; altering the manner in which the Department and each 9 
-public housing agency shall prioritize vouchers and housing assistance payments for 10 
-certain families; altering the percentage of monthly adjusted gross income for rent 11 
-and utilities a family assisted under the Program shall be expected to pay;  altering 12 
-the time at which the Department or a public housing agency shall make a certain 13 
-determination; altering c ertain inspection schedule and standard requirements; 14 
-2 HOUSE BILL 716   
+4–2901.  
  
- altering the amount the Department shall issue to each public housing agency each 1 
-year for certain purposes; and generally relating to the Statewide Rental Assistance 2 
-Voucher Program.  3 
+ (a) In this subtitle the following words have the meanings i ndicated.  
  
-BY repealing an d reenacting, without amendments,  4 
- Article – Housing and Community Development  5 
-Section 4 –2901(a) and 4 –2902  6 
- Annotated Code of Maryland  7 
- (2019 Replacement Volume and 2024 Supplement)  8 
+Ch. 234  2025 LAWS OF MARYLAND   
  
-BY repealing and reenacting, with amendments,  9 
- Article – Housing and Com munity Development  10 
- Section 4 –2901(i), 4–2904(a)  4–2904 , 4–2906, 4 –2908(b), 4 –2911, and 4 –2919  11 
- Annotated Code of Maryland  12 
- (2019 Replacement Volume and 2024 Supplement)  13 
+– 2 –  (i) [(1)] “Public housing agency” means an entity authorized by the U.S. 
+Department of Housing and Urban Development to administer the federal Housing Choice 
+Voucher Program in the State.  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 14 
-That the Laws of Maryland read as follows:  15 
+  [(2) “Public housing agency” does not include the Dep artment. ] 
  
-Article – Housing and Community Development  16 
+4–2902.  
  
-4–2901.  17 
+ There is a Statewide Rental Assistance Voucher Program in the Department.  
  
- (a) In this subtitle the following words have the meanings indicated.  18 
+4–2904.  
  
- (i) [(1)] “Public housing agency” means an entity authorized by the U.S. 19 
-Department of Housing and Urb an Development to administer the federal Housing Choice 20 
-Voucher Program in the State.  21 
+ (a) (1) In political subdivisions without a local administrator under the federal 
+Housing Choice Voucher Program, the Department shall administer the State Program and 
+issue vouchers and housing assistance payments to assist low –income households that are 
+eligible for but are not currently receiving housing choice vouchers under the federal 
+Housing Choice Voucher Program.  
  
-  [(2) “Public housing agency” does not include the Department. ] 22 
+  (2) In political subdivision s with a public housing agency –administrator 
+under the federal Housing Choice Voucher Program, the public housing agency : 
  
-4–2902.  23 
+   (I) shall administer the State Program and issue vouchers and 
+housing assistance payments to assist low –income households that are  eligible for but are 
+not currently receiving housing choice vouchers under the federal Housing Choice Voucher 
+Program ; AND  
  
- There is a Statewide Rental Assistance Voucher Program in the Department.  24 
+   (II) MAY, SUBJECT TO SUBSECTIO N (B) OF THIS SECTION , 
+ADMINISTER THE STATE PROGRAM IN ACCORDANCE  WITH THE LOCAL 
+ADMINISTRATIVE PL AN OF THE PUBLIC HOU SING AGENCY . 
  
-4–2904.  25 
+  (3) THE DEPARTMENT MAY PROJEC T–BASE UP TO 100%  OF ITS 
+AUTHORIZED VOUCHER U NITS IF NECESSARY TO  ADMINISTER THE STATE 
+PROGRAM , INCLUDING IN POLITIC AL SUBDIVISIONS WITH OUT A LOCAL 
+ADMINISTRATOR UNDER THE FEDERAL HOUSING CHOICE VOUCHER PROGRAM . 
  
- (a) (1) In political subdivisions without a local administrator under the federal 26 
-Housing Choice Voucher Program, the Department shall administer the State Program and 27 
-issue vouchers and housing assistance payments to assist low –income households that are 28 
-eligible  for but are not currently receiving housing choice vouchers under the federal 29 
-Housing Choice Voucher Program.  30 
+ (b) Except as otherwise provided in this subtitle, the State Program shall be 
+administered in accordance with federal guidelines under the federal Housing Choice 
+Voucher Program.  
  
-  (2) In political subdivisions with a public housing agency –administrator 31 
-under the federal Housing Choice Voucher Program, the public housing agency : 32 
+4–2906.  
  
- HOUSE BILL 716  3 
+ [The Department and each ] EACH  public housi ng agency shall [equally ] prioritize 
+vouchers and housing assistance payments for families that include:  
  
-    (I) shall administer the State Program and issue vouchers and 1 
-housing assistance payments to assist low –income households that are eligible for but are 2 
-not currently receiving housing choice vouchers under the federal Housing Choice Voucher 3 
-Program ; AND  4 
+  (1) a child who is under the age of 18 years;  
+ WES MOORE, Governor  Ch. 234  
  
-   (II) MAY, SUBJECT TO SUBSECTIO N (B) OF THIS SECTION , 5 
-ADMINISTER THE STATE PROGRAM IN ACCORDANCE  WITH THE LOCAL 6 
-ADMINISTRATIVE PLAN OF THE PUBLIC HOUSIN G AGENCY . 7 
+– 3 –  
+  (2) a foster child who is:  
  
-  (3) THE DEPARTMENT MAY PROJEC T–BASE UP TO 100%  OF ITS 8 
-AUTHORIZED VOUCHER U NITS  IF NECESSARY TO ADMI NISTER THE STATE 9 
-PROGRAM , INCLUDING IN POLITIC AL SUBDIVISIONS WITH OUT A LOCAL 10 
-ADMINISTRATOR UNDER THE FEDERAL HOUSING CHOICE VOUCHER PROGRAM . 11 
+   (i) at least 18 years old; but  
  
- (b) Except as otherwise provided in this subtitle, the State Program shall be 12 
-administered in accordance with federal guidelines under the federal Housing Choice 13 
-Voucher Program.  14 
+   (ii) under the age of 24 years;  
  
-4–2906.  15 
+  (3) a military veteran;  
  
- [The Department and each ] EACH  public housing agency shall [equally ] prioritize 16 
-vouchers and housing assistance payments for families that include:  17 
+  (4) an individual experiencing homelessness;  
  
-  (1) a child who is under the age of 18 years;  18 
+  (5) a disabled individual; or  
  
-  (2) a foster child who is:  19 
+  (6) an elderly individual.  
  
-   (i) at least 18 years old; but  20 
+4–2908.  
  
-   (ii) under the age of 24 years;  21 
+ (b) A family assisted under the State Program shall be expected to pay not more 
+than [30%] 40%  of its monthl y adjusted gross income for rent and utilities, as determined 
+by [the Department or ] the public housing agency AT THE TIME THE FAMI LY INITIALLY 
+RECEIVES ASSISTANCE UNDER THE STATE PROGRAM , EXCEPT AS OTHERWISE 
+PROVIDED IN THE FEDE RAL HOUSING CHOICE VOUCHER PROGRAM . 
  
-  (3) a military veteran;  22 
+4–2911.  
  
-  (4) an individual experiencing homelessness;  23 
+ (a) (1) [The Department or a ] A public housing agency shall conduct [annual ] 
+AN INITIAL INSPECTIO N AND PERIODIC  inspections  THEREAFTER  of each unit rented 
+using housing assistance payments to ensure the continued compliance with federal 
+housing quality standards under 24 C.F.R. § 982.401 OR 24 C.F.R.  § 5.703,  AS 
+APPLICABLE . 
  
-  (5) a disabled individual; or  24 
+  (2) Inspections shall occur on or before the initial lease da te and [each 
+year] AT LEAST BIENNIALLY  thereafter  IN ACCORDANCE WITH T HE PUBLIC HOUSING 
+AGENCY ’S ADMINISTRATIVE PLA N. 
  
-  (6) an elderly individual.  25 
+ (b) For a unit located in a building with 3 to 49 units, the property owner shall 
+provide [the Department or ] the public housing agency with a certificate of occupancy that 
+has been completed within 1 year.  
  
-4–2908.  26 
+ (c) For a unit located in a building with 50 units or more, the property owner shall 
+provide [the Department or ] the public housing agency with an inspection certificate.  
  
- (b) A family assisted under the State Program shall be expected to pay not more 27 
-than [30%] 40%  of its monthly adjusted gross income for rent and utilities, as determined 28 
-by [the Department or ] the public housing agency AT THE TIME THE FAMILY INITIALLY 29 
-RECEIVES ASSISTANCE UNDER THE STATE PROGRAM , EXCEPT AS OTHERWISE 30 
-PROVIDED IN THE FEDE RAL HOUSING CHOICE VOUCHER PROGRAM . 31 
-4 HOUSE BILL 716   
+4–2919.  
  
-  
-4–2911.  1 
+Ch. 234  2025 LAWS OF MARYLAND   
  
- (a) (1) [The Department or a ] A public housing agency shall conduct [annual ] 2 
-AN INITIAL INSPECTION AND PERIO DIC inspections  THEREAFTER  of each unit rented 3 
-using housing assistance payments to ensure the continued compliance with federal 4 
-housing quality standards under 24 C.F.R. § 982.401 OR 24 C.F.R.  § 5.703,  AS 5 
-APPLICABLE . 6 
+– 4 –  (a) (1) For fiscal years 2025, 2026, and 2027, the Governor shall include in the 
+annual budget bill an appropriation of $10,000,000 to the Department for the State 
+Program.  
  
-  (2) Inspections  shall occur on or before the initial lease date and [each 7 
-year] AT LEAST BIENNIALLY  thereafter  IN ACCORDANCE WITH T HE PUBLIC HOUSING 8 
-AGENCY ’S ADMINISTRATIVE PLA N. 9 
+  (2) For fiscal year 2028 and each fiscal year thereafter, the Governor shall 
+include in the annual budget bill an appropriation sufficient to fund at least the same 
+number of vouchers issued in the prior fiscal year.  
  
- (b) For a unit located in a building with 3 to 49 units, the property owner shall 10 
-provide [the Department or ] the public housing agency with a certificate of occupancy that 11 
-has been completed within 1 year.  12 
+ (b) Of the amount specified under subsection (a) of this section, the  THE 
+Department shall distribute [6% THE GREATER OF THE FEDER AL DE MINIMIS RATE O F 
+THE PUBLIC HOUSING A GENCY’S MODIFIED TOTAL DIR ECT COSTS AS ESTABLI SHED 
+IN 2 C.F.R.  § 200.414( F) OR 15%  OF THE AMOUNT SPECIF IED UNDER SUBSECTION  
+(A) OF THIS SECTION ] each year to  [public housing agencies ] EACH PUBLI C HOUSING 
+AGENCY OR AN AMOUNT EQUAL TO T HE FEDERAL DE MINIMI S RATE OF THE PUBLIC  
+HOUSING AGENCY ’S MODIFIED TOTAL DIR ECT COSTS AS ESTABLI SHED IN 2 C.F.R.  § 
+200.414( F), WHICHEVER IS GREATER , to help defray staffing expenses related to the 
+administration of the federal Housing Choice Voucher Program and the State Program.  
  
- (c) For a unit located in a building with 50 units or more, the property owner shall 13 
-provide [the Department or ] the public housing agenc y with an inspection certificate.  14 
+ (c) The Department shall develop a formula for distributing State Program funds 
+to [the Department and ] each public housi ng agency.  
  
-4–2919.  15 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
- (a) (1) For fiscal years 2025, 2026, and 2027, the Governor shall include in the 16 
-annual budget bill an appropriation of $10,000,000 to the Department for the State 17 
-Program.  18 
- 
-  (2) For fiscal year 2028 and each f iscal year thereafter, the Governor shall 19 
-include in the annual budget bill an appropriation sufficient to fund at least the same 20 
-number of vouchers issued in the prior fiscal year.  21 
- 
- (b) Of the amount specified under subsection (a) of this section, the  THE 22 
-Department shall distribute [6% THE GREATER OF THE F EDERAL DE MINIMIS RA TE OF 23 
-THE PUBLIC HOUSING A GENCY’S MODIFIED TOTAL DIR ECT COSTS AS ESTABLI SHED 24 
-IN 2 C.F.R.  § 200.414( F) OR 15%  OF THE AMOUNT SPECIF IED UNDER SUBSECTION  25 
-(A) OF THIS SECTION ] each year to  [public housing agencies ] EACH PUBLIC HOUSING 26 
-AGENCY OR AN AMOUNT EQUAL TO T HE FEDERAL DE MINIMI S RATE OF THE PUBLIC  27 
-HOUSING AGENCY ’S MODIFIED TOTAL DIR ECT COSTS AS ESTABLI SHED IN 2 C.F.R.  § 28 
-200.414( F), WHICHEVER IS GREATER , to help defray staffing expenses related to the 29 
-administration of the federal Housing Choice Voucher Program and the State Program.  30 
- 
- (c) The Department shall develop a formula for distributing State Program funds 31 
-to [the Department and ] each public housi ng agency.  32 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 33 
-October 1, 2025.  34 
+Approved by the Governor, April 22, 2025.  

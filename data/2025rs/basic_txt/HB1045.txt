@@ -1,371 +1,346 @@
+ WES MOORE, Governor  Ch. 469  
+ 
+– 1 – Chapter 469  
+(House Bill 1045 ) 
+ 
+AN ACT concerning  
+ 
+Health Insurance and, Family Planning Services , and Confidentiality of Medical 
+Records  – Consumer Protections – Updates  
+ 
+FOR the purpose of updating references to federal law related to family planning services, 
+grandfathered plans, explanation of benefits, summaries of benefits and coverage, 
+medical loss ratios, catastrophic plans, annual limits for cost sharing, prescripti on 
+drugs, and rescissions; updating references related to funding for the Family 
+Planning Program and access to family planning services under the Maryland 
+Medical Assistance Program; altering the definition of “family planning providers” 
+to include provid ers that lost certain federal funding for certain reasons  altering the 
+definitions of “legally protected health care ” and “sensitive health services ” to include 
+gender –affirming care for purposes of law governing the disclosure of information 
+regarding sensitive health services ; providing that the Maryland Insurance 
+Commissioner and the Commission on Civil Rights have concurrent jurisdiction to 
+enforce  certain provisions of law related to discrimination in health insurance; 
+authorizing the Commissioner to adopt regulations necessary to carry out certain 
+provisions of law related to discrimination in health insurance; and generally 
+relating to health ins urance, family planning services, and confidentiality of medical 
+records  and consumer protections.  
  
+BY repealing and reenacting, with amendments,  
+ Article – Health – General  
+Section 13 –3401, 13 –3402, and 15 –102.1(b)(6)  
+ Annotated Code of Maryland  
+ (2023  Replacement Volume and 2024 Supplement)  
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb1045*      
-HOUSE BILL 1045  
-J5, J1    5lr2591  
-    CF SB 940  
-By: Delegates Pena –Melnyk, Cullison, Martinez , and White  Holland  
-White  Holland , Alston, Bagnall, Bhandari, Guzzone, Hill, S.  Johnson, 
-Kaiser, Kerr, Lopez, Rosenberg, Ross, Taveras, Woods, and Woorman  
-Introduced and read first time: February 5, 2025  
-Assigned to: Health and Government Operations  
-Committee Report: Favorable with am endments  
-House action: Adopted  
-Read second time: February 27, 2025  
- 
-CHAPTER ______  
- 
-AN ACT concerning  1 
- 
-Health Insurance and, Family Planning Services , and Confidentiality of Medical 2 
-Records  – Consumer Protections – Updates  3 
- 
-FOR the purpose of updating references to federal law related to family planning services, 4 
-grandfathered plans, explanation of benefits, summaries of benefits and coverage, 5 
-medical loss ratios, catastrophic plans, annual limits for cost sharing, prescripti on 6 
-drugs, and rescissions; updating references related to funding for the Family 7 
-Planning Program and access to family planning services under the Maryland 8 
-Medical Assistance Program; altering the definition of “family planning providers” 9 
-to include provid ers that lost certain federal funding for certain reasons  altering the 10 
-definitions of “legally protected health care ” and “sensitive health services ” to include 11 
-gender –affirming care for purposes of law governing the disclosure of information 12 
-regarding sen sitive health services ; providing that the Maryland Insurance 13 
-Commissioner and the Commission on Civil Rights have concurrent jurisdiction to 14 
-enforce certain provisions of law related to discrimination in health insurance; 15 
-authorizing the Commissioner to a dopt regulations necessary to carry out certain 16 
-provisions of law related to discrimination in health insurance; and generally 17 
-relating to health insurance, family planning services, and confidentiality of medical 18 
-records  and consumer protections.  19 
- 
-BY r epealing and reenacting, with amendments,  20 
- Article – Health – General  21 
-Section 13 –3401, 13 –3402, and 15 –102.1(b)(6)  22 
-2 HOUSE BILL 1045   
- 
-  Annotated Code of Maryland  1 
- (2023 Replacement Volume and 2024 Supplement)  2 
- 
-BY repealing and reenacting, without amendments,  3 
- Article – Healt h – General  4 
-Section 15 –101(a) and (h)  5 
- Annotated Code of Maryland  6 
- (2023 Replacement Volume and 2024 Supplement)  7 
+BY repealing and reenacting, without amendments,  
+ Article – Health – General  
+Section 15 –101(a) and (h)  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  8 
- Article – Health – General  9 
- Section 4 –301(a) and 15 –101(a) and (h)  10 
- Annotated Code of Maryland  11 
- (2023 Replacement Volume and 2024 Supplement)  12 
- 
-BY repealing and reenacting, with amendments,  13 
- Article – Health – General  14 
- Section 4 –301(j) and (r), 13 –3401, 13 –3402, and 15 –102.1(b)(6)  15 
- Annotated Code of Maryland  16 
- (2023 Replacement Volume and 202 4 Supplement)  17 
+BY repealing and reenacting, withou t amendments,  
+ Article – Health – General  
+ Section 4 –301(a) and 15 –101(a) and (h)  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  18 
- Article – Insurance  19 
-Section 2 –202(a), 15 –1A–01(e), 15 –1A–03(a), 15 –1A–04, 15 –1A–15(c), 15 –1A–16(a) 20 
-and (e), 15 –1A–18(d), 15 –1A–19(c), 15 –1A–20(c), 15 –1A–21(c), and  21 
-15–1A–22(e)  22 
- Annotated Code of Maryland  23 
- (2017 Replacement Volume and 2024 Supplement)  24 
+BY repealing and reenacting, with amendments,  
+ Article – Health – General  
+ Section 4 –301(j) and (r), 13 –3401, 13 –3402, and 15 –102.1(b)(6)  
+Ch. 469  2025 LAWS OF MARYLAND   
  
-BY repealing and reenacting, without amendments,  25 
- Article – Insurance  26 
-Section 15 –1A–01(a)  27 
- Annotated Code of Maryland  28 
- (2017 Replacement Volume and 2024 Supplement)  29 
+– 2 –  Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-BY adding to  30 
- Article – Insurance  31 
-Section 15 –1A–22(f)  32 
- Annotated Code of Maryland  33 
- (2017 Replacement Volume and 2024 Supplement)  34 
+BY repealing and reenacting, with amendments,  
+ Article – Insurance  
+Section 2 –202(a), 15 –1A–01(e), 15 –1A–03(a), 15 –1A–04, 15 –1A–15(c), 15 –1A–16(a) 
+and (e), 15 –1A–18(d), 15 –1A–19(c), 15 –1A–20(c), 15 –1A–21(c), and  
+15–1A–22(e)  
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2024 Supplement)  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 35 
-That the Laws of Maryland read as follows:  36 
+BY repealing and reenacting, without amendments,  
+ Article – Insurance  
+Section 15 –1A–01(a)  
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2024 Supplement)  
  
-Article – Health – General  37 
+BY adding to  
+ Article – Insurance  
+Section 15 –1A–22(f)  
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2024 Supplement)  
  
-4–301. 38 
- HOUSE BILL 1045  3 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY O F MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-  
- (a) In this subtitle the following words have the meanings indicated.  1 
+Article – Health – General  
  
- (j) “Legally protected health care ” means all [reproductive ] SENSITIVE  health 2 
-services, medications, and supplies related to:  3 
+4–301. 
  
-  (1) The provision of abortion care; and  4 
+ (a) In this subtitle the following words have the meanings indicated.  
  
-  (2) [Other ] REPROD UCTIVE HEALTH AND OT HER  sensitive health 5 
-services as determined by the Secretary based on the recommendations of the Protected 6 
-Health Care Commission established under § 4 –310 of this subtitle.  7 
+ (j) “Legally protected health care ” means all [reproductive ] SENSITIVE  health 
+services, medications, and supplies related to:  
  
- (r) “Sensitive health services ” includes [reproductive ]: 8 
+  (1) The provision of abortion care; and  
  
-  (1) REPRODUCTIVE  health services other than abortion care ; AND  9 
+  (2) [Other ] REPRODUCTIVE HEALTH A ND OTHER  sensitive health 
+services as determined by the Secretary based on the recommendations of the Protected 
+Health Care Commission established under § 4 –310 of this subtitle.  
  
-  (2) GENDER–AFFIRMING CARE .  10 
+ (r) “Sensitive health services ” includes [reproductive ]: 
  
-13–3401.  11 
+  (1) REPRODUCTIVE  health  services other than abortion care ; AND  
  
- (a) In this subtitle the following words have the meanings indicated.  12 
+  (2) GENDER–AFFIRMING CARE .  
+ WES MOORE, Governor  Ch. 469  
  
- (b) “Family planning providers” means providers of services:  13 
+– 3 –  
+13–3401.  
  
-  (1) Funded under Title X of the federal Public Health Service Act as of 14 
-December 31, [2016] 2024 ; and  15 
+ (a) In this subtitle the following words have the meanings indicated.  
  
-  (2) That lost eligibility for Title X funding as a result of the termination of 16 
-federal funding for providers because of:  17 
+ (b) “Family planning providers” means providers of services:  
  
-   (i) The scope of services off ered by the providers; [or] 18 
+  (1) Funded under Title X of the feder al Public Health Service Act as of 
+December 31, [2016] 2024 ; and  
  
-   (ii) The scope of services for which the providers offer referrals , 19 
-COUNSELING , OR OTHER ACTIONS DES CRIBED IN RULES ESTA BLISHED BY THE U.S.  20 
-DEPARTMENT OF HEALTH AND HUMAN SERVICES ; OR 21 
+  (2) That lost eligibility for Title X funding as a result of the termination of 
+federal funding for providers because of:  
  
-   (III) THE PROVISIONS OF FUN DING OR GRANTS TO ENTITIES O F 22 
-PROVIDERS DESCRIBED IN ITEM (I) OR (II) OF THIS ITEM . 23 
+   (i) The scope of services offered by the providers; [or] 
  
- (c) “Family planning services” means services provided under Title X of the 24 
-federal Public Health Service Act as of December 31, [2016] 2024 . 25 
+   (ii) The scope of services for which the providers offer referrals , 
+COUNSELING , OR OTHER ACTIONS DES CRIBED IN RULES ESTA BLISHED BY THE U.S.  
+DEPARTMENT OF HEALTH AND HUMAN SERVICES ; OR 
  
- (d) “Program” means the Family Pla nning Program established under § 13 –3402 26 
-of this subtitle.  27 
+   (III) THE PROVISIONS OF FUN DING OR GRANTS TO EN TITIES OF  
+PROVIDERS D ESCRIBED IN ITEM (I) OR (II) OF THIS ITEM . 
  
-13–3402.  28 
-4 HOUSE BILL 1045   
+ (c) “Family planning services” means services provided under Title X of the 
+federal Public Health Service Act as of December 31, [2016] 2024 . 
  
-  
- (a) There is a Family Planning Program in the Department.  1 
+ (d) “Program” means the Family Planning Program established under §  13–3402 
+of this subtitle.  
  
- (b) The purpose of the Program is to ensure the continuity of family planning 2 
-services in the State.  3 
+13–3402.  
  
- (c) The Program shall  provide family planning services to individuals who are 4 
-eligible for family planning services through family planning providers that meet Program 5 
-requirements.  6 
+ (a) There is a Family Planning Program in the Department.  
  
- (d) The Department may adopt regulations to implement this subtitle, including 7 
-regulations es tablishing a sliding scale fee for services provided under the Program.  8 
+ (b) The purpose of the Program is to ensure the continuity of family planning 
+services in the State.  
  
- (e) Funding used to support family planning services under the Program shall be 9 
-in addition to any funding applied by the Department before December 31, [2016] 2024 , to 10 
-the maintenan ce of effort requirement for federal funding under Title X of the federal Public 11 
-Health Service Act.  12 
+ (c) The Program shall provide family planning services  to individuals who are 
+eligible for family planning services through family planning providers that meet Program 
+requirements.  
  
- (f) (1) The Department may not accept any federal funding under Title X of 13 
-the federal Public Health Service Act if the Title X program:  14 
+ (d) The Department may adopt regulations to implement this subtitle, including 
+regulations establishing a sliding scale fee fo r services provided under the Program.  
  
-   (i) Excludes  family planning providers; and  15 
+ (e) Funding used to support family planning services under the Program shall be 
+in addition to any funding applied by the Department before December 31, [2016] 2024 , to 
+the maintenance of effort requirement for federal funding under Title X of the federal Public 
+Health Service Act.  
+Ch. 469  2025 LAWS OF MARYLAND   
  
-   (ii) Does not require family planning providers to provide a broad 16 
-range of acceptable and effective medically approved family planning methods and services.  17 
+– 4 –  
+ (f) (1) The Department may not accept any federal funding under Title X of 
+the federal Public Health Service Act if the Title X program:  
  
-  (2) If the Department does not accept Title X program funds  in accordance 18 
-with paragraph (1) of this subsection, the Governor shall fund the Program with State 19 
-funds at the same level of total funds provided to the Program in the immediately preceding 20 
-fiscal year.  21 
+   (i) Excludes family planning providers; a nd 
  
-15–101. 22 
+   (ii) Does not require family planning providers to provide a broad 
+range of acceptable and effective medically approved family planning methods and services.  
  
- (a) In this title the following words h ave the meanings indicated.  23 
+  (2) If the Department does not accept Title X program funds in accordance 
+with paragraph  (1) of this subsection, the Governor shall fund the Program with State 
+funds at the same level of total funds provided to the Program in the immediately preceding 
+fiscal year.  
  
- (h) “Program” means the Maryland Medical Assistance Program.  24 
+15–101. 
  
-15–102.1.  25 
+ (a) In this title the following words have the meanings indicated.  
  
- (b) The Department shall, to the extent permitted, subject to the limitations of 26 
-the State budget:  27 
+ (h) “Program” means the Maryland Medical Assistance Program.  
  
-  (6) Ensure access to and the continuity of service s provided by family 28 
-planning providers that were family planning providers in the Program as of December 31, 29 
-[2016] 2024 , and were discontinued as recipients of federal funding under federal law or 30 
-regulation because of the scope of services offered by th e provider or the scope of services 31 
-for which the provider offered referrals, by:  32 
- HOUSE BILL 1045  5 
+15–102.1.  
  
-  
-   (i) Reimbursing for the Program services provided; and  1 
+ (b) The Department shall, to the extent permitted, subject to the limitations of 
+the State budget:  
  
-   (ii) Establishing Program requirements for the family planning 2 
-providers that:  3 
+  (6) Ensure access to and the continuity of services provided by family 
+planning  providers that were family planning providers in the Program as of December 31, 
+[2016] 2024 , and were discontinued as recipients of federal funding under federal law or 
+regulation because of the scope of services offered by the provider or the scope of se rvices 
+for which the provider offered referrals, by:  
  
-    1. Are similar to the requirements for other providers of the 4 
-same services;  5 
+   (i) Reimbursing for the Program services provided; and  
  
-    2. Do not prohibit a provider from offering a service if the 6 
-service is within the scope of practice of the provider as established under the Health 7 
-Occupations Article; and  8 
+   (ii) Establishing Program requirements for the family planning 
+providers that:  
  
-    3. Do not limit t he scope of services for which a provider may 9 
-offer referrals;  10 
+    1. Are similar to the requirements for other providers o f the 
+same services;  
  
-Article – Insurance  11 
+    2. Do not prohibit a provider from offering a service if the 
+service is within the scope of practice of the provider as established under the Health 
+Occupations Article; and  
  
-2–202. 12 
+    3. Do not limit the scope of services for which a p rovider may 
+offer referrals;  
  
- (a) (1) Notwithstanding any other law and except as provided in paragraph (2) 13 
-of this subsection, the Commissioner has exclusive jurisdiction to enforce by admini strative 14 
-action the laws of the State that relate to the underwriting or rate –setting practices of an 15 
-insurer.  16 
+ WES MOORE, Governor  Ch. 469  
  
-  (2) The Commission on Civil Rights has concurrent jurisdiction with the 17 
-Commissioner : 18 
+– 5 – Article – Insurance  
  
-   (I) over alleged discrimination on the basis of race , creed, color, or 19 
-national origin ; AND  20 
+2–202. 
  
-   (II) FOR THE ENFORCEMENT OF § 15–1A–22 OF THIS ARTICLE . 21 
+ (a) (1) Notwithstanding any other law and except as provided in paragraph (2) 
+of this subsection, the Commissioner has exclusive jurisdiction to enforce by administrative 
+action the laws of the St ate that relate to the underwriting or rate –setting practices of an 
+insurer.  
  
-15–1A–01. 22 
+  (2) The Commission on Civil Rights has concurrent jurisdiction with the 
+Commissioner : 
  
- (a) In this subtitle the following words have the meanings indicated.  23 
+   (I) over alleged discrimination on the basis of race, creed, color, or 
+national origin ; AND  
  
- (e) “Grandfathered plan” means a health benefit plan that:  24 
+   (II) FOR THE ENFORCEMENT OF § 15–1A–22 OF THIS ARTICLE . 
  
-  (1) meets the criteria established under 45 C.F.R. § 147.140 and any 25 
-corresponding federal rules and guidance as those provisions were in effect [December 1, 26 
-2023] DECEMBER 31, 2024 ; or 27 
+15–1A–01. 
  
-  (2) if the Commissioner adopts regulations as described in § 15 –1A–03 of 28 
-this subtitle, meets the criteria established by the adopted regulations.  29 
+ (a) In this subtitle the following words have the meanings indicated.  
  
-6 HOUSE BILL 1045   
+ (e) “Grandfathered plan” means a health benefit plan that:  
  
- 15–1A–03. 1 
+  (1) meets the criteria established under 45  C.F.R. § 147.140 and any 
+corresponding federal rules and guidance as those provisions were in effect [December 1, 
+2023] DECEMBER 31, 2024 ; or 
  
- (a) For purposes of this subtitle, to the extent necessary, the Commissioner shall 2 
-adopt regulations that:  3 
+  (2) if the Commissioner adopts regulations as described in § 15 –1A–03 of 
+this subtitle, meets the criteria established by the adopted regulations.  
  
-  (1) establish criteria that a health benefit plan must meet to be considered 4 
-a grandfathered plan; and  5 
+15–1A–03. 
  
-  (2) are consistent with 45 C.F.R. § 147.140 and any corresponding federal 6 
-rules and guidance as those provisions were in effect [December 1, 2023 ] DECEMBER 31, 7 
-2024 . 8 
+ (a) For purposes of this subtitle, to the extent necessary, the Commissioner shall 
+adopt regulations that:  
  
-15–1A–04. 9 
+  (1) establish criteria that a health benefit plan must meet to be considered 
+a grandfathered plan; and  
  
- For purposes of this subti tle, to the extent necessary, the Commissioner shall adopt 10 
-regulations that:  11 
+  (2) are consistent with 45 C.F.R. § 147.140 and any corresponding federal 
+rules and guidance as those provisions were in effect [December 1, 2023 ] DECEMBER 31, 
+2024 . 
  
-  (1) establish criteria that a health benefit plan must meet to be considered 12 
-a health benefit plan that covers essential health benefits; and  13 
+15–1A–04. 
  
-  (2) are consistent with 45 C.F. R. Part 156 Subpart B and any 14 
-corresponding federal rules and guidance as those provisions were in effect [December 1, 15 
-2023] DECEMBER 31, 2024 . 16 
+ For purposes of this subtitle, to the extent necessary, the Comm issioner shall adopt 
+regulations that:  
+Ch. 469  2025 LAWS OF MARYLAND   
  
-15–1A–15. 17 
+– 6 –  
+  (1) establish criteria that a health benefit plan must meet to be considered 
+a health benefit plan that covers essential health benefits; and  
  
- (c) To the extent necessary, the Commissioner, in consultation with the Maryland 18 
-Health Benefit Exc hange, shall adopt regulations that:  19 
+  (2) are consistent with 45 C.F.R. Part 156 Subpart B and any 
+corresponding federal rules and guidance as those provisions were in effect [December 1, 
+2023] DECEMBER 31, 2024 . 
  
-  (1) establish standards for the summary of benefits and coverage; and  20 
+15–1A–15. 
  
-  (2) are consistent with 45 C.F.R. § 147.200 and any corresponding federal 21 
-rules and guidance in effect [December 1, 2019 ] DECEMBER 31, 2024 . 22 
+ (c) To the extent necessary, the Commissioner, in consultation with the Maryland 
+Health Benefit Exchange, shall adopt regulations that:  
  
-15–1A–16. 23 
+  (1) establish standards for the summary of benefits and coverage; and  
  
- (a) (1) For purposes of this section, “medical loss ratio”:  24 
+  (2) are consistent with 45 C.F.R. § 147.200 and any corresponding federal 
+rules and guidance in effect [December 1, 2019] DECEMBER 31, 2024 . 
  
-   (i) has the meaning established in 45 C.F.R. § 158.221; or  25 
+15–1A–16. 
  
-   (ii) if the Commissioner adopts regulations as described in 26 
-paragraph (2) of this subsection, has the meaning establi shed by the adopted regulations.  27 
+ (a) (1) For purposes of this section, “medical loss ratio”:  
  
-  (2) To the extent necessary, the Commissioner shall adopt regulations that:  28 
+   (i) has the meaning established in 45 C.F.R. § 158.221; or  
  
-   (i) establish a definition for “medical loss ratio”; and  29 
+   (ii) if the Commissioner adopts regulations as described in 
+paragraph (2) of this subsectio n, has the meaning established by the adopted regulations.  
  
- HOUSE BILL 1045  7 
+  (2) To the extent necessary, the Commissioner shall adopt regulations that:  
  
-    (ii) are consistent with 45 C.F.R. § 158.221 and any corresponding 1 
-federal rule s and guidance as those provisions were in effect [December 1, 2023 ] 2 
-DECEMBER 31, 2024 . 3 
+   (i) establish a definition for “medical loss ratio”; and  
  
- (e) To the extent necessary, the Commissioner shall adopt regulations that:  4 
+   (ii) are consistent with 45 C.F.R. § 158.221 and any corresponding 
+federal rules and guidance as those provisions were in effect [December 1, 2023 ] 
+DECEMBER 31, 2024 . 
  
-  (1) establish requirements for calculating medical loss ratios and related 5 
-reporting an d rebate requirements; and  6 
+ (e) To the extent necessary, the Commissioner shall adopt regulations that:  
  
-  (2) are consistent with 45 C.F.R. Part 158 and any corresponding federal 7 
-rules and guidance as those provisions were in effect [December 1, 2023 ] DECEMBER 31, 8 
-2024 . 9 
+  (1) establish requirements for calculating medical loss ratios and related 
+reporting and rebate requirements; and  
  
-15–1A–18. 10 
+  (2) are consistent with 45 C.F.R. Part 158 and any corresponding federal 
+rules and guidance as those provisions were in effect [December 1, 2023 ] DECEMBER 31, 
+2024 . 
  
- (d) To the extent necessary, the Maryland Health  Benefit Exchange shall adopt 11 
-regulations that:  12 
+15–1A–18. 
+ WES MOORE, Governor  Ch. 469  
  
-  (1) establish a process for issuing hardship exemptions and affordability 13 
-exemptions; and  14 
+– 7 –  
+ (d) To the extent  necessary, the Maryland Health Benefit Exchange shall adopt 
+regulations that:  
  
-  (2) are consistent with 42 U.S.C. § 5000A and any corresponding federal 15 
-rules and guidance as those provisions were in effect [December 1, 2019 ] DECEMBER 31, 16 
-2024 . 17 
+  (1) establish a process for issuing hardship exemptions and affordability 
+exemptions; and  
  
-15–1A–19. 18 
+  (2) are consistent with 42 U.S.C. § 5000A and any corresponding federal 
+rules and  guidance as those provisions were in effect [December 1, 2019 ] DECEMBER 31, 
+2024 . 
  
- (c) To the extent necessary, the Commissioner shall adopt regulations that:  19 
+15–1A–19. 
  
-  (1) establish annual limitations on cost –sharing; and  20 
+ (c) To the extent necessary, the Commissioner shall adopt regulations that:  
  
-  (2) are consistent with 45 C.F.R. § 156.130 and any corresponding federal 21 
-rules and guidance as those provisions were in effect [December 1, 2019 ] DECEMBER 31, 22 
-2024 . 23 
+  (1) establish annual limitations on cost –sharing; and  
  
-15–1A–20. 24 
+  (2) are consistent with 45 C.F.R. § 156.130 and any corresponding federal 
+rules and guidance as those provisions were in effect [December 1, 2019 ] DECEMBER 31, 
+2024 . 
  
- (c) To the extent necess ary, the Commissioner shall adopt regulations that:  25 
+15–1A–20. 
  
-  (1) establish criteria to determine whether an individual plan or a small 26 
-group plan provides prescription drug essential health benefit coverage; and  27 
+ (c) To the extent necessary, the Commissioner shall adopt regulations that:  
  
-  (2) are consistent with 45 C.F.R. § 156.122 and  any corresponding federal 28 
-rules and guidance as those provisions were in effect [December 1, 2019 ] DECEMBER 31, 29 
-2024 . 30 
+  (1) establish criteria  to determine whether an individual plan or a small 
+group plan provides prescription drug essential health benefit coverage; and  
  
-8 HOUSE BILL 1045   
+  (2) are consistent with 45 C.F.R. § 156.122 and any corresponding federal 
+rules and guidance as those provisions were in effect [December 1, 2019 ] DECEMBER 31, 
+2024 . 
  
- 15–1A–21. 1 
+15–1A–21. 
  
- (c) To the extent necessary, the Commissioner shall adopt regulations that:  2 
+ (c) To the extent necessary, the Commissioner shall adopt regulations that:  
  
-  (1) establish requirements that a carrier sha ll comply with to rescind 3 
-coverage under subsection (b) of this section; and  4 
+  (1) establish requirements that a carrier shall comply with to rescind 
+coverage under subsection (b) of this section; and  
  
-  (2) are consistent with 45 C.F.R. § 147.128 and any federal rules and 5 
-guidance as those provisions were in effect [December 1, 2019 ] DECEMBER 31, 2024 . 6 
+  (2) are consistent with 45 C.F.R. § 147.128 and any federal rules and 
+guidance as those provisions were in effect [December 1, 2019 ] DECEMBER 31, 2024 . 
  
-15–1A–22. 7 
+15–1A–22. 
  
- (e) The COMMISSIONER AND THE Commission on Civil Rights shall enforce the 8 
-provisions of this section as provided for in § 2 –202 of this article.  9 
+ (e) The COMMISSIONER AND THE Commission on Civil Rights shall enforce the 
+provisions of this section as provided for in § 2 –202 of this article.  
+Ch. 469  2025 LAWS OF MARYLAND   
  
- (F) THE COMMISSIONER MAY ADOP T REGULATIONS NECESS ARY TO CARRY 10 
-OUT THIS SECTION CON SISTENT WITH FEDERAL  STATUTES , RULE S, AND GUIDANCE 11 
-IN EFFECT ON DECEMBER 31, 2024.  12 
+– 8 –  
+ (F) THE COMMISSIONER MAY ADOP T REGULATIONS NECESS ARY TO CARRY 
+OUT THIS SECTIO N CONSISTENT WITH FE DERAL STATUTES , RULES , AND GUIDANCE 
+IN EFFECT ON DECEMBER 31, 2024.  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June 13 
-1, 2025.  14 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June 
+1, 2025.  
  
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 13, 2025.  

@@ -1,116 +1,89 @@
+ WES MOORE, Governor  Ch. 331  
  
+– 1 – Chapter 331  
+(House Bill 938 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0938*      
-HOUSE BILL 938  
-O2   5lr3191  
-      
-By: Delegates Stein, Bhandari, Cardin, Forbes, Guyton, Hill, J.  Lewis, and Ruff  
-Ruff, Bagnall, Chisholm, Cullison, Guzzone, Hutchinson, S.  Johnson, 
-Kaiser, Kerr, Kipke, Lopez, Martinez, Pena –Melnyk, Reilly, Rosenberg, 
-Szeliga, Taveras, White  Holland, Woods, and Woorman  
-Introduced and read first time: January 31, 2025  
-Assigned to: Health and Government Operations  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: February 25, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Continuing Care Providers – Governing Bodies  – Membership  
  
-AN ACT concerning  1 
+FOR the purpose of  requiring the appointment of an alternate subscriber  member to the 
+governing body of a  continuing care  provider ; providing for the duties  of the alternate 
+subscriber  member ; and generally relating to the membership of governing bodies of 
+continuing care providers . 
  
-Continuing Care Providers – Governing Bodies  – Membership  2 
+BY repealing and reenacting, with amendments,  
+ Article – Human Services  
+Section 10 –427 
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of  requiring the appointment of an alternate subscriber member to the 3 
-governing body of a  continuing care  provider ; providing for the duties  of the alternate 4 
-subscriber  member ; and generally relating to the membership of governing bodies of 5 
-continuing care providers . 6 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, w ith amendments,  7 
- Article – Human Services  8 
-Section 10 –427 9 
- Annotated Code of Maryland  10 
- (2019 Replacement Volume and 2024 Supplement)  11 
+Article – Human Services  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 12 
-That the Laws of Maryland read as follows:  13 
+10–427. 
  
-Article – Human Services  14 
+ (a) (1) If a provider has a governing body, at least one of the provider’s 
+subscribers shall be a full and regular member of the governing body.  
  
-10–427. 15 
+  (2) If the provider owns or operates more than three facilities in the State, 
+the govern ing body shall include at least one of the provider’s subscribers for every three 
+facilities in the State.  
  
- (a) (1) If a provider has a governing body, at least one of the provider’s 16 
-subscribers shall be a full and regular member of the governing body.  17 
-2 HOUSE BILL 938  
+  (3) (I) IF THE GOVERNING BODY  HAS ONLY ONE SUBSCRI BER, THE 
+GOVERNING BODY SHALL AUTHORIZE THE APPOIN TMENT OF AN ALTERNATE 
+SUBSCRIBER  TO SERVE AS A  REGULAR MEMBER OF TH E GOVERNING BODY  IF THE 
+REGULAR SUBSCRIBER I S UNABLE TO FULFILL THE  SUBSCRIBER ’S DUTIES . 
  
-  
-  (2) If the provider owns or operates more than three facilities in the State, 1 
-the governing body shall include at least one of the provider’s subscribers for every three 2 
-facilities in the State.  3 
+   (II) THE ALTERNATE SUBSCRI BER MAY : 
  
-  (3) (I) IF THE GOVERNING BODY  HAS ONLY ONE SUBSCRI BER, THE 4 
-GOVERNING BODY SHALL AUTHORIZE THE APPOIN TMENT OF AN ALTERNATE 5 
-SUBSCRIBER  TO SERVE AS A REGULAR MEMBER OF THE GOVERNING BOD Y IF THE 6 
-REGULAR SUBSCRIBER I S UNABLE TO FULFILL THE  SUBSCRIBER ’S DUTIES . 7 
+    1. ATTEND ALL MEETINGS  OF THE GOVERNING BOD Y; 
+AND 
  
-   (II) THE ALTERNATE SUBSCRI BER MAY : 8 
+    2. VOTE ONLY IF THE REGULAR SUBSC RIBER IS UNABL E 
+TO FULFILL THE  SUBSCRIBER ’S DUTIES AS A REGULAR MEMBER OF THE GOVERN ING 
+BODY . 
+Ch. 331  2025 LAWS OF MARYLAND   
  
-    1. ATTEND ALL MEETINGS  OF THE GOVERNING BOD Y; 9 
-AND 10 
+– 2 –  
+  [(3)] (4) Subject to paragraph [(4)] (5) of this subsection, a REGULAR OR 
+ALTERNATE member of the governing body who is selected to meet the requirements of 
+this subsection shall be a subscriber at a facility in the State and be selected according to 
+the same general written standards and criteria used to select other members of the 
+governing body.  
  
-    2. VOTE ONLY IF THE REGULAR SUBSC RIBER IS UNABLE 11 
-TO FULFILL THE  SUBSCRIBER ’S DUTIES AS A REGULAR MEMBER OF THE GOVERN ING 12 
-BODY . 13 
+  [(4)] (5) The governing body shall confer with the resident association at 
+each of the provider’s facilities before the subscriber OR ALTERNATE SUBSCRIBER 
+officially joins the governing body.  
  
-  [(3)] (4) Subject to paragraph [(4)] (5) of this subsection, a REGULAR OR 14 
-ALTERNATE member of the governing body who is selected to meet the requirements of 15 
-this subsection shall be a subscriber at a facility in the State and be selected according to 16 
-the same general written standards and criteria used to select other members of the 17 
-governing body.  18 
+  [(5)] (6) (i) A subscriber member OR ALTERNATE SUBSCRIBER 
+MEMBER of a g overning body may report on nonconfidential deliberations, actions, and 
+policies of the governing body to the resident association.  
  
-  [(4)] (5) The governing body shall confer with the resident  association at 19 
-each of the provider’s facilities before the subscriber OR ALTERNATE SUBSCRIBER 20 
-officially joins the governing body.  21 
+   (ii) The governing body in its sole but reasonable discretion shall 
+determine whether a matter is confidential.  
  
-  [(5)] (6) (i) A subscriber member OR ALTERNATE SUBSCRIBER 22 
-MEMBER of a governing body may report on nonconfidential delib erations, actions, and 23 
-policies of the governing body to the resident association.  24 
+  [(6)] (7) The Secretary may waive the requirements of this subsection for 
+a provider in the process of decertifying as a provider, if the Secretary determines that 
+there are no subscribers willing and able to serve on the governing body.  
  
-   (ii) The governing body in its sole but reasonable discretion shall 25 
-determine whether a matter is confidential.  26 
+ (b) (1) If a provider  does not have a governing body, the provider shall appoint 
+a select committee of its officers or partners to meet at least quarterly with the resident 
+association at each of its facilities to address concerns of the subscribers and to ensure that 
+the opin ions of subscribers are relayed to all officers or partners of the provider.  
  
-  [(6)] (7) The Secretary may waive the requirements of this subsection for 27 
-a provider in the process of decertifying as a provider, if the Secretary determines that 28 
-there are no subscribers willing and able to serve on the governing body.  29 
+  (2) If a facility does not have a resident association, the committee shall 
+meet with a reasonable number of representatives, not required to exceed fifteen, that the 
+subscribe rs elect.  
  
- (b) (1) If a provider does not have a governing body, the provider sha ll appoint 30 
-a select committee of its officers or partners to meet at least quarterly with the resident 31 
-association at each of its facilities to address concerns of the subscribers and to ensure that 32 
-the opinions of subscribers are relayed to all officers o r partners of the provider.  33 
+ (c) As determined by the provider’s governing body, the provider shall make 
+available to subscribers either the nonconfidential portions of the minutes of each meeting 
+of the governing body or a summary of the nonconfidential portions of the mi nutes, within 
+1 month of approval of the minutes.  
  
- HOUSE BILL 938  3 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect  
+October 1, 2025  January 1, 2026 . 
  
-   (2) If a facility does not have a resident association, the committee shall 1 
-meet with a reasonable number of representatives, not required to exceed fifteen, that the 2 
-subscribers elect.  3 
- 
- (c) As determined by the provider’s governing body, the provider shall make 4 
-available to subscribers either the nonconfidential portions of the minutes of each meeting 5 
-of the governing body or a summary of the nonconfidential portions of the minutes, within 6 
-1 month of approval of the minutes . 7 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect  8 
-October 1, 2025  January 1, 2026 . 9 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 6, 2025.  

@@ -1,406 +1,382 @@
+ WES MOORE, Governor  Ch. 363  
  
+– 1 – Chapter 363  
+(House Bill 102 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0102*      
-HOUSE BILL 102  
-K3   5lr0378  
-  (PRE –FILED)  CF SB 225  
-By: Chair, Economic Matters Committee (By Request – Departmental – Labor)  
-Requested: October 12, 2024  
-Introduced and read first time: January 8, 2025  
-Assigned to: Economic Matters  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: March 12, 2025  
- 
-CHAPTER ______  
- 
-AN ACT concerning  1 
- 
-Family and Medical Leave Insurance Program – Application Year and 2 
-Participation of Self –Employed Individuals  Revisions  3 
- 
-FOR the purpose of defining “anchor date ” to establish certain reference points for the 4 
-calculation of a certain covered employee’s average weekly wage and eligibility for 5 
-increases in weekly benefits under the Family Medical Leave and Insurance 6 
-Program;  requiring the Maryland Department of Labor  to adopt regulations 7 
-establishing an optional self –employed enrollment program governing the 8 
-participation of self –employed individuals in the Family and Medical Leave 9 
-Insurance  Program; repealing certain requirements related to the payment of 10 
-contributio ns to the Program by participating self –employed individuals; altering 11 
-certain dates related to annual reporting and the implementation of the Program;  12 
-excluding participating self –employed individuals from certain provisions of law 13 
-governing the payment o f benefits under the Program; altering the definition of 14 
-“application year” for purposes of the Program; altering the frequency with which 15 
-subsequent payments are to be made under the Program; authorizing the Secretary 16 
-to announce, rather than notify each employer of, a certain increase to the maximum 17 
-weekly benefit amount; prohibiting the Department from requiring certain 18 
-employers to escrow employer and employee contributions before the issuance of 19 
-Program benefits by the Department;  and generally relatin g to the Family and 20 
-Medical Leave Insurance Program.  21 
+AN ACT concerning  
  
-BY repealing and reenacting, without amendments,  22 
- Article – Labor and Employment  23 
-2 HOUSE BILL 102   
+Family and Medical Leave Insurance Program – Application Year and 
+Participation of Self –Employed Individuals  Revisions  
  
- Section 8.3 –101(a) , (d), and (e) and 8.3 –703(b)(3)  1 
- Annotated Code of Maryland  2 
- (2016 Replacement Volume and 2024 Suppl ement)  3 
+FOR the purpose of defining “anchor date ” to establish certain reference points for the 
+calculation of a certain covered employee’s average weekly wage and eligibility for 
+increases in weekly benefits under the Family Medical Leave and Insurance 
+Program;  requiring the Maryland Department of Labor to adopt regulations 
+establishing an optional self –employed enrollment program governing the 
+participation of self –employed individuals in the Family and Medical Leave 
+Insurance  Program; repealing certain require ments related to the payment of 
+contributions to the Program by participating self –employed individuals; altering 
+certain dates related to annual reporting and the implementation of the Program;  
+excluding participating self –employed individuals from certai n provisions of law 
+governing the payment of benefits under the Program; altering the definition of 
+“application year” for purposes of the Program; altering the frequency with which 
+subsequent payments are to be made under the Program; authorizing the Secr etary 
+to announce, rather than notify each employer of, a certain increase to the maximum 
+weekly benefit amount; prohibiting the Department from requiring certain 
+employers to escrow employer and employee contributions before the issuance of 
+Program benefi ts by the Department;  and generally relating to the Family and 
+Medical Leave Insurance Program.  
  
-BY adding to  4 
- Article – Labor and Employment  5 
- Section 8.3 –101(a –1) 6 
- Annotated Code of Maryland  7 
- (2016 Replacement Volume and 2024 Supplement)  8 
+BY repealing and reenacting, without amendments,  
+ Article – Labor and Employment  
+Section 8.3 –101(a) , (d), and (e) and 8.3 –703(b)(3)  
+ Annotated Code of Maryland  
+ (2016 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  9 
- Article – Labor and Employment  10 
- Section 8.3 –101(b) and (d), 8.3–201, 8.3–406(a),  8.3–601, 8.3–701(a),  and 8.3 –703(a) 11 
-  and (b)(1) and (2) , (b), (c), (d)(5), (e)(2), and (f)  12 
- Annotated Code of Maryland  13 
- (2016 Replacement Volume and 2024 Supplement)  14 
+BY adding to  
+ Article – Labor and Employment  
+ Section 8.3 –101(a –1) 
+ Annotated Code of Maryland  
+ (2016 Replacement Volume and 2024 Supplement)  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,  15 
-That the Laws of Maryland read as follows:  16 
+BY repealing and reenacting, with amendments,  
+ Article – Labor and Employment  
+ Section 8.3 –101(b) and (d) , 8.3–201, 8.3–406(a),  8.3–601, 8.3–701(a),  and 8.3 –703(a) 
+  and (b)(1) and (2) , (b), (c), (d)(5), (e)(2), and (f)  
+ Annotated Code of Maryland  
+ (2016 Replacement Volume and 2024 Supplement)  
  
-Article – Labor and Employment  17 
+Ch. 363  2025 LAWS OF MARYLAND   
  
-8.3–101. 18 
+– 2 –  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
- (a) In this title the following words have the meanings indicated.  19 
+Article – Labor and Employment  
  
- (A–1) “ANCHOR DATE ” MEANS THE EARLIER OF  THE DATE ON WHICH : 20 
+8.3–101. 
  
-  (1) AN APPLICATION FOR B ENEFITS IS COMPLETE IN ACCORDAN CE 21 
-WITH § 8.3–701( B)(2)  OF THIS TITLE ; OR 22 
+ (a) In this title the following words have the meanings indicated.  
  
-  (2) LEAVE BEGINS FOR A C OVERED INDIVIDUAL FO R WHICH BENEFITS 23 
-MAY BE PAID UNDER TH IS TITLE . 24 
+ (A–1) “ANCHOR DATE ” MEANS THE EARLIER OF  THE DATE ON WHICH : 
  
- (b) “Application year” means the 12 –month period beginning on the Sunday of 25 
-the calendar week [for which benefits are approved ] IN WHICH LEAVE UNDER  THIS TITLE 26 
-BEGINS . 27 
+  (1) AN APPLICATION FOR B ENEFITS IS COMPLETE IN ACCORDANCE 
+WITH § 8.3–701( B)(2)  OF THIS TITLE ; OR 
  
- (d) “Covered employee” means an employee who has worked at least 680 hours 28 
-performing services under employment located in the State over the four most recently 29 
-completed calendar quar ters for which quarterly reports have been required immediately 30 
-preceding the date on which leave is to begin  ANCHOR DATE . 31 
+  (2) LEAVE BEGINS FOR A C OVERED INDIVIDUAL FO R WHICH BENEFITS 
+MAY BE PAID UNDER TH IS TITLE . 
  
- (e) “Covered individual” means a covered employee or a self –employed individual 32 
-who elects to participate in the Program under § 8.3–201 of this title.  33 
+ (b) “Application ye ar” means the 12 –month period beginning on the Sunday of 
+the calendar week [for which benefits are approved ] IN WHICH LEAVE UNDER  THIS TITLE 
+BEGINS . 
  
- HOUSE BILL 102  3 
+ (d) “Covered employee” means an employee who has worked at least 680 hours 
+performing services under empl oyment located in the State over the four most recently 
+completed calendar quarters for which quarterly reports have been required immediately 
+preceding the date on which leave is to begin  ANCHOR DATE . 
  
- 8.3–201. 1 
+ (e) “Covered individual” means a covered employee or  a self –employed individual 
+who elects to participate in the Program under § 8.3 –201 of this title.  
  
- (a) In this section, “self –employed individual” includes an individual [that] WHO : 2 
+8.3–201. 
  
-  (1) is the sole owner of a sole proprietorship, limited liability company, C 3 
-corporation, or S corporation; and  4 
+ (a) In this section, “self –employed individual” includes an individual [that] WHO : 
  
-  (2) is the only individual employed by the sole proprietorship, limited 5 
-liability company, C corporation, or S corporation.  6 
+  (1) is the sole owner of a sole proprietorship, limited liability company, C 
+corporation, or S corporation; and  
  
- (b) [(1)] A self –employed individual who is a resident of the State may elect to 7 
-participate in the Program [by filing a written notice of electio n with the Secretary ] in 8 
-accordance with regulations adopted by the Secretary  UNDER SUBSECTION (C) OF THIS 9 
-SECTION . 10 
+  (2) is the only individual employed by the sole proprietorship, limited 
+liability company, C corporation, or S corporation.  
  
-  [(2) An election made under paragraph (1) of this subsection becomes 11 
-effective on the date the written notice is filed.  12 
+ (b) [(1)] A self –employed individual who is a resident of the State may  elect to 
+participate in the Program [by filing a written notice of election with the Secretary ] in 
+accordance with regulations adopted by the Secretary  UNDER SUBSECTION (C) OF THIS 
+SECTION . 
  
- (c) (1) If a se lf–employed individual elects to participate in the Program under 13 
-subsection (b) of this section, the individual shall participate for an initial period of not less 14 
-than 3 years.  15 
+ WES MOORE, Governor  Ch. 363  
  
-  (2) Once the initial participation period expires, the self –employed 16 
-indiv idual may renew participation in the Program for a period of not less than 1 year.  17 
+– 3 –   [(2) An election made under paragraph (1) of this subsection b ecomes 
+effective on the date the written notice is filed.  
  
-  (3) If the self –employed individual does not wish to renew participation in 18 
-the Program under paragraph (2) of this subsection, within 30 days before the participation 19 
-period expires, the self –employed individual shall notify the Secretary in writing of the 20 
-self–employed individual’s withdrawal from the Program.  21 
+ (c) (1) If a self –employed individual elects to participate in the Program under 
+subsection (b) of this section, the individual shall participate for an initial period of not less 
+than 3 years.  
  
- (d) During the period a self –employed individual participates in the Program, the 22 
-self–employed individual sha ll pay the contribution required under § 8.3 –601 of this title. ] 23 
+  (2) Once the initial participation period expires, the self –employed 
+individual may renew participation in the Program for a period of not less than 1 year.  
  
- (C) ON OR BEFORE JULY 1, 2027  2028 , THE SECRETARY SHALL ADOPT  24 
-REGULATIONS THAT EST ABLISH AN OPTIONAL S ELF–EMPLOYED ENROLLMENT 25 
-PROGRAM AND INCLUDE : 26 
+  (3) If the self –employed individual does not wish to renew participation in 
+the Program under paragraph (2) of this subsection, within 30 days before the participation 
+period expires, the self –employed individual shall notify the Secretary in writing of the 
+self–employed individual’s withdrawal from the Program.  
  
-  (1) CONTRIBUTION AMOUNTS ; 27 
+ (d) During the period a self –emplo yed individual participates in the Program, the 
+self–employed individual shall pay the contribution required under § 8.3 –601 of this title. ] 
  
-  (2) BENEFIT AMOUNTS ; AND 28 
+ (C) ON OR BEFORE JULY 1, 2027  2028 , THE SECRETARY SHALL ADOPT  
+REGULATIONS THAT EST ABLISH AN OPTIONAL S ELF–EMPLOYE D ENROLLMENT 
+PROGRAM AND INCLUDE : 
  
-  (3) ENROLLMENT PROCEDURE S. 29 
+  (1) CONTRIBUTION AMOUNTS ; 
  
-8.3–406. 30 
+  (2) BENEFIT AMOUNTS ; AND 
  
-4 HOUSE BILL 102   
+  (3) ENROLLMENT PROCEDURE S. 
  
-  (a) On or before [November 15 ] OCTOBER 1 each year, the Secretary shall 1 
-submit to the Governor and, in accordance with § 2 –1257 of the State Government Article, 2 
-the General Assembly an annual report on the administration and operation of the Program 3 
-during the immediately preceding fiscal year.  4 
+8.3–406. 
  
-8.3–601. 5 
+ (a) On or before [November 15 ] OCTOBER 1 each year, the Secretary shall 
+submit to the Governor and, in accordance with § 2 –1257 of the State Government Article, 
+the General Assembly an annual report on the administration and operation of the Program 
+during the immediately preceding fiscal year.  
  
- (a) (1) (I) Beginning July 1, 2025  JANUARY 1, 2027 , each employee of an 6 
-employer [,] AND  each employer with 15 or more employees [, and each self –employed 7 
-individual participating in the Program ] shall contribute to the Fund.  8 
+8.3–601. 
  
-  [(2)] (II) The total rate of contribution established under this section FOR 9 
-EMPLOYEES AND EMPLOY ERS DESCRIBED IN SUB PARAGRAPH (I) OF THIS 10 
-PARAGRAPH : 11 
+ (a) (1) (I) Beginning July 1, 2025  JANUARY 1, 2027 , each employee of an 
+employer [,] AND  each employer with 15 or more employees [, and each self –employed 
+individual participating in the Program ] shall contribute to the Fund.  
  
-   [(i)] 1. may not exceed 1.2% of an employee’s wages; and  12 
+  [(2)] (II) The total rate of contribution established under this section FOR 
+EMPLOYEES AND EMPLOY ERS DESCRIBED IN SUB PARAGRAPH (I) OF THIS 
+PARAGRAPH : 
  
-   [(ii)] 2. shall be applied to all wages up to and in cluding the Social 13 
-Security wage base.  14 
+Ch. 363  2025 LAWS OF MARYLAND   
  
-  (2) EACH SELF –EMPLOYED INDIVIDUAL PARTICIPATING IN THE  15 
-PROGRAM SHALL CONTRIB UTE TO THE FUND IN ACCORDANCE WI TH REGULATIONS 16 
-ADOPTED UNDER § 8.3–201( C) OF THIS TITLE . 17 
+– 4 –    [(i)] 1. may not exceed 1.2% of an employee’s wages; and  
  
- (b) (1) Subject to subsection [(a)(2) ] (A)(1)( II) of this section, on or before 18 
-February 1, 2025  MAY 1, 2026 , the Secretary shall set the total rate of contribution based 19 
-on available cost analyses of the Program.  20 
+   [(ii)] 2. shall be applied to all wages up to and in cluding the Social 
+Security wage base.  
  
-  (2) The rate set under paragraph (1) of this subsection shall be in effect for 21 
-the period from July 1, 2025  JANUARY 1, 2027 , to June 30, 2026  DECEMBER 31, 2027 , 22 
-both inclusive.  23 
+  (2) EACH SELF –EMPLOYED INDIVIDUAL PARTICIPATING IN THE  
+PROGRAM SHALL CONTRIB UTE TO THE FUND IN ACCORDANCE WI TH REGULATIONS 
+ADOPTED UNDER § 8.3–201( C) OF THIS TITLE . 
  
- (c) (1) On or before November 15  OCTOBER 1 each year, beginning in 2026  24 
-2027 , the Secretary shall conduct a cost analysis of the Program that is focused on the cost 25 
-of maintaining solvency and paying benefits to covered individuals that will be used to 26 
-determine the appropriate total rate of contribution to the Fund.  27 
+ (b) (1) Subject to subsection [(a)(2) ] (A)(1)( II) of this section, on or before 
+February 1, 2025  MAY 1, 2026 , the Secretary shall set the total rate of contribution based 
+on available cost analyses of the Program.  
  
-  (2) On or befor e November 15  OCTOBER 1 each year, the Secretary shall 28 
-report the results of the cost analysis to the Senate Finance Committee, the House 29 
-Economic Matters Committee, and the Joint Committee on Administrative, Executive, and 30 
-Legislative Review in accordance  with § 2 –1257 of the State Government Article.  31 
+  (2) The rate set under paragraph (1) of this subsection shall be in effect for 
+the period from July 1, 2025  JANUARY 1, 2027 , to June 30, 2026  DECEMBER 31, 2027 , 
+both inclusive.  
  
- (d) (1) Subject to paragraph (2) of this subsection and subsection [(a)(2) ] 32 
-(A)(1)( II) of this section, on or before February  NOVEMBER  1 each year, beginning in 2026  33 
- HOUSE BILL 102  5 
+ (c) (1) On or before November 15  OCTOBER 1 each year, beginning in 2026  
+2027 , the Secretary shall conduct a cost analysis of the Program that is focused on the cost 
+of maintaining solvency and paying benefits to covered individuals that will be used to 
+determine the appropriate total rate of contribution to the Fund.  
  
- 2027 , the Secretary shall set the total rate of contribution that will be in effect for the  1 
-12–month period beginning on the immediately following July JANUARY  1. 2 
+  (2) On or befor e November 15  OCTOBER 1 each year, the Secretary shall 
+report the results of the cost analysis to the Senate Finance Committee, the House 
+Economic Matters Committee, and the Joint Committee on Administrative, Executive, and 
+Legislative Review in accordance  with § 2 –1257 of the State Government Article.  
  
-  (2) The rate set under paragraph (1) of this subsection shall be based on 3 
-the cost analysis r equired under subsection (c) of this section.  4 
+ (d) (1) Subject to paragraph (2) of this subsection and subsection [(a)(2) ] 
+(A)(1)( II) of this section, on or before February  NOVEMBER  1 each year, beginning in 2026  
+2027 , the Secretary shall set the total rate of contribution that will be in effect for the  
+12–month period beginning on the immediately following July JANUARY  1. 
  
- (e) (1) (i) Except as otherwise provided in this section, each employer of 15 5 
-or more employees shall contribute an amount equal to 50% of the total rate of contribution 6 
-for each employee.  7 
+  (2) The rate set under paragraph (1) of this subsection shall be based on 
+the cost analysis required under subsection (c) of this  section.  
  
-   (ii) Except as otherwise provided in this section, each employee of an 8 
-employer shall contribute an amount equal to 50% of the total rate of contribution.  9 
+ (e) (1) (i) Except as otherwise provided in this section, each employer of 15 
+or more employees shall contribute an amount equal to 50% of the total rate of contribution 
+for each employee.  
  
-  (2) (i) Except as provided in subparagraph (ii) of this paragraph, the 10 
-employer of the employee shall deduct the employee’s required contribution from the wages 11 
-of the employee.  12 
+   (ii) Except as otherwise provided in this section, each employee of an 
+employer shall contribute an amount equal to 50% of the total rate of contribution.  
  
-   (ii) 1. An employer may elect to pay all or a portion of the 13 
-required employee contributions in whole or in part.  14 
+  (2) (i) Except as provided in subparagraph (ii) of this paragraph, the 
+employer of the employee shall deduct the employee’s required contribution fro m the wages 
+of the employee.  
+ WES MOORE, Governor  Ch. 363  
  
-    2. If the employer of an employee elects to pay a portion of 15 
-the employee’s required contribution, the employer:  16 
+– 5 –  
+   (ii) 1. An employer may elect to pay all or a portion of the 
+required employee contributions in whole or in part.  
  
-    A. may deduct an amount that is less than 50% of the rate of 17 
-contribution required from the wages of the employee; and  18 
+    2. If the employer of an employee elects to pay a portion of 
+the employee’s required contribution, the employer:  
  
-    B. shall notify employees of the rate of contribution set for 19 
-employees under s ubsection (d)(1) of this section and the portion of that amount that the 20 
-employer is electing to pay.  21 
+    A. may deduct an amount that is less than 50% of the rate of 
+contribution required from the wages of the employee; and  
  
- [(f) Each self –employed individual participating in the Program shall:  22 
+    B. shall notify employees of the rate of contribution set for 
+employees under subsection (d)(1) of this section and t he portion of that amount that the 
+employer is electing to pay.  
  
-  (1) pay contributions during each year that the self –employed individual 23 
-parti cipates in the Program; and  24 
+ [(f) Each self –employed individual participating in the Program shall:  
  
-  (2) contribute an amount equal to the total rate of contribution set under 25 
-subsection (d) of this section. ] 26 
+  (1) pay contributions during each year that the self –employed individual 
+participates in the Program; and  
  
- [(g)] (F) (1) The Maryland Department of Health shall reimburse each:  27 
+  (2) contribute an amount equal to the total rate of contribution set under 
+subsection (d) of this section. ] 
  
-   (i) community provider that is required t o be licensed or certified 28 
-under Title 7 of the Health – General Article for 100% of the employer contribution required 29 
-under subsection (e) of this section for employees who manage or provide services under 30 
-Title 7 of the Health – General Article;  31 
+ [(g)] (F) (1) The Maryland Department of Health shall reimburse each:  
  
-   (ii) community provider that is required to be licensed or certified 32 
-under Title 7.5 of the Health – General Article for a percentage of the employer contribution 33 
-6 HOUSE BILL 102   
+   (i) community provider that is required to be licensed or certified 
+under Ti tle 7 of the Health – General Article for 100% of the employer contribution required 
+under subsection (e) of this section for employees who manage or provide services under 
+Title 7 of the Health – General Article;  
  
- required under subsection (e) of this section for employees who manage or provide services 1 
-under Title 7.5 of the Health – General Article that is equal to the percentage of revenue 2 
-that is attributable to federal and State Medicaid funding and any other State funding 3 
-received by the community provider for the services during the period covered by  the 4 
-reimbursement; or  5 
+   (ii) community provider that is requir ed to be licensed or certified 
+under Title 7.5 of the Health – General Article for a percentage of the employer contribution 
+required under subsection (e) of this section for employees who manage or provide services 
+under Title 7.5 of the Health – General Article that is equal to the percentage of revenue 
+that is attributable to federal and State Medicaid funding and any other State funding 
+received by the community provider for the services during the period covered by the 
+reimbursement; or  
  
-   (iii) provider, as defined in § 16 –201.4 of the Health – General Article, 6 
-for a percentage of the employer contribution required under subsection (e) of this section 7 
-for employees who manage or provide services described in § 16 –201.4(a) of the  8 
-Health – General Article that is equal to the percentage of revenue attributable to federal 9 
-and State Medicaid funding and any other State funding received by the provider for the 10 
-services during the period covered by the reimbursement.  11 
+   (iii) provi der, as defined in § 16 –201.4 of the Health – General Article, 
+for a percentage of the employer contribution required under subsection (e) of this section 
+for employees who manage or provide services described in § 16 –201.4(a) of the  
+Health – General Arti cle that is equal to the percentage of revenue attributable to federal 
+and State Medicaid funding and any other State funding received by the provider for the 
+services during the period covered by the reimbursement.  
  
-  (2) The Maryland Department of Health shall make the reimbursements 12 
-required under paragraph (1) of this subsection at least quarterly.  13 
+  (2) The Maryland Department of Health  shall make the reimbursements 
+required under paragraph (1) of this subsection at least quarterly.  
+Ch. 363  2025 LAWS OF MARYLAND   
  
-  (3) To receive reimbursement under paragraph (1) of this subsection, a 14 
-provider shall provide to the Maryland Depart ment of Health any information necessary to 15 
-carry out this subsection in the form and manner required by the Maryland Department of 16 
-Health.  17 
+– 6 –  
+  (3) To receive reimbursement under paragraph (1) of this subsection, a 
+provider shall provide to the Maryland Department of Health any information necessa ry to 
+carry out this subsection in the form and manner required by the Maryland Department of 
+Health.  
  
-8.3–701. 18 
+8.3–701. 
  
- (a) (1) Subject to paragraph (2) of this subsection, beginning [July 1, 2026 ] ON 19 
-A DATE NOT EARLIER T HAN JANUARY 1, 2027,  BUT NOT LATER THAN JANUARY 3, 20 
-2028,  DETERMINED AND ANNOU NCED BY THE SECRETARY , a covered individual taking 21 
-leave from employment may submit a claim for benefits:  22 
+ (a) (1) Subject to paragraph (2) of this subsection, beginning [July 1, 2026 ] ON 
+A DATE NOT EARLIER T HAN JANUARY 1, 2027,  BUT NOT LATER THAN JANUARY 3, 
+2028,  DETERMINED AND ANNOU NCED BY THE SECRETARY , a covered individual taking 
+leave from employment may submit a claim for benefits:  
  
-   (i) 1. to care for a newborn child of the cov ered individual during 23 
-the first year after the child’s birth; or  24 
+   (i) 1. to care for a newborn child of the cov ered individual during 
+the first year after the child’s birth; or  
  
-    2. because a child is being placed for adoption, foster care, or 25 
-kinship care with the covered individual or to care for or bond with the child during the 26 
-first year after the placement ; 27 
+    2. because a child is being placed for adoption, foster care, or 
+kinship care with the covered individual or to care for or bond with the child during the 
+first year after the placement ; 
  
-   (ii) to care for a family member with a serious health condition;  28 
+   (ii) to care for a family member with a serious health condition;  
  
-   (iii) to attend to a serious health condition that results in the covered 29 
-individual being unable to perform the functions of the covered individual’s position;  30 
+   (iii) to attend to a serious health condition that results in the covered 
+individual being unable to perform the functions of the covered individual’s position;  
  
-   (iv) to care fo r a service member with a serious health condition 31 
-resulting from military service for whom the covered individual is next of kin; or  32 
+   (iv) to care for a service member with a serious health condition 
+resulting from military service for whom the covered individual is next of kin; or  
  
-   (v) to attend to a qualifying exigency arising out of the deployment 33 
-of a service member who is a family member of the  covered individual.  34 
+   (v) to attend to a qualifying exigency arising out of the deployment 
+of a service member who is a family member of t he covered individual.  
  
-8.3–703. 35 
- HOUSE BILL 102  7 
+8.3–703. 
  
-  
- (a) For the purposes of this section:  1 
+ (a) For the purposes of this section:  
  
-  (1) the covered [individual’s ] EMPLOYEE ’S average weekly wage shall be 2 
-calculated as the total wages received by the covered [individual ] EMPLOYEE  in the 3 
-highest of the previous four completed calendar quarters THAT IMMEDIATELY PRE CEDE 4 
-THE ANCHOR DATE AND  for which quarterly reports have been required, divided by 13; 5 
-and 6 
+  (1) the covered [individual’s ] EMPLOYEE ’S average weekly wage shall be 
+calculated as the total wages received by the covered [individual ] EMPLOYEE  in the 
+highest of the previous four completed calendar quarters THAT IMMEDIATELY PRE CEDE 
+THE ANCHOR DATE AND  for which quarterly reports have been required, divided by 13; 
+and 
  
-  (2) the State average weekly wage shall be the wage calculated under §  7 
-9–603 of this article.  8 
+  (2) the State average weekly wage shall be the wage calculated under §  
+9–603 of this article.  
  
- (b) (1) Subject to paragraphs (2) and (3) of this subsection, the weekly benefit 9 
-amount payable to a covered [individual ] EMPLOYEE  under this title shall be:  10 
+ WES MOORE, Governor  Ch. 363  
  
-   (i) if the covered [individual’s ] EMPLOYEE ’S average weekly wage 11 
-is 65% o r less of the State average weekly wage, 90% of the covered [individual’s ] 12 
-EMPLOYEE ’S average weekly wage; or  13 
+– 7 –  (b) (1) Subject to paragraphs (2) and (3) of this subsection, the weekly benefit 
+amount payable to a covered [individual ] EMPLOYEE  under this title shall be:  
  
-   (ii) if the covered [individual’s ] EMPLOYEE ’S average weekly wage 14 
-is greater than 65% of the State average weekly wage, the sum of:  15 
+   (i) if the covered [individual’s ] EMPLOYEE ’S average weekly wage 
+is 65% o r less of the State average weekly wage, 90% of the covered [individual’s ] 
+EMPLOYEE ’S average weekly wage; or  
  
-    1. 90% of the covered [individual’s ] EMPLOYEE ’S average 16 
-weekly wage up to 65% of the State average weekly wage; and  17 
+   (ii) if the covered [individual’s ] EMPLOYEE ’S average weekly wage 
+is greater than 65% of the State average weekly wage, the sum of:  
  
-    2. 50% of the covered [individual’s ] EMPLOYEE ’S average 18 
-weekly wage that is greater than 65% of the State average weekly wage.  19 
+    1. 90% of the covered [individual’s ] EMPLOYEE ’S average 
+weekly wage up to 65% of the State average weekly wage; and  
  
-  (2) The be nefit paid under this title and any additional paid leave cannot 20 
-total more than 100% of the covered [individual’s ] EMPLOYEE ’S average weekly wage.  21 
+    2. 50% of the covered [individual’s ] EMPLOYEE ’S average 
+weekly wage that is greater than 65% of the State average weekly wage.  
  
-  (3) The weekly benefit amount payable under paragraph (1) of this 22 
-subsection:  23 
+  (2) The be nefit paid under this title and any additional paid leave cannot 
+total more than 100% of the covered [individual’s ] EMPLOYEE ’S average weekly wage.  
  
-   (i) shall be at least $ 50; and  24 
+  (3) The weekly benefit amount payable under paragraph (1) of this 
+subsection:  
  
-   (ii) may not exceed:  25 
+   (i) shall be at least $50; and  
  
-    1. for the 6–month period beginning July 1, 2026,  PERIOD 26 
-BEGINNING ON THE DAT E ANNOUNCED BY THE SECRETARY UNDER § 8.3–701( A)(1) 27 
-OF THIS SUBTITLE AND  ENDING DECEMBER 31, 2028,  BOTH INCLUSIVE , $1,000; and  28 
+   (ii) may not exceed:  
  
-    2. for the 12 –month period beginning January 1, 2027  2029 , 29 
-and each subsequent 12 –month period, the amount determined and announced by the 30 
-Secretary under paragraph (4) of this subsection.  31 
+    1. for the 6–month period beginning July 1, 2026,  PERIOD 
+BEGINNING ON THE DAT E ANNOUNCED BY THE SECRETARY UNDER § 8.3–701( A)(1) 
+OF THIS SUBTITLE AND  ENDING DECEMBER 31, 2028,  BOTH INCLUSIVE , $1,000; and  
  
-8 HOUSE BILL 102   
+    2. for the 12 –month period beginning January 1, 2027  2029 , 
+and each subsequent 12 –month period, the amount determined and announced by the 
+Secretary under paragraph (4) of this subsection.  
  
-   (4) (i) In this paragraph, “Consumer Price Index ” means the Consumer 1 
-Price Index for All Urban Consumers for the Washington –Arlington –Alexandria,  2 
-DC–VA–MD–WV metropolitan area or a successor index published by the federal Bureau 3 
-of Labor Statistics.  4 
+  (4) (i) In this paragraph, “Consumer Price Index ” means the Consume r 
+Price Index for All Urban Consumers for the Washington –Arlington –Alexandria,  
+DC–VA–MD–WV metropolitan area or a successor index published by the federal Bureau 
+of Labor Statistics.  
  
-   (ii) Subject to subsection (e) of this section, fo r the 12 –month period 5 
-beginning January 1, [2027] 2029 , and each subsequent 12 –month period, the maximum 6 
-weekly benefit amount shall be increased by the amount, rounded to the nearest cent, that 7 
-equals the product of:  8 
+   (ii) Subject to subsection (e) of this section, for the 12 –month per iod 
+beginning January 1, [2027] 2029 , and each subsequent 12 –month period, the maximum 
+weekly benefit amount shall be increased by the amount, rounded to the nearest cent, that 
+equals the product of:  
  
-    1. the maximum weekly benefit amo unt in effect for the 9 
-immediately preceding 12 –month period; and  10 
+Ch. 363  2025 LAWS OF MARYLAND   
  
-    2. the annual percentage growth in the Consumer Price 11 
-Index for the immediately preceding 12 –month period, as determined by the Secretary 12 
-under subparagraph (iii)1 of this paragraph.  13 
+– 8 –     1. the maximum weekly benefit amount in effect for the 
+immediately preceding 12 –month period; and  
  
-   (iii) Beginning September 1, [2026] 2028 , and on each subsequent 14 
-September 1, the Secretary shall determine and announce:  15 
+    2. the annual percentage growth in the Consumer Price 
+Index for the immediately preceding 12 –month period, as determined by the Secretary 
+under subparagraph (iii)1 of this paragraph.  
  
-    1. the annual percentage growth, if any, in the Consumer 16 
-Price Index based on the most recent 12 –month period for which data are  available on 17 
-September 1; and  18 
+   (iii) Beginning September 1, [2026] 2028 , and on each subsequent 
+September 1, the Secretary shall determine and announce:  
  
-    2. the maximum weekly benefit amount effective for the  19 
-12–month period beginning the immediately following January 1.  20 
+    1. the annual percentage growth, if any, in the Consumer 
+Price Index based on the most recent 12 –month period for which data are availa ble on 
+September 1; and  
  
- (c) (1) Except as provided in paragraph (2) of this subsection, an increase in 21 
-the weekly benefit a mount under subsection (b)(4) of this section applies only to [a claim 22 
-for benefits  that begins ] AN APPLICATION YEAR WITH AN ANCHOR DATE  THAT OCCURS 23 
-ON OR after the date the increase becomes effective.  24 
+    2. the maximum weekly benefit amount effective for the  
+12–month period beginning the immediately following January 1.  
  
-  (2) If the leave for which benefits are being paid is being taken 25 
-intermittently, an increase in the weekly benefit amount shall apply to a claim for benefits 26 
-as specified in regulations adopted by the Department.  27 
+ (c) (1) Except as provided in paragraph (2) of this subsection, an increase in 
+the weekly benefit amount u nder subsection (b)(4) of this section applies only to [a claim 
+for benefits  that begins ] AN APPLICATION YEAR WITH AN ANCHOR DATE  THAT OCCURS 
+ON OR after the date the increase becomes effective.  
  
- (d) The Department shall:  28 
+  (2) If the leave for which benefits are being paid is being taken 
+intermittently, an increase in the weekly benefit amount shall apply to a claim for benefits 
+as specified in regulations adopted by the Department.  
  
-  (5) make subsequent payments AT LEAST every 2 weeks until the benefit 29 
-period ends.  30 
+ (d) The Department shall:  
  
- (e) (2) Subject to paragraph (4) of this subsection, on or before September 1 31 
-each year, beginning in [2026] 2028 , the Board shall determine whether the seasonally 32 
-adjusted total employment from the Current Employment Statistics series as reported by 33 
-the U.S. Bureau of Labor Statistics for the most recent 6 –month period is negative as 34 
-compared with the immediately preceding 6 –month period.  35 
- HOUSE BILL 102  9 
+  (5) make subsequent payments AT LEAST every 2 weeks until the ben efit 
+period ends.  
  
-  
- (f) The Department shall [notify each employer of ] ANNOUNCE  the increase to 1 
-the maximum we ekly benefit specified under subsection (b)(3)(ii) of this section.  2 
+ (e) (2) Subject to paragraph (4) of this subsection, on or before September 1 
+each year, beginning in [2026] 2028 , the Board shall determine whether the seasonally 
+adjusted total employment from the Current Employment Statistics series as reported by 
+the U.S. Bureau of Labor Statistics for the most recent 6 –month period is negative as 
+compared with the immediately preceding 6 –month period.  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That the Maryland Department of 3 
-Labor may not require employers who are allowed to pool together with other employers 4 
-under § 19 –602 of the Insurance Article to purchase insurance to escrow employer and 5 
-employee contributions under § 8.3 –601 of the Labor and Employment Article before the 6 
-issuance of Family and Medical Leave Insurance Program benefits by the Department.  7 
+ (f) The Department shall [notify each employer of ] ANNOUNCE  the increase to 
+the maximum weekly be nefit specified under subsection (b)(3)(ii) of this section.  
  
- SECTION 2. 3. AND BE I T FURTHER ENACTED, That this Act shall take effect 8 
-June 1, 2025.  9 
+ SECTION 2. AND BE IT FURTHER ENACTED, That the Maryland Department of 
+Labor may not require employers who are allowed to pool together with other employers 
+under § 19 –602 of the Insurance Artic le to purchase insurance to escrow employer and 
+employee contributions under § 8.3 –601 of the Labor and Employment Article before the 
+issuance of Family and Medical Leave Insurance Program benefits by the Department.  
+ WES MOORE, Governor  Ch. 363  
  
+– 9 –  
+ SECTION 2. 3. AND BE IT FURTHER ENACT ED, That this Act shall take effect 
+June 1, 2025.  
  
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 6, 2025.  

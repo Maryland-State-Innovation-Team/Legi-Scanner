@@ -1,91 +1,68 @@
+ WES MOORE, Governor  Ch. 351  
  
+– 1 – Chapter 351  
+(House Bill 100 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0100*      
-HOUSE BILL 100  
-L6, C4    5lr0658  
-  (PRE –FILED)  CF SB 102  
-By: Delegate Bagnall  
-Requested: July 31, 2024  
-Introduced and read first time: January 8, 2025  
-Assigned to: Environment and Transportation  
-Committee Report: Favorable  
-House action: Adopted  
-Read second time: February 18, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Insurance Pooling  – Public Entity  – Definition  
  
-AN ACT concerning  1 
+FOR the purpose of altering the definition of “public entity” to include a Resilience 
+Authority for purposes of insurance pooling; and generally relating to  Resilience 
+Authorities and insurance pooling.   
  
-Insurance Pooling  – Public Entity  – Definition  2 
+BY repealing and reenacting, with amendments,  
+ Article – Insurance  
+Section 19 –602 
+ Annotated Code of Maryland  
+ (2017 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of altering the definition of “public entity” to include a Resilience 3 
-Authority for purposes of insurance pooling; and generally relating to  Resilience 4 
-Authorities and insurance pooling.   5 
+BY repealing and reenacting, with out amendments,  
+ Article – Local Government  
+Section 22–101(a) and (g) 
+ Annotated Code of Maryland  
+ (2013 Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  6 
- Article – Insurance  7 
-Section 19 –602 8 
- Annotated Code of Maryland  9 
- (2017 Replacement Volume and 2024 Supplement)  10 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with out amendments,  11 
- Article – Local Government  12 
-Section 22–101(a) and (g) 13 
- Annotated Code of Maryland  14 
- (2013 Volume and 2024 Supplement)  15 
+Article – Insurance  
  
- SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 16 
-That the Laws of Maryland read as follows:  17 
+19–602. 
  
-Article – Insurance  18 
+ (a) In this section, “public entity” means:  
  
-19–602. 19 
-2 HOUSE BILL 100   
+  (1) a political subdivision of the State;  
  
-  
- (a) In this section, “public entity” means:  1 
+  (2) a unit of the State or a local government; [or] 
  
-  (1) a political subdivision of the State;  2 
+  (3) a nonprofit or nonstock corporation that:  
  
-  (2) a unit of the State or a local government; [or] 3 
+   (i) receives 50% or more of its annual operating budget from the 
+State or a local government; and  
  
-  (3) a nonprofit or nonstock corporation that:  4 
+   (ii) is exempt from taxation under § 501(c)(3) or (4) of the Internal 
+Revenue Code ; OR 
  
-   (i) receives 50% or more of its annual operating budget from the 5 
-State or a local government; and  6 
+  (4) A RESILIENCE AUTHORITY AS  DEFINED IN § 22–101 OF THE 
+Ch. 351  2025 LAWS OF MARYLAND   
  
-   (ii) is exempt from taxation under § 501(c)(3) or (4) of the Internal 7 
-Revenue Code ; OR 8 
+– 2 – LOCAL GOVERNMENT ARTICLE . 
  
-  (4) A RESILIENCE AUTHORITY AS  DEFINED IN § 22–101 OF THE 9 
-LOCAL GOVERNMENT ARTICLE . 10 
+ (b) Public entities may pool together to purchase casualty insurance, property 
+insurance, or health insurance or to self –insure against casualty, prope rty, or health risks.  
  
- (b) Public entities may pool together to purchase casualty insurance, property 11 
-insurance, or health insurance or to self –insure against casualty, property , or health risks.  12 
+Article – Local Government  
  
-Article – Local Government  13 
+22–101. 
  
-22–101. 14 
+ (a) In this title the following words have the meanings indicated.  
  
- (a) In this title the following words have the meanings indicated.  15 
+ (g) “Resilience Authority” means an authority incorporated by one or more local 
+governments in accordance with this title whose purpose is to undertake or support 
+resilience infrastructure projects.  
  
- (g) “Resilience Authority” means an authority incorporated by one or more local 16 
-governments in accordance with this title whose purpose is to undertake or support 17 
-resilience infrastructure projects.  18 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 19 
-October 1, 2025.  20 
- 
- 
- 
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+Approved by the Governor, May 6, 2025.  

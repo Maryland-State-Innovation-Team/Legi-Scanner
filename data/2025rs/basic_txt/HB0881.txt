@@ -1,140 +1,127 @@
+ WES MOORE, Governor  Ch. 373  
  
+– 1 – Chapter 373  
+(House Bill 881 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0881*      
-HOUSE BILL 881  
-O1   5lr2258  
-    CF SB 703  
-By: Delegates Shetty, Forbes, D.  Jones, Kaufman, J.  Lewis, Lopez, McCaskill, 
-Smith, and Solomon  
-Introduced and read first time: January 30, 2025  
-Assigned to: Appropriations  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: March 4, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Family Investment Program and Supplemental Nutrition Assistance Program 
+Benefits  – Child Support  
  
-AN ACT concerning  1 
+FOR the purpose of requiring  phasing in a requirement  that all child support received in a 
+month pass through to a family seeking assistance under the Family Investment 
+Program and prohibiting the consideration of child support in computing the amount 
+of assistance received; prohibiting a local department of social services from 
+considering any child support collected when computing the amount of Supplemental 
+Nutrition Assistance Program benefits to provide;  and generally relating to the 
+Family Investment Program and the Suppl emental Nutrition Assistance Program  
+child support . 
  
-Family Investment Program and Supplemental Nutrition Assistance Program 2 
-Benefits  – Child Support  3 
+BY repealing and reenacting, with amendments,  
+ Article – Human Services  
+Section 5 –310(a) and 5–501 
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of requiring  phasing in a requirement  that all child support received in a 4 
-month pass through to a family seeking assistance under the Family Investment 5 
-Program and prohibiting the consideratio n of child support in computing the amount 6 
-of assistance received; prohibiting a local department of social services from 7 
-considering any child support collected when computing the amount of Supplemental 8 
-Nutrition Assistance Program benefits to provide;  and generally relating to the 9 
-Family Investment Program and the Supplemental Nutrition Assistance Program  10 
-child support . 11 
+BY repealing and reenacting, without amendments,  
+ Article – Human Services  
+ Section 5 –501 
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  12 
- Article – Human Services  13 
-Section 5 –310(a) and 5–501 14 
- Annotated Code of Maryland  15 
- (2019 Replacement Volume and 2024 Supplement)  16 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, without amendments,  17 
- Article – Human Services  18 
- Section 5 –501 19 
- Annotated Code of Maryland  20 
- (2019 Replacement Volume and 2024 Supplement)  21 
+Article – Human Services  
  
-2 HOUSE BILL 881   
+5–310. 
  
-  SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 1 
-That the Laws of Maryland read as follows:  2 
+ (a) (1) For a recipient that is an assistance unit that includes adults and 
+children or minor parents and children, the amount of assistance shall be designated as 
+follows:  
  
-Article – Human Services  3 
+   (i) 75% for the child or children in the as sistance unit; and  
  
-5–310. 4 
+   (ii) 25% for the adult member or members, or minor parent or 
+parents of the assistance unit.  
  
- (a) (1) For a recipient that is an assistance unit that includes adults and 5 
-children or minor parents and children, the amount of assistance shall be desig nated as 6 
-follows:  7 
+Ch. 373  2025 LAWS OF MARYLAND   
  
-   (i) 75% for the child or children in the assistance unit; and  8 
+– 2 –   (2) For a recipient that is an assistance unit that includes only adults or a 
+recipient who is a pregnant individual, 100% of the amount of assistance shall be 
+designated for the adult member or members or the pregnant individual.  
  
-   (ii) 25% for the adult member or members, or minor parent or 9 
-parents of the assistance unit.  10 
+  (3) For applicants to the FIP, the amount of assistance shall be computed 
+by counting no more than 4 weeks of earned income in any month and disregarding 20% of 
+that earned income.  
  
-  (2) For a recipient that is an assistance unit that includes only adults  or a 11 
-recipient who is a pregnant individual, 100% of the amount of assistance shall be 12 
-designated for the adult member or members or the pregnant individual.  13 
+  (4) (I) [The THROUGH FISCAL YEAR 2027,  THE first $100 of ] ANY 
+child support collected in a month [for one child and the first $200 of child support collected 
+in a month for two or more children ] shall pass through to the family and shall be 
+disregarded in computing the amount of assistance.  
  
-  (3) For applicants to the FIP, the amount of assistance shall be computed 14 
-by counting no more than 4 weeks of earned income in any month and disregarding 20% of 15 
-that earned income.  16 
+   (II) FOR FISCAL YEAR 2028,  THE GREATER OF $100  OF ANY 
+CHILD SUPPORT COLLEC TED IN A MONTH FOR O NE CHILD AND $200  OF CHILD 
+SUPPORT COLLECTED IN  A MONTH FOR TWO OR MORE CHILDREN  OR 25%  OF ANY 
+CHILD SUPPORT COLLEC TED IN A MONTH SHALL  PASS THROUGH TO THE FAMILY 
+AND SHALL BE DISREGA RDED IN COMPUTING TH E AMOUNT OF ASSISTAN CE. 
  
-  (4) (I) [The THROUGH FISCAL YEAR 2027,  THE first $100 of ] ANY 17 
-child support collected in a month [for one child and the first $200 of child support collected 18 
-in a month for two or more children ] shall pass through to the family and shall be 19 
-disregarded in computing the amount of assistance.  20 
+   (III) FOR FISCAL YEAR 2029,  THE GREATER OF $100  OF ANY 
+CHILD SUPPORT COLLEC TED IN A M ONTH FOR ONE CHILD A ND $200  OF CHILD 
+SUPPORT COLLECTED IN  A MONTH FOR TWO OR M ORE CHILDREN OR 50%  OF ANY 
+CHILD SUPPORT COLLEC TED IN A MONTH SHALL  PASS THROUGH TO THE FAMILY 
+AND SHALL BE DISREGA RDED IN COMPUTING TH E AMOUNT OF ASSISTAN CE. 
  
-   (II) FOR FISCAL YEAR 2028,  THE GREATER OF $100  OF ANY 21 
-CHILD SUPPORT COLLEC TED IN A MONTH FOR O NE CHILD AND $200  OF CHILD 22 
-SUPPORT COLLECTED IN A  MONTH FOR TWO OR MOR E CHILDREN OR 25%  OF ANY 23 
-CHILD SUPPORT COLLEC TED IN A MONTH SHALL  PASS THROUGH TO THE FAMILY 24 
-AND SHALL BE DISREGA RDED IN COMPUTING TH E AMOUNT OF ASSISTAN CE. 25 
+   (IV) FOR FISCAL  YEAR 2030,  THE GREATER OF $100  OF ANY 
+CHILD SUPPORT COLLEC TED IN A MONTH FOR O NE CHILD AND $200  OF CHILD 
+SUPPORT COLLECTED IN  A MONTH FOR TWO OR M ORE CHILDREN OR 75%  OF ANY 
+CHILD SUPPORT COLLEC TED IN A MONTH SHALL  PASS THROUGH TO THE FAMILY 
+AND SHALL BE D ISREGARDED IN COMPUT ING THE AMOUNT OF AS SISTANCE . 
  
-   (III) FOR FISCAL YEAR 2029,  THE GREATER OF $100  OF ANY  26 
-CHILD SUPPORT COLLEC TED IN A MONTH FOR O NE CHILD AND $200  OF CHILD 27 
-SUPPORT COLLECTED IN  A MONTH FOR TWO OR M ORE CHILDREN OR 50%  OF ANY 28 
-CHILD SUPPORT COLLEC TED IN A MONTH SHALL  PASS THROUGH TO THE FAMILY 29 
-AND SHALL BE DISREGA RDED IN COMPUTING TH E AMOUNT OF ASSISTANCE . 30 
+   (V) FOR FISCAL YEAR 2031  AND EACH FISCAL YEAR  
+THEREAFTER , ANY CHILD SUPPORT CO LLECTED IN A MONTH S HALL PASS THROUGH 
+TO THE FAMILY AND SH ALL BE DISREGARDED I N COMPUTING THE AMOU NT OF 
+ASSISTANCE .  
  
-   (IV) FOR FISCAL YEAR 2030,  THE GREATER OF $100  OF ANY 31 
-CHILD SUPPORT COLLEC TED IN A MONTH FOR O NE CHILD AND $200  OF CHILD 32 
-SUPPORT COLLECTED IN  A MONTH FOR TWO OR M ORE CHILDREN OR 75%  OF ANY 33 
- HOUSE BILL 881  3 
+  (5) For eligible recipients who obtain unsubsidized employment, the 
+amount of assistance shall be computed by counting no more than 4 weeks of earned income 
+in any month and disregarding 35% of that earned income.  
  
- CHILD SUPPORT COLLEC TED IN A MONTH SHALL  PASS THROU GH TO THE FAMILY 1 
-AND SHALL BE DISREGA RDED IN COMPUTING TH E AMOUNT OF ASSISTAN CE. 2 
+5–501. 
  
-   (V) FOR FISCAL YEAR 2031  AND EACH FISCAL YEAR  3 
-THEREAFTER , ANY CHILD SUPPORT CO LLECTED IN A MONTH S HALL PASS THROUGH 4 
-TO THE FAMILY AND SH ALL BE DISREGARDED I N COMPUTING THE  AMOUNT OF 5 
-ASSISTANCE .  6 
+ (a) (1) The Department may implement  a Supplemental Nutrition Assistance 
+Program in accordance with the federal Supplemental Nutrition Assistance Program.  
+ WES MOORE, Governor  Ch. 373  
  
-  (5) For eligible recipients who obtain unsubsidized employment, the 7 
-amount of assistance shall be computed by counting no more than 4 weeks of earned income 8 
-in any month and disregarding 35% of that earned income.  9 
+– 3 –  
+  (2) The Supplemental Nutrition Assistance Program shall include:  
  
-5–501. 10 
+   (i) a Restaurant Meals Program in accordance with § 5 –505 of this  
+subtitle; and  
  
- (a) (1) The Department may implement a Supplemental Nutrition Assistance 11 
-Program in accordance with the federal Supplemental Nutrition Assistance Program.  12 
+   (ii) a Heat and Eat Program in accordance with § 5 –506 of this 
+subtitle.  
  
-  (2) The Supplemental Nutrition Assistance Program shall include:  13 
+ (b) The State shall bear the nonfederal portion of the administrative costs of the 
+Supplemental Nutrition Assistance Program for each county.  
  
-   (i) a Restaurant Meals Program in  accordance with § 5 –505 of this 14 
-subtitle; and  15 
+ (c) Each local dep artment shall administer the Supplemental Nutrition 
+Assistance Program:  
  
-   (ii) a Heat and Eat Program in accordance with § 5 –506 of this 16 
-subtitle.  17 
+  (1) under the supervision and control of the Department; and  
  
- (b) The State shall bear the nonfederal portion of the administrative costs of the 18 
-Supplemental Nutrition Assistance Program for e ach county.  19 
+  (2) in accordance with the regulations of the Department and federal law.  
  
- (c) Each local department shall administer the Supplemental Nutrition 20 
-Assistance Program:  21 
+ (d) If a household includes an individual  who is at least 60 years old and receives 
+a federally funded benefit in an amount less than $50 per month under the Supplemental 
+Nutrition Assistance Program, the State shall provide a supplement to increase the total 
+benefit to $50 per month.  
  
-  (1) under the supervision and control of the Department; and  22 
+ (E) A LOC AL DEPARTMENT MAY NO T CONSIDER ANY CHILD  SUPPORT  
+COLLECTED BY A HOUSE HOLD WHEN COMPUTING THE AMOUNT OF SUPPLE MENTAL  
+BENEFITS PROVIDED UN DER THIS SECTION OR § 5–501.1  OF THIS SUBTITLE . 
  
-  (2) in accordance with the regulations of the Department and federal law.  23 
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 
+October 1, 2025.  
  
- (d) If a household includes an individual who is at least 60 years old and receives 24 
-a federally funded benefit in an amount less than $50 per month under the Supplemental 25 
-Nutrition Assistance Program, the State shall provide a supplement to increase the total 26 
-benef it to $50 per month.  27 
- 
- (E) A LOCAL DEPARTMENT MAY  NOT CONSIDER ANY CHI LD SUPPORT  28 
-COLLECTED BY A HOUSE HOLD WHEN COMPUTING THE AMOUNT OF SUPPLE MENTAL  29 
-BENEFITS PROVIDED UN DER THIS SECTION OR § 5–501.1  OF THIS SUBTITLE . 30 
- 
- SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect 31 
-October 1, 2025.  32 
+Approved by the Governor, May 6, 2025.  

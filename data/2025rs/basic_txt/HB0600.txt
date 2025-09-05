@@ -1,809 +1,795 @@
+ WES MOORE, Governor  Ch. 256  
  
+– 1 – Chapter 256  
+(House Bill 600 ) 
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.             *hb0600*      
-HOUSE BILL 600  
-F5, P1    5lr2404  
-    CF SB 276  
-By: Delegates Patterson, Acevero, Allen, Attar, Buckel, Cardin, Guyton, Harris, 
-McComas, Pasteur, Phillips, Pruski, Rose, Taveras, Williams, and Wims  
-Introduced and read first time: January 23, 2025  
-Assigned to: Ways and Means and Appropriations  
-Committee Report: Favorable with amendments  
-House action: Adopted  
-Read second time: March 4, 2025  
+AN ACT concerning  
  
-CHAPTER ______  
+Educational Equality for Service Members Act  
  
-AN ACT concerning  1 
+FOR the purpose of establishing rules of interpretation related to the uniformed services; 
+altering the rule of interpretation for “veteran”; altering the application of certain 
+provisions of law governing education to apply to all uniformed services, rather than 
+only the armed forces; and generally relating to veterans and uniformed s ervices.  
  
-Educational Equality for Service Members Act  2 
+BY repealing and reenacting, without amendments,  
+ Article – Education  
+Section 1 –101(a), 4 –122.1(a)(1), and 7 –101(c)(1)(i)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2024 Supplement)  
  
-FOR the purpose of establishing rules of interpretation related to the uniformed services; 3 
-altering the rule of interpretation for “veteran”; altering the application of certain 4 
-provisions of law governing education to apply to all uniformed services, rather than 5 
-only the armed forces; and generally relating to veterans and uniformed services.  6 
+BY adding to  
+ Article – Education  
+Section 1–101(a –1), (a –2), (b –1), (k –1), (n), and (o)  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, without amendments,  7 
- Article – Education  8 
-Section 1 –101(a), 4 –122.1(a)( 1), and 7 –101(c)(1)(i)  9 
- Annotated Code of Maryland  10 
- (2022 Replacement Volume and 2024 Supplement)  11 
+BY repealing and reenacting, with amendments,  
+ Article – Education  
+Section 4 –122.1(a)(9)(vi), 4 –128, 6 –101.1, 7 –101(b)(2)(i) and (c)(1)(iv)6. and (4),   
+7–115(a), 7 –115.1, 7 –129(a), (b), and (d)(1), 13 –516(b –1), 15 –106.4(a) and (b),  
+15–124(a), 16 –109, 18 –205, 18 –405(d)(3), 18 –406(g), 18–501(b)(2)(iii),   
+18–501(b)(2)(iii);  18–601(c)(1) and (d)(2) , 18 –604(a), (c), and (d),  and  
+18–604(a), (c), and (d) to be under the amended subtitle “Subtitle 6. 
+Scholarships for Uniformed Services and Public Safety Personnel and Their 
+Dependents and the Dependents of Certain School Employees ”; and  
+18–708(l)(7), 18 –1910(c)(2), 18 –3005(1)(iv), and 21 –309(a)(5)(ii)1.  
+ Annotated Code of Maryland  
+ (2022 Replacement Volume and 2024 Supplement)  
  
-BY adding to  12 
- Article – Education  13 
-Section 1 –101(a –1), (a –2), (b –1), (k –1), (n), and (o)  14 
- Annotated Code of Maryland  15 
- (2022 Replacement Volume and 2024 Supple ment)  16 
+BY adding to  
+ Article – General Provisions  
+Section 1 –101.1, 1 –101.2, 1 –103.1, 1 –114.1, 1 –114.2, and 1 –116 
+ Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  17 
- Article – Education  18 
-Section 4 –122.1(a)(9)(vi), 4 –128, 6 –101.1, 7 –101(b)(2)(i) and (c)(1)(iv)6. and (4),   19 
-7–115(a), 7 –115.1, 7 –129(a), (b), and (d)(1), 13 –516(b –1), 15 –106.4(a) and (b),  20 
-15–124(a), 16 –109, 18 –205, 18 –405(d)(3), 18 –406(g), 18–501(b)(2)(iii),   21 
-2 HOUSE BILL 600   
+BY repealing and reenacting, with amendments,  
+ Article – General Provisions  
+Section 1 –117 
+Ch. 256  2025 LAWS OF MARYLAND   
  
- 18–501(b)(2)(iii);  18–601(c)(1) and (d)(2) , 18 –604(a), (c), and (d),  and  1 
-18–604(a), (c), and (d) to be under the amended subtitle “Subtitle 6. 2 
-Scholarships for Uniformed Services and Public Safety Personnel and Their 3 
-Dependents and the Dependents of Certain School Employees ”; and  4 
-18–708(l)(7), 18 –1910(c)(2), 18 –3005(1)(iv), and 21 –309(a)(5)(ii)1.  5 
- Annotated Code of Maryland  6 
- (2022 Replacement Volume and 2024 Supplement)  7 
+– 2 –  Annotated Code of Maryland  
+ (2019 Replacement Volume and 2024 Supplement)  
  
-BY adding to  8 
- Article – General Provisions  9 
-Section 1 –101.1, 1 –101.2, 1 –103.1, 1 –114.1, 1 –114.2, and 1 –116 10 
- Annotated Code of Maryland  11 
- (2019 Replacement Volume and 2024 Supplement)  12 
+BY repealing and reenacting, with amendments,  
+ Article – State Government  
+Section 9 –901 
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  13 
- Article – General Provisions  14 
-Section 1–117 15 
- Annotated Code of Maryland  16 
- (2019 Replacement Volume and 2024 Supplement)  17 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-BY repealing and reenacting, with amendments,  18 
- Article – State Government  19 
-Section 9 –901 20 
- Annotated Code of Maryland  21 
- (2021 Replacement Volume and 2024 Supplement)  22 
+Article – Education  
  
- SECTION 1 . BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 23 
-That the Laws of Maryland read as follows:  24 
+1–101. 
  
-Article – Education  25 
+ (a) In this articl e, unless the context requires otherwise, the following words have 
+the meanings indicated.  
  
-1–101. 26 
+ (A–1) “ACTIVE DUTY ” HAS THE MEANING STAT ED IN § 9–901 OF THE STATE 
+GOVERNMENT ARTICLE . 
  
- (a) In this article, unless the context requires otherwise, the following words have 27 
-the meanings indicated.  28 
+ (A–2) “ACTIVE SERVICE MEMBER ” HAS THE MEANING STAT ED IN § 9–901 OF 
+THE STATE GOVERNMENT ARTICLE . 
  
- (A–1) “ACTIVE DUTY” HAS THE MEANING STAT ED IN § 9–901 OF THE STATE 29 
-GOVERNMENT ARTICLE . 30 
+ (B–1) “ARMED FORCES ” HAS THE MEANING STAT ED IN § 9–901 OF THE STATE 
+GOVERNMENT ARTICLE . 
  
- (A–2) “ACTIVE SERVICE MEMBER ” HAS THE MEANING STAT ED IN § 9–901 OF 31 
-THE STATE GOVERNMENT ARTICLE . 32 
+ (K–1) “RESERVE COMPONENT ” HAS THE MEANING STAT ED IN § 9–901 OF THE 
+STATE GOVERNMENT ARTICLE . 
  
- (B–1) “ARMED FORCES ” HAS THE MEANING STAT ED IN § 9–901 OF THE STATE 33 
-GOVERNMENT ARTICLE . 34 
+ (N) “UNIFORMED SERVICES ” HAS THE MEANING STATED IN § 9–901 OF THE 
+STATE GOVERNMENT ARTICLE . 
  
- HOUSE BILL 600  3 
+ (O) “VETERAN ” HAS THE MEANING STAT ED IN § 9–901 OF THE STATE 
+GOVERNMENT ARTICLE . 
  
-  (K–1) “RESERVE COMPONENT ” HAS THE MEANING STAT ED IN § 9–901 OF THE 1 
-STATE GOVERNMENT ARTICLE . 2 
+4–122.1.  
  
- (N) “UNIFORMED SERVICES ” HAS THE MEANING STAT ED IN § 9–901 OF THE 3 
-STATE GOVERNMENT ARTICLE . 4 
+ (a) (1) In this section the following words have the meanings indicated.  
  
- (O) “VETERAN ” HAS THE MEANING STAT ED IN § 9–901 OF THE STAT E 5 
-GOVERNMENT ARTICLE . 6 
+  (9) “Serious family hardship” mean s: 
  
-4–122.1.  7 
+   (vi) Assignment of a parent or legal guardian of a child to active 
+[military ] UNIFORMED SERVICES  duty.  
+ WES MOORE, Governor  Ch. 256  
  
- (a) (1) In this section the following words have the meanings indicated.  8 
+– 3 –  
+4–128. 
  
-  (9) “Serious family hardship” means:  9 
+ A county board of education is subject to the requirements relating to employees who 
+return from [military services ] SERVICE IN THE UNIFO RMED SERVICES  in § 1 –203 of the 
+Local Government Article.  
  
-   (vi) Assignment of a parent or legal guardian of a child to active 10 
-[military ] UNIFORMED SERVICES  duty.  11 
+6–101.1.  
  
-4–128. 12 
+ (a) (1) In this section the following words have the meanings indicated.  
  
- A county board of education is subject to the requirements relating to employees who 13 
-return from [military services ] SERVICE IN THE UNIFO RMED SERVICES  in § 1 –203 of the 14 
-Local Government Article.  15 
+  (2) (i) [“Military ] “ELIGIBLE  spouse” means the spouse of [a] AN 
+ACTIVE  service member or  ELIGIBLE veteran.  
  
-6–101.1.  16 
+   (ii) [“Military ] “ELIGIBLE  spouse” includes a surviving spouse of:  
  
- (a) (1) In this section the following wo rds have the meanings indicated.  17 
+    1. [A] AN ELIGIBLE  veteran; or  
  
-  (2) (i) [“Military ] “ELIGIBLE  spouse” means the spouse of [a] AN 18 
-ACTIVE  service member or ELIGIBLE veteran.  19 
+    2. [A] AN ACTIVE  service member who died within 1 year 
+before the date on which the application for an educator certificate  LICENSE  is submitted.  
  
-   (ii) [“Military ] “ELIGIBLE  spouse” includes a surviving spouse of:  20 
+  [(3) “Service member” means an individual who is an active duty member 
+of: 
  
-    1. [A] AN ELIGIBLE  veteran; or  21 
+   (i) The armed forces of the United States;  
  
-    2. [A] AN ACTIVE  service member who died within 1 year 22 
-before the date on which the application for an educator certificate  LICENSE  is submitted.  23 
+   (ii) A reserve component of the armed forces of the United States; or  
  
-  [(3) “Service member” means an individual who is an active duty member 24 
-of: 25 
+   (iii) The National Guard of any  state.  
  
-   (i) The armed forces of the United States;  26 
+  (4) (i) “Veteran” means a former service member who was discharged 
+from active duty under circumstances other than dishonorable within 1 year before the date 
+on which the application for an educator certificate is submitted.  
  
-   (ii) A reserve component of the armed forces of the United States; or  27 
+   (ii) “Veteran” d oes not include an individual who has completed 
+active duty and has been discharged for more than 1 year before the application for an 
+educator certificate is submitted. ] 
  
-   (iii) The National Guard of any state.  28 
-4 HOUSE BILL 600   
+  (3) (I) “ELIGIBLE VETERAN ” MEANS A VETERAN  WHO WAS 
+DISCHARGED  FROM ACTIVE DUTY WIT HIN 1 YEAR BEFORE THE DATE  ON WHICH THE 
+APPLICATION FOR AN E DUCATOR CERTIFICATE  LICENSE  IS SUBMITTED . 
  
-  
-  (4) (i) “Veteran” means a former service member who was discharged 1 
-from active duty under circumstances other than dishon orable within 1 year before the date 2 
-on which the application for an educator certificate is submitted.  3 
+   (II) “ELIGIBLE VETERAN ” DOES NOT INCLUDE A V ETERAN WHO 
+HAS BEEN DISCHARGED FROM ACTIVE DUTY FOR  MORE THAN 1 YEAR BEFORE THE 
+APPLICATION FOR AN E DUCATO R CERTIFICATE  LICENSE  IS SUBMITTED . 
+Ch. 256  2025 LAWS OF MARYLAND   
  
-   (ii) “Veteran” does not include an individual who has completed 4 
-active duty and has been discharged for more than 1 year before the application for an 5 
-educator certificate is submitted. ] 6 
+– 4 –  
+ (b) The State Superintendent shall expedite educator certification  LICENSURE  
+for [a] AN ACTIVE  service member, ELIGIBLE veteran, or [military ] ELIGIBLE  spouse.  
  
-  (3) (I) “ELIGIBLE VETERAN ” MEANS A VETERAN  WHO WAS 7 
-DISCHARGED  FROM ACTIVE DUTY WIT HIN 1 YEAR BEFORE THE DATE  ON WHICH THE 8 
-APPLICATION FOR AN E DUCATOR CERTIFICATE  LICENSE  IS SUBMITTED . 9 
+ (c) To qualify for expedited educator certification  LICENSURE  under this section, 
+[a] AN ACTIVE  service member, ELIGIBLE veteran, or [military ] ELIGIBLE  spouse shall:  
  
-   (II) “ELIGIBLE VETERAN ” DOES NOT INCLUDE A VET ERAN WHO 10 
-HAS BEEN DISCHARGED FROM ACTIVE DUTY FOR  MORE THAN 1 YEAR BEFORE THE 11 
-APPLICATION FOR AN E DUCATOR CERTIFICATE  LICENSE  IS SUBMITTED . 12 
+  (1) Submit an application for educator certification  LICENSURE ; 
  
- (b) The State Superintendent shall expedite educator certification  LICENSURE  13 
-for [a] AN ACTIVE  service member, ELIGIBLE veteran, or [military ] ELIGIBLE  spouse.  14 
+  (2) Hold a valid educator license or certificate in good standing issue d in 
+another state;  
  
- (c) To qualify for expedited educator certification  LICENSURE  under this section, 15 
-[a] AN ACTIVE  service member, ELIGIBLE veteran, or [military ] ELIGIBLE  spouse shall:  16 
+  (3) Meet the applicable qualifications for certification  LICENSURE  in 
+COMAR 13A.12.01.04 and  .05; and  
  
-  (1) Submit an appl ication for educator certification  LICENSURE ; 17 
+  (4) Pay the applicable certification  LICENSURE  fee. 
  
-  (2) Hold a valid educator license or certificate in good standing issued in 18 
-another state;  19 
+ (d) (1) Subject to paragraph (2) of this subsection, the State Superintendent, 
+at the request of a local school system, may issue a temporary educator certificate  LICENSE  
+to [a] AN ACTIVE  service member, ELIGIBLE veteran, or [military ] ELIGIBLE  spouse who 
+holds a valid educator certificate or license in good standing issued in another state but 
+who does not meet the qualifications for educator certification  LICENSURE  in this State.  
  
-  (3) Meet the applicable qualifications for certification  LICENSURE  in 20 
-COMAR 13A.12.01.04 and  .05; and  21 
+  (2) A temporary educator certificate  LICENSE  issued under thi s subsection 
+authorizes the ACTIVE service member, ELIGIBLE veteran, or [military ] ELIGIBLE  spouse, 
+for a limited period of time, as determined by the State Superintendent, to be employed as 
+an educator in the State while the ACTIVE service member, ELIGIBL E veteran, or 
+[military ] ELIGIBLE  spouse completes additional requirements for certification  
+LICENSURE  in this State.  
  
-  (4) Pay the applicable certification  LICENSURE  fee. 22 
+ (e) The Department shall publish prominently on its website the process for 
+obtaining expedited educator certification  LICENSURE  under t his section.  
  
- (d) (1) Subject to paragraph (2) of this subsection, the State Superintendent, 23 
-at the request of a local school system, may issue a temporary educator certificate  LICENSE  24 
-to [a] AN ACTIVE  service member, ELIGIBLE veteran, or [military ] ELIGIBLE  spouse who 25 
-holds a valid educator certificate or license in good standing issued in another state but 26 
-who does not meet the qualifications for educator certification  LICENSURE  in this State.  27 
+ (f) The State Board may adopt regulations to carry out this section.  
  
-  (2) A temporary educa tor certificate  LICENSE  issued under this subsection 28 
-authorizes the ACTIVE service member, ELIGIBLE veteran, or [military ] ELIGIBLE  spouse, 29 
-for a limited period of time, as determined by the State Superintendent, to be employed as 30 
-an educator in the State while the ACTIVE service member, ELIGIBLE veteran, or 31 
-[military ] ELIGIBLE  spouse completes additional requirements for certification  32 
-LICENSURE  in this State.  33 
- HOUSE BILL 600  5 
+7–101. 
  
-  
- (e) The Department shall publish prominently on its website the process for 1 
-obtaining expedited educator certification  LICENSURE  under this section.  2 
+ (b) (2) (i) [Upon ] ON request and in accordance with a county board’s 
+policies concerning residency, a county superintendent:  
  
- (f) The State Board may adopt regulations to carry out this section.  3 
+    1. May allow a child to attend school in the county even if the 
+child is not domiciled in that county with the child’s parent or guardian; and  
  
-7–101. 4 
+ WES MOORE, Governor  Ch. 256  
  
- (b) (2) (i) [Upon ] ON request and in accordance with a county board’s 5 
-policies concerning residency, a county superintendent:  6 
+– 5 –     2. Shall allow a dependent child of [a] AN ACTIVE  service 
+member who is relocating to the State on [military ] OFFICIAL  orders to enroll in school in 
+the county in accordance with § 7 –115.1 of this subtitle.  
  
-    1. May allow a child to attend school in the county even if the 7 
-child is not domiciled in that county with the child’s parent or guardian; and  8 
+ (c) (1) (i) In this subsection the following words have the meanings 
+indicated.  
  
-    2. Shall allow a dependent child of [a] AN ACTIVE  service 9 
-member who is relocating to the State on [military ] OFFICIAL  orders to enroll in school in 10 
-the county in accordance with § 7 –115.1 of this subtitle.  11 
+   (iv) “Serious family hardship” means:  
  
- (c) (1) (i) In this subsection the following words have the meanings 12 
-indicated.  13 
+    6. Assignment of a parent or legal guardian of a child to 
+active [military ] UNIFORMED SERVICES  duty.  
  
-   (iv) “Serious family hardship” means:  14 
+  (4) The affidavit shall be in the following form:  
  
-    6. Assignment of a parent or legal guardian of a child to 15 
-active [military ] UNIFORMED SERVICES  duty.  16 
+   (i) I, the undersigned, am over eighteen (18) years of age and 
+competent to testify to the facts and matters set forth herein.  
  
-  (4) The affidavit shall be in the following form:  17 
+   (ii) ____________________ (name of child), whose date of birth is 
+_____________, is living with me because of the following serious family hardship: (check 
+each that is applicable)  
  
-   (i) I, the under signed, am over eighteen (18) years of age and 18 
-competent to testify to the facts and matters set forth herein.  19 
+ _____  death of father/mother/legal guardian  
+ _____  serious illness of father/mother/legal guardian  
+ _____  drug addiction of father/mother/legal guardian  
+ _____  incarceration of father/mother/legal guardian  
+ _____  abandonment by father/mother/legal guardian  
+ _____  assignment of a parent or legal guardian of a child to active [military ] 
+UNIFORMED SERVICES  duty  
  
-   (ii) ____________________ (name of child), whose date of birth is 20 
-_____________, is living with me because of the following serious family ha rdship: (check 21 
-each that is applicable)  22 
+   (iii) The name and last known address of the child’s parent(s) or legal 
+guardian is:  
+___________________________________________________________________________________  
  
- _____  death of father/mother/legal guardian  23 
- _____  serious illness of father/mother/legal guardian  24 
- _____  drug addiction of father/mother/legal guardian  25 
- _____  incarceration of father/mother/legal guardian  26 
- _____  abandonment by father/mother/legal guardian  27 
- _____  assignment of a parent or legal guardian of a child to active [military ] 28 
-UNIFORMED SERVICES  duty  29 
+____________________________________________________________________________ _______  
  
-   (iii) The name and last known address of the child’s parent(s) or legal 30 
-guardian is:  31 
-___________________________________________________________________________________  32 
-6 HOUSE BILL 600   
+___________________________________________________________________________________  
  
-  
-___________________________________________________________________________________  1 
+   (iv) My kinship relation to the child is ___________________________  
  
-___________________________________________________________________________________  2 
+   (v) My address is:  
+___________________________________________________________________ ________________  
  
-   (iv) My kinship relation to the child is ___________________________  3 
+ Street            Apt. No.  
+___________________________________________________________________________________  
  
-   (v) My address is:  4 
-___________________________________________________________________________________  5 
+ City     State       Zip Code  
+Ch. 256  2025 LAWS OF MARYLAND   
  
- Street            Apt. No.  6 
-__________________________________________________ _________________________________  7 
+– 6 –  
+   (vi) I assumed informal kinship care of this child for 24 hours a day 
+and 7 days a week on __________________(day/month/year).  
  
- City     State       Zip Code  8 
+   (vii) The name and address of the last school that the child attended 
+is: 
+___________________________________________________________________________________  
  
-   (vi) I assumed informal kinship care of this child for 24 hours a day 9 
-and 7 days a week on __________________(day/month/year).  10 
+___________________________________________________________________________________  
  
-   (vii) The name and address of the last school that the c hild attended 11 
-is: 12 
-___________________________________________________________________________________  13 
+   (viii)  The county superintendent may verify the facts contained in the 
+foregoing affidavit and conduct an audit on a case –by–case basis after the child has been 
+enrolle d in the county public school system. If the county superintendent discovers fraud 
+or misrepresentation, the child shall be removed from the public school or county public 
+school system roll.  
  
-___________________________________________________________________________________  14 
+   (ix) I solemnly affirm under the penalties of perjury that t he contents 
+of the foregoing are true to the best of my knowledge, information, and belief.  
  
-   (viii)  The county superintendent may verify the facts contained in the 15 
-foregoing affidavit and conduct an audit on a case –by–case basis after the child has been 16 
-enrolled in the county public school system. If the county superintendent discovers fraud 17 
-or misrepresentation, the child shall be removed from the public scho ol or county public 18 
-school system roll.  19 
+___________________________________  
+Signature of affiant  
  
-   (ix) I solemnly affirm under the penalties of perjury that the contents 20 
-of the foregoing are true to the best of my knowledge, information, and belief.  21 
+___________________________________  
+(Day/month/year)  
  
-___________________________________  22 
-Signature of affiant  23 
+   (x) Any person who willfully makes a material mi srepresentation in 
+this affidavit shall be subject to a penalty payable to the county for three times the pro rata 
+share of tuition for the time the child fraudulently attends a public school in the county.  
  
-___________________________________  24 
-(Day/month/year)  25 
+7–115. 
  
-   (x) Any person who willfully makes a material misrepresentation in 26 
-this affidavit shall be subject to a penalty payable to the county for three times the pro rata 27 
-share of tuition for the time the ch ild fraudulently attends a public school in the county.  28 
+ (a) To facilitate the transfer of schoo l–aged student dependents of [military 
+personnel ] ACTIVE SERVICE MEMBE RS to and from the public schools of this State, the 
+State Board shall pursue reciprocity agreements with other states regarding the terms of 
+those student transfers.  
  
-7–115. 29 
+7–115.1.  
  
- (a) To facilitate the transfer of school –aged student dependents of [military 30 
-personnel ] ACTIVE SERVICE MEMBE RS to and from the public schools of this State, the 31 
- HOUSE BILL 600  7 
+ (a) (1) In this section the following words have the meanings indicated.  
  
- State Board shall pursue rec iprocity agreements with other states regarding the terms of 1 
-those student transfers.  2 
+  (2) “Dependent child” means an individual of school age who is a natural 
+child, a stepchild, an adopted child, or a financially dependent child of [a] AN ACTIVE  
+service member.  
  
-7–115.1.  3 
+  (3) “Enrollment” includes course registration and charter school lotteries.  
  
- (a) (1) In this section the following words have the meanings indicated.  4 
+ WES MOORE, Governor  Ch. 256  
  
-  (2) “Dependent child” means an individual of school age who is a natural 5 
-child, a stepchild, an adopted child, or a financially dependent child of [a] AN ACTIVE  6 
-service member.  7 
+– 7 –   [(4) (i) “Service member” means an active duty member of the United 
+States armed forces.  
  
-  (3) “Enrollment” includes course registration and charter school lotteries.  8 
+   (ii) “Service member” includes a member of the National Guard on 
+active duty orders. ] 
  
-  [(4) (i) “Service member” means an active duty member of the United 9 
-States arme d forces.  10 
+ (b) A county superintendent shall allow a dependent child of [a] AN ACTIVE  
+service member who is relocating to the State on [military ] OFFICIAL  orders and is not 
+domiciled in that county during the enrollment period to apply for enrollment in a public 
+school in the county, in the same manner and at the same time as individuals domiciled in 
+the county.  
  
-   (ii) “Service member” includes a member of the National Guard on 11 
-active duty orders. ] 12 
+ (c) (1) Within 10 days of the published arrival date on the ACTIVE service 
+member’s [military ] OFFICIAL  orders, the ACTIVE service member shall provide the sch ool 
+with:  
  
- (b) A county superintendent shall allow a dependent child of [a] AN ACTIVE  13 
-service member who is relocating to the State on [military ] OFFICIAL  orders and  is not 14 
-domiciled in that county during the enrollment period to apply for enrollment in a public 15 
-school in the county, in the same manner and at the same time as individuals domiciled in 16 
-the county.  17 
+   (i) Satisfactory evidence of the dependent child’s status as a 
+dependent child of the ACTIVE service member;  
  
- (c) (1) Within 10 days of the published arrival date on the ACTIVE service 18 
-member’s [military ] OFFICIAL  orders, the ACTIVE service member shall provide the school 19 
-with:  20 
+   (ii) A copy of the ACTIVE service member’s [military ] OFFICIAL  
+orders to relocate; and  
  
-   (i) Satisfactory evidence of the dependent child’s status as a 21 
-dependent child of the ACTIV E service member;  22 
+   (iii) Proof of residence in the county.  
  
-   (ii) A copy of the ACTIVE service member’s [military ] OFFICIAL  23 
-orders to relocate; and  24 
+  (2) The ACTIVE service member may use the address of any of the following 
+as proof of residence:  
  
-   (iii) Proof of residence in the county.  25 
+   (i) A temporary on –base lodging facility;  
  
-  (2) The ACTIVE service member may use the address of any of the following 26 
-as proof of residence:  27 
+   (ii) A purchased or leased home or apartment; or  
  
-   (i) A temporary on –base lodging facility;  28 
+   (iii) Any federal government housing unit or off–base military 
+housing unit.  
  
-   (ii) A purchased or leased home or apartment; or  29 
+7–129. 
  
-   (iii) Any federal government housing unit or off –base military 30 
-housing unit.  31 
-8 HOUSE BILL 600   
+ (a) (1) In this section the following words have the meanings indicated.  
  
-  
-7–129. 1 
+  (2) “Military –connected student” means a student who is a dependent of:  
  
- (a) (1) In this section the following words have the meanings indicat ed. 2 
+   (i) [A current ] AN ACTIVE DUTY UNIFOR MED SERVICES  member 
+[of: 
  
-  (2) “Military –connected student” means a student who is a dependent of:  3 
+    1. The United States military serving in the Army, Navy, Air 
+Force, Marine Corps, Space Force, or Coast Guard on active duty;  
  
-   (i) [A current ] AN ACTIVE DUTY UNIFOR MED SERVICES  member 4 
-[of: 5 
+Ch. 256  2025 LAWS OF MARYLAND   
  
-    1. The United States military serving in the Army, Navy, Air 6 
-Force, Marine Corps, Space Force, or Coast Gu ard on active duty;  7 
+– 8 –     2. The Maryland National Guard or the National Guard of 
+any other state; or  
  
-    2. The Maryland National Guard or the National Guard of 8 
-any other state; or  9 
+    3. A reserve force of the United States  military ]; 
  
-    3. A reserve force of the United States military ]; 10 
+   (II) A MEMBER OF A RESERVE COMPONENT ; or 
  
-   (II) A MEMBER OF A RESERVE COMPONENT ; or 11 
+   [(ii)] (III) A member [of a military or reserve force ] described in item 
+(i) OR (II) of this paragraph who was killed in the line of duty.  
  
-   [(ii)] (III) A member [of a military or reserve force] described in item 12 
-(i) OR (II) of this paragraph who was killed in the line of duty.  13 
+  (3) “Program” means the Purple Star Schools Program.  
  
-  (3) “Program” means the Purple Star Schools Program.  14 
+ (b) (1) There is a Purple Star Schools Program.  
  
- (b) (1) There is a Purple Star Schools Program.  15 
+  (2) The purpose of the Program is to recognize public schools that provide 
+strong services and support for military –connected students and their families when, as a 
+result of [military service ] OFFICIAL ORDERS , a military –connected student transfers 
+schools.  
  
-  (2) The purpose of the Program is to recognize public sc hools that provide 16 
-strong services and support for military –connected students and their families when, as a 17 
-result of [military service ] OFFICIAL ORDERS , a military –connected student transfers 18 
-schools.  19 
+ (d) At a minimum, the Department’s criteria for a Purple Star School shall 
+require a public school to:  
  
- (d) At a minimum, the Department’s criteria for a P urple Star School shall 20 
-require a public school to:  21 
+  (1) Designate a staff member as a [military ] UNIFORMED SERVICES  
+liaison, whose duties shall include:  
  
-  (1) Designate a staff member as a [military ] UNIFORMED SERVICES  22 
-liaison, whose duties shall include:  23 
+   (i) Identifying military –connected students who are newly enrolled 
+or soon to be enrolled at the school;  
  
-   (i) Identifying military –connected students who are newly enrolled 24 
-or soon to be enrolled at the  school;  25 
+   (ii) Serving as the point of contact between the school and newly 
+enrolled or soon to be enrolled militar y–connected students and their families;  
  
-   (ii) Serving as the point of contact between the school and newly 26 
-enrolled or soon to be enrolled military –connected students and their families;  27 
+   (iii) Determining appropriate school services available to newly 
+enrolled or soon to be enrolled military –connected students;  
  
-   (iii) Determining appropriate school services available to newly 28 
-enrolled or soon to be enrol led military –connected students;  29 
- HOUSE BILL 600  9 
+   (iv) Assisting in coordinating school programs for newly enrolled or 
+soon to be e nrolled military –connected students; and  
  
-  
-   (iv) Assisting in coordinating school programs for newly enrolled or 1 
-soon to be enrolled military –connected students; and  2 
+   (v) Generally aiding with a military –connected student’s transition 
+to a new school;  
  
-   (v) Generally aiding with a military –connected student’s transition 3 
-to a new school;  4 
+13–516. 
  
-13–516. 5 
+ (b–1) (1) [In this subsection, “service member” means an individual who is an 
+active duty member of:  
  
- (b–1) (1) [In this subsection, “service member” means an individual who is an 6 
-active duty member of:  7 
+ WES MOORE, Governor  Ch. 256  
  
-   (i) The armed forces of the United States;  8 
+– 9 –    (i) The ar med forces of the United States;  
  
-   (ii) A reserve component of the armed forces of the United States; or  9 
+   (ii) A reserve component of the armed forces of the United States; or  
  
-   (iii) The National Guard of  any state.  10 
+   (iii) The National Guard of any state.  
  
-  (2) (i)] In calculating an individual’s years of experience in an 11 
-occupation or profession, the EMS Board shall give credit to the individual for all relevant 12 
-experience as [a] AN ACTIVE  service member.  13 
+  (2) (i)] In calculating an individual’s years of experience in an 
+occupation or profession, the EMS Boa rd shall give credit to the individual for all relevant 
+experience as [a] AN ACTIVE  service member.  
  
-   [(ii)] (2) The EMS Board shall cre dit any training and education 14 
-provided by the [military ] UNIFORMED SERVICES  and completed by [a] AN ACTIVE  15 
-service member toward any training or education requirements for licensure or certification 16 
-if the training or education is determined by the EMS Bo ard to be:  17 
+   [(ii)] (2) The EMS Board shall credit any training and education 
+provided by the [military ] UNIFORMED SERVICES  and completed by [a] AN ACTIVE  
+service me mber toward any training or education requirements for licensure or certification 
+if the training or education is determined by the EMS Board to be:  
  
-    [1.] (I) Substantially equivalent to the training or 18 
-education required by the EMS Board; and  19 
+    [1.] (I) Substantially equivalent to the training or 
+education required by the EMS Board; and  
  
-    [2.] (II) Not otherwise contrary to any other licensing 20 
-requirement.  21 
+    [2.] (II) Not otherwise contrary to any other licensing 
+requirement.  
  
-15–106.4.  22 
+15–106.4.  
  
- (a) This section applies to the following individuals:  23 
+ (a) This section applies to the following individuals:  
  
-  (1) [An active duty member of the United States armed forces ] AN ACTIVE 24 
-SERVICE MEMBER ; 25 
+  (1) [An active duty member of the United States armed forces ] AN ACTIVE 
+SERVICE MEMBER ; 
  
-  (2) The spouse of [an active duty member of the United States armed 26 
-forces ] AN ACTIVE SERVICE ME MBER ; 27 
+  (2) The spouse of [an active  duty member of the United States armed 
+forces ] AN ACTIVE SERVICE ME MBER ; 
  
-  (3) A financially dependent child of [an active duty member of the United 28 
-States armed forces ] AN ACTIVE SERVICE ME MBER ; 29 
+  (3) A financially dependent child of [an active duty member of the United 
+States armed forces ] AN ACTIVE SERVICE ME MBER ; 
  
-10 HOUSE BILL 600   
+  (4) [An honorably discharged veteran of the United Stat es armed forces ] A 
+VETERAN ; or 
  
-   (4) [An honorably discharged veteran of the United States armed forces ] A 1 
-VETERAN ; or 2 
+  (5) A member of the National Guard as defined in § 13 –405(a)(3) of the 
+Public Safety Article.  
  
-  (5) A member of the National Guard as defined in § 13 –405(a)(3) of the 3 
-Public Safety Article.  4 
+ (b) Notwithstanding any other provision of this article, an individual described in 
+subsection (a) of this section who attends  a public institution of higher education in the 
+State is exempt from paying nonresident tuition at a public institution of higher education 
+in this State if:  
  
- (b) Notwithstanding any other provision of this article, an individual described in 5 
-subsection (a) of this section who attends a public institution of higher education in the 6 
-State is exempt from paying nonresident tuition at a public institution of higher edu cation 7 
-in this State if:  8 
+Ch. 256  2025 LAWS OF MARYLAND   
  
-  (1) The active [duty] SERVICE  member [described in subsection (a) of this 9 
-section ]: 10 
+– 10 –   (1) The active [duty] SERVICE  member [described in subsection (a) of this 
+section ]: 
  
-   (i) Is stationed in this State;  11 
+   (i) Is stationed in this State;  
  
-   (ii) Resides in this State; or  12 
+   (ii) Resides in this State; or  
  
-   (iii) Is domiciled in this State;  13 
+   (iii) Is domiciled in this State;  
  
-  (2) The spouse or financially de pendent child [described in subsection (a) 14 
-of this section ] OF AN ACTIVE SERVICE  MEMBER  presents documentation that, during 15 
-the time period in which the active [duty] SERVICE  member met the requirements of 16 
-paragraph (1) of this subsection, the individual:  17 
+  (2) The spouse or financially dependent child [described in subsection (a) 
+of this section ] OF AN ACTIVE SERVICE  MEMBER  presents documentation that, during 
+the time period in which the active [duty] SERVICE  member met the requirements of 
+paragraph (1) of this subsection, the individual:  
  
-   (i) Enrolled as an entering student in a public institution of higher 18 
-education in the State; or  19 
+   (i) Enrolled as an entering student in a public institution of higher 
+education in the State; or  
  
-   (ii) Was accepted to attend a public institution of higher education 20 
-in the State;  21 
+   (ii) Was accepted to attend a public institution of higher education 
+in the State;  
  
-  (3) The [honorably discharged ] veteran [described in subsection ( a) of this 22 
-section ] presents documentation that the individual:  23 
+  (3) The [honorably discharged ] veteran [described in subsection (a) of this 
+section ] presents documentation that the individual:  
  
-   (i) Was honorably discharged from the [United States armed forces ] 24 
-UNIFORMED SERVICES ; and  25 
+   (i) Was honorably d ischarged from the [United States armed forces ] 
+UNIFORMED SERVICES ; and  
  
-   (ii) 1. Resides in this State; or  26 
+   (ii) 1. Resides in this State; or  
  
-    2. Is domiciled in this State; or  27 
+    2. Is domiciled in this State; or  
  
-  (4) The National Guard member described in subsection (a) of this section  28 
-is a member of the Maryland National Guard and joined or subsequently serves in the 29 
-Maryland National Guard to:  30 
+  (4) The National Guard member described in subsection (a) of this section  
+is a member of the Maryland Na tional Guard and joined or subsequently serves in the 
+Maryland National Guard to:  
  
-   (i) Provide a Critical Military Occupational Skill; or  31 
- HOUSE BILL 600  11 
+   (i) Provide a Critical Military Occupational Skill; or  
  
-  
-   (ii) Be a m ember of the Air Force Critical Specialty Code as 1 
-determined by the National Guard.  2 
+   (ii) Be a member of the Air Force Critical Specialty Code as 
+determined by the National Guard.  
  
-15–124. 3 
+15–124. 
  
- (a) In this section, “eligible service member” means:  4 
+ (a) In this section, “eligible service member” means:  
  
-  (1) [A currently serving member of any branch of the armed forces of the 5 
-United States, including the Na tional Guard and the military reserves ] AN ACTIVE 6 
-SERVICE MEMBER ; and  7 
+ WES MOORE, Governor  Ch. 256  
  
-  (2) A veteran [of any branch of the armed forces of the United States, 8 
-including the National Guard and the military reserves,  who has received an honorable 9 
-discharge or a certificate  of satisfactory completion of military  service ]. 10 
+– 11 –   (1) [A currently serving member of any branch of the armed forces of the 
+United States, including the National Guard and the military reserves ] AN ACTIVE 
+SERVICE MEMBER ; and  
  
-16–109. 11 
+  (2) A veteran [of any branc h of the armed forces of the United States, 
+including the National Guard and the military reserves,  who has received an honorable 
+discharge or a certificate of satisfactory completion of military  service ]. 
  
- Each community college shall:  12 
+16–109. 
  
-  (1) Ensure all student advisors are trained on the unique needs and 13 
-resources available for students who are veterans;  14 
+ Each community college shall:  
  
-  (2) Employ at least one employee who, as  a component of the employee’s 15 
-job duties and responsibilities, provides comprehensive and intensive enrollment and 16 
-advising services to current and prospective students who are veterans; and  17 
+  (1) Ensure all student advisors are trained on the unique needs and 
+resources available for students who are veterans;  
  
-  (3) Establish a veterans resource center on campus to:  18 
+  (2) Employ at least one employee who, as a component of the employee’s 
+job duties and responsibilities, provides comprehensive and intensi ve enrollment and 
+advising services to current and prospective students who are veterans; and  
  
-   (i) Provide access to federal and State veterans resources;  19 
+  (3) Establish a veterans resource center on campus to:  
  
-   (ii) Serve as a quiet place for veterans to study;  20 
+   (i) Provide access to federal and State veterans resources;  
  
-   (iii) Enable veterans to connect to other veterans, helping them 21 
-renew the bonds of [military ] service; and  22 
+   (ii) Serve as a quiet place for vete rans to study;  
  
-   (iv) Be the central hub for  all activities on campus related to 23 
-veterans.  24 
+   (iii) Enable veterans to connect to other veterans, helping them 
+renew the bonds of [military ] service; and  
  
-18–205. 25 
+   (iv) Be the central hub for all activities on campus related to 
+veterans.  
  
- Subject to rules and regulations adopted by the Commission, the Office shall grant 26 
-a deferment from the service obligation component of student financial assistance awarded 27 
-under this title to:  28 
+18–205. 
  
-12 HOUSE BILL 600   
+ Subject to rules and regulations adopted  by the Commission, the Office shall grant 
+a deferment from the service obligation component of student financial assistance awarded 
+under this title to:  
  
-   (1) An [individual ] ACTIVE SERVICE MEMBE R who has been assigned 1 
-[military ] duty outside of the State; or  2 
+  (1) An [individual ] ACTIVE SERVICE MEMBE R who has been assigned 
+[military ] duty outside of the Stat e; or 
  
-  (2) The spouse of an [individual ] ACTIVE SERVICE MEMBE R who has been 3 
-assigned [military ] duty outside of the State.  4 
+  (2) The spouse of an [individual ] ACTIVE SERVICE MEMBE R who has been 
+assigned [military ] duty outside of the State.  
  
-18–405. 5 
+18–405. 
  
- (d) Each Senator may a ward not more than 10% of the funds available under this 6 
-subtitle to applicants planning to attend accredited undergraduate, graduate, or 7 
-professional institutions outside the State, provided the applicant:  8 
+Ch. 256  2025 LAWS OF MARYLAND   
  
-  (3) Is an [individual who is on active duty wi th the United States military ] 9 
-ACTIVE SERVICE MEMBE R who is domiciled in this State.  10 
+– 12 –  (d) Each Senator may award not more than 10% of the funds available under this 
+subtitle to applicants planning to attend  accredited undergraduate, graduate, or 
+professional institutions outside the State, provided the applicant:  
  
-18–406. 11 
+  (3) Is an [individual who is on active duty with the United States military ] 
+ACTIVE SERVICE MEMBE R who is domiciled in this State.  
  
- (g) A recipient of a senatorial scholarship who is an [individual who is on active 12 
-duty with the United States military ] ACTIVE SERVICE MEMBE R and otherwise mee ts the 13 
-conditions of subsection (a) or (b) of this section may be domiciled in this State rather than 14 
-eligible for in –State tuition under this article.  15 
+18–406. 
  
-18–501. 16 
+ (g) A recipient of a senatorial scholarship who is an [individual who is on active 
+duty with the United States military ] ACTIVE SERVICE MEMBE R and otherwise meets the 
+conditions of subsection (a) or (b) of this section may be domiciled in this State rather t han 
+eligible for in –State tuition under this article.  
  
- (b) A scholarship awarded under this subtitle may be used at:  17 
+18–501. 
  
-  (2) An accredited undergraduate, graduate, or professional institution 18 
-outside the State, if the applicant:  19 
+ (b) A scholarship awarded under this subtitle may be used at:  
  
-   (iii) Is an [individual who is on active duty with the United States 20 
-military ] ACTIVE SERVICE MEMBE R who is domiciled in this State; and  21 
+  (2) An accredited undergraduate, graduate, or professional institution 
+outside the State, if the applicant:  
  
-Subtitle 6. Scholarships for [Military ] UNIFORMED SERVICES  and Public Safety 22 
-Personnel and Their Dependents and the Dependents of Certain School Employees.  23 
+   (iii) Is an [individual who is on active duty with the United States 
+military ] ACTIVE SERVICE MEMBE R who is domiciled in this State; and  
  
-18–601. 24 
+Subtitle 6. Scholarships for [Military ] UNIFORMED SERVICES  and Public Safety 
+Personnel and Their Dependents and the Dependents of C ertain School Employees.  
  
- (c) (1) The program for [military ] UNIFORMED SERVICES  and public safety 25 
-personnel and the ir eligible dependents is the Edward T. and Mary A. Conroy Memorial 26 
-Scholarship Program.  27 
+18–601. 
  
- (d) (2) To apply for a scholarship under this section, the following persons are 28 
-required to be a resident of Maryland at the time of application or at the time of t he 29 
-disabling or fatal event:  30 
+ (c) (1) The program for [military ] UNIFORMED SERVICES  and public safety 
+personnel and their eligible dependents is the Edward T. and Mary A. Conroy Memorial 
+Scholarship Program.  
  
- HOUSE BILL 600  13 
+ (d) (2) To apply for a scholarship under  this section, the following persons are 
+required to be a resident of Maryland at the time of application or at the time of the 
+disabling or fatal event:  
  
-    (i) A son, daughter, stepson, stepdaughter, or the surviving spouse 1 
-of a member of the [armed forces ] UNIFORMED SERVICES  who:  2 
+   (i) A son, daughter, stepson, stepdaughter, or the surviving spouse 
+of a member of the [armed forces ] UNIFORMED SERVICES  who:  
  
-    1. Died as a result of [military ] service after December 7, 3 
-1941;  4 
+    1. Died as a result of [military ] service after December 7, 
+1941;  
  
-    2. Suffered a service  connected 100% permanent disability 5 
-after December 7, 1941; or  6 
+    2. Suffered a service connected 100% permanent disability 
+after December 7, 1941; or  
+ WES MOORE, Governor  Ch. 256  
  
-    3. Was declared to be a prisoner of war or missing in action, 7 
-if that occurred on or after January 1, 1960, as a result of the Vietnam conflict, and if the 8 
-child was born prior to or whil e the parent was a prisoner of war or missing in action;  9 
+– 13 –  
+    3. Was declared to be a prisoner of war or missing in acti on, 
+if that occurred on or after January 1, 1960, as a result of the Vietnam conflict, and if the 
+child was born prior to or while the parent was a prisoner of war or missing in action;  
  
-   (ii) A prisoner of war or missing in action, if that occurred on or after 10 
-January 1, 1960, as a result of the Vietnam conflict and was a resident of this State at the 11 
-time the person was declared  to be a prisoner of war or missing in action;  12 
+   (ii) A prisoner of war or missing in action, if that occurred on o r after 
+January 1, 1960, as a result of the Vietnam conflict and was a resident of this State at the 
+time the person was declared to be a prisoner of war or missing in action;  
  
-   (iii) A veteran [, as defined under § 9 –901 of the State Government 13 
-Article, ] who:  14 
+   (iii) A veteran [, as defined under § 9 –901 of the State Government 
+Article, ] who:  
  
-    1. Suffers a service connected disability of 25% or greater; 15 
-and 16 
+    1. Suffers a service connected disability of 25% or greater; 
+and 
  
-    2. Has exhausted or is no longer eligible for federal veterans’ 17 
-educational benefits;  18 
+    2. Has exhausted or is no longer eligible for federal veterans’ 
+educational benefits;  
  
-   (iv) A son, daughter, stepson, or stepdaughter of or the surviving 19 
-spouse of a victim of the September 11, 2001, terrorist attacks;  20 
+   (iv) A son, daughter, stepson, or stepdaughter of or the surviving 
+spouse of a victim  of the September 11, 2001, terrorist attacks;  
  
-   (v) A son, daughter, stepson, or stepdaughter of a school employee 21 
-who, as a  result of an act of violence:  22 
+   (v) A son, daughter, stepson, or stepdaughter of a school employee 
+who, as a result of an act of violence:  
  
-    1. Died in the line of duty; or  23 
+    1. Died in the line of duty; or  
  
-    2. Sustained an injury in the line of duty that rendered the 24 
-school employee 100% disabled; or  25 
+    2. Sustained an injury in the line of duty that rendered  the 
+school employee 100% disabled; or  
  
-   (vi) The surviving spouse of a school employee who, as a result of an 26 
-act of violenc e: 27 
+   (vi) The surviving spouse of a school employee who, as a result of an 
+act of violence:  
  
-    1. Died in the line of duty; or  28 
+    1. Died in the line of duty; or  
  
-    2. Sustained an injury in the line of duty that rendered the 29 
-school employee 100% disabled.  30 
+    2. Sustained an injury in the line of duty that rendered the 
+school employee 100% disabled.  
  
-18–604. 31 
+18–604. 
  
-14 HOUSE BILL 600   
+ (a) For purposes of this section, an individual served in the Afghanistan or Iraq 
+conflict if the individual was [a] AN ACTIVE  SERVICE member [of the uniformed services 
+of the United States ] who served in:  
  
-  (a) For purposes of this section, an individual served in the Afghanistan or Iraq 1 
-conflict if the individual  was [a] AN ACTIVE  SERVICE member [of the uniformed services 2 
-of the United States ] who served in:  3 
+  (1) Afghanistan or contigu ous air space, as defined in federal regulations, 
+on or after October 24, 2001; or  
  
-  (1) Afghanistan or contiguous air space, as defined in federal regulations, 4 
-on or after October 24, 2001; or  5 
+Ch. 256  2025 LAWS OF MARYLAND   
  
-  (2) Iraq or contiguous waters or air space,  as defined in federal regulations, 6 
-on or after March 19, 2003.  7 
+– 14 –   (2) Iraq or contiguous waters or air space, as defined in federal regulations, 
+on or after March 19, 2003.  
  
- (c) An individual may apply to the Office for a scholarship under this section if 8 
-the individual:  9 
+ (c) An individual may apply to the Office for a scholarship u nder this section if 
+the individual:  
  
-  (1) Is a resident of Maryland;  10 
+  (1) Is a resident of Maryland;  
  
-  (2) (i) Is accepted for admission or enrolled in the regular 11 
-undergraduate program at an eligible institution; or  12 
+  (2) (i) Is accepted for admission or enrolled in the regular 
+undergraduate program at an eligible institution; or  
  
-   (ii) Is accepted for admission or enrolled in a 2 –year terminal 13 
-certificate program in which the course work is acceptable for transfer credit for an 14 
-accredited baccalaureate program in an el igible institution; and  15 
+   (ii) Is accepted for admission or enrolled in a 2 –year terminal 
+certificate program in which the course work is acceptable for transfer credit for an 
+accredited baccalaureate program in an eligible institution; and  
  
-  (3) (i) 1. Is a veteran [, as defined under § 9 –901 of the State 16 
-Government Article, ] who served in the Afghanistan or Iraq conflict;  17 
+  (3) (i) 1. Is a veteran [, as defined under § 9 –901 of the State 
+Government Article, ] who served in the  Afghanistan or Iraq conflict;  
  
-    2. Is an active [duty member of the armed forces ] SERVICE 18 
-MEMBER  who served in the Afghanis tan or Iraq conflict; or  19 
+    2. Is an active [duty member of the armed forces ] SERVICE 
+MEMBER  who served in the Afghanistan or Iraq conflict; or  
  
-    3. Is a member of a reserve component [of the armed forces 20 
-of the United States or the Maryland National Guard ] who was activated as a result of the 21 
-Afghanistan or Iraq conflict described in subsection (a) of this section; or  22 
+    3. Is a member of a reserve component [of the armed forces 
+of the United States or the Maryland Nat ional Guard ] who was activated as a result of the 
+Afghanistan or Iraq conflict described in subsection (a) of this section; or  
  
-   (ii) Is a son, daughter, stepson, stepdaughter, or spouse of:  23 
+   (ii) Is a son, daughter, stepson, stepdaughter, or spouse of:  
  
-    1. A veteran or AN active [duty] SERVICE  member [of the 24 
-armed forces ] who is serving or has served in the Afghanistan or Iraq conflict; or  25 
+    1. A veteran or AN active [duty] SERVICE  member [of the 
+armed forces ] who is serving or has served in the Afghanistan or Iraq conflict; or  
  
-    2. A member of the reserve [or Maryland National Guard ] 26 
-COMPONENT who was activated as a result of the Afghanistan or Iraq conflict described in 27 
-subsection (a) of this section.  28 
+    2. A member of the reserve [or Maryland National Guard ] 
+COMPONENT who was activated as a result of the Afghanistan or Iraq conflict described in 
+subsection (a) of this section.  
  
- (d) A scholarship awarded under this section may supplement, but is not 29 
-contingent on, any federal education benefits  for which a recipient qualifies as a result of 30 
-an individual’s [military ] service or status as a dependent of [a] AN ACTIVE  SERVICE  31 
-member [of the armed forces ] or of a veteran [of the armed forces ]. 32 
+ (d) A scholarship awarded under this section may supplement, but is not 
+contingent on, any federal education benefits for which a recipient qualifies as a result of 
+an individual’s [military ] service or status as a dependent of [a] AN ACTIVE  SER VICE  
+member [of the armed forces ] or of a veteran [of the armed forces ]. 
  
- HOUSE BILL 600  15 
+18–708. 
  
- 18–708. 1 
+ (l) (7) The Office shall grant a deferment from the service obligation required 
+under this section to:  
  
- (l) (7) The Office shall grant a deferment f rom the service obligation required 2 
-under this section to:  3 
+ WES MOORE, Governor  Ch. 256  
  
-   (i) An [individual ] ACTIVE SERVICE MEMBE R who has been 4 
-assigned [military ] duty outside the State; or  5 
+– 15 –    (i) An [individual ] ACTIVE SERVICE MEMBE R who has been 
+assigned [military ] duty outside the State; or  
  
-   (ii) The spouse of an [individual ] ACTIVE SERVICE MEMBE R who 6 
-has been assigned [military ] duty outside the State.  7 
+   (ii) The spouse of an [individual ] ACTIVE SERVICE MEMBE R who 
+has been assigned [military ] duty outside the State.  
  
-18–1910.  8 
+18–1910.  
  
- (c) (2) The time that a qualified beneficiary spends in active duty as a member 9 
-of the [United States armed forces ] UNIFORMED SERVICES shall be added to the time 10 
-period allowed to exercise the benefits under a prepaid contract before a termination under 11 
-paragraph (1) of this subsection.  12 
+ (c) (2) The time that a qualified beneficiary spends in active duty as a member 
+of the [United States armed forces ] UNIFORMED SERVICES shall be added to the time 
+period allowed to exercise the benefits under a prepaid contract before a termination under 
+paragraph (1) of this subsection.  
  
-18–3005.  13 
+18–3005.  
  
- To qualify for participation in the Program, an individual shall:  14 
+ To qualify for participation in the Program, an individual shall:  
  
-  (1) (iv) 1. Have been honorably discharged from the [United States 15 
-armed forces, the National Guard, ] UNIFORMED SERVICES or a reserve component [of the 16 
-United States armed forces ] within 18 months of the date of application;  17 
+  (1) (iv) 1. Have been honorably discharged from the [United States 
+armed forces, the National Guard, ] UNIFORMED SERVICES or a reserve component [of the 
+United States armed forces ] within 18 months of the date of application;  
  
-    2. Be a resident of Maryland; and  18 
+    2. Be a resident of Maryland; and  
  
-    3. Have graduated from a public or private nonprofit 19 
-institution of higher educat ion; 20 
+    3. Have graduated from a public or private nonprofit 
+institution of higher education;  
  
-21–309. 21 
+21–309. 
  
- (a) (5) (ii) “Qualified employee with a disability” includes:  22 
+ (a) (5) (ii) “Qualified employee with a disability” includes:  
  
-    1. An individual who has been determined by the Maryland 23 
-Department of Labor, in consultation with the U.S. Department of Veterans Affairs, as 24 
-having been discharged or rele ased from active duty in the [armed forces of the United 25 
-States ] UNIFORMED SERVICES  for a service –connected disability; and  26 
+    1. An individual who has been determined by the Maryland 
+Department of Labor, in consultation with the U.S. Department of Veterans Affairs, as 
+having been discharged or released from active duty in the [armed forces of the United 
+States ] UNIFORMED SERVICES  for a service –connected disability; and  
  
-Article – General Provisions  27 
+Article – General Provisions  
  
-1–101.1.  28 
+1–101.1.  
  
- “ACTIVE DUTY ” HAS THE MEANING STAT ED IN § 9–901 OF THE STATE 29 
-GOVERNMENT ARTICLE . 30 
-16 HOUSE BILL 600   
+ “ACTIVE DUTY ” HAS THE MEANING STAT ED IN § 9–901 OF THE STATE 
+GOVERNMENT ARTICLE . 
  
-  
-1–101.2.  1 
+1–101.2.  
  
- “ACTIVE SERVICE MEMBER ” HAS THE MEANING STAT ED IN § 9–901 OF THE 2 
-STATE GOVERNMENT ARTICLE . 3 
+Ch. 256  2025 LAWS OF MARYLAND   
  
-1–103.1.  4 
+– 16 –  “ACTIVE SERVICE MEMBER ” HAS THE MEANING STAT ED IN § 9–901 OF THE 
+STATE GOVERNMENT ARTICLE . 
  
- “ARMED FORCES ” HAS THE MEANING STAT ED IN § 9–901 OF THE STATE 5 
-GOVERNMENT ARTICLE . 6 
+1–103.1.  
  
-1–114.1.  7 
+ “ARMED FORCES ” HAS THE MEANING STAT ED IN § 9–901 OF THE STATE 
+GOVERNMENT ARTICLE . 
  
- “RESERVE COMPONENT ” HAS THE MEANING STAT ED IN § 9–901 OF THE STATE 8 
-GOVERNMENT ARTICLE . 9 
+1–114.1.  
  
-1–114.2.  10 
+ “RESERVE COMPONENT ” HAS THE MEANING STAT ED IN § 9–901 OF THE STATE 
+GOVERNMENT ARTICLE . 
  
- “SERVICE MEMBER ” HAS THE MEANING STAT ED IN § 9–901 OF THE STATE 11 
-GOVERNMENT ARTICLE . 12 
+1–114.2.  
  
-1–116. 13 
+ “SERVICE MEMBER ” HAS THE MEANING STAT ED IN § 9–901 OF THE STATE 
+GOVERNMENT ARTICLE . 
  
- “UNIFORMED SERVICES ” HAS THE MEANING STAT ED IN § 9–901 OF THE STATE 14 
-GOVERNMENT ARTICLE . 15 
+1–116. 
  
-1–117. 16 
+ “UNIFORMED SERVICES ” HAS THE MEANING STAT ED IN § 9–901 OF THE STATE 
+GOVERNMENT ARTICLE . 
  
- (A) “VETERAN ” HAS THE MEANING STAT ED IN § 9–901 OF THE STATE 17 
-GOVERNMENT ARTICLE . 18 
+1–117. 
  
- (B) With respect to any State program of benefits, rights, or privileges applicable 19 
-to a veteran under this Code, “veteran” includes [, if the individual is eligible under 38 20 
-U.S.C. § 101 , a member of the commissioned corps of:  21 
+ (A) “VETERAN ” HAS THE MEANING STAT ED IN § 9–901 OF THE STATE 
+GOVERNMENT ARTICLE . 
  
-  (1) the Public Health Service; or  22 
+ (B) With respect to any State program of benefits, rights, or privileges applicable 
+to a veteran under this Code, “veteran” includes [, if the individual is eligible under 38 
+U.S.C. § 101, a member of the commissioned corps of:  
  
-  (2) the National Oceanic and Atmospheric Administration or its 23 
-predecessor, the Coast and Geodetic Survey ] AN INDIVIDUAL WHO ME ETS THE  24 
-DEFINITION OF “VETERAN ” UNDER § 9–901 OF THE STATE GOVERNMENT ARTICLE . 25 
+  (1) the Public Health Service; or  
  
-Article – State Government  26 
+  (2) the Natio nal Oceanic and Atmospheric Administration or its 
+predecessor, the Coast and Geodetic Survey ] AN INDIVIDUAL WHO ME ETS THE  
+DEFINITION OF “VETERAN ” UNDER § 9–901 OF THE STATE GOVERNMENT ARTICLE . 
  
-9–901. 27 
+Article – State Government  
  
- HOUSE BILL 600  17 
+9–901. 
  
-  (a) In this subtitle the following words have the meanings indicated.  1 
+ (a) In this subtitle the following words have the meanings indicated.  
  
- (B) “ACTIVE DUTY ” HAS THE MEANING STAT ED IN 37 U.S.C.  § 101. 2 
+ WES MOORE, Governor  Ch. 256  
  
- (C) “ACTIVE SERVICE MEMBER ” MEANS AN INDIVIDUAL WHO IS: 3 
+– 17 –  (B) “ACTIVE DUTY ” HAS THE MEANING STAT ED IN 37 U.S.C.  § 101. 
  
-  (1) AN ACTIVE DUTY MEMBE R OF THE UNIFORMED S ERVICES ; OR 4 
+ (C) “ACTIVE SERVICE MEMBER ” MEANS AN INDIVIDUAL WHO IS : 
  
-  (2) SERVING IN A RESERVE  COMPONENT OF THE UNI FORMED 5 
-SERVICES ON ACTIVE D UTY ORDERS . 6 
+  (1) AN ACTIVE DUTY MEMBE R OF THE UNIFORMED S ERVICES ; OR 
  
- [(b)] (D) “ARMED FORCES ” HAS THE MEANING STAT ED IN 10 U.S.C.  § 101.  7 
+  (2) SERVING IN A RESERVE  COMPONENT OF THE UNI FORMED 
+SERVICES ON ACTIVE D UTY ORDERS . 
  
- (E) “Board” means the Board of Tru stees of the Maryland Veterans Trust.  8 
+ [(b)] (D) “ARMED FORCES ” HAS THE MEANING STAT ED IN 10 U.S.C.  § 101.  
  
- [(c)] (F) “Department” means the Department of Veterans and Military 9 
-Families.  10 
+ (E) “Board” means the Board of Trustees of the Maryland Veterans Trust.  
  
- (G) “MILITARY FAMILY ” INCLUDES THE SPOUSE AND DEPENDENT 11 
-CHILDREN OF A SERVIC E MEMBER OR VETERAN RELATED BY BLOOD , MARRIAGE , OR 12 
-ADOPTION . 13 
+ [(c)] (F) “Department” means the Department of Vete rans and Military 
+Families.  
  
- (H) “RESERVE COMPONENT ” HAS THE MEANING STAT ED IN 37 U.S.C.  § 101. 14 
+ (G) “MILITARY FAMILY ” INCLUDES THE SPOUSE AND DEPENDENT 
+CHILDREN OF A SERVIC E MEMBER OR VETERAN RELATED BY BLOOD , MARRIAGE , OR 
+ADOPTION . 
  
- [(d)] (I) “Secretary” means the Secretary of Veterans and Military Families.  15 
+ (H) “RESERVE COMPONENT ” HAS THE MEANING STAT ED IN 37 U.S.C.  § 101. 
  
- (J) “SERVICE MEMBER ” MEANS AN INDIVIDUAL WHO IS A MEMBER OF : 16 
+ [(d)] (I) “Secretary” means the Secretary of Veterans and Military Families.  
  
-  (1) THE UNIFORMED SERVIC ES; OR 17 
+ (J) “SERVICE MEMBER ” MEANS AN INDIVIDUAL WHO IS A MEMBER OF : 
  
-  (2) A RESERVE COMPONENT OF  THE UNIFORMED SERVIC ES. 18 
+  (1) THE UNIFORMED SERVIC ES; OR 
  
- [(e)] (K) “Trust” means the Maryland Veterans Trust.  19 
+  (2) A RESERVE COMPONENT OF THE UNIFORMED SER VICES . 
  
- (L) “UNIFORMED SERVICES ” HAS THE MEANING STAT ED IN 37 U.S.C.  § 101. 20 
+ [(e)] (K) “Trust” means the Maryland  Veterans Trust.  
  
- [(f)] (M) Except as otherwise provided [in this subtitle ], “veteran” [means an 21 
-indiv idual who served on active duty in the armed forces of the United States, other than 22 
-for training, and was discharged or released under conditions other than dishonorable ] HAS 23 
-THE MEANING STATED I N 38 U.S.C.  § 101. 24 
+ (L) “UNIFORMED SERVICES ” HAS THE MEANING STAT ED IN 37 U.S.C.  § 101. 
  
- SECTION 2. AND BE IT FURTHER ENACTED, T hat this Act shall take effect July 25 
-1, 2025.  26 
+ [(f)] (M) Except as otherwise provided [in this subtitle ], “veteran” [means an 
+individual who served on active duty in the armed forces of the United States, other than 
+for training, and was discharged or released under conditions other than dishonorable ] HAS 
+THE MEANING STATED I N 38 U.S.C.  § 101. 
  
+ SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July 
+1, 2025.  
+ 
+Approved by the Governor, May 6, 2 025. 

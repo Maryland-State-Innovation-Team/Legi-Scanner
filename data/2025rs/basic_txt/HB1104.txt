@@ -1,405 +1,367 @@
+ WES MOORE, Governor  Ch. 615  
+ 
+– 1 – Chapter 615  
+(House Bill 1104 ) 
  
+AN ACT concerning  
  
-EXPLANATION:  CAPITALS INDICATE MAT TER ADDED TO EXISTIN G LAW . 
-        [Brackets ] indicate matter deleted from existing law.  
-         Underlining  indicates amendments to bill.  
-         Strike out  indicates matter stricken from the bill by amendment or deleted from the law by 
-amendment.  
-         Italics indicate opposite chamber/confere nce committee amendments.             *hb1104*      
-HOUSE BILL 1104  
-J1   (5lr0253 ) 
-ENROLLED BILL  
-— Health and Government Operations and Appropriations/Finance and Budget and 
-Taxation  — 
-Introduced by Chair, Health and Government Operations Committee (By Request 
-– Departmental – Health)  
- 
-Read and Examined by Proofreaders:  
- 
-_______________________________________________  
-Proofreader.  
-_______________________________________________  
-Proofreader.  
- 
-Sealed with the Great Sea l and presented to the Governor, for his approval this  
-  
-_______ day of _______________ at ________________________ o’clock, ________M.  
-  
-______________________________________________  
-Speaker .  
- 
-CHAPTER ______  
- 
-AN ACT concerning  1 
- 
-Maryland Department of Health – AHEAD Model Implementation – Electronic 2 
-Health Care Transactions and Population Health Improvement Fund  3 
- 
-FOR the purpose of clarifying that electronic health care transactions information may be 4 
-used to support the participation of the State in the States Advancing All –Payer 5 
-Health Equity Approaches and Development (AHEAD) Model and any successor 6 
-models; establishing the Population Health Improvement Fund as a special, 7 
-nonlapsing fund to invest in population health improvements to support the 8 
-statewide population health targets under the AHEAD Model and any successor 9 
-models; requiring that interest earnings of the Fund be credited to the Fund; 10 
-authorizing the Health Services Cost Review Commission to assess a certain amount 11 
-in hospital rates to be  credited to the Fund; requiring the Maryland Department of 12 
-Health to make a draft of a certain report available for public comment; requiring the 13 
-2 HOUSE BILL 1104   
- 
- Department and the Commission to meet with certain members of the General 1 
-Assembly;  and generally relating to the implementation of the AHEAD Model.  2 
- 
-BY repealing and reenacting, with amendments,  3 
- Article – Health – General  4 
- Section 4 –302.3(f)(3)(i), (h)(1), and (j)(3)  5 
- Annotated Code of Maryland  6 
- (2023 Replacement Volume and 2024 Su pplement)  7 
- 
-BY adding to  8 
- Article – Health – General  9 
-Section 13 –5501 and 13 –5502 to be under the new subtitle “Subtitle 55. Population 10 
-Health Improvement Fund”  11 
- Annotated Code of Maryland  12 
- (2023 Replacement Volume and 2024 Supplement)  13 
+Maryland Department of Health – AHEAD Model Implementation – Electronic 
+Health Care Transactions and Population Health Improvement Fund  
  
-BY repealing and reenacting, without amendments,  14 
- Article – State Finance and Procurement  15 
-Section 6 –226(a)(2)(i)  16 
- Annotated Code of Maryland  17 
- (2021 Replacement Volume and 2024 Supplement)  18 
+FOR the purpose of clarifying that electronic health care transactions information may be 
+used to support the participation of the State in the States Advancing All –Payer 
+Health Equity Approaches and Development (AHEAD) Model and any successor 
+mode ls; establishing the Population Health Improvement Fund as a special, 
+nonlapsing fund to invest in population health improvements to support the 
+statewide population health targets under the AHEAD Model and any successor 
+models; requiring that interest ear nings of the Fund be credited to the Fund; 
+authorizing the Health Services Cost Review Commission to assess a certain amount 
+in hospital rates to be credited to the Fund; requiring the Maryland Department of 
+Health to make a draft of a certain report avail able for public comment; requiring the 
+Department and the Commission to meet with certain members of the General 
+Assembly;  and generally relating to the implementation of the AHEAD Model.  
  
-BY repealing and reenacting, with amendments,  19 
- Article – State Finance and Procureme nt 20 
-Section 6 –226(a)(2)(ii)204. and 205.  21 
- Annotated Code of Maryland  22 
- (2021 Replacement Volume and 2024 Supplement)  23 
+BY repealing and reenacting, with amendments,  
+ Article – Health – General  
+ Section 4 –302.3(f)(3)(i), (h)(1), and (j)(3)  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-BY adding to  24 
- Article – State Finance and Procurement  25 
-Section 6 –226(a)(2)(ii)206.  26 
- Annotated Code of Maryland  27 
- (2021 Replacement Volume and 2024 Supplement)  28 
+BY adding to  
+ Article – Health – General  
+Section 13 –5501 and 13 –5502 to be under the new subtitle “Subtitle 55. Population 
+Health Improvement Fund”  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
  
-BY repealing and reenacting, with amendments,  29 
- Article – Health – General  30 
- Section 13 –5502(e)  31 
- Annotated Code of Maryland  32 
- (2023 Replacement Volume and 2024 Supplement)  33 
- (As enacted by Section 2 of this Act)  34 
+BY repealing and reenacting, without amendments,  
+ Article – State Finance and Procurement  
+Section 6 –226(a)(2)(i)  
+ Annotated Code o f Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
- SECTION 1. BE IT ENACTED BY  THE GENERAL ASSEMBLY OF MARYLAND, 35 
-That the Laws of Maryland read as follows:  36 
+BY repealing and reenacting, with amendments,  
+ Article – State Finance and Procurement  
+Section 6 –226(a)(2)(ii)204. and 205.  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement ) 
  
-Article – Health – General  37 
+Ch. 615  2025 LAWS OF MARYLAND   
  
-4–302.3.  38 
- HOUSE BILL 1104  3 
+– 2 – BY adding to  
+ Article – State Finance and Procurement  
+Section 6 –226(a)(2)(ii)206.  
+ Annotated Code of Maryland  
+ (2021 Replacement Volume and 2024 Supplement)  
  
-  
- (f) (3) (i) If approved by the Maryland Health Care Commission, the 1 
-information submitted under paragraph (1) of this subsection may be co mbined with other 2 
-data maintained by the State –designated health information exchange to facilitate:  3 
+BY repealing and reenacting, with amendments,  
+ Article – Health – General  
+ Section 13 –5502(e)  
+ Annotated Code of Maryland  
+ (2023 Replacement Volume and 2024 Supplement)  
+ (As enacted by Section 2 of this Act)  
  
-    1. A State health improvement program;  4 
+ SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, 
+That the Laws of Maryland read as follows:  
  
-    2. Mitigation of a public health emergency; [and] 5 
+Article – Health – General  
  
-    3. Improvement of patient safety ; AND  6 
+4–302.3. 
  
-    4. THE PARTICIPATION OF THE  STATE IN THE CENTER 7 
-FOR MEDICARE AND MEDICAID INNOVATION ’S STATES ADVANCING ALL–PAYER 8 
-HEALTH EQUITY APPROACHES AND DEVELOPMENT (AHEAD)  MODEL AND ANY 9 
-SUCCESSOR MODELS . 10 
+ (f) (3) (i) If approved by the Maryland Health Care Commission, the 
+information submitted under paragraph (1) of this subsection may be combined with other 
+data maintained by the State –designated health information exchange to facilitate:  
  
- (h) (1) An electronic health network shall provide electronic heal th care 11 
-transactions to the State –designated health information exchange for the following public 12 
-health and clinical purposes:  13 
+    1. A State health improvement program;  
  
-   (i) A State health improvement program;  14 
+    2. Mitigation of a public health emergency; [and] 
  
-   (ii) Mitigation of a public health emergency; [and] 15 
+    3. Improvement of patient safety ; AND  
  
-   (iii) Improvement of pat ient safety ; AND   16 
+    4. THE PARTICIPATION OF THE STATE IN THE CENTER 
+FOR MEDICARE AND MEDICAID INNOVATION ’S STATES ADVANCING ALL–PAYER 
+HEALTH  EQUITY APPROACHES AND DEVELOPMENT (AHEAD)  MODEL AND ANY 
+SUCCESSOR MODELS . 
  
-   (IV) THE PARTICIPATION OF THE STATE IN THE CENTER FOR 17 
-MEDICARE AND MEDICAID INNOVATION ’S STATES ADVANCING ALL–PAYER 18 
-HEALTH EQUITY APPROACHES AND DEVELOPMENT (AHEAD)  MODEL AND ANY 19 
-SUCCESSOR MODELS . 20 
+ (h) (1) An electronic health network shall provide electronic health care 
+transactions to the State –designated health information exchange for the following public 
+health and clin ical purposes:  
  
- (j) (3) Regulations adopted under paragraph (1) of this subsection [shall]: 21 
+   (i) A State health improvement program;  
  
-   (i) [Limit ] SHALL LIMIT  redisclosure of financial information, 22 
-including billed or paid amounts available in electronic claims transactions;  23 
+   (ii) Mitigation of a public health emergency; [and] 
  
-   (II) MAY NOT RESTRICT THE STATE’S USE O F FINANCIAL 24 
-INFORMATION , INCLUDING BILLED OR PAID AMOUNTS AVAILAB LE IN ELECTRONIC 25 
-CLAIMS TRANSACTIONS , FOR PUBLIC HEALTH PU RPOSES RELATED TO TH E 26 
-PARTICIPATION OF THE  STATE IN THE CENTER FOR MEDICARE AND MEDICAID 27 
-INNOVATION ’S STATES ADVANCING ALL–PAYER HEAL TH EQUITY APPROACHES 28 
-AND DEVELOPMENT (AHEAD)  MODEL AND ANY SUCCESS OR MODELS ; 29 
+   (iii) Improvement of patient safety ; AND   
  
-4 HOUSE BILL 1104   
+ WES MOORE, Governor  Ch. 615  
  
-    [(ii)] (III) [Restrict ] SHALL RESTRICT  data of patients who have 1 
-opted out of records sharing through the State –designated health information exchange or 2 
-a health information exchange authorized by the Maryland Health Care Commission;  3 
+– 3 –    (IV) THE PARTICIPATION OF THE STATE IN THE CENTER FOR 
+MEDICARE AND MEDICAID INNOVATION ’S STATES ADVANCING ALL–PAYER 
+HEALTH EQUITY APPROACHES AND DEVELOPMENT (AHEAD)  MODEL AND ANY 
+SUCCESSOR MODELS . 
  
-   [(iii)] (IV) [Restrict ] SHALL RESTRICT  data from health care 4 
-providers that possess sensitive health care information; and  5 
+ (j) (3) Regulations adopted under paragraph (1) of this subsection [shall]: 
  
-   [(iv)] (V) [Restrict ] SHALL RESTRICT  data of patients who have 6 
-obtained legally protected health care.  7 
+   (i) [Limit ] SHALL LIMIT  redisclosure of financial information, 
+including billed or paid amounts available in electronic claims transactions;  
  
- SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 8 
-as follows:  9 
+   (II) MAY NOT RESTRICT THE STATE’S USE OF FINANCIAL 
+INFORMATION , INCLUDING BILLED OR PAID AMOUNTS AVAILAB LE IN ELECTRONIC 
+CLAIMS TRANSACTIONS , FOR PUBLIC HEALTH PU RPOSES RELATED TO THE 
+PARTICIPATION OF THE  STATE IN THE CENTER FOR MEDICARE AND MEDICAID 
+INNOVATION ’S STATES ADVANCING ALL–PAYER HEALTH EQUITY APPROACHES 
+AND DEVELOPMENT (AHEAD)  MODEL AND ANY SUCCESS OR MODELS ; 
  
-Article – Health – General   10 
+   [(ii)] (III) [Restrict ] SHALL RESTRICT  data of patients w ho have 
+opted out of records sharing through the State –designated health information exchange or 
+a health information exchange authorized by the Maryland Health Care Commission;  
  
-SUBTITLE 55. POPULATION HEALTH IMPROVEMENT FUND. 11 
+   [(iii)] (IV) [Restrict ] SHALL RESTRICT  data from health care 
+providers that possess sensitive health care information; and  
  
-13–5501.  12 
+   [(iv)] (V) [Restrict ] SHALL RESTRICT  data of patients who have 
+obtained legally protected health care.  
  
- (A) IN THIS SUB TITLE THE FOLLOWING WORDS HAVE THE MEANI NGS 13 
-INDICATED . 14 
+ SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Marylan d read 
+as follows:  
  
- (B) “AHEAD  MODEL” MEANS THE STATES ADVANCING ALL–PAYER 15 
-HEALTH EQUITY APPROACHES AND DEVELOPMENT MODEL ADMINISTERED BY  THE 16 
-CENTER FOR MEDICARE AND MEDICAID INNOVATION . 17 
+Article – Health – General   
  
- (C) “FUND” MEANS THE POPULATION HEALTH IMPROVEMENT FUND. 18 
+SUBTITLE 55. POPULATION HEALTH IMPROVEMENT FUND. 
  
- (D) “STATEWIDE HEALTH EQUI TY PLAN ” MEANS THE EQUITY PLA N 19 
-REQUIRED UNDER THE AHEAD  MODEL STATE AGREEMENT WITH THE CENTER 20 
-FOR MEDICARE AND MEDICAID SERVICES . 21 
+13–5501.  
  
-13–5502.  22 
+ (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE  THE MEANINGS 
+INDICATED . 
  
- (A) THERE IS A POPULATION HEALTH IMPROVEMENT FUND. 23 
+ (B) “AHEAD  MODEL” MEANS THE STATES ADVANCING ALL–PAYER 
+HEALTH EQUITY APPROACHES AND DEVELOPMENT MODEL ADMINISTERED BY  THE 
+CENTER FOR MEDICARE AND MEDICAID INNOVATION . 
  
- (B) THE PURPOSE OF THE FUND IS TO INVEST IN POPULATION HEALTH 24 
-IMPROVEMENTS TO SUPP ORT THE STATEWIDE PO PULATION HEALTH TARG ETS 25 
-UNDER THE AHEAD  MODEL AND ANY SUCCESS OR MODELS . 26 
+ (C) “FUND” MEANS THE POPULATION HEALTH IMPROVEMENT FUND. 
  
- (C) THE DEPARTMENT AND THE HEALTH SERVICES COST REVIEW 27 
-COMMISSION JOINTLY SH ALL ADMINISTER THE FUND. 28 
+Ch. 615  2025 LAWS OF MARYLAND   
  
- (D) (1) THE FUND IS A SPECIAL , NONLAPSING FUND THAT  IS NOT 29 
-SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE . 30 
- HOUSE BILL 1104  5 
+– 4 –  (D) “STATEWIDE HEALTH EQUI TY PLAN ” MEANS THE EQUITY PLA N 
+REQUIRED UNDER THE AHEAD  MODEL STATE AGREEMENT WITH THE CENTER 
+FOR MEDICARE AND MEDICAID SERVICES . 
  
-  
-  (2) THE STATE TREASURER SHALL HOLD THE FUND SEPARATELY , 1 
-AND THE COMPTROLLER SHALL ACC OUNT FOR THE FUND. 2 
+13–5502.  
  
- (E) THE FUND CONSISTS OF : 3 
+ (A) THERE IS A POPULATION HEALTH IMPROVEMENT FUND. 
  
-  (1) THE REVENUES FROM THE  UNIFORM , BROAD–BASED 4 
-ASSESSMENT MADE UNDE R SUBSECTION (K) (L) OF THIS SECTION ; 5 
+ (B) THE PURPOSE OF THE FUND IS TO INVEST IN POPULATION HEALTH 
+IMPROVEMENTS TO SUPP ORT THE STATEWIDE PO PULATION HEALTH TARG ETS 
+UNDER THE AHEAD  MODEL AND ANY SUCCESS OR MODELS . 
  
-  (2) MONEY APPROPRIATED IN  THE STATE BUDGET TO THE FUND; 6 
+ (C) THE DEPARTMENT AND THE HEALTH SERVICES COST REVIEW 
+COMMISSION JOINTLY SH ALL ADMINISTER THE FUND. 
  
-  (3) INTEREST EARNINGS ; AND 7 
+ (D) (1) THE FUND IS A SPECIAL , NONLAPSING FUND THAT  IS NOT 
+SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUR EMENT ARTICLE . 
  
-  (4) ANY OTHER MONEY FROM ANY OTHER SOURCE ACC EPTED FOR 8 
-THE BENEFIT OF THE FUND. 9 
+  (2) THE STATE TREASURER SHALL HOLD THE FUND SEPARATELY , 
+AND THE COMPTROLLER SHALL ACC OUNT FOR THE FUND. 
  
- (F) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , THE FUND 10 
-MAY BE USED ONLY FOR  EXPENSES ASSOCIATED WITH STATEWIDE POPUL ATION 11 
-HEALTH IMPROVEMENT I NITIATIVES IN ALIGNM ENT WITH THE STATEWI DE HEALTH 12 
-EQUITY PLAN AS DIREC TED BY THE SECRETARY . 13 
+ (E) THE FUND CONSISTS OF : 
  
-  (2) ACTIVITIES PAID FOR B Y THE FUND MUST SUPPORT THE  GOAL OF 14 
-MEETING THE STATEWID E POPULATION HEALTH TARGETS OUTLINED IN THE 15 
-AHEAD  MODEL STATE AGREEMENT WITH THE CENTER FOR MEDICARE AND 16 
-MEDICAID SERVICES AND HAV E AT LEAST ONE OF TH E FOLLOWING FUNCTION S: 17 
+  (1) THE REVENUES FROM THE  UNIFORM , BROAD–BASED 
+ASSESSMENT MADE UNDE R SUBSECTION (K) (L) OF THIS SECTION ; 
  
-   (I) REDUCING RATES OF COM MON PREVENTABLE HEAL TH 18 
-CONDITIONS ; 19 
+  (2) MONEY APPROPRIATED IN  THE STATE BUDGET TO THE FUND; 
  
-   (II) ADDRESSING HEALTH –RELATED SOCIAL NEEDS ; OR 20 
+  (3) INTEREST EARNINGS ; AND 
  
-   (III) REDUCING OR ELIMINATI NG HEALTH DISPARITIE S. 21 
+  (4) ANY OTHER MONEY FROM ANY OTHER SOURCE ACC EPTED FOR 
+THE BENEFIT OF THE FUND. 
  
- (G) (1) THE STATE TREASURER SHALL INVES T THE MONEY OF THE FUND 22 
-IN THE SAME MANNER A S OTHER STATE MONEY MAY BE IN VESTED . 23 
+ (F) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , THE FUND 
+MAY BE USED  ONLY FOR EXPENSES AS SOCIATED WITH STATEW IDE POPULATION 
+HEALTH IMPROVEMENT I NITIATIVES IN ALIGNM ENT WITH THE STATEWI DE HEALTH 
+EQUITY PLAN AS DIREC TED BY THE SECRETARY . 
  
-  (2) ANY INTEREST EARNINGS  OF THE FUND SHALL BE CREDITE D TO 24 
-THE FUND. 25 
+  (2) ACTIVITIES PAID FOR B Y THE FUND MUST SUPPORT THE  GOAL OF 
+MEETING THE STATEWID E PO PULATION HEALTH TARG ETS OUTLINED IN THE 
+AHEAD  MODEL STATE AGREEMENT WITH THE CENTER FOR MEDICARE AND 
+MEDICAID SERVICES AND HAVE AT LEAST ONE OF THE FOL LOWING FUNCTIONS : 
  
- (H) EXPENDITURES FROM THE  FUND MAY BE MADE ONLY  IN ACCORDANCE 26 
-WITH THE STATE BUDGET . 27 
+ WES MOORE, Governor  Ch. 615  
  
-6 HOUSE BILL 1104   
+– 5 –    (I) REDUCING RATES OF COM MON PREVENTABLE HEAL TH 
+CONDITIONS ; 
  
-  (I) MONEY EXPEND ED FROM THE FUND IS SUPPLEMENTAL TO AND IS NOT 1 
-INTENDED TO TAKE THE  PLACE OF FUNDING THA T WOULD OTHERWISE BE  2 
-APPROPRIATED FOR THE  MARYLAND MEDICAL ASSISTANCE PROGRAM . 3 
+   (II) ADDRESSING HEA LTH–RELATED SOCIAL NEEDS ; OR 
  
- (J) THE FUND IS SUBJECT TO AU DIT BY THE OFFICE OF LEGISLATIVE 4 
-AUDITS AS PROVIDED IN  § 2–1220  OF THE STATE GOVERNMENT ARTICLE . 5 
+   (III) REDUCING OR ELIMINATI NG HEALTH DISPARITIE S. 
  
- (K) (1) EACH YEAR , THE HEALTH SERVICES COST REVIEW COMMISSION  6 
-MAY ASSESS A UNIFORM , BROAD–BASED , AND REASONABLE AMOUN T IN HOSPITAL  7 
-RATES TO BE CREDITED  TO THE FUND. 8 
+ (G) (1) THE STATE TREASURER SHALL INVES T THE MONEY OF THE FUND 
+IN THE SAME MANNER A S OTHER STATE MONEY MAY BE IN VESTED . 
  
-  (2) FUNDS GENERATED FROM THE ASSESSMENT UNDER  PARAGRAPH  9 
-(1) OF THIS SUBSECTION M AY BE USED ONLY FOR THE EXPENSES DESCRIB ED IN  10 
-SUBSECTION (F) OF THIS SECTION . 11 
+  (2) ANY INTEREST EARNINGS  OF THE FUND SHALL BE C REDITED TO 
+THE FUND. 
  
- (K) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , EACH YEAR OF 12 
-THE TOTAL COST OF CARE MODEL , THE AHEAD  MODEL , OR ANY SUCCESSOR 13 
-MODEL , THE HEALTH SERVICES COST REVIEW COMMISSION MAY ASSESS  A 14 
-UNIFORM , BROAD–BASED , AND REASONABLE AMOUN T IN HOSPITAL RATES TO BE 15 
-CREDITED TO THE FUND. 16 
+ (H) EXPENDITURES FROM THE  FUND MAY BE MADE ONLY  IN ACCORDANCE 
+WITH THE STATE BUDGET . 
  
-  (2) THE HEALTH SERVICES COST REVIEW COMMISSION SHALL 17 
-INCLUDE THE FULL AMO UNT OF THE ASSESSMEN T AUTHORIZED UNDER PARAGRAPH 18 
-(1) OF THIS SUBSECTION I N THE HOSPITAL RATES . 19 
+ (I) MONEY EXPENDED FROM T HE FUND IS SUPPLEMENTAL TO AND IS NOT 
+INTENDED TO TAKE THE  PLACE OF FUNDING THA T WOULD OTHERWISE BE  
+APPROPRIATED FOR THE  MARYLAND MEDICAL ASSISTANCE PROGRAM . 
  
-  (3) ANY FUNDS GENERATED F ROM THE ASSESSMENT A UTHORIZED 20 
-UNDER PARAGRAPH (1) OF THIS SUBSECTION M AY BE USED ONLY FOR THE 21 
-EXPENSES DESCRIBED I N SUBSECTION (F) OF THIS SECTION . 22 
+ (J) THE FUND IS SUBJECT TO AU DIT BY THE OFFICE OF LEGISLATIVE 
+AUDITS AS PROVIDED IN  § 2–1220  OF THE STATE GOVERNMENT ARTICLE . 
  
- (L) (K) (1) ON OR BEFORE JULY 1 EACH YEAR , BEGINNING IN 2026,  23 
-THE DEPARTMENT SHALL SUBM IT A REPORT TO THE GENERAL ASSEMBLY , IN 24 
-ACCORDANCE WITH § 2–1257  OF THE STATE GOVERNMENT ARTICLE . 25 
+ (K) (1) EACH YEAR , THE HEALTH SERVICES COST REVIEW COMMISSION  
+MAY ASSESS A UNIFORM , BROAD–BASED , AND REASONABLE AMOUN T IN HOSPITAL  
+RATES TO BE CREDITED  TO THE FUND. 
  
-  (2) THE REPORT REQUIRED U NDER PARAGRAPH (1) OF THIS 26 
-SUBSECTION SHALL : 27 
+  (2) FUNDS GENERATED FROM THE ASSESSMENT UNDER  PARAGRAPH  
+(1) OF THIS SUBSECTION M AY BE USED ONLY FOR THE EXPENSES DESCRIB ED IN  
+SUBSECTION (F) OF THIS SECTION . 
  
-   (I) REFLECT THE REQUIRED ELEMENT S OF THE ANNUAL 28 
-PROGRESS REPORT AS O UTLINED IN THE STATE AGREEMENT AND S HALL INCLUDE :  29 
+ (K) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , EACH YEAR OF 
+THE TOTAL COST OF CARE MODEL , THE AHEAD  MODEL , OR ANY SUCCESSOR 
+MODEL , THE HEALTH SERVICES COST REVIEW COMMISSION MAY ASSESS  A 
+UNIFORM , BROAD–BASED , AND REASONABLE AMOUN T IN HOSPITAL RATES TO BE 
+CRE DITED TO THE FUND. 
  
-    1. MEASURES OF EFFECTIVE NESS FOR FUNDED 30 
-PROGRAMS AND TARGETE D POPULATIONS ; 31 
+  (2) THE HEALTH SERVICES COST REVIEW COMMISSION SHALL 
+INCLUDE THE FULL AMO UNT OF THE ASSESSMEN T AUTHORIZED UNDER P ARAGRAPH 
+(1) OF THIS SUBSECTION I N THE HOSPITAL RATES . 
  
-    2. ANY IMPACT ON HEALTH OUTCOMES AND HEALTH 32 
-DISPARITIES ; AND  33 
- HOUSE BILL 1104  7 
+  (3) ANY FUNDS GENERATED F ROM THE ASSESSMENT A UTHORIZED 
+UNDER PA RAGRAPH (1) OF THIS SUBSECTION M AY BE USED ONLY FOR THE 
+EXPENSES DESCRIBED I N SUBSECTION (F) OF THIS SECTION . 
+Ch. 615  2025 LAWS OF MARYLAND   
  
-  
-    3. RELEVANT COMPONENTS F ROM HOSPITAL REQUIRE D 1 
-REPORTING TO THE HEALTH SERVICES COST REVIEW COMMISSION ON 2 
-POPULATION HEALTH IM PROVEMENT EFFORTS ; AND  3 
+– 6 –  
+ (L) (K) (1) ON OR BEFORE JULY 1 EACH YEAR , BEGINNING IN 2026,  
+THE DEPARTMENT SHALL SUBM IT A REPORT TO THE GENERAL ASSEMBLY , IN 
+ACCORDANCE WITH § 2–1257  OF THE STATE GOVERNMENT ARTICLE . 
  
-   (II) INCLUDE : 4 
+  (2) THE REPORT REQUIRED U NDER PARAGRAPH (1) OF THIS 
+SUBSECTION SHALL : 
  
-    1. AN ACCOUNTING OF ALL SOURCES OF FUNDING 5 
-ACCEPTED FOR THE BEN EFIT OF THE FUND AND  THE AMOUNT OF FUNDIN G FROM 6 
-EACH SOURCE ; AND 7 
+   (I) REFLECT THE REQUIRED ELEMENTS OF THE ANNU AL 
+PROGRESS REPORT AS O UTLINED IN THE STATE AGREEMENT AND S HALL INCLUDE :  
  
-    2. A SUMMARY OF THE EXTEN T TO WHICH PUBLIC 8 
-COMMENTS INFORMED TH E WORK OF THE DEPARTMENT AND THE COMMISSION . 9 
+    1. MEASURES OF  EFFECTIVENESS FOR FU NDED 
+PROGRAMS AND TARGETE D POPULATIONS ; 
  
-  (3) THE DEPARTMENT SHALL MAKE  A DRAFT OF ITS REPOR T 10 
-AVAILABLE FOR PUBLIC  COMMENT FOR 30 DAYS .  11 
+    2. ANY IMPACT ON HEALTH OUTCOMES AND HEALTH 
+DISPARITIES ; AND  
  
-Article – State Finance and Procurement  12 
+    3. RELEVANT COMPONENTS F ROM HOSPITAL REQUIRE D 
+REPORTING TO THE HEALTH SERVICES COST REVIEW COMMISSION ON 
+POPULATION HEALTH I MPROVEMENT EFFORTS ; AND  
  
-6–226. 13 
+   (II) INCLUDE : 
  
- (a) (2) (i) 1. This subparagraph does not apply in fiscal years 2024 14 
-through 2028.  15 
+    1. AN ACCOUNTING OF ALL SOURCES OF FUNDING 
+ACCEPTED FOR THE BEN EFIT OF THE FUND AND THE AMOUNT O F FUNDING FROM 
+EACH SOURCE ; AND 
  
-    2. Notwithstanding any other provision of law, and unless 16 
-inconsistent with a federal law, grant agreement, or other federal requirement or with the 17 
-terms of a gift or settlement agreement, net interest on all State money allocated by the 18 
-State Treasurer under this section to special funds or accounts, and otherwise entitled to 19 
-receive interest earnings, as accounted for  by the Comptroller, shall accrue to the General 20 
-Fund of the State.  21 
+    2. A SUMMARY OF THE EXTEN T TO WHICH PUBLIC 
+COMMENTS INFORMED TH E WORK OF THE  DEPARTMENT AND THE COMMISSION . 
  
-   (ii) The provisions of subparagraph (i) of this paragraph do not apply 22 
-to the following funds:  23 
+  (3) THE DEPARTMENT SHALL MAKE  A DRAFT OF ITS REPOR T 
+AVAILABLE FOR PUBLIC  COMMENT FOR 30 DAYS .  
  
-    204. the Victims of Domestic Violence Program Grant Fund; 24 
-[and] 25 
+Article – State Finance and Procurement  
  
-    205. the Propos ed Programs Collaborative Grant Fund ; AND  26 
+6–226. 
  
-    206. THE POPULATION HEALTH IMPROVEMENT FUND . 27 
+ (a) (2) (i) 1. This subparagraph does not apply in fiscal years 2024 
+through 2028.  
  
- SECTION 3. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 28 
-as follows:  29 
+    2. Notwithstanding any other provision of law, and unless 
+inconsistent with a federal law, grant agreement, or other federal requirement or with the 
+terms of a gift or settlement agreement, net interest on all State money allocated by th e 
+State Treasurer under this section to special funds or accounts, and otherwise entitled to 
+ WES MOORE, Governor  Ch. 615  
  
-Article – Health – General  30 
+– 7 – receive interest earnings, as accounted for by the Comptroller, shall accrue to the General 
+Fund of the State.  
  
-8 HOUSE BILL 1104   
+   (ii) The provisions of subparagraph (i) of this paragraph do not apply 
+to the following funds:  
  
- 13–5502.  1 
+    204. the Victims of Domestic Violence Program Grant Fund; 
+[and] 
  
- (L) (1) SUBJECT TO PARAGRAPH (2) OF THIS  SUBSECTION , EACH YEAR OF 2 
-THE TOTAL COST OF CARE MODEL , THE AHEAD  MODEL , OR ANY SUCCESSOR 3 
-MODEL , THE HEALTH SERVICES COST REVIEW COMMISSION MAY ASSESS  A 4 
-UNIFORM , BROAD–BASED , AND REASONABLE AMOUN T IN HOSPITAL RATES TO BE 5 
-CREDITED TO THE FUND. 6 
+    205. the Proposed Programs Collaborative Grant Fund ; AND  
  
-  (2) THE HEALTH SERVICES COST REVIEW COMMISSION SHALL 7 
-INCLUDE THE FULL AMO UNT OF THE ASSESSMEN T AUTHORIZED UNDER P ARAGRAPH 8 
-(1) OF THIS SUBSECTION I N THE HOSPITAL RATES . 9 
+    206. THE POPULATION HEALTH IMPROVEMENT FUND . 
  
-  (3) ANY FUNDS GENERATED F ROM THE ASSESSMENT A UTHORIZED 10 
-UNDER PARAGRAPH (1) OF THIS SUBSECTION M AY BE USED ONLY FOR THE EXPENSES 11 
-DESCRIBED IN SUBSECT ION (F) OF THIS SECTION . 12 
+ SECTION 3. AND BE IT FURTH ER ENACTED, That the Laws of Maryland read 
+as follows:  
  
- SECTION 4. AND BE IT FURTHER ENACTED, That the Laws of Maryland read 13 
-as follows:  14 
+Article – Health – General  
  
-Article – Health – General  15 
+13–5502.  
  
-13–5502.  16 
+ (L) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION , EACH YEAR OF 
+THE TOTAL COST OF CARE MODEL , THE AHEAD  MODEL , OR ANY SUCCESSOR 
+MODEL , THE HEALTH SERVICES COST REVIEW COMMISSION MAY ASSESS  A 
+UNIFORM , BROAD–BASED , AND REASONABLE AMOUN T IN HOSPITAL RATES TO BE 
+CREDITED TO THE FUND. 
  
- (e) The Fund consists of:  17 
+  (2) THE HEALTH SERVICES COST REVIEW COMMISSION SHALL 
+INCLUDE THE FULL AMO UNT OF THE ASSESSMEN T AUTHORIZED UNDER P ARAGRAPH 
+(1) OF THIS SUBSECTION I N THE HOSPITAL RATES . 
  
-  [(1) The revenues from the  uniform, broad –based assessment made under 18 
-subsection (l) of this section; ] 19 
+  (3) ANY FUNDS GENERATED F ROM THE ASSESSMENT A UTHORIZED 
+UNDER PARAGRAPH (1) OF THIS SUBSECTION M AY BE USED ONLY FOR THE EXPENSES 
+DESCRIBED IN SUBSECT ION (F) OF THIS SECTION . 
  
-  [(2)] (1) Money appropriated in the State budget to the Fund;  20 
+ SECTION 4. AND BE IT FURTHER ENACTED , That the Laws of Maryland read 
+as follows:  
  
-  [(3)] (2) Interest earnings; and  21 
+Article – Health – General  
  
-  [(4)] (3) Any other money from any other source accepted for the benefit of  22 
-the Fund.  23 
+13–5502.  
  
- SECTION 5. AND BE IT FURTHER ENACTED, That:  24 
+ (e) The Fund consists of:  
  
- (a) The Maryland Department of Health and the Health Services Cost Review 25 
-Commission shall provide periodic updates on the AHEAD model or any successor model to 26 
-designated members of the Senate of Maryland and the House of Delegates.  27 
+  [(1) The revenues from the uniform, broad –based assessment made under 
+subsection (l) of this section; ] 
+Ch. 615  2025 LAWS OF MARYLAND   
  
- (b) The President shall designate three members of the Senate of Maryland, and 28 
-the Speaker shall designate three members of the House of Delegates, to meet with the 29 
-Department and the Commission on a monthly basis beg inning July 2025.  30 
+– 8 –  
+  [(2)] (1) Money appropriated in the State budget to the Fund;  
  
- HOUSE BILL 1104  9 
+  [(3)] (2) Interest earnings; and  
  
-  (c) The meetings required under this section shall continue through December 1 
-2026.  2 
+  [(4)] (3) Any other money from any other source accepted for the benefit of 
+the Fund.  
  
- SECTION 6. AND BE IT FURTHER ENACTED, That Section 4 of this Act shall take 3 
-effect January 1, 2028. It shall remain effective for a period of 2 years and, at the end of 4 
-December 31, 2030, Section 4 of this Act, with no further action required by the Genera l 5 
-Assembly, shall be abrogated and of no further force and effect.  6 
+ SECTION 5. AND BE IT FURTHER ENACTED, That:  
  
- SECTION 2. 3. 7. AND BE IT FURTHER ENACTED, That , except as provided in 7 
-Section 6 of this Act,  this Act shall take effect July 1, 2025. It Sections 1 and 2 of this Act  8 
-shall remain effec tive for a period of 5 years and 6 months and, at the end of December 31, 9 
-2030,  Sections 1 and 2 of  this Act, with no further action required by the General Assembly, 10 
-shall be abrogated and of no further force and effect.  Section 3 of this Act shall remain  11 
-effective for a period of 2 years and 6 months and, at the end of December 31, 2027, Section 12 
-3 of this Act, with no further action required by the General Assembly, shall be abrogated 13 
-and of no further force and effect. Section 5 of this Act shall remain effective for a period of 14 
-1 year and 6 months and, at the end of December 31, 2026, Section 5 of this Act, with no 15 
-further action required by the General Assembly, shall be abrogated and of no further force 16 
-and effect.   17 
+ (a) The Maryland Department of Health and the Health Serv ices Cost Review 
+Commission shall provide periodic updates on the AHEAD model or any successor model to 
+designated members of the Senate of Maryland and the House of Delegates.  
  
+ (b) The President shall designate three members of the Senate of Maryland, an d 
+the Speaker shall designate three members of the House of Delegates, to meet with the 
+Department and the Commission on a monthly basis beginning July 2025.  
  
+ (c) The meetings required under this section shall continue through December 
+2026.  
  
+ SECTION 6. AND BE IT FURTHER ENACTED, That Section 4 of this Act shall take 
+effect January 1, 2028. It shall remain effective for a period of 2 years and, at the end of 
+December 31, 2030, Section 4 of this Act, with no further action required by the Genera l 
+Assembly, shall be abrogated and of no further force and effect.  
  
-Approved:  
-________________________________ ________________________________ ________________   
-           Governor.  
-________________________________ ________________________________ ________________   
-         Speaker of the House of Delegates.  
-________________________________ ________________________________ ________________   
-                 President of the Senate.  
+ SECTION 2. 3. 7. AND BE IT FURTHER ENACTED, That , except as provided in 
+Section 6 of this Act,  this Act shall take effect July 1, 2025. It Sections 1 and 2 of this Act  
+shall remain effec tive for a period of 5 years and 6 months and, at the end of December 31, 
+2030,  Sections 1 and 2 of  this Act, with no further action required by the General Assembly, 
+shall be abrogated and of no further force and effect.  Section 3 of this Act shall remain  
+effective for a period of 2 years and 6 months and, at the end of December 31, 2027, Section 
+3 of this Act, with no further action required by the General Assembly, shall be abrogated 
+and of no further force and effect. Section 5 of this Act shall remain effective for a period of 
+1 year and 6 months and, at the end of December 31, 2026, Section 5 of this Act, with no 
+further action required by the General Assembly, shall be abrogated and of no further force 
+and effect.   
+ 
+Approved by the Governor, May 20, 2 025. 
