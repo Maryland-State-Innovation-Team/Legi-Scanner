@@ -9,16 +9,16 @@ import argparse
 from time import sleep
 import pandas as pd
 from dotenv import load_dotenv
-import google
+from openai import OpenAI
 from google import genai
-from openai import OpenAI, OpenAIError
 import ollama
 from ollama import chat
 from ollama import ChatResponse
 from pydantic import BaseModel
-from typing import Literal
+from typing import Literal, Optional
 from tqdm import tqdm
 import time
+from llm_utils import query_llm_with_retries
 
 
 question_dict = {
@@ -47,15 +47,13 @@ SYSTEM_PROMPT = SYSTEM_PROMPT.format(
     "\n".join([f"- {key}: {value}" for key, value in question_dict.items()])
 )
 
-GEMINI_SYSTEM_PROMPT = SYSTEM_PROMPT + "\nThe markdown follows below:\n\n{}"
-
 
 class AnswersToQuestions(BaseModel):
     bill_summary: str
     programmatic: bool
-    program_start_year: int
-    program_end_year: int
-    funding: float
+    program_start_year: Optional[int] = None
+    program_end_year: Optional[int] = None
+    funding: Optional[float] = None
     responsible_party: str
     stakeholders: str
     innovative_summary: str
@@ -64,139 +62,40 @@ class AnswersToQuestions(BaseModel):
     child_poverty_direct_score: int
 
 
-def createFormattedPromptContents(model, value):
-    if model == 'gemini':
-        formattedPromptContents = GEMINI_SYSTEM_PROMPT.format(
-            value
-        )
-    else:
-        formattedPromptContents = [
-            {
-                'role': 'system',
-                'content': SYSTEM_PROMPT,
-            },
-            {
-                'role': 'user',
-                'content': value,
-            },
-        ]
-    return formattedPromptContents
-
-
-def geminiClassify(client, model, value):
-    sleep(4) # Free tier rate limit of 15 per minute
-    formattedPromptContents = createFormattedPromptContents(model, value)
-    max_retries = 3
-    for attempt in range(max_retries):
-        try:
-            response = client.models.generate_content(
-                model='gemini-2.0-flash',
-                contents=formattedPromptContents,
-                config={
-                    'temperature': 0,
-                    'response_mime_type': 'application/json',
-                    'response_schema': AnswersToQuestions,
-                },
-            )
-            json_response = json.loads(response.text)
-            return json_response
-        except google.genai.errors.ServerError as e:
-            print(f"Connection error: {e}")
-            if attempt < max_retries - 1:
-                sleep_duration = (2 ** attempt) * 1
-                print(f"Retrying in {sleep_duration} seconds...")
-                time.sleep(sleep_duration)
-            else:
-                print("Max retries reached.  Returning None.")
-                return None
-        except json.JSONDecodeError as e:
-            print(f"JSON decode error: {e}")
-            print(f"Response text: {response.text}")
-            if attempt < max_retries - 1:
-                sleep_duration = (2 ** attempt) * 1
-                print(f"Retrying in {sleep_duration} seconds...")
-                time.sleep(sleep_duration)
-            else:
-                print("Max retries reached.  Returning None.")
-                return None
-    return None
-
-
-def gptClassify(client, model, value):
-    formattedPromptContents = createFormattedPromptContents(model, value)
-    max_retries = 3
-    for attempt in range(max_retries):
-        try:
-            completion = client.beta.chat.completions.parse(
-                model='gpt-4.1-nano-2025-04-14',
-                messages=formattedPromptContents,
-                temperature=0.0,
-                response_format=AnswersToQuestions
-            )
-            json_response = completion.choices[0].message.parsed
-            return json_response.model_dump()
-        except OpenAIError as e:
-            print(f"Connection error: {e}")
-            if attempt < max_retries - 1:
-                sleep_duration = (2 ** attempt) * 1
-                print(f"Retrying in {sleep_duration} seconds...")
-                time.sleep(sleep_duration)
-            else:
-                print("Max retries reached.  Returning None.")
-                return None
-        except json.JSONDecodeError as e:
-            print(f"JSON decode error: {e}")
-            print(f"Response text: {response.text}")
-            if attempt < max_retries - 1:
-                sleep_duration = (2 ** attempt) * 1
-                print(f"Retrying in {sleep_duration} seconds...")
-                time.sleep(sleep_duration)
-            else:
-                print("Max retries reached.  Returning None.")
-                return None
-    return None
-
-
-def ollamaClassify(client, model, value):
-    formattedPromptContents = createFormattedPromptContents(model, value)
-    response: ChatResponse = client(
-        model=model,
-        format=AnswersToQuestions.model_json_schema(),
-        messages=formattedPromptContents,
-        options={'temperature': 0.2}
-    )
-    parsed_response_content = json.loads(response.message.content)
-    return parsed_response_content
-
-
 def main(args):
-
     load_dotenv()
-    if args.model == 'gemini':
+    model_family = args.model_family.lower()
+    # Set default model names if not provided
+    if args.model is None:
+        if model_family == 'gemini':
+            model_name = 'gemini-2.5-flash'
+        elif model_family == 'gpt':
+            model_name = 'gpt-4.1-nano'
+        else:
+            model_name = 'phi4'
+    else:
+        model_name = args.model
+
+    if model_family == 'gemini':
         GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
         if GEMINI_API_KEY is None:
             print("Please provide a GEMINI_API_KEY in a .env file.")
             return
         client = genai.Client(api_key=GEMINI_API_KEY)
-        classifyFunction = geminiClassify
-    elif args.model == 'gpt':
+    elif model_family == 'gpt':
         OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
         if OPENAI_API_KEY is None:
             print("Please provide an OPENAI_API_KEY in a .env file.")
             return
-        client = OpenAI(api_key = OPENAI_API_KEY)
-        classifyFunction = gptClassify
-    else: # Assume all other models are served via ollama
-        print(f"Pulling model: {args.model}")
-        ollama.pull(args.model)
+        client = OpenAI(api_key=OPENAI_API_KEY)
+    else:  # Assume all other models are served via ollama
+        print(f"Pulling model: {model_name}")
+        ollama.pull(model_name)
         client = chat
-        classifyFunction = ollamaClassify
 
     csv_dir = os.path.abspath(f'data/{args.session_year}rs/csv')
     md_dir = os.path.abspath(f'data/{args.session_year}rs/md')
-
     csv_filepath = os.path.join(csv_dir, "legislation.csv")
-
     data = pd.read_csv(csv_filepath)
     data = data[['YearAndSession', 'BillNumber', 'Title', 'Synopsis']]
     bill_numbers = data['BillNumber'].values.tolist()
@@ -208,7 +107,15 @@ def main(args):
             bill_filepath = os.path.join(md_dir, f"{bill_number}.md")
         with open(bill_filepath, 'r', encoding='utf-8') as b_f:
             bill_md = b_f.read()
-        model_response = classifyFunction(client, args.model, bill_md)
+        model_response = query_llm_with_retries(
+            client=client,
+            prompt=SYSTEM_PROMPT,
+            value=bill_md,
+            response_format=AnswersToQuestions,
+            model_name=model_name,
+            max_retries=3,
+            model_family=model_family
+        )
         model_responses.append(model_response)
 
     response_df = pd.DataFrame.from_records(model_responses)
@@ -220,9 +127,10 @@ def main(args):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
-                prog='Legislative scan question answerer',
-                description='A program to answer questions about legislation')
-    parser.add_argument('-m', '--model', default='gpt')
+        prog='Legislative scan question answerer',
+        description='A program to answer questions about legislation')
+    parser.add_argument('--model-family', default='gemini', choices=['gpt', 'gemini', 'ollama'], help='The LLM backend family to use')
+    parser.add_argument('--model', default=None, help='The model name to use (e.g., gpt-4.1-nano, gemini-2.5-flash, llama3, etc.)')
     parser.add_argument('session_year', type=int, help='The regular session year')
     args = parser.parse_args()
     main(args)

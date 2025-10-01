@@ -20,7 +20,7 @@ PROMPT_TEMPLATE = (
 
 def gemini_query(client, contents):
     response = client.models.generate_content(
-        model='gemini-2.5-pro-exp-03-25',
+        model='gemini-2.5-pro',
         contents=contents,
     )
     return response.text
@@ -47,7 +47,6 @@ def main(client, session_year):
             amended_bill_md = gemini_query(client, prompt)
             with open(destination_file_path, 'w', encoding='utf-8') as destination_file:
                 destination_file.write(amended_bill_md)
-            time.sleep(60)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Use Gemini 2.5 Pro to apply amendment markdown text.')

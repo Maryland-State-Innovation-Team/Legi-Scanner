@@ -6,7 +6,7 @@ from glob import glob
 from tqdm import tqdm
 
 
-MODEL = "gpt-4o-mini"
+MODEL = "o3"
 
 
 def count_tokens(tokenizer, text):
