@@ -181,3 +181,5 @@ data/**/*.pdf
 
 # Ignore iframe testing
 legi-assist
+
+*.pkl
