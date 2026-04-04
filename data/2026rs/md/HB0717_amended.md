@@ -1,4 +1,5 @@
 <bill>
+<bill>
 START OF PAGE 1
 HOUSE BILL 717
 
@@ -22,7 +23,7 @@ CHAPTER ______
 
 4 FOR the purpose of authorizing certain organizations that are affiliated with a professional
 5 National Football League team that plays its home games in Baltimore City to
-6 conduct certain raffles, subject to certain limitations; ~~repealing~~ <u>extending</u> a certain
+6 conduct certain raffles, subject to certain limitations; ~~repealing~~ extending a certain
 7 termination date of certain provisions of law authorizing certain organizations that
 8 are affiliated with a professional Major League Baseball team that plays its home
 9 games in Baltimore City to conduct certain raffles; and generally relating to raffles
@@ -231,7 +232,7 @@ HOUSE BILL 717 5
 
 18 (2) A permit to hold raffles at multiple professional Major League Baseball
 19 OR PROFESSIONAL NATIONAL FOOTBALL LEAGUE games played in Baltimore City
-20 expires [at the end of the calendar year in] ONE YEAR AFTER THE DATE ON which the
+20 expires [at the end of the calendar year in] 1 YEAR AFTER THE DATE ON which the
 21 permit is issued.
 
 22 (e) An organization conducting a raffle may:
@@ -314,16 +315,16 @@ HOUSE BILL 717 7
 6 Chapter 372 of the Acts of 2025
 
 7 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
-8 1, 2025. It shall remain effective for a period of ~~1 year~~ <u>4 years</u> and 1 month and, at the end
-9 of June 30, ~~2026~~ <u>2029</u>, this Act, with no further action required by the General Assembly,
+8 1, 2025. It shall remain effective for a period of [1 year] 6 YEARS and, at the end
+9 of [2026] MAY 31, 2031, this Act, with no further action required by the General Assembly,
 10 shall be abrogated and of no further force and effect.
 
 11 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
-12 1, 2026. <u>It shall remain effective until the taking effect of the termination provision
+12 1, 2026. It shall remain effective until the taking effect of the termination provision
 13 specified in Section 2 of Chapter 372 of the Acts of the General Assembly of 2025. If that
 14 termination provision takes effect, this Act, with no further action required by the General
 15 Assembly, shall be abrogated and of no further force and effect. This Act may not be
-16 interpreted to have any effect on that termination provision.</u>
+16 interpreted to have any effect on that termination provision.
 
 Approved:
 
@@ -336,4 +337,5 @@ Speaker of the House of Delegates.
 ________________________________________________________________________________
 President of the Senate.
 END OF PAGE 7
+</bill>
 </bill>
