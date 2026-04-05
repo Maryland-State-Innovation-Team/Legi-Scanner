@@ -154752,5 +154752,70 @@
     "qa_input_hash": "6c1235d8d6af98146744fbf2f3d7ce573a88da792612c0077acb9122ee75f878",
     "last_updated_local": "2026-04-04T06:39:51.953476",
     "bill_hash": "c2838668ef47d2a074048e5612ba4cf0"
+  },
+  "HS0002": {
+    "first_seen": "2026-04-05T06:12:18.476494",
+    "last_updated": "2026-04-05T06:12:19.365321",
+    "last_seen": "2026-04-05T06:12:19.365321",
+    "needs_download": false,
+    "needs_convert": false,
+    "needs_amend": false,
+    "needs_qa": false,
+    "files": {
+      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HS0002.pdf",
+      "amendments": []
+    },
+    "qa_results": {
+      "bill_summary": "This House Simple Resolution orders the expulsion of Delegate Christopher Eric Bouchat from the Maryland House of Delegates for willful and wanton absence from his legislative duties, including failure to attend committee meetings or vote on legislation since February 24, 2026.",
+      "start_year": 2026,
+      "end_year": null,
+      "funding": null,
+      "responsible_party": "Maryland House of Delegates",
+      "stakeholders": "Delegate Christopher Eric Bouchat and the residents of District 5 in Carroll and Frederick counties.",
+      "fiscal_impact_summary": "A formal Fiscal Note was not provided with the text. The resolution states that the delegate is currently receiving a State-paid salary while failing to participate in the legislative process. While expulsion would terminate his specific salary payments, the impact is likely neutral overall as a replacement would be appointed. Specific dollar estimates are unavailable.",
+      "agency_relevance": [
+        {
+          "agency_name": "Governor's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The resolution states that a copy should be forwarded to the Governor and highlights that the Governor is responsible for appointing a qualified replacement to fill the vacancy created by the delegate's expulsion.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Office of the Attorney General",
+          "is_relevant": true,
+          "relevance_explanation": "As the chief legal officer for the State and the primary legal representative for the General Assembly, the OAG would be involved in providing counsel regarding the constitutional process and legal requirements for expelling a member under Article III, \u00a7 19.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Office of Appointments",
+          "is_relevant": true,
+          "relevance_explanation": "This office assists the Governor in the recruitment and vetting of candidates for state government positions, which would include managing the administrative process of filling a legislative vacancy following an expulsion.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Comptroller of Maryland",
+          "is_relevant": true,
+          "relevance_explanation": "The resolution specifically mentions that the delegate is financially benefiting from his absence at taxpayer expense. The Comptroller, as the official responsible for paying state employees and managing payroll, would be responsible for stopping salary payments upon expulsion.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Secretary of State",
+          "is_relevant": true,
+          "relevance_explanation": "The Secretary of State is the custodian of the state's official records and commissions. They would be responsible for documenting the vacancy and processing the commission for the successor appointed by the Governor.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Budget and Management",
+          "is_relevant": true,
+          "relevance_explanation": "As the central personnel and fiscal agency, DBM oversees state employee resources and the budget for state officials. It would be involved in the administrative and budgetary adjustments following the removal of a legislator.",
+          "relevance_rating": 2
+        }
+      ]
+    },
+    "amended_status": "original",
+    "amend_input_hash": null,
+    "qa_input_hash": "ded1027b63c5f36cbbe37889609c5a6222ef194faffb09e57949e11f4cda6f5d",
+    "last_updated_local": "2026-04-05T06:12:48.152473",
+    "bill_hash": "9fe769284772b3b37e2a058695040e19"
   }
 }
