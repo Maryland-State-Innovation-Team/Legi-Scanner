@@ -78,7 +78,7 @@ def apply_amendments(session_year: int, bill_number: str, state_manager, client,
         if response_text:
             current_bill_md = response_text
         else:
-            print(f"Error applying amendment {amd_file}: {e}")
+            print(f"Error applying amendment {amd_file}: LLM returned no response")
             state_manager.update_bill(bill_number, {"amended_status": "failed"})
             return
 
