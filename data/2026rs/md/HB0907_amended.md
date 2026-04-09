@@ -1,12 +1,12 @@
 <bill>
+<bill>
 START OF PAGE 1
 HOUSE BILL 907
 
 E1 6lr2453
 CF SB 514
 
-By: Delegates Moon ~~and~~ ~~Cardin,~~ Cardin, Moreno, Conaway, Woods, Williams, and
-Phillips
+By: Delegates Moon, Cardin, Moreno, Conaway, Woods, Williams, and Phillips
 Introduced and read first time: February 5, 2026
 Assigned to: Judiciary
 
@@ -20,28 +20,29 @@ CHAPTER ______
 
 2 Criminal Law – Third–Degree Assault
 
-3 FOR the purpose of establishing that it is a misdemeanor to intentionally cause offensive
-4 contact, engage in conduct tending to put another in fear of offensive contact, or
-5 attempt to cause offensive contact; altering a certain list of convictions that are
-6 eligible for expungement under certain circumstances; and generally relating to
-7 assault.
+3 FOR the purpose of PROVIDING THAT A DISTRICT COURT COMMISSIONER MAY NOT
+4 ISSUE AN ARREST WARRANT UNDER CERTAIN CIRCUMSTANCES; establishing that it
+5 is a misdemeanor to intentionally cause offensive contact, engage in conduct tending to put
+6 another in fear of offensive contact, or attempt to cause offensive contact; altering a certain
+7 list of convictions that are eligible for expungement under certain circumstances; and
+8 generally relating to assault.
 
-8 BY adding to
-9 Article – Criminal Law
-10 Section 3–203.1
-11 Annotated Code of Maryland
-12 (2021 Replacement Volume and 2025 Supplement)
+9 BY adding to
+10 Article – Criminal Law
+11 Section 3–203.1
+12 Annotated Code of Maryland
+13 (2021 Replacement Volume and 2025 Supplement)
 
-13 BY repealing and reenacting, with amendments,
-14 Article – Criminal Law
-15 Section 3–206 and 3–209
-16 Annotated Code of Maryland
-17 (2021 Replacement Volume and 2025 Supplement)
+14 BY repealing and reenacting, with amendments,
+15 Article – Criminal Law
+16 Section 3–206 and 3–209
+17 Annotated Code of Maryland
+18 (2021 Replacement Volume and 2025 Supplement)
 
-18 BY repealing and reenacting, with amendments,
-19 Article – Courts and Judicial Proceedings
-20 Section 4–301(b) and 4–302(d)
-21 Annotated Code of Maryland
+19 BY repealing and reenacting, with amendments,
+20 Article – Courts and Judicial Proceedings
+21 Section 2–607(c), 4–301(b), and 4–302(d)
+22 Annotated Code of Maryland
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
 [Brackets] indicate matter deleted from existing law.
@@ -79,22 +80,21 @@ START OF PAGE 2
 16 (II) CONTACT THAT CAUSES A RISK OF SERIOUS PHYSICAL
 17 INJURY;
 
-18 (III) ~~A DOMESTICALLY RELATED CRIME, AS DEFINED IN § 6–233~~
-19 ~~OF THE CRIMINAL PROCEDURE ARTICLE~~ AN ACT AGAINST A PERSON WHO WOULD
-20 BE ELIGIBLE TO FILE A PETITION FOR RELIEF FROM ABUSE AGAINST THE
-21 DEFENDANT UNDER TITLE 4, SUBTITLE 5 OF THE FAMILY LAW ARTICLE BASED ON
-22 THE FACTS ALLEGED IN THE APPLICATION FOR A STATEMENT OF CHARGES; OR
+18 (III) AN ACT AGAINST A PERSON WHO WOULD BE ELIGIBLE TO
+19 FILE A PETITION FOR RELIEF FROM ABUSE AGAINST THE DEFENDANT UNDER
+20 TITLE 4, SUBTITLE 5 OF THE FAMILY LAW ARTICLE BASED ON THE FACTS
+21 ALLEGED IN THE APPLICATION FOR A STATEMENT OF CHARGES; OR
 
-23 (IV) A SEXUAL CRIME UNDER SUBTITLE 3 OF THIS TITLE.
+22 (IV) A SEXUAL CRIME UNDER SUBTITLE 3 OF THIS TITLE.
 
-24 (B) A PERSON MAY NOT:
+23 (B) A PERSON MAY NOT:
 
-25 (1) INTENTIONALLY CAUSE OFFENSIVE CONTACT;
+24 (1) INTENTIONALLY CAUSE OFFENSIVE CONTACT;
 
-26 (2) ENGAGE IN CONDUCT INTENDING TO PUT ANOTHER IN FEAR OF
-27 OFFENSIVE CONTACT; OR
+25 (2) ENGAGE IN CONDUCT INTENDING TO PUT ANOTHER IN FEAR OF
+26 OFFENSIVE CONTACT; OR
 
-28 (3) ATTEMPT TO CAUSE OFFENSIVE CONTACT.
+27 (3) ATTEMPT TO CAUSE OFFENSIVE CONTACT.
 END OF PAGE 2
 
 START OF PAGE 3
@@ -131,19 +131,20 @@ HOUSE BILL 907 3
 22 SUBTITLE IS A LESSER INCLUDED CRIME OF SECOND–DEGREE ASSAULT IF
 23 SPECIFICALLY CHARGED BY THE STATE.
 
-24 (2) A CHARGING DOCUMENT ~~OR WARRANT~~ FOR A CRIME DESCRIBED
-25 IN § 3–203.1 OF THIS SUBTITLE IS SUFFICIENT IF IT SUBSTANTIALLY STATES:
+24 (2) A CHARGING DOCUMENT OR WARRANT FOR A CRIME
+25 DESCRIBED IN § 3–203.1 OF THIS SUBTITLE IS SUFFICIENT IF IT SUBSTANTIALLY
+26 STATES:
 
-26 “(NAME OF DEFENDANT) ON (DATE) IN (COUNTY) COMMITTED ASSAULT IN THE
-27 THIRD DEGREE AGAINST (NAME OF VICTIM) IN VIOLATION OF § 3–203.1 OF THE
-28 CRIMINAL LAW ARTICLE AGAINST THE PEACE, GOVERNMENT, AND DIGNITY OF THE
-29 STATE.”.
+27 “(NAME OF DEFENDANT) ON (DATE) IN (COUNTY) COMMITTED ASSAULT IN THE
+28 THIRD DEGREE AGAINST (NAME OF VICTIM) IN VIOLATION OF § 3–203.1 OF THE
+29 CRIMINAL LAW ARTICLE AGAINST THE PEACE, GOVERNMENT, AND DIGNITY OF THE
+30 STATE.”.
 
-30 [(d)] (E) (1) To be found guilty of reckless endangerment under § 3–204 of
-31 this subtitle, a defendant must be charged specifically with reckless endangerment.
+31 [(d)] (E) (1) To be found guilty of reckless endangerment under § 3–204 of
+32 this subtitle, a defendant must be charged specifically with reckless endangerment.
 
-32 (2) A charging document for reckless endangerment under § 3–204 of this
-33 subtitle is sufficient if it substantially states:
+33 (2) A charging document for reckless endangerment under § 3–204 of this
+34 subtitle is sufficient if it substantially states:
 END OF PAGE 3
 
 START OF PAGE 4
@@ -185,17 +186,87 @@ START OF PAGE 4
 
 25 Article – Courts and Judicial Proceedings
 
-26 4–301.
+26 2–607.
 
-27 (b) Except as provided in § 4–302 of this subtitle, the District Court also has
-28 exclusive original jurisdiction in a criminal case in which a person at least 18 years old or
-29 a corporation is charged with:
+27 (C) (1) A COMMISSIONER SHALL RECEIVE APPLICATIONS AND DETERMINE
+28 PROBABLE CAUSE FOR THE ISSUANCE OF CHARGING DOCUMENTS.
 
-30 (1) Commission of a common–law or statutory misdemeanor regardless of
-31 the amount of money or value of the property involved;
+29 (2) A COMMISSIONER SHALL ADVISE ARRESTED PERSONS OF THEIR
+30 CONSTITUTIONAL RIGHTS, SET BOND OR COMMIT PERSONS TO JAIL IN DEFAULT OF
+31 BOND OR RELEASE THEM ON PERSONAL RECOGNIZANCE IF CIRCUMSTANCES
+32 WARRANT, AND CONDUCT INVESTIGATIONS AND INQUIRIES INTO THE
+33 CIRCUMSTANCES OF ANY MATTER PRESENTED TO THE COMMISSIONER IN ORDER
+34 TO DETERMINE IF PROBABLE CAUSE EXISTS FOR THE ISSUANCE OF A CHARGING
+35 DOCUMENT, WARRANT, OR CRIMINAL SUMMONS AND, IN GENERAL, PERFORM ALL
+36 THE FUNCTIONS OF COMMITTING MAGISTRATES AS EXERERCISED BY THE JUSTICES
+37 OF THE PEACE PRIOR TO JULY 5, 1971.
 
-32 (2) Violation of § 7–104, § 7–105, § 7–107, or § 7–108 of the Criminal Law
-33 Article, whether a felony or a misdemeanor;
+38 (3) THERE SHALL BE IN EACH COUNTY, AT ALL TIMES, ONE OR MORE
+39 COMMISSIONERS AVAILABLE FOR THE CONVENIENCE OF THE PUBLIC AND POLICE
+40 IN OBTAINING CHARGING DOCUMENTS, WARRANTS, OR CRIMINAL SUMMONSES
+41 AND TO ADVISE ARRESTED PERSONS OF THEIR RIGHTS AS REQUIRED BY LAW.
+
+42 (4) A COMMISSIONER MAY EXERCISE THE POWERS OF OFFICE IN ANY
+43 COUNTY TO WHICH THE COMMISSIONER IS ASSIGNED BY THE CHIEF JUDGE OF THE
+44 DISTRICT COURT OR A DESIGNEE OF THE CHIEF JUDGE OF THE DISTRICT COURT.
+
+45 (5) THE CHIEF JUDGE OF THE DISTRICT COURT MAY AUTHORIZE ONE OR
+46 MORE COMMISSIONERS TO PERFORM THE DUTIES OF A COMMISSIONER
+47 REGARDING PERSONS ARRESTED IN A COUNTY OTHER THAN THE COUNTY IN
+48 WHICH THE COMMISSIONER RESIDES AND FOR WHICH THE COMMISSIONER WAS
+49 APPOINTED WHEN THE ARRESTED PERSONS ARE BROUGHT BEFORE THE
+50 COMMISSIONER BY A PEACE OFFICER OF THE JURISDICTION IN WHICH THAT
+51 ARREST WAS MADE.
+
+52 (6) (I) AN INDIVIDUAL MAY FILE AN APPLICATION FOR A STATEMENT
+53 OF CHARGES WITH A DISTRICT COURT COMMISSIONER.
+
+54 (II) ON REVIEW OF AN APPLICATION FOR A STATEMENT OF
+55 CHARGES, A DISTRICT COURT COMMISSIONER MAY ISSUE A SUMMONS OR AN
+56 ARREST WARRANT.
+
+57 (III) [A] EXCEPT AS PROVIDED IN PARAGRAPH (7) OF THIS
+58 SUBSECTION, A DISTRICT COURT COMMISSIONER MAY ISSUE AN ARREST WARRANT
+59 ONLY ON A FINDING THAT:
+
+60 1. THERE IS PROBABLE CAUSE TO BELIEVE THAT THE
+61 DEFENDANT COMMITTED THE OFFENSE CHARGED IN THE CHARGING DOCUMENT;
+62 AND
+
+63 2. A. THE DEFENDANT PREVIOUSLY HAS FAILED TO
+64 RESPOND TO A SUMMONS THAT HAS BEEN PERSONALLY SERVED OR A CITATION;
+
+65 B. THE WHEREABOUTS OF THE DEFENDANT ARE
+66 UNKNOWN AND THE ISSUANCE OF A WARRANT IS NECESSARY TO SUBJECT THE
+67 DEFENDANT TO THE JURISDICTION OF THE COURT;
+
+68 C. THE DEFENDANT IS IN CUSTORY FOR ANOTHER
+69 OFFENSE; OR
+
+70 D. THERE IS PROBABLE CAUSE TO BELIEVE THAT THE
+71 DEFENDANT POSES A DANGER TO ANOTHER PERSON OR TO THE COMMUNITY.
+
+72 (IV) ON A FINDING OF GOOD CAUSE, A JUDGE OF THE DISTRICT
+73 COURT OR A JUDGE OF A CIRCUIT COURT MAY RECALL AN ARREST WARRANT
+74 ISSUED BY A DISTRICT COURT COMMISSIONER UNDER THIS PARAGRAPH AND ISSUE
+75 A SUMMONS IN ITS PLACE.
+
+76 (7) A DISTRICT COURT COMMISSIONER MAY NOT ISSUE AN ARREST
+77 WARRANT IF THE APPLICATION FOR A STATEMENT OF CHARGES ALLEGES THE
+78 COMMISSION OF ONLY ASSAULT IN THE THIRD DEGREE UNDER § 3–203.1 OF THE
+79 CRIMINAL LAW ARTICLE.
+
+80 4–301.
+
+81 (b) Except as provided in § 4–302 of this subtitle, the District Court also has
+82 exclusive original jurisdiction in a criminal case in which a person at least 18 years old or
+83 a corporation is charged with:
+
+84 (1) Commission of a common–law or statutory misdemeanor regardless of
+85 the amount of money or value of the property involved;
+
+86 (2) Violation of § 7–104, § 7–105, § 7–107, or § 7–108 of the Criminal Law
+87 Article, whether a felony or a misdemeanor;
 END OF PAGE 4
 
 START OF PAGE 5
@@ -325,4 +396,5 @@ Speaker of the House of Delegates.
 ________________________________________________________________________________
 President of the Senate.
 END OF PAGE 7
+</bill>
 </bill>

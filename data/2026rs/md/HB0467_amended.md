@@ -1,4 +1,5 @@
 <bill>
+<bill>
 START OF PAGE 1
 HOUSE BILL 467
 
@@ -18,29 +19,31 @@ CHAPTER ______
 
 1 AN ACT concerning
 
-2 Correctional Services – Maryland Parole Commission – Improvements in
-3 Transparency and Equity
+2 Correctional Services – Maryland Parole Commission and Erroneously Convicted
+3 Individuals – Improvements in Transparency and Equity
 
 4 FOR the purpose of requiring the annual report of the Maryland Parole Commission to
 5 include certain information; altering a certain provision of law to require the
-6 Commission to provide certain documents to a certain incarcerated individual and the incarcerated individual’s representative at a certain time, rather than allow the
-7 incarcerated individual to examine the documents on request; requiring the
-8 Commission to document, state on the record, provide to an incarcerated individual,
-9 and make available to the public certain information; altering the time periods
-10 within which the Commission is required to issue certain reports; providing that the
-11 Commission does not have the authority to permanently deny parole; providing that
-12 a certain incarcerated individual is entitled to a subsequent parole hearing at a
-13 certain time; requiring the Commission to record each hearing at a certain time;
-14 requiring each hearing recording to be made available to the public subject to certain
-15 disclosure requirements, to be redacted in a certain manner, to be retained for a
-16 certain amount of time, and to contain certain materials; and generally relating to
-17 the Maryland Parole Commission.
+6 Commission to provide certain documents to a certain incarcerated individual and
+7 the incarcerated individual’s representative at a certain time, rather than allow the
+8 incarcerated individual to examine the documents on request; requiring the
+9 Commission to document, state on the record, provide to an incarcerated individual,
+10 and make available to the public certain information; altering the time periods
+11 within which the Commission is required to issue certain reports; providing that the
+12 Commission does not have the authority to permanently deny parole; providing that
+13 a certain incarcerated individual is entitled to a subsequent parole hearing at a
+14 certain time; requiring the Commission to record each hearing at a certain time;
+15 requiring each hearing recording to be made available to the public subject to certain
+16 disclosure requirements, to be redacted in a certain manner, to be retained for a
+17 certain amount of time, and to contain certain materials; prohibiting a county from being
+18 a party to a certain proceeding involving an erroneously convicted individual; and
+19 generally relating to the Maryland Parole Commission and erroneously convicted individuals.
 
-18 BY repealing and reenacting, with amendments,
-19 Article – Correctional Services
-20 Section 7–208, 7–303, 7–304(b), 7–305(7), 7–306, and 7–307
-21 Annotated Code of Maryland
-22 (2025 Replacement Volume)
+20 BY repealing and reenacting, with amendments,
+21 Article – Correctional Services
+22 Section 7–208, 7–303, 7–304(b), 7–305(7), 7–306, and 7–307
+23 Annotated Code of Maryland
+24 (2025 Replacement Volume)
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
 [Brackets] indicate matter deleted from existing law.
@@ -58,43 +61,49 @@ START OF PAGE 2
 4 Annotated Code of Maryland
 5 (2025 Replacement Volume)
 
-6 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-7 That the Laws of Maryland read as follows:
+6 BY repealing and reenacting, with amendments,
+7 Article – State Finance and Procurement
+8 Section 10–501(b)
+9 Annotated Code of Maryland
+10 (2021 Replacement Volume and 2025 Supplement)
 
-8 Article – Correctional Services
+11 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+12 That the Laws of Maryland read as follows:
 
-9 7–208.
+13 Article – Correctional Services
 
-10 (A) The Commission shall:
+14 7–208.
 
-11 (1) maintain a record of its actions;
+15 (A) The Commission shall:
 
-12 (2) make an annual report to the Governor of its work; and
+16 (1) maintain a record of its actions;
 
-13 (3) make appropriate recommendations for the improvement of its
-14 functions.
+17 (2) make an annual report to the Governor of its work; and
 
-15 (B) THE ANNUAL REPORT REQUIRED UNDER SUBSECTION (A)(2) OF THIS
-16 SECTION SHALL INCLUDE THE FOLLOWING INFORMATION, DISAGGREGATED BY
-17 RACE OF THE RELEVANT INCARCERATED INDIVIDUALS:
+18 (3) make appropriate recommendations for the improvement of its
+19 functions.
 
-18 (1) THE NUMBER OF CASES IN WHICH THE COMMISSION GRANTED
-19 PAROLE;
+20 (B) THE ANNUAL REPORT REQUIRED UNDER SUBSECTION (A)(2) OF THIS
+21 SECTION SHALL INCLUDE THE FOLLOWING INFORMATION, DISAGGREGATED BY
+22 RACE OF THE RELEVANT INCARCERATED INDIVIDUALS:
 
-20 (2) THE NUMBER OF CASES IN WHICH THE COMMISSION DENIED
-21 PAROLE AND THE REASON FOR EACH DENIAL;
+23 (1) THE NUMBER OF CASES IN WHICH THE COMMISSION GRANTED
+24 PAROLE;
 
-22 (3) THE NUMBER OF INCARCERATED INDIVIDUALS WHO WERE
-23 GRANTED ADMINISTRATIVE RELEASE;
+25 (2) THE NUMBER OF CASES IN WHICH THE COMMISSION DENIED
+26 PAROLE AND THE REASON FOR EACH DENIAL;
 
-24 (4) THE NUMBER OF HEARINGS HELD AND THE PURPOSE OF EACH
-25 HEARING;
+27 (3) THE NUMBER OF INCARCERATED INDIVIDUALS WHO WERE
+28 GRANTED ADMINISTRATIVE RELEASE;
 
-26 (5) THE NUMBER OF INCARCERATED INDIVIDUALS WHO ARE
-27 PAROLE–ELIGIBLE BUT HAVE NOT BEEN GRANTED PAROLE;
+29 (4) THE NUMBER OF HEARINGS HELD AND THE PURPOSE OF EACH
+30 HEARING;
 
-28 (6) THE NUMBER OF ADMINISTRATIVE REVIEWS COMPLETED BY THE
-29 COMMISSION; AND
+31 (5) THE NUMBER OF INCARCERATED INDIVIDUALS WHO ARE
+32 PAROLE–ELIGIBLE BUT HAVE NOT BEEN GRANTED PAROLE;
+
+33 (6) THE NUMBER OF ADMINISTRATIVE REVIEWS COMPLETED BY THE
+34 COMMISSION; AND
 END OF PAGE 2
 
 START OF PAGE 3
@@ -170,8 +179,8 @@ START OF PAGE 4
 14 7–304.
 
 15 (b) The vote of each commissioner when acting collectively or in a panel, to
-16 approve or deny parole, ~~EACH COMMISSIONER’S~~ THE PANEL’S REASONING AND
-17 JUSTIFICATIONS FOR THE ~~COMMISSIONER’S VOTE~~ PANEL’S DECISION, and a vote to
+16 approve or deny parole, EACH COMMISSIONER’S THE PANEL’S REASONING AND
+17 JUSTIFICATIONS FOR THE COMMISSIONER’S VOTE PANEL’S DECISION, and a vote to
 18 close or restrict access to a parole hearing under subsection (d) of this section, shall be made
 19 available to the public.
 
@@ -216,7 +225,7 @@ HOUSE BILL 467 5
 
 12 (3) The Commissioner of Correction or the incarcerated individual may file
 13 with the Commission written exceptions to the report of a hearing examiner no later than
-14 ~~5~~ 30 days after the report is received.
+14 5 30 days after the report is received.
 
 15 (e) (1) Subject to paragraph (2) of this subsection, one commissioner assigned
 16 by the chairperson of the Commission shall review summarily the recommendation of the
@@ -232,7 +241,7 @@ HOUSE BILL 467 5
 23 (iii) The decision of the Commission or panel is final.
 
 24 (3) If an exception is not filed and the Commission does not act on its own
-25 initiative within the ~~5–day~~ 30–DAY appeal period established under subsection (d)(3) of
+25 initiative within the 5–day 30–DAY appeal period established under subsection (d)(3) of
 26 this section, the recommendation of the hearing examiner is approved.
 
 27 (4) (I) THE COMMISSION SHALL PROMPTLY GIVE THE
@@ -350,8 +359,86 @@ START OF PAGE 8
 2 INSTITUTIONAL SECURITY OR THE SECURITY OF PERSONS WHO MIGHT BE
 3 ENDANGERED BY DISCLOSURE.
 
-4 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
-5 October 1, 2026.
+4 Article – State Finance and Procurement
+
+5 10–501.
+
+6 (b) (1) An administrative law judge shall issue an order that an individual
+7 is eligible for compensation and benefits from the State under subsection (a) of this
+8 section if:
+
+9 (i) the individual has received from the Governor a full pardon
+10 stating that the individual’s conviction has been shown conclusively to be in error; or
+
+11 (ii) subject to paragraph (2) of this subsection, the administrative
+12 law judge finds that the individual has proven by clear and convincing evidence that:
+
+13 1. the individual was convicted, sentenced, and
+14 subsequently confined for a felony or conspiracy to commit a felony;
+
+15 2. the judgment of conviction for the felony or conspiracy
+16 to commit a felony was reversed or vacated and:
+
+17 A. the order reversing or vacating the judgment of
+18 conviction did not allow for retrial;
+
+19 B. the charges against the individual were dismissed; or
+
+20 C. on retrial, the individual was found not guilty;
+
+21 3. the individual did not commit the felony or conspiracy
+22 to commit a felony for which they were convicted, sentenced, and subsequently confined
+23 and was not an accessory or accomplice to the felony or conspiracy to commit a felony;
+24 and
+
+25 4. subject to paragraph (2)(ii) of this subsection, the
+26 individual did not commit or suborn perjury, fabricate evidence, or by the individual’s
+27 own conduct cause or bring about the conviction.
+
+28 (2) (i) In determining the weight and admissibility of evidence
+29 presented by the parties, the administrative law judge may, in the interest of justice,
+30 give due consideration to the passage of time, death or unavailability of witnesses, the
+31 destruction of evidence, or any other factor.
+
+32 (ii) For the purposes of paragraph (1)(ii)4 of this subsection,
+33 suborning perjury, fabricating evidence, or causing or bringing about a conviction does
+34 not include:
+
+35 1. a confession or admission later determined to be false;
+36 or
+
+37 2. a guilty plea.
+
+38 (3) A request for an order of eligibility under this section shall be:
+
+39 (i) filed with the Office of Administrative Hearings; and
+
+40 (ii) captioned “In the Matter of the Wrongful Conviction of
+41 (Claimant)” or “(Claimant) v. Board of Public Works”.
+
+42 (4) (I) [The] EXCEPT AS PROVIDED IN SUBPARAGRAPH (II) OF
+43 THIS PARAGRAPH, THE following shall be parties to a proceeding under this
+44 subsection:
+
+45 [(i)] 1. the State’s Attorney of the county where the crime was
+46 committed, or the State’s Attorney’s designee; and
+
+47 [(ii)] 2. the State, represented by the Attorney General, or the
+48 Attorney General’s designee.
+
+49 (II) 1. A COUNTY MAY NOT BE A PARTY TO A PROCEEDING
+50 UNDER THIS SUBSECTION.
+
+51 2. A STATE’S ATTORNEY MAY NOT DESIGNATE A
+52 COUNTY AS A PARTY TO A PROCEEDING UNDER THIS SUBSECTION.
+
+53 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed
+54 to apply retroactively and shall be applied to and interpreted to affect any proceeding
+55 before an administrative law judge brought under § 10–501 of the State Finance and
+56 Procurement Article before the effective date of this Act.
+
+57 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+58 October 1, 2026.
 
 Approved:
 
@@ -364,4 +451,5 @@ Speaker of the House of Delegates.
 ________________________________________________________________________________
 President of the Senate.
 END OF PAGE 8
+</bill>
 </bill>

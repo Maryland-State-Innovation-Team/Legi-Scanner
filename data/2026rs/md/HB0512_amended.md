@@ -1,4 +1,5 @@
 <bill>
+<bill>
 START OF PAGE 1
 HOUSE BILL 512
 
@@ -20,7 +21,7 @@ CHAPTER ______
 2 Anne Arundel County – Board of License Commissioners and Part–Time
 3 Inspectors – Compensation
 
-4 FOR the house increasing the annual salaries and providing for cost–of–living salary
+4 THE PROPOSE OF increasing the annual salaries and providing for cost–of–living salary
 5 increases for the chair, certain part–time inspectors, and other members of the Board
 6 of License Commissioners for Anne Arundel County; and generally relating to
 7 alcoholic beverages and the Board of License Commissioners for Anne Arundel
@@ -77,7 +78,7 @@ START OF PAGE 2
 12 1. IS not [more] LESS than [$18,000] $21,240; and
 
 13 2. INCLUDES ANY COST–OF–LIVING INCREASE
-14 AVAILABLE TO ANNE ARUNDEL COUNTY <u>NONREPRESENTED</u> EMPLOYEES; AND
+14 AVAILABLE TO NONREPRESENTED ANNE ARUNDEL COUNTY NONREPRESENTED EMPLOYEES; AND
 
 15 (II) reimbursement for expenses reasonably incurred.
 
@@ -88,7 +89,7 @@ START OF PAGE 2
 18 1. IS not [more] LESS than [$15,000] $17,700; and
 
 19 2. INCLUDES ANY COST–OF–LIVING INCREASE
-20 AVAILABLE TO ANNE ARUNDEL COUNTY <u>NONREPRESENTED</u> EMPLOYEES; AND
+20 AVAILABLE TO NONREPRESENTED ANNE ARUNDEL COUNTY NONREPRESENTED EMPLOYEES; AND
 
 21 (II) reimbursement for expenses reasonably incurred.
 
@@ -106,14 +107,14 @@ HOUSE BILL 512 3
 3 1. IS NOT LESS THAN $18,000; and
 
 4 2. INCLUDES ANY COST–OF–LIVING INCREASE
-5 AVAILABLE TO ANNE ARUNDEL COUNTY <u>NONREPRESENTED</u> EMPLOYEES; AND
+5 AVAILABLE TO NONREPRESENTED ANNE ARUNDEL COUNTY NONREPRESENTED EMPLOYEES; AND
 
 6 (ii) 18 part–time inspectors at an annual salary [of $7,000] THAT:
 
 7 1. IS NOT LESS THAN $8,260 each; AND
 
 8 2. INCLUDES ANY COST–OF–LIVING INCREASE
-9 AVAILABLE TO ANNE ARUNDEL COUNTY <u>NONREPRESENTED</u> EMPLOYEES.
+9 AVAILABLE TO NONREPRESENTED ANNE ARUNDEL COUNTY NONREPRESENTED EMPLOYEES.
 
 10 (2) Each inspector shall receive a monthly expense allowance of $300,
 11 subject to the approval of the Executive Director.
@@ -132,4 +133,5 @@ Speaker of the House of Delegates.
 ________________________________________________________________________________
 President of the Senate.
 END OF PAGE 3
+</bill>
 </bill>

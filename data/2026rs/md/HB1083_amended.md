@@ -1,4 +1,5 @@
 <bill>
+<bill>
 START OF PAGE 1
 HOUSE BILL 1083
 
@@ -181,13 +182,16 @@ START OF PAGE 4
 19 not fewer than [three] FOUR duly confirmed regular members of the local board, at least
 20 one of whom shall be a member of the principal minority party, to appoint an election
 21 director.
-
 26 ~~SECTION~~ ~~2.~~ ~~AND~~ ~~BE~~ ~~IT~~ ~~FURTHER~~ ~~ENACTED,~~ ~~That~~ ~~each~~ ~~substitute~~ ~~member~~ ~~of~~
 27 ~~the~~ ~~Montgomery~~ ~~County~~ ~~Board~~ ~~of~~ ~~Elections~~ ~~in~~ ~~office~~ ~~on~~ ~~the~~ ~~effective~~ ~~date~~ ~~of~~ ~~this~~ ~~Act~~ ~~shall~~
 28 ~~become~~ ~~a~~ ~~regular~~ ~~member~~ ~~on~~ ~~the~~ ~~effective~~ ~~date~~ ~~of~~ ~~this~~ ~~Act~~ ~~for~~ ~~the~~ ~~remainder~~ ~~of~~ ~~the~~ ~~member’s~~
 29 ~~term~~ ~~and~~ ~~until~~ ~~a~~ ~~successor~~ ~~is~~ ~~appointed~~ ~~and~~ ~~qualifies.~~
-
-30 SECTION ~~3.~~ 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
-31 June ~~1,~~ ~~2026~~ 7, 2027.
+30 SECTION 2. AND BE IT FURTHER ENACTED, That each substitute member
+31 of the Montgomery County Board of Elections in office on the effective date of this Act
+32 shall become a regular member on the effective date of this Act for the remainder of the
+33 member’s term and until a successor is appointed and qualifies.
+34 SECTION ~~3.~~ ~~2.~~ ~~3.~~ 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+35 June ~~1,~~ ~~2026~~ 7, 2027.
 END OF PAGE 4
+</bill>
 </bill>

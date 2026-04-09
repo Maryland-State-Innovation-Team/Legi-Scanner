@@ -1,3 +1,5 @@
+<bill>
+START OF PAGE 1
 HOUSE BILL 1422
 
 P4, P1 6lr2544
@@ -20,222 +22,256 @@ CHAPTER ______
 4 FOR the purpose of requiring units of State government to provide certain documentation
 5 to the Board of Public Works and the Joint Audit and Evaluation Committee if the
 6 unit decides not to pursue certain liquidated damages; authorizing the Secretary of
-7 Budget and Management to set the pay scale for certain chief financial officer
-8 positions in order to assist with recruitment and retention; requiring the Secretary to
-9 establish certain minimum qualifications for chief financial officers that consider
-10 certain qualifications; requiring the Department of Budget and Management to adopt
-11 certain regulations on or before a certain date; requiring certain chief financial
-12 officers to provide to the Office of the Comptroller certain financial information at
-13 the close of the fiscal year for a certain report; requiring certain chief financial
-14 officers to provide the General Accounting Division of the Office of the Comptroller
-15 with certain information and a certain letter; requiring certain units of State
-16 government to liquidated damages documentation requirements and take certain
-17 actions if the unit does not intend to pursue certain damages; and generally relating
-18 to the chief financial officers of units in the Executive Branch of State government.
+7 Budget and Management to ~~grant~~ ~~a~~ ~~certain~~ ~~exemption~~ ~~to~~ ~~the~~ ~~State~~ ~~pay~~ ~~plan~~ ~~under~~
+8 ~~certain~~ ~~circumstances~~ set the pay scale for certain chief financial officer positions in
+9 order to assist with recruitment and retention; requiring ~~certain~~ ~~appointing~~
+10 ~~authorities~~ ~~to~~ ~~select~~ the Secretary to establish certain minimum qualifications for
+11 chief financial officers that ~~meet~~ consider certain ~~requirements;~~ qualifications;
+12 requiring the Department of Budget and Management to adopt certain regulations
+13 on or before a certain date; requiring certain chief financial officers to provide to the
+14 Office of the Comptroller certain financial information at the close of the fiscal year
+15 for a certain report; requiring certain chief financial officers to provide the General
+16 Accounting Division of the Office of the Comptroller with certain information and a
+17 certain letter; and generally relating to liquidated damages documentation
+18 requirements and the chief financial officers of units in the Executive Branch
+19 of State government.
+20
+21 BY repealing and reenacting, without amendments,
+22 Article – State Finance and Procurement
+23 Section 11–101(a), (d), and (aa) and 15–113(a) and (d)
+24 Annotated Code of Maryland
+25 (2021 Replacement Volume and 2025 Supplement)
 
-19 BY repealing and reenacting, without amendments,
-20 Article – State Finance and Procurement
-21 Section 11–101(a), (d), and (aa) and 15–113(a) and (d)
-22 Annotated Code of Maryland
-23 (2021 Replacement Volume and 2025 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1422*
+END OF PAGE 1
 
-24 BY repealing and reenacting, with amendments,
-25 Article – State Finance and Procurement
-26 Section 15–113(e)
-27 Annotated Code of Maryland
-28 (2021 Replacement Volume and 2025 Supplement)
+START OF PAGE 2
+HOUSE BILL 1422
 
-29 BY repealing and reenacting, without amendments,
-30 Article – State Personnel and Pensions
-31 Section 1–101(a) and (b)
-32 Annotated Code of Maryland
-33 (2024 Replacement Volume and 2025 Supplement)
+1 BY repealing and reenacting, with amendments,
+2 Article – State Finance and Procurement
+3 Section 15–113(e)
+4 Annotated Code of Maryland
+5 (2021 Replacement Volume and 2025 Supplement)
 
-34 BY adding to
-35 Article – State Personnel and Pensions
-36 Section 2–206 and 2–207
-37 Annotated Code of Maryland
-38 (2024 Replacement Volume and 2025 Supplement)
+6 BY repealing and reenacting, without amendments,
+7 Article – State Personnel and Pensions
+8 Section 1–101(a) and (b)
+9 Annotated Code of Maryland
+10 (2024 Replacement Volume and 2025 Supplement)
 
-39 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-40 That the Laws of Maryland read as follows:
+11 BY adding to
+12 Article – State Personnel and Pensions
+13 Section 2–206 and 2–207
+14 Annotated Code of Maryland
+15 (2024 Replacement Volume and 2025 Supplement)
 
-41 Article – State Finance and Procurement
+16 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+17 That the Laws of Maryland read as follows:
 
-42 11–101.
+18 Article – State Finance and Procurement
 
-43 (a) In this Division II the following words have the meanings indicated unless:
+19 11–101.
 
-44 (1) the context clearly requires a different meaning; or
+20 (a) In this Division II the following words have the meanings indicated unless:
 
-45 (2) a different definition is provided for a particular title or provision.
+21 (1) the context clearly requires a different meaning; or
 
-46 (d) “Board” means the Board of Public Works.
+22 (2) a different definition is provided for a particular title or provision.
 
-47 (aa) (1) “Unit” means an officer or other entity that is in the Executive Branch
-48 of the State government and is authorized by law to enter into a procurement contract.
+23 (d) “Board” means the Board of Public Works.
 
-49 (2) “Unit” does not include:
+24 (aa) (1) “Unit” means an officer or other entity that is in the Executive Branch
+25 of the State government and is authorized by law to enter into a procurement contract.
 
-50 (i) a bistate, multistate, bicounty, or multicounty governmental
-51 agency; or
+26 (2) “Unit” does not include:
 
-52 (ii) a special tax district, sanitary district, drainage district, soil
-53 conservation district, water supply district, or other political subdivision of the State.
+27 (i) a bistate, multistate, bicounty, or multicounty governmental
+28 agency; or
 
-54 15–113.
+29 (ii) a special tax district, sanitary district, drainage district, soil
+30 conservation district, water supply district, or other political subdivision of the State.
 
-55 (a) In this section, “liquidated damages” means damages in an amount
-56 designated by the parties to a contract that the injured party is eligible to collect as
-57 compensation for a specific breach of the contract.
+31 15–113.
+END OF PAGE 2
 
-58 (d) A unit shall obtain the approval of the head of the unit if the unit decides not
-59 to include in a contract a liquidated damages clause specified under § 13–218(a)(4) of this
-60 article.
+START OF PAGE 3
+HOUSE BILL 1422 3
 
-61 (e) [(1) This subsection applies only to procurements valued at $5,000,000 or
-62 more.
+1 (a) In this section, “liquidated damages” means damages in an amount
+2 designated by the parties to a contract that the injured party is eligible to collect as
+3 compensation for a specific breach of the contract.
 
-63 (2)] If a unit decides not to pursue liquidated damages when a specified
-64 breach associated with a liquidated damages provision has occurred, the unit shall:
+4 (d) A unit shall obtain the approval of the head of the unit if the unit decides not
+5 to include in a contract a liquidated damages clause specified under § 13–218(a)(4) of this
+6 article.
 
-65 [(i)] (1) obtain the approval of the decision by the head of the unit;
-66 [and]
+7 (e) [(1) This subsection applies only to procurements valued at $5,000,000 or
+8 more.
 
-67 [(ii)] (2) maintain documentation on the reason the unit decided
-68 not to pursue liquidated damages; AND
+9 (2)] If a unit decides not to pursue liquidated damages when a specified
+10 breach associated with a liquidated damages provision has occurred, the unit shall:
 
-69 (3) PROVIDE DOCUMENTATION TO THE BOARD AND THE JOINT
-70 AUDIT AND EVALUATION COMMITTEE ON THE REASON THAT THE UNIT INTENDS
-71 NOT TO PURSUE LIQUIDATED DAMAGES.
+11 [(i)] (1) obtain the approval of the decision by the head of the unit;
+12 [and]
 
-72 Article – State Personnel and Pensions
+13 [(ii)] (2) maintain documentation on the reason the unit decided
+14 not to pursue liquidated damages; AND
 
-73 1–101.
+15 (3) PROVIDE DOCUMENTATION TO THE BOARD AND THE JOINT
+16 AUDIT AND EVALUATION COMMITTEE ON THE REASON THAT THE UNIT INTENDS
+17 NOT TO PURSUE LIQUIDATED DAMAGES.
 
-74 (a) In this Division I of this article the following words have the meanings
-75 indicated.
+18 Article – State Personnel and Pensions
 
-76 (b) “Appointing authority” means an individual or a unit of government that has
-77 the power to make appointments and terminate employment.
+19 1–101.
 
-78 2–206.
+20 (a) In this Division I of this article the following words have the meanings
+21 indicated.
 
-79 (A) IN THIS SECTION, “CHIEF FINANCIAL OFFICER” MEANS:
+22 (b) “Appointing authority” means an individual or a unit of government that has
+23 the power to make appointments and terminate employment.
 
-80 (1) THE HIGHEST RANKING EXECUTIVE WHO, FOR A PERIOD OF AT
-81 LEAST 6 MONTHS, IS RESPONSIBLE FOR DIRECTING ALL FINANCIAL OPERATIONS,
-82 INCLUDING:
+24 2–206.
 
-83 (I) BUDGETING;
+25 (A) IN THIS SECTION, “CHIEF FINANCIAL OFFICER” ~~INCLUDES~~ MEANS:
 
-84 (II) ACCOUNTING;
+26 ~~ (1) AN INDIVIDUAL ACTING AS CHIEF FINANCIAL OFFICER FOR A
+27 PERIOD OF 3 MONTHS OR LONGER; AND
+28 (2) A POSITION EQUIVALENT TO A CHIEF FINANCIAL OFFICER ~~
+END OF PAGE 3
 
-85 (III) PROCUREMENT;
+START OF PAGE 4
+4 HOUSE BILL 1422
 
-86 (IV) GRANT MANAGEMENT;
+1 (1) THE HIGHEST RANKING EXECUTIVE WHO, FOR A PERIOD OF AT
+2 LEAST 6 MONTHS, IS RESPONSIBLE FOR DIRECTING ALL FINANCIAL OPERATIONS,
+3 INCLUDING:
 
-87 (V) ESTABLISHING FISCAL POLICIES;
+4 (I) BUDGETING;
 
-88 (VI) ENSURING COMPLIANCE WITH STATE AND FEDERAL
-89 REGULATIONS; AND
+5 (II) ACCOUNTING;
 
-90 (VII) PROVIDING STRATEGIC FINANCIAL LEADERSHIP TO
-91 AGENCY LEADERSHIP; OR
+6 (III) PROCUREMENT;
 
-92 (2) A POSITION WITH EQUIVALENT DUTIES.
+7 (IV) GRANT MANAGEMENT;
 
-93 (B) (1) EXCEPT AS PROVIDED UNDER PARAGRAPH (2) OF THIS
-94 SUBSECTION, THIS SECTION APPLIES TO A UNIT OF THE EXECUTIVE BRANCH OF
-95 STATE GOVERNMENT THAT:
+8 (V) ESTABLISHING FISCAL POLICIES;
 
-96 (I) RECEIVES AT LEAST $1,750,000,000 ANNUALLY IN STATE
-97 AND FEDERAL FUNDING; AND
+9 (VI) ENSURING COMPLIANCE WITH STATE AND FEDERAL
+10 REGULATIONS; AND
 
-98 (II) EMPLOYS A CHIEF FINANCIAL OFFICER.
+11 (VII) PROVIDING STRATEGIC FINANCIAL LEADERSHIP TO
+12 AGENCY LEADERSHIP; OR
 
-99 (2) THIS SECTION DOES NOT APPLY TO THE UNIVERSITY SYSTEM OF
-100 MARYLAND.
+13 (2) A POSITION WITH EQUIVALENT DUTIES.
 
-101 (C) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, THE SECRETARY
-102 MAY SET THE PAY SCALE FOR CHIEF FINANCIAL OFFICER POSITIONS IN ORDER TO
-103 ASSIST WITH RECRUITMENT AND RETENTION.
+14 (B) (1) ~~THIS~~ EXCEPT AS PROVIDED UNDER PARAGRAPH (2) OF THIS
+15 SUBSECTION, THIS SECTION APPLIES TO A UNIT OF THE EXECUTIVE BRANCH OF
+16 STATE GOVERNMENT THAT:
 
-104 (D) AN APPOINTING AUTHORITY SUBJECT TO THIS SECTION SHALL MAKE AN
-105 APPOINTMENT OF A CHIEF FINANCIAL OFFICER WHO MEETS THE
-106 QUALIFICATIONS IN SUBSECTION (E) OF THIS SECTION.
+17 (I) RECEIVES AT LEAST ~~$2,000,000,000~~ $1,750,000,000
+18 ANNUALLY IN STATE AND FEDERAL FUNDING; AND
 
-107 (E) (1) THE SECRETARY SHALL ESTABLISH MINIMUM QUALIFICATIONS
-108 FOR CHIEF FINANCIAL OFFICER POSITIONS THAT CONSIDER:
+19 (II) EMPLOYS A CHIEF FINANCIAL OFFICER.
 
-109 (I) EDUCATION;
+20 (2) THIS SECTION DOES NOT APPLY TO THE UNIVERSITY SYSTEM OF
+21 MARYLAND.
 
-110 (II) EXECUTIVE EXPERIENCE AND THE DURATION OF THAT
-111 EXPERIENCE;
+22 (C) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, ~~AT THE REQUEST
+23 OF AN APPOINTING AUTHORITY, THE SECRETARY MAY GRANT AN EXEMPTION TO
+24 THE STATE PAY PLAN TO ASSIST UNITS OF STATE GOVERNMENT IN THE
+25 RECRUITMENT AND RETENTION OF CHIEF FINANCIAL OFFICERS~~ THE SECRETARY
+26 MAY SET THE PAY SCALE FOR CHIEF FINANCIAL OFFICER POSITIONS IN ORDER TO
+27 ASSIST WITH RECRUITMENT AND RETENTION.
 
-112 (III) SUPERVISORY OR MANAGERIAL EXPERIENCE;
+28 (D) AN APPOINTING AUTHORITY SUBJECT TO THIS SECTION SHALL MAKE AN
+29 APPOINTMENT OF A CHIEF FINANCIAL OFFICER WHO MEETS THE ~~REQUIREMENTS~~
+30 QUALIFICATIONS IN SUBSECTION (E) OF THIS SECTION.
+END OF PAGE 4
 
-113 (IV) TECHNICAL COMPETENCE;
+START OF PAGE 5
+HOUSE BILL 1422 5
 
-114 (V) CERTIFICATIONS;
+1 (E) (1) THE SECRETARY SHALL ESTABLISH MINIMUM QUALIFICATIONS
+2 FOR CHIEF FINANCIAL OFFICER POSITIONS THAT CONSIDER:
 
-115 (VI) SCOPE AND COMPLEXITY OF THE ROLE; AND
+3 (I) EDUCATION;
 
-116 (VII) ALIGNMENT WITH THE GOVERNMENT OR INDUSTRY
-117 STANDARDS.
+4 (II) EXECUTIVE EXPERIENCE AND THE DURATION OF THAT
+5 EXPERIENCE;
 
-118 (2) ON OR BEFORE NOVEMBER 1, 2026, THE DEPARTMENT SHALL
-119 ADOPT REGULATIONS TO ESTABLISH MINIMUM QUALIFICATIONS FOR CHIEF
-120 FINANCIAL OFFICER POSITIONS.
+6 (III) SUPERVISORY OR MANAGERIAL EXPERIENCE;
 
-121 (F) FOR PREPARATION OF THE ANNUAL COMPREHENSIVE FINANCIAL
-122 REPORT REQUIRED UNDER § 2–102 OF THE STATE FINANCE AND PROCUREMENT
-123 ARTICLE, A CHIEF FINANCIAL OFFICER OF A UNIT OF STATE GOVERNMENT
-124 SUBJECT TO THIS SECTION SHALL PROVIDE TO THE OFFICE OF THE COMPTROLLER
-125 AT THE CLOSE OF THE FISCAL YEAR:
+7 (IV) TECHNICAL COMPETENCE;
 
-126 (1) ALL NECESSARY ENTRIES OF THE UNIT’S FINANCIAL
-127 INFORMATION;
+8 (V) CERTIFICATIONS;
 
-128 (2) THE INFORMATION NECESSARY TO PREPARE THE SCHEDULE OF
-129 EXPENDITURES OF FEDERAL AWARDS IN ACCORDANCE WITH APPLICABLE
-130 FEDERAL LAWS AND REGULATIONS; AND
+9 (VI) SCOPE AND COMPLEXITY OF THE ROLE; AND
 
-131 (3) A LETTER ATTESTING TO THE ACCURACY AND COMPLETENESS
-132 OF THE INFORMATION PROVIDED IN ITEMS (1) AND (2) OF THIS SUBSECTION.
+10 (VII) ALIGNMENT WITH THE GOVERNMENT OR INDUSTRY
+11 STANDARDS.
 
-133 2–207.
+12 (2) ON OR BEFORE NOVEMBER 1, 2026, THE DEPARTMENT SHALL
+13 ADOPT REGULATIONS TO ESTABLISH MINIMUM QUALIFICATIONS FOR CHIEF
+14 FINANCIAL OFFICER POSITIONS.
 
-134 (A) IN THIS SECTION, “CHIEF INFORMATION OFFICER” MEANS:
+15 (F) FOR PREPARATION OF THE ANNUAL COMPREHENSIVE FINANCIAL
+16 REPORT REQUIRED UNDER § 2–102 OF THE STATE FINANCE AND PROCUREMENT
+17 ARTICLE, A CHIEF FINANCIAL OFFICER OF A UNIT OF STATE GOVERNMENT SUBJECT
+18 TO THIS SECTION SHALL PROVIDE TO THE OFFICE OF THE COMPTROLLER AT THE
+19 CLOSE OF THE FISCAL YEAR:
 
-135 (1) AN INDIVIDUAL ACTING AS THE SENIOR EXECUTIVE OFFICER
-136 RESPONSIBLE FOR THE STRATEGIC PLANNING, MANAGEMENT, AND OVERSIGHT OF
-137 AN AGENCY’S INFORMATION TECHNOLOGY AND COMPUTER SYSTEMS AND
-138 SUPPORTING ITS MISSION AND GOALS, INCLUDING THROUGH:
+20 (1) ALL NECESSARY ENTRIES OF THE UNIT’S FINANCIAL
+21 INFORMATION;
 
-139 (I) PROCUREMENT;
+22 (2) THE INFORMATION NECESSARY TO PREPARE THE SCHEDULE OF
+23 EXPENDITURES OF FEDERAL AWARDS IN ACCORDANCE WITH APPLICABLE FEDERAL
+24 LAWS AND REGULATIONS; AND
 
-140 (II) COMPLIANCE WITH STATE AND FEDERAL REGULATIONS;
-141 AND
+25 (3) A LETTER ATTESTING TO THE ACCURACY AND COMPLETENESS OF
+26 THE INFORMATION PROVIDED IN ITEMS (1) AND (2) OF THIS SUBSECTION.
 
-142 (III) PROVIDING INFORMATION TECHNOLOGY LEADERSHIP TO
-143 AGENCY LEADERSHIP; OR
+27 2–207.
 
-144 (2) A POSITION WITH EQUIVALENT DUTIES.
+28 (A) IN THIS SECTION, “CHIEF INFORMATION OFFICER” MEANS:
 
-145 (B) (1) EXCEPT AS PROVIDED UNDER PARAGRAPH (2) OF THIS
-146 SUBSECTION, THIS SECTION APPLIES TO A UNIT OF THE EXECUTIVE BRANCH OF
-147 STATE GOVERNMENT THAT EMPLOYS A CHIEF INFORMATION OFFICER.
+29 (1) AN INDIVIDUAL ACTING AS THE SENIOR EXECUTIVE OFFICER
+30 RESPONSIBLE FOR THE STRATEGIC PLANNING, MANAGEMENT, AND OVERSIGHT OF
+31 AN AGENCY’S INFORMATION TECHNOLOGY AND COMPUTER SYSTEMS AND
+32 SUPPORTING ITS MISSION AND GOALS, INCLUDING THROUGH:
+END OF PAGE 5
 
-148 (2) THIS SECTION DOES NOT APPLY TO THE UNIVERSITY SYSTEM OF
-149 MARYLAND.
+START OF PAGE 6
+6 HOUSE BILL 1422
 
-150 (C) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, THE SECRETARY
-151 MAY SET THE PAY SCALE FOR CHIEF INFORMATION OFFICER POSITIONS IN ORDER
-152 TO ASSIST WITH RECRUITMENT AND RETENTION.
+1 (I) PROCUREMENT;
 
-153 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
-154 1, 2026.
+2 (II) COMPLIANCE WITH STATE AND FEDERAL REGULATIONS;
+3 AND
+
+4 (III) PROVIDING INFORMATION TECHNOLOGY LEADERSHIP TO
+5 AGENCY LEADERSHIP; OR
+
+6 (2) A POSITION WITH EQUIVALENT DUTIES.
+
+7 (B) (1) EXCEPT AS PROVIDED UNDER PARAGRAPH (2) OF THIS
+8 SUBSECTION, THIS SECTION APPLIES TO A UNIT OF THE EXECUTIVE BRANCH OF
+9 STATE GOVERNMENT THAT EMPLOYS A CHIEF INFORMATION OFFICER.
+
+10 (2) THIS SECTION DOES NOT APPLY TO THE UNIVERSITY SYSTEM OF
+11 MARYLAND.
+
+12 (C) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, THE SECRETARY
+13 MAY SET THE PAY SCALE FOR CHIEF INFORMATION OFFICER POSITIONS IN ORDER
+14 TO ASSIST WITH RECRUITMENT AND RETENTION.
+
+15 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+16 1, 2026.
 
 Approved:
 
@@ -247,3 +283,5 @@ Speaker of the House of Delegates.
 
 ________________________________________________________________________________
 President of the Senate.
+END OF PAGE 6
+</bill>

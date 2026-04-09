@@ -1,11 +1,8 @@
-START OF PAGE 1
 HOUSE BILL 1532
 
-C5, M5 6lr3230
+C5, M5
 
-By: The Speaker and Delegates Korman, Fraser–Hidalgo,
-Allen, Behler, Foley, Guyton, Healey, Holmes, J. Long, Lewis, Odom, Stein,
-and Ziegler
+By: The Speaker and Delegates Korman, Fraser-Hidalgo, Allen, Behler, Foley, Guyton, Healey, Holmes, J. Long, Lewis, Odom, Stein, and Ziegler
 Introduced and read first time: February 13, 2026
 Assigned to: Environment and Transportation
 
@@ -17,10 +14,59 @@ CHAPTER ______
 
 1 AN ACT concerning
 
-2 Utility RELIEF (Reducing Energy Load Inflation for Everyday Families) Act
+2 
+3 Utility RELIEF (Reducing Energy Load Inflation for Everyday Families) Act
 
-3 
-4 FOR the purpose of transferring the electric universal service program to the Office of Home Energy Programs and requiring the Office to authorize benefits under the program for certain electric customers; establishing the Green and Renewable Energy Efficiency for Nonprofits Loan Program in the Maryland Clean Energy Center; reducing a certain alternative compliance payment rate applicable to certain covered buildings; altering certain procedures related to the permitting, inspection, and interconnection of certain residential solar energy systems; requiring certain public service companies to include certain information on customer bills under certain circumstances; altering certain provisions relating to and establishing certain requirements for large load customers, including requiring the Public Service Commission to establish a large load customer registry, a voluntary clean capacity rating program, and an interconnection process for certain large load customers; altering certain provisions regulating multiyear rate plans and limited–income mechanisms; prohibiting certain public service companies from recovering certain costs through rates; requiring a certain person to participate as a member in a regional transmission organization; altering certain provisions and establishing certain requirements relating to certificates of public convenience and necessity; altering which gas companies are subject to certain requirements for the development and implementation of certain programs and services relating to energy efficiency, conservation, demand response, beneficial electrification, and greenhouse gas emissions reductions; altering certain provisions regulating certain energy efficiency and conservation plans; altering certain provisions regulating community solar energy generating systems; authorizing the Maryland Energy Administration to require applicants for the Energy Storage System Grant Program to participate in certain programs and tariffs; altering the net energy metering program; altering certain provisions regulating community solar energy generating systems; requiring the Commission to establish a successor program to the net energy metering program; authorizing the purchase, installation, and use of a certain portable solar energy generating system for residential use; altering the administration of certain incentives and rebates for acquiring and installing renewable on–site generating systems; altering certain provisions relating to energy solicitation and procurement; altering certain provisions relating to the Strategic Energy Planning Office; prohibiting the construction of a data center in certain development districts in Baltimore City; authorizing the Department of General Services to issue a request for proposals for a certain long–term lease on certain sites; authorizing the Board of Public Works to waive the inclusion of certain clauses in a certain contract; altering the uses of the Maryland Strategic Energy Investment Fund and certain compliance fees paid into the Fund; requiring the Administration to conduct certain alternative compliance fee auctions; requiring that certain compliance fees and proceeds be used in a certain manner; authorizing the Governor to transfer certain funds for certain purposes in a certain fiscal year; requiring the Commission to conduct certain proceedings, conduct a certain costs and benefits analysis, prepare certain recommendations, and develop certain guidelines and recommendations; authorizing certain committees of the General Assembly to request that the Strategic Energy Planning Office assess certain policy scenarios and submit a certain report to the committees on or before a certain date; requiring the Commission to issue a certain request for information and request for certain proposals for a certain purpose; requiring the Power Plant Research Program, in consultation with the Department of the Environment and the Administration, to conduct a certain study; altering and adding certain reporting requirements relating to the Maryland Clean Energy Center, transmission congestion, power flow analyses, and the Maryland Energy Storage Program; and generally relating to energy policy in the State.
+4 FOR the purpose of transferring the electric universal service program to the Office of Home
+Energy Programs and requiring the Office to authorize benefits under the program for
+certain electric customers; establishing the Green and Renewable Energy Efficiency for
+Nonprofits Loan Program in the Maryland Clean Energy Center; reducing a certain
+alternative compliance payment rate applicable to certain covered buildings; altering
+certain procedures related to the permitting, inspection, and interconnection of certain
+residential solar energy systems; requiring certain public service companies to include
+certain information on customer bills under certain circumstances; altering certain
+provisions relating to and establishing certain requirements for large load customers,
+including requiring the Public Service Commission to establish a large load customer
+registry, a voluntary clean capacity rating program, and an interconnection process for
+certain large load customers; altering certain provisions regulating multiyear rate plans
+and limited–income mechanisms; prohibiting certain public service companies from
+recovering certain costs through rates; requiring a certain person to participate as a
+member in a regional transmission organization; altering certain provisions and
+establishing certain requirements relating to certificates of public convenience and
+necessity; altering which gas companies are subject to certain requirements for the
+development and implementation of certain programs and services relating to energy
+efficiency, conservation, demand response, beneficial electrification, and greenhouse gas
+emissions reductions; altering certain provisions regulating certain energy efficiency
+and conservation plans; altering certain provisions regulating community solar energy
+generating systems; authorizing the Maryland Energy Administration to require
+applicants for the Energy Storage System Grant Program to participate in certain
+programs and tariffs; altering the net energy metering program; altering certain
+provisions regulating community solar energy generating systems; requiring the
+Commission to establish a successor program to the net energy metering program;
+authorizing the purchase, installation, and use of a certain portable solar energy
+generating system for residential use; altering the administration of certain incentives
+and rebates for acquiring and installing renewable on–site generating systems; altering
+certain provisions relating to energy solicitation and procurement; altering certain
+provisions relating to the Strategic Energy Planning Office; prohibiting the construction
+of a data center in certain development districts in Baltimore City; authorizing the
+Department of General Services to issue a request for proposals for a certain long–term
+lease on certain sites; authorizing the Board of Public Works to waive the inclusion of
+certain clauses in a certain contract; altering the uses of the Maryland Strategic Energy
+Investment Fund and certain compliance fees paid into the Fund; requiring the
+Administration to conduct certain alternative compliance fee auctions; requiring that
+certain compliance fees and proceeds be used in a certain manner; authorizing the
+Governor to transfer certain funds for certain purposes in a certain fiscal year; requiring
+the Commission to conduct certain proceedings, conduct a certain costs and benefits
+analysis, prepare certain recommendations, and develop certain guidelines and
+recommendations; authorizing certain committees of the General Assembly to request
+that the Strategic Energy Planning Office assess certain policy scenarios and submit a
+certain report to the committees on or before a certain date; requiring the Commission
+to issue a certain request for information and request for certain proposals for a certain
+purpose; requiring the Power Plant Research Program, in consultation with the
+Department of the Environment and the Administration, to conduct a certain study;
+altering and adding certain reporting requirements relating to the Maryland Clean
+Energy Center, transmission congestion, power flow analyses, and the Maryland Energy
+Storage Program; policy in the State.
 
 BY renumbering
 Article – Economic Development
@@ -55,7 +101,8 @@ Annotated Code of Maryland
 
 BY adding to
 Article – Economic Development
-Section 10–862 through 10–868 to be under the new part “Part VII. Green and Renewable Energy Efficiency for Nonprofits Loan Program”
+Section 10–862 through 10–868 to be under the new part “Part VII. Green and
+Renewable Energy Efficiency for Nonprofits Loan Program”
 Annotated Code of Maryland
 (2024 Replacement Volume and 2025 Supplement)
 
@@ -88,7 +135,7 @@ Article – Human Services
 Section 5–5A–08
 Annotated Code of Maryland
 (2019 Replacement Volume and 2025 Supplement)
-(As enacted by Section 3 of this Act)
+(As enacted by Section 2 of this Act)
 
 BY repealing and reenacting, with amendments,
 Article – Local Government
@@ -98,19 +145,27 @@ Annotated Code of Maryland
 
 BY adding to
 Article – Public Utilities
-Section 4–203.1, 7–207(f), 7–207.6, 7–207.7, 7–216.1(d), 7–221.1, and 7–229; 7– 232 through 7–234 to be under the new part “Part III. Large Load Customers”; and 7–306.2(o), 7–306.4, 7–321, and 7–1008
+Section 4–203.1, 7–207(f), 7–207.6, 7–207.7, 7–216.1(d), 7–221.1, and 7–229; 7–
+232 through 7–234 to be under the new part “Part III. Large Load
+Customers”; and 7–306.2(o), 7–306.4, 7–321, and 7–1008
 Annotated Code of Maryland
 (2025 Replacement Volume and 2025 Supplement)
 
 BY repealing and reenacting, with amendments,
 Article – Public Utilities
-Section 4–212, 4–213, 4–309, 4–504, 7–103, 7–207(a), (b)(3) and (4), and (c) through (h), 7–208, 7–222, 7–223, 7–224(a)(1) and (d), 7–225, 7–306(d) and (j), 7–306.2(a)(4) and (d)(13), 7–505(b)(2) and (d)(2)(ii)3., 7–510.3(o), 7–1006, 7–1007, 7–1201(g), 7–1216(b), 7–1220, 7–1225, and 7–1302(b), and 7–1304(c)
+Section 4–212, 4–213, 4–309, 4–504, 7–103, 7–207(a), (b)(3) and (4), and (c)
+through (h), 7–208, 7–222, 7–223, 7–224(a)(1) and (d), 7–225, 7–306(d) and
+(j), 7–306.2(a)(4) and (d)(13), 7–505(b)(2) and (d)(2)(ii)3., 7–510.3(o), 7–
+1006, 7–1007, 7–1201(g), 7–1216(b), 7–1220, 7–1225, and 7–1302(b), and
+7–1304(c)
 Annotated Code of Maryland
 (2025 Replacement Volume and 2025 Supplement)
 
 BY repealing and reenacting, without amendments,
 Article – Public Utilities
-Section 7–216.1(a)(1) and (5) and (c), 7–221, 7–226 through 7–228, 7–306(a)(1), (4), and (7), 7–306.2(a)(1) and (7) and (d)(1), 7–505(b)(1), 7–1201(a), 7–1216(a), and 7–1302(a)
+Section 7–216.1(a)(1) and (5) and (c), 7–221, 7–226 through 7–228, 7–306(a)(1),
+(4), and (7), 7–306.2(a)(1) and (7) and (d)(1), 7–505(b)(1), 7–1201(a), 7–
+1216(a), and 7–1302(a)
 Annotated Code of Maryland
 (2025 Replacement Volume and 2025 Supplement)
 
@@ -140,13 +195,16 @@ Annotated Code of Maryland
 
 BY repealing and reenacting, without amendments,
 Article – State Government
-Section 9–2012(b) and (c), 9–2016(a), (b), and (e), 9–20B–01(a) and (b), and 9– 20B–05(b) and (c)
+Section 9–2012(b) and (c), 9–2016(a), (b), and (e), 9–20B–01(a) and (b), and 9–
+20B–05(b) and (c)
 Annotated Code of Maryland
 (2021 Replacement Volume and 2025 Supplement)
 
 BY adding to
 Article – State Government
-Section 9–2012(j) and 9–20B–05(a) and (i–2); and 9–20E–01 and 9–20E–02 to be under the new subtitle “Subtitle 20E. Alternative Compliance Fee Auctions”
+Section 9–2012(j) and 9–20B–05(a) and (i–2); and 9–20E–01 and 9–20E–02 to be
+under the new subtitle “Subtitle 20E. Alternative Compliance Fee
+Auctions”
 Annotated Code of Maryland
 (2021 Replacement Volume and 2025 Supplement)
 
@@ -164,35 +222,44 @@ BY repealing and reenacting, with amendments,
 Chapter 19 of the Acts of the General Assembly of the 2025 Special Session
 Section 2
 
-EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law.
-Underlining indicates amendments to bill.
-~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
-amendment. *hb1532*
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF
+MARYLAND, That Section(s) 10–862 and the part “Part VII. Short Title” of Article –
+Economic Development of the Annotated Code of Maryland be renumbered to be
+Section(s) 10–871 and the part “Part VIII. Short Title”.
 
-SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, That Section(s) 10–862 and the part “Part VII. Short Title” of Article – Economic Development of the Annotated Code of Maryland be renumbered to be Section(s) 10–871 and the part “Part VIII. Short Title”.
+SECTION 2. AND BE IT FURTHER ENACTED, That Section(s) 5–5A–08
+through 5–5A–10 of Article – Human Services of the Annotated Code of Maryland be
+renumbered to be Section(s) 5–5A–09 through 5–5A–11, respectively.
 
-SECTION 2. AND BE IT FURTHER ENACTED, That Section(s) 5–5A–08 through 5–5A–10 of Article – Human Services of the Annotated Code of Maryland be renumbered to be Section(s) 5–5A–09 through 5–5A–11, respectively.
+SECTION 3. AND BE IT FURTHER ENACTED, That Section(s) 7–512.1 of
+Article – Public Utilities of the Annotated Code of Maryland be transferred to be
+Section(s) 5–5A–08 of Article – Human Services of the Annotated Code of Maryland.
 
-SECTION 3. AND BE IT FURTHER ENACTED, That Section(s) 7–512.1 of Article – Public Utilities of the Annotated Code of Maryland be transferred to be Section(s) 5–5A–08 of Article – Human Services of the Annotated Code of Maryland.
-
-SECTION 4. AND BE IT FURTHER ENACTED, That the Laws of Maryland read as follows:
+SECTION 4. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+as follows:
 
 Article – Economic Development
 
 10–826.
 
-(a) On or before December 1 of each year, the Center shall report to the Governor, the Administration, and, in accordance with § 2–1257 of the State Government Article, the General Assembly.
+(a) On or before December 1 of each year, the Center shall report to the
+Governor, the Administration, and, in accordance with § 2–1257 of the State
+Government Article, the General Assembly.
 
 (b) The report shall include:
 
-(1) a complete operating and financial statement covering the Center’s operations;
+(1) a complete operating and financial statement covering the Center’s
+operations;
 
-(2) a summary of the Center’s activities during the preceding fiscal year; [and]
+(2) a summary of the Center’s activities during the preceding fiscal
+year; [and]
 
-(3) a summary of the Center’s activities specific to clean energy innovation; AND
+(3) a summary of the Center’s activities specific to clean energy
+innovation; AND
 
-(4) A SUMMARY OF THE CENTER’S ACTIVITIES SPECIFIC TO THE GREEN AND RENEWABLE ENERGY EFFICIENCY FOR NONPROFITS LOAN PROGRAM ESTABLISHED UNDER § 10–863 OF THIS SUBTITLE, INCLUDING:
+(4) A SUMMARY OF THE CENTER’S ACTIVITIES SPECIFIC TO THE
+GREEN AND RENEWABLE ENERGY EFFICIENCY FOR NONPROFITS LOAN
+PROGRAM ESTABLISHED UNDER § 10–863 OF THIS SUBTITLE, INCLUDING:
 
 (I) THE TOTAL NUMBER OF LOANS AWARDED;
 
@@ -200,41 +267,59 @@ Article – Economic Development
 
 (III) THE AVERAGE TERM OF LOANS IN THE LOAN PORTFOLIO;
 
-(IV) THE ESTIMATED ANNUAL ENERGY SAVINGS, IN KILOWATT–HOURS, RESULTING FROM MEASURES ASSOCIATED WITH LOANS IN THE LOAN PORTFOLIO; AND
+(IV) THE ESTIMATED ANNUAL ENERGY SAVINGS, IN
+KILOWATT–HOURS, RESULTING FROM MEASURES ASSOCIATED WITH LOANS IN
+THE LOAN PORTFOLIO; AND
 
-(V) THE ESTIMATED REDUCTION OF GREENHOUSE GAS EMISSIONS, IN METRIC TONS, ASSOCIATED WITH LOANS IN THE LOAN PORTFOLIO.
+(V) THE ESTIMATED REDUCTION OF GREENHOUSE GAS
+EMISSIONS, IN METRIC TONS, ASSOCIATED WITH LOANS IN THE LOAN PORTFOLIO.
 
-PART VII. GREEN AND RENEWABLE ENERGY EFFICIENCY FOR NONPROFITS LOAN PROGRAM.
+PART VII. GREEN AND RENEWABLE ENERGY EFFICIENCY FOR NONPROFITS
+LOAN PROGRAM.
 
 10–862.
 
-(A) IN THIS PART THE FOLLOWING WORDS HAVE THE MEANINGS INDICATED.
+(A) IN THIS PART THE FOLLOWING WORDS HAVE THE MEANINGS
+INDICATED.
 
-(B) “BORROWER” MEANS A NONPROFIT ORGANIZATION THAT APPLIES AND QUALIFIES FOR A LOAN UNDER THE PROGRAM.
+(B) “BORROWER” MEANS A NONPROFIT ORGANIZATION THAT APPLIES
+AND QUALIFIES FOR A LOAN UNDER THE PROGRAM.
 
-(C) “FUND” MEANS THE GREEN AND RENEWABLE ENERGY EFFICIENCY FOR NONPROFITS LOAN FUND.
+(C) “FUND” MEANS THE GREEN AND RENEWABLE ENERGY EFFICIENCY
+FOR NONPROFITS LOAN FUND.
 
-(D) “NONPROFIT ORGANIZATION” MEANS AN ORGANIZATION THAT IS EXEMPT FROM FEDERAL INCOME TAX UNDER § 501(C)(3) OF THE INTERNAL REVENUE CODE.
+(D) “NONPROFIT ORGANIZATION” MEANS AN ORGANIZATION THAT IS
+EXEMPT FROM FEDERAL INCOME TAX UNDER § 501(C)(3) OF THE INTERNAL
+REVENUE CODE.
 
-(E) “PROGRAM” MEANS THE GREEN AND RENEWABLE ENERGY EFFICIENCY FOR NONPROFITS LOAN PROGRAM.
+(E) “PROGRAM” MEANS THE GREEN AND RENEWABLE ENERGY
+EFFICIENCY FOR NONPROFITS LOAN PROGRAM.
 
 (F) “QUALIFYING ENERGY SYSTEM” MEANS A SYSTEM THAT:
 
-(1) GENERATES ELECTRICITY OR USABLE THERMAL ENERGY THAT IS USED TO MEET ON–SITE DEMAND; AND
+(1) GENERATES ELECTRICITY OR USABLE THERMAL ENERGY THAT
+IS USED TO MEET ON–SITE DEMAND; AND
 
-(2) ASSISTS THE STATE IN MEETING THE ENVIRONMENTAL AND GREENHOUSE GAS REDUCTION GOALS UNDER TITLE 2, SUBTITLE 12 OF THE ENVIRONMENT ARTICLE.
+(2) ASSISTS THE STATE IN MEETING THE ENVIRONMENTAL AND
+GREENHOUSE GAS REDUCTION GOALS UNDER TITLE 2, SUBTITLE 12 OF THE
+ENVIRONMENT ARTICLE.
 
 10–863.
 
-THERE IS A GREEN AND RENEWABLE ENERGY EFFICIENCY FOR NONPROFITS LOAN PROGRAM IN THE CENTER.
+THERE IS A GREEN AND RENEWABLE ENERGY EFFICIENCY FOR
+NONPROFITS LOAN PROGRAM IN THE CENTER.
 
 10–864.
 
-THE PURPOSE OF THE PROGRAM IS TO PROVIDE FINANCIAL ASSISTANCE IN THE FORM OF NO–INTEREST LOANS TO NONPROFIT ORGANIZATIONS FOR:
+THE PURPOSE OF THE PROGRAM IS TO PROVIDE FINANCIAL ASSISTANCE
+IN THE FORM OF NO–INTEREST LOANS TO NONPROFIT ORGANIZATIONS FOR:
 
-(1) THE PLANNING, PURCHASE, AND INSTALLATION OF QUALIFYING ENERGY SYSTEMS IN THE STATE; AND
+(1) THE PLANNING, PURCHASE, AND INSTALLATION OF
+QUALIFYING ENERGY SYSTEMS IN THE STATE; AND
 
-(2) ACTIONS THAT IMPROVE ENERGY EFFICIENCY, SUCH AS REPAIRING OR REPLACING WINDOWS, DOORS, AND HEATING, VENTILATION, AND AIR–CONDITIONING SYSTEMS AND OTHER SIMILAR IMPROVEMENTS.
+(2) ACTIONS THAT IMPROVE ENERGY EFFICIENCY, SUCH AS
+REPAIRING OR REPLACING WINDOWS, DOORS, AND HEATING, VENTILATION, AND
+AIR–CONDITIONING SYSTEMS AND OTHER SIMILAR IMPROVEMENTS.
 
 10–865.
 
@@ -242,45 +327,76 @@ THE CENTER SHALL:
 
 (1) MANAGE, SUPERVISE, AND ADMINISTER THE PROGRAM;
 
-(2) ADOPT REGULATIONS TO ENSURE THAT LOANS PROVIDED TO NONPROFIT ORGANIZATIONS CARRY OUT THE PURPOSE OF THE PROGRAM; AND
+(2) ADOPT REGULATIONS TO ENSURE THAT LOANS PROVIDED TO
+NONPROFIT ORGANIZATIONS CARRY OUT THE PURPOSE OF THE PROGRAM; AND
 
-(3) ATTACH TO ANY LOAN SPECIFIC TERMS THAT ARE CONSIDERED NECESSARY TO ENSURE THAT THE PURPOSE OF THE PROGRAM IS FULFILLED.
+(3) ATTACH TO ANY LOAN SPECIFIC TERMS THAT ARE CONSIDERED
+NECESSARY TO ENSURE THAT THE PURPOSE OF THE PROGRAM IS FULFILLED.
 
 10–866.
 
-(A) (1) A BORROWER MUST FILE AN APPLICATION WITH THE CENTER TO RECEIVE A LOAN UNDER THE PROGRAM.
+(A) (1) A BORROWER MUST FILE AN APPLICATION WITH THE CENTER
+TO RECEIVE A LOAN UNDER THE PROGRAM.
 
-(2) THE APPLICATION MUST BE SIGNED BY THE CHIEF OPERATING OFFICER OR AN AUTHORIZED OFFICER OF THE NONPROFIT ORGANIZATION.
+(2) THE APPLICATION MUST BE SIGNED BY THE CHIEF OPERATING
+OFFICER OR AN AUTHORIZED OFFICER OF THE NONPROFIT ORGANIZATION.
 
-(B) THE APPLICATION MUST CONTAIN ANY INFORMATION THE CENTER DETERMINES IS NECESSARY, INCLUDING:
+(B) THE APPLICATION MUST CONTAIN ANY INFORMATION THE CENTER
+DETERMINES IS NECESSARY, INCLUDING:
 
-(1) THE PROJECTED COST OF THE QUALIFYING ENERGY SYSTEM, ENERGY EFFICIENCY ACTION, OR TECHNICAL ASSISTANCE BEING FINANCED THROUGH THE LOAN;
+(1) THE PROJECTED COST OF THE QUALIFYING ENERGY SYSTEM,
+ENERGY EFFICIENCY ACTION, OR TECHNICAL ASSISTANCE BEING FINANCED
+THROUGH THE LOAN;
 
-(2) THE LOCATION OF THE PROPERTY WHERE THE QUALIFYING ENERGY SYSTEM WILL BE INSTALLED OR AN ENERGY EFFICIENCY ACTION WILL OCCUR AND WHETHER THE PROPERTY IS OWNED OR LEASED BY THE APPLICANT; AND
+(2) THE LOCATION OF THE PROPERTY WHERE THE QUALIFYING
+ENERGY SYSTEM WILL BE INSTALLED OR AN ENERGY EFFICIENCY ACTION WILL
+OCCUR AND WHETHER THE PROPERTY IS OWNED OR LEASED BY THE APPLICANT;
+AND
 
-(3) ANY ADDITIONAL INFORMATION RELATING TO THE BORROWER OR THE PROPOSED QUALIFYING ENERGY SYSTEM OR ENERGY EFFICIENCY ACTION BEING FINANCED THROUGH THE LOAN THAT MAY BE REQUIRED BY THE CENTER TO ADMINISTER THE PROGRAM.
+(3) ANY ADDITIONAL INFORMATION RELATING TO THE BORROWER
+OR THE PROPOSED QUALIFYING ENERGY SYSTEM OR ENERGY EFFICIENCY
+ACTION BEING FINANCED THROUGH THE LOAN THAT MAY BE REQUIRED BY THE
+CENTER TO ADMINISTER THE PROGRAM.
 
-(C) THE CENTER MAY APPROVE AN APPLICATION FOR A LOAN SPECIFIED IN § 10–867(A)(1) OF THIS SUBTITLE ONLY IF THE APPLICATION DEMONSTRATES THAT THE PROPOSED QUALIFYING ENERGY SYSTEM OR ENERGY EFFICIENCY ACTION IS ESTIMATED, BASED ON PROJECTED ENERGY COSTS, TO GENERATE ENERGY COST SAVINGS OVER THE USEFUL LIFE OF THE SYSTEM OR ENERGY EFFICIENCY ACTION THAT EQUAL OR EXCEED THE TOTAL AMORTIZED COST OF THE LOAN.
+(C) THE CENTER MAY APPROVE AN APPLICATION FOR A LOAN
+SPECIFIED IN § 10–867(A)(1) OF THIS SUBTITLE ONLY IF THE APPLICATION
+DEMONSTRATES THAT THE PROPOSED QUALIFYING ENERGY SYSTEM OR ENERGY
+EFFICIENCY ACTION IS ESTIMATED, BASED ON PROJECTED ENERGY COSTS, TO
+GENERATE ENERGY COST SAVINGS OVER THE USEFUL LIFE OF THE SYSTEM OR
+ENERGY EFFICIENCY ACTION THAT EQUAL OR EXCEED THE TOTAL AMORTIZED
+COST OF THE LOAN.
 
-(D) IN APPROVING AN APPLICATION, THE CENTER SHALL CONSIDER AND GIVE PRIORITY TO AN APPLICANT THAT HAS AN ANNUAL BUDGET OF $1,000,000 OR LESS.
+(D) IN APPROVING AN APPLICATION, THE CENTER SHALL CONSIDER AND
+GIVE PRIORITY TO AN APPLICANT THAT HAS AN ANNUAL BUDGET OF $1,000,000
+OR LESS.
 
 10–867.
 
 (A) LOANS FROM THE FUND MAY BE USED FOR:
 
-(1) THE PURCHASE AND INSTALLATION OF A QUALIFYING ENERGY SYSTEM, INCLUDING ANY NECESSARY ANCILLARY MACHINERY, EQUIPMENT, OR FURNISHINGS;
+(1) THE PURCHASE AND INSTALLATION OF A QUALIFYING ENERGY
+SYSTEM, INCLUDING ANY NECESSARY ANCILLARY MACHINERY, EQUIPMENT, OR
+FURNISHINGS;
 
-(2) TECHNICAL ASSISTANCE FOR THE PLANNING AND INSTALLATION OF A QUALIFYING ENERGY SYSTEM; AND
+(2) TECHNICAL ASSISTANCE FOR THE PLANNING AND
+INSTALLATION OF A QUALIFYING ENERGY SYSTEM; AND
 
-(3) ACTIONS THAT IMPROVE ENERGY EFFICIENCY, SUCH AS REPAIRING OR REPLACING WINDOWS, DOORS, AND HEATING, VENTILATION, AND AIR–CONDITIONING SYSTEMS AND OTHER SIMILAR IMPROVEMENTS.
+(3) ACTIONS THAT IMPROVE ENERGY EFFICIENCY, SUCH AS
+REPAIRING OR REPLACING WINDOWS, DOORS, AND HEATING, VENTILATION, AND
+AIR–CONDITIONING SYSTEMS AND OTHER SIMILAR IMPROVEMENTS.
 
-(B) EACH BORROWER FOR A LOAN UNDER SUBSECTION (A)(1) OF THIS SECTION SHALL CONTRIBUTE AT LEAST 10% OF THE COST OF THE QUALIFYING ENERGY SYSTEM OR ENERGY EFFICIENCY ACTION.
+(B) EACH BORROWER FOR A LOAN UNDER SUBSECTION (A)(1) OF THIS
+SECTION SHALL CONTRIBUTE AT LEAST 10% OF THE COST OF THE QUALIFYING
+ENERGY SYSTEM OR ENERGY EFFICIENCY ACTION.
 
-(C) (1) LOANS MADE UNDER THE PROGRAM SHALL BE REPAYABLE BY THE BORROWER IN ACCORDANCE WITH A SCHEDULE SET BY THE CENTER.
+(C) (1) LOANS MADE UNDER THE PROGRAM SHALL BE REPAYABLE BY
+THE BORROWER IN ACCORDANCE WITH A SCHEDULE SET BY THE CENTER.
 
-(2) THE SCHEDULE SET BY THE CENTER MAY BE ON A DEFERRED PAYMENT BASIS.
+(2) THE SCHEDULE SET BY THE CENTER MAY BE ON A DEFERRED
+PAYMENT BASIS.
 
-(D) (1) A BORROWER SHALL PROVIDE ASSURANCES FOR THE REPAYMENT OF A LOAN.
+(D) (1) A BORROWER SHALL PROVIDE ASSURANCES FOR THE
+REPAYMENT OF A LOAN.
 
 (2) THE ASSURANCES:
 
@@ -288,45 +404,62 @@ THE CENTER SHALL:
 
 (II) MAY INCLUDE A PLAN FOR REPAYMENT.
 
-(E) LOANS MAY BE MADE IN CONJUNCTION WITH OR IN ADDITION TO FINANCIAL ASSISTANCE PROVIDED THROUGH OTHER STATE OR FEDERAL PROGRAMS.
+(E) LOANS MAY BE MADE IN CONJUNCTION WITH OR IN ADDITION TO
+FINANCIAL ASSISTANCE PROVIDED THROUGH OTHER STATE OR FEDERAL
+PROGRAMS.
 
 10–868.
 
-(A) THERE IS A GREEN AND RENEWABLE ENERGY EFFICIENCY FOR NONPROFITS LOAN FUND.
+(A) THERE IS A GREEN AND RENEWABLE ENERGY EFFICIENCY FOR
+NONPROFITS LOAN FUND.
 
 (B) THE CENTER SHALL ADMINISTER THE FUND.
 
-(C) (1) THE FUND IS A SPECIAL, NONLAPSING FUND THAT IS NOT SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+(C) (1) THE FUND IS A SPECIAL, NONLAPSING FUND THAT IS NOT
+SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
 
-(2) THE CENTER SHALL HOLD THE FUND SEPARATELY AND ACCOUNT FOR THE FUND.
+(2) THE CENTER SHALL HOLD THE FUND SEPARATELY AND
+ACCOUNT FOR THE FUND.
 
 (D) THE FUND CONSISTS OF:
 
 (1) MONEY APPROPRIATED IN THE STATE BUDGET TO THE FUND;
 
-(2) MONEY TRANSFERRED FROM THE STRATEGIC ENERGY INVESTMENT FUND ESTABLISHED UNDER § 9–20B–05 OF THE STATE GOVERNMENT ARTICLE;
+(2) MONEY TRANSFERRED FROM THE STRATEGIC ENERGY
+INVESTMENT FUND ESTABLISHED UNDER § 9–20B–05 OF THE STATE
+GOVERNMENT ARTICLE;
 
 (3) MONEY RECEIVED FROM ANY PUBLIC OR PRIVATE SOURCE;
 
 (4) INTEREST AND INVESTMENT EARNINGS OF THE FUND; AND
 
-(5) REPAYMENTS AND PREPAYMENTS ON LOANS MADE FROM THE FUND.
+(5) REPAYMENTS AND PREPAYMENTS ON LOANS MADE FROM THE
+FUND.
 
-(E) (1) IN FISCAL YEAR 2028, THE GOVERNOR MAY INCLUDE IN THE ANNUAL BUDGET BILL AN APPROPRIATION OF $5,000,000 FOR THE FUND.
+(E) (1) IN FISCAL YEAR 2028, THE GOVERNOR MAY INCLUDE IN THE
+ANNUAL BUDGET BILL AN APPROPRIATION OF $5,000,000 FOR THE FUND.
 
-(2) IN FISCAL YEAR 2029, THE GOVERNOR MAY INCLUDE IN THE ANNUAL BUDGET BILL AN APPROPRIATION EQUAL TO AT LEAST $5,000,000 MINUS THE AMOUNT IN THE FUND AS OF JUNE 30 OF THE IMMEDIATELY PRECEDING FISCAL YEAR.
+(2) IN FISCAL YEAR 2029, THE GOVERNOR MAY INCLUDE IN THE
+ANNUAL BUDGET BILL AN APPROPRIATION EQUAL TO AT LEAST $5,000,000
+MINUS THE AMOUNT IN THE FUND AS OF JUNE 30 OF THE IMMEDIATELY
+PRECEDING FISCAL YEAR.
 
 (F) THE FUND MAY BE USED ONLY:
 
 (1) TO PAY THE EXPENSES OF THE PROGRAM; AND
 
-(2) TO PROVIDE LOANS TO ELIGIBLE BORROWERS UNDER THE PROGRAM.
+(2) TO PROVIDE LOANS TO ELIGIBLE BORROWERS UNDER THE
+PROGRAM.
 
-(G) (1) THE CENTER SHALL INVEST AND REINVEST THE MONEY OF THE FUND IN THE SAME MANNER AS OTHER STATE MONEY HELD BY THE CENTER MAY BE INVESTED.
+(G) (1) THE CENTER SHALL INVEST AND REINVEST THE MONEY OF
+THE FUND IN THE SAME MANNER AS OTHER STATE MONEY HELD BY THE CENTER
+MAY BE INVESTED.
 
-(2) ANY INVESTMENT EARNINGS OF THE FUND SHALL BE PAID INTO THE FUND.
+(2) ANY INVESTMENT EARNINGS OF THE FUND SHALL BE PAID
+INTO THE FUND.
 
-(3) ANY REPAYMENT ON LOANS MADE FROM THE FUND SHALL BE PAID INTO THE FUND.
+(3) ANY REPAYMENT ON LOANS MADE FROM THE FUND SHALL BE
+PAID INTO THE FUND.
 
 10–869. RESERVED.
 
@@ -338,29 +471,40 @@ Article – Environment
 
 (a) In this subtitle the following words have the meanings indicated.
 
-(b) (1) “Agricultural building” means a structure that is used primarily to cultivate, manufacture, process, or produce agricultural crops, raw materials, products, or commodities.
+(b) (1) “Agricultural building” means a structure that is used primarily to
+cultivate, manufacture, process, or produce agricultural crops, raw materials, products,
+or commodities.
 
 (2) “Agricultural building” includes a greenhouse.
 
-(C) “BASELINE EMISSIONS” MEANS THE AMOUNT OF CARBON DIOXIDE CALCULATED AS THE AVERAGE AMOUNT OF CARBON DIOXIDE EMITTED PER KILOWATT–HOUR FOR THE PJM REGION IN WHICH THE BUILDING IS LOCATED MULTIPLIED BY THE AMOUNT OF ENERGY CONSUMED BY A COVERED BUILDING.
+(C) “BASELINE EMISSIONS” MEANS THE AMOUNT OF CARBON DIOXIDE
+CALCULATED AS THE AVERAGE AMOUNT OF CARBON DIOXIDE EMITTED PER
+KILOWATT–HOUR FOR THE PJM REGION IN WHICH THE BUILDING IS LOCATED
+MULTIPLIED BY THE AMOUNT OF ENERGY CONSUMED BY A COVERED BUILDING.
 
-[(c)] (D) “Building” has the meaning stated in the International Building Code.
+[(c)] (D) “Building” has the meaning stated in the International Building
+Code.
 
-[(d)] (E) “Commercial building” means a building that is subject to the commercial provisions of the International Energy Conservation Code.
+[(d)] (E) “Commercial building” means a building that is subject to the
+commercial provisions of the International Energy Conservation Code.
 
 [(e)] (F) (1) “Covered building” means a building that:
 
-(i) 1. Is a commercial or multifamily residential building in the State; or
+(i) 1. Is a commercial or multifamily residential building in
+the State; or
 
 2. Is owned by the State; and
 
-(ii) Has a gross floor area of 35,000 square feet or more, excluding the parking garage area.
+(ii) Has a gross floor area of 35,000 square feet or more, excluding
+the parking garage area.
 
 (2) “Covered building” does not include:
 
-(i) A building designated as a historic property under federal, State, or local law;
+(i) A building designated as a historic property under federal,
+State, or local law;
 
-(ii) A public or nonpublic elementary or secondary school building;
+(ii) A public or nonpublic elementary or secondary school
+building;
 
 (iii) A hospital;
 
@@ -368,61 +512,97 @@ Article – Environment
 
 (v) An agricultural building.
 
-[(f)] (G) “Critical infrastructure” has the meaning stated in § 1–101 of the Public Utilities Article.
+[(f)] (G) “Critical infrastructure” has the meaning stated in § 1–101 of the
+Public Utilities Article.
 
-[(g)] (H) “Direct greenhouse gas emissions” means greenhouse gas emissions produced on–site by covered buildings.
+[(g)] (H) “Direct greenhouse gas emissions” means greenhouse gas emissions
+produced on–site by covered buildings.
 
-[(h)] (I) “District energy” means thermal energy generated at one or more central facilities that produce hot water, steam, or chilled water that then flows through a network of insulated underground pipes to provide hot water, space heating, air conditioning, or chilled water to nearby buildings.
+[(h)] (I) “District energy” means thermal energy generated at one or more
+central facilities that produce hot water, steam, or chilled water that then flows through
+a network of insulated underground pipes to provide hot water, space heating, air
+conditioning, or chilled water to nearby buildings.
 
-(J) “EXCESS EMISSIONS” MEANS A BUILDING’S BASELINE EMISSIONS SUBTRACTED FROM THE BUILDING’S ON–SITE EMISSIONS.
+(J) “EXCESS EMISSIONS” MEANS A BUILDING’S BASELINE EMISSIONS
+SUBTRACTED FROM THE BUILDING’S ON–SITE EMISSIONS.
 
-[(i)] (K) “Manufacturing building” means a facility in which manufacturing, as defined in § 2–1202 of this article, takes place.
+[(i)] (K) “Manufacturing building” means a facility in which manufacturing,
+as defined in § 2–1202 of this article, takes place.
 
-(L) “ON–SITE EMISSIONS” MEANS THE AMOUNT OF CARBON DIOXIDE EMITTED BY AN ON–SITE GENERATOR.
+(L) “ON–SITE EMISSIONS” MEANS THE AMOUNT OF CARBON DIOXIDE
+EMITTED BY AN ON–SITE GENERATOR.
 
 2–1602.
 
-(a) The Department shall develop building energy performance standards for covered buildings that achieve:
+(a) The Department shall develop building energy performance standards for
+covered buildings that achieve:
 
-(1) A 20% reduction in net direct greenhouse gas emissions on or before January 1, 2030, as compared with 2025 levels for average buildings of similar construction; and
+(1) A 20% reduction in net direct greenhouse gas emissions on or before
+January 1, 2030, as compared with 2025 levels for average buildings of similar
+construction; and
 
-(2) Net–zero direct greenhouse gas emissions on or before January 1, 2040.
+(2) Net–zero direct greenhouse gas emissions on or before January 1,
+2040.
 
-(b) To facilitate the development of building energy performance standards under this section, the Department shall require the owners of covered buildings to measure and report direct emissions data to the Department annually beginning in 2025.
+(b) To facilitate the development of building energy performance standards
+under this section, the Department shall require the owners of covered buildings to
+measure and report direct emissions data to the Department annually beginning in
+2025.
 
-(c) (1) On or before June 1, 2023, the Department shall adopt regulations to implement this section.
+(c) (1) On or before June 1, 2023, the Department shall adopt regulations
+to implement this section.
 
 (2) Regulations adopted under this section shall:
 
-(i) Subject to items (ii), (iii), (iv), and (v) of this paragraph, include energy use intensity targets by building type;
+(i) Subject to items (ii), (iii), (iv), and (v) of this paragraph,
+include energy use intensity targets by building type;
 
-(ii) As necessary, include special provisions or exceptions to account for:
+(ii) As necessary, include special provisions or exceptions to
+account for:
 
 1. Building age;
 
 2. Regional differences;
 
-3. The unique needs of particular building or occupancy types, including health care facilities, laboratories, assisted living and nursing facilities, military buildings, critical infrastructure, and buildings used in life sciences as defined in § 3–201 of the Economic Development Article;
+3. The unique needs of particular building or occupancy
+types, including health care facilities, laboratories, assisted living and nursing facilities,
+military buildings, critical infrastructure, and buildings used in life sciences as defined
+in § 3–201 of the Economic Development Article;
 
-4. The use of district energy systems and biofuels by covered buildings;
+4. The use of district energy systems and biofuels by
+covered buildings;
 
-5. Crediting the generation of on–site renewable energy by covered buildings toward their energy use intensity targets;
+5. Crediting the generation of on–site renewable energy
+by covered buildings toward their energy use intensity targets;
 
-6. Crediting the greenhouse gas reduction impact of the on–site use of biomethane;
+6. Crediting the greenhouse gas reduction impact of the
+on–site use of biomethane;
 
-7. Excluding the energy use and greenhouse gas emissions related to the production of steam for sterilization in a health care facility, laboratory, assisted living and nursing facility, military building, or building used in life sciences; and
+7. Excluding the energy use and greenhouse gas
+emissions related to the production of steam for sterilization in a health care facility,
+laboratory, assisted living and nursing facility, military building, or building used in life
+sciences; and
 
-8. Excluding the energy use and greenhouse gas emissions related to the generation of emergency backup power at a health care facility, laboratory, assisted living and nursing facility, military building, critical infrastructure, or building used in life sciences;
+8. Excluding the energy use and greenhouse gas
+emissions related to the generation of emergency backup power at a health care facility,
+laboratory, assisted living and nursing facility, military building, critical infrastructure,
+or building used in life sciences;
 
 (iii) Consider the needs of the owners of covered buildings who:
 
-1. Are not responsible for the design, modification, fixtures, or equipment of commercial tenants;
+1. Are not responsible for the design, modification,
+fixtures, or equipment of commercial tenants;
 
-2. Do not have access to or control over building energy systems that are used or controlled by commercial tenants; or
+2. Do not have access to or control over building energy
+systems that are used or controlled by commercial tenants; or
 
-3. Own buildings occupied by commercial tenants who are responsible for all maintenance of and repairs to the buildings;
+3. Own buildings occupied by commercial tenants who are
+responsible for all maintenance of and repairs to the buildings;
 
-(iv) Subject to paragraph [(3)] (3)(I) of this subsection, exempt from energy use intensity targets a covered building that contains an area designed, built, and operated as a permanent sensitive compartmented information facility and is operated by an agency or contractor of:
+(iv) Subject to paragraph [(3)] (3)(I) of this subsection, exempt
+from energy use intensity targets a covered building that contains an area designed,
+built, and operated as a permanent sensitive compartmented information facility and is
+operated by an agency or contractor of:
 
 1. The U.S. General Services Administration;
 
@@ -436,47 +616,88 @@ D. Any other U.S. intelligence agency; or
 
 3. The State;
 
-(v) Exempt an owner of a covered building from energy use intensity reporting requirements if:
+(v) Exempt an owner of a covered building from energy use
+intensity reporting requirements if:
 
-1. The covered building meets the criteria under item (iv) of this paragraph; and
+1. The covered building meets the criteria under item (iv)
+of this paragraph; and
 
-2. In circumstances where tenant authorization is required, the tenant or occupant does not provide energy use information to the owner of the covered building due to concerns about the confidentiality of the building’s secure area;
+2. In circumstances where tenant authorization is
+required, the tenant or occupant does not provide energy use information to the owner
+of the covered building due to concerns about the confidentiality of the building’s secure
+area;
 
-(vi) Provide maximum flexibility to the owners of covered buildings to comply with building energy performance standards;
+(vi) Provide maximum flexibility to the owners of covered
+buildings to comply with building energy performance standards;
 
-(vii) Subject to paragraph (3) of this subsection, include an alternative compliance pathway allowing the owner of a covered building to pay a fee for greenhouse gas emissions attributable to the building’s failure to meet direct greenhouse gas emissions reduction targets;
+(vii) Subject to paragraph (3) of this subsection, include an
+alternative compliance pathway allowing the owner of a covered building to pay a fee
+for greenhouse gas emissions attributable to the building’s failure to meet direct
+greenhouse gas emissions reduction targets;
 
-(viii) To the extent authorized by law, include financial incentives recommended by the Building Energy Transition Implementation Task Force; and
+(viii) To the extent authorized by law, include financial incentives
+recommended by the Building Energy Transition Implementation Task Force; and
 
-(ix) Include an annual reporting fee of $100 per covered building, adjusted for inflation, to cover the administrative costs of the program.
+(ix) Include an annual reporting fee of $100 per covered building,
+adjusted for inflation, to cover the administrative costs of the program.
 
-(3) (I) The Department may not set an alternative compliance fee that is less than the social cost of greenhouse gases adopted by the Department or the U.S. Environmental Protection Agency.
+(3) (I) The Department may not set an alternative compliance fee
+that is less than the social cost of greenhouse gases adopted by the Department or the
+U.S. Environmental Protection Agency.
 
-(II) FOR A COVERED BUILDING THAT USES ONLY ELECTRICITY THAT IS GENERATED ON–SITE AND IS NOT INTERCONNECTED WITH THE ELECTRIC SYSTEM:
+(II) FOR A COVERED BUILDING THAT USES ONLY
+ELECTRICITY THAT IS GENERATED ON–SITE AND IS NOT INTERCONNECTED WITH
+THE ELECTRIC SYSTEM:
 
-1. THE ALTERNATIVE COMPLIANCE FEE FOR THE BUILDING’S BASELINE EMISSIONS IS THE AVERAGE OF THE REGIONAL GREENHOUSE GAS INITIATIVE CLEARING PRICE FOR THE IMMEDIATELY PRECEDING YEAR; AND
+1. THE ALTERNATIVE COMPLIANCE FEE FOR THE
+BUILDING’S BASELINE EMISSIONS IS THE AVERAGE OF THE REGIONAL
+GREENHOUSE GAS INITIATIVE CLEARING PRICE FOR THE IMMEDIATELY
+PRECEDING YEAR; AND
 
-2. THE ALTERNATIVE COMPLIANCE FEE FOR EXCESS EMISSIONS, IF THE BUILDING’S EXCESS EMISSIONS ARE GREATER THAN ZERO, IS THE ALTERNATIVE COMPLIANCE FEE SET BY THE DEPARTMENT UNDER SUBPARAGRAPH (I) OF THIS SUBSECTION.
+2. THE ALTERNATIVE COMPLIANCE FEE FOR EXCESS
+EMISSIONS, IF THE BUILDING’S EXCESS EMISSIONS ARE GREATER THAN ZERO, IS
+THE ALTERNATIVE COMPLIANCE FEE SET BY THE DEPARTMENT UNDER
+SUBPARAGRAPH (I) OF THIS SUBSECTION.
 
-(4) (i) Subject to subparagraph (ii) of this paragraph, the Department shall certify a building energy performance standards program adopted by a county administering a building energy performance standards program on or before March 1, 2025, and waive the requirement for covered buildings in the county to comply with the statewide program adopted under this section.
+(4) (i) Subject to subparagraph (ii) of this paragraph, the
+Department shall certify a building energy performance standards program adopted by
+a county administering a building energy performance standards program on or before
+March 1, 2025, and waive the requirement for covered buildings in the county to comply
+with the statewide program adopted under this section.
 
-(ii) A county administering a building energy performance standards program certified by the Department under subparagraph (i) of this paragraph may take appropriate actions to enforce the standards, including:
+(ii) A county administering a building energy performance
+standards program certified by the Department under subparagraph (i) of this
+paragraph may take appropriate actions to enforce the standards, including:
 
-1. Establishing alternative compliance pathways for complying with energy use intensity and direct greenhouse gas emissions requirements established in the standards;
+1. Establishing alternative compliance pathways for
+complying with energy use intensity and direct greenhouse gas emissions requirements
+established in the standards;
 
-2. Imposing and collecting alternative compliance fees up to the same amount and in the same manner allowed by the Department under this section; and
+2. Imposing and collecting alternative compliance fees up
+to the same amount and in the same manner allowed by the Department under this
+section; and
 
-3. Imposing and collecting penalties up to the same amount and in the same manner allowed by the Department under § 2–610 of this title.
+3. Imposing and collecting penalties up to the same
+amount and in the same manner allowed by the Department under § 2–610 of this title.
 
-(5) Nothing in this section shall preclude a county administering a building energy performance standards program certified by the Department under paragraph (4)(i) of this subsection from:
+(5) Nothing in this section shall preclude a county administering a
+building energy performance standards program certified by the Department under
+paragraph (4)(i) of this subsection from:
 
-(i) Adopting building energy performance standards for buildings that are not covered buildings under the statewide program adopted under this section; or
+(i) Adopting building energy performance standards for
+buildings that are not covered buildings under the statewide program adopted under
+this section; or
 
-(ii) Modifying an adopted building performance standards program.
+(ii) Modifying an adopted building performance standards
+program.
 
-(d) Electric companies and gas companies shall provide energy data, including whole–building and aggregate data, to the owners of covered buildings for benchmarking purposes.
+(d) Electric companies and gas companies shall provide energy data, including
+whole–building and aggregate data, to the owners of covered buildings for
+benchmarking purposes.
 
-(e) In calculating the statewide standards developed by the Department under this section, an owner of a covered building may not consider greenhouse gas emissions or energy use by a commercial tenant of the covered building that:
+(e) In calculating the statewide standards developed by the Department under
+this section, an owner of a covered building may not consider greenhouse gas emissions
+or energy use by a commercial tenant of the covered building that:
 
 (1) Is a food service facility as defined in COMAR 10.15.03.02; and
 
@@ -488,7 +709,10 @@ Article – Housing and Community Development
 
 (a) The Department shall:
 
-(10) develop and implement a weatherization program in accordance with Title 4 of this article and administer the low–income weatherization component of the electric universal service program in accordance with [§ 7–512.1 of the Public Utilities Article] § 5–5A–08 OF THE HUMAN SERVICES ARTICLE.
+(10) develop and implement a weatherization program in accordance
+with Title 4 of this article and administer the low–income weatherization component of
+the electric universal service program in accordance with [§ 7–512.1 of the Public
+Utilities Article] § 5–5A–08 OF THE HUMAN SERVICES ARTICLE.
 
 Article – Human Services
 
@@ -506,15 +730,20 @@ Article – Human Services
 
 (B) “COMMISSION” MEANS THE PUBLIC SERVICE COMMISSION.
 
-[(b)] (C) “Energy emergency” means a lack of fuel or the imminent discontinuation of energy services supplied by a fuel vendor or utility vendor that will endanger health, safety, or welfare.
+[(b)] (C) “Energy emergency” means a lack of fuel or the imminent
+discontinuation of energy services supplied by a fuel vendor or utility vendor that will
+endanger health, safety, or welfare.
 
-[(c)] (D) “Fuel vendor” means a person that distributes, transports, produces, or offers for sale coal products, fuel oil, kerosene, bottled gas, propane, or wood for fuel use or consumption in the State.
+[(c)] (D) “Fuel vendor” means a person that distributes, transports, produces,
+or offers for sale coal products, fuel oil, kerosene, bottled gas, propane, or wood for fuel
+use or consumption in the State.
 
 [(d)] (E) “Office” means the Office of Home Energy Programs.
 
 [(e)] (F) “Program” means the Energy Assistance Program.
 
-[(f)] (G) “Utility vendor” means a person that distributes, transports, or produces natural gas or electricity for use or consumption in the State.
+[(f)] (G) “Utility vendor” means a person that distributes, transports, or
+produces natural gas or electricity for use or consumption in the State.
 
 5–5A–02.
 
@@ -526,185 +755,347 @@ The purpose of the Office is to carry out this subtitle.
 
 5–5A–08.
 
-(a) (1) (I) [The Commission shall establish] THERE IS an electric universal service program [to assist electric customers with annual incomes at or below 200% of the federal poverty level] IN THE OFFICE.
+(a) (1) (I) [The Commission shall establish] THERE IS an electric
+universal service program [to assist electric customers with annual incomes at or below
+200% of the federal poverty level] IN THE OFFICE.
 
-(II) THE OFFICE SHALL IMPLEMENT AND ADMINISTER THE ELECTRIC UNIVERSAL SERVICE PROGRAM.
+(II) THE OFFICE SHALL IMPLEMENT AND ADMINISTER THE
+ELECTRIC UNIVERSAL SERVICE PROGRAM.
 
-(III) THE PURPOSE OF THE ELECTRIC UNIVERSAL SERVICE PROGRAM IS TO ASSIST ELECTRIC CUSTOMERS WITH ANNUAL INCOMES AT OR BELOW 200% OF THE FEDERAL POVERTY LEVEL.
+(III) THE PURPOSE OF THE ELECTRIC UNIVERSAL SERVICE
+PROGRAM IS TO ASSIST ELECTRIC CUSTOMERS WITH ANNUAL INCOMES AT OR
+BELOW 200% OF THE FEDERAL POVERTY LEVEL.
 
-(2) The components of the electric universal service program shall include:
+(2) The components of the electric universal service program shall
+include:
 
 (i) bill assistance;
 
 (ii) low–income residential weatherization; and
 
-(iii) the retirement of arrearages for electric customers who have not received assistance in retiring arrearages under the ELECTRIC universal service program within the preceding 5 fiscal years.
+(iii) the retirement of arrearages for electric customers who have
+not received assistance in retiring arrearages under the ELECTRIC universal service
+program within the preceding 5 fiscal years.
 
-(3) The Department of Housing and Community Development is responsible for administering the low–income residential weatherization component of the electric universal service program.
+(3) The Department of Housing and Community Development is
+responsible for administering the low–income residential weatherization component of
+the electric universal service program.
 
-(4) [(i) The Department of Human Services, through the Office of Home Energy Programs, is responsible for administering the bill assistance and the arrearage retirement components of the electric universal service program.
+(4) [(i) The Department of Human Services, through the Office of
+Home Energy Programs, is responsible for administering the bill assistance and the
+arrearage retirement components of the electric universal service program.
 
 (ii)] (I) The [Department of Human Services] OFFICE may:
 
-1. establish minimum and maximum benefits available to an electric customer under the bill assistance and arrearage retirement components; and
+1. establish minimum and maximum benefits available to
+an electric customer under the bill assistance and arrearage retirement components;
+and
 
-2. coordinate benefits under the electric universal service program with benefits under the Maryland Energy Assistance Program and other available energy assistance programs.
+2. coordinate benefits under the electric universal service
+program with benefits under the Maryland Energy Assistance Program and other
+available energy assistance programs.
 
-(II) THE OFFICE SHALL AUTHORIZE BENEFITS UNDER THE ELECTRIC UNIVERSAL SERVICE PROGRAM FOR AN ELECTRIC CUSTOMER WHO DOES NOT MEET THE ELIGIBILITY REQUIREMENTS FOR THE FEDERAL LOW INCOME HOME ENERGY ASSISTANCE PROGRAM.
+(II) THE OFFICE SHALL AUTHORIZE BENEFITS UNDER THE
+ELECTRIC UNIVERSAL SERVICE PROGRAM FOR AN ELECTRIC CUSTOMER WHO
+DOES NOT MEET THE ELIGIBILITY REQUIREMENTS FOR THE FEDERAL LOW
+INCOME HOME ENERGY ASSISTANCE PROGRAM.
 
-(5) The [Department of Human Services] OFFICE may, with input from a panel or roundtable of interested parties, contract to assist in administering the bill assistance and the arrearage retirement components of the electric universal service program.
+(5) The [Department of Human Services] OFFICE may, with input from
+a panel or roundtable of interested parties, contract to assist in administering the bill
+assistance and the arrearage retirement components of the electric universal service
+program.
 
-(6) The Commission has oversight responsibility for the bill assistance and the arrearage retirement components of the electric universal service program and any other funds expended under this section.
+(6) The Commission has oversight responsibility for the bill assistance
+and the arrearage retirement components of the electric universal service program and
+any other funds expended under this section.
 
-(7) In a specific case, the electric universal service program may waive the income eligibility limitation under paragraph (1) of this subsection in order to provide assistance to an electric customer who would qualify for a similar waiver under [the Maryland Energy Assistance Program established under Title 5, Subtitle 5A of the Human Services Article] ANOTHER PROGRAM ESTABLISHED UNDER THIS SUBTITLE.
+(7) In a specific case, the electric universal service program may waive
+the income eligibility limitation under paragraph (1) of this subsection in order to
+provide assistance to an electric customer who would qualify for a similar waiver under
+[the Maryland Energy Assistance Program established under Title 5, Subtitle 5A of the
+Human Services Article] ANOTHER PROGRAM ESTABLISHED UNDER THIS
+SUBTITLE.
 
-(8) (i) If an applicant for bill assistance or arrearage retirement is to be denied due to deficient documentation, the [Department of Human Services] OFFICE shall:
+(8) (i) If an applicant for bill assistance or arrearage retirement is
+to be denied due to deficient documentation, the [Department of Human Services]
+OFFICE shall:
 
-1. promptly provide notice of the deficiency to the applicant; and
+1. promptly provide notice of the deficiency to the
+applicant; and
 
-2. afford the applicant ample opportunity of not less than 3 months to cure the deficiency.
+2. afford the applicant ample opportunity of not less than
+3 months to cure the deficiency.
 
-(ii) An electric company may not begin the process to terminate service to an applicant while the applicant is curing a deficiency under this paragraph.
+(ii) An electric company may not begin the process to terminate
+service to an applicant while the applicant is curing a deficiency under this paragraph.
 
-(9) Notwithstanding paragraph (2)(iii) of this subsection, any assistance received for arrearage retirement by a customer in calendar years 2020 and 2021 may not be counted toward the limitation on the number of times the customer may receive assistance for arrearage retirement.
+(9) Notwithstanding paragraph (2)(iii) of this subsection, any
+assistance received for arrearage retirement by a customer in calendar years 2020 and
+2021 may not be counted toward the limitation on the number of times the customer
+may receive assistance for arrearage retirement.
 
-(b) (1) All customers shall contribute to the funding of the electric universal service program through a charge collected by each electric company.
+(b) (1) All customers shall contribute to the funding of the electric universal
+service program through a charge collected by each electric company.
 
-(2) The Commission shall determine a fair and equitable allocation for collecting the charges among all customer classes pursuant to subsection (e) of this section.
+(2) The Commission shall determine a fair and equitable allocation for
+collecting the charges among all customer classes pursuant to subsection (e) of this
+section.
 
-(3) Except as provided in paragraph (4) of this subsection, in accordance with subsection (f)(6) of this section, any unexpended bill assistance and arrearage retirement funds returned to customers under subsection (f) of this section shall be returned to each customer class as a credit in the same proportion that the customer class contributed charges to the fund.
+(3) Except as provided in paragraph (4) of this subsection, in accordance
+with subsection (f)(6) of this section, any unexpended bill assistance and arrearage
+retirement funds returned to customers under subsection (f) of this section shall be
+returned to each customer class as a credit in the same proportion that the customer
+class contributed charges to the fund.
 
-(4) The Department [of Human Services] shall expend any unexpended bill assistance and arrearage funds that were collected in fiscal years 2010 through 2017, in excess of the total amount authorized under subsection (e) of this section, for one or more of the following purposes:
+(4) The Department [of Human Services] shall expend any unexpended
+bill assistance and arrearage funds that were collected in fiscal years 2010 through
+2017, in excess of the total amount authorized under subsection (e) of this section, for
+one or more of the following purposes:
 
-(i) bill assistance and the retirement of arrearages for customers who are eligible to receive assistance at the time services are provided;
+(i) bill assistance and the retirement of arrearages for customers
+who are eligible to receive assistance at the time services are provided;
 
-(ii) targeted and enhanced low–income residential weatherization designed to remediate households that are considered ineligible to participate in other State energy efficiency programs due to significant health and safety hazards;
+(ii) targeted and enhanced low–income residential
+weatherization designed to remediate households that are considered ineligible to
+participate in other State energy efficiency programs due to significant health and
+safety hazards;
 
-(iii) an arrearage management program for low–income customers in arrears, including providing credits or matching payments for customers who make timely payments on current bills; or
+(iii) an arrearage management program for low–income
+customers in arrears, including providing credits or matching payments for customers
+who make timely payments on current bills; or
 
 (iv) an arrearage prevention program for low–income customers.
 
-(5) An electric company shall recover electric universal service program costs in accordance with § 7–512 of [this subtitle] THE PUBLIC UTILITIES ARTICLE.
+(5) An electric company shall recover electric universal service program
+costs in accordance with § 7–512 of [this subtitle] THE PUBLIC UTILITIES ARTICLE.
 
-(6) As determined by the Office [of Home Energy Programs], bill assistance payments to an electric company may be on a monthly basis for each customer.
+(6) As determined by the Office [of Home Energy Programs], bill
+assistance payments to an electric company may be on a monthly basis for each
+customer.
 
-(7) The Commission shall determine the allocation of the electric universal service charge among the generation, transmission, and distribution rate components of all classes.
+(7) The Commission shall determine the allocation of the electric
+universal service charge among the generation, transmission, and distribution rate
+components of all classes.
 
-(8) The Commission may not assess the electric universal service surcharge on a per kilowatt–hour basis.
+(8) The Commission may not assess the electric universal service
+surcharge on a per kilowatt–hour basis.
 
-(c) (1) On or before January 1 of each year, the Commission shall report, subject to § 2–1257 of the State Government Article, to the General Assembly on the electric universal service program, including:
+(c) (1) On or before January 1 of each year, the Commission shall report,
+subject to § 2–1257 of the State Government Article, to the General Assembly on the
+electric universal service program, including:
 
-(i) subject to subsection (e) of this section, a recommendation on the total amount of funds for the ELECTRIC UNIVERSAL SERVICE program for the following fiscal year based on:
+(i) subject to subsection (e) of this section, a recommendation on
+the total amount of funds for the ELECTRIC UNIVERSAL SERVICE program for the
+following fiscal year based on:
 
-1. the level of participation in and the amounts expended on bill assistance and arrearage retirement during the preceding fiscal year;
+1. the level of participation in and the amounts expended
+on bill assistance and arrearage retirement during the preceding fiscal year;
 
-2. how bill assistance and arrearage retirement payments were calculated during the preceding fiscal year;
+2. how bill assistance and arrearage retirement payments
+were calculated during the preceding fiscal year;
 
-3. the projected needs for the bill assistance and the arrearage retirement components for the next fiscal year; and
+3. the projected needs for the bill assistance and the
+arrearage retirement components for the next fiscal year; and
 
-4. the amount of any bill assistance or arrearage retirement surplus carried over in the electric universal service program fund under subsection (f)(6)(i) of this section;
+4. the amount of any bill assistance or arrearage
+retirement surplus carried over in the electric universal service program fund under
+subsection (f)(6)(i) of this section;
 
-(ii) for bill assistance, the total amount of need, as determined by the Commission, for electric customers with annual incomes at or below 175% of the federal poverty level and the basis for this determination;
+(ii) for bill assistance, the total amount of need, as determined by
+the Commission, for electric customers with annual incomes at or below 175% of the
+federal poverty level and the basis for this determination;
 
-(iii) the amount of funds needed, as determined by the Commission, to retire arrearages for electric customers who have not received assistance in retiring arrearages under the electric universal service program within the preceding 7 fiscal years, and the basis for this determination;
+(iii) the amount of funds needed, as determined by the
+Commission, to retire arrearages for electric customers who have not received
+assistance in retiring arrearages under the electric universal service program within
+the preceding 7 fiscal years, and the basis for this determination;
 
-(iv) the amount of funds needed, as determined by the Commission, for bill assistance and arrearage retirement, respectively, for customers for whom income limitations may be waived under subsection (a)(7) of this section, and the basis for each determination;
+(iv) the amount of funds needed, as determined by the
+Commission, for bill assistance and arrearage retirement, respectively, for customers
+for whom income limitations may be waived under subsection (a)(7) of this section, and
+the basis for each determination;
 
-(v) the impact on customers’ rates, including the allocation among customer classes, from collecting the total amount recommended by the Commission under item (i) of this paragraph; and
+(v) the impact on customers’ rates, including the allocation
+among customer classes, from collecting the total amount recommended by the
+Commission under item (i) of this paragraph; and
 
-(vi) the impact of using other federal poverty level benchmarks on costs and the effectiveness of the electric universal service program.
+(vi) the impact of using other federal poverty level benchmarks on
+costs and the effectiveness of the electric universal service program.
 
-(2) (i) To assist the Commission in preparing its recommendations under paragraph (1) of this subsection, the Office [of Home Energy Programs] shall report to the Commission each year on:
+(2) (i) To assist the Commission in preparing its recommendations
+under paragraph (1) of this subsection, the Office [of Home Energy Programs] shall
+report to the Commission each year on:
 
-1. the number of customers and the amount of distributions made to fuel customers under the Maryland Energy Assistance Program established under [Title 5, Subtitle 5A of the Human Services Article] THIS SUBTITLE, identified by funding source and fuel source;
+1. the number of customers and the amount of
+distributions made to fuel customers under the Maryland Energy Assistance Program
+established under [Title 5, Subtitle 5A of the Human Services Article] THIS SUBTITLE,
+identified by funding source and fuel source;
 
-2. the cost of outreach and education materials provided by the Office [of Home Energy Programs] for the electric universal service program; and
+2. the cost of outreach and education materials provided
+by the Office [of Home Energy Programs] for the electric universal service program; and
 
-3. the amount of money that the Department [of Human Services] receives, and is projected to receive, for low–income energy assistance from:
+3. the amount of money that the Department [of Human
+Services] receives, and is projected to receive, for low–income energy assistance from:
 
-A. the Maryland Strategic Energy Investment Fund under § 9–20B–05 of the State Government Article;
+A. the Maryland Strategic Energy Investment Fund
+under § 9–20B–05 of the State Government Article;
 
-B. with respect to electric customers only, the Maryland Energy Assistance Program; and
+B. with respect to electric customers only, the Maryland
+Energy Assistance Program; and
 
 C. any other federal, State, local, or private source.
 
-(ii) The Office [of Home Energy Programs] may satisfy the reporting requirement of subparagraph (i)1 of this paragraph by providing the Commission with a copy of material that contains the required information and that the Office [of Home Energy Programs] submits to the federal government.
+(ii) The Office [of Home Energy Programs] may satisfy the
+reporting requirement of subparagraph (i)1 of this paragraph by providing the
+Commission with a copy of material that contains the required information and that the
+Office [of Home Energy Programs] submits to the federal government.
 
-(iii) The Commission shall include the information provided by the Office [of Home Energy Programs] under subparagraph (i) of this paragraph in its report to the General Assembly under paragraph (1) of this subsection.
+(iii) The Commission shall include the information provided by
+the Office [of Home Energy Programs] under subparagraph (i) of this paragraph in its
+report to the General Assembly under paragraph (1) of this subsection.
 
-(3) Subject to subsection (d)(2) of this section, the Commission shall include the information provided by the Department of Housing and Community Development under subsection (d)(1) of this section in its report to the General Assembly under paragraph (1) of this subsection.
+(3) Subject to subsection (d)(2) of this section, the Commission shall
+include the information provided by the Department of Housing and Community
+Development under subsection (d)(1) of this section in its report to the General Assembly
+under paragraph (1) of this subsection.
 
-(4) The electric universal service program shall be subject to audit by the Office of Legislative Audits in accordance with §§ 2–1220 through 2–1227 of the State Government Article.
+(4) The electric universal service program shall be subject to audit by
+the Office of Legislative Audits in accordance with §§ 2–1220 through 2–1227 of the
+State Government Article.
 
-(d) (1) On or before January 1 of each year, the Department of Housing and Community Development shall report, in accordance with § 2–1257 of the State Government Article, to the General Assembly on the low–income residential weatherization component of the electric universal service program, including:
+(d) (1) On or before January 1 of each year, the Department of Housing and
+Community Development shall report, in accordance with § 2–1257 of the State
+Government Article, to the General Assembly on the low–income residential
+weatherization component of the electric universal service program, including:
 
-(i) the amount of funds expended during the preceding fiscal year;
+(i) the amount of funds expended during the preceding fiscal
+year;
 
-(ii) the level of participation during the preceding fiscal year, including the number of households served in each area of the State; and
+(ii) the level of participation during the preceding fiscal year,
+including the number of households served in each area of the State; and
 
-(iii) the types of projects, including the average cost per unit, provided to households during the preceding fiscal year.
+(iii) the types of projects, including the average cost per unit,
+provided to households during the preceding fiscal year.
 
-(2) The Department of Housing and Community Development may satisfy the reporting requirement under paragraph (1) of this subsection by requesting the Commission to include the information in the Commission’s report required under subsection (c) of this section and providing the information to the Commission by the date specified by the Commission.
+(2) The Department of Housing and Community Development may
+satisfy the reporting requirement under paragraph (1) of this subsection by requesting
+the Commission to include the information in the Commission’s report required under
+subsection (c) of this section and providing the information to the Commission by the
+date specified by the Commission.
 
-(e) The total amount of funds to be collected for the electric universal service program each year shall be $37 million, allocated in the following manner:
+(e) The total amount of funds to be collected for the electric universal service
+program each year shall be $37 million, allocated in the following manner:
 
-(1) $27.4 million shall be collected from the industrial and commercial classes; and
+(1) $27.4 million shall be collected from the industrial and commercial
+classes; and
 
 (2) $9.6 million shall be collected from the residential class.
 
-(f) (1) In this subsection, “fund” means the electric universal service program fund.
+(f) (1) In this subsection, “fund” means the electric universal service
+program fund.
 
 (2) There is an electric universal service program fund.
 
-(3) (i) 1. The Comptroller shall collect the revenue collected by electric companies under subsection (b) of this section and place the revenue into the fund.
+(3) (i) 1. The Comptroller shall collect the revenue collected by
+electric companies under subsection (b) of this section and place the revenue into the
+fund.
 
-2. The General Assembly may appropriate funds supplemental to the funds collected under subsubparagraph 1 of this subparagraph.
+2. The General Assembly may appropriate funds
+supplemental to the funds collected under subsubparagraph 1 of this subparagraph.
 
-(ii) The fund is a continuing, nonlapsing fund that is not subject to § 7–302 of the State Finance and Procurement Article.
+(ii) The fund is a continuing, nonlapsing fund that is not subject
+to § 7–302 of the State Finance and Procurement Article.
 
-(iii) The purpose of the fund is to assist electric customers as provided in subsection (a)(1) of this section.
+(iii) The purpose of the fund is to assist electric customers as
+provided in subsection (a)(1) of this section.
 
-(4) The Department [of Human Services], with oversight by the Commission, shall disburse the bill assistance and arrearage retirement funds in accordance with the provisions of this section.
+(4) The Department [of Human Services], with oversight by the
+Commission, shall disburse the bill assistance and arrearage retirement funds in
+accordance with the provisions of this section.
 
-(5) The Comptroller annually shall disburse up to $1,000,000 of low–income residential weatherization funds to the Department of Housing and Community Development, as provided in the State budget.
+(5) The Comptroller annually shall disburse up to $1,000,000 of
+low–income residential weatherization funds to the Department of Housing and
+Community Development, as provided in the State budget.
 
-(6) (i) At the end of a given fiscal year, any unexpended bill assistance and arrearage retirement funds that were collected for that fiscal year shall be retained in the fund and shall be made available for disbursement through the first 6 months of the next fiscal year to customers who:
+(6) (i) At the end of a given fiscal year, any unexpended bill
+assistance and arrearage retirement funds that were collected for that fiscal year shall
+be retained in the fund and shall be made available for disbursement through the first
+6 months of the next fiscal year to customers who:
 
-1. qualify for assistance from the fund during the given fiscal year;
+1. qualify for assistance from the fund during the given
+fiscal year;
 
-2. apply for assistance from the fund before the end of the given fiscal year; and
+2. apply for assistance from the fund before the end of the
+given fiscal year; and
 
-3. remain eligible for assistance at the time services are provided.
+3. remain eligible for assistance at the time services are
+provided.
 
-(ii) If the Commission determines that an extension is needed, the Commission may extend up to an additional 6 months the period in which unexpended bill assistance and arrearage retirement funds may be made available for disbursement under subparagraph (i) of this paragraph.
+(ii) If the Commission determines that an extension is needed,
+the Commission may extend up to an additional 6 months the period in which
+unexpended bill assistance and arrearage retirement funds may be made available for
+disbursement under subparagraph (i) of this paragraph.
 
-(iii) 1. Any bill assistance and arrearage retirement funds collected for a given fiscal year that are retained under subparagraph (i) of this paragraph and that remain unexpended at the end of the period allowed under subparagraphs (i) and (ii) of this paragraph shall be returned to each customer class in the proportion that the customer class contributed charges to the fund for the given fiscal year in the form of a credit toward the charge assessed in the following fiscal year.
+(iii) 1. Any bill assistance and arrearage retirement funds
+collected for a given fiscal year that are retained under subparagraph (i) of this
+paragraph and that remain unexpended at the end of the period allowed under
+subparagraphs (i) and (ii) of this paragraph shall be returned to each customer class in
+the proportion that the customer class contributed charges to the fund for the given
+fiscal year in the form of a credit toward the charge assessed in the following fiscal year.
 
-2. If the Commission determines that it is impractical to establish a rate credit for the amount to be returned for a given fiscal year to customers under subsubparagraph 1 of this subparagraph, the Commission:
+2. If the Commission determines that it is impractical to
+establish a rate credit for the amount to be returned for a given fiscal year to customers
+under subsubparagraph 1 of this subparagraph, the Commission:
 
-A. may defer the return for not more than 2 additional fiscal years; and
+A. may defer the return for not more than 2 additional
+fiscal years; and
 
-B. shall combine the returned amount for that fiscal year with amounts to be returned for the following fiscal years when calculating the rate credit for the final fiscal year of the period.
+B. shall combine the returned amount for that fiscal year
+with amounts to be returned for the following fiscal years when calculating the rate
+credit for the final fiscal year of the period.
 
-(g) (1) If a party to a merger or acquisition of an electric company or an affiliate of an electric company is required to distribute a credit to the customers in the electric company’s service territory under an agreement with the Commission in connection with the merger or acquisition, the Commission shall consider the adequacy of the current funding of the electric universal service program in providing assistance to customers who qualify under this section.
+(g) (1) If a party to a merger or acquisition of an electric company or an
+affiliate of an electric company is required to distribute a credit to the customers in the
+electric company’s service territory under an agreement with the Commission in
+connection with the merger or acquisition, the Commission shall consider the adequacy
+of the current funding of the electric universal service program in providing assistance
+to customers who qualify under this section.
 
-(2) Any funds deposited into the electric universal service program fund as a result of an agreement with the Commission in connection with a merger or acquisition of an electric company or an affiliate of an electric company are in addition to, and may not substitute for, funds collected under subsection (e) of this section.
+(2) Any funds deposited into the electric universal service program fund
+as a result of an agreement with the Commission in connection with a merger or
+acquisition of an electric company or an affiliate of an electric company are in addition
+to, and may not substitute for, funds collected under subsection (e) of this section.
 
-(h) (1) An arrearage prevention program under subsection (b)(4)(iv) of this section is intended to prevent or reduce arrearages for low–income customers who have participated in a low–income residential weatherization program.
+(h) (1) An arrearage prevention program under subsection (b)(4)(iv) of this
+section is intended to prevent or reduce arrearages for low–income customers who have
+participated in a low–income residential weatherization program.
 
-(2) (i) The ARREARAGE PREVENTION program is intended as a one–time grant of money to establish ongoing arrearage prevention activities in the State.
+(2) (i) The ARREARAGE PREVENTION program is intended as a
+one–time grant of money to establish ongoing arrearage prevention activities in the
+State.
 
-(ii) The Department [of Human Services], in consultation with the Commission, will select for the ARREARAGE PREVENTION program up to two public or private entities as program recipients to administer the program.
+(ii) The Department [of Human Services], in consultation with
+the Commission, will select for the ARREARAGE PREVENTION program up to two
+public or private entities as program recipients to administer the program.
 
-(iii) At least one ARREARAGE PREVENTION program recipient must primarily serve customers in a major urban area of the State.
+(iii) At least one ARREARAGE PREVENTION program recipient
+must primarily serve customers in a major urban area of the State.
 
-(3) [A] AN ARREARAGE PREVENTION program recipient must demonstrate significant efforts to:
+(3) [A] AN ARREARAGE PREVENTION program recipient must
+demonstrate significant efforts to:
 
-(i) secure additional private investment in rooftop solar installation, including the use of ARREARAGE PREVENTION program money for credit enhancement, direct project support, or support for program recipients and customers; and
+(i) secure additional private investment in rooftop solar
+installation, including the use of ARREARAGE PREVENTION program money for credit
+enhancement, direct project support, or support for program recipients and customers;
+and
 
-(ii) provide employment in solar installation to unemployed and underemployed individuals, with preference for those who reside in the local jurisdiction where the installations will occur.
+(ii) provide employment in solar installation to unemployed and
+underemployed individuals, with preference for those who reside in the local jurisdiction
+where the installations will occur.
 
-(4) The ARREARAGE PREVENTION program may include the installation of rooftop solar electricity generation equipment after energy efficiency measures at the residential property have been completed.
+(4) The ARREARAGE PREVENTION program may include the
+installation of rooftop solar electricity generation equipment after energy efficiency
+measures at the residential property have been completed.
 
 Article – Local Government
 
@@ -714,23 +1105,31 @@ Article – Local Government
 
 (2) “Administration” means the Maryland Energy Administration.
 
-(3) “Residential energy storage system” means a system, on a residential customer’s side of the meter, used to store electrical energy, or mechanical, chemical, or thermal energy that was once electrical energy, for use as electrical energy at a later date or in a process that offsets electricity use at peak times.
+(3) “Residential energy storage system” means a system, on a
+residential customer’s side of the meter, used to store electrical energy, or mechanical,
+chemical, or thermal energy that was once electrical energy, for use as electrical energy
+at a later date or in a process that offsets electricity use at peak times.
 
-(4) “Residential solar energy system” means any configuration of solar energy devices that collects and distributes solar energy for the purpose of generating electricity and that has a single residential interconnection with the electrical grid.
+(4) “Residential solar energy system” means any configuration of solar
+energy devices that collects and distributes solar energy for the purpose of generating
+electricity and that has a single residential interconnection with the electrical grid.
 
-(5) “SOLAR PERMITTING FEE” MEANS A FEE EQUAL TO THE SUM OF ALL CHARGES IMPOSED BY A COUNTY OR MUNICIPALITY, INCLUDING CHARGES IMPOSED BY A PROVIDER OF SOLAR PERMITTING SOFTWARE, IN CONNECTION WITH AN APPLICATION FOR A RESIDENTIAL SOLAR ENERGY SYSTEM.
+(5) “SOLAR PERMITTING FEE” MEANS A FEE EQUAL TO THE SUM
+OF ALL CHARGES IMPOSED BY A COUNTY OR MUNICIPALITY, INCLUDING
+CHARGES IMPOSED BY A PROVIDER OF SOLAR PERMITTING SOFTWARE, IN
+CONNECTION WITH AN APPLICATION FOR A RESIDENTIAL SOLAR ENERGY
+SYSTEM.
 
-(6) “Solar permitting software” means[:
+(6) “Solar permitting software” means SOFTWARE OR A COMBINATION OF SOFTWARE THAT:
 
-(i) the most recent version of a web–based platform, developed by the National Renewable Energy Laboratory, that provides a standard portal for receiving and processing residential solar energy system and residential energy storage system permit information; or
+(I) AUTOMATES PLAN REVIEW FOR RESIDENTIAL SOLAR
+ENERGY SYSTEMS TO THE MOST RECENT VERSION OF, AS APPLICABLE:
 
-(ii) automated software that functions to support the tracking and approval of residential building permits for residential solar energy systems, residential energy storage systems, main electrical panel upgrades, and main electrical panel devices] SOFTWARE OR A COMBINATION OF SOFTWARE THAT:
+1. THE MARYLAND BUILDING PERFORMANCE
+STANDARDS;
 
-(I) AUTOMATES PLAN REVIEW FOR RESIDENTIAL SOLAR ENERGY SYSTEMS TO THE MOST RECENT VERSION OF, AS APPLICABLE:
-
-1. THE MARYLAND BUILDING PERFORMANCE STANDARDS;
-
-2. THE NATIONAL ELECTRICAL CODE, INCLUDING LEGALLY ADOPTED LOCAL AMENDMENTS; AND
+2. THE NATIONAL ELECTRICAL CODE, INCLUDING
+LEGALLY ADOPTED LOCAL AMENDMENTS; AND
 
 3. THE STATE FIRE PREVENTION CODE;
 
@@ -738,13 +1137,20 @@ Article – Local Government
 
 (III) ISSUES A CODE–COMPLIANT PERMIT;
 
-(IV) ACCEPTS ONLINE PAYMENTS FOR ANY PERMITTING FEES IMPOSED; AND
+(IV) ACCEPTS ONLINE PAYMENTS FOR ANY PERMITTING FEES
+IMPOSED; AND
 
-(V) ISSUES PERMITS OR PERMIT REVISIONS IMMEDIATELY ON RECEIPT OF ONLINE SUBMISSION OF PERMITTING FEE PAYMENTS, IF APPLICABLE.
+(V) ISSUES PERMITS OR PERMIT REVISIONS IMMEDIATELY
+ON RECEIPT OF ONLINE SUBMISSION OF PERMITTING FEE PAYMENTS, IF
+APPLICABLE.
 
 (b) This section applies to all counties and municipalities.
 
-(c) (1) Subject to subsection (d) of this section and except as provided in subsection (e) of this section, on or before August 1, [2025] 2027, each county and municipality shall implement solar permitting software for features supporting the [tracking] APPLICATION SUBMISSION, TRACKING, and approval of residential building permits for:
+(c) (1) Subject to subsection (d) of this section and except as provided in
+subsection (e) of this section, on or before August 1, [2025] 2027, each county and
+municipality shall implement solar permitting software for features supporting the
+[tracking] APPLICATION SUBMISSION, TRACKING, and approval of residential
+building permits for:
 
 [(1)] (I) residential solar energy systems;
 
@@ -756,355 +1162,615 @@ Article – Local Government
 
 (2) (I) A COUNTY OR MUNICIPALITY SHALL:
 
-1. SUBJECT TO PARAGRAPH (7) OF THIS SUBSECTION, COMPLETE A REMOTE OR IN–PERSON INSPECTION REQUIRED FOR A PROJECT PERMITTED BY SOLAR PERMITTING SOFTWARE WITHIN 5 BUSINESS DAYS AFTER RECEIPT OF A COMPLETE PERMIT APPLICATION, AS DETERMINED BY THE COUNTY OR MUNICIPALITY; AND
+1. SUBJECT TO PARAGRAPH (7) OF THIS SUBSECTION,
+COMPLETE A REMOTE OR IN–PERSON INSPECTION REQUIRED FOR A PROJECT
+PERMITTED BY SOLAR PERMITTING SOFTWARE WITHIN 5 BUSINESS DAYS AFTER
+RECEIPT OF A COMPLETE PERMIT APPLICATION, AS DETERMINED BY THE
+COUNTY OR MUNICIPALITY; AND
 
-2. MAKE PUBLICLY AVAILABLE FOR THE MOST RECENT PREVIOUS QUARTER FOR WHICH DATA IS AVAILABLE THE AVERAGE INSPECTION TIME FOR PROJECTS PERMITTED BY SOLAR PERMITTING SOFTWARE.
+2. MAKE PUBLICLY AVAILABLE FOR THE MOST
+RECENT PREVIOUS QUARTER FOR WHICH DATA IS AVAILABLE THE AVERAGE
+INSPECTION TIME FOR PROJECTS PERMITTED BY SOLAR PERMITTING
+SOFTWARE.
 
-(II) BEGINNING JULY 1, 2028, IF A COUNTY OR MUNICIPALITY HAS HAD AN AVERAGE IN–PERSON INSPECTION TIME THAT IS GREATER THAN 5 BUSINESS DAYS, BASED ON THE IMMEDIATELY PRECEDING 12–MONTH PERIOD, THE COUNTY OR MUNICIPALITY SHALL MAKE AVAILABLE AN OPTION FOR REMOTE INSPECTION THAT IS CAPABLE OF PROVIDING INSPECTION, SUBJECT TO PARAGRAPH (7) OF THIS SUBSECTION, WITHIN 5 BUSINESS DAYS AFTER RECEIPT OF A COMPLETE PERMIT APPLICATION.
+(II) BEGINNING JULY 1, 2028, IF A COUNTY OR
+MUNICIPALITY HAS HAD AN AVERAGE IN–PERSON INSPECTION TIME THAT IS
+GREATER THAN 5 BUSINESS DAYS, BASED ON THE IMMEDIATELY PRECEDING 12–
+MONTH PERIOD, THE COUNTY OR MUNICIPALITY SHALL MAKE AVAILABLE AN
+OPTION FOR REMOTE INSPECTION THAT IS CAPABLE OF PROVIDING INSPECTION,
+SUBJECT TO PARAGRAPH (7) OF THIS SUBSECTION, WITHIN 5 BUSINESS DAYS
+AFTER RECEIPT OF A COMPLETE PERMIT APPLICATION.
 
-(3) A COUNTY OR MUNICIPALITY SHALL REQUIRE AS PART OF A COMPLETE PERMIT APPLICATION:
+(3) A COUNTY OR MUNICIPALITY SHALL REQUIRE AS PART OF A
+COMPLETE PERMIT APPLICATION:
 
-(I) THIRD–PARTY CERTIFICATION THAT THE PROJECT HAS BEEN INSTALLED IN ACCORDANCE WITH ALL APPLICABLE NATIONAL ELECTRICAL CODE STANDARDS AND STATE AND LOCAL CODE AND SAFETY REQUIREMENTS; AND
+(I) THIRD–PARTY CERTIFICATION THAT THE PROJECT HAS
+BEEN INSTALLED IN ACCORDANCE WITH ALL APPLICABLE NATIONAL
+ELECTRICAL CODE STANDARDS AND STATE AND LOCAL CODE AND SAFETY
+REQUIREMENTS; AND
 
 (II) PLANS DEMONSTRATING:
 
-1. ADEQUATE ROOF ACCESS AND SETBACK REQUIREMENTS;
+1. ADEQUATE ROOF ACCESS AND SETBACK
+REQUIREMENTS;
 
-2. CLEARLY IDENTIFIED EMERGENCY SHUTOFF LOCATIONS; AND
+2. CLEARLY IDENTIFIED EMERGENCY SHUTOFF
+LOCATIONS; AND
 
-3. LABELING CONSISTENT WITH APPLICABLE SAFETY STANDARDS.
+3. LABELING CONSISTENT WITH APPLICABLE SAFETY
+STANDARDS.
 
-(4) A COUNTY OR MUNICIPALITY WITH AUTHORITY OVER PERMITTING A RESIDENTIAL SOLAR ENERGY SYSTEM MAY PERFORM, AT THE COUNTY’S OR MUNICIPALITY’S DISCRETION, AN IN–PERSON INSPECTION FOR A PERMIT APPLICATION SUBMITTED THROUGH SOLAR PERMITTING SOFTWARE:
+(4) A COUNTY OR MUNICIPALITY WITH AUTHORITY OVER
+PERMITTING A RESIDENTIAL SOLAR ENERGY SYSTEM MAY PERFORM, AT THE
+COUNTY’S OR MUNICIPALITY’S DISCRETION, AN IN–PERSON INSPECTION FOR A
+PERMIT APPLICATION SUBMITTED THROUGH SOLAR PERMITTING SOFTWARE:
 
 (I) IF REMOTE INSPECTION IS UNABLE TO BE COMPLETED;
 
 (II) ON REQUEST OR CONCERN OF AN INSPECTOR;
 
-(III) IF SUFFICIENT DATA IS NOT AVAILABLE TO EVALUATE THE PERMIT APPLICATION; OR
+(III) IF SUFFICIENT DATA IS NOT AVAILABLE TO EVALUATE
+THE PERMIT APPLICATION; OR
 
 (IV) IF A DOCUMENTED HEALTH OR SAFETY ISSUE EXISTS.
 
-(5) REVIEW OF A PERMIT APPLICATION TO INSTALL A RESIDENTIAL SOLAR ENERGY GENERATING SYSTEM THAT IS SUBMITTED USING SOLAR PERMITTING SOFTWARE SHALL BE LIMITED TO A DETERMINATION OF WHETHER THE APPLICATION MEETS ALL APPLICABLE NATIONAL ELECTRICAL CODE STANDARDS AND STATE AND LOCAL CODE, HEALTH, AND SAFETY REQUIREMENTS.
+(5) REVIEW OF A PERMIT APPLICATION TO INSTALL A
+RESIDENTIAL SOLAR ENERGY GENERATING SYSTEM THAT IS SUBMITTED USING
+SOLAR PERMITTING SOFTWARE SHALL BE LIMITED TO A DETERMINATION OF
+WHETHER THE APPLICATION MEETS ALL APPLICABLE NATIONAL ELECTRICAL
+CODE STANDARDS AND STATE AND LOCAL CODE, HEALTH, AND SAFETY
+REQUIREMENTS.
 
-(6) (I) SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, A COUNTY OR MUNICIPALITY USING SOLAR PERMITTING SOFTWARE MAY CONDUCT A MANUAL REVIEW OF SOFTWARE–APPROVED PERMITS TO:
+(6) (I) SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH,
+A COUNTY OR MUNICIPALITY USING SOLAR PERMITTING SOFTWARE MAY
+CONDUCT A MANUAL REVIEW OF SOFTWARE–APPROVED PERMITS TO:
 
 1. PERFORM QUALITY–ASSURANCE AUDITS;
 
-2. REVIEW SUBMISSIONS FLAGGED BY THE SOFTWARE;
+2. REVIEW SUBMISSIONS FLAGGED BY THE
+SOFTWARE;
 
-3. REVIEW PERMIT APPLICATIONS SUBMITTED BY A PERSON THAT HAS REPEATEDLY FAILED TO OBTAIN REQUIRED PERMITS OR REPEATEDLY FAILED TO PASS PERMIT INSPECTIONS;
+3. REVIEW PERMIT APPLICATIONS SUBMITTED BY A
+PERSON THAT HAS REPEATEDLY FAILED TO OBTAIN REQUIRED PERMITS OR
+REPEATEDLY FAILED TO PASS PERMIT INSPECTIONS;
 
-4. CONSIDER PERMIT APPLICATIONS WITH NONSTANDARD STRUCTURAL CONDITIONS; OR
+4. CONSIDER PERMIT APPLICATIONS WITH
+NONSTANDARD STRUCTURAL CONDITIONS; OR
 
-5. ADDRESS DOCUMENTED PUBLIC SAFETY CONCERNS.
+5. ADDRESS DOCUMENTED PUBLIC SAFETY
+CONCERNS.
 
-(II) MANUAL REVIEW OF SOFTWARE–APPROVED PERMITS SHALL BE COMPLETED WITHIN 5 BUSINESS DAYS AFTER THE PERMIT IS APPROVED.
+(II) MANUAL REVIEW OF SOFTWARE–APPROVED PERMITS
+SHALL BE COMPLETED WITHIN 5 BUSINESS DAYS AFTER THE PERMIT IS
+APPROVED.
 
-(7) (I) A COUNTY OR MUNICIPALITY MAY EXTEND THE DEADLINES ESTABLISHED UNDER PARAGRAPH (2) OF THIS SUBSECTION IF THE COUNTY OR MUNICIPALITY DETERMINES THAT AN EXTENSION IS NECESSARY TO ADDRESS DOCUMENTED SAFETY CONCERNS.
+(7) (I) A COUNTY OR MUNICIPALITY MAY EXTEND THE
+DEADLINES ESTABLISHED UNDER PARAGRAPH (2) OF THIS SUBSECTION IF THE
+COUNTY OR MUNICIPALITY DETERMINES THAT AN EXTENSION IS NECESSARY TO
+ADDRESS DOCUMENTED SAFETY CONCERNS.
 
-(II) ON REQUEST BY A COUNTY OR MUNICIPALITY, A FIRE MARSHAL OR DESIGNATED SAFETY COORDINATOR MAY REVIEW A PROJECT PERMITTED BY SOLAR PERMITTING SOFTWARE DURING AN EXTENSION UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH.
+(II) ON REQUEST BY A COUNTY OR MUNICIPALITY, A FIRE
+MARSHAL OR DESIGNATED SAFETY COORDINATOR MAY REVIEW A PROJECT
+PERMITTED BY SOLAR PERMITTING SOFTWARE DURING AN EXTENSION UNDER
+SUBPARAGRAPH (I) OF THIS PARAGRAPH.
 
-(8) (I) THIS PARAGRAPH APPLIES ONLY TO A RESIDENTIAL SOLAR ENERGY SYSTEM:
+(8) (I) THIS PARAGRAPH APPLIES ONLY TO A RESIDENTIAL
+SOLAR ENERGY SYSTEM:
 
-1. THAT IS OR WILL BE INSTALLED ON A RESIDENTIAL ROOFTOP; AND
+1. THAT IS OR WILL BE INSTALLED ON A RESIDENTIAL
+ROOFTOP; AND
 
-2. WITH A GENERATING CAPACITY OF LESS THAN 30 KILOWATTS, AS MEASURED BY THE ALTERNATING CURRENT RATING OF THE SYSTEM’S INVERTER.
+2. WITH A GENERATING CAPACITY OF LESS THAN 30
+KILOWATTS, AS MEASURED BY THE ALTERNATING CURRENT RATING OF THE
+SYSTEM’S INVERTER.
 
-(II) EXCEPT AS PROVIDED IN SUBPARAGRAPH (III) OF THIS PARAGRAPH, BEGINNING AUGUST 1, 2027, A COUNTY OR MUNICIPALITY MAY NOT SET A PERMITTING FEE FOR PERMITS ISSUED BY SOLAR PERMITTING SOFTWARE THAT EXCEEDS $500 FOR RESIDENTIAL SOLAR ENERGY SYSTEMS.
+(II) EXCEPT AS PROVIDED IN SUBPARAGRAPH (III) OF THIS
+PARAGRAPH, BEGINNING AUGUST 1, 2027, A COUNTY OR MUNICIPALITY MAY NOT
+SET A PERMITTING FEE FOR PERMITS ISSUED BY SOLAR PERMITTING SOFTWARE
+THAT EXCEEDS $500 FOR RESIDENTIAL SOLAR ENERGY SYSTEMS.
 
-(III) A THIRD–PARTY PAYMENT PROCESSING CHARGE MAY BE ASSESSED FOR PERMITS ISSUED BY SOLAR PERMITTING SOFTWARE IN ADDITION TO THE MAXIMUM PERMITTING FEE UNDER SUBPARAGRAPH (II) OF THIS PARAGRAPH.
+(III) A THIRD–PARTY PAYMENT PROCESSING CHARGE MAY BE
+ASSESSED FOR PERMITS ISSUED BY SOLAR PERMITTING SOFTWARE IN ADDITION
+TO THE MAXIMUM PERMITTING FEE UNDER SUBPARAGRAPH (II) OF THIS
+PARAGRAPH.
 
-(9) AN INSPECTOR MAY REVIEW CONSTRUCTION DOCUMENTS THAT ARE PRODUCED BY THE SOLAR PERMITTING SOFTWARE.
+(9) AN INSPECTOR MAY REVIEW CONSTRUCTION DOCUMENTS
+THAT ARE PRODUCED BY THE SOLAR PERMITTING SOFTWARE.
 
-(10) NOTWITHSTANDING ANY OTHER PROVISION OF THIS SUBSECTION, A RESIDENTIAL SOLAR ENERGY SYSTEM OR RESIDENTIAL ENERGY STORAGE SYSTEM MAY NOT BE PUT INTO OPERATION UNTIL THE COUNTY OR MUNICIPALITY PERFORMS A FINAL SAFETY INSPECTION TO CONFIRM THAT THE SYSTEM IS IN COMPLIANCE WITH ALL APPLICABLE NATIONAL ELECTRICAL CODE STANDARDS AND STATE AND LOCAL CODE, HEALTH, AND SAFETY REQUIREMENTS.
+(10) NOTWITHSTANDING ANY OTHER PROVISION OF THIS
+SUBSECTION, A RESIDENTIAL SOLAR ENERGY SYSTEM OR RESIDENTIAL ENERGY
+STORAGE SYSTEM MAY NOT BE PUT INTO OPERATION UNTIL THE COUNTY OR
+MUNICIPALITY PERFORMS A FINAL SAFETY INSPECTION TO CONFIRM THAT THE
+SYSTEM IS IN COMPLIANCE WITH ALL APPLICABLE NATIONAL ELECTRICAL CODE
+STANDARDS AND STATE AND LOCAL CODE, HEALTH, AND SAFETY
+REQUIREMENTS.
 
-(d) A county or municipality may not be required to comply with the requirements of subsection (c) of this section if:
+(d) A county or municipality may not be required to comply with the
+requirements of subsection (c) of this section if:
 
 (1) the county or municipality does not require a permit for:
 
 (i) residential solar energy systems; or
 
-(ii) residential solar energy systems paired with a residential solar energy storage system; or
+(ii) residential solar energy systems paired with a residential
+solar energy storage system; or
 
-(2) as determined by the Administration, the automated software is no longer updated or maintained.
+(2) as determined by the Administration, the automated software is no
+longer updated or maintained.
 
-(e) The Administration shall delay the initial implementation or suspend the requirements of subsection (c) of this section if there are insufficient State or federal funds available to the Administration to provide financial support to a county or municipality implementing solar permitting software as defined in subsection (a)(5)(i) of this section.
+(e) The Administration shall delay the initial implementation or suspend the
+requirements of subsection (c) of this section if there are insufficient State or federal
+funds available to the Administration to provide financial support to a county or
+municipality implementing solar permitting software as defined in subsection (a)(5)(i)
+of this section.
 
-(F) AN ELECTRIC COMPANY, OTHER THAN A MUNICIPAL ELECTRIC UTILITY OR A THIRD-PARTY CONTRACTOR FOR THE ELECTRIC COMPANY, SHALL PERFORM ANY METER DISCONNECTION AND RECONNECTION NECESSARY FOR THE INTERCONNECTION OF A RESIDENTIAL SOLAR ENERGY SYSTEM, RESIDENTIAL ENERGY STORAGE SYSTEM, OR BOTH, WITHIN 5 BUSINESS DAYS AFTER RECEIVING A PROPERLY COMPLETED REQUEST FROM THE OWNER OR INSTALLER OF THE SYSTEM.
+(F) AN ELECTRIC COMPANY, OTHER THAN A MUNICIPAL ELECTRIC
+UTILITY OR A THIRD-PARTY CONTRACTOR FOR THE ELECTRIC COMPANY, SHALL
+PERFORM ANY METER DISCONNECTION AND RECONNECTION NECESSARY FOR
+THE INTERCONNECTION OF A RESIDENTIAL SOLAR ENERGY SYSTEM,
+RESIDENTIAL ENERGY STORAGE SYSTEM, OR BOTH, WITHIN 5 BUSINESS DAYS
+AFTER RECEIVING A PROPERLY COMPLETED REQUEST FROM THE OWNER OR
+INSTALLER OF THE SYSTEM.
 
-(G) (1) ON OR BEFORE JANUARY 31, 2028, AND EACH JANUARY 31 THEREAFTER, EACH COUNTY AND MUNICIPALITY SHALL SUBMIT AN ANNUAL REPORT TO THE ADMINISTRATION DETAILING THE TOTAL NUMBER OF PERMITS ISSUED BY THE COUNTY OR MUNICIPALITY FOR RESIDENTIAL SOLAR ENERGY SYSTEMS FOR THE IMMEDIATELY PRECEDING YEAR.
+(G) (1) ON OR BEFORE JANUARY 31, 2028, AND EACH JANUARY 31
+THEREAFTER, EACH COUNTY AND MUNICIPALITY SHALL SUBMIT AN ANNUAL
+REPORT TO THE ADMINISTRATION DETAILING THE TOTAL NUMBER OF PERMITS
+ISSUED BY THE COUNTY OR MUNICIPALITY FOR RESIDENTIAL SOLAR ENERGY
+SYSTEMS FOR THE IMMEDIATELY PRECEDING YEAR.
 
-(2) THE ADMINISTRATION, IN CONSULTATION WITH EACH COUNTY OR MUNICIPALITY THAT SUBMITS A REPORT UNDER PARAGRAPH (1) OF THIS SUBSECTION, SHALL USE THE INFORMATION PROVIDED UNDER PARAGRAPH (1) OF THIS SUBSECTION TO PREPARE AN ANNUAL REPORT DETAILING THE TOTAL NUMBER OF PERMITS ISSUED FOR RESIDENTIAL SOLAR ENERGY SYSTEMS IN THE STATE FOR THE IMMEDIATELY PRECEDING YEAR.
+(2) THE ADMINISTRATION, IN CONSULTATION WITH EACH COUNTY
+OR MUNICIPALITY THAT SUBMITS A REPORT UNDER PARAGRAPH (1) OF THIS
+SUBSECTION, SHALL USE THE INFORMATION PROVIDED UNDER PARAGRAPH (1)
+OF THIS SUBSECTION TO PREPARE AN ANNUAL REPORT DETAILING THE TOTAL
+NUMBER OF PERMITS ISSUED FOR RESIDENTIAL SOLAR ENERGY SYSTEMS IN THE
+STATE FOR THE IMMEDIATELY PRECEDING YEAR.
 
-(3) ON OR BEFORE MARCH 31, 2028, AND EACH MARCH 31 THEREAFTER, THE ADMINISTRATION SHALL SUBMIT THE REPORT PREPARED UNDER PARAGRAPH (2) OF THIS SUBSECTION TO THE GENERAL ASSEMBLY AND THE SENATE COMMITTEE ON EDUCATION, ENERGY, AND THE ENVIRONMENT IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE.
+(3) ON OR BEFORE MARCH 31, 2028, AND EACH MARCH 31
+THEREAFTER, THE ADMINISTRATION SHALL SUBMIT THE REPORT PREPARED
+UNDER PARAGRAPH (2) OF THIS SUBSECTION TO THE GENERAL ASSEMBLY AND
+THE SENATE COMMITTEE ON EDUCATION, ENERGY, AND THE ENVIRONMENT IN
+ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE.
 
-(H) THE ATTORNEY GENERAL MAY SEEK JUDICIAL ENFORCEMENT AGAINST A COUNTY OR MUNICIPALITY THAT FAILS TO COMPLY WITH THIS SECTION.
+(H) THE ATTORNEY GENERAL MAY SEEK JUDICIAL ENFORCEMENT
+AGAINST A COUNTY OR MUNICIPALITY THAT FAILS TO COMPLY WITH THIS
+SECTION.
 
 Article – Public Utilities
 
 4–203.1.
 
-(A) (1) THIS SECTION APPLIES ONLY TO A PUBLIC SERVICE COMPANY THAT IS AN INVESTOR–OWNED ELECTRIC COMPANY, A GAS COMPANY, OR A COMBINATION GAS AND ELECTRIC COMPANY.
+(A) (1) THIS SECTION APPLIES ONLY TO A PUBLIC SERVICE COMPANY
+THAT IS AN INVESTOR–OWNED ELECTRIC COMPANY, A GAS COMPANY, OR A
+COMBINATION GAS AND ELECTRIC COMPANY.
 
-(2) THIS SECTION DOES NOT APPLY TO A MUNICIPAL ELECTRIC UTILITY OR AN ELECTRIC COOPERATIVE.
+(2) THIS SECTION DOES NOT APPLY TO A MUNICIPAL ELECTRIC
+UTILITY OR AN ELECTRIC COOPERATIVE.
 
-(B) IN ADDITION TO THE REQUIREMENTS IN § 4–203 OF THIS SUBTITLE, WHEN A PUBLIC SERVICE COMPANY INITIATES A PROCEEDING THAT MAY LEAD TO A RATE CHANGE, THE PUBLIC SERVICE COMPANY SHALL INCLUDE ON EACH CUSTOMER’S BILL A LINK TO THE APPLICABLE CASE OR DOCKET NUMBER FOR THE PROCEEDING.
+(B) IN ADDITION TO THE REQUIREMENTS IN § 4–203 OF THIS SUBTITLE,
+WHEN A PUBLIC SERVICE COMPANY INITIATES A PROCEEDING THAT MAY LEAD
+TO A RATE CHANGE, THE PUBLIC SERVICE COMPANY SHALL INCLUDE ON EACH
+CUSTOMER’S BILL A LINK TO THE APPLICABLE CASE OR DOCKET NUMBER FOR
+THE PROCEEDING.
 
 4–212.
 
 (a) (1) In this section the following words have the meanings indicated.
 
-(2) “Contract capacity” means the amount of monthly peak load requirements:
+(2) “Contract capacity” means the amount of monthly peak load
+requirements:
 
-(i) that is mutually agreed to by an electric company and a large load customer for each month remaining in a contract term after the load ramp period has ended; and
+(i) that is mutually agreed to by an electric company and a large
+load customer for each month remaining in a contract term after the load ramp period
+has ended; and
 
 (ii) for which:
 
-1. the electric company agrees to provide all of the components of retail electric service subject to the terms and conditions in its tariffs; and
+1. the electric company agrees to provide all of the
+components of retail electric service subject to the terms and conditions in its tariffs;
+and
 
-2. the large load customer agrees to purchase service at that load level for the stated term of the contract and under the same terms and conditions as those stated in the contract.
+2. the large load customer agrees to purchase service at
+that load level for the stated term of the contract and under the same terms and
+conditions as those stated in the contract.
 
-(3) “Large load customer” [means a commercial or industrial customer for retail electric service that:
+(3) “Large load customer” HAS THE MEANING STATED IN § 7–232 OF THIS ARTICLE.
 
-(i) has or is projected to have an aggregate monthly demand of at least 100 megawatts; and
+(4) “Load ramp period” means the period of time from commencement
+of service until a large load customer’s billing calculation is based on the full contract
+capacity.
 
-(ii) has or is projected to have a load factor of over 80%] HAS THE MEANING STATED IN § 7–232 OF THIS ARTICLE.
+(b) It is the intent of the General Assembly that residential retail electric
+customers in the State should not bear the financial risks associated with large load
+customers interconnecting to the electric system serving the State.
 
-(4) “Load ramp period” means the period of time from commencement of service until a large load customer’s billing calculation is based on the full contract capacity.
+(c) (1) (i) On or before September 1, 2026, each investor–owned electric
+company and each electric cooperative shall submit to the Commission for approval a
+specific rate schedule for large load customers that accomplishes the intent of subsection
+(b) of this section.
 
-(b) It is the intent of the General Assembly that residential retail electric customers in the State should not bear the financial risks associated with large load customers interconnecting to the electric system serving the State.
+(ii) Each municipal electric utility that receives an application for
+retail electric service from a large load customer shall submit to the Commission for
+approval a specific rate schedule for large load customers.
 
-(c) (1) (i) On or before September 1, 2026, each investor–owned electric company and each electric cooperative shall submit to the Commission for approval a specific rate schedule for large load customers that accomplishes the intent of subsection (b) of this section.
+(2) (i) Service under a specific rate schedule shall be available to
+large load customers that will use, within the initial contract term:
 
-(ii) Each municipal electric utility that receives an application for retail electric service from a large load customer shall submit to the Commission for approval a specific rate schedule for large load customers.
+1. a monthly maximum demand of more than [100] 25
+megawatts at a single location; or
 
-(2) (i) Service under a specific rate schedule shall be available to large load customers that will use, within the initial contract term:
+2. an aggregated contract capacity in the electric
+company’s service territory of more than [100] 25 megawatts.
 
-1. a monthly maximum demand of more than [100] 25 megawatts at a single location; or
-
-2. an aggregated contract capacity in the electric company’s service territory of more than [100] 25 megawatts.
-
-(ii) Except as provided in subparagraph (iii) of this paragraph, large load customers that qualify for a specific rate schedule after the effective date of that schedule:
+(ii) Except as provided in subparagraph (iii) of this paragraph,
+large load customers that qualify for a specific rate schedule after the effective date of
+that schedule:
 
 1. shall take service under the specific rate schedule; and
 
-2. may not be allowed to take service under any other existing schedule.
+2. may not be allowed to take service under any other
+existing schedule.
 
 (iii) A specific rate schedule does not apply to:
 
-1. the facility of an existing large load customer that has signed a service agreement before the effective date of the schedule if:
+1. the facility of an existing large load customer that has
+signed a service agreement before the effective date of the schedule if:
 
-[1.] A. the large load customer’s existing load does not expand by more than 25 megawatts at that facility under the existing service agreement; or
+[1.] A. the large load customer’s existing load does not
+expand by more than 25 megawatts at that facility under the existing service
+agreement; or
 
-[2.] B. the large load customer does not sign a new service agreement to expand the facility’s load by more than 25 megawatts above the contract capacity of the existing service agreement; OR
+[2.] B. the large load customer does not sign a new
+service agreement to expand the facility’s load by more than 25 megawatts above the
+contract capacity of the existing service agreement; OR
 
-2. ELECTRIFIED THERMAL ENERGY GENERATION ASSETS INTERCONNECTED WITH A DISTRICT ENERGY SYSTEM IF, AS DETERMINED BY THE COMMISSION, THE OPERATIONAL CHARACTERISTICS OF THE GENERATION ASSETS DO NOT POSE A MATERIAL RELIABILITY RISK.
+2. ELECTRIFIED THERMAL ENERGY GENERATION
+ASSETS INTERCONNECTED WITH A DISTRICT ENERGY SYSTEM IF, AS
+DETERMINED BY THE COMMISSION, THE OPERATIONAL CHARACTERISTICS OF
+THE GENERATION ASSETS DO NOT POSE A MATERIAL RELIABILITY RISK.
 
-(d) In making a determination on whether to approve a specific rate schedule submitted under subsection (c) of this section, the Commission shall consider whether the rate schedule:
+(d) In making a determination on whether to approve a specific rate schedule
+submitted under subsection (c) of this section, the Commission shall consider whether
+the rate schedule:
 
-(1) requires a large load customer to cover the just and reasonable costs associated with any electric transmission or distribution system buildout required to:
+(1) requires a large load customer to cover the just and reasonable costs
+associated with any electric transmission or distribution system buildout required to:
 
-(i) interconnect the large load customer to the electric system serving the State; or
+(i) interconnect the large load customer to the electric system
+serving the State; or
 
 (ii) serve the large load customer;
 
-(2) protects residential retail electric customers from the financial risks associated with large load customers through the use of:
+(2) protects residential retail electric customers from the financial risks
+associated with large load customers through the use of:
 
 (i) load ramp periods;
 
-(ii) minimum billing demand for electric distribution and transmission service that is a high percentage of a large load customer’s contract capacity;
+(ii) minimum billing demand for electric distribution and
+transmission service that is a high percentage of a large load customer’s contract
+capacity;
 
 (iii) long–term contractual commitments and exit fees;
 
 (iv) guarantee or collateral requirements; and
 
-(v) penalties and reimbursement requirements for the large load customer if the large load customer delays or cancels a project after the electric company has begun buildout to accommodate the large load customer; [and]
+(v) penalties and reimbursement requirements for the large load
+customer if the large load customer delays or cancels a project after the electric company
+has begun buildout to accommodate the large load customer;
 
 (3) ALLOCATES TO THE LARGE LOAD CUSTOMER:
 
-(I) ANY INCREASED OR AVOIDED COSTS THAT THE COMMISSION DETERMINES HAVE BEEN CAUSED BY A LARGE LOAD CUSTOMER, INCLUDING ANY INCREASED OR AVOIDED WHOLESALE COSTS SUCH AS:
+(I) ANY INCREASED OR AVOIDED COSTS THAT THE
+COMMISSION DETERMINES HAVE BEEN CAUSED BY A LARGE LOAD CUSTOMER,
+INCLUDING ANY INCREASED OR AVOIDED WHOLESALE COSTS SUCH AS:
 
 1. TRANSMISSION COSTS; AND
 
 2. CAPACITY COSTS; AND
 
-(II) NOTWITHSTANDING § 4–503(B) OF THIS TITLE AND AS AUTHORIZED UNDER FEDERAL LAW, ANY DIRECT OR INDIRECT COSTS, FEES, AND OBLIGATIONS THAT ARE NORMALLY APPLIED TO RETAIL ELECTRIC CUSTOMERS IN THE SERVICE TERRITORY IN WHICH THE LARGE LOAD CUSTOMER IS LOCATED OR INTERCONNECTED IF THE COMMISSION DETERMINES THAT THE DIRECT OR INDIRECT COSTS, FEES, AND OBLIGATIONS SHOULD BE ATTRIBUTABLE TO THE LARGE LOAD CUSTOMER; AND
+(II) NOTWITHSTANDING § 4–503(B) OF THIS TITLE AND AS
+AUTHORIZED UNDER FEDERAL LAW, ANY DIRECT OR INDIRECT COSTS, FEES, AND
+OBLIGATIONS THAT ARE NORMALLY APPLIED TO RETAIL ELECTRIC CUSTOMERS
+IN THE SERVICE TERRITORY IN WHICH THE LARGE LOAD CUSTOMER IS LOCATED
+OR INTERCONNECTED IF THE COMMISSION DETERMINES THAT THE DIRECT OR
+INDIRECT COSTS, FEES, AND OBLIGATIONS SHOULD BE ATTRIBUTABLE TO THE
+LARGE LOAD CUSTOMER; AND
 
-[(3)] (4) sufficiently ensures that the allocation of costs to large load customers under the schedule does not result in customers that are not large load customers unreasonably subsidizing the costs of large load customers under the schedule.
+[(3)] (4) sufficiently ensures that the allocation of costs to large load
+customers under the schedule does not result in customers that are not large load
+customers unreasonably subsidizing the costs of large load customers under the
+schedule.
 
-(e) IT IS THE INTENT OF THE GENERAL ASSEMBLY THAT THE COSTS ALLOCATED TO A LARGE LOAD CUSTOMER IN ACCORDANCE WITH SUBSECTION (D)(3) OF THIS SECTION INCLUDE COSTS THAT ARE INCURRED BY A LARGE LOAD CUSTOMER THAT IS NOT PROVIDING 100% OF ITS CAPACITY AND ARE ASSOCIATED WITH:
+(e) IT IS THE INTENT OF THE GENERAL ASSEMBLY THAT THE COSTS
+ALLOCATED TO A LARGE LOAD CUSTOMER IN ACCORDANCE WITH SUBSECTION
+(D)(3) OF THIS SECTION INCLUDE COSTS THAT ARE INCURRED BY A LARGE LOAD
+CUSTOMER THAT IS NOT PROVIDING 100% OF ITS CAPACITY AND ARE
+ASSOCIATED WITH:
 
-(1) CAPACITY PROCUREMENT, INCLUDING BACKSTOP RELIABILITY PROCUREMENT; AND
+(1) CAPACITY PROCUREMENT, INCLUDING BACKSTOP
+RELIABILITY PROCUREMENT; AND
 
 (2) COSTS ASSOCIATED WITH THE INTERCONNECTION PROCESS.
 
-(F) Before signing a contract for service under a specific rate schedule submitted under subsection (c) of this section, a large load customer under the schedule is required to:
+(F) Before signing a contract for service under a specific rate schedule
+submitted under subsection (c) of this section, a large load customer under the schedule
+is required to:
 
-(1) submit a request for a load study to determine the necessary contract capacity for the large load customer and pay any applicable fees associated with the study;
+(1) submit a request for a load study to determine the necessary
+contract capacity for the large load customer and pay any applicable fees associated with
+the study;
 
-(2) designate a specific site where the large load customer’s project will be constructed and served by the electric company;
+(2) designate a specific site where the large load customer’s project will
+be constructed and served by the electric company;
 
-(3) own or have the exclusive right to use the land designated in item (2) of this subsection for the project; and
+(3) own or have the exclusive right to use the land designated in item
+(2) of this subsection for the project; and
 
 (4) meet any other requirements specified under the rate schedule.
 
-[(f)] (G) (1) On or before June 1, 2026, the Commission shall adopt regulations to carry out this section.
+[(f)] (G) (1) On or before June 1, 2026, the Commission shall adopt
+regulations to carry out this section.
 
 (2) The regulations shall:
 
-(i) establish minimum notice requirements and deadlines related to load study requests and contract terminations and adjustments;
+(i) establish minimum notice requirements and deadlines
+related to load study requests and contract terminations and adjustments;
 
-(ii) if considered necessary by the Commission, specify common forms of acceptable collateral to satisfy the requirements of this section; and
+(ii) if considered necessary by the Commission, specify common
+forms of acceptable collateral to satisfy the requirements of this section; and
 
-(iii) establish deadlines related to completion of load studies and payment of fees.
+(iii) establish deadlines related to completion of load studies and
+payment of fees.
 
 4–213.
 
-(a) This section applies only to a public service company that is an electric company, gas company, or combination gas and electric company.
+(a) This section applies only to a public service company that is an electric
+company, gas company, or combination gas and electric company.
 
-(b) Unless otherwise authorized by law, the Commission may approve the use of a multiyear rate plan for distribution base rates only if the plan:
+(b) Unless otherwise authorized by law, the Commission may approve the use
+of a multiyear rate plan for distribution base rates only if the plan:
 
 (1) demonstrates the customer benefits of the investment; and
 
 (2) does not allow for:
 
-(I) the public service company to file for reconciliation of cost or revenue variances of the approved revenue component used by the Commission to establish just and reasonable rates IF THE RECONCILIATION WOULD RESULT IN ADDITIONAL CHARGES TO CUSTOMERS; OR
+(I) the public service company to file for reconciliation of cost or
+revenue variances of the approved revenue component used by the Commission to
+establish just and reasonable rates IF THE RECONCILIATION WOULD RESULT IN
+ADDITIONAL CHARGES TO CUSTOMERS; OR
 
-(II) THE USE OF COST–SHARING MECHANISMS THAT WOULD RESULT IN ADDITIONAL CHARGES TO CUSTOMERS ABOVE THE APPROVED REVENUE COMPONENT USED BY THE COMMISSION TO ESTABLISH JUST AND REASONABLE RATES.
+(II) THE USE OF COST–SHARING MECHANISMS THAT WOULD
+RESULT IN ADDITIONAL CHARGES TO CUSTOMERS ABOVE THE APPROVED
+REVENUE COMPONENT USED BY THE COMMISSION TO ESTABLISH JUST AND
+REASONABLE RATES.
 
-(c) A public service company that files or has filed an application for a multiyear rate plan may not subsequently file for reconciliation of cost or revenue variances [of] THAT WOULD RESULT IN ADDITIONAL CHARGES TO CUSTOMERS DUE TO THE PUBLIC SERVICE COMPANY SPENDING MORE THAN the approved revenue component used by the Commission to establish the multiyear rates unless the filing for reconciliation was made on or before January 1, 2025.
+(c) A public service company that files or has filed an application for a
+multiyear rate plan may not subsequently file for reconciliation of cost or revenue
+variances [of] THAT WOULD RESULT IN ADDITIONAL CHARGES TO CUSTOMERS DUE
+TO THE PUBLIC SERVICE COMPANY SPENDING MORE THAN the approved revenue
+component used by the Commission to establish the multiyear rates unless the filing for
+reconciliation was made on or before January 1, 2025.
 
-(D) THE COMMISSION MAY REQUIRE A PUBLIC SERVICE COMPANY TO INCLUDE A RECONCILIATION PROCEDURE IN ITS MULTIYEAR RATE PLAN TO REFUND CUSTOMERS THE DIFFERENCE BETWEEN:
+(D) THE COMMISSION MAY REQUIRE A PUBLIC SERVICE COMPANY TO
+INCLUDE A RECONCILIATION PROCEDURE IN ITS MULTIYEAR RATE PLAN TO
+REFUND CUSTOMERS THE DIFFERENCE BETWEEN:
 
-(1) THE PUBLIC SERVICE COMPANY’S FORECAST REVENUE REQUIREMENT; AND
+(1) THE PUBLIC SERVICE COMPANY’S FORECAST REVENUE
+REQUIREMENT; AND
 
-(2) THE PUBLIC SERVICE COMPANY’S ACTUAL REVENUE REQUIREMENT DURING THE TERM OF THE MULTIYEAR RATE PLAN.
+(2) THE PUBLIC SERVICE COMPANY’S ACTUAL REVENUE
+REQUIREMENT DURING THE TERM OF THE MULTIYEAR RATE PLAN.
 
-(E) IF APPROVED BY THE COMMISSION, A RECONCILIATION PROCEDURE REQUIRED UNDER SUBSECTION (D) OF THIS SECTION SHALL INCLUDE A PERFORMANCE INCENTIVE MECHANISM FOCUSED ON AFFORDABILITY AND COST CONTAINMENT.
+(E) IF APPROVED BY THE COMMISSION, A RECONCILIATION PROCEDURE
+REQUIRED UNDER SUBSECTION (D) OF THIS SECTION SHALL INCLUDE A
+PERFORMANCE INCENTIVE MECHANISM FOCUSED ON AFFORDABILITY AND COST
+CONTAINMENT.
 
 4–309.
 
 (a) (1) In this section the following words have the meanings indicated.
 
-(2) “Eligible limited–income customer” means a residential customer of a utility company with annual income that:
+(2) “Eligible limited–income customer” means a residential customer of
+a utility company with annual income that:
 
 (i) 1. is at or below 175% of the federal poverty level; or
 
-2. for a customer at least 67 years of age, is at or below 200% of the federal poverty level; or
+2. for a customer at least 67 years of age, is at or below
+200% of the federal poverty level; or
 
 (ii) meets a broader designation approved by the Commission.
 
-(3) “Limited–income mechanism” or “mechanism” means a process approved by the Commission under this section to benefit an eligible limited–income customer of a utility company.
+(3) “Limited–income mechanism” or “mechanism” means a process
+approved by the Commission under this section to benefit an eligible limited–income
+customer of a utility company.
 
-(4) “Payment plan” means an agreement between an eligible limited–income customer and a utility company to pay an arrearage balance over a specific period of time to avoid disconnection of a utility service.
+(4) “Payment plan” means an agreement between an eligible limited–
+income customer and a utility company to pay an arrearage balance over a specific
+period of time to avoid disconnection of a utility service.
 
-(5) (i) “Utility company” means an electric company, a gas and electric company, or a gas company.
+(5) (i) “Utility company” means an electric company, a gas and
+electric company, or a gas company.
 
-(ii) “Utility company” does not include a small rural electric cooperative.
+(ii) “Utility company” does not include a small rural electric
+cooperative.
 
-(b) The General Assembly finds and declares that the societal benefits of a well–constructed limited–income mechanism to benefit Maryland’s eligible limited–income customers are in the public interest.
+(b) The General Assembly finds and declares that the societal benefits of a
+well–constructed limited–income mechanism to benefit Maryland’s eligible limited–
+income customers are in the public interest.
 
-(c) (1) Subject to the approval of the Commission, a utility company shall adopt a limited–income mechanism to benefit an eligible limited–income customer.
+(c) (1) Subject to the approval of the Commission, a utility company shall
+adopt a limited–income mechanism to benefit an eligible limited–income customer.
 
-(2) Notwithstanding § 4–503(b) of this title, the mechanism may take the form of a program, tariff provision, credit, rate, rider, or other means to assist an eligible limited–income customer to afford a utility service.
+(2) Notwithstanding § 4–503(b) of this title, the mechanism may take
+the form of a program, tariff provision, credit, rate, rider, or other means to assist an
+eligible limited–income customer to afford a utility service.
 
-(3) A municipal electric utility may adopt a limited–income mechanism subject to the approval of the Commission in the same manner as a utility company in accordance with this section.
+(3) A municipal electric utility may adopt a limited–income mechanism
+subject to the approval of the Commission in the same manner as a utility company in
+accordance with this section.
 
-(d) (1) A utility company that proposes a limited–income mechanism for Commission approval under subsection (c) of this section shall include the proposal in:
+(d) (1) A utility company that proposes a limited–income mechanism for
+Commission approval under subsection (c) of this section shall include the proposal in:
 
 (i) a separate application for approval of the mechanism; or
 
-(ii) only with the prior approval of the Commission, an application for a base rate proceeding, including an alternative rate proceeding, or any other proceeding to alter the utility company’s base rates under the authority of the Commission.
+(ii) only with the prior approval of the Commission, an
+application for a base rate proceeding, including an alternative rate proceeding, or any
+other proceeding to alter the utility company’s base rates under the authority of the
+Commission.
 
-(2) A proposal submitted under this section shall allocate the prudently incurred costs of the limited–income mechanism across rate classes.
+(2) A proposal submitted under this section shall allocate the prudently
+incurred costs of the limited–income mechanism across rate classes.
 
 (3) The proposal shall include:
 
 (i) a detailed description of the proposed mechanism;
 
-(ii) the proposed method for allocating the mechanism’s costs across customer classes;
+(ii) the proposed method for allocating the mechanism’s costs
+across customer classes;
 
-(iii) the rationale supporting the utility company’s proposal for a mechanism to benefit the eligible limited–income customers in the utility company’s service territory;
+(iii) the rationale supporting the utility company’s proposal for a
+mechanism to benefit the eligible limited–income customers in the utility company’s
+service territory;
 
-(iv) a time frame and process for the Commission to review the effectiveness of the mechanism after implementation; and
+(iv) a time frame and process for the Commission to review the
+effectiveness of the mechanism after implementation; and
 
-(v) any other information the Commission considers necessary or useful to evaluate the proposal.
+(v) any other information the Commission considers necessary or
+useful to evaluate the proposal.
 
-(e) In evaluating a limited–income mechanism, the Commission shall consider:
+(e) In evaluating a limited–income mechanism, the Commission shall
+consider:
 
-(1) the degree to which the mechanism promotes affordability of electricity or natural gas for limited–income customers;
+(1) the degree to which the mechanism promotes affordability of
+electricity or natural gas for limited–income customers;
 
-(2) the public interest in allocating the costs of the mechanism between the utility company’s shareholders and rate payers;
+(2) the public interest in allocating the costs of the mechanism between
+the utility company’s shareholders and rate payers;
 
-(3) the impact on rates, utility operating costs, customer arrearages, customer disconnections, uncollectible costs, and successful completion of payment plans;
+(3) the impact on rates, utility operating costs, customer arrearages,
+customer disconnections, uncollectible costs, and successful completion of payment
+plans;
 
-(4) the ability of a limited–income customer to continue to receive benefits when relocating within the same service territory;
+(4) the ability of a limited–income customer to continue to receive
+benefits when relocating within the same service territory;
 
-(5) coordination of benefits under the mechanism with any other public or private assistance that may be available to the customer;
+(5) coordination of benefits under the mechanism with any other public
+or private assistance that may be available to the customer;
 
-(6) a minimum level of support or assistance structure to provide equitable availability of limited–income assistance across the State; and
+(6) a minimum level of support or assistance structure to provide
+equitable availability of limited–income assistance across the State; and
 
 (7) any other information the Commission considers appropriate.
 
-(f) (1) THE COMMISSION SHALL TAKE FINAL ACTION ON A PROPOSAL SUBMITTED UNDER THIS SECTION AS SOON AS PRACTICABLE.
+(f) (1) THE COMMISSION SHALL TAKE FINAL ACTION ON A PROPOSAL
+SUBMITTED UNDER THIS SECTION AS SOON AS PRACTICABLE.
 
-(2) THE COMMISSION SHALL REQUIRE EACH UTILITY COMPANY TO IMPLEMENT AN APPROVED LIMITED–INCOME MECHANISM AS SOON AS PRACTICABLE.
+(2) THE COMMISSION SHALL REQUIRE EACH UTILITY COMPANY
+TO IMPLEMENT AN APPROVED LIMITED–INCOME MECHANISM AS SOON AS
+PRACTICABLE.
 
-(G) If an approved limited–income mechanism requires that the Office of Home Energy Programs must certify an eligible limited–income customer’s qualifications to participate in a limited–income mechanism, the Office shall certify an eligible limited–income customer’s qualifications before the customer may participate in the mechanism.
+(G) If an approved limited–income mechanism requires that the Office of Home
+Energy Programs must certify an eligible limited–income customer’s qualifications to
+participate in a limited–income mechanism, the Office shall certify an eligible limited–
+income customer’s qualifications before the customer may participate in the mechanism.
 
-[(g)] (H) An eligible limited–income customer who participates in a mechanism under this section may also be eligible for other assistance programs offered in the State, including those offered by a utility company or the Office of Home Energy Programs, the Department of Housing and Community Development, or any other public or private source.
+[(g)] (H) An eligible limited–income customer who participates in a
+mechanism under this section may also be eligible for other assistance programs offered
+in the State, including those offered by a utility company or the Office of Home Energy
+Programs, the Department of Housing and Community Development, or any other
+public or private source.
 
 4–504.
 
-(A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS INDICATED.
+(A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE
+MEANINGS INDICATED.
 
-(2) (I) “BONUS” MEANS A FORM OF DIRECT OR INDIRECT PAYMENT, CONSIDERATION, OR COMPENSATION THAT IS PAID OR CONVEYED TO AN EMPLOYEE OF A PUBLIC SERVICE COMPANY IN ADDITION TO THE EMPLOYEE’S BASE PAY.
+(2) (I) “BONUS” MEANS A FORM OF DIRECT OR INDIRECT
+PAYMENT, CONSIDERATION, OR COMPENSATION THAT IS PAID OR CONVEYED TO
+AN EMPLOYEE OF A PUBLIC SERVICE COMPANY IN ADDITION TO THE EMPLOYEE’S
+BASE PAY.
 
 (II) “BONUS” INCLUDES:
 
-1. COMPENSATION THAT THE PUBLIC SERVICE COMPANY DOES NOT FORMALLY LABEL AS A BONUS PAYMENT;
+1. COMPENSATION THAT THE PUBLIC SERVICE
+COMPANY DOES NOT FORMALLY LABEL AS A BONUS PAYMENT;
 
-2. ANY FORM OF INCENTIVE COMPENSATION THE FACT AND AMOUNT OF WHICH IS UNDER THE DISCRETION OF THE PUBLIC SERVICE COMPANY UNTIL A TIME CLOSE TO THE END OF THE PERIOD FOR WHICH THE INCENTIVE PAYMENT IS PAID; AND
+2. ANY FORM OF INCENTIVE COMPENSATION THE
+FACT AND AMOUNT OF WHICH IS UNDER THE DISCRETION OF THE PUBLIC
+SERVICE COMPANY UNTIL A TIME CLOSE TO THE END OF THE PERIOD FOR WHICH
+THE INCENTIVE PAYMENT IS PAID; AND
 
-3. PAYMENTS GIVEN IN ADDITION TO BASE PAY THAT ARE CONTINGENT ON THE OCCURRENCE OF ONE OR MORE EVENTS OR CONDITIONS.
+3. PAYMENTS GIVEN IN ADDITION TO BASE PAY THAT
+ARE CONTINGENT ON THE OCCURRENCE OF ONE OR MORE EVENTS OR
+CONDITIONS.
 
-(3) (I) “COMPENSATION” MEANS A FORM OF PAYMENT OR CONSIDERATION CONVEYED TO OR FOR THE BENEFIT OF AN EMPLOYEE OF A PUBLIC SERVICE COMPANY, THE PARENT COMPANY OF A PUBLIC SERVICE COMPANY, OR ANY OTHER AFFILIATE OF A PUBLIC SERVICE COMPANY IN CONNECTION WITH THE EMPLOYEE’S WORK FOR A PUBLIC SERVICE COMPANY.
+(3) (I) “COMPENSATION” MEANS A FORM OF PAYMENT OR
+CONSIDERATION CONVEYED TO OR FOR THE BENEFIT OF AN EMPLOYEE OF A
+PUBLIC SERVICE COMPANY, THE PARENT COMPANY OF A PUBLIC SERVICE
+COMPANY, OR ANY OTHER AFFILIATE OF A PUBLIC SERVICE COMPANY IN
+CONNECTION WITH THE EMPLOYEE’S WORK FOR A PUBLIC SERVICE COMPANY.
 
 (II) “COMPENSATION” INCLUDES:
 
-1. DIRECT AND INDIRECT METHODS OF CONFERRING BENEFITS;
+1. DIRECT AND INDIRECT METHODS OF CONFERRING
+BENEFITS;
 
 2. CASH AND NONCASH BENEFITS;
 
-3. SALARY, BONUSES, PERIOD PAYMENTS, AND SEVERANCE PAY; AND
+3. SALARY, BONUSES, PERIOD PAYMENTS, AND
+SEVERANCE PAY; AND
 
-4. THE VALUE OF A PERQUISITE, COMPENSATORY OR PAID LEAVE, OR OTHER BENEFIT NOT EXCLUDED UNDER SUBPARAGRAPH (III) OF THIS PARAGRAPH.
+4. THE VALUE OF A PERQUISITE, COMPENSATORY OR
+PAID LEAVE, OR OTHER BENEFIT NOT EXCLUDED UNDER SUBPARAGRAPH (III) OF
+THIS PARAGRAPH.
 
-(III) “COMPENSATION” DOES NOT INCLUDE ANY EXPENDITURE OF A PUBLIC SERVICE COMPANY FOR HEALTH, MEDICAL, DENTAL, VISION, OR LIFE INSURANCE OR DISABILITY PAY.
+(III) “COMPENSATION” DOES NOT INCLUDE ANY
+EXPENDITURE OF A PUBLIC SERVICE COMPANY FOR HEALTH, MEDICAL, DENTAL,
+VISION, OR LIFE INSURANCE OR DISABILITY PAY.
 
-(4) “OFFICER” MEANS AN EMPLOYEE OF A PUBLIC SERVICE COMPANY, THE PARENT COMPANY OF A PUBLIC SERVICE COMPANY, OR ANY OTHER AFFILIATE OF A PUBLIC SERVICE COMPANY WHO:
+(4) “OFFICER” MEANS AN EMPLOYEE OF A PUBLIC SERVICE
+COMPANY, THE PARENT COMPANY OF A PUBLIC SERVICE COMPANY, OR ANY
+OTHER AFFILIATE OF A PUBLIC SERVICE COMPANY WHO:
 
 (I) USING THE EMPLOYEE’S INDEPENDENT JUDGMENT:
 
-1. IS AUTHORIZED BY THE EMPLOYEE’S EMPLOYER TO HIRE, TRANSFER, SUSPEND, LAY OFF, RECALL, PROMOTE, DISCHARGE, ASSIGN, REWARD, OR DISCIPLINE OTHER EMPLOYEES;
+1. IS AUTHORIZED BY THE EMPLOYEE’S EMPLOYER
+TO HIRE, TRANSFER, SUSPEND, LAY OFF, RECALL, PROMOTE, DISCHARGE,
+ASSIGN, REWARD, OR DISCIPLINE OTHER EMPLOYEES;
 
-2. IS RESPONSIBLE FOR DIRECTING THE WORK PERFORMANCE OF OTHER EMPLOYEES; AND
+2. IS RESPONSIBLE FOR DIRECTING THE WORK
+PERFORMANCE OF OTHER EMPLOYEES; AND
 
-3. IS RESPONSIBLE FOR RESPONDING TO EMPLOYEE COMPLAINTS; OR
+3. IS RESPONSIBLE FOR RESPONDING TO EMPLOYEE
+COMPLAINTS; OR
 
-(II) IS EMPLOYED IN A BONA FIDE EXECUTIVE CAPACITY UNDER THE FEDERAL FAIR LABOR STANDARDS ACT.
+(II) IS EMPLOYED IN A BONA FIDE EXECUTIVE CAPACITY
+UNDER THE FEDERAL FAIR LABOR STANDARDS ACT.
 
-[(a)] (B) This section applies only to a public service company that is an investor–owned electric company, gas company, or combination gas and electric company.
+[(a)] (B) This section applies only to a public service company that is an
+investor–owned electric company, gas company, or combination gas and electric
+company.
 
-[(b)] (C) A public service company may not recover through rates any costs associated with:
+[(b)] (C) A public service company may not recover through rates any costs
+associated with:
 
-(1) membership, dues, sponsorships, or contributions to an industry trade association, group, or related entity exempt from taxation under § 501(c)(6) of the Internal Revenue Code; [or]
+(1) membership, dues, sponsorships, or contributions to an industry
+trade association, group, or related entity exempt from taxation under § 501(c)(6) of the
+Internal Revenue Code; [or]
 
-(2) the acquisition, use, or allocation of costs associated with a private plane that is owned or leased by the public service company or its holding company; OR
+(2) the acquisition, use, or allocation of costs associated with a private
+plane that is owned or leased by the public service company or its holding company; OR
 
-(3) COMPENSATION FOR AN OFFICER THAT EXCEEDS 110% OF THE MAXIMUM ANNUAL SALARY PAYABLE TO THE CHAIR OF THE COMMISSION FOR THE SAME CALENDAR YEAR.
+(3) COMPENSATION FOR AN OFFICER THAT EXCEEDS 110% OF THE
+MAXIMUM ANNUAL SALARY PAYABLE TO THE CHAIR OF THE COMMISSION FOR
+THE SAME CALENDAR YEAR.
 
-(D) (1) THE BOARD OF DIRECTORS OF EACH PUBLIC SERVICE COMPANY SHALL ADOPT A COMPANY–WIDE POLICY PLACING REASONABLE COST LIMITATIONS, IN ACCORDANCE WITH GUIDANCE PUBLISHED BY THE COMMISSION UNDER PARAGRAPH (2) OF THIS SUBSECTION, ON EXPENDITURES THAT THE PUBLIC SERVICE COMPANY INTENDS TO RECOVER THROUGH RATES FOR:
+(D) (1) THE BOARD OF DIRECTORS OF EACH PUBLIC SERVICE
+COMPANY SHALL ADOPT A COMPANY–WIDE POLICY PLACING REASONABLE COST
+LIMITATIONS, IN ACCORDANCE WITH GUIDANCE PUBLISHED BY THE
+COMMISSION UNDER PARAGRAPH (2) OF THIS SUBSECTION, ON EXPENDITURES
+THAT THE PUBLIC SERVICE COMPANY INTENDS TO RECOVER THROUGH RATES
+FOR:
 
 (I) ENTERTAINMENT AND EVENTS;
 
@@ -1116,31 +1782,48 @@ Article – Public Utilities
 
 (V) PERFORMANCE INCENTIVES; AND
 
-(VI) OTHER ACTIVITIES OUTSIDE THE SCOPE OF THE NORMAL COURSE OF BUSINESS OPERATIONS.
+(VI) OTHER ACTIVITIES OUTSIDE THE SCOPE OF THE NORMAL
+COURSE OF BUSINESS OPERATIONS.
 
-(2) THE COMMISSION SHALL PUBLISH GUIDANCE DEFINING “REASONABLE COST LIMITATIONS” FOR EXPENDITURES UNDER THIS SUBSECTION.
+(2) THE COMMISSION SHALL PUBLISH GUIDANCE DEFINING
+“REASONABLE COST LIMITATIONS” FOR EXPENDITURES UNDER THIS
+SUBSECTION.
 
-(3) EACH PUBLIC SERVICE COMPANY SHALL SEND A COPY OF THE POLICY ADOPTED UNDER PARAGRAPH (1) OF THIS SUBSECTION TO THE COMMISSION:
+(3) EACH PUBLIC SERVICE COMPANY SHALL SEND A COPY OF THE
+POLICY ADOPTED UNDER PARAGRAPH (1) OF THIS SUBSECTION TO THE
+COMMISSION:
 
 (I) AS SOON AS PRACTICABLE; AND
 
-(II) EACH TIME THE POLICY IS UPDATED, BUT NOT LESS OFTEN THAN EVERY 5 YEARS.
+(II) EACH TIME THE POLICY IS UPDATED, BUT NOT LESS
+OFTEN THAN EVERY 5 YEARS.
 
 7–103.
 
 (a) An electric company incorporated in Maryland may:
 
-(1) manufacture, sell, and furnish electric power in any municipal corporation or county of the State;
+(1) manufacture, sell, and furnish electric power in any municipal
+corporation or county of the State;
 
-(2) construct a power line to transmit power under, along, on, or over the roadways or public ways of any municipal corporation or county of the State; and
+(2) construct a power line to transmit power under, along, on, or over
+the roadways or public ways of any municipal corporation or county of the State; and
 
-(3) connect the power line from the place of supply to any other structure or object.
+(3) connect the power line from the place of supply to any other
+structure or object.
 
-(b) (1) An electric company must have the consent of the governing body of the municipal corporation or county before laying or constructing any power line in accordance with subsection (a) of this section.
+(b) (1) An electric company must have the consent of the governing body of
+the municipal corporation or county before laying or constructing any power line in
+accordance with subsection (a) of this section.
 
-(2) The governing body of the municipal corporation or county may adopt reasonable regulations and conditions for the laying of a power line, including regulations requiring the electric company to refill and repave any roadway or public way under which the power line is laid.
+(2) The governing body of the municipal corporation or county may
+adopt reasonable regulations and conditions for the laying of a power line, including
+regulations requiring the electric company to refill and repave any roadway or public
+way under which the power line is laid.
 
-(C) A PERSON THAT OWNS OR OPERATES A TRANSMISSION LINE THAT IS DESIGNED TO CARRY A VOLTAGE IN EXCESS OF 69,000 VOLTS AND IS LOCATED IN THE STATE SHALL PARTICIPATE AS A MEMBER IN A REGIONAL TRANSMISSION ORGANIZATION.
+(C) A PERSON THAT OWNS OR OPERATES A TRANSMISSION LINE THAT IS
+DESIGNED TO CARRY A VOLTAGE IN EXCESS OF 69,000 VOLTS AND IS LOCATED IN
+THE STATE SHALL PARTICIPATE AS A MEMBER IN A REGIONAL TRANSMISSION
+ORGANIZATION.
 
 7–207.
 
@@ -1156,19 +1839,29 @@ Article – Public Utilities
 
 (3) “Brownfields site” means:
 
-(i) a former industrial or commercial site identified by federal or State laws or regulation as contaminated or polluted;
+(i) a former industrial or commercial site identified by federal or
+State laws or regulation as contaminated or polluted;
 
-(ii) a closed landfill regulated by the Department of the Environment; or
+(ii) a closed landfill regulated by the Department of the
+Environment; or
 
 (iii) mined land.
 
 [(3)] (4) (i) “Construction” means:
 
-1. any physical change at a site, including fabrication, erection, installation, or demolition; or
+1. any physical change at a site, including fabrication,
+erection, installation, or demolition; or
 
-2. the entry into a binding agreement or contractual obligation to purchase equipment exclusively for use in construction in the State or to undertake a program of actual construction in the State which cannot be canceled or modified without substantial loss to the owner or operator of the proposed generating station.
+2. the entry into a binding agreement or contractual
+obligation to purchase equipment exclusively for use in construction in the State or to
+undertake a program of actual construction in the State which cannot be canceled or
+modified without substantial loss to the owner or operator of the proposed generating
+station.
 
-(ii) “Construction” does not include a change that is needed for the temporary use of a site or route for nonutility purposes or for use in securing geological data, including any boring that is necessary to ascertain foundation conditions.
+(ii) “Construction” does not include a change that is needed for
+the temporary use of a site or route for nonutility purposes or for use in securing
+geological data, including any boring that is necessary to ascertain foundation
+conditions.
 
 [(4)] (5) “Generating station” does not include:
 
@@ -1176,67 +1869,106 @@ Article – Public Utilities
 
 1. is used for the production of electricity;
 
-2. has the capacity to produce not more than 2 megawatts of alternating current; and
+2. has the capacity to produce not more than 2 megawatts
+of alternating current; and
 
-3. is installed with equipment that prevents the flow of electricity to the electric grid during time periods when the electric grid is out of service;
+3. is installed with equipment that prevents the flow of
+electricity to the electric grid during time periods when the electric grid is out of service;
 
-(ii) a combination of two or more generating units or facilities that:
+(ii) a combination of two or more generating units or facilities
+that:
 
-1. are used for the production of electricity from a solar photovoltaic system or an eligible customer–generator that is subject to the provisions of § 7–306 of this title;
+1. are used for the production of electricity from a solar
+photovoltaic system or an eligible customer–generator that is subject to the provisions
+of § 7–306 of this title;
 
-2. are located on the same property or adjacent properties;
+2. are located on the same property or adjacent
+properties;
 
-3. have the capacity to produce, when calculated cumulatively for all generating units or facilities on the property or adjacent property, more than 2 megawatts but not more than 14 megawatts of alternating current; and
+3. have the capacity to produce, when calculated
+cumulatively for all generating units or facilities on the property or adjacent property,
+more than 2 megawatts but not more than 14 megawatts of alternating current; and
 
 4. for each individual generating unit or facility:
 
-A. has the capacity to produce not more than 2 megawatts of alternating current;
+A. has the capacity to produce not more than 2 megawatts
+of alternating current;
 
 B. is separately metered by the electric company; and
 
-C. does not export electricity for sale on the wholesale market under an agreement with PJM Interconnection, LLC;
+C. does not export electricity for sale on the wholesale
+market under an agreement with PJM Interconnection, LLC;
 
 (iii) a generating unit or facility that:
 
-1. is used for the production of electricity for the purpose of:
+1. is used for the production of electricity for the purpose
+of:
 
-A. onsite emergency backup at a facility when service from the electric company is interrupted due to electric distribution or transmission system failure or when there is equipment failure at a site where critical infrastructure is located; and
+A. onsite emergency backup at a facility when service
+from the electric company is interrupted due to electric distribution or transmission
+system failure or when there is equipment failure at a site where critical infrastructure
+is located; and
 
-B. test and maintenance operations necessary to ensure functionality of the generating unit or facility in the event of a service interruption from the electric company due to electric distribution or transmission system failure or when there is equipment failure at a site where critical infrastructure is located;
+B. test and maintenance operations necessary to ensure
+functionality of the generating unit or facility in the event of a service interruption from
+the electric company due to electric distribution or transmission system failure or when
+there is equipment failure at a site where critical infrastructure is located;
 
-2. is installed with equipment that prevents the flow of electricity to the electric grid;
+2. is installed with equipment that prevents the flow of
+electricity to the electric grid;
 
-3. is subject to a permit to construct issued by the Department of the Environment; and
+3. is subject to a permit to construct issued by the
+Department of the Environment; and
 
-4. is installed at a facility that is part of critical infrastructure if the facility complies with all applicable regulations regarding noise level and testing hours; or
+4. is installed at a facility that is part of critical
+infrastructure if the facility complies with all applicable regulations regarding noise
+level and testing hours; or
 
-(iv) a combination of two or more generating units or facilities that satisfy item (iii) of this paragraph.
+(iv) a combination of two or more generating units or facilities
+that satisfy item (iii) of this paragraph.
 
-(6) (I) “GRID–ENHANCING TECHNOLOGY” MEANS HARDWARE OR SOFTWARE THAT INCREASES THE CAPACITY, EFFICIENCY, OR RELIABILITY OF EXISTING TRANSMISSION SYSTEMS.
+(6) (I) “GRID–ENHANCING TECHNOLOGY” MEANS HARDWARE
+OR SOFTWARE THAT INCREASES THE CAPACITY, EFFICIENCY, OR RELIABILITY OF
+EXISTING TRANSMISSION SYSTEMS.
 
 (II) “GRID–ENHANCING TECHNOLOGY” INCLUDES:
 
-1. A SYSTEM THAT USES REAL–TIME OR FORECAST WEATHER AND OPERATING CONDITIONS TO DETERMINE THE TRANSFER CAPACITY OF TRANSMISSION SYSTEMS;
+1. A SYSTEM THAT USES REAL–TIME OR FORECAST
+WEATHER AND OPERATING CONDITIONS TO DETERMINE THE TRANSFER
+CAPACITY OF TRANSMISSION SYSTEMS;
 
-2. TECHNOLOGY THAT MODULATES CIRCUIT IMPEDANCE OR OTHER ELECTRICAL PROPERTIES TO REROUTE POWER FLOWS AND RELIEVE CONGESTION; AND
+2. TECHNOLOGY THAT MODULATES CIRCUIT
+IMPEDANCE OR OTHER ELECTRICAL PROPERTIES TO REROUTE POWER FLOWS
+AND RELIEVE CONGESTION; AND
 
-3. SOFTWARE THAT IDENTIFIES SWITCHING CONFIGURATIONS TO REROUTE ELECTRICITY AND ALLEVIATE TRANSMISSION CONSTRAINTS.
+3. SOFTWARE THAT IDENTIFIES SWITCHING
+CONFIGURATIONS TO REROUTE ELECTRICITY AND ALLEVIATE TRANSMISSION
+CONSTRAINTS.
 
-(7) “HIGH PERFORMANCE CONDUCTORS” MEANS CONDUCTORS, INCLUDING CARBON FIBER CONDUCTORS, COMPOSITE CORE CONDUCTORS, OR SUPERCONDUCTORS, THAT:
+(7) “HIGH PERFORMANCE CONDUCTORS” MEANS CONDUCTORS,
+INCLUDING CARBON FIBER CONDUCTORS, COMPOSITE CORE CONDUCTORS, OR
+SUPERCONDUCTORS, THAT:
 
-(I) HAVE A SIMILAR DIAMETER AND WEIGHT AS TRADITIONAL ACSR CONDUCTORS;
+(I) HAVE A SIMILAR DIAMETER AND WEIGHT AS
+TRADITIONAL ACSR CONDUCTORS;
 
-(II) HAVE A DIRECT CURRENT ELECTRICAL RESISTANCE AT LEAST 10% LESS THAN TRADITIONAL ACSR CONDUCTORS;
+(II) HAVE A DIRECT CURRENT ELECTRICAL RESISTANCE AT
+LEAST 10% LESS THAN TRADITIONAL ACSR CONDUCTORS;
 
-(III) INCREASE THE POTENTIAL ENERGY CARRYING CAPACITY BY AT LEAST 75% COMPARED TO TRADITIONAL ACSR CONDUCTORS; AND
+(III) INCREASE THE POTENTIAL ENERGY CARRYING
+CAPACITY BY AT LEAST 75% COMPARED TO TRADITIONAL ACSR CONDUCTORS;
+AND
 
-(IV) HAVE A COEFFICIENT OF THERMAL EXPANSION OF AT LEAST 30% LESS THAN TRADITIONAL ACSR CONDUCTORS.
+(IV) HAVE A COEFFICIENT OF THERMAL EXPANSION OF AT
+LEAST 30% LESS THAN TRADITIONAL ACSR CONDUCTORS.
 
-[(5)] (8) (i) “Mined land” means the surface or subsurface of an area in which surface mining operations will be, are being, or have been conducted.
+[(5)] (8) (i) “Mined land” means the surface or subsurface of an
+area in which surface mining operations will be, are being, or have been conducted.
 
 (ii) “Mined land” includes:
 
-1. private ways and roads used for mining appurtenant to any surface mining area;
+1. private ways and roads used for mining appurtenant to
+any surface mining area;
 
 2. land excavations;
 
@@ -1244,39 +1976,71 @@ B. test and maintenance operations necessary to ensure functionality of the gene
 
 4. overburden.
 
-[(6)] (9) “Qualified generator lead line” means [an overhead] A transmission line [that is] AND ANY ASSOCIATED ADVANCED TRANSMISSION TECHNOLOGY designed to carry OR SUPPORT THE CARRYING OF a voltage in excess of 69,000 volts and would allow an out–of–state Tier 1 or Tier 2 renewable source to interconnect with a portion of the electric system in Maryland that is owned by an electric company.
+[(6)] (9) “Qualified generator lead line” means A transmission line AND ANY ASSOCIATED ADVANCED TRANSMISSION
+TECHNOLOGY designed to carry OR SUPPORT THE CARRYING OF a voltage in excess
+of 69,000 volts and would allow an out–of–state Tier 1 or Tier 2 renewable source to
+interconnect with a portion of the electric system in Maryland that is owned by an
+electric company.
 
-(10) “TRADITIONAL ACSR CONDUCTORS” MEANS ELECTRICAL CABLES USED IN TRANSMISSION SYSTEMS THAT CONSIST OF A CENTRAL CORE OF GALVANIZED STEEL WIRES SURROUNDED BY STRANDS OF ALUMINUM.
+(10) “TRADITIONAL ACSR CONDUCTORS” MEANS ELECTRICAL
+CABLES USED IN TRANSMISSION SYSTEMS THAT CONSIST OF A CENTRAL CORE OF
+GALVANIZED STEEL WIRES SURROUNDED BY STRANDS OF ALUMINUM.
 
-(b) (3) (i) Except as provided in paragraph (4) of this subsection, unless a certificate of public convenience and necessity for the construction is first obtained from the Commission, a person may not begin construction of [an overhead] A transmission line that is designed to carry a voltage in excess of 69,000 volts or exercise a right of condemnation with the construction.
+(b) (3) (i) Except as provided in paragraph (4) of this subsection, unless
+a certificate of public convenience and necessity for the construction is first obtained
+from the Commission, a person may not begin construction of A
+transmission line that is designed to carry a voltage in excess of 69,000 volts or exercise
+a right of condemnation with the construction.
 
-(ii) [For] SUBJECT TO SUBPARAGRAPH (III) OF THIS PARAGRAPH, FOR construction related to an existing [overhead] transmission line, the Commission may waive the requirement in subparagraph (i) of this paragraph for good cause.
+(ii) [For] SUBJECT TO SUBPARAGRAPH (III) OF THIS
+PARAGRAPH, FOR construction related to an existing [overhead] transmission line, the
+Commission may waive the requirement in subparagraph (i) of this paragraph for good
+cause.
 
-(III) THE COMMISSION SHALL ADOPT REGULATIONS TO ESTABLISH SPECIFIC CRITERIA FOR MAKING THE DETERMINATION TO WAIVE THE REQUIREMENT IN SUBPARAGRAPH (I) OF THIS PARAGRAPH FOR GOOD CAUSE, INCLUDING:
+(III) THE COMMISSION SHALL ADOPT REGULATIONS TO
+ESTABLISH SPECIFIC CRITERIA FOR MAKING THE DETERMINATION TO WAIVE THE
+REQUIREMENT IN SUBPARAGRAPH (I) OF THIS PARAGRAPH FOR GOOD CAUSE,
+INCLUDING:
 
-1. THE COST OF THE CONSTRUCTION ON RATEPAYERS;
+1. THE COST OF THE CONSTRUCTION ON
+RATEPAYERS;
 
-2. THE IMPACT OF THE CONSTRUCTION ON THE ENVIRONMENT; AND
+2. THE IMPACT OF THE CONSTRUCTION ON THE
+ENVIRONMENT; AND
 
-3. ANY OTHER MATTER THE COMMISSION CONSIDERS APPROPRIATE.
+3. ANY OTHER MATTER THE COMMISSION CONSIDERS
+APPROPRIATE.
 
-(IV) AN APPLICANT FOR A CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY FOR THE CONSTRUCTION OF A TRANSMISSION LINE SHALL INCLUDE IN ITS APPLICATION:
+(IV) AN APPLICANT FOR A CERTIFICATE OF PUBLIC
+CONVENIENCE AND NECESSITY FOR THE CONSTRUCTION OF A TRANSMISSION
+LINE SHALL INCLUDE IN ITS APPLICATION:
 
-1. EVIDENCE THAT THE APPLICANT CONSIDERED, AS PART OF THE APPLICANT’S INTERNAL PLANNING PROCESS, ANY LOCAL, STATE, OR FEDERAL GOVERNMENT TRANSMISSION PLANNING PROCESSES AND ANY TRANSMISSION PLANNING PROCESSES REQUIRED BY PJM INTERCONNECTION, INCLUDING:
+1. EVIDENCE THAT THE APPLICANT CONSIDERED, AS
+PART OF THE APPLICANT’S INTERNAL PLANNING PROCESS, ANY LOCAL, STATE,
+OR FEDERAL GOVERNMENT TRANSMISSION PLANNING PROCESSES AND ANY
+TRANSMISSION PLANNING PROCESSES REQUIRED BY PJM INTERCONNECTION,
+INCLUDING:
 
-A. AN ANALYSIS OF ADVANCED TRANSMISSION TECHNOLOGIES AND WHETHER THE USE OF THE TECHNOLOGIES WILL ENHANCE THE VALUE OF THE NEW LEAD LINE, LEADING TO INCREASED RATEPAYER VALUE THROUGH EFFICIENCY AND AVOIDED COSTS;
+A. AN ANALYSIS OF ADVANCED TRANSMISSION
+TECHNOLOGIES AND WHETHER THE USE OF THE TECHNOLOGIES WILL ENHANCE
+THE VALUE OF THE NEW LEAD LINE, LEADING TO INCREASED RATEPAYER VALUE
+THROUGH EFFICIENCY AND AVOIDED COSTS;
 
 B. ALTERNATIVE ROUTINGS;
 
-C. TECHNOLOGIES OR MODIFICATIONS TO ONE OR MORE ELECTRIC DISTRIBUTION SYSTEMS IN THE STATE THAT COULD AVOID THE NEED FOR THE TRANSMISSION LINE;
+C. TECHNOLOGIES OR MODIFICATIONS TO ONE OR
+MORE ELECTRIC DISTRIBUTION SYSTEMS IN THE STATE THAT COULD AVOID THE
+NEED FOR THE TRANSMISSION LINE;
 
 D. THE COST TO RATEPAYERS;
 
 E. RESOURCE ADEQUACY; AND
 
-F. ANY OTHER INFORMATION THE COMMISSION CONSIDERS APPROPRIATE; AND
+F. ANY OTHER INFORMATION THE COMMISSION
+CONSIDERS APPROPRIATE; AND
 
-2. AN ANALYSIS OF THE TRANSMISSION LINE ROUTE SELECTION, INCLUDING:
+2. AN ANALYSIS OF THE TRANSMISSION LINE ROUTE
+SELECTION, INCLUDING:
 
 A. RISKS ASSOCIATED WITH THE COSTS ESTIMATES;
 
@@ -1288,97 +2052,160 @@ D. ACQUISITION OF LAND AND RIGHTS–OF–WAY;
 
 E. OUTAGE COORDINATION; AND
 
-F. THE APPLICANT’S PLAN TO WORK WITH COMMUNITIES AND STAKEHOLDERS ON PROPOSED ROUTES.
+F. THE APPLICANT’S PLAN TO WORK WITH
+COMMUNITIES AND STAKEHOLDERS ON PROPOSED ROUTES.
 
-[(iii)] (V) Notwithstanding subparagraph (i) of this paragraph and subject to subparagraph [(iv)] (VI) of this paragraph, the Commission may issue a certificate of public convenience and necessity for the construction of [an overhead] A transmission line only if the applicant for the certificate of public convenience and necessity:
+[(iii)] (V) Notwithstanding subparagraph (i) of this paragraph
+and subject to subparagraph [(iv)] (VI) of this paragraph, the Commission may issue a
+certificate of public convenience and necessity for the construction of A
+transmission line only if the applicant for the certificate of public convenience and
+necessity:
 
 1. is an electric company; or
 
-2. is or, on the start of commercial operation of the [overhead] transmission line, will be subject to regulation as a public utility by an officer or an agency of the United States.
+2. is or, on the start of commercial operation of the
+[overhead] transmission line, will be subject to regulation as a public utility by an officer
+or an agency of the United States.
 
-[(iv)] (VI) The Commission may not issue a certificate of public convenience and necessity for the construction of [an overhead] A transmission line in the electric distribution service territory of an electric company to an applicant other than an electric company if:
+[(iv)] (VI) The Commission may not issue a certificate of public
+convenience and necessity for the construction of A transmission line in
+the electric distribution service territory of an electric company to an applicant other
+than an electric company if:
 
-1. the [overhead] transmission line is to be located solely within the electric distribution service territory of that electric company; and
+1. the [overhead] transmission line is to be located solely
+within the electric distribution service territory of that electric company; and
 
-2. the cost of the [overhead] transmission line is to be paid solely by that electric company and its ratepayers.
+2. the cost of the [overhead] transmission line is to be
+paid solely by that electric company and its ratepayers.
 
-[(v)] (VII) 1. This subparagraph applies to the construction of [an overhead] A transmission line for which a certificate of public convenience and necessity is required under this section.
+[(v)] (VII) 1. This subparagraph applies to the construction of
+A transmission line for which a certificate of public convenience and
+necessity is required under this section.
 
-2. On issuance of a certificate of public convenience and necessity for the construction of [an overhead] A transmission line, a person may acquire by condemnation, in accordance with Title 12 of the Real Property Article, any property or right necessary for the construction or maintenance of the transmission line.
+2. On issuance of a certificate of public convenience and
+necessity for the construction of A transmission line, a person may
+acquire by condemnation, in accordance with Title 12 of the Real Property Article, any
+property or right necessary for the construction or maintenance of the transmission line.
 
-(4) (i) [Except as provided in subparagraph (ii) of this paragraph, for construction related to an existing overhead transmission line designed to carry a voltage in excess of 69,000 volts, the Commission shall waive the requirement to obtain a certificate of public convenience and necessity if the Commission finds that the construction does not:
+(4) (i) A PERSON MAY COMPLETE CONSTRUCTION RELATED TO AN EXISTING
+TRANSMISSION LINE, INCLUDING REPAIRS, IF THE CONSTRUCTION IS NECESSARY
+TO AVOID AN IMMINENT SAFETY HAZARD OR RELIABILITY RISK.
 
-1. require the person to obtain new real property or additional rights–of–way through eminent domain; or
+[2.] (II) Within 30 days after construction is completed
+under SUBPARAGRAPH (I) OF THIS
+PARAGRAPH, a person shall file a report with the Commission describing the work that
+was completed.
 
-2. require larger or higher structures to accommodate:
-
-A. increased voltage; or
-
-B. larger conductors.
-
-(ii) 1. For construction related to an existing overhead transmission line, including repairs, that is necessary to avoid an imminent safety hazard or reliability risk, a person may undertake the necessary construction] A PERSON MAY COMPLETE CONSTRUCTION RELATED TO AN EXISTING TRANSMISSION LINE, INCLUDING REPAIRS, IF THE CONSTRUCTION IS NECESSARY TO AVOID AN IMMINENT SAFETY HAZARD OR RELIABILITY RISK.
-
-[2.] (II) Within 30 days after construction is completed under [subsubparagraph 1 of this subparagraph] SUBPARAGRAPH (I) OF THIS PARAGRAPH, a person shall file a report with the Commission describing the work that was completed.
-
-(c) (1) On receipt of an application for a certificate of public convenience and necessity under this section, the Commission shall provide notice immediately or require the applicant to provide notice immediately of the application to:
+(c) (1) On receipt of an application for a certificate of public convenience
+and necessity under this section, the Commission shall provide notice immediately or
+require the applicant to provide notice immediately of the application to:
 
 (i) the Department of Planning;
 
-(ii) the governing body, and if applicable the executive, of each county or municipal corporation in which any portion of the generating station, [overhead] transmission line, or qualified generator lead line is proposed to be constructed;
+(ii) the governing body, and if applicable the executive, of each
+county or municipal corporation in which any portion of the generating station,
+[overhead] transmission line, or qualified generator lead line is proposed to be
+constructed;
 
-(iii) the governing body, and if applicable the executive, of each county or municipal corporation within 1 mile of the proposed location of the generating station, [overhead] transmission line, or qualified generator lead line;
+(iii) the governing body, and if applicable the executive, of each
+county or municipal corporation within 1 mile of the proposed location of the generating
+station, [overhead] transmission line, or qualified generator lead line;
 
-(iv) each member of the General Assembly representing any part of a county in which any portion of the generating station, [overhead] transmission line, or qualified generator lead line is proposed to be constructed;
+(iv) each member of the General Assembly representing any part
+of a county in which any portion of the generating station, [overhead] transmission line,
+or qualified generator lead line is proposed to be constructed;
 
-(v) each member of the General Assembly representing any part of each county within 1 mile of the proposed location of the generating station, [overhead] transmission line, or qualified generator lead line;
+(v) each member of the General Assembly representing any part
+of each county within 1 mile of the proposed location of the generating station,
+[overhead] transmission line, or qualified generator lead line;
 
-(vi) for a proposed [overhead] transmission line, each owner of land and each owner of adjacent land; and
+(vi) for a proposed [overhead] transmission line, each owner of
+land and each owner of adjacent land; and
 
 (vii) all other interested persons.
 
-(2) The Commission, when sending the notice required under paragraph (1) of this subsection, shall forward a copy of the application to:
+(2) The Commission, when sending the notice required under
+paragraph (1) of this subsection, shall forward a copy of the application to:
 
-(i) each appropriate State unit and unit of local government for review, evaluation, and comment regarding the significance of the proposal to State, area–wide, and local plans or programs; and
+(i) each appropriate State unit and unit of local government for
+review, evaluation, and comment regarding the significance of the proposal to State,
+area–wide, and local plans or programs; and
 
-(ii) each member of the General Assembly included under paragraph (1)(iv) and (v) of this subsection who requests a copy of the application.
+(ii) each member of the General Assembly included under
+paragraph (1)(iv) and (v) of this subsection who requests a copy of the application.
 
-(3) On receipt of an application for a certificate of public convenience and necessity under this section, the Commission shall provide notice of the application on the Commission’s social media platforms and website.
+(3) On receipt of an application for a certificate of public convenience
+and necessity under this section, the Commission shall provide notice of the application
+on the Commission’s social media platforms and website.
 
-(d) (1) (i) The Commission shall provide an opportunity for public comment and hold a public hearing on the application for a certificate of public convenience and necessity in each county and municipal corporation in which any portion of the construction of a generating station, [an overhead] A transmission line designed to carry a voltage in excess of 69,000 volts, or a qualified generator lead line is proposed to be located.
+(d) (1) (i) The Commission shall provide an opportunity for public
+comment and hold a public hearing on the application for a certificate of public
+convenience and necessity in each county and municipal corporation in which any
+portion of the construction of a generating station, A transmission line
+designed to carry a voltage in excess of 69,000 volts, or a qualified generator lead line is
+proposed to be located.
 
-(ii) The Commission may hold the public hearing virtually rather than in person if the Commission provides a comparable opportunity for public comment and participation in the hearing.
+(ii) The Commission may hold the public hearing virtually rather
+than in person if the Commission provides a comparable opportunity for public comment
+and participation in the hearing.
 
-(2) The Commission shall hold the public hearing jointly with the governing body of the county or municipal corporation in which any portion of the construction of the generating station, [overhead] transmission line, or qualified generator lead line is proposed to be located, unless the governing body declines to participate in the hearing.
+(2) The Commission shall hold the public hearing jointly with the
+governing body of the county or municipal corporation in which any portion of the
+construction of the generating station, [overhead] transmission line, or qualified
+generator lead line is proposed to be located, unless the governing body declines to
+participate in the hearing.
 
-(3) (i) Once in each of the 4 successive weeks immediately before the hearing date, the Commission shall provide weekly notice of the public hearing and an opportunity for public comment:
+(3) (i) Once in each of the 4 successive weeks immediately before the
+hearing date, the Commission shall provide weekly notice of the public hearing and an
+opportunity for public comment:
 
-1. by advertisement in a newspaper of general circulation in the county or municipal corporation affected by the application;
+1. by advertisement in a newspaper of general circulation
+in the county or municipal corporation affected by the application;
 
 2. on two types of social media; and
 
 3. on the Commission’s website.
 
-(ii) Before a public hearing, the Commission shall coordinate with the governing body of the county or municipal corporation in which any portion of the construction of the generating station, [overhead] transmission line, or qualified generator lead line is proposed to be located to identify additional options for providing, in an efficient and cost–effective manner, notice of the public hearing through other types of media that are familiar to the residents of the county or municipal corporation.
+(ii) Before a public hearing, the Commission shall coordinate
+with the governing body of the county or municipal corporation in which any portion of
+the construction of the generating station, [overhead] transmission line, or qualified
+generator lead line is proposed to be located to identify additional options for providing,
+in an efficient and cost–effective manner, notice of the public hearing through other
+types of media that are familiar to the residents of the county or municipal corporation.
 
-(4) (i) On the day of a public hearing, an informational sign shall be posted prominently at or near each public entrance of the building in which the public hearing will be held.
+(4) (i) On the day of a public hearing, an informational sign shall be
+posted prominently at or near each public entrance of the building in which the public
+hearing will be held.
 
-(ii) The informational sign required under subparagraph (i) of this paragraph shall:
+(ii) The informational sign required under subparagraph (i) of
+this paragraph shall:
 
-1. state the time, room number, and subject of the public hearing; and
+1. state the time, room number, and subject of the public
+hearing; and
 
 2. be at least 17 by 22 inches in size.
 
-(iii) If the public hearing is conducted virtually rather than in person, the Commission shall provide information on the hearing prominently on the Commission’s website.
+(iii) If the public hearing is conducted virtually rather than in
+person, the Commission shall provide information on the hearing prominently on the
+Commission’s website.
 
-(5) (i) The Commission shall ensure presentation and recommendations from each interested State unit, and shall allow representatives of each State unit to sit during hearing of all parties.
+(5) (i) The Commission shall ensure presentation and
+recommendations from each interested State unit, and shall allow representatives of
+each State unit to sit during hearing of all parties.
 
-(ii) The Commission shall allow each State unit 15 days after the conclusion of the hearing to modify the State unit’s initial recommendations.
+(ii) The Commission shall allow each State unit 15 days after the
+conclusion of the hearing to modify the State unit’s initial recommendations.
 
-(e) [The] SUBJECT TO SUBSECTION (F) OF THIS SECTION, THE Commission shall take final action on an application for a certificate of public convenience and necessity only after due consideration of:
+(e) SUBJECT TO SUBSECTION (F) OF THIS SECTION, THE
+Commission shall take final action on an application for a certificate of public
+convenience and necessity only after due consideration of:
 
-(1) the recommendation of the governing body of each county or municipal corporation in which any portion of the construction of the generating station, [overhead] transmission line, or qualified generator lead line is proposed to be located;
+(1) the recommendation of the governing body of each county or
+municipal corporation in which any portion of the construction of the generating station,
+[overhead] transmission line, or qualified generator lead line is proposed to be located;
 
-(2) the effect of the generating station, [overhead] transmission line, or qualified generator lead line on:
+(2) the effect of the generating station, [overhead] transmission line, or
+qualified generator lead line on:
 
 (i) the stability and reliability of the electric system;
 
@@ -1388,69 +2215,124 @@ B. larger conductors.
 
 (iv) historic sites;
 
-(v) WHEN APPLICABLE, aviation safety as determined by the Maryland Aviation Administration and the administrator of the Federal Aviation Administration;
+(v) WHEN APPLICABLE, aviation safety as determined by the
+Maryland Aviation Administration and the administrator of the Federal Aviation
+Administration;
 
 (vi) when applicable, air quality and water pollution; and
 
-(vii) the availability of means for the required timely disposal of wastes produced by any generating station;
+(vii) the availability of means for the required timely disposal of
+wastes produced by any generating station;
 
-(3) the effect of climate change on the generating station, [overhead] transmission line, or qualified generator lead line based on the best available scientific information recognized by the Intergovernmental Panel on Climate Change;
+(3) the effect of climate change on the generating station, [overhead]
+transmission line, or qualified generator lead line based on the best available scientific
+information recognized by the Intergovernmental Panel on Climate Change;
 
 (4) for a generating station:
 
-(i) the consistency of the application with the comprehensive plan and zoning of each county or municipal corporation where any portion of the generating station is proposed to be located;
+(i) the consistency of the application with the comprehensive
+plan and zoning of each county or municipal corporation where any portion of the
+generating station is proposed to be located;
 
-(ii) the efforts to resolve any issues presented by a county or municipal corporation where any portion of the generating station is proposed to be located;
+(ii) the efforts to resolve any issues presented by a county or
+municipal corporation where any portion of the generating station is proposed to be
+located;
 
-(iii) the impact of the generating station on the quantity of annual and long–term statewide greenhouse gas emissions, measured in the manner specified in § 2–1202 of the Environment Article and based on the best available scientific information recognized by the Intergovernmental Panel on Climate Change; and
+(iii) the impact of the generating station on the quantity of annual
+and long–term statewide greenhouse gas emissions, measured in the manner specified
+in § 2–1202 of the Environment Article and based on the best available scientific
+information recognized by the Intergovernmental Panel on Climate Change; and
 
-(iv) the consistency of the application with the State’s climate commitments for reducing statewide greenhouse gas emissions, including those specified in Title 2, Subtitle 12 of the Environment Article; and
+(iv) the consistency of the application with the State’s climate
+commitments for reducing statewide greenhouse gas emissions, including those
+specified in Title 2, Subtitle 12 of the Environment Article; and
 
-(5) for a solar energy generating station specified under § 7–218 of this subtitle, whether the owner of a proposed solar energy generating station complies with the site requirements under § 7–218(f) of this subtitle.
+(5) for a solar energy generating station specified under § 7–218 of this
+subtitle, whether the owner of a proposed solar energy generating station complies with
+the site requirements under § 7–218(f) of this subtitle.
 
-(F) THE COMMISSION SHALL TAKE FINAL ACTION ON AN APPLICATION FOR A CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY FOR AN UNDERGROUND TRANSMISSION LINE WITHIN 180 DAYS AFTER RECEIVING A COMPLETE APPLICATION.
+(F) THE COMMISSION SHALL TAKE FINAL ACTION ON AN APPLICATION
+FOR A CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY FOR AN
+UNDERGROUND TRANSMISSION LINE WITHIN 180 DAYS AFTER RECEIVING A
+COMPLETE APPLICATION.
 
-[(f)] (G) For the construction of [an overhead] A transmission line, in addition to the considerations listed in subsection (e) of this section, the Commission shall:
+[(f)] (G) For the construction of A transmission line, in
+addition to the considerations listed in subsection (e) of this section, the Commission
+shall:
 
-(1) take final action on an application for a certificate of public convenience and necessity only after due consideration of:
+(1) take final action on an application for a certificate of public
+convenience and necessity only after due consideration of:
 
-(i) the need to meet existing and future demand for electric service; [and]
+(i) the need to meet existing and future demand for electric
+service; [and]
 
-(ii) EVIDENCE THAT ALTERNATIVES HAVE BEEN CONSIDERED BY THE APPLICANT IN ACCORDANCE WITH SUBSECTION (B)(3)(IV) OF THIS SECTION; AND
+(ii) EVIDENCE THAT ALTERNATIVES HAVE BEEN
+CONSIDERED BY THE APPLICANT IN ACCORDANCE WITH SUBSECTION (B)(3)(IV)
+OF THIS SECTION; AND
 
-(III) for construction related to a new [overhead] transmission line, the alternative routes that the applicant considered, including the estimated capital and operating costs of each alternative route and a statement of the reason why the alternative route was rejected;
+(III) for construction related to a new [overhead] transmission
+line, the alternative routes that the applicant considered, including the estimated
+capital and operating costs of each alternative route and a statement of the reason why
+the alternative route was rejected;
 
-(2) require as an ongoing condition of the certificate of public convenience and necessity that an applicant comply with:
+(2) require as an ongoing condition of the certificate of public
+convenience and necessity that an applicant comply with:
 
-(i) all relevant agreements with PJM Interconnection, L.L.C., or its successors, related to the ongoing operation and maintenance of the [overhead] transmission line; and
+(i) all relevant agreements with PJM Interconnection, L.L.C., or
+its successors, related to the ongoing operation and maintenance of the [overhead]
+transmission line; and
 
-(ii) all obligations imposed by the North America Electric Reliability Council and the Federal Energy Regulatory Commission related to the ongoing operation and maintenance of the [overhead] transmission line; and
+(ii) all obligations imposed by the North America Electric
+Reliability Council and the Federal Energy Regulatory Commission related to the
+ongoing operation and maintenance of the [overhead] transmission line; and
 
-(3) require the applicant to identify whether the [overhead] transmission line is proposed to be constructed on:
+(3) require the applicant to identify whether the [overhead]
+transmission line is proposed to be constructed on:
 
 (i) an existing brownfields site;
 
 (ii) property that is subject to an existing easement; or
 
-(iii) a site where a tower structure or components of a tower structure used to support an overhead transmission line exist.
+(iii) a site where a tower structure or components of a tower
+structure used to support an overhead transmission line exist.
 
-[(g)] (H) (1) The Commission may not authorize, and a person may not undertake, the construction of an overhead transmission line that is aligned with and within 1 mile of either end of a public airport runway, unless:
+[(g)] (H) (1) The Commission may not authorize, and a person may not
+undertake, the construction of an overhead transmission line that is aligned with and
+within 1 mile of either end of a public airport runway, unless:
 
-(i) the Federal Aviation Administration determines that the construction of an overhead transmission line will not constitute a hazard to air navigation; and
+(i) the Federal Aviation Administration determines that the
+construction of an overhead transmission line will not constitute a hazard to air
+navigation; and
 
-(ii) the Maryland Aviation Administration concurs in that determination.
+(ii) the Maryland Aviation Administration concurs in that
+determination.
 
-(2) A privately owned airport runway shall qualify as a public airport runway under this subsection only if the runway has been on file with the Federal Aviation Administration for at least 2 years as being open to the public without restriction.
+(2) A privately owned airport runway shall qualify as a public airport
+runway under this subsection only if the runway has been on file with the Federal
+Aviation Administration for at least 2 years as being open to the public without
+restriction.
 
-[(h)] (I) (1) A county or municipal corporation has the authority to approve or deny any local permit required under a certificate of public convenience and necessity issued under this section or a distributed generation certificate of public convenience and necessity issued under § 7–207.4 of this subtitle.
+[(h)] (I) (1) A county or municipal corporation has the authority to
+approve or deny any local permit required under a certificate of public convenience and
+necessity issued under this section or a distributed generation certificate of public
+convenience and necessity issued under § 7–207.4 of this subtitle.
 
-(2) A county or municipal corporation shall approve or deny any local permits required under a certificate of public convenience and necessity issued under this section or a distributed generation certificate of public convenience and necessity issued under § 7–207.4 of this subtitle:
+(2) A county or municipal corporation shall approve or deny any local
+permits required under a certificate of public convenience and necessity issued under
+this section or a distributed generation certificate of public convenience and necessity
+issued under § 7–207.4 of this subtitle:
 
 (i) within a reasonable time; and
 
-(ii) to the extent local laws are not preempted by State law, in accordance with local laws.
+(ii) to the extent local laws are not preempted by State law, in
+accordance with local laws.
 
-(3) A county or municipal corporation may not condition the approval of a local permit required under a certificate of public convenience and necessity issued under this section or a distributed generation certificate of public convenience and necessity issued under § 7–207.4 of this subtitle on receipt of any of the following approvals for any aspect of a generating station, [an overhead] A transmission line, or a qualified lead line proposed to be constructed under the certificate:
+(3) A county or municipal corporation may not condition the approval of
+a local permit required under a certificate of public convenience and necessity issued
+under this section or a distributed generation certificate of public convenience and
+necessity issued under § 7–207.4 of this subtitle on receipt of any of the following
+approvals for any aspect of a generating station, A transmission line, or
+a qualified lead line proposed to be constructed under the certificate:
 
 (i) a conditional use approval;
 
@@ -1460,35 +2342,70 @@ B. larger conductors.
 
 7–207.6.
 
-(A) A PERSON THAT SUBMITS AN APPLICATION FOR APPROVAL OF THE CONSTRUCTION OF A SOLAR ENERGY GENERATING STATION IN ACCORDANCE WITH § 7-207, § 7-207.1, OR § 7-207.4 OF THIS SUBTITLE SHALL:
+(A) A PERSON THAT SUBMITS AN APPLICATION FOR APPROVAL OF THE
+CONSTRUCTION OF A SOLAR ENERGY GENERATING STATION IN ACCORDANCE
+WITH § 7-207, § 7-207.1, OR § 7-207.4 OF THIS SUBTITLE SHALL:
 
-(1) REQUEST, WITHIN 90 DAYS BEFORE BEGINNING CONSTRUCTION, THE COMMISSIONER OF LABOR AND INDUSTRY TO DETERMINE THE PREVAILING WAGE RATE FOR EACH CLASSIFICATION OF WORKER REQUIRED TO PERFORM WORK ON THE PROJECT;
+(1) REQUEST, WITHIN 90 DAYS BEFORE BEGINNING
+CONSTRUCTION, THE COMMISSIONER OF LABOR AND INDUSTRY TO DETERMINE
+THE PREVAILING WAGE RATE FOR EACH CLASSIFICATION OF WORKER REQUIRED
+TO PERFORM WORK ON THE PROJECT;
 
-(2) REQUIRE THAT ANY CONTRACTOR OR SUBCONTRACTOR ON THE PROJECT PAY ITS EMPLOYEES NOT LESS THAN THE PREVAILING WAGE RATE AS DETERMINED BY THE COMMISSIONER OF LABOR AND INDUSTRY UNDER ITEM (1) OF THIS SUBSECTION AND TITLE 17, SUBTITLE 2 OF THE STATE FINANCE AND PROCUREMENT ARTICLE; AND
+(2) REQUIRE THAT ANY CONTRACTOR OR SUBCONTRACTOR ON
+THE PROJECT PAY ITS EMPLOYEES NOT LESS THAN THE PREVAILING WAGE RATE
+AS DETERMINED BY THE COMMISSIONER OF LABOR AND INDUSTRY UNDER ITEM
+(1) OF THIS SUBSECTION AND TITLE 17, SUBTITLE 2 OF THE STATE FINANCE AND
+PROCUREMENT ARTICLE; AND
 
-(3) INCLUDE IN THE APPLICATION AN ATTESTATION THAT THE PERSON SHALL COMPLY WITH THE PROVISIONS OF THIS SECTION AND ANY ADDITIONAL REQUIREMENTS IMPOSED BY THE COMMISSIONER OF LABOR AND INDUSTRY.
+(3) INCLUDE IN THE APPLICATION AN ATTESTATION THAT THE
+PERSON SHALL COMPLY WITH THE PROVISIONS OF THIS SECTION AND ANY
+ADDITIONAL REQUIREMENTS IMPOSED BY THE COMMISSIONER OF LABOR AND
+INDUSTRY.
 
-(B) IN ACCORDANCE WITH TITLE 3, SUBTITLE 5 OF THE LABOR AND EMPLOYMENT ARTICLE, THE MARYLAND DEPARTMENT OF LABOR SHALL ENFORCE THE REQUIREMENT UNDER SUBSECTION (A)(2) OF THIS SECTION FOR CONTRACTORS AND SUBCONTRACTORS TO PAY EMPLOYEES NOT LESS THAN THE PREVAILING WAGE RATE DETERMINED BY THE COMMISSIONER OF LABOR AND INDUSTRY.
+(B) IN ACCORDANCE WITH TITLE 3, SUBTITLE 5 OF THE LABOR AND
+EMPLOYMENT ARTICLE, THE MARYLAND DEPARTMENT OF LABOR SHALL
+ENFORCE THE REQUIREMENT UNDER SUBSECTION (A)(2) OF THIS SECTION FOR
+CONTRACTORS AND SUBCONTRACTORS TO PAY EMPLOYEES NOT LESS THAN THE
+PREVAILING WAGE RATE DETERMINED BY THE COMMISSIONER OF LABOR AND
+INDUSTRY.
 
 7–207.7.
 
-(A) IN THIS SECTION, “ADVANCED TRANSMISSION TECHNOLOGIES” HAS THE MEANING STATED IN § 7–207 OF THIS SUBTITLE.
+(A) IN THIS SECTION, “ADVANCED TRANSMISSION TECHNOLOGIES” HAS
+THE MEANING STATED IN § 7–207 OF THIS SUBTITLE.
 
-(B) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, ON OR BEFORE DECEMBER 1, 2026, AND EVERY 4 YEARS THEREAFTER, EACH OWNER OR OPERATOR OF A TRANSMISSION LINE SHALL SUBMIT TO THE COMMISSION A REPORT THAT:
+(B) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, ON OR
+BEFORE DECEMBER 1, 2026, AND EVERY 4 YEARS THEREAFTER, EACH OWNER OR
+OPERATOR OF A TRANSMISSION LINE SHALL SUBMIT TO THE COMMISSION A
+REPORT THAT:
 
-(I) IDENTIFIES AREAS OF TRANSMISSION CONGESTION FOR THE IMMEDIATELY PRECEDING 3 YEARS AND ANY REASONABLY FORESEEABLE TRANSMISSION CONGESTION ISSUES FOR THE 5 YEARS IMMEDIATELY FOLLOWING THE DATE OF THE REPORT;
+(I) IDENTIFIES AREAS OF TRANSMISSION CONGESTION FOR
+THE IMMEDIATELY PRECEDING 3 YEARS AND ANY REASONABLY FORESEEABLE
+TRANSMISSION CONGESTION ISSUES FOR THE 5 YEARS IMMEDIATELY
+FOLLOWING THE DATE OF THE REPORT;
 
-(II) IDENTIFIES THE PROJECTED OR ACTUAL COST TO RATEPAYERS AS A RESULT OF PAST AND PROJECTED FUTURE TRANSMISSION CONGESTION;
+(II) IDENTIFIES THE PROJECTED OR ACTUAL COST TO
+RATEPAYERS AS A RESULT OF PAST AND PROJECTED FUTURE TRANSMISSION
+CONGESTION;
 
-(III) IDENTIFIES THE FEASIBILITY AND COST OF USING ALTERNATIVE MEANS OF ADDRESSING TRANSMISSION CONGESTION, INCLUDING THE USE OF ADVANCED TRANSMISSION TECHNOLOGIES;
+(III) IDENTIFIES THE FEASIBILITY AND COST OF USING
+ALTERNATIVE MEANS OF ADDRESSING TRANSMISSION CONGESTION, INCLUDING
+THE USE OF ADVANCED TRANSMISSION TECHNOLOGIES;
 
-(IV) IDENTIFIES THE ECONOMIC, ENVIRONMENTAL, AND SOCIAL ISSUES POSED BY THE USE OF EACH ALTERNATIVE MEANS IDENTIFIED UNDER ITEM (III) OF THIS PARAGRAPH; AND
+(IV) IDENTIFIES THE ECONOMIC, ENVIRONMENTAL, AND
+SOCIAL ISSUES POSED BY THE USE OF EACH ALTERNATIVE MEANS IDENTIFIED
+UNDER ITEM (III) OF THIS PARAGRAPH; AND
 
-(V) IF FEASIBLE, PROPOSES AN ADVANCED TRANSMISSION TECHNOLOGY IMPLEMENTATION PLAN TO ADDRESS AREAS OF TRANSMISSION CONGESTION IDENTIFIED UNDER ITEM (I) OF THIS PARAGRAPH.
+(V) IF FEASIBLE, PROPOSES AN ADVANCED TRANSMISSION
+TECHNOLOGY IMPLEMENTATION PLAN TO ADDRESS AREAS OF TRANSMISSION
+CONGESTION IDENTIFIED UNDER ITEM (I) OF THIS PARAGRAPH.
 
-(2) THE COMMISSION MAY MODIFY THE REPORTING SCHEDULE SPECIFIED IN PARAGRAPH (1) OF THIS SUBSECTION.
+(2) THE COMMISSION MAY MODIFY THE REPORTING SCHEDULE
+SPECIFIED IN PARAGRAPH (1) OF THIS SUBSECTION.
 
-(C) AN OWNER OR OPERATOR OF A TRANSMISSION LINE MAY USE ANY AVAILABLE DATA FROM PJM, OR OTHER SOURCES IN COMPLETING THE REPORT REQUIRED UNDER THIS SECTION.
+(C) AN OWNER OR OPERATOR OF A TRANSMISSION LINE MAY USE ANY
+AVAILABLE DATA FROM PJM, OR OTHER SOURCES IN COMPLETING THE REPORT
+REQUIRED UNDER THIS SECTION.
 
 7–208.
 
@@ -1500,49 +2417,74 @@ B. larger conductors.
 
 (i) a generating unit or facility that:
 
-1. is used for the production of electricity for the purpose of:
+1. is used for the production of electricity for the purpose
+of:
 
-A. onsite emergency backup at a facility when service from the electric company is interrupted due to electric distribution or transmission system failure or when there is equipment failure at a site where critical infrastructure is located; and
+A. onsite emergency backup at a facility when service
+from the electric company is interrupted due to electric distribution or transmission
+system failure or when there is equipment failure at a site where critical infrastructure
+is located; and
 
-B. test and maintenance operations necessary to ensure functionality of the generating unit or facility in the event of an interruption of service from the electric company due to electric distribution or transmission system failure or when there is equipment failure at a site where critical infrastructure is located;
+B. test and maintenance operations necessary to ensure
+functionality of the generating unit or facility in the event of an interruption of service
+from the electric company due to electric distribution or transmission system failure or
+when there is equipment failure at a site where critical infrastructure is located;
 
-2. is installed with equipment that prevents the flow of electricity to the electric grid;
+2. is installed with equipment that prevents the flow of
+electricity to the electric grid;
 
-3. is subject to a permit to construct issued by the Department of the Environment; and
+3. is subject to a permit to construct issued by the
+Department of the Environment; and
 
-4. is installed at a facility that is part of critical infrastructure if the facility complies with all applicable regulations regarding noise level and testing hours; or
+4. is installed at a facility that is part of critical
+infrastructure if the facility complies with all applicable regulations regarding noise
+level and testing hours; or
 
-(ii) a combination of two or more generating units or facilities that satisfy item (i) of this paragraph.
+(ii) a combination of two or more generating units or facilities
+that satisfy item (i) of this paragraph.
 
-(4) “Qualified offshore wind project” has the meaning stated in § 7–701 of this title.
+(4) “Qualified offshore wind project” has the meaning stated in § 7–701
+of this title.
 
 (5) “Qualified submerged renewable energy line” means:
 
-(i) a line carrying electricity supply and connecting a qualified offshore wind project to the transmission system; and
+(i) a line carrying electricity supply and connecting a qualified
+offshore wind project to the transmission system; and
 
-(ii) a line in which the portions of the line crossing any submerged lands or any part of a beach erosion control district are buried or submerged.
+(ii) a line in which the portions of the line crossing any submerged
+lands or any part of a beach erosion control district are buried or submerged.
 
 (b) This section applies to any person:
 
-(1) constructing a generating station and its associated [overhead] transmission lines designed to carry a voltage in excess of 69,000 volts;
+(1) constructing a generating station and its associated transmission lines designed to carry a voltage in excess of 69,000 volts;
 
-(2) exercising the right of condemnation in connection with the construction; or
+(2) exercising the right of condemnation in connection with the
+construction; or
 
 (3) constructing a qualified submerged renewable energy line.
 
-(c) (1) To obtain the certificate of public convenience and necessity required under § 7–207 of this subtitle for construction under this section, a person shall file an application with the Commission at least 2 years before construction of the facility will commence.
+(c) (1) To obtain the certificate of public convenience and necessity
+required under § 7–207 of this subtitle for construction under this section, a person shall
+file an application with the Commission at least 2 years before construction of the
+facility will commence.
 
-(2) The Commission may waive the 2–year requirement on a showing of good cause.
+(2) The Commission may waive the 2–year requirement on a showing
+of good cause.
 
 (d) The applicant shall:
 
-(1) include in an application under this section the information that the Commission requests initially; and
+(1) include in an application under this section the information that the
+Commission requests initially; and
 
-(2) furnish any additional information that the Commission requests subsequently.
+(2) furnish any additional information that the Commission requests
+subsequently.
 
-(e) (1) On the receipt of an application under this section, together with any additional information requested under subsection (d)(2) of this section, the Commission shall provide notice to:
+(e) (1) On the receipt of an application under this section, together with
+any additional information requested under subsection (d)(2) of this section, the
+Commission shall provide notice to:
 
-(i) for a proposed [overhead] transmission line, each owner of land and each owner of adjacent land;
+(i) for a proposed [overhead] transmission line, each owner of
+land and each owner of adjacent land;
 
 (ii) all interested persons;
 
@@ -1560,63 +2502,105 @@ B. test and maintenance operations necessary to ensure functionality of the gene
 
 (ix) the Maryland Energy Administration.
 
-(2) On receipt of an application under this section, and whenever additional information is received under subsection (d)(2) of this section, the Commission shall provide notice immediately or require the applicant to provide notice immediately to:
+(2) On receipt of an application under this section, and whenever
+additional information is received under subsection (d)(2) of this section, the
+Commission shall provide notice immediately or require the applicant to provide notice
+immediately to:
 
-(i) the governing body of each county or municipal corporation in which any portion of the generating station or the associated [overhead] transmission lines is proposed to be constructed;
+(i) the governing body of each county or municipal corporation in
+which any portion of the generating station or the associated [overhead] transmission
+lines is proposed to be constructed;
 
-(ii) the governing body of each county or municipal corporation within 1 mile of the proposed location of the generating station or the associated [overhead] transmission lines;
+(ii) the governing body of each county or municipal corporation
+within 1 mile of the proposed location of the generating station or the associated
+[overhead] transmission lines;
 
-(iii) each member of the General Assembly representing any part of a county in which any portion of the generating station or the associated [overhead] transmission lines is proposed to be constructed; and
+(iii) each member of the General Assembly representing any part
+of a county in which any portion of the generating station or the associated [overhead]
+transmission lines is proposed to be constructed; and
 
-(iv) each member of the General Assembly representing any part of each county within 1 mile of the proposed location of the generating station or the associated [overhead] transmission lines.
+(iv) each member of the General Assembly representing any part
+of each county within 1 mile of the proposed location of the generating station or the
+associated [overhead] transmission lines.
 
-(3) The Commission shall hold a public hearing on the application as required by § 7–207 of this subtitle after:
+(3) The Commission shall hold a public hearing on the application as
+required by § 7–207 of this subtitle after:
 
-(i) the receipt of any additional information requested under subsection (d)(2) of this section that the Commission considers necessary; and
+(i) the receipt of any additional information requested under
+subsection (d)(2) of this section that the Commission considers necessary; and
 
-(ii) any publication of notice the Commission considers to be proper.
+(ii) any publication of notice the Commission considers to be
+proper.
 
-(4) (i) At the public hearing, the Commission shall ensure presentation of the information and recommendations of the State units specified in paragraph (1) of this subsection and shall allow the official representative of each unit to sit during hearing of all parties.
+(4) (i) At the public hearing, the Commission shall ensure
+presentation of the information and recommendations of the State units specified in
+paragraph (1) of this subsection and shall allow the official representative of each unit
+to sit during hearing of all parties.
 
-(ii) Based on the evidence relating to the unit’s areas of concern, the Commission shall allow each unit 15 days after the conclusion of the hearing to modify or affirm the unit’s initial recommendations.
+(ii) Based on the evidence relating to the unit’s areas of concern,
+the Commission shall allow each unit 15 days after the conclusion of the hearing to
+modify or affirm the unit’s initial recommendations.
 
-(f) Within 90 days after the conclusion of the hearing on an application under this section, the Commission shall:
+(f) Within 90 days after the conclusion of the hearing on an application under
+this section, the Commission shall:
 
-(1) (i) grant a certificate of public convenience and necessity unconditionally;
+(1) (i) grant a certificate of public convenience and necessity
+unconditionally;
 
-(ii) grant the certificate, subject to conditions the Commission determines to be appropriate; or
+(ii) grant the certificate, subject to conditions the Commission
+determines to be appropriate; or
 
 (iii) deny the certificate; and
 
 (2) notify all interested parties of its decision.
 
-(g) (1) The Commission shall include in each certificate it issues under subsection (f) of this section:
+(g) (1) The Commission shall include in each certificate it issues under
+subsection (f) of this section:
 
-(i) the requirements of the federal and State environmental laws and standards that are identified by the Department of the Environment; and
+(i) the requirements of the federal and State environmental laws
+and standards that are identified by the Department of the Environment; and
 
-(ii) the methods and conditions that the Commission determines are appropriate to comply with those environmental laws and standards.
+(ii) the methods and conditions that the Commission determines
+are appropriate to comply with those environmental laws and standards.
 
-(2) The Commission may not adopt any method or condition under paragraph (1)(ii) of this subsection that the Department of the Environment determines is inconsistent with federal and State environmental laws and standards.
+(2) The Commission may not adopt any method or condition under
+paragraph (1)(ii) of this subsection that the Department of the Environment determines
+is inconsistent with federal and State environmental laws and standards.
 
-(h) (1) A decision of the Commission regarding the issuance of a certificate requires the vote of a majority of the members of the Commission.
+(h) (1) A decision of the Commission regarding the issuance of a certificate
+requires the vote of a majority of the members of the Commission.
 
-(2) If a majority of the members of the Commission fails to reach agreement on the conditions to be attached to a conditional certificate, the certificate shall be denied.
+(2) If a majority of the members of the Commission fails to reach
+agreement on the conditions to be attached to a conditional certificate, the certificate
+shall be denied.
 
-(i) The grant of a certificate by the Commission to any person under subsection (f) of this section constitutes:
+(i) The grant of a certificate by the Commission to any person under
+subsection (f) of this section constitutes:
 
-(1) authority for the person to dredge and construct bulkheads in the waters or private wetlands of the State and to appropriate or use the waters; and
+(1) authority for the person to dredge and construct bulkheads in the
+waters or private wetlands of the State and to appropriate or use the waters; and
 
-(2) registration and a permit to construct, as required under Title 2, Subtitle 4 of the Environment Article.
+(2) registration and a permit to construct, as required under Title 2,
+Subtitle 4 of the Environment Article.
 
-(j) (1) A county or municipal corporation has the authority to approve or deny any local permit required under a certificate of public convenience and necessity issued under this section.
+(j) (1) A county or municipal corporation has the authority to approve or
+deny any local permit required under a certificate of public convenience and necessity
+issued under this section.
 
-(2) A county or municipal corporation shall approve or deny any local permits required under a certificate of public convenience and necessity issued under this section:
+(2) A county or municipal corporation shall approve or deny any local
+permits required under a certificate of public convenience and necessity issued under
+this section:
 
 (i) within a reasonable time; and
 
-(ii) to the extent local laws are not preempted by State law, in accordance with local laws.
+(ii) to the extent local laws are not preempted by State law, in
+accordance with local laws.
 
-(3) A county or municipal corporation may not condition the approval of a local permit required under a certificate of public convenience and necessity issued under this section on receipt of any of the following approvals for any aspect of a generating station, [an overhead] A transmission line, or a qualified lead line proposed to be constructed under the certificate:
+(3) A county or municipal corporation may not condition the approval of
+a local permit required under a certificate of public convenience and necessity issued
+under this section on receipt of any of the following approvals for any aspect of a
+generating station, A transmission line, or a qualified lead line proposed
+to be constructed under the certificate:
 
 (i) a conditional use approval;
 
@@ -1630,33 +2614,48 @@ B. test and maintenance operations necessary to ensure functionality of the gene
 
 (5) “Program” means the Maryland Energy Storage Program.
 
-(c) (1) The Commission shall establish the Maryland Energy Storage Program.
+(c) (1) The Commission shall establish the Maryland Energy Storage
+Program.
 
 (2) The Program shall be implemented no later than July 1, 2025.
 
-(3) The Program shall include competitive procurement mechanisms to reach a minimum of 3,000 megawatts of energy storage, or the maximum cost–effective amount of energy storage that can be deployed, by the end of delivery year 2033.
+(3) The Program shall include competitive procurement mechanisms to
+reach a minimum of 3,000 megawatts of energy storage, or the maximum cost–effective
+amount of energy storage that can be deployed, by the end of delivery year 2033.
 
 (4) The Program may include:
 
-(i) a system of energy storage credits and market–based incentives designed to:
+(i) a system of energy storage credits and market–based
+incentives designed to:
 
-1. develop a robust energy storage market in the State; and
+1. develop a robust energy storage market in the State;
+and
 
-2. deploy energy storage devices in a cost–effective manner;
+2. deploy energy storage devices in a cost–effective
+manner;
 
 (ii) a requirement that investor–owned electric companies:
 
 1. install or contract for energy storage devices; or
 
-2. contract for credits from an energy storage project under § 7–216 of this subtitle;
+2. contract for credits from an energy storage project
+under § 7–216 of this subtitle;
 
-(iii) a requirement that Program participants make reasonable efforts to apply for all applicable State and federal grants, rebates, tax credits, loan guarantees, and other similar benefits as the benefits become available; or
+(iii) a requirement that Program participants make reasonable
+efforts to apply for all applicable State and federal grants, rebates, tax credits, loan
+guarantees, and other similar benefits as the benefits become available; or
 
-(iv) any other mechanism or policy that the Commission determines is appropriate to achieve the goal of a robust, cost–effective energy storage system in the State.
+(iv) any other mechanism or policy that the Commission
+determines is appropriate to achieve the goal of a robust, cost–effective energy storage
+system in the State.
 
-(D) ON OR BEFORE NOVEMBER 1 EACH YEAR, THE COMMISSION SHALL REPORT TO THE GENERAL ASSEMBLY, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, ON THE STATUS OF THE PROGRAM, INCLUDING:
+(D) ON OR BEFORE NOVEMBER 1 EACH YEAR, THE COMMISSION SHALL
+REPORT TO THE GENERAL ASSEMBLY, IN ACCORDANCE WITH § 2–1257 OF THE
+STATE GOVERNMENT ARTICLE, ON THE STATUS OF THE PROGRAM, INCLUDING:
 
-(1) THE CAPACITY OF OPERATIONAL ENERGY STORAGE DEVICES IN THE STATE THAT IS BEING COUNTED TOWARD THE CAPACITY GOAL ESTABLISHED UNDER SUBSECTION (C)(3) OF THIS SECTION, DISAGGREGATED BY:
+(1) THE CAPACITY OF OPERATIONAL ENERGY STORAGE DEVICES
+IN THE STATE THAT IS BEING COUNTED TOWARD THE CAPACITY GOAL
+ESTABLISHED UNDER SUBSECTION (C)(3) OF THIS SECTION, DISAGGREGATED BY:
 
 (I) ELECTRIC COMPANY SERVICE TERRITORY;
 
@@ -1668,117 +2667,210 @@ B. test and maintenance operations necessary to ensure functionality of the gene
 
 (V) BEHIND-THE-METER STORAGE; AND
 
-(VI) ANY OTHER RELEVANT CATEGORY, AS DETERMINED BY THE COMMISSION;
+(VI) ANY OTHER RELEVANT CATEGORY, AS DETERMINED BY
+THE COMMISSION;
 
-(2) WHETHER THE CAPACITY GOAL ESTABLISHED UNDER SUBSECTION (C)(3) OF THIS SECTION SHOULD BE ALTERED BASED ON CURRENT TECHNOLOGY COSTS, ENERGY STORAGE DEPLOYMENT TRENDS, ELECTRIC SYSTEM RELIABILITY, AND RATEPAYER IMPACTS;
+(2) WHETHER THE CAPACITY GOAL ESTABLISHED UNDER
+SUBSECTION (C)(3) OF THIS SECTION SHOULD BE ALTERED BASED ON CURRENT
+TECHNOLOGY COSTS, ENERGY STORAGE DEPLOYMENT TRENDS, ELECTRIC
+SYSTEM RELIABILITY, AND RATEPAYER IMPACTS;
 
-(3) BARRIERS TO ACHIEVING THE GOALS IDENTIFIED UNDER THIS SECTION; AND
+(3) BARRIERS TO ACHIEVING THE GOALS IDENTIFIED UNDER THIS
+SECTION; AND
 
-(4) ANY OTHER INFORMATION THE COMMISSION CONSIDERS PERTINENT.
+(4) ANY OTHER INFORMATION THE COMMISSION CONSIDERS
+PERTINENT.
 
 7–221.
 
 The General Assembly finds and declares that energy efficiency is:
 
-(1) among the least expensive ways to meet the energy demands of the State;
+(1) among the least expensive ways to meet the energy demands of the
+State;
 
-(2) a means of affordable, reliable, and clean energy for consumers of Maryland; and
+(2) a means of affordable, reliable, and clean energy for consumers of
+Maryland; and
 
-(3) one method to achieve Maryland’s climate commitments for reducing statewide greenhouse gas emissions, including those required under Title 2, Subtitle 12 of the Environment Article.
+(3) one method to achieve Maryland’s climate commitments for
+reducing statewide greenhouse gas emissions, including those required under Title 2,
+Subtitle 12 of the Environment Article.
 
 7–221.1.
 
-ON AND AFTER JULY 1, 2026, THIS PART DOES NOT APPLY TO ANY GAS COMPANY THAT HAS NOT, BEFORE JANUARY 1, 2026, IMPLEMENTED A PROGRAM OR SERVICE IN ACCORDANCE WITH THIS PART.
+ON AND AFTER JULY 1, 2026, THIS PART DOES NOT APPLY TO ANY GAS
+COMPANY THAT HAS NOT, BEFORE JANUARY 1, 2026, IMPLEMENTED A PROGRAM
+OR SERVICE IN ACCORDANCE WITH THIS PART.
 
 7–222.
 
-(a) Subject to review and approval by the Commission, each electric company, each gas company [other than a gas company subject to § 4–207(a) of this article], the Department, and, if required in accordance with subsection (c) of this section, each midsize electric cooperative shall develop and implement programs and services in accordance with §§ 7–223, 7–224, and 7–225 of this subtitle to encourage and promote the efficient use and conservation of energy, demand response, and beneficial electrification by consumers, electric companies, gas companies, and the Department in support of the greenhouse gas emissions reduction goals and targets required under Title 2, Subtitle 12 of the Environment Article.
+(a) Subject to review and approval by the Commission, each electric company,
+each gas company, the
+Department, and, if required in accordance with subsection (c) of this section, each
+midsize electric cooperative shall develop and implement programs and services in
+accordance with §§ 7–223, 7–224, and 7–225 of this subtitle to encourage and promote
+the efficient use and conservation of energy, demand response, and beneficial
+electrification by consumers, electric companies, gas companies, and the Department in
+support of the greenhouse gas emissions reduction goals and targets required under
+Title 2, Subtitle 12 of the Environment Article.
 
-(b) As directed by the Commission, [each gas company subject to § 4–207(a) of this article,] each municipal electric or gas utility, each small rural electric cooperative, and, if required in accordance with subsection (c) of this section, each midsize electric cooperative shall include energy efficiency and conservation, demand response, and beneficial electrification programs or services as part of their service to their customers.
+(b) As directed by the Commission, each municipal electric or gas utility, each small rural electric cooperative,
+and, if required in accordance with subsection (c) of this section, each midsize electric
+cooperative shall include energy efficiency and conservation, demand response, and
+beneficial electrification programs or services as part of their service to their customers.
 
-(c) (1) In accordance with this subsection, each midsize electric cooperative shall be subject to either subsection (a) or subsection (b) of this section.
+(c) (1) In accordance with this subsection, each midsize electric cooperative
+shall be subject to either subsection (a) or subsection (b) of this section.
 
-(2) Each midsize electric cooperative shall offer programs and services to customers in accordance with:
+(2) Each midsize electric cooperative shall offer programs and services
+to customers in accordance with:
 
 (i) subsection (b) of this section through December 31, 2026; and
 
-(ii) on or after January 1, 2027, and as the Commission directs, either subsection (a) or subsection (b) of this section.
+(ii) on or after January 1, 2027, and as the Commission directs,
+either subsection (a) or subsection (b) of this section.
 
-(3) Not later than October 1, 2025, the Commission shall determine if it is in the public interest for a midsize electric cooperative to offer programs and services to customers in accordance with subsection (a) or subsection (b) of this section starting January 1, 2027, and for all subsequent years.
+(3) Not later than October 1, 2025, the Commission shall determine if
+it is in the public interest for a midsize electric cooperative to offer programs and
+services to customers in accordance with subsection (a) or subsection (b) of this section
+starting January 1, 2027, and for all subsequent years.
 
-(4) Each midsize electric cooperative shall provide the following information to the Commission to assist in making a determination under paragraph (3) of this subsection:
+(4) Each midsize electric cooperative shall provide the following
+information to the Commission to assist in making a determination under paragraph
+(3) of this subsection:
 
 (i) anticipated costs and bill impacts;
 
 (ii) a description of the anticipated program offerings;
 
-(iii) the anticipated cost–effectiveness of the residential, commercial, and industrial sector subportfolios based on the cost–effectiveness tests in § 7–225(d)(3)(i) of this subtitle;
+(iii) the anticipated cost–effectiveness of the residential,
+commercial, and industrial sector subportfolios based on the cost–effectiveness tests in
+§ 7–225(d)(3)(i) of this subtitle;
 
-(iv) the anticipated electricity savings and greenhouse gas emissions reductions; and
+(iv) the anticipated electricity savings and greenhouse gas
+emissions reductions; and
 
 (v) any other information the Commission requires.
 
-(5) The information provided to the Commission under paragraph (4) of this subsection shall be based on a plan to offer programs and services to customers that complies with the requirements of an electric company subject to subsection (a) of this section for the [3–year] 2–YEAR program cycle starting January 1, 2027.
+(5) The information provided to the Commission under paragraph (4) of
+this subsection shall be based on a plan to offer programs and services to customers that
+complies with the requirements of an electric company subject to subsection (a) of this
+section for the 2–YEAR program cycle starting January 1, 2027.
 
-(6) When making a public interest determination under paragraph (3) of this subsection the Commission, at a minimum, shall consider the requirements under § 7–225(d)(3) of this subtitle that are considered when approving a plan of an electric company that is subject to subsection (a) of this section.
+(6) When making a public interest determination under paragraph (3)
+of this subsection the Commission, at a minimum, shall consider the requirements
+under § 7–225(d)(3) of this subtitle that are considered when approving a plan of an
+electric company that is subject to subsection (a) of this section.
 
-(7) Starting October 1, 2025, if the Commission determines that it is in the public interest for a midsize electric cooperative to be subject to subsection (a) of this section, the midsize electric cooperative shall comply with all requirements of an electric company subject to subsection (a) of this section for program cycles starting on and after January 1, 2027.
+(7) Starting October 1, 2025, if the Commission determines that it is in
+the public interest for a midsize electric cooperative to be subject to subsection (a) of this
+section, the midsize electric cooperative shall comply with all requirements of an electric
+company subject to subsection (a) of this section for program cycles starting on and after
+January 1, 2027.
 
-(8) On or before March 1 each year, starting in 2026, each midsize electric cooperative directed by the Commission to include programs or services under subsection (b) of this section shall submit to the Commission a report quantifying the gains in energy efficiency and reductions in greenhouse gas emissions achieved during the previous year.
+(8) On or before March 1 each year, starting in 2026, each midsize
+electric cooperative directed by the Commission to include programs or services under
+subsection (b) of this section shall submit to the Commission a report quantifying the
+gains in energy efficiency and reductions in greenhouse gas emissions achieved during
+the previous year.
 
-(d) The Commission shall encourage and promote the efficient use and conservation of energy in support of the greenhouse gas emissions reduction goals and targets required under Title 2, Subtitle 12 of the Environment Article, established by the Commission under § 7–223(b) of this subtitle, and specified in § 7–224(a)(2) of this subtitle by:
+(d) The Commission shall encourage and promote the efficient use and
+conservation of energy in support of the greenhouse gas emissions reduction goals and
+targets required under Title 2, Subtitle 12 of the Environment Article, established by
+the Commission under § 7–223(b) of this subtitle, and specified in § 7–224(a)(2) of this
+subtitle by:
 
-(1) requiring each electric company and gas company to establish any program or service that the Commission determines to be appropriate and cost–effective;
+(1) requiring each electric company and gas company to establish any
+program or service that the Commission determines to be appropriate and cost–
+effective;
 
-(2) adopting rate–making policies that provide, through a surcharge line item on customer bills:
+(2) adopting rate–making policies that provide, through a surcharge
+line item on customer bills:
 
-(i) full cost recovery of reasonably incurred costs for programs and services established under item (1) of this subsection, including full recovery on a current basis on or before January 1, 2028;
+(i) full cost recovery of reasonably incurred costs for programs
+and services established under item (1) of this subsection, including full recovery on a
+current basis on or before January 1, 2028;
 
-(ii) on or before December 31, 2032, the elimination of any unpaid costs and unamortized costs that:
+(ii) on or before December 31, 2032, the elimination of any unpaid
+costs and unamortized costs that:
 
 1. A. existed on December 31, 2024; or
 
 B. were incurred before January 1, 2028; and
 
-2. were accrued for the purpose of achieving statutory targets for annual incremental gross energy savings;
+2. were accrued for the purpose of achieving statutory
+targets for annual incremental gross energy savings;
 
-(iii) compensation for any unpaid costs and unamortized costs under item (ii) of this item at not more than each electric company’s and each gas company’s average cost of outstanding debt; and
+(iii) compensation for any unpaid costs and unamortized costs
+under item (ii) of this item at not more than each electric company’s and each gas
+company’s average cost of outstanding debt; and
 
-(iv) reasonable financial performance incentives and penalties for investor–owned electric companies and gas companies, as appropriate; and
+(iv) reasonable financial performance incentives and penalties for
+investor–owned electric companies and gas companies, as appropriate; and
 
-(3) ensuring that adoption of electric customer choice under Subtitle 5 of this title and gas customer choice under Subtitle 6 of this title does not adversely impact these goals and targets.
+(3) ensuring that adoption of electric customer choice under Subtitle 5
+of this title and gas customer choice under Subtitle 6 of this title does not adversely
+impact these goals and targets.
 
-(e) The Commission shall, by regulation or order, require each electric company and each gas company [subject to subsection (a) of this section] that has submitted to the Commission, on or before July 1, 2024, a plan for achieving electricity or gas savings and demand reduction targets to disclose the following information in a form and format readily understandable to the average customer:
+(e) The Commission shall, by regulation or order, require each electric
+company and each gas company that has submitted to the Commission, on or before July 1, 2024, a plan for achieving electricity
+or gas savings and demand reduction targets to disclose the following information in a
+form and format readily understandable to the average customer:
 
-(1) that the surcharge imposed in accordance with subsection (d) of this section includes the cost of paying down the unpaid costs and unamortized costs that were accrued over time by programs and services required by the Commission dating back to 2008; and
+(1) that the surcharge imposed in accordance with subsection (d) of this
+section includes the cost of paying down the unpaid costs and unamortized costs that
+were accrued over time by programs and services required by the Commission dating
+back to 2008; and
 
-(2) the period of time that the surcharge will include excess charges to pay down the unpaid costs and unamortized costs.
+(2) the period of time that the surcharge will include excess charges to
+pay down the unpaid costs and unamortized costs.
 
 7–223.
 
-(a) On or before January 1, 2025, [and] on or before January 1, 2027, ON OR BEFORE JANUARY 1, 2029, AND ON OR BEFORE JANUARY 1 every 3 years, starting in [2027] 2029, the Commission shall, by regulation or order, require each electric company and each gas company subject to § 7–222(a) of this subtitle to develop and implement a plan that:
+(a) On or before January 1, 2025, on or before January 1, 2027, ON OR
+BEFORE JANUARY 1, 2029, AND ON OR BEFORE JANUARY 1 every 3 years, starting
+in 2029, the Commission shall, by regulation or order, require each electric
+company and each gas company subject to § 7–222(a) of this subtitle to develop and
+implement a plan that:
 
 (1) covers appropriate ratepayer classes;
 
-(2) starting in [2027] 2029, covers a 3–year program cycle; and
+(2) starting in 2029, covers a 3–year program cycle; and
 
-(3) achieves the greenhouse gas emissions reduction target established for the electric company or gas company under subsection (b) of this section through cost–effective energy efficiency and conservation programs and services, demand response programs and services, and beneficial electrification programs and services.
+(3) achieves the greenhouse gas emissions reduction target established
+for the electric company or gas company under subsection (b) of this section through
+cost–effective energy efficiency and conservation programs and services, demand
+response programs and services, and beneficial electrification programs and services.
 
-(b) (1) For [2025 and 2026,] 2025, 2026, 2027, AND 2028, and for each 3–year program cycle starting in [2027] 2029, the Commission shall establish a greenhouse gas emissions reduction target for each electric company and each gas company subject to § 7–222(a) of this subtitle as provided in this subsection.
+(b) (1) For 2025, 2026, 2027, AND 2028, and for each
+3–year program cycle starting in 2029, the Commission shall establish a
+greenhouse gas emissions reduction target for each electric company and each gas
+company subject to § 7–222(a) of this subtitle as provided in this subsection.
 
-(2) When establishing greenhouse gas emissions reduction targets under this subsection, the Commission shall measure the greenhouse gas emissions from electricity and gas, and the intensities of those emissions, using current data and projections from the Department of the Environment.
+(2) When establishing greenhouse gas emissions reduction targets
+under this subsection, the Commission shall measure the greenhouse gas emissions
+from electricity and gas, and the intensities of those emissions, using current data and
+projections from the Department of the Environment.
 
-(3) The greenhouse gas emissions reduction targets established under this subsection shall be measured:
+(3) The greenhouse gas emissions reduction targets established under
+this subsection shall be measured:
 
 (i) in metric tons; and
 
-(ii) relative to the greenhouse gas emissions associated with the electric company’s or gas company’s weather–normalized gross retail sales and losses in a baseline year, as determined by the Commission.
+(ii) relative to the greenhouse gas emissions associated with the
+electric company’s or gas company’s weather–normalized gross retail sales and losses in
+a baseline year, as determined by the Commission.
 
-(4) By the dates specified in § 7–225(a) of this subtitle, the Commission shall establish greenhouse gas emissions reduction targets for each electric company plan that will achieve at least the greenhouse gas emissions reduction equivalent, measured on a lifecycle basis using the emission intensities under paragraph (2) of this subsection, of the following annual electricity savings percentages, calculated as a percentage of the electric company’s 2016 weather–normalized gross retail sales and electricity losses:
+(4) By the dates specified in § 7–225(a) of this subtitle, the Commission
+shall establish greenhouse gas emissions reduction targets for each electric company
+plan that will achieve at least the greenhouse gas emissions reduction equivalent,
+measured on a lifecycle basis using the emission intensities under paragraph (2) of this
+subsection, of the following annual electricity savings percentages, calculated as a
+percentage of the electric company’s 2016 weather–normalized gross retail sales and
+electricity losses:
 
 (i) 2.0% in 2024;
 
-(ii) 2.25% [each year] in 2025 [and 2026; and];
+(ii) 2.25% in 2025;
 
 (III) 1.75% EACH YEAR IN 2026 THROUGH 2029;
 
@@ -1786,67 +2878,144 @@ B. were incurred before January 1, 2028; and
 
 (V) 2.25% EACH YEAR IN 2033 THROUGH 2035; AND
 
-[(iii)] (VI) 2.5% each year in [2027] 2036 and after.
+[(iii)] (VI) 2.5% each year in 2036 and after.
 
-(5) On or before January 1, 2025, and on or before January 1 every 3 years, starting in 2027, the Commission shall establish greenhouse gas emissions reduction targets for each gas company plan that will achieve at least the greenhouse gas emissions reduction equivalent, measured on a lifecycle basis using the emission intensities under paragraph (2) of this subsection, of the gas savings achieved by the gas company for the 2021–2023 program cycle.
+(5) On or before January 1, 2025, and on or before January 1 every 3
+years, starting in 2027, the Commission shall establish greenhouse gas emissions
+reduction targets for each gas company plan that will achieve at least the greenhouse
+gas emissions reduction equivalent, measured on a lifecycle basis using the emission
+intensities under paragraph (2) of this subsection, of the gas savings achieved by the
+gas company for the 2021–2023 program cycle.
 
-(6) The Commission shall take into consideration the most recent final plan adopted under § 2–1205 of the Environment Article when establishing the greenhouse gas emissions reduction targets under this subsection.
+(6) The Commission shall take into consideration the most recent final
+plan adopted under § 2–1205 of the Environment Article when establishing the
+greenhouse gas emissions reduction targets under this subsection.
 
 (7) For 2025 and 2026:
 
-(i) the Commission shall, after making appropriate findings, determine whether existing electric company and gas company plans must be modified to comply with § 7–225(d) of this subtitle; and
+(i) the Commission shall, after making appropriate findings,
+determine whether existing electric company and gas company plans must be modified
+to comply with § 7–225(d) of this subtitle; and
 
 (ii) electric companies and gas companies:
 
-1. shall provide information as required by the Commission to assist in making the determination under item (i) of this paragraph; and
+1. shall provide information as required by the
+Commission to assist in making the determination under item (i) of this paragraph; and
 
-2. are only required to file new plans in accordance with this section if directed by the Commission.
+2. are only required to file new plans in accordance with
+this section if directed by the Commission.
 
-(c) The Commission shall consider establishing a minimum weighted average measure life for the plan of each electric company and gas company.
+(c) The Commission may give priority to long–lived greenhouse gas emissions
+reduction measures in the plans by establishing a minimum weighted average measure
+life for the plan of each electric company and gas company.
 
-(d) Contributions to greenhouse gas emissions reduction goals and targets in a plan of an electric company or a gas company:
+(d) Contributions to greenhouse gas emissions reduction goals and targets in
+a plan of an electric company or a gas company:
 
-(1) may, notwithstanding § 7–222(d)(2) of this subtitle, include recovery of the reasonable and prudent costs from programs that are not behind–the–meter programs in a base rate proceeding, subject to Commission approval; and
+(1) may, notwithstanding § 7–222(d)(2) of this subtitle, include recovery
+of the reasonable and prudent costs from programs that are not behind–the–meter
+programs in a base rate proceeding, subject to Commission approval; and
 
-(2) may [not] include the increased adoption of electric vehicles.
+(2) may include the increased adoption of electric vehicles.
 
-(e) (1) [Beginning] SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, BEGINNING January 1, [2025,] 2027:
+(e) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION,
+BEGINNING January 1, 2027:
 
-(I) at least 80% of the greenhouse gas emissions reductions counted toward each electric company’s and each gas company’s greenhouse gas emissions reduction targets established under this section shall come from behind–the–meter programs, which may include deployment of energy storage facilities; AND
+(I) at least 80% of the greenhouse gas emissions reductions
+counted toward each electric company’s and each gas company’s greenhouse gas
+emissions reduction targets established under this section shall come from behind–the–
+meter programs, which may include deployment of energy storage facilities; AND
 
-(II) SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION, FOR 2027 THROUGH 2029, NOT MORE THAN 20% OF THE GREENHOUSE GAS EMISSIONS REDUCTIONS COUNTED TOWARD EACH ELECTRIC COMPANY’S GREENHOUSE GAS EMISSIONS REDUCTION TARGETS ESTABLISHED UNDER THIS SECTION SHALL INCLUDE:
+(II) SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION, FOR
+2027 THROUGH 2029, NOT MORE THAN 20% OF THE GREENHOUSE GAS
+EMISSIONS REDUCTIONS COUNTED TOWARD EACH ELECTRIC COMPANY’S
+GREENHOUSE GAS EMISSIONS REDUCTION TARGETS ESTABLISHED UNDER THIS
+SECTION SHALL INCLUDE:
 
-1. NEW COMMUNITY SOLAR ENERGY GENERATION THAT IS INTERCONNECTED TO THE ELECTRIC COMPANY’S DISTRIBUTION SYSTEM; AND
+1. NEW COMMUNITY SOLAR ENERGY GENERATION
+THAT IS INTERCONNECTED TO THE ELECTRIC COMPANY’S DISTRIBUTION
+SYSTEM; AND
 
-2. SOLAR ENERGY GENERATION FACILITIES THAT ARE INTERCONNECTED TO THE ELECTRIC COMPANY’S DISTRIBUTION SYSTEM.
+2. SOLAR ENERGY GENERATION FACILITIES THAT
+ARE INTERCONNECTED TO THE ELECTRIC COMPANY’S DISTRIBUTION SYSTEM.
 
-(2) PARAGRAPH (1) OF THIS SUBSECTION MAY NOT BE CONSTRUED TO AUTHORIZE AN ELECTRIC COMPANY TO BUILD, OWN, OR OPERATE ELECTRIC GENERATING FACILITIES OR ENERGY STORAGE FACILITIES TO MEET THE REQUIREMENTS OF THIS SECTION.
+(2) PARAGRAPH (1) OF THIS SUBSECTION MAY NOT BE
+CONSTRUED TO AUTHORIZE AN ELECTRIC COMPANY TO BUILD, OWN, OR
+OPERATE ELECTRIC GENERATING FACILITIES OR ENERGY STORAGE FACILITIES
+TO MEET THE REQUIREMENTS OF THIS SECTION.
 
-(3) GREENHOUSE GAS EMISSIONS REDUCTIONS FROM SOURCES SPECIFIED UNDER PARAGRAPH (1)(II) OF THIS SUBSECTION MAY NOT BE USED TO MEET THE GREENHOUSE GAS EMISSIONS REDUCTION TARGETS UNDER PARAGRAPH (1)(I) OF THIS SUBSECTION.
+(3) GREENHOUSE GAS EMISSIONS REDUCTIONS FROM SOURCES
+SPECIFIED UNDER PARAGRAPH (1)(II) OF THIS SUBSECTION MAY NOT BE USED
+TO MEET THE GREENHOUSE GAS EMISSIONS REDUCTION TARGETS UNDER
+PARAGRAPH (1)(I) OF THIS SUBSECTION.
 
 7–224.
 
-(a) (1) Beginning January 1, 2025, [and] on or before January 1, 2027, ON OR BEFORE JANUARY 1, 2029, AND ON OR BEFORE JANUARY 1 every 3 years, starting in [2027] 2029, the Department shall procure or provide to low–income individuals energy efficiency and conservation programs and services, demand response programs and services, and beneficial electrification programs and services that achieve the greenhouse gas emissions reduction targets established for the Department under paragraph (2) of this subsection.
+(a) (1) Beginning January 1, 2025, on or before January 1, 2027, ON
+OR BEFORE JANUARY 1, 2029, AND ON OR BEFORE JANUARY 1 every 3 years,
+starting in 2029, the Department shall procure or provide to low–income
+individuals energy efficiency and conservation programs and services, demand response
+programs and services, and beneficial electrification programs and services that achieve
+the greenhouse gas emissions reduction targets established for the Department under
+paragraph (2) of this subsection.
 
-(d) If directed by the Commission in 2024, [and] on or before September 1, 2026, ON OR BEFORE SEPTEMBER 1, 2028, AND ON OR BEFORE SEPTEMBER 1 every 3 years, starting in [2026] 2028, the Department shall submit its plans for any programs or services procured or provided under subsection (a) of this section to the Commission for review and approval under § 7–225 of this subtitle.
+(d) If directed by the Commission in 2024, on or before September 1,
+2026, ON OR BEFORE SEPTEMBER 1, 2028, AND ON OR BEFORE SEPTEMBER 1
+every 3 years, starting in 2028, the Department shall submit its plans for any
+programs or services procured or provided under subsection (a) of this section to the
+Commission for review and approval under § 7–225 of this subtitle.
 
 7–225.
 
-(a) As soon as possible in 2024, and at least 8 months before the filing deadline for plans after 2024, the Commission shall issue an order that determines the greenhouse gas emissions reduction targets required under § 7–223(b) of this subtitle and the greenhouse gas emissions reductions required under § 7–224(a)(2) of this subtitle.
+(a) As soon as possible in 2024, and at least 8 months before the filing deadline
+for plans after 2024, the Commission shall issue an order that determines the
+greenhouse gas emissions reduction targets required under § 7–223(b) of this subtitle
+and the greenhouse gas emissions reductions required under § 7–224(a)(2) of this
+subtitle.
 
-(b) (1) (i) If directed by the Commission in 2024, [and] on or before July 1, 2026, ON OR BEFORE JULY 1, 2028, AND ON OR BEFORE JULY 1 every 3 years, starting in [2026] 2028, each electric company and each gas company subject to § 7–222(a) of this subtitle that submitted a plan for achieving electricity savings and demand reduction targets to the Commission before July 1, 2024, and the Department, shall consult with the technical staff of the Commission, the Office of People’s Counsel, the Maryland Energy Administration, and the Department of the Environment regarding the design and adequacy of its plans for achieving the greenhouse gas emissions reduction targets established by the Commission under § 7–223(b) of this subtitle and specified in § 7–224(a)(2) of this subtitle.
+(b) (1) (i) If directed by the Commission in 2024, on or before July
+1, 2026, ON OR BEFORE JULY 1, 2028, AND ON OR BEFORE JULY 1 every 3 years,
+starting in 2028, each electric company and each gas company subject to § 7–
+222(a) of this subtitle that submitted a plan for achieving electricity savings and
+demand reduction targets to the Commission before July 1, 2024, and the Department,
+shall consult with the technical staff of the Commission, the Office of People’s Counsel,
+the Maryland Energy Administration, and the Department of the Environment
+regarding the design and adequacy of its plans for achieving the greenhouse gas
+emissions reduction targets established by the Commission under § 7–223(b) of this
+subtitle and specified in § 7–224(a)(2) of this subtitle.
 
-(ii) On or before October 1, 2024, [and] on or before July 1, 2026, ON OR BEFORE JULY 1, 2028, AND ON OR BEFORE JULY 1 every 3 years, starting in [2026] 2028, each electric company and each gas company subject to § 7–222(a) of this subtitle that did not submit a plan for achieving electricity savings and demand reduction targets to the Commission before July 1, 2024, shall comply with the consulting requirements under subparagraph (i) of this paragraph.
+(ii) On or before October 1, 2024, on or before July 1, 2026,
+ON OR BEFORE JULY 1, 2028, AND ON OR BEFORE JULY 1 every 3 years, starting in
+2028, each electric company and each gas company subject to § 7–222(a) of this
+subtitle that did not submit a plan for achieving electricity savings and demand
+reduction targets to the Commission before July 1, 2024, shall comply with the
+consulting requirements under subparagraph (i) of this paragraph.
 
-(2) Each electric company and each gas company subject to § 7–222(a) of this subtitle shall provide the technical staff of the Commission, the Office of People’s Counsel, the Maryland Energy Administration, and the Department of the Environment with any additional information regarding its plan, as requested.
+(2) Each electric company and each gas company subject to § 7–222(a)
+of this subtitle shall provide the technical staff of the Commission, the Office of People’s
+Counsel, the Maryland Energy Administration, and the Department of the Environment
+with any additional information regarding its plan, as requested.
 
-(c) (1) (i) If directed by the Commission in 2024, and on or before September 1, 2026, ON OR BEFORE SEPTEMBER 1, 2028, AND ON OR BEFORE SEPTEMBER 1 every 3 years, starting in [2026] 2028, each electric company and each gas company subject to § 7–222(a) of this subtitle that submitted a plan for achieving electricity savings and demand reduction targets to the Commission before July 1, 2024, and the Department, shall submit its plan to the Commission.
+(c) (1) (i) If directed by the Commission in 2024, and on or before
+September 1, 2026, ON OR BEFORE SEPTEMBER 1, 2028, AND ON OR BEFORE
+SEPTEMBER 1 every 3 years, starting in 2028, each electric company and each gas
+company subject to § 7–222(a) of this subtitle that submitted a plan for achieving
+electricity savings and demand reduction targets to the Commission before July 1, 2024,
+and the Department, shall submit its plan to the Commission.
 
-(ii) On or before December 1, 2024, [and] on or before September 1, 2026, ON OR BEFORE SEPTEMBER 1, 2028, AND ON OR BEFORE SEPTEMBER 1 every 3 years, starting in [2026] 2028, each electric company and each gas company that did not submit a plan for achieving electricity savings and demand reduction targets to the Commission before July 1, 2024, shall submit its plan to the Commission.
+(ii) On or before December 1, 2024, on or before September
+1, 2026, ON OR BEFORE SEPTEMBER 1, 2028, AND ON OR BEFORE SEPTEMBER 1
+every 3 years, starting in 2028, each electric company and each gas company
+that did not submit a plan for achieving electricity savings and demand reduction
+targets to the Commission before July 1, 2024, shall submit its plan to the Commission.
 
-(2) (I) [Each] EXCEPT AS PROVIDED IN SUBPARAGRAPH (II) OF THIS PARAGRAPH, EACH plan shall detail a proposal for achieving greenhouse gas emissions reduction targets for 3 subsequent calendar years.
+(2) (I) EXCEPT AS PROVIDED IN SUBPARAGRAPH (II) OF
+THIS PARAGRAPH, EACH plan shall detail a proposal for achieving greenhouse gas
+emissions reduction targets for 3 subsequent calendar years.
 
-(II) THE PLAN SUBMITTED IN 2026 SHALL DETAIL A PROPOSAL FOR ACHIEVING GREENHOUSE GAS EMISSIONS REDUCTION TARGETS FOR THE 2 SUBSEQUENT CALENDAR YEARS.
+(II) THE PLAN SUBMITTED IN 2026 SHALL DETAIL A
+PROPOSAL FOR ACHIEVING GREENHOUSE GAS EMISSIONS REDUCTION TARGETS
+FOR THE 2 SUBSEQUENT CALENDAR YEARS.
 
 (3) (i) Each plan shall:
 
@@ -1856,35 +3025,54 @@ A. a description of the proposed programs and services;
 
 B. anticipated costs;
 
-C. projected benefits, including greenhouse gas emissions reductions, electricity savings, and gas savings; and
+C. projected benefits, including greenhouse gas emissions
+reductions, electricity savings, and gas savings; and
 
-D. any other information requested by the Commission; and
+D. any other information requested by the Commission;
+and
 
-2. address residential, commercial, and industrial sectors as appropriate, including low–income communities.
+2. address residential, commercial, and industrial sectors
+as appropriate, including low–income communities.
 
 (ii) A plan of the Department shall include:
 
-1. a definition of “low–income individual” to be used in the procurement or provision of energy efficiency, conservation, and greenhouse gas emissions reduction programs and services;
+1. a definition of “low–income individual” to be used in the
+procurement or provision of energy efficiency, conservation, and greenhouse gas
+emissions reduction programs and services;
 
-2. a description of the steps proposed to ensure insulation materials meet the requirements under § 7–224 of this subtitle; and
+2. a description of the steps proposed to ensure insulation
+materials meet the requirements under § 7–224 of this subtitle; and
 
 3. a proposed average lifetime measure threshold that:
 
-A. encourages the delivery of insulation and weatherization measures; and
+A. encourages the delivery of insulation and
+weatherization measures; and
 
-B. is developed through a stakeholder engagement process.
+B. is developed through a stakeholder engagement
+process.
 
-(iii) A plan of an electric company shall include the provision or procurement of programs and services for residential beneficial electrification.
+(iii) A plan of an electric company shall include the provision or
+procurement of programs and services for residential beneficial electrification.
 
-(d) (1) The Commission shall review the plan of each electric company, each gas company, and the Department to determine whether the plan is adequate and cost–effective in achieving the greenhouse gas emissions reduction targets established by the Commission under §§ 7–223(b) and 7–224(a)(2) of this subtitle.
+(d) (1) The Commission shall review the plan of each electric company,
+each gas company, and the Department to determine whether the plan is adequate and
+cost–effective in achieving the greenhouse gas emissions reduction targets established
+by the Commission under §§ 7–223(b) and 7–224(a)(2) of this subtitle.
 
-(2) The Commission shall consider any written findings provided by the Maryland Energy Administration, the Department of the Environment, and the Office of People’s Counsel regarding the design and adequacy of the plan.
+(2) The Commission shall consider any written findings provided by the
+Maryland Energy Administration, the Department of the Environment, and the Office
+of People’s Counsel regarding the design and adequacy of the plan.
 
-(3) Subject to paragraph (4) of this subsection, in approving, modifying, or denying the plan of an electric company or a gas company, the Commission shall consider:
+(3) Subject to paragraph (4) of this subsection, in approving, modifying,
+or denying the plan of an electric company or a gas company, the Commission shall
+consider:
 
-(i) the cost–effectiveness of the residential, commercial, and industrial sector subportfolios by using:
+(i) the cost–effectiveness of the residential, commercial, and
+industrial sector subportfolios by using:
 
-1. the primary State jurisdiction–specific test, as developed, updated, or approved by the Commission, to determine the cost–effectiveness of a program or service prospectively, including consideration of:
+1. the primary State jurisdiction–specific test, as
+developed, updated, or approved by the Commission, to determine the cost–effectiveness
+of a program or service prospectively, including consideration of:
 
 A. participant nonenergy benefits;
 
@@ -1892,13 +3080,17 @@ B. utility nonenergy benefits; and
 
 C. societal nonenergy benefits; and
 
-2. a total resource cost test to compare the electricity savings and demand reduction targets of the program or service with the results of similar programs or services implemented in other jurisdictions, including:
+2. a total resource cost test to compare the electricity
+savings and demand reduction targets of the program or service with the results of
+similar programs or services implemented in other jurisdictions, including:
 
 A. participant nonenergy benefits; and
 
 B. utility nonenergy benefits;
 
-(ii) THE COST–EFFECTIVENESS OF THE RESIDENTIAL SECTOR SUBPROGRAMS BY DETERMINING WHETHER THE COST–EFFECTIVENESS OF A SUBPROGRAM CAN BE IMPROVED THROUGH:
+(ii) THE COST–EFFECTIVENESS OF THE RESIDENTIAL
+SECTOR SUBPROGRAMS BY DETERMINING WHETHER THE COST–EFFECTIVENESS
+OF A SUBPROGRAM CAN BE IMPROVED THROUGH:
 
 1. CONSOLIDATION;
 
@@ -1912,13 +3104,19 @@ B. utility nonenergy benefits;
 
 [(iv)] (V) the impact on the environment; and
 
-[(v)] (VI) the impact on the greenhouse gas emissions reduction targets specified in Title 2, Subtitle 12 of the Environment Article, established by the Commission under §§ 7–223(b) and 7–224(a)(2) of this subtitle.
+[(v)] (VI) the impact on the greenhouse gas emissions reduction
+targets specified in Title 2, Subtitle 12 of the Environment Article, established by the
+Commission under §§ 7–223(b) and 7–224(a)(2) of this subtitle.
 
-(4) Nonenergy benefits considered under paragraph (3) of this subsection shall be quantifiable and directly related to a program or service.
+(4) Nonenergy benefits considered under paragraph (3) of this
+subsection shall be quantifiable and directly related to a program or service.
 
-(5) (i) In approving, modifying, or denying the plan of the Department, the Commission shall consider:
+(5) (i) In approving, modifying, or denying the plan of the
+Department, the Commission shall consider:
 
-1. subject to subparagraph (ii) of this paragraph, the cost–effectiveness of the plan by using the primary State jurisdiction–specific test, as developed, updated, or approved by the Commission;
+1. subject to subparagraph (ii) of this paragraph, the
+cost–effectiveness of the plan by using the primary State jurisdiction–specific test, as
+developed, updated, or approved by the Commission;
 
 2. the impact on rates of each ratepayer class;
 
@@ -1926,49 +3124,88 @@ B. utility nonenergy benefits;
 
 4. the impact on the environment; and
 
-5. the impact on the greenhouse gas emissions targets specified in Title 2, Subtitle 12 of the Environment Article, established by the Commission under § 7–223(b) of this subtitle, and specified in § 7–224(a)(2) of this subtitle.
+5. the impact on the greenhouse gas emissions targets
+specified in Title 2, Subtitle 12 of the Environment Article, established by the
+Commission under § 7–223(b) of this subtitle, and specified in § 7–224(a)(2) of this
+subtitle.
 
-(ii) The programs and services offered by the Department are not required to be cost–effective.
+(ii) The programs and services offered by the Department are not
+required to be cost–effective.
 
-(e) The Department of the Environment shall prepare and submit to the Commission an analysis regarding the adequacy of the plan in supporting the State’s greenhouse gas emissions reduction goals specified in Title 2, Subtitle 12 of the Environment Article, established by the Commission under § 7–223(b) of this subtitle, and required under § 7–224(a)(2) of this subtitle.
+(e) The Department of the Environment shall prepare and submit to the
+Commission an analysis regarding the adequacy of the plan in supporting the State’s
+greenhouse gas emissions reduction goals specified in Title 2, Subtitle 12 of the
+Environment Article, established by the Commission under § 7–223(b) of this subtitle,
+and required under § 7–224(a)(2) of this subtitle.
 
 7–226.
 
-(a) (1) Each electric company, each gas company, and the Department shall provide to the Commission every 6 months an update on plan implementation and progress made toward achieving the greenhouse gas emissions reduction targets established by the Commission under § 7–223(b) of this subtitle and required under § 7–224(a)(2) of this subtitle.
+(a) (1) Each electric company, each gas company, and the Department shall
+provide to the Commission every 6 months an update on plan implementation and
+progress made toward achieving the greenhouse gas emissions reduction targets
+established by the Commission under § 7–223(b) of this subtitle and required under §
+7–224(a)(2) of this subtitle.
 
-(2) The Commission shall monitor and analyze the impact of each program and service to ensure that the outcome of each program and service provides the best possible results.
+(2) The Commission shall monitor and analyze the impact of each
+program and service to ensure that the outcome of each program and service provides
+the best possible results.
 
-(3) In monitoring and analyzing the impact of a program or service under paragraph (2) of this subsection, if the Commission finds that the outcome of the program or service may not be providing the best possible results, the Commission shall direct the electric company, the gas company, or the Department to include in its next update under paragraph (1) of this subsection specific measures to address the findings.
+(3) In monitoring and analyzing the impact of a program or service
+under paragraph (2) of this subsection, if the Commission finds that the outcome of the
+program or service may not be providing the best possible results, the Commission shall
+direct the electric company, the gas company, or the Department to include in its next
+update under paragraph (1) of this subsection specific measures to address the findings.
 
-(b) (1) At least once each year, each electric company and each gas company shall notify affected customers of the energy efficiency and conservation and greenhouse gas reduction charges imposed and benefits conferred.
+(b) (1) At least once each year, each electric company and each gas company
+shall notify affected customers of the energy efficiency and conservation and greenhouse
+gas reduction charges imposed and benefits conferred.
 
-(2) The notice shall be provided by publication on the company’s website and inclusion with billing information such as a bill insert or bill message.
+(2) The notice shall be provided by publication on the company’s website
+and inclusion with billing information such as a bill insert or bill message.
 
-(c) On or before May 1 each year, the Commission shall report, in accordance with § 2–1257 of the State Government Article, to the General Assembly on:
+(c) On or before May 1 each year, the Commission shall report, in accordance
+with § 2–1257 of the State Government Article, to the General Assembly on:
 
-(1) the status of programs and services approved under this subtitle, including an evaluation of the impact of the programs and services that are directed to low–income communities and other particular classes of ratepayers;
+(1) the status of programs and services approved under this subtitle,
+including an evaluation of the impact of the programs and services that are directed to
+low–income communities and other particular classes of ratepayers;
 
-(2) a recommendation for the appropriate funding level to adequately fund these programs and services;
+(2) a recommendation for the appropriate funding level to adequately
+fund these programs and services;
 
-(3) the per capita electricity consumption and the winter and summer peak demand for the previous calendar year; and
+(3) the per capita electricity consumption and the winter and summer
+peak demand for the previous calendar year; and
 
-(4) beginning in 2026, progress made toward reducing greenhouse gas emissions in accordance with §§ 7–223 and 7–224 of this subtitle.
+(4) beginning in 2026, progress made toward reducing greenhouse gas
+emissions in accordance with §§ 7–223 and 7–224 of this subtitle.
 
 7–227.
 
-(a) Notwithstanding any other law, the Commission may not require or allow an electric company or a gas company to require a customer to authorize the electric company or gas company to control the amount of the customer’s electricity usage or gas usage.
+(a) Notwithstanding any other law, the Commission may not require or allow
+an electric company or a gas company to require a customer to authorize the electric
+company or gas company to control the amount of the customer’s electricity usage or gas
+usage.
 
-(b) A customer may provide consent to participate in a program of an electric company or a gas company that provides direct load control or other utility manipulation of a customer’s electricity or gas usage.
+(b) A customer may provide consent to participate in a program of an electric
+company or a gas company that provides direct load control or other utility manipulation
+of a customer’s electricity or gas usage.
 
 7–228.
 
-(a) Each electric company and each gas company shall promote the availability of federal and State rebates, tax credits, and incentives that can be used to support energy efficiency investments, energy efficient and non–fossil–fuel–powered appliances and cooking equipment, breaker box upgrades, and portable heating and cooling equipment.
+(a) Each electric company and each gas company shall promote the
+availability of federal and State rebates, tax credits, and incentives that can be used to
+support energy efficiency investments, energy efficient and non–fossil–fuel–powered
+appliances and cooking equipment, breaker box upgrades, and portable heating and
+cooling equipment.
 
 (b) The Commission shall adopt regulations to carry out this section.
 
 7–229.
 
-NOTHING IN THIS PART PROHIBITS THE COMMISSION FROM APPROVING A DEMAND RESPONSE PROGRAM PROPOSED BY AN ELECTRIC COMPANY IF THE DEMAND RESPONSE PROGRAM IS DETERMINED TO BE COST–EFFECTIVE AND IMPROVE SYSTEM RELIABILITY.
+NOTHING IN THIS PART PROHIBITS THE COMMISSION FROM APPROVING A
+DEMAND RESPONSE PROGRAM PROPOSED BY AN ELECTRIC COMPANY IF THE
+DEMAND RESPONSE PROGRAM IS DETERMINED TO BE COST–EFFECTIVE AND
+IMPROVE SYSTEM RELIABILITY.
 
 7–230. RESERVED.
 
@@ -1978,47 +3215,69 @@ PART III. LARGE LOAD CUSTOMERS.
 
 7–232.
 
-(A) IN THIS PART THE FOLLOWING WORDS HAVE THE MEANINGS INDICATED.
+(A) IN THIS PART THE FOLLOWING WORDS HAVE THE MEANINGS
+INDICATED.
 
-(B) “DISTRICT ENERGY SYSTEM” MEANS AN UNDERGROUND INFRASTRUCTURE ASSET WHOSE PRIMARY PURPOSE IS TO PROVIDE THERMAL ENERGY TO MULTIPLE BUILDINGS FROM A CENTRAL ENERGY PLANT OR PLANTS.
+(B) “DISTRICT ENERGY SYSTEM” MEANS AN UNDERGROUND
+INFRASTRUCTURE ASSET WHOSE PRIMARY PURPOSE IS TO PROVIDE THERMAL
+ENERGY TO MULTIPLE BUILDINGS FROM A CENTRAL ENERGY PLANT OR PLANTS.
 
-(C) “DUPLICATIVE INTERCONNECTION REQUEST” MEANS AN INTERCONNECTION REQUEST THAT:
+(C) “DUPLICATIVE INTERCONNECTION REQUEST” MEANS AN
+INTERCONNECTION REQUEST THAT:
 
-(1) IS SUBSTANTIALLY SIMILAR TO ANOTHER INTERCONNECTION REQUEST SUBMITTED BY THE LARGE LOAD CUSTOMER OR THE CUSTOMER’S PARENT COMPANY OR AFFILIATE;
+(1) IS SUBSTANTIALLY SIMILAR TO ANOTHER INTERCONNECTION
+REQUEST SUBMITTED BY THE LARGE LOAD CUSTOMER OR THE CUSTOMER’S
+PARENT COMPANY OR AFFILIATE;
 
-(2) IS SUBMITTED TO AN ELECTRIC COMPANY IN THE STATE OR IN ANOTHER STATE IN THE PJM REGION; AND
+(2) IS SUBMITTED TO AN ELECTRIC COMPANY IN THE STATE OR IN
+ANOTHER STATE IN THE PJM REGION; AND
 
-(3) IF PROGRESSED FURTHER THROUGH THE INTERCONNECTION PROCESS, WOULD CAUSE THE LARGE LOAD CUSTOMER TO MATERIALLY CHANGE, DELAY, OR WITHDRAW THE APPLICABLE INTERCONNECTION REQUEST.
+(3) IF PROGRESSED FURTHER THROUGH THE INTERCONNECTION
+PROCESS, WOULD CAUSE THE LARGE LOAD CUSTOMER TO MATERIALLY CHANGE,
+DELAY, OR WITHDRAW THE APPLICABLE INTERCONNECTION REQUEST.
 
 (D) “HOSPITAL” MEANS AN INSTITUTION THAT:
 
-(1) HAS A GROUP OF AT LEAST 5 PHYSICIANS WHO ARE ORGANIZED AS A MEDICAL STAFF FOR THE INSTITUTION;
+(1) HAS A GROUP OF AT LEAST 5 PHYSICIANS WHO ARE ORGANIZED
+AS A MEDICAL STAFF FOR THE INSTITUTION;
 
-(2) MAINTAINS FACILITIES TO PROVIDE, UNDER THE SUPERVISION OF THE MEDICAL STAFF, DIAGNOSTIC AND TREATMENT SERVICES FOR TWO OR MORE UNRELATED INDIVIDUALS; AND
+(2) MAINTAINS FACILITIES TO PROVIDE, UNDER THE SUPERVISION
+OF THE MEDICAL STAFF, DIAGNOSTIC AND TREATMENT SERVICES FOR TWO OR
+MORE UNRELATED INDIVIDUALS; AND
 
 (3) MEETS OR RETAINS THE INDIVIDUALS FOR OVERNIGHT CARE.
 
-(E) “INCREMENTAL RESOURCES” INCLUDES ONE OR A COMBINATION OF THE FOLLOWING FACILITIES AND RESOURCES, LOCATED WITHIN THE APPLICABLE LOCATIONAL DELIVERABILITY AREA:
+(E) “INCREMENTAL RESOURCES” INCLUDES ONE OR A COMBINATION OF
+THE FOLLOWING FACILITIES AND RESOURCES, LOCATED WITHIN THE
+APPLICABLE LOCATIONAL DELIVERABILITY AREA:
 
 (1) BEHIND-THE-METER ENERGY STORAGE FACILITIES;
 
 (2) NEWLY INTERCONNECTED ENERGY STORAGE FACILITIES; AND
 
-(3) PURCHASING OR ESTABLISHING NONEMITTING RESOURCES WITHIN THE LOCATIONAL DELIVERABILITY AREA, INCLUDING:
+(3) PURCHASING OR ESTABLISHING NONEMITTING RESOURCES
+WITHIN THE LOCATIONAL DELIVERABILITY AREA, INCLUDING:
 
 (I) NEW CLEAN ENERGY GENERATION ASSETS;
 
 (II) NEW VIRTUAL POWER PLANT AGGREGATIONS; AND
 
-(III) A DEMAND RESPONSE PROGRAM THAT THE COMMISSION DETERMINES MEETS THE GOALS OF THIS SECTION, INCLUDING PROGRAMS ADMINISTERED BY PJM.
+(III) A DEMAND RESPONSE PROGRAM THAT THE COMMISSION
+DETERMINES MEETS THE GOALS OF THIS SECTION, INCLUDING PROGRAMS
+ADMINISTERED BY PJM.
 
-(F) (1) “LARGE LOAD CUSTOMER” MEANS A COMMERCIAL OR INDUSTRIAL CUSTOMER FOR RETAIL ELECTRIC SERVICE THAT:
+(F) (1) “LARGE LOAD CUSTOMER” MEANS A COMMERCIAL OR
+INDUSTRIAL CUSTOMER FOR RETAIL ELECTRIC SERVICE THAT:
 
-(I) HAS OR IS PROJECTED TO HAVE AN AGGREGATE MONTHLY DEMAND OF AT LEAST 25 MEGAWATTS; AND
+(I) HAS OR IS PROJECTED TO HAVE AN AGGREGATE
+MONTHLY DEMAND OF AT LEAST 25 MEGAWATTS; AND
 
-(II) HAS OR IS PROJECTED TO HAVE A LOAD FACTOR OF MORE THAN 60%.
+(II) HAS OR IS PROJECTED TO HAVE A LOAD FACTOR OF
+MORE THAN 60%.
 
-(2) “LARGE LOAD CUSTOMER” DOES NOT INCLUDE A COMMERCIAL OR INDUSTRIAL CUSTOMER FOR RETAIL ELECTRIC SERVICE WHOSE PRIMARY PURPOSE IS TO OPERATE AS OR SUPPORT THE OPERATION OF:
+(2) “LARGE LOAD CUSTOMER” DOES NOT INCLUDE A COMMERCIAL
+OR INDUSTRIAL CUSTOMER FOR RETAIL ELECTRIC SERVICE WHOSE PRIMARY
+PURPOSE IS TO OPERATE AS OR SUPPORT THE OPERATION OF:
 
 (I) A WATER COMPANY OR SEWAGE DISPOSAL COMPANY;
 
@@ -2030,59 +3289,89 @@ PART III. LARGE LOAD CUSTOMERS.
 
 (V) AN AGRICULTURAL FACILITY; OR
 
-(VI) AT THE DISCRETION OF THE COMMISSION, ANOTHER INDUSTRIAL FACILITY.
+(VI) AT THE DISCRETION OF THE COMMISSION, ANOTHER
+INDUSTRIAL FACILITY.
 
-(G) “MANUFACTURING FACILITY” MEANS A FACILITY WHERE THE PROCESS OF SUBSTANTIALLY TRANSFORMING, OR A SUBSTANTIAL STEP IN THE PROCESS OF SUBSTANTIALLY TRANSFORMING, TANGIBLE PERSONAL PROPERTY INTO A NEW AND DIFFERENT ARTICLE OF TANGIBLE PERSONAL PROPERTY BY THE USE OF LABOR OR MACHINERY OCCURS.
+(G) “MANUFACTURING FACILITY” MEANS A FACILITY WHERE THE
+PROCESS OF SUBSTANTIALLY TRANSFORMING, OR A SUBSTANTIAL STEP IN THE
+PROCESS OF SUBSTANTIALLY TRANSFORMING, TANGIBLE PERSONAL PROPERTY
+INTO A NEW AND DIFFERENT ARTICLE OF TANGIBLE PERSONAL PROPERTY BY
+THE USE OF LABOR OR MACHINERY OCCURS.
 
-(H) “ON–SITE BACKUP GENERATING FACILITY” MEANS A GENERATING FACILITY THAT IS NOT CONNECTED TO THE ELECTRIC SYSTEM.
+(H) “ON–SITE BACKUP GENERATING FACILITY” MEANS A GENERATING
+FACILITY THAT IS NOT CONNECTED TO THE ELECTRIC SYSTEM.
 
-(I) “VIRTUAL POWER PLANT” MEANS AN AGGREGATION OF DISTRIBUTED CLEAN ENERGY RESOURCES AND ENERGY STORAGE OWNED BY A CUSTOMER OR A THIRD PARTY THAT:
+(I) “VIRTUAL POWER PLANT” MEANS AN AGGREGATION OF
+DISTRIBUTED CLEAN ENERGY RESOURCES AND ENERGY STORAGE OWNED BY A
+CUSTOMER OR A THIRD PARTY THAT:
 
 (1) PROVIDES ELECTRIC SYSTEM SERVICES; AND
 
-(2) MAY BE USED BY THE CUSTOMER OR THE THIRD PARTY FOR OTHER APPLICATIONS WHEN NOT PROVIDING ELECTRIC SYSTEM SERVICES.
+(2) MAY BE USED BY THE CUSTOMER OR THE THIRD PARTY FOR
+OTHER APPLICATIONS WHEN NOT PROVIDING ELECTRIC SYSTEM SERVICES.
 
-(J) “VOLUNTARY CLEAN CAPACITY RATING PROGRAM” MEANS THE PROGRAM DEVELOPED BY THE COMMISSION UNDER § 7–234 OF THIS SUBTITLE.
+(J) “VOLUNTARY CLEAN CAPACITY RATING PROGRAM” MEANS THE
+PROGRAM DEVELOPED BY THE COMMISSION UNDER § 7–234 OF THIS SUBTITLE.
 
 7–233.
 
-(A) ON OR BEFORE JANUARY 1, 2027, THE COMMISSION, BY ORDER OR REGULATION, SHALL ESTABLISH A LARGE LOAD CUSTOMER REGISTRY TO:
+(A) ON OR BEFORE JANUARY 1, 2027, THE COMMISSION, BY ORDER OR
+REGULATION, SHALL ESTABLISH A LARGE LOAD CUSTOMER REGISTRY TO:
 
-(1) PROVIDE INFORMATION RELEVANT TO PLANNING AT THE ELECTRIC DISTRIBUTION, STATE, AND PJM LEVELS; AND
+(1) PROVIDE INFORMATION RELEVANT TO PLANNING AT THE
+ELECTRIC DISTRIBUTION, STATE, AND PJM LEVELS; AND
 
-(2) ASSIST IN ENSURING ACCURATE LOAD FORECASTS AT THE ELECTRIC DISTRIBUTION, STATE, AND PJM LEVELS.
+(2) ASSIST IN ENSURING ACCURATE LOAD FORECASTS AT THE
+ELECTRIC DISTRIBUTION, STATE, AND PJM LEVELS.
 
-(B) (1) THE COMMISSION SHALL DEVELOP A PROCESS FOR REGISTRATION UNDER THIS SECTION.
+(B) (1) THE COMMISSION SHALL DEVELOP A PROCESS FOR
+REGISTRATION UNDER THIS SECTION.
 
 (2) THE PROCESS SHALL:
 
-(I) APPLY TO NEW OR EXPANDED INTERCONNECTION OF LARGE LOAD CUSTOMERS;
+(I) APPLY TO NEW OR EXPANDED INTERCONNECTION OF
+LARGE LOAD CUSTOMERS;
 
 (II) REQUIRE A LARGE LOAD CUSTOMER TO:
 
-1. DISCLOSE ALL INFORMATION ABOUT THE LARGE LOAD CUSTOMER AS SPECIFIED IN THIS SECTION;
+1. DISCLOSE ALL INFORMATION ABOUT THE LARGE
+LOAD CUSTOMER AS SPECIFIED IN THIS SECTION;
 
-2. DISCLOSE EACH OF THE LARGE LOAD CUSTOMER’S DUPLICATIVE INTERCONNECTION REQUESTS AND ANY ASSOCIATED INFORMATION, AS DESCRIBED IN THIS SECTION;
+2. DISCLOSE EACH OF THE LARGE LOAD CUSTOMER’S
+DUPLICATIVE INTERCONNECTION REQUESTS AND ANY ASSOCIATED
+INFORMATION, AS DESCRIBED IN THIS SECTION;
 
-3. EXPLAIN HOW THE LARGE LOAD CUSTOMER’S ENERGY AND CAPACITY NEEDS WILL BE SERVED AND DESCRIBE ANY ANTICIPATED ARRANGEMENTS, INCLUDING ARRANGEMENTS:
+3. EXPLAIN HOW THE LARGE LOAD CUSTOMER’S
+ENERGY AND CAPACITY NEEDS WILL BE SERVED AND DESCRIBE ANY
+ANTICIPATED ARRANGEMENTS, INCLUDING ARRANGEMENTS:
 
 A. WITH THIRD PARTIES; AND
 
-B. FOR NEW OR EXISTING GENERATION AND ENERGY STORAGE, WHETHER ON–SITE OR OFF–SITE;
+B. FOR NEW OR EXISTING GENERATION AND ENERGY
+STORAGE, WHETHER ON–SITE OR OFF–SITE;
 
-4. DISCLOSE INFORMATION ABOUT THE ANTICIPATED TYPE OF ON-SITE BACKUP GENERATING FACILITY THAT WOULD BE USED IN THE EVENT OF A SYSTEM OUTAGE;
+4. DISCLOSE INFORMATION ABOUT THE
+ANTICIPATED TYPE OF ON-SITE BACKUP GENERATING FACILITY THAT WOULD BE
+USED IN THE EVENT OF A SYSTEM OUTAGE;
 
 5. DISCLOSE INFORMATION ABOUT:
 
-A. THE AMOUNT OF WATER THAT THE LARGE LOAD CUSTOMER WILL USE EACH MONTH;
+A. THE AMOUNT OF WATER THAT THE LARGE LOAD
+CUSTOMER WILL USE EACH MONTH;
 
-B. THE SOURCE OF THE WATER THAT WILL BE USED; AND
+B. THE SOURCE OF THE WATER THAT WILL BE USED;
+AND
 
-C. THE STATUS OF AN APPLICATION FOR A WATER APPROPRIATION OR USE PERMIT SUBMITTED TO THE DEPARTMENT OF THE ENVIRONMENT OR A WATER UTILITY;
+C. THE STATUS OF AN APPLICATION FOR A WATER
+APPROPRIATION OR USE PERMIT SUBMITTED TO THE DEPARTMENT OF THE
+ENVIRONMENT OR A WATER UTILITY;
 
-6. DISCLOSE THE STATUS AND TYPE OF SITE CONTROL FOR THE PROPOSED LOCATION OF THE LARGE LOAD CUSTOMER’S FACILITY, INCLUDING OWNERSHIP OR LEASE CONTROL;
+6. DISCLOSE THE STATUS AND TYPE OF SITE
+CONTROL FOR THE PROPOSED LOCATION OF THE LARGE LOAD CUSTOMER’S
+FACILITY, INCLUDING OWNERSHIP OR LEASE CONTROL;
 
-7. DISCLOSE ENERGY CHARACTERISTICS OF THE CUSTOMER, INCLUDING:
+7. DISCLOSE ENERGY CHARACTERISTICS OF THE
+CUSTOMER, INCLUDING:
 
 A. PEAK LOAD;
 
@@ -2094,237 +3383,478 @@ D. LOAD RAMP PERIOD;
 
 E. ANNUAL ENERGY USAGE; AND
 
-F. LOAD PROFILE OR, IF UNAVAILABLE, A DESCRIPTION OF THE LARGE LOAD CUSTOMER’S AVERAGE HOURLY USE;
+F. LOAD PROFILE OR, IF UNAVAILABLE, A
+DESCRIPTION OF THE LARGE LOAD CUSTOMER’S AVERAGE HOURLY USE;
 
-8. PROVIDE A DESCRIPTION OF THE LARGE LOAD CUSTOMER’S OPERATION;
+8. PROVIDE A DESCRIPTION OF THE LARGE LOAD
+CUSTOMER’S OPERATION;
 
-9. DISCLOSE THE POINT OF INTERCONNECTION AND ADDRESS OR COORDINATES OF THE LARGE LOAD CUSTOMER; AND
+9. DISCLOSE THE POINT OF INTERCONNECTION AND
+ADDRESS OR COORDINATES OF THE LARGE LOAD CUSTOMER; AND
 
-10. PROVIDE ANY OTHER INFORMATION THE COMMISSION CONSIDERS NECESSARY FOR THE PURPOSES IDENTIFIED IN SUBSECTION (A) OF THIS SECTION; AND
+10. PROVIDE ANY OTHER INFORMATION THE
+COMMISSION CONSIDERS NECESSARY FOR THE PURPOSES IDENTIFIED IN
+SUBSECTION (A) OF THIS SECTION; AND
 
-(III) ESTABLISH ANY OTHER STANDARDS THAT THE COMMISSION CONSIDERS NECESSARY.
+(III) ESTABLISH ANY OTHER STANDARDS THAT THE
+COMMISSION CONSIDERS NECESSARY.
 
-(C) (1) EXCEPT AS PROVIDED IN SUBSECTION (E) OF THIS SECTION, A LARGE LOAD CUSTOMER SHALL REGISTER WITH THE COMMISSION IN ACCORDANCE WITH THIS SECTION:
+(C) (1) EXCEPT AS PROVIDED IN SUBSECTION (E) OF THIS SECTION, A
+LARGE LOAD CUSTOMER SHALL REGISTER WITH THE COMMISSION IN
+ACCORDANCE WITH THIS SECTION:
 
-(I) WITHIN 30 DAYS AFTER SIGNING A FEDERAL ENERGY REGULATORY COMMISSION–JURISDICTIONAL AGREEMENT WITH AN ELECTRIC COMPANY; OR
+(I) WITHIN 30 DAYS AFTER SIGNING A FEDERAL ENERGY
+REGULATORY COMMISSION–JURISDICTIONAL AGREEMENT WITH AN ELECTRIC
+COMPANY; OR
 
-(II) WITHIN 30 DAYS AFTER AN ELECTRIC COMPANY PROVIDES TO THE COMMISSION AND THE LARGE LOAD CUSTOMER THE INFORMATION REQUIRED IN PARAGRAPH (2) OF THIS SUBSECTION.
+(II) WITHIN 30 DAYS AFTER AN ELECTRIC COMPANY
+PROVIDES TO THE COMMISSION AND THE LARGE LOAD CUSTOMER THE
+INFORMATION REQUIRED IN PARAGRAPH (2) OF THIS SUBSECTION.
 
-(2) AN ELECTRIC COMPANY SHALL PROVIDE WRITTEN NOTICE TO THE COMMISSION AND A LARGE LOAD CUSTOMER WHEN THE ELECTRIC COMPANY PROVIDES TO PJM INFORMATION RELATED TO THE LARGE LOAD CUSTOMER THAT MAY IMPACT PJM FORECASTS OR MARKETS.
+(2) AN ELECTRIC COMPANY SHALL PROVIDE WRITTEN NOTICE TO
+THE COMMISSION AND A LARGE LOAD CUSTOMER WHEN THE ELECTRIC
+COMPANY PROVIDES TO PJM INFORMATION RELATED TO THE LARGE LOAD
+CUSTOMER THAT MAY IMPACT PJM FORECASTS OR MARKETS.
 
-(D) ELECTRIC COMPANIES AND LARGE LOAD CUSTOMERS SHALL PROVIDE TO THE COMMISSION WITHIN THE TIMELINES SET BY THE COMMISSION:
+(D) ELECTRIC COMPANIES AND LARGE LOAD CUSTOMERS SHALL
+PROVIDE TO THE COMMISSION WITHIN THE TIMELINES SET BY THE COMMISSION:
 
-(1) UPDATED INFORMATION REGARDING A REGISTERED LARGE LOAD CUSTOMER, INCLUDING IF:
+(1) UPDATED INFORMATION REGARDING A REGISTERED LARGE
+LOAD CUSTOMER, INCLUDING IF:
 
-(I) A NEW DUPLICATIVE INTERCONNECTION REQUEST BECOMES KNOWN; OR
+(I) A NEW DUPLICATIVE INTERCONNECTION REQUEST
+BECOMES KNOWN; OR
 
-(II) THERE IS A CHANGE IN THE STATUS OF A DUPLICATIVE INTERCONNECTION REQUEST; AND
+(II) THERE IS A CHANGE IN THE STATUS OF A DUPLICATIVE
+INTERCONNECTION REQUEST; AND
 
-(2) ANY OTHER INFORMATION THAT THE COMMISSION CONSIDERS RELEVANT.
+(2) ANY OTHER INFORMATION THAT THE COMMISSION CONSIDERS
+RELEVANT.
 
-(E) (1) WITHIN 60 DAYS AFTER RECEIVING AN APPLICATION FOR REGISTRATION UNDER THIS SECTION, INCLUDING ALL INFORMATION REQUIRED UNDER SUBSECTION (B) OF THIS SECTION, THE COMMISSION SHALL CERTIFY WHETHER A REGISTRATION UNDER THIS SECTION IS COMPLETE.
+(E) (1) WITHIN 60 DAYS AFTER RECEIVING AN APPLICATION FOR
+REGISTRATION UNDER THIS SECTION, INCLUDING ALL INFORMATION REQUIRED
+UNDER SUBSECTION (B) OF THIS SECTION, THE COMMISSION SHALL CERTIFY
+WHETHER A REGISTRATION UNDER THIS SECTION IS COMPLETE.
 
-(2) IF THE COMMISSION DETERMINES THAT THE REGISTRATION INFORMATION IS INCOMPLETE, THE COMMISSION MAY EXTEND ANY TIME FRAME PROVIDED IN AN ORDER OR REGULATION ADOPTED IN ACCORDANCE WITH THIS SECTION.
+(2) IF THE COMMISSION DETERMINES THAT THE REGISTRATION
+INFORMATION IS INCOMPLETE, THE COMMISSION MAY EXTEND ANY TIME FRAME
+PROVIDED IN AN ORDER OR REGULATION ADOPTED IN ACCORDANCE WITH THIS
+SECTION.
 
-(F) THE COMMISSION MAY CHARGE A REASONABLE FEE TO ADMINISTER THE LARGE LOAD CUSTOMER REGISTRY UNDER THIS SECTION.
+(F) THE COMMISSION MAY CHARGE A REASONABLE FEE TO ADMINISTER
+THE LARGE LOAD CUSTOMER REGISTRY UNDER THIS SECTION.
 
-(G) (1) THE COMMISSION SHALL IMPOSE PENALTIES AGAINST A LARGE LOAD CUSTOMER IF THE LARGE LOAD CUSTOMER:
+(G) (1) THE COMMISSION SHALL IMPOSE PENALTIES AGAINST A
+LARGE LOAD CUSTOMER IF THE LARGE LOAD CUSTOMER:
 
-(I) FAILS TO REGISTER IN ACCORDANCE WITH THIS SECTION; OR
+(I) FAILS TO REGISTER IN ACCORDANCE WITH THIS
+SECTION; OR
 
-(II) INTENTIONALLY MISLEADS THE COMMISSION IN ITS REGISTRATION.
+(II) INTENTIONALLY MISLEADS THE COMMISSION IN ITS
+REGISTRATION.
 
-(2) THE COMMISSION MAY DIRECT PROCEEDS COLLECTED FROM A PENALTY IMPOSED UNDER PARAGRAPH (1) OF THIS SUBSECTION TO BE PROVIDED TO EXISTING ELECTRIC CUSTOMERS IN THE SAME SERVICE TERRITORY AS THE LARGE LOAD CUSTOMER.
+(2) THE COMMISSION MAY DIRECT PROCEEDS COLLECTED FROM
+A PENALTY IMPOSED UNDER PARAGRAPH (1) OF THIS SUBSECTION TO BE
+PROVIDED TO EXISTING ELECTRIC CUSTOMERS IN THE SAME SERVICE
+TERRITORY AS THE LARGE LOAD CUSTOMER.
 
-(H) (1) NOTWITHSTANDING § 4–335 OF THE GENERAL PROVISIONS ARTICLE, CONFIDENTIAL COMMERCIAL OR FINANCIAL INFORMATION DISCLOSED TO THE COMMISSION BY A LARGE LOAD CUSTOMER IN ACCORDANCE WITH SUBSECTION (B)(2)(II) OF THIS SECTION:
+(H) (1) NOTWITHSTANDING § 4–335 OF THE GENERAL PROVISIONS
+ARTICLE, CONFIDENTIAL COMMERCIAL OR FINANCIAL INFORMATION
+DISCLOSED TO THE COMMISSION BY A LARGE LOAD CUSTOMER IN ACCORDANCE
+WITH SUBSECTION (B)(2)(II) OF THIS SECTION:
 
-(I) MAY NOT BE DISCLOSED BY THE COMMISSION BEFORE THE LARGE LOAD CUSTOMER IS OPERATIONAL; AND
+(I) MAY NOT BE DISCLOSED BY THE COMMISSION BEFORE
+THE LARGE LOAD CUSTOMER IS OPERATIONAL; AND
 
-(II) MAY BE DISCLOSED BY THE COMMISSION IN ACCORDANCE WITH PARAGRAPH (2) OF THIS SUBSECTION:
+(II) MAY BE DISCLOSED BY THE COMMISSION IN
+ACCORDANCE WITH PARAGRAPH (2) OF THIS SUBSECTION:
 
-1. WHEN THE LARGE LOAD CUSTOMER BECOMES OPERATIONAL; OR
+1. WHEN THE LARGE LOAD CUSTOMER BECOMES
+OPERATIONAL; OR
 
 2. NOTWITHSTANDING ITEM (I) OF THIS PARAGRAPH:
 
-A. IF THE INFORMATION HAS BEEN MADE PUBLIC BY ANY PERSON; OR
+A. IF THE INFORMATION HAS BEEN MADE PUBLIC BY
+ANY PERSON; OR
 
-B. IF THE INFORMATION IS AGGREGATED AND ANONYMIZED AS DESCRIBED IN SUBSECTION (J)(2) OF THIS SECTION.
+B. IF THE INFORMATION IS AGGREGATED AND
+ANONYMIZED AS DESCRIBED IN SUBSECTION (J)(2) OF THIS SECTION.
 
-(2) THE COMMISSION SHALL ESTABLISH A PROCEDURE FOR THE DISCLOSURE OF CONFIDENTIAL COMMERCIAL AND FINANCIAL INFORMATION UNDER PARAGRAPH (1)(II) OF THIS SUBSECTION TO A UNIT OF STATE GOVERNMENT, PJM, OR ANOTHER PERSON IF CONSIDERED APPROPRIATE BY THE COMMISSION AND ONLY FOR THE PURPOSE OF ACCURATE LOAD FORECASTING, TRANSMISSION PLANNING, OR OTHER REASONS THE COMMISSION CONSIDERS NECESSARY.
+(2) THE COMMISSION SHALL ESTABLISH A PROCEDURE FOR THE
+DISCLOSURE OF CONFIDENTIAL COMMERCIAL AND FINANCIAL INFORMATION
+UNDER PARAGRAPH (1)(II) OF THIS SUBSECTION TO A UNIT OF STATE
+GOVERNMENT, PJM, OR ANOTHER PERSON IF CONSIDERED APPROPRIATE BY
+THE COMMISSION AND ONLY FOR THE PURPOSE OF ACCURATE LOAD
+FORECASTING, TRANSMISSION PLANNING, OR OTHER REASONS THE
+COMMISSION CONSIDERS NECESSARY.
 
-(3) A PERSON AUTHORIZED TO ACCESS CONFIDENTIAL INFORMATION UNDER PARAGRAPH (2) OF THIS SUBSECTION SHALL KEEP THE INFORMATION ACCESSED CONFIDENTIAL.
+(3) A PERSON AUTHORIZED TO ACCESS CONFIDENTIAL
+INFORMATION UNDER PARAGRAPH (2) OF THIS SUBSECTION SHALL KEEP THE
+INFORMATION ACCESSED CONFIDENTIAL.
 
-(I) BEGINNING JANUARY 1, 2027, AN ELECTRIC COMPANY MAY NOT SUBMIT A LARGE LOAD ADJUSTMENT REQUEST TO PJM UNLESS THE LARGE LOAD CUSTOMER HAS COMPLETED THE REGISTRATION PROCESS UNDER THIS SECTION.
+(I) BEGINNING JANUARY 1, 2027, AN ELECTRIC COMPANY MAY NOT
+SUBMIT A LARGE LOAD ADJUSTMENT REQUEST TO PJM UNLESS THE LARGE
+LOAD CUSTOMER HAS COMPLETED THE REGISTRATION PROCESS UNDER THIS
+SECTION.
 
-(J) (1) ON OR BEFORE JANUARY 1, 2028, AND EACH JANUARY 1 THEREAFTER, THE COMMISSION SHALL REPORT TO THE SENATE COMMITTEE ON EDUCATION, ENERGY, AND THE ENVIRONMENTAND THE HOUSE ENVIRONMENT AND TRANSPORTATION COMMITTEE, IN ACCORDANCE WITH § 2-1257 OF THE STATE GOVERNMENT ARTICLE, ON THE LARGE LOAD CUSTOMER REGISTRY REQUIRED UNDER THIS SECTION.
+(J) (1) ON OR BEFORE JANUARY 1, 2028, AND EACH JANUARY 1
+THEREAFTER, THE COMMISSION SHALL REPORT TO THE SENATE COMMITTEE ON
+EDUCATION, ENERGY, AND THE ENVIRONMENTAND THE HOUSE ENVIRONMENT
+AND TRANSPORTATION COMMITTEE, IN ACCORDANCE WITH § 2-1257 OF THE
+STATE GOVERNMENT ARTICLE, ON THE LARGE LOAD CUSTOMER REGISTRY
+REQUIRED UNDER THIS SECTION.
 
 (2) THE REPORT:
 
-(I) SHALL INCLUDE INFORMATION DISCLOSED IN SUBSECTION (B)(2)(II) OF THIS SECTION AGGREGATED BY EACH ELECTRIC COMPANY SERVICE TERRITORY;
+(I) SHALL INCLUDE INFORMATION DISCLOSED IN
+SUBSECTION (B)(2)(II) OF THIS SECTION AGGREGATED BY EACH ELECTRIC
+COMPANY SERVICE TERRITORY;
 
-(II) MAY NOT DISCLOSE CONFIDENTIAL COMMERCIAL OR FINANCIAL INFORMATION AS DESCRIBED IN SUBSECTION (B)(2)(II) OF THIS SECTION, UNLESS THE INFORMATION:
+(II) MAY NOT DISCLOSE CONFIDENTIAL COMMERCIAL OR
+FINANCIAL INFORMATION AS DESCRIBED IN SUBSECTION (B)(2)(II) OF THIS
+SECTION, UNLESS THE INFORMATION:
 
-1. CONSISTS OF ENERGY CHARACTERISTICS IDENTIFIED IN SUBSECTION (B)(2)(II)7A, C, AND D OF THIS SECTION, PROVIDED THAT THE INFORMATION HAS BEEN ANONYMIZED AND PROJECTS ARE ONLY IDENTIFIED BY ELECTRIC COMPANY SERVICE TERRITORY;
+1. CONSISTS OF ENERGY CHARACTERISTICS
+IDENTIFIED IN SUBSECTION (B)(2)(II)7A, C, AND D OF THIS SECTION, PROVIDED
+THAT THE INFORMATION HAS BEEN ANONYMIZED AND PROJECTS ARE ONLY
+IDENTIFIED BY ELECTRIC COMPANY SERVICE TERRITORY;
 
 2. IS:
 
-A. USED BY AN ELECTRIC COMPANY FOR THE IDENTIFICATION OF DUPLICATIVE INTERCONNECTION REQUESTS BOTH IN AND OUT OF STATE; AND
+A. USED BY AN ELECTRIC COMPANY FOR THE
+IDENTIFICATION OF DUPLICATIVE INTERCONNECTION REQUESTS BOTH IN AND
+OUT OF STATE; AND
 
-B. ANONYMIZED AND PROJECTS ARE ONLY IDENTIFIED BY ELECTRIC COMPANY SERVICE TERRITORY; OR
+B. ANONYMIZED AND PROJECTS ARE ONLY
+IDENTIFIED BY ELECTRIC COMPANY SERVICE TERRITORY; OR
 
-3. HAS BEEN PREVIOUSLY DISCLOSED TO THE PUBLIC; AND
+3. HAS BEEN PREVIOUSLY DISCLOSED TO THE
+PUBLIC; AND
 
-(III) SHALL INCLUDE ANY OTHER INFORMATION REGARDING LARGE LOAD CUSTOMERS AS A WHOLE IN AN ELECTRIC COMPANY’S SERVICE TERRITORY THAT THE COMMISSION CONSIDERS APPROPRIATE.
+(III) SHALL INCLUDE ANY OTHER INFORMATION REGARDING
+LARGE LOAD CUSTOMERS AS A WHOLE IN AN ELECTRIC COMPANY’S SERVICE
+TERRITORY THAT THE COMMISSION CONSIDERS APPROPRIATE.
 
-(3) IF THERE IS ONLY ONE LARGE LOAD CUSTOMER IDENTIFIED WITHIN AN ELECTRIC COMPANY SERVICE TERRITORY THAT IS NOT THE SUBJECT OF A DUPLICATIVE INTERCONNECTION REQUEST, THE COMMISSION MAY REPORT THAT LARGE LOAD CUSTOMER’S INFORMATION IN AN AGGREGATED MANNER IN CONJUNCTION WITH DATA FROM AN ADJACENT ELECTRIC COMPANY’S SERVICE TERRITORY IN ORDER TO PRESERVE ANONYMITY.
+(3) IF THERE IS ONLY ONE LARGE LOAD CUSTOMER IDENTIFIED
+WITHIN AN ELECTRIC COMPANY SERVICE TERRITORY THAT IS NOT THE SUBJECT
+OF A DUPLICATIVE INTERCONNECTION REQUEST, THE COMMISSION MAY
+REPORT THAT LARGE LOAD CUSTOMER’S INFORMATION IN AN AGGREGATED
+MANNER IN CONJUNCTION WITH DATA FROM AN ADJACENT ELECTRIC
+COMPANY’S SERVICE TERRITORY IN ORDER TO PRESERVE ANONYMITY.
 
-(4) ALL INFORMATION PROVIDED IN THE REPORT SUBMITTED UNDER THIS SUBSECTION MAY BE USED PUBLICLY BY THE COMMISSION.
+(4) ALL INFORMATION PROVIDED IN THE REPORT SUBMITTED
+UNDER THIS SUBSECTION MAY BE USED PUBLICLY BY THE COMMISSION.
 
 7–234.
 
-(A) (1) ON OR BEFORE DECEMBER 15, 2026, THE COMMISSION SHALL DEVELOP A VOLUNTARY CLEAN CAPACITY RATING PROGRAM THAT ESTABLISHES CLEAN CAPACITY RATINGS FOR LARGE LOAD CUSTOMERS THAT ELECT TO PARTICIPATE IN THE PROGRAM, INCLUDING PLATINUM AND GOLD RATING DESIGNATIONS.
+(A) (1) ON OR BEFORE DECEMBER 15, 2026, THE COMMISSION SHALL
+DEVELOP A VOLUNTARY CLEAN CAPACITY RATING PROGRAM THAT ESTABLISHES
+CLEAN CAPACITY RATINGS FOR LARGE LOAD CUSTOMERS THAT ELECT TO
+PARTICIPATE IN THE PROGRAM, INCLUDING PLATINUM AND GOLD RATING
+DESIGNATIONS.
 
 (2) THE RATING SYSTEM SHALL:
 
-(I) ACCOUNT FOR A LARGE LOAD CUSTOMER’S VOLUNTARY ADOPTION OF DEMAND RESPONSE AND INCREMENTAL RESOURCES; AND
+(I) ACCOUNT FOR A LARGE LOAD CUSTOMER’S VOLUNTARY
+ADOPTION OF DEMAND RESPONSE AND INCREMENTAL RESOURCES; AND
 
-(II) EVALUATE THE EXTENT TO WHICH THE LARGE LOAD CUSTOMER PROVIDES ADEQUATE INCREMENTAL RESOURCES TO MEET A PERCENTAGE OF ITS PEAK LOAD AS ASSIGNED BY PJM AND GROSSED UP BY THE APPROPRIATE RESERVE MARGIN.
+(II) EVALUATE THE EXTENT TO WHICH THE LARGE LOAD
+CUSTOMER PROVIDES ADEQUATE INCREMENTAL RESOURCES TO MEET A
+PERCENTAGE OF ITS PEAK LOAD AS ASSIGNED BY PJM AND GROSSED UP BY THE
+APPROPRIATE RESERVE MARGIN.
 
-(B) (1) A LARGE LOAD CUSTOMER MAY BE ELIGIBLE FOR A GOLD OR PLATINUM RATING UNDER THIS SECTION ONLY IF THE LARGE LOAD CUSTOMER:
+(B) (1) A LARGE LOAD CUSTOMER MAY BE ELIGIBLE FOR A GOLD OR
+PLATINUM RATING UNDER THIS SECTION ONLY IF THE LARGE LOAD CUSTOMER:
 
-(I) ENSURES THAT WORKERS CONSTRUCTING THE LARGE LOAD CUSTOMER’S FACILITY ARE PAID NOT LESS THAN THE PREVAILING WAGE RATE DETERMINED BY THE COMMISSIONER OF LABOR AND INDUSTRY UNDER TITLE 17, SUBTITLE 2 OF THE STATE FINANCE AND PROCUREMENT ARTICLE; AND
+(I) ENSURES THAT WORKERS CONSTRUCTING THE LARGE
+LOAD CUSTOMER’S FACILITY ARE PAID NOT LESS THAN THE PREVAILING WAGE
+RATE DETERMINED BY THE COMMISSIONER OF LABOR AND INDUSTRY UNDER
+TITLE 17, SUBTITLE 2 OF THE STATE FINANCE AND PROCUREMENT ARTICLE;
+AND
 
-(II) ENTERS INTO A MEMORANDUM OF UNDERSTANDING WITH THE COMMISSION THAT:
+(II) ENTERS INTO A MEMORANDUM OF UNDERSTANDING
+WITH THE COMMISSION THAT:
 
-1. CONFIRMS THE LARGE LOAD CUSTOMER’S COMMITMENT TO PROVIDE AND MAINTAIN THE CAPACITY REFERENCED IN SUBSECTIONS (C) AND (D) OF THIS SECTION FOR THE LIFE OF THE FACILITY; AND
+1. CONFIRMS THE LARGE LOAD CUSTOMER’S
+COMMITMENT TO PROVIDE AND MAINTAIN THE CAPACITY REFERENCED IN
+SUBSECTIONS (C) AND (D) OF THIS SECTION FOR THE LIFE OF THE FACILITY; AND
 
-2. PROVIDES THAT THE LARGE LOAD CUSTOMER CONSENTS TO THE COMMISSION’S JURISDICTION FOR ENFORCEMENT OF PENALTY PROVISIONS ESTABLISHED UNDER PARAGRAPH (2) OF THIS SUBSECTION.
+2. PROVIDES THAT THE LARGE LOAD CUSTOMER
+CONSENTS TO THE COMMISSION’S JURISDICTION FOR ENFORCEMENT OF
+PENALTY PROVISIONS ESTABLISHED UNDER PARAGRAPH (2) OF THIS
+SUBSECTION.
 
-(2) (I) THE COMMISSION SHALL ESTABLISH PENALTIES FOR A LARGE LOAD CUSTOMER THAT VIOLATES A MEMORANDUM OF UNDERSTANDING ENTERED INTO UNDER PARAGRAPH (1)(II) OF THIS SUBSECTION.
+(2) (I) THE COMMISSION SHALL ESTABLISH PENALTIES FOR A
+LARGE LOAD CUSTOMER THAT VIOLATES A MEMORANDUM OF UNDERSTANDING
+ENTERED INTO UNDER PARAGRAPH (1)(II) OF THIS SUBSECTION.
 
-(II) THE PENALTIES SHALL ACCOUNT FOR BOTH THE BENEFITS RECEIVED BY THE LARGE LOAD CUSTOMER AND THE HARM DONE TO THE STATE AND RATEPAYERS BY THE VIOLATION.
+(II) THE PENALTIES SHALL ACCOUNT FOR BOTH THE
+BENEFITS RECEIVED BY THE LARGE LOAD CUSTOMER AND THE HARM DONE TO
+THE STATE AND RATEPAYERS BY THE VIOLATION.
 
-(III) CONSENT UNDER PARAGRAPH (1)(II)2 OF THIS SUBSECTION TO THE ENFORCEMENT OF PENALTIES ESTABLISHED IN THIS PARAGRAPH SHALL CONTINUE UNTIL THE COMMISSION PROVIDES WRITTEN NOTICE TO THE LARGE LOAD CUSTOMER THAT RELIEVES THE CUSTOMER FROM THE OBLIGATION.
+(III) CONSENT UNDER PARAGRAPH (1)(II)2 OF THIS
+SUBSECTION TO THE ENFORCEMENT OF PENALTIES ESTABLISHED IN THIS
+PARAGRAPH SHALL CONTINUE UNTIL THE COMMISSION PROVIDES WRITTEN
+NOTICE TO THE LARGE LOAD CUSTOMER THAT RELIEVES THE CUSTOMER FROM
+THE OBLIGATION.
 
-(C) A LARGE LOAD CUSTOMER MAY RECEIVE A GOLD RATING ONLY IF THE CUSTOMER DEMONSTRATES THAT IT HAS ADEQUATE INCREMENTAL RESOURCES SUFFICIENT TO COVER THE CUSTOMER’S CAPACITY FOR AT LEAST 80% OF THE CUSTOMER’S PEAK LOAD AS ASSIGNED BY PJM AND GROSSED UP BY THE APPROPRIATE RESERVE MARGIN THROUGH A COMBINATION OF INCREMENTAL RESOURCES.
+(C) A LARGE LOAD CUSTOMER MAY RECEIVE A GOLD RATING ONLY IF
+THE CUSTOMER DEMONSTRATES THAT IT HAS ADEQUATE INCREMENTAL
+RESOURCES SUFFICIENT TO COVER THE CUSTOMER’S CAPACITY FOR AT LEAST
+80% OF THE CUSTOMER’S PEAK LOAD AS ASSIGNED BY PJM AND GROSSED UP BY
+THE APPROPRIATE RESERVE MARGIN THROUGH A COMBINATION OF
+INCREMENTAL RESOURCES.
 
-(D) A LARGE LOAD CUSTOMER MAY RECEIVE A PLATINUM RATING ONLY IF THE CUSTOMER DEMONSTRATES THAT IT HAS ADEQUATE INCREMENTAL RESOURCES SUFFICIENT TO COVER THE CUSTOMER’S CAPACITY FOR 100% OF THE CUSTOMER’S PEAK LOAD AS ASSIGNED BY PJM AND GROSSED UP BY THE APPROPRIATE RESERVE MARGIN THROUGH A COMBINATION OF INCREMENTAL RESOURCES.
+(D) A LARGE LOAD CUSTOMER MAY RECEIVE A PLATINUM RATING ONLY
+IF THE CUSTOMER DEMONSTRATES THAT IT HAS ADEQUATE INCREMENTAL
+RESOURCES SUFFICIENT TO COVER THE CUSTOMER’S CAPACITY FOR 100% OF
+THE CUSTOMER’S PEAK LOAD AS ASSIGNED BY PJM AND GROSSED UP BY THE
+APPROPRIATE RESERVE MARGIN THROUGH A COMBINATION OF INCREMENTAL
+RESOURCES.
 
 (E) BENEFITS OF RECEIVING A GOLD OR PLATINUM RATING INCLUDE:
 
-(1) FOR A LARGE LOAD CUSTOMER THAT HAS RECEIVED A GOLD RATING, PRIORITIZATION FOR LOAD STUDIES AND INTERCONNECTION OVER LARGE LOAD CUSTOMERS THAT DO NOT HAVE A GOLD OR PLATINUM RATING; AND
+(1) FOR A LARGE LOAD CUSTOMER THAT HAS RECEIVED A GOLD
+RATING, PRIORITIZATION FOR LOAD STUDIES AND INTERCONNECTION OVER
+LARGE LOAD CUSTOMERS THAT DO NOT HAVE A GOLD OR PLATINUM RATING; AND
 
-(2) FOR A LARGE LOAD CUSTOMER THAT HAS RECEIVED A PLATINUM RATING:
+(2) FOR A LARGE LOAD CUSTOMER THAT HAS RECEIVED A
+PLATINUM RATING:
 
-(I) PRIORITIZATION FOR LOAD STUDIES AND INTERCONNECTION OVER OTHER LARGE LOAD CUSTOMERS THAT DO NOT HAVE A PLATINUM RATING;
+(I) PRIORITIZATION FOR LOAD STUDIES AND
+INTERCONNECTION OVER OTHER LARGE LOAD CUSTOMERS THAT DO NOT HAVE
+A PLATINUM RATING;
 
-(II) A GUARANTEE THAT PERMIT APPLICATIONS SUBMITTED TO THE DEPARTMENT OF THE ENVIRONMENT SHALL BE PROCESSED WITHIN 12 MONTHS AFTER SUBMISSION, PENDING COMPLIANCE WITH APPLICABLE STATE AND FEDERAL LAWS, INCLUDING EXISTING ENVIRONMENTAL JUSTICE REQUIREMENTS; AND
+(II) A GUARANTEE THAT PERMIT APPLICATIONS SUBMITTED
+TO THE DEPARTMENT OF THE ENVIRONMENT SHALL BE PROCESSED WITHIN 12
+MONTHS AFTER SUBMISSION, PENDING COMPLIANCE WITH APPLICABLE STATE
+AND FEDERAL LAWS, INCLUDING EXISTING ENVIRONMENTAL JUSTICE
+REQUIREMENTS; AND
 
-(III) THE OPPORTUNITY TO PROCURE AND PROVIDE, BEFORE PERMITS ARE ISSUED, EQUIPMENT FOR ANY SUBSTATION NEEDED TO INTERCONNECT THE LARGE LOAD CUSTOMER TO THE ELECTRIC SYSTEM.
+(III) THE OPPORTUNITY TO PROCURE AND PROVIDE, BEFORE
+PERMITS ARE ISSUED, EQUIPMENT FOR ANY SUBSTATION NEEDED TO
+INTERCONNECT THE LARGE LOAD CUSTOMER TO THE ELECTRIC SYSTEM.
 
-(F) A LARGE LOAD CUSTOMER THAT DOES NOT HAVE A GOLD OR PLATINUM RATING IS NOT ENTITLED TO THE BENEFITS LISTED IN SUBSECTION (E) OF THIS SECTION.
+(F) A LARGE LOAD CUSTOMER THAT DOES NOT HAVE A GOLD OR
+PLATINUM RATING IS NOT ENTITLED TO THE BENEFITS LISTED IN SUBSECTION
+(E) OF THIS SECTION.
 
-(G) (1) IF A LARGE LOAD CUSTOMER WITH A PLATINUM RATING ELECTS TO PROCURE AND PROVIDE EQUIPMENT FOR A SUBSTATION IN ACCORDANCE WITH SUBSECTION (E)(2)(III) OF THIS SECTION, THE LARGE LOAD CUSTOMER:
+(G) (1) IF A LARGE LOAD CUSTOMER WITH A PLATINUM RATING
+ELECTS TO PROCURE AND PROVIDE EQUIPMENT FOR A SUBSTATION IN
+ACCORDANCE WITH SUBSECTION (E)(2)(III) OF THIS SECTION, THE LARGE LOAD
+CUSTOMER:
 
-(I) SHALL PROVIDE ALL THE NECESSARY EQUIPMENT FOR CONSTRUCTING THE SUBSTATION INFRASTRUCTURE;
+(I) SHALL PROVIDE ALL THE NECESSARY EQUIPMENT FOR
+CONSTRUCTING THE SUBSTATION INFRASTRUCTURE;
 
-(II) MAY PROCURE THE EQUIPMENT BEFORE THE ELECTRIC COMPANY IN WHOSE SERVICE TERRITORY THE LARGE LOAD CUSTOMER IS OR WILL BE LOCATED HAS ISSUED FINAL PERMITTING APPROVALS; AND
+(II) MAY PROCURE THE EQUIPMENT BEFORE THE ELECTRIC
+COMPANY IN WHOSE SERVICE TERRITORY THE LARGE LOAD CUSTOMER IS OR
+WILL BE LOCATED HAS ISSUED FINAL PERMITTING APPROVALS; AND
 
-(III) MAY ENTER INTO AN AGREEMENT WITH THE ELECTRIC COMPANY THAT DETAILS WHAT EQUIPMENT THE ELECTRIC COMPANY MAY PURCHASE FOR THE CONSTRUCTION OF THE SUBSTATION, BUT THE ENTIRETY OF THE EQUIPMENT SHALL BE FUNDED OR PROVIDED BY THE LARGE LOAD CUSTOMER.
+(III) MAY ENTER INTO AN AGREEMENT WITH THE ELECTRIC
+COMPANY THAT DETAILS WHAT EQUIPMENT THE ELECTRIC COMPANY MAY
+PURCHASE FOR THE CONSTRUCTION OF THE SUBSTATION, BUT THE ENTIRETY OF
+THE EQUIPMENT SHALL BE FUNDED OR PROVIDED BY THE LARGE LOAD
+CUSTOMER.
 
-(2) ANY EQUIPMENT PROCURED BY THE LARGE LOAD CUSTOMER FOR THE CONSTRUCTION OF A SUBSTATION UNDER THIS SUBSECTION SHALL MEET THE NECESSARY INTERCONNECTION REQUIREMENTS OF THE ELECTRIC COMPANY IN WHOSE SERVICE TERRITORY THE SUBSTATION WILL BE LOCATED.
+(2) ANY EQUIPMENT PROCURED BY THE LARGE LOAD CUSTOMER
+FOR THE CONSTRUCTION OF A SUBSTATION UNDER THIS SUBSECTION SHALL
+MEET THE NECESSARY INTERCONNECTION REQUIREMENTS OF THE ELECTRIC
+COMPANY IN WHOSE SERVICE TERRITORY THE SUBSTATION WILL BE LOCATED.
 
-(3) COSTS INCURRED AS A RESULT OF CONSTRUCTING A SUBSTATION UNDER THIS SUBSECTION MAY NOT BE PASSED ON TO OTHER CUSTOMERS, EITHER THROUGH AN ELECTRIC COMPANY’S RATES OR OTHERWISE, AND SHALL BE FULLY BORNE BY THE LARGE LOAD CUSTOMER.
+(3) COSTS INCURRED AS A RESULT OF CONSTRUCTING A
+SUBSTATION UNDER THIS SUBSECTION MAY NOT BE PASSED ON TO OTHER
+CUSTOMERS, EITHER THROUGH AN ELECTRIC COMPANY’S RATES OR OTHERWISE,
+AND SHALL BE FULLY BORNE BY THE LARGE LOAD CUSTOMER.
 
-(4) EACH ELECTRIC COMPANY SHALL DEVELOP PROCESSES AND TARIFFS FOR REVIEW AND APPROVAL BY THE COMMISSION TO ALLOW FOR THE LARGE LOAD CUSTOMER TO PROCURE AND PROVIDE EQUIPMENT UNDER THIS SUBSECTION.
+(4) EACH ELECTRIC COMPANY SHALL DEVELOP PROCESSES AND
+TARIFFS FOR REVIEW AND APPROVAL BY THE COMMISSION TO ALLOW FOR THE
+LARGE LOAD CUSTOMER TO PROCURE AND PROVIDE EQUIPMENT UNDER THIS
+SUBSECTION.
 
-(5) NOTHING IN THIS SUBSECTION SHALL RELIEVE A LARGE LOAD CUSTOMER THAT DOES NOT HAVE A VOLUNTARY CLEAN CAPACITY RATING FROM ANY REQUIREMENT TO PAY THE COST OF CONSTRUCTING A SUBSTATION COMPLETED THROUGH THE STANDARD PERMITTING AND INTERCONNECTION PROCESSES.
+(5) NOTHING IN THIS SUBSECTION SHALL RELIEVE A LARGE LOAD
+CUSTOMER THAT DOES NOT HAVE A VOLUNTARY CLEAN CAPACITY RATING FROM
+ANY REQUIREMENT TO PAY THE COST OF CONSTRUCTING A SUBSTATION
+COMPLETED THROUGH THE STANDARD PERMITTING AND INTERCONNECTION
+PROCESSES.
 
-(H) (1) SUBJECT TO COMMISSION APPROVAL, EACH ELECTRIC COMPANY SHALL ESTABLISH AN INTERCONNECTION PROCESS FOR LARGE LOAD CUSTOMERS THAT PARTICIPATE IN THE VOLUNTARY CLEAN CAPACITY RATING PROGRAM.
+(H) (1) SUBJECT TO COMMISSION APPROVAL, EACH ELECTRIC
+COMPANY SHALL ESTABLISH AN INTERCONNECTION PROCESS FOR LARGE LOAD
+CUSTOMERS THAT PARTICIPATE IN THE VOLUNTARY CLEAN CAPACITY RATING
+PROGRAM.
 
-(2) THE INTERCONNECTION PROCESS ESTABLISHED UNDER THIS SECTION MAY NOT UNDULY IMPACT THE TIME FRAME OR ABILITY OF CUSTOMERS THAT ARE NOT LARGE LOAD CUSTOMERS TO INTERCONNECT WITH THE ELECTRIC SYSTEM.
+(2) THE INTERCONNECTION PROCESS ESTABLISHED UNDER THIS
+SECTION MAY NOT UNDULY IMPACT THE TIME FRAME OR ABILITY OF CUSTOMERS
+THAT ARE NOT LARGE LOAD CUSTOMERS TO INTERCONNECT WITH THE ELECTRIC
+SYSTEM.
 
 (3) THE INTERCONNECTION PROCESS SHALL INCLUDE:
 
-(I) A STANDARD TIMELINE FOR LARGE LOAD CUSTOMERS THAT PARTICIPATE IN THE VOLUNTARY CLEAN CAPACITY RATING PROGRAM BUT DO NOT HAVE A GOLD OR PLATINUM RATING; AND
+(I) A STANDARD TIMELINE FOR LARGE LOAD CUSTOMERS
+THAT PARTICIPATE IN THE VOLUNTARY CLEAN CAPACITY RATING PROGRAM BUT
+DO NOT HAVE A GOLD OR PLATINUM RATING; AND
 
-(II) A PRIORITIZATION PROCESS FOR LARGE LOAD CUSTOMERS WITH A GOLD OR PLATINUM RATING.
+(II) A PRIORITIZATION PROCESS FOR LARGE LOAD
+CUSTOMERS WITH A GOLD OR PLATINUM RATING.
 
-(I) (1) BEFORE ENTERING INTO A CONTRACT FOR ELECTRIC SERVICE, A LARGE LOAD CUSTOMER THAT PARTICIPATES IN THE VOLUNTARY CLEAN CAPACITY RATING PROGRAM SHALL:
+(I) (1) BEFORE ENTERING INTO A CONTRACT FOR ELECTRIC SERVICE,
+A LARGE LOAD CUSTOMER THAT PARTICIPATES IN THE VOLUNTARY CLEAN
+CAPACITY RATING PROGRAM SHALL:
 
-(I) SUBMIT A REQUEST FOR A LOAD STUDY UNDER § 4–212 OF THIS ARTICLE TO DETERMINE THE NECESSARY CONTRACT CAPACITY FOR THE LARGE LOAD CUSTOMER; AND
+(I) SUBMIT A REQUEST FOR A LOAD STUDY UNDER § 4–212
+OF THIS ARTICLE TO DETERMINE THE NECESSARY CONTRACT CAPACITY FOR THE
+LARGE LOAD CUSTOMER; AND
 
 (II) PAY:
 
-1. A FEE IN AN AMOUNT TO BE SET BY THE COMMISSION BUT NOT LESS THAN $1,000 PER MEGAWATT OF THE LOAD TO BE SERVED; AND
+1. A FEE IN AN AMOUNT TO BE SET BY THE
+COMMISSION BUT NOT LESS THAN $1,000 PER MEGAWATT OF THE LOAD TO BE
+SERVED; AND
 
-2. ANY OTHER APPLICABLE FEES ASSOCIATED WITH THE STUDY.
+2. ANY OTHER APPLICABLE FEES ASSOCIATED WITH
+THE STUDY.
 
-(2) THE FEES REQUIRED UNDER PARAGRAPH (1)(II) OF THIS SUBSECTION SHALL BE USED ONLY AS FOLLOWS:
+(2) THE FEES REQUIRED UNDER PARAGRAPH (1)(II) OF THIS
+SUBSECTION SHALL BE USED ONLY AS FOLLOWS:
 
-(I) 50% OF THE FEES COLLECTED SHALL BE USED FOR THE ELECTRIC UNIVERSAL SERVICE PROGRAM ESTABLISHED UNDER § 5–5A–08 OF THE HUMAN SERVICES ARTICLE; AND
+(I) 50% OF THE FEES COLLECTED SHALL BE USED FOR THE
+ELECTRIC UNIVERSAL SERVICE PROGRAM ESTABLISHED UNDER § 5–5A–08 OF
+THE HUMAN SERVICES ARTICLE; AND
 
-(II) 50% OF THE FEES COLLECTED SHALL BE USED FOR THE DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT’S EMPOWER MARYLAND LIMITED INCOME ENERGY EFFICIENCY PROGRAM.
+(II) 50% OF THE FEES COLLECTED SHALL BE USED FOR THE
+DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT’S EMPOWER
+MARYLAND LIMITED INCOME ENERGY EFFICIENCY PROGRAM.
 
 7–306.
 
 (a) (1) In this section the following words have the meanings indicated.
 
-(4) “Eligible customer–generator” means a customer that owns and operates, leases and operates, or contracts with a third party that owns and operates a biomass, micro combined heat and power, solar, fuel cell, wind, or closed conduit hydro electric generating facility that:
+(4) “Eligible customer–generator” means a customer that owns and
+operates, leases and operates, or contracts with a third party that owns and operates a
+biomass, micro combined heat and power, solar, fuel cell, wind, or closed conduit hydro
+electric generating facility that:
 
 (i) is located on the customer’s premises or contiguous property;
 
-(ii) is interconnected and operated in parallel with an electric company’s transmission and distribution facilities; and
+(ii) is interconnected and operated in parallel with an electric
+company’s transmission and distribution facilities; and
 
-(iii) is intended primarily to offset all or part of the customer’s own electricity requirements.
+(iii) is intended primarily to offset all or part of the customer’s own
+electricity requirements.
 
-(7) “Net energy metering” means measurement of the difference between the electricity that is supplied by an electric company and the electricity that is generated by an eligible customer–generator and fed back to the electric grid over the eligible customer–generator’s billing period.
+(7) “Net energy metering” means measurement of the difference
+between the electricity that is supplied by an electric company and the electricity that
+is generated by an eligible customer–generator and fed back to the electric grid over the
+eligible customer–generator’s billing period.
 
-(d) (1) The Commission shall require electric utilities to develop a standard contract or tariff for net energy metering and make it available to eligible customer–generators THAT APPLY FOR NET ENERGY METERING on a first–come, first–served basis until THE EARLIER OF:
+(d) (1) The Commission shall require electric utilities to develop a standard
+contract or tariff for net energy metering and make it available to eligible
+customer–generators THAT APPLY FOR NET ENERGY METERING on a first–come,
+first–served basis until THE EARLIER OF:
 
-(I) THE DATE ON WHICH the rated generating capacity owned and operated by eligible customer–generators in the State reaches 3,000 megawatts; OR
+(I) THE DATE ON WHICH the rated generating capacity owned
+and operated by eligible customer–generators in the State reaches 3,000 megawatts; OR
 
 (II) JULY 1, 2027.
 
-(2) NOTWITHSTANDING PARAGRAPH (1)(II) OF THIS SUBSECTION AND EXCEPT AS PROVIDED IN PARAGRAPH (3) OF THIS SUBSECTION, IF THE 3,000 MEGAWATT LIMIT IN PARAGRAPH (1)(I) OF THIS SUBSECTION HAS NOT BEEN MET, A COMMUNITY SOLAR ENERGY GENERATING SYSTEM UNDER § 7–306.2 OF THIS SUBTITLE THAT IS PLACED IN SERVICE AFTER JULY 1, 2027, SHALL BE ELIGIBLE FOR NET ENERGY METERING UNDER THIS SECTION IF:
+(2) NOTWITHSTANDING PARAGRAPH (1)(II) OF THIS SUBSECTION
+AND EXCEPT AS PROVIDED IN PARAGRAPH (3) OF THIS SUBSECTION, IF THE 3,000
+MEGAWATT LIMIT IN PARAGRAPH (1)(I) OF THIS SUBSECTION HAS NOT BEEN MET,
+A COMMUNITY SOLAR ENERGY GENERATING SYSTEM UNDER § 7–306.2 OF THIS
+SUBTITLE THAT IS PLACED IN SERVICE AFTER JULY 1, 2027, SHALL BE ELIGIBLE
+FOR NET ENERGY METERING UNDER THIS SECTION IF:
 
 (I) THE SYSTEM:
 
-1. EXCEPT AS PROVIDED IN PARAGRAPH (4) OF THIS SUBSECTION, ON OR BEFORE JANUARY 1, 2028, RECEIVED A QUEUE POSITION UNDER § 7–306.2 OF THIS SUBTITLE AND PAID AN INITIAL INTERCONNECTION DEPOSIT; AND
+1. EXCEPT AS PROVIDED IN PARAGRAPH (4) OF THIS
+SUBSECTION, ON OR BEFORE JANUARY 1, 2028, RECEIVED A QUEUE POSITION
+UNDER § 7–306.2 OF THIS SUBTITLE AND PAID AN INITIAL INTERCONNECTION
+DEPOSIT; AND
 
-2. EXCEPT AS PROVIDED IN PARAGRAPHS (5) AND (6) OF THIS SUBSECTION, IS PLACED IN SERVICE BY THE OPERATIONAL DEADLINES ESTABLISHED BY THE COMMISSION UNDER COMAR 20.62.03.04C; AND
+2. EXCEPT AS PROVIDED IN PARAGRAPHS (5) AND (6)
+OF THIS SUBSECTION, IS PLACED IN SERVICE BY THE OPERATIONAL DEADLINES
+ESTABLISHED BY THE COMMISSION UNDER COMAR 20.62.03.04C; AND
 
-(II) AT THE TIME THE SYSTEM MET THE REQUIREMENTS OF ITEM (I)(1) OF THIS PARAGRAPH, THE ELECTRIC COMPANY IN WHOSE SERVICE TERRITORY THE COMMUNITY SOLAR ENERGY GENERATING SYSTEM IS LOCATED HAD NOT MET THE NET ENERGY METERING CAPACITY LIMIT UNDER PARAGRAPH (3) OF THIS SUBSECTION.
+(II) AT THE TIME THE SYSTEM MET THE REQUIREMENTS OF
+ITEM (I)(1) OF THIS PARAGRAPH, THE ELECTRIC COMPANY IN WHOSE SERVICE
+TERRITORY THE COMMUNITY SOLAR ENERGY GENERATING SYSTEM IS LOCATED
+HAD NOT MET THE NET ENERGY METERING CAPACITY LIMIT UNDER PARAGRAPH
+(3) OF THIS SUBSECTION.
 
-(3) AN ELECTRIC COMPANY MAY NOT OFFER NET ENERGY METERING UNDER THIS SECTION TO A COMMUNITY SOLAR ENERGY GENERATING SYSTEM IF:
+(3) AN ELECTRIC COMPANY MAY NOT OFFER NET ENERGY
+METERING UNDER THIS SECTION TO A COMMUNITY SOLAR ENERGY GENERATING
+SYSTEM IF:
 
-(I) THE ELECTRIC COMPANY HAD A 2025 ANNUAL PEAK DEMAND OF 2,500 MEGAWATTS OR LESS; AND
+(I) THE ELECTRIC COMPANY HAD A 2025 ANNUAL PEAK
+DEMAND OF 2,500 MEGAWATTS OR LESS; AND
 
-(II) THE TOTAL COMBINED RATED GENERATING CAPACITY OF COMMUNITY SOLAR ENERGY GENERATING SYSTEMS HOLDING QUEUE POSITIONS IN A COMMUNITY SOLAR ENERGY GENERATING SYSTEM PROGRAM IN THE ELECTRIC COMPANY’S SERVICE TERRITORY UNDER § 7-306.2 OF THIS SUBTITLE BUT NOT YET OPERATING EXCEEDS 150% OF THE TOTAL COMBINED RATED GENERATING CAPACITY OF COMMUNITY SOLAR ENERGY GENERATING SYSTEMS HOLDING QUEUE POSITIONS IN THE COMMUNITY SOLAR ENERGY GENERATING SYSTEM PROGRAM BUT NOT YET OPERATING AS OF APRIL 1, 2026.
+(II) THE TOTAL COMBINED RATED GENERATING CAPACITY
+OF COMMUNITY SOLAR ENERGY GENERATING SYSTEMS HOLDING QUEUE
+POSITIONS IN A COMMUNITY SOLAR ENERGY GENERATING SYSTEM PROGRAM IN
+THE ELECTRIC COMPANY’S SERVICE TERRITORY UNDER § 7-306.2 OF THIS
+SUBTITLE BUT NOT YET OPERATING EXCEEDS 150% OF THE TOTAL COMBINED
+RATED GENERATING CAPACITY OF COMMUNITY SOLAR ENERGY GENERATING
+SYSTEMS HOLDING QUEUE POSITIONS IN THE COMMUNITY SOLAR ENERGY
+GENERATING SYSTEM PROGRAM BUT NOT YET OPERATING AS OF APRIL 1, 2026.
 
-(4) THE COMMISSION MAY GRANT AN EXTENSION TO THE DATE SPECIFIED IN PARAGRAPH (2)(I)1 OF THIS SUBSECTION IF, DUE TO A FAILURE OF AN ELECTRIC COMPANY TO COMPLY WITH A COMMISSION ORDER, REGULATION, STATUTE, OR TARIFF, A COMMUNITY SOLAR ENERGY GENERATING SYSTEM WAS UNABLE TO RECEIVE A QUEUE POSITION UNDER § 7-306.2 OF THIS SUBTITLE OR PAY AN INITIAL INTERCONNECTION DEPOSIT.
+(4) THE COMMISSION MAY GRANT AN EXTENSION TO THE DATE
+SPECIFIED IN PARAGRAPH (2)(I)1 OF THIS SUBSECTION IF, DUE TO A FAILURE OF
+AN ELECTRIC COMPANY TO COMPLY WITH A COMMISSION ORDER, REGULATION,
+STATUTE, OR TARIFF, A COMMUNITY SOLAR ENERGY GENERATING SYSTEM WAS
+UNABLE TO RECEIVE A QUEUE POSITION UNDER § 7-306.2 OF THIS SUBTITLE OR
+PAY AN INITIAL INTERCONNECTION DEPOSIT.
 
-(5) THE COMMISSION MAY GRANT AN EXTENSION TO AN OPERATIONAL DEADLINE UNDER COMAR 20.62.03.04C IF:
+(5) THE COMMISSION MAY GRANT AN EXTENSION TO AN
+OPERATIONAL DEADLINE UNDER COMAR 20.62.03.04C IF:
 
-(I) OPERATION OF A COMMUNITY SOLAR ENERGY GENERATING SYSTEM IS DELAYED DUE TO INTERCONNECTION OR PERMITTING CHALLENGES OR DELAYS; AND
+(I) OPERATION OF A COMMUNITY SOLAR ENERGY
+GENERATING SYSTEM IS DELAYED DUE TO INTERCONNECTION OR PERMITTING
+CHALLENGES OR DELAYS; AND
 
-(II) THE DEVELOPER PROVIDES DOCUMENTATION OF THE CHALLENGE OR DELAY.
+(II) THE DEVELOPER PROVIDES DOCUMENTATION OF THE
+CHALLENGE OR DELAY.
 
-(6) IF THE SUCCESSOR PROGRAM REQUIRED UNDER § 7–306.4 OF THIS SUBTITLE DOES NOT BEGIN BY JULY 1, 2027, INCLUDING ELECTRIC COMPANIES HAVING FULLY UPDATED TARIFFS AND BILLING SYSTEMS TO FACILITATE THE SUCCESSOR PROGRAM:
+(6) IF THE SUCCESSOR PROGRAM REQUIRED UNDER § 7–306.4 OF
+THIS SUBTITLE DOES NOT BEGIN BY JULY 1, 2027, INCLUDING ELECTRIC
+COMPANIES HAVING FULLY UPDATED TARIFFS AND BILLING SYSTEMS TO
+FACILITATE THE SUCCESSOR PROGRAM:
 
-(I) A COMMUNITY SOLAR ENERGY GENERATING SYSTEM THAT HAS NOT BEEN PLACED IN SERVICE BY JULY 1, 2027, BUT MEETS THE REQUIREMENTS OF PARAGRAPH (2)(I)1 AND (II) OF THIS SUBSECTION SHALL RECEIVE AN EXTENSION TO THE OPERATIONAL DEADLINES ESTABLISHED BY THE COMMISSION UNDER COMAR 20.62.03.04C THAT IS EQUAL TO THE NUMBER OF DAYS PAST JULY 1, 2027, THAT THE SUCCESSOR PROGRAM BEGAN; AND
+(I) A COMMUNITY SOLAR ENERGY GENERATING SYSTEM
+THAT HAS NOT BEEN PLACED IN SERVICE BY JULY 1, 2027, BUT MEETS THE
+REQUIREMENTS OF PARAGRAPH (2)(I)1 AND (II) OF THIS SUBSECTION SHALL
+RECEIVE AN EXTENSION TO THE OPERATIONAL DEADLINES ESTABLISHED BY THE
+COMMISSION UNDER COMAR 20.62.03.04C THAT IS EQUAL TO THE NUMBER OF
+DAYS PAST JULY 1, 2027, THAT THE SUCCESSOR PROGRAM BEGAN; AND
 
-(II) AN ELIGIBLE CUSTOMER-GENERATOR WITH A SOLAR ENERGY GENERATING SYSTEM OF NOT MORE THAN 2 MEGAWATTS OF ALTERNATING CURRENT THAT HAS APPLIED FOR NET ENERGY METERING ON OR AFTER JULY 1, 2027, SHALL REMAIN ELIGIBLE FOR NET ENERGY METERING UNDER THIS SECTION.
+(II) AN ELIGIBLE CUSTOMER-GENERATOR WITH A SOLAR
+ENERGY GENERATING SYSTEM OF NOT MORE THAN 2 MEGAWATTS OF
+ALTERNATING CURRENT THAT HAS APPLIED FOR NET ENERGY METERING ON OR
+AFTER JULY 1, 2027, SHALL REMAIN ELIGIBLE FOR NET ENERGY METERING
+UNDER THIS SECTION.
 
-(7) AN ELIGIBLE CUSTOMER–GENERATOR OR COMMUNITY SOLAR ENERGY GENERATING SYSTEM THAT, ON JULY 1, 2027, IS UNDER A NET ENERGY METERING CONTRACT OR TARIFF UNDER THIS SECTION OR MEETS THE REQUIREMENTS OF SUBPARAGRAPH (2)(I)1 AND (II) OF THIS SUBSECTION SHALL REMAIN ELIGIBLE FOR NET ENERGY METERING UNDER THIS SECTION UNTIL THE SYSTEM IS DECOMMISSIONED IN ACCORDANCE WITH THE CRITERIA ESTABLISHED BY THE COMMISSION UNDER § 7–218(G) OF THIS TITLE.
+(7) AN ELIGIBLE CUSTOMER–GENERATOR OR COMMUNITY SOLAR
+ENERGY GENERATING SYSTEM THAT, ON JULY 1, 2027, IS UNDER A NET ENERGY
+METERING CONTRACT OR TARIFF UNDER THIS SECTION OR MEETS THE
+REQUIREMENTS OF SUBPARAGRAPH (2)(I)1 AND (II) OF THIS SUBSECTION SHALL
+REMAIN ELIGIBLE FOR NET ENERGY METERING UNDER THIS SECTION UNTIL THE
+SYSTEM IS DECOMMISSIONED IN ACCORDANCE WITH THE CRITERIA
+ESTABLISHED BY THE COMMISSION UNDER § 7–218(G) OF THIS TITLE.
 
-(j) On or before November 1 of each year, the Commission shall report to the General Assembly, in accordance with § 2–1257 of the State Government Article, on the status of the net ENERGY metering program under this section AND § 7–306.4 OF THIS SUBTITLE, including:
+(j) On or before November 1 of each year, the Commission shall report to the
+General Assembly, in accordance with § 2–1257 of the State Government Article, on the
+status of the net ENERGY metering program under this section AND § 7–306.4 OF THIS
+SUBTITLE, including:
 
-(1) the amount of capacity of electric generating facilities owned and operated by eligible customer–generators in the State by type of energy resource;
+(1) the amount of capacity of electric generating facilities owned and
+operated by eligible customer–generators in the State by type of energy resource;
 
-(2) based on the need to encourage a diversification of the State’s energy resource mix to ensure reliability, whether the rated generating capacity limit in subsection (d) of this section should be altered; [and]
+(2) based on the need to encourage a diversification of the State’s energy
+resource mix to ensure reliability, whether the rated generating capacity limit in
+subsection (d) of this section should be altered;
 
-(3) THE STATUS OF THE IMPLEMENTATION AND EFFICACY OF THE SUCCESSOR PROGRAM DEVELOPED AND IMPLEMENTED UNDER § 7–306.4 OF THIS SUBTITLE; AND
+(3) THE STATUS OF THE IMPLEMENTATION AND EFFICACY OF THE
+SUCCESSOR PROGRAM DEVELOPED AND IMPLEMENTED UNDER § 7–306.4 OF
+THIS SUBTITLE; AND
 
 (4) other pertinent information.
 
@@ -2332,29 +3862,46 @@ B. ANONYMIZED AND PROJECTS ARE ONLY IDENTIFIED BY ELECTRIC COMPANY SERVICE TERRI
 
 (a) (1) In this section the following words have the meanings indicated.
 
-(4) “Community solar energy generating system” means a solar energy system that:
+(4) “Community solar energy generating system” means a solar energy
+system that:
 
-(i) is connected to the electric distribution system serving the State;
+(i) is connected to the electric distribution system serving the
+State;
 
-(ii) is located in the same electric service territory as its subscribers;
+(ii) is located in the same electric service territory as its
+subscribers;
 
-(iii) is attached to the electric meter of a subscriber or is a separate facility with its own electric meter;
+(iii) is attached to the electric meter of a subscriber or is a
+separate facility with its own electric meter;
 
-(iv) credits its generated electricity, or the value of its generated electricity, to the bills of the subscribers to that system through virtual net energy metering;
+(iv) credits its generated electricity, or the value of its generated
+electricity, to the bills of the subscribers to that system through virtual net energy
+metering;
 
-(v) has at least two subscribers but no limit to the maximum number of subscribers;
+(v) has at least two subscribers but no limit to the maximum
+number of subscribers;
 
-(vi) does not have subscriptions larger than 200 kilowatts constituting more than 60% of its kilowatt–hour output;
+(vi) does not have subscriptions larger than 200 kilowatts
+constituting more than 60% of its kilowatt–hour output;
 
-(vii) has a generating capacity that does not exceed 5 megawatts as measured by the alternating current rating of the system’s inverter;
+(vii) has a generating capacity that does not exceed 5 megawatts
+as measured by the alternating current rating of the system’s inverter;
 
 (viii) may be owned by any person; and
 
-(ix) with respect to community solar energy generating systems constructed under the Program, [serves at least 40% of its kilowatt–hour output to LMI subscribers] unless the solar energy system is wholly owned by the subscribers to the solar energy system, EITHER:
+(ix) with respect to community solar energy generating systems
+constructed under the Program, unless the solar energy system is wholly owned by the subscribers to the
+solar energy system, EITHER:
 
-1. SERVES AT LEAST 40% OF ITS KILOWATT–HOUR OUTPUT TO LMI SUBSCRIBERS THROUGH A SUBSCRIBER ORGANIZATION OR SUBSCRIPTION COORDINATOR; OR
+1. SERVES AT LEAST 40% OF ITS KILOWATT–HOUR
+OUTPUT TO LMI SUBSCRIBERS THROUGH A SUBSCRIBER ORGANIZATION OR
+SUBSCRIPTION COORDINATOR; OR
 
-2. CONTRIBUTES TO THE MARYLAND STRATEGIC ENERGY INVESTMENT FUND, IN ACCORDANCE WITH SUBSECTION (O) OF THIS SECTION, THE MONETARY EQUIVALENT OF THE BILL CREDIT VALUE ALLOCATED TO RESIDENTIAL SUBSCRIBERS FOR 10% OF THE OUTPUT OF THE COMMUNITY SOLAR ENERGY GENERATING SYSTEM.
+2. CONTRIBUTES TO THE MARYLAND STRATEGIC
+ENERGY INVESTMENT FUND, IN ACCORDANCE WITH SUBSECTION (O) OF THIS
+SECTION, THE MONETARY EQUIVALENT OF THE BILL CREDIT VALUE ALLOCATED
+TO RESIDENTIAL SUBSCRIBERS FOR 10% OF THE OUTPUT OF THE COMMUNITY
+SOLAR ENERGY GENERATING SYSTEM.
 
 (7) “LMI subscriber” means a subscriber that:
 
@@ -2368,13 +3915,18 @@ B. ANONYMIZED AND PROJECTS ARE ONLY IDENTIFIED BY ELECTRIC COMPANY SERVICE TERRI
 
 2. an underserved community.
 
-(d) (1) (i) The Commission shall establish and maintain a Community Solar Energy Generating Systems Program.
+(d) (1) (i) The Commission shall establish and maintain a Community
+Solar Energy Generating Systems Program.
 
 (ii) The structure of the Program is as provided in this subsection.
 
-(13) (i) Except as provided in subparagraph (ii) of this paragraph, a community solar energy generating system may not be located on the same [or an adjacent] parcel of land as an existing or proposed community solar energy generating system if the total installed capacity of all community solar energy generating systems on the [same or adjacent] parcel would exceed 5 megawatts.
+(13) (i) Except as provided in subparagraph (ii) of this paragraph, a
+community solar energy generating system may not be located on the same parcel of land as an existing or proposed community solar energy generating
+system if the total installed capacity of all community solar energy generating systems
+on the same parcel would exceed 5 megawatts.
 
-(ii) The prohibition under subparagraph (i) of this paragraph does not apply to projects constructed:
+(ii) The prohibition under subparagraph (i) of this paragraph
+does not apply to projects constructed:
 
 1. on the rooftops of buildings;
 
@@ -2392,291 +3944,464 @@ B. ANONYMIZED AND PROJECTS ARE ONLY IDENTIFIED BY ELECTRIC COMPANY SERVICE TERRI
 
 8. on land that:
 
-A. was previously zoned for industrial use or is ecologically compromised; and
+A. was previously zoned for industrial use or is
+ecologically compromised; and
 
 B. is not targeted for mitigation or restoration; or
 
-9. in any location if the combined capacity of all community solar energy generating systems on the same [or adjacent] parcel does not exceed 10 megawatts and:
+9. in any location if the combined capacity of all
+community solar energy generating systems on the same parcel does not exceed 10 megawatts and:
 
-A. at least 75% of the aggregate capacity of the co–located community solar energy generating systems serves LMI subscribers;
+A. at least 75% of the aggregate capacity of the co–located
+community solar energy generating systems serves LMI subscribers;
 
-B. for a site without a community solar energy generating system installed before the start of the Program under paragraph (20) of this subsection, all of the community solar energy generating systems installed after the start of the Program are used for agrivoltaics; or
+B. for a site without a community solar energy generating
+system installed before the start of the Program under paragraph (20) of this subsection,
+all of the community solar energy generating systems installed after the start of the
+Program are used for agrivoltaics; or
 
-C. for a site with a community solar energy generating system installed before the start of the Program under paragraph (20) of this subsection, each new community solar energy generating system installed after the start of the Program is used for agrivoltaics.
+C. for a site with a community solar energy generating
+system installed before the start of the Program under paragraph (20) of this subsection,
+each new community solar energy generating system installed after the start of the
+Program is used for agrivoltaics.
 
-(O) (1) ON OR BEFORE FEBRUARY 1 EACH YEAR, A COMMUNITY SOLAR ENERGY GENERATING SYSTEM THAT COMPLIES WITH SUBSECTION (A)(4)(IX)2 OF THIS SECTION SHALL:
+(O) (1) ON OR BEFORE FEBRUARY 1 EACH YEAR, A COMMUNITY SOLAR
+ENERGY GENERATING SYSTEM THAT COMPLIES WITH SUBSECTION (A)(4)(IX)2 OF
+THIS SECTION SHALL:
 
-(I) CALCULATE THE MONETARY RETAIL VALUE EQUIVALENT OF 10% OF THE OUTPUT FOR THE COMMUNITY SOLAR ENERGY GENERATING SYSTEM FOR THE PREVIOUS YEAR;
+(I) CALCULATE THE MONETARY RETAIL VALUE EQUIVALENT
+OF 10% OF THE OUTPUT FOR THE COMMUNITY SOLAR ENERGY GENERATING
+SYSTEM FOR THE PREVIOUS YEAR;
 
-(II) PAY THE CALCULATED AMOUNT INTO THE ENERGY ASSISTANCE ACCOUNT OF THE MARYLAND STRATEGIC ENERGY INVESTMENT FUND; AND
+(II) PAY THE CALCULATED AMOUNT INTO THE ENERGY
+ASSISTANCE ACCOUNT OF THE MARYLAND STRATEGIC ENERGY INVESTMENT
+FUND; AND
 
-(III) NOTIFY THE COMMISSION THAT THE PAYMENT HAS BEEN MADE.
+(III) NOTIFY THE COMMISSION THAT THE PAYMENT HAS BEEN
+MADE.
 
-(2) THE AMOUNT PAID INTO THE MARYLAND STRATEGIC ENERGY INVESTMENT FUND UNDER THIS SUBSECTION SHALL BE USED ONLY FOR DIRECT ENERGY ASSISTANCE PROGRAMS IN ACCORDANCE WITH § 9–20B-05 OF THE STATE GOVERNMENT ARTICLE.
+(2) THE AMOUNT PAID INTO THE MARYLAND STRATEGIC ENERGY
+INVESTMENT FUND UNDER THIS SUBSECTION SHALL BE USED ONLY FOR DIRECT
+ENERGY ASSISTANCE PROGRAMS IN ACCORDANCE WITH § 9–20B-05 OF THE
+STATE GOVERNMENT ARTICLE.
 
 7–306.4.
 
-(A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS INDICATED.
+(A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE
+MEANINGS INDICATED.
 
-(2) “ELIGIBLE CUSTOMER–GENERATOR” HAS THE MEANING STATED IN § 7–306 OF THIS SUBTITLE.
+(2) “ELIGIBLE CUSTOMER–GENERATOR” HAS THE MEANING
+STATED IN § 7–306 OF THIS SUBTITLE.
 
-(3) “NET ENERGY METERING” HAS THE MEANING STATED IN § 7–306 OF THIS SUBTITLE.
+(3) “NET ENERGY METERING” HAS THE MEANING STATED IN § 7–
+306 OF THIS SUBTITLE.
 
-(B) IT IS THE INTENT OF THE GENERAL ASSEMBLY TO TRANSITION TO A NET ENERGY METERING PROGRAM THAT:
+(B) IT IS THE INTENT OF THE GENERAL ASSEMBLY TO TRANSITION TO A
+NET ENERGY METERING PROGRAM THAT:
 
-(1) INCREASES BENEFITS TO RATEPAYERS BY LOWERING ELECTRIC SYSTEM COSTS THROUGH THE USE OF FLEXIBLE CUSTOMER–SITED RENEWABLE ENERGY RESOURCES;
+(1) INCREASES BENEFITS TO RATEPAYERS BY LOWERING
+ELECTRIC SYSTEM COSTS THROUGH THE USE OF FLEXIBLE CUSTOMER–SITED
+RENEWABLE ENERGY RESOURCES;
 
-(2) PROVIDES FAIR COMPENSATION TO ELIGIBLE CUSTOMER–GENERATORS;
+(2) PROVIDES FAIR COMPENSATION TO ELIGIBLE
+CUSTOMER–GENERATORS;
 
-(3) IS DESIGNED TO MAKE PROGRESS TOWARD MEETING THE STATE’S DEMAND–SIDE, ENERGY STORAGE, AND CLEAN ENERGY GOALS; AND
+(3) IS DESIGNED TO MAKE PROGRESS TOWARD MEETING THE
+STATE’S DEMAND–SIDE, ENERGY STORAGE, AND CLEAN ENERGY GOALS; AND
 
-(4) PROVIDES INCENTIVES FOR THE DEVELOPMENT OF DISTRIBUTED GENERATION THAT ARE LESS THAN THE INCENTIVES PROVIDED BY THE NET ENERGY METERING PROGRAM UNDER § 7–306 OF THIS SUBTITLE.
+(4) PROVIDES INCENTIVES FOR THE DEVELOPMENT OF
+DISTRIBUTED GENERATION THAT ARE LESS THAN THE INCENTIVES PROVIDED BY
+THE NET ENERGY METERING PROGRAM UNDER § 7–306 OF THIS SUBTITLE.
 
-(C) ON OR BEFORE FEBRUARY 1, 2027, THE COMMISSION, BY ORDER OR REGULATION, SHALL DEVELOP AND IMPLEMENT, AS A SUCCESSOR PROGRAM TO THE NET ENERGY METERING PROGRAM UNDER § 7–306 OF THIS SUBTITLE, A NET ENERGY METERING PROGRAM TO BEGIN JULY 1, 2027, THAT:
+(C) ON OR BEFORE FEBRUARY 1, 2027, THE COMMISSION, BY ORDER OR
+REGULATION, SHALL DEVELOP AND IMPLEMENT, AS A SUCCESSOR PROGRAM TO
+THE NET ENERGY METERING PROGRAM UNDER § 7–306 OF THIS SUBTITLE, A NET
+ENERGY METERING PROGRAM TO BEGIN JULY 1, 2027, THAT:
 
-(1) PROVIDES INCENTIVES FOR THE DEVELOPMENT OF DISTRIBUTED GENERATION TO ELIGIBLE CUSTOMER–GENERATORS UNDER §§ 7–306 AND 7–306.3 OF THIS SUBTITLE AND COMMUNITY SOLAR ENERGY GENERATING SYSTEMS UNDER § 7–306.2 OF THIS SUBTITLE;
+(1) PROVIDES INCENTIVES FOR THE DEVELOPMENT OF
+DISTRIBUTED GENERATION TO ELIGIBLE CUSTOMER–GENERATORS UNDER §§ 7–
+306 AND 7–306.3 OF THIS SUBTITLE AND COMMUNITY SOLAR ENERGY
+GENERATING SYSTEMS UNDER § 7–306.2 OF THIS SUBTITLE;
 
-(2) MINIMIZES RATEPAYER COSTS IN THE SHORT TERM AND IN THE LONG TERM;
+(2) MINIMIZES RATEPAYER COSTS IN THE SHORT TERM AND IN THE
+LONG TERM;
 
-(3) BALANCES, ON A STATEWIDE BASIS AND ACROSS TECHNOLOGIES AND INDUSTRY SECTORS PARTICIPATING IN NET ENERGY METERING, AND WHILE RECOGNIZING DIFFERENCES IN SYSTEM BENEFITS BETWEEN PROJECT TYPES WHEN DESIGNING TARIFFS IN ACCORDANCE WITH PARAGRAPH (4) OF THIS SUBSECTION:
+(3) BALANCES, ON A STATEWIDE BASIS AND ACROSS
+TECHNOLOGIES AND INDUSTRY SECTORS PARTICIPATING IN NET ENERGY
+METERING, AND WHILE RECOGNIZING DIFFERENCES IN SYSTEM BENEFITS
+BETWEEN PROJECT TYPES WHEN DESIGNING TARIFFS IN ACCORDANCE WITH
+PARAGRAPH (4) OF THIS SUBSECTION:
 
 (I) 1. FAIR COMPENSATION FOR ENERGY EXPORTS; AND
 
-2. THE BENEFITS OF AN ELIGIBLE CUSTOMER–GENERATOR’S OR FACILITY’S REDUCED LOAD ON THE ELECTRIC TRANSMISSION AND DISTRIBUTION SYSTEM, INCLUDING BENEFITS THAT MAY VARY BASED ON PROJECT LOCATION, SITING, TIME TO OPERATION, OR USE OF EXISTING STRUCTURES OR DEVELOPED PROPERTY; AGAINST
+2. THE BENEFITS OF AN ELIGIBLE
+CUSTOMER–GENERATOR’S OR FACILITY’S REDUCED LOAD ON THE ELECTRIC
+TRANSMISSION AND DISTRIBUTION SYSTEM, INCLUDING BENEFITS THAT MAY
+VARY BASED ON PROJECT LOCATION, SITING, TIME TO OPERATION, OR USE OF
+EXISTING STRUCTURES OR DEVELOPED PROPERTY; AGAINST
 
-(II) 1. THE NEEDS OF THE ELECTRIC TRANSMISSION AND ELECTRIC DISTRIBUTION SYSTEM;
+(II) 1. THE NEEDS OF THE ELECTRIC TRANSMISSION AND
+ELECTRIC DISTRIBUTION SYSTEM;
 
 2. RATEPAYER COSTS AND BENEFITS; AND
 
-3. POTENTIAL IMPACTS ON CUSTOMERS, INCLUDING LOW– AND MODERATE–INCOME CUSTOMERS, WHO DO NOT PARTICIPATE IN THE NET ENERGY METERING PROGRAM RESULTING FROM ELIGIBLE CUSTOMER–GENERATORS’ REDUCED CONTRIBUTIONS TO THE DISTRIBUTION SYSTEM; AND
+3. POTENTIAL IMPACTS ON CUSTOMERS, INCLUDING
+LOW– AND MODERATE–INCOME CUSTOMERS, WHO DO NOT PARTICIPATE IN THE
+NET ENERGY METERING PROGRAM RESULTING FROM ELIGIBLE
+CUSTOMER–GENERATORS’ REDUCED CONTRIBUTIONS TO THE DISTRIBUTION
+SYSTEM; AND
 
-(4) MAY ESTABLISH DIFFERENT TARIFFS FOR THE FOLLOWING MARKET SEGMENTS THAT TAKE INTO ACCOUNT THE CHARACTERISTICS OF EACH MARKET SEGMENT:
+(4) MAY ESTABLISH DIFFERENT TARIFFS FOR THE FOLLOWING
+MARKET SEGMENTS THAT TAKE INTO ACCOUNT THE CHARACTERISTICS OF EACH
+MARKET SEGMENT:
 
 (I) RESIDENTIAL ELIGIBLE–CUSTOMER GENERATORS;
 
 (II) NONRESIDENTIAL ELIGIBLE–CUSTOMER GENERATORS;
 
-(III) COMMUNITY SOLAR ENERGY GENERATING SYSTEMS UNDER § 7–306.2 OF THIS SUBTITLE;
+(III) COMMUNITY SOLAR ENERGY GENERATING SYSTEMS
+UNDER § 7–306.2 OF THIS SUBTITLE;
 
-(IV) AGGREGATED NET ENERGY METERED FACILITIES UNDER § 7–306.3 OF THIS SUBTITLE; AND
+(IV) AGGREGATED NET ENERGY METERED FACILITIES UNDER
+§ 7–306.3 OF THIS SUBTITLE; AND
 
-(V) ANY ADDITIONAL MARKET SEGMENT OR SUBSET OF A MARKET SEGMENT IDENTIFIED BY THE COMMISSION.
+(V) ANY ADDITIONAL MARKET SEGMENT OR SUBSET OF A
+MARKET SEGMENT IDENTIFIED BY THE COMMISSION.
 
-(D) ON OR BEFORE JANUARY 1, 2027, THE COMMISSION SHALL PROVIDE NOTICE TO THE GENERAL ASSEMBLY, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, ON THE STATUS OF THE DEVELOPMENT OF THE PROGRAM REQUIRED UNDER SUBSECTION (C) OF THIS SECTION.
+(D) ON OR BEFORE JANUARY 1, 2027, THE COMMISSION SHALL PROVIDE
+NOTICE TO THE GENERAL ASSEMBLY, IN ACCORDANCE WITH § 2–1257 OF THE
+STATE GOVERNMENT ARTICLE, ON THE STATUS OF THE DEVELOPMENT OF THE
+PROGRAM REQUIRED UNDER SUBSECTION (C) OF THIS SECTION.
 
-(E) THE COMMISSION SHALL PRIORITIZE THE REVIEW AND APPROVAL OF APPLICATIONS FROM A PROSPECTIVE ELIGIBLE CUSTOMER–GENERATOR FOR PARTICIPATION IN THE PROGRAM IMPLEMENTED UNDER SUBSECTION (C) OF THIS SECTION IF, AT THE TIME THE PROGRAM WAS IMPLEMENTED, THE PROSPECTIVE ELIGIBLE CUSTOMER–GENERATOR WAS IN THE QUEUE FOR THE NET ENERGY METERING PROGRAM UNDER § 7–306 OF THIS SUBTITLE.
+(E) THE COMMISSION SHALL PRIORITIZE THE REVIEW AND APPROVAL
+OF APPLICATIONS FROM A PROSPECTIVE ELIGIBLE CUSTOMER–GENERATOR FOR
+PARTICIPATION IN THE PROGRAM IMPLEMENTED UNDER SUBSECTION (C) OF
+THIS SECTION IF, AT THE TIME THE PROGRAM WAS IMPLEMENTED, THE
+PROSPECTIVE ELIGIBLE CUSTOMER–GENERATOR WAS IN THE QUEUE FOR THE
+NET ENERGY METERING PROGRAM UNDER § 7–306 OF THIS SUBTITLE.
 
-(F) THE PROGRAM IMPLEMENTED BY THE COMMISSION UNDER SUBSECTION (C) OF THIS SECTION SHALL BE AVAILABLE UNTIL THE COMBINED TOTAL RATED GENERATING CAPACITY OWNED AND OPERATED UNDER THE NET ENERGY METERING PROGRAM UNDER § 7–306 OF THIS SUBTITLE AND THE NET ENERGY METERING PROGRAM IMPLEMENTED UNDER THIS SECTION REACHES 6,000 MEGAWATTS.
+(F) THE PROGRAM IMPLEMENTED BY THE COMMISSION UNDER
+SUBSECTION (C) OF THIS SECTION SHALL BE AVAILABLE UNTIL THE COMBINED
+TOTAL RATED GENERATING CAPACITY OWNED AND OPERATED UNDER THE NET
+ENERGY METERING PROGRAM UNDER § 7–306 OF THIS SUBTITLE AND THE NET
+ENERGY METERING PROGRAM IMPLEMENTED UNDER THIS SECTION REACHES
+6,000 MEGAWATTS.
 
 7–321.
 
-(A) IN THIS SECTION, “PORTABLE SOLAR ENERGY GENERATING SYSTEM” MEANS A MOVABLE PHOTOVOLTAIC SOLAR ENERGY GENERATION DEVICE THAT IS:
+(A) IN THIS SECTION, “PORTABLE SOLAR ENERGY GENERATING SYSTEM”
+MEANS A MOVABLE PHOTOVOLTAIC SOLAR ENERGY GENERATION DEVICE THAT
+IS:
 
-(1) DESIGNED TO BE CONNECTED TO A BUILDING’S ELECTRICAL SYSTEM THROUGH A STANDARD ELECTRICAL OUTLET;
+(1) DESIGNED TO BE CONNECTED TO A BUILDING’S ELECTRICAL
+SYSTEM THROUGH A STANDARD ELECTRICAL OUTLET;
 
-(2) PRIMARILY INTENDED TO OFFSET PART OF THE BUILDING’S ELECTRICITY CONSUMPTION;
+(2) PRIMARILY INTENDED TO OFFSET PART OF THE BUILDING’S
+ELECTRICITY CONSUMPTION;
 
-(3) LIMITED TO SUPPLYING A MAXIMUM POWER OUTPUT OF NOT MORE THAN 1,200 WATTS BACK TO THE ELECTRIC SYSTEM; AND
+(3) LIMITED TO SUPPLYING A MAXIMUM POWER OUTPUT OF NOT
+MORE THAN 1,200 WATTS BACK TO THE ELECTRIC SYSTEM; AND
 
-(4) CERTIFIED BY UNDERWRITERS LABORATORY OR AN EQUIVALENT NATIONALLY RECOGNIZED TESTING LABORATORY.
+(4) CERTIFIED BY UNDERWRITERS LABORATORY OR AN
+EQUIVALENT NATIONALLY RECOGNIZED TESTING LABORATORY.
 
-(B) A PERSON MAY PURCHASE AND INSTALL A PORTABLE SOLAR ENERGY GENERATING SYSTEM FOR RESIDENTIAL USE ONLY.
+(B) A PERSON MAY PURCHASE AND INSTALL A PORTABLE SOLAR ENERGY
+GENERATING SYSTEM FOR RESIDENTIAL USE ONLY.
 
 (C) A PORTABLE SOLAR ENERGY GENERATING SYSTEM:
 
-(1) IS NOT SUBJECT TO THE REQUIREMENTS OF §§ 7–306 AND 7–306.1 OF THIS SUBTITLE;
+(1) IS NOT SUBJECT TO THE REQUIREMENTS OF §§ 7–306 AND 7–
+306.1 OF THIS SUBTITLE;
 
-(2) IS NOT ELIGIBLE FOR INCLUSION IN MEETING THE RENEWABLE ENERGY PORTFOLIO STANDARD; AND
+(2) IS NOT ELIGIBLE FOR INCLUSION IN MEETING THE RENEWABLE
+ENERGY PORTFOLIO STANDARD; AND
 
-(3) MAY NOT GENERATE RENEWABLE ENERGY CREDITS OF ANY TYPE.
+(3) MAY NOT GENERATE RENEWABLE ENERGY CREDITS OF ANY
+TYPE.
 
 (D) AN ELECTRIC COMPANY:
 
-(1) MAY NOT REQUIRE A CUSTOMER USING A PORTABLE SOLAR ENERGY GENERATING SYSTEM TO:
+(1) MAY NOT REQUIRE A CUSTOMER USING A PORTABLE SOLAR
+ENERGY GENERATING SYSTEM TO:
 
-(I) OBTAIN THE ELECTRIC COMPANY’S APPROVAL BEFORE INSTALLING OR USING THE PORTABLE SOLAR ENERGY GENERATING SYSTEM;
+(I) OBTAIN THE ELECTRIC COMPANY’S APPROVAL BEFORE
+INSTALLING OR USING THE PORTABLE SOLAR ENERGY GENERATING SYSTEM;
 
-(II) PAY ANY FEE OR CHARGE RELATED TO THE PORTABLE SOLAR ENERGY GENERATING SYSTEM’S ABILITY TO FEED ELECTRICITY BACK INTO THE ELECTRIC SYSTEM; OR
+(II) PAY ANY FEE OR CHARGE RELATED TO THE PORTABLE
+SOLAR ENERGY GENERATING SYSTEM’S ABILITY TO FEED ELECTRICITY BACK
+INTO THE ELECTRIC SYSTEM; OR
 
-(III) EXCEPT AS PROVIDED IN SUBSECTION (E) OF THIS SECTION, INSTALL ANY ADDITIONAL CONTROLS OR EQUIPMENT BEYOND WHAT IS INTEGRATED INTO THE PORTABLE SOLAR ENERGY GENERATING SYSTEM; AND
+(III) EXCEPT AS PROVIDED IN SUBSECTION (E) OF THIS
+SECTION, INSTALL ANY ADDITIONAL CONTROLS OR EQUIPMENT BEYOND WHAT IS
+INTEGRATED INTO THE PORTABLE SOLAR ENERGY GENERATING SYSTEM; AND
 
-(2) IS NOT LIABLE FOR ANY DAMAGE CAUSED BY A PORTABLE SOLAR ENERGY GENERATING SYSTEM.
+(2) IS NOT LIABLE FOR ANY DAMAGE CAUSED BY A PORTABLE
+SOLAR ENERGY GENERATING SYSTEM.
 
-(E) A CUSTOMER USING A PORTABLE SOLAR ENERGY GENERATING SYSTEM SHALL:
+(E) A CUSTOMER USING A PORTABLE SOLAR ENERGY GENERATING
+SYSTEM SHALL:
 
-(1) NOTIFY THE ELECTRIC COMPANY PROVIDING SERVICE IN THE SERVICE TERRITORY IN WHICH THE GENERATING SYSTEM WILL BE INSTALLED BEFORE INSTALLATION;
+(1) NOTIFY THE ELECTRIC COMPANY PROVIDING SERVICE IN THE
+SERVICE TERRITORY IN WHICH THE GENERATING SYSTEM WILL BE INSTALLED
+BEFORE INSTALLATION;
 
-(2) PROVIDE TO THE ELECTRIC COMPANY PROVIDING SERVICE IN THE SERVICE TERRITORY IN WHICH THE GENERATING SYSTEM WILL BE OR IS INSTALLED A CERTIFICATION OF THE SAFETY FEATURES AND MAXIMUM GENERATING CAPACITY OF THE GENERATING SYSTEM; AND
+(2) PROVIDE TO THE ELECTRIC COMPANY PROVIDING SERVICE IN
+THE SERVICE TERRITORY IN WHICH THE GENERATING SYSTEM WILL BE OR IS
+INSTALLED A CERTIFICATION OF THE SAFETY FEATURES AND MAXIMUM
+GENERATING CAPACITY OF THE GENERATING SYSTEM; AND
 
-(3) IF THE GENERATING SYSTEM REQUIRES AN AUTOMATIC LOCKING DISCONNECT SWITCH TO BE INSTALLED, PAY FOR THE SWITCH INSTALLATION.
+(3) IF THE GENERATING SYSTEM REQUIRES AN AUTOMATIC
+LOCKING DISCONNECT SWITCH TO BE INSTALLED, PAY FOR THE SWITCH
+INSTALLATION.
 
 7–505.
 
-(b) (1) The Commission shall issue the orders or adopt the regulations required under this subsection before the implementation of customer choice.
+(b) (1) The Commission shall issue the orders or adopt the regulations
+required under this subsection before the implementation of customer choice.
 
-(2) The Commission shall order a universal service program, to be made available on a statewide basis, to benefit low–income customers, in accordance with [§ 7–512.1 of this subtitle] § 5–5A–08 OF THE HUMAN SERVICES ARTICLE.
+(2) The Commission shall order a universal service program, to be made
+available on a statewide basis, to benefit low–income customers, in accordance with § 5–5A–08 OF THE HUMAN SERVICES ARTICLE.
 
-(d) (2) (ii) The cap required under paragraph (1) of this subsection applies to the recovery of:
+(d) (2) (ii) The cap required under paragraph (1) of this subsection
+applies to the recovery of:
 
-3. costs for the universal service program established under [§ 7–512.1 of this subtitle] § 5–5A–08 OF THE HUMAN SERVICES ARTICLE.
+3. costs for the universal service program established
+under § 5–5A–08 OF THE HUMAN SERVICES ARTICLE.
 
 7–510.3.
 
-(o) The Commission shall establish procedures for an electric customer that is receiving electricity supply through a community choice aggregator to receive any bill assistance credit or arrearage assistance to which the customer may be entitled under [§ 7–512.1 of this subtitle] § 5–5A–08 OF THE HUMAN SERVICES ARTICLE or any other federal or State bill and arrearage assistance administered by the Office of Home Energy Programs.
+(o) The Commission shall establish procedures for an electric customer that is
+receiving electricity supply through a community choice aggregator to receive any bill
+assistance credit or arrearage assistance to which the customer may be entitled under
+§ 5–5A–08 OF THE HUMAN SERVICES ARTICLE or any
+other federal or State bill and arrearage assistance administered by the Office of Home
+Energy Programs.
 
 7–1006.
 
-(a) (1) [The Commission may approve or require an investor–owned electric company to] SUBJECT TO AVAILABLE FUNDING, THE MARYLAND ENERGY ADMINISTRATION, IN CONSULTATION WITH THE COMMISSION, MAY offer upfront incentives or rebates to customers to acquire and install renewable on–site generating systems if the customer:
+(a) (1) SUBJECT TO AVAILABLE FUNDING, THE MARYLAND ENERGY
+ADMINISTRATION, IN CONSULTATION WITH THE COMMISSION, MAY offer upfront
+incentives or rebates to customers to acquire and install renewable on–site generating
+systems if the customer:
 
-(i) enrolls in a pilot program or temporary tariff established under § 7–1005 of this subtitle; and
+(i) enrolls in a pilot program or temporary tariff established
+under § 7–1005 of this subtitle; and
 
-(ii) allows the system to be used for electric distribution system support services for a period of not less than 5 years.
+(ii) allows the system to be used for electric distribution system
+support services for a period of not less than 5 years.
 
-(2) [The Commission may:
+(2) THE
+MARYLAND ENERGY ADMINISTRATION, IN CONSULTATION WITH THE
+COMMISSION, MAY prioritize the offer of incentives or rebates under this section to
+low– or moderate–income customers.
 
-(i) authorize or require an investor–owned electric company to provide an additional incentive or rebate for low– or moderate–income customers who apply for an incentive or rebate under this section; and
-
-(ii) require an investor–owned electric company to] THE MARYLAND ENERGY ADMINISTRATION, IN CONSULTATION WITH THE COMMISSION, MAY prioritize the offer of incentives or rebates under this section to low– or moderate–income customers.
-
-(b) [In determining whether to require an investor–owned electric company to offer an incentive or rebate under this section, the Commission shall consider:
-
-(1) the benefit of reducing the operation of peak generating facilities in overburdened and underserved communities;
-
-(2) the benefit of resiliency and service outage avoidance for customers with on–site generating systems; and
-
-(3) the potential for investor–owned electric companies to reduce expenses relating to electric distribution system infrastructure by leveraging customers’ on–site generating systems.
-
-(c) The Commission shall consider establishing a limit on the amount of incentives or rebates issued in a manner that achieves deployment goals while mitigating potential customer impacts.
-
-(d) The Commission shall consult with the] THE Maryland Energy Administration, when approving [or requiring] an incentive or rebate under this section, [to] SHALL ensure that the incentive or rebate is designed to supplement, to the greatest extent possible, other available State and federal incentives for customer adoption of renewable on–site generating systems.
+(b) THE Maryland Energy
+Administration, when approving an incentive or rebate under this
+section, SHALL ensure that the incentive or rebate is designed to supplement, to
+the greatest extent possible, other available State and federal incentives for customer
+adoption of renewable on–site generating systems.
 
 7–1007.
 
-(a) An investor–owned electric company may recover all reasonable costs incurred in[:
+(a) An investor–owned electric company may recover all reasonable costs
+incurred in participating in and administering a program under § 7–1005 of this
+subtitle.
 
-(1)] participating in and administering a program under § 7–1005 of this subtitle[; and
+(b) To the extent feasible, the costs in subsection (a) of this section
+shall be recovered by the investor–owned electric company within the calendar year in
+which those costs were incurred.
 
-(2) offering an upfront incentive or rebate under § 7–1006 of this subtitle].
-
-(b) To the extent feasible, the costs [listed] in subsection (a) of this section shall be recovered by the investor–owned electric company within the calendar year in which those costs were incurred.
-
-(c) Notwithstanding any provision of this subtitle, an investor–owned electric company may pursue and use a performance incentive mechanism to cover the cost of using distributed energy resources or an aggregator of distributed resources under this subtitle.
+(c) Notwithstanding any provision of this subtitle, an investor–owned electric
+company may pursue and use a performance incentive mechanism to cover the cost of
+using distributed energy resources or an aggregator of distributed resources under this
+subtitle.
 
 7-1008.
 
 THE COMMISSION SHALL DEVELOP GUIDELINES AND LIMITATIONS FOR:
 
-(1) CHARGING AND DISCHARGING BEHIND–THE–METER ENERGY STORAGE FACILITIES; AND
+(1) CHARGING AND DISCHARGING BEHIND–THE–METER ENERGY
+STORAGE FACILITIES; AND
 
-(2) WHEN ELECTRIC COMPANIES MAY PROHIBIT BEHIND–THE–METER ENERGY STORAGE FACILITIES FROM BEING STUDIED BY AN ELECTRIC COMPANY AS AN ADDITIONAL LOAD UNDER A LOAD STUDY CONDUCTED UNDER § 4–212 OF THIS ARTICLE.
+(2) WHEN ELECTRIC COMPANIES MAY PROHIBIT BEHIND–THE–
+METER ENERGY STORAGE FACILITIES FROM BEING STUDIED BY AN ELECTRIC
+COMPANY AS AN ADDITIONAL LOAD UNDER A LOAD STUDY CONDUCTED UNDER §
+4–212 OF THIS ARTICLE.
 
 7–1201.
 
 (a) In this part the following words have the meanings indicated.
 
-(g) “Large capacity energy resource” means a generating station or energy storage device that[:
-
-(1) on or before January 1, 2025:
-
-(i) has applied to PJM for interconnection approval; or
-
-(ii) has been approved by PJM for interconnection; and
-
-(2)] has a capacity rating equal to or greater than 20 megawatts after accounting for the effective load carrying capability.
+(g) “Large capacity energy resource” means a generating station or energy
+storage device that has a capacity rating equal to or greater than 20 megawatts after
+accounting for the effective load carrying capability.
 
 7–1216.
 
-(a) The Commission may not approve an application for a nuclear energy generation project submitted under § 7–1212 of this subtitle unless:
+(a) The Commission may not approve an application for a nuclear energy
+generation project submitted under § 7–1212 of this subtitle unless:
 
 (1) the project is connected to the electric system serving the State;
 
-(2) over the duration of the proposed long–term pricing schedule, the projected net rate impact for an average residential customer, based on annual consumption of 12,000 kilowatt–hours and combined with the projected net rate impact of other nuclear energy generation projects, does not exceed an amount determined by the Commission;
+(2) over the duration of the proposed long–term pricing schedule, the
+projected net rate impact for an average residential customer, based on annual
+consumption of 12,000 kilowatt–hours and combined with the projected net rate impact
+of other nuclear energy generation projects, does not exceed an amount determined by
+the Commission;
 
-(3) over the duration of the proposed long–term pricing schedule, the projected net rate impact for all nonresidential customers, considered as a blended average and combined with the projected net rate impact of other nuclear energy generation projects, does not exceed a percentage determined by the Commission of nonresidential customers’ total annual electric bills; and
+(3) over the duration of the proposed long–term pricing schedule, the
+projected net rate impact for all nonresidential customers, considered as a blended
+average and combined with the projected net rate impact of other nuclear energy
+generation projects, does not exceed a percentage determined by the Commission of
+nonresidential customers’ total annual electric bills; and
 
-(4) the price specified in the proposed long–term pricing schedule does not exceed an amount determined by the Commission.
+(4) the price specified in the proposed long–term pricing schedule does
+not exceed an amount determined by the Commission.
 
-(b) When calculating the projected net average rate impacts for nuclear energy generation projects under this section, the Commission shall [apply the same] CONSIDER THE net long–term cost per megawatt–hour APPLIED to residential and nonresidential customers.
+(b) When calculating the projected net average rate impacts for nuclear energy
+generation projects under this section, the Commission shall CONSIDER THE net long–term cost per megawatt–hour APPLIED to residential and
+nonresidential customers.
 
 7–1220.
 
-(a) In this section, “zero–emission credit” means [the difference between the price that a nuclear energy generating station with a long–term pricing schedule approved in an order issued under § 7–1217 of this subtitle may receive on the wholesale market and the cost of constructing the nuclear energy generating station] A CREDIT EQUAL TO THE ENVIRONMENTAL IMPACT OF 1 MEGAWATT–HOUR OF ELECTRICITY THAT IS DERIVED FROM A NUCLEAR ENERGY GENERATING STATION APPROVED BY THE COMMISSION UNDER § 7–1217 OF THIS SUBTITLE.
+(a) In this section, “zero–emission credit” means A CREDIT
+EQUAL TO THE ENVIRONMENTAL IMPACT OF 1 MEGAWATT–HOUR OF
+ELECTRICITY THAT IS DERIVED FROM A NUCLEAR ENERGY GENERATING STATION APPROVED BY THE COMMISSION UNDER § 7–1217 OF THIS SUBTITLE.
 
 (b) The Commission shall adopt regulations that:
 
-(1) establish the nuclear energy long–term pricing purchase obligation sufficiently in advance to allow an electric company to reflect nuclear energy long–term pricing costs as a nonbypassable surcharge that is added to the electric company’s base distribution rate on customer bills;
+(1) establish the nuclear energy long–term pricing purchase obligation
+sufficiently in advance to allow an electric company to reflect nuclear energy long–term
+pricing costs as a nonbypassable surcharge that is added to the electric company’s base
+distribution rate on customer bills;
 
-(2) define rules that facilitate and ensure the secure and transparent transfer of revenues and long–term pricing payments among parties;
+(2) define rules that facilitate and ensure the secure and transparent
+transfer of revenues and long–term pricing payments among parties;
 
-(3) define the terms and procedures of the nuclear energy long–term pricing schedule obligations, including:
+(3) define the terms and procedures of the nuclear energy long–term
+pricing schedule obligations, including:
 
-(i) establishing a formula and process to adjust the value of the long–term pricing schedule every 2 years based on projected wholesale market prices adjusted by the locational value and earning potential in the PJM region of the nuclear energy generating station; and
+(i) establishing a formula and process to adjust the value of the
+long–term pricing schedule every 2 years based on projected wholesale market prices
+adjusted by the locational value and earning potential in the PJM region of the nuclear
+energy generating station; and
 
-(ii) establishing a per megawatt hour cap on any long–term pricing schedule specified in an order issued under § 7–1217 of this subtitle;
+(ii) establishing a per megawatt hour cap on any long–term
+pricing schedule specified in an order issued under § 7–1217 of this subtitle;
 
 (4) require the Commission to establish an escrow account; and
 
-(5) to meet the total statewide long–term pricing purchase obligation for all applications approved in an order issued under § 7–1217 of this subtitle, require the Commission to annually establish each electric company’s zero–emission credit purchase obligation based on the most recent final electricity sales data as reported by PJM Interconnection and measured at the customer’s meter in proportion to the electric company’s share of statewide load.
+(5) to meet the total statewide long–term pricing purchase obligation
+for all applications approved in an order issued under § 7–1217 of this subtitle, require
+the Commission to annually establish each electric company’s zero–emission credit
+purchase obligation based on the most recent final electricity sales data as reported by
+PJM Interconnection and measured at the customer’s meter in proportion to the electric
+company’s share of statewide load.
 
-(c) (1) Each electric company shall procure from the escrow account established by regulation under this section a quantity of zero–emission credits equal to the electric company’s respective percentage of retail electric sales each year.
+(c) (1) Each electric company shall procure from the escrow account
+established by regulation under this section a quantity of zero–emission credits equal
+to the electric company’s respective percentage of retail electric sales each year.
 
-(2) Subject to any escrow account reserve requirement the Commission establishes, if there are insufficient zero–emission credits available to satisfy the electric companies’ zero–emission credit purchase obligations, the overpayment shall be distributed to electric companies to be refunded or credited to each distribution customer based on the customer’s consumption of electricity supply that is subject to the renewable energy portfolio standard.
+(2) Subject to any escrow account reserve requirement the Commission
+establishes, if there are insufficient zero–emission credits available to satisfy the electric
+companies’ zero–emission credit purchase obligations, the overpayment shall be
+distributed to electric companies to be refunded or credited to each distribution
+customer based on the customer’s consumption of electricity supply that is subject to the
+renewable energy portfolio standard.
 
-(d) A debt, an obligation, or a liability of a nuclear energy generation project or of an owner or operator of a nuclear energy generation project may not be considered a debt, an obligation, or a liability of the State.
+(d) A debt, an obligation, or a liability of a nuclear energy generation project
+or of an owner or operator of a nuclear energy generation project may not be considered
+a debt, an obligation, or a liability of the State.
 
-(E) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, THE COMMISSION MAY APPROVE AN INCREASE OF THE TOTAL COST OF A NUCLEAR ENERGY GENERATION PROJECT UNDER A LONG–TERM PRICING PURCHASE OBLIGATION.
+(E) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, THE
+COMMISSION MAY APPROVE AN INCREASE OF THE TOTAL COST OF A NUCLEAR
+ENERGY GENERATION PROJECT UNDER A LONG–TERM PRICING PURCHASE
+OBLIGATION.
 
-(2) THE TOTAL COST OF A NUCLEAR ENERGY GENERATION PROJECT UNDER A LONG–TERM PRICING PURCHASE OBLIGATION MAY NOT BE INCREASED BY MORE THAN 15% OF THE ORIGINAL COST.
+(2) THE TOTAL COST OF A NUCLEAR ENERGY GENERATION
+PROJECT UNDER A LONG–TERM PRICING PURCHASE OBLIGATION MAY NOT BE
+INCREASED BY MORE THAN 15% OF THE ORIGINAL COST.
 
 7–1225.
 
-(a) The Commission shall include specifications in a procurement solicitation issued under § 7–1224 of this subtitle that require each proposal to:
+(a) The Commission shall include specifications in a procurement solicitation
+issued under § 7–1224 of this subtitle that require each proposal to:
 
-(1) include a proposed pricing schedule for the transmission energy storage project that:
+(1) include a proposed pricing schedule for the transmission energy
+storage project that:
 
 (i) is for at least 15 years; and
 
-(ii) represents the anticipated monthly wholesale value of capacity per megawatt and other benefits identified in a cost–benefit analysis, but not including any anticipated wholesale energy and ancillary services revenue;
+(ii) represents the anticipated monthly wholesale value of
+capacity per megawatt and other benefits identified in a cost–benefit analysis, but not
+including any anticipated wholesale energy and ancillary services revenue;
 
-(2) include a cost–benefit analysis of the project and proposed pricing schedule comparison on a dollar–per–megawatt–hour basis, including an analysis of:
+(2) include a cost–benefit analysis of the project and proposed pricing
+schedule comparison on a dollar–per–megawatt–hour basis, including an analysis of:
 
-(i) the locational value and time to deployment of the energy storage devices;
+(i) the locational value and time to deployment of the energy
+storage devices;
 
-(ii) the value of long–duration storage, including its capacity accreditation value for resource adequacy as measured in PJM Interconnection’s effective load carrying capability class ratings;
+(ii) the value of long–duration storage, including its capacity
+accreditation value for resource adequacy as measured in PJM Interconnection’s
+effective load carrying capability class ratings;
 
-(iii) avoided or delayed transmission, generation, and distribution costs;
+(iii) avoided or delayed transmission, generation, and distribution
+costs;
 
-(iv) avoided emissions in the short term and projected avoided emissions in the long term, measured using the social cost of carbon, as determined by the U.S. Environmental Protection Agency as of January 1, 2025;
+(iv) avoided emissions in the short term and projected avoided
+emissions in the long term, measured using the social cost of carbon, as determined by
+the U.S. Environmental Protection Agency as of January 1, 2025;
 
 (v) the value of the rapid deployment of energy storage devices;
 
-(vi) the value of reliability during periods of electric system stress, including the ability to deliver capacity during periods of extreme weather, fuel scarcity, and large unplanned resource outages; and
+(vi) the value of reliability during periods of electric system stress,
+including the ability to deliver capacity during periods of extreme weather, fuel scarcity,
+and large unplanned resource outages; and
 
 (vii) any other avoided costs;
 
-(3) ensure that the owner or operator of the project has the capability to export electricity for sale on the wholesale market and bid into the PJM capacity market under an agreement with PJM Interconnection;
+(3) ensure that the owner or operator of the project has the capability
+to export electricity for sale on the wholesale market and bid into the PJM capacity
+market under an agreement with PJM Interconnection;
 
-(4) ensure that the energy storage devices can deliver their effective nameplate capacity;
+(4) ensure that the energy storage devices can deliver their effective
+nameplate capacity;
 
 (5) incorporate a community benefit agreement;
 
-(6) attest in writing that all contractors and subcontractors working on the project have been in compliance with federal and State wage and hour laws for the immediately preceding 3 years or the duration of the contractor’s or subcontractor’s business operation, whichever is longer; and
+(6) attest in writing that all contractors and subcontractors working on
+the project have been in compliance with federal and State wage and hour laws for the
+immediately preceding 3 years or the duration of the contractor’s or subcontractor’s
+business operation, whichever is longer; and
 
-(7) ensure a competitive bidding process, including by redacting proprietary information provided to the Commission.
+(7) ensure a competitive bidding process, including by redacting
+proprietary information provided to the Commission.
 
-(b) An energy storage device shall be considered capable of delivering its effective nameplate capacity under this section if:
+(b) An energy storage device shall be considered capable of delivering its
+effective nameplate capacity under this section if:
 
-(1) the energy storage device will have the capacity interconnection rights with PJM Interconnection equal to its effective nameplate capacity; or
+(1) the energy storage device will have the capacity interconnection
+rights with PJM Interconnection equal to its effective nameplate capacity; or
 
-(2) (i) the energy storage device will have surplus interconnection service with PJM Interconnection; and
+(2) (i) the energy storage device will have surplus interconnection
+service with PJM Interconnection; and
 
-(ii) the ability of the energy storage device to deliver its effective nameplate capacity will be limited only by the generation of another nonenergy storage generation resource with which the energy storage device shares a point of interconnection to the electric transmission system.
+(ii) the ability of the energy storage device to deliver its effective
+nameplate capacity will be limited only by the generation of another nonenergy storage
+generation resource with which the energy storage device shares a point of
+interconnection to the electric transmission system.
 
-(c) [Front–of–the–meter] PROJECTS THAT INCLUDE ANY OF THE FOLLOWING DEVICES MAY BE INCLUDED IN A PROPOSAL IN RESPONSE TO A PROCUREMENT SOLICITATION UNDER § 7–1224 OF THIS SUBTITLE:
+(c) PROJECTS THAT INCLUDE ANY OF THE
+FOLLOWING DEVICES MAY BE INCLUDED IN A PROPOSAL IN RESPONSE TO A
+PROCUREMENT SOLICITATION UNDER § 7–1224 OF THIS SUBTITLE:
 
-(1) FRONT–OF–THE–METER transmission energy storage devices paired with Tier 1 or Tier 2 renewable sources, as defined under § 7–701 of this title[, may be included in a proposal in response to a procurement solicitation under § 7–1224 of this subtitle]; AND
+(1) FRONT–OF–THE–METER transmission energy storage devices
+paired with Tier 1 or Tier 2 renewable sources, as defined under § 7–701 of this title; AND
 
-(2) FRONT–OF–THE–METER TRANSMISSION ENERGY STORAGE DEVICES INTERCONNECTED TO A FACILITY WITHIN THE STATE THAT IS USED TO TRANSMIT ELECTRICITY TO ANOTHER STATE.
+(2) FRONT–OF–THE–METER TRANSMISSION ENERGY STORAGE
+DEVICES INTERCONNECTED TO A FACILITY WITHIN THE STATE THAT IS USED TO
+TRANSMIT ELECTRICITY TO ANOTHER STATE.
 
 7–1302.
 
@@ -2684,51 +4409,82 @@ THE COMMISSION SHALL DEVELOP GUIDELINES AND LIMITATIONS FOR:
 
 (b) (1) The head of the Office is the Director.
 
-(2) (i) The Director shall be appointed by the Governor with the advice and consent of the Senate.
+(2) (i) The Director shall be appointed by the Governor with the
+advice and consent of the Senate.
 
-(ii) 1. The term of the Director is 5 years and begins on July 1.
+(ii) 1. The term of the Director is 5 years and begins on July
+1.
 
-2. THE FIRST TERM OF THE DIRECTOR SHALL BEGIN ON JULY 1, 2026.
+2. THE FIRST TERM OF THE DIRECTOR SHALL BEGIN
+ON JULY 1, 2026.
 
-(iii) At the end of a term, the Director continues to serve until a successor is appointed and qualifies.
+(iii) At the end of a term, the Director continues to serve until a
+successor is appointed and qualifies.
 
-(iv) A Director who is appointed after a term has begun serves for the rest of the term and until a successor is appointed and qualifies.
+(iv) A Director who is appointed after a term has begun serves for
+the rest of the term and until a successor is appointed and qualifies.
 
 (v) A Director may serve more than one term.
 
-(3) The Governor may remove the Director for incompetence or misconduct in accordance with § 3–307 of the State Government Article.
+(3) The Governor may remove the Director for incompetence or
+misconduct in accordance with § 3–307 of the State Government Article.
 
 (4) The Director is entitled to a salary as provided in the State budget.
 
 7–1304.
 
-(c) (1) On or before November 1 each year, the Senate Committee on Education, Energy, and the Environment and the House [Economic Matters] ENVIRONMENT AND TRANSPORTATION Committee may jointly request the Office to assess up to five policy scenarios.
+(c) (1) On or before November 1 each year, the Senate Committee on
+Education, Energy, and the Environment and the House ENVIRONMENT AND
+TRANSPORTATION Committee may jointly request the Office to
+assess up to five policy scenarios.
 
-(2) Not later than 1 year after the date the Office receives a request under paragraph (1) of this subsection, the Office shall submit a report of the results of the requested policy scenarios to the Senate Committee on Education, Energy, and the Environment and the House [Economic Matters] ENVIRONMENT AND TRANSPORTATION Committee in accordance with § 2–1257 of the State Government Article.
+(2) Not later than 1 year after the date the Office receives a request
+under paragraph (1) of this subsection, the Office shall submit a report of the results of
+the requested policy scenarios to the Senate Committee on Education, Energy, and the
+Environment and the House ENVIRONMENT AND
+TRANSPORTATION Committee in accordance with § 2–1257 of the State Government
+Article.
 
 Article – Real Property
 
 14–134.
 
-(A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS INDICATED.
+(A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE
+MEANINGS INDICATED.
 
 (2) “DATA CENTER” MEANS A BUILDING OR GROUP OF BUILDINGS:
 
-(I) USED TO HOUSE COMPUTER SYSTEMS, COMPUTER STORAGE EQUIPMENT, AND ASSOCIATED INFRASTRUCTURE THAT BUSINESSES OR OTHER ORGANIZATIONS USE TO ORGANIZE, PROCESS, STORE, AND DISSEMINATE LARGE AMOUNTS OF DATA;
+(I) USED TO HOUSE COMPUTER SYSTEMS, COMPUTER
+STORAGE EQUIPMENT, AND ASSOCIATED INFRASTRUCTURE THAT BUSINESSES
+OR OTHER ORGANIZATIONS USE TO ORGANIZE, PROCESS, STORE, AND
+DISSEMINATE LARGE AMOUNTS OF DATA;
 
-(II) THAT HAS OR IS PROJECTED TO HAVE AN AGGREGATE DEMAND OF AT LEAST 5 MEGAWATTS; AND
+(II) THAT HAS OR IS PROJECTED TO HAVE AN AGGREGATE
+DEMAND OF AT LEAST 5 MEGAWATTS; AND
 
-(III) THAT HAS OR IS PROJECTED TO HAVE A LOAD FACTOR OF MORE THAN 80%.
+(III) THAT HAS OR IS PROJECTED TO HAVE A LOAD FACTOR OF
+MORE THAN 80%.
 
-(3) “DEVELOPMENT DISTRICT” MEANS AN AREA OR AREAS WITHIN THE CITY OF BALTIMORE DESIGNATED BY AN ORDINANCE OF THE MAYOR AND CITY COUNCIL OF BALTIMORE.
+(3) “DEVELOPMENT DISTRICT” MEANS AN AREA OR AREAS WITHIN
+THE CITY OF BALTIMORE DESIGNATED BY AN ORDINANCE OF THE MAYOR AND
+CITY COUNCIL OF BALTIMORE.
 
-(4) “TAX INCREMENT” MEANS FOR ANY TAX YEAR THE AMOUNT BY WHICH THE ASSESSABLE BASE AS OF JANUARY 1 PRECEDING THAT TAX YEAR EXCEEDS THE ORIGINAL TAXABLE VALUE, DIVIDED BY THE ASSESSMENT RATIO USED TO DETERMINE THE ORIGINAL TAXABLE VALUE.
+(4) “TAX INCREMENT” MEANS FOR ANY TAX YEAR THE AMOUNT BY
+WHICH THE ASSESSABLE BASE AS OF JANUARY 1 PRECEDING THAT TAX YEAR
+EXCEEDS THE ORIGINAL TAXABLE VALUE, DIVIDED BY THE ASSESSMENT RATIO
+USED TO DETERMINE THE ORIGINAL TAXABLE VALUE.
 
 (B) THIS SECTION APPLIES ONLY IN BALTIMORE CITY.
 
-(C) (1) EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS SUBSECTION, A PERSON MAY NOT CONSTRUCT A DATA CENTER IN A DEVELOPMENT DISTRICT THAT IS SUBJECT TO TAX INCREMENT REPAYMENT ON OUTSTANDING BONDS.
+(C) (1) EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS
+SUBSECTION, A PERSON MAY NOT CONSTRUCT A DATA CENTER IN A
+DEVELOPMENT DISTRICT THAT IS SUBJECT TO TAX INCREMENT REPAYMENT ON
+OUTSTANDING BONDS.
 
-(2) THE PROHIBITION IN PARAGRAPH (1) OF THIS SUBSECTION DOES NOT APPLY TO THE CONSTRUCTION OF A DATA CENTER IN THE CITY–WIDE AFFORDABLE HOUSING DEVELOPMENT DISTRICT ESTABLISHED UNDER BALTIMORE CITY ORDINANCE NO. 24–443, ENACTED DECEMBER 4, 2024.
+(2) THE PROHIBITION IN PARAGRAPH (1) OF THIS SUBSECTION
+DOES NOT APPLY TO THE CONSTRUCTION OF A DATA CENTER IN THE CITY–WIDE
+AFFORDABLE HOUSING DEVELOPMENT DISTRICT ESTABLISHED UNDER
+BALTIMORE CITY ORDINANCE NO. 24–443, ENACTED DECEMBER 4, 2024.
 
 Article – State Finance and Procurement
 
@@ -2740,35 +4496,53 @@ Article – State Finance and Procurement
 
 4–323.
 
-THE DEPARTMENT MAY ISSUE A REQUEST FOR PROPOSALS FOR A LONG–TERM LEASE FOR NEW OR EXPANDED GENERATING STATIONS OR ENERGY STORAGE DEVICES ON ANY STATE–OWNED SITE IDENTIFIED IN THE STUDY UNDER SECTION 15 OF CHAPTER ____ (H.B. 1532) OF THE ACTS OF THE GENERAL ASSEMBLY OF 2026 IF, ACCORDING TO THE STUDY, THE SITE IS NOT SUBJECT TO SIGNIFICANT PERMITTING BOTTLENECKS OR BARRIERS.
+THE DEPARTMENT MAY ISSUE A REQUEST FOR PROPOSALS FOR A LONG–
+TERM LEASE FOR NEW OR EXPANDED GENERATING STATIONS OR ENERGY
+STORAGE DEVICES ON ANY STATE–OWNED SITE IDENTIFIED IN THE STUDY
+UNDER SECTION 15 OF CHAPTER ____ (H.B. 1532) OF THE ACTS OF THE
+GENERAL ASSEMBLY OF 2026 IF, ACCORDING TO THE STUDY, THE SITE IS NOT
+SUBJECT TO SIGNIFICANT PERMITTING BOTTLENECKS OR BARRIERS.
 
 6–226.
 
-(a) (2) (i) This paragraph does not apply in fiscal years 2024 through 2028.
+(a) (2) (i) This paragraph does not apply in fiscal years 2024 through
+2028.
 
-(ii) Notwithstanding any other provision of law, and unless inconsistent with a federal law, grant agreement, or other federal requirement or with the terms of a gift or settlement agreement, net interest on all State money allocated by the State Treasurer under this section to special funds or accounts, and otherwise entitled to receive interest earnings, as accounted for by the Comptroller, shall accrue to the General Fund of the State.
+(ii) Notwithstanding any other provision of law, and unless
+inconsistent with a federal law, grant agreement, or other federal requirement or with
+the terms of a gift or settlement agreement, net interest on all State money allocated by
+the State Treasurer under this section to special funds or accounts, and otherwise
+entitled to receive interest earnings, as accounted for by the Comptroller, shall accrue
+to the General Fund of the State.
 
-(iii) The provisions of subparagraph (ii) of this paragraph do not apply to the following funds:
+(iii) The provisions of subparagraph (ii) of this paragraph do not
+apply to the following funds:
 
-212. the Department of Social and Economic Mobility Special Fund; [and]
+212. the Department of Social and Economic Mobility
+Special Fund; [and]
 
 213. the Population Health Improvement Fund; AND
 
-214. THE GREEN AND RENEWABLE ENERGY EFFICIENCY FOR NONPROFITS LOAN FUND.
+214. THE GREEN AND RENEWABLE ENERGY
+EFFICIENCY FOR NONPROFITS LOAN FUND.
 
 13–217.
 
-(a) In this section, “multi–year contract” means a procurement contract that requires appropriations for more than 1 fiscal year.
+(a) In this section, “multi–year contract” means a procurement contract that
+requires appropriations for more than 1 fiscal year.
 
 (b) (1) A unit may enter into a multi–year contract subject to:
 
 (i) standards established by the Board; and
 
-(ii) regulations adopted by the primary procurement unit that is responsible for the type of procurement involved.
+(ii) regulations adopted by the primary procurement unit that is
+responsible for the type of procurement involved.
 
-(2) A multi–year contract shall be subject to review and approval by that primary procurement unit.
+(2) A multi–year contract shall be subject to review and approval by
+that primary procurement unit.
 
-(c) A multi–year contract may not be approved unless each unit reviewing the multi–year contract determines that:
+(c) A multi–year contract may not be approved unless each unit reviewing the
+multi–year contract determines that:
 
 (1) the estimated requirements of the State:
 
@@ -2778,47 +4552,76 @@ THE DEPARTMENT MAY ISSUE A REQUEST FOR PROPOSALS FOR A LONG–TERM LEASE FOR NEW
 
 (iii) are continuing; and
 
-(2) the multi–year contract will serve the best interests of the State by encouraging effective competition or otherwise promoting economy in State procurement.
+(2) the multi–year contract will serve the best interests of the State by
+encouraging effective competition or otherwise promoting economy in State
+procurement.
 
-(d) (1) If money sufficient for the continued performance of a multi–year contract is not appropriated for any fiscal year, the multi–year contract terminates automatically on the earlier of:
+(d) (1) If money sufficient for the continued performance of a multi–year
+contract is not appropriated for any fiscal year, the multi–year contract terminates
+automatically on the earlier of:
 
-(i) the last day of the fiscal year for which money last was appropriated; or
+(i) the last day of the fiscal year for which money last was
+appropriated; or
 
-(ii) the date provided in the termination clause of the procurement contract.
+(ii) the date provided in the termination clause of the
+procurement contract.
 
-(2) If the multi–year contract is terminated under this subsection, the unit shall reimburse the contractor for the reasonable value of any nonrecurring costs that were:
+(2) If the multi–year contract is terminated under this subsection, the
+unit shall reimburse the contractor for the reasonable value of any nonrecurring costs
+that were:
 
 (i) incurred as a result of the multi–year contract; but
 
-(ii) not amortized in the price of the supplies or services delivered under the multi–year contract.
+(ii) not amortized in the price of the supplies or services delivered
+under the multi–year contract.
 
-(3) The cost of termination under this subsection may be paid from any appropriation available for that purpose.
+(3) The cost of termination under this subsection may be paid from any
+appropriation available for that purpose.
 
-(e) Except as provided in subsection (f) of this section, each multi–year contract, including a lease of real property, shall include an automatic termination clause that:
+(e) Except as provided in subsection (f) of this section, each multi–year
+contract, including a lease of real property, shall include an automatic termination
+clause that:
 
-(1) is not inconsistent with the requirements of subsection (d) of this section; and
+(1) is not inconsistent with the requirements of subsection (d) of this
+section; and
 
-(2) discharges both parties to the multi–year contract from future performance of that contract, but not from their existing obligations.
+(2) discharges both parties to the multi–year contract from future
+performance of that contract, but not from their existing obligations.
 
-(f) (1) On the recommendation of the Secretary of General Services, FOR A MULTI–YEAR CONTRACT TO PROCURE ENERGY GENERATED FROM A TIER 1 RENEWABLE SOURCE OR A TIER 2 RENEWABLE SOURCE, AS DEFINED IN § 7–701 OF THE PUBLIC UTILITIES ARTICLE, the Board may waive the requirement to include:
+(f) (1) On the recommendation of the Secretary of General Services, FOR A
+MULTI–YEAR CONTRACT TO PROCURE ENERGY GENERATED FROM A TIER 1
+RENEWABLE SOURCE OR A TIER 2 RENEWABLE SOURCE, AS DEFINED IN § 7–701
+OF THE PUBLIC UTILITIES ARTICLE, the Board may waive the requirement to
+include:
 
-(I) an automatic termination clause under subsection (e) of this section [for a multi–year contract to procure energy generated from a Tier 1 renewable source or a Tier 2 renewable source, as defined in § 7–701 of the Public Utilities Article]; OR
+(I) an automatic termination clause under subsection (e) of this
+section; OR
 
-(II) A TERMINATION FOR CONVENIENCE CLAUSE REQUIRED UNDER § 13–218(A)(2) OF THIS SUBTITLE.
+(II) A TERMINATION FOR CONVENIENCE CLAUSE REQUIRED
+UNDER § 13–218(A)(2) OF THIS SUBTITLE.
 
-(2) In determining whether [or not] to grant a waiver under paragraph (1) of this subsection, the Board shall consider the effect of imposing THE FOLLOWING CLAUSE REQUIREMENTS ON THE ABILITY OF THE ENERGY SUPPLIER TO OBTAIN FINANCING FOR THE RENEWABLE ENERGY GENERATION PROJECT THAT PRODUCES THE ENERGY THAT THE STATE IS CONTRACTING TO PROCURE:
+(2) In determining whether to grant a waiver under paragraph
+(1) of this subsection, the Board shall consider the effect of imposing THE FOLLOWING
+CLAUSE REQUIREMENTS ON THE ABILITY OF THE ENERGY SUPPLIER TO OBTAIN
+FINANCING FOR THE RENEWABLE ENERGY GENERATION PROJECT THAT
+PRODUCES THE ENERGY THAT THE STATE IS CONTRACTING TO PROCURE:
 
-(I) the termination clause requirement under subsection (e) of this section [on the ability of the energy supplier to obtain financing for the renewable energy generation project that produces the energy that the State is contracting to procure]; AND
+(I) the termination clause requirement under subsection (e) of
+this section; AND
 
-(II) THE TERMINATION FOR CONVENIENCE CLAUSE REQUIRED UNDER § 13–218(A)(2) OF THIS SUBTITLE.
+(II) THE TERMINATION FOR CONVENIENCE CLAUSE
+REQUIRED UNDER § 13–218(A)(2) OF THIS SUBTITLE.
 
 13–218.
 
 (a) Each procurement contract shall include clauses covering:
 
-(2) termination wholly or partly by the State for its convenience if the head of the primary procurement unit determines that termination is appropriate;
+(2) termination wholly or partly by the State for its convenience if the
+head of the primary procurement unit determines that termination is appropriate;
 
-(F) IN ACCORDANCE WITH § 13-217(F) OF THIS SUBTITLE, THE BOARD MAY WAIVE THE INCLUSION OF A TERMINATION FOR CONVENIENCE CLAUSE REQUIRED UNDER SUBSECTION (A)(2) OF THIS SECTION.
+(F) IN ACCORDANCE WITH § 13-217(F) OF THIS SUBTITLE, THE BOARD
+MAY WAIVE THE INCLUSION OF A TERMINATION FOR CONVENIENCE CLAUSE
+REQUIRED UNDER SUBSECTION (A)(2) OF THIS SECTION.
 
 Article – State Government
 
@@ -2826,9 +4629,13 @@ Article – State Government
 
 (b) There is an Energy Storage System Grant Program in the Administration.
 
-(c) The purpose of the Program is to provide grants to individuals and business entities for a portion of the costs of purchasing and installing energy storage systems.
+(c) The purpose of the Program is to provide grants to individuals and
+business entities for a portion of the costs of purchasing and installing energy storage
+systems.
 
-(J) THE ADMINISTRATION MAY REQUIRE THAT APPLICANTS PARTICIPATE IN THE PROGRAMS OR TARIFFS ESTABLISHED UNDER § 7–1005 OF THE PUBLIC UTILITIES ARTICLE.
+(J) THE ADMINISTRATION MAY REQUIRE THAT APPLICANTS
+PARTICIPATE IN THE PROGRAMS OR TARIFFS ESTABLISHED UNDER § 7–1005 OF
+THE PUBLIC UTILITIES ARTICLE.
 
 [(j)] (K) The Administration may adopt regulations to carry out this section.
 
@@ -2840,317 +4647,559 @@ Article – State Government
 
 9–20B–05.
 
-(A) IN THIS SECTION, “DISTRICT ENERGY” MEANS THERMAL ENERGY GENERATED AT ONE OR MORE CENTRAL FACILITIES THAT PRODUCE HOT WATER, STEAM, OR CHILLED WATER THAT THEN FLOWS THROUGH A NETWORK OF INSULATED UNDERGROUND PIPES TO PROVIDE HOT WATER, SPACE HEATING, AIR CONDITIONING, OR CHILLED WATER TO NEARBY BUILDINGS.
+(A) IN THIS SECTION, “DISTRICT ENERGY” MEANS THERMAL ENERGY
+GENERATED AT ONE OR MORE CENTRAL FACILITIES THAT PRODUCE HOT WATER,
+STEAM, OR CHILLED WATER THAT THEN FLOWS THROUGH A NETWORK OF
+INSULATED UNDERGROUND PIPES TO PROVIDE HOT WATER, SPACE HEATING, AIR
+CONDITIONING, OR CHILLED WATER TO NEARBY BUILDINGS.
 
 [(a)] (A–1) There is a Maryland Strategic Energy Investment Fund.
 
-(b) The purpose of the Fund is to implement the Strategic Energy Investment Program.
+(b) The purpose of the Fund is to implement the Strategic Energy Investment
+Program.
 
 (c) The Administration shall administer the Fund.
 
 (e) The Fund consists of:
 
-(1) all of the proceeds from the sale of allowances under § 2–1002(g) of the Environment Article;
+(1) all of the proceeds from the sale of allowances under § 2–1002(g) of
+the Environment Article;
 
 (2) money appropriated in the State budget to the Program;
 
-(3) repayments and prepayments of principal and interest on loans made from the Fund;
+(3) repayments and prepayments of principal and interest on loans
+made from the Fund;
 
 (4) compliance fees paid under § 7–705 of the Public Utilities Article;
 
-(5) money received from any public or private source for the benefit of the Fund;
+(5) money received from any public or private source for the benefit of
+the Fund;
 
-(6) money transferred from the Public Service Commission under § 7–207.2(d)(3) of the Public Utilities Article; [and]
+(6) money transferred from the Public Service Commission under §
+7–207.2(d)(3) of the Public Utilities Article; [and]
 
 (7) money distributed under § 2–614.1 of the Tax – General Article; AND
 
-(8) MONEY RECEIVED FROM COMMUNITY SOLAR ENERGY GENERATING SYSTEMS UNDER § 7–306.2 OF THE PUBLIC UTILITIES ARTICLE.
+(8) MONEY RECEIVED FROM COMMUNITY SOLAR ENERGY
+GENERATING SYSTEMS UNDER § 7–306.2 OF THE PUBLIC UTILITIES ARTICLE.
 
 (f) The Administration shall use the Fund:
 
 (1) to invest in the promotion, development, and implementation of:
 
-(i) cost–effective energy efficiency and conservation programs, projects, or activities, including measurement and verification of energy savings;
+(i) cost–effective energy efficiency and conservation programs,
+projects, or activities, including measurement and verification of energy savings;
 
 (ii) renewable and clean energy resources;
 
-(iii) climate change programs directly related to reducing or mitigating the effects of climate change; and
+(iii) climate change programs directly related to reducing or
+mitigating the effects of climate change; and
 
-(iv) demand response programs that are designed to promote changes in electric usage by customers in response to:
+(iv) demand response programs that are designed to promote
+changes in electric usage by customers in response to:
 
 1. changes in the price of electricity over time; or
 
-2. incentives designed to induce lower electricity use at times of high wholesale market prices or when system reliability is jeopardized;
+2. incentives designed to induce lower electricity use at
+times of high wholesale market prices or when system reliability is jeopardized;
 
-(2) to provide targeted programs, projects, activities, and investments to reduce electricity consumption by customers in the low–income and moderate–income residential sectors;
+(2) to provide targeted programs, projects, activities, and investments
+to reduce electricity consumption by customers in the low–income and moderate–income
+residential sectors;
 
-(3) to provide supplemental funds for low–income energy assistance through [the Electric Universal Service Program established under § 7–512.1 of the Public Utilities Article and other] electric AND FUEL assistance programs in the Department of Human Services;
+(3) to provide supplemental funds for low–income energy assistance
+through electric AND FUEL assistance programs in the
+Department of Human Services;
 
 (4) to provide rate relief by offsetting electricity rates of:
 
-(I) residential customers, including an offset of surcharges imposed on ratepayers under Title 7, Subtitle 2, Part II of the Public Utilities Article; AND
+(I) residential customers, including an offset of surcharges
+imposed on ratepayers under Title 7, Subtitle 2, Part II of the Public Utilities Article;
+AND
 
-(II) RESIDENTS OF APARTMENT HOUSES, AS DEFINED IN § 7– 303 OF THE PUBLIC UTILITIES ARTICLE, FOR WHICH ELECTRICITY SERVICE IS PROVIDED THROUGH:
+(II) RESIDENTS OF APARTMENT HOUSES, AS DEFINED IN § 7–
+303 OF THE PUBLIC UTILITIES ARTICLE, FOR WHICH ELECTRICITY SERVICE IS
+PROVIDED THROUGH:
 
-1. SUBMETERING AUTHORIZED UNDER § 7–303 OF THE PUBLIC UTILITIES ARTICLE; OR
+1. SUBMETERING AUTHORIZED UNDER § 7–303 OF
+THE PUBLIC UTILITIES ARTICLE; OR
 
-2. AN ENERGY ALLOCATION SYSTEM AS DEFINED IN § 7–304 OF THE PUBLIC UTILITIES ARTICLE;
+2. AN ENERGY ALLOCATION SYSTEM AS DEFINED IN §
+7–304 OF THE PUBLIC UTILITIES ARTICLE;
 
-(5) to provide grants, loans, and other assistance and investment as necessary and appropriate to implement the purposes of the Program as set forth in § 9–20B–03 of this subtitle;
+(5) to provide grants, loans, and other assistance and investment as
+necessary and appropriate to implement the purposes of the Program as set forth in §
+9–20B–03 of this subtitle;
 
-(6) to implement energy–related public education and outreach initiatives regarding reducing energy consumption and greenhouse gas emissions;
+(6) to implement energy–related public education and outreach
+initiatives regarding reducing energy consumption and greenhouse gas emissions;
 
-(7) to provide rebates under the Electric Vehicle Recharging Equipment Rebate Program established under § 9–2009 of this title;
+(7) to provide rebates under the Electric Vehicle Recharging Equipment
+Rebate Program established under § 9–2009 of this title;
 
-(8) to provide grants to encourage combined heat and power projects at office buildings and industrial facilities;
+(8) to provide grants to encourage combined heat and power projects at
+industrial facilities;
 
-(9) to provide at least $1,200,000 in each fiscal year for fiscal year 2025 through fiscal year 2028 to the Climate Technology Founder’s Fund established under § 10–858 of the Economic Development Article;
+(9) to provide at least $1,200,000 in each fiscal year for fiscal year 2025
+through fiscal year 2028 to the Climate Technology Founder’s Fund established under
+§ 10–858 of the Economic Development Article;
 
-(10) subject to subsection (f–2) of this section, to provide at least $2,100,000 in funding each fiscal year to the Maryland Energy Innovation Fund established under § 10–835 of the Economic Development Article;
+(10) subject to subsection (f–2) of this section, to provide at least
+$2,100,000 in funding each fiscal year to the Maryland Energy Innovation Fund
+established under § 10–835 of the Economic Development Article;
 
-(11) to provide at least $500,000 each year to the Resiliency Hub Grant Program Fund under § 9–2011 of this title;
+(11) to provide at least $500,000 each year to the Resiliency Hub Grant
+Program Fund under § 9–2011 of this title;
 
-(12) to provide grants through the Customer–Sited Solar Program under § 9–2016 of this title;
+(12) to provide grants through the Customer–Sited Solar Program under
+§ 9–2016 of this title;
 
-(13) notwithstanding subsection (g) of this section, to pay costs associated with the Air and Radiation Administration within the Department of the Environment; [and]
+(13) notwithstanding subsection (g) of this section, to pay costs
+associated with the Air and Radiation Administration within the Department of the
+Environment; [and]
 
-(14) TO PROVIDE FUNDS TO THE GREEN AND RENEWABLE ENERGY EFFICIENCY FOR NONPROFITS LOAN FUND ESTABLISHED UNDER § 10–868 OF THE ECONOMIC DEVELOPMENT ARTICLE;
+(14) TO PROVIDE FUNDS TO THE GREEN AND RENEWABLE ENERGY
+EFFICIENCY FOR NONPROFITS LOAN FUND ESTABLISHED UNDER § 10–868 OF
+THE ECONOMIC DEVELOPMENT ARTICLE;
 
 (15) TO PROVIDE LOANS AND GRANTS FOR:
 
-(I) BUILDING ELECTRIFICATION, INCLUDING CONNECTION TO AN ELECTRIFIED DISTRICT ENERGY SYSTEM;
+(I) BUILDING ELECTRIFICATION, INCLUDING CONNECTION
+TO AN ELECTRIFIED DISTRICT ENERGY SYSTEM;
 
-(II) ELECTRIFIED THERMAL ENERGY GENERATION ASSETS INTERCONNECTED WITH A DISTRICT ENERGY SYSTEM; AND
+(II) ELECTRIFIED THERMAL ENERGY GENERATION ASSETS
+INTERCONNECTED WITH A DISTRICT ENERGY SYSTEM; AND
 
 (III) TRANSPORTATION ELECTRIFICATION;
 
-(16) TO PROVIDE LOANS AND GRANTS FOR PROGRAMS, PROJECTS, AND TECHNOLOGIES THAT ASSIST COVERED BUILDINGS, AS DEFINED IN § 2–1601 OF THE ENVIRONMENT ARTICLE, IN MEETING THE BUILDING ENERGY PERFORMANCE STANDARDS ESTABLISHED UNDER § 2–1602 OF THE ENVIRONMENT ARTICLE;
+(16) TO PROVIDE LOANS AND GRANTS FOR PROGRAMS, PROJECTS,
+AND TECHNOLOGIES THAT ASSIST COVERED BUILDINGS, AS DEFINED IN § 2–1601
+OF THE ENVIRONMENT ARTICLE, IN MEETING THE BUILDING ENERGY
+PERFORMANCE STANDARDS ESTABLISHED UNDER § 2–1602 OF THE
+ENVIRONMENT ARTICLE;
 
-(17) TO DISTRIBUTE MONEY RECEIVED FROM COMMUNITY SOLAR ENERGY GENERATING SYSTEMS UNDER § 7–306.2 OF THE PUBLIC UTILITIES ARTICLE FOR:
+(17) TO DISTRIBUTE MONEY RECEIVED FROM COMMUNITY SOLAR
+ENERGY GENERATING SYSTEMS UNDER § 7–306.2 OF THE PUBLIC UTILITIES
+ARTICLE FOR:
 
-(I) ENHANCING ENERGY ASSISTANCE PROGRAMS ADMINISTERED BY THE OFFICE OF HOME ENERGY PROGRAMS IN THE DEPARTMENT OF HUMAN SERVICES; OR
+(I) ENHANCING ENERGY ASSISTANCE PROGRAMS
+ADMINISTERED BY THE OFFICE OF HOME ENERGY PROGRAMS IN THE
+DEPARTMENT OF HUMAN SERVICES; OR
 
-(II) OTHER DIRECT ENERGY ASSISTANCE PROGRAMS DESIGNATED FOR LOW–INCOME HOUSEHOLDS;
+(II) OTHER DIRECT ENERGY ASSISTANCE PROGRAMS
+DESIGNATED FOR LOW–INCOME HOUSEHOLDS;
 
-(18) TO PROVIDE GRANTS FOR RENEWABLE ENERGY GENERATION AND ENERGY STORAGE PROJECTS UNDER § 9–20E–02 OF THIS TITLE;
+(18) TO PROVIDE GRANTS FOR RENEWABLE ENERGY GENERATION
+AND ENERGY STORAGE PROJECTS UNDER § 9–20E–02 OF THIS TITLE;
 
-(19) IN FISCAL YEAR 2027, TO PROVIDE GRANTS TO ELECTRIC COMPANIES, INCLUDING ELECTRIC COOPERATIVES AND MUNICIPAL ELECTRIC UTILITIES, TO PAY DOWN THE COSTS INCURRED BY THE ELECTRIC COMPANIES FOR IMPLEMENTING AND ADMINISTERING PROGRAMS AND SERVICES UNDER TITLE 7, SUBTITLE 2, PART II OF THE PUBLIC UTILITIES ARTICLE;
+(19) IN FISCAL YEAR 2027, TO PROVIDE GRANTS TO ELECTRIC
+COMPANIES, INCLUDING ELECTRIC COOPERATIVES AND MUNICIPAL ELECTRIC
+UTILITIES, TO PAY DOWN THE COSTS INCURRED BY THE ELECTRIC COMPANIES
+FOR IMPLEMENTING AND ADMINISTERING PROGRAMS AND SERVICES UNDER
+TITLE 7, SUBTITLE 2, PART II OF THE PUBLIC UTILITIES ARTICLE;
 
-(20) IN FISCAL YEAR 2027, TO OFFSET RESIDENTIAL ELECTRIC CUSTOMER COSTS ASSOCIATED WITH THE LIMITED–INCOME RATE MECHANISM REQUIRED UNDER § 4–309 OF THE PUBLIC UTILITIES ARTICLE;
+(20) IN FISCAL YEAR 2027, TO OFFSET RESIDENTIAL ELECTRIC
+CUSTOMER COSTS ASSOCIATED WITH THE LIMITED–INCOME RATE MECHANISM
+REQUIRED UNDER § 4–309 OF THE PUBLIC UTILITIES ARTICLE;
 
-(21) IN FISCAL YEAR 2027, TO PROVIDE FUNDING FOR A COMPREHENSIVE STUDY OF PUBLIC SCHOOL HVAC SYSTEMS IN BALTIMORE CITY;
+(21) IN FISCAL YEAR 2027, TO PROVIDE FUNDING FOR A
+COMPREHENSIVE STUDY OF PUBLIC SCHOOL HVAC SYSTEMS IN BALTIMORE
+CITY;
 
-(22) IN FISCAL YEAR 2027, TO PROVIDE FUNDING FOR UPGRADES TO PUBLIC SCHOOL HVAC SYSTEMS IN BALTIMORE CITY;
+(22) IN FISCAL YEAR 2027, TO PROVIDE FUNDING FOR UPGRADES
+TO PUBLIC SCHOOL HVAC SYSTEMS IN BALTIMORE CITY;
 
-(23) IN FISCAL YEAR 2027, TO PROVIDE ADDITIONAL FUNDING FOR THE ADMINISTRATION’S RESIDENTIAL AND COMMERCIAL ENERGY STORAGE GRANT PROGRAM;
+(23) IN FISCAL YEAR 2027, TO PROVIDE ADDITIONAL FUNDING FOR
+THE ADMINISTRATION’S RESIDENTIAL AND COMMERCIAL ENERGY STORAGE
+GRANT PROGRAM;
 
-(24) IN FISCAL YEAR 2027, TO PROVIDE ADDITIONAL FUNDING FOR THE REVIEW OF RENEWABLE AND CLEAN ENERGY PROJECTS THROUGH THE DEPARTMENT OF NATURAL RESOURCES’ POWER PLANT RESEARCH PROGRAM;
+(24) IN FISCAL YEAR 2027, TO PROVIDE ADDITIONAL FUNDING FOR
+THE REVIEW OF RENEWABLE AND CLEAN ENERGY PROJECTS THROUGH THE
+DEPARTMENT OF NATURAL RESOURCES’ POWER PLANT RESEARCH PROGRAM;
 
-(25) IN FISCAL YEAR 2027, TO PROVIDE ADDITIONAL FUNDING FOR HEAT PUMP INSTALLATIONS AND REPLACEMENTS FOR LOW– AND MODERATE– INCOME HOUSEHOLDS THROUGH THE ADMINISTRATION’S RESIDENTIAL ENERGY EQUITY PROGRAM; AND
+(25) IN FISCAL YEAR 2027, TO PROVIDE ADDITIONAL FUNDING FOR
+HEAT PUMP INSTALLATIONS AND REPLACEMENTS FOR LOW– AND MODERATE–
+INCOME HOUSEHOLDS THROUGH THE ADMINISTRATION’S RESIDENTIAL
+ENERGY EQUITY PROGRAM; AND
 
 [(14)] (26) to pay the expenses of the Program.
 
-(g) Proceeds received by the Fund from the sale of allowances under § 2–1002(g) of the Environment Article shall be allocated as follows:
+(g) Proceeds received by the Fund from the sale of allowances under § 2–
+1002(g) of the Environment Article shall be allocated as follows:
 
-(1) at least 50% shall be credited to an energy assistance account to be used for [the Electric Universal Service Program and other] electricity AND FUEL assistance programs in the Department of Human Services;
+(1) at least 50% shall be credited to an energy assistance account to be
+used for electricity AND FUEL
+assistance programs in the Department of Human Services;
 
-(g–1) [Proceeds] EXCEPT AS PROVIDED IN SUBSECTION (I–2) OF THIS SECTION, PROCEEDS received by the Fund from compliance fees under § 7–705(b)(2)(i)2 of the Public Utilities Article shall be allocated as follows:
+(g–1) EXCEPT AS PROVIDED IN SUBSECTION (I–2) OF THIS SECTION, PROCEEDS received by the Fund from compliance fees under § 7–
+705(b)(2)(i)2 of the Public Utilities Article shall be allocated as follows:
 
-(1) beginning in fiscal year 2025, at least 20% of the proceeds shall be used to provide grants to support the installation of new solar energy generating systems under the Customer–Sited Solar Program;
+(1) beginning in fiscal year 2025, at least 20% of the proceeds shall be
+used to provide grants to support the installation of new solar energy generating
+systems under the Customer–Sited Solar Program;
 
-(2) up to 10% of the proceeds shall be credited to an administrative expense account for costs related to the administration of the Fund;
+(2) up to 10% of the proceeds shall be credited to an administrative
+expense account for costs related to the administration of the Fund;
 
-(3) proceeds collected but unused from a previous year shall be used before proceeds allocated for the current year; and
+(3) proceeds collected but unused from a previous year shall be used
+before proceeds allocated for the current year; and
 
-(4) the Administration shall reallocate to other authorized uses any proceeds that are not used within 3 fiscal years after collection.
+(4) the Administration shall reallocate to other authorized uses any
+proceeds that are not used within 3 fiscal years after collection.
 
-(i) (1) Except as provided in paragraphs (2), (3), and (4) of this subsection AND SUBSECTION (I–2) OF THIS SECTION, compliance fees paid under § 7–705(b) of the Public Utilities Article may be used only to make loans and grants to support the creation of new Tier 1 renewable energy sources in the State that are owned by or directly benefit:
+(i) (1) Except as provided in paragraphs (2), (3), and (4) of this subsection
+AND SUBSECTION (I–2) OF THIS SECTION, compliance fees paid under § 7–705(b) of
+the Public Utilities Article may be used only to make loans and grants to support the
+creation of new Tier 1 renewable energy sources in the State that are owned by or
+directly benefit:
 
-(i) low– to moderate–income communities located in a census tract with an average median income at or below 80% of the average median income for the State; or
+(i) low– to moderate–income communities located in a census
+tract with an average median income at or below 80% of the average median income for
+the State; or
 
-(ii) overburdened or underserved communities, as defined in § 1– 701 of the Environment Article.
+(ii) overburdened or underserved communities, as defined in § 1–
+701 of the Environment Article.
 
-(2) [Compliance] EXCEPT AS PROVIDED IN SUBSECTION (I–2) OF THIS SECTION, COMPLIANCE fees paid under § 7–705(b)(2)(i)2 of the Public Utilities Article shall be accounted for separately within the Fund and may be used only to make loans and grants to support the creation of new solar energy sources in the State that are owned by or directly benefit:
+(2) EXCEPT AS PROVIDED IN SUBSECTION (I–2) OF
+THIS SECTION, COMPLIANCE fees paid under § 7–705(b)(2)(i)2 of the Public Utilities
+Article shall be accounted for separately within the Fund and may be used only to make
+loans and grants to support the creation of new solar energy sources in the State that
+are owned by or directly benefit:
 
-(i) low– to moderate–income communities located in a census tract with an average median income at or below 80% of the average median income for the State;
+(i) low– to moderate–income communities located in a census
+tract with an average median income at or below 80% of the average median income for
+the State;
 
-(ii) overburdened or underserved communities, as defined in § 1– 701 of the Environment Article; or
+(ii) overburdened or underserved communities, as defined in § 1–
+701 of the Environment Article; or
 
-(iii) households with low to moderate income, as defined in § 9– 2016 of this title.
+(iii) households with low to moderate income, as defined in § 9–
+2016 of this title.
 
-(3) For fiscal year 2026 only, up to $100,000,000 of compliance fees paid under §§ 7–705(b) and 7–705(b)(2)(i)2 of the Public Utilities Article shall be accounted for separately within the Fund and may be used for solar development on State government property and local government clean energy projects.
+(3) For fiscal year 2026 only, up to $100,000,000 of compliance fees paid
+under §§ 7–705(b) and 7–705(b)(2)(i)2 of the Public Utilities Article shall be accounted
+for separately within the Fund and may be used for solar development on State
+government property and local government clean energy projects.
 
-(4) (i) Subject to subparagraphs (ii), (iii), and (iv) of this paragraph, compliance fees paid under § 7–705 of the Public Utilities Article may be used to provide grants to electric companies to be refunded or credited to each residential distribution customer based on the customer’s consumption of electricity supply that is subject to the renewable energy portfolio standard.
+(4) (i) Subject to subparagraphs (ii), (iii), and (iv) of this paragraph,
+compliance fees paid under § 7–705 of the Public Utilities Article may be used to provide
+grants to electric companies to be refunded or credited to each residential distribution
+customer based on the customer’s consumption of electricity supply that is subject to the
+renewable energy portfolio standard.
 
-(ii) The refunding or crediting of amounts to residential distribution customers shall be identified on the customer’s bill as a line item identified as a “legislative energy relief refund”.
+(ii) The refunding or crediting of amounts to residential
+distribution customers shall be identified on the customer’s bill as a line item identified
+as a “legislative energy relief refund”.
 
 (iii) An electric company awarded a grant under this paragraph:
 
-1. may not retain any of the grant funds to cover overhead expenses; and
+1. may not retain any of the grant funds to cover overhead
+expenses; and
 
-2. shall provide all of the grant funds to residential distribution customers.
+2. shall provide all of the grant funds to residential
+distribution customers.
 
-(iv) The process under subparagraphs (i) and (ii) of this paragraph related to the refunding or crediting of amounts to residential distribution customers shall be directed and overseen by the Commission.
+(iv) The process under subparagraphs (i) and (ii) of this
+paragraph related to the refunding or crediting of amounts to residential distribution
+customers shall be directed and overseen by the Commission.
 
-(i–1) (1) (i) In this subsection the following words have the meanings indicated.
+(i–1) (1) (i) In this subsection the following words have the meanings
+indicated.
 
-(ii) “Area median income” has the meaning stated in § 4–1801 of the Housing and Community Development Article.
+(ii) “Area median income” has the meaning stated in § 4–1801 of
+the Housing and Community Development Article.
 
-(iii) “Low and moderate income” means having an annual household income that is at or below 120% of the area median income.
+(iii) “Low and moderate income” means having an annual
+household income that is at or below 120% of the area median income.
 
-(2) [Compliance] EXCEPT AS PROVIDED IN SUBSECTION (I–2) OF THIS SECTION, COMPLIANCE fees paid under § 7–705(b–1) of the Public Utilities Article shall be accounted for separately within the Fund and may be used only to make loans and grants to promote increased opportunities for the growth and development of small, minority, women–owned, and veteran–owned businesses in the State that install geothermal systems in the State.
+(2) EXCEPT AS PROVIDED IN SUBSECTION (I–2) OF
+THIS SECTION, COMPLIANCE fees paid under § 7–705(b–1) of the Public Utilities
+Article shall be accounted for separately within the Fund and may be used only to make
+loans and grants to promote increased opportunities for the growth and development of
+small, minority, women–owned, and veteran–owned businesses in the State that install
+geothermal systems in the State.
 
-(I–2) FOR FISCAL YEARS 2027 AND 2028, AT LEAST $100,000,000 OF COMPLIANCE FEES PAID UNDER § 7–705 OF THE PUBLIC UTILITIES ARTICLE AND DEPOSITED INTO THE FUND IN EACH FISCAL YEAR MAY BE USED TO PROVIDE GRANTS FOR RENEWABLE ENERGY GENERATION AND ENERGY STORAGE PROJECTS UNDER § 9–20E–02 OF THIS TITLE, INCLUDING ANY ASSOCIATED ADMINISTRATIVE EXPENSES.
+(I–2) FOR FISCAL YEARS 2027 AND 2028, AT LEAST $100,000,000 OF
+COMPLIANCE FEES PAID UNDER § 7–705 OF THE PUBLIC UTILITIES ARTICLE AND
+DEPOSITED INTO THE FUND IN EACH FISCAL YEAR MAY BE USED TO PROVIDE
+GRANTS FOR RENEWABLE ENERGY GENERATION AND ENERGY STORAGE
+PROJECTS UNDER § 9–20E–02 OF THIS TITLE, INCLUDING ANY ASSOCIATED
+ADMINISTRATIVE EXPENSES.
 
 SUBTITLE 20E. ALTERNATIVE COMPLIANCE FEE AUCTIONS.
 
 9–20E–01.
 
-(A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS INDICATED.
+(A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+INDICATED.
 
-(B) “ADMINISTRATION” MEANS THE MARYLAND ENERGY ADMINISTRATION.
+(B) “ADMINISTRATION” MEANS THE MARYLAND ENERGY
+ADMINISTRATION.
 
-(C) “ALTERNATIVE COMPLIANCE FEE” MEANS A FEE PAID IN ACCORDANCE WITH § 7–705 OF THE PUBLIC UTILITIES ARTICLE TO THE MARYLAND STRATEGIC ENERGY INVESTMENT FUND ESTABLISHED UNDER § 9–20B–05 OF THIS TITLE.
+(C) “ALTERNATIVE COMPLIANCE FEE” MEANS A FEE PAID IN
+ACCORDANCE WITH § 7–705 OF THE PUBLIC UTILITIES ARTICLE TO THE
+MARYLAND STRATEGIC ENERGY INVESTMENT FUND ESTABLISHED UNDER § 9–
+20B–05 OF THIS TITLE.
 
 (D) “AUCTION” MEANS AN ALTERNATIVE COMPLIANCE FEE AUCTION.
 
-(E) “CAPACITY TARGET” MEANS A CALCULATION OF THE AMOUNT OF RENEWABLE ENERGY GENERATION NEEDED IN A GIVEN YEAR TO SATISFY THE RENEWABLE ENERGY PORTFOLIO STANDARD UNDER § 7–703 OF THE PUBLIC UTILITIES ARTICLE FOR A SPECIFIC YEAR, MINUS THE AMOUNT ALREADY PROCURED FROM OTHER SOURCES.
+(E) “CAPACITY TARGET” MEANS A CALCULATION OF THE AMOUNT OF
+RENEWABLE ENERGY GENERATION NEEDED IN A GIVEN YEAR TO SATISFY THE
+RENEWABLE ENERGY PORTFOLIO STANDARD UNDER § 7–703 OF THE PUBLIC
+UTILITIES ARTICLE FOR A SPECIFIC YEAR, MINUS THE AMOUNT ALREADY
+PROCURED FROM OTHER SOURCES.
 
 (F) “COMMISSION” MEANS THE PUBLIC SERVICE COMMISSION.
 
 (G) “RENEWABLE ENERGY” MEANS ENERGY GENERATED FROM:
 
-(1) A TIER 1 RENEWABLE SOURCE, AS DEFINED UNDER § 7–701 OF THE PUBLIC UTILITIES ARTICLE; OR
+(1) A TIER 1 RENEWABLE SOURCE, AS DEFINED UNDER § 7–701 OF
+THE PUBLIC UTILITIES ARTICLE; OR
 
 (2) AN ENERGY STORAGE DEVICE.
 
 9–20E–02.
 
-(A) FOR 2027 AND 2028, THE ADMINISTRATION SHALL CONDUCT, IN CONSULTATION WITH THE COMMISSION, AN ANNUAL, COMPETITIVE, LOW–BID ALTERNATIVE COMPLIANCE FEE AUCTION TO AWARD GRANTS TO ELIGIBLE BIDDERS TO FUND PROJECTS FOR THE DEVELOPMENT OF RENEWABLE ENERGY GENERATION AND ENERGY STORAGE IN THE STATE USING REVENUE FROM ALTERNATIVE COMPLIANCE FEES.
+(A) FOR 2027 AND 2028, THE ADMINISTRATION SHALL CONDUCT, IN
+CONSULTATION WITH THE COMMISSION, AN ANNUAL, COMPETITIVE, LOW–BID
+ALTERNATIVE COMPLIANCE FEE AUCTION TO AWARD GRANTS TO ELIGIBLE
+BIDDERS TO FUND PROJECTS FOR THE DEVELOPMENT OF RENEWABLE ENERGY
+GENERATION AND ENERGY STORAGE IN THE STATE USING REVENUE FROM
+ALTERNATIVE COMPLIANCE FEES.
 
-(B) (1) THE ADMINISTRATION, IN CONSULTATION WITH THE COMMISSION, SHALL DEVELOP AND CONDUCT THE AUCTIONS IN A MANNER THAT IS COST–EFFECTIVE AND MAINTAINS AND PROMOTES THE DEVELOPMENT OF RENEWABLE ENERGY AND ENERGY STORAGE IN THE STATE.
+(B) (1) THE ADMINISTRATION, IN CONSULTATION WITH THE
+COMMISSION, SHALL DEVELOP AND CONDUCT THE AUCTIONS IN A MANNER THAT
+IS COST–EFFECTIVE AND MAINTAINS AND PROMOTES THE DEVELOPMENT OF
+RENEWABLE ENERGY AND ENERGY STORAGE IN THE STATE.
 
-(2) THE COMPETITIVE AUCTION PROCESS MAY REQUIRE THE ADMINISTRATION TO SOLICIT A SERIES OF BIDS FROM RENEWABLE ENERGY PROJECT DEVELOPERS AND ENERGY STORAGE PROJECT DEVELOPERS FOR THE DEVELOPMENT OF RENEWABLE ENERGY GENERATION PROJECTS AND ENERGY STORAGE PROJECTS THAT ARE NEEDED TO MEET ELECTRICITY DEMAND IN A COST–EFFECTIVE MANNER.
+(2) THE COMPETITIVE AUCTION PROCESS MAY REQUIRE THE
+ADMINISTRATION TO SOLICIT A SERIES OF BIDS FROM RENEWABLE ENERGY
+PROJECT DEVELOPERS AND ENERGY STORAGE PROJECT DEVELOPERS FOR THE
+DEVELOPMENT OF RENEWABLE ENERGY GENERATION PROJECTS AND ENERGY
+STORAGE PROJECTS THAT ARE NEEDED TO MEET ELECTRICITY DEMAND IN A
+COST–EFFECTIVE MANNER.
 
-(C) (1) TO BE ELIGIBLE TO SUBMIT A BID UNDER THIS SECTION A PERSON MUST:
+(C) (1) TO BE ELIGIBLE TO SUBMIT A BID UNDER THIS SECTION A
+PERSON MUST:
 
-(I) BE A RENEWABLE ENERGY GENERATION PROJECT DEVELOPER OR AN ENERGY STORAGE PROJECT DEVELOPER; AND
+(I) BE A RENEWABLE ENERGY GENERATION PROJECT
+DEVELOPER OR AN ENERGY STORAGE PROJECT DEVELOPER; AND
 
-(II) MEET THE MINIMUM CREDIT AND OTHER ELIGIBILITY REQUIREMENTS SET UNDER PARAGRAPH (2) OF THIS SUBSECTION.
+(II) MEET THE MINIMUM CREDIT AND OTHER ELIGIBILITY
+REQUIREMENTS SET UNDER PARAGRAPH (2) OF THIS SUBSECTION.
 
-(2) THE ADMINISTRATION, IN CONSULTATION WITH THE COMMISSION, SHALL SET ELIGIBILITY REQUIREMENTS FOR BIDDERS, INCLUDING REQUIRING EACH BIDDER TO:
+(2) THE ADMINISTRATION, IN CONSULTATION WITH THE
+COMMISSION, SHALL SET ELIGIBILITY REQUIREMENTS FOR BIDDERS,
+INCLUDING REQUIRING EACH BIDDER TO:
 
 (I) PROVIDE PROOF OF FINANCIAL INTEGRITY;
 
-(II) POST A SURETY BOND THAT RUNS TO THE ADMINISTRATION, AS OBLIGEE, FOR THE BENEFIT OF THE STATE;
+(II) POST A SURETY BOND THAT RUNS TO THE
+ADMINISTRATION, AS OBLIGEE, FOR THE BENEFIT OF THE STATE;
 
 (III) AGREE TO BE SUBJECT TO ALL APPLICABLE TAXES;
 
-(IV) COMPLY WITH ANY OTHER REQUIREMENTS THE ADMINISTRATION DETERMINES ARE IN THE PUBLIC INTEREST; AND
+(IV) COMPLY WITH ANY OTHER REQUIREMENTS THE
+ADMINISTRATION DETERMINES ARE IN THE PUBLIC INTEREST; AND
 
-(V) DEMONSTRATE THE ABILITY TO FINANCE, EXECUTE, AND COMMISSION PROJECTS.
+(V) DEMONSTRATE THE ABILITY TO FINANCE, EXECUTE, AND
+COMMISSION PROJECTS.
 
-(D) (1) ELIGIBLE BIDDERS SHALL SUBMIT COMPETITIVE BIDS BY SPECIFYING:
+(D) (1) ELIGIBLE BIDDERS SHALL SUBMIT COMPETITIVE BIDS BY
+SPECIFYING:
 
-(I) THE ACTUAL AMOUNT OF MEGAWATTS TO BE GENERATED BY THE RENEWABLE ENERGY GENERATION PROJECT, IF APPLICABLE;
+(I) THE ACTUAL AMOUNT OF MEGAWATTS TO BE
+GENERATED BY THE RENEWABLE ENERGY GENERATION PROJECT, IF
+APPLICABLE;
 
-(II) THE ACTUAL AMOUNT OF MEGAWATTS TO BE STORED BY THE ENERGY STORAGE PROJECT, IF APPLICABLE; AND
+(II) THE ACTUAL AMOUNT OF MEGAWATTS TO BE STORED BY
+THE ENERGY STORAGE PROJECT, IF APPLICABLE; AND
 
-(III) A PRICE PER MEGAWATT THAT WOULD BE REQUIRED FROM THE AUCTION.
+(III) A PRICE PER MEGAWATT THAT WOULD BE REQUIRED
+FROM THE AUCTION.
 
-(2) THE ADMINISTRATION SHALL RANK BIDS FROM LOWEST TO HIGHEST COST PER MEGAWATT AND, SUBJECT TO PARAGRAPH (7) OF THIS SUBSECTION, AWARD GRANTS WITH FUNDS DERIVED FROM ALTERNATIVE COMPLIANCE FEES TO THE LOWEST BID OR BIDS.
+(2) THE ADMINISTRATION SHALL RANK BIDS FROM LOWEST TO
+HIGHEST COST PER MEGAWATT AND, SUBJECT TO PARAGRAPH (7) OF THIS
+SUBSECTION, AWARD GRANTS WITH FUNDS DERIVED FROM ALTERNATIVE
+COMPLIANCE FEES TO THE LOWEST BID OR BIDS.
 
-(3) THE ADMINISTRATION SHALL AWARD GRANTS UNTIL THE CAPACITY TARGET IS REACHED.
+(3) THE ADMINISTRATION SHALL AWARD GRANTS UNTIL THE
+CAPACITY TARGET IS REACHED.
 
-(4) THE BIDDER WHO SUBMITS THE LOWEST RESPONSIVE BID FOR DEVELOPING A RENEWABLE ENERGY GENERATION PROJECT OR ENERGY STORAGE PROJECT SHALL BE AWARDED THE AMOUNT OF FUNDS TO BUILD THE RENEWABLE ENERGY GENERATION PROJECT OR ENERGY STORAGE PROJECT.
+(4) THE BIDDER WHO SUBMITS THE LOWEST RESPONSIVE BID FOR
+DEVELOPING A RENEWABLE ENERGY GENERATION PROJECT OR ENERGY
+STORAGE PROJECT SHALL BE AWARDED THE AMOUNT OF FUNDS TO BUILD THE
+RENEWABLE ENERGY GENERATION PROJECT OR ENERGY STORAGE PROJECT.
 
-(5) THE ADMINISTRATION MAY REFUSE TO ACCEPT SOME OR ALL OF THE BIDS MADE IN A COMPETITIVE AUCTION IN ACCORDANCE WITH STANDARDS ADOPTED BY THE ADMINISTRATION.
+(5) THE ADMINISTRATION MAY REFUSE TO ACCEPT SOME OR ALL
+OF THE BIDS MADE IN A COMPETITIVE AUCTION IN ACCORDANCE WITH
+STANDARDS ADOPTED BY THE ADMINISTRATION.
 
-(6) IF THE CAPACITY TARGET CAN BE MET AT A COST BELOW THE ALLOCATED FUNDING, THE ADMINISTRATION MAY:
+(6) IF THE CAPACITY TARGET CAN BE MET AT A COST BELOW THE
+ALLOCATED FUNDING, THE ADMINISTRATION MAY:
 
-(I) CARRY FORWARD ANY FUNDING TO THE NEXT AUCTION; OR
+(I) CARRY FORWARD ANY FUNDING TO THE NEXT AUCTION;
+OR
 
-(II) APPLY THE FUNDS FOR ANY ADDITIONAL MEGAWATTS OF RENEWABLE ENERGY GENERATION OR ENERGY STORAGE THAT HAVE BEEN OFFERED UNDER THE AUCTION.
+(II) APPLY THE FUNDS FOR ANY ADDITIONAL MEGAWATTS OF
+RENEWABLE ENERGY GENERATION OR ENERGY STORAGE THAT HAVE BEEN
+OFFERED UNDER THE AUCTION.
 
-(7) IN AWARDING GRANTS UNDER PARAGRAPH (2) OF THIS SUBSECTION, THE ADMINISTRATION SHALL PRIORITIZE BIDS THAT ARE FOR OR INCLUDE ENERGY STORAGE DEVICES.
+(7) IN AWARDING GRANTS UNDER PARAGRAPH (2) OF THIS
+SUBSECTION, THE ADMINISTRATION SHALL PRIORITIZE BIDS THAT ARE FOR OR
+INCLUDE ENERGY STORAGE DEVICES.
 
-(E) (1) THE ADMINISTRATION SHALL SET DELIVERY DEADLINES FOR EACH RENEWABLE ENERGY GENERATION PROJECT THAT IS AWARDED A GRANT FROM AN AUCTION.
+(E) (1) THE ADMINISTRATION SHALL SET DELIVERY DEADLINES FOR
+EACH RENEWABLE ENERGY GENERATION PROJECT THAT IS AWARDED A GRANT
+FROM AN AUCTION.
 
-(2) THE DEADLINES SET IN PARAGRAPH (1) OF THIS SUBSECTION SHALL INCLUDE MILESTONES THAT REQUIRE THE DEVELOPER TO MEET CERTAIN DELIVERY GOALS DURING THE DEVELOPMENT OF A RENEWABLE ENERGY GENERATION PROJECT.
+(2) THE DEADLINES SET IN PARAGRAPH (1) OF THIS SUBSECTION
+SHALL INCLUDE MILESTONES THAT REQUIRE THE DEVELOPER TO MEET CERTAIN
+DELIVERY GOALS DURING THE DEVELOPMENT OF A RENEWABLE ENERGY
+GENERATION PROJECT.
 
-(3) THE ADMINISTRATION MAY GRANT EXTENSIONS FOR DELIVERY GOALS THAT ARE DELAYED DUE TO INTERCONNECTION OR PERMITTING CHALLENGES OR DELAYS IF THE DEVELOPER PROVIDES DOCUMENTATION OF THE CHALLENGE OR DELAY.
+(3) THE ADMINISTRATION MAY GRANT EXTENSIONS FOR
+DELIVERY GOALS THAT ARE DELAYED DUE TO INTERCONNECTION OR
+PERMITTING CHALLENGES OR DELAYS IF THE DEVELOPER PROVIDES
+DOCUMENTATION OF THE CHALLENGE OR DELAY.
 
-(4) THE ADMINISTRATION SHALL ESTABLISH A METHOD OF COLLECTION AGAINST ANY DEVELOPER AWARDED A GRANT UNDER THIS SECTION, INCLUDING AGAINST ANY SURETY BOND POSTED UNDER SUBSECTION (C)(2)(II) OF THIS SECTION, TO RECAPTURE ANY FUNDS RECEIVED AS A RESULT OF:
+(4) THE ADMINISTRATION SHALL ESTABLISH A METHOD OF
+COLLECTION AGAINST ANY DEVELOPER AWARDED A GRANT UNDER THIS
+SECTION, INCLUDING AGAINST ANY SURETY BOND POSTED UNDER SUBSECTION
+(C)(2)(II) OF THIS SECTION, TO RECAPTURE ANY FUNDS RECEIVED AS A RESULT
+OF:
 
 (I) MISAPPROPRIATION, OVERPAYMENT, OR FRAUD;
 
 (II) FAILURE TO MEET MILESTONES OR DELIVERY DATES; OR
 
-(III) FAILURE TO MAINTAIN ELECTRIC GENERATION OPERABILITY FOR 20 YEARS.
+(III) FAILURE TO MAINTAIN ELECTRIC GENERATION
+OPERABILITY FOR 20 YEARS.
 
-(F) WITHIN 90 DAYS AFTER ALL GRANTS FOR RENEWABLE ENERGY GENERATION PROJECTS ARE EXECUTED, THE ADMINISTRATION SHALL PUBLICLY DISCLOSE THE NAMES OF EACH SUCCESSFUL BIDDER AND THE MEGAWATTS TO BE DELIVERED BY THE DEVELOPMENT OF THE RENEWABLE ENERGY GENERATION PROJECT.
+(F) WITHIN 90 DAYS AFTER ALL GRANTS FOR RENEWABLE ENERGY
+GENERATION PROJECTS ARE EXECUTED, THE ADMINISTRATION SHALL
+PUBLICLY DISCLOSE THE NAMES OF EACH SUCCESSFUL BIDDER AND THE
+MEGAWATTS TO BE DELIVERED BY THE DEVELOPMENT OF THE RENEWABLE
+ENERGY GENERATION PROJECT.
 
-(G) ALL PROCEEDS FROM ALTERNATIVE COMPLIANCE FEES ACCRUED IN THE MARYLAND STRATEGIC ENERGY INVESTMENT FUND SHALL BE AVAILABLE EACH YEAR FOR EACH AUCTION.
+(G) ALL PROCEEDS FROM ALTERNATIVE COMPLIANCE FEES ACCRUED IN
+THE MARYLAND STRATEGIC ENERGY INVESTMENT FUND SHALL BE AVAILABLE
+EACH YEAR FOR EACH AUCTION.
 
-(H) A PROJECT AWARDED A GRANT UNDER THIS SECTION THAT INCLUDES AN ENERGY STORAGE DEVICE SHALL COUNT TOWARD THE PROCUREMENT SOLICITATION CAPACITY TARGETS ESTABLISHED UNDER § 7–1224 OF THE PUBLIC UTILITIES ARTICLE.
+(H) A PROJECT AWARDED A GRANT UNDER THIS SECTION THAT
+INCLUDES AN ENERGY STORAGE DEVICE SHALL COUNT TOWARD THE
+PROCUREMENT SOLICITATION CAPACITY TARGETS ESTABLISHED UNDER § 7–
+1224 OF THE PUBLIC UTILITIES ARTICLE.
 
-(I) ON OR BEFORE JULY 1, 2027, AND EACH JULY 1 THEREAFTER, THE ADMINISTRATION AND THE COMMISSION REPORT TO THE GENERAL ASSEMBLY, IN ACCORDANCE WITH § 2–1257 OF THIS ARTICLE, ON THE ADMINISTRATION OF EACH AUCTION, INCLUDING:
+(I) ON OR BEFORE JULY 1, 2027, AND EACH JULY 1 THEREAFTER, THE
+ADMINISTRATION AND THE COMMISSION SHALL REPORT TO THE GENERAL
+ASSEMBLY, IN ACCORDANCE WITH § 2–1257 OF THIS ARTICLE, ON THE
+ADMINISTRATION OF EACH AUCTION, INCLUDING:
 
-(1) THE AMOUNT OF MEGAWATTS PROCURED THROUGH THE AUCTION;
+(1) THE AMOUNT OF MEGAWATTS PROCURED THROUGH THE
+AUCTION;
 
-(2) THE COST PER MEGAWATT OF RENEWABLE ENERGY ALLOCATED IN THE AUCTION;
+(2) THE COST PER MEGAWATT OF RENEWABLE ENERGY
+ALLOCATED IN THE AUCTION;
 
-(3) THE NUMBER OF RENEWABLE ENERGY CREDITS CREATED AS A RESULT OF THE AUCTION; AND
+(3) THE NUMBER OF RENEWABLE ENERGY CREDITS CREATED AS A
+RESULT OF THE AUCTION; AND
 
-(4) ANY OTHER INFORMATION THE ADMINISTRATION AND THE COMMISSION CONSIDER RELEVANT.
-
-(H) THE ADMINISTRATION, IN CONSULTATION WITH THE COMMISSION, SHALL ADOPT REGULATIONS TO CARRY OUT THIS SECTION.
+(4) ANY OTHER INFORMATION THE ADMINISTRATION AND THE
+COMMISSION CONSIDER RELEVANT.
 
 Chapter 7 of the Acts of the 2025 Special Session
 
 SECTION 2. AND BE IT FURTHER ENACTED, That:
 
-(a) (1) The Public Service Commission shall study the effectiveness of an independent distribution operator.
+(a) (1) The Public Service Commission shall study the effectiveness of an
+independent distribution operator.
 
-(2) On or before December 31, 2026, the Public Service Commission shall submit to the General Assembly, in accordance with § 2–1257 of the State Government Article, a report on the study required under paragraph (1) of this subsection.
+(2) On or before December 31, 2026, the Public Service Commission
+shall submit to the General Assembly, in accordance with § 2–1257 of the State
+Government Article, a report on the study required under paragraph (1) of this
+subsection.
 
-(b) (1) The Department of Transportation shall study methods for reducing transmission–constrained areas through the use of existing rights–of–way.
+(b) (1) The Department of Transportation shall study methods for reducing
+transmission–constrained areas through the use of existing rights–of–way.
 
-(2) On or before December 31, 2026, the Department of Transportation shall submit to the General Assembly, in accordance with § 2–1257 of the State Government Article, a report on the study required under paragraph (1) of this subsection.
+(2) On or before December 31, 2026, the Department of Transportation
+shall submit to the General Assembly, in accordance with § 2–1257 of the State
+Government Article, a report on the study required under paragraph (1) of this
+subsection.
 
-(c) (1) (i) The Maryland Energy Administration shall obtain existing power flow analyses for electric system reliability in the State that are related to currently known electric generation facility retirements.
+(c) (1) (i) The Maryland Energy Administration shall obtain existing
+power flow analyses for electric system reliability in the State that are related to
+currently known electric generation facility retirements.
 
-(ii) If the Maryland Energy Administration is unable to obtain the existing power flow analyses under subparagraph (i) of this paragraph, then the Administration, with the support of the Public Service Commission, shall develop a power flow analysis for electric system reliability in the State that is related to currently known electric generation facility retirements.
+(ii) If the Maryland Energy Administration is unable to obtain
+the existing power flow analyses under subparagraph (i) of this paragraph, then the
+Administration, with the support of the Public Service Commission, shall develop a
+power flow analysis for electric system reliability in the State that is related to currently
+known electric generation facility retirements.
 
-(iii) On or before January 1, [2026] 2027, the Maryland Energy Administration shall submit to the Governor and, in accordance with § 2–1257 of the State Government Article, the General Assembly a report on the power flow analyses required under this paragraph.
+(iii) On or before January 1, 2027, the Maryland Energy
+Administration shall submit to the Governor and, in accordance with § 2–1257 of the
+State Government Article, the General Assembly a report on the power flow analyses
+required under this paragraph.
 
-(2) (i) On or before [December 31, 2025, and on or before] December 31, 2026, the Maryland Energy Administration shall provide to the General Assembly, in accordance with § 2–1257 of the State Government Article, an update on the status of the National Renewable Energy Laboratory’s analysis on resource adequacy conducted at the request of the Administration.
+(2) (i) On or before December 31, 2026, the Maryland Energy Administration shall provide to the General Assembly,
+in accordance with § 2–1257 of the State Government Article, an update on the status
+of the National Renewable Energy Laboratory’s analysis on resource adequacy
+conducted at the request of the Administration.
 
-(ii) On receipt of the National Renewable Energy Laboratory’s final analysis on resource adequacy, the Maryland Energy Administration shall submit a final report on the analysis to the General Assembly, in accordance with § 2–1257 of the State Government Article.
+(ii) On receipt of the National Renewable Energy Laboratory’s
+final analysis on resource adequacy, the Maryland Energy Administration shall submit
+a final report on the analysis to the General Assembly, in accordance with § 2–1257 of
+the State Government Article.
 
 Chapter 19 of the Acts of the 2025 Special Session
 
 SECTION 2. AND BE IT FURTHER ENACTED, That:
 
-(a) (1) The Public Service Commission shall study the effectiveness of an independent distribution operator.
+(a) (1) The Public Service Commission shall study the effectiveness of an
+independent distribution operator.
 
-(2) On or before December 31, 2026, the Public Service Commission shall submit to the General Assembly, in accordance with § 2–1257 of the State Government Article, a report on the study required under paragraph (1) of this subsection.
+(2) On or before December 31, 2026, the Public Service Commission
+shall submit to the General Assembly, in accordance with § 2–1257 of the State
+Government Article, a report on the study required under paragraph (1) of this
+subsection.
 
-(b) (1) The Department of Transportation shall study methods for reducing transmission–constrained areas through the use of existing rights–of–way.
+(b) (1) The Department of Transportation shall study methods for reducing
+transmission–constrained areas through the use of existing rights–of–way.
 
-(2) On or before December 31, 2026, the Department of Transportation shall submit to the General Assembly, in accordance with § 2–1257 of the State Government Article, a report on the study required under paragraph (1) of this subsection.
+(2) On or before December 31, 2026, the Department of Transportation
+shall submit to the General Assembly, in accordance with § 2–1257 of the State
+Government Article, a report on the study required under paragraph (1) of this
+subsection.
 
-(c) (1) (i) The Maryland Energy Administration shall obtain existing power flow analyses for electric system reliability in the State that are related to currently known electric generation facility retirements.
+(c) (1) (i) The Maryland Energy Administration shall obtain existing
+power flow analyses for electric system reliability in the State that are related to
+currently known electric generation facility retirements.
 
-(ii) If the Maryland Energy Administration is unable to obtain the existing power flow analyses under subparagraph (i) of this paragraph, then the Administration, with the support of the Public Service Commission, shall develop a power flow analysis for electric system reliability in the State that is related to currently known electric generation facility retirements.
+(ii) If the Maryland Energy Administration is unable to obtain
+the existing power flow analyses under subparagraph (i) of this paragraph, then the
+Administration, with the support of the Public Service Commission, shall develop a
+power flow analysis for electric system reliability in the State that is related to currently
+known electric generation facility retirements.
 
-(iii) On or before January 1, [2026] 2027, the Maryland Energy Administration shall submit to the Governor and, in accordance with § 2–1257 of the State Government Article, the General Assembly a report on the power flow analyses required under this paragraph.
+(iii) On or before January 1, 2027, the Maryland Energy
+Administration shall submit to the Governor and, in accordance with § 2–1257 of the
+State Government Article, the General Assembly a report on the power flow analyses
+required under this paragraph.
 
-(2) (i) On or before [December 31, 2025, and on or before] December 31, 2026, the Maryland Energy Administration shall provide to the General Assembly, in accordance with § 2–1257 of the State Government Article, an update on the status of the National Renewable Energy Laboratory’s analysis on resource adequacy conducted at the request of the Administration.
+(2) (i) On or before December 31, 2026, the Maryland Energy Administration shall provide to the General Assembly,
+in accordance with § 2–1257 of the State Government Article, an update on the status
+of the National Renewable Energy Laboratory’s analysis on resource adequacy
+conducted at the request of the Administration.
 
-(ii) On receipt of the National Renewable Energy Laboratory’s final analysis on resource adequacy, the Maryland Energy Administration shall submit a final report on the analysis to the General Assembly, in accordance with § 2–1257 of the State Government Article.
+(ii) On receipt of the National Renewable Energy Laboratory’s
+final analysis on resource adequacy, the Maryland Energy Administration shall submit
+a final report on the analysis to the General Assembly, in accordance with § 2–1257 of
+the State Government Article.
 
-SECTION 5. AND BE IT FURTHER ENACTED, That the Laws of Maryland read as follows:
+SECTION 5. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+as follows:
 
 Article – State Government
 
@@ -3158,64 +5207,38 @@ Article – State Government
 
 (a) (1) In this section the following words have the meanings indicated.
 
-(2) “Eligible customer–generator” has the meaning stated in § 7–306 of the Public Utilities Article.
+(2) “Eligible customer–generator” has the meaning stated in § 7–306 of
+the Public Utilities Article.
 
-(3) “Low to moderate income” means a household with an annual household income at or below 150% of the average median income for the State.
+(3) “Low to moderate income” means a household with an annual
+household income at or below 150% of the average median income for the State.
 
-(4) “Program” means the Customer–Sited Solar Program established in this section.
+(4) “Program” means the Customer–Sited Solar Program established in
+this section.
 
 (b) There is a Customer–Sited Solar Program in the Administration.
 
-(e) The Program may provide grants to an income–verified eligible customer–generator with a low to moderate income in an amount equal to $750 per kilowatt of nameplate capacity for a solar energy generating system, up to a maximum of $7,500 per system.
+(e) The Program may provide grants to an income–verified eligible
+customer–generator with a low to moderate income in an amount equal to $750 per
+kilowatt of nameplate capacity for a solar energy generating system, up to a maximum
+of $7,500 per system.
 
-(f) A grant awarded under subsection (e) of this section shall be funded from [fees collected under § 7–705(b)(2)(i)2 of the Public Utilities Article and allocated in accordance with § 9–20B–05(g–1) of this title] THE MARYLAND STRATEGIC ENERGY INVESTMENT FUND ESTABLISHED UNDER § 9–20B–05 OF THIS TITLE.
+(f) A grant awarded under subsection (e) of this section shall be funded from
+THE MARYLAND STRATEGIC ENERGY INVESTMENT FUND ESTABLISHED UNDER § 9–20B–05 OF THIS TITLE.
 
 SECTION 6. AND BE IT FURTHER ENACTED, That:
 
-(a) Notwithstanding any other provision of law, from the compliance fees paid into the Maryland Strategic Energy Investment Fund in accordance with § 7–705 of the Public Utilities Article:
+(a) Notwithstanding any other provision of law, from the compliance fees paid
+into the Maryland Strategic Energy Investment Fund in accordance with § 7–705 of the
+Public Utilities Article:
 
-(1) $100,000,000 shall be used to provide grants for renewable energy generation and energy storage projects through the auction process established under § 9–20E–02 of the State Government Article, as enacted by Section 4 of this Act;
+(1) $100,000,000 shall be used to provide grants for renewable energy
+generation and energy storage projects through the auction process established under §
+9–20E–02 of the State Government Article, as enacted by Section 4 of this Act;
 
-(2) $100,000,000 shall be used to provide grants to electric companies, including electric cooperatives and municipal electric utilities, to pay down the costs incurred by the electric companies for implementing and administering the programs and services under Title 7, Subtitle 2, Part II of the Public Utilities Article;
+(2) $100,000,000 shall be used to provide grants to electric companies,
+including electric cooperatives and municipal electric utilities, to pay down the costs
+incurred by the electric companies for implementing and administering the programs
+and services under Title 7, Subtitle 2, Part II of the Public Utilities Article;
 
-(3) $38,000,000 shall be used to offset residential electric customer costs associated with the limited–income rate mechanism required under § 4–309 of the Public Utilities Article, as enacted by Section 4 of this Act;
-
-(4) $150,000 shall be used to provide funding for a comprehensive study of public school HVAC systems in Baltimore City;
-
-(5) $9,850,000 shall be used to provide funding for upgrades to public school HVAC systems in Baltimore City; and
-
-(6) $2,000,000 shall be used to provide additional funding for the Maryland Energy Administration’s Residential and Commercial Energy Storage Grant Program.
-
-(b) Notwithstanding any other provision of law, from the proceeds paid into the Maryland Strategic Energy Investment Fund in accordance with 2–1002(g) of the Environment Article, $9,000,000 shall be used for upgrades to public school HVAC systems in Baltimore City.
-
-(c) Notwithstanding any other provision of law, from the funds in the Maryland Strategic Energy Investment Fund:
-
-(1) $3,000,000 shall be used to provide additional funding for the Department of Natural Resources’ Power Plant Research Program to review renewable and clean energy projects; and
-
-(2) $72,650,000 shall be transferred to the Dedicated Purpose Account established under § 7–310 of the State Finance and Procurement Article to provide additional funding for the Maryland Energy Administration’s Residential Energy Equity Program for heat pump installations and replacements for low– and moderate–income households.
-
-(d) (1) Notwithstanding any other provision of law and subject to paragraph (2) of this subsection, on or before June 30, 2027, the Governor may transfer:
-
-(i) the funds described in subsection (a)(1) of this section to the Maryland Energy Administration to be awarded as grants under § 9–20E–02 of the State Government Article, as enacted by Section 4 of this Act;
-
-(ii) the funds described in subsection (a)(2) of this section to the Public Service Commission to be awarded as grants to electric companies, including electric cooperatives and municipal electric utilities, to pay down the costs incurred by the electric companies for implementing and administering the programs and services under Title 7, Subtitle 2, Part II of the Public Utilities Article;
-
-(iii) the funds described in subsection (a)(3) of this section to the Public Service Commission to be awarded as grants to electric companies to be refunded or credited to residential electric customers to offset costs associated with the limited–income rate mechanism required under § 4–309 of the Public Utilities Article, as enacted by Section 4 of this Act;
-
-(iv) the funds described in subsection (a)(4) of this section to the Comptroller to be used to provide funding for a comprehensive study of public school HVAC systems in Baltimore City;
-
-(v) the funds described in subsections (a)(5) and (b) of this section to the Interagency Commission on School Construction to be used for upgrades to public school HVAC systems in Baltimore City;
-
-(vi) the funds described in subsection (a)(6) of this section to the Maryland Energy Administration to be awarded as grants under the Residential and Commercial Energy Storage Grant Program;
-
-(vii) the funds described in subsection (c)(1) of this section to the Department of Natural Resources to be used to review renewable and clean energy projects through the Power Plant Research Program; and
-
-(viii) the funds described in subsection (c)(2) of this section to the Dedicated Purpose Account established under § 7–310 of the State Finance and Procurement Article for the Maryland Energy Administration to use to provide heat pump installations and replacements for low– and moderate–income households under the Residential Energy Equity Program.
-
-(2) The Governor may not include in the transfers authorized under paragraph (1) of this subsection any funds in the Energy Assistance Account in the Maryland Strategic Energy Investment Fund.
-
-SECTION 7. AND BE IT FURTHER ENACTED, That the requirements established under § 7–207(b)(3)(iv), as enacted under Section 4 of this Act, apply to an application for a certificate of public convenience and necessity submitted on or after July 1, 2026, and may not be construed to apply to a certificate of public convenience and necessity submitted before July 1, 2026.
-
-SECTION 8. AND BE IT FURTHER ENACTED, That:
-
-(a) (
+(3) $38,000,000 shall be used to offset residential electric

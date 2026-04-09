@@ -1,5 +1,6 @@
 <bill>
 <bill>
+<bill>
 START OF PAGE 1
 HOUSE BILL 1135
 
@@ -7,8 +8,8 @@ J2 6lr2777
 CF SB 773
 
 By: Delegates Lopez, Fraser–Hidalgo, Kaufman, Solomon, Vogel, Wims, Wolek,
-~~and~~ ~~Woorman~~ <u>Woorman, Alston, Bagnall, Cullison, Guzzone, Hill, Martinez,
-Rosenberg, Ross, Taveras, and White Holland</u>
+~~and~~ ~~Woorman~~ Woorman, Alston, Bagnall, Cullison, Guzzone, Hill, Martinez,
+Rosenberg, Ross, Taveras, and White Holland
 Introduced and read first time: February 11, 2026
 Assigned to: Health
 
@@ -22,7 +23,7 @@ CHAPTER ______
 
 2 Health Occupations – Pharmacists – Vaccination Orders
 
-3 FOR the purpose of authorizing a pharmacist to order certain vaccinations for individuals
+3 FOR the prince of authorizing a pharmacist to order certain vaccinations for individuals
 4 who are at least a certain age without having to also administer the vaccination; and
 5 generally relating to the ordering of vaccinations by pharmacists.
 
@@ -40,7 +41,7 @@ CHAPTER ______
 14 12–508.
 
 15 (a) (1) Subject to paragraph (4) of this subsection, a pharmacist may order
-16 [and] A VACCINATION FOR <u>INTRANASAL ADMINISTRATION</u> OR administer a vaccination
+16 [and] A VACCINATION FOR OR administer a vaccination
 17 to an individual who is at least 3 years old if:
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
@@ -86,8 +87,8 @@ START OF PAGE 2
 21 adopted by the Board; and
 
 22 (vi) If the vaccination is administered to an individual under the age
-23 of 18 years, OR ORDERED FOR <u>INTRANASAL</u> ADMINISTRATION BY ~~AN ADULT~~
-24 ~~CAREGIVER~~ <u>A PARENT OR GUARDIAN</u> TO AN INDIVIDUAL UNDER THE AGE OF 18
+23 of 18 years, OR ORDERED FOR ADMINISTRATION BY ~~AN ADULT~~
+24 ~~CAREGIVER~~ AN ADULT CAREGIVER TO AN INDIVIDUAL UNDER THE AGE OF 18
 25 YEARS, the pharmacist informs the child vaccination patient and adult caregiver who is
 26 accompanying the child of the importance of well–child visits with a pediatric primary care
 27 provider and refers the patient to a pediatric primary care provider when appropriate.
@@ -133,21 +134,20 @@ HOUSE BILL 1135 3
 20 (5) A pharmacist shall:
 
 21 (i) Report all vaccinations administered OR ORDERED by the
-22 pharmacist<u>, INCLUDING THE INTENDED RECIPIENT OF EACH VACCINATION ORDERED</u>
-23 <u>BY THE PHARMACIST</u>, to the ImmuNet Program established under § 18–109 of the Health
-24 – General Article;
+22 pharmacist, INCLUDING THE INTENDED RECIPIENT OF EACH VACCINATION ORDERED BY THE PHARMACIST to the ImmuNet Program established under § 18–109 of the Health
+23 – General Article;
 
-25 (ii) If the vaccination has been administered in accordance with a
-26 prescription, document at least one effort to inform the individual’s authorized prescriber
-27 that the vaccination has been administered; and
+24 (ii) If the vaccination has been administered in accordance with a
+25 prescription, document at least one effort to inform the individual’s authorized prescriber
+26 that the vaccination has been administered; and
 
-28 (iii) Except for an influenza vaccination administered under
-29 paragraph (1) of this subsection, if the authorized prescriber is not the individual’s primary
-30 care provider or if the vaccination has not been administered in accordance with a
-31 prescription, document at least one effort to inform the individual’s primary care provider
-32 or other usual source of care that the vaccination has been administered.
+27 (iii) Except for an influenza vaccination administered under
+28 paragraph (1) of this subsection, if the authorized prescriber is not the individual’s primary
+29 care provider or if the vaccination has not been administered in accordance with a
+30 prescription, document at least one effort to inform the individual’s primary care provider
+31 or other usual source of care that the vaccination has been administered.
 
-33 (b) The Board shall:
+32 (b) The Board shall:
 END OF PAGE 3
 
 START OF PAGE 4
@@ -180,5 +180,6 @@ Speaker of the House of Delegates.
 ________________________________________________________________________________
 President of the Senate.
 END OF PAGE 4
+</bill>
 </bill>
 </bill>

@@ -1,4 +1,5 @@
 <bill>
+<bill>
 START OF PAGE 1
 HOUSE BILL 1219
 
@@ -44,7 +45,7 @@ CHAPTER ______
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
 [Brackets] indicate matter deleted from existing law.
-Underlining indicates amendments to bill.
+<u>Underlining</u> indicates amendments to bill.
 ~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
 amendment. *hb1219*
 END OF PAGE 1
@@ -61,43 +62,46 @@ START OF PAGE 2
 4 (6) the Maryland Insurance Administration;
 
 5 (7) a County Emergency Manager, appointed by the Maryland Association
-6 of Counties; and
+6 of Counties;
 
 7 (8) a Municipal Emergency Manager, appointed by the Maryland
-8 Municipal League.
+8 Municipal League; and
 
-9 (c) The study shall evaluate:
+9 (9) a representative of the Independent Insurance Agents of Maryland,
+10 designated by the Independent Insurance Agents of Maryland.
 
-10 (1) the extent to which climate change has contributed to the decreasing
-11 availability of and increasing costs associated with homeowner’s insurance;
+11 (c) The study shall evaluate:
 
-12 (2) the impact of recent and future changes in federal policies and grant
-13 funding streams related to disaster preparedness, response, recovery, mitigation, and
-14 resilience;
+12 (1) the extent to which climate change has contributed to the decreasing
+13 availability of and increasing costs associated with homeowner’s insurance;
 
-15 (3) how federal funding has supported emergency management
-16 capabilities across the five emergency management mission areas identified by the Federal
-17 Emergency Management Agency; and
+14 (2) the impact of recent and future changes in federal policies and grant
+15 funding streams related to disaster preparedness, response, recovery, mitigation, and
+16 resilience;
 
-18 (4) existing local resources or reserve funds available for disaster recovery
-19 needs.
+17 (3) how federal funding has supported emergency management
+18 capabilities across the five emergency management mission areas identified by the Federal
+19 Emergency Management Agency; and
 
-20 (d) (1) On or before ~~January~~ <u>July</u> 1, 2027, the University System of Maryland
-21 shall submit its findings and recommendations to the General Assembly, in accordance
-22 with § 2–1257 of the State Government Article.
+20 (4) existing local resources or reserve funds available for disaster recovery
+21 needs.
 
-23 (2) The report required under this subsection shall:
+22 (d) (1) On or before ~~January~~ <u>July</u> 1, 2027, the University System of Maryland
+23 shall submit its findings and recommendations to the General Assembly, in accordance
+24 with § 2–1257 of the State Government Article.
 
-24 (i) include an overview of the current state of the National Flood
-25 Insurance Program, Community Rating System, and the private flood insurance market;
-26 and
+25 (2) The report required under this subsection shall:
 
-27 (ii) make recommendations on:
+26 (i) include an overview of the current state of the National Flood
+27 Insurance Program, Community Rating System, and the private flood insurance market;
+28 and
 
-28 1. how the State can incentivize residents to invest in
-29 improvements to protect homes or mitigate damage from extreme weather events, using:
+29 (ii) make recommendations on:
 
-30 A. tax credits;
+30 1. how the State can incentivize residents to invest in
+31 improvements to protect homes or mitigate damage from extreme weather events, using:
+
+32 A. tax credits;
 END OF PAGE 2
 
 START OF PAGE 3
@@ -143,4 +147,5 @@ HOUSE BILL 1219 3
 25 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
 26 1, 2026.
 END OF PAGE 3
+</bill>
 </bill>

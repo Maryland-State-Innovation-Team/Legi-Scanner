@@ -4,7 +4,7 @@ HOUSE BILL 1483
 
 J2, J1 6lr2176
 
-By: Delegates Kaiser, Guyton, ~~and~~ ~~Kaufman~~ Kaufman, Alston, Bagnall, Cullison,
+By: Delegates Kaiser, Guyton, Kaufman, Alston, Bagnall, Cullison,
 Guzzone, Hill, Hutchinson, Kipke, Lopez, Martinez, M. Morgan, Reilly,
 Rosenberg, Ross, Szeliga, Taveras, White Holland, and Woorman
 Introduced and read first time: February 13, 2026
@@ -21,12 +21,11 @@ CHAPTER ______
 2 Clinical Professional Counseling and Social Work – Out–of–State Providers –
 3 Use of Telehealth for Continuity of Care
 
-4 OF THE STATE BOARD OF PROFESSIONAL COUNSELORS
-5 AND THERAPISTS TO ISSUE A TEMPORARY TELEHEALTH LICENSE;
-6 EXEMPTING CERTAIN STATE LICENSURE REQUIREMENTS FOR CERTAIN
-7 INDIVIDUALS WHO ARE LICENSED IN ANOTHER STATE AND WHO PROVIDE
-8 COUNSELING OR SOCIAL WORK THROUGH TELEHEALTH TO CLIENTS IN THE STATE; AND
-9 GENERALLY RELATING TO CLINICAL PROFESSIONAL COUNSELING OR SOCIAL WORK AND TELEHEALTH.
+4 FOR the purpose of repealing the authority of the State Board of Professional Counselors
+5 and Therapists to issue a temporary telehealth license; exempting certain State
+6 licensure requirements for certain individuals who are licensed in another state and
+7 who provide counseling or social work through telehealth to clients in the State; and
+8 generally relating to clinical professional counseling or social work and telehealth.
 
 9 BY repealing and reenacting, without amendments,
 10 Article – Health Occupations
@@ -36,7 +35,7 @@ CHAPTER ______
 
 14 BY repealing and reenacting, with amendments,
 15 Article – Health Occupations
-16 Section 17–101(l) ~~and~~ ~~17–301,~~ 17–301, and 19–301(b)
+16 Section 17–101(l), 17–301, and 19–301(b)
 17 Annotated Code of Maryland
 18 (2021 Replacement Volume and 2025 Supplement)
 
@@ -46,12 +45,12 @@ CHAPTER ______
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
 [Brackets] indicate matter deleted from existing law.
 Underlining indicates amendments to bill.
-~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
 amendment. *hb1483*
 END OF PAGE 1
 
 START OF PAGE 2
-2 HOUSE BILL 1483
+HOUSE BILL 1483 2
 
 1 Section 17–101(cc) and 17–304.2
 2 Annotated Code of Maryland
@@ -190,72 +189,76 @@ START OF PAGE 4
 
 25 (3) Necessary for the implementation, administration, and enforcement of
 26 this section.]
-
-27 19–301.
-
-28 (a) Except as otherwise provided in this title, an individual shall be:
-
-29 (1) Licensed by the Board before the individual may practice social work in
-30 this State while representing oneself as a social worker; or
 END OF PAGE 4
 
 START OF PAGE 5
 HOUSE BILL 1483 5
 
-1 (2) Licensed as a certified social worker–clinical before the individual may
-2 practice clinical social work in this State.
+1 19–301.
 
-3 (b) This section does not apply to:
+2 (a) Except as otherwise provided in this title, an individual shall be:
 
-4 (1) Subject to subsection (d) of this section, an individual employed by any
-5 agency of the federal government while performing the duties of that employment;
+3 (1) Licensed by the Board before the individual may practice social work
+4 in this State while representing oneself as a social worker; or
 
-6 (2) An individual licensed as a social worker in another state while
-7 responding to an emergency in this State;
+5 (2) Licensed as a certified social worker–clinical before the individual
+6 may practice clinical social work in this State.
 
-8 (3) An individual who:
+7 (b) This section does not apply to:
 
-9 (i) Is licensed to practice social work in any other state;
+8 (1) Subject to subsection (d) of this section, an individual employed by
+9 any agency of the federal government while performing the duties of that employment;
 
-10 (ii) Has an application for a license pending before the Board; and
+10 (2) An individual licensed as a social worker in another state while
+11 responding to an emergency in this State;
 
-11 (iii) Meets requirements established by the Board in regulations; [or]
+12 (3) An individual who:
 
-12 (4) A student while pursuing a supervised course of study in a social work
-13 program that is accredited or is a candidate for accreditation by the Council on Social Work
-14 Education; OR
+13 (i) Is licensed to practice social work in any other state;
 
-15 (5) A SOCIAL WORKER WHO IS LICENSED AND IN GOOD STANDING IN
-16 ANOTHER STATE OR A STUDENT WHILE PURSUING A SUPERVISED COURSE OF STUDY
-17 IN A GRADUATE LEVEL SOCIAL WORK PROGRAM IN ANOTHER STATE THAT IS
-18 ACCREDITED OR IS A CANDIDATE FOR ACCREDITATION BY THE COUNCIL ON SOCIAL
-19 WORK EDUCATION AND WHO:
+14 (ii) Has an application for a license pending before the Board; and
 
-20 (I) ESTABLISHED A CLIENT–SOCIAL WORKER RELATIONSHIP
-21 WITH A CLIENT OUTSIDE THE STATE;
+15 (iii) Meets requirements established by the Board in regulations;
+16 [or]
 
-22 (II) IS NO LONGER ABLE TO PROVIDE IN–PERSON SOCIAL WORK
-23 SERVICES TO THE CLIENT BECAUSE THE CLIENT IS LOCATED IN THE STATE; AND
+17 (4) A student while pursuing a supervised course of study in a social
+18 work program that is accredited or is a candidate for accreditation by the Council on
+19 Social Work Education; OR
 
-24 (III) PROVIDES SOCIAL WORK SERVICES THROUGH
-25 TELEHEALTH, AS DEFINED IN § 1–1001 OF THIS ARTICLE, FOR THE PURPOSE OF
-26 PROVIDING CONTINUITY OF CARE TO THE CLIENT FOR NOT MORE THAN 6 MONTHS
-27 AFTER:
+20 (5) A SOCIAL WORKER WHO IS LICENSED AND IN GOOD STANDING
+21 IN ANOTHER STATE OR A STUDENT WHILE PURSUING A SUPERVISED COURSE OF
+22 STUDY IN A GRADUATE LEVEL SOCIAL WORK PROGRAM IN ANOTHER STATE THAT
+23 IS ACCREDITED OR IS A CANDIDATE FOR ACCREDITATION BY THE COUNCIL ON
+24 SOCIAL WORK EDUCATION AND WHO:
 
-28 1. THE CLIENT RELOCATED TO THE STATE; OR
+25 (I) ESTABLISHED A CLIENT–SOCIAL WORKER
+26 RELATIONSHIP WITH A CLIENT OUTSIDE THE STATE;
 
-29 2. THE CLIENT RETURNED TO THE STATE FOLLOWING A
-30 CONTINUOUS AND NONINCIDENTAL PERIOD OF RELOCATION OUTSIDE THE STATE.
+27 (II) IS NO LONGER ABLE TO PROVIDE IN–PERSON SOCIAL
+28 WORK SERVICES TO THE CLIENT BECAUSE THE CLIENT IS LOCATED IN THE
+29 STATE; AND
+
+30 (III) PROVIDES SOCIAL WORK SERVICES THROUGH
+31 TELEHEALTH, AS DEFINED IN § 1–1001 OF THIS ARTICLE, FOR THE PURPOSE OF
+32 PROVIDING CONTINUITY OF CARE TO THE CLIENT FOR NOT MORE THAN 6
+33 MONTHS AFTER:
+
+34 1. THE CLIENT RELOCATED TO THE STATE; OR
+
+35 2. THE CLIENT RETURNED TO THE STATE
+36 FOLLOWING A CONTINUOUS AND NONINCIDENTAL PERIOD OF RELOCATION
+37 OUTSIDE THE STATE.
+
+38 (c) An individual may not practice social work without a license under
+39 subsection (b)(3) of this section for more than 6 months.
+
+40 (d) An individual employed by an agency of the federal government who is
+41 licensed to practice social work in the State shall comply with the provisions of this
+42 title.
 END OF PAGE 5
 
 START OF PAGE 6
 6 HOUSE BILL 1483
-
-1 (c) An individual may not practice social work without a license under subsection
-2 (b)(3) of this section for more than 6 months.
-
-3 (d) An individual employed by an agency of the federal government who is
-4 licensed to practice social work in the State shall comply with the provisions of this title.
 
 5 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
 6 October 1, 2026.
