@@ -2,6 +2,7 @@ import os
 import argparse
 import json
 from tqdm import tqdm
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from dotenv import load_dotenv
 from google import genai
 from openai import OpenAI
@@ -34,6 +35,7 @@ def main():
     parser.add_argument('--model-family', default='gemini', choices=['gemini', 'gpt', 'ollama'])
     parser.add_argument('--model', default='gemini-3-flash-preview', help='Model Name')
     parser.add_argument('--debug', action='store_true', help='Limit processing to first 10 bills')
+    parser.add_argument('--workers', type=int, default=4, help='Number of concurrent bill workers')
     args = parser.parse_args()
 
     print(f"--- Starting Pipeline for {args.year} ---")
@@ -53,24 +55,28 @@ def main():
         all_bills = all_bills[:10]
     
     # 4. Process Loop
-    # We iterate through all known bills and check their 'needs_*' flags
-    for bill_number in tqdm(all_bills, desc="Processing Bills"):
+    def process_bill(bill_number):
         bill_data = state.get_bill(bill_number)
 
-        # Convert Stage
         if bill_data.get('needs_convert'):
             convert_pdfs_to_md(args.year, bill_number, state)
-            # Refresh state
             bill_data = state.get_bill(bill_number)
 
-        # Amend Stage
         if bill_data.get('needs_amend'):
             apply_amendments(args.year, bill_number, state, client, args.model, args.model_family)
             bill_data = state.get_bill(bill_number)
 
-        # QA Stage
         if bill_data.get('needs_qa'):
             run_qa(args.year, bill_number, state, client, args.model, args.model_family)
+
+    with ThreadPoolExecutor(max_workers=args.workers) as executor:
+        futures = {executor.submit(process_bill, b): b for b in all_bills}
+        for future in tqdm(as_completed(futures), total=len(all_bills), desc="Processing Bills"):
+            bill = futures[future]
+            try:
+                future.result()
+            except Exception as e:
+                print(f"Error processing {bill}: {e}")
 
     # 5. Final Export
     export_frontend_data(args.year, state)

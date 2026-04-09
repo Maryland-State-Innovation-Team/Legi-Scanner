@@ -30,7 +30,7 @@ jobs:
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       run: |
-        python run_pipeline.py --year 2026
+        python run_pipeline.py --year 2026 --workers 4
 
     - name: Commit and push changes
       run: |

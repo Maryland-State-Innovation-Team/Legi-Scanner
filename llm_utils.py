@@ -101,7 +101,14 @@ def query_llm_with_retries(client, prompt, value, response_format, model_name, m
                 return None
         except Exception as e:
             if "429" in str(e) or "RESOURCE_EXHAUSTED" in str(e):
-                raise e
+                if attempt < max_retries - 1:
+                    sleep_duration = (2 ** attempt) * 10
+                    print(f"Rate limited (429). Retrying in {sleep_duration} seconds...")
+                    time.sleep(sleep_duration)
+                else:
+                    print("Max retries reached after rate limiting. Returning None.")
+                    return None
+                continue
             # For Ollama or any other unexpected error
             print(f"Unexpected error: {e}")
             if attempt < max_retries - 1:
