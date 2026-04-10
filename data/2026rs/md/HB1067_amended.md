@@ -1,10 +1,12 @@
 <bill>
+<bill>
+<bill>
 START OF PAGE 1
 HOUSE BILL 1067
 
 M2 6lr2452
 
-By: Delegates Guyton ~~and~~ ~~Allen,~~ Allen, and Healey
+By: Delegates Guyton Allen, and Healey
 Introduced and read first time: February 9, 2026
 Assigned to: Environment and Transportation
 
@@ -16,14 +18,17 @@ CHAPTER ______
 
 1 AN ACT concerning
 
-2 Hunting – Lead and Lead–Based Ammunition – Phase–Out
+2 Hunting – Restrictions of Venison Donation
 
-3 FOR the purpose of requiring the Department of Natural Resources to require, through a
-4 certain phasing–out process, the use of nonlead ammunition for the hunting of all
-5 game species on or before a certain date under certain circumstances; establishing a
-6 certain penalty for a first violation of this Act, subject to a certain termination date;
-7 and generally relating to phasing out the use of lead or lead–based ammunition for
-8 hunting.
+3 FOR the purpose of requiring the Department of Natural Resources to prohibit the
+4 donation of certain processed venison to certain entities except under certain
+5 circumstances; and generally relating to venison donation.
+
+6 
+
+7 
+
+8 
 
 9 BY repealing and reenacting, with amendments,
 10 Article – Natural Resources
@@ -31,12 +36,17 @@ CHAPTER ______
 12 Annotated Code of Maryland
 13 (2023 Replacement Volume and 2025 Supplement)
 
-14 BY repealing and reenacting, with amendments,
-15 Article – Natural Resources
-16 Section 10–408(e)
-17 Annotated Code of Maryland
-18 (2023 Replacement Volume and 2025 Supplement)
-19 (As enacted by Section 1 of this Act)
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
 
 20 Preamble
 
@@ -139,53 +149,83 @@ HOUSE BILL 1067 3
 24 (d) This section does not authorize the Department to restrict the use of firearms
 25 except in the activity of hunting designated wildlife.
 
-26 (E) (1) EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS SUBSECTION,
-27 ON OR BEFORE JULY 1, ~~2029~~ 2030, THE DEPARTMENT SHALL REQUIRE THE USE OF
-28 NONLEAD AMMUNITION FOR THE HUNTING OF ALL GAME SPECIES.
-
-29 (2) THE DEPARTMENT SHALL AUTHORIZE THE USE OF LEAD
-30 AMMUNITION FOR MUZZLELOADERS, HANDGUNS, RIFLES, AND SHOTGUNS IF
+26 (E) (1) UNLESS THE DEER WAS HARVESTED USING NONLEAD AMMUNITION OR A
+27 BOW AND ARROW, THE DEPARTMENT SHALL PROHIBIT A PERSON FROM DONATING
+28 PROCESSED DEER MEAT TO A VENISON DONATION PROGRAM ADMINISTERED BY AN
+29 ORGANIZATION THAT IS EXEMPT FROM TAXATION UNDER § 501(C)(3) OF THE
+30 INTERNAL REVENUE CODE.
 END OF PAGE 3
 
 START OF PAGE 4
 4 HOUSE BILL 1067
 
-1 NONLEAD AMMUNITION IS NOT COMMERCIALLY AVAILABLE FOR THE SPECIFIC
-2 FIREARM.
+1 
 
-3 (3) A PERSON WHO VIOLATES REGULATIONS OF THE DEPARTMENT
-4 REQUIRING THE USE OF NONLEAD AMMUNITION FOR HUNTING FOR A FIRST
-5 OFFENSE IS SUBJECT TO A CIVIL FINE NOT EXCEEDING $750.
+2 
 
-6 (4) THE DEPARTMENT SHALL ADOPT REGULATIONS TO CARRY OUT
-7 THIS SUBSECTION.
+3 (2) (I) A PERSON WHO VIOLATES THE PROHIBITION IN PARAGRAPH (1) OF THIS SUBSECTION
+4 FOR A FIRST OFFENSE IS SUBJECT TO A CIVIL FINE NOT EXCEEDING $750.
 
-8 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
-9 as follows:
+5 (II) THE DEPARTMENT SHALL AUTHORIZE THE USE OF LEAD
+6 AMMUNITION BY AN INDIVIDUAL HUNTING DEER UNDER THE AUTHORITY OF A
+7 DEER MANAGEMENT PERMIT ON OR BEFORE JUNE 30, 2031.
 
-10 Article – Natural Resources
+8 (3) THE DEPARTMENT SHALL ADOPT REGULATIONS TO CARRY OUT
+9 THIS SUBSECTION.
 
-11 10–408.
+10 SECTION 2. AND BE IT FURTHER ENACTED, That, on or before December 1,
+11 2030, the Department of Natural Resources shall report to the Senate Committee on
+12 Education, Energy, and the Environment and the House Environment and
+13 Transportation Committee, in accordance with § 2-1257 of the State Government
+14 Article, on inspections performed by the Natural Resources Police Force detailing
+15 violations in venison processing facilities under § 10–408(e) of the Natural Resources
+16 Article, as enacted by Section 1 of this Act.
 
-12 (e) (1) Except as provided in paragraph (2) of this subsection, on or before July
-13 1, 2030, the Department shall require the use of nonlead ammunition for the hunting of all
-14 game species.
+17 (ii) The Department shall authorize the use of lead ammunition
+18 by an individual hunting deer under the authority of a deer management permit on or
+19 before June 30, 2031.
 
-15 (2) The Department shall authorize the use of lead ammunition for
-16 muzzleloaders, handguns, rifles, and shotguns if nonlead ammunition is not commercially
-17 available for the specific firearm.
+20 
 
-18 (3) [A person who violates regulations of the Department requiring the use
-19 of nonlead ammunition for hunting for a first offense is subject to a civil fine not exceeding
-20 $750.
+21 
 
-21 (4)] The Department shall adopt regulations to carry out this subsection.
+22 
 
-22 SECTION 3. AND BE IT FURTHER ENACTED, That Section 2 of this Act shall take
-23 effect January 1, 2031.
+23 
 
-24 SECTION 4. AND BE IT FURTHER ENACTED, That, except as provided in Section
-25 3 of this Act, this Act shall take effect July 1, 2026.
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+END OF PAGE 4
+
+START OF PAGE 5
+HOUSE BILL 1067 5
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect July 1, 2027.
 
 Approved:
 
@@ -198,4 +238,6 @@ Speaker of the House of Delegates.
 ________________________________________________________________________________
 President of the Senate.
 END OF PAGE 5
+</bill>
+</bill>
 </bill>

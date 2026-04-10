@@ -1,11 +1,13 @@
 <bill>
+<bill>
 START OF PAGE 1
 HOUSE BILL 497
 
 D4 6lr1871
 CF SB 433
 
-By: Delegates Simpson, Stinnett, Simmons, Moreno, Taylor, Moon, and Woods
+By: Delegates Simpson, Stinnett, Simmons, Moreno, Taylor,
+Moon, and Woods
 Introduced and read first time: January 27, 2026
 Assigned to: Judiciary
 
@@ -19,10 +21,12 @@ CHAPTER ______
 
 2 Family Law – Temporary and Final Protective Orders – Duration
 
-3 For the purpose of extending the time period during which a temporary protective order
-4 is effective after service of the order; extending the time period for which a final
-5 protective order hearing is required to be held after service of the temporary
-6 protective order; and generally relating to temporary and final protective orders.
+3 ~~extending~~ ALTERING the time period during which a temporary protective order
+4 is effective ~~after service of the order~~; ~~extending~~ ALTERING the time period ~~for~~ DURING which a final
+5 protective order hearing is required to be held ~~after service of the temporary~~
+6 ~~protective~~ ~~order~~;
+9 and generally relating to
+10 temporary and final protective orders.
 
 11 BY repealing and reenacting, without amendments,
 12 Article – Family Law
@@ -36,10 +40,15 @@ CHAPTER ______
 19 Annotated Code of Maryland
 20 (2019 Replacement Volume and 2025 Supplement)
 
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0497*
 END OF PAGE 1
 
 START OF PAGE 2
-HOUSE BILL 497 2
+2 HOUSE BILL 497
 
 5 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
 6 That the Laws of Maryland read as follows:
@@ -54,7 +63,7 @@ HOUSE BILL 497 2
 12 eligible for relief from abuse.
 
 13 (c) (1) Except as otherwise provided in this subsection, the temporary
-14 protective order shall be effective for not more than [7] 14 days after service of the order.
+14 protective order shall be effective for not more than [7] 14 days after ~~service~~ ISSUANCE of the order.
 
 15 (2) The judge may extend the temporary protective order as needed, but
 16 not to exceed 6 months, to effectuate service of the order where necessary to provide
@@ -67,19 +76,18 @@ HOUSE BILL 497 2
 21 4–506.
 
 22 (a) A respondent under § 4–505 of this subtitle shall have an opportunity to be
-23 heard on the question of whether the judge should issue a final protective order.
-
-24 (b) (1) (i) The temporary protective order shall state the date and time of
-25 the final protective order hearing.
-
-26 (ii) Except as provided in § 4–505(c) of this subtitle, or unless
-27 continued for good cause, the final protective order hearing shall be held no later than [7]
-28 14 days after the temporary protective order is served on the respondent.
-
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 497 3
+
+11 [(14)] (15) order any other relief that the judge determines is necessary to
+12 ~~protect~~ ~~a~~ ~~person~~ ~~eligible~~ ~~for~~ ~~relief~~ ~~from~~ ~~abuse.~~
+
+13 (L) A MONETARY AWARD UNDER SUBSECTION (D)(14) OF THIS SECTION
+14 DOES NOT PRECLUDE A PETITIONER FROM BRINGING A SUBSEQUENT CLAIM FOR
+15 ADDITIONAL LOSSES OR EXPENSES NOT AWARDED IN THE FINAL PROTECTIVE
+16 ORDER.
 
 17 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
 18 October 1, 2026.
@@ -95,4 +103,5 @@ Speaker of the House of Delegates.
 ________________________________________________________________________________
 President of the Senate.
 END OF PAGE 3
+</bill>
 </bill>
