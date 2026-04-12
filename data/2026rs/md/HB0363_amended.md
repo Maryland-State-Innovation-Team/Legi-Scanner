@@ -1,17 +1,26 @@
 <bill>
+<bill>
 START OF PAGE 1
 HOUSE BILL 363
 
-Q3 6lr1399
-CF SB 468
+Q3 (6lr1399)
+ENROLLED BILL
+— Ways and Means/Budget and Taxation —
+Introduced by Delegate Palakovich Carr
 
-By: Delegate Palakovich Carr
-Introduced and read first time: January 19, 2026
-Assigned to: Ways and Means
+Read and Examined by Proofreaders:
 
-Committee Report: Favorable with amendments
-House action: Adopted
-Read second time: March 3, 2026
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+
+Sealed with the Great Seal and presented to the Governor, for his approval this
+
+_______ day of _______________ at ________________________ o’clock, ________M.
+
+______________________________________________
+Speaker.
 
 CHAPTER ______
 
@@ -20,7 +29,7 @@ CHAPTER ______
 2 ~~Income~~ ~~Tax~~ ~~–~~ ~~Local~~ Local Government – Grant for Recipients of State Child Tax
 3 Credit – Authorization
 
-4 FOR the purpose of authorizing a county to provide, by law, a ~~credit~~ ~~against~~ ~~the~~ ~~county~~
+4 FOR the provide of authorizing a county to provide, by law, a ~~credit~~ ~~against~~ ~~the~~ ~~county~~
 5 grant to recipients of the State income tax credit for certain dependent children,
 6 subject to certain limitations; and generally relating to ~~a~~ ~~credit~~ ~~against~~ ~~the~~ ~~county~~
 7 county grants to recipients of the State income tax credit for dependent children.
@@ -32,150 +41,144 @@ CHAPTER ______
 12 (2013 Volume and 2025 Supplement)
 
 13 BY repealing and reenacting, with amendments,
-14 Article – Tax – General
-15 Section ~~10–706,~~ ~~10–751,~~ ~~and~~ ~~10–809~~ 10–706 and 10–809
-16 Annotated Code of Maryland
-17 (2022 Replacement Volume and 2025 Supplement)
-
-18 BY repealing and reenacting, without amendments,
-19 Article – Tax – General
-20 Section 10–751
-21 Annotated Code of Maryland
-22 (2022 Replacement Volume and 2025 Supplement)
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
 [Brackets] indicate matter deleted from existing law.
 Underlining indicates amendments to bill.
 ~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
-amendment. *hb0363*
+amendment.
+Italics indicate opposite chamber/conference committee amendments.*hb0363*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 363
 
-1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-2 That the Laws of Maryland read as follows:
+1 Article – Tax – General
+2 Section 10–706 and 10–809
+3 Annotated Code of Maryland
+4 (2022 Replacement Volume and 2025 Supplement)
 
-3 Article – Local Government
+5 BY repealing and reenacting, without amendments,
+6 Article – Tax – General
+7 Section 10–751
+8 Annotated Code of Maryland
+9 (2022 Replacement Volume and 2025 Supplement)
 
-4 12–906.
+10 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+11 That the Laws of Maryland read as follows:
 
-5 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
-6 INDICATED.
+12 Article – Local Government
 
-7 (2) “FEDERAL ADJUSTED GROSS INCOME”, “FIDUCIARY”,
-8 “RESIDENT”, AND “TAXABLE YEAR” HAVE THE MEANINGS STATED IN § 10–101 OF
-9 THE TAX – GENERAL ARTICLE.
+13 12–906.
 
-10 (3) “QUALIFIED CHILD” AND “TAXPAYER” HAVE THE MEANINGS
-11 STATED IN § 10–751 OF THE TAX – GENERAL ARTICLE.
+14 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+15 INDICATED.
 
-12 (B) A COUNTY MAY PROVIDE, BY LAW, FOR A GRANT FOR EACH QUALIFIED
-13 CHILD OF A TAXPAYER IF:
+16 (2) “FEDERAL ADJUSTED GROSS INCOME”, “FIDUCIARY”,
+17 “RESIDENT”, AND “TAXABLE YEAR” HAVE THE MEANINGS STATED IN § 10–101 OF
+18 THE TAX – GENERAL ARTICLE.
 
-14 (1) THE TAXPAYER HAS FEDERAL ADJUSTED GROSS INCOME LOWER
-15 THAN THE THRESHOLD AMOUNT OF $15,000; AND
+19 (3) “QUALIFIED CHILD” AND “TAXPAYER” HAVE THE MEANINGS
+20 STATED IN § 10–751 OF THE TAX – GENERAL ARTICLE.
 
-16 (2) THE TAXPAYER AND EACH QUALIFIED CHILD ARE RESIDENTS,
-17 OTHER THAN FIDUCIARIES, WHO ON THE LAST DAY OF THE TAXABLE YEAR ARE:
+21 (B) A COUNTY MAY PROVIDE, BY LAW, FOR A GRANT FOR EACH QUALIFIED
+22 CHILD OF A TAXPAYER IF:
 
-18 (I) DOMICILED IN THAT COUNTY; OR
+23 (1) THE TAXPAYER HAS FEDERAL ADJUSTED GROSS INCOME LOWER
+24 THAN THE THRESHOLD AMOUNT OF $15,000; AND
 
-19 (II) MAINTAIN A PRINCIPAL RESIDENCE OR PLACE OF ABODE IN
-20 THAT COUNTY.
+25 (2) THE TAXPAYER AND EACH QUALIFIED CHILD ARE RESIDENTS,
+26 OTHER THAN FIDUCIARIES, WHO ON THE LAST DAY OF THE TAXABLE YEAR ARE:
 
-21 (C) THE AMOUNT OF A GRANT ALLOWED UNDER THIS SECTION SHALL BE
-22 REDUCED BY 10% FOR EACH $1,000, OR FRACTION THEREOF, BY WHICH THE
-23 TAXPAYER’S FEDERAL ADJUSTED GROSS INCOME EXCEEDS THE THRESHOLD
-24 AMOUNT, EXCEPT THAT THE REDUCTION CANNOT REDUCE THE GRANT BELOW ZERO.
+27 (I) DOMICILED IN THAT COUNTY; OR
 
-25 (D) A COUNTY MAY PROVIDE, BY LAW, FOR:
+28 (II) MAINTAIN A PRINCIPAL RESIDENCE OR PLACE OF ABODE IN
+29 THAT COUNTY.
 
-26 (1) THE AMOUNT OF THE GRANT UNDER SUBSECTION (B) OF THIS
-27 SECTION; AND
-
-28 (2) ANY OTHER PROVISION NECESSARY TO CARRY OUT THE GRANT
-29 UNDER THIS SECTION.
-
-30 (E) A COUNTY THAT PROVIDES A GRANT UNDER THIS SECTION SHALL
-31 REIMBURSE THE COMPTROLLER FOR REASONABLE EXPENSES INCURRED BY THE
-32 COMPTROLLER TO PROVIDE THE COUNTY INFORMATION NECESSARY TO
-33 IMPLEMENT THE GRANT.
+30 (C) THE AMOUNT OF A GRANT ALLOWED UNDER THIS SECTION SHALL BE
+31 REDUCED BY 10% FOR EACH $1,000, OR FRACTION THEREOF, BY WHICH THE
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 363 3
 
-5 (b) A credit under § 10–701 of this subtitle is allowed against the total county and
-6 State income taxes.
+5 SECTION; AND
+6 (2) ANY OTHER PROVISION NECESSARY TO CARRY OUT THE GRANT
+7 UNDER THIS SECTION.
 
-7 (c) (1) A credit allowed under [§ 10–704(a)(1)] § 10–704(B)(1) or §
-8 10–709(b)(1) of this subtitle is allowed against the State income tax only.
+8 (E) A COUNTY THAT PROVIDES A GRANT UNDER THIS SECTION SHALL
+9 REIMBURSE THE COMPTROLLER FOR REASONABLE EXPENSES INCURRED BY THE
+10 COMPTROLLER TO PROVIDE THE COUNTY INFORMATION NECESSARY TO
+11 IMPLEMENT THE GRANT.
 
-9 (2) A credit allowed under [§ 10–704(a)(2)] § 10–704(B)(2) or §
-10 10–709(b)(2) of this subtitle is allowed against the county income tax only.
+12 Article – Tax – General
 
-11 10–751.
+13 10–706.
 
-12 (a) (1) In this section the following words have the meanings indicated.
+14 (a) Except as otherwise provided in this section, a credit allowed under this
+15 subtitle is allowed against the State income tax only.
 
-13 (2) “Qualified child” means a dependent of a taxpayer, if the dependent:
+16 (b) A credit under § 10–701 of this subtitle is allowed against the total county and
+17 State income taxes.
 
-14 (i) is a dependent for purposes of § 152 of the Internal Revenue Code
-15 in effect on December 31, 2024; and
+18 (c) (1) A credit allowed under [§ 10–704(a)(1)] § 10–704(B)(1) or § 10–
+19 709(b)(1) of this subtitle is allowed against the State income tax only.
 
-16 (ii) 1. is under the age of 6 years; or
+20 (2) A credit allowed under [§ 10–704(a)(2)] § 10–704(B)(2) or § 10–
+21 709(b)(2) of this subtitle is allowed against the county income tax only.
 
-17 2. A. is under the age of 17 years; and
+22 10–751.
 
-18 B. is a child with a disability, as defined under § 8–401 of the
-19 Education Article.
+23 (a) (1) In this section the following words have the meanings indicated.
 
-20 (3) “Taxpayer” means:
-
-21 (i) an individual filing an income tax return; or
-
-22 (ii) a married couple filing a joint income tax return.
-
-23 (b) A taxpayer who is a resident and has federal adjusted gross income
-24 lower than the threshold amount of $15,000 may claim a credit against the State income
-25 tax for each qualified child in an amount equal to $500.
-
-26 (c) The amount of the credit shall be reduced by $50 for each $1,000, or fraction
-27 thereof, by which the taxpayer’s federal adjusted gross income exceeds the threshold
-28 amount, except that the reduction cannot reduce the credit below zero.
-
-29 (d) If the credit allowed under this section in any taxable year exceeds the State
-30 income tax for that taxable year, the taxpayer may claim a refund in the amount of the
-31 excess.
+24 (2) “Qualified child” means a dependent of a taxpayer, if the dependent:
 END OF PAGE 3
 
 START OF PAGE 4
 4 HOUSE BILL 363
 
-1 10–809.
+1 (i) is a dependent for purposes of § 152 of the Internal Revenue Code
+2 in effect on December 31, 2024; and
 
-2 If an individual is not required to file an income tax return under § 10–805, §
-3 10–806, or § 10–813 of this subtitle, the individual:
+3 (ii) 1. is under the age of 6 years; or
 
-4 (1) is not liable for income tax; and
+4 2. A. is under the age of 17 years; and
 
-5 (2) may file an income tax return to claim a refund of the income tax
-6 withheld or estimated income tax paid or a refund under § 10–704, § 10–707, [or] § 10–714,
-7 OR § 10–751 of this title.
+5 B. is a child with a disability, as defined under § 8–401 of the
+6 Education Article.
 
-8 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
-9 1, 2026.
+7 (3) “Taxpayer” means:
 
-Approved:
+8 (i) an individual filing an income tax return; or
 
-________________________________________________________________________________
-Governor.
+9 (ii) a married couple filing a joint income tax return.
 
-________________________________________________________________________________
-Speaker of the House of Delegates.
+10 (b) A taxpayer who is a resident and has federal adjusted gross income
+11 lower than the threshold amount of $15,000 may claim a credit against the State income
+12 tax for each qualified child in an amount equal to $500.
 
-________________________________________________________________________________
-President of the Senate.
-END OF PAGE 4
+13 (c) The amount of the credit shall
+14 be reduced by $50 for each $1,000, or fraction thereof, by which the taxpayer’s federal
+15 adjusted gross income exceeds the threshold amount, except that the reduction cannot
+16 reduce the credit below zero.
+
+17 (d) If the credit allowed under this [section] in any taxable
+18 year exceeds the State income tax for that taxable year, the taxpayer may claim a refund
+19 in the amount of the excess.
+
+20 10–809.
+
+21 If an individual is not required to file an income tax return under § 10–805, §
+22 10–806, or § 10–813 of this subtitle, the individual:
+
+23 (1) is not liable for income tax; and
+
+24 (2) may file an income tax return to claim a refund of the income tax
+25 withheld or estimated income tax paid or a refund under § 10–704, § 10–707, [or] § 10–714,
+26 OR § 10–751 of this title.
+
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+28 1, 2026.
+END OF PAGE 5
+</bill>
 </bill>

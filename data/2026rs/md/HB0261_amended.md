@@ -2,18 +2,25 @@
 START OF PAGE 1
 HOUSE BILL 261
 
-P2 6lr0298
-(PRE–FILED) CF SB 157
-
-By: Chair, Government, Labor, and Elections Committee (By Request –
+P2 (6lr0298)
+ENROLLED BILL
+— Government, Labor, and Elections/Budget and Taxation —
+Introduced by Chair, Government, Labor, and Elections Committee (By Request –
 Departmental – General Services)
-Requested: September 30, 2025
-Introduced and read first time: January 14, 2026
-Assigned to: Government, Labor, and Elections
 
-Committee Report: Favorable
-House action: Adopted
-Read second time: February 18, 2026
+Read and Examined by Proofreaders:
+
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+
+Sealed with the Great Seal and presented to the Governor, for his approval this
+
+_______ day of _______________ at ________________________ o’clock, ________M.
+
+______________________________________________
+Speaker.
 
 CHAPTER ______
 
@@ -33,245 +40,239 @@ CHAPTER ______
 12 procurement methods; altering the required contents of a competitive proof of
 13 concept solicitation; requiring competitive proof of concept solicitations to be posted
 14 on eMaryland Marketplace Advantage; altering procedures for conducting a
-15 competitive proof of concept procurement; authorizing a unit to enter into certain
-16 contracts with certain offerors under certain circumstances; requiring a unit to
-17 publish notice of a certain award in eMaryland Marketplace Advantage; requiring
-18 the Department of General Services to adopt certain regulations; providing for the
-19 establishment of certain percentage goals for minority business enterprise
-20 participation and veteran–owned small business enterprise participation;
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
 [Brackets] indicate matter deleted from existing law.
 Underlining indicates amendments to bill.
 ~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
-amendment. *hb0261*
+amendment.
+Italics indicate opposite chamber/conference committee amendments.*hb0261*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 261
 
-1 and generally relating to competitive proof
-2 of concept procurements.
+1 competitive proof of concept procurement; authorizing a unit to enter into certain
+2 contracts with certain offerors under certain circumstances; requiring a unit to
+3 publish notice of a certain award in eMaryland Marketplace Advantage; requiring
+4 the Department of General Services to adopt certain regulations; providing for the
+5 establishment of certain percentage goals for minority business enterprise
+6 participation and veteran–owned small business enterprise participation; and generally relating to
+7 competitive proof of concept procurements.
 
-3 BY repealing and reenacting, with amendments,
-4 Article – State Finance and Procurement
-5 Section 13–102(a), 13–116, 14–302(a)(2), and 14–602(b)
-6 Annotated Code of Maryland
-7 (2021 Replacement Volume and 2025 Supplement)
+8 BY repealing and reenacting, with amendments,
+9 Article – State Finance and Procurement
+10 Section 13–102(a), 13–116, 14–302(a)(2), and 14–602(b)
+11 Annotated Code of Maryland
+12 (2021 Replacement Volume and 2025 Supplement)
 
-8 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-9 That the Laws of Maryland read as follows:
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
 
-10 Article – State Finance and Procurement
+15 Article – State Finance and Procurement
 
-11 13–102.
+16 13–102.
 
-12 (a) The following procurement methods are authorized at the procurement
-13 officer’s discretion, where applicable:
+17 (a) The following procurement methods are authorized at the procurement
+18 officer’s discretion, where applicable:
 
-14 (1) competitive sealed bids under § 13–103 of this subtitle;
+19 (1) competitive sealed bids under § 13–103 of this subtitle;
 
-15 (2) competitive sealed proposals under § 13–104 or § 13–105 of this
-16 subtitle;
+20 (2) competitive sealed proposals under § 13–104 or § 13–105 of this
+21 subtitle;
 
-17 (3) noncompetitive negotiation under § 13–106 of this subtitle;
+22 (3) noncompetitive negotiation under § 13–106 of this subtitle;
 
-18 (4) sole source procurement under § 13–107 of this subtitle;
+23 (4) sole source procurement under § 13–107 of this subtitle;
 
-19 (5) emergency or expedited procurement under § 13–108 of this subtitle;
+24 (5) emergency or expedited procurement under § 13–108 of this subtitle;
 
-20 (6) small procurement under § 13–109 of this subtitle;
+25 (6) small procurement under § 13–109 of this subtitle;
 
-21 (7) an intergovernmental cooperative purchasing agreement under §
-22 13–110 of this subtitle;
+26 (7) an intergovernmental cooperative purchasing agreement under §
+27 13–110 of this subtitle;
 
-23 (8) auction bids under § 13–111 of this subtitle;
+28 (8) auction bids under § 13–111 of this subtitle;
 
-24 (9) architectural, engineering, and land surveying services qualification
-25 based selection under § 13–112 of this subtitle;
-
-26 (10) master contracting under § 13–113 of this subtitle; [or]
-
-27 (11) legislative fast–track procurements under § 13–117 of this subtitle; OR
-
-28 (12) COMPETITIVE PROOF OF CONCEPT PROCUREMENTS UNDER §
-29 13–116 OF THIS SUBTITLE.
+29 (9) architectural, engineering, and land surveying services qualification
+30 based selection under § 13–112 of this subtitle;
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 261 3
 
-1 13–116.
+1 (10) master contracting under § 13–113 of this subtitle; [or]
 
-2 (a) In this section, “proof of concept” means a test, evaluation, demonstration, or
-3 pilot project of a good, service, or technology in a real–world environment to evaluate
-4 whether the good, service, or technology can be successfully deployed and is beneficial to
-5 the State.
+2 (11) legislative fast–track procurements under § 13–117 of this subtitle; OR
 
-6 (b) (1) A competitive proof of concept procurement is a formal competitive
-7 procurement method that may be used to solicit proposals for the conduct of a proof of
-8 concept [prior to] AND PARTICIPATION IN SUBSEQUENT PHASES OF THE
-9 PROCUREMENT, INCLUDING full implementation OR DEPLOYMENT when the head of a
-10 unit determines the process to be appropriate and in the best interests of the unit,
-11 including:
+3 (12) COMPETITIVE PROOF OF CONCEPT PROCUREMENTS UNDER §
+4 13–116 OF THIS SUBTITLE.
 
-12 (i) testing software–as–a–service or off–the–shelf software;
+5 13–116.
 
-13 (ii) testing new, innovative products or services; or
+6 (a) In this section, “proof of concept” means a test, evaluation, demonstration, or
+7 pilot project of a good, service, or technology in a real–world environment to evaluate
+8 whether the good, service, or technology can be successfully deployed and is beneficial to
+9 the State.
 
-14 (iii) testing a product or service conceptualized or conceived of by a
-15 unit of State government.
+10 (b) (1) A competitive proof of concept procurement is a formal competitive
+11 procurement method that may be used to solicit proposals for the conduct of a proof of
+12 concept [prior to] AND PARTICIPATION IN SUBSEQUENT PHASES OF THE
+13 PROCUREMENT, INCLUDING full implementation OR DEPLOYMENT when the head of a
+14 unit determines the process to be appropriate and in the best interests of the unit,
+15 including:
 
-16 (2) (i) 1. After obtaining the approval of the head of the unit and
-17 before conducting a competitive proof of concept procurement, the unit shall obtain
-18 approval from [the Secretary of Information Technology, or the Secretary’s designee] THE
-19 CHIEF PROCUREMENT OFFICER, OR THE CHIEF PROCUREMENT OFFICER’S
-20 DESIGNEE.
+16 (i) testing software–as–a–service or off–the–shelf software;
 
-21 2. THE REQUEST FOR APPROVAL UNDER THIS
-22 SUBPARAGRAPH SHALL DEMONSTRATE THAT CONDUCTING A COMPETITIVE PROOF
-23 OF CONCEPT PROCUREMENT IS IN THE BEST INTEREST OF THE STATE.
+17 (ii) testing new, innovative products or services; or
 
-24 (II) IF THE PROCUREMENT IS FOR INFORMATION TECHNOLOGY,
-25 BEFORE CONDUCTING A COMPETITIVE PROOF OF CONCEPT PROCUREMENT, THE
-26 UNIT SHALL OBTAIN APPROVAL FROM THE SECRETARY OF INFORMATION
-27 TECHNOLOGY, OR THE SECRETARY’S DESIGNEE.
+18 (iii) testing a product or service conceptualized or conceived of by a
+19 unit of State government.
 
-28 [(ii)] (III) The Secretary of Information Technology may grant
-29 approval for a competitive proof of concept procurement FOR INFORMATION
-30 TECHNOLOGY if the unit:
+20 (2) (i) 1. After obtaining the approval of the head of the unit and
+21 before conducting a competitive proof of concept procurement, the unit shall obtain
+22 approval from [the Secretary of Information Technology, or the Secretary’s designee] THE
+23 CHIEF PROCUREMENT OFFICER, OR THE CHIEF PROCUREMENT OFFICER’S
+24 DESIGNEE.
 
-31 1. has sufficient internal resources to manage the proof of
-32 concept, including human capital, subject matter expertise, and technological
-33 infrastructure, or has the means to obtain these resources; and
+25 2. THE REQUEST FOR APPROVAL UNDER THIS
+26 SUBPARAGRAPH SHALL DEMONSTRATE THAT CONDUCTING A COMPETITIVE PROOF
+27 OF CONCEPT PROCUREMENT IS IN THE BEST INTEREST OF THE STATE.
+
+28 (II) IF THE PROCUREMENT IS FOR INFORMATION TECHNOLOGY,
+29 BEFORE CONDUCTING A COMPETITIVE PROOF OF CONCEPT PROCUREMENT, THE
+30 UNIT SHALL OBTAIN APPROVAL FROM THE SECRETARY OF INFORMATION
+31 TECHNOLOGY, OR THE SECRETARY’S DESIGNEE.
 END OF PAGE 3
 
 START OF PAGE 4
 4 HOUSE BILL 261
 
-1 2. enters into a memorandum of understanding with the
-2 Department of Information Technology that requires regular status updates, vendor
-3 capacity, and any other information necessary for the Department of Information
-4 Technology to evaluate whether the proof of concept can be successfully deployed and is
-5 beneficial to the State.
+1 [(ii)] (III) The Secretary of Information Technology may grant
+2 approval for a competitive proof of concept procurement FOR INFORMATION
+3 TECHNOLOGY if the unit:
 
-6 (c) (1) [A competitive proof of concept procurement may be conducted through
-7 the issuance of a solicitation by any method of procurement authorized under this Division
-8 II.
+4 1. has sufficient internal resources to manage the proof of
+5 concept, including human capital, subject matter expertise, and technological
+6 infrastructure, or has the means to obtain these resources; and
 
-9 (2)] A competitive proof of concept procurement solicitation shall include a
-10 statement of:
+7 2. enters into a memorandum of understanding with the
+8 Department of Information Technology that requires regular status updates, vendor
+9 capacity, and any other information necessary for the Department of Information
+10 Technology to evaluate whether the proof of concept can be successfully deployed and is
+11 beneficial to the State.
 
-11 (i) the scope of work, STATEMENT OF NEED, or project description,
-12 including the intended use, quantity, estimated time frame for the proof of concept, and
-13 anticipated number of proof of concept awards that will be made; and
+12 (c) (1) [A] competitive proof of concept procurement solicitation shall include a
+13 statement of:
 
-14 (ii) the factors, including price, that will be used AT EACH PHASE in
-15 evaluating proposals and the relative importance of each.
+14 (i) the scope of work, STATEMENT OF NEED, or project description,
+15 including the intended use, quantity, estimated time frame for the proof of concept, and
+16 anticipated number of proof of concept awards that will be made; and
 
-16 [(3)] (2) A solicitation may be distributed to vendors known to offer goods
-17 or services within the scope of the proof of concept and shall[, except for procurements
-18 under $15,000 not otherwise required by law to be posted,] be posted on eMaryland
-19 Marketplace Advantage[, in accordance with the policies and procedures under subsection
-20 (g) of this section].
+17 (ii) the factors, including price, that will be used AT EACH PHASE in
+18 evaluating proposals and the relative importance of each.
 
-21 (d) After receipt of proposals but before award of a procurement contract, a unit
-22 may:
+19 [(3)] (2) A solicitation may be distributed to vendors known to offer goods
+20 or services within the scope of the proof of concept and shall[, except for procurements
+21 under $15,000 not otherwise required by law to be posted,] be posted on eMaryland
+22 Marketplace Advantage[, in accordance with the policies and procedures under subsection
+23 (g) of this section].
 
-23 (1) conduct discussions with AND RECEIVE CLARIFICATIONS FROM an
-24 offeror [to ensure full understanding of:
+24 (d) After receipt of proposals but before award of a procurement contract, a unit
+25 may:
 
-25 (i) the requirements of the unit, as set forth in the request for
-26 proposals; and
+26 (1) conduct discussions with AND RECEIVE CLARIFICATIONS FROM an
+27 offeror [to ensure full understanding of:
 
-27 (ii) the proposal submitted by the offeror; and];
+28 (i) the requirements of the unit, as set forth in the request for
+29 proposals; and
 
-28 (2) request product samples for testing by the unit or a demonstration of a
-29 product or service and use these samples or demonstrations in its evaluation process; AND
-
-30 (3) ALLOW OFFERORS REASONABLY SUSCEPTIBLE OF BEING
-31 SELECTED FOR AWARD TO PARTICIPATE IN ALL SUBSEQUENT PHASES OF THE
-32 PROCUREMENT INCLUDING SUBMISSION OF BEST AND FINAL OFFERS.
+30 (ii) the proposal submitted by the offeror; and];
 END OF PAGE 4
 
 START OF PAGE 5
 HOUSE BILL 261 5
 
-1 (e) (1) A [request for] UNIT MAY ISSUE A CONTRACT TO EACH OFFEROR
-2 REASONABLY SUSCEPTIBLE OF BEING SELECTED FOR AWARD TO DELIVER product
-3 samples for testing or PROVIDE A demonstration made under subsection (d)(2) of this
-4 section [shall be issued to all offerors deemed reasonable at the time of the request].
+1 (2) request product samples for testing by the unit or a demonstration of a
+2 product or service and use these samples or demonstrations in its evaluation process; AND
 
-5 (2) A CONTRACT AWARDED UNDER THIS SUBSECTION DOES NOT
-6 PRECLUDE A VENDOR FROM CONTINUING TO PARTICIPATE IN SUBSEQUENT PHASES
-7 OF THE PROCUREMENT.
+3 (3) ALLOW OFFERORS REASONABLY SUSCEPTIBLE OF BEING
+4 SELECTED FOR AWARD TO PARTICIPATE IN ALL SUBSEQUENT PHASES OF THE
+5 PROCUREMENT INCLUDING SUBMISSION OF BEST AND FINAL OFFERS.
 
-8 (f) [A unit may award one or more of the proposals a contract for the proof of
-9 concept.
+6 (e) (1) A [request for] UNIT MAY ISSUE A CONTRACT TO EACH OFFEROR
+7 REASONABLY SUSCEPTIBLE OF BEING SELECTED FOR AWARD TO DELIVER product
+8 samples for testing or PROVIDE A demonstration made under subsection (d)(2) of this
+9 section [shall be issued to all offerors deemed reasonable at the time of the request].
 
-10 (g) A vendor awarded a proof of concept procurement shall be eligible to bid on a
-11 procurement to implement a proposal related to the proof of concept procurement] A UNIT
-12 MAY AWARD ONE OR MORE CONTRACTS FOR FULL IMPLEMENTATION OR
-13 DEPLOYMENT OF THE GOOD, SERVICE, OR TECHNOLOGY EVALUATED DURING THE
-14 PROOF OF CONCEPT IF IT IS IN THE BEST INTEREST OF THE STATE.
+10 (2) A CONTRACT AWARDED UNDER THIS SUBSECTION DOES NOT
+11 PRECLUDE A VENDOR FROM CONTINUING TO PARTICIPATE IN SUBSEQUENT PHASES
+12 OF THE PROCUREMENT.
 
-15 (G) A UNIT SHALL PUBLISH NOTICE OF A CONTRACT AWARDED UNDER THIS
-16 SECTION IN EXCESS OF THE SMALL PROCUREMENT AMOUNT SPECIFIED IN § 13–109
-17 OF THIS SUBTITLE IN EMARYLAND MARKETPLACE ADVANTAGE.
+13 (f) [A unit may award one or more of the proposals a contract for the proof of
+14 concept.
 
-18 (h) The Department of General Services, in consultation with the Department of
-19 Information Technology, shall adopt REGULATIONS, policies, and procedures for the
-20 development and implementation of competitive proof of concept procurements.
+15 (g) A vendor awarded a proof of concept procurement shall be eligible to bid on a
+16 procurement to implement a proposal related to the proof of concept procurement] A UNIT
+17 MAY AWARD ONE OR MORE CONTRACTS FOR FULL IMPLEMENTATION OR
+18 DEPLOYMENT OF THE GOOD, SERVICE, OR TECHNOLOGY EVALUATED DURING THE
+19 PROOF OF CONCEPT IF IT IS IN THE BEST INTEREST OF THE STATE.
 
-21 14–302.
+20 (G) A UNIT SHALL PUBLISH NOTICE OF A CONTRACT AWARDED UNDER THIS
+21 SECTION IN EXCESS OF THE SMALL PROCUREMENT AMOUNT SPECIFIED IN § 13–109
+22 OF THIS SUBTITLE IN EMARYLAND MARKETPLACE ADVANTAGE.
 
-22 (a) (2) (I) The Special Secretary for the Office of Small, Minority, and
-23 Women Business Affairs, in consultation with the Secretary of Transportation, the Chief
-24 Procurement Officer, and the Attorney General, shall establish guidelines for each unit to
-25 consider when determining the appropriate minority business enterprise participation
-26 percentage goal for a procurement contract in accordance with paragraph (3) of this
-27 subsection.
+23 (h) The Department of General Services, in consultation with the Department of
+24 Information Technology, shall adopt REGULATIONS, policies, and procedures for the
+25 development and implementation of competitive proof of concept procurements.
 
-28 (II) FOR A COMPETITIVE PROOF OF CONCEPT PROCUREMENT
-29 CONDUCTED UNDER § 13–116 OF THIS ARTICLE, THE MINORITY BUSINESS
-30 ENTERPRISE PARTICIPATION PERCENTAGE GOAL, IF ANY, SHALL BE ESTABLISHED
-31 AT A PHASE SPECIFIED IN THE SOLICITATION DOCUMENTS.
+26 14–302.
+
+27 (a) (2) (I) The Special Secretary for the Office of Small, Minority, and
+28 Women Business Affairs, in consultation with the Secretary of Transportation, the Chief
+29 Procurement Officer, and the Attorney General, shall establish guidelines for each unit to
+30 consider when determining the appropriate minority business enterprise participation
+31 percentage goal for a procurement contract in accordance with paragraph (3) of this
 END OF PAGE 5
 
 START OF PAGE 6
 6 HOUSE BILL 261
 
-9 14–602.
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 (3) A COMPETITIVE PROOF OF CONCEPT PROCUREMENT CONDUCTED
+10 UNDER § 13–116 OF THIS ARTICLE MAY BE EXEMPT FROM DESIGNATION UNDER
+11 PARAGRAPH (1) OF THIS SUBSECTION IF THE GOVERNOR’S OFFICE OF SMALL,
+12 MINORITY, AND WOMEN BUSINESS AFFAIRS DETERMINES THAT IT IS NOT
+13 PRACTICABLE TO DESIGNATE THE PROCUREMENT FOR THE SMALL BUSINESS
+14 RESERVE.
 
-10 (b) (1) [Solicitation] EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS
-11 SUBSECTION, SOLICITATION documents shall state the expected percentage of
-12 veteran–owned small business enterprise participation based, in part, on:
+15 14–602.
 
-13 [(1)] (I) the potential contracting opportunities available in the
-14 procurement contract, including both prime contracting and subcontracting opportunities,
-15 as determined through analysis of the scope of the work presented in the solicitation
-16 documents; and
+16 (b) (1) [Solicitation] EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS
+17 SUBSECTION, SOLICITATION documents shall state the expected percentage of
+18 veteran–owned small business enterprise participation based, in part, on:
 
-17 [(2)] (II) the availability of veteran–owned small business enterprises to
-18 respond competitively to the potential contracting opportunities.
+19 [(1)] (I) the potential contracting opportunities available in the
+20 procurement contract, including both prime contracting and subcontracting opportunities,
+21 as determined through analysis of the scope of the work presented in the solicitation
+22 documents; and
 
-19 (2) FOR A COMPETITIVE PROOF OF CONCEPT PROCUREMENT
-20 CONDUCTED UNDER § 13–116 OF THIS ARTICLE, THE EXPECTED PERCENTAGE OF
-21 VETERAN–OWNED SMALL BUSINESS ENTERPRISE PARTICIPATION, IF ANY, SHALL BE
-22 ESTABLISHED AT A PHASE SPECIFIED IN THE SOLICITATION DOCUMENTS.
+23 [(2)] (II) the availability of veteran–owned small business enterprises to
+24 respond competitively to the potential contracting opportunities.
 
-23 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
-24 1, 2026.
+25 (2) FOR A COMPETITIVE PROOF OF CONCEPT PROCUREMENT
+26 CONDUCTED UNDER § 13–116 OF THIS ARTICLE, THE EXPECTED PERCENTAGE OF
+27 VETERAN–OWNED SMALL BUSINESS ENTERPRISE PARTICIPATION, IF ANY, SHALL BE
+28 ESTABLISHED AT A PHASE SPECIFIED IN THE SOLICITATION DOCUMENTS.
 
-Approved:
-
-________________________________________________________________________________
-Governor.
-
-________________________________________________________________________________
-Speaker of the House of Delegates.
-
-________________________________________________________________________________
-President of the Senate.
+29 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+30 1, 2026.
 END OF PAGE 6
 </bill>

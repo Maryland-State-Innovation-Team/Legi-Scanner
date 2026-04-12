@@ -2,15 +2,24 @@
 START OF PAGE 1
 HOUSE BILL 936
 
-F3 6lr0853
+F3 (6lr0853)
+ENROLLED BILL
+— Ways and Means/Education, Energy, and the Environment —
+Introduced by Montgomery County Delegation
 
-By: Montgomery County Delegation
-Introduced and read first time: February 5, 2026
-Assigned to: Ways and Means
+Read and Examined by Proofreaders:
 
-Committee Report: Favorable
-House action: Adopted
-Read second time: March 2, 2026
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+
+Sealed with the Great Seal and presented to the Governor, for his approval this
+
+_______ day of _______________ at ________________________ o’clock, ________M.
+
+______________________________________________
+Speaker.
 
 CHAPTER ______
 
@@ -31,112 +40,103 @@ CHAPTER ______
 
 12 BY adding to
 13 Article – Education
-14 Section 4–148
-15 Annotated Code of Maryland
-16 (2025 Replacement Volume and 2025 Supplement)
-
-17 BY repealing and reenacting, without amendments,
-18 Article – State Finance and Procurement
-19 Section 14–701(a) through (d)
-20 Annotated Code of Maryland
-21 (2021 Replacement Volume and 2025 Supplement)
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
 [Brackets] indicate matter deleted from existing law.
 Underlining indicates amendments to bill.
 ~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
-amendment. *hb0936*
+amendment.
+Italics indicate opposite chamber/conference committee amendments.*hb0936*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 936
 
-1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-2 That the Laws of Maryland read as follows:
+1 Section 4–148
+2 Annotated Code of Maryland
+3 (2025 Replacement Volume and 2025 Supplement)
 
-3 Article – Education
+4 BY repealing and reenacting, without amendments,
+5 Article – State Finance and Procurement
+6 Section 14–701(a) through (d)
+7 Annotated Code of Maryland
+8 (2021 Replacement Volume and 2025 Supplement)
 
-4 4–148.
+9 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+10 That the Laws of Maryland read as follows:
 
-5 (A) THIS SECTION APPLIES ONLY IN MONTGOMERY COUNTY.
+11 Article – Education
 
-6 (B) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
-7 INDICATED.
+12 4–148.
 
-8 (2) “CERTIFIED CHESAPEAKE INVASIVE SPECIES PROVIDER” HAS
-9 THE MEANING STATED IN § 14–701 OF THE STATE FINANCE AND PROCUREMENT
-10 ARTICLE.
+13 (A) THIS SECTION APPLIES ONLY IN MONTGOMERY COUNTY.
 
-11 (3) “CERTIFIED LOCAL FARM” HAS THE MEANING STATED IN § 14–701
-12 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+14 (B) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+15 INDICATED.
 
-13 (C) ON OR BEFORE SEPTEMBER 1, 2027, THE MONTGOMERY COUNTY
-14 PUBLIC SCHOOL SYSTEM SHALL:
+16 (2) “CERTIFIED CHESAPEAKE INVASIVE SPECIES PROVIDER” HAS
+17 THE MEANING STATED IN § 14–701 OF THE STATE FINANCE AND PROCUREMENT
+18 ARTICLE.
 
-15 (1) IDENTIFY THE DOLLAR AMOUNTS OF FOOD PROCURED FOR
-16 SCHOOL MEALS IN THE 2026–2027 SCHOOL YEAR FROM CERTIFIED LOCAL FARMS
-17 AND CERTIFIED CHESAPEAKE INVASIVE SPECIES PROVIDERS; AND
+19 (3) “CERTIFIED LOCAL FARM” HAS THE MEANING STATED IN § 14–701
+20 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
 
-18 (2) PUBLISH THAT DATA ON THE SCHOOL SYSTEM’S WEBSITE.
+21 (C) ON OR BEFORE SEPTEMBER 1, 2027, THE MONTGOMERY COUNTY
+22 PUBLIC SCHOOL SYSTEM SHALL:
 
-19 (D) (1) THE MONTGOMERY COUNTY PUBLIC SCHOOL SYSTEM SHALL SET
-20 TARGET INCREASES FOR THE DOLLAR AMOUNT OF FOOD PROCURED FROM
-21 CERTIFIED LOCAL FARMS AND CERTIFIED CHESAPEAKE INVASIVE SPECIES
-22 PROVIDERS FOR THE 2028–2029, 2030–2031, 2031–2032, 2033–2034, AND
-23 2036–2037 SCHOOL YEARS USING THE DATA IDENTIFIED UNDER SUBSECTION (C) OF
-24 THIS SECTION AS A BASELINE.
+23 (1) IDENTIFY THE DOLLAR AMOUNTS OF FOOD PROCURED FOR
+24 SCHOOL MEALS IN THE 2026–2027 SCHOOL YEAR FROM CERTIFIED LOCAL FARMS
+25 AND CERTIFIED CHESAPEAKE INVASIVE SPECIES PROVIDERS; AND
 
-25 (2) THE SCHOOL SYSTEM, IN COORDINATION WITH THE OFFICE OF
-26 FOOD SYSTEMS RESILIENCE AND PUBLIC INPUT, SHALL ESTABLISH A PLAN TO
-27 MEET THE TARGET INCREASES ESTABLISHED UNDER PARAGRAPH (1) OF THIS
-28 SUBSECTION.
+26 (2) PUBLISH THAT DATA ON THE SCHOOL SYSTEM’S WEBSITE.
 
-29 Article – State Finance and Procurement
-
-30 14–701.
+27 (D) (1) THE MONTGOMERY COUNTY PUBLIC SCHOOL SYSTEM SHALL SET
+28 TARGET INCREASES FOR THE DOLLAR AMOUNT OF FOOD PROCURED FROM
+29 CERTIFIED LOCAL FARMS AND CERTIFIED CHESAPEAKE INVASIVE SPECIES
+30 PROVIDERS FOR THE 2028–2029, 2030–2031, 2031–2032, 2033–2034, AND
+31 2036–2037 SCHOOL YEARS USING THE DATA IDENTIFIED UNDER SUBSECTION (C) OF
+32 THIS SECTION AS A BASELINE.
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 936 3
 
-1 (a) In this subtitle the following words have the meanings indicated.
+1 (2) THE SCHOOL SYSTEM, IN COORDINATION WITH THE OFFICE OF
+2 FOOD SYSTEMS RESILIENCE AND PUBLIC INPUT, SHALL ESTABLISH A PLAN TO
+3 MEET THE TARGET INCREASES ESTABLISHED UNDER PARAGRAPH (1) OF THIS
+4 SUBSECTION.
 
-2 (b) “Certified Chesapeake invasive species” means a finfish species that is:
+5 Article – State Finance and Procurement
 
-3 (1) ranked as high priority in the Maryland Aquatic Nuisance Species
-4 Management Plan; and
+6 14–701.
 
-5 (2) harvested from the Chesapeake Bay or its tributaries.
+7 (a) In this subtitle the following words have the meanings indicated.
 
-6 (c) “Certified Chesapeake invasive species provider” means a person licensed and
-7 authorized as a seafood dealer under § 4–701 of the Natural Resources Article that:
+8 (b) “Certified Chesapeake invasive species” means a finfish species that is:
 
-8 (1) is certified by the Department in accordance with regulations adopted
-9 under this subtitle; and
+9 (1) ranked as high priority in the Maryland Aquatic Nuisance Species
+10 Management Plan; and
 
-10 (2) can demonstrate that the person’s product is a certified Chesapeake
-11 invasive species.
+11 (2) harvested from the Chesapeake Bay or its tributaries.
 
-12 (d) “Certified local farm” means a local farm enterprise that:
+12 (c) “Certified Chesapeake invasive species provider” means a person licensed and
+13 authorized as a seafood dealer under § 4–701 of the Natural Resources Article that:
 
-13 (1) meets the nutrient management requirements established under Title
-14 8, Subtitle 8 of the Agriculture Article; and
+14 (1) is certified by the Department in accordance with regulations adopted
+15 under this subtitle; and
 
-15 (2) is certified by the Department in accordance with regulations adopted
-16 under this subtitle.
+16 (2) can demonstrate that the person’s product is a certified Chesapeake
+17 invasive species.
 
-17 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
-18 1, 2026.
+18 (d) “Certified local farm” means a local farm enterprise that:
 
-Approved:
+19 (1) meets the nutrient management requirements established under Title
+20 8, Subtitle 8 of the Agriculture Article; and
 
-________________________________________________________________________________
-Governor.
+21 (2) is certified by the Department in accordance with regulations adopted
+22 under this subtitle.
 
-________________________________________________________________________________
-Speaker of the House of Delegates.
-
-________________________________________________________________________________
-President of the Senate.
+23 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+24 1, 2026.
 END OF PAGE 3
 </bill>

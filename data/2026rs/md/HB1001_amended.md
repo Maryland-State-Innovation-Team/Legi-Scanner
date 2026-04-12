@@ -1,4 +1,5 @@
 <bill>
+<bill>
 START OF PAGE 1
 HOUSE BILL 1001
 
@@ -18,29 +19,30 @@ CHAPTER ______
 1 AN ACT concerning
 
 2 Election Law – Authority at Polling
-3 Places – Revisions
+3 Places – Revisions, Early Voting Centers, and Counting Centers – Revisions
 
-4 FOR the purpose of requiring a police officer who is on duty at a polling place to obey the
-5 authority of a local election director; providing
-6 that in a polling place, a local election director has the authority to keep the peace and
-7 order the arrest of certain persons; requiring a local election director, while serving in a
-8 polling place, to protect certain rights of certain challengers and watchers;
-9 authorizing a local election director, while serving in a polling place, to deny
-10 admission of, and eject certain challengers and watchers from a polling place under
-11 certain circumstances; altering the persons that may designate a registered voter as
-12 an accredited challenger or watcher at each polling place; authorizing certain
-13 persons to designate accredited challengers or watchers at early voting centers; and
-14 generally relating to the authority of individuals at polling
-15 places and early voting centers.
+4 For the purpose of requiring a police officer who is on duty at a polling place to obey the
+5 authority of the State Administrator, the Deputy State Administrator, or a local election director; providing
+6 that, in a polling place, a local election director has
+7 the authority to keep the peace and order the arrest of certain persons;
+8 requiring a local election director, while serving in a
+9 polling place, to protect certain challengers and watchers;
+10 authorizing a local election director, while serving in a polling place, to
+11 deny admission of and eject certain challengers and watchers from a polling place under
+12 certain circumstances; altering the persons that may designate a registered voter as
+13 an accredited challenger or watcher at each polling place; authorizing certain
+14 persons to designate accredited challengers or watchers at early voting centers; altering the persons that may designate a registered voter as an observer at each counting center; and
+15 generally relating to the authority of individuals at polling
+16 places and early voting centers, early voting centers, and counting centers.
 
-16 BY repealing and reenacting, with amendments,
-17 Article – Election Law
-18 Section 10–304 and 10–311
-19 Annotated Code of Maryland
-20 (2022 Replacement Volume and 2025 Supplement)
+17 BY repealing and reenacting, with amendments,
+18 Article – Election Law
+19 Section 10–304, 10–311, and 11–301(a–1)(2)
+20 Annotated Code of Maryland
+21 (2022 Replacement Volume and 2025 Supplement)
 
-21 BY adding to
-22 Article – Election Law
+22 BY adding to
+23 Article – Election Law
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
 [Brackets] indicate matter deleted from existing law.
@@ -56,6 +58,12 @@ START OF PAGE 2
 2 Annotated Code of Maryland
 3 (2022 Replacement Volume and 2025 Supplement)
 
+BY repealing and reenacting, without amendments,
+Article – Election Law
+Section 11–301(a–1)(1)
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
+
 4 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
 5 That the Laws of Maryland read as follows:
 
@@ -64,37 +72,36 @@ START OF PAGE 2
 7 10–304.
 
 8 (a) (1) A police officer who is on duty at a polling place shall obey the order of
-9 an election judge for that polling place OR A LOCAL ELECTION DIRECTOR.
+9 an election judge for that polling place, THE STATE ADMINISTRATOR, THE DEPUTY STATE ADMINISTRATOR, OR A LOCAL ELECTION DIRECTOR.
 
-10 (2) A police officer making an arrest under an order of an election judge OR
-11 A LOCAL ELECTION DIRECTOR is fully protected in so
-12 doing as if the police officer received a valid warrant to make the arrest.
+11 (2) A police officer making an arrest under an order of an election judge, THE STATE ADMINISTRATOR, THE DEPUTY STATE ADMINISTRATOR, OR
+12 A LOCAL ELECTION DIRECTOR is fully protected in so
+13 doing as if the police officer received a valid warrant to make the arrest.
 
-13 (b) A police officer who is on duty at a polling place shall protect a challenger or
-14 watcher in the discharge of the duties of the challenger or watcher.
+14 (b) A police officer who is on duty at a polling place shall protect a challenger or
+15 watcher in the discharge of the duties of the challenger or watcher.
 
-15 10–307.1.
+16 10–307.1.
 
-16 (A) IN IN A POLLING PLACE, A LOCAL ELECTION DIRECTOR HAS THE AUTHORITY TO:
+17 (A) IN A POLLING PLACE, THE STATE ADMINISTRATOR, THE DEPUTY STATE ADMINISTRATOR, OR A LOCAL ELECTION DIRECTOR HAS THE AUTHORITY TO:
 
-17 (1) KEEP THE PEACE; AND
+19 (1) KEEP THE PEACE; AND
 
-18 (2) ORDER THE ARREST OF ANY PERSON WHO:
+20 (2) ORDER THE ARREST OF ANY PERSON WHO:
 
-19 (I) BREACHES THE PEACE;
+21 (I) BREACHES THE PEACE;
 
-20 (II) BREACHES ANY PROVISION OF THIS ARTICLE; OR
+22 (II) BREACHES ANY PROVISION OF THIS ARTICLE; OR
 
-21 (III) INTERFERES WITH THE WORK OF THE ELECTION JUDGES IN
-22 CONDUCTING THE ELECTION AND CARRYING OUT THEIR ASSIGNED TASKS.
+23 (III) INTERFERES WITH THE WORK OF THE ELECTION JUDGES IN
+24 CONDUCTING THE ELECTION AND CARRYING OUT THEIR ASSIGNED TASKS.
 
-23 (B) (1) WHILE SERVING IN A POLLING PLACE, A LOCAL ELECTION DIRECTOR
-24 SHALL PROTECT A CHALLENGER OR WATCHER IN THE
-25 EXERCISE OF THE RIGHTS OF A CHALLENGER OR WATCHER AS PROVIDED IN §
-26 10–311 OF THIS SUBTITLE.
+25 (B) (1) WHILE SERVING IN A POLLING PLACE, A LOCAL ELECTION DIRECTOR SHALL PROTECT A CHALLENGER OR WATCHER IN THE
+27 EXERCISE OF THE RIGHTS OF A CHALLENGER OR WATCHER AS PROVIDED IN §
+28 10–311 OF THIS SUBTITLE.
 
-27 (2) (I) A LOCAL ELECTION DIRECTOR IS NOT
-28 REQUIRED TO ADMIT A CHALLENGER OR WATCHER TO A POLLING PLACE BEFORE
+29 (2) (I) A LOCAL ELECTION DIRECTOR IS NOT
+30 REQUIRED TO ADMIT A CHALLENGER OR WATCHER TO A POLLING PLACE BEFORE
 END OF PAGE 2
 
 START OF PAGE 3
@@ -105,7 +112,7 @@ HOUSE BILL 1001 3
 
 3 (II) A LOCAL ELECTION DIRECTOR MAY
 4 REQUIRE CHALLENGERS AND WATCHERS TO LEAVE A POLLING PLACE BEFORE IT
-5 OPENS IF THE LOCAL BOARD EMPLOYEE HAS REASON TO BELIEVE THAT THE
+5 OPENS IF THE LOCAL ELECTION DIRECTOR HAS REASON TO BELIEVE THAT THE
 6 PRESENCE OF THE CHALLENGERS AND WATCHERS WILL PREVENT THE TIMELY
 7 OPENING OF THE POLLING PLACE.
 
@@ -194,31 +201,49 @@ START OF PAGE 4
 26 (iv) physically handle an original election document OR VOTING
 27 EQUIPMENT.
 
-28 (2) An election judge OR A LOCAL ELECTION DIRECTOR may eject a
-29 challenger or watcher who violates the prohibitions under paragraph (1) of this
-30 subsection.
+28 (2) An election judge OR A LOCAL ELECTION
+29 DIRECTOR may eject a challenger or watcher who violates the prohibitions under
+30 paragraph (1) of this subsection.
 
 31 (e) (1) Except as provided in paragraphs (2) and (3) of this subsection, an
 32 election judge shall [permit] ALLOW an individual other than an accredited challenger or
 33 watcher who desires to challenge the right to vote of any other individual to enter the
 34 polling place OR EARLY VOTING CENTER for that purpose.
 
-35 (2) A majority of the election judges OR A LOCAL ELECTION DIRECTOR
-36 may limit the number of nonaccredited challengers and watchers allowed in the polling
-37 place OR EARLY VOTING CENTER at any one time for the purpose of challenging the
-38 right of an individual to vote.
+35 (2) A majority of the election judges OR A LOCAL ELECTION
+36 DIRECTOR may limit the number of nonaccredited challengers and watchers
+37 allowed in the polling place OR EARLY VOTING CENTER at any one time for the purpose
+38 of challenging the right of an individual to vote.
 
 39 (3) A nonaccredited challenger or watcher shall leave the polling place OR
 40 EARLY VOTING CENTER as soon as a majority of the election judges OR A LOCAL
-41 ELECTION DIRECTOR decides the right to vote of the individual challenged by the
-42 challenger or watcher.
+41 ELECTION DIRECTOR decides the right to vote of the individual challenged
+42 by the challenger or watcher.
 
 43 (4) In addition to restrictions provided under this subsection, all
 44 restrictions on the actions of an accredited challenger or watcher provided under this
 45 subtitle apply to a nonaccredited challenger or watcher.
+END OF PAGE 4
 
-46 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
-47 1, 2026.
+START OF PAGE 5
+HOUSE BILL 1001 5
+
+11–301.
+
+(a–1) (1) Subject to paragraph (3) of this subsection, a board of canvassers and the staff of a local board may be observed as they complete each part of the canvass by authorized observers designated under paragraph (2) of this subsection and any other individuals who wish to be present.
+
+(2) The following [individuals or entities] PERSONS have the right to designate a registered voter as an observer at each counting center:
+
+(i) a candidate FOR ANY COUNTY WHERE THE CANDIDATE IS INCLUDED ON THE BALLOT;
+
+(ii) a political party; [and]
+
+(iii) [any other group of voters supporting or opposing a candidate, principle, or proposition on the ballot] A POLITICAL COMMITTEE; AND
+
+(IV) A PERSON REQUIRED TO FILE REPORTS UNDER § 13–306 OR § 13–307 OF THIS ARTICLE.
+
+19 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+20 1, 2026.
 
 Approved:
 
@@ -230,5 +255,6 @@ Speaker of the House of Delegates.
 
 ________________________________________________________________________________
 President of the Senate.
-END OF PAGE 4
+END OF PAGE 5
+</bill>
 </bill>

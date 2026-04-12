@@ -2,15 +2,25 @@
 START OF PAGE 1
 HOUSE BILL 1230
 
-L5 6lr1161
+L5 (6lr1161)
+ENROLLED BILL
+— Environment and Transportation/Education, Energy, and the Environment —
+Introduced by Prince George’s County Delegation and Montgomery County
+Delegation
 
-By: Prince George’s County Delegation and Montgomery County Delegation
-Introduced and read first time: February 11, 2026
-Assigned to: Environment and Transportation
+Read and Examined by Proofreaders:
 
-Committee Report: Favorable with amendments
-House action: Adopted
-Read second time: March 6, 2026
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+
+Sealed with the Great Seal and presented to the Governor, for his approval this
+
+_______ day of _______________ at ________________________ o’clock, ________M.
+
+______________________________________________
+Speaker.
 
 CHAPTER ______
 
@@ -30,315 +40,333 @@ CHAPTER ______
 11 accept as a registered vendor any ~~person~~ business that is registered as a vendor with
 12 another jurisdiction or has self–certified as a vendor in a certain manner; authorizing
 13 the Commission to adopt certain regulations to promote workforce engagement and
-14 local economic benefits; and generally relating to procurement by the Washington
-15 Suburban Sanitary Commission.
-
-16 BY repealing and reenacting, with amendments,
-17 Article – Public Utilities
-18 Section 20–201, 20–203, and 20–301 through 20–304
-19 Annotated Code of Maryland
-20 (2025 Replacement Volume and 2025 Supplement)
-
-21 BY adding to
-22 Article – Public Utilities
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
 [Brackets] indicate matter deleted from existing law.
 Underlining indicates amendments to bill.
 ~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
-amendment. *hb1230*
+amendment.
+Italics indicate opposite chamber/conference committee amendments.*hb1230*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 1230
 
-1 Section 20–401 to be under the new subtitle “Subtitle 4. ~~Vendor~~ ~~Registration”~~
-2 Workforce and Local Economic Benefits”
-3 Annotated Code of Maryland
-4 (2025 Replacement Volume and 2025 Supplement)
+1 local economic benefits; and generally relating to procurement by the Washington
+2 Suburban Sanitary Commission.
 
-5 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-6 That the Laws of Maryland read as follows:
+3 BY repealing and reenacting, with amendments,
+4 Article – Public Utilities
+5 Section 20–201, 20–203, and 20–301 through 20–304
+6 Annotated Code of Maryland
+7 (2025 Replacement Volume and 2025 Supplement)
 
-7 Article – Public Utilities
+8 BY adding to
+9 Article – Public Utilities
+10 Section 20–401 to be under the new subtitle “Subtitle 4. ~~Vendor~~ ~~Registration”~~
+11 Workforce and Local Economic Benefits”
+12 Annotated Code of Maryland
+13 (2025 Replacement Volume and 2025 Supplement)
 
-8 20–201.
+14 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+15 That the Laws of Maryland read as follows:
 
-9 (a) In this subtitle the following words have the meanings indicated.
+16 Article – Public Utilities
 
-10 (b) “Minority business enterprise” has the meaning stated in § 14–301 of the State
-11 Finance and Procurement Article.
+17 20–201.
 
-12 (c) “Office” means the Office [of Supplier Diversity and Inclusion] established
-13 under § 20–203 of this subtitle.
+18 (a) In this subtitle the following words have the meanings indicated.
 
-14 20–203.
+19 (b) “Minority business enterprise” has the meaning stated in § 14–301 of the State
+20 Finance and Procurement Article.
 
-15 (a) There is an Office [of Supplier Diversity and Inclusion in the Commission]
-16 ESTABLISHED WITHIN THE COMMISSION THAT SHALL BE RESPONSIBLE FOR:
+21 (c) “Office” means the Office [of Supplier Diversity and Inclusion] established
+22 under § 20–203 of this subtitle.
 
-17 (1) ADMINISTERING EACH OF THE BUSINESS PARTICIPATION AND
-18 VENDOR DEVELOPMENT PROGRAMS FOR COMMISSION CONTRACTS AND
-19 SUBCONTRACTS; AND
+23 20–203.
 
-20 (2) MONITORING COMPLIANCE WITH PARTICIPATION
-21 REQUIREMENTS FOR THE PROGRAMS ESTABLISHED ADMINISTERING PROGRAMS
-22 ESTABLISHED UNDER THIS SUBTITLE AND SUBTITLE 3 OF THIS TITLE.
+24 (a) There is an Office [of Supplier Diversity and Inclusion in the Commission]
+25 ESTABLISHED WITHIN THE COMMISSION THAT SHALL BE RESPONSIBLE FOR:
 
-23 (b) THE COMMISSION SHALL ADOPT REGULATIONS ESTABLISHING THE
-24 NAME OF THE OFFICE.
+26 (1) ADMINISTERING EACH OF THE BUSINESS PARTICIPATION AND
+27 VENDOR DEVELOPMENT PROGRAMS FOR COMMISSION CONTRACTS AND
+28 SUBCONTRACTS; AND
 
-25 (C) The [head of the Office is the] OFFICE SHALL BE HEADED BY A Director [of
-26 Supplier Diversity and Inclusion].
+29 (2) MONITORING COMPLIANCE WITH PARTICIPATION
+30 REQUIREMENTS FOR THE PROGRAMS ESTABLISHED ADMINISTERING PROGRAMS
+31 ESTABLISHED UNDER THIS SUBTITLE AND SUBTITLE 3 OF THIS TITLE.
 
-27 (c) THE COMMISSION MAY PROVIDE A NAME FOR THE OFFICE
-28 ESTABLISHED UNDER THIS SECTION.
-
-29 (D) The Office shall:
+32 (b) THE COMMISSION SHALL ADOPT REGULATIONS ESTABLISHING THE
+33 NAME OF THE OFFICE.
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 1230 3
 
-1 (1) administer each Commission program that is created to remedy
-2 discrimination against minority business enterprises and promote the participation of local
-3 OR small business enterprises OR OTHER BUSINESS ENTERPRISES THAT SUPPORT THE
-4 ECONOMIC OUTCOMES OF SMALL BUSINESSES THAT DO BUSINESS WITH THE
-5 COMMISSION, including:
+1 (C) The [head of the Office is the] OFFICE SHALL BE HEADED BY A Director [of
+2 Supplier Diversity and Inclusion].
 
-6 (i) the minority business enterprise utilization program under §
-7 20–204 of this subtitle; and
+3 (c) THE COMMISSION MAY PROVIDE A NAME FOR THE OFFICE
+4 ESTABLISHED UNDER THIS SECTION.
 
-8 (ii) the [local small] business enterprise PARTICIPATION program
-9 ESTABLISHED under Subtitle 3 of this title;
+5 (D) The Office shall:
 
-10 (2) promote and coordinate the plans, programs, and operations of the
-11 Commission to remedy discrimination against minority business enterprises and the effects
-12 of discrimination;
+6 (1) administer each Commission program that is created to remedy
+7 discrimination against minority business enterprises and promote the participation of local
+8 OR small business enterprises OR OTHER BUSINESS ENTERPRISES THAT SUPPORT THE
+9 ECONOMIC OUTCOMES OF SMALL BUSINESSES THAT DO BUSINESS WITH THE
+10 COMMISSION, including:
 
-13 (3) promote activities and the use of the resources of the Commission, local
-14 governments, and private entities to remedy discrimination against minority business
-15 enterprises and the effects of discrimination; [and]
+11 (i) the minority business enterprise utilization program under §
+12 20–204 of this subtitle; and
 
-16 (4) ensure compliance with certified minority business enterprise
-17 subcontract participation goals under § 20–206 of this subtitle; AND
+13 (ii) the [local small] business enterprise PARTICIPATION program
+14 ESTABLISHED under Subtitle 3 of this title;
 
-18 (5) PROMOTE, ENCOURAGE, AND SUPPORT INCREASED BUSINESS
-19 PARTICIPATION AND ECONOMIC OUTCOMES IN COMMISSION CONTRACTS AND
-20 ~~SUBCONTRACTS.~~
+15 (2) promote and coordinate the plans, programs, and operations of the
+16 Commission to remedy discrimination against minority business enterprises and the effects
+17 of discrimination;
 
-21 20–301.
+18 (3) promote activities and the use of the resources of the Commission, local
+19 governments, and private entities to remedy discrimination against minority business
+20 enterprises and the effects of discrimination; [and]
 
-22 In this subtitle, “program” means a local, small, OR OTHER business enterprise
-23 ~~program.~~
+21 (4) ensure compliance with certified minority business enterprise
+22 subcontract participation goals under § 20–206 of this subtitle; AND
 
-24 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
-25 INDICATED.
+23 (5) PROMOTE, ENCOURAGE, AND SUPPORT INCREASED BUSINESS
+24 PARTICIPATION AND ECONOMIC OUTCOMES IN COMMISSION CONTRACTS AND
+25 ~~SUBCONTRACTS.~~
 
-26 (B) “DISABLED VETERAN–OWNED BUSINESS” MEANS A BUSINESS THAT IS
-27 AT LEAST 51% OWNED AND CONTROLLED BY ONE OR MORE INDIVIDUALS CERTIFIED
-28 BY THE U.S. DEPARTMENT OF VETERANS AFFAIRS AS HAVING A
-29 SERVICE–CONNECTED DISABILITY REGARDLESS OF THE DISABILITY RATING.
+26 20–301.
 
-30 (C) “LOCAL BUSINESS” MEANS A BUSINESS WITH:
+27 In this subtitle, “program” means a local, small, OR OTHER business enterprise
+28 ~~program.~~
 
-31 (1) A PRINCIPAL PLACE OF BUSINESS IN MONTGOMERY COUNTY OR
-32 PRINCE GEORGE’S COUNTY; OR
+29 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
+30 INDICATED.
 END OF PAGE 3
 
 START OF PAGE 4
 4 HOUSE BILL 1230
 
-1 (2) AT LEAST 25% OF THE EMPLOYEES OF THE BUSINESS DOMICILED
-2 IN MONTGOMERY COUNTY OR PRINCE GEORGE’S COUNTY.
+1 (B) “DISABLED VETERAN–OWNED BUSINESS” MEANS A BUSINESS THAT IS
+2 AT LEAST 51% OWNED AND CONTROLLED BY ONE OR MORE INDIVIDUALS CERTIFIED
+3 BY THE U.S. DEPARTMENT OF VETERANS AFFAIRS AS HAVING A
+4 SERVICE–CONNECTED DISABILITY REGARDLESS OF THE DISABILITY RATING.
 
-3 (D) “LOCAL SMALL BUSINESS” MEANS A BUSINESS THAT QUALIFIES AS
-4 BOTH:
+5 (C) “LOCAL BUSINESS” MEANS A BUSINESS WITH:
 
-5 (1) A LOCAL BUSINESS; AND
+6 (1) A PRINCIPAL PLACE OF BUSINESS IN MONTGOMERY COUNTY OR
+7 PRINCE GEORGE’S COUNTY; OR
 
-6 (2) A SMALL BUSINESS.
+8 (2) AT LEAST 25% OF THE EMPLOYEES OF THE BUSINESS DOMICILED
+9 IN MONTGOMERY COUNTY OR PRINCE GEORGE’S COUNTY.
 
-7 (E) “MARYLAND–BASED BUSINESS” MEANS A BUSINESS THAT HAS ITS
-8 PRINCIPAL PLACE OF BUSINESS IN THE STATE.
+10 (D) “LOCAL SMALL BUSINESS” MEANS A BUSINESS THAT QUALIFIES AS
+11 BOTH:
 
-9 (F) “PROGRAM” MEANS THE BUSINESS PARTICIPATION PROGRAM
-10 ESTABLISHED UNDER § 20–302 OF THIS SUBTITLE.
+12 (1) A LOCAL BUSINESS; AND
 
-11 (G) “SMALL BUSINESS” MEANS A BUSINESS THAT MEETS CRITERIA
-12 ESTABLISHED BY REGULATIONS ADOPTED IN ACCORDANCE WITH § 14–203 OF THE
-13 STATE FINANCE AND PROCUREMENT ARTICLE.
+13 (2) A SMALL BUSINESS.
 
-14 (H) “VETERAN–OWNED BUSINESS” MEANS A BUSINESS THAT IS AT LEAST
-15 51% OWNED AND CONTROLLED BY ONE OR MORE INDIVIDUALS WHO ARE VETERANS
-16 AS DEFINED IN 38 U.S.C. § 101.
+14 (E) “MARYLAND–BASED BUSINESS” MEANS A BUSINESS THAT HAS ITS
+15 PRINCIPAL PLACE OF BUSINESS IN THE STATE.
 
-17 20–302.
+16 (F) “PROGRAM” MEANS THE BUSINESS PARTICIPATION PROGRAM
+17 ESTABLISHED UNDER § 20–302 OF THIS SUBTITLE.
 
-18 (a) By resolution or adopting regulations, the Commission may establish a local,
-19 small, OR OTHER business enterprise program BUSINESS PARTICIPATION PROGRAM IN
-20 ACCORDANCE WITH THIS SUBTITLE.
+18 (G) “SMALL BUSINESS” MEANS A BUSINESS THAT MEETS CRITERIA
+19 ESTABLISHED BY REGULATIONS ADOPTED IN ACCORDANCE WITH § 14–203 OF THE
+20 STATE FINANCE AND PROCUREMENT ARTICLE.
 
-21 (b) The Office [of Supplier Diversity and Inclusion,] established under IN
-22 ACCORDANCE WITH § 20–203 of this title[,] shall administer the program.
+21 (H) “VETERAN–OWNED BUSINESS” MEANS A BUSINESS THAT IS AT LEAST
+22 51% OWNED AND CONTROLLED BY ONE OR MORE INDIVIDUALS WHO ARE VETERANS
+23 AS DEFINED IN 38 U.S.C. § 101.
 
-23 20–303.
+24 20–302.
 
-24 The purpose of the program is to assist [small] LOCAL businesses in Montgomery
-25 County and Prince George’s County, SMALL BUSINESSES, OR OTHER BUSINESSES THAT
-26 FURTHER THE COMMISSION’S CONTRACTING, SUBCONTRACTING, AND ECONOMIC
-27 OBJECTIVES BUSINESSES ELIGIBLE TO PARTICIPATE IN THE PROGRAM, WITH PREFERENCE BEING GIVEN TO LOCAL SMALL BUSINESSES AND LOCAL BUSINESSES, by:
+25 (a) By resolution or adopting regulations, the Commission may establish a local,
+26 small, OR OTHER business enterprise program BUSINESS PARTICIPATION
+27 PROGRAM, WITH PREFERENCE BEING GIVEN TO LOCAL SMALL BUSINESSES AND LOCAL BUSINESSES, IN ACCORDANCE WITH THIS SUBTITLE.
 
-28 (1) establishing a sheltered market or other appropriate preference; or
+28 (b) The Office [of Supplier Diversity and Inclusion,] established under IN
+29 ACCORDANCE WITH § 20–203 of this title[,] shall administer the program.
 
-29 (2) facilitating the award of Commission construction contracts or
-30 procurement contracts for goods and services to [small]:
+30 20–303.
 END OF PAGE 4
 
 START OF PAGE 5
 HOUSE BILL 1230 5
 
-1 (I) LOCAL businesses in Montgomery County and Prince George’s
-2 County;
+1 The purpose of the program is to assist [small] LOCAL businesses in Montgomery
+2 County and Prince George’s County, SMALL BUSINESSES, OR OTHER BUSINESSES THAT
+3 FURTHER THE COMMISSION’S CONTRACTING, SUBCONTRACTING, AND ECONOMIC
+4 OBJECTIVES BUSINESSES ELIGIBLE TO PARTICIPATE IN THE PROGRAM, WITH
+5 PREFERENCE BEING GIVEN TO LOCAL SMALL BUSINESSES AND LOCAL BUSINESSES,
+6 by:
 
-3 (II) SMALL BUSINESSES; OR
+7 (1) establishing a sheltered market or other appropriate preference; or
 
-4 (III) OTHER BUSINESSES THAT FURTHER THE COMMISSION’S
-5 CONTRACTING, SUBCONTRACTING, AND ECONOMIC OBJECTIVES ELIGIBLE
-6 BUSINESSES.
+8 (2) facilitating the award of Commission construction contracts or
+9 procurement contracts for goods and services to [small]:
 
-7 20–304.
+10 (I) LOCAL businesses in Montgomery County and Prince George’s
+11 County;
 
-8 (a) ~~The~~ ~~Commission~~ ~~shall~~ ~~adopt:~~
+12 (II) SMALL BUSINESSES; OR
 
-9 (1) [eligibility criteria for businesses to qualify for the program, including:
+13 (III) OTHER BUSINESSES THAT FURTHER THE COMMISSION’S
+14 CONTRACTING, SUBCONTRACTING, AND ECONOMIC OBJECTIVES ELIGIBLE
+15 BUSINESSES.
 
-10 ~~(i)~~ ~~the~~ ~~criteria~~ ~~for~~ ~~a~~ ~~small~~ ~~business~~ ~~qualifying~~ ~~under~~ ~~the~~ ~~Small~~
-11 ~~Business~~ ~~Preference~~ ~~Program~~ ~~as~~ ~~established~~ ~~in~~ ~~regulations~~ ~~adopted~~ ~~by~~ ~~the~~ ~~Department~~ ~~of~~
-12 ~~General~~ ~~Services~~ ~~under~~ ~~§~~ ~~14–203~~ ~~of~~ ~~the~~ ~~State~~ ~~Finance~~ ~~and~~ ~~Procurement~~ ~~Article;~~
+16 20–304.
 
-13 ~~(ii)~~ ~~a~~ ~~requirement~~ ~~that:~~
+17 (a) ~~The~~ ~~Commission~~ ~~shall~~ ~~adopt:~~
 
-14 ~~1.~~ ~~the~~ ~~business’s~~ ~~principal~~ ~~place~~ ~~of~~ ~~business~~ ~~be~~ ~~in~~
-15 ~~Montgomery~~ ~~County~~ ~~or~~ ~~Prince~~ ~~George’s~~ ~~County;~~ ~~or~~
+18 (1) [eligibility criteria for businesses to qualify for the program, including:
 
-16 ~~2.~~ ~~at~~ ~~least~~ ~~25%~~ ~~of~~ ~~the~~ ~~total~~ ~~number~~ ~~of~~ ~~employees~~ ~~of~~ ~~the~~
-17 ~~business~~ ~~be~~ ~~domiciled~~ ~~in~~ ~~Montgomery~~ ~~County~~ ~~or~~ ~~Prince~~ ~~George’s~~ ~~County;~~ ~~and~~
+19 ~~(i)~~ ~~the~~ ~~criteria~~ ~~for~~ ~~a~~ ~~small~~ ~~business~~ ~~qualifying~~ ~~under~~ ~~the~~ ~~Small~~
+20 ~~Business~~ ~~Preference~~ ~~Program~~ ~~as~~ ~~established~~ ~~in~~ ~~regulations~~ ~~adopted~~ ~~by~~ ~~the~~ ~~Department~~ ~~of~~
+21 ~~General~~ ~~Services~~ ~~under~~ ~~§~~ ~~14–203~~ ~~of~~ ~~the~~ ~~State~~ ~~Finance~~ ~~and~~ ~~Procurement~~ ~~Article;~~
 
-18 (iii) any other] eligibility criteria that the Commission determines to
-19 be necessary or appropriate for the promotion of [small] businesses in the Commission’s
-20 service area, SMALL BUSINESSES, OR OTHER BUSINESSES THAT FURTHER THE
-21 COMMISSION’S CONTRACTING, SUBCONTRACTING, AND ECONOMIC OBJECTIVES
-22 THE FOLLOWING BUSINESSES ARE ELIGIBLE TO PARTICIPATE IN THE PROGRAM:
+22 ~~(ii)~~ ~~a~~ ~~requirement~~ ~~that:~~
 
-23 (1) A LOCAL BUSINESS;
+23 ~~1.~~ ~~the~~ ~~business’s~~ ~~principal~~ ~~place~~ ~~of~~ ~~business~~ ~~be~~ ~~in~~
+24 ~~Montgomery~~ ~~County~~ ~~or~~ ~~Prince~~ ~~George’s~~ ~~County;~~ ~~or~~
 
-24 (2) A SMALL BUSINESS;
+25 ~~2.~~ ~~at~~ ~~least~~ ~~25%~~ ~~of~~ ~~the~~ ~~total~~ ~~number~~ ~~of~~ ~~employees~~ ~~of~~ ~~the~~
+26 ~~business~~ ~~be~~ ~~domiciled~~ ~~in~~ ~~Montgomery~~ ~~County~~ ~~or~~ ~~Prince~~ ~~George’s~~ ~~County;~~ ~~and~~
 
-25 (3) A LOCAL SMALL BUSINESS;
-
-26 (4) A MARYLAND–BASED BUSINESS;
-
-27 (5) A DISABLED VETERAN–OWNED BUSINESS THAT IS:
-
-28 (I) A LOCAL BUSINESS;
+27 (iii) any other] eligibility criteria that the Commission determines to
+28 be necessary or appropriate for the promotion of [small] businesses in the Commission’s
+29 service area, SMALL BUSINESSES, OR OTHER BUSINESSES THAT FURTHER THE
+30 COMMISSION’S CONTRACTING, SUBCONTRACTING, AND ECONOMIC OBJECTIVES
+31 THE FOLLOWING BUSINESSES ARE ELIGIBLE TO PARTICIPATE IN THE PROGRAM:
 END OF PAGE 5
 
 START OF PAGE 6
 6 HOUSE BILL 1230
 
-1 (II) A SMALL BUSINESS;
+1 (1) A LOCAL BUSINESS;
 
-2 (III) A LOCAL SMALL BUSINESS; OR
+2 (2) A SMALL BUSINESS;
 
-3 (IV) A MARYLAND–BASED BUSINESS; AND
+3 (3) A LOCAL SMALL BUSINESS;
 
-4 (6) A VETERAN–OWNED BUSINESS THAT IS:
+4 (4) A MARYLAND–BASED BUSINESS;
 
-5 (I) A LOCAL BUSINESS;
+5 (5) A DISABLED VETERAN–OWNED BUSINESS THAT IS:
 
-6 (II) A SMALL BUSINESS;
+6 (I) A LOCAL BUSINESS;
 
-7 (III) A LOCAL SMALL BUSINESS; OR
+7 (II) A SMALL BUSINESS;
 
-8 (IV) A MARYLAND–BASED BUSINESS.
+8 (III) A LOCAL SMALL BUSINESS; OR
 
-9 (B) THE COMMISSION SHALL ADOPT:
+9 (IV) A MARYLAND–BASED BUSINESS; AND
 
-10 (1) ANY OTHER ELIGIBILITY CRITERIA THE COMMISSION
-11 DETERMINES TO BE NECESSARY OR APPROPRIATE FOR THE PROMOTION OF THE
-12 BUSINESSES SPECIFIED UNDER SUBSECTION (A) OF THIS SECTION; and
+10 (6) A VETERAN–OWNED BUSINESS THAT IS:
 
-13 (2) administrative procedures for conducting the program.
+11 (I) A LOCAL BUSINESS;
 
-14 (b) (C) A AN ELIGIBLE business may qualify as a local OR small business
-15 enterprise under TO PARTICIPATE IN the program without regard to the race, ethnicity,
-16 or gender of the participants in the business.
+12 (II) A SMALL BUSINESS;
 
-17 (c) (D) The Commission shall establish criteria for graduation from the
-18 program for a AN ELIGIBLE [local small] business that the Commission determines no
-19 longer requires the assistance or benefits offered by the program.
+13 (III) A LOCAL SMALL BUSINESS; OR
 
-20 (d) (E) The Commission shall review the eligibility criteria and administrative
-21 procedures of the program each year to assess their effectiveness in furthering the purposes
-22 of the program.
+14 (IV) A MARYLAND–BASED BUSINESS.
 
-23 (F) THE COMMISSION MAY ACCEPT AS A REGISTERED VENDOR ELIGIBLE TO
-24 PARTICIPATE IN THE PROGRAM ANY BUSINESS THAT:
+15 (B) THE COMMISSION SHALL ADOPT:
 
-25 (1) IS A REGISTERED VENDOR THROUGH A VENDOR REGISTRATION
-26 PROCESS IN ANOTHER JURISDICTION; OR
+16 (1) ANY OTHER ELIGIBILITY CRITERIA THE COMMISSION
+17 DETERMINES TO BE NECESSARY OR APPROPRIATE FOR THE PROMOTION OF THE
+18 BUSINESSES SPECIFIED UNDER SUBSECTION (A) OF THIS SECTION; and
 
-27 (2) SELF–CERTIFIES AS A VENDOR IN ACCORDANCE WITH
-28 REGULATIONS ADOPTED BY THE COMMISSION.
+19 (2) administrative procedures for conducting the program.
+
+20 (b) (C) A AN ELIGIBLE business may qualify as a local OR small business
+21 enterprise under TO PARTICIPATE IN the program without regard to the race, ethnicity,
+22 or gender of the participants in the business.
+
+23 (c) (D) The Commission shall establish criteria for graduation from the
+24 program for a AN ELIGIBLE [local small] business that the Commission determines no
+25 longer requires the assistance or benefits offered by the program.
 END OF PAGE 6
 
 START OF PAGE 7
 HOUSE BILL 1230 7
 
-1 (G) NOTHING IN THIS SECTION MAY BE CONSTRUED TO REQUIRE A
-2 SOLICITATION ISSUED BY THE COMMISSION TO INCLUDE EVERY CATEGORY OF
-3 ELIGIBLE BUSINESS.
+1 (d) (E) The Commission shall review the eligibility criteria and administrative
+2 procedures of the program each year to assess their effectiveness in furthering the purposes
+3 of the program.
 
-4 SUBTITLE 4. VENDOR REGISTRATION.
+4 (F) THE COMMISSION MAY ACCEPT AS A REGISTERED VENDOR ELIGIBLE TO
+5 PARTICIPATE IN THE PROGRAM ANY BUSINESS THAT:
 
-5 20–401.
+6 (1) IS A REGISTERED VENDOR THROUGH A VENDOR REGISTRATION
+7 PROCESS IN ANOTHER JURISDICTION; OR
 
-6 (A) THE COMMISSION MAY ACCEPT AS A REGISTERED VENDOR FOR THE
-7 COMMISSION ANY PERSON THAT:
+8 (2) SELF–CERTIFIES AS A VENDOR IN ACCORDANCE WITH
+9 REGULATIONS ADOPTED BY THE COMMISSION.
 
-8 (1) IS REGISTERED AS A VENDOR THROUGH A VENDOR REGISTRATION
-9 PROCESS IN ANOTHER JURISDICTION; OR
+10 (G) NOTHING IN THIS SECTION MAY BE CONSTRUED TO REQUIRE A
+11 SOLICITATION ISSUED BY THE COMMISSION TO INCLUDE EVERY CATEGORY OF
+12 ELIGIBLE BUSINESS.
 
-10 (2) SELF–CERTIFIES AS A VENDOR IN ACCORDANCE WITH
-11 REGULATIONS ADOPTED BY THE COMMISSION.
+13 SUBTITLE 4. VENDOR REGISTRATION.
 
-12 (B) THE COMMISSION MAY ADOPT REGULATIONS TO CARRY OUT THIS
-13 SECTION.
+14 20–401.
 
-14 SUBTITLE 4. WORKFORCE AND LOCAL ECONOMIC BENEFITS.
+15 (A) THE COMMISSION MAY ACCEPT AS A REGISTERED VENDOR FOR THE
+16 COMMISSION ANY PERSON THAT:
 
-15 20–401.
+17 (1) IS REGISTERED AS A VENDOR THROUGH A VENDOR REGISTRATION
+18 PROCESS IN ANOTHER JURISDICTION; OR
 
-16 THE COMMISSION MAY ADOPT REGULATIONS TO PROMOTE IN THE
-17 COMMISSION’S CONTRACTS WORKFORCE ENGAGEMENT AND LOCAL ECONOMIC
-18 BENEFITS WITHIN THE COMMISSION’S SERVICE DISTRICT, INCLUDING
-19 ESTABLISHING DEFINITIONS AND STANDARDS FOR CONTRACTOR GOOD FAITH
-20 EFFORTS REGARDING:
+19 (2) SELF–CERTIFIES AS A VENDOR IN ACCORDANCE WITH
+20 REGULATIONS ADOPTED BY THE COMMISSION.
 
-21 (1) LOCAL HIRING AND RECRUITMENT;
+21 (B) THE COMMISSION MAY ADOPT REGULATIONS TO CARRY OUT THIS
+22 SECTION.
 
-22 (2) SKILLS TRAINING, PRE–APPRENTICESHIP, AND APPRENTICESHIP
-23 PARTICIPATION OR SUPPORT; AND
+23 SUBTITLE 4. WORKFORCE AND LOCAL ECONOMIC BENEFITS.
 
-24 (3) DATA REPORTING ON WORKFORCE RESIDENCY OR LOCAL
-25 ECONOMIC ACTIVITY.
+24 20–401.
 
-26 SECTION 2. AND BE IT FURTHER ENACTED, That this Act may not be
-27 interpreted to amend, expand, limit, or otherwise affect the Minority Business Enterprise
-28 Program of the Washington Suburban Sanitary Commission.
+25 THE COMMISSION MAY ADOPT REGULATIONS TO PROMOTE IN THE
+26 COMMISSION’S CONTRACTS WORKFORCE ENGAGEMENT AND LOCAL ECONOMIC
+27 BENEFITS WITHIN THE COMMISSION’S SERVICE DISTRICT, INCLUDING
+28 ESTABLISHING DEFINITIONS AND STANDARDS FOR CONTRACTOR GOOD FAITH
+29 EFFORTS REGARDING:
 
-29 SECTION ~~2.~~ 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
-30 October 1, 2026.
+30 (1) LOCAL HIRING AND RECRUITMENT;
 END OF PAGE 7
+
+START OF PAGE 8
+8 HOUSE BILL 1230
+
+1 (2) SKILLS TRAINING, PRE–APPRENTICESHIP, AND APPRENTICESHIP
+2 PARTICIPATION OR SUPPORT; AND
+
+3 (3) DATA REPORTING ON WORKFORCE RESIDENCY OR LOCAL
+4 ECONOMIC ACTIVITY.
+
+5 SECTION 2. AND BE IT FURTHER ENACTED, That this Act may not be
+6 interpreted to amend, expand, limit, or otherwise affect the Minority Business Enterprise
+7 Program of the Washington Suburban Sanitary Commission.
+
+8 SECTION ~~2.~~ 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+9 October 1, 2026.
+
+Approved:
+
+________________________________________________________________________________
+Governor.
+
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+________________________________________________________________________________
+President of the Senate.
+END OF PAGE 8
 </bill>

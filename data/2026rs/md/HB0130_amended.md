@@ -1,4 +1,5 @@
 <bill>
+<bill>
 START OF PAGE 1
 HOUSE BILL 130
 
@@ -22,13 +23,7 @@ CHAPTER ______
 2 ~~Criminal~~ ~~Law~~ ~~–~~ ~~Deed~~ ~~Fraud~~ ~~–~~ ~~Prohibition,~~ ~~Deed~~ ~~Fraud~~ ~~Prevention~~ ~~Grant~~ ~~Fund,~~
 3 ~~and~~ Task Force to Study Deed Fraud
 
-4 FOR the purpose of ~~prohibiting~~ ~~the~~ ~~intentional~~ ~~fraudulent~~ ~~sale,~~ ~~conveyance,~~ ~~or~~ ~~lease~~ ~~or~~
-5 ~~attempted~~ ~~sale,~~ ~~conveyance,~~ ~~or~~ ~~lease~~ ~~of~~ ~~real~~ ~~property~~ ~~by~~ ~~a~~ ~~person~~ ~~who~~ ~~does~~ ~~not~~ ~~own~~
-6 ~~the~~ ~~real~~ ~~property;~~ ~~prohibiting~~ ~~the~~ ~~acquisition,~~ ~~sale,~~ ~~or~~ ~~conveyance~~ ~~or~~ ~~the~~ ~~attempted~~
-7 ~~acquisition,~~ ~~sale,~~ ~~or~~ ~~conveyance~~ ~~of~~ ~~real~~ ~~property~~ ~~by~~ ~~deception,~~ ~~intimidation,~~ ~~threat,~~
-8 ~~or~~ ~~undue~~ ~~influence;~~ ~~establishing~~ ~~the~~ ~~Deed~~ ~~Fraud~~ ~~Prevention~~ ~~Grant~~ ~~Fund;~~
-9 establishing the Task Force to Study Deed Fraud; and generally relating to deed
-10 fraud.
+4 FOR the delete prohibition, deed fraud prevention grant fund, and task force to study deed fraud; and generally relating to deed fraud.
 
 11 ~~BY~~ ~~adding~~ ~~to~~
 12 ~~Article~~ ~~–~~ ~~Courts~~ ~~and~~ ~~Judicial~~ ~~Proceedings~~
@@ -96,15 +91,15 @@ START OF PAGE 2
 
 35 ~~5–106.~~
 
-36 (KK) A PROSECUTION FOR A VIOLATION OF § 8–906(C) OF THE CRIMINAL
-37 LAW ARTICLE SHALL BE INSTITUTED WITHIN 1 YEAR AFTER THE VICTIM OF THE
+36 ~~(KK)~~ ~~A~~ ~~PROSECUTION~~ ~~FOR~~ ~~A~~ ~~VIOLATION~~ ~~OF~~ ~~§~~ ~~8–906(C)~~ ~~OF~~ ~~THE~~ ~~CRIMINAL~~
+37 ~~LAW~~ ~~ARTICLE~~ ~~SHALL~~ ~~BE~~ ~~INSTITUTED~~ ~~WITHIN~~ ~~1~~ ~~YEAR~~ ~~AFTER~~ ~~THE~~ ~~VICTIM~~ ~~OF~~ ~~THE~~
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 130 3
 
-1 OFFENSE KNEW OR REASONABLY SHOULD HAVE KNOWN THAT THE FRAUD
-2 OCCURRED.
+1 ~~OFFENSE~~ ~~KNEW~~ ~~OR~~ ~~REASONABLY~~ ~~SHOULD~~ ~~HAVE~~ ~~KNOWN~~ ~~THAT~~ ~~THE~~ ~~FRAUD~~
+2 ~~OCCURRED.~~
 
 3 ~~Article~~ ~~–~~ ~~Criminal~~ ~~Law~~
 
@@ -117,30 +112,30 @@ HOUSE BILL 130 3
 
 8 ~~(2)~~ ~~check;~~
 
-9 (3) [deed;
+9 ~~(3)~~ ~~[deed;~~
 
-10 (4)] draft;
+10 ~~ (4)]~~ ~~draft;~~
 
-11 [(5)] (4) endorsement or assignment of a bond, draft, check, or promissory
+11 ~~ [(5)]~~ ~~(4)~~ ~~endorsement~~ ~~or~~ ~~assignment~~ ~~of~~ ~~a~~ ~~bond,~~ ~~draft,~~ ~~check,~~ ~~or~~ ~~promissory~~
 12 ~~note;~~
 
-13 [(6)] (5) entry in an account book or ledger;
+13 ~~ [(6)]~~ ~~(5)~~ ~~entry~~ ~~in~~ ~~an~~ ~~account~~ ~~book~~ ~~or~~ ~~ledger;~~
 
-14 [(7)] (6) letter of credit;
+14 ~~ [(7)]~~ ~~(6)~~ ~~letter~~ ~~of~~ ~~credit;~~
 
-15 [(8)] (7) negotiable instrument;
+15 ~~ [(8)]~~ ~~(7)~~ ~~negotiable~~ ~~instrument;~~
 
-16 [(9)] (8) power of attorney;
+16 ~~ [(9)]~~ ~~(8)~~ ~~power~~ ~~of~~ ~~attorney;~~
 
-17 [(10)] (9) promissory note;
+17 ~~ [(10)]~~ ~~(9)~~ ~~promissory~~ ~~note;~~
 
-18 [(11)] (10) release or discharge for money or property;
+18 ~~ [(11)]~~ ~~(10)~~ ~~release~~ ~~or~~ ~~discharge~~ ~~for~~ ~~money~~ ~~or~~ ~~property;~~
 
-19 [(12)] (11) title to a motor vehicle;
+19 ~~ [(12)]~~ ~~(11)~~ ~~title~~ ~~to~~ ~~a~~ ~~motor~~ ~~vehicle;~~
 
-20 [(13)] (12) waiver or release of mechanics’ lien; or
+20 ~~ [(13)]~~ ~~(12)~~ ~~waiver~~ ~~or~~ ~~release~~ ~~of~~ ~~mechanics’~~ ~~lien;~~ ~~or~~
 
-21 [(14)] (13) will or codicil.
+21 ~~ [(14)]~~ ~~(13)~~ ~~will~~ ~~or~~ ~~codicil.~~
 
 22 ~~(b)~~ ~~A~~ ~~person~~ ~~may~~ ~~not~~ ~~knowingly,~~ ~~willfully,~~ ~~and~~ ~~with~~ ~~fraudulent~~ ~~intent~~ ~~possess~~ ~~a~~
 23 ~~counterfeit~~ ~~of~~ ~~any~~ ~~of~~ ~~the~~ ~~items~~ ~~listed~~ ~~in~~ ~~subsection~~ ~~(a)~~ ~~of~~ ~~this~~ ~~section.~~
@@ -163,7 +158,7 @@ START OF PAGE 4
 
 7 ~~(1)~~ ~~an~~ ~~element~~ ~~of~~ ~~the~~ ~~crime~~ ~~occurred;~~
 
-8 (2) the [deed or other] alleged counterfeit instrument is recorded in the
+8 ~~(2)~~ ~~the~~ ~~[deed~~ ~~or~~ ~~other]~~ ~~alleged~~ ~~counterfeit~~ ~~instrument~~ ~~is~~ ~~recorded~~ ~~in~~ ~~the~~
 9 ~~county~~ ~~land~~ ~~records,~~ ~~filed~~ ~~with~~ ~~the~~ ~~clerk~~ ~~of~~ ~~the~~ ~~circuit~~ ~~court,~~ ~~or~~ ~~filed~~ ~~with~~ ~~the~~ ~~register~~ ~~of~~
 10 ~~wills;~~
 
@@ -171,66 +166,66 @@ START OF PAGE 4
 
 12 ~~(4)~~ ~~if~~ ~~the~~ ~~victim~~ ~~is~~ ~~not~~ ~~an~~ ~~individual,~~ ~~the~~ ~~victim~~ ~~conducts~~ ~~business.~~
 
-13 8–906.
+13 ~~8–906.~~
 
-14 (A) A PERSON, WITH INTENT TO DEFRAUD ANOTHER, MAY NOT:
+14 ~~(A)~~ ~~A~~ ~~PERSON,~~ ~~WITH~~ ~~INTENT~~ ~~TO~~ ~~DEFRAUD~~ ~~ANOTHER,~~ ~~MAY~~ ~~NOT:~~
 
-15 (1) CLAIM TO SELL OR CONVEY OR ATTEMPT TO SELL OR CONVEY
-16 REAL PROPERTY THAT THE GRANTOR DOES NOT OWN;
+15 ~~(1)~~ ~~CLAIM~~ ~~TO~~ ~~SELL~~ ~~OR~~ ~~CONVEY~~ ~~OR~~ ~~ATTEMPT~~ ~~TO~~ ~~SELL~~ ~~OR~~ ~~CONVEY~~
+16 ~~REAL~~ ~~PROPERTY~~ ~~THAT~~ ~~THE~~ ~~GRANTOR~~ ~~DOES~~ ~~NOT~~ ~~OWN;~~
 
-17 (2) CLAIM TO SELL OR CONVEY OR ATTEMPT TO SELL OR CONVEY
-18 REAL PROPERTY THAT THE GRANTOR LACKS SUFFICIENT AUTHORITY TO TRANSFER;
+17 ~~(2)~~ ~~CLAIM~~ ~~TO~~ ~~SELL~~ ~~OR~~ ~~CONVEY~~ ~~OR~~ ~~ATTEMPT~~ ~~TO~~ ~~SELL~~ ~~OR~~ ~~CONVEY~~
+18 ~~REAL~~ ~~PROPERTY~~ ~~THAT~~ ~~THE~~ ~~GRANTOR~~ ~~LACKS~~ ~~SUFFICIENT~~ ~~AUTHORITY~~ ~~TO~~ ~~TRANSFER;~~
 
-19 (3) CLAIM TO LEASE OR ATTEMPT TO LEASE REAL PROPERTY THAT
-20 BELONGS TO ANOTHER;
+19 ~~(3)~~ ~~CLAIM~~ ~~TO~~ ~~LEASE~~ ~~OR~~ ~~ATTEMPT~~ ~~TO~~ ~~LEASE~~ ~~REAL~~ ~~PROPERTY~~ ~~THAT~~
+20 ~~BELONGS~~ ~~TO~~ ~~ANOTHER;~~
 
-21 (4) OBTAIN OR ATTEMPT TO OBTAIN, OR SELL OR CONVEY, OR
-22 ATTEMPT TO SELL OR CONVEY THE REAL PROPERTY OF ANOTHER THROUGH THE
-23 EXECUTION OF A DEED BY THE RIGHTFUL OWNER OF THE PROPERTY BY DECEPTION,
-24 INTIMIDATION, THREAT, OR UNDUE INFLUANCE;
+21 ~~(4)~~ ~~OBTAIN~~ ~~OR~~ ~~ATTEMPT~~ ~~TO~~ ~~OBTAIN,~~ ~~OR~~ ~~SELL~~ ~~OR~~ ~~CONVEY,~~ ~~OR~~
+22 ~~ATTEMPT~~ ~~TO~~ ~~SELL~~ ~~OR~~ ~~CONVEY~~ ~~THE~~ ~~REAL~~ ~~PROPERTY~~ ~~OF~~ ~~ANOTHER~~ ~~THROUGH~~ ~~THE~~
+23 ~~EXECUTION~~ ~~OF~~ ~~A~~ ~~DEED~~ ~~BY~~ ~~THE~~ ~~RIGHTFUL~~ ~~OWNER~~ ~~OF~~ ~~THE~~ ~~PROPERTY~~ ~~BY~~ ~~DECEPTION,~~
+24 ~~INTIMIDATION,~~ ~~THREAT,~~ ~~OR~~ ~~UNDUE~~ ~~INFLUENCE;~~
 
-25 (5) COUNTERFEIT A DEED OR CAUSE A DEED TO BE COUNTERFEITED;
-26 OR
+25 ~~(5)~~ ~~COUNTERFEIT~~ ~~A~~ ~~DEED~~ ~~OR~~ ~~CAUSE~~ ~~A~~ ~~DEED~~ ~~TO~~ ~~BE~~ ~~COUNTERFEITED;~~
+26 ~~OR~~
 
-27 (6) RECORD A DEED OR CAUSE A DEED TO BE RECORDED IN
-28 FURTHERANCE OF A VIOLATION OF THIS SECTION.
+27 ~~(6)~~ ~~RECORD~~ ~~A~~ ~~DEED~~ ~~OR~~ ~~CAUSE~~ ~~A~~ ~~DEED~~ ~~TO~~ ~~BE~~ ~~RECORDED~~ ~~IN~~
+28 ~~FURTHERANCE~~ ~~OF~~ ~~A~~ ~~VIOLATION~~ ~~OF~~ ~~THIS~~ ~~SECTION.~~
 
-29 (B) A PERSON MAY NOT AID OR ASSIST ANOTHER IN A VIOLATION OF
-30 SUBSECTION (A) OF THIS SECTION.
+29 ~~(B)~~ ~~A~~ ~~PERSON~~ ~~MAY~~ ~~NOT~~ ~~AID~~ ~~OR~~ ~~ASSIST~~ ~~ANOTHER~~ ~~IN~~ ~~A~~ ~~VIOLATION~~ ~~OF~~
+30 ~~SUBSECTION~~ ~~(A)~~ ~~OF~~ ~~THIS~~ ~~SECTION.~~
 END OF PAGE 4
 
 START OF PAGE 5
 HOUSE BILL 130 5
 
-1 (C) A PERSON MAY NOT KNOWINGLY, WILLFULLY, AND WITH FRAUDULENT
-2 INTENT POSSESS A COUNTERFEIT DEED.
+1 ~~(C)~~ ~~A~~ ~~PERSON~~ ~~MAY~~ ~~NOT~~ ~~KNOWINGLY,~~ ~~WILLFULLY,~~ ~~AND~~ ~~WITH~~ ~~FRAUDULENT~~
+2 ~~INTENT~~ ~~POSSESS~~ ~~A~~ ~~COUNTERFEIT~~ ~~DEED.~~
 
-3 (D) (1) A PERSON WHO VIOLATES SUBSECTION (A) OR (B) OF THIS
-4 SECTION IS GUILTY OF A FELONY AND ON CONVICTION IS SUBJECT TO
-5 IMPRISONMENT NOT EXCEEDING 10 YEARS OR A FINE NOT EXCEEDING $7,500 OR
-6 BOTH.
+3 ~~(D)~~ ~~(1)~~ ~~A~~ ~~PERSON~~ ~~WHO~~ ~~VIOLATES~~ ~~SUBSECTION~~ ~~(A)~~ ~~OR~~ ~~(B)~~ ~~OF~~ ~~THIS~~
+4 ~~SECTION~~ ~~IS~~ ~~GUILTY~~ ~~OF~~ ~~A~~ ~~FELONY~~ ~~AND~~ ~~ON~~ ~~CONVICTION~~ ~~IS~~ ~~SUBJECT~~ ~~TO~~
+5 ~~IMPRISONMENT~~ ~~NOT~~ ~~EXCEEDING~~ ~~10~~ ~~YEARS~~ ~~OR~~ ~~A~~ ~~FINE~~ ~~NOT~~ ~~EXCEEDING~~ ~~$7,500~~ ~~OR~~
+6 ~~BOTH.~~
 
-7 (2) A PERSON WHO VIOLATES SUBSECTION (C) OF THIS SECTION IS
-8 GUILTY OF A MISDEMEANOR AND ON CONVICTION IS SUBJECT TO IMPRISONMENT
-9 NOT EXCEEDING 3 YEARS OR A FINE NOT EXCEEDING $7,500 OR BOTH.
+7 ~~(2)~~ ~~A~~ ~~PERSON~~ ~~WHO~~ ~~VIOLATES~~ ~~SUBSECTION~~ ~~(C)~~ ~~OF~~ ~~THIS~~ ~~SECTION~~ ~~IS~~
+8 ~~GUILTY~~ ~~OF~~ ~~A~~ ~~MISDEMEANOR~~ ~~AND~~ ~~ON~~ ~~CONVICTION~~ ~~IS~~ ~~SUBJECT~~ ~~TO~~ ~~IMPRISONMENT~~
+9 ~~NOT~~ ~~EXCEEDING~~ ~~3~~ ~~YEARS~~ ~~OR~~ ~~A~~ ~~FINE~~ ~~NOT~~ ~~EXCEEDING~~ ~~$7,500~~ ~~OR~~ ~~BOTH.~~
 
-10 (E) NOTWITHSTANDING ANY OTHER PROVISION OF LAW, THE PROSECUTION
-11 OF AN ALLEGED VIOLATION OF THIS SECTION OR FOR AN ALLEGED VIOLATION OF A
-12 CRIME BASED ON AN ACT THAT ESTABLISHES A VIOLATION OF THIS SECTION MAY BE
-13 COMMENCED IN ANY COUNTY IN WHICH:
+10 ~~(E)~~ ~~NOTWITHSTANDING~~ ~~ANY~~ ~~OTHER~~ ~~PROVISION~~ ~~OF~~ ~~LAW,~~ ~~THE~~ ~~PROSECUTION~~
+11 ~~OF~~ ~~AN~~ ~~ALLEGED~~ ~~VIOLATION~~ ~~OF~~ ~~THIS~~ ~~SECTION~~ ~~OR~~ ~~FOR~~ ~~AN~~ ~~ALLEGED~~ ~~VIOLATION~~ ~~OF~~ ~~A~~
+12 ~~CRIME~~ ~~BASED~~ ~~ON~~ ~~AN~~ ~~ACT~~ ~~THAT~~ ~~ESTABLISHES~~ ~~A~~ ~~VIOLATION~~ ~~OF~~ ~~THIS~~ ~~SECTION~~ ~~MAY~~ ~~BE~~
+13 ~~COMMENCED~~ ~~IN~~ ~~ANY~~ ~~COUNTY~~ ~~IN~~ ~~WHICH:~~
 
-14 (1) AN ELEMENT OF THE CRIME OCCURRED;
+14 ~~(1)~~ ~~AN~~ ~~ELEMENT~~ ~~OF~~ ~~THE~~ ~~CRIME~~ ~~OCCURRED;~~
 
-15 (2) THE DEED IS RECORDED IN THE COUNTY LAND RECORDS;
+15 ~~(2)~~ ~~THE~~ ~~DEED~~ ~~IS~~ ~~RECORDED~~ ~~IN~~ ~~THE~~ ~~COUNTY~~ ~~LAND~~ ~~RECORDS;~~
 
-16 (3) THE VICTIM RESIDES; OR
+16 ~~(3)~~ ~~THE~~ ~~VICTIM~~ ~~RESIDES;~~ ~~OR~~
 
-17 (4) IF THE VICTIM IS NOT AN INDIVIDUAL, THE VICTIM CONDUCTS
-18 BUSINESS.
+17 ~~(4)~~ ~~IF~~ ~~THE~~ ~~VICTIM~~ ~~IS~~ ~~NOT~~ ~~AN~~ ~~INDIVIDUAL,~~ ~~THE~~ ~~VICTIM~~ ~~CONDUCTS~~
+18 ~~BUSINESS.~~
 
-19 (F) FINES COLLECTED UNDER THIS SECTION SHALL BE PAID INTO THE
-20 DEED FRAUD PREVENTION GRANT FUND UNDER § 2–802 OF THE PUBLIC SAFETY
-21 ARTICLE.
+19 ~~(F)~~ ~~FINES~~ ~~COLLECTED~~ ~~UNDER~~ ~~THIS~~ ~~SECTION~~ ~~SHALL~~ ~~BE~~ ~~PAID~~ ~~INTO~~ ~~THE~~
+20 ~~DEED~~ ~~FRAUD~~ ~~PREVENTION~~ ~~GRANT~~ ~~FUND~~ ~~UNDER~~ ~~§~~ ~~2–802~~ ~~OF~~ ~~THE~~ ~~PUBLIC~~ ~~SAFETY~~
+21 ~~ARTICLE.~~
 
 22 ~~Article~~ ~~–~~ ~~Public~~ ~~Safety~~
 
@@ -238,10 +233,10 @@ HOUSE BILL 130 5
 
 24 ~~(a)~~ ~~(1)~~ ~~The~~ ~~Department~~ ~~shall~~ ~~collect,~~ ~~analyze,~~ ~~and~~ ~~disseminate:~~
 
-25 (i) information about the incidence of crime in the State,
-26 INCLUDING DISAGGREGATED INFORMATION ON INCIDENTS OF FRAUD WITH
-27 SPECIFIC INFORMATION ON VIOLATIONS OF § 8–906 OF THE CRIMINAL LAW
-28 ARTICLE; and
+25 ~~(i)~~ ~~information~~ ~~about~~ ~~the~~ ~~incidence~~ ~~of~~ ~~crime~~ ~~in~~ ~~the~~ ~~State,~~
+26 ~~INCLUDING~~ ~~DISAGGREGATED~~ ~~INFORMATION~~ ~~ON~~ ~~INCIDENTS~~ ~~OF~~ ~~FRAUD~~ ~~WITH~~
+27 ~~SPECIFIC~~ ~~INFORMATION~~ ~~ON~~ ~~VIOLATIONS~~ ~~OF~~ ~~§~~ ~~8–906~~ ~~OF~~ ~~THE~~ ~~CRIMINAL~~ ~~LAW~~
+28 ~~ARTICLE;~~ ~~and~~
 
 29 ~~(ii)~~ ~~information,~~ ~~including~~ ~~race~~ ~~and~~ ~~sex,~~ ~~on~~ ~~the~~ ~~total~~ ~~number~~ ~~of~~ ~~law~~
 30 ~~enforcement~~ ~~employees,~~ ~~de–identified~~ ~~and~~ ~~disaggregated~~ ~~by:~~
@@ -271,87 +266,87 @@ START OF PAGE 6
 13 ~~(4)~~ ~~The~~ ~~Department~~ ~~shall~~ ~~make~~ ~~quarterly~~ ~~reports~~ ~~to~~ ~~the~~ ~~Commission~~ ~~on~~
 14 ~~Civil~~ ~~Rights~~ ~~about~~ ~~the~~ ~~information~~ ~~described~~ ~~in~~ ~~paragraph~~ ~~(1)~~ ~~of~~ ~~this~~ ~~subsection.~~
 
-15 SUBTITLE 8. DEED FRAUD PREVENTION GRANT FUND.
+15 ~~SUBTITLE~~ ~~8.~~ ~~DEED~~ ~~FRAUD~~ ~~PREVENTION~~ ~~GRANT~~ ~~FUND.~~
 
-16 2–801.
+16 ~~2–801.~~
 
-17 (A) IN THIS SUBTITLE THE FOLLOWING WORDS HAVE THE MEANINGS
-18 INDICATED.
+17 ~~(A)~~ ~~IN~~ ~~THIS~~ ~~SUBTITLE~~ ~~THE~~ ~~FOLLOWING~~ ~~WORDS~~ ~~HAVE~~ ~~THE~~ ~~MEANINGS~~
+18 ~~INDICATED.~~
 
-19 (B) “DEED FRAUD” MEANS A VIOLATION OF § 8–906 OF THE CRIMINAL LAW
-20 ARTICLE.
+19 ~~(B)~~ ~~“DEED~~ ~~FRAUD”~~ ~~MEANS~~ ~~A~~ ~~VIOLATION~~ ~~OF~~ ~~§~~ ~~8–906~~ ~~OF~~ ~~THE~~ ~~CRIMINAL~~ ~~LAW~~
+20 ~~ARTICLE.~~
 
-21 (C) “FUND” MEANS THE DEED FRAUD PREVENTION GRANT FUND.
+21 ~~(C)~~ ~~“FUND”~~ ~~MEANS~~ ~~THE~~ ~~DEED~~ ~~FRAUD~~ ~~PREVENTION~~ ~~GRANT~~ ~~FUND.~~
 
-22 2–802.
+22 ~~2–802.~~
 
-23 (A) THERE IS A DEED FRAUD PREVENTION GRANT FUND.
+23 ~~(A)~~ ~~THERE~~ ~~IS~~ ~~A~~ ~~DEED~~ ~~FRAUD~~ ~~PREVENTION~~ ~~GRANT~~ ~~FUND.~~
 
-24 (B) THE PURPOSE OF THE FUND IS TO PROVIDE GRANTS TO:
+24 ~~(B)~~ ~~THE~~ ~~PURPOSE~~ ~~OF~~ ~~THE~~ ~~FUND~~ ~~IS~~ ~~TO~~ ~~PROVIDE~~ ~~GRANTS~~ ~~TO:~~
 
-25 (1) AID STATE AND LOCAL LAW ENFORCEMENT AGENCIES IN
-26 IDENTIFYING AND PREVENTING DEED FRAUD;
+25 ~~(1)~~ ~~AID~~ ~~STATE~~ ~~AND~~ ~~LOCAL~~ ~~LAW~~ ~~ENFORCEMENT~~ ~~AGENCIES~~ ~~IN~~
+26 ~~IDENTIFYING~~ ~~AND~~ ~~PREVENTING~~ ~~DEED~~ ~~FRAUD;~~
 
-27 (2) SUPPORT LEGAL SERVICES FOR VICTIMS OF DEED FRAUD, IN
-28 COORDINATION WITH THE MARYLAND LEGAL SERVICES CORPORATION; AND
+27 ~~(2)~~ ~~SUPPORT~~ ~~LEGAL~~ ~~SERVICES~~ ~~FOR~~ ~~VICTIMS~~ ~~OF~~ ~~DEED~~ ~~FRAUD,~~ ~~IN~~
+28 ~~COORDINATION~~ ~~WITH~~ ~~THE~~ ~~MARYLAND~~ ~~LEGAL~~ ~~SERVICES~~ ~~CORPORATION;~~ ~~AND~~
 END OF PAGE 6
 
 START OF PAGE 7
 HOUSE BILL 130 7
 
-1 (3) OFFER EMERGENCY HOUSING ASSISTANCE TO DISPLACED
-2 VICTIMS OF DEED FRAUD.
+1 ~~(3)~~ ~~OFFER~~ ~~EMERGENCY~~ ~~HOUSING~~ ~~ASSISTANCE~~ ~~TO~~ ~~DISPLACED~~
+2 ~~VICTIMS~~ ~~OF~~ ~~DEED~~ ~~FRAUD.~~
 
-3 (C) THE DEPARTMENT SHALL ADMINISTER THE FUND.
+3 ~~(C)~~ ~~THE~~ ~~DEPARTMENT~~ ~~SHALL~~ ~~ADMINISTER~~ ~~THE~~ ~~FUND.~~
 
-4 (D) THE DEPARTMENT, IN COORDINATION WITH THE MARYLAND LEGAL
-5 SERVICES CORPORATION, MAY ESTABLISH STANDARDS TO DETERMINE ELIGIBILITY
-6 FOR GRANTS UNDER THE FUND.
+4 ~~(D)~~ ~~THE~~ ~~DEPARTMENT,~~ ~~IN~~ ~~COORDINATION~~ ~~WITH~~ ~~THE~~ ~~MARYLAND~~ ~~LEGAL~~
+5 ~~SERVICES~~ ~~CORPORATION,~~ ~~MAY~~ ~~ESTABLISH~~ ~~STANDARDS~~ ~~TO~~ ~~DETERMINE~~ ~~ELIGIBILITY~~
+6 ~~FOR~~ ~~GRANTS~~ ~~UNDER~~ ~~THE~~ ~~FUND.~~
 
-7 (E) (1) THE FUND IS A SPECIAL, NONLAPSING FUND THAT IS NOT
-8 SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+7 ~~(E)~~ ~~(1)~~ ~~THE~~ ~~FUND~~ ~~IS~~ ~~A~~ ~~SPECIAL,~~ ~~NONLAPSING~~ ~~FUND~~ ~~THAT~~ ~~IS~~ ~~NOT~~
+8 ~~SUBJECT~~ ~~TO~~ ~~§~~ ~~7–302~~ ~~OF~~ ~~THE~~ ~~STATE~~ ~~FINANCE~~ ~~AND~~ ~~PROCUREMENT~~ ~~ARTICLE.~~
 
-9 (2) THE STATE TREASURER SHALL HOLD THE FUND SEPARATELY,
-10 AND THE COMPTROLLER SHALL ACCOUNT FOR THE FUND.
+9 ~~(2)~~ ~~THE~~ ~~STATE~~ ~~TREASURER~~ ~~SHALL~~ ~~HOLD~~ ~~THE~~ ~~FUND~~ ~~SEPARATELY,~~
+10 ~~AND~~ ~~THE~~ ~~COMPTROLLER~~ ~~SHALL~~ ~~ACCOUNT~~ ~~FOR~~ ~~THE~~ ~~FUND.~~
 
-11 (F) THE FUND CONSISTS OF:
+11 ~~(F)~~ ~~THE~~ ~~FUND~~ ~~CONSISTS~~ ~~OF:~~
 
-12 (1) MONEY APPROPRIATED IN THE STATE BUDGET TO THE FUND;
+12 ~~(1)~~ ~~MONEY~~ ~~APPROPRIATED~~ ~~IN~~ ~~THE~~ ~~STATE~~ ~~BUDGET~~ ~~TO~~ ~~THE~~ ~~FUND;~~
 
-13 (2) FINES COLLECTED UNDER § 8–906 OF THE CRIMINAL LAW
-14 ARTICLE;
+13 ~~(2)~~ ~~FINES~~ ~~COLLECTED~~ ~~UNDER~~ ~~§~~ ~~8–906~~ ~~OF~~ ~~THE~~ ~~CRIMINAL~~ ~~LAW~~
+14 ~~ARTICLE;~~
 
-15 (3) INTEREST EARNINGS; AND
+15 ~~(3)~~ ~~INTEREST~~ ~~EARNINGS;~~ ~~AND~~
 
-16 (4) ANY OTHER MONEY FROM ANY OTHER SOURCE ACCEPTED FOR
-17 THE BENEFIT OF THE FUND.
+16 ~~(4)~~ ~~ANY~~ ~~OTHER~~ ~~MONEY~~ ~~FROM~~ ~~ANY~~ ~~OTHER~~ ~~SOURCE~~ ~~ACCEPTED~~ ~~FOR~~
+17 ~~THE~~ ~~BENEFIT~~ ~~OF~~ ~~THE~~ ~~FUND.~~
 
-18 (G) THE FUND MAY BE USED ONLY TO:
+18 ~~(G)~~ ~~THE~~ ~~FUND~~ ~~MAY~~ ~~BE~~ ~~USED~~ ~~ONLY~~ ~~TO:~~
 
-19 (1) CARRY OUT THE PURPOSES OF THIS SUBTITLE; AND
+19 ~~(1)~~ ~~CARRY~~ ~~OUT~~ ~~THE~~ ~~PURPOSES~~ ~~OF~~ ~~THIS~~ ~~SUBTITLE;~~ ~~AND~~
 
-20 (2) PAY FOR THE ADMINISTRATIVE EXPENSES OF OPERATING THE
-21 FUND.
+20 ~~(2)~~ ~~PAY~~ ~~FOR~~ ~~THE~~ ~~ADMINISTRATIVE~~ ~~EXPENSES~~ ~~OF~~ ~~OPERATING~~ ~~THE~~
+21 ~~FUND.~~
 
-22 (H) (1) THE STATE TREASURER SHALL INVEST THE MONEY OF THE FUND
-23 IN THE SAME MANNER AS OTHER STATE MONEY MAY BE INVESTED.
+22 ~~(H)~~ ~~(1)~~ ~~THE~~ ~~STATE~~ ~~TREASURER~~ ~~SHALL~~ ~~INVEST~~ ~~THE~~ ~~MONEY~~ ~~OF~~ ~~THE~~ ~~FUND~~
+23 ~~IN~~ ~~THE~~ ~~SAME~~ ~~MANNER~~ ~~AS~~ ~~OTHER~~ ~~STATE~~ ~~MONEY~~ ~~MAY~~ ~~BE~~ ~~INVESTED.~~
 
-24 (2) ANY INTEREST EARNINGS OF THE FUND SHALL BE CREDITED TO
-25 THE FUND.
+24 ~~(2)~~ ~~ANY~~ ~~INTEREST~~ ~~EARNINGS~~ ~~OF~~ ~~THE~~ ~~FUND~~ ~~SHALL~~ ~~BE~~ ~~CREDITED~~ ~~TO~~
+25 ~~THE~~ ~~FUND.~~
 
-26 (I) EXPENDITURES FROM THE FUND MAY BE MADE ONLY IN ACCORDANCE
-27 WITH THE STATE BUDGET.
+26 ~~(I)~~ ~~EXPENDITURES~~ ~~FROM~~ ~~THE~~ ~~FUND~~ ~~MAY~~ ~~BE~~ ~~MADE~~ ~~ONLY~~ ~~IN~~ ~~ACCORDANCE~~
+27 ~~WITH~~ ~~THE~~ ~~STATE~~ ~~BUDGET.~~
 END OF PAGE 7
 
 START OF PAGE 8
 8 HOUSE BILL 130
 
-1 (J) MONEY EXPENDED FROM THE FUND IS SUPPLEMENTAL TO AND IS NOT
-2 INTENDED TO TAKE THE PLACE OF FUNDING THAT OTHERWISE WOULD BE
-3 APPROPRIATED FOR DEED FRAUD PREVENTION.
+1 ~~(J)~~ ~~MONEY~~ ~~EXPENDED~~ ~~FROM~~ ~~THE~~ ~~FUND~~ ~~IS~~ ~~SUPPLEMENTAL~~ ~~TO~~ ~~AND~~ ~~IS~~ ~~NOT~~
+2 ~~INTENDED~~ ~~TO~~ ~~TAKE~~ ~~THE~~ ~~PLACE~~ ~~OF~~ ~~FUNDING~~ ~~THAT~~ ~~OTHERWISE~~ ~~WOULD~~ ~~BE~~
+3 ~~APPROPRIATED~~ ~~FOR~~ ~~DEED~~ ~~FRAUD~~ ~~PREVENTION.~~
 
-4 (K) IN FISCAL YEAR 2028, THE GOVERNOR SHALL INCLUDE IN THE ANNUAL
-5 BUDGET BILL AN APPROPRIATION OF $200,000 TO THE FUND.
+4 ~~(K)~~ ~~IN~~ ~~FISCAL~~ ~~YEAR~~ ~~2028,~~ ~~THE~~ ~~GOVERNOR~~ ~~SHALL~~ ~~INCLUDE~~ ~~IN~~ ~~THE~~ ~~ANNUAL~~
+5 ~~BUDGET~~ ~~BILL~~ ~~AN~~ ~~APPROPRIATION~~ ~~OF~~ ~~$200,000~~ ~~TO~~ ~~THE~~ ~~FUND.~~
 
 6 ~~Article~~ ~~–~~ ~~State~~ ~~Finance~~ ~~and~~ ~~Procurement~~
 
@@ -370,11 +365,11 @@ START OF PAGE 8
 16 ~~apply~~ ~~to~~ ~~the~~ ~~following~~ ~~funds:~~
 
 17 ~~212.~~ ~~the~~ ~~Department~~ ~~of~~ ~~Social~~ ~~and~~ ~~Economic~~ ~~Mobility~~ ~~Special~~
-18 Fund; [and]
+18 ~~Fund;~~ ~~[and]~~
 
-19 213. the Population Health Improvement Fund; AND
+19 ~~213.~~ ~~the~~ ~~Population~~ ~~Health~~ ~~Improvement~~ ~~Fund;~~ ~~AND~~
 
-20 214. THE DEED FRAUD PREVENTION GRANT FUND.
+20 ~~214.~~ ~~THE~~ ~~DEED~~ ~~FRAUD~~ ~~PREVENTION~~ ~~GRANT~~ ~~FUND.~~
 
 21 ~~SECTION~~ ~~2.~~ ~~AND~~ ~~BE~~ ~~IT~~ ~~FURTHER~~ ~~ENACTED,~~ ~~That:~~
 
@@ -382,7 +377,7 @@ START OF PAGE 8
 
 23 (b) The Task Force consists of the following members:
 
-24 (1) the Attorney General, or the Attorney General’s designee;
+24 (1) ~~the~~ ~~Attorney~~ ~~General,~~ ~~or~~ ~~the~~ ~~Attorney~~ ~~General’s~~ ~~designee~~ one representative of the Maryland State’s Attorney Association, designated by the President of the Association;
 
 25 (2) one representative of the Judiciary, designated by the Chief Justice of
 26 the Supreme Court of Maryland;
@@ -408,7 +403,7 @@ HOUSE BILL 130 9
 
 6 (c) The Governor shall designate the chair of the Task Force.
 
-7 (d) The ~~Administrative~~ ~~Office~~ ~~of~~ ~~the~~ ~~Courts~~ Office of the Attorney General shall
+7 (d) The ~~Administrative~~ ~~Office~~ ~~of~~ ~~the~~ ~~Courts~~ ~~Office~~ ~~of~~ ~~the~~ ~~Attorney~~ ~~General~~ Department of Legislative Services shall
 8 provide staff for the Task Force.
 
 9 (e) A member of the Task Force:
@@ -462,3 +457,4 @@ Speaker of the House of Delegates.
 ________________________________________________________________________________
 President of the Senate.
 END OF PAGE 10</bill>
+</bill>

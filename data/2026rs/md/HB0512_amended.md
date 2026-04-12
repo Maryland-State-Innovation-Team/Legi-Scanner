@@ -3,16 +3,24 @@
 START OF PAGE 1
 HOUSE BILL 512
 
-A2 6lr2169
-CF SB 401
+A2 (6lr2169)
+ENROLLED BILL
+— Government, Labor, and Elections/Finance —
+Introduced by Delegate Pruski
 
-By: Delegate Pruski
-Introduced and read first time: January 27, 2026
-Assigned to: Government, Labor, and Elections
+Read and Examined by Proofreaders:
 
-Committee Report: Favorable with amendments
-House action: Adopted
-Read second time: March 9, 2026
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+
+Sealed with the Great Seal and presented to the Governor, for his approval this
+
+_______ day of _______________ at ________________________ o’clock, ________M.
+
+______________________________________________
+Speaker.
 
 CHAPTER ______
 
@@ -21,7 +29,7 @@ CHAPTER ______
 2 Anne Arundel County – Board of License Commissioners and Part–Time
 3 Inspectors – Compensation
 
-4 THE PROPOSE OF increasing the annual salaries and providing for cost–of–living salary
+4 FOR the purpose of increasing the annual salaries and providing for cost–of–living salary
 5 increases for the chair, certain part–time inspectors, and other members of the Board
 6 of License Commissioners for Anne Arundel County; and generally relating to
 7 alcoholic beverages and the Board of License Commissioners for Anne Arundel
@@ -33,105 +41,99 @@ CHAPTER ______
 12 Annotated Code of Maryland
 13 (2024 Replacement Volume and 2025 Supplement)
 
-14 BY repealing and reenacting, with amendments,
-15 Article – Alcoholic Beverages and Cannabis
-16 Section 11–204(a) and 11–206(a)
-17 Annotated Code of Maryland
-18 (2024 Replacement Volume and 2025 Supplement)
-
-19 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-20 That the Laws of Maryland read as follows:
-
-21 Article – Alcoholic Beverages and Cannabis
-
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
 [Brackets] indicate matter deleted from existing law.
 Underlining indicates amendments to bill.
 ~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
-amendment. *hb0512*
+amendment.
+Italics indicate opposite chamber/conference committee amendments.*hb0512*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 512
 
-1 11–101.
+1 BY repealing and reenacting, with amendments,
+2 Article – Alcoholic Beverages and Cannabis
+3 Section 11–204(a) and 11–206(a)
+4 Annotated Code of Maryland
+5 (2024 Replacement Volume and 2025 Supplement)
 
-2 (a) In this title:
+6 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+7 That the Laws of Maryland read as follows:
 
-3 (1) the definitions in § 1–101 of this article apply without exception or
-4 variation; and
+8 Article – Alcoholic Beverages and Cannabis
 
-5 (2) the following words have the meanings indicated.
+9 11–101.
 
-6 (b) “Board” means the Board of License Commissioners for Anne Arundel County.
+10 (a) In this title:
 
-7 11–102.
+11 (1) the definitions in § 1–101 of this article apply without exception or
+12 variation; and
 
-8 This title applies only in Anne Arundel County.
+13 (2) the following words have the meanings indicated.
 
-9 11–204.
+14 (b) “Board” means the Board of License Commissioners for Anne Arundel County.
 
-10 (a) (1) The chair of the Board shall receive:
+15 11–102.
 
-11 (I) an annual salary [of] THAT:
+16 This title applies only in Anne Arundel County.
 
-12 1. IS not [more] LESS than [$18,000] $21,240; and
+17 11–204.
 
-13 2. INCLUDES ANY COST–OF–LIVING INCREASE
-14 AVAILABLE TO NONREPRESENTED ANNE ARUNDEL COUNTY NONREPRESENTED EMPLOYEES; AND
+18 (a) (1) The chair of the Board shall receive:
 
-15 (II) reimbursement for expenses reasonably incurred.
+19 (I) an annual salary [of] THAT:
 
-16 (2) Each other member of the Board shall receive:
+20 1. IS not [more] LESS than [$18,000] $21,240; and
 
-17 (I) an annual salary [of] THAT:
+21 2. INCLUDES ANY COST–OF–LIVING INCREASE
+22 AVAILABLE TO NONREPRESENTED ANNE ARUNDEL COUNTY NONREPRESENTED
+23 EMPLOYEES; AND
 
-18 1. IS not [more] LESS than [$15,000] $17,700; and
+24 (II) reimbursement for expenses reasonably incurred.
 
-19 2. INCLUDES ANY COST–OF–LIVING INCREASE
-20 AVAILABLE TO NONREPRESENTED ANNE ARUNDEL COUNTY NONREPRESENTED EMPLOYEES; AND
+25 (2) Each other member of the Board shall receive:
 
-21 (II) reimbursement for expenses reasonably incurred.
+26 (I) an annual salary [of] THAT:
 
-22 11–206.
-
-23 (a) (1) The Board may employ:
+27 1. IS not [more] LESS than [$15,000] $17,700; and
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 512 3
 
-1 (i) one part–time deputy chief inspector at an annual salary [of]
-2 THAT:
+1 2. INCLUDES ANY COST–OF–LIVING INCREASE
+2 AVAILABLE TO NONREPRESENTED ANNE ARUNDEL COUNTY NONREPRESENTED
+3 EMPLOYEES; AND
 
-3 1. IS NOT LESS THAN $18,000; and
+4 (II) reimbursement for expenses reasonably incurred.
 
-4 2. INCLUDES ANY COST–OF–LIVING INCREASE
-5 AVAILABLE TO NONREPRESENTED ANNE ARUNDEL COUNTY NONREPRESENTED EMPLOYEES; AND
+5 11–206.
 
-6 (ii) 18 part–time inspectors at an annual salary [of $7,000] THAT:
+6 (a) (1) The Board may employ:
 
-7 1. IS NOT LESS THAN $8,260 each; AND
+7 (i) one part–time deputy chief inspector at an annual salary [of]
+8 THAT:
 
-8 2. INCLUDES ANY COST–OF–LIVING INCREASE
-9 AVAILABLE TO NONREPRESENTED ANNE ARUNDEL COUNTY NONREPRESENTED EMPLOYEES.
+9 1. IS NOT LESS THAN $18,000; and
 
-10 (2) Each inspector shall receive a monthly expense allowance of $300,
-11 subject to the approval of the Executive Director.
+10 2. INCLUDES ANY COST–OF–LIVING INCREASE
+11 AVAILABLE TO NONREPRESENTED ANNE ARUNDEL COUNTY NONREPRESENTED
+12 EMPLOYEES; AND
 
-12 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
-13 1, 2026.
+13 (ii) 18 part–time inspectors at an annual salary [of $7,000] THAT:
 
-Approved:
+14 1. IS NOT LESS THAN $8,260 each; AND
 
-________________________________________________________________________________
-Governor.
+15 2. INCLUDES ANY COST–OF–LIVING INCREASE
+16 AVAILABLE TO NONREPRESENTED ANNE ARUNDEL COUNTY NONREPRESENTED
+17 EMPLOYEES.
 
-________________________________________________________________________________
-Speaker of the House of Delegates.
+18 (2) Each inspector shall receive a monthly expense allowance of $300,
+19 subject to the approval of the Executive Director.
 
-________________________________________________________________________________
-President of the Senate.
+20 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+21 1, 2026.
 END OF PAGE 3
 </bill>
 </bill>

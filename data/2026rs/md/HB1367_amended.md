@@ -1,11 +1,13 @@
 <bill>
 <bill>
+<bill>
+<bill>
 START OF PAGE 1
 HOUSE BILL 1367
 
 J1, J5, J2 6lr2734
 
-By: Delegates Cullison, Pena–Melnyk, Bagnall, Hill, Ruth, ~~and Shetty~~ Shetty,
+By: Delegates Cullison, Pena–Melnyk, Bagnall, Hill, Ruth, ~~and~~ ~~Shetty~~ Shetty,
 Alston, Guzzone, S. Johnson, Kaufman, Lopez, Martinez, Rosenberg, Ross,
 Taveras, White Holland, and Woorman
 Introduced and read first time: February 13, 2026
@@ -21,7 +23,7 @@ CHAPTER ______
 
 2 Commission on Re–Imagining Health Care in Maryland
 
-3 FOR the purpose of establishing a Commission on Re–Imagining Health Care to envision
+3 FOR the delete: establishing a Commission on Re–Imagining Health Care to envision
 4 and make recommendations regarding establishing a comprehensive health care
 5 system in the State; and generally relating to the Commission on Re–Imagining
 6 Health Care in Maryland.
@@ -37,7 +39,7 @@ CHAPTER ______
 12 (i) entirely patient–centered;
 
 13 (ii) an integrated system of care, addressing all aspects of health,
-14 ~~both somatic and behavioral~~ including somatic, behavioral, dental, vision, and hearing, at
+14 ~~both~~ ~~somatic~~ ~~and~~ ~~behavioral~~ including somatic, behavioral, dental, vision, and hearing, at
 15 every stage of life;
 
 16 (iii) founded in the concept of quality health care that provides
@@ -64,9 +66,9 @@ START OF PAGE 2
 
 6 (b) The Commission consists of the following members:
 
-7 (1) three members of the Senate, appointed by the President of the Senate;
+7 (1) ~~three members~~ one member of the Senate, appointed by the President of the Senate;
 
-8 (2) three members of the House of Delegates, appointed by the Speaker of
+8 (2) ~~three members~~ one member of the House of Delegates, appointed by the Speaker of
 9 the House;
 
 10 (3) the Secretary of Budget and Management, or the Secretary’s designee;
@@ -113,11 +115,11 @@ HOUSE BILL 1367 3
 6 (13) one representative of the Maryland Hospital Association, designated by
 7 the President and CEO of the Association;
 
-8 (14) one consumer member, appointed by the President of the Senate;
+8 (14) one representative of the Maryland Rural Health Association, designated by the Executive Director of the Association; (15) one consumer member, appointed by the President of the Senate;
 
-9 (15) one consumer member, appointed by the Speaker of the House; and
+9 (16) one consumer member, appointed by the Speaker of the House; and
 
-10 (16) the following members, appointed by the Governor:
+10 (17) the following members, appointed by the Governor:
 
 11 (i) one representative of a managed care organization that operates
 12 in every county in the State;
@@ -139,10 +141,12 @@ HOUSE BILL 1367 3
 
 21 (vii) one representative of a labor union; ~~and~~
 
-22 (viii) one representative with expertise in the practice of advanced
+(viii) one representative of a nonprofit organization that advocates for young adults with chronic health conditions transitioning to adult health care systems;
+
+22 ~~(viii)~~ (ix) one representative with expertise in the practice of advanced
 23 practice clinicians; and
 
-24 ~~(viii)~~ (ix) one member of the public.
+24 ~~(viii)~~ ~~(ix)~~ (x) one member of the public.
 
 25 (c) To the extent practicable, the membership of the Commission shall reflect the
 26 gender, racial, ethnic, and geographic diversity of the State.
@@ -154,7 +158,7 @@ END OF PAGE 3
 START OF PAGE 4
 4 HOUSE BILL 1367
 
-1 (e) The Maryland ~~Department of Health~~ Health Care Commission shall provide
+1 (e) The Maryland ~~Department~~ ~~of~~ ~~Health~~ Health Care Commission shall provide
 2 staff for the Commission.
 
 3 (f) A member of the Commission:
@@ -208,7 +212,7 @@ HOUSE BILL 1367 5
 2 and other facilities and health care practitioners would play in a new health care system;
 
 3 (x) what model health care systems should be considered and how to
-4 ensure that innovation is not structured by the current health care system; and
+4 ensure that innovation is not constrained by the current health care system; and
 
 5 (xi) how high deductibles and limited networks in health insurance
 6 coverage deter care and decrease equal access to health care in the current system; and
@@ -228,7 +232,7 @@ HOUSE BILL 1367 5
 
 16 SECTION 2. AND BE IT FURTHER ENACTED, That:
 
-17 (a) Section 1 of this Act is contingent on the Maryland ~~Department of Health~~
+17 (a) Section 1 of this Act is contingent on the Maryland ~~Department~~ ~~of~~ ~~Health~~
 18 Health Care Commission:
 
 19 (1) determining funding levels needed to conduct the work of the
@@ -238,7 +242,7 @@ HOUSE BILL 1367 5
 22 required under Section 1 of this Act.
 
 23 (b) Within 5 days of receiving sufficient funding to conduct the work of the
-24 Commission as required under Section 1 of this Act, the Maryland ~~Department of Health~~
+24 Commission as required under Section 1 of this Act, the Maryland ~~Department~~ ~~of~~ ~~Health~~
 25 Health Care Commission shall notify the Department of Legislative Services.
 
 26 (c) If notice of the receipt of the funding is received by the Department of
@@ -271,5 +275,7 @@ Speaker of the House of Delegates.
 ________________________________________________________________________________
 President of the Senate.
 END OF PAGE 6
+</bill>
+</bill>
 </bill>
 </bill>

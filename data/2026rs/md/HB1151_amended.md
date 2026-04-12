@@ -1,4 +1,5 @@
 <bill>
+<bill>
 START OF PAGE 1
 HOUSE BILL 1151
 
@@ -23,8 +24,8 @@ CHAPTER ______
 3 Program Reimbursement of Hospice Room and Board Services
 
 4 For the purpose of requiring the ~~Division~~ ~~of~~ ~~Health~~ ~~Care~~ ~~Financing~~ ~~and~~ ~~Medicaid~~ ~~within~~
-5 ~~the~~ ~~Maryland~~ ~~Department~~ ~~of~~ ~~Health~~ <u>Maryland Health Care Commission and the</u>
-6 <u>Maryland Medical Assistance Program jointly</u> to study the impact of requiring the
+5 ~~the~~ ~~Maryland~~ ~~Department~~ ~~of~~ ~~Health~~ <u>Maryland Health Care Commission and the
+6 Maryland Medical Assistance Program jointly</u> to study the impact of requiring the
 7 Maryland Medical Assistance Program to provide reimbursement for room and board
 8 services provided by a hospice house; and generally relating to a study of
 9 reimbursement for hospice room and board services under the Maryland Medical
@@ -34,8 +35,8 @@ CHAPTER ______
 12 That:
 
 13 (a) The ~~Division~~ ~~of~~ ~~Health~~ ~~Care~~ ~~Financing~~ ~~and~~ ~~Medicaid~~ ~~within~~ ~~the~~ ~~Maryland~~
-14 ~~Department~~ ~~of~~ ~~Health~~ <u>Maryland Health Care Commission and the Maryland Medical</u>
-15 <u>Assistance Program jointly</u> shall study the impact of requiring the Maryland Medical
+14 ~~Department~~ ~~of~~ ~~Health~~ <u>Maryland Health Care Commission and the Maryland Medical
+15 Assistance Program jointly</u> shall study the impact of requiring the Maryland Medical
 16 Assistance Program to provide reimbursement for room and board services provided by a
 17 hospice house, as defined in COMAR 10.07.22.02.
 
@@ -52,33 +53,34 @@ START OF PAGE 2
 2 HOUSE BILL 1151
 
 1 (1) ~~quantify~~ <u>analyze</u> overall Maryland Medical Assistance Program
-2 savings per <u>enrollee</u> death ~~as~~ ~~a~~ ~~result~~ ~~of~~ ~~the~~ ~~use~~ ~~of~~ ~~hospice~~ ~~care;~~ ~~and~~ <u>associated with hospice</u>
-3 <u>care utilization during the last 6 months of life compared with costs associated with other</u>
-4 <u>services provided to Program enrollees during the last 6 months of life, including the impact</u>
-5 <u>on:</u>
+2 savings per <u>enrollee</u> death ~~as~~ ~~a~~ ~~result~~ ~~of~~ ~~the~~ ~~use~~ ~~of~~ ~~hospice~~ ~~care;~~ ~~and~~ <u>associated with hospice
+3 care utilization during the last 6 months of life compared with costs associated with other
+4 services provided to Program enrollees during the last 6 months of life, including the impact
+5 on:</u>
 6 <u>(i) avoided inpatient hospital stays;</u>
 7 <u>(ii) emergency department utilization; and</u>
 8 <u>(iii) intensive treatments near the end of life;</u>
-9 <u>(2) analyze the projected fiscal impact of the provision of reimbursement</u>
-10 <u>for hospice house room and board services, including any potential offsets or net savings;</u>
-11 <u>(3)</u> examine how the provision of reimbursement for room and board
+9 (2) <u>analyze the projected fiscal impact of the provision of reimbursement
+10 for hospice house room and board services, including any potential offsets or net savings;
+11 (3)</u> examine how the provision of reimbursement for room and board
 12 services would:
 13 (i) affect ~~hospice~~ <u>hospital</u> readmission rates;
 14 (ii) improve hospice length of stay;
-15 (iii) <u>improve early access to hospice services;</u>
-16 <u>(iv)</u> result in a reduction in deaths in hospitals; and
-17 ~~(iv)~~ <u>(v)</u> result in a reduction in emergency department utilization<u>; and</u>
-18 <u>(4) include a comparison of other states that provide reimbursement for</u>
-19 <u>hospice house room and board service, including a comparison of:</u>
-20 <u>(i) payment models;</u>
-21 <u>(ii) utilization outcomes; and</u>
-22 <u>(iii) cost impacts.</u>
+15 <u>(iii) improve early access to hospice services;
+16 (iv)</u> result in a reduction in deaths in hospitals; and
+17 ~~(iv)~~ <u>(v)</u> result in a reduction in emergency department utilization<u>; and
+18 (4) include a comparison of other states that provide reimbursement for
+19 hospice house room and board service, including a comparison of:
+20 (i) payment models;
+21 (ii) utilization outcomes; and
+22 (iii) cost impacts.</u>
 
-23 (c) On or before September 30, 2026, the Maryland Department of Health shall
+23 (c) On or before ~~September~~ ~~30~~ <u>December 1</u>, 2026, the Maryland Department of Health shall
 24 report its findings to the Senate Finance Committee and the House Health Committee, in
 25 accordance with § 2–1257 of the State Government Article.
 
 26 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
 27 1, 2026.
 END OF PAGE 2
+</bill>
 </bill>

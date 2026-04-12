@@ -2,16 +2,24 @@
 START OF PAGE 1
 HOUSE BILL 798
 
-C8 6lr2179
-CF SB 920
+C8 (6lr2179)
+ENROLLED BILL
+— Economic Matters/Finance —
+Introduced by Delegate Wolek
 
-By: Delegate Wolek
-Introduced and read first time: February 4, 2026
-Assigned to: Economic Matters
+Read and Examined by Proofreaders:
 
-Committee Report: Favorable
-House action: Adopted
-Read second time: February 27, 2026
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+
+Sealed with the Great Seal and presented to the Governor, for his approval this
+
+_______ day of _______________ at ________________________ o’clock, ________M.
+
+______________________________________________
+Speaker.
 
 CHAPTER ______
 
@@ -33,64 +41,80 @@ CHAPTER ______
 13 Annotated Code of Maryland
 14 (2024 Replacement Volume and 2025 Supplement)
 
-15 BY repealing and reenacting, with amendments,
-16 Article – Economic Development
-17 Section 5–1501(g)
-18 Annotated Code of Maryland
-19 (2024 Replacement Volume and 2025 Supplement)
-
-20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-21 That the Laws of Maryland read as follows:
-
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
 [Brackets] indicate matter deleted from existing law.
 Underlining indicates amendments to bill.
 ~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
-amendment. *hb0798*
+amendment.
+Italics indicate opposite chamber/conference committee amendments.*hb0798*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 798
 
-1 Article – Economic Development
+1 BY repealing and reenacting, with amendments,
+2 Article – Economic Development
+3 Section 5–1501(g)
+4 Annotated Code of Maryland
+5 (2024 Replacement Volume and 2025 Supplement)
 
-2 5–1501.
+6 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+7 That the Laws of Maryland read as follows:
 
-3 (a) In this section, “eligible fund manager” means:
+8 Article – Economic Development
 
-4 (1) an entity that has significant financial or investment experience, under
-5 criteria developed by the Department; and
+9 5–1501.
 
-6 (2) includes an entity that the Department designates to manage funds
-7 received under subsection (c)(1) of this section.
+10 (a) In this section, “eligible fund manager” means:
 
-8 (g) (1) Subject to paragraph (2) of this subsection, an eligible fund manager
-9 may use money from grants received under this section to pay expenses for administrative,
-10 actuarial, legal, and technical services.
+11 (1) an entity that has significant financial or investment experience, under
+12 criteria developed by the Department; and
 
-11 (2) The Department shall set the maximum amount of grant money that
-12 each eligible fund manager may use under paragraph (1) of this subsection.
+13 (2) includes an entity that the Department designates to manage funds
+14 received under subsection (c)(1) of this section.
 
-13 (3) (I) IN ADDITION TO THE AMOUNT AUTHORIZED
-14 UNDER PARAGRAPH (2) OF THIS SUBSECTION, THE DEPARTMENT MAY AUTHORIZE
-15 AN ELIGIBLE FUND MANAGER TO RECEIVE A MANAGEMENT FEE THAT IS
-16 CALCULATED AS A PERCENTAGE OF EACH LOAN MADE UNDER SUBSECTION (D) OF
-17 THIS SECTION.
+15 (g) (1) Subject to paragraph (2) of this subsection, an eligible fund manager
+16 may use money from grants received under this section to pay expenses for administrative,
+17 actuarial, legal, and technical services.
 
-18 (II) THE PERCENTAGE AUTHORIZED UNDER SUBPARAGRAPH (I)
-19 OF THIS PARAGRAPH MAY NOT BE LESS THAN 1.5% AND MAY NOT EXCEED 3% OF THE
-20 TOTAL LOAN PRINCIPAL.
+18 (2) The Department shall set the maximum amount of grant money that
+19 each eligible fund manager may use under paragraph (1) of this subsection.
 
-21 (III) A MANAGEMENT FEE AUTHORIZED UNDER THIS
-22 PARAGRAPH SHALL BE PAID FROM THE ACCOUNT AND MAY BE RETAINED BY AN
-23 ELIGIBLE FUND MANAGER FOR ADMINISTRATIVE PURPOSES RELATED TO LENDING
-24 ACTIVITIES UNDER SUBSECTION (D) OF THIS SECTION.
+20 (3) (I) IN ADDITION TO THE AMOUNT AUTHORIZED
+21 UNDER PARAGRAPH (2) OF THIS SUBSECTION, THE DEPARTMENT MAY AUTHORIZE
+22 AN ELIGIBLE FUND MANAGER TO RECEIVE A MANAGEMENT FEE THAT IS
+23 CALCULATED AS A PERCENTAGE OF EACH LOAN MADE UNDER SUBSECTION (D) OF
+24 THIS SECTION.
 
-25 (4) THE DEPARTMENT MAY ESTABLISH AN ANNUAL CAP ON THE
-26 CUMULATIVE AMOUNT OF MANAGEMENT FEES AN ELIGIBLE FUND MANAGER MAY
-27 RECEIVE UNDER PARAGRAPHS (2) AND (3) OF THIS SUBSECTION.
+25 (II) THE PERCENTAGE AUTHORIZED UNDER SUBPARAGRAPH (I)
+26 OF THIS PARAGRAPH MAY NOT BE LESS THAN 1.5% AND MAY NOT EXCEED 3% OF THE
+27 TOTAL LOAN PRINCIPAL.
 
-28 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
-29 1, 2026.
+28 (III) A MANAGEMENT FEE AUTHORIZED UNDER THIS
+29 PARAGRAPH SHALL BE PAID FROM THE ACCOUNT AND MAY BE RETAINED BY AN
+30 ELIGIBLE FUND MANAGER FOR ADMINISTRATIVE PURPOSES RELATED TO LENDING
+31 ACTIVITIES UNDER SUBSECTION (D) OF THIS SECTION.
 END OF PAGE 2
+
+START OF PAGE 3
+HOUSE BILL 798 3
+
+1 (4) THE DEPARTMENT MAY ESTABLISH AN ANNUAL CAP ON THE
+2 CUMULATIVE AMOUNT OF MANAGEMENT FEES AN ELIGIBLE FUND MANAGER MAY
+3 RECEIVE UNDER PARAGRAPHS (2) AND (3) OF THIS SUBSECTION.
+
+4 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+5 1, 2026.
+
+Approved:
+
+________________________________________________________________________________
+Governor.
+
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+________________________________________________________________________________
+President of the Senate.
+END OF PAGE 3
 </bill>
