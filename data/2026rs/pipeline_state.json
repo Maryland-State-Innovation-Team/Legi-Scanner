@@ -440,8 +440,8 @@
   },
   "HB0006": {
     "first_seen": "2026-02-06T19:22:22.397675",
-    "last_updated": "2026-03-05T05:43:07.468061",
-    "last_seen": "2026-03-05T05:43:07.468061",
+    "last_updated": "2026-04-13T05:53:34.902346",
+    "last_seen": "2026-04-13T05:53:34.902346",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -452,75 +452,111 @@
       "amendments": []
     },
     "qa_results": {
-      "bill_summary": "This bill requires the Maryland Higher Education Commission (MHEC) to collect data regarding the parental status of students from all public institutions of higher education in the State. Each public institution must adopt and post a plan to support pregnant and parenting students, providing referrals to government assistance programs like SNAP and Medicaid, health care services, and institutional accommodations. It also expands the definition of 'student data' to include parental status for reporting to the Maryland Longitudinal Data System while specifically excluding pregnancy status.",
+      "bill_summary": "This bill requires the Maryland Higher Education Commission (MHEC) to collect and report student-level data regarding parental status from all public higher education institutions in the State. It expands the definition of 'pregnant and parenting students' and mandates that all public institutions, including community colleges, adopt and post a plan to support these students with information on institutional accommodations, healthcare referrals, and eligibility for government assistance programs. Additionally, it allows parental status data to be shared with the Maryland Longitudinal Data System while excluding pregnancy status from being classified as 'student data' or medical records.",
       "start_year": 2026,
       "end_year": null,
       "funding": 51900,
-      "responsible_party": "Maryland Higher Education Commission (MHEC) and Maryland public institutions of higher education",
-      "stakeholders": "Pregnant and parenting students enrolled in public institutions of higher education in Maryland, including community colleges and four-year universities.",
-      "fiscal_impact_summary": "State general fund expenditures increase by $51,900 in FY 2027 for MHEC to hire a half-time staff specialist to develop data protocols and manage annual reporting. Public four-year institutions and community colleges may incur minimal operational costs to collect data and update support plans. If required referrals increase student participation in government assistance programs like Medicaid and the Maryland Children\u2019s Health Program, there could be a significant increase in associated state and federal expenditures.",
+      "responsible_party": "Maryland Higher Education Commission",
+      "stakeholders": "Pregnant and parenting students enrolled in Maryland public higher education institutions, including community colleges and four-year universities.",
+      "fiscal_impact_summary": "State general fund expenditures increase by $51,900 in FY 2027 for MHEC to hire a part-time staff specialist to manage data collection, technical assistance, and reporting. Public four-year institutions and community colleges may incur minimal costs to implement new data collection protocols and support plans. There is a potential for increased State and federal expenditures if the required referrals lead to higher participation in government assistance programs such as Medicaid and the Maryland Children\u2019s Health Program (MCHP).",
       "agency_relevance": [
         {
-          "agency_name": "Higher Education Commission",
+          "agency_name": "Maryland Higher Education Commission",
           "is_relevant": true,
-          "relevance_explanation": "The commission is the primary implementing agency responsible for developing data collection questions, adopting regulations for reporting, and submitting annual reports summarizing student parental status data from all public institutions.",
+          "relevance_explanation": "MHEC is the primary agency responsible for implementing the bill, including developing data collection questions, adopting regulations for reporting, collecting student-level data from all public institutions, and submitting annual reports to the General Assembly committees.",
           "relevance_rating": 5
         },
         {
-          "agency_name": "Maryland Longitudinal Data System",
+          "agency_name": "Higher Education Commission",
           "is_relevant": true,
-          "relevance_explanation": "The bill explicitly amends the definition of 'student data' in the system's enabling statute to include 'parental status,' authorizing the Center to collect and analyze this new demographic data point from higher education institutions.",
-          "relevance_rating": 4
+          "relevance_explanation": "This agency (listed as a duplicate entry in the provided list) is the primary regulatory body responsible for coordinating the bill's data collection and reporting requirements for public institutions.",
+          "relevance_rating": 5
         },
         {
           "agency_name": "University System of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "As a major public higher education system, its constituent institutions are required to adopt parenting student plans, modify demographic data collection forms, and report student caregiving data to MHEC.",
+          "relevance_explanation": "As a public institution of higher education, USM's constituent institutions are directly mandated to collect and report parental status data and adopt and post a support plan for pregnant and parenting students.",
           "relevance_rating": 4
         },
         {
           "agency_name": "Morgan State University",
           "is_relevant": true,
-          "relevance_explanation": "As a public senior higher education institution, it must implement a parenting student support plan and comply with new student-level data collection and reporting requirements regarding parental status.",
+          "relevance_explanation": "MSU is a public institution of higher education required by the bill to collect student demographic data on parental status and adopt a plan for pregnant and parenting students.",
           "relevance_rating": 4
         },
         {
           "agency_name": "Saint Mary's College of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "As a public institution of higher education, it is mandated to adopt a plan for pregnant and parenting students and collect specific demographic data regarding students' caregiving responsibilities.",
+          "relevance_explanation": "SMCM is a public institution of higher education required by the bill to collect student demographic data on parental status and adopt a plan for pregnant and parenting students.",
           "relevance_rating": 4
+        },
+        {
+          "agency_name": "Maryland Longitudinal Data System",
+          "is_relevant": true,
+          "relevance_explanation": "The bill expands the statutory definition of 'student data' to include 'parental status' and authorizes MHEC to share this new data element with the MLDS Center for inclusion in the state's longitudinal repository.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Department of Health",
           "is_relevant": true,
-          "relevance_explanation": "The fiscal note indicates a potentially significant fiscal impact on the department's Medicaid and Maryland Children's Health Program (MCHP) expenditures if institutional referrals increase student participation in these programs.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Department of Budget and Management",
-          "is_relevant": true,
-          "relevance_explanation": "The bill requires a new half-time Staff Specialist II position at MHEC, involving DBM in the creation of the position, personnel management, and oversight of the resulting general fund expenditure increase.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Department of Education",
-          "is_relevant": true,
-          "relevance_explanation": "MSDE is a primary partner in the Maryland Longitudinal Data System affected by the bill's data changes and manages the Child Care Scholarship Program, a required referral target in institutional support plans.",
+          "relevance_explanation": "Institutional plans must include referrals to MDH-administered programs such as WIC, Medicaid, and MCHP. The fiscal note anticipates potentially significant expenditure increases for these programs due to increased enrollment.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Department of Human Services",
           "is_relevant": true,
-          "relevance_explanation": "The bill requires institutions to include referrals to government assistance programs such as SNAP in their parenting student plans, which are administered by this department.",
-          "relevance_rating": 2
+          "relevance_explanation": "DHS is the state's primary social service provider for those in economic need; the required support plans for parenting students will likely increase referrals to DHS programs, such as food and cash assistance.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Department of Education",
+          "is_relevant": true,
+          "relevance_explanation": "Institutional plans must include referrals to the Child Care Scholarship Program (administered by MSDE), and the MLDS involves data links with MSDE student records.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Department of Budget and Management",
+          "is_relevant": true,
+          "relevance_explanation": "DBM is involved as the principal fiscal agency because the bill requires general fund expenditures of approximately $51,900 for MHEC to hire a new half-time staff specialist to manage the data mandates.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Governor's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The Governor's Office oversees the executive branch departments responsible for implementation and will be responsible for signing the legislation; the bill also aligns with the Governor's stated priorities of reducing child poverty.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Governor's Office for Children",
+          "is_relevant": true,
+          "relevance_explanation": "The Governor's Office for Children coordinates efforts to reduce child poverty and build support networks for families, aligning with the bill's requirement for institutions to provide comprehensive support plans for parenting students.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Maryland State Innovation Team",
+          "is_relevant": true,
+          "relevance_explanation": "The Innovation Team is tasked with addressing the Governor's priorities of reducing child poverty and enhancing economic mobility, which are directly supported by this bill's focus on identifying and supporting parenting students.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Governor's Office of Performance Improvement",
+          "is_relevant": true,
+          "relevance_explanation": "GOPI monitors agency performance and aligns activities with the Governor's priorities; this bill establishes new data-driven reporting requirements related to economic mobility and child poverty.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Maryland Health Benefit Exchange",
+          "is_relevant": true,
+          "relevance_explanation": "The Exchange determines eligibility for Medicaid and MCHP; increased referrals to these programs as mandated by the bill would impact the agency's workload and operations.",
+          "relevance_rating": 1
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "884248ccbabaa9899adcb4ba6a7c725d702305c855c2a7be2103a0a6506e0fcc",
-    "last_updated_local": "2026-03-05T05:46:01.484482",
-    "bill_hash": "3c39bc074d617b878b72a61345e7369d"
+    "qa_input_hash": "923ddf2fceec4c9b27ba83d7c8f09b462696068d88b13b00e5b40095e642b397",
+    "last_updated_local": "2026-04-13T05:54:59.195489",
+    "bill_hash": "14534d6ba1964ae6ced12c16f6830428"
   },
   "HB0007": {
     "first_seen": "2026-02-06T19:22:22.931772",
@@ -15264,8 +15300,8 @@
   },
   "HB0182": {
     "first_seen": "2026-02-06T19:23:58.607884",
-    "last_updated": "2026-03-28T05:53:29.354469",
-    "last_seen": "2026-03-28T05:53:29.354469",
+    "last_updated": "2026-04-13T05:53:36.014997",
+    "last_seen": "2026-04-13T05:53:36.014997",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -15319,8 +15355,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "78585b32ee7007cc5cad56e8584257473cfa584f8067ed52538effa50f403755",
-    "last_updated_local": "2026-03-28T05:57:25.951859",
-    "bill_hash": "534d394fa81b6f82b866437723ab8de6"
+    "last_updated_local": "2026-04-13T05:53:53.041665",
+    "bill_hash": "5cd145b7ee53b70beff9f266707f5aa6"
   },
   "HB0183": {
     "first_seen": "2026-02-06T19:23:59.187913",
@@ -21719,8 +21755,8 @@
   },
   "HB0260": {
     "first_seen": "2026-02-06T19:30:11.875190",
-    "last_updated": "2026-04-12T05:41:30.747758",
-    "last_seen": "2026-04-12T05:41:30.747758",
+    "last_updated": "2026-04-13T05:53:37.168065",
+    "last_seen": "2026-04-13T05:53:37.168065",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -21780,8 +21816,8 @@
     "amended_status": "amended",
     "amend_input_hash": "85f53f6a21a8c59c12d73302e75886228096bb4d1a2cbf9ef776ada2d5df7718",
     "qa_input_hash": "8f0904846c3099e61217504711d8c270d8a366b9ca9fa347fcadfb82f63c2f2e",
-    "last_updated_local": "2026-04-12T05:59:15.867296",
-    "bill_hash": "d20db331489af81ee71e487e234baada"
+    "last_updated_local": "2026-04-13T05:53:52.385786",
+    "bill_hash": "1ea62523d07897ebef1208921c0af0b8"
   },
   "HB0261": {
     "first_seen": "2026-02-06T19:30:12.406802",
@@ -22768,8 +22804,8 @@
   },
   "HB0270": {
     "first_seen": "2026-02-06T19:30:17.751570",
-    "last_updated": "2026-04-12T05:41:37.728920",
-    "last_seen": "2026-04-12T05:41:37.728920",
+    "last_updated": "2026-04-13T05:53:38.577926",
+    "last_seen": "2026-04-13T05:53:38.577926",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -22855,8 +22891,8 @@
     "amended_status": "amended",
     "amend_input_hash": "54b684b9d97a321ee97c2f7d696083c3be49317d572f3b08baa4ea8d5c5660c9",
     "qa_input_hash": "df29a4c5dedb514a192cec603b58794d11bcc97e64f1e9db788e0a6a3a7304e9",
-    "last_updated_local": "2026-04-12T05:58:18.316427",
-    "bill_hash": "ebd4b212a2c6a4e072243eeed41d0f35"
+    "last_updated_local": "2026-04-13T05:53:52.053636",
+    "bill_hash": "26b6c3f237e1c86f617e8af0aa15d3cb"
   },
   "HB0271": {
     "first_seen": "2026-02-06T19:30:18.323553",
@@ -47296,8 +47332,8 @@
   },
   "HB0575": {
     "first_seen": "2026-02-06T19:33:18.814326",
-    "last_updated": "2026-03-31T06:14:14.471624",
-    "last_seen": "2026-03-31T06:14:14.471624",
+    "last_updated": "2026-04-13T05:53:39.843269",
+    "last_seen": "2026-04-13T05:53:39.843269",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -47351,8 +47387,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "27b79fe6bc95feede5cbac7685956f35a36e67214f38aa3fd301d2069f545bac",
-    "last_updated_local": "2026-03-31T06:22:55.802748",
-    "bill_hash": "920b67a816fab5d1be786527b693306e"
+    "last_updated_local": "2026-04-13T05:53:55.118033",
+    "bill_hash": "567a86dfab5836b0a8116c5e887d0834"
   },
   "HB0576": {
     "first_seen": "2026-02-06T19:33:19.356826",
@@ -52508,8 +52544,8 @@
   },
   "HB0640": {
     "first_seen": "2026-02-06T19:33:57.397750",
-    "last_updated": "2026-03-17T05:55:46.064998",
-    "last_seen": "2026-03-17T05:55:46.064998",
+    "last_updated": "2026-04-13T05:53:41.143372",
+    "last_seen": "2026-04-13T05:53:41.143372",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -52725,8 +52761,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "97b7c4c9312c345d848946ed55db52e4c6d41aabe16d16122f15eba9742f3483",
-    "last_updated_local": "2026-03-17T05:58:30.191668",
-    "bill_hash": "87a8b4c1a3556b684c74234d58b7f8f8"
+    "last_updated_local": "2026-04-13T05:53:55.450532",
+    "bill_hash": "f13b09c9bcd2b12899ade5784f304785"
   },
   "HB0641": {
     "first_seen": "2026-02-06T19:33:58.000895",
@@ -59609,8 +59645,8 @@
   },
   "HB0730": {
     "first_seen": "2026-02-06T19:34:50.192461",
-    "last_updated": "2026-04-10T05:44:56.381191",
-    "last_seen": "2026-04-10T05:44:56.381191",
+    "last_updated": "2026-04-13T05:53:42.268659",
+    "last_seen": "2026-04-13T05:53:42.268659",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -59658,8 +59694,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "55b050b22d96059ac685466f7fa6fe4eebb0b2cb95dda17fce69a7e61a5baa81",
-    "last_updated_local": "2026-04-10T05:59:23.483128",
-    "bill_hash": "d52e755176289a2646ebcc74e4fe9c94"
+    "last_updated_local": "2026-04-13T05:53:55.780454",
+    "bill_hash": "fd61f1071c228a9a93bd6787bfbf27d8"
   },
   "HB0731": {
     "first_seen": "2026-02-06T19:34:50.825657",
@@ -81218,8 +81254,8 @@
   },
   "HB1001": {
     "first_seen": "2026-02-06T19:37:30.396443",
-    "last_updated": "2026-04-12T05:46:10.245370",
-    "last_seen": "2026-04-12T05:46:10.245370",
+    "last_updated": "2026-04-13T05:53:43.733047",
+    "last_seen": "2026-04-13T05:53:43.733047",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -81275,8 +81311,8 @@
     "amended_status": "amended",
     "amend_input_hash": "ae0cd6da02bde1e50b4028503b6d8041f723cecc44ab129c74592a63deee9ee7",
     "qa_input_hash": "761ce5b25fe95f995cd64aef84a06988a0036361921c223820b8014fba11e601",
-    "last_updated_local": "2026-04-12T06:32:07.906415",
-    "bill_hash": "38699967490a1c574c594b488feeccb4"
+    "last_updated_local": "2026-04-13T05:53:58.155644",
+    "bill_hash": "5028330cba3291b0cc60d1162db10929"
   },
   "HB1002": {
     "first_seen": "2026-02-06T19:37:30.949201",
@@ -82401,8 +82437,8 @@
   },
   "HB1016": {
     "first_seen": "2026-02-06T19:37:39.576938",
-    "last_updated": "2026-04-12T05:46:16.808248",
-    "last_seen": "2026-04-12T05:46:16.808248",
+    "last_updated": "2026-04-13T05:53:45.107656",
+    "last_seen": "2026-04-13T05:53:45.107656",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -82452,8 +82488,8 @@
     "amended_status": "amended",
     "amend_input_hash": "5664f1e6435cad8fb25dc58bfdf3dd8a4ca7ee2fd48a95b2731fea6856888892",
     "qa_input_hash": "ccf4ee794e34c7a563f38e77d5813660ae4c905d740755d28b4ce7daed97c9ef",
-    "last_updated_local": "2026-04-12T06:32:44.580628",
-    "bill_hash": "03ff3d3920d6125bc52f99279ffbd892"
+    "last_updated_local": "2026-04-13T05:53:57.492337",
+    "bill_hash": "26aa453c15ce1970d518c61218db425e"
   },
   "HB1017": {
     "first_seen": "2026-02-06T19:37:40.276987",
@@ -123185,8 +123221,8 @@
   },
   "HB1300": {
     "first_seen": "2026-02-13T05:59:18.529340",
-    "last_updated": "2026-04-12T05:48:04.273139",
-    "last_seen": "2026-04-12T05:48:04.273139",
+    "last_updated": "2026-04-13T05:53:46.514600",
+    "last_seen": "2026-04-13T05:53:46.514600",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -123260,8 +123296,8 @@
     "amended_status": "amended",
     "amend_input_hash": "86e656689412f04d116f865af7968b20c0a4116452b2c0cd39dbb9f1388450a1",
     "qa_input_hash": "e2bcd7a6f44117664f2f820cab87600bf59df83856d706d28d77e4c96b98227c",
-    "last_updated_local": "2026-04-12T06:45:40.095110",
-    "bill_hash": "2244c1c28b77534e45969a75e6adbf78"
+    "last_updated_local": "2026-04-13T05:53:57.825092",
+    "bill_hash": "63f75420658897144b88222f47677124"
   },
   "HB1301": {
     "first_seen": "2026-02-13T05:59:19.070143",
@@ -126244,8 +126280,8 @@
   },
   "HB1335": {
     "first_seen": "2026-02-13T05:59:44.290741",
-    "last_updated": "2026-03-31T06:15:23.912687",
-    "last_seen": "2026-03-31T06:15:23.912687",
+    "last_updated": "2026-04-13T05:53:47.550993",
+    "last_seen": "2026-04-13T05:53:47.550993",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -126419,8 +126455,8 @@
     "amended_status": "original",
     "amend_input_hash": "81481e098bdd64db6a010b6b620026ad17a912ef1ffd041bb11bce7ab9ed8bd4",
     "qa_input_hash": "141a2ff089e8967f96ee5e9ed4adf8d889d3159d6c09bf427f6e18de5e0b11a2",
-    "last_updated_local": "2026-03-31T06:41:56.190142",
-    "bill_hash": "a332591dd9c02355d1f40bd33c96218b"
+    "last_updated_local": "2026-04-13T05:53:58.745412",
+    "bill_hash": "1386f43043e2c317254cd186cd9c15f0"
   },
   "HB1336": {
     "first_seen": "2026-02-13T05:59:44.996344",
@@ -145848,8 +145884,8 @@
   },
   "HB1563": {
     "first_seen": "2026-02-14T05:48:52.001939",
-    "last_updated": "2026-04-12T05:49:35.247890",
-    "last_seen": "2026-04-12T05:49:35.247890",
+    "last_updated": "2026-04-13T05:53:48.796904",
+    "last_seen": "2026-04-13T05:53:48.796904",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -145921,8 +145957,8 @@
     "amended_status": "original",
     "amend_input_hash": "74c5c0f4141e6210c9559ea7a447f6a087e2bde98fec5daa71d6a464db3be974",
     "qa_input_hash": "ba3df6a05b30336525c212341f0743b6dfbcbd84c5077afa702cae847deed1c5",
-    "last_updated_local": "2026-04-12T06:54:52.831133",
-    "bill_hash": "3d0a1667343d1bf246931fb5610949cf"
+    "last_updated_local": "2026-04-13T05:53:59.535669",
+    "bill_hash": "22c4e91a665e7f4db48970582c327a5e"
   },
   "HB1564": {
     "first_seen": "2026-02-14T05:48:52.774500",
