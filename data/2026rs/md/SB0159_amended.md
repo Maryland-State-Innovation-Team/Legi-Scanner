@@ -18,16 +18,12 @@ CHAPTER ______
 
 1 AN ACT concerning
 
-2 Emergency Medical Services – Vehicles and Ambulances – Required Supplies,
-3 ~~Reviews,~~ ~~and~~ ~~Complaints~~
+2 Emergency Medical Services – Vehicles and Ambulances – Required Supplies
 
 4 FOR the purpose of requiring the Executive Director of the Maryland Institute for
 5 Emergency Medical Services Systems to coordinate, with a certain program, the minimum equipment,
 6 supplies, and medications to be available on emergency medical services vehicles;
-7 ~~requiring~~ ~~each~~ ~~county~~ ~~and~~ ~~municipality~~ ~~that~~ ~~operates~~ ~~or~~ ~~contracts~~ ~~emergency~~
-8 ~~medical~~ ~~services~~ ~~to~~ ~~conduct~~ ~~quarterly~~ ~~reviews~~ ~~of~~ ~~certain~~ ~~data~~ ~~and~~ ~~to~~ ~~certify~~
-9 ~~completion~~ ~~of~~ ~~each~~ ~~review;~~ ~~requiring~~ ~~each~~ ~~county~~ ~~to~~ ~~establish~~ ~~and~~ ~~maintain~~ ~~a~~ ~~formal~~
-10 ~~complaint~~ ~~filing~~ ~~system~~ ~~regarding~~ ~~ambulance~~ ~~quality,~~ ~~conduct,~~ ~~or~~ ~~compliance;~~ and
+10 and
 11 generally relating to emergency medical services vehicles and ambulances.
 
 12 BY repealing and reenacting, without amendments,
@@ -51,12 +47,6 @@ END OF PAGE 1
 
 START OF PAGE 2
 2 SENATE BILL 159
-
-1 ~~BY~~ ~~adding~~ ~~to~~
-2 ~~Article~~ ~~–~~ ~~Education~~
-3 ~~Section~~ ~~13–519~~
-4 ~~Annotated~~ ~~Code~~ ~~of~~ ~~Maryland~~
-5 ~~(2022~~ ~~Replacement~~ ~~Volume~~ ~~and~~ ~~2025~~ ~~Supplement)~~
 
 6 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
 7 That the Laws of Maryland read as follows:
@@ -103,8 +93,8 @@ END OF PAGE 2
 START OF PAGE 3
 SENATE BILL 159 3
 
-1 NEONATAL CARE, TO BE AVAILABLE ON EMERGENCY MEDICAL SERVICES VEHICLES
-2 ;
+1 NEONATAL CARE, TO BE AVAILABLE ON EMERGENCY MEDICAL SERVICES VEHICLES;
+2
 
 3 [(8)] (9) Work closely with the public and private agencies, health care
 4 institutions and universities involved with emergency medical services, the Emergency
@@ -123,59 +113,8 @@ SENATE BILL 159 3
 13 [(12)] (13) Implement all programmatic, operational, and administrative
 14 components of the Institute.
 
-15 13–519.
-
-16 (A) (1) IN THIS SECTION, “AMBULANCE” MEANS ANY CONVEYANCE
-17 DESIGNED AND CONSTRUCTED OR MODIFIED AND EQUIPPED TO BE USED,
-18 MAINTAINED, OR OPERATED TO TRANSPORT SICK, INJURED, WOUNDED, OR
-19 OTHERWISE INCAPACITATED INDIVIDUALS.
-
-20 (2) “AMBULANCE” INCLUDES A CONVEYANCE DESIGNED AND
-21 CONSTRUCTED OR MODIFIED AND EQUIPPED FOR AEROMEDICAL TRANSPORT.
-
-22 (B) (1) EACH COUNTY AND MUNICIPALITY THAT OPERATES OR
-23 CONTRACTS EMERGENCY MEDICAL SERVICES SHALL:
-
-24 (I) CONDUCT QUARTERLY REVIEWS OF AMBULANCE
-25 PERFORMANCE DATA PUBLISHED BY THE INSTITUTE;
-
-26 (II) CERTIFY COMPLETION OF EACH REVIEW; AND
-
-27 (III) SUBMIT A SUMMARY OF EACH REVIEW TO THE INSTITUTE.
-
-28 (2) A REVIEW CONDUCTED UNDER PARAGRAPH (1)(I) OF THIS
-29 SUBSECTION SHALL:
-
-30 (I) ASSESS:
-END OF PAGE 3
-
 START OF PAGE 4
 4 SENATE BILL 159
-
-1 1. RESPONSE TIMES;
-
-2 2. SERVICE QUALITY; AND
-
-3 3. COMPLIANCE WITH INSTITUTE STANDARDS;
-
-4 (II) IDENTIFY TRENDS AND DEFICIENCIES IN SERVICES; AND
-
-5 (III) ALLOW A COUNTY OR MUNICIPALITY TO ADOPT
-6 CORRECTIVE MEASURES AND MAKE OPERATIONAL ADJUSTMENTS.
-
-7 (C) (1) EACH COUNTY SHALL ESTABLISH AND MAINTAIN A FORMAL
-8 COMPLAINT FILING SYSTEM TO RECEIVE, INVESTIGATE, AND RESOLVE COMPLAINTS
-9 REGARDING AMBULANCE QUALITY, CONDUCT, OR COMPLIANCE.
-
-10 (2) THE FORMAL COMPLAINT FILING SYSTEM SHALL:
-
-11 (I) BE ACCESSIBLE ONLINE AND IN PERSON;
-
-12 (II) INCLUDE TRACKING, INVESTIGATION TIMELINES, AND
-13 NOTIFICATIONS; AND
-
-14 (III) REPORT COMPLAINT DATA AND RESOLUTIONS QUARTERLY
-15 TO THE INSTITUTE.
 
 16 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
 17 1, 2026.

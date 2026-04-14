@@ -1,11 +1,12 @@
 <bill>
+<bill>
 START OF PAGE 1
 HOUSE BILL 139
 
 Q4 6lr0981
 HB 34/25 – W&M (PRE–FILED) CF SB 9
 
-By: ~~Delegate~~ ~~Rogers~~ Delegates Rogers, Addison, Buckel, Coley, Griffith, Hartman,
+By: Delegates Rogers, Addison, Buckel, Coley, Griffith, Hartman,
 Hornberger, R. Long, Miller, Mireku–North, Pasteur, Patterson, Roberson,
 Vogel, Wims, and Young
 Requested: September 25, 2025
@@ -20,12 +21,12 @@ CHAPTER ______
 
 1 AN ACT concerning
 
-2 Sales and Use Tax – Tax–Free Day – Veterans’ Day
+2 Sales and Use Tax – Tax–Free Day – the Saturday Preceding Veterans’ Day
 
-3 For the purpose of establishing a tax–free day each year during which an exemption from
+3 FOR the purpose of establishing a tax–free day each year during which an exemption from
 4 the sales and use tax is provided for sales to certain veterans if the taxable price of
-5 the item for sale is less than a certain amount; authorizing the Comptroller, in the Comptroller’s sole discretion, to suspend the tax–free day; ~~authorizing~~ ~~the~~ ~~Comptroller,~~ ~~in~~ ~~the~~
-6 ~~Comptroller’s~~ ~~sole~~ ~~discretion,~~ ~~to~~ ~~suspend~~ ~~the~~ ~~tax–free~~ ~~day;~~ requiring an individual,
+5 the item for sale is less than a certain amount; authorizing the Comptroller, in the
+6 Comptroller’s sole discretion, to suspend the tax–free day; requiring an individual,
 7 in order to qualify for the exemption, to provide to the vendor evidence of eligibility
 8 for the exemption; and generally relating to a sales and use tax exemption for
 9 veterans.
@@ -54,23 +55,23 @@ START OF PAGE 2
 2 HOUSE BILL 139
 
 1 (A) EXCEPT AS PROVIDED IN SUBSECTION (B) OF THIS SECTION, BEGINNING
-2 EXCEPT AS PROVIDED IN SUBSECTION (B) OF THIS SECTION, BEGINNING IN CALENDAR YEAR 2026, NOVEMBER 11 SHALL BE A TAX–FREE DAY IN
+2 IN CALENDAR YEAR 2026, THE SATURDAY IMMEDIATELY PRECEDING NOVEMBER 11 SHALL BE A TAX–FREE DAY IN
 3 MARYLAND DURING WHICH THE SALES AND USE TAX DOES NOT APPLY TO A SALE TO
-4 A VETERAN IF THE TAXABLE PRICE OF THE ITEM FOR SALE IS LESS THAN $2,000
-5 $2,000.
+4 A VETERAN IF THE TAXABLE PRICE OF THE ITEM FOR SALE IS LESS THAN
+5 $100.
 
-6 (B) THE COMPTROLLER, IN THE COMPTROLLER’S SOLE DISCRETION, MAY SUSPEND THE TAX–FREE DAY ESTABLISHED UNDER SUBSECTION (A) OF THIS SECTION. (C) THE COMPTROLLER, IN THE COMPTROLLER’S SOLE DISCRETION, MAY
+6 (B) THE COMPTROLLER, IN THE COMPTROLLER’S SOLE DISCRETION, MAY
 7 SUSPEND THE TAX–FREE DAY ESTABLISHED UNDER SUBSECTION (A) OF THIS
 8 SECTION.
 
 9 (C) TO QUALIFY FOR THE EXEMPTION UNDER SUBSECTION (A) OF THIS
-10 SECTION, AN INDIVIDUAL::
+10 SECTION, AN INDIVIDUAL:
 
-11 (1) (1) SHALL PROVIDE TO THE VENDOR EVIDENCE OF ELIGIBILITY FOR
-12 THE EXEMPTION; AND; AND
+11 (1) SHALL PROVIDE TO THE VENDOR EVIDENCE OF ELIGIBILITY FOR
+12 THE EXEMPTION; AND
 
-13 (2) MAY ESTABLISH THAT THE INDIVIDUAL IS A VETERAN (2) MAY ESTABLISH THAT THE INDIVIDUAL IS A VETERAN BY
-14 PRODUCING A VALID DRIVER’S LICENSE OR, GOVERNMENT–ISSUED IDENTIFICATION
+13 (2) MAY ESTABLISH THAT THE INDIVIDUAL IS A VETERAN BY
+14 PRODUCING A VALID DRIVER’S LICENSE OR GOVERNMENT–ISSUED IDENTIFICATION
 15 CARD OR LICENSE THAT INCLUDES A NOTATION INDICATING THAT THE INDIVIDUAL
 16 IS A VETERAN.
 
@@ -88,4 +89,5 @@ Speaker of the House of Delegates.
 ________________________________________________________________________________
 President of the Senate.
 END OF PAGE 2
+</bill>
 </bill>

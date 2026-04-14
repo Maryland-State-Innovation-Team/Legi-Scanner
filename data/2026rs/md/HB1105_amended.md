@@ -1,4 +1,5 @@
 <bill>
+<bill>
 START OF PAGE 1
 HOUSE BILL 1105
 
@@ -19,12 +20,12 @@ CHAPTER ______
 1 AN ACT concerning
 
 2 Statute of Limitations – ~~Prosecution~~ ~~or~~ ~~Enforcement~~ ~~of~~ Civil Suits to Enforce
-3 Local Consumer Protection Codes
+3 ~~Local~~ the Baltimore City Consumer Protection ~~Codes~~ Code
 
 4 FOR the purpose of altering the statute of limitations for ~~the~~ ~~prosecution~~ ~~or~~ ~~enforcement~~ ~~of~~
-5 a civil suit to enforce certain local consumer protection codes; and generally relating
-6 to the statute of limitations for ~~prosecuting~~ ~~or~~ ~~enforcing~~ a civil suit to enforce local
-7 consumer protection codes.
+5 a civil suit to enforce certain ~~local~~ provisions of the Baltimore City consumer protection ~~codes~~ code; and generally relating
+6 to the statute of limitations for ~~prosecuting~~ ~~or~~ ~~enforcing~~ a civil suit to enforce ~~local~~ the Baltimore City
+7 consumer protection ~~codes~~ code.
 
 8 BY adding to
 9 Article – Courts and Judicial Proceedings
@@ -39,7 +40,7 @@ CHAPTER ______
 
 16 5–106.
 
-17 (KK) A ~~PROSECUTION~~ ~~OR~~ CIVIL SUIT FOR ENFORCEMENT OF A LOCAL
+17 (KK) A ~~PROSECUTION~~ ~~OR~~ CIVIL SUIT FOR ENFORCEMENT OF ~~A~~ ~~LOCAL~~ THE BALTIMORE CITY
 18 CONSUMER PROTECTION CODE FOR WHICH EQUITABLE RELIEF, A FINE, OR A
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
@@ -52,7 +53,7 @@ END OF PAGE 1
 START OF PAGE 2
 2 HOUSE BILL 1105
 
-1 PENALTY IS PROVIDED SHALL BE INSTITUTED WITHIN 3 YEARS AFTER LOCAL
+1 PENALTY IS PROVIDED SHALL BE INSTITUTED WITHIN 3 YEARS AFTER ~~LOCAL~~ BALTIMORE CITY
 2 AUTHORITIES KNEW OR REASONABLY SHOULD HAVE KNOWN OF THE VIOLATION.
 
 3 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
@@ -69,4 +70,5 @@ Speaker of the House of Delegates.
 ________________________________________________________________________________
 President of the Senate.
 END OF PAGE 2
+</bill>
 </bill>

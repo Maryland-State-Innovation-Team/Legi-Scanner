@@ -1,0 +1,122 @@
+<bill>
+START OF PAGE 1
+HOUSE BILL 153
+
+C9, N1 6lr1043
+HB 339/25 – ENT (PRE–FILED) CF SB 12
+
+By: Delegates Lehman, Pena–Melnyk, Ruth, Stewart, and Terrasa
+Requested: October 1, 2025
+Introduced and read first time: January 14, 2026
+Assigned to: Economic Matters
+
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 23, 2026
+
+CHAPTER ______
+
+1 AN ACT concerning
+
+2 Residential Rental Apartments – Air–Conditioning Requirement
+
+3 FOR the purpose of requiring a landlord to provide air–conditioning to certain residential
+4 rental units in a certain manner; and generally relating to air–conditioning
+5 requirements for residential rental units.
+
+6 BY adding to
+7 Article – Real Property
+8 Section 8–122
+9 Annotated Code of Maryland
+10 (2023 Replacement Volume and 2025 Supplement)
+
+11 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+12 That the Laws of Maryland read as follows:
+
+13 Article – Real Property
+
+14 8–122.
+
+15 (A) (1) THIS SECTION APPLIES ONLY TO RESIDENTIAL RENTAL UNITS IN
+16 APARTMENT BUILDINGS WITH FOUR OR MORE INDIVIDUAL DWELLING UNITS.
+
+17 (2) THIS SECTION DOES NOT APPLY TO A RESIDENTIAL RENTAL UNIT
+18 THAT IS:
+
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0153*
+END OF PAGE 1
+
+START OF PAGE 2
+2 HOUSE BILL 153
+
+1 (I) LOCATED ON PROPERTY LISTED ON THE
+2 NATIONAL REGISTER OF HISTORIC PLACES;
+
+3 (II) PART OF A HOUSING AUTHORITY OF BALTIMORE CITY
+4 DEVELOPMENT BUILT BETWEEN 1940 AND 1950, INCLUSIVE; OR
+
+5 (III) A ROWHOUSE PUBLIC HOUSING UNIT ACQUIRED AND
+6 REHABILITATED BY THE HOUSING AUTHORITY OF BALTIMORE CITY BETWEEN 1960
+7 AND 1997, INCLUSIVE.
+
+8 (B) A LANDLORD SHALL PROVIDE AIR–CONDITIONING IN EACH
+9 RESIDENTIAL UNIT IN ACCORDANCE WITH SUBSECTION (C) OF THIS SECTION AS
+10 FOLLOWS:
+
+11 (1) BEGINNING JUNE 1, 2026, FOR NEWLY CONSTRUCTED
+12 RESIDENTIAL RENTAL UNITS; AND
+
+13 (2) BEGINNING OCTOBER 1, 2026, FOR RESIDENTIAL RENTAL UNITS
+14 THAT UNDERGO RENOVATION THAT INCLUDES THE REPLACEMENT OR SUBSTANTIAL
+15 UPGRADE OF ELECTRICAL SYSTEMS OR HEATING SYSTEMS.
+
+16 (C) EXCEPT AS OTHERWISE NECESSARY FOR PURPOSES OF REASONABLE
+17 MAINTENANCE AND REPAIR, EACH YEAR FROM JUNE 1 TO SEPTEMBER 30, BOTH
+18 INCLUSIVE, A LANDLORD SHALL PROVIDE AIR–CONDITIONING IN EACH
+19 RESIDENTIAL UNIT AS FOLLOWS:
+
+20 (1) FOR AN AIR–CONDITIONING SYSTEM THAT IS NOT UNDER THE
+21 CONTROL OF THE TENANT, THE LANDLORD SHALL MAINTAIN THE TEMPERATURE IN
+22 THE UNIT AT NOT GREATER THAN 80 DEGREES FAHRENHEIT AT 3 FEET ABOVE THE
+23 FLOOR LEVEL IN EACH HABITABLE SPACE IN THE UNIT; AND
+
+24 (2) FOR AN AIR–CONDITIONING SYSTEM THAT IS UNDER THE
+25 CONTROL OF THE TENANT, THE LANDLORD SHALL ENSURE THAT THE
+26 AIR–CONDITIONING SYSTEM IS IN GOOD WORKING ORDER AND IS CAPABLE OF
+27 MAINTAINING THE TEMPERATURE IN THE UNIT AT NOT GREATER THAN 80 DEGREES
+28 FAHRENHEIT AT 3 FEET ABOVE THE FLOOR LEVEL IN EACH HABITABLE SPACE IN
+29 THE UNIT.
+
+30 (D) THIS SECTION DOES NOT PRECLUDE A POLITICAL SUBDIVISION FROM
+31 ENACTING AND ENFORCING AIR–CONDITIONING REQUIREMENTS FOR RESIDENTIAL
+32 RENTAL UNITS THAT ARE MORE STRINGENT THAN THE REQUIREMENTS OF THIS
+33 SECTION.
+END OF PAGE 2
+
+START OF PAGE 3
+HOUSE BILL 153 3
+
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall be construed to
+2 apply only prospectively and may not be applied or interpreted to have any effect on or
+3 application to any building construction or renovation for which the building permit is
+4 issued before the effective date of this Act.
+
+5 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+6 1, 2026.
+
+Approved:
+
+________________________________________________________________________________
+Governor.
+
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+________________________________________________________________________________
+President of the Senate.
+END OF PAGE 3
+</bill>

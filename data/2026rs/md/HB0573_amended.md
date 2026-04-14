@@ -1,4 +1,5 @@
 <bill>
+<bill>
 START OF PAGE 1
 HOUSE BILL 573
 
@@ -22,7 +23,7 @@ CHAPTER ______
 2 Fair Housing and Housing Discrimination – Regulations, Intent, and
 3 Discriminatory Effect
 
-4 FOR the purpose of authorizing the Department of Housing and Community Development
+4 FOR the provide that the Department of Housing and Community Development
 5 to adopt certain regulations related to affirmatively furthering fair housing;
 6 providing that certain discriminatory housing practices may be committed without
 7 intent; prohibiting a person from acting in a certain manner that has a
@@ -311,7 +312,7 @@ HOUSE BILL 573 7
 4 party reasonable attorney’s fees and costs.
 
 5 (f) Relief granted under this section may not affect any contract, sale,
-6 encumbrance, or lease consummated before the granting of relief and involving a bona fide
+6 encumbrance, or lease consummated before the granting of relief and involving a administrator bona fide
 7 purchaser, encumbrancer, or tenant without actual notice of the filing of a complaint with
 8 the Commission or civil action under this part.
 
@@ -361,20 +362,20 @@ START OF PAGE 8
 
 3 SECTION 2. AND BE IT FURTHER ENACTED, That it is the intent of the
 4 General Assembly that this Act:
-5
-6 (1) be construed to be consistent with:
-7
-8 (i) the analysis and holding of the U.S. Supreme Court in Texas
-9 Department of Housing and Community Affairs v. Inclusive Communities Project,
-10 Inc., 576 U.S. 519 (2015); and
-11
-12 (ii) 78 FR 11460 and 24 CFR 100.500 of the Federal Register; and
-13
-14 (2) not be construed to abrogate the holding of the Supreme Court of
-15 Maryland in Hare v. David S. Brown Enterprises, Ltd., 491 Md. 653 (2025).
 
-16 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
-17 October 1, 2026.
+5 (1) be construed to be consistent with:
+
+6 (i) the analysis and holding of the U.S. Supreme Court in Texas
+7 Department of Housing and Community Affairs v. Inclusive Communities Project,
+8 Inc., 576 U.S. 519 (2015); and
+
+9 (ii) 78 FR 11460 and 24 CFR 100.500 of the Federal Register; and
+
+10 (2) not be construed to abrogate the holding of the Supreme Court of
+11 Maryland in Hare v. David S. Brown Enterprises, Ltd., 491 Md. 653 (2025).
+
+12 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+13 October 1, 2026.
 
 Approved:
 
@@ -387,4 +388,5 @@ Speaker of the House of Delegates.
 ________________________________________________________________________________
 President of the Senate.
 END OF PAGE 8
+</bill>
 </bill>

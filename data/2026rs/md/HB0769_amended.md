@@ -1,4 +1,5 @@
 <bill>
+<bill>
 START OF PAGE 1
 HOUSE BILL 769
 
@@ -6,7 +7,7 @@ J2 EMERGENCY BILL 6lr2762
 HB 1521/25 – HGO CF SB 18
 
 By: Delegates Woods, Cullison, Bhandari, Coley, Fair, J. Long, Martinez,
-Roberson, Roberts, Simmons, Taylor, ~~and~~ ~~Toles~~ Toles, Alston, Bagnall,
+Roberson, Roberts, Simmons, Taylor, Toles, Alston, Bagnall,
 Guzzone, Hill, S. Johnson, Kaufman, Lopez, Rosenberg, Ross, Taveras,
 White Holland, and Woorman
 Introduced and read first time: February 4, 2026
@@ -18,30 +19,31 @@ Read second time: March 1, 2026
 
 CHAPTER ______
 
-1 AN ACT concerning
+1 AN ACT oncology
 
-2 State Board of Social Work Examiners – ~~Conditional~~ Provisional License to
-3 Practice Social Work – ~~Revisions~~ Established
+2 State Board of Social Work Examiners – Conditional and Provisional Licenses to
+3 Practice Social Work – Revisions and Establishment
 
-4 FOR the delete of ~~altering~~ ~~the~~ ~~circumstances~~ ~~under~~ ~~which~~ ~~the~~ ~~Board~~ ~~of~~ ~~Social~~ ~~Work~~
-5 ~~Examiners~~ ~~may~~ ~~issue~~ ~~a~~ ~~conditional~~ ~~license~~ ~~to~~ ~~practice~~ ~~social~~ ~~work;~~ establishing
-6 ~~alternate~~ ~~pathways~~ a provisional social work license through which an individual
-7 issued a ~~conditional~~ provisional license may receive a full license; and generally
-8 relating to licenses to practice social work.
+4 FOR the purpose of altering the circumstances under which the Board of Social Work
+5 Examiners may issue a conditional license to practice social work; establishing
+6 a provisional social work license through which an individual issued a
+7 provisional license may receive a full license; establishing certain alternate
+8 pathways through which an individual issued a conditional license may receive
+9 a full license; and generally relating to licenses to practice social work.
 
-9 BY repealing and reenacting, without amendments,
-10 Article – Health Occupations
-11 Section 19–101(a), ~~(c–1),~~ ~~and~~ ~~(e)~~ and (c–1)
-12 Annotated Code of Maryland
-13 (2021 Replacement Volume and 2025 Supplement)
+10 BY repealing and reenacting, without amendments,
+11 Article – Health Occupations
+12 Section 19–101(a) and (c–1)
+13 Annotated Code of Maryland
+14 (2021 Replacement Volume and 2025 Supplement)
 
-14 BY repealing and reenacting, with amendments,
-15 Article – Health Occupations
-16 Section ~~19–309.1~~ 19–101(e)
-17 Annotated Code of Maryland
-18 (2021 Replacement Volume and 2025 Supplement)
+15 BY repealing and reenacting, with amendments,
+16 Article – Health Occupations
+17 Section 19–101(e) and 19–309.1
+18 Annotated Code of Maryland
+19 (2021 Replacement Volume and 2025 Supplement)
 
-19 BY adding to
+20 BY adding to
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
 [Brackets] indicate matter deleted from existing law.
@@ -85,7 +87,7 @@ START OF PAGE 2
 
 19 (iii) Certified social work; or
 
-20 (iv) Certified social work–clinical; ~~or~~
+20 (iv) Certified social work–clinical;
 
 21 (2) A conditional license issued by the Board; OR
 
@@ -137,9 +139,7 @@ HOUSE BILL 769 3
 22 MONTHS, BUT NOT MORE THAN 24 MONTHS, AFTER THE DATE OF ISSUANCE;
 
 23 (2) MAY NOT BE RENEWED; AND
-
 24
-
 25 (3) SHALL TERMINATE AUTOMATICALLY ON:
 
 26 (I) THE EXPIRATION DATE; OR
@@ -192,7 +192,9 @@ START OF PAGE 4
 28 HEALTH COMMITTEE, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT
 29 ARTICLE, THE FOLLOWING INFORMATION FOR THE IMMEDIATELY PRECEDING
 30 12–MONTH PERIOD:
-
+31
+32
+33
 END OF PAGE 4
 
 START OF PAGE 5
@@ -210,18 +212,18 @@ HOUSE BILL 769 5
 6 (II) THE IMPACT OF THIS SECTION ON THE HEALTH CARE
 7 WORKFORCE.
 
-8 ~~19–309.1.~~
+8 19–309.1.
 
 9 (a) [If an administrative delay for any reason or an unforeseen circumstance, act,
-10 ~~or~~ ~~occurrence~~ ~~prevents~~ ~~an~~ ~~examination~~ ~~required~~ ~~under~~ ~~this~~ ~~subtitle~~ ~~from~~ ~~being~~ ~~available~~ ~~to~~
+10 or occurrence prevents an examination required under this subtitle from being available to
 11 an applicant for a period of at least 15 business days, the] THE Board [may] SHALL issue
 12 a conditional license to an applicant who, except for passing the examination OTHERWISE
 13 REQUIRED UNDER THIS SUBTITLE, has met the appropriate education and experience
-14 ~~requirements~~ ~~of~~ ~~this~~ ~~subtitle~~ ~~for~~ ~~a~~ ~~license~~ ~~issued~~ ~~under~~ ~~§~~ ~~19–302~~ ~~of~~ ~~this~~ ~~subtitle~~ ~~to~~ ~~practice:~~
+14 requirements of this subtitle for a license issued under § 19–302 of this subtitle to practice:
 
-15 ~~(1)~~ ~~Bachelor~~ ~~social~~ ~~work;~~ ~~or~~
+15 (1) Bachelor social work; or
 
-16 ~~(2)~~ ~~Master~~ ~~social~~ ~~work.~~
+16 (2) Master social work.
 
 17 (b) A conditional license issued under this section [authorizes]:
 
@@ -253,7 +255,7 @@ START OF PAGE 6
 
 3 (II) IF THE HOLDER APPLIES AND QUALIFIES FOR A LICENSE
 4 UNDER SUBSECTION (E) OF THIS SECTION, THE DATE THAT THE FULL LICENSE IS
-5 ~~ISSUED.~~
+5 ISSUED.
 
 6 (D) A HOLDER OF A CONDITIONAL LICENSE UNDER THIS SECTION AND THE
 7 SUPERVISING SOCIAL WORKER ARE JOINTLY RESPONSIBLE FOR ENSURING
@@ -265,7 +267,7 @@ START OF PAGE 6
 12 DEMONSTRATES TO THE SATISFACTION OF THE BOARD THAT THE HOLDER HAS:
 
 13 (1) ACHIEVED A SATISFACTORY SCORE ON AN EXAMINATION, AS
-14 REQUIRED UNDER § 19–302 OF THIS SUBTITLE; OR
+14 REQUIRED UNDER § 19–302 of THIS SUBTITLE; OR
 
 15 (2) COMPLETED AT LEAST 1,500 HOURS OF SUPERVISED
 16 EXPERIENCE IN THE PRACTICE OF SOCIAL WORK DURING THE PERIOD OF
@@ -302,21 +304,21 @@ HOUSE BILL 769 7
 6 COSTS.
 
 7 [(d)] (G) On or before December 31 each year, beginning in [2024,] 2026, the
-8 ~~Board~~ ~~shall~~ ~~report~~ ~~to~~ ~~the~~ ~~Senate~~ ~~Finance~~ ~~Committee~~ ~~and~~ ~~the~~ ~~House~~ ~~Health~~ ~~and~~
-9 ~~Government~~ ~~Operations~~ ~~Committee,~~ ~~in~~ ~~accordance~~ ~~with~~ ~~§~~ ~~2–1257~~ ~~of~~ ~~the~~ ~~State~~ ~~Government~~
-10 ~~Article,~~ ~~the~~ ~~following~~ ~~information~~ ~~for~~ ~~the~~ ~~immediately~~ ~~preceding~~ ~~12–month~~ ~~period:~~
+8 Board shall report to the Senate Finance Committee and the House Health and
+9 Government Operations Committee, in accordance with § 2–1257 of the State Government
+10 Article, the following information for the immediately preceding 12–month period:
 
 11 [(1) Whether the examination was unavailable at any time during the
-12 ~~reporting~~ ~~period;~~ ~~and~~
+12 reporting period; and
 
-13 ~~(2)~~ ~~If~~ ~~the~~ ~~examination~~ ~~was~~ ~~unavailable:~~
+13 (2) If the examination was unavailable:
 
-14 ~~(i)~~ ~~The~~ ~~number~~ ~~of~~ ~~applicants~~ ~~who~~ ~~were~~ ~~eligible~~ ~~for~~ ~~a~~ ~~conditional~~
-15 ~~license~~ ~~due~~ ~~to~~ ~~the~~ ~~unavailability~~ ~~of~~ ~~the~~ ~~examination;~~
+14 (i) The number of applicants who were eligible for a conditional
+15 license due to the unavailability of the examination;
 
-16 ~~(ii)~~ ~~The~~ ~~number~~ ~~of~~ ~~applicants~~ ~~who~~ ~~applied~~ ~~to~~ ~~take~~ ~~the~~ ~~examination;~~
+16 (ii) The number of applicants who applied to take the examination;
 
-17 ~~(iii)~~ ~~The~~ ~~number~~ ~~of~~ ~~applications~~ ~~that~~ ~~were~~ ~~delayed~~ ~~in~~ ~~processing;~~ ~~and~~
+17 (iii) The number of applications that were delayed in processing; and
 
 18 (iv) The number of conditional licenses issued under this section.]
 
@@ -339,4 +341,5 @@ HOUSE BILL 769 7
 30 each of the two Houses of the General Assembly, and shall take effect from the date it is
 31 enacted.
 END OF PAGE 7
+</bill>
 </bill>

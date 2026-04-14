@@ -1,8 +1,9 @@
 <bill>
+<bill>
 START OF PAGE 1
 HOUSE BILL 1247
 
-C8 EMERGENCY BILL 6lr3101
+C8 <u>EMERGENCY BILL</u> 6lr3101
 
 By: Prince George’s County Delegation
 Introduced and read first time: February 11, 2026
@@ -19,7 +20,7 @@ CHAPTER ______
 2 Prince George’s County – Tax Increment Financing – Extraordinary
 3 Development District – Alterations
 
-4 PG ~~425–25~~ 425–26
+4 PG ~~425–25~~ <u>425–26</u>
 
 5 FOR the purpose of altering the definition of “extraordinary development district” for the
 6 purpose of provisions of law governing tax increment financing to include a certain
@@ -29,22 +30,24 @@ CHAPTER ______
 10 entertainment venue in an extraordinary development district; authorizing the
 11 Maryland–National Capital Park and Planning Commission to enter into a certain
 12 agreement that pledges certain taxes as security for bonds issued by Prince George’s
-13 County contingent on the adoption of certain resolutions; and generally relating to
-14 tax increment financing of an extraordinary development district.
+13 County contingent on the adoption of certain resolutions; stating that an immersive
+14 entertainment venue is not a sign for the purpose of certain zoning ordinances;
+15 authorizing the Secretary of Transportation to issue certain waivers; and generally
+16 relating to tax increment financing of an extraordinary development district.
 
-15 BY renumbering
-16 Article – Economic Development
-17 Section 12–201(j) through (u)
-18 to be Section 12–201(k) through (v), respectively
-19 Annotated Code of Maryland
-20 (2024 Replacement Volume and 2025 Supplement)
+17 BY renumbering
+18 Article – Economic Development
+19 Section 12–201(j) through (u)
+20 to be Section 12–201(k) through (v), respectively
+21 Annotated Code of Maryland
+22 (2024 Replacement Volume and 2025 Supplement)
 
-21 BY repealing and reenacting, without amendments,
-22 Article – Economic Development
+23 BY repealing and reenacting, without amendments,
+24 Article – Economic Development
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
 [Brackets] indicate matter deleted from existing law.
-Underlining indicates amendments to bill.
+<u>Underlining</u> indicates amendments to bill.
 ~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
 amendment. *hb1247*
 END OF PAGE 1
@@ -73,6 +76,18 @@ START OF PAGE 2
 16 Section 18–310
 17 Annotated Code of Maryland
 18 (2012 Volume and 2025 Supplement)
+
+BY adding to
+Article – Land Use
+Section 25–214
+Annotated Code of Maryland
+(2012 Volume and 2025 Supplement)
+
+BY adding to
+Article – Transportation
+Section 8–706
+Annotated Code of Maryland
+(2020 Replacement Volume and 2025 Supplement)
 
 19 Preamble
 
@@ -291,10 +306,28 @@ START OF PAGE 6
 
 28 (2) the Commission has adopted a resolution approving the agreement.
 
+25–214.
+
+FOR THE PURPOSE OF COMPLIANCE UNDER SUBTITLE 27 OF THE PRINCE
+GEORGE’S COUNTY ZONING ORDINANCES, IF ANY VISUAL EFFECTS ARE
+DISPLAYED ON THE EXTERIOR OF AN IMMERSIVE ENTERTAINMENT VENUE, AS
+DEFINED IN § 12–201 OF THE ECONOMIC DEVELOPMENT ARTICLE, THE VISUAL
+EFFECTS MAY NOT BE CONSIDERED A SIGN.
+
+Article – Transportation
+
+8–706.
+
+FOR AN IMMERSIVE ENTERTAINMENT VENUE, AS DEFINED IN § 12–201 OF
+THE ECONOMIC DEVELOPMENT ARTICLE, THE SECRETARY MAY GRANT WAIVERS
+OR EXCEPTIONS TO ANY PROVISION IN THIS SUBTITLE THAT REQUIRES STATE
+APPROVAL.
+
 29 SECTION 3. AND BE IT FURTHER ENACTED, That this Act ~~shall~~ ~~take~~ ~~effect~~ ~~June~~
-30 ~~1,~~ ~~2026~~ is an emergency measure, is necessary for the immediate preservation of the public
-31 health or safety, has been passed by a yea and nay vote supported by three–fifths of all the
-32 members elected to each of the two Houses of the General Assembly, and shall take effect
-33 from the date it is enacted.
+30 ~~1,~~ ~~2026~~ <u>is an emergency measure, is necessary for the immediate preservation of the public</u>
+31 <u>health or safety, has been passed by a yea and nay vote supported by three–fifths of all the</u>
+32 <u>members elected to each of the two Houses of the General Assembly, and shall take effect</u>
+33 <u>from the date it is enacted.</u>
 END OF PAGE 6
+</bill>
 </bill>

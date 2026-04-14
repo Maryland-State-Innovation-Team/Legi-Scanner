@@ -1,0 +1,1014 @@
+HOUSE BILL 299
+
+K3 6lr0116
+(PRE–FILED) CF SB 60
+
+By: Chair, Government, Labor, and Elections Committee (By Request –
+Departmental – Labor)
+Requested: September 16, 2025
+Introduced and read first time: January 14, 2026
+Assigned to: Government, Labor, and Elections
+
+Committee Report: Favorable with amendments
+House action: Adopted with floor amendments
+Read second time: March 18, 2026
+
+CHAPTER ______
+
+1 AN ACT concerning
+
+2 Fraud Prevention, Prevailing Wage, and Living Wage – Prohibitions, Penalties,
+3 and Enforcement
+
+4 FOR the purpose of requiring the Commissioner of Labor and Industry and
+12 the Attorney General to take certain actions related to the enforcement of
+13 workplace fraud laws, prevailing wage laws, and living wage laws; ~~requiring~~ ~~a~~
+14 ~~subcontractor~~ ~~to~~ ~~indemnify~~ ~~a~~ ~~general~~ ~~contractor~~ ~~for~~ ~~certain~~ ~~wages,~~ ~~damages,~~ ~~interest,~~
+15 ~~penalties,~~ ~~or~~ ~~fees~~ ~~except~~ ~~under~~ ~~certain~~ ~~circumstances;~~ altering certain enforcement
+16 mechanisms related to workplace fraud laws, prevailing wage laws, and living wage
+17 laws, including authorizing the Attorney General to investigate and bring suit in a
+18 certain manner; requiring the Commissioner to develop a certain training and form language, make the training and form language publicly available on the Maryland Department of Labor’s website, and require certain contractors to take the training; requiring a licensing authority to revoke or suspend the license of a
+19 licensee for a certain workplace fraud violation under certain circumstances; ~~altering~~
+20 ~~the~~ ~~circumstances~~ ~~under~~ ~~which~~ ~~a~~ ~~person~~ ~~may~~ ~~be~~ ~~debarred~~ ~~under~~ ~~State~~ ~~procurement~~
+21 ~~law;~~ and generally relating to fraud prevention, ~~debarment,~~ prevailing wages, and
+22 living wages.
+
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0299*
+
+START OF PAGE 2
+2 HOUSE BILL 299
+
+16 BY repealing and reenacting, with amendments,
+17 Article – Labor and Employment
+18 Section 3–906, 3–908 through 3–910, 3–913, and 3–917
+19 Annotated Code of Maryland
+20 (2025 Replacement Volume)
+
+21 BY repealing and reenacting, without amendments,
+22 Article – Labor and Employment
+23 Section 3–911
+24 Annotated Code of Maryland
+25 (2025 Replacement Volume)
+
+26 BY adding to
+27 Article – Labor and Employment
+28 Section 3–912
+29 Annotated Code of Maryland
+30 (2025 Replacement Volume)
+
+31 BY repealing and reenacting, with amendments,
+32 Article – State Finance and Procurement
+33 Section ~~16–203(a)(9)~~ ~~and~~ ~~(10),~~ 17–221(g), 17–224, 18–107, and 18–109
+34 Annotated Code of Maryland
+35 (2021 Replacement Volume and 2025 Supplement)
+
+36 BY adding to
+37 Article – State Finance and Procurement
+38 Section 18–110
+39 Annotated Code of Maryland
+40 (2021 Replacement Volume and 2025 Supplement)
+
+START OF PAGE 3
+HOUSE BILL 299 3
+
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+
+START OF PAGE 5
+HOUSE BILL 299 5
+
+27 Article – Labor and Employment
+
+28 3–906.
+
+29 (a) [After] WITHIN 90 DAYS AFTER the employer has provided all the records
+30 requested under § 3–905(d) of this subtitle, the Commissioner shall:
+
+31 (1) issue a citation to the employer;
+
+START OF PAGE 6
+6 HOUSE BILL 299
+
+1 (2) REFER THE MATTER TO THE ATTORNEY GENERAL IN
+2 ACCORDANCE WITH § 3–910 OF THIS SUBTITLE; or
+
+3 (3) close the investigation [within 90 days].
+
+4 (b) Each citation shall:
+
+5 (1) describe in detail the nature of the alleged violation;
+
+6 (2) cite the provision of this subtitle or any regulation that the employer is
+7 alleged to have violated; and
+
+8 (3) state the civil penalty, if any, that the Commissioner proposes to assess.
+
+9 (c) Within a reasonable time after issuance of a citation, the Commissioner shall
+10 send by certified mail to the employer:
+
+11 (1) a copy of the citation; and
+
+12 (2) notice of the opportunity to request a hearing.
+
+13 (d) Within 15 days after an employer receives a notice under subsection (c) of this
+14 section, the employer may submit a written request for a hearing on the citation and
+15 proposed penalty.
+
+16 (e) If a hearing is not requested within 15 days, the citation, including any
+17 penalties, shall become a final order of the Commissioner.
+
+18 (f) (1) If the employer requests a hearing, the Commissioner shall delegate to
+19 the Office of Administrative Hearings the authority to hold a hearing and issue findings of
+20 fact, conclusions of law, and an order, and assess a penalty under § 3–909 of this subtitle
+21 in accordance with Title 10, Subtitle 2 of the State Government Article.
+
+22 (2) The employer is entitled to a hearing within 90 days after a timely
+23 request is made under this subsection, unless the employer waives that right.
+
+24 (g) Within 15 days after a request, in accordance with Title 4 of the General
+25 Provisions Article and the applicable regulations of the Department and the Office of
+26 Administrative Hearings, the Commissioner shall provide copies of all relevant evidence,
+27 including a list of potential witnesses, on which the Commissioner intends to rely at any
+28 administrative hearing under this subtitle.
+
+29 (h) The Commissioner has the burden of proof to show that an employer has
+30 knowingly failed to properly classify an individual as an employee.
+
+31 (i) A decision of an administrative law judge issued in accordance with Title 10,
+32 Subtitle 2 of the State Government Article shall become a final order of the Commissioner.
+
+START OF PAGE 7
+HOUSE BILL 299 7
+
+1 (j) Any party aggrieved by a final order of the Commissioner under subsection (i)
+2 of this section may seek judicial review and appeal under §§ 10–222 and 10–223 of the State
+3 Government Article.
+
+4 (K) (1) A GENERAL CONTRACTOR ON A PROJECT FOR CONSTRUCTION
+5 SERVICES, INCLUDING A PROJECT CONTRACTED FOR BY A PUBLIC BODY, IS SUBJECT
+6 TO CITATION AND JOINTLY AND SEVERALLY LIABLE FOR RESTITUTION TO ANY IMPACTED EMPLOYEE WHEN A VIOLATION OF THIS
+7 SUBTITLE IS COMMITTED BY A SUBCONTRACTOR, REGARDLESS OF WHETHER
+8 THE SUBCONTRACTOR IS IN A DIRECT CONTRACTUAL RELATIONSHIP WITH THE
+9 GENERAL CONTRACTOR.
+
+(2) A SUBCONTRACTOR SHALL INDEMNIFY A GENERAL
+CONTRACTOR FOR ANY WAGES, DAMAGES, INTEREST, PENALTIES, OR
+ATTORNEY’S FEES OWED AS A RESULT OF THE SUBCONTRACTOR’S VIOLATION
+UNLESS INDEMNIFICATION IS PROVIDED FOR IN A CONTRACT BETWEEN THE
+GENERAL CONTRACTOR AND THE SUBCONTRACTOR.
+
+10 3–908.
+
+11 (a) An employer in violation of § 3–903 of this subtitle who comes into timely
+12 compliance with all applicable labor laws as required by § 3–907(b) of this subtitle may not
+13 be assessed a civil penalty.
+
+14 (b) (1) An employer in violation of § 3–903 of this subtitle who fails to come
+15 into timely compliance with all applicable labor laws as required by § 3–907(b) of this
+16 subtitle shall be assessed a civil penalty of up to $1,000 for each employee for whom the
+17 employer is not in compliance, ONE–THIRD OF WHICH IS PAYABLE DIRECTLY TO THE
+18 INDIVIDUAL AFFECTED BY THE EMPLOYER’S VIOLATION, IN ADDITION TO ANY
+19 OTHER RESTITUTION OR BENEFIT TO WHICH THE INDIVIDUAL MAY BE ENTITLED
+20 UNDER THIS SUBTITLE.
+
+21 (2) In determining the amount of the penalty, the Commissioner shall
+22 consider the factors set forth in § 3–909(b) of this subtitle.
+
+23 (c) (1) An employer may be assessed civil penalties under this section by only
+24 one final order of a court or administrative unit for the same actions constituting
+25 noncompliance with applicable labor laws as required by § 3–907(b) and (c) of this subtitle.
+
+26 (2) Notwithstanding paragraph (1) of this subsection, an employer may be
+27 ordered to make restitution, pay any interest due, and otherwise comply with all applicable
+28 laws and regulations by multiple final orders of a court and all relevant administrative
+29 units, including the Comptroller, the Office of Unemployment Insurance, the Insurance
+30 Administration, and the Workers’ Compensation Commission.
+
+31 (d) Any penalty issued under this section against an employer shall be in effect
+32 against any successor corporation or business entity that:
+
+33 (1) has one or more of the same principals or officers as the employer
+34 against whom the penalty was assessed; and
+
+35 (2) is engaged in the same or equivalent trade or activity.
+
+START OF PAGE 8
+8 HOUSE BILL 299
+
+1 3–909.
+
+2 (a) An employer found to have knowingly failed to properly classify an individual
+3 in violation of § 3–904 of this subtitle shall be assessed a civil penalty of up to $10,000 for
+4 each employee who was not properly classified, ONE–THIRD OF WHICH IS PAYABLE
+5 DIRECTLY TO THE INDIVIDUAL AFFECTED BY THE EMPLOYER’S VIOLATION, IN
+6 ADDITION TO ANY OTHER RESTITUTION OR BENEFIT TO WHICH THE INDIVIDUAL MAY
+7 BE ENTITLED UNDER THIS SUBTITLE.
+
+8 (b) In determining the amount of the penalty, the Commissioner or the
+9 administrative law judge shall consider:
+
+10 (1) the gravity of the violation;
+
+11 (2) the size of the employer’s business;
+
+12 (3) the employer’s good faith;
+
+13 (4) the employer’s history of violations under this subtitle; and
+
+14 (5) whether the employer:
+
+15 (i) has been found, by a court or an administrative unit, to have
+16 deprived the employee of any rights to which the employee would have been entitled under
+17 a State protective labor law, including but not limited to:
+
+18 1. any provision of this article;
+
+19 2. the State prevailing wage law, under §§ 17–221 and
+20 17–222 of the State Finance and Procurement Article; or
+
+21 3. the living wage law, under § 18–108 of the State Finance
+22 and Procurement Article; and
+
+23 (ii) has made restitution and come into compliance with all such
+24 State protective labor laws with respect to the employee.
+
+25 (c) If the court or an administrative unit determines that an individual or class
+26 of individuals is entitled to restitution as a result of the employer’s violation of § 3–904 of
+27 this subtitle, the court or administrative unit:
+
+28 (1) shall award each individual any restitution to which the individual may
+29 be entitled; and
+
+30 (2) may award each individual an additional amount up to three times the
+31 amount of such restitution.
+
+START OF PAGE 9
+HOUSE BILL 299 9
+
+1 (d) An employer in violation of § 3–904 of this subtitle may be assessed double the
+2 administrative penalties set forth in subsection (a) of this section if the employer has been
+3 found previously to have violated this subtitle by a final order of a court or an
+4 administrative unit.
+
+5 (e) An employer who has been found by a final order of a court or an
+6 administrative unit to have violated § 3–904 of this subtitle three or more times may be
+7 assessed an administrative penalty of up to $20,000 for each employee.
+
+8 (f) (1) An employer may be assessed civil penalties under this section or §
+9 8–201.1 or § 9–402.1 of this article by only one final order of a court or administrative unit
+10 for the same actions constituting a violation of this subtitle.
+
+11 (2) Notwithstanding paragraph (1) of this subsection, an employer may be
+12 ordered to make restitution, pay any interest due, and otherwise comply with all applicable
+13 laws and regulations by orders of a court and all relevant administrative units, including
+14 the Comptroller, the Office of Unemployment Insurance, the Insurance Administration,
+15 and the Workers’ Compensation Commission.
+
+16 (g) Any penalty issued under this section against an employer shall be in effect
+17 against any successor corporation or business entity that:
+
+18 (1) has one or more of the same principals or officers as the employer
+19 against whom the penalty was assessed, unless the principal or officer did not or with the
+20 exercise of reasonable diligence could not know of the violation for which the penalty was
+21 imposed; and
+
+22 (2) is engaged in the same or equivalent trade or activity.
+
+23 3–910.
+
+24 (a) As authorized by State and federal law, units within the Maryland
+25 Department of Labor and the Department of Budget and Management, the Secretary of
+26 State, the Comptroller, the Maryland Insurance Administration, THE OFFICE OF THE
+27 ATTORNEY GENERAL, and other State agencies shall cooperate and share information
+28 concerning any suspected failure to properly classify an individual as an employee.
+
+29 (b) On a showing by clear and convincing evidence that a violation of § 3–904 of
+30 this subtitle has occurred and as authorized by federal and State law, the Commissioner
+31 shall refer any complaint that alleges a violation of § 13–1007 or § 13–1024 of the Tax –
+32 General Article to the:
+
+33 (1) Comptroller;
+
+34 (2) State’s Attorney with jurisdiction over the alleged violation;
+
+START OF PAGE 10
+10 HOUSE BILL 299
+
+1 (3) U.S. Department of Justice;
+
+2 (4) U.S. Department of Labor; and
+
+3 (5) U.S. Department of the Treasury.
+
+4 (C) (1) TO ASSIST IN THE ENFORCEMENT OF THIS SUBTITLE, THE
+6 COMMISSIONER AND THE ATTORNEY GENERAL, OR THEIR DESIGNEES, SHALL MEET
+7 AT LEAST MONTHLY TO SHARE INFORMATION ON A MONTHLY BASIS CONCERNING
+8 MATTERS ARISING UNDER THIS SUBTITLE AND TITLES 16 AND 18 AND TITLE 17, SUBTITLE 2 OF THE STATE
+10 FINANCE AND PROCUREMENT ARTICLE, INCLUDING AT A MINIMUM:
+
+11 (I) THE CONTENT OF COMPLAINTS OR REFERRALS RECEIVED
+12 CONCERNING POTENTIAL VIOLATIONS AND ACTIONS TAKEN; AND
+
+13 (II) THE STATUS OF INVESTIGATIONS INITIATED, INCLUDING
+14 ANY DETERMINATION OF MERIT OR RECOVERY SOUGHT OR OBTAINED.
+
+15 (2) THE COMMISSIONER SHALL REFER TO THE ATTORNEY GENERAL
+16 ANY COMPLAINT OR REFERRAL ARISING UNDER THIS SUBTITLE FOR WHICH THE
+17 COMMISSIONER HAS:
+
+18 (I) NOT INITIATED AN INVESTIGATION WITHIN 6 MONTHS
+19 AFTER RECEIPT;
+
+20 (II) DECLINED TO INVESTIGATE; OR
+
+21 (III) NOT ISSUED A CITATION OR HAS CLOSED AN INVESTIGATION
+22 IN ACCORDANCE WITH § 3–906(A) OF THIS SUBTITLE DUE TO A FINDING OF NO
+23 MERIT.
+
+24 (3) (I) IN A MATTER REFERRED TO THE ATTORNEY GENERAL
+25 UNDER PARAGRAPH (2) OF THIS SUBSECTION, THE ATTORNEY GENERAL MAY
+26 EXERCISE THE COMMISSIONER’S INVESTIGATIVE POWERS, INCLUDING SUBPOENA
+27 POWERS, PROVIDED UNDER THIS SUBTITLE.
+
+28 (II) IF, AFTER AN INVESTIGATION, THE ATTORNEY GENERAL
+29 FINDS A MATTER TO BE MERITORIOUS, THE ATTORNEY GENERAL SHALL PROVIDE
+30 NOTICE TO AND CONSULT WITH THE COMMISSIONER, AFTER WHICH THE ATTORNEY
+31 GENERAL MAY BRING AN ACTION FOR:
+
+START OF PAGE 11
+HOUSE BILL 299 11
+
+1 1. THE IMPOSITION OF CIVIL PENALTIES UNDER § 3–908
+2 OR § 3–909 OF THIS SUBTITLE; OR
+
+3 2. THE RELIEF DESCRIBED UNDER § 3–911(C) OF THIS
+4 SUBTITLE.
+
+5 (4) THE COMMISSIONER AND THE ATTORNEY GENERAL SHALL
+7 COOPERATE IN THE INVESTIGATION OF ANY MATTER ARISING UNDER THIS
+8 SUBTITLE THAT IS OF UNUSUAL SCOPE OR COMPLEXITY OR INVOLVES A NOVEL OR
+9 COMPLEX LEGAL ISSUE.
+
+19 3–911.
+
+20 (a) (1) Except as provided in paragraph (2) of this subsection, an individual
+21 who has not been properly classified as an employee may bring a civil action for economic
+22 damages against the employer for any violation of this subtitle.
+
+23 (2) An individual may not bring a civil action under this section if a final
+24 order of an administrative unit or of a court has been issued under § 3–906 of this subtitle.
+
+25 (b) An action filed under this section shall be filed within 3 years after the date
+26 the cause of action accrues.
+
+27 (c) If the court determines that an individual or class of individuals is entitled to
+28 judgment in an action against an employer filed in accordance with this section, the court
+29 may award each individual:
+
+30 (1) any damages to which the individual may be entitled under subsection
+31 (a) of this section;
+
+32 (2) an additional amount up to three times the amount of any such
+33 damages, if the employer knowingly failed to properly classify the individual;
+
+START OF PAGE 12
+12 HOUSE BILL 299
+
+1 (3) reasonable counsel fees and other costs of the action; and
+
+2 (4) any other appropriate relief.
+
+3 3–912.
+
+4 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+5 INDICATED.
+
+6 (2) “LICENSE” MEANS A LICENSE, CERTIFICATE, REGISTRATION,
+7 PERMIT, OR OTHER AUTHORIZATION THAT:
+
+8 (I) IS ISSUED BY A LICENSING AUTHORITY;
+
+9 (II) IS SUBJECT TO SUSPENSION, REVOCATION, FORFEITURE,
+10 OR TERMINATION BY A LICENSING AUTHORITY; AND
+
+11 (III) IS NECESSARY FOR A PERSON TO PRACTICE OR ENGAGE IN
+12 A PARTICULAR BUSINESS, OCCUPATION, OR PROFESSION.
+
+13 (3) “LICENSEE” MEANS AN EMPLOYER HOLDING A VALID LICENSE.
+
+14 (4) (I) “LICENSING AUTHORITY” MEANS A UNIT OF THE DIVISION
+15 OF OCCUPATIONAL AND PROFESSIONAL LICENSING IN THE MARYLAND
+16 DEPARTMENT OF LABOR.
+
+17 (II) “LICENSING AUTHORITY” INCLUDES:
+
+18 1. THE ELEVATOR SAFETY REVIEW BOARD;
+
+19 2. THE MARYLAND HOME IMPROVEMENT COMMISSION;
+
+20 3. THE STATE BOARD OF ELECTRICIANS;
+
+21 4. THE STATE BOARD OF HEATING, VENTILATION,
+22 AIR–CONDITIONING, AND REFRIGERATION CONTRACTORS;
+
+23 5. THE STATE BOARD OF PLUMBING;
+
+24 6. THE MARYLAND BOARD OF PUBLIC ACCOUNTANCY;
+25 AND
+
+26 7. THE MARYLAND BOARD OF INDIVIDUAL TAX
+27 PREPARERS.
+
+START OF PAGE 13
+HOUSE BILL 299 13
+
+1 (B) (1) THE COMMISSIONER SHALL NOTIFY THE APPLICABLE LICENSING
+2 AUTHORITY WHEN A LICENSEE IS FOUND IN VIOLATION OF § 3–903 OF THIS
+3 SUBTITLE BY A FINAL ORDER OF A COURT OR AN ADMINISTRATIVE UNIT AND THE
+4 LICENSEE:
+
+5 (I) HAS NOT PAID ALL PENALTIES ASSESSED UNDER THIS
+6 SUBTITLE FOR A VIOLATION OF § 3–903 OF THIS SUBTITLE; AND
+
+7 (II) WITHIN 45 DAYS AFTER ISSUANCE OF THE FINAL ORDER OF
+8 A COURT OR ADMINISTRATIVE UNIT, HAS FAILED TO COMPLY WITH THE FINAL
+9 ORDER ISSUED, INCLUDING PAYMENT OF RESTITUTION OWED, IN ACCORDANCE
+10 WITH § 3–907 OF THIS SUBTITLE FOR FAILING TO PROPERLY CLASSIFY AN
+11 EMPLOYEE.
+
+12 (2) THE COMMISSIONER SHALL NOTIFY THE APPLICABLE LICENSING
+13 AUTHORITY WHEN A LICENSEE IS FOUND IN VIOLATION OF § 3–904 OR § 3–915 OF
+14 THIS SUBTITLE BY A FINAL ORDER OF A COURT OR AN ADMINISTRATIVE UNIT.
+
+15 (C) SUBJECT TO SUBSECTION (D) OF THIS SECTION, IF A LICENSING
+16 AUTHORITY RECEIVES A NOTIFICATION MADE UNDER SUBSECTION (B) OF THIS
+17 SECTION, THE LICENSING AUTHORITY SHALL SUSPEND OR REVOKE THE LICENSE OF
+18 THE LICENSEE.
+
+19 (D) (1) BEFORE SUSPENDING OR REVOKING A LICENSE UNDER
+20 SUBSECTION (C) OF THIS SECTION, A LICENSING AUTHORITY SHALL SEND WRITTEN
+21 NOTICE OF THE PROPOSED ACTION TO THE LICENSEE WHOSE LICENSE IS SUBJECT
+22 TO SUSPENSION OR REVOCATION, INCLUDING NOTICE OF THE LICENSEE’S RIGHT TO
+23 CONTEST THE IDENTITY OF THE LICENSEE WHOSE LICENSE IS TO BE SUSPENDED OR
+24 REVOKED.
+
+25 (2) (I) A LICENSEE MAY APPEAL A DECISION OF A LICENSING
+26 AUTHORITY TO SUSPEND OR REVOKE THE LICENSE IN ACCORDANCE WITH TITLE 10,
+27 SUBTITLE 2 OF THE STATE GOVERNMENT ARTICLE.
+
+28 (II) AT A HEARING INITIATED UNDER SUBPARAGRAPH (I) OF
+29 THIS PARAGRAPH, THE ISSUE SHALL BE LIMITED TO WHETHER THE COMMISSIONER
+30 HAS MISTAKEN THE IDENTITY OF THE LICENSEE WHOSE LICENSE HAS BEEN
+31 SUSPENDED OR REVOKED.
+
+32 (E) (1) A LICENSING AUTHORITY MAY NOT REINSTATE A LICENSE THAT
+33 HAS BEEN SUSPENDED OR REVOKED UNDER SUBSECTION (C) OF THIS SECTION
+34 BASED ON A NOTIFICATION MADE UNDER SUBSECTION (B)(1) OF THIS SECTION
+
+START OF PAGE 14
+14 HOUSE BILL 299
+
+1 UNTIL THE COMMISSIONER PROVIDES NOTICE TO THE LICENSING AUTHORITY IN
+2 ACCORDANCE WITH PARAGRAPH (2) OF THIS SUBSECTION.
+
+3 (2) THE COMMISSIONER SHALL NOTIFY THE LICENSING AUTHORITY
+4 WITHIN 10 DAYS AFTER THE COMMISSIONER FIRST RECEIVES:
+
+5 (I) A COURT ORDER TO REINSTATE THE LICENSE; OR
+
+6 (II) WITH RESPECT TO A LICENSEE WHO IS SUBJECT TO A FINAL
+7 ORDER OF A COURT OR AN ADMINISTRATIVE UNIT TO PAY PENALTIES OR
+8 RESTITUTION FOR A VIOLATION OF § 3–903 OF THIS SUBTITLE, NOTICE THAT THE
+9 LICENSEE HAS COMPLIED WITH THE ORDER AND PAID ALL PENALTIES AND
+10 RESTITUTION IN FULL.
+
+11 (3) A LICENSING AUTHORITY SHALL IMMEDIATELY REINSTATE ANY
+12 LICENSE SUSPENDED OR REVOKED UNDER SUBSECTION (C) OF THIS SECTION IF:
+
+13 (I) NOTIFIED BY THE COMMISSIONER THAT THE LICENSE
+14 SHOULD BE REINSTATED; AND
+
+15 (II) THE LICENSEE OTHERWISE QUALIFIES FOR THE LICENSE.
+
+16 (4) A LICENSING AUTHORITY MAY NOT REINSTATE A LICENSE THAT
+17 HAS BEEN SUSPENDED OR REVOKED UNDER SUBSECTION (C) OF THIS SECTION
+18 BASED ON A NOTIFICATION UNDER SUBSECTION (B)(2) OF THIS SECTION UNTIL:
+
+19 (I) THE INDIVIDUAL WHOSE LICENSE HAS BEEN REVOKED OR
+20 SUSPENDED SUBMITS A WRITTEN REQUEST TO THE LICENSING AUTHORITY;
+
+21 (II) THE LICENSING AUTHORITY HOLDS A HEARING ON THE
+22 REQUEST;
+
+23 (III) THE LICENSING AUTHORITY, BY AN AFFIRMATIVE VOTE OF
+24 A MAJORITY OF ITS MEMBERS:
+
+25 1. DETERMINES THAT THE INDIVIDUAL HAS
+26 DEMONSTRATED BY A PREPONDERANCE OF THE EVIDENCE THAT ANY CONDITIONS
+27 OF THE SUSPENSION OR REVOCATION HAVE BEEN FULFILLED; AND
+
+28 2. VOTES TO REINSTATE THE LICENSE; AND
+
+29 (IV) THE INDIVIDUAL PAYS TO THE LICENSING AUTHORITY ANY
+30 REINSTATEMENT FEE SET BY THE LICENSING AUTHORITY.
+
+START OF PAGE 15
+HOUSE BILL 299 15
+
+1 (F) (1) ADVERSE LICENSING ACTIONS TAKEN UNDER THIS SECTION MAY
+2 BE IMPOSED IN ADDITION TO ANY OTHER ACTIONS TAKEN IN THE ENFORCEMENT OF
+3 THIS SUBTITLE.
+
+4 (2) ADVERSE LICENSING ACTIONS TAKEN UNDER THIS SECTION
+5 SHALL BE IN EFFECT AGAINST:
+
+6 (I) ANY SUCCESSOR CORPORATION OR BUSINESS ENTITY THAT:
+
+7 1. HAS ONE OR MORE OF THE SAME PRINCIPALS OR
+8 OFFICERS AS THE LICENSEE AGAINST WHOM THE ADVERSE ACTION WAS TAKEN
+9 UNLESS THE PRINCIPAL OR OFFICER DID NOT OR, WITH THE EXERCISE OF
+10 REASONABLE DILIGENCE, COULD NOT HAVE KNOWN OF THE VIOLATION FOR WHICH
+11 THE ADVERSE ACTION WAS TAKEN; AND
+
+12 2. IS ENGAGED IN OR INTENDS TO ENGAGE IN THE SAME
+13 OR EQUIVALENT TRADE OR ACTIVITY; AND
+
+14 (II) ANY INDIVIDUAL LICENSEE THAT WAS AN OFFICER, A
+15 DIRECTOR, A CONTROLLING SHAREHOLDER, A PARTNER, OR A MANAGER OF THE
+16 EMPLOYER AGAINST WHOM THE ADVERSE ACTION WAS TAKEN UNLESS THE
+17 OFFICER, DIRECTOR, CONTROLLING SHAREHOLDER, PARTNER, OR MANAGER DID
+18 NOT OR, WITH THE EXERCISE OF REASONABLE DILIGENCE, COULD NOT HAVE KNOWN
+19 OF THE VIOLATION FOR WHICH THE ADVERSE ACTION WAS TAKEN.
+
+20 3–913.
+
+21 (a) Where, after investigation, the Commissioner issues a citation for a knowing
+22 violation of this subtitle or regulations adopted under this subtitle by an employer engaged
+23 in work on a contract with a public body, the Commissioner shall promptly notify the public
+24 body AND THE GENERAL CONTRACTOR.
+
+25 (b) (1) On notification, the public body shall withhold from payment due the
+26 employer an amount that is sufficient to:
+
+27 (i) pay restitution to each employee for the full amount of wages
+28 due; and
+
+29 (ii) pay any benefits, taxes, or other contributions that are required
+30 by law to be paid on behalf of the employee.
+
+31 (2) The public body shall release:
+
+START OF PAGE 16
+16 HOUSE BILL 299
+
+1 (i) on issuance of a favorable final order of a court or an
+2 administrative unit, the full amount of the withheld funds; and
+
+3 (ii) on an adverse final order of a court or an administrative unit, the
+4 balance of the withheld funds after all obligations are satisfied under paragraph (1) of this
+5 subsection.
+
+3–917.
+
+(A) THE COMMISSIONER SHALL:
+
+(1) DEVELOP A TRAINING COURSE ON THE REQUIREMENTS OF
+THIS SUBTITLE;
+
+(2) MAKE THE TRAINING PUBLICLY AVAILABLE ON THE
+DEPARTMENT’S WEBSITE; AND
+
+(3) REQUIRE A CONTRACTOR FOUND TO HAVE VIOLATED THIS
+SUBTITLE TO COMPLETE THE TRAINING.
+
+(B) THE COMMISSIONER SHALL:
+
+(1) DEVELOP FORM LANGUAGE THAT CONTRACTORS MAY USE
+WHEN ADVISING SUBCONTRACTORS OF THE REQUIREMENTS OF §§ 3–903.1 AND
+3–914 OF THIS SUBTITLE; AND
+
+(2) PUBLISH THE FORM LANGUAGE ON THE DEPARTMENT’S
+WEBSITE.
+
+(C) The Commissioner shall adopt regulations to carry out this subtitle.
+
+6 Article – State Finance and Procurement
+
+7 ~~16–203.~~
+
+8 ~~(a)~~ ~~A~~ ~~person~~ ~~may~~ ~~be~~ ~~debarred~~ ~~from~~ ~~entering~~ ~~into~~ ~~a~~ ~~contract~~ ~~with~~ ~~the~~ ~~State~~ ~~if~~ ~~the~~
+9 ~~person,~~ ~~an~~ ~~officer,~~ ~~partner,~~ ~~controlling~~ ~~stockholder~~ ~~or~~ ~~principal~~ ~~of~~ ~~that~~ ~~person,~~ ~~or~~ ~~any~~ ~~other~~
+10 ~~person~~ ~~substantially~~ ~~involved~~ ~~in~~ ~~that~~ ~~person’s~~ ~~contracting~~ ~~activities~~ ~~has:~~
+
+11 (9) been found to have REPEATEDLY OR willfully or knowingly violated
+12 ~~Title~~ ~~17,~~ ~~Subtitle~~ ~~2~~ ~~or~~ ~~Title~~ ~~18~~ ~~of~~ ~~this~~ ~~article~~ ~~if:~~
+
+13 ~~(i)~~ ~~1.~~ ~~the~~ ~~finding~~ ~~was~~ ~~made~~ ~~by~~ ~~a~~ ~~court;~~ ~~and~~
+
+14 ~~2.~~ ~~the~~ ~~decision~~ ~~of~~ ~~the~~ ~~court~~ ~~became~~ ~~final;~~ ~~or~~
+
+15 (ii) 1. the finding was made IN ACCORDANCE WITH A FINAL
+16 ADMINISTRATIVE ORDER OR in a contested case under the Administrative Procedure Act;
+17 ~~and~~
+
+18 2. IF MADE IN A CONTESTED CASE, the finding was not
+19 ~~overturned~~ ~~on~~ ~~judicial~~ ~~review;~~
+
+20 (10) been found to have REPEATEDLY OR willfully or knowingly violated
+21 Title 3, Subtitle 3, Subtitle 4, [or] Subtitle 5, OR SUBTITLE 9 or Title 5 of the Labor and
+22 ~~Employment~~ ~~Article~~ ~~if:~~
+
+23 ~~(i)~~ ~~1.~~ ~~the~~ ~~finding~~ ~~was~~ ~~made~~ ~~by~~ ~~a~~ ~~court;~~ ~~and~~
+
+24 ~~2.~~ ~~the~~ ~~decision~~ ~~of~~ ~~the~~ ~~court~~ ~~became~~ ~~final;~~ ~~or~~
+
+25 (ii) 1. the finding was made IN ACCORDANCE WITH A FINAL
+26 ADMINISTRATIVE ORDER OR in a contested case under the Administrative Procedure Act;
+27 ~~and~~
+
+28 2. IF MADE IN A CONTESTED CASE, the finding was not
+29 ~~overturned~~ ~~on~~ ~~judicial~~ ~~review;~~
+
+30 17–221.
+
+START OF PAGE 17
+HOUSE BILL 299 17
+
+1 (g) If after investigation, the Commissioner determines that a provision of this
+2 subtitle may have been violated and has not issued a stop work order in accordance with
+3 subsection (e) of this section, the Commissioner:
+
+4 (1) shall:
+
+5 [(1)] (I) issue an order for a hearing within 30 days after completing an
+6 investigation; and
+
+7 [(2)] (II) expeditiously conduct the hearing; OR
+
+8 (2) MAY REFER THE MATTER TO THE ATTORNEY GENERAL TO FILE A
+9 CIVIL ACTION IN ACCORDANCE WITH § 17–224 OF THIS SUBTITLE.
+
+10 17–224.
+
+11 (a) (1) If an employee under a public work contract is paid less than the
+12 prevailing wage rate for that employee’s classification for the work performed, the employee
+13 may file a complaint with the Commissioner.
+
+14 (2) Except as otherwise provided in this section, a complaint filed under
+15 this section shall be subject to the provisions of § 17–221 of this subtitle.
+
+16 (3) If the Commissioner’s investigation determines that the employer
+17 violated provisions of this subtitle, the Commissioner shall try to resolve the issue
+18 informally.
+
+19 (4) (i) If the Commissioner is unable to resolve the matter informally,
+20 the Commissioner [shall] MAY:
+
+21 1. issue an order for a hearing in accordance with §
+22 17–221 of this subtitle; OR
+
+23 2. REFER THE MATTER TO THE ATTORNEY GENERAL TO
+24 FILE A CIVIL ACTION IN ACCORDANCE WITH THIS SECTION.
+
+25 (ii) If, at the conclusion of a hearing ordered under subparagraph
+26 [(i)] (I)1 of this paragraph, the Commissioner determines that the employee is entitled to
+27 restitution under this subtitle, the Commissioner shall issue an order in accordance with §
+28 17–221 of this subtitle.
+
+29 (iii) If an employer of an employee found to be entitled to restitution
+30 under subparagraph (ii) of this paragraph is no longer working under a contract with a
+31 public body, the Commissioner may order that restitution be paid directly by the employer
+32 to the employee within a reasonable period of time, as determined by the Commissioner.
+
+START OF PAGE 18
+18 HOUSE BILL 299
+
+1 (5) If an employer fails to comply with an order to pay restitution to an
+2 employee under paragraph (4)(iii) of this subsection, the Commissioner or the employee
+3 may bring a civil action to enforce the order in the circuit court in the county where the
+4 employee or employer is located.
+
+5 (b) (1) If an employee under a public work contract is paid less than the
+6 prevailing wage rate for that employee’s classification for the work performed, the
+7 employee, OR THE COMMISSIONER ON BEHALF OF THE EMPLOYEE, is entitled to sue to
+8 recover the difference between the prevailing wage rate and the amount received by the
+9 employee.
+
+10 (2) AN EMPLOYEE BRINGING SUIT UNDER THIS SUBSECTION SHALL
+11 SERVE A COPY OF THE COMPLAINT ON THE COMMISSIONER.
+
+12 (3) A determination by the Commissioner that a contractor is required to
+13 make restitution under subsection (a)(4) of this section does not preclude an employee from
+14 filing an action under this subsection.
+
+15 (c) (1) An action under this section is considered to be a suit for wages.
+
+16 (2) A judgment in an action under this section shall have the same force
+17 and effect as any other judgment for wages.
+
+18 (3) An action brought under this section for a violation of this subtitle shall
+19 be filed within 3 years from the date the affected employee knew or should have known of
+20 the violation.
+
+21 (d) (1) The failure of an employee to protest orally or in writing the payment
+22 of a wage that is less than the prevailing wage rate is not a bar to recovery in an action
+23 under this section.
+
+24 (2) A contract or other written document in which an employee states that
+25 the employee shall be paid less than the amount required by this subtitle does not bar the
+26 recovery of any remedy required under this subtitle.
+
+27 (e) (1) Except as provided in paragraph (3) of this subsection, if the court in an
+28 action filed under this section finds that an employer paid an employee less than the
+29 requisite prevailing wage, the court shall award the affected employee the difference
+30 between the wage actually paid and the prevailing wage at the time that the services were
+31 rendered.
+
+32 (2) (i) Subject to subparagraph (ii) of this paragraph, unpaid fringe
+33 benefit contributions owed for an employee in accordance with this section shall be paid to
+34 the appropriate benefit fund, plan, or program.
+
+35 (ii) In the absence of an appropriate benefit fund, plan, or program,
+36 the amount owed for fringe benefits for an employee shall be paid directly to the employee.
+
+START OF PAGE 19
+HOUSE BILL 299 19
+
+1 (3) The court may order the payment of double damages or treble damages
+2 under this section if the court finds that the employer withheld wages or fringe benefits
+3 willfully and knowingly or with deliberate ignorance or reckless disregard of the employer’s
+4 obligations under this subtitle.
+
+5 (4) IN ADDITION TO ANY RELIEF PROVIDED UNDER PARAGRAPHS (1)
+6 THROUGH (3) OF THIS SUBSECTION, THE COMMISSIONER IS ENTITLED TO AN AWARD
+7 OF LIQUIDATED DAMAGES IN ACCORDANCE WITH § 17–222 OF THIS SUBTITLE.
+
+8 [(4)] (5) In an action under this section, the court shall award a prevailing
+9 plaintiff reasonable counsel fees and costs.
+
+10 [(5)] (6) If the court finds that an employee submitted a false or
+11 fraudulent claim in an action under this section, the court may order the employee to pay
+12 the employer reasonable counsel fees and costs.
+
+13 [(6)] (7) The contractor and subcontractor shall be jointly and severally
+14 liable for any violation of the subcontractor’s obligations under this section.
+
+15 (f) (1) Subject to paragraph (2) of this subsection, an action filed in accordance
+16 with this section may be brought by:
+
+17 (I) one or more employees on behalf of:
+
+18 1. that employee or group of employees; and [on behalf of]
+
+19 2. other employees similarly situated; OR
+
+20 (II) THE COMMISSIONER ON BEHALF OF:
+
+21 1. ONE OR MORE EMPLOYEES; OR
+
+22 2. ONE OR MORE EMPLOYEES AND OTHER EMPLOYEES
+23 SIMILARLY SITUATED.
+
+24 (2) An employee may not be a party plaintiff to an action brought under
+25 this section unless that employee files written consent with the court in which the action is
+26 brought to become a party to the action.
+
+27 (g) (1) A person found to have made a false or fraudulent representation or
+28 omission known to be false or made with deliberate ignorance or reckless disregard for its
+29 truth or falsity regarding a material fact in connection with any prevailing wage payroll
+30 record required by § 17–220 of this subtitle is liable for a civil penalty of $1,000 for each
+31 falsified record.
+
+START OF PAGE 20
+20 HOUSE BILL 299
+
+1 (2) The penalty shall be recoverable in a civil action filed in accordance
+2 with this section and paid to the State General Fund.
+
+3 (h) (1) An employer may not discharge, threaten, or otherwise retaliate or
+4 discriminate against an employee regarding compensation or other terms and conditions of
+5 employment because that employee or an organization or other person acting on behalf of
+6 that employee:
+
+7 [(1)] (I) reports or makes a complaint under this subtitle or otherwise
+8 asserts the worker’s rights under this section; or
+
+9 [(2)] (II) participates in any investigation, hearing, or inquiry held by the
+10 Commissioner under § 17–221 of this subtitle.
+
+11 (2) IF A VIOLATION OF THIS SUBSECTION IS FOUND AFTER A HEARING
+12 UNDER § 17–221 OF THIS SUBTITLE, RELIEF SHALL BE AWARDED TO THE EMPLOYEE
+13 AS DESCRIBED IN SUBSECTION (I)(4)(I) AND (II) OF THIS SECTION.
+
+14 (i) (1) A contractor or subcontractor may not retaliate or discriminate against
+15 an employee in violation of this section.
+
+16 (2) If a contractor or subcontractor retaliates or discriminates against an
+17 employee in violation of this section, the affected employee OR THE COMMISSIONER ON
+18 BEHALF OF THE EMPLOYEE may file an action in any court of competent jurisdiction
+19 within 3 years from the employee’s knowledge of the action.
+
+20 (3) AN EMPLOYEE BRINGING SUIT UNDER THIS SUBSECTION SHALL
+21 SERVE A COPY OF THE COMPLAINT ON THE COMMISSIONER.
+
+22 (4) If the court finds in favor of the employee in an action brought under
+23 this subsection, the court shall order that the contractor or subcontractor:
+
+24 (i) reinstate the employee or provide the employee restitution, as
+25 appropriate;
+
+26 (ii) pay the employee an amount equal to three times the amount of
+27 back wages and fringe benefits calculated from the date of the violation; and
+
+28 (iii) pay reasonable counsel fees and other costs.
+
+29 (J) (1) TO ASSIST IN THE ENFORCEMENT OF THIS SUBTITLE, THE
+31 COMMISSIONER AND THE ATTORNEY GENERAL, OR THEIR DESIGNEES, SHALL MEET
+32 AT LEAST MONTHLY TO SHARE INFORMATION ON A MONTHLY BASIS CONCERNING
+33 MATTERS ARISING UNDER THIS SUBTITLE,
+
+START OF PAGE 21
+HOUSE BILL 299 21
+
+1 TITLE 3, SUBTITLE 9 OF THE LABOR AND EMPLOYMENT ARTICLE, AND
+2 TITLES 16 AND 18 OF THIS ARTICLE, INCLUDING AT A MINIMUM:
+
+3 (I) THE CONTENT OF COMPLAINTS OR REFERRALS RECEIVED
+4 CONCERNING POTENTIAL VIOLATIONS AND ACTIONS TAKEN; AND
+
+5 (II) THE STATUS OF INVESTIGATIONS INITIATED, INCLUDING
+6 ANY DETERMINATION OF MERIT OR RECOVERY SOUGHT OR OBTAINED.
+
+7 (2) THE COMMISSIONER SHALL REFER TO THE ATTORNEY GENERAL
+8 ANY COMPLAINT OR REFERRAL ARISING UNDER THIS SUBTITLE FOR WHICH THE
+9 COMMISSIONER HAS:
+
+10 (I) NOT INITIATED AN INVESTIGATION WITHIN 6 MONTHS
+11 AFTER RECEIPT;
+
+12 (II) DECLINED TO INVESTIGATE; OR
+
+13 (III) FOUND TO BE WITHOUT MERIT.
+
+14 (3) (I) IN A MATTER REFERRED TO THE ATTORNEY GENERAL
+15 UNDER PARAGRAPH (2) OF THIS SUBSECTION, THE ATTORNEY GENERAL MAY
+16 EXERCISE THE COMMISSIONER’S INVESTIGATIVE POWERS, INCLUDING SUBPOENA
+17 POWERS, PROVIDED UNDER THIS SUBTITLE.
+
+18 (II) IF, AFTER AN INVESTIGATION, THE ATTORNEY GENERAL
+19 FINDS A MATTER TO BE MERITORIOUS, THE ATTORNEY GENERAL SHALL PROVIDE
+20 NOTICE TO AND CONSULT WITH THE COMMISSIONER, AFTER WHICH THE ATTORNEY
+21 GENERAL MAY FILE A CIVIL ACTION IN THE SAME MANNER AS THE COMMISSIONER
+22 UNDER THIS SECTION.
+
+23 (4) THE COMMISSIONER AND THE ATTORNEY GENERAL SHALL
+25 COOPERATE IN THE INVESTIGATION OF ANY MATTER ARISING UNDER THIS
+26 SUBTITLE THAT IS OF UNUSUAL SCOPE OR COMPLEXITY OR INVOLVES A NOVEL OR
+27 COMPLEX LEGAL ISSUE.
+
+START OF PAGE 22
+22 HOUSE BILL 299
+
+6 18–107.
+
+7 (a) Within 30 days after a complaint is filed, the Commissioner shall investigate
+8 the complaint in accordance with this title.
+
+9 (b) A written or oral complaint or statement made by an employee under this title
+10 is confidential and may not be disclosed to the employer without the consent of the
+11 employee.
+
+12 (c) An employer subject to this title shall allow the Commissioner or the
+13 Commissioner’s designee access to a work site and payroll records, and allow an
+14 opportunity to interview employees for purposes of enforcing this title.
+
+15 (d) (1) Within 30 days after completing an investigation, the Commissioner
+16 shall:
+
+17 (I) issue an order for a hearing; OR
+
+18 (II) REFER THE MATTER TO THE ATTORNEY GENERAL TO FILE
+19 A CIVIL ACTION IN ACCORDANCE WITH § 18–109 OF THIS TITLE.
+
+20 (2) Within 30 days before the hearing, the Commissioner shall serve,
+21 personally or by mail, written notice of the hearing on all interested parties.
+
+22 (3) The notice shall include:
+
+23 (i) a statement of facts disclosed in the investigation; and
+
+24 (ii) the time and place of the hearing.
+
+25 (4) In conducting a hearing, the Commissioner may:
+
+26 (i) subpoena witnesses;
+
+27 (ii) administer oaths; and
+
+28 (iii) compel the production of records, books, papers, and other
+29 evidence.
+
+START OF PAGE 23
+HOUSE BILL 299 23
+
+1 (e) (1) Within 30 days after the conclusion of the hearing, the Commissioner
+2 shall:
+
+3 (i) issue a determination; and
+
+4 (ii) serve, personally or by mail, each interested party with a copy of
+5 the determination.
+
+6 (2) If the Commissioner finds a violation of this title, the Commissioner
+7 shall determine the amount of restitution and liquidated damages to be assessed under §
+8 18–108 of this title.
+
+9 (3) On receipt of the determination, the employer shall pay the affected
+10 employees the amount due in accordance with the Commissioner’s determination.
+
+11 18–109.
+
+12 (a) (1) If an employee was paid less than the wage rate required under this
+13 title the employee, OR THE COMMISSIONER ON BEHALF OF THE EMPLOYEE AND ANY
+14 OTHER EMPLOYEES SIMILARLY SITUATED, is entitled to TO sue to recover the amount of
+15 the difference between the wage rate required under this title and the amount received by
+16 the employee.
+
+17 (2) A determination by the Commissioner that an employer is required to
+18 make restitution does not preclude an employee from filing an action under this section.
+
+19 (3) IN AN ACTION BROUGHT BY THE COMMISSIONER, THE
+20 COMMISSIONER IS ENTITLED TO RECOVER LIQUIDATED DAMAGES AS PROVIDED IN
+21 § 18–108 OF THIS TITLE.
+
+22 (4) AN EMPLOYEE BRINGING SUIT UNDER THIS SECTION SHALL
+23 SERVE A COPY OF THE COMPLAINT ON THE COMMISSIONER.
+
+24 (b) (1) An action under this section is considered to be a suit for wages.
+
+25 (2) A judgment in an action under this section shall have the same force
+26 and effect as any other judgment for wages.
+
+27 (c) The failure of an employee to protest orally or in writing the payment of a
+28 wage that is less than the wage rate required under this title is not a bar to recovery in an
+29 action under this section.
+
+30 18–110.
+
+31 (A) TO ASSIST IN THE ENFORCEMENT OF THIS TITLE, THE COMMISSIONER AND THE
+
+START OF PAGE 24
+24 HOUSE BILL 299
+
+1 ATTORNEY GENERAL, OR THEIR DESIGNEES, SHALL MEET AT LEAST MONTHLY TO
+2 SHARE INFORMATION ON A MONTHLY BASIS CONCERNING MATTERS ARISING UNDER
+3 THIS TITLE, TITLE 3, SUBTITLE 9
+4 OF THE LABOR AND EMPLOYMENT ARTICLE, AND TITLE 16 AND TITLE 17,
+5 SUBTITLE 2 OF THIS ARTICLE, INCLUDING AT A MINIMUM:
+
+6 (1) THE CONTENT OF COMPLAINTS OR REFERRALS RECEIVED
+7 CONCERNING POTENTIAL VIOLATIONS AND ACTIONS TAKEN; AND
+
+8 (2) THE STATUS OF INVESTIGATIONS INITIATED, INCLUDING ANY
+9 DETERMINATION OF MERIT OR RECOVERY SOUGHT OR OBTAINED.
+
+10 (B) THE COMMISSIONER SHALL REFER TO THE ATTORNEY GENERAL ANY
+11 MATTER INVOLVING A POSSIBLE VIOLATION UNDER THIS TITLE FOR WHICH THE
+12 COMMISSIONER HAS DECLINED TO INVESTIGATE AND WAS NOT OTHERWISE
+13 REQUIRED TO INVESTIGATE UNDER § 18–107(A) OF THIS TITLE.
+
+14 (C) (1) IN A MATTER REFERRED TO THE ATTORNEY GENERAL UNDER
+15 SUBSECTION (B) OF THIS SECTION, THE ATTORNEY GENERAL MAY EXERCISE THE
+16 COMMISSIONER’S INVESTIGATIVE POWERS, INCLUDING SUBPOENA POWERS,
+17 PROVIDED UNDER THIS TITLE.
+
+18 (2) IF, AFTER AN INVESTIGATION, THE ATTORNEY GENERAL FINDS A
+19 MATTER TO BE MERITORIOUS, THE ATTORNEY GENERAL SHALL PROVIDE NOTICE
+20 TO AND CONSULT WITH THE COMMISSIONER, AFTER WHICH THE ATTORNEY
+21 GENERAL MAY FILE AN ACTION IN THE SAME MANNER AS THE COMMISSIONER
+22 UNDER § 18–109 OF THIS TITLE.
+
+23 (3) THE COMMISSIONER AND THE ATTORNEY GENERAL SHALL
+25 COOPERATE IN THE INVESTIGATION OF ANY MATTER ARISING UNDER THIS TITLE THAT IS OF UNUSUAL
+26 SCOPE OR COMPLEXITY OR INVOLVES A NOVEL OR COMPLEX LEGAL ISSUE.
+
+START OF PAGE 25
+HOUSE BILL 299 25
+
+6 SECTION ~~2.~~ 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+7 October 1, 2026.
+
+Approved:
+
+________________________________________________________________________________
+Governor.
+
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+________________________________________________________________________________
+President of the Senate.

@@ -2,17 +2,25 @@
 START OF PAGE 1
 HOUSE BILL 501
 
-E1 6lr1654
-CF SB 407
+E1 (6lr1654)
+ENROLLED BILL
+— Judiciary/Judicial Proceedings —
+Introduced by Delegates Bartlett, Behler, Embry, Fair, McComas, Pasteur, Phillips,
+Pruski, Schmidt, Simmons, and Woods
 
-By: Delegates Bartlett, Behler, Embry, Fair, McComas, Pasteur, Phillips, Pruski,
-Schmidt, Simmons, and Woods
-Introduced and read first time: January 27, 2026
-Assigned to: Judiciary
+Read and Examined by Proofreaders:
 
-Committee Report: Favorable
-House action: Adopted
-Read second time: March 6, 2026
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+
+Sealed with the Great Seal and presented to the Governor, for his approval this
+
+_______ day of _______________ at ________________________ o’clock, ________M.
+
+______________________________________________
+Speaker.
 
 CHAPTER ______
 
@@ -20,439 +28,441 @@ CHAPTER ______
 
 2 Criminal Law – Sexual Offense by a Person in a Position of Authority
 
-3 altering the penalty for a subsequent conviction of sexual offense by a person
-4 in a position of authority; prohibiting a certain person in a position of authority from
-5 committing a certain violation involving a child under a certain age; prohibiting a
-6 person who has been previously convicted of a certain crime from committing a
-7 certain violation; adding sexual offense by a person in a position of authority as a
-8 predicate crime for sexual solicitation of a minor; altering the definitions of “tier I
-9 sex offender” and “tier III sex offender” as applicable to provisions relating to the sex
-10 offender registry; and generally relating to sexual crimes.
+3 FOR the purpose of altering the ~~penalties~~ ~~for~~ ~~the~~ ~~misdemeanor~~ penalty for a subsequent
+4 conviction of sexual offense by a person in a position of authority; prohibiting a
+5 certain person in a position of authority from committing a certain violation
+6 involving a child under a certain age; prohibiting a person who has been previously
+7 convicted of a certain crime from committing a certain violation; adding sexual
+8 offense by a person in a position of authority as a predicate crime for sexual
+9 solicitation of a minor; altering the definitions of “tier I sex offender” and “tier III sex
+10 offender” as applicable to provisions relating to the sex offender registry; and
+11 generally relating to sexual crimes.
 
-11 BY repealing and reenacting, with amendments,
-12 Article – Criminal Law
-13 Section 3–308 and 3–324
-14 Annotated Code of Maryland
-15 (2021 Replacement Volume and 2025 Supplement)
-
-16 BY adding to
-17 Article – Criminal Law
-18 Section 3–308.1
-19 Annotated Code of Maryland
-20 (2021 Replacement Volume and 2025 Supplement)
-
-21 BY repealing and reenacting, without amendments,
+12 BY repealing and reenacting, with amendments,
+13 Article – Criminal Law
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
 [Brackets] indicate matter deleted from existing law.
 Underlining indicates amendments to bill.
 ~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
-amendment. *hb0501*
+amendment.
+Italics indicate opposite chamber/conference committee amendments.*hb0501*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 501
 
-1 Article – Criminal Procedure
-2 Section 11–701(a)
-3 Annotated Code of Maryland
-4 (2025 Replacement Volume)
+1 Section 3–308 and 3–324
+2 Annotated Code of Maryland
+3 (2021 Replacement Volume and 2025 Supplement)
 
-5 BY repealing and reenacting, with amendments,
-6 Article – Criminal Procedure
-7 Section 11–701(o) and (q)
-8 Annotated Code of Maryland
-9 (2025 Replacement Volume)
+4 BY adding to
+5 Article – Criminal Law
+6 Section 3–308.1
+7 Annotated Code of Maryland
+8 (2021 Replacement Volume and 2025 Supplement)
 
-10 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-11 That the Laws of Maryland read as follows:
+9 BY repealing and reenacting, without amendments,
+10 Article – Criminal Procedure
+11 Section 11–701(a)
+12 Annotated Code of Maryland
+13 (2025 Replacement Volume)
 
-12 Article – Criminal Law
+14 BY repealing and reenacting, with amendments,
+15 Article – Criminal Procedure
+16 Section 11–701(o) and (q)
+17 Annotated Code of Maryland
+18 (2025 Replacement Volume)
 
-13 3–308.
+19 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+20 That the Laws of Maryland read as follows:
 
-14 (a) [(1) In this section the following words have the meanings indicated.
+21 Article – Criminal Law
 
-15 (2) (i) “Person in a position of authority” means a person who:
+22 3–308.
 
-16 1. A. is at least 21 years old and works for remuneration
-17 or as a volunteer for a public or private preschool, elementary school, or secondary school;
-18 or
+23 (a) [(1) In this section the following words have the meanings indicated.
 
-19 B. is at least 22 years old and works for remuneration or as a
-20 volunteer for a program; and
+24 (2) (i) “Person in a position of authority” means a person who:
 
-21 2. exercises supervision over or works or interacts with one
-22 or more minors who attend the school or participate in the program.
+25 1. A. is at least 21 years old and works for remuneration
+26 or as a volunteer for a public or private preschool, elementary school, or secondary school;
+27 or
 
-23 (ii) “Person in a position of authority” includes a principal, vice
-24 principal, teacher, coach, or school counselor at a public or private preschool, elementary
-25 school, or secondary school.
+28 B. is at least 22 years old and works for remuneration or as a
+29 volunteer for a program; and
 
-26 (3) “Program” means:
+30 2. exercises supervision over or works or interacts with one
+31 or more minors who attend the school or participate in the program.
 
-27 (i) an individual, a business, a religious or faith–based institution,
-28 or an organization that provides, on a for–profit or nonprofit basis, instructional, coaching,
-29 recreational, spiritual, character–building, or supervisory services or activities for minors,
-30 including:
-
-31 1. sports, music, dance, art, or martial arts coaching or
-32 instruction;
-
-33 2. tutoring or academic enrichment;
+32 (ii) “Person in a position of authority” includes a principal, vice
+33 principal, teacher, coach, or school counselor at a public or private preschool, elementary
+34 school, or secondary school.
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 501 3
 
-1 3. day care or after school care;
+1 (3) “Program” means:
 
-2 4. scouting; or
+2 (i) an individual, a business, a religious or faith–based institution,
+3 or an organization that provides, on a for–profit or nonprofit basis, instructional, coaching,
+4 recreational, spiritual, character–building, or supervisory services or activities for minors,
+5 including:
 
-3 5. day or overnight camping; or
+6 1. sports, music, dance, art, or martial arts coaching or
+7 instruction;
 
-4 (ii) any unit of local, State, or federal government.
+8 2. tutoring or academic enrichment;
 
-5 (b)] A person may not engage in:
+9 3. day care or after school care;
 
-6 (1) sexual contact with another without the consent of the other;
+10 4. scouting; or
 
-7 (2) except as provided in § 3–307(a)(4) of this subtitle, a sexual act with
-8 another if the victim is 14 or 15 years old, and the person performing the sexual act is at
-9 least 4 years older than the victim; or
+11 5. day or overnight camping; or
 
-10 (3) except as provided in § 3–307(a)(5) of this subtitle, vaginal intercourse
-11 with another if the victim is 14 or 15 years old, and the person performing the act is at least
-12 4 years older than the victim.
+12 (ii) any unit of local, State, or federal government.
 
-13 [(c) (1) Except as provided in § 3–307(a)(4) of this subtitle or subsection (b)(2)
-14 of this section, a person in a position of authority may not engage in a sexual act or sexual
-15 contact with a minor who, at the time of the sexual act or sexual contact:
+13 (b)] A person may not engage in:
 
-16 (i) is a student enrolled at a school where the person in a position of
-17 authority works; or
+14 (1) sexual contact with another without the consent of the other;
 
-18 (ii) 1. is participating in a program for which the person in a
-19 position of authority works; and
+15 (2) except as provided in § 3–307(a)(4) of this subtitle, a sexual act with
+16 another if the victim is 14 or 15 years old, and the person performing the sexual act is at
+17 least 4 years older than the victim; or
 
-20 2. is at least 6 years younger than the person in a position of
-21 authority.
+18 (3) except as provided in § 3–307(a)(5) of this subtitle, vaginal intercourse
+19 with another if the victim is 14 or 15 years old, and the person performing the act is at least
+20 4 years older than the victim.
 
-22 (2) Except as provided in § 3–307(a)(5) of this subtitle or subsection (b)(3)
-23 of this section, a person in a position of authority may not engage in vaginal intercourse
-24 with a minor who, at the time of the vaginal intercourse:
+21 [(c) (1) Except as provided in § 3–307(a)(4) of this subtitle or subsection (b)(2)
+22 of this section, a person in a position of authority may not engage in a sexual act or sexual
+23 contact with a minor who, at the time of the sexual act or sexual contact:
 
-25 (i) is a student enrolled at a school where the person in a position of
-26 authority works; or
+24 (i) is a student enrolled at a school where the person in a position of
+25 authority works; or
 
-27 (ii) 1. is participating in a program for which the person in a
-28 position of authority works; and
+26 (ii) 1. is participating in a program for which the person in a
+27 position of authority works; and
 
-29 2. is at least 6 years younger than the person in a position of
-30 authority.
+28 2. is at least 6 years younger than the person in a position of
+29 authority.
 END OF PAGE 3
 
 START OF PAGE 4
 4 HOUSE BILL 501
 
-1 (d)] (B) (1) Except as provided in paragraph (2) of this subsection, a person
-2 who violates this section is guilty of the misdemeanor of sexual offense in the fourth degree
-3 and on conviction is subject to imprisonment not exceeding 1 year or a fine not exceeding
-4 $1,000 or both.
+1 (2) Except as provided in § 3–307(a)(5) of this subtitle or subsection (b)(3)
+2 of this section, a person in a position of authority may not engage in vaginal intercourse
+3 with a minor who, at the time of the vaginal intercourse:
 
-5 (2) (i) On conviction of a violation of this section, a person who has been
-6 convicted on a prior occasion not arising from the same incident of a violation of § 3–303, §
-7 3–304, §§ 3–307 through 3–310 of this subtitle, § 3–311 or § 3–312 of this subtitle as the
-8 sections existed before October 1, 2017, § 3–315 of this subtitle, or § 3–602 of this title is
-9 subject to imprisonment not exceeding 3 years or a fine not exceeding $1,000 or both.
+4 (i) is a student enrolled at a school where the person in a position of
+5 authority works; or
 
-10 (ii) If the State intends to proceed against a person under
-11 subparagraph (i) of this paragraph, it shall comply with the procedures set forth in the
-12 Maryland Rules for the indictment and trial of a subsequent offender.
+6 (ii) 1. is participating in a program for which the person in a
+7 position of authority works; and
 
-13 [(e)] (C) (1) Unless specifically charged by the State, a violation of this
-14 section may not be considered a lesser included crime of any other crime.
+8 2. is at least 6 years younger than the person in a position of
+9 authority.
 
-15 (2) A sentence imposed under this section may be imposed separate from
-16 and consecutive to or concurrent with a sentence for any crime based on the act establishing
-17 the violation of this section.
+10 (d)] (B) (1) Except as provided in paragraph (2) of this subsection, a person
+11 who violates this section is guilty of the misdemeanor of sexual offense in the fourth degree
+12 and on conviction is subject to imprisonment not exceeding 1 year or a fine not exceeding
+13 $1,000 or both.
 
-18 3–308.1.
+14 (2) (i) On conviction of a violation of this section, a person who has been
+15 convicted on a prior occasion not arising from the same incident of a violation of § 3–303, §
+16 3–304, §§ 3–307 through 3–310 of this subtitle, § 3–311 or § 3–312 of this subtitle as the
+17 sections existed before October 1, 2017, § 3–315 of this subtitle, or § 3–602 of this title is
+18 subject to imprisonment not exceeding 3 years or a fine not exceeding $1,000 or both.
 
-19 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
-20 INDICATED.
+19 (ii) If the State intends to proceed against a person under
+20 subparagraph (i) of this paragraph, it shall comply with the procedures set forth in the
+21 Maryland Rules for the indictment and trial of a subsequent offender.
 
-21 (2) (I) “PERSON IN A POSITION OF AUTHORITY” MEANS A PERSON
-22 WHO:
+22 [(e)] (C) (1) Unless specifically charged by the State, a violation of this
+23 section may not be considered a lesser included crime of any other crime.
 
-23 1. A. IS AT LEAST 21 YEARS OLD AND WORKS FOR
-24 REMUNERATION OR AS A VOLUNTEER FOR A PUBLIC OR PRIVATE PRESCHOOL,
-25 ELEMENTARY SCHOOL, OR SECONDARY SCHOOL; OR
+24 (2) A sentence imposed under this section may be imposed separate from
+25 and consecutive to or concurrent with a sentence for any crime based on the act establishing
+26 the violation of this section.
 
-26 B. IS AT LEAST 22 YEARS OLD AND WORKS FOR
-27 REMUNERATION OR AS A VOLUNTEER FOR A PROGRAM; AND
+27 3–308.1.
 
-28 2. EXERCISES SUPERVISION OVER OR WORKS OR
-29 INTERACTS WITH ONE OR MORE MINORS WHO ATTEND THE SCHOOL OR PARTICIPATE
-30 IN THE PROGRAM.
+28 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+29 INDICATED.
 
-31 (II) “PERSON IN A POSITION OF AUTHORITY” INCLUDES A
-32 PRINCIPAL, VICE PRINCIPAL, TEACHER, COACH, OR SCHOOL COUNSELOR AT A
-33 PUBLIC OR PRIVATE PRESCHOOL, ELEMENTARY SCHOOL, OR SECONDARY SCHOOL.
+30 (2) (I) “PERSON IN A POSITION OF AUTHORITY” MEANS A PERSON
+31 WHO:
+
+32 1. A. IS AT LEAST 21 YEARS OLD AND WORKS FOR
+33 REMUNERATION OR AS A VOLUNTEER FOR A PUBLIC OR PRIVATE PRESCHOOL,
+34 ELEMENTARY SCHOOL, OR SECONDARY SCHOOL; OR
 END OF PAGE 4
 
 START OF PAGE 5
 HOUSE BILL 501 5
 
-1 (3) “PROGRAM” MEANS:
+1 B. IS AT LEAST 22 YEARS OLD AND WORKS FOR
+2 REMUNERATION OR AS A VOLUNTEER FOR A PROGRAM; AND
 
-2 (I) AN INDIVIDUAL, A BUSINESS, A RELIGIOUS OR FAITH–BASED
-3 INSTITUTION, OR AN ORGANIZATION THAT PROVIDES, ON A FOR–PROFIT OR
-4 NONPROFIT BASIS, INSTRUCTIONAL, COACHING, RECREATIONAL, SPIRITUAL,
-5 CHARACTER–BUILDING, OR SUPERVISORY SERVICES OR ACTIVITIES FOR MINORS,
-6 INCLUDING:
+3 2. EXERCISES SUPERVISION OVER OR WORKS OR
+4 INTERACTS WITH ONE OR MORE MINORS WHO ATTEND THE SCHOOL OR PARTICIPATE
+5 IN THE PROGRAM.
 
-7 1. SPORTS, MUSIC, DANCE, ART, OR MARTIAL ARTS
-8 COACHING OR INSTRUCTION;
+6 (II) “PERSON IN A POSITION OF AUTHORITY” INCLUDES A
+7 PRINCIPAL, VICE PRINCIPAL, TEACHER, COACH, OR SCHOOL COUNSELOR AT A
+8 PUBLIC OR PRIVATE PRESCHOOL, ELEMENTARY SCHOOL, OR SECONDARY SCHOOL.
 
-9 2. TUTORING OR ACADEMIC enrichment;
+9 (3) “PROGRAM” MEANS:
 
-10 3. DAY CARE OR AFTER SCHOOL CARE;
+10 (I) AN INDIVIDUAL, A BUSINESS, A RELIGIOUS OR FAITH–BASED
+11 INSTITUTION, OR AN ORGANIZATION THAT PROVIDES, ON A FOR–PROFIT OR
+12 NONPROFIT BASIS, INSTRUCTIONAL, COACHING, RECREATIONAL, SPIRITUAL,
+13 CHARACTER–BUILDING, OR SUPERVISORY SERVICES OR ACTIVITIES FOR MINORS,
+14 INCLUDING:
 
-11 4. SCOUTING; OR
+15 1. SPORTS, MUSIC, DANCE, ART, OR MARTIAL ARTS
+16 COACHING OR INSTRUCTION;
 
-12 5. DAY OR OVERNIGHT CAMPING; OR
+17 2. TUTORING OR ACADEMIC ENRICHMENT;
 
-13 (II) ANY UNIT OF LOCAL, STATE, OR FEDERAL GOVERNMENT.
+18 3. DAY CARE OR AFTER SCHOOL CARE;
 
-14 (B) (1) EXCEPT AS PROVIDED IN § 3–307(A)(4) OR § 3–308(A)(2) OF THIS
-15 SUBTITLE, A PERSON IN A POSITION OF AUTHORITY MAY NOT ENGAGE IN A SEXUAL
-16 ACT OR SEXUAL CONTACT WITH A MINOR WHO, AT THE TIME OF THE SEXUAL ACT OR
-17 SEXUAL CONTACT:
+19 4. SCOUTING; OR
 
-18 (I) IS A STUDENT ENROLLED AT A SCHOOL WHERE THE PERSON
-19 IN A POSITION OF AUTHORITY WORKS; OR
+20 5. DAY OR OVERNIGHT CAMPING; OR
 
-20 (II) 1. IS PARTICIPATING IN A PROGRAM FOR WHICH THE
-21 PERSON IN A POSITION OF AUTHORITY WORKS; AND
+21 (II) ANY UNIT OF LOCAL, STATE, OR FEDERAL GOVERNMENT.
 
-22 2. IS AT LEAST 6 YEARS YOUNGER THAN THE PERSON IN
-23 A POSITION OF AUTHORITY.
+22 (B) (1) EXCEPT AS PROVIDED IN § 3–307(A)(4) OR § 3–308(A)(2) OF THIS
+23 SUBTITLE, A PERSON IN A POSITION OF AUTHORITY MAY NOT ENGAGE IN A SEXUAL
+24 ACT OR SEXUAL CONTACT WITH A MINOR WHO, AT THE TIME OF THE SEXUAL ACT OR
+25 SEXUAL CONTACT:
 
-24 (2) EXCEPT AS PROVIDED IN § 3–307(A)(5) OR § 3–308(A)(3) OF THIS
-25 SUBTITLE, A PERSON IN A POSITION OF AUTHORITY MAY NOT ENGAGE IN VAGINAL
-26 INTERCOURSE WITH A MINOR WHO, AT THE TIME OF THE VAGINAL INTERCOURSE:
+26 (I) IS A STUDENT ENROLLED AT A SCHOOL WHERE THE PERSON
+27 IN A POSITION OF AUTHORITY WORKS; OR
 
-27 (I) IS A STUDENT ENROLLED AT A SCHOOL WHERE THE PERSON
-28 IN A POSITION OF AUTHORITY WORKS; OR
+28 (II) 1. IS PARTICIPATING IN A PROGRAM FOR WHICH THE
+29 PERSON IN A POSITION OF AUTHORITY WORKS; AND
 END OF PAGE 5
 
 START OF PAGE 6
 6 HOUSE BILL 501
 
-1 (II) 1. IS PARTICIPATING IN A PROGRAM FOR WHICH THE
-2 PERSON IN A POSITION OF AUTHORITY WORKS; AND
+1 2. IS AT LEAST 6 YEARS YOUNGER THAN THE PERSON IN
+2 A POSITION OF AUTHORITY.
 
-3 2. IS AT LEAST 6 YEARS YOUNGER THAN THE PERSON IN
-4 A POSITION OF AUTHORITY.
+3 (2) EXCEPT AS PROVIDED IN § 3–307(A)(5) OR § 3–308(A)(3) OF THIS
+4 SUBTITLE, A PERSON IN A POSITION OF AUTHORITY MAY NOT ENGAGE IN VAGINAL
+5 INTERCOURSE WITH A MINOR WHO, AT THE TIME OF THE VAGINAL INTERCOURSE:
 
-5 (C) A PERSON IN A POSITION OF AUTHORITY MAY NOT VIOLATE SUBSECTION
-6 (B) OF THIS SECTION INVOLVING A CHILD UNDER THE AGE OF 13 YEARS.
+6 (I) IS A STUDENT ENROLLED AT A SCHOOL WHERE THE PERSON
+7 IN A POSITION OF AUTHORITY WORKS; OR
 
-7 (D) A PERSON WHO HAS PREVIOUSLY BEEN CONVICTED OF A VIOLATION OF
-8 § 3–303, § 3–304, §§ 3–307 THROUGH 3–310 OF THIS SUBTITLE, § 3–311 OR § 3–312
-9 OF THIS SUBTITLE AS THE SECTIONS EXISTED BEFORE OCTOBER 1, 2017, § 3–315 OF
-10 THIS SUBTITLE, OR § 3–602 OF THIS TITLE MAY NOT VIOLATE SUBSECTION (B) OR (C)
-11 OF THIS SECTION.
+8 (II) 1. IS PARTICIPATING IN A PROGRAM FOR WHICH THE
+9 PERSON IN A POSITION OF AUTHORITY WORKS; AND
 
-12 (E) (1) A PERSON WHO VIOLATES SUBSECTION (B) OF THIS SECTION IS
-13 GUILTY OF THE MISDEMEANOR OF SEXUAL OFFENSE BY A PERSON IN A POSITION OF
-14 AUTHORITY AND ON CONVICTION IS SUBJECT TO IMPRISONMENT NOT EXCEEDING
-15 1 YEAR OR A FINE NOT EXCEEDING $1,000 OR BOTH.
+10 2. IS AT LEAST 6 YEARS YOUNGER THAN THE PERSON IN
+11 A POSITION OF AUTHORITY.
 
-16 (2) A PERSON WHO VIOLATES SUBSECTION (C) OF THIS SECTION IS
-17 GUILTY OF THE FELONY OF SEXUAL OFFENSE BY A PERSON IN A POSITION OF
-18 AUTHORITY AND ON CONVICTION IS SUBJECT TO IMPRISONMENT NOT EXCEEDING
-19 10 YEARS OR A FINE NOT EXCEEDING $25,000 OR BOTH.
+12 (C) A PERSON IN A POSITION OF AUTHORITY MAY NOT VIOLATE SUBSECTION
+13 (B) OF THIS SECTION INVOLVING A CHILD UNDER THE AGE OF 13 YEARS.
 
-20 (3) A PERSON WHO VIOLATES SUBSECTION (D) OF THIS SECTION IS
-21 GUILTY OF THE FELONY OF SEXUAL OFFENSE BY A PERSON IN A POSITION OF
-22 AUTHORITY AND ON CONVICTION IS SUBJECT TO IMPRISONMENT NOT EXCEEDING
-23 20 YEARS OR A FINE NOT EXCEEDING $50,000 OR BOTH.
+14 (D) A PERSON WHO HAS PREVIOUSLY BEEN CONVICTED OF A VIOLATION OF
+15 § 3–303, § 3–304, §§ 3–307 THROUGH 3–310 OF THIS SUBTITLE, § 3–311 OR § 3–312
+16 OF THIS SUBTITLE AS THE SECTIONS EXISTED BEFORE OCTOBER 1, 2017, § 3–315 OF
+17 THIS SUBTITLE, OR § 3–602 OF THIS TITLE MAY NOT VIOLATE SUBSECTION (B) OR (C)
+18 OF THIS SECTION.
 
-24 (F) (1) UNLESS SPECIFICALLY CHARGED BY THE STATE, A VIOLATION OF
-25 THIS SECTION MAY NOT BE CONSIDERED A LESSER INCLUDED CRIME OF ANY OTHER
-26 CRIME.
+19 (E) (1) A PERSON WHO VIOLATES SUBSECTION (B) OF THIS SECTION IS
+20 GUILTY OF THE MISDEMEANOR OF SEXUAL OFFENSE BY A PERSON IN A POSITION OF
+21 AUTHORITY AND ON CONVICTION IS SUBJECT TO IMPRISONMENT NOT EXCEEDING ~~3~~
+22 AUTHORITY AND ON CONVICTION IS SUBJECT TO IMPRISONMENT NOT EXCEEDING ~~3~~
+23 ~~YEARS~~ 1 YEAR OR A FINE NOT EXCEEDING $1,000 OR BOTH.
 
-27 (2) A SENTENCE IMPOSED UNDER THIS SECTION MAY BE IMPOSED
-28 SEPARATE FROM AND CONSECUTIVE TO OR CONCURRENT WITH A SENTENCE FOR
-29 ANY CRIME BASED ON THE ACT ESTABLISHING THE VIOLATION OF THIS SECTION.
+24 (2) A PERSON WHO VIOLATES SUBSECTION (C) OF THIS SECTION IS
+25 GUILTY OF THE FELONY OF SEXUAL OFFENSE BY A PERSON IN A POSITION OF
+26 AUTHORITY AND ON CONVICTION IS SUBJECT TO IMPRISONMENT NOT EXCEEDING
+27 ~~15~~ 10 YEARS OR A FINE NOT EXCEEDING $25,000 OR BOTH.
 
-30 3–324.
-
-31 (a) In this section, “solicit” means to command, authorize, urge, entice, request,
-32 or advise a person by any means, including:
-
-33 (1) in person;
+28 (3) A PERSON WHO VIOLATES SUBSECTION (D) OF THIS SECTION IS
+29 GUILTY OF THE FELONY OF SEXUAL OFFENSE BY A PERSON IN A POSITION OF
+30 AUTHORITY AND ON CONVICTION IS SUBJECT TO IMPRISONMENT NOT EXCEEDING
+31 ~~25~~ 20 YEARS OR A FINE NOT EXCEEDING $50,000 OR BOTH.
 END OF PAGE 6
 
 START OF PAGE 7
 HOUSE BILL 501 7
 
-1 (2) through an agent or agency;
+1 (F) (1) UNLESS SPECIFICALLY CHARGED BY THE STATE, A VIOLATION OF
+2 THIS SECTION MAY NOT BE CONSIDERED A LESSER INCLUDED CRIME OF ANY OTHER
+3 CRIME.
 
-2 (3) over the telephone;
+4 (2) A SENTENCE IMPOSED UNDER THIS SECTION MAY BE IMPOSED
+5 SEPARATE FROM AND CONSECUTIVE TO OR CONCURRENT WITH A SENTENCE FOR
+6 ANY CRIME BASED ON THE ACT ESTABLISHING THE VIOLATION OF THIS SECTION.
 
-3 (4) through any print medium;
+7 3–324.
 
-4 (5) by mail;
+8 (a) In this section, “solicit” means to command, authorize, urge, entice, request,
+9 or advise a person by any means, including:
 
-5 (6) by computer or Internet; or
+10 (1) in person;
 
-6 (7) by any other electronic means.
+11 (2) through an agent or agency;
 
-7 (b) (1) A person may not, with the intent to commit a violation of § 3–304 [or],
-8 § 3–307, OR § 3-308.1(C) OR (D) of this subtitle or § 11–207, § 11–303, § 11–304, § 11–305, § 11–306,
-9 or § 11–307 of this article, knowingly solicit a minor, or a law enforcement officer posing as
-10 a minor, to engage in activities that would be unlawful for the person to engage in under §
-11 3–304 [or], § 3–307, OR § 3-308.1(C) OR (D) of this subtitle or § 11–207, § 11–303, § 11–304, §
-12 11–305, § 11–306, or § 11–307 of this article.
+12 (3) over the telephone;
 
-13 (2) A person may not, with the intent to commit a violation of § 3–304 [or],
-14 § 3–307, OR § 3-308.1(C) OR (D) of this subtitle or § 11–207, § 11–303, § 11–304, § 11–305, § 11–306,
-15 or § 11–307 of this article, knowingly solicit the consent of a parent, guardian, or custodian
-16 of a minor, or a law enforcement officer posing as a parent, guardian, or custodian of a
-17 minor, to engage in activities with the minor that would be unlawful for the person to
-18 engage in under § 3–304 [or], § 3–307, OR § 3-308.1(C) OR (D) of this subtitle or § 11–207, § 11–303,
-19 § 11–304, § 11–305, § 11–306, or § 11–307 of this article.
+13 (4) through any print medium;
 
-20 (c) A violation of this section is considered to be committed in the State for
-21 purposes of determining jurisdiction if the solicitation:
+14 (5) by mail;
 
-22 (1) originated in the State; or
+15 (6) by computer or Internet; or
 
-23 (2) is received in the State.
+16 (7) by any other electronic means.
 
-24 (d) A person who violates this section is guilty of a felony and on conviction is
-25 subject to:
+17 (b) (1) A person may not, with the intent to commit a violation of § 3–304 [or],
+18 § 3–307, OR § ~~3–308.1~~ 3–308.1(C) OR (D) of this subtitle or § 11–207, § 11–303, § 11–304,
+19 § 11–305, § 11–306, or § 11–307 of this article, knowingly solicit a minor, or a law
+20 enforcement officer posing as a minor, to engage in activities that would be unlawful for
+21 the person to engage in under § 3–304 [or], § 3–307, OR § ~~3–308.1~~ 3–308.1(C) OR (D) of
+22 this subtitle or § 11–207, § 11–303, § 11–304, § 11–305, § 11–306, or § 11–307 of this article.
 
-26 (1) for a first offense, imprisonment not exceeding 10 years or a fine not
-27 exceeding $25,000 or both; and
+23 (2) A person may not, with the intent to commit a violation of § 3–304 [or],
+24 § 3–307, OR § ~~3–308.1~~ 3–308.1(C) OR (D) of this subtitle or § 11–207, § 11–303, § 11–304,
+25 § 11–305, § 11–306, or § 11–307 of this article, knowingly solicit the consent of a parent,
+26 guardian, or custodian of a minor, or a law enforcement officer posing as a parent, guardian,
+27 or custodian of a minor, to engage in activities with the minor that would be unlawful for
+28 the person to engage in under § 3–304 [or], § 3–307, OR § ~~3–308.1~~ 3–308.1(C) OR (D) of
+29 this subtitle or § 11–207, § 11–303, § 11–304, § 11–305, § 11–306, or § 11–307 of this article.
 
-28 (2) for a second or subsequent offense, imprisonment not exceeding 20
-29 years or a fine not exceeding $50,000 or both.
+30 (c) A violation of this section is considered to be committed in the State for
+31 purposes of determining jurisdiction if the solicitation:
 
-30 Article – Criminal Procedure
+32 (1) originated in the State; or
 END OF PAGE 7
 
 START OF PAGE 8
 8 HOUSE BILL 501
 
-1 11–701.
+1 (2) is received in the State.
 
-2 (a) In this subtitle the following words have the meanings indicated.
+2 (d) A person who violates this section is guilty of a felony and on conviction is
+3 subject to:
 
-3 (o) “Tier I sex offender” means a person who has been convicted of:
+4 (1) for a first offense, imprisonment not exceeding 10 years or a fine not
+5 exceeding $25,000 or both; and
 
-4 (1) conspiring to commit, attempting to commit, or committing a violation
-5 of § 3–308 OR § 3–308.1(B) of the Criminal Law Article;
+6 (2) for a second or subsequent offense, imprisonment not exceeding 20
+7 years or a fine not exceeding $50,000 or both.
 
-6 (2) conspiring to commit, attempting to commit, or committing a violation
-7 of § 3–902 or § 11–208 of the Criminal Law Article, if the victim is a minor;
+8 Article – Criminal Procedure
 
-8 (3) a crime committed in a federal, military, tribal, or other jurisdiction
-9 that, if committed in this State, would constitute one of the crimes listed in item (1) or (2)
-10 of this subsection;
+9 11–701.
 
-11 (4) any of the following federal offenses:
+10 (a) In this subtitle the following words have the meanings indicated.
 
-12 (i) misleading domain names on the Internet under 18 U.S.C. §
-13 2252B;
+11 (o) “Tier I sex offender” means a person who has been convicted of:
 
-14 (ii) misleading words or digital images on the Internet under 18
-15 U.S.C. § 2252C;
+12 (1) conspiring to commit, attempting to commit, or committing a violation
+13 of § 3–308 OR § 3–308.1(B) of the Criminal Law Article;
 
-16 (iii) engaging in illicit conduct in foreign places under 18 U.S.C. §
-17 2423(c);
+14 (2) conspiring to commit, attempting to commit, or committing a violation
+15 of § 3–902 or § 11–208 of the Criminal Law Article, if the victim is a minor;
 
-18 (iv) failure to file a factual statement about an alien individual under
-19 18 U.S.C. § 2424;
+16 (3) a crime committed in a federal, military, tribal, or other jurisdiction
+17 that, if committed in this State, would constitute one of the crimes listed in item (1) or (2)
+18 of this subsection;
 
-20 (v) transmitting information about a minor to further criminal
-21 sexual conduct under 18 U.S.C. § 2425;
+19 (4) any of the following federal offenses:
 
-22 (vi) sex trafficking by force, fraud, or coercion under 18 U.S.C. § 1591;
-23 or
+20 (i) misleading domain names on the Internet under 18 U.S.C. §
+21 2252B;
 
-24 (vii) travel with intent to engage in illicit conduct under 18 U.S.C. §
-25 2423(b);
+22 (ii) misleading words or digital images on the Internet under 18
+23 U.S.C. § 2252C;
 
-26 (5) any military offense specified by the Secretary of Defense under Section
-27 115(A)(8)(C)(i) of Public Law 105–119 (codified at 10 U.S.C. § 951 Note) that is similar to
-28 those offenses listed in item (4) of this subsection; or
+24 (iii) engaging in illicit conduct in foreign places under 18 U.S.C. §
+25 2423(c);
 
-29 (6) a crime in a court of Canada, Great Britain, Australia, New Zealand, or
-30 any other foreign country where the United States Department of State has determined in
-31 its Country Reports on Human Rights Practices that an independent judiciary generally or
-32 vigorously enforced the right to a fair trial during the year in which the conviction occurred
+26 (iv) failure to file a factual statement about an alien individual under
+27 18 U.S.C. § 2424;
+
+28 (v) transmitting information about a minor to further criminal
+29 sexual conduct under 18 U.S.C. § 2425;
 END OF PAGE 8
 
 START OF PAGE 9
 HOUSE BILL 501 9
 
-1 that, if the crime were committed in this State, would constitute one of the crimes listed in
-2 items (1) through (5) of this subsection.
+1 (vi) sex trafficking by force, fraud, or coercion under 18 U.S.C. § 1591;
+2 or
 
-3 (q) “Tier III sex offender” means a person who has been convicted of:
+3 (vii) travel with intent to engage in illicit conduct under 18 U.S.C. §
+4 2423(b);
 
-4 (1) conspiring to commit, attempting to commit, or committing a violation
-5 of:
+5 (5) any military offense specified by the Secretary of Defense under Section
+6 115(A)(8)(C)(i) of Public Law 105–119 (codified at 10 U.S.C. § 951 Note) that is similar to
+7 those offenses listed in item (4) of this subsection; or
 
-6 (i) § 2–201(a)(4)(viii), (x), or (xi) of the Criminal Law Article;
+8 (6) a crime in a court of Canada, Great Britain, Australia, New Zealand, or
+9 any other foreign country where the United States Department of State has determined in
+10 its Country Reports on Human Rights Practices that an independent judiciary generally or
+11 vigorously enforced the right to a fair trial during the year in which the conviction occurred
+12 that, if the crime were committed in this State, would constitute one of the crimes listed in
+13 items (1) through (5) of this subsection.
 
-7 (ii) § 3–303, § 3–304, § 3–307(a)(1) or (2), § 3–308.1(C) OR (D), §
-8 3–309, § 3–310, § 3–311, § 3–312, § 3–315, § 3–323, or § 3–602 of the Criminal Law Article;
+14 (q) “Tier III sex offender” means a person who has been convicted of:
 
-9 (iii) § 3–502 of the Criminal Law Article, if the victim is a minor;
+15 (1) conspiring to commit, attempting to commit, or committing a violation
+16 of:
 
-10 (iv) § 3–502 of the Criminal Law Article, if the victim is an adult, and
-11 the person has been ordered by the court to register under this subtitle;
+17 (i) § 2–201(a)(4)(viii), (x), or (xi) of the Criminal Law Article;
 
-12 (v) the common law offense of sodomy, as that offense existed before
-13 October 1, 2020, or § 3–322 of the Criminal Law Article, as that offense existed before
-14 October 1, 2023, if the offense was committed with force or threat of force; or
+18 (ii) § 3–303, § 3–304, § 3–307(a)(1) or (2), § 3–308.1(C) OR (D), §
+19 3–309, § 3–310, § 3–311, § 3–312, § 3–315, § 3–323, or § 3–602 of the Criminal Law Article;
 
-15 (vi) § 3–305 or § 3–306 of the Criminal Law Article as the sections
-16 existed before October 1, 2017;
+20 (iii) § 3–502 of the Criminal Law Article, if the victim is a minor;
 
-17 (2) conspiring to commit, attempting to commit, or committing a violation
-18 of § 3–307(a)(3), § 3–314, § 3–503, or § 3–603 of the Criminal Law Article, if the victim is
-19 under the age of 14 years;
+21 (iv) § 3–502 of the Criminal Law Article, if the victim is an adult, and
+22 the person has been ordered by the court to register under this subtitle;
 
-20 (3) conspiring to commit, attempting to commit, or committing the common
-21 law offense of false imprisonment, if the victim is a minor;
+23 (v) the common law offense of sodomy, as that offense existed before
+24 October 1, 2020, or § 3–322 of the Criminal Law Article, as that offense existed before
+25 October 1, 2023, if the offense was committed with force or threat of force; or
 
-22 (4) conspiring to commit, attempting to commit, or committing an offense
-23 that would require the person to register as a tier I or tier II sex offender after the person
-24 was already registered as a tier II sex offender;
+26 (vi) § 3–305 or § 3–306 of the Criminal Law Article as the sections
+27 existed before October 1, 2017;
 
-25 (5) a crime committed in a federal, military, tribal, or other jurisdiction
-26 that, if committed in this State, would constitute one of the crimes listed in items (1)
-27 through (3) of this subsection; or
+28 (2) conspiring to commit, attempting to commit, or committing a violation
+29 of § 3–307(a)(3), § 3–314, § 3–503, or § 3–603 of the Criminal Law Article, if the victim is
+30 under the age of 14 years;
 
-28 (6) a crime in a court of Canada, Great Britain, Australia, New Zealand, or
-29 any other foreign country where the United States Department of State has determined in
-30 its Country Reports on Human Rights Practices that an independent judiciary generally or
-31 vigorously enforced the right to a fair trial during the year in which the conviction occurred
-32 that, if the crime were committed in this State, would constitute one of the crimes listed in
-33 items (1) through (3) of this subsection.
+31 (3) conspiring to commit, attempting to commit, or committing the common
+32 law offense of false imprisonment, if the victim is a minor;
 END OF PAGE 9
 
 START OF PAGE 10
 10 HOUSE BILL 501
 
-1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
-2 October 1, 2026.
+1 (4) conspiring to commit, attempting to commit, or committing an offense
+2 that would require the person to register as a tier I or tier II sex offender after the person
+3 was already registered as a tier II sex offender;
+
+4 (5) a crime committed in a federal, military, tribal, or other jurisdiction
+5 that, if committed in this State, would constitute one of the crimes listed in items (1)
+6 through (3) of this subsection; or
+
+7 (6) a crime in a court of Canada, Great Britain, Australia, New Zealand, or
+8 any other foreign country where the United States Department of State has determined in
+9 its Country Reports on Human Rights Practices that an independent judiciary generally or
+10 vigorously enforced the right to a fair trial during the year in which the conviction occurred
+11 that, if the crime were committed in this State, would constitute one of the crimes listed in
+12 items (1) through (3) of this subsection.
+
+13 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+14 October 1, 2026.
 
 Approved:
 
@@ -464,4 +474,5 @@ Speaker of the House of Delegates.
 
 ________________________________________________________________________________
 President of the Senate.
-END OF PAGE 10</bill>
+END OF PAGE 10
+</bill>

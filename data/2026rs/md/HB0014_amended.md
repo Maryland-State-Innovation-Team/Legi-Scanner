@@ -1,4 +1,5 @@
 <bill>
+<bill>
 START OF PAGE 1
 HOUSE BILL 14
 
@@ -21,10 +22,10 @@ CHAPTER ______
 2 County Boards of Education – Bullying, Harassment, or Intimidation –
 3 Information Collection and Reporting Requirements
 
-4 FOR the privilege of altering the contents of a certain bullying, harassment, or intimidation
+4 FOR the purpose of altering the contents of a certain bullying, harassment, or intimidation
 5 form to require the identification of certain information; requiring each county board
 6 of education to report information about groups with certain characteristics under
-7 certain circumstances; requiring each county board ~~of~~ ~~education~~ to post certain
+7 certain circumstances; requiring each county board to post certain
 8 information on its website in a certain manner on or before a certain date each year;
 9 and generally relating to bullying, harassment, or intimidation and county boards of
 10 education.
@@ -117,35 +118,36 @@ HOUSE BILL 14 3
 7 (iii) Describe the incident, including alleged statements made by the
 8 alleged perpetrator;
 
-9 (IV) IDENTIFY ANY ACTUAL OR PERCEIVED
-10 PERSONAL CHARACTERISTICS DESCRIBED IN SUBSECTION (A)(2)(I)1 OF THIS
-11 SECTION THAT ARE BELIEVED TO HAVE BEEN A MOTIVATING FACTOR IN THE INCIDENT;
+9 (IV) IDENTIFY ANY
+10 ACTUAL OR PERCEIVED
+11 PERSONAL CHARACTERISTICS DESCRIBED IN SUBSECTION (A)(2)(I)1 OF THIS
+12 SECTION THAT ARE BELIEVED TO HAVE BEEN A MOTIVATING FACTOR IN THE INCIDENT;
 
-12 [(iv)] (V) Indicate the location of the incident;
+13 (V) Indicate the location of the incident;
 
-13 [(v)] (VI) Identify any physical injury suffered by the victim and
-14 describe the seriousness and any permanent effects of the injury;
+14 (VI) Identify any physical injury suffered by the victim and
+15 describe the seriousness and any permanent effects of the injury;
 
-15 [(vi)] (VII) Indicate the number of days a student is absent from
-16 school, if any, as a result of the incident;
+16 (VII) Indicate the number of days a student is absent from
+17 school, if any, as a result of the incident;
 
-17 [(vii)] (VIII) Identify any request for psychological services initiated by
-18 the victim or the victim’s family due to psychological injuries suffered; and
+18 (VIII) Identify any request for psychological services initiated by
+19 the victim or the victim’s family due to psychological injuries suffered; and
 
-19 [(viii)] (IX) Include instructions on how to fill out the form and the
-20 mailing address to where the form shall be sent.
+20 (IX) Include instructions on how to fill out the form and the
+21 mailing address to where the form shall be sent.
 
-21 (3) A county board shall distribute copies of the victim of bullying,
-22 harassment, or intimidation report form to each public school under the county board’s
-23 jurisdiction.
+22 (3) A county board shall distribute copies of the victim of bullying,
+23 harassment, or intimidation report form to each public school under the county board’s
+24 jurisdiction.
 
-24 (d) (1) A county board may establish an anonymous two–way electronic tip
-25 program to allow the reporting of an act of bullying, harassment, or intimidation of a
-26 student.
+25 (d) (1) A county board may establish an anonymous two–way electronic tip
+26 program to allow the reporting of an act of bullying, harassment, or intimidation of a
+27 student.
 
-27 (2) The purpose of the anonymous two–way electronic tip program is for a
-28 student, a parent, guardian, or close adult relative of a student, or a school staff member to
-29 report acts of bullying, harassment, or intimidation.
+28 (2) The purpose of the anonymous two–way electronic tip program is for a
+29 student, a parent, guardian, or close adult relative of a student, or a school staff member to
+30 report acts of bullying, harassment, or intimidation.
 END OF PAGE 3
 
 START OF PAGE 4
@@ -169,7 +171,7 @@ START OF PAGE 4
 12 (5) The Governor may include funding in the State budget to provide
 13 grants to county boards to establish an anonymous two–way electronic tip program.
 
-14 (e) (1) Each SUBJECT TO THE REQUIREMENTS OF THIS SUBSECTION,
+14 (e) (1) SUBJECT TO THE REQUIREMENTS OF THIS SUBSECTION,
 15 EACH county board shall submit summaries of report forms filed with the county board to
 16 the State Board on or before January 31 each year.
 
@@ -182,13 +184,13 @@ START OF PAGE 4
 22 WHOLE OR IN SUBSTANTIAL PART BY ANY ACTUAL PERSONAL CHARACTERISTICS DESCRIBED IN
 23 SUBSECTION (A)(2)(I)1 OF THIS SECTION OF MEMBERS WITH THOSE PERSONAL CHARACTERISTICS.
 
-24 (F) ON (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, ON OR
-25 BEFORE JANUARY 31 EACH YEAR, EACH COUNTY BOARD SHALL POST IN A
-26 PROMINENT LOCATION ON ITS WEBSITE INFORMATION ABOUT THE NUMBER OF
-27 INCIDENTS OF BULLYING, HARASSMENT, OR INTIMIDATION REPORTED TO THE
-28 STATE BOARD BY THE COUNTY BOARD UNDER SUBSECTION (E) OF THIS SECTION
-29 THAT WERE DETERMINED TO BE MOTIVATED BY AN ACTUAL OR PERCEIVED
-30 PERSONAL CHARACTERISTIC OF AN INDIVIDUAL OR A GROUP, DISAGGREGATED BY
+29 (F) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, ON OR
+30 BEFORE JANUARY 31 EACH YEAR, EACH COUNTY BOARD SHALL POST IN A
+31 PROMINENT LOCATION ON ITS WEBSITE INFORMATION ABOUT THE NUMBER OF
+32 INCIDENTS OF BULLYING, HARASSMENT, OR INTIMIDATION REPORTED TO THE
+33 STATE BOARD BY THE COUNTY BOARD UNDER SUBSECTION (E) OF THIS SECTION
+34 THAT WERE DETERMINED TO BE MOTIVATED BY AN ACTUAL OR PERCEIVED
+35 PERSONAL CHARACTERISTIC OF AN INDIVIDUAL OR A GROUP, DISAGGREGATED BY
 END OF PAGE 4
 
 START OF PAGE 5
@@ -200,7 +202,7 @@ HOUSE BILL 14 5
 3 (2) A COUNTY BOARD MAY NOT PUBLISH ANY INFORMATION THAT
 4 COULD BE USED TO IDENTIFY AN INDIVIDUAL STUDENT.
 
-5 [(f)] (G) The information contained in a victim of bullying, harassment, or
+5 (G) The information contained in a victim of bullying, harassment, or
 6 intimidation report form in accordance with subsection (c) of this section or received from
 7 an anonymous two–way electronic tip in accordance with subsection (d) of this section:
 
@@ -209,32 +211,32 @@ HOUSE BILL 14 5
 
 10 (2) May not be made a part of a student’s permanent educational record.
 
-11 [(g)] (H) (1) The Department shall submit a report on or before March 31 each
-12 year to the Senate Education, [Health, and Environmental Affairs] ENERGY, AND THE
-13 ENVIRONMENT Committee and the House Ways and Means Committee, in accordance
-14 with § 2–1257 of the State Government Article, consisting of a summary of the information
-15 included in the victim of bullying, harassment, or intimidation report forms filed with the
-16 county boards the previous year.
+11 (H) (1) The Department shall submit a report on or before March 31 each
+12 year to the Senate Education, ENERGY, AND THE ENVIRONMENT Committee and the House Ways and Means Committee, in accordance
+13 with § 2–1257 of the State Government Article, consisting of a summary of the information
+14 included in the victim of bullying, harassment, or intimidation report forms filed with the
+15 county boards the previous year.
 
-17 (2) The report submitted by the Department shall include, to the extent
-18 feasible:
+16 (2) The report submitted by the Department shall include, to the extent
+17 feasible:
 
-19 (i) A description of the act constituting the bullying, harassment, or
-20 intimidation;
+18 (i) A description of the act constituting the bullying, harassment, or
+19 intimidation;
 
-21 (ii) The age of the victim and alleged perpetrator;
+20 (ii) The age of the victim and alleged perpetrator;
 
-22 (iii) The allegation of the alleged perpetrator’s motive;
+21 (iii) The allegation of the alleged perpetrator’s motive;
 
-23 (iv) A description of the investigation of the complaint and any
-24 corrective action taken by the appropriate school authorities;
+22 (iv) A description of the investigation of the complaint and any
+23 corrective action taken by the appropriate school authorities;
 
-25 (v) The number of days a student is absent from school, if any, as a
-26 result of the incident; and
+24 (v) The number of days a student is absent from school, if any, as a
+25 result of the incident; and
 
-27 (vi) The number of false allegations reported.
+26 (vi) The number of false allegations reported.
 
-28 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
-29 1, 2026.
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+28 1, 2026.
 END OF PAGE 5
+</bill>
 </bill>

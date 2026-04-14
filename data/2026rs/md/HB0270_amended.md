@@ -2,18 +2,25 @@
 START OF PAGE 1
 HOUSE BILL 270
 
-P1 6lr0088
-(PRE–FILED) CF SB 192
-
-By: Chair, Government, Labor, and Elections Committee (By Request –
+P1 (6lr0088)
+ENROLLED BILL
+— Government, Labor, and Elections/Education, Energy, and the Environment —
+Introduced by Chair, Government, Labor, and Elections Committee (By Request –
 Departmental – Veterans and Military Families)
-Requested: September 16, 2025
-Introduced and read first time: January 14, 2026
-Assigned to: Government, Labor, and Elections
 
-Committee Report: Favorable
-House action: Adopted
-Read second time: February 22, 2026
+Read and Examined by Proofreaders:
+
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+
+Sealed with the Great Seal and presented to the Governor, for his approval this
+
+_______ day of _______________ at ________________________ o’clock, ________M.
+
+______________________________________________
+Speaker.
 
 CHAPTER ______
 
@@ -21,10 +28,10 @@ CHAPTER ______
 
 2 Military Family Inclusion Act
 
-3 FOR the purpose of altering the membership of the Maryland Trust Fund Board of
+3 FOR the privilege of altering the membership of the Maryland Trust Fund Board of
 4 Trustees, the Maryland Veterans Commission, the Maryland Commission on
 5 Caregiving, and the Maryland Youth Advisory Council; and generally relating to
-6 ~~military~~ <u>military–connected</u> membership on councils and commissions.
+6 ~~military~~ military–connected membership on councils and commissions.
 
 7 BY repealing and reenacting, without amendments,
 8 Article – Human Services
@@ -33,311 +40,318 @@ CHAPTER ______
 11 (2019 Replacement Volume and 2025 Supplement)
 
 12 BY repealing and reenacting, with amendments,
-13 Article – Human Services
-14 Section 7–303(a)(1)
-15 Annotated Code of Maryland
-16 (2019 Replacement Volume and 2025 Supplement)
-
-17 BY repealing and reenacting, without amendments,
-18 Article – State Government
-19 Section 9–914(a) and 9–2701(b)
-20 Annotated Code of Maryland
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
 [Brackets] indicate matter deleted from existing law.
 Underlining indicates amendments to bill.
 ~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
-amendment. *hb0270*
+amendment.
+Italics indicate opposite chamber/conference committee amendments.*hb0270*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 270
 
-1 (2021 Replacement Volume and 2025 Supplement)
+1 Article – Human Services
+2 Section 7–303(a)(1)
+3 Annotated Code of Maryland
+4 (2019 Replacement Volume and 2025 Supplement)
 
-2 BY repealing and reenacting, with amendments,
-3 Article – State Government
-4 Section 9–914(b), ~~9–914.1,~~ 9–917, <u>9–918, 9–926(a), 9–927(b)(1), 9–935(a),</u> and 9–2701(c)(1)
-5 Annotated Code of Maryland
-6 (2021 Replacement Volume and 2025 Supplement)
+5 BY repealing and reenacting, without amendments,
+6 Article – State Government
+7 Section 9–914(a) and 9–2701(b)
+8 Annotated Code of Maryland
+9 (2021 Replacement Volume and 2025 Supplement)
 
-7 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-8 That the Laws of Maryland read as follows:
+10 BY repealing and reenacting, with amendments,
+11 Article – State Government
+12 Section 9–914(b), ~~9–914.1,~~ 9–917, 9–918, 9–926(a), 9–927(b)(1), 9–935(a), and
+13 9–2701(c)(1)
+14 Annotated Code of Maryland
+15 (2021 Replacement Volume and 2025 Supplement)
 
-9 Article – Human Services
+16 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+17 That the Laws of Maryland read as follows:
 
-10 7–302.
+18 Article – Human Services
 
-11 (a) There is a Maryland Commission on Caregiving in the Department.
+19 7–302.
 
-12 7–303.
+20 (a) There is a Maryland Commission on Caregiving in the Department.
 
-13 (a) (1) The Commission consists of the following members:
+21 7–303.
 
-14 (i) one member of the Senate of Maryland, appointed by the
-15 President of the Senate;
+22 (a) (1) The Commission consists of the following members:
 
-16 (ii) one member of the House of Delegates, appointed by the Speaker
-17 of the House; and
+23 (i) one member of the Senate of Maryland, appointed by the
+24 President of the Senate;
 
-18 (iii) the following members appointed by the Governor:
+25 (ii) one member of the House of Delegates, appointed by the Speaker
+26 of the House; and
 
-19 1. two representatives from the Department of Human
-20 Services;
+27 (iii) the following members appointed by the Governor:
 
-21 2. three representatives from the Maryland Department of
-22 Health;
+28 1. two representatives from the Department of Human
+29 Services;
 
-23 3. one representative from the Department of Aging;
+30 2. three representatives from the Maryland Department of
+31 Health;
 
-24 4. one representative from an area agency on aging;
-
-25 5. one representative from the Department of Disabilities;
-
-26 6. one representative from the Maryland Respite Care
-27 Coalition;
-
-28 7. two consumers of respite care services;
-
-29 8. three family caregivers; [and]
+32 3. one representative from the Department of Aging;
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 270 3
 
-1 9. three representatives of organizations that provide or
-2 have interest or expertise in respite care services; AND
+1 4. one representative from an area agency on aging;
 
-3 10. ONE FAMILY CAREGIVER OF A SERVICE–DISABLED
-4 VETERAN.
+2 5. one representative from the Department of Disabilities;
 
-5 Article – State Government
+3 6. one representative from the Maryland Respite Care
+4 Coalition;
 
-6 9–914.
+5 7. two consumers of respite care services;
 
-7 (a) The powers and duties of the Trust shall rest in and be exercised by a Board
-8 of Trustees.
+6 8. three family caregivers; [and]
 
-9 (b) The Board of Trustees shall consist of the following 12 members:
+7 9. three representatives of organizations that provide or
+8 have interest or expertise in respite care services; AND
 
-10 (1) the Secretary, ex officio, or the Secretary’s designee, who shall serve as
-11 the chair;
+9 10. ONE FAMILY CAREGIVER OF A SERVICE–DISABLED
+10 VETERAN.
 
-12 (2) the Secretary of Aging, ex officio, or the Secretary’s designee;
+11 Article – State Government
 
-13 (3) the Secretary of Labor, ex officio, or the Secretary’s designee;
+12 9–914.
 
-14 (4) the Secretary of Health, ex officio, or the Secretary’s designee;
+13 (a) The powers and duties of the Trust shall rest in and be exercised by a Board
+14 of Trustees.
 
-15 (5) the Secretary of Human Services, ex officio, or the Secretary’s designee;
+15 (b) The Board of Trustees shall consist of the following 12 members:
 
-16 (6) the Secretary of Disabilities, ex officio, or the Secretary’s designee;
+16 (1) the Secretary, ex officio, or the Secretary’s designee, who shall serve as
+17 the chair;
 
-17 (7) the Adjutant General of the Military Department, ex officio, or the
-18 Adjutant General’s designee;
+18 (2) the Secretary of Aging, ex officio, or the Secretary’s designee;
 
-19 (8) one representative of each of the following organizations, appointed by
-20 the Governor:
+19 (3) the Secretary of Labor, ex officio, or the Secretary’s designee;
 
-21 (i) a veterans service organization;
+20 (4) the Secretary of Health, ex officio, or the Secretary’s designee;
 
-22 (ii) a nonprofit organization that serves veterans; and
+21 (5) the Secretary of Human Services, ex officio, or the Secretary’s designee;
 
-23 (iii) the business community;
+22 (6) the Secretary of Disabilities, ex officio, or the Secretary’s designee;
 
-24 (9) AS AN EX OFFICIO TRUSTEE, a member of the House of Delegates
-25 appointed by the Speaker of the House; and
+23 (7) the Adjutant General of the Military Department, ex officio, or the
+24 Adjutant General’s designee;
 
-26 (10) AS AN EX OFFICIO TRUSTEE, a member of the Senate appointed by the
-27 President of the Senate.
+25 (8) one representative of each of the following organizations, appointed by
+26 the Governor:
+
+27 (i) a veterans service organization;
 END OF PAGE 3
 
 START OF PAGE 4
 4 HOUSE BILL 270
 
-1 ~~9–914.1.~~
+1 ~~(ii) a nonprofit organization that serves veterans; and~~
 
-2 ~~(a) The Board shall meet at places and dates to be determined by the Board, but~~
-3 ~~not less than 2 times a year.~~
+2 ~~(iii) the business community;~~
 
-4 ~~(b) A majority of the VOTING trustees is a quorum.~~
+3 ~~(9) AS AN EX OFFICIO TRUSTEE, a member of the House of Delegates~~
+4 ~~appointed by the Speaker of the House; and~~
 
-5 ~~(c) A trustee:~~
+5 ~~(10) AS AN EX OFFICIO TRUSTEE, a member of the Senate appointed by the~~
+6 ~~President of the Senate.~~
 
-6 ~~(1) may not receive compensation as a trustee; but~~
+7 ~~9–914.1.~~
 
-7 ~~(2) is entitled to reimbursement for expenses under the Standard State~~
-8 ~~Travel Regulations, as provided in the State budget.~~
+8 ~~(a)~~ ~~The~~ ~~Board~~ ~~shall~~ ~~meet~~ ~~at~~ ~~places~~ ~~and~~ ~~dates~~ ~~to~~ ~~be~~ ~~determined~~ ~~by~~ ~~the~~ ~~Board,~~ ~~but~~
 
-9 ~~(d) The Department shall provide staff, supplies, and office space for the Board.~~
+9 ~~not~~ ~~less~~ ~~than~~ ~~2~~ ~~times~~ ~~a~~ ~~year.~~
 
-10 9–917.
+10 (b) A majority of the VOTING trustees is a quorum.
 
-11 (a) (1) The Commission consists of the following members appointed by the
-12 Governor.
+11 ~~(c)~~ ~~A~~ ~~trustee:~~
 
-13 (2) Of the members:
+12 ~~(1)~~ ~~may~~ ~~not~~ ~~receive~~ ~~compensation~~ ~~as~~ ~~a~~ ~~trustee;~~ ~~but~~
 
-14 (i) 1 shall be appointed from each of the 8 congressional districts in
-15 the State;
+13 ~~(2)~~ ~~is~~ ~~entitled~~ ~~to~~ ~~reimbursement~~ ~~for~~ ~~expenses~~ ~~under~~ ~~the~~ ~~Standard~~ ~~State~~
+14 ~~Travel~~ ~~Regulations,~~ ~~as~~ ~~provided~~ ~~in~~ ~~the~~ ~~State~~ ~~budget.~~
 
-16 (ii) 1 shall be a veteran appointed from the State at large;
+15 ~~(d)~~ ~~The~~ ~~Department~~ ~~shall~~ ~~provide~~ ~~staff,~~ ~~supplies,~~ ~~and~~ ~~office~~ ~~space~~ ~~for~~ ~~the~~ ~~Board.~~
 
-17 (iii) 1 shall be a woman veteran appointed from the State at large;
+16 9–917.
 
-18 (iv) 1 shall be a representative of a retired enlisted organization;
+17 (a) (1) The Commission consists of the following members appointed by the
+18 Governor.
 
-19 (v) 1 shall be a veteran of the Iraq or Afghanistan conflict, as defined
-20 in § 1–202(a–1) of the Public Safety Article; AND
+19 (2) Of the members:
 
-21 (vi) 1 shall be appointed from a list of individuals submitted to the
-22 Governor by each of the following organizations:
+20 (i) 1 shall be appointed from each of the 8 congressional districts in
+21 the State;
 
-23 1. [the American Ex–Prisoners of War, Inc.;
+22 (ii) 1 shall be a veteran appointed from the State at large;
 
-24 2.] the American Legion;
+23 (iii) 1 shall be a woman veteran appointed from the State at large;
 
-25 [3.] 2.the AMVETS;
+24 (iv) 1 shall be a representative of a retired enlisted organization;
 
-26 [4.] 3.the Catholic War Veterans;
+25 (v) 1 shall be a veteran of the Iraq or Afghanistan conflict, as defined
+26 in § 1–202(a–1) of the Public Safety Article; AND
 END OF PAGE 4
 
 START OF PAGE 5
 HOUSE BILL 270 5
 
-1 [5.] 4.the Disabled American Veterans;
+1 (vi) 1 shall be appointed from a list of individuals submitted to the
+2 Governor by each of the following organizations:
 
-2 [6.] 5.the Fleet Reserve Association;
+3 1. [the American Ex–Prisoners of War, Inc.;
 
-3 [7.] 6.the Jewish War Veterans;
+4 2.] the American Legion;
 
-4 [8.] 7.the Marine Corps League;
+5 [3.] 2.the AMVETS;
 
-5 [9.] 8.the Maryland Military Officers Association of America;
+6 [4.] 3.the Catholic War Veterans;
 
-6 [10.] 9. the Military Order of the Purple Heart;
+7 [5.] 4.the Disabled American Veterans;
 
-7 [11. the Polish Legion of American Veterans;
+8 [6.] 5.the Fleet Reserve Association;
 
-8 12.] 10. the Veterans of Foreign Wars;
+9 [7.] 6.the Jewish War Veterans;
 
-9 [13.] 11. the Vietnam Veterans of America;
+10 [8.] 7.the Marine Corps League;
 
-10 [14.] 12. the Korean War Veterans Association, Inc.;
+11 [9.] 8.the Maryland Military Officers Association of America;
 
-11 [15.] 13. the National Association for Black Veterans;
+12 [10.] 9. the Military Order of the Purple Heart;
 
-12 [16.] 14. the Colonial Chapter of the Paralyzed Veterans of
-13 America; [and]
+13 [11. the Polish Legion of American Veterans;
 
-14 [17.] 15. the Reserve Organization of America; and
+14 12.] 10. the Veterans of Foreign Wars;
 
-15 16. AN ORGANIZATION REPRESENTING MILITARY
-16 FAMILIES.
+15 [13.] 11. the Vietnam Veterans of America;
 
-17 [(vii) 1 shall be an honorary nonvoting member appointed from a list
-18 of individuals submitted to the Governor by the Pearl Harbor Survivors Association.]
+16 [14.] 12. the Korean War Veterans Association, Inc.;
 
-19 (b) Each member must be a resident of the State ~~and a veteran~~.
+17 [15.] 13. the National Association for Black Veterans;
 
-20 (c) (1) The term of an appointed member is 5 years.
+18 [16.] 14. the Colonial Chapter of the Paralyzed Veterans of
+19 America; [and]
 
-21 (2) The terms of the appointed members are staggered as required by the
-22 terms provided for members of the Commission on October 1, 1984.
+20 [17.] 15. the Reserve Organization of America; and
 
-23 (3) At the end of a term, a member continues to serve until a successor is
-24 appointed and qualifies.
+21 16. AN ORGANIZATION REPRESENTING MILITARY
+22 FAMILIES.
 
-25 (4) A member who is appointed after a term has begun serves only for the
-26 rest of the term and until a successor is appointed and qualifies.
+23 [(vii) 1 shall be an honorary nonvoting member appointed from a list
+24 of individuals submitted to the Governor by the Pearl Harbor Survivors Association.]
+
+25 (b) Each member must be a resident of the State ~~and~~ ~~a~~ ~~veteran.~~
 END OF PAGE 5
 
 START OF PAGE 6
 6 HOUSE BILL 270
 
-1 (5) When an organization is no longer a part of the Commission, the
-2 appointment shall terminate at the end of the current member’s term.
+1 (c) (1) The term of an appointed member is 5 years.
 
-3 (6) AN ORGANIZATION’S REPRESENTATIVE SEAT MAY BE REMOVED IF
-4 THE ORGANIZATION FAILS TO APPOINT A NEW COMMISSIONER FOR 2 CONTINUOUS
-5 YEARS.
+2 (2) The terms of the appointed members are staggered as required by the
+3 terms provided for members of the Commission on October 1, 1984.
 
-6 (7) AN ORGANIZATION MAY BE REMOVED FROM THE COMMISSION IF
-7 A REPRESENTATIVE FROM THE ORGANIZATION IS NOT RECOMMENDED BY THAT
-8 ORGANIZATION.
+4 (3) At the end of a term, a member continues to serve until a successor is
+5 appointed and qualifies.
 
-9 [(d) A new organization may not be eligible for representation on the Commission,
-10 by appointment of the Governor, unless it is congressionally chartered.]
+6 (4) A member who is appointed after a term has begun serves only for the
+7 rest of the term and until a successor is appointed and qualifies.
 
-<u>9–918.</u>
+8 (5) When an organization is no longer a part of the Commission, the
+9 appointment shall terminate at the end of the current member’s term.
 
-<u>(a) From among the members of the Commission, the Governor shall appoint</u>
-<u>a [chairman] CHAIR.</u>
+10 (6) AN ORGANIZATION’S REPRESENTATIVE SEAT MAY BE REMOVED IF
+11 THE ORGANIZATION FAILS TO APPOINT A NEW COMMISSIONER FOR 2 CONTINUOUS
+12 YEARS.
 
-<u>(b) A vice [chairman] CHAIR shall be elected by a simple majority vote of the</u>
-<u>Commission.</u>
+13 (7) AN ORGANIZATION MAY BE REMOVED FROM THE COMMISSION IF
+14 A REPRESENTATIVE FROM THE ORGANIZATION IS NOT RECOMMENDED BY THAT
+15 ORGANIZATION.
 
-<u>9–926.</u>
+16 [(d) A new organization may not be eligible for representation on the Commission,
+17 by appointment of the Governor, unless it is congressionally chartered.]
 
-<u>(a) From among its members, the Veterans’ Home Commission shall elect a</u>
-<u>[chairman] CHAIR, a secretary, and any other officers that the Commission considers</u>
-<u>appropriate.</u>
+18 9–918.
 
-<u>9–927.</u>
+19 (a) From among the members of the Commission, the Governor shall appoint a
+20 [chairman] CHAIR.
 
-<u>(b) (1) The Veterans’ Home Commission shall meet:</u>
+21 (b) A vice [chairman] CHAIR shall be elected by a simple majority vote of the
+22 Commission.
 
-<u>(i) at least twice a year, at the times and places that it</u>
-<u>determines; and</u>
+23 9–926.
 
-<u>(ii) at the call of the [Chairman] CHAIR, on the [Chairman’s]</u>
-<u>CHAIR’S initiative or on the request of at least 4 members.</u>
+24 (a) From among its members, the Veterans’ Home Commission shall elect a
+25 [chairman] CHAIR, a secretary, and any other officers that the Commission considers
+26 appropriate.
 
-<u>9–935.</u>
+27 9–927.
 
-<u>(a) From among its members, the Commission may elect:</u>
+28 (b) (1) The Veterans’ Home Commission shall meet:
 
-<u>(1) a [chairman] CHAIR;</u>
-
-<u>(2) a vice [chairman] CHAIR; and</u>
-
-<u>(3) a secretary and a treasurer or a secretary–treasurer.</u>
-
-11 9–2701.
-
-12 (b) There is a Maryland Youth Advisory Council.
-
-13 (c) (1) The Council consists of:
-
-14 (i) four youths appointed by the President of the Senate;
-
-15 (ii) four youths appointed by the Speaker of the House of Delegates;
-
-16 (iii) four youths appointed by the Governor; and
-
-17 (iv) the following members appointed by the Governor’s Office for
-18 Children:
-
-19 1. four youths nominated by the local management boards
-20 established under § 8–301 of the Human Services Article;
-
-21 2. four youths nominated by the Maryland Association of
-22 Student Councils;
-
-23 3. two youths nominated by the University System of
-24 Maryland Student Council; [and]
-
-25 4. the following youths nominated by the Student Advisory
-26 Council to the Maryland Higher Education Commission:
-
-27 A. one youth who is enrolled in a community college; and
-
-28 B. one youth who is enrolled in a private college or university;
-29 AND
+29 (i) at least twice a year, at the times and places that it determines;
+30 and
 END OF PAGE 6
 
 START OF PAGE 7
 HOUSE BILL 270 7
+
+1 (ii) at the call of the [Chairman] CHAIR, on the [Chairman’s]
+2 CHAIR’S initiative or on the request of at least 4 members.
+
+3 9–935.
+
+4 (a) From among its members, the Commission may elect:
+
+5 (1) a [chairman] CHAIR;
+
+6 (2) a vice [chairman] CHAIR; and
+
+7 (3) a secretary and a treasurer or a secretary–treasurer.
+
+8 9–2701.
+
+9 (b) There is a Maryland Youth Advisory Council.
+
+10 (c) (1) The Council consists of:
+
+11 (i) four youths appointed by the President of the Senate;
+
+12 (ii) four youths appointed by the Speaker of the House of Delegates;
+
+13 (iii) four youths appointed by the Governor; and
+
+14 (iv) the following members appointed by the Governor’s Office for
+15 Children:
+
+16 1. four youths nominated by the local management boards
+17 established under § 8–301 of the Human Services Article;
+
+18 2. four youths nominated by the Maryland Association of
+19 Student Councils;
+
+20 3. two youths nominated by the University System of
+21 Maryland Student Council; [and]
+
+22 4. the following youths nominated by the Student Advisory
+23 Council to the Maryland Higher Education Commission:
+
+24 A. one youth who is enrolled in a community college; and
+
+25 B. one youth who is enrolled in a private college or university;
+26 AND
+END OF PAGE 7
+
+START OF PAGE 8
+8 HOUSE BILL 270
 
 1 5. ONE YOUTH WHO HAS AN IMMEDIATE FAMILY
 2 MEMBER WHO IS A SERVICE MEMBER~~, APPOINTED BY THE DEPARTMENT OF~~
@@ -356,5 +370,5 @@ Speaker of the House of Delegates.
 
 ________________________________________________________________________________
 President of the Senate.
-END OF PAGE 7
+END OF PAGE 8
 </bill>

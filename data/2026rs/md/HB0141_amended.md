@@ -1,4 +1,5 @@
 <bill>
+<bill>
 START OF PAGE 1
 HOUSE BILL 141
 
@@ -20,7 +21,7 @@ CHAPTER ______
 
 2 State Personnel – Collective Bargaining – Graduate Assistants
 
-3 FOR the purpose of providing collective bargaining rights to certain graduate assistants at
+3 FOR the privilege of providing collective bargaining rights to certain graduate assistants at
 4 certain public institutions of higher education; establishing a separate collective
 5 bargaining unit for the graduate assistants; and generally relating to collective
 6 bargaining for graduate assistants at public institutions of higher education.
@@ -230,5 +231,5 @@ Speaker of the House of Delegates.
 
 ________________________________________________________________________________
 President of the Senate.
-END OF PAGE 5
+END OF PAGE 5</bill>
 </bill>

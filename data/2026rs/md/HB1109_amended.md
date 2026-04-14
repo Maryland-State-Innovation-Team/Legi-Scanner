@@ -1,3 +1,5 @@
+<bill>
+<bill>
 START OF PAGE 1
 HOUSE BILL 1109
 
@@ -28,120 +30,110 @@ CHAPTER ______
 8 ~~approval~~ ~~of~~ ~~the~~ ~~Maryland~~ ~~Department~~ ~~of~~ ~~Health~~ ~~or~~ ~~the~~ ~~Department~~ ~~of~~ ~~Budget~~ ~~and~~
 9 ~~Management~~ ~~if~~ ~~the~~ ~~position~~ ~~is~~ ~~fully~~ ~~funded~~ ~~without~~ ~~State~~ ~~funding;~~ ~~authorizing~~ ~~a~~
 10 ~~health~~ ~~officer~~ ~~for~~ ~~a~~ ~~county~~ ~~to~~ ~~enter~~ ~~into~~ ~~certain~~ ~~contracts~~ ~~if~~ ~~the~~ ~~Secretary~~ ~~of~~ ~~Health~~
-11 ~~does~~ ~~not~~ ~~respond~~ ~~to~~ ~~a~~ ~~request~~ ~~for~~ ~~approval~~ ~~within~~ ~~a~~ ~~certain~~ ~~time~~ ~~period;~~ authorizing a health officer for a county to enter into certain contracts if the Secretary of Health does not respond to a request for approval within a certain time period; altering the
-14 membership, leadership selection process, and staffing of the Commission on Public Health; requiring the Commission on Public Health to provide oversight over the
-16 implementation of recommendations made by the Commission on Public Health; establishing the Public Health Workforce Development Fund; requiring that interest earnings of the Public Health Workforce Development Fund remain in the Public Health Workforce Development Fund; authorizing the Maryland Department of Health and the Health Services Cost Review Commission to transfer money from the Population Health Improvement Fund to the Public Health Workforce Development Fund in a manner consistent with a certain agreement; requiring the Department of Legislative Services to develop a process to assess
-23 the health equity impacts of relevant legislation; altering the membership of the
+11 ~~does~~ ~~not~~ ~~respond~~ ~~to~~ ~~a~~ ~~request~~ ~~for~~ ~~approval~~ ~~within~~ ~~a~~ ~~certain~~ ~~time~~ ~~period;~~ authorizing a health officer for a county to enter
+12 into certain contracts if the Secretary of Health does not respond to a request for
+13 approval within a certain time period; altering the membership, leadership selection process, and staffing of the Commission on Public Health;
+14 requiring the Commission on Public Health to provide oversight over the
+15 implementation of recommendations made by the Commission on Public Health; establishing the Public Health Workforce Development Fund; requiring that interest earnings of the Public Health Workforce Development Fund remain in the Public Health Workforce Development Fund; authorizing the Maryland Department of Health and the Health Services Cost Review Commission to transfer money from the Population Health Improvement Fund to the Public Health Workforce Development Fund in a manner consistent with a certain agreement; requiring the Department of Legislative Services to develop a process to assess the health equity impacts of relevant legislation; altering the membership of the
+16 Maryland Corps Program Advisory Board; requiring the Maryland
+17 Department of Health to convene a certain workgroup; and generally relating to
+18 public health.
 
-EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law.
-Underlining indicates amendments to bill.
-~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
-amendment. *hb1109*
+19
+
+20 BY repealing and reenacting, without amendments,
+21 Article – Health – General
+22 Section 1–101(a) and (e), 13–5102, and 13–5602(a)
+23 Annotated Code of Maryland
+24 (2023 Replacement Volume and 2025 Supplement)
+
+25 BY adding to
+26 Article – Health – General
+27 Section 2–104.1; 2–1101 through 2–1103 to be under the new subtitle “Subtitle
+28 11. Maryland Medical Reserve Corps”; and 24–2801 and 24–2802 to be under the new subtitle “Subtitle 28. Public Health Workforce Development Fund”
+29 Annotated Code of Maryland
+30 (2023 Replacement Volume and 2025 Supplement)
+
+31 BY repealing and reenacting, with amendments,
+32 Article – Health – General
+33 Section 3–306, 13–5103 through 13–5106, and 13–5602(f)
+34 Annotated Code of Maryland
+35 (2023 Replacement Volume and 2025 Supplement)
+
+36 BY repealing and reenacting, with amendments,
+37 Article – Health – General
+38 Section 13–5107
+39 Annotated Code of Maryland
+40 (2023 Replacement Volume and 2025 Supplement)
+41 (As enacted by Chapter 787 of the Acts of the General Assembly of 2024)
+
+42 BY repealing and reenacting, without amendments,
+43 Article – State Finance and Procurement
+44 Section 6–226(a)(2)(i) and (ii)
+45 Annotated Code of Maryland
+46 (2021 Replacement Volume and 2025 Supplement)
+
+47 BY repealing and reenacting, with amendments,
+48 Article – State Finance and Procurement
+49 Section 6–226(a)(2)(iii)212. and 213.
+50 Annotated Code of Maryland
+51 (2021 Replacement Volume and 2025 Supplement)
+
+52 BY adding to
+53 Article – State Finance and Procurement
+54 Section 6–226(a)(2)(iii)214.
+55 Annotated Code of Maryland
+56 (2021 Replacement Volume and 2025 Supplement)
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 1109
 
-1 Maryland Corps Program Advisory Board; requiring the Commission on Public Health to establish a
-2 Community Benefits Modernization subcommittee; requiring the Maryland
-3 Department of Health to convene a certain workgroup; and generally relating to
-4 public health.
+1 BY adding to
+2 Article – State Government
+3 Section 2–1505.3
+4 Annotated Code of Maryland
+5 (2021 Replacement Volume and 2025 Supplement)
 
-5 BY repealing and reenacting, without amendments,
-6 Article – Health – General
-7 Section 1–101(a) and (e), ~~13–5102,~~ ~~and~~ ~~13–5602(a)~~, 13–5102, and 13–5602(a)
-8 Annotated Code of Maryland
-9 (2023 Replacement Volume and 2025 Supplement)
+6 BY repealing and reenacting, with amendments,
+7 Article – State Government
+8 Section 21–203(a)
+9 Annotated Code of Maryland
+10 (2021 Replacement Volume and 2025 Supplement)
 
-10 BY adding to
-11 Article – Health – General
-12 Section 2–104.1; 2–1101 through 2–1103 to be under the new subtitle “Subtitle
-13 11. Maryland Medical Reserve Corps”; and 24–2801 and 24–2802 to be under the new subtitle “Subtitle 28. Public Health Workforce Development Fund”
-15 Annotated Code of Maryland
-16 (2023 Replacement Volume and 2025 Supplement)
+11 BY repealing and reenacting, without amendments,
+12 Article – State Government
+13 Section 21–203(b)
+14 Annotated Code of Maryland
+15 (2021 Replacement Volume and 2025 Supplement)
 
-17 BY repealing and reenacting, with amendments,
-18 Article – Health – General
-19 Section 3–306, 13–5103 through 13–5106, and 13–5602(f)
-20 Annotated Code of Maryland
-21 (2023 Replacement Volume and 2025 Supplement)
+16 BY repealing and reenacting, with amendments,
+17 Chapter 385 of the Acts of the General Assembly of 2023, as amended by Chapter
+18 787 of the Acts of the General Assembly of 2024
+19 Section 2
 
-22 BY repealing and reenacting, with amendments,
-23 Article – Health – General
-24 Section 13–5107
-25 Annotated Code of Maryland
-26 (2023 Replacement Volume and 2025 Supplement)
-27 (As enacted by Chapter 787 of the Acts of the General Assembly of 2024)
+20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+21 That the Laws of Maryland read as follows:
 
-28 BY repealing and reenacting, without amendments,
-29 Article – State Finance and Procurement
-30 Section 6–226(a)(2)(i) and (ii)
-31 Annotated Code of Maryland
-32 (2021 Replacement Volume and 2025 Supplement)
+22 Article – Health – General
 
-33 BY repealing and reenacting, with amendments,
-34 Article – State Finance and Procurement
-35 Section 6–226(a)(2)(iii)212. and 213.
-36 Annotated Code of Maryland
-37 (2021 Replacement Volume and 2025 Supplement)
+23 1–101.
 
-38 BY adding to
-39 Article – State Finance and Procurement
-40 Section 6–226(a)(2)(iii)214.
+24 (a) In this article the following words have the meanings indicated.
+
+25 (e) “Health officer” means, unless expressly provided otherwise, the Baltimore
+26 City Commissioner of Health or the health officer of a county.
+
+27 2–104.1.
+
+28 (A) BEFORE PROCURING A SYSTEM FOR COLLECTING AND STORING
+29 ELECTRONIC HEALTH RECORDS, AS DEFINED IN § 19–142 OF THIS ARTICLE, THE
+30 DEPARTMENT SHALL CONSULT WITH LOCAL HEALTH DEPARTMENTS TO ASSESS THE
+31 NECESSARY QUALITIES OF AN ELECTRONIC HEALTH RECORDS SYSTEM.
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 1109 3
-
-1 Annotated Code of Maryland
-2 (2021 Replacement Volume and 2025 Supplement)
-
-3 BY adding to
-4 Article – State Government
-5 Section 2–1505.3
-6 Annotated Code of Maryland
-7 (2021 Replacement Volume and 2025 Supplement)
-
-8 BY repealing and reenacting, with amendments,
-9 Article – State Government
-10 Section 21–203(a)
-11 Annotated Code of Maryland
-12 (2021 Replacement Volume and 2025 Supplement)
-
-13 BY repealing and reenacting, without amendments,
-14 Article – State Government
-15 Section 21–203(b)
-16 Annotated Code of Maryland
-17 (2021 Replacement Volume and 2025 Supplement)
-
-18 BY repealing and reenacting, with amendments,
-19 Chapter 385 of the Acts of the General Assembly of 2023, as amended by Chapter
-20 787 of the Acts of the General Assembly of 2024
-21 Section 2
-
-22 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-23 That the Laws of Maryland read as follows:
-
-24 Article – Health – General
-
-25 1–101.
-
-26 (a) In this article the following words have the meanings indicated.
-
-27 (e) “Health officer” means, unless expressly provided otherwise, the Baltimore
-28 City Commissioner of Health or the health officer of a county.
-
-29 2–104.1.
-
-30 (A) BEFORE PROCURING A SYSTEM FOR COLLECTING AND STORING
-31 ELECTRONIC HEALTH RECORDS, AS DEFINED IN § 19–142 OF THIS ARTICLE, THE
-32 DEPARTMENT SHALL CONSULT WITH LOCAL HEALTH DEPARTMENTS TO ASSESS THE
-33 NECESSARY QUALITIES OF AN ELECTRONIC HEALTH RECORDS SYSTEM.
-END OF PAGE 3
-
-START OF PAGE 4
-4 HOUSE BILL 1109
 
 1 (B) IF THE DEPARTMENT PROCURES A SYSTEM FOR COLLECTING AND
 2 STORING ELECTRONIC HEALTH RECORDS, THE DEPARTMENT SHALL NOTIFY EACH
@@ -186,10 +178,10 @@ START OF PAGE 4
 28 (a) Except as provided by agreement between the Secretary and the local
 29 governing body, and in addition to the powers and duties set forth elsewhere, each health
 30 officer has the powers and duties set forth in this section.
-END OF PAGE 4
+END OF PAGE 3
 
-START OF PAGE 5
-HOUSE BILL 1109 5
+START OF PAGE 4
+4 HOUSE BILL 1109
 
 1 (b) A health officer may obtain samples of food and drugs for analysis.
 
@@ -236,577 +228,531 @@ HOUSE BILL 1109 5
 30 (d) (1) Subject to the consent of the governing body of the county and the
 31 written approval of the Secretary, a health officer for a county may enter into a contract or
 32 any other written agreement to assist or participate in the delivery of health care services
+END OF PAGE 4
+
+START OF PAGE 5
+HOUSE BILL 1109 5
+
+1 with a person that is authorized to provide, finance, coordinate, facilitate, or otherwise
+2 deliver health care services in the State.
+
+3 (2) IF THE SECRETARY DOES NOT RESPOND TO A REQUEST FOR
+4 WRITTEN APPROVAL WITHIN 7 DAYS AFTER RECEIVING THE REQUEST, THE HEALTH
+5 OFFICER FOR THE COUNTY MAY ENTER THE CONTRACT OR WRITTEN AGREEMENT.
+
+6 (e) (1) Except as provided in paragraph (2) of this subsection, a health officer
+7 for a county and the Baltimore City Commissioner of Health may authorize the county
+8 health department to retain all collections, including any unspent balance at the end of a
+9 fiscal year, received from:
+
+10 (i) Fees authorized under this article;
+
+11 (ii) Fees authorized under the Environment Article; and
+
+12 (iii) Fees derived from charges authorized under Title 16, Subtitle 2
+13 of this article.
+
+14 (2) The authority to retain collections under paragraph (1) of this
+15 subsection does not apply:
+
+16 (i) To license fees set by a county governing body or Baltimore City
+17 and paid to the chief financial officer of the county or Baltimore City as authorized under
+18 State law;
+
+19 (ii) To fees that must be transferred to the General Fund under §
+20 4–217(c) of this article from the fees collected for each birth certificate issued or report
+21 issued that a search was made but the requested record is not on file; or
+
+22 (iii) If the retention of collections would be inconsistent with
+23 established local practice.
+
+24 (3) Each health officer for a county and the Baltimore City Commissioner
+25 of Health shall report annually to the Secretary on the use of collections retained under
+26 paragraph (1) of this subsection.
+
+27 (F) A HEALTH OFFICER FOR A COUNTY MAY SERVE ON THE BOARD OF A
+28 HOSPITAL IN THE STATE AS A REPRESENTATIVE OF A LOCAL HEALTH DEPARTMENT
+29 ONLY IF THE HEALTH OFFICER DOES NOT ACCEPT PAYMENT FOR THE HEALTH
+30 OFFICER’S SERVICE ON THE BOARD.
+
+31 [(f)] (G) The Secretary may delegate duties, powers, and functions as provided
+32 in this article to a health officer for a county or other county official authorized to
+33 administer and enforce health and environmental laws.
 END OF PAGE 5
 
 START OF PAGE 6
 6 HOUSE BILL 1109
 
-1 with a person that is authorized to provide, finance, coordinate, facilitate, or otherwise
-2 deliver health care services in the State.
+1 13–5102.
 
-3 (2) IF THE SECRETARY DOES NOT RESPOND TO A REQUEST FOR WRITTEN APPROVAL WITHIN 7 DAYS AFTER RECEIVING THE REQUEST, THE HEALTH OFFICER FOR THE COUNTY MAY ENTER THE CONTRACT OR WRITTEN AGREEMENT.
+2 There is a Commission on Public Health.
 
-12 (e) (1) Except as provided in paragraph (2) of this subsection, a health officer
-13 for a county and the Baltimore City Commissioner of Health may authorize the county
-14 health department to retain all collections, including any unspent balance at the end of a
-15 fiscal year, received from:
+3 13–5103.
 
-16 (i) Fees authorized under this article;
+4 (a) The Commission consists of the following members:
 
-17 (ii) Fees authorized under the Environment Article; and
+5 (1) One member of the Senate of Maryland, appointed by the President of
+6 the Senate;
 
-18 (iii) Fees derived from charges authorized under Title 16, Subtitle 2
-19 of this article.
+7 (2) One member of the House of Delegates, appointed by the Speaker of the
+8 House;
 
-20 (2) The authority to retain collections under paragraph (1) of this
-21 subsection does not apply:
+9 (3) THE SECRETARY OF BUDGET AND MANAGEMENT, OR THE
+10 SECRETARY’S DESIGNEE;
 
-22 (i) To license fees set by a county governing body or Baltimore City
-23 and paid to the chief financial officer of the county or Baltimore City as authorized under
-24 State law;
+11 (4) THE SECRETARY OF INFORMATION TECHNOLOGY, OR THE
+12 SECRETARY’S DESIGNEE;
 
-25 (ii) To fees that must be transferred to the General Fund under §
-26 4–217(c) of this article from the fees collected for each birth certificate issued or report
-27 issued that a search was made but the requested record is not on file; or
+13 [(3)] (5) The Deputy Secretary for Public Health, or the Deputy
+14 Secretary’s designee;
 
-28 (iii) If the retention of collections would be inconsistent with
-29 established local practice.
+15 [(4)] (6) The Deputy Secretary for [Behavioral Health] OPERATIONS, or
+16 the Deputy Secretary’s designee;
 
-30 (3) Each health officer for a county and the Baltimore City Commissioner
-31 of Health shall report annually to the Secretary on the use of collections retained under
-32 paragraph (1) of this subsection.
+17 [(5) The Director of the Office of Minority Health and Health Disparities, or
+18 the Director’s designee; and]
 
-33 (F) A HEALTH OFFICER FOR A COUNTY MAY SERVE ON THE BOARD OF A
-34 HOSPITAL IN THE STATE AS A REPRESENTATIVE OF A LOCAL HEALTH DEPARTMENT
+19 (7) THE CHIEF EXECUTIVE OFFICER OF THE CHESAPEAKE
+20 REGIONAL INFORMATION SYSTEM FOR OUR PATIENTS (CRISP), OR THE CHIEF
+21 EXECUTIVE OFFICER’S DESIGNEE; AND
+
+22 [(6)] (8) The following members, appointed by the Governor:
+
+23 (i) Three local health officers of whom:
+
+24 1. One shall be from a rural jurisdiction;
+
+25 2. One shall be from a suburban jurisdiction; and
+
+26 3. One shall be from an urban jurisdiction;
+
+27 (ii) Two representatives from State academic institutions with
+28 expertise in public health systems; AND
 END OF PAGE 6
 
 START OF PAGE 7
 HOUSE BILL 1109 7
 
-1 ONLY IF THE HEALTH OFFICER DOES NOT ACCEPT PAYMENT FOR THE HEALTH
-2 OFFICER’S SERVICE ON THE BOARD.
+1 (iii) A faculty member from a public health program at a historically
+2 Black college or university[; and].
 
-3 [(f)] (G) The Secretary may delegate duties, powers, and functions as provided
-4 in this article to a health officer for a county or other county official authorized to
-5 administer and enforce health and environmental laws.
+3 [(iv)] (B) [At least three but not more than five] THE GOVERNOR
+4 MAY APPOINT NOT MORE THAN TWO members of the public with [demonstrated interest]
+5 EXPERIENCE in public health [and experience in at least one of the following areas:
 
-6 13–5102.
+6 1. Health equity;
 
-7 There is a Commission on Public Health.
+7 2. Information technology;
 
-8 13–5103.
+8 3. Workforce; and
 
-9 (a) The Commission consists of the following members:
+9 4. Population health] AS ADDITIONAL MEMBERS OF THE
+10 COMMISSION.
 
-10 (1) One member of the Senate of Maryland, appointed by the President of
-11 the Senate;
+11 [(b) In performing the duties of the Commission, the Commission shall consult
+12 with, as appropriate and necessary:
 
-12 (2) One member of the House of Delegates, appointed by the Speaker of the
-13 House;
+13 (1) The Maryland Health Care Commission;
 
-14 (3) THE SECRETARY OF BUDGET AND MANAGEMENT, OR THE
-15 SECRETARY’S DESIGNEE;
+14 (2) The Health Services Cost Review Commission;
 
-16 (4) THE SECRETARY OF INFORMATION TECHNOLOGY, OR THE
-17 SECRETARY’S DESIGNEE;
+15 (3) The Maryland Community Health Resources Commission;
 
-18 [(3)] (5) The Deputy Secretary for Public Health, or the Deputy
-19 Secretary’s designee;
+16 (4) The Department of Budget and Management;
 
-20 [(4)] (6) The Deputy Secretary for [Behavioral Health] OPERATIONS, or
-21 the Deputy Secretary’s designee;
+17 (5) The Department of General Services;
 
-22 [(5) The Director of the Office of Minority Health and Health Disparities, or
-23 the Director’s designee; and]
+18 (6) The Maryland Department of Disabilities;
 
-24 (7) THE CHIEF EXECUTIVE OFFICER OF THE CHESAPEAKE
-25 REGIONAL INFORMATION SYSTEM FOR OUR PATIENTS (CRISP), OR THE CHIEF
-26 EXECUTIVE OFFICER’S DESIGNEE; AND
+19 (7) The State–designated health data utility; and
 
-27 [(6)] (8) The following members, appointed by the Governor:
+20 (8) Any other State agency as appropriate.]
 
-28 (i) Three local health officers of whom:
+21 (c) (1) The Commission [shall] MAY establish [the following] workgroups[:
 
-29 1. One shall be from a rural jurisdiction;
+22 (i) Funding;
+
+23 (ii) Governance and organizational capabilities;
+
+24 (iii) Workforce;
+
+25 (iv) Data and information technology; and
+
+26 (v) Communication and public engagement] AT THE DISCRETION
+27 OF THE COMMISSION.
 END OF PAGE 7
 
 START OF PAGE 8
 8 HOUSE BILL 1109
 
-1 2. One shall be from a suburban jurisdiction; and
+1 (2) [Each workgroup established under paragraph (1) of this subsection
+2 shall include:
 
-2 3. One shall be from an urban jurisdiction;
+3 (i) Two members of the Commission; and
 
-3 (ii) Two representatives from State academic institutions with
-4 expertise in public health systems; AND
+4 (ii) Members of the public with relevant experience in the subject
+5 matter of the workgroup who may include:
 
-5 (iii) A faculty member from a public health program at a historically
-6 Black college or university[; and].
+6 1. Primary and specialty care practitioners;
 
-7 [(iv)] (B) [At least three but not more than five] THE GOVERNOR
-8 MAY APPOINT NOT MORE THAN TWO members of the public with [demonstrated interest]
-9 EXPERIENCE in public health [and experience in at least one of the following areas:
+7 2. Payors;
 
-10 1. Health equity;
+8 3. Consumer advocates;
 
-11 2. Information technology;
+9 4. Hospital executives;
 
-12 3. Workforce; and
+10 5. Safety net health care providers;
 
-13 4. Population health] AS ADDITIONAL MEMBERS OF THE
-14 COMMISSION.
+11 6. Public health practitioners;
 
-15 [(b) In performing the duties of the Commission, the Commission shall consult
-16 with, as appropriate and necessary:
+12 7. Community–based organizations; and
 
-17 (1) The Maryland Health Care Commission;
+13 8. Faith–based organizations] THE CHAIR OF THE
+14 COMMISSION MAY APPOINT MEMBERS OF THE PUBLIC TO A WORKGROUP.
 
-18 (2) The Health Services Cost Review Commission;
+15 [(3) The purpose of the workgroups established under paragraph (1) of this
+16 subsection is to foster broad engagement and provide expertise for the purpose of informing
+17 the work and recommendations of the Commission.]
 
-19 (3) The Maryland Community Health Resources Commission;
+18 (d) To the extent practicable and consistent with federal and State law, the
+19 membership of the Commission and workgroups established under this section shall reflect
+20 the racial, ethnic, and gender diversity of the State.
 
-20 (4) The Department of Budget and Management;
+21 (e) (1) [The] SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION AND
+22 EXCEPT AS PROVIDED IN PARAGRAPH (3) OF THIS SUBSECTION, THE Commission
+23 shall [be cochaired by:
 
-21 (5) The Department of General Services;
+24 (1) One member appointed under subsection (a)(6)(i) of this section,
+25 designated by the Governor;
 
-22 (6) The Maryland Department of Disabilities;
+26 (2) One member appointed under subsection (a)(6)(ii) of this section,
+27 designated by the Governor; and
 
-23 (7) The State–designated health data utility; and
-
-24 (8) Any other State agency as appropriate.]
-
-25 (c) (1) The Commission [shall] MAY establish [the following] workgroups[:
-
-26 (i) Funding;
+28 (3) The member appointed under subsection (a)(6)(iii) of this section]
+29 SELECT A CHAIR AND A VICE CHAIR FROM AMONG ITS MEMBERS.
 END OF PAGE 8
 
 START OF PAGE 9
 HOUSE BILL 1109 9
 
-1 (ii) Governance and organizational capabilities;
+1 (2) TO QUALIFY TO SERVE AS CHAIR OF THE COMMISSION, THE
+2 MEMBER MUST AGREE TO PROVIDE STAFF FOR THE COMMISSION ON SELECTION AS
+3 CHAIR.
 
-2 (iii) Workforce;
+4 (3) THE MEMBERS OF THE COMMISSION MAY NOT SELECT AS CHAIR
+5 A MEMBER LISTED IN SUBSECTION (A)(3), (4), (5), OR (6) OF THIS SECTION.
 
-3 (iv) Data and information technology; and
+6 (f) A member of the Commission:
 
-4 (v) Communication and public engagement] AT THE DISCRETION
-5 OF THE COMMISSION.
+7 (1) May not receive compensation as a member of the Commission; but
 
-6 (2) [Each workgroup established under paragraph (1) of this subsection
-7 shall include:
+8 (2) Is entitled to reimbursement for expenses under the Standard State
+9 Travel Regulations, as provided in the State budget.
 
-8 (i) Two members of the Commission; and
+10 13–5104.
 
-9 (ii) Members of the public with relevant experience in the subject
-10 matter of the workgroup who may include:
+11 (A) The [academic institutions represented by the cochairs] CHAIR of the
+12 Commission shall provide staff support for the Commission.
 
-11 1. Primary and specialty care practitioners;
+13 (B) IF THE CHAIR FAILS TO PROVIDE STAFFING FOR THE COMMISSION, THE
+14 MEMBERS SHALL SELECT A NEW CHAIR IN ACCORDANCE WITH § 13–5103(E) OF THIS
+15 SUBTITLE.
 
-12 2. Payors;
+16 13–5105.
 
-13 3. Consumer advocates;
+17 (A) The purpose of the Commission is to make recommendations to improve the
+18 delivery of foundational public health services in the State.
 
-14 4. Hospital executives;
+19 (B) THE COMMISSION SHALL PROVIDE OVERSIGHT OVER GUIDANCE FOR
+20 IMPLEMENTATION OF THE COMMISSION’S RECOMMENDATIONS.
 
-15 5. Safety net health care providers;
+21 (C) THE DEPARTMENT SHALL PROVIDE AN UPDATE REGARDING THE
+22 IMPLEMENTATION OF THE COMMISSION’S RECOMMENDATIONS TO THE
+23 COMMISSION EACH QUARTER.
 
-16 6. Public health practitioners;
+24 13–5106.
 
-17 7. Community–based organizations; and
+25 (a) The Commission shall assess the foundational public health capabilities of the
+26 Department and local health departments in the State.
 
-18 8. Faith–based organizations] THE CHAIR OF THE
-19 COMMISSION MAY APPOINT MEMBERS OF THE PUBLIC TO A WORKGROUP.
+27 (b) (1) In conducting the assessment required under subsection (a) of this
+28 section, the Commission shall:
 
-20 [(3) The purpose of the workgroups established under paragraph (1) of this
-21 subsection is to foster broad engagement and provide expertise for the purpose of informing
-22 the work and recommendations of the Commission.]
-
-23 (d) To the extent practicable and consistent with federal and State law, the
-24 membership of the Commission and workgroups established under this section shall reflect
-25 the racial, ethnic, and gender diversity of the State.
-
-26 (e) (1) [The] SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION AND
-27 EXCEPT AS PROVIDED IN PARAGRAPH (3) OF THIS SUBSECTION, THE Commission
-28 shall [be cochaired by:
+29 (i) Explain the impact of the foundational public health capabilities
+30 on the State’s ability to address foundational public health areas, including as the
+31 foundational public health areas relate to behavioral health;
 END OF PAGE 9
 
 START OF PAGE 10
 10 HOUSE BILL 1109
 
-1 (1) One member appointed under subsection (a)(6)(i) of this section,
-2 designated by the Governor;
+1 (ii) Explain the impact of the foundational public health capabilities
+2 on the State’s ability to respond to COVID–19, overdoses, maternal and infant mortality,
+3 and other major public health challenges as appropriate; and
 
-3 (2) One member appointed under subsection (a)(6)(ii) of this section,
-4 designated by the Governor; and
+4 (iii) Provide public outreach to hold at least three public meetings in
+5 different areas of the State that include an opportunity for public comment.
 
-5 (3) The member appointed under subsection (a)(6)(iii) of this section]
-6 SELECT A CHAIR AND A VICE CHAIR FROM AMONG ITS MEMBERS.
+6 (2) In conducting the assessment required under subsection (a) of this
+7 section, the Commission may:
 
-7 (2) TO QUALIFY TO SERVE AS CHAIR OF THE COMMISSION, THE
-8 MEMBER MUST AGREE TO PROVIDE STAFF FOR THE COMMISSION ON SELECTION AS
-9 CHAIR.
+8 (i) Request deidentified and publicly available data from the
+9 Department, local health departments, and the State–designated health data utility; and
 
-10 (3) THE MEMBERS OF THE COMMISSION MAY NOT SELECT AS CHAIR
-11 A MEMBER LISTED IN SUBSECTION (A)(3), (4), (5), OR (6) OF THIS SECTION.
+10 (ii) Request interviews with State and local health officials.
 
-12 (f) A member of the Commission:
+11 (c) (1) Based on the assessment conducted under subsection (a) of this section,
+12 the Commission shall make recommendations for reform in the following areas:
 
-13 (1) May not receive compensation as a member of the Commission; but
+13 (i) Organization of State and local public health departments;
 
-14 (2) Is entitled to reimbursement for expenses under the Standard State
-15 Travel Regulations, as provided in the State budget.
+14 (ii) Information technology, information exchange, and data and
+15 analytics;
 
-16 13–5104.
+16 (iii) Workforce, including human resources and use of the [medical
+17 reserve corps for public health] MARYLAND MEDICAL RESERVE CORPS ESTABLISHED
+18 UNDER TITLE 2, SUBTITLE 11 OF THIS ARTICLE;
 
-17 (A) The [academic institutions represented by the cochairs] CHAIR of the
-18 Commission shall provide staff support for the Commission.
+19 (iv) Procurement, including oversight of contractors;
 
-19 (B) IF THE CHAIR FAILS TO PROVIDE STAFFING FOR THE COMMISSION, THE
-20 MEMBERS SHALL SELECT A NEW CHAIR IN ACCORDANCE WITH § 13–5103(E) OF THIS
-21 SUBTITLE.
+20 (v) Funding;
 
-22 13–5105.
+21 (vi) Communication and public engagement; and
 
-23 (A) The purpose of the Commission is to make recommendations to improve the
-24 delivery of foundational public health services in the State.
+22 (vii) Any other area considered appropriate by the Commission.
 
-25 (B) THE COMMISSION SHALL PROVIDE OVERSIGHT OVER GUIDANCE FOR
-26 IMPLEMENTATION OF THE COMMISSION’S RECOMMENDATIONS.
+23 (2) The recommendations made under paragraph (1) of this subsection
+24 shall include the funding or legislation required to implement the recommendation, if any.
 
-27 (C) THE DEPARTMENT SHALL PROVIDE AN UPDATE REGARDING THE
-28 IMPLEMENTATION OF THE COMMISSION’S RECOMMENDATIONS TO THE
-29 COMMISSION EACH QUARTER.
+25 (3) The Commission shall justify each recommendation made under
+26 paragraph (1) of this subsection based on how the recommendation contributes to the
+27 provision of foundational public health services.
+
+28 (4) (i) The Commission shall make a draft of its recommendations
+29 available for public comment for 30 days.
+
+30 (ii) The final report of the Commission shall include a response to
+31 any substantive public comment received on the draft recommendations.
 END OF PAGE 10
 
 START OF PAGE 11
 HOUSE BILL 1109 11
 
-1 13–5106.
+1 (5) (i) The Commission shall use best efforts to reach consensus on its
+2 recommendations.
 
-2 (a) The Commission shall assess the foundational public health capabilities of the
-3 Department and local health departments in the State.
+3 (ii) If the Commission cannot reach consensus on its
+4 recommendations, the Commission shall include the opportunity for dissenting comments
+5 in the Commission’s final report.
 
-4 (b) (1) In conducting the assessment required under subsection (a) of this
-5 section, the Commission shall:
+6 13–5107.
 
-6 (i) Explain the impact of the foundational public health capabilities
-7 on the State’s ability to address foundational public health areas, including as the
-8 foundational public health areas relate to behavioral health;
+7 [(a)] On or before [December 1, 2023] JANUARY 1 EACH YEAR, the Commission
+8 shall submit [an interim] A report ON THE IMPLEMENTATION OF ITS
+9 RECOMMENDATIONS AND BARRIERS TO IMPLEMENTATION to the Governor and, in
+10 accordance with § 2–1257 of the State Government Article, the Senate Budget and Taxation
+11 Committee, the Senate Finance Committee, the House Appropriations Committee, and the
+12 House Health [and Government Operations] Committee.
 
-9 (ii) Explain the impact of the foundational public health capabilities
-10 on the State’s ability to respond to COVID–19, overdoses, maternal and infant mortality,
-11 and other major public health challenges as appropriate; and
+13 [(b) On or before December 1, 2024, the Commission shall submit an interim
+14 report of its findings and recommendations to the Governor and, in accordance with §
+15 2–1257 of the State Government Article, the Senate Budget and Taxation Committee, the
+16 Senate Finance Committee, the House Appropriations Committee, and the House Health
+17 and Government Operations Committee.
 
-12 (iii) Provide public outreach to hold at least three public meetings in
-13 different areas of the State that include an opportunity for public comment.
+18 (c) On or before October 1, 2025, the Commission shall submit a final report of its
+19 findings and recommendations to the Governor and, in accordance with § 2–1257 of the
+20 State Government Article, the Senate Budget and Taxation Committee, the Senate Finance
+21 Committee, the House Appropriations Committee, and the House Health and Government
+22 Operations Committee.]
 
-14 (2) In conducting the assessment required under subsection (a) of this
-15 section, the Commission may:
+23 13–5602.
 
-16 (i) Request deidentified and publicly available data from the
-17 Department, local health departments, and the State–designated health data utility; and
+24 (a) There is a Population Health Improvement Fund.
 
-18 (ii) Request interviews with State and local health officials.
+25 (f) (1) Subject to [paragraph] PARAGRAPHS (2) AND (3) of this
+26 subsection, the Fund may be used only for expenses associated with statewide
+27 population health improvement initiatives in alignment with the statewide health
+28 equity plan as directed by the Secretary.
 
-19 (c) (1) Based on the assessment conducted under subsection (a) of this section,
-20 the Commission shall make recommendations for reform in the following areas:
+29 (2) Activities paid for by the Fund must support the goal of meeting the
+30 statewide population health targets outlined in the AHEAD Model State Agreement
+31 with the Center for Medicare and Medicaid Services and have at least one of the
+32 following functions:
 
-21 (i) Organization of State and local public health departments;
+33 (i) Reducing rates of common preventable health conditions;
 
-22 (ii) Information technology, information exchange, and data and
-23 analytics;
-
-24 (iii) Workforce, including human resources and use of the [medical
-25 reserve corps for public health] MARYLAND MEDICAL RESERVE CORPS ESTABLISHED
-26 UNDER TITLE 2, SUBTITLE 11 OF THIS ARTICLE;
-
-27 (iv) Procurement, including oversight of contractors;
-
-28 (v) Funding;
-
-29 (vi) Communication and public engagement; and
-
-30 (vii) Any other area considered appropriate by the Commission.
+34 (ii) Addressing health–related social needs; or
 END OF PAGE 11
 
 START OF PAGE 12
 12 HOUSE BILL 1109
 
-1 (2) The recommendations made under paragraph (1) of this subsection
-2 shall include the funding or legislation required to implement the recommendation, if any.
+1 (iii) Reducing or eliminating health disparities.
 
-3 (3) The Commission shall justify each recommendation made under
-4 paragraph (1) of this subsection based on how the recommendation contributes to the
-5 provision of foundational public health services.
+2 (3) THE DEPARTMENT AND THE HEALTH SERVICES COST REVIEW
+3 COMMISSION MAY, IN A MANNER CONSISTENT WITH THE AHEAD MODEL STATE
+4 AGREEMENT, TRANSFER MONEY FROM THE FUND TO THE PUBLIC HEALTH
+5 WORKFORCE DEVELOPMENT FUND ESTABLISHED UNDER § 24–2802 OF THIS
+6 ARTICLE.
 
-6 (4) (i) The Commission shall make a draft of its recommendations
-7 available for public comment for 30 days.
+7 SUBTITLE 28. PUBLIC HEALTH WORKFORCE DEVELOPMENT FUND.
 
-8 (ii) The final report of the Commission shall include a response to
-9 any substantive public comment received on the draft recommendations.
+8 24–2801.
 
-10 (5) (i) The Commission shall use best efforts to reach consensus on its
-11 recommendations.
+9 IN THIS SUBTITLE, “FUND” MEANS THE PUBLIC HEALTH WORKFORCE
+10 DEVELOPMENT FUND.
 
-12 (ii) If the Commission cannot reach consensus on its
-13 recommendations, the Commission shall include the opportunity for dissenting comments
-14 in the Commission’s final report.
+11 24–2802.
 
-15 13–5107.
+12 (A) THERE IS A PUBLIC HEALTH WORKFORCE DEVELOPMENT FUND.
 
-16 [(a)] On or before [December 1, 2023] JANUARY 1 EACH YEAR, the Commission
-17 shall submit [an interim] A report ON THE IMPLEMENTATION OF ITS
-18 RECOMMENDATIONS AND BARRIERS TO IMPLEMENTATION to the Governor and, in
-19 accordance with § 2–1257 of the State Government Article, the Senate Budget and Taxation
-20 Committee, the Senate Finance Committee, the House Appropriations Committee, and the
-21 House Health [and Government Operations] Committee.
+13 (B) THE PURPOSE OF THE FUND IS TO SUPPORT THE EDUCATION AND
+14 TRAINING OF THE PUBLIC HEALTH WORKFORCE.
 
-22 [(b) On or before December 1, 2024, the Commission shall submit an interim
-23 report of its findings and recommendations to the Governor and, in accordance with §
-24 2–1257 of the State Government Article, the Senate Budget and Taxation Committee, the
-25 Senate Finance Committee, the House Appropriations Committee, and the House Health
-26 and Government Operations Committee.
+15 (C) THE MARYLAND COMMUNITY HEALTH RESOURCES COMMISSION
+16 SHALL ADMINISTER THE FUND.
 
-27 (c) On or before October 1, 2025, the Commission shall submit a final report of its
-28 findings and recommendations to the Governor and, in accordance with § 2–1257 of the
-29 State Government Article, the Senate Budget and Taxation Committee, the Senate Finance
-30 Committee, the House Appropriations Committee, and the House Health and Government
-31 Operations Committee.]
+17 (D) (1) THE FUND IS A SPECIAL, NONLAPSING FUND THAT IS NOT
+18 SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
 
-32 13–5602.
+19 (2) THE STATE TREASURER SHALL HOLD THE FUND SEPARATELY,
+20 AND THE COMPTROLLER SHALL ACCOUNT FOR THE FUND.
 
-(a) There is a Population Health Improvement Fund.
+21 (E) THE FUND CONSISTS OF:
 
-(f) (1) Subject to [paragraph] PARAGRAPHS (2) AND (3) of this
-subsection, the Fund may be used only for expenses associated with statewide
-population health improvement initiatives in alignment with the statewide health
-equity plan as directed by the Secretary.
+22 (1) MONEY APPROPRIATED IN THE STATE BUDGET TO THE FUND;
 
-(2) Activities paid for by the Fund must support the goal of meeting the
-statewide population health targets outlined in the AHEAD Model State Agreement
-with the Center for Medicare and Medicaid Services and have at least one of the
-following functions:
+23 (2) INTEREST EARNINGS OF THE FUND;
 
-(i) Reducing rates of common preventable health conditions;
+24 (3) ANY MONEY TRANSFERRED FROM THE POPULATION HEALTH
+25 IMPROVEMENT FUND UNDER § 13–5602 OF THIS ARTICLE; AND
 
-(ii) Addressing health–related social needs; or
+26 (4) ANY OTHER MONEY FROM ANY OTHER SOURCE ACCEPTED FOR
+27 THE BENEFIT OF THE FUND.
 
-(iii) Reducing or eliminating health disparities.
+28 (F) THE FUND MAY BE USED ONLY TO SUPPORT THE EDUCATION AND
+29 TRAINING OF THE PUBLIC HEALTH WORKFORCE.
+END OF PAGE 12
 
-(3) THE DEPARTMENT AND THE HEALTH SERVICES COST REVIEW
-COMMISSION MAY, IN A MANNER CONSISTENT WITH THE AHEAD MODEL STATE
-AGREEMENT, TRANSFER MONEY FROM THE FUND TO THE PUBLIC HEALTH
-WORKFORCE DEVELOPMENT FUND ESTABLISHED UNDER § 24–2802 OF THIS
-ARTICLE.
+START OF PAGE 13
+HOUSE BILL 1109 13
 
-SUBTITLE 28. PUBLIC HEALTH WORKFORCE DEVELOPMENT FUND.
+1 (G) (1) THE STATE TREASURER SHALL INVEST THE MONEY OF THE
+2 FUND IN THE SAME MANNER AS OTHER STATE MONEY MAY BE INVESTED.
 
-24–2801.
+3 (2) ANY INTEREST EARNINGS OF THE FUND SHALL BE CREDITED
+4 TO THE FUND.
 
-IN THIS SUBTITLE, “FUND” MEANS THE PUBLIC HEALTH WORKFORCE
-DEVELOPMENT FUND.
+5 (H) EXPENDITURES FROM THE FUND MAY BE MADE ONLY IN
+6 ACCORDANCE WITH THE STATE BUDGET.
 
-24–2802.
+7 Article – State Finance and Procurement
 
-(A) THERE IS A PUBLIC HEALTH WORKFORCE DEVELOPMENT FUND.
+8 6–226.
 
-(B) THE PURPOSE OF THE FUND IS TO SUPPORT THE EDUCATION AND
-TRAINING OF THE PUBLIC HEALTH WORKFORCE.
+9 (a) (2) (i) This paragraph does not apply in fiscal years 2024 through
+10 2028.
 
-(C) THE MARYLAND COMMUNITY HEALTH RESOURCES COMMISSION
+11 (ii) Notwithstanding any other provision of law, and unless
+12 inconsistent with a federal law, grant agreement, or other federal requirement or with
+13 the terms of a gift or settlement agreement, net interest on all State money allocated by
+14 the State Treasurer under this section to special funds or accounts, and otherwise
+15 entitled to receive interest earnings, as accounted for by the Comptroller, shall accrue
+16 to the General Fund of the State.
 
-SHALL ADMINISTER THE FUND.
+17 (iii) The provisions of subparagraph (ii) of this paragraph do not
+18 apply to the following funds:
 
-(D) (1) THE FUND IS A SPECIAL, NONLAPSING FUND THAT IS NOT
-SUBJECT TO § 7–302 OF THE STATE FINANCE AND PROCUREMENT ARTICLE.
+19 212. the Department of Social and Economic Mobility
+20 Special Fund; [and]
 
-(2) THE STATE TREASURER SHALL HOLD THE FUND SEPARATELY,
-AND THE COMPTROLLER SHALL ACCOUNT FOR THE FUND.
+21 213. the Population Health Improvement Fund; AND
 
-(E) THE FUND CONSISTS OF:
+22 214. THE PUBLIC HEALTH WORKFORCE
+23 DEVELOPMENT FUND.
 
-(1) MONEY APPROPRIATED IN THE STATE BUDGET TO THE FUND;
+24 Article – State Government
 
-(2) INTEREST EARNINGS OF THE FUND;
+25 2–1505.3.
 
-(3) ANY MONEY TRANSFERRED FROM THE POPULATION HEALTH
-IMPROVEMENT FUND UNDER § 13–5602 OF THIS ARTICLE; AND
+26 THE DEPARTMENT OF LEGISLATIVE SERVICES, IN CONSULTATION WITH THE
+27 LEGISLATIVE POLICY COMMITTEE, SHALL DEVELOP A PROCESS TO ASSESS THE
+28 HEALTH EQUITY IMPACTS OF RELEVANT LEGISLATION.
 
-(4) ANY OTHER MONEY FROM ANY OTHER SOURCE ACCEPTED FOR
-THE BENEFIT OF THE FUND.
+29 21–203.
 
-(F) THE FUND MAY BE USED ONLY TO SUPPORT THE EDUCATION AND
-TRAINING OF THE PUBLIC HEALTH WORKFORCE.
+30 (a) (1) There is a Maryland Corps Program Advisory Board.
+END OF PAGE 13
 
-(G) (1) THE STATE TREASURER SHALL INVEST THE MONEY OF THE
-FUND IN THE SAME MANNER AS OTHER STATE MONEY MAY BE INVESTED.
+START OF PAGE 14
+14 HOUSE BILL 1109
 
-(2) ANY INTEREST EARNINGS OF THE FUND SHALL BE CREDITED
-TO THE FUND.
+1 (2) The Advisory Board consists of the following members:
 
-(H) EXPENDITURES FROM THE FUND MAY BE MADE ONLY IN
-ACCORDANCE WITH THE STATE BUDGET.
+2 (i) a Board Chair, appointed by the Governor;
 
-Article – State Finance and Procurement
+3 (ii) two members jointly appointed by the President of the Senate
+4 and the Speaker of the House:
 
-6–226.
+5 1. one of whom must represent a service organization in the
+6 State; and
 
-(a) (2) (i) This paragraph does not apply in fiscal years 2024 through
-2028.
+7 2. one of whom shall be:
 
-(ii) Notwithstanding any other provision of law, and unless
-inconsistent with a federal law, grant agreement, or other federal requirement or with
-the terms of a gift or settlement agreement, net interest on all State money allocated by
-the State Treasurer under this section to special funds or accounts, and otherwise
-entitled to receive interest earnings, as accounted for by the Comptroller, shall accrue
-to the General Fund of the State.
+8 A. a current participant in a public service program; or
 
-(iii) The provisions of subparagraph (ii) of this paragraph do not
-apply to the following funds:
+9 B. a former participant in a public service program whose
+10 participation ended during the preceding 3 years;
 
-212. the Department of Social and Economic Mobility
-Special Fund; [and]
+11 (iii) one member appointed by the President of the Senate;
 
-213. the Population Health Improvement Fund; AND
+12 (iv) one member appointed by the Speaker of the House; and
 
-214. THE PUBLIC HEALTH WORKFORCE
-DEVELOPMENT FUND.
+13 (v) [four] FIVE members appointed by the Governor[,]:
 
-3 Article – State Government
+14 1. one of whom shall be a representative from the Maryland
+15 State Service Commission; AND
 
-4 2–1505.3.
+16 2. ONE OF WHOM SHALL BE A HEALTH OFFICER, AS
+17 DEFINED IN § 1–101 OF THE HEALTH – GENERAL ARTICLE.
 
-5 THE DEPARTMENT OF LEGISLATIVE SERVICES, IN CONSULTATION WITH THE
-6 LEGISLATIVE POLICY COMMITTEE, SHALL DEVELOP A PROCESS TO ASSESS THE
-7 HEALTH EQUITY IMPACTS OF RELEVANT LEGISLATION.
+18 (b) In making appointments to the Advisory Board, the President, Speaker, and
+19 Governor shall consider:
 
-8 21–203.
+20 (1) the professional or personal experience of the individual in community
+21 or other service, nonprofit management, civic engagement, or volunteerism;
 
-9 (a) (1) There is a Maryland Corps Program Advisory Board.
+22 (2) the cultural, geographic, racial, ethnic, and gender diversity of the
+23 State; and
 
-10 (2) The Advisory Board consists of the following members:
+24 (3) an individual’s experience and knowledge in workforce development,
+25 including regional workforce needs, training, career development programming, and
+26 workforce investment boards.
 
-11 (i) a Board Chair, appointed by the Governor;
+27 Chapter 385 of the Acts of 2023, as amended by Chapter 787 of the Acts of 2024
 
-12 (ii) two members jointly appointed by the President of the Senate
-13 and the Speaker of the House:
+28 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+29 1, 2023. It shall remain effective for a period of [3] 5 years and 6 months and 1 month and, at the end of December 31, [2026] 2028, this Act, with no further action required by the General Assembly,
+30 shall be abrogated and of no further force and effect.
+END OF PAGE 14
 
-14 1. one of whom must represent a service organization in the
-15 State; and
+START OF PAGE 15
+HOUSE BILL 1109 15
 
-16 2. one of whom shall be:
+1 SECTION 2. AND BE IT FURTHER ENACTED, That it is the intent of the General
+2 Assembly that the Maryland Medical Reserve Corps required to be organized under §
+3 2–1102 of the Health – General Article, as enacted by Section 1 of this Act, replace the
+4 Maryland Responds Health Reserve Corps.
 
-17 A. a current participant in a public service program; or
+5 SECTION 3. AND BE IT FURTHER ENACTED, That the Maryland Department of
+6 Health shall convene a workgroup with representatives from the Department of Budget
+7 and Management and up to five representatives of local health officers to review local
+8 health department recruiting and classification processes and identify potential methods
+9 for increasing efficiencies related to the processes.
 
-18 B. a former participant in a public service program whose
-19 participation ended during the preceding 3 years;
-
-20 (iii) one member appointed by the President of the Senate;
-
-21 (iv) one member appointed by the Speaker of the House; and
-
-22 (v) [four] FIVE members appointed by the Governor[,]:
-
-23 1. one of whom shall be a representative from the Maryland
-24 State Service Commission; AND
-
-25 2. ONE OF WHOM SHALL BE A HEALTH OFFICER, AS
-26 DEFINED IN § 1–101 OF THE HEALTH – GENERAL ARTICLE.
-
-27 (b) In making appointments to the Advisory Board, the President, Speaker, and
-28 Governor shall consider:
+10 SECTION ~~3.~~ 4. AND BE IT FURTHER ENACTED, That this Act shall take effect
+11 July 1, 2026.
 END OF PAGE 15
-
-START OF PAGE 16
-16 HOUSE BILL 1109
-
-1 (1) the professional or personal experience of the individual in community
-2 or other service, nonprofit management, civic engagement, or volunteerism;
-
-3 (2) the cultural, geographic, racial, ethnic, and gender diversity of the
-4 State; and
-
-5 (3) an individual’s experience and knowledge in workforce development,
-6 including regional workforce needs, training, career development programming, and
-7 workforce investment boards.
-
-8 Chapter 385 of the Acts of 2023, as amended by Chapter 787 of the Acts of 2024
-
-9 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
-10 1, 2023. It shall remain effective for a period of [3] 5 years and 1 month and, at the end of
-11 June 30, [2026] 2028, this Act, with no further action required by the General Assembly,
-12 shall be abrogated and of no further force and effect.
-
-13 SECTION 2. AND BE IT FURTHER ENACTED, That it is the intent of the General
-14 Assembly that the Maryland Medical Reserve Corps required to be organized under §
-15 2–1102 of the Health – General Article, as enacted by Section 1 of this Act, replace the
-16 Maryland Responds Health Reserve Corps.
-
-17 SECTION 3. AND BE IT FURTHER ENACTED, That:
-
-18 (a) (1) The Commission on Public Health, in consultation with the Maryland
-19 Department of Health and the Health Services Cost Review Commission, shall establish a
-20 community benefits modernization subcommittee.
-
-21 (2) The subcommittee may include members and nonmembers of the
-22 Commission.
-
-23 (3) To the extent practicable, the membership of the subcommittee shall
-24 reflect the racial, ethnic, and gender diversity of the State.
-
-25 (b) The subcommittee shall:
-
-26 (1) review federal and State requirements governing hospital community
-27 benefit activities, including community health needs assessments and implementation
-28 strategies, definitions of allowable activities, and reporting requirements;
-
-29 (2) analyze a landscape assessment of other states’ community benefit
-30 spending requirements and policies, including those related to the development of the
-31 community health needs assessment and how implementation plans are operationalized;
-
-32 (3) evaluate the scope and impact of community benefit activities
-33 conducted by hospitals in the State, including the processes for local community health
-END OF PAGE 16
-
-START OF PAGE 17
-HOUSE BILL 1109 17
-
-1 needs assessment, implementation plan development and deployment, and trends in
-2 spending per allowable category;
-
-3 (4) identify gaps that exist between community benefit investment and
-4 State and local health priority areas; and
-
-5 (5) develop recommendations to:
-
-6 (i) modernize the State’s community benefit spending standards,
-7 policies, and reporting requirements while focusing on how to maximize community benefit
-8 investment to meet State health improvement priorities; and
-
-9 (ii) ensure alignment of community benefit with State health
-10 improvement priorities, including statutory or regulatory changes, funding, and reporting
-11 requirements to modernize the community benefits in the State.
-
-12 (c) The Chair of the Commission on Public Health shall provide staffing for the
-13 subcommittee.
-
-14 (d) (1) On or before August 1, 2027, the subcommittee shall submit a report of
-15 its findings and recommendations to the Commission on Public Health.
-
-16 (2) On or before September 1, 2027, the Commission on Public Health shall
-17 submit a report of the subcommittee’s findings and recommendations to the Governor and,
-18 in accordance with § 2–1257 of the State Government Article, the Senate Budget and
-19 Taxation Committee, the Senate Finance Committee, the House Appropriations
-20 Committee, and the House Health Committee.
-
-21 SECTION 4. AND BE IT FURTHER ENACTED, That the Maryland Department of
-22 Health shall convene a workgroup with representatives from the Department of Budget
-23 and Management and up to five representatives of local health officers to review local
-24 health department recruiting and classification processes and identify potential methods
-25 for increasing efficiencies related to the processes.
-
-26 SECTION 5. AND BE IT FURTHER ENACTED, That this Act shall take effect
-27 July 1, 2026. Section 3 of this Act shall remain effective for a period of 1 year and 6 months and, at the
-28 end of December 31, 2027, Section 3 of this Act, with no further action required by the General
-29 Assembly, shall be abrogated and of no further force and effect.
-END OF PAGE 17
+</bill>
+</bill>
