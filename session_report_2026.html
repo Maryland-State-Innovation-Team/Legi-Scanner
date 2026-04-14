@@ -1,0 +1,1444 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>2026 Maryland General Assembly — Session Report</title>
+<!-- Maryland Web Design System (MDWDS) — matches main Legi-Assist site -->
+<link rel="stylesheet" href="https://cdn.maryland.gov/mdwds/0.36.0/css/mdwds.min.css" />
+<script src="https://cdn.maryland.gov/mdwds/0.36.0/js/mdwds-init.js"></script>
+<script defer src="https://cdn.maryland.gov/mdwds/0.36.0/js/mdwds-core.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Source+Serif+4:opsz,wght@8..60,300;8..60,400;8..60,600&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+  :root {
+    --bg: #080a0f;
+    --surface: #10131b;
+    --card: #161a25;
+    --card-hover: #1c2130;
+    --border: rgba(196, 155, 27, 0.18);
+    --border-strong: rgba(196, 155, 27, 0.4);
+    --gold: #c49b1b;
+    --gold-bright: #e8be3c;
+    --gold-dim: rgba(196, 155, 27, 0.6);
+    --red: #b8202e;
+    --red-bright: #e03545;
+    --text: #e8e0cc;
+    --text-muted: #8a8070;
+    --text-dim: #7a7060;  /* raised from #4a4438 — WCAG AA 4.5:1 on --card bg */
+    --green: #2d7a52;
+    --green-bright: #3da86e;
+    --blue: #2855a0;
+    --blue-bright: #4a80e0;
+    --amber: #c47b1b;
+    --amber-bright: #e09a30;
+    --new-bills: #e8be3c;
+    --modified: #4a80e0;
+    --amendments: #e03545;
+    --fn-new: #3da86e;
+    --fn-updated: #7b5ea0;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html { scroll-behavior: smooth; }
+
+  /* ─── Skip nav (WCAG 2.4.1) ──────────────────────────────── */
+  .skip-nav {
+    position: absolute;
+    top: -9999px; left: -9999px;
+    background: var(--gold-bright);
+    color: var(--bg);
+    padding: 0.75rem 1.5rem;
+    font-family: 'Courier Prime', monospace;
+    font-weight: 700;
+    font-size: 0.9rem;
+    z-index: 10000;
+    text-decoration: none;
+    border-radius: 0 0 4px 0;
+  }
+  .skip-nav:focus {
+    top: 0; left: 0;
+    outline: 3px solid var(--gold);
+    outline-offset: 2px;
+  }
+
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Source Serif 4', Georgia, serif;
+    font-size: 16px;
+    line-height: 1.6;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* Grain overlay */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.04'/%3E%3C/svg%3E");
+    pointer-events: none;
+    z-index: 9999;
+    opacity: 0.35;
+  }
+
+  /* ─── Layout ─────────────────────────────────────────────── */
+  .container {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
+
+  /* ─── Header ──────────────────────────────────────────────── */
+  .header {
+    border-bottom: 1px solid var(--border);
+    padding: 3.5rem 0 2.5rem;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .header::after {
+    content: '';
+    position: absolute;
+    bottom: 0; left: 0; right: 0;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--gold), transparent);
+  }
+
+  .header-rule {
+    width: 100%;
+    height: 3px;
+    background: repeating-linear-gradient(
+      90deg,
+      var(--gold) 0px,
+      var(--gold) 40px,
+      transparent 40px,
+      transparent 44px
+    );
+    margin-bottom: 2.5rem;
+    opacity: 0.5;
+  }
+
+  .header-eyebrow {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .header-eyebrow::before,
+  .header-eyebrow::after {
+    content: '◆';
+    font-size: 0.5em;
+    opacity: 0.6;
+  }
+
+  h1 {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: clamp(2.2rem, 5vw, 4rem);
+    font-weight: 900;
+    line-height: 1.05;
+    color: var(--text);
+    letter-spacing: -0.02em;
+  }
+
+  h1 em {
+    font-style: italic;
+    color: var(--gold-bright);
+  }
+
+  .header-meta {
+    display: flex;
+    gap: 2rem;
+    margin-top: 1.5rem;
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    flex-wrap: wrap;
+  }
+
+  .header-meta span {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+
+  .header-meta .dot {
+    width: 5px; height: 5px;
+    background: var(--gold);
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  /* ─── Stats Row ───────────────────────────────────────────── */
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    margin: 3rem 0;
+    border-radius: 2px;
+  }
+
+  .stat-cell {
+    background: var(--card);
+    padding: 1.8rem 1.5rem;
+    position: relative;
+    transition: background 0.2s;
+    cursor: default;
+  }
+
+  .stat-cell:hover {
+    background: var(--card-hover);
+  }
+
+  .stat-cell::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    background: var(--accent, var(--gold));
+    opacity: 0.7;
+  }
+
+  .stat-label {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.65rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin-bottom: 0.6rem;
+  }
+
+  .stat-number {
+    font-family: 'Courier Prime', monospace;
+    font-size: 2.6rem;
+    font-weight: 700;
+    line-height: 1;
+    color: var(--accent, var(--gold-bright));
+    letter-spacing: -0.02em;
+  }
+
+  .stat-sub {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin-top: 0.4rem;
+    font-family: 'Source Serif 4', serif;
+  }
+
+  /* ─── Section titles ──────────────────────────────────────── */
+  .section {
+    margin: 3rem 0;
+  }
+
+  .section-header {
+    display: flex;
+    align-items: baseline;
+    gap: 1.2rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--border);
+  }
+
+  h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--text);
+    letter-spacing: -0.01em;
+  }
+
+  .section-tag {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.65rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--gold);
+    border: 1px solid var(--border-strong);
+    padding: 0.2em 0.6em;
+    border-radius: 1px;
+  }
+
+  /* ─── Chart cards ─────────────────────────────────────────── */
+  .chart-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 2px;
+    padding: 1.5rem;
+    position: relative;
+  }
+
+  .chart-card-title {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin-bottom: 1.2rem;
+  }
+
+  .chart-container {
+    position: relative;
+  }
+
+  /* ─── Legend toggles ──────────────────────────────────────── */
+  .legend-toggles {
+    display: flex;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.2rem;
+  }
+
+  .legend-btn {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 0.3em 0.8em;
+    border-radius: 1px;
+    border: 1px solid var(--btn-color, var(--border));
+    background: transparent;
+    color: var(--btn-color, var(--text-muted));
+    cursor: pointer;
+    transition: all 0.15s;
+    display: flex;
+    align-items: center;
+    gap: 0.4em;
+  }
+
+  .legend-btn::before {
+    content: '';
+    width: 8px; height: 8px;
+    border-radius: 1px;
+    background: var(--btn-color);
+    flex-shrink: 0;
+  }
+
+  .legend-btn.active {
+    background: var(--btn-color);
+    color: var(--bg);
+    font-weight: 700;
+  }
+
+  .legend-btn:hover:not(.active) {
+    background: rgba(255,255,255,0.05);
+  }
+
+  /* ─── Two-col layout ──────────────────────────────────────── */
+  .two-col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+  }
+
+  /* ─── Heatmap ─────────────────────────────────────────────── */
+  .heatmap-wrap {
+    overflow-x: auto;
+    padding-bottom: 0.5rem;
+  }
+
+  .heatmap {
+    display: grid;
+    grid-template-rows: auto repeat(7, 18px);
+    grid-auto-flow: column;
+    gap: 3px;
+    min-width: max-content;
+    align-items: start;
+  }
+
+  .heatmap-day-label {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.6rem;
+    color: var(--text-dim);
+    text-align: right;
+    padding-right: 6px;
+    line-height: 18px;
+  }
+
+  .heatmap-week-label {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.6rem;
+    color: var(--text-dim);
+    text-align: center;
+    height: 18px;
+    line-height: 18px;
+  }
+
+  .heatmap-cell {
+    width: 18px; height: 18px;
+    border-radius: 2px;
+    background: var(--cell-color, var(--surface));
+    border: 1px solid rgba(0,0,0,0.3);
+    cursor: pointer;
+    transition: transform 0.1s, filter 0.1s;
+    position: relative;
+  }
+
+  .heatmap-cell:hover {
+    transform: scale(1.3);
+    filter: brightness(1.4);
+    z-index: 10;
+  }
+
+  .heatmap-cell.no-data {
+    opacity: 0.15;
+    cursor: default;
+  }
+
+  .heatmap-cell.no-data:hover {
+    transform: none;
+    filter: none;
+  }
+
+  /* ─── Fun stats ───────────────────────────────────────────── */
+  .fun-stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+  }
+
+  .fun-stat-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    padding: 1.5rem;
+    border-radius: 2px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .fun-stat-card::after {
+    content: var(--icon, '');
+    position: absolute;
+    right: 1rem;
+    bottom: 0.5rem;
+    font-size: 3.5rem;
+    opacity: 0.06;
+    pointer-events: none;
+    line-height: 1;
+  }
+
+  .fun-stat-card .label {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.65rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin-bottom: 0.5rem;
+  }
+
+  .fun-stat-card .value {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--text);
+    line-height: 1.2;
+  }
+
+  .fun-stat-card .detail {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin-top: 0.4rem;
+    font-family: 'Source Serif 4', serif;
+  }
+
+  .highlight {
+    color: var(--gold-bright);
+    font-weight: 700;
+  }
+
+  /* ─── Day detail panel ────────────────────────────────────── */
+  .detail-panel {
+    position: fixed;
+    top: 0; right: 0;
+    width: 380px;
+    height: 100vh;
+    background: var(--surface);
+    border-left: 1px solid var(--border-strong);
+    z-index: 100;
+    transform: translateX(100%);
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .detail-panel.open {
+    transform: translateX(0);
+    box-shadow: -20px 0 60px rgba(0,0,0,0.6);
+  }
+
+  .detail-header {
+    padding: 1.5rem;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-shrink: 0;
+  }
+
+  .detail-date {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--gold-bright);
+  }
+
+  .detail-close {
+    background: none;
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+    width: 32px; height: 32px;
+    border-radius: 1px;
+    cursor: pointer;
+    font-size: 1.1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.15s;
+    flex-shrink: 0;
+    font-family: 'Courier Prime', monospace;
+  }
+
+  .detail-close:hover {
+    border-color: var(--gold);
+    color: var(--gold);
+  }
+
+  .detail-body {
+    padding: 1rem 1.5rem;
+    overflow-y: auto;
+    flex: 1;
+    scrollbar-width: thin;
+    scrollbar-color: var(--border) transparent;
+  }
+
+  .detail-section {
+    margin-bottom: 1.5rem;
+  }
+
+  .detail-section-title {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.65rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    padding: 0.3em 0;
+    margin-bottom: 0.6rem;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .detail-section-title .count {
+    font-weight: 700;
+    color: var(--gold);
+  }
+
+  .bill-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+  }
+
+  .bill-tag {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.72rem;
+    padding: 0.2em 0.5em;
+    border: 1px solid var(--tag-color, var(--border));
+    border-radius: 1px;
+    color: var(--tag-color, var(--text-muted));
+    background: rgba(255,255,255,0.02);
+  }
+
+  .bill-tag:hover {
+    background: rgba(255,255,255,0.06);
+  }
+
+  /* ─── Overlay ─────────────────────────────────────────────── */
+  .overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 99;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s;
+  }
+
+  .overlay.visible {
+    opacity: 1;
+    pointer-events: all;
+  }
+
+  /* ─── Table ───────────────────────────────────────────────── */
+  .data-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+  }
+
+  .data-table th {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.62rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    padding: 0.7rem 1rem;
+    text-align: left;
+    border-bottom: 1px solid var(--border);
+    white-space: nowrap;
+  }
+
+  .data-table th.num { text-align: right; }
+
+  .data-table td {
+    padding: 0.6rem 1rem;
+    border-bottom: 1px solid rgba(196, 155, 27, 0.06);
+    vertical-align: middle;
+    font-family: 'Source Serif 4', serif;
+  }
+
+  .data-table td.num {
+    text-align: right;
+    font-family: 'Courier Prime', monospace;
+    font-weight: 700;
+  }
+
+  .data-table tr {
+    cursor: pointer;
+    transition: background 0.1s;
+  }
+
+  .data-table tr:hover td {
+    background: rgba(196, 155, 27, 0.04);
+  }
+
+  .data-table .date-cell {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    white-space: nowrap;
+  }
+
+  .data-table .manual-badge {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.6rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--amber);
+    border: 1px solid var(--amber);
+    padding: 0.1em 0.4em;
+    border-radius: 1px;
+    margin-left: 0.5rem;
+    opacity: 0.8;
+  }
+
+  .num-new { color: var(--new-bills); }
+  .num-mod { color: var(--modified); }
+  .num-amd { color: var(--amendments); }
+  .num-fn { color: var(--fn-new); }
+  .num-fnu { color: var(--fn-updated); }
+
+  .spark-bar {
+    display: inline-block;
+    height: 8px;
+    min-width: 2px;
+    border-radius: 1px;
+    vertical-align: middle;
+    margin-right: 1px;
+  }
+
+  /* ─── Footer ──────────────────────────────────────────────── */
+  .footer {
+    border-top: 1px solid var(--border);
+    padding: 2rem 0;
+    margin-top: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* ─── Animations ──────────────────────────────────────────── */
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  @keyframes countUp {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  .animate-in {
+    animation: fadeUp 0.5s ease forwards;
+    opacity: 0;
+  }
+
+  .animate-in:nth-child(1) { animation-delay: 0.05s; }
+  .animate-in:nth-child(2) { animation-delay: 0.1s; }
+  .animate-in:nth-child(3) { animation-delay: 0.15s; }
+  .animate-in:nth-child(4) { animation-delay: 0.2s; }
+  .animate-in:nth-child(5) { animation-delay: 0.25s; }
+
+  /* ─── Tooltip ─────────────────────────────────────────────── */
+  .heatmap-tooltip {
+    position: fixed;
+    background: var(--card);
+    border: 1px solid var(--border-strong);
+    padding: 0.5rem 0.75rem;
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.72rem;
+    pointer-events: none;
+    z-index: 1000;
+    white-space: nowrap;
+    display: none;
+    color: var(--text);
+    box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+  }
+
+  .heatmap-tooltip .tt-date { color: var(--gold); font-weight: 700; margin-bottom: 0.2em; }
+  .heatmap-tooltip .tt-row { color: var(--text-muted); }
+  .heatmap-tooltip .tt-row span { color: var(--text); }
+
+  @media (max-width: 900px) {
+    .stats-grid { grid-template-columns: repeat(3, 1fr); }
+    .two-col { grid-template-columns: 1fr; }
+    .fun-stats { grid-template-columns: 1fr 1fr; }
+    .detail-panel { width: 100%; }
+  }
+
+  @media (max-width: 600px) {
+    .stats-grid { grid-template-columns: repeat(2, 1fr); }
+    .fun-stats { grid-template-columns: 1fr; }
+    .stat-number { font-size: 2rem; }
+  }
+</style>
+</head>
+<body>
+
+<a href="#main-content" class="skip-nav">Skip to main content</a>
+
+<!-- Heatmap tooltip — aria-hidden, mouse-only affordance -->
+<div class="heatmap-tooltip" id="hmTooltip" role="tooltip" aria-hidden="true">
+  <div class="tt-date" id="ttDate"></div>
+  <div class="tt-row">New Bills: <span id="ttNew"></span></div>
+  <div class="tt-row">Modified: <span id="ttMod"></span></div>
+  <div class="tt-row">Amendments: <span id="ttAmd"></span></div>
+  <div class="tt-row">Fiscal Notes: <span id="ttFn"></span></div>
+</div>
+
+<!-- Overlay -->
+<div class="overlay" id="overlay" onclick="closePanel()" aria-hidden="true"></div>
+
+<!-- Day detail panel -->
+<aside
+  class="detail-panel"
+  id="detailPanel"
+  role="dialog"
+  aria-modal="true"
+  aria-labelledby="dpDate"
+  aria-hidden="true"
+>
+  <div class="detail-header">
+    <div>
+      <div class="detail-date" id="dpDate">—</div>
+      <div style="font-family:'Courier Prime',monospace;font-size:0.7rem;color:var(--text-muted);margin-top:0.2rem;" id="dpLabel"></div>
+    </div>
+    <button class="detail-close" onclick="closePanel()" aria-label="Close day detail panel">✕</button>
+  </div>
+  <div class="detail-body" id="dpBody" tabindex="-1"></div>
+</aside>
+
+<main id="main-content" tabindex="-1">
+<div class="container">
+
+  <!-- Header -->
+  <header class="header animate-in" style="animation-delay:0s;opacity:0">
+    <div class="header-rule"></div>
+    <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:2rem;">
+      <div style="flex:1">
+        <div class="header-eyebrow">Maryland General Assembly · 2026 Regular Session · Pipeline Analytics</div>
+        <h1>The <em>Full Session</em><br>By the Numbers</h1>
+      </div>
+      <a href="https://innovation.maryland.gov" target="_blank" rel="noopener"
+         style="flex-shrink:0;display:flex;align-items:center;gap:0.6rem;
+                margin-top:0.25rem;text-decoration:none;opacity:0.9;transition:opacity 0.15s;"
+         onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.9'"
+      >
+        <span style="font-family:'Courier Prime',monospace;font-size:0.65rem;letter-spacing:0.15em;
+                     text-transform:uppercase;color:var(--text-muted)">Built by</span>
+        <img src="assets/innovation-website-logo-light.png"
+             alt="The Office of Governor Wes Moore Innovation Team"
+             style="height:2.2rem;width:auto;">
+        <span class="usa-sr-only">(opens in new tab)</span>
+      </a>
+    </div>
+    <div class="header-meta">
+      <span><span class="dot"></span> 61 pipeline runs</span>
+      <span><span class="dot"></span> 90 day span</span>
+      <span><span class="dot"></span> 2026-02-03 — 2026-04-13</span>
+      <span><span class="dot"></span> Sine Die: April 13, 2026</span>
+    </div>
+  </header>
+
+  <!-- Stats row -->
+  <div class="stats-grid" role="region" aria-label="Session summary statistics">
+    <div class="stat-cell animate-in" style="--accent:var(--new-bills)">
+      <div class="stat-label">Total Session Bills</div>
+      <div class="stat-number" data-count="1890">0</div>
+      <div class="stat-sub">914 before pipeline · 855 tracked</div>
+    </div>
+    <div class="stat-cell animate-in" style="--accent:var(--modified)">
+      <div class="stat-label">Bill Updates</div>
+      <div class="stat-number" data-count="904">0</div>
+      <div class="stat-sub">text changes via pipeline</div>
+    </div>
+    <div class="stat-cell animate-in" style="--accent:var(--amendments)">
+      <div class="stat-label">Amendments</div>
+      <div class="stat-number" data-count="338">0</div>
+      <div class="stat-sub">amendment documents filed</div>
+    </div>
+    <div class="stat-cell animate-in" style="--accent:var(--fn-new)">
+      <div class="stat-label">New Fiscal Notes</div>
+      <div class="stat-number" data-count="782">0</div>
+      <div class="stat-sub">fiscal analyses filed</div>
+    </div>
+    <div class="stat-cell animate-in" style="--accent:var(--fn-updated)">
+      <div class="stat-label">FN Updates</div>
+      <div class="stat-number" data-count="742">0</div>
+      <div class="stat-sub">fiscal notes revised</div>
+    </div>
+  </div>
+
+  <!-- Main daily chart -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Daily Legislative Activity</h2>
+      <span class="section-tag">Click any bar for details</span>
+    </div>
+    <div class="chart-card">
+      <div class="legend-toggles" id="mainLegend">
+        <button class="legend-btn active" style="--btn-color:var(--new-bills)" data-series="0">New Bills</button>
+        <button class="legend-btn active" style="--btn-color:var(--modified)" data-series="1">Modified</button>
+        <button class="legend-btn active" style="--btn-color:var(--amendments)" data-series="2">Amendments</button>
+        <button class="legend-btn active" style="--btn-color:var(--fn-new)" data-series="3">New FNs</button>
+        <button class="legend-btn active" style="--btn-color:var(--fn-updated)" data-series="4">Updated FNs</button>
+      </div>
+      <div class="chart-container" style="height:340px">
+        <canvas id="dailyChart"
+          role="img"
+          aria-label="Stacked bar chart of daily legislative activity: new bills, modifications, amendments, and fiscal notes from February to April 2026. Click any bar to see bill details for that day."
+        ></canvas>
+      </div>
+    </div>
+  </div>
+
+  <!-- Heatmap + cumulative -->
+  <div class="two-col section">
+    <div>
+      <div class="section-header">
+        <h2>Activity Heatmap</h2>
+        <span class="section-tag">Total events per day</span>
+      </div>
+      <div class="chart-card">
+        <div class="legend-toggles" style="margin-bottom:1rem;">
+          <span style="font-family:'Courier Prime',monospace;font-size:0.65rem;color:var(--text-muted);letter-spacing:0.1em;">LESS</span>
+          <span style="display:inline-flex;gap:3px;margin:0 0.5rem;align-items:center;">
+            <span style="width:14px;height:14px;background:#1c2130;border-radius:2px;display:inline-block;border:1px solid rgba(0,0,0,0.3)"></span>
+            <span style="width:14px;height:14px;background:#2a3820;border-radius:2px;display:inline-block;border:1px solid rgba(0,0,0,0.3)"></span>
+            <span style="width:14px;height:14px;background:#3a5c28;border-radius:2px;display:inline-block;border:1px solid rgba(0,0,0,0.3)"></span>
+            <span style="width:14px;height:14px;background:#5a8c30;border-radius:2px;display:inline-block;border:1px solid rgba(0,0,0,0.3)"></span>
+            <span style="width:14px;height:14px;background:#c49b1b;border-radius:2px;display:inline-block;border:1px solid rgba(0,0,0,0.3)"></span>
+          </span>
+          <span style="font-family:'Courier Prime',monospace;font-size:0.65rem;color:var(--text-muted);letter-spacing:0.1em;">MORE</span>
+        </div>
+        <div class="heatmap-wrap">
+          <div class="heatmap" id="heatmap"></div>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <div class="section-header">
+        <h2>Cumulative Growth</h2>
+        <span class="section-tag">Running totals</span>
+      </div>
+      <div class="chart-card">
+        <div class="chart-container" style="height:260px">
+          <canvas id="cumulativeChart"
+            role="img"
+            aria-label="Line chart showing cumulative growth of bills, amendments, and fiscal notes over the 2026 session. Bills start from the pre-pipeline baseline of 914 on January 14."
+          ></canvas>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Fun stats -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Session Highlights</h2>
+      <span class="section-tag">Notable moments</span>
+    </div>
+    <div class="fun-stats">
+      <div class="fun-stat-card" style="--icon:'🔥'">
+        <div class="label">Busiest Single Day</div>
+        <div class="value">March 21</div>
+        <div class="detail"><span class="highlight">324</span> total events — 0 new · 113 modified · 73 amendments</div>
+      </div>
+      <div class="fun-stat-card" style="--icon:'📋'">
+        <div class="label">Most New Bills in a Day</div>
+        <div class="value">February 12</div>
+        <div class="detail"><span class="highlight">248</span> new bills introduced</div>
+      </div>
+      <div class="fun-stat-card" style="--icon:'✏️'">
+        <div class="label">Peak Amendment Day</div>
+        <div class="value">March 21</div>
+        <div class="detail"><span class="highlight">73</span> amendment documents filed in one day</div>
+      </div>
+      <div class="fun-stat-card" style="--icon:'⚡'">
+        <div class="label">Sine Die Sprint</div>
+        <div class="value">60% of amendments</div>
+        <div class="detail">…filed in the final 2 weeks of session as session end neared. Fiscal note activity: <span class="highlight">18%</span> in the same window.</div>
+      </div>
+      <div class="fun-stat-card" style="--icon:'📅'">
+        <div class="label">First Pipeline Run</div>
+        <div class="value">February 3</div>
+        <div class="detail">First bill tracked: <span class="highlight">HB0744</span></div>
+      </div>
+      <div class="fun-stat-card" style="--icon:'🏁'">
+        <div class="label">Last Day of Session</div>
+        <div class="value">April 13, 2026</div>
+        <div class="detail">Sine Die — <span class="highlight">1890</span> bills introduced, <span class="highlight">338</span> amendments filed across the session</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bill superlatives -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Bill Superlatives</h2>
+      <span class="section-tag">Across the full session</span>
+    </div>
+    <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;">
+
+      <div class="chart-card">
+        <div class="chart-card-title" style="color:var(--amendments)">Most Amended Bill</div>
+        <div style="font-size:0.78rem;color:var(--text-muted);margin-bottom:0.8rem;font-style:italic">Total amendment documents filed</div>
+        <div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>🥇&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0841?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--amendments);text-decoration:none;border-bottom:1px dotted var(--amendments)" onclick="event.stopPropagation()">SB0841</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--amendments)">7</span></div><div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>🥈&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1367?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--amendments);text-decoration:none;border-bottom:1px dotted var(--amendments)" onclick="event.stopPropagation()">HB1367</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--amendments)">4</span></div><div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>🥉&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1118?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--amendments);text-decoration:none;border-bottom:1px dotted var(--amendments)" onclick="event.stopPropagation()">HB1118</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--amendments)">4</span></div><div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>4th&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1557?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--amendments);text-decoration:none;border-bottom:1px dotted var(--amendments)" onclick="event.stopPropagation()">HB1557</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--amendments)">4</span></div><div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>5th&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0351?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--amendments);text-decoration:none;border-bottom:1px dotted var(--amendments)" onclick="event.stopPropagation()">HB0351</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--amendments)">3</span></div>
+      </div>
+
+      <div class="chart-card">
+        <div class="chart-card-title" style="color:var(--fn-updated)">Most Fiscal Note Updates</div>
+        <div style="font-size:0.78rem;color:var(--text-muted);margin-bottom:0.8rem;font-style:italic">Times the fiscal note was revised</div>
+        <div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>🥇&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0569?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--fn-updated);text-decoration:none;border-bottom:1px dotted var(--fn-updated)" onclick="event.stopPropagation()">HB0569</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--fn-updated)">3</span></div><div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>🥈&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0561?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--fn-updated);text-decoration:none;border-bottom:1px dotted var(--fn-updated)" onclick="event.stopPropagation()">HB0561</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--fn-updated)">3</span></div><div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>🥉&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0266?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--fn-updated);text-decoration:none;border-bottom:1px dotted var(--fn-updated)" onclick="event.stopPropagation()">HB0266</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--fn-updated)">2</span></div><div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>4th&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0329?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--fn-updated);text-decoration:none;border-bottom:1px dotted var(--fn-updated)" onclick="event.stopPropagation()">HB0329</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--fn-updated)">2</span></div><div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>5th&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0721?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--fn-updated);text-decoration:none;border-bottom:1px dotted var(--fn-updated)" onclick="event.stopPropagation()">HB0721</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--fn-updated)">2</span></div>
+      </div>
+
+      <div class="chart-card">
+        <div class="chart-card-title" style="color:var(--gold)">Most Active Overall</div>
+        <div style="font-size:0.78rem;color:var(--text-muted);margin-bottom:0.8rem;font-style:italic">Modifications + amendments + FN updates</div>
+        <div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>🥇&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0841?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--gold-bright);text-decoration:none;border-bottom:1px dotted var(--gold-bright)" onclick="event.stopPropagation()">SB0841</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--gold-bright)">9</span></div><div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>🥈&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1367?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--gold-bright);text-decoration:none;border-bottom:1px dotted var(--gold-bright)" onclick="event.stopPropagation()">HB1367</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--gold-bright)">7</span></div><div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>🥉&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1219?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--gold-bright);text-decoration:none;border-bottom:1px dotted var(--gold-bright)" onclick="event.stopPropagation()">HB1219</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--gold-bright)">6</span></div><div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>4th&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0561?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--gold-bright);text-decoration:none;border-bottom:1px dotted var(--gold-bright)" onclick="event.stopPropagation()">HB0561</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--gold-bright)">6</span></div><div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>5th&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1135?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--gold-bright);text-decoration:none;border-bottom:1px dotted var(--gold-bright)" onclick="event.stopPropagation()">HB1135</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--gold-bright)">6</span></div>
+      </div>
+
+      <div class="chart-card">
+        <div class="chart-card-title" style="color:var(--new-bills)">Longest Bills (by word count)</div>
+        <div style="font-size:0.78rem;color:var(--text-muted);margin-bottom:0.8rem;font-style:italic">Most words in the bill text</div>
+        <div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>🥇&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0390?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--new-bills);text-decoration:none;border-bottom:1px dotted var(--new-bills)" onclick="event.stopPropagation()">HB0390</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--new-bills)">52,624 words</span></div><div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>🥈&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0841?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--new-bills);text-decoration:none;border-bottom:1px dotted var(--new-bills)" onclick="event.stopPropagation()">SB0841</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--new-bills)">45,343 words</span></div><div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>🥉&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1548?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--new-bills);text-decoration:none;border-bottom:1px dotted var(--new-bills)" onclick="event.stopPropagation()">HB1548</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--new-bills)">37,919 words</span></div><div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>4th&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1532?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--new-bills);text-decoration:none;border-bottom:1px dotted var(--new-bills)" onclick="event.stopPropagation()">HB1532</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--new-bills)">34,681 words</span></div><div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>5th&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0420?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--new-bills);text-decoration:none;border-bottom:1px dotted var(--new-bills)" onclick="event.stopPropagation()">HB0420</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--new-bills)">31,557 words</span></div>
+      </div>
+
+      <div class="chart-card">
+        <div class="chart-card-title" style="color:var(--green-bright)">Shortest Bills (by word count)</div>
+        <div style="font-size:0.78rem;color:var(--text-muted);margin-bottom:0.8rem;font-style:italic">Most concise bill texts</div>
+        <div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>🥇&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0733?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--green-bright);text-decoration:none;border-bottom:1px dotted var(--green-bright)" onclick="event.stopPropagation()">HB0733</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--green-bright)">186 words</span></div><div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>🥈&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0362?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--green-bright);text-decoration:none;border-bottom:1px dotted var(--green-bright)" onclick="event.stopPropagation()">HB0362</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--green-bright)">206 words</span></div><div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>🥉&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0384?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--green-bright);text-decoration:none;border-bottom:1px dotted var(--green-bright)" onclick="event.stopPropagation()">HB0384</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--green-bright)">212 words</span></div><div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>4th&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0527?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--green-bright);text-decoration:none;border-bottom:1px dotted var(--green-bright)" onclick="event.stopPropagation()">HB0527</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--green-bright)">224 words</span></div><div style="display:flex;justify-content:space-between;align-items:center;padding:0.45rem 0;border-bottom:1px solid rgba(255,255,255,0.04)"><span>5th&nbsp; <a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0383?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:0.85rem;color:var(--green-bright);text-decoration:none;border-bottom:1px dotted var(--green-bright)" onclick="event.stopPropagation()">HB0383</a></span><span style="font-family:'Courier Prime',monospace;font-weight:700;color:var(--green-bright)">227 words</span></div>
+      </div>
+
+    </div>
+    <div class="chart-card" style="margin-top:1rem"><div class="chart-card-title" style="color:var(--gold)">Longest Active Bill</div><div style="display:flex;align-items:baseline;gap:1.5rem;flex-wrap:wrap"><div><a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0768?ys=2026rs" target="_blank" rel="noopener" style="font-family:'Courier Prime',monospace;font-size:1.8rem;font-weight:700;color:var(--gold-bright);text-decoration:none;border-bottom:2px solid var(--gold)">HB0768</a></div><div style="font-size:0.9rem;color:var(--text-muted)">First seen <span style="color:var(--text)">Feb 3</span> &middot; Last touched <span style="color:var(--text)">Apr 13</span> &middot; <span style="color:var(--gold-bright);font-weight:700">69 days</span> active</div></div></div>
+  </div>
+
+  <!-- Day-by-day table -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Day-by-Day Breakdown</h2>
+      <span class="section-tag">Click any row for bill details</span>
+    </div>
+    <div class="chart-card" style="padding:0">
+      <table class="data-table" id="dataTable">
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Activity</th>
+            <th class="num" style="color:var(--new-bills)">New Bills</th>
+            <th class="num" style="color:var(--modified)">Modified</th>
+            <th class="num" style="color:var(--amendments)">Amendments</th>
+            <th class="num" style="color:var(--fn-new)">New FNs</th>
+            <th class="num" style="color:var(--fn-updated)">Upd. FNs</th>
+          </tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <footer class="footer" role="contentinfo">
+    <div style="position:relative;overflow:hidden;padding:1rem 1.25rem;
+                border:1px solid var(--border);background:var(--card);border-radius:2px;
+                min-width:260px;">
+      <img src="assets/logomark.svg" alt="" aria-hidden="true"
+           style="position:absolute;top:50%;right:-20%;width:100%;
+                  transform:translateY(-50%);opacity:0.07;
+                  filter:invert(1) sepia(1) saturate(3) hue-rotate(5deg);
+                  pointer-events:none;">
+      <div style="position:relative">
+        <p style="font-family:'Courier Prime',monospace;font-size:0.6rem;letter-spacing:0.2em;
+                  text-transform:uppercase;color:var(--text-muted);margin:0 0 0.3rem;">Built by</p>
+        <p style="font-family:'Playfair Display',serif;font-size:0.95rem;font-weight:700;
+                  color:var(--text);margin:0 0 0.6rem;line-height:1.2;">
+          The Maryland State<br>Innovation Team
+        </p>
+        <a href="https://innovation.maryland.gov" target="_blank" rel="noopener"
+           style="font-family:'Courier Prime',monospace;font-size:0.65rem;letter-spacing:0.1em;
+                  text-transform:uppercase;color:var(--gold);text-decoration:none;
+                  border-bottom:1px solid var(--border-strong);padding-bottom:1px;
+                  transition:color 0.15s,border-color 0.15s;"
+           onmouseover="this.style.color='var(--gold-bright)';this.style.borderColor='var(--gold-bright)'"
+           onmouseout="this.style.color='var(--gold)';this.style.borderColor='var(--border-strong)'"
+        >Visit website <span aria-hidden="true">→</span><span class="usa-sr-only"> of the Maryland State Innovation Team (opens in new tab)</span></a>
+      </div>
+    </div>
+  </footer>
+
+</div><!-- /container -->
+</main>
+
+<script>
+const DATA = [{"date": "2026-02-03", "label": "Automated pipeline update 2026-02-04", "is_manual": false, "hash": "159c47de", "new_bills": ["HB0744", "HB0745", "HB0746", "HB0747", "HB0748", "HB0749", "HB0750", "HB0751", "HB0752", "HB0753", "HB0754", "HB0755", "HB0756", "HB0757", "HB0758", "HB0759", "HB0760", "HB0761", "HB0762", "HB0763", "HB0764", "HB0765", "HB0766", "HB0767", "HB0768", "HB0769", "HB0770", "HB0771", "HB0772", "HB0773", "HB0774", "HB0775", "HB0776", "HB0778", "HB0779", "HB0780", "HB0781", "HB0782", "HB0783", "HB0784", "HB0785", "HB0850", "HB0851", "HB0852"], "modified_bills": [], "new_bills_count": 44, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": [], "updated_fiscal_notes": [], "new_fiscal_notes_count": 0, "updated_fiscal_notes_count": 0}, {"date": "2026-02-08", "label": "Automated pipeline update 2026-02-09", "is_manual": false, "hash": "de5c2f84", "new_bills": [], "modified_bills": [], "new_bills_count": 0, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": [], "updated_fiscal_notes": [], "new_fiscal_notes_count": 0, "updated_fiscal_notes_count": 0}, {"date": "2026-02-09", "label": "Automated pipeline update 2026-02-10", "is_manual": false, "hash": "1c013b50", "new_bills": ["SB0649"], "modified_bills": [], "new_bills_count": 1, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB0071", "HB0077", "HB0331", "HB0340", "HB0396", "HB0438", "HB0466", "HB0472", "HB0499", "HB0555", "HB0569", "HB0572", "HB0619", "HB0637", "HB0659", "HB0687", "HB0700", "HB0862", "HB0929", "HB0965", "HB0975", "SB0073", "SB0144", "SB0362", "SB0365", "SB0454", "SB0465"], "updated_fiscal_notes": ["HB0444"], "new_fiscal_notes_count": 27, "updated_fiscal_notes_count": 1}, {"date": "2026-02-10", "label": "Automated pipeline update 2026-02-11", "is_manual": false, "hash": "17777b43", "new_bills": ["HB1019", "HB1020", "HB1021", "HB1022", "HB1023", "HB1024", "HB1025", "HB1026", "HB1027", "HB1028", "HB1029", "HB1030", "HB1031", "HB1032", "HB1033", "HB1034", "HB1035", "HB1036", "HB1037", "HB1038", "HB1039", "HB1040", "HB1041", "HB1042", "HB1043", "HB1044", "HB1045", "HB1046", "HB1047", "HB1048", "HB1049", "HB1050", "HB1051", "HB1052", "HB1053", "HB1054", "HB1055", "HB1056", "HB1057", "HB1058", "HB1059", "HB1060", "HB1061", "HB1062", "HB1063", "HB1064", "HB1065", "HB1066", "HB1067", "HB1068", "HB1069", "HB1070", "HB1071", "HB1072", "HB1073", "HB1074", "HB1075", "HB1076", "HB1077", "HB1078", "HB1079", "HB1080", "HB1081", "HB1082", "HB1083", "HB1084", "HB1085", "HB1086", "HB1087", "HB1088", "HB1089", "HB1090", "SB0723", "SB0724", "SB0728", "SB0732", "SB0733", "SB0736", "SB0739", "SB0742", "SB0757", "SB0762", "SB0763", "SB0773", "SB0774", "SB0775", "SB0776", "SB0777", "SB0778", "SB0779", "SB0780", "SB0781", "SB0782", "SB0784", "SB0785", "SB0786", "SB0787", "SB0788", "SB0789", "SB0790", "SB0791", "SB0792", "SB0793", "SB0794", "SB0795", "SB0796", "SB0797", "SB0798", "SB0799", "SB0800", "SB0801", "SB0802", "SB0803", "SB0804", "SB0805", "SB0806", "SB0807", "SB0808", "SB0809", "SB0810", "SB0812", "SB0813", "SB0814", "SB0815", "SB0816", "SB0817", "SB0818", "SB0819", "SB0820", "SB0821", "SB0823", "SB0824", "SB0825", "SB0826", "SB0827", "SB0829", "SB0830", "SB0831", "SB0832", "SB0834", "SB0836", "SB0837", "SB0838", "SB0839", "SB0840", "SB0841", "SB0843", "SB0844", "SB0845", "SB0846", "SB0848", "SB0849", "SB0850", "SB0853", "SB0854", "SB0856", "SB0857", "SB0858", "SB0859", "SB0888", "SB0890", "SB0943", "SB0954"], "modified_bills": ["HB0003", "HB0020", "HB0060", "HB0273", "HB0275", "HB0277", "SB0021", "SB0083", "SB0096", "SB0161", "SB0167", "SB0199"], "new_bills_count": 163, "modified_bills_count": 12, "amendment_docs_count": 1, "amendment_docs_by_bill": {"HB0226": 1}, "amended_bills": ["HB0226"], "amended_bills_count": 1, "new_fiscal_notes": ["HB0448", "HB0469", "HB0504", "HB0613"], "updated_fiscal_notes": [], "new_fiscal_notes_count": 4, "updated_fiscal_notes_count": 0}, {"date": "2026-02-11", "label": "Automated pipeline update 2026-02-12", "is_manual": false, "hash": "1392f6a2", "new_bills": ["HB1107", "HB1108", "HB1109", "HB1110", "HB1111", "HB1112", "HB1113", "HB1114", "HB1121", "HB1122", "HB1123", "HB1128", "SB0729", "SB0737", "SB0738", "SB0741", "SB0743", "SB0746", "SB0749", "SB0751", "SB0752", "SB0754", "SB0755", "SB0761", "SB0768", "SB0769", "SB0770", "SB0771", "SB0852", "SB0862", "SB0865", "SB0867", "SB0869", "SB0871", "SB0872", "SB0873", "SB0875", "SB0876", "SB0877", "SB0879", "SB0880", "SB0882", "SB0884", "SB0885", "SB0887", "SB0889", "SB0894", "SB0896", "SB0898", "SB0899", "SB0903", "SB0904", "SB0905", "SB0906", "SB0907", "SB0909", "SB0911", "SB0912", "SB0913", "SB0914", "SB0917", "SB0919", "SB0921", "SB0923", "SB0926", "SB0927", "SB0929", "SB0930", "SB0932", "SB0933", "SB0937", "SB0938", "SB0944", "SB0946", "SB0948", "SB0952"], "modified_bills": [], "new_bills_count": 76, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB0373", "HB0498", "HB0599", "HB0752", "HB1214", "SB0442"], "updated_fiscal_notes": [], "new_fiscal_notes_count": 6, "updated_fiscal_notes_count": 0}, {"date": "2026-02-12", "label": "Automated pipeline update 2026-02-13", "is_manual": false, "hash": "4e4854e4", "new_bills": ["HB1091", "HB1092", "HB1093", "HB1094", "HB1095", "HB1096", "HB1097", "HB1098", "HB1099", "HB1100", "HB1101", "HB1102", "HB1103", "HB1104", "HB1105", "HB1106", "HB1115", "HB1116", "HB1117", "HB1118", "HB1119", "HB1120", "HB1124", "HB1125", "HB1126", "HB1127", "HB1129", "HB1130", "HB1131", "HB1132", "HB1133", "HB1134", "HB1135", "HB1136", "HB1137", "HB1138", "HB1139", "HB1140", "HB1141", "HB1142", "HB1143", "HB1144", "HB1145", "HB1146", "HB1147", "HB1148", "HB1149", "HB1150", "HB1151", "HB1152", "HB1153", "HB1154", "HB1155", "HB1156", "HB1157", "HB1158", "HB1159", "HB1160", "HB1161", "HB1162", "HB1163", "HB1164", "HB1165", "HB1166", "HB1167", "HB1168", "HB1169", "HB1170", "HB1171", "HB1172", "HB1173", "HB1174", "HB1175", "HB1176", "HB1177", "HB1178", "HB1179", "HB1180", "HB1181", "HB1182", "HB1183", "HB1184", "HB1185", "HB1186", "HB1187", "HB1188", "HB1189", "HB1190", "HB1191", "HB1192", "HB1193", "HB1194", "HB1195", "HB1196", "HB1197", "HB1198", "HB1199", "HB1200", "HB1201", "HB1202", "HB1203", "HB1204", "HB1205", "HB1206", "HB1207", "HB1208", "HB1209", "HB1210", "HB1211", "HB1212", "HB1213", "HB1214", "HB1215", "HB1216", "HB1217", "HB1218", "HB1219", "HB1220", "HB1221", "HB1222", "HB1223", "HB1224", "HB1225", "HB1226", "HB1227", "HB1228", "HB1229", "HB1230", "HB1231", "HB1232", "HB1233", "HB1234", "HB1235", "HB1236", "HB1237", "HB1238", "HB1239", "HB1240", "HB1241", "HB1242", "HB1243", "HB1244", "HB1245", "HB1246", "HB1247", "HB1248", "HB1251", "HB1252", "HB1253", "HB1254", "HB1255", "HB1256", "HB1257", "HB1259", "HB1260", "HB1261", "HB1262", "HB1263", "HB1264", "HB1265", "HB1266", "HB1267", "HB1268", "HB1269", "HB1270", "HB1271", "HB1272", "HB1273", "HB1274", "HB1275", "HB1276", "HB1277", "HB1278", "HB1279", "HB1280", "HB1281", "HB1282", "HB1283", "HB1284", "HB1285", "HB1286", "HB1287", "HB1288", "HB1289", "HB1290", "HB1291", "HB1292", "HB1293", "HB1294", "HB1295", "HB1296", "HB1297", "HB1298", "HB1299", "HB1301", "HB1302", "HB1304", "HB1305", "HB1306", "HB1307", "HB1308", "HB1309", "HB1310", "HB1311", "HB1312", "HB1313", "HB1314", "HB1315", "HB1316", "HB1317", "HB1318", "HB1319", "HB1320", "HB1321", "HB1323", "HB1324", "HB1325", "HB1326", "HB1327", "HB1328", "HB1329", "HB1331", "HB1332", "HB1333", "HB1334", "HB1335", "HB1336", "HB1337", "HB1338", "HB1340", "HB1341", "HB1342", "HB1343", "HB1344", "HB1346", "HB1347", "HB1348", "HB1349", "HB1350", "HB1351", "HB1352", "HB1354", "HB1356", "HB1357", "SB0945", "SB0951", "SB0953", "SB0958"], "modified_bills": ["HB0028", "HB0226", "HB0229", "SB0356", "SB0379"], "new_bills_count": 248, "modified_bills_count": 5, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB0424", "HB0446", "HB0494", "HB0747"], "updated_fiscal_notes": [], "new_fiscal_notes_count": 4, "updated_fiscal_notes_count": 0}, {"date": "2026-02-13", "label": "Automated pipeline update 2026-02-14", "is_manual": false, "hash": "04541d5c", "new_bills": ["HB1249", "HB1250", "HB1258", "HB1300", "HB1303", "HB1322", "HB1330", "HB1339", "HB1345", "HB1353", "HB1355", "HB1358", "HB1359", "HB1360", "HB1361", "HB1362", "HB1363", "HB1364", "HB1365", "HB1366", "HB1367", "HB1368", "HB1369", "HB1370", "HB1371", "HB1372", "HB1373", "HB1374", "HB1375", "HB1376", "HB1377", "HB1378", "HB1379", "HB1380", "HB1381", "HB1382", "HB1383", "HB1384", "HB1385", "HB1386", "HB1387", "HB1388", "HB1389", "HB1390", "HB1391", "HB1392", "HB1393", "HB1394", "HB1395", "HB1396", "HB1397", "HB1398", "HB1399", "HB1400", "HB1401", "HB1402", "HB1403", "HB1404", "HB1405", "HB1406", "HB1407", "HB1408", "HB1409", "HB1410", "HB1411", "HB1412", "HB1413", "HB1414", "HB1415", "HB1416", "HB1417", "HB1418", "HB1419", "HB1420", "HB1421", "HB1422", "HB1423", "HB1424", "HB1425", "HB1426", "HB1427", "HB1428", "HB1429", "HB1430", "HB1431", "HB1432", "HB1433", "HB1434", "HB1435", "HB1436", "HB1437", "HB1438", "HB1439", "HB1440", "HB1441", "HB1442", "HB1443", "HB1444", "HB1445", "HB1446", "HB1447", "HB1448", "HB1449", "HB1450", "HB1451", "HB1453", "HB1454", "HB1455", "HB1456", "HB1457", "HB1459", "HB1460", "HB1461", "HB1464", "HB1465", "HB1466", "HB1467", "HB1468", "HB1469", "HB1470", "HB1471", "HB1472", "HB1473", "HB1474", "HB1475", "HB1476", "HB1477", "HB1478", "HB1479", "HB1480", "HB1481", "HB1482", "HB1484", "HB1485", "HB1488", "HB1492", "HB1493", "HB1497", "HB1498", "HB1500", "HB1503", "HB1504", "HB1505", "HB1507", "HB1508", "HB1519", "HB1544"], "modified_bills": [], "new_bills_count": 147, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB0332", "HB0339", "HB0348", "HB0512", "HB0519", "HB0522", "HB0682", "HB0727", "HB0874", "HB0966", "HB1106"], "updated_fiscal_notes": ["HB0003", "HB0020", "HB0273", "HB0275", "HB0277", "SB0021", "SB0083", "SB0096"], "new_fiscal_notes_count": 11, "updated_fiscal_notes_count": 8}, {"date": "2026-02-14", "label": "Automated pipeline update 2026-02-15", "is_manual": false, "hash": "b08b0702", "new_bills": ["HB1452", "HB1458", "HB1462", "HB1463", "HB1483", "HB1486", "HB1487", "HB1489", "HB1490", "HB1491", "HB1494", "HB1495", "HB1496", "HB1499", "HB1501", "HB1502", "HB1506", "HB1509", "HB1510", "HB1511", "HB1512", "HB1513", "HB1514", "HB1515", "HB1516", "HB1517", "HB1518", "HB1520", "HB1521", "HB1522", "HB1523", "HB1524", "HB1525", "HB1527", "HB1528", "HB1529", "HB1530", "HB1531", "HB1532", "HB1533", "HB1534", "HB1535", "HB1536", "HB1537", "HB1540", "HB1541", "HB1542", "HB1543", "HB1545", "HB1546", "HB1549", "HB1550", "HB1551", "HB1552", "HB1553", "HB1554", "HB1555", "HB1556", "HB1557", "HB1558", "HB1559", "HB1560", "HB1561", "HB1562", "HB1566", "HB1568", "HB1574", "HB1575", "HB1578"], "modified_bills": [], "new_bills_count": 69, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": [], "updated_fiscal_notes": [], "new_fiscal_notes_count": 0, "updated_fiscal_notes_count": 0}, {"date": "2026-02-15", "label": "Automated pipeline update 2026-02-16", "is_manual": false, "hash": "d64d2a06", "new_bills": ["HB1526", "HB1538", "HB1539", "HB1547", "HB1548", "HB1563", "HB1564", "HB1565", "HB1567", "HB1569", "HB1570", "HB1571", "HB1572", "HB1573", "HB1576", "HB1577", "HB1579", "HB1580", "HB1581", "HB1582", "HB1583", "HB1584", "HB1585"], "modified_bills": [], "new_bills_count": 23, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": [], "updated_fiscal_notes": [], "new_fiscal_notes_count": 0, "updated_fiscal_notes_count": 0}, {"date": "2026-02-16", "label": "Automated pipeline update 2026-02-17", "is_manual": false, "hash": "df3994d4", "new_bills": [], "modified_bills": [], "new_bills_count": 0, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB0476", "HB0495", "HB0630", "HB1186"], "updated_fiscal_notes": [], "new_fiscal_notes_count": 4, "updated_fiscal_notes_count": 0}, {"date": "2026-02-17", "label": "Automated pipeline update 2026-02-18", "is_manual": false, "hash": "b7709042", "new_bills": ["HB1586"], "modified_bills": ["HB0007", "HB0042", "HB0055", "HB0164", "HB0177", "HB0272", "HB0274", "HB0278", "HB0286", "HB0330", "HB0427", "HB0432", "HB0444", "SB0037", "SB0136", "SB0154", "SB0249", "SB0261", "SB0314"], "new_bills_count": 1, "modified_bills_count": 19, "amendment_docs_count": 2, "amendment_docs_by_bill": {"HB0146": 1, "HB0220": 1}, "amended_bills": ["HB0146", "HB0220"], "amended_bills_count": 2, "new_fiscal_notes": ["HB0520", "HB0529", "HB0535", "HB0574", "HB0625", "HB0647", "HB0671", "HB0672", "HB0721", "HB0744", "HB0755", "HB0813", "HB0860", "HB0882", "HB0927", "HB1138", "HB1211"], "updated_fiscal_notes": [], "new_fiscal_notes_count": 17, "updated_fiscal_notes_count": 0}, {"date": "2026-02-18", "label": "Automated pipeline update 2026-02-19", "is_manual": false, "hash": "f286a1aa", "new_bills": ["HB1587", "HB1588", "HB1589", "HB1590", "HB1591", "HB1592", "HB1593", "HB1594", "HB1595", "HB1596", "SB0962", "SB0968", "SB0970"], "modified_bills": ["HB0146", "HB0220", "HB0236", "HB0241", "HB0242", "HB0259", "HB0308"], "new_bills_count": 13, "modified_bills_count": 7, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB0210", "HB0797", "HB0864"], "updated_fiscal_notes": ["SB0379"], "new_fiscal_notes_count": 3, "updated_fiscal_notes_count": 1}, {"date": "2026-02-19", "label": "Automated pipeline update 2026-02-20", "is_manual": false, "hash": "b67bbf50", "new_bills": ["HB1597", "HB1598", "HB1599", "HB1600", "HB1601", "HB1602", "HB1603", "SB0972", "SB0974"], "modified_bills": [], "new_bills_count": 9, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB0604", "HB0633", "HB0684", "HB0737", "HB0739", "HB0746", "HB0804", "HB0808", "HB0861", "HB0865", "HB0886", "HB0954", "HB1120", "SB0184"], "updated_fiscal_notes": [], "new_fiscal_notes_count": 14, "updated_fiscal_notes_count": 0}, {"date": "2026-02-20", "label": "Automated pipeline update 2026-02-21", "is_manual": false, "hash": "2d268b36", "new_bills": ["HB1604", "HB1605", "HB1606", "HB1607", "SB0980", "SB0982", "SB0983"], "modified_bills": ["SB0194", "SB0225"], "new_bills_count": 7, "modified_bills_count": 2, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB0085", "HB0319", "HB0325", "HB0333", "HB0342", "HB0351", "HB0402", "HB0439", "HB0449", "HB0459", "HB0485", "HB0554", "HB0623", "HB1017", "HB1018", "HB1084", "HB1183", "SB0461", "SB0480"], "updated_fiscal_notes": ["HB0007", "HB0042", "HB0055", "HB0164", "HB0177", "HB0274", "HB0286", "HB0330", "HB0427", "HB0432", "SB0154", "SB0249", "SB0261", "SB0314"], "new_fiscal_notes_count": 19, "updated_fiscal_notes_count": 14}, {"date": "2026-02-21", "label": "Automated pipeline update 2026-02-22", "is_manual": false, "hash": "875359ff", "new_bills": [], "modified_bills": [], "new_bills_count": 0, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": [], "updated_fiscal_notes": [], "new_fiscal_notes_count": 0, "updated_fiscal_notes_count": 0}, {"date": "2026-02-22", "label": "Automated pipeline update 2026-02-23", "is_manual": false, "hash": "4a240df8", "new_bills": [], "modified_bills": [], "new_bills_count": 0, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": [], "updated_fiscal_notes": [], "new_fiscal_notes_count": 0, "updated_fiscal_notes_count": 0}, {"date": "2026-02-23", "label": "Automated pipeline update 2026-02-24", "is_manual": false, "hash": "d1d73d27", "new_bills": [], "modified_bills": [], "new_bills_count": 0, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB0129", "HB0723", "HB0894", "HB0981"], "updated_fiscal_notes": [], "new_fiscal_notes_count": 4, "updated_fiscal_notes_count": 0}, {"date": "2026-02-24", "label": "Automated pipeline update 2026-02-25", "is_manual": false, "hash": "6edaf8a5", "new_bills": ["HB1608", "HB1609", "HB1610", "HB1611", "HB1612", "HB1613", "SB0987"], "modified_bills": ["HB0006", "HB0030", "HB0035", "HB0095", "HB0102", "HB0174", "HB0192", "HB0227", "HB0232", "HB0260", "HB0261", "HB0263", "HB0276", "HB0284", "HB0319", "HB0322", "HB0325", "HB0333", "HB0342", "HB0372", "HB0373", "HB0380", "HB0387", "HB0393", "HB0404", "HB0422", "HB0439", "HB0442", "HB0445", "HB0452", "HB0494", "HB0498", "HB0529", "HB0535", "HB0554", "HB0593", "HB0599", "HB0623", "HB0672", "HB0747", "HB0813", "HB0882", "HB1084", "SB0068", "SB0184", "SB0461", "SB0480"], "new_bills_count": 7, "modified_bills_count": 47, "amendment_docs_count": 5, "amendment_docs_by_bill": {"HB0154": 1, "HB0351": 2, "HB1017": 1, "HB1018": 1}, "amended_bills": ["HB0154", "HB0351", "HB1017", "HB1018"], "amended_bills_count": 4, "new_fiscal_notes": ["HB1038", "HB1045", "SB0737"], "updated_fiscal_notes": [], "new_fiscal_notes_count": 3, "updated_fiscal_notes_count": 0}, {"date": "2026-02-25", "label": "Automated pipeline update 2026-02-26", "is_manual": false, "hash": "17bad069", "new_bills": ["HB1614", "HB1615", "HB1616", "HB1617"], "modified_bills": ["HB0017", "HB0038", "HB0053", "HB0085", "HB0118", "HB0135", "HB0154", "HB0351", "HB0431", "HB0485", "HB0487", "HB1017", "HB1018"], "new_bills_count": 4, "modified_bills_count": 13, "amendment_docs_count": 1, "amendment_docs_by_bill": {"HB1341": 1}, "amended_bills": ["HB1341"], "amended_bills_count": 1, "new_fiscal_notes": ["HB0605", "HB0897", "HB1341"], "updated_fiscal_notes": [], "new_fiscal_notes_count": 3, "updated_fiscal_notes_count": 0}, {"date": "2026-02-26", "label": "Automated pipeline update 2026-02-27", "is_manual": false, "hash": "ad74b182", "new_bills": ["HB1618", "HB1619"], "modified_bills": ["HB1341"], "new_bills_count": 2, "modified_bills_count": 1, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB0004", "HB0125", "HB0773", "HB0811", "HB0917", "HB0931", "HB0945", "HB0949", "HB0958", "HB0969", "HB0984", "HB0988", "HB0992", "HB1068", "HB1093", "HB1112", "HB1432", "HB1491"], "updated_fiscal_notes": [], "new_fiscal_notes_count": 18, "updated_fiscal_notes_count": 0}, {"date": "2026-02-27", "label": "Automated pipeline update 2026-02-28", "is_manual": false, "hash": "54ca99bb", "new_bills": ["HB1620", "HB1621", "HB1622", "HB1623", "SB0992"], "modified_bills": [], "new_bills_count": 5, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB0235", "HB0240", "HB0381", "HB0451", "HB0474", "HB0531", "HB0536", "HB0557", "HB0564", "HB0601", "HB0621", "HB0648", "HB0821", "HB0855", "HB0899", "HB0911", "HB1025", "HB1030", "HB1579", "SB0013", "SB0414", "SB0533", "SB0636", "SB0776", "SB0927"], "updated_fiscal_notes": ["HB0053", "HB0118", "HB0135", "HB0174", "HB0192", "HB0227", "HB0232", "HB0260", "HB0261", "HB0263", "HB0333", "HB0372", "HB0373", "HB0380", "HB0393", "HB0404", "HB0452", "HB0485", "HB0487", "HB0494", "HB0498", "HB0529", "HB0535", "HB0554", "HB0593", "HB0599", "HB0623", "HB0882", "SB0184", "SB0461", "SB0480"], "new_fiscal_notes_count": 25, "updated_fiscal_notes_count": 31}, {"date": "2026-02-28", "label": "Automated pipeline update 2026-03-01", "is_manual": false, "hash": "89ff2c2a", "new_bills": [], "modified_bills": [], "new_bills_count": 0, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": [], "updated_fiscal_notes": [], "new_fiscal_notes_count": 0, "updated_fiscal_notes_count": 0}, {"date": "2026-03-01", "label": "Automated pipeline update 2026-03-02", "is_manual": false, "hash": "c22fe93c", "new_bills": [], "modified_bills": [], "new_bills_count": 0, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB1147"], "updated_fiscal_notes": [], "new_fiscal_notes_count": 1, "updated_fiscal_notes_count": 0}, {"date": "2026-03-02", "label": "Automated pipeline update 2026-03-03", "is_manual": false, "hash": "2d78a959", "new_bills": [], "modified_bills": [], "new_bills_count": 0, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB1022", "HB1242", "HB1317", "SB0116"], "updated_fiscal_notes": [], "new_fiscal_notes_count": 4, "updated_fiscal_notes_count": 0}, {"date": "2026-03-03", "label": "Automated pipeline update 2026-03-04", "is_manual": false, "hash": "565d499a", "new_bills": ["HB1624", "SB0994"], "modified_bills": ["HB0107", "HB0182", "HB0210", "HB0218", "HB0225", "HB0228", "HB0246", "HB0252", "HB0255", "HB0270", "HB0280", "HB0300", "HB0301", "HB0340", "HB0364", "HB0395", "HB0417", "HB0451", "HB0474", "HB0477", "HB0486", "HB0491", "HB0533", "HB0553", "HB0564", "HB0601", "HB0619", "HB0621", "HB0625", "HB0648", "HB0677", "HB0821", "HB0855", "HB0899", "HB0911", "HB1030", "SB0013", "SB0150", "SB0351", "SB0414", "SB0442", "SB0533", "SB0636", "SB0927"], "new_bills_count": 2, "modified_bills_count": 44, "amendment_docs_count": 4, "amendment_docs_by_bill": {"HB0262": 1, "HB0386": 1, "HB0536": 1, "SB0776": 1}, "amended_bills": ["HB0262", "HB0386", "HB0536", "SB0776"], "amended_bills_count": 4, "new_fiscal_notes": ["HB0311", "HB0415", "HB0430", "HB0622", "HB0735", "HB0805", "HB0851", "HB0968", "HB1029", "HB1098", "HB1100", "HB1137", "HB1166", "HB1180", "HB1208", "HB1218", "HB1221", "HB1282", "HB1303", "HB1351", "HB1519", "HB1533", "SB0696", "SB0784"], "updated_fiscal_notes": [], "new_fiscal_notes_count": 24, "updated_fiscal_notes_count": 0}, {"date": "2026-03-04", "label": "Automated pipeline update 2026-03-05", "is_manual": false, "hash": "5d7471b9", "new_bills": ["HB1625", "HB1626", "HB1627", "SB0995"], "modified_bills": ["HB0080", "HB0153", "HB0200", "HB0235", "HB0240", "HB0262", "HB0386", "HB0536", "HB0557", "HB0643", "HB1025", "SB0776"], "new_bills_count": 4, "modified_bills_count": 12, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB0624", "HB0634", "HB0635", "HB0636", "HB0638", "HB0639", "HB0642", "HB0644", "HB0713", "HB1036", "HB1207", "SB0587"], "updated_fiscal_notes": [], "new_fiscal_notes_count": 12, "updated_fiscal_notes_count": 0}, {"date": "2026-03-05", "label": "Automated pipeline update 2026-03-06", "is_manual": false, "hash": "b850fff9", "new_bills": ["HB1628"], "modified_bills": ["HB0311", "HB0359", "HB0396", "HB0430", "HB0735", "HB0805", "HB0851"], "new_bills_count": 1, "modified_bills_count": 7, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB0980", "HB1175"], "updated_fiscal_notes": ["HB0218", "HB0225", "HB0228", "HB0252", "HB0270", "HB0280", "HB0300", "HB0340", "HB0477", "HB0491", "HB0533", "HB0553", "HB0601", "HB0619", "HB0621", "HB0625", "HB0648", "HB0677", "HB0821", "HB0855", "HB1030"], "new_fiscal_notes_count": 2, "updated_fiscal_notes_count": 21}, {"date": "2026-03-06", "label": "Automated pipeline update 2026-03-07", "is_manual": false, "hash": "2518a502", "new_bills": ["HB1629", "HB1630", "HB1631", "SB0997", "SB0998", "SB0999"], "modified_bills": ["SB0328", "SB0587"], "new_bills_count": 6, "modified_bills_count": 2, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB0253", "HB0306", "HB0321", "HB0357", "HB0413", "HB0426", "HB0428", "HB0429", "HB0437", "HB0457", "HB0561", "HB0578", "HB0640", "HB0663", "HB0691", "HB0720", "HB0748", "HB0753", "HB0784", "HB0798", "HB0809", "HB0822", "HB0848", "HB0850", "HB0866", "HB0872", "HB0875", "HB0934", "HB0951", "HB0996", "HB1012", "HB1026", "HB1096", "HB1169", "HB1263", "HB1268", "HB1270", "HB1287", "HB1312", "HB1364", "HB1509", "HB1524", "HB1546", "HB1562", "SB0057", "SB0215", "SB0390", "SB0606", "SB0741", "SB0775", "SB0819", "SB0917"], "updated_fiscal_notes": ["HB0240", "HB0557", "HB0643", "HB1025", "SB0013", "SB0150", "SB0414", "SB0442", "SB0533", "SB0636", "SB0927"], "new_fiscal_notes_count": 52, "updated_fiscal_notes_count": 11}, {"date": "2026-03-07", "label": "Automated pipeline update 2026-03-08", "is_manual": false, "hash": "eb728d9e", "new_bills": ["SB1000"], "modified_bills": [], "new_bills_count": 1, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": [], "updated_fiscal_notes": [], "new_fiscal_notes_count": 0, "updated_fiscal_notes_count": 0}, {"date": "2026-03-08", "label": "Automated pipeline update 2026-03-09", "is_manual": false, "hash": "300861c9", "new_bills": [], "modified_bills": [], "new_bills_count": 0, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": [], "updated_fiscal_notes": [], "new_fiscal_notes_count": 0, "updated_fiscal_notes_count": 0}, {"date": "2026-03-09", "label": "Automated pipeline update 2026-03-10", "is_manual": false, "hash": "af350161", "new_bills": [], "modified_bills": [], "new_bills_count": 0, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB0595", "HB0849", "HB0987", "HB1321", "HB1324", "SB0678", "SB0743", "SB0751", "SB0815", "SB0912"], "updated_fiscal_notes": [], "new_fiscal_notes_count": 10, "updated_fiscal_notes_count": 0}, {"date": "2026-03-10", "label": "Automated pipeline update 2026-03-11", "is_manual": false, "hash": "3c54be7b", "new_bills": ["HB1632", "HB1633", "HB1634", "HB1635", "HB1636", "HB1637", "HB1638", "HB1639", "HB1640", "HB1641", "HB1642", "SB1001", "SB1002", "SB1003", "SB1005", "SB1006"], "modified_bills": ["HB0156", "HB0161", "HB0175", "HB0194", "HB0212", "HB0231", "HB0234", "HB0253", "HB0258", "HB0265", "HB0266", "HB0269", "HB0289", "HB0321", "HB0357", "HB0377", "HB0399", "HB0403", "HB0413", "HB0426", "HB0429", "HB0457", "HB0478", "HB0480", "HB0520", "HB0538", "HB0561", "HB0578", "HB0595", "HB0640", "HB0663", "HB0720", "HB0721", "HB0748", "HB0753", "HB0784", "HB0804", "HB0809", "HB0811", "HB0822", "HB0848", "HB0849", "HB0862", "HB0866", "HB0872", "HB0875", "HB1012", "HB1068", "HB1096", "HB1138", "HB1169", "HB1263", "HB1321", "HB1364", "SB0057", "SB0172", "SB0215", "SB0348", "SB0741", "SB0775", "SB0784", "SB0819"], "new_bills_count": 16, "modified_bills_count": 62, "amendment_docs_count": 2, "amendment_docs_by_bill": {"HB0010": 1, "HB0437": 1}, "amended_bills": ["HB0010", "HB0437"], "amended_bills_count": 2, "new_fiscal_notes": ["HB0355", "HB0505", "HB0534", "HB0856", "HB0910", "HB1174", "HB1328", "HB1487", "HB1593", "HB1598"], "updated_fiscal_notes": [], "new_fiscal_notes_count": 10, "updated_fiscal_notes_count": 0}, {"date": "2026-03-11", "label": "Automated pipeline update 2026-03-12", "is_manual": false, "hash": "bd5634b0", "new_bills": ["HB1643", "HB1644"], "modified_bills": ["HB0010", "HB0243", "HB0306", "HB0343", "HB0428", "HB0437", "HB0461", "HB0483", "HB0523", "HB0573", "HB0798", "HB0850", "HB0951", "HB0996", "HB1026", "HB1312", "SB0606", "SB0917"], "new_bills_count": 2, "modified_bills_count": 18, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB0832", "HB0976", "HB1072", "HB1079", "HB1123", "HB1125", "HB1163", "HB1184", "HB1198", "HB1205", "HB1231", "HB1245", "HB1249", "HB1271", "HB1274", "HB1278", "HB1284", "HB1288", "HB1292", "HB1293", "HB1305", "HB1306", "HB1310", "HB1311", "HB1313", "HB1323", "HB1329", "HB1334", "HB1345", "HB1368", "HB1372", "HB1373", "HB1382", "HB1394", "HB1397", "HB1416", "HB1417", "HB1418", "HB1420", "HB1430", "HB1433", "HB1440", "HB1468", "HB1471", "HB1481", "HB1483", "HB1490", "HB1492", "HB1499", "HB1500", "HB1505", "HB1520", "HB1530", "HB1536", "HB1540", "HB1553", "HB1570", "HB1599", "HB1607", "HB1612", "SB0884"], "updated_fiscal_notes": [], "new_fiscal_notes_count": 61, "updated_fiscal_notes_count": 0}, {"date": "2026-03-12", "label": "Automated pipeline update 2026-03-13", "is_manual": false, "hash": "c44b19ef", "new_bills": ["SB1007"], "modified_bills": ["HB0297", "HB0355", "HB0505", "HB0534", "HB0691", "HB0856"], "new_bills_count": 1, "modified_bills_count": 6, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB0363", "HB0717", "HB0771", "HB0838", "HB0936", "HB0963", "HB0983", "HB0986", "HB1004", "HB1042", "HB1047", "HB1058", "HB1062", "HB1110", "HB1144", "HB1148", "HB1222", "HB1247", "HB1294", "HB1357", "HB1363", "HB1366", "HB1383", "HB1457", "HB1485", "HB1493", "HB1532", "HB1541", "HB1550", "HB1554", "HB1568"], "updated_fiscal_notes": ["HB0231", "HB0234", "HB0265", "HB0266", "HB0269", "HB0321", "HB0329", "HB0403", "HB0413", "HB0784", "HB0809", "HB0811", "HB0822", "HB0848", "HB0862", "HB0872", "HB0875", "HB1138", "HB1169"], "new_fiscal_notes_count": 31, "updated_fiscal_notes_count": 19}, {"date": "2026-03-13", "label": "Automated pipeline update 2026-03-14", "is_manual": false, "hash": "e2087d28", "new_bills": ["HB1645"], "modified_bills": ["HB0065", "HB0094", "HB0329", "HB0410", "HB0769", "HB0771", "HB0838", "HB0963", "HB0975", "HB0986", "HB1004", "HB1042", "HB1047", "HB1058", "HB1062", "HB1144", "HB1294", "HB1357", "HB1485", "SB0193"], "new_bills_count": 1, "modified_bills_count": 20, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB0149", "HB0247", "HB0254", "HB0256", "HB0543", "HB0618", "HB0668", "HB0688", "HB0718", "HB0750", "HB0768", "HB0776", "HB0877", "HB0900", "HB0908", "HB0919", "HB0941", "HB0947", "HB0953", "HB0956", "HB0993", "HB0997", "HB1001", "HB1005", "HB1008", "HB1031", "HB1049", "HB1071", "HB1075", "HB1076", "HB1081", "HB1083", "HB1087", "HB1091", "HB1094", "HB1105", "HB1107", "HB1108", "HB1113", "HB1116", "HB1117", "HB1118", "HB1151", "HB1152", "HB1172", "HB1185", "HB1230", "HB1251", "HB1280", "HB1300", "HB1320", "HB1346", "HB1348", "HB1352", "HB1355", "HB1365", "HB1367", "HB1375", "HB1377", "HB1380", "HB1395", "HB1424", "HB1435", "HB1448", "HB1450", "HB1459", "HB1461", "HB1470", "HB1473", "HB1563", "HB1565", "HB1572", "HB1614", "HB1621", "SB0477", "SB0512", "SB0520", "SB0521", "SB0582", "SB0594", "SB0647", "SB0676", "SB0694", "SB0697", "SB0794", "SB0865", "SB0898", "SB0952"], "updated_fiscal_notes": ["HB0306", "HB0399", "HB0428", "HB0461", "HB0573", "HB0663", "HB0721", "HB0798", "HB0850", "HB0951", "HB0996", "HB1026", "HB1312", "SB0057", "SB0172", "SB0215", "SB0741", "SB0784", "SB0819"], "new_fiscal_notes_count": 88, "updated_fiscal_notes_count": 19}, {"date": "2026-03-14", "label": "Automated pipeline update 2026-03-15", "is_manual": false, "hash": "7f605d13", "new_bills": ["SB1008"], "modified_bills": [], "new_bills_count": 1, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": [], "updated_fiscal_notes": [], "new_fiscal_notes_count": 0, "updated_fiscal_notes_count": 0}, {"date": "2026-03-15", "label": "Automated pipeline update 2026-03-16", "is_manual": false, "hash": "a63f3599", "new_bills": [], "modified_bills": [], "new_bills_count": 0, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": [], "updated_fiscal_notes": [], "new_fiscal_notes_count": 0, "updated_fiscal_notes_count": 0}, {"date": "2026-03-16", "label": "Automated pipeline update 2026-03-17", "is_manual": false, "hash": "16540939", "new_bills": [], "modified_bills": [], "new_bills_count": 0, "modified_bills_count": 0, "amendment_docs_count": 2, "amendment_docs_by_bill": {"SB0520": 1, "SB0647": 1}, "amended_bills": ["SB0520", "SB0647"], "amended_bills_count": 2, "new_fiscal_notes": ["HB1596", "HB1604", "HB1609", "HB1611", "HB1619", "HB1628"], "updated_fiscal_notes": ["HB0569", "HB0640"], "new_fiscal_notes_count": 6, "updated_fiscal_notes_count": 2}, {"date": "2026-03-17", "label": "Automated pipeline update 2026-03-18", "is_manual": false, "hash": "2a859d29", "new_bills": [], "modified_bills": ["HB0108", "HB0141", "HB0149", "HB0166", "HB0168", "HB0187", "HB0238", "HB0247", "HB0248", "HB0251", "HB0254", "HB0256", "HB0310", "HB0315", "HB0324", "HB0388", "HB0435", "HB0618", "HB0622", "HB0634", "HB0688", "HB0718", "HB0750", "HB0752", "HB0768", "HB0776", "HB0861", "HB0877", "HB0900", "HB0919", "HB0936", "HB0941", "HB0947", "HB0953", "HB0954", "HB0956", "HB1005", "HB1008", "HB1049", "HB1071", "HB1075", "HB1076", "HB1087", "HB1108", "HB1110", "HB1116", "HB1152", "HB1172", "HB1180", "HB1292", "HB1300", "HB1320", "HB1346", "HB1348", "HB1355", "HB1395", "HB1448", "HB1470", "HB1473", "HB1490", "HB1530", "HB1532", "HB1540", "HB1554", "SB0520", "SB0521", "SB0582", "SB0647", "SB0794", "SB0865", "SB0898"], "new_bills_count": 0, "modified_bills_count": 71, "amendment_docs_count": 29, "amendment_docs_by_bill": {"HB0096": 1, "HB0115": 1, "HB0250": 1, "HB0288": 1, "HB0293": 1, "HB0313": 1, "HB0363": 1, "HB0668": 1, "HB0684": 1, "HB0717": 1, "HB0746": 1, "HB0931": 1, "HB1001": 1, "HB1005": 1, "HB1083": 1, "HB1091": 1, "HB1105": 1, "HB1112": 1, "HB1113": 1, "HB1148": 1, "HB1151": 1, "HB1247": 1, "HB1280": 1, "HB1352": 1, "HB1365": 1, "HB1367": 2, "HB1377": 1, "HB1563": 1}, "amended_bills": ["HB0096", "HB0115", "HB0250", "HB0288", "HB0293", "HB0313", "HB0363", "HB0668", "HB0684", "HB0717", "HB0746", "HB0931", "HB1001", "HB1005", "HB1083", "HB1091", "HB1105", "HB1112", "HB1113", "HB1148", "HB1151", "HB1247", "HB1280", "HB1352", "HB1365", "HB1367", "HB1377", "HB1563"], "amended_bills_count": 28, "new_fiscal_notes": ["HB0490", "HB0518", "HB0546", "HB0586", "HB0628", "HB0660", "HB0742", "HB0852", "HB0904", "HB1052", "HB1054", "HB1182", "HB1215", "HB1279", "HB1290", "HB1387", "HB1389", "HB1441", "HB1467", "HB1587", "HB1597", "HB1616", "HB1617", "HB1623", "HB1625", "SB0557", "SB0704", "SB0757", "SB0792", "SB0869", "SB0905", "SB0972"], "updated_fiscal_notes": ["SB0606", "SB0917"], "new_fiscal_notes_count": 32, "updated_fiscal_notes_count": 2}, {"date": "2026-03-18", "label": "Automated pipeline update 2026-03-19", "is_manual": false, "hash": "895721eb", "new_bills": [], "modified_bills": ["HB0029", "HB0096", "HB0115", "HB0195", "HB0222", "HB0250", "HB0282", "HB0288", "HB0293", "HB0313", "HB0363", "HB0490", "HB0518", "HB0546", "HB0586", "HB0610", "HB0628", "HB0635", "HB0660", "HB0668", "HB0671", "HB0684", "HB0717", "HB0742", "HB0746", "HB0852", "HB0904", "HB0931", "HB0993", "HB1001", "HB1005", "HB1052", "HB1054", "HB1081", "HB1083", "HB1091", "HB1105", "HB1112", "HB1113", "HB1148", "HB1151", "HB1182", "HB1186", "HB1222", "HB1247", "HB1274", "HB1279", "HB1280", "HB1290", "HB1305", "HB1310", "HB1345", "HB1352", "HB1365", "HB1367", "HB1377", "HB1387", "HB1389", "HB1441", "HB1467", "HB1563", "SB0198", "SB0267", "SB0310", "SB0365", "SB0477", "SB0512", "SB0588", "SB0694", "SB0697", "SB0792", "SB0869", "SB0972"], "new_bills_count": 0, "modified_bills_count": 73, "amendment_docs_count": 2, "amendment_docs_by_bill": {"SB0557": 1, "SB0905": 1}, "amended_bills": ["SB0557", "SB0905"], "amended_bills_count": 2, "new_fiscal_notes": ["HB0041", "HB0312", "HB0328", "HB0347", "HB0382", "HB0407", "HB0492", "HB0501", "HB0547", "HB0548", "HB0552", "HB0575", "HB0590", "HB0597", "HB0646", "HB0711", "HB0730", "HB0734", "HB0738", "HB0783", "HB0789", "HB0810", "HB0828", "HB0829", "HB0833", "HB0842", "HB0844", "HB0870", "HB0878", "HB0889", "HB0922", "HB0939", "HB0995", "HB1020", "HB1050", "HB1070", "HB1102", "HB1122", "HB1139", "HB1140", "HB1143", "HB1178", "HB1191", "HB1194", "HB1196", "HB1224", "HB1232", "HB1243", "HB1252", "HB1267", "HB1272", "HB1276", "HB1326", "HB1330", "HB1369", "HB1422", "HB1438", "HB1452", "HB1456", "HB1466", "HB1513", "HB1527", "HB1537", "HB1548", "HB1557", "HB1558", "HB1567", "HB1569", "HB1578", "HB1592", "SB0267", "SB0509", "SB0554", "SB0588", "SB0814", "SB0823", "SB0859", "SB0933"], "updated_fiscal_notes": ["HB0324", "HB0429", "HB0569", "HB0672", "HB0718", "HB0894", "HB0919", "HB0953"], "new_fiscal_notes_count": 78, "updated_fiscal_notes_count": 8}, {"date": "2026-03-19", "label": "Automated pipeline update 2026-03-20", "is_manual": false, "hash": "5fb7eb6a", "new_bills": [], "modified_bills": ["HB0022", "HB0034", "HB0057", "HB0089", "HB0103", "HB0139", "HB0193", "HB0211", "HB0279", "HB0281", "HB0320", "HB0328", "HB0338", "HB0347", "HB0352", "HB0374", "HB0382", "HB0492", "HB0501", "HB0531", "HB0547", "HB0548", "HB0552", "HB0569", "HB0575", "HB0590", "HB0591", "HB0597", "HB0604", "HB0606", "HB0646", "HB0713", "HB0730", "HB0734", "HB0783", "HB0810", "HB0828", "HB0829", "HB0833", "HB0842", "HB0844", "HB0860", "HB0870", "HB0878", "HB0889", "HB0922", "HB0939", "HB1050", "HB1070", "HB1093", "HB1094", "HB1098", "HB1140", "HB1143", "HB1178", "HB1185", "HB1191", "HB1196", "HB1221", "HB1224", "HB1230", "HB1232", "HB1243", "HB1252", "HB1267", "HB1272", "HB1276", "HB1326", "HB1330", "HB1369", "HB1383", "HB1438", "HB1452", "HB1457", "HB1466", "HB1567", "HB1569", "SB0557", "SB0594", "SB0704", "SB0757", "SB0814", "SB0859", "SB0905", "SB0933"], "new_bills_count": 0, "modified_bills_count": 85, "amendment_docs_count": 15, "amendment_docs_by_bill": {"HB0216": 1, "HB0295": 1, "HB0638": 1, "HB0711": 1, "HB0738": 1, "HB0894": 1, "HB1100": 1, "HB1118": 1, "HB1422": 1, "HB1456": 1, "HB1557": 1, "HB1578": 1, "SB0509": 1, "SB0554": 1, "SB0694": 1}, "amended_bills": ["HB0216", "HB0295", "HB0638", "HB0711", "HB0738", "HB0894", "HB1100", "HB1118", "HB1422", "HB1456", "HB1557", "HB1578", "SB0509", "SB0554", "SB0694"], "amended_bills_count": 15, "new_fiscal_notes": ["HB0011", "HB0049", "HB0172", "HB0264", "HB0405", "HB0423", "HB0436", "HB0443", "HB0456", "HB0502", "HB0503", "HB0532", "HB0563", "HB0587", "HB0596", "HB0600", "HB0607", "HB0608", "HB0611", "HB0680", "HB0714", "HB0733", "HB0754", "HB0765", "HB0839", "HB0845", "HB0895", "HB0898", "HB0933", "HB0952", "HB0957", "HB1000", "HB1016", "HB1095", "HB1101", "HB1126", "HB1132", "HB1149", "HB1160", "HB1165", "HB1171", "HB1176", "HB1181", "HB1192", "HB1216", "HB1239", "HB1241", "HB1248", "HB1257", "HB1259", "HB1281", "HB1286", "HB1401", "HB1472", "HB1480", "HB1559", "HB1581", "SB0159", "SB0597", "SB0608", "SB0632", "SB0661", "SB0672", "SB0754", "SB0980"], "updated_fiscal_notes": ["HB0065", "HB0094", "HB0141", "HB0149", "HB0187", "HB0238", "HB0248", "HB0250", "HB0251", "HB0254", "HB0256", "HB0282", "HB0329", "HB0388", "HB0435", "HB0518", "HB0610", "HB0622", "HB0634", "HB0660", "HB0688", "HB0717", "HB0732", "HB0742", "HB0776", "HB0861", "HB0900", "HB0904", "HB0936", "HB0954", "HB0963", "HB0975", "HB1004", "HB1008", "HB1042", "HB1047", "HB1049", "HB1052", "HB1054", "HB1058", "HB1062", "HB1075", "HB1076", "HB1087", "HB1110", "HB1116", "HB1144", "HB1152", "HB1172", "HB1186", "HB1222", "HB1294", "HB1320", "HB1345", "HB1348", "HB1355", "HB1389", "HB1441", "HB1467", "HB1470", "HB1473", "HB1485", "HB1554"], "new_fiscal_notes_count": 65, "updated_fiscal_notes_count": 63}, {"date": "2026-03-21", "label": "Automated pipeline update 2026-03-22", "is_manual": false, "hash": "0fea83c3", "new_bills": [], "modified_bills": ["HB0011", "HB0014", "HB0083", "HB0160", "HB0172", "HB0196", "HB0216", "HB0264", "HB0295", "HB0327", "HB0348", "HB0358", "HB0405", "HB0423", "HB0436", "HB0443", "HB0456", "HB0502", "HB0503", "HB0519", "HB0522", "HB0532", "HB0563", "HB0587", "HB0596", "HB0600", "HB0607", "HB0608", "HB0611", "HB0624", "HB0637", "HB0638", "HB0678", "HB0680", "HB0681", "HB0682", "HB0711", "HB0727", "HB0732", "HB0738", "HB0744", "HB0754", "HB0765", "HB0772", "HB0789", "HB0839", "HB0845", "HB0864", "HB0894", "HB0895", "HB0898", "HB0927", "HB0933", "HB0934", "HB0945", "HB0952", "HB0957", "HB0980", "HB1000", "HB1002", "HB1016", "HB1029", "HB1095", "HB1100", "HB1101", "HB1102", "HB1109", "HB1118", "HB1132", "HB1139", "HB1149", "HB1160", "HB1165", "HB1171", "HB1176", "HB1181", "HB1192", "HB1216", "HB1239", "HB1241", "HB1248", "HB1257", "HB1259", "HB1286", "HB1311", "HB1372", "HB1420", "HB1422", "HB1430", "HB1433", "HB1456", "HB1480", "HB1513", "HB1557", "HB1559", "HB1578", "HB1581", "HB1623", "SB0159", "SB0465", "SB0487", "SB0509", "SB0554", "SB0597", "SB0608", "SB0632", "SB0661", "SB0672", "SB0694", "SB0754", "SB0823", "SB0844", "SB0980"], "new_bills_count": 0, "modified_bills_count": 113, "amendment_docs_count": 73, "amendment_docs_by_bill": {"HB0016": 2, "HB0121": 1, "HB0130": 1, "HB0191": 1, "HB0305": 1, "HB0402": 1, "HB0412": 1, "HB0421": 1, "HB0467": 1, "HB0470": 1, "HB0472": 1, "HB0497": 1, "HB0512": 1, "HB0525": 1, "HB0558": 1, "HB0598": 1, "HB0613": 1, "HB0639": 1, "HB0645": 1, "HB0664": 1, "HB0816": 1, "HB0837": 1, "HB0907": 1, "HB0912": 1, "HB0915": 1, "HB0921": 1, "HB0925": 1, "HB0929": 1, "HB0938": 1, "HB0969": 1, "HB0972": 1, "HB1034": 1, "HB1037": 1, "HB1059": 1, "HB1063": 1, "HB1067": 1, "HB1097": 1, "HB1135": 2, "HB1137": 1, "HB1150": 1, "HB1164": 1, "HB1194": 1, "HB1218": 1, "HB1219": 1, "HB1226": 1, "HB1258": 1, "HB1324": 1, "HB1335": 1, "HB1370": 1, "HB1381": 1, "HB1400": 1, "HB1439": 1, "HB1474": 1, "HB1483": 1, "HB1504": 1, "HB1506": 1, "HB1508": 1, "HB1520": 1, "HB1523": 1, "HB1526": 1, "HB1593": 1, "HB1611": 1, "HB1612": 1, "HB1614": 1, "HB1617": 1, "HB1625": 1, "HB1630": 1, "SB0010": 1, "SB0559": 1, "SB0877": 1, "SB0937": 1}, "amended_bills": ["HB0016", "HB0121", "HB0130", "HB0191", "HB0305", "HB0402", "HB0412", "HB0421", "HB0467", "HB0470", "HB0472", "HB0497", "HB0512", "HB0525", "HB0558", "HB0598", "HB0613", "HB0639", "HB0645", "HB0664", "HB0816", "HB0837", "HB0907", "HB0912", "HB0915", "HB0921", "HB0925", "HB0929", "HB0938", "HB0969", "HB0972", "HB1034", "HB1037", "HB1059", "HB1063", "HB1067", "HB1097", "HB1135", "HB1137", "HB1150", "HB1164", "HB1194", "HB1218", "HB1219", "HB1226", "HB1258", "HB1324", "HB1335", "HB1370", "HB1381", "HB1400", "HB1439", "HB1474", "HB1483", "HB1504", "HB1506", "HB1508", "HB1520", "HB1523", "HB1526", "HB1593", "HB1611", "HB1612", "HB1614", "HB1617", "HB1625", "HB1630", "SB0010", "SB0559", "SB0877", "SB0937"], "amended_bills_count": 71, "new_fiscal_notes": ["HB0016", "HB0121", "HB0305", "HB0406", "HB0412", "HB0467", "HB0470", "HB0493", "HB0525", "HB0558", "HB0571", "HB0582", "HB0583", "HB0649", "HB0658", "HB0661", "HB0664", "HB0698", "HB0759", "HB0772", "HB0816", "HB0837", "HB0846", "HB0892", "HB0893", "HB0907", "HB0912", "HB0914", "HB0915", "HB0921", "HB0925", "HB0938", "HB0972", "HB0991", "HB0994", "HB0998", "HB0999", "HB1002", "HB1015", "HB1034", "HB1037", "HB1048", "HB1056", "HB1059", "HB1063", "HB1067", "HB1097", "HB1109", "HB1111", "HB1135", "HB1142", "HB1150", "HB1156", "HB1164", "HB1203", "HB1219", "HB1226", "HB1258", "HB1325", "HB1335", "HB1362", "HB1370", "HB1376", "HB1381", "HB1384", "HB1400", "HB1425", "HB1428", "HB1434", "HB1439", "HB1463", "HB1474", "HB1504", "HB1506", "HB1508", "HB1523", "HB1526", "HB1529", "HB1605", "HB1630", "SB0487", "SB0489", "SB0559", "SB0844", "SB0876", "SB0877", "SB0932", "SB0937"], "updated_fiscal_notes": ["HB0080", "HB0194", "HB0200", "HB0246", "HB0281", "HB0308", "HB0320", "HB0426", "HB0431", "HB0472", "HB0501", "HB0534", "HB0569", "HB0590", "HB0597", "HB0684", "HB0691", "HB0713", "HB0771", "HB0783", "HB0829", "HB0833", "HB0844", "HB0878", "HB0889", "HB0922", "HB1050", "HB1112", "HB1182", "HB1196", "HB1224", "HB1232", "HB1330", "HB1367", "HB1383", "HB1438", "HB1457", "HB1466", "SB0193", "SB0310", "SB0365", "SB0512", "SB0521", "SB0557", "SB0594", "SB0814", "SB0865", "SB0869", "SB0898", "SB0933"], "new_fiscal_notes_count": 88, "updated_fiscal_notes_count": 50}, {"date": "2026-03-22", "label": "Automated pipeline update 2026-03-23", "is_manual": false, "hash": "1b9c0dd0", "new_bills": [], "modified_bills": ["HB0016", "HB0097", "HB0121", "HB0130", "HB0159", "HB0191", "HB0305", "HB0326", "HB0339", "HB0402", "HB0406", "HB0412", "HB0421", "HB0467", "HB0470", "HB0472", "HB0493", "HB0497", "HB0512", "HB0525", "HB0558", "HB0582", "HB0583", "HB0598", "HB0613", "HB0639", "HB0645", "HB0649", "HB0661", "HB0664", "HB0816", "HB0837", "HB0846", "HB0874", "HB0907", "HB0912", "HB0914", "HB0915", "HB0921", "HB0925", "HB0929", "HB0938", "HB0969", "HB0972", "HB0991", "HB0998", "HB0999", "HB1034", "HB1037", "HB1056", "HB1059", "HB1067", "HB1097", "HB1111", "HB1135", "HB1137", "HB1142", "HB1150", "HB1156", "HB1164", "HB1194", "HB1203", "HB1218", "HB1219", "HB1226", "HB1249", "HB1258", "HB1284", "HB1324", "HB1325", "HB1335", "HB1370", "HB1381", "HB1400", "HB1425", "HB1428", "HB1434", "HB1439", "HB1463", "HB1474", "HB1483", "HB1504", "HB1506", "HB1508", "HB1520", "HB1523", "HB1526", "HB1593", "HB1611", "HB1612", "HB1614", "HB1617", "HB1625", "HB1630", "SB0010", "SB0559", "SB0877", "SB0937"], "new_bills_count": 0, "modified_bills_count": 98, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": [], "updated_fiscal_notes": [], "new_fiscal_notes_count": 0, "updated_fiscal_notes_count": 0}, {"date": "2026-03-23", "label": "Automated pipeline update 2026-03-24", "is_manual": false, "hash": "ff8e8d32", "new_bills": [], "modified_bills": ["HB0336", "HB0446", "HB0571", "HB0658", "HB0698", "HB0816", "HB0883", "HB0892", "HB0893", "HB0989", "HB0994", "HB1015", "HB1048", "HB1063", "HB1117", "HB1120", "HB1155", "HB1158", "HB1166", "HB1351", "HB1362", "HB1376", "HB1529", "HB1533", "HB1616", "SB0202", "SB0489", "SB0876", "SB0932"], "new_bills_count": 0, "modified_bills_count": 29, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB0617", "HB0883", "HB0989", "HB1155", "HB1158", "HB1585", "SB0769"], "updated_fiscal_notes": ["HB0011", "HB0097", "HB0159", "HB0172", "HB0264", "HB0295", "HB0305", "HB0326", "HB0327", "HB0328", "HB0338", "HB0339", "HB0348", "HB0358", "HB0374", "HB0382", "HB0406", "HB0436", "HB0437", "HB0456", "HB0493", "HB0503", "HB0519", "HB0522", "HB0561", "HB0563", "HB0575", "HB0582", "HB0583", "HB0596", "HB0600", "HB0606", "HB0607", "HB0611", "HB0649", "HB0661", "HB0680", "HB0682", "HB0727", "HB0732", "HB0744", "HB0754", "HB0846", "HB0874", "HB0914", "HB0927", "HB0934", "HB0991", "HB0998", "HB0999", "HB1029", "HB1056", "HB1094", "HB1095", "HB1101", "HB1102", "HB1111", "HB1142", "HB1156", "HB1160", "HB1171", "HB1203", "HB1216", "HB1249", "HB1272", "HB1284", "HB1286", "HB1311", "HB1325", "HB1346", "HB1420", "HB1425", "HB1428", "HB1433", "HB1434", "HB1463", "HB1616", "HB1623", "SB0136", "SB0754", "SB0823"], "new_fiscal_notes_count": 7, "updated_fiscal_notes_count": 81}, {"date": "2026-03-24", "label": "Automated pipeline update 2026-03-25", "is_manual": false, "hash": "32b0d2e9", "new_bills": [], "modified_bills": ["SB0769"], "new_bills_count": 0, "modified_bills_count": 1, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB1429"], "updated_fiscal_notes": ["HB0160", "HB1005", "HB1241", "HB1252", "HB1290", "HB1305", "SB0465", "SB0844"], "new_fiscal_notes_count": 1, "updated_fiscal_notes_count": 8}, {"date": "2026-03-25", "label": "Automated pipeline update 2026-03-26", "is_manual": false, "hash": "70f5c7cb", "new_bills": [], "modified_bills": [], "new_bills_count": 0, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB0843", "HB0888"], "updated_fiscal_notes": ["HB0103", "HB0161", "HB0175", "HB0195", "HB0289", "HB0343", "HB0352", "HB0359", "HB0387", "HB0421", "HB0472", "HB0478", "HB0547", "HB0753", "HB0765", "HB0805", "HB0810", "HB0842", "HB1096", "HB1105", "HB1148", "HB1149", "HB1226", "HB1279", "HB1352", "HB1369", "HB1439", "HB1483", "HB1513", "HB1612", "SB0161", "SB0167", "SB0199", "SB0225", "SB0489", "SB0704", "SB0794"], "new_fiscal_notes_count": 2, "updated_fiscal_notes_count": 37}, {"date": "2026-03-26", "label": "Automated pipeline update 2026-03-27", "is_manual": false, "hash": "6ceef805", "new_bills": [], "modified_bills": ["HB0843", "HB0888"], "new_bills_count": 0, "modified_bills_count": 2, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": ["HB0627", "HB1514", "HB1582", "HB1634"], "updated_fiscal_notes": ["HB0057", "HB0166", "HB0168", "HB0211", "HB0288", "HB0293", "HB0310", "HB0311", "HB0315", "HB0357", "HB0363", "HB0396", "HB0410", "HB0430", "HB0457", "HB0497", "HB0628", "HB0664", "HB0668", "HB0681", "HB0746", "HB0750", "HB0912", "HB0931", "HB0939", "HB0947", "HB1000", "HB1071", "HB1097", "HB1178", "HB1185", "HB1221", "HB1239", "HB1248", "HB1259", "HB1292", "HB1365", "HB1372", "HB1377", "HB1387", "HB1532", "HB1563", "SB0202", "SB0351", "SB0587", "SB0632", "SB0694", "SB0775", "SB0776"], "new_fiscal_notes_count": 4, "updated_fiscal_notes_count": 49}, {"date": "2026-03-27", "label": "Automated pipeline update 2026-03-28", "is_manual": false, "hash": "5d34e91c", "new_bills": [], "modified_bills": [], "new_bills_count": 0, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": [], "updated_fiscal_notes": ["HB0096", "HB0108", "HB0115", "HB0121", "HB0182", "HB0210", "HB0216", "HB0242", "HB0255", "HB0259", "HB0322", "HB0347", "HB0364", "HB0377", "HB0422", "HB0442", "HB0445", "HB0470", "HB0747", "HB0748", "HB0769", "HB0804", "HB0813", "HB0838", "HB0851", "HB0986", "HB1002", "SB0159", "SB0877"], "new_fiscal_notes_count": 0, "updated_fiscal_notes_count": 29}, {"date": "2026-03-28", "label": "Automated pipeline update 2026-03-29", "is_manual": false, "hash": "9a176b4a", "new_bills": [], "modified_bills": [], "new_bills_count": 0, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": [], "updated_fiscal_notes": [], "new_fiscal_notes_count": 0, "updated_fiscal_notes_count": 0}, {"date": "2026-03-29", "label": "Automated pipeline update 2026-03-30", "is_manual": false, "hash": "fff56385", "new_bills": [], "modified_bills": [], "new_bills_count": 0, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": [], "updated_fiscal_notes": [], "new_fiscal_notes_count": 0, "updated_fiscal_notes_count": 0}, {"date": "2026-03-30", "label": "Automated pipeline update 2026-03-31", "is_manual": false, "hash": "964f0f72", "new_bills": [], "modified_bills": [], "new_bills_count": 0, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": [], "updated_fiscal_notes": ["HB0336", "HB0395", "HB0405", "HB0451", "HB0480", "HB0486", "HB0492", "HB0546", "HB0552", "HB0558", "HB0564", "HB0571", "HB0591", "HB0595", "HB0608", "HB0613", "HB0637", "HB0645", "HB0738", "HB0772", "HB0789", "HB0899", "HB0929", "HB0952", "HB0956", "HB0972", "HB0989", "HB1037", "HB1048", "HB1084", "HB1108", "HB1109", "HB1120", "HB1137", "HB1143", "HB1151", "HB1158", "HB1194", "HB1219", "HB1267", "HB1300", "HB1335", "HB1357", "HB1362", "HB1400", "HB1422", "HB1490", "HB1529", "SB0068", "SB0582"], "new_fiscal_notes_count": 0, "updated_fiscal_notes_count": 50}, {"date": "2026-03-31", "label": "Automated pipeline update 2026-04-01", "is_manual": false, "hash": "67755a60", "new_bills": [], "modified_bills": ["HB0627", "HB1514", "HB1582"], "new_bills_count": 0, "modified_bills_count": 3, "amendment_docs_count": 1, "amendment_docs_by_bill": {"HB0998": 1}, "amended_bills": ["HB0998"], "amended_bills_count": 1, "new_fiscal_notes": ["HB1223", "SB1007"], "updated_fiscal_notes": ["HB0229", "HB0678", "HB0735", "HB1070", "HB1118", "HB1165", "HB1280", "HB1326", "HB1452", "HB1557", "SB0010"], "new_fiscal_notes_count": 2, "updated_fiscal_notes_count": 11}, {"date": "2026-04-01", "label": "Automated pipeline update 2026-04-02", "is_manual": false, "hash": "1fd06dd0", "new_bills": ["HB1646"], "modified_bills": ["HB0797", "HB1223"], "new_bills_count": 1, "modified_bills_count": 2, "amendment_docs_count": 2, "amendment_docs_by_bill": {"HB0266": 1, "HB0810": 1}, "amended_bills": ["HB0266", "HB0810"], "amended_bills_count": 2, "new_fiscal_notes": ["HB0045", "HB0774", "HB0896", "SB0841"], "updated_fiscal_notes": ["HB0102", "HB0154", "HB0276", "HB0720", "HB0734", "HB0856", "HB1192", "SB0194"], "new_fiscal_notes_count": 4, "updated_fiscal_notes_count": 8}, {"date": "2026-04-03", "label": "Automated pipeline update 2026-04-04", "is_manual": false, "hash": "c0952676", "new_bills": [], "modified_bills": ["HB0045", "HB0074", "HB0106", "HB0299", "HB0617", "HB0669", "HB0896", "HB1233", "HB1621", "SB1007"], "new_bills_count": 0, "modified_bills_count": 10, "amendment_docs_count": 15, "amendment_docs_by_bill": {"HB0193": 1, "HB0261": 1, "HB0717": 1, "HB0774": 2, "HB1156": 1, "HB1532": 1, "SB0487": 1, "SB0841": 7}, "amended_bills": ["HB0193", "HB0261", "HB0717", "HB0774", "HB1156", "HB1532", "SB0487", "SB0841"], "amended_bills_count": 8, "new_fiscal_notes": ["HB0136", "HB0669", "HB0854", "HB1233", "HB1283", "HB1458", "SB0564", "SB0789", "SB0867"], "updated_fiscal_notes": ["HB0017", "HB0035", "HB0153", "HB0193", "HB0226", "HB0235", "HB0236", "HB0241", "HB0243", "HB0262", "HB0278", "HB0284", "HB0301", "HB0325", "HB0342", "HB0417", "HB0446", "HB0474", "HB0483", "HB0512", "HB0586", "HB0845", "HB0907", "HB0925", "HB0957", "HB1083", "HB1093", "HB1100", "HB1135", "HB1180", "HB1324", "HB1395", "HB1523", "HB1540", "HB1578", "SB0267", "SB0487", "SB0509", "SB0937"], "new_fiscal_notes_count": 9, "updated_fiscal_notes_count": 39}, {"date": "2026-04-04", "label": "Automated pipeline update 2026-04-05", "is_manual": false, "hash": "45453861", "new_bills": [], "modified_bills": [], "new_bills_count": 0, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": [], "updated_fiscal_notes": [], "new_fiscal_notes_count": 0, "updated_fiscal_notes_count": 0}, {"date": "2026-04-05", "label": "Automated pipeline update 2026-04-06", "is_manual": false, "hash": "0f84e1e9", "new_bills": [], "modified_bills": [], "new_bills_count": 0, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": [], "updated_fiscal_notes": [], "new_fiscal_notes_count": 0, "updated_fiscal_notes_count": 0}, {"date": "2026-04-08", "label": "Manual rerun (fills 4/6\u20134/8 gap)", "is_manual": true, "hash": "104e3ce4", "new_bills": [], "modified_bills": ["HB0577", "HB0687", "HB0774", "HB0854", "HB1014", "HB1156", "HB1167", "SB0039", "SB0246", "SB0564", "SB0789", "SB0841", "SB0867", "SB1003"], "new_bills_count": 0, "modified_bills_count": 14, "amendment_docs_count": 71, "amendment_docs_by_bill": {"HB0011": 1, "HB0017": 1, "HB0030": 1, "HB0139": 1, "HB0146": 1, "HB0149": 1, "HB0154": 1, "HB0175": 1, "HB0187": 1, "HB0260": 1, "HB0270": 1, "HB0284": 1, "HB0297": 1, "HB0339": 1, "HB0342": 1, "HB0363": 1, "HB0427": 1, "HB0450": 1, "HB0451": 1, "HB0467": 1, "HB0512": 1, "HB0525": 1, "HB0546": 1, "HB0561": 1, "HB0563": 1, "HB0571": 1, "HB0578": 1, "HB0622": 1, "HB0663": 1, "HB0680": 1, "HB0738": 1, "HB0753": 1, "HB0769": 1, "HB0772": 1, "HB0809": 1, "HB0813": 1, "HB0829": 1, "HB0845": 1, "HB0892": 1, "HB0907": 1, "HB0936": 1, "HB0994": 1, "HB1015": 1, "HB1026": 1, "HB1083": 1, "HB1100": 1, "HB1111": 1, "HB1118": 1, "HB1135": 1, "HB1139": 1, "HB1164": 1, "HB1219": 1, "HB1230": 1, "HB1232": 1, "HB1300": 1, "HB1324": 1, "HB1357": 1, "HB1372": 1, "HB1376": 1, "HB1422": 1, "HB1445": 1, "HB1470": 1, "HB1473": 1, "HB1483": 1, "HB1532": 1, "HB1611": 1, "SB0159": 1, "SB0509": 1, "SB0582": 1, "SB0649": 1, "SB0823": 1}, "amended_bills": ["HB0011", "HB0017", "HB0030", "HB0139", "HB0146", "HB0149", "HB0154", "HB0175", "HB0187", "HB0260", "HB0270", "HB0284", "HB0297", "HB0339", "HB0342", "HB0363", "HB0427", "HB0450", "HB0451", "HB0467", "HB0512", "HB0525", "HB0546", "HB0561", "HB0563", "HB0571", "HB0578", "HB0622", "HB0663", "HB0680", "HB0738", "HB0753", "HB0769", "HB0772", "HB0809", "HB0813", "HB0829", "HB0845", "HB0892", "HB0907", "HB0936", "HB0994", "HB1015", "HB1026", "HB1083", "HB1100", "HB1111", "HB1118", "HB1135", "HB1139", "HB1164", "HB1219", "HB1230", "HB1232", "HB1300", "HB1324", "HB1357", "HB1372", "HB1376", "HB1422", "HB1445", "HB1470", "HB1473", "HB1483", "HB1532", "HB1611", "SB0159", "SB0509", "SB0582", "SB0649", "SB0823"], "amended_bills_count": 71, "new_fiscal_notes": ["HB0420", "HB0654", "HB0666", "HB0701", "HB0706", "HB0817", "HB0982", "HB1014", "HB1069", "HB1167", "HB1168", "HB1353", "HB1445", "HB1574", "SB0039", "SB0649", "SB1003"], "updated_fiscal_notes": ["HB0030", "HB0038", "HB0085", "HB0107", "HB0139", "HB0146", "HB0220", "HB0247", "HB0253", "HB0258", "HB0297", "HB0351", "HB0439", "HB0450", "HB0467", "HB0525", "HB0531", "HB0532", "HB0548", "HB0561", "HB0578", "HB0604", "HB0618", "HB0635", "HB0671", "HB0698", "HB0721", "HB0730", "HB0752", "HB0816", "HB0839", "HB0864", "HB0892", "HB0896", "HB0933", "HB0938", "HB0956", "HB0969", "HB0980", "HB0994", "HB1015", "HB1063", "HB1067", "HB1139", "HB1140", "HB1164", "HB1176", "HB1181", "HB1218", "HB1219", "HB1230", "HB1276", "HB1364", "HB1370", "HB1376", "HB1473", "HB1474", "HB1504", "HB1506", "HB1508", "HB1514", "HB1520", "HB1526", "HB1559", "HB1582", "HB1593", "HB1611", "HB1614", "HB1617", "HB1630", "SB0037", "SB0198", "SB0647", "SB0769", "SB0869", "SB0905", "SB1007"], "new_fiscal_notes_count": 17, "updated_fiscal_notes_count": 77}, {"date": "2026-04-09", "label": "Automated pipeline update 2026-04-10", "is_manual": false, "hash": "65e69bbf", "new_bills": [], "modified_bills": ["HB0145", "HB0420", "HB0450", "HB0500", "HB0654", "HB0666", "HB0694", "HB0700", "HB0701", "HB0706", "HB0817", "HB0982", "HB1069", "HB1168", "HB1214", "HB1353", "HB1445", "HB1574", "HB1587", "HB1598", "HB1604", "SB0181", "SB0649"], "new_bills_count": 0, "modified_bills_count": 23, "amendment_docs_count": 30, "amendment_docs_by_bill": {"HB0014": 1, "HB0107": 1, "HB0141": 1, "HB0195": 1, "HB0308": 1, "HB0315": 2, "HB0338": 1, "HB0351": 1, "HB0426": 1, "HB0497": 1, "HB0501": 1, "HB0548": 1, "HB0552": 1, "HB0573": 1, "HB0798": 1, "HB0864": 1, "HB1026": 1, "HB1063": 1, "HB1067": 2, "HB1076": 1, "HB1118": 1, "HB1181": 1, "HB1259": 1, "HB1312": 1, "HB1430": 1, "HB1448": 1, "HB1523": 1, "SB0461": 1}, "amended_bills": ["HB0014", "HB0107", "HB0141", "HB0195", "HB0308", "HB0315", "HB0338", "HB0351", "HB0426", "HB0497", "HB0501", "HB0548", "HB0552", "HB0573", "HB0798", "HB0864", "HB1026", "HB1063", "HB1067", "HB1076", "HB1118", "HB1181", "HB1259", "HB1312", "HB1430", "HB1448", "HB1523", "SB0461"], "amended_bills_count": 28, "new_fiscal_notes": ["HB1028"], "updated_fiscal_notes": ["HB0014", "HB0074", "HB0085", "HB0089", "HB0319", "HB0423", "HB0443", "HB0561", "HB0617", "HB0624", "HB0669", "HB0687", "HB0828", "HB0849", "HB0866", "HB0870", "HB0895", "HB0911", "HB1001", "HB1016", "HB1091", "HB1223", "HB1239", "HB1243", "HB1321", "HB1430", "HB1448", "HB1530", "SB0246", "SB0792", "SB0972"], "new_fiscal_notes_count": 1, "updated_fiscal_notes_count": 31}, {"date": "2026-04-11", "label": "Automated pipeline update 2026-04-12", "is_manual": false, "hash": "4e150ceb", "new_bills": [], "modified_bills": ["HB0011", "HB0013", "HB0017", "HB0030", "HB0044", "HB0149", "HB0187", "HB0193", "HB0260", "HB0261", "HB0266", "HB0284", "HB0297", "HB0308", "HB0338", "HB0342", "HB0351", "HB0363", "HB0426", "HB0427", "HB0451", "HB0467", "HB0497", "HB0512", "HB0546", "HB0561", "HB0563", "HB0578", "HB0622", "HB0653", "HB0680", "HB0738", "HB0753", "HB0772", "HB0798", "HB0809", "HB0810", "HB0829", "HB0845", "HB0936", "HB0994", "HB0998", "HB1015", "HB1020", "HB1026", "HB1028", "HB1057", "HB1100", "HB1135", "HB1139", "HB1164", "HB1181", "HB1219", "HB1230", "HB1232", "HB1254", "HB1297", "HB1357", "HB1372", "HB1376", "HB1422", "HB1470", "HB1473", "HB1483", "HB1599", "HB1602", "SB0487", "SB0509", "SB0582"], "new_bills_count": 0, "modified_bills_count": 69, "amendment_docs_count": 41, "amendment_docs_by_bill": {"HB0003": 1, "HB0130": 1, "HB0281": 1, "HB0396": 1, "HB0564": 1, "HB0611": 1, "HB0613": 1, "HB0624": 1, "HB0811": 1, "HB0828": 1, "HB0894": 1, "HB0895": 2, "HB0939": 1, "HB0963": 1, "HB1001": 1, "HB1016": 1, "HB1017": 1, "HB1081": 1, "HB1109": 1, "HB1151": 1, "HB1178": 2, "HB1243": 1, "HB1312": 1, "HB1326": 1, "HB1367": 2, "HB1430": 2, "HB1533": 1, "HB1557": 3, "HB1581": 1, "SB0193": 1, "SB0489": 1, "SB0597": 1, "SB0898": 1, "SB0937": 1, "SB1007": 1}, "amended_bills": ["HB0003", "HB0130", "HB0281", "HB0396", "HB0564", "HB0611", "HB0613", "HB0624", "HB0811", "HB0828", "HB0894", "HB0895", "HB0939", "HB0963", "HB1001", "HB1016", "HB1017", "HB1081", "HB1109", "HB1151", "HB1178", "HB1243", "HB1312", "HB1326", "HB1367", "HB1430", "HB1533", "HB1557", "HB1581", "SB0193", "SB0489", "SB0597", "SB0898", "SB0937", "SB1007"], "amended_bills_count": 35, "new_fiscal_notes": ["HB0479", "HB0653", "HB1057", "HB1254", "HB1297", "HB1426", "HB1602", "SB0716"], "updated_fiscal_notes": ["HB0130", "HB0191", "HB0266", "HB0272", "HB0284", "HB0450", "HB0577", "HB0587", "HB0711", "HB0772", "HB0797", "HB0829", "HB0852", "HB0854", "HB0894", "HB0898", "HB0945", "HB1012", "HB1017", "HB1081", "HB1164", "HB1167", "HB1247", "HB1376", "HB1470", "HB1533", "HB1581", "HB1621", "SB0039", "SB0328", "SB0348", "SB0597", "SB0649", "SB0672", "SB0757", "SB0867", "SB0980", "SB1003"], "new_fiscal_notes_count": 8, "updated_fiscal_notes_count": 38}, {"date": "2026-04-12", "label": "Automated pipeline update 2026-04-13", "is_manual": false, "hash": "9013faa1", "new_bills": [], "modified_bills": [], "new_bills_count": 0, "modified_bills_count": 0, "amendment_docs_count": 0, "amendment_docs_by_bill": {}, "amended_bills": [], "amended_bills_count": 0, "new_fiscal_notes": [], "updated_fiscal_notes": ["HB0006"], "new_fiscal_notes_count": 0, "updated_fiscal_notes_count": 1}, {"date": "2026-04-13", "label": "Automated pipeline update 2026-04-14", "is_manual": false, "hash": "130f9ab7", "new_bills": [], "modified_bills": ["HB0050", "HB0130", "HB0270", "HB0281", "HB0315", "HB0479", "HB0501", "HB0525", "HB0548", "HB0552", "HB0571", "HB0613", "HB0624", "HB0633", "HB0811", "HB0828", "HB0864", "HB0895", "HB0918", "HB0939", "HB0963", "HB1001", "HB1016", "HB1017", "HB1076", "HB1151", "HB1178", "HB1300", "HB1326", "HB1367", "HB1426", "HB1430", "HB1448", "SB1002"], "new_bills_count": 0, "modified_bills_count": 34, "amendment_docs_count": 42, "amendment_docs_by_bill": {"HB0006": 1, "HB0014": 1, "HB0103": 1, "HB0107": 1, "HB0139": 1, "HB0141": 1, "HB0153": 1, "HB0168": 1, "HB0182": 1, "HB0191": 1, "HB0299": 1, "HB0336": 1, "HB0493": 1, "HB0518": 1, "HB0547": 1, "HB0573": 1, "HB0575": 1, "HB0587": 1, "HB0640": 1, "HB0769": 1, "HB0898": 1, "HB1063": 1, "HB1105": 1, "HB1109": 1, "HB1118": 1, "HB1247": 1, "HB1248": 1, "HB1341": 1, "HB1452": 2, "HB1532": 1, "HB1587": 1, "SB0159": 1, "SB0246": 1, "SB0328": 1, "SB0348": 1, "SB0489": 1, "SB0594": 2, "SB0672": 1, "SB0937": 1, "SB0980": 1}, "amended_bills": ["HB0006", "HB0014", "HB0103", "HB0107", "HB0139", "HB0141", "HB0153", "HB0168", "HB0182", "HB0191", "HB0299", "HB0336", "HB0493", "HB0518", "HB0547", "HB0573", "HB0575", "HB0587", "HB0640", "HB0769", "HB0898", "HB1063", "HB1105", "HB1109", "HB1118", "HB1247", "HB1248", "HB1341", "HB1452", "HB1532", "HB1587", "SB0159", "SB0246", "SB0328", "SB0348", "SB0489", "SB0594", "SB0672", "SB0937", "SB0980"], "amended_bills_count": 40, "new_fiscal_notes": ["SB1002"], "updated_fiscal_notes": ["HB0106", "HB0222", "HB0299", "HB0420", "HB0500", "HB0523", "HB0598", "HB0654", "HB0666", "HB0700", "HB0701", "HB0768", "HB0915", "HB0980", "HB0982", "HB0993", "HB1069", "HB1117", "HB1132", "HB1151", "HB1168", "HB1214", "HB1341", "HB1353", "HB1445", "HB1483", "HB1574", "HB1587", "HB1598", "HB1599", "HB1602", "HB1604", "SB0841"], "new_fiscal_notes_count": 1, "updated_fiscal_notes_count": 33}];
+const DATE_LABELS = ["Feb 3", "Feb 8", "Feb 9", "Feb 10", "Feb 11", "Feb 12", "Feb 13", "Feb 14", "Feb 15", "Feb 16", "Feb 17", "Feb 18", "Feb 19", "Feb 20", "Feb 21", "Feb 22", "Feb 23", "Feb 24", "Feb 25", "Feb 26", "Feb 27", "Feb 28", "Mar 1", "Mar 2", "Mar 3", "Mar 4", "Mar 5", "Mar 6", "Mar 7", "Mar 8", "Mar 9", "Mar 10", "Mar 11", "Mar 12", "Mar 13", "Mar 14", "Mar 15", "Mar 16", "Mar 17", "Mar 18", "Mar 19", "Mar 21", "Mar 22", "Mar 23", "Mar 24", "Mar 25", "Mar 26", "Mar 27", "Mar 28", "Mar 29", "Mar 30", "Mar 31", "Apr 1", "Apr 3", "Apr 4", "Apr 5", "Apr 8", "Apr 9", "Apr 11", "Apr 12", "Apr 13"];
+const CUM_BILLS = [958, 958, 959, 1122, 1198, 1446, 1593, 1662, 1685, 1685, 1686, 1699, 1708, 1715, 1715, 1715, 1715, 1722, 1726, 1728, 1733, 1733, 1733, 1733, 1735, 1739, 1740, 1746, 1747, 1747, 1747, 1763, 1765, 1766, 1767, 1768, 1768, 1768, 1768, 1768, 1768, 1768, 1768, 1768, 1768, 1768, 1768, 1768, 1768, 1768, 1768, 1768, 1769, 1769, 1769, 1769, 1769, 1769, 1769, 1769, 1769];
+const CUM_AMEND = [0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 3, 3, 3, 3, 3, 3, 3, 8, 9, 9, 9, 9, 9, 9, 13, 13, 13, 13, 13, 13, 13, 15, 15, 15, 15, 15, 15, 17, 46, 48, 63, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 137, 139, 154, 154, 154, 225, 255, 296, 296, 338];
+const CUM_FN = [0, 0, 27, 31, 37, 41, 52, 52, 52, 56, 73, 76, 90, 109, 109, 109, 113, 116, 119, 137, 162, 162, 163, 167, 191, 203, 205, 257, 257, 257, 267, 277, 338, 369, 457, 457, 457, 463, 495, 573, 638, 726, 726, 733, 734, 736, 740, 740, 740, 740, 740, 742, 746, 755, 755, 755, 772, 773, 781, 781, 782];
+
+// ─── Animated counters ──────────────────────────────────────
+function animateCount(el, target) {
+  const duration = 1200;
+  const start = performance.now();
+  const update = (now) => {
+    const progress = Math.min((now - start) / duration, 1);
+    const eased = 1 - Math.pow(1 - progress, 3);
+    el.textContent = Math.round(eased * target).toLocaleString();
+    if (progress < 1) requestAnimationFrame(update);
+  };
+  requestAnimationFrame(update);
+}
+
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(e => {
+    if (e.isIntersecting) {
+      const els = document.querySelectorAll('[data-count]');
+      els.forEach(el => {
+        animateCount(el, +el.dataset.count);
+        el.removeAttribute('data-count');
+      });
+      observer.disconnect();
+    }
+  });
+}, { threshold: 0.3 });
+observer.observe(document.querySelector('.stats-grid'));
+
+// ─── Chart defaults ──────────────────────────────────────────
+Chart.defaults.color = '#8a8070';
+Chart.defaults.borderColor = 'rgba(196,155,27,0.1)';
+Chart.defaults.font.family = "'Courier Prime', monospace";
+
+// ─── Daily bar chart ─────────────────────────────────────────
+const dailyCtx = document.getElementById('dailyChart').getContext('2d');
+
+const dailySeries = [
+  { label:'New Bills', key:'new_bills_count', color:'rgba(232,190,60,0.85)' },
+  { label:'Modified', key:'modified_bills_count', color:'rgba(74,128,224,0.85)' },
+  { label:'Amendments', key:'amendment_docs_count', color:'rgba(224,53,69,0.85)' },
+  { label:'New FNs', key:'new_fiscal_notes_count', color:'rgba(61,168,110,0.85)' },
+  { label:'Updated FNs', key:'updated_fiscal_notes_count', color:'rgba(123,94,160,0.85)' },
+];
+
+const dailyChart = new Chart(dailyCtx, {
+  type: 'bar',
+  data: {
+    labels: DATE_LABELS,
+    datasets: dailySeries.map(s => ({
+      label: s.label,
+      data: DATA.map(d => d[s.key]),
+      backgroundColor: s.color,
+      borderColor: 'transparent',
+      borderRadius: 2,
+      borderSkipped: false,
+    }))
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    interaction: { mode: 'index', intersect: false },
+    plugins: {
+      legend: { display: false },
+      tooltip: {
+        backgroundColor: '#161a25',
+        borderColor: 'rgba(196,155,27,0.3)',
+        borderWidth: 1,
+        titleColor: '#e8be3c',
+        bodyColor: '#e8e0cc',
+        padding: 12,
+        callbacks: {
+          title: (items) => {
+            const d = DATA[items[0].dataIndex];
+            return d.date;
+          }
+        }
+      },
+    },
+    scales: {
+      x: {
+        stacked: true,
+        grid: { display: false },
+        ticks: {
+          maxRotation: 45,
+          font: { size: 9 },
+          maxTicksLimit: 20,
+        },
+      },
+      y: {
+        stacked: true,
+        grid: { color: 'rgba(196,155,27,0.07)' },
+        ticks: { font: { size: 9 } },
+      },
+    },
+    onClick: (evt, elements) => {
+      if (elements.length) openPanel(DATA[elements[0].index]);
+    },
+    animation: {
+      duration: 900,
+      easing: 'easeOutQuart',
+    },
+  }
+});
+
+// Toggle legend buttons
+document.getElementById('mainLegend').querySelectorAll('.legend-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const idx = +btn.dataset.series;
+    const meta = dailyChart.getDatasetMeta(idx);
+    meta.hidden = !meta.hidden;
+    btn.classList.toggle('active');
+    dailyChart.update();
+  });
+});
+
+// ─── Cumulative chart ────────────────────────────────────────
+const cumCtx = document.getElementById('cumulativeChart').getContext('2d');
+new Chart(cumCtx, {
+  type: 'line',
+  data: {
+    labels: DATE_LABELS,
+    datasets: [
+      {
+        label: 'Bills',
+        data: CUM_BILLS,
+        borderColor: '#e8be3c',
+        backgroundColor: 'rgba(232,190,60,0.08)',
+        fill: true,
+        tension: 0.4,
+        pointRadius: 0,
+        pointHoverRadius: 5,
+        borderWidth: 2,
+      },
+      {
+        label: 'Amendments',
+        data: CUM_AMEND,
+        borderColor: '#e03545',
+        backgroundColor: 'rgba(224,53,69,0.06)',
+        fill: true,
+        tension: 0.4,
+        pointRadius: 0,
+        pointHoverRadius: 5,
+        borderWidth: 2,
+      },
+      {
+        label: 'New Fiscal Notes',
+        data: CUM_FN,
+        borderColor: '#3da86e',
+        backgroundColor: 'rgba(61,168,110,0.06)',
+        fill: true,
+        tension: 0.4,
+        pointRadius: 0,
+        pointHoverRadius: 5,
+        borderWidth: 2,
+      },
+    ],
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    interaction: { mode: 'index', intersect: false },
+    plugins: {
+      legend: {
+        display: true,
+        position: 'top',
+        labels: {
+          boxWidth: 12,
+          boxHeight: 12,
+          font: { size: 9 },
+          padding: 16,
+          usePointStyle: true,
+        },
+      },
+      tooltip: {
+        backgroundColor: '#161a25',
+        borderColor: 'rgba(196,155,27,0.3)',
+        borderWidth: 1,
+        titleColor: '#e8be3c',
+        bodyColor: '#e8e0cc',
+        padding: 10,
+      },
+    },
+    scales: {
+      x: {
+        grid: { display: false },
+        ticks: { font: { size: 8 }, maxTicksLimit: 12, maxRotation: 0 },
+      },
+      y: {
+        grid: { color: 'rgba(196,155,27,0.07)' },
+        ticks: { font: { size: 8 } },
+      },
+    },
+    animation: { duration: 1200, easing: 'easeOutQuart' },
+  }
+});
+
+// ─── Heatmap ─────────────────────────────────────────────────
+(function buildHeatmap() {
+  const container = document.getElementById('heatmap');
+  const tooltip = document.getElementById('hmTooltip');
+
+  // Build a map of date → data
+  const byDate = {};
+  DATA.forEach(d => { byDate[d.date] = d; });
+
+  const totalActivity = d => d.new_bills_count + d.modified_bills_count +
+    d.amendment_docs_count + d.new_fiscal_notes_count + d.updated_fiscal_notes_count;
+  const maxActivity = Math.max(...DATA.map(totalActivity));
+
+  function colorForActivity(n) {
+    if (n === 0) return '#1c2130';
+    const t = n / maxActivity;
+    if (t < 0.2) return '#2a3820';
+    if (t < 0.4) return '#3a5c28';
+    if (t < 0.65) return '#5a8c30';
+    if (t < 0.85) return '#a0b428';
+    return '#c49b1b';
+  }
+
+  // Find start of first week containing first date
+  const firstDate = new Date(DATA[0].date + 'T00:00:00');
+  const lastDate = new Date(DATA[DATA.length - 1].date + 'T00:00:00');
+  const gridStart = new Date(firstDate);
+  gridStart.setDate(gridStart.getDate() - gridStart.getDay()); // back to Sunday
+
+  const days = ['S','M','T','W','T','F','S'];
+
+  // Column headers (week labels) — we'll add them as we go
+  const weeks = [];
+  let cur = new Date(gridStart);
+  while (cur <= lastDate) {
+    weeks.push(new Date(cur));
+    cur.setDate(cur.getDate() + 7);
+  }
+
+  // Set grid columns
+  container.style.gridTemplateColumns = `20px repeat(${weeks.length}, 18px)`;
+
+  // Row 0: week labels (month labels)
+  const emptyCorner = document.createElement('div');
+  container.appendChild(emptyCorner);
+  let lastMonth = -1;
+  weeks.forEach(weekStart => {
+    const label = document.createElement('div');
+    label.className = 'heatmap-week-label';
+    const m = weekStart.getMonth();
+    if (m !== lastMonth) {
+      const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+      label.textContent = months[m];
+      lastMonth = m;
+    }
+    container.appendChild(label);
+  });
+
+  // Rows 1–7: day labels + cells
+  days.forEach((dayName, dayIdx) => {
+    const label = document.createElement('div');
+    label.className = 'heatmap-day-label';
+    label.textContent = dayName;
+    container.appendChild(label);
+
+    weeks.forEach(weekStart => {
+      const cellDate = new Date(weekStart);
+      cellDate.setDate(cellDate.getDate() + dayIdx);
+      const dateStr = cellDate.toISOString().split('T')[0];
+
+      const cell = document.createElement('div');
+      cell.className = 'heatmap-cell';
+
+      const d = byDate[dateStr];
+      if (!d) {
+        cell.classList.add('no-data');
+        cell.style.setProperty('--cell-color', '#1c2130');
+        cell.style.opacity = '0.2';
+        cell.setAttribute('aria-hidden', 'true');
+      } else {
+        const activity = totalActivity(d);
+        cell.style.setProperty('--cell-color', colorForActivity(activity));
+        // Accessible label for keyboard/screen-reader users
+        cell.setAttribute('tabindex', '0');
+        cell.setAttribute('role', 'button');
+        cell.setAttribute('aria-label',
+          `${d.date}: ${d.new_bills_count} new bills, ${d.modified_bills_count} modified, ` +
+          `${d.amendment_docs_count} amendments, ${d.new_fiscal_notes_count} new fiscal notes`
+        );
+        cell.addEventListener('mouseenter', (e) => {
+          tooltip.style.display = 'block';
+          document.getElementById('ttDate').textContent = d.date;
+          document.getElementById('ttNew').textContent = d.new_bills_count;
+          document.getElementById('ttMod').textContent = d.modified_bills_count;
+          document.getElementById('ttAmd').textContent = d.amendment_docs_count;
+          document.getElementById('ttFn').textContent = d.new_fiscal_notes_count + ' new · ' + d.updated_fiscal_notes_count + ' updated';
+          positionTooltip(e);
+        });
+        cell.addEventListener('mousemove', positionTooltip);
+        cell.addEventListener('mouseleave', () => { tooltip.style.display = 'none'; });
+        cell.addEventListener('click', () => openPanel(d));
+        cell.addEventListener('keydown', (e) => {
+          if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); openPanel(d); }
+        });
+      }
+      container.appendChild(cell);
+    });
+  });
+
+  function positionTooltip(e) {
+    const x = e.clientX + 14, y = e.clientY + 14;
+    tooltip.style.left = Math.min(x, window.innerWidth - 200) + 'px';
+    tooltip.style.top = y + 'px';
+  }
+})();
+
+// ─── Table ───────────────────────────────────────────────────
+(function buildTable() {
+  const tbody = document.getElementById('tableBody');
+  const maxTotal = Math.max(...DATA.map(d =>
+    d.new_bills_count + d.modified_bills_count + d.amendment_docs_count +
+    d.new_fiscal_notes_count + d.updated_fiscal_notes_count
+  ));
+
+  DATA.slice().reverse().forEach(d => {
+    const tr = document.createElement('tr');
+    tr.addEventListener('click', () => openPanel(d));
+
+    const dateLabel = new Date(d.date + 'T12:00:00').toLocaleDateString('en-US', {
+      weekday: 'short', month: 'short', day: 'numeric'
+    });
+
+    const total = d.new_bills_count + d.modified_bills_count + d.amendment_docs_count +
+      d.new_fiscal_notes_count + d.updated_fiscal_notes_count;
+    const barW = Math.round(total / maxTotal * 80);
+
+    tr.innerHTML = `
+      <td class="date-cell">${dateLabel}</td>
+      <td>
+        <span class="spark-bar" style="width:${barW}px;background:linear-gradient(90deg,rgba(232,190,60,0.6),rgba(196,155,27,0.3))"></span>
+        <span style="font-family:'Courier Prime',monospace;font-size:0.72rem;color:var(--text-muted)">${total}</span>
+      </td>
+      <td class="num num-new">${d.new_bills_count || '—'}</td>
+      <td class="num num-mod">${d.modified_bills_count || '—'}</td>
+      <td class="num num-amd">${d.amendment_docs_count || '—'}</td>
+      <td class="num num-fn">${d.new_fiscal_notes_count || '—'}</td>
+      <td class="num num-fnu">${d.updated_fiscal_notes_count || '—'}</td>
+    `;
+    tbody.appendChild(tr);
+  });
+})();
+
+// ─── Detail panel ────────────────────────────────────────────
+function openPanel(d) {
+  const panel = document.getElementById('detailPanel');
+  const overlay = document.getElementById('overlay');
+
+  document.getElementById('dpDate').textContent =
+    new Date(d.date + 'T12:00:00').toLocaleDateString('en-US', {
+      weekday: 'long', month: 'long', day: 'numeric', year: 'numeric'
+    });
+  document.getElementById('dpLabel').textContent = d.label;
+
+  const body = document.getElementById('dpBody');
+  body.innerHTML = '';
+
+  function makeSection(title, bills, color, key) {
+    if (!bills || bills.length === 0) return;
+    const sec = document.createElement('div');
+    sec.className = 'detail-section';
+    sec.innerHTML = `
+      <div class="detail-section-title" style="color:${color}">
+        ${title} <span class="count">${bills.length}</span>
+      </div>
+      <div class="bill-list">${
+        bills.map(b => `<a href="https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/${b}?ys=2026rs" target="_blank" rel="noopener" class="bill-tag" style="--tag-color:${color};text-decoration:none">${b}</a>`).join('')
+      }</div>
+    `;
+    body.appendChild(sec);
+  }
+
+  makeSection('New Bills Introduced', d.new_bills, 'var(--new-bills)');
+  makeSection('Bills Modified', d.modified_bills, 'var(--modified)');
+  makeSection('Bills Receiving Amendments', d.amended_bills, 'var(--amendments)');
+  makeSection('New Fiscal Notes', d.new_fiscal_notes, 'var(--fn-new)');
+  makeSection('Updated Fiscal Notes', d.updated_fiscal_notes, 'var(--fn-updated)');
+
+  if (!body.children.length) {
+    body.innerHTML = '<div style="color:var(--text-muted);font-size:0.85rem;padding:1rem 0">No bill-level changes recorded for this run.</div>';
+  }
+
+  panel.classList.add('open');
+  panel.setAttribute('aria-hidden', 'false');
+  overlay.classList.add('visible');
+  overlay.setAttribute('aria-hidden', 'true'); // overlay itself stays hidden to AT
+
+  // Move focus into panel for keyboard/screen-reader users (WCAG 2.4.3)
+  const closeBtn = panel.querySelector('.detail-close');
+  if (closeBtn) closeBtn.focus();
+
+  // Trap focus within panel while open
+  panel._prevFocus = document.activeElement;
+}
+
+function closePanel() {
+  const panel = document.getElementById('detailPanel');
+  panel.classList.remove('open');
+  panel.setAttribute('aria-hidden', 'true');
+  document.getElementById('overlay').classList.remove('visible');
+  // Restore focus to element that triggered the panel (WCAG 2.4.3)
+  if (panel._prevFocus) panel._prevFocus.focus();
+}
+
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') closePanel();
+});
+</script>
+</body>
+</html>
