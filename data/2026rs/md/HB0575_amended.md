@@ -2,113 +2,109 @@
 START OF PAGE 1
 HOUSE BILL 575
 
-F1 6lr1261
+F1 (6lr1261)
+ENROLLED BILL
+— Ways and Means/Education, Energy, and the Environment —
+Introduced by Delegates Wilkins, Addison, Coley, Ebersole,
+Feldmark, Mireku–North, Palakovich Carr, Pasteur, Patterson, Roberson,
+Vogel, Wims, and Young
 
-By: ~~Delegate~~ ~~Wilkins~~ Delegates Wilkins, Addison, Coley, Ebersole, Feldmark,
-Mireku–North, Palakovich Carr, Pasteur, Patterson, Roberson, Vogel,
-Wims, and Young
-Introduced and read first time: January 28, 2026
-Assigned to: Ways and Means
+Read and Examined by Proofreaders:
 
-Committee Report: Favorable with amendments
-House action: Adopted
-Read second time: March 6, 2026
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+
+Sealed with the Great Seal and presented to the Governor, for his approval this
+
+_______ day of _______________ at ________________________ o’clock, ________M.
+
+______________________________________________
+Speaker.
 
 CHAPTER ______
 
 1 AN ACT concerning
 
-2 Public Schools – Student Attendance – Excused or Discretionary Absences for Civic Engagement
+2 Public Schools – Student Attendance – Excused or Discretionary Absences for
+3 Civic Engagement
 
-3 3 requiring the student attendance policy of ~~the~~ ~~State~~ ~~Department~~ ~~of~~ ~~Education~~ ~~and~~ each county board of
-4 education to include a provision allowing an excused or discretionary absence for a public school student participating in civic engagement
-5 activities; requiring a county board to adopt certain policies
-6 and procedures; and generally relating to student attendance in public schools and
-7 excused or discretionary absences.
+4 FOR the purpose of requiring the student attendance policy of each county board of
+5 education to include a provision allowing an excused or discretionary absence for a
+6 public school student participating in civic engagement activities; requiring a
+7 county board to adopt certain policies and procedures; and generally relating to
+8 student attendance in public schools and excused or discretionary absences.
 
-8 BY adding to
-9 Article – Education
-10 Section 7–301.4
-11 Annotated Code of Maryland
-12 (2025 Replacement Volume and 2025 Supplement)
-
-13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-14 That the Laws of Maryland read as follows:
-
-15 Article – Education
-
-16 7–301.4.
-
-17 (A) IN THIS SECTION, “LEGISLATIVE BODY” MEANS AN ENTITY THAT:
+9 BY adding to
+10 Article – Education
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
 [Brackets] indicate matter deleted from existing law.
 Underlining indicates amendments to bill.
 ~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
-amendment. *hb0575*
+amendment.
+Italics indicate opposite chamber/conference committee amendments.*hb0575*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 575
 
-1 (1) MEETS TO SET OR CARRY OUT PUBLIC POLICY;
+1 Section 7–301.4
+2 Annotated Code of Maryland
+3 (2025 Replacement Volume and 2025 Supplement)
 
-2 (2) IS SUBJECT TO THE OPEN MEETINGS ACT; AND
+4 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+5 That the Laws of Maryland read as follows:
 
-3 (3) CONSISTS OF MEMBERS WHO ARE ELECTED OR APPOINTED BY
-4 THE GOVERNOR OR A LOCAL EXECUTIVE AUTHORITY.
+6 Article – Education
 
-5 (B) (1) THE STUDENT ATTENDANCE POLICY OF A COUNTY BOARD
-6 SHALL INCLUDE A PROVISION ALLOWING AN EXCUSED OR DISCRETIONARY
-7 ABSENCE FOR A PUBLIC SCHOOL STUDENT PARTICIPATING IN CIVIC
-8 ENGAGEMENT ACTIVITIES.
+7 7–301.4.
 
-9 (2) CIVIC ENGAGEMENT ACTIVITIES SHALL INCLUDE:
+8 (B) (1) THE STUDENT ATTENDANCE POLICY OF A COUNTY BOARD
+9 SHALL INCLUDE A PROVISION ALLOWING AN EXCUSED OR DISCRETIONARY
+10 ABSENCE FOR A PUBLIC SCHOOL STUDENT PARTICIPATING IN CIVIC
+11 ENGAGEMENT ACTIVITIES.
 
-10 (I) TESTIFYING VIRTUALLY OR IN PERSON AT A HEARING OF ANY
-11 COMMITTEE OF THE GENERAL ASSEMBLY A LEGISLATIVE BODY; OR
+12 (2) CIVIC ENGAGEMENT ACTIVITIES SHALL INCLUDE:
 
-12 (II) MEETING WITH ~~LEGISLATORS~~ MEMBERS OF A
-13 LEGISLATIVE BODY;
+13 (I) TESTIFYING VIRTUALLY OR IN PERSON AT A
+14 HEARING OF ANY COMMITTEE OF THE GENERAL ASSEMBLY A LEGISLATIVE
+15 BODY; OR
 
-15 (III) ADVOCATING FOR OR AGAINST LEGISLATION AND
-16 CONTRIBUTING TO THE CONSIDERATION, DEVELOPMENT, OR IMPLEMENTATION OF
-17 POLICY ISSUES; AND
+16 (II) MEETING WITH MEMBERS OF A LEGISLATIVE BODY;
 
-18 3. OTHER ACTIVITIES DEEMED TO BE CIVIC
-19 ENGAGEMENT BY THE DEPARTMENT AND THE APPLICABLE COUNTY BOARD AND
+17 IF, DURING A REGULAR SESSION OF THE GENERAL ASSEMBLY A LEGISLATIVE
+18 BODY, THE STUDENT:
 
-20 (IV) PARTICIPATING IN THE MARYLAND GENERAL ASSEMBLY
-21 PAGE PROGRAM.
-
-22 (3) (I) IF THE ATTENDANCE POLICY REQUIRES A NOTE TO EXCUSE
-23 AN ABSENCE, THE POLICY SHALL AUTHORIZE AN APPROPRIATE REPRESENTATIVE
-24 TO PROVIDE A NOTE OR REASONABLE DOCUMENTATION TO EXCUSE THE STUDENT’S
-25 ABSENCE.
-
-26 (II) AN EXCUSED ABSENCE UNDER THIS SECTION IS A LAWFUL
-27 ABSENCE AND MAY NOT BE INCLUDED IN A CALCULATION OF CHRONIC
-28 ABSENTEEISM FOR THE STUDENT OR THE SCHOOL.
-
-29 (B) (C) A COUNTY BOARD SHALL ADOPT POLICIES AND
-30 PROCEDURES TO CARRY OUT THE REQUIREMENTS OF THIS SECTION.
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 575 3
 
-12 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
-13 1, 2026.
+1 (II) AN EXCUSED ABSENCE UNDER THIS SECTION IS A LAWFUL
+2 ABSENCE AND MAY NOT BE INCLUDED IN A CALCULATION OF CHRONIC
+3 ABSENTEEISM FOR THE STUDENT OR THE SCHOOL.
 
-Approved:
+4 (B) (C) A COUNTY BOARD SHALL ADOPT POLICIES AND
+5 PROCEDURES TO CARRY OUT THE REQUIREMENTS OF THIS SECTION.
 
-________________________________________________________________________________
-Governor.
+6 (2) POLICIES AND PROCEDURES ADOPTED UNDER THIS SUBSECTION
+7 SHALL AUTHORIZE A STUDENT TO BE EXCUSED FOR AT:
 
-________________________________________________________________________________
-Speaker of the House of Delegates.
+8 (I) AT LEAST 15 HOURS OR 2 SCHOOL DAYS TO TESTIFY OR
+9 CONDUCT CIVIC ENGAGEMENT ACTIVITIES UNDER SUBSECTION (A)(1) (B)(1)(I) OR
+10 (II) OF THIS SECTION; OR
 
-________________________________________________________________________________
-President of the Senate.
+11 (II) THE LENGTH OF TIME OF THE PAGE PROGRAM FOR CIVIC
+12 ENGAGEMENT CONDUCTED UNDER SUBSECTION (B)(1)(III) OF THIS SECTION.
+
+13 (3) EXCUSED ABSENCES FOR TESTIFYING OR CONDUCTING CIVIC
+14 ENGAGEMENT ACTIVITIES UNDER SUBSECTION (B)(1) OF THIS SECTION SHALL BE IN
+15 ADDITION TO ANY EXCUSED ABSENCES UNDER EXISTING POLICIES OR PROCEDURES
+16 OF THE COUNTY BOARD.
+
+17 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+18 1, 2026.
 END OF PAGE 3
 </bill>
