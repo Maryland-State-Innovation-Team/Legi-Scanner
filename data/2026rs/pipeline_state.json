@@ -181,8 +181,8 @@
   },
   "HB0003": {
     "first_seen": "2026-02-06T19:22:21.170477",
-    "last_updated": "2026-04-15T05:43:09.047562",
-    "last_seen": "2026-04-15T05:43:09.047562",
+    "last_updated": "2026-04-16T05:44:53.386472",
+    "last_seen": "2026-04-16T05:44:53.386472",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -314,8 +314,8 @@
     "amended_status": "amended",
     "amend_input_hash": "2e0244a7bf42f09b52823c6bed2b9ed0019c902e81c25fcd71e1403c5b8bbcf2",
     "qa_input_hash": "c6c61b239c3522bf86ed0b673bacff46c44f3b29901f40f256dc11715d88e6f5",
-    "last_updated_local": "2026-04-15T05:49:07.154291",
-    "bill_hash": "c0096463acfcda5ebd3cddc6b35a2cb6"
+    "last_updated_local": "2026-04-16T05:45:41.464843",
+    "bill_hash": "e31566f8abf28d256d5f756cf20d2dd7"
   },
   "HB0004": {
     "first_seen": "2026-02-06T19:22:21.673350",
@@ -960,8 +960,8 @@
   },
   "HB0011": {
     "first_seen": "2026-02-06T19:22:25.487607",
-    "last_updated": "2026-04-12T05:40:36.683587",
-    "last_seen": "2026-04-12T05:40:36.683587",
+    "last_updated": "2026-04-16T05:44:54.288257",
+    "last_seen": "2026-04-16T05:44:54.288257",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -1003,8 +1003,8 @@
     "amended_status": "amended",
     "amend_input_hash": "21f5f240f34770c501861f398ebcc997c164f6b0fac912476b7663a7279ef5be",
     "qa_input_hash": "e9608493f94ed1ac052eb504bb7cf13c469440681b6537a66c5e4722face3827",
-    "last_updated_local": "2026-04-12T05:54:06.507840",
-    "bill_hash": "3547a9742db69d900517f658718a3469"
+    "last_updated_local": "2026-04-16T05:45:41.130698",
+    "bill_hash": "8ad6c3565d135be66e8ba58120d0194d"
   },
   "HB0012": {
     "first_seen": "2026-02-06T19:22:25.867107",
@@ -1098,8 +1098,8 @@
   },
   "HB0013": {
     "first_seen": "2026-02-06T19:22:26.420795",
-    "last_updated": "2026-04-14T05:42:45.023159",
-    "last_seen": "2026-04-14T05:42:45.023159",
+    "last_updated": "2026-04-16T05:44:55.303472",
+    "last_seen": "2026-04-16T05:44:55.303472",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -1110,62 +1110,50 @@
       "amendments": []
     },
     "qa_results": {
-      "bill_summary": "The 'Supporting Our 9-1-1 Specialists Act' allows retired 9-1-1 specialists to claim a credit against the State income tax for retirement income attributable to their employment. The credit is calculated as 4.75% of the first $15,000 of eligible retirement income, with a maximum individual credit of $700. The Department of Emergency Management oversees the application process and is limited to issuing a total of $250,000 in credits per taxable year.",
+      "bill_summary": "This bill establishes a nonrefundable State income tax credit for retired 9-1-1 specialists for taxable years 2026 through 2028. The credit is equal to 4.75% of the first $15,000 of retirement income attributable to their service as a 9-1-1 specialist, capped at $700 per individual, with a total statewide annual limit of $250,000.",
       "start_year": 2026,
       "end_year": 2029,
       "funding": 250000,
       "responsible_party": "Maryland Department of Emergency Management and the Comptroller of Maryland",
-      "stakeholders": "Retired 9-1-1 specialists formerly employed by county public safety answering points.",
-      "fiscal_impact_summary": "State general fund revenues will decrease by up to $250,000 annually through fiscal 2029, as the Secretary of Emergency Management is prohibited from approving tax credit certificates exceeding that amount per taxable year. Local income tax revenues are also expected to decrease by an indeterminate amount. The Department of Emergency Management and the Comptroller are expected to manage the bill's implementation with existing resources.",
+      "stakeholders": "Retired 9-1-1 specialists and the Maryland Department of Emergency Management",
+      "fiscal_impact_summary": "General fund revenues are expected to decrease by up to $250,000 annually from fiscal 2027 through 2029 due to the tax credits. General fund expenditures will increase by approximately $41,500 in fiscal 2027, $43,400 in fiscal 2028, and $45,300 in fiscal 2029 for the Maryland Department of Emergency Management to hire a part-time contractual specialist to administer the program. There is no impact on local government finances.",
       "agency_relevance": [
         {
           "agency_name": "Department of Emergency Management",
           "is_relevant": true,
-          "relevance_explanation": "The bill explicitly names the Department of Emergency Management as the agency responsible for administering the tax credit application process, determining applicant eligibility, issuing tax credit certificates to 9-1-1 specialists, managing the annual $250,000 credit cap, and submitting a progress report to the Governor and General Assembly.",
+          "relevance_explanation": "The bill designates the Maryland Department of Emergency Management (MDEM) as the primary agency responsible for administering the tax credit application, approval, and certification process. The Secretary of Emergency Management is also required to submit a report to the Governor and General Assembly on program activity.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Comptroller of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "The Comptroller is responsible for processing the income tax credits on state tax returns. The bill requires the Department of Emergency Management to notify the Comptroller of issued certificates and requires individuals to provide their certificates to the Comptroller.",
-          "relevance_rating": 5
-        },
-        {
-          "agency_name": "Maryland State Retirement Agency",
-          "is_relevant": true,
-          "relevance_explanation": "The tax credit is based on retirement income attributable to service as a 9-1-1 specialist. The Maryland State Retirement Agency manages the retirement systems for public employees and may be required to verify service history or income details for certificate applicants.",
-          "relevance_rating": 3
+          "relevance_explanation": "As the state's chief tax collector, the Comptroller is responsible for processing the income tax credit on individual returns and must be notified by MDEM of individuals to whom certificates have been issued.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "The bill will result in a decrease in general fund revenues. As the state's principal fiscal agency, DBM is responsible for monitoring revenue estimates and the impact of tax credits on the state budget.",
+          "relevance_explanation": "The bill has a notable fiscal impact, reducing general fund revenues by up to $250,000 annually and requiring general fund expenditures for MDEM staffing. DBM oversees the state's budget and revenue estimations.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Secretary of Emergency Management, who reports to the Governor, is tasked with approving the credits. Additionally, the Department of Emergency Management is required to submit a formal report on the credit's utilization to the Governor by December 2028.",
+          "relevance_explanation": "The bill requires the Secretary of Emergency Management to report program results and data on 9-1-1 specialists to the Governor by December 1, 2028.",
           "relevance_rating": 2
-        },
-        {
-          "agency_name": "Maryland Institute for Emergency Medical Services Systems",
-          "is_relevant": true,
-          "relevance_explanation": "MIEMSS coordinates the state's EMS network, which includes 9-1-1 specialists. While they do not have an administrative role in the bill, they are a primary stakeholder in the personnel and operational aspects of emergency dispatch.",
-          "relevance_rating": 1
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "d0b5e777b6149aa0c5c5f23ff16e7f338b50174ccb20535ac8b32e613d5dd24d",
-    "last_updated_local": "2026-04-14T05:46:29.837712",
-    "bill_hash": "8165f5926d1754ca57286c023c7e068d"
+    "qa_input_hash": "b37eab11ceb089a9ec54f11fd0c5b9e8121fdc0a057cf91645d4cd4a55ce55d0",
+    "last_updated_local": "2026-04-16T05:46:07.002711",
+    "bill_hash": "f03e4ae6375ca27fdf055ff819bb119d"
   },
   "HB0014": {
     "first_seen": "2026-02-06T19:22:26.959448",
-    "last_updated": "2026-04-15T05:43:12.019701",
-    "last_seen": "2026-04-15T05:43:12.019701",
+    "last_updated": "2026-04-16T05:44:56.687581",
+    "last_seen": "2026-04-16T05:44:56.687581",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -1225,8 +1213,8 @@
     "amended_status": "amended",
     "amend_input_hash": "e9a701a2d7aa7435192e10be91cfe4945c76795cf015a28a9964b0a62fc0d125",
     "qa_input_hash": "c571cbd288474d8924f57a34268b901f6070fe28825278660039b17f1238ee24",
-    "last_updated_local": "2026-04-15T05:49:28.149380",
-    "bill_hash": "9f8483157eabbf6775dffd6bdc772320"
+    "last_updated_local": "2026-04-16T05:45:41.793724",
+    "bill_hash": "b87e0a0e20c0899ad43e6fc78099db65"
   },
   "HB0015": {
     "first_seen": "2026-02-06T19:22:27.488668",
@@ -8401,8 +8389,8 @@
   },
   "HB0103": {
     "first_seen": "2026-02-06T19:23:15.012086",
-    "last_updated": "2026-04-15T05:43:14.402401",
-    "last_seen": "2026-04-15T05:43:14.402401",
+    "last_updated": "2026-04-16T05:44:57.691168",
+    "last_seen": "2026-04-16T05:44:57.691168",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -8456,8 +8444,8 @@
     "amended_status": "amended",
     "amend_input_hash": "9d4813959c3a28ec25aad44788c996f9cfce3d35bef15b420bce2e8e3b77b37a",
     "qa_input_hash": "f6e377c6e72b546386dde6f8f7d5db3095a111cde110e3b1e925e2006dfa1440",
-    "last_updated_local": "2026-04-15T05:49:04.401972",
-    "bill_hash": "d727dc6dc3a54699d6509a18cf8b6305"
+    "last_updated_local": "2026-04-16T05:45:45.255866",
+    "bill_hash": "16330a697ba5336cc7644693ee6956a4"
   },
   "HB0104": {
     "first_seen": "2026-02-06T19:23:15.530127",
@@ -8814,8 +8802,8 @@
   },
   "HB0107": {
     "first_seen": "2026-02-06T19:23:17.127521",
-    "last_updated": "2026-04-15T05:43:15.362701",
-    "last_seen": "2026-04-15T05:43:15.362701",
+    "last_updated": "2026-04-16T05:44:58.734053",
+    "last_seen": "2026-04-16T05:44:58.734053",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -8893,8 +8881,8 @@
     "amended_status": "amended",
     "amend_input_hash": "d27e39d1f325f183250177db937e66ba15830dc1f4eb258cb0fe7ee69ab433a6",
     "qa_input_hash": "ea8d9d8521284dd040e22bcb9efc843ee480ac35c0506f176a655a666451ae12",
-    "last_updated_local": "2026-04-15T05:53:10.626300",
-    "bill_hash": "6fd2df9ac997782f6af920c6cba38b46"
+    "last_updated_local": "2026-04-16T05:45:45.585479",
+    "bill_hash": "ca33049e59ef4296e708d51085b639be"
   },
   "HB0108": {
     "first_seen": "2026-02-06T19:23:17.605650",
@@ -10832,8 +10820,8 @@
   },
   "HB0130": {
     "first_seen": "2026-02-06T19:23:29.026272",
-    "last_updated": "2026-04-14T05:42:56.823737",
-    "last_seen": "2026-04-14T05:42:56.823737",
+    "last_updated": "2026-04-16T05:44:59.928172",
+    "last_seen": "2026-04-16T05:44:59.928172",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -10893,8 +10881,8 @@
     "amended_status": "amended",
     "amend_input_hash": "04c22090d7dfea4f451fc15342f9baefa596606ee796800028700590dbb06347",
     "qa_input_hash": "b33eea6651d82193902142336c0cc45ba2befde2e5ea969d86557c1903bda5b9",
-    "last_updated_local": "2026-04-14T05:53:05.060340",
-    "bill_hash": "52c48d03a546f4adddd712daf3cc97ba"
+    "last_updated_local": "2026-04-16T05:45:46.077800",
+    "bill_hash": "2434573d2a5de071038fa24a17fdb41e"
   },
   "HB0131": {
     "first_seen": "2026-02-06T19:23:29.695277",
@@ -12431,8 +12419,8 @@
   },
   "HB0149": {
     "first_seen": "2026-02-06T19:23:40.278020",
-    "last_updated": "2026-04-12T05:41:08.192760",
-    "last_seen": "2026-04-12T05:41:08.192760",
+    "last_updated": "2026-04-16T05:45:01.029596",
+    "last_seen": "2026-04-16T05:45:01.029596",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -12516,8 +12504,8 @@
     "amended_status": "amended",
     "amend_input_hash": "25a865db364eec291c1c953a2cb88771f6fd79754f4412dd44ef567574c47e59",
     "qa_input_hash": "b5e6197e6a237001117a0bf09e438cb415bd845f49d4b97590313036424bcd5a",
-    "last_updated_local": "2026-04-12T05:58:17.866467",
-    "bill_hash": "0d370bcbe4a83143e9cafe59b049942f"
+    "last_updated_local": "2026-04-16T05:45:48.604378",
+    "bill_hash": "6ae7481201593768b7a5c85b67e28e0c"
   },
   "HB0150": {
     "first_seen": "2026-02-06T19:23:40.748974",
@@ -12816,8 +12804,8 @@
   },
   "HB0154": {
     "first_seen": "2026-02-06T19:23:43.066147",
-    "last_updated": "2026-04-14T05:43:00.495419",
-    "last_seen": "2026-04-14T05:43:00.495419",
+    "last_updated": "2026-04-16T05:45:02.359337",
+    "last_seen": "2026-04-16T05:45:02.359337",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -12867,8 +12855,8 @@
     "amended_status": "amended",
     "amend_input_hash": "44db0d6fd85a17c108c6897f2b9121394a0efbd62963f3e415339f664024ebc4",
     "qa_input_hash": "f05ee53a8dbeba3e96a4112a245954ed71e450c38802dbf4ea3f26f80c0fa1a4",
-    "last_updated_local": "2026-04-14T05:53:04.372340",
-    "bill_hash": "233cfea8f3f9d9fb5b8cf990520b31e2"
+    "last_updated_local": "2026-04-16T05:45:47.946166",
+    "bill_hash": "f5ea66619dd702f56ef60cc4a9aae825"
   },
   "HB0155": {
     "first_seen": "2026-02-06T19:23:43.669768",
@@ -14137,8 +14125,8 @@
   },
   "HB0168": {
     "first_seen": "2026-02-06T19:23:51.164306",
-    "last_updated": "2026-04-15T05:43:18.766252",
-    "last_seen": "2026-04-15T05:43:18.766252",
+    "last_updated": "2026-04-16T05:45:03.441338",
+    "last_seen": "2026-04-16T05:45:03.441338",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -14216,8 +14204,8 @@
     "amended_status": "amended",
     "amend_input_hash": "b1aa0e4bcd7f6ccf9534834a2f1d455c11001c74d3d268b7eb52206847637d57",
     "qa_input_hash": "6c5e5846b6a69c8a74967605bbb0613eb094fa87e11357eb30439d4cd7fa88bb",
-    "last_updated_local": "2026-04-15T05:52:35.380083",
-    "bill_hash": "edb0a6895077d39fbfc09ef0bf6be445"
+    "last_updated_local": "2026-04-16T05:45:48.276354",
+    "bill_hash": "21827164dc2c22e1ca013ade8924efae"
   },
   "HB0169": {
     "first_seen": "2026-02-06T19:23:51.792608",
@@ -16028,8 +16016,8 @@
   },
   "HB0191": {
     "first_seen": "2026-02-06T19:24:03.596109",
-    "last_updated": "2026-04-15T05:43:21.186319",
-    "last_seen": "2026-04-15T05:43:21.186319",
+    "last_updated": "2026-04-16T05:45:04.569720",
+    "last_seen": "2026-04-16T05:45:04.569720",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -16119,8 +16107,8 @@
     "amended_status": "amended",
     "amend_input_hash": "2b992da8d90ab7f2ec9243b5b2479dbd03fc016bb104ce994ba76295fc7e8fb4",
     "qa_input_hash": "700497958544b8bff84357b7ca434fed7aaeba8438e73e6b7644f7ad4259ad5d",
-    "last_updated_local": "2026-04-15T05:57:03.304377",
-    "bill_hash": "d8f54e98b61769b83fce068da02130b3"
+    "last_updated_local": "2026-04-16T05:45:51.207721",
+    "bill_hash": "c7a20e2791405f603fcbf927035aa489"
   },
   "HB0192": {
     "first_seen": "2026-02-06T19:24:04.181798",
@@ -16190,8 +16178,8 @@
   },
   "HB0193": {
     "first_seen": "2026-02-06T19:24:05.110942",
-    "last_updated": "2026-04-12T05:41:22.825587",
-    "last_seen": "2026-04-12T05:41:22.825587",
+    "last_updated": "2026-04-16T05:45:05.621177",
+    "last_seen": "2026-04-16T05:45:05.621177",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -16202,87 +16190,165 @@
       "amendments": []
     },
     "qa_results": {
-      "bill_summary": "This bill updates Maryland's state procurement procedures by requiring debriefings for unsuccessful bidders, allowing contractors to request contract modifications due to changes in state law, and standardizing the processes and timelines for handling bid protests and contract claims across all types of state procurement. It also adjusts conflict-of-interest rules to allow vendors to provide certain information during the solicitation phase without disqualification.",
+      "bill_summary": "This bill updates Maryland's State procurement laws to improve transparency and streamline procedures. Key changes include requiring debriefings for unsuccessful offerors upon request, establishing a conflict-of-interest exception for providing information that does not create an unfair competitive advantage, and requiring contract clauses that allow for equitable adjustments when performance costs rise due to changes in State law. It also synchronizes and clarifies the timelines and processes for bid protests and contract claims across construction and non-construction contracts.",
       "start_year": 2026,
       "end_year": null,
       "funding": null,
-      "responsible_party": "Office of State Procurement (within the Department of General Services) and unit procurement officers",
-      "stakeholders": "State government units, government contractors, and unsuccessful bidders",
-      "fiscal_impact_summary": "State implementation is expected to be handled with existing resources. While changes to procurement ethics requirements may lead to an increase in bid protests\u2014potentially delaying contract execution and causing cost overruns\u2014the Department of Legislative Services indicates that a reliable estimate of these costs is not feasible. Local government finances are not materially affected.",
+      "responsible_party": "Office of State Procurement (within the Department of General Services) and State procurement units.",
+      "stakeholders": "State agencies, prime contractors, subcontractors, and unsuccessful bidders or offerors.",
+      "fiscal_impact_summary": "The bill's implementation is expected to be handled with existing State resources, and no direct impact on revenues is anticipated. However, the Fiscal Note suggests that changes to procurement ethics could lead to an increase in bid protests, which may cause project delays and indeterminate cost overruns. Local government finances are not materially affected.",
       "agency_relevance": [
-        {
-          "agency_name": "Maryland State Board of Contract Appeals",
-          "is_relevant": true,
-          "relevance_explanation": "The bill significantly alters the procedures, timelines, and legal definitions for bid protests and contract claims, which are the primary focus of the Board's adjudicatory function. The Board is the final administrative body for appeals regarding these procurement disputes.",
-          "relevance_rating": 5
-        },
         {
           "agency_name": "Department of General Services",
           "is_relevant": true,
-          "relevance_explanation": "As the central procurement authority, DGS is specifically tasked by the bill with establishing guidelines and procedures for debriefings via the Office of State Procurement. The agency's core functions in managing state goods and services procurement are directly impacted by the new procedural requirements.",
+          "relevance_explanation": "The bill explicitly tasks the Office of State Procurement, which is housed within the Department of General Services, with establishing guidelines and procedures for contract debriefings. As the central procurement authority, DGS is the primary agency responsible for implementing these procedural changes.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Board of Public Works",
+          "is_relevant": true,
+          "relevance_explanation": "The bill requires that contract debriefings occur before recommended awards are presented to the Board for approval. The Board also oversees the fiscal integrity of procurement contracts and modifications affected by the bill's provisions.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Maryland State Board of Contract Appeals",
+          "is_relevant": true,
+          "relevance_explanation": "The bill significantly alters the timelines, procedures, and final actions related to bid protests and contract claims, which are the primary matters adjudicated by this board. Changes to appeal rights directly impact the board's caseload and operations.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The bill explicitly requires procurement officers to seek the advice of the Office of the Attorney General on any legal issues raised in a protest, formalizing and potentially increasing the agency's workload in procurement matters.",
+          "relevance_explanation": "The bill mandates that procurement officers seek legal advice from the Office of the Attorney General on all legal issues raised in protests and contract claims, increasing the agency's mandatory consultative workload.",
           "relevance_rating": 4
         },
         {
           "agency_name": "Department of Transportation",
           "is_relevant": true,
-          "relevance_explanation": "As a primary procurement unit with massive contract volume across its five administrations, MDOT is heavily impacted by the changes to change orders, contract modifications for equitable adjustments, and the revised procedures for contract claims and protests.",
-          "relevance_rating": 4
+          "relevance_explanation": "As a major multi-modal procurement unit responsible for massive infrastructure and service contracts, MDOT is heavily impacted by changes to construction claim procedures being extended to all contracts and new debriefing requirements.",
+          "relevance_rating": 3
         },
         {
-          "agency_name": "Board of Public Works",
+          "agency_name": "Department of Health",
           "is_relevant": true,
-          "relevance_explanation": "The Board of Public Works must approve significant state contracts and modifications. The bill's requirement that debriefings occur before a recommended award is presented for approval directly impacts the Board's timeline and oversight of the procurement process.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Department of Budget and Management",
-          "is_relevant": true,
-          "relevance_explanation": "As the principal fiscal agency responsible for budget execution and personnel, DBM is relevant due to the fiscal implications of procurement cost overruns mentioned in the fiscal note and its general oversight of state agency expenditures.",
+          "relevance_explanation": "The Department of Health conducts significant procurement for services and facilities and is specifically identified as an impacted agency in the fiscal analysis regarding changes to protest and claim procedures.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Department of Information Technology",
           "is_relevant": true,
-          "relevance_explanation": "DoIT serves as a primary procurement unit for state information technology. The bill's changes to procurement transparency, claims, and protests apply to IT contracts managed by the department.",
+          "relevance_explanation": "The bill includes specific provisions related to nonvisual access clauses for information technology and impacts DoIT's role in coordinating statewide IT procurement strategy and contracts.",
           "relevance_rating": 3
         },
         {
           "agency_name": "University System of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "USM is a major state entity with significant independent procurement activities. The changes to state procurement law regarding debriefings, protests, and contract claims would affect its standard operating procedures for various large-scale projects.",
+          "relevance_explanation": "As a major public entity with significant procurement activity, USM is subject to the changes in state procurement law and is specifically noted as an impacted agency in the fiscal note.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Department of Budget and Management",
+          "is_relevant": true,
+          "relevance_explanation": "As the principal fiscal and personnel agency, DBM oversees budget execution and state agency efficiency, which are impacted by changes in procurement timelines and the potential for cost overruns from contract delays.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Comptroller of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "The Comptroller is a member of the Board of Public Works and is responsible for paying state bills and auditing taxpayers; the changes to contract modification and claim procedures affect the financial oversight and payment of state obligations.",
-          "relevance_rating": 2
+          "relevance_explanation": "The Comptroller serves on the Board of Public Works, which must approve the contracts and modifications subject to the bill's new transparency and procedural rules.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Maryland State Treasurer's Office",
           "is_relevant": true,
-          "relevance_explanation": "The State Treasurer serves on the Board of Public Works, which oversees and approves major procurement contracts and capital projects impacted by the bill's procedural changes.",
+          "relevance_explanation": "The State Treasurer serves on the Board of Public Works and oversees state funds used in the procurement contracts affected by these procedural changes.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Office of Legislative Audits",
+          "is_relevant": true,
+          "relevance_explanation": "OLA is responsible for auditing state agency compliance with laws; it will be tasked with ensuring agencies adhere to the new transparency, debriefing, and certification requirements in the procurement process.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Governor chairs the Board of Public Works and oversees the executive branch; the bill affects the timing and transparency of contract awards that require executive branch approval.",
+          "relevance_explanation": "The Governor oversees the executive branch units implementing these changes and is the final approval authority for the bill; the Office of State Procurement is within the Executive Department's administrative scope.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Governor's Office of Small, Minority & Women Business Affairs",
+          "is_relevant": true,
+          "relevance_explanation": "This office monitors procurement programs across the state; changes to bid protest procedures and contract transparency affect the environment in which small and minority businesses compete for state awards.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Public Safety and Correctional Services",
+          "is_relevant": true,
+          "relevance_explanation": "This department is a significant user of the state procurement system and is listed as an impacted agency regarding the bill's changes to contract management and claim resolution.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Agriculture",
+          "is_relevant": true,
+          "relevance_explanation": "The department was identified as a source of information for the fiscal note, indicating it has procurement activities that will be governed by the new procedural and ethics rules.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Commerce",
+          "is_relevant": true,
+          "relevance_explanation": "As an agency involved in state contracts for economic development, it is impacted by the revised procurement ethics and debriefing requirements.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Emergency Management",
+          "is_relevant": true,
+          "relevance_explanation": "Identified in the fiscal note as an impacted agency that must adjust its procurement practices to comply with the bill's transparency and claim certification mandates.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of the Environment",
+          "is_relevant": true,
+          "relevance_explanation": "Identified in the fiscal note as a procurement unit that will be subject to the altered timelines and procedures for bid protests and contract modifications.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Housing and Community",
+          "is_relevant": true,
+          "relevance_explanation": "This agency conducts procurement for community revitalization and infrastructure, making it subject to the bill's changes in contract claim and change order regulations.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Juvenile Services",
+          "is_relevant": true,
+          "relevance_explanation": "Identified as a procurement unit impacted by the bill, requiring adherence to new debriefing and protest resolution timelines.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Labor",
+          "is_relevant": true,
+          "relevance_explanation": "The Department of Labor is involved in procurement for workforce programs and was consulted regarding the fiscal impact of these procedural changes.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Natural Resources",
+          "is_relevant": true,
+          "relevance_explanation": "DNR manages significant contracts for land and resource management and is specifically noted as being impacted by the bill's procurement reforms.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Maryland State Police",
+          "is_relevant": true,
+          "relevance_explanation": "The agency conducts procurement for equipment and services and is identified in the fiscal note as being affected by the changes to state procurement law.",
           "relevance_rating": 2
         }
       ]
     },
-    "amended_status": "amended",
+    "amended_status": "original",
     "amend_input_hash": "f5866f0e56b0233880b2626394f525738176e239ea6caa86debec1a0fee28fef",
-    "qa_input_hash": "c4225f24ef6c53d46aaf3e431f92f0719aa4ac2f0d1925804d80355a2cc97429",
-    "last_updated_local": "2026-04-12T05:57:23.420567",
-    "bill_hash": "9a46199525e2cf0b188b16cd8b4418fc"
+    "qa_input_hash": "a112da9cec00ee20aeeda51d7a0b87e099b9a42de7d82bb3d4efbfeee7152171",
+    "last_updated_local": "2026-04-16T05:47:00.436160",
+    "bill_hash": "8ff36d211a4b072e07762de967394bf0"
   },
   "HB0194": {
     "first_seen": "2026-02-06T19:24:05.689923",
@@ -21760,8 +21826,8 @@
   },
   "HB0260": {
     "first_seen": "2026-02-06T19:30:11.875190",
-    "last_updated": "2026-04-14T05:43:08.528502",
-    "last_seen": "2026-04-14T05:43:08.528502",
+    "last_updated": "2026-04-16T05:45:06.612149",
+    "last_seen": "2026-04-16T05:45:06.612149",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -21821,8 +21887,8 @@
     "amended_status": "amended",
     "amend_input_hash": "85f53f6a21a8c59c12d73302e75886228096bb4d1a2cbf9ef776ada2d5df7718",
     "qa_input_hash": "8f0904846c3099e61217504711d8c270d8a366b9ca9fa347fcadfb82f63c2f2e",
-    "last_updated_local": "2026-04-14T05:55:15.728906",
-    "bill_hash": "d12bd30d31e78c79ea8183ea239a1af1"
+    "last_updated_local": "2026-04-16T05:45:50.548662",
+    "bill_hash": "74442e7ff7f12354af39cfb994d4f25c"
   },
   "HB0261": {
     "first_seen": "2026-02-06T19:30:12.406802",
@@ -25891,8 +25957,8 @@
   },
   "HB0308": {
     "first_seen": "2026-02-06T19:30:40.558543",
-    "last_updated": "2026-04-12T05:41:49.184928",
-    "last_seen": "2026-04-12T05:41:49.184928",
+    "last_updated": "2026-04-16T05:45:07.613957",
+    "last_seen": "2026-04-16T05:45:07.613957",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -25970,8 +26036,8 @@
     "amended_status": "amended",
     "amend_input_hash": "8112fd8f13eb34c165278ba92cb377be711d12aec5f935977582502720e40cdc",
     "qa_input_hash": "3c060085e0e98021e58bad51dc87b00c2e38c02e4903693967901fd6d673a15b",
-    "last_updated_local": "2026-04-12T06:02:09.108109",
-    "bill_hash": "c8d0c58ae0d8daaf4b5f4bb505c36888"
+    "last_updated_local": "2026-04-16T05:45:52.616749",
+    "bill_hash": "17e494c9aafc25b0f515b550216e6d5d"
   },
   "HB0309": {
     "first_seen": "2026-02-06T19:30:41.404074",
@@ -26479,8 +26545,8 @@
   },
   "HB0315": {
     "first_seen": "2026-02-06T19:30:44.775926",
-    "last_updated": "2026-04-14T05:43:14.275293",
-    "last_seen": "2026-04-14T05:43:14.275293",
+    "last_updated": "2026-04-16T05:45:08.812522",
+    "last_seen": "2026-04-16T05:45:08.812522",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -26534,8 +26600,8 @@
     "amended_status": "amended",
     "amend_input_hash": "52037a847b122013d1c5c07b673bcda8ec2f44b6ba33f88160429d63a0c8eeab",
     "qa_input_hash": "3b5e38f8f383169cef4b037711a57c2854218181d6659cff2ddfcb5221423f81",
-    "last_updated_local": "2026-04-14T06:01:09.378417",
-    "bill_hash": "e92310183746e71fda754c5aa7b12836"
+    "last_updated_local": "2026-04-16T05:45:52.947813",
+    "bill_hash": "e1f9b0cb7ed73ee91daa6eead0e4409e"
   },
   "HB0316": {
     "first_seen": "2026-02-06T19:30:45.352145",
@@ -28532,8 +28598,8 @@
   },
   "HB0342": {
     "first_seen": "2026-02-06T19:31:00.176338",
-    "last_updated": "2026-04-12T05:42:04.473075",
-    "last_seen": "2026-04-12T05:42:04.473075",
+    "last_updated": "2026-04-16T05:45:09.867642",
+    "last_seen": "2026-04-16T05:45:09.867642",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -28581,8 +28647,8 @@
     "amended_status": "amended",
     "amend_input_hash": "d3ba68439fa493d3c47b4d434d0553d55a4de84ec28a61e7440e00b315af8c4c",
     "qa_input_hash": "451cfc46da0d89a871f139a0f3483b5c519574eec721a1cbc7ec70ac15df88cb",
-    "last_updated_local": "2026-04-12T06:03:55.401333",
-    "bill_hash": "dd8e68c04a4e0ed698c3a41cbd68175b"
+    "last_updated_local": "2026-04-16T05:45:54.391630",
+    "bill_hash": "cf0365362d7c7730759cd896f64c7a95"
   },
   "HB0343": {
     "first_seen": "2026-02-06T19:31:00.612306",
@@ -29225,8 +29291,8 @@
   },
   "HB0351": {
     "first_seen": "2026-02-06T19:31:05.132689",
-    "last_updated": "2026-04-15T05:43:58.083438",
-    "last_seen": "2026-04-15T05:43:58.083438",
+    "last_updated": "2026-04-16T05:45:11.081442",
+    "last_seen": "2026-04-16T05:45:11.081442",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -29322,8 +29388,8 @@
     "amended_status": "amended",
     "amend_input_hash": "67eff268a4bbbd94c7af3bfa87d9a8953a57f74cfe44a89ad3bfa95c9688706b",
     "qa_input_hash": "376bf6958482c09d0d3ce11bd7a26975857f741cbf7b907132697113ab9c2587",
-    "last_updated_local": "2026-04-15T05:53:03.103280",
-    "bill_hash": "af8b0221eb30c2cdb01469218b18b2ba"
+    "last_updated_local": "2026-04-16T05:45:54.721752",
+    "bill_hash": "2d77ae994a525728e5f370cf5b9e7116"
   },
   "HB0352": {
     "first_seen": "2026-02-06T19:31:05.557994",
@@ -35863,8 +35929,8 @@
   },
   "HB0426": {
     "first_seen": "2026-02-06T19:31:49.459190",
-    "last_updated": "2026-04-12T05:42:21.723159",
-    "last_seen": "2026-04-12T05:42:21.723159",
+    "last_updated": "2026-04-16T05:45:12.144102",
+    "last_seen": "2026-04-16T05:45:12.144102",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -35918,8 +35984,8 @@
     "amended_status": "amended",
     "amend_input_hash": "1c35c77218a1252b9f3abeea211e6f9660b5dfecdadfd8480bbc0a8cc786bd9c",
     "qa_input_hash": "4befc594ee3ba19cf587ba1e682d7154bcba19043ec7ad6980c7d58582bb85e2",
-    "last_updated_local": "2026-04-12T06:06:06.486446",
-    "bill_hash": "85ba05c23781b8ed7526fb61ba7ef08d"
+    "last_updated_local": "2026-04-16T05:45:56.187280",
+    "bill_hash": "20af7bed87a5b1920107373eaf35a106"
   },
   "HB0427": {
     "first_seen": "2026-02-06T19:31:50.094557",
@@ -37797,8 +37863,8 @@
   },
   "HB0451": {
     "first_seen": "2026-02-06T19:32:03.445414",
-    "last_updated": "2026-04-12T05:42:33.805408",
-    "last_seen": "2026-04-12T05:42:33.805408",
+    "last_updated": "2026-04-16T05:45:13.204441",
+    "last_seen": "2026-04-16T05:45:13.204441",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -37900,8 +37966,8 @@
     "amended_status": "amended",
     "amend_input_hash": "50d0e1544909faa70f28a803a939c8728f52260e8ab491838a568ec24a6342c4",
     "qa_input_hash": "83473c2eec4861b5ca297cf8e66c95c17d03be349fcd07528972ef098ee8a8bd",
-    "last_updated_local": "2026-04-12T06:08:57.861592",
-    "bill_hash": "d4952c31b62629bbf6f63dbcaf3dbc36"
+    "last_updated_local": "2026-04-16T05:45:56.517575",
+    "bill_hash": "e8cb29556f4156f5669221cd5e395170"
   },
   "HB0452": {
     "first_seen": "2026-02-06T19:32:03.910092",
@@ -39175,8 +39241,8 @@
   },
   "HB0467": {
     "first_seen": "2026-02-06T19:32:12.333188",
-    "last_updated": "2026-04-15T05:44:03.572013",
-    "last_seen": "2026-04-15T05:44:03.572013",
+    "last_updated": "2026-04-16T05:45:14.248366",
+    "last_seen": "2026-04-16T05:45:14.248366",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -39260,8 +39326,8 @@
     "amended_status": "original",
     "amend_input_hash": "62508113f1a6a003eaba97b4af56795f5f70d1fca962496a90e09234ccbe7506",
     "qa_input_hash": "11ca4069d812f4aa74acf8c33b63c1bd4a7ae425f68b35c00acc56c86e416372",
-    "last_updated_local": "2026-04-15T05:53:35.630041",
-    "bill_hash": "d26b101dddfc53368d104f32f379d1a1"
+    "last_updated_local": "2026-04-16T05:45:58.232592",
+    "bill_hash": "e4f6183acadc155e5970dbe05ba48213"
   },
   "HB0468": {
     "first_seen": "2026-02-06T19:32:12.829969",
@@ -40173,8 +40239,8 @@
   },
   "HB0479": {
     "first_seen": "2026-02-06T19:32:18.838916",
-    "last_updated": "2026-04-14T05:43:29.638221",
-    "last_seen": "2026-04-14T05:43:29.638221",
+    "last_updated": "2026-04-16T05:45:15.225093",
+    "last_seen": "2026-04-16T05:45:15.225093",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -40276,8 +40342,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "bdbff6b89dd2a6081d38f70d741052c91e1d80bf22081a1e2151b90b2871bead",
-    "last_updated_local": "2026-04-14T06:00:14.102248",
-    "bill_hash": "af8c54158e5cd9f18d076f04503a44c0"
+    "last_updated_local": "2026-04-16T05:45:58.569159",
+    "bill_hash": "774d4907a5df7367fd06df6f86437df4"
   },
   "HB0480": {
     "first_seen": "2026-02-06T19:32:19.377359",
@@ -41801,8 +41867,8 @@
   },
   "HB0501": {
     "first_seen": "2026-02-06T19:32:32.962947",
-    "last_updated": "2026-04-14T05:43:32.604414",
-    "last_seen": "2026-04-14T05:43:32.604414",
+    "last_updated": "2026-04-16T05:45:16.234540",
+    "last_seen": "2026-04-16T05:45:16.234540",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -41880,8 +41946,8 @@
     "amended_status": "amended",
     "amend_input_hash": "df749234890ed37d7642d40fa3d1f775c11f492f7100df7ee7d84b3147f3282a",
     "qa_input_hash": "d4d28a08a3131159aca41d29ab3897e3c5254c0bb55b3dcbbff61373c10eca8d",
-    "last_updated_local": "2026-04-14T06:04:00.640787",
-    "bill_hash": "921f05ec887c3ef9b2850a49138d5c4b"
+    "last_updated_local": "2026-04-16T05:45:59.812083",
+    "bill_hash": "6efc52c866a1019f3daf0719361e49ed"
   },
   "HB0502": {
     "first_seen": "2026-02-06T19:32:33.463633",
@@ -43534,8 +43600,8 @@
   },
   "HB0525": {
     "first_seen": "2026-02-06T19:32:47.117911",
-    "last_updated": "2026-04-14T05:43:36.118642",
-    "last_seen": "2026-04-14T05:43:36.118642",
+    "last_updated": "2026-04-16T05:45:17.340308",
+    "last_seen": "2026-04-16T05:45:17.340308",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -43607,8 +43673,8 @@
     "amended_status": "amended",
     "amend_input_hash": "ec11e8455e1f36c49fe5ad7dc68ba8daa6a10f8e2d513966c0a1ac5228ae7080",
     "qa_input_hash": "1d4ec5ac00d968c53937493e7ca8ce75a02878da2b571eecbc5121ab70d3395a",
-    "last_updated_local": "2026-04-14T06:05:20.871433",
-    "bill_hash": "848001215fdcdc5c1187a2c87856fd96"
+    "last_updated_local": "2026-04-16T05:46:00.143548",
+    "bill_hash": "576ca7fdb487c75465baa93a3df70ff2"
   },
   "HB0526": {
     "first_seen": "2026-02-06T19:32:47.807556",
@@ -47499,8 +47565,8 @@
   },
   "HB0578": {
     "first_seen": "2026-02-06T19:33:20.656120",
-    "last_updated": "2026-04-12T05:43:27.612529",
-    "last_seen": "2026-04-12T05:43:27.612529",
+    "last_updated": "2026-04-16T05:45:18.528546",
+    "last_seen": "2026-04-16T05:45:18.528546",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -47620,8 +47686,8 @@
     "amended_status": "amended",
     "amend_input_hash": "a7ca80f72714d41da45ced409c06e96d3abd819f8337f3afc10c05f4f51b8c5c",
     "qa_input_hash": "cae853749bffa9c4200be390110e47a1fefc8f39f067e00dfb91bae59e5716f0",
-    "last_updated_local": "2026-04-12T06:14:47.946508",
-    "bill_hash": "bd41d02b268e6c900489d56f2ad937b2"
+    "last_updated_local": "2026-04-16T05:46:02.033149",
+    "bill_hash": "0c632062f74d1a09bccca97a45424eb2"
   },
   "HB0579": {
     "first_seen": "2026-02-06T19:33:21.351077",
@@ -62521,8 +62587,8 @@
   },
   "HB0769": {
     "first_seen": "2026-02-06T19:35:12.034659",
-    "last_updated": "2026-04-15T05:44:29.805458",
-    "last_seen": "2026-04-15T05:44:29.805458",
+    "last_updated": "2026-04-16T05:45:19.765970",
+    "last_seen": "2026-04-16T05:45:19.765970",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -62606,8 +62672,8 @@
     "amended_status": "amended",
     "amend_input_hash": "4115882b9f8b82ceaa579456bf1f02d789a0144861bc671caf6f541c3c91ec18",
     "qa_input_hash": "fcfc6bddb939410e9e06b16a0d8a35f1c6a25812a9d4e7d8155568fa83568b4d",
-    "last_updated_local": "2026-04-15T06:03:10.959885",
-    "bill_hash": "956e7f83fc5eb2d10508de79b82755ae"
+    "last_updated_local": "2026-04-16T05:46:02.363993",
+    "bill_hash": "fb8a51425d6075982b461269bff2ee44"
   },
   "HB0770": {
     "first_seen": "2026-02-06T19:35:12.778362",
@@ -62742,8 +62808,8 @@
   },
   "HB0772": {
     "first_seen": "2026-02-06T19:35:14.119725",
-    "last_updated": "2026-04-12T05:44:46.001801",
-    "last_seen": "2026-04-12T05:44:46.001801",
+    "last_updated": "2026-04-16T05:45:21.022887",
+    "last_seen": "2026-04-16T05:45:21.022887",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -62827,8 +62893,8 @@
     "amended_status": "amended",
     "amend_input_hash": "de7ab949b9be7b583cb8c5848b36ce8814d20da4197245fac9cac20d07378b3f",
     "qa_input_hash": "df2f96732c0a65c38ed9ddc6d1b0970263bcf8e88bd75d827cae77f3bf8b3806",
-    "last_updated_local": "2026-04-12T06:19:43.834055",
-    "bill_hash": "d98ebbfd4dd00f6e6c209cf6f723bb9e"
+    "last_updated_local": "2026-04-16T05:46:04.664350",
+    "bill_hash": "e00b51453a12d76a8d7cceef7e45ae6a"
   },
   "HB0773": {
     "first_seen": "2026-02-06T19:35:14.637918",
@@ -65825,8 +65891,8 @@
   },
   "HB0810": {
     "first_seen": "2026-02-06T19:35:35.516145",
-    "last_updated": "2026-04-12T05:44:57.903652",
-    "last_seen": "2026-04-12T05:44:57.903652",
+    "last_updated": "2026-04-16T05:45:21.963186",
+    "last_seen": "2026-04-16T05:45:21.963186",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -65892,8 +65958,8 @@
     "amended_status": "amended",
     "amend_input_hash": "3eb39fc2e62f8919059ee966703ffb46519eb06758afd9f39b54b1f8526d2663",
     "qa_input_hash": "f8ee3099a5e52bd9ef26c9bd2408d890fa22bd359561ed53c9548bb62a7568d4",
-    "last_updated_local": "2026-04-12T06:22:09.053606",
-    "bill_hash": "eca02ac410cb85a4b66e76e1b4aea2d6"
+    "last_updated_local": "2026-04-16T05:46:04.331621",
+    "bill_hash": "5fd1b13c07ce96f573f6a1305beed2ef"
   },
   "HB0811": {
     "first_seen": "2026-02-06T19:35:36.103110",
@@ -82813,145 +82879,159 @@
   },
   "HJ0005": {
     "first_seen": "2026-02-06T19:37:43.917358",
-    "last_updated": "2026-02-18T06:01:02.594484",
-    "last_seen": "2026-02-18T06:01:02.594484",
+    "last_updated": "2026-04-16T05:45:34.684125",
+    "last_seen": "2026-04-16T05:45:34.684125",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HJ0005.pdf",
-      "amendments": []
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HJ0005_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This joint resolution establishes the annual salaries for the Governor and Lieutenant Governor of Maryland for the four-year term beginning January 20, 2027. The Governor's salary will range from $195,000 in the first year to $210,000 in the fourth year, while the Lieutenant Governor's salary will range from $175,000 in the first year to $185,000 in the fourth year.",
+      "bill_summary": "This joint resolution establishes the salary schedule for the Governor and Lieutenant Governor for the four-year term of office beginning January 20, 2027, as recommended by the Governor's Salary Commission. The salaries for both positions are scheduled to increase incrementally over the term, reaching $210,000 for the Governor and $185,000 for the Lieutenant Governor by the fourth year.",
       "start_year": 2027,
       "end_year": 2031,
-      "funding": 1529000,
-      "responsible_party": "Secretary of Budget and Management",
-      "stakeholders": "The Governor and Lieutenant Governor of Maryland",
-      "fiscal_impact_summary": "The resolution specifies the annual salaries for the Governor and Lieutenant Governor for the term beginning January 2027. Based on the figures provided in the bill text, the total combined salary expenditure for both offices over the four-year term is $1,529,000. Annual costs for both positions increase from a combined total of $370,000 in the first year to $395,000 in the fourth year. These figures reflect mandated salary levels but do not include costs for fringe benefits or a comparison against current baseline expenditures, as a formal Fiscal Note was not provided.",
+      "funding": 69600,
+      "responsible_party": "Maryland Department of Budget and Management",
+      "stakeholders": "Governor and Lieutenant Governor of Maryland",
+      "fiscal_impact_summary": "State general fund expenditures increase by a total of $69,600 between FY 2028 and FY 2031 due to mandated salary and fringe benefit increases. There is no impact in FY 2027 as the initial salary for the new term matches the previous levels. There are no effects on state revenues or local governments.",
       "agency_relevance": [
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The resolution directly determines the annual salary for the Governor of Maryland for the four-year term beginning in January 2027.",
+          "relevance_explanation": "This resolution establishes the annual salary for the Governor of Maryland for the upcoming four-year term beginning in 2027.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Lt. Governor",
           "is_relevant": true,
-          "relevance_explanation": "The resolution directly determines the annual salary for the Lieutenant Governor of Maryland for the four-year term beginning in January 2027.",
-          "relevance_rating": 5
-        },
-        {
-          "agency_name": "Department of Budget and Management",
-          "is_relevant": true,
-          "relevance_explanation": "As the principal fiscal and personnel agency, DBM is responsible for budget execution and personnel management. The resolution specifically requires a copy to be forwarded to the Secretary of Budget and Management for implementation in the state budget.",
+          "relevance_explanation": "This resolution establishes the annual salary for the Lieutenant Governor of Maryland for the upcoming four-year term beginning in 2027.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Maryland State Treasurer's Office",
           "is_relevant": true,
-          "relevance_explanation": "The State Treasurer is a constitutionally mandated member of the Governor's Salary Commission and is specifically named in the resolution as having participated in the salary recommendations.",
+          "relevance_explanation": "The State Treasurer is a constitutional member of the Governor's Salary Commission and is responsible for setting the recommended salaries presented in this resolution. The current Treasurer is specifically named in the resolution text.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Department of Budget and Management",
+          "is_relevant": true,
+          "relevance_explanation": "As the principal personnel agency responsible for managing state employee resources, benefits, and the state budget, DBM is tasked with implementing the salary changes. The resolution explicitly directs that a copy be forwarded to the Secretary of Budget and Management.",
           "relevance_rating": 4
         },
         {
           "agency_name": "Comptroller of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "The Comptroller serves as the state's chief financial officer and is responsible for paying all state employees, including the salaries of the Governor and Lieutenant Governor as established by this resolution.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Executive Commissions, Committees, Task Forces, and Advisory Boards",
-          "is_relevant": true,
-          "relevance_explanation": "The resolution adopts the recommendations of the Governor's Salary Commission, a specific constitutional body categorized under this group of agencies.",
+          "relevance_explanation": "The Comptroller is responsible for paying state employees and will be responsible for processing the adjusted salary payments for the Governor and Lieutenant Governor.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Maryland State Retirement Agency",
           "is_relevant": true,
-          "relevance_explanation": "Changes to the salaries of executive officials have an impact on future retirement and pension benefit calculations administered by the SRA.",
+          "relevance_explanation": "The increase in salaries for the Governor and Lieutenant Governor impacts the calculation of fringe benefits and future pension liabilities administered by the Retirement Agency.",
           "relevance_rating": 2
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "c18ca2f17a5c265546af09b800af4cd94e29bd124dd40f2d21d711bc54c76f70",
-    "last_updated_local": "2026-02-18T06:27:48.211075",
-    "bill_hash": "4cb625423e7139a2b2eeae65fd1ba5ea"
+    "qa_input_hash": "059656fe5c02a14682af6e3cc20989572b65a0a7dc9828beea16e6929f974721",
+    "last_updated_local": "2026-04-16T05:47:07.986693",
+    "bill_hash": "66157a39ad4f79c0fc8a589fd7ad8571"
   },
   "HJ0006": {
     "first_seen": "2026-02-06T19:37:44.483220",
-    "last_updated": "2026-02-18T06:01:03.856422",
-    "last_seen": "2026-02-18T06:01:03.856422",
+    "last_updated": "2026-04-16T05:45:35.575896",
+    "last_seen": "2026-04-16T05:45:35.575896",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HJ0006.pdf",
-      "amendments": []
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HJ0006_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This resolution establishes the salary schedule for Maryland's judicial system for fiscal years 2027 through 2030. It mandates annual salary increases for judges across the Supreme Court, Appellate Court, Circuit Courts, and District Court, while also providing a $7,500 annual stipend for specific administrative and chief judge positions.",
+      "bill_summary": "This joint resolution implements a four-year schedule of salary increases and stipends for Maryland judges for fiscal years 2027 through 2030, based on recommendations from the Judicial Compensation Commission. The resolution also establishes an annual $7,500 stipend for the Chief Judge of the Appellate Court and for administrative judges of the circuit and District courts.",
       "start_year": 2026,
       "end_year": 2030,
-      "funding": null,
-      "responsible_party": "Judiciary of Maryland",
-      "stakeholders": "Members of the Maryland Judiciary, including judges of the Supreme Court, Appellate Court, Circuit Courts, and District Court.",
-      "fiscal_impact_summary": "The resolution increases state expenditures for judicial salaries and related retirement costs from fiscal 2027 through 2030. While individual salary increments of approximately $5,900 per year are specified for each judicial position, a total aggregate fiscal impact estimate is not provided in the resolution text, and the formal Fiscal Note was not included in the document.",
+      "funding": 11988801,
+      "responsible_party": "Maryland Judiciary",
+      "stakeholders": "Maryland judges (Supreme Court, Appellate Court, Circuit Courts, and District Court), administrative judges, magistrates, the State Prosecutor, the Public Defender, Workers' Compensation Commission members, and local government officials with salaries tied to judicial pay.",
+      "fiscal_impact_summary": "State general fund expenditures are estimated to increase by $3.3 million in fiscal 2027, rising to $11.7 million by fiscal 2030. Special fund expenditures are estimated to increase by $63,325 in fiscal 2027, rising to approximately $300,000 by fiscal 2030. These costs account for salary increases for 322 judges, higher fringe benefits, stipends for administrative judges, and increased compensation for senior/recalled judges and magistrates. Additionally, salaries for the Public Defender, State Prosecutor, and members of the Workers' Compensation Commission will increase due to their statutory link to judicial pay. Local government expenditures will increase minimally in counties that tie local official salaries to judicial salaries.",
       "agency_relevance": [
         {
           "agency_name": "Administrative Office of the Courts",
           "is_relevant": true,
-          "relevance_explanation": "The resolution directly establishes the salaries and stipends for the justices and judges of the Supreme Court of Maryland, the Appellate Court of Maryland, Circuit Courts, and the District Court, all of which are supported by the Administrative Office of the Courts.",
+          "relevance_explanation": "As the central support agency for the Maryland Judicial Branch, the AOC is responsible for implementing the salary increases, stipends, and benefit adjustments for the 322 judges and 70 magistrates affected by this resolution.",
           "relevance_rating": 5
+        },
+        {
+          "agency_name": "Maryland Office of the Public Defender",
+          "is_relevant": true,
+          "relevance_explanation": "The salary of the Public Defender is tied by statute to the salary of a circuit court judge; therefore, the judicial salary increases proposed in this resolution directly impact the compensation for the head of this agency.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Office of the State Prosecutor",
+          "is_relevant": true,
+          "relevance_explanation": "The salary of the State Prosecutor is tied by statute to the salary of a circuit court judge, meaning the resolution directly dictates the compensation for the head of this agency.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "State Workers' Compensation Commission",
+          "is_relevant": true,
+          "relevance_explanation": "The salaries of the ten members of the Workers' Compensation Commission are tied by statute to those of District Court judges. The resolution's proposed increases will result in a notable fiscal impact on this agency's special fund expenditures.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "As the state's principal fiscal agency, DBM is responsible for developing the state budget and managing personnel benefits. It must incorporate the judicial salary increases recommended by the Commission into the state's fiscal planning and annual budget proposals.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Governor's Office",
-          "is_relevant": true,
-          "relevance_explanation": "The Governor is responsible for appointing the members of the Judicial Compensation Commission and proposing the annual state budget, which must account for the salary recommendations established by this resolution.",
-          "relevance_rating": 4
+          "relevance_explanation": "As the principal fiscal agency, DBM must account for the multi-million dollar general fund expenditure increases necessitated by these judicial salary and pension adjustments in the state budget.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Maryland State Retirement Agency",
           "is_relevant": true,
-          "relevance_explanation": "The SRA administers pension benefits for judges. Because judicial pensions are linked to judicial salaries, the increases established by this resolution will impact pension calculations and the long-term liabilities of the State Retirement and Pension System.",
+          "relevance_explanation": "The SRA manages the State Retirement and Pension System, including the Judicial Retirement System. Changes in judicial salaries impact actuarial valuations and future pension contribution rates.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Governor's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The Governor appoints the members of the Judicial Compensation Commission, receives their recommendations, and proposes the state budget which must include the funding for these mandated salary levels.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Executive Commissions, Committees, Task Forces, and Advisory Boards",
+          "is_relevant": true,
+          "relevance_explanation": "The resolution specifically implements the recommendations of the Judicial Compensation Commission, which is one of the bodies categorized under this collective agency designation.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Comptroller of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "The Comptroller functions as the state's chief financial officer and is responsible for paying state employees, including the members of the Judiciary. The agency will need to implement these salary adjustments in the state's payroll system.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Office of the Attorney General",
-          "is_relevant": true,
-          "relevance_explanation": "The OAG serves as the primary legal counsel to the Judiciary and the state government. It may be called upon to provide legal advice regarding the implementation of the Commission's recommendations or the resolution's statutory compliance.",
+          "relevance_explanation": "The Comptroller is responsible for paying state employees and will be the entity processing the increased salary payments for judges and related officials.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Office of Appointments",
           "is_relevant": true,
-          "relevance_explanation": "The Office of Appointments assists the Governor in the recruitment and vetting of candidates for various commissions, including the seven-member Judicial Compensation Commission mentioned in the resolution.",
+          "relevance_explanation": "The Office of Appointments facilitates the Governor's recruitment and vetting of the members for the Judicial Compensation Commission, which is the body responsible for the recommendations in this resolution.",
           "relevance_rating": 2
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "79f2de995451a11f23f32e7d31b697ecbe5d1c4425314a15ead723a23bc50f70",
-    "last_updated_local": "2026-02-18T06:27:48.566633",
-    "bill_hash": "010fe5f5c3b4ba55d0c5417226d3b7a0"
+    "qa_input_hash": "96ca0c073e3d2da326608a4b855fa61bb237462ea7ce386a36e0eaf02fc15758",
+    "last_updated_local": "2026-04-16T05:47:10.664234",
+    "bill_hash": "ece4cbc7370e6ecb4acb3459886c2f87"
   },
   "HJ0007": {
     "first_seen": "2026-02-06T19:37:45.144122",
@@ -92140,8 +92220,8 @@
   },
   "SB0594": {
     "first_seen": "2026-02-06T19:39:41.185077",
-    "last_updated": "2026-04-15T05:45:53.243542",
-    "last_seen": "2026-04-15T05:45:53.243542",
+    "last_updated": "2026-04-16T05:45:37.317793",
+    "last_seen": "2026-04-16T05:45:37.317793",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -92213,8 +92293,8 @@
     "amended_status": "amended",
     "amend_input_hash": "72ac08fa56b0e23c2c2d41fdf7b1498a5e8b1fc3e27551bb08c175f573e9898d",
     "qa_input_hash": "fd14c1e285442ed6f927fa18a51972de8db4068ea254e7181b3f892e730bd0bc",
-    "last_updated_local": "2026-04-15T06:26:54.078956",
-    "bill_hash": "4191d19b9afad1712f0afeeb5247ba77"
+    "last_updated_local": "2026-04-16T05:47:01.381473",
+    "bill_hash": "41ec73c0a8e574e4a16259c97575462b"
   },
   "SB0597": {
     "first_seen": "2026-02-06T19:39:41.811945",
@@ -95423,8 +95503,8 @@
   },
   "HB1026": {
     "first_seen": "2026-02-11T06:07:06.369185",
-    "last_updated": "2026-04-12T05:46:25.184505",
-    "last_seen": "2026-04-12T05:46:25.184505",
+    "last_updated": "2026-04-16T05:45:22.922942",
+    "last_seen": "2026-04-16T05:45:22.922942",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -95472,8 +95552,8 @@
     "amended_status": "amended",
     "amend_input_hash": "096391b024e5ca3b0d32f3a3630a71633703f19fde40408e6fc592ef54a75d87",
     "qa_input_hash": "62f082e61cb0c0a51e2751a108d0e71ffb6881e792e3571fa9fd2d529f8026d1",
-    "last_updated_local": "2026-04-12T06:35:48.371323",
-    "bill_hash": "86369997124e7efbefb9d0311cf554bc"
+    "last_updated_local": "2026-04-16T05:46:12.261283",
+    "bill_hash": "cc284a3f8a5172e15948eef2e58f9091"
   },
   "HB1027": {
     "first_seen": "2026-02-11T06:07:06.771034",
@@ -99651,8 +99731,8 @@
   },
   "HB1081": {
     "first_seen": "2026-02-11T06:07:30.094006",
-    "last_updated": "2026-04-15T05:44:54.943900",
-    "last_seen": "2026-04-15T05:44:54.943900",
+    "last_updated": "2026-04-16T05:45:24.252987",
+    "last_seen": "2026-04-16T05:45:24.252987",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -99754,8 +99834,8 @@
     "amended_status": "amended",
     "amend_input_hash": "22311a181455922492067b3a4139979054bfb3bb8af674983e136d650c838927",
     "qa_input_hash": "4f4ef621812fbedb6c0a439ee8cb6816154e38e571b4d6fe85ee926102a34892",
-    "last_updated_local": "2026-04-15T06:07:45.078999",
-    "bill_hash": "a1dd96a637ca6a96f7197d397e3833f2"
+    "last_updated_local": "2026-04-16T05:46:12.591457",
+    "bill_hash": "98cf32303920e208c192995fac35a7f2"
   },
   "HB1082": {
     "first_seen": "2026-02-11T06:07:30.531381",
@@ -106811,8 +106891,8 @@
   },
   "HB1100": {
     "first_seen": "2026-02-12T06:01:31.642366",
-    "last_updated": "2026-04-12T05:46:52.484703",
-    "last_seen": "2026-04-12T05:46:52.484703",
+    "last_updated": "2026-04-16T05:45:25.243196",
+    "last_seen": "2026-04-16T05:45:25.243196",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -106896,8 +106976,8 @@
     "amended_status": "amended",
     "amend_input_hash": "d99141b90069f45575728dfea705903dde3eb318965147b152caf985cd467414",
     "qa_input_hash": "221c12f2816b29167697be97d3bbd41cb8f3088456ab77e4b11a53b7aa41cf55",
-    "last_updated_local": "2026-04-12T06:36:58.696125",
-    "bill_hash": "98da00f53ccb14c0f9ad07d0badde4de"
+    "last_updated_local": "2026-04-16T05:46:25.823497",
+    "bill_hash": "4342d3e60a68517ed593615675b9be04"
   },
   "HB1101": {
     "first_seen": "2026-02-12T06:01:32.192941",
@@ -108400,8 +108480,8 @@
   },
   "HB1120": {
     "first_seen": "2026-02-12T06:01:42.374034",
-    "last_updated": "2026-04-15T05:45:02.100552",
-    "last_seen": "2026-04-15T05:45:02.100552",
+    "last_updated": "2026-04-16T05:45:26.500838",
+    "last_seen": "2026-04-16T05:45:26.500838",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -108563,8 +108643,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "685ebce81becb01d37e05b161fda3b3b7893e06185f52196f066a395ff4d1153",
-    "last_updated_local": "2026-04-15T06:08:32.008376",
-    "bill_hash": "4d1fe113da19a8eab3cc4852c7085828"
+    "last_updated_local": "2026-04-16T05:46:26.157628",
+    "bill_hash": "cdb57c5c8e5ce13813785c730d7e79c5"
   },
   "HB1121": {
     "first_seen": "2026-02-12T06:01:42.881053",
@@ -117180,8 +117260,8 @@
   },
   "HB1232": {
     "first_seen": "2026-02-12T06:02:35.613231",
-    "last_updated": "2026-04-15T05:45:08.920054",
-    "last_seen": "2026-04-15T05:45:08.920054",
+    "last_updated": "2026-04-16T05:45:27.629179",
+    "last_seen": "2026-04-16T05:45:27.629179",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -117259,8 +117339,8 @@
     "amended_status": "amended",
     "amend_input_hash": "35aea4ca7bf52bddf552e65a428d82bd28e0931b8f5c2ebdc57a12bfabbb5d4d",
     "qa_input_hash": "b4078fc912ac850c8ab034e832e58caf31311531aa18e353f727d618dda12578",
-    "last_updated_local": "2026-04-15T06:08:35.563746",
-    "bill_hash": "c081969a17a937154f0f011669deb4e1"
+    "last_updated_local": "2026-04-16T05:46:20.422840",
+    "bill_hash": "492fffe5a5a705833c8c683df6735388"
   },
   "HB1233": {
     "first_seen": "2026-02-12T06:02:36.067128",
@@ -119035,8 +119115,8 @@
   },
   "HB1254": {
     "first_seen": "2026-02-13T05:58:43.617965",
-    "last_updated": "2026-04-15T05:45:14.060057",
-    "last_seen": "2026-04-15T05:45:14.060057",
+    "last_updated": "2026-04-16T05:45:28.579598",
+    "last_seen": "2026-04-16T05:45:28.579598",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -119114,8 +119194,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "1726c35c1fe7511847709080450d357dffc547935d448f5cbac36d66948c5939",
-    "last_updated_local": "2026-04-15T06:12:22.949647",
-    "bill_hash": "a7b75d78d342e4f12f0e6c2e473b7926"
+    "last_updated_local": "2026-04-16T05:46:28.196568",
+    "bill_hash": "f0e1325562734a882a324a42d4534528"
   },
   "HB1255": {
     "first_seen": "2026-02-13T05:58:44.362319",
@@ -128014,8 +128094,8 @@
   },
   "HB1357": {
     "first_seen": "2026-02-13T06:00:00.138677",
-    "last_updated": "2026-04-12T05:48:23.612805",
-    "last_seen": "2026-04-12T05:48:23.612805",
+    "last_updated": "2026-04-16T05:45:29.605256",
+    "last_seen": "2026-04-16T05:45:29.605256",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -128075,8 +128155,8 @@
     "amended_status": "amended",
     "amend_input_hash": "aa6a1e28b239596675dab48696df0457a902912f2caad045a6ddb34fd0b97667",
     "qa_input_hash": "21d36028994c5a7b0a3047423fcc3b20f635f7b365aafcc6963ee74bce0a4b2e",
-    "last_updated_local": "2026-04-12T06:49:08.140034",
-    "bill_hash": "4c48ac7779ed9731846a4927014ae216"
+    "last_updated_local": "2026-04-16T05:46:28.030472",
+    "bill_hash": "f652530c595cf38a881b08155d627b7b"
   },
   "HB1358": {
     "first_seen": "2026-02-14T05:45:06.973185",
@@ -129317,8 +129397,8 @@
   },
   "HB1372": {
     "first_seen": "2026-02-14T05:45:24.821806",
-    "last_updated": "2026-04-12T05:48:33.014276",
-    "last_seen": "2026-04-12T05:48:33.014276",
+    "last_updated": "2026-04-16T05:45:30.774683",
+    "last_seen": "2026-04-16T05:45:30.774683",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -129390,8 +129470,8 @@
     "amended_status": "amended",
     "amend_input_hash": "8d364abb5d7804b587a9780bbecefb6fe60a7be3593a1b370c2c4800ba120135",
     "qa_input_hash": "327d41cc61b53408a6cf1a0da8f2531483b01238c6a90b0892a6f4acd43399fc",
-    "last_updated_local": "2026-04-12T06:50:59.817714",
-    "bill_hash": "babdf07d3c0cce812cb371e8b08fb9a0"
+    "last_updated_local": "2026-04-16T05:46:28.529020",
+    "bill_hash": "ec08d48191eb6cbac8cf2725d9b918e9"
   },
   "HB1373": {
     "first_seen": "2026-02-14T05:45:26.120877",
@@ -131185,8 +131265,8 @@
   },
   "HB1395": {
     "first_seen": "2026-02-14T05:45:53.769940",
-    "last_updated": "2026-04-15T05:45:21.091777",
-    "last_seen": "2026-04-15T05:45:21.091777",
+    "last_updated": "2026-04-16T05:45:31.768602",
+    "last_seen": "2026-04-16T05:45:31.768602",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -131258,8 +131338,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "42702ed2a6e20d3199831e5a7e19e85488f72f5cd167bbc19f8f635871367f1c",
-    "last_updated_local": "2026-04-15T06:12:30.132254",
-    "bill_hash": "37e5643dbf1c43d90b8e4036451bfebc"
+    "last_updated_local": "2026-04-16T05:46:29.819416",
+    "bill_hash": "5331bdc9e3cc9a8708463e35f5c32299"
   },
   "HB1396": {
     "first_seen": "2026-02-14T05:45:55.095737",
@@ -137584,8 +137664,8 @@
   },
   "HB1473": {
     "first_seen": "2026-02-14T05:47:29.819405",
-    "last_updated": "2026-04-12T05:49:09.694112",
-    "last_seen": "2026-04-12T05:49:09.694112",
+    "last_updated": "2026-04-16T05:45:32.712138",
+    "last_seen": "2026-04-16T05:45:32.712138",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -137657,8 +137737,8 @@
     "amended_status": "amended",
     "amend_input_hash": "2eafba675f720eb2de0cd2ecdee548c687c65b2d76ae730c310d8cf1d0eba0c7",
     "qa_input_hash": "733f69cb8b3f4e7dd47d4c67d68c4b95610a25d344fdfb873eaaed4483e35f3c",
-    "last_updated_local": "2026-04-12T06:54:43.435718",
-    "bill_hash": "ed449589e1d5ae3b4bf6b7cfc98f8e55"
+    "last_updated_local": "2026-04-16T05:46:30.150987",
+    "bill_hash": "6965ad8d29b7d32a41b40f0f1f8bef58"
   },
   "HB1474": {
     "first_seen": "2026-02-14T05:47:31.146313",
@@ -141864,95 +141944,87 @@
   },
   "HB1523": {
     "first_seen": "2026-02-14T05:48:20.493193",
-    "last_updated": "2026-04-14T05:45:37.286564",
-    "last_seen": "2026-04-14T05:45:37.286564",
+    "last_updated": "2026-04-16T05:45:33.823553",
+    "last_seen": "2026-04-16T05:45:33.823553",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
-      "amendments": [
-        "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1523_amd243729_1.pdf"
-      ],
+      "amendments": [],
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1523.pdf",
       "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1523_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill expands the authority of the Alcohol, Tobacco, and Cannabis Commission to enforce laws and seize unauthorized consumable products, including tianeptine, kratom, and phenibut. It prohibits retailers from selling, distributing, or advertising these products, establishes criminal and civil penalties for violations, and introduces stricter regulations on advertising such products to minors. Additionally, it requires the Maryland Department of Health to notify the commission of any changes to the regulatory status of these substances.",
+      "bill_summary": "This bill prohibits retailers from distributing, selling, or advertising 'unauthorized consumable products,' which include certain tianeptine, kratom, and phenibut products, as well as other substances designated as poisonous or deleterious by the Maryland Department of Health. It authorizes the Field Enforcement Division of the Alcohol, Tobacco, and Cannabis Commission to issue citations for violations and allows the Executive Director of the Commission to seize and destroy unauthorized products. The bill also establishes criminal and civil penalties for noncompliance and expands restrictions on advertising these products to minors.",
       "start_year": 2026,
       "end_year": null,
       "funding": null,
       "responsible_party": "Alcohol, Tobacco, and Cannabis Commission",
-      "stakeholders": "Retailers of consumable products (including convenience stores, gas stations, and restaurants), manufacturers of kratom and phenibut products, minors, and state enforcement agencies.",
-      "fiscal_impact_summary": "The Alcohol, Tobacco, and Cannabis Commission and the Maryland Department of Health can implement the bill's provisions using existing budgeted resources. While the bill establishes criminal fines of up to $5,000 and civil penalties for violations, these are not expected to have a material impact on State or local finances. Small businesses that sell these products may experience a meaningful economic impact due to seizure, forfeiture, and potential license suspension.",
+      "stakeholders": "Retailers (including convenience stores, gas stations, and pharmacies), manufacturers, wholesalers, the Maryland Department of Health, and consumers of tianeptine, kratom, and phenibut products.",
+      "fiscal_impact_summary": "According to the Fiscal Note, the Alcohol, Tobacco, and Cannabis Commission and the Maryland Department of Health can implement the bill's provisions using existing budgeted resources. While the bill establishes criminal fines of up to $5,000 and various civil penalties, these provisions are not expected to have a material impact on State or local finances or operations. Specific dollar estimates for revenue from fines were not provided as they are not anticipated to be significant.",
       "agency_relevance": [
         {
           "agency_name": "Department of Health",
           "is_relevant": true,
-          "relevance_explanation": "The bill amends the Health - General Article and requires the Secretary of Health to designate deleterious substances and notify the Alcohol, Tobacco, and Cannabis Commission of any changes in the regulatory or approval status of unauthorized consumable products.",
+          "relevance_explanation": "The bill directly impacts the Maryland Department of Health as it modifies the Health \u2013 General Article regarding the regulation of kratom, tianeptine, and phenibut products. The Department is required to notify the Alcohol, Tobacco, and Cannabis Commission of regulatory changes and the Secretary of Health is responsible for designating deleterious consumable products for enforcement.",
           "relevance_rating": 5
-        },
-        {
-          "agency_name": "Office of Controlled Substances Administration",
-          "is_relevant": true,
-          "relevance_explanation": "As a division of the Department of Health responsible for enforcing the state's Controlled Dangerous Substance Act, this agency is directly relevant to the regulation and inspection of products like tianeptine, kratom, and phenibut identified in the bill.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Administrative Office of the Courts",
-          "is_relevant": true,
-          "relevance_explanation": "The bill grants the District Court specific authority to order the suspension or revocation of various business licenses and to order the disposal or destruction of seized unauthorized consumable products.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Comptroller of Maryland",
-          "is_relevant": true,
-          "relevance_explanation": "The bill specifically authorizes the District Court to order the Comptroller to suspend or revoke licenses issued under the Business Regulation Article and requires the Field Enforcement Division to coordinate with the Comptroller's office.",
-          "relevance_rating": 3
         },
         {
           "agency_name": "Executive Commissions, Committees, Task Forces, and Advisory Boards",
           "is_relevant": true,
-          "relevance_explanation": "The primary agency tasked with enforcement in the bill, the Alcohol, Tobacco, and Cannabis Commission, is a permanent executive commission responsible for specialized regulatory and enforcement duties.",
+          "relevance_explanation": "The bill primarily concerns the Alcohol, Tobacco, and Cannabis Commission (ATCC), which is an independent executive body. The bill expands the citation powers of the ATCC's Field Enforcement Division and authorizes its Executive Director to seize, confiscate, and destroy unauthorized consumable products.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Comptroller of Maryland",
+          "is_relevant": true,
+          "relevance_explanation": "The bill explicitly authorizes the District Court to order the Comptroller to suspend or revoke tobacco-related licenses (issued under Title 16 of the Business Regulation Article) for violations involving unauthorized consumable products.",
           "relevance_rating": 3
         },
         {
-          "agency_name": "Department of Labor",
+          "agency_name": "Administrative Office of the Courts",
           "is_relevant": true,
-          "relevance_explanation": "The bill references the potential suspension or revocation of licenses issued under Title 17 of the Business Regulation Article, which encompasses various business licenses overseen or regulated by the department.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Office of Administrative Hearings",
-          "is_relevant": true,
-          "relevance_explanation": "The Office of Administrative Hearings would likely adjudicate contested cases resulting from the suspension or revocation of licenses or other regulatory enforcement actions taken by the Commission or the Comptroller.",
-          "relevance_rating": 2
+          "relevance_explanation": "The bill empowers the District Court to adjudicate violations, impose fines of up to $5,000, and issue orders for the suspension of business licenses and the forfeiture or destruction of seized contraband products.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The Office of the Attorney General provides essential legal counsel to the Department of Health and the Alcohol, Tobacco, and Cannabis Commission regarding the implementation and enforcement of the new seizure and penalty provisions.",
+          "relevance_explanation": "As the chief legal officer for the State, the OAG provides legal counsel to the Department of Health and the Alcohol, Tobacco, and Cannabis Commission regarding the enforcement of these new regulations and the legal processes for product seizure and forfeiture.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Governor oversees the executive branch agencies responsible for the bill's implementation and is responsible for signing the legislation into law.",
-          "relevance_rating": 1
+          "relevance_explanation": "The Governor's Office oversees the executive branch and independent commissions like the ATCC. The office coordinates policy initiatives related to public health and the enforcement of laws prohibiting the sale of dangerous substances.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Governor's Office of Crime Prevention and Policy",
+          "is_relevant": true,
+          "relevance_explanation": "The bill introduces new criminal misdemeanor offenses and expands the enforcement capabilities of a public safety division (the FED), which aligns with GOCPP's mission to coordinate statewide criminal justice strategies and public safety policy.",
+          "relevance_rating": 2
         },
         {
           "agency_name": "Maryland State Police",
           "is_relevant": true,
-          "relevance_explanation": "The Field Enforcement Division, which is granted expanded citation and seizure powers under the bill, consists of sworn police officers who coordinate with other state and local law enforcement agencies including the State Police.",
+          "relevance_explanation": "The Field Enforcement Division officers who implement the bill's citation and seizure provisions are required to be sworn police officers and frequently coordinate with other state and local law enforcement agencies on enforcement problems.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Department of Budget and Management",
+          "is_relevant": true,
+          "relevance_explanation": "DBM is responsible for the personnel and budget oversight of the Commission's Field Enforcement Division, ensuring that officers and employees are provided for in the State budget to carry out these expanded duties.",
           "relevance_rating": 1
         }
       ]
     },
     "amended_status": "amended",
-    "amend_input_hash": "c3eb006a937fd24d00017b6f38d942c082b8518984217278969264c972778acf",
-    "qa_input_hash": "eb68d7a4535f66fef57a32a78b4581a877da1ee3b26ebb65b2c3431cb51ca0f6",
-    "last_updated_local": "2026-04-14T06:43:24.060387",
-    "bill_hash": "2dbba5d04fdca8e0d5b8b3806eabf7c6"
+    "amend_input_hash": "351ee3ff6063767fa27e958d0db57b7bc9fc93c8d77eee4fd1bfc46aa0edb3d1",
+    "qa_input_hash": "2dda32c41de9626269a5fcc36f30725f40366548cdbb8649e78201f64530082b",
+    "last_updated_local": "2026-04-16T05:51:02.604258",
+    "bill_hash": "60f31d62c78309b85da4f688b90c9b23"
   },
   "HB1524": {
     "first_seen": "2026-02-14T05:48:21.271635",
@@ -153421,137 +153493,135 @@
   },
   "SB1007": {
     "first_seen": "2026-03-13T05:45:45.052086",
-    "last_updated": "2026-04-15T05:46:04.038285",
-    "last_seen": "2026-04-15T05:46:04.038285",
+    "last_updated": "2026-04-16T05:45:38.308536",
+    "last_seen": "2026-04-16T05:45:38.308536",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/SB1007.pdf",
-      "amendments": [
-        "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/SB1007_amd153225_1.pdf"
-      ],
+      "amendments": [],
       "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/SB1007_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill amends various prior authorizations of State debt to change the names of grant recipients, modify the authorized uses of the grants, and extend the termination dates for expending or encumbering the funds. These alterations apply to capital projects authorized in the State's capital budgets from 2017 through 2025.",
+      "bill_summary": "This bill modifies various prior authorizations of State debt issued between 2017 and 2025. The changes include extending deadlines for expending or encumbering funds, changing grantee names, altering the authorized purposes of specific grants, and removing certain matching fund requirements for projects throughout Maryland.",
       "start_year": 2026,
       "end_year": null,
       "funding": null,
-      "responsible_party": "Board of Public Works",
-      "stakeholders": "Local governments, non-profit organizations, and community entities that are recipients of State capital grant funding.",
-      "fiscal_impact_summary": "The bill modifies the conditions under which previously authorized State grant funds may be used. According to the fiscal note, these changes do not materially affect State finances. Local government finances are only affected if the local government is the designated grantee for one of the modified authorizations.",
+      "responsible_party": "Maryland Board of Public Works",
+      "stakeholders": "Local governments, non-profit organizations, educational institutions, and community groups that are recipients of State capital grant funding.",
+      "fiscal_impact_summary": "The fiscal note indicates that the bill modifies the conditions under which State grant funds may be used but does not materially affect State finances. While the bill alters specific grant amounts and reallocates funds (for example, increasing a grant for McDaniel College from $22,246 to $2,977,754 and reassigning others), these changes occur within existing State debt authorizations or bond capacity and do not require additional total state debt.",
       "agency_relevance": [
         {
-          "agency_name": "Board of Public Works",
+          "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Board of Public Works (BPW) is the highest administrative body overseeing state expenditures, including capital projects and procurement contracts. This bill modifies several prior debt authorizations which require BPW certification for matching funds and oversight of fund encumbrance and expenditure.",
-          "relevance_rating": 5
-        },
-        {
-          "agency_name": "Department of Budget and Management",
-          "is_relevant": true,
-          "relevance_explanation": "The Department of Budget and Management (DBM) is responsible for developing the state's budget and supervising budget execution. As the bill amends prior authorizations of state debt and affects the execution of capital grants, DBM is a primary agency for managing these fiscal adjustments.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Department of General Services",
-          "is_relevant": true,
-          "relevance_explanation": "The Department of General Services (DGS) serves as the primary operational support agency and often manages the administration of capital grants for non-state entities (Miscellaneous Grant Programs) included in the state's capital budget.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Pimlico Community Development Authority",
-          "is_relevant": true,
-          "relevance_explanation": "The bill specifically amends a $10 million grant related to Park Heights community investment and mentions the governing body of the Pimlico Redevelopment Community Compact. The PCDA oversees Local Impact Aid and makes recommendations for community revitalizations in these specific neighborhoods.",
-          "relevance_rating": 4
+          "relevance_explanation": "The Governor's Office oversees the executive branch and proposes the annual state budget, including the capital budget. This bill amends prior authorizations of state debt and grants, which are core executive functions.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Comptroller of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "The Comptroller is a member of the Board of Public Works, which must oversee and approve the expenditures and matching fund requirements associated with the state debt authorizations amended by this bill.",
-          "relevance_rating": 3
+          "relevance_explanation": "As a member of the Board of Public Works, the Comptroller is responsible for overseeing state contracts and expenditures, including the certification of matching funds and approval of state debt disbursements modified by this bill.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Maryland State Treasurer's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Treasurer is a member of the Board of Public Works and oversees the issuance of state bonds. Since the bill relates to authorizations of State Debt and bond-funded grants, the Treasurer's office is involved in the financial management of these authorizations.",
+          "relevance_explanation": "The Treasurer manages the issuance of State bonds and the protection of state funds. As a member of the Board of Public Works, the Treasurer must approve the capital expenditures and debt modifications authorized in this bill.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Department of Aging",
+          "is_relevant": true,
+          "relevance_explanation": "The bill alters grants for senior centers, such as the Harford Road Senior Center, which falls under the department's mission to improve the quality of life for older adults.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Budget and Management",
+          "is_relevant": true,
+          "relevance_explanation": "DBM is the principal fiscal agency responsible for developing and supervising the state's budget. It was consulted in the fiscal note and oversees the long-term fiscal planning related to these capital grants.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Department of Commerce",
+          "is_relevant": true,
+          "relevance_explanation": "The bill modifies grants for several arts and cultural institutions (e.g., Everyman Theatre, Chesapeake Arts Center, Imagination Stage), which are supported by the Department of Commerce to enhance the state's economic and cultural competitive position.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Department of Education",
           "is_relevant": true,
-          "relevance_explanation": "The bill amends several grants specifically directed at local school systems, including Catonsville Middle School, Pikesville High School, and Woodlawn High School, transferring grantee status to the Board of Education of Baltimore County.",
+          "relevance_explanation": "The bill impacts funding and project scopes for public school facilities, such as Catonsville Middle School and Woodlawn High School, which are overseen by MSDE.",
           "relevance_rating": 3
         },
         {
-          "agency_name": "Department of Transportation",
+          "agency_name": "Department of General Services",
           "is_relevant": true,
-          "relevance_explanation": "The bill modifies grants related to transportation infrastructure, including the North Bethesda Metro Station access improvements and hiker-biker trail projects in Riverdale Park.",
+          "relevance_explanation": "DGS is the primary operational support agency for the planning, design, and construction of state-funded facilities. It is a primary source of information for capital budget modifications and provides technical oversight for state-funded construction projects.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Department of Health",
+          "is_relevant": true,
+          "relevance_explanation": "The bill alters grants for healthcare facilities, including the R Adams Cowley Shock Trauma Center, Harford Crisis Center, and Holy Cross Hospital.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Department of Housing and Community",
           "is_relevant": true,
-          "relevance_explanation": "The bill affects grants for community revitalization and affordable housing, such as the Choice Neighborhood Initiative in Annapolis and the Park Heights community investment project.",
-          "relevance_rating": 3
+          "relevance_explanation": "The bill modifies grants for community revitalization and infrastructure, such as the Choice Neighborhood Initiative and Park Heights Community Investment, which are often administered or supported by DHCD.",
+          "relevance_rating": 4
         },
         {
-          "agency_name": "Department of Commerce",
+          "agency_name": "Department of Natural Resources",
           "is_relevant": true,
-          "relevance_explanation": "The bill modifies grants for numerous arts and cultural organizations, such as Everyman Theatre, Arena Players, and Imagination Stage, which fall under the promotional and economic development scope of the Department of Commerce.",
-          "relevance_rating": 3
+          "relevance_explanation": "The bill alters grants for local parks and collections (e.g., Calvert Marine Museum, Long Branch Local Park), which relate to DNR's mission to enhance natural resources and recreational public lands.",
+          "relevance_rating": 2
         },
         {
           "agency_name": "Department of Planning",
           "is_relevant": true,
-          "relevance_explanation": "The bill includes modifications to grants for historic preservation and cultural heritage sites (e.g., National Road Museum, Historic Gibson Grove), which are often supported or technical assisted by the Department of Planning's Historical Trust.",
+          "relevance_explanation": "The bill impacts historic sites (e.g., Historic Gibson Grove) and community revitalization master plans (e.g., Park Heights), which fall under the technical and policy guidance of MDP.",
           "relevance_rating": 3
         },
         {
-          "agency_name": "Department of Health",
+          "agency_name": "Department of Transportation",
           "is_relevant": true,
-          "relevance_explanation": "The bill alters grants for medical and health facilities, including the Harford Crisis Center and equipment for Holy Cross Hospital.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Department of Aging",
-          "is_relevant": true,
-          "relevance_explanation": "The bill amends prior authorizations for the Harford Road Senior Center, which provides services for older adults.",
-          "relevance_rating": 2
+          "relevance_explanation": "The bill alters grants for transportation infrastructure, including the North Bethesda Metro Station, hiker-biker trails, and bus acquisitions, which are within MDOT's multi-modal scope.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Higher Education Commission",
           "is_relevant": true,
-          "relevance_explanation": "The bill modifies a grant for McDaniel College, an independent institution that falls under the regulatory and policy oversight of the Higher Education Commission.",
+          "relevance_explanation": "The bill modifies a grant for McDaniel College, a private institution, through the Maryland Independent College and University Association, which falls under MHEC's statewide policy and coordination role.",
           "relevance_rating": 2
         },
         {
-          "agency_name": "Adjutant General of Maryland",
+          "agency_name": "Board of Public Works",
           "is_relevant": true,
-          "relevance_explanation": "The bill modifies grants for the Civil Air Patrol Squadron Building, which is an auxiliary of the military forces that typically interacts with the Maryland Military Department overseen by the Adjutant General.",
-          "relevance_rating": 2
+          "relevance_explanation": "The BPW is the highest administrative body overseeing state expenditures and must approve the significant state procurements, bond issuances, and contract modifications described in this bill.",
+          "relevance_rating": 5
         },
         {
-          "agency_name": "Office of the Attorney General",
+          "agency_name": "Interagency Commission on School Construction",
           "is_relevant": true,
-          "relevance_explanation": "The OAG provides legal counsel to the General Assembly and state agencies, and would likely be involved in reviewing the legal sufficiency of the amendments to bond enabling acts.",
-          "relevance_rating": 2
+          "relevance_explanation": "The IAC oversees the planning and funding of public school construction projects; several school-specific grant alterations in the bill fall under its domain.",
+          "relevance_rating": 3
         },
         {
-          "agency_name": "Governor's Office",
+          "agency_name": "Pimlico Community Development Authority",
           "is_relevant": true,
-          "relevance_explanation": "The Governor's Office proposes the annual state budget, including the capital budget, and oversees the executive branch agencies responsible for implementing these grant programs.",
-          "relevance_rating": 1
+          "relevance_explanation": "The bill specifically references the Park Heights Master Plan and investments made in consultation with governing bodies associated with the Pimlico Redevelopment Community Compact, which is the focus of this Authority.",
+          "relevance_rating": 3
         }
       ]
     },
     "amended_status": "amended",
-    "amend_input_hash": "bc14d971237dc52a466355462a34fada1fc75593b98c93489fef89d8185e51d8",
-    "qa_input_hash": "0d9d8b0a64aa62c945f50dfb3c202da2b2a3c1954fc6f1c6c19861a04f6d7f54",
-    "last_updated_local": "2026-04-15T06:24:20.703130",
-    "bill_hash": "d9dde1dd5ded3df7b5147881a58c6d99"
+    "amend_input_hash": "8d459ded78c63a8b611c449c59737915f17b9b218d142a38c93f6c70a523bc9e",
+    "qa_input_hash": "b02444ff0b0e167154a0a555ff30ab78e404ed17f7c8f9ca088618e813193832",
+    "last_updated_local": "2026-04-16T05:51:36.052116",
+    "bill_hash": "4fc6f6fea858630970bc4db277dc58a6"
   },
   "HB1645": {
     "first_seen": "2026-03-14T05:46:03.656327",
