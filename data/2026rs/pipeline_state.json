@@ -58536,8 +58536,8 @@
   },
   "HB0717": {
     "first_seen": "2026-02-06T19:34:42.741130",
-    "last_updated": "2026-04-14T05:44:06.274100",
-    "last_seen": "2026-04-14T05:44:06.274100",
+    "last_updated": "2026-04-19T05:43:41.630418",
+    "last_seen": "2026-04-19T05:43:41.630418",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -58599,8 +58599,8 @@
     "amended_status": "amended",
     "amend_input_hash": "058f5ff9b79e49d1ef6fa1b541edd2ae26e66984268b27b056559b498cea32b8",
     "qa_input_hash": "28ded2f44f576c520cb7138b1f41fa8ea84c470804ef919928a5becc4c9bf13c",
-    "last_updated_local": "2026-04-14T06:10:47.597389",
-    "bill_hash": "94569cf6fdeeb143a2487679f25c737b"
+    "last_updated_local": "2026-04-19T05:44:08.666823",
+    "bill_hash": "c68d3c3eeab8a1c025a3a0391e59798b"
   },
   "HB0718": {
     "first_seen": "2026-02-06T19:34:43.279223",
@@ -82879,8 +82879,8 @@
   },
   "HJ0005": {
     "first_seen": "2026-02-06T19:37:43.917358",
-    "last_updated": "2026-04-16T05:45:34.684125",
-    "last_seen": "2026-04-16T05:45:34.684125",
+    "last_updated": "2026-04-19T05:43:47.339614",
+    "last_seen": "2026-04-19T05:43:47.339614",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -82940,13 +82940,13 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "059656fe5c02a14682af6e3cc20989572b65a0a7dc9828beea16e6929f974721",
-    "last_updated_local": "2026-04-16T05:47:07.986693",
-    "bill_hash": "66157a39ad4f79c0fc8a589fd7ad8571"
+    "last_updated_local": "2026-04-19T05:45:07.102568",
+    "bill_hash": "fcac8448f4e91378ad11d08ea98933e4"
   },
   "HJ0006": {
     "first_seen": "2026-02-06T19:37:44.483220",
-    "last_updated": "2026-04-16T05:45:35.575896",
-    "last_seen": "2026-04-16T05:45:35.575896",
+    "last_updated": "2026-04-19T05:43:48.334019",
+    "last_seen": "2026-04-19T05:43:48.334019",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -83030,8 +83030,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "96ca0c073e3d2da326608a4b855fa61bb237462ea7ce386a36e0eaf02fc15758",
-    "last_updated_local": "2026-04-16T05:47:10.664234",
-    "bill_hash": "ece4cbc7370e6ecb4acb3459886c2f87"
+    "last_updated_local": "2026-04-19T05:44:56.374072",
+    "bill_hash": "1921f4d4bf5c6e247dce4f9e24609c63"
   },
   "HJ0007": {
     "first_seen": "2026-02-06T19:37:45.144122",
@@ -86109,8 +86109,8 @@
   },
   "SB0159": {
     "first_seen": "2026-02-06T19:38:14.970729",
-    "last_updated": "2026-04-15T05:45:42.090432",
-    "last_seen": "2026-04-15T05:45:42.090432",
+    "last_updated": "2026-04-19T05:43:49.347313",
+    "last_seen": "2026-04-19T05:43:49.347313",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -86170,8 +86170,8 @@
     "amended_status": "amended",
     "amend_input_hash": "1cffb80335cf9bfd8084ae76507a0bb634ef8b2b0ed832fed1aa3be48b81b6c1",
     "qa_input_hash": "af00d45d6e8ff3c48e0f70956e439bda669edd46a11f0fe28e03197eb73dc479",
-    "last_updated_local": "2026-04-15T06:21:54.839563",
-    "bill_hash": "2e990af25a3c0d916abd7329d92f62d0"
+    "last_updated_local": "2026-04-19T05:45:06.437982",
+    "bill_hash": "b3305c32261353f9b8eece354ae43cef"
   },
   "SB0161": {
     "first_seen": "2026-02-06T19:38:15.567228",
@@ -86832,8 +86832,8 @@
   },
   "SB0193": {
     "first_seen": "2026-02-06T19:38:22.953681",
-    "last_updated": "2026-04-15T05:45:43.992328",
-    "last_seen": "2026-04-15T05:45:43.992328",
+    "last_updated": "2026-04-19T05:43:50.506728",
+    "last_seen": "2026-04-19T05:43:50.506728",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -86917,8 +86917,8 @@
     "amended_status": "amended",
     "amend_input_hash": "ed421ac0a262e73c1514d4de48dd900a239bf415a67862263ad3b2244a3a6a73",
     "qa_input_hash": "c0eafe8f24a2a4b63be1eff5531bcee201adfdacf3bd68e736e07ad09b11a06f",
-    "last_updated_local": "2026-04-15T06:22:02.698607",
-    "bill_hash": "64a7b9f9845b0f8435aa0706df168182"
+    "last_updated_local": "2026-04-19T05:45:07.546370",
+    "bill_hash": "ce8f703614f19ae17d57ca01ab1db569"
   },
   "SB0194": {
     "first_seen": "2026-02-06T19:38:23.904324",
@@ -108480,8 +108480,8 @@
   },
   "HB1120": {
     "first_seen": "2026-02-12T06:01:42.374034",
-    "last_updated": "2026-04-16T05:45:26.500838",
-    "last_seen": "2026-04-16T05:45:26.500838",
+    "last_updated": "2026-04-19T05:43:43.145691",
+    "last_seen": "2026-04-19T05:43:43.145691",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -108643,8 +108643,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "685ebce81becb01d37e05b161fda3b3b7893e06185f52196f066a395ff4d1153",
-    "last_updated_local": "2026-04-16T05:46:26.157628",
-    "bill_hash": "cdb57c5c8e5ce13813785c730d7e79c5"
+    "last_updated_local": "2026-04-19T05:44:27.819639",
+    "bill_hash": "4d1fe113da19a8eab3cc4852c7085828"
   },
   "HB1121": {
     "first_seen": "2026-02-12T06:01:42.881053",
@@ -142625,193 +142625,171 @@
   },
   "HB1532": {
     "first_seen": "2026-02-14T05:48:27.605725",
-    "last_updated": "2026-04-15T05:45:30.661098",
-    "last_seen": "2026-04-15T05:45:30.661098",
+    "last_updated": "2026-04-19T05:43:45.364645",
+    "last_seen": "2026-04-19T05:43:45.364645",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
-      "amendments": [
-        "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1532_amd393820_1.pdf",
-        "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1532_amd353225_1.pdf",
-        "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1532_amd583123_1.pdf"
-      ],
+      "amendments": [],
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1532.pdf",
       "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1532_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "The Utility RELIEF Act implements a wide range of changes to Maryland's energy and utility laws designed to lower costs for consumers. Key provisions include transferring the Electric Universal Service Program to the Office of Home Energy Programs to consolidate energy assistance, establishing a no-interest loan program for nonprofits to improve energy efficiency, reducing the greenhouse gas reduction targets and associated surcharges for the EmPOWER Maryland program, and streamlining local permitting and inspections for residential solar and energy storage systems. The bill also provides $100 million in direct rate relief for residential customers, requires utilities to join regional transmission organizations to reduce costs, establishes a registry for large energy consumers like data centers, and creates a successor program for net energy metering to better balance system costs.",
+      "bill_summary": "The Utility RELIEF Act implements comprehensive reforms to Maryland's energy utility regulations and programs to mitigate cost inflation for families. It transfers the Electric Universal Service Program to the Office of Home Energy Programs, establishes the Green and Renewable Energy Efficiency for Nonprofits Loan Program, and streamlines residential solar permitting. The bill modifies the EmPOWER Maryland program by excluding gas companies and reducing efficiency targets, restricts utility companies from recovering executive compensation and certain discretionary expenses through rates, and requires participation in regional transmission organizations. It also creates a registry for large load customers, such as data centers, and mandates a successor program to the current net energy metering system.",
       "start_year": 2026,
       "end_year": null,
-      "funding": 201440000,
-      "responsible_party": "Maryland Public Service Commission and the Maryland Energy Administration",
-      "stakeholders": "Residential electric and gas customers, low-income households, nonprofit organizations, large load electric customers (such as data centers), and solar energy installers.",
-      "fiscal_impact_summary": "State finances are significantly affected, with special fund expenditures increasing by approximately $201.44 million in FY 2027 and $198.21 million in FY 2028. These expenditures primarily support $100 million in residential rate relief and $100 million for renewable energy auctions funded by the Strategic Energy Investment Fund. The bill also establishes a mandated appropriation for the Green and Renewable Energy Efficiency for Nonprofits Loan Fund starting in FY 2028. Additionally, general fund expenditures increase by at least $10 million annually starting in FY 2029 to maintain the Urban Trees Program, which can no longer be supported by certain special funds under the bill. Local governments may see administrative cost increases for solar permitting, and ratepayers are expected to see substantial long-term savings from regional transmission organization membership and revised EmPOWER program structures.",
+      "funding": 200000000,
+      "responsible_party": "Public Service Commission, Maryland Energy Administration, Department of Human Services, and Department of Natural Resources",
+      "stakeholders": "Residential and commercial utility customers, low-income households, nonprofit organizations, data center operators, and public service companies.",
+      "fiscal_impact_summary": "State finances are significantly affected, most notably by $200,000,000 in contingent special fund appropriations from the Strategic Energy Investment Fund (SEIF) in FY 2027 ($100,000,000 for residential rate credits and $100,000,000 for renewable energy auctions). The bill also creates a mandated appropriation of unencumbered SEIF balances starting in FY 2028 and authorizes a $5,000,000 appropriation for the Green and Renewable Energy Efficiency for Nonprofits Loan Fund. State administrative expenditures increase by approximately $2,200,000 in FY 2027 for expanded staffing and consulting at the Public Service Commission, Office of People's Counsel, and other agencies. Local governments face mandates related to solar permitting and potential administrative costs for municipal utilities.",
       "agency_relevance": [
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Governor's Office oversees the executive branch, including the Maryland Energy Administration (MEA) and the Public Service Commission (PSC). The bill grants the Governor specific authority to transfer funds from the Strategic Energy Investment Fund (SEIF) to PSC for energy relief, and the Governor appoints the Director of the Strategic Energy Planning Office and members of the PSC.",
-          "relevance_rating": 4
+          "relevance_explanation": "The bill directs the Governor to include specific appropriations in the annual budget (e.g., $100M for EmPOWER relief and SEIF balances). It also requires several reports to be submitted to the Governor regarding energy storage, net metering, and permitting streamlining.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Comptroller of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "The Comptroller is responsible for collecting the revenue gathered by electric companies for the Electric Universal Service Program (EUSP) and placing it into the fund. Additionally, as a member of the Board of Public Works, the Comptroller oversees significant state contracts and procurement waivers mentioned in the bill.",
-          "relevance_rating": 3
+          "relevance_explanation": "The Comptroller is responsible for collecting the revenue from electric companies for the electric universal service program fund and placing it into the fund, which the bill reorganizes under OHEP.",
+          "relevance_rating": 2
         },
         {
           "agency_name": "Maryland State Treasurer's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Treasurer acts as the custodian of state funds, including those for the EUSP and SEIF. As a member of the Board of Public Works, the Treasurer is also involved in the approval of procurement waivers for renewable energy contracts and state property leases.",
-          "relevance_rating": 3
+          "relevance_explanation": "The Treasurer serves on the Board of Public Works, which is granted specific authority by the bill to waive the 'termination for convenience' clause in multi-year renewable energy procurement contracts.",
+          "relevance_rating": 2
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The OAG provides legal counsel to state agencies like the PSC and MEA. The bill explicitly authorizes the Attorney General to seek judicial enforcement against local jurisdictions that fail to comply with solar permitting software requirements.",
-          "relevance_rating": 4
+          "relevance_explanation": "The bill specifically authorizes the Attorney General to seek judicial enforcement against any county or municipality that fails to comply with the new residential solar permitting and software requirements.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Chesapeake Bay Trust",
+          "is_relevant": true,
+          "relevance_explanation": "The bill reallocates the Strategic Energy Investment Fund (SEIF) proceeds, which the fiscal note identifies as eliminating the current SEIF funding source for the Urban Trees Program administered by the Trust, necessitating $10M in general fund replacement.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Department of Agriculture",
           "is_relevant": true,
-          "relevance_explanation": "The bill requires that the Department of Agriculture be notified of and review applications for Certificates of Public Convenience and Necessity (CPCN) for generating stations and transmission lines. The Rural Maryland Council is also administratively housed within MDA.",
+          "relevance_explanation": "The bill defines agricultural buildings for exemptions in building performance standards and excludes agricultural facilities from certain large load customer regulations. The Maryland Department of Agriculture is also notified of CPCN applications.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "DBM oversees the state's budget and personnel resources. The bill involves significant transfers of funds between accounts and the transfer of the Electric Universal Service Program (and its related personnel) from the PSC to the Department of Human Services.",
+          "relevance_explanation": "The bill includes mandated appropriations and significant special fund shifts that directly impact the state budget process and long-term fiscal planning managed by DBM.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Department of Commerce",
           "is_relevant": true,
-          "relevance_explanation": "The Department of Commerce is involved in the CPCN review process and has a stake in the bill's impact on data center development and general economic viability of utility rates for businesses.",
+          "relevance_explanation": "The Department is consulted on the energy site-readiness initiative and is a recipient of notice for Certificate of Public Convenience and Necessity (CPCN) applications for large energy projects.",
           "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Education",
+          "is_relevant": true,
+          "relevance_explanation": "The bill allocates a portion of SEIF clean energy proceeds to be used for school electrification and electric school bus deployment programs.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Department of the Environment",
           "is_relevant": true,
-          "relevance_explanation": "MDE is a primary agency for building energy performance standards (BEPS), which the bill modifies. MDE also reviews CPCN applications for environmental impact, consults on the Power Plant Research Program study, and monitors greenhouse gas emissions reduction goals.",
-          "relevance_rating": 5
+          "relevance_explanation": "MDE is responsible for developing building energy performance standards, consulting on emissions targets, and analyzing the adequacy of energy plans in meeting state climate goals established by the bill.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Department of General Services",
           "is_relevant": true,
-          "relevance_explanation": "DGS is authorized by the bill to issue requests for proposals for long-term leases for generating stations or energy storage devices on state-owned sites. It also coordinates with the Board of Public Works on procurement waivers for renewable energy.",
-          "relevance_rating": 5
-        },
-        {
-          "agency_name": "Department of Health",
-          "is_relevant": true,
-          "relevance_explanation": "The bill provides specific definitions and exemptions for 'Hospitals' within the regulatory framework for large load customers, directly impacting how health facilities are categorized by utilities.",
-          "relevance_rating": 2
+          "relevance_explanation": "DGS is authorized to issue RFPs for long-term leases for renewable energy projects and is involved in recommending the waiver of contract clauses for renewable energy procurements to the Board of Public Works.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Department of Housing and Community",
           "is_relevant": true,
-          "relevance_explanation": "The department administers the low-income weatherization component of the EUSP and EmPOWER Maryland. The bill also specifies that a portion of large load registration fees will fund its energy efficiency programs.",
-          "relevance_rating": 5
+          "relevance_explanation": "DHCD is responsible for administering the low-income weatherization component of the electric universal service program and receives half of the fees collected from the large load customer registry for its energy efficiency programs.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Department of Human Services",
           "is_relevant": true,
-          "relevance_explanation": "DHS, through the Office of Home Energy Programs (OHEP), is given primary responsibility for implementing and administering the Electric Universal Service Program (EUSP), which is transferred from the PSC by this bill.",
+          "relevance_explanation": "The bill transfers the administration of the Electric Universal Service Program (EUSP) to the Office of Home Energy Programs (OHEP) within DHS, making it a primary implementing agency for energy assistance changes.",
           "relevance_rating": 5
-        },
-        {
-          "agency_name": "Department of Information Technology",
-          "is_relevant": true,
-          "relevance_explanation": "The bill focuses heavily on the regulation and registry of data centers as 'Large Load Customers,' which aligns with DoIT's role in overseeing the state's IT infrastructure and strategy.",
-          "relevance_rating": 2
         },
         {
           "agency_name": "Department of Labor",
           "is_relevant": true,
-          "relevance_explanation": "The bill requires that workers on solar energy generating stations and large load customer facilities be paid prevailing wages, with enforcement and rate determination handled by the Maryland Department of Labor's Commissioner of Labor and Industry.",
+          "relevance_explanation": "The Commissioner of Labor and Industry is required to determine prevailing wage rates for solar projects and large load facilities, and the Department is tasked with enforcing these wage requirements.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Department of Natural Resources",
           "is_relevant": true,
-          "relevance_explanation": "DNR's Power Plant Research Program (PPRP) is primary to the CPCN review process, which the bill expands to underground transmission. DNR is also tasked with a study to identify priority energy sites and streamline permitting.",
-          "relevance_rating": 5
+          "relevance_explanation": "The Power Plant Research Program (PPRP) within DNR is tasked with a significant study on streamlined permitting, identifying priority energy sites, and reviewing CPCN applications for energy projects.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Department of Planning",
           "is_relevant": true,
-          "relevance_explanation": "The Department of Planning is a required recipient of CPCN applications and provides feedback on how proposed energy infrastructure aligns with state and local land-use plans.",
+          "relevance_explanation": "MDP is a recipient of notice for CPCN applications and coordinates with other agencies on the sustainable development initiatives impacted by the bill's energy policy changes.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Department of Transportation",
           "is_relevant": true,
-          "relevance_explanation": "MDOT is tasked with studying methods to reduce transmission-constrained areas through the use of existing rights-of-way. The Maryland Aviation Administration (MAA) also reviews CPCN applications for aviation safety.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Board of Public Works",
-          "is_relevant": true,
-          "relevance_explanation": "The BPW is authorized to waive mandatory contract clauses for renewable energy procurements and oversee leases for energy projects on state-owned land, acting as a critical fiscal oversight body for the bill's implementation.",
-          "relevance_rating": 5
-        },
-        {
-          "agency_name": "Chesapeake Bay Trust",
-          "is_relevant": true,
-          "relevance_explanation": "The fiscal note indicates that the bill's alterations to the SEIF funding structure will displace the mandated appropriation for the Urban Trees Program ($10 million annually) currently administered by the Trust, requiring a shift to general fund support.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Interagency Commission on School Construction",
-          "is_relevant": true,
-          "relevance_explanation": "The bill provides for SEIF funds to be used for Baltimore City public school HVAC upgrades and school electrification, areas overseen by the IAC regarding public school facilities.",
+          "relevance_explanation": "The Maryland Aviation Administration (under MDOT) must determine if proposed transmission lines or generating stations pose hazards to aviation safety as part of the CPCN review process.",
           "relevance_rating": 2
-        },
-        {
-          "agency_name": "Maryland Aviation Administration",
-          "is_relevant": true,
-          "relevance_explanation": "MAA is specifically responsible for determining if proposed transmission lines near public airport runways constitute a hazard to air navigation as part of the CPCN process.",
-          "relevance_rating": 3
         },
         {
           "agency_name": "Maryland Clean Energy Center",
           "is_relevant": true,
-          "relevance_explanation": "MCEC is the primary implementing agency for the new Green and Renewable Energy Efficiency for Nonprofits Loan Program created by the bill, including managing the associated special fund.",
-          "relevance_rating": 5
+          "relevance_explanation": "The bill establishes the 'Green and Renewable Energy Efficiency for Nonprofits Loan Program' (GREEN) within the Maryland Clean Energy Center to provide no-interest loans to nonprofits for energy efficiency and renewable systems.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Maryland Energy Administration",
           "is_relevant": true,
-          "relevance_explanation": "MEA is a primary implementing agency responsible for the Strategic Energy Investment Fund (SEIF), conducting alternative compliance fee auctions, overseeing solar permitting software grants, and conducting several studies mandated by the bill.",
+          "relevance_explanation": "MEA is a primary implementer, responsible for conducting alternative compliance fee auctions, managing the SEIF, providing renewable energy incentives, and coordinating multiple energy studies.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Office of Legislative Audits",
           "is_relevant": true,
-          "relevance_explanation": "The bill specifies that the Electric Universal Service Program remains subject to audit by the OLA, ensuring financial accountability for the transferred program.",
-          "relevance_rating": 2
+          "relevance_explanation": "The bill explicitly states that the electric universal service program remains subject to audit by the Office of Legislative Audits.",
+          "relevance_rating": 1
         },
         {
           "agency_name": "Office of the People's Counsel",
           "is_relevant": true,
-          "relevance_explanation": "OPC is highly relevant as it is required to consult on the annual rate report, participate in numerous PSC proceedings (EmPOWER, Net Metering Successor Program), and advocate for residential ratepayers impacted by the bill's rate-setting changes.",
-          "relevance_rating": 5
+          "relevance_explanation": "As the consumer advocate, OPC is required to consult on annual rate reports, participate in the development of the net metering successor program, and sit in on major regulatory proceedings established by the bill.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Public Service Commission",
           "is_relevant": true,
-          "relevance_explanation": "PSC is the primary regulatory agency for most provisions of the bill, including establishing the large load registry, overseeing RTO membership, developing the net metering successor program, and regulating utility rate plans and cost recovery.",
+          "relevance_explanation": "The PSC is the primary regulator for most provisions of the bill, including utility rate setting, the large load customer registry, CPCN modifications, net metering transitions, and oversight of the EmPOWER Maryland program.",
           "relevance_rating": 5
+        },
+        {
+          "agency_name": "Board of Public Works",
+          "is_relevant": true,
+          "relevance_explanation": "The Board is granted the authority to waive 'termination for convenience' clauses in state procurement contracts for renewable energy to help suppliers secure project financing.",
+          "relevance_rating": 3
         }
       ]
     },
-    "amended_status": "failed",
-    "amend_input_hash": "c09a5d8b66bcd6be3a4527cc1676539320724b523c3fdc5df82a2918d8932237",
-    "qa_input_hash": "c5bd2aae238567a3de762d736f81e42e6e9ba13fa5ae10f1edd2f6a6a272cf92",
-    "last_updated_local": "2026-04-15T06:14:19.478502",
-    "bill_hash": "914b4ebbf3d7709c95728a8617f053d9"
+    "amended_status": "amended",
+    "amend_input_hash": "49efcdd4736297b6e24ad31a7c3cf7580e6b7740d10ad96ff703041693483c2f",
+    "qa_input_hash": "93954c53e5e89d11109ccd417172f406e7fae534833f9f5760dbb34d5071b2a5",
+    "last_updated_local": "2026-04-19T05:59:41.125769",
+    "bill_hash": "da70fabff0166505b5991aae243ad71d"
   },
   "HB1533": {
     "first_seen": "2026-02-14T05:48:28.380130",
@@ -147309,8 +147287,8 @@
   },
   "HB1581": {
     "first_seen": "2026-02-14T05:49:05.902950",
-    "last_updated": "2026-04-15T05:45:33.905255",
-    "last_seen": "2026-04-15T05:45:33.905255",
+    "last_updated": "2026-04-19T05:43:46.455137",
+    "last_seen": "2026-04-19T05:43:46.455137",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -147406,8 +147384,8 @@
     "amended_status": "amended",
     "amend_input_hash": "51c8063bbfa4c4e669e5a5c522405998c8d55ae8d0ec6e0e05cab98c1ab91fd3",
     "qa_input_hash": "eefbfbd2106adc4cf076a656357e518d042c18bd7f267541221ab106dc66ccc5",
-    "last_updated_local": "2026-04-15T06:20:42.605028",
-    "bill_hash": "075f62a79e86e4558a12bd619610bba4"
+    "last_updated_local": "2026-04-19T05:44:41.580243",
+    "bill_hash": "1d62a212c5b09da9aefe5e9130b58a51"
   },
   "HB1582": {
     "first_seen": "2026-02-14T05:49:06.649100",
@@ -152359,8 +152337,8 @@
   },
   "SB1002": {
     "first_seen": "2026-03-08T05:39:40.462239",
-    "last_updated": "2026-04-15T05:46:02.520894",
-    "last_seen": "2026-04-15T05:46:02.520894",
+    "last_updated": "2026-04-19T05:43:51.419010",
+    "last_seen": "2026-04-19T05:43:51.419010",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -152408,8 +152386,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "45d567c2ba7b7f8e3d94d9563d474af15100eb3ecfdbc5517c614dfff2b1171f",
-    "last_updated_local": "2026-04-15T06:24:18.229694",
-    "bill_hash": "e9be7ad09da451c6a69e4e6110deb4c7"
+    "last_updated_local": "2026-04-19T05:45:08.270825",
+    "bill_hash": "56def771fce964fd00caa8a365798ba7"
   },
   "HB1634": {
     "first_seen": "2026-03-11T05:46:07.612971",
