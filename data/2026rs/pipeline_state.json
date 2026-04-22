@@ -462,8 +462,8 @@
   },
   "HB0006": {
     "first_seen": "2026-02-06T19:22:22.397675",
-    "last_updated": "2026-04-15T05:43:10.118855",
-    "last_seen": "2026-04-15T05:43:10.118855",
+    "last_updated": "2026-04-22T05:43:59.616331",
+    "last_seen": "2026-04-22T05:43:59.616331",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -571,8 +571,8 @@
     "amended_status": "amended",
     "amend_input_hash": "25b1a9db4b9553f795798f0a7f407378b0b0f14b8ec8ac3f7c500bf615609833",
     "qa_input_hash": "f817be31db8ef8c1132739b525862db398220fcf78f646f08e405750e7111473",
-    "last_updated_local": "2026-04-15T05:48:27.015315",
-    "bill_hash": "1e902f556d2263e4a107824d3a3e8d35"
+    "last_updated_local": "2026-04-22T05:44:17.779175",
+    "bill_hash": "c50cab913623ad150617e3e658e02279"
   },
   "HB0007": {
     "first_seen": "2026-02-06T19:22:22.931772",
@@ -1152,8 +1152,8 @@
   },
   "HB0014": {
     "first_seen": "2026-02-06T19:22:26.959448",
-    "last_updated": "2026-04-16T05:44:56.687581",
-    "last_seen": "2026-04-16T05:44:56.687581",
+    "last_updated": "2026-04-22T05:44:00.675679",
+    "last_seen": "2026-04-22T05:44:00.675679",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -1213,8 +1213,8 @@
     "amended_status": "amended",
     "amend_input_hash": "e9a701a2d7aa7435192e10be91cfe4945c76795cf015a28a9964b0a62fc0d125",
     "qa_input_hash": "c571cbd288474d8924f57a34268b901f6070fe28825278660039b17f1238ee24",
-    "last_updated_local": "2026-04-16T05:45:41.793724",
-    "bill_hash": "b87e0a0e20c0899ad43e6fc78099db65"
+    "last_updated_local": "2026-04-22T05:44:17.451850",
+    "bill_hash": "7cf6f50539263a034138b53c27a5ea32"
   },
   "HB0015": {
     "first_seen": "2026-02-06T19:22:27.488668",
@@ -11800,8 +11800,8 @@
   },
   "HB0141": {
     "first_seen": "2026-02-06T19:23:35.684617",
-    "last_updated": "2026-04-15T05:43:17.921001",
-    "last_seen": "2026-04-15T05:43:17.921001",
+    "last_updated": "2026-04-22T05:44:01.497718",
+    "last_seen": "2026-04-22T05:44:01.497718",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -11897,8 +11897,8 @@
     "amended_status": "amended",
     "amend_input_hash": "53798055736a06e23ea4709a2c947d482993b2a085219f7c90decc50ad80f24e",
     "qa_input_hash": "357d7bbc27e7514d3526f32f03b8b7c6049211ab64eb935fc6a4d75b87f25144",
-    "last_updated_local": "2026-04-15T05:53:19.632540",
-    "bill_hash": "83b26fd3372a084944268d269c3c8347"
+    "last_updated_local": "2026-04-22T05:44:18.108619",
+    "bill_hash": "9f976195417e85851a7f4783bf94ca4c"
   },
   "HB0142": {
     "first_seen": "2026-02-06T19:23:36.283009",
@@ -41334,8 +41334,8 @@
   },
   "HB0493": {
     "first_seen": "2026-02-06T19:32:28.724658",
-    "last_updated": "2026-04-15T05:44:06.075559",
-    "last_seen": "2026-04-15T05:44:06.075559",
+    "last_updated": "2026-04-22T05:44:02.438913",
+    "last_seen": "2026-04-22T05:44:02.438913",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -41401,8 +41401,8 @@
     "amended_status": "amended",
     "amend_input_hash": "acd957cc0d2ebdaa30820891ffa4e6775c132386c9e0fdf7a3d42908a387ac6f",
     "qa_input_hash": "5ca922b26d58e7ff84176bc9b74e6c82d615dd75680b5e234288330f26e21d94",
-    "last_updated_local": "2026-04-15T05:55:29.989253",
-    "bill_hash": "e979912873cdf2cf24114e7b88c72b88"
+    "last_updated_local": "2026-04-22T05:44:17.122490",
+    "bill_hash": "16037858e8710a07e2ddec835362f6cf"
   },
   "HB0494": {
     "first_seen": "2026-02-06T19:32:29.224081",
@@ -45176,8 +45176,8 @@
   },
   "HB0547": {
     "first_seen": "2026-02-06T19:33:01.513052",
-    "last_updated": "2026-04-15T05:44:10.093019",
-    "last_seen": "2026-04-15T05:44:10.093019",
+    "last_updated": "2026-04-22T05:44:03.162387",
+    "last_seen": "2026-04-22T05:44:03.162387",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -45237,8 +45237,8 @@
     "amended_status": "amended",
     "amend_input_hash": "31b0c0910aa73df7124bf3b48677ae13442798736fbc64d7225c0497fd1f5596",
     "qa_input_hash": "89c0c504523964f9557706fbe261f256f3167ed673264e5d16fe6f3546b8fe62",
-    "last_updated_local": "2026-04-15T05:55:10.005422",
-    "bill_hash": "a89f957fd3c9d64bf44fea3ccbc05ca4"
+    "last_updated_local": "2026-04-22T05:44:22.538995",
+    "bill_hash": "9eeaa4bfb5f8d4feddb1376f818856e0"
   },
   "HB0548": {
     "first_seen": "2026-02-06T19:33:02.148449",
@@ -46509,8 +46509,8 @@
   },
   "HB0564": {
     "first_seen": "2026-02-06T19:33:12.042909",
-    "last_updated": "2026-04-15T05:44:13.271544",
-    "last_seen": "2026-04-15T05:44:13.271544",
+    "last_updated": "2026-04-22T05:44:03.952871",
+    "last_seen": "2026-04-22T05:44:03.952871",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -46564,8 +46564,8 @@
     "amended_status": "amended",
     "amend_input_hash": "a7607d0f0991607c8f0bd675e38f1f725ca98d46085c0f04aaae749c43423817",
     "qa_input_hash": "2034b81e67bb99d6ff33e552b6761c7dfe0b793c1d4cbd80d75c175191d654f6",
-    "last_updated_local": "2026-04-15T05:58:09.435766",
-    "bill_hash": "318e0e25bc5d2f38668efbc34f468229"
+    "last_updated_local": "2026-04-22T05:44:23.197783",
+    "bill_hash": "4c419096390614fb85fcf55787798e81"
   },
   "HB0565": {
     "first_seen": "2026-02-06T19:33:12.694681",
@@ -47332,8 +47332,8 @@
   },
   "HB0575": {
     "first_seen": "2026-02-06T19:33:18.814326",
-    "last_updated": "2026-04-15T05:44:15.114395",
-    "last_seen": "2026-04-15T05:44:15.114395",
+    "last_updated": "2026-04-22T05:44:04.911949",
+    "last_seen": "2026-04-22T05:44:04.911949",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -47344,63 +47344,45 @@
       "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0575_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill requires each county board of education to include provisions in their student attendance policies for excused or discretionary absences for students participating in civic engagement activities. These activities include testifying before a legislative body, meeting with members of a legislative body, or participating in the Maryland General Assembly Page Program. The policy must allow for at least 15 hours or two school days of excused absence for these purposes and specifies that such absences shall not count toward chronic absenteeism.",
+      "bill_summary": "This bill requires each county board of education to include provisions in their student attendance policies for excused or discretionary absences for students participating in civic engagement activities. These activities include testifying before legislative bodies, meeting with members of a legislative body, or participating in the Maryland General Assembly Page Program. Local boards must allow at least 15 hours or two school days for such activities, and these absences may not be counted toward chronic absenteeism calculations.",
       "start_year": 2026,
       "end_year": null,
       "funding": 0,
       "responsible_party": "County boards of education",
-      "stakeholders": "Maryland public school students and local school boards",
-      "fiscal_impact_summary": "The bill has no state or local fiscal impact. According to the fiscal note, local school systems can implement the changes to attendance policies and track civic engagement activities using existing resources.",
+      "stakeholders": "Public school students and local school systems in Maryland",
+      "fiscal_impact_summary": "The bill has no impact on State finances and no impact on local finances, as local school systems can implement the required policy changes and tracking using existing resources.",
       "agency_relevance": [
         {
           "agency_name": "Department of Education",
           "is_relevant": true,
-          "relevance_explanation": "As the agency responsible for the oversight and leadership of Maryland's public education system, MSDE will be responsible for ensuring that local county boards update their student attendance policies to include the mandated excused absences for civic engagement.",
+          "relevance_explanation": "The Maryland State Department of Education is responsible for the leadership and oversight of the state's 24 local school systems. Since the bill mandates a change to student attendance policies across all county boards of education, MSDE is the primary state-level agency involved in education policy and regulatory oversight.",
           "relevance_rating": 5
+        },
+        {
+          "agency_name": "Executive Commissions, Committees, Task Forces, and Advisory Boards",
+          "is_relevant": true,
+          "relevance_explanation": "The bill defines civic engagement activities to include testifying before or meeting with bodies appointed by the Governor to set or carry out public policy. Many of these executive commissions and task forces fall under this definition and would be the entities with which students engage for excused absences.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Governor's Office oversees the executive branch and coordinates policy initiatives. The bill requires the Governor's approval and involves 'public facing bodies' whose members are often appointed by the Governor.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Department of Service and Civic Innovation",
-          "is_relevant": true,
-          "relevance_explanation": "The bill's primary goal is to promote civic engagement among public school students, which aligns directly with the department's mission to strengthen communities and promote civic participation through service and engagement.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Maryland School for the Deaf",
-          "is_relevant": true,
-          "relevance_explanation": "As a state-run education agency serving students through age 21, the Maryland School for the Deaf may need to update its own attendance policies to align with the statewide standards for civic engagement absences set for public school students.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Governor's Office for Children",
-          "is_relevant": true,
-          "relevance_explanation": "The GOC coordinates services and policy for Maryland's children and families; encouraging civic participation and protecting student attendance records from chronic absenteeism counts is relevant to their well-being mission.",
+          "relevance_explanation": "The Governor's Office oversees the executive branch and handles the appointments of many of the officials and commission members with whom students would engage under this bill. The bill's definition of legislative bodies explicitly includes those whose members are appointed by the Governor.",
           "relevance_rating": 2
         },
         {
-          "agency_name": "Office of the Attorney General",
+          "agency_name": "Lt. Governor",
           "is_relevant": true,
-          "relevance_explanation": "The OAG may be required to provide legal counsel to the Maryland State Department of Education and local boards regarding the implementation and interpretation of these new attendance laws.",
+          "relevance_explanation": "The Lieutenant Governor chairs various task forces and commissions involved in policy development. Students seeking excused absences for civic engagement might target these specific bodies for meetings or testimony, making the office relevant to the bill's implementation.",
           "relevance_rating": 2
-        },
-        {
-          "agency_name": "Maryland Longitudinal Data System",
-          "is_relevant": true,
-          "relevance_explanation": "The MLDSC links and analyzes student and workforce data, including attendance. Changes to how absences are categorized (excused vs. chronic absenteeism) affects the data linked by the agency.",
-          "relevance_rating": 1
         }
       ]
     },
-    "amended_status": "amended",
+    "amended_status": "original",
     "amend_input_hash": "fff7cca63efc0e962e56c480d3d311e1fb9cd8722ce08884fe9d13d8c1c034fe",
-    "qa_input_hash": "80fbf180826f588159e02c95ed506cf9aee9aa5ffbf218c2683a6374a81b1c45",
-    "last_updated_local": "2026-04-15T05:57:41.960762",
-    "bill_hash": "ea0c796f3f2f6e8d582ebc02513986f2"
+    "qa_input_hash": "ad904487df2ca0ce29c49f3b2eb9aa9963dfc33c4a5b86de08544c66afd3c2b2",
+    "last_updated_local": "2026-04-22T05:45:06.619188",
+    "bill_hash": "747fef683175c0173251bb1b4d0bf527"
   },
   "HB0576": {
     "first_seen": "2026-02-06T19:33:19.356826",
@@ -48232,8 +48214,8 @@
   },
   "HB0587": {
     "first_seen": "2026-02-06T19:33:26.685967",
-    "last_updated": "2026-04-15T05:44:15.934443",
-    "last_seen": "2026-04-15T05:44:15.934443",
+    "last_updated": "2026-04-22T05:44:05.686674",
+    "last_seen": "2026-04-22T05:44:05.686674",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -48317,8 +48299,8 @@
     "amended_status": "amended",
     "amend_input_hash": "c075d706cc03843790cbd09bd4bc1a84f7045742e0b431c38e05da0aec6cfdac",
     "qa_input_hash": "3559c1b819734578bbf6b133fea3983daaff2db7eb15bcf212343085e8dbdeea",
-    "last_updated_local": "2026-04-15T05:59:16.808840",
-    "bill_hash": "710d080ed40992546044a6e7ddbcf860"
+    "last_updated_local": "2026-04-22T05:44:22.866946",
+    "bill_hash": "ea147198c40498b8d3ac3271e7b8b46f"
   },
   "HB0588": {
     "first_seen": "2026-02-06T19:33:27.304760",
@@ -50893,8 +50875,8 @@
   },
   "HB0622": {
     "first_seen": "2026-02-06T19:33:47.251782",
-    "last_updated": "2026-04-12T05:43:48.735889",
-    "last_seen": "2026-04-12T05:43:48.735889",
+    "last_updated": "2026-04-22T05:44:06.416786",
+    "last_seen": "2026-04-22T05:44:06.416786",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -50905,51 +50887,69 @@
       "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0622_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill increases the employee cap for micro dispensary licensees from 10 to 20 registered cannabis agents, extends the authorization for converted medical cannabis dispensaries to deliver medical cannabis until July 1, 2027, and updates requirements for cannabis agent training programs, including renaming the program and reducing the mandatory training frequency from annual to biennial.",
+      "bill_summary": "The bill increases the number of employees a micro dispensary licensee may employ from 10 to 20 and extends the authorization for certain medical cannabis dispensaries to continue delivery services until July 1, 2027. It also renames the 'responsible vendor training program' to the 'cannabis agent training program,' modifies its curriculum requirements, and changes the required training frequency for cannabis agents from annually to every two years.",
       "start_year": 2026,
       "end_year": null,
-      "funding": 0,
+      "funding": null,
       "responsible_party": "Maryland Cannabis Administration",
-      "stakeholders": "Cannabis licensees, micro dispensary employees, medical cannabis dispensary holders, and cannabis agent training program providers.",
-      "fiscal_impact_summary": "The Maryland Cannabis Administration can implement the bill with existing resources. State revenues and local government finances are not materially affected. The bill is expected to have a meaningful positive economic impact on small businesses by increasing operational capacity for micro dispensaries and reducing regulatory burdens related to the frequency and curriculum of mandatory training programs.",
+      "stakeholders": "Micro dispensary licensees, medical cannabis dispensary licensees, registered cannabis agents, and providers of cannabis agent training programs.",
+      "fiscal_impact_summary": "The Maryland Cannabis Administration can implement the bill with existing resources. The bill does not materially affect State revenues and has no impact on local government finances. It is determined to have a meaningful positive economic impact on small businesses by allowing micro dispensaries to hire more staff and making training requirements more relevant and less frequent.",
       "agency_relevance": [
         {
           "agency_name": "Maryland Cannabis Administration",
           "is_relevant": true,
-          "relevance_explanation": "As the primary regulatory body for the state's cannabis industry, the MCA requested this bill and is responsible for implementing its core provisions, including managing micro-dispensary licensing, extending medical delivery authorizations, and establishing the new cannabis agent training program through regulation.",
+          "relevance_explanation": "The Maryland Cannabis Administration is the primary regulator and the entity that requested the bill. It is responsible for implementing the new training program requirements, adopting regulations for the curriculum, and managing the increased employee limits and delivery extensions for licensees.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The OAG serves as the primary legal counsel for state agencies, including the MCA. It will be responsible for providing legal guidance on the changes to licensing statutes and reviewing the new regulations the MCA is required to adopt regarding the cannabis agent training program.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Governor's Office",
-          "is_relevant": true,
-          "relevance_explanation": "The Governor's Office oversees the executive branch and independent units such as the MCA. The Governor is also responsible for the final approval and signing of the bill into law.",
+          "relevance_explanation": "The Office of the Attorney General provides legal counsel to the Maryland Cannabis Administration and will be responsible for reviewing the new regulations and statutory changes for legal sufficiency.",
           "relevance_rating": 2
         },
         {
-          "agency_name": "Office of Administrative Hearings",
+          "agency_name": "Department of Health",
           "is_relevant": true,
-          "relevance_explanation": "The OAH provides an impartial hearing process for contested cases involving state agencies. It would have jurisdiction over any administrative appeals regarding the denial or revocation of cannabis licenses, agent registrations, or training program certifications modified by this bill.",
+          "relevance_explanation": "The bill adds public health and safety standards to the training curriculum for cannabis agents. The Department of Health oversees the Cannabis Public Health Fund and coordinates with public health advisory bodies on cannabis-related health impacts.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Executive Commissions, Committees, Task Forces, and Advisory Boards",
           "is_relevant": true,
-          "relevance_explanation": "This entity includes the Advisory Board on Medical and Adult-Use Cannabis, which is tasked with studying and making recommendations on the industry. The operational and training changes proposed in this bill fall within their scope of inquiry.",
+          "relevance_explanation": "The Advisory Board on Medical and Adult-Use Cannabis and the Cannabis Public Health Advisory Council are tasked with studying and making recommendations on the cannabis industry, including the safety and compliance issues addressed by the bill's training and micro-dispensary provisions.",
           "relevance_rating": 2
+        },
+        {
+          "agency_name": "Governor's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The Governor oversees the executive branch and the Maryland Cannabis Administration. The Governor is also responsible for signing the bill into law.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Department of Budget and Management",
+          "is_relevant": true,
+          "relevance_explanation": "As the state's principal fiscal agency, the Department of Budget and Management supervises budget execution and estimates revenue implications for the Maryland Cannabis Administration.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Department of Commerce",
+          "is_relevant": true,
+          "relevance_explanation": "The Department of Commerce manages the Cannabis Business Assistance Fund. The bill's changes to employee caps and delivery authorizations support the economic growth and operational viability of small cannabis businesses.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Governor's Office of Small, Minority & Women Business Affairs",
+          "is_relevant": true,
+          "relevance_explanation": "This office advocates for small and minority-owned businesses. The bill specifically benefits social equity micro-dispensary licensees by increasing their authorized employee count and extending delivery permissions.",
+          "relevance_rating": 1
         }
       ]
     },
-    "amended_status": "amended",
+    "amended_status": "original",
     "amend_input_hash": "ef2938f976c6d7252b3db1696d31b6c42d8bacc3360daf488e1e2128c2476a80",
-    "qa_input_hash": "c4b1f79d6d69fe512f91fb7e7958f94eb37b10838dfc40fa66b3bfc013484721",
-    "last_updated_local": "2026-04-12T06:16:49.415392",
-    "bill_hash": "e3ae48edf8adf812cd4e1950a26ec15b"
+    "qa_input_hash": "985e3ff6915264fe8c249a82e087cb880de71571c45fbf0926519960c618032d",
+    "last_updated_local": "2026-04-22T05:45:36.709179",
+    "bill_hash": "f66579b3af41107dcedd721f390da69e"
   },
   "HB0623": {
     "first_seen": "2026-02-06T19:33:47.796462",
@@ -72427,8 +72427,8 @@
   },
   "HB0894": {
     "first_seen": "2026-02-06T19:36:23.682699",
-    "last_updated": "2026-04-15T05:44:39.225036",
-    "last_seen": "2026-04-15T05:44:39.225036",
+    "last_updated": "2026-04-22T05:44:07.380705",
+    "last_seen": "2026-04-22T05:44:07.380705",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -72530,8 +72530,8 @@
     "amended_status": "amended",
     "amend_input_hash": "f0f2f295d041db2feb154a016ce16a411a7c6f790b0e27b7b8fb113af8fb6f26",
     "qa_input_hash": "f81467b059351eb3f8840d526f49ebdfc830bf2b884b68ff89d965c824525e35",
-    "last_updated_local": "2026-04-15T06:04:18.508183",
-    "bill_hash": "47109031103e0c2327ed4453f8235895"
+    "last_updated_local": "2026-04-22T05:44:31.111914",
+    "bill_hash": "1786aa2a029e9bebd1dc6e9af2c77df4"
   },
   "HB0895": {
     "first_seen": "2026-02-06T19:36:24.339035",
@@ -72775,8 +72775,8 @@
   },
   "HB0898": {
     "first_seen": "2026-02-06T19:36:26.073716",
-    "last_updated": "2026-04-15T05:44:41.059331",
-    "last_seen": "2026-04-15T05:44:41.059331",
+    "last_updated": "2026-04-22T05:44:08.306403",
+    "last_seen": "2026-04-22T05:44:08.306403",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -72896,8 +72896,8 @@
     "amended_status": "amended",
     "amend_input_hash": "6f28ee724c3d15e86b1a963e1da0d050e3799b6395ba6d2e0905efc1b8aff5fc",
     "qa_input_hash": "3e8c05cfd05503f105d95fcd3062e7e90706d6d7819c46ccce28c31a6dddfaed",
-    "last_updated_local": "2026-04-15T06:05:16.576667",
-    "bill_hash": "b49d00b30d218468c288c8df8ee237e1"
+    "last_updated_local": "2026-04-22T05:44:30.622004",
+    "bill_hash": "3b75a7fd59362c7681aa770dcfcc6918"
   },
   "HB0899": {
     "first_seen": "2026-02-06T19:36:26.736751",
@@ -74390,8 +74390,8 @@
   },
   "HB0918": {
     "first_seen": "2026-02-06T19:36:37.920910",
-    "last_updated": "2026-04-15T05:44:42.949006",
-    "last_seen": "2026-04-15T05:44:42.949006",
+    "last_updated": "2026-04-22T05:44:09.020705",
+    "last_seen": "2026-04-22T05:44:09.020705",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -74457,8 +74457,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "5a9179dba0745b220ae3443262d0823861ab24a3877aaef5a2cb75adfc70b8d5",
-    "last_updated_local": "2026-04-15T06:03:12.726379",
-    "bill_hash": "5f133e0d60f10675e5192daf6b2ab5d0"
+    "last_updated_local": "2026-04-22T05:44:34.508631",
+    "bill_hash": "fc082525de32769242b0291bdfd04036"
   },
   "HB0919": {
     "first_seen": "2026-02-06T19:36:38.824625",
@@ -108199,8 +108199,8 @@
   },
   "HB1118": {
     "first_seen": "2026-02-12T06:01:41.251510",
-    "last_updated": "2026-04-15T05:45:01.085784",
-    "last_seen": "2026-04-15T05:45:01.085784",
+    "last_updated": "2026-04-22T05:44:10.026782",
+    "last_seen": "2026-04-22T05:44:10.026782",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -108266,8 +108266,8 @@
     "amended_status": "amended",
     "amend_input_hash": "091d004bfd992bba57169ba19fab8b2290e054f35f1ffc87a75c4021b3bf75ae",
     "qa_input_hash": "8bddad9336f24719e2d6aa4a1a11aec56016dfdacb79f870b7924f86605dcc1e",
-    "last_updated_local": "2026-04-15T06:18:48.522209",
-    "bill_hash": "d4f617febd0b7c703a4fa06faf633084"
+    "last_updated_local": "2026-04-22T05:44:34.840626",
+    "bill_hash": "9f8285279b363cb34cd3c4a75ec30ec7"
   },
   "HB1119": {
     "first_seen": "2026-02-12T06:01:41.737975",
@@ -118208,8 +118208,8 @@
   },
   "HB1243": {
     "first_seen": "2026-02-12T06:02:40.763278",
-    "last_updated": "2026-04-15T05:45:10.567122",
-    "last_seen": "2026-04-15T05:45:10.567122",
+    "last_updated": "2026-04-22T05:44:10.737537",
+    "last_seen": "2026-04-22T05:44:10.737537",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -118263,8 +118263,8 @@
     "amended_status": "amended",
     "amend_input_hash": "ab6d5a16f6dbea4f9079ac58f5daaea0c36a3c11886dd1d3d1f3e772b6910384",
     "qa_input_hash": "36565491aa0ec460be458a21d68fb69a8293c0a33452235fd8733adbe4d1509c",
-    "last_updated_local": "2026-04-15T06:11:21.976869",
-    "bill_hash": "b91e1c2929e0660a0a1c92657be0f311"
+    "last_updated_local": "2026-04-22T05:44:35.469242",
+    "bill_hash": "faef984caddf667f148769a3d345439b"
   },
   "HB1244": {
     "first_seen": "2026-02-12T06:02:41.204391",
@@ -135670,8 +135670,8 @@
   },
   "HB1448": {
     "first_seen": "2026-02-14T05:47:00.473337",
-    "last_updated": "2026-04-14T05:45:31.176605",
-    "last_seen": "2026-04-14T05:45:31.176605",
+    "last_updated": "2026-04-22T05:44:11.598373",
+    "last_seen": "2026-04-22T05:44:11.598373",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -135713,8 +135713,8 @@
     "amended_status": "amended",
     "amend_input_hash": "e483cfeb3821bc8705330921a152d38760ec0bd6fbc50ba3ebc4ee90197bde29",
     "qa_input_hash": "80d7e2572188d48f60ce55ae09a1fba700e42b8ad2ef3552604db0d224113f40",
-    "last_updated_local": "2026-04-14T06:43:04.049723",
-    "bill_hash": "bb4a1e8d9c507467d0df15b40b40044a"
+    "last_updated_local": "2026-04-22T05:44:35.802916",
+    "bill_hash": "b5c33bed9278385bf4ef89b0bbc716f9"
   },
   "HB1449": {
     "first_seen": "2026-02-14T05:47:01.715028",
@@ -138510,8 +138510,8 @@
   },
   "HB1483": {
     "first_seen": "2026-02-14T05:47:42.416483",
-    "last_updated": "2026-04-14T05:45:34.137958",
-    "last_seen": "2026-04-14T05:45:34.137958",
+    "last_updated": "2026-04-22T05:44:12.356689",
+    "last_seen": "2026-04-22T05:44:12.356689",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -138619,8 +138619,8 @@
     "amended_status": "original",
     "amend_input_hash": "781708a845aa8834d32cf065a8abd15bbf20a26b4d985d8d36898b00b85b9f26",
     "qa_input_hash": "cf5f35718a0eacf02e17508cddf77c889506838a1d3fe0a385bf0e57183b87e5",
-    "last_updated_local": "2026-04-14T06:43:40.330703",
-    "bill_hash": "0457ebff429784054cc27a57ded08a93"
+    "last_updated_local": "2026-04-22T05:44:43.811387",
+    "bill_hash": "5f32ae0a6c9d6266e92974401fb64ea1"
   },
   "HB1484": {
     "first_seen": "2026-02-14T05:47:43.185800",
@@ -142625,8 +142625,8 @@
   },
   "HB1532": {
     "first_seen": "2026-02-14T05:48:27.605725",
-    "last_updated": "2026-04-19T05:43:45.364645",
-    "last_seen": "2026-04-19T05:43:45.364645",
+    "last_updated": "2026-04-22T05:44:14.059313",
+    "last_seen": "2026-04-22T05:44:14.059313",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -142788,13 +142788,13 @@
     "amended_status": "amended",
     "amend_input_hash": "49efcdd4736297b6e24ad31a7c3cf7580e6b7740d10ad96ff703041693483c2f",
     "qa_input_hash": "93954c53e5e89d11109ccd417172f406e7fae534833f9f5760dbb34d5071b2a5",
-    "last_updated_local": "2026-04-19T05:59:41.125769",
-    "bill_hash": "da70fabff0166505b5991aae243ad71d"
+    "last_updated_local": "2026-04-22T05:45:37.208143",
+    "bill_hash": "926af06daed21143cb154812f5b238ef"
   },
   "HB1533": {
     "first_seen": "2026-02-14T05:48:28.380130",
-    "last_updated": "2026-04-15T05:45:31.554791",
-    "last_seen": "2026-04-15T05:45:31.554791",
+    "last_updated": "2026-04-22T05:44:14.784872",
+    "last_seen": "2026-04-22T05:44:14.784872",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -142860,8 +142860,8 @@
     "amended_status": "amended",
     "amend_input_hash": "73582efd2024f083b1683f7ec0ce22ef24d0ff778be71b6ef6cbd824658f2805",
     "qa_input_hash": "ef962f09080996326fe82346a421a4af97e2360728d38a2c530918da36cd4d54",
-    "last_updated_local": "2026-04-15T06:16:46.216480",
-    "bill_hash": "bf9505e26ab718775c1bc529914607a0"
+    "last_updated_local": "2026-04-22T05:44:59.590973",
+    "bill_hash": "76aabfc1f1114e0fd0c61ceb577468fc"
   },
   "HB1534": {
     "first_seen": "2026-02-14T05:48:29.123337",
@@ -145029,8 +145029,8 @@
   },
   "HB1557": {
     "first_seen": "2026-02-14T05:48:47.228494",
-    "last_updated": "2026-04-15T05:45:32.327665",
-    "last_seen": "2026-04-15T05:45:32.327665",
+    "last_updated": "2026-04-22T05:44:15.476387",
+    "last_seen": "2026-04-22T05:44:15.476387",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -145120,8 +145120,8 @@
     "amended_status": "amended",
     "amend_input_hash": "694c604bc7b6535142b6d5264ccf3b8859ed91f883e1e55698ccd3378187ed99",
     "qa_input_hash": "085fc51d2eef416ed3de02712cfbe39d14c9bde21ac4738d833e182a91a7be5c",
-    "last_updated_local": "2026-04-15T06:22:30.584313",
-    "bill_hash": "8feb223d318795da00522acbbab9ca71"
+    "last_updated_local": "2026-04-22T05:45:25.620454",
+    "bill_hash": "03c33e60f776a66f07dbd58a8bc6f6ad"
   },
   "HB1558": {
     "first_seen": "2026-02-14T05:48:47.967827",
