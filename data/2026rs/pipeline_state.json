@@ -15724,8 +15724,8 @@
   },
   "HB0187": {
     "first_seen": "2026-02-06T19:24:01.517466",
-    "last_updated": "2026-04-12T05:41:17.517473",
-    "last_seen": "2026-04-12T05:41:17.517473",
+    "last_updated": "2026-04-23T05:45:54.934218",
+    "last_seen": "2026-04-23T05:45:54.934218",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -15809,8 +15809,8 @@
     "amended_status": "amended",
     "amend_input_hash": "aa44d975a4a0078be1eeb44c97f199330f73cf17e38e78e68648c0f0063212d7",
     "qa_input_hash": "2b9546b51ba21bb24295c4cf73b688bf2a3c4df74fd129c3afd9c027f89b9068",
-    "last_updated_local": "2026-04-12T05:57:19.924019",
-    "bill_hash": "f5953e7cfa472d7f7a68fcc864d9a0e5"
+    "last_updated_local": "2026-04-23T05:47:02.528807",
+    "bill_hash": "11bc31d5b66514d1626653ba10ad3121"
   },
   "HB0188": {
     "first_seen": "2026-02-06T19:24:02.164085",
@@ -22426,8 +22426,8 @@
   },
   "HB0266": {
     "first_seen": "2026-02-06T19:30:15.073394",
-    "last_updated": "2026-04-12T05:41:35.306727",
-    "last_seen": "2026-04-12T05:41:35.306727",
+    "last_updated": "2026-04-23T05:45:56.793759",
+    "last_seen": "2026-04-23T05:45:56.793759",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -22529,8 +22529,8 @@
     "amended_status": "amended",
     "amend_input_hash": "4044e3f0f0aa606a5bb0b25750494996400654190dc318337f6134fed7d13645",
     "qa_input_hash": "419b56fa9fbf1befc5cc7828aa7bdf6e90b9006d3645c67246f71b65a70b5167",
-    "last_updated_local": "2026-04-12T05:59:43.364807",
-    "bill_hash": "e0bdc9e49383f4401c1fe18965bae587"
+    "last_updated_local": "2026-04-23T05:47:02.194204",
+    "bill_hash": "c015fbac7f891ccc549185b981809049"
   },
   "HB0267": {
     "first_seen": "2026-02-06T19:30:15.672056",
@@ -23978,8 +23978,8 @@
   },
   "HB0284": {
     "first_seen": "2026-02-06T19:30:26.365548",
-    "last_updated": "2026-04-15T05:43:49.391480",
-    "last_seen": "2026-04-15T05:43:49.391480",
+    "last_updated": "2026-04-23T05:45:58.652055",
+    "last_seen": "2026-04-23T05:45:58.652055",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -23990,51 +23990,69 @@
       "amendments": []
     },
     "qa_results": {
-      "bill_summary": "This bill requires licensed firearms dealers to notify the Secretary of State Police within 24 hours of discovery if a burglary, robbery, or theft occurs on their premises, or if mandatory security features like video cameras, alarm systems, or physical barriers are compromised. It also establishes a specific civil penalty structure for failing to maintain these security features, with fines of up to $250 for a first violation and $1,000 for subsequent violations.",
+      "bill_summary": "This bill requires licensed firearms dealers to notify the Secretary of State Police within 24 hours of any burglary, robbery, or theft of firearms or ammunition, or if required security equipment like cameras or alarms fails. It also modifies civil penalties for security violations, establishing a maximum $250 fine for a first offense and $1,000 for subsequent offenses.",
       "start_year": 2026,
       "end_year": null,
       "funding": null,
-      "responsible_party": "Secretary of State Police",
+      "responsible_party": "Secretary of State Police (Maryland Department of State Police)",
       "stakeholders": "Licensed firearms dealers in Maryland",
-      "fiscal_impact_summary": "State expenditures are not expected to increase as the Department of State Police can handle the bill's requirements with existing budgeted resources. Although the bill adjusts civil penalty amounts for security violations, the changes are not anticipated to materially affect State revenues. There is no fiscal impact on local governments.",
+      "fiscal_impact_summary": "According to the fiscal note, the bill's requirements can be handled using the Department of State Police's existing budgeted resources. Changes to civil penalty provisions are not expected to materially affect state revenues, and there is no fiscal impact on local governments.",
       "agency_relevance": [
         {
           "agency_name": "Maryland State Police",
           "is_relevant": true,
-          "relevance_explanation": "The Maryland State Police is the primary agency impacted by the bill. It was introduced at the department's request, and the Secretary of State Police is responsible for receiving notifications of security compromises from firearms dealers, enforcing security standards, and imposing civil penalties or license sanctions.",
+          "relevance_explanation": "The Maryland State Police (specifically the Secretary) is the primary agency responsible for enforcing the bill, receiving notifications from dealers, adopting regulations, and imposing civil penalties for noncompliance.",
           "relevance_rating": 5
-        },
-        {
-          "agency_name": "Governor's Office",
-          "is_relevant": true,
-          "relevance_explanation": "The Governor's Office oversees the executive branch, including the Department of State Police, and coordinates the state's public safety policy. The Governor is also responsible for signing the bill into law.",
-          "relevance_rating": 3
         },
         {
           "agency_name": "Governor's Office of Crime Prevention and Policy",
           "is_relevant": true,
-          "relevance_explanation": "This office advises the Governor on public safety and criminal justice strategies. The bill's focus on preventing gun theft and ensuring firearm dealer security aligns with this agency's mission to reduce crime and violence.",
+          "relevance_explanation": "This office advises the Governor on public safety and criminal justice policy. The bill's aim to combat gun violence by ensuring firearms dealer security aligns with their core mission of policy development and interagency collaboration for public safety.",
           "relevance_rating": 3
-        },
-        {
-          "agency_name": "Office of Administrative Hearings",
-          "is_relevant": true,
-          "relevance_explanation": "The OAH would be responsible for conducting impartial hearings if a licensed firearms dealer contests civil penalties or the suspension/revocation of their license imposed by the Secretary of State Police.",
-          "relevance_rating": 2
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The OAG serves as legal counsel to the Maryland State Police and would represent the agency in any legal challenges regarding the enforcement of dealer security regulations or administrative actions.",
+          "relevance_explanation": "The OAG provides legal counsel to the Maryland State Police. They would likely assist in drafting the required regulations and representing the state in any legal challenges or high-level enforcement actions resulting from the bill.",
           "relevance_rating": 2
+        },
+        {
+          "agency_name": "Office of Administrative Hearings",
+          "is_relevant": true,
+          "relevance_explanation": "The OAH adjudicates contested administrative cases for state agencies. If a firearms dealer appeals a civil penalty or license suspension/revocation imposed by the State Police, the hearing would be conducted by an Administrative Law Judge from this office.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Governor's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The Governor's Office oversees the executive branch and the Maryland State Police. The bill is a departmental bill from the State Police, reflecting the administration's policy priorities regarding public safety and firearms regulation.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Governor's Office of Homeland Security",
+          "is_relevant": true,
+          "relevance_explanation": "This office advises the Governor on public safety and assesses the state's readiness for emergencies. Compromised security features at firearms dealers represent a significant public safety and domestic security risk.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Budget and Management",
+          "is_relevant": true,
+          "relevance_explanation": "DBM is the principal fiscal agency for the state and oversees the budget execution for the Maryland State Police. While the fiscal note suggests the bill can be handled with existing resources, DBM maintains oversight of the agency's funding.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Office of Legislative Audits",
+          "is_relevant": true,
+          "relevance_explanation": "OLA is responsible for periodic fiscal compliance and performance audits of executive agencies. They may eventually audit the Maryland State Police's management of firearms dealer inspections and penalty collections under this new law.",
+          "relevance_rating": 1
         }
       ]
     },
     "amended_status": "amended",
-    "amend_input_hash": "8ab4ea2ebd07d8a87b5395cb56d2fb44f0d3d7a371202dfe84ecaab98f9b9161",
-    "qa_input_hash": "b9c8ef95b1a262b781c9121b6974b02872f35083f5caa70d6919cca158ce6826",
-    "last_updated_local": "2026-04-15T05:52:56.840040",
-    "bill_hash": "e857a558d3d11e4351df2ed042d7cb15"
+    "amend_input_hash": "14e3ca0ff34fa8a486f9429dacacffd4a8ccb3c69946d668f29a500c6ac51e8e",
+    "qa_input_hash": "20f48ba2553c3f9a8a7f53be1beef04c0ccb56df734a5ee824305b2b3db181fd",
+    "last_updated_local": "2026-04-23T05:49:35.691909",
+    "bill_hash": "fef634827d1409f6de40bfa86172948a"
   },
   "HB0285": {
     "first_seen": "2026-02-06T19:30:26.957140",
@@ -25008,8 +25026,8 @@
   },
   "HB0297": {
     "first_seen": "2026-02-06T19:30:34.249595",
-    "last_updated": "2026-04-14T05:43:12.358631",
-    "last_seen": "2026-04-14T05:43:12.358631",
+    "last_updated": "2026-04-23T05:46:00.472513",
+    "last_seen": "2026-04-23T05:46:00.472513",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -25093,8 +25111,8 @@
     "amended_status": "amended",
     "amend_input_hash": "bb77d38ea1005cba495e8193bab5a580431b7dee6316be5422b9b1583aced518",
     "qa_input_hash": "1d6f79671c1c40bc96662a898c6ab4e211f9a44c021ed0b4e98917e860b90458",
-    "last_updated_local": "2026-04-14T05:55:56.113819",
-    "bill_hash": "fb694a0ee2822b391284c2748048ef25"
+    "last_updated_local": "2026-04-23T05:47:03.192816",
+    "bill_hash": "3985bad2ad77fde0a58531946d042cd3"
   },
   "HB0298": {
     "first_seen": "2026-02-06T19:30:34.915136",
@@ -35989,8 +36007,8 @@
   },
   "HB0427": {
     "first_seen": "2026-02-06T19:31:50.094557",
-    "last_updated": "2026-04-12T05:42:23.555542",
-    "last_seen": "2026-04-12T05:42:23.555542",
+    "last_updated": "2026-04-23T05:46:02.152385",
+    "last_seen": "2026-04-23T05:46:02.152385",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -36001,75 +36019,111 @@
       "amendments": []
     },
     "qa_results": {
-      "bill_summary": "This bill extends the duration of the Task Force on Responsible Use of Natural Psychedelic Substances by one year and adds a representative from a Maryland historically Black college or university to its membership. The task force is charged with studying the science, risks, and benefits of natural psychedelic substances and making recommendations for a state access program and potential changes to criminal laws regarding these substances.",
+      "bill_summary": "This bill extends the duration of the Task Force on Responsible Use of Natural Psychedelic Substances for an additional year, requiring an updated report of its findings and recommendations by October 31, 2026. It also expands the membership of the task force to include a representative from a historically Black college or university in the State.",
       "start_year": 2026,
       "end_year": 2027,
       "funding": null,
       "responsible_party": "Maryland Cannabis Administration",
-      "stakeholders": "Maryland historically Black colleges and universities, the Maryland Cannabis Administration, healthcare practitioners, veterans, law enforcement, and individuals with conditions treatable by psychedelic substances.",
-      "fiscal_impact_summary": "The Maryland Cannabis Administration can provide staff support to the task force with existing budgeted resources. Any expense reimbursements for task force members are expected to be minimal and absorbable within existing resources. There is no impact on state revenues or local government finances.",
+      "stakeholders": "Maryland residents, healthcare practitioners, psychedelic researchers, law enforcement, veterans, patients with conditions treatable by psychedelic substances, and historically Black colleges and universities.",
+      "fiscal_impact_summary": "State expenditures are expected to be minimal as the Maryland Cannabis Administration can provide staff support for the task force using existing budgeted resources. Any reimbursements for task force member expenses are also expected to be minimal and absorbable within existing resources. No local fiscal impact is expected.",
       "agency_relevance": [
         {
           "agency_name": "Maryland Cannabis Administration",
           "is_relevant": true,
-          "relevance_explanation": "The Maryland Cannabis Administration is explicitly named as the agency responsible for providing staff support for the Task Force, and the Director of the Administration is a designated member.",
+          "relevance_explanation": "The Maryland Cannabis Administration is explicitly required to provide staff for the Task Force, and its Director (or a designee) is a mandated member of the body.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Executive Commissions, Committees, Task Forces, and Advisory Boards",
           "is_relevant": true,
-          "relevance_explanation": "This bill directly extends the duration and modifies the membership of the Task Force on Responsible Use of Natural Psychedelic Substances, which falls under this category of state entities.",
+          "relevance_explanation": "The bill extends the duration and modifies the membership of a specific Task Force created to conduct studies and provide recommendations to the state government.",
           "relevance_rating": 5
-        },
-        {
-          "agency_name": "Governor's Office",
-          "is_relevant": true,
-          "relevance_explanation": "The Governor is responsible for appointing the majority of the Task Force members, designating the chair, and receiving the final report of findings and recommendations.",
-          "relevance_rating": 4
         },
         {
           "agency_name": "Department of Health",
           "is_relevant": true,
-          "relevance_explanation": "The Secretary of Health, or their designee, is a mandatory member of the Task Force, and the subject matter (psychedelic substances) directly relates to public health and behavioral health services.",
+          "relevance_explanation": "The Secretary of Health is a mandated member of the Task Force, which studies the health benefits and risks of psychedelic substances and medical practices.",
           "relevance_rating": 4
         },
         {
           "agency_name": "Department of Disabilities",
           "is_relevant": true,
-          "relevance_explanation": "The Secretary of Disabilities, or their designee, is a mandatory member of the Task Force.",
+          "relevance_explanation": "The Secretary of Disabilities is a mandated member of the Task Force, reflecting the study's focus on access to treatment for various medical and behavioral health conditions.",
           "relevance_rating": 4
         },
         {
           "agency_name": "Department of Veterans & Military Families",
           "is_relevant": true,
-          "relevance_explanation": "The Secretary of Veterans Affairs (now the Department of Veterans & Military Families), or their designee, is a mandatory member of the Task Force, likely due to research on psychedelics for PTSD and other veteran-related health issues.",
+          "relevance_explanation": "The Secretary of Veterans Affairs (now the Department of Veterans and Military Families) is a mandated member, as psychedelic research frequently addresses veteran-specific conditions like PTSD.",
           "relevance_rating": 4
         },
         {
-          "agency_name": "Office of Appointments",
+          "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Office of Appointments assists the Governor in recruiting and vetting candidates for task forces and commissions, including the 14 various experts and representatives required by this bill.",
+          "relevance_explanation": "The Governor is responsible for appointing several members and the chair of the Task Force, and the body must submit its reports and recommendations to the Governor.",
           "relevance_rating": 3
         },
         {
           "agency_name": "University System of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "The bill explicitly designates a representative from the University System of Maryland as a potential appointee to the Task Force.",
+          "relevance_explanation": "The Task Force includes a mandated representative from the University System of Maryland to provide research expertise.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Morgan State University",
           "is_relevant": true,
-          "relevance_explanation": "The bill adds a representative of a historically Black college or university in the State to the Task Force; as Maryland's preeminent urban HBCU and a state agency, Morgan State University is a primary candidate for this position.",
+          "relevance_explanation": "The bill adds a representative from a historically Black college or university (HBCU) to the Task Force; as a state-run HBCU and urban research university, Morgan State is a primary candidate for this role.",
           "relevance_rating": 3
+        },
+        {
+          "agency_name": "Department of Public Safety and Correctional Services",
+          "is_relevant": true,
+          "relevance_explanation": "The Task Force is charged with making recommendations regarding the decriminalization of conduct, record expungement, and the potential release of incarcerated individuals.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Governor's Office of Crime Prevention and Policy",
+          "is_relevant": true,
+          "relevance_explanation": "The office advises the Governor on criminal justice strategies and manages funds for public safety, directly intersecting with the Task Force's mandate to reform drug policy and decriminalize conduct.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Office of Appointments",
+          "is_relevant": true,
+          "relevance_explanation": "The Office of Appointments assists the Governor in recruiting and vetting the various experts and representatives appointed to the Task Force.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Office of the Attorney General",
+          "is_relevant": true,
+          "relevance_explanation": "The OAG provides legal counsel to the state agencies involved and would likely advise the Task Force on the legal implications of its policy recommendations.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Maryland State Police",
+          "is_relevant": true,
+          "relevance_explanation": "The Task Force includes a mandated representative from law enforcement and makes recommendations regarding criminal laws and drug policy enforcement.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Maryland Office of the Public Defender",
+          "is_relevant": true,
+          "relevance_explanation": "The OPD has a strong interest in the Task Force's recommendations regarding the decriminalization of nonviolent offenses and the expungement of criminal records.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Administrative Office of the Courts",
+          "is_relevant": true,
+          "relevance_explanation": "The Task Force's recommendations regarding record expungement and the release of incarcerated individuals would have administrative impacts on the judicial branch.",
+          "relevance_rating": 2
         }
       ]
     },
-    "amended_status": "amended",
+    "amended_status": "original",
     "amend_input_hash": "cee9ae413d517286c133efde7a3c2973427f6ef72fc892f3c4a02642c58e47ee",
-    "qa_input_hash": "4e748e581909a802c9d4ae02b43836b1e52b69309a6229e6882825f5da350ae3",
-    "last_updated_local": "2026-04-12T06:06:37.355612",
-    "bill_hash": "573b8d30480bb3568b6333690ca559a0"
+    "qa_input_hash": "50332a072d0932cfa8153557053e2498b9a0b4f1494c77eb863403b3fec98fd2",
+    "last_updated_local": "2026-04-23T05:47:47.545697",
+    "bill_hash": "cb99010247c8c291c3f1f569d5f0efd5"
   },
   "HB0428": {
     "first_seen": "2026-02-06T19:31:50.723276",
@@ -41597,8 +41651,8 @@
   },
   "HB0497": {
     "first_seen": "2026-02-06T19:32:30.642384",
-    "last_updated": "2026-04-12T05:42:45.583709",
-    "last_seen": "2026-04-12T05:42:45.583709",
+    "last_updated": "2026-04-23T05:46:04.115460",
+    "last_seen": "2026-04-23T05:46:04.115460",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -41609,57 +41663,63 @@
       "amendments": []
     },
     "qa_results": {
-      "bill_summary": "This bill extends the duration of a temporary protective order from 7 days to 14 days after issuance and requires that a final protective order hearing be held no later than 14 days after the temporary protective order is issued, rather than the previous 7-day requirement.",
+      "bill_summary": "This bill modifies the duration and timing of protective orders by extending the effective period of a temporary protective order from 7 days after service to 14 days after issuance. It also requires that a final protective order hearing be held no later than 14 days after the temporary protective order is issued, rather than 7 days after it is served.",
       "start_year": 2026,
       "end_year": null,
       "funding": null,
       "responsible_party": "Maryland Judiciary",
-      "stakeholders": "Persons eligible for relief from abuse (petitioners), respondents in protective order cases, and the Maryland court system.",
-      "fiscal_impact_summary": "According to the Fiscal Note, the bill is not anticipated to materially affect Maryland State or local government finances or operations.",
+      "stakeholders": "Individuals seeking protective orders (petitioners), individuals against whom protective orders are filed (respondents), and the Maryland court system.",
+      "fiscal_impact_summary": "According to the Fiscal Note, the bill is not anticipated to materially affect State or local government finances or operations.",
       "agency_relevance": [
         {
           "agency_name": "Administrative Office of the Courts",
           "is_relevant": true,
-          "relevance_explanation": "The bill directly impacts court operations by altering the statutory timelines for temporary protective orders and final protective order hearings, which are administered by the judicial branch.",
+          "relevance_explanation": "The bill directly modifies court procedures and timelines for domestic violence proceedings, specifically altering the duration of temporary protective orders and the mandatory scheduling of final protective order hearings. The Administrative Office of the Courts is responsible for the operational and administrative support of the judicial branch to implement these statutory changes.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Maryland State Police",
           "is_relevant": true,
-          "relevance_explanation": "As the primary state law enforcement agency, the Maryland State Police are responsible for enforcing protective orders and managing the service of these orders. The extension of order duration affects their enforcement window and record-keeping systems.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Governor's Office of Crime Prevention and Policy",
-          "is_relevant": true,
-          "relevance_explanation": "This office advises the Governor on criminal justice strategies and manages funding for victim services. The bill relates to domestic violence policy and the protection of victims, which are core components of their public safety mission.",
+          "relevance_explanation": "State and local law enforcement are responsible for serving and enforcing protective orders. The bill shifts the timing for temporary protective orders from a duration based on the 'date of service' to the 'date of issuance,' which impacts the operational window for police to locate and serve respondents before the order expires or the final hearing occurs.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Department of Human Services",
           "is_relevant": true,
-          "relevance_explanation": "DHS assists individuals requiring protection from abuse and neglect. Changes to the duration of protective orders directly impact the safety and legal status of the vulnerable populations they serve.",
+          "relevance_explanation": "As the primary state agency for social services and protection against abuse, DHS works with victims who utilize the protective order process. Changes to the duration and timing of these orders impact the safety planning and case management services provided by local departments of social services.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Governor's Office of Crime Prevention and Policy",
+          "is_relevant": true,
+          "relevance_explanation": "This office coordinates state strategies for public safety and victim services. Since protective orders are a critical tool in reducing domestic violence and recidivism, the policy change regarding the timing of legal protections is relevant to their public safety mission.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The OAG serves as legal counsel to the state agencies involved in enforcing these orders and provides legal advice regarding the implementation of changes to the Family Law Article.",
+          "relevance_explanation": "The OAG serves as the primary legal representative for the state and provides counsel to state agencies, including the Judiciary and the Department of Human Services, regarding the interpretation and implementation of family law statutes.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Maryland Office of the Public Defender",
+          "is_relevant": true,
+          "relevance_explanation": "The Office of the Public Defender represents indigent individuals in various legal proceedings. While protective orders are civil, the respondents represented by OPD in related criminal or juvenile matters are directly impacted by the accelerated or altered timelines for final protective order hearings.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Governor's Office oversees the executive branch and coordinates policy initiatives related to public safety and family law, and the Governor must sign the bill into law.",
+          "relevance_explanation": "As the head of the executive branch, the Governor oversees the enforcement of state laws and coordinates policy initiatives. The bill requires the Governor's approval and involves interagency coordination between law enforcement and social services.",
           "relevance_rating": 1
         }
       ]
     },
-    "amended_status": "amended",
+    "amended_status": "original",
     "amend_input_hash": "fcb6f9977362f64c78d2394b5836d5a65ce9b2486bec1ac91219f591156bb501",
-    "qa_input_hash": "bb6e1c09c2d28497bf39c46bd3f6a8ac2ce10cbd8b70135eb56975a7a87f2bbd",
-    "last_updated_local": "2026-04-12T06:11:12.736070",
-    "bill_hash": "54acfef331aa35f77b7e66b04b7145b7"
+    "qa_input_hash": "e154b8e8dbb8d3f5dc8a47bd0dc95309b785c60131c6387aab3963df5f7aaeaa",
+    "last_updated_local": "2026-04-23T05:47:25.949827",
+    "bill_hash": "a9da67afdf1534c6891437ccbfadbd7d"
   },
   "HB0498": {
     "first_seen": "2026-02-06T19:32:31.259337",
@@ -45122,8 +45182,8 @@
   },
   "HB0546": {
     "first_seen": "2026-02-06T19:33:00.984556",
-    "last_updated": "2026-04-12T05:43:00.585513",
-    "last_seen": "2026-04-12T05:43:00.585513",
+    "last_updated": "2026-04-23T05:46:05.882391",
+    "last_seen": "2026-04-23T05:46:05.882391",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -45171,8 +45231,8 @@
     "amended_status": "amended",
     "amend_input_hash": "51904210e817149ea58ebe1a36aaa4c9bb948365cde58bb0d27f4185d22a5e9d",
     "qa_input_hash": "cad257e6c44734bfdf2d3cadd0be0fa55f8bb98e6982adaa9f2e0078297a8059",
-    "last_updated_local": "2026-04-12T06:10:51.408459",
-    "bill_hash": "ee5ab5d70d415a466be633f953c73b37"
+    "last_updated_local": "2026-04-23T05:47:04.508261",
+    "bill_hash": "6456be2e961f017a44dc9b8554b78fe7"
   },
   "HB0547": {
     "first_seen": "2026-02-06T19:33:01.513052",
@@ -46294,8 +46354,8 @@
   },
   "HB0561": {
     "first_seen": "2026-02-06T19:33:10.401147",
-    "last_updated": "2026-04-12T05:43:13.612194",
-    "last_seen": "2026-04-12T05:43:13.612194",
+    "last_updated": "2026-04-23T05:46:07.851072",
+    "last_seen": "2026-04-23T05:46:07.851072",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -46343,8 +46403,8 @@
     "amended_status": "amended",
     "amend_input_hash": "3f0c0c99a0ce20d2ce00df58cba1f421567676cd0305df68a507cc83e6f0b65a",
     "qa_input_hash": "d3efd31ac98b112db7a947b7c9526d091b7a8384bfceb477807785b82caecace",
-    "last_updated_local": "2026-04-12T06:11:57.499563",
-    "bill_hash": "16f7443558f82ec9e2769ce3c0ed8efe"
+    "last_updated_local": "2026-04-23T05:47:05.585426",
+    "bill_hash": "9f40b8ff06514be160ebe00f12c5f2f3"
   },
   "HB0562": {
     "first_seen": "2026-02-06T19:33:10.922979",
@@ -47457,8 +47517,8 @@
   },
   "HB0577": {
     "first_seen": "2026-02-06T19:33:19.950571",
-    "last_updated": "2026-04-12T05:43:25.461056",
-    "last_seen": "2026-04-12T05:43:25.461056",
+    "last_updated": "2026-04-23T05:46:09.885070",
+    "last_seen": "2026-04-23T05:46:09.885070",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -47542,8 +47602,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "ecef8f9b6f24cf8b01dbb35263a01c1429ff8f3b3230c878124a2e66a56cc555",
-    "last_updated_local": "2026-04-12T06:11:56.602738",
-    "bill_hash": "35c7e9467b30a18c1054d2cf7e12da14"
+    "last_updated_local": "2026-04-23T05:47:06.507558",
+    "bill_hash": "54ef9c64117812afca132db8dd45e506"
   },
   "HB0578": {
     "first_seen": "2026-02-06T19:33:20.656120",
@@ -51037,8 +51097,8 @@
   },
   "HB0624": {
     "first_seen": "2026-02-06T19:33:48.797683",
-    "last_updated": "2026-04-14T05:43:53.219564",
-    "last_seen": "2026-04-14T05:43:53.219564",
+    "last_updated": "2026-04-23T05:46:12.029304",
+    "last_seen": "2026-04-23T05:46:12.029304",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -51049,57 +51109,63 @@
       "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0624_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "The Safe Staffing Act of 2026 requires licensed Maryland hospitals to establish clinical staffing committees and implement clinical staffing plans. These committees, consisting of both hospital management and clinical employees, are responsible for finalizing plans that address patient care needs based on acuity levels, historical staffing data, and skill mix. The bill mandates the implementation of these plans, establishes a process for resolving staffing-related complaints, and requires hospitals to submit annual progress reports to the Maryland Health Care Commission beginning in 2030.",
+      "bill_summary": "The Safe Staffing Act of 2026 requires licensed hospitals in Maryland (excluding state-run facilities) to establish clinical staffing committees and implement annual clinical staffing plans. These plans must be developed by the hospital's chief nurse executive and finalized by a committee consisting of both managers and employees, taking into account patient acuity, staff skill mix, and federal staffing standards.",
       "start_year": 2026,
       "end_year": null,
       "funding": 0,
-      "responsible_party": "Maryland Health Care Commission (MHCC)",
-      "stakeholders": "Patients, hospital management, registered nurses, and other frontline clinical staff in Maryland hospitals.",
-      "fiscal_impact_summary": "The Maryland Health Care Commission can handle the reporting and posting requirements of the bill using its existing budgeted resources. The bill has no impact on State or local revenues. While private hospitals may incur internal administrative and operational costs to maintain committees and implement clinical staffing plans, the fiscal note does not provide specific dollar estimates for these private sector expenditures.",
+      "responsible_party": "Licensed hospitals and the Maryland Department of Health",
+      "stakeholders": "Hospital clinical staff (including nurses, certified nursing assistants, and technicians), hospital administrators, and hospital patients.",
+      "fiscal_impact_summary": "The fiscal note indicates that the bill does not directly affect state or local governmental operations or finances. While the bill requires hospitals to establish committees and implement staffing plans, it is expected to have no direct state expenditure or revenue impact.",
       "agency_relevance": [
-        {
-          "agency_name": "Maryland Health Care Commission",
-          "is_relevant": true,
-          "relevance_explanation": "As noted in the fiscal note, the bill requires hospitals to submit annual reports summarizing their staffing plans to the Maryland Health Care Commission (MHCC) beginning in 2030. MHCC is responsible for compiling these reports and publishing them on its website.",
-          "relevance_rating": 5
-        },
         {
           "agency_name": "Department of Health",
           "is_relevant": true,
-          "relevance_explanation": "The bill adds new clinical staffing requirements to the Health - General Article, which the Maryland Department of Health (MDH) oversees. MDH is responsible for the licensing and regulation of hospitals that must comply with these new standards.",
-          "relevance_rating": 4
+          "relevance_explanation": "The bill adds a new part to the Health - General Article, which falls under the regulatory purview of the Maryland Department of Health. As the agency responsible for licensing hospitals and health care facilities in the State, MDH (specifically the Office of Health Care Quality) oversees compliance with health care standards and the Centers for Medicare and Medicaid Services (CMS) Conditions of Participation referenced in the bill.",
+          "relevance_rating": 5
         },
         {
           "agency_name": "Health Services Cost Review Commission",
           "is_relevant": true,
-          "relevance_explanation": "The HSCRC regulates hospital rates and revenues in Maryland. Because clinical staffing plans significantly impact hospital labor costs and operational expenditures, this bill's requirements may have downstream effects on hospital rate-setting and financial monitoring.",
+          "relevance_explanation": "The HSCRC is an independent agency within MDH that regulates hospital rates and revenues. Mandatory clinical staffing plans and committees will directly impact hospital labor costs and operational expenses, which are critical factors in the Commission's 'all-payer' rate-setting system and cost-containment efforts.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Maryland Health Care Commission",
+          "is_relevant": true,
+          "relevance_explanation": "The MHCC is responsible for health system planning and improving the quality of care. Staffing levels are a key metric in assessing hospital performance and quality, making this legislation relevant to their mission of increasing accountability and informing public health policy.",
           "relevance_rating": 3
+        },
+        {
+          "agency_name": "Department of Labor",
+          "is_relevant": true,
+          "relevance_explanation": "The bill focuses on workforce management within hospitals, including the creation of committees comprised of employees (nurses, aides, technicians). This intersects with the Department of Labor's role in protecting workers and overseeing workplace safety and labor-related standards.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Maryland Institute for Emergency Medical Services Systems",
+          "is_relevant": true,
+          "relevance_explanation": "MIEMSS oversees the state's emergency medical services and trauma systems. Clinical staffing levels in hospitals significantly impact hospital capacity and the ability to accept emergency patients, which directly affects ambulance 'wall time' and overall EMS system efficiency.",
+          "relevance_rating": 2
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The Office of the Attorney General provides legal counsel to state agencies, including MDH and MHCC, and may be required to advise on the implementation and enforcement of the new staffing committee and plan regulations.",
+          "relevance_explanation": "The OAG provides legal counsel to the Department of Health and other executive agencies. They would be responsible for advising on the implementation of these new statutory requirements and representing the State in any enforcement actions or legal challenges related to the new staffing regulations.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Governor's Office oversees the executive branch and coordinates major policy initiatives. This bill introduces a significant new regulatory framework for the state's healthcare workforce and requires gubernatorial approval.",
-          "relevance_rating": 1
-        },
-        {
-          "agency_name": "Department of Labor",
-          "is_relevant": true,
-          "relevance_explanation": "The Department of Labor monitors workplace safety and labor laws. While the bill's focus is clinical, the establishment of staffing committees and the focus on personnel assignment intersect with general labor concerns and worker protection in the healthcare industry.",
+          "relevance_explanation": "The Governor's Office oversees the executive branch and coordinates health policy initiatives. The bill requires the Governor's final approval and aligns with broad executive branch goals regarding public health safety and healthcare workforce standards.",
           "relevance_rating": 1
         }
       ]
     },
-    "amended_status": "amended",
+    "amended_status": "original",
     "amend_input_hash": "d84298525a6632f5920c35cb9d6d99be39e33da9bc850f0bce87820e95b6c582",
-    "qa_input_hash": "466b4a255886cbc3020e2beaa1ad1df89eeb1842f2ff5f897aae0755dbcc6eb2",
-    "last_updated_local": "2026-04-14T06:10:13.583797",
-    "bill_hash": "d8e0800e2caab8fc50fccbb75684a648"
+    "qa_input_hash": "fd03ae898e1e028a8206f22d9c0035eca1bfd05d3352aca525ebe0a9415ef534",
+    "last_updated_local": "2026-04-23T05:47:43.390791",
+    "bill_hash": "2e2091e83f6f155257ddab4d322baa96"
   },
   "HB0625": {
     "first_seen": "2026-02-06T19:33:49.301160",
@@ -55773,8 +55839,8 @@
   },
   "HB0680": {
     "first_seen": "2026-02-06T19:34:21.277946",
-    "last_updated": "2026-04-12T05:44:15.871460",
-    "last_seen": "2026-04-12T05:44:15.871460",
+    "last_updated": "2026-04-23T05:46:13.889596",
+    "last_seen": "2026-04-23T05:46:13.889596",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -55846,8 +55912,8 @@
     "amended_status": "amended",
     "amend_input_hash": "040c09d082da4c05510399b39db617700a5fe47adfa01bde1802a86a47548cd8",
     "qa_input_hash": "4e8c8306599d0366ff2afbaf0fd74c6c1a52443f6e477cb41d12352a59202c32",
-    "last_updated_local": "2026-04-12T06:18:16.056937",
-    "bill_hash": "fcb486def21726bf52e5f6a233420659"
+    "last_updated_local": "2026-04-23T05:47:26.422639",
+    "bill_hash": "fe1a5dd6643a413d79acfef6b8e9000e"
   },
   "HB0681": {
     "first_seen": "2026-02-06T19:34:21.792071",
@@ -65813,8 +65879,8 @@
   },
   "HB0809": {
     "first_seen": "2026-02-06T19:35:34.980305",
-    "last_updated": "2026-04-12T05:44:55.896586",
-    "last_seen": "2026-04-12T05:44:55.896586",
+    "last_updated": "2026-04-23T05:46:15.659255",
+    "last_seen": "2026-04-23T05:46:15.659255",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -65886,8 +65952,8 @@
     "amended_status": "amended",
     "amend_input_hash": "99b857c24f8326b2103958dcdee063663e111a4f00ec4add773b8c68c5493589",
     "qa_input_hash": "98c73c328fd07679607590697da15b3d147fdcc5f48c5c2451fc28c73af6b239",
-    "last_updated_local": "2026-04-12T06:21:49.193084",
-    "bill_hash": "f337d20a7255c9102b6797f44e64f7af"
+    "last_updated_local": "2026-04-23T05:47:26.843142",
+    "bill_hash": "1ea7fa530356644cc43b371046ff10f0"
   },
   "HB0810": {
     "first_seen": "2026-02-06T19:35:35.516145",
@@ -65963,8 +66029,8 @@
   },
   "HB0811": {
     "first_seen": "2026-02-06T19:35:36.103110",
-    "last_updated": "2026-04-14T05:44:15.145487",
-    "last_seen": "2026-04-14T05:44:15.145487",
+    "last_updated": "2026-04-23T05:46:17.554595",
+    "last_seen": "2026-04-23T05:46:17.554595",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -65975,39 +66041,51 @@
       "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0811_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill authorizes the Maryland Department of Aging to provide grants to nonprofit organizations and area agencies on aging to support social connections for individuals in aging-in-place programs through multigenerational third places, which are community spaces used for social gatherings. It allows these grants to cover operational costs, administrative expenses, and lease or rental costs for senior villages to provide access to these spaces.",
+      "bill_summary": "This bill authorizes the Maryland Department of Aging to provide grants to nonprofit organizations and area agencies on aging to foster social connections for seniors through 'multigenerational third places.' These are community spaces outside of the home or workplace where people of various ages can gather. The bill allows grant funds to cover operational costs, such as leases and administrative expenses, specifically for senior villages to facilitate access to these social spaces.",
       "start_year": 2026,
       "end_year": null,
       "funding": 100000,
       "responsible_party": "Maryland Department of Aging",
-      "stakeholders": "Seniors, nonprofit organizations (including senior villages), and area agencies on aging.",
-      "fiscal_impact_summary": "The bill mandates an annual appropriation of at least 100000 in the State budget for aging-in-place grants, with at least 20% dedicated to supporting senior villages. The fiscal note indicates the bill primarily alters the purposes for which existing funds may be used. Local governments that operate area agencies on aging may receive these grants, which would increase both their revenues and expenditures.",
+      "stakeholders": "Seniors and older adults, nonprofit organizations, senior villages, and Area Agencies on Aging (AAAs)",
+      "fiscal_impact_summary": "The bill mandates that the Governor include at least 100,000 dollars in the annual budget for aging-in-place grants, with at least 20 percent of that funding dedicated to senior villages. According to the Fiscal Note, the bill primarily alters the permitted uses of existing funds, and any administrative changes for the Maryland Department of Aging can be handled with existing resources. Local governments may see an increase in expenditures and revenues if their Area Agencies on Aging receive these grants.",
       "agency_relevance": [
         {
           "agency_name": "Department of Aging",
           "is_relevant": true,
-          "relevance_explanation": "The Maryland Department of Aging is the primary agency authorized to administer the grant program, manage the application process for nonprofits and area agencies on aging, and oversee the implementation of multigenerational third place initiatives within aging-in-place programs.",
+          "relevance_explanation": "The bill directly authorizes the Department of Aging to administer grants to nonprofit organizations and area agencies on aging for aging-in-place programs and multigenerational third places, making it the primary implementing agency.",
           "relevance_rating": 5
-        },
-        {
-          "agency_name": "Governor's Office",
-          "is_relevant": true,
-          "relevance_explanation": "The bill mandates that the Governor include a minimum appropriation of $100,000 in the annual budget bill for the purposes of these grants and oversees the executive department responsible for the program.",
-          "relevance_rating": 2
         },
         {
           "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "As the principal fiscal agency, DBM is responsible for developing the state's budget and supervising the execution of the $100,000 mandated appropriation within the Department of Aging's budget.",
+          "relevance_explanation": "The bill mandates that the Governor include an appropriation of at least $100,000 in the annual budget bill for these grants, a process managed and supervised by the Department of Budget and Management.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Governor's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The Governor's Office oversees the Department of Aging and is responsible for proposing the annual state budget, which must now include the mandated $100,000 appropriation for this program.",
           "relevance_rating": 2
+        },
+        {
+          "agency_name": "Governor's Grants Office",
+          "is_relevant": true,
+          "relevance_explanation": "The Governor's Grants Office provides training and technical assistance to state agencies to help them manage grant programs and ensure compliance, which is relevant to the new grant authorities established by this bill.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Office of the Attorney General",
+          "is_relevant": true,
+          "relevance_explanation": "The Office of the Attorney General provides legal counsel to state agencies and would be responsible for reviewing the legality of new grant agreements and any regulations adopted by the Department of Aging under this act.",
+          "relevance_rating": 1
         }
       ]
     },
-    "amended_status": "amended",
+    "amended_status": "original",
     "amend_input_hash": "5698fa0c629358cd65b2043994c43ff6cf5c127eafa63d8be6c1621b559fe8ea",
-    "qa_input_hash": "58960117242fe30e6ad43e4235b6088bead27831dfca8dc7d724b3f1b9596a13",
-    "last_updated_local": "2026-04-14T06:14:28.426328",
-    "bill_hash": "08812df26b52aa1d96e4149cde79bfd5"
+    "qa_input_hash": "74b072140a2336d3ad6ea855babd338a6b9849994ed4aad28f4fc3dd950914f0",
+    "last_updated_local": "2026-04-23T05:48:06.650328",
+    "bill_hash": "8e6320764577a239ef2ed25ec532c433"
   },
   "HB0812": {
     "first_seen": "2026-02-06T19:35:36.884548",
@@ -67334,8 +67412,8 @@
   },
   "HB0828": {
     "first_seen": "2026-02-06T19:35:46.341963",
-    "last_updated": "2026-04-15T05:44:32.212209",
-    "last_seen": "2026-04-15T05:44:32.212209",
+    "last_updated": "2026-04-23T05:46:19.561801",
+    "last_seen": "2026-04-23T05:46:19.561801",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -67383,8 +67461,8 @@
     "amended_status": "amended",
     "amend_input_hash": "b17a42771436966d5f0df2fc9586177feeccf9024799f62656ae015749f17fd6",
     "qa_input_hash": "de2a4d27a28ca8da830689d3c780de5abd13a81e017b083b0c8089f0b8e27273",
-    "last_updated_local": "2026-04-15T05:58:34.638402",
-    "bill_hash": "e2bdfb9565cdbdae5acb83c0c5db1848"
+    "last_updated_local": "2026-04-23T05:47:44.207537",
+    "bill_hash": "722dd537aa4c99a4ea6553110e0894c7"
   },
   "HB0829": {
     "first_seen": "2026-02-06T19:35:46.905036",
@@ -70003,8 +70081,8 @@
   },
   "HB0864": {
     "first_seen": "2026-02-06T19:36:06.308408",
-    "last_updated": "2026-04-14T05:44:21.752596",
-    "last_seen": "2026-04-14T05:44:21.752596",
+    "last_updated": "2026-04-23T05:46:21.671024",
+    "last_seen": "2026-04-23T05:46:21.671024",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -70136,8 +70214,8 @@
     "amended_status": "amended",
     "amend_input_hash": "a6c216a449dbdd13deddf58df868365a94179a8e699dbc14b3ba1035ea842407",
     "qa_input_hash": "0653df3feab89466accbf1a7483a499c0a5c7bbdcbc4da35d823219e7321ced7",
-    "last_updated_local": "2026-04-14T06:16:12.185320",
-    "bill_hash": "cb540355862f8765fee8bfed08edd0d2"
+    "last_updated_local": "2026-04-23T05:47:45.904327",
+    "bill_hash": "af13788a1587a41101c0ec09277f81ff"
   },
   "HB0865": {
     "first_seen": "2026-02-06T19:36:06.890227",
@@ -72535,8 +72613,8 @@
   },
   "HB0895": {
     "first_seen": "2026-02-06T19:36:24.339035",
-    "last_updated": "2026-04-14T05:44:27.069034",
-    "last_seen": "2026-04-14T05:44:27.069034",
+    "last_updated": "2026-04-23T05:46:24.116931",
+    "last_seen": "2026-04-23T05:46:24.116931",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -72608,8 +72686,8 @@
     "amended_status": "amended",
     "amend_input_hash": "2e8910fb40da18c127326467de31c8c0399874f61018bcd21cf1036952d6cdf8",
     "qa_input_hash": "8b69783b3c0869a62610e82c7efbd82b58a0839cfcb0d46f90f664c960e18674",
-    "last_updated_local": "2026-04-14T06:18:01.193978",
-    "bill_hash": "11ed9311bdbb6f127803bc64b71ca898"
+    "last_updated_local": "2026-04-23T05:47:48.348959",
+    "bill_hash": "605d4cecd91adaf86de1ffb3949e04d6"
   },
   "HB0896": {
     "first_seen": "2026-02-06T19:36:24.928782",
@@ -76097,8 +76175,8 @@
   },
   "HB0939": {
     "first_seen": "2026-02-06T19:36:50.345054",
-    "last_updated": "2026-04-14T05:44:33.348821",
-    "last_seen": "2026-04-14T05:44:33.348821",
+    "last_updated": "2026-04-23T05:46:25.796884",
+    "last_seen": "2026-04-23T05:46:25.796884",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -76146,8 +76224,8 @@
     "amended_status": "amended",
     "amend_input_hash": "b92df022d83186ff669ed2b9155b1a2b3ecee0e9fe371ca1915ef8e853c6da38",
     "qa_input_hash": "00fc80e7f735053ada879860283e9db97b159b7613ffb3a10e80330848dd89b4",
-    "last_updated_local": "2026-04-14T06:18:04.750424",
-    "bill_hash": "1ee101da133c5cae3ce0db6e911cef2b"
+    "last_updated_local": "2026-04-23T05:47:49.378279",
+    "bill_hash": "b5a8345c01aeb5d348e8b4d05f582218"
   },
   "HB0940": {
     "first_seen": "2026-02-06T19:36:50.900596",
@@ -78041,8 +78119,8 @@
   },
   "HB0963": {
     "first_seen": "2026-02-06T19:37:05.734952",
-    "last_updated": "2026-04-14T05:44:36.289245",
-    "last_seen": "2026-04-14T05:44:36.289245",
+    "last_updated": "2026-04-23T05:46:27.653997",
+    "last_seen": "2026-04-23T05:46:27.653997",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -78090,8 +78168,8 @@
     "amended_status": "amended",
     "amend_input_hash": "d2295b8c6dfe13856e3d2eb61d13cdd50e3bad4c9a6e49fdf877eb78f1cb2700",
     "qa_input_hash": "2c97d9a70c4d014f674f37b0721c20923f2f68e9f3dfaec3a86be987a9e40088",
-    "last_updated_local": "2026-04-14T06:18:55.480723",
-    "bill_hash": "8c09f20a1ef4323eb18f9d0c227a176d"
+    "last_updated_local": "2026-04-23T05:47:49.045275",
+    "bill_hash": "b72a8614b699aa284708175624858123"
   },
   "HB0964": {
     "first_seen": "2026-02-06T19:37:06.357448",
@@ -80916,8 +80994,8 @@
   },
   "HB0998": {
     "first_seen": "2026-02-06T19:37:28.554349",
-    "last_updated": "2026-04-14T05:44:41.209067",
-    "last_seen": "2026-04-14T05:44:41.209067",
+    "last_updated": "2026-04-23T05:46:29.582400",
+    "last_seen": "2026-04-23T05:46:29.582400",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -80965,8 +81043,8 @@
     "amended_status": "amended",
     "amend_input_hash": "030dbfe2ad8a86f3a339fc9feae57874d96feb8b73edf99730315fd63df15b8c",
     "qa_input_hash": "8dbfed8246645272eeabfbae04efcfba1839b861618f98f073e33cd423980b5d",
-    "last_updated_local": "2026-04-14T06:18:59.284904",
-    "bill_hash": "8a567e5aaccd50a17231e1a8feccd091"
+    "last_updated_local": "2026-04-23T05:47:51.140248",
+    "bill_hash": "55e7fc4d1527fbadbfa1a74af7ccbb59"
   },
   "HB0999": {
     "first_seen": "2026-02-06T19:37:29.116292",
@@ -81084,8 +81162,8 @@
   },
   "HB1001": {
     "first_seen": "2026-02-06T19:37:30.396443",
-    "last_updated": "2026-04-14T05:44:42.037984",
-    "last_seen": "2026-04-14T05:44:42.037984",
+    "last_updated": "2026-04-23T05:46:31.578126",
+    "last_seen": "2026-04-23T05:46:31.578126",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -81139,8 +81217,8 @@
     "amended_status": "amended",
     "amend_input_hash": "d2bec2ffda0a8e010e90acfb2346c5f80743c94c8fe390d29679e722151edacc",
     "qa_input_hash": "527c7bd9e42ffd1afc9a409a1084fb298abb8684faa270e4c509e7286a05af84",
-    "last_updated_local": "2026-04-14T06:23:38.914170",
-    "bill_hash": "b623ae56df198b65d0b178866cbb36df"
+    "last_updated_local": "2026-04-23T05:47:51.474878",
+    "bill_hash": "6a57d93a80b664be8eb809ebeb991951"
   },
   "HB1002": {
     "first_seen": "2026-02-06T19:37:30.949201",
@@ -82163,8 +82241,8 @@
   },
   "HB1015": {
     "first_seen": "2026-02-06T19:37:38.918385",
-    "last_updated": "2026-04-12T05:46:14.414010",
-    "last_seen": "2026-04-12T05:46:14.414010",
+    "last_updated": "2026-04-23T05:46:33.889431",
+    "last_seen": "2026-04-23T05:46:33.889431",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -82260,13 +82338,13 @@
     "amended_status": "amended",
     "amend_input_hash": "2310d4e0d79f6f67974367ece05171e3cf3385f0f9556d56305183b9a1c18100",
     "qa_input_hash": "a78e8272c26032b22b78156e13e4405341856f8684b6202ca9271c3bba30c129",
-    "last_updated_local": "2026-04-12T06:32:38.250618",
-    "bill_hash": "fd52e5e109c5eee8725ef05f3d3494da"
+    "last_updated_local": "2026-04-23T05:47:52.997504",
+    "bill_hash": "524297ab773c0c9a96ca7defb7b23f23"
   },
   "HB1016": {
     "first_seen": "2026-02-06T19:37:39.576938",
-    "last_updated": "2026-04-14T05:44:43.574227",
-    "last_seen": "2026-04-14T05:44:43.574227",
+    "last_updated": "2026-04-23T05:46:35.655763",
+    "last_seen": "2026-04-23T05:46:35.655763",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -82314,13 +82392,13 @@
     "amended_status": "amended",
     "amend_input_hash": "4caee93eb91364208f301862eb7d6837947939ed37251b3d88d36224686dea83",
     "qa_input_hash": "156d1b59ddabf1816e4805e8f3d7b03445f02898ad6f39916c074dd1ff4ed3ec",
-    "last_updated_local": "2026-04-14T06:21:19.387040",
-    "bill_hash": "d657cd7a717ff357179fb73c10a72880"
+    "last_updated_local": "2026-04-23T05:47:52.666304",
+    "bill_hash": "96f2dcad7bedda83044c383a3e8baaeb"
   },
   "HB1017": {
     "first_seen": "2026-02-06T19:37:40.276987",
-    "last_updated": "2026-04-14T05:44:44.557596",
-    "last_seen": "2026-04-14T05:44:44.557596",
+    "last_updated": "2026-04-23T05:46:37.826225",
+    "last_seen": "2026-04-23T05:46:37.826225",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -82416,8 +82494,8 @@
     "amended_status": "amended",
     "amend_input_hash": "f9206b1d642101a0f0511b855607e6b08713501aec44b87f659a3dd01f230c88",
     "qa_input_hash": "beb01643683109179a677b0782769a36fde6246ac45b3d3e5ab20ea369bec318",
-    "last_updated_local": "2026-04-14T06:23:01.589400",
-    "bill_hash": "199b6f95a139c05c88ba9931e3582793"
+    "last_updated_local": "2026-04-23T05:48:01.945364",
+    "bill_hash": "b5a78cc9585c140a70b3cd74ff576385"
   },
   "HB1018": {
     "first_seen": "2026-02-06T19:37:40.899245",
@@ -108480,8 +108558,8 @@
   },
   "HB1120": {
     "first_seen": "2026-02-12T06:01:42.374034",
-    "last_updated": "2026-04-19T05:43:43.145691",
-    "last_seen": "2026-04-19T05:43:43.145691",
+    "last_updated": "2026-04-23T05:46:41.023100",
+    "last_seen": "2026-04-23T05:46:41.023100",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -108643,8 +108721,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "685ebce81becb01d37e05b161fda3b3b7893e06185f52196f066a395ff4d1153",
-    "last_updated_local": "2026-04-19T05:44:27.819639",
-    "bill_hash": "4d1fe113da19a8eab3cc4852c7085828"
+    "last_updated_local": "2026-04-23T05:48:06.484655",
+    "bill_hash": "a4a3279bab76f63c6b0b697899321dab"
   },
   "HB1121": {
     "first_seen": "2026-02-12T06:01:42.881053",
@@ -110132,8 +110210,8 @@
   },
   "HB1139": {
     "first_seen": "2026-02-12T06:01:51.671111",
-    "last_updated": "2026-04-12T05:47:08.928657",
-    "last_seen": "2026-04-12T05:47:08.928657",
+    "last_updated": "2026-04-23T05:46:42.904585",
+    "last_seen": "2026-04-23T05:46:42.904585",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -110241,8 +110319,8 @@
     "amended_status": "amended",
     "amend_input_hash": "2621863d20a99991fdcfdb31381b8b330f4f4a85ca36815693b8bb219c86fac9",
     "qa_input_hash": "3384590957351e96ca316ab2c736637f042978a26b7d4ce33020733b9424911e",
-    "last_updated_local": "2026-04-12T06:39:13.785448",
-    "bill_hash": "59a4bed6f5d24c3d0a8832b9a1aacac2"
+    "last_updated_local": "2026-04-23T05:48:09.826114",
+    "bill_hash": "dec2f338a1885e8d0f82f58ef129f615"
   },
   "HB1140": {
     "first_seen": "2026-02-12T06:01:52.109855",
@@ -111107,8 +111185,8 @@
   },
   "HB1151": {
     "first_seen": "2026-02-12T06:01:57.485451",
-    "last_updated": "2026-04-14T05:44:59.685566",
-    "last_seen": "2026-04-14T05:44:59.685566",
+    "last_updated": "2026-04-23T05:46:44.754381",
+    "last_seen": "2026-04-23T05:46:44.754381",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -111180,8 +111258,8 @@
     "amended_status": "amended",
     "amend_input_hash": "1dafb477090fc92d3af9b538328b1854a7c0e063acf8335c964e9c2cdc0dcde7",
     "qa_input_hash": "d2f3cc9368e22c46bfdbf6d09483d8f42833eac544b9a029acbd6306d36f99e2",
-    "last_updated_local": "2026-04-14T06:33:16.288140",
-    "bill_hash": "e138748d7eb83e687047bd100b409539"
+    "last_updated_local": "2026-04-23T05:48:09.496516",
+    "bill_hash": "5409b58bd8c0e30dc0ee0302f53fef01"
   },
   "HB1152": {
     "first_seen": "2026-02-12T06:01:57.934529",
@@ -112079,8 +112157,8 @@
   },
   "HB1164": {
     "first_seen": "2026-02-12T06:02:03.653236",
-    "last_updated": "2026-04-12T05:47:15.508208",
-    "last_seen": "2026-04-12T05:47:15.508208",
+    "last_updated": "2026-04-23T05:46:46.888302",
+    "last_seen": "2026-04-23T05:46:46.888302",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -112134,8 +112212,8 @@
     "amended_status": "amended",
     "amend_input_hash": "3fe376d36880a356c4becc8ac303479535b0e2ac57f3fc432509bb2a50519e2f",
     "qa_input_hash": "96962a5cedf5b2c4b8374858c41073032030b3cf2739642f7249e7869dd5f286",
-    "last_updated_local": "2026-04-12T06:41:55.932371",
-    "bill_hash": "36e9e2a8a4500d76179214dc9c4f3635"
+    "last_updated_local": "2026-04-23T05:48:10.154703",
+    "bill_hash": "c4bb4f56d370942ba35d1f40746ca235"
   },
   "HB1165": {
     "first_seen": "2026-02-12T06:02:04.094695",
@@ -113192,8 +113270,8 @@
   },
   "HB1178": {
     "first_seen": "2026-02-12T06:02:10.034567",
-    "last_updated": "2026-04-14T05:45:03.554623",
-    "last_seen": "2026-04-14T05:45:03.554623",
+    "last_updated": "2026-04-23T05:46:48.569296",
+    "last_seen": "2026-04-23T05:46:48.569296",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -113235,8 +113313,8 @@
     "amended_status": "amended",
     "amend_input_hash": "6eba7c35121688b96c64c7f77f89af7c05385e100ef9335be6786a65c56df22a",
     "qa_input_hash": "147510c3d0108a5bc104a94724f693c539c0c2e5ffcbb227a295d23dc4000810",
-    "last_updated_local": "2026-04-14T06:34:53.087722",
-    "bill_hash": "73925feaa08b674c0e9ca508934c149b"
+    "last_updated_local": "2026-04-23T05:48:13.614049",
+    "bill_hash": "e1b5d4e5d5025848b52f8d3554256353"
   },
   "HB1179": {
     "first_seen": "2026-02-12T06:02:10.625119",
@@ -113359,8 +113437,8 @@
   },
   "HB1181": {
     "first_seen": "2026-02-12T06:02:11.519135",
-    "last_updated": "2026-04-12T05:47:26.744459",
-    "last_seen": "2026-04-12T05:47:26.744459",
+    "last_updated": "2026-04-23T05:46:50.678999",
+    "last_seen": "2026-04-23T05:46:50.678999",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -113426,8 +113504,8 @@
     "amended_status": "amended",
     "amend_input_hash": "c2904b5f30d9c3f2850ae9c4614b20d84c216090800855613fee5ddad3e098e3",
     "qa_input_hash": "8d62f26f5a7d60453ba86e3098f79a12b1cd69ca823cb7e19179bb84bb8e7e57",
-    "last_updated_local": "2026-04-12T06:44:01.705091",
-    "bill_hash": "bc5b9fa84ca42fbc21c056ba403aa598"
+    "last_updated_local": "2026-04-23T05:48:13.282825",
+    "bill_hash": "cbf1c29464e97a876139fac74af6ed4a"
   },
   "HB1182": {
     "first_seen": "2026-02-12T06:02:11.965528",
@@ -122974,8 +123052,8 @@
   },
   "HB1300": {
     "first_seen": "2026-02-13T05:59:18.529340",
-    "last_updated": "2026-04-14T05:45:16.379800",
-    "last_seen": "2026-04-14T05:45:16.379800",
+    "last_updated": "2026-04-23T05:46:52.493318",
+    "last_seen": "2026-04-23T05:46:52.493318",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -123065,8 +123143,8 @@
     "amended_status": "amended",
     "amend_input_hash": "c8f2885b6e7c1eaebe8baf8a047b5f623037df58edea5ece349f4b1473c4b10d",
     "qa_input_hash": "052c23d25b2f236a60eaa34261748a968979da652006cd6030984b84e81eaa82",
-    "last_updated_local": "2026-04-14T06:38:18.879562",
-    "bill_hash": "0849899fd00740f26bbed3056d538600"
+    "last_updated_local": "2026-04-23T05:48:12.950993",
+    "bill_hash": "59677a58014776e60bc182588a316a95"
   },
   "HB1301": {
     "first_seen": "2026-02-13T05:59:19.070143",
@@ -125265,8 +125343,8 @@
   },
   "HB1326": {
     "first_seen": "2026-02-13T05:59:37.786801",
-    "last_updated": "2026-04-14T05:45:20.086174",
-    "last_seen": "2026-04-14T05:45:20.086174",
+    "last_updated": "2026-04-23T05:46:54.369206",
+    "last_seen": "2026-04-23T05:46:54.369206",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -125332,8 +125410,8 @@
     "amended_status": "amended",
     "amend_input_hash": "a3c80f9e58bae3df969997402bf593e77b2698f26f6d585744529576221ee57b",
     "qa_input_hash": "5f9e337af06bacb23eb05a01f09733a55f388f899e802bf6c219c140b458bbde",
-    "last_updated_local": "2026-04-14T06:38:27.513290",
-    "bill_hash": "cd75d12d839e0fd06bc37f73344bcfa6"
+    "last_updated_local": "2026-04-23T05:48:15.664597",
+    "bill_hash": "efb7523c0179a7171ffb55745cd245f6"
   },
   "HB1327": {
     "first_seen": "2026-02-13T05:59:38.506949",
@@ -129720,8 +129798,8 @@
   },
   "HB1376": {
     "first_seen": "2026-02-14T05:45:29.856196",
-    "last_updated": "2026-04-12T05:48:35.166000",
-    "last_seen": "2026-04-12T05:48:35.166000",
+    "last_updated": "2026-04-23T05:46:56.359735",
+    "last_seen": "2026-04-23T05:46:56.359735",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -129793,8 +129871,8 @@
     "amended_status": "amended",
     "amend_input_hash": "7a7d3844f1dcfc1af6fb7db74de6b7eb2080b24ed38ccc6f6d545e6cd407a9a9",
     "qa_input_hash": "fd0648ebfc1ae16e08d089b0d09d7dab7966fa8bec7286dbc9d6da638131ce81",
-    "last_updated_local": "2026-04-12T06:50:38.792094",
-    "bill_hash": "db08740acd13845ef4dfdc7c88defddf"
+    "last_updated_local": "2026-04-23T05:48:15.997758",
+    "bill_hash": "f35ff68dbf0e79e29d78e4433a5d766c"
   },
   "HB1377": {
     "first_seen": "2026-02-14T05:45:31.168231",
@@ -134346,8 +134424,8 @@
   },
   "HB1430": {
     "first_seen": "2026-02-14T05:46:37.873716",
-    "last_updated": "2026-04-15T05:45:23.270229",
-    "last_seen": "2026-04-15T05:45:23.270229",
+    "last_updated": "2026-04-23T05:46:58.700306",
+    "last_seen": "2026-04-23T05:46:58.700306",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -134419,8 +134497,8 @@
     "amended_status": "amended",
     "amend_input_hash": "3498004c049d4eea99d7c8235a2834d65ffb43cae3a57dedd1e92be642af2c29",
     "qa_input_hash": "4f3c024bb2c2b9bf4e65e2e4d3d196fddabcb82e56feb683bf3057b48e7c308a",
-    "last_updated_local": "2026-04-15T06:12:31.301194",
-    "bill_hash": "193147a074bb73e3e8943b847f472a30"
+    "last_updated_local": "2026-04-23T05:48:16.329093",
+    "bill_hash": "11fa7493684214a167f931ede3bd1e86"
   },
   "HB1431": {
     "first_seen": "2026-02-14T05:46:39.082026",
@@ -137466,8 +137544,8 @@
   },
   "HB1470": {
     "first_seen": "2026-02-14T05:47:26.086721",
-    "last_updated": "2026-04-12T05:49:07.611948",
-    "last_seen": "2026-04-12T05:49:07.611948",
+    "last_updated": "2026-04-23T05:47:00.453123",
+    "last_seen": "2026-04-23T05:47:00.453123",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -137515,8 +137593,8 @@
     "amended_status": "amended",
     "amend_input_hash": "8c1681c13faea96df47ae32a3954cca4fdba86eca48fba5a7f95e4b39f1b2def",
     "qa_input_hash": "e6637ae5c1850a801c25c826a2bcb9bbd9776e72bf2f94dece91f1be0d83e90d",
-    "last_updated_local": "2026-04-12T06:52:57.661725",
-    "bill_hash": "5f0dfc991f7f9cf3f3ace35b643fcc49"
+    "last_updated_local": "2026-04-23T05:48:16.773419",
+    "bill_hash": "487ec8c9b55e3a8ee1b4d3cddbbaca3b"
   },
   "HB1471": {
     "first_seen": "2026-02-14T05:47:27.261327",
