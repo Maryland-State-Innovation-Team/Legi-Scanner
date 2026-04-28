@@ -69425,8 +69425,8 @@
   },
   "HB0854": {
     "first_seen": "2026-02-06T19:36:00.944429",
-    "last_updated": "2026-04-15T05:44:35.828389",
-    "last_seen": "2026-04-15T05:44:35.828389",
+    "last_updated": "2026-04-28T06:02:10.928591",
+    "last_seen": "2026-04-28T06:02:10.928591",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -69504,8 +69504,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "80c484c4d9fe860907fa9b02e6e5aa2117ce1463570a8ed74871d958394cd694",
-    "last_updated_local": "2026-04-15T05:58:36.770465",
-    "bill_hash": "e442ed2368aaa06dc0a02d1870157574"
+    "last_updated_local": "2026-04-28T06:02:28.700337",
+    "bill_hash": "6dfbcf52f74d6e8c98e9b61fb5fecc03"
   },
   "HB0855": {
     "first_seen": "2026-02-06T19:36:01.504698",
@@ -89952,8 +89952,8 @@
   },
   "SB0461": {
     "first_seen": "2026-02-06T19:39:02.800344",
-    "last_updated": "2026-04-21T05:44:11.883919",
-    "last_seen": "2026-04-21T05:44:11.883919",
+    "last_updated": "2026-04-28T06:02:15.310898",
+    "last_seen": "2026-04-28T06:02:15.310898",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -90043,8 +90043,8 @@
     "amended_status": "amended",
     "amend_input_hash": "56d55f0ee44890c9802298e2f4c03377a2b02d0b276c4256575dec17604ed2f4",
     "qa_input_hash": "a839a89f17bfd6953ad4e12d4f23a7b952b697f4ea0ed8d62bfa1011f5d2f93c",
-    "last_updated_local": "2026-04-21T05:44:18.727145",
-    "bill_hash": "6e8c1c84a10f1f788036aff2530c240d"
+    "last_updated_local": "2026-04-28T06:03:20.080309",
+    "bill_hash": "24cbf7da80a03edb39a89aad2f343e32"
   },
   "SB0465": {
     "first_seen": "2026-02-06T19:39:03.416600",
@@ -92298,8 +92298,8 @@
   },
   "SB0594": {
     "first_seen": "2026-02-06T19:39:41.185077",
-    "last_updated": "2026-04-21T05:44:13.065268",
-    "last_seen": "2026-04-21T05:44:13.065268",
+    "last_updated": "2026-04-28T06:02:16.498624",
+    "last_seen": "2026-04-28T06:02:16.498624",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -92371,13 +92371,13 @@
     "amended_status": "amended",
     "amend_input_hash": "72ac08fa56b0e23c2c2d41fdf7b1498a5e8b1fc3e27551bb08c175f573e9898d",
     "qa_input_hash": "fd14c1e285442ed6f927fa18a51972de8db4068ea254e7181b3f892e730bd0bc",
-    "last_updated_local": "2026-04-21T05:44:19.406489",
-    "bill_hash": "cae07ee41e9a01317a63f9c44842678e"
+    "last_updated_local": "2026-04-28T06:03:20.873947",
+    "bill_hash": "08f50414b815bea83ad473b607ca6ea2"
   },
   "SB0597": {
     "first_seen": "2026-02-06T19:39:41.811945",
-    "last_updated": "2026-04-15T05:45:54.171106",
-    "last_seen": "2026-04-15T05:45:54.171106",
+    "last_updated": "2026-04-28T06:02:17.383442",
+    "last_seen": "2026-04-28T06:02:17.383442",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -92461,8 +92461,8 @@
     "amended_status": "amended",
     "amend_input_hash": "3e2d6477877faab73169edb2365247777071a964a32ab2fc95c93ef6361a8384",
     "qa_input_hash": "00fc2ea7ccf9822302b05f6679aef7b6039cbe084e2efee4722a0b14a26f0380",
-    "last_updated_local": "2026-04-15T06:25:22.659277",
-    "bill_hash": "832c5a7be82d3a59ecb6cae744d5644f"
+    "last_updated_local": "2026-04-28T06:03:24.344397",
+    "bill_hash": "ec0236f61387df5909f929ea5972545b"
   },
   "SB0600": {
     "first_seen": "2026-02-06T19:39:42.446420",
@@ -104851,8 +104851,8 @@
   },
   "SB0898": {
     "first_seen": "2026-02-11T06:08:54.786676",
-    "last_updated": "2026-04-15T05:45:58.743279",
-    "last_seen": "2026-04-15T05:45:58.743279",
+    "last_updated": "2026-04-28T06:02:18.158848",
+    "last_seen": "2026-04-28T06:02:18.158848",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -104918,8 +104918,8 @@
     "amended_status": "amended",
     "amend_input_hash": "9c5be55abfe25767999a9c30309044c78f22244bc87a3edbf925a5298d2395d2",
     "qa_input_hash": "6f1a37f2e8c9cee3c24718a49b2964b4babb189c9fc1aec0a2b01d7968c5a379",
-    "last_updated_local": "2026-04-15T06:24:16.774516",
-    "bill_hash": "ba4199c4f7f2bf91b9a2422e556d883e"
+    "last_updated_local": "2026-04-28T06:03:24.016930",
+    "bill_hash": "b7a902fb52488687699ff07268af818c"
   },
   "SB0899": {
     "first_seen": "2026-02-11T06:08:55.136364",
@@ -105692,8 +105692,8 @@
   },
   "SB0937": {
     "first_seen": "2026-02-11T06:09:04.546019",
-    "last_updated": "2026-04-24T05:48:39.169440",
-    "last_seen": "2026-04-24T05:48:39.169440",
+    "last_updated": "2026-04-28T06:02:19.420848",
+    "last_seen": "2026-04-28T06:02:19.420848",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -105747,8 +105747,8 @@
     "amended_status": "amended",
     "amend_input_hash": "c2636b2fb2cdd8d7923eb061b7e925ff8c7c338c01a8b61b123d622c0afcbf5e",
     "qa_input_hash": "8d356072cba777c187916913500a2358e37427f98f7a7299e83ab1aa8922bd08",
-    "last_updated_local": "2026-04-24T05:48:48.681084",
-    "bill_hash": "3ca99df535a75f0c2b6c933952e6934a"
+    "last_updated_local": "2026-04-28T06:03:24.670700",
+    "bill_hash": "8fb911a52e312a3eaf95f410a2617f55"
   },
   "SB0938": {
     "first_seen": "2026-02-11T06:09:04.925001",
@@ -112439,8 +112439,8 @@
   },
   "HB1167": {
     "first_seen": "2026-02-12T06:02:04.982863",
-    "last_updated": "2026-04-12T05:47:17.379636",
-    "last_seen": "2026-04-12T05:47:17.379636",
+    "last_updated": "2026-04-28T06:02:11.694275",
+    "last_seen": "2026-04-28T06:02:11.694275",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -112518,8 +112518,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "2a1320f0e6948b90f84d810df3a73acde275c9174925ec2f2d87f24cdafcd0ff",
-    "last_updated_local": "2026-04-12T06:39:52.911556",
-    "bill_hash": "af3cde6cb4f79116c3b952e79c7a7049"
+    "last_updated_local": "2026-04-28T06:02:55.869179",
+    "bill_hash": "57411b2406aaf7a40fc7b55bc22549f2"
   },
   "HB1168": {
     "first_seen": "2026-02-12T06:02:05.422448",
@@ -118709,8 +118709,8 @@
   },
   "HB1248": {
     "first_seen": "2026-02-13T05:58:39.655627",
-    "last_updated": "2026-04-15T05:45:12.213225",
-    "last_seen": "2026-04-15T05:45:12.213225",
+    "last_updated": "2026-04-28T06:02:12.489259",
+    "last_seen": "2026-04-28T06:02:12.489259",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -118721,93 +118721,93 @@
       "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1248_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill establishes the Workgroup for an Inclusive State Workplace to study and make recommendations on expanding part-time State employment opportunities for individuals who face challenges with traditional full-time employment, such as caregivers, individuals with disabilities, and older adults. The workgroup is required to report its findings by September 15, 2027, and the Department of Budget and Management must subsequently develop and distribute guidance to State agencies on expanding these part-time opportunities by December 31, 2027.",
+      "bill_summary": "This bill establishes the Workgroup for an Inclusive State Workplace to study and make recommendations on expanding part-time State employment opportunities for individuals who face challenges with traditional full-time employment structures, such as caregivers, individuals with disabilities, and older adults. The Department of Budget and Management (DBM) is required to staff the workgroup and, following its findings, develop and distribute guidance to State agencies on expanding part-time roles.",
       "start_year": 2026,
       "end_year": 2028,
-      "funding": null,
-      "responsible_party": "The Workgroup for an Inclusive State Workplace and the Department of Budget and Management",
-      "stakeholders": "Caregivers, individuals with disabilities, older adults, State employees, and Maryland State agencies including the Department of Transportation and the University System of Maryland.",
-      "fiscal_impact_summary": "According to the Fiscal Note, the Department of Budget and Management can staff the workgroup using existing budgeted resources. Any expense reimbursements for workgroup members are expected to be minimal and absorbable within existing resources. No impact on state revenues or local government finances is anticipated.",
+      "funding": 0,
+      "responsible_party": "Department of Budget and Management",
+      "stakeholders": "Caregivers, individuals with disabilities or medical conditions, older adults, the Department of Budget and Management, the University System of Maryland, and the Maryland Department of Transportation.",
+      "fiscal_impact_summary": "The Department of Budget and Management can staff the workgroup and issue guidance to State agencies with existing budgeted resources. Any expense reimbursements for workgroup members are expected to be minimal and absorbable within existing budgets. The bill has no effect on State revenues or local government finances.",
       "agency_relevance": [
         {
           "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "DBM is the primary implementing agency, responsible for staffing the Workgroup, providing the Secretary of Budget and Management as a member, and developing/distributing final guidance on part-time employment to all State agencies based on the Workgroup's findings.",
+          "relevance_explanation": "The Department of Budget and Management is the primary agency responsible for the bill's implementation. DBM is tasked with providing staff for the workgroup, the Secretary is a mandatory member, and the department must develop and distribute final guidance on expanding part-time employment to all State agencies based on the workgroup's findings.",
           "relevance_rating": 5
-        },
-        {
-          "agency_name": "Executive Commissions, Committees, Task Forces, and Advisory Boards",
-          "is_relevant": true,
-          "relevance_explanation": "The bill establishes a new 'Workgroup for an Inclusive State Workplace,' which is a temporary advisory body tasked with studying and making recommendations on State employment policies.",
-          "relevance_rating": 5
-        },
-        {
-          "agency_name": "Governor's Office",
-          "is_relevant": true,
-          "relevance_explanation": "The Governor is responsible for appointing several members of the Workgroup (including representatives for caregivers, disabilities, and healthcare) and designating the Workgroup's chair.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Comptroller of Maryland",
-          "is_relevant": true,
-          "relevance_explanation": "The Comptroller, or their designee, is a mandated member of the Workgroup for an Inclusive State Workplace.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Department of Information Technology",
-          "is_relevant": true,
-          "relevance_explanation": "The Secretary of Information Technology, or their designee, is a mandated member of the Workgroup for an Inclusive State Workplace.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Department of Commerce",
-          "is_relevant": true,
-          "relevance_explanation": "The Secretary of Commerce, or their designee, is a mandated member of the Workgroup for an Inclusive State Workplace.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Department of Aging",
-          "is_relevant": true,
-          "relevance_explanation": "The Secretary of Aging is a mandated member of the Workgroup, and the Workgroup is specifically tasked with creating inclusive employment opportunities for older adults.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Department of Health",
-          "is_relevant": true,
-          "relevance_explanation": "The Secretary of Health, or their designee, is a mandated member of the Workgroup for an Inclusive State Workplace.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Department of Disabilities",
-          "is_relevant": true,
-          "relevance_explanation": "The Secretary of Disabilities is a mandated member of the Workgroup, and the Workgroup is specifically tasked with creating inclusive employment opportunities for individuals with disabilities.",
-          "relevance_rating": 4
         },
         {
           "agency_name": "Department of Transportation",
           "is_relevant": true,
-          "relevance_explanation": "The Secretary of Transportation is a mandated member of the Workgroup, and the bill specifically directs the Workgroup to outline steps for expanding part-time employment within the Department of Transportation.",
+          "relevance_explanation": "The Secretary of Transportation is a mandatory member of the workgroup. Additionally, the bill specifically directs the workgroup to outline steps for expanding part-time employment opportunities within the Department of Transportation's personnel system.",
           "relevance_rating": 4
         },
         {
           "agency_name": "University System of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "The Chancellor of the University System of Maryland is a mandated member of the Workgroup, and the bill specifically directs the Workgroup to outline steps for expanding part-time employment within the System.",
+          "relevance_explanation": "The Chancellor of the University System of Maryland is a mandatory member of the workgroup. The bill explicitly identifies USM as one of the three systems for which the workgroup must develop a strategy to expand inclusive part-time employment opportunities.",
           "relevance_rating": 4
+        },
+        {
+          "agency_name": "Executive Commissions, Committees, Task Forces, and Advisory Boards",
+          "is_relevant": true,
+          "relevance_explanation": "The bill establishes the 'Workgroup for an Inclusive State Workplace,' a temporary advisory body composed of state officials and appointed citizens tasked with studying and providing recommendations on state employment policies.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Comptroller of Maryland",
+          "is_relevant": true,
+          "relevance_explanation": "The Comptroller, or their designee, is a mandatory member of the Workgroup for an Inclusive State Workplace.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Department of Aging",
+          "is_relevant": true,
+          "relevance_explanation": "The Secretary of Aging is a mandatory member of the workgroup, reflecting the bill's focus on creating inclusive employment opportunities for older adults.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Department of Commerce",
+          "is_relevant": true,
+          "relevance_explanation": "The Secretary of Commerce is a mandatory member of the Workgroup for an Inclusive State Workplace.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Department of Disabilities",
+          "is_relevant": true,
+          "relevance_explanation": "The Secretary of Disabilities is a mandatory member of the workgroup, as the initiative specifically focuses on expanding employment opportunities for individuals with disabilities.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Department of Health",
+          "is_relevant": true,
+          "relevance_explanation": "The Secretary of Health is a mandatory member of the Workgroup for an Inclusive State Workplace.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Department of Information Technology",
+          "is_relevant": true,
+          "relevance_explanation": "The Secretary of Information Technology is a mandatory member of the Workgroup for an Inclusive State Workplace.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Governor's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The Governor is responsible for designating the chair of the workgroup and appointing several members, including representatives from the caregiving, disabilities, healthcare, and labor communities.",
+          "relevance_rating": 2
         },
         {
           "agency_name": "Office of Appointments",
           "is_relevant": true,
-          "relevance_explanation": "The Office of Appointments will assist the Governor in recruiting and vetting candidates for the community representatives and economists appointed to the Workgroup.",
+          "relevance_explanation": "The Office of Appointments assists the Governor in recruiting and vetting candidates for state task forces and workgroups, such as the ones required by this bill.",
           "relevance_rating": 2
         }
       ]
     },
-    "amended_status": "amended",
+    "amended_status": "original",
     "amend_input_hash": "56befbd1c8a01aff946a7f4a883faae1ab4cf46e7efb20210636c204f64cd4e5",
-    "qa_input_hash": "3b2c333ee3c7c532fae3eadbbbed3a51dbf100b6bec17ffeb1ecb68defb4058f",
-    "last_updated_local": "2026-04-15T06:14:05.719131",
-    "bill_hash": "1c56fc3d4ba6c15b1cfab347634e9c0c"
+    "qa_input_hash": "ed773d727bbf1da7a9dc167e61f4fe768d13780bce7c2ac3e79fe98a7d96d773",
+    "last_updated_local": "2026-04-28T06:03:48.200275",
+    "bill_hash": "99173c944f7dfc57d8c4bf652ad721b3"
   },
   "HB1249": {
     "first_seen": "2026-02-13T05:58:40.410195",
@@ -142703,8 +142703,8 @@
   },
   "HB1532": {
     "first_seen": "2026-02-14T05:48:27.605725",
-    "last_updated": "2026-04-22T05:44:14.059313",
-    "last_seen": "2026-04-22T05:44:14.059313",
+    "last_updated": "2026-04-28T06:02:14.433751",
+    "last_seen": "2026-04-28T06:02:14.433751",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -142866,8 +142866,8 @@
     "amended_status": "amended",
     "amend_input_hash": "49efcdd4736297b6e24ad31a7c3cf7580e6b7740d10ad96ff703041693483c2f",
     "qa_input_hash": "93954c53e5e89d11109ccd417172f406e7fae534833f9f5760dbb34d5071b2a5",
-    "last_updated_local": "2026-04-22T05:45:37.208143",
-    "bill_hash": "926af06daed21143cb154812f5b238ef"
+    "last_updated_local": "2026-04-28T06:03:21.205297",
+    "bill_hash": "11be0191b30997aa0a44e3b16080dcd3"
   },
   "HB1533": {
     "first_seen": "2026-02-14T05:48:28.380130",
