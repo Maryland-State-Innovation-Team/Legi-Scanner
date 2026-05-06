@@ -28248,8 +28248,8 @@
   },
   "HB0338": {
     "first_seen": "2026-02-06T19:30:57.979430",
-    "last_updated": "2026-04-29T06:01:03.113527",
-    "last_seen": "2026-04-29T06:01:03.113527",
+    "last_updated": "2026-05-06T06:01:15.346670",
+    "last_seen": "2026-05-06T06:01:15.346670",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -28260,75 +28260,93 @@
       "amendments": []
     },
     "qa_results": {
-      "bill_summary": "This bill alters and expands the jurisdiction of the Maryland Capitol Police (MCP) within the Department of General Services. It increases the enforcement radius around state-owned or state-leased buildings from 1,000 feet to 2,000 feet and grants MCP officers statewide authority to investigate and enforce criminal, motor vehicle, and asset forfeiture laws, provided specific notification protocols are followed and a memorandum of understanding is established for operations in Baltimore City.",
+      "bill_summary": "This bill expands the jurisdiction of the Maryland Capitol Police (MCP) within the Department of General Services (DGS) to a statewide level. It increases the enforcement radius around State-owned or State-leased buildings from 1,000 feet to 2,000 feet and authorizes MCP officers to enforce criminal, parking, and motor vehicle laws throughout the state, subject to specific notification requirements for local and state law enforcement agencies and a memorandum of understanding with the Baltimore City Police Department.",
       "start_year": 2026,
       "end_year": null,
       "funding": null,
-      "responsible_party": "Maryland Department of General Services",
-      "stakeholders": "Maryland Capitol Police officers, state government employees and officials, local law enforcement agencies, and the general public.",
-      "fiscal_impact_summary": "According to the Fiscal Note, the bill's changes are not anticipated to materially affect State or local government finances or operations. The expansion of jurisdiction for the Maryland Capitol Police is expected to be managed within existing resources.",
+      "responsible_party": "Department of General Services",
+      "stakeholders": "Maryland Capitol Police officers, state employees, local law enforcement agencies, and the general public on or near State-owned or leased properties.",
+      "fiscal_impact_summary": "According to the Fiscal Note, altering and expanding the jurisdiction of the Maryland Capitol Police is not anticipated to materially affect State or local government finances. The expansion of duties is expected to be managed using existing resources.",
       "agency_relevance": [
         {
           "agency_name": "Department of General Services",
           "is_relevant": true,
-          "relevance_explanation": "The bill primarily concerns the Maryland Capitol Police (MCP), which is a unit within the Department of General Services. The legislation expands the MCP's jurisdiction to be statewide and increases the buffer zone for their authority around state buildings.",
+          "relevance_explanation": "The Maryland Capitol Police is a unit within the Department of General Services. The bill directly alters and expands its jurisdictional authority and enforcement powers.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Maryland State Police",
           "is_relevant": true,
-          "relevance_explanation": "The bill requires the Maryland Capitol Police to notify the Secretary of State Police (the head of the Maryland State Police) reasonably in advance of investigations or enforcement actions and provides specific reporting protocols for local barracks.",
+          "relevance_explanation": "The bill requires the Maryland Capitol Police to notify the Secretary of State Police (head of MSP) in advance of investigations or enforcement actions and establishes coordination protocols between the two agencies.",
           "relevance_rating": 4
-        },
-        {
-          "agency_name": "Maryland Transit Administration",
-          "is_relevant": true,
-          "relevance_explanation": "The bill specifically requires the Maryland Capitol Police to provide notification of investigations or enforcement actions to the Chief of Police of the Maryland Transit Administration Police Force.",
-          "relevance_rating": 3
         },
         {
           "agency_name": "Department of Health",
           "is_relevant": true,
-          "relevance_explanation": "The bill specifically requires the Maryland Capitol Police to provide notification of investigations or enforcement actions to the Chief of Police of the Maryland Department of Health Secured Transport and Investigation Unit.",
+          "relevance_explanation": "The bill explicitly requires that notification of enforcement actions be provided to the Chief of Police of the Maryland Department of Health Secured Transport and Investigation Unit.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Department of Natural Resources",
           "is_relevant": true,
-          "relevance_explanation": "The bill specifically requires the Maryland Capitol Police to provide notification of investigations or enforcement actions to the Superintendent of the Maryland Department of Natural Resources Police.",
+          "relevance_explanation": "The bill explicitly requires that notification of enforcement actions be provided to the Superintendent of the Maryland Department of Natural Resources Police.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Department of Transportation",
           "is_relevant": true,
-          "relevance_explanation": "As the parent agency of the Maryland Transit Administration, the Department of Transportation is impacted by the coordination and notification requirements involving the MTA Police Force.",
-          "relevance_rating": 2
+          "relevance_explanation": "The bill explicitly requires that notification of enforcement actions be provided to the Chief of Police of the Maryland Transit Administration Police Force, which is a modal administration of MDOT.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Board of Public Works",
           "is_relevant": true,
-          "relevance_explanation": "The bill references the Board of Public Works' authority to designate public improvements or grounds that fall under the police jurisdiction of the Department of General Services.",
+          "relevance_explanation": "The Board of Public Works is authorized by the bill to designate public improvements or grounds to be under the jurisdiction and police authority of the Maryland Capitol Police.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Department of Labor",
           "is_relevant": true,
-          "relevance_explanation": "The bill alters and repeals specific language regarding the jurisdiction of the Maryland Capitol Police over buildings and grounds administered by the Maryland Department of Labor, transitioning them into a broader jurisdictional category.",
+          "relevance_explanation": "The bill repeals a specific statutory provision regarding jurisdiction over buildings administered by the Department of Labor in favor of a new statewide jurisdictional standard for State-owned property.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Department of General Services is a cabinet-level executive agency, and the bill expands the police authority of the executive branch. The Governor also oversees the Secretary of General Services, who establishes the police force.",
+          "relevance_explanation": "The Governor's Office oversees the Department of General Services and the implementation of state law enforcement policy; the Governor also appoints the Secretary of General Services who manages the Capitol Police.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Comptroller of Maryland",
+          "is_relevant": true,
+          "relevance_explanation": "The Comptroller is a member of the Board of Public Works, which is empowered by the bill to designate grounds for Maryland Capitol Police jurisdiction.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Maryland State Treasurer's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The State Treasurer is a member of the Board of Public Works, which is empowered by the bill to designate grounds for Maryland Capitol Police jurisdiction.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Office of the Attorney General",
+          "is_relevant": true,
+          "relevance_explanation": "The OAG serves as legal counsel to the Department of General Services and would provide guidance on the expanded statewide police authority and inter-agency notification requirements.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Department of Budget and Management",
+          "is_relevant": true,
+          "relevance_explanation": "As the state's principal fiscal and personnel agency, DBM oversees the administrative and personnel structures of executive agencies like the Department of General Services.",
           "relevance_rating": 1
         }
       ]
     },
-    "amended_status": "original",
-    "amend_input_hash": "efc5574f259b40c47361c6f533e89856182c5e5a49d03d5f95c4021e9d756d52",
-    "qa_input_hash": "7ed5c6c882f0ea72b70c2f5c0c35a1edc83566830f0e4a59999ab5792c55d9a1",
-    "last_updated_local": "2026-04-29T06:03:51.343356",
-    "bill_hash": "8aeac943e9ed4e22d13515f91c4ae634"
+    "amended_status": "amended",
+    "amend_input_hash": "dd39a80255293050d011235b29f57fb98ec15b328f8aa442d440cf69ded09bcb",
+    "qa_input_hash": "9787c41ae3ecc56614cf953d145e42d95721ae411f9f6c47674da3a29c96ffe8",
+    "last_updated_local": "2026-05-06T06:03:36.898203",
+    "bill_hash": "9c0070ca3f6dcd712495a31fea74b3ff"
   },
   "HB0339": {
     "first_seen": "2026-02-06T19:30:58.588888",
@@ -108576,8 +108594,8 @@
   },
   "HB1120": {
     "first_seen": "2026-02-12T06:01:42.374034",
-    "last_updated": "2026-05-05T05:54:03.015276",
-    "last_seen": "2026-05-05T05:54:03.015276",
+    "last_updated": "2026-05-06T06:01:18.316948",
+    "last_seen": "2026-05-06T06:01:18.316948",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -108739,8 +108757,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "685ebce81becb01d37e05b161fda3b3b7893e06185f52196f066a395ff4d1153",
-    "last_updated_local": "2026-05-05T05:54:15.981281",
-    "bill_hash": "a4a3279bab76f63c6b0b697899321dab"
+    "last_updated_local": "2026-05-06T06:01:35.362731",
+    "bill_hash": "4d1fe113da19a8eab3cc4852c7085828"
   },
   "HB1121": {
     "first_seen": "2026-02-12T06:01:42.881053",
@@ -135987,74 +136005,99 @@
   },
   "HB1451": {
     "first_seen": "2026-02-14T05:47:04.374211",
-    "last_updated": "2026-02-14T05:47:05.309026",
-    "last_seen": "2026-02-14T05:47:05.309026",
+    "last_updated": "2026-05-06T06:01:19.979388",
+    "last_seen": "2026-05-06T06:01:19.979388",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1451.pdf",
-      "amendments": []
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1451_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill requires the Maryland Department of Health to develop and implement a standardized system for collecting, compiling, and reporting annual data on the costs associated with women's health care services, including prenatal care, birth, postpartum care, pregnancy care, abortion services, and menopausal care. The Department must submit an annual report to the General Assembly starting December 1, 2026, summarizing aggregated cost data, regional trends, and recommendations for cost efficiency, while ensuring all data is anonymized to protect patient privacy.",
+      "bill_summary": "This bill requires the Maryland Department of Health to establish a standardized system for the annual collection and compilation of cost data related to various women's health services, including prenatal care, birth, postpartum care, pregnancy care, abortion services, and menopausal care. The Department must analyze this data to identify trends and evaluate spending efficiency, and then submit an annual report to the General Assembly while strictly maintaining patient privacy and de-identifying data.",
       "start_year": 2026,
       "end_year": null,
-      "funding": null,
+      "funding": 298000,
       "responsible_party": "Maryland Department of Health",
-      "stakeholders": "Maryland women and individuals seeking reproductive or menopausal health care; licensed hospitals; licensed health care providers; and the Maryland Department of Health.",
-      "fiscal_impact_summary": "Specific dollar estimates are unavailable as a formal Fiscal Note was not included in the provided text. However, the bill creates a state mandate for the Maryland Department of Health to develop a standardized reporting system and produce annual reports, which will result in increased administrative expenditures. Additionally, licensed hospitals and health care providers will incur costs associated with complying with the new data reporting requirements.",
+      "stakeholders": "Licensed hospitals, health care providers, and women receiving maternal, reproductive, or menopausal health care services in Maryland.",
+      "fiscal_impact_summary": "According to the Fiscal Note, State general fund expenditures increase by $298,000 in FY 2027 for the Maryland Department of Health to hire three staff members (a database specialist, an epidemiologist, and a part-time contractual health policy analyst) to develop the reporting system and perform the required data analysis. Ongoing annual expenditures for the permanent positions are estimated to range from approximately $223,800 in FY 2028 to $255,400 by FY 2031. The bill has no effect on State revenues or local government finances.",
       "agency_relevance": [
-        {
-          "agency_name": "Department of Health",
-          "is_relevant": true,
-          "relevance_explanation": "MDH is the primary agency responsible for implementing the bill's requirements, including developing the standardized reporting system, collecting cost data from healthcare providers and hospitals, tracking Medicaid expenditures for reproductive services, and submitting annual reports to the General Assembly.",
-          "relevance_rating": 5
-        },
         {
           "agency_name": "Maryland Health Care Commission",
           "is_relevant": true,
-          "relevance_explanation": "As an independent agency within MDH focused on health system planning and data transparency, the MHCC's mission to provide accurate information on healthcare costs and quality aligns directly with the bill's goal to inform public policy and assess the effective use of funds.",
-          "relevance_rating": 4
+          "relevance_explanation": "As an independent unit within the Department of Health responsible for planning the state's health system needs and providing information on the cost and quality of health services, the Commission is the primary entity likely to implement and manage the new women's health care cost and utilization reporting system.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Department of Health",
+          "is_relevant": true,
+          "relevance_explanation": "The bill explicitly mandates that the Maryland Department of Health develop the standardized reporting system, collect cost data from providers, track Medicaid (Maryland Medical Assistance Program) expenditures for specific services, and submit annual reports to the General Assembly.",
+          "relevance_rating": 5
         },
         {
           "agency_name": "Health Services Cost Review Commission",
           "is_relevant": true,
-          "relevance_explanation": "The HSCRC regulates hospital rates and revenues; the bill's requirement for hospitals to report revenues, charges, prices, and utilization data for women's health services falls directly within the commission's regulatory oversight and expertise.",
-          "relevance_rating": 4
+          "relevance_explanation": "Since the bill requires data collection on hospital-based delivery costs, neonatal care, and complications, HSCRC is impacted due to its role in regulating hospital rates and monitoring the financial stability and costs of hospital services in Maryland.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "DBM is the state's principal fiscal agency; the bill's mandate to analyze the financial impact of specific health services on the state and monitor Medicaid expenditures for reproductive health directly concerns state budget execution and long-term fiscal planning.",
-          "relevance_rating": 2
+          "relevance_explanation": "The fiscal note indicates a significant impact on state general fund expenditures ($298,011 in FY 2027) to support new personnel and database infrastructure required by the bill, which falls under DBM's oversight of the state budget and personnel.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The OAG provides legal counsel to the Department of Health and will be essential in ensuring the new reporting system and data sharing protocols comply with federal HIPAA regulations and state privacy laws.",
+          "relevance_explanation": "The OAG will be required to provide legal counsel to the Department of Health regarding the development of reporting systems that must comply with complex state and federal privacy laws, including HIPAA and Maryland's health care shield laws.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Maryland Insurance Administration",
+          "is_relevant": true,
+          "relevance_explanation": "The bill requires the collection of cost data for services often paid by private funds; as the state's insurance regulator, MIA has a high interest in data regarding the financial impact, effectiveness, and utilization trends of private health expenditures.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "University System of Maryland",
+          "is_relevant": true,
+          "relevance_explanation": "University institutions that operate hospitals or provide clinical health services (such as the University of Maryland Medical Center) will be required to comply with the bill's mandatory standardized reporting of costs and utilization for women's health services.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Governor's Office oversees the executive branch and coordinates policy initiatives; the data collected under this bill is intended to inform high-level public policy decisions and evaluate the efficiency of state healthcare spending.",
+          "relevance_explanation": "The bill's findings on the financial impact of reproductive health services will inform the Governor's policy decisions and the annual budget proposals regarding public health and maternal health outcomes.",
           "relevance_rating": 2
         },
         {
-          "agency_name": "Department of Information Technology",
+          "agency_name": "Maryland Health Benefit Exchange",
           "is_relevant": true,
-          "relevance_explanation": "DoIT manages the state's information technology strategy and data governance; the creation of a standardized, statewide reporting system for health data collection would likely involve their oversight regarding technical standards and cybersecurity.",
+          "relevance_explanation": "The bill's data on the cost and utilization of women's health care services is relevant to the Exchange's mission of making health coverage accessible and affordable for Maryland residents.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Governor's Office of Performance Improvement",
+          "is_relevant": true,
+          "relevance_explanation": "GOPI's focus on efficiency and data-driven accountability makes this bill relevant, as it creates new metrics and transparency requirements for significant state and private health care expenditures.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Morgan State University",
+          "is_relevant": true,
+          "relevance_explanation": "As a state-operated public university that may provide clinical health services or training, it would be subject to the bill's reporting requirements if it functions as a healthcare provider for the specified services.",
           "relevance_rating": 2
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "aaa1d3200b497a75d80f7464c6d7aaeed65e8258924b4abea02aaa1434febda2",
-    "last_updated_local": "2026-02-14T07:22:23.986543",
-    "bill_hash": "d5881cd54b3723e204c89c84d95558ef"
+    "qa_input_hash": "abdabdf16496a4d071bf09a8837a9e2a68d7331df0ce6526a67b7ed41c738c68",
+    "last_updated_local": "2026-05-06T06:02:22.838481",
+    "bill_hash": "6f1be871c3162478f637a8c813a8a496"
   },
   "HB1452": {
     "first_seen": "2026-02-14T05:47:05.597268",
@@ -139959,8 +140002,8 @@
   },
   "HB1499": {
     "first_seen": "2026-02-14T05:47:58.333507",
-    "last_updated": "2026-03-12T05:47:56.590774",
-    "last_seen": "2026-03-12T05:47:56.590774",
+    "last_updated": "2026-05-06T06:01:21.438836",
+    "last_seen": "2026-05-06T06:01:21.438836",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -140008,8 +140051,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "3c384b487acec174904ce76e57d17668c5e6fde529d4351441f79436c39bb9bc",
-    "last_updated_local": "2026-03-12T06:36:35.151716",
-    "bill_hash": "46600b5765cba3aa1e3c56f2b2c8facc"
+    "last_updated_local": "2026-05-06T06:01:28.956109",
+    "bill_hash": "46577ef4d7b3e29155706075db40705b"
   },
   "HB1500": {
     "first_seen": "2026-02-14T05:47:59.095402",
