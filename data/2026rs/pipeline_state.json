@@ -65922,8 +65922,8 @@
   },
   "HB0810": {
     "first_seen": "2026-02-06T19:35:35.516145",
-    "last_updated": "2026-04-16T05:45:21.963186",
-    "last_seen": "2026-04-16T05:45:21.963186",
+    "last_updated": "2026-05-09T05:55:56.483738",
+    "last_seen": "2026-05-09T05:55:56.483738",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -65934,63 +65934,57 @@
       "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0810_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill requires the State Department of Assessments and Taxation to conduct a study in coordination with various state agencies and legal organizations to evaluate the use of blockchain technology for securely recording and verifying real property titles and leases. The evaluation includes assessing the technology's potential for assisting law enforcement and courts in resolving property disputes like squatting, with a final report due to the Governor and General Assembly by December 31, 2026.",
+      "bill_summary": "This bill requires the State Department of Assessments and Taxation (SDAT), in coordination with the Maryland Judiciary, law enforcement agencies, and other legal and technology stakeholders, to conduct a study evaluating the use of blockchain technology for recording and verifying real property titles and leases. The study also explores the potential for using blockchain technology to assist courts and law enforcement in resolving property disputes related to squatting. SDAT must report its findings and recommendations to the Governor and the General Assembly by December 31, 2026.",
       "start_year": 2026,
       "end_year": null,
       "funding": null,
       "responsible_party": "State Department of Assessments and Taxation",
       "stakeholders": "Real property owners, the Maryland Judiciary, the Maryland State Police, local law enforcement agencies, the Office of the Attorney General, Maryland Legal Aid, the Public Justice Center, the Maryland Blockchain Association, and third-party technology vendors.",
-      "fiscal_impact_summary": "According to the fiscal note, the bill is not expected to materially affect State or local government finances or operations. Any costs associated with the required study and coordination are anticipated to be minimal and can likely be handled within existing agency resources.",
+      "fiscal_impact_summary": "The fiscal note indicates that the bill will have a minimal impact on state finances and is not expected to materially affect state or local government operations. While the Office of the Attorney General suggested that a part-time contractual assistant might be necessary to support the study, the Department of Legislative Services determined that the bill's requirements can be implemented using existing resources.",
       "agency_relevance": [
         {
-          "agency_name": "Administrative Office of the Courts",
+          "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The bill explicitly requires the Maryland Judiciary (represented by the Administrative Office of the Courts) to coordinate with the State Department of Assessments and Taxation on the study and evaluation of blockchain technology for resolving real property disputes.",
-          "relevance_rating": 5
+          "relevance_explanation": "The bill requires the results of the study evaluating blockchain-based real property recordation to be reported to the Governor and involves policy coordination regarding real property law and technology.",
+          "relevance_rating": 2
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The Office of the Attorney General is specifically named in the bill as a coordinating entity required to participate in the study and help evaluate the legal implications and potential of blockchain technology for property titles.",
+          "relevance_explanation": "The bill explicitly requires the Office of the Attorney General to coordinate on the study to evaluate blockchain technology for property titles and leases, and the fiscal note indicates a potential increase in legal workload for the agency.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Administrative Office of the Courts",
+          "is_relevant": true,
+          "relevance_explanation": "The bill requires the Maryland Judiciary to coordinate on the study to assess how blockchain technology could assist the courts in resolving real property disputes and verifying ownership records.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Maryland State Police",
           "is_relevant": true,
-          "relevance_explanation": "The Maryland State Police is explicitly named as a coordinating participant in the study, particularly regarding the evaluation of blockchain's potential for resolving squatting disputes.",
+          "relevance_explanation": "The bill explicitly names the Maryland State Police as a coordinating entity to evaluate how blockchain technology can assist law enforcement agencies in resolving property disputes such as squatting.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Department of Information Technology",
           "is_relevant": true,
-          "relevance_explanation": "As the agency responsible for the state's IT strategy and infrastructure, DoIT is cited as an information source in the fiscal note and would naturally oversee the technical standards and security implications of a blockchain-based recordation system.",
+          "relevance_explanation": "The study focuses on the evaluation and potential implementation of blockchain technology, which falls under the purview of the state's principal information technology and telecommunications strategy agency.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Executive Commissions, Committees, Task Forces, and Advisory Boards",
           "is_relevant": true,
-          "relevance_explanation": "The bill mandates a collaborative study involving multiple agencies and private entities, functioning as a multi-agency task force to evaluate state technology policy.",
+          "relevance_explanation": "The bill mandates a collaborative study involving multiple state agencies and private stakeholders to conduct research and provide recommendations, which is the functional role of this collective entity.",
           "relevance_rating": 3
-        },
-        {
-          "agency_name": "Governor's Office",
-          "is_relevant": true,
-          "relevance_explanation": "The bill requires the results of the study and recommendations to be reported to the Governor by December 31, 2026.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Department of Budget and Management",
-          "is_relevant": true,
-          "relevance_explanation": "As the principal fiscal and personnel agency, DBM oversees potential fiscal impacts resulting from state-mandated studies and long-term technological infrastructure planning.",
-          "relevance_rating": 1
         }
       ]
     },
-    "amended_status": "amended",
+    "amended_status": "original",
     "amend_input_hash": "3eb39fc2e62f8919059ee966703ffb46519eb06758afd9f39b54b1f8526d2663",
-    "qa_input_hash": "f8ee3099a5e52bd9ef26c9bd2408d890fa22bd359561ed53c9548bb62a7568d4",
-    "last_updated_local": "2026-04-16T05:46:04.331621",
-    "bill_hash": "5fd1b13c07ce96f573f6a1305beed2ef"
+    "qa_input_hash": "aff888169437da9d7d31d6fd06e9580660838ae694508efa999c8eb05b4abfe4",
+    "last_updated_local": "2026-05-09T05:57:11.081546",
+    "bill_hash": "e0bbff17b3820e551aa0f02e610a85ca"
   },
   "HB0811": {
     "first_seen": "2026-02-06T19:35:36.103110",
@@ -66909,8 +66903,8 @@
   },
   "HB0823": {
     "first_seen": "2026-02-06T19:35:43.049802",
-    "last_updated": "2026-02-18T05:58:26.664009",
-    "last_seen": "2026-02-18T05:58:26.664009",
+    "last_updated": "2026-05-09T05:55:57.073937",
+    "last_seen": "2026-05-09T05:55:57.073937",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -67005,8 +66999,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "85b096b6039bf706db9c665ffc7a1e0feeba0cd77308db55e8b6c41b654ed3e0",
-    "last_updated_local": "2026-02-18T06:22:31.044784",
-    "bill_hash": "7865259c2b4faf30eaabbd4ff29754fc"
+    "last_updated_local": "2026-05-09T05:56:05.347566",
+    "bill_hash": "9a0d458f107b0d3c691788312e33e8e4"
   },
   "HB0824": {
     "first_seen": "2026-02-06T19:35:43.650511",
@@ -98721,8 +98715,8 @@
   },
   "HB1069": {
     "first_seen": "2026-02-11T06:07:24.835468",
-    "last_updated": "2026-04-14T05:44:49.539491",
-    "last_seen": "2026-04-14T05:44:49.539491",
+    "last_updated": "2026-05-09T05:55:57.848415",
+    "last_seen": "2026-05-09T05:55:57.848415",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -98770,8 +98764,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "5d32e158b9b73b5c832de0c6b62609dd3d33745495184e738824a416f4cf395e",
-    "last_updated_local": "2026-04-14T06:23:27.858406",
-    "bill_hash": "62eddc0092e6a4663074f865cc811911"
+    "last_updated_local": "2026-05-09T05:56:06.356186",
+    "bill_hash": "3cb372c44f63ee912983e2fdd0b65f3d"
   },
   "HB1070": {
     "first_seen": "2026-02-11T06:07:25.243845",
@@ -108234,8 +108228,8 @@
   },
   "HB1117": {
     "first_seen": "2026-02-12T06:01:40.800004",
-    "last_updated": "2026-04-14T05:44:55.445060",
-    "last_seen": "2026-04-14T05:44:55.445060",
+    "last_updated": "2026-05-09T05:55:58.727045",
+    "last_seen": "2026-05-09T05:55:58.727045",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -108301,8 +108295,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "4dc4d7112dccf75ebc20017bb5acf6735214f8deb9b470fecc96b2ebf0053ab4",
-    "last_updated_local": "2026-04-14T06:27:54.724861",
-    "bill_hash": "7fa0b19949ec92da413a83b11b3b429a"
+    "last_updated_local": "2026-05-09T05:56:05.686489",
+    "bill_hash": "7193c0d545842845c3fa19c51936edf9"
   },
   "HB1118": {
     "first_seen": "2026-02-12T06:01:41.251510",
@@ -124492,152 +124486,129 @@
   },
   "HB1316": {
     "first_seen": "2026-02-13T05:59:30.059929",
-    "last_updated": "2026-02-14T05:44:42.515824",
-    "last_seen": "2026-02-14T05:44:42.515824",
+    "last_updated": "2026-05-09T05:55:59.612916",
+    "last_seen": "2026-05-09T05:55:59.612916",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1316.pdf",
-      "amendments": []
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1316_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill requires the Hilltop Institute at the University of Maryland, Baltimore County to conduct a study on the feasibility of establishing a universal health care program through a single-payer system in Maryland. It also establishes the Advisory Commission on Universal Health Care to assist the Institute in developing recommendations regarding health equity, cost containment, and the integration of existing health programs.",
+      "bill_summary": "This bill requires the Hilltop Institute at the University of Maryland, Baltimore County to conduct a feasibility study on establishing a universal health care program through a single-payer system in Maryland. It also establishes the Advisory Commission on Universal Health Care to assist with recommendations. The implementation of the study and commission is contingent upon the Institute receiving sufficient funding through grants or private donations by December 31, 2026.",
       "start_year": 2026,
       "end_year": 2029,
-      "funding": null,
-      "responsible_party": "Hilltop Institute at the University of Maryland, Baltimore County and the Advisory Commission on Universal Health Care",
-      "stakeholders": "Maryland residents, healthcare providers (including doctors, nurses, dentists, and social workers), labor unions, business owners, and state and local government agencies.",
-      "fiscal_impact_summary": "The study's implementation is contingent on the Hilltop Institute securing sufficient funding through private donations or grants by December 31, 2026. If external funding is not obtained, the bill's primary provisions become null and void. State expenditures are limited to travel reimbursements for Advisory Commission members, as specific dollar estimates for the study itself are not provided in the bill text and are expected to be covered by non-State funds.",
+      "funding": 955000,
+      "responsible_party": "Hilltop Institute at the University of Maryland, Baltimore County (UMBC) and the Advisory Commission on Universal Health Care",
+      "stakeholders": "Maryland residents, health care providers, private insurers, state and local government employees, and Maryland businesses.",
+      "fiscal_impact_summary": "The bill's fiscal impact is contingent on the Hilltop Institute securing external funding; if secured, state higher education revenues and expenditures (University System of Maryland) are estimated to increase by approximately $955,000 between FY 2027 and FY 2029. This funding would cover staffing and contractual actuarial services. Local governments can participate on the advisory commission using existing budgeted resources, and there is no impact on local revenues.",
       "agency_relevance": [
         {
-          "agency_name": "Governor's Office",
+          "agency_name": "University System of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "The Governor's Office is responsible for appointing members to the Advisory Commission on Universal Health Care and designating the commission's chair.",
-          "relevance_rating": 3
+          "relevance_explanation": "The bill explicitly mandates the Hilltop Institute at the University of Maryland, Baltimore County (part of the University System of Maryland) to conduct the feasibility study and provide staffing for the Advisory Commission.",
+          "relevance_rating": 5
         },
         {
           "agency_name": "Department of Health",
           "is_relevant": true,
-          "relevance_explanation": "The Secretary of Health is a designated member of the commission. The study focuses on universal health care programs, Medicaid integration, and public health equity, which are central to the department's mission.",
+          "relevance_explanation": "The Secretary of Health is a designated member of the Advisory Commission. The study involves evaluating the integration of the Maryland Medical Assistance Program (Medicaid) and transitioning healthcare models administered by the department.",
           "relevance_rating": 5
+        },
+        {
+          "agency_name": "Health Services Cost Review Commission",
+          "is_relevant": true,
+          "relevance_explanation": "The study is required to examine transitioning the Advancing All-Payer Health Equity Approaches and Development (AHEAD) model, which is a core regulatory responsibility of the HSCRC.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Executive Commissions, Committees, Task Forces, and Advisory Boards",
+          "is_relevant": true,
+          "relevance_explanation": "The bill creates a new entity, the Advisory Commission on Universal Health Care, to provide findings and recommendations on a single-payer system.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Governor's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The Governor is responsible for appointing 18 members to the Advisory Commission, designating the chair, and receiving the final joint report from the Institute and Commission.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "The Secretary of Budget and Management is a designated member of the commission. The study will evaluate the integration of state and local government employee benefits into a universal program and analyze fiscal impacts.",
+          "relevance_explanation": "The Secretary of Budget and Management is a designated member of the Advisory Commission. Additionally, the study evaluates the integration of state employee health benefits, which DBM manages.",
           "relevance_rating": 4
         },
         {
           "agency_name": "Department of Labor",
           "is_relevant": true,
-          "relevance_explanation": "The Secretary of Labor is a designated member of the commission. The study is required to evaluate the impact on and transition for workers displaced by changes to the health care system.",
+          "relevance_explanation": "The Secretary of Labor is a designated member of the Advisory Commission. The study also investigates transitioning workers displaced by changes to the healthcare system.",
           "relevance_rating": 4
-        },
-        {
-          "agency_name": "Department of Commerce",
-          "is_relevant": true,
-          "relevance_explanation": "The Secretary of Commerce is a designated member of the commission, reflecting the study's focus on the economic implications of a single-payer health care system.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Governor's Office of Small, Minority & Women Business Affairs",
-          "is_relevant": true,
-          "relevance_explanation": "The Special Secretary is a designated member of the commission, as the study evaluates impacts on the business community, including small businesses.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "University System of Maryland",
-          "is_relevant": true,
-          "relevance_explanation": "The Hilltop Institute at the University of Maryland, Baltimore County (part of the University System of Maryland) is the primary entity responsible for conducting the feasibility study and staffing the commission.",
-          "relevance_rating": 5
         },
         {
           "agency_name": "Maryland Health Benefit Exchange",
           "is_relevant": true,
-          "relevance_explanation": "The study evaluates integrating or transitioning existing benefits offered under Maryland Health Connection plans into the proposed universal system.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Health Services Cost Review Commission",
-          "is_relevant": true,
-          "relevance_explanation": "The study specifically examines the transition of Maryland's current all-payer and AHEAD models, which are regulated by the HSCRC, into a single-payer model.",
+          "relevance_explanation": "The study evaluates benefits currently required under Maryland Health Connection plans and assesses the impact of replacing the current exchange model with a single-payer system.",
           "relevance_rating": 4
         },
         {
           "agency_name": "Maryland Insurance Administration",
           "is_relevant": true,
-          "relevance_explanation": "The transition to a single-payer system would fundamentally alter the private insurance market regulated by this agency.",
+          "relevance_explanation": "The study examines the integration or alignment of private insurance into a universal program, which has significant regulatory implications for the MIA's oversight of the insurance market.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Department of Commerce",
+          "is_relevant": true,
+          "relevance_explanation": "The Secretary of Commerce is a designated member of the Advisory Commission to represent economic and business interests regarding the proposed health care transition.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Governor's Office of Small, Minority & Women Business Affairs",
+          "is_relevant": true,
+          "relevance_explanation": "The Special Secretary is a designated member of the Advisory Commission to provide input on how a single-payer system affects small and minority-owned businesses.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Maryland Health Care Commission",
           "is_relevant": true,
-          "relevance_explanation": "As the agency for health system planning and access improvement, the MHCC's core duties are directly relevant to the study's analysis of health outcomes, equity, and access.",
+          "relevance_explanation": "As the agency responsible for health system planning and access policy, the MHCC's core mission overlaps with the bill's study on healthcare equity, access, and universal coverage.",
           "relevance_rating": 3
         },
         {
-          "agency_name": "Executive Commissions, Committees, Task Forces, and Advisory Boards",
+          "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The bill establishes a new Advisory Commission on Universal Health Care to assist with the study and recommendations.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Rural Maryland Council",
-          "is_relevant": true,
-          "relevance_explanation": "The study is required to consider how a universal health care program would increase access in rural settings.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Comptroller of Maryland",
-          "is_relevant": true,
-          "relevance_explanation": "The study will analyze financing mechanisms and fiscal impacts, which directly relate to the Comptroller's role as the state's chief financial officer and tax collector.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Governor's Office for Children",
-          "is_relevant": true,
-          "relevance_explanation": "The study's goals regarding child health and enhancing economic mobility align with the office's core mission to reduce child poverty and build support networks.",
+          "relevance_explanation": "The OAG would be responsible for providing legal counsel regarding the feasibility of establishing a state single-payer system, including the pursuit of necessary federal waivers and statutory changes.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Department of Aging",
           "is_relevant": true,
-          "relevance_explanation": "The study is required to examine whether to include long-term care benefits in the single-payer system, a key area of advocacy and service for the department.",
+          "relevance_explanation": "The feasibility study is tasked with considering whether long-term care benefits should be included in the universal health care program, directly impacting the Department of Aging's service population.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Department of Disabilities",
           "is_relevant": true,
-          "relevance_explanation": "The study evaluates health care equity and access for all individuals regardless of health status, impacting residents with disabilities.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Office of the Attorney General",
-          "is_relevant": true,
-          "relevance_explanation": "The OAG would provide legal counsel regarding the feasibility of health system mandates and the integration of federal programs like Medicare and Medicaid.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Governor's Office of Community Initiatives",
-          "is_relevant": true,
-          "relevance_explanation": "The commission includes representatives from organizations assisting immigrants and vulnerable communities, which aligns with GOCI's mission of community engagement and support for diverse populations.",
+          "relevance_explanation": "The study evaluates healthcare equity and access for all residents, which includes ensuring that a single-payer system meets the needs of individuals with disabilities.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Department of Human Services",
           "is_relevant": true,
-          "relevance_explanation": "The study addresses health care for the uninsured, underinsured, and individuals experiencing homelessness, who are primary constituents of DHS services.",
+          "relevance_explanation": "The bill includes a role for a 'Secretary of Social and Economic Mobility' (a function aligned with DHS) and evaluates healthcare access for uninsured and vulnerable populations served by DHS.",
           "relevance_rating": 2
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "bf8e6d3b3c0831ecf14ff993eb39d894993a1a61186745e60c516d2fb629540d",
-    "last_updated_local": "2026-02-14T06:04:32.817032",
-    "bill_hash": "90469778ab434242efe78d0b785d37c9"
+    "qa_input_hash": "c4d3f211cbdedd8fe60271266743cb8d40faec5c7bbb898c3ee9fd163c55208a",
+    "last_updated_local": "2026-05-09T05:56:34.117642",
+    "bill_hash": "0bb57e03312e47cbe335a7d393d4beed"
   },
   "HB1317": {
     "first_seen": "2026-02-13T05:59:30.841313",
@@ -134716,8 +134687,8 @@
   },
   "HB1434": {
     "first_seen": "2026-02-14T05:46:42.772964",
-    "last_updated": "2026-04-15T05:45:25.167340",
-    "last_seen": "2026-04-15T05:45:25.167340",
+    "last_updated": "2026-05-09T05:56:00.530664",
+    "last_seen": "2026-05-09T05:56:00.530664",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -134813,8 +134784,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "4b1b0bf9bcf5c2e7642b25c3662ec81ec2653f6995c61a574e3f8b224298a25d",
-    "last_updated_local": "2026-04-15T06:12:32.032650",
-    "bill_hash": "feb70c8ad361069ca81a2f85a8184002"
+    "last_updated_local": "2026-05-09T05:56:07.836698",
+    "bill_hash": "1b00ed03db62c0a2e8211bc824131d1b"
   },
   "HB1435": {
     "first_seen": "2026-02-14T05:46:43.984713",
@@ -135599,8 +135570,8 @@
   },
   "HB1445": {
     "first_seen": "2026-02-14T05:46:56.720166",
-    "last_updated": "2026-04-14T05:45:30.445736",
-    "last_seen": "2026-04-14T05:45:30.445736",
+    "last_updated": "2026-05-09T05:56:01.571707",
+    "last_seen": "2026-05-09T05:56:01.571707",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -135660,8 +135631,8 @@
     "amended_status": "original",
     "amend_input_hash": "7b2703f452b37729664abc5d500a502178698fc90fb1ddb872c18cd039cb6f4c",
     "qa_input_hash": "097875e3a0e594f0e196a14df297fc3248b0ed4dd2d2d7d753cbe7ecbdf55eb2",
-    "last_updated_local": "2026-04-14T06:39:45.728369",
-    "bill_hash": "292856f14c17dc16701b71c02af6d276"
+    "last_updated_local": "2026-05-09T05:56:08.338668",
+    "bill_hash": "31080f4c96ca90328c40db8b3072ba06"
   },
   "HB1446": {
     "first_seen": "2026-02-14T05:46:58.017628",
