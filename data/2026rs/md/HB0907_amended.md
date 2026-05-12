@@ -1,12 +1,14 @@
 <bill>
 <bill>
+<bill>
 START OF PAGE 1
 HOUSE BILL 907
 
 E1 6lr2453
 CF SB 514
 
-By: Delegates Moon, Cardin, Moreno, Conaway, Woods, Williams, and Phillips
+By: Delegates Moon ~~and~~ ~~Cardin,~~ <u>Cardin, Moreno, Conaway, Woods, Williams, and
+Phillips</u>
 Introduced and read first time: February 5, 2026
 Assigned to: Judiciary
 
@@ -20,12 +22,12 @@ CHAPTER ______
 
 2 Criminal Law – Third–Degree Assault
 
-3 FOR the purpose of PROVIDING THAT A DISTRICT COURT COMMISSIONER MAY NOT
-4 ISSUE AN ARREST WARRANT UNDER CERTAIN CIRCUMSTANCES; establishing that it
-5 is a misdemeanor to intentionally cause offensive contact, engage in conduct tending to put
-6 another in fear of offensive contact, or attempt to cause offensive contact; altering a certain
-7 list of convictions that are eligible for expungement under certain circumstances; and
-8 generally relating to assault.
+3 For the provideing that a District Court commissioner may not issue an arrest
+4 warrant under certain circumstances; establishing that it is a misdemeanor to intentionally
+5 cause offensive contact, engage in conduct tending to put another in fear of offensive
+6 contact, or attempt to cause offensive contact; altering a certain list of convictions that are
+7 eligible for expungement under certain circumstances; and generally relating to
+8 assault.
 
 9 BY adding to
 10 Article – Criminal Law
@@ -80,21 +82,23 @@ START OF PAGE 2
 16 (II) CONTACT THAT CAUSES A RISK OF SERIOUS PHYSICAL
 17 INJURY;
 
-18 (III) AN ACT AGAINST A PERSON WHO WOULD BE ELIGIBLE TO
-19 FILE A PETITION FOR RELIEF FROM ABUSE AGAINST THE DEFENDANT UNDER
-20 TITLE 4, SUBTITLE 5 OF THE FAMILY LAW ARTICLE BASED ON THE FACTS
-21 ALLEGED IN THE APPLICATION FOR A STATEMENT OF CHARGES; OR
+18 (III) <u>AN ACT AGAINST A PERSON WHO WOULD BE ELIGIBLE TO</u>
+19 <u>FILE A PETITION FOR RELIEF FROM ABUSE AGAINST THE DEFENDANT UNDER</u>
+20 <u>TITLE 4, SUBTITLE 5 OF THE FAMILY LAW ARTICLE BASED ON THE FACTS ALLEGED</u>
+21 <u>IN THE APPLICATION FOR A STATEMENT OF CHARGES;</u> OR
 
-22 (IV) A SEXUAL CRIME UNDER SUBTITLE 3 OF THIS TITLE.
+22
 
-23 (B) A PERSON MAY NOT:
+23 (IV) A SEXUAL CRIME UNDER SUBTITLE 3 OF THIS TITLE.
 
-24 (1) INTENTIONALLY CAUSE OFFENSIVE CONTACT;
+24 (B) ~~A PERSON MAY NOT:~~ <u>A PERSON IS GUILTY OF ASSAULT IN THE THIRD DEGREE IF THE PERSON:</u>
 
-25 (2) ENGAGE IN CONDUCT INTENDING TO PUT ANOTHER IN FEAR OF
-26 OFFENSIVE CONTACT; OR
+25 (1) INTENTIONALLY ~~CAUSE~~ <u>CAUSES</u> OFFENSIVE CONTACT;
 
-27 (3) ATTEMPT TO CAUSE OFFENSIVE CONTACT.
+26 (2) ~~ENGAGE~~ <u>ENGAGES</u> IN CONDUCT INTENDING TO PUT ANOTHER IN FEAR OF
+27 OFFENSIVE CONTACT; OR
+
+28 (3) ~~ATTEMPT~~ <u>ATTEMPTS</u> TO CAUSE OFFENSIVE CONTACT.
 END OF PAGE 2
 
 START OF PAGE 3
@@ -102,8 +106,8 @@ HOUSE BILL 907 3
 
 1 (C) A PERSON WHO VIOLATES THIS SECTION IS GUILTY OF THE
 2 MISDEMEANOR OF ASSAULT IN THE THIRD DEGREE AND ON CONVICTION IS SUBJECT
-3 TO IMPRISONMENT NOT EXCEEDING 90 DAYS OR A FINE NOT EXCEEDING $500 OR
-4 BOTH.
+3 <u>TO IMPRISONMENT NOT EXCEEDING 90 DAYS OR A FINE NOT EXCEEDING $500 OR</u>
+4 <u>BOTH.</u>
 
 5 3–206.
 
@@ -123,28 +127,27 @@ HOUSE BILL 907 3
 16 (c) A charge of assault in the first degree also charges a defendant with assault
 17 in the second degree.
 
-18 (D) (1) (I) UNLESS SPECIFICALLY CHARGED BY THE STATE, ASSAULT
-19 IN THE THIRD DEGREE UNDER § 3–203.1 OF THIS SUBTITLE IS NOT A LESSER
-20 INCLUDED CRIME OF ANY OTHER CRIME.
+18 <u>(D) (1) (I) UNLESS EXPRESSLY CHARGED BY THE STATE, ASSAULT</u>
+19 <u>IN THE THIRD DEGREE UNDER § 3–203.1 OF THIS SUBTITLE IS NOT A LESSER</u>
+20 <u>INCLUDED CRIME OF ANY OTHER CRIME.</u>
 
-21 (II) ASSAULT IN THE THIRD DEGREE UNDER § 3–203.1 OF THIS
-22 SUBTITLE IS A LESSER INCLUDED CRIME OF SECOND–DEGREE ASSAULT IF
-23 SPECIFICALLY CHARGED BY THE STATE.
+21 <u>(II) ASSAULT IN THE THIRD DEGREE UNDER § 3–203.1 OF THIS</u>
+22 <u>SUBTITLE IS A LESSER INCLUDED CRIME OF SECOND–DEGREE ASSAULT IF</u>
+23 <u>SPECIFICALLY CHARGED BY THE STATE.</u>
 
-24 (2) A CHARGING DOCUMENT OR WARRANT FOR A CRIME
-25 DESCRIBED IN § 3–203.1 OF THIS SUBTITLE IS SUFFICIENT IF IT SUBSTANTIALLY
-26 STATES:
+24 <u>(2) A CHARGING DOCUMENT OR WARRANT FOR A CRIME DESCRIBED</u>
+25 <u>IN § 3–203.1 OF THIS SUBTITLE IS SUFFICIENT IF IT SUBSTANTIALLY STATES:</u>
 
-27 “(NAME OF DEFENDANT) ON (DATE) IN (COUNTY) COMMITTED ASSAULT IN THE
-28 THIRD DEGREE AGAINST (NAME OF VICTIM) IN VIOLATION OF § 3–203.1 OF THE
-29 CRIMINAL LAW ARTICLE AGAINST THE PEACE, GOVERNMENT, AND DIGNITY OF THE
-30 STATE.”.
+26 <u>“(NAME OF DEFENDANT) ON (DATE) IN (COUNTY) COMMITTED ASSAULT IN THE</u>
+27 <u>THIRD DEGREE AGAINST (NAME OF VICTIM) IN VIOLATION OF § 3–203.1 OF THE</u>
+28 <u>CRIMINAL LAW ARTICLE AGAINST THE PEACE, GOVERNMENT, AND DIGNITY OF THE</u>
+29 <u>STATE.”.</u>
 
-31 [(d)] (E) (1) To be found guilty of reckless endangerment under § 3–204 of
-32 this subtitle, a defendant must be charged specifically with reckless endangerment.
+30 [(d)] (E) (1) To be found guilty of reckless endangerment under § 3–204 of
+31 this subtitle, a defendant must be charged specifically with reckless endangerment.
 
-33 (2) A charging document for reckless endangerment under § 3–204 of this
-34 subtitle is sufficient if it substantially states:
+32 (2) A charging document for reckless endangerment under § 3–204 of this
+33 subtitle is sufficient if it substantially states:
 END OF PAGE 3
 
 START OF PAGE 4
@@ -188,85 +191,77 @@ START OF PAGE 4
 
 26 2–607.
 
-27 (C) (1) A COMMISSIONER SHALL RECEIVE APPLICATIONS AND DETERMINE
-28 PROBABLE CAUSE FOR THE ISSUANCE OF CHARGING DOCUMENTS.
+27 (c) (1) A commissioner shall receive applications and determine probable
+28 cause for the issuance of charging documents.
 
-29 (2) A COMMISSIONER SHALL ADVISE ARRESTED PERSONS OF THEIR
-30 CONSTITUTIONAL RIGHTS, SET BOND OR COMMIT PERSONS TO JAIL IN DEFAULT OF
-31 BOND OR RELEASE THEM ON PERSONAL RECOGNIZANCE IF CIRCUMSTANCES
-32 WARRANT, AND CONDUCT INVESTIGATIONS AND INQUIRIES INTO THE
-33 CIRCUMSTANCES OF ANY MATTER PRESENTED TO THE COMMISSIONER IN ORDER
-34 TO DETERMINE IF PROBABLE CAUSE EXISTS FOR THE ISSUANCE OF A CHARGING
-35 DOCUMENT, WARRANT, OR CRIMINAL SUMMONS AND, IN GENERAL, PERFORM ALL
-36 THE FUNCTIONS OF COMMITTING MAGISTRATES AS EXERERCISED BY THE JUSTICES
-37 OF THE PEACE PRIOR TO JULY 5, 1971.
+29 (2) A commissioner shall advise arrested persons of their constitutional
+30 rights, set bond or commit persons to jail in default of bond or release them on personal
+31 recognizance if circumstances warrant, and conduct investigations and inquiries into
+32 the circumstances of any matter presented to the commissioner in order to determine if
+33 probable cause exists for the issuance of a charging document, warrant, or criminal
+34 summons and, in general, perform all the functions of committing magistrates as
+35 exercised by the justices of the peace prior to July 5, 1971.
 
-38 (3) THERE SHALL BE IN EACH COUNTY, AT ALL TIMES, ONE OR MORE
-39 COMMISSIONERS AVAILABLE FOR THE CONVENIENCE OF THE PUBLIC AND POLICE
-40 IN OBTAINING CHARGING DOCUMENTS, WARRANTS, OR CRIMINAL SUMMONSES
-41 AND TO ADVISE ARRESTED PERSONS OF THEIR RIGHTS AS REQUIRED BY LAW.
+36 (3) There shall be in each county, at all times, one or more
+37 commissioners available for the convenience of the public and police in obtaining
+38 charging documents, warrants, or criminal summonses and to advise arrested persons
+39 of their rights as required by law.
 
-42 (4) A COMMISSIONER MAY EXERCISE THE POWERS OF OFFICE IN ANY
-43 COUNTY TO WHICH THE COMMISSIONER IS ASSIGNED BY THE CHIEF JUDGE OF THE
-44 DISTRICT COURT OR A DESIGNEE OF THE CHIEF JUDGE OF THE DISTRICT COURT.
+40 (4) A commissioner may exercise the powers of office in any county to
+41 which the commissioner is assigned by the Chief Judge of the District Court or a
+42 designee of the Chief Judge of the District Court.
 
-45 (5) THE CHIEF JUDGE OF THE DISTRICT COURT MAY AUTHORIZE ONE OR
-46 MORE COMMISSIONERS TO PERFORM THE DUTIES OF A COMMISSIONER
-47 REGARDING PERSONS ARRESTED IN A COUNTY OTHER THAN THE COUNTY IN
-48 WHICH THE COMMISSIONER RESIDES AND FOR WHICH THE COMMISSIONER WAS
-49 APPOINTED WHEN THE ARRESTED PERSONS ARE BROUGHT BEFORE THE
-50 COMMISSIONER BY A PEACE OFFICER OF THE JURISDICTION IN WHICH THAT
-51 ARREST WAS MADE.
+43 (5) The Chief Judge of the District Court may authorize one or more
+44 commissioners to perform the duties of a commissioner regarding persons arrested in a
+45 county other than the county in which the commissioner resides and for which the
+46 commissioner was appointed when the arrested persons are brought before the
+47 commissioner by a peace officer of the jurisdiction in which that arrest was made.
 
-52 (6) (I) AN INDIVIDUAL MAY FILE AN APPLICATION FOR A STATEMENT
-53 OF CHARGES WITH A DISTRICT COURT COMMISSIONER.
+48 (6) (i) An individual may file an application for a statement of
+49 charges with a District Court commissioner.
 
-54 (II) ON REVIEW OF AN APPLICATION FOR A STATEMENT OF
-55 CHARGES, A DISTRICT COURT COMMISSIONER MAY ISSUE A SUMMONS OR AN
-56 ARREST WARRANT.
+50 (ii) On review of an application for a statement of charges, a
+51 District Court commissioner may issue a summons or an arrest warrant.
 
-57 (III) [A] EXCEPT AS PROVIDED IN PARAGRAPH (7) OF THIS
-58 SUBSECTION, A DISTRICT COURT COMMISSIONER MAY ISSUE AN ARREST WARRANT
-59 ONLY ON A FINDING THAT:
+52 (iii) [A] EXCEPT AS PROVIDED IN PARAGRAPH (7) OF THIS
+53 SUBSECTION, A District Court commissioner may issue an arrest warrant only on a
+54 finding that:
 
-60 1. THERE IS PROBABLE CAUSE TO BELIEVE THAT THE
-61 DEFENDANT COMMITTED THE OFFENSE CHARGED IN THE CHARGING DOCUMENT;
-62 AND
+55 1. There is probable cause to believe that the defendant
+56 committed the offense charged in the charging document; and
 
-63 2. A. THE DEFENDANT PREVIOUSLY HAS FAILED TO
-64 RESPOND TO A SUMMONS THAT HAS BEEN PERSONALLY SERVED OR A CITATION;
+57 2. A. The defendant previously has failed to respond
+58 to a summons that has been personally served or a citation;
 
-65 B. THE WHEREABOUTS OF THE DEFENDANT ARE
-66 UNKNOWN AND THE ISSUANCE OF A WARRANT IS NECESSARY TO SUBJECT THE
-67 DEFENDANT TO THE JURISDICTION OF THE COURT;
+59 B. The whereabouts of the defendant are unknown and
+60 the issuance of a warrant is necessary to subject the defendant to the jurisdiction of the
+61 court;
 
-68 C. THE DEFENDANT IS IN CUSTORY FOR ANOTHER
-69 OFFENSE; OR
+62 C. The defendant is in custody for another offense; or
 
-70 D. THERE IS PROBABLE CAUSE TO BELIEVE THAT THE
-71 DEFENDANT POSES A DANGER TO ANOTHER PERSON OR TO THE COMMUNITY.
+63 D. There is probable cause to believe that the defendant
+64 poses a danger to another person or to the community.
 
-72 (IV) ON A FINDING OF GOOD CAUSE, A JUDGE OF THE DISTRICT
-73 COURT OR A JUDGE OF A CIRCUIT COURT MAY RECALL AN ARREST WARRANT
-74 ISSUED BY A DISTRICT COURT COMMISSIONER UNDER THIS PARAGRAPH AND ISSUE
-75 A SUMMONS IN ITS PLACE.
+65 (iv) On a finding of good cause, a judge of the District Court or a
+66 judge of a circuit court may recall an arrest warrant issued by a District Court
+67 commissioner under this paragraph and issue a summons in its place.
 
-76 (7) A DISTRICT COURT COMMISSIONER MAY NOT ISSUE AN ARREST
-77 WARRANT IF THE APPLICATION FOR A STATEMENT OF CHARGES ALLEGES THE
-78 COMMISSION OF ONLY ASSAULT IN THE THIRD DEGREE UNDER § 3–203.1 OF THE
-79 CRIMINAL LAW ARTICLE.
+68 (7) A DISTRICT COURT COMMISSIONER MAY NOT ISSUE AN
+69 ARREST WARRANT IF THE APPLICATION FOR A STATEMENT OF CHARGES
+70 ALLEGES THE COMMISSION OF ONLY ASSAULT IN THE THIRD DEGREE UNDER § 3–
+71 203.1 OF THE CRIMINAL LAW ARTICLE.
 
-80 4–301.
+72 4–301.
 
-81 (b) Except as provided in § 4–302 of this subtitle, the District Court also has
-82 exclusive original jurisdiction in a criminal case in which a person at least 18 years old or
-83 a corporation is charged with:
+73 (b) Except as provided in § 4–302 of this subtitle, the District Court also has
+74 exclusive original jurisdiction in a criminal case in which a person at least 18 years old or
+75 a corporation is charged with:
 
-84 (1) Commission of a common–law or statutory misdemeanor regardless of
-85 the amount of money or value of the property involved;
+76 (1) Commission of a common–law or statutory misdemeanor regardless of
+77 the amount of money or value of the property involved;
 
-86 (2) Violation of § 7–104, § 7–105, § 7–107, or § 7–108 of the Criminal Law
-87 Article, whether a felony or a misdemeanor;
+78 (2) Violation of § 7–104, § 7–105, § 7–107, or § 7–108 of the Criminal Law
+79 Article, whether a felony or a misdemeanor;
 END OF PAGE 4
 
 START OF PAGE 5
@@ -352,11 +347,11 @@ START OF PAGE 6
 18 subtitle.
 
 19 (2) (i) Except as provided in subparagraph (ii) of this paragraph, a
-20 circuit court does not have jurisdiction to try a case charging a violation of § 3–203.1, §
+20 circuit court does not have jurisdiction to try a case charging a violation of ~~§ 3–203.1,~~ §
 21 5–601, or § 5–620 of the Criminal Law Article.
 
 22 (ii) A circuit court does have jurisdiction to try a case charging a
-23 violation of § 3–203.1, § 5–601, or § 5–620 of the Criminal Law Article if the defendant:
+23 violation of ~~§ 3–203.1,~~ § 5–601, or § 5–620 of the Criminal Law Article if the defendant:
 
 24 1. Properly demands a jury trial;
 
@@ -396,5 +391,6 @@ Speaker of the House of Delegates.
 ________________________________________________________________________________
 President of the Senate.
 END OF PAGE 7
+</bill>
 </bill>
 </bill>

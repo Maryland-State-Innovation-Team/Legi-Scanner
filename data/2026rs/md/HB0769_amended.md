@@ -3,251 +3,154 @@
 START OF PAGE 1
 HOUSE BILL 769
 
-J2 EMERGENCY BILL 6lr2762
-HB 1521/25 – HGO CF SB 18
-
-By: Delegates Woods, Cullison, Bhandari, Coley, Fair, J. Long, Martinez,
+J2 EMERGENCY BILL (6lr2762)
+ENROLLED BILL
+— Health/Finance —
+Introduced by Delegates Woods, Cullison, Bhandari, Coley, Fair, J. Long, Martinez,
 Roberson, Roberts, Simmons, Taylor, Toles, Alston, Bagnall,
 Guzzone, Hill, S. Johnson, Kaufman, Lopez, Rosenberg, Ross, Taveras,
 White Holland, and Woorman
-Introduced and read first time: February 4, 2026
-Assigned to: Health
 
-Committee Report: Favorable with amendments
-House action: Adopted
-Read second time: March 1, 2026
+Read and Examined by Proofreaders:
+
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+
+Sealed with the Great Seal and presented to the Governor, for his approval this
+
+_______ day of _______________ at ________________________ o’clock, ________M.
+
+______________________________________________
+Speaker.
 
 CHAPTER ______
 
-1 AN ACT oncology
+1 AN ACT concerning
 
-2 State Board of Social Work Examiners – Conditional and Provisional Licenses to
-3 Practice Social Work – Revisions and Establishment
+2 State Board of Social Work Examiners – Provisional License to
+3 Practice Social Work – Established
 
-4 FOR the purpose of altering the circumstances under which the Board of Social Work
-5 Examiners may issue a conditional license to practice social work; establishing
-6 a provisional social work license through which an individual issued a
-7 provisional license may receive a full license; establishing certain alternate
-8 pathways through which an individual issued a conditional license may receive
-9 a full license; and generally relating to licenses to practice social work.
+4 FOR the privilege of establishing a provisional social work license through which
+5 an individual issued a provisional license may receive a full license; and generally
+6 relating to licenses to practice social work.
 
-10 BY repealing and reenacting, without amendments,
-11 Article – Health Occupations
-12 Section 19–101(a) and (c–1)
-13 Annotated Code of Maryland
-14 (2021 Replacement Volume and 2025 Supplement)
-
-15 BY repealing and reenacting, with amendments,
-16 Article – Health Occupations
-17 Section 19–101(e) and 19–309.1
-18 Annotated Code of Maryland
-19 (2021 Replacement Volume and 2025 Supplement)
-
-20 BY adding to
+7 BY repealing and reenacting, without amendments,
+8 Article – Health Occupations
+9 Section 19–101(a) and (c–1)
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
 [Brackets] indicate matter deleted from existing law.
 Underlining indicates amendments to bill.
-~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
-amendment. *hb0769*
+Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference committee amendments.*hb0769*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 769
 
-1 Article – Health Occupations
-2 Section 19–101(o–1) and 19–309.2
-3 Annotated Code of Maryland
-4 (2021 Replacement Volume and 2025 Supplement)
+1 Annotated Code of Maryland
+2 (2021 Replacement Volume and 2025 Supplement)
 
-5 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-6 That the Laws of Maryland read as follows:
+3 BY repealing and reenacting, with amendments,
+4 Article – Health Occupations
+5 Section 19–101(e)
+6 Annotated Code of Maryland
+7 (2021 Replacement Volume and 2025 Supplement)
 
-7 Article – Health Occupations
+8 BY adding to
+9 Article – Health Occupations
+10 Section 19–101(o–1) and 19–309.2
+11 Annotated Code of Maryland
+12 (2021 Replacement Volume and 2025 Supplement)
 
-8 19–101.
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That the Laws of Maryland read as follows:
 
-9 (a) In this title the following words have the meanings indicated.
+15 Article – Health Occupations
 
-10 (c–1) “Conditional license” means a license issued by the Board under, and as
-11 limited by, § 19–309.1 of this title to practice:
+16 19–101.
 
-12 (1) Bachelor social work; or
+17 (a) In this title the following words have the meanings indicated.
 
-13 (2) Master social work.
+18 (c–1) “Conditional license” means a license issued by the Board under, and as
+19 limited by, § 19–309.1 of this title to practice:
 
-14 (e) “License” means, unless the context requires otherwise:
+20 (1) Bachelor social work; or
 
-15 (1) One of four categories of licenses issued by the Board authorizing an
-16 individual to practice:
+21 (2) Master social work.
 
-17 (i) Bachelor social work;
+22 (e) “License” means, unless the context requires otherwise:
 
-18 (ii) Master social work;
+23 (1) One of four categories of licenses issued by the Board authorizing an
+24 individual to practice:
 
-19 (iii) Certified social work; or
+25 (i) Bachelor social work;
 
-20 (iv) Certified social work–clinical;
+26 (ii) Master social work;
 
-21 (2) A conditional license issued by the Board; OR
+27 (iii) Certified social work; or
 
-22 (3) A PROVISIONAL LICENSE ISSUED BY THE BOARD.
+28 (iv) Certified social work–clinical;
 
-23 (O–1) “PROVISIONAL LICENSE” MEANS A LICENSE ISSUED BY THE BOARD
-24 UNDER, AND AS LIMITED BY, § 19–309.2 OF THIS TITLE TO PRACTICE:
+29 (2) A conditional license issued by the Board; OR
 
-25 (1) BACHELOR SOCIAL WORK; OR
-
-26 (2) MASTER SOCIAL WORK.
-
-27 19–309.2.
+30 (3) A PROVISIONAL LICENSE ISSUED BY THE BOARD.
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 769 3
 
-1 (A) BEGINNING NOVEMBER 1, 2026, THE BOARD SHALL ISSUE A
-2 PROVISIONAL LICENSE TO AN APPLICANT WHO, EXCEPT FOR PASSING THE
-3 EXAMINATION OTHERWISE REQUIRED UNDER THIS SUBTITLE, HAS MET THE
-4 APPROPRIATE EDUCATION AND EXPERIENCE REQUIREMENTS OF THIS SUBTITLE
-5 FOR A LICENSE ISSUED UNDER § 19–302 OF THIS SUBTITLE TO PRACTICE:
+1 (O–1) “PROVISIONAL LICENSE” MEANS A LICENSE ISSUED BY THE BOARD
+2 UNDER, AND AS LIMITED BY, § 19–309.2 OF THIS TITLE TO PRACTICE:
 
-6 (1) BACHELOR SOCIAL WORK; OR
+3 (1) BACHELOR SOCIAL WORK; OR
 
-7 (2) MASTER SOCIAL WORK.
+4 (2) MASTER SOCIAL WORK.
 
-8 (B) A PROVISIONAL LICENSE:
+5 19–309.2.
 
-9 (1) AUTHORIZES THE HOLDER TO PRACTICE SOCIAL WORK IN THE
-10 STATE ONLY WITHIN THE SCOPE OF THE SPECIFIC CATEGORY OF LICENSE ISSUED
-11 BY THE BOARD;
+6 (A) BEGINNING NOVEMBER 1, 2026, THE BOARD SHALL ISSUE A
+7 PROVISIONAL LICENSE TO AN APPLICANT WHO, EXCEPT FOR PASSING THE
+8 EXAMINATION OTHERWISE REQUIRED UNDER THIS SUBTITLE, HAS MET THE
+9 APPROPRIATE EDUCATION AND EXPERIENCE REQUIREMENTS OF THIS SUBTITLE
+10 FOR A LICENSE ISSUED UNDER § 19–302 OF THIS SUBTITLE TO PRACTICE:
 
-12 (2) REQUIRES THE HOLDER TO PRACTICE UNDER THE SUPERVISION
-13 OF A BOARD–APPROVED SUPERVISOR IN ACCORDANCE WITH REGULATIONS
-14 ADOPTED UNDER THIS SECTION;
+11 (1) BACHELOR SOCIAL WORK; OR
 
-15 (3) MAY BE ISSUED ONLY TO AN INITIAL APPLICANT FOR LICENSURE
-16 WHO HAS NOT PREVIOUSLY BEEN LICENSED UNDER THIS TITLE; AND
+12 (2) MASTER SOCIAL WORK.
 
-17 (4) DOES NOT QUALIFY THE HOLDER FOR A MULTISTATE LICENSE
-18 UNDER THE SOCIAL WORK LICENSURE COMPACT ESTABLISHED UNDER § 19–3A–01
-19 OF THIS TITLE.
+13 (B) A PROVISIONAL LICENSE:
 
-20 (C) A PROVISIONAL LICENSE:
+14 (1) AUTHORIZES THE HOLDER TO PRACTICE SOCIAL WORK IN THE
+15 STATE ONLY WITHIN THE SCOPE OF THE SPECIFIC CATEGORY OF LICENSE ISSUED
+16 BY THE BOARD;
 
-21 (1) EXPIRES ON A DATE SET BY THE BOARD THAT IS AT LEAST 12
-22 MONTHS, BUT NOT MORE THAN 24 MONTHS, AFTER THE DATE OF ISSUANCE;
+17 (2) REQUIRES THE HOLDER TO PRACTICE UNDER THE SUPERVISION
+18 OF A BOARD–APPROVED SUPERVISOR IN ACCORDANCE WITH REGULATIONS
+19 ADOPTED UNDER THIS SECTION;
 
-23 (2) MAY NOT BE RENEWED; AND
-24
-25 (3) SHALL TERMINATE AUTOMATICALLY ON:
+20 (3) MAY BE ISSUED ONLY TO AN INITIAL APPLICANT FOR LICENSURE
+21 WHO HAS NOT PREVIOUSLY BEEN LICENSED UNDER THIS TITLE; AND
 
-26 (I) THE EXPIRATION DATE; OR
+22 (4) DOES NOT QUALIFY THE HOLDER FOR A MULTISTATE LICENSE
+23 UNDER THE SOCIAL WORK LICENSURE COMPACT ESTABLISHED UNDER § 19–3A–01
+24 OF THIS TITLE.
 
-27 (II) IF THE HOLDER APPLIES AND QUALIFIES FOR A LICENSE
-28 UNDER SUBSECTION (E) OF THIS SECTION, THE DATE THAT THE FULL LICENSE IS
-29 ISSUED.
+25 (C) A PROVISIONAL LICENSE:
+
+26 (1) EXPIRES ON A DATE SET BY THE BOARD THAT IS AT LEAST 12
+27 MONTHS, BUT NOT MORE THAN 24 MONTHS, AFTER THE DATE OF ISSUANCE;
+
+28 (2) MAY NOT BE RENEWED; AND
+
+29
 END OF PAGE 3
 
 START OF PAGE 4
 4 HOUSE BILL 769
-
-1 (D) A HOLDER OF A PROVISIONAL LICENSE AND THE SUPERVISING SOCIAL
-2 WORKER ARE JOINTLY RESPONSIBLE FOR ENSURING COMPLIANCE WITH THE
-3 SUPERVISION AND EXPIRATION REQUIREMENTS OF SUBSECTIONS (B)(2) AND (C) OF
-4 THIS SECTION.
-
-5 (E) THE BOARD SHALL ISSUE A FULL LICENSE UNDER § 19–302 OF THIS
-6 SUBTITLE TO A HOLDER OF A PROVISIONAL LICENSE WHO DEMONSTRATES TO THE
-7 SATISFACTION OF THE BOARD THAT THE HOLDER HAS ACHIEVED A SATISFACTORY
-8 SCORE ON AN EXAMINATION, AS REQUIRED UNDER § 19–302 OF THIS SUBTITLE.
-
-9 (F) SUPERVISED HOURS COMPLETED UNDER A PROVISIONAL LICENSE:
-
-10 (1) MAY BE COUNTED TOWARD THE SUPERVISED EXPERIENCE
-11 REQUIRED FOR INDEPENDENT PRACTICE APPROVAL UNDER § 19–302(F) OF THIS
-12 SUBTITLE; AND
-
-13 (2) MAY NOT BE COUNTED TOWARD THE SUPERVISED EXPERIENCE
-14 REQUIRED TO QUALIFY FOR A CERTIFIED SOCIAL WORKER–CLINICAL LICENSE
-15 UNDER § 19–302(E) OF THIS SUBTITLE.
-
-16 (G) THE BOARD SHALL ADOPT REGULATIONS TO CARRY OUT THIS SECTION,
-17 INCLUDING REGULATIONS THAT ESTABLISH:
-
-18 (1) MINIMUM SUPERVISION REQUIREMENTS AND REPORTING
-19 PROCEDURES;
-
-20 (2) STANDARDS FOR EVALUATING SUPERVISED PRACTICE AS
-21 DESCRIBED IN SUBSECTION (E)(2) OF THIS SECTION;
-
-22 (3) REQUIREMENTS TO ENSURE THAT THE TRACKING OF
-23 PROVISIONAL LICENSES ALIGNS WITH EXISTING LICENSURE CYCLES; AND
-
-24 (4) A REASONABLE FEE FOR THE ISSUANCE OF A PROVISIONAL
-25 LICENSE SUFFICIENT TO COVER ADMINISTRATIVE COSTS.
-
-26 (H) ON OR BEFORE DECEMBER 31 EACH YEAR, BEGINNING IN 2027, THE
-27 BOARD SHALL REPORT TO THE SENATE FINANCE COMMITTEE AND THE HOUSE
-28 HEALTH COMMITTEE, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT
-29 ARTICLE, THE FOLLOWING INFORMATION FOR THE IMMEDIATELY PRECEDING
-30 12–MONTH PERIOD:
-31
-32
-33
-END OF PAGE 4
-
-START OF PAGE 5
-HOUSE BILL 769 5
-
-1 (1) THE NUMBER OF PROVISIONAL LICENSES ISSUED;
-
-2 (2) THE NUMBER OF HOLDERS OF PROVISIONAL LICENSES WHO
-3 OBTAINED FULL LICENSURE UNDER SUBSECTION (E) OF THIS SECTION; AND
-
-4 (3) ANY RECOMMENDATIONS FOR IMPROVING:
-
-5 (I) THE IMPLEMENTATION OF THIS SECTION; AND
-
-6 (II) THE IMPACT OF THIS SECTION ON THE HEALTH CARE
-7 WORKFORCE.
-
-8 19–309.1.
-
-9 (a) [If an administrative delay for any reason or an unforeseen circumstance, act,
-10 or occurrence prevents an examination required under this subtitle from being available to
-11 an applicant for a period of at least 15 business days, the] THE Board [may] SHALL issue
-12 a conditional license to an applicant who, except for passing the examination OTHERWISE
-13 REQUIRED UNDER THIS SUBTITLE, has met the appropriate education and experience
-14 requirements of this subtitle for a license issued under § 19–302 of this subtitle to practice:
-
-15 (1) Bachelor social work; or
-
-16 (2) Master social work.
-
-17 (b) A conditional license issued under this section [authorizes]:
-
-18 (1) AUTHORIZES the holder to practice social work in the State only
-19 WITHIN THE SCOPE OF THE SPECIFIC CATEGORY OF LICENSE ISSUED BY THE BOARD;
-
-20 (2) REQUIRES THE HOLDER TO PRACTICE under the supervision of a
-21 Board–approved supervisor [while the conditional license is effective] IN ACCORDANCE
-22 WITH REGULATIONS ADOPTED UNDER THIS SECTION; AND
-
-23 (3) MAY BE ISSUED ONLY TO AN INITIAL APPLICANT FOR LICENSURE
-24 WHO HAS NOT PREVIOUSLY BEEN LICENSED UNDER THIS TITLE.
-
-25 (c) A conditional license [is valid until 180 days after the examination becomes
-26 readily available to the applicant]:
-
-27 (1) EXPIRES ON A DATE SET BY THE BOARD THAT IS AT LEAST 12
-28 MONTHS, BUT NOT MORE THAN 24 MONTHS, AFTER THE DATE OF ISSUANCE;
-
-29 (2) MAY NOT BE RENEWED; AND
-END OF PAGE 5
-
-START OF PAGE 6
-6 HOUSE BILL 769
 
 1 (3) SHALL TERMINATE AUTOMATICALLY ON:
 
@@ -257,89 +160,77 @@ START OF PAGE 6
 4 UNDER SUBSECTION (E) OF THIS SECTION, THE DATE THAT THE FULL LICENSE IS
 5 ISSUED.
 
-6 (D) A HOLDER OF A CONDITIONAL LICENSE UNDER THIS SECTION AND THE
-7 SUPERVISING SOCIAL WORKER ARE JOINTLY RESPONSIBLE FOR ENSURING
-8 COMPLIANCE WITH THE SUPERVISION AND EXPIRATION REQUIREMENTS OF
-9 SUBSECTIONS (B)(2) AND (C) OF THIS SECTION.
+6 (D) A HOLDER OF A PROVISIONAL LICENSE AND THE SUPERVISING SOCIAL
+7 WORKER ARE JOINTLY RESPONSIBLE FOR ENSURING COMPLIANCE WITH THE
+8 SUPERVISION AND EXPIRATION REQUIREMENTS OF SUBSECTIONS (B)(2) AND (C) OF
+9 THIS SECTION.
 
 10 (E) THE BOARD SHALL ISSUE A FULL LICENSE UNDER § 19–302 OF THIS
-11 SUBTITLE TO A HOLDER OF A CONDITIONAL LICENSE UNDER THIS SECTION WHO
-12 DEMONSTRATES TO THE SATISFACTION OF THE BOARD THAT THE HOLDER HAS:
+11 SUBTITLE TO A HOLDER OF A PROVISIONAL LICENSE WHO DEMONSTRATES TO THE
+12 SATISFACTION OF THE BOARD THAT THE HOLDER HAS ACHIEVED A SATISFACTORY
+13 SCORE ON AN EXAMINATION, AS REQUIRED UNDER § 19–302 OF THIS SUBTITLE.
 
-13 (1) ACHIEVED A SATISFACTORY SCORE ON AN EXAMINATION, AS
-14 REQUIRED UNDER § 19–302 of THIS SUBTITLE; OR
+14 (F) SUPERVISED HOURS COMPLETED UNDER A PROVISIONAL LICENSE:
 
-15 (2) COMPLETED AT LEAST 1,500 HOURS OF SUPERVISED
-16 EXPERIENCE IN THE PRACTICE OF SOCIAL WORK DURING THE PERIOD OF
-17 CONDITIONAL LICENSURE, AS VERIFIED BY A BOARD–APPROVED SUPERVISOR, IN
-18 ACCORDANCE WITH STANDARDS ESTABLISHED BY THE BOARD, IN CONSULTATION
-19 WITH AN INSTITUTION THAT:
+15 (1) MAY BE COUNTED TOWARD THE SUPERVISED EXPERIENCE
+16 REQUIRED FOR INDEPENDENT PRACTICE APPROVAL UNDER § 19–302(F) OF THIS
+17 SUBTITLE; AND
 
-20 (I) IS ACCREDITED BY THE COUNCIL ON SOCIAL WORK
-21 EDUCATION OR AN EQUIVALENT ORGANIZATION APPROVED BY THE COUNCIL ON
-22 SOCIAL WORK EDUCATION; AND
+18 (2) MAY NOT BE COUNTED TOWARD THE SUPERVISED EXPERIENCE
+19 REQUIRED TO QUALIFY FOR A CERTIFIED SOCIAL WORKER–CLINICAL LICENSE
+20 UNDER § 19–302(E) OF THIS SUBTITLE.
 
-23 (II) OFFERS BOTH A BACCALAUREATE DEGREE AND A MASTER’S
-24 DEGREE.
+21 (G) THE BOARD SHALL ADOPT REGULATIONS TO CARRY OUT THIS SECTION,
+22 INCLUDING REGULATIONS THAT ESTABLISH:
 
-25 (F) THE BOARD SHALL ADOPT REGULATIONS TO CARRY OUT THIS SECTION,
-26 INCLUDING REGULATIONS THAT ESTABLISH:
+23 (1) MINIMUM SUPERVISION REQUIREMENTS AND REPORTING
+24 PROCEDURES;
 
-27 (1) MINIMUM SUPERVISION REQUIREMENTS AND REPORTING
-28 PROCEDURES;
+25 (2) STANDARDS FOR EVALUATING SUPERVISED PRACTICE AS
+26 DESCRIBED IN SUBSECTION (E)(2) OF THIS SECTION;
 
-29 (2) STANDARDS FOR EVALUATING SUPERVISED PRACTICE AS
-30 DESCRIBED IN SUBSECTION (E)(2) OF THIS SECTION;
-END OF PAGE 6
+27 (3) REQUIREMENTS TO ENSURE THAT THE TRACKING OF
+28 PROVISIONAL LICENSES ALIGNS WITH EXISTING LICENSURE CYCLES; AND
 
-START OF PAGE 7
-HOUSE BILL 769 7
+29 (4) A REASONABLE FEE FOR THE ISSUANCE OF A PROVISIONAL
+30 LICENSE SUFFICIENT TO COVER ADMINISTRATIVE COSTS.
+END OF PAGE 4
 
-1 (3) REQUIREMENTS TO ENSURE THAT THE TRACKING OF
-2 CONDITIONAL LICENSES ISSUED UNDER THIS SECTION ALIGNS WITH EXISTING
-3 LICENSURE CYCLES; AND
+START OF PAGE 5
+HOUSE BILL 769 5
 
-4 (4) A REASONABLE FEE FOR THE ISSUANCE OF A CONDITIONAL
-5 LICENSE ISSUED UNDER THIS SECTION SUFFICIENT TO COVER ADMINISTRATIVE
-6 COSTS.
+1 (H) ON OR BEFORE DECEMBER 31 EACH YEAR, BEGINNING IN 2027, THE
+2 BOARD SHALL REPORT TO THE SENATE FINANCE COMMITTEE AND THE HOUSE
+3 HEALTH COMMITTEE, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT
+4 ARTICLE, THE FOLLOWING INFORMATION FOR THE IMMEDIATELY PRECEDING
+5 12–MONTH PERIOD:
 
-7 [(d)] (G) On or before December 31 each year, beginning in [2024,] 2026, the
-8 Board shall report to the Senate Finance Committee and the House Health and
-9 Government Operations Committee, in accordance with § 2–1257 of the State Government
-10 Article, the following information for the immediately preceding 12–month period:
+6
 
-11 [(1) Whether the examination was unavailable at any time during the
-12 reporting period; and
+7 (1) THE NUMBER OF HOLDERS OF PROVISIONAL LICENSES WHO
+8 OBTAINED FULL LICENSURE UNDER SUBSECTION (E) OF THIS SECTION;
 
-13 (2) If the examination was unavailable:
+9 (2) ANY RECOMMENDATIONS FOR IMPROVING THE IMPLEMENTATION OF THIS SECTION; AND
 
-14 (i) The number of applicants who were eligible for a conditional
-15 license due to the unavailability of the examination;
+11 (3) ANY RECOMMENDATIONS FOR IMPROVING THE IMPACT OF THIS SECTION ON THE HEALTH CARE
+12 WORKFORCE.
 
-16 (ii) The number of applicants who applied to take the examination;
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act is an emergency
+measure, is necessary for the immediate preservation of the public health or safety, has
+been passed by a yea and nay vote supported by three–fifths of all the members elected to
+each of the two Houses of the General Assembly, and shall take effect from the date it is
+enacted.
 
-17 (iii) The number of applications that were delayed in processing; and
+Approved:
 
-18 (iv) The number of conditional licenses issued under this section.]
+________________________________________________________________________________
+Governor.
 
-19 (1) THE NUMBER OF CONDITIONAL LICENSES ISSUED UNDER THIS
-20 SECTION;
+________________________________________________________________________________
+Speaker of the House of Delegates.
 
-21 (2) THE NUMBER OF HOLDERS OF CONDITIONAL LICENSES WHO
-22 OBTAINED FULL LICENSURE UNDER SUBSECTION (E) OF THIS SECTION; AND
-
-23 (3) ANY RECOMMENDATIONS FOR IMPROVING:
-
-24 (I) THE IMPLEMENTATION OF THIS SECTION; AND
-
-25 (II) THE IMPACT OF THIS SECTION ON THE HEALTH CARE
-26 WORKFORCE.
-
-27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act is an emergency
-28 measure, is necessary for the immediate preservation of the public health or safety, has
-29 been passed by a yea and nay vote supported by three–fifths of all the members elected to
-30 each of the two Houses of the General Assembly, and shall take effect from the date it is
-31 enacted.
-END OF PAGE 7
+________________________________________________________________________________
+President of the Senate.
+END OF PAGE 8
 </bill>
 </bill>

@@ -1,314 +1,813 @@
+<bill>
+<bill>
+<bill>
+START OF PAGE 1
 HOUSE BILL 1063
 
-By: Delegates Boyce, Korman, Allen, Bouchat, Hornberger, T. Morgan, Rose, Ruth,
-and Tomlinson
-Introduced and read first time: February 9, 2026
-Assigned to: Environment and Transportation
+M2 (6lr2234)
+ENROLLED BILL
+— Environment and Transportation/Education, Energy, and the Environment —
+Introduced by Delegates Boyce, Korman, Allen, Bouchat, Hornberger, T. Morgan,
+Rose, Ruth, and Tomlinson
 
-Committee Report: Favorable with amendments
-House action: Adopted with floor amendments
-Read second time: March 10, 2026
+Read and Examined by Proofreaders:
+
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+
+Sealed with the Great Seal and presented to the Governor, for his approval this
+
+_______ day of _______________ at ________________________ o’clock, ________M.
+
+______________________________________________
+Speaker.
 
 CHAPTER ______
 
-AN ACT concerning
+1 AN ACT concerning
 
-Natural Resources – Hunting – Management
+2 Natural Resources – Hunting – Management
 
-providing that the Department of Natural Resources may authorize the reduction of the deer population on certain property with deer damage using certain methods; altering the time restrictions for Sunday deer hunting in certain counties during deer firearms season; repealing certain time restrictions that apply to the hunting of game birds and mammals on certain Sundays on private property in Wicomico County; authorizing the Department to allow a person to hunt deer on each Sunday of the deer bow hunting season in Baltimore City; repealing certain provisions of law governing Sunday hunting on a county–by–county basis and authorizing the Department to adopt regulations allowing Sunday hunting during game bird and game mammal seasons, subject to a certain standard; requiring the Department to establish certain procedures for a county to request changes to Sunday hunting regulations; and generally relating to hunting management.
+3 FOR the procedure of providing that the Department of Natural Resources may authorize the
+4 reduction of the deer population on certain property with deer damage using certain
+5 methods; altering the time restrictions for Sunday deer hunting in certain counties
+6 during deer firearms season; repealing certain time restrictions that apply to the
+7 hunting of game birds and mammals on certain Sundays on private property in
+8 Wicomico County; authorizing the Department to allow a person to hunt deer on each
+9 Sunday of the deer bow hunting season in Baltimore City; ~~repealing~~ ~~the~~ ~~prohibition~~
+10 ~~against~~ ~~hunting~~ ~~migratory~~ ~~game~~ ~~birds~~ ~~on~~ ~~Sundays~~ ~~and~~ ~~authorizing~~ ~~the~~ ~~Department~~
+11 ~~to~~ ~~allow~~ ~~Sunday~~ ~~hunting~~ ~~for~~ ~~migratory~~ ~~game~~ ~~birds,~~ ~~subject~~ ~~to~~ ~~a~~ ~~certain~~ ~~requirement;~~
+12 repealing certain provisions of law governing Sunday hunting on a
+13 county–by–county basis and authorizing the Department to adopt regulations
 
-BY repealing and reenacting, with amendments,
-Article – Natural Resources
-Section 10–206, 10–410(a), and 10–906(b)(3)(i)
-Annotated Code of Maryland
-(2023 Replacement Volume and 2025 Supplement)
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment.
+Italics indicate opposite chamber/conference committee amendments.*hb1063*
+END OF PAGE 1
 
-BY repealing and reenacting, with amendments,
-Article – Natural Resources
-Section 10–410(a) and 10–906(b)(3)(i)
-Annotated Code of Maryland
-(2023 Replacement Volume and 2025 Supplement)
-(As enacted by Section 1 of this Act)
+START OF PAGE 2
+2 HOUSE BILL 1063
 
-SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND, That the Laws of Maryland read as follows:
+1 allowing Sunday hunting during game bird and game mammal seasons, subject to a
+2 certain standard; requiring the Department to establish certain procedures for a county to request changes to Sunday hunting regulations; and generally relating to hunting management.
 
-Article – Natural Resources
+3 BY repealing and reenacting, with amendments,
+4 Article – Natural Resources
+5 Section 10–206, 10–410(a), and 10–906(b)(3)(i)
+6 Annotated Code of Maryland
+7 (2023 Replacement Volume and 2025 Supplement)
 
-10–206.
+8 BY repealing and reenacting, with amendments,
+9 Article – Natural Resources
+10 Section 10–410(a) and 10–906(b)(3)(i)
+11 Annotated Code of Maryland
+12 (2023 Replacement Volume and 2025 Supplement)
+13 (As enacted by Section 1 of this Act)
 
-(A) The Department may reduce the wildlife population in any county, election district, or other identifiable area of the State after a thorough investigation reveals that protected wildlife is seriously injurious to agricultural or other interests in the affected area. The method of reducing the wildlife population is at the Department’s discretion, except that trapping is preferred whenever feasible. The Department shall dispose of wildlife taken pursuant to the provisions of this section as the Department deems advisable.
+14 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+15 That the Laws of Maryland read as follows:
 
-(B) (1) IN THIS SUBSECTION, “DEER DAMAGE” INCLUDES:
+16 Article – Natural Resources
 
-(I) WIDESPREAD DAMAGE CAUSED BY DEER, INCLUDING THE ELIMINATION OF FOREST UNDERSTORY, TREE REGENERATION, AND NATIVE PLANTS; AND
+17 10–206.
 
-(II) THE DESTRUCTION OF AGRICULTURAL CROPS CAUSED BY DEER.
+18 (A) The Department may reduce the wildlife population in any county, election
+19 district, or other identifiable area of the State after a thorough investigation reveals that
+20 protected wildlife is seriously injurious to agricultural or other interests in the affected
+21 area. The method of reducing the wildlife population is at the Department’s discretion,
+22 except that trapping is preferred whenever feasible. The Department shall dispose of
+23 wildlife taken pursuant to the provisions of this section as the Department deems
+24 advisable.
 
-(2) THE DEPARTMENT MAY AUTHORIZE THE REDUCTION OF THE DEER POPULATION ON ANY SINGLE, CONTIGUOUS PROPERTY OF AT LEAST 10 ACRES WHERE THE DEPARTMENT HAS DOCUMENTED DEER DAMAGE.
+25 (B) (1) IN THIS SUBSECTION, “DEER DAMAGE” INCLUDES:
 
-(3) (I) THE METHOD OF REDUCING THE DEER POPULATION:
+26 (I) WIDESPREAD DAMAGE CAUSED BY DEER, INCLUDING THE
+27 ELIMINATION OF FOREST UNDERSTORY, TREE REGENERATION, AND NATIVE
+28 PLANTS; AND
 
-1. IS AT THE DEPARTMENT’S DISCRETION; AND
+29 (II) THE DESTRUCTION OF AGRICULTURAL CROPS CAUSED BY DEER.
 
-2. SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, MAY INCLUDE THE ISSUANCE OF A PERMIT TO A PROPERTY OWNER, OR THE PROPERTY OWNER’S EMPLOYEE, LESSEE, OR AGENT, TO SHOOT DEER ON THE PROPERTY ON SUNDAYS.
+30
 
-(II) A PERMIT ISSUED UNDER SUBPARAGRAPH (I)2 OF THIS PARAGRAPH :
-1. MAY NOT AUTHORIZE HUNTING ON SUNDAYS IN:
-A. BALTIMORE CITY;
-B. BALTIMORE COUNTY;
-C. HOWARD COUNTY; OR
-D. PRINCE GEORGE’S COUNTY; AND
-2. SHALL PROHIBIT DEER HUNTING ON SUNDAYS DURING DEER FIREARMS SEASON WITHIN 150 YARDS OF A DEPARTMENT TRAIL DESIGNATED FOR BICYCLING, HIKING, EQUESTRIAN USE, OR OTHER ACTIVE OR PASSIVE RECREATIONAL USE, OR OTHER ACTIVE OR PASSIVE RECREATIONAL USE.
+31 (2) THE DEPARTMENT MAY AUTHORIZE THE REDUCTION OF THE
+32 DEER POPULATION ON ANY SINGLE, CONTIGUOUS PROPERTY OF AT LEAST 10 ACRES
+33 WHERE THE DEPARTMENT HAS DOCUMENTED DEER DAMAGE.
 
-(4) THE DEPARTMENT SHALL:
+34 (3) (I) THE METHOD OF REDUCING THE DEER POPULATION:
+END OF PAGE 2
 
-(I) MAP AREAS OF THE STATE TO WHICH A PERMIT MAY APPLY UNDER THIS SUBSECTION; AND
+START OF PAGE 3
+HOUSE BILL 1063 3
 
-(II) MAKE THE MAPS READILY AVAILABLE TO THE PUBLIC.
+1 1. IS AT THE DEPARTMENT’S DISCRETION; AND
 
-10–410.
+2 2. SUBJECT TO SUBPARAGRAPH (II) OF THIS
+3 PARAGRAPH, MAY INCLUDE THE ISSUANCE OF A PERMIT TO A PROPERTY OWNER, OR
+4 THE PROPERTY OWNER’S EMPLOYEE, LESSEE, OR AGENT, TO SHOOT DEER ON THE
+5 PROPERTY ON SUNDAYS.
 
-(a) (1) (i) The Department may allow a person to hunt on each Sunday of the game bird and game mammal seasons in:
+6 (II) A PERMIT ISSUED UNDER SUBPARAGRAPH (I)2 OF THIS
+7 PARAGRAPH:
 
-1. Allegany County;
+8 1. MAY NOT AUTHORIZE HUNTING ON SUNDAYS IN:
 
-2. Subject to subparagraph (iii) of this paragraph, Calvert County, from 30 minutes before sunrise until 10:30 a.m.;
+9 A. BALTIMORE CITY;
 
-3. Subject to subparagraph (iii) of this paragraph, Caroline County, from 30 minutes before sunrise until 10:30 a.m.;
+10 B. BALTIMORE COUNTY;
 
-4. Cecil County;
+11 C. HOWARD COUNTY; OR
 
-5. Subject to subparagraph (iii) of this paragraph, Charles County, from 30 minutes before sunrise until 10:30 a.m.;
+12 D. PRINCE GEORGE’S COUNTY; AND
 
-6. Subject to subparagraph (iv) of this paragraph, Dorchester County, from 30 minutes before sunrise until 10:30 a.m.;
+13 2. SHALL PROHIBIT DEER HUNTING ON SUNDAYS
+14 DURING DEER FIREARMS SEASON *WITHIN ~~25~~ 150 YARDS OF A DEPARTMENT TRAIL*
+15 *DESIGNATED FOR BICYCLING, HIKING, EQUESTRIAN USE, OR OTHER ACTIVE OR*
+16 *PASSIVE RECREATIONAL USE.*
 
-7. Garrett County;
+17 (4) THE DEPARTMENT SHALL:
 
-8. Subject to subparagraph (iii) of this paragraph, Queen Anne’s County, from 30 minutes before sunrise until 10:30 a.m.;
+18 (I) MAP AREAS OF THE STATE TO WHICH A PERMIT MAY APPLY
+19 UNDER THIS SUBSECTION; AND
 
-9. St. Mary’s County;
+20 (II) MAKE THE MAPS READILY AVAILABLE TO THE PUBLIC.
 
-10. Subject to subparagraph (ii) of this paragraph, Somerset County, from 30 minutes before sunrise until 10:30 a.m.;
+21 10–410.
 
-11. Washington County;
+22 (a) (1) (i) The Department may allow a person to hunt on each Sunday of
+23 the game bird and game mammal seasons in:
 
-12. Subject to subparagraph (ii) of this paragraph, Worcester County, from 30 minutes before sunrise until 10:30 a.m.; and
+24 1. Allegany County;
 
-13. Wicomico County.
+25 2. Subject to subparagraph (iii) of this paragraph, Calvert
+26 County, from 30 minutes before sunrise until 10:30 a.m.;
 
-(ii) The time restrictions under subparagraph (i)10 and 12 of this paragraph do not apply:
+27 3. Subject to subparagraph (iii) of this paragraph, Caroline
+28 County, from 30 minutes before sunrise until 10:30 a.m.;
+END OF PAGE 3
 
-1. On each Sunday of the deer firearms season; and
+START OF PAGE 4
+4 HOUSE BILL 1063
 
-2. On the last three Sundays in October and the first two Sundays in November of the deer bow hunting season.
+1 4. Cecil County;
 
-(iii) The time restrictions under subparagraph (i)2, 3, 5, and 8 of this paragraph do not apply:
+2 5. Subject to subparagraph (iii) of this paragraph, Charles
+3 County, from 30 minutes before sunrise until 10:30 a.m.;
 
-1. On each Sunday during the deer firearms season; and
+4 6. Subject to subparagraph (iv) of this paragraph, Dorchester
+5 County, from 30 minutes before sunrise until 10:30 a.m.;
 
-2. On the last three Sundays in October and the first two Sundays in November during the deer bow hunting season.
+6 7. Garrett County;
 
-1. A. On the first Sunday of the deer firearms season; and
+7 8. Subject to subparagraph (iii) of this paragraph, Queen
+8 Anne’s County, from 30 minutes before sunrise until 10:30 a.m.;
 
-B. ON THE REMAINING SUNDAYS OF THE DEER FIREARMS SEASON, FOR WHICH THE TIME RESTRICTIONS SHALL BE FROM 30 MINUTES BEFORE SUNRISE UNTIL 10:30 A.M. AND FROM 3:00 P.M. UNTIL SUNSET; AND
+9 9. St. Mary’s County;
 
-(2) The Department may allow a person to hunt deer on each Sunday of the deer hunting seasons from the first Sunday in October through the second Sunday in January, inclusive, in:
+10 10. Subject to subparagraph (ii) of this paragraph, Somerset
+11 County, from 30 minutes before sunrise until 10:30 a.m.;
 
-(i) Carroll County; and
+12 11. Washington County;
 
-(ii) Frederick County.
+13 12. Subject to subparagraph (ii) of this paragraph, Worcester
+14 County, from 30 minutes before sunrise until 10:30 a.m.; and
 
-(3) (i) Subject to subparagraph (ii) of this paragraph, the Department may allow a person to hunt deer on each Sunday of the deer hunting seasons from 30 minutes before sunrise until 10:30 a.m. in:
+15 13. Wicomico County.
 
-1. Kent County;
+16
 
-2. Montgomery County; and
+17 (ii) The time restrictions under subparagraph (i)10 and 12 of this
+18 paragraph do not apply:
 
-3. Talbot County.
+19 1. On each Sunday of the deer firearms season; and
 
-(ii) The time restrictions under this paragraph do not apply:
+20 2. On the last three Sundays in October and the first two
+21 Sundays in November of the deer bow hunting season.
 
-1. To a participant in a junior deer hunt authorized under this subtitle;
+22 (iii) The time restrictions under subparagraph (i)2, 3, 5, and 8 of this
+23 paragraph do not apply:
 
-2. A. On one Sunday designated by the Department during the deer firearms season; AND
+24 1. On each Sunday during the deer firearms season;
 
-B. IN KENT COUNTY AND TALBOT COUNTY, ON THE REMAINING SUNDAYS OF THE DEER FIREARMS SEASON, FOR WHICH THE TIME RESTRICTIONS SHALL BE FROM 30 MINUTES BEFORE SUNRISE UNTIL 10:30 A.M. AND FROM 3:00 P.M. UNTIL SUNSET;
+25 2. On the last three Sundays in October and the first two
+26 Sundays in November during the deer bow hunting season; and
 
-3. In Kent County, on each Sunday during the deer bow hunting season and the deer muzzle loader season;
+27 3. On each Sunday of the spring turkey hunting season.
 
-4. In Montgomery County, on one Sunday designated by the Department during the deer bow hunting season; and
+28 (iv) The time restrictions under subparagraph (i)6 of this paragraph
+29 do not apply:
+END OF PAGE 4
 
-5. In Talbot County, on the last three Sundays in October and the first two Sundays in November during the bow hunting season.
+START OF PAGE 5
+HOUSE BILL 1063 5
 
-(4) The Department may allow a person to hunt deer during the deer firearms season:
+1 1. On each Sunday of the deer hunting seasons from the first
+2 Sunday in October through the second Sunday in January, inclusive; and
 
-(i) On each Sunday in Harford County; and
+3 2. On each Sunday of the spring turkey hunting season.
 
-(ii) On the first Sunday in Anne Arundel County.
+4
 
-(5) The Department may allow a person to hunt deer during the deer bow hunting season on:
+5
 
-(i) The last three Sundays in October and the first two Sundays in November in Harford County; and
+6
 
-(ii) The first Sunday in November in Anne Arundel County.
+7
 
-(6) THE DEPARTMENT MAY ALLOW A PERSON TO HUNT DEER ON EACH SUNDAY OF THE DEER BOW HUNTING SEASON IN BALTIMORE CITY.
+8
 
-(8) The Department may allow a person to hunt turkey on each Sunday of the spring turkey hunting season in:
+9
 
-(i) Carroll County;
+10
 
-(ii) Kent County; and
+11
 
-(iii) Talbot County, from 30 minutes before sunrise until 10:30 a.m.
+12
 
-(9) Notwithstanding any other provision of this subtitle, the Department may allow:
+13 (2) The Department may allow a person to hunt deer on each Sunday of the
+14 deer hunting seasons from the first Sunday in October through the second Sunday in
+15 January, inclusive, in:
 
-(I) A person with a deer management permit ISSUED UNDER § 10–206(A) OF THIS TITLE to shoot deer on any Sunday throughout the year in accordance with the terms of the permit; AND
+16 (i) Carroll County; and
 
-(II) EXCEPT IN BALTIMORE CITY, BALTIMORE COUNTY, HOWARD COUNTY, AND PRINCE GEORGE’S COUNTY, A PERSON WITH A DEER DAMAGE PERMIT ISSUED UNDER § 10–206(B) OF THIS TITLE TO SHOOT DEER ON ANY SUNDAY THROUGHOUT THE YEAR IN ACCORDANCE WITH THE TERMS OF THE PERMIT.
+17 (ii) Frederick County.
 
-(10) The Department may allow a person using a State certified raptor to hunt game birds or mammals on each Sunday during the open season for the game birds or mammals.
+18 (3) (i) Subject to subparagraph (ii) of this paragraph, the Department
+19 may allow a person to hunt deer on each Sunday of the deer hunting seasons from 30
+20 minutes before sunrise until 10:30 a.m. in:
 
-(11) The Department may allow an unarmed person participating in an organized fox chase to chase foxes on Sunday.
+21 1. Kent County;
 
-(12) The Department may allow a person shooting pen–reared game birds or tower–released flighted mallard ducks to hunt on Sunday at a regulated shooting ground in accordance with § 10–906 of this title.
+22 2. Montgomery County; and
 
-(13) The Department may allow a person who is 16 years old or younger to hunt on Sunday if participating in a junior hunt established by the Department in accordance with this subtitle.
+23 3. Talbot County.
 
-(14) Except as provided in paragraphs (11) through (12) of this subsection and subject to paragraph (9) of this subsection, a person may not hunt on Sunday in:
+24 (ii) The time restrictions under this paragraph do not apply:
 
-(i) Baltimore City;
+25 1. To a participant in a junior deer hunt authorized under
+26 this subtitle;
 
-(ii) Baltimore County;
+27 2. A. On one Sunday designated by the Department
+28 during the deer firearms season; AND
+END OF PAGE 5
 
-(iii) Howard County; or
+START OF PAGE 6
+6 HOUSE BILL 1063
 
-(iv) Prince George’s County.
+1 B. ~~ON~~ *IN KENT COUNTY AND TALBOT COUNTY, ON THE*
+2 *REMAINING SUNDAYS OF THE DEER FIREARMS SEASON, FOR WHICH THE TIME*
+3 *RESTRICTIONS SHALL BE FROM 30 MINUTES BEFORE SUNRISE UNTIL 10:30 A.M. AND*
+4 *FROM 3:00 P.M. UNTIL SUNSET;*
 
-(16) A person may not hunt on public land within the State park system on Sunday.
+5 3. In Kent County, on each Sunday during the deer bow
+6 hunting season and the deer muzzle loader season;
 
-(17) (i) The Department may not allow a person to hunt on public land designated for hunting by the Department on Sunday except in:
+7 4. In Montgomery County, on one Sunday designated by the
+8 Department during the deer bow hunting season; and
 
-1. Allegany County;
+9 5. In Talbot County, on the last three Sundays in October
+10 and the first two Sundays in November during the bow hunting season.
 
-2. Cecil County;
+11 (4) The Department may allow a person to hunt deer during the deer
+12 firearms season:
 
-3. Garrett County;
+13 (i) On each Sunday in Harford County; and
 
-4. St. Mary’s County;
+14 (ii) On the first Sunday in Anne Arundel County.
 
-5. Washington County;
+15 (5) The Department may allow a person to hunt deer during the deer bow
+16 hunting season on:
 
-6. Dorchester County, for turkey during the spring turkey hunting season;
+17 (i) The last three Sundays in October and the first two Sundays in
+18 November in Harford County; and
 
-7. Frederick County, for deer from the first Sunday in October through the second Sunday in January of the following year, inclusive;
+19 (ii) The first Sunday in November in Anne Arundel County.
 
-8. Subject to subparagraph (ii) of this paragraph, Somerset County, on public land leased to a hunt club from 30 minutes before sunrise until 10:30 a.m.;
+20 *(6) THE DEPARTMENT MAY ALLOW A PERSON TO HUNT DEER ON*
+21 *EACH SUNDAY OF THE DEER BOW HUNTING SEASON IN BALTIMORE CITY.*
 
-9. Subject to subparagraph (ii) of this paragraph, Worcester County, from 30 minutes before sunrise until 10:30 a.m.; and
+22 (7) The Department may allow a person to hunt turkey on each Sunday of
+23 the spring turkey hunting season in:
 
-10. Subject to subparagraph (iii) of this paragraph, Wicomico County, from 30 minutes before sunrise until 10:30 a.m.
+24 (i) Carroll County;
 
-(ii) The time restrictions under subparagraph (i)8 and 9 of this paragraph do not apply:
+25 (ii) Kent County; and
 
-1. On each Sunday of the deer firearms season; and
+26 (iii) Talbot County, from 30 minutes before sunrise until 10:30 a.m.
 
-2. On the last three Sundays in October and the first two Sundays in November of the deer bow hunting season.
+27 (8) Notwithstanding any other provision of this subtitle, the
+28 Department may allow [a]:
+END OF PAGE 6
 
-(iii) The time restrictions under subparagraph (i)10 of this paragraph do not apply:
+START OF PAGE 7
+HOUSE BILL 1063 7
 
-1. A. On the first Sunday of the deer firearms season; and
+1 (I) A person with a deer management permit ISSUED UNDER §
+2 10–206(A) OF THIS TITLE to shoot deer on any Sunday throughout the year in accordance
+3 with the terms of the permit; AND
 
-B. ON THE REMAINING SUNDAYS OF THE DEER FIREARMS SEASON, FOR WHICH THE TIME RESTRICTIONS SHALL BE FROM 30 MINUTES BEFORE SUNRISE UNTIL 10:30 A.M. AND FROM 3:00 P.M. UNTIL SUNSET; AND
+4 *(II) EXCEPT IN BALTIMORE CITY, BALTIMORE COUNTY,*
+5 *HOWARD COUNTY, AND PRINCE GEORGE’S COUNTY, A PERSON WITH A DEER*
+6 *DAMAGE PERMIT ISSUED UNDER § 10–206(B) OF THIS TITLE TO SHOOT DEER ON ANY*
+7 *SUNDAY THROUGHOUT THE YEAR IN ACCORDANCE WITH THE TERMS OF THE*
+8 *PERMIT.*
 
-2. On the last three Sundays in October and the first two Sundays in November of the deer bow hunting season.
+9 (9) The Department may allow a person using a State certified
+10 raptor to hunt game birds or mammals on each Sunday during the open season for the
+11 game birds or mammals.
 
-10–906.
+12 (10) The Department may allow an unarmed person participating in
+13 an organized fox chase to chase foxes on Sunday.
 
-(b) (3) (i) As part of the application for a regulated shooting ground permit, a person may apply to the Department for authorization to allow hunting on Sunday as provided under § 10–410(A)(12) of this title.
+14 (11) The Department may allow a person shooting pen–reared game
+15 birds or tower–released flighted mallard ducks to hunt on Sunday at a regulated shooting
+16 ground in accordance with § 10–906 of this title.
 
-SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read as follows:
+17 (12) The Department may allow a person who is 16 years old or
+18 younger to hunt on Sunday if participating in a junior hunt established by the Department
+19 in accordance with this subtitle.
 
-Article – Natural Resources
+20 (13) Except as provided in paragraphs (9) through (11) of this
+21 subsection and subject to paragraph (8) of this subsection, a person may not hunt on
+22 Sunday in:
 
-10–410.
+23 (i) Baltimore City;
 
-(a) (1) (I) SUBJECT TO THE PROVISIONS OF THIS SECTION, THE DEPARTMENT SHALL ADOPT REGULATIONS ALLOWING PERSONS TO HUNT ON SUNDAYS DURING THE GAME BIRD AND GAME MAMMAL SEASONS.
+24 (ii) Baltimore County;
 
-(II) THE REGULATIONS ADOPTED UNDER THIS SUBSECTION SHALL AT A MINIMUM ALLOW SUNDAY HUNTING ON THE HOURS AND DAYS AUTHORIZED FOR SUNDAY HUNTING BY SPECIES, HUNTING SEASON, AND COUNTY ON JUNE 30, 2027.
+25 (iii) Howard County; or
 
-(III) 1. THE DEPARTMENT SHALL ESTABLISH STANDARD PROCEDURES FOR A COUNTY TO REQUEST CHANGES TO THE SUNDAY HUNTING REGULATIONS APPLICABLE TO THE COUNTY.
+26 (iv) Prince George’s County.
+
+27 (14) ~~ (I) [A person may not] SUBJECT TO SUBPARAGRAPH (II)
+28 OF THIS PARAGRAPH, THE DEPARTMENT MAY ALLOW A PERSON TO ~~ hunt migratory
+29 game birds on Sunday.
+
+30 ~~ (II) THE DEPARTMENT SHALL ALLOW THE FOLLOWING
+31 PERSONS TO HUNT MIGRATORY CANADA GEESE (ATLANTIC POPULATION) ON
+32 SUNDAYS DURING THE OPEN SEASON:
+END OF PAGE 7
+
+START OF PAGE 8
+8 HOUSE BILL 1063
+
+1 1. JUNIOR HUNTERS;
+
+2 2. SENIOR HUNTERS;
+
+3 3. APPRENTICE HUNTERS; AND
+
+4 4. FULL–TIME STUDENTS WHO HOLD A HUNTING
+5 LICENSE. ~~
+
+6 (15) A person may not hunt on public land within the State park
+7 system on Sunday.
+
+8 (16) (i) The Department may not allow a person to hunt on public
+9 land designated for hunting by the Department on Sunday except in:
+
+10 1. Allegany County;
+
+11 2. Cecil County;
+
+12 3. Garrett County;
+
+13 4. St. Mary’s County;
+
+14 5. Washington County;
+
+15 6. Dorchester County, for turkey during the spring turkey
+16 hunting season;
+
+17 7. Frederick County, for deer from the first Sunday in
+18 October through the second Sunday in January of the following year, inclusive;
+
+19 8. Subject to subparagraph (ii) of this paragraph, Somerset
+20 County, on public land leased to a hunt club from 30 minutes before sunrise until 10:30
+21 a.m.;
+
+22 9. Subject to subparagraph (ii) of this paragraph, Worcester
+23 County, from 30 minutes before sunrise until 10:30 a.m.; and
+
+24 10. Wicomico County.
+
+25
+
+26 (ii) The time restrictions under subparagraph (i)8 and 9 of this
+27 paragraph do not apply:
+
+28 1. On each Sunday of the deer firearms season; and
+END OF PAGE 8
+
+START OF PAGE 9
+HOUSE BILL 1063 9
+
+1 2. On the last three Sundays in October and the first two
+2 Sundays in November of the deer bow hunting season.
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12 10–906.
+
+13 (b) (3) (i) As part of the application for a regulated shooting ground permit,
+14 a person may apply to the Department for authorization to allow hunting on Sunday as
+15 provided under [§ 10–410(a)(10)] § 10–410(A)(11) of this title.
+
+16 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+17 as follows:
+
+18 Article – Natural Resources
+
+19 10–410.
+
+20 (a) [(1) (i) The Department may allow a person to hunt on each Sunday of
+21 the game bird and game mammal seasons in:
+
+22 1. Allegany County;
+
+23 2. Subject to subparagraph (iii) of this paragraph, Calvert
+24 County, from 30 minutes before sunrise until 10:30 a.m.;
+
+25 3. Subject to subparagraph (iii) of this paragraph, Caroline
+26 County, from 30 minutes before sunrise until 10:30 a.m.;
+
+27 4. Cecil County;
+
+28 5. Subject to subparagraph (iii) of this paragraph, Charles
+29 County, from 30 minutes before sunrise until 10:30 a.m.;
+END OF PAGE 9
+
+START OF PAGE 10
+10 HOUSE BILL 1063
+
+1 6. Subject to subparagraph (iv) of this paragraph, Dorchester
+2 County, from 30 minutes before sunrise until 10:30 a.m.;
+
+3 7. Garrett County;
+
+4 8. Subject to subparagraph (iii) of this paragraph, Queen
+5 Anne’s County, from 30 minutes before sunrise until 10:30 a.m.;
+
+6 9. St. Mary’s County;
+
+7 10. Subject to subparagraph (ii) of this paragraph, Somerset
+8 County, from 30 minutes before sunrise until 10:30 a.m.;
+
+9 11. Washington County;
+
+10 12. Subject to subparagraph (ii) of this paragraph, Worcester
+11 County, from 30 minutes before sunrise until 10:30 a.m.; and
+
+12 13. Wicomico County.
+
+13
+
+14 (ii) The time restrictions under subparagraph (i)10 and 12 of this
+15 paragraph do not apply:
+
+16 1. On each Sunday of the deer firearms season; and
+
+17 2. On the last three Sundays in October and the first two
+18 Sundays in November of the deer bow hunting season.
+
+19 (iii) The time restrictions under subparagraph (i)2, 3, 5, and 8 of this
+20 paragraph do not apply:
+
+21 1. On each Sunday during the deer firearms season;
+
+22 2. On the last three Sundays in October and the first two
+23 Sundays in November during the deer bow hunting season; and
+
+24 3. On each Sunday of the spring turkey hunting season.
+
+25 (iv) The time restrictions under subparagraph (i)6 of this paragraph
+26 do not apply:
+
+27 1. On each Sunday of the deer hunting seasons from the first
+28 Sunday in October through the second Sunday in January, inclusive; and
+
+29 2. On each Sunday of the spring turkey hunting season.
+END OF PAGE 10
+
+START OF PAGE 11
+HOUSE BILL 1063 11
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9 (2) The Department may allow a person to hunt deer on each Sunday of the
+10 deer hunting seasons from the first Sunday in October through the second Sunday in
+11 January, inclusive, in:
+
+12 (i) Carroll County; and
+
+13 (ii) Frederick County.
+
+14 (3) (i) Subject to subparagraph (ii) of this paragraph, the Department
+15 may allow a person to hunt deer on each Sunday of the deer hunting seasons from 30
+16 minutes before sunrise until 10:30 a.m. in:
+
+17 1. Kent County;
+
+18 2. Montgomery County; and
+
+19 3. Talbot County.
+
+20 (ii) The time restrictions under this paragraph do not apply:
+
+21 1. To a participant in a junior deer hunt authorized under
+22 this subtitle;
+
+23 2. A. On one Sunday designated by the Department
+24 during the deer firearms season; and
+
+25 B. In Kent County and Talbot County, on the remaining
+26 Sundays of the deer firearms season, for which the time restrictions shall be from 30
+27 minutes before sunrise until 10:30 a.m. and from 3:00 p.m. until sunset;
+
+28 3. In Kent County, on each Sunday during the deer bow
+29 hunting season and the deer muzzle loader season;
+
+30 4. In Montgomery County, on one Sunday designated by the
+31 Department during the deer bow hunting season; and
+END OF PAGE 11
+
+START OF PAGE 12
+12 HOUSE BILL 1063
+
+1 5. In Talbot County, on the last three Sundays in October
+2 and the first two Sundays in November during the bow hunting season.
+
+3 (4) The Department may allow a person to hunt deer during the deer
+4 firearms season:
+
+5 (i) On each Sunday in Harford County; and
+
+6 (ii) On the first Sunday in Anne Arundel County.
+
+7 (5) The Department may allow a person to hunt deer during the deer bow
+8 hunting season on:
+
+9 (i) The last three Sundays in October and the first two Sundays in
+10 November in Harford County; and
+
+11 (ii) The first Sunday in November in Anne Arundel County.
+
+12 (6) The Department may allow a person to hunt deer on each Sunday of the
+13 deer bow hunting season in Baltimore City.
+
+14 (7) The Department may allow a person to hunt turkey on each Sunday of
+15 the spring turkey hunting season in:
+
+16 (i) Carroll County;
+
+17 (ii) Kent County; and
+
+18 (iii) Talbot County, from 30 minutes before sunrise until 10:30 a.m.]
+
+19 (1) (I) SUBJECT TO THE PROVISIONS OF THIS SECTION, THE
+20 DEPARTMENT SHALL ADOPT REGULATIONS ALLOWING PERSONS TO HUNT ON
+21 SUNDAYS DURING THE GAME BIRD AND GAME MAMMAL SEASONS.
+
+22 (II) THE REGULATIONS ADOPTED UNDER THIS SUBSECTION
+23 SHALL AT A MINIMUM ALLOW SUNDAY HUNTING ON THE HOURS AND DAYS
+24 AUTHORIZED FOR SUNDAY HUNTING BY SPECIES, HUNTING SEASON, AND COUNTY
+25 ON JUNE 30, 2027.
+
+(III) 1. THE DEPARTMENT SHALL ESTABLISH STANDARD
+PROCEDURES FOR A COUNTY TO REQUEST CHANGES TO THE SUNDAY HUNTING
+REGULATIONS APPLICABLE TO THE COUNTY.
 
 2. THE PROCEDURES SHALL, AT A MINIMUM:
 
-A. REQUIRE THE COUNTY TO PROVIDE THE DEPARTMENT WITH A LETTER FROM THE COUNTY’S LEGISLATIVE BODY, COUNTY EXECUTIVE, OR LOCAL DELEGATION TO THE GENERAL ASSEMBLY, WHICH SUPPORTS THE PROPOSED CHANGES; AND
+A. REQUIRE THE COUNTY TO PROVIDE THE
+DEPARTMENT WITH A LETTER FROM THE COUNTY’S LEGISLATIVE BODY, COUNTY
+EXECUTIVE, OR LOCAL DELEGATION TO THE GENERAL ASSEMBLY, WHICH
+SUPPORTS THE PROPOSED CHANGES; AND
 
-B. PROVIDE FOR CONSULTATION WITH LOCAL STAKEHOLDERS, INCLUDING NONHUNTERS.
+B. PROVIDE FOR CONSULTATION WITH LOCAL
+STAKEHOLDERS, INCLUDING NONHUNTERS.
 
-3. THE DEPARTMENT SHALL PUBLISH GUIDELINES DESCRIBING THE PROCEDURES ESTABLISHED UNDER THIS SUBPARAGRAPH TO THE DEPARTMENT’S WEBSITE.
+3. THE DEPARTMENT SHALL PUBLISH GUIDELINES
+DESCRIBING THE PROCEDURES ESTABLISHED UNDER THIS SUBPARAGRAPH TO
+THE DEPARTMENT’S WEBSITE.
 
-(2) Notwithstanding any other provision of this subtitle, the Department may allow:
+26 [(8)] *[(9)]* (2) Notwithstanding any other provision of this subtitle, the
+27 Department may allow ~~a~~ ~~person~~ ~~with:~~
 
-(i) A person with a deer management permit issued under § 10–206(a) of this title to shoot deer on any Sunday throughout the year in accordance with the terms of the permit; and
+28 (i) A person with a deer management permit issued under §
+29 10–206(a) of this title to shoot deer on any Sunday throughout the year in accordance with
+30 the terms of the permit; and
+END OF PAGE 12
 
-(ii) Except in Baltimore City, Baltimore County, Howard County, and Prince George’s County, a person with a deer damage permit issued under § 10–206(b) of this title to shoot deer on any Sunday throughout the year in accordance with the terms of the permit.
+START OF PAGE 13
+HOUSE BILL 1063 13
 
-(3) The Department may allow a person using a State certified raptor to hunt game birds or mammals on each Sunday during the open season for the game birds or mammals.
+1 (ii) Except in Baltimore City, Baltimore County, Howard County,
+2 and Prince George’s County, a person with a deer damage permit issued under § 10–206(b)
+3 of this title to shoot deer on any Sunday throughout the year in accordance with the terms
+4 of the permit.
 
-(4) The Department may allow an unarmed person participating in an organized fox chase to chase foxes on Sunday.
+5 [(9)] *[(10)]* (3) The Department may allow a person using a State
+6 certified raptor to hunt game birds or mammals on each Sunday during the open season for
+7 the game birds or mammals.
 
-(5) The Department may allow a person shooting pen–reared game birds or tower–released flighted mallard ducks to hunt on Sunday at a regulated shooting ground in accordance with § 10–906 of this title.
+8 [(10)] *[(11)]* (4) The Department may allow an unarmed person
+9 participating in an organized fox chase to chase foxes on Sunday.
 
-(6) The Department may allow a person who is 16 years old or younger to hunt on Sunday if participating in a junior hunt established by the Department in accordance with this subtitle.
+10 [(11)] *[(12)]* (5) The Department may allow a person shooting pen–reared
+11 game birds or tower–released flighted mallard ducks to hunt on Sunday at a regulated
+12 shooting ground in accordance with § 10–906 of this title.
 
-(7) Except as provided in paragraphs (3) through (5) of this subsection and subject to paragraph (2) of this subsection, a person may not hunt on Sunday in:
+13 *(6) The Department may allow a person to hunt deer on each Sunday of the*
+14 *deer bow hunting season in Baltimore City.*
 
-(i) Baltimore City;
+15 [(12)] *[(13)]* (7) The Department may allow a person who is 16 years old
+16 or younger to hunt on Sunday if participating in a junior hunt established by the
+17 Department in accordance with this subtitle.
 
-(ii) Baltimore County;
+18 [(13)] *[(14)]* (8) Except as provided in paragraphs [(9)] *[(10)]* (3) through
+19 [(11)] *[(12)]* (5) of this subsection and subject to paragraph [(8)] *[(9)]* (2) of this subsection,
+20 a person may not hunt on Sunday in:
 
-(iii) Howard County; or
+21 (i) Baltimore City;
 
-(iv) Prince George’s County.
+22 (ii) Baltimore County;
 
-(8) (i) Subject to subparagraph (ii) of this paragraph, A person may not hunt migratory game birds on Sunday.
+23 (iii) Howard County; or
 
-(9) A person may not hunt on public land within the State park system on Sunday.
+24 (iv) Prince George’s County.
 
-10–906.
+25 [(14)] *[(15)]* (9) A person may not hunt migratory game birds on Sunday.
 
-(b) (3) (i) As part of the application for a regulated shooting ground permit, a person may apply to the Department for authorization to allow hunting on Sunday as provided under § 10–410(A)(5) of this title.
+26
 
-SECTION 3. AND BE IT FURTHER ENACTED, That:
+27
 
-(a) The Department of Natural Resources shall, in accordance with this section, report annually on the impact of this Act on deer management in the State, the safety of hunters and other individuals who engage in outdoor recreation, and the balancing of stakeholder interests.
+28
+
+29
+
+30
+END OF PAGE 13
+
+START OF PAGE 14
+14 HOUSE BILL 1063
+
+1 [(15)] *[(16)]* (10) A person may not hunt on public land within the State
+2 park system on Sunday.
+
+3 ~~ [(15)] *[(16)]* ~~ [(i) The Department may not allow a person to hunt on public
+4 land designated for hunting by the Department on Sunday except in:
+
+5 1. Allegany County;
+
+6 2. Cecil County;
+
+7 3. Garrett County;
+
+8 4. St. Mary’s County;
+
+9 5. Washington County;
+
+10 6. Dorchester County, for turkey during the spring turkey
+11 hunting season;
+
+12 7. Frederick County, for deer from the first Sunday in
+13 October through the second Sunday in January of the following year, inclusive;
+
+14 8. Subject to subparagraph (ii) of this paragraph, Somerset
+15 County, on public land leased to a hunt club from 30 minutes before sunrise until 10:30
+16 a.m.;
+
+17 9. Subject to subparagraph (ii) of this paragraph, Worcester
+18 County, from 30 minutes before sunrise until 10:30 a.m.; and
+
+19 10. Wicomico County.
+
+20
+
+21 (ii) The time restrictions under subparagraph (i)8 and 9 of this
+22 paragraph do not apply:
+
+23 1. On each Sunday of the deer firearms season; and
+
+24 2. On the last three Sundays in October and the first two
+25 Sundays in November of the deer bow hunting season.
+
+26
+
+27
+
+28
+END OF PAGE 14
+
+START OF PAGE 15
+HOUSE BILL 1063 15
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6 10–906.
+
+7 (b) (3) (i) As part of the application for a regulated shooting ground permit,
+8 a person may apply to the Department for authorization to allow hunting on Sunday as
+9 provided under [§ 10–410(a)(11)] § 10–410(A)(5) of this title.
+
+10 SECTION 3. AND BE IT FURTHER ENACTED, That:
+
+(a) The Department of Natural Resources shall, in accordance with this
+section, report annually on the impact of this Act on deer management in the State, the
+safety of hunters and other individuals who engage in outdoor recreation, and the
+balancing of stakeholder interests.
 
 (b) Reports made under this section shall include:
 
-(1) a summary of any regulations adopted under § 10–410(a)(1) of the Natural Resources Article, as enacted by Section 2 of this Act, during the reporting period;
+(1) a summary of any regulations adopted under § 10–410(a)(1) of the
+Natural Resources Article, as enacted by Section 2 of this Act, during the reporting
+period;
 
 (2) data regarding hunting related accidents;
 
-(3) summaries of complaints received from any source regarding conflicts between hunters and other individuals engaging in outdoor recreation; and
+(3) summaries of complaints received from any source regarding
+conflicts between hunters and other individuals engaging in outdoor recreation; and
 
-(4) any recommendations from the Department on strategies to improve safety or decrease conflicts.
+(4) any recommendations from the Department on strategies to improve
+safety or decrease conflicts.
 
-(c) On or before December 1, 2027, December 1, 2028, and December 1, 2029, the Department shall, in accordance with § 2–1257 of the State Government Article, submit the reports required under this section to the Senate Committee on Education, Energy, and the Environment and the House Environment and Transportation Committee.
+(c) On or before December 1, 2027, December 1, 2028, and December 1, 2029,
+the Department shall, in accordance with § 2–1257 of the State Government Article,
+submit the reports required under this section to the Senate Committee on Education,
+Energy, and the Environment and the House Environment and Transportation
+Committee.
 
-SECTION 4. AND BE IT FURTHER ENACTED, That this Act may not be construed to authorize the Department of Natural Resources to allow Sunday hunting in Baltimore County, Howard County, or Prince George’s County:
+22 SECTION 4. AND BE IT FURTHER ENACTED, That this Act may not be construed
+23 to authorize the Department of Natural Resources to allow Sunday hunting in Baltimore
+24 County, Howard County, or Prince George’s County:
 
-(1) (i) except as provided in Section 10–410(a)(10) through (12) of the Natural Resources Article, as enacted by Section 1 of this Act; and
+25 (1) (i) except as provided in Section 10–410(a)(9) through (11) of the
+26 Natural Resources Article, as enacted by Section 1 of this Act; and
 
-(ii) subject to Section 10–410(a)(9) of the Natural Resources Article, as enacted by Section 1 of this Act; or
+27 (ii) subject to Section 10–410(a)(8) of the Natural Resources Article,
+28 as enacted by Section 1 of this Act; or
 
-(2) (i) except as provided in Section 10–410(a)(3) through (5) of the Natural Resources Article, as enacted by Section 2 of this Act; and
+29 (2) (i) except as provided in Section 10–410(a)(3) through (5) of the
+30 Natural Resources Article, as enacted by Section 2 of this Act; and
 
-(ii) subject to Section 10–410(a)(2) of the Natural Resources Article, as enacted by Section 2 of this Act.
+31 (ii) subject to Section 10–410(a)(2) of the Natural Resources Article,
+32 as enacted by Section 2 of this Act.
+END OF PAGE 15
 
-SECTION 5. AND BE IT FURTHER ENACTED, That Section 2 of this Act shall take effect July 1, 2027. It shall remain effective for a period of 3 years and, at the end of June 30, 2030, Section 2 of this Act, with no further action required by the General Assembly, shall be abrogated and of no further force and effect.
+START OF PAGE 16
+16 HOUSE BILL 1063
 
-SECTION 6. AND BE IT FURTHER ENACTED, That, except as provided in Section 5 of this Act, this Act shall take effect July 1, 2026.
+1 SECTION 5. AND BE IT FURTHER ENACTED, That Section 2 of this Act shall take
+2 effect July 1, 2027. It shall remain effective for a period of 3 years and, at the end of June
+3 30, 2030, Section 2 of this Act, with no further action required by the General Assembly,
+4 shall be abrogated and of no further force and effect.
+
+5 SECTION 6. AND BE IT FURTHER ENACTED, That, except as provided in
+6 Section 5 of this Act, this Act shall take effect July 1, 2026.
 
 Approved:
 
@@ -320,3 +819,7 @@ Speaker of the House of Delegates.
 
 ________________________________________________________________________________
 President of the Senate.
+END OF PAGE 16
+</bill>
+</bill> Maryland. All rights reserved.
+</bill>

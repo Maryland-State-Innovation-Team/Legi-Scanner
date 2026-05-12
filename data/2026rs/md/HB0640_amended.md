@@ -2,17 +2,25 @@
 START OF PAGE 1
 HOUSE BILL 640
 
-P1, M4, E2 6lr0328
-CF 6lr0327
-
-By: Chair, Government, Labor, and Elections Committee (By Request –
+P1, M4, E2 (6lr0328)
+ENROLLED BILL
+— Government, Labor, and Elections/Education, Energy, and the Environment —
+Introduced by Chair, Government, Labor, and Elections Committee (By Request –
 Departmental – Budget and Management)
-Introduced and read first time: January 30, 2026
-Assigned to: Government, Labor, and Elections
 
-Committee Report: Favorable with amendments
-House action: Adopted
-Read second time: February 26, 2026
+Read and Examined by Proofreaders:
+
+_______________________________________________
+Proofreader.
+_______________________________________________
+Proofreader.
+
+Sealed with the Great Seal and presented to the Governor, for his approval this
+
+_______ day of _______________ at ________________________ o’clock, ________M.
+
+______________________________________________
+Speaker.
 
 CHAPTER ______
 
@@ -26,224 +34,201 @@ CHAPTER ______
 6 Incentive Board, Criminal Justice Information Advisory Board, Two–Generation
 7 Family Economic Security Commission, and Commission on Trauma–Informed
 8 Care; repealing as unnecessary the
-12 Partnership for Workforce Quality Advisory Board; repealing as unnecessary the
-13 requirement that the Maryland Department of Health report on certain activities of
-14 the Department relating to the hepatitis B virus and the hepatitis C virus; and
-15 generally relating to mandated reports, boards, and commissions.
-
-16 BY repealing
-17 Article – Criminal Procedure
-18 Section 10–201(b); and 10–207 through 10–210 and the part “Part II. Criminal
-19 Justice Information Advisory Board”
-20 Annotated Code of Maryland
-21 (2025 Replacement Volume)
-
-22 BY repealing
+9 Partnership for Workforce Quality Advisory Board; repealing as unnecessary the
+10 requirement that the Maryland Department of Health report on certain activities of
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
 [Brackets] indicate matter deleted from existing law.
 Underlining indicates amendments to bill.
 ~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
-amendment. *hb0640*
+amendment.
+Italics indicate opposite chamber/conference committee amendments.*hb0640*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 640
 
-1 Article – Economic Development
-2 Section 3–408 through 3–410
-3 Annotated Code of Maryland
-4 (2024 Replacement Volume and 2025 Supplement)
+1 the Department relating to the hepatitis B virus and the hepatitis C virus; and
+2 generally relating to mandated reports, boards, and commissions.
 
-10 BY repealing
-11 Article – Health – General
-12 Section 7.5–802(c)(5), 18–204(b)(6), 18–1002, 20–1004(22), AND 20–1007(c)
-14 Annotated Code of Maryland
-15 (2023 Replacement Volume and 2025 Supplement)
+3 BY repealing
+4 Article – Economic Development
+5 Section 3–408 through 3–410
+6 Annotated Code of Maryland
+7 (2024 Replacement Volume and 2025 Supplement)
 
-16 BY repealing
-17 Article – Human Services
-18 Section 2–501 through 2–506 and the subtitle “Subtitle 5. Two–Generation Family
-19 Economic Security Commission”; and 8–1301 through 8–1310 and the subtitle
-20 “Subtitle 13. Trauma–Informed Care”
-21 Annotated Code of Maryland
-22 (2019 Replacement Volume and 2025 Supplement)
+8 BY repealing
+9 Article – Health – General
+10 Section 7.5–802(c)(5), 18–204(b)(6), 18–1002, and 20–1004(22)
+11 Annotated Code of Maryland
+12 (2023 Replacement Volume and 2025 Supplement)
 
-23 BY repealing and reenacting, with amendments,
-24 Article – Agriculture
-25 Section 10–1501 and 10–1504 through 10–1507
-26 Annotated Code of Maryland
-27 (2016 Replacement Volume and 2025 Supplement)
+13 BY repealing
+14 Article – Human Services
+15 Section 2–501 through 2–506 and the subtitle “Subtitle 5. Two–Generation Family
+16 Economic Security Commission”; and 8–1301 through 8–1310 and the subtitle
+17 “Subtitle 13. Trauma–Informed Care”
+18 Annotated Code of Maryland
+19 (2019 Replacement Volume and 2025 Supplement)
 
-28 BY repealing
-29 Article – Agriculture
-30 Section 10–1503
-31 Annotated Code of Maryland
-32 (2016 Replacement Volume and 2025 Supplement)
+20 BY repealing and reenacting, with amendments,
+21 Article – Agriculture
+22 Section 10–1501 and 10–1504 through 10–1507
+23 Annotated Code of Maryland
+24 (2016 Replacement Volume and 2025 Supplement)
 
-33 BY repealing and reenacting, with amendments,
-34 Article – Correctional Services
-35 Section 3–525
-36 Annotated Code of Maryland
-37 (2025 Replacement Volume)
-
-38 BY repealing and reenacting, without amendments,
-39 Article – Criminal Procedure
-40 Section 10–201(a) and 10–213(a)
+25 BY repealing
+26 Article – Agriculture
+27 Section 10–1503
+28 Annotated Code of Maryland
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 640 3
 
-1 Annotated Code of Maryland
-2 (2025 Replacement Volume)
+1 (2016 Replacement Volume and 2025 Supplement)
 
-3 BY repealing and reenacting, with amendments,
-4 Article – Criminal Procedure
-5 Section 10–213(b)(2)
-6 Annotated Code of Maryland
-7 (2025 Replacement Volume)
+2 BY repealing and reenacting, with amendments,
+3 Article – Correctional Services
+4 Section 3–525
+5 Annotated Code of Maryland
+6 (2025 Replacement Volume)
 
-8 BY repealing and reenacting, without amendments,
-9 Article – Economic Development
-10 Section 3–201(a) and (b), 3–203(a) and (b), and 5–2601(a) and (b)
-11 Annotated Code of Maryland
-12 (2024 Replacement Volume and 2025 Supplement)
+7 BY repealing and reenacting, without amendments,
+8 Article – Criminal Procedure
+9 Section 10–201(a) and 10–213(a)
+10 Annotated Code of Maryland
+11 (2025 Replacement Volume)
 
-13 BY repealing and reenacting, with amendments,
-14 Article – Economic Development
-15 Section 3–203(c), 3–401, 5–2603(a), 5–2605, 5–2606, and 5–2608
-16 Annotated Code of Maryland
-17 (2024 Replacement Volume and 2025 Supplement)
+12 BY repealing and reenacting, with amendments,
+13 Article – Criminal Procedure
+14 Section 10–213(b)(2)
+15 Annotated Code of Maryland
+16 (2025 Replacement Volume)
 
-18 BY repealing
-19 Article – Education
-20 Section 5–111.1
-21 Annotated Code of Maryland
-22 (2025 Replacement Volume and 2025 Supplement)
+17 BY repealing and reenacting, without amendments,
+18 Article – Economic Development
+19 Section 3–201(a) and (b), 3–203(a) and (b), and 5–2601(a) and (b)
+20 Annotated Code of Maryland
+21 (2024 Replacement Volume and 2025 Supplement)
 
-23 BY adding to
-24 Article – Education
-25 Section 5–111.1
-26 Annotated Code of Maryland
-27 (2025 Replacement Volume and 2025 Supplement)
+22 BY repealing and reenacting, with amendments,
+23 Article – Economic Development
+24 Section 3–203(c), 3–401, 5–2603(a), 5–2605, 5–2606, and 5–2608
+25 Annotated Code of Maryland
+26 (2024 Replacement Volume and 2025 Supplement)
 
-28 BY repealing and reenacting, with amendments,
-29 Article – Education
-30 Section 7–1A–02(a) and 7–506
-31 Annotated Code of Maryland
-32 (2025 Replacement Volume and 2025 Supplement)
+27 BY repealing
+28 Article – Education
+29 Section 5–111.1
+30 Annotated Code of Maryland
+31 (2025 Replacement Volume and 2025 Supplement)
 
-33 BY repealing
-34 Article – Election Law
-35 Section 3–204(j)
-36 Annotated Code of Maryland
-37 (2022 Replacement Volume and 2025 Supplement)
+32 BY adding to
+33 Article – Education
+34 Section 5–111.1
+35 Annotated Code of Maryland
+36 (2025 Replacement Volume and 2025 Supplement)
 
-38 BY repealing and reenacting, with amendments,
-39 Article – Environment
+37 BY repealing and reenacting, with amendments,
+38 Article – Education
+39 Section 7–1A–02(a)
 END OF PAGE 3
 
 START OF PAGE 4
 4 HOUSE BILL 640
 
-1 Section 4–708 and 5–1104(b)
-2 Annotated Code of Maryland
-3 (2013 Replacement Volume and 2025 Supplement)
+1 Annotated Code of Maryland
+2 (2025 Replacement Volume and 2025 Supplement)
 
-4 BY repealing and reenacting, without amendments,
-5 Article – Environment
-6 Section 5–1104(a)
-7 Annotated Code of Maryland
-8 (2013 Replacement Volume and 2025 Supplement)
+3 BY repealing and reenacting, with amendments,
+4 Article – Environment
+5 Section 4–708 and 5–1104(b)
+6 Annotated Code of Maryland
+7 (2013 Replacement Volume and 2025 Supplement)
 
-9 BY repealing and reenacting, without amendments,
-10 Article – Family Law
-11 Section 5–706(a)
-12 Annotated Code of Maryland
-13 (2019 Replacement Volume and 2025 Supplement)
+8 BY repealing and reenacting, without amendments,
+9 Article – Environment
+10 Section 5–1104(a)
+11 Annotated Code of Maryland
+12 (2013 Replacement Volume and 2025 Supplement)
 
-14 BY repealing
-15 Article – Family Law
-16 Section 5–706(l)
-17 Annotated Code of Maryland
-18 (2019 Replacement Volume and 2025 Supplement)
+13 BY repealing and reenacting, without amendments,
+14 Article – Family Law
+15 Section 5–706(a)
+16 Annotated Code of Maryland
+17 (2019 Replacement Volume and 2025 Supplement)
 
-19 BY repealing and reenacting, without amendments,
-20 Article – Health – General
-21 Section 7.5–802(a)(1) and (c)(1), 13–4502(a), 19–101, 19–1409(a), and 24–1708(a)
-22 Annotated Code of Maryland
-23 (2023 Replacement Volume and 2025 Supplement)
+18 BY repealing
+19 Article – Family Law
+20 Section 5–706(l)
+21 Annotated Code of Maryland
+22 (2019 Replacement Volume and 2025 Supplement)
 
-24 BY repealing and reenacting, with amendments,
-25 Article – Health – General
-26 Section 13–706, 13–4502(b), 19–134(f)(2)(ii), 19–1409(b), 20–1004(23) and (24),
-27 20–1006, and 24–1708(g)
-28 Annotated Code of Maryland
-29 (2023 Replacement Volume and 2025 Supplement)
+23 BY repealing and reenacting, without amendments,
+24 Article – Health – General
+25 Section 7.5–802(a)(1) and (c)(1), 13–4502(a), 19–101, 19–1409(a),
+26 and 24–1708(a)
+27 Annotated Code of Maryland
+28 (2023 Replacement Volume and 2025 Supplement)
 
-30 BY repealing and reenacting, without amendments,
-31 Article – Housing and Community Development
-32 Section 4–2101(a) and (c)
+29 BY repealing and reenacting, with amendments,
+30 Article – Health – General
+31 Section 13–706, 13–4502(b), 19–134(f)(2)(ii), 19–1409(b), 20–1004(23) and (24),
+32 20–1006, and 24–1708(g)
 33 Annotated Code of Maryland
-34 (2019 Replacement Volume and 2025 Supplement)
-
-35 BY repealing and reenacting, with amendments,
-36 Article – Housing and Community Development
-37 Section 4–2104 and 4–2105
-38 Annotated Code of Maryland
-39 (2019 Replacement Volume and 2025 Supplement)
+34 (2023 Replacement Volume and 2025 Supplement)
 END OF PAGE 4
 
 START OF PAGE 5
 HOUSE BILL 640 5
 
-1 BY repealing and reenacting, with amendments,
-2 Article – Human Services
-3 Section 2–301
+1 BY repealing and reenacting, without amendments,
+2 Article – Housing and Community Development
+3 Section 4–2101(a) and (c)
 4 Annotated Code of Maryland
 5 (2019 Replacement Volume and 2025 Supplement)
-6 (As enacted by Chapter 460 of the Acts of the General Assembly of 2020)
 
-7 BY repealing and reenacting, without amendments,
-8 Article – Human Services
-9 Section 7–302
-10 Annotated Code of Maryland
-11 (2019 Replacement Volume and 2025 Supplement)
+6 BY repealing and reenacting, with amendments,
+7 Article – Housing and Community Development
+8 Section 4–2104 and 4–2105
+9 Annotated Code of Maryland
+10 (2019 Replacement Volume and 2025 Supplement)
 
-12 BY repealing and reenacting, with amendments,
-13 Article – Human Services
-14 Section 7–303(a)(1)
-15 Annotated Code of Maryland
-16 (2019 Replacement Volume and 2025 Supplement)
+11 BY repealing and reenacting, with amendments,
+12 Article – Human Services
+13 Section 2–301
+14 Annotated Code of Maryland
+15 (2019 Replacement Volume and 2025 Supplement)
+16 (As enacted by Chapter 460 of the Acts of the General Assembly of 2020)
 
-17 BY repealing and reenacting, with amendments,
-18 Article – Natural Resources
-19 Section 5–210.1(c)(1) and 10–202.1
+17 BY repealing and reenacting, without amendments,
+18 Article – Human Services
+19 Section 7–302
 20 Annotated Code of Maryland
-21 (2023 Replacement Volume and 2025 Supplement)
+21 (2019 Replacement Volume and 2025 Supplement)
 
-22 BY repealing and reenacting, without amendments,
-23 Article – State Finance and Procurement
-24 Section 14–410(b)(1)
+22 BY repealing and reenacting, with amendments,
+23 Article – Human Services
+24 Section 7–303(a)(1)
 25 Annotated Code of Maryland
-26 (2021 Replacement Volume and 2025 Supplement)
+26 (2019 Replacement Volume and 2025 Supplement)
 
 27 BY repealing and reenacting, with amendments,
-28 Article – State Finance and Procurement
-29 Section 14–410(b)(2)
+28 Article – Natural Resources
+29 Section 5–210.1(c)(1) and 10–202.1
 30 Annotated Code of Maryland
-31 (2021 Replacement Volume and 2025 Supplement)
+31 (2023 Replacement Volume and 2025 Supplement)
 
-32 BY repealing and reenacting, with amendments,
-33 Article – State Government
-34 Section 2–10A–15(j) and 9–3203(a)
+32 BY repealing and reenacting, without amendments,
+33 Article – State Finance and Procurement
+34 Section 14–410(b)(1)
 35 Annotated Code of Maryland
 36 (2021 Replacement Volume and 2025 Supplement)
 
-37 BY repealing and reenacting, without amendments,
-38 Article – State Government
-39 Section 9–3202
+37 BY repealing and reenacting, with amendments,
+38 Article – State Finance and Procurement
+39 Section 14–410(b)(2)
 40 Annotated Code of Maryland
 END OF PAGE 5
 
@@ -252,1711 +237,1627 @@ START OF PAGE 6
 
 1 (2021 Replacement Volume and 2025 Supplement)
 
-BY repealing and reenacting, without amendments,
-Article – Tax - General
-Section 10–738(b)(1), 10–739(b)(1), and 10–752(b)(1)
-Annotated Code of Maryland
-(2022 Replacement Volume and 2025 Supplement)
-
-BY repealing and reenacting, with amendments,
-Article – Tax – General
-Section 10–739(d), 10–739(e), and 10–752(e)
-Annotated Code of Maryland
-(2022 Replacement Volume and 2025 Supplement)
-
-2 BY repealing and reenacting, without amendments,
-3 Article – Transportation
-4 Section 2–606(a)
+2 BY repealing and reenacting, with amendments,
+3 Article – State Government
+4 Section 2–10A–15(j) and 9–3203(a)
 5 Annotated Code of Maryland
-6 (2020 Replacement Volume and 2025 Supplement)
+6 (2021 Replacement Volume and 2025 Supplement)
 
-7 BY repealing and reenacting, with amendments,
-8 Article – Transportation
-9 Section 2–606(b)
+7 BY repealing and reenacting, without amendments,
+8 Article – State Government
+9 Section 9–3202
 10 Annotated Code of Maryland
-11 (2020 Replacement Volume and 2025 Supplement)
+11 (2021 Replacement Volume and 2025 Supplement)
 
-12 BY repealing
-13 Chapter 2 of the Acts of the General Assembly of the 2007 Special Session
-14 Section 13
+12 BY repealing and reenacting, without amendments,
+13 Article – Tax – General
+14 Section 10–738(b)(1), 10–739(b)(1), and 10–752(b)(1)
+15 Annotated Code of Maryland
+16 (2022 Replacement Volume and 2025 Supplement)
 
-15 BY renumbering
-16 Article – Criminal Procedure
-17 Section 10–201(c) through (h)
-18 to be Section 10–201(b) through (g), respectively
-19 Annotated Code of Maryland
-20 (2025 Replacement Volume)
+17 BY repealing and reenacting, with amendments,
+18 Article – Tax – General
+19 Section 10–738(d), 10–739(e), and 10–752(e)
+20 Annotated Code of Maryland
+21 (2022 Replacement Volume and 2025 Supplement)
 
-21 BY renumbering
-22 Article – Family Law
-23 Section 5–706(m) through (u)
-24 to be Section 5–706(l) through (t), respectively
+22 BY repealing and reenacting, without amendments,
+23 Article – Transportation
+24 Section 2–606(a)
 25 Annotated Code of Maryland
-26 (2019 Replacement Volume and 2025 Supplement)
+26 (2020 Replacement Volume and 2025 Supplement)
 
-27 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-28 That Section(s) 10–207 through 10–210 and the part “Part II. Criminal Justice Information
-29 Advisory Board” of Article – Criminal Procedure of the Annotated Code of Maryland be
-30 repealed.
+27 BY repealing and reenacting, with amendments,
+28 Article – Transportation
+29 Section 2–606(b)
+30 Annotated Code of Maryland
+31 (2020 Replacement Volume and 2025 Supplement)
 
-31 SECTION 2. AND BE IT FURTHER ENACTED, That Section(s) 3–408 through
-32 3–410 of Article – Economic Development of the Annotated Code of Maryland be repealed.
-
-35 SECTION 3. AND BE IT FURTHER ENACTED, That Section(s) 18–1002 of Article
-36 – Health – General of the Annotated Code of Maryland be repealed.
+32 BY renumbering
+33 Article – Criminal Procedure
+34 Section 10–201(c) through (h)
+35 to be Section 10–201(b) through (g), respectively
+36 Annotated Code of Maryland
 END OF PAGE 6
 
 START OF PAGE 7
 HOUSE BILL 640 7
 
-1 SECTION 4. AND BE IT FURTHER ENACTED, That Section(s) 2–501 through
-2 2–506 and the subtitle “Subtitle 5. Two–Generation Family Economic Security
-3 Commission” of Article – Human Services of the Annotated Code of Maryland be repealed.
+1 (2025 Replacement Volume)
 
-4 SECTION 5. AND BE IT FURTHER ENACTED, That Section(s) 8–1301 through
-5 8–1310 and the subtitle “Subtitle 13. Trauma–Informed Care” of Article – Human Services
-6 of the Annotated Code of Maryland be repealed.
+2 BY renumbering
+3 Article – Family Law
+4 Section 5–706(m) through (u)
+5 to be Section 5–706(l) through (t), respectively
+6 Annotated Code of Maryland
+7 (2019 Replacement Volume and 2025 Supplement)
 
-7 SECTION 6. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
-8 as follows:
+8 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+9 That Section(s) 10–207 through 10–210 and the part “Part II. Criminal Justice Information
+10 Advisory Board” of Article – Criminal Procedure of the Annotated Code of Maryland be
+11 repealed.
 
-9 Article – Agriculture
+12 SECTION 2. AND BE IT FURTHER ENACTED, That Section(s) 3–408 through
+13 3–410 of Article – Economic Development of the Annotated Code of Maryland be repealed.
 
-10 10–1501.
+14 SECTION 3. AND BE IT FURTHER ENACTED, That Section(s) 18–1002 of
+15 Article – Health – General of the Annotated Code of Maryland be repealed.
 
-11 (a) In this subtitle the following words have the meanings indicated.
+16 SECTION 4. AND BE IT FURTHER ENACTED, That Section(s) 2–501 through
+17 2–506 and the subtitle “Subtitle 5. Two–Generation Family Economic Security
+18 Commission” of Article – Human Services of the Annotated Code of Maryland be repealed.
 
-12 (b) “Biodiesel” means an alternative motor fuel produced from a renewable
-13 resource such as vegetable oil or animal fat.
+19 SECTION 5. AND BE IT FURTHER ENACTED, That Section(s) 8–1301 through
+20 8–1310 and the subtitle “Subtitle 13. Trauma–Informed Care” of Article – Human Services
+21 of the Annotated Code of Maryland be repealed.
 
-14 [(c) “Board” means the Renewable Fuels Incentive Board.]
+22 SECTION 6. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+23 as follows:
 
-15 [(d)] (C) “Ethanol” means fermented ethyl alcohol derived from agricultural or
-16 forest products.
+24 Article – Agriculture
 
-17 [(e)] (D) (1) “Small grains” means a winter grain crop.
+25 10–1501.
 
-18 (2) “Small grains” includes wheat, rye, triticale, oats, and hulled or
-19 hull–less barley.
+26 (a) In this subtitle the following words have the meanings indicated.
 
-20 [10–1503.
+27 (b) “Biodiesel” means an alternative motor fuel produced from a renewable
+28 resource such as vegetable oil or animal fat.
 
-21 (a) There is a Renewable Fuels Incentive Board.
+29 [(c) “Board” means the Renewable Fuels Incentive Board.]
 
-22 (b) The Board consists of four members as follows:
-
-23 (1) The Secretary of Agriculture or the Secretary’s designee;
-
-24 (2) The Secretary of Commerce or the Secretary’s designee;
-
-25 (3) The Secretary of the Environment or the Secretary’s designee; and
-
-26 (4) The Director of the Maryland Energy Administration or the Director’s
-27 designee.
-
-28 (c) (1) The Secretary of Agriculture or the Secretary’s designee shall serve as
-29 the Chair of the Board.
+30 [(d)] (C) “Ethanol” means fermented ethyl alcohol derived from agricultural or
+31 forest products.
 END OF PAGE 7
 
 START OF PAGE 8
 8 HOUSE BILL 640
 
-1 (2) The Department of Agriculture, the Department of Commerce, and the
-2 Maryland Department of the Environment jointly shall provide staff support for the Board.
+1 [(e)] (D) (1) “Small grains” means a winter grain crop.
 
-3 (d) The Board shall review credit certification applications and pay credits under
-4 this subtitle.]
+2 (2) “Small grains” includes wheat, rye, triticale, oats, and hulled or
+3 hull–less barley.
 
-5 10–1504.
+4 [10–1503.
 
-6 (a) To be eligible for credits under this subtitle, an ethanol or biodiesel producer
-7 shall apply to the [Board] DEPARTMENT for certification on an application provided by
-8 the [Board] DEPARTMENT.
+5 (a) There is a Renewable Fuels Incentive Board.
 
-9 (b) An applicant shall show in the application to the satisfaction of the [Board]
-10 DEPARTMENT:
+6 (b) The Board consists of four members as follows:
 
-11 (1) That the applicant will construct or operate a facility capable of
-12 producing ethanol or biodiesel;
+7 (1) The Secretary of Agriculture or the Secretary’s designee;
 
-13 (2) That the applicant will invest or has invested substantial resources in
-14 the State in connection with the facility;
+8 (2) The Secretary of Commerce or the Secretary’s designee;
 
-15 (3) That the facility will constitute a permanent fixture in the State;
+9 (3) The Secretary of the Environment or the Secretary’s designee; and
 
-16 (4) For an ethanol production facility, information demonstrating:
+10 (4) The Director of the Maryland Energy Administration or the Director’s
+11 designee.
 
-17 (i) The production capacity of the facility; and
+12 (c) (1) The Secretary of Agriculture or the Secretary’s designee shall serve as
+13 the Chair of the Board.
 
-18 (ii) The quantity and availability of small grains and other suitable
-19 agricultural products in the vicinity of the production facility that may be used by the
-20 facility;
+14 (2) The Department of Agriculture, the Department of Commerce, and the
+15 Maryland Department of the Environment jointly shall provide staff support for the Board.
 
-21 (5) For a biodiesel production facility, information demonstrating:
+16 (d) The Board shall review credit certification applications and pay credits under
+17 this subtitle.]
 
-22 (i) The production capacity of the facility; and
+18 10–1504.
 
-23 (ii) The quantity and availability of soybean oil and other suitable
-24 bio–based oils in the vicinity of the production facility that may be used by the facility;
+19 (a) To be eligible for credits under this subtitle, an ethanol or biodiesel producer
+20 shall apply to the [Board] DEPARTMENT for certification on an application provided by
+21 the [Board] DEPARTMENT.
 
-25 (6) Information demonstrating:
+22 (b) An applicant shall show in the application to the satisfaction of the [Board]
+23 DEPARTMENT:
 
-26 (i) The availability and cost of energy sufficient to operate the
-27 facility;
+24 (1) That the applicant will construct or operate a facility capable of
+25 producing ethanol or biodiesel;
 
-28 (ii) The availability of sufficient water and waste disposal systems
-29 for the facility;
+26 (2) That the applicant will invest or has invested substantial resources in
+27 the State in connection with the facility;
+
+28 (3) That the facility will constitute a permanent fixture in the State;
 END OF PAGE 8
 
 START OF PAGE 9
 HOUSE BILL 640 9
 
-1 (iii) The availability of sufficient labor and a qualified site manager
-2 for the facility; and
+1 (4) For an ethanol production facility, information demonstrating:
 
-3 (iv) That the facility will meet all State and federal environmental
-4 standards;
+2 (i) The production capacity of the facility; and
 
-5 (7) Any proposed marketing agreements for the ethanol or biodiesel
-6 products;
+3 (ii) The quantity and availability of small grains and other suitable
+4 agricultural products in the vicinity of the production facility that may be used by the
+5 facility;
 
-7 (8) A plan to give farmers in the State the opportunity to invest in the
-8 facility; and
+6 (5) For a biodiesel production facility, information demonstrating:
 
-9 (9) That the applicant will meet any other requirement established by the
-10 [Board] DEPARTMENT.
+7 (i) The production capacity of the facility; and
 
-11 (c) The [Board] DEPARTMENT shall:
+8 (ii) The quantity and availability of soybean oil and other suitable
+9 bio–based oils in the vicinity of the production facility that may be used by the facility;
 
-12 (1) Review each application submitted under this subtitle;
+10 (6) Information demonstrating:
 
-13 (2) Approve or deny the application within 60 days of receipt of the
-14 application; and
+11 (i) The availability and cost of energy sufficient to operate the
+12 facility;
 
-15 (3) For an approved application, certify the producer as eligible for a credit
-16 in an amount that is:
+13 (ii) The availability of sufficient water and waste disposal systems
+14 for the facility;
 
-17 (i) Based on the production capacity of the facility, as determined
-18 by the Board; and
+15 (iii) The availability of sufficient labor and a qualified site manager
+16 for the facility; and
 
-19 (ii) Consistent with subsection (d) of this section.
+17 (iv) That the facility will meet all State and federal environmental
+18 standards;
 
-20 (d) (1) The [Board] DEPARTMENT may not certify ethanol production credits
-21 for more than a total of 15,000,000 gallons per calendar year, of which at least 10,000,000
-22 gallons shall be produced from small grains.
+19 (7) Any proposed marketing agreements for the ethanol or biodiesel
+20 products;
 
-23 (2) The [Board] DEPARTMENT may not certify biodiesel production
-24 credits for more than a total of 5,000,000 gallons per calendar year, of which at least
-25 2,000,000 gallons shall be from soybean oil produced:
+21 (8) A plan to give farmers in the State the opportunity to invest in the
+22 facility; and
 
-26 (i) In a facility that began operating after December 31, 2004; or
+23 (9) That the applicant will meet any other requirement established by the
+24 [Board] DEPARTMENT.
 
-27 (ii) Under the expanded capacity of a facility, the expansion of which
-28 occurred after December 31, 2004.
+25 (c) The [Board] DEPARTMENT shall:
 
-29 (e) (1) If eligible, a producer may apply to the [Board] DEPARTMENT for
-30 certification for additional credits if the producer increases the production capacity of the
-31 facility.
+26 (1) Review each application submitted under this subtitle;
+
+27 (2) Approve or deny the application within 60 days of receipt of the
+28 application; and
 END OF PAGE 9
 
 START OF PAGE 10
 10 HOUSE BILL 640
 
-1 (2) If a facility does not achieve its certified production capacity for 2
-2 consecutive years, the [Board] DEPARTMENT may revise the stated production capacity
-3 of the facility and the corresponding credit certification of the producer to reflect actual
-4 production.
+1 (3) For an approved application, certify the producer as eligible for a credit
+2 in an amount that is:
 
-5 (f) An application submitted to the [Board] DEPARTMENT under this section is
-6 not subject to disclosure under the Maryland Public Information Act.
+3 (i) Based on the production capacity of the facility, as determined
+4 by the Board; and
 
-7 10–1505.
+5 (ii) Consistent with subsection (d) of this section.
 
-8 (a) (1) The [Board] DEPARTMENT may pay credits as calculated under this
-9 section to certified producers of ethanol or biodiesel in the State for ethanol or biodiesel
-10 produced on or after December 31, 2007.
+6 (d) (1) The [Board] DEPARTMENT may not certify ethanol production credits
+7 for more than a total of 15,000,000 gallons per calendar year, of which at least 10,000,000
+8 gallons shall be produced from small grains.
 
-11 (2) (i) For the purposes of this subtitle, a person that holds a controlling
-12 interest in more than one ethanol production facility is considered to be a single ethanol
-13 producer.
+9 (2) The [Board] DEPARTMENT may not certify biodiesel production
+10 credits for more than a total of 5,000,000 gallons per calendar year, of which at least
+11 2,000,000 gallons shall be from soybean oil produced:
 
-14 (ii) For the purposes of this subtitle, a person that holds a controlling
-15 interest in more than one biodiesel production facility is considered to be a single biodiesel
-16 producer.
+12 (i) In a facility that began operating after December 31, 2004; or
 
-17 (b) (1) For an ethanol producer, a credit may not exceed the maximum amount
-18 certified by the [Board] DEPARTMENT and shall be:
+13 (ii) Under the expanded capacity of a facility, the expansion of which
+14 occurred after December 31, 2004.
 
-19 (i) 20 cents per gallon of ethanol produced from small grains; and
+15 (e) (1) If eligible, a producer may apply to the [Board] DEPARTMENT for
+16 certification for additional credits if the producer increases the production capacity of the
+17 facility.
 
-20 (ii) 5 cents per gallon of ethanol produced from other agricultural
-21 products.
+18 (2) If a facility does not achieve its certified production capacity for 2
+19 consecutive years, the [Board] DEPARTMENT may revise the stated production capacity
+20 of the facility and the corresponding credit certification of the producer to reflect actual
+21 production.
 
-22 (2) For a biodiesel producer, a credit may not exceed the maximum amount
-23 certified by the [Board] DEPARTMENT and shall be:
+22 (f) An application submitted to the [Board] DEPARTMENT under this section is
+23 not subject to disclosure under the Maryland Public Information Act.
 
-24 (i) 20 cents per gallon of biodiesel produced from soybean oil
-25 produced:
+24 10–1505.
 
-26 1. In a facility that began operating after December 31, 2004;
-27 or
+25 (a) (1) The [Board] DEPARTMENT may pay credits as calculated under this
+26 section to certified producers of ethanol or biodiesel in the State for ethanol or biodiesel
+27 produced on or after December 31, 2007.
 
-28 2. Under the expanded capacity of a facility, the expansion of
-29 which occurred after December 31, 2004; and
+28 (2) (i) For the purposes of this subtitle, a person that holds a controlling
+29 interest in more than one ethanol production facility is considered to be a single ethanol
+30 producer.
 
-30 (ii) 5 cents per gallon of biodiesel produced from other feedstock,
-31 including soybean oil produced in a facility that began operating on or before December 31,
-32 2004.
+31 (ii) For the purposes of this subtitle, a person that holds a controlling
+32 interest in more than one biodiesel production facility is considered to be a single biodiesel
+33 producer.
 END OF PAGE 10
 
 START OF PAGE 11
 HOUSE BILL 640 11
 
-1 (c) The [Board] DEPARTMENT may not pay a credit for ethanol or biodiesel
-2 produced after December 31, 2017.
+1 (b) (1) For an ethanol producer, a credit may not exceed the maximum amount
+2 certified by the [Board] DEPARTMENT and shall be:
 
-3 10–1506.
+3 (i) 20 cents per gallon of ethanol produced from small grains; and
 
-4 (a) After February 1, 2008, to receive a credit payment a certified ethanol or
-5 biodiesel producer shall file a claim with the [Board] DEPARTMENT by the end of January,
-6 April, July, and October of each year.
+4 (ii) 5 cents per gallon of ethanol produced from other agricultural
+5 products.
 
-7 (b) A claim filed under this section shall state:
+6 (2) For a biodiesel producer, a credit may not exceed the maximum amount
+7 certified by the [Board] DEPARTMENT and shall be:
 
-8 (1) (i) The producer’s total ethanol production in the State during the
-9 previous quarter, categorized by ethanol produced from small grains and ethanol produced
-10 from other agricultural products; or
+8 (i) 20 cents per gallon of biodiesel produced from soybean oil
+9 produced:
 
-11 (ii) The producer’s total biodiesel production in Maryland during the
-12 previous quarter, categorized by biodiesel produced from:
+10 1. In a facility that began operating after December 31, 2004;
+11 or
 
-13 1. Soybean oil produced in a facility that began operating
-14 after December 31, 2004, or under the expanded capacity of a facility, the expansion of
-15 which occurred after December 31, 2004; and
+12 2. Under the expanded capacity of a facility, the expansion of
+13 which occurred after December 31, 2004; and
 
-16 2. Other feedstock, including soybean oil produced in a
-17 facility that began operating on or before December 31, 2004;
+14 (ii) 5 cents per gallon of biodiesel produced from other feedstock,
+15 including soybean oil produced in a facility that began operating on or before December 31,
+16 2004.
 
-18 (2) The location of the producer;
+17 (c) The [Board] DEPARTMENT may not pay a credit for ethanol or biodiesel
+18 produced after December 31, 2017.
 
-19 (3) The average number of Maryland citizens employed by the producer in
-20 the previous quarter;
+19 10–1506.
 
-21 (4) (i) For an ethanol producer, the number of bushels of
-22 Maryland–grown small grains and other agricultural commodities used by the producer in
-23 the previous quarter; or
+20 (a) After February 1, 2008, to receive a credit payment a certified ethanol or
+21 biodiesel producer shall file a claim with the [Board] DEPARTMENT by the end of January,
+22 April, July, and October of each year.
 
-24 (ii) For a biodiesel producer, the number of gallons of
-25 Maryland–produced soybean oil and other bio–based oils used by the producer in the
-26 previous quarter; and
+23 (b) A claim filed under this section shall state:
 
-27 (5) Any other information that the [Board] DEPARTMENT requires.
+24 (1) (i) The producer’s total ethanol production in the State during the
+25 previous quarter, categorized by ethanol produced from small grains and ethanol produced
+26 from other agricultural products; or
 
-28 (c) A claim filed under this section shall be reviewed by an independent certified
-29 public accountant with respect to, as appropriate:
+27 (ii) The producer’s total biodiesel production in Maryland during the
+28 previous quarter, categorized by biodiesel produced from:
 
-30 (1) The total ethanol production;
-
-31 (2) The breakdown between ethanol produced from small grains and
-32 ethanol produced from other agricultural products;
+29 1. Soybean oil produced in a facility that began operating
+30 after December 31, 2004, or under the expanded capacity of a facility, the expansion of
+31 which occurred after December 31, 2004; and
 END OF PAGE 11
 
 START OF PAGE 12
 12 HOUSE BILL 640
 
-1 (3) The total biodiesel production; and
+1 2. Other feedstock, including soybean oil produced in a
+2 facility that began operating on or before December 31, 2004;
 
-2 (4) The breakdown between biodiesel produced from:
+3 (2) The location of the producer;
 
-3 (i) Soybean oil produced in a facility that began operating after
-4 December 31, 2004, or under the expanded capacity of a facility, the expansion of which
-5 occurred after December 31, 2004; and
+4 (3) The average number of Maryland citizens employed by the producer in
+5 the previous quarter;
 
-6 (ii) Other feedstock, including soybean oil produced in a facility that
-7 began operating on or before December 31, 2004.
+6 (4) (i) For an ethanol producer, the number of bushels of
+7 Maryland–grown small grains and other agricultural commodities used by the producer in
+8 the previous quarter; or
 
-8 (d) A claim submitted to the [Board] DEPARTMENT under this section is not
-9 subject to disclosure under the Maryland Public Information Act.
+9 (ii) For a biodiesel producer, the number of gallons of
+10 Maryland–produced soybean oil and other bio–based oils used by the producer in the
+11 previous quarter; and
 
-10 10–1507.
+12 (5) Any other information that the [Board] DEPARTMENT requires.
 
-11 (a) For fiscal year 2008 and each succeeding fiscal year, the Governor shall
-12 include sufficient funds in the State budget to implement this subtitle.
+13 (c) A claim filed under this section shall be reviewed by an independent certified
+14 public accountant with respect to, as appropriate:
 
-13 (b) To implement this subtitle, the [Board] DEPARTMENT:
+15 (1) The total ethanol production;
 
-14 (1) Shall maximize the use of federal funds or matching programs to the
-15 extent possible; and
+16 (2) The breakdown between ethanol produced from small grains and
+17 ethanol produced from other agricultural products;
 
-16 (2) May solicit and accept grants or donations from State, local, or private
-17 entities.
+18 (3) The total biodiesel production; and
 
-18 Article – Correctional Services
+19 (4) The breakdown between biodiesel produced from:
 
-19 3–525.
+20 (i) Soybean oil produced in a facility that began operating after
+21 December 31, 2004, or under the expanded capacity of a facility, the expansion of which
+22 occurred after December 31, 2004; and
 
-20 The Customer Council shall consist of the following [11] 10 members:
+23 (ii) Other feedstock, including soybean oil produced in a facility that
+24 began operating on or before December 31, 2004.
 
-21 (1) the Chief Executive Officer;
+25 (d) A claim submitted to the [Board] DEPARTMENT under this section is not
+26 subject to disclosure under the Maryland Public Information Act.
 
-22 (2) one representative from each of the following State agencies, appointed
-23 by the Secretary of the respective agency:
+27 10–1507.
 
-24 (i) the Department of Budget and Management;
-
-25 (ii) [the Department of Commerce;
-
-26 (iii)] the Department of General Services;
-
-27 [(iv)] (III) the Maryland Department of Health;
+28 (a) For fiscal year 2008 and each succeeding fiscal year, the Governor shall
+29 include sufficient funds in the State budget to implement this subtitle.
 END OF PAGE 12
 
 START OF PAGE 13
 HOUSE BILL 640 13
 
-1 [(v)] (IV) the Department of Human Services;
+1 (b) To implement this subtitle, the [Board] DEPARTMENT:
 
-2 [(vi)] (V) the Department of Transportation; and
+2 (1) Shall maximize the use of federal funds or matching programs to the
+3 extent possible; and
 
-3 [(vii)] (VI) the Maryland Higher Education Commission; and
+4 (2) May solicit and accept grants or donations from State, local, or private
+5 entities.
 
-4 (3) three customers recommended by the Chief Executive Officer and
-5 appointed by the Governor.
+6 Article – Correctional Services
 
-6 Article – Criminal Procedure
+7 3–525.
 
-7 10–201.
+8 The Customer Council shall consist of the following [11] 10 members:
 
-8 (a) In this subtitle the following words have the meanings indicated.
+9 (1) the Chief Executive Officer;
 
-9 [(b) “Advisory Board” means the Criminal Justice Information Advisory Board.]
+10 (2) one representative from each of the following State agencies, appointed
+11 by the Secretary of the respective agency:
 
-10 10–213.
+12 (i) the Department of Budget and Management;
 
-11 (a) There is a Criminal Justice Information System Central Repository in the
-12 Department.
+13 (ii) [the Department of Commerce;
 
-13 (b) The Secretary:
+14 (iii)] the Department of General Services;
 
-14 (2) shall operate the Central Repository [with the advice of the Advisory
-15 Board].
+15 [(iv)] (III) the Maryland Department of Health;
 
-16 Article – Economic Development
+16 [(v)] (IV) the Department of Human Services;
 
-17 3–201.
+17 [(vi)] (V) the Department of Transportation; and
 
-18 (a) In this subtitle the following words have the meanings indicated.
+18 [(vii)] (VI) the Maryland Higher Education Commission; and
 
-19 (b) “Advisory Board” means the Maryland Life Sciences Advisory Board.
+19 (3) three customers recommended by the Chief Executive Officer and
+20 appointed by the Governor.
 
-20 3–203.
+21 Article – Criminal Procedure
 
-21 (a) The Advisory Board consists of the following 18 members:
+22 10–201.
 
-22 (1) the Secretary or the Secretary’s designee;
+23 (a) In this subtitle the following words have the meanings indicated.
 
-23 (2) the Executive Director of the Corporation, or the Executive Director’s
-24 designee; and
+24 [(b) “Advisory Board” means the Criminal Justice Information Advisory Board.]
 
-25 (3) the following members appointed by the Governor:
+25 10–213.
 END OF PAGE 13
 
 START OF PAGE 14
 14 HOUSE BILL 640
 
-1 (i) three representing federal agencies located in the State with life
-2 sciences missions;
+1 (a) There is a Criminal Justice Information System Central Repository in the
+2 Department.
 
-3 (ii) seven with executive experience in life sciences businesses
-4 located in the State, at least four of whom represent small businesses;
+3 (b) The Secretary:
 
-5 (iii) four representing institutions of higher education located in the
-6 State, one of whom shall represent a community college;
+4 (2) shall operate the Central Repository [with the advice of the Advisory
+5 Board].
 
-7 (iv) one with general business marketing experience in a life sciences
-8 business located in the State; and
+6 Article – Economic Development
 
-9 (v) one member of the general public.
+7 3–201.
 
-10 (b) The composition of the Advisory Board shall reflect the racial and gender
-11 diversity of the population of the State.
+8 (a) In this subtitle the following words have the meanings indicated.
 
-12 (c) (1) Except for the Secretary or the Secretary’s designee and the Executive
-13 Director of the Corporation or the Executive Director’s designee, the term of an Advisory
-14 Board member is [2] 3 years.
+9 (b) “Advisory Board” means the Maryland Life Sciences Advisory Board.
 
-15 (2) At the end of a term, a member continues to serve until a successor is
-16 appointed and qualifies.
+10 3–203.
 
-17 (3) A member who is appointed after a term has begun serves only for the
-18 rest of the term and until a successor is appointed and qualifies.
+11 (a) The Advisory Board consists of the following 18 members:
 
-19 (4) THE TERMS OF THE APPOINTED MEMBERS ARE STAGGERED AS
-20 REQUIRED BY THE TERMS PROVIDED FOR MEMBERS OF THE ADVISORY BOARD ON
-21 JULY 1, 2026.
+12 (1) the Secretary or the Secretary’s designee;
 
-22 3–401.
+13 (2) the Executive Director of the Corporation, or the Executive Director’s
+14 designee; and
 
-23 (a) In this subtitle the following words have the meanings indicated.
+15 (3) the following members appointed by the Governor:
 
-24 [(b) “Board” means the Partnership for Workforce Quality Advisory Board.]
+16 (i) three representing federal agencies located in the State with life
+17 sciences missions;
 
-25 [(c)] (B) “Fund” means the Partnership for Workforce Quality Fund.
+18 (ii) seven with executive experience in life sciences businesses
+19 located in the State, at least four of whom represent small businesses;
 
-26 [(d)] (C) “Program” means the Partnership for Workforce Quality Program.
+20 (iii) four representing institutions of higher education located in the
+21 State, one of whom shall represent a community college;
 
-27 5–2601.
+22 (iv) one with general business marketing experience in a life sciences
+23 business located in the State; and
 
-28 (a) In this subtitle the following words have the meanings indicated.
+24 (v) one member of the general public.
+
+25 (b) The composition of the Advisory Board shall reflect the racial and gender
+26 diversity of the population of the State.
 END OF PAGE 14
 
 START OF PAGE 15
 HOUSE BILL 640 15
 
-1 (b) “Commission” means the Maryland Aerospace and Technology Commission.
+1 (c) (1) Except for the Secretary or the Secretary’s designee and the Executive
+2 Director of the Corporation or the Executive Director’s designee, the term of an Advisory
+3 Board member is [2] 3 years.
 
-2 5–2603.
+4 (2) At the end of a term, a member continues to serve until a successor is
+5 appointed and qualifies.
 
-3 (a) The Commission consists of the following members:
+6 (3) A member who is appointed after a term has begun serves only for the
+7 rest of the term and until a successor is appointed and qualifies.
 
-4 (1) the Secretary, or the Secretary’s designee;
+8 (4) THE TERMS OF THE APPOINTED MEMBERS ARE STAGGERED AS
+9 REQUIRED BY THE TERMS PROVIDED FOR MEMBERS OF THE ADVISORY BOARD ON
+10 JULY 1, 2026.
 
-5 (2) a member of the Senate, appointed by the President of the Senate, who
-6 shall serve as an ex officio nonvoting member;
+11 3–401.
 
-7 (3) a member of the House of Delegates, appointed by the Speaker of the
-8 House, who shall serve as an ex officio nonvoting member;
+12 (a) In this subtitle the following words have the meanings indicated.
 
-9 (4) the Director of the National Aeronautics and Space Administration’s
-10 Goddard Space Flight Center, or the Director’s designee, who shall serve as an ex officio
-11 nonvoting member;
+13 [(b) “Board” means the Partnership for Workforce Quality Advisory Board.]
 
-12 [(5) the Administrator of the National Oceanic and Atmospheric
-13 Administration, or the Administrator’s designee, who shall serve as an ex officio nonvoting
-14 member;
+14 [(c)] (B) “Fund” means the Partnership for Workforce Quality Fund.
 
-15 (6) the Director of the Federal Bureau of Investigation, or the Director’s
-16 designee, who shall serve as an ex officio nonvoting member;]
+15 [(d)] (C) “Program” means the Partnership for Workforce Quality Program.
 
-17 [(7)] (5) the president of the Goddard Contractors’ Association, or the
-18 president’s designee;
+16 5–2601.
 
-19 [(8)] (6) the President of the University of Maryland Baltimore County,
-20 or the President’s designee;
+17 (a) In this subtitle the following words have the meanings indicated.
 
-21 [(9)] (7) the President of the Southern Maryland Navy Alliance, or the
-22 President’s designee;
+18 (b) “Commission” means the Maryland Aerospace and Technology Commission.
 
-23 [(10)] (8) the president of the Maryland Space Business Roundtable, or the
-24 president’s designee;
+19 5–2603.
 
-25 [(11)] (9) the President of the University of Maryland, College Park, or the
-26 President’s designee;
+20 (a) The Commission consists of the following members:
 
-27 [(12)] (10) the director of the Johns Hopkins Applied Physics Laboratory, or
-28 the director’s designee;
+21 (1) the Secretary, or the Secretary’s designee;
 
-29 [(13)] (11) the director of the Association of Universities for Research in
-30 Astronomy, or the director’s designee;
+22 (2) a member of the Senate, appointed by the President of the Senate, who
+23 shall serve as an ex officio nonvoting member;
+
+24 (3) a member of the House of Delegates, appointed by the Speaker of the
+25 House, who shall serve as an ex officio nonvoting member;
+
+26 (4) the Director of the National Aeronautics and Space Administration’s
+27 Goddard Space Flight Center, or the Director’s designee, who shall serve as an ex officio
+28 nonvoting member;
 END OF PAGE 15
 
 START OF PAGE 16
 16 HOUSE BILL 640
 
-1 [(14)] (12) the director of the Space Telescope Science Institute, or the
-2 director’s designee; and
+1 [(5) the Administrator of the National Oceanic and Atmospheric
+2 Administration, or the Administrator’s designee, who shall serve as an ex officio nonvoting
+3 member;
 
-3 [(15)] (13) the following members, appointed by the Governor with the
-4 advice and consent of the Senate:
+4 (6) the Director of the Federal Bureau of Investigation, or the Director’s
+5 designee, who shall serve as an ex officio nonvoting member;]
 
-5 (i) a representative of institutions of higher education;
+6 [(7)] (5) the president of the Goddard Contractors’ Association, or the
+7 president’s designee;
 
-6 (ii) a representative of the National Society of Black Engineers;
+8 [(8)] (6) the President of the University of Maryland Baltimore County,
+9 or the President’s designee;
 
-7 (iii) [a representative] TWO REPRESENTATIVES of the Maryland
-8 aerospace manufacturing community; and
+10 [(9)] (7) the President of the Southern Maryland Navy Alliance, or the
+11 President’s designee;
 
-9 (iv) [a representative] TWO REPRESENTATIVES of the aerospace
-10 technology industry.
+12 [(10)] (8) the president of the Maryland Space Business Roundtable, or the
+13 president’s designee;
 
-11 5–2605.
+14 [(11)] (9) the President of the University of Maryland, College Park, or the
+15 President’s designee;
 
-12 The Commission shall:
+16 [(12)] (10) the director of the Johns Hopkins Applied Physics Laboratory, or
+17 the director’s designee;
 
-13 (1) identify research and funding opportunities for entities in this State
-14 that:
+18 [(13)] (11) the director of the Association of Universities for Research in
+19 Astronomy, or the director’s designee;
 
-15 (i) strengthen and enhance the State’s leadership position in civil,
-16 commercial, and military aerospace research and development;
+20 [(14)] (12) the director of the Space Telescope Science Institute, or the
+21 director’s designee; and
 
-17 (ii) integrate the aerospace industry into the economy of the State;
+22 [(15)] (13) the following members, appointed by the Governor with the
+23 advice and consent of the Senate:
 
-18 (iii) capitalize, promote, and assist in the development of workforce
-19 training to further the development of emerging technologies required for all aspects of
-20 space exploration; and
+24 (i) a representative of institutions of higher education;
 
-21 (iv) develop public–private partnerships that advance both the
-22 State’s aerospace industry and the surrounding community;
+25 (ii) a representative of the National Society of Black Engineers;
 
-23 (2) establish advisory committees as needed;
+26 (iii) [a representative] TWO REPRESENTATIVES of the Maryland
+27 aerospace manufacturing community; and
 
-24 (3) develop aerospace–related educational opportunities within the State
-25 in coordination with local educational institutions; and
+28 (iv) [a representative] TWO REPRESENTATIVES of the aerospace
+29 technology industry.
 
-26 (4) develop and annually [update] REPORT ON PROGRESS IN
-27 IMPLEMENTING a strategic plan developed in accordance with § 5–2606 of this subtitle to
-28 implement the goals of the Commission.
-
-29 5–2606.
+30 5–2605.
 END OF PAGE 16
 
 START OF PAGE 17
 HOUSE BILL 640 17
 
-1 (a) The Commission shall:
+1 The Commission shall:
 
-2 (1) develop [and annually update] a strategic plan for the promotion of
-3 space, aeronautics, and aviation economic development in the State;
+2 (1) identify research and funding opportunities for entities in this State
+3 that:
 
-4 (2) UPDATE THE STRATEGIC PLAN AT LEAST EVERY 5 YEARS; AND
+4 (i) strengthen and enhance the State’s leadership position in civil,
+5 commercial, and military aerospace research and development;
 
-5 (3) ANNUALLY REPORT ON PROGRESS IN IMPLEMENTING THE
-6 STRATEGIC PLAN.
+6 (ii) integrate the aerospace industry into the economy of the State;
 
-7 (b) The strategic plan [described] DEVELOPED under subsection (a) of this
-8 section shall include a list of potential projects that further the purposes of the Commission
-9 and, for each project, describe:
+7 (iii) capitalize, promote, and assist in the development of workforce
+8 training to further the development of emerging technologies required for all aspects of
+9 space exploration; and
 
-10 (1) the estimated total cost for completion; and
+10 (iv) develop public–private partnerships that advance both the
+11 State’s aerospace industry and the surrounding community;
 
-11 (2) an assessment of the availability of external funding sources.
+12 (2) establish advisory committees as needed;
 
-12 (c) The strategic plan [described] DEVELOPED under subsection (a) of this
-13 section may include any other information that the Commission determines to be relevant
-14 to furthering the purposes of the Commission.
+13 (3) develop aerospace–related educational opportunities within the State
+14 in coordination with local educational institutions; and
 
-15 5–2608.
+15 (4) develop and annually [update] REPORT ON PROGRESS IN
+16 IMPLEMENTING a strategic plan developed in accordance with § 5–2606 of this subtitle to
+17 implement the goals of the Commission.
 
-16 (a) On or before October 1 each year, the Commission shall submit a report to the
-17 Governor, the Maryland Economic Development Commission, and, in accordance with §
-18 2–1257 of the State Government Article, the General Assembly.
+18 5–2606.
 
-19 (b) The report shall include:
+19 (a) The Commission shall:
 
-20 (1) a summary of the activities of the Commission during the preceding
-21 fiscal year; [and]
+20 (1) develop [and annually update] a strategic plan for the promotion of
+21 space, aeronautics, and aviation economic development in the State;
 
-22 (2) a current copy of the strategic plan developed under § 5–2606 of this
-23 subtitle; AND
+22 (2) UPDATE THE STRATEGIC PLAN AT LEAST EVERY 5 YEARS; AND
 
-24 (3) AN UPDATE ON PROGRESS IN IMPLEMENTING THE STRATEGIC
-25 PLAN DEVELOPED UNDER THIS SUBTITLE.
+23 (3) ANNUALLY REPORT ON PROGRESS IN IMPLEMENTING THE
+24 STRATEGIC PLAN.
 
-26 Article – Education
+25 (b) The strategic plan [described] DEVELOPED under subsection (a) of this
+26 section shall include a list of potential projects that further the purposes of the Commission
+27 and, for each project, describe:
 
-27 [5–111.1.
+28 (1) the estimated total cost for completion; and
 
-28 (a) In this section, “specialized intervention services” means services provided to
-29 students in kindergarten through grade 3 who:
+29 (2) an assessment of the availability of external funding sources.
 END OF PAGE 17
 
 START OF PAGE 18
 18 HOUSE BILL 640
 
-1 (1) Are not currently identified as needing special education or related
-2 services under Title 8, Subtitle 4 of this article;
+1 (c) The strategic plan [described] DEVELOPED under subsection (a) of this
+2 section may include any other information that the Commission determines to be relevant
+3 to furthering the purposes of the Commission.
 
-3 (2) Need additional academic and behavioral supports to succeed in a core
-4 curriculum and differentiated instruction general education environment; and
+4 5–2608.
 
-5 (3) Receive additional academic and behavioral support in small groups or
-6 individual settings at least 3 times each week for at least 90 minutes each week for a period
-7 of at least 10 weeks during a school year.
+5 (a) On or before October 1 each year, the Commission shall submit a report to the
+6 Governor, the Maryland Economic Development Commission, and, in accordance with §
+7 2–1257 of the State Government Article, the General Assembly.
 
-8 (b) Beginning with the 2018–2019 school year, on or before December 1 each year,
-9 each county board shall submit to the Department and, subject to § 2–1257 of the State
-10 Government Article, the General Assembly a report for the prior school year on:
+8 (b) The report shall include:
 
-11 (1) The number of students who received specialized intervention services;
+9 (1) a summary of the activities of the Commission during the preceding
+10 fiscal year; [and]
 
-12 (2) The grades in which specialized intervention services were provided;
-13 and
+11 (2) a current copy of the strategic plan developed under § 5–2606 of this
+12 subtitle; AND
 
-14 (3) The annual budget, including all federal, State, and local funds, for
-15 specialized intervention services, including screenings, evaluations, materials, professional
-16 development, and staffing.
+13 (3) AN UPDATE ON PROGRESS IN IMPLEMENTING THE STRATEGIC
+14 PLAN DEVELOPED UNDER THIS SUBTITLE.
 
-17 (c) The Department shall establish guidelines for the report that each county
-18 board is required to submit under subsection (b) of this section.
+15 Article – Education
 
-19 (d) A county board shall publish annually on the county board’s website the
-20 information submitted under subsection (b) of this section.
+16 [5–111.1.
 
-21 (e) The Department shall publish annually on the Department’s website the
-22 information received under subsection (b) of this section.]
+17 (a) In this section, “specialized intervention services” means services provided to
+18 students in kindergarten through grade 3 who:
 
-23 5–111.1.
+19 (1) Are not currently identified as needing special education or related
+20 services under Title 8, Subtitle 4 of this article;
 
-24 (A) (1) ON OR BEFORE SEPTEMBER 1 EACH YEAR, BEGIN IN 2027,
-25 EACH COUNTY BOARD SHALL SUBMIT TO THE DEPARTMENT A WRITTEN REPORT
-26 CONTAINING THE NUMBER OF STUDENTS THAT REQUIRE ADDITIONAL SUPPORT TO
-27 MEET GRADE 3 LITERACY PROFICIENCY.
+21 (2) Need additional academic and behavioral supports to succeed in a core
+22 curriculum and differentiated instruction general education environment; and
 
-28 (2) THE STATE BOARD MAY REQUIRE EACH COUNTY BOARD TO
-29 SUBMIT ADDITIONAL INFORMATION IN THE WRITTEN REPORT REQUIRED UNDER
-30 PARAGRAPH (1) OF THIS SUBSECTION, INCLUDING THE MANDATED ANNUAL
-31 REPORTING INFORMATION LISTED UNDER THE COMPREHENSIVE PREK–3
-32 LITERACY POLICY ADOPTED BY THE STATE BOARD.
+23 (3) Receive additional academic and behavioral support in small groups or
+24 individual settings at least 3 times each week for at least 90 minutes each week for a period
+25 of at least 10 weeks during a school year.
+
+26 (b) Beginning with the 2018–2019 school year, on or before December 1 each year,
+27 each county board shall submit to the Department and, subject to § 2–1257 of the State
+28 Government Article, the General Assembly a report for the prior school year on:
+
+29 (1) The number of students who received specialized intervention services;
+
+30 (2) The grades in which specialized intervention services were provided;
+31 and
 END OF PAGE 18
 
 START OF PAGE 19
 HOUSE BILL 640 19
 
-1 (B) (1) ON OR BEFORE NOVEMBER 1 EACH YEAR, BEGINNING IN 2027,
-2 THE DEPARTMENT SHALL COMPILE AND REPORT THE INFORMATION SUBMITTED
-3 UNDER SUBSECTION (A) OF THIS SECTION TO THE GOVERNOR, THE STATE BOARD,
-4 AND, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, THE
-5 GENERAL ASSEMBLY.
+1 (3) The annual budget, including all federal, State, and local funds, for
+2 specialized intervention services, including screenings, evaluations, materials, professional
+3 development, and staffing.
 
-6 (2) THE REPORT SUBMITTED UNDER THIS SUBSECTION SHALL BE
-7 MADE PUBLICLY AVAILABLE ON THE DEPARTMENT’S WEBSITE.
+4 (c) The Department shall establish guidelines for the report that each county
+5 board is required to submit under subsection (b) of this section.
 
-8 (C) THE STATE BOARD MAY ADOPT REGULATIONS TO CARRY OUT THIS
-9 SECTION.
+6 (d) A county board shall publish annually on the county board’s website the
+7 information submitted under subsection (b) of this section.
 
-10 7–1A–02.
+8 (e) The Department shall publish annually on the Department’s website the
+9 information received under subsection (b) of this section.]
 
-11 (a) (1) A local department of social services or a local health department shall
-12 provide a parent or guardian with oral and written notice that their child may be eligible
-13 for publicly funded prekindergarten programs if the parent or guardian:
+10 5–111.1.
 
-14 (i) Applied for economic services with the local department of social
-15 services or the local health department; and
+11 (A) (1) ON OR BEFORE SEPTEMBER 1 EACH YEAR, BEGINNING IN 2027,
+12 EACH COUNTY BOARD SHALL SUBMIT TO THE DEPARTMENT A WRITTEN REPORT
+13 CONTAINING THE NUMBER OF STUDENTS THAT REQUIRE ADDITIONAL SUPPORT TO
+14 MEET GRADE 3 LITERACY PROFICIENCY.
 
-16 (ii) Has a child who will be 3 or 4 years old by September 1 of the
-17 next academic year.
+15 (2) THE STATE BOARD MAY REQUIRE EACH COUNTY BOARD TO
+16 SUBMIT ADDITIONAL INFORMATION IN THE WRITTEN REPORT REQUIRED UNDER
+17 PARAGRAPH (1) OF THIS SUBSECTION, INCLUDING THE MANDATED ANNUAL
+18 REPORTING INFORMATION LISTED UNDER THE COMPREHENSIVE PREK–3
+19 LITERACY POLICY ADOPTED BY THE STATE BOARD.
 
-18 (2) The notice required under paragraph (1) of this subsection shall
-19 include:
+20 (B) (1) ON OR BEFORE NOVEMBER 1 EACH YEAR, BEGINNING IN 2027,
+21 THE DEPARTMENT SHALL COMPILE AND REPORT THE INFORMATION SUBMITTED
+22 UNDER SUBSECTION (A) OF THIS SECTION TO THE GOVERNOR, THE STATE BOARD,
+23 AND, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, THE
+24 GENERAL ASSEMBLY.
 
-20 (i) Contact information for the enrollment office of the local school
-21 system and the Division of Early Childhood Development in the Department; and
+25 (2) THE REPORT SUBMITTED UNDER THIS SUBSECTION SHALL BE
+26 MADE PUBLICLY AVAILABLE ON THE DEPARTMENT’S WEBSITE.
 
-22 (ii) Information on the existence of the child care scholarship for
-23 before and after full–day prekindergarten programming and the possibility of eligibility for
-24 State aid.
+27 (C) THE STATE BOARD MAY ADOPT REGULATIONS TO CARRY OUT THIS
+28 SECTION.
 
-25 (3) (I) On or before [December] APRIL 1 of each year, each local
-26 department of social services SHALL REPORT TO THE DEPARTMENT OF HUMAN
-27 SERVICES and each local health department shall report to the General Assembly, in
-28 accordance with § 2–1257 of the State Government Article, MARYLAND DEPARTMENT
-29 OF HEALTH on the number of parents who were given a notification BEFORE SEPTEMBER
-30 1 OF THE CURRENT SCHOOL YEAR and subsequently enrolled their child in a publicly
-31 funded prekindergarten program IN THE CURRENT SCHOOL YEAR.
+29 7–1A–02.
 
-32 (II) ON OR BEFORE MAY 1 EACH YEAR, THE MARYLAND
-33 DEPARTMENT OF HEALTH, IN COLLABORATION WITH THE DEPARTMENT OF HUMAN
-34 SERVICES, SHALL COMPILE THE INFORMATION REPORTED UNDER SUBPARAGRAPH
+30 (a) (1) A local department of social services or a local health department shall
+31 provide a parent or guardian with oral and written notice that their child may be eligible
+32 for publicly funded prekindergarten programs if the parent or guardian:
 END OF PAGE 19
 
 START OF PAGE 20
 20 HOUSE BILL 640
 
-1 (I) OF THIS PARAGRAPH AND SUBMIT A SUMMARY REPORT TO THE GENERAL
-2 ASSEMBLY, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE.
+1 (i) Applied for economic services with the local department of social
+2 services or the local health department; and
 
-3 7–506.
+3 (ii) Has a child who will be 3 or 4 years old by September 1 of the
+4 next academic year.
 
-4 (a) The local education agency and the local health department shall identify
-5 funds from public and private agencies for development and implementation of the
-6 Program.
+5 (2) The notice required under paragraph (1) of this subsection shall
+6 include:
 
-7 (b) [The Department shall submit an annual report to the Governor and, subject
-8 to § 2–1257 of the State Government Article, the General Assembly regarding the current
-9 status and effectiveness of the Programs established under this subtitle.
+7 (i) Contact information for the enrollment office of the local school
+8 system and the Division of Early Childhood Development in the Department; and
 
-10 (c)] The Governor shall include funds in the budget to carry out the provisions of
-11 this subtitle.
+9 (ii) Information on the existence of the child care scholarship for
+10 before and after full–day prekindergarten programming and the possibility of eligibility for
+11 State aid.
 
-12 Article – Election Law
+12 (3) (I) On or before [December] APRIL 1 of each year, each local
+13 department of social services SHALL REPORT TO THE DEPARTMENT OF HUMAN
+14 SERVICES and each local health department shall report to the MARYLAND DEPARTMENT
+15 OF HEALTH on the number of parents who were given a notification BEFORE SEPTEMBER
+16 1 OF THE CURRENT SCHOOL YEAR and subsequently enrolled their child in a publicly
+17 funded prekindergarten program IN THE CURRENT SCHOOL YEAR.
 
-13 3–204.
+18 (II) ON OR BEFORE MAY 1 EACH YEAR, THE MARYLAND
+19 DEPARTMENT OF HEALTH, IN COLLABORATION WITH THE DEPARTMENT OF HUMAN
+20 SERVICES, SHALL COMPILE THE INFORMATION REPORTED UNDER SUBPARAGRAPH
+21 (I) OF THIS PARAGRAPH AND SUBMIT A SUMMARY REPORT TO THE GENERAL
+22 ASSEMBLY, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE.
 
-14 [(j) On or before January 1, 2018, and January 1 each subsequent year, the
-15 Maryland Department of Labor shall submit a report, in accordance with § 2–1257 of the
-16 State Government Article, to the Senate Education, Health, and Environmental Affairs
-17 Committee and the House Ways and Means Committee that describes:
+23 Article – Environment
 
-18 (1) the efforts of the one–stop career centers to register voters under this
-19 section in the preceding calendar year; and
+24 4–708.
 
-20 (2) any efforts the Department plans to make to improve the efficiency and
-21 effectiveness of the voter registration process at the one–stop career centers.]
+25 [(a)] The Department shall adopt regulations to implement the requirements of
+26 this subtitle no later than September 30, 1993 in order to begin making disbursements from
+27 the Fund no later than January 1, 1994.
 
-22 Article – Environment
+28 [(b) Beginning January 1, 1995, the Department shall annually report to the
+29 General Assembly, subject to § 2–1257 of the State Government Article, on the status of
+30 the Fund and on the revenues to and expenditures from the Fund.]
 
-9 4–708.
+31 5–1104.
 
-10 [(a)] The Department shall adopt regulations to implement the requirements of
-11 this subtitle no later than September 30, 1993 in order to begin making disbursements from
-12 the Fund no later than January 1, 1994.
+32 (a) (1) With the advice and consent of the Senate, the Governor shall appoint
+33 a Hart–Miller–Pleasure Island Citizens Oversight Committee.
+END OF PAGE 20
 
-13 [(b) Beginning January 1, 1995, the Department shall annually report to the
-14 General Assembly, subject to § 2–1257 of the State Government Article, on the status of
-15 the Fund and on the revenues to and expenditures from the Fund.]
+START OF PAGE 21
+HOUSE BILL 640 21
 
-16 5–1104.
+1 (2) The terms and qualifications of members of the Oversight Committee
+2 shall be determined by the Governor.
 
-17 (a) (1) With the advice and consent of the Senate, the Governor shall appoint
-18 a Hart–Miller–Pleasure Island Citizens Oversight Committee.
+3 (b) The Oversight Committee shall be composed of the following members:
 
-19 (2) The terms and qualifications of members of the Oversight Committee
-20 shall be determined by the Governor.
+4 (1) [2 trustees from the grantee in interest, as defined in § 5–1202.2(a)(1)
+5 of the Natural Resources Article] THE SECRETARY, OR THE SECRETARY’S DESIGNEE;
 
-21 (b) The Oversight Committee shall be composed of the following members:
+6 (2) [1] ONE individual from the North Point Peninsula Community
+7 Coordinating Council;
 
-22 (1) [2 trustees from the grantee in interest, as defined in § 5–1202.2(a)(1)
-23 of the Natural Resources Article] THE SECRETARY, OR THE SECRETARY’S DESIGNEE;
+8 (3) [1] ONE individual from the Essex Middle River Civic Council, Inc.;
 
-24 (2) [1] ONE individual from the North Point Peninsula Community
-25 Coordinating Council;
+9 (4) [2] TWO interested citizens, [1] ONE of whom shall reside in the sixth
+10 legislative district, and [1] ONE of whom shall reside in the seventh legislative district;
 
-26 (3) [1] ONE individual from the Essex Middle River Civic Council, Inc.;
+11 (5) [1] ONE individual from the Baltimore County Watermen’s
+12 Association;
 
-27 (4) [2] TWO interested citizens, [1] ONE of whom shall reside in the sixth
-28 legislative district, and [1] ONE of whom shall reside in the seventh legislative district;
+13 (6) [1] ONE individual who represents the pleasure boating industry in
+14 Baltimore County;
 
-29 (5) [1] ONE individual from the Baltimore County Watermen’s
-30 Association;
+15 (7) [1] ONE individual who represents the sport fishing or crabbing
+16 industry in Baltimore County; AND
+
+17 [(8) 1 individual from the Greater Dundalk Community Council; and
+
+18 (9) 1 individual from the Hart and Miller Island Area Environmental
+19 Group, Inc.]
+
+20 (8) ONE INDIVIDUAL FROM THE RECREATIONAL BIRDING
+21 COMMUNITY IN BALTIMORE COUNTY.
+
+22 Article – Family Law
+
+23 5–706.
+
+24 (a) (1) In this section, “alternative response” means a component of the child
+25 protective services program that provides for a comprehensive assessment of:
+
+26 (i) risk of harm to the child;
+
+27 (ii) risk of subsequent child abuse or neglect;
+
+28 (iii) family strengths and needs; and
+
+29 (iv) the provision of or referral for necessary services.
 END OF PAGE 21
 
 START OF PAGE 22
 22 HOUSE BILL 640
 
-1 (6) [1] ONE individual who represents the pleasure boating industry in
-2 Baltimore County;
+1 (2) “Alternative response” does not include:
 
-3 (7) [1] ONE individual who represents the sport fishing or crabbing
-4 industry in Baltimore County; AND
+2 (i) an investigation; or
 
-5 [(8) 1 individual from the Greater Dundalk Community Council; and
+3 (ii) a formal determination as to whether child abuse or neglect has
+4 occurred.
 
-6 (9) 1 individual from the Hart and Miller Island Area Environmental
-7 Group, Inc.]
+5 [(l) (1) The Department shall convene a multidisciplinary alternative response
+6 advisory council.
 
-8 (8) ONE INDIVIDUAL FROM THE RECREATIONAL BIRDING
-9 COMMUNITY IN BALTIMORE COUNTY.
+7 (2) The advisory council shall consist of the following members:
 
-10 Article – Family Law
+8 (i) the Secretary of Human Services, or the Secretary’s designee;
 
-11 5–706.
+9 (ii) the Secretary of Health, or the Secretary’s designee;
 
-12 (a) (1) In this section, “alternative response” means a component of the child
-13 protective services program that provides for a comprehensive assessment of:
+10 (iii) the State Superintendent of Schools, or the Superintendent’s
+11 designee;
 
-14 (i) risk of harm to the child;
+12 (iv) a representative from the Maryland Disability Law Center;
 
-15 (ii) risk of subsequent child abuse or neglect;
+13 (v) a representative from a child advocacy organization;
 
-16 (iii) family strengths and needs; and
+14 (vi) a representative from a community partner or a local service
+15 provider;
 
-17 (iv) the provision of or referral for necessary services.
+16 (vii) a pediatrician with experience in diagnosing and treating
+17 injuries related to abuse and neglect;
 
-18 (2) “Alternative response” does not include:
+18 (viii) an attorney with experience representing children or adults in
+19 abuse and neglect cases;
 
-19 (i) an investigation; or
+20 (ix) a representative from the Office of the Public Defender;
 
-20 (ii) a formal determination as to whether child abuse or neglect has
-21 occurred.
+21 (x) a parent or guardian who has personal experience with the child
+22 protective services system;
 
-22 [(l) (1) The Department shall convene a multidisciplinary alternative response
-23 advisory council.
+23 (xi) a child who has personal experience with the child protective
+24 services system;
 
-24 (2) The advisory council shall consist of the following members:
+25 (xii) two representatives from local departments of social services;
+26 and
 
-25 (i) the Secretary of Human Services, or the Secretary’s designee;
+27 (xiii) two representatives from local citizens review panels.
 
-26 (ii) the Secretary of Health, or the Secretary’s designee;
+28 (3) The Secretary of Human Services or the Secretary’s designee shall be
+29 the chair of the advisory council.
 END OF PAGE 22
 
 START OF PAGE 23
 HOUSE BILL 640 23
 
-1 (iii) the State Superintendent of Schools, or the Superintendent’s
-2 designee;
+1 (4) The advisory council shall advise the Department on:
 
-3 (iv) a representative from the Maryland Disability Law Center;
+2 (i) the development of the alternative response implementation
+3 plan, which may include a pilot program;
 
-4 (v) a representative from a child advocacy organization;
+4 (ii) oversight and monitoring of the alternative response
+5 implementation plan;
 
-5 (vi) a representative from a community partner or a local service
-6 provider;
+6 (iii) consulting with local citizens review panels, local services
+7 affiliates, and other local partners for feedback and recommendations on the alternative
+8 response implementation plan;
 
-7 (vii) a pediatrician with experience in diagnosing and treating
-8 injuries related to abuse and neglect;
+9 (iv) defining the scope of the independent evaluation of the
+10 implementation of the alternative response program; and
 
-9 (viii) an attorney with experience representing children or adults in
-10 abuse and neglect cases;
+11 (v) defining the scope of the ongoing evaluation of the alternative
+12 response program.]
 
-11 (ix) a representative from the Office of the Public Defender;
+13 Article – Health – General
 
-12 (x) a parent or guardian who has personal experience with the child
-13 protective services system;
+14 7.5–802.
 
-14 (xi) a child who has personal experience with the child protective
-15 services system;
+15 (a) (1) There is a Maryland Mental Health and Substance Use Disorder
+16 Registry and Referral System in the Department.
 
-16 (xii) two representatives from local departments of social services;
-17 and
+17 (c) (1) There is a Maryland Mental Health and Substance Use Disorder
+18 Registry and Referral System Advisory Committee.
 
-18 (xiii) two representatives from local citizens review panels.
+19 [(5) On or before January 1 each year, the Advisory Committee shall report
+20 to the Senate Finance Committee and the House Health and Government Operations
+21 Committee, in accordance with § 2–1257 of the State Government Article, on the
+22 implementation of the Registry and Referral System.]
 
-19 (3) The Secretary of Human Services or the Secretary’s designee shall be
-20 the chair of the advisory council.
+23 13–706.
 
-21 (4) The advisory council shall advise the Department on:
+24 (a) A certificate holder shall submit to the Department, on a form required by the
+25 Department, a report of each incident that occurs while the youth camp is in session that
+26 required the administration of emergency use epinephrine.
 
-22 (i) the development of the alternative response implementation
-23 plan, which may include a pilot program;
+27 (b) [On or before January 31 of each year, the] THE Department shall [publish a
+28 report summarizing] INCLUDE IN THE REPORT REQUIRED UNDER § 13–7A–03 OF THIS
+29 TITLE A SUMMARY OF the information obtained from the reports submitted to the
+30 Department under subsection (a) of this section.
 
-24 (ii) oversight and monitoring of the alternative response
-25 implementation plan;
-
-26 (iii) consulting with local citizens review panels, local services
-27 affiliates, and other local partners for feedback and recommendations on the alternative
-28 response implementation plan;
-
-29 (iv) defining the scope of the independent evaluation of the
-30 implementation of the alternative response program; and
+31 13–4502.
 END OF PAGE 23
 
 START OF PAGE 24
 24 HOUSE BILL 640
 
-1 (v) defining the scope of the ongoing evaluation of the alternative
-2 response program.]
+1 (a) There is a Cannabis Public Health Advisory Council.
 
-3 Article – Health – General
+2 (b) The Advisory Council consists of the following members:
 
-4 7.5–802.
+3 (1) One member from the Senate of Maryland, appointed by the President
+4 of the Senate;
 
-5 (a) (1) There is a Maryland Mental Health and Substance Use Disorder
-6 Registry and Referral System in the Department.
+5 (2) One member from the House of Delegates, appointed by the Speaker of
+6 the House;
 
-7 (c) (1) There is a Maryland Mental Health and Substance Use Disorder
-8 Registry and Referral System Advisory Committee.
+7 (3) The Secretary, or the Secretary’s designee;
 
-9 [(5) On or before January 1 each year, the Advisory Committee shall report
-10 to the Senate Finance Committee and the House Health and Government Operations
-11 Committee, in accordance with § 2–1257 of the State Government Article, on the
-12 implementation of the Registry and Referral System.]
+8 (4) The Deputy Secretary for Behavioral Health, or the Deputy Secretary’s
+9 designee;
 
-13 13–706.
+10 (5) [The Secretary of Agriculture, or the Secretary’s designee;
 
-14 (a) A certificate holder shall submit to the Department, on a form required by the
-15 Department, a report of each incident that occurs while the youth camp is in session that
-16 required the administration of emergency use epinephrine.
+11 (6)] The Director of the Maryland Cannabis Administration, or the
+12 Director’s designee;
 
-17 (b) [On or before January 31 of each year, the] THE Department shall [publish a
-18 report summarizing] INCLUDE IN THE REPORT REQUIRED UNDER § 13–7A–03 OF THIS
-19 TITLE A SUMMARY OF the information obtained from the reports submitted to the
-20 Department under subsection (a) of this section.
+13 [(7)] (6) The State Superintendent of Schools, or the State
+14 Superintendent’s designee;
 
-21 13–4502.
+15 [(8)] (7) The Executive Director of the Governor’s Office of Crime
+16 Prevention and Policy, or the Executive Director’s designee;
 
-22 (a) There is a Cannabis Public Health Advisory Council.
+17 [(9)] (8) The Administrator of the Motor Vehicle Administration, or the
+18 Administrator’s designee;
 
-23 (b) The Advisory Council consists of the following members:
+19 [(10)] (9) The Executive Director of the Office of Social Equity in the
+20 DEPARTMENT OF SOCIAL AND ECONOMIC MOBILITY, or the Executive Director’s designee;
+21 and
 
-24 (1) One member from the Senate of Maryland, appointed by the President
-25 of the Senate;
+22 [(11)] (10) The following members appointed by the Governor:
 
-26 (2) One member from the House of Delegates, appointed by the Speaker of
-27 the House;
+23 (i) One representative from a historically black college or
+24 university;
 
-28 (3) The Secretary, or the Secretary’s designee;
+25 (ii) One health care provider with experience in cannabis;
 
-29 (4) The Deputy Secretary for Behavioral Health, or the Deputy Secretary’s
-30 designee;
+26 (iii) One pharmacist licensed in the State;
+
+27 (iv) One health care provider with expertise in substance use
+28 disorder treatment and recovery;
+
+29 (v) One individual with expertise in cannabis use disorder;
 END OF PAGE 24
 
 START OF PAGE 25
 HOUSE BILL 640 25
 
-1 (5) [The Secretary of Agriculture, or the Secretary’s designee;
+1 (vi) One academic researcher with expertise in cannabis law and
+2 policy;
 
-2 (6)] The Director of the Maryland Cannabis Administration, or the
-3 Director’s designee;
+3 (vii) One individual with at least 5 years of experience in health or
+4 social equity;
 
-4 [(7)] (6) The State Superintendent of Schools, or the State
-5 Superintendent’s designee;
+5 (viii) One public health professional with cannabis experience; and
 
-6 [(8)] (7) The Executive Director of the Governor’s Office of Crime
-7 Prevention and Policy, or the Executive Director’s designee;
+6 (ix) One representative of a laboratory that tests cannabis.
 
-8 [(9)] (8) The Administrator of the Motor Vehicle Administration, or the
-9 Administrator’s designee;
+7 18–204.
 
-10 [(10)] (9) The Executive Director of the Office of Social Equity in the
-11 DEPARTMENT OF SOCIAL AND ECONOMIC MOBILITY, or the Executive Director’s designee; and
+8 (b) [(6) The Secretary, in accordance with § 2–1257 of the State Government
+9 Article, shall submit an annual report to the Governor and General Assembly on the
+10 activities of the cancer registry, including utilization of cancer registry data.]
 
-12 [(11)] (10) The following members appointed by the Governor:
+11 19–101.
 
-13 (i) One representative from a historically black college or
-14 university;
+12 In this subtitle, “Commission” means the Maryland Health Care Commission.
 
-15 (ii) One health care provider with experience in cannabis;
+13 19–134.
 
-16 (iii) One pharmacist licensed in the State;
+14 (f) (2) The Commission shall:
 
-17 (iv) One health care provider with expertise in substance use
-18 disorder treatment and recovery;
+15 (ii) Analyze the information jointly with the Office of Minority
+16 Health and Health Disparities for publication in the “Health Care Disparities Policy Report
+17 Card” required under [§ 20–1004(22)] § 20–1006(B)(2) of this article.
 
-19 (v) One individual with expertise in cannabis use disorder;
+18 19–1409.
 
-20 (vi) One academic researcher with expertise in cannabis law and
-21 policy;
+19 (a) There is an Oversight Committee on Quality of Care in Nursing Homes and
+20 Assisted Living Facilities.
 
-22 (vii) One individual with at least 5 years of experience in health or
-23 social equity;
+21 (b) The Oversight Committee shall consist of the following members:
 
-24 (viii) One public health professional with cannabis experience; and
+22 (1) One member of the Senate Finance Committee, appointed by the
+23 President of the Senate;
 
-25 (ix) One representative of a laboratory that tests cannabis.
+24 (2) One member of the Senate Education, Health, and Environmental
+25 Affairs Committee, appointed by the President of the Senate;
 
-26 18–204.
+26 (3) Two members of the House Health and Government Operations
+27 Committee, appointed by the Speaker of the House;
 
-27 (b) [(6) The Secretary, in accordance with § 2–1257 of the State Government
-28 Article, shall submit an annual report to the Governor and General Assembly on the
-29 activities of the cancer registry, including utilization of cancer registry data.]
+28 (4) The Secretary of Aging, or the Secretary’s designee;
 END OF PAGE 25
 
 START OF PAGE 26
 26 HOUSE BILL 640
 
-1 19–101.
+1 (5) [The Secretary of Health, or the Secretary’s designee;
 
-2 In this subtitle, “Commission” means the Maryland Health Care Commission.
+2 (6)] The Director of the Office of Health Care Quality, or the Director’s
+3 designee;
 
-3 19–134.
+4 [(7)] (6) The Deputy Secretary for Behavioral Health, or the Deputy
+5 Secretary’s designee;
 
-4 (f) (2) The Commission shall:
+6 [(8)] (7) The Secretary of Human Services, or the Secretary’s designee;
 
-5 (ii) Analyze the information jointly with the Office of Minority
-6 Health and Health Disparities for publication in the “Health Care Disparities Policy Report
-7 Card” required under [§ 20–1004(22)] § 20–1006(B)(2) of this article.
+7 [(9)] (8) The Secretary of Disabilities, or the Secretary’s designee;
 
-8 19–1409.
+8 [(10)] (9) The State Long–Term Care Ombudsman;
 
-9 (a) There is an Oversight Committee on Quality of Care in Nursing Homes and
-10 Assisted Living Facilities.
+9 [(11)] (10) Two representatives of area agencies on aging, one of which shall
+10 be a member of a local long–term care ombudsman program established under Title 10,
+11 Subtitle 9 of the Human Services Article, selected by the President of the Maryland
+12 Association of Area Agencies on Aging;
 
-11 (b) The Oversight Committee shall consist of the following members:
+13 [(12)] (11) One representative of a local long–term care ombudsman entity,
+14 selected by the State Long–Term Care Ombudsman;
 
-12 (1) One member of the Senate Finance Committee, appointed by the
-13 President of the Senate;
+15 [(13)] (12) Three consumer members, selected by the State Long–Term
+16 Care Ombudsman, all of whom shall be consumers living in an assisted living facility or a
+17 nursing home or have a family member living in an assisted living facility or a nursing
+18 home;
 
-14 (2) One member of the Senate Education, Health, and Environmental
-15 Affairs Committee, appointed by the President of the Senate;
+19 [(14)] (13) The following representatives, selected by the organizations the
+20 individual represents:
 
-16 (3) Two members of the House Health and Government Operations
-17 Committee, appointed by the Speaker of the House;
+21 (i) One representative from the Health Facilities Association of
+22 Maryland;
 
-18 (4) The Secretary of Aging, or the Secretary’s designee;
+23 (ii) One representative from the Mid–Atlantic LifeSpan;
 
-19 (5) [The Secretary of Health, or the Secretary’s designee;
+24 (iii) One representative of the Hospice Network of Maryland;
 
-20 (6)] The Director of the Office of Health Care Quality, or the Director’s
-21 designee;
+25 (iv) One representative of the Maryland Hospital Association;
 
-22 [(7)] (6) The Deputy Secretary for Behavioral Health, or the Deputy
-23 Secretary’s designee;
+26 (v) One representative of 1199SEIU United Health Workers East;
 
-24 [(8)] (7) The Secretary of Human Services, or the Secretary’s designee;
+27 (vi) One representative of the Maryland Chapter of AARP;
 
-25 [(9)] (8) The Secretary of Disabilities, or the Secretary’s designee;
+28 (vii) One representative of United Seniors of Maryland;
 
-26 [(10)] (9) The State Long–Term Care Ombudsman;
+29 (viii) One representative of Voices for Quality Care;
 END OF PAGE 26
 
 START OF PAGE 27
 HOUSE BILL 640 27
 
-1 [(11)] (10) Two representatives of area agencies on aging, one of which shall
-2 be a member of a local long–term care ombudsman program established under Title 10,
-3 Subtitle 9 of the Human Services Article, selected by the President of the Maryland
-4 Association of Area Agencies on Aging;
+1 (ix) One representative of the Mental Health Association of
+2 Maryland knowledgeable in issues of aging;
 
-5 [(12)] (11) One representative of a local long–term care ombudsman entity,
-6 selected by the State Long–Term Care Ombudsman;
+3 (x) One representative of the Greater Maryland Chapter of the
+4 Alzheimer’s Association; and
 
-7 [(13)] (12) Three consumer members, selected by the State Long–Term
-8 Care Ombudsman, all of whom shall be consumers living in an assisted living facility or a
-9 nursing home or have a family member living in an assisted living facility or a nursing
-10 home;
+5 (xi) One representative of the Maryland Association of Adult Day
+6 Services; and
 
-11 [(14)] (13) The following representatives, selected by the organizations the
-12 individual represents:
+7 [(15)] (14) Three representatives from the assisted living industry, of which
+8 one shall represent a program that cares for one to four residents, one shall represent a
+9 program that cares for five to nine residents, and one shall represent a program that cares
+10 for more than 10 residents.
 
-13 (i) One representative from the Health Facilities Association of
-14 Maryland;
+11 20–1004.
 
-15 (ii) One representative from the Mid–Atlantic LifeSpan;
+12 The Office shall:
 
-16 (iii) One representative of the Hospice Network of Maryland;
+13 [(22) In collaboration with the Maryland Health Care Commission, and the
+14 health occupations boards established under the Health Occupations Article, publish
+15 annually on the Department’s website and provide in writing on request a “Health Care
+16 Disparities Policy Report Card” that includes:
 
-17 (iv) One representative of the Maryland Hospital Association;
+17 (i) An analysis of racial and ethnic variations in insurance coverage
+18 for low–income, nonelderly individuals;
 
-18 (v) One representative of 1199SEIU United Health Workers East;
+19 (ii) The racial and ethnic composition of the individuals who hold a
+20 license or certificate issued by a health occupations board established under the Health
+21 Occupations Article compared to the racial and ethnic composition of the State’s population;
 
-19 (vi) One representative of the Maryland Chapter of AARP;
+22 (iii) The racial and ethnic disparities in morbidity and mortality rates
+23 for cardiovascular disease, cancer, diabetes, HIV/AIDS, infant mortality, asthma,
+24 dementia, and other diseases identified by the Maryland Health Care Commission; and
 
-20 (vii) One representative of United Seniors of Maryland;
+25 (iv) A comparison of the information included under items (i) and (ii)
+26 of this item with previously published “Health Care Disparities Policy Report Cards”
+27 including the same information;]
 
-21 (viii) One representative of Voices for Quality Care;
+28 [(23)] (22) To the extent authorized under federal and State privacy laws,
+29 publish on its website health data that includes race and ethnicity information collected by
+30 the Office and update the data at least once every 6 months; and
 
-22 (ix) One representative of the Maryland Chapter of AARP;
-
-23 (x) One representative of the Greater Maryland Chapter of the
-24 Alzheimer’s Association; and
-
-25 (xi) One representative of the Maryland Association of Adult Day
-26 Services; and
-
-27 [(15)] (14) Three representatives from the assisted living industry, of which
-28 one shall represent a program that cares for one to four residents, one shall represent a
-29 program that cares for five to nine residents, and one shall represent a program that cares
-30 for more than 10 residents.
+31 [(24)] (23) To the extent authorized under federal and State privacy laws,
+32 respond to requests for health data that includes race and ethnicity information within 30
+33 days after receipt of the request.
 END OF PAGE 27
 
 START OF PAGE 28
 28 HOUSE BILL 640
 
-1 20–1004.
+1 20–1006.
 
-2 The Office shall:
+2 (a) On or before the 15th day of each regular session of the General Assembly, the
+3 Department shall submit an annual report on the Office of Minority Health and Health
+4 Disparities to the Governor and, subject to § 2–1257 of the State Government Article, to
+5 the General Assembly.
 
-3 [(22) In collaboration with the Maryland Health Care Commission, and the
-4 health occupations boards established under the Health Occupations Article, publish
-5 annually on the Department’s website and provide in writing on request a “Health Care
-6 Disparities Policy Report Card” that includes:
+6 (b) The report shall include [the]:
 
-7 (i) An analysis of racial and ethnic variations in insurance coverage
-8 for low–income, nonelderly individuals;
+7 (1) THE projects and services developed and funded by the Office and the
+8 health care problems that the grant funds are intended to ameliorate; AND
 
-9 (ii) The racial and ethnic composition of the individuals who hold a
-10 license or certificate issued by a health occupations board established under the Health
-11 Occupations Article compared to the racial and ethnic composition of the State’s population;
+9 (2) A “HEALTH CARE DISPARITIES POLICY REPORT CARD”,
+10 DEVELOPED IN COLLABORATION WITH THE MARYLAND HEALTH CARE
+11 COMMISSION, AND THE HEALTH OCCUPATIONS BOARDS ESTABLISHED UNDER THE
+12 HEALTH OCCUPATIONS ARTICLE, THAT INCLUDES:
 
-12 (iii) The racial and ethnic disparities in morbidity and mortality rates
-13 for cardiovascular disease, cancer, diabetes, HIV/AIDS, infant mortality, asthma,
-14 dementia, and other diseases identified by the Maryland Health Care Commission; and
+13 (I) AN ANALYSIS OF RACIAL AND ETHNIC VARIATIONS IN
+14 INSURANCE COVERAGE FOR LOW–INCOME, NONELDERLY INDIVIDUALS;
 
-15 (iv) A comparison of the information included under items (i) and (ii)
-16 of this item with previously published “Health Care Disparities Policy Report Cards”
-17 including the same information;]
+15 (II) THE RACIAL AND ETHNIC COMPOSITION OF THE
+16 INDIVIDUALS WHO HOLD A LICENSE OR CERTIFICATE ISSUED BY A HEALTH
+17 OCCUPATIONS BOARD ESTABLISHED UNDER THE HEALTH OCCUPATIONS ARTICLE
+18 COMPARED TO THE RACIAL AND ETHNIC COMPOSITION OF THE STATE’S
+19 POPULATION; AND
 
-18 [(23)] (22) To the extent authorized under federal and State privacy laws,
-19 publish on its website health data that includes race and ethnicity information collected by
-20 the Office and update the data at least once every 6 months; and
+20 (III) THE RACIAL AND ETHNIC DISPARITIES IN MORBIDITY AND
+21 MORTALITY RATES FOR CARDIOVASCULAR DISEASE, CANCER, DISBETES,
+22 HIV/AIDS, INFANT MORTALITY, ASTHMA, DEMENTIA, AND OTHER DISEASES
+23 IDENTIFIED BY THE MARYLAND HEALTH CARE COMMISSION.
 
-21 [(24)] (23) To the extent authorized under federal and State privacy laws,
-22 respond to requests for health data that includes race and ethnicity information within 30
-23 days after receipt of the request.
+24 (c) The report may include any recommendations for administrative or legislative
+25 action that it deems appropriate.
 
-24 20–1006.
+26 24–1708.
 
-25 (a) On or before the 15th day of each regular session of the General Assembly, the
-26 Department shall submit an annual report on the Office of Minority Health and Health
-27 Disparities to the Governor and, subject to § 2–1257 of the State Government Article, to
-28 the General Assembly.
+27 (a) In this section, “Council” means the Maryland Loan Assistance Repayment
+28 Program Advisory Council for Physicians and Physician Assistants.
 
-29 (b) The report shall include [the]:
+29 (g) On or before October 1 [each year], 2028 AND EVERY 3 YEARS
+30 THEREAFTER, the Council shall report to the Governor and, in accordance with § 2–
+31 1257 of the State Government Article, the General Assembly on the activities and
+32 recommendations of the Council.
 
-30 (1) THE projects and services developed and funded by the Office and the
-31 health care problems that the grant funds are intended to ameliorate;
-
-32 (2) A “HEALTH CARE DISPARITIES POLICY REPORT CARD”,
-33 DEVELOPED IN COLLABORATION WITH THE MARYLAND HEALTH CARE
+33 Article – Housing and Community Development
 END OF PAGE 28
 
 START OF PAGE 29
 HOUSE BILL 640 29
 
-1 COMMISSION, AND THE HEALTH OCCUPATIONS BOARDS ESTABLISHED UNDER THE
-2 HEALTH OCCUPATIONS ARTICLE, THAT INCLUDES:
+1 4–2101.
 
-3 (I) AN ANALYSIS OF RACIAL AND ETHNIC VARIATIONS IN
-4 INSURANCE COVERAGE FOR LOW–INCOME, NONELDERLY INDIVIDUALS;
+2 (a) In this subtitle the following words have meanings indicated.
 
-5 (II) THE RACIAL AND ETHNIC COMPOSITION OF THE
-6 INDIVIDUALS WHO HOLD A LICENSE OR CERTIFICATE ISSUED BY A HEALTH
-7 OCCUPATIONS BOARD ESTABLISHED UNDER THE HEALTH OCCUPATIONS ARTICLE
-8 COMPARED TO THE RACIAL AND ETHNIC COMPOSITION OF THE STATE’S
-9 POPULATION;
+3 (c) “Council” means the Interagency Council on Homelessness.
 
-10 (III) THE RACIAL AND ETHNIC DISPARITIES IN MORBIDITY AND
-11 MORTALITY RATES FOR CARDIOVASCULAR DISEASE, CANCER, DIABETES,
-12 HIV/AIDS, INFANT MORTALITY, ASTHMA, DEMENTIA, AND OTHER DISEASES
-13 IDENTIFIED BY THE MARYLAND HEALTH CARE COMMISSION; AND
+4 4–2104.
 
-14 (IV) A COMPARISON OF THE INFORMATION INCLUDED UNDER
-15 ITEMS (I) AND (II) OF THIS ITEM WITH PREVIOUSLY PUBLISHED “HEALTH CARE
-16 DISPARITIES POLICY REPORT CARDS” INCLUDING THE SAME INFORMATION; AND
+5 [(a)] The [Governor shall designate as chair of the Council a member who is a
+6 secretary or a secretary’s designee with decision–making authority on issues that relate to
+7 the work of the Council] SECRETARY, OR THE SECRETARY’S DESIGNEE, SHALL SERVE
+8 AS CHAIR OF THE COUNCIL.
 
-17 (3) THE FOLLOWING INFORMATION FROM THE IMMEDIATELY
-18 PRECEDING FISCAL YEAR:
+9 [(b) The term of the chair is 2 years.
 
-19 (I) THE OFFICE’S EFFORTS TO OBTAIN FUNDING DESCRIBED
-20 UNDER § 20–1007(B) OF THIS SUBTITLE; AND
+10 (c) The chair may not serve consecutive terms.]
 
-21 (II) THE AMOUNT OF FUNDING FROM FEDERAL AND SPECIAL
-22 FUNDING SOURCES THE OFFICE RECEIVED.
+11 4–2105.
 
-23 (c) The report may include any recommendations for administrative or legislative
-24 action that it deems appropriate.
+12 (a) A majority of the members then serving on the Council is a quorum.
 
-25 20–1007.
+13 (b) The Council shall determine the times and places of its meetings.
 
-26 [(c) On or before October 1 each year, the Office shall report to the House Health
-27 and Government Operations Committee and the Senate Finance Committee, in accordance
-28 with § 2–1257 of the State Government Article, the following information from the
-29 immediately preceding fiscal year:
+14 (c) [A] EXCEPT AS PROVIDED IN SUBSECTION (D) OF THIS SECTION, A
+15 member of the Council:
 
-30 (1) The Office’s efforts to obtain funding described under subsection (b) of
-31 this section; and
+16 (1) may not receive compensation as a member of the Council; but
+
+17 (2) is entitled to reimbursement for expenses under the Standard State
+18 Travel Regulations, as provided in the State budget.
+
+19 (D) A MEMBER OF THE COUNCIL APPOINTED UNDER § 4–2103(A)(13)(III)
+20 OR (IV) OF THIS SUBTITLE WHO IS CURRENTLY EXPERIENCING HOMELESSNESS OR
+21 HAS LIVED EXPERIENCE OF HOMELESSNESS IS ENTITLED TO:
+
+22 (1) REIMBURSEMENT FOR EXPENSES UNDER THE STANDARD STATE
+23 TRAVEL REGULATIONS, AS PROVIDED IN THE STATE BUDGET; AND
+
+24 (2) REASONABLE COMPENSATION FOR THE MEMBER’S SERVICES AS
+25 DETERMINED BY A COMPENSATION POLICY ADMINISTERED BY THE DEPARTMENT.
+
+26 Article – Human Services
+
+27 2–301.
+
+28 The following units are in the Department:
 END OF PAGE 29
 
 START OF PAGE 30
 30 HOUSE BILL 640
 
-1 (2) The amount of funding from federal and special funding sources the
-2 Office received.]
+1 (1) the Child Support Administration;
 
-3 24–1708.
+2 (2) the Family Investment Administration;
 
-(a) In this section, “Council” means the Maryland Loan Assistance Repayment
-Program Advisory Council for Physicians and Physician Assistants.
+3 (3) the Social Services Administration;
 
-(g) On or before October 1 [each year], 2028 AND EVERY 3 YEARS
-THEREAFTER, the Council shall report to the Governor and, in accordance with § 2–
-1257 of the State Government Article, the General Assembly on the activities and
-recommendations of the Council.
+4 (4) the Maryland Commission for Women; AND
 
-27 Article – Housing and Community Development
+5 (5) [the Two Generation Family Economic Security Commission; and
 
-28 4–2101.
+6 (6)] any other unit that by law is declared to be part of the Department.
 
-29 (a) In this subtitle the following words have meanings indicated.
+7 7–302.
 
-30 (c) “Council” means the Interagency Council on Homelessness.
+8 (a) There is a Maryland Commission on Caregiving in the Department.
 
-31 4–2104.
+9 (b) The purpose of the Commission is to coordinate statewide planning,
+10 development, and implementation of family caregiver support services.
+
+11 7–303.
+
+12 (a) (1) The Commission consists of the following members:
+
+13 (i) one member of the Senate of Maryland, appointed by the
+14 President of the Senate;
+
+15 (ii) one member of the House of Delegates, appointed by the Speaker
+16 of the House; and
+
+17 (iii) the following members appointed by the Governor:
+
+18 1. two representatives from the Department of Human
+19 Services;
+
+20 2. three representatives from the Maryland Department of
+21 Health;
+
+22 3. one representative from the Department of Aging;
+
+23 4. one representative from an area agency on aging;
+
+24 5. one representative from the Department of Disabilities;
+
+25 6. [one representative from the Maryland Respite Care
+26 Coalition;
 END OF PAGE 30
 
 START OF PAGE 31
 HOUSE BILL 640 31
 
-1 [(a)] The [Governor shall designate as chair of the Council a member who is a
-2 secretary or a secretary’s designee with decision–making authority on issues that relate to
-3 the work of the Council] SECRETARY, OR THE SECRETARY’S DESIGNEE, SHALL SERVE
-4 AS CHAIR OF THE COUNCIL.
+1 7.] two consumers of respite care services;
 
-5 [(b) The term of the chair is 2 years.
+2 [8.] 7.three family caregivers; and
 
-6 (c) The chair may not serve consecutive terms.]
+3 [9.] 8.[three] FOUR representatives of organizations that
+4 provide or have interest or expertise in respite care services.
 
-7 4–2105.
+5 Article – Natural Resources
 
-8 (a) A majority of the members then serving on the Council is a quorum.
+6 5–210.1.
 
-9 (b) The Council shall determine the times and places of its meetings.
+7 (c) (1) The Department shall:
 
-10 (c) [A] EXCEPT AS PROVIDED IN SUBSECTION (D) OF THIS SECTION, A
-11 member of the Council:
+8 (i) Take inventory of all State land managed by the Department,
+9 including:
 
-12 (1) may not receive compensation as a member of the Council; but
+10 1. Acreage;
 
-13 (2) is entitled to reimbursement for expenses under the Standard State
-14 Travel Regulations, as provided in the State budget.
+11 2. Any structures on each property;
 
-15 (D) A MEMBER OF THE COUNCIL APPOINTED UNDER § 4–2103(A)(13)(III)
-16 OR (IV) OF THIS SUBTITLE WHO IS CURRENTLY EXPERIENCING HOMELESSNESS OR
-17 HAS LIVED EXPERIENCE OF HOMELESSNESS IS ENTITLED TO:
+12 3. The use of each property; and
 
-18 (1) REIMBURSEMENT FOR EXPENSES UNDER THE STANDARD STATE
-19 TRAVEL REGULATIONS, AS PROVIDED IN THE STATE BUDGET; AND
+13 4. Whether a property is located within an environmental
+14 justice community as identified by the Department using the Maryland Environmental
+15 Justice Screen Tool; AND
 
-20 (2) REASONABLE COMPENSATION FOR THE MEMBER’S SERVICES AS
-21 DETERMINED BY A COMPENSATION POLICY ADMINISTERED BY THE DEPARTMENT.
+16 (ii) Develop a maintenance project prioritization process modeled
+17 after the National Park Service’s asset priority index that includes a layer indicating
+18 whether a maintenance project is located in an environmental justice community as
+19 identified by the Department using the Maryland Environmental Justice Screen Tool[; and
 
-22 Article – Human Services
+20 (iii) Develop and publish on its website a list of maintenance projects
+21 in every unit of the State park system that are expected to cost more than $25,000].
 
-23 2–301.
+22 10–202.1.
 
-24 The following units are in the Department:
+23 (a) The Secretary shall develop, adopt, and implement a comprehensive nutria
+24 management plan to eradicate the species Myocastor coypu (nutria) from the State.
 
-25 (1) the Child Support Administration;
+25 (b) In addition to any funding provided under § 10–308.1 of this title, the
+26 Department shall seek funding from federal, private, and other sources to implement fully
+27 the nutria management plan until nutria are eradicated from the State.
 
-26 (2) the Family Investment Administration;
-
-27 (3) the Social Services Administration;
+28 [(c) (1) In accordance with § 2–1257 of the State Government Article, the
+29 Secretary shall report annually to the General Assembly beginning July 1, 1995, and by
+30 July 1 each year thereafter until the nutria have been eradicated from the State.
 END OF PAGE 31
 
 START OF PAGE 32
 32 HOUSE BILL 640
 
-1 (4) the Maryland Commission for Women; AND
+1 (2) The report shall include data on the implementation of the nutria
+2 management plan, including:
 
-2 (5) [the Two Generation Family Economic Security Commission; and
+3 (i) Expenditures and future funding needs;
 
-3 (6)] any other unit that by law is declared to be part of the Department.
+4 (ii) Nutria removed from the population;
 
-4 7–302.
+5 (iii) Results from specific efforts to remove nutria; and
 
-5 (a) There is a Maryland Commission on Caregiving in the Department.
+6 (iv) An assessment of the success of the plan.]
 
-6 (b) The purpose of the Commission is to coordinate statewide planning,
-7 development, and implementation of family caregiver support services.
+7 Article – State Finance and Procurement
 
-8 7–303.
+8 14–410.
 
-9 (a) (1) The Commission consists of the following members:
+9 (b) (1) There is a Maryland Green Purchasing Committee.
 
-10 (i) one member of the Senate of Maryland, appointed by the
-11 President of the Senate;
+10 (2) The Committee shall consist of the following members:
 
-12 (ii) one member of the House of Delegates, appointed by the Speaker
-13 of the House; and
+11 (i) the Secretary of General Services, or the Secretary’s designee;
 
-14 (iii) the following members appointed by the Governor:
+12 (ii) the Secretary of Budget and Management, or the Secretary’s
+13 designee;
 
-15 1. two representatives from the Department of Human
-16 Services;
+14 (iii) the Secretary of Natural Resources, or the Secretary’s designee;
 
-17 2. three representatives from the Maryland Department of
-18 Health;
+15 (iv) the Secretary of the Environment, or the Secretary’s designee;
 
-19 3. one representative from the Department of Aging;
+16 (v) the Secretary of Health, or the Secretary’s designee;
 
-20 4. one representative from an area agency on aging;
+17 (vi) [the Secretary of Commerce, or the Secretary’s designee;
 
-21 5. one representative from the Department of Disabilities;
+18 (vii)] the Secretary of Transportation, or the Secretary’s designee;
 
-22 6. [one representative from the Maryland Respite Care
-23 Coalition;
+19 [(viii)] (VII) the Secretary of Public Safety and Correctional Services,
+20 or the Secretary’s designee;
 
-24 7.] two consumers of respite care services;
+21 [(ix)] (VIII) the Chancellor of the University System of Maryland, or
+22 the Chancellor’s designee;
 
-25 [8.] 7.three family caregivers; and
+23 [(x)] (IX) the Secretary of Information Technology, or the
+24 Secretary’s designee;
 
-26 [9.] 8.[three] FOUR representatives of organizations that
-27 provide or have interest or expertise in respite care services.
+25 [(xi)] (X) the Secretary of Education, or the Secretary’s designee;
+26 and
 END OF PAGE 32
 
 START OF PAGE 33
 HOUSE BILL 640 33
 
-1 Article – Natural Resources
+1 [(xii)] (XI) the State Treasurer, or the Treasurer’s designee.
 
-2 5–210.1.
+2 Article – State Government
 
-3 (c) (1) The Department shall:
+3 2–10A–15.
 
-4 (i) Take inventory of all State land managed by the Department,
-5 including:
+4 (j) The Governor’s Interagency Council on Homelessness shall:
 
-6 1. Acreage;
+5 (1) cooperate fully with the Committee;
 
-7 2. Any structures on each property;
+6 (2) keep the Committee fully informed as to its priorities and progress; and
 
-8 3. The use of each property; and
+7 (3) submit an annual report, subject to § 2–1257 of this title, to the
+8 Committee on or before [October 1] DECEMBER 15 of each year that includes:
 
-9 4. Whether a property is located within an environmental
-10 justice community as identified by the Department using the Maryland Environmental
-11 Justice Screen Tool; AND
+9 (i) a description of the Council’s work;
 
-12 (ii) Develop a maintenance project prioritization process modeled
-13 after the National Park Service’s asset priority index that includes a layer indicating
-14 whether a maintenance project is located in an environmental justice community as
-15 identified by the Department using the Maryland Environmental Justice Screen Tool[; and
+10 (ii) a report on the Council’s priorities and progress; and
 
-16 (iii) Develop and publish on its website a list of maintenance projects
-17 in every unit of the State park system that are expected to cost more than $25,000].
+11 (iii) recommendations for new laws, regulations, programs, services,
+12 and budgetary priorities that are needed to prevent, mitigate the effects of, and end
+13 homelessness in Maryland.
 
-18 10–202.1.
+14 9–3202.
 
-19 (a) The Secretary shall develop, adopt, and implement a comprehensive nutria
-20 management plan to eradicate the species Myocastor coypu (nutria) from the State.
+15 There is a Justice Reinvestment Oversight Board in the Governor’s Office of Crime
+16 Prevention and Policy.
 
-21 (b) In addition to any funding provided under § 10–308.1 of this title, the
-22 Department shall seek funding from federal, private, and other sources to implement fully
-23 the nutria management plan until nutria are eradicated from the State.
+17 9–3203.
 
-24 [(c) (1) In accordance with § 2–1257 of the State Government Article, the
-25 Secretary shall report annually to the General Assembly beginning July 1, 1995, and by
-26 July 1 each year thereafter until the nutria have been eradicated from the State.
+18 (a) The Board consists of the following members:
 
-27 (2) The report shall include data on the implementation of the nutria
-28 management plan, including:
+19 (1) one member of the Senate of Maryland, appointed by the President of
+20 the Senate;
 
-29 (i) Expenditures and future funding needs;
+21 (2) one member of the House of Delegates, appointed by the Speaker of the
+22 House;
 
-30 (ii) Nutria removed from the population;
+23 (3) the Executive Director, or the Executive Director’s designee;
+
+24 (4) the Secretary of Public Safety and Correctional Services, or the
+25 Secretary’s designee;
+
+26 (5) the chair of the Maryland Parole Commission, or the chair’s designee;
+
+27 (6) the Secretary of State Police, or the Secretary’s designee;
 END OF PAGE 33
 
 START OF PAGE 34
 34 HOUSE BILL 640
 
-1 (iii) Results from specific efforts to remove nutria; and
+1 (7) the Attorney General, or the Attorney General’s designee;
 
-2 (iv) An assessment of the success of the plan.]
+2 (8) the Public Defender, or the Public Defender’s designee;
 
-3 Article – State Finance and Procurement
+3 (9) the Secretary of Budget and Management, or the Secretary’s designee;
 
-4 14–410.
+4 (10) [the Secretary of Health, or the Secretary’s designee;
 
-5 (b) (1) There is a Maryland Green Purchasing Committee.
+5 (11)] the chair of the Local Government Justice Reinvestment Commission,
+6 or the chair’s designee;
 
-6 (2) The Committee shall consist of the following members:
+7 [(12)] (11) two members appointed by the Chief Justice of the Supreme
+8 Court of Maryland;
 
-7 (i) the Secretary of General Services, or the Secretary’s designee;
+9 [(13)] (12) the Secretary of Labor, or the Secretary’s designee;
 
-8 (ii) the Secretary of Budget and Management, or the Secretary’s
-9 designee;
+10 [(14)] (13) one member appointed by the Maryland Chiefs and Sheriffs
+11 Association;
 
-10 (iii) the Secretary of Natural Resources, or the Secretary’s designee;
+12 [(15)] (14) the president of the Maryland State’s Attorneys’ Association or
+13 the president’s designee;
 
-11 (iv) the Secretary of the Environment, or the Secretary’s designee;
+14 [(16)] (15) two members of the Maryland Correctional Administrators
+15 Association, appointed by the president of the Maryland Correctional Administrators
+16 Association, including one representative from a large correctional facility and one
+17 representative from a small correctional facility;
 
-12 (v) the Secretary of Health, or the Secretary’s designee;
+18 [(17)] (16) the president of the Maryland Association of Counties or the
+19 president’s designee; and
 
-13 (vi) [the Secretary of Commerce, or the Secretary’s designee;
+20 [(18)] (17) the following individuals, appointed by the Governor:
 
-14 (vii)] the Secretary of Transportation, or the Secretary’s designee;
+21 (i) one member representing victims of crime;
 
-15 [(viii)] (VII) the Secretary of Public Safety and Correctional Services,
-16 or the Secretary’s designee;
+22 (ii) one member representing law enforcement;
 
-17 [(ix)] (VIII) the Chancellor of the University System of Maryland, or
-18 the Chancellor’s designee;
+23 (iii) two local health officers; and
 
-19 [(x)] (IX) the Secretary of Information Technology, or the
-20 Secretary’s designee;
+24 (iv) one member with direct experience teaching incarcerated
+25 individuals in academic programs intended to achieve the goal of a high school diploma or
+26 general educational development certification.
 
-21 [(xi)] (X) the Secretary of Education, or the Secretary’s designee;
-22 and
+27 Article – Tax – General
 
-23 [(xii)] (XI) the State Treasurer, or the Treasurer’s designee.
-
-24 Article – State Government
-
-25 2–10A–15.
+28 10–738.
 END OF PAGE 34
 
 START OF PAGE 35
 HOUSE BILL 640 35
 
-1 (j) The Governor’s Interagency Council on Homelessness shall:
+1 (b) (1) Subject to the limitations of this section, a licensed physician may claim
+2 a credit against the State income tax in the amount stated on the tax credit certificate issued
+3 under subsection (c) of this section for the taxable year in which the licensed physician served
+4 without compensation as a physician preceptor in a preceptorship program authorized by
+5 an accredited medical school in the State and worked:
 
-2 (1) cooperate fully with the Committee;
+6 (i) a minimum of three rotations, each consisting of 100 hours of
+7 community–based clinical training; and
 
-3 (2) keep the Committee fully informed as to its priorities and progress; and
+8 (ii) in an area of the State identified as having a health care
+9 workforce shortage by the Department, in consultation with the Governor’s Workforce
+10 Development Board.
 
-4 (3) submit an annual report, subject to § 2–1257 of this title, to the
-5 Committee on or before [October 1] DECEMBER 15 of each year that includes:
+11 (d) On or before [January 31] MARCH 1 of each taxable year, the Department
+12 shall:
 
-6 (i) a description of the Council’s work;
+13 (1) report to the Comptroller on the tax credit certificates issued under this
+14 section during the prior taxable year; and
 
-7 (ii) a report on the Council’s priorities and progress; and
+15 (2) report to the General Assembly, in accordance with § 2–1257 of the State
+16 Government Article, on the utilization of the credit established under this section.
 
-8 (iii) recommendations for new laws, regulations, programs, services,
-9 and budgetary priorities that are needed to prevent, mitigate the effects of, and end
-10 homelessness in Maryland.
+17 10–739.
 
-11 9–3202.
+18 (b) (1) Subject to the limitations of this section, a nurse practitioner or licensed
+19 physician may claim a credit against the State income tax in the amount stated on the tax
+20 credit certificate issued under subsection (c) of this section for the taxable year in which the
+21 nurse practitioner or licensed physician served without compensation as a preceptor in a
+22 preceptorship program approved by the State Board of Nursing and worked:
 
-12 There is a Justice Reinvestment Oversight Board in the Governor’s Office of Crime
-13 Prevention and Policy.
+23 (i) a minimum of three rotations, each consisting of at least 90 hours
+24 of community–based clinical training; and
 
-14 9–3203.
+25 (ii) in an area of the State identified as having a health care
+26 workforce shortage by the Department, in consultation with the Governor’s Workforce
+27 Development Board.
 
-15 (a) The Board consists of the following members:
+28 (e) On or before [January 31] MARCH 1 each taxable year, the Department shall:
 
-16 (1) one member of the Senate of Maryland, appointed by the President of
-17 the Senate;
+29 (1) report to the Comptroller on the tax credit certificates issued under this
+30 section during the prior taxable year; and
 
-18 (2) one member of the House of Delegates, appointed by the Speaker of the
-19 House;
-
-20 (3) the Executive Director, or the Executive Director’s designee;
-
-21 (4) the Secretary of Public Safety and Correctional Services, or the
-22 Secretary’s designee;
-
-23 (5) the chair of the Maryland Parole Commission, or the chair’s designee;
-
-24 (6) the Secretary of State Police, or the Secretary’s designee;
-
-25 (7) the Attorney General, or the Attorney General’s designee;
-
-26 (8) the Public Defender, or the Public Defender’s designee;
-
-27 (9) the Secretary of Budget and Management, or the Secretary’s designee;
+31 (2) report to the General Assembly, in accordance with § 2–1257 of the State
+32 Government Article, on the utilization of the credit established under this section.
 END OF PAGE 35
 
 START OF PAGE 36
 36 HOUSE BILL 640
 
-1 (10) [the Secretary of Health, or the Secretary’s designee;
+1 10–752.
 
-2 (11)] the chair of the Local Government Justice Reinvestment Commission,
-3 or the chair’s designee;
+2 (b) (1) Subject to the limitations of this section, a health care practitioner may
+3 claim a credit against the State income tax in the amount stated on the tax credit certificate
+4 issued under subsection (c) of this section for the taxable year in which the health care
+5 practitioner served without compensation as a physician assistant preceptor in a
+6 preceptorship program approved by the Department and worked:
 
-4 [(12)] (11) two members appointed by the Chief Justice of the Supreme
-5 Court of Maryland;
+7 (i) a minimum of three rotations, each consisting of at least 100
+8 hours of community–based clinical training in family medicine, general internal medicine,
+9 or general pediatrics; and
 
-6 [(13)] (12) the Secretary of Labor, or the Secretary’s designee;
+10 (ii) in an area of the State identified as having a health care
+11 workforce shortage by the Department, in consultation with the Governor’s Workforce
+12 Development Board.
 
-7 [(14)] (13) one member appointed by the Maryland Chiefs and Sheriffs
-8 Association;
+13 (e) On or before [January 31] MARCH 1 each taxable year, the Department shall:
 
-9 [(15)] (14) the president of the Maryland State’s Attorneys’ Association or
-10 the president’s designee;
+14 (1) report to the Comptroller on the tax credit certificates issued under this
+15 section during the prior taxable year; and
 
-11 [(16)] (15) two members of the Maryland Correctional Administrators
-12 Association, appointed by the president of the Maryland Correctional Administrators
-13 Association, including one representative from a large correctional facility and one
-14 representative from a small correctional facility;
+16 (2) report to the General Assembly, in accordance with § 2–1257 of the State
+17 Government Article, on the utilization of the credit established under this section.
 
-15 [(17)] (16) the president of the Maryland Association of Counties or the
-16 president’s designee; and
+18 Article – Transportation
 
-17 [(18)] (17) the following individuals, appointed by the Governor:
+19 2–606.
 
-18 (i) one member representing victims of crime;
+20 (a) The Governor shall appoint a Bicycle and Pedestrian Advisory Committee to
+21 provide guidance to State agencies concerning:
 
-19 (ii) one member representing law enforcement;
+22 (1) Funding of bicycle and pedestrian related programs;
 
-20 (iii) two local health officers; and
+23 (2) Public education and awareness of bicycling and pedestrian related
+24 activities;
 
-21 (iv) one member with direct experience teaching incarcerated
-22 individuals in academic programs intended to achieve the goal of a high school diploma or
-23 general educational development certification.
+25 (3) Public education and awareness of bicycling and pedestrian safety; and
 
-24 Article – Tax – General
+26 (4) Any other issue directly related to bicycling and pedestrians.
 
-10–738.
+27 (b) The Committee shall consist of the following:
 
-(b) (1) Subject to the limitations of this section, a licensed physician may
-claim a credit against the State income tax in the amount stated on the tax credit
-certificate issued under subsection (c) of this section for the taxable year in which the
-licensed physician served without compensation as a physician preceptor in a
-preceptorship program authorized by an accredited medical school in the State and
-worked:
+28 (1) One representative each from:
 
-(i) a minimum of three rotations, each consisting of 100 hours
-of community–based clinical training; and
-
-(ii) in an area of the State identified as having a health care
-workforce shortage by the Department, in consultation with the Governor’s Workforce
-Development Board.
-
-(d) On or before [January 31] MARCH 1 of each taxable year, the
-Department shall:
-
-(1) report to the Comptroller on the tax credit certificates issued under
-this section during the prior taxable year; and
-
-(2) report to the General Assembly, in accordance with § 2–1257 of the
-State Government Article, on the utilization of the credit established under this
-section.
-
-10–739.
-
-(b) (1) Subject to the limitations of this section, a nurse practitioner or
-licensed physician may claim a credit against the State income tax in the amount
-stated on the tax credit certificate issued under subsection (c) of this section for the
-taxable year in which the nurse practitioner or licensed physician served without
-compensation as a preceptor in a preceptorship program approved by the State Board
-of Nursing and worked:
-
-(i) a minimum of three rotations, each consisting of at least 90
-hours of community–based clinical training; and
-
-(ii) in an area of the State identified as having a health care
-workforce shortage by the Department, in consultation with the Governor’s Workforce
-Development Board.
-
-(e) On or before [January 31] MARCH 1 each taxable year, the Department
-shall:
-
-(1) report to the Comptroller on the tax credit certificates issued under
-this section during the prior taxable year; and
-
-(2) report to the General Assembly, in accordance with § 2–1257 of the
-State Government Article, on the utilization of the credit established under this
-section.
-
-10–752.
-
-(b) (1) Subject to the limitations of this section, a health care practitioner
-may claim a credit against the State income tax in the amount stated on the tax credit
-certificate issued under subsection (c) of this section for the taxable year in which the
-health care practitioner served without compensation as a physician assistant
-preceptor in a preceptorship program approved by the Department and worked:
-
-(i) a minimum of three rotations, each consisting of at least 100
-hours of community–based clinical training in family medicine, general internal
-medicine, or general pediatrics; and
-
-(ii) in an area of the State identified as having a health care
-workforce shortage by the Department, in consultation with the Governor’s Workforce
-Development Board.
-
-(e) On or before [January 31] MARCH 1 each taxable year, the Department
-shall:
-
-(1) report to the Comptroller on the tax credit certificates issued under
-this section during the prior taxable year; and
-
-(2) report to the General Assembly, in accordance with § 2–1257 of the
-State Government Article, on the utilization of the credit established under this
-section.
-
-Article – Transportation
-
-25 2–606.
-
-26 (a) The Governor shall appoint a Bicycle and Pedestrian Advisory Committee to
-27 provide guidance to State agencies concerning:
-
-28 (1) Funding of bicycle and pedestrian related programs;
+29 (i) The Department of Transportation;
 END OF PAGE 36
 
 START OF PAGE 37
 HOUSE BILL 640 37
 
-1 (2) Public education and awareness of bicycling and pedestrian related
-2 activities;
+1 (ii) The Department of Natural Resources;
 
-3 (3) Public education and awareness of bicycling and pedestrian safety; and
+2 (iii) [The State Department of Education;
 
-4 (4) Any other issue directly related to bicycling and pedestrians.
+3 (iv)] The Department of State Police;
 
-5 (b) The Committee shall consist of the following:
+4 [(v)] (IV) The Department of Commerce;
 
-6 (1) One representative each from:
+5 [(vi)] (V) The Maryland Department of Health;
 
-7 (i) The Department of Transportation;
+6 [(vii)] (VI) The Department of Planning;
 
-8 (ii) The Department of Natural Resources;
+7 [(viii)] (VII) The Department of Disabilities; and
 
-9 (iii) [The State Department of Education;
+8 [(ix)] (VIII) The Maryland–National Capital Park and Planning
+9 Commission;
 
-10 (iv)] The Department of State Police;
+10 (2) One citizen member from each of the following areas:
 
-11 [(v)] (IV) The Department of Commerce;
+11 (i) The Eastern Shore;
 
-12 [(vi)] (V) The Maryland Department of Health;
+12 (ii) Western Maryland; and
 
-13 [(vii)] (VI) The Department of Planning;
+13 (iii) Southern Maryland;
 
-14 [(viii)] (VII) The Department of Disabilities; and
+14 (3) Two citizen members from each of the following areas:
 
-15 [(ix)] (VIII) The Maryland–National Capital Park and Planning
-16 Commission;
+15 (i) The Baltimore metropolitan area; and
 
-17 (2) One citizen member from each of the following areas:
+16 (ii) The Washington metropolitan area; and
 
-18 (i) The Eastern Shore;
+17 (4) Up to six citizen members selected to represent the interests of
+18 bicyclists, pedestrians, and the disabled community to include:
 
-19 (ii) Western Maryland; and
+19 (i) A representative of individuals who are visually impaired; and
 
-20 (iii) Southern Maryland;
+20 (ii) A representative of individuals who are mobility impaired.
 
-21 (3) Two citizen members from each of the following areas:
+21 SECTION 7. AND BE IT FURTHER ENACTED, That Section(s) 10–201(c)
+22 through (h) of Article – Criminal Procedure of the Annotated Code of Maryland be
+23 renumbered to be Section(s) 10–201(b) through (g), respectively.
 
-22 (i) The Baltimore metropolitan area; and
-
-23 (ii) The Washington metropolitan area; and
-
-24 (4) Up to six citizen members selected to represent the interests of
-25 bicyclists, pedestrians, and the disabled community to include:
+24 SECTION 8. AND BE IT FURTHER ENACTED, That Section(s) 5–706(m)
+25 through (u) of Article – Family Law of the Annotated Code of Maryland be renumbered to
+26 be Section(s) 5–706(l) through (t), respectively.
 END OF PAGE 37
 
 START OF PAGE 38
 38 HOUSE BILL 640
 
-1 (i) A representative of individuals who are visually impaired; and
+1 SECTION 9. AND BE IT FURTHER ENACTED, That:
 
-2 (ii) A representative of individuals who are mobility impaired.
+2 (a) The terms of the members of the Maryland Life Sciences Advisory Board
+3 appointed by the Governor under § 3–203(a)(3) of the Economic Development Article shall
+4 expire as follows:
 
-3 Chapter 2 of the Acts of the Special Session of 2007
+5 (1) the terms of the five longest–serving appointed members serving on
+6 June 30, 2027, shall terminate on that date;
 
-4 [SECTION 13. AND BE IT FURTHER ENACTED, That:
+7 (2) the terms of the five longest–serving appointed members serving on
+8 June 30, 2028, shall terminate on that date; and
 
-5 (a) The Geographic Cost of Education Index (GCEI) Adjustment established in §
-6 5–202(f) of the Education Article shall be updated every 3 years beginning September 2009
-7 using the most current data available and the same methodology set forth in the report
-8 entitled “Adjusting for Geographic Differences in the Cost of Education provision in
-9 Maryland (December 31, 2003).”
+9 (3) the terms of the six longest–serving appointed members serving on
+10 June 30, 2029, shall terminate on that date.
 
-10 (b) The State Department of Education shall:
+11 (b) If there are more members of the Board whose length of service would qualify
+12 that member for the termination of the member’s term under subsection (a) of this section,
+13 the members whose terms are subject to termination shall be selected by randomized
+14 lottery from all those who qualify and the term of the members selected in the lottery shall
+15 terminate on the date listed under subsection (a) of this section.
 
-11 (1) submit the proposed updated GCEI Adjustment to the Governor and
-12 the General Assembly, in accordance with § 2–1246 of the State Government Article, by
-13 September 1 of the year in which it is updated; and
-
-14 (2) recommend legislation in the first legislative session following
-15 submission of the updated GCEI Adjustment that codifies the adjustment and requires that
-16 the GCEI adjustment be used to adjust State aid in the fiscal year that begins on July 1 of
-17 that year.]
-
-18 SECTION 7. AND BE IT FURTHER ENACTED, That Section(s) 10–201(c) through
-19 (h) of Article – Criminal Procedure of the Annotated Code of Maryland be renumbered to
-20 be Section(s) 10–201(b) through (g), respectively.
-
-21 SECTION 8. AND BE IT FURTHER ENACTED, That Section(s) 5–706(m) through
-22 (u) of Article – Family Law of the Annotated Code of Maryland be renumbered to be
-23 Section(s) 5–706(l) through (t), respectively.
-
-24 SECTION 9. AND BE IT FURTHER ENACTED, That:
-
-25 (a) The terms of the members of the Maryland Life Sciences Advisory Board
-26 appointed by the Governor under § 3–203(a)(3) of the Economic Development Article shall
-27 expire as follows:
-
-28 (1) the terms of the five longest–serving appointed members serving on
-29 June 30, 2027, shall terminate on that date;
-
-30 (2) the terms of the five longest–serving appointed members serving on
-31 June 30, 2028, shall terminate on that date; and
+16 SECTION 10. AND BE IT FURTHER ENACTED, That this Act shall take effect
+17 July 1, 2026.
 END OF PAGE 38
-
-START OF PAGE 39
-HOUSE BILL 640 39
-
-1 (3) the terms of the six longest–serving appointed members serving on
-2 June 30, 2029, shall terminate on that date.
-
-3 (b) If there are more members of the Board whose length of service would qualify
-4 that member for the termination of the member’s term under subsection (a) of this section,
-5 the members whose terms are subject to termination shall be selected by randomized
-6 lottery from all those who qualify and the term of the members selected in the lottery shall
-7 terminate on the date listed under subsection (a) of this section.
-
-8 SECTION 10. AND BE IT FURTHER ENACTED, That this Act shall take effect
-9 July 1, 2026.
-
-Approved:
-
-________________________________________________________________________________
-Governor.
-
-________________________________________________________________________________
-Speaker of the House of Delegates.
-
-________________________________________________________________________________
-President of the Senate.
-END OF PAGE 39</bill>
+</bill>
