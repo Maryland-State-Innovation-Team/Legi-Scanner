@@ -46497,8 +46497,8 @@
   },
   "HB0563": {
     "first_seen": "2026-02-06T19:33:11.463358",
-    "last_updated": "2026-04-12T05:43:15.532609",
-    "last_seen": "2026-04-12T05:43:15.532609",
+    "last_updated": "2026-05-12T18:23:07.944275",
+    "last_seen": "2026-05-12T18:23:07.944275",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -46509,81 +46509,87 @@
       "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0563_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill repeals the existing felony charge for intentionally harming law enforcement animals and replaces it with a set of misdemeanor offenses for harassing, interfering with, injuring, or killing an 'emergency response animal.' These animals are defined as dogs or horses used by law enforcement units or in search and rescue efforts directed by State or local agencies. The bill establishes specific criminal penalties for these acts, ranging from one to five years of imprisonment and fines up to $10,000, and includes an affirmative defense regarding actions taken in response to violations of the Maryland Use of Force Statute.",
+      "bill_summary": "This bill redefines and expands legal protections for animals used by law enforcement and search and rescue teams. It replaces the existing felony charge for harming a law enforcement animal with several misdemeanor charges for intentionally harassing, interfering with, injuring, or killing an 'emergency response animal,' which specifically includes dogs and horses. The bill also establishes specific penalties for these actions, including enhanced penalties if the acts occur during the commission of another crime, while providing legal defenses for necessity or protection against excessive force.",
       "start_year": 2026,
       "end_year": null,
       "funding": null,
-      "responsible_party": "Maryland law enforcement units and the Maryland Judiciary",
-      "stakeholders": "Law enforcement agencies, search and rescue personnel, emergency response animals (dogs and horses), and individuals subject to criminal prosecution under these statutes.",
-      "fiscal_impact_summary": "State and local finances are not expected to be materially affected by the bill. Although the bill reclassifies certain crimes from felonies to misdemeanors, which may shift cases from circuit courts to the District Court, the Judiciary reports a historically low volume of such convictions. Any changes in fine revenue or incarceration costs are expected to be negligible.",
+      "responsible_party": "Maryland Judiciary, Department of Public Safety and Correctional Services, and State and local law enforcement units",
+      "stakeholders": "Law enforcement officers, search and rescue personnel, handlers of emergency response dogs and horses, and the general public.",
+      "fiscal_impact_summary": "According to the Fiscal Note, the bill is not expected to materially affect State or local government finances. The reclassification of certain crimes from felonies to misdemeanors may shift some cases from circuit courts to the District Court, but the volume of such cases is historically low. No specific dollar estimates for revenue or expenditure changes were provided.",
       "agency_relevance": [
         {
           "agency_name": "Maryland State Police",
           "is_relevant": true,
-          "relevance_explanation": "The Maryland State Police is the primary law enforcement agency for the state and maintains specialized K-9 and equine units. The bill directly relates to the protection of these animals and the prosecution of crimes committed against them.",
+          "relevance_explanation": "As the primary statewide law enforcement agency, the Maryland State Police utilizes K9 units and other animals in its operations. The bill directly protects these 'emergency response animals' and regulates the legal defenses available to individuals who may interfere with or harm them.",
           "relevance_rating": 5
         },
         {
-          "agency_name": "Administrative Office of the Courts",
+          "agency_name": "Department of Emergency Management",
           "is_relevant": true,
-          "relevance_explanation": "The fiscal note identifies that the bill changes the classification of offenses related to law enforcement animals from felonies to misdemeanors, which will shift cases from Circuit Courts to the District Court system managed by the AOC.",
+          "relevance_explanation": "The bill's definition of 'emergency response animal' specifically includes search and rescue dogs and horses directed by a State agency to locate or rescue individuals, a function often coordinated or supported by MDEM.",
           "relevance_rating": 4
         },
         {
           "agency_name": "Department of Natural Resources",
           "is_relevant": true,
-          "relevance_explanation": "The DNR oversees the Natural Resources Police and public lands where search and rescue animals are frequently utilized. The bill specifically includes search and rescue dogs and horses in its protections.",
+          "relevance_explanation": "The Maryland Natural Resources Police, a unit within DNR, utilizes K9s for law enforcement and search and rescue efforts in state parks and waterways, both of which are covered by the bill's expanded protections.",
           "relevance_rating": 4
         },
         {
-          "agency_name": "Department of Emergency Management",
+          "agency_name": "Administrative Office of the Courts",
           "is_relevant": true,
-          "relevance_explanation": "The bill defines 'emergency response animal' to include dogs and horses used in search and rescue efforts directed by a State agency. As the lead agency for coordinating disaster response and hazard mitigation, MDEM is relevant to the direction of these assets.",
-          "relevance_rating": 4
+          "relevance_explanation": "The bill repeals a felony and replaces it with several specific misdemeanors, which impacts court jurisdiction, caseloads, and the processing of criminal charges within the Maryland Judicial Branch.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Maryland Office of the Public Defender",
+          "is_relevant": true,
+          "relevance_explanation": "The creation of new misdemeanor offenses and the modification of existing penalties for actions against emergency response animals will directly impact the caseload and defense strategies of public defenders representing indigent clients.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Department of Public Safety and Correctional Services",
           "is_relevant": true,
-          "relevance_explanation": "This agency oversees correctional facilities and the Division of Parole and Probation. The bill establishes new misdemeanor penalties and sentencing guidelines that will affect individuals under the department's supervision.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Office of the Attorney General",
-          "is_relevant": true,
-          "relevance_explanation": "The OAG serves as the chief legal representative for the state and provides counsel to state agencies on criminal law and the interpretation of the 'Maryland Use of Force Statute' cited in the bill's affirmative defense provision.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Governor's Office",
-          "is_relevant": true,
-          "relevance_explanation": "The Governor's Office oversees the executive branch, including law enforcement agencies, and the Governor must sign this bill into law as an enrolled act.",
+          "relevance_explanation": "DPSCS utilizes K9 units for security within correctional facilities. Furthermore, the bill's changes to criminal penalties for animal cruelty and the potential for incarceration in state or local facilities affect the department's oversight of justice-involved individuals.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Department of Transportation",
           "is_relevant": true,
-          "relevance_explanation": "MDOT oversees modal administrations such as the Maryland Transit Administration and the Maryland Transportation Authority, both of which operate police forces that utilize law enforcement animals covered by the bill.",
+          "relevance_explanation": "MDOT oversees the Maryland Transportation Authority (MDTA) Police and the Transit Police, both of which utilize K9 units for security and law enforcement at toll facilities and transit hubs.",
           "relevance_rating": 3
         },
         {
-          "agency_name": "Maryland Transportation Authority",
+          "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The MDTA maintains its own nationally accredited police force which uses K-9 units for security and enforcement on state toll facilities, making the bill's protections directly relevant to their operations.",
-          "relevance_rating": 3
+          "relevance_explanation": "The OAG provides legal counsel to state law enforcement agencies and represents the state in criminal appeals, including those involving the newly established misdemeanor offenses.",
+          "relevance_rating": 2
         },
         {
           "agency_name": "Governor's Office of Crime Prevention and Policy",
           "is_relevant": true,
-          "relevance_explanation": "This office advises the Governor on criminal justice strategies and public safety. The creation of new criminal penalties and the restructuring of laws regarding emergency response animals fall within its policy oversight role.",
-          "relevance_rating": 3
+          "relevance_explanation": "GOCPP serves as the primary coordinating body for public safety and criminal justice strategies, and this bill modifies criminal law regarding the protection of law enforcement and emergency response assets.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Agriculture",
+          "is_relevant": true,
+          "relevance_explanation": "The MDA oversees programs related to animal health and is the lead agency for general agricultural leadership, though its primary focus is not criminal law enforcement.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Governor's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The Governor must sign the bill into law and oversees the executive branch departments (like MSP and MDEM) that employ these emergency response animals.",
+          "relevance_rating": 1
         }
       ]
     },
-    "amended_status": "amended",
+    "amended_status": "original",
     "amend_input_hash": "73dcdd627f24f9c28cd8d9c98382a216cf27f3af5a8e9d34c45a9c360cc97cbc",
-    "qa_input_hash": "6087240f20ca46377777cc28c34fac372d3491c746d5f874eb4ed2fda1a4107a",
-    "last_updated_local": "2026-04-12T06:13:31.789768",
-    "bill_hash": "3afdb98a63492f1b59731321df5380bb"
+    "qa_input_hash": "c35a0b4efd4aaf74bd95bf4b33452b4aacbdd7bc0f26b9d3d78690d0a86fdda3",
+    "last_updated_local": "2026-05-12T18:23:42.867034",
+    "bill_hash": "2666d70c2700153efd03ed9a846c242f"
   },
   "HB0564": {
     "first_seen": "2026-02-06T19:33:12.042909",
@@ -47027,62 +47033,75 @@
   },
   "HB0570": {
     "first_seen": "2026-02-06T19:33:15.401215",
-    "last_updated": "2026-02-06T19:33:15.994448",
-    "last_seen": "2026-02-06T19:33:15.994448",
+    "last_updated": "2026-05-12T18:23:08.596207",
+    "last_seen": "2026-05-12T18:23:08.596207",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
-      "bill_pdf": "C:\\git\\Legi-Scanner\\data\\2026rs\\pdf\\HB0570.pdf",
-      "amendments": []
+      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0570.pdf",
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0570_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill permits individuals to apply for foster parent approval in their home county or an adjacent county and prohibits local social services departments from denying applications solely due to residency in an adjacent county. It also mandates quarterly reporting by local departments to the Maryland Department of Human Services regarding children awaiting placement and available foster care capacity.",
+      "bill_summary": "This bill allows individuals to apply to be approved as foster parents by the local department of social services in their county of residence or any adjacent county. It prohibits local departments from denying applications based on residency if the applicant lives in an adjacent county and requires each local department to submit quarterly reports to the Department of Human Services regarding the number of children waiting for placement and the number of vacant foster care placements available.",
       "start_year": 2026,
       "end_year": null,
-      "funding": null,
-      "responsible_party": "Maryland Department of Human Services and local departments of social services",
+      "funding": 40000,
+      "responsible_party": "Maryland Department of Human Services",
       "stakeholders": "Prospective foster parents, children in the foster care system, and local departments of social services.",
-      "fiscal_impact_summary": "The bill requires local departments to process foster care applications from adjacent counties and submit quarterly reports on placement availability. These requirements likely involve administrative costs for the Department of Human Services and local jurisdictions, but specific fiscal estimates are not available as the Fiscal Note was not provided in the text.",
+      "fiscal_impact_summary": "State general fund expenditures are expected to increase by $40,000 in FY 2027 for one-time programming costs to implement reporting requirements. The Department of Human Services (DHS) further estimates an annual cost of approximately $5,300,000 for 48 additional staff members to manage workloads across adjacent jurisdictions, although the Department of Legislative Services notes these workload increases are dependent on actual applicant volume and could not independently verify the staffing requirement. The bill is not anticipated to materially affect local government finances.",
       "agency_relevance": [
         {
           "agency_name": "Department of Human Services",
           "is_relevant": true,
-          "relevance_explanation": "The bill directly impacts the Department of Human Services (DHS) as it is the primary agency responsible for overseeing foster care and the local departments of social services. DHS will be responsible for receiving and potentially managing the new quarterly reports required from local jurisdictions.",
+          "relevance_explanation": "As the primary agency responsible for child welfare and the oversight of local departments of social services, DHS is the lead agency for implementing the new foster parent application residency rules and managing the required quarterly reporting on placements.",
           "relevance_rating": 5
         },
         {
-          "agency_name": "Administrative Office of the Courts",
+          "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "The judiciary plays a critical role in the oversight of children in foster care. Changes to foster care placement availability and the application process for foster parents directly influence case planning and placement decisions handled by the courts.",
-          "relevance_rating": 2
+          "relevance_explanation": "The fiscal note estimates a potential significant increase in general fund expenditures ($5.3 million) and the addition of 48 staff positions, which falls under DBM's responsibility for budget development and personnel management.",
+          "relevance_rating": 3
         },
         {
-          "agency_name": "Department of Health",
+          "agency_name": "Department of Education",
           "is_relevant": true,
-          "relevance_explanation": "In Montgomery County, the 'local department' referenced in the bill is specifically defined as the county department of health and human services. As MDH oversees local health departments and health-related social services, this bill impacts the operations and reporting requirements within its jurisdictional network.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Office of the Attorney General",
-          "is_relevant": true,
-          "relevance_explanation": "The OAG provides legal counsel to the Department of Human Services and the General Assembly. They would likely be involved in reviewing the new regulations and reporting requirements to ensure compliance with state and federal laws regarding foster care.",
+          "relevance_explanation": "The fiscal note identifies potential impacts on school transportation for foster children who may be placed in homes in adjacent counties, which affects local school systems overseen by MSDE.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Governor's Office for Children",
           "is_relevant": true,
-          "relevance_explanation": "The Governor's Office for Children is focused on the well-being of Maryland's children and families. Policies that expand the pool of potential foster parents and increase transparency regarding children waiting for placement align with the office's core mission.",
+          "relevance_explanation": "The bill's focus on improving foster care placement and supporting children waiting for homes aligns with the GOC's mission to promote the well-being of Maryland's children and coordinate support networks.",
           "relevance_rating": 2
+        },
+        {
+          "agency_name": "Office of the Attorney General",
+          "is_relevant": true,
+          "relevance_explanation": "The OAG provides legal counsel to state agencies like DHS and would be responsible for advising on the implementation of the new residency requirements and related regulatory updates.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Administrative Office of the Courts",
+          "is_relevant": true,
+          "relevance_explanation": "Foster care placements are often the result of juvenile court commitments; changes in application and placement procedures may impact court-related case management and coordination.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Governor's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The Governor's Office oversees the executive branch and proposes the annual state budget, which would need to reflect the significant fiscal impact and staffing increases identified for this bill.",
+          "relevance_rating": 1
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "cdf529f840d9a8afe1db8f8e07b53cc38fcf0e087cfb5414c2afeee638c5d59b",
-    "last_updated_local": "2026-02-07T02:50:47.277508",
-    "bill_hash": "616aa4b2a900643b9ad087ef34bb5d37"
+    "qa_input_hash": "25773d1189dfbc4d158f164257f164a8742c807f9b50da1a11d65e108fa713a1",
+    "last_updated_local": "2026-05-12T18:23:50.962204",
+    "bill_hash": "a8bd87679d112d6bd6defce7df3c0b6a"
   },
   "HB0571": {
     "first_seen": "2026-02-06T19:33:16.140956",
@@ -47164,8 +47183,8 @@
   },
   "HB0572": {
     "first_seen": "2026-02-06T19:33:16.696863",
-    "last_updated": "2026-02-10T06:11:01.326121",
-    "last_seen": "2026-02-10T06:11:01.326121",
+    "last_updated": "2026-05-12T18:23:09.492297",
+    "last_seen": "2026-05-12T18:23:09.492297",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -47261,8 +47280,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "3a517dc5471c79ea5ab76c1699767cfe87ad148499f1fd3f13eaf7bebb7e21ad",
-    "last_updated_local": "2026-02-10T06:22:49.558566",
-    "bill_hash": "78962da9b5dbfe16927279a334e9d517"
+    "last_updated_local": "2026-05-12T18:23:17.422064",
+    "bill_hash": "c63a87d6f752237ea71cf5f9306384c9"
   },
   "HB0573": {
     "first_seen": "2026-02-06T19:33:17.316634",
@@ -61244,8 +61263,8 @@
   },
   "HB0752": {
     "first_seen": "2026-02-06T19:35:02.689869",
-    "last_updated": "2026-04-14T05:44:09.917629",
-    "last_seen": "2026-04-14T05:44:09.917629",
+    "last_updated": "2026-05-12T18:23:10.201092",
+    "last_seen": "2026-05-12T18:23:10.201092",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -61311,8 +61330,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "af97b0b229f8ce1a9aa03b02377b22b790e332def619e5af639a6c3a1c2fcbf4",
-    "last_updated_local": "2026-04-14T06:10:50.716935",
-    "bill_hash": "483586e7f864d61f5094d02061d734d3"
+    "last_updated_local": "2026-05-12T18:23:16.929743",
+    "bill_hash": "008b82ed2fd90e2e614d987d92c4148c"
   },
   "HB0753": {
     "first_seen": "2026-02-06T19:35:03.168833",
@@ -83351,8 +83370,8 @@
   },
   "SB0010": {
     "first_seen": "2026-02-06T19:37:47.386957",
-    "last_updated": "2026-04-14T05:45:53.598129",
-    "last_seen": "2026-04-14T05:45:53.598129",
+    "last_updated": "2026-05-12T18:23:11.720265",
+    "last_seen": "2026-05-12T18:23:11.720265",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -83430,8 +83449,8 @@
     "amended_status": "original",
     "amend_input_hash": "93c113f4866e68a56b6e46d5cd20bf03dfeaf6abb7bfee90189e8ad90caedd48",
     "qa_input_hash": "b493fa52e76930c298bcf50e6a8a3ad72cc309b652226711e329d4a1f5fc0d86",
-    "last_updated_local": "2026-04-14T06:46:42.703602",
-    "bill_hash": "5b5f61c76c5ceb08e6a873b639223c24"
+    "last_updated_local": "2026-05-12T18:23:18.762273",
+    "bill_hash": "3804ec14d9f81c1d144bcc075680aa7e"
   },
   "SB0013": {
     "first_seen": "2026-02-06T19:37:48.260182",
@@ -84100,8 +84119,8 @@
   },
   "SB0068": {
     "first_seen": "2026-02-06T19:37:55.103831",
-    "last_updated": "2026-04-14T05:45:56.852981",
-    "last_seen": "2026-04-14T05:45:56.852981",
+    "last_updated": "2026-05-12T18:23:12.469064",
+    "last_seen": "2026-05-12T18:23:12.469064",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -84155,8 +84174,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "04e41eac1e5051f57a86e4273beb442ae3cb9046007bf832bd04557a8c6c9f8e",
-    "last_updated_local": "2026-04-14T06:46:46.316956",
-    "bill_hash": "90d2dedfa18a3842fc378c7b6e121e0c"
+    "last_updated_local": "2026-05-12T18:23:19.902351",
+    "bill_hash": "da530d9a53be4ab1b55db7a90ad3c576"
   },
   "SB0073": {
     "first_seen": "2026-02-06T19:37:56.891465",
@@ -90053,16 +90072,16 @@
   },
   "SB0465": {
     "first_seen": "2026-02-06T19:39:03.416600",
-    "last_updated": "2026-04-08T17:05:03.693241",
-    "last_seen": "2026-04-08T17:05:03.693241",
+    "last_updated": "2026-05-12T18:23:13.184355",
+    "last_seen": "2026-05-12T18:23:13.184355",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
-      "bill_pdf": "C:\\git\\Legi-Scanner\\data\\2026rs\\pdf\\SB0465.pdf",
+      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/SB0465.pdf",
       "amendments": [],
-      "fiscal_note": "C:\\git\\Legi-Scanner\\data\\2026rs\\pdf\\SB0465_fn.pdf"
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/SB0465_fn.pdf"
     },
     "qa_results": {
       "bill_summary": "This bill expands a hearsay rule exception to include criminal trials for assault in the second degree. It allows a witness's out-of-court statement to be admitted as evidence if the court finds that the defendant's wrongdoing caused the witness to be unavailable to testify, provided specific procedural requirements and reliability standards are met.",
@@ -90102,8 +90121,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "9bc7d7de045d08668b0eda5062f61aae42ae4fd9a0bfb65a43ec67c5f6454626",
-    "last_updated_local": "2026-04-08T20:06:56.945533",
-    "bill_hash": "2bfade3d2e9a32bf80893c040615fc43"
+    "last_updated_local": "2026-05-12T18:23:19.569827",
+    "bill_hash": "f6c087c516e21e6e71a459418cc2c46e"
   },
   "SB0476": {
     "first_seen": "2026-02-06T19:39:03.966812",
@@ -101853,8 +101872,8 @@
   },
   "SB0775": {
     "first_seen": "2026-02-11T06:08:10.955070",
-    "last_updated": "2026-04-14T05:46:17.405387",
-    "last_seen": "2026-04-14T05:46:17.405387",
+    "last_updated": "2026-05-12T18:23:14.057656",
+    "last_seen": "2026-05-12T18:23:14.057656",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -101920,8 +101939,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "87dffd4d5e109470423bd96c3a9bf58aa1bd2e7e0fff5cc66f9df6e8ff474c6a",
-    "last_updated_local": "2026-04-14T06:51:06.307992",
-    "bill_hash": "a4a0a61c381633ef63985eee3478a4eb"
+    "last_updated_local": "2026-05-12T18:23:27.085498",
+    "bill_hash": "2e28515c45d5661c350a161e4a242d0a"
   },
   "SB0784": {
     "first_seen": "2026-02-11T06:08:14.428759",
@@ -103149,8 +103168,8 @@
   },
   "SB0841": {
     "first_seen": "2026-02-11T06:08:36.582617",
-    "last_updated": "2026-04-14T05:46:18.461148",
-    "last_seen": "2026-04-14T05:46:18.461148",
+    "last_updated": "2026-05-12T18:23:14.987557",
+    "last_seen": "2026-05-12T18:23:14.987557",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -103312,8 +103331,8 @@
     "amended_status": "original",
     "amend_input_hash": "bb6d8f195a2c849a5a0fb42d3dd717e05f8de30788a054c30fd4d74dfd1a074f",
     "qa_input_hash": "14bbdb41c323a06ee319d05aadef9b44de6520ca1054fffc4dc4dc6cb208fdea",
-    "last_updated_local": "2026-04-14T06:52:22.724300",
-    "bill_hash": "1872c6dc1c29240b20a87a01001fccae"
+    "last_updated_local": "2026-05-12T18:23:45.016656",
+    "bill_hash": "a677ea2d31b8b689057d80675c480e9b"
   },
   "SB0844": {
     "first_seen": "2026-02-11T06:08:37.867575",
@@ -144416,8 +144435,8 @@
   },
   "HB1550": {
     "first_seen": "2026-02-14T05:48:41.859441",
-    "last_updated": "2026-03-13T05:45:36.053332",
-    "last_seen": "2026-03-13T05:45:36.053332",
+    "last_updated": "2026-05-12T18:23:11.003965",
+    "last_seen": "2026-05-12T18:23:11.003965",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -144651,8 +144670,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "b7602a7b5cd6c56bfc5247ac13e607d86de9ad44cd29100c5039696b23eb19c6",
-    "last_updated_local": "2026-03-13T06:23:04.834432",
-    "bill_hash": "74d30c7786d11ee73afd3286db7231f2"
+    "last_updated_local": "2026-05-12T18:23:19.092196",
+    "bill_hash": "fe6a0c7992f9021319cf542abf1a405e"
   },
   "HB1551": {
     "first_seen": "2026-02-14T05:48:42.669032",
