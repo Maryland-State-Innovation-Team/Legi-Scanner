@@ -11818,15 +11818,15 @@
   },
   "HB0140": {
     "first_seen": "2026-02-06T19:23:34.852611",
-    "last_updated": "2026-02-06T19:23:35.643611",
-    "last_seen": "2026-02-06T19:23:35.643611",
+    "last_updated": "2026-05-19T06:23:57.772215",
+    "last_seen": "2026-05-19T06:23:57.772215",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
-      "fiscal_note": "C:\\git\\Legi-Scanner\\data\\2026rs\\pdf\\HB0140_fn.pdf",
-      "bill_pdf": "C:\\git\\Legi-Scanner\\data\\2026rs\\pdf\\HB0140.pdf",
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0140_fn.pdf",
+      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0140.pdf",
       "amendments": []
     },
     "qa_results": {
@@ -11879,8 +11879,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "f1be8b6be206c2ec4ec5e56ffb0d0916ebd46b5c8c2d7b9d5cda479654ed1290",
-    "last_updated_local": "2026-02-06T21:23:35.118581",
-    "bill_hash": "554a531262558d61984da83e7e84439f"
+    "last_updated_local": "2026-05-19T06:24:04.416489",
+    "bill_hash": "1258e1471d0ab2fb39dda9c85d5de6d0"
   },
   "HB0141": {
     "first_seen": "2026-02-06T19:23:35.684617",
@@ -22983,8 +22983,8 @@
   },
   "HB0270": {
     "first_seen": "2026-02-06T19:30:17.751570",
-    "last_updated": "2026-04-29T06:00:56.020879",
-    "last_seen": "2026-04-29T06:00:56.020879",
+    "last_updated": "2026-05-19T06:23:58.494669",
+    "last_seen": "2026-05-19T06:23:58.494669",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -22995,93 +22995,99 @@
       "amendments": []
     },
     "qa_results": {
-      "bill_summary": "The Military Family Inclusion Act modifies the membership requirements of several Maryland state boards and commissions\u2014specifically the Maryland Commission on Caregiving, the Maryland Veterans Trust Board of Trustees, the Maryland Veterans Commission, and the Maryland Youth Advisory Council\u2014to ensure representation for military families, caregivers of service-disabled veterans, and youth with immediate family members in the military. It also updates the criteria for organizations to maintain representation on the Maryland Veterans Commission.",
+      "bill_summary": "The Military Family Inclusion Act expands representation for military families on several state boards and commissions, including the Maryland Commission on Caregiving, the Board of Trustees of the Maryland Veterans Trust, the Maryland Veterans Commission, and the Maryland Youth Advisory Council. Key changes include adding seats for caregivers of service-disabled veterans and military-connected youth, and updating the criteria and removal procedures for organizations represented on the Maryland Veterans Commission.",
       "start_year": 2026,
       "end_year": null,
-      "funding": 0,
+      "funding": null,
       "responsible_party": "Maryland Department of Veterans and Military Families",
-      "stakeholders": "Veterans, military families, caregivers of service-disabled veterans, and Maryland youth with immediate family members who are service members.",
-      "fiscal_impact_summary": "According to the fiscal note, altering the composition of the specified commissions and councils does not materially affect State government operations or finances. There is no impact on local government or small businesses.",
+      "stakeholders": "Military families, service-disabled veterans, family caregivers of veterans, and military-connected youth.",
+      "fiscal_impact_summary": "According to the fiscal note, the bill does not materially affect state or local government operations or finances. The changes to the composition of the specified commissions and boards are expected to have a negligible financial impact, and the Department of Legislative Services concur that there is minimal to no economic impact on small businesses.",
       "agency_relevance": [
-        {
-          "agency_name": "Department of Veterans & Military Families",
-          "is_relevant": true,
-          "relevance_explanation": "As the primary agency for veterans and military families, this bill was introduced at its request. It directly alters the membership and governance of the Maryland Veterans Commission and the Maryland Veterans Trust Fund Board of Trustees, both of which are central to the agency's mission.",
-          "relevance_rating": 5
-        },
-        {
-          "agency_name": "Governor's Office",
-          "is_relevant": true,
-          "relevance_explanation": "The Governor is responsible for appointing the majority of members to the Maryland Commission on Caregiving, the Maryland Veterans Commission, and the Maryland Youth Advisory Council, all of which are expanded or modified by this bill.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Department of Human Services",
-          "is_relevant": true,
-          "relevance_explanation": "The Maryland Commission on Caregiving is staffed by the Department of Human Services. This bill expands the commission's membership to include a family caregiver of a service-disabled veteran.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Governor's Office for Children",
-          "is_relevant": true,
-          "relevance_explanation": "The Governor's Office for Children is responsible for appointing members to the Maryland Youth Advisory Council, which this bill expands by adding a seat for a youth with an immediate family member who is a service member.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Office of Appointments",
-          "is_relevant": true,
-          "relevance_explanation": "The Office of Appointments assists the Governor in recruiting and vetting candidates for the hundreds of positions on state boards and commissions, including the new seats created by this legislation.",
-          "relevance_rating": 3
-        },
         {
           "agency_name": "Adjutant General of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "The Adjutant General serves as an ex officio member of the Board of Trustees of the Maryland Veterans Trust, which is affected by the bill's changes to board structure and quorum requirements.",
+          "relevance_explanation": "The Adjutant General, or their designee, serves as an ex officio member of the Board of Trustees for the Maryland Veterans Trust, which is referenced in the bill's membership provisions.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Department of Aging",
           "is_relevant": true,
-          "relevance_explanation": "The Secretary of Aging is an ex officio member of the Maryland Veterans Trust Board and the department has a representative on the Maryland Commission on Caregiving, both of which are modified by this bill.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Department of Health",
-          "is_relevant": true,
-          "relevance_explanation": "The Secretary of Health is an ex officio member of the Maryland Veterans Trust Board and the department provides three representatives to the Maryland Commission on Caregiving, both of which are modified by this bill.",
+          "relevance_explanation": "The Secretary of Aging serves on the Maryland Veterans Trust Board of Trustees, and the department also has a representative on the Maryland Commission on Caregiving, both of which are affected by the bill.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Department of Disabilities",
           "is_relevant": true,
-          "relevance_explanation": "The Secretary of Disabilities is an ex officio member of the Maryland Veterans Trust Board and the department has a representative on the Maryland Commission on Caregiving, both of which are modified by this bill.",
+          "relevance_explanation": "The Secretary of Disabilities serves on the Board of Trustees for the Maryland Veterans Trust, and the department has a representative on the Maryland Commission on Caregiving, both of which are restructured by the bill.",
           "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Health",
+          "is_relevant": true,
+          "relevance_explanation": "The Maryland Department of Health has three representatives on the Maryland Commission on Caregiving and its Secretary serves on the Maryland Veterans Trust Board of Trustees.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Human Services",
+          "is_relevant": true,
+          "relevance_explanation": "The bill alters the membership of the Maryland Commission on Caregiving, which is housed within and staffed by the Department of Human Services. The Secretary also serves on the Maryland Veterans Trust Board.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Department of Labor",
           "is_relevant": true,
-          "relevance_explanation": "The Secretary of Labor serves as an ex officio member of the Maryland Veterans Trust Board of Trustees, which is affected by changes to membership and voting status in this bill.",
+          "relevance_explanation": "The Secretary of Labor serves as an ex officio member of the Maryland Veterans Trust Board of Trustees.",
           "relevance_rating": 2
         },
         {
-          "agency_name": "Higher Education Commission",
+          "agency_name": "Department of Veterans & Military Families",
           "is_relevant": true,
-          "relevance_explanation": "The Student Advisory Council to the Maryland Higher Education Commission nominates members to the Maryland Youth Advisory Council, which is expanded under this legislation.",
+          "relevance_explanation": "As the primary agency for veteran affairs, this is a departmental bill that alters the membership and procedures for the Maryland Veterans Commission and the Maryland Veterans Trust Board of Trustees, both of which it oversees.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Executive Commissions, Committees, Task Forces, and Advisory Boards",
+          "is_relevant": true,
+          "relevance_explanation": "The bill directly modifies the composition and governance of four specific state commissions and councils.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Governor's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The Governor has appointment authority for members of the Maryland Commission on Caregiving, the Veterans Commission, the Veterans Trust Board, and the Youth Advisory Council.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Governor's Office for Children",
+          "is_relevant": true,
+          "relevance_explanation": "The bill alters the membership of the Maryland Youth Advisory Council, specifically adding a military-connected youth member appointed or nominated through this office.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Maryland Higher Education Commission",
+          "is_relevant": true,
+          "relevance_explanation": "The Student Advisory Council to the Maryland Higher Education Commission is responsible for nominating members to the Maryland Youth Advisory Council, which is being expanded by the bill.",
           "relevance_rating": 2
+        },
+        {
+          "agency_name": "Office of Appointments",
+          "is_relevant": true,
+          "relevance_explanation": "The Office of Appointments will be responsible for recruiting and vetting the new military family representatives and caregivers required by the bill's membership changes.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "University System of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "The University System of Maryland Student Council nominates members for the Maryland Youth Advisory Council, which is expanded under this legislation.",
+          "relevance_explanation": "The University System of Maryland Student Council nominates members to the Maryland Youth Advisory Council, which is affected by the bill.",
           "relevance_rating": 2
         }
       ]
     },
-    "amended_status": "original",
-    "amend_input_hash": "3093a677f5566040629a2cf2e3bfd4e8bf913e619c35f857a5599b7a23cd0712",
-    "qa_input_hash": "c0b7c68e23e22b4c1ffaa9c276ed3433acff21fd1dfff19bb5f81771b142c25b",
-    "last_updated_local": "2026-04-29T06:03:36.032436",
-    "bill_hash": "8f745865842f184f04a90687cb1ebd04"
+    "amended_status": "amended",
+    "amend_input_hash": "3bf4a3b780e30b2ed709bbabf67b716a634d0f399689713e646dfb327d0064fa",
+    "qa_input_hash": "bde501cdf8de408eb9e8d80c94480262e998e7d4cc539aed99345bcf363ea475",
+    "last_updated_local": "2026-05-19T06:26:38.753394",
+    "bill_hash": "dc239c55f5b8d3008a8d6fea604c6e9b"
   },
   "HB0271": {
     "first_seen": "2026-02-06T19:30:18.323553",
@@ -56676,74 +56682,105 @@
   },
   "HB0690": {
     "first_seen": "2026-02-06T19:34:26.771444",
-    "last_updated": "2026-02-06T19:34:27.129156",
-    "last_seen": "2026-02-06T19:34:27.129156",
+    "last_updated": "2026-05-19T06:23:59.226464",
+    "last_seen": "2026-05-19T06:23:59.226464",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
-      "bill_pdf": "C:\\git\\Legi-Scanner\\data\\2026rs\\pdf\\HB0690.pdf",
-      "amendments": []
+      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0690.pdf",
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0690_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "The Economic Competitiveness Act of 2026 reduces the Maryland corporate income tax rate from 8.25% to 6.25% through a four-year phase-down period. The reduction begins with taxable year 2027 at 7.75% and decreases by 0.5% each year until it reaches 6.25% for taxable years beginning after December 31, 2029.",
+      "bill_summary": "This bill reduces the Maryland corporate income tax rate from 8.25% to 6.25% through a gradual phase-down over four years, reaching the final rate in tax year 2030.",
       "start_year": 2026,
       "end_year": null,
-      "funding": null,
-      "responsible_party": "Comptroller of Maryland",
-      "stakeholders": "Corporations doing business in Maryland and the Maryland State government",
-      "fiscal_impact_summary": "The bill will result in a significant decrease in State revenue as the corporate income tax rate is reduced from 8.25% to 6.25% between taxable years 2027 and 2030. Specific dollar estimates for the revenue impact are unavailable as the formal Fiscal Note was not included in the provided text.",
+      "funding": 41700000,
+      "responsible_party": "Comptroller's Office",
+      "stakeholders": "Corporations operating in Maryland, local governments, and State agencies funded by the General Fund, Higher Education Investment Fund, Transportation Trust Fund, and Strategic Energy Investment Fund.",
+      "fiscal_impact_summary": "State revenues are projected to decrease by an estimated $43.4 million in FY 2027, with the annual loss growing to $755.8 million by FY 2031. Accounting for reduced expenditures for local highway grants, the net State fiscal impact is a $41.7 million decrease in FY 2027 and a $735.8 million decrease by FY 2031. Local governments are expected to lose a total of $52.6 million in highway user revenues between FY 2027 and FY 2031.",
       "agency_relevance": [
         {
           "agency_name": "Comptroller of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "As the state's principal tax collector, the Comptroller is the primary agency responsible for implementing the corporate income tax rate changes, updating tax forms, and managing the collection of state revenues affected by this bill.",
+          "relevance_explanation": "As the state's chief tax collector, the Comptroller is the primary agency responsible for implementing and enforcing the corporate income tax rate changes mandated by the bill.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Department of Transportation",
+          "is_relevant": true,
+          "relevance_explanation": "The bill significantly reduces revenues for the Transportation Trust Fund (TTF). The fiscal note indicates that the reduction may impact the department's ability to meet minimum debt service coverage requirements for transportation bonds starting in FY 2031.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "DBM is responsible for revenue estimation and long-term fiscal planning. A reduction in the corporate income tax rate directly impacts the state's general fund revenue and requires budget adjustments and forecasting.",
+          "relevance_explanation": "The department is responsible for estimating revenues and supervising budget execution. This bill will result in a cumulative general fund revenue loss of over $1.5 billion through FY 2031, requiring significant long-term fiscal planning adjustments.",
           "relevance_rating": 4
         },
         {
           "agency_name": "Department of Commerce",
           "is_relevant": true,
-          "relevance_explanation": "The bill is titled the 'Economic Competitiveness Act of 2026' and aims to stimulate the economy. As the state's primary economic development agency, Commerce is directly interested in tax policy changes designed to attract and retain businesses.",
-          "relevance_rating": 3
+          "relevance_explanation": "The bill is titled the 'Economic Competitiveness Act of 2026' and aims to attract and retain businesses by reducing corporate taxes, which aligns with the Department of Commerce's primary mission of stimulating the economy.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Maryland Higher Education Commission",
+          "is_relevant": true,
+          "relevance_explanation": "The bill reduces revenues for the Higher Education Investment Fund (HEIF), which the commission uses to coordinate statewide policies and financial aid for postsecondary institutions.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Maryland Energy Administration",
+          "is_relevant": true,
+          "relevance_explanation": "The fiscal note identifies a decrease in revenue for the Strategic Energy Investment Fund (SEIF), which is managed by the MEA to support energy efficiency and renewable energy programs.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "State Highway Administration",
+          "is_relevant": true,
+          "relevance_explanation": "The reduction in corporate tax revenue leads to a decrease in the Gasoline and Motor Vehicle Revenue Account, which funds local highway user revenue grants facilitated by the SHA.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Governor's Office proposes the annual state budget and oversees the executive branch. This bill represents a significant shift in fiscal policy that affects the Governor's budget proposals and economic initiatives.",
+          "relevance_explanation": "As the agency that proposes the annual state budget and coordinates major policy initiatives like 'economic competitiveness,' the Governor's Office is responsible for the overall fiscal strategy affected by this substantial revenue reduction.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Maryland State Treasurer's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Treasurer manages and protects state funds and anticipates monetary needs. Changes to major revenue streams like corporate income tax affect cash flow management and state fund projections.",
-          "relevance_rating": 2
+          "relevance_explanation": "The Treasurer manages the state's debt and anticipates monetary needs; the bill's impact on TTF debt service coverage requirements directly involves the Treasurer's role in overseeing bond sales and financial protection.",
+          "relevance_rating": 3
         },
         {
-          "agency_name": "Maryland Tax Court",
+          "agency_name": "University System of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "The Maryland Tax Court adjudicates disputes involving income tax assessments and decisions made by the Comptroller. While the bill only changes the rate, the resulting tax calculations may lead to appeals within its jurisdiction.",
-          "relevance_rating": 1
+          "relevance_explanation": "The University System of Maryland is a primary beneficiary of the Higher Education Investment Fund (HEIF), which will see a significant reduction in funding due to the corporate tax rate cut.",
+          "relevance_rating": 3
         },
         {
-          "agency_name": "Office of Legislative Audits",
+          "agency_name": "Morgan State University",
           "is_relevant": true,
-          "relevance_explanation": "OLA conducts fiscal compliance audits of the Comptroller's office. It will be responsible for ensuring that the new tax rates are correctly implemented and reported in future audits.",
-          "relevance_rating": 1
+          "relevance_explanation": "As a public institution of higher education, Morgan State University's funding through state investments like the HEIF is negatively impacted by the projected revenue decreases.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Saint Mary's College of Maryland",
+          "is_relevant": true,
+          "relevance_explanation": "St. Mary's College, as a public honors college, relies on state funding streams including those linked to higher education investments that will be reduced by this bill.",
+          "relevance_rating": 3
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "1c600f617a527c321662732665075a65a21dfca27922281bd6f9c72f47fce3eb",
-    "last_updated_local": "2026-02-07T04:36:00.204690",
-    "bill_hash": "857faa849152b84438eedd22241b6f38"
+    "qa_input_hash": "915a1d9af8cfa31ffec31072c7ea787af50c438aa7b0d048c3450f7253c48eca",
+    "last_updated_local": "2026-05-19T06:24:45.363062",
+    "bill_hash": "b1d312c759da000ab3db94d23741b1f8"
   },
   "HB0691": {
     "first_seen": "2026-02-06T19:34:27.281166",
@@ -57689,67 +57726,80 @@
   },
   "HB0702": {
     "first_seen": "2026-02-06T19:34:33.975904",
-    "last_updated": "2026-02-06T19:34:34.600800",
-    "last_seen": "2026-02-06T19:34:34.600800",
+    "last_updated": "2026-05-19T06:23:59.970547",
+    "last_seen": "2026-05-19T06:23:59.970547",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
-      "bill_pdf": "C:\\git\\Legi-Scanner\\data\\2026rs\\pdf\\HB0702.pdf",
-      "amendments": []
+      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0702.pdf",
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0702_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "The Co-Op and Condo Energy Refund Equity Act expands the definition of residential distribution customers to include members of cooperative housing corporations and condominium unit owners for the purpose of receiving energy relief refunds. The bill requires that compliance fees from the Maryland Strategic Energy Investment Fund be used to provide these refunds, specifically directing electric companies to issue credits to the governing bodies of cooperatives and condominiums for distribution to residents. It also mandates a catch-up refund in fiscal year 2027 for residents who did not receive previous credits under 2025 legislation.",
+      "bill_summary": "The bill expands the definition of 'residential distribution customer' to include members of cooperative housing corporations and condominium unit owners, ensuring they are eligible for electricity bill refunds or credits funded by the Maryland Strategic Energy Investment Fund. It establishes a distribution mechanism where electric companies provide refunds to the governing bodies of these entities, who then pass them to individual residents. Additionally, it provides for a 'catch-up' refund in fiscal year 2027 for those who did not receive the initial credit in fiscal year 2026.",
       "start_year": 2026,
       "end_year": null,
-      "funding": null,
-      "responsible_party": "Maryland Public Service Commission",
-      "stakeholders": "Members of cooperative housing corporations, condominium unit owners, and electric companies.",
-      "fiscal_impact_summary": "The bill redirects existing compliance fee revenue within the Maryland Strategic Energy Investment Fund to provide electricity bill refunds to residents of cooperatives and condominiums. It establishes a mandate for specific distributions in fiscal year 2027 to compensate residents who were excluded from previous refund cycles. While the bill specifies the allocation and distribution method for these funds, specific dollar estimates are unavailable as a formal Fiscal Note was not included in the provided text.",
+      "funding": 5000000,
+      "responsible_party": "Public Service Commission",
+      "stakeholders": "Members of cooperative housing corporations, condominium unit owners, electric companies, municipal electric utilities, and governing bodies of condominiums and housing cooperatives.",
+      "fiscal_impact_summary": "State special fund expenditures from the Strategic Energy Investment Fund increase by an indeterminate amount in fiscal year 2027 to provide catch-up refunds to eligible residents. The Fiscal Note provides an illustrative estimate of 5000000 based on the assumption that 2.5% of residential customers missed the initial refund. Local governments operating municipal electric utilities will be required to process these refunds without retaining overhead costs, and local revenues could be impacted if funds are redirected from other clean energy programs.",
       "agency_relevance": [
         {
           "agency_name": "Maryland Energy Administration",
           "is_relevant": true,
-          "relevance_explanation": "The Maryland Energy Administration (MEA) is the primary agency responsible for managing the Maryland Strategic Energy Investment Fund (SEIF). This bill directly modifies the authorized uses of SEIF funds, requiring they be used for grants to provide refunds and credits to members of cooperative housing corporations and condominium unit owners.",
+          "relevance_explanation": "The Maryland Energy Administration (MEA) administers the Strategic Energy Investment Fund (SEIF), which is the source of the funding for the energy refunds and credits mandated by this bill. The bill specifically alters the authorized uses of compliance fee revenue within the SEIF.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Public Service Commission",
           "is_relevant": true,
-          "relevance_explanation": "The bill explicitly states that the process of refunding or crediting compliance fees to residential distribution customers shall be directed and overseen by the Public Service Commission. Additionally, the Governor is authorized to transfer funds to the Commission to be awarded to electric companies.",
+          "relevance_explanation": "The bill explicitly states that the process for refunding or crediting energy compliance fees shall be directed and overseen by the Public Service Commission. Additionally, the Commission is responsible for awarding the grants to electric companies that facilitate these refunds.",
           "relevance_rating": 5
+        },
+        {
+          "agency_name": "Office of the People's Counsel",
+          "is_relevant": true,
+          "relevance_explanation": "The Office of the People's Counsel represents the interests of residential utility consumers. Since the bill directly impacts how energy refunds are distributed to a specific class of residential customers (condominium and cooperative housing members), this is highly relevant to their advocacy mission.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "The Department of Budget and Management (DBM) oversees the state budget and the budget amendment process. The bill specifically authorizes the Governor to transfer funds into the program via budget amendment, which would require DBM's involvement and coordination.",
+          "relevance_explanation": "The Department of Budget and Management oversees state budget execution. The bill involves the transfer of funds via budget amendment and the allocation of special fund expenditures from the SEIF, requiring DBM's oversight of the fiscal process.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Governor's Office oversees the executive branch and proposes the state budget. This bill involves the Strategic Energy Investment Fund and specifically authorizes the Governor to use budget amendments to transfer funds to the Public Service Commission for the purpose of the act.",
-          "relevance_rating": 2
+          "relevance_explanation": "The bill grants the Governor the authority to transfer funds from the SEIF to the Public Service Commission via budget amendment. The office also provides general executive oversight of the implementing agencies, MEA and PSC.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Secretary of State",
           "is_relevant": true,
-          "relevance_explanation": "The Secretary of State is responsible for the registration and oversight of condominiums within Maryland. Since the bill creates a specific financial refund and distribution mechanism for condominium unit owners and cooperative housing corporations, it intersects with the SOS's regulatory oversight of these entities.",
+          "relevance_explanation": "The Secretary of State's office is responsible for the registration and oversight of condominiums. As this bill establishes new financial rights and distribution procedures specifically for condominium unit owners and cooperative housing, it falls within the scope of their constituent oversight.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Office of the Attorney General",
+          "is_relevant": true,
+          "relevance_explanation": "The Office of the Attorney General provides legal counsel to the MEA and the Public Service Commission. They would be responsible for advising these agencies on the implementation of the bill's new statutory requirements and definitions.",
           "relevance_rating": 2
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "b4f99d041bd76056ffcaf78c33cb055974aa31f42118b72da93a707d7a506e63",
-    "last_updated_local": "2026-02-07T04:45:22.899796",
-    "bill_hash": "2916d60d9b8596f8c336dfb100f639ae"
+    "qa_input_hash": "ede19bf9104ad09644b606be3f90ff976c0212282d85e34fe9312ce02673b6c1",
+    "last_updated_local": "2026-05-19T06:24:48.434880",
+    "bill_hash": "c9e0db4960b45f06b0f24de39b617c55"
   },
   "HB0703": {
     "first_seen": "2026-02-06T19:34:34.743542",
-    "last_updated": "2026-02-21T05:39:49.567650",
-    "last_seen": "2026-02-21T05:39:49.567650",
+    "last_updated": "2026-05-19T06:24:00.592111",
+    "last_seen": "2026-05-19T06:24:00.592111",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -57797,8 +57847,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "a7400c26d66320f6aaabab33972dad3dc6513866ac92f520696d999bf2130f2d",
-    "last_updated_local": "2026-02-21T05:59:47.310661",
-    "bill_hash": "01d467c3c77a036f738482b15b1960f2"
+    "last_updated_local": "2026-05-19T06:24:05.752972",
+    "bill_hash": "3e1d57d98c6ae94151dafc7e18bbb9a3"
   },
   "HB0704": {
     "first_seen": "2026-02-06T19:34:35.388946",
@@ -57885,74 +57935,63 @@
   },
   "HB0705": {
     "first_seen": "2026-02-06T19:34:35.928780",
-    "last_updated": "2026-02-21T05:39:50.355274",
-    "last_seen": "2026-02-21T05:39:50.355274",
+    "last_updated": "2026-05-19T06:24:01.237857",
+    "last_seen": "2026-05-19T06:24:01.237857",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0705.pdf",
-      "amendments": []
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0705_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill establishes the Office of the Attorney General Enforcement Recovery Fund as a special, nonlapsing fund to support the investigation and prosecution of consumer protection, antitrust, and securities law violations. The fund is financed by retaining up to 25% of penalties recovered through enforcement actions, with an annual cap of $7.5 million.",
+      "bill_summary": "This bill establishes the Office of the Attorney General (OAG) Enforcement Recovery Fund as a special, nonlapsing fund to support enforcement activities related to consumer protection, antitrust, and securities laws. The fund receives a portion of penalties obtained from civil enforcement actions, specifically allowing the OAG to deposit up to 25% of recoveries that exceed $100,000, subject to an annual aggregate cap.",
       "start_year": 2026,
       "end_year": null,
       "funding": 7500000,
       "responsible_party": "Office of the Attorney General",
-      "stakeholders": "Office of the Attorney General enforcement staff, Maryland consumers, and entities involved in antitrust, consumer protection, or securities litigation.",
-      "fiscal_impact_summary": "The bill creates a special fund capped at $7,500,000 per fiscal year. Revenue is derived from penalties (qualified recoveries) that would otherwise be credited to the General Fund, representing a potential annual General Fund revenue decrease of up to $7,500,000 and a corresponding increase in special fund revenue and expenditures. Any fund balance exceeding $7,500,000 at the end of a fiscal year must be transferred to the General Fund, and all interest earnings on the fund are credited to the General Fund. Specific dollar estimates from a formal Fiscal Note were not provided in the text.",
+      "stakeholders": "Maryland Office of the Attorney General, Maryland consumers, and entities subject to enforcement actions under the Maryland Consumer Protection Act, antitrust laws, or the Maryland Securities Act.",
+      "fiscal_impact_summary": "The bill creates a new special fund with an annual revenue cap of $7,500,000. Special fund revenues may increase starting in FY 2027 through the diversion of penalties that currently flow to the General Fund or the Consumer Protection Division Recoveries Fund. However, the Department of Legislative Services expects the overall impact to be minimal as actual recoveries meeting the bill's criteria may be limited, and interest earned on the fund is credited back to the General Fund. State expenditures are not expected to be materially affected.",
       "agency_relevance": [
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The bill creates the Office of the Attorney General Enforcement Recovery Fund, which is located within the OAG. The Attorney General is responsible for administering the fund and using it to support the office's consumer protection, antitrust, and securities enforcement activities.",
+          "relevance_explanation": "The bill directly establishes the Office of the Attorney General Enforcement Recovery Fund within the OAG to support its consumer protection, antitrust, and securities enforcement activities. The OAG is the primary agency responsible for administering the fund and managing its expenditures.",
           "relevance_rating": 5
-        },
-        {
-          "agency_name": "Maryland State Treasurer's Office",
-          "is_relevant": true,
-          "relevance_explanation": "The State Treasurer is explicitly required to hold the fund separately and invest the money of the fund in the same manner as other state money.",
-          "relevance_rating": 3
         },
         {
           "agency_name": "Comptroller of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "The Comptroller is explicitly required to account for the fund and to transfer any excess balance (over $7.5 million) to the General Fund of the state at the end of each fiscal year.",
+          "relevance_explanation": "The Comptroller is explicitly tasked with accounting for the new special fund and is required to transfer any year-end balance exceeding $7.5 million to the General Fund.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Maryland State Treasurer's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The State Treasurer is required to hold the fund separately and invest its money in the same manner as other State funds.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "As the principal fiscal agency, DBM is affected by the creation of a new special fund that redirects potential General Fund revenue (enforcement penalties) and supplements the annual budget for the OAG.",
+          "relevance_explanation": "As the agency responsible for budget development and execution, DBM is impacted by the bill's 'non-supplanting' clause, which prevents the fund from being used to reduce general fund appropriations for the OAG.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Governor oversees the executive branch and proposes the annual state budget. This bill establishes a supplemental funding source for a key executive department and includes specific provisions preventing the fund from being used to reduce general budget appropriations.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Office of Legislative Audits",
-          "is_relevant": true,
-          "relevance_explanation": "OLA is responsible for conducting fiscal compliance audits of state agencies. It would be responsible for auditing this new special fund to ensure it complies with the 25% deposit cap and the $7.5 million annual limit.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Board of Public Works",
-          "is_relevant": true,
-          "relevance_explanation": "The Board of Public Works oversees state fiscal integrity. The bill involves significant shifts in state revenue management between special funds and the General Fund.",
+          "relevance_explanation": "The Governor's Office is responsible for proposing the state budget. The bill imposes specific policy constraints on budget proposals by requiring that the new fund serves as supplemental funding and not as a replacement for standard appropriations.",
           "relevance_rating": 2
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "e2da9c22cfb9d767bff188aba49f23aa5494c9e679ff7885c31d8fa2ec694b0a",
-    "last_updated_local": "2026-02-21T05:59:47.655511",
-    "bill_hash": "cb6594b14e93709981230082fd85b4a1"
+    "qa_input_hash": "16588e3ffc15c296c2f71e2067ffdb3aa7887499b6827246a9990e1d906af61c",
+    "last_updated_local": "2026-05-19T06:24:35.875307",
+    "bill_hash": "fd10029f9a235d16c5f96f721d4016e4"
   },
   "HB0706": {
     "first_seen": "2026-02-06T19:34:36.440602",
@@ -58700,62 +58739,93 @@
   },
   "HB0716": {
     "first_seen": "2026-02-06T19:34:42.183758",
-    "last_updated": "2026-02-06T19:34:42.570932",
-    "last_seen": "2026-02-06T19:34:42.570932",
+    "last_updated": "2026-05-19T06:24:01.936225",
+    "last_seen": "2026-05-19T06:24:01.936225",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
-      "bill_pdf": "C:\\git\\Legi-Scanner\\data\\2026rs\\pdf\\HB0716.pdf",
-      "amendments": []
+      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0716.pdf",
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0716_fn.pdf"
     },
     "qa_results": {
       "bill_summary": "This bill prohibits land surveyors and property line surveyors from conducting surveys on private property during deer firearms hunting season unless they have obtained written permission from the property owner.",
       "start_year": 2026,
       "end_year": null,
-      "funding": null,
-      "responsible_party": "Maryland State Board for Professional Land Surveyors",
-      "stakeholders": "Land surveyors, property line surveyors, and private property owners",
-      "fiscal_impact_summary": "The bill creates a potential increase in State General Fund revenue through new penalties for violations of property access restrictions. Violators may be subject to a misdemeanor fine of up to $500, imprisonment for up to 6 months, or an administrative penalty of up to $5,000 per violation imposed by the Board. Because the formal Fiscal Note is not provided in the text, specific aggregate dollar estimates for revenue or expenditure changes are unavailable.",
+      "funding": 500000,
+      "responsible_party": "State Board for Professional Land Surveyors",
+      "stakeholders": "Land surveyors, property line surveyors, private property owners, Maryland Department of Transportation, local governments, and small surveying businesses.",
+      "fiscal_impact_summary": "The bill is expected to have a significant fiscal and operational impact on the State and local governments. According to the Maryland Department of Transportation (MDOT), implementation could require up to $500,000 in software development costs, $100,000 in annual software maintenance, and up to $440,000 annually for certified letters to property owners. Additionally, mandatory delays during hunting season could lead to significant but indeterminate project cost overruns. No impact on state revenues is anticipated.",
       "agency_relevance": [
         {
           "agency_name": "Department of Labor",
           "is_relevant": true,
-          "relevance_explanation": "The Department of Labor oversees the State Board for Professional Land Surveyors, which is responsible for the licensing and regulation of land surveyors and property line surveyors. This department is directly responsible for enforcing professional standards and the penalties established in this bill, including potential civil penalties of up to $5,000 per violation.",
+          "relevance_explanation": "The State Board for Professional Land Surveyors, which is housed within the Department of Labor, is responsible for licensing land surveyors, investigating complaints, and enforcing the penalties (up to $5,000) for violations as established in this bill.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Department of Transportation",
+          "is_relevant": true,
+          "relevance_explanation": "The bill has a significant operational and fiscal impact on MDOT and the State Highway Administration (SHA). MDOT expects project delays and high costs (estimated up to $440,000 annually for certified letters and $500,000 for software development) to ensure compliance with written permission requirements for surveying on private property.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Department of Natural Resources",
           "is_relevant": true,
-          "relevance_explanation": "The bill's prohibition on land surveys is explicitly tied to the deer firearms hunting season, which is managed and defined by the Department of Natural Resources under the Natural Resources Article. The agency's regulation of hunting seasons directly determines the timeframe during which surveyors are prohibited from entering private property without written permission.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Office of the Attorney General",
-          "is_relevant": true,
-          "relevance_explanation": "The Office of the Attorney General serves as the chief legal officer for the state and provides legal counsel to all state boards and commissions, including the licensing board for land surveyors. The agency would be involved in legal interpretations of the new restriction and the adjudication of misdemeanor cases or board-imposed penalties.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Department of Transportation",
-          "is_relevant": true,
-          "relevance_explanation": "The Department of Transportation, particularly via the State Highway Administration, conducts and contracts for land surveys for infrastructure and highway projects. This bill could impact project schedules and administrative requirements for surveys that involve access to private property adjacent to state projects during hunting seasons.",
-          "relevance_rating": 2
+          "relevance_explanation": "The bill's restrictions are triggered by the dates of the deer firearms hunting season, which are established by regulation by the Department of Natural Resources. DNR's timeline for setting these seasons directly dictates when surveyors are prohibited from accessing private property.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Department of General Services",
           "is_relevant": true,
-          "relevance_explanation": "As the agency responsible for planning and constructing state-owned facilities and managing real estate acquisitions, the Department of General Services utilizes land surveying services. The bill's restrictions and the requirement for written property owner permission could affect the coordination and timing of these state operational functions.",
+          "relevance_explanation": "As the agency responsible for state-owned facility construction and real estate management, DGS utilizes land surveying services. The bill's restrictions could impact the timelines and costs of DGS managed capital projects and land acquisitions.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Administrative Office of the Courts",
+          "is_relevant": true,
+          "relevance_explanation": "The fiscal note indicates that if property access is denied, the courts may need to issue writs of survey to allow projects to proceed, increasing the workload for the judicial system. The bill also creates a misdemeanor offense for violations.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Office of the Attorney General",
+          "is_relevant": true,
+          "relevance_explanation": "The OAG would provide legal counsel to the Board for Professional Land Surveyors and other state agencies like MDOT regarding the implementation, enforcement, and potential litigation arising from these new property access restrictions.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Budget and Management",
+          "is_relevant": true,
+          "relevance_explanation": "The bill is projected to have a significant fiscal impact on state expenditures (particularly for MDOT). DBM oversees the state's budget and would be involved in the allocation of funds for the required new tracking systems and increased operational costs.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Information Technology",
+          "is_relevant": true,
+          "relevance_explanation": "MDOT identifies a need for a new $500,000 tracking system linked to state property data to ensure compliance with the bill. DoIT manages the state's IT strategy and would likely oversee or consult on this development.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Planning",
+          "is_relevant": true,
+          "relevance_explanation": "MDP provides data analysis and technical assistance regarding land use. Compliance with the bill may require integration with property assessment data, an area where MDP provides guidance and policy support.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Governor's Office of Small, Minority & Women Business Affairs",
+          "is_relevant": true,
+          "relevance_explanation": "The fiscal note mentions a meaningful impact on small businesses, specifically land surveying firms that must now comply with new administrative requirements and seasonal work restrictions.",
           "relevance_rating": 2
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "d4816aecc1b8eb3070d44cd30dc1731d81f2ebe532582fa4758bbce13050f65e",
-    "last_updated_local": "2026-02-07T04:57:00.560744",
-    "bill_hash": "fc9b6cec69d0b173992a16be38523998"
+    "qa_input_hash": "b1216a9bc78e1e58d5ebf0467c6562dbbc8feb6bdf88af6523a82266055a2757",
+    "last_updated_local": "2026-05-19T06:24:58.884372",
+    "bill_hash": "cc9399eb3545985b5a7846b9afcde056"
   },
   "HB0717": {
     "first_seen": "2026-02-06T19:34:42.741130",
@@ -134187,8 +134257,8 @@
   },
   "HB1422": {
     "first_seen": "2026-02-14T05:46:27.582962",
-    "last_updated": "2026-05-13T06:11:04.165341",
-    "last_seen": "2026-05-13T06:11:04.165341",
+    "last_updated": "2026-05-19T06:24:02.700416",
+    "last_seen": "2026-05-19T06:24:02.700416",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -134199,93 +134269,99 @@
       "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1422_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill empowers the Secretary of Budget and Management to set pay scales for Chief Financial Officers (CFOs) and Chief Information Officers (CIOs) in specific Executive Branch units to aid in recruitment and retention. It mandates the establishment of minimum qualifications for CFOs and requires them to provide certified financial information to the Comptroller for the state's annual financial report. Additionally, the bill expands the requirement for State agencies to document and report to the Board of Public Works and the Joint Audit and Evaluation Committee whenever they waive liquidated damages for a contract breach, regardless of contract value.",
+      "bill_summary": "This bill authorizes the Secretary of Budget and Management to set higher pay scales for Chief Financial Officers (CFOs) and Chief Information Officers (CIOs) in large Executive Branch units to improve recruitment and retention. It establishes minimum qualifications for CFO positions, requires these units to report specific financial data to the Office of the Comptroller, and expands documentation and reporting requirements for state units that waive liquidated damages on procurement contracts regardless of contract value.",
       "start_year": 2026,
       "end_year": null,
       "funding": 4000000,
-      "responsible_party": "Department of Budget and Management; Secretary of Budget and Management; Office of the Comptroller",
-      "stakeholders": "Chief Financial Officers and Chief Information Officers of Executive Branch units; State agencies receiving at least $1,750,000,000 annually; Board of Public Works; Joint Audit and Evaluation Committee.",
-      "fiscal_impact_summary": "State expenditures from general and special funds may increase starting in FY 2027 to accommodate higher pay scales for CFO and CIO positions. The FY 2027 budget includes 4,000,000 in the Dedicated Purpose Account specifically to strengthen fiscal leadership capacity. Requirements regarding liquidated damages documentation are procedural and are not expected to have a direct fiscal impact, though a minor indeterminate revenue increase could occur if more damages are collected. There is no impact on local government finances.",
+      "responsible_party": "Maryland Department of Budget and Management",
+      "stakeholders": "Chief Financial Officers and Chief Information Officers in large Executive Branch units, state agencies, the Board of Public Works, and state procurement contractors.",
+      "fiscal_impact_summary": "State general and special fund expenditures may increase beginning in fiscal 2027 due to potential salary increases for CFO and CIO positions. The fiscal 2027 budget includes $4,000,000 in the Dedicated Purpose Account to strengthen fiscal leadership capacity, which may be used for this purpose. The bill's provisions regarding liquidated damages are procedural and have no direct fiscal impact, and there is no impact on local government finances.",
       "agency_relevance": [
         {
-          "agency_name": "Department of Budget and Management",
+          "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Secretary of Budget and Management is directly authorized to set pay scales for CFO and CIO positions, establish minimum qualifications for CFOs, and adopt related regulations to assist with recruitment and retention.",
-          "relevance_rating": 5
+          "relevance_explanation": "The Governor oversees the executive branch and signs the legislation. The bill impacts the administrative structure and personnel management (CFO/CIO pay scales) for which the Governor's Office coordinates policy.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Comptroller of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "CFOs of specified units must provide financial information, federal award data, and attestation letters to the Office of the Comptroller for the Annual Comprehensive Financial Report.",
-          "relevance_rating": 5
-        },
-        {
-          "agency_name": "Board of Public Works",
-          "is_relevant": true,
-          "relevance_explanation": "All units of State government must provide documentation to the Board of Public Works if they decide not to pursue liquidated damages for contract breaches.",
+          "relevance_explanation": "The bill explicitly requires Chief Financial Officers of specified units to provide financial information, federal expenditure data, and attestation letters to the Office of the Comptroller for the preparation of the Annual Comprehensive Financial Report.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Maryland State Treasurer's Office",
           "is_relevant": true,
-          "relevance_explanation": "As a member of the Board of Public Works, the Treasurer will oversee the documentation provided regarding liquidated damages decisions.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Governor's Office",
-          "is_relevant": true,
-          "relevance_explanation": "The Governor serves on the Board of Public Works and oversees the Executive Branch departments impacted by the new fiscal leadership and procurement documentation standards.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Department of Information Technology",
-          "is_relevant": true,
-          "relevance_explanation": "The bill authorizes new pay scale settings for Chief Information Officers (CIOs) in the Executive Branch, a role central to DoIT's mission and agency structure.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Department of Health",
-          "is_relevant": true,
-          "relevance_explanation": "As an agency that receives over $1.75 billion annually, its CFO is subject to the bill's new reporting requirements and the agency is impacted by the new pay scale and qualification standards.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Department of Education",
-          "is_relevant": true,
-          "relevance_explanation": "As an agency receiving over $1.75 billion annually, it is specifically identified as being subject to the CFO reporting requirements and eligible for pay scale adjustments for fiscal leadership.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Department of Transportation",
-          "is_relevant": true,
-          "relevance_explanation": "As a major department receiving over $1.75 billion annually, MDOT is subject to the CFO reporting mandates and its procurement units must comply with new liquidated damages documentation rules.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Department of Human Services",
-          "is_relevant": true,
-          "relevance_explanation": "DHS meets the funding threshold ($1.75B) and is expected to have its CFO reporting and potentially its pay scales impacted by the bill.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Department of Public Safety and Correctional Services",
-          "is_relevant": true,
-          "relevance_explanation": "DPSCS meets the funding threshold and is identified as one of the agencies whose CFO and CIO positions may be impacted by the fiscal leadership provisions.",
+          "relevance_explanation": "The State Treasurer is a member of the Board of Public Works, which receives documentation regarding decisions not to pursue liquidated damages. The Treasurer also has a role in managing state funds and fiscal oversight.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The OAG provides legal counsel to state units regarding procurement contracts and the decision-making process for liquidated damages clauses.",
-          "relevance_rating": 2
+          "relevance_explanation": "The OAG provides legal counsel to state agencies regarding procurement contracts and liquidated damages. Procurement officers typically consult with the OAG when deciding whether to include or enforce liquidated damages clauses.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Department of Budget and Management",
+          "is_relevant": true,
+          "relevance_explanation": "DBM is the primary implementing agency. The Secretary of DBM is authorized to set pay scales for CFO and CIO positions, establish minimum qualifications for CFOs, and adopt related regulations.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Department of Education",
+          "is_relevant": true,
+          "relevance_explanation": "MSDE is specifically identified in the fiscal note as one of the agencies likely to meet the $1.75 billion funding threshold, meaning its CFO position will be subject to the bill's pay scale and reporting requirements.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Department of General Services",
+          "is_relevant": true,
+          "relevance_explanation": "As a central procurement authority, DGS is directly impacted by the bill's new documentation and approval requirements for liquidated damages in procurement contracts.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Department of Health",
+          "is_relevant": true,
+          "relevance_explanation": "MDH is identified as one of the high-funding agencies ($1.75B+) whose CFO position will be subject to the new pay scale authority and financial reporting mandates.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Department of Human Services",
+          "is_relevant": true,
+          "relevance_explanation": "DHS is identified as an affected high-funding agency whose CFO position will be subject to the bill's personnel and reporting requirements.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Department of Information Technology",
+          "is_relevant": true,
+          "relevance_explanation": "The bill establishes pay scale and recruitment authority for Chief Information Officers (CIOs) within the executive branch, which aligns with DoIT's mission to manage the state's IT strategy and personnel.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Department of Public Safety and Correctional Services",
+          "is_relevant": true,
+          "relevance_explanation": "DPSCS is identified as a high-funding agency impacted by the bill's provisions regarding CFO qualifications, pay scales, and fiscal reporting.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Department of Transportation",
+          "is_relevant": true,
+          "relevance_explanation": "MDOT is identified as a high-funding agency impacted by the bill's provisions regarding CFO qualifications, pay scales, and fiscal reporting.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Board of Public Works",
+          "is_relevant": true,
+          "relevance_explanation": "The bill requires state units to provide documentation to the Board of Public Works when they intend not to pursue liquidated damages for a contract breach.",
+          "relevance_rating": 5
         }
       ]
     },
-    "amended_status": "original",
-    "amend_input_hash": "6b71d080f78adb8de152a4d54b0d1ef2a152bda0e99037bd5bb2be8b1c8c6174",
-    "qa_input_hash": "1258eaa08bb333e05d001fa4e652798a7a647c7d1599c4c5a09be1446dcd2fa4",
-    "last_updated_local": "2026-05-13T06:17:11.493579",
-    "bill_hash": "85b3cac01e001e709debf436ac546c2b"
+    "amended_status": "amended",
+    "amend_input_hash": "fe1987d776bf3b29152fbc2123eba8677e2f9c5bf4ed8097a3b227a95b52dfd5",
+    "qa_input_hash": "6c55cac8b2d1bdd38720b44f4b95038d731cc160a67ee6526d9238fd6b456592",
+    "last_updated_local": "2026-05-19T06:28:53.126477",
+    "bill_hash": "c6cc5d457b5128141641f77082f1de22"
   },
   "HB1423": {
     "first_seen": "2026-02-14T05:46:28.864837",
