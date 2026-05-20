@@ -29435,8 +29435,8 @@
   },
   "HB0351": {
     "first_seen": "2026-02-06T19:31:05.132689",
-    "last_updated": "2026-05-13T06:08:42.519059",
-    "last_seen": "2026-05-13T06:08:42.519059",
+    "last_updated": "2026-05-20T06:23:44.752152",
+    "last_seen": "2026-05-20T06:23:44.752152",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -29447,75 +29447,81 @@
       "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0351_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "The No Kings Act establishes a civil cause of action against 'covered officers' (officers authorized to make arrests for federal violations and carry firearms) who, acting under color of law, deprive an individual of rights, privileges, or immunities secured by the U.S. Constitution or federal law. The bill authorizes aggrieved parties or the Office of the Attorney General to seek damages, declaratory relief, and injunctive relief, and allows prevailing plaintiffs to recover reasonable attorney's fees and expert witness fees. It also establishes a five-year statute of limitations for these actions.",
+      "bill_summary": "HB 351, known as the No Kings Act, authorizes an aggrieved party or the Maryland Office of the Attorney General to bring a civil action against a 'covered officer' (an officer authorized to make arrests for federal violations and carry firearms) who deprives an individual of constitutional or legal rights under color of law. The bill allows plaintiffs to seek damages, declaratory relief, and injunctive relief, and permits the court to award reasonable attorney's fees and costs to a prevailing plaintiff. It establishes a five-year statute of limitations for such actions.",
       "start_year": 2026,
       "end_year": null,
       "funding": null,
       "responsible_party": "Maryland Office of the Attorney General",
-      "stakeholders": "Aggrieved individuals whose rights have been violated, federal law enforcement officers acting in Maryland, the Office of the Attorney General, and small business law firms.",
-      "fiscal_impact_summary": "The bill is not expected to impact State or local government expenditures because it is not anticipated to affect State or local government liability. General fund revenues may increase if the Office of the Attorney General is awarded damages or recovers attorney's fees and costs in successful actions brought under the bill. There is also a potential meaningful impact on small business law firms that litigate civil rights claims.",
+      "stakeholders": "Aggrieved individuals whose constitutional rights are violated, federal or 'covered' officers with arrest and firearm authority, the Office of the Attorney General, and small business law firms.",
+      "fiscal_impact_summary": "The bill is not anticipated to affect State liability or expenditures as it is interpreted to apply to federal law enforcement officers rather than State employees. State general fund revenues may increase if the Office of the Attorney General is awarded damages or recovers legal fees. Local government finances are not expected to be materially affected. There is a potential meaningful impact on small business law firms that litigate constitutional rights claims.",
       "agency_relevance": [
         {
-          "agency_name": "Governor's Office",
+          "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "As the head of the executive branch, the Governor is responsible for signing or vetoing the bill. The office also oversees the implementation of policy initiatives related to civil rights and public safety mentioned in the bill.",
-          "relevance_rating": 3
+          "relevance_explanation": "The bill explicitly authorizes the Office of the Attorney General to bring civil actions against covered officers for constitutional violations and to seek damages and injunctive relief.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Office of the State Prosecutor",
+          "is_relevant": true,
+          "relevance_explanation": "The bill text specifically identifies a 'State Prosecutor' as an authorized party to bring civil actions for the deprivation of constitutional rights.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Maryland State Treasurer's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Treasurer's Office manages the State Insurance Trust Fund and handles claims under the Maryland Tort Claims Act. The fiscal note explicitly discusses the Treasurer's concerns regarding potential increases in claim volumes and the administrative burden of investigating actions brought under the bill.",
+          "relevance_explanation": "The Treasurer manages the State Insurance Trust Fund and handles tort claims. The fiscal note indicates the office anticipates a high volume of claims and may require additional adjusters due to the bill.",
           "relevance_rating": 4
         },
         {
-          "agency_name": "Office of the Attorney General",
+          "agency_name": "Administrative Office of the Courts",
           "is_relevant": true,
-          "relevance_explanation": "The bill explicitly authorizes the Office of the Attorney General to bring civil actions against covered officers for the deprivation of rights. The OAG also serves as the legal representative for the state in related litigation.",
-          "relevance_rating": 5
+          "relevance_explanation": "The bill establishes a new civil cause of action, requiring the judicial system to manage increased litigation and procedural support for these cases.",
+          "relevance_rating": 3
         },
         {
-          "agency_name": "Department of Budget and Management",
+          "agency_name": "Maryland State Police",
           "is_relevant": true,
-          "relevance_explanation": "DBM is the state's principal personnel and fiscal agency. The fiscal note indicates that the State Treasurer's Office may require additional staff (adjusters) to handle the increased workload, a request that would be managed through DBM's budget process.",
+          "relevance_explanation": "As the primary law enforcement agency, MSP is impacted by legislation regarding the civil liability of officers and is mentioned as an information source in the fiscal note regarding the definition of 'covered officers'.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Department of Natural Resources",
           "is_relevant": true,
-          "relevance_explanation": "The DNR manages the Natural Resources Police, whose officers possess arrest powers and carry firearms. While the bill targets officers enforcing federal law, the broad definitions and state-level liability impacts are relevant to DNR law enforcement operations.",
+          "relevance_explanation": "DNR employs law enforcement officers (Natural Resources Police) who carry firearms and make arrests; they are mentioned in the fiscal note as being involved in the assessment of the bill's scope.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Department of Public Safety and Correctional Services",
           "is_relevant": true,
-          "relevance_explanation": "The department oversees correctional and parole officers who may interact with federal enforcement standards. The bill's establishment of state-level civil liability for constitutional violations is relevant to the department's public safety and legal compliance mandates.",
+          "relevance_explanation": "The agency oversees correctional and parole officers who may fall under the bill's definition of officers acting under color of law, potentially impacting their liability or operational protocols.",
           "relevance_rating": 2
         },
         {
-          "agency_name": "Department of Transportation",
+          "agency_name": "Comptroller of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "MDOT oversees several law enforcement units (including MDTA and Transit Police) that carry firearms and have arrest powers. These units may be impacted by the legal definitions established in the bill regarding civil liability for officers.",
+          "relevance_explanation": "The Comptroller oversees state revenues, which may increase if the Attorney General is awarded damages or recovers fees and costs under the bill's provisions.",
           "relevance_rating": 2
         },
         {
-          "agency_name": "Maryland State Police",
+          "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "As the primary state law enforcement agency, MSP is directly relevant to any legislation creating civil causes of action against officers for constitutional violations, particularly as they frequently coordinate with federal authorities.",
+          "relevance_explanation": "DBM is the principal fiscal agency that would be responsible for authorizing additional personnel or budget resources if the State Treasurer or Attorney General experiences a significant increase in workload.",
           "relevance_rating": 2
         },
         {
-          "agency_name": "Administrative Office of the Courts",
+          "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The bill creates a new civil cause of action within the Maryland court system. The AOC is responsible for the operational and financial support of the courts where these cases will be adjudicated.",
-          "relevance_rating": 3
+          "relevance_explanation": "The Governor oversees the executive branch and coordinated the approval of this emergency measure, which impacts multiple state executive agencies.",
+          "relevance_rating": 1
         }
       ]
     },
-    "amended_status": "original",
-    "amend_input_hash": "67eff268a4bbbd94c7af3bfa87d9a8953a57f74cfe44a89ad3bfa95c9688706b",
-    "qa_input_hash": "87a57cf0d5c8f1e05892c593f0971e033454c4507039a2272ec80889bd46557d",
-    "last_updated_local": "2026-05-13T06:13:40.438975",
-    "bill_hash": "5bf9c21fdf06d0e2edf5b4775a68a7ae"
+    "amended_status": "amended",
+    "amend_input_hash": "2f828153cabe885713e34692feebe3f3d10824dd992a76235f0ba55d4712a534",
+    "qa_input_hash": "f5e2f66ea67db6d7c2ac8d328971d956c924c5bd2bc2453d6e6973ef307593d3",
+    "last_updated_local": "2026-05-20T06:28:37.899043",
+    "bill_hash": "97faaa7081d4135f6b19e86112a15f9d"
   },
   "HB0352": {
     "first_seen": "2026-02-06T19:31:05.557994",
@@ -95981,8 +95987,8 @@
   },
   "HB1026": {
     "first_seen": "2026-02-11T06:07:06.369185",
-    "last_updated": "2026-05-13T06:10:17.917346",
-    "last_seen": "2026-05-13T06:10:17.917346",
+    "last_updated": "2026-05-20T06:23:46.092044",
+    "last_seen": "2026-05-20T06:23:46.092044",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -95993,45 +95999,51 @@
       "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1026_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This emergency bill authorizes merchants to round the price of cash transactions or the amount of change due to a customer to the nearest five-cent increment. Specifically, prices ending in 1, 2, 6, or 7 cents are rounded down, while those ending in 3, 4, 8, or 9 cents are rounded up; transactions totaling less than 5 cents may be rounded up to 5 cents. The bill clarifies that these rounded amounts are excluded from the State sales and use tax and preempts any conflicting local regulations.",
+      "bill_summary": "This bill authorizes merchants to round the final price of cash-based transactions to the nearest five-cent increment. Transactions ending in 1, 2, 6, or 7 cents are rounded down, while those ending in 3, 4, 8, or 9 cents are rounded up; transactions totaling less than 5 cents may be rounded up to 5 cents. The bill also adjusts the state tax code to ensure that these rounded amounts are excluded from the 'taxable price' used to calculate sales and use tax.",
       "start_year": 2026,
       "end_year": null,
       "funding": null,
       "responsible_party": "Maryland Department of Labor",
-      "stakeholders": "Merchants (businesses) and customers involved in cash transactions in Maryland.",
-      "fiscal_impact_summary": "According to the Fiscal Note, the bill does not materially affect State or local government operations or finances. The Maryland Department of Labor can handle the implementation and any potential increase in claims with existing resources. The bill's alteration of the 'taxable price' definition ensures that small amounts added or subtracted due to rounding do not impact sales tax revenue, and the overall effect on small businesses is expected to be minimal.",
+      "stakeholders": "Merchants engaged in the sale of goods or services and customers who pay for transactions using cash.",
+      "fiscal_impact_summary": "According to the Fiscal Note, the bill does not materially affect State or local operations or finances. The Maryland Department of Labor is expected to handle any increase in compliance monitoring or wage payment claims using existing resources. While the definition of 'taxable price' is modified to exclude rounding adjustments from the State sales and use tax, the overall fiscal impact is described as minimal.",
       "agency_relevance": [
-        {
-          "agency_name": "Department of Labor",
-          "is_relevant": true,
-          "relevance_explanation": "The bill adds a new subtitle to the Business Regulation Article, which falls under the jurisdiction of the Department of Labor. Furthermore, Section 1\u2013606 of the bill explicitly authorizes the Secretary (of Labor) to adopt regulations to implement the cash rounding provisions.",
-          "relevance_rating": 5
-        },
         {
           "agency_name": "Comptroller of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "The bill amends the Tax \u2013 General Article to alter the definition of 'taxable price' for the State sales and use tax. As the state's principal tax collector, the Comptroller is responsible for administering these tax changes and ensuring that rounded cash amounts are correctly excluded from taxable revenue.",
-          "relevance_rating": 4
+          "relevance_explanation": "The bill amends the Tax - General Article to alter the definition of 'taxable price' for State sales and use tax purposes, excluding amounts added or subtracted during rounding. As the state's principal tax collector, the Comptroller is responsible for implementing and enforcing these tax laws.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Department of Labor",
+          "is_relevant": true,
+          "relevance_explanation": "The bill adds a new subtitle to the Business Regulation Article and explicitly authorizes the Secretary of Labor to adopt regulations to carry out the provisions related to rounding cash transactions in trade or business.",
+          "relevance_rating": 5
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The OAG serves as the primary legal counsel to the Department of Labor and the Comptroller. Additionally, the agency's Consumer Protection Division may have oversight regarding the fair implementation of rounding practices by merchants to ensure consumers are not being misled or overcharged.",
+          "relevance_explanation": "The OAG provides legal counsel to the Department of Labor and the Comptroller regarding the implementation of new laws and represents the state in matters related to business regulation and tax law enforcement.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "As an emergency bill, this legislation requires the Governor's immediate review and signature to take effect. The office also oversees the executive departments responsible for the bill's implementation.",
+          "relevance_explanation": "As the head of the executive branch, the Governor's Office oversees the agencies implementing this law (Labor and Comptroller) and the Governor was responsible for signing the legislation into law.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Department of Commerce",
+          "is_relevant": true,
+          "relevance_explanation": "The bill establishes new regulations for how merchants in Maryland handle cash transactions, which affects the general business and economic environment overseen by the Department of Commerce.",
           "relevance_rating": 1
         }
       ]
     },
-    "amended_status": "original",
-    "amend_input_hash": "096391b024e5ca3b0d32f3a3630a71633703f19fde40408e6fc592ef54a75d87",
-    "qa_input_hash": "69cc9606d5fe5b485a6c42e0d244c975791cf2bf901f9b6473cabf2b43752dfc",
-    "last_updated_local": "2026-05-13T06:15:59.864109",
-    "bill_hash": "1014a1affa645bfcb34cc0a0ef25e6e5"
+    "amended_status": "amended",
+    "amend_input_hash": "da2d94b363b73800e3094801c3a6f698d1369779e4ae57a2ed90e3be118333df",
+    "qa_input_hash": "78d64b1525460e0669084343bc1e6520b8ff90996fa4b4dc542ea90b9800647b",
+    "last_updated_local": "2026-05-20T06:27:07.776765",
+    "bill_hash": "63e6f44f9de49f1b77a69a4d103fc23e"
   },
   "HB1027": {
     "first_seen": "2026-02-11T06:07:06.771034",
@@ -147027,8 +147039,8 @@
   },
   "HB1574": {
     "first_seen": "2026-02-14T05:49:00.481817",
-    "last_updated": "2026-04-14T05:45:45.062462",
-    "last_seen": "2026-04-14T05:45:45.062462",
+    "last_updated": "2026-05-20T06:23:47.801945",
+    "last_seen": "2026-05-20T06:23:47.801945",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -147106,8 +147118,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "963f4db5c5e75cf3e650fccb0fa024e77edfcb4c9b333cada036fb23b22e94d1",
-    "last_updated_local": "2026-04-14T06:44:47.340484",
-    "bill_hash": "cc7f815986c088d3658aab0f670bf4c5"
+    "last_updated_local": "2026-05-20T06:23:55.192781",
+    "bill_hash": "3bac5cf40adf6d41d13a50c15b4b5f06"
   },
   "HB1575": {
     "first_seen": "2026-02-14T05:49:01.300663",
@@ -149347,8 +149359,8 @@
   },
   "HB1599": {
     "first_seen": "2026-02-20T05:51:27.096009",
-    "last_updated": "2026-05-13T06:11:27.014564",
-    "last_seen": "2026-05-13T06:11:27.014564",
+    "last_updated": "2026-05-20T06:23:49.277591",
+    "last_seen": "2026-05-20T06:23:49.277591",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -149359,75 +149371,117 @@
       "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1599_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill establishes the Chesapeake Bay Enhancement Program within the Department of Natural Resources to provide funding for oyster propagation and replenishment projects that mitigate the environmental impact of transportation projects at the Port of Baltimore. Additionally, it creates the Maryland Seafood Industry Financial Assistance Fund, administered by the Maryland Agricultural and Resource-Based Industry Development Corporation (MARBIDCO), to provide loans and other financial support to commercial watermen and seafood-related small businesses.",
+      "bill_summary": "This bill establishes the Chesapeake Bay Enhancement Program to support oyster propagation and replenishment projects intended to offset the environmental impacts of transportation projects at the Helen Delich Bentley Port of Baltimore. It also creates the Maryland Seafood Industry Financial Assistance Fund to provide loans and financial aid to commercial watermen and small seafood businesses. Additionally, the bill prevents the Department of Natural Resources from approving the transfer of tidal fish licenses for individuals who are delinquent on loans from the Maryland Agricultural and Resource-Based Industry Development Corporation (MARBIDCO).",
       "start_year": 2026,
       "end_year": null,
       "funding": 2000000,
-      "responsible_party": "The Maryland Department of Natural Resources (DNR) and the Maryland Agricultural and Resource-Based Industry Development Corporation (MARBIDCO)",
-      "stakeholders": "Commercial watermen, small businesses within the Maryland seafood industry, and the Maryland Department of Transportation.",
-      "fiscal_impact_summary": "According to the Fiscal Note, State general fund expenditures increase by 2,000,000 in FY 2027 to capitalize the seafood industry fund. Nonbudgeted expenditures increase by 2,700,000 in FY 2027, representing the distribution of those funds plus 675,000 transferred from existing loan programs. Starting in FY 2028, the bill mandates an annual 2,000,000 appropriation from the Transportation Trust Fund for the Chesapeake Bay Enhancement Program, which codifies existing inter-agency funding arrangements. There is no local fiscal impact.",
+      "responsible_party": "Maryland Department of Natural Resources and the Maryland Agricultural and Resource-Based Industry Development Corporation",
+      "stakeholders": "Commercial watermen, small businesses in the seafood industry, and the Maryland oyster population.",
+      "fiscal_impact_summary": "State general fund expenditures increase by $2,000,000 in FY 2027 to capitalize the Maryland Seafood Industry Financial Assistance Fund. Beginning in FY 2028, the bill mandates an annual $2,000,000 appropriation from the Transportation Trust Fund for the Chesapeake Bay Enhancement Program, although the Fiscal Note indicates this may codify existing agency agreements. MARBIDCO is authorized to transfer up to $675,000 from other loan programs to the new fund, with a repayment deadline of June 30, 2028. There is no local fiscal impact.",
       "agency_relevance": [
         {
           "agency_name": "Department of Natural Resources",
           "is_relevant": true,
-          "relevance_explanation": "The bill establishes the Chesapeake Bay Enhancement Program within DNR, tasks the department with managing oyster propagation and replenishment projects, and requires DNR to enforce restrictions on tidal fish license transfers for delinquent borrowers.",
+          "relevance_explanation": "The bill establishes the Chesapeake Bay Enhancement Program within DNR and requires the department to manage oyster propagation, replenishment projects, and enforce tidal fish license transfer prohibitions for delinquent borrowers.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Maryland Agricultural & Resource-Based Industry Development Corp.",
           "is_relevant": true,
-          "relevance_explanation": "The bill establishes the Maryland Seafood Industry Financial Assistance Fund under MARBIDCO's administration and requires the corporation to manage loan applications, eligibility, and delinquency notifications to DNR.",
+          "relevance_explanation": "MARBIDCO is the primary administrator of the newly established Maryland Seafood Industry Financial Assistance Fund and is responsible for determining loan criteria, managing transfers from existing microloan programs, and notifying DNR of borrower delinquencies.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Department of Transportation",
           "is_relevant": true,
-          "relevance_explanation": "The bill mandates a recurring $2,000,000 annual appropriation from the Transportation Trust Fund (managed by MDOT) starting in FY 2028 to fund oyster mitigation for transportation projects.",
+          "relevance_explanation": "MDOT is the source of the $2 million annual appropriation from the Transportation Trust Fund and oversees the Port of Baltimore and other transportation projects whose environmental impacts necessitate the mitigation activities funded by this bill.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Maryland Port Administration",
           "is_relevant": true,
-          "relevance_explanation": "The Chesapeake Bay Enhancement Program is specifically established to mitigate the impact of projects maintaining or expanding the Helen Delich Bentley Port of Baltimore, which is operated by MPA.",
+          "relevance_explanation": "The bill specifically links the mitigation funding to transportation projects that maintain or expand the Helen Delich Bentley Port of Baltimore, which is managed and operated by the MPA.",
           "relevance_rating": 4
         },
         {
           "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "The bill mandates a specific recurring appropriation in the annual budget bill starting in FY 2028, which falls under DBM's responsibility for budget development and fiscal planning.",
-          "relevance_rating": 3
+          "relevance_explanation": "DBM is responsible for the state budget, which must include the mandated $2 million annual appropriation for the oyster program and oversaw the $2 million general fund capitalization for the seafood fund in the fiscal note.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The bill requires the Governor to include a $2,000,000 appropriation in the annual budget bill for the Chesapeake Bay Enhancement Program starting in FY 2028.",
+          "relevance_explanation": "The Governor is required to include specific appropriations in the annual budget bill and provides overall executive oversight for the new inter-agency program and fund.",
           "relevance_rating": 3
         },
         {
-          "agency_name": "Office of the Attorney General",
+          "agency_name": "Maryland Transportation Authority",
           "is_relevant": true,
-          "relevance_explanation": "The OAG provides legal counsel to the implementing agencies (DNR and MARBIDCO) regarding the establishment of new funds and the legal framework for restricting license transfers.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Comptroller of Maryland",
-          "is_relevant": true,
-          "relevance_explanation": "As the state's chief financial officer, the Comptroller is involved in the oversight of state funds, including the $2,000,000 general fund appropriation mentioned in the fiscal note for FY 2027 and subsequent TTF expenditures.",
-          "relevance_rating": 2
+          "relevance_explanation": "The bill identifies bridge and transportation projects as triggers for oyster mitigation funding; the MDTA is responsible for the state's toll bridges and facilities involved in such projects.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "State Highway Administration",
           "is_relevant": true,
-          "relevance_explanation": "The bill identifies the construction and maintenance of bridges as transportation projects requiring mitigation under the new program; SHA is responsible for the state's non-toll bridges.",
+          "relevance_explanation": "The SHA's construction and maintenance of non-toll bridges and shipping infrastructure are among the transportation projects that trigger the requirement for oyster population mitigation.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Board of Public Works",
+          "is_relevant": true,
+          "relevance_explanation": "The BPW oversees significant state expenditures and procurement contracts, including those related to capital projects at the Port of Baltimore and potentially the administration of new financial assistance programs.",
           "relevance_rating": 2
+        },
+        {
+          "agency_name": "Office of the Attorney General",
+          "is_relevant": true,
+          "relevance_explanation": "The OAG provides legal counsel to DNR, MDOT, and MARBIDCO regarding the implementation of new regulations, loan agreements, and license transfer restrictions.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Governor's Council on the Chesapeake Bay",
+          "is_relevant": true,
+          "relevance_explanation": "The Council advises the Governor on the restoration of the Chesapeake Bay, and the bill's focus on oyster propagation for mitigation aligns with its primary mission.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Rural Maryland Council",
+          "is_relevant": true,
+          "relevance_explanation": "The RMC supports the economic viability of resource-based industries, such as seafood and agriculture, and partners with MARBIDCO on rural financial assistance programs.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Commerce",
+          "is_relevant": true,
+          "relevance_explanation": "As the state's primary economic development agency, Commerce has a secondary interest in the financial assistance provided to small businesses in the Maryland seafood industry.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Smart, Green & Growing",
+          "is_relevant": true,
+          "relevance_explanation": "This multi-agency initiative coordinates Bay restoration efforts across departments, including the replenishment activities established by this program.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of the Environment",
+          "is_relevant": true,
+          "relevance_explanation": "MDE is responsible for environmental protection and water quality in the Bay; it is involved in monitoring the impacts of the projects and the success of the oyster replenishment efforts.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Maryland Transit Administration",
+          "is_relevant": true,
+          "relevance_explanation": "As a modal administration within MDOT, the MTA is part of the transportation network whose projects may contribute to the environmental effects addressed by the mitigation program.",
+          "relevance_rating": 1
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "dabf8e46d50efc978e0eaebe08f2d59806e07679012e22d80bcd44eeda3f5569",
-    "last_updated_local": "2026-05-13T06:18:33.947565",
-    "bill_hash": "df2ce5cec87c0ddb0740ff56bd5f2008"
+    "qa_input_hash": "761c98aa3d64db03adf57acb48b3ef55d5d60ae4642ceac2a23b81c6a9cf97d3",
+    "last_updated_local": "2026-05-20T06:24:38.510985",
+    "bill_hash": "11d28c7f6aa9f6fcedb84e36b3b3a9d8"
   },
   "HB1600": {
     "first_seen": "2026-02-20T05:51:28.480347",
