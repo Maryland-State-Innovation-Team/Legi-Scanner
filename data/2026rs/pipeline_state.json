@@ -120637,8 +120637,8 @@
   },
   "HB1267": {
     "first_seen": "2026-02-13T05:58:53.240169",
-    "last_updated": "2026-05-13T06:10:52.646641",
-    "last_seen": "2026-05-13T06:10:52.646641",
+    "last_updated": "2026-05-21T06:24:07.329470",
+    "last_seen": "2026-05-21T06:24:07.329470",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -120649,63 +120649,63 @@
       "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1267_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill requires local zoning authorities to designate and maintain the Patuxent Research Refuge and the Beltsville Agricultural Research Center in zoning classifications that restrict land use to open space, reserved open space, or resource conservation. It prohibits commercial, industrial, or residential development on these properties, even if sold or leased by the federal government. Additionally, it protects 'central natural areas' from conversion to agricultural or recreational use and requires public hearings and consultation with state environmental agencies prior to any development on the land.",
+      "bill_summary": "This bill requires local zoning authorities to maintain the Patuxent Research Refuge and the Beltsville Agricultural Research Center in zoning classifications that restrict land use to open space or resource conservation. It prohibits commercial, industrial, or residential development on these lands, even if they are sold or leased by the federal government, and requires state agency consultation and public hearings prior to any development.",
       "start_year": 2026,
       "end_year": null,
       "funding": null,
-      "responsible_party": "Local zoning authorities (Anne Arundel County Council and the District Council of the Maryland-Washington Regional District) in consultation with the Maryland Department of Natural Resources and the Maryland Department of the Environment.",
-      "stakeholders": "The federal government (as owners of the Patuxent Research Refuge and Beltsville Agricultural Research Center), local governments in Anne Arundel and Prince George's counties, and environmental conservation stakeholders.",
-      "fiscal_impact_summary": "The bill is not expected to materially affect State or local government finances. While it mandates specific zoning classifications and procedural requirements for certain land developments, the associated Fiscal Note indicates no significant financial impact on revenue or expenditures for the state or relevant local jurisdictions.",
+      "responsible_party": "Local zoning authorities in Anne Arundel and Prince George's counties, the Maryland Department of Natural Resources, and the Maryland Department of the Environment",
+      "stakeholders": "Local jurisdictions in Anne Arundel and Prince George's counties, the federal government (USDA), and the general public interested in environmental conservation.",
+      "fiscal_impact_summary": "According to the Fiscal Note, the bill is not expected to materially affect State or local government finances.",
       "agency_relevance": [
         {
           "agency_name": "Department of Natural Resources",
           "is_relevant": true,
-          "relevance_explanation": "The bill explicitly requires local zoning authorities and district councils to consult with the Department of Natural Resources before making a final decision on any proposed development on the specified properties to ensure there is no substantial impact on central natural areas.",
+          "relevance_explanation": "The bill explicitly requires local zoning authorities to consult with the Maryland Department of Natural Resources before making a final decision on any proposed development within the Patuxent Research Refuge or the Beltsville Agricultural Research Center to ensure the development will not have a substantial impact on central natural areas.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Department of the Environment",
           "is_relevant": true,
-          "relevance_explanation": "The bill explicitly requires local zoning authorities and district councils to consult with the Maryland Department of the Environment before making a final decision on any proposed development on the specified properties to ensure there is no substantial impact on central natural areas.",
+          "relevance_explanation": "The bill explicitly mandates that local zoning authorities consult with the Maryland Department of the Environment prior to authorizing development on the specified properties to verify that the proposed development will not significantly impact central natural areas.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Department of Planning",
           "is_relevant": true,
-          "relevance_explanation": "As the agency responsible for promoting sustainable growth and providing technical assistance to local governments on land use planning, the Department of Planning is directly relevant to the bill's mandates regarding zoning classifications and the preservation of open space.",
-          "relevance_rating": 4
+          "relevance_explanation": "As the state's principal agency for land use planning and policy, the Department of Planning oversees the Land Use Article which this bill amends. The agency also provides technical assistance to local governments regarding zoning classifications and sustainable growth strategies.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Department of Agriculture",
           "is_relevant": true,
-          "relevance_explanation": "The bill impacts the Beltsville Agricultural Research Center (BARC) and includes restrictions on converting central natural areas to agricultural use, which relates to the department's oversight of agricultural land and resource management.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Smart, Green & Growing",
-          "is_relevant": true,
-          "relevance_explanation": "The bill's focus on land preservation, open space designation, and inter-agency coordination (specifically mentioning MDP and MDE) aligns with the goals of this multi-agency initiative.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Governor's Office",
-          "is_relevant": true,
-          "relevance_explanation": "The bill addresses land use policy in areas of significant state interest and involves multi-agency coordination, falling under the Governor's responsibility for coordinating policy initiatives and overseeing the executive branch.",
+          "relevance_explanation": "The bill affects the Beltsville Agricultural Research Center (BARC), a prominent federal agricultural research site, and specifically prohibits the conversion of 'central natural areas' to agricultural use within both the center and the Patuxent Research Refuge.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The OAG would provide legal counsel to the various state agencies (DNR, MDE, MDP) required to participate in the consultation and implementation processes established by this land use mandate.",
+          "relevance_explanation": "The Office of the Attorney General provides legal counsel to the Department of Natural Resources and the Department of the Environment, the two state agencies tasked with mandatory consultation roles under the bill.",
           "relevance_rating": 2
+        },
+        {
+          "agency_name": "Smart, Green & Growing",
+          "is_relevant": true,
+          "relevance_explanation": "This multi-agency initiative coordinates the work of the Departments of Planning and the Environment on sustainable development and resource conservation, which are the primary objectives of the bill's zoning mandates for these sensitive natural areas.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Governor's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The Governor's Office oversees the executive departments (DNR and MDE) responsible for implementing the consultation and impact assessment requirements established by this legislation.",
+          "relevance_rating": 1
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "e648f808a9c37cc90b59497ee0be5fe20511eb0918eac5784446094493cd84f4",
-    "last_updated_local": "2026-05-13T06:16:41.862904",
-    "bill_hash": "71d229870d6eeb3e6882af7a45a9aa19"
+    "qa_input_hash": "d4f6683665887c28916821d09406836095494851e6c65ea22faa57c199b5058d",
+    "last_updated_local": "2026-05-21T06:24:37.459195",
+    "bill_hash": "baee4d09e13ff2e49f439317760ec703"
   },
   "HB1268": {
     "first_seen": "2026-02-13T05:58:53.967751",
