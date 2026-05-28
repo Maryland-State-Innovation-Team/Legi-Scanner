@@ -115246,8 +115246,8 @@
   },
   "HB1198": {
     "first_seen": "2026-02-12T06:02:19.799114",
-    "last_updated": "2026-03-12T05:47:25.568059",
-    "last_seen": "2026-03-12T05:47:25.568059",
+    "last_updated": "2026-05-28T06:25:18.528338",
+    "last_seen": "2026-05-28T06:25:18.528338",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -115313,8 +115313,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "a20713bbcd691182fc7a07f22a69e43e3268d1eee0f6a8ede22737aebaf2fdc1",
-    "last_updated_local": "2026-03-12T06:08:44.859591",
-    "bill_hash": "74a59c30d0f1765aa04ce4a25f60240c"
+    "last_updated_local": "2026-05-28T06:25:41.868879",
+    "bill_hash": "318558496da642fb4a99797eb4298985"
   },
   "HB1199": {
     "first_seen": "2026-02-12T06:02:20.250836",
@@ -115401,80 +115401,57 @@
   },
   "HB1200": {
     "first_seen": "2026-02-12T06:02:20.714430",
-    "last_updated": "2026-02-13T05:58:04.013730",
-    "last_seen": "2026-02-13T05:58:04.013730",
+    "last_updated": "2026-05-28T06:25:19.206128",
+    "last_seen": "2026-05-28T06:25:19.206128",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "amendments": [],
-      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1200.pdf"
+      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1200.pdf",
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1200_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill exempts the registered owner of a motor vehicle from liability for video tolls if they provide medical documentation from a licensed healthcare provider confirming that the owner was undergoing a course of cancer treatment at the time of the toll transaction.",
+      "bill_summary": "This bill exempts the registered owner of a vehicle from liability for video tolls if the vehicle is used to transport the owner to or between scheduled cancer treatments. To receive the exemption, the owner must provide medical documentation from a licensed health care provider to the Maryland Transportation Authority substantiating their ongoing course of treatment.",
       "start_year": 2026,
       "end_year": null,
-      "funding": null,
+      "funding": 77700,
       "responsible_party": "Maryland Transportation Authority",
-      "stakeholders": "Registered vehicle owners undergoing cancer treatment and the Maryland Transportation Authority",
-      "fiscal_impact_summary": "The bill will result in an indeterminate revenue decrease for the Maryland Transportation Authority due to the exemption of tolls for eligible individuals undergoing cancer treatment. Specific dollar estimates are unavailable as the formal Fiscal Note was not included in the provided text.",
+      "stakeholders": "Registered vehicle owners undergoing cancer treatment and their drivers, the Maryland Transportation Authority, and MDTA bondholders.",
+      "fiscal_impact_summary": "According to the fiscal note, nonbudgeted revenues for the Maryland Transportation Authority (MDTA) will decrease by a potentially significant but indeterminate amount starting in FY 2027. Nonbudgeted expenditures are estimated to increase by at least $77,700 in FY 2027 for administrative staff to process waivers, with annual costs projected to exceed $103,000 by FY 2031. Additionally, the bill may violate MDTA's trust agreement with bondholders, which could lead to legal challenges and associated costs.",
       "agency_relevance": [
         {
           "agency_name": "Maryland Transportation Authority",
           "is_relevant": true,
-          "relevance_explanation": "Primary agency responsible for toll collection; must verify medical documentation and waive liability for eligible owners.",
+          "relevance_explanation": "The Maryland Transportation Authority (MDTA) is the primary agency responsible for the bill's implementation. It is tasked with receiving medical documentation from vehicle owners, determining eligibility for the cancer treatment exemption, and waiving the corresponding video tolls. The fiscal note also indicates a significant loss in nonbudgeted revenue for MDTA and a need for additional staff to process these waivers.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Department of Transportation",
           "is_relevant": true,
-          "relevance_explanation": "Umbrella department overseeing the transportation network, including MDTA and MVA, and responsible for policy coordination.",
-          "relevance_rating": 5
+          "relevance_explanation": "As the parent agency of the Maryland Transportation Authority and the Motor Vehicle Administration, MDOT provides overall strategic oversight for the state's transportation network and the modal administrations directly affected by this policy change.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Motor Vehicle Administration",
           "is_relevant": true,
-          "relevance_explanation": "Provides registration and address data for tolling notices and manages registration-related enforcement actions.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Administrative Office of the Courts",
-          "is_relevant": true,
-          "relevance_explanation": "Adjudicates civil citations for toll violations through the state court system.",
+          "relevance_explanation": "The Motor Vehicle Administration (MVA) is responsible for providing the current mailing and residential addresses used by MDTA to send toll notices. Additionally, the MVA is the agency that must refuse or suspend vehicle registrations for individuals who fail to pay tolls, a process that would be impacted by new exemptions.",
           "relevance_rating": 3
-        },
-        {
-          "agency_name": "Office of Administrative Hearings",
-          "is_relevant": true,
-          "relevance_explanation": "Conducts administrative hearings for contested registration suspensions arising from toll violations.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Department of Health",
-          "is_relevant": true,
-          "relevance_explanation": "Regulates the licensed health care providers who must supply the required substantiating documentation.",
-          "relevance_rating": 2
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "Provides legal guidance to transportation agencies on implementing the new exemption and documentation standards.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Department of Budget and Management",
-          "is_relevant": true,
-          "relevance_explanation": "Monitors the fiscal impact of toll revenue reductions on the state's financial outlook.",
+          "relevance_explanation": "The Office of the Attorney General (OAG) serves as the legal representative for the MDTA. The fiscal note highlights that the proposed exemption may violate MDTA's trust agreement with bondholders, which could lead to litigation requiring legal counsel and defense from the OAG.",
           "relevance_rating": 2
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "019fcf6007694130e2baa4f3c338151d1ab5a0022ef5a366236c5123f4c72be0",
-    "last_updated_local": "2026-02-13T07:37:42.872984",
-    "bill_hash": "21c83c1b5a21a9af564bf789cddcc1c6"
+    "qa_input_hash": "a777d756c21e9e58509a537a68b5019465ead1ddaa574df8a29be00167246732",
+    "last_updated_local": "2026-05-28T06:26:17.557396",
+    "bill_hash": "925257090c1501a4c77945c33cd415f3"
   },
   "HB1201": {
     "first_seen": "2026-02-12T06:02:21.213485",
@@ -115692,8 +115669,8 @@
   },
   "HB1204": {
     "first_seen": "2026-02-12T06:02:22.576967",
-    "last_updated": "2026-03-14T05:44:56.019387",
-    "last_seen": "2026-03-14T05:44:56.019387",
+    "last_updated": "2026-05-28T06:25:19.757759",
+    "last_seen": "2026-05-28T06:25:19.757759",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -115764,8 +115741,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "15c5de2f2cf185cf976d02b0ca8f62d66df46284c99a78f9f1bcd038dc4a9225",
-    "last_updated_local": "2026-03-14T06:33:26.999184",
-    "bill_hash": "7428dc4528fcf090fb9f818aad1d62e6"
+    "last_updated_local": "2026-05-28T06:25:41.158194",
+    "bill_hash": "3566ef34895d663f3d5784a92caf308a"
   },
   "HB1205": {
     "first_seen": "2026-02-12T06:02:23.104396",
@@ -115906,8 +115883,8 @@
   },
   "HB1207": {
     "first_seen": "2026-02-12T06:02:24.004012",
-    "last_updated": "2026-03-07T05:36:37.016886",
-    "last_seen": "2026-03-07T05:36:37.016886",
+    "last_updated": "2026-05-28T06:25:20.374451",
+    "last_seen": "2026-05-28T06:25:20.374451",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -115967,13 +115944,13 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "8b5b00c2b10810561df2ae9894f140239f3908d009573e0412e8f4fc85af6eb9",
-    "last_updated_local": "2026-03-07T06:11:40.455733",
-    "bill_hash": "81b6e100e287c5cb8bc6c32c8d93d5c1"
+    "last_updated_local": "2026-05-28T06:25:41.499781",
+    "bill_hash": "5859ec8536ea25ee97d86807ca27954b"
   },
   "HB1208": {
     "first_seen": "2026-02-12T06:02:24.445482",
-    "last_updated": "2026-03-04T05:41:52.053112",
-    "last_seen": "2026-03-04T05:41:52.053112",
+    "last_updated": "2026-05-28T06:25:20.977273",
+    "last_seen": "2026-05-28T06:25:20.977273",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -116033,8 +116010,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "8e56ac0de9489e935e176f0970689973ae68baf511bb33d2062f477b10d28d82",
-    "last_updated_local": "2026-03-04T06:23:19.649101",
-    "bill_hash": "02be5a885f657585aac85ec4679c83b0"
+    "last_updated_local": "2026-05-28T06:25:42.933480",
+    "bill_hash": "eedc219a3ea959295bf4dcb2c8a7fb86"
   },
   "HB1209": {
     "first_seen": "2026-02-12T06:02:24.889508",
@@ -117381,116 +117358,63 @@
   },
   "HB1227": {
     "first_seen": "2026-02-12T06:02:33.342031",
-    "last_updated": "2026-03-03T05:44:34.554240",
-    "last_seen": "2026-03-03T05:44:34.554240",
+    "last_updated": "2026-05-28T06:25:21.663979",
+    "last_seen": "2026-05-28T06:25:21.663979",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "amendments": [],
-      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1227.pdf"
+      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1227.pdf",
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1227_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill authorizes Prince George's County to install and operate automated crosswalk monitoring systems in school zones to record vehicles failing to yield to pedestrians. Drivers caught by these systems are subject to a civil penalty of up to $40, with revenues used to cover system implementation costs and fund public safety programs. The bill also establishes evidentiary standards for these citations and requires the county to report on the program's effectiveness and financial performance by December 2027.",
+      "bill_summary": "This bill authorizes the use of automated crosswalk monitoring systems in school zones within Prince George\u2019s County to cite drivers who fail to stop for pedestrians in crosswalks. It establishes a civil penalty of up to $40, requires local government authorization and public notice, and mandates a report on the program's effectiveness by December 1, 2027.",
       "start_year": 2026,
       "end_year": 2031,
-      "funding": null,
-      "responsible_party": "Prince George's County Department of Public Works and Transportation and the District Court of Maryland",
-      "stakeholders": "Drivers and pedestrians in Prince George's County, Prince George's County government, local municipalities, and the Maryland District Court",
-      "fiscal_impact_summary": "The bill will increase local revenues and expenditures in Prince George's County through the collection of civil penalties (maximum $40 per violation) and the administration of the monitoring system. Net revenues after cost recovery must be dedicated to public safety. State fiscal impact includes a potential increase in District Court workloads and associated administrative costs and fine revenues. Specific aggregate dollar estimates were not provided in the bill text.",
+      "funding": 1400000,
+      "responsible_party": "Prince George\u2019s County Department of Public Works and Transportation",
+      "stakeholders": "Pedestrians and motorists in Prince George\u2019s County school zones, Prince George\u2019s County government, and the Maryland District Court.",
+      "fiscal_impact_summary": "Prince George\u2019s County will see increased revenues from uncontested $40 civil penalties and increased expenditures for system implementation and administration. State general fund revenues may increase slightly from contested cases. The Judiciary identifies a $1,400,000 cost for IT system upgrades to handle the general expansion of automated enforcement systems across the state, though this cost is not exclusively attributable to this specific bill.",
       "agency_relevance": [
         {
-          "agency_name": "Governor's Office",
+          "agency_name": "Administrative Office of the Courts",
           "is_relevant": true,
-          "relevance_explanation": "The bill requires the Prince George\u2019s County Department of Public Works and Transportation to submit a report to the Governor by December 1, 2027, regarding the implementation, costs, and effectiveness of the crosswalk monitoring systems.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Comptroller of Maryland",
-          "is_relevant": true,
-          "relevance_explanation": "The Comptroller is responsible for distributing various fines collected through automated monitoring systems as established in the Courts and Judicial Proceedings Article, which this bill amends.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Office of the Attorney General",
-          "is_relevant": true,
-          "relevance_explanation": "The Office of the Attorney General provides legal counsel to the State Highway Administration and the Motor Vehicle Administration regarding the implementation of the new crosswalk monitoring program and enforcement procedures.",
-          "relevance_rating": 1
-        },
-        {
-          "agency_name": "Department of Education",
-          "is_relevant": true,
-          "relevance_explanation": "The bill authorizes crosswalk monitoring systems specifically within school zones, which impacts pedestrian safety policies and traffic management adjacent to public schools overseen by the department.",
-          "relevance_rating": 2
+          "relevance_explanation": "The bill grants the District Court exclusive original civil jurisdiction over crosswalk monitoring system infractions. It also requires the Chief Judge of the District Court to adopt procedures for citation issuance, trials, and the collection of penalties.",
+          "relevance_rating": 5
         },
         {
           "agency_name": "Department of Transportation",
           "is_relevant": true,
-          "relevance_explanation": "As the parent agency for the State Highway Administration and Motor Vehicle Administration, MDOT is responsible for the overall transportation safety policies and the distribution of revenues generated from civil penalties.",
+          "relevance_explanation": "Two modal administrations within MDOT are impacted: the State Highway Administration (SHA) must authorize systems and place signs on State highways, while the Motor Vehicle Administration (MVA) is authorized to refuse or suspend vehicle registrations for unpaid citations.",
           "relevance_rating": 5
+        },
+        {
+          "agency_name": "Comptroller of Maryland",
+          "is_relevant": true,
+          "relevance_explanation": "The bill adds crosswalk monitoring systems to the list of automated enforcement programs required to remit fine revenue exceeding 10% of a county's total annual revenue to the Comptroller.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Maryland State Police",
           "is_relevant": true,
-          "relevance_explanation": "The Maryland State Police may act as an 'agency' authorized to issue citations and review recorded images from crosswalk monitoring systems in designated school zones.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Governor's Office of Crime Prevention and Policy",
-          "is_relevant": true,
-          "relevance_explanation": "The office coordinates public safety and criminal justice strategies, including automated enforcement initiatives aimed at reducing traffic violations and accidents.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Administrative Office of the Courts",
-          "is_relevant": true,
-          "relevance_explanation": "The District Court, supported by the AOC, has exclusive original civil jurisdiction over these infractions, and the Chief Judge of the District Court is required to adopt procedures for the issuance of citations and collection of penalties.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Maryland Automobile Insurance Fund",
-          "is_relevant": true,
-          "relevance_explanation": "MAIF is impacted by the bill\u2019s provision that prohibits these civil violations from being considered in the provision of motor vehicle insurance coverage.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Maryland Center for School Safety",
-          "is_relevant": true,
-          "relevance_explanation": "The agency is responsible for coordinating school safety efforts, and the implementation of crosswalk monitoring in school zones directly aligns with its mission to protect students in and around schools.",
+          "relevance_explanation": "As a primary law enforcement agency for the state, the Maryland State Police may act as the 'agency' authorized to issue citations, particularly on State highways or in jurisdictions where they provide primary traffic enforcement.",
           "relevance_rating": 3
         },
         {
-          "agency_name": "Maryland Insurance Administration",
+          "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The bill prohibits insurers from considering crosswalk monitoring system violations, necessitating oversight and enforcement by the MIA within the state's insurance market.",
+          "relevance_explanation": "The bill requires the Prince George\u2019s County Department of Public Works and Transportation to submit a comprehensive report on the program's effectiveness, costs, and revenue to the Governor by December 1, 2027.",
           "relevance_rating": 2
-        },
-        {
-          "agency_name": "Maryland Transportation Authority",
-          "is_relevant": true,
-          "relevance_explanation": "The MDTA is mentioned in the amended code regarding the remittance of civil penalties collected by the District Court and maintains its own police force for traffic enforcement.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Motor Vehicle Administration",
-          "is_relevant": true,
-          "relevance_explanation": "The MVA is authorized to refuse or suspend the registration of a motor vehicle if a civil penalty for a crosswalk monitoring system violation is not paid.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "State Highway Administration",
-          "is_relevant": true,
-          "relevance_explanation": "The SHA is specifically tasked with authorizing crosswalk monitoring systems on State highways within school zones and placing prominent signs giving notice of their use.",
-          "relevance_rating": 5
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "8905092fbd0c42c998e6442499651ef581d2c59cf72988d39d64393b3b8d703c",
-    "last_updated_local": "2026-03-03T05:46:10.422273",
-    "bill_hash": "dca59b849c6ff1c2fc14499808e03b91"
+    "qa_input_hash": "3378b43c65ce1e87ce9b336db18bef4b88e97be565bdc892adf8d23f6d1eb91f",
+    "last_updated_local": "2026-05-28T06:26:10.014985",
+    "bill_hash": "84b6befd76e15e622006ec6efa64d446"
   },
   "HB1228": {
     "first_seen": "2026-02-12T06:02:33.803353",
@@ -118573,122 +118497,105 @@
   },
   "HB1240": {
     "first_seen": "2026-02-12T06:02:39.430115",
-    "last_updated": "2026-02-18T05:59:31.826393",
-    "last_seen": "2026-02-18T05:59:31.826393",
+    "last_updated": "2026-05-28T06:25:22.441308",
+    "last_seen": "2026-05-28T06:25:22.441308",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "amendments": [],
-      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1240.pdf"
+      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1240.pdf",
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1240_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill authorizes certain sports wagering facility licensees to offer pari-mutuel wagering on historical horse races through a maximum of 4,000 terminals statewide. It expands the definition of 'sporting event' to include historical horse races and outlines the distribution of wagering proceeds to state and local funds, including the Blueprint for Maryland's Future Fund and the Purse Dedication Account. The bill is subject to a voter referendum in the November 2026 general election.",
-      "start_year": 2026,
+      "bill_summary": "This bill authorizes sports wagering facility licensees, including video lottery facilities, certain horse racing tracks, and satellite simulcast facilities, to offer pari-mutuel wagering on historical horse races (HHR) using terminals approved by the State Lottery and Gaming Control Commission. The bill sets a cap of 4,000 terminals statewide and specifies the distribution of proceeds to various funds including the General Fund and the Blueprint for Maryland\u2019s Future Fund. The bill's implementation is contingent on approval by Maryland voters in a November 2026 referendum.",
+      "start_year": 2027,
       "end_year": null,
-      "funding": null,
-      "responsible_party": "Maryland State Lottery and Gaming Control Commission",
-      "stakeholders": "Qualified Maryland voters, sports wagering facility licensees (casinos and racetracks), the horse racing industry, small, minority, and women-owned businesses, and the Maryland Department of Education.",
-      "fiscal_impact_summary": "The bill creates an indeterminate revenue increase from wagering on historical horse races. Proceeds are distributed to the General Fund (5%), local impact grants, the State Lottery and Gaming Control Agency, the Purse Dedication Account, the Small, Minority, and Women-Owned Businesses Account, and the Blueprint for Maryland's Future Fund. Non-video lottery licensees retain 60% of proceeds, while video lottery operators retain percentages based on existing video lottery terminal laws. Specific dollar estimates were not provided in the text.",
+      "funding": 22600000,
+      "responsible_party": "State Lottery and Gaming Control Commission",
+      "stakeholders": "Sports wagering facility licensees, video lottery operators, Maryland voters, the horse racing industry, and the Maryland public education system.",
+      "fiscal_impact_summary": "If approved by referendum, the bill is estimated to increase total State revenues by $22,600,000 in FY 2028 (consisting of $2,800,000 in General Fund revenue and $19,800,000 in Special Fund revenue), escalating to $75,300,000 by FY 2031. Special fund distributions include the Blueprint for Maryland\u2019s Future Fund, local impact grants, and the Purse Dedication Account. General fund expenditures for oversight by the State Lottery and Gaming Control Agency are expected to increase by approximately $1,500,000 in FY 2028 for staff and software costs.",
       "agency_relevance": [
         {
-          "agency_name": "Maryland State Lottery & Gaming Control Agency",
+          "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The agency is the primary regulator for sports wagering and is responsible for accounting for revenue and approving terminals and wager types for historical horse racing.",
-          "relevance_rating": 5
-        },
-        {
-          "agency_name": "Maryland State Board of Elections",
-          "is_relevant": true,
-          "relevance_explanation": "The bill requires a statewide referendum in 2026 regarding the expansion of commercial gaming, which this agency is explicitly mandated to manage and conduct.",
+          "relevance_explanation": "The Governor's Office oversees the executive branch and proposes the annual budget, which will be significantly impacted by the new HHR revenue streams and general fund adjustments described in the bill and fiscal note.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Comptroller of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "The Comptroller is responsible for the control and distribution of the proceeds from historical horse racing wagering as specified in the bill's revenue distribution sections.",
+          "relevance_explanation": "The Comptroller is the principal tax collector and will be responsible for accounting for HHR revenues and distributing them to various state funds, accounts, and local jurisdictions.",
           "relevance_rating": 5
-        },
-        {
-          "agency_name": "Department of Commerce",
-          "is_relevant": true,
-          "relevance_explanation": "The bill directs a portion of the wagering proceeds to the Small, Minority, and Women-Owned Businesses Account, which is under this department's authority.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Department of Education",
-          "is_relevant": true,
-          "relevance_explanation": "A significant portion of the wagering proceeds is distributed to the Blueprint for Maryland\u2019s Future Fund, which supports the state's public education system overseen by MSDE.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Department of Budget and Management",
-          "is_relevant": true,
-          "relevance_explanation": "As the state's principal fiscal agency, DBM is responsible for revenue estimation and long-term fiscal planning related to the new revenue streams generated by this bill.",
-          "relevance_rating": 4
         },
         {
           "agency_name": "Maryland State Treasurer's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Treasurer manages and protects state funds, including gaming revenues, and sits on the Board of Public Works, which oversees related state contracts.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Executive Commissions, Committees, Task Forces, and Advisory Boards",
-          "is_relevant": true,
-          "relevance_explanation": "The Sports Wagering Application Review Commission (SWARC) is an independent commission tasked with awarding the licenses necessary to conduct historical horse race wagering.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Governor's Office of Small, Minority & Women Business Affairs",
-          "is_relevant": true,
-          "relevance_explanation": "This office monitors the socioeconomic programs supported by the Small, Minority, and Women-Owned Businesses Account, which receives direct funding from the bill's proceeds.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Governor's Office",
-          "is_relevant": true,
-          "relevance_explanation": "The Governor's Office oversees the executive branch departments implementing this law and coordinates policy initiatives related to state revenue and commercial gaming expansion.",
+          "relevance_explanation": "The Treasurer manages state funds and serves on the Board of Public Works; the bill impacts the flow and distribution of state revenues and the management of special funds like the Purse Dedication Account.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The OAG provides legal counsel to state agencies and commissions, including legal review of the wagering framework and guidance for the mandated referendum.",
+          "relevance_explanation": "The OAG provides legal counsel to the SLGCA and the State Racing Commission regarding the development of regulations and the legal requirements of the mandatory referendum.",
           "relevance_rating": 3
         },
         {
-          "agency_name": "Department of Health",
+          "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "The bill stipulates that unclaimed winning wagers be distributed to the Problem Gambling Fund, which supports public health services managed by the department.",
-          "relevance_rating": 3
+          "relevance_explanation": "DBM is the principal fiscal agency responsible for state budget development; it must account for the substantial HHR revenues and the corresponding general fund expenditure shifts for education funding.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Department of Commerce",
+          "is_relevant": true,
+          "relevance_explanation": "The department manages the Small, Minority, and Women-Owned Businesses Account (SMWOBA), which is designated by the bill to receive a specific percentage of HHR wagering proceeds.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Department of Education",
+          "is_relevant": true,
+          "relevance_explanation": "MSDE is a primary stakeholder as the majority of state HHR proceeds are distributed to the Blueprint for Maryland's Future Fund, which supports public education and affects the agency's funding allocations.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Department of Labor",
           "is_relevant": true,
-          "relevance_explanation": "The department oversees the State Racing Commission, which has authority over the Purse Dedication Account and the licensing of horse racing tracks impacted by this expansion.",
+          "relevance_explanation": "The department houses the State Racing Commission, which oversees the Purse Dedication Account (PDA) and governs the systems of wagering on horse races that are expanded by this bill.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Maryland State Board of Elections",
+          "is_relevant": true,
+          "relevance_explanation": "The agency is specifically mandated by the bill to supervise and administer the statewide voter referendum in November 2026, which is required for the Act to take effect.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Maryland State Lottery & Gaming Control Agency",
+          "is_relevant": true,
+          "relevance_explanation": "As the primary regulator of sports wagering, the agency is responsible for approving HHR terminals, licensing facilities, and overseeing the operational integrity of the new wagering activities.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Executive Commissions, Committees, Task Forces, and Advisory Boards",
+          "is_relevant": true,
+          "relevance_explanation": "The bill references the Sports Wagering Application Review Commission (SWARC), which falls under this category, regarding its role in awarding licenses to Class A and Class B facilities.",
           "relevance_rating": 3
         },
         {
-          "agency_name": "Board of Public Works",
+          "agency_name": "Governor's Office of Small, Minority & Women Business Affairs",
           "is_relevant": true,
-          "relevance_explanation": "The Board oversees significant state expenditures and contracts, including those related to the distribution of impact grants and the fiscal administration of gaming proceeds.",
+          "relevance_explanation": "This office monitors and coordinates the socioeconomic procurement programs that are supported by the Small, Minority, and Women-Owned Businesses Account, which receives funding from the bill's revenue distribution.",
           "relevance_rating": 3
-        },
-        {
-          "agency_name": "Office of Legislative Audits",
-          "is_relevant": true,
-          "relevance_explanation": "OLA is responsible for auditing the fiscal compliance of the agencies and funds receiving and distributing the new wagering revenues to ensure financial accountability.",
-          "relevance_rating": 2
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "250e0d99e4af0bedc8e8051c98950e2fd00fd2f313a7a4f237f7579715be2652",
-    "last_updated_local": "2026-02-18T06:26:26.560940",
-    "bill_hash": "93a2b72effc73bcc6d7e2d952beb7147"
+    "qa_input_hash": "07343f90dc376f00e2e58ba8120c9b50b3481470e955ee651cb3bfb26a5648f9",
+    "last_updated_local": "2026-05-28T06:26:36.468716",
+    "bill_hash": "bdc3191e41eedcd7a4e7e07c712a37ef"
   },
   "HB1241": {
     "first_seen": "2026-02-12T06:02:39.877696",
@@ -118890,80 +118797,105 @@
   },
   "HB1244": {
     "first_seen": "2026-02-12T06:02:41.204391",
-    "last_updated": "2026-02-13T05:58:37.231240",
-    "last_seen": "2026-02-13T05:58:37.231240",
+    "last_updated": "2026-05-28T06:25:23.160682",
+    "last_seen": "2026-05-28T06:25:23.160682",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "amendments": [],
-      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1244.pdf"
+      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1244.pdf",
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1244_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill allows owners of residential property to seek damages in court if the value of their property is diminished by an eminent domain taking for an overhead transmission line or related infrastructure within 300 feet of their residence. It also mandates that in such condemnation proceedings, if the final court-ordered property value exceeds the initial appraisal offered by the condemning authority, the authority must pay the property owner's reasonable attorney's fees and other costs.",
+      "bill_summary": "This bill allows residential property owners to seek damages if their property value decreases because nearby land (within 300 feet) was taken through eminent domain for overhead transmission lines. It also mandates that the condemning authority pay the defendant's reasonable attorney's fees in a condemnation proceeding if the final assessed value of the property is higher than the authority's initial appraised value.",
       "start_year": 2026,
       "end_year": null,
       "funding": null,
-      "responsible_party": "Maryland Judiciary and the Maryland Public Service Commission",
-      "stakeholders": "Residential property owners, public utility companies, and state or local government entities with eminent domain authority.",
-      "fiscal_impact_summary": "The bill creates potential financial liabilities for condemning authorities, such as public utility companies or state agencies, by authorizing damage claims for diminished property value and requiring the payment of defendants' attorney fees if court valuations exceed initial appraisals. Specific dollar estimates are unavailable because the provided text does not include a formal Fiscal Note.",
+      "responsible_party": "Maryland Judiciary",
+      "stakeholders": "Residential property owners located within 300 feet of overhead transmission lines, utility companies, and legal counsel for defendants in condemnation proceedings.",
+      "fiscal_impact_summary": "The bill is not expected to have a direct, material effect on State or local government finances. However, the bill may increase the costs of acquiring property rights for transmission projects, such as the Maryland Piedmont Reliability Project, which could ultimately be passed on to electricity consumers through higher prices. Specific dollar estimates for these potential costs are currently unavailable.",
       "agency_relevance": [
         {
           "agency_name": "Public Service Commission",
           "is_relevant": true,
-          "relevance_explanation": "The bill specifically targets overhead transmission lines constructed in accordance with Section 7-207 of the Public Utilities Article, which is the regulatory framework administered by the PSC. Changes to damages and legal fees in condemnation proceedings for these lines directly affect the feasibility and costs of utility infrastructure projects overseen by the Commission.",
+          "relevance_explanation": "The Public Service Commission is the primary regulator for overhead transmission lines and oversees the Certificate of Public Convenience and Necessity (CPCN) process mentioned in the bill. The bill's provisions regarding eminent domain specifically apply to projects regulated under the Public Utilities Article.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Office of the People's Counsel",
           "is_relevant": true,
-          "relevance_explanation": "The Office of the People's Counsel is the statutory advocate for residential utility consumers. This bill empowers residential property owners to seek damages for diminished property value caused by nearby utility infrastructure, an issue that falls directly within the consumer advocacy mission of the OPC.",
-          "relevance_rating": 5
+          "relevance_explanation": "The OPC is the independent state agency representing the interests of residential utility consumers. This bill creates new legal remedies and fee-shifting protections for residential property owners affected by utility-driven transmission line projects.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Administrative Office of the Courts",
           "is_relevant": true,
-          "relevance_explanation": "The bill creates a new cause of action for residential property owners in courts of competent jurisdiction and mandates fee-shifting for attorney's fees in specific condemnation cases. This directly impacts judicial operations, court workloads, and the adjudication of civil damages within the Maryland court system.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Office of the Attorney General",
-          "is_relevant": true,
-          "relevance_explanation": "The OAG provides legal representation to the state and its agencies. In instances where a state agency is the condemning authority or is involved in litigation regarding transmission line easements on state-owned land, the OAG would be responsible for handling the defense and the fiscal implications of mandatory attorney's fees.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Department of General Services",
-          "is_relevant": true,
-          "relevance_explanation": "As the state's central real estate and procurement authority, DGS manages state property and potential eminent domain actions. Modifications to eminent domain law regarding damages and mandatory counsel fees affect the state's potential liability and the management of real estate assets.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Department of Transportation",
-          "is_relevant": true,
-          "relevance_explanation": "MDOT frequently manages rights-of-way and utilizes eminent domain for transportation infrastructure, which often intersects with utility transmission corridors. Changes to condemnation valuation and fee-shifting rules for overhead lines could impact MDOT's project planning and legal costs.",
+          "relevance_explanation": "The bill creates a new civil cause of action for property owners and mandates the award of counsel fees and costs under specific conditions in condemnation proceedings, which directly impacts the administration and operations of the state's court system.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Department of Planning",
           "is_relevant": true,
-          "relevance_explanation": "MDP provides land use data analysis and policy guidance. The bill's focus on residential property value diminution within 300 feet of infrastructure involves significant land use planning and resource management considerations within the department's purview.",
+          "relevance_explanation": "The Department of Planning promotes sustainable land use and is involved in the regulatory review process for large infrastructure projects like transmission lines, which have significant land use and community planning implications.",
           "relevance_rating": 2
         },
         {
-          "agency_name": "Board of Public Works",
+          "agency_name": "Department of Agriculture",
           "is_relevant": true,
-          "relevance_explanation": "The Board of Public Works oversees significant state expenditures and the acquisition or transfer of state property. Legislative changes to eminent domain costs and property damages would impact the board's review of utility-related property transactions and state-funded infrastructure projects.",
+          "relevance_explanation": "Transmission lines frequently cross agricultural land, impacting property values and agricultural operations. The agency is a stakeholder in protecting the economic viability of farming and agribusiness affected by such projects.",
           "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Transportation",
+          "is_relevant": true,
+          "relevance_explanation": "Transmission infrastructure projects often impact state-owned rights-of-way and transportation corridors managed by the State Highway Administration or other MDOT modal administrations.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Maryland Energy Administration",
+          "is_relevant": true,
+          "relevance_explanation": "The MEA coordinates state energy planning and advises on policy regarding the electrical grid and renewable energy transmission, making the costs and legal frameworks surrounding transmission lines relevant to their mission.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Property Tax Assessment Appeals Board",
+          "is_relevant": true,
+          "relevance_explanation": "The bill utilizes the 'assessed value' of a property (the subject of the board's review) as a benchmark to determine the awarding of legal fees in condemnation cases, potentially impacting the significance and outcomes of property assessments.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Rural Maryland Council",
+          "is_relevant": true,
+          "relevance_explanation": "The Council advocates for the 18 rural counties where many major transmission projects are sited; property value diminution and eminent domain issues are major policy concerns for rural residents.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Maryland Agricultural & Resource-Based Industry Development Corp.",
+          "is_relevant": true,
+          "relevance_explanation": "MARBIDCO supports the profitability of rural industries that can be negatively impacted by the loss of land or diminished property values resulting from utility easements and transmission lines.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Office of the Attorney General",
+          "is_relevant": true,
+          "relevance_explanation": "The OAG provides legal counsel to state agencies involved in condemnation or utility regulation and may be involved in litigation or appeals resulting from the new cause of action established by the bill.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Governor's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The Governor's Office oversees the executive branch and energy policy initiatives, including the regulatory framework for statewide energy infrastructure projects.",
+          "relevance_rating": 1
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "56b21bf8776b42ed12f77d9529e21ddb99a4f3c6d6a2d939c79823afd641c2be",
-    "last_updated_local": "2026-02-13T08:08:57.489718",
-    "bill_hash": "e3e025f290bebf55bb87feafed69d3a9"
+    "qa_input_hash": "af1eeca1111ba040e4e5db93184828dea723e7d7bafb8adec18c4ffef800b972",
+    "last_updated_local": "2026-05-28T06:26:25.690000",
+    "bill_hash": "f61474f0a1360e4b7cc69255a49e6f1d"
   },
   "HB1245": {
     "first_seen": "2026-02-12T06:02:41.723634",
@@ -120633,62 +120565,69 @@
   },
   "HB1265": {
     "first_seen": "2026-02-13T05:58:51.770642",
-    "last_updated": "2026-02-13T05:58:52.236031",
-    "last_seen": "2026-02-13T05:58:52.236031",
+    "last_updated": "2026-05-28T06:25:23.873701",
+    "last_seen": "2026-05-28T06:25:23.873701",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1265.pdf",
-      "amendments": []
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1265_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill requires candidates for Maryland elected office to sign and submit either an oath of truthfulness regarding information they provide to the public during their campaign or a statement declining to sign such an oath. Candidates who sign the oath are subject to perjury charges, disqualification, or removal from office for knowingly providing false information about their employment, legal history, or organizational affiliations. Both the signed oath or the signed refusal are made available for public inspection.",
+      "bill_summary": "This bill requires candidates for public or party office in Maryland to submit a signed oath or statement with their certificate of candidacy regarding their truthfulness during the campaign. Candidates must either swear that all material they provide to the public will be factually truthful or, if they decline the oath, sign a statement acknowledging they are choosing not to swear to be truthful. Candidates who sign the oath are subject to perjury charges, disqualification, or removal from office if they knowingly disseminate deliberately false information concerning their employment, legal history, or organizational affiliations.",
       "start_year": 2026,
       "end_year": null,
       "funding": null,
       "responsible_party": "Maryland State Board of Elections",
-      "stakeholders": "Candidates for public office in Maryland and the Maryland State Board of Elections",
-      "fiscal_impact_summary": "A formal Fiscal Note is not provided in the text, and specific dollar estimates are unavailable. The bill imposes administrative duties on the State Board of Elections to update certificate of candidacy forms and manage the new filing requirements.",
+      "stakeholders": "Candidates for public or party office in Maryland and the voting public.",
+      "fiscal_impact_summary": "The bill is not expected to materially affect Maryland State or local government finances. According to the fiscal note, the administrative changes to the certificate of candidacy process can be managed within existing resources.",
       "agency_relevance": [
         {
           "agency_name": "Maryland State Board of Elections",
           "is_relevant": true,
-          "relevance_explanation": "As the primary agency responsible for supervising and administering elections, the State Board of Elections would be tasked with implementing the new requirement for candidates to submit a truthfulness oath or alternative statement alongside their certificates of candidacy and ensuring these documents are available for public inspection.",
+          "relevance_explanation": "As the agency responsible for supervising and administering elections, the State Board of Elections is the primary entity that will manage the certificate of candidacy filing process and ensure candidates submit the required oath or statement.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Office of the State Prosecutor",
           "is_relevant": true,
-          "relevance_explanation": "The Office of the State Prosecutor investigates and prosecutes offenses related to the integrity of the electoral process and perjury. This agency would be responsible for enforcing the sanctions mentioned in the bill, such as charges for knowingly disseminating false campaign information.",
+          "relevance_explanation": "The State Prosecutor is responsible for investigating and prosecuting criminal offenses related to the integrity of the electoral process, including potential perjury charges and candidate misconduct mentioned in the bill's truthfulness oath.",
           "relevance_rating": 4
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The OAG provides legal counsel to the State Board of Elections and the General Assembly. It would likely provide guidance on the constitutional implications of the candidate oath and represent the state in any legal challenges regarding the enforcement of truthfulness requirements.",
+          "relevance_explanation": "The OAG provides legal counsel to the State Board of Elections and would likely be involved in advising on the implementation and constitutionality of the required candidate oaths.",
           "relevance_rating": 3
         },
         {
           "agency_name": "State Ethics Commission",
           "is_relevant": true,
-          "relevance_explanation": "The bill amends the existing requirements for certificates of candidacy, which include mandatory financial disclosure filings with the State Ethics Commission. This bill adds the new truthfulness oath as an additional required document to that filing process.",
+          "relevance_explanation": "The bill amends existing requirements for candidates that currently include filing financial disclosure statements with the State Ethics Commission, making them a secondary part of the candidate certification process.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Office of Administrative Hearings",
+          "is_relevant": true,
+          "relevance_explanation": "Administrative Law Judges may be required to adjudicate disputes regarding candidate disqualifications or regulatory enforcement actions resulting from the new truthfulness requirements.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Administrative Office of the Courts",
           "is_relevant": true,
-          "relevance_explanation": "Violations of the oath can lead to charges of perjury, disqualification of candidacy, or removal from office, all of which involve judicial proceedings that would be managed through the Maryland court system.",
-          "relevance_rating": 2
+          "relevance_explanation": "The judiciary would ultimately oversee any legal challenges, perjury trials, or appeals regarding the disqualification or removal of candidates and officials under the provisions of the bill.",
+          "relevance_rating": 1
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "34d81705026416f9ba51b08cf344b2ce16c07b492b54b271e1615b65bec5d456",
-    "last_updated_local": "2026-02-13T08:22:33.437873",
-    "bill_hash": "0e27b24db018602660065adf895b61cc"
+    "qa_input_hash": "22e35d3d3d00dcb88d6f5dc068d1e3d45c99a848340f93f003002580e69e3df4",
+    "last_updated_local": "2026-05-28T06:26:34.625727",
+    "bill_hash": "5d0a1d46775451cf8f0fc968fff62de4"
   },
   "HB1266": {
     "first_seen": "2026-02-13T05:58:52.488825",
@@ -120829,8 +120768,8 @@
   },
   "HB1268": {
     "first_seen": "2026-02-13T05:58:53.967751",
-    "last_updated": "2026-03-14T05:45:01.736885",
-    "last_seen": "2026-03-14T05:45:01.736885",
+    "last_updated": "2026-05-28T06:25:25.254072",
+    "last_seen": "2026-05-28T06:25:25.254072",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -121112,13 +121051,13 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "429935370b06c815f3adb7c5b56e2b1ba4c13b45ebad4f3ea3ed6387f6c3c5f1",
-    "last_updated_local": "2026-03-14T06:34:34.123089",
-    "bill_hash": "55a78b50858aeb63cc557cf47ca4bcf4"
+    "last_updated_local": "2026-05-28T06:26:18.097521",
+    "bill_hash": "e9135f369434dc7b5a798e9d53d899c7"
   },
   "HB1269": {
     "first_seen": "2026-02-13T05:58:54.795785",
-    "last_updated": "2026-02-28T05:33:21.984553",
-    "last_seen": "2026-02-28T05:33:21.984553",
+    "last_updated": "2026-05-28T06:25:25.799978",
+    "last_seen": "2026-05-28T06:25:25.799978",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -121177,8 +121116,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "f930ff675f1f0844c833d5e3bb4b932bebb1ec660ef9803b1174aa501086d3b1",
-    "last_updated_local": "2026-02-28T06:05:44.872067",
-    "bill_hash": "3f6d394f9db48000b45b97eb0c19e5a4"
+    "last_updated_local": "2026-05-28T06:26:18.628673",
+    "bill_hash": "abe68f5d819dc4cf62580d7df6f2e167"
   },
   "HB1270": {
     "first_seen": "2026-02-13T05:58:55.645538",
@@ -122013,8 +121952,8 @@
   },
   "HB1281": {
     "first_seen": "2026-02-13T05:59:04.028963",
-    "last_updated": "2026-03-20T05:50:37.501489",
-    "last_seen": "2026-03-20T05:50:37.501489",
+    "last_updated": "2026-05-28T06:25:26.596546",
+    "last_seen": "2026-05-28T06:25:26.596546",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -122080,8 +122019,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "65f42896d418e93170bc81b8d5d97e95a0c43771346a08dbf5780b7f2e43a54e",
-    "last_updated_local": "2026-03-20T07:51:46.924224",
-    "bill_hash": "bdc14ec42293ec2efb4f35cfa6c09243"
+    "last_updated_local": "2026-05-28T06:26:19.011839",
+    "bill_hash": "a0e9d0971ff12bd5051ba96126c5c9de"
   },
   "HB1282": {
     "first_seen": "2026-02-13T05:59:04.901186",
@@ -123668,74 +123607,51 @@
   },
   "HB1301": {
     "first_seen": "2026-02-13T05:59:19.070143",
-    "last_updated": "2026-02-19T05:55:37.492683",
-    "last_seen": "2026-02-19T05:55:37.492683",
+    "last_updated": "2026-05-28T06:25:27.229744",
+    "last_seen": "2026-05-28T06:25:27.229744",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1301.pdf",
-      "amendments": []
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1301_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "The bill authorizes local jurisdictions to permit any person aggrieved by a decision of a historic preservation commission to appeal that decision to the local board of appeals, the appropriate circuit court, or both, in addition to existing appeal processes.",
+      "bill_summary": "This bill authorizes local jurisdictions to allow any person aggrieved by a decision of a local historic preservation commission or historic district commission to appeal the decision to the local board of appeals, the appropriate circuit court, or both. This new authorization is in addition to existing provisions that allow such appeals to be handled in the same manner as appeals from a local planning commission.",
       "start_year": 2026,
       "end_year": null,
       "funding": null,
-      "responsible_party": "Local jurisdictions",
-      "stakeholders": "Individuals aggrieved by historic preservation commission decisions and local government administrative bodies.",
-      "fiscal_impact_summary": "Specific dollar estimates are unavailable because a formal Fiscal Note was not included in the provided text. The bill may result in indeterminate administrative or legal costs for local jurisdictions and the judicial system if jurisdictions choose to authorize these additional appeal routes.",
+      "responsible_party": "Local jurisdictions and their respective historic preservation commissions",
+      "stakeholders": "Property owners in historic districts, persons aggrieved by historic preservation commission decisions, local governments, and local circuit courts.",
+      "fiscal_impact_summary": "According to the Fiscal Note, the bill does not materially affect State or local government finances. The impact on small businesses is estimated to be minimal.",
       "agency_relevance": [
         {
           "agency_name": "Department of Planning",
           "is_relevant": true,
-          "relevance_explanation": "The Maryland Department of Planning oversees the Maryland Historical Trust and provides technical assistance and policy guidance to local governments regarding land use and historic preservation. This bill directly modifies the administrative and legal procedures for local historic preservation commissions, which falls within the department's primary area of coordination and expertise.",
+          "relevance_explanation": "The Maryland Department of Planning (MDP) is the principal executive agency for land use planning and oversees the state's historical and cultural programs, including the Maryland Historical Trust. This bill directly amends Title 8 of the Land Use Article, which provides the statutory framework for local historic preservation commissions.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Administrative Office of the Courts",
           "is_relevant": true,
-          "relevance_explanation": "The bill explicitly authorizes local jurisdictions to allow appeals of historic preservation commission decisions to be taken to the circuit court. This directly impacts the Judiciary by clarifying or expanding the judicial pathway for such administrative appeals and potentially affecting the caseload of the circuit courts.",
-          "relevance_rating": 4
+          "relevance_explanation": "The bill explicitly authorizes a local jurisdiction to allow appeals from a historic preservation commission decision to be taken to the appropriate circuit court. The Administrative Office of the Courts provides support and oversight for the operations and caseloads of the Maryland Judicial Branch.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The OAG serves as the chief legal officer for the state and would be responsible for providing legal counsel to state agencies like the Department of Planning on the implementation of these land use changes and the legal standing of aggrieved persons under the updated statute.",
+          "relevance_explanation": "The Office of the Attorney General provides legal counsel to the General Assembly and state agencies on the interpretation and constitutionality of state laws, including those related to land use and the rights of persons aggrieved by administrative decisions.",
           "relevance_rating": 2
-        },
-        {
-          "agency_name": "Department of Housing and Community",
-          "is_relevant": true,
-          "relevance_explanation": "The Department of Housing and Community Development manages various community revitalization and historic tax credit programs. These programs often rely on the decisions and regulatory processes of local historic preservation commissions, making changes to their appeal procedures relevant to the department's work in community development.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Department of General Services",
-          "is_relevant": true,
-          "relevance_explanation": "DGS is responsible for the planning, design, and construction of state-owned facilities. If state-owned property is located within a local historic district, DGS would be affected by changes in the rights of an aggrieved person to appeal local commission decisions regarding renovations or improvements to those facilities.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Smart, Green & Growing",
-          "is_relevant": true,
-          "relevance_explanation": "As a multi-agency initiative coordinating land use, sustainability, and community revitalization, this body tracks legislation that impacts the regulation of historic properties and the 12 state planning visions that guide local decision-making.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Governor's Office",
-          "is_relevant": true,
-          "relevance_explanation": "The Governor's Office oversees executive branch policy and coordinates intergovernmental relations with local jurisdictions. This bill affects local government authority and administrative procedures, which are key areas of policy oversight for the Governor's staff.",
-          "relevance_rating": 1
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "38520fa7e8845ad713d994877c679d3bc25c59e229705def0e31307785d2e992",
-    "last_updated_local": "2026-02-19T06:09:00.890390",
-    "bill_hash": "84eef5870381b78ba2528758e38b61dc"
+    "qa_input_hash": "ba1b9ac1f2a78f6b110d75c298527ec040772d22be776dbcfc6c7e3f1013276b",
+    "last_updated_local": "2026-05-28T06:27:24.310220",
+    "bill_hash": "910fb366368f1046f8e6b3a05eb25bdc"
   },
   "HB1302": {
     "first_seen": "2026-02-13T05:59:19.807480",
@@ -123882,8 +123798,8 @@
   },
   "HB1303": {
     "first_seen": "2026-02-13T05:59:20.571971",
-    "last_updated": "2026-03-04T05:42:07.186824",
-    "last_seen": "2026-03-04T05:42:07.186824",
+    "last_updated": "2026-05-28T06:25:28.167769",
+    "last_seen": "2026-05-28T06:25:28.167769",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -123949,8 +123865,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "550a1d455e5273717d382ff3d6428e316e66b27134756c3b5143701fac112f61",
-    "last_updated_local": "2026-03-04T06:26:19.229258",
-    "bill_hash": "a4c379124d375858b88da47820961637"
+    "last_updated_local": "2026-05-28T06:26:26.087495",
+    "bill_hash": "2bbb392db0ba21b1a78ecfb81680379c"
   },
   "HB1304": {
     "first_seen": "2026-02-13T05:59:21.091889",
@@ -124205,8 +124121,8 @@
   },
   "HB1307": {
     "first_seen": "2026-02-13T05:59:23.370139",
-    "last_updated": "2026-03-07T05:36:41.851973",
-    "last_seen": "2026-03-07T05:36:41.851973",
+    "last_updated": "2026-05-28T06:25:28.690699",
+    "last_seen": "2026-05-28T06:25:28.690699",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -124289,8 +124205,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "b0669f6e41dbe543aeebf4375c570a3917b99591e9333966558f88c78e6817c7",
-    "last_updated_local": "2026-03-07T06:15:47.370636",
-    "bill_hash": "23d658d2a9911a186f4845c6ea7e8a82"
+    "last_updated_local": "2026-05-28T06:26:26.460814",
+    "bill_hash": "38404df825c183e26102311d4443495b"
   },
   "HB1308": {
     "first_seen": "2026-02-13T05:59:24.072019",
@@ -125241,74 +125157,81 @@
   },
   "HB1318": {
     "first_seen": "2026-02-13T05:59:31.591073",
-    "last_updated": "2026-02-18T05:59:58.794348",
-    "last_seen": "2026-02-18T05:59:58.794348",
+    "last_updated": "2026-05-28T06:25:29.340835",
+    "last_seen": "2026-05-28T06:25:29.340835",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1318.pdf",
-      "amendments": []
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1318_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill requires the Maryland Department of Human Services to develop and implement a comprehensive process to analyze, address, and monitor administrative errors in the Supplemental Nutrition Assistance Program (SNAP). It mandates that the Department formulate strategies to reduce these errors and work toward achieving an error rate equivalent to the best-performing state in the nation as determined by the U.S. Department of Agriculture.",
+      "bill_summary": "This bill requires the Maryland Department of Human Services to establish a comprehensive system to analyze and reduce administrative errors in the Supplemental Nutrition Assistance Program (SNAP). The department must develop strategies to improve the eligibility determination process and work toward achieving an error rate as low as the best-performing state in the nation.",
       "start_year": 2026,
       "end_year": null,
       "funding": null,
-      "responsible_party": "Maryland Department of Human Services",
-      "stakeholders": "SNAP recipients and the Maryland Department of Human Services",
-      "fiscal_impact_summary": "A formal Fiscal Note was not provided in the text, so specific dollar estimates are unavailable. The bill requires the Department of Human Services to develop and monitor new error-reduction strategies, which may impact administrative expenditures, but the text identifies no specific funding allocations or mandates.",
+      "responsible_party": "Department of Human Services",
+      "stakeholders": "Low-income households receiving SNAP benefits and the Maryland Department of Human Services.",
+      "fiscal_impact_summary": "According to the fiscal note, the bill's requirements can be handled with the Department of Human Services' existing budgeted resources, and there is no impact on State revenues or local government finances. However, the note indicates that reducing error rates is significant because starting in October 2027, the federal One Big Beautiful Bill Act of 2025 will require states with high payment error rates to cover a portion of SNAP benefit costs.",
       "agency_relevance": [
         {
           "agency_name": "Department of Human Services",
           "is_relevant": true,
-          "relevance_explanation": "The bill explicitly mandates the Department of Human Services to develop a comprehensive process to analyze and reduce Supplemental Nutrition Assistance Program (SNAP) administrative errors and to work toward achieving top-tier national performance levels.",
+          "relevance_explanation": "The Department of Human Services is the primary agency responsible for administering SNAP in Maryland and is explicitly directed by this bill to develop the comprehensive error reduction process.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Governor's Office of Performance Improvement",
           "is_relevant": true,
-          "relevance_explanation": "This office utilizes data-driven strategies and performance metrics to enhance the efficiency of state government; the bill's requirement to systematically analyze and reduce error rates to match best-performing states aligns directly with their core mission of operational improvement.",
+          "relevance_explanation": "This bill mandates a systematic analysis of administrative errors and the formulation of performance-based strategies, which aligns directly with this office's mission to use data-driven strategies to improve state government operations.",
           "relevance_rating": 4
-        },
-        {
-          "agency_name": "Governor's Office for Children",
-          "is_relevant": true,
-          "relevance_explanation": "The Governor's Office for Children focuses on reducing child poverty and food insecurity; SNAP is a critical tool for these goals, and improving the accuracy of benefit administration directly impacts the families they serve.",
-          "relevance_rating": 3
         },
         {
           "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "The bill addresses SNAP administrative costs and requires the development of new strategies and monitoring processes, which may require the allocation of additional personnel or fiscal resources overseen by this department.",
-          "relevance_rating": 2
+          "relevance_explanation": "As the fiscal agency, DBM oversees the administrative costs of SNAP. The fiscal note highlights potential federal penalties for high error rates under the federal OBBBA Act of 2025, which would significantly impact state budget planning.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Governor's Office for Children",
+          "is_relevant": true,
+          "relevance_explanation": "The office is dedicated to reducing child poverty and improving food security; improving the accuracy and efficiency of SNAP eligibility determinations directly supports their mission.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Maryland State Innovation Team",
+          "is_relevant": true,
+          "relevance_explanation": "This team identifies and tests novel initiatives to address child poverty and economic mobility, making SNAP administrative efficiency a relevant area for their solution incubation efforts.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Governor's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The Governor's Office oversees the executive branch and coordinates policy initiatives, including the performance of principal departments like DHS and the mitigation of federal funding risks.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Department of Aging",
           "is_relevant": true,
-          "relevance_explanation": "The bill explicitly references SNAP provisions for individuals at least 60 years old, a demographic for which the Department of Aging advocates regarding nutrition and long-term support.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Department of Information Technology",
-          "is_relevant": true,
-          "relevance_explanation": "Improving eligibility determination processes typically involves the state's central IT infrastructure (such as the MD THINK platform), making DoIT relevant for any technological upgrades required to implement the bill.",
+          "relevance_explanation": "The bill text specifically references SNAP supplements for individuals at least 60 years old, a demographic served by the Department of Aging, and changes to the eligibility process may affect their constituents.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "As the chief legal counsel for state agencies, the OAG would be responsible for ensuring that any new processes or regulations developed by DHS to reduce SNAP errors comply with federal laws and regulations.",
-          "relevance_rating": 1
+          "relevance_explanation": "The OAG provides legal counsel to state agencies like DHS and would likely be involved in ensuring that any new comprehensive processes for eligibility determination comply with state and federal laws.",
+          "relevance_rating": 2
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "99e696c120637d5aa4afdfa7ec0c74a76f14f1fe504af090de32ce3269d589f1",
-    "last_updated_local": "2026-02-18T06:26:35.563454",
-    "bill_hash": "79cff493dcb0be337cfd3a5a9a2df340"
+    "qa_input_hash": "a677b51fdc4b4a505c7c498cb6d44b7408887c208ef88357b8712e75f6dd08c0",
+    "last_updated_local": "2026-05-28T06:26:59.195842",
+    "bill_hash": "386cb840250c73e886ac6cd12998495a"
   },
   "HB1319": {
     "first_seen": "2026-02-13T05:59:32.450095",
@@ -125954,80 +125877,69 @@
   },
   "HB1327": {
     "first_seen": "2026-02-13T05:59:38.506949",
-    "last_updated": "2026-02-17T05:55:20.783257",
-    "last_seen": "2026-02-17T05:55:20.783257",
+    "last_updated": "2026-05-28T06:25:29.965585",
+    "last_seen": "2026-05-28T06:25:29.965585",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1327.pdf",
-      "amendments": []
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1327_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill establishes March 26 as Key Bridge Heroes Commemoration Day to honor the six workers who died in the Francis Scott Key Bridge collapse on March 26, 2024. It requires the Governor to proclaim the day annually and to hold a one-time official memorial tribute ceremony in Annapolis on March 26, 2027.",
+      "bill_summary": "This bill establishes March 26 as Key Bridge Heroes Commemoration Day to honor the six workers who died during the Francis Scott Key Bridge collapse on March 26, 2024. It requires the Governor to issue an annual proclamation and conduct a one-time official State ceremony in Annapolis on March 26, 2027, to recognize the victims and their families.",
       "start_year": 2026,
       "end_year": null,
-      "funding": null,
-      "responsible_party": "The Governor of Maryland",
-      "stakeholders": "Families and loved ones of the deceased workers, immigrant workers in the infrastructure sector, and the general public of Maryland.",
-      "fiscal_impact_summary": "Specific dollar estimates are unavailable as no formal Fiscal Note was included in the text. The bill requires the Governor to issue an annual proclamation and host a one-time memorial ceremony in 2027, which will likely result in minimal administrative and event-related costs for the State.",
+      "funding": 0,
+      "responsible_party": "Governor of Maryland",
+      "stakeholders": "The families and loved ones of the six deceased workers (Dorlian Ronial Castillo Cabrera, Alejandro Hernandez Fuentes, Miguel Angel Luna Gonzalez, Carlos Daniel Hernandez, Jose Mynor Lopez, and Maynor Yassir Suazo Sandoval), Maryland state and local government agencies, and the general public.",
+      "fiscal_impact_summary": "According to the Fiscal Note, there is no state or local fiscal impact. The Governor's Office is expected to implement the bill's requirements, including the annual proclamation and the 2027 memorial ceremony, using existing resources. No impact on revenues is expected.",
       "agency_relevance": [
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The bill explicitly requires the Governor to annually proclaim Key Bridge Heroes Commemoration Day and to hold an official State ceremony in Annapolis in 2027. This falls directly under the administrative and ceremonial duties of the Governor's Office.",
+          "relevance_explanation": "The bill explicitly mandates the Governor to issue an annual proclamation for Key Bridge Heroes Commemoration Day and to host an official State ceremony in Annapolis in 2027.",
           "relevance_rating": 5
-        },
-        {
-          "agency_name": "Maryland Transportation Authority",
-          "is_relevant": true,
-          "relevance_explanation": "The Francis Scott Key Bridge was an MDTA facility, and the workers being honored were performing maintenance on that specific infrastructure when the collapse occurred. The agency has a direct organizational interest in the commemoration of these workers.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Department of Transportation",
-          "is_relevant": true,
-          "relevance_explanation": "MDOT oversees the Maryland Transportation Authority and is the umbrella agency for the state's transportation infrastructure and workforce involved in roadway maintenance, making this commemoration highly relevant to its mission.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "State House Trust",
-          "is_relevant": true,
-          "relevance_explanation": "The bill mandates an official State ceremony to be held in Annapolis. The State House Trust oversees and regulates the use of the Maryland State House and its surrounding grounds, where such a ceremony would likely take place.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Lt. Governor",
-          "is_relevant": true,
-          "relevance_explanation": "The Lieutenant Governor often represents the state at ceremonial functions and chairs task forces as delegated by the Governor, making them a likely participant or coordinator for the memorial tribute ceremony.",
-          "relevance_rating": 2
         },
         {
           "agency_name": "Secretary of State",
           "is_relevant": true,
-          "relevance_explanation": "The Secretary of State is the custodian of the state's official records, including executive orders and proclamations. They would be responsible for the formal processing and preservation of the annual proclamation established by this bill.",
+          "relevance_explanation": "The Secretary of State is the principal custodian of official records, including the executive proclamations required by this bill.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Maryland Transportation Authority",
+          "is_relevant": true,
+          "relevance_explanation": "The bill commemorates workers who died during the collapse of the Francis Scott Key Bridge, a facility formerly operated and maintained by the MDTA.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Transportation",
+          "is_relevant": true,
+          "relevance_explanation": "As the umbrella agency for the state's transportation network, MDOT is the parent department for the MDTA and the infrastructure maintenance workers honored by this bill.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Department of General Services",
           "is_relevant": true,
-          "relevance_explanation": "DGS is responsible for the maintenance of state-owned facilities and providing security through the Maryland Capitol Police in Annapolis. They would likely be involved in the logistical planning and security for the official State ceremony.",
-          "relevance_rating": 2
+          "relevance_explanation": "DGS manages state-owned facilities and provides operational support for state agencies; it would likely assist in the logistics of the official State ceremony held in Annapolis.",
+          "relevance_rating": 1
         },
         {
-          "agency_name": "Department of Budget and Management",
+          "agency_name": "Maryland State Archives",
           "is_relevant": true,
-          "relevance_explanation": "DBM is the principal fiscal agency and would be responsible for managing any fiscal impacts or budget execution related to the costs of the official state memorial ceremony.",
+          "relevance_explanation": "The Archives maintains the official records of the state and the Maryland Manual, which includes information on official commemorative days.",
           "relevance_rating": 1
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "edc9c342fd51611ad0103f5d5b21c13ec642695441b34a2ef31feeae5f49b075",
-    "last_updated_local": "2026-02-17T05:59:43.915554",
-    "bill_hash": "cc24cb2654fe3eab9ebf4fd5fa387d92"
+    "qa_input_hash": "aad054ba44b384c8d1c9849f2cf8ab5f1a3b14fe4da177791bdff49632889ff1",
+    "last_updated_local": "2026-05-28T06:26:55.838080",
+    "bill_hash": "0b19343b4191ebb20c1a0bcbcea06b43"
   },
   "HB1328": {
     "first_seen": "2026-02-13T05:59:39.260378",
@@ -126556,8 +126468,8 @@
   },
   "HB1334": {
     "first_seen": "2026-02-13T05:59:43.569629",
-    "last_updated": "2026-03-12T05:47:40.952565",
-    "last_seen": "2026-03-12T05:47:40.952565",
+    "last_updated": "2026-05-28T06:25:30.741997",
+    "last_seen": "2026-05-28T06:25:30.741997",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -126623,8 +126535,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "41bc80159006da96bc41d62eeab2d7fa1b8c89367ee3f71791d4974c389c4b51",
-    "last_updated_local": "2026-03-12T06:21:46.913118",
-    "bill_hash": "f19ef7f66f6a9c14c61bfa19f44eae96"
+    "last_updated_local": "2026-05-28T06:26:36.878886",
+    "bill_hash": "75e1da6a347b04ddc99be26d103e6c99"
   },
   "HB1335": {
     "first_seen": "2026-02-13T05:59:44.290741",
@@ -126808,140 +126720,141 @@
   },
   "HB1336": {
     "first_seen": "2026-02-13T05:59:44.996344",
-    "last_updated": "2026-02-20T05:50:58.155012",
-    "last_seen": "2026-02-20T05:50:58.155012",
+    "last_updated": "2026-05-28T06:25:31.440545",
+    "last_seen": "2026-05-28T06:25:31.440545",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1336.pdf",
-      "amendments": []
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1336_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill establishes stricter prompt payment requirements for State and local government procurement and construction contracts. It expands the definition of an owner to include local governments and boards of education, requires written notification of payment withholding within 15 days, limits withheld amounts to twice the disputed value, and allows contractors to stop work after providing 14 days' notice of non-payment. Additionally, it increases the interest rate for late payments from 9% annually to 2% per month and repeals certain limitations on interest liability.",
+      "bill_summary": "This bill modifies and expands prompt payment requirements for state and local government procurement and construction contracts. It increases the interest rate for late payments to 2% per month, requires written notification within 15 days of a decision to withhold payment, and limits the amount withheld to twice the disputed value. It also allows contractors and subcontractors to stop work after 14 days' notice if they have not been paid and authorizes courts to award attorney's fees and costs to the prevailing party in enforcement actions.",
       "start_year": 2026,
       "end_year": null,
       "funding": null,
-      "responsible_party": "Maryland State executive branch procurement units, the Board of Public Works, and local government entities including counties and boards of education.",
-      "stakeholders": "Construction contractors, subcontractors, State agencies, and local government jurisdictions including counties, municipalities, and school boards.",
-      "fiscal_impact_summary": "The bill creates an indeterminate expenditure increase for the State and local governments due to a significant increase in late payment interest rates from 9% per year to 2% per month. It also removes existing statutory limits on the State's liability for interest payments. Specific dollar estimates are unavailable as the formal Fiscal Note was not included in the text.",
+      "responsible_party": "Maryland State executive branch units, local governments (including counties, municipalities, and boards of education), and the Board of Public Works.",
+      "stakeholders": "State and local government agencies, contractors, subcontractors, lower-tier subcontractors, and small businesses involved in government procurement.",
+      "fiscal_impact_summary": "State and local expenditures (all funds) will increase beginning in FY 2027 due to significantly higher interest payments on late invoices, with interest rates rising from 9% per annum to 2% per month. The State also faces expanded interest liability and potential litigation costs. Administrative costs for updating contract language and payment processing systems may also increase. Specific dollar estimates are unavailable because reliable projections are not feasible absent implementation experience, though the Fiscal Note indicates the increases may be significant.",
       "agency_relevance": [
         {
           "agency_name": "Department of General Services",
           "is_relevant": true,
-          "relevance_explanation": "The Department of General Services (DGS) is the central procurement authority for the state. The bill specifically amends the State Finance and Procurement Article and mentions the Chief Procurement Officer, who is an official of DGS. DGS is also designated as a 'primary procurement unit' under the law being amended.",
+          "relevance_explanation": "DGS is the primary control agency for State procurement and construction. The bill explicitly defines the Chief Procurement Officer as an official within DGS and designates DGS as a primary procurement unit. The agency will be responsible for implementing these payment and interest changes across executive branch contracts.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Department of Transportation",
           "is_relevant": true,
-          "relevance_explanation": "The Department of Transportation (MDOT) is designated as a 'primary procurement unit' in the bill. Given MDOT's significant construction and infrastructure portfolio, the changes to prompt payment requirements for contractors, subcontractors, and lower-tier subcontractors will have a substantial impact on its operations.",
-          "relevance_rating": 5
-        },
-        {
-          "agency_name": "University System of Maryland",
-          "is_relevant": true,
-          "relevance_explanation": "The University System of Maryland is explicitly listed as a 'primary procurement unit' in the bill. The new requirements regarding invoice timelines, interest rates on late payments, and mandatory contract provisions for subcontractors will directly affect its procurement and construction activities.",
-          "relevance_rating": 5
-        },
-        {
-          "agency_name": "Maryland State Treasurer's Office",
-          "is_relevant": true,
-          "relevance_explanation": "The State Treasurer's Office is designated as a 'primary procurement unit' in the bill. Additionally, the Treasurer serves on the Board of Public Works, which oversees state procurement policy and expenditures affected by this bill.",
-          "relevance_rating": 5
-        },
-        {
-          "agency_name": "Comptroller of Maryland",
-          "is_relevant": true,
-          "relevance_explanation": "As the state's chief financial officer responsible for paying state bills and employees, the Comptroller will be directly impacted by the changes to payment timelines, the significantly increased interest rate (2% per month), and the removal of the requirement for contractors to submit separate invoices for interest.",
-          "relevance_rating": 5
-        },
-        {
-          "agency_name": "Morgan State University",
-          "is_relevant": true,
-          "relevance_explanation": "Morgan State University is specifically designated as a 'primary procurement unit' in the bill, making it subject to the most stringent requirements for state units regarding payment timelines and interest on late payments.",
-          "relevance_rating": 5
-        },
-        {
-          "agency_name": "Saint Mary's College of Maryland",
-          "is_relevant": true,
-          "relevance_explanation": "Saint Mary's College of Maryland is specifically designated as a 'primary procurement unit' in the bill, meaning all its procurement and construction contracts must comply with the new payment and interest mandates.",
-          "relevance_rating": 5
-        },
-        {
-          "agency_name": "Maryland Port Administration",
-          "is_relevant": true,
-          "relevance_explanation": "The bill designates the Maryland Port Commission as a 'primary procurement unit.' The Maryland Port Administration (MPA) manages and operates the state-owned port facilities and would be responsible for implementing these procurement changes.",
-          "relevance_rating": 5
-        },
-        {
-          "agency_name": "Maryland State Board of Contract Appeals",
-          "is_relevant": true,
-          "relevance_explanation": "The Maryland State Board of Contract Appeals (MSBCA) adjudicates contract disputes between the State and vendors. The bill introduces new grounds for litigation, including the right for contractors to stop work for non-payment and the potential for successful claimants to be awarded attorney's fees and costs.",
-          "relevance_rating": 5
-        },
-        {
-          "agency_name": "Interagency Commission on School Construction",
-          "is_relevant": true,
-          "relevance_explanation": "The bill expands the definition of 'Owner' in the Real Property Article to include Boards of Education. The Interagency Commission on School Construction (IAC) oversees state funding and planning for school construction, making these prompt payment and interest rules highly relevant to its mission.",
-          "relevance_rating": 5
+          "relevance_explanation": "MDOT is a primary procurement unit and manages extensive construction contracts. The fiscal note highlights specific operational impacts on MDOT regarding inspection timelines, system updates, and increased costs for interest payments.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Board of Public Works",
           "is_relevant": true,
-          "relevance_explanation": "The Board of Public Works oversees and approves significant state procurement contracts and capital projects. The bill's changes to state procurement policy and fiscal penalties (interest rates) for late payments fall under its administrative purview.",
+          "relevance_explanation": "The Board of Public Works oversees significant state contracts and procurement policy. This bill alters the statutory framework for the contracts the Board is tasked with approving and monitoring.",
           "relevance_rating": 4
         },
         {
-          "agency_name": "Department of Budget and Management",
+          "agency_name": "Maryland State Board of Contract Appeals",
           "is_relevant": true,
-          "relevance_explanation": "As the state's principal fiscal agency, DBM is responsible for supervising budget execution and fiscal planning. The bill's increase in the interest rate for late state payments from 9% per annum to 24% per annum (2% per month) has a notable fiscal impact on state operations and planning.",
+          "relevance_explanation": "The MSBCA adjudicates procurement contract disputes. The bill repeals provisions that previously shielded the state from interest liability while a contract claim was pending, directly impacting the financial stakes of disputes handled by this board.",
           "relevance_rating": 4
         },
         {
-          "agency_name": "Maryland Stadium Authority",
+          "agency_name": "Comptroller of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "The Maryland Stadium Authority (MSA) manages major construction projects including sports complexes and public schools. While not a 'primary' procurement unit, it is an executive branch unit involved in complex construction contracts that involve multiple tiers of subcontractors impacted by the bill.",
+          "relevance_explanation": "As the chief financial officer and a member of the Board of Public Works, the Comptroller is responsible for paying state bills. The bill\u2019s changes to interest rates and payment timelines directly affect the Comptroller's disbursement operations.",
           "relevance_rating": 4
         },
         {
-          "agency_name": "Office of the Attorney General",
+          "agency_name": "Maryland State Treasurer's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Office of the Attorney General provides legal counsel to all state agencies on procurement law and contract interpretation. The bill's new mandatory contract provisions and notification requirements will require significant legal review and guidance for client agencies.",
+          "relevance_explanation": "The State Treasurer is designated as a primary procurement unit in the bill and serves on the Board of Public Works, which oversees the contracts impacted by these payment policy changes.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "University System of Maryland",
+          "is_relevant": true,
+          "relevance_explanation": "The University System is designated as a primary procurement unit and manages its own significant construction and procurement activities which must comply with the new payment and interest mandates.",
           "relevance_rating": 3
         },
         {
-          "agency_name": "Governor's Office",
+          "agency_name": "Morgan State University",
           "is_relevant": true,
-          "relevance_explanation": "The Governor's Office oversees the executive branch and appoints the Chief Procurement Officer. The bill impacts broad executive branch policy regarding fiscal management and contractor relations.",
+          "relevance_explanation": "Morgan State University is explicitly listed as a primary procurement unit in the bill text and will be subject to the altered payment timelines and increased interest rates for its contracts.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Saint Mary's College of Maryland",
+          "is_relevant": true,
+          "relevance_explanation": "Saint Mary's College is explicitly listed as a primary procurement unit in the bill text and will be subject to the altered payment timelines and increased interest rates for its contracts.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Maryland Port Administration",
+          "is_relevant": true,
+          "relevance_explanation": "The Maryland Port Commission (the governing body for the MPA) is designated as a primary procurement unit under the bill, making the agency's maritime and construction contracts subject to the new requirements.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Department of Education",
           "is_relevant": true,
-          "relevance_explanation": "By explicitly including local Boards of Education as 'Owners' under the Real Property Article's prompt payment provisions, the bill impacts the financial management of construction projects overseen by the Department of Education.",
+          "relevance_explanation": "The bill expands the definition of 'Owner' in construction contracts to include local boards of education, bringing local school system procurement under the bill's prompt payment and interest provisions.",
           "relevance_rating": 3
         },
         {
-          "agency_name": "Office of Legislative Audits",
+          "agency_name": "Maryland Stadium Authority",
           "is_relevant": true,
-          "relevance_explanation": "The Office of Legislative Audits conducts fiscal compliance audits of state agencies. They would be responsible for auditing agencies' adherence to the new prompt payment timelines and accurate calculation/payment of late interest.",
+          "relevance_explanation": "The Stadium Authority manages major construction projects for the state and local school systems. The bill's changes to construction contract payments, withholding notices, and interest directly affect their project management and financing.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Governor's Office of Small, Minority & Women Business Affairs",
+          "is_relevant": true,
+          "relevance_explanation": "The bill specifically alters the State\u2019s payment policy for Small Business Reserve (SBR) contracts, shortening the preferred payment window to 15 days, which falls under the implementation and monitoring duties of this office.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Office of the Attorney General",
+          "is_relevant": true,
+          "relevance_explanation": "The OAG provides legal counsel to state agencies on contract matters and will represent the state in the increased litigation or enforcement actions anticipated by the fiscal note.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Department of Budget and Management",
+          "is_relevant": true,
+          "relevance_explanation": "DBM is responsible for state budget development and supervising budget execution. The substantial increase in interest rates for late payments will impact the fiscal planning and agency expenditure oversight managed by DBM.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Governor's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The Governor oversees the executive branch and appoints the Chief Procurement Officer. The bill impacts broad executive branch policy regarding procurement and fiscal accountability.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Administrative Office of the Courts",
           "is_relevant": true,
-          "relevance_explanation": "The bill modifies the Real Property Article regarding prompt payment and introduces provisions for awarding attorney's fees and equitable relief in court. This affects civil litigation related to construction contracts adjudicated within the judicial branch.",
+          "relevance_explanation": "The bill allows for civil actions to enforce payment requirements and permits the awarding of attorney's fees and costs. This may result in an increase in civil filings within the judicial system.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Labor",
+          "is_relevant": true,
+          "relevance_explanation": "The bill impacts private construction contracts and defines construction-related services. The Department of Labor regulates various professions and industries within the construction sector that are subject to these altered payment laws.",
           "relevance_rating": 2
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "ad19fc1d4bcd8982a639871b7e92d2df6ad3462ad95b97fe2366e50a7ec9a15d",
-    "last_updated_local": "2026-02-20T06:02:43.343076",
-    "bill_hash": "2e0d94d6140c8ac6694175ae4de677aa"
+    "qa_input_hash": "a5c23d30c002e4019f2f87887aacaa92dec569a3820e211f44b29ad557705e19",
+    "last_updated_local": "2026-05-28T06:27:25.109023",
+    "bill_hash": "c38f6a00110258867528c7480d2e90e9"
   },
   "HB1337": {
     "first_seen": "2026-02-13T05:59:45.828969",
@@ -127554,110 +127467,117 @@
   },
   "HB1343": {
     "first_seen": "2026-02-13T05:59:50.168377",
-    "last_updated": "2026-02-13T05:59:50.710096",
-    "last_seen": "2026-02-13T05:59:50.710096",
+    "last_updated": "2026-05-28T06:25:32.251123",
+    "last_seen": "2026-05-28T06:25:32.251123",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1343.pdf",
-      "amendments": []
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1343_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill authorizes and regulates internet gaming in Maryland, overseen by the State Lottery and Gaming Control Commission. It allows for the issuance of internet gaming licenses to existing video lottery operators, certain sports wagering licensees, and other qualified applicants, with specific provisions for social equity applicants. The bill establishes licensing fees, revenue-sharing structures, and specific distributions of proceeds to various state funds, including the Blueprint for Maryland's Future Fund, the Purse Dedication Account, and a newly created Video Lottery Facility Employee Displacement Fund. Implementation is subject to approval by Maryland voters in a referendum to be held in November 2026.",
+      "bill_summary": "This bill establishes a legal framework for internet gaming in Maryland, allowing online casino-style games like poker and blackjack. The State Lottery and Gaming Control Commission would oversee licensing, with specific tracks for existing casino operators and social equity applicants. Revenue from these operations will primarily support the Blueprint for Maryland's Future Fund for education. The bill includes measures for responsible gambling and creates a fund to assist casino employees who might be displaced by the transition to online platforms. Implementation is contingent on voter approval in a November 2026 referendum.",
       "start_year": 2026,
       "end_year": null,
-      "funding": 1000000,
+      "funding": 473900000,
       "responsible_party": "State Lottery and Gaming Control Commission",
-      "stakeholders": "Potential internet gaming participants, video lottery facility operators, sports wagering facility licensees, social equity gaming applicants, former video lottery facility employees, and the Maryland public school system.",
-      "fiscal_impact_summary": "The bill creates significant new state revenue streams through an initial license fee of 1000000 per licensee and a tax on gaming proceeds. Licensees retain 80% of proceeds from live dealer games and 45% from other internet gaming. Distributed revenues include up to 10000000 for the Video Lottery Facility Employee Displacement Fund in the first year, and specified millions annually (FY 2028\u20132032) to local jurisdictions, horse racing accounts, and small business accounts. The majority of remaining proceeds are directed to the Blueprint for Maryland's Future Fund for education. Formal fiscal note estimates were not present in the provided text, but statutory distributions are defined through fiscal year 2032.",
+      "stakeholders": "Maryland voters, prospective internet gaming licensees, social equity applicants, current video lottery facility employees, and the public school system.",
+      "fiscal_impact_summary": "The Fiscal Note indicates that if approved by voters, State special fund revenues will increase significantly, reaching $489.7 million by FY 2031. Net special fund impact is positive, with a $473.9 million net effect projected for FY 2031. This revenue is expected to decrease General Fund expenditures by approximately $465.2 million in the same year by offsetting education funding requirements. Local jurisdictions will see an increase in education funding but may experience a slight decrease in traditional casino-based impact grants, though these are largely offset by new internet gaming distributions.",
       "agency_relevance": [
         {
-          "agency_name": "Governor's Office",
+          "agency_name": "Maryland State Lottery & Gaming Control Agency",
           "is_relevant": true,
-          "relevance_explanation": "The bill authorizes the Governor to enter into multijurisdictional Internet gaming agreements with other governments upon the recommendation of the Commission and requires reporting to the Governor on gaming operations and impacts.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Comptroller of Maryland",
-          "is_relevant": true,
-          "relevance_explanation": "The Comptroller is responsible for accounting for the Video Lottery Facility Employee Displacement Fund and distributing gaming proceeds and license fees to various state accounts as specified in the bill.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Maryland State Treasurer's Office",
-          "is_relevant": true,
-          "relevance_explanation": "The State Treasurer is required to hold the Video Lottery Facility Employee Displacement Fund separately and is authorized to invest the money in the fund.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Office of the Attorney General",
-          "is_relevant": true,
-          "relevance_explanation": "The Office of the Attorney General must be consulted by the Governor's Office of Small, Minority, and Women Business Affairs to establish a plan for minority business enterprise participation goals related to Internet gaming.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Department of Commerce",
-          "is_relevant": true,
-          "relevance_explanation": "The bill directs funds to the Small, Minority, and Women-Owned Businesses Account, which is under the authority of the Department of Commerce. Additionally, certain license applicants must commit to spending funds on studios under the auspices of the Maryland Film Office within this department.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Department of Education",
-          "is_relevant": true,
-          "relevance_explanation": "The bill significantly impacts education funding by distributing Internet gaming proceeds to the Blueprint for Maryland's Future Fund and altering how local education aid and the county's 'local share' are calculated and appropriated.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Department of Health",
-          "is_relevant": true,
-          "relevance_explanation": "The bill impacts the Problem Gambling Fund and requires the Maryland Center of Excellence on Problem Gambling (which operates under the Department's public health umbrella) to report annually on the impact of Internet gaming on addiction.",
-          "relevance_rating": 3
+          "relevance_explanation": "The agency is the primary regulator for Internet gaming, responsible for issuing licenses, performing background investigations, and overseeing all gaming operations.",
+          "relevance_rating": 5
         },
         {
           "agency_name": "Department of Labor",
           "is_relevant": true,
-          "relevance_explanation": "The Maryland Department of Labor is tasked with administering the newly established Video Lottery Facility Employee Displacement Fund and adopting regulations to manage grants, job training, and unemployment supplements for displaced workers.",
-          "relevance_rating": 5
-        },
-        {
-          "agency_name": "Maryland State Lottery & Gaming Control Agency",
-          "is_relevant": true,
-          "relevance_explanation": "The State Lottery and Gaming Control Commission is the primary agency responsible for licensing, regulating, and overseeing the implementation of Internet gaming, conducting background investigations, and accounting for revenue.",
-          "relevance_rating": 5
+          "relevance_explanation": "The agency is tasked with administering the newly established Video Lottery Facility Employee Displacement Fund, providing grants, and establishing job training programs for displaced workers.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Maryland State Board of Elections",
           "is_relevant": true,
-          "relevance_explanation": "The bill requires a referendum to be submitted to Maryland voters in November 2026, and the State Board of Elections is charged with the necessary actions to provide for and hold this referendum.",
+          "relevance_explanation": "The agency must conduct and oversee the mandatory statewide referendum required for the bill's gaming expansion to take effect.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Governor's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The Governor is authorized to enter into multijurisdictional Internet gaming agreements and oversees the executive branch's implementation of the act.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Governor's Office of Small, Minority & Women Business Affairs",
           "is_relevant": true,
-          "relevance_explanation": "The office is required to consult with the Attorney General to establish a clear plan for setting minority business enterprise (MBE) participation goals and procedures for the procurement of goods and services related to Internet gaming.",
+          "relevance_explanation": "The office is required to consult with the OAG and licensees to establish MBE participation goals and procedures for the Internet gaming industry.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Department of Education",
+          "is_relevant": true,
+          "relevance_explanation": "The agency oversees the public education system, which is the primary beneficiary of revenue distributed to the Blueprint for Maryland's Future Fund.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Department of Health",
+          "is_relevant": true,
+          "relevance_explanation": "The agency oversees the Maryland Center of Excellence on Problem Gambling, which is mandated to receive transactional data and report on the impact of Internet gaming on addiction.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Morgan State University",
           "is_relevant": true,
-          "relevance_explanation": "The bill explicitly requires Internet gaming licensees to provide transactional data and metrics related to Internet gaming to Morgan State University on an annual basis.",
-          "relevance_rating": 3
+          "relevance_explanation": "The university is explicitly designated in the bill to receive transactional data and metrics from licensees for research and analysis.",
+          "relevance_rating": 2
         },
         {
           "agency_name": "University System of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "The bill explicitly requires Internet gaming licensees to provide transactional data and metrics related to Internet gaming to Bowie State University, which is an institution within the University System of Maryland.",
+          "relevance_explanation": "The system includes Bowie State University, which is explicitly designated in the bill to receive transactional data and metrics from licensees for research and analysis.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Comptroller of Maryland",
+          "is_relevant": true,
+          "relevance_explanation": "The agency is responsible for accounting for the revenues collected under the act and managing the distribution of proceeds to various state funds.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Maryland State Treasurer's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The office is responsible for holding the Video Lottery Facility Employee Displacement Fund and investing state funds generated by gaming proceeds.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Office of the Attorney General",
+          "is_relevant": true,
+          "relevance_explanation": "The office provides legal counsel to state agencies regarding the new regulations and must be consulted on the establishment of MBE participation goals.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Commerce",
+          "is_relevant": true,
+          "relevance_explanation": "The agency oversees the Maryland Film Office, which is involved in the studio construction requirements for certain license applicants.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Budget and Management",
+          "is_relevant": true,
+          "relevance_explanation": "The agency is responsible for long-term fiscal planning and the supervision of budget execution for the new revenue and expenditures authorized by the bill.",
           "relevance_rating": 2
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "b8061b6f13c4bc92dc193f78ce0fada3bf8dd52e87f8e60488a3cf4b469feb25",
-    "last_updated_local": "2026-02-13T09:20:40.715230",
-    "bill_hash": "36ebc8290b2f7eed4503586f38143c40"
+    "qa_input_hash": "fc1f377ac06062c56e636b04b29f0daf0b59fafd159f52af7f0dbc3bbfc48cd6",
+    "last_updated_local": "2026-05-28T06:27:36.426511",
+    "bill_hash": "626f77296c8e27af2d2c74cbfeeabfb8"
   },
   "HB1344": {
     "first_seen": "2026-02-13T05:59:50.965771",
@@ -128114,122 +128034,111 @@
   },
   "HB1350": {
     "first_seen": "2026-02-13T05:59:55.175222",
-    "last_updated": "2026-02-14T05:45:01.482729",
-    "last_seen": "2026-02-14T05:45:01.482729",
+    "last_updated": "2026-05-28T06:25:32.907355",
+    "last_seen": "2026-05-28T06:25:32.907355",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1350.pdf",
-      "amendments": []
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1350_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill centralizes the reporting of child abuse and neglect by requiring reports to be submitted directly to the Maryland Department of Human Services (DHS) instead of to local departments or law enforcement. DHS is required to establish a centralized intake system to record reports, assess them for validity, and assign them to the appropriate local department for investigation.",
+      "bill_summary": "This bill requires the Maryland Department of Human Services (DHS) to establish and maintain a centralized intake system for reports of child abuse and neglect. It shifts the responsibility for receiving initial reports of suspected abuse or neglect from local departments of social services and local law enforcement agencies to DHS. Under the new system, DHS must record each report, assess it for validity, and assign it to the appropriate local department for investigation.",
       "start_year": 2026,
       "end_year": null,
-      "funding": null,
+      "funding": 3900000,
       "responsible_party": "Maryland Department of Human Services",
-      "stakeholders": "Children at risk of abuse or neglect, mandatory reporters (including health practitioners, police officers, educators, and human service workers), and local departments of social services.",
-      "fiscal_impact_summary": "The bill mandates the establishment of a centralized intake system by the Department of Human Services, which will necessitate an increase in state expenditures for system implementation, staffing, and administration. Specific dollar estimates are unavailable as a formal Fiscal Note was not provided in the text.",
+      "stakeholders": "Children at risk of abuse or neglect, parents and guardians, mandated reporters (including health practitioners, police officers, educators, and human service workers), and local departments of social services.",
+      "fiscal_impact_summary": "State general fund expenditures for the Department of Human Services are estimated to increase by approximately 3,900,000 annually for personnel and operating costs. For fiscal year 2027, costs are estimated at 2,600,000 for hiring 33 staff members, plus 230,000 for a hotline platform, 34,908 for software licenses, and a one-time programming update of 177,048. The bill also poses a risk of decreased federal fund revenues if the centralized intake system is found to be out of compliance with federal standards under the Child Abuse Prevention and Treatment Act. Local government operations for law enforcement and State's Attorneys' offices will be impacted, though no material fiscal impact on local finances is anticipated.",
       "agency_relevance": [
         {
           "agency_name": "Department of Human Services",
           "is_relevant": true,
-          "relevance_explanation": "DHS is the primary implementing agency tasked by the bill with establishing, maintaining, and operating the new centralized intake system for all child abuse and neglect reports in Maryland.",
+          "relevance_explanation": "As the primary implementing agency, DHS is tasked with establishing and maintaining the centralized intake system for all child abuse and neglect reports, assessing reports for validity, and assigning them to local departments for investigation.",
           "relevance_rating": 5
-        },
-        {
-          "agency_name": "Maryland State Police",
-          "is_relevant": true,
-          "relevance_explanation": "The bill fundamentally changes reporting protocols by redirecting reports of child abuse and neglect that were previously made to law enforcement agencies specifically to the Department of Human Services.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Department of Information Technology",
-          "is_relevant": true,
-          "relevance_explanation": "The creation of a state-level centralized intake system will require significant IT infrastructure development, data management, and cybersecurity oversight, which falls under DoIT's mission.",
-          "relevance_rating": 3
         },
         {
           "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "DBM will be responsible for overseeing the fiscal impact and personnel requirements necessary for DHS to implement the centralized system and manage state-level intake operations.",
-          "relevance_rating": 3
+          "relevance_explanation": "The bill has a significant fiscal impact, requiring an estimated $3.9 million annually for 33 new personnel and specialized software systems, which falls under DBM's oversight of the state budget and personnel management.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Department of Education",
           "is_relevant": true,
-          "relevance_explanation": "Educators are mandated reporters whose legal requirements for where to report child abuse are directly altered by this bill, requiring system-wide changes to training and school board protocols.",
+          "relevance_explanation": "Educators are mandatory reporters under state law; the bill fundamentally changes their reporting process by requiring them to submit reports directly to the DHS centralized system rather than to local departments.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Department of Health",
           "is_relevant": true,
-          "relevance_explanation": "Health practitioners are mandated reporters whose protocols are changed; additionally, the bill specifically modifies the reporting process for substance-exposed newborns and neglect related to drug abuse.",
+          "relevance_explanation": "Health practitioners are mandatory reporters. Additionally, the bill specifically outlines reporting and investigation protocols for substance-exposed newborns, which are handled in MDH-regulated healthcare settings.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Department of Information Technology",
+          "is_relevant": true,
+          "relevance_explanation": "The fiscal note specifies requirements for a new hotline platform, software licenses, and programming updates for the state's Child Juvenile and Adult Management System to support the centralized intake mandate.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Maryland State Police",
+          "is_relevant": true,
+          "relevance_explanation": "Police officers are mandatory reporters of child abuse. The bill shifts their reporting obligations to the new centralized DHS system and alters how law enforcement agencies coordinate initial reports.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Administrative Office of the Courts",
+          "is_relevant": true,
+          "relevance_explanation": "The bill impacts the investigation process and reporting timelines that directly precede Child in Need of Assistance (CINA) petitions and other judicial proceedings in the state court system.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Department of Juvenile Services",
+          "is_relevant": true,
+          "relevance_explanation": "The bill explicitly names juvenile detention center staff as mandatory reporters who must utilize the new centralized reporting system, and DJS is involved in the welfare of youth within the justice system.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "OAG will need to provide legal guidance to DHS regarding the development of the centralized intake regulations and ensure compliance with federal child welfare laws.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Administrative Office of the Courts",
-          "is_relevant": true,
-          "relevance_explanation": "The shift in intake and investigation assignment affects the documentation and initiation of Child in Need of Assistance (CINA) petitions that are ultimately adjudicated in the state court system.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Department of Juvenile Services",
-          "is_relevant": true,
-          "relevance_explanation": "DJS staff and those working in juvenile detention centers are mandated reporters whose reporting requirements are changed by this legislation.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Maryland Center for School Safety",
-          "is_relevant": true,
-          "relevance_explanation": "The center develops resources and training for school safety; the centralization of abuse reporting directly impacts the safety reporting frameworks used by Maryland schools.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Maryland Institute for Emergency Medical Services Systems",
-          "is_relevant": true,
-          "relevance_explanation": "EMS providers are health practitioners and mandated reporters; MIEMSS must ensure the new centralized reporting requirements are integrated into statewide EMS protocols.",
+          "relevance_explanation": "The OAG will provide legal counsel to DHS regarding the implementation of the centralized system, regulatory updates, and ensuring compliance with federal Child Abuse Prevention and Treatment Act (CAPTA) standards.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Governor's Office of Crime Prevention and Policy",
           "is_relevant": true,
-          "relevance_explanation": "GOCPP coordinates public safety and victim services; changes to the reporting and initial investigation of child abuse (a criminal matter) impact the state's broader public safety strategy.",
+          "relevance_explanation": "GOCPP coordinates public safety strategies and manages funds related to victim services and juvenile delinquency, both of which are impacted by changes to child abuse reporting and investigation structures.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Maryland Center for School Safety",
+          "is_relevant": true,
+          "relevance_explanation": "As an independent unit within MSDE, the center develops training and resources for school safety, which includes protocols for the mandatory reporting of child abuse and neglect.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Governor's Office for Children",
+          "is_relevant": true,
+          "relevance_explanation": "The office is dedicated to the well-being of Maryland's children and families; the centralized intake system is a major policy shift in the state's framework for protecting vulnerable children.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Board of Public Works",
           "is_relevant": true,
-          "relevance_explanation": "The procurement of technology and services for a centralized state intake system would likely require approval from the Board of Public Works.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Maryland Office of the Public Defender",
-          "is_relevant": true,
-          "relevance_explanation": "OPD represents parents in child welfare proceedings; changes to the intake and investigation process affect how cases are initially documented and initiated against their clients.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Office of Legislative Audits",
-          "is_relevant": true,
-          "relevance_explanation": "OLA would eventually be responsible for auditing the fiscal and performance compliance of the newly established centralized intake system within DHS.",
+          "relevance_explanation": "The implementation of the bill requires significant state expenditures for new IT platforms and staffing, which may require the Board's approval of procurement contracts.",
           "relevance_rating": 2
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "ffa93690063f19e9178fa357f64232bda04f2464c183dc9761aa8a15d28770a5",
-    "last_updated_local": "2026-02-14T06:07:25.952402",
-    "bill_hash": "a853371cdd11cd2b26c32bdb041600eb"
+    "qa_input_hash": "d1d3fc22123f421c5d15b77680070e8cf8ff3076f84e8ba4e271fc4b6eb98929",
+    "last_updated_local": "2026-05-28T06:27:50.851795",
+    "bill_hash": "160e138aabe65971a8111807ef352f05"
   },
   "HB1351": {
     "first_seen": "2026-02-13T05:59:56.116712",
@@ -128973,68 +128882,81 @@
   },
   "HB1360": {
     "first_seen": "2026-02-14T05:45:09.499828",
-    "last_updated": "2026-02-20T05:51:00.747213",
-    "last_seen": "2026-02-20T05:51:00.747213",
+    "last_updated": "2026-05-28T06:25:33.643175",
+    "last_seen": "2026-05-28T06:25:33.643175",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1360.pdf",
-      "amendments": []
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1360_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill increases the frequency of mandatory lobbying activity reports filed with the State Ethics Commission from twice per year to four times per year. It also expands the required contents of these reports to include specific details on lobbied matters, such as bill numbers, descriptions of legislative actions, and the lobbyist's position on those matters.",
+      "bill_summary": "This bill increases the frequency of lobbying activity reports that regulated lobbyists must file with the State Ethics Commission from twice per year to four times per year. It also requires lobbyists to disclose more specific details in these reports, including their position on each matter lobbied and the specific bill numbers or descriptions of the legislative actions involved.",
       "start_year": 2026,
       "end_year": null,
-      "funding": null,
+      "funding": 300000,
       "responsible_party": "State Ethics Commission",
-      "stakeholders": "Regulated lobbyists and the State Ethics Commission",
-      "fiscal_impact_summary": "Specific dollar estimates are unavailable as a formal Fiscal Note was not provided with the text. The bill increases the frequency and detail of reporting requirements for regulated lobbyists, which likely increases the administrative workload for the State Ethics Commission to process and review the additional filings.",
+      "stakeholders": "Regulated lobbyists, the State Ethics Commission, and local governments required to align local lobbying regulations with State requirements.",
+      "fiscal_impact_summary": "According to the Fiscal Note, State general and special fund expenditures will increase by a total of $300,000 in fiscal year 2027 ($150,000 from each fund) for one-time information technology programming costs to update reporting and training systems. Local government expenditures may increase minimally to update local regulations to match State law changes. There is no impact on State or local revenues.",
       "agency_relevance": [
         {
           "agency_name": "State Ethics Commission",
           "is_relevant": true,
-          "relevance_explanation": "The State Ethics Commission is the primary agency responsible for administering and enforcing the Maryland Public Ethics Law, including the regulation of lobbyist registration and reporting. This bill directly mandates changes to the Commission's reporting schedule and the specific data that must be collected from regulated lobbyists.",
+          "relevance_explanation": "As the primary agency responsible for administering the Maryland Public Ethics Law, the commission must implement the new reporting frequency and expanded disclosure requirements, which include a $300,000 fiscal impact for IT system and training updates.",
           "relevance_rating": 5
         },
         {
-          "agency_name": "Office of the State Prosecutor",
+          "agency_name": "Maryland State Treasurer's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Office of the State Prosecutor is responsible for investigating and prosecuting criminal offenses related to the integrity of state officials and the enforcement of the Maryland Public Ethics Law. Changes to lobbyist reporting requirements impact the records available for potential investigations into public ethics violations.",
+          "relevance_explanation": "The State Treasurer's Office is the administrator of the Lobbyist Registration Fund, a special fund identified in the fiscal note as the source for half of the bill's implementation costs.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Department of Budget and Management",
+          "is_relevant": true,
+          "relevance_explanation": "DBM is the state's principal fiscal agency and oversees the $150,000 general fund expenditure required for the Ethics Commission to update its systems and train lobbyists on the new standards.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The Office of the Attorney General serves as the chief legal officer for the state and provides legal counsel to state agencies, including the State Ethics Commission. They would be involved in interpreting the revised statute and defending the implementation of new reporting requirements.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Department of Information Technology",
-          "is_relevant": true,
-          "relevance_explanation": "The bill requires regulated lobbyists to file reports electronically with the State Ethics Commission. As the agency responsible for the state's IT infrastructure and digital services, DoIT may be required to support the Commission in updating its online filing portals and databases to accommodate the new deadlines and data fields.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Department of Budget and Management",
-          "is_relevant": true,
-          "relevance_explanation": "As the state's principal fiscal agency, DBM oversees the budget execution for the State Ethics Commission. The Commission may require additional resources or budgetary adjustments to implement the software upgrades and administrative capacity needed to handle more frequent lobbyist reports.",
+          "relevance_explanation": "The OAG provides legal counsel to the State Ethics Commission and is responsible for interpreting the Public Ethics Law, which this bill significantly amends regarding lobbyist disclosures.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Governor's Office oversees the executive branch, and the lobbying activities regulated by this bill include attempts to influence executive action, regulations, and executive orders. The Governor also sets the broader policy agenda for transparency and ethics in state government.",
+          "relevance_explanation": "The bill regulates lobbying of executive actions and the development of regulations and executive orders, which are central functions of the Governor's administration.",
           "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Information Technology",
+          "is_relevant": true,
+          "relevance_explanation": "The bill's fiscal impact is primarily driven by the need for substantial IT programming and system updates to the state's lobbying portal, which aligns with DoIT's role in overseeing state IT infrastructure.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Office of the State Prosecutor",
+          "is_relevant": true,
+          "relevance_explanation": "The State Prosecutor investigates and prosecutes criminal offenses related to the integrity of state officials and the enforcement of public ethics laws, including potential violations of lobbyist reporting requirements.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Executive Commissions, Committees, Task Forces, and Advisory Boards",
+          "is_relevant": true,
+          "relevance_explanation": "These bodies are often the targets of executive lobbying regarding regulations and policy recommendations, making them subjects of the lobbying activities that must be disclosed under the bill.",
+          "relevance_rating": 1
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "7920a1f93681fd35fa3cdb1b367b1333470215d87637f77da89d7a4c0ee65ba1",
-    "last_updated_local": "2026-02-20T06:02:44.128978",
-    "bill_hash": "cf9a59990f8d8596ed8135c80af7f49c"
+    "qa_input_hash": "cf74f24e8082bb18ccdfba4ee5a0a331bd79bba471b1162e8925ffa66b7c273f",
+    "last_updated_local": "2026-05-28T06:28:28.478600",
+    "bill_hash": "ac564bfd95ccadcd58101a563a354ccb"
   },
   "HB1361": {
     "first_seen": "2026-02-14T05:45:10.745118",
@@ -132073,8 +131995,8 @@
   },
   "HB1397": {
     "first_seen": "2026-02-14T05:45:56.460496",
-    "last_updated": "2026-03-12T05:47:46.544947",
-    "last_seen": "2026-03-12T05:47:46.544947",
+    "last_updated": "2026-05-28T06:25:34.404256",
+    "last_seen": "2026-05-28T06:25:34.404256",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -132152,8 +132074,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "971cef24e0c4965aeabf4a44873d01ce44bd2edbc03438ae725052348205e67c",
-    "last_updated_local": "2026-03-12T06:26:35.498890",
-    "bill_hash": "bf67bf46a02074cb14b5ed0b13e6db93"
+    "last_updated_local": "2026-05-28T06:27:25.492623",
+    "bill_hash": "68df191102cb6ee93ae17404fa1023cc"
   },
   "HB1398": {
     "first_seen": "2026-02-14T05:45:57.697357",
@@ -132550,68 +132472,57 @@
   },
   "HB1403": {
     "first_seen": "2026-02-14T05:46:03.806638",
-    "last_updated": "2026-02-14T05:46:04.730569",
-    "last_seen": "2026-02-14T05:46:04.730569",
+    "last_updated": "2026-05-28T06:25:35.028150",
+    "last_seen": "2026-05-28T06:25:35.028150",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1403.pdf",
-      "amendments": []
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1403_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill proposes a constitutional amendment to establish an initiative process in Maryland, allowing registered voters to petition for the addition, amendment, or repeal of public general laws or the Maryland Constitution. To qualify for the ballot, a petition must gather signatures from at least 10% of the total votes cast in the most recent gubernatorial election, with no more than 50% of signers coming from a single county or Baltimore City. If certified, the proposals are submitted to voters at the next general election.",
+      "bill_summary": "This bill proposes a constitutional amendment to establish an initiative process in Maryland, allowing voters to petition for the addition, repeal, or amendment of public general laws or the State Constitution. To qualify for a ballot, a petition must be signed by at least 10% of the number of voters who cast ballots in the most recent gubernatorial election, with no more than 50% of signers residing in any single county or Baltimore City. Once certified by the Secretary of State, proposals are submitted to voters at a general election; laws require a simple majority to pass, while constitutional changes require a two-thirds majority.",
       "start_year": 2026,
       "end_year": null,
-      "funding": null,
-      "responsible_party": "Secretary of State, Attorney General, and the Governor",
-      "stakeholders": "Maryland registered voters, the Maryland General Assembly, the Secretary of State, the Attorney General, and the State Board of Elections",
-      "fiscal_impact_summary": "The bill creates administrative costs for the Secretary of State to verify and certify initiative petitions and for the Attorney General to review proposal summaries. There will be additional costs for the State Board of Elections to include initiative proposals on general election ballots. Specific dollar estimates are unavailable because the formal Fiscal Note was not included in the provided text.",
+      "funding": 240000,
+      "responsible_party": "Maryland Secretary of State, Office of the Attorney General, and the State Board of Elections",
+      "stakeholders": "Registered voters of Maryland, the Maryland General Assembly, the Secretary of State, and State and local boards of elections",
+      "fiscal_impact_summary": "If voters approve the constitutional amendment in November 2026, State and local expenditures will increase to manage petition processing, signature verification, and ballot production. While total costs depend on the number and complexity of initiatives, the Department of Legislative Services provides an illustrative estimate that additional ballot cards could increase costs by $240,000 (split equally between the State and local governments). Local boards of elections would also incur indeterminate personnel costs to verify approximately 201,000 signatures per petition within the required 20-day window.",
       "agency_relevance": [
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The bill requires the Governor to make the final determination of the number of votes cast for and against initiative proposals, to issue official proclamations declaring proposals effective, and to resolve irreconcilable conflicts between multiple successful proposals with advice from the Attorney General.",
-          "relevance_rating": 5
-        },
-        {
-          "agency_name": "Secretary of State",
-          "is_relevant": true,
-          "relevance_explanation": "The Secretary of State is designated as the primary administrative authority for the initiative process, responsible for receiving the text of proposals, determining the validity of petition signatures, and certifying proposals for inclusion on the ballot.",
-          "relevance_rating": 5
+          "relevance_explanation": "The bill requires that the Governor determine the number of votes cast for and against an initiative proposal and issue a proclamation declaring successful proposals effective. The Governor also has the authority, with legal advice, to resolve irreconcilable conflicts between competing successful initiatives.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Maryland State Board of Elections",
           "is_relevant": true,
-          "relevance_explanation": "As the agency responsible for supervising and administering elections and managing the statewide voter registration system, the Board of Elections would be tasked with placing initiative proposals on general election ballots and providing the registration data necessary to verify the 10% signature threshold required by the bill.",
+          "relevance_explanation": "As the primary agency for election administration, the State Board of Elections is responsible for assisting petition sponsors, coordinating signature verification with local boards, and managing the significant ballot printing and mailing costs associated with statewide initiative questions.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The bill mandates that the Attorney General approve the accuracy of petition summaries and provide legal advice to the Governor regarding irreconcilable conflicts between successful initiative proposals.",
+          "relevance_explanation": "The bill mandates that the Attorney General approve the accuracy of any summary included in an initiative petition. Additionally, the Attorney General provides legal advice to the Governor regarding whether successful initiative proposals are in irreconcilable conflict.",
           "relevance_rating": 4
         },
         {
-          "agency_name": "Department of Budget and Management",
+          "agency_name": "Secretary of State",
           "is_relevant": true,
-          "relevance_explanation": "The creation of a statewide initiative process will have significant fiscal and personnel impacts, including costs for signature verification and ballot printing, which fall under the fiscal oversight and budget planning responsibilities of this department.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Maryland State Archives",
-          "is_relevant": true,
-          "relevance_explanation": "As the central depository for Maryland's permanent government records, the Archives would be responsible for preserving the resulting changes to the Public General Laws and the Maryland Constitution enacted through the initiative process.",
-          "relevance_rating": 2
+          "relevance_explanation": "The Secretary of State is the primary administrative entity for the initiative process, responsible for receiving the text of proposals, accepting the filing of petitions, and certifying proposals for a vote once signature requirements are met.",
+          "relevance_rating": 5
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "a4940d9116447e5957ab9b5c2619880866833e42b4a08e74d0c726d096117b32",
-    "last_updated_local": "2026-02-14T06:43:13.162758",
-    "bill_hash": "e5155341956696317aee86f671d827d2"
+    "qa_input_hash": "7b8c6f0c65d0d5308ddf98ac0426b4ea6e5bed98700448c4d3d0e8ca10311394",
+    "last_updated_local": "2026-05-28T06:27:54.424327",
+    "bill_hash": "bd08d4d2171b497446b36daa54e7bdb0"
   },
   "HB1404": {
     "first_seen": "2026-02-14T05:46:05.016003",
@@ -133565,86 +133476,75 @@
   },
   "HB1414": {
     "first_seen": "2026-02-14T05:46:17.530117",
-    "last_updated": "2026-02-15T05:53:13.842153",
-    "last_seen": "2026-02-15T05:53:13.842153",
+    "last_updated": "2026-05-28T06:25:35.763401",
+    "last_seen": "2026-05-28T06:25:35.763401",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1414.pdf",
-      "amendments": []
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1414_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill requires nursing homes to spend at least 75% of their total nursing and residential care revenue on direct care wages and benefits for nursing, dietary, restorative therapy, and social worker staff. It also mandates that nursing homes submit annual cost reports to the Maryland Department of Health beginning in 2027 and authorizes the Department to take enforcement actions, such as imposing corrective plans or suspending the nursing home from the Maryland Medical Assistance Program, for failure to comply with reporting or wage requirements.",
+      "bill_summary": "This bill requires nursing homes in Maryland to allocate at least 75% of their total nursing and residential care revenue toward direct care wages and benefits for nursing, dietary, restorative therapy, and social worker staff. It also mandates that nursing homes submit annual cost reports to the Maryland Department of Health starting in 2027, documenting wage disbursements and allowing for enforcement actions, such as corrective plans or Medicaid termination, for noncompliance.",
       "start_year": 2026,
       "end_year": null,
-      "funding": null,
+      "funding": 215200,
       "responsible_party": "Maryland Department of Health",
       "stakeholders": "Nursing home facilities, direct care workforce (nursing, dietary, restorative therapy, and social worker staff), and the Maryland Department of Health.",
-      "fiscal_impact_summary": "The bill mandates a specific expenditure threshold (75% of revenue) for direct care wages and benefits at nursing homes and establishes annual reporting requirements. While the provided text does not include a formal Fiscal Note with specific revenue or expenditure figures, it identifies potential financial implications including administrative oversight costs for the Maryland Department of Health and fiscal risks for nursing homes, such as suspension from the Medicaid program for noncompliance. Specific dollar estimates are unavailable.",
+      "fiscal_impact_summary": "State Medicaid expenditures are estimated to increase by $215,200 in FY 2028 for the Maryland Department of Health to hire two health policy analysts to oversee compliance and review cost reports. These costs are shared equally between general funds and federal funds (50% each), with federal fund revenues increasing by $107,600. There is no fiscal impact projected for FY 2027. Local governments are not impacted, but small business nursing homes may experience significant fiscal effects due to the mandated spending threshold and reporting requirements.",
       "agency_relevance": [
         {
           "agency_name": "Department of Health",
           "is_relevant": true,
-          "relevance_explanation": "The bill directly mandates that nursing homes submit annual cost reports to the Maryland Department of Health. Additionally, it empowers the Department to take enforcement actions, including the imposition of corrective plans and the suspension or termination of nursing homes from the Maryland Medical Assistance Program (Medicaid).",
+          "relevance_explanation": "The bill explicitly requires nursing homes to submit annual cost reports to the Maryland Department of Health (MDH) and grants the Department the authority to take enforcement actions, including the suspension or termination of nursing homes from the Maryland Medical Assistance Program (Medicaid).",
           "relevance_rating": 5
-        },
-        {
-          "agency_name": "Department of Aging",
-          "is_relevant": true,
-          "relevance_explanation": "The Maryland Department of Aging oversees long-term care advocacy and the quality of life for older adults in nursing facilities. A mandate requiring 75% of revenue to be spent on direct care wages and benefits significantly impacts the staffing levels and quality of service provided to the population the department protects.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Department of Labor",
-          "is_relevant": true,
-          "relevance_explanation": "This bill sets specific statutory requirements for direct care workforce wages and benefits within nursing facilities. The Department of Labor is responsible for enforcing workplace safety and labor laws and monitoring workforce development and labor market conditions.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Maryland Health Care Commission",
-          "is_relevant": true,
-          "relevance_explanation": "The Commission is responsible for health system planning and improving access to health care. The financial and operational mandates placed on nursing homes affect the state's health system stability and the availability of affordable, high-quality care, which the Commission monitors.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Office of Administrative Hearings",
-          "is_relevant": true,
-          "relevance_explanation": "The bill authorizes the Department of Health to take enforcement actions such as suspension or termination from Medicaid. Such actions are frequently appealed, and the Office of Administrative Hearings would be responsible for adjudicating these contested cases between the state and nursing home providers.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Office of the Attorney General",
-          "is_relevant": true,
-          "relevance_explanation": "As the chief legal representative for the state, the OAG would provide legal counsel to the Department of Health regarding the implementation and enforcement of the new wage requirements and cost report compliance.",
-          "relevance_rating": 2
         },
         {
           "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "The requirement for nursing homes to allocate specific percentages of revenue to wages may impact Medicaid reimbursement rates and the state's overall healthcare budget, which falls under DBM's fiscal planning and budget supervision duties.",
-          "relevance_rating": 2
+          "relevance_explanation": "The fiscal note indicates a direct impact on the state budget, requiring $215,200 in FY 2028 for new personnel (Health Policy Analysts) to enforce compliance and review cost reports. DBM is responsible for managing state personnel resources and budget execution.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Department of Aging",
+          "is_relevant": true,
+          "relevance_explanation": "The department's mission includes protecting the rights and improving the quality of life for older adults and long-term care advocacy. This bill directly regulates the financial allocation for direct care in nursing homes, which is a critical component of care for the population served by the Department of Aging.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Department of Disabilities",
           "is_relevant": true,
-          "relevance_explanation": "The department coordinates services for Maryland residents with disabilities, many of whom reside in nursing facilities. Changes to staffing expenditures and direct care benefits directly impact the quality of services and integration settings for this population.",
+          "relevance_explanation": "The Department of Disabilities focuses on improving services for Maryland residents with disabilities, including community living. Many residents in nursing homes are individuals with disabilities whose care and direct service quality are directly impacted by the wage and benefit expenditures regulated by this bill.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Office of Administrative Hearings",
+          "is_relevant": true,
+          "relevance_explanation": "The bill allows MDH to take enforcement actions such as suspension or termination from the Medicaid program. Such regulatory enforcement actions are subject to contested case hearings, which are adjudicated by Administrative Law Judges within the Office of Administrative Hearings.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Office of the Attorney General",
+          "is_relevant": true,
+          "relevance_explanation": "The OAG serves as the primary legal representative for state agencies. It would be responsible for providing legal counsel to MDH regarding the implementation of the new reporting requirements and representing the state in any legal challenges or enforcement actions.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Governor's Office oversees the executive branch and proposes the state budget. This bill involves significant health policy shifts and potential changes to the Medicaid budget, requiring executive coordination and policy alignment.",
-          "relevance_rating": 2
+          "relevance_explanation": "The Governor's Office oversees the executive branch and proposes the annual state budget. The fiscal note indicates a need for new general fund expenditures and personnel, which must be incorporated into the Governor's budget proposals.",
+          "relevance_rating": 1
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "f8ff4d4fd7efd2de792325799f336f631ca44c56b73cd2abd48c214055bdaae0",
-    "last_updated_local": "2026-02-15T05:54:03.411534",
-    "bill_hash": "6d1bb0a40ea5dce18e8c1350489f46ad"
+    "qa_input_hash": "21900bd978ff7560aca61c9fda26c4f6c620683fd61ffadceac32ec2550c1087",
+    "last_updated_local": "2026-05-28T06:27:58.611735",
+    "bill_hash": "1bc440a4b34da0e72532e1a6cc4ba243"
   },
   "HB1415": {
     "first_seen": "2026-02-14T05:46:18.745390",
@@ -138723,8 +138623,8 @@
   },
   "HB1478": {
     "first_seen": "2026-02-14T05:47:36.229348",
-    "last_updated": "2026-03-07T05:36:45.827922",
-    "last_seen": "2026-03-07T05:36:45.827922",
+    "last_updated": "2026-05-28T06:25:36.287640",
+    "last_seen": "2026-05-28T06:25:36.287640",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -138831,8 +138731,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "35d0d3c18f38f886319a9eeafaa2e566d4c174c28ea042dd76a291e565d98a5d",
-    "last_updated_local": "2026-03-07T06:17:04.279163",
-    "bill_hash": "c5eafd5b6e17743da38d3fc904e57b12"
+    "last_updated_local": "2026-05-28T06:27:51.203838",
+    "bill_hash": "0d5d66c4f76db5f70c91334f531a40b5"
   },
   "HB1479": {
     "first_seen": "2026-02-14T05:47:37.464764",
@@ -139033,8 +138933,8 @@
   },
   "HB1481": {
     "first_seen": "2026-02-14T05:47:39.987321",
-    "last_updated": "2026-03-12T05:47:53.901281",
-    "last_seen": "2026-03-12T05:47:53.901281",
+    "last_updated": "2026-05-28T06:25:36.939491",
+    "last_seen": "2026-05-28T06:25:36.939491",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -139088,8 +138988,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "e74cc6c0c827b845ef9f9f85036090b893a13a5bf40242614100652fc5e804ed",
-    "last_updated_local": "2026-03-12T06:34:12.610001",
-    "bill_hash": "4c9b01d449a7adb2e1cb01e13084e933"
+    "last_updated_local": "2026-05-28T06:27:51.582988",
+    "bill_hash": "deee7501c51ae4a5b7381b057afa9f8c"
   },
   "HB1482": {
     "first_seen": "2026-02-14T05:47:41.229687",
@@ -139296,86 +139196,99 @@
   },
   "HB1484": {
     "first_seen": "2026-02-14T05:47:43.185800",
-    "last_updated": "2026-02-17T05:55:46.360080",
-    "last_seen": "2026-02-17T05:55:46.360080",
+    "last_updated": "2026-05-28T06:25:37.595245",
+    "last_seen": "2026-05-28T06:25:37.595245",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1484.pdf",
-      "amendments": []
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1484_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill prohibits State's Attorneys from entering into plea agreements that result in the dismissal or nolle prosequi of human trafficking charges involving minor victims. It also prohibits individuals registered as sex offenders for offenses against minors from knowingly entering or operating 'places for children,' defined to include playgrounds, theme parks, and children's museums. Violating the restriction on entering places for children is a felony punishable by up to 5 years in prison and/or a fine of up to $5,000.",
+      "bill_summary": "This bill stops prosecutors from using plea deals to drop human trafficking charges involving child victims. It also prohibits sex offenders whose victims were children from entering or running places like playgrounds, theme parks, and children's museums, making such actions a felony punishable by up to five years in prison and a $5,000 fine.",
       "start_year": 2026,
       "end_year": null,
       "funding": null,
-      "responsible_party": "Maryland State's Attorneys and the Maryland Department of Public Safety and Correctional Services",
-      "stakeholders": "Individuals registered as sex offenders for crimes against minors, Maryland State's Attorneys, and minors and their families in Maryland.",
-      "fiscal_impact_summary": "The bill establishes a new felony offense, which may lead to an indeterminate increase in state expenditures for incarceration (up to 5 years) and a potential increase in state revenue from criminal fines (not exceeding $5,000 per violation). Specific dollar estimates from a formal Fiscal Note were not provided in the bill text.",
+      "responsible_party": "State's Attorneys, Maryland Department of Public Safety and Correctional Services, and the Maryland Judiciary",
+      "stakeholders": "Registered sex offenders whose victims were minors, children and their families, State's Attorneys, and law enforcement",
+      "fiscal_impact_summary": "State and local general fund revenues and expenditures may increase minimally. The bill's restrictions on plea agreements in human trafficking cases may lead to more trials, and the new felony for sex offenders entering prohibited locations includes a fine of up to $5,000 and/or five years in prison.",
       "agency_relevance": [
         {
           "agency_name": "Department of Public Safety and Correctional Services",
           "is_relevant": true,
-          "relevance_explanation": "DPSCS is responsible for the Maryland Sex Offender Registry and the state's correctional facilities. This bill directly impacts the registry by creating a new felony for registered offenders who enter 'places for children' and may increase the prison population due to the new felony classification and the prohibition of plea agreements that dismiss charges.",
+          "relevance_explanation": "The agency is responsible for maintaining the State sex offender registry and will manage the incarceration of individuals convicted of the new felony established by the bill.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Maryland Office of the Public Defender",
+          "is_relevant": true,
+          "relevance_explanation": "OPD will be required to provide legal representation for indigent defendants charged under the new felony provisions and those impacted by the restriction on plea agreements.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Administrative Office of the Courts",
           "is_relevant": true,
-          "relevance_explanation": "The bill prohibits State's Attorneys from entering into plea agreements that result in the dismissal of charges for child sex offenses, which directly impacts judicial proceedings and court management of these cases. It also creates a new felony charge that will be adjudicated in the state court system.",
+          "relevance_explanation": "The bill's restriction on plea agreements and the creation of a new felony will increase the trial workload and require updates to case management and judicial procedures.",
           "relevance_rating": 4
         },
         {
-          "agency_name": "Maryland Office of the Public Defender",
+          "agency_name": "Governor's Office of Crime Prevention and Policy",
           "is_relevant": true,
-          "relevance_explanation": "The bill restricts the ability of defense counsel to negotiate plea agreements for indigent clients charged with sex offenses against minors. It also creates a new felony for violating location restrictions, which will require legal representation by OPD staff.",
+          "relevance_explanation": "GOCPP serves as the primary coordinating body for public safety policy and advises the Governor on criminal justice strategies, including human trafficking and sex offender regulations.",
           "relevance_rating": 4
         },
         {
           "agency_name": "Maryland State Police",
           "is_relevant": true,
-          "relevance_explanation": "As the primary state law enforcement agency, the Maryland State Police would be responsible for enforcing the new criminal prohibition against registered sex offenders entering or operating specified 'places for children.'",
+          "relevance_explanation": "As the primary law enforcement agency, the State Police are responsible for enforcing the new criminal prohibitions and investigating violations related to sex offenders entering prohibited locations.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The OAG provides legal counsel to state agencies and represents the state in criminal appeals. This bill introduces significant changes to plea agreement laws and a new felony, which may require legal interpretation and appellate representation.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Department of Natural Resources",
-          "is_relevant": true,
-          "relevance_explanation": "DNR manages Maryland's state parks, which frequently contain playgrounds\u2014specifically defined in the bill as a 'place for children' where registered sex offenders are prohibited from entering.",
+          "relevance_explanation": "OAG provides legal counsel to state agencies regarding the implementation of the new law and will represent the state in civil and criminal appeals resulting from these provisions.",
           "relevance_rating": 2
         },
         {
-          "agency_name": "Department of Budget and Management",
+          "agency_name": "Department of Education",
           "is_relevant": true,
-          "relevance_explanation": "DBM oversees state fiscal planning. The creation of a new felony and the restrictions on plea agreements are likely to increase the length of stay and the overall population in state correctional facilities, leading to a notable fiscal impact on the state budget.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Governor's Office of Crime Prevention and Policy",
-          "is_relevant": true,
-          "relevance_explanation": "GOCPP coordinates state public safety strategies and advises the Governor on criminal justice policy. The changes regarding plea agreements for sex offenders and new registry-related crimes fall within their policy domain.",
+          "relevance_explanation": "MSDE oversees educational and child care facilities where similar sex offender restrictions currently apply; the bill expands the types of restricted locations that interact with children.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Governor oversees the executive branch, including the state agencies responsible for enforcing this law, and is responsible for signing or vetoing legislation that affects criminal law and public safety policy.",
-          "relevance_rating": 1
+          "relevance_explanation": "The Governor oversees the executive branch and policy initiatives related to child safety and human trafficking which are central themes of this legislation.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Governor's Office for Children",
+          "is_relevant": true,
+          "relevance_explanation": "The office is dedicated to child well-being and safety, aligning with the bill's intent to protect minors from sex offenders and human trafficking.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Budget and Management",
+          "is_relevant": true,
+          "relevance_explanation": "DBM oversees the state budget and will monitor the fiscal impact of increased trials, incarceration, and public defense costs.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Natural Resources",
+          "is_relevant": true,
+          "relevance_explanation": "DNR manages state parks and public lands that contain playgrounds, which are explicitly listed as restricted 'places for children' under the bill.",
+          "relevance_rating": 2
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "0d1560e46709135744e13b89280cbcd24b1e22cedd45b0c5626839c8b203bfa1",
-    "last_updated_local": "2026-02-17T06:00:00.945978",
-    "bill_hash": "1ee03b7639faef0e6c504ee90a6ae369"
+    "qa_input_hash": "4ff50de910f3319c776638a031d7f03c975d2a7e59750ced3bdee73ee0da06ea",
+    "last_updated_local": "2026-05-28T06:28:45.519608",
+    "bill_hash": "59b8c88fce6bf82694e8ad04e52a911b"
   },
   "HB1485": {
     "first_seen": "2026-02-14T05:47:44.439552",
@@ -139898,8 +139811,8 @@
   },
   "HB1491": {
     "first_seen": "2026-02-14T05:47:50.263807",
-    "last_updated": "2026-02-27T05:50:18.540386",
-    "last_seen": "2026-02-27T05:50:18.540386",
+    "last_updated": "2026-05-28T06:25:38.252415",
+    "last_seen": "2026-05-28T06:25:38.252415",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -140025,8 +139938,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "de2cc0bbe03db201720f2712bc3aecccc4203d29ba92ac87aeb9ee423cf569d2",
-    "last_updated_local": "2026-02-27T06:07:08.537687",
-    "bill_hash": "468e8d84c4fb135bc03e410b5c74420b"
+    "last_updated_local": "2026-05-28T06:27:54.802907",
+    "bill_hash": "c1fd3f7e703f5816e799d95770c621ca"
   },
   "HB1492": {
     "first_seen": "2026-02-14T05:47:51.036938",
@@ -140120,8 +140033,8 @@
   },
   "HB1493": {
     "first_seen": "2026-02-14T05:47:52.366220",
-    "last_updated": "2026-03-13T05:45:34.216626",
-    "last_seen": "2026-03-13T05:45:34.216626",
+    "last_updated": "2026-05-28T06:25:38.960058",
+    "last_seen": "2026-05-28T06:25:38.960058",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -140181,8 +140094,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "6ae4f5d93871c6973db7761d4bd0105d5571645f9924c657e30d0d614048411c",
-    "last_updated_local": "2026-03-13T06:20:44.930765",
-    "bill_hash": "bd2748978a2f0559165c81cf22bf5384"
+    "last_updated_local": "2026-05-28T06:27:55.168833",
+    "bill_hash": "7ed48d9c7498946bb4b1ece26c96750c"
   },
   "HB1494": {
     "first_seen": "2026-02-14T05:47:53.576032",
@@ -140257,8 +140170,8 @@
   },
   "HB1495": {
     "first_seen": "2026-02-14T05:47:54.344885",
-    "last_updated": "2026-03-07T05:36:47.200193",
-    "last_seen": "2026-03-07T05:36:47.200193",
+    "last_updated": "2026-05-28T06:25:39.519723",
+    "last_seen": "2026-05-28T06:25:39.519723",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -140329,8 +140242,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "efc816ec0f750d06720271c5adb6e26fdbcb57e90ab319e28662582e16756142",
-    "last_updated_local": "2026-03-07T06:17:05.025839",
-    "bill_hash": "112763dae116caf24a2c64f82b68a2fe"
+    "last_updated_local": "2026-05-28T06:27:55.553764",
+    "bill_hash": "d082509f853caf4b522c2ac732741e14"
   },
   "HB1496": {
     "first_seen": "2026-02-14T05:47:55.120775",
@@ -142784,110 +142697,135 @@
   },
   "HB1525": {
     "first_seen": "2026-02-14T05:48:22.049137",
-    "last_updated": "2026-02-15T05:53:35.865219",
-    "last_seen": "2026-02-15T05:53:35.865219",
+    "last_updated": "2026-05-28T06:25:40.238586",
+    "last_seen": "2026-05-28T06:25:40.238586",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "amendments": [],
-      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1525.pdf"
+      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1525.pdf",
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1525_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill requires the Governor to withdraw Maryland from the Regional Greenhouse Gas Initiative (RGGI) by January 1, 2027, and establishes specific conditions under which the State may rejoin. It eliminates the utility surcharge for EmPOWER energy efficiency programs and limits the rate for community solar energy bill credits to the electric company's standard offer service generation cost.",
+      "bill_summary": "This bill requires the Governor to withdraw Maryland from the Regional Greenhouse Gas Initiative (RGGI) by January 1, 2027, and defines specific conditions for rejoining. It also repeals the surcharge on customer bills used by utilities to recover costs for EmPOWER Maryland energy efficiency and conservation programs and limits the rate at which electric companies must purchase or provide bill credits for electricity from community solar energy generating systems.",
       "start_year": 2026,
       "end_year": null,
-      "funding": null,
-      "responsible_party": "Governor of Maryland and the Maryland Public Service Commission",
-      "stakeholders": "Maryland electric and gas utility customers, utility companies, community solar subscriber organizations, and state agencies receiving Strategic Energy Investment Fund proceeds.",
-      "fiscal_impact_summary": "The bill will cause a significant loss of State special fund revenue due to the cessation of carbon allowance sales under RGGI. It also eliminates the EmPOWER surcharge on utility bills, which will reduce costs for ratepayers but remove the cost-recovery mechanism for energy efficiency programs. Specific financial estimates are unavailable as no formal Fiscal Note was included in the text.",
+      "funding": 276600000,
+      "responsible_party": "The Governor and the Maryland Public Service Commission",
+      "stakeholders": "Electric and gas companies, electricity and gas ratepayers, low-income residents receiving energy assistance, and community solar developers and subscribers.",
+      "fiscal_impact_summary": "State special fund revenues and expenditures are estimated to decrease by $138,300,000 in fiscal 2027 and by $276,600,000 annually thereafter due to the withdrawal from RGGI. General fund expenditures may increase significantly to maintain programs previously supported by RGGI funds. The repeal of the EmPOWER surcharge eliminates a primary funding source for energy efficiency programs, likely requiring the Public Service Commission to establish alternative funding mechanisms such as increased base rates.",
       "agency_relevance": [
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The bill explicitly requires the Governor to withdraw the State from the Regional Greenhouse Gas Initiative (RGGI) by a specific date and provides criteria under which the Governor may rejoin. It also mandates specific notifications from the Governor to the Department of Legislative Services.",
-          "relevance_rating": 5
-        },
-        {
-          "agency_name": "Department of the Environment",
-          "is_relevant": true,
-          "relevance_explanation": "The bill amends the Environment Article regarding carbon dioxide emissions and the State's participation in RGGI, which is the primary regulatory framework managed by MDE for greenhouse gas reductions from power plants.",
-          "relevance_rating": 5
-        },
-        {
-          "agency_name": "Maryland Energy Administration",
-          "is_relevant": true,
-          "relevance_explanation": "MEA manages the Strategic Energy Investment Fund (SEIF), which receives all proceeds from RGGI auctions. The bill's withdrawal from RGGI would cease these revenue streams, and rejoining would redirect them back to the SEIF.",
+          "relevance_explanation": "The bill explicitly requires the Governor to withdraw the State from the Regional Greenhouse Gas Initiative (RGGI) by January 1, 2027, and provides conditions under which the Governor may rejoin.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Public Service Commission",
           "is_relevant": true,
-          "relevance_explanation": "The bill mandates the PSC to eliminate utility surcharges for the EmPOWER program and restricts the PSC's ability to set community solar tariffs above standard offer service rates.",
+          "relevance_explanation": "The Public Service Commission (PSC) is responsible for implementing the repeal of the EmPOWER surcharge on utility bills and regulating the tariff structure for community solar energy generating systems as mandated by the bill.",
           "relevance_rating": 5
+        },
+        {
+          "agency_name": "Department of Housing and Community",
+          "is_relevant": true,
+          "relevance_explanation": "The Department of Housing and Community Development (DHCD) administers the LIEEP and MEEHA energy efficiency programs, which are currently funded by the EmPOWER surcharge and RGGI proceeds, both of which are significantly altered or eliminated by the bill.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Department of Human Services",
+          "is_relevant": true,
+          "relevance_explanation": "The Department of Human Services (DHS) is a primary recipient of RGGI funding (at least 50% of proceeds) used for the Electric Universal Service Program (EUSP) and other low-income energy assistance programs, which will face a significant funding loss.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Department of the Environment",
+          "is_relevant": true,
+          "relevance_explanation": "The bill amends the Environment Article regarding the state's participation in RGGI. MDE is the primary agency for environmental protection and currently receives a portion of RGGI funding for various climate initiatives.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Office of the People's Counsel",
           "is_relevant": true,
-          "relevance_explanation": "The bill impacts utility rates for residential consumers by eliminating surcharges and changing community solar bill credits, areas where the OPC is the primary advocate for consumers.",
+          "relevance_explanation": "OPC represents residential utility consumers. The fiscal note indicates their workload and costs may increase as they advocate for consumers in base rate proceedings that could replace the EmPOWER surcharge.",
           "relevance_rating": 4
         },
         {
           "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "The withdrawal from RGGI and elimination of EmPOWER surcharges have significant fiscal and personnel implications for state programs funded by these mechanisms, requiring DBM's oversight of the state's budget and fiscal planning.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Office of the Attorney General",
-          "is_relevant": true,
-          "relevance_explanation": "The OAG provides legal counsel to the PSC and MDE regarding the implementation of statutory changes to the Public Utilities and Environment Articles and would handle legal aspects of withdrawing from the RGGI interstate memorandum.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Interstate Agencies -- Maryland Memberships",
-          "is_relevant": true,
-          "relevance_explanation": "The Regional Greenhouse Gas Initiative is an interstate compact/agreement. Maryland's withdrawal directly affects its status and cooperation within this interstate body.",
+          "relevance_explanation": "DBM is the principal fiscal agency responsible for state budget development. The bill results in a significant decrease in special fund revenues (over $276 million annually) and potential increases in general fund expenditures to replace lost funding for essential programs.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Maryland Clean Energy Center",
           "is_relevant": true,
-          "relevance_explanation": "The bill's focus on eliminating energy efficiency surcharges and withdrawing from greenhouse gas initiatives directly impacts the MCEC mission to advance clean energy and energy efficiency products.",
+          "relevance_explanation": "The Maryland Clean Energy Center is identified in the fiscal note as a recipient of RGGI funding for renewable energy and climate change programs, which will be reduced due to the state's withdrawal.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Department of General Services",
+          "is_relevant": true,
+          "relevance_explanation": "DGS receives RGGI funding to implement energy efficiency and conservation initiatives in state-owned facilities, which are impacted by the withdrawal from the initiative.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Department of Natural Resources",
+          "is_relevant": true,
+          "relevance_explanation": "DNR receives RGGI proceeds to support the Power Plant Research Program, which investigates the environmental impact of power generation and supports conservation efforts.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Department of Transportation",
+          "is_relevant": true,
+          "relevance_explanation": "MDOT is a recipient of RGGI proceeds for climate resiliency and energy programs related to transportation, which will experience a reduction in funding.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Office of the Attorney General",
+          "is_relevant": true,
+          "relevance_explanation": "The OAG provides legal counsel to state agencies like the PSC and MDE, who will require legal guidance on the statutory changes and regulatory shifts required by the bill.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "University System of Maryland",
+          "is_relevant": true,
+          "relevance_explanation": "The University System of Maryland, including the Maryland Energy Innovation Institute, receives RGGI funds for energy efficiency research and campus projects.",
           "relevance_rating": 2
         },
         {
-          "agency_name": "Department of Commerce",
+          "agency_name": "Morgan State University",
           "is_relevant": true,
-          "relevance_explanation": "Changes to utility surcharges and energy policy affect the cost of doing business in Maryland, which falls under Commerce's role in economic development and business retention.",
+          "relevance_explanation": "As a state university, Morgan State may receive funding from the Strategic Energy Investment Fund (SEIF) for energy efficiency projects which will be impacted by the loss of RGGI revenues.",
           "relevance_rating": 2
         },
         {
-          "agency_name": "Department of Human Services",
+          "agency_name": "Saint Mary's College of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "DHS manages energy assistance programs (like SNAP and OHEP) that are sometimes supported by funds derived from energy initiatives and RGGI proceeds.",
+          "relevance_explanation": "St. Mary's College is a public institution eligible for energy efficiency funding through the SEIF, which is primarily funded by RGGI proceeds.",
           "relevance_rating": 2
         },
         {
-          "agency_name": "Department of Housing and Community",
+          "agency_name": "Comptroller of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "DHCD administers energy efficiency and weatherization programs that are frequently funded through EmPOWER and RGGI proceeds.",
+          "relevance_explanation": "The Comptroller serves as the chief financial officer overseeing state revenues. The significant reduction in RGGI auction proceeds affects the state's revenue stream and the Strategic Energy Investment Fund.",
           "relevance_rating": 2
         },
         {
-          "agency_name": "Smart, Green & Growing",
+          "agency_name": "Maryland State Treasurer's Office",
           "is_relevant": true,
-          "relevance_explanation": "This multi-agency initiative is focused on reducing the state's carbon footprint, a goal directly impacted by withdrawing from the Regional Greenhouse Gas Initiative.",
+          "relevance_explanation": "The Treasurer manages and protects state funds, including the Strategic Energy Investment Fund (SEIF), which will lose hundreds of millions of dollars in annual RGGI auction proceeds.",
           "relevance_rating": 2
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "5cbcc56843f398e717db772e25c572320f26bca731e6083c1111267488e29084",
-    "last_updated_local": "2026-02-15T06:21:53.195345",
-    "bill_hash": "1e9517f49afae2dd1f459357bd1bd218"
+    "qa_input_hash": "36d9ac489703ca1e57081ecd737b7af9a7acaa5b81a2502dfa51042a76fbe9cf",
+    "last_updated_local": "2026-05-28T06:28:28.838122",
+    "bill_hash": "52cd19eeb55e140cad4e93e049888df9"
   },
   "HB1526": {
     "first_seen": "2026-02-14T05:48:22.791882",
