@@ -8874,8 +8874,8 @@
   },
   "HB0107": {
     "first_seen": "2026-02-06T19:23:17.127521",
-    "last_updated": "2026-04-16T05:44:58.734053",
-    "last_seen": "2026-04-16T05:44:58.734053",
+    "last_updated": "2026-06-03T06:35:58.269616",
+    "last_seen": "2026-06-03T06:35:58.269616",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -8886,75 +8886,75 @@
       "amendments": []
     },
     "qa_results": {
-      "bill_summary": "This bill establishes the Intelligent Speed Assistance (ISA) System Pilot Program, managed by the Motor Vehicle Administration (MVA). It requires individuals whose driver's licenses are subject to suspension or revocation due to excessive points from speeding, reckless driving, or racing to participate in the program as a condition of receiving a restrictive license. Participants must install an aftermarket ISA device that prevents the vehicle from exceeding the speed limit and remain in the program for a period ranging from 90 days to one year. The bill also requires the District Court to update traffic fine schedules to include separate entries for specific reckless driving violations.",
+      "bill_summary": "This bill establishes the Intelligent Speed Assistance (ISA) System Pilot Program, which requires certain drivers whose licenses are subject to suspension or revocation due to speeding or reckless driving violations to participate for one year. Participants must install an aftermarket device in their vehicle that prevents it from exceeding the speed limit. The Motor Vehicle Administration is responsible for overseeing the program, certifying service providers, and issuing restricted licenses to participants.",
       "start_year": 2026,
       "end_year": 2031,
       "funding": 61020,
-      "responsible_party": "Maryland Motor Vehicle Administration (MVA) and the District Court of Maryland",
-      "stakeholders": "Maryland drivers facing license suspension or revocation due to speeding, racing, or reckless driving; Intelligent Speed Assistance (ISA) system manufacturers and service providers; the Motor Vehicle Administration.",
-      "fiscal_impact_summary": "According to the Fiscal Note, Transportation Trust Fund (TTF) revenues are estimated to increase by approximately 61,020 dollars annually from fiscal 2028 through 2031 due to program participation fees and restricted license charges. The Motor Vehicle Administration (MVA) is required to set fees at a level sufficient to cover program costs. MVA may incur expenditures of approximately 100,000 dollars per year for an outside consultant to develop program parameters and device standards. District Court operations can handle fine schedule updates with existing resources. There is no local fiscal impact.",
+      "responsible_party": "Motor Vehicle Administration",
+      "stakeholders": "Drivers with accumulated points for speeding or reckless driving, manufacturers of ISA systems, certified automotive service providers, and the Motor Vehicle Administration.",
+      "fiscal_impact_summary": "State Transportation Trust Fund revenues are estimated to increase by up to $61,020 annually from fiscal 2028 through 2031 due to program participation and license fees. The Motor Vehicle Administration may incur additional costs of approximately $100,000 per year if an outside consultant is required to develop program standards. There is no significant impact on local government finances.",
       "agency_relevance": [
         {
           "agency_name": "Motor Vehicle Administration",
           "is_relevant": true,
-          "relevance_explanation": "The Motor Vehicle Administration is the primary agency responsible for establishing and administering the Intelligent Speed Assistance System Pilot Program, adopting regulations, certifying service providers, issuing restrictive licenses, monitoring participants, and reporting results.",
+          "relevance_explanation": "The MVA is the primary agency responsible for establishing and administering the Intelligent Speed Assistance System Pilot Program. It must adopt regulations, certify service providers, issue restrictive licenses, monitor participants, collect fees, and report to the Governor and General Assembly.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Department of Transportation",
           "is_relevant": true,
-          "relevance_explanation": "As the parent department for the Motor Vehicle Administration, MDOT oversees the agency's operations and the Transportation Trust Fund, which is impacted by the pilot program's fees and implementation costs.",
-          "relevance_rating": 4
+          "relevance_explanation": "As the parent agency of the MVA, MDOT is responsible for the state's transportation network. The bill explicitly authorizes MDOT to receive data regarding program violations and oversees the modal administration (MVA) implementing the pilot.",
+          "relevance_rating": 5
         },
         {
           "agency_name": "Administrative Office of the Courts",
           "is_relevant": true,
-          "relevance_explanation": "The bill explicitly requires the District Court (supported by the Administrative Office of the Courts) to ensure its fine schedule is updated to include separate entries for specific types of reckless driving violations.",
+          "relevance_explanation": "The bill explicitly mandates that the District Court (supported by the AOC) ensure that the fine schedule for certain reckless driving violations is updated with separate entries. Courts also have jurisdiction over sharing data regarding program violations.",
           "relevance_rating": 4
         },
         {
           "agency_name": "Office of Administrative Hearings",
           "is_relevant": true,
-          "relevance_explanation": "The Office of Administrative Hearings adjudicates contested cases involving motor vehicle license suspensions and revocations, which may arise if individuals fail to comply with the requirements of the pilot program.",
+          "relevance_explanation": "OAH provides an impartial hearing process for contested motor vehicle cases. They will likely be responsible for adjudicating disputes related to the suspension or revocation of restrictive licenses under this new pilot program or appeals from removal from the program.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Motor Vehicle Administration is required to report the findings and data from the pilot program to the Governor by December 30, 2030.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Office of the Attorney General",
-          "is_relevant": true,
-          "relevance_explanation": "The Office of the Attorney General provides legal counsel to the Motor Vehicle Administration for the drafting of required regulations and the legal implementation of the pilot program.",
+          "relevance_explanation": "The MVA is required to submit a comprehensive report on the implementation and results of the pilot program to the Governor by December 30, 2030. The Governor also oversees the executive departments implementing the program.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Maryland State Police",
           "is_relevant": true,
-          "relevance_explanation": "The Maryland State Police enforce motor vehicle laws, including the speeding and reckless driving offenses that trigger participation in this pilot program.",
+          "relevance_explanation": "As the primary agency for traffic safety enforcement, the MSP issues the citations and speed-related violations that lead to the accumulation of points, which in turn triggers mandatory participation in the pilot program.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "The Department of Budget and Management oversees state personnel and fiscal planning; they would be involved if the Motor Vehicle Administration requires additional staff or resources to manage the pilot program.",
+          "relevance_explanation": "DBM oversees state personnel and fiscal execution. The fiscal note indicates that MVA may require additional staff or consultants to implement the pilot, which falls under DBM's administrative and budgetary oversight.",
           "relevance_rating": 2
         },
         {
-          "agency_name": "Comptroller of Maryland",
+          "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The Comptroller, as the state's chief financial officer, is responsible for the collection and management of state revenues, including the fees deposited into the Transportation Trust Fund.",
+          "relevance_explanation": "The OAG serves as legal counsel to state agencies and will be responsible for reviewing and approving the regulations and program protocols for legal sufficiency before they are adopted by the MVA.",
           "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Human Services",
+          "is_relevant": true,
+          "relevance_explanation": "The bill requires the MVA to waive program fees for indigent individuals. DHS is the primary agency responsible for assisting residents in economic need and typically establishes or verifies the benchmarks for indigency and public assistance eligibility.",
+          "relevance_rating": 1
         }
       ]
     },
-    "amended_status": "amended",
+    "amended_status": "original",
     "amend_input_hash": "d27e39d1f325f183250177db937e66ba15830dc1f4eb258cb0fe7ee69ab433a6",
-    "qa_input_hash": "ea8d9d8521284dd040e22bcb9efc843ee480ac35c0506f176a655a666451ae12",
-    "last_updated_local": "2026-04-16T05:45:45.585479",
-    "bill_hash": "ca33049e59ef4296e708d51085b639be"
+    "qa_input_hash": "fe1c57a5f6105f9c775dec0d09c11c13e86326b60fd5e946379aecf488bf5821",
+    "last_updated_local": "2026-06-03T06:36:50.374239",
+    "bill_hash": "fd443c9416348d80da292c4e58efceb2"
   },
   "HB0108": {
     "first_seen": "2026-02-06T19:23:17.605650",
@@ -32959,14 +32959,14 @@
   },
   "HB0391": {
     "first_seen": "2026-02-06T19:31:29.764274",
-    "last_updated": "2026-02-06T19:31:30.241821",
-    "last_seen": "2026-02-06T19:31:30.241821",
+    "last_updated": "2026-06-03T06:35:58.957662",
+    "last_seen": "2026-06-03T06:35:58.957662",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
-      "bill_pdf": "C:\\git\\Legi-Scanner\\data\\2026rs\\pdf\\HB0391.pdf",
+      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0391.pdf",
       "amendments": []
     },
     "qa_results": {
@@ -33259,301 +33259,320 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "62435eea6ad1e9cc16716881644da89831eeae54468ae2a93c6b5b7db76121c9",
-    "last_updated_local": "2026-02-07T00:25:14.396145",
-    "bill_hash": "b18002e2c965bf0ecd458100d4e28975"
+    "last_updated_local": "2026-06-03T06:36:09.676590",
+    "bill_hash": "781ae9d26bce117056194e46327d705e"
   },
   "HB0392": {
     "first_seen": "2026-02-06T19:31:30.330201",
-    "last_updated": "2026-02-21T05:39:12.070508",
-    "last_seen": "2026-02-21T05:39:12.070508",
+    "last_updated": "2026-06-03T06:35:59.759011",
+    "last_seen": "2026-06-03T06:35:59.759011",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0392.pdf",
-      "amendments": []
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0392_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "The Budget Reconciliation and Financing Act of 2026 adjusts the Maryland state budget by altering mandated appropriations, authorizing fund transfers, and modifying revenue distributions to ensure fiscal balance. Key provisions include transferring over $491 million from special funds to the General Fund, updating higher education funding formulas, and increasing the amount counties must pay for teacher retirement costs.",
+      "bill_summary": "The Budget Reconciliation and Financing Act of 2026 implements various budget-balancing measures, including altering or repealing mandated appropriations, transferring funds from special accounts to the General Fund, and adjusting state aid formulas. Key provisions include capping growth in community college funding, reducing grants for police and probation officer scholarships, shifting a portion of teacher and librarian retirement costs to county governments, and decoupling the state from certain federal tax depreciation deductions.",
       "start_year": 2026,
       "end_year": null,
-      "funding": 491609007,
+      "funding": 475800000,
       "responsible_party": "Maryland Department of Budget and Management",
-      "stakeholders": "State and local government agencies, county governments, community colleges, private nonprofit higher education institutions, teachers, and Maryland taxpayers.",
-      "fiscal_impact_summary": "The bill's primary fiscal impact is the transfer of approximately $491.6 million from various special funds to the General Fund in fiscal year 2026. It also reduces future mandated spending, such as a $20 million annual reduction for the Coordinated Community Supports Partnership Fund starting in FY 2027. Local governments face increased costs, including higher teacher pension contributions and a phased requirement to reimburse the State for assisted outpatient health programs, while some counties will receive specified state grants ranging from $2 million to $79 million through FY 2029.",
+      "stakeholders": "State and local government agencies, local school systems, public and private higher education institutions, teachers, librarians, police and probation officers, and manufacturing businesses.",
+      "fiscal_impact_summary": "According to the Fiscal Note, the bill results in a total state net effect of $475,800,000 in FY 2026 and $305,300,000 in FY 2027. General Fund revenues are projected to increase by $475,800,000 in FY 2026 and $296,500,000 in FY 2027, while General Fund expenditures decrease by $1,900,000 in FY 2026 and $605,700,000 in FY 2027. Local impact includes a $39,300,000 annual increase in county expenditures for retirement contributions beginning in FY 2027, along with reductions in disparity grants ($27,000,000) and community college aid ($21,000,000).",
       "agency_relevance": [
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "As the chief executive office, it is responsible for the annual budget proposal, budget reconciliation (BRFA) implementation, and publishing supporting budget materials online.",
+          "relevance_explanation": "The bill is an Administration bill submitted by the Governor and includes provisions that change the Governor's statutory requirement for publishing budget books.",
           "relevance_rating": 5
+        },
+        {
+          "agency_name": "Lt. Governor",
+          "is_relevant": true,
+          "relevance_explanation": "As the second-highest ranking official in the executive branch, the Lt. Governor is indirectly impacted by broad fiscal changes across state government, though no specific programmatic changes are mandated for the office.",
+          "relevance_rating": 1
         },
         {
           "agency_name": "Comptroller of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "The agency manages the Local Reserve Account, individual and corporate income tax modifications, and the distribution of grants to counties as mandated in the bill.",
+          "relevance_explanation": "The Comptroller is primary in implementing tax decoupling from federal law (bonus depreciation), distributing disparity grants to counties, and managing the Local Reserve Account and transfers related to income tax revenue.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Maryland State Treasurer's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Treasurer serves on the Board of Public Works, which oversees budget transfers, and manages state funds impacted by the reconciliation measures.",
+          "relevance_explanation": "The Treasurer is a member of the Board of Public Works, which oversees fund swaps mentioned in the bill, and manages the state funds being transferred or adjusted by this legislation.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "As the chief legal officer, the OAG provides legal counsel regarding the extensive statutory changes and fund transfers within the Budget Reconciliation and Financing Act.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Department of Aging",
-          "is_relevant": true,
-          "relevance_explanation": "The agency is impacted by funding transfers and health initiatives related to assisted living centers and maternal health quality programs.",
+          "relevance_explanation": "The OAG provides legal counsel to state agencies regarding the implementation of the BRFA and is involved in litigation related to the Cigarette Restitution Fund mentioned in the bill.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Department of Agriculture",
           "is_relevant": true,
-          "relevance_explanation": "The bill modifies funding for the Maryland Healthy Soils Program and Urban Agriculture infrastructure grants.",
-          "relevance_rating": 4
+          "relevance_explanation": "The bill alters or repeals mandated appropriations for several programs within the department, including the Healthy Soils Program, the Native Plants Program, and the Urban Agriculture Water and Power Infrastructure Grant Fund.",
+          "relevance_rating": 5
         },
         {
           "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "DBM is the principal agency for the development and execution of the state budget and the primary department for BRFA implementation.",
+          "relevance_explanation": "As the principal fiscal agency, DBM is responsible for coordinating the BRFA, supervising the state's budget execution, and managing the shift from printed to online budget books.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Department of Commerce",
           "is_relevant": true,
-          "relevance_explanation": "The agency oversees the Cannabis Business Assistance Fund and general economic development initiatives affected by the bill's financing provisions.",
-          "relevance_rating": 4
+          "relevance_explanation": "The bill expands the allowable uses of the Cannabis Business Assistance Fund, which is managed by the Department of Commerce.",
+          "relevance_rating": 5
         },
         {
           "agency_name": "Department of Education",
           "is_relevant": true,
-          "relevance_explanation": "MSDE is responsible for the Coordinated Community Supports Partnership Fund, Lacrosse Opportunities Program, and Driver Education grant funding.",
+          "relevance_explanation": "The department is impacted by provisions altering teacher retirement payment shares, nonpublic placement provider rates, the Coordinated Community Supports Partnership Fund, and the Driver Education in Public High Schools Grant Program.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Department of Emergency Management",
           "is_relevant": true,
-          "relevance_explanation": "The department is authorized to use 9-1-1 Trust Fund revenue for its operations and oversees state climate resiliency efforts.",
+          "relevance_explanation": "The bill expands the allowable uses of the 9-1-1 Trust Fund to support the department's program operations and utilizes Strategic Energy Investment Fund (SEIF) revenues for resiliency efforts.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Department of the Environment",
           "is_relevant": true,
-          "relevance_explanation": "MDE manages the Bay Restoration Fund and Air and Radiation Administration, both of which face fiscal modifications and fund transfers.",
-          "relevance_rating": 4
+          "relevance_explanation": "The department is impacted by transfers from the Bay Restoration Fund and changes to the Strategic Energy Investment Fund (SEIF) that support its Air and Radiation Administration and climate initiatives.",
+          "relevance_rating": 5
         },
         {
           "agency_name": "Department of General Services",
           "is_relevant": true,
-          "relevance_explanation": "DGS administrative salaries for Program Open Space are funded through transfer tax revenues specified in the bill.",
-          "relevance_rating": 3
+          "relevance_explanation": "The bill utilizes Strategic Energy Investment Fund (SEIF) revenues to support clean energy initiatives on state property managed by DGS.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Department of Health",
           "is_relevant": true,
-          "relevance_explanation": "MDH oversees tobacco reduction, maternal health quality initiatives, assisted outpatient treatment, and boards for physicians and professional counselors.",
+          "relevance_explanation": "The bill makes significant changes to health programs, including assisted outpatient treatment, tobacco use reduction, and several professional board funds, while also adjusting Medicaid funding and delaying the CCBHC demonstration program.",
           "relevance_rating": 5
+        },
+        {
+          "agency_name": "Department of Housing and Community",
+          "is_relevant": true,
+          "relevance_explanation": "The bill utilizes Strategic Energy Investment Fund (SEIF) revenues to support positions within the department's Housing and Building Energy program.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Department of Human Services",
           "is_relevant": true,
-          "relevance_explanation": "The agency is impacted by funding transfers related to domestic violence centers and social service support programs.",
-          "relevance_rating": 2
+          "relevance_explanation": "The department is impacted by the prohibition of provider rate increases for residential child care programs set by the Interagency Rates Committee.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Department of Juvenile Services",
           "is_relevant": true,
-          "relevance_explanation": "The bill specifically directs the usage of funds for drug treatment services and the operation of the Alfred D. Noyes Children's Center.",
-          "relevance_rating": 4
+          "relevance_explanation": "The bill reallocates funding related to the reopening of the Alfred D. Noyes Children\u2019s Center and impacts provider rates set by the Interagency Rates Committee.",
+          "relevance_rating": 5
         },
         {
           "agency_name": "Department of Labor",
           "is_relevant": true,
-          "relevance_explanation": "The department manages the Public Safety Apprenticeship Program, Career Pathways for Health Care Workers, and the Paid Leave Local Reserve Account.",
+          "relevance_explanation": "The department is impacted by changes to the Public Safety Apprenticeship Program, the Career Pathways for Health Care Workers Program, and the reimbursement of the Local Reserve Account related to Paid Leave.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Department of Natural Resources",
           "is_relevant": true,
-          "relevance_explanation": "DNR oversees Program Open Space, the Waterway Improvement Fund, and Power Plant Research programs cited for fiscal changes.",
+          "relevance_explanation": "The department is primary to changes in Program Open Space, the Waterway Improvement Fund, and the funding of the Power Plant Research Program and Natural Resources Police.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Department of Planning",
           "is_relevant": true,
-          "relevance_explanation": "MDP administers the Maryland Historical Trust and Jefferson Patterson Park, both of which receive funding adjustments.",
-          "relevance_rating": 4
+          "relevance_explanation": "The department oversees the Jefferson Patterson Park and Museum and the Small Commercial Project Trust Account for historic credits, both of which face fiscal changes under the bill.",
+          "relevance_rating": 5
         },
         {
           "agency_name": "Department of Public Safety and Correctional Services",
           "is_relevant": true,
-          "relevance_explanation": "The bill impacts scholarship and loan repayment programs for police officers and probation agents within the agency's sphere.",
+          "relevance_explanation": "The department's police and probation agents are the beneficiaries of loan repayment and scholarship programs that are fiscally adjusted in this bill.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Department of Service and Civic Innovation",
           "is_relevant": true,
-          "relevance_explanation": "The agency's participation targets for the Young Adult Service Year Option and Maryland Corps are altered by the bill.",
-          "relevance_rating": 4
+          "relevance_explanation": "The bill reduces participation targets for the Young Adult Service Year Option Pathway and Maryland Corps Program, which are administered by this department.",
+          "relevance_rating": 5
         },
         {
           "agency_name": "Department of Transportation",
           "is_relevant": true,
-          "relevance_explanation": "MDOT manages Aviation Command funding, infrastructure right-of-way guidelines, and revenue allocations from vehicle security penalties.",
+          "relevance_explanation": "The bill affects the Maryland Emergency Medical System Operations Fund (MEMSOF) which supports the State Police Aviation Command and allocates SEIF funds for transmission infrastructure right-of-way.",
           "relevance_rating": 5
         },
         {
-          "agency_name": "Maryland Higher Education Commission",
+          "agency_name": "Higher Education Commission",
           "is_relevant": true,
-          "relevance_explanation": "MHEC is the primary regulator for the Sellinger Program, Cade Formula, and state-funded scholarship and loan programs.",
+          "relevance_explanation": "The commission is responsible for implementing the altered funding formulas for community colleges (Cade), BCCC, private institutions (Sellinger), and various scholarship and loan repayment programs.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Maryland State Police",
           "is_relevant": true,
-          "relevance_explanation": "The bill modifies the funding and operations of the Aviation Command and the State Police Gun Center.",
-          "relevance_rating": 4
+          "relevance_explanation": "The bill specifically expands the use of the Maryland Emergency Medical System Operations Fund (MEMSOF) to support the general operations of the Maryland State Police Aviation Command.",
+          "relevance_rating": 5
         },
         {
-          "agency_name": "Governor's Office of Small, Minority & Women Business Affairs",
+          "agency_name": "Executive Commissions, Committees, Task Forces, and Advisory Boards",
           "is_relevant": true,
-          "relevance_explanation": "The office is a designated partner for the Department of Commerce in implementing cannabis business training and assistance.",
+          "relevance_explanation": "The bill impacts the Consortium on Coordinated Community Supports and the Interagency Rates Committee, which are established to coordinate state policies and provider rates.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Governor's Office for Children",
+          "is_relevant": true,
+          "relevance_explanation": "The office is part of the Interagency Rates Committee which determines provider rates affected by the bill's cost containment measures.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Governor's Office of Crime Prevention and Policy",
           "is_relevant": true,
-          "relevance_explanation": "The agency is involved in funding transfers for law enforcement task forces and violence prevention organizations.",
-          "relevance_rating": 3
+          "relevance_explanation": "The office manages the Performance Incentive Grant Fund and various grants for domestic violence and law enforcement that are subject to fund transfers in the bill.",
+          "relevance_rating": 5
         },
         {
-          "agency_name": "Governor's Office of Homeland Security",
+          "agency_name": "Governor's Office of Small, Minority & Women Business Affairs",
           "is_relevant": true,
-          "relevance_explanation": "GOHS coordinates with the Office of Resilience and MDEM on climate and disaster strategies mentioned in the fiscal context.",
-          "relevance_rating": 3
+          "relevance_explanation": "The office is a designated partner for the Department of Commerce in awarding grants and loans from the Cannabis Business Assistance Fund.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Board of Public Works",
           "is_relevant": true,
-          "relevance_explanation": "The Board oversees significant state expenditures and fund transfers authorized by the budget reconciliation process.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Interagency Commission on School Construction",
-          "is_relevant": true,
-          "relevance_explanation": "The commission is authorized to reallocate federal funding for public school building HVAC upgrades.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Maryland Agricultural & Resource-Based Industry Development Corp.",
-          "is_relevant": true,
-          "relevance_explanation": "The bill includes specific General Fund appropriations for MARBIDCO's rural business and farmland acquisition programs.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Maryland Automobile Insurance Fund",
-          "is_relevant": true,
-          "relevance_explanation": "MAIF receives a statutory allocation of penalties from the Motor Vehicle Administration for vehicle security lapses.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Maryland Cannabis Administration",
-          "is_relevant": true,
-          "relevance_explanation": "MCA regulates the cannabis industry, which is supported by the Cannabis Business Assistance Fund mentioned in the bill.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Maryland Center for School Safety",
-          "is_relevant": true,
-          "relevance_explanation": "The agency oversees the Safe Schools Fund, which receives a designated portion of uninsured motorist penalty revenue.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Maryland Energy Administration",
-          "is_relevant": true,
-          "relevance_explanation": "MEA manages the Strategic Energy Investment Fund (SEIF) and various renewable energy grant programs cited for modifications.",
+          "relevance_explanation": "The BPW is responsible for overseeing fund swaps and is mentioned regarding the funding of the Chesapeake Conservation and Climate Corps Program.",
           "relevance_rating": 5
         },
         {
-          "agency_name": "Maryland Health Care Commission",
+          "agency_name": "Health Services Cost Review Commission",
           "is_relevant": true,
-          "relevance_explanation": "The commission is involved in planning for state health resource needs and community health funding.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Maryland Institute for Emergency Medical Services Systems",
-          "is_relevant": true,
-          "relevance_explanation": "MIEMSS receives critical operational funding from the Maryland Emergency Medical System Operations Fund as outlined in the bill.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Morgan State University",
-          "is_relevant": true,
-          "relevance_explanation": "As a public university, it is affected by the Cade and Sellinger funding formulas and graduate credit calculation methodologies.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Motor Vehicle Administration",
-          "is_relevant": true,
-          "relevance_explanation": "The MVA is responsible for assessing and collecting vehicle security lapse penalties and handling related registration suspensions.",
-          "relevance_rating": 5
-        },
-        {
-          "agency_name": "Office of Legislative Audits",
-          "is_relevant": true,
-          "relevance_explanation": "OLA has statutory authority to audit the implementation and expenditures of programs like the Career Pathways for Health Care Workers.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Public Service Commission",
-          "is_relevant": true,
-          "relevance_explanation": "The PSC is tasked with researching grid technologies and managing grants for utility transmission infrastructure.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Rural Maryland Council",
-          "is_relevant": true,
-          "relevance_explanation": "RMC receives funding from the Cigarette Restitution Fund to support agricultural development commissions.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Saint Mary's College of Maryland",
-          "is_relevant": true,
-          "relevance_explanation": "The college is impacted by the higher education funding methodologies and graduate credit calculations defined in the bill.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Maryland State Retirement Agency",
-          "is_relevant": true,
-          "relevance_explanation": "The agency manages the teacher retirement cost-sharing system and contributions from county governments.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "University System of Maryland",
-          "is_relevant": true,
-          "relevance_explanation": "USM is a central partner in determining graduate credit methodologies and is impacted by general higher education funding changes.",
+          "relevance_explanation": "The commission is mentioned regarding the administration of the Maternal and Child Health Population Health Improvement Fund, which is derived from hospital assessments.",
           "relevance_rating": 4
         },
         {
           "agency_name": "Historic St. Mary's City Commission",
           "is_relevant": true,
-          "relevance_explanation": "The commission receives funding for recreation and open space purposes via the Program Open Space State land acquisition balance.",
+          "relevance_explanation": "The commission receives a share of Program Open Space (POS) funding, which is subject to reallocation under the bill.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Interagency Commission on School Construction",
+          "is_relevant": true,
+          "relevance_explanation": "The bill authorizes the commission to reallocate federal funding for school HVAC upgrades to ensure compliance with federal law.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Maryland Agricultural & Resource-Based Industry Development Corp.",
+          "is_relevant": true,
+          "relevance_explanation": "The bill includes general fund appropriations for the corporation's rural business loan and product aggregation programs.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Maryland Automobile Insurance Fund",
+          "is_relevant": true,
+          "relevance_explanation": "The fund is a recipient of distributions from vehicle security lapse fines (uninsured motorist penalties) which are adjusted by the bill.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Maryland Center for School Safety",
+          "is_relevant": true,
+          "relevance_explanation": "The Safe Schools Fund, administered by or benefiting the center, receives a portion of the uninsured motorist penalty fees discussed in the bill.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Maryland Energy Administration",
+          "is_relevant": true,
+          "relevance_explanation": "MEA is the primary agency managing the Strategic Energy Investment Fund (SEIF) and its subaccounts, which are significantly impacted by transfers and expanded uses.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Maryland Environmental Service",
+          "is_relevant": true,
+          "relevance_explanation": "MES is responsible for water and wastewater infrastructure projects on DNR properties that are funded through the Natural Resources Development Fund.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Maryland Institute for Emergency Medical Services Systems",
+          "is_relevant": true,
+          "relevance_explanation": "The institute is a primary beneficiary of the Maryland Emergency Medical System Operations Fund (MEMSOF) which is subject to usage expansion in the bill.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Maryland Insurance Administration",
+          "is_relevant": true,
+          "relevance_explanation": "MIA is responsible for collecting the assessment that funds the Advance Directive Program Fund, which is subject to expanded usage under the bill.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Maryland State Library",
+          "is_relevant": true,
+          "relevance_explanation": "The bill shifts the share of retirement costs for library employees from the state to the county governments.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Maryland State Retirement Agency",
+          "is_relevant": true,
+          "relevance_explanation": "The agency is responsible for collecting the local employer contributions for teachers, community college, and library employees as the state shifts these costs.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Morgan State University",
+          "is_relevant": true,
+          "relevance_explanation": "The university is a party to the HBCU settlement funding and its per-student funding is used as a benchmark for higher education funding formulas adjusted by the bill.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Motor Vehicle Administration",
+          "is_relevant": true,
+          "relevance_explanation": "MVA is responsible for collecting uninsured motorist penalties and managing vehicle security lapse fines, which have their distributions altered by the bill.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Office of Legislative Audits",
+          "is_relevant": true,
+          "relevance_explanation": "The OLA is explicitly granted authority to audit the Career Pathways for Health Care Workers Program.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Public Service Commission",
+          "is_relevant": true,
+          "relevance_explanation": "The PSC is granted funding from SEIF for research and grants related to grid-enhancing technologies and power transmission infrastructure.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Saint Mary's College of Maryland",
+          "is_relevant": true,
+          "relevance_explanation": "The college's per-student funding is used as a benchmark for state aid formulas, and it is a recipient of funding mentioned in the higher education provisions.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "University System of Maryland",
+          "is_relevant": true,
+          "relevance_explanation": "The system's funding is a benchmark for several programs (Cade, Sellinger, BCCC) and it is involved in the HBCU settlement funding distributions.",
           "relevance_rating": 4
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "41276a5f1c497f44a35724094360bfc177d2a33f49bf6f67b590887ec839f4ff",
-    "last_updated_local": "2026-02-21T05:52:14.354677",
-    "bill_hash": "d62dd5ef8863a4b1774d2a0a187facbf"
+    "qa_input_hash": "e308c3b45ae35e3367f6f846013848c2b4e59671f9be6d24c2ef85c2847b1a33",
+    "last_updated_local": "2026-06-03T06:37:15.961037",
+    "bill_hash": "de98572180aaf25518b59302bd22e171"
   },
   "HB0393": {
     "first_seen": "2026-02-06T19:31:30.943342",
@@ -44054,16 +44073,16 @@
   },
   "HB0529": {
     "first_seen": "2026-02-06T19:32:49.651641",
-    "last_updated": "2026-04-08T17:00:45.411795",
-    "last_seen": "2026-04-08T17:00:45.411795",
+    "last_updated": "2026-06-03T06:36:00.534953",
+    "last_seen": "2026-06-03T06:36:00.534953",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
-      "bill_pdf": "C:\\git\\Legi-Scanner\\data\\2026rs\\pdf\\HB0529.pdf",
+      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0529.pdf",
       "amendments": [],
-      "fiscal_note": "C:\\git\\Legi-Scanner\\data\\2026rs\\pdf\\HB0529_fn.pdf"
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0529_fn.pdf"
     },
     "qa_results": {
       "bill_summary": "This bill revises, restates, and recodifies the laws of Maryland relating to the Maryland Medical Assistance Program (Medicaid). It includes technical and stylistic updates, such as changing 'substance abuse' to 'substance use disorder,' and reorganizes existing statutes for better clarity without changing the substance of the law.",
@@ -44163,8 +44182,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "73ba68ff72bcf05e88760e6c98546acbde27b35f3309dc41204a9b9e9d7e3cf5",
-    "last_updated_local": "2026-04-08T17:49:18.034157",
-    "bill_hash": "9539abfffa09e64a756b8fbbd678dd92"
+    "last_updated_local": "2026-06-03T06:36:08.668256",
+    "bill_hash": "69cd432c477054f40ffc6eacf4fa8387"
   },
   "HB0530": {
     "first_seen": "2026-02-06T19:32:50.483489",
@@ -58507,8 +58526,8 @@
   },
   "HB0711": {
     "first_seen": "2026-02-06T19:34:39.072395",
-    "last_updated": "2026-04-15T05:44:25.651028",
-    "last_seen": "2026-04-15T05:44:25.651028",
+    "last_updated": "2026-06-03T06:36:02.131840",
+    "last_seen": "2026-06-03T06:36:02.131840",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -58592,8 +58611,8 @@
     "amended_status": "original",
     "amend_input_hash": "4b44d86db52891284d188fb5455bce98727b19c798b939522bb834c989111356",
     "qa_input_hash": "676dfc3c82105cafd3531d2ee8c8b2910ccb34789c58369073725f78b3d7118c",
-    "last_updated_local": "2026-04-15T05:58:13.104864",
-    "bill_hash": "8c3ee48a94ca6f9bf22f377bdd3f5631"
+    "last_updated_local": "2026-06-03T06:36:12.127016",
+    "bill_hash": "a67e5fa53e82052771cc8372c906f3cd"
   },
   "HB0712": {
     "first_seen": "2026-02-06T19:34:39.726942",
@@ -105360,8 +105379,8 @@
   },
   "SB0898": {
     "first_seen": "2026-02-11T06:08:54.786676",
-    "last_updated": "2026-04-28T06:02:18.158848",
-    "last_seen": "2026-04-28T06:02:18.158848",
+    "last_updated": "2026-06-03T06:36:04.474603",
+    "last_seen": "2026-06-03T06:36:04.474603",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -105427,8 +105446,8 @@
     "amended_status": "amended",
     "amend_input_hash": "9c5be55abfe25767999a9c30309044c78f22244bc87a3edbf925a5298d2395d2",
     "qa_input_hash": "6f1a37f2e8c9cee3c24718a49b2964b4babb189c9fc1aec0a2b01d7968c5a379",
-    "last_updated_local": "2026-04-28T06:03:24.016930",
-    "bill_hash": "b7a902fb52488687699ff07268af818c"
+    "last_updated_local": "2026-06-03T06:36:13.134558",
+    "bill_hash": "6385a6b5ce5f4f560c6bb4e3a5866255"
   },
   "SB0899": {
     "first_seen": "2026-02-11T06:08:55.136364",
@@ -106129,8 +106148,8 @@
   },
   "SB0933": {
     "first_seen": "2026-02-11T06:09:03.388692",
-    "last_updated": "2026-05-29T06:26:31.311144",
-    "last_seen": "2026-05-29T06:26:31.311144",
+    "last_updated": "2026-06-03T06:36:05.134486",
+    "last_seen": "2026-06-03T06:36:05.134486",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -106196,8 +106215,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "e2c22713d8ad501bdfb809c82c16ca21ca70f67b26431410359d06057aee0cd8",
-    "last_updated_local": "2026-05-29T06:27:45.063523",
-    "bill_hash": "53eabfcaa6baac9bb3a2ea82d8c61d21"
+    "last_updated_local": "2026-06-03T06:36:13.569319",
+    "bill_hash": "6d63c3373dbf710ef1c567a550967f40"
   },
   "SB0937": {
     "first_seen": "2026-02-11T06:09:04.546019",
@@ -126560,8 +126579,8 @@
   },
   "HB1335": {
     "first_seen": "2026-02-13T05:59:44.290741",
-    "last_updated": "2026-04-15T05:45:18.612349",
-    "last_seen": "2026-04-15T05:45:18.612349",
+    "last_updated": "2026-06-03T06:36:02.807637",
+    "last_seen": "2026-06-03T06:36:02.807637",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -126735,8 +126754,8 @@
     "amended_status": "original",
     "amend_input_hash": "81481e098bdd64db6a010b6b620026ad17a912ef1ffd041bb11bce7ab9ed8bd4",
     "qa_input_hash": "141a2ff089e8967f96ee5e9ed4adf8d889d3159d6c09bf427f6e18de5e0b11a2",
-    "last_updated_local": "2026-04-15T06:12:27.755587",
-    "bill_hash": "423d853c9cfb4d94e1ff4697aa0bb437"
+    "last_updated_local": "2026-06-03T06:36:11.787315",
+    "bill_hash": "c9f8b62ff5b7d5373f4ce9b63e96c3a6"
   },
   "HB1336": {
     "first_seen": "2026-02-13T05:59:44.996344",
@@ -135164,8 +135183,8 @@
   },
   "HB1434": {
     "first_seen": "2026-02-14T05:46:42.772964",
-    "last_updated": "2026-05-09T05:56:00.530664",
-    "last_seen": "2026-05-09T05:56:00.530664",
+    "last_updated": "2026-06-03T06:36:03.657795",
+    "last_seen": "2026-06-03T06:36:03.657795",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -135261,8 +135280,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "4b1b0bf9bcf5c2e7642b25c3662ec81ec2653f6995c61a574e3f8b224298a25d",
-    "last_updated_local": "2026-05-09T05:56:07.836698",
-    "bill_hash": "1b00ed03db62c0a2e8211bc824131d1b"
+    "last_updated_local": "2026-06-03T06:36:12.796196",
+    "bill_hash": "735a880953f2cbd6e9c6aff6918df4a4"
   },
   "HB1435": {
     "first_seen": "2026-02-14T05:46:43.984713",
