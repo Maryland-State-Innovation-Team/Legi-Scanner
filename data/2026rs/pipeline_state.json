@@ -98508,80 +98508,81 @@
   },
   "HB1061": {
     "first_seen": "2026-02-11T06:07:21.368265",
-    "last_updated": "2026-02-11T06:07:21.555159",
-    "last_seen": "2026-02-11T06:07:21.555159",
+    "last_updated": "2026-06-06T06:11:49.675969",
+    "last_seen": "2026-06-06T06:11:49.675969",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1061.pdf",
-      "amendments": []
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1061_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill expands the criteria for enhanced sentencing and mandatory minimum penalties for illegally wearing, carrying, or transporting a handgun. It requires that prior convictions from federal, military, Native American tribal courts, or other states be treated the same as Maryland convictions for sentencing purposes, provided the out-of-state crime would have been a violation of specific Maryland weapons laws if committed within the state.",
+      "bill_summary": "This bill expands the criteria for enhanced sentencing for individuals convicted of wearing, carrying, or transporting a handgun. It adds convictions from other states, federal courts, military courts, or Native American tribal courts to the list of prior offenses that trigger mandatory minimums and increased penalties, provided the out-of-state offense would have been a violation of specific Maryland weapon laws if committed in the state.",
       "start_year": 2026,
       "end_year": null,
-      "funding": null,
-      "responsible_party": "Maryland Judiciary, State's Attorneys, and the Maryland Department of Public Safety and Correctional Services",
-      "stakeholders": "Individuals with prior weapons convictions from other jurisdictions who are charged with handgun violations in Maryland; the state legal and correctional systems.",
-      "fiscal_impact_summary": "Specific dollar estimates are unavailable because the formal Fiscal Note was not included in the provided text. However, the bill is expected to increase state expenditures for the Department of Public Safety and Correctional Services due to potentially longer incarceration periods resulting from the expansion of mandatory minimum sentences for defendants with qualifying out-of-state prior convictions.",
+      "funding": 0,
+      "responsible_party": "Maryland Judiciary and State's Attorney's Office",
+      "stakeholders": "Individuals with prior weapon-related convictions from extra-jurisdictional courts who are charged with handgun violations in Maryland.",
+      "fiscal_impact_summary": "According to the Fiscal Note, the bill is not expected to materially affect State or local finances or operations. While the bill expands the application of enhanced sentencing and mandatory minimums, the impact on incarceration costs and judicial workloads is expected to be negligible.",
       "agency_relevance": [
         {
           "agency_name": "Administrative Office of the Courts",
           "is_relevant": true,
-          "relevance_explanation": "The bill alters sentencing requirements for handgun violations by including out-of-state and federal convictions as prior offenses. This requires the judiciary to review extra-jurisdictional records and apply enhanced sentencing guidelines.",
+          "relevance_explanation": "As the central support agency for the Maryland Judicial Branch, the AOC is responsible for implementing the bill's changes to sentencing for handgun violations, which now require considering specific out-of-state and federal prior convictions.",
           "relevance_rating": 4
+        },
+        {
+          "agency_name": "Department of Budget and Management",
+          "is_relevant": true,
+          "relevance_explanation": "DBM is the principal fiscal agency and is mentioned in the fiscal note analysis; while the impact is expected to be minimal, they monitor the fiscal implications of changes to sentencing and incarceration.",
+          "relevance_rating": 1
         },
         {
           "agency_name": "Department of Public Safety and Correctional Services",
           "is_relevant": true,
-          "relevance_explanation": "The bill increases the length of mandatory sentences and restricts parole eligibility for certain repeat handgun offenders, which directly impacts the state's correctional facilities and the Division of Parole and Probation.",
+          "relevance_explanation": "This agency oversees the state's correctional facilities and the Division of Parole and Probation. Altering sentencing to include out-of-state priors may lead to longer periods of incarceration or supervision for certain defendants.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Governor's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The Governor's Office oversees the executive branch and policy initiatives related to public safety. The Governor is responsible for signing the bill into law and directing the policy agenda for the state's public safety agencies.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Governor's Office of Crime Prevention and Policy",
+          "is_relevant": true,
+          "relevance_explanation": "This office serves as the primary coordinating body for public safety and advises the Governor on criminal justice strategies, including sentencing policies intended to reduce crime.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Maryland Office of the Public Defender",
+          "is_relevant": true,
+          "relevance_explanation": "The OPD represents indigent defendants who will be directly affected by the bill's expansion of prior convictions used to qualify for enhanced mandatory minimum sentences.",
           "relevance_rating": 4
         },
         {
           "agency_name": "Maryland State Police",
           "is_relevant": true,
-          "relevance_explanation": "As the primary law enforcement agency for criminal laws, the Maryland State Police is responsible for the enforcement of handgun transportation and possession laws affected by this bill.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Maryland Office of the Public Defender",
-          "is_relevant": true,
-          "relevance_explanation": "The bill expands the scope of prior convictions that trigger enhanced penalties and mandatory minimums, which significantly impacts the defense strategies and legal advocacy required for indigent clients facing these charges.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Governor's Office of Crime Prevention and Policy",
-          "is_relevant": true,
-          "relevance_explanation": "As the state's coordinating body for public safety and criminal justice strategies, this agency is involved in policy development regarding handgun laws and sentencing reductions for recidivism.",
+          "relevance_explanation": "As the primary law enforcement agency for the state, MSP enforces handgun laws and manages criminal records and handgun permit background checks, which are related to the offenses covered by the bill.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The OAG provides legal counsel to state agencies on the implementation of new criminal laws and handles criminal appeals related to sentencing and the interpretation of handgun statutes.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Maryland Center for School Safety",
-          "is_relevant": true,
-          "relevance_explanation": "The bill specifically addresses handgun violations on public school property, which relates to the agency's mission to coordinate and enhance school safety across the state.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Governor's Office",
-          "is_relevant": true,
-          "relevance_explanation": "The Governor's Office oversees the executive branch and coordinates policy initiatives, including legislative changes to state handgun laws and enforcement priorities.",
+          "relevance_explanation": "The OAG provides legal counsel to state agencies and represents the state in criminal appeals, which may arise from the application of these new subsequent offender sentencing provisions.",
           "relevance_rating": 2
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "ac8e29df3bdd849a8094ec58b7b5299c9119e56eea487510d0d861cd48fc6911",
-    "last_updated_local": "2026-02-11T06:52:38.017357",
-    "bill_hash": "912860e61278248c8656488a14fa0033"
+    "qa_input_hash": "3ce9a8c394bfab9977813e1518658c136ad7c090d1cfd9ef2105f0ce68670af7",
+    "last_updated_local": "2026-06-06T06:12:09.655277",
+    "bill_hash": "d97458e898492926a92a0a0180743ba7"
   },
   "HB1062": {
     "first_seen": "2026-02-11T06:07:21.775478",
@@ -98937,62 +98938,105 @@
   },
   "HB1066": {
     "first_seen": "2026-02-11T06:07:23.547782",
-    "last_updated": "2026-02-12T06:01:24.843383",
-    "last_seen": "2026-02-12T06:01:24.843383",
+    "last_updated": "2026-06-06T06:11:50.708677",
+    "last_seen": "2026-06-06T06:11:50.708677",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1066.pdf",
-      "amendments": []
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1066_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill authorizes Maryland municipalities to conduct elections using qualified electronic transmission systems that meet specified security and verification standards, including end-to-end encryption, multifactor authentication, and biometric identity verification. It also prohibits municipalities from using voter information collected through these systems for any purposes other than election administration and statistics.",
+      "bill_summary": "This bill authorizes Maryland municipalities to conduct elections using qualified electronic transmission systems that allow voters to receive, mark, and return ballots electronically. These systems must meet specific security criteria, including end-to-end encryption, multifactor authentication, and biometric verification. The bill also restricts the use of collected voter data to election administration and statistics.",
       "start_year": 2026,
       "end_year": null,
       "funding": null,
-      "responsible_party": "Municipal governments in Maryland",
-      "stakeholders": "Qualified voters in Maryland municipalities and municipal governing bodies",
-      "fiscal_impact_summary": "The fiscal impact is indeterminate as the bill authorizes but does not mandate the use of electronic transmission systems. Municipalities that choose to implement such systems will incur costs related to system procurement and administration, but specific dollar estimates are unavailable because a formal Fiscal Note was not included in the provided text.",
+      "responsible_party": "Maryland Municipalities",
+      "stakeholders": "Qualified voters and municipal governments in Maryland",
+      "fiscal_impact_summary": "The bill has no material impact on State finances. Local municipal expenditures are expected to increase for jurisdictions that choose to implement an electronic transmission system. While total costs are indeterminate and depend on implementation choices, annual licensing fees for such a system are estimated to range between 5000 and 10000 based on data from other jurisdictions.",
       "agency_relevance": [
         {
-          "agency_name": "Maryland State Board of Elections",
+          "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The State Board of Elections is the primary agency responsible for supervising and administering elections in Maryland, certifying voting systems, and ensuring compliance with state and federal election laws. Although this bill targets municipalities, the SBE often provides oversight and sets standards for voting technologies and election integrity within the state.",
-          "relevance_rating": 5
+          "relevance_explanation": "The Governor's Office oversees the executive branch and coordinates state policy initiatives, including those related to local government administration and election integrity.",
+          "relevance_rating": 2
         },
         {
-          "agency_name": "Department of Information Technology",
-          "is_relevant": true,
-          "relevance_explanation": "The bill defines specific and advanced technical requirements for 'qualified electronic transmission systems,' including end-to-end encryption, multi-factor authentication, and biometric digital identity verification. As the state's principal agency for cybersecurity and IT strategy, DoIT would be highly relevant in evaluating these security standards and their implementation.",
-          "relevance_rating": 4
+          "agency_name": "Comptroller of Maryland",
+          "is_relevant": false,
+          "relevance_explanation": "The Comptroller's role is primarily focused on tax collection and financial management, which is not directly impacted by municipal election technology.",
+          "relevance_rating": 0
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The OAG serves as the chief legal representative for the state and provides counsel to agencies like the State Board of Elections. They would be responsible for reviewing the legal implications of electronic voting systems to ensure they comply with constitutional protections and state voting laws.",
+          "relevance_explanation": "The OAG provides legal counsel to state agencies, including the State Board of Elections, and would likely be involved in interpreting the legal requirements and security standards for the electronic transmission systems authorized by the bill.",
           "relevance_rating": 3
+        },
+        {
+          "agency_name": "Department of Budget and Management",
+          "is_relevant": true,
+          "relevance_explanation": "As the principal fiscal agency, DBM monitors the fiscal impact of legislation on the state and oversees the administrative and personnel policies that may be affected if state agencies support these municipal systems.",
+          "relevance_rating": 1
         },
         {
           "agency_name": "Department of Disabilities",
           "is_relevant": true,
-          "relevance_explanation": "A move toward electronic voting systems has significant implications for accessibility. The Department of Disabilities coordinates services and ensures that state and local policies are inclusive, making them a key stakeholder in how these electronic transmission systems accommodate voters with disabilities.",
+          "relevance_explanation": "The bill's authorization of electronic transmission systems for ballots must comply with accessibility standards to ensure that voters with disabilities have equal access to the electoral process.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Information Technology",
+          "is_relevant": true,
+          "relevance_explanation": "The bill defines specific technical requirements for electronic transmission systems, including encryption, multifactor authentication, and air-gapping, which align with DoIT's role in setting state IT security and infrastructure strategy.",
           "relevance_rating": 3
         },
         {
-          "agency_name": "Governor's Office",
+          "agency_name": "Maryland State Board of Elections",
           "is_relevant": true,
-          "relevance_explanation": "The Governor's Office oversees the executive branch and coordinates state policy initiatives. The authorization of electronic voting systems represents a significant policy change in election administration that requires executive branch coordination.",
+          "relevance_explanation": "The State Board of Elections is the primary agency responsible for supervising elections in Maryland. Although the bill focuses on municipal authority, SBE provides support to municipalities through voter registration data, ballot inclusion, and equipment leasing.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Governor's Office of Homeland Security",
+          "is_relevant": true,
+          "relevance_explanation": "GOHS coordinates statewide efforts for disaster prevention and public safety; election security is a critical component of homeland security and infrastructure protection.",
           "relevance_rating": 2
+        },
+        {
+          "agency_name": "Office of Legislative Audits",
+          "is_relevant": true,
+          "relevance_explanation": "OLA conducts compliance and performance audits of state and local government programs, and may be tasked with auditing the security or fiscal administration of these electronic systems.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Office of the State Prosecutor",
+          "is_relevant": true,
+          "relevance_explanation": "The Office of the State Prosecutor investigates and prosecutes offenses related to the electoral process, and would oversee the integrity of new electronic voting methods.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Secretary of State",
+          "is_relevant": true,
+          "relevance_explanation": "The Secretary of State is the custodian of official records and laws, and is involved in the administration of executive orders and various governmental commissions.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Commission on Civil Rights",
+          "is_relevant": true,
+          "relevance_explanation": "The MCCR enforces anti-discrimination laws and would be concerned with ensuring that electronic transmission systems do not create barriers to voting for protected classes.",
+          "relevance_rating": 1
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "b240878061b3e35926d8c801f91a24d874aeba5dccd7b563355993bd02bf2eba",
-    "last_updated_local": "2026-02-12T06:06:19.833116",
-    "bill_hash": "ec205a6466335b20d191bdbfa913367a"
+    "qa_input_hash": "edfba8e4ed1d1efd8dfca893baa19c0d1a7d9660c6e90487e7bdd201092655c3",
+    "last_updated_local": "2026-06-06T06:12:25.723479",
+    "bill_hash": "3bcef10477adb6d4f429ec89de4bc6a0"
   },
   "HB1067": {
     "first_seen": "2026-02-11T06:07:23.951852",
