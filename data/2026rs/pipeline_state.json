@@ -79835,8 +79835,8 @@
   },
   "HB0980": {
     "first_seen": "2026-02-06T19:37:16.566501",
-    "last_updated": "2026-04-29T06:02:05.288063",
-    "last_seen": "2026-04-29T06:02:05.288063",
+    "last_updated": "2026-06-19T06:45:14.153079",
+    "last_seen": "2026-06-19T06:45:14.153079",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -79847,69 +79847,75 @@
       "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0980_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "Known as Kanaiyah\u2019s Law, this bill requires the Maryland Department of Human Services to establish and maintain a Guardianship Assistance Program (GAP) to provide monetary and medical aid to guardians of minor children, facilitating permanent placements. It also establishes the State Foster Youth Ombudsman within the Department of Human Services to advocate for children in out-of-home care, investigate their complaints, and provide legal expertise in child welfare, custody, and guardianship matters. Furthermore, the bill prohibits placing children in unlicensed settings and mandates criminal history records checks for adults residing in a guardian's home.",
+      "bill_summary": "The bill requires the Secretary of Human Services to establish and maintain a Guardianship Assistance Program to provide monetary and medical aid to guardians of minor children, facilitating permanent guardianship placements. It also establishes the State Foster Youth Ombudsman within the Department of Human Services to investigate complaints, provide legal expertise, and advocate for youth in out-of-home care.",
       "start_year": 2027,
       "end_year": null,
-      "funding": 50000,
+      "funding": 37500,
       "responsible_party": "Maryland Department of Human Services",
-      "stakeholders": "Children in the foster care and child welfare system, legal guardians of minor children, youth in out-of-home care, and local departments of social services.",
-      "fiscal_impact_summary": "State general fund expenditures are estimated to increase by $37,500 in fiscal year 2028 and $50,000 annually thereafter to fund the salary and associated costs for the State Foster Youth Ombudsman position, assuming the Department of Human Services repurposes an existing vacant position. If a new position is created instead, annual costs would be at least $154,000. The Guardianship Assistance Program is expected to have no material fiscal impact as it primarily codifies existing departmental regulations. Local government operations and finances are not anticipated to be materially affected.",
+      "stakeholders": "Minor children in the foster care system, legal guardians, foster youth experiencing out-of-home care, caregivers, and resource and adoptive parents.",
+      "fiscal_impact_summary": "State general fund expenditures are estimated to increase by approximately $37,500 in fiscal 2028 and by $50,000 annually thereafter. These costs are primarily associated with the establishment of the State Foster Youth Ombudsman position, assuming the repurposing of an existing vacant position; otherwise, costs could be higher. The Guardianship Assistance Program provisions are not expected to have a material fiscal impact as they largely codify existing regulatory practices.",
       "agency_relevance": [
         {
           "agency_name": "Department of Human Services",
           "is_relevant": true,
-          "relevance_explanation": "As the primary agency responsible for child welfare and social services, DHS is mandated by the bill to establish and maintain the Guardianship Assistance Program and host the newly created State Foster Youth Ombudsman within its department. DHS will manage the eligibility, annual reviews, and administration of monetary and medical assistance for guardians.",
+          "relevance_explanation": "As the primary agency responsible for child welfare, DHS is tasked by the bill to establish and maintain the Guardianship Assistance Program and the State Foster Youth Ombudsman position. The agency is also responsible for adopting implementing regulations and managing the annual review of guardianship assistance.",
           "relevance_rating": 5
-        },
-        {
-          "agency_name": "Department of Budget and Management",
-          "is_relevant": true,
-          "relevance_explanation": "DBM is the state's central personnel and budget agency. The fiscal note indicates that DHS will need to work with DBM to repurpose a vacant position (PIN) for the Ombudsman and adjust salary levels. Additionally, DBM will be involved in the long-term fiscal planning and budget execution for the new program's general fund expenditures.",
-          "relevance_rating": 3
         },
         {
           "agency_name": "Administrative Office of the Courts",
           "is_relevant": true,
-          "relevance_explanation": "The bill impacts juvenile court proceedings by requiring specific directives in orders granting guardianship and setting procedures for guardianship reviews and the reopening of Child in Need of Assistance (CINA) cases based on new criminal history information.",
+          "relevance_explanation": "The bill directly impacts court proceedings by specifying requirements for juvenile court orders related to custody and guardianship and establishes a framework for guardianship review hearings under the Courts and Judicial Proceedings Article.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Department of Budget and Management",
+          "is_relevant": true,
+          "relevance_explanation": "DBM is involved in the fiscal and personnel aspects of the bill, specifically regarding the creation of the Ombudsman position and the potential repurposing of a vacant Position Identification Number (PIN) to fund the new role.",
           "relevance_rating": 3
         },
         {
-          "agency_name": "Office of the Attorney General",
+          "agency_name": "Maryland Office of the Public Defender",
           "is_relevant": true,
-          "relevance_explanation": "The OAG serves as legal counsel to state agencies like DHS. The bill requires the State Foster Youth Ombudsman to be an attorney admitted to practice in Maryland. The OAG will likely provide legal guidance on the implementation of the new ombudsman's duties, investigative powers, and regulatory frameworks.",
-          "relevance_rating": 2
+          "relevance_explanation": "The Office of the Public Defender represents indigent children in CINA and guardianship proceedings. The establishment of a State Foster Youth Ombudsman creates a new advocate and investigative body that will interact with their clients and cases.",
+          "relevance_rating": 3
         },
         {
-          "agency_name": "Maryland State Police",
+          "agency_name": "Department of Health",
           "is_relevant": true,
-          "relevance_explanation": "The bill involves expanded requirements and checks related to criminal history records for adults living in the homes of guardians. The Maryland State Police is the primary agency for processing and maintaining records for the State of Maryland.",
+          "relevance_explanation": "The Guardianship Assistance Program includes a mandate to provide 'medical assistance' to eligible children. As the administrator of the state's Medicaid program and other health services for vulnerable populations, MDH will be involved in coordinating these benefits.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Department of Public Safety and Correctional Services",
           "is_relevant": true,
-          "relevance_explanation": "DHS is authorized to terminate guardianship assistance if an adult in the household is under criminal court supervision or required to register with a supervising authority. DPSCS manages the Division of Parole and Probation and the registry mentioned in the bill, providing the necessary data for DHS compliance reviews.",
+          "relevance_explanation": "The bill requires local social services departments to review whether adults living in a guardian's home are under criminal court supervision for crimes of violence or are required to register as offenders, necessitating coordination with DPSCS registries.",
           "relevance_rating": 2
         },
         {
-          "agency_name": "Maryland Office of the Public Defender",
+          "agency_name": "Maryland State Police",
           "is_relevant": true,
-          "relevance_explanation": "The OPD represents indigent children and parents in juvenile court and CINA proceedings. The creation of a State Foster Youth Ombudsman to investigate complaints and advocate for youth in out-of-home care directly overlaps with the legal interests and protections the OPD seeks for its clients.",
+          "relevance_explanation": "MSP is involved in conducting criminal history records checks, which the bill requires for adults residing in the home of a child's guardian under certain review conditions.",
           "relevance_rating": 2
         },
         {
-          "agency_name": "Governor's Office",
+          "agency_name": "Board of Public Works",
           "is_relevant": true,
-          "relevance_explanation": "The Governor's Office oversees the executive branch, including DHS. The Governor is responsible for signing the bill into law and proposing the state budget that includes the necessary general fund appropriations for the Ombudsman's salary and program costs.",
-          "relevance_rating": 1
+          "relevance_explanation": "The fiscal note indicates that if the budget for the new Ombudsman office is insufficient, the agency may apply to the Board of Public Works for additional funds from the General Emergency Fund.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Governor's Office for Children",
+          "is_relevant": true,
+          "relevance_explanation": "The bill aligns with the GOC's mission to promote the well-being of Maryland's children and reduce poverty, specifically for foster youth transitioning to permanent placements or independence.",
+          "relevance_rating": 2
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "fb5aad2ef3cd89c9a1685b13e14de71ef23e2f426049c55cd309ef8207fd4f9b",
-    "last_updated_local": "2026-04-29T06:04:26.146955",
-    "bill_hash": "0d4863b9a46f3b503a16c1953cd11926"
+    "qa_input_hash": "b273d23c7a8ab60f2d8d8af79a0059b48c85242974d5984a27968683f0436d31",
+    "last_updated_local": "2026-06-19T06:45:48.026420",
+    "bill_hash": "d873b233867ce1046969f402cd477761"
   },
   "HB0981": {
     "first_seen": "2026-02-06T19:37:17.326037",
