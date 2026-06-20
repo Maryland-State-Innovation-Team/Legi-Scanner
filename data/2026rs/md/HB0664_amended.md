@@ -1,91 +1,69 @@
-<bill>
 START OF PAGE 1
-HOUSE BILL 664
+WES MOORE, Governor Ch. 825
 
-A2 6lr1720
-CF SB 897
+Chapter 825
 
-By: Cecil County Delegation
-Introduced and read first time: January 30, 2026
-Assigned to: Government, Labor, and Elections
+(House Bill 664)
 
-Committee Report: Favorable with amendments
-House action: Adopted
-Read second time: March 9, 2026
+AN ACT concerning
 
-CHAPTER ______
+Cecil County – Alcoholic Beverages – Alteration of License Quota
 
-1 AN ACT concerning
+for the purpose of altering the quota on the number of alcoholic beverages licenses that
+the Board of License Commissioners for Cecil County may issue to apply only to
+Class A licenses based on a certain ratio; and generally relating to alcoholic
+beverages in Cecil County.
 
-2 Cecil County – Alcoholic Beverages – Alteration of License Quota
+BY repealing and reenacting, without amendments,
+Article – Alcoholic Beverages and Cannabis
+Section 17–102
+Annotated Code of Maryland
+(2024 Replacement Volume and 2025 Supplement)
 
-3 For the purpose of altering the quota on the number of alcoholic beverages licenses that
-4 the Board of License Commissioners for Cecil County may issue to apply only to
-5 Class A licenses based on a certain ratio; and generally relating to alcoholic
-6 beverages in Cecil County.
+BY repealing and reenacting, with amendments,
+Article – Alcoholic Beverages and Cannabis
+Section 17–1601
+Annotated Code of Maryland
+(2024 Replacement Volume and 2025 Supplement)
 
-7 BY repealing and reenacting, without amendments,
-8 Article – Alcoholic Beverages and Cannabis
-9 Section 17–102
-10 Annotated Code of Maryland
-11 (2024 Replacement Volume and 2025 Supplement)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
 
-12 BY repealing and reenacting, with amendments,
-13 Article – Alcoholic Beverages and Cannabis
-14 Section 17–1601
-15 Annotated Code of Maryland
-16 (2024 Replacement Volume and 2025 Supplement)
+Article – Alcoholic Beverages and Cannabis
 
-17 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-18 That the Laws of Maryland read as follows:
+17–102.
 
-19 Article – Alcoholic Beverages and Cannabis
+This title applies only in Cecil County.
 
-20 17–102.
+17–1601.
 
-EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law.
-Underlining indicates amendments to bill.
-~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
-amendment. *hb0664*
+(a) (1) EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS SUBSECTION AND
+SUBJECT TO PARAGRAPH (3) of this subsection, the Board may not issue a number of
+CLASS A licenses that, in the aggregate, exceeds 1 for every [400] 2,000 registered
+voters or major fraction in the county, as determined by the current registration of
+voters.
+
+(2) THE BOARD MAY ISSUE NOT FEWER THAN 2 CLASS A LICENSES IN
+EACH ELECTION DISTRICT OF THE COUNTY.
+
+– 1 –
 END OF PAGE 1
 
 START OF PAGE 2
-2 HOUSE BILL 664
+Ch. 825 2026 LAWS OF MARYLAND
 
-1 This title applies only in Cecil County.
+(3) [A Class BLX beer, wine, and liquor restaurant license, Class C
+club license, motel–restaurant complex license, hotel–restaurant complex license, or Class
+GC (golf course) beer, wine, and liquor (on–sale) license] NO OTHER CLASS OF LICENSE
+may be counted in the computation of the aggregate number of licenses.
 
-2 17–1601.
+(b) The quota shall be computed and applied separately for each election district
+of the county.
 
-3 (a) (1) ~~Subject to paragraph (2)~~ <u>EXCEPT AS PROVIDED IN PARAGRAPH (2)</u>
-4 <u>OF THIS SUBSECTION AND SUBJECT TO PARAGRAPH (3)</u> of this subsection, the Board
-5 may not issue a number of CLASS A licenses that, in the aggregate, exceeds 1 for every
-6 [400] ~~1,200~~ <u>2,000</u> registered voters or major fraction in the county, as determined by the
-7 current registration of voters.
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+1, 2026.
 
-8 <u>(2) THE BOARD MAY ISSUE NOT FEWER THAN 2 CLASS A LICENSES IN</u>
-9 <u>EACH ELECTION DISTRICT OF THE COUNTY.</u>
+Approved by the Governor, May 26, 2026.
 
-10 ~~(2)~~ <u>(3)</u> [A Class BLX beer, wine, and liquor restaurant license, Class C
-11 club license, motel–restaurant complex license, hotel–restaurant complex license, or Class
-12 GC (golf course) beer, wine, and liquor (on–sale) license] NO OTHER CLASS OF LICENSE
-13 may [not] be counted in the computation of the aggregate number of licenses.
-
-14 (b) The quota shall be computed and applied separately for each election district
-15 of the county.
-
-16 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
-17 1, 2026.
-
-Approved:
-
-________________________________________________________________________________
-Governor.
-
-________________________________________________________________________________
-Speaker of the House of Delegates.
-
-________________________________________________________________________________
-President of the Senate.
+– 2 –
 END OF PAGE 2
-</bill>

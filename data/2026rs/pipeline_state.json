@@ -54919,8 +54919,8 @@
   },
   "HB0664": {
     "first_seen": "2026-02-06T19:34:11.787687",
-    "last_updated": "2026-05-27T06:31:26.945311",
-    "last_seen": "2026-05-27T06:31:26.945311",
+    "last_updated": "2026-06-20T06:30:33.072793",
+    "last_seen": "2026-06-20T06:30:33.072793",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -54931,45 +54931,45 @@
       "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0664_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill alters the quota for alcoholic beverages licenses in Cecil County, specifically applying the quota only to Class A licenses. Under the bill, the Cecil County Board of License Commissioners may not issue more than one Class A license for every 2,000 registered voters per election district, but must ensure that at least two Class A licenses are issued in each district. It also clarifies that other license classes are not included in this aggregate calculation.",
+      "bill_summary": "This bill alters the quota for Class A alcoholic beverages licenses in Cecil County, limiting the number of licenses to one for every 2,000 registered voters. It requires at least two Class A licenses in each election district and specifies that other license classes are excluded from the quota calculation.",
       "start_year": 2026,
       "end_year": null,
       "funding": null,
-      "responsible_party": "Cecil County Board of License Commissioners",
-      "stakeholders": "Alcoholic beverage license applicants and current Class A license holders in Cecil County, as well as the county's registered voters.",
-      "fiscal_impact_summary": "The bill has no impact on State finances. According to the fiscal note, the bill is not anticipated to materially affect Cecil County finances or operations, and the impact on small businesses is expected to be minimal.",
+      "responsible_party": "Board of License Commissioners for Cecil County",
+      "stakeholders": "Potential Class A alcoholic beverages license applicants and registered voters in Cecil County",
+      "fiscal_impact_summary": "The bill is not anticipated to materially affect State or Cecil County finances or operations. According to the fiscal note, there is no State effect and the impact on small businesses is expected to be minimal.",
       "agency_relevance": [
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "As the chief executive, the Governor oversees the executive branch, signs legislation into law (including this local bill), and traditionally appoints the members of local boards of license commissioners in Maryland.",
+          "relevance_explanation": "The Governor's Office is responsible for signing legislation into law and overseeing the executive branch, which includes the administration of state-mandated local boards like the Cecil County Board of License Commissioners.",
           "relevance_rating": 1
         },
         {
           "agency_name": "Comptroller of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "The Comptroller is the state's principal regulator of the alcoholic beverages industry. While local boards manage specific license issuances, the Comptroller oversees statewide compliance and revenue collection related to these industries.",
+          "relevance_explanation": "As the state's chief regulator of the alcohol industry, the Comptroller oversees the licensing and tax collection framework that this bill's alteration of Cecil County license quotas affects.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Maryland State Board of Elections",
           "is_relevant": true,
-          "relevance_explanation": "The bill alters the alcoholic beverages license quota based on the number of registered voters in Cecil County. The State Board of Elections manages the statewide voter registration system used to determine these numbers.",
-          "relevance_rating": 3
+          "relevance_explanation": "The bill defines alcoholic beverage license quotas based on the number of registered voters in the county. The State Board of Elections manages the statewide voter registration system which serves as the source of this data.",
+          "relevance_rating": 2
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The Office of the Attorney General provides legal counsel to state agencies, boards, and commissions, including local boards of license commissioners, and would represent the board in any legal challenges regarding the implementation of the new license quotas.",
-          "relevance_rating": 2
+          "relevance_explanation": "The Office of the Attorney General provides legal counsel to state boards and commissions, including local boards of license commissioners, regarding the interpretation and enforcement of alcoholic beverages laws.",
+          "relevance_rating": 1
         }
       ]
     },
-    "amended_status": "original",
-    "amend_input_hash": "e89a5040f60adc3e1fa26ffa31e46925cc297959a18232d723650971f5b85bea",
-    "qa_input_hash": "084de92cf62b2dc82b6e145be9c5399da19c5528ca15a15592d282ca9e706faf",
-    "last_updated_local": "2026-05-27T06:35:53.259906",
-    "bill_hash": "d5a76cbff3bf699a834bac7293cbfd01"
+    "amended_status": "amended",
+    "amend_input_hash": "2771cf4bb9ffc79f23e4a57f5644321c152448c7be8c753ef159f72584b417d5",
+    "qa_input_hash": "722bc1e3ce4014477ad7bbeb188310f89df24cdadb8a4eefa9641c9de6cf6304",
+    "last_updated_local": "2026-06-20T06:32:59.586436",
+    "bill_hash": "0e62664b44f5b15eda0cb01e21f6ef7d"
   },
   "HB0665": {
     "first_seen": "2026-02-06T19:34:12.278867",
@@ -79835,8 +79835,8 @@
   },
   "HB0980": {
     "first_seen": "2026-02-06T19:37:16.566501",
-    "last_updated": "2026-06-19T06:45:14.153079",
-    "last_seen": "2026-06-19T06:45:14.153079",
+    "last_updated": "2026-06-20T06:30:33.944438",
+    "last_seen": "2026-06-20T06:30:33.944438",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -79914,8 +79914,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "b273d23c7a8ab60f2d8d8af79a0059b48c85242974d5984a27968683f0436d31",
-    "last_updated_local": "2026-06-19T06:45:48.026420",
-    "bill_hash": "d873b233867ce1046969f402cd477761"
+    "last_updated_local": "2026-06-20T06:30:38.404944",
+    "bill_hash": "0d4863b9a46f3b503a16c1953cd11926"
   },
   "HB0981": {
     "first_seen": "2026-02-06T19:37:17.326037",
