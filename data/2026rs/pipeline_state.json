@@ -54919,8 +54919,8 @@
   },
   "HB0664": {
     "first_seen": "2026-02-06T19:34:11.787687",
-    "last_updated": "2026-06-20T06:30:33.072793",
-    "last_seen": "2026-06-20T06:30:33.072793",
+    "last_updated": "2026-06-21T06:35:40.221846",
+    "last_seen": "2026-06-21T06:35:40.221846",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -54968,8 +54968,8 @@
     "amended_status": "amended",
     "amend_input_hash": "2771cf4bb9ffc79f23e4a57f5644321c152448c7be8c753ef159f72584b417d5",
     "qa_input_hash": "722bc1e3ce4014477ad7bbeb188310f89df24cdadb8a4eefa9641c9de6cf6304",
-    "last_updated_local": "2026-06-20T06:32:59.586436",
-    "bill_hash": "0e62664b44f5b15eda0cb01e21f6ef7d"
+    "last_updated_local": "2026-06-21T06:35:40.823064",
+    "bill_hash": "d5a76cbff3bf699a834bac7293cbfd01"
   },
   "HB0665": {
     "first_seen": "2026-02-06T19:34:12.278867",
