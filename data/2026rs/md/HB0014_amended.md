@@ -1,282 +1,237 @@
 <bill>
-<bill>
 START OF PAGE 1
-HOUSE BILL 14
+WES MOORE, Governor Ch. 775
 
-F1 (6lr0720)
-ENROLLED BILL
-— Ways and Means/Education, Energy, and the Environment —
-Introduced by Delegate Foley
+Chapter 775
 
-Read and Examined by Proofreaders:
+(House Bill 14)
 
-_______________________________________________
-Proofreader.
-_______________________________________________
-Proofreader.
+AN ACT concerning
 
-Sealed with the Great Seal and presented to the Governor, for his approval this
+County Boards of Education – Bullying, Harassment, or Intimidation –
+Information Collection and Reporting Requirements
 
-_______ day of _______________ at ________________________ o’clock, ________M.
+FOR the purpose of altering the contents of a certain bullying, harassment, or intimidation
+form to require the identification of certain information; requiring each county board
+of education to report information about groups with certain characteristics under
+certain circumstances; requiring the State Department of Education to establish
+certain standards by a certain date; requiring each county board to post
+certain information on its website in a certain manner on or before a certain date
+each year; and generally relating to bullying, harassment, or intimidation and
+county boards of education.
 
-______________________________________________
-Speaker.
+BY repealing and reenacting, with amendments,
+Article – Education
+Section 7–424
+Annotated Code of Maryland
+(2025 Replacement Volume and 2025 Supplement)
 
-CHAPTER ______
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
 
-1 AN ACT concerning
+Article – Education
 
-2 County Boards of Education – Bullying, Harassment, or Intimidation –
-3 Information Collection and Reporting Requirements
+7–424.
 
-4 FOR the purpose of altering the contents of a certain bullying, harassment, or intimidation
-5 form to require the identification of certain information; requiring each county board
-6 of education to report information about groups with certain characteristics under
-7 certain circumstances; requiring the State Department of Education to establish
-8 certain standards by a certain date; requiring each county board to post
-9 certain information on its website in a certain manner on or before a certain date
-10 each year; and generally relating to bullying, harassment, or intimidation and
-11 county boards of education.
+(a) (1) In this section the following words have the meanings indicated.
 
-12 BY repealing and reenacting, with amendments,
-13 Article – Education
-14 Section 7–424
+(2) “Bullying, harassment, or intimidation” means intentional conduct,
+including verbal, physical, or written conduct, or an intentional electronic communication,
+that:
 
-EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law.
-Underlining indicates amendments to bill.
-~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
-amendment.
-Italics indicate opposite chamber/conference committee amendments.*hb0014*
+(i) Creates a hostile educational environment by substantially
+interfering with a student’s educational benefits, opportunities, or performance, or with a
+student’s physical or psychological well–being and is:
+
+1. Motivated by an actual or a perceived personal
+characteristic including race, national origin, marital status, sex, sexual orientation,
+gender identity, religion, ancestry, physical attributes, socioeconomic status, familial
+status, or physical or mental ability or disability;
+
+– 1 –
 END OF PAGE 1
 
 START OF PAGE 2
-2 HOUSE BILL 14
+Ch. 775 2026 LAWS OF MARYLAND
 
-1 Annotated Code of Maryland
-2 (2025 Replacement Volume and 2025 Supplement)
+2. Sexual in nature, including descriptions or depictions of a
+student with the student’s intimate parts exposed or while engaged in an act of sexual
+contact; or
 
-3 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-4 That the Laws of Maryland read as follows:
+3. Threatening or seriously intimidating; and
 
-5 Article – Education
+(ii) 1. Occurs on school property, at a school activity or event, or
+on a school bus; or
 
-6 7–424.
+2. Substantially disrupts the orderly operation of a school.
 
-7 (a) (1) In this section the following words have the meanings indicated.
+(3) “Electronic communication” means a communication transmitted by
+means of an electronic device, including a telephone, cellular phone, computer, or pager.
 
-8 (2) “Bullying, harassment, or intimidation” means intentional conduct,
-9 including verbal, physical, or written conduct, or an intentional electronic communication,
-10 that:
+(4) “Intimate parts” means the naked genitals, pubic area, buttocks, or
+female nipple.
 
-11 (i) Creates a hostile educational environment by substantially
-12 interfering with a student’s educational benefits, opportunities, or performance, or with a
-13 student’s physical or psychological well–being and is:
+(5) “Sexual contact” means sexual intercourse, including genital–genital,
+oral–genital, anal–genital, or oral–anal, whether between persons of the same or opposite
+sex.
 
-14 1. Motivated by an actual or a perceived personal
-15 characteristic including race, national origin, marital status, sex, sexual orientation,
-16 gender identity, religion, ancestry, physical attributes, socioeconomic status, familial
-17 status, or physical or mental ability or disability;
+(b) (1) The Department shall require a county board to report incidents of
+bullying, harassment, or intimidation against students attending a public school under the
+jurisdiction of the county board.
 
-18 2. Sexual in nature, including descriptions or depictions of a
-19 student with the student’s intimate parts exposed or while engaged in an act of sexual
-20 contact; or
+(2) An incident of bullying, harassment, or intimidation may be reported
+by:
 
-21 3. Threatening or seriously intimidating; and
+(i) A student;
 
-22 (ii) 1. Occurs on school property, at a school activity or event, or
-23 on a school bus; or
+(ii) The parent, guardian, or close adult relative of a student; or
 
-24 2. Substantially disrupts the orderly operation of a school.
+(iii) A school staff member.
 
-25 (3) “Electronic communication” means a communication transmitted by
-26 means of an electronic device, including a telephone, cellular phone, computer, or pager.
+(c) (1) The Department shall create a standard victim of bullying, harassment,
+or intimidation report form.
 
-27 (4) “Intimate parts” means the naked genitals, pubic area, buttocks, or
-28 female nipple.
+(2) Each victim of bullying, harassment, or intimidation report form shall:
 
-29 (5) “Sexual contact” means sexual intercourse, including genital–genital,
-30 oral–genital, anal–genital, or oral–anal, whether between persons of the same or opposite
-31 sex.
+(i) Identify the victim and the alleged perpetrator, if known;
+
+(ii) Indicate the age of the victim and alleged perpetrator;
+
+(iii) Describe the incident, including alleged statements made by the
+alleged perpetrator;
+
+– 2 –
 END OF PAGE 2
 
 START OF PAGE 3
-HOUSE BILL 14 3
+WES MOORE, Governor Ch. 775
 
-1 (b) (1) The Department shall require a county board to report incidents of
-2 bullying, harassment, or intimidation against students attending a public school under the
-3 jurisdiction of the county board.
+(IV) IDENTIFY ANY ACTUAL OR PERCEIVED PERSONAL
+CHARACTERISTICS DESCRIBED IN SUBSECTION (A)(2)(I)1 OF THIS SECTION
+THAT ARE BELIEVED TO HAVE BEEN A MOTIVATING FACTOR IN THE INCIDENT;
 
-4 (2) An incident of bullying, harassment, or intimidation may be reported
-5 by:
+(V) Indicate the location of the incident;
 
-6 (i) A student;
+(VI) Identify any physical injury suffered by the victim and
+describe the seriousness and any permanent effects of the injury;
 
-7 (ii) The parent, guardian, or close adult relative of a student; or
+(VII) Indicate the number of days a student is absent from
+school, if any, as a result of the incident;
 
-8 (iii) A school staff member.
+(VIII) Identify any request for psychological services initiated by
+the victim or the victim’s family due to psychological injuries suffered; and
 
-9 (c) (1) The Department shall create a standard victim of bullying, harassment,
-10 or intimidation report form.
+(IX) Include instructions on how to fill out the form and the
+mailing address to where the form shall be sent.
 
-11 (2) Each victim of bullying, harassment, or intimidation report form shall:
+(3) A county board shall distribute copies of the victim of bullying,
+harassment, or intimidation report form to each public school under the county board’s
+jurisdiction.
 
-12 (i) Identify the victim and the alleged perpetrator, if known;
+(d) (1) A county board may establish an anonymous two–way electronic tip
+program to allow the reporting of an act of bullying, harassment, or intimidation of a
+student.
 
-13 (ii) Indicate the age of the victim and alleged perpetrator;
+(2) The purpose of the anonymous two–way electronic tip program is for a
+student, a parent, guardian, or close adult relative of a student, or a school staff member to
+report acts of bullying, harassment, or intimidation.
 
-14 (iii) Describe the incident, including alleged statements made by the
-15 alleged perpetrator;
+(3) Each county board that establishes an anonymous two–way electronic
+tip program shall publicize the anonymous two–way electronic tip program in student
+handbooks, school system websites, and other locations that the county board determines
+are necessary or appropriate.
 
-16 (IV) IDENTIFY ANY ACTUAL OR PERCEIVED PERSONAL
-17 CHARACTERISTICS DESCRIBED IN SUBSECTION (A)(2)(I)1 OF THIS SECTION THAT
-18 ARE BELIEVED TO HAVE BEEN A MOTIVATING FACTOR IN THE INCIDENT;
+(4) On receipt of a report of an act of bullying, harassment, or intimidation
+from an anonymous two–way electronic tip, the recipient of the report or the recipient’s
+designee shall:
 
-19
-20
+(i) Complete a victim of bullying, harassment, or intimidation
+report form in accordance with subsection (c) of this section; and
 
-21 [(iv)] (V) Indicate the location of the incident;
-
-22 [(v)] (VI) Identify any physical injury suffered by the victim and
-23 describe the seriousness and any permanent effects of the injury;
-
-24 [(vi)] (VII) Indicate the number of days a student is absent from
-25 school, if any, as a result of the incident;
-
-26 [(vii)] (VIII) Identify any request for psychological services initiated by
-27 the victim or the victim’s family due to psychological injuries suffered; and
-
-28 [(viii)] (IX) Include instructions on how to fill out the form and the
-29 mailing address to where the form shall be sent.
+(ii) Provide a transcript of the conversation to a designated person
+in the school.
+– 3 –
 END OF PAGE 3
 
 START OF PAGE 4
-4 HOUSE BILL 14
+Ch. 775 2026 LAWS OF MARYLAND
 
-1 (3) A county board shall distribute copies of the victim of bullying,
-2 harassment, or intimidation report form to each public school under the county board’s
-3 jurisdiction.
+(5) The Governor may include funding in the State budget to provide
+grants to county boards to establish an anonymous two–way electronic tip program.
 
-4 (d) (1) A county board may establish an anonymous two–way electronic tip
-5 program to allow the reporting of an act of bullying, harassment, or intimidation of a
-6 student.
+(e) (1) SUBJECT TO THE REQUIREMENTS OF THIS SUBSECTION,
+EACH county board shall submit summaries of report forms filed with the county board to
+the State Board on or before January 31 each year.
 
-7 (2) The purpose of the anonymous two–way electronic tip program is for a
-8 student, a parent, guardian, or close adult relative of a student, or a school staff member to
-9 report acts of bullying, harassment, or intimidation.
+(2) A county board shall delete any information that identifies an
+individual.
 
-10 (3) Each county board that establishes an anonymous two–way electronic
-11 tip program shall publicize the anonymous two–way electronic tip program in student
-12 handbooks, school system websites, and other locations that the county board determines
-13 are necessary or appropriate.
+(3) (I) A COUNTY BOARD SHALL INCLUDE IN ITS REPORT
+INCIDENTS OF BULLYING, HARASSMENT, OR INTIMIDATION THAT, AFTER A
+THOROUGH AND IMPARTIAL INVESTIGATION, ARE DETERMINED TO HAVE BEEN
+MOTIVATED IN WHOLE OR IN SUBSTANTIAL PART BY ANY ACTUAL PERSONAL CHARACTERISTICS
+DESCRIBED IN SUBSECTION (A)(2)(I)1 OF THIS SECTION OF MEMBERS WITH THOSE
+PERSONAL CHARACTERISTICS.
 
-14 (4) On receipt of a report of an act of bullying, harassment, or intimidation
-15 from an anonymous two–way electronic tip, the recipient of the report or the recipient’s
-16 designee shall:
+(II) ON OR BEFORE JULY 1, 2027, THE DEPARTMENT SHALL
+ESTABLISH STANDARDS FOR THE CONDITIONS DESCRIBED UNDER SUBPARAGRAPH
+(I) OF THIS PARAGRAPH.
 
-17 (i) Complete a victim of bullying, harassment, or intimidation
-18 report form in accordance with subsection (c) of this section; and
+(F) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, ON OR
+BEFORE JANUARY 31 EACH YEAR, EACH COUNTY BOARD SHALL MAKE AVAILABLE ON REQUEST
+INFORMATION ABOUT THE NUMBER OF INCIDENTS OF BULLYING, HARASSMENT, OR
+INTIMIDATION REPORTED TO THE STATE BOARD BY THE COUNTY BOARD UNDER
+SUBSECTION (E) OF THIS SECTION THAT WERE DETERMINED TO BE MOTIVATED BY
+GROUP, DISAGGREGATED BY THE MOTIVATING PERSONAL CHARACTERISTIC
+INFORMATION DESCRIBED UNDER SUBSECTION (E)(3) OF THIS SECTION.
 
-19 (ii) Provide a transcript of the conversation to a designated person
-20 in the school.
-
-21 (5) The Governor may include funding in the State budget to provide
-22 grants to county boards to establish an anonymous two–way electronic tip program.
-
-23 (e) (1) Each county board shall submit summaries of report forms filed with the county board to
-24 the State Board on or before January 31 each year.
-25
-26 (2) A county board shall delete any information that identifies an
-27 individual.
-
-28 (3) A COUNTY BOARD SHALL INCLUDE IN ITS REPORT
-29 INCIDENTS OF BULLYING, HARASSMENT, OR INTIMIDATION THAT, AFTER A
-30 THOROUGH AND IMPARTIAL INVESTIGATION, ARE DETERMINED TO HAVE BEEN
-31 MOTIVATED IN WHOLE OR IN SUBSTANTIAL PART BY ANY ACTUAL PERSONAL
-32 CHARACTERISTICS DESCRIBED IN SUBSECTION (A)(2)(I)1 OF THIS SECTION OF
-33 MEMBERS WITH THOSE PERSONAL CHARACTERISTICS.
+– 4 –
 END OF PAGE 4
 
 START OF PAGE 5
-HOUSE BILL 14 5
+WES MOORE, Governor Ch. 775
 
-1
-2
-3
-4
-5
-6
-7
-8
+(2) A COUNTY BOARD MAY NOT PUBLISH ANY INFORMATION THAT
+COULD BE USED TO IDENTIFY AN INDIVIDUAL STUDENT.
 
-9 (4) ON OR BEFORE JULY 1, 2027, THE DEPARTMENT SHALL
-10 ESTABLISH STANDARDS FOR THE CONDITIONS DESCRIBED UNDER PARAGRAPH
-11 (3) OF THIS SUBSECTION.
+(G) The information contained in a victim of bullying, harassment, or
+intimidation report form in accordance with subsection (c) of this section or received from
+an anonymous two–way electronic tip in accordance with subsection (d) of this section:
 
-12 (F) ON OR BEFORE JANUARY 15 EACH YEAR, EACH COUNTY BOARD SHALL
-13 POST IN A PROMINENT LOCATION ON ITS WEBSITE THE AGGREGATED NUMBER OF
-14 INCIDENTS OF BULLYING, HARASSMENT, OR INTIMIDATION REPORTED UNDER
-15 SUBSECTION (E)(3) OF THIS SECTION, DISAGGREGATED BY THE MOTIVATING
-16 PERSONAL CHARACTERISTIC.
+(1) Is confidential and may not be redisclosed except as otherwise provided
+under the Family Educational Rights and Privacy Act or this section; and
 
-17
-18
-19
-20
-21
-22
+(2) May not be made a part of a student’s permanent educational record.
 
-23 [(f)] (G) The information contained in a victim of bullying, harassment, or
-24 intimidation report form in accordance with subsection (c) of this section or received from
-25 an anonymous two–way electronic tip in accordance with subsection (d) of this section:
+(H) (1) The Department shall submit a report on or before March 31 each
+year to the Senate Education, ENERGY, AND THE ENVIRONMENT Committee and the House Ways and Means Committee, in accordance
+with § 2–1257 of the State Government Article, consisting of a summary of the information
+included in the victim of bullying, harassment, or intimidation report forms filed with the
+county boards the previous year.
 
-26 (1) Is confidential and may not be redisclosed except as otherwise provided
-27 under the Family Educational Rights and Privacy Act or this section; and
+(2) The report submitted by the Department shall include, to the extent
+feasible:
 
-28 (2) May not be made a part of a student’s permanent educational record.
+(i) A description of the act constituting the bullying, harassment, or
+intimidation;
 
-29 [(g)] (H) (1) The Department shall submit a report on or before March 31 each
-30 year to the Senate Education, [Health, and Environmental Affairs] ENERGY, AND THE
-31 ENVIRONMENT Committee and the House Ways and Means Committee, in accordance
-32 with § 2–1257 of the State Government Article, consisting of a summary of the information
-33 included in the victim of bullying, harassment, or intimidation report forms filed with the
-34 county boards the previous year.
+(ii) The age of the victim and alleged perpetrator;
+
+(iii) The allegation of the alleged perpetrator’s motive;
+
+(iv) A description of the investigation of the complaint and any
+corrective action taken by the appropriate school authorities;
+
+(v) The number of days a student is absent from school, if any, as a
+result of the incident; and
+
+(vi) The number of false allegations reported.
+
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+1, 2026.
+
+Approved by the Governor, May 26, 2026.
+
+– 5 –
 END OF PAGE 5
-
-START OF PAGE 6
-6 HOUSE BILL 14
-
-1 (2) The report submitted by the Department shall include, to the extent
-2 feasible:
-
-3 (i) A description of the act constituting the bullying, harassment, or
-4 intimidation;
-
-5 (ii) The age of the victim and alleged perpetrator;
-
-6 (iii) The allegation of the alleged perpetrator’s motive;
-
-7 (iv) A description of the investigation of the complaint and any
-8 corrective action taken by the appropriate school authorities;
-
-9 (v) The number of days a student is absent from school, if any, as a
-10 result of the incident; and
-
-11 (vi) The number of false allegations reported.
-
-12 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
-13 1, 2026.
-
-Approved:
-
-________________________________________________________________________________
-Governor.
-
-________________________________________________________________________________
-Speaker of the House of Delegates.
-
-________________________________________________________________________________
-President of the Senate.
-END OF PAGE 6
-</bill>
 </bill>

@@ -1,356 +1,338 @@
 <bill>
 START OF PAGE 1
-HOUSE BILL 149
+WES MOORE, Governor Ch. 422
 
-E4 (6lr1591)
-ENROLLED BILL
-— Economic Matters/Education, Energy, and the Environment —
-Introduced by Delegate Charkoudian
+Chapter 422
 
-Read and Examined by Proofreaders:
+(House Bill 149)
 
-_______________________________________________
-Proofreader.
-_______________________________________________
-Proofreader.
+AN ACT concerning
 
-Sealed with the Great Seal and presented to the Governor, for his approval this
+Fire Prevention – Assistant Fire Marshals, Residential Rental High–Rise
+Property Fire Safety Equipment, and Fire Alarm System Technicians
 
-_______ day of _______________ at ________________________ o’clock, ________M.
+FOR the purpose of authorizing a county or municipal corporation to designate certain fire
+marshals with the approval of the State Fire Marshal or to request that the State
+Fire Marshal designate certain fire marshals and requiring the State Fire Marshal
+to adopt certain regulations governing the qualifications, training, standards, and
+certification of designees; requiring installation of certain fire prevention in certain
+high–rise residential buildings; requiring the State Fire Prevention Commission to
+adopt certain regulations relating to fire alarm system technicians; and generally
+relating to fire safety.
 
-______________________________________________
-Speaker.
+BY repealing and reenacting, with amendments,
+Article – Public Safety
+Section 6–304, 9–102, 9–901, and 9–902
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
 
-CHAPTER ______
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
 
-1 AN ACT concerning
+Article – Public Safety
 
-2 Fire Prevention – Assistant Fire Marshals, Residential Rental High–Rise
-3 Property Fire Safety Equipment, and Fire Alarm System Technicians
+6–304.
 
-4 FOR the purpose of authorizing a county or municipal corporation to designate certain fire
-5 marshals with the approval of the State Fire Marshal or to request that the State
-6 Fire Marshal designate certain fire marshals and requiring the State Fire Marshal
-7 to adopt certain regulations governing the qualifications, training, standards, and
-8 certification of designees; requiring installation of certain fire prevention in certain
-9 high–rise residential buildings; requiring the State Fire Prevention Commission to
-10 adopt certain regulations relating to fire alarm system technicians; and generally
-11 relating to fire safety.
+(a) (1) A county or municipal corporation of the State may designate WITH
+THE APPROVAL OF THE STATE FIRE MARSHAL, OR MAY REQUEST THAT THE STATE
+FIRE MARSHAL DESIGNATE, a fire marshal or appropriate fire official to serve as
+assistant State fire marshal to carry out this title, including issuing orders, in that county
+or municipal corporation.
 
-12 BY repealing and reenacting, with amendments,
-13 Article – Public Safety
-14 Section 6–304, 9–102, 9–901, and 9–902
+(2) An assistant State fire marshal may not receive compensation from the
+State.
 
-EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law.
-Underlining indicates amendments to bill.
-~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
-amendment.
-Italics indicate opposite chamber/conference committee amendments.*hb0149*
+(3) The State Fire Marshal shall carry out this title in a county or
+municipal corporation that [has not] DOES NOT HAVE A designated [an] assistant State
+fire marshal.
+
+(b) (1) [An assistant State fire marshal shall have at least completed National
+Fire Protection Association (NFPA) Standard 1031 – Fire Inspector I, or the equivalent, as
+
+– 1 –
 END OF PAGE 1
 
 START OF PAGE 2
-2 HOUSE BILL 149
+Ch. 422 2026 LAWS OF MARYLAND
 
-1 Annotated Code of Maryland
-2 (2022 Replacement Volume and 2025 Supplement)
+determined by the State Fire Marshal.] THE STATE FIRE MARSHAL SHALL ADOPT
+REGULATIONS ESTABLISHING REQUIREMENTS FOR ALL INDIVIDUALS DESIGNATED
+AS AN ASSISTANT STATE FIRE MARSHAL OR A SPECIAL ASSISTANT STATE FIRE
+MARSHAL UNDER SUBSECTION (A)(1) OF THIS SECTION, INCLUDING:
 
-3 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-4 That the Laws of Maryland read as follows:
+(I) MINIMUM TRAINING, CERTIFICATION, AND OTHER
+STANDARDS RELATING TO FIRE INSPECTION;
 
-5 Article – Public Safety
+(II) MINIMUM TRAINING, CERTIFICATION, AND OTHER
+STANDARDS FOR FIRE PLAN REVIEW, A FIRE PLAN EXAMINER, OR FIRE PLAN
+ENGINEERING STAFF;
 
-6 6–304.
+(III) MINIMUM TRAINING, CERTIFICATION, AND OTHER
+STANDARDS RELATING TO FIRE INSPECTION INVESTIGATION;
 
-7 (a) (1) A county or municipal corporation of the State may designate WITH
-8 THE APPROVAL OF THE STATE FIRE MARSHAL, OR MAY REQUEST THAT THE STATE
-9 FIRE MARSHAL DESIGNATE, a fire marshal or appropriate fire official to serve as
-10 assistant State fire marshal to carry out this title, including issuing orders, in that county
-11 or municipal corporation.
+(IV) ACCEPTABLE MINIMUM STANDARDS FOR THE ELIGIBILITY
+OF AN INDIVIDUAL TO SERVE AS AN ASSISTANT STATE FIRE MARSHAL OR A SPECIAL
+ASSISTANT STATE FIRE MARSHAL; AND
 
-12 (2) An assistant State fire marshal may not receive compensation from the
-13 State.
+(V) POLICIES FOR APPLICATION FOR, REVIEW OF, EXPIRATION
+OF, RENEWAL OF, AND PROBATIONARY STATUS FOR THE POSITIONS OF ASSISTANT
+STATE FIRE MARSHAL AND SPECIAL ASSISTANT STATE FIRE MARSHAL.
 
-14 (3) The State Fire Marshal shall carry out this title in a county or
-15 municipal corporation that [has not] DOES NOT HAVE A designated [an] assistant State
-16 fire marshal.
+(2) The State Fire Marshal may administer an examination based on
+NFPA [Standard 1031] STANDARDS AS RELEVANT FOR THE REQUIREMENTS LISTED
+IN PARAGRAPH (1) OF THIS SUBSECTION before designating an individual as an
+assistant State fire marshal OR SPECIAL ASSISTANT STATE FIRE MARSHAL.
 
-17 (b) (1) [An assistant State fire marshal shall have at least completed National
-18 Fire Protection Association (NFPA) Standard 1031 – Fire Inspector I, or the equivalent, as
-19 determined by the State Fire Marshal.] THE STATE FIRE MARSHAL SHALL ADOPT
-20 REGULATIONS ESTABLISHING REQUIREMENTS FOR ALL INDIVIDUALS DESIGNATED
-21 AS AN ASSISTANT STATE FIRE MARSHAL OR A SPECIAL ASSISTANT STATE FIRE
-22 MARSHAL UNDER SUBSECTION (A)(1) OF THIS SECTION, INCLUDING:
+(c) (1) The State Fire Marshal may designate as a special assistant State fire
+marshal:
 
-23 (I) MINIMUM TRAINING, CERTIFICATION, AND OTHER
-24 STANDARDS RELATING TO FIRE INSPECTION;
+(i) a law enforcement officer involved in arson investigations;
 
-25 (II) MINIMUM TRAINING, CERTIFICATION, AND OTHER
-26 STANDARDS FOR FIRE PLAN REVIEW, A FIRE PLAN EXAMINER, OR FIRE PLAN
-27 ENGINEERING STAFF;
+(ii) any other suitable individual who meets the standards
+established under this section; or
 
-28 (III) MINIMUM TRAINING, CERTIFICATION, AND OTHER
-29 STANDARDS RELATING TO FIRE INSPECTION INVESTIGATION;
+(iii) on the advice of an assistant State fire marshal, a member of a
+fire department if:
 
-30 (IV) ACCEPTABLE MINIMUM STANDARDS FOR THE ELIGIBILITY
-31 OF AN INDIVIDUAL TO SERVE AS AN ASSISTANT STATE FIRE MARSHAL OR A SPECIAL
-32 ASSISTANT STATE FIRE MARSHAL; AND
+1. the designee is a full–time employee of the fire
+department;
+
+2. the designee performs fire inspections or fire
+investigations for the fire department; and
+
+– 2 –
 END OF PAGE 2
 
 START OF PAGE 3
-HOUSE BILL 149 3
+WES MOORE, Governor Ch. 422
 
-1 (V) POLICIES FOR APPLICATION FOR, REVIEW OF, EXPIRATION
-2 OF, RENEWAL OF, AND PROBATIONARY STATUS FOR THE POSITIONS OF ASSISTANT
-3 STATE FIRE MARSHAL AND SPECIAL ASSISTANT STATE FIRE MARSHAL.
+3. the fire department is organized and operates in the State.
 
-4 (2) The State Fire Marshal may administer an examination based on
-5 NFPA [Standard 1031] STANDARDS AS RELEVANT FOR THE REQUIREMENTS LISTED
-6 IN PARAGRAPH (1) OF THIS SUBSECTION before designating an individual as an
-7 assistant State fire marshal OR SPECIAL ASSISTANT STATE FIRE MARSHAL.
+(2) A special assistant State fire marshal serves at the pleasure of the State
+Fire Marshal.
 
-8 (c) (1) The State Fire Marshal may designate as a special assistant State fire
-9 marshal:
+(3) A special assistant State fire marshal may not receive compensation
+from the State.
 
-10 (i) a law enforcement officer involved in arson investigations;
+(4) Each special assistant State fire marshal shall assist the State Fire
+Marshal in carrying out the duties of the State Fire Marshal under this title.
 
-11 (ii) any other suitable individual who meets the standards
-12 established under this section; or
+(d) The Commission may remove an assistant or special assistant State fire
+marshal for just cause by a majority decision:
 
-13 (iii) on the advice of an assistant State fire marshal, a member of a
-14 fire department if:
+(1) on the recommendation of the State Fire Marshal; and
 
-15 1. the designee is a full–time employee of the fire
-16 department;
+(2) after an administrative hearing.
 
-17 2. the designee performs fire inspections or fire
-18 investigations for the fire department; and
+9–102.
 
-19 3. the fire department is organized and operates in the State.
+(a) (1) In this section, “high–rise building” means a building [for human
+occupancy that is:
 
-20 (2) A special assistant State fire marshal serves at the pleasure of the State
-21 Fire Marshal.
+(i) seven or more stories above grade level; or
 
-22 (3) A special assistant State fire marshal may not receive compensation
-23 from the State.
+(ii) over 75 feet in height] WHERE THE FLOOR OF AN OCCUPIABLE
+STORY IS GREATER THAN 75 FEET ABOVE THE LOWEST LEVEL OF FIRE DEPARTMENT
+VEHICLE ACCESS.
 
-24 (4) Each special assistant State fire marshal shall assist the State Fire
-25 Marshal in carrying out the duties of the State Fire Marshal under this title.
+(2) “High–rise building” does not include:
 
-26 (d) The Commission may remove an assistant or special assistant State fire
-27 marshal for just cause by a majority decision:
+(i) a structure or building used exclusively for open–air parking; or
 
-28 (1) on the recommendation of the State Fire Marshal; and
+(ii) a building used exclusively for agricultural purposes.
 
-29 (2) after an administrative hearing.
+(b) This subtitle applies throughout the State, including Baltimore City.
 
-30 9–102.
+(c) (1) An automatic smoke alarm shall be provided in each sleeping area
+within each residential occupancy, including one– and two–family dwellings, lodging or
+rooming houses, hotels, dormitories, and apartment buildings, as defined in NFPA 101: Life
+Safety Code as adopted by the State Fire Prevention Commission.
+
+(2) (i) Beginning July 31, 2025, smoke detectors shall be installed in
+accordance with location and spacing requirements established by the National Fire
+
+– 3 –
 END OF PAGE 3
 
 START OF PAGE 4
-4 HOUSE BILL 149
+Ch. 422 2026 LAWS OF MARYLAND
 
-1 (a) (1) In this section, “high–rise building” means a building [for human
-2 occupancy that is:
+Protection Association in each interior public corridor in a residential rental high–rise
+building.
 
-3 (i) seven or more stories above grade level; or
+(ii) A county may not require upgrades to fire safety systems not
+specified in subparagraph (i) of this paragraph as a condition of issuing a permit for the
+installation of smoke detectors required under subparagraph (i) of this paragraph.
 
-4 (ii) over 75 feet in height] WHERE THE FLOOR OF AN OCCUPIABLE
-5 STORY IS GREATER THAN 75 FEET ABOVE THE LOWEST LEVEL OF FIRE DEPARTMENT
-6 VEHICLE ACCESS.
+(3) (I) IN THIS PARAGRAPH, “SUBSTANTIAL RENOVATION” MEANS
+PERMANENT ALTERATIONS THAT:
 
-7 (2) “High–rise building” does not include:
+1. ARE INTENDED TO ENHANCE THE VALUE OF A
+BUILDING;
 
-8 (i) a structure or building used exclusively for open–air parking; or
+2. COST AN AMOUNT EQUAL TO OR GREATER THAN 40%
+OF THE VALUE OF THE BUILDING AS ASSESSED BY THE STATE DEPARTMENT OF
+ASSESSMENTS AND TAXATION; AND
 
-9 (ii) a building used exclusively for agricultural purposes.
+3. MEET THE CRITERIA FOR SUBSTANTIAL RENOVATION
+UNDER ANY APPLICABLE LOCAL LAW.
 
-10 (b) This subtitle applies throughout the State, including Baltimore City.
+(II) BEGINNING OCTOBER 1, 2026, AUTOMATIC FIRE
+SPRINKLERS SHALL BE INSTALLED IN ACCORDANCE WITH NFPA LIFE SAFETY
+CODE AND NFPA STANDARDS IN EACH RESIDENTIAL RENTAL HIGH–RISE BUILDING
+THAT IS UNDERGOING A SUBSTANTIAL RENOVATION THAT RECEIVES BUILDING
+PERMITS ON OR AFTER OCTOBER 1, 2026.
 
-11 (c) (1) An automatic smoke alarm shall be provided in each sleeping area
-12 within each residential occupancy, including one– and two–family dwellings, lodging or
-13 rooming houses, hotels, dormitories, and apartment buildings, as defined in NFPA 101: Life
-14 Safety Code as adopted by the State Fire Prevention Commission.
+(III) IN DETERMINING WHETHER A PROPOSED SUBSTANTIAL
+RENOVATION IS INTENDED TO ENHANCE THE VALUE OF A BUILDING EXCLUSIVE OF
+LAND VALUE, A COUNTY MAY CONSIDER BUILDING IMPROVEMENTS COMPLETED
+OVER A 4–YEAR TIME PERIOD FROM THE DATE OF THE INITIAL BUILDING PERMIT.:
 
-15 (2) (i) Beginning July 31, 2025, smoke detectors shall be installed in
-16 accordance with location and spacing requirements established by the National Fire
-17 Protection Association in each interior public corridor in a residential rental high–rise
-18 building.
+1. THE EXISTING PHYSICAL CONDITION OF THE RENTAL
+~~HOUSING;~~
 
-19 (ii) A county may not require upgrades to fire safety systems not
-20 specified in subparagraph (i) of this paragraph as a condition of issuing a permit for the
-21 installation of smoke detectors required under subparagraph (i) of this paragraph.
+2. WHETHER THE EXISTING PHYSICAL CONDITION
+IMPAIRS OR TENDS TO IMPAIR THE HEALTH, SAFETY, AND SECURITY OF ANY
+~~TENANT;~~
 
-22 (3) (I) IN THIS PARAGRAPH, “SUBSTANTIAL RENOVATION” MEANS
-23 1. ARE INTENDED TO ENHANCE THE VALUE OF A
-24 BUILDING;
-25 2. COST AN AMOUNT EQUAL TO OR GREATER THAN 40%
-26 OF THE VALUE OF THE BUILDING AS ASSESSED BY THE STATE DEPARTMENT OF
-27 ASSESSMENTS AND TAXATION; AND
-28 3. MEET THE CRITERIA FOR SUBSTANTIAL RENOVATION
-29 UNDER ANY APPLICABLE LOCAL LAW.
+3. WHETHER THE DEFICIENCIES IN THE EXISTING
+~~PHYSICAL~~ ~~CONDITIONS~~ ~~COULD~~ ~~INSTEAD~~ ~~BE~~ ~~CORRECTED~~ ~~BY~~ ~~IMPROVED~~
+MAINTENANCE OR REPAIR; AND
+
+– 4 –
 END OF PAGE 4
 
 START OF PAGE 5
-HOUSE BILL 149 5
+WES MOORE, Governor Ch. 422
 
-1 (II) BEGINNING OCTOBER 1, 2026, AUTOMATIC FIRE
-2 SPRINKLERS SHALL BE INSTALLED IN ACCORDANCE WITH NFPA LIFE SAFETY
-3 CODE AND NFPA STANDARDS IN EACH RESIDENTIAL RENTAL HIGH–RISE BUILDING
-4 THAT IS UNDERGOING A SUBSTANTIAL RENOVATION THAT RECEIVES BUILDING
-5 PERMITS ON OR AFTER OCTOBER 1, 2026.
+4. WHETHER THE PROPOSED RENOVATIONS ARE
+OPTIONAL OR COSMETIC CHANGES.
 
-6 (III) IN DETERMINING WHETHER A PROPOSED SUBSTANTIAL
-7 RENOVATION IS INTENDED TO ENHANCE THE VALUE OF A BUILDING EXCLUSIVE OF
-8 LAND VALUE, A COUNTY MAY CONSIDER BUILDING IMPROVEMENTS COMPLETED
-9 OVER A 4–YEAR TIME PERIOD FROM THE DATE OF THE INITIAL BUILDING PERMIT.:
+(IV) A SUBSTANTIALLY RENOVATED RESIDENTIAL RENTAL
+HIGH–RISE BUILDING SHALL ALSO HAVE THE FOLLOWING FIRE PROTECTION AND
+LIFE SAFETY FEATURES:
 
-10 1. THE EXISTING PHYSICAL CONDITION OF THE RENTAL
-11 HOUSING;
+1. SMOKE ALARMS OR HEAT DETECTORS IN EVERY
+SLEEPING AREA;
 
-12 2. WHETHER THE EXISTING PHYSICAL CONDITION
-13 IMPAIRS OR TENDS TO IMPAIR THE HEALTH, SAFETY, AND SECURITY OF ANY
-14 TENANT;
+2. STAIRWELLS ENCLOSED WITH AT LEAST 2–HOUR FIRE
+RESISTANCE RATED CONSTRUCTION WITH AT LEAST 90–MINUTE FIRE RESISTANCE
+RELATED RATED, SELF–CLOSING, AND SELF–LATCHING DOORS;
 
-15 3. WHETHER THE DEFICIENCIES IN THE EXISTING
-16 PHYSICAL CONDITIONS COULD INSTEAD BE CORRECTED BY IMPROVED
-17 MAINTENANCE OR REPAIR; AND
+3. AT LEAST 20–MINUTE FIRE RESISTANCE RATED
+CORRIDOR DOORS ~~UNLESS~~ ~~PARTIAL~~ ~~SPRINKLER~~ ~~PROTECTION~~ ~~IS~~ ~~PROVIDED~~ WITH
+APPROPRIATELY RATED CORRIDOR WALLS;
 
-18 4. WHETHER THE PROPOSED RENOVATIONS ARE
-19 OPTIONAL OR COSMETIC CHANGES.
+4. SMOKEPROOF EXIT ENCLOSURES VIA NATURAL
+VENTILATION, MECHANICAL VENTILATION INCORPORATING A VESTIBULE, OR
+PRESSURIZING THE STAIR ENCLOSURE;
 
-20 (IV) A SUBSTANTIALLY RENOVATED RESIDENTIAL RENTAL
-21 HIGH–RISE BUILDING SHALL ALSO HAVE THE FOLLOWING FIRE PROTECTION AND
-22 LIFE SAFETY FEATURES:
+5. AT LEAST TWO SMOKE COMPARTMENTS ON EACH
+FLOOR; AND
 
-23 1. SMOKE ALARMS OR HEAT DETECTORS IN EVERY
-24 SLEEPING AREA;
+6. DECREASED MAXIMUM EXIT ACCESS TRAVEL
+DISTANCES INADEQUATE FIRE PUMPS REPLACED WHEN NECESSARY.
 
-25 2. STAIRWELLS ENCLOSED WITH AT LEAST 2–HOUR FIRE
-26 RESISTANCE RATED CONSTRUCTION WITH AT LEAST 90–MINUTE FIRE RESISTANCE
-27 RELATED RATED, SELF–CLOSING, AND SELF–LATCHING DOORS;
+(d) Smoke alarms shall:
 
-28 3. AT LEAST 20–MINUTE FIRE RESISTANCE RATED
-29 CORRIDOR DOORS UNLESS PARTIAL SPRINKLER PROTECTION IS PROVIDED WITH
-30 APPROPRIATELY RATED CORRIDOR WALLS;
+(1) be installed in accordance with NFPA 72: National Fire Alarm and
+Signaling Code as referenced by the State Fire Prevention Code;
 
-31 4. SMOKEPROOF EXIT ENCLOSURES VIA NATURAL
-32 VENTILATION, MECHANICAL VENTILATION INCORPORATING A VESTIBULE, OR
-33 PRESSURIZING THE STAIR ENCLOSURE;
+(2) be listed and labeled by a nationally recognized testing laboratory to
+comply with Underwriters Laboratories (UL) 217, “Standard for safety for single and
+multiple station smoke alarms”;
+
+(3) be suitable for sensing visible or invisible products of combustion; and
+
+(4) sound an alarm suitable to warn the occupants.
+
+(e) Local jurisdictions may adopt smoke alarm regulations that are more
+stringent than the provisions of this subtitle.
+
+– 5 –
 END OF PAGE 5
 
 START OF PAGE 6
-6 HOUSE BILL 149
+Ch. 422 2026 LAWS OF MARYLAND
 
-1 5. AT LEAST TWO SMOKE COMPARTMENTS ON EACH
-2 FLOOR; AND
+9–901.
 
-3 6. DECREASED MAXIMUM EXIT ACCESS TRAVEL
-4 DISTANCES INADEQUATE FIRE PUMPS REPLACED WHEN NECESSARY.
+(A) In this subtitle[, “fire] THE FOLLOWING WORDS HAVE THE MEANINGS
+INDICATED.
 
-5 (d) Smoke alarms shall:
+(B) “FIRE ALARM SYSTEM TECHNICIAN” MEANS A PERSON WHO IS ENGAGED
+IN THE PERFORMANCE, INSTALLATION, DOCUMENTATION, PLANNING, AND
+COORDINATION OF THE PERIODIC INSPECTION AND TESTING OF EXISTING FIRE
+ALARM SYSTEMS AND THEIR COMPONENTS, NOT INCLUDING THE COMMISSIONING
+OF NEW SYSTEMS.
 
-6 (1) be installed in accordance with NFPA 72: National Fire Alarm and
-7 Signaling Code as referenced by the State Fire Prevention Code;
+(C) “FIRE sprinkler contractor” means a person who designs, installs, inspects,
+tests, repairs, or modifies a fire sprinkler system.
 
-8 (2) be listed and labeled by a nationally recognized testing laboratory to
-9 comply with Underwriters Laboratories (UL) 217, “Standard for safety for single and
-10 multiple station smoke alarms”;
+9–902.
 
-11 (3) be suitable for sensing visible or invisible products of combustion; and
+(a) (1) The State Fire Prevention Commission shall adopt regulations to
+establish a program to license and regulate fire sprinkler contractors in the State.
 
-12 (4) sound an alarm suitable to warn the occupants.
+[(b)] (2) The State Fire Prevention Commission shall adopt regulations to:
 
-13 (e) Local jurisdictions may adopt smoke alarm regulations that are more
-14 stringent than the provisions of this subtitle.
+[(1)] (I) define fire sprinkler contractor;
 
-15 9–901.
+[(2)] (II) define fire sprinkler system[,] in a manner that does not conflict
+with § 12–101(l), (m), or (n) of the Business Occupations and Professions Article;
 
-16 (A) In this subtitle[, “fire] THE FOLLOWING WORDS HAVE THE MEANINGS
-17 INDICATED.
+[(3)] (III) designate and identify exemptions to the regulations;
 
-18 (B) “FIRE ALARM SYSTEM TECHNICIAN” MEANS A PERSON WHO IS ENGAGED
-19 IN THE PERFORMANCE, INSTALLATION, DOCUMENTATION, PLANNING, AND
-20 COORDINATION OF THE PERIODIC INSPECTION AND TESTING OF EXISTING FIRE
-21 ALARM SYSTEMS AND THEIR COMPONENTS, NOT INCLUDING THE COMMISSIONING
-22 OF NEW SYSTEMS.
+[(4)] (IV) establish requirements for licensure including professional and
+technical standards and requirements for liability insurance;
 
-23 (C) “FIRE sprinkler contractor” means a person who designs, installs, inspects,
-24 tests, repairs, or modifies a fire sprinkler system.
+[(5)] (V) establish a schedule of fees for licenses that will recover but not
+exceed the direct and indirect costs associated with the issuance of the licenses; and
 
-25 9–902.
+[(6)] (VI) establish procedures for the State Fire Marshal to deny, suspend,
+or revoke the license of a person who fails to comply with any regulation adopted by the
+State Fire Prevention Commission under this subtitle.
 
-26 (a) (1) The State Fire Prevention Commission shall adopt regulations to
-27 establish a program to license and regulate fire sprinkler contractors in the State.
+(B) (1) THE STATE FIRE PREVENTION COMMISSION SHALL ADOPT
+REGULATIONS TO ESTABLISH A PROGRAM TO LICENSE AND REGULATE FIRE ALARM
+SYSTEM TECHNICIANS AND FIRE ALARM SYSTEM COMPANIES IN THE STATE.
 
-28 [(b)] (2) The State Fire Prevention Commission shall adopt regulations to:
+(2) THE STATE FIRE PREVENTION COMMISSION SHALL ADOPT
+REGULATIONS TO:
 
-29 [(1)] (I) define fire sprinkler contractor;
+– 6 –
 END OF PAGE 6
 
 START OF PAGE 7
-HOUSE BILL 149 7
+WES MOORE, Governor Ch. 422
 
-1 [(2)] (II) define fire sprinkler system[,] in a manner that does not conflict
-2 with § 12–101(l), (m), or (n) of the Business Occupations and Professions Article;
+(I) DEFINE FIRE ALARM SYSTEM TECHNICIAN;
 
-3 [(3)] (III) designate and identify exemptions to the regulations;
+(II) DEFINE FIRE ALARM SYSTEM IN A MANNER THAT DOES NOT
+CONFLICT WITH § 12–101(L), (M), OR (N) OF THE BUSINESS OCCUPATIONS AND
+PROFESSIONS ARTICLE;
 
-4 [(4)] (IV) establish requirements for licensure including professional and
-5 technical standards and requirements for liability insurance;
+(III) DESIGNATE AND IDENTIFY EXEMPTIONS TO THE
+REGULATIONS;
 
-6 [(5)] (V) establish a schedule of fees for licenses that will recover but not
-7 exceed the direct and indirect costs associated with the issuance of the licenses; and
+(IV) ESTABLISH REQUIREMENTS FOR LICENSURE, INCLUDING
+PROFESSIONAL AND TECHNICAL STANDARDS AND REQUIREMENTS FOR LIABILITY
+INSURANCE;
 
-8 [(6)] (VI) establish procedures for the State Fire Marshal to deny, suspend,
-9 or revoke the license of a person who fails to comply with any regulation adopted by the
-10 State Fire Prevention Commission under this subtitle.
+(V) ESTABLISH A SCHEDULE OF FEES FOR LICENSES THAT WILL
+RECOVER BUT NOT EXCEED THE DIRECT AND INDIRECT COSTS ASSOCIATED WITH
+THE ISSUANCE OF THE LICENSES; AND
 
-11 (B) (1) THE STATE FIRE PREVENTION COMMISSION SHALL ADOPT
-12 REGULATIONS TO ESTABLISH A PROGRAM TO LICENSE AND REGULATE FIRE ALARM
-13 SYSTEM TECHNICIANS AND FIRE ALARM SYSTEM COMPANIES IN THE STATE.
+(VI) ESTABLISH PROCEDURES FOR THE STATE FIRE MARSHAL
+TO DENY, SUSPEND, OR REVOKE THE LICENSE OF A PERSON WHO FAILS TO COMPLY
+WITH ANY REGULATION ADOPTED BY THE STATE FIRE PREVENTION COMMISSION
+UNDER THIS SUBTITLE.
 
-14 (2) THE STATE FIRE PREVENTION COMMISSION SHALL ADOPT
-15 REGULATIONS TO:
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+October 1, 2026.
 
-16 (I) DEFINE FIRE ALARM SYSTEM TECHNICIAN;
+Approved by the Governor, May 12, 2026.
 
-17 (II) DEFINE FIRE ALARM SYSTEM IN A MANNER THAT DOES NOT
-18 CONFLICT WITH § 12–101(L), (M), OR (N) OF THE BUSINESS OCCUPATIONS AND
-19 PROFESSIONS ARTICLE;
-
-20 (III) DESIGNATE AND IDENTIFY EXEMPTIONS TO THE
-21 REGULATIONS;
-
-22 (IV) ESTABLISH REQUIREMENTS FOR LICENSURE, INCLUDING
-23 PROFESSIONAL AND TECHNICAL STANDARDS AND REQUIREMENTS FOR LIABILITY
-24 INSURANCE;
-
-25 (V) ESTABLISH A SCHEDULE OF FEES FOR LICENSES THAT WILL
-26 RECOVER BUT NOT EXCEED THE DIRECT AND INDIRECT COSTS ASSOCIATED WITH
-27 THE ISSUANCE OF THE LICENSES; AND
-
-28 (VI) ESTABLISH PROCEDURES FOR THE STATE FIRE MARSHAL
-29 TO DENY, SUSPEND, OR REVOVKE THE LICENSE OF A PERSON WHO FAILS TO COMPLY
-30 WITH ANY REGULATION ADOPTED BY THE STATE FIRE PREVENTION COMMISSION
-31 UNDER THIS SUBTITLE.
+– 7 –
 END OF PAGE 7
-
-START OF PAGE 8
-8 HOUSE BILL 149
-
-1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
-2 October 1, 2026.
-
-Approved:
-
-________________________________________________________________________________
-Governor.
-
-________________________________________________________________________________
-Speaker of the House of Delegates.
-
-________________________________________________________________________________
-President of the Senate.
-END OF PAGE 8
 </bill>

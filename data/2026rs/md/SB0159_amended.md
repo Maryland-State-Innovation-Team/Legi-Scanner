@@ -1,210 +1,115 @@
 <bill>
 START OF PAGE 1
-SENATE BILL 159
+WES MOORE, Governor Ch. 282
 
-J1 (6lr1428)
-ENROLLED BILL
-— Education, Energy, and the Environment/Health —
-Introduced by Senator A. Washington
+Chapter 282
 
-Read and Examined by Proofreaders:
+(Senate Bill 159)
 
-_______________________________________________
-Proofreader.
-_______________________________________________
-Proofreader.
+AN ACT concerning
 
-Sealed with the Great Seal and presented to the Governor, for his approval this
+Emergency Medical Services – Vehicles and Ambulances – Required Supplies
 
-_______ day of _______________ at ________________________ o’clock, ________M.
+FOR the purpose of requiring the Executive Director of the Maryland Institute for
+Emergency Medical Services Systems to coordinate, with a certain program, the
+minimum equipment, supplies, and medications to be available on emergency
+medical services vehicles; and generally relating to emergency medical services vehicles and
+ambulances.
 
-______________________________________________
-President.
+BY repealing and reenacting, without amendments,
+Article – Education
+Section 13–501(a), (f), and (g)
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
 
-CHAPTER ______
+BY repealing and reenacting, with amendments,
+Article – Education
+Section 13–510
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
 
-1 AN ACT concerning
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
 
-2 Emergency Medical Services – Vehicles and Ambulances – Required Supplies
+Article – Education
 
-3 
+13–501.
 
-4 Requiring the Executive Director of the Maryland Institute for
-5 Emergency Medical Services Systems to coordinate, with a certain program, the
-6 minimum equipment, supplies, and medications to be available on emergency
-7 medical services vehicles; and generally relating to emergency medical services
-8 vehicles and ambulances.
+(a) In this subtitle the following words have the meanings indicated.
 
-9 
-
-10 BY repealing and reenacting, without amendments,
-11 Article – Education
-
-EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law.
-Underlining indicates amendments to bill.
-Strike out indicates matter stricken from the bill by amendment or deleted from the law by
-amendment.
-Italics indicate opposite chamber/conference committee amendments.*sb0159*
+(f) “EMS Board” means the State Emergency Medical Services Board.
+– 1 –
 END OF PAGE 1
 
 START OF PAGE 2
-2 SENATE BILL 159
+Ch. 282 2026 LAWS OF MARYLAND
 
-1 Section 13–501(a), (f), and (g)
-2 Annotated Code of Maryland
-3 (2022 Replacement Volume and 2025 Supplement)
+(g) “Institute” means the Maryland Institute for Emergency Medical Services
+Systems.
 
-4 BY repealing and reenacting, with amendments,
-5 Article – Education
-6 Section 13–510
-7 Annotated Code of Maryland
-8 (2022 Replacement Volume and 2025 Supplement)
+13–510.
 
-9 
+In accordance with the Emergency Medical System plan and other relevant policies
+adopted by the EMS Board, the Executive Director shall:
 
-10 
+(1) Coordinate a statewide system of emergency medical services;
 
-11 
+(2) Coordinate the five emergency medical service regions in this State;
 
-12 
+(3) Coordinate the planning and operation of emergency medical services;
 
-13 
+(4) Coordinate the training of all personnel in the Emergency Medical
+Services System and develop the necessary standards for their certification or licensure;
 
-14 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-15 That the Laws of Maryland read as follows:
+(5) Coordinate programs of research and education that relate to
+emergency medical services;
 
-16 Article – Education
+(6) Coordinate the development of centers for treating emergency injuries
+and illnesses;
 
-17 13–501.
+(7) Coordinate the development of specialty referral centers for
+resuscitation, treatment, and rehabilitation of the critically ill and injured;
 
-18 (a) In this subtitle the following words have the meanings indicated.
+(8) COORDINATE, WITH THE JURISDICTIONAL EMERGENCY MEDICAL
+SERVICES OPERATING PROGRAM, PROGRAMS, THE MINIMUM EQUIPMENT,
+SUPPLIES, AND MEDICATIONS, INCLUDING EQUIPMENT, SUPPLIES, AND
+MEDICATIONS NEEDED FOR EARLY CHILDHOOD CARE, INCLUDING NEONATAL CARE,
+TO BE AVAILABLE ON EMERGENCY MEDICAL SERVICES VEHICLES;
 
-19 (f) “EMS Board” means the State Emergency Medical Services Board.
+[(8)] (9) Work closely with the public and private agencies, health care
+institutions and universities involved with emergency medical services, the Emergency
+Medical Services Advisory Council, and the Medical Management Consultant Group;
 
-20 (g) “Institute” means the Maryland Institute for Emergency Medical Services
-21 Systems.
+[(9)] (10) Administer State and federal funds for emergency medical
+services in this State;
 
-22 13–510.
+[(10)] (11) Work closely with the Maryland Fire and Rescue Institute, which
+is responsible for basic training for emergency medical technicians;
 
-23 In accordance with the Emergency Medical System plan and other relevant policies
-24 adopted by the EMS Board, the Executive Director shall:
-
-25 (1) Coordinate a statewide system of emergency medical services;
-
-26 (2) Coordinate the five emergency medical service regions in this State;
-
-27 (3) Coordinate the planning and operation of emergency medical services
-28 with the federal, State, and county governments;
-
-29 (4) Coordinate the training of all personnel in the Emergency Medical
-30 Services System and develop the necessary standards for their certification or licensure;
-
-31 (5) Coordinate programs of research and education that relate to
-32 emergency medical services;
+– 2 –
 END OF PAGE 2
 
 START OF PAGE 3
-SENATE BILL 159 3
+WES MOORE, Governor Ch. 282
 
-1 (6) Coordinate the development of centers for treating emergency injuries
-2 and illnesses;
+[(11)] (12) Assure continued improvement of transportation for emergency,
+critically ill, and injured patients by supporting the goals of career and volunteer systems
+throughout this State; and
 
-3 (7) Coordinate the development of specialty referral centers for
-4 resuscitation, treatment, and rehabilitation of the critically ill and injured;
+[(12)] (13) Implement all programmatic, operational, and administrative
+components of the Institute.
 
-5 (8) COORDINATE, WITH THE JURISDICTIONAL EMERGENCY MEDICAL
-6 SERVICES OPERATING PROGRAM, THE MINIMUM EQUIPMENT,
-7 SUPPLIES, AND MEDICATIONS, INCLUDING EQUIPMENT, SUPPLIES, AND
-8 MEDICATIONS NEEDED FOR EARLY CHILDHOOD CARE, INCLUDING NEONATAL CARE,
-9 TO BE AVAILABLE ON EMERGENCY MEDICAL SERVICES VEHICLES;
-
-10 
-
-11 [(8)] (9) Work closely with the public and private agencies, health care
-12 institutions and universities involved with emergency medical services, the Emergency
-13 Medical Services Advisory Council, and the Medical Management Consultant Group;
-
-14 [(9)] (10) Administer State and federal funds for emergency medical
-15 services in this State;
-
-16 [(10)] (11) Work closely with the Maryland Fire and Rescue Institute, which
-17 is responsible for basic training for emergency medical technicians;
-
-18 [(11)] (12) Assure continued improvement of transportation for emergency,
-19 critically ill, and injured patients by supporting the goals of career and volunteer systems
-20 throughout this State; and
-
-21 [(12)] (13) Implement all programmatic, operational, and administrative
-22 components of the Institute.
-
-23 
-
-24 
-
-25 
-
-26 
-
-27 
-
-28 
-
-29 
-
-30 
-
-31 
+– 3 –
 END OF PAGE 3
 
 START OF PAGE 4
-4 SENATE BILL 159
+Ch. 282 2026 LAWS OF MARYLAND
 
-1 
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+1, 2026.
 
-2 
+Approved by the Governor, April 28, 2026.
 
-3 
-
-4 
-
-5 
-
-6 
-
-7 
-
-8 
-
-9 
-
-10 
-
-11 
-
-12 
-
-13 
-
-14 
-
-15 
-
-16 
-
-17 
-
-18 
-
-19 
-
-20 
-
-21 
-
-22 
-
-23 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
-24 1, 2026.
+– 4 –
 END OF PAGE 4
 </bill>

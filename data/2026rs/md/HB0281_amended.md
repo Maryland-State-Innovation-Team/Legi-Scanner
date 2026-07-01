@@ -1,328 +1,299 @@
 <bill>
 START OF PAGE 1
-HOUSE BILL 281
+WES MOORE, Governor Ch. 266
 
-E4, D4 EMERGENCY BILL (6lr0098)
-ENROLLED BILL
-— Judiciary/Judicial Proceedings —
-Introduced by Chair, Judiciary Committee (By Request – Departmental – Public
-Safety and Correctional Services)
+Chapter 266
 
-Read and Examined by Proofreaders:
+(House Bill 281)
 
-_______________________________________________
-Proofreader.
-_______________________________________________
-Proofreader.
+AN ACT concerning
 
-Sealed with the Great Seal and presented to the Governor, for his approval this
+Family Law – Child Care Providers – Criminal Background Investigations
 
-_______ day of _______________ at ________________________ o’clock, ________M.
+FOR the purpose of altering provisions relating to criminal background investigations for
+certain individuals who care for or supervise children; requiring certain facilities to
+apply to the Criminal Justice Information System Central Repository for a national
+and State criminal history records check for each employee, employer, individual, or
+volunteer; altering provisions relating to the process under which a certain State or
+local law enforcement agency conducts a certain name–based check on certain
+individuals; and generally relating to child care and criminal background
+investigations.
 
-______________________________________________
-Speaker.
+BY repealing and reenacting, with amendments,
+Article – Family Law
+Section 5–551(a) and (b), 5–555, and 5–559
+Annotated Code of Maryland
+(2019 Replacement Volume and 2025 Supplement)
 
-CHAPTER ______
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
 
-1 AN ACT concerning
+Article – Family Law
 
-2 Family Law – Child Care Providers – Criminal Background Investigations
+5–551.
 
-3 FOR the following: altering provisions relating to criminal background investigations for
-4 certain individuals who care for or supervise children; requiring certain facilities to
-5 apply to the Criminal Justice Information System Central Repository for a national
-6 and State criminal history records check for each employee, employer, individual, or
-7 volunteer; altering provisions relating to the process under which a certain State or
-8 local law enforcement agency conducts a certain name–based check on certain
-9 individuals; and generally relating to child care and criminal background
-10 investigations.
+(a) The following facilities shall require employees and employers to obtain a
+criminal history records check under this Part V of this subtitle:
 
-11 BY repealing and reenacting, with amendments,
-12 Article – Family Law
-13 Section 5–551(a) and (b), 5–555, and 5–559
+(1) a child care center required to be licensed under Title 9.5, Subtitle 4 of
+the Education Article;
 
-EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law.
-Underlining indicates amendments to bill.
-~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
-amendment.
-Italics indicate opposite chamber/conference committee amendments.*hb0281*
+(2) a family child care home or large family child care home required to be
+registered under Title 9.5, Subtitle 3 of the Education Article;
+
+(3) a child care home required to be licensed [under this subtitle or] under
+Title 9 of the Human Services Article;
+
+(4) A CHILD CARE INSTITUTION REQUIRED TO BE LICENSED UNDER
+THIS SUBTITLE BY AN ADMINISTRATION OF THE DEPARTMENT;
+
+– 1 –
 END OF PAGE 1
 
 START OF PAGE 2
-2 HOUSE BILL 281
+Ch. 266 2026 LAWS OF MARYLAND
 
-1 Annotated Code of Maryland
-2 (2019 Replacement Volume and 2025 Supplement)
+[(4)] (5) a child care institution required to be licensed [under this
+subtitle or] under Title 9 of the Human Services Article;
 
-3 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-4 That the Laws of Maryland read as follows:
+[(5)] (6) a juvenile detention, correction, or treatment facility provided for
+in Title 9 of the Human Services Article;
 
-5 Article – Family Law
+[(6)] (7) a public school as defined in Title 1 of the Education Article;
 
-6 5–551.
+[(7)] (8) a private or nonpublic school required to report annually to the
+State Board of Education under Title 2 of the Education Article;
 
-7 (a) The following facilities shall require employees and employers to obtain a
-8 criminal history records check under this Part V of this subtitle:
+[(8)] (9) a foster care family home or group facility as defined under this
+subtitle;
 
-9 (1) a child care center required to be licensed under Title 9.5, Subtitle 4 of
-10 the Education Article;
+[(9)] (10) a recreation center or recreation program operated by the State,
+a local government, or a private entity primarily serving minors;
 
-11 (2) a family child care home or large family child care home required to be
-12 registered under Title 9.5, Subtitle 3 of the Education Article;
+[(10)] (11) a day or residential camp, as defined in Title 10, Subtitle 16 of
+the Code of Maryland Regulations, primarily serving minors; or
 
-13 (3) a child care home required to be licensed [under this subtitle or] under
-14 Title 9 of the Human Services Article;
+[(11)] (12) a home health agency or residential service agency licensed by
+the Maryland Department of Health and authorized under Title 19 of the Health – General
+Article to provide home– or community–based health services for minors.
 
-15 (4) A CHILD CARE INSTITUTION REQUIRED TO BE LICENSED UNDER
-16 THIS SUBTITLE BY AN ADMINISTRATION OF THE DEPARTMENT;
+(b) The following individuals shall obtain a criminal history records check under
+this Part V of this subtitle:
 
-17 [(4)] (5) a child care institution required to be licensed [under this
-18 subtitle or] under Title 9 of the Human Services Article;
+(1) an individual who is seeking to adopt a child through a child placement
+agency;
 
-19 [(5)] (6) a juvenile detention, correction, or treatment facility provided for
-20 in Title 9 of the Human Services Article;
+(2) an individual who is seeking to become a guardian through a local
+department;
 
-21 [(6)] (7) a public school as defined in Title 1 of the Education Article;
+(3) an individual whom the juvenile court appoints as a guardian of a child;
 
-22 [(7)] (8) a private or nonpublic school required to report annually to the
-23 State Board of Education under Title 2 of the Education Article;
+(4) an adult relative with whom a child, committed to a local department,
+is placed by the local department;
 
-24 [(8)] (9) a foster care family home or group facility as defined under this
-25 subtitle;
+(5) any adult known by a local department or the State Department of
+Education to be residing in:
 
-26 [(9)] (10) a recreation center or recreation program operated by the State,
-27 a local government, or a private entity primarily serving minors;
+(i) a family child care home or large family child care home required
+to be registered under this title;
 
-28 [(10)] (11) a day or residential camp, as defined in Title 10, Subtitle 16 of
-29 the Code of Maryland Regulations, primarily serving minors; or
+– 2 –
 END OF PAGE 2
 
 START OF PAGE 3
-HOUSE BILL 281 3
+WES MOORE, Governor Ch. 266
 
-1 [(11)] (12) a home health agency or residential service agency licensed by
-2 the Maryland Department of Health and authorized under Title 19 of the Health – General
-3 Article to provide home– or community–based health services for minors.
+(ii) a home where informal child care, as defined in child care subsidy
+regulations adopted under Title 13A of the Code of Maryland Regulations, is being provided
+or will be provided to a child who does not reside there;
 
-4 (b) The following individuals shall obtain a criminal history records check under
-5 this Part V of this subtitle:
+(iii) a home of an adult relative of a child with whom the child,
+committed to a local department, is placed by the local department;
 
-6 (1) an individual who is seeking to adopt a child through a child placement
-7 agency;
+(iv) a foster care home or child care home required to be approved
+under this title;
 
-8 (2) an individual who is seeking to become a guardian through a local
-9 department;
+(v) a home of an individual seeking to adopt a child through a child
+placement agency; or
 
-10 (3) an individual whom the juvenile court appoints as a guardian of a child;
+(vi) a home of an individual seeking to become a guardian through a
+local department;
 
-11 (4) an adult relative with whom a child, committed to a local department,
-12 is placed by the local department;
+(6) an individual who agrees to provide, or to continue providing, informal
+child care, as defined in child care subsidy regulations, adopted under Title 13A of the Code
+of Maryland Regulations; [and]
 
-13 (5) any adult known by a local department or the State Department of
-14 Education to be residing in:
+(7) if requested by a local department:
 
-15 (i) a family child care home or large family child care home required
-16 to be registered under this title;
+(i) a parent or guardian of a child who is committed to the local
+department and is or has been placed in an out–of–home placement within the past year;
+and
 
-17 (ii) a home where informal child care, as defined in child care subsidy
-18 regulations adopted under Title 13A of the Code of Maryland Regulations, is being provided
-19 or will be provided to a child who does not reside there;
+(ii) any adult known by the local department to be residing in the
+home of the parent or guardian; AND
 
-20 (iii) a home of an adult relative of a child with whom the child,
-21 committed to a local department, is placed by the local department;
+(8) AN ADULT OR AN INDIVIDUAL WHO IS NOT A RELATIVE AND WHO
+AGREES TO PROVIDE CARE AS A RESULT OF A SUDDEN UNAVAILABILITY OF THE
+CHILD’S PRIMARY CARETAKER, INCLUDING:
 
-22 (iv) a foster care home or child care home required to be approved
-23 under this title;
+(I) A NEIGHBOR;
 
-24 (v) a home of an individual seeking to adopt a child through a child
-25 placement agency; or
+(II) A FRIEND;
 
-26 (vi) a home of an individual seeking to become a guardian through a
-27 local department;
+(III) AN ACQUAINTANCE;
 
-28 (6) an individual who agrees to provide, or to continue providing, informal
-29 child care, as defined in child care subsidy regulations, adopted under Title 13A of the Code
-30 of Maryland Regulations; [and]
+(IV) A COMMUNITY MEMBER; OR
 
-31 (7) if requested by a local department:
+(V) A COLLEAGUE OR COWORKER OF THE CHILD’S PRIMARY
+CARETAKER.
+
+5–555.
+– 3 –
 END OF PAGE 3
 
 START OF PAGE 4
-4 HOUSE BILL 281
+Ch. 266 2026 LAWS OF MARYLAND
 
-1 (i) a parent or guardian of a child who is committed to the local
-2 department and is or has been placed in an out–of–home placement within the past year;
-3 and
+(a) The Department shall conduct the criminal history records checks required
+under this Part V of this subtitle.
 
-4 (ii) any adult known by the local department to be residing in the
-5 home of the parent or guardian; AND
+(b) (1) The facilities identified in § 5–551(a) of this subtitle shall apply to the
+Central Repository for a national and State criminal history records check for each
+employee, employer, individual, or volunteer.
 
-6 (8) AN ADULT OR AN INDIVIDUAL WHO IS NOT A RELATIVE AND WHO
-7 AGREES TO PROVIDE CARE AS A RESULT OF A SUDDEN UNAVAILABILITY OF THE
-8 CHILD’S PRIMARY CARETAKER, INCLUDING:
+(2) As part of an application for a criminal history records check, a facility
+identified in § 5–551(a) of this subtitle shall submit to the Central Repository:
 
-9 (I) A NEIGHBOR;
+(i) a legible set of the employee’s, employer’s, individual’s, or
+volunteer’s fingerprints taken in a format approved by the Director of the Central
+Repository and the Director of the Federal Bureau of Investigation;
 
-10 (II) A FRIEND;
+(ii) the fee authorized under § 10–221(b)(7) of the Criminal
+Procedure Article for access to State criminal history records; and
 
-11 (III) AN ACQUAINTANCE;
+(iii) the mandatory processing fee required by the Federal Bureau of
+Investigation for a national criminal history records check.
 
-12 (IV) A COMMUNITY MEMBER; OR
+(3) In accordance with §§ 10–201 through 10–229 of the Criminal
+Procedure Article, the Central Repository shall forward the employee’s, employer’s,
+individual’s, or volunteer’s [criminal history record information to]:
 
-13 (V) A COLLEAGUE OR COWORKER OF THE CHILD’S PRIMARY
-14 CARETAKER.
+(i) STATE CRIMINAL HISTORY RECORD INFORMATION TO the
+employee, employer, individual, or volunteer; and
 
-15 5–555.
+(ii) NATIONAL CRIMINAL HISTORY RECORD INFORMATION TO
+the authorized agencies required to license, register, approve, or certify the facility
+identified in § 5–551(a) of this subtitle.
 
-16 (a) The Department shall conduct the criminal history records checks required
-17 under this Part V of this subtitle.
+(c) The Department shall update an initial criminal history records check for an
+employee, employer, or individual identified in § 5–551(b), (c), (d), or (e) of this subtitle and
+issue an updated records check in accordance with this subsection.
 
-18 (b) (1) The facilities identified in § 5–551(a) of this subtitle shall apply to the
-19 Central Repository for a national and State criminal history records check for each
-20 employee, employer, individual, or volunteer.
+(d) The Department shall provide an applicant’s initial and updated State
+criminal history record to:
 
-21 (2) As part of an application for a criminal history records check, a facility
-22 identified in § 5–551(a) of this subtitle shall submit to the Central Repository:
+(1) the recipients of the State criminal history record specified in
+subsection (e) of this section; and
 
-23 (i) a legible set of the employee’s, employer’s, individual’s, or
-24 volunteer’s fingerprints taken in a format approved by the Director of the Central
-25 Repository and the Director of the Federal Bureau of Investigation;
+(2) the State Department of Education if the applicant is:
 
-26 (ii) the fee authorized under § 10–221(b)(7) of the Criminal
-27 Procedure Article for access to State criminal history records; and
-
-28 (iii) the mandatory processing fee required by the Federal Bureau of
-29 Investigation for a national criminal history records check.
+– 4 –
 END OF PAGE 4
 
 START OF PAGE 5
-HOUSE BILL 281 5
+WES MOORE, Governor Ch. 266
 
-1 (3) In accordance with §§ 10–201 through 10–229 of the Criminal
-2 Procedure Article, the Central Repository shall forward the employee’s, employer’s,
-3 individual’s, or volunteer’s [criminal history record information to]:
+(i) an employee of or an adult resident in a child care center that is
+required to be licensed or to hold a letter of compliance under Title 9.5, Subtitle 4 of the
+Education Article;
 
-4 (i) STATE CRIMINAL HISTORY RECORD INFORMATION TO the
-5 employee, employer, individual, or volunteer; and
+(ii) an employee of or an adult resident in a family child care home
+or large family child care home that is required to be registered under Title 9.5, Subtitle 3
+of the Education Article; or
 
-6 (ii) NATIONAL CRIMINAL HISTORY RECORD INFORMATION TO
-7 the authorized agencies required to license, register, approve, or certify the facility
-8 identified in § 5–551(a) of this subtitle.
+(iii) an individual who provides or agrees to provide informal child
+care or an adult who resides in a home where informal child care is being provided or will
+be provided to a child who does not reside there.
 
-9 (c) The Department shall update an initial criminal history records check for an
-10 employee, employer, or individual identified in § 5–551(b), (c), (d), or (e) of this subtitle and
-11 issue an updated records check in accordance with this subsection.
+(e) (1) Except as provided in paragraph (2) of this subsection, on receiving a
+written request from an employee, the Department shall disseminate the national and
+State criminal history records check to authorized agencies if the criminal history records
+check was completed during the prior 180 days.
 
-12 (d) The Department shall provide an applicant’s initial and updated State
-13 criminal history record to:
+(2) On receiving a written request from a student teacher employed under
+§ 6–107 of the Education Article, the Department shall disseminate the national and State
+criminal history records check to authorized agencies if the criminal history records check
+was completed during the prior 365 days.
 
-14 (1) the recipients of the State criminal history record specified in
-15 subsection (e) of this section; and
+(f) Information obtained from the Central Repository under this subtitle:
 
-16 (2) the State Department of Education if the applicant is:
+(1) is confidential;
 
-17 (i) an employee of or an adult resident in a child care center that is
-18 required to be licensed or to hold a letter of compliance under Title 9.5, Subtitle 4 of the
-19 Education Article;
+(2) may not be disseminated; and
 
-20 (ii) an employee of or an adult resident in a family child care home
-21 or large family child care home that is required to be registered under Title 9.5, Subtitle 3
-22 of the Education Article; or
+(3) may be used only for the purposes authorized by this subtitle.
 
-23 (iii) an individual who provides or agrees to provide informal child
-24 care or an adult who resides in a home where informal child care is being provided or will
-25 be provided to a child who does not reside there.
+(g) The subject of a criminal history records check under this subtitle may contest
+the contents of the national and State criminal history records check issued by the Central
+Repository as provided in § 10–223 of the Criminal Procedure Article.
 
-26 (e) (1) Except as provided in paragraph (2) of this subsection, on receiving a
-27 written request from an employee, the Department shall disseminate the national and
-28 State criminal history records check to authorized agencies if the criminal history records
-29 check was completed during the prior 180 days.
+5–559.
 
-30 (2) On receiving a written request from a student teacher employed under
-31 § 6–107 of the Education Article, the Department shall disseminate the national and State
-32 criminal history records check to authorized agencies if the criminal history records check
-33 was completed during the prior 365 days.
+(a) In this section, “emergency out–of–home placement” means an out–of–home
+placement in which a local department places a child in the home of [a private individual,
+including a neighbor, friend, or relative,] AN INDIVIDUAL DESCRIBED IN § 5–551(B) OF
+THIS SUBTITLE as a result of a sudden unavailability of the child’s primary caretaker.
 
-34 (f) Information obtained from the Central Repository under this subtitle:
+(b) (1) [If] IN ADDITION TO THE REQUIREMENTS UNDER § 5–551(B) OF
+THIS SUBTITLE, IF a child is placed in an emergency out–of–home placement, a local
+department may request that a designated State or local law enforcement agency in the
+State [perform] CONDUCT a [federal] NATIONAL name–based check on any individual
+described in [§ 5–551(b)(4), (5)(iii), and (7)(ii)] § 5–551(B) of this subtitle.
+– 5 –
 END OF PAGE 5
 
 START OF PAGE 6
-6 HOUSE BILL 281
+Ch. 266 2026 LAWS OF MARYLAND
 
-1 (1) is confidential;
+(2) The designated STATE OR LOCAL LAW ENFORCEMENT agency
+described in paragraph (1) of this subsection may provide the results of the name–based
+check to the local department.
 
-2 (2) may not be disseminated; and
+(3) Within 15 calendar days after the [local department receives the results
+of] DATE ON WHICH THE STATE OR LOCAL LAW ENFORCEMENT AGENCY CONDUCTS
+CONDUCTS the name–based check, the local department shall submit a complete set of
+fingerprints to the Department for each individual described in paragraph (1) of this
+subsection on whom a name–based check was [performed] CONDUCTED.
 
-3 (3) may be used only for the purposes authorized by this subtitle.
+(4) [Within 15 calendar days after the name–based check] ON RECEIPT
+OF THE COMPLETE SET OF FINGERPRINTS DESCRIBED IN PARAGRAPH (3) OF THIS
+SUBSECTION, the Department shall perform a NATIONAL criminal history records check,
+in accordance with § 5–555 of this subtitle.
 
-4 (g) The subject of a criminal history records check under this subtitle may contest
-5 the contents of the national and State criminal history records check issued by the Central
-6 Repository as provided in § 10–223 of the Criminal Procedure Article.
+(c) A child shall be removed immediately from an emergency out–of–home
+placement if any individual required to submit to a name–based check refuses to submit
+the follow–up fingerprints.
 
-7 5–559.
+(d) When the placement of a child in a home is denied as a result of a name–based
+criminal history records check of an individual and the individual contests that denial, the
+individual shall submit to the local department:
 
-8 (a) In this section, “emergency out–of–home placement” means an out–of–home
-9 placement in which a local department places a child in the home of [a private individual,
-10 including a neighbor, friend, or relative,] AN INDIVIDUAL DESCRIBED IN § 5–551(B) OF
-11 THIS SUBTITLE as a result of a sudden unavailability of the child’s primary caretaker.
+(1) a complete set of fingerprints; and
 
-12 (b) (1) [If] IN ADDITION TO THE REQUIREMENTS UNDER § 5–551(B) OF
-13 THIS SUBTITLE, IF a child is placed in an emergency out–of–home placement, a local
-14 department may request that a designated State or local law enforcement agency in the
-15 State [perform] CONDUCT a [federal] NATIONAL name–based check on any individual
-16 described in [§ 5–551(b)(4), (5)(iii), and (7)(ii)] § 5–551(B) of this subtitle.
+(2) written permission allowing the local department to forward the
+fingerprints to the Department for submission to the Federal Bureau of Investigation.
 
-17 (2) The designated STATE OR LOCAL LAW ENFORCEMENT agency
-18 described in paragraph (1) of this subsection may provide the results of the name–based
-19 check to the local department.
+(e) An individual who is required to submit to a criminal history records check
+under this section shall pay the fees required under § 5–551(g) of this subtitle.
 
-20 (3) Within 15 calendar days after the [local department receives the results
-21 of] DATE ON WHICH THE STATE OR LOCAL LAW ENFORCEMENT AGENCY CONDUCTS
-22 CONDUCTS the name–based check, the local department shall submit a complete set of
-23 fingerprints to the Department for each individual described in paragraph (1) of this
-24 subsection on whom a name–based check was [performed] CONDUCTED.
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act is an emergency
+measure, is necessary for the immediate preservation of the public health or safety, has
+been passed by a yea and nay vote supported by three–fifths of all the members elected to
+each of the two Houses of the General Assembly, and shall take effect from the date it is
+enacted.
 
-25 (4) [Within 15 calendar days after the name–based check] ON RECEIPT
-26 OF THE COMPLETE SET OF FINGERPRINTS DESCRIBED IN PARAGRAPH (3) OF THIS
-27 SUBSECTION, the Department shall perform a NATIONAL criminal history records check,
-28 in accordance with § 5–555 of this subtitle.
+Approved by the Governor, April 28, 2026.
 
-29 (c) A child shall be removed immediately from an emergency out–of–home
-30 placement if any individual required to submit to a name–based check refuses to submit
-31 the follow–up fingerprints.
+– 6 –
 END OF PAGE 6
-
-START OF PAGE 7
-HOUSE BILL 281 7
-
-1 (d) When the placement of a child in a home is denied as a result of a name–based
-2 criminal history records check of an individual and the individual contests that denial, the
-3 individual shall submit to the local department:
-
-4 (1) a complete set of fingerprints; and
-
-5 (2) written permission allowing the local department to forward the
-6 fingerprints to the Department for submission to the Federal Bureau of Investigation.
-
-7 (e) An individual who is required to submit to a criminal history records check
-8 under this section shall pay the fees required under § 5–551(g) of this subtitle.
-
-9 SECTION 2. AND BE IT FURTHER ENACTED, That this Act is an emergency
-10 measure, is necessary for the immediate preservation of the public health or safety, has
-11 been passed by a yea and nay vote supported by three–fifths of all the members elected to
-12 each of the two Houses of the General Assembly, and shall take effect from the date it is
-13 enacted.
-
-Approved:
-
-________________________________________________________________________________
-Governor.
-
-________________________________________________________________________________
-Speaker of the House of Delegates.
-
-________________________________________________________________________________
-President of the Senate.
-END OF PAGE 7
 </bill>

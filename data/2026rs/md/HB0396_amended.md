@@ -1,326 +1,297 @@
 <bill>
 START OF PAGE 1
-HOUSE BILL 396
+WES MOORE, Governor Ch. 640
 
-O4 (6lr1324)
-ENROLLED BILL
-— Ways and Means/Education, Energy, and the Environment —
-Introduced by Delegates Pasteur, Acevero, Addison, Alston, Amprey, Boyce,
-Conaway, Crutchfield, Ebersole, Embry, Forbes, Hill, Holmes, Lewis,
-J. Long, Martinez, McCaskill, Mireku–North, Patterson, Phillips, Pruski,
-Ruff, Schmidt, Simmons, Stein, Stinnett, Taveras, Toles, White Holland,
-Williams, Wilson, Wims, and Young
+Chapter 640
 
-Read and Examined by Proofreaders:
+(House Bill 396)
 
-_______________________________________________
-Proofreader.
-_______________________________________________
-Proofreader.
+AN ACT concerning
 
-Sealed with the Great Seal and presented to the Governor, for his approval this
+Residential Child Care Programs – Education of Children and Training of Child
+and Youth Care Practitioners
 
-_______ day of _______________ at ________________________ o’clock, ________M.
+FOR the purpose of repealing the maximum age for children in certain residential child
+care programs who receive educational support; requiring operators of certain
+residential child care programs to provide certain educational opportunities to the
+children for whom they have legal custody or care and control; requiring that
+applicants to be child and youth care practitioners undergo certain training;
+prohibiting an individual who holds a certificate as a residential child and youth care
+practitioner from being required to complete certain training under certain
+circumstances; and generally relating to residential child care programs.
 
-______________________________________________
-Speaker.
+BY repealing and reenacting, with amendments,
+Article – Education
+Section 7–309
+Annotated Code of Maryland
+(2025 Replacement Volume and 2025 Supplement)
 
-CHAPTER ______
+BY repealing and reenacting, with amendments,
+Article – Health Occupations
+Section 20–302.1
+Annotated Code of Maryland
+(2021 Replacement Volume and 2025 Supplement)
 
-1 AN ACT concerning
+BY repealing and reenacting, without amendments,
+Article – Human Services
+Section 8–704(8), (10), and (11)
+Annotated Code of Maryland
+(2019 Replacement Volume and 2025 Supplement)
 
-2 Residential Child Care Programs – Education of Children and Training of Child
-3 and Youth Care Practitioners
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
 
-4 FOR the purpose of repealing the maximum age for children in certain residential child
-5 care programs who receive educational support; requiring operators of certain
-6 residential child care programs to provide certain educational opportunities to the
-7 children for whom they have legal custody or care and control; requiring that
-8 applicants to be child and youth care practitioners undergo certain training;
-9 prohibiting an individual who holds a certificate as a residential child and youth care
-10 practitioner from being required to complete certain training under certain
-11 circumstances; and generally relating to residential child care programs.
+Article – Education
 
-EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law.
-Underlining indicates amendments to bill.
-~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
-amendment.
-Italics indicate opposite chamber/conference committee amendments.*hb0396*
+7–309.
+
+(a) (1) In this section, “residential child care program” means a program that:
+
+– 1 –
 END OF PAGE 1
 
 START OF PAGE 2
-2 HOUSE BILL 396
+Ch. 640 2026 LAWS OF MARYLAND
 
-1 BY repealing and reenacting, with amendments,
-2 Article – Education
-3 Section 7–309
-4 Annotated Code of Maryland
-5 (2025 Replacement Volume and 2025 Supplement)
+(i) Provides care for children 24 hours a day within a structured set
+of services and activities designed to achieve objectives related to the needs of the children
+served; and
 
-6 BY repealing and reenacting, with amendments,
-7 Article – Health Occupations
-8 Section 20–302.1
-9 Annotated Code of Maryland
-10 (2021 Replacement Volume and 2025 Supplement)
+(ii) Is licensed by the Maryland Department of Health, the
+Department of Human Services, or the Department of Juvenile Services.
 
-11 BY repealing and reenacting, without amendments,
-12 Article – Human Services
-13 Section 8–704(8), (10), and (11)
-14 Annotated Code of Maryland
-15 (2019 Replacement Volume and 2025 Supplement)
+(2) A “residential child care program” includes:
 
-16 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-17 That the Laws of Maryland read as follows:
+(i) Group homes;
 
-18 Article – Education
+(ii) Alternative living units; and
 
-19 7–309.
+(iii) Emergency shelter care.
 
-20 (a) (1) In this section, “residential child care program” means a program that:
+(b) Each licensed operator of a residential child care program who has legal
+custody or care and control of a child who is at least 5 years old ~~and~~ ~~under~~ ~~the~~ ~~age~~ ~~of~~ ~~16~~
+~~years~~ and receives State funding as provided in § 5–526 of the Family Law Article:
 
-21 (i) Provides care for children 24 hours a day within a structured set
-22 of services and activities designed to achieve objectives related to the needs of the children
-23 served; and
+(1) Shall ~~enroll~~ ~~the~~ ~~child~~ ~~in~~ ~~the~~ ~~local~~ ~~school~~ ~~system~~ ~~where~~ ~~the~~ ~~residential~~
+~~child~~ ~~care~~ ~~program~~ ~~is~~ ~~located~~ ~~unless~~ ~~the~~ ~~residential~~ ~~child~~ ~~care~~ ~~program~~ ~~operates~~ ~~an~~
+~~approved~~ ~~educational~~ ~~program~~ ~~in~~ ~~accordance~~ ~~with~~ ~~the~~ ~~licensing~~ ~~regulations~~ ~~that~~ ~~govern~~ ~~the~~
+residential child care program ENSURE THE CHILD REMAINS ENROLLED IN THE
+SCHOOL IN WHICH THE CHILD WAS PREVIOUSLY ENROLLED, UNLESS A
+DETERMINATION IS MADE BY A LOCAL DEPARTMENT OF SOCIAL SERVICES THAT
+REMAINING ENROLLED IS NOT IN THE CHILD’S BEST INTEREST, THEN:
 
-24 (ii) Is licensed by the Maryland Department of Health, the
-25 Department of Human Services, or the Department of Juvenile Services.
+(I) THE CHILD SHALL BE ENROLLED IN THE LOCAL SCHOOL
+SYSTEM WHERE THE RESIDENTIAL CHILD CARE PROGRAM IS LOCATED; OR
 
-26 (2) A “residential child care program” includes:
+(II) IF THE RESIDENTIAL CHILD CARE PROGRAM OPERATES AN
+APPROVED EDUCATIONAL PROGRAM IN ACCORDANCE WITH THE LICENSING
+REGULATIONS THAT GOVERN RESIDENTIAL CHILD CARE PROGRAMS, THE CHILD
+SHALL BE ENROLLED IN THAT PROGRAM;
 
-27 (i) Group homes;
+(2) ~~Shall~~ ~~expeditiously~~ ~~initiate~~ ~~and~~ ~~monitor~~ ~~the~~ ~~transfer~~ ~~of~~ ~~the~~ ~~academic~~
+records of a child in the operator’s care from the transferring school to [insure] ENSURE
+~~that~~ ~~the~~ ~~academic~~ ~~records~~ ~~are~~ ~~transferred~~ ~~to~~ ~~the~~ ~~school~~ ~~that~~ ~~the~~ ~~child~~ ~~will~~ ~~be~~ ~~attending~~
+~~while~~ ~~living~~ ~~in~~ ~~the~~ ~~operator’s~~ ~~care;~~
 
-28 (ii) Alternative living units; and
+(3) (i) May request a meeting with the child’s teachers; [and]
 
-29 (iii) Emergency shelter care.
+(ii) Shall meet the child’s teachers at the time of enrollment and at
+any other time the school or a teacher requests TO DETERMINE THE BEST WAYS TO
+SUPPORT THE CHILD; and
 
-30 (b) Each licensed operator of a residential child care program who has legal
-31 custody or care and control of a child who is at least 5 years old ~~and~~ ~~under~~ ~~the~~ ~~age~~ ~~of~~ ~~16~~
-32 ~~years~~ and receives State funding as provided in § 5–526 of the Family Law Article:
+– 2 –
 END OF PAGE 2
 
 START OF PAGE 3
-HOUSE BILL 396 3
+WES MOORE, Governor Ch. 640
 
-1 (1) Shall ~~enroll~~ ~~the~~ ~~child~~ ~~in~~ ~~the~~ ~~local~~ ~~school~~ ~~system~~ ~~where~~ ~~the~~ ~~residential~~
-2 ~~child~~ ~~care~~ ~~program~~ ~~is~~ ~~located~~ ~~unless~~ ~~the~~ ~~residential~~ ~~child~~ ~~care~~ ~~program~~ ~~operates~~ ~~an~~
-3 ~~approved~~ ~~educational~~ ~~program~~ ~~in~~ ~~accordance~~ ~~with~~ ~~the~~ ~~licensing~~ ~~regulations~~ ~~that~~ ~~govern~~ ~~the~~
-4 residential child care program ENSURE THE CHILD REMAINS ENROLLED IN THE
-5 SCHOOL IN WHICH THE CHILD WAS PREVIOUSLY ENROLLED, UNLESS A
-6 DETERMINATION IS MADE BY A LOCAL DEPARTMENT OF SOCIAL SERVICES THAT
-7 REMAINING ENROLLED IS NOT IN THE CHILD’S BEST INTEREST, THEN:
+(III) SHALL CONTACT THE CHILD’S TEACHER WITH ANY
+QUESTIONS ABOUT SCHOOL ASSIGNMENTS, THE CHILD’S BEHAVIOR AT SCHOOL, AND
+EXTRACURRICULAR OPPORTUNITIES TO SUPPORT THE CHILD;
 
-8 (I) THE CHILD SHALL BE ENROLLED IN THE LOCAL SCHOOL
-9 SYSTEM WHERE THE RESIDENTIAL CHILD CARE PROGRAM IS LOCATED; OR
+(4) (3) Shall sign the child’s report card, [insure] ENSURE that the
+report card is returned to school, and include a copy of the report card in the child’s case
+record; AND
 
-10 (II) IF THE RESIDENTIAL CHILD CARE PROGRAM OPERATES AN
-11 APPROVED EDUCATIONAL PROGRAM IN ACCORDANCE WITH THE LICENSING
-12 REGULATIONS THAT GOVERN RESIDENTIAL CHILD CARE PROGRAMS, THE CHILD
-13 SHALL BE ENROLLED IN THAT PROGRAM;
+(5) (4) SHALL ENSURE THAT THE CHILD IS PROVIDED:
 
-14 (2) ~~Shall~~ ~~expeditiously~~ ~~initiate~~ ~~and~~ ~~monitor~~ ~~the~~ ~~transfer~~ ~~of~~ ~~the~~ ~~academic~~
-15 records of a child in the operator’s care from the transferring school to [insure] ENSURE
-16 ~~that~~ ~~the~~ ~~academic~~ ~~records~~ ~~are~~ ~~transferred~~ ~~to~~ ~~the~~ ~~school~~ ~~that~~ ~~the~~ ~~child~~ ~~will~~ ~~be~~ ~~attending~~
-17 ~~while~~ ~~living~~ ~~in~~ ~~the~~ ~~operator’s~~ ~~care;~~
+(I) REGULARLY SCHEDULED TIME TO STUDY TO SUPPORT THE
+CHILD’S ACADEMIC WORK;
 
-18 (3) (i) May request a meeting with the child’s teachers; [and]
+(II) ASSISTANCE WITH HOMEWORK ASSIGNMENTS, PROJECTS,
+SKILLS PRACTICE, AND TEST PREPARATION IN ORDER TO REINFORCE EDUCATIONAL
+CONCEPTS TAUGHT TO THE CHILD;
 
-19 (ii) Shall meet the child’s teachers at the time of enrollment and at
-20 any other time the school or a teacher requests TO DETERMINE THE BEST WAYS TO
-21 SUPPORT THE CHILD; and
+(III) ENCOURAGEMENT AND SUPPORT FOR PARTICIPATION IN
+EXTRACURRICULAR ACTIVITIES;
 
-22 (III) SHALL CONTACT THE CHILD’S TEACHER WITH ANY
-23 QUESTIONS ABOUT SCHOOL ASSIGNMENTS, THE CHILD’S BEHAVIOR AT SCHOOL, AND
-24 EXTRACURRICULAR OPPORTUNITIES TO SUPPORT THE CHILD;
+(IV) FOR A CHILD WITH AN INDIVIDUALIZED EDUCATION
+PROGRAM UNDER THE FEDERAL INDIVIDUALS WITH DISABILITIES EDUCATION ACT
+OR A 504 PLAN UNDER § 504 OF THE FEDERAL REHABILITATION ACT OF 1973,
+APPLICABLE EDUCATIONAL GOALS TO COMPLETE WITHIN THE RESIDENTIAL CHILD
+CARE PROGRAM THAT ARE CONSISTENT WITH THE CHILD’S PROGRAM OR PLAN;
 
-25 (4) (3) Shall sign the child’s report card, [insure] ENSURE that the
-26 report card is returned to school, and include a copy of the report card in the child’s case
-27 record; AND
+(V) FOR A CHILD WITH A BEHAVIORAL INTERVENTION PLAN
+UNDER SUBTITLE 11 OF THIS TITLE, BEHAVIORAL SUPPORTS AND GOALS THAT
+REINFORCE THE GOALS OF THE CHILD’S PLAN IN THE SCHOOL SETTING; AND
 
-28 (5) (4) SHALL ENSURE THAT THE CHILD IS PROVIDED:
+(VI) FOR CHILDREN DUALLY ENROLLED IN A HIGH SCHOOL AND
+OR AN INSTITUTION OF HIGHER EDUCATION, ACCESS TO A COMPUTER IN ORDER TO
+COMPLETE ASSIGNMENTS THAT REQUIRE COMPUTER SOFTWARE OR THE INTERNET.
 
-29 (I) REGULARLY SCHEDULED TIME TO STUDY TO SUPPORT THE
-30 CHILD’S ACADEMIC WORK;
+Article – Health Occupations
 
-31 (II) ASSISTANCE WITH HOMEWORK ASSIGNMENTS, PROJECTS,
-32 SKILLS PRACTICE, AND TEST PREPARATION IN ORDER TO REINFORCE EDUCATIONAL
-33 CONCEPTS TAUGHT TO THE CHILD;
+20–302.1.
+
+(a) To qualify for a certificate as a residential child and youth care practitioner,
+an applicant shall be an individual who meets the requirements of this section.
+
+(b) The applicant shall be of good moral character.
+
+– 3 –
 END OF PAGE 3
 
 START OF PAGE 4
-4 HOUSE BILL 396
+Ch. 640 2026 LAWS OF MARYLAND
 
-1 (III) ENCOURAGEMENT AND SUPPORT FOR PARTICIPATION IN
-2 EXTRACURRICULAR ACTIVITIES;
+(c) The applicant shall have completed:
 
-3 (IV) FOR A CHILD WITH AN INDIVIDUALIZED EDUCATION
-4 PROGRAM UNDER THE FEDERAL INDIVIDUALS WITH DISABILITIES EDUCATION ACT
-5 OR A 504 PLAN UNDER § 504 OF THE FEDERAL REHABILITATION ACT OF 1973,
-6 APPLICABLE EDUCATIONAL GOALS TO COMPLETE WITHIN THE RESIDENTIAL CHILD
-7 CARE PROGRAM THAT ARE CONSISTENT WITH THE CHILD’S PROGRAM OR PLAN;
+(1) A State and national criminal history records check; and
 
-8 (V) FOR A CHILD WITH A BEHAVIORAL INTERVENTION PLAN
-9 UNDER SUBTITLE 11 OF THIS TITLE, BEHAVIORAL SUPPORTS AND GOALS THAT
-10 REINFORCE THE GOALS OF THE CHILD’S PLAN IN THE SCHOOL SETTING; AND
+(2) Unless waived by the Board under § 20–303(d) of this subtitle, a child
+protective services background clearance.
 
-11 (VI) FOR CHILDREN DUALLY ENROLLED IN A HIGH SCHOOL AND
-12 OR AN INSTITUTION OF HIGHER EDUCATION, ACCESS TO A COMPUTER IN ORDER TO
-13 COMPLETE ASSIGNMENTS THAT REQUIRE COMPUTER SOFTWARE OR THE INTERNET.
+(d) The applicant shall be:
 
-14 Article – Health Occupations
+(1) At least 21 years old; or
 
-15 20–302.1.
+(2) At least 18 years old and have earned at least an associate’s or
+bachelor’s degree from an accredited college or university.
 
-16 (a) To qualify for a certificate as a residential child and youth care practitioner,
-17 an applicant shall be an individual who meets the requirements of this section.
+(e) The applicant shall have:
 
-18 (b) The applicant shall be of good moral character.
+(1) A high school diploma or equivalent and have successfully completed
+an approved training program; and
 
-19 (c) The applicant shall have completed:
+(2) (i) At least 2 years’ experience in the human service field; or
 
-20 (1) A State and national criminal history records check; and
+(ii) An associate’s or bachelor’s degree from an accredited college or
+university.
 
-21 (2) Unless waived by the Board under § 20–303(d) of this subtitle, a child
-22 protective services background clearance.
+(f) (1) (I) Except as provided in paragraph (2) of this subsection, the
+applicant shall have successfully completed a training program approved by the Board.
 
-23 (d) The applicant shall be:
+(II) THE BOARD’S PROGRAM SHALL INCLUDE TRAINING ON:
 
-24 (1) At least 21 years old; or
+1. THE ROLE OF THE RESIDENTIAL CHILD AND YOUTH
+CARE PRACTITIONER;
 
-25 (2) At least 18 years old and have earned at least an associate’s or
-26 bachelor’s degree from an accredited college or university.
+2. CHILD DEVELOPMENT;
 
-27 (e) The applicant shall have:
+3. CHILDREN WITH SPECIAL NEEDS DISABILITIES;
 
-28 (1) A high school diploma or equivalent and have successfully completed
-29 an approved training program; and
+4. RECOGNIZING DIFFERENCES IN PROCESSING
+INFORMATION AND THE DIVERSE WAYS CHILDREN LEARN;
+
+5. RECOGNIZING BEHAVIORS THAT IMPACT A CHILD’S
+ABILITY TO LEARN AND PRACTICE SOCIAL NORMS;
+
+6. CHILD ABUSE AND NEGLECT IDENTIFICATION AND
+REPORTING;
+
+– 4 –
 END OF PAGE 4
 
 START OF PAGE 5
-HOUSE BILL 396 5
+WES MOORE, Governor Ch. 640
 
-1 (2) (i) At least 2 years’ experience in the human service field; or
+7. SUICIDE RISK ASSESSMENT AND PREVENTION;
 
-2 (ii) An associate’s or bachelor’s degree from an accredited college or
-3 university.
+8. APPROVED FORMS OF DISCIPLINE AND BEHAVIORAL
+MANAGEMENT TECHNIQUES, INCLUDING THE USE OF BEHAVIORAL INTERVENTION
+PLANS UNDER TITLE 7, SUBTITLE 11 OF THE EDUCATION ARTICLE;
 
-4 (f) (1) (I) Except as provided in paragraph (2) of this subsection, the
-5 applicant shall have successfully completed a training program approved by the Board.
+9. COMMUNICATION SKILLS;
 
-6 (II) THE BOARD’S PROGRAM SHALL INCLUDE TRAINING ON:
+10. PARENTING ISSUES, COLLABORATION WITH
+FAMILIES, AND THE SUPPORT OF CHILDREN;
 
-7 1. THE ROLE OF THE RESIDENTIAL CHILD AND YOUTH
-8 CARE PRACTITIONER;
+11. THE PSYCHOSOCIAL AND EMOTIONAL NEEDS OF
+CHILDREN, FAMILIAL RELATIONSHIPS, AND THE IMPACT OF SEPARATION;
 
-9 2. CHILD DEVELOPMENT;
+12. EMERGENCY PREPAREDNESS AND SAFETY
+PRACTICES;
 
-10 3. CHILDREN WITH SPECIAL NEEDS DISABILITIES;
+13. ANNUAL FIRST AID TRAINING, INCLUDING
+CERTIFICATION IN CARDIOPULMONARY RESUSCITATION;
 
-11 4. RECOGNIZING DIFFERENCES IN PROCESSING
-12 INFORMATION AND THE DIVERSE WAYS CHILDREN LEARN;
+14. MEDICATION MANAGEMENT;
 
-13 5. RECOGNIZING BEHAVIORS THAT IMPACT A CHILD’S
-14 ABILITY TO LEARN AND PRACTICE SOCIAL NORMS;
+15. INFECTION CONTROL; AND
 
-15 6. CHILD ABUSE AND NEGLECT IDENTIFICATION AND
-16 REPORTING;
+16. IF APPLICABLE, FOOD PREPARATION AND
+NUTRITION.
 
-17 7. SUICIDE RISK ASSESSMENT AND PREVENTION;
+(2) (i) An applicant who has an associate’s or bachelor’s degree from an
+accredited college or university may be waived from the training program requirement, if
+the applicant passes an examination and meets other requirements established by the
+Board under this subtitle.
 
-18 8. APPROVED FORMS OF DISCIPLINE AND BEHAVIORAL
-19 MANAGEMENT TECHNIQUES, INCLUDING THE USE OF BEHAVIORAL INTERVENTION
-20 PLANS UNDER TITLE 7, SUBTITLE 11 OF THE EDUCATION ARTICLE;
+(ii) The Board shall establish requirements and procedures for
+waiving the training program requirement for an applicant under subparagraph (i) of this
+paragraph.
 
-21 9. COMMUNICATION SKILLS;
+(g) The applicant shall pass an examination given by the Board under this
+subtitle.
 
-22 10. PARENTING ISSUES, COLLABORATION WITH
-23 FAMILIES, AND THE SUPPORT OF CHILDREN;
+(h) The Board shall waive the education, experience, training, and examination
+requirements of this section for an applicant who:
 
-24 11. THE PSYCHOSOCIAL AND EMOTIONAL NEEDS OF
-25 CHILDREN, FAMILIAL RELATIONSHIPS, AND THE IMPACT OF SEPARATION;
+(1) Applies for certification on or before October 1, 2015; and
 
-26 12. EMERGENCY PREPAREDNESS AND SAFETY
-27 PRACTICES;
+– 5 –
 END OF PAGE 5
 
 START OF PAGE 6
-6 HOUSE BILL 396
+Ch. 640 2026 LAWS OF MARYLAND
 
-1 13. ANNUAL FIRST AID TRAINING, INCLUDING
-2 CERTIFICATION IN CARDIOPULMONARY RESUSCITATION;
+(2) Presents to the Board satisfactory evidence that the applicant worked
+as a residential child and youth care practitioner in the State for at least 2 years before
+October 1, 2015.
 
-3 14. MEDICATION MANAGEMENT;
+Article – Human Services
 
-4 15. INFECTION CONTROL; AND
+8–704.
 
-5 16. IF APPLICABLE, FOOD PREPARATION AND
-6 NUTRITION.
+A contract awarded or renewed between an agency and a provider for a residential
+child care program shall:
 
-7 (2) (i) An applicant who has an associate’s or bachelor’s degree from an
-8 accredited college or university may be waived from the training program requirement, if
-9 the applicant passes an examination and meets other requirements established by the
-10 Board under this subtitle.
+(8) require the provider to comply with § 7–309 of the Education Article;
 
-11 (ii) The Board shall establish requirements and procedures for
-12 waiving the training program requirement for an applicant under subparagraph (i) of this
-13 paragraph.
+(10) require the residential child care program to have certified residential
+child and youth care practitioners, as required under § 20–301 of the Health Occupations
+Article; and
 
-14 (g) The applicant shall pass an examination given by the Board under this
-15 subtitle.
+(11) require the residential child care program to have a certified program
+administrator as required under § 20–301 of the Health Occupations Article.
 
-16 (h) The Board shall waive the education, experience, training, and examination
-17 requirements of this section for an applicant who:
+SECTION 2. AND BE IT FURTHER ENACTED, That an individual who holds a
+certificate as a residential child and youth care practitioner on ~~July~~ ~~1,~~ ~~2026~~ January 1, 2027, may not be
+required to complete:
 
-18 (1) Applies for certification on or before October 1, 2015; and
+(1) any program of training required by § 20–302.1 of the Health
+Occupations Article, as enacted by Section 1 of this Act, that the individual has already
+completed; and
 
-19 (2) Presents to the Board satisfactory evidence that the applicant worked
-20 as a residential child and youth care practitioner in the State for at least 2 years before
-21 October 1, 2015.
+(2) any new program of training required by § 20–302.1 of the Health
+Occupations Article, as enacted by Section 1 of this Act, until the individual’s certificate is
+due for renewal in accordance with § 20–310 of the Health Occupations Article.
 
-22 Article – Human Services
+SECTION ~~2.~~ 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+~~July~~ ~~1,~~ ~~2026~~ January 1, 2027.
 
-23 8–704.
+Approved by the Governor, May 26, 2026.
 
-24 A contract awarded or renewed between an agency and a provider for a residential
-25 child care program shall:
-
-26 (8) require the provider to comply with § 7–309 of the Education Article;
-
-27 (10) require the residential child care program to have certified residential
-28 child and youth care practitioners, as required under § 20–301 of the Health Occupations
-29 Article; and
-
-30 (11) require the residential child care program to have a certified program
-31 administrator as required under § 20–301 of the Health Occupations Article.
+– 6 –
 END OF PAGE 6
-
-START OF PAGE 7
-HOUSE BILL 396 7
-
-1 SECTION 2. AND BE IT FURTHER ENACTED, That an individual who holds a
-2 certificate as a residential child and youth care practitioner on ~~July~~ ~~1,~~ ~~2026~~ January 1, 2027, may not be
-3 required to complete:
-
-4 (1) any program of training required by § 20–302.1 of the Health
-5 Occupations Article, as enacted by Section 1 of this Act, that the individual has already
-6 completed; and
-
-7 (2) any new program of training required by § 20–302.1 of the Health
-8 Occupations Article, as enacted by Section 1 of this Act, until the individual’s certificate is
-9 due for renewal in accordance with § 20–310 of the Health Occupations Article.
-
-10 SECTION ~~2.~~ 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
-11 ~~July~~ ~~1,~~ ~~2026~~ January 1, 2027.
-
-Approved:
-
-________________________________________________________________________________
-Governor.
-
-________________________________________________________________________________
-Speaker of the House of Delegates.
-
-________________________________________________________________________________
-President of the Senate.
-END OF PAGE 7
 </bill>

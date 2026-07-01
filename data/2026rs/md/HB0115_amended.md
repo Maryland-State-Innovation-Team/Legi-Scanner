@@ -1,194 +1,175 @@
 <bill>
 START OF PAGE 1
-HOUSE BILL 115
+WES MOORE, Governor Ch. 428
 
-G1 6lr0654
-(PRE–FILED) CF SB 241
+Chapter 428
 
-By: ~~Delegate~~ ~~Wilkins~~ Delegates Wilkins, Wells, Sample–Hughes, Lehman, and
-Crutchfield
-Requested: July 23, 2025
-Introduced and read first time: January 14, 2026
-Assigned to: Government, Labor, and Elections
+(House Bill 115)
+Delegates Wilkins, Wells, Sample–Hughes, Lehman, and Crutchfield
 
-Committee Report: Favorable with amendments
-House action: Adopted
-Read second time: March 4, 2026
+AN ACT concerning
 
-CHAPTER ______
+Election Law – Individuals Released From State Correctional Facilities –
+Automatic Restoration of Voter Registration
 
-1 AN ACT concerning
+FOR the purpose of requiring, on or before a certain date, the State Board of Elections and
+the Department of Public Safety and Correctional Services to jointly develop and
+implement certain procedures and a certain electronic transmission process for the
+restoration of voter registration for individuals released from incarceration at a State
+correctional facility; requiring the Department ~~of~~ ~~Public~~ ~~Safety~~ ~~and~~ ~~Correctional~~
+~~Services~~ to transmit a certain list of individuals released from incarceration at a
+State correctional facility to the State ~~Board~~ ~~of~~ ~~Elections~~ in a certain manner;
+requiring the State Board to ~~automatically~~ promptly restore the voter registration of
+certain individuals released from State correctional facilities who were registered to
+vote in the State before being incarcerated; prohibiting certain information
+regarding ~~voters~~ ~~registered~~ ~~through~~ ~~the~~ ~~Department~~ the voter registration agency
+through which a formerly incarcerated voter has registered from being disclosed
+~~under~~ ~~the~~ ~~Public~~ ~~Information~~ ~~Act~~ to the public; and generally relating to automatic
+restoration of voter registration for individuals released from State correctional
+facilities.
 
-2 Election Law – Individuals Released From State Correctional Facilities –
-3 Automatic Restoration of Voter Registration
+BY repealing and reenacting, without amendments,
+Article – Correctional Services
+Section 1–101(a), (f), and (q) and 2–601
+Annotated Code of Maryland
+(2025 Replacement Volume)
 
-4 FOR the purpose of requiring, on or before a certain date, the State Board of Elections and
-5 the Department of Public Safety and Correctional Services to jointly develop and
-6 implement certain procedures and a certain electronic transmission process for the
-7 restoration of voter registration for individuals released from incarceration at a State
-8 correctional facility; requiring the Department ~~of~~ ~~Public~~ ~~Safety~~ ~~and~~ ~~Correctional~~
-9 ~~Services~~ to transmit a certain list of individuals released from incarceration at a
-10 State correctional facility to the State ~~Board~~ ~~of~~ ~~Elections~~ in a certain manner;
-11 requiring the State Board to ~~automatically~~ promptly restore the voter registration of
-12 certain individuals released from State correctional facilities who were registered to
-13 vote in the State before being incarcerated; prohibiting certain information
-14 regarding ~~voters~~ ~~registered~~ ~~through~~ ~~the~~ ~~Department~~ the voter registration agency
-15 through which a formerly incarcerated voter has registered from being disclosed
-16 ~~under~~ ~~the~~ ~~Public~~ ~~Information~~ ~~Act~~ to the public; and generally relating to automatic
-17 restoration of voter registration for individuals released from State correctional
-18 facilities.
+BY adding to
+Article – Election Law
+Section 3–203.1
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
 
-19 BY repealing and reenacting, without amendments,
-20 Article – Correctional Services
-21 Section 1–101(a), (f), and (q) and 2–601
-22 Annotated Code of Maryland
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
 
-EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law.
-Underlining indicates amendments to bill.
-~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
-amendment. *hb0115*
+Article – Correctional Services
+
+1–101.
+
+(a) In this article the following words have the meanings indicated.
+
+– 1 –
 END OF PAGE 1
 
 START OF PAGE 2
-2 HOUSE BILL 115
+Ch. 428 2026 LAWS OF MARYLAND
 
-1 (2025 Replacement Volume)
+(f) “Department” means the Department of Public Safety and Correctional
+Services.
 
-2 BY adding to
-3 Article – Election Law
-4 Section 3–203.1
-5 Annotated Code of Maryland
-6 (2022 Replacement Volume and 2025 Supplement)
+(q) (1) “State correctional facility” means a correctional facility that is
+operated by the State.
 
-7 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-8 That the Laws of Maryland read as follows:
+(2) “State correctional facility” includes:
 
-9 Article – Correctional Services
+(i) the Patuxent Institution;
 
-10 1–101.
+(ii) the Baltimore City Detention Center; and
 
-11 (a) In this article the following words have the meanings indicated.
+(iii) the centralized booking facility in Baltimore City that is operated
+by the Division of Pretrial Detention and Services in the Department of Public Safety and
+Correctional Services.
 
-12 (f) “Department” means the Department of Public Safety and Correctional
-13 Services.
+2–601.
 
-14 (q) (1) “State correctional facility” means a correctional facility that is
-15 operated by the State.
+The Department shall:
 
-16 (2) “State correctional facility” includes:
+(1) provide each individual who is released from a correctional facility with
+a voter registration application and documentation with the individual’s discharge papers
+that informs the individual that the individual’s voting rights have been restored;
 
-17 (i) the Patuxent Institution;
+(2) display a sign in each parole and probation office, in a conspicuous
+location where notices to the public are customarily posted, indicating that any individual
+who is no longer incarcerated has the right to vote; and
 
-18 (ii) the Baltimore City Detention Center; and
+(3) post a notice, in a conspicuous location on the Department’s website,
+indicating that any individual who is no longer incarcerated has the right to vote.
 
-19 (iii) the centralized booking facility in Baltimore City that is operated
-20 by the Division of Pretrial Detention and Services in the Department of Public Safety and
-21 Correctional Services.
+Article – Election Law
 
-22 2–601.
+3–203.1.
 
-23 The Department shall:
+(A) IN THIS SECTION, “STATE CORRECTIONAL FACILITY” HAS THE MEANING
+STATED IN § 1–101 OF THE CORRECTIONAL SERVICES ARTICLE.
 
-24 (1) provide each individual who is released from a correctional facility with
-25 a voter registration application and documentation with the individual’s discharge papers
-26 that informs the individual that the individual’s voting rights have been restored;
+(B) ON OR BEFORE JANUARY 1, 2028, THE STATE BOARD AND THE
+DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERVICES JOINTLY SHALL
+DEVELOP AND IMPLEMENT PROCEDURES AND AN ELECTRONIC TRANSMISSION
+PROCESS THAT COMPLY WITH THIS SECTION FOR THE RESTORATION OF VOTER
+REGISTRATION FOR INDIVIDUALS RELEASED FROM INCARCERATION AT A STATE
+CORRECTIONAL FACILITY.
 
-27 (2) display a sign in each parole and probation office, in a conspicuous
-28 location where notices to the public are customarily posted, indicating that any individual
-29 who is no longer incarcerated has the right to vote; and
-
-30 (3) post a notice, in a conspicuous location on the Department’s website,
-31 indicating that any individual who is no longer incarcerated has the right to vote.
+– 2 –
 END OF PAGE 2
 
 START OF PAGE 3
-HOUSE BILL 115 3
+WES MOORE, Governor Ch. 428
 
-1 Article – Election Law
+~~(B)~~ (C) ON A ~~WEEKLY~~ MONTHLY BASIS, THE DEPARTMENT OF PUBLIC
+SAFETY AND CORRECTIONAL SERVICES SHALL ELECTRONICALLY TRANSMIT TO
+THE STATE BOARD A LIST THAT INCLUDES THE ~~NAME AND NEW RESIDENTIAL ADDRESS OF~~ FOLLOWING INFORMATION FOR EACH INDIVIDUAL WHO WAS RELEASED
+FROM INCARCERATION AT A STATE CORRECTIONAL FACILITY IN THE IMMEDIATELY
+PRECEDING ~~WEEK~~ MONTH:
 
-2 3–203.1.
+(1) THE INDIVIDUAL’S FULL NAME;
 
-3 (A) IN THIS SECTION, “STATE CORRECTIONAL FACILITY” HAS THE MEANING
-4 STATED IN § 1–101 OF THE CORRECTIONAL SERVICES ARTICLE.
+(2) THE INDIVIDUAL’S DATE OF BIRTH;
 
-5 (B) ON OR BEFORE JANUARY 1, 2028, THE STATE BOARD AND THE
-6 DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERVICES JOINTLY SHALL
-7 DEVELOP AND IMPLEMENT PROCEDURES AND AN ELECTRONIC TRANSMISSION
-8 PROCESS THAT COMPLY WITH THIS SECTION FOR THE RESTORATION OF VOTER
-9 REGISTRATION FOR INDIVIDUALS RELEASED FROM INCARCERATION AT A STATE
-10 CORRECTIONAL FACILITY.
+(3) THE LAST FOUR DIGITS OF THE INDIVIDUAL’S SOCIAL SECURITY
+NUMBER, DRIVER’S LICENSE NUMBER, OR STATE–ISSUED IDENTIFICATION CARD
+NUMBER;
 
-11 (B) (C) ON A ~~WEEKLY~~ MONTHLY BASIS, THE DEPARTMENT OF PUBLIC
-12 SAFETY AND CORRECTIONAL SERVICES SHALL ELECTRONICALLY TRANSMIT TO
-13 THE STATE BOARD A LIST THAT INCLUDES THE ~~NAME~~ ~~AND~~ ~~NEW~~ ~~RESIDENTIAL~~
-14 ~~ADDRESS~~ ~~OF~~ FOLLOWING INFORMATION FOR EACH INDIVIDUAL WHO WAS RELEASED
-15 FROM INCARCERATION AT A STATE CORRECTIONAL FACILITY IN THE IMMEDIATELY
-16 PRECEDING ~~WEEK~~ MONTH:
+(4) THE DATE THE INDIVIDUAL WAS RELEASED FROM
+INCARCERATION; AND
 
-17 (1) THE INDIVIDUAL’S FULL NAME;
+(5) THE INDIVIDUAL’S NEW RESIDENTIAL ADDRESS.
 
-18 (2) THE INDIVIDUAL’S DATE OF BIRTH;
+~~(C)~~ (D) ON RECEIPT OF THE LIST UNDER SUBSECTION ~~B~~ (C) OF THIS
+SECTION, THE STATE BOARD SHALL IDENTIFY EACH INDIVIDUAL ON THE LIST WHO
+WAS REGISTERED TO VOTE IN THE STATE BEFORE BEING INCARCERATED AND
+WHOSE NEW RESIDENTIAL ADDRESS IS LOCATED IN THE STATE.
 
-19 (3) THE LAST FOUR DIGITS OF THE INDIVIDUAL’S SOCIAL SECURITY
-20 NUMBER, DRIVER’S LICENSE NUMBER, OR STATE–ISSUED IDENTIFICATION CARD
-21 NUMBER;
+~~(D)~~ (E) THE STATE BOARD SHALL ~~AUTOMATICALLY~~ PROMPTLY RESTORE
+THE VOTER REGISTRATION OF EACH INDIVIDUAL IDENTIFIED UNDER SUBSECTION
+~~C~~ (D) OF THIS SECTION AT THE INDIVIDUAL’S NEW RESIDENTIAL ADDRESS AND
+GIVE THE INDIVIDUAL ACTIVE VOTER STATUS.
 
-22 (4) THE DATE THE INDIVIDUAL WAS RELEASED FROM
-23 INCARCERATION; AND
+~~(E)~~ (F) WITH THE VOTER NOTIFICATION CARD THAT IS SENT IN
+ACCORDANCE WITH § 3–301(C) OF THIS TITLE TO EACH INDIVIDUAL WHOSE VOTER
+REGISTRATION IS RESTORED UNDER SUBSECTION ~~D~~ (E) OF THIS SECTION, THE
+ELECTION DIRECTOR SHALL ENCLOSE A NOTICE THAT INCLUDES A STATEMENT
+THAT:
 
-24 (5) THE INDIVIDUAL’S NEW RESIDENTIAL ADDRESS.
+(1) THE INDIVIDUAL HAS BEEN REGISTERED TO VOTE AT THE
+RESIDENTIAL ADDRESS THE INDIVIDUAL PROVIDED TO A STATE AGENCY;
 
-25 (C) (D) ON RECEIPT OF THE LIST UNDER SUBSECTION ~~(B)~~ (C) OF THIS
-26 SECTION, THE STATE BOARD SHALL IDENTIFY EACH INDIVIDUAL ON THE LIST WHO
-27 WAS REGISTERED TO VOTE IN THE STATE BEFORE BEING INCARCERATED AND
-28 WHOSE NEW RESIDENTIAL ADDRESS IS LOCATED IN THE STATE.
+(2) THE INDIVIDUAL IS ELIGIBLE TO VOTE IN THE STATE IN ALL
+FEDERAL, STATE, AND LOCAL ELECTIONS; AND
 
-29 (D) (E) THE STATE BOARD SHALL ~~AUTOMATICALLY~~ PROMPTLY RESTORE
-30 THE VOTER REGISTRATION OF EACH INDIVIDUAL IDENTIFIED UNDER SUBSECTION
-31 ~~(C)~~ (D) OF THIS SECTION AT THE INDIVIDUAL’S NEW RESIDENTIAL ADDRESS AND
-32 GIVE THE INDIVIDUAL ACTIVE VOTER STATUS.
+– 3 –
 END OF PAGE 3
 
 START OF PAGE 4
-4 HOUSE BILL 115
+Ch. 428 2026 LAWS OF MARYLAND
 
-1 (E) (F) WITH THE VOTER NOTIFICATION CARD THAT IS SENT IN
-2 ACCORDANCE WITH § 3–301(C) OF THIS TITLE TO EACH INDIVIDUAL WHOSE VOTER
-3 REGISTRATION IS RESTORED UNDER SUBSECTION ~~(D)~~ (E) OF THIS SECTION, THE
-4 ELECTION DIRECTOR SHALL ENCLOSE A NOTICE THAT INCLUDES A STATEMENT
-5 THAT:
+(3) IF THE INDIVIDUAL WISHES TO DECLINE VOTER REGISTRATION,
+OR IF THE INDIVIDUAL NEEDS TO UPDATE THE INDIVIDUAL’S RESIDENTIAL
+ADDRESS, THE INDIVIDUAL SHOULD CONTACT THE STATE BOARD OR THE
+APPROPRIATE LOCAL BOARD.
 
-6 (1) THE INDIVIDUAL HAS BEEN REGISTERED TO VOTE AT THE
-7 RESIDENTIAL ADDRESS THE INDIVIDUAL PROVIDED TO A STATE AGENCY;
+~~(F)~~ (G) NOTWITHSTANDING ~~THE PUBLIC INFORMATION ACT, THE FACT
+THAT A PARTICULAR VOTER WAS REGISTERED THROUGH THE DEPARTMENT OF
+PUBLIC SAFETY AND CORRECTIONAL SERVICES UNDER THIS SECTION~~ § 3–506 OF
+THIS TITLE AND THE PUBLIC INFORMATION ACT, THE IDENTITY OF THE VOTER
+REGISTRATION AGENCY THROUGH WHICH A FORMERLY INCARCERATED VOTER HAS
+REGISTERED UNDER THIS SECTION MAY NOT BE DISCLOSED TO THE PUBLIC.
 
-8 (2) THE INDIVIDUAL IS ELIGIBLE TO VOTE IN THE STATE IN ALL
-9 FEDERAL, STATE, AND LOCAL ELECTIONS; AND
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+January 1, 2027.
 
-10 (3) IF THE INDIVIDUAL WISHES TO DECLINE VOTER REGISTRATION,
-11 OR IF THE INDIVIDUAL NEEDS TO UPDATE THE INDIVIDUAL’S RESIDENTIAL
-12 ADDRESS, THE INDIVIDUAL SHOULD CONTACT THE STATE BOARD OR THE
-13 APPROPRIATE LOCAL BOARD.
+Approved by the Governor, May 12, 2026.
 
-14 (F) (G) NOTWITHSTANDING THE PUBLIC INFORMATION ACT, ~~THE~~ ~~FACT~~
-15 ~~THAT~~ ~~A~~ ~~PARTICULAR~~ ~~VOTER~~ ~~WAS~~ ~~REGISTERED~~ ~~THROUGH~~ ~~THE~~ ~~DEPARTMENT~~ ~~OF~~
-16 ~~PUBLIC~~ ~~SAFETY~~ ~~AND~~ ~~CORRECTIONAL~~ ~~SERVICES~~ ~~UNDER~~ ~~THIS~~ ~~SECTION~~ § 3–506 OF
-17 THIS TITLE AND THE PUBLIC INFORMATION ACT, THE IDENTITY OF THE VOTER
-18 REGISTRATION AGENCY THROUGH WHICH A FORMERLY INCARCERATED VOTER HAS
-19 REGISTERED UNDER THIS SECTION MAY NOT BE DISCLOSED TO THE PUBLIC.
-
-20 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
-21 January 1, 2027.
-
-Approved:
-
-________________________________________________________________________________
-Governor.
-
-________________________________________________________________________________
-Speaker of the House of Delegates.
-
-________________________________________________________________________________
-President of the Senate.
+– 4 –
 END OF PAGE 4
 </bill>

@@ -1,192 +1,168 @@
 <bill>
 START OF PAGE 1
-HOUSE BILL 809
+WES MOORE, Governor Ch. 780
 
-F2 (6lr1640)
-ENROLLED BILL
-— Appropriations/Budget and Taxation —
-Introduced by Delegate Rosenberg
+Chapter 780
 
-Read and Examined by Proofreaders:
+(House Bill 809)
 
-_______________________________________________
-Proofreader.
-_______________________________________________
-Proofreader.
+AN ACT concerning
 
-Sealed with the Great Seal and presented to the Governor, for his approval this
+Walter Sondheim Jr. Public Service Internship Scholarship Program – Funding
 
-_______ day of _______________ at ________________________ o’clock, ________M.
+FOR the purpose of specifying the intern fellowships that exist in the Walter Sondheim Jr.
+Public Service Internship Scholarship Program; increasing the maximum scholarship
+award amount under the Program; increasing the maximum
+scholarship award amount under the Program; requiring the Governor to include in
+the annual budget bill an appropriation for the Program that is at least a certain
+percentage of the appropriation provided in a prior fiscal year; and generally relating
+to the Walter Sondheim Jr. Public Service Internship Scholarship Program.
 
-______________________________________________
-Speaker.
+BY repealing and reenacting, with amendments,
+Article – Education
+Section 18–1702 and 18–1704
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
 
-CHAPTER ______
+Preamble
 
-1 AN ACT concerning
+WHEREAS, Governor Wes Moore has made commitment to public service a
+preeminent issue of his administration by establishing the Maryland Department of
+Service and Civic Innovation, launching the service year option for high school graduates,
+and expanding on the promise of Maryland Corps; and
 
-2 Walter Sondheim Jr. Public Service Internship Scholarship Program – Funding
+WHEREAS, Governor Wes Moore has continued to build on his work by allocating
+over $50 million in both the fiscal year 2025 and fiscal year 2026 budget bills to provide
+public service in the State, including securing federal funding; and
 
-3 specifying the intern fellowships that exist in the Walter Sondheim Jr.
-4 Public Service Internship Scholarship Program; *increasing the maximum*
-5 *scholarship award amount under the Program;* requiring the Governor to include in
-6 the annual budget bill an appropriation for the Program that is at least a certain
-7 percentage of the appropriation provided in a prior fiscal year; and generally relating
-8 to the Walter Sondheim Jr. Public Service Internship Scholarship Program.
+WHEREAS, This is vital work that the State must build on to ensure a new
+generation grows up to serve our State and its people; now, therefore,
 
-9 BY repealing and reenacting, with amendments,
-10 Article – Education
-11 Section 18–1702 and 18–1704
-12 Annotated Code of Maryland
-13 (2022 Replacement Volume and 2025 Supplement)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
 
-EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law.
-Underlining indicates amendments to bill.
-~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
-amendment.
-Italics indicate opposite chamber/conference committee amendments.*hb0809*
+Article – Education
+
+18–1702.
+
+(a) (1) There is a scholarship program known as the Walter Sondheim Jr.
+Public Service Internship Scholarship Program in the State.
+
+– 1 –
 END OF PAGE 1
 
 START OF PAGE 2
-2 HOUSE BILL 809
+Ch. 780 2026 LAWS OF MARYLAND
 
-1 Preamble
+(2) THE PROGRAM CONSISTS OF AT LEAST THE FOLLOWING PUBLIC
+SERVICE INTERN FELLOWSHIPS:
 
-2 WHEREAS, Governor Wes Moore has made commitment to public service a
-3 preeminent issue of his administration by establishing the Maryland Department of
-4 Service and Civic Innovation, launching the service year option for high school graduates,
-5 and expanding on the promise of Maryland Corps; and
+(I) THE GOVERNOR’S SUMMER INTERNSHIP PROGRAM;
 
-6 WHEREAS, Governor Wes Moore has continued to build on his work by allocating
-7 over $50 million in both the fiscal year 2025 and fiscal year 2026 budget bills to provide
-8 public service in the State, including securing federal funding; and
+(II) THE SONDHEIM MARYLAND NONPROFIT LEADERSHIP
+INTERNSHIP PROGRAM; AND
 
-9 WHEREAS, This is vital work that the State must build on to ensure a new
-10 generation grows up to serve our State and its people; now, therefore,
+(III) THE SONDHEIM PUBLIC SERVICE LAW FELLOWS
+PROGRAM.
 
-11 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-12 That the Laws of Maryland read as follows:
+(b) The purpose of the Program is to assist college and graduate students to
+explore public service career opportunities through internships.
 
-13 Article – Education
+(c) The Shriver Center shall administer the Program.
 
-14 18–1702.
+(d) An institution of higher education in the State may nominate eligible students
+to participate in the Program on or before:
 
-15 (a) (1) There is a scholarship program known as the Walter Sondheim Jr.
-16 Public Service Internship Scholarship Program in the State.
+(1) January 1 of each year for summer and fall internships; and
 
-17 (2) THE PROGRAM CONSISTS OF AT LEAST THE FOLLOWING PUBLIC
-18 SERVICE INTERN FELLOWSHIPS:
+(2) October 1 of each year for spring internships.
 
-19 (I) THE GOVERNOR’S SUMMER INTERNSHIP PROGRAM;
+(e) Priority for participation in the Program shall be given to an eligible student
+who:
 
-20 (II) THE SONDHEIM MARYLAND NONPROFIT LEADERSHIP
-21 INTERNSHIP PROGRAM; AND
+(1) Is a resident of the State;
 
-22 (III) THE SONDHEIM PUBLIC SERVICE LAW FELLOWS
-23 PROGRAM.
+(2) Has demonstrated an interest in a career in public service; and
 
-24 (b) The purpose of the Program is to assist college and graduate students to
-25 explore public service career opportunities through internships.
+(3) Assists in providing:
 
-26 (c) The Shriver Center shall administer the Program.
+(i) Legal services:
 
-27 (d) An institution of higher education in the State may nominate eligible students
-28 to participate in the Program on or before:
+1. To low–income residents in the State who cannot afford
+legal services; or
 
-29 (1) January 1 of each year for summer and fall internships; and
+2. In a public service position;
 
-30 (2) October 1 of each year for spring internships.
+(ii) Social work services to low–income residents in the State;
+
+(iii) Nursing services in nursing shortage areas in the State as
+defined in § 18–802 of this title; or
+
+– 2 –
 END OF PAGE 2
 
 START OF PAGE 3
-HOUSE BILL 809 3
+WES MOORE, Governor Ch. 780
 
-1 (e) Priority for participation in the Program shall be given to an eligible student
-2 who:
+(iv) Other services in the public or nonprofit sectors in which there is
+a shortage of qualified practitioners to low–income or underserved residents or areas of the
+State.
 
-3 (1) Is a resident of the State;
+(f) (1) Subject to paragraph (2) of this subsection, for eligible students who
+have agreed to serve in a public service internship, the Shriver Center shall award
+scholarships on or before:
 
-4 (2) Has demonstrated an interest in a career in public service; and
+(i) January 15 of each year for spring internships;
 
-5 (3) Assists in providing:
+(ii) May 1 of each year for summer internships; and
 
-6 (i) Legal services:
+(iii) August 1 of each year for fall internships.
 
-7 1. To low–income residents in the State who cannot afford
-8 legal services; or
+(2) Funds for the scholarships awarded under this subtitle shall be as
+provided in the State budget.
 
-9 2. In a public service position;
+(g) Subject to the availability of funds, the scholarship award under the Program
+shall be at least $2,000 and no more than [$5,000] $6,000.
 
-10 (ii) Social work services to low–income residents in the State;
+(h) The Shriver Center shall serve as a clearinghouse for public and nonprofit
+entities that wish to hire public service interns participating in the Program.
 
-11 (iii) Nursing services in nursing shortage areas in the State as
-12 defined in § 18–802 of this title; or
+18–1704.
 
-13 (iv) Other services in the public or nonprofit sectors in which there is
-14 a shortage of qualified practitioners to low–income or underserved residents or areas of the
-15 State.
+(a) (1) Funds for the Program [may] SHALL be provided on an annual basis in
+the State budget IN ACCORDANCE WITH THIS SUBSECTION.
 
-16 (f) (1) Subject to paragraph (2) of this subsection, for eligible students who
-17 have agreed to serve in a public service internship, the Shriver Center shall award
-18 scholarships on or before:
+(2) BEGINNING IN FISCAL YEAR 2028, THE GOVERNOR SHALL
+INCLUDE IN THE ANNUAL BUDGET BILL AN APPROPRIATION FOR THE PROGRAM
+THAT IS AT LEAST 125% OF THE APPROPRIATION PROVIDED IN FISCAL YEAR
+2026.
 
-19 (i) January 15 of each year for spring internships;
+(3) THE APPROPRIATION SHALL INCLUDE FUNDING FOR THE
+UNIVERSITY OF MARYLAND, BALTIMORE COUNTY THAT IS AT LEAST 125% OF
+THE FUNDING PROVIDED IN FISCAL YEAR 2026 FOR:
 
-20 (ii) May 1 of each year for summer internships; and
+(I) THE GOVERNOR’S SUMMER INTERNSHIP PROGRAM;
 
-21 (iii) August 1 of each year for fall internships.
+(II) THE SONDHEIM MARYLAND NONPROFIT LEADERSHIP
+INTERNSHIP PROGRAM; AND
 
-22 (2) Funds for the scholarships awarded under this subtitle shall be as
-23 provided in the State budget.
+(III) THE SONDHEIM PUBLIC SERVICE LAW FELLOWS
+PROGRAM.
 
-24 (g) Subject to the availability of funds, the scholarship award under the Program
-25 shall be at least $2,000 and no more than ~~$5,000~~ *$6,000*.
-
-26 (h) The Shriver Center shall serve as a clearinghouse for public and nonprofit
-27 entities that wish to hire public service interns participating in the Program.
-
-28 18–1704.
+– 3 –
 END OF PAGE 3
 
 START OF PAGE 4
-4 HOUSE BILL 809
+Ch. 780 2026 LAWS OF MARYLAND
 
-1 (a) (1) Funds for the Program [may] SHALL be provided on an annual basis in
-2 the State budget IN ACCORDANCE WITH THIS SUBSECTION.
+(b) The Governor may provide funding in the State budget to the Shriver Center
+to administer the Program.
 
-3 (2) BEGINNING IN FISCAL YEAR 2028, THE GOVERNOR SHALL
-4 INCLUDE IN THE ANNUAL BUDGET BILL AN APPROPRIATION FOR THE PROGRAM
-5 THAT IS AT LEAST ~~150%~~ *125%* OF THE APPROPRIATION PROVIDED IN FISCAL YEAR
-6 2026.
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+1, 2026.
 
-7 (3) THE APPROPRIATION SHALL INCLUDE FUNDING FOR THE
-8 UNIVERSITY OF MARYLAND, BALTIMORE COUNTY THAT IS AT LEAST ~~150%~~ *125%* OF
-9 THE FUNDING PROVIDED IN FISCAL YEAR 2026 FOR:
+Approved by the Governor, May 26, 2026.
 
-10 (I) THE GOVERNOR’S SUMMER INTERNSHIP PROGRAM;
-
-11 (II) THE SONDHEIM MARYLAND NONPROFIT LEADERSHIP
-12 INTERNSHIP PROGRAM; AND
-
-13 (III) THE SONDHEIM PUBLIC SERVICE LAW FELLOWS
-14 PROGRAM.
-
-15 (b) The Governor may provide funding in the State budget to the Shriver Center
-16 to administer the Program.
-
-17 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
-18 1, 2026.
-
-Approved:
-
-________________________________________________________________________________
-Governor.
-
-________________________________________________________________________________
-Speaker of the House of Delegates.
-
-________________________________________________________________________________
-President of the Senate.
+– 4 –
 END OF PAGE 4
 </bill>

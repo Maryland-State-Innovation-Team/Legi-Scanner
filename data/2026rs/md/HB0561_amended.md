@@ -1,88 +1,68 @@
-<bill>
 START OF PAGE 1
-HOUSE BILL 561
+WES MOORE, Governor Ch. 623
 
-F5 (6lr0701)
-ENROLLED BILL
-— Appropriations and Ways and Means/Budget and Taxation —
-Introduced by ~~Delegate~~ ~~Palakovich~~ ~~Carr~~ Delegates Palakovich Carr and McCaskill
+Chapter 623
 
-Read and Examined by Proofreaders:
+(House Bill 561)
 
-_______________________________________________
-Proofreader.
-_______________________________________________
-Proofreader.
+AN ACT concerning
 
-Sealed with the Great Seal and presented to the Governor, for his approval this
+Maryland Child Care Credential Program – Extension of Funding
 
-_______ day of _______________ at ________________________ o’clock, ________M.
+FOR the purpose of requiring, for certain fiscal years, the Governor to appropriate a certain
+amount of funding for the Maryland Child Care Credential Program and
+generally relating to funding for the Maryland
+Child Care Credential Program.
 
-______________________________________________
-Speaker.
+BY repealing and reenacting, with amendments,
+Article – Education
+Section 9.5–904
+Annotated Code of Maryland
+(2022 Replacement Volume and 2025 Supplement)
 
-CHAPTER ______
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
 
-1 AN ACT concerning
+Article – Education
 
-2 Maryland Child Care Credential Program – Extension of Funding
+9.5–904.
 
-3 FOR the purpose of requiring, for certain fiscal years, the Governor to appropriate a certain
-4 amount of funding for the Maryland Child Care Credential Program ~~annually,~~
-5 ~~beginning~~ ~~in~~ ~~a~~ ~~certain~~ ~~fiscal~~ ~~year;~~ and generally relating to funding for the Maryland
-6 Child Care Credential Program.
+(a) There is a Maryland Child Care Credential Program.
 
-7 BY repealing and reenacting, with amendments,
-8 Article – Education
-9 Section 9.5–904
-10 Annotated Code of Maryland
-11 (2022 Replacement Volume and 2025 Supplement)
+(b) An individual may apply to the Office for a staff credential, including a child
+development associate credential, or an administrator credential under this subsection.
 
-12 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-13 That the Laws of Maryland read as follows:
+(c) If a person pursues, obtains, or already holds an Office–approved credential,
+the Office may award to the individual:
 
-EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law.
-Underlining indicates amendments to bill.
-~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
-amendment.
-Italics indicate opposite chamber/conference committee amendments.*hb0561*
+(1) An achievement bonus;
+
+(2) A training reimbursement; or
+
+(3) A training voucher.
+
+(d) (1) The Governor shall appropriate $4,000,000 for the program for fiscal
+year 2021.
+
+(2) For each of fiscal years 2022 through 2024, funding for the program
+shall increase by 10% over the prior fiscal year.
+
+– 1 –
 END OF PAGE 1
 
 START OF PAGE 2
-2 HOUSE BILL 561
+Ch. 623 2026 LAWS OF MARYLAND
 
-1 Article – Education
+(3) For fiscal year 2026, the Governor shall appropriate for the program an
+amount that is at least equal to the amount appropriated in fiscal year 2024.
 
-2 9.5–904.
+(4) FOR EACH OF FISCAL YEARS 2028 THROUGH 2030, THE GOVERNOR SHALL APPROPRIATE
+$5,687,000 FOR THE PROGRAM.
 
-3 (a) There is a Maryland Child Care Credential Program.
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+1, 2026.
 
-4 (b) An individual may apply to the Office for a staff credential, including a child
-5 development associate credential, or an administrator credential under this subsection.
+Approved by the Governor, May 26, 2026.
 
-6 (c) If a person pursues, obtains, or already holds an Office–approved credential,
-7 the Office may award to the individual:
-
-8 (1) An achievement bonus;
-
-9 (2) A training reimbursement; or
-
-10 (3) A training voucher.
-
-11 (d) (1) The Governor shall appropriate $4,000,000 for the program for fiscal
-12 year 2021.
-
-13 (2) For each of fiscal years 2022 through 2024, funding for the program
-14 shall increase by 10% over the prior fiscal year.
-
-15 (3) For fiscal year 2026, the Governor shall appropriate for the program an
-16 amount that is at least equal to the amount appropriated in fiscal year 2024.
-
-17 (4) FOR EACH OF FISCAL YEARS 2028 THROUGH 2030, THE GOVERNOR SHALL 
-18 APPROPRIATE $5,687,000 FOR THE PROGRAM.
-
-19 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
-20 1, 2026.
+– 2 –
 END OF PAGE 2
-</bill>

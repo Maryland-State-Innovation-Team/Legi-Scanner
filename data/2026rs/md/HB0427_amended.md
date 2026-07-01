@@ -1,233 +1,203 @@
 <bill>
 START OF PAGE 1
-HOUSE BILL 427
+WES MOORE, Governor Ch. 207
 
-J1 (6lr2063)
-ENROLLED BILL
-— Health/Finance —
-Introduced by Delegates Guzzone, Bagnall, Boyce, Embry, Foley, Hill, Hutchinson,
-Moreno, Terrasa, and Ziegler
+Chapter 207
 
-Read and Examined by Proofreaders:
+(House Bill 427)
 
-_______________________________________________
-Proofreader.
-_______________________________________________
-Proofreader.
+AN ACT concerning
 
-Sealed with the Great Seal and presented to the Governor, for his approval this
+Task Force on Responsible Use of Natural Psychedelic Substances – Extension
+and Membership
 
-_______ day of _______________ at ________________________ o’clock, ________M.
+FOR the purpose of extending the Task Force on Responsible Use of Natural Psychedelic
+Substances to study and make recommendations related to the use of natural
+psychedelic substances; adding a representative of a historically Black college or
+university in the State to the Task Force; and generally relating to the Task Force on
+Responsible Use of Natural Psychedelic Substances.
 
-______________________________________________
-Speaker.
+BY repealing and reenacting, with amendments,
+Chapter 793 of the Acts of the General Assembly of 2024
+Section 1 and 2
 
-CHAPTER ______
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
 
-1 AN ACT concerning
+Chapter 793 of the Acts of 2024
 
-2 Task Force on Responsible Use of Natural Psychedelic Substances – Extension
-3 <u>and Membership</u>
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That:
 
-4 For the purpose of extending the Task Force on Responsible Use of Natural Psychedelic
-5 Substances to study and make recommendations related to the use of natural
-6 psychedelic substances<u>; adding a representative of a historically Black college or</u>
-7 <u>university in the State to the Task Force</u>; and generally relating to the Task Force on
-8 Responsible Use of Natural Psychedelic Substances.
+(a) (1) In this section, “natural psychedelic substances” includes naturally
+derived psilocybin, psilocin, dimethyltryptamine, mescaline, and any other substance
+determined by the Task Force to be a natural psychedelic substance.
 
-9 BY repealing and reenacting, with amendments,
-10 Chapter 793 of the Acts of the General Assembly of 2024
-11 Section 1 and 2
+(2) “Natural psychedelic substances” does not include peyote.
 
-EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law.
-Underlining indicates amendments to bill.
-~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
-amendment.
-Italics indicate opposite chamber/conference committee amendments.*hb0427*
+(b) There is a Task Force on Responsible Use of Natural Psychedelic Substances.
+
+(c) The Task Force consists of the following members:
+
+(1) one member of the Senate of Maryland who shall be appointed by the
+President of the Senate;
+
+(2) one member of the House of Delegates who shall be appointed by the
+Speaker of the House;
+
+(3) the Secretary of Health, or the Secretary’s designee;
+
+(4) the Secretary of Disabilities, or the Secretary’s designee;
+
+– 1 –
 END OF PAGE 1
 
 START OF PAGE 2
-2 HOUSE BILL 427
+Ch. 207 2026 LAWS OF MARYLAND
 
-1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-2 That the Laws of Maryland read as follows:
+(5) the Secretary of Veterans Affairs, or the Secretary’s designee;
 
-3 Chapter 793 of the Acts of 2024
+(6) the Director of the Maryland Cannabis Administration, or the
+Director’s designee; and
 
-4 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-5 That:
+(7) the following members, appointed by the Governor:
 
-6 (a) (1) In this section, “natural psychedelic substances” includes naturally
-7 derived psilocybin, psilocin, dimethyltryptamine, mescaline, and any other substance
-8 determined by the Task Force to be a natural psychedelic substance.
+(i) one representative of the University System of Maryland, the
+Johns Hopkins University’s Center for Psychedelic and Consciousness Research, or
+Sheppard Pratt;
 
-9 (2) “Natural psychedelic substances” does not include peyote.
+(ii) ONE REPRESENTATIVE OF A HISTORICALLY BLACK COLLEGE
+OR UNIVERSITY IN THE STATE;
 
-10 (b) There is a Task Force on Responsible Use of Natural Psychedelic Substances.
+(III) one representative of a Native American tribe with experience in
+the religious and spiritual use of psychedelic substances;
 
-11 (c) The Task Force consists of the following members:
+(IV) one individual with expertise in behavioral health;
 
-12 (1) one member of the Senate of Maryland who shall be appointed by the
-13 President of the Senate;
+(V) one individual with expertise in the treatment of
+substance use disorders;
 
-14 (2) one member of the House of Delegates who shall be appointed by the
-15 Speaker of the House;
+(VI) one individual with expertise in the treatment of chronic
+pain;
 
-16 (3) the Secretary of Health, or the Secretary’s designee;
+(VII) one individual with expertise in psychedelic–assisted
+psychotherapy;
 
-17 (4) the Secretary of Disabilities, or the Secretary’s designee;
+(VIII) one individual with expertise in psychedelic research;
 
-18 (5) the Secretary of Veterans Affairs, or the Secretary’s designee;
+(IX) one individual with expertise in access to care in
+underserved communities;
 
-19 (6) the Director of the Maryland Cannabis Administration, or the
-20 Director’s designee; and
+(X) one individual with expertise in drug policy reform;
 
-21 (7) the following members, appointed by the Governor:
+(XI) one individual with expertise as a member of law
+enforcement;
 
-22 (i) one representative of the University System of Maryland, the
-23 Johns Hopkins University’s Center for Psychedelic and Consciousness Research, or
-24 Sheppard Pratt;
-
-25 (ii) <u>ONE REPRESENTATIVE OF A HISTORICALLY BLACK COLLEGE</u>
-26 <u>OR UNIVERSITY IN THE STATE;</u>
-
-27 <u>(III)</u> one representative of a Native American tribe with experience in
-28 the religious and spiritual use of psychedelic substances;
-
-29 ~~ (iii) ~~ <u>(IV)</u> one individual with expertise in behavioral health;
+– 2 –
 END OF PAGE 2
 
 START OF PAGE 3
-HOUSE BILL 427 3
+WES MOORE, Governor Ch. 207
 
-1 ~~ (iv) ~~ <u>(V)</u> one individual with expertise in the treatment of
-2 substance use disorders;
+(XII) one individual who is a patient with conditions that can be
+treated with psychedelic substances;
 
-3 ~~ (v) ~~ <u>(VI)</u> one individual with expertise in the treatment of chronic
-4 pain;
+(XIII) one individual with experience with the pharmacology of
+natural psychedelic substances; and
 
-5 ~~ (vi) ~~ <u>(VII)</u> one individual with expertise in psychedelic–assisted
-6 psychotherapy;
+(XIV) one physician with experience with the appropriate use of
+psychedelic substances and other integrative medical practices.
 
-7 ~~ (vii) ~~ <u>(VIII)</u> one individual with expertise in psychedelic research;
+(d) To the extent practicable, the membership of the Task Force shall reflect the
+socioeconomic, ethnic, and geographic diversity of the State.
 
-8 ~~ (viii) ~~ <u>(IX)</u> one individual with expertise in access to care in
-9 underserved communities;
+(e) The Governor shall designate the chair of the Task Force.
 
-10 ~~ (ix) ~~ <u>(X)</u> one individual with expertise in drug policy reform;
+(f) The Maryland Cannabis Administration shall provide staff for the Task Force.
 
-11 ~~ (x) ~~ <u>(XI)</u> one individual with expertise as a member of law
-12 enforcement;
+(g) A member of the Task Force:
 
-13 ~~ (xi) ~~ <u>(XII)</u> one individual who is a patient with conditions that can be
-14 treated with psychedelic substances;
+(1) may not receive compensation as a member of the Task Force; but
 
-15 ~~ (xii) ~~ <u>(XIII)</u> one individual with experience with the pharmacology of
-16 natural psychedelic substances; and
+(2) is entitled to reimbursement for expenses under the Standard State
+Travel Regulations, as provided in the State budget.
 
-17 ~~ (xiii) ~~ <u>(XIV)</u> one physician with experience with the appropriate use of
-18 psychedelic substances and other integrative medical practices.
+(h) The Task Force shall:
 
-19 (d) To the extent practicable, the membership of the Task Force shall reflect the
-20 socioeconomic, ethnic, and geographic diversity of the State.
+(1) study:
 
-21 (e) The Governor shall designate the chair of the Task Force.
+(i) existing laws, policies, and practices relating to the use of natural
+psychedelic substances;
 
-22 (f) The Maryland Cannabis Administration shall provide staff for the Task Force.
+(ii) the best available science and data on public benefits of
+responsible access to and use of natural psychedelic substances;
 
-23 (g) A member of the Task Force:
+(iii) opportunities to maximize public benefits of responsible access to
+and use of natural psychedelic substances;
 
-24 (1) may not receive compensation as a member of the Task Force; but
+(iv) the best available data on potential risks of access to and use of
+natural psychedelic substances;
 
-25 (2) is entitled to reimbursement for expenses under the Standard State
-26 Travel Regulations, as provided in the State budget.
+(v) opportunities to mitigate potential risks of access to and use of
+natural psychedelic substances; and
 
-27 (h) The Task Force shall:
+(vi) barriers health care practitioners and facilitators may encounter
+relating to natural psychedelic substances, including barriers relating to insurance,
+restrictions by licensing and credentialing entities, zoning, advertising, and financial
+services;
 
-28 (1) study:
+(2) make recommendations regarding any changes to State law, policy, and
+practices needed to create a Maryland Natural Psychedelic Substance Access Program that
+enables broad, equitable, and affordable access to psychedelic substances, including:
+
+– 3 –
 END OF PAGE 3
 
 START OF PAGE 4
-4 HOUSE BILL 427
+Ch. 207 2026 LAWS OF MARYLAND
 
-1 (i) existing laws, policies, and practices relating to the use of natural
-2 psychedelic substances;
+(i) permitting requirements, including requirements regarding
+education and safety;
 
-3 (ii) the best available science and data on public benefits of
-4 responsible access to and use of natural psychedelic substances;
+(ii) access to treatment and regulated support; and
 
-5 (iii) opportunities to maximize public benefits of responsible access to
-6 and use of natural psychedelic substances;
+(iii) production of natural psychedelic substances; and
 
-7 (iv) the best available data on potential risks of access to and use of
-8 natural psychedelic substances;
+(3) make recommendations to transition from criminalizing conduct
+involving natural psychedelic substances, including:
 
-9 (v) opportunities to mitigate potential risks of access to and use of
-10 natural psychedelic substances; and
+(i) punishing with civil penalties nonviolent infractions involving
+the planting, cultivating, purchasing, transporting, distributing, or possessing of or other
+engagement with natural psychedelic substances;
 
-11 (vi) barriers health care practitioners and facilitators may encounter
-12 relating to natural psychedelic substances, including barriers relating to insurance,
-13 restrictions by licensing and credentialing entities, zoning, advertising, and financial
-14 services;
+(ii) expunging the records of Marylanders with convictions for
+nonviolent criminal offenses relating to natural psychedelic substances; and
 
-15 (2) make recommendations regarding any changes to State law, policy, and
-16 practices needed to create a Maryland Natural Psychedelic Substance Access Program that
-17 enables broad, equitable, and affordable access to psychedelic substances, including:
+(iii) releasing Marylanders incarcerated for nonviolent criminal
+offenses relating to natural psychedelic substances.
 
-18 (i) permitting requirements, including requirements regarding
-19 education and safety;
+(i) The Task Force may consult with experts and stakeholders in conducting its
+duties.
 
-20 (ii) access to treatment and regulated support; and
+(j) (1) On or before July 31, 2025, the Task Force shall submit a report of its
+findings and recommendations to the Governor and, in accordance with § 2–1257 of the
+State Government Article, the General Assembly.
 
-21 (iii) production of natural psychedelic substances; and
+(2) ON OR BEFORE OCTOBER 31, 2026, THE TASK FORCE SHALL
+SUBMIT AN UPDATED REPORT OF ITS FINDINGS AND RECOMMENDATIONS TO THE
+GOVERNOR AND, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT
+ARTICLE, THE GENERAL ASSEMBLY.
 
-22 (3) make recommendations to transition from criminalizing conduct
-23 involving natural psychedelic substances, including:
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+1, 2024. It shall remain effective for a period of [2] 3 years and 6 months and, at the end of
+December 31, [2026] 2027, this Act, with no further action required by the General
+Assembly, shall be abrogated and of no further force and effect.
 
-24 (i) punishing with civil penalties nonviolent infractions involving
-25 the planting, cultivating, purchasing, transporting, distributing, or possessing of or other
-26 engagement with natural psychedelic substances;
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+1, 2026.
 
-27 (ii) expunging the records of Marylanders with convictions for
-28 nonviolent criminal offenses relating to natural psychedelic substances; and
+Approved by the Governor, April 28, 2026.
 
-29 (iii) releasing Marylanders incarcerated for nonviolent criminal
-30 offenses relating to natural psychedelic substances.
-
-31 (i) The Task Force may consult with experts and stakeholders in conducting its
-32 duties.
+– 4 –
 END OF PAGE 4
-
-START OF PAGE 5
-HOUSE BILL 427 5
-
-1 (j) (1) On or before July 31, 2025, the Task Force shall submit a report of its
-2 findings and recommendations to the Governor and, in accordance with § 2–1257 of the
-3 State Government Article, the General Assembly.
-
-4 (2) ON OR BEFORE OCTOBER 31, 2026, THE TASK FORCE SHALL
-5 SUBMIT AN UPDATED REPORT OF ITS FINDINGS AND RECOMMENDATIONS TO THE
-6 GOVERNOR AND, IN ACCORDANCE WITH § 2–1257 OF THE STATE GOVERNMENT
-7 ARTICLE, THE GENERAL ASSEMBLY.
-
-8 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
-9 1, 2024. It shall remain effective for a period of [2] 3 years and 6 months and, at the end of
-10 December 31, [2026] 2027, this Act, with no further action required by the General
-11 Assembly, shall be abrogated and of no further force and effect.
-
-12 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
-13 1, 2026.
-
-Approved:
-
-________________________________________________________________________________
-Governor.
-
-________________________________________________________________________________
-Speaker of the House of Delegates.
-
-________________________________________________________________________________
-President of the Senate.
-END OF PAGE 5
 </bill>

@@ -1,317 +1,300 @@
 <bill>
 START OF PAGE 1
-HOUSE BILL 262
+WES MOORE, Governor Ch. 104
 
-S1 6lr0270
-(PRE–FILED) CF SB 200
+Chapter 104
 
-By: Chair, Government, Labor, and Elections Committee (By Request –
-Departmental – Information Technology)
-Requested: September 26, 2025
-Introduced and read first time: January 14, 2026
-Assigned to: Government, Labor, and Elections
+(House Bill 262)
 
-Committee Report: Favorable with amendments
-House action: Adopted
-Read second time: February 23, 2026
+AN ACT concerning
 
-CHAPTER ______
+State Government – Council for Open Data – Membership and Responsibilities
 
-1 AN ACT concerning
+FOR the purpose of renaming the Council on Open Data to be the Council for Open Data;
+altering the membership, member terms, and responsibilities of the Council; and
+generally relating to the Council for Open Data.
 
-2 State Government – Council for Open Data – Membership and Responsibilities
+BY repealing and reenacting, without amendments,
+Article – State Government
+Section 10–1501(a)
+Annotated Code of Maryland
+(2021 Replacement Volume and 2025 Supplement)
 
-3 FOR the page renaming the Council on Open Data to be the Council for Open Data;
-4 altering the membership, member terms, and responsibilities of the Council; and
-5 generally relating to the Council for Open Data.
+BY repealing and reenacting, with amendments,
+Article – State Government
+Section 10–1501(b) and (c), 10–1503, and 10–1504
+Annotated Code of Maryland
+(2021 Replacement Volume and 2025 Supplement)
 
-6 BY repealing and reenacting, without amendments,
-7 Article – State Government
-8 Section 10–1501(a)
-9 Annotated Code of Maryland
-10 (2021 Replacement Volume and 2025 Supplement)
+SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+That the Laws of Maryland read as follows:
 
-11 BY repealing and reenacting, with amendments,
-12 Article – State Government
-13 Section 10–1501(b) and (c), 10–1503, and 10–1504
-14 Annotated Code of Maryland
-15 (2021 Replacement Volume and 2025 Supplement)
+Article – State Government
 
-16 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-17 That the Laws of Maryland read as follows:
+10–1501.
 
-18 Article – State Government
+(a) In this subtitle the following words have the meanings indicated.
 
-EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law.
-Underlining indicates amendments to bill.
-~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
-amendment. *hb0262*
+(b) “Council” means the Council [on] FOR Open Data.
+
+(c) (1) “Data” means [final versions of] statistical or factual information that:
+
+(i) are in alphanumeric or geospatial form reflected in a list, table,
+graph, chart, map, or other nonnarrative format that can be digitally transmitted or
+processed;
+
+(ii) are regularly created or maintained by or on behalf of a
+governmental entity; and
+
+– 1 –
 END OF PAGE 1
 
 START OF PAGE 2
-2 HOUSE BILL 262
+Ch. 104 2026 LAWS OF MARYLAND
 
-1 10–1501.
+(iii) records a measurement, transaction, or determination or provide
+information on government services, initiatives, and resources related to the mission of the
+covered governmental entity.
 
-2 (a) In this subtitle the following words have the meanings indicated.
+(2) “Data” does not include draft versions of statistical or factual
+information that are used for internal analysis by a governmental entity.
 
-3 (b) “Council” means the Council [on] FOR Open Data.
+10–1503.
 
-4 (c) (1) “Data” means [final versions of] statistical or factual information that:
+(a) There is a Council [on] FOR Open Data.
 
-5 (i) are in alphanumeric or geospatial form reflected in a list, table,
-6 graph, chart, map, or other nonnarrative format that can be digitally transmitted or
-7 processed;
+(b) The Council consists of the following [37] 11 members:
 
-8 (ii) are regularly created or maintained by or on behalf of a
-9 governmental entity; and
+[(1) the Secretary of Agriculture;
 
-10 (iii) records a measurement, transaction, or determination or provide
-11 information on government services, initiatives, and resources related to the mission of the
-12 covered governmental entity.
+(2) the Secretary of the Environment;
 
-13 (2) “Data” does not include draft versions of statistical or factual
-14 information that are used for internal analysis by a governmental entity.
+(3) the Secretary of Natural Resources;
 
-15 10–1503.
+(4) the Secretary of Planning;
 
-16 (a) There is a Council [on] FOR Open Data.
+(5) the Secretary of Transportation;
 
-17 (b) The Council consists of the following [37] 11 members:
+(6) the Secretary of Housing and Community Development;
 
-18 [(1) the Secretary of Agriculture;
+(7) the Secretary of Commerce;
 
-19 (2) the Secretary of the Environment;
+(8) the Secretary of General Services;
 
-20 (3) the Secretary of Natural Resources;
+(9) the State Superintendent of Schools;
 
-21 (4) the Secretary of Planning;
+(10) the Secretary of Health;
 
-22 (5) the Secretary of Transportation;
+(11) the Secretary of Information Technology;
 
-23 (6) the Secretary of Housing and Community Development;
+(12) the Secretary of Public Safety and Correctional Services;
 
-24 (7) the Secretary of Commerce;
+(13) the Secretary of State Police;
 
-25 (8) the Secretary of General Services;
+(14) the Director of Assessments and Taxation;
 
-26 (9) the State Superintendent of Schools;
+(15) the Secretary of Budget and Management;
 
-27 (10) the Secretary of Health;
+(16) the Adjutant General of the Military Department;
+
+(17) the Secretary of Emergency Management;
+
+– 2 –
 END OF PAGE 2
 
 START OF PAGE 3
-HOUSE BILL 262 3
+WES MOORE, Governor Ch. 104
 
-1 (11) the Secretary of Information Technology;
+(18) the Secretary of Labor;
 
-2 (12) the Secretary of Public Safety and Correctional Services;
+(19) the Secretary of Human Services;
 
-3 (13) the Secretary of State Police;
+(20) the Director of the Governor’s Office of Performance Improvement;
 
-4 (14) the Director of Assessments and Taxation;
+(21) the Governor’s Homeland Security Advisor;
 
-5 (15) the Secretary of Budget and Management;
+(22) the Executive Director of the Governor’s Office of Crime Prevention and
+Policy;
 
-6 (16) the Adjutant General of the Military Department;
+(23) the Executive Director of the Maryland Institute for Emergency
+Medical Services Systems;
 
-7 (17) the Secretary of Emergency Management;
+(24) the Executive Director of the Department of Legislative Services;
 
-8 (18) the Secretary of Labor;
+(25) the State Archivist;]
 
-9 (19) the Secretary of Human Services;
+[(26)] (1) one member of the Senate of Maryland, appointed by the
+President of the Senate;
 
-10 (20) the Director of the Governor’s Office of Performance Improvement;
+[(27)] (2) one member of the House of Delegates of Maryland, appointed by
+the Speaker of the House;
 
-11 (21) the Governor’s Homeland Security Advisor;
+(3) THE STATE CHIEF DATA OFFICER;
 
-12 (22) the Executive Director of the Governor’s Office of Crime Prevention and
-13 Policy;
+[(28)] (4) [five] THREE elected officials or employees from local entities
+who have knowledge of and interest in open data, appointed by the Governor in accordance
+with subsections (d) and (e) of this section; and
 
-14 (23) the Executive Director of the Maryland Institute for Emergency
-15 Medical Services Systems;
+[(29)] (5) five members from the private, private utility, academic, or
+nonprofit sectors who have knowledge of and interest in open data, appointed by the
+Governor in accordance with subsection (e) of this section THAT INCLUDES:
 
-16 (24) the Executive Director of the Department of Legislative Services;
+(I) AT LEAST ONE MEMBER FROM THE UNIVERSITY SECTOR;
 
-17 (25) the State Archivist;]
+(II) AT LEAST ONE MEMBER FROM THE PRIVATE SECTOR;
+AND
 
-18 [(26)] (1) one member of the Senate of Maryland, appointed by the
-19 President of the Senate;
+(III) AT LEAST ONE MEMBER FROM THE NONPROFIT SECTOR.
 
-20 [(27)] (2) one member of the House of Delegates of Maryland, appointed by
-21 the Speaker of the House;
+(c) If a member of the Council [listed in subsection (b)(1) through (24) of this
+section] is unable to attend a meeting of the Council, the member may:
 
-22 (3) THE STATE CHIEF DATA OFFICER;
-
-23 [(28)] (4) [five] THREE elected officials or employees from local entities
-24 who have knowledge of and interest in open data, appointed by the Governor in accordance
-25 with subsections (d) and (e) of this section; and
+– 3 –
 END OF PAGE 3
 
 START OF PAGE 4
-4 HOUSE BILL 262
+Ch. 104 2026 LAWS OF MARYLAND
 
-1 [(29)] (5) five members from the private, private utility, academic, or
-2 nonprofit sectors who have knowledge of and interest in open data, appointed by the
-3 Governor in accordance with subsection (e) of this section <u>THAT INCLUDES:</u>
+(1) IF THE MEMBER IS LISTED IN SUBSECTION (B)(1) OR (2) OF THIS
+SECTION, DESIGNATE A STAFF MEMBER WHO REPORTS DIRECTLY TO THE MEMBER
+TO ATTEND THE MEETING; OR
 
-4 <u>(I) AT LEAST ONE MEMBER FROM THE UNIVERSITY SECTOR;</u>
+(2) IF THE MEMBER IS LISTED IN SUBSECTION (B)(3) OF THIS
+SECTION, designate [the Chief Information Officer or] another senior management staff
+member of the agency or organization to attend the meeting.
 
-5 <u>(II) AT LEAST ONE MEMBER FROM THE PRIVATE SECTOR; AND</u>
+(d) Of the [five] THREE elected officials or employees from local entities
+appointed by the Governor under subsection [(b)(28)] (B)(4) of this section, one shall
+represent each of the following groups of counties:
 
-6 <u>(III) AT LEAST ONE MEMBER FROM THE NONPROFIT SECTOR</u>.
+(1) Allegany County, CARROLL COUNTY, Frederick County, Garrett
+County, and Washington County;
 
-7 (c) If a member of the Council [listed in subsection (b)(1) through (24) of this
-8 section] is unable to attend a meeting of the Council, the member may:
+[(2) Caroline County, Cecil County, Dorchester County, Kent County,
+Queen Anne’s County, Somerset County, Talbot County, Wicomico County, and Worcester
+County;
 
-9 (1) IF THE MEMBER IS LISTED IN SUBSECTION (B)(1) OR (2) OF THIS
-10 SECTION, DESIGNATE A STAFF MEMBER WHO REPORTS DIRECTLY TO THE MEMBER
-11 TO ATTEND THE MEETING; OR
+(3)] (2) Anne Arundel County, BALTIMORE CITY, BALTIMORE
+COUNTY, Calvert County, Charles County, [and] HOWARD COUNTY, MONTGOMERY
+COUNTY, PRINCE GEORGE’S COUNTY, AND St. Mary’s [County;
 
-12 (2) IF THE MEMBER IS LISTED IN SUBSECTION (B)(3) OF THIS
-13 SECTION, designate [the Chief Information Officer or] another senior management staff
-14 member of the agency or organization to attend the meeting.
+(4) Montgomery County and Prince George’s] County; and
 
-15 (d) Of the [five] THREE elected officials or employees from local entities
-16 appointed by the Governor under subsection [(b)(28)] (B)(4) of this section, one shall
-17 represent each of the following groups of counties:
+[(5)] (3) [Baltimore City, Baltimore County, Carroll County,] CAROLINE
+COUNTY, CECIL COUNTY, DORCHESTER COUNTY, Harford County, KENT COUNTY,
+QUEEN ANNE’S COUNTY, SOMERSET COUNTY, TALBOT COUNTY, WICOMICO
+COUNTY, and [Howard] WORCESTER County.
 
-18 (1) Allegany County, CARROLL COUNTY, Frederick County, Garrett
-19 County, and Washington County;
+(e) (1) This subsection applies to members of the Council appointed under
+subsection [(b)(28)] (B)(4) and [(29)] (5) of this section.
 
-20 [(2) Caroline County, Cecil County, Dorchester County, Kent County,
-21 Queen Anne’s County, Somerset County, Talbot County, Wicomico County, and Worcester
-22 County;
+(2) The term of a member is 4 years[, except that five members may serve
+an initial 3–year term as required by the terms provided for staggered members of the
+Council on July 1, 2014].
 
-23 (3)] (2) Anne Arundel County, BALTIMORE CITY, BALTIMORE
-24 COUNTY, Calvert County, Charles County, [and] HOWARD COUNTY, MONTGOMERY
-25 COUNTY, PRINCE GEORGE’S COUNTY, AND St. Mary’s [County;
+(3) At the end of a term, a member continues to serve until a successor is
+appointed and qualifies.
 
-26 (4) Montgomery County and Prince George’s] County; and
+(4) A member who is appointed after a term has begun serves only for the
+rest of the term and until a successor is appointed and qualifies.
 
-27 [(5)] (3) [Baltimore City, Baltimore County, Carroll County,] CAROLINE
-28 COUNTY, CECIL COUNTY, DORCHESTER COUNTY, Harford County, KENT COUNTY,
-29 QUEEN ANNE’S COUNTY, SOMERSET COUNTY, TALBOT COUNTY, WICOMICO
-30 COUNTY, and [Howard] WORCESTER County.
+(5) A member may not serve more than two consecutive terms.
 
-31 (e) (1) This subsection applies to members of the Council appointed under
-32 subsection [(b)(28)] (B)(4) and [(29)] (5) of this section.
+– 4 –
 END OF PAGE 4
 
 START OF PAGE 5
-HOUSE BILL 262 5
+WES MOORE, Governor Ch. 104
 
-1 (2) The term of a member is 4 years[, except that five members may serve
-2 an initial 3–year term as required by the terms provided for staggered members of the
-3 Council on July 1, 2014].
+(6) The Governor may remove a member for neglect of duty, incompetence,
+or misconduct.
 
-4 (3) At the end of a term, a member continues to serve until a successor is
-5 appointed and qualifies.
+(f) A member of the Council may not receive compensation but is entitled to
+reimbursement for expenses under the Standard State Travel Regulations as provided in
+the State budget.
 
-6 (4) A member who is appointed after a term has begun serves only for the
-7 rest of the term and until a successor is appointed and qualifies.
+(g) [(1)] The [Secretary of Information Technology] STATE CHIEF DATA
+OFFICER is the Chair of the Council.
 
-8 (5) A member may not serve more than two consecutive terms.
+[(2) The Director of the Governor’s Office of Performance Improvement is
+the Vice Chair of the Council.]
 
-9 (6) The Governor may remove a member for neglect of duty, incompetence,
-10 or misconduct.
+(h) The staffing responsibilities of the Council shall be shared by the Department
+of Information Technology[, the Governor’s Office of Performance Improvement,] and any
+[other] staff designated by the Governor.
 
-11 (f) A member of the Council may not receive compensation but is entitled to
-12 reimbursement for expenses under the Standard State Travel Regulations as provided in
-13 the State budget.
+(i) The Council may establish workgroups as necessary to complete the duties of
+the Council.
 
-14 (g) [(1)] The [Secretary of Information Technology] STATE CHIEF DATA
-15 OFFICER is the Chair of the Council.
+(j) The Council shall meet at least twice each year.
 
-16 [(2) The Director of the Governor’s Office of Performance Improvement is
-17 the Vice Chair of the Council.]
+10–1504.
 
-18 (h) The staffing responsibilities of the Council shall be shared by the Department
-19 of Information Technology[, the Governor’s Office of Performance Improvement,] and any
-20 [other] staff designated by the Governor.
+(a) The Council shall promote the policy established under § 10–1502 of this
+subtitle by:
 
-21 (i) The Council may establish workgroups as necessary to complete the duties of
-22 the Council.
+(1) providing guidance and policy recommendations and when appropriate
+recommend legislation and regulations for:
 
-23 (j) The Council shall meet at least twice each year.
+(i) procedures, standards, and other deliverables for open data,
+including for open data portals;
 
-24 10–1504.
+(ii) promotion, advertising, and marketing of open data; and
 
-25 (a) The Council shall promote the policy established under § 10–1502 of this
-26 subtitle by:
+(iii) best practices for sharing open data while taking into account
+privacy and security concerns;
 
-27 (1) providing guidance and policy recommendations and when appropriate
-28 recommend legislation and regulations for:
+(2) ADVISING ON DATA INITIATIVES AND PRIORITIES;
 
-29 (i) procedures, standards, and other deliverables for open data,
-30 including for open data portals;
+(3) IDENTIFYING AND EXPLORING THE MEANS BY WHICH
+PARTNERSHIPS MAY BE DEVELOPED AND STRENGTHENED TO CONNECT MARYLAND
+DATA WITH COMMUNITIES AND SOCIAL SERVICE ORGANIZATIONS;
+
+– 5 –
 END OF PAGE 5
 
 START OF PAGE 6
-6 HOUSE BILL 262
+Ch. 104 2026 LAWS OF MARYLAND
 
-1 (ii) promotion, advertising, and marketing of open data; and
+[(2)] (4) coordinating the appropriate staff at each State entity for the
+development, maintenance, and use of open data and open data portals;
 
-2 (iii) best practices for sharing open data while taking into account
-3 privacy and security concerns;
+[(3)] (5) (i) identifying the collective cost of operating and investing in
+open data and funding mechanisms to support open data; and
 
-4 (2) ADVISING ON DATA INITIATIVES AND PRIORITIES;
+(ii) advising the Governor and General Assembly on budget matters
+related to open data;
 
-5 (3) IDENTIFYING AND EXPLORING THE MEANS BY WHICH
-6 PARTNERSHIPS MAY BE DEVELOPED AND STRENGTHENED TO CONNECT MARYLAND
-7 DATA WITH COMMUNITIES AND SOCIAL SERVICE ORGANIZATIONS;
+[(4)] (6) inviting and encouraging local entities and the legislative and
+judicial branches to:
 
-8 [(2)] (4) coordinating the appropriate staff at each State entity for the
-9 development, maintenance, and use of open data and open data portals;
+(i) use open data portals established by State entities;
 
-10 [(3)] (5) (i) identifying the collective cost of operating and investing in
-11 open data and funding mechanisms to support open data; and
+(ii) create their own open data portals; and
 
-12 (ii) advising the Governor and General Assembly on budget matters
-13 related to open data;
+(iii) adopt policies consistent with the policy established under §
+10–1502 of this subtitle;
 
-14 [(4)] (6) inviting and encouraging local entities and the legislative and
-15 judicial branches to:
+[(5)] (7) establishing a plan for providing all open data to the public at no
+cost;
 
-16 (i) use open data portals established by State entities;
+[(6)] (8) advocating for sound records management and data preservation
+practices; and
 
-17 (ii) create their own open data portals; and
+[(7)] (9) making recommendations to ensure that the purchase of new
+data processing devices, systems, and software by the State includes a review of compliance
+with the open data policy established under § 10–1502 of this subtitle and interoperability
+with current technology used by the State.
 
-18 (iii) adopt policies consistent with the policy established under §
-19 10–1502 of this subtitle;
+(b) On or before January 10 of each year, the Council shall report to the Governor
+and the General Assembly, in accordance with § 2–1257 of this article, on the activities of
+the Council for the previous year and any recommendations for legislation.
 
-20 [(5)] (7) establishing a plan for providing all open data to the public at no
-21 cost;
+SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+1, 2026.
 
-22 [(6)] (8) advocating for sound records management and data preservation
-23 practices; and
+Approved by the Governor, April 14, 2026.
 
-24 [(7)] (9) making recommendations to ensure that the purchase of new
-25 data processing devices, systems, and software by the State includes a review of compliance
-26 with the open data policy established under § 10–1502 of this subtitle and interoperability
-27 with current technology used by the State.
-
-28 (b) On or before January 10 of each year, the Council shall report to the Governor
-29 and the General Assembly, in accordance with § 2–1257 of this article, on the activities of
-30 the Council for the previous year and any recommendations for legislation.
+– 6 –
 END OF PAGE 6
-
-START OF PAGE 7
-HOUSE BILL 262 7
-
-1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
-2 1, 2026.
-
-Approved:
-
-________________________________________________________________________________
-Governor.
-
-________________________________________________________________________________
-Speaker of the House of Delegates.
-
-________________________________________________________________________________
-President of the Senate.
-END OF PAGE 7
 </bill>
