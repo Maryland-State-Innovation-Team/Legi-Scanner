@@ -81857,8 +81857,8 @@
   },
   "HB0992": {
     "first_seen": "2026-02-06T19:37:24.938085",
-    "last_updated": "2026-07-02T06:17:07.716022",
-    "last_seen": "2026-07-02T06:17:07.716022",
+    "last_updated": "2026-07-03T06:12:35.665748",
+    "last_seen": "2026-07-03T06:12:35.665748",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -81978,8 +81978,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "52260f1d34d0f063f1921ef014fcd65cfaac1502c6a20956b270a405f80d6573",
-    "last_updated_local": "2026-07-02T06:17:08.685540",
-    "bill_hash": "e7625bd14cf4ceb939318596deef74bb"
+    "last_updated_local": "2026-07-03T06:12:39.137026",
+    "bill_hash": "19c53eca059de8a60bfcc17d6d5e67d3"
   },
   "HB0993": {
     "first_seen": "2026-02-06T19:37:25.659318",
@@ -147981,80 +147981,105 @@
   },
   "HB1571": {
     "first_seen": "2026-02-14T05:48:58.120879",
-    "last_updated": "2026-02-24T05:55:33.708315",
-    "last_seen": "2026-02-24T05:55:33.708315",
+    "last_updated": "2026-07-03T06:12:37.802952",
+    "last_seen": "2026-07-03T06:12:37.802952",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "amendments": [],
-      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1571.pdf"
+      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1571.pdf",
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1571_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill expands the Access to Counsel in Evictions Program to include mobile home park residents and updates laws governing mobile home park tenancies. It mandates initial one-year leases, limits security deposits to the greater of one month's rent or 500 dollars, and prohibits various charges such as pet, parking, and amenity fees. It also establishes new notice requirements for rent increases and evictions, regulates well water utility billing, and increases the potential damages residents can recover for retaliatory actions by park owners.",
+      "bill_summary": "This bill expands the Access to Counsel in Evictions Program to include mobile home park residents and significantly revises the Maryland Mobile Home Parks Act. It establishes new notice and procedural requirements for evictions, rent increases, and utility billing; limits security deposits to the equivalent of one month's rent or $500; requires park owners to establish pet policies; and provides residents with new legal causes of action and damages for violations of these provisions.",
       "start_year": 2026,
       "end_year": null,
-      "funding": null,
-      "responsible_party": "Maryland Legal Services Corporation and the Maryland Judiciary",
-      "stakeholders": "Mobile home park residents, subtenants, and mobile home park owners.",
-      "fiscal_impact_summary": "Specific dollar estimates are unavailable as a formal Fiscal Note was not included in the provided text. The bill is expected to increase state expenditures for the Maryland Legal Services Corporation to provide expanded legal representation to residents. The Maryland Judiciary will incur administrative costs to develop new forms and manage modified repossession proceedings. Additionally, the bill enables residents to recover damages and attorney fees in civil actions against park owners for various regulatory violations.",
+      "funding": 36800,
+      "responsible_party": "Maryland Judiciary and Maryland Legal Services Corporation",
+      "stakeholders": "Mobile home park residents, mobile home park owners and operators, subtenants, the Maryland Judiciary, the Maryland Legal Services Corporation, and utility vendors.",
+      "fiscal_impact_summary": "According to the Fiscal Note, State general fund expenditures increase by $36,800 in FY 2027 for one-time programming and printing costs for the Judiciary. While the bill expands the Access to Counsel in Evictions Program, any operational impact is expected to be managed within existing resources. The bill is not anticipated to materially affect local government finances. Small business mobile home park owners will experience a meaningful impact due to new responsibilities and potential civil liabilities.",
       "agency_relevance": [
         {
           "agency_name": "Administrative Office of the Courts",
           "is_relevant": true,
-          "relevance_explanation": "The bill requires the Maryland Judiciary to develop and publish a specific 'Notice of Intent to File a Complaint for Repossession of the Premises' form and significantly alters judicial procedures for repossession, appeals, and escrow in the District Court.",
+          "relevance_explanation": "The bill significantly alters judicial procedures for repossession, appeals, and bonds in the District and Circuit Courts. It specifically requires the Maryland Judiciary to develop and publish a new 'Notice of Intent to File a Complaint for Repossession of the Premises' form and extends appeal timelines. The fiscal note identifies a one-time programming and printing cost of $36,800 for the agency.",
           "relevance_rating": 5
-        },
-        {
-          "agency_name": "Department of Housing and Community",
-          "is_relevant": true,
-          "relevance_explanation": "The bill requires mobile home park owners to provide DHCD with notice of any contract of sale for a mobile home park at least 30 days before the sale. Additionally, the department's mission involves ensuring access to safe and affordable housing, which this bill directly regulates for mobile home residents.",
-          "relevance_rating": 4
         },
         {
           "agency_name": "Commission on Civil Rights",
           "is_relevant": true,
-          "relevance_explanation": "The bill expands anti-discrimination protections in mobile home parks by adding several protected classes (including source of income, marital status, and military status) and explicitly authorizes civil actions for discriminatory housing practices under the State Government Article, which MCCR enforces.",
+          "relevance_explanation": "The bill expands housing anti-discrimination protections in mobile home parks to include several new protected classes such as source of income, familial status, marital status, and military status. It explicitly authorizes aggrieved residents to bring civil actions for discriminatory housing practices under the State Government Article, which this commission enforces.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Office of the Attorney General",
+          "is_relevant": true,
+          "relevance_explanation": "The Office of the Attorney General's Division of Consumer Protection is responsible for enforcing the Maryland Mobile Home Parks Act. The bill's extensive changes to park owner obligations, fee restrictions, and utility billing directly impact the consumer protection laws the OAG monitors and enforces.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Department of the Environment",
           "is_relevant": true,
-          "relevance_explanation": "The bill requires park owners to ensure water supplies comply with federal and state drinking water regulations and specifically references the definition of a supplier of water under the Environment Article, which MDE oversees.",
+          "relevance_explanation": "The bill mandates that mobile home park owners ensure access to a water supply meeting federal and state primary and secondary drinking water regulations. It also regulates well water service billing and references definitions from the Environment Article regarding water suppliers.",
           "relevance_rating": 3
+        },
+        {
+          "agency_name": "Department of Housing and Community",
+          "is_relevant": true,
+          "relevance_explanation": "The bill regulates mobile home parks, which are a critical component of affordable housing policy overseen by this agency. Existing law, referenced in the bill, requires park owners to provide notice to this department at least 30 days before a park sale.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Department of Health",
+          "is_relevant": true,
+          "relevance_explanation": "The bill requires mobile home park rules and maintenance standards to comply with state and county health laws and regulations. It also involves physician certifications for staying repossession warrants based on the health of the resident.",
+          "relevance_rating": 2
         },
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The bill requires the Maryland Legal Services Corporation to submit an annual report to the Governor regarding the Access to Counsel in Evictions Program, which is expanded by this legislation to include mobile home residents.",
+          "relevance_explanation": "The bill impacts the Access to Counsel in Evictions Program, which requires annual reports to the Governor. The Governor's Office also oversees the executive departments involved in the bill's implementation and housing policy initiatives.",
           "relevance_rating": 2
         },
         {
-          "agency_name": "Office of the Attorney General",
+          "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "As the chief legal officer for the state, the OAG provides counsel to the executive branch and General Assembly on the enforcement of real property laws and consumer protection issues related to landlord-tenant relations.",
+          "relevance_explanation": "As the principal fiscal agency, DBM is responsible for the oversight of state expenditures, including the one-time general fund increase required for the Judiciary to implement the bill's procedural changes.",
           "relevance_rating": 2
         },
         {
-          "agency_name": "Public Service Commission",
+          "agency_name": "Department of Disabilities",
           "is_relevant": true,
-          "relevance_explanation": "The bill regulates the resale of utility services (electricity, gas, water) by park owners to residents, which often falls under the broader regulatory framework and oversight provided by the PSC for utility vendors and consumer billing practices.",
+          "relevance_explanation": "The bill adds 'disability' as an explicitly protected class under the anti-discrimination provisions of the Mobile Home Parks Act and regulates the provision of paratransit-accessible living conditions by ensuring non-discriminatory access to park facilities.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Human Services",
+          "is_relevant": true,
+          "relevance_explanation": "The Access to Counsel in Evictions Program, which the bill expands, serves households with incomes not greater than 50% of the state median income, a population that frequently overlaps with DHS clients receiving energy, food, and cash assistance.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Rural Maryland Council",
+          "is_relevant": true,
+          "relevance_explanation": "Mobile home parks are a significant housing option in Maryland's 18 rural counties. The bill's reforms to park governance, utility fees (specifically well water), and resident rights directly address the quality of life and economic stability of rural residents, a core advocacy focus for the Council.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Department of Veterans & Military Families",
           "is_relevant": true,
-          "relevance_explanation": "The bill adds 'military status' as a protected class against discrimination in the accommodations, facilities, and privileges of a mobile home park.",
+          "relevance_explanation": "The bill adds 'military status' as a protected class against discriminatory housing practices in mobile home parks, directly impacting the advocacy and support services the department provides to active-duty members and their families.",
           "relevance_rating": 1
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "b6e1a460794774e4e40a8f99d5f9c2184aa0a8d14bcff0ec5824b815db236971",
-    "last_updated_local": "2026-02-24T05:58:14.694656",
-    "bill_hash": "feab8c2cfc97dc9c9593f945e2b96f70"
+    "qa_input_hash": "0e70b076de7ddfbf35366625493545890f5a70f17b2dcf1140f8e73ceb16e322",
+    "last_updated_local": "2026-07-03T06:13:18.893944",
+    "bill_hash": "f51a497e677d74a35e6f7d1d82f47cda"
   },
   "HB1572": {
     "first_seen": "2026-02-14T05:48:58.858493",
