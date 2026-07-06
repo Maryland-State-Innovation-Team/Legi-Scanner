@@ -116769,8 +116769,8 @@
   },
   "HB1203": {
     "first_seen": "2026-02-12T06:02:22.116663",
-    "last_updated": "2026-05-27T06:32:25.345163",
-    "last_seen": "2026-05-27T06:32:25.345163",
+    "last_updated": "2026-07-06T06:31:19.368147",
+    "last_seen": "2026-07-06T06:31:19.368147",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -116781,51 +116781,51 @@
       "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1203_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "The bill makes several changes to alcoholic beverages regulations in Garrett County, including adding a substitute member to the Board of License Commissioners, creating a Special Event Permit for Class 3 and Class 4 winery license holders, establishing new requirements for catering licenses such as service personnel presence and food cost ratios, and requiring license applicants to disclose their citizenship or immigration status.",
+      "bill_summary": "This bill modifies alcoholic beverages laws in Garrett County by adding a substitute member to the Board of License Commissioners and establishing a Special Event Permit for Class 3 and Class 4 winery licenses to sell beer, wine, and liquor at private events. It also sets new requirements for licenses with catering options, including the mandatory presence of service personnel and a requirement that food sales represent at least 70 percent of costs for local caterers, and requires license applicants to provide citizenship or immigration status information.",
       "start_year": 2026,
       "end_year": null,
       "funding": 3000,
       "responsible_party": "Garrett County Board of License Commissioners",
-      "stakeholders": "Class 3 and Class 4 winery license holders, catering license holders, and alcoholic beverages license applicants in Garrett County.",
-      "fiscal_impact_summary": "There is no state fiscal impact. Garrett County expenditures will increase by $3,000 annually starting in FY 2027 to cover the salary of the new substitute board member. Local revenues will increase by an indeterminate amount based on the issuance of new Special Event Permits, which carry a $1,750 annual fee and a one-time $1,750 issuing fee.",
+      "stakeholders": "Holders of Class 3 and 4 winery licenses, alcoholic beverage license applicants, caterers, and the Garrett County Board of License Commissioners.",
+      "fiscal_impact_summary": "According to the Fiscal Note, Garrett County expenditures increase by $3,000 annually starting in fiscal 2027 to pay the salary of a new substitute board member. County revenues will increase by an indeterminate amount based on the issuance of new Special Event Permits, which carry a $1,750 annual fee and a matching one-time issuing fee.",
       "agency_relevance": [
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Governor is the formal appointing authority for the members of the Board of License Commissioners for Garrett County, and the bill specifically adds a new substitute member to be appointed by the Governor.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Office of Appointments",
-          "is_relevant": true,
-          "relevance_explanation": "This office, within the Executive Department, is responsible for the recruitment and vetting of candidates for boards and commissions; it will manage the process for the new substitute member position created by the bill.",
-          "relevance_rating": 4
+          "relevance_explanation": "The bill requires the Governor to appoint an additional substitute member to the Garrett County Board of License Commissioners, falling under the office's responsibility for appointing officials to various boards.",
+          "relevance_rating": 2
         },
         {
           "agency_name": "Comptroller of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "The Comptroller serves as the state's principal regulator of the alcohol industry and is explicitly referenced in the bill's amendments to the Alcoholic Beverages and Cannabis Article regarding manufacturer's licenses (Class 3 and 4 wineries).",
+          "relevance_explanation": "The Comptroller is the state's chief regulator of the alcohol industry and is responsible for issuing the Class 3 winery and Class 4 limited winery licenses mentioned in the bill as prerequisites for the new Special Event Permit.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Office of Appointments",
+          "is_relevant": true,
+          "relevance_explanation": "This office assists the Governor in recruiting, vetting, and recommending candidates for state-appointed positions, including the newly established substitute member of the Garrett County Board of License Commissioners.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Department of Health",
           "is_relevant": true,
-          "relevance_explanation": "The bill requires applicants for a local caterer's license to obtain facility approval from the county Department of Health, which operates under the oversight and regulatory framework of the Maryland Department of Health.",
-          "relevance_rating": 2
+          "relevance_explanation": "The bill requires local caterers to obtain approval of their facilities from the county Department of Health, which operates under the oversight and regulations of the Maryland Department of Health.",
+          "relevance_rating": 1
         },
         {
-          "agency_name": "Office of the Attorney General",
+          "agency_name": "Rural Maryland Council",
           "is_relevant": true,
-          "relevance_explanation": "As the chief legal officer, the OAG provides counsel to state agencies and boards regarding statutory changes; the office may also be involved in reviewing the legal implications of the bill's new requirements regarding the citizenship and immigration status of license applicants.",
-          "relevance_rating": 2
+          "relevance_explanation": "As an agency that advocates for rural interests and economic development in Maryland's 18 rural counties, this bill's impact on business licensing in Garrett County is relevant to their mission.",
+          "relevance_rating": 1
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "a668e135ca1a39ee0baec7d2bd93de3e20f4f3c5e408e3f84ed56df3ad7dea4d",
-    "last_updated_local": "2026-05-27T06:38:37.541547",
-    "bill_hash": "d408e91ce9b1489ecab76f8da63af019"
+    "qa_input_hash": "de16d6a473587db80256d1f14003e78d9dbd989740baaa91edb3d20fa25fc361",
+    "last_updated_local": "2026-07-06T06:32:03.026197",
+    "bill_hash": "fab7311a56a2cdf16c38cd27dd02ebb5"
   },
   "HB1204": {
     "first_seen": "2026-02-12T06:02:22.576967",
@@ -147981,8 +147981,8 @@
   },
   "HB1571": {
     "first_seen": "2026-02-14T05:48:58.120879",
-    "last_updated": "2026-07-05T06:18:31.174453",
-    "last_seen": "2026-07-05T06:18:31.174453",
+    "last_updated": "2026-07-06T06:31:21.694513",
+    "last_seen": "2026-07-06T06:31:21.694513",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -148078,8 +148078,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "0e70b076de7ddfbf35366625493545890f5a70f17b2dcf1140f8e73ceb16e322",
-    "last_updated_local": "2026-07-05T06:18:32.653693",
-    "bill_hash": "f51a497e677d74a35e6f7d1d82f47cda"
+    "last_updated_local": "2026-07-06T06:31:23.193764",
+    "bill_hash": "feab8c2cfc97dc9c9593f945e2b96f70"
   },
   "HB1572": {
     "first_seen": "2026-02-14T05:48:58.858493",
