@@ -2215,8 +2215,8 @@
   },
   "HB0027": {
     "first_seen": "2026-02-06T19:22:33.544490",
-    "last_updated": "2026-07-01T06:31:23.801967",
-    "last_seen": "2026-07-01T06:31:23.801967",
+    "last_updated": "2026-08-04T05:58:05.106932",
+    "last_seen": "2026-08-04T05:58:05.106932",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -2336,8 +2336,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "fbaa633a8b1ae7f1da3ebfd951d4641392d6c2cddd96f11b04deb4bd3067730e",
-    "last_updated_local": "2026-07-01T06:47:11.001376",
-    "bill_hash": "c0e36ed9d33bd99e87abeba9955877f8"
+    "last_updated_local": "2026-08-04T05:58:14.646643",
+    "bill_hash": "8620115678a201d4b8f95d6328e358e2"
   },
   "HB0028": {
     "first_seen": "2026-02-06T19:22:34.143758",
@@ -148012,8 +148012,8 @@
   },
   "HB1571": {
     "first_seen": "2026-02-14T05:48:58.120879",
-    "last_updated": "2026-08-03T06:03:47.876837",
-    "last_seen": "2026-08-03T06:03:47.876837",
+    "last_updated": "2026-08-04T05:58:07.770973",
+    "last_seen": "2026-08-04T05:58:07.770973",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -148109,8 +148109,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "0e70b076de7ddfbf35366625493545890f5a70f17b2dcf1140f8e73ceb16e322",
-    "last_updated_local": "2026-08-03T06:03:49.382551",
-    "bill_hash": "f51a497e677d74a35e6f7d1d82f47cda"
+    "last_updated_local": "2026-08-04T05:58:13.816874",
+    "bill_hash": "feab8c2cfc97dc9c9593f945e2b96f70"
   },
   "HB1572": {
     "first_seen": "2026-02-14T05:48:58.858493",
@@ -155774,132 +155774,134 @@
   },
   "HB2100": {
     "first_seen": "2026-07-30T05:54:51.952100",
-    "last_updated": "2026-07-30T05:54:52.876622",
-    "last_seen": "2026-07-30T05:54:52.876622",
+    "last_updated": "2026-08-04T05:58:10.403774",
+    "last_seen": "2026-08-04T05:58:10.403774",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB2100.pdf",
-      "amendments": []
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB2100_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This constitutional amendment clarifies that Maryland's constitutional standards for redistricting, such as compactness and respecting natural boundaries, apply only to General Assembly districts and not congressional districts. It also authorizes the General Assembly to grant the Supreme Court of Maryland original jurisdiction to review congressional districting plans and states that the Maryland Constitution does not provide specific criteria for congressional boundaries.",
+      "bill_summary": "This proposed constitutional amendment clarifies that Maryland's constitutional districting standards, such as compactness and contiguity, apply exclusively to the State Senate and House of Delegates and not to congressional districts. It authorizes the General Assembly to grant the Supreme Court of Maryland original jurisdiction to review congressional districting plans and specifies that federal law governs the criteria for congressional boundaries.",
       "start_year": 2026,
       "end_year": null,
       "funding": null,
-      "responsible_party": "Maryland General Assembly and the Supreme Court of Maryland",
-      "stakeholders": "Maryland voters, candidates for the General Assembly and U.S. Congress, and the Maryland Judiciary",
-      "fiscal_impact_summary": "Specific dollar estimates are unavailable as the provided text does not include a formal Fiscal Note. The amendment's submission to voters in the 2026 general election will likely incur minimal administrative costs for ballot preparation. Additional fiscal impacts could arise from the Supreme Court of Maryland's expanded jurisdiction over congressional districting cases.",
+      "responsible_party": "Maryland General Assembly, Supreme Court of Maryland, Secretary of State, and State Board of Elections",
+      "stakeholders": "Maryland voters, candidates for the General Assembly and U.S. Congress, and state and local election officials.",
+      "fiscal_impact_summary": "The proposed constitutional amendment is not anticipated to materially affect State operations or finances. There is no local fiscal impact or impact on small businesses.",
       "agency_relevance": [
         {
           "agency_name": "Maryland State Board of Elections",
           "is_relevant": true,
-          "relevance_explanation": "The bill proposes a constitutional amendment that must be submitted to the voters in a general election. The State Board of Elections is responsible for overseeing the election, managing the ballot question, and certifying the results.",
+          "relevance_explanation": "The bill requires a constitutional amendment to be submitted to the voters. The Maryland State Board of Elections is the primary agency responsible for supervising and administering elections, including certifying ballot questions and managing the statewide voter registration system.",
           "relevance_rating": 5
+        },
+        {
+          "agency_name": "Secretary of State",
+          "is_relevant": true,
+          "relevance_explanation": "The Secretary of State is responsible for preparing and certifying the content of statewide ballot questions to the State Board of Elections. The agency also serves as the principal custodian of the state's official records, including constitutional amendments.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Administrative Office of the Courts",
           "is_relevant": true,
-          "relevance_explanation": "The bill expressly authorizes the General Assembly to grant original jurisdiction to the Supreme Court of Maryland to review congressional districting plans, which directly impacts the operations and jurisdiction of the state's highest court.",
+          "relevance_explanation": "The bill directly impacts the judicial branch by authorizing the General Assembly to grant original jurisdiction to the Supreme Court of Maryland to review congressional districting plans. The Administrative Office of the Courts provides central support and manages operations for the judicial branch.",
           "relevance_rating": 4
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "As the state's chief legal officer, the OAG provides counsel on constitutional amendments and represents the State in litigation related to districting plans, which this bill directly clarifies and regulates.",
+          "relevance_explanation": "The Office of the Attorney General serves as the chief legal officer for the state. They represent Maryland in court cases related to districting, such as those cited in the bill's preamble, and would be responsible for interpreting and defending the new constitutional standards.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Department of Planning",
+          "is_relevant": true,
+          "relevance_explanation": "The Department of Planning provides data analysis and technical assistance for land use and resource management. Historically, they host and manage the state's official legislative and congressional district maps and provide the geographic data necessary for the districting process.",
           "relevance_rating": 4
         },
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Governor has constitutional duties regarding the processing of constitutional amendments, including receiving election returns and issuing proclamations upon their adoption.",
+          "relevance_explanation": "The Governor's Office oversees the executive branch and is responsible for coordinating policy initiatives. Under Article XIV of the Maryland Constitution, the Governor also receives the election returns for proposed constitutional amendments.",
           "relevance_rating": 3
-        },
-        {
-          "agency_name": "Secretary of State",
-          "is_relevant": true,
-          "relevance_explanation": "The Secretary of State is the custodian of the state's official records, including the laws and constitutional amendments proposed and adopted by the General Assembly and the voters.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Maryland State Archives",
-          "is_relevant": true,
-          "relevance_explanation": "The State Archives preserves the permanent records of the state government, including constitutional amendments and election results, and maintains the Maryland Manual which documents districting.",
-          "relevance_rating": 1
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "98ebdd9a5934d6556723c60d22e7d59e0f56678444904592285655b9d678cc06",
-    "last_updated_local": "2026-07-30T05:55:30.981185",
-    "bill_hash": "578798911cc23d5dcc89f268fdd1eedc"
+    "qa_input_hash": "06428e622d2be2fab8d7d7279eb267e9c808b629feff54afd081323d7a0b03e6",
+    "last_updated_local": "2026-08-04T05:58:43.867554",
+    "bill_hash": "5bc82787f2f77fd3582cbcc2e88a1432"
   },
   "HB2101": {
     "first_seen": "2026-07-30T05:54:53.199590",
-    "last_updated": "2026-07-30T05:54:54.079380",
-    "last_seen": "2026-07-30T05:54:54.079380",
+    "last_updated": "2026-08-04T05:58:12.317140",
+    "last_seen": "2026-08-04T05:58:12.317140",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB2101.pdf",
-      "amendments": []
+      "amendments": [],
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB2101_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This emergency bill withdraws and repeals duplicate sections of a proposed constitutional amendment (Chapter 156 of the Acts of 2026) concerning collective bargaining and arbitration for State employees. It serves as a technical correction to ensure that only the version of the amendment consistent with Chapter 155 of the Acts of 2026 is presented to voters for ratification.",
+      "bill_summary": "This emergency bill withdraws and repeals duplicate sections of Chapter 156 of the Acts of 2026 to prevent redundant language regarding a proposed constitutional amendment on collective bargaining for State employees from appearing on the November 2026 general election ballot. Chapter 155 of 2026 contains the identical amendment and remains in effect.",
       "start_year": 2026,
       "end_year": null,
-      "funding": null,
-      "responsible_party": "Maryland General Assembly and Secretary of State",
-      "stakeholders": "Maryland State employees and voters",
-      "fiscal_impact_summary": "Specific dollar estimates are unavailable as a formal Fiscal Note is not provided in the text. However, as the bill is a technical correction intended to repeal duplicate legislation, it is expected to have no significant state or local fiscal impact beyond minor administrative efficiencies in the ballot process.",
+      "funding": 0,
+      "responsible_party": "Maryland State Board of Elections",
+      "stakeholders": "State employees, Maryland voters, and the Maryland State Board of Elections",
+      "fiscal_impact_summary": "There is no state or local fiscal impact. The Fiscal Note states the change is technical in nature and does not affect governmental finances as it merely prevents duplicative language from appearing on the November 2026 general election ballot.",
       "agency_relevance": [
-        {
-          "agency_name": "Public Employee Relations Board",
-          "is_relevant": true,
-          "relevance_explanation": "The bill concerns collective bargaining for State employees and reforms to the arbitration process. PERB is the primary agency responsible for overseeing and administering collective bargaining for Maryland's public sector workforce.",
-          "relevance_rating": 5
-        },
         {
           "agency_name": "Maryland State Board of Elections",
           "is_relevant": true,
-          "relevance_explanation": "The bill withdraws and repeals a duplicate proposed Constitutional amendment intended for voter ratification. The State Board of Elections is responsible for managing the ballot and certifying constitutional amendments submitted to the voters.",
+          "relevance_explanation": "The Maryland State Board of Elections is the primary agency impacted as the bill's core purpose is to withdraw a duplicate constitutional amendment to prevent duplicative language from appearing on the November 2026 general election ballot.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "As the central personnel and fiscal agency for the State, DBM oversees state employee policies and collective bargaining agreements, which are directly affected by the arbitration reforms and constitutional amendments addressed in this bill.",
-          "relevance_rating": 4
+          "relevance_explanation": "As the central personnel and budget agency, DBM oversees state employee collective bargaining. This bill relates to the technical cleanup of legislation (Chapter 156 of 2026) that would implement binding arbitration and mandatory budget funding for state employee contracts.",
+          "relevance_rating": 3
         },
         {
-          "agency_name": "Secretary of State",
+          "agency_name": "Public Employee Relations Board",
           "is_relevant": true,
-          "relevance_explanation": "The Secretary of State is the custodian of the official records of the General Assembly, including executive orders and laws, and plays a role in the processing of Constitutional amendments.",
+          "relevance_explanation": "PERB is responsible for administering collective bargaining and labor relations for state employees. The bill modifies the legislative package associated with establishing binding arbitration in the event of an impasse in negotiations, which falls under their jurisdiction.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Governor's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The underlying constitutional amendment impacts the Governor's executive authority regarding the annual state budget and collective bargaining. The Governor's Office must also process and sign this emergency legislation.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The OAG provides legal counsel to the General Assembly and executive agencies regarding the legality and implementation of constitutional amendments and labor laws.",
+          "relevance_explanation": "The OAG provides legal counsel to the state and reviews constitutional amendments and ballot questions for legal sufficiency. They would be involved in the legal process of withdrawing a previously authorized constitutional amendment.",
           "relevance_rating": 2
         },
         {
-          "agency_name": "Governor's Office",
+          "agency_name": "Secretary of State",
           "is_relevant": true,
-          "relevance_explanation": "The Governor oversees the executive branch and its personnel. This bill affects the administrative and legal framework of collective bargaining for state employees within the executive branch.",
+          "relevance_explanation": "The Secretary of State is the custodian of the state's official records, including enacted laws. This bill alters previously recorded Chapter laws (Chapter 156 of 2026) and relates to the certification of documents for the state ballot.",
           "relevance_rating": 2
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "63d3a61cfb44874b4af11478163140851769114c72307893f684c87adb0c8242",
-    "last_updated_local": "2026-07-30T05:55:32.224741",
-    "bill_hash": "724e8e367e9ae7302714af2eb839d03a"
+    "qa_input_hash": "69ad0983392924209d7865bea80bb23eba766205b69964f3e869720cc274e11c",
+    "last_updated_local": "2026-08-04T05:58:38.795579",
+    "bill_hash": "b6d9e511d9458ebfe0f6f4d4eb926929"
   }
 }
