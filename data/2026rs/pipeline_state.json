@@ -71102,8 +71102,8 @@
   },
   "HB0862": {
     "first_seen": "2026-02-06T19:36:05.189883",
-    "last_updated": "2026-05-29T06:26:17.483523",
-    "last_seen": "2026-05-29T06:26:17.483523",
+    "last_updated": "2026-08-05T05:55:44.173584",
+    "last_seen": "2026-08-05T05:55:44.173584",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -71169,8 +71169,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "018be68429663cfdc59d4f2a672ec6e35c78ea59b892df6782252877265c9364",
-    "last_updated_local": "2026-05-29T06:26:59.396277",
-    "bill_hash": "9649fe039e3e5619797491a6b832ed34"
+    "last_updated_local": "2026-08-05T05:55:53.596784",
+    "bill_hash": "81dcc2a5bb27d83a51acbd80ea6c5079"
   },
   "HB0863": {
     "first_seen": "2026-02-06T19:36:05.768275",
@@ -112905,8 +112905,8 @@
   },
   "HB1151": {
     "first_seen": "2026-02-12T06:01:57.485451",
-    "last_updated": "2026-05-29T06:26:18.246566",
-    "last_seen": "2026-05-29T06:26:18.246566",
+    "last_updated": "2026-08-05T05:55:45.900093",
+    "last_seen": "2026-08-05T05:55:45.900093",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -112978,8 +112978,8 @@
     "amended_status": "amended",
     "amend_input_hash": "1dafb477090fc92d3af9b538328b1854a7c0e063acf8335c964e9c2cdc0dcde7",
     "qa_input_hash": "d2f3cc9368e22c46bfdbf6d09483d8f42833eac544b9a029acbd6306d36f99e2",
-    "last_updated_local": "2026-05-29T06:26:34.514442",
-    "bill_hash": "2b6215268abe9f054cff0a24af76da8b"
+    "last_updated_local": "2026-08-05T05:55:54.278865",
+    "bill_hash": "23ceca63a4f056c4c263a938c1fae471"
   },
   "HB1152": {
     "first_seen": "2026-02-12T06:01:57.934529",
@@ -155774,8 +155774,8 @@
   },
   "HB2100": {
     "first_seen": "2026-07-30T05:54:51.952100",
-    "last_updated": "2026-08-04T05:58:10.403774",
-    "last_seen": "2026-08-04T05:58:10.403774",
+    "last_updated": "2026-08-05T05:55:48.375163",
+    "last_seen": "2026-08-05T05:55:48.375163",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -155786,62 +155786,62 @@
       "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB2100_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This proposed constitutional amendment clarifies that Maryland's constitutional districting standards, such as compactness and contiguity, apply exclusively to the State Senate and House of Delegates and not to congressional districts. It authorizes the General Assembly to grant the Supreme Court of Maryland original jurisdiction to review congressional districting plans and specifies that federal law governs the criteria for congressional boundaries.",
+      "bill_summary": "This bill proposes a constitutional amendment to clarify that Maryland's specific constitutional requirements for redistricting (such as compactness, contiguity, and respect for natural boundaries) apply only to state legislative districts for the General Assembly and not to congressional districts. It also authorizes the General Assembly to grant the Supreme Court of Maryland original jurisdiction to review congressional districting plans and establishes that federal law, rather than the Maryland Constitution, provides the criteria for congressional district boundaries.",
       "start_year": 2026,
       "end_year": null,
       "funding": null,
-      "responsible_party": "Maryland General Assembly, Supreme Court of Maryland, Secretary of State, and State Board of Elections",
-      "stakeholders": "Maryland voters, candidates for the General Assembly and U.S. Congress, and state and local election officials.",
-      "fiscal_impact_summary": "The proposed constitutional amendment is not anticipated to materially affect State operations or finances. There is no local fiscal impact or impact on small businesses.",
+      "responsible_party": "Maryland General Assembly and the Supreme Court of Maryland",
+      "stakeholders": "Maryland voters, candidates for the Maryland General Assembly, and candidates for the U.S. House of Representatives.",
+      "fiscal_impact_summary": "The proposed constitutional amendment is not anticipated to materially affect State operations or finances, and there is no anticipated local fiscal impact according to the Fiscal Note.",
       "agency_relevance": [
         {
           "agency_name": "Maryland State Board of Elections",
           "is_relevant": true,
-          "relevance_explanation": "The bill requires a constitutional amendment to be submitted to the voters. The Maryland State Board of Elections is the primary agency responsible for supervising and administering elections, including certifying ballot questions and managing the statewide voter registration system.",
+          "relevance_explanation": "As the primary agency responsible for supervising and administering elections, the State Board of Elections must oversee the placement of this constitutional amendment on the November 2026 ballot and manage the voting results. The bill also explicitly modifies statutory requirements for this specific ballot question, which the board must implement.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Secretary of State",
           "is_relevant": true,
-          "relevance_explanation": "The Secretary of State is responsible for preparing and certifying the content of statewide ballot questions to the State Board of Elections. The agency also serves as the principal custodian of the state's official records, including constitutional amendments.",
-          "relevance_rating": 4
+          "relevance_explanation": "The Secretary of State is responsible for certifying the content of statewide ballot questions to the State Board of Elections. This bill provides specific ballot language that the Secretary must certify, and the agency is the principal custodian of the official records of laws and constitutional amendments.",
+          "relevance_rating": 5
         },
         {
           "agency_name": "Administrative Office of the Courts",
           "is_relevant": true,
-          "relevance_explanation": "The bill directly impacts the judicial branch by authorizing the General Assembly to grant original jurisdiction to the Supreme Court of Maryland to review congressional districting plans. The Administrative Office of the Courts provides central support and manages operations for the judicial branch.",
-          "relevance_rating": 4
-        },
-        {
-          "agency_name": "Office of the Attorney General",
-          "is_relevant": true,
-          "relevance_explanation": "The Office of the Attorney General serves as the chief legal officer for the state. They represent Maryland in court cases related to districting, such as those cited in the bill's preamble, and would be responsible for interpreting and defending the new constitutional standards.",
+          "relevance_explanation": "The bill proposes a constitutional change that would allow the General Assembly to grant original jurisdiction to the Supreme Court of Maryland to review congressional districting plans. This directly impacts the jurisdiction and procedural operations of the state's highest court.",
           "relevance_rating": 4
         },
         {
           "agency_name": "Department of Planning",
           "is_relevant": true,
-          "relevance_explanation": "The Department of Planning provides data analysis and technical assistance for land use and resource management. Historically, they host and manage the state's official legislative and congressional district maps and provide the geographic data necessary for the districting process.",
-          "relevance_rating": 4
+          "relevance_explanation": "The Department of Planning serves as the state's repository for districting data and provides technical assistance and mapping for legislative and congressional districts. The fiscal note explicitly references the department's role in hosting the official maps that are impacted by the criteria clarified in this bill.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Office of the Attorney General",
+          "is_relevant": true,
+          "relevance_explanation": "The Office of the Attorney General provides legal counsel to the General Assembly and would be responsible for representing the state in challenges to districting plans. This bill clarifies constitutional criteria and jurisdiction, which are core components of the legal framework the OAG defends.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Governor's Office oversees the executive branch and is responsible for coordinating policy initiatives. Under Article XIV of the Maryland Constitution, the Governor also receives the election returns for proposed constitutional amendments.",
-          "relevance_rating": 3
+          "relevance_explanation": "The Governor's Office has an administrative role in signing the legislation proposing the amendment and is responsible for issuing a formal proclamation after the results of the constitutional amendment vote are certified.",
+          "relevance_rating": 2
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "06428e622d2be2fab8d7d7279eb267e9c808b629feff54afd081323d7a0b03e6",
-    "last_updated_local": "2026-08-04T05:58:43.867554",
-    "bill_hash": "5bc82787f2f77fd3582cbcc2e88a1432"
+    "qa_input_hash": "a0b61bd5b350d67d97027ebaa7ff05529a4c252ce0232d219d319f08207ced15",
+    "last_updated_local": "2026-08-05T05:56:30.227202",
+    "bill_hash": "dc9d94a62b604a6f51078f363619a1ca"
   },
   "HB2101": {
     "first_seen": "2026-07-30T05:54:53.199590",
-    "last_updated": "2026-08-04T05:58:12.317140",
-    "last_seen": "2026-08-04T05:58:12.317140",
+    "last_updated": "2026-08-05T05:55:50.153960",
+    "last_seen": "2026-08-05T05:55:50.153960",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -155852,56 +155852,252 @@
       "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB2101_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This emergency bill withdraws and repeals duplicate sections of Chapter 156 of the Acts of 2026 to prevent redundant language regarding a proposed constitutional amendment on collective bargaining for State employees from appearing on the November 2026 general election ballot. Chapter 155 of 2026 contains the identical amendment and remains in effect.",
+      "bill_summary": "This emergency bill withdraws and repeals duplicate sections of a previously passed act (Chapter 156 of 2026) that proposed a constitutional amendment regarding collective bargaining and binding arbitration for State employees. By repealing these sections, the bill ensures that only one version of the proposed amendment (from Chapter 155 of 2026) appears on the November 2026 general election ballot, avoiding redundant language for voters.",
       "start_year": 2026,
       "end_year": null,
       "funding": 0,
-      "responsible_party": "Maryland State Board of Elections",
-      "stakeholders": "State employees, Maryland voters, and the Maryland State Board of Elections",
-      "fiscal_impact_summary": "There is no state or local fiscal impact. The Fiscal Note states the change is technical in nature and does not affect governmental finances as it merely prevents duplicative language from appearing on the November 2026 general election ballot.",
+      "responsible_party": "Maryland General Assembly and the Maryland State Board of Elections",
+      "stakeholders": "State employees and Maryland voters",
+      "fiscal_impact_summary": "The bill is technical in nature and has no fiscal impact on State or local governments. It serves only to prevent duplicative language from appearing on the November 2026 general election ballot.",
       "agency_relevance": [
         {
           "agency_name": "Maryland State Board of Elections",
           "is_relevant": true,
-          "relevance_explanation": "The Maryland State Board of Elections is the primary agency impacted as the bill's core purpose is to withdraw a duplicate constitutional amendment to prevent duplicative language from appearing on the November 2026 general election ballot.",
+          "relevance_explanation": "This bill is of primary importance to the Board of Elections as it requires the withdrawal of a duplicate constitutional amendment from the 2026 general election ballot. The agency is responsible for supervising elections and certifying ballot questions, making this a direct administrative mandate for them.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "As the central personnel and budget agency, DBM oversees state employee collective bargaining. This bill relates to the technical cleanup of legislation (Chapter 156 of 2026) that would implement binding arbitration and mandatory budget funding for state employee contracts.",
-          "relevance_rating": 3
+          "relevance_explanation": "As the central personnel agency for the State, DBM is heavily impacted by the underlying policy regarding collective bargaining and binding arbitration for State employees. While this bill is a technical correction, it ensures the legal framework for their future labor relations is correctly established via referendum.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Public Employee Relations Board",
           "is_relevant": true,
-          "relevance_explanation": "PERB is responsible for administering collective bargaining and labor relations for state employees. The bill modifies the legislative package associated with establishing binding arbitration in the event of an impasse in negotiations, which falls under their jurisdiction.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Governor's Office",
-          "is_relevant": true,
-          "relevance_explanation": "The underlying constitutional amendment impacts the Governor's executive authority regarding the annual state budget and collective bargaining. The Governor's Office must also process and sign this emergency legislation.",
-          "relevance_rating": 3
+          "relevance_explanation": "The board oversees collective bargaining for the state executive branch and other public entities. The underlying amendment directly impacts the legal and procedural framework for arbitration and negotiations that the PERB is charged with regulating.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The OAG provides legal counsel to the state and reviews constitutional amendments and ballot questions for legal sufficiency. They would be involved in the legal process of withdrawing a previously authorized constitutional amendment.",
-          "relevance_rating": 2
+          "relevance_explanation": "The OAG serves as legal counsel to the General Assembly and the State. This bill involves complex legal maneuvers, including withdrawing and repealing a previously passed act intended as a constitutional amendment, which requires legal oversight and advice.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Secretary of State",
           "is_relevant": true,
-          "relevance_explanation": "The Secretary of State is the custodian of the state's official records, including enacted laws. This bill alters previously recorded Chapter laws (Chapter 156 of 2026) and relates to the certification of documents for the state ballot.",
+          "relevance_explanation": "The Secretary of State is the official custodian of Maryland's laws and executive orders. They are responsible for maintaining the records of the Acts of the General Assembly, including the withdrawal and repeal of sections of the law as mandated by this bill.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Governor's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The Governor oversees the executive branch departments affected by collective bargaining. Furthermore, the underlying amendment requires the Governor to include specific appropriations in the annual budget to fund collective bargaining agreements.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Maryland Environmental Service",
+          "is_relevant": true,
+          "relevance_explanation": "The fiscal note explicitly mentions that the underlying constitutional amendment includes the Maryland Environmental Service in its requirements for the Governor to fund terms of memoranda of understanding resulting from collective bargaining.",
           "relevance_rating": 2
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "69ad0983392924209d7865bea80bb23eba766205b69964f3e869720cc274e11c",
-    "last_updated_local": "2026-08-04T05:58:38.795579",
-    "bill_hash": "b6d9e511d9458ebfe0f6f4d4eb926929"
+    "qa_input_hash": "84ed4dee7aa84cc373af8c81ec791774dcbbd4742a9e26b33f128dfa04a0b27d",
+    "last_updated_local": "2026-08-05T05:56:22.983864",
+    "bill_hash": "223b05d342dc34277aaea892aa5010f4"
+  },
+  "HB2102": {
+    "first_seen": "2026-08-05T05:55:50.484543",
+    "last_updated": "2026-08-05T05:55:51.318610",
+    "last_seen": "2026-08-05T05:55:51.318610",
+    "needs_download": false,
+    "needs_convert": false,
+    "needs_amend": false,
+    "needs_qa": false,
+    "files": {
+      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB2102.pdf",
+      "amendments": []
+    },
+    "qa_results": {
+      "bill_summary": "This bill proposes a constitutional amendment to require that each legislative district for the House of Delegates be divided into three single-member districts. It also establishes an independent, 188-member elected Legislative and Congressional Redistricting and Apportionment Convention responsible for drawing legislative and congressional district boundaries following each decennial census, shifting this authority away from the Governor and General Assembly.",
+      "start_year": 2026,
+      "end_year": null,
+      "funding": null,
+      "responsible_party": "Legislative and Congressional Redistricting and Apportionment Convention",
+      "stakeholders": "Maryland voters, candidates for the General Assembly and U.S. Congress, the State Board of Elections, and Maryland county governments.",
+      "fiscal_impact_summary": "A formal Fiscal Note is absent from the provided text, so specific dollar estimates are unavailable. Financial implications include state expenditures for conducting elections for convention members every ten years, travel reimbursements for 188 convention members, and staffing support provided by the Office of the Attorney General and the Department of Legislative Services. There may also be costs related to judicial review of redistricting plans by the Supreme Court of Maryland.",
+      "agency_relevance": [
+        {
+          "agency_name": "Governor's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The bill significantly alters the Governor's constitutional authority by removing their responsibility to prepare and present legislative redistricting plans, transferring this power to a new elected convention.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Office of the Attorney General",
+          "is_relevant": true,
+          "relevance_explanation": "The bill explicitly mandates that the Office of the Attorney General jointly staff the new Legislative and Congressional Redistricting and Apportionment Convention and represent the State in legal challenges.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Department of Budget and Management",
+          "is_relevant": true,
+          "relevance_explanation": "The bill requires that members of the Redistricting Convention be reimbursed for travel expenses as provided in the State Budget, which DBM oversees, and would likely require budget allocation for the new agency's operations.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Department of Information Technology",
+          "is_relevant": true,
+          "relevance_explanation": "The bill requires all meetings of the Redistricting Convention to be livestreamed for public observation, which may require technical infrastructure or support managed by DoIT.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Planning",
+          "is_relevant": true,
+          "relevance_explanation": "As the state's center for land use planning and data analysis, the Department of Planning typically provides the essential census and geographic data used to draw legislative and congressional boundaries.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Administrative Office of the Courts",
+          "is_relevant": true,
+          "relevance_explanation": "The bill grants the Supreme Court of Maryland original jurisdiction to review challenges to redistricting plans and to establish plans if the Convention fails to do so, requiring operational support from the AOC.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Maryland State Board of Elections",
+          "is_relevant": true,
+          "relevance_explanation": "The State Board of Elections is responsible for apportioning the 188 seats of the Redistricting Convention among the counties and determining the date for their election, as well as managing the 2026 constitutional referendum.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Secretary of State",
+          "is_relevant": true,
+          "relevance_explanation": "The Secretary of State is the custodian of official records and laws; the bill specifies that certified plans become law and are treated like bills for codification and notification purposes.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Executive Commissions, Committees, Task Forces, and Advisory Boards",
+          "is_relevant": true,
+          "relevance_explanation": "The bill creates a large-scale, 188-member elected convention tasked with a specific government function (redistricting), effectively establishing a new permanent body of public servants.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "State Ethics Commission",
+          "is_relevant": true,
+          "relevance_explanation": "The 188 members of the new convention would likely be subject to the Maryland Public Ethics Law, requiring the Commission to oversee financial disclosures and ethics training for these new officials.",
+          "relevance_rating": 2
+        }
+      ]
+    },
+    "amended_status": "original",
+    "amend_input_hash": null,
+    "qa_input_hash": "b1b644254f7d788aeb50b69f4f805726b188ea79ed85f2cc909e62375a89500e",
+    "last_updated_local": "2026-08-05T05:56:25.614591",
+    "bill_hash": "a0f2646ffe307bee7416aae69679211e"
+  },
+  "SB2102": {
+    "first_seen": "2026-08-05T05:55:51.664133",
+    "last_updated": "2026-08-05T05:55:52.579753",
+    "last_seen": "2026-08-05T05:55:52.579753",
+    "needs_download": false,
+    "needs_convert": false,
+    "needs_amend": false,
+    "needs_qa": false,
+    "files": {
+      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/SB2102.pdf",
+      "amendments": []
+    },
+    "qa_results": {
+      "bill_summary": "The Fair Districts for Maryland Act proposes a constitutional amendment and implementing legislation to establish an independent Legislative and Congressional Redistricting and Apportionment Commission. The commission is responsible for drawing legislative and congressional district boundaries every 10 years following the decennial census, based on non-partisan criteria such as geographic compactness, contiguity, and respect for natural and political boundaries. The bill mandates single-member delegate districts, prohibits the consideration of political party affiliation or incumbency in map-drawing, and grants the Supreme Court of Maryland original jurisdiction to review plans or establish them if the commission or General Assembly fails to do so.",
+      "start_year": 2026,
+      "end_year": null,
+      "funding": null,
+      "responsible_party": "Legislative and Congressional Redistricting and Apportionment Commission",
+      "stakeholders": "Maryland voters, candidates for public office, members of the Maryland General Assembly, and Maryland's representatives in the U.S. Congress.",
+      "fiscal_impact_summary": "The bill requires an increase in state expenditures to fund the operation of the newly created Legislative and Congressional Redistricting and Apportionment Commission, including staff salaries, professional consultants, travel reimbursements, and potential litigation costs. The Governor is mandated to include these funds in the state budget. However, as the formal Fiscal Note is not provided in the bill text, specific dollar estimates are unavailable.",
+      "agency_relevance": [
+        {
+          "agency_name": "Governor's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The bill fundamentally alters the Governor's constitutional role by repealing the Governor's authority to prepare legislative redistricting plans and transferring it to an independent commission. It also requires the Governor to appoint commission members, call special sessions for plan consideration, and sign or veto the resulting plans.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Office of the Attorney General",
+          "is_relevant": true,
+          "relevance_explanation": "The bill explicitly amends the Maryland Constitution to remove the Attorney General's authority to prosecute or defend redistricting and apportionment cases, transferring legal representation for these matters to the new Redistricting Commission.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Administrative Office of the Courts",
+          "is_relevant": true,
+          "relevance_explanation": "The bill grants the Supreme Court of Maryland original and exclusive jurisdiction to establish redistricting plans if the Commission or General Assembly fails to do so, and to hear legal challenges to enacted plans. The AOC provides the necessary operational and legal support for the judicial branch to handle these proceedings.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Maryland State Board of Elections",
+          "is_relevant": true,
+          "relevance_explanation": "The bill adds a new subtitle to the Election Law Article. Redistricting directly impacts the Board's core mission of supervising and administering elections by defining the boundaries for all legislative and congressional seats in the state.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Department of Budget and Management",
+          "is_relevant": true,
+          "relevance_explanation": "The bill requires the Governor to include funding in the state budget for the operation of the new Redistricting Commission and associated litigation costs, directly impacting DBM's responsibilities for budget development and execution.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Office of the State Prosecutor",
+          "is_relevant": true,
+          "relevance_explanation": "The bill specifically mandates that findings of possible criminal violations by members or employees of the new Redistricting Commission be referred to the State Prosecutor for investigation and prosecution.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Office of Appointments",
+          "is_relevant": true,
+          "relevance_explanation": "The bill requires the Governor to appoint members to the new Commission, a process typically managed and vetted by the Office of Appointments to ensure candidates meet statutory requirements.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Secretary of State",
+          "is_relevant": true,
+          "relevance_explanation": "As the custodian of official state records and the agency responsible for processing constitutional amendments and executive orders, the Secretary of State would be involved in the certification and record-keeping of the proposed constitutional changes and the resulting redistricting plans.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Information Technology",
+          "is_relevant": true,
+          "relevance_explanation": "The bill requires the Commission to ensure a complete and accurate computerized population database and specialized mapping software are available for redistricting and accessible to the public, which may require coordination with the state's central IT agency.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Maryland State Archives",
+          "is_relevant": true,
+          "relevance_explanation": "The Archives is the central depository for government records of permanent value, including the legislative and congressional district maps and the records of the Redistricting Commission.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Planning",
+          "is_relevant": true,
+          "relevance_explanation": "The Department of Planning provides data analysis and land use planning expertise, often serving as a key technical resource for the census data used in redistricting processes.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Executive Commissions, Committees, Task Forces, and Advisory Boards",
+          "is_relevant": true,
+          "relevance_explanation": "This collective entity includes independent bodies created by the General Assembly or Governor; the new Legislative and Congressional Redistricting and Apportionment Commission created by this bill falls within this category of state entities.",
+          "relevance_rating": 2
+        }
+      ]
+    },
+    "amended_status": "original",
+    "amend_input_hash": null,
+    "qa_input_hash": "8e9b2b8049e34dbcc038a19f1a3bfd680e00db0f42913ca6138a29905dfb7c79",
+    "last_updated_local": "2026-08-05T05:56:48.232784",
+    "bill_hash": "764714f39c1a9c1c8883983976cdb48a"
   }
 }
