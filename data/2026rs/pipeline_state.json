@@ -71102,8 +71102,8 @@
   },
   "HB0862": {
     "first_seen": "2026-02-06T19:36:05.189883",
-    "last_updated": "2026-08-05T05:55:44.173584",
-    "last_seen": "2026-08-05T05:55:44.173584",
+    "last_updated": "2026-08-06T07:35:00.757918",
+    "last_seen": "2026-08-06T07:35:00.757918",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -71114,63 +71114,81 @@
       "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0862_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "The bill mandates that freight trains sharing corridors with high-speed passenger or commuter trains in Maryland must have a crew of at least two individuals. It establishes civil penalties for willful violations and makes the law's implementation contingent on similar legislation being enacted in New York, Pennsylvania, and Virginia.",
+      "bill_summary": "This bill requires freight railroad trains sharing rail corridors with high-speed passenger or commuter trains to have a crew of at least two individuals. It establishes civil penalties for willful violations and is contingent upon the enactment of similar legislation in New York, Pennsylvania, and Virginia.",
       "start_year": 2026,
       "end_year": 2056,
       "funding": 6000000,
       "responsible_party": "Maryland Department of Labor",
-      "stakeholders": "Railroad companies operating freight, freight train employees, Maryland Transit Administration (MTA), CSX Transportation, and commuter or high-speed rail passengers.",
-      "fiscal_impact_summary": "The bill's fiscal impact is largely contingent on changes to federal law and the enactment of similar legislation in neighboring states. If federal two-person crew requirements are repealed and the bill takes effect, the Maryland Transit Administration may be required to reimburse CSX Transportation up to 6,000,000 annually for labor costs under an existing track access agreement. The Maryland Department of Labor can likely handle enforcement with existing resources, and the bill allows for civil penalties of up to 25,000 for violations.",
+      "stakeholders": "Railroad companies, freight train crews, the Maryland Transit Administration (MTA), and CSX Transportation.",
+      "fiscal_impact_summary": "The bill generally has no immediate material impact due to federal preemption and its contingent nature. However, if federal rules requiring two-person crews are repealed or invalidated, the Maryland Transit Administration may be required to reimburse CSX up to 6000000 annually for labor costs under an existing access agreement. Additionally, willful violations are subject to civil penalties of up to 10000 for a first offense and 25000 for repeat offenses. The Maryland Department of Labor's Railroad Safety and Health Program can handle enforcement with existing resources.",
       "agency_relevance": [
         {
           "agency_name": "Department of Labor",
           "is_relevant": true,
-          "relevance_explanation": "The Maryland Department of Labor (MD Labor) operates the Railroad Safety and Health Program, which is responsible for monitoring safety practices and conducting inspections of railroad equipment. The bill specifically tasks the Commissioner of Labor and Industry with assessing civil penalties for violations and requires the department to notify the State when specific legislative contingencies are met in neighboring states.",
+          "relevance_explanation": "The bill directly impacts the Department of Labor's Railroad Safety and Health Program, which is responsible for monitoring railroad safety practices and enforcing state-specific requirements. The Commissioner of Labor is specifically authorized to assess civil penalties for violations, and the department must notify the Department of Legislative Services when the bill's contingency is met.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Maryland Transit Administration",
+          "is_relevant": true,
+          "relevance_explanation": "The MTA has a contractual Access Agreement with CSX Transportation that requires the state to reimburse labor costs (up to $6 million annually) if Maryland mandates an increase in freight crew sizes. Since the bill targets freight sharing corridors used by commuter trains (like MARC), the MTA faces a direct and significant fiscal impact.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Department of Transportation",
           "is_relevant": true,
-          "relevance_explanation": "The Maryland Department of Transportation (MDOT), specifically the Maryland Transit Administration (MTA), has an access agreement with CSX Transportation. This agreement includes a clause requiring the State to reimburse CSX for up to $6.0 million annually in labor costs if Maryland mandates an increase in crew size (unless mandated by federal law). The bill could therefore have a significant fiscal impact on the Transportation Trust Fund.",
+          "relevance_explanation": "As the parent agency of the Maryland Transit Administration, MDOT oversees the Transportation Trust Fund, which would be the source of the estimated $6 million annual reimbursement to CSX. MDOT also manages the broader transportation network and modal administrations affected by rail safety regulations.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Public Service Commission",
           "is_relevant": true,
-          "relevance_explanation": "By statute, the Public Service Commission (PSC) pays the costs of MD Labor's Railroad Safety and Health Program through its annual assessment of public service companies. Any changes to the scope of that program or its enforcement duties directly involve the funding mechanisms managed by the PSC.",
+          "relevance_explanation": "By statute, the Public Service Commission is responsible for funding the Railroad Safety and Health Program at the Maryland Department of Labor through its annual assessments of public service companies.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The Office of the Attorney General (OAG) provides legal counsel to MD Labor and MDOT. Because the bill involves complex issues of federal preemption (the Federal Railroad Safety Act) and interstate contingencies, the OAG would be responsible for advising the state on enforcement and defending the law against potential legal challenges.",
+          "relevance_explanation": "The OAG will be responsible for providing legal counsel to the Department of Labor and MDOT regarding federal preemption issues and defending the state in potential litigation arising from the enforcement of these crew requirements.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "As the principal fiscal agency, the Department of Budget and Management (DBM) oversees state budget execution and long-term fiscal planning. The potential $6 million annual expenditure from the Transportation Trust Fund triggered by this bill would require DBM's budgetary oversight and coordination.",
+          "relevance_explanation": "As the principal fiscal agency, DBM is responsible for supervising budget execution and fiscal planning, including the potential multi-million dollar impact on the Transportation Trust Fund and the funding of positions within the Department of Labor.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Office of Administrative Hearings",
+          "is_relevant": true,
+          "relevance_explanation": "OAH would be responsible for adjudicating contested cases if railroad companies appeal the civil penalties assessed by the Commissioner of Labor for violations of the crew size requirements.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Governor's Office oversees the executive branch, including MD Labor and MDOT. The Governor is responsible for proposing the annual state budget, which would need to account for potential multi-million dollar reimbursement requirements to CSX triggered by this safety mandate.",
-          "relevance_rating": 2
+          "relevance_explanation": "The Governor's Office oversees the executive branch agencies responsible for the bill's implementation and coordination of policy initiatives related to state safety and labor laws.",
+          "relevance_rating": 1
         },
         {
           "agency_name": "Department of Emergency Management",
           "is_relevant": true,
-          "relevance_explanation": "The Maryland Department of Emergency Management (MDEM) coordinates disaster preparedness and response. Since railroad crew size is framed as a safety requirement to prevent or manage rail-related hazards (especially in corridors shared with high-speed passenger trains), the agency has a relevant interest in the safety outcomes of the legislation.",
+          "relevance_explanation": "The agency's role in hazard mitigation and emergency preparedness is relevant as railroad staffing levels are often linked to safety and the effective response to rail-related disasters or emergencies.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Governor's Office of Homeland Security",
+          "is_relevant": true,
+          "relevance_explanation": "This office assesses the state's readiness for emergencies and coordinates strategies for disaster prevention regarding critical infrastructure, which includes the rail corridors addressed in this safety legislation.",
           "relevance_rating": 1
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "018be68429663cfdc59d4f2a672ec6e35c78ea59b892df6782252877265c9364",
-    "last_updated_local": "2026-08-05T05:55:53.596784",
-    "bill_hash": "81dcc2a5bb27d83a51acbd80ea6c5079"
+    "qa_input_hash": "160f57ed5c4ec7603f09103936b6c696cd28de78927e459b452ae9a5e83b4eba",
+    "last_updated_local": "2026-08-06T07:35:46.762961",
+    "bill_hash": "96a73519916e597b020af5d8e989ef56"
   },
   "HB0863": {
     "first_seen": "2026-02-06T19:36:05.768275",
@@ -148012,8 +148030,8 @@
   },
   "HB1571": {
     "first_seen": "2026-02-14T05:48:58.120879",
-    "last_updated": "2026-08-04T05:58:07.770973",
-    "last_seen": "2026-08-04T05:58:07.770973",
+    "last_updated": "2026-08-06T07:35:03.108964",
+    "last_seen": "2026-08-06T07:35:03.108964",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -148109,8 +148127,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "0e70b076de7ddfbf35366625493545890f5a70f17b2dcf1140f8e73ceb16e322",
-    "last_updated_local": "2026-08-04T05:58:13.816874",
-    "bill_hash": "feab8c2cfc97dc9c9593f945e2b96f70"
+    "last_updated_local": "2026-08-06T07:35:09.302963",
+    "bill_hash": "a7bd136a3889bd180e7c80170bb5b239"
   },
   "HB1572": {
     "first_seen": "2026-02-14T05:48:58.858493",
@@ -155774,8 +155792,8 @@
   },
   "HB2100": {
     "first_seen": "2026-07-30T05:54:51.952100",
-    "last_updated": "2026-08-05T05:55:48.375163",
-    "last_seen": "2026-08-05T05:55:48.375163",
+    "last_updated": "2026-08-06T07:35:05.856786",
+    "last_seen": "2026-08-06T07:35:05.856786",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -155835,13 +155853,13 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "a0b61bd5b350d67d97027ebaa7ff05529a4c252ce0232d219d319f08207ced15",
-    "last_updated_local": "2026-08-05T05:56:30.227202",
-    "bill_hash": "dc9d94a62b604a6f51078f363619a1ca"
+    "last_updated_local": "2026-08-06T07:35:09.963878",
+    "bill_hash": "ac4a9d3c5e2c6c07b6d667e5ca0a7612"
   },
   "HB2101": {
     "first_seen": "2026-07-30T05:54:53.199590",
-    "last_updated": "2026-08-05T05:55:50.153960",
-    "last_seen": "2026-08-05T05:55:50.153960",
+    "last_updated": "2026-08-06T07:35:07.751297",
+    "last_seen": "2026-08-06T07:35:07.751297",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -155907,8 +155925,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "84ed4dee7aa84cc373af8c81ec791774dcbbd4742a9e26b33f128dfa04a0b27d",
-    "last_updated_local": "2026-08-05T05:56:22.983864",
-    "bill_hash": "223b05d342dc34277aaea892aa5010f4"
+    "last_updated_local": "2026-08-06T07:35:08.969491",
+    "bill_hash": "b199e5a05c5324534a0e1fdd061fe362"
   },
   "HB2102": {
     "first_seen": "2026-08-05T05:55:50.484543",
