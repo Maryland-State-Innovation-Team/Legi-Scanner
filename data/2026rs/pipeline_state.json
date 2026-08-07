@@ -6037,8 +6037,8 @@
   },
   "HB0072": {
     "first_seen": "2026-02-06T19:22:58.460008",
-    "last_updated": "2026-07-01T06:32:08.836312",
-    "last_seen": "2026-07-01T06:32:08.836312",
+    "last_updated": "2026-08-07T05:31:49.861236",
+    "last_seen": "2026-08-07T05:31:49.861236",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -6128,8 +6128,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "a404e11b4500ab8f010e79632efc04152be22c61f51337dbf4fdc3741fbd6672",
-    "last_updated_local": "2026-07-01T06:50:20.884148",
-    "bill_hash": "207c9496f056258f5f356a709106157b"
+    "last_updated_local": "2026-08-07T05:31:59.603593",
+    "bill_hash": "0c68dfd4865f67d2e1dc586dfcd03d8c"
   },
   "HB0073": {
     "first_seen": "2026-02-06T19:22:59.024523",
@@ -68177,8 +68177,8 @@
   },
   "HB0825": {
     "first_seen": "2026-02-06T19:35:44.663640",
-    "last_updated": "2026-07-01T06:40:44.356570",
-    "last_seen": "2026-07-01T06:40:44.356570",
+    "last_updated": "2026-08-07T05:31:51.572438",
+    "last_seen": "2026-08-07T05:31:51.572438",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -68250,8 +68250,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "ed17466ea191ca99ffe957202036da59c520f3e1b7ce9a2f9aca162a41c3c466",
-    "last_updated_local": "2026-07-01T07:46:41.463909",
-    "bill_hash": "10f5b221700e1639dfff976403dfdfa3"
+    "last_updated_local": "2026-08-07T05:32:00.737696",
+    "bill_hash": "2810cb5d1146caebc973d2b6a084d57f"
   },
   "HB0826": {
     "first_seen": "2026-02-06T19:35:45.264645",
@@ -104789,8 +104789,8 @@
   },
   "SB0841": {
     "first_seen": "2026-02-11T06:08:36.582617",
-    "last_updated": "2026-05-12T18:23:14.987557",
-    "last_seen": "2026-05-12T18:23:14.987557",
+    "last_updated": "2026-08-07T05:31:58.399150",
+    "last_seen": "2026-08-07T05:31:58.399150",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -104801,159 +104801,153 @@
       "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/SB0841_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "The Utility RELIEF Act overhauls Maryland's energy policy by transferring the electric universal service program to the Department of Human Services, establishing a no-interest loan program for nonprofits to adopt renewable energy, and reforming utility rate-making processes. It introduces new transparency requirements for customer bills, limits the recovery of executive compensation through rates, and mandates utility membership in regional transmission organizations. The bill also addresses the impact of large load customers like data centers by creating a registry and specific rate schedules, modifies EmPOWER Maryland energy reduction targets, and streamlines the permitting and interconnection process for residential solar and energy storage systems.",
+      "bill_summary": "The Utility RELIEF Act is a comprehensive energy policy bill that transfers the Electric Universal Service Program to the Department of Human Services, establishes a no-interest loan program for nonprofit organizations to adopt green energy, and streamlines residential solar permitting. It restricts utility companies from recovering executive compensation exceeding 110% of the Public Service Commission chair's salary through rates, regulates multiyear rate plans, and requires large-load customers like data centers to cover grid upgrade costs. Additionally, the bill adjusts EmPOWER Maryland greenhouse gas reduction targets and reallocates over $334 million from the Strategic Energy Investment Fund for various energy assistance, school HVAC upgrades, and renewable energy programs.",
       "start_year": 2026,
       "end_year": null,
       "funding": 334650000,
-      "responsible_party": "Maryland Public Service Commission (PSC), Maryland Energy Administration (MEA), and Department of Human Services (DHS)",
-      "stakeholders": "Residential utility customers, low-income households, nonprofit organizations, large industrial and commercial energy users (including data centers), solar energy installers, and electric and gas utility companies.",
-      "fiscal_impact_summary": "The bill effectuates $334,500,000 in contingent special fund appropriations from the Strategic Energy Investment Fund (SEIF) for fiscal 2027, with an additional $150,000 in SEIF funds allocated for a public school study. Major financial impacts include $100 million for renewable energy and storage auctions, $100 million for EmPOWER Maryland residential program costs, $38 million for limited-income rate relief, and approximately $91.5 million for public school HVAC upgrades and heat pump installations. Local governments are impacted by mandates to implement automated solar permitting software and specific inspection timelines, though Baltimore City receives targeted school funding. Various State agencies, including the PSC and MEA, will incur unquantified administrative costs for staffing and implementation.",
+      "responsible_party": "Public Service Commission (PSC) and Maryland Energy Administration (MEA)",
+      "stakeholders": "Utility customers, low-income households, nonprofit organizations, solar energy installers, large-load industrial customers (such as data centers), and local governments.",
+      "fiscal_impact_summary": "State finances are significantly impacted by $334,650,000 in special fund appropriations from the Strategic Energy Investment Fund (SEIF) in FY 2027, including $100,000,000 for EmPOWER Maryland costs and $100,000,000 for renewable energy grants. Local governments face new mandates for implementing solar permitting software and meeting inspection timelines, though Baltimore City receives specific funding for public school HVAC upgrades. Ratepayers are expected to see decreased electric bills resulting from reduced EmPOWER surcharges and the mandatory elimination of certain transmission rate incentives for utilities.",
       "agency_relevance": [
         {
           "agency_name": "Governor's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Governor's Office oversees the executive branch, coordinates policy initiatives, and the Governor serves as a member of the Board of Public Works, which is authorized by the bill to waive certain contract clauses for renewable energy procurement.",
-          "relevance_rating": 3
+          "relevance_explanation": "The Governor's Office oversees the executive branch departments implementing the bill, has authority to transfer funds from the Strategic Energy Investment Fund (SEIF), and manages the newly established Strategic Energy Planning Office mentioned in the bill.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Comptroller of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "The Comptroller serves as a member of the Board of Public Works, which is involved in contract waivers under the bill. Additionally, the agency is tasked with providing funding for a study of public school HVAC systems and collecting revenue for the Electric Universal Service Program fund.",
-          "relevance_rating": 4
+          "relevance_explanation": "The Comptroller is responsible for collecting alternative compliance payments (ACPs) that fund the Strategic Energy Investment Fund (SEIF) and is specifically directed to fund a comprehensive study of school HVAC systems in Baltimore City.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Maryland State Treasurer's Office",
           "is_relevant": true,
-          "relevance_explanation": "The Treasurer serves as a member of the Board of Public Works, which is granted authority by the bill to waive certain termination for convenience clauses in state energy contracts.",
+          "relevance_explanation": "The State Treasurer serves on the Board of Public Works, which is authorized by the bill to waive specific termination clauses in multi-year renewable energy procurement contracts.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Office of the Attorney General",
           "is_relevant": true,
-          "relevance_explanation": "The OAG is specifically authorized by the bill to seek judicial enforcement against counties or municipalities that fail to comply with the new residential solar permitting requirements.",
-          "relevance_rating": 4
+          "relevance_explanation": "The Attorney General is authorized to seek judicial enforcement against counties or municipalities that fail to comply with the new residential solar permitting and inspection requirements.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "DBM is the principal fiscal agency and the bill involves significant transfers of hundreds of millions of dollars within the Strategic Energy Investment Fund and new appropriations for various state programs.",
+          "relevance_explanation": "As the state's principal fiscal and personnel agency, DBM is responsible for the transfer of personnel and benefits associated with moving the Electric Universal Service Program from the PSC to DHS, and for overseeing the significant special fund budget transfers.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Department of Commerce",
           "is_relevant": true,
-          "relevance_explanation": "The bill prohibits the construction of data centers in certain development districts in Baltimore City and requires assessments of the economic and fiscal impacts of data center development in the state.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Department of Education",
-          "is_relevant": true,
-          "relevance_explanation": "The bill impacts the public education system through funding for HVAC systems and coordination with the Interagency Commission on School Construction for capital improvements in schools.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Department of the Environment",
-          "is_relevant": true,
-          "relevance_explanation": "MDE is responsible for implementing and enforcing Building Energy Performance Standards (BEPS), which are directly altered by the bill's reduction of alternative compliance fees for certain buildings. The agency also conducts greenhouse gas emission studies mentioned in the bill.",
-          "relevance_rating": 5
+          "relevance_explanation": "Commerce is involved in the multi-agency 'Site-Readiness Initiative' to identify and pre-vet land parcels suitable for rapid energy deployment.",
+          "relevance_rating": 2
         },
         {
           "agency_name": "Department of General Services",
           "is_relevant": true,
-          "relevance_explanation": "DGS is authorized to issue requests for proposals for long-term leases on state-owned sites for new or expanded energy generating stations identified in state studies.",
+          "relevance_explanation": "DGS is authorized to issue requests for proposals for long-term leases on state-owned land for energy generation and manages state procurement contracts affected by the bill's waiver provisions.",
           "relevance_rating": 4
         },
         {
           "agency_name": "Department of Housing and Community",
           "is_relevant": true,
-          "relevance_explanation": "The agency is responsible for administering the low-income residential weatherization component of the Electric Universal Service Program, which the bill restructures.",
-          "relevance_rating": 5
+          "relevance_explanation": "The Department (DHCD) remains responsible for administering the low-income residential weatherization component of the Electric Universal Service Program, which is restructured under the bill.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Department of Human Services",
           "is_relevant": true,
-          "relevance_explanation": "The bill transfers the administration of the Electric Universal Service Program (EUSP) to the Office of Home Energy Programs (OHEP), which is a unit within the Department of Human Services.",
+          "relevance_explanation": "DHS receives the administration of the Electric Universal Service Program (EUSP) from the Public Service Commission, making it a primary implementing agency for low-income energy assistance.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Department of Labor",
           "is_relevant": true,
-          "relevance_explanation": "The bill imposes new prevailing wage requirements on the construction of solar energy generating stations, which falls under the agency's responsibility for enforcing labor laws.",
-          "relevance_rating": 4
+          "relevance_explanation": "The Department is responsible for enforcing the prevailing wage requirements mandated by the bill for the construction of solar energy generating stations.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Department of Natural Resources",
           "is_relevant": true,
-          "relevance_explanation": "The Power Plant Research Program (PPRP) within DNR is required to conduct studies on permitting processes for energy development and identify priority energy sites.",
-          "relevance_rating": 5
+          "relevance_explanation": "The Department's Power Plant Research Program (PPRP) is tasked with a major study to streamline energy permitting and identify priority energy sites across the state.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Department of Planning",
           "is_relevant": true,
-          "relevance_explanation": "MDP is involved in the 'Site-Readiness Initiative' and coordinates with other agencies to identify parcels suitable for rapid energy deployment.",
+          "relevance_explanation": "The Department is a key partner in the 'Site-Readiness Initiative' to assess and inventory land for energy development projects.",
           "relevance_rating": 2
         },
         {
           "agency_name": "Department of Transportation",
           "is_relevant": true,
-          "relevance_explanation": "MDOT is tasked with studying methods for reducing transmission-constrained areas through the use of existing rights-of-way.",
-          "relevance_rating": 3
+          "relevance_explanation": "MDOT is required to conduct a study on methods for reducing transmission-constrained areas by using existing rights-of-way.",
+          "relevance_rating": 2
         },
         {
-          "agency_name": "Executive Commissions, Committees, Task Forces, and Advisory Boards",
+          "agency_name": "Department of the Environment",
           "is_relevant": true,
-          "relevance_explanation": "The bill requires input from panels or roundtables of interested parties and involves various committees in reviewing energy policy scenarios and implementation strategies.",
-          "relevance_rating": 2
+          "relevance_explanation": "MDE is responsible for administering the Building Energy Performance Standards (BEPS), managing alternative compliance fees, and conducting studies on the environmental impact of data centers.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Board of Public Works",
           "is_relevant": true,
-          "relevance_explanation": "The BPW is specifically authorized by the bill to waive the inclusion of termination for convenience clauses in multi-year state contracts for the procurement of renewable energy.",
-          "relevance_rating": 5
+          "relevance_explanation": "The Board of Public Works is granted specific authority to waive standard contract clauses for long-term state procurement of renewable energy.",
+          "relevance_rating": 4
+        },
+        {
+          "agency_name": "Executive Commissions, Committees, Task Forces, and Advisory Boards",
+          "is_relevant": true,
+          "relevance_explanation": "The bill references recommendations from the Building Energy Transition Implementation Task Force and requires coordination with the Energy Subcabinet.",
+          "relevance_rating": 2
         },
         {
           "agency_name": "Interagency Commission on School Construction",
           "is_relevant": true,
-          "relevance_explanation": "The bill allocates millions of dollars from the Strategic Energy Investment Fund (SEIF) to the IAC for upgrades to public school HVAC systems in Baltimore City.",
+          "relevance_explanation": "The IAC receives significant special fund allocations from SEIF specifically for upgrades to public school HVAC systems in Baltimore City.",
           "relevance_rating": 4
         },
         {
           "agency_name": "Maryland Clean Energy Center",
           "is_relevant": true,
-          "relevance_explanation": "The bill establishes the Green and Renewable Energy Efficiency for Nonprofits Loan Program and an associated fund within the MCEC.",
+          "relevance_explanation": "MCEC is the primary implementing agency for the new Green and Renewable Energy Efficiency for Nonprofits Loan Program established by the bill.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Maryland Energy Administration",
           "is_relevant": true,
-          "relevance_explanation": "MEA is the primary administrator of the Strategic Energy Investment Fund (SEIF) and is responsible for conducting alternative compliance fee auctions and managing numerous energy grant programs modified or created by the bill.",
+          "relevance_explanation": "MEA is a primary implementer, managing the Strategic Energy Investment Fund (SEIF), conducting reverse auctions for renewable grants, and administering incentives for on-site generating systems.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Office of Legislative Audits",
           "is_relevant": true,
-          "relevance_explanation": "The bill explicitly states that the Electric Universal Service Program, in its new administrative home, remains subject to audit by the Office of Legislative Audits.",
+          "relevance_explanation": "The bill specifically subjects the newly transferred and restructured Electric Universal Service Program to audits by the OLA.",
           "relevance_rating": 3
         },
         {
           "agency_name": "Office of the People's Counsel",
           "is_relevant": true,
-          "relevance_explanation": "As the advocate for residential utility consumers, the OPC is heavily impacted by the bill's changes to utility rate-making, cost recovery limitations, and clean capacity rating programs.",
-          "relevance_rating": 5
+          "relevance_explanation": "OPC is impacted as it represents residential utility consumers in the many new PSC proceedings, rate cases, and stakeholder groups mandated by the bill.",
+          "relevance_rating": 4
         },
         {
           "agency_name": "Public Service Commission",
           "is_relevant": true,
-          "relevance_explanation": "The PSC is the primary regulator for the utilities and programs affected by this bill, including rate plan approvals, the large load customer registry, CPCN process changes, and the successor net energy metering program.",
+          "relevance_explanation": "The PSC is the primary regulatory agency for the bill, tasked with oversight of utility rates, large load customers, electric system metrics, and the transition of the net energy metering program.",
           "relevance_rating": 5
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": "bb6d8f195a2c849a5a0fb42d3dd717e05f8de30788a054c30fd4d74dfd1a074f",
-    "qa_input_hash": "14bbdb41c323a06ee319d05aadef9b44de6520ca1054fffc4dc4dc6cb208fdea",
-    "last_updated_local": "2026-05-12T18:23:45.016656",
-    "bill_hash": "a677ea2d31b8b689057d80675c480e9b"
+    "qa_input_hash": "a9f361f2a2e6a99cd6b7fdf44643f3fc1b564ade19cbc8c929329719074f8b05",
+    "last_updated_local": "2026-08-07T05:33:08.304843",
+    "bill_hash": "363206b8f62fbd2a701f1eebcb87513d"
   },
   "SB0844": {
     "first_seen": "2026-02-11T06:08:37.867575",
@@ -142983,104 +142977,75 @@
   },
   "HB1516": {
     "first_seen": "2026-02-14T05:48:14.455385",
-    "last_updated": "2026-02-15T05:53:31.402900",
-    "last_seen": "2026-02-15T05:53:31.402900",
+    "last_updated": "2026-08-07T05:31:53.276654",
+    "last_seen": "2026-08-07T05:31:53.276654",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
       "amendments": [],
-      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1516.pdf"
+      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1516.pdf",
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB1516_fn.pdf"
     },
     "qa_results": {
-      "bill_summary": "This bill transfers the administration of the Electric Universal Service Program from the Public Service Commission to the Office of Home Energy Programs within the Department of Human Services. It also expands the authorized uses of the Strategic Energy Investment Fund to include fuel assistance programs in addition to electric assistance for low-income households.",
+      "bill_summary": "This bill transfers the administration of the Electric Universal Service Program from the Public Service Commission to the Office of Home Energy Programs within the Department of Human Services. It also expands the authorized uses of the Strategic Energy Investment Fund to include fuel assistance programs and allows for income eligibility waivers to align with other energy assistance programs.",
       "start_year": 2026,
       "end_year": null,
       "funding": 37000000,
-      "responsible_party": "The Office of Home Energy Programs within the Maryland Department of Human Services",
-      "stakeholders": "Low-income electric customers (at or below 200% of the federal poverty level), electric utility companies, and residential, commercial, and industrial ratepayers.",
-      "fiscal_impact_summary": "The bill mandates an annual collection of 37,000,000 dollars from electric customers to fund the Electric Universal Service Program, with 27,400,000 dollars collected from industrial and commercial classes and 9,600,000 dollars from the residential class. It transfers administrative responsibility and personnel from the Public Service Commission to the Department of Human Services. The bill also expands the allowable use of proceeds in the Strategic Energy Investment Fund to include fuel assistance programs.",
+      "responsible_party": "Office of Home Energy Programs in the Department of Human Services",
+      "stakeholders": "Low-income electric customers (at or below 200% of the federal poverty level), the Department of Human Services, and the Public Service Commission.",
+      "fiscal_impact_summary": "The bill codifies the existing practice of the Department of Human Services (DHS) administering the Electric Universal Service Program (EUSP). The bill maintains a mandated annual funding level of $37,000,000 for the EUSP, collected from industrial, commercial, and residential ratepayer classes. Additionally, the bill alters the authorized uses of the Strategic Energy Investment Fund (SEIF) to allow funds to be used for fuel assistance programs, providing OHEP with greater flexibility to utilize SEIF funds when federal LIHEAP funding is unavailable.",
       "agency_relevance": [
         {
           "agency_name": "Department of Human Services",
           "is_relevant": true,
-          "relevance_explanation": "The bill transfers the implementation and administration of the electric universal service program (EUSP), including bill assistance and arrearage retirement, to the Office of Home Energy Programs within this department.",
+          "relevance_explanation": "The bill transfers the primary administration of the Electric Universal Service Program (EUSP) to the Office of Home Energy Programs, which is a unit within the Department of Human Services. DHS will now be responsible for implementing the bill assistance and arrearage retirement components of the program.",
           "relevance_rating": 5
         },
         {
           "agency_name": "Public Service Commission",
           "is_relevant": true,
-          "relevance_explanation": "The bill transfers the primary administration of the EUSP away from the Commission to the Department of Human Services, though the Commission maintains oversight and annual reporting responsibilities.",
+          "relevance_explanation": "The bill transfers the statutory authority to establish and administer the Electric Universal Service Program from the PSC to DHS. However, the PSC retains oversight responsibility for certain program components and continues to determine funding allocations among customer classes.",
           "relevance_rating": 5
-        },
-        {
-          "agency_name": "Department of Housing and Community",
-          "is_relevant": true,
-          "relevance_explanation": "The bill explicitly confirms that this department remains responsible for administering the low-income residential weatherization component of the electric universal service program.",
-          "relevance_rating": 4
         },
         {
           "agency_name": "Maryland Energy Administration",
           "is_relevant": true,
-          "relevance_explanation": "The bill alters the authorized uses of the Strategic Energy Investment Fund (SEIF), which the MEA manages, to include providing supplemental funds for fuel assistance programs administered by the Department of Human Services.",
+          "relevance_explanation": "The Maryland Energy Administration manages the Strategic Energy Investment Fund (SEIF). The bill alters the authorized uses of SEIF proceeds, specifically allowing them to be used for fuel assistance programs within DHS, which provides more flexibility during federal funding gaps.",
           "relevance_rating": 4
+        },
+        {
+          "agency_name": "Department of Housing and Community",
+          "is_relevant": true,
+          "relevance_explanation": "The Department of Housing and Community Development remains responsible for the low-income residential weatherization component of the Electric Universal Service Program, and the bill updates statutory references to reflect the transfer of the broader program's administration.",
+          "relevance_rating": 3
         },
         {
           "agency_name": "Comptroller of Maryland",
           "is_relevant": true,
-          "relevance_explanation": "The bill directs the Comptroller to collect revenue from electric companies and place it into the electric universal service program fund, and to disburse weatherization funds to the Department of Housing and Community Development.",
-          "relevance_rating": 3
-        },
-        {
-          "agency_name": "Department of Budget and Management",
-          "is_relevant": true,
-          "relevance_explanation": "As the state's central personnel agency, DBM will oversee the transfer of employees from the Public Service Commission to the Department of Human Services and manage associated fiscal and budgetary adjustments.",
-          "relevance_rating": 3
+          "relevance_explanation": "The bill explicitly tasks the Comptroller with collecting revenue for the Electric Universal Service Program fund from electric companies and disbursing specific weatherization funds to DHCD as provided in the state budget.",
+          "relevance_rating": 2
         },
         {
           "agency_name": "Office of Legislative Audits",
           "is_relevant": true,
-          "relevance_explanation": "The bill explicitly mandates that the electric universal service program remains subject to audit by the Office of Legislative Audits.",
+          "relevance_explanation": "The bill contains a specific provision requiring the Electric Universal Service Program to be subject to audit by the Office of Legislative Audits to ensure financial accountability and compliance.",
           "relevance_rating": 2
         },
         {
-          "agency_name": "Office of the People's Counsel",
+          "agency_name": "Department of Budget and Management",
           "is_relevant": true,
-          "relevance_explanation": "The People's Counsel advocates for residential utility consumers, the primary beneficiaries of the assistance programs being reorganized and funded under this bill.",
+          "relevance_explanation": "As the state's central personnel and budget agency, DBM is relevant due to the bill's provisions regarding the transfer of employees between agencies without loss of rights or benefits, as well as the fiscal restructuring of program funding.",
           "relevance_rating": 2
-        },
-        {
-          "agency_name": "Governor's Office for Children",
-          "is_relevant": true,
-          "relevance_explanation": "The reorganization of low-income energy assistance programs aligns with this office's mission to reduce child poverty and support underinvested communities.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Maryland State Innovation Team",
-          "is_relevant": true,
-          "relevance_explanation": "This team's mission to enhance economic mobility and reduce child poverty is directly related to the state's strategies for providing energy assistance to low-income residents.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Office of the Attorney General",
-          "is_relevant": true,
-          "relevance_explanation": "The OAG provides legal counsel to the primary agencies (DHS, PSC, MEA) involved in the administrative transfer and the implementation of the bill's requirements.",
-          "relevance_rating": 2
-        },
-        {
-          "agency_name": "Governor's Office",
-          "is_relevant": true,
-          "relevance_explanation": "The Governor oversees the executive departments involved in this reorganization and is responsible for the state budget that must reflect the transfer of program funding and personnel.",
-          "relevance_rating": 1
         }
       ]
     },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": "6f6dd4d2475acf3a1fdf856469e5115ed0ac84af17beddd0895aaf780a02d141",
-    "last_updated_local": "2026-02-15T06:14:31.593862",
-    "bill_hash": "0c3d944ef20bf79743e44940b43bfc77"
+    "qa_input_hash": "f66798f6c676d038208ede5486641486137d03cd3e9ba62a3bec76a6840f05d1",
+    "last_updated_local": "2026-08-07T05:32:24.737897",
+    "bill_hash": "9411533d7e2c7a0d974b8d0c9676f94b"
   },
   "HB1517": {
     "first_seen": "2026-02-14T05:48:15.224408",
@@ -148030,8 +147995,8 @@
   },
   "HB1571": {
     "first_seen": "2026-02-14T05:48:58.120879",
-    "last_updated": "2026-08-06T07:35:03.108964",
-    "last_seen": "2026-08-06T07:35:03.108964",
+    "last_updated": "2026-08-07T05:31:55.368086",
+    "last_seen": "2026-08-07T05:31:55.368086",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -148127,8 +148092,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "0e70b076de7ddfbf35366625493545890f5a70f17b2dcf1140f8e73ceb16e322",
-    "last_updated_local": "2026-08-06T07:35:09.302963",
-    "bill_hash": "a7bd136a3889bd180e7c80170bb5b239"
+    "last_updated_local": "2026-08-07T05:32:00.386458",
+    "bill_hash": "feab8c2cfc97dc9c9593f945e2b96f70"
   },
   "HB1572": {
     "first_seen": "2026-02-14T05:48:58.858493",
