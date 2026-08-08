@@ -41483,8 +41483,8 @@
   },
   "HB0485": {
     "first_seen": "2026-02-06T19:32:22.393715",
-    "last_updated": "2026-07-09T06:19:35.598297",
-    "last_seen": "2026-07-09T06:19:35.598297",
+    "last_updated": "2026-08-08T05:16:22.537064",
+    "last_seen": "2026-08-08T05:16:22.537064",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -41562,8 +41562,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "7a1f7c5f09d221b13de964c7f52571cef71183280a72db2fd0446b2ef9f9d914",
-    "last_updated_local": "2026-07-09T06:19:36.383704",
-    "bill_hash": "1b4bab2f3a1a2553ee64c3061eb27e4e"
+    "last_updated_local": "2026-08-08T05:16:25.036205",
+    "bill_hash": "f6dd9a144a427ce7a143f5f8faf75b08"
   },
   "HB0486": {
     "first_seen": "2026-02-06T19:32:22.910294",
@@ -147995,8 +147995,8 @@
   },
   "HB1571": {
     "first_seen": "2026-02-14T05:48:58.120879",
-    "last_updated": "2026-08-07T05:31:55.368086",
-    "last_seen": "2026-08-07T05:31:55.368086",
+    "last_updated": "2026-08-08T05:16:23.886621",
+    "last_seen": "2026-08-08T05:16:23.886621",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -148092,8 +148092,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "0e70b076de7ddfbf35366625493545890f5a70f17b2dcf1140f8e73ceb16e322",
-    "last_updated_local": "2026-08-07T05:32:00.386458",
-    "bill_hash": "feab8c2cfc97dc9c9593f945e2b96f70"
+    "last_updated_local": "2026-08-08T05:16:25.369943",
+    "bill_hash": "a7bd136a3889bd180e7c80170bb5b239"
   },
   "HB1572": {
     "first_seen": "2026-02-14T05:48:58.858493",
