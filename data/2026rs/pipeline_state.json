@@ -41483,8 +41483,8 @@
   },
   "HB0485": {
     "first_seen": "2026-02-06T19:32:22.393715",
-    "last_updated": "2026-08-11T05:24:09.847635",
-    "last_seen": "2026-08-11T05:24:09.847635",
+    "last_updated": "2026-08-13T05:31:58.723935",
+    "last_seen": "2026-08-13T05:31:58.723935",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -41562,8 +41562,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "7a1f7c5f09d221b13de964c7f52571cef71183280a72db2fd0446b2ef9f9d914",
-    "last_updated_local": "2026-08-11T05:24:13.893450",
-    "bill_hash": "1b4bab2f3a1a2553ee64c3061eb27e4e"
+    "last_updated_local": "2026-08-13T05:31:59.509433",
+    "bill_hash": "f6dd9a144a427ce7a143f5f8faf75b08"
   },
   "HB0486": {
     "first_seen": "2026-02-06T19:32:22.910294",
