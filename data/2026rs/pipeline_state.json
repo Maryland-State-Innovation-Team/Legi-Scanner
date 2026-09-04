@@ -41225,15 +41225,15 @@
   },
   "HB0482": {
     "first_seen": "2026-02-06T19:32:20.535470",
-    "last_updated": "2026-02-06T19:32:21.160379",
-    "last_seen": "2026-02-06T19:32:21.160379",
+    "last_updated": "2026-09-04T09:15:35.717693",
+    "last_seen": "2026-09-04T09:15:35.717693",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
     "files": {
-      "fiscal_note": "C:\\git\\Legi-Scanner\\data\\2026rs\\pdf\\HB0482_fn.pdf",
-      "bill_pdf": "C:\\git\\Legi-Scanner\\data\\2026rs\\pdf\\HB0482.pdf",
+      "fiscal_note": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0482_fn.pdf",
+      "bill_pdf": "/home/runner/work/Legi-Assist/Legi-Assist/data/2026rs/pdf/HB0482.pdf",
       "amendments": []
     },
     "qa_results": {
@@ -41340,8 +41340,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "96e0fe7aa92ce0f9af37a7b736870e994efec903d0809baa69d81944d6aa4dbd",
-    "last_updated_local": "2026-02-07T01:40:43.122390",
-    "bill_hash": "817076536e9d3313f11e6b20c276dbc5"
+    "last_updated_local": "2026-09-04T09:15:37.760885",
+    "bill_hash": "a165f7b578a8b6bd30d828e7407b059a"
   },
   "HB0483": {
     "first_seen": "2026-02-06T19:32:21.278062",
@@ -147995,8 +147995,8 @@
   },
   "HB1571": {
     "first_seen": "2026-02-14T05:48:58.120879",
-    "last_updated": "2026-08-30T05:06:30.010173",
-    "last_seen": "2026-08-30T05:06:30.010173",
+    "last_updated": "2026-09-04T09:15:36.586833",
+    "last_seen": "2026-09-04T09:15:36.586833",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -148092,8 +148092,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "0e70b076de7ddfbf35366625493545890f5a70f17b2dcf1140f8e73ceb16e322",
-    "last_updated_local": "2026-08-30T05:06:31.442898",
-    "bill_hash": "feab8c2cfc97dc9c9593f945e2b96f70"
+    "last_updated_local": "2026-09-04T09:15:38.096363",
+    "bill_hash": "b9ac7ecfb6739b366d8e7c20ee45aabe"
   },
   "HB1572": {
     "first_seen": "2026-02-14T05:48:58.858493",
