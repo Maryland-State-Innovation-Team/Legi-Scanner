@@ -147995,8 +147995,8 @@
   },
   "HB1571": {
     "first_seen": "2026-02-14T05:48:58.120879",
-    "last_updated": "2026-09-04T09:15:36.586833",
-    "last_seen": "2026-09-04T09:15:36.586833",
+    "last_updated": "2026-09-05T08:44:44.131416",
+    "last_seen": "2026-09-05T08:44:44.131416",
     "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
@@ -148092,8 +148092,8 @@
     "amended_status": "original",
     "amend_input_hash": null,
     "qa_input_hash": "0e70b076de7ddfbf35366625493545890f5a70f17b2dcf1140f8e73ceb16e322",
-    "last_updated_local": "2026-09-04T09:15:38.096363",
-    "bill_hash": "b9ac7ecfb6739b366d8e7c20ee45aabe"
+    "last_updated_local": "2026-09-05T08:44:45.108631",
+    "bill_hash": "feab8c2cfc97dc9c9593f945e2b96f70"
   },
   "HB1572": {
     "first_seen": "2026-02-14T05:48:58.858493",
